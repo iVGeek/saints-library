@@ -1,0 +1,27 @@
+---
+interface Props {
+  events: { year?: string; event: string }[];
+  dark?: boolean;
+}
+
+const { events, dark = false } = Astro.props;
+---
+
+<ol class="relative space-y-6 border-l-2 border-gold-600/50 pl-6">
+  {events.map((e, i) => (
+    <li class:list={['relative', `reveal reveal-${Math.min(i, 4)}`]}>
+      <span
+        class="absolute -left-[30px] top-1.5 flex h-4 w-4 items-center justify-center rounded-full border border-gold-500"
+        aria-hidden="true"
+      >
+        <span class="h-2 w-2 rounded-full bg-gold-500" />
+      </span>
+      <p class:list={['font-display text-sm font-semibold uppercase tracking-[0.18em]', dark ? 'text-gold-400' : 'text-gold-700']}>
+        {e.year ?? '—'}
+      </p>
+      <p class:list={['mt-1 font-heading text-xl leading-snug', dark ? 'text-parchment-100' : 'text-ink-800']}>
+        {e.event}
+      </p>
+    </li>
+  ))}
+</ol>

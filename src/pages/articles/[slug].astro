@@ -1,0 +1,74 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionDivider from '../../components/SectionDivider.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE } from '../../data/site';
+import { slug } from '../../utils/slugs';
+import { imageSrc } from '../../utils/images';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((a) => ({ params: { slug: slug(a.id) }, props: { article: a } }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const { data } = article;
+const hero = imageSrc(data.heroImage ?? 'Cimabue_Saint_Francis_Fragment.jpg', 1200);
+
+const pageSlug = slug(article.id);
+
+const articleJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: data.title,
+  description: data.description,
+  datePublished: data.pubDate.toISOString(),
+  author: { '@type': 'Person', name: data.author },
+  publisher: { '@type': 'Organization', name: SITE.name },
+  mainEntityOfPage: new URL(`/articles/${pageSlug}`, SITE.url).href,
+};
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  canonicalPath={`/articles/${pageSlug}`}
+  jsonLd={articleJsonLd}
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-3xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Articles', href: '/articles' }, { label: data.title }]} />
+
+    <p class="label">{data.category}</p>
+    <h1 class="mt-4 font-display text-3xl font-semibold leading-tight text-navy-900 sm:text-4xl">{data.title}</h1>
+    <div class="mt-4 flex flex-wrap items-center gap-4 font-body text-ink-500">
+      <span>{data.author}</span>
+      <span aria-hidden="true">·</span>
+      <time datetime={data.pubDate.toISOString()}>
+        {data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+      </time>
+    </div>
+
+    {hero && (
+      <figure class="arch-frame mt-8">
+        <img src={hero} alt="Illustration from the saints library" loading="lazy" class="w-full object-cover" />
+      </figure>
+    )}
+
+    <div class="saint-prose mt-10">
+      <Content />
+    </div>
+
+    <div class="mt-14">
+      <SectionDivider />
+    </div>
+
+    <p class="mt-8 text-center font-body text-ink-500">
+      <a href="/articles" class="font-heading text-gold-700 underline decoration-gold-600/50 underline-offset-4 hover:text-burgundy-700">
+        ← Back to the reading room
+      </a>
+    </p>
+  </div>
+</BaseLayout>

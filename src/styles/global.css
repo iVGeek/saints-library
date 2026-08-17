@@ -1,0 +1,360 @@
+@import "@fontsource/cinzel/600.css";
+@import "@fontsource/cinzel/700.css";
+@import "@fontsource-variable/cormorant-garamond";
+@import "@fontsource/eb-garamond/400.css";
+@import "@fontsource/eb-garamond/500.css";
+@import "@fontsource/eb-garamond/600.css";
+@import "@fontsource/eb-garamond/400-italic.css";
+@import "@fontsource/eb-garamond/500-italic.css";
+@import "tailwindcss";
+
+/* =============================================================
+   THE COMMUNION OF SAINTS — DESIGN TOKENS
+   A "cathedral library": deep indigo, burgundy, forest, antique
+   gold, parchment, candle-flame amber.
+   ============================================================= */
+@theme {
+  /* Ink & warm neutrals (text on parchment) */
+  --color-ink-950: #191512;
+  --color-ink-900: #221d18;
+  --color-ink-800: #2e2722;
+  --color-ink-700: #3d352e;
+  --color-ink-600: #55493f;
+  --color-ink-500: #6f635a;
+  --color-ink-400: #8d827a;
+  --color-ink-300: #b3a9a0;
+
+  /* Deep indigo / navy (dark liturgical sections) */
+  --color-navy-950: #0a1022;
+  --color-navy-900: #111a36;
+  --color-navy-800: #1a2749;
+  --color-navy-700: #24355f;
+  --color-navy-600: #324675;
+  --color-navy-500: #466096;
+
+  /* Burgundy */
+  --color-burgundy-900: #3d0d15;
+  --color-burgundy-800: #56131f;
+  --color-burgundy-700: #6d1a28;
+  --color-burgundy-600: #8a2434;
+  --color-burgundy-500: #a63a4b;
+
+  /* Forest green */
+  --color-forest-900: #112317;
+  --color-forest-800: #1a3220;
+  --color-forest-700: #23432d;
+  --color-forest-600: #2f573c;
+  --color-forest-500: #3c6e4d;
+
+  /* Antique gold */
+  --color-gold-700: #8a6523;
+  --color-gold-600: #a87f2e;
+  --color-gold-500: #c6a155;
+  --color-gold-400: #d6b97c;
+  --color-gold-300: #e5d3a7;
+  --color-gold-200: #efe4c7;
+
+  /* Parchment & ivory (light surfaces) */
+  --color-parchment-300: #e0d0b4;
+  --color-parchment-200: #e9dcc4;
+  --color-parchment-100: #f1e7d4;
+  --color-parchment-50: #f7f0e2;
+  --color-ivory: #fcf8f0;
+
+  /* Candle-flame amber (glow accents) */
+  --color-flame-500: #e8a94b;
+  --color-flame-400: #f2c07a;
+  --color-flame-300: #fbdba7;
+
+  /* Typography */
+  --font-display: "Cinzel", "Palatino", "Times New Roman", serif;
+  --font-heading: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --font-body: "EB Garamond", Georgia, "Times New Roman", serif;
+
+  /* Soft, cathedral-glow shadows */
+  --shadow-glow: 0 0 40px 0 rgba(198, 161, 85, 0.28);
+  --shadow-candle: 0 14px 34px -12px rgba(21, 17, 14, 0.35);
+  --shadow-deep: 0 22px 50px -18px rgba(10, 16, 34, 0.45);
+
+  /* Motion */
+  --ease-reverent: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Radius */
+  --radius-arch: 11rem 11rem 0.5rem 0.5rem;
+}
+
+/* =============================================================
+   BASE
+   ============================================================= */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-parchment-50 text-ink-800 font-body antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display;
+    letter-spacing: 0.02em;
+  }
+
+  h4,
+  h5,
+  h6 {
+    @apply font-heading font-semibold;
+    letter-spacing: 0.015em;
+  }
+
+  ::selection {
+    background-color: var(--color-gold-300);
+    color: var(--color-navy-950);
+  }
+
+  /* Accessible focus */
+  :focus-visible {
+    outline: 2px solid var(--color-gold-600);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  img {
+    @apply select-none;
+  }
+}
+
+/* =============================================================
+   REUSABLE COMPONENT CLASSES
+   ============================================================= */
+@layer components {
+  /* ——— Arch-shaped image frames (stained-glass window) ——— */
+  .arch-frame {
+    border-radius: var(--radius-arch);
+    overflow: hidden;
+    position: relative;
+    border: 1px solid var(--color-gold-600);
+    box-shadow: inset 0 0 0 4px rgba(198, 161, 85, 0.18), var(--shadow-candle);
+  }
+
+  .arch-frame-inner {
+    border-radius: calc(var(--radius-arch) * 0.85);
+    overflow: hidden;
+    border: 1px solid rgba(198, 161, 85, 0.45);
+  }
+
+  /* ——— Gold rules ——— */
+  .gold-rule {
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      var(--color-gold-500),
+      transparent
+    );
+  }
+
+  /* ——— Stained-glass section divider ——— */
+  .section-divider {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: var(--color-gold-600);
+  }
+  .section-divider::before,
+  .section-divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      var(--color-gold-500)
+    );
+  }
+  .section-divider::after {
+    background: linear-gradient(
+      90deg,
+      var(--color-gold-500),
+      transparent
+    );
+  }
+
+  /* ——— Buttons ——— */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-sm px-5 py-2.5 font-heading text-lg font-semibold tracking-wide transition-colors duration-300;
+  }
+  .btn-gold {
+    @apply bg-gold-600 text-ivory hover:bg-gold-500;
+    box-shadow: inset 0 -2px 0 rgba(0, 0, 0, 0.15);
+  }
+  .btn-ghost {
+    @apply border border-gold-600/60 text-gold-700 hover:border-gold-500 hover:bg-gold-600/10;
+  }
+  .btn-dark {
+    @apply bg-navy-900 text-gold-300 hover:bg-navy-800;
+  }
+
+  /* ——— Chips (patronage, filters, tags) ——— */
+  .chip {
+    @apply inline-flex items-center gap-1 rounded-full border border-gold-600/50 bg-ivory/60 px-3 py-1 font-heading text-[15px] font-medium text-ink-700 transition-colors duration-200 hover:border-gold-500 hover:bg-gold-600/10;
+  }
+  .chip-active {
+    @apply border-gold-600 bg-gold-600 text-ivory hover:bg-gold-500;
+  }
+
+  /* ——— Candle-glow card ——— */
+  .card-glow {
+    @apply rounded-lg border border-gold-600/25 bg-ivory/80 shadow-candle transition-all duration-500;
+  }
+  .card-glow:hover {
+    @apply border-gold-500/60 shadow-glow;
+    transform: translateY(-2px);
+  }
+
+  /* ——— Callout ——— */
+  .callout {
+    @apply rounded-md border-l-4 border-gold-600 bg-gold-600/10 px-5 py-4 text-ink-700;
+  }
+  .callout-tradition {
+    @apply border-l-4 border-forest-500 bg-forest-500/10 px-5 py-4 text-ink-700;
+  }
+}
+
+/* =============================================================
+   PROSE — saint biography typography
+   ============================================================= */
+.saint-prose {
+  @apply text-lg leading-relaxed text-ink-800;
+}
+.saint-prose > p {
+  @apply my-5;
+}
+.saint-prose h2 {
+  @apply mt-12 mb-5 font-display text-2xl font-semibold text-navy-900;
+  letter-spacing: 0.04em;
+}
+.saint-prose h3 {
+  @apply mt-9 mb-3 font-display text-xl font-semibold text-navy-800;
+  letter-spacing: 0.03em;
+}
+.saint-prose ul {
+  @apply my-5 list-disc space-y-2 pl-6;
+}
+.saint-prose ol {
+  @apply my-5 list-decimal space-y-2 pl-6;
+}
+.saint-prose blockquote {
+  @apply my-7 border-l-2 border-gold-600 pl-5 font-heading text-2xl font-medium italic text-ink-700;
+}
+.saint-prose strong {
+  @apply font-semibold text-ink-900;
+}
+.saint-prose a {
+  @apply text-burgundy-700 underline decoration-gold-600 underline-offset-2 transition-colors hover:text-burgundy-600;
+}
+.saint-prose hr {
+  @apply my-10 border-0;
+}
+
+/* =============================================================
+   UTILITIES
+   ============================================================= */
+/* Parchment texture — layered radial gradients, no image dependency */
+.parchment-bg {
+  background-color: var(--color-parchment-50);
+  background-image:
+    radial-gradient(
+      ellipse 120% 60% at 50% -20%,
+      rgba(198, 161, 85, 0.08),
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 90% 50% at 85% 110%,
+      rgba(138, 36, 52, 0.05),
+      transparent 55%
+    ),
+    radial-gradient(
+      ellipse 70% 40% at 8% 100%,
+      rgba(35, 67, 45, 0.05),
+      transparent 55%
+    );
+}
+
+.navy-bg {
+  background-color: var(--color-navy-950);
+  background-image:
+    radial-gradient(
+      ellipse 100% 65% at 50% -25%,
+      rgba(70, 96, 150, 0.35),
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 60% 45% at 90% 110%,
+      rgba(138, 36, 52, 0.25),
+      transparent 55%
+    ),
+    radial-gradient(
+      ellipse 50% 35% at 5% 105%,
+      rgba(35, 67, 45, 0.3),
+      transparent 55%
+    );
+}
+
+/* Small-caps label */
+.label {
+  @apply font-display text-xs font-semibold uppercase tracking-[0.28em] text-gold-700;
+}
+.label-dark {
+  @apply font-display text-xs font-semibold uppercase tracking-[0.28em] text-gold-400;
+}
+
+/* Monogram / monochrome image treatment for vintage art */
+.img-vintage {
+  filter: sepia(0.25) contrast(0.97) brightness(0.98);
+}
+
+/* =============================================================
+   MOTION — gentle, reverent, reduced-motion friendly
+   ============================================================= */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.reveal {
+  animation: fadeInUp 0.8s var(--ease-reverent) both;
+}
+
+/* Staggered entrance helpers */
+.reveal-1 { animation-delay: 0.1s; }
+.reveal-2 { animation-delay: 0.2s; }
+.reveal-3 { animation-delay: 0.3s; }
+.reveal-4 { animation-delay: 0.4s; }
+
+@keyframes candleFlicker {
+  0%, 100% { opacity: 0.85; }
+  50% { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

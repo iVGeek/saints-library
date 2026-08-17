@@ -1,0 +1,27 @@
+---
+interface Props {
+  sources: string[];
+  note?: string;
+  dark?: boolean;
+}
+
+const { sources, note, dark = false } = Astro.props;
+---
+
+<div class:list={['rounded-md border p-6', dark ? 'border-gold-600/30 bg-navy-900/40' : 'border-gold-600/30 bg-ivory/70']}>
+  {note && (
+    <p class:list={['mb-4 font-body text-base leading-relaxed', dark ? 'text-parchment-100/70' : 'text-ink-600']}>
+      {note}
+    </p>
+  )}
+  <ul class="space-y-2.5">
+    {sources.map((s) => (
+      <li class:list={['flex items-baseline gap-3 font-body text-[17px]', dark ? 'text-parchment-100/80' : 'text-ink-700']}>
+        <svg viewBox="0 0 24 24" class:list={['h-3 w-3 shrink-0 translate-y-[-2px]', dark ? 'text-gold-500' : 'text-gold-700']} fill="currentColor" aria-hidden="true">
+          <path d="M12 2 L20 20 H4 Z" />
+        </svg>
+        <span>{s}</span>
+      </li>
+    ))}
+  </ul>
+</div>

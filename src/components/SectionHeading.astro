@@ -1,0 +1,21 @@
+---
+interface Props {
+  label?: string;
+  title: string;
+  sub?: string;
+  dark?: boolean;
+  align?: 'left' | 'center';
+  id?: string;
+}
+
+const { label, title, sub, dark = false, align = 'left', id } = Astro.props;
+---
+
+<div class:list={['reveal', align === 'center' && 'text-center']}>
+  {label && <p class:list={['label mb-3', dark ? 'label-dark' : '']}>{label}</p>}
+  <h2 class:list={['font-display text-3xl font-semibold sm:text-4xl', dark ? 'text-gold-200' : 'text-navy-900']} id={id}>
+    {title}
+  </h2>
+  {sub && <p class:list={['mt-3 max-w-2xl font-heading text-xl text-ink-600', align === 'center' && 'mx-auto']}>{sub}</p>}
+  <div class:list={['gold-rule mt-5', align === 'center' && 'mx-auto', align === 'center' ? 'w-40' : 'w-24']} />
+</div>

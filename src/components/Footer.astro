@@ -1,0 +1,58 @@
+---
+import { SITE, NAV } from '../data/site';
+const year = new Date().getFullYear();
+---
+
+<footer class="navy-bg mt-20 border-t border-gold-600/30">
+  <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+    <div class="section-divider mb-10" aria-hidden="true">
+      <svg viewBox="0 0 24 24" class="h-6 w-6 text-gold-500">
+        <path d="M12 3 L21 21 H3 Z" fill="none" stroke="currentColor" stroke-width="1.4" />
+        <path d="M12 10 L15.5 17 H8.5 Z" fill="currentColor" opacity="0.5" />
+      </svg>
+    </div>
+
+    <div class="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
+      <div>
+        <p class="font-display text-xl font-semibold text-gold-300">{SITE.name}</p>
+        <p class="mt-3 max-w-md font-body text-parchment-100/70">
+          A digital library devoted to the lives, writings, and patronage of the Catholic saints —
+          built with reverence, accuracy, and beauty, from the early Church to our own times.
+        </p>
+        <p class="mt-4 font-heading text-lg italic text-gold-400/90">
+          “In the lives of the saints, God paints a portrait of His own mercy.”
+        </p>
+      </div>
+
+      <nav aria-label="Explore">
+        <p class="label-dark mb-4">Explore</p>
+        <ul class="space-y-2 font-body text-parchment-100/80">
+          {NAV.map((item) => (
+            <li>
+              <a href={item.href} class="transition-colors hover:text-gold-300">{item.label}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <div>
+        <p class="label-dark mb-4">A Note on Sources</p>
+        <p class="font-body text-sm leading-relaxed text-parchment-100/65">
+          Biographies are original compositions drawing on public-domain works and official
+          Vatican documents, cited on each page. Images are public domain or openly licensed;
+          full credits accompany every image.
+        </p>
+        <a href="/about" class="mt-3 inline-block font-heading text-gold-400 underline decoration-gold-600/50 underline-offset-4 hover:text-gold-300">
+          Read our methodology →
+        </a>
+      </div>
+    </div>
+
+    <div class="mt-12 border-t border-gold-600/20 pt-6 text-center font-body text-sm text-parchment-100/50">
+      <p>© {year} {SITE.name}. Text and design © the project contributors. All rights reserved.</p>
+      <p class="mt-1">
+        Catholic tradition is held in trust; this site seeks to serve it faithfully and never to distort it.
+      </p>
+    </div>
+  </div>
+</footer>

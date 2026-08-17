@@ -1,0 +1,292 @@
+---
+import { SITE, NAV } from '../data/site';
+
+interface Props {
+  showSearch?: boolean;
+}
+
+const { showSearch = true } = Astro.props;
+const pathname = Astro.url.pathname;
+const isActive = (href: string) => pathname === href || pathname.startsWith(href + '/');
+---
+
+<a
+  href="#main"
+  class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-ivory focus:px-4 focus:py-2 focus:font-semibold focus:text-navy-900"
+  >Skip to content</a
+>
+
+<header class="navy-bg border-b border-gold-600/30">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-6 px-4 py-4 sm:px-6">
+    <a href="/" class="group flex items-center gap-3" aria-label="The Communion of Saints — home">
+      <svg viewBox="0 0 48 48" class="h-11 w-11 shrink-0" aria-hidden="true">
+        <defs>
+          <linearGradient id="archGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#4a6099" />
+            <stop offset="1" stop-color="#1a2749" />
+          </linearGradient>
+        </defs>
+        <path d="M4 46 V22 Q4 6 24 6 Q44 6 44 22 V46 Z" fill="url(#archGrad)" stroke="#c6a155" stroke-width="2.5" />
+        <path d="M10 42 V23 Q10 12 24 12 Q38 12 38 23 V42 Z" fill="none" stroke="#c6a155" stroke-width="1" opacity="0.6" />
+        <path d="M24 6 V40 M10 24 H38" stroke="#d6b97c" stroke-width="1.2" opacity="0.7" />
+        <path d="M24 16 L26.8 22.4 L33.6 22.8 L28.4 27 L29.9 33.6 L24 30 L18.1 33.6 L19.6 27 L14.4 22.8 L21.2 22.4 Z" fill="#d6b97c" opacity="0.9" />
+        <circle cx="24" cy="23" r="3.2" fill="#e5d3a7" />
+      </svg>
+      <div>
+        <p class="font-display text-lg font-semibold leading-tight text-gold-300 sm:text-xl">
+          The Communion of Saints
+        </p>
+        <p class="font-display text-[10px] uppercase tracking-[0.3em] text-gold-500/80 sm:text-[11px]">
+          Digital Library
+        </p>
+      </div>
+    </a>
+
+    <nav class="hidden items-center gap-1 lg:flex" aria-label="Primary">
+      {NAV.map((item) => (
+        <a
+          href={item.href}
+          class:list={[
+            'rounded px-3 py-2 font-heading text-lg font-medium transition-colors',
+            isActive(item.href)
+              ? 'text-gold-300 underline decoration-gold-500 underline-offset-8'
+              : 'text-parchment-100/85 hover:text-gold-300',
+          ]}
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+
+    <div class="flex items-center gap-2">
+      {showSearch && (
+        <button
+          id="search-trigger"
+          type="button"
+          class="btn btn-dark !py-2 font-heading"
+          aria-haspopup="dialog"
+          aria-expanded="false"
+        >
+          <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" />
+            <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+          </svg>
+          <span class="hidden sm:inline">Search</span>
+        </button>
+      )}
+      <button
+        id="menu-toggle"
+        type="button"
+        class="rounded border border-gold-600/50 p-2 text-gold-300 lg:hidden"
+        aria-label="Open menu"
+        aria-expanded="false"
+      >
+        <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <path d="M4 7h16M4 12h16M4 17h16" />
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile nav -->
+  <nav id="mobile-nav" hidden class="border-t border-gold-600/25 px-4 pb-4 lg:hidden" aria-label="Mobile">
+    <ul class="mt-2 space-y-1">
+      {NAV.map((item) => (
+        <li>
+          <a
+            href={item.href}
+            class:list={[
+              'block rounded px-3 py-2 font-heading text-lg',
+              isActive(item.href) ? 'bg-gold-600/15 text-gold-300' : 'text-parchment-100/85',
+            ]}
+          >
+            {item.label}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+</header>
+
+<!-- ===== Search overlay ===== -->
+<div id="search-overlay" hidden class="fixed inset-0 z-50" role="dialog" aria-modal="true" aria-label="Search saints and patrons">
+  <div id="search-backdrop" class="absolute inset-0 bg-navy-950/80 backdrop-blur-sm" data-close></div>
+  <div class="relative mx-auto mt-[8vh] w-[min(44rem,92vw)]">
+    <div class="navy-bg overflow-hidden rounded-lg border border-gold-600/50 shadow-deep">
+      <form id="search-form" class="flex items-center gap-3 border-b border-gold-600/30 px-4 py-3" role="search">
+        <svg viewBox="0 0 24 24" class="h-5 w-5 shrink-0 text-gold-400" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" />
+          <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+        </svg>
+        <label for="search-input" class="sr-only">Search by name, patron, or cause</label>
+        <input
+          id="search-input"
+          type="search"
+          autocomplete="off"
+          placeholder="Search by name, patron saint, or cause…"
+          class="w-full bg-transparent font-heading text-xl text-ivory placeholder:text-gold-500/70 focus:outline-none"
+        />
+        <button type="button" id="search-close" class="rounded px-2 py-1 font-heading text-lg text-gold-400 hover:text-ivory" data-close>
+          Esc
+        </button>
+      </form>
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto p-2"></div>
+      <div id="search-status" class="px-5 pb-4 pt-1 font-body text-parchment-100/60"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  import Fuse from 'fuse.js';
+  import { SITE } from '../data/site';
+
+  const indexUrl = '/search-index.json';
+
+  interface IndexedSaint {
+    slug: string;
+    name: string;
+    honorific: string;
+    feast: string;
+    feastMonth: number;
+    patronage: string[];
+    summary: string;
+    image: string | null;
+    imageAlt: string | null;
+  }
+
+  const overlay = document.getElementById('search-overlay') as HTMLElement;
+  const trigger = document.getElementById('search-trigger') as HTMLButtonElement | null;
+  const input = document.getElementById('search-input') as HTMLInputElement;
+  const resultsEl = document.getElementById('search-results') as HTMLElement;
+  const statusEl = document.getElementById('search-status') as HTMLElement;
+  const form = document.getElementById('search-form') as HTMLFormElement;
+
+  let fuse: Fuse<IndexedSaint> | null = null;
+
+  async function loadIndex() {
+    try {
+      const res = await fetch(indexUrl);
+      const data: IndexedSaint[] = await res.json();
+      fuse = new Fuse(data, {
+        keys: [
+          { name: 'name', weight: 0.5 },
+          { name: 'aliases', weight: 0.3 },
+          { name: 'patronage', weight: 0.25 },
+          { name: 'vocation', weight: 0.15 },
+          { name: 'region', weight: 0.1 },
+          { name: 'religiousOrder', weight: 0.1 },
+          { name: 'summary', weight: 0.1 },
+        ],
+        threshold: 0.4,
+        includeMatches: true,
+        ignoreLocation: true,
+      });
+    } catch {
+      statusEl.textContent = 'Search index could not be loaded.';
+    }
+  }
+
+  function esc(s: string): string {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c] as string));
+  }
+
+  function render(query: string) {
+    if (!fuse) {
+      statusEl.textContent = 'Loading search index…';
+      return;
+    }
+    const q = query.trim();
+    const results = q ? fuse.search(q).slice(0, 8) : [];
+    statusEl.textContent = q
+      ? `${results.length} ${results.length === 1 ? 'saint' : 'saints'} found`
+      : 'Type a name, a need, or a cause.';
+
+    if (!q || results.length === 0) {
+      resultsEl.innerHTML =
+        q.length > 0
+          ? `<p class="px-4 py-6 text-center font-heading text-xl text-gold-300/70">No saints found for “${esc(q)}”.<br><span class="text-base text-parchment-100/60">Try “travelers”, “lost items”, “students”, or a name.</span></p>`
+          : '';
+      return;
+    }
+
+    resultsEl.innerHTML = results
+      .map(({ item, matches }) => {
+        const hl = (field: string, fallback: string) => {
+          const m = matches?.find((mm) => mm.key === field);
+          if (!m?.value || m.indices.length === 0) return esc(fallback);
+          let out = '';
+          let pos = 0;
+          for (const [a, b] of m.indices) {
+            out += esc(m.value.slice(pos, a)) + `<mark class="bg-gold-600/30 text-gold-200">` + esc(m.value.slice(a, b + 1)) + `</mark>`;
+            pos = b + 1;
+          }
+          return out + esc(m.value.slice(pos));
+        };
+        return `
+        <a href="/saints/${item.slug}" class="group flex items-center gap-4 rounded-md px-3 py-2.5 transition-colors hover:bg-gold-600/10" data-result>
+          <img src="${item.image ? esc(item.image) : '/placeholder.svg'}" alt="" loading="lazy" class="arch-frame h-14 w-11 shrink-0 object-cover" />
+          <span class="min-w-0">
+            <span class="block truncate font-heading text-lg font-semibold text-ivory group-hover:text-gold-300">${hl('name', item.name)}</span>
+            <span class="block truncate font-body text-sm text-parchment-100/65">${hl('patronage', '') || esc(item.feast)}</span>
+          </span>
+          <span class="ml-auto shrink-0 text-xs text-gold-500">${esc(item.feast)}</span>
+        </a>`;
+      })
+      .join('');
+  }
+
+  function open() {
+    overlay.hidden = false;
+    trigger?.setAttribute('aria-expanded', 'true');
+    setTimeout(() => input.focus(), 30);
+    if (!fuse) loadIndex();
+  }
+  function close() {
+    overlay.hidden = true;
+    trigger?.setAttribute('aria-expanded', 'false');
+  }
+
+  trigger?.addEventListener('click', open);
+  overlay.addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    if (t.closest('[data-close]')) close();
+  });
+  input.addEventListener('input', () => {
+    const q = input.value;
+    render(q);
+  });
+  form.addEventListener('submit', (e) => e.preventDefault());
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && !overlay.hidden) close();
+    if (e.key === '/' && (e.target as HTMLElement).tagName !== 'INPUT') {
+      e.preventDefault();
+      open();
+    }
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') close();
+  });
+
+  // Keyboard nav through results
+  resultsEl.addEventListener('keydown', (e) => {
+    const items = Array.from(resultsEl.querySelectorAll<HTMLAnchorElement>('[data-result]'));
+    if (items.length === 0) return;
+    const idx = items.indexOf(document.activeElement as HTMLAnchorElement);
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      (items[idx + 1] ?? items[0]).focus();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      (items[idx - 1] ?? items[items.length - 1]).focus();
+    }
+  });
+
+  // Mobile nav toggle
+  const menuToggle = document.getElementById('menu-toggle') as HTMLButtonElement | null;
+  const mobileNav = document.getElementById('mobile-nav') as HTMLElement | null;
+  menuToggle?.addEventListener('click', () => {
+    const open = mobileNav?.hidden ?? false;
+    if (mobileNav) mobileNav.hidden = !open;
+    menuToggle.setAttribute('aria-expanded', String(open));
+  });
+</script>

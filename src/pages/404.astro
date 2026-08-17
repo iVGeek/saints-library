@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Page Not Found" description="This page has wandered away from the library." bodyClass="navy-bg">
+  <section class="flex min-h-[60vh] flex-col items-center justify-center px-4 text-center">
+    <p class="font-display text-7xl font-semibold text-gold-500/60">404</p>
+    <h1 class="mt-4 font-display text-3xl font-semibold text-ivory">This page has wandered from the library</h1>
+    <p class="mt-4 max-w-md font-heading text-xl text-parchment-100/70">
+      The road you sought may have been repaved. Let us guide you back to the sanctuary.
+    </p>
+    <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
+      <a href="/" class="btn btn-gold">Return home</a>
+      <a href="/saints" class="btn btn-ghost">Browse the directory</a>
+      <a href="/patronage" class="btn btn-ghost">Patronage explorer</a>
+    </div>
+  </section>
+</BaseLayout>

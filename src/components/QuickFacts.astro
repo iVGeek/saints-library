@@ -1,0 +1,38 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { formatFeast } from '../data/calendar';
+
+interface Props {
+  saint: CollectionEntry<'saints'>;
+}
+
+const { data } = Astro.props.saint;
+
+const facts: { label: string; value: string; href?: string }[] = [];
+
+if (data.born || data.birthYear) facts.push({ label: 'Born', value: data.born ?? String(data.birthYear) });
+if (data.died || data.deathYear) facts.push({ label: 'Died', value: data.died ?? String(data.deathYear) });
+if (data.birthPlace) facts.push({ label: 'Birthplace', value: data.birthPlace });
+if (data.deathPlace) facts.push({ label: 'Deathplace', value: data.deathPlace });
+if (data.region) facts.push({ label: 'Region', value: data.region });
+if (data.centuries.length) {
+  const c = data.centuries.map((n) => `${n}th`).join(', ');
+  facts.push({ label: 'Century', value: c });
+}
+facts.push({ label: 'Feast Day', value: formatFeast(data.feastDay) });
+if (data.liturgicalRank) facts.push({ label: 'Rank', value: data.liturgicalRank });
+facts.push({ label: 'Canonization', value: data.canonizationStatus });
+if (data.beatifiedDate) facts.push({ label: 'Beatified', value: data.beatifiedDate });
+if (data.canonizedDate) facts.push({ label: 'Canonized', value: data.canonizedDate });
+if (data.religiousOrder) facts.push({ label: 'Religious Order', value: data.religiousOrder });
+if (data.martyr) facts.push({ label: 'Death', value: 'Martyr' });
+---
+
+<dl class="rounded-md border border-gold-600/30 bg-ivory/70 p-5 font-body">
+  {facts.map((fact) => (
+    <div class="flex flex-col gap-0.5 border-b border-gold-600/15 py-2.5 last:border-0 sm:flex-row sm:items-baseline sm:gap-4">
+      <dt class="label !text-[11px] w-full shrink-0 text-gold-600 sm:w-32">{fact.label}</dt>
+      <dd class="text-lg text-ink-800">{fact.value}</dd>
+    </div>
+  ))}
+</dl>

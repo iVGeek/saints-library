@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import PrayerCards from '../components/PrayerCards.astro';
+import { getCollection } from 'astro:content';
+import { slug } from '../utils/slugs';
+
+const saints = await getCollection('saints');
+const withPrayers = saints.filter((s) => s.data.prayers.length > 0).sort((a, b) => a.data.name.localeCompare(b.data.name));
+const totalPrayers = withPrayers.reduce((n, s) => n + s.data.prayers.length, 0);
+---
+
+<BaseLayout
+  title="Prayer Library"
+  description="Prayers, litanies, and novenas associated with the saints — a treasury of Catholic devotion for private and family prayer."
+  canonicalPath="/prayers"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Prayer Library' }]} />
+    <SectionHeading
+      label="A treasury of devotion"
+      title="Prayer Library"
+      sub={`${totalPrayers} prayers gathered from ${withPrayers.length} saints — prayers of the Church, offered with the saints who shaped them.`}
+    />
+
+    <div class="relative mt-8 max-w-xl">
+      <svg viewBox="0 0 24 24" class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gold-600" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" />
+        <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+      </svg>
+      <input
+        id="prayer-search"
+        type="search"
+        placeholder="Search prayers by saint or intention…"
+        class="w-full rounded-sm border border-gold-600/40 bg-ivory px-10 py-2.5 font-body text-lg text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none"
+      />
+    </div>
+
+    <div class="mt-10 space-y-14">
+      {withPrayers.map((s) => (
+        <section class="reveal" data-prayer-group data-search={`${s.data.name} ${s.data.prayers.map((p) => p.name).join(' ')} ${s.data.prayers.map((p) => p.text).join(' ')}`.toLowerCase()}>
+          <div class="flex flex-wrap items-baseline justify-between gap-2 border-b-2 border-gold-600/40 pb-3">
+            <h2 class="font-display text-2xl font-semibold text-navy-900">
+              {s.data.name}
+            </h2>
+            <a href={`/saints/${slug(s.id)}#prayers`} class="font-heading text-gold-700 underline decoration-gold-600/50 underline-offset-4 hover:text-burgundy-700">
+              Full profile →
+            </a>
+          </div>
+          <div class="mt-6">
+            <PrayerCards prayers={s.data.prayers} />
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <div id="prayer-empty" hidden class="mt-10 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
+      <p class="font-heading text-2xl italic text-ink-700">No prayers found for that search.</p>
+      <p class="mt-2 font-body text-ink-500">Try searching a saint's name or a word of prayer.</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById('prayer-search') as HTMLInputElement;
+  const groups = Array.from(document.querySelectorAll<HTMLElement>('[data-prayer-group]'));
+  const empty = document.getElementById('prayer-empty')!;
+
+  input.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    let any = false;
+    groups.forEach((g) => {
+      const hit = !q || (g.dataset.search ?? '').includes(q);
+      g.hidden = !hit;
+      if (hit) any = true;
+    });
+    empty.hidden = any;
+  });
+</script>
+

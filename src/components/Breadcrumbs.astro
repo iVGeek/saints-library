@@ -1,0 +1,45 @@
+---
+interface Crumb {
+  label: string;
+  href?: string;
+}
+
+interface Props {
+  crumbs: Crumb[];
+  dark?: boolean;
+}
+
+const { crumbs, dark = false } = Astro.props;
+---
+
+<nav aria-label="Breadcrumb" class="mb-6">
+  <ol class="flex flex-wrap items-center gap-1.5 font-heading text-base">
+    {crumbs.map((crumb, i) => (
+      <li class="flex items-center gap-1.5">
+        {i > 0 && (
+          <svg viewBox="0 0 24 24" class:list={['h-3.5 w-3.5', dark ? 'text-gold-500/60' : 'text-gold-600/60']} fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="m9 6 6 6-6 6" />
+          </svg>
+        )}
+        {crumb.href ? (
+          <a
+            href={crumb.href}
+            class:list={[
+              'transition-colors',
+              dark ? 'text-parchment-100/70 hover:text-gold-300' : 'text-ink-500 hover:text-burgundy-700',
+            ]}
+          >
+            {crumb.label}
+          </a>
+        ) : (
+          <span
+            class:list={[dark ? 'text-gold-300' : 'text-ink-800', 'font-semibold']}
+            aria-current="page"
+          >
+            {crumb.label}
+          </span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>

@@ -1,0 +1,362 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import ArchImage from '../components/ArchImage.astro';
+import SaintCard from '../components/SaintCard.astro';
+import { getCollection } from 'astro:content';
+import { SITE } from '../data/site';
+import { slug } from '../utils/slugs';
+import { formatFeast, liturgicalSeason, nextFeastDate, MONTHS } from '../data/calendar';
+
+const saints = await getCollection('saints');
+const all = [...saints].sort(
+  (a, b) => a.data.name.localeCompare(b.data.name)
+);
+
+const featured = saints.find((s) => s.id === 'therese-of-lisieux') ?? all[0];
+
+// Static fallbacks for build-time rendering; a small client script updates
+// these from /feast-days.json so they are always correct for the visitor.
+const now = new Date();
+const season = liturgicalSeason(now);
+
+const todaySaints = saints.filter(
+  (s) => s.data.feastDay.month === now.getMonth() + 1 && s.data.feastDay.day === now.getDate()
+);
+const saintOfDay = todaySaints[0];
+
+const upcoming = saints
+  .filter((s) => !todaySaints.includes(s))
+  .map((s) => ({ s, d: nextFeastDate(s.data.feastDay) }))
+  .filter(({ d }) => d.getTime() >= new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime())
+  .sort((a, b) => a.d.getTime() - b.d.getTime());
+
+const thisMonths = saints
+  .filter((s) => s.data.feastDay.month === now.getMonth() + 1)
+  .sort((a, b) => a.data.feastDay.day - b.data.feastDay.day);
+
+const categories = [
+  { label: 'Browse by Vocation', to: '/saints?vocation=', hint: 'Popes, bishops, mystics, martyrs…' },
+  { label: 'Browse by Patronage', to: '/saints?patronage=', hint: 'Lost items, travelers, students…' },
+  { label: 'Browse by Region', to: '/saints?region=', hint: 'From Rome to India, Ireland to Africa…' },
+  { label: 'Browse by Century', to: '/saints?century=', hint: 'From the catacombs to our own times…' },
+  { label: 'Browse by Religious Order', to: '/saints?order=', hint: 'Benedictine, Franciscan, Jesuit, Carmelite…' },
+  { label: 'Browse by Feast Month', to: '/saints?feastMonth=', hint: 'Follow the Church through the year…' },
+];
+---
+
+<BaseLayout title="A Digital Library of Catholic Sanctity" description={SITE.description} canonicalPath="/">
+  <!-- ================= HERO ================= -->
+  <section class="navy-bg relative overflow-hidden border-b border-gold-600/30">
+    <div class="mx-auto max-w-6xl px-4 pb-16 pt-14 sm:px-6 sm:pt-20">
+      <p class="reveal label-dark flex items-center gap-3">
+        <svg viewBox="0 0 24 24" class="h-4 w-4 text-flame-400" fill="currentColor" aria-hidden="true">
+          <path d="M12 3c.5 2.5 3.5 4 3.5 7.5A3.5 3.5 0 0 1 12 14a3.5 3.5 0 0 1-3.5-3.5C8.5 7 11.5 5.5 12 3Z" />
+        </svg>
+        <span id="season-label">Liturgical Season: <span class="font-semibold text-gold-300">{season}</span></span>
+      </p>
+
+      <h1 class="reveal reveal-1 mt-6 font-display text-4xl font-semibold leading-tight text-ivory sm:text-6xl">
+        The Communion of Saints
+        <span class="mt-3 block font-heading text-2xl font-normal italic text-gold-300 sm:text-3xl">
+          a digital library of Catholic sanctity
+        </span>
+      </h1>
+
+      <p class="reveal reveal-2 mt-6 max-w-2xl font-heading text-xl leading-relaxed text-parchment-100/80">
+        Lives, writings, miracles, patronage, and feast days of the saints — from the early
+        Church to our own times — gathered with reverence, accuracy, and beauty.
+      </p>
+
+      <div class="reveal reveal-3 mt-9 flex flex-wrap items-center gap-4">
+        <a href="/saints" class="btn btn-gold">Explore the Directory</a>
+        <button id="hero-search" type="button" class="btn btn-ghost">Search saints & patrons</button>
+      </div>
+
+      <div class="reveal reveal-4 mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <a href="/calendar" class="card-glow !border-gold-600/40 px-5 py-4">
+          <p class="label !text-[10px]">This month in the sanctoral</p>
+          <p class="mt-2 font-heading text-lg text-navy-900">
+            {thisMonths.length > 0 ? (
+              `${thisMonths[0].data.name}, ${thisMonths.length > 1 ? ` and ${thisMonths.length - 1} more` : ''}`
+            ) : (
+              'Open the liturgical calendar'
+            )}
+          </p>
+        </a>
+        <a href="/patronage" class="card-glow !border-gold-600/40 px-5 py-4">
+          <p class="label !text-[10px]">Patronage explorer</p>
+          <p class="mt-2 font-heading text-lg text-navy-900">Who is the patron saint of…?</p>
+        </a>
+        <a href="/prayers" class="card-glow !border-gold-600/40 px-5 py-4">
+          <p class="label !text-[10px]">Prayer library</p>
+          <p class="mt-2 font-heading text-lg text-navy-900">Prayers, litanies & novenas</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= SAINT OF THE DAY ================= -->
+  <section class="parchment-bg">
+    <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+      <div class="grid items-start gap-10 lg:grid-cols-[1.1fr_1fr]">
+        <div id="saint-of-day-static" class="card-glow flex flex-col gap-6 p-6 sm:flex-row sm:p-8">
+          <div class="shrink-0">
+            <ArchImage
+              src={saintOfDay?.data.image}
+              name={saintOfDay?.data.name ?? 'A Saint'}
+              symbol={saintOfDay?.data.symbols[0]}
+              className="w-44 sm:w-56"
+            />
+          </div>
+          <div class="min-w-0">
+            <p class="label">Saint of the day — {formatFeast({ month: now.getMonth() + 1, day: now.getDate() })}</p>
+            {saintOfDay ? (
+              <>
+                <h2 class="mt-2 font-display text-3xl font-semibold text-navy-900">{saintOfDay.data.name}</h2>
+                {saintOfDay.data.title && (
+                  <p class="mt-1 font-heading text-xl italic text-ink-600">{saintOfDay.data.title}</p>
+                )}
+                <p class="mt-3 font-body text-lg leading-relaxed text-ink-700">{saintOfDay.data.summary}</p>
+                <a href={`/saints/${slug(saintOfDay.id)}`} class="btn btn-gold mt-5">
+                  Read the life of {saintOfDay.data.name.split(' ')[0]}
+                </a>
+              </>
+            ) : (
+              <>
+                <h2 class="mt-2 font-display text-3xl font-semibold text-navy-900">
+                  No fixed feast today
+                </h2>
+                <p class="mt-3 font-body text-lg text-ink-700">
+                  The sanctoral calendar keeps a saint for most days of the year. If today has no
+                  fixed memorial, consider {upcoming[0] ? `${upcoming[0].s.data.name} — coming ${formatFeast(upcoming[0].s.data.feastDay)}` : 'the saints of this week'}.
+                </p>
+              </>
+            )}
+          </div>
+        </div>
+
+        <div>
+          <SectionHeading
+            label="Signposts of the week"
+            title="Coming feasts"
+            sub="The saints of the Church year draw near."
+          />
+          <ul class="mt-6 space-y-3">
+                {upcoming.slice(0, 5).map(({ s }) => (
+              <li>
+                <a
+                  href={`/saints/${slug(s.id)}`}
+                  class="group flex items-center justify-between gap-4 rounded-md border border-gold-600/30 bg-ivory/70 px-4 py-3 transition-all hover:border-gold-500 hover:bg-gold-600/10"
+                >
+                  <span class="font-heading text-lg text-navy-900 group-hover:text-burgundy-700">{s.data.name}</span>
+                  <span class="shrink-0 font-body text-sm text-ink-500">{formatFeast(s.data.feastDay)}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= FEATURED SAINT ================= -->
+  <section class="navy-bg border-y border-gold-600/30">
+    <div class="mx-auto grid max-w-6xl items-center gap-12 px-4 py-16 sm:px-6 lg:grid-cols-[1fr_1.2fr]">
+      <div class="order-2 lg:order-1">
+        <p class="label-dark">Featured saint</p>
+        <h2 class="mt-3 font-display text-3xl font-semibold text-gold-200 sm:text-4xl">
+          {featured.data.name}
+        </h2>
+        <p class="mt-1 font-heading text-xl italic text-gold-400/90">{featured.data.title}</p>
+        <p class="mt-5 font-body text-lg leading-relaxed text-parchment-100/80">{featured.data.summary}</p>
+
+        <div class="mt-5 flex flex-wrap gap-2">
+          {featured.data.patronage.slice(0, 4).map((p) => (
+            <a href={`/saints?patronage=${p}`} class="chip !border-gold-500/50 !text-gold-300 hover:!bg-gold-600/20">
+              Patron of {p.replace(/-/g, ' ')}
+            </a>
+          ))}
+        </div>
+
+        <a href={`/saints/${slug(featured.id)}`} class="btn btn-gold mt-8">
+          Enter the life of {featured.data.name.split(' ')[0]}
+        </a>
+      </div>
+      <div class="order-1 lg:order-2">
+        <ArchImage
+          src={featured.data.image}
+          name={featured.data.name}
+          symbol={featured.data.symbols[0]}
+          className="mx-auto w-full max-w-sm"
+          vintage
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= BROWSE BY CATEGORY ================= -->
+  <section class="parchment-bg">
+    <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+      <SectionHeading
+        label="Browse the library"
+        title="Find a saint by the road you walk"
+        sub="The saints are patrons of every state of life. Begin by the way you pray, work, or search."
+        align="center"
+      />
+      <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {categories.map((c, i) => (
+          <a
+            href={c.to}
+            class={`card-glow reveal reveal-${(i % 4) + 1} group flex flex-col justify-between p-6`}
+          >
+            <div>
+              <div class="mb-4 inline-flex h-10 w-10 items-center justify-center rounded-full border border-gold-600/50 text-gold-700">
+                <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                  <path d="M3 21V7l9-4 9 4v14M3 21h18M8 21v-6h8v6M12 11h.01" />
+                </svg>
+              </div>
+              <h3 class="font-display text-xl font-semibold text-navy-900 group-hover:text-burgundy-700">{c.label}</h3>
+              <p class="mt-1.5 font-body text-ink-600">{c.hint}</p>
+            </div>
+            <span class="mt-5 font-heading text-gold-700 transition-transform duration-300 group-hover:translate-x-1">Open directory →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= THIS MONTH'S FEASTS ================= -->
+  <section class="parchment-bg">
+    <div class="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
+      <SectionHeading
+        label="The Church's year"
+        title={`Saints of ${MONTHS[now.getMonth()]}`}
+        sub="Feast days in the month ahead, gathered from the General Roman Calendar and beyond."
+      />
+      <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {thisMonths.slice(0, 8).map((s, i) => (
+          <a
+            href={`/saints/${slug(s.id)}`}
+            class={`card-glow reveal reveal-${(i % 4) + 1} group flex items-center gap-4 p-4`}
+          >
+            <span class="flex h-14 w-14 shrink-0 flex-col items-center justify-center rounded border border-gold-600/50 bg-ivory font-display">
+              <span class="text-lg font-semibold text-burgundy-700 leading-none">{s.data.feastDay.day}</span>
+              <span class="text-[9px] uppercase tracking-wider text-ink-500">{MONTHS[s.data.feastDay.month - 1].slice(0, 3)}</span>
+            </span>
+            <div class="min-w-0">
+              <p class="truncate font-heading text-lg font-semibold text-navy-900 group-hover:text-burgundy-700">{s.data.name}</p>
+              <p class="truncate font-body text-sm text-ink-500">{s.data.title ?? s.data.vocation[0] ?? ''}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="mt-8 text-center">
+        <a href="/calendar" class="btn btn-ghost">Open the liturgical calendar</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= DAILY QUOTE ================= -->
+  <section class="navy-bg border-t border-gold-600/30">
+    <div class="mx-auto max-w-3xl px-4 py-16 text-center sm:px-6">
+      <p class="label-dark">A word from the saints</p>
+      <blockquote id="daily-quote" class="mt-6 font-heading text-2xl font-medium italic leading-relaxed text-gold-200 sm:text-3xl">
+        “{featured.data.quotes[0]?.text ?? 'The saints are the friends of God.'}”
+      </blockquote>
+      <p id="daily-quote-source" class="mt-5 font-body text-parchment-100/60">
+        — {featured.data.quotes[0]?.source ?? 'Saying of the saints'}
+      </p>
+    </div>
+  </section>
+
+  <!-- ================= RECENT SAINTS ================= -->
+  <section class="parchment-bg">
+    <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+      <div class="flex items-end justify-between gap-4">
+        <SectionHeading
+          label="Browse alphabetically"
+          title="A door into the directory"
+          sub="Every profile includes biography, feast days, patronage, symbols, quotes, prayers, and sources."
+        />
+      </div>
+      <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {all.slice(0, 8).map((s, i) => (
+          <SaintCard saint={s} index={i} />
+        ))}
+      </div>
+      <div class="mt-10 text-center">
+        <a href="/saints" class="btn btn-gold">See all {all.length} saints</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CLOSING ================= -->
+  <section class="parchment-bg">
+    <div class="section-divider mx-auto max-w-3xl px-6" aria-hidden="true" />
+    <div class="mx-auto max-w-3xl px-6 pb-20 pt-10 text-center">
+      <p class="font-heading text-xl italic leading-relaxed text-ink-600">
+        “God creates new saints in every generation, that the Church may never lack
+        the consolation of their example, the strength of their intercession, and the
+        splendor of their love.”
+      </p>
+      <p class="mt-6 label">The Communion of Saints Digital Library</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  // Keep the "today" sections accurate regardless of when the site was built.
+  const feastUrl = '/feast-days.json';
+
+  const heroSearch = document.getElementById('hero-search');
+  heroSearch?.addEventListener('click', () => {
+    document.getElementById('search-trigger')?.click();
+  });
+
+  async function refreshToday() {
+    try {
+      const res = await fetch(feastUrl);
+      const days = await res.json();
+      const now = new Date();
+      const today = days.find((d: { month: number; day: number }) => d.month === now.getMonth() + 1 && d.day === now.getDate());
+
+      const container = document.getElementById('saint-of-day-static');
+      if (!container) return;
+      const label = container.querySelector('.label');
+      if (label) label.textContent = `Saint of the day — ${now.toLocaleDateString('en-US', { month: 'long', day: 'numeric' })}`;
+
+      if (today?.saints?.length) {
+        const s = today.saints[0];
+        const h = container.querySelector('h2');
+        const link = container.querySelector('a.btn');
+        if (h) h.textContent = s.name;
+        if (link) link.setAttribute('href', `/saints/${s.slug}`);
+      }
+    } catch {
+      // Static fallback remains in place.
+    }
+  }
+  refreshToday();
+
+  // Rotate the daily quote by day-of-year (a few curated voices).
+  const quotes = [
+    { text: 'I will spend my heaven doing good upon earth. I will let fall a shower of roses.', source: 'St. Thérèse of Lisieux' },
+    { text: 'Lord, make me an instrument of your peace. Where there is hatred, let me sow love.', source: 'St. Francis of Assisi' },
+    { text: 'You have made us for Yourself, O Lord, and our heart is restless until it rests in You.', source: 'St. Augustine of Hippo' },
+    { text: 'Not all of us can do great things. But we can do small things with great love.', source: 'St. Teresa of Calcutta' },
+    { text: 'Lead, kindly Light, amid the encircling gloom — lead Thou me on!', source: 'St. John Henry Newman' },
+    { text: 'Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will.', source: 'St. Ignatius of Loyola' },
+    { text: 'Be who God meant you to be and you will set the world on fire.', source: 'St. Catherine of Siena' },
+    { text: 'All the darkness in the world cannot extinguish the light of a single candle.', source: 'St. Francis of Assisi' },
+  ];
+  const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86_400_000);
+  const q = quotes[dayOfYear % quotes.length];
+  const qEl = document.getElementById('daily-quote');
+  const qsEl = document.getElementById('daily-quote-source');
+  if (qEl && qsEl) {
+    qEl.textContent = `“${q.text}”`;
+    qsEl.textContent = `— ${q.source}`;
+  }
+</script>
+

@@ -1,0 +1,188 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import ArchImage from '../components/ArchImage.astro';
+import { getCollection } from 'astro:content';
+import { PATRONAGE_CATEGORIES } from '../data/patronage';
+import { slug } from '../utils/slugs';
+
+const saints = await getCollection('saints');
+
+interface CategoryResult {
+  key: string;
+  label: string;
+  aliases: string[];
+  saints: { id: string; name: string; image: string | null }[];
+}
+
+const results: CategoryResult[] = PATRONAGE_CATEGORIES.map((cat) => ({
+  key: cat.key,
+  label: cat.label,
+  aliases: cat.aliases,
+  saints: saints
+    .filter((s) => s.data.patronage.includes(cat.key))
+    .map((s) => ({ id: s.id, name: s.data.name, image: s.data.image ?? null }))
+    .sort((a, b) => a.name.localeCompare(b.name)),
+}))
+  .filter((r) => r.saints.length > 0)
+  .sort((a, b) => a.label.localeCompare(b.label));
+
+const POPULAR_KEYS = ['lost-items', 'travelers', 'students', 'animals', 'impossible-causes', 'mothers', 'children', 'sick', 'soldiers', 'missions'];
+const featured = POPULAR_KEYS.map((k) => PATRONAGE_CATEGORIES.find((c) => c.key === k)).filter((c): c is NonNullable<typeof c> => Boolean(c));
+const examples = ['lost items', 'travelers', 'students', 'animals', 'impossible causes', 'the dying'];
+---
+
+<BaseLayout
+  title="Patronage Explorer"
+  description="Find the patron saint of any need, profession, cause, or place — from lost items to travelers, students to soldiers."
+  canonicalPath="/patronage"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Patronage Explorer' }]} />
+
+    <!-- ===== Hero ===== -->
+    <section class="navy-bg relative overflow-hidden rounded-lg border border-gold-600/30">
+      <div class="relative z-10 px-6 py-12 sm:px-12">
+        <p class="label-dark">The patronage explorer</p>
+        <h1 class="mt-3 max-w-2xl font-display text-3xl font-semibold leading-tight text-ivory sm:text-4xl">
+          Who is the patron saint of&nbsp;
+          <span class="text-gold-300">your need?</span>
+        </h1>
+        <p class="mt-4 max-w-2xl font-body text-lg text-parchment-100/80">
+          For centuries the faithful have turned to the saints for every state of life and every
+          sorrow. Describe your need, and find the heavenly advocate who walks with you.
+        </p>
+
+        <div class="relative mt-8 max-w-xl">
+          <svg viewBox="0 0 24 24" class="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gold-400" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" />
+            <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+          </svg>
+          <input
+            id="patron-search"
+            type="search"
+            placeholder="e.g. lost items, travelers, students…"
+            class="w-full rounded-md border border-gold-600/50 bg-navy-900/60 px-12 py-4 font-heading text-xl text-ivory placeholder:text-gold-500/70 focus:border-gold-500 focus:outline-none"
+            aria-label="Search for a patron saint by need or cause"
+          />
+        </div>
+
+        <div class="mt-5 flex flex-wrap items-center gap-2">
+          <span class="label-dark !text-[10px]">Try:</span>
+          {examples.map((e) => (
+            <button type="button" class="chip !border-gold-500/50 !text-gold-300 hover:!bg-gold-600/20" data-example={e}>
+              {e}
+            </button>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Popular patrons ===== -->
+    <section class="mt-14">
+      <SectionHeading
+        label="Popular patrons"
+        title="Saints for the daily road"
+        sub="A few of the most-asked patronages, with the saints who carry them."
+      />
+      <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-5" id="popular-grid">
+        {featured.map((cat) => {
+          const r = results.find((x) => x.key === cat.key);
+          const top = r?.saints[0];
+          if (!top) return null;
+          return (
+            <a
+              href={`/saints/${slug(top.id)}`}
+              class="card-glow group flex flex-col items-center gap-3 p-5 text-center"
+              data-featured={cat.key}
+            >
+              <ArchImage src={top.image ?? undefined} name={top.name} symbol={cat.key} className="w-24" />
+              <div>
+                <p class="label !text-[10px] text-gold-600">Patron of {cat.label}</p>
+                <p class="mt-1 font-heading text-lg font-semibold text-navy-900 group-hover:text-burgundy-700">{top.name}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- ===== All categories ===== -->
+    <section class="mt-16" aria-label="All patronage categories">
+      <SectionHeading
+        label="Every patronage we carry"
+        title="Browse all causes"
+        sub="Gathered alphabetically. New patronages are added as the saint library grows."
+      />
+      <div class="mt-8 space-y-6" id="category-list">
+        {results.map((r) => (
+          <details class="category group rounded-md border border-gold-600/30 bg-ivory/80 p-5" data-key={r.key} data-search={[r.label, ...r.aliases, ...r.saints.map((s) => s.name)].join(' ').toLowerCase()}>
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-4">
+              <div>
+                <h3 class="font-display text-xl font-semibold text-navy-900">{r.label}</h3>
+                <p class="mt-0.5 font-body text-sm text-ink-500 capitalize">
+                  {r.saints.map((s) => s.name.split(' ').slice(0, 2).join(' ')).join(', ')}
+                </p>
+              </div>
+              <span class="flex shrink-0 items-center gap-3">
+                <span class="rounded-full bg-gold-600/15 px-3 py-1 font-heading text-gold-700">
+                  {r.saints.length} {r.saints.length === 1 ? 'saint' : 'saints'}
+                </span>
+                <span class="font-heading text-2xl text-gold-600 transition-transform duration-300 group-open:rotate-45" aria-hidden="true">+</span>
+              </span>
+            </summary>
+            <div class="mt-5 flex flex-wrap gap-2 border-t border-gold-600/20 pt-4">
+              {r.saints.map((s) => (
+                <a href={`/saints/${slug(s.id)}`} class="chip">{s.name}</a>
+              ))}
+            </div>
+          </details>
+        ))}
+      </div>
+
+      <div id="patron-empty" hidden class="mt-8 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
+        <p class="font-heading text-2xl italic text-ink-700">No patronage found for that need yet.</p>
+        <p class="mt-2 font-body text-ink-500">
+          Try a simpler word, such as <em>travelers</em>, <em>students</em>, or <em>the sick</em>.
+        </p>
+      </div>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById('patron-search') as HTMLInputElement;
+  const categories = Array.from(document.querySelectorAll<HTMLElement>('.category'));
+  const featured = Array.from(document.querySelectorAll<HTMLElement>('[data-featured]'));
+  const empty = document.getElementById('patron-empty')!;
+
+  const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+
+  function apply() {
+    const q = norm(input.value);
+    let any = false;
+    categories.forEach((cat) => {
+      const hay = cat.dataset.search ?? '';
+      const hit = !q || norm(hay).includes(q);
+      cat.hidden = !hit;
+      if (hit) any = true;
+    });
+    featured.forEach((el) => {
+      const key = el.dataset.featured ?? '';
+      const hay = categories.find((c) => c.dataset.key === key)?.dataset.search ?? '';
+      el.hidden = !!q && !norm(hay).includes(q);
+    });
+    empty.hidden = any;
+  }
+
+  input.addEventListener('input', apply);
+  document.querySelectorAll<HTMLButtonElement>('[data-example]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      input.value = btn.dataset.example!;
+      apply();
+    });
+  });
+</script>
+

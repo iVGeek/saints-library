@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import { getCollection } from 'astro:content';
+import { SITE } from '../data/site';
+
+const saints = await getCollection('saints');
+---
+
+<BaseLayout
+  title="About, Methodology & Sources"
+  description="How the Communion of Saints Digital Library researches, writes, sources, and credits its content — and the principles that guide it."
+  canonicalPath="/about"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-4xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'About & Sources' }]} />
+
+    <SectionHeading
+      label="About this library"
+      title="A Sanctuary of Truth and Beauty"
+      sub="The Communion of Saints Digital Library exists to make the lives of the Catholic saints known — reverently, accurately, and beautifully."
+    />
+
+    <div class="saint-prose mt-10">
+      <p>
+        The saints are the Church's great gift to the imagination of charity: real men and women
+        of every age and every land who lived the gospel with extraordinary fidelity. This
+        library gathers their lives — biography, writings, miracles, patronage, symbols, feast
+        days, and historical context — into a calm, searchable sanctuary where scholars, students,
+        devotees, and the merely curious can dwell.
+      </p>
+
+      <h2>Our principles</h2>
+      <ul>
+        <li><strong>Reverence.</strong> We treat the saints as friends of God and models of the Christian life, never as ornaments or kitsch.</li>
+        <li><strong>Accuracy.</strong> Dates, feast days, and canonization facts follow the General Roman Calendar and official Church documents.</li>
+        <li><strong>Honesty.</strong> Where tradition and history diverge, we say so. Legendary material is labeled as tradition; historical material is cited.</li>
+        <li><strong>Breadth.</strong> We include Roman Catholic and Eastern Catholic saints, and note the historic and ecclesial context of each life.</li>
+      </ul>
+
+      <h2>How we write</h2>
+      <p>
+        Biographies are <em>original compositions</em>, written in a warm and scholarly voice for a
+        general audience. They are researched from public-domain sources — principally the
+        <em>Catholic Encyclopedia</em> (1907–1914), older editions of <em>Butler's Lives of the
+        Saints</em>, the <em>Acta Sanctorum</em>, the Early Church Fathers collection, and the
+        public-domain writings of the saints themselves — and verified against modern official
+        sources such as the Vatican website and the USCCB calendar. We never copy modern
+        copyrighted pages or books. Direct quotations from the saints and the Scriptures are
+        attributed on the page.
+      </p>
+
+      <h2>How we source images</h2>
+      <p>
+        We use only public-domain or openly licensed images from reliable sources — Wikimedia
+        Commons, museum open-access collections (such as Google Art Project, the Hermitage, and
+        the Met), and approved Catholic media. Every image carries a credit and a source link.
+        Where no suitable image exists, a stained-glass style monogram is generated in the
+        saint's name and symbol, so the page never appears bare.
+      </p>
+
+      <h2>What we do not claim</h2>
+      <p>
+        We are not an official organ of the Catholic Church. Canonization dates, feast days, and
+        devotional titles follow current liturgical norms to the best of our ability and are
+        corrected as the Church's calendar develops. This is a labor of love for the communion of
+        saints, offered in hope that it may serve the faith of the Church.
+      </p>
+
+      <h2>Corrections & contributions</h2>
+      <p>
+        We welcome corrections and additions. If you find an error of fact, a dated feast day, or
+        a missing patron, please write to the editors. Every saint page includes its sources so
+        that claims can be checked.
+      </p>
+
+      <h2>The library today</h2>
+      <p>
+        {SITE.name} currently holds <strong>{saints.length} saints</strong>, selected to cover the
+        General Roman Calendar, the most-invoked patronages, and the great figures of every
+        century — with room to grow, saint by saint, toward a fuller library.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

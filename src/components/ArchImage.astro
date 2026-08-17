@@ -1,0 +1,37 @@
+---
+import { imageSrc } from '../utils/images';
+import Monogram from './Monogram.astro';
+
+interface Props {
+  /** File name on Commons or absolute URL. */
+  src?: string;
+  alt?: string;
+  /** Saint name for the monogram fallback. */
+  name: string;
+  symbol?: string;
+  /** Fractional aspect (width/height); arch frames like ~0.75. */
+  aspect?: string;
+  className?: string;
+  /** Show the vintage sepia treatment for old art. */
+  vintage?: boolean;
+}
+
+const { src, alt = '', name, symbol, aspect = 'aspect-[3/4]', className = '', vintage = false } = Astro.props;
+const resolved = imageSrc(src);
+---
+
+<div class:list={['arch-frame', aspect, className]}>
+  {
+    resolved ? (
+      <img
+        src={resolved}
+        alt={alt || name}
+        loading="lazy"
+        decoding="async"
+        class:list={['h-full w-full object-cover', vintage && 'img-vintage']}
+      />
+    ) : (
+      <Monogram name={name} symbol={symbol} className="h-full w-full" />
+    )
+  }
+</div>

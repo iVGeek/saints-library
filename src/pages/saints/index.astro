@@ -1,0 +1,429 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import SaintCard from '../../components/SaintCard.astro';
+import { getCollection } from 'astro:content';
+import { MONTHS } from '../../data/calendar';
+import { PATRONAGE_CATEGORIES } from '../../data/patronage';
+import { VOCATIONS, REGIONS, RELIGIOUS_ORDERS, centuryLabel, CANONIZATION_STATUSES } from '../../data/facets';
+
+const saints = await getCollection('saints');
+const all = [...saints].sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const centuriesUsed = Array.from(new Set(all.flatMap((s) => s.data.centuries))).sort((a, b) => a - b);
+const vocationsUsed = Array.from(new Set(all.flatMap((s) => s.data.vocation))).sort();
+const regionsUsed = Array.from(new Set(all.map((s) => s.data.region).filter((x): x is string => Boolean(x)))).sort();
+const ordersUsed = Array.from(new Set(all.map((s) => s.data.religiousOrder).filter((x): x is string => Boolean(x)))).sort();
+const patronagesUsed = Array.from(new Set(all.flatMap((s) => s.data.patronage))).sort();
+
+// Union of curated vocabulary and what's actually used, so filters always list something sensible.
+const vocations = Array.from(new Set([...VOCATIONS, ...vocationsUsed])).sort((a, b) => a.localeCompare(b));
+const regions = Array.from(new Set([...REGIONS, ...regionsUsed])).sort((a, b) => a.localeCompare(b));
+const orders = Array.from(new Set([...RELIGIOUS_ORDERS, ...ordersUsed])).sort((a, b) => a.localeCompare(b));
+const patronageOptions = PATRONAGE_CATEGORIES.filter((c) => patronagesUsed.includes(c.key));
+const statuses = CANONIZATION_STATUSES;
+
+const feastDateOf = (s: (typeof saints)[number]) =>
+  `${String(s.data.feastDay.month).padStart(2, '0')}-${String(s.data.feastDay.day).padStart(2, '0')}`;
+---
+
+<BaseLayout
+  title="Directory of Saints"
+  description="Browse the saints by name, feast day, patronage, region, century, vocation, religious order, and canonization status."
+  canonicalPath="/saints"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Directory of Saints' }]} />
+    <SectionHeading
+      label="The sanctoral"
+      title="Directory of Saints"
+      sub={`${all.length} lives of holiness, searchable and filterable. Every profile carries biography, feast days, patronage, symbols, quotes, prayers, and sources.`}
+    />
+
+    <div class="mt-10 grid gap-8 lg:grid-cols-[280px_1fr]">
+      <!-- ===== Filters ===== -->
+      <aside aria-label="Filter saints" class="relative">
+        <button
+          id="filter-toggle"
+          type="button"
+          class="btn btn-dark w-full lg:hidden"
+          aria-expanded="false"
+        >
+          Filters
+          <span id="filter-count" class="hidden rounded-full bg-gold-600 px-2 text-sm"></span>
+        </button>
+
+        <div id="filter-panel" class="mt-4 rounded-lg border border-gold-600/30 bg-ivory/80 p-5 lg:sticky lg:top-6 lg:mt-0">
+          <div class="flex items-center justify-between">
+            <h2 class="font-display text-lg font-semibold text-navy-900">Browse</h2>
+            <button id="clear-all" type="button" class="font-heading text-sm text-burgundy-700 underline decoration-gold-600 underline-offset-2 hover:text-burgundy-600">
+              Clear all
+            </button>
+          </div>
+          <div class="gold-rule my-4" />
+
+          <details class="group" open>
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Feast month
+            </summary>
+            <div class="mt-3 grid grid-cols-2 gap-1">
+              {MONTHS.map((m, i) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="month" value={String(i + 1)} class="h-4 w-4 accent-[#a87f2e]" />
+                  {m}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Patronage
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {patronageOptions.map((c) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="patronage" value={c.key} class="h-4 w-4 accent-[#a87f2e]" />
+                  {c.label}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Vocation
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {vocations.map((v) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="vocation" value={v} class="h-4 w-4 accent-[#a87f2e]" />
+                  {v}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Region
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {regions.map((r) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="region" value={r} class="h-4 w-4 accent-[#a87f2e]" />
+                  {r}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Century
+            </summary>
+            <div class="mt-3 grid grid-cols-3 gap-1">
+              {centuriesUsed.map((c) => (
+                <label class="flex cursor-pointer items-center gap-1.5 font-body text-ink-700">
+                  <input type="checkbox" data-filter="century" value={String(c)} class="h-4 w-4 accent-[#a87f2e]" />
+                  {centuryLabel(c)}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Religious order
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {orders.map((o) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="order" value={o} class="h-4 w-4 accent-[#a87f2e]" />
+                  {o}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Canonization status
+            </summary>
+            <div class="mt-3 space-y-1">
+              {statuses.map((s) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="status" value={s} class="h-4 w-4 accent-[#a87f2e]" />
+                  {s}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Death
+            </summary>
+            <div class="mt-3 space-y-1">
+              <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                <input type="checkbox" data-filter="martyr" value="true" class="h-4 w-4 accent-[#a87f2e]" />
+                Martyrs
+              </label>
+              <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                <input type="checkbox" data-filter="martyr" value="false" class="h-4 w-4 accent-[#a87f2e]" />
+                Non-martyrs
+              </label>
+            </div>
+          </details>
+        </div>
+      </aside>
+
+      <!-- ===== Results ===== -->
+      <section aria-label="Results">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-center">
+          <div class="relative flex-1">
+            <svg viewBox="0 0 24 24" class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gold-600" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" />
+              <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+            </svg>
+            <input
+              id="dir-search"
+              type="search"
+              placeholder="Search by name, alias, patron, or cause…"
+              class="w-full rounded-sm border border-gold-600/40 bg-ivory px-10 py-2.5 font-body text-lg text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none"
+            />
+          </div>
+          <label class="flex items-center gap-2 font-body text-ink-600">
+            Sort
+            <select id="dir-sort" class="rounded-sm border border-gold-600/40 bg-ivory px-3 py-2.5 font-body text-ink-800">
+              <option value="name">Name A–Z</option>
+              <option value="feast">Feast day</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="active-filters" class="mt-4 flex flex-wrap items-center gap-2" aria-live="polite"></div>
+
+        <p id="result-count" class="mt-4 font-body text-ink-600" aria-live="polite"></p>
+
+        <div id="saint-grid" class="mt-4 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+          {all.map((s) => (
+              <div
+                class="saint-item"
+                data-month={String(s.data.feastDay.month)}
+                data-patronage={s.data.patronage.join(' ')}
+                data-vocation={s.data.vocation.join(' ')}
+                data-region={(s.data.region ?? '').toLowerCase()}
+                data-century={s.data.centuries.join(' ')}
+                data-order={(s.data.religiousOrder ?? '').toLowerCase()}
+                data-status={s.data.canonizationStatus}
+                data-martyr={String(s.data.martyr)}
+                data-date={feastDateOf(s)}
+                data-search={[s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? '']
+                  .join(' ')
+                  .toLowerCase()}
+              >
+                <SaintCard saint={s} />
+              </div>
+            ))}
+        </div>
+        <div id="empty-state" hidden class="mt-10 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
+          <p class="font-heading text-2xl italic text-ink-700">No saints match these filters.</p>
+          <p class="mt-2 font-body text-ink-500">
+            Try removing a filter, or search for a need like <em>travelers</em> or <em>lost items</em>.
+          </p>
+          <button id="empty-clear" type="button" class="btn btn-gold mt-5">Clear all filters</button>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const grid = document.getElementById('saint-grid')!;
+  const items = Array.from(grid.querySelectorAll<HTMLElement>('.saint-item'));
+  const search = document.getElementById('dir-search') as HTMLInputElement;
+  const sortEl = document.getElementById('dir-sort') as HTMLSelectElement;
+  const countEl = document.getElementById('result-count')!;
+  const activeEl = document.getElementById('active-filters')!;
+  const emptyState = document.getElementById('empty-state')!;
+  const emptyClear = document.getElementById('empty-clear')!;
+  const clearAll = document.getElementById('clear-all')!;
+  const filterToggle = document.getElementById('filter-toggle') as HTMLButtonElement;
+  const filterPanel = document.getElementById('filter-panel') as HTMLElement;
+  const filterCount = document.getElementById('filter-count') as HTMLElement;
+
+  const filters: Record<string, Set<string>> = {};
+  const filterLabels: Record<string, string> = {
+    month: 'Feast month',
+    patronage: 'Patronage',
+    vocation: 'Vocation',
+    region: 'Region',
+    century: 'Century',
+    order: 'Order',
+    status: 'Status',
+    martyr: 'Death',
+  };
+
+  const inputs = Array.from(document.querySelectorAll<HTMLInputElement>('input[data-filter]'));
+  inputs.forEach((input) => {
+    const group = input.dataset.filter!;
+    input.addEventListener('change', () => {
+      if (!filters[group]) filters[group] = new Set();
+      const value = input.value;
+      // Within a group, selecting one value de-selects the others (radio-like
+      // behavior keeps the facets meaningful); for martyr both are toggles.
+      if (group !== 'martyr' && input.checked) {
+        filters[group].clear();
+        inputs.forEach((other) => {
+          if (other !== input && other.dataset.filter === group) other.checked = false;
+        });
+      }
+      if (input.checked) filters[group].add(value);
+      else filters[group].delete(value);
+      if (filters[group].size === 0) delete filters[group];
+      syncURL();
+      applyFilters();
+    });
+  });
+
+  function syncURL() {
+    const params = new URLSearchParams();
+    for (const [group, values] of Object.entries(filters)) {
+      for (const v of values) params.append(group, v);
+    }
+    if (search.value.trim()) params.set('q', search.value.trim());
+    const next = params.toString();
+    const url = next ? `${location.pathname}?${next}` : location.pathname;
+    history.replaceState(null, '', url);
+  }
+
+  function parseURL() {
+    const params = new URLSearchParams(location.search);
+    for (const group of Object.keys(filterLabels)) {
+      const values = params.getAll(group);
+      if (values.length) {
+        filters[group] = new Set(values);
+        inputs.forEach((input) => {
+          if (input.dataset.filter === group && values.includes(input.value)) input.checked = true;
+        });
+      }
+    }
+    const q = params.get('q');
+    if (q) {
+      search.value = q;
+      filters['_search'] = new Set([q.toLowerCase()]);
+    }
+    if (params.has('sort')) sortEl.value = params.get('sort')!;
+  }
+
+  function matches(item: HTMLElement): boolean {
+    for (const [group, values] of Object.entries(filters)) {
+      if (group === '_search') continue;
+      const attr = item.dataset[group] ?? '';
+      const list = attr.split(/\s+/).filter(Boolean);
+      let hit = false;
+      for (const v of values) {
+        // month: numeric compare; others: token membership.
+        if (group === 'month') {
+          if (list.includes(v)) { hit = true; break; }
+        } else if (group === 'century' || group === 'martyr') {
+          if (list.includes(v)) { hit = true; break; }
+        } else {
+          const normalized = list.map((x) => x.toLowerCase());
+          if (normalized.includes(v.toLowerCase())) { hit = true; break; }
+        }
+      }
+      if (!hit) return false;
+    }
+    const q = search.value.trim().toLowerCase();
+    if (q) {
+      const hay = (item.dataset.search ?? '').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  }
+
+  function applyFilters() {
+    let visible = 0;
+    items.forEach((item) => {
+      const show = matches(item);
+      item.hidden = !show;
+      if (show) visible++;
+    });
+    countEl.textContent = `${visible} ${visible === 1 ? 'saint' : 'saints'}`;
+    emptyState.hidden = visible !== 0;
+
+    // Active filter chips
+    activeEl.innerHTML = '';
+    const total = Object.entries(filters).reduce((n, [, v]) => n + v.size, 0);
+    filterCount.textContent = total > 0 ? String(total) : '';
+    filterCount.classList.toggle('hidden', total === 0);
+
+    for (const [group, values] of Object.entries(filters)) {
+      for (const v of values) {
+        const label = group === '_search' ? `“${v}”` : v;
+        const chip = document.createElement('button');
+        chip.type = 'button';
+        chip.className = 'chip chip-active';
+        chip.innerHTML = `${escapeHtml(label)} <span aria-hidden="true">✕</span>`;
+        chip.addEventListener('click', () => {
+          filters[group].delete(v);
+          if (filters[group].size === 0) delete filters[group];
+          if (group === '_search') {
+            search.value = '';
+          } else {
+            inputs.forEach((input) => {
+              if (input.dataset.filter === group && input.value === v) input.checked = false;
+            });
+          }
+          syncURL();
+          applyFilters();
+        });
+        activeEl.appendChild(chip);
+      }
+    }
+    sortItems();
+  }
+
+  function sortItems() {
+    const mode = sortEl.value;
+    items.sort((a, b) => {
+      if (mode === 'feast') return (a.dataset.date ?? '').localeCompare(b.dataset.date ?? '');
+      return (a.dataset.search ?? '').localeCompare(b.dataset.search ?? '');
+    });
+    items.forEach((item) => grid.appendChild(item));
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c] as string));
+  }
+
+  function clearAllFilters() {
+    filters && Object.keys(filters).forEach((k) => delete filters[k]);
+    inputs.forEach((input) => (input.checked = false));
+    search.value = '';
+    syncURL();
+    applyFilters();
+  }
+
+  search.addEventListener('input', applyFilters);
+  sortEl.addEventListener('change', () => {
+    const params = new URLSearchParams(location.search);
+    params.set('sort', sortEl.value);
+    history.replaceState(null, '', `${location.pathname}?${params.toString()}`);
+    sortItems();
+  });
+
+  filterToggle?.addEventListener('click', () => {
+    const open = filterPanel.classList.toggle('hidden');
+    filterToggle.setAttribute('aria-expanded', String(!open));
+  });
+  clearAll?.addEventListener('click', clearAllFilters);
+  emptyClear?.addEventListener('click', clearAllFilters);
+
+  parseURL();
+  applyFilters();
+</script>

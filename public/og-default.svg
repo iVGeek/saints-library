@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="0%" r="120%">
+      <stop offset="0%" stop-color="#27385f"/>
+      <stop offset="55%" stop-color="#111a36"/>
+      <stop offset="100%" stop-color="#0a1022"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e5d3a7"/>
+      <stop offset="50%" stop-color="#a87f2e"/>
+      <stop offset="100%" stop-color="#e5d3a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M250 540 V300 Q250 150 400 150 Q550 150 550 300 V540 Z" fill="none" stroke="#c6a155" stroke-width="3"/>
+  <path d="M290 540 V300 Q290 180 400 180 Q510 180 510 300 V540 Z" fill="#1a2749"/>
+  <path d="M400 190 L440 260 L512 262 L455 305 L472 372 L400 332 L328 372 L345 305 L288 262 L360 260 Z" fill="#d6b97c"/>
+  <circle cx="400" cy="268" r="24" fill="#e5d3a7"/>
+  <path d="M660 250 H980 M660 300 H980 M660 350 H980" stroke="#c6a155" stroke-width="4" opacity="0.9"/>
+  <text x="660" y="200" font-family="Georgia, serif" font-size="30" letter-spacing="8" fill="#d6b97c">THE COMMUNION OF SAINTS</text>
+  <text x="660" y="410" font-family="Georgia, serif" font-size="42" font-style="italic" fill="#f7f0e2">A Digital Library of Catholic Sanctity</text>
+  <text x="660" y="470" font-family="Georgia, serif" font-size="22" fill="#b3a9a0">Lives, writings, miracles, patronage &amp; feast days</text>
+</svg>

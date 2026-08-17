@@ -1,0 +1,14 @@
+---
+interface Props {
+  className?: string;
+}
+const { className = '' } = Astro.props;
+---
+
+<div class:list={['section-divider', className]} aria-hidden="true">
+  <svg viewBox="0 0 24 24" class="h-7 w-7">
+    <path d="M12 2 L20 20 H4 Z" fill="none" stroke="currentColor" stroke-width="1.2" />
+    <path d="M12 8 L15 15 H9 Z" fill="currentColor" opacity="0.45" />
+    <circle cx="12" cy="18" r="1.4" fill="currentColor" opacity="0.6" />
+  </svg>
+</div>

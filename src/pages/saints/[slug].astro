@@ -1,0 +1,279 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ArchImage from '../../components/ArchImage.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import QuickFacts from '../../components/QuickFacts.astro';
+import Timeline from '../../components/Timeline.astro';
+import QuoteBlock from '../../components/QuoteBlock.astro';
+import PrayerCards from '../../components/PrayerCards.astro';
+import SourcesList from '../../components/SourcesList.astro';
+import RelatedSaints from '../../components/RelatedSaints.astro';
+import { getCollection, render } from 'astro:content';
+import { formatFeast, nextFeastDate, daysUntil, monthName } from '../../data/calendar';
+import { imageSrc } from '../../utils/images';
+import { slug } from '../../utils/slugs';
+import { SITE } from '../../data/site';
+
+export async function getStaticPaths() {
+  const saints = await getCollection('saints');
+  return saints.map((s) => ({ params: { slug: slug(s.id) }, props: { saint: s } }));
+}
+
+const { saint } = Astro.props;
+const { Content } = await render(saint);
+const { data } = saint;
+
+const next = nextFeastDate(data.feastDay);
+const until = daysUntil(next);
+const pageImage = imageSrc(data.image, 1200);
+
+const pageSlug = slug(saint.id);
+
+const patronKeys = data.patronage.map((p) => ({ key: p, label: p.replace(/-/g, ' ') }));
+
+const personJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: data.name,
+  honorificPrefix: data.honorific,
+  additionalName: data.title,
+  description: data.summary,
+  birthDate: data.birthYear ? String(data.birthYear) : undefined,
+  deathDate: data.deathYear ? String(data.deathYear) : undefined,
+  birthPlace: data.birthPlace,
+  deathPlace: data.deathPlace,
+  url: new URL(`/saints/${pageSlug}`, SITE.url).href,
+  image: pageImage,
+  jobTitle: data.title,
+  religion: 'Catholic Christianity',
+  sameAs: data.sources.map((s) => (s.startsWith('http') ? s : undefined)).filter(Boolean),
+};
+---
+
+<BaseLayout
+  title={data.name}
+  description={data.summary}
+  canonicalPath={`/saints/${pageSlug}`}
+  image={pageImage ?? undefined}
+  jsonLd={personJsonLd}
+  bodyClass="parchment-bg"
+>
+  <!-- ===== HERO ===== -->
+  <section class="navy-bg border-b border-gold-600/30">
+    <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+      <Breadcrumbs
+        dark
+        crumbs={[{ label: 'Home', href: '/' }, { label: 'Directory', href: '/saints' }, { label: data.name }]}
+      />
+
+      <div class="mt-4 grid items-start gap-10 lg:grid-cols-[1.15fr_1fr]">
+        <div>
+          <div class="flex flex-wrap items-center gap-3">
+            <span class="label-dark">{data.honorific}</span>
+            {data.canonizationStatus !== 'Saint' && (
+              <span class="chip !border-gold-500/50 !text-gold-300">{data.canonizationStatus}</span>
+            )}
+            {data.martyr && <span class="chip !border-gold-500/50 !text-gold-300">Martyr</span>}
+          </div>
+
+          <h1 class="mt-3 font-display text-4xl font-semibold leading-tight text-ivory sm:text-5xl">{data.name}</h1>
+          {data.title && (
+            <p class="mt-2 font-heading text-2xl italic text-gold-400/90">{data.title}</p>
+          )}
+
+          {data.summary && <p class="mt-5 max-w-xl font-body text-lg leading-relaxed text-parchment-100/85">{data.summary}</p>}
+
+          <dl class="mt-6 flex flex-wrap gap-x-8 gap-y-3">
+            <div>
+              <dt class="label-dark !text-[10px]">Feast day</dt>
+              <dd class="mt-1 font-heading text-xl text-ivory">
+                {formatFeast(data.feastDay)}
+                {data.feastDayLabel && <span class="block font-body text-sm text-parchment-100/60">{data.feastDayLabel}</span>}
+              </dd>
+            </div>
+            <div>
+              <dt class="label-dark !text-[10px]">Next observance</dt>
+              <dd class="mt-1 font-heading text-xl text-ivory">
+                {until === 0 ? 'Today' : until === 1 ? 'Tomorrow' : `In ${until} days`}
+              </dd>
+            </div>
+            <div>
+              <dt class="label-dark !text-[10px]">Region</dt>
+              <dd class="mt-1 font-heading text-xl text-ivory">{data.region || '—'}</dd>
+            </div>
+            <div>
+              <dt class="label-dark !text-[10px]">Canonized</dt>
+              <dd class="mt-1 font-heading text-xl text-ivory">{data.canonizedDate ?? 'Ancient times'}</dd>
+            </div>
+          </dl>
+
+          {patronKeys.length > 0 && (
+            <div class="mt-6 flex flex-wrap gap-2">
+              <span class="label-dark !text-[10px] mr-1">Patronages</span>
+              {patronKeys.map((p) => (
+                <a href={`/saints?patronage=${p.key}`} class="chip !border-gold-500/50 !text-gold-300 hover:!bg-gold-600/20">
+                  {p.label}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+
+        <figure class="justify-self-center lg:justify-self-end">
+          <ArchImage
+            src={data.image}
+            name={data.name}
+            symbol={data.symbols[0]}
+            className="w-72 sm:w-80"
+            vintage
+          />
+          {data.imageCredit && (
+            <figcaption class="mt-3 max-w-80 text-center font-body text-sm text-parchment-100/60">
+              {data.imageCredit}
+              {data.imageCreditUrl && (
+                <>
+                  {' · '}
+                  <a href={data.imageCreditUrl} target="_blank" rel="noopener noreferrer" class="text-gold-400 underline decoration-gold-600/50 underline-offset-2 hover:text-gold-300">
+                    Source
+                  </a>
+                </>
+              )}
+            </figcaption>
+          )}
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== MAIN ===== -->
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <div class="grid gap-12 lg:grid-cols-[1fr_320px]">
+      <article class="min-w-0">
+        <h2 class="sr-only">Life of {data.name}</h2>
+        <div class="saint-prose">
+          <Content />
+        </div>
+
+        {data.lifeEvents.length > 0 && (
+          <section class="mt-16" id="timeline">
+            <SectionHeading label="The road of sanctity" title="Life at a glance" sub="Milestones in the life and legacy of the saint." />
+            <div class="mt-8">
+              <Timeline events={data.lifeEvents} />
+            </div>
+          </section>
+        )}
+
+        {data.symbols.length > 0 && (
+          <section class="mt-16" id="symbols">
+            <SectionHeading label="How the Church paints them" title="Symbols & iconography" sub="The attributes by which the saint is recognized in sacred art." />
+            <div class="mt-8 flex flex-wrap gap-2">
+              {data.symbols.map((s) => (
+                <span class="chip">{s}</span>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {data.patronage.length > 0 && (
+          <section class="mt-16" id="patronage">
+            <SectionHeading label="Heavenly advocates" title="Patronage & causes" sub="The needs, professions, and places entrusted to the saint's intercession." />
+            <ul class="mt-8 grid gap-3 sm:grid-cols-2">
+              {data.patronage.map((p) => (
+                <li>
+                  <a href={`/saints?patronage=${p}`} class="group flex items-center gap-3 rounded-md border border-gold-600/30 bg-ivory/70 px-4 py-3 transition-all hover:border-gold-500 hover:bg-gold-600/10">
+                    <svg viewBox="0 0 24 24" class="h-4 w-4 shrink-0 text-gold-600" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+                      <path d="M12 3 L20 20 H4 Z" />
+                    </svg>
+                    <span class="font-heading text-lg capitalize text-navy-900 group-hover:text-burgundy-700">{p.replace(/-/g, ' ')}</span>
+                  </a>
+                </li>
+              ))}
+              {data.causes.map((c) => (
+                <li class="flex items-center gap-3 rounded-md border border-gold-600/30 bg-ivory/70 px-4 py-3">
+                  <svg viewBox="0 0 24 24" class="h-4 w-4 shrink-0 text-gold-600" fill="currentColor" aria-hidden="true">
+                    <path d="M12 3 L20 20 H4 Z" />
+                  </svg>
+                  <span class="font-body text-lg text-navy-900">{c}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </article>
+
+      <aside class="space-y-8">
+        <QuickFacts saint={saint} />
+
+        <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
+          <p class="label mb-3">Feast in {monthName(data.feastDay.month)}</p>
+          <p class="font-heading text-2xl text-navy-900">{formatFeast(data.feastDay)}</p>
+          <a href="/calendar" class="mt-3 inline-block font-heading text-gold-700 underline decoration-gold-600/50 underline-offset-4 hover:text-burgundy-700">
+            View the liturgical calendar →
+          </a>
+        </div>
+
+        {data.religiousOrder && (
+          <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
+            <p class="label mb-3">Religious family</p>
+            <a href={`/saints?order=${encodeURIComponent(data.religiousOrder)}`} class="font-heading text-xl text-navy-900 hover:text-burgundy-700">
+              {data.religiousOrder}
+            </a>
+          </div>
+        )}
+
+        <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
+          <p class="label mb-3">Century{data.centuries.length > 1 ? 's' : ''}</p>
+          <p class="font-heading text-xl text-navy-900">{data.centuries.map((c) => `${c}th`).join(', ')}</p>
+        </div>
+      </aside>
+    </div>
+
+    <!-- ===== QUOTES ===== -->
+    {data.quotes.length > 0 && (
+      <section class="mt-20" id="quotes">
+        <SectionHeading label="Their own words" title="Words of the saint" sub="Quotations from the saint's writings and the tradition that remembers them." />
+        <div class="mt-8 grid gap-6 lg:grid-cols-2">
+          {data.quotes.map((q) => (
+            <QuoteBlock text={q.text} source={q.source} />
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- ===== PRAYERS ===== -->
+    {data.prayers.length > 0 && (
+      <section class="mt-20" id="prayers">
+        <SectionHeading label="Praying with the saints" title="Prayers & novenas" sub="Prayers associated with the saint, for private and public devotion." />
+        <div class="mt-8">
+          <PrayerCards prayers={data.prayers} />
+        </div>
+      </section>
+    )}
+
+    <!-- ===== RELATED SAINTS ===== -->
+    {data.relatedSaints.length > 0 && (
+      <section class="mt-20" id="related">
+        <SectionHeading label="The company of heaven" title="Related saints" sub="Companions, teachers, spiritual children, and friends in glory." />
+        <div class="mt-8">
+          <RelatedSaints related={data.relatedSaints} />
+        </div>
+      </section>
+    )}
+
+    <!-- ===== SOURCES ===== -->
+    <section class="mt-20" id="sources">
+      <SectionHeading
+        label="Grounding in truth"
+        title="Sources & further reading"
+        sub="Biographies are original compositions drawing on public-domain works and official Church documents."
+      />
+      <div class="mt-8">
+        <SourcesList
+          sources={data.sources}
+          note="Dates and feast days follow the General Roman Calendar; where tradition and history differ, the distinction is noted in the text."
+        />
+      </div>
+    </section>
+  </div>
+</BaseLayout>

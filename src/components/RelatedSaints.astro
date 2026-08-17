@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import { slug } from '../utils/slugs';
+
+interface Props {
+  related: { name: string; slug: string; relation?: string }[];
+}
+
+const { related } = Astro.props;
+
+const all = await getCollection('saints');
+const bySlug = new Map(all.map((s) => [slug(s.id), s]));
+const links = related
+  .map((r) => {
+    const saint = bySlug.get(r.slug);
+    return saint ? { ...r, href: `/saints/${r.slug}` } : null;
+  })
+  .filter(Boolean) as { name: string; relation?: string; href: string }[];
+---
+
+<nav aria-label="Related saints">
+  <ul class="space-y-3">
+    {links.map((l) => (
+      <li>
+        <a
+          href={l.href}
+          class="group flex items-center justify-between gap-4 rounded-md border border-gold-600/30 bg-ivory/70 px-4 py-3 transition-all hover:border-gold-500 hover:bg-gold-600/10"
+        >
+          <div>
+            <p class="font-heading text-xl font-semibold text-navy-900 group-hover:text-burgundy-700">{l.name}</p>
+            {l.relation && <p class="font-body text-sm text-ink-500">{l.relation}</p>}
+          </div>
+          <svg viewBox="0 0 24 24" class="h-4 w-4 text-gold-600 transition-transform duration-300 group-hover:translate-x-1" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="m9 6 6 6-6 6" />
+          </svg>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

@@ -1,0 +1,25 @@
+---
+interface Props {
+  text: string;
+  source?: string;
+  dark?: boolean;
+}
+
+const { text, source, dark = false } = Astro.props;
+---
+
+<figure class:list={['reveal', dark ? 'text-parchment-100' : 'text-ink-800']}>
+  <div class:list={['rounded-md border-l-4 px-6 py-5', dark ? 'border-gold-500 bg-gold-600/10' : 'border-gold-600 bg-gold-600/8']}>
+    <svg viewBox="0 0 24 24" class="mb-3 h-6 w-6 opacity-60" fill="currentColor" aria-hidden="true">
+      <path d="M7.2 6C4.8 7.6 3 10.2 3 13.6 3 17 5.4 19 8 19c2.3 0 4-1.7 4-4s-1.7-4-4-4c-.2 0-.5 0-.7.1C7.8 9 9 7.4 11 6.3L7.2 6Zm10 0c-2.4 1.6-4.2 4.2-4.2 7.6 0 3.4 2.4 5.4 5 5.4 2.3 0 4-1.7 4-4s-1.7-4-4-4c-.2 0-.5 0-.7.1.5-1.7 1.7-3.3 3.7-4.4L17.2 6Z" />
+    </svg>
+    <blockquote class:list={['font-heading text-2xl font-medium italic leading-snug', dark ? 'text-gold-200' : 'text-ink-800']}>
+      “{text}”
+    </blockquote>
+    {source && (
+      <figcaption class:list={['mt-4 font-body text-base', dark ? 'text-parchment-100/70' : 'text-ink-500']}>
+        — <span class="font-semibold">{source}</span>
+      </figcaption>
+    )}
+  </div>
+</figure>

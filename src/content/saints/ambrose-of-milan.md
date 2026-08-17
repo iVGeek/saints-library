@@ -3,7 +3,7 @@ name: Ambrose of Milan
 honorific: Saint
 title: Doctor of the Church
 summary: The reluctant bishop who became the conscience of an empire — preacher, hymn-writer, and shepherd who stood in the cathedral door against an emperor's sin.
-image: Ambrose_of_Milan.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg
 imageAlt: Portrait of Ambrose of Milan
 imageCredit: Wikimedia Commons
 searchAliases:

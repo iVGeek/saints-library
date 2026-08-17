@@ -3,7 +3,7 @@ name: Saint Peter Canisius
 honorific: Saint
 title: St. Peter Canisius
 summary: "Son of Jacob Canisius, a wealthy burgomeister, and Ægidia van Houweningen, who died shortly after Peter’s birth. Educated in Cologne, Germany, studying art, civil law and theology. He was an excellent..."
-image: Peter_Canisius.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Saint_Petrus_Canisius.jpg/330px-Saint_Petrus_Canisius.jpg
 imageAlt: Portrait of Saint Peter Canisius
 imageCredit: Wikimedia Commons
 searchAliases:

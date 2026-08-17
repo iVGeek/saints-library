@@ -3,7 +3,7 @@ name: Joan of Arc
 honorific: Saint
 title: Virgin, Patroness of France
 summary: The peasant girl who led armies in the name of God, was burned as a heretic, and was declared innocent by the Church that condemned her.
-image: Jeanne_dArc_Boutet_de_Monvel.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg
 imageAlt: Portrait of Joan of Arc
 imageCredit: Wikimedia Commons
 searchAliases:

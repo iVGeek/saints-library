@@ -3,7 +3,7 @@ name: Saint Catherine of Genoa
 honorific: Saint
 title: St. Catherine of Genoa
 summary: "Daughter of Jacopo Fieschi and Francesca di Negro, Geonese nobles; she was related to Pope Innocent V and Pope Adrian V, and her father became viceroy of Naples, Italy. Youngest of five children. A pi..."
-image: Catherine_of_Genoa.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Santa_Caterina_Fieschi_Adorno-dipinto_Giovanni_Agostino_Ratti.jpg/330px-Santa_Caterina_Fieschi_Adorno-dipinto_Giovanni_Agostino_Ratti.jpg
 imageAlt: Portrait of Saint Catherine of Genoa
 imageCredit: Wikimedia Commons
 searchAliases:

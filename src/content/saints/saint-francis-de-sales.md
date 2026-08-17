@@ -3,7 +3,7 @@ name: Saint Francis de Sales
 honorific: Saint
 title: St. Francis de Sales
 summary: "Born in the castle of Château de Thorens to a well-placed Savoyard family, the eldest of twelve children born to François de Boisy and Françoise de Sionnz. His parents intended that Francis become a l..."
-image: Francis_de_Sales.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg/330px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg
 imageAlt: Portrait of Saint Francis de Sales
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Saint Padre Pio
 honorific: Saint
 title: St. Padre Pio
 summary: "Born to a southern Italian farm family, the son of Grazio, a shepherd. At age 15 he entered the novitiate of the Capuchin friars in Morcone, Italy and joined the order at age 19. Suffered several heal..."
-image: Padre_Pio_1968.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Padre_Pio_portraitFXD.jpg/330px-Padre_Pio_portraitFXD.jpg
 imageAlt: Portrait of Saint Padre Pio
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Saint Martin de Porres
 honorific: Saint
 title: St. Martin de Porres
 summary: "The illegitimate son of a Spanish nobleman, Juan, and a young freed black slave, Anna Velasquez, Martin grew up in poverty. He spent part of his youth with a surgeon–barber from whom he learned some m..."
-image: Martin_de_Porres.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg
 imageAlt: Portrait of Saint Martin de Porres
 imageCredit: Wikimedia Commons
 searchAliases:

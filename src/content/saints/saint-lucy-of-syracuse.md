@@ -3,7 +3,7 @@ name: Saint Lucy of Syracuse
 honorific: Saint
 title: St. Lucy of Syracuse
 summary: "Rich, young Christian of Greek ancestry. Raised in a pious family, she vowed her life to Christ. Her Roman father died when she was young. Her mother, Eutychia, arranged a marriage for her. For three ..."
-image: Lucy_by_Domenico_Beccafumi.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/330px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg
 imageAlt: Portrait of Saint Lucy of Syracuse
 imageCredit: Wikimedia Commons
 searchAliases:

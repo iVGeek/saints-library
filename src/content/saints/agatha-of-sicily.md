@@ -3,7 +3,7 @@ name: Agatha of Sicily
 honorific: Saint
 title: Virgin, Martyr
 summary: The Sicilian virgin who refused a Roman governor's lust and died in chains — patroness of breast cancer patients, invoked against fire and earthquakes.
-image: Saint_Agatha_Luca_Giordano.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg/330px-Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg
 imageAlt: Portrait of Agatha of Sicily
 imageCredit: Wikimedia Commons
 searchAliases:

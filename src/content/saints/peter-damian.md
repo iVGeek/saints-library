@@ -3,7 +3,7 @@ name: Peter Damian
 honorific: Saint
 title: Cardinal, Doctor of the Church
 summary: A hermit who became a fiery reformer of the eleventh-century Church — cardinal-bishop of Ostia, scourge of clerical worldliness, and one of the great doctors of the medieval Church.
-image: Peter_Damian.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Peter_Damian_bust.JPG
 imageAlt: Portrait of Peter Damian
 imageCredit: Wikimedia Commons
 searchAliases:

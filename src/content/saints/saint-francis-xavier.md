@@ -3,7 +3,7 @@ name: Saint Francis Xavier
 honorific: Saint
 title: St. Francis Xavier
 summary: "Born to the nobility of the Basque reqion. Studied and taught philosophy at the University of Paris, and planned a career as a professor. Friend of Saint Ignatius of Loyola who convinced him to use hi..."
-image: Francis_Xavier,_copy_of_original_by_Cavallaro.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franciscus_de_Xabier.jpg/330px-Franciscus_de_Xabier.jpg
 imageAlt: Portrait of Saint Francis Xavier
 imageCredit: Wikimedia Commons
 searchAliases:

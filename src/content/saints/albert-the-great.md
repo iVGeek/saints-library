@@ -3,7 +3,7 @@ name: Albert the Great
 honorific: Saint
 title: Doctor of the Church
 summary: The "Universal Doctor" — Dominican master, bishop, and the medieval West's greatest student of nature, who taught that science and faith belong to the same God.
-image: AlbertusMagnus.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vicente_salvador_gomez-san_alberto.jpg/330px-Vicente_salvador_gomez-san_alberto.jpg
 imageAlt: Portrait of Albert the Great
 imageCredit: Wikimedia Commons
 searchAliases:

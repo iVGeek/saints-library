@@ -3,7 +3,7 @@ name: Saint Monica
 honorific: Saint
 title: St. Monica
 summary: "Raised in a Christian family, she was given in marriage to a bad-tempered, adulterous pagan named Patricius. Mother of two, one of whom is Saint Augustine of Hippo whose writings about her are the pri..."
-image: Sandro_Botticelli_-_St_Augustine_in_His_Study.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_of_Hippo_by_Gozzoli.jpg
 imageAlt: Portrait of Saint Monica
 imageCredit: Wikimedia Commons
 searchAliases:

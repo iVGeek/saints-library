@@ -3,7 +3,7 @@ name: Saint Teresa Benedicta of the Cross
 honorific: Saint
 title: St. Teresa Benedicta of the Cross
 summary: "Youngest of seven children in a Jewish family. Edith lost interest and faith in Judaism by age 13. Brilliant student and philosopher with an interest in phenomenology. Studied at the University of Göt..."
-image: Edith_Stein.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Edith_Stein_%28ca._1938-1939%29.jpg/330px-Edith_Stein_%28ca._1938-1939%29.jpg
 imageAlt: Portrait of Saint Teresa Benedicta of the Cross
 imageCredit: Wikimedia Commons
 searchAliases:

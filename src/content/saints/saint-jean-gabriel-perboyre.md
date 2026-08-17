@@ -3,7 +3,7 @@ name: Saint Jean-Gabriel Perboyre
 honorific: Saint
 title: St. Jean-Gabriel Perboyre
 
-image: Jean-Gabriel_Perboyre.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/f/fd/Statue_perboyre.jpg
 imageAlt: Portrait of Saint Jean-Gabriel Perboyre
 imageCredit: Wikimedia Commons
 searchAliases:

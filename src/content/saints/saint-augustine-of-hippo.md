@@ -3,7 +3,7 @@ name: Saint Augustine of Hippo
 honorific: Saint
 title: St. Augustine of Hippo
 summary: "Son of a pagan father who converted on his death bed, and of Saint Monica, a devout Christian. Raised a Christian, he lost his faith in youth and led a wild life. Lived with a Carthaginian woman from ..."
-image: Armand_Henrion_Augustine_of_Hippo.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg
 imageAlt: Portrait of Saint Augustine of Hippo
 imageCredit: Wikimedia Commons
 searchAliases:

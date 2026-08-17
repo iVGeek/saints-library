@@ -3,7 +3,7 @@ name: Saint Siméon-François Berneux
 honorific: Saint
 title: St. Siméon-François Berneux
 summary: "Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in 1831. Due to health problems, he had to leave seminary for two years during which tim..."
-image: Siméon_François_Berneux.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/09/Yegorov-Simeon_the_Righteous.jpg
 imageAlt: Portrait of Saint Siméon-François Berneux
 imageCredit: Wikimedia Commons
 birthYear: 1814

@@ -3,7 +3,7 @@ name: Saint Genevieve
 honorific: Saint
 title: St. Genevieve
 summary: "When she was seven years old, Genevieve met Saint Germanus of Auxerre on his way to England. Germain befriended her because of her insistence on wanting to live her life for God, and prophesied her fu..."
-image: Genevieve.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/StGenevieve.jpg/330px-StGenevieve.jpg
 imageAlt: Portrait of Saint Genevieve
 imageCredit: Wikimedia Commons
 searchAliases:

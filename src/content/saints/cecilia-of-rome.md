@@ -3,7 +3,7 @@ name: Cecilia of Rome
 honorific: Saint
 title: Virgin, Martyr
 summary: A Roman noblewoman of the third century who sang to God in her heart at her wedding feast and died for her faith — patroness of music, and the saint whose name still rings through the world's concert halls.
-image: Valentin_de_Boulogne_-_Saint_Cecilia.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Guercino_-_St._Cecilia_-_Google_Art_Project.jpg/330px-Guercino_-_St._Cecilia_-_Google_Art_Project.jpg
 imageAlt: Portrait of Cecilia of Rome
 imageCredit: Wikimedia Commons
 searchAliases:

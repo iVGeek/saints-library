@@ -43,7 +43,7 @@ symbols:
   - Rooster
   - Rock
 martyr: true
-image: Pope-peter_pprubens.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Peter-Sinai_%286th_Century%29_Crop.jpg/330px-Saint_Peter-Sinai_%286th_Century%29_Crop.jpg
 imageAlt: Rubens's depiction of the Apostle Saint Peter as Pope
 imageCredit: Peter Paul Rubens (1610–1612) — public domain (Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pope-peter_pprubens.jpg

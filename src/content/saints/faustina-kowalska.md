@@ -3,7 +3,7 @@ name: Faustina Kowalska
 honorific: Saint
 title: Religious, Mystic
 summary: The Polish nun chosen to carry the message of Divine Mercy — she recorded in her diary the words of Jesus, "I desire mercy," and spread the devotion the whole world now prays.
-image: Faustina_Kowalska.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Maria_Faustyna_Kowalska.jpg/330px-Maria_Faustyna_Kowalska.jpg
 imageAlt: Portrait of Faustina Kowalska
 imageCredit: Wikimedia Commons
 searchAliases:

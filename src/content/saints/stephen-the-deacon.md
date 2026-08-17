@@ -3,7 +3,7 @@ name: Stephen the Deacon
 honorific: Saint
 title: Deacon, Protomartyr
 summary: The first deacon of the Church and its first martyr — a man "full of faith and the Holy Spirit" who saw heaven open as the stones fell.
-image: Giorgio_Vasari_-_Santo_Esteban.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St-stephen.jpg/330px-St-stephen.jpg
 imageAlt: Portrait of Stephen the Deacon
 imageCredit: Wikimedia Commons
 searchAliases:

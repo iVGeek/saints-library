@@ -3,7 +3,7 @@ name: Saint Anthony of Padua
 honorific: Saint
 title: St. Anthony of Padua
 summary: "Anthony’s wealthy family wanted him to be a great nobleman, but for the sake of Christ he became a poor Franciscan. Priest. When the remains of Saint Berard and his companions, the first Franciscan ma..."
-image: Francisco_de_Zurbarán_-_Santo_Antonio_de_Padua.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/330px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg
 imageAlt: Portrait of Saint Anthony of Padua
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Mary of Nazareth
 honorific: Our Lady
 title: Blessed Virgin, Mother of God
 summary: The handmaid of the Lord — she who said yes to God in the Annunciation, bore Christ in her womb, stood at the cross, and was taken up into heaven.
-image: Our_Lady_of_Guadalupe_Virgin_of_Mexico.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Madonna_Advocata.png/330px-Madonna_Advocata.png
 imageAlt: Portrait of Mary of Nazareth
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Saint Boniface of Crediton
 honorific: Saint
 title: St. Boniface of Crediton
 summary: "Educated at the Benedictine monastery at Exeter, England. Benedictine monk at Exeter. Missionary to Germany from 719, assisted by Saint Albinus, Saint Abel, and Saint Agatha. They destroyed idols and ..."
-image: Bonifatius.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/1/16/Saint_Boniface_by_Cornelis_Bloemaert.jpg
 imageAlt: Portrait of Saint Boniface of Crediton
 imageCredit: Wikimedia Commons
 searchAliases:

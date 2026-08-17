@@ -3,7 +3,7 @@ name: Polycarp of Smyrna
 honorific: Saint
 title: Bishop, Martyr
 summary: Disciple of the Apostle John, bishop of Smyrna, and one of the last living links to the apostolic age — burned at the stake at eighty-six with a prayer of thanksgiving on his lips.
-image: Polycarp_of_Smyrna.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Polycarp_of_Smyrna2.jpg/330px-Polycarp_of_Smyrna2.jpg
 imageAlt: Portrait of Polycarp of Smyrna
 imageCredit: Wikimedia Commons
 searchAliases:

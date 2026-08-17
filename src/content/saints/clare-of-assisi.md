@@ -3,7 +3,7 @@ name: Clare of Assisi
 honorific: Saint
 title: Abbess, Foundress of the Poor Clares
 summary: The noblewoman of Assisi who left her home to follow Francis in absolute poverty; abbess of San Damiano and spiritual mother of the Poor Clares.
-image: Francisco_de_Zurbarán_-_Santa_Clara_de_Asís.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/SDamiano-Clara.jpg/330px-SDamiano-Clara.jpg
 imageAlt: Portrait of Clare of Assisi
 imageCredit: Wikimedia Commons
 searchAliases:

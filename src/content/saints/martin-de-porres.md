@@ -3,7 +3,7 @@ name: Martin de Porres
 honorific: Saint
 title: Religious
 summary: A humble Dominican brother of Lima who healed the sick, fed the poor, and cared for animals — the first black saint of the Americas and a sign of God's love for every race.
-image: Martin_de_Porres.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg
 imageAlt: Portrait of Martin de Porres
 imageCredit: Wikimedia Commons
 searchAliases:

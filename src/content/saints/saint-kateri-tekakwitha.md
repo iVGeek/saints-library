@@ -3,7 +3,7 @@ name: Saint Kateri Tekakwitha
 honorific: Saint
 title: St. Kateri Tekakwitha
 summary: "Daughter of a Christian Algonquin woman captured by Iroquois and married to a non-Christian Mohawk chief. Orphaned during a smallpox epidemic, which left her with a scarred face and impaired eyesight...."
-image: Kateri_Tekakwitha.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CatherinaeTekakwithaVirginis1690.jpg/330px-CatherinaeTekakwithaVirginis1690.jpg
 imageAlt: Portrait of Saint Kateri Tekakwitha
 imageCredit: Wikimedia Commons
 searchAliases:

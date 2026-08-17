@@ -41,7 +41,7 @@ symbols:
   - Dragon underfoot
   - Banner
 martyr: false
-image: GuidoReni_MichaelDefeatsSatan.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/330px-GuidoReni_MichaelDefeatsSatan.jpg
 imageAlt: Guido Reni's Archangel Michael defeats Satan, c. 1636
 imageCredit: Guido Reni (1636), Santa Maria della Concezione, Rome — public domain (Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg

@@ -3,7 +3,7 @@ name: Charles Borromeo
 honorific: Saint
 title: Cardinal, Bishop
 summary: Archbishop of Milan and engine of the Catholic Reformation — the cardinal who wrote catechisms, built seminaries, and reorganized a whole diocese on foot.
-image: Carlo_Borromeo_by_Antonio_Crespi.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/330px-Carlo_Borromeo.jpg
 imageAlt: Portrait of Charles Borromeo
 imageCredit: Wikimedia Commons
 searchAliases:

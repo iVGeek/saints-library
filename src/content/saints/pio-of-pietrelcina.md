@@ -3,7 +3,7 @@ name: Pio of Pietrelcina
 honorific: Saint
 title: Priest, Stigmatist
 summary: The Capuchin friar of San Giovanni Rotondo whose wounds of Christ, long confessions, and miracles drew the world to his confessional — Padre Pio, a sign of the Cross in our own century.
-image: Padre_Pio_1968.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Padre_Pio_portraitFXD.jpg/330px-Padre_Pio_portraitFXD.jpg
 imageAlt: Portrait of Pio of Pietrelcina
 imageCredit: Wikimedia Commons
 searchAliases:

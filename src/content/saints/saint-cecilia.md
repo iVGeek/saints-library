@@ -3,7 +3,7 @@ name: Saint Cecilia
 honorific: Saint
 title: St. Cecilia
 summary: "Cultivated young patrician woman whose ancestors loomed large in Rome’s history. She vowed her virginity to God, but her parents married her to Valerian of Trastevere. Cecilia told her new husband tha..."
-image: Valentin_de_Boulogne_-_Saint_Cecilia.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Guercino_-_St._Cecilia_-_Google_Art_Project.jpg/330px-Guercino_-_St._Cecilia_-_Google_Art_Project.jpg
 imageAlt: Portrait of Saint Cecilia
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Saint Thérèse of Lisieux
 honorific: Saint
 title: St. Thérèse of Lisieux
 summary: "Born to a pious middle-class French family of tradesmen; daughter of Blessed Louis Martin and Blessed Marie-Azelie Guérin Martin, and all four of her sisters became nuns. Her mother died when Francois..."
-image: Therese_of_Lisieux.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Teresa-de-Lisieux.jpg/330px-Teresa-de-Lisieux.jpg
 imageAlt: Portrait of Saint Thérèse of Lisieux
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: John of the Cross
 honorific: Saint
 title: Doctor of the Church
 summary: Carmelite poet and mystic who suffered prison to reform his order — master of the "dark night of the soul" who taught that God is found in the loss of everything else.
-image: John_of_the_Cross.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg/330px-Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg
 imageAlt: Portrait of John of the Cross
 imageCredit: Wikimedia Commons
 searchAliases:

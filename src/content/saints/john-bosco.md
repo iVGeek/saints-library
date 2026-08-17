@@ -3,7 +3,7 @@ name: John Bosco
 honorific: Saint
 title: Priest, Founder
 summary: >-
-image: Giovanni_Bosco.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg/330px-Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg
 imageAlt: Portrait of John Bosco
 imageCredit: Wikimedia Commons
   "Don Bosco" — the apostle of Turin's street boys, founder of the Salesians, whose

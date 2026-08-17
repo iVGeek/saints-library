@@ -3,7 +3,7 @@ name: Scholastica of Nursia
 honorific: Saint
 title: Virgin
 summary: Twin sister of Saint Benedict and foundress of monastic life for women in the West, whose love was stronger than any rule — remembered for the storm that kept her brother with her on her last night on earth.
-image: Scholastica.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kleinmariazell_-_Altar_Scholastica_2.jpg/330px-Kleinmariazell_-_Altar_Scholastica_2.jpg
 imageAlt: Portrait of Scholastica of Nursia
 imageCredit: Wikimedia Commons
 searchAliases:

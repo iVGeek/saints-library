@@ -3,7 +3,7 @@ name: Saint Bridget of Sweden
 honorific: Saint
 title: St. Bridget of Sweden
 summary: "Daughter of Birger Persson, the governor and provincial judge of Uppland, and of Ingeborg Bengtsdotter. Her father was one of the greatest landowners in the country, her mother was known widely for he..."
-image: Bridget_of_Sweden.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png/330px-Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png
 imageAlt: Portrait of Saint Bridget of Sweden
 imageCredit: Wikimedia Commons
 searchAliases:

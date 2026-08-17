@@ -3,7 +3,7 @@ name: Saint Maximilian Kolbe
 honorific: Saint
 title: St. Maximilian Kolbe
 summary: "Saint Max was born as Raymond Kolbe, the second of three sons born to a poor, pious Catholic family in Russian occupied Poland. His parents, both Franciscan lay tertiaries, worked at home as weavers. ..."
-image: Maximilian_Kolbe_1936.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fr.Maximilian_Kolbe_in_1936.jpg/330px-Fr.Maximilian_Kolbe_in_1936.jpg
 imageAlt: Portrait of Saint Maximilian Kolbe
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Saint John de Brébeuf
 honorific: Saint
 title: St. John de Brébeuf
 summary: "French Jesuit. He wanted to enter the priesthood from an early age, but his health was so bad there were doubts he could make it. His posting as a missionary to frontier Canada at age 32, however, was..."
-image: Jean_de_Brébeuf.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Br%C3%A9buef-jesuits04jesuuoft.jpg
 imageAlt: Portrait of Saint John de Brébeuf
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Lucy of Syracuse
 honorific: Saint
 title: Virgin, Martyr
 summary: The virgin martyr of Syracuse whose name means "light" — she gave her wealth to the poor and her life to Christ, and she carries a lamp for all who suffer in darkness.
-image: Lucy_by_Domenico_Beccafumi.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/330px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg
 imageAlt: Portrait of Lucy of Syracuse
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: Francis Xavier
 honorific: Saint
 title: Priest, Missionary
 summary: The apostle of the Indies and Japan — co-founder of the Society of Jesus who carried the Gospel across the oceans in three years of preaching from Goa to the edge of China.
-image: Francis_Xavier,_copy_of_original_by_Cavallaro.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franciscus_de_Xabier.jpg/330px-Franciscus_de_Xabier.jpg
 imageAlt: Portrait of Francis Xavier
 imageCredit: Wikimedia Commons
 searchAliases:

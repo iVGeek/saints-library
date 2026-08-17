@@ -47,7 +47,7 @@ symbols:
   - Stigmata
   - Canticle
 martyr: false
-image: Cimabue_Saint_Francis_Fragment.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/330px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg
 imageAlt: A Cimabue fresco fragment depicting Saint Francis of Assisi
 imageCredit: Cimabue (c. 1240–1302), fresco fragment, Assisi — public domain (Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cimabue_Saint_Francis_Fragment.jpg

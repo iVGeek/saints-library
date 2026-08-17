@@ -3,7 +3,7 @@ name: Simon the Zealot
 honorific: Saint
 title: Apostle, Martyr
 
-image: SimonTheZealot.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rubens_apostel_simon.jpg/330px-Rubens_apostel_simon.jpg
 imageAlt: Portrait of Simon the Zealot
 imageCredit: Wikimedia Commons
 searchAliases:

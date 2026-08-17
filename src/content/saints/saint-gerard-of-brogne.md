@@ -3,7 +3,7 @@ name: Saint Gérard of Brogne
 honorific: Saint
 title: St. Gérard of Brogne
 summary: "Born to the Belgian nobility; son of Stance and Plectrude. Raised in a military atmosphere. Courtier to the Count of Namur. Disappointed by court life, and ashamed of the many privileges he received f..."
-image: Gerard_of_Brogne.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gerardo_de_Brogne_%28cropped%29.JPG/330px-Gerardo_de_Brogne_%28cropped%29.JPG
 imageAlt: Portrait of Saint Gérard of Brogne
 imageCredit: Wikimedia Commons
 searchAliases:

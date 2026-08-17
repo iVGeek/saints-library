@@ -3,7 +3,7 @@ name: Saint Anne
 honorific: Saint
 title: St. Anne
 summary: "Mother of Our Lady. Grandmother of Jesus Christ. Wife of Saint Joachim. Probably well off. Tradition says that Anne was quite elderly when Mary was born, and that she was their only child. The belief ..."
-image: Giotto_di_Bondone_-_No._26_ Scenes_from_the_Life_of_Saint_Anne_-_WGA09179.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg/960px-Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg
 imageAlt: Portrait of Saint Anne
 imageCredit: Wikimedia Commons
 centuries: [16]

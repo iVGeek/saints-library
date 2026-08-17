@@ -3,7 +3,7 @@ name: Kateri Tekakwitha
 honorific: Saint
 title: Virgin, Religious
 summary: The "Lily of the Mohawks" — a young Native American woman of colonial New York who kept her faith through persecution and gave her whole life to God, first Native American saint of the Church.
-image: Kateri_Tekakwitha.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CatherinaeTekakwithaVirginis1690.jpg/330px-CatherinaeTekakwithaVirginis1690.jpg
 imageAlt: Portrait of Kateri Tekakwitha
 imageCredit: Wikimedia Commons
 searchAliases:

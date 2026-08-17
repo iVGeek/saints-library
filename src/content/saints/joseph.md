@@ -42,7 +42,7 @@ symbols:
   - Tools
   - Holy Family
 martyr: false
-image: Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Peter_von_Cornelius_002.jpg/330px-Peter_von_Cornelius_002.jpg
 imageAlt: Guido Reni's painting of Saint Joseph holding the Christ Child
 imageCredit: Guido Reni (1635–1640), oil on canvas — public domain (Google Art Project via Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg

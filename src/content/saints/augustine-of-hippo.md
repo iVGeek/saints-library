@@ -3,7 +3,7 @@ name: Augustine of Hippo
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: The restless heart of North Africa who found in God the answer to his search; bishop of Hippo, the most influential theologian of the Western Church.
-image: Armand_Henrion_Augustine_of_Hippo.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg
 imageAlt: Portrait of Augustine of Hippo
 imageCredit: Wikimedia Commons
 searchAliases:

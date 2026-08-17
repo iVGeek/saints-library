@@ -3,7 +3,7 @@ name: Jude Thaddaeus
 honorific: Saint
 title: Apostle, Martyr
 summary: The apostle of the hopeless — patron of impossible causes and desperate situations, whose name is invoked by the whole world in its darkest hours.
-image: St_Jude_Thaddeus_Melbourne.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/330px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg
 imageAlt: Portrait of Jude Thaddaeus
 imageCredit: Wikimedia Commons
 searchAliases:

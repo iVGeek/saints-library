@@ -3,7 +3,7 @@ name: Saint Elizabeth of Hungary
 honorific: Saint
 title: St. Elizabeth of Hungary
 summary: "Princess, the daughter of King Andrew of Hungary. Great-aunt of Saint Elizabeth of Portugal. She married Prince Louis of Thuringa at age 13. Built a hospital at the foot of the mountain on which her c..."
-image: Saint_Elisabeth_of_Hungary_Meister_Francke.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Simone_Martini_046.jpg/330px-Simone_Martini_046.jpg
 imageAlt: Portrait of Saint Elizabeth of Hungary
 imageCredit: Wikimedia Commons
 searchAliases:

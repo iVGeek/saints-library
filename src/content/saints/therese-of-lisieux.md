@@ -44,7 +44,7 @@ symbols:
   - Bouquet of roses
   - Carmelite habit
 martyr: false
-image: Teresa-de-Lisieux.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Teresa-de-Lisieux.jpg/330px-Teresa-de-Lisieux.jpg
 imageAlt: The 1895 photograph of Saint Thérèse of the Child Jesus holding a crucifix and a spray of roses
 imageCredit: Photograph of Thérèse Martin, Lisieux, Easter 1895 — public domain (Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Teresa-de-Lisieux.jpg

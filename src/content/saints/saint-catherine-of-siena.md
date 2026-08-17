@@ -3,7 +3,7 @@ name: Saint Catherine of Siena
 honorific: Saint
 title: St. Catherine of Siena
 summary: "Youngest of 24 children; her father was a wool-dyer. At the age of seven she had a vision in which Jesus appeared with Peter, Paul, and John; Jesus blessed her, and she consecrated herself to Him. Her..."
-image: Catherine_of_Siena_-_Rosso_Fiorentino.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Giovanni_Battista_Tiepolo_096.jpg/330px-Giovanni_Battista_Tiepolo_096.jpg
 imageAlt: Portrait of Saint Catherine of Siena
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -3,7 +3,7 @@ name: John Fisher
 honorific: Saint
 title: Bishop, Martyr
 summary: The cardinal and bishop of Rochester who refused to break with Rome and fell before the axe on Tower Hill — patron of lawyers and of those who defend the truth against the crown.
-image: John_Fisher_by_Hans_Holbein_the_Younger.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/San_Juan_Fisher_Obispo_de_Rochester_y_M%C3%A1rtir.jpg/330px-San_Juan_Fisher_Obispo_de_Rochester_y_M%C3%A1rtir.jpg
 imageAlt: Portrait of John Fisher
 imageCredit: Wikimedia Commons
 searchAliases:

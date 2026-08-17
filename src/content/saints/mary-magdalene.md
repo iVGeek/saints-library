@@ -40,7 +40,7 @@ symbols:
   - Red egg
   - Paschal candle
 martyr: false
-image: Titian_-_Penitent_Magdalene_(Hermitage).jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg/330px-TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg
 imageAlt: Titian's Penitent Magdalene, painted c. 1561–65
 imageCredit: Titian, Penitent Magdalene (c. 1561–65), Hermitage Museum — public domain (Wikimedia Commons)
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Titian_-_Penitent_Magdalene_(Hermitage).jpg

@@ -3,7 +3,7 @@ name: Saint Mary MacKillop
 honorific: Saint
 title: St. Mary MacKillop
 summary: "Eldest child of Alexander and Flora MacKillop, poor Scottish emigrants to Australia. Her father had studied for the priesthood, but was never ordained. Mary was educated at private schools and by her ..."
-image: Mother_Mary_MacKillop_1890.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mary_MacKillop.jpg/330px-Mary_MacKillop.jpg
 imageAlt: Portrait of Saint Mary MacKillop
 imageCredit: Wikimedia Commons
 searchAliases:

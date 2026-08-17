@@ -3,7 +3,7 @@ name: Rose of Lima
 honorific: Saint
 title: Virgin, Religious
 
-image: Rosa_de_Santa_María_de_Florencia.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg/330px-Sta_Rosa_de_Lima_por_Claudio_Coello.jpg
 imageAlt: Portrait of Rose of Lima
 imageCredit: Wikimedia Commons
 searchAliases:

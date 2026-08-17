@@ -3,7 +3,7 @@ name: Saint Joan of Arc
 honorific: Saint
 title: St. Joan of Arc
 summary: "One of five children born to Jacques d’Arc and Isabelle Romee. Shepherdess. Mystic. From age 13 she received visions from Saint Margaret of Antioch, Saint Catherine of Alexandria, and Michael the Arch..."
-image: Jeanne_dArc_Boutet_de_Monvel.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg
 imageAlt: Portrait of Saint Joan of Arc
 imageCredit: Wikimedia Commons
 searchAliases:

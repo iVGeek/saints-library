@@ -3,7 +3,7 @@ name: Saint John of the Cross
 honorific: Saint
 title: St. John of the Cross
 summary: "Born in poverty. Cared for the poor in the hospital in Medina del Campo, Spain. Carmelite lay brother in 1563 at age 21, though he lived more strictly than the Rule required. Studied at Salamanca, Spa..."
-image: John_of_the_Cross.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg/330px-Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg
 imageAlt: Portrait of Saint John of the Cross
 imageCredit: Wikimedia Commons
 searchAliases:

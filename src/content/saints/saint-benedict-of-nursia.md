@@ -3,7 +3,7 @@ name: Saint Benedict of Nursia
 honorific: Saint
 title: St. Benedict of Nursia
 summary: "Born to the Roman nobility. Twin brother of Saint Scholastica. Studied in Rome, Italy, but was dismayed by the lack of discipline and the lackadasical attitude of his fellow students. Fled to the moun..."
-image: Fra_Angelico_-_Saint_Benedict.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg/330px-Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg
 imageAlt: Portrait of Saint Benedict of Nursia
 imageCredit: Wikimedia Commons
 searchAliases:

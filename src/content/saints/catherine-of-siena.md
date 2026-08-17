@@ -3,7 +3,7 @@ name: Catherine of Siena
 honorific: Saint
 title: Virgin, Doctor of the Church, Mystic
 summary: A lay Dominican mystic and counselor of popes who spoke with startling boldness to the rulers of Church and state — one of only four women Doctors of the Church.
-image: Catherine_of_Siena_-_Rosso_Fiorentino.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Giovanni_Battista_Tiepolo_096.jpg/330px-Giovanni_Battista_Tiepolo_096.jpg
 imageAlt: Portrait of Catherine of Siena
 imageCredit: Wikimedia Commons
 searchAliases:

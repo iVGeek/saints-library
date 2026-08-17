@@ -3,7 +3,7 @@ name: Hilary of Poitiers
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: The "Athanasius of the West" — bishop of Poitiers who defended the divinity of Christ against Arianism and was exiled for his faith.
-image: Hilaryofpoitiers.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hilaryofpoitiers.jpg/330px-Hilaryofpoitiers.jpg
 imageAlt: Portrait of Hilary of Poitiers
 imageCredit: Wikimedia Commons
 searchAliases:

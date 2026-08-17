@@ -3,7 +3,7 @@ name: Saint Stanislaus of Cracow
 honorific: Saint
 title: St. Stanislaus of Cracow
 summary: "Born to the Polish nobility, son of Belislaus and Bogna, and raised in a pious family. Educated at Gnesen, Poland, and may have studied at Paris, France. When his parents died, Stanislaus distributed ..."
-image: Stanislaus_of_Cracow.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Krakow_-_Altar_of_3_millenia.jpg/960px-Krakow_-_Altar_of_3_millenia.jpg
 imageAlt: Portrait of Saint Stanislaus of Cracow
 imageCredit: Wikimedia Commons
 searchAliases:

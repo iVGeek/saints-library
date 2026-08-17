@@ -3,7 +3,7 @@ name: James the Greater
 honorific: Saint
 title: Apostle, Martyr
 summary: The son of Zebedee, brother of John, first of the apostles to be martyred — the apostle of Spain whose shrine at Compostela drew the whole medieval world on pilgrimage.
-image: El_Greco_-_Saint_James_the_Greater.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg/330px-Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg
 imageAlt: Portrait of James the Greater
 imageCredit: Wikimedia Commons
 searchAliases:

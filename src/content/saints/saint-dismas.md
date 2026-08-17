@@ -3,7 +3,7 @@ name: Saint Dismas
 honorific: Saint
 title: St. Dismas
 summary: "One of the thieves crucified with Jesus, the other being traditionally known as Gestas; Dismas is the Good Thief, the one who rebuked the other, and asked for Christ’s blessing. An old legend from an ..."
-image: The_Cross_of_Crime_-_Peter_Paul_Rubens.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/9/9d/Titian_-_Christ_and_the_Good_Thief_-_WGA22832.jpg
 imageAlt: Portrait of Saint Dismas
 imageCredit: Wikimedia Commons
 searchAliases:

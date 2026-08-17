@@ -3,7 +3,7 @@ name: Saint Teresa of Ávila
 honorific: Saint
 title: St. Teresa of Ávila
 summary: "Born to the Spanish nobility, the daughter of Don Alonso Sanchez de Cepeda and Doña Beatriz. She grew up reading the lives of the saints, and playing at “hermit” in the garden. Crippled by disease in ..."
-image: Santa_Teresa_de_Jesús.jpg
+image: https://upload.wikimedia.org/wikipedia/en/8/83/Teresa-de-Jesus-%28film%29-dpi100.jpg
 imageAlt: Portrait of Saint Teresa of Ávila
 imageCredit: Wikimedia Commons
 searchAliases:

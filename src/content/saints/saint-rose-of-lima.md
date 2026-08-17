@@ -3,7 +3,7 @@ name: Saint Rose of Lima
 honorific: Saint
 title: St. Rose of Lima
 summary: "Born to Spanish immigrants to the New World. A beautiful girl and devoted daughter, she was so devoted to her vow of chastity that she used pepper and lye to ruin her complexion so she would not be at..."
-image: Rosa_de_Santa_María_de_Florencia.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg/330px-Sta_Rosa_de_Lima_por_Claudio_Coello.jpg
 imageAlt: Portrait of Saint Rose of Lima
 imageCredit: Wikimedia Commons
 birthYear: 1586

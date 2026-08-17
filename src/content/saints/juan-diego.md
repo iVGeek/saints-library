@@ -3,6 +3,9 @@ name: Juan Diego
 honorific: Saint
 title: Layman
 summary: The humble Aztec convert who received the vision of Our Lady of Guadalupe on Tepeyac hill — messenger of the tilma that still hangs in her basilica.
+image: Juan-Diego.jpg
+imageAlt: Portrait of Juan Diego
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Juan Diego
   - Saint Juan Diego

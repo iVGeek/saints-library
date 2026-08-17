@@ -3,6 +3,9 @@ name: Teresa of Calcutta
 honorific: Saint
 title: Founder, Missionaries of Charity
 summary: The Albanian nun who spent a lifetime serving the poorest of the poor in Calcutta — "God's pencil" and one of the most recognizable women of the twentieth century.
+image: Mother_Teresa_1.jpg
+imageAlt: Portrait of Teresa of Calcutta
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Mother Teresa
   - Mother Teresa

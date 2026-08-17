@@ -3,6 +3,9 @@ name: Thomas More
 honorific: Saint
 title: Martyr
 summary: Lord Chancellor of England, humanist, and author of Utopia, who gave up the highest office in the realm rather than deny the supremacy of conscience over the king.
+image: Hans_Holbein_the_Younger_Sir_Thomas_More.jpg
+imageAlt: Portrait of Thomas More
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Thomas More
   - Sir Thomas More

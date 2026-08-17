@@ -3,6 +3,9 @@ name: Maximilian Kolbe
 honorific: Saint
 title: Priest, Martyr
 summary: The Franciscan friar of the Immaculate who offered his life for a stranger in Auschwitz and died a martyr of charity — apostle of Mary and of the media.
+image: Maximilian_Kolbe_1936.jpg
+imageAlt: Portrait of Maximilian Kolbe
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Maximilian Kolbe
   - Saint Maximilian Kolbe

@@ -2,7 +2,10 @@
 name: Simon the Zealot
 honorific: Saint
 title: Apostle, Martyr
-summary: The apostle who may have belonged to the Zealot movement for Jewish liberation — one of the Twelve who carried the Gospel to the ends of the ancient world.
+
+image: SimonTheZealot.jpg
+imageAlt: Portrait of Simon the Zealot
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Simon the Zealot
   - Saint Simon

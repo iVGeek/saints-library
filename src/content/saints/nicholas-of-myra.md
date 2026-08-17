@@ -3,6 +3,9 @@ name: Nicholas of Myra
 honorific: Saint
 title: Bishop
 summary: The wonder-working bishop of Myra whose secret generosity became the legend of Santa Claus — defender of the poor, of sailors, and of children.
+image: Antonello_da_Messina_-_San_Nicola_di_Bari.jpg
+imageAlt: Portrait of Nicholas of Myra
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Nicholas
   - Saint Nicholas

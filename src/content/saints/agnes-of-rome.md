@@ -3,6 +3,9 @@ name: Agnes of Rome
 honorific: Saint
 title: Virgin, Martyr
 summary: A Roman girl of thirteen who chose martyrdom rather than deny Christ — one of the most beloved virgin martyrs of the early Church, remembered in the canon of the Mass.
+image: Guercino_-_Santa_Agnes.jpg
+imageAlt: Portrait of Agnes of Rome
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Agnes
   - Santa Agnese

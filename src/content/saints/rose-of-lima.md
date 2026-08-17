@@ -2,7 +2,10 @@
 name: Rose of Lima
 honorific: Saint
 title: Virgin, Religious
-summary: The first saint of the Americas — a laywoman of Lima who lived in a garden hermitage and spent her life in prayer, penance, and care for the poor.
+
+image: Rosa_de_Santa_María_de_Florencia.jpg
+imageAlt: Portrait of Rose of Lima
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Rose of Lima
   - Saint Rose

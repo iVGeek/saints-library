@@ -3,6 +3,9 @@ name: Francis de Sales
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: The gentle bishop of Geneva who won back the Protestants with patience and wrote theIntroduction to the Devout Life — patron of writers, journalists, and of those who seek God in ordinary life.
+image: Francis_de_Sales.jpg
+imageAlt: Portrait of Francis de Sales
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Francis de Sales
   - Saint Francis de Sales

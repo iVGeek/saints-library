@@ -3,6 +3,9 @@ name: John Henry Newman
 honorific: Saint
 title: Cardinal, Priest, Theologian
 summary: An Oxford scholar and Anglican divine who followed truth into the Catholic Church, became a cardinal, and was declared a saint — a doctor of the conscience.
+image: John_Henry_Newman_by_John_Collier.jpg
+imageAlt: Portrait of John Henry Newman
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. John Henry Newman
   - Cardinal Newman

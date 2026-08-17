@@ -3,6 +3,9 @@ name: Teresa of Ávila
 honorific: Saint
 title: Doctor of the Church
 summary: The fiery Carmelite reformer and mystic who taught the Church to pray — "Teresa the Great," foundress of the Discalced Carmelites and author of the Interior Castle.
+image: Santa_Teresa_de_Jesús.jpg
+imageAlt: Portrait of Teresa of Ávila
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Teresa of Avila
   - Saint Teresa of Ávila

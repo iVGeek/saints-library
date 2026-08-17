@@ -3,6 +3,9 @@ name: Thomas Aquinas
 honorific: Saint
 title: Doctor of the Church
 summary: The Angelic Doctor — Dominican friar, philosopher, and theologian whose Summa Theologiae set reason and faith in harmony and became the crown of medieval learning.
+image: Caravaggio_-_The_Incredulity_of_Saint_Thomas.jpg
+imageAlt: Portrait of Thomas Aquinas
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Thomas Aquinas
   - Thomas of Aquino

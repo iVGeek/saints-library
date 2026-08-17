@@ -3,6 +3,9 @@ name: Ignatius of Loyola
 honorific: Saint
 title: Priest, Founder of the Society of Jesus
 summary: The wounded soldier of Pamplona who became the founder of the Jesuits and the author of the Spiritual Exercises — a saint of discernment and "finding God in all things."
+image: Ignatius_of_Loyola_(1491-1556).jpg
+imageAlt: Portrait of Ignatius of Loyola
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Ignatius
   - Ignatius Loyola

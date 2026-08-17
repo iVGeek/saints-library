@@ -3,6 +3,9 @@ name: Mary MacKillop
 honorific: Saint
 title: Virgin, Religious
 summary: The Australian pioneer nun who founded the Sisters of Saint Joseph to serve the poor in the outback — excommunicated unjustly, vindicated, and made Australia's first saint.
+image: Mother_Mary_MacKillop_1890.jpg
+imageAlt: Portrait of Mary MacKillop
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Mary MacKillop
   - Saint Mary of the Cross

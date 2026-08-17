@@ -3,6 +3,9 @@ name: Damien of Molokai
 honorific: Saint
 title: Priest, Religious
 summary: The Belgian missionary who went to live among the lepers of Molokai when no one else would — and became one of them, a saint whose charity embraced the excluded.
+image: Father_Damien.jpg
+imageAlt: Portrait of Damien of Molokai
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Damien of Molokai
   - Saint Damien de Veuster

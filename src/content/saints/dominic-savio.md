@@ -3,6 +3,9 @@ name: Dominic Savio
 honorific: Saint
 title: Religious, Youth
 summary: The teenage student of Don Bosco whose holiness stunned his teacher — patron of young altar servers, of schoolboys, and of all who want to be saints before they are old.
+image: Domenico_Savio.jpg
+imageAlt: Portrait of Dominic Savio
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Dominic Savio
   - Saint Dominic Savio

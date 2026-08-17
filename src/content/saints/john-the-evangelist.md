@@ -3,6 +3,9 @@ name: John the Evangelist
 honorific: Saint
 title: Apostle, Evangelist
 summary: The apostle Jesus loved — the one who leaned on His breast at the Last Supper, stood by His cross, and wrote the Gospel of the Word made flesh.
+image: El_Greco_-_Saint_John_the_Evangelist_-_WGA10541.jpg
+imageAlt: Portrait of John the Evangelist
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. John the Evangelist
   - Saint John the Apostle

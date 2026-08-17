@@ -3,6 +3,9 @@ name: George of Lydda
 honorific: Saint
 title: Martyr
 summary: A Roman soldier of Cappadocia who gave his life for Christ and became the most famous of the military martyrs — patron of England, of soldiers, and of riders.
+image: Sandro_Botticelli_-_Saint_George.jpg
+imageAlt: Portrait of George of Lydda
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. George
   - Saint George

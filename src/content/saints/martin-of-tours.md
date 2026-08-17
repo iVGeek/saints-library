@@ -3,6 +3,9 @@ name: Martin of Tours
 honorific: Saint
 title: Bishop
 summary: The soldier who shared his cloak with a beggar and saw Christ in his rags — later the great bishop of Gaul, remembered as the first "confessor" of the Western Church.
+image: Martin_de_tours_Muenster_Treptow.jpg
+imageAlt: Portrait of Martin of Tours
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Martin of Tours
   - Saint Martin

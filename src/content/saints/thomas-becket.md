@@ -3,6 +3,9 @@ name: Thomas Becket
 honorific: Saint
 title: Bishop, Martyr
 summary: The archbishop of Canterbury who defied a king, stood for the Church against the crown, and fell before the altar in his own cathedral.
+image: Thomas_Becket_in_the_Cathedral_of_Chartres.jpg
+imageAlt: Portrait of Thomas Becket
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Thomas Becket
   - Saint Thomas à Becket

@@ -3,6 +3,9 @@ name: Valentine of Rome
 honorific: Saint
 title: Priest, Martyr
 summary: A Roman priest who died for Christ under the persecution of the emperor Claudius, whose feast day became the Church's own blessing of engaged love.
+image: Valentine_of_Rome.jpg
+imageAlt: Portrait of Valentine of Rome
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Valentine
   - Saint Valentine

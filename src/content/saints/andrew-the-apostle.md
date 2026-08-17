@@ -3,6 +3,9 @@ name: Andrew the Apostle
 honorific: Saint
 title: Apostle, Martyr
 summary: The first-called of the apostles, the fisherman who brought his brother Peter to Christ — apostle of Greece and of the East, crucified on the X-shaped cross that bears his name.
+image: Peter_Paul_Rubens_-_St_Andrew.jpg
+imageAlt: Portrait of Andrew the Apostle
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Andrew
   - Saint Andrew

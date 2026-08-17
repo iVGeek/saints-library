@@ -3,6 +3,9 @@ name: Elizabeth of Hungary
 honorific: Saint
 title: Laywoman
 summary: A young queen who traded her crown for the poor — the most beloved woman of the Middle Ages, who built hospitals with her own hands and died in Franciscan poverty.
+image: Saint_Elisabeth_of_Hungary_Meister_Francke.jpg
+imageAlt: Portrait of Elizabeth of Hungary
+imageCredit: Wikimedia Commons
 searchAliases:
   - St. Elizabeth of Hungary
   - Elisabeth of Thuringia

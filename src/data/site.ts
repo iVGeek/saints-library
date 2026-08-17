@@ -3,7 +3,7 @@ export const SITE = {
   tagline: 'A Digital Library of Catholic Sanctity',
   description:
     'A serene digital library dedicated to the lives, writings, miracles, and patronage of Catholic saints — from the early Church to our own times.',
-  url: 'https://saints.example.com',
+  url: 'https://saints-library.onrender.com',
   locale: 'en',
   language: 'en',
   /** Update after the official launch. */

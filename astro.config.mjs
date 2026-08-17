@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 // The site is a fully static build. It can be deployed to any static host
 // (Netlify, Vercel, Cloudflare Pages, GitHub Pages, etc.).
 export default defineConfig({
-  site: 'https://saints.example.com',
+  site: 'https://saints-library.onrender.com',
   output: 'static',
   trailingSlash: 'never',
   integrations: [sitemap()],

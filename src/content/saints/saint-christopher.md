@@ -3,6 +3,9 @@ name: Saint Christopher
 honorific: Saint
 title: St. Christopher
 summary: "Third century martyr in the persecutions of Decius. Little else is known for sure. His fame derives from the pious legend of him being a “Christ-bearer” (= Christopher). He was a powerfully built man ..."
+image: Pisanello_-_Saint_Christopher.jpg
+imageAlt: Portrait of Saint Christopher
+imageCredit: Wikimedia Commons
 searchAliases:
   - Christobal
   - Christoval

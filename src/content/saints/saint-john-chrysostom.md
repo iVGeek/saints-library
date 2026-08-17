@@ -3,6 +3,9 @@ name: Saint John Chrysostom
 honorific: Saint
 title: St. John Chrysostom
 summary: "John’s father died when he was young, and he was raised by a very pious mother. Well educated; studied rhetoric under Libanius, one of the most famous orators of his day. Monk. Preacher and priest for..."
+image: Viktor_Vasnetsov_-_John_Chrysostom.jpg
+imageAlt: Portrait of Saint John Chrysostom
+imageCredit: Wikimedia Commons
 searchAliases:
   - Greatest of the Greek Fathers
   - Golden-Mouth

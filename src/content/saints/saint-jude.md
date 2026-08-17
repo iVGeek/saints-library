@@ -3,6 +3,9 @@ name: Saint Jude Thaddeus
 honorific: Saint
 title: St. Jude Thaddeus
 summary: "Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ’s body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relati..."
+image: Taddeo_di_Bartolo_-_Saint_Jude-Thaddaeus.jpg
+imageAlt: Portrait of Saint Jude Thaddeus
+imageCredit: Wikimedia Commons
 searchAliases:
   - Jude of James
   - Judas Thaddaeus

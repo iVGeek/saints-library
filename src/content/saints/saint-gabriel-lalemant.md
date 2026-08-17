@@ -3,6 +3,9 @@ name: Saint Gabriel Lalemant
 honorific: Saint
 title: St. Gabriel Lalemant
 summary: "Nephew of the Jesuit missionaries Charles and Jerome Lalemant. Entered the Jesuits in Paris, France on 24 March 1630. Missionary, arriving in Canada on 20 September 1646. Assigned as assistant to Sain..."
+image: Gabriel_Lalemant.jpg
+imageAlt: Portrait of Saint Gabriel Lalemant
+imageCredit: Wikimedia Commons
 birthYear: 1610
 born: "1610"
 birthPlace: "Paris"

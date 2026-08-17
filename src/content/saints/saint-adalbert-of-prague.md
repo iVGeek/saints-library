@@ -3,6 +3,9 @@ name: Saint Adalbert of Prague
 honorific: Saint
 title: St. Adalbert of Prague
 summary: "Born to the Bohemian nobility. He took the name of Saint Adalbert of Magdeburg, the archbishop who healed, educated and converted him. Bishop of Prague (in the modern Czech Republic on 10 February 982..."
+image: Adalbert_of_Prague.jpg
+imageAlt: Portrait of Saint Adalbert of Prague
+imageCredit: Wikimedia Commons
 searchAliases:
   - Adalbert of Praha
   - Adalberto&#8230;

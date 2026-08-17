@@ -3,6 +3,9 @@ name: Saint Catherine of Alexandria
 honorific: Saint
 title: St. Catherine of Alexandria
 summary: "Apocryphal. Born to the nobility. Learned in science and oratory. Converted to Christianity after receiving a vision. When she was 18 years old, during the persecution of Maximinus, she offered to deb..."
+image: Raphael_-_Saint_Catherine_of_Alexandria_-_National_Gallery.jpg
+imageAlt: Portrait of Saint Catherine of Alexandria
+imageCredit: Wikimedia Commons
 searchAliases:
   - Katherine of Alexandria
   - Ekaterina of Alexandria

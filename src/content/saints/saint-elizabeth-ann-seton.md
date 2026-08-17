@@ -3,6 +3,9 @@ name: Saint Elizabeth Ann Seton
 honorific: Saint
 title: St. Elizabeth Ann Seton
 summary: "Born into a wealthy and influential Episcopalian family, the daughter of a Dr Richard Bayley; Elizabeth was raised in the New York high society of the late 18th century. Her mother died when Elizabeth..."
+image: Elizabeth_Ann_Seton.jpg
+imageAlt: Portrait of Saint Elizabeth Ann Seton
+imageCredit: Wikimedia Commons
 searchAliases:
   - Elizabeth Ann Bayley Seton
   - Mother Seton

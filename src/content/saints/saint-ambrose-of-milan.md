@@ -3,6 +3,9 @@ name: Saint Ambrose of Milan
 honorific: Saint
 title: St. Ambrose of Milan
 summary: "Born to the Roman nobility. Brother of Saint Marcellina and Saint Satyrus. Educated in the classics, Greek, and philosophy at Rome, Italy. Poet and noted orator. Convert to Christianity. Governor of M..."
+image: Ambrose_of_Milan.jpg
+imageAlt: Portrait of Saint Ambrose of Milan
+imageCredit: Wikimedia Commons
 searchAliases:
   - Ambreuil
   - Ambrogio

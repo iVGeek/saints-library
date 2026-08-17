@@ -3,6 +3,9 @@ name: Saint Teresa of Calcutta
 honorific: Saint
 title: St. Teresa of Calcutta
 summary: "Daughter of an Albanian businessman who died when Agnes was nine years old. Nun, missionary and teacher in Calcutta, India in 1928. In 1948 she left the convent to work alone with the poor, and became..."
+image: Mother_Teresa_1.jpg
+imageAlt: Portrait of Saint Teresa of Calcutta
+imageCredit: Wikimedia Commons
 searchAliases:
   - Mother Teresa
   - Agnes Gonxha Bojaxhiu

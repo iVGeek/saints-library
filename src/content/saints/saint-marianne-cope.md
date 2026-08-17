@@ -3,6 +3,9 @@ name: Saint Marianne Cope
 honorific: Saint
 title: St. Marianne Cope
 summary: "Born to a poor working class family, one of eight children. Came to the United States when her parents emigrated in 1840, and she grew up in the Utica, New York area. Left school after the eight grade..."
+image: Marianne_Cope.jpg
+imageAlt: Portrait of Saint Marianne Cope
+imageCredit: Wikimedia Commons
 searchAliases:
   - Barbara Cope
   - Barbara Koob

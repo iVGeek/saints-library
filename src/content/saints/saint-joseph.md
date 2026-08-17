@@ -3,6 +3,9 @@ name: Saint Joseph
 honorific: Saint
 title: St. Joseph
 summary: "Descendant of the house of David. Layman. Builder by trade; traditionally a carpenter, but may have been a stone worker. Earthly spouse of the Blessed Virgin Mary. Foster and adoptive father of Jesus ..."
+image: Guido_Reni_Saint_Joseph.jpg
+imageAlt: Portrait of Saint Joseph
+imageCredit: Wikimedia Commons
 searchAliases:
   - Joseph of Nazareth
   - Joseph the Artisan

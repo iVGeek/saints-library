@@ -3,6 +3,9 @@ name: Saint Agnes of Rome
 honorific: Saint
 title: St. Agnes of Rome
 summary: "Foster-sister of Saint Emerentiana. At age 12 or 13 Agnes was ordered to sacrifice to pagan gods and lose her virginity by rape. She was taken to a Roman temple to Minerva (Athena), and when led to th..."
+image: Guercino_-_Santa_Agnes.jpg
+imageAlt: Portrait of Saint Agnes of Rome
+imageCredit: Wikimedia Commons
 searchAliases:
   - Ines
   - Ines del Campo

@@ -3,6 +3,9 @@ name: Saint Veronica
 honorific: Saint
 title: St. Veronica
 summary: "When Christ fell on his way to the Golgotha, a woman wiped his face with a towel; an image of Christ remained on the towel. This woman was Veronica; this incident is all we really know about her, and ..."
+image: Veronica.jpg
+imageAlt: Portrait of Saint Veronica
+imageCredit: Wikimedia Commons
 searchAliases:
   - Berenice
 centuries: [16]

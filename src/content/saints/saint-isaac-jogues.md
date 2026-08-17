@@ -3,6 +3,9 @@ name: Saint Isaac Jogues
 honorific: Saint
 title: St. Isaac Jogues
 summary: "Joined the Jesuits at Rouen, France in 1624. Priest. Taught literature. Missionary to New France (Canada) in 1636, starting in Quebec and working among the Hurons and Petuns in the area of the Great L..."
+image: Isaac_Jogues.jpg
+imageAlt: Portrait of Saint Isaac Jogues
+imageCredit: Wikimedia Commons
 birthYear: 1607
 born: "1607"
 birthPlace: "Orleans"

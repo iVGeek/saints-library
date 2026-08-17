@@ -3,6 +3,9 @@ name: Saint Martin of Tours
 honorific: Saint
 title: St. Martin of Tours
 summary: "Born to pagan parents; his father was a Roman military officer and tribune. Martin was raised in Pavia, Italy. Discovered Christianity, and became a catechumen in his early teens. Joined the Roman imp..."
+image: Martin_de_tours_Muenster_Treptow.jpg
+imageAlt: Portrait of Saint Martin of Tours
+imageCredit: Wikimedia Commons
 searchAliases:
   - Martin the Merciful
   - Martinus Turonensis

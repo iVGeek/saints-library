@@ -2,7 +2,10 @@
 name: Saint Jean-Gabriel Perboyre
 honorific: Saint
 title: St. Jean-Gabriel Perboyre
-summary: "One of eight children born to Pierre Perboyre and Marie Rigal. At age 16 he followed his brother Louis to the seminary, and joined the Congregation of the Mission of Saint Vincent on Christmas Day 181..."
+
+image: Jean-Gabriel_Perboyre.jpg
+imageAlt: Portrait of Saint Jean-Gabriel Perboyre
+imageCredit: Wikimedia Commons
 searchAliases:
   - John Gabriel Perboyre
 birthYear: 1802

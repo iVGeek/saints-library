@@ -3,6 +3,9 @@ name: Saint Bonaventure of Bagnoregio
 honorific: Saint
 title: St. Bonaventure of Bagnoregio
 summary: "Healed from a childhood disease through the prayers of Saint Francis of Assisi. Bonaventure joined the Order of Friars Minor at age 22. Studied theology and philosophy in Paris, France, and later taug..."
+image: Francisco_de_Zurbarán_-_San_Bonaventura.jpg
+imageAlt: Portrait of Saint Bonaventure of Bagnoregio
+imageCredit: Wikimedia Commons
 searchAliases:
   - Seraphic Doctor of the Church
   - the Devout Doctor

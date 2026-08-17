@@ -3,6 +3,9 @@ name: Saint Peter Chrysologus
 honorific: Saint
 title: St. Peter Chrysologus
 summary: "Adult convert to Christianity. Deacon. Priest. Bishop of Ravenna, Italy in 433. Fought paganism and the Monophysite heresy, enforced reforms, and built several churches and ornate altars in his see. P..."
+image: Giovanni_Battista_Tiepolo_-_Saint_Peter_Chrysologus.jpg
+imageAlt: Portrait of Saint Peter Chrysologus
+imageCredit: Wikimedia Commons
 searchAliases:
   - Pietro Crisologo
 birthPlace: "Imola"

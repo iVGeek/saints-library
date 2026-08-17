@@ -3,6 +3,9 @@ name: Saint Cyril of Jerusalem
 honorific: Saint
 title: St. Cyril of Jerusalem
 summary: "Raised a Christian in Jerusalem. Well educated, especially in religion. Priest, ordained by Saint Maximus. A great teacher of catechumens, Cyril’s instructions are still source documents for the Churc..."
+image: Cyril_of_Jerusalem.jpg
+imageAlt: Portrait of Saint Cyril of Jerusalem
+imageCredit: Wikimedia Commons
 searchAliases:
   - Cirillo
   - Kyrillos

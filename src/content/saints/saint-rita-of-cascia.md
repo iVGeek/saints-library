@@ -3,6 +3,9 @@ name: Saint Rita of Cascia
 honorific: Saint
 title: St. Rita of Cascia
 summary: "Daughter of Antonio and Amata Lotti, a couple known as the Peacemakers of Jesus; they had Rita late in life. From her early youth, Rita visited the Augustinian nuns at Cascia, Italy, and showed intere..."
+image: Matteo_Ricci_-_Saint_Rita_of_Cascia.jpg
+imageAlt: Portrait of Saint Rita of Cascia
+imageCredit: Wikimedia Commons
 searchAliases:
   - Margarita of Cascia
   - Rita La Abogada de Imposibles

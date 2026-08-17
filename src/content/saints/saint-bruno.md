@@ -3,6 +3,9 @@ name: Saint Bruno
 honorific: Saint
 title: St. Bruno
 summary: "Educated in Paris and the seminary of Rheims, France, Bruno was ordained a priest c.1055, and began to teach theology; one of his students later became Pope Blessed Urban II. Father Bruno presided ove..."
+image: Fra_Angelico_-_Saint_Brune.jpg
+imageAlt: Portrait of Saint Bruno
+imageCredit: Wikimedia Commons
 birthYear: 1030
 born: "1030"
 birthPlace: "Cologne"

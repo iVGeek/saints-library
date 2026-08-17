@@ -3,6 +3,9 @@ name: Saint Margaret Mary Alacoque
 honorific: Saint
 title: St. Margaret Mary Alacoque
 summary: "Healed from a crippling disorder by a vision of the Blessed Virgin, which prompted her to give her life to God. After receiving a vision of Christ fresh from the Scourging, she was moved to join the O..."
+image: Margaret_Mary_Alacoque.jpg
+imageAlt: Portrait of Saint Margaret Mary Alacoque
+imageCredit: Wikimedia Commons
 searchAliases:
   - Margarita Mary Alacoque
   - Margherita Mary Alacoque

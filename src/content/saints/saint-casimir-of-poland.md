@@ -3,6 +3,9 @@ name: Saint Casimir of Poland
 honorific: Saint
 title: St. Casimir of Poland
 summary: "Fifteenth century Polish prince, the younger son of King Casimir IV of Poland and Elizabeth of Austria. Grand Duke of Lithuania in 1471; third in line for the throne. Lived a highly disciplined, even ..."
+image: Casimir_of_Poland.jpg
+imageAlt: Portrait of Saint Casimir of Poland
+imageCredit: Wikimedia Commons
 searchAliases:
   - Casimir of Cracow
   - Kazimieras&#8230;

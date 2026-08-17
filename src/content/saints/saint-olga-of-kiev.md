@@ -3,6 +3,9 @@ name: Saint Olga of Kiev
 honorific: Saint
 title: St. Olga of Kiev
 summary: "First Christian queen of Ukraine. Married to Igor I, duke of Kiev c.903. She ruled Kievan Rus after Igor’s assassination in 945. Following her conversion and baptism in 957 in Constantinople, when she..."
+image: Olga_of_Kiev.jpg
+imageAlt: Portrait of Saint Olga of Kiev
+imageCredit: Wikimedia Commons
 searchAliases:
   - Elena
   - Helena

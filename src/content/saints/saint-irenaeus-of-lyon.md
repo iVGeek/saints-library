@@ -3,6 +3,9 @@ name: Saint Irenaeus of Lyons
 honorific: Saint
 title: St. Irenaeus of Lyons
 summary: "Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and wrote against Gnosticism, basing his arguments on the works of Saint John the Apostle..."
+image: Irenaeus_of_Lyons.jpg
+imageAlt: Portrait of Saint Irenaeus of Lyons
+imageCredit: Wikimedia Commons
 searchAliases:
   - Ireneo
   - Doctor unitatis

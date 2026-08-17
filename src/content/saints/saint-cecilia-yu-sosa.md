@@ -3,6 +3,9 @@ name: Saint Cecilia Yu Sosa
 honorific: Saint
 title: St. Cecilia Yu Sosa
 summary: "Married lay woman in the apostolic vicariate of Korea. Mother of Saint Paul Chong Hasang and Saint Jung Hye. One of the Martyrs of Korea."
+image: Cecilia_Yu_Sosa.jpg
+imageAlt: Portrait of Saint Cecilia Yu Sosa
+imageCredit: Wikimedia Commons
 searchAliases:
   - Caecilia Yu So-Sa
   - Jechillia Yu So-Sa

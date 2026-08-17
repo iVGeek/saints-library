@@ -3,6 +3,9 @@ name: Saint Andrew Bobola
 honorific: Saint
 title: St. Andrew Bobola
 summary: "Born to the Polish nobility. Studied at the Jesuit school at Sandomierz, Poland. He joined the Jesuits on 31 July 1611 at Vilna, Lithuania. Studied and taught philosophy. Ordained on 12 March 1622. Pa..."
+image: Andrew_Bobola.jpg
+imageAlt: Portrait of Saint Andrew Bobola
+imageCredit: Wikimedia Commons
 searchAliases:
   - Andrzej Bobola
   - Apostle of Lithuania

@@ -3,6 +3,9 @@ name: Saint Bede the Venerable
 honorific: Saint
 title: St. Bede the Venerable
 summary: "Born around the time England was finally completely Christianized, Bede was raised from age seven in the abbey of Saints Peter and Paul at Wearmouth-Jarrow, and lived there the rest of his life. Bened..."
+image: Bede_translates_John.jpg
+imageAlt: Portrait of Saint Bede the Venerable
+imageCredit: Wikimedia Commons
 searchAliases:
   - Venerable Bede
   - Father of English History

@@ -3,6 +3,9 @@ name: Saint Basil the Great
 honorific: Saint
 title: St. Basil the Great
 summary: "Born to the nobility, his was a pious family – his mother, father, and four of his nine siblings were canonized, including Saint Gregory of Nyssa. Grandson of Saint Macrina the Elder. As a youth Basil..."
+image: Viktor_Vasnetsov_-_St_Basil_the_Great.jpg
+imageAlt: Portrait of Saint Basil the Great
+imageCredit: Wikimedia Commons
 searchAliases:
   - Basil of Caesarea
   - Father of Eastern Monasticism

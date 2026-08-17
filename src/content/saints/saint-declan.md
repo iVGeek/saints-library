@@ -3,6 +3,9 @@ name: Saint Declan
 honorific: Saint
 title: St. Declan
 summary: "Eighth century evangelist to the Germanic people who had been brought the faith by Saint Boniface of Crediton. Worked with Saint Martinus."
+image: Declan.jpg
+imageAlt: Portrait of Saint Declan
+imageCredit: Wikimedia Commons
 centuries: [16]
 feastDay:
   month: 12

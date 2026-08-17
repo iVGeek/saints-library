@@ -2,7 +2,10 @@
 name: Saint Scholastica
 honorific: Saint
 title: St. Scholastica
-summary: "Twin sister of Saint Benedict of Nursia. Born to the Italian noblility. Her mother died in childbirth. Nun. She led a community of women at Plombariola near Montecassino. "
+
+image: Scholastica.jpg
+imageAlt: Portrait of Saint Scholastica
+imageCredit: Wikimedia Commons
 centuries: [16]
 feastDay:
   month: 2

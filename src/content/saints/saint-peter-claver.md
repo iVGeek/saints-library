@@ -3,6 +3,9 @@ name: Saint Peter Claver
 honorific: Saint
 title: St. Peter Claver
 summary: "Farmer‘s son. Studied at the University of Barcelona. Jesuit from age 20. Priest. Influenced by Saint Alphonsus Rodriguez to become a missionary in America. Ministered, physically and spiritually, to ..."
+image: Pedro_Claver.jpg
+imageAlt: Portrait of Saint Peter Claver
+imageCredit: Wikimedia Commons
 searchAliases:
   - Pedro Claver Corberó
   - Slave of the Blacks

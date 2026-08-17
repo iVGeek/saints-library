@@ -3,6 +3,9 @@ name: Saint Frances Xavier Cabrini
 honorific: Saint
 title: St. Frances Xavier Cabrini
 summary: "One of thirteen children raised on a farm. She received a convent education, and training as a teacher. She tried to join the order at age 18, but poor health prevented her taking the veil. A priest a..."
+image: Frances_Xavier_Cabrini.jpg
+imageAlt: Portrait of Saint Frances Xavier Cabrini
+imageCredit: Wikimedia Commons
 searchAliases:
   - Francesca Saverio Cabrini
 birthYear: 1850

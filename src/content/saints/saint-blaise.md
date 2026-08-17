@@ -3,6 +3,9 @@ name: Saint Blaise
 honorific: Saint
 title: St. Blaise
 summary: "Physician. Bishop of Sebaste, Armenia. Lived in a cave on Mount Argeus. Healer of men and animals; according to legend, sick animals would come to him on their own for help, but would never disturb hi..."
+image: Francisco_de_Zurbarán_-_San_Blas.jpg
+imageAlt: Portrait of Saint Blaise
+imageCredit: Wikimedia Commons
 searchAliases:
   - Biagio
   - Blase

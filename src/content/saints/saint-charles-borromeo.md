@@ -3,6 +3,9 @@ name: Saint Charles Borromeo
 honorific: Saint
 title: St. Charles Borromeo
 summary: "Born to a wealthy, noble family, the third of six children, son of Count Giberto II Borromeo and Margherita de’ Medici. Nephew of Pope Pius IV. Suffered with a speech impediment. Studied in Milan, and..."
+image: Carlo_Borreo_by_Antonio_Crespi.jpg
+imageAlt: Portrait of Saint Charles Borromeo
+imageCredit: Wikimedia Commons
 searchAliases:
   - Apostle to the Council of Trent
   - Carlo Borromeo

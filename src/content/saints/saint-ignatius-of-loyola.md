@@ -3,6 +3,9 @@ name: Saint Ignatius of Loyola
 honorific: Saint
 title: St. Ignatius of Loyola
 summary: "Born to the Spanish nobility. Youngest of twelve children. Page in the Spanish court of Ferdinand and Isabella. Military education. Soldier, entering the army in 1517, and serving in several campaigns..."
+image: Ignatius_of_Loyola_(1491-1556).jpg
+imageAlt: Portrait of Saint Ignatius of Loyola
+imageCredit: Wikimedia Commons
 searchAliases:
   - Inigo Lopez de Loyola
 birthYear: 1491

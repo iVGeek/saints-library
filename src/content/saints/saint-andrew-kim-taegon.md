@@ -3,6 +3,9 @@ name: Saint Andrew Kim Taegon
 honorific: Saint
 title: St. Andrew Kim Taegon
 summary: "Born to the Korean nobility; his parents were converts to Christianity, and his father was martyred. Andrew was baptized at age 15, then travelled 1,300 miles to the nearest seminary in Macao, China. ..."
+image: Andrew_Kim_Taegon.jpg
+imageAlt: Portrait of Saint Andrew Kim Taegon
+imageCredit: Wikimedia Commons
 searchAliases:
   - Andrew Kim
   - Andreas Kim Tae-Gon

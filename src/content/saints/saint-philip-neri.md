@@ -3,6 +3,9 @@ name: Saint Philip Neri
 honorific: Saint
 title: St. Philip Neri
 summary: "Though he was related to Italian nobility, Philip came from a poor family. His father, Francisco Neri, worked as a notary. Philip’s brother died in childhood, but his two sisters, Caterina and Elisabe..."
+image: Philip_Neri.jpg
+imageAlt: Portrait of Saint Philip Neri
+imageCredit: Wikimedia Commons
 searchAliases:
   - Amabile Santo
   - Apostle of Rome

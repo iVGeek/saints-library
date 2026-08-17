@@ -3,6 +3,9 @@ name: Saint Paul Miki
 honorific: Saint
 title: St. Paul Miki
 summary: "Born wealthy, the son of the military leader Miki Handayu. Paul felt a call to religous life from his youth. Jesuit in 1580, educated at the Jesuit college at Azuchi and Takatsuki. Successful evangeli..."
+image: Paul_Miki.jpg
+imageAlt: Portrait of Saint Paul Miki
+imageCredit: Wikimedia Commons
 birthYear: 1562
 born: "1562"
 birthPlace: "Tsunokuni"

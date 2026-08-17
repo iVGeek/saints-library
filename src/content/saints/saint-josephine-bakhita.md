@@ -3,6 +3,9 @@ name: Saint Josephine Bakhita
 honorific: Saint
 title: St. Josephine Bakhita
 summary: "Born to a wealthy Sudanese family, she was kidnapped by slave-traders at age 9, and given the name Bakhita (lucky) by them. Sold and resold in the markets at El Obeid and Khartoum, finally purchased i..."
+image: Josephine_Bakhita.jpg
+imageAlt: Portrait of Saint Josephine Bakhita
+imageCredit: Wikimedia Commons
 searchAliases:
   - Giuseppina Bakhita
   - Madre Moretta

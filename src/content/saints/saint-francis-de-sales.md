@@ -3,6 +3,9 @@ name: Saint Francis de Sales
 honorific: Saint
 title: St. Francis de Sales
 summary: "Born in the castle of Château de Thorens to a well-placed Savoyard family, the eldest of twelve children born to François de Boisy and Françoise de Sionnz. His parents intended that Francis become a l..."
+image: Francis_de_Sales.jpg
+imageAlt: Portrait of Saint Francis de Sales
+imageCredit: Wikimedia Commons
 searchAliases:
   - Francis of Sales
   - Gentle Christ of Geneva

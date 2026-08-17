@@ -3,6 +3,9 @@ name: Saint John Bosco
 honorific: Saint
 title: St. John Bosco
 summary: "Son of Venerable Margaret Bosco. John’s father died when the boy was two years old; and as soon as he was old enough to do odd jobs, John did so to help support his family. Bosco would go to circuses,..."
+image: Giovanni_Bosco.jpg
+imageAlt: Portrait of Saint John Bosco
+imageCredit: Wikimedia Commons
 searchAliases:
   - Don Bosco
   - Giovanni Bosco

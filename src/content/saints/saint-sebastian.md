@@ -3,6 +3,9 @@ name: Saint Sebastian
 honorific: Saint
 title: St. Sebastian
 summary: "Son of a wealthy Roman family. Educated in Milan. Officer of the Imperial Roman army, and captain of the guard. Favorite of Diocletian. During Diocletian‘s persecution of the Christians, Sebastian vis..."
+image: Sebastiano_del_Piombo_-_Saint_Sebastian_-_WGA21172.jpg
+imageAlt: Portrait of Saint Sebastian
+imageCredit: Wikimedia Commons
 birthPlace: "Rome"
 region: Rome
 centuries: [16]

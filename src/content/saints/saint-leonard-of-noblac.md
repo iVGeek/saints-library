@@ -3,6 +3,9 @@ name: Saint Leonard of Noblac
 honorific: Saint
 title: St. Leonard of Noblac
 summary: "Born to the Frankish nobility. Part of the court of the pagan King Clovis I. The Queen suggested to Leonard, possibly as a joke, that he invoke the help of his God to repel an invading army. Leonard p..."
+image: Léonard_de_Noblac.jpg
+imageAlt: Portrait of Saint Leonard of Noblac
+imageCredit: Wikimedia Commons
 searchAliases:
   - Leonard of Noblet
   - Leonard of Noblat

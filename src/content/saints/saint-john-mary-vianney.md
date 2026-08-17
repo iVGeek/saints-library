@@ -3,6 +3,9 @@ name: Saint John Mary Vianney
 honorific: Saint
 title: St. John Mary Vianney
 summary: "Born to a farm family. In his youth John taught other children their prayers and catechism. Ordained in 1815, though it took several years of study – he had little education, was not a very good stude..."
+image: Jean-Baptiste_Hippolyte_Chaudier_-_Jean_Marie_Baptiste_Vianney.jpg
+imageAlt: Portrait of Saint John Mary Vianney
+imageCredit: Wikimedia Commons
 searchAliases:
   - Cur&eacute; of Ars
   - Jean Baptiste Marie Vianney

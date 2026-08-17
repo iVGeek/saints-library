@@ -3,6 +3,9 @@ name: Saint Louis Martin
 honorific: Saint
 title: St. Louis Martin
 summary: "Lifelong layman in the diocese of Bayeux-Liseux, France. Son of an army officer. Watchmaker. Married to Saint Marie-Azelie Guérin Martin on 12 July 1858. Father of nine children; five of them, all gir..."
+image: Louis_Martin.jpg
+imageAlt: Portrait of Saint Louis Martin
+imageCredit: Wikimedia Commons
 searchAliases:
   - 12 July
 birthYear: 1823

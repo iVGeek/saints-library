@@ -3,6 +3,9 @@ name: Saint Veronica Giuliani
 honorific: Saint
 title: St. Veronica Giuliani
 summary: "Born wealthy, the daughter of Francesco Giuliana and Benedetta Mancini. In her youth, Ursula developed a deep spirituality and desired nothing more than to dedicate her life to God. She received visio..."
+image: Veronica_Giuliani.jpg
+imageAlt: Portrait of Saint Veronica Giuliani
+imageCredit: Wikimedia Commons
 searchAliases:
   - Ursula Giuliani
   - Veronica de Julianis

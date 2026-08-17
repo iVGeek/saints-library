@@ -3,6 +3,9 @@ name: Saint Dominic Savio
 honorific: Saint
 title: St. Dominic Savio
 summary: "One of ten children of a blacksmith and seamstress. Protege of Saint John Bosco. Altar boy at age 5. At 12 he entered the Oratory School preparatory to becoming a priest. Well-liked and pious, his hea..."
+image: Domenico_Savio.jpg
+imageAlt: Portrait of Saint Dominic Savio
+imageCredit: Wikimedia Commons
 birthYear: 1842
 born: "1842"
 birthPlace: "Riva di Chieri"

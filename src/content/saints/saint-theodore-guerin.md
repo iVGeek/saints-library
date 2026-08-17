@@ -3,6 +3,9 @@ name: Saint Théodore Guérin
 honorific: Saint
 title: St. Théodore Guérin
 summary: "Daughter of Laurent and Isabelle Gu&eacute;rin. Joined the Sisters of Providence at Ruill&eacute;-sur-Loir, France on 18 August 1823, taking the name Sister Saint Theodore, and making her final vows o..."
+image: Theodore_Guerin.jpg
+imageAlt: Portrait of Saint Théodore Guérin
+imageCredit: Wikimedia Commons
 searchAliases:
   - Mother Theodore
   - Anne-Th&eacute;r&egrave;se Gu&eacute;rin

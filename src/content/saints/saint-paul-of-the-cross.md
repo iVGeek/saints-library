@@ -3,6 +3,9 @@ name: Saint Paul of the Cross
 honorific: Saint
 title: St. Paul of the Cross
 summary: "The son of Luca Daniel and Anna Maria Daneo; he was the second of sixteen children born to the couple, ten of whom died in infancy. Paolo was baptized at the age of 3 days, and was raised in a pious f..."
+image: Paul_of_the_Cross.jpg
+imageAlt: Portrait of Saint Paul of the Cross
+imageCredit: Wikimedia Commons
 searchAliases:
   - God’s Hunter of Souls
   - Paolo Francesco Danei

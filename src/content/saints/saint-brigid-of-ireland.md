@@ -3,6 +3,9 @@ name: Saint Brigid of Ireland
 honorific: Saint
 title: St. Brigid of Ireland
 summary: "Daughter of Dubtach, pagan Scottish king of Leinster, and Brocca, a Christian Pictish slave who had been baptized by Saint Patrick. Just before Brigid’s birth, her mother was sold to a Druid landowner..."
+image: Saint_Brigid.jpg
+imageAlt: Portrait of Saint Brigid of Ireland
+imageCredit: Wikimedia Commons
 searchAliases:
   - Brigid of Kildare
   - Brigid of Cell Dara

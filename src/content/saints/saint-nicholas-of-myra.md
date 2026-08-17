@@ -3,6 +3,9 @@ name: Saint Nicholas of Myra
 honorific: Saint
 title: St. Nicholas of Myra
 summary: "Priest. Abbot. Bishop of Myra, Lycia (modern Turkey). Generous to the poor, and special protector of the innocent and wronged. Many stories grew up around him prior to his becoming associated with San..."
+image: Antonello_da_Messina_-_San_Nicola_di_Bari.jpg
+imageAlt: Portrait of Saint Nicholas of Myra
+imageCredit: Wikimedia Commons
 searchAliases:
   - Nicholas of Bari
   - Nicholas of Lpnenskij

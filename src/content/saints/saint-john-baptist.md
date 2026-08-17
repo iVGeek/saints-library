@@ -3,6 +3,9 @@ name: Saint John Baptist Con
 honorific: Saint
 title: St. John Baptist Con
 summary: "Married layman. Martyr."
+image: Andrea_del_Sarto_-_San_Giovanni_Battista_-_WGA0420.jpg
+imageAlt: Portrait of Saint John Baptist Con
+imageCredit: Wikimedia Commons
 searchAliases:
   - Gioan Baotixta Còn
   - Giovanni Battista Con

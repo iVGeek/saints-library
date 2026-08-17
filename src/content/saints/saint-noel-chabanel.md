@@ -3,6 +3,9 @@ name: Saint Noël Chabanel
 honorific: Saint
 title: St. Noël Chabanel
 summary: "Son of a notary, and one of four children. Entered the Jesuit novitiate in Toulouse, France on 8 February 1630. College teacher in Toulouse from 1632 to 1639. Ordained in 1641. Taught rhetoric at the ..."
+image: Noël_Chabanel.jpg
+imageAlt: Portrait of Saint Noël Chabanel
+imageCredit: Wikimedia Commons
 birthYear: 1613
 born: "1613"
 birthPlace: "Saugues"

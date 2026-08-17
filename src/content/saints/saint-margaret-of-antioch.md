@@ -3,6 +3,9 @@ name: Saint Margaret of Antioch
 honorific: Saint
 title: St. Margaret of Antioch
 summary: "Virgin and martyr whose story is know to us from a collection of legends, but no contemporary history. Her father was a pagan priest in Pisidian Antioch, Asia Minor (modern Turkey). Her mother died wh..."
+image: Paolo_Uccello_-_Saint_Margaret.jpg
+imageAlt: Portrait of Saint Margaret of Antioch
+imageCredit: Wikimedia Commons
 searchAliases:
   - Margaret of the Latins
   - Margherita

@@ -3,6 +3,9 @@ name: Saint Lawrence of Rome
 honorific: Saint
 title: St. Lawrence of Rome
 summary: "Third-century archdeacon of Rome, distributor of alms, and “keeper of the treasures of the church” in a time when Christianity was outlawed. On 6 August 258, by decree of Emperor Valerian, Pope Saint ..."
+image: San_Lorenzo_Mártir,_iglesia_de_San_Lorenzo,_Zamora.jpg
+imageAlt: Portrait of Saint Lawrence of Rome
+imageCredit: Wikimedia Commons
 searchAliases:
   - Laurence
   - Laurent

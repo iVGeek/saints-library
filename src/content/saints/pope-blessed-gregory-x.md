@@ -15,8 +15,8 @@ birthPlace: "Italy as Theobald Visconti"
 deathPlace: "Italya fever"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 10
+  month: 3
+  day: 19
 canonizationStatus: Blessed
 vocation:
   - Priest

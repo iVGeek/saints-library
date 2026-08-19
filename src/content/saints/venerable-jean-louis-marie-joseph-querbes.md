@@ -12,8 +12,8 @@ birthPlace: "Rhône, France"
 deathPlace: "Rhône, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 17
 canonizationStatus: Venerable
 vocation:
   - Priest

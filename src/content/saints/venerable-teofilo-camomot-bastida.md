@@ -12,8 +12,8 @@ birthPlace: "Cebu, Philippines"
 deathPlace: "San Fernando, Cebu, Philippinesa traffic accident"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 14
 canonizationStatus: Venerable
 vocation:
   - Bishop

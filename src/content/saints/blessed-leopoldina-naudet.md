@@ -9,8 +9,8 @@ born: "31 May 1773 in Florence, Italy"
 birthPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 9
 canonizationStatus: Blessed
 vocation:
   - Priest

@@ -14,8 +14,8 @@ birthPlace: "Slaskie, Poland"
 deathPlace: "Oberbayern, Germany by having a seriesice-cold streams of water dumped on him till he died of shock and exposure"
 region: "France"
 feastDay:
-  month: 1
-  day: 13
+  month: 4
+  day: 8
 canonizationStatus: Blessed
 vocation:
   - Priest

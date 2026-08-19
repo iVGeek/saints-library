@@ -14,8 +14,8 @@ birthPlace: "Colombia"
 deathPlace: "Colombianatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 27
 canonizationStatus: Venerable
 vocation:
   - Priest

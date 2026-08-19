@@ -19,8 +19,8 @@ birthPlace: "Rottal-Inn, Germany as Anton Nikolaus Weiß"
 deathPlace: "Landkreis Landshut, Bavaria, Bayern, Germanynatural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Priest

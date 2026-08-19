@@ -15,8 +15,8 @@ birthPlace: "RepublicVenice (in modern Italy)"
 deathPlace: "RepublicVenice (in modern Italy) following a severe asthma attack"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 20
 canonizationStatus: Venerable
 vocation:
   - Priest

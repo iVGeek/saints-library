@@ -14,7 +14,7 @@ birthPlace: "Perugia, Italy"
 region: "Italy"
 feastDay:
   month: 1
-  day: 12
+  day: 28
 canonizationStatus: Blessed
 vocation: []
 martyr: false

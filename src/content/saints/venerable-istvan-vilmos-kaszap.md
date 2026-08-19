@@ -12,8 +12,8 @@ birthPlace: "Fejér, Hungary"
 deathPlace: "Fejér, Hungarypleurisy"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 31
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Jesuit"

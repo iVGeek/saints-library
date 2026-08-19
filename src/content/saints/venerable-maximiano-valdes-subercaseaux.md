@@ -13,8 +13,8 @@ birthPlace: "Santiago, Chile"
 deathPlace: "Cautín, Chile"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 17
 canonizationStatus: Venerable
 vocation:
   - Bishop

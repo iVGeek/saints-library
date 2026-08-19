@@ -14,8 +14,8 @@ birthPlace: "Žužemberk, Slovenia"
 deathPlace: "Sloveniaa brain cancer"
 region: "Hungary"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 23
 canonizationStatus: Venerable
 vocation:
   - Bishop

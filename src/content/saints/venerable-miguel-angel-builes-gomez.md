@@ -12,8 +12,8 @@ birthPlace: "Antioquia, Colombia"
 deathPlace: "Antioquía, Colombianatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -14,8 +14,8 @@ birthPlace: "Bergamo, Italy"
 deathPlace: "Bergamo, Italypneumonia"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 5
 canonizationStatus: Venerable
 vocation:
   - Religious

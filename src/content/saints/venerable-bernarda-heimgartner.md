@@ -12,8 +12,8 @@ born: "26 November 1822 in Fislisbach, Canton Aargau, Switzerland as Maria Anna 
 birthPlace: "Canton Aargau, Switzerland as Maria Anna Heimgartner"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Priest

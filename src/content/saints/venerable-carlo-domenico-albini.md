@@ -15,8 +15,8 @@ birthPlace: "Bouches-du-Rhône, Italy (partmodern France)"
 deathPlace: "Haute-Corse, Francenatural causes, exhausted by his labors"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 17
 canonizationStatus: Venerable
 vocation:
   - Priest

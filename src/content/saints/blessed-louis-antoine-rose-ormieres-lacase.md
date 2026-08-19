@@ -12,8 +12,8 @@ birthPlace: "Aude, France"
 deathPlace: "Asturias, Spaof natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 16
+  month: 12
+  day: 21
 canonizationStatus: Blessed
 vocation:
   - Priest

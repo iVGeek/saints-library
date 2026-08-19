@@ -15,8 +15,8 @@ birthPlace: "New Mexico"
 deathPlace: "California while on his way to a pro-life RosaryGridley, California"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Bishop

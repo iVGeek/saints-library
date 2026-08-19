@@ -12,8 +12,8 @@ birthPlace: "Lugo, Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 19
 canonizationStatus: Venerable
 vocation: []
 martyr: false

@@ -12,8 +12,8 @@ birthPlace: "Montréal, Canada"
 deathPlace: "Sunday 9 April 1871Québec, Canada of cancer"
 region: "Japan"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 6
 canonizationStatus: Venerable
 vocation:
   - Bishop

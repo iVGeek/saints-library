@@ -15,8 +15,8 @@ birthPlace: "North Brabant, Netherlands"
 deathPlace: "Saramacca, Surinamnatural causes"
 region: "Ireland"
 feastDay:
-  month: 1
-  day: 14
+  month: 6
+  day: 5
 canonizationStatus: Blessed
 vocation:
   - Priest

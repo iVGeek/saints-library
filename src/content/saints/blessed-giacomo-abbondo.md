@@ -12,8 +12,8 @@ birthPlace: "DuchyMilan (in modern Italy)"
 deathPlace: "DuckyMilan, Italy of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 21
 canonizationStatus: Blessed
 vocation:
   - Priest

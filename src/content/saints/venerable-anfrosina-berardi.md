@@ -12,8 +12,8 @@ birthPlace: "L'Aquila, Italy"
 deathPlace: "L'Aquila, Italycomplications following appendicitis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -9,8 +9,8 @@ died: "23 April 1721 in Genoa, Italy of natural causes"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 20
 canonizationStatus: Venerable
 vocation:
   - Priest

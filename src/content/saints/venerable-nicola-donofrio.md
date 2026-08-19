@@ -12,8 +12,8 @@ birthPlace: "Chieti, Italy"
 deathPlace: "Italycancer"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 28
 canonizationStatus: Venerable
 vocation:
   - Priest

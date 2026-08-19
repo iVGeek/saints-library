@@ -12,8 +12,8 @@ birthPlace: "Trebnje, Slovenia"
 deathPlace: "Michigannatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 21
 canonizationStatus: Venerable
 vocation:
   - Bishop

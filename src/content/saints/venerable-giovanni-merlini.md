@@ -12,8 +12,8 @@ birthPlace: "Perugia, Italy"
 deathPlace: "Italyinjuries sustained in a traffic accident"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 19
 canonizationStatus: Venerable
 vocation:
   - Priest

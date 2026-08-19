@@ -12,8 +12,8 @@ birthPlace: "Bacau, Romania"
 deathPlace: "Bacau, Romanianatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 14
 canonizationStatus: Venerable
 vocation:
   - Priest

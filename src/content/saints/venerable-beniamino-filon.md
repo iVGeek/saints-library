@@ -15,8 +15,8 @@ birthPlace: "Padua, Italy"
 deathPlace: "Hautes-Pyrénées, Francenatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Priest

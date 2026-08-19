@@ -11,8 +11,8 @@ birthPlace: "Sinaloa, Mexico"
 deathPlace: "Coahuila, Mexiconatural causes"
 region: "Mexico"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 18
 canonizationStatus: Venerable
 vocation:
   - Bishop

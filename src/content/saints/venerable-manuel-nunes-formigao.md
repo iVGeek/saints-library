@@ -12,8 +12,8 @@ birthPlace: "Coimbra, Portugal"
 deathPlace: "Coimbra, Portugalnatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 6
 canonizationStatus: Venerable
 vocation:
   - Priest

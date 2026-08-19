@@ -10,8 +10,8 @@ died: "12 January 1419 at the monastery of San Martino, Perpignan, France of nat
 deathPlace: "Perpignan, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 12
+  month: 11
+  day: 3
 canonizationStatus: Blessed
 vocation: []
 martyr: false

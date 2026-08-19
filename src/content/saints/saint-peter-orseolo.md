@@ -14,8 +14,8 @@ birthPlace: "ProvinceUdine, Venice, Italy"
 deathPlace: "Pyrenees mountains, Francenatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 10
+  month: 8
+  day: 12
 canonizationStatus: Saint
 vocation:
   - Bishop

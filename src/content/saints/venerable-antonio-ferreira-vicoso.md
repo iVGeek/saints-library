@@ -10,8 +10,8 @@ died: "7 July 1875 in Mariana, Minas Gerais, Brazil of natural causes"
 deathPlace: "Minas Gerais, Brazilnatural causes"
 region: "Portugal"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 7
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dom_Ant%C3%B4nio_Ferreira_Vi%C3%A7oso.jpg/960px-Dom_Ant%C3%B4nio_Ferreira_Vi%C3%A7oso.jpg"
 vocation:

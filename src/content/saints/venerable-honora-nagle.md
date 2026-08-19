@@ -16,8 +16,8 @@ birthPlace: "Cork, Ireland"
 deathPlace: "Irelandtuberculosis"
 region: "Ireland"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Virgin

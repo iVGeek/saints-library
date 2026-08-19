@@ -14,8 +14,8 @@ birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Perua heart attack"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 12
 canonizationStatus: Venerable
 vocation:
   - Bishop

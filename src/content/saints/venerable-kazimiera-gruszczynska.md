@@ -14,7 +14,7 @@ birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
 region: "England"
 feastDay:
-  month: 1
+  month: 6
   day: 1
 canonizationStatus: Venerable
 vocation:

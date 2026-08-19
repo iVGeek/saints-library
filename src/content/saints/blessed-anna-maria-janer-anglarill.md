@@ -12,8 +12,8 @@ birthPlace: "Lleida, Spain"
 deathPlace: "Lleida, Spain"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 11
+  month: 6
+  day: 29
 canonizationStatus: Blessed
 vocation:
   - Religious

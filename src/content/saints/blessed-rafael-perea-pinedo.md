@@ -14,8 +14,8 @@ birthPlace: "Burgos, Spain"
 deathPlace: "Madrid, Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 27
 canonizationStatus: Blessed
 vocation: []
 religiousOrder: "Redemptorist"

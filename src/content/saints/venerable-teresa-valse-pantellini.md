@@ -12,8 +12,8 @@ birthPlace: "Italy"
 deathPlace: "Italytuberculosis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 2
 canonizationStatus: Venerable
 vocation:
   - Priest

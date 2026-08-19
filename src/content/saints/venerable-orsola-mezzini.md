@@ -12,8 +12,8 @@ birthPlace: "Bologna, Italy"
 deathPlace: "Italycomplications from a stroke suffered on 29 January"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Priest

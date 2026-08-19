@@ -13,7 +13,7 @@ deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
   month: 1
-  day: 16
+  day: 6
 canonizationStatus: Blessed
 vocation:
   - Priest

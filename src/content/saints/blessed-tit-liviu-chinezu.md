@@ -16,7 +16,7 @@ deathPlace: "Maramures, Romania"
 region: "England"
 feastDay:
   month: 1
-  day: 15
+  day: 31
 canonizationStatus: Blessed
 vocation:
   - Bishop

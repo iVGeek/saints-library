@@ -11,8 +11,8 @@ died: "25 September 1894 in Buenos Aires, Argentina of natural causes"
 birthPlace: "Córdoba, Argentina"
 deathPlace: "Argentinanatural causes"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 21
 canonizationStatus: Venerable
 vocation: []
 martyr: false

@@ -13,7 +13,7 @@ deathPlace: "Santa Catarina, Brazilnatural causes"
 region: "France"
 feastDay:
   month: 1
-  day: 1
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Virgin

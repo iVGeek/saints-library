@@ -13,7 +13,7 @@ deathPlace: "Amazonas, Perunatural causes"
 region: "England"
 feastDay:
   month: 1
-  day: 1
+  day: 27
 canonizationStatus: Venerable
 vocation:
   - Bishop

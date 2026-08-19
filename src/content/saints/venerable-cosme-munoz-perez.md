@@ -12,8 +12,8 @@ birthPlace: "Soria, Spain"
 deathPlace: "Spaof natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 19
 canonizationStatus: Venerable
 vocation:
   - Priest

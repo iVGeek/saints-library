@@ -12,8 +12,8 @@ birthPlace: "Batangas, Philippines"
 deathPlace: "Quezon, Philippinesnatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 15
 canonizationStatus: Venerable
 vocation:
   - Bishop

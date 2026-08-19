@@ -15,8 +15,8 @@ birthPlace: "Granada, Spain"
 deathPlace: "Granada, Spaof cancer"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 15
 canonizationStatus: Venerable
 vocation:
   - Religious

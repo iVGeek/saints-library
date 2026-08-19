@@ -16,8 +16,8 @@ birthPlace: "Italy as Gianni Bonzi"
 deathPlace: "Italyheart condition"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 10
 canonizationStatus: Venerable
 vocation:
   - Priest

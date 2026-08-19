@@ -14,8 +14,8 @@ birthPlace: "Vorarlberg, Austria"
 deathPlace: "Oberösterreich, Austrianatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 12
 canonizationStatus: Venerable
 vocation:
   - Bishop

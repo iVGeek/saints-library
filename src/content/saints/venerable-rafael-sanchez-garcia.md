@@ -13,8 +13,8 @@ birthPlace: "Badajoz, Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Priest

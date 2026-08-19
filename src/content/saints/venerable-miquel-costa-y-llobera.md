@@ -12,8 +12,8 @@ birthPlace: "Mallorca, Islas Baleares, Spain"
 deathPlace: "Islas Baleares, Spaof natural causes while preaching in the Discalced Carmelite church"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Priest

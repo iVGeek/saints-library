@@ -12,8 +12,8 @@ birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexiconatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 2
 canonizationStatus: Venerable
 vocation:
   - Priest

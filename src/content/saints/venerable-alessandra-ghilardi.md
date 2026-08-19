@@ -14,8 +14,8 @@ birthPlace: "Bergamo, Italy"
 deathPlace: "Kwilu, Democratic RepublicCongo of Ebola"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 8
 canonizationStatus: Venerable
 vocation:
   - Religious

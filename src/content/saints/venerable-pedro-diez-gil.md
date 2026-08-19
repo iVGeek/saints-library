@@ -15,8 +15,8 @@ birthPlace: "Burgos, Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 25
 canonizationStatus: Venerable
 vocation:
   - Virgin

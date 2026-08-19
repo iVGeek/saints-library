@@ -12,8 +12,8 @@ birthPlace: "Prerov, Czech Republic"
 deathPlace: "Czech Republic"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 5
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -12,8 +12,8 @@ birthPlace: "Vicenza, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 26
 canonizationStatus: Venerable
 vocation:
   - Priest

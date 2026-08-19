@@ -14,8 +14,8 @@ birthPlace: "Ernakulam, Kerala, India"
 deathPlace: "Ernakulam, Kerala, Indianatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 21
 canonizationStatus: Venerable
 vocation:
   - Virgin

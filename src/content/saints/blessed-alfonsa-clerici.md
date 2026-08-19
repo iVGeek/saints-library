@@ -12,8 +12,8 @@ birthPlace: "Milan, Italy"
 deathPlace: "Italya cerebral haemorrhage suffered on the night of 12 to 13 January 1930 while at prayer"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 14
+  month: 8
+  day: 15
 canonizationStatus: Blessed
 vocation:
   - Confessor

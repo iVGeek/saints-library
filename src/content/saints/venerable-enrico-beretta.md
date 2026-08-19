@@ -16,8 +16,8 @@ birthPlace: "Italy as Enrico"
 deathPlace: "Italycomplications from a stroke"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Priest

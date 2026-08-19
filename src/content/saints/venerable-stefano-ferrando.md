@@ -12,8 +12,8 @@ birthPlace: "Genoa, Italy"
 deathPlace: "Genoa, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 18
 canonizationStatus: Venerable
 vocation:
   - Bishop

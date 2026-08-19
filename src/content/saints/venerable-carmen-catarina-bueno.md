@@ -16,8 +16,8 @@ birthPlace: "São Paulo, Brazilnatural causes"
 deathPlace: "São Paulo, Brazil"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 21
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Carmelite"

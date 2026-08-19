@@ -16,7 +16,7 @@ birthPlace: "Novara, Italy"
 deathPlace: "Novara, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
+  month: 11
   day: 1
 canonizationStatus: Venerable
 vocation:

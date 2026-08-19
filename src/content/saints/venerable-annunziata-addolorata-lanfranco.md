@@ -16,8 +16,8 @@ birthPlace: "Lecce, dioceseNardò-Gallipoli, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 17
 canonizationStatus: Venerable
 vocation:
   - Religious

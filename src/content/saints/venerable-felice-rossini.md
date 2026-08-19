@@ -14,8 +14,8 @@ birthPlace: "Varese, Italy"
 deathPlace: "Pará, Brazilcomplications from leprosy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 23
 canonizationStatus: Venerable
 vocation:
   - Priest

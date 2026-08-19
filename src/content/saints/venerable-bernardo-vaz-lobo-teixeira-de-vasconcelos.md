@@ -15,8 +15,8 @@ birthPlace: "Braga, Portugal"
 deathPlace: "Porto, Portugalspinal tuberculosis"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Religious

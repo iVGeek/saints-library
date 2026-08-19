@@ -18,8 +18,8 @@ birthPlace: "Asti, Italy as Lorenzo Antonio Massaia"
 deathPlace: "Naples, Italycardio-circulatory collapse"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 8
 canonizationStatus: Venerable
 vocation:
   - Bishop

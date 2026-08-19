@@ -12,8 +12,8 @@ birthPlace: "Almer&iacute;a, Spain"
 deathPlace: "Spaof natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 10
+  month: 9
+  day: 24
 canonizationStatus: Blessed
 vocation:
   - Priest

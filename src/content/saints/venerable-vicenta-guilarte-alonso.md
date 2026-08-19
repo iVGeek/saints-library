@@ -9,8 +9,8 @@ born: "21 January 1879 in Rojas de Bureba, Burgos, Spain"
 birthPlace: "Burgos, Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 25
 canonizationStatus: Venerable
 vocation:
   - Priest

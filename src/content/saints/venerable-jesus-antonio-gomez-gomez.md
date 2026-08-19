@@ -14,8 +14,8 @@ birthPlace: "El Santuario, Antioquía, Colombia"
 deathPlace: "Antioquía, Colombiacancer"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 11
 canonizationStatus: Venerable
 vocation:
   - Virgin

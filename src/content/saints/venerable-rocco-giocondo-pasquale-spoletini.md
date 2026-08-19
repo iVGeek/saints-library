@@ -14,8 +14,8 @@ birthPlace: "Rome, Italy"
 deathPlace: "25 March 1951the convent of San Francesco a Ripa in Rome, Italy of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Priest

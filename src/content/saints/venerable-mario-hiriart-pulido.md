@@ -12,8 +12,8 @@ birthPlace: "Chile"
 deathPlace: "Wisconsof stomach cancer"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Virgin

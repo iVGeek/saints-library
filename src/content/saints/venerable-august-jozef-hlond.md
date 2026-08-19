@@ -12,8 +12,8 @@ birthPlace: "Germany (modern Myslowice, Poland)"
 deathPlace: "Polandnatural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 23
 canonizationStatus: Venerable
 vocation:
   - Bishop

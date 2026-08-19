@@ -17,8 +17,8 @@ birthPlace: "Poland"
 deathPlace: "Polandtyphus"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 11
 canonizationStatus: Venerable
 vocation:
   - Priest

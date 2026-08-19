@@ -12,8 +12,8 @@ birthPlace: "Italy"
 deathPlace: "10 June1844Livorno, Italy of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Priest

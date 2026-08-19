@@ -12,7 +12,7 @@ deathPlace: "Francenatural causes"
 region: "France"
 feastDay:
   month: 1
-  day: 1
+  day: 23
 canonizationStatus: Venerable
 vocation:
   - Bishop

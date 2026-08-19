@@ -12,8 +12,8 @@ died: "23 November 1974 in Pesaro, Pesaro e Urbino, Italy of natural causes"
 deathPlace: "Pesaro e Urbino, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 2
 canonizationStatus: Venerable
 vocation:
   - Priest

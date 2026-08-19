@@ -12,8 +12,8 @@ birthPlace: "Cosenza, Italy"
 deathPlace: "Cosenza, Italybronchitis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 13
+  month: 12
+  day: 17
 canonizationStatus: Blessed
 vocation:
   - Priest

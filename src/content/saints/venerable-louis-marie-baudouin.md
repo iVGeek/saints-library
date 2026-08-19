@@ -12,8 +12,8 @@ birthPlace: "Vendée, France"
 deathPlace: "Vendée, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 19
 canonizationStatus: Venerable
 vocation:
   - Priest

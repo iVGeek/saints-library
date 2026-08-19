@@ -14,8 +14,8 @@ birthPlace: "Catamarca, Argentina"
 deathPlace: "Córdoba, Argentinanatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 10
+  month: 7
+  day: 14
 canonizationStatus: Blessed
 vocation:
   - Bishop

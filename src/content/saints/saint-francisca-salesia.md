@@ -26,8 +26,8 @@ birthPlace: "France as Leonia Aviat"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 10
+  month: 9
+  day: 17
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -12,8 +12,8 @@ birthPlace: "Ruhr region, Germany"
 deathPlace: "Germany prison"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 15
+  month: 7
+  day: 20
 canonizationStatus: Blessed
 vocation:
   - Priest

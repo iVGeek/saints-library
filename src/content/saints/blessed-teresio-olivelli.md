@@ -14,8 +14,8 @@ birthPlace: "Como, Italy"
 deathPlace: "Nürnberger Land, Germany"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 17
+  month: 9
+  day: 9
 canonizationStatus: Blessed
 vocation:
   - Priest

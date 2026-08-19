@@ -16,7 +16,7 @@ deathPlace: "Asia Minor (modern Turkey) of natural causes"
 region: "Italy"
 feastDay:
   month: 1
-  day: 1
+  day: 22
 canonizationStatus: Blessed
 vocation:
   - Priest

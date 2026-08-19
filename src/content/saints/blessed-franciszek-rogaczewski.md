@@ -16,7 +16,7 @@ birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Poland"
 region: "France"
 feastDay:
-  month: 1
+  month: 9
   day: 11
 canonizationStatus: Blessed
 vocation:

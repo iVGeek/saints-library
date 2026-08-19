@@ -12,8 +12,8 @@ birthPlace: "Swarzedz, Poznan, Poland"
 deathPlace: "Polandnatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 10
 canonizationStatus: Venerable
 vocation:
   - Bishop

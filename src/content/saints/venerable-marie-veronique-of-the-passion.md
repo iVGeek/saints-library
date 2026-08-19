@@ -14,8 +14,8 @@ birthPlace: "Turkey) as Sophie Leeves"
 deathPlace: "Pyrénées-Atlantique, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 2
 canonizationStatus: Venerable
 vocation:
   - Bishop

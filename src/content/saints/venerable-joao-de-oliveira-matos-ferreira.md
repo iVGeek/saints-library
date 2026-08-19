@@ -11,8 +11,8 @@ birthPlace: "Fundão, Castelo Branco, Portugal"
 deathPlace: "Portugalnatural causes"
 region: "Portugal"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 28
 canonizationStatus: Venerable
 vocation:
   - Bishop

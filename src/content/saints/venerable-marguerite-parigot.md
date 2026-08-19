@@ -17,8 +17,8 @@ birthPlace: "Côte-d'Or, France as Marguerite Parigot"
 deathPlace: "Côte-d'Or, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 24
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Carmelite"

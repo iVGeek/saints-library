@@ -11,8 +11,8 @@ birthPlace: "Mallorca, Islas Baleares, Spain"
 deathPlace: "Islas Baleares, Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Priest

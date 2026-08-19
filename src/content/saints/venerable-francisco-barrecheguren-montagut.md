@@ -12,8 +12,8 @@ birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 27
 canonizationStatus: Venerable
 vocation:
   - Priest

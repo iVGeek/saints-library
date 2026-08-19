@@ -11,8 +11,8 @@ died: "18 January 1947 of natural causes"
 birthPlace: "Genoa, Italy as Maria Fasce"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 18
+  month: 3
+  day: 22
 canonizationStatus: Blessed
 vocation:
   - Priest

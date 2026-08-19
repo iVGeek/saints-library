@@ -20,8 +20,8 @@ birthPlace: "Lviv, Ukraine"
 deathPlace: "L’viv’ska oblast, Ukrainenatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Bishop

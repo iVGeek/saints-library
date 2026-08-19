@@ -12,8 +12,8 @@ birthPlace: "Frosinone, Italy"
 deathPlace: "Rome, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Bishop

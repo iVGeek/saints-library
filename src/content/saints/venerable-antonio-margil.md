@@ -20,8 +20,8 @@ birthPlace: "Spain"
 deathPlace: "Mexiconatural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 22
 canonizationStatus: Venerable
 vocation:
   - Priest

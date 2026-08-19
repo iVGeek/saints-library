@@ -12,8 +12,8 @@ birthPlace: "Guerrero, Mexico"
 deathPlace: "Mexiconatural causes"
 region: "Mexico"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 21
 canonizationStatus: Venerable
 vocation:
   - Bishop

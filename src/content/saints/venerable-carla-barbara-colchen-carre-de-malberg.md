@@ -12,8 +12,8 @@ birthPlace: "France"
 deathPlace: "Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 2
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Salesian"

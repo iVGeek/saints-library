@@ -14,8 +14,8 @@ birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 16
+  month: 4
+  day: 14
 canonizationStatus: Blessed
 vocation:
   - Bishop

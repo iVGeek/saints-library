@@ -12,8 +12,8 @@ birthPlace: "Ralls County, Missouri"
 deathPlace: "Chicago, Illinoisheat stroke and uremia"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Priest

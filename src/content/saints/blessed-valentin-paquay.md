@@ -18,8 +18,8 @@ birthPlace: "Limburg, Belgium as Louis Paquay"
 deathPlace: "Limburg, Belgiumnatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 4
 canonizationStatus: Blessed
 vocation:
   - Priest

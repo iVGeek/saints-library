@@ -15,8 +15,8 @@ birthPlace: "Japan"
 deathPlace: "Japannatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 30
 canonizationStatus: Venerable
 vocation:
   - Soldier

@@ -11,8 +11,8 @@ died: "c.303 in Rome, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 15
+  month: 12
+  day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true

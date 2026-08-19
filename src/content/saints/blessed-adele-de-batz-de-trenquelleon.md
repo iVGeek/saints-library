@@ -15,7 +15,7 @@ deathPlace: "Lot-et-Garonne, Francenatural causes"
 region: "Italy"
 feastDay:
   month: 1
-  day: 10
+  day: 6
 canonizationStatus: Blessed
 vocation:
   - Bishop

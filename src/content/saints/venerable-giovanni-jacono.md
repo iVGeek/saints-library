@@ -11,8 +11,8 @@ birthPlace: "Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 20
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/S.E._Mons._Jacono_Vescovo_di_Caltanissetta.jpg/960px-S.E._Mons._Jacono_Vescovo_di_Caltanissetta.jpg"
 vocation:

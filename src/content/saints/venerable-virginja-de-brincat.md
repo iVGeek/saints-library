@@ -16,8 +16,8 @@ birthPlace: "Gozo, Malta"
 deathPlace: "Gozo, Maltanatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 8
 canonizationStatus: Venerable
 vocation:
   - Virgin

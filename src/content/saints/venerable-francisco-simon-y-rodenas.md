@@ -13,8 +13,8 @@ birthPlace: "Orihuela, Alicante, Spain"
 deathPlace: "Valencia, Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 5
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -15,8 +15,8 @@ birthPlace: "Aisne, France"
 deathPlace: "Calvados, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 12
+  month: 9
+  day: 22
 canonizationStatus: Blessed
 vocation:
   - Priest

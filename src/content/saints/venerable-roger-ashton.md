@@ -11,7 +11,7 @@ deathPlace: "drawn, and quartered on 23 June 1592 at Tyburn, London, England"
 region: "Italy"
 feastDay:
   month: 1
-  day: 1
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Soldier

@@ -15,8 +15,8 @@ birthPlace: "dioceseBarcelona, Spain"
 deathPlace: "Barcelona, Spaof endocarditis, an inflammation of part of the heart"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 2
 canonizationStatus: Venerable
 vocation:
   - Religious

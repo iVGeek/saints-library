@@ -12,8 +12,8 @@ birthPlace: "Italy"
 deathPlace: "Mashonaland East, Zimbabwe"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 10
 canonizationStatus: Venerable
 vocation:
   - Missionary

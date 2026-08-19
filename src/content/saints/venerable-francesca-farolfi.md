@@ -14,8 +14,8 @@ birthPlace: "Bologna, Italy as Francesca Farolfi"
 deathPlace: "Forlì, Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 28
 canonizationStatus: Venerable
 vocation:
   - Missionary

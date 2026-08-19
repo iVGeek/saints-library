@@ -14,8 +14,8 @@ birthPlace: "Spain"
 deathPlace: "Spaof tuberculosis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 15
 canonizationStatus: Venerable
 vocation:
   - Priest

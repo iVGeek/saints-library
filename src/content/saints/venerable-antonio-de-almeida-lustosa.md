@@ -13,7 +13,7 @@ deathPlace: "Pernambuco, Brazilnatural causes"
 region: "England"
 feastDay:
   month: 1
-  day: 1
+  day: 28
 canonizationStatus: Venerable
 vocation:
   - Bishop

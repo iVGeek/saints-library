@@ -12,8 +12,8 @@ birthPlace: "Spain"
 deathPlace: "Spafollowing a heart attack"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Bishop

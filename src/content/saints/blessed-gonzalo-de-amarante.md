@@ -20,7 +20,7 @@ deathPlace: "Portugalnatural causes"
 region: "Portugal"
 feastDay:
   month: 1
-  day: 16
+  day: 10
 canonizationStatus: Blessed
 vocation:
   - Priest

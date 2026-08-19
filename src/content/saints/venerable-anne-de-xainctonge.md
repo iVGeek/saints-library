@@ -12,8 +12,8 @@ birthPlace: "Côte-d’Or, France"
 deathPlace: "Jura, France"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Virgin

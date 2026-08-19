@@ -7,7 +7,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kostel_PM_V%C3
 region: "Spain"
 feastDay:
   month: 1
-  day: 1
+  day: 14
 canonizationStatus: Saint
 vocation:
   - Virgin

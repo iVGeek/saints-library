@@ -12,8 +12,8 @@ birthPlace: "Cuba"
 deathPlace: "Florida"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 21
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -18,7 +18,7 @@ birthPlace: "Tamil Nadu, India"
 deathPlace: "Tamil Nadu, India"
 region: "France"
 feastDay:
-  month: 1
+  month: 5
   day: 14
 canonizationStatus: Venerable
 vocation:

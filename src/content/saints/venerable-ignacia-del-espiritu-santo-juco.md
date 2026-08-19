@@ -12,8 +12,8 @@ birthPlace: "Manila, Philippines"
 deathPlace: "Manila, Philippinesnatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -14,8 +14,8 @@ birthPlace: "Salamanca, Spain"
 deathPlace: "Cantabria, Spaof natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 16
 canonizationStatus: Venerable
 vocation:
   - Priest

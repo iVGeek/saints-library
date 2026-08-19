@@ -15,8 +15,8 @@ birthPlace: "Agrigento, Italy as Nicolò"
 deathPlace: "Sicily, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Priest

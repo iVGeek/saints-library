@@ -12,8 +12,8 @@ birthPlace: "Bescia, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 9
 canonizationStatus: Venerable
 vocation:
   - Priest

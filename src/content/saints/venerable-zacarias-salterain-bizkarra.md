@@ -15,8 +15,8 @@ birthPlace: "Vizcaya, Spain"
 deathPlace: "Tamil Nadu, Indianatural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 14
 canonizationStatus: Venerable
 vocation:
   - Priest

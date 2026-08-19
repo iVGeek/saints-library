@@ -11,8 +11,8 @@ birthPlace: "Bielsko, Poland"
 deathPlace: "Polandnatural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 5
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Jan_Pietraszko_c.1946.jpg"
 vocation:

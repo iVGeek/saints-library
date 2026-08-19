@@ -12,8 +12,8 @@ birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Minas Gerais, Brazilnatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 20
 canonizationStatus: Venerable
 vocation:
   - Priest

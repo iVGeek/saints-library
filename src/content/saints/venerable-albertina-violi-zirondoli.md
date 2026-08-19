@@ -12,8 +12,8 @@ birthPlace: "Modena, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 31
 canonizationStatus: Venerable
 vocation:
   - Priest

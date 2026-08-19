@@ -14,8 +14,8 @@ birthPlace: "Estado de México, Mexico"
 deathPlace: "Mexicoextensive skin cancer"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 20
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -11,8 +11,8 @@ born: "18 October 1873 in Corbetta, Milan, Italy"
 birthPlace: "Milan, Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Bishop

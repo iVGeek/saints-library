@@ -14,8 +14,8 @@ birthPlace: "Vicenza, Italy"
 deathPlace: "Italya respiratory disorder"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 25
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -12,8 +12,8 @@ birthPlace: "Aude, France"
 deathPlace: "Sierra Leonenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 22
 canonizationStatus: Venerable
 vocation:
   - Bishop

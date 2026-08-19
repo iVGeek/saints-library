@@ -12,8 +12,8 @@ birthPlace: "Zamora, Spain"
 deathPlace: "León, Spaof a heart attack"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 25
 canonizationStatus: Venerable
 vocation:
   - Bishop

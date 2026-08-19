@@ -12,8 +12,8 @@ birthPlace: "Navarra, Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 29
 canonizationStatus: Venerable
 vocation:
   - Bishop

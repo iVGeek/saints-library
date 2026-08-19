@@ -14,8 +14,8 @@ birthPlace: "Lévis, Québec, Canada"
 deathPlace: "Québec, Canadatuberculosis"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Virgin

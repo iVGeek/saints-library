@@ -14,8 +14,8 @@ birthPlace: "Castel di Casio, Bologna, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 8
 canonizationStatus: Venerable
 vocation:
   - Priest

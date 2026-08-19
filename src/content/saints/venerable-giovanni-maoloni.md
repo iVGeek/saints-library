@@ -14,8 +14,8 @@ birthPlace: "Ascoli Piceno, Italy as Giovanni Maoloni"
 deathPlace: "Ascoli Piceno, Italycomplications from peritonitis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 6
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Franciscan"

@@ -12,8 +12,8 @@ birthPlace: "Islas Canarias, Spain"
 deathPlace: "Argentinanatural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 2
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Jesuit"

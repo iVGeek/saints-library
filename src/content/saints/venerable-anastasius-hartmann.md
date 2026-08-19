@@ -14,8 +14,8 @@ birthPlace: "Switzerland as Alois Hartmann"
 deathPlace: "Indiacholera"
 region: "India"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 13
 canonizationStatus: Venerable
 vocation:
   - Bishop

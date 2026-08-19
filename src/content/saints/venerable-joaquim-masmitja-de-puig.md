@@ -14,8 +14,8 @@ birthPlace: "Girona, Spain"
 deathPlace: "Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 22
 canonizationStatus: Venerable
 vocation:
   - Virgin

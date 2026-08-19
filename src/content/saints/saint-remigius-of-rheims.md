@@ -19,8 +19,8 @@ born: "c.438"
 died: "13 January 533 of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 13
+  month: 12
+  day: 24
 canonizationStatus: Saint
 vocation:
   - Bishop

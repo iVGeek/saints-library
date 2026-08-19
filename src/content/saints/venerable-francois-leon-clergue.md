@@ -15,8 +15,8 @@ birthPlace: "Tarn, France"
 deathPlace: "Tarn, Francea fever"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 21
 canonizationStatus: Venerable
 vocation:
   - Priest

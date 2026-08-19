@@ -14,8 +14,8 @@ birthPlace: "(modern Belvedere Fogliense), Tavullia, Pesaro, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 7
 canonizationStatus: Blessed
 vocation:
   - Priest

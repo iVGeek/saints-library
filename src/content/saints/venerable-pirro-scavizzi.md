@@ -12,8 +12,8 @@ birthPlace: "Perugia, Italy"
 deathPlace: "Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 7
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -14,7 +14,7 @@ deathPlace: "Funchal Madeira, Portugalnatural causes"
 region: "France"
 feastDay:
   month: 1
-  day: 1
+  day: 15
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Mary_Jane_Wilson.jpg"
 vocation:

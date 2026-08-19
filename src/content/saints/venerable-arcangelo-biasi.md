@@ -14,8 +14,8 @@ birthPlace: "Trent, Italy"
 deathPlace: "Padua, Italytuberculosis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 4
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -14,8 +14,8 @@ birthPlace: "dioceseCadiz, Spain as Marcelo Rafael Jos&eacute; Mar&iacute;a de l
 deathPlace: "Spaof natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 19
+  month: 6
+  day: 29
 canonizationStatus: Blessed
 vocation:
   - Bishop

@@ -12,8 +12,8 @@ died: "buried in the church of Saints Peter and Andrew in Trequanda, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 6
 canonizationStatus: Blessed
 vocation: []
 martyr: false

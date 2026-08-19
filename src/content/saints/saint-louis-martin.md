@@ -13,8 +13,8 @@ born: "1823"
 birthPlace: "Lisieux"
 centuries: [19]
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 12
 liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:

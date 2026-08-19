@@ -12,8 +12,8 @@ birthPlace: "Italy as Marcello Loewy"
 deathPlace: "Italya heart attack"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 23
 canonizationStatus: Venerable
 vocation:
   - Priest

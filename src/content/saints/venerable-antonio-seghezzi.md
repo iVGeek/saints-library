@@ -9,8 +9,8 @@ died: "21 May 1945 at KZ Dachau, Obebayern, Germany of tuberculosis"
 deathPlace: "Obebayern, Germanytuberculosis"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 27
 canonizationStatus: Venerable
 vocation:
   - Priest

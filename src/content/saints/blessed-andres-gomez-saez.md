@@ -12,8 +12,8 @@ birthPlace: "Valencia, Spain"
 deathPlace: "Cantabria, Spain"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 28
 canonizationStatus: Blessed
 vocation:
   - Priest

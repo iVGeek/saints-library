@@ -12,7 +12,7 @@ birthPlace: "Italy"
 deathPlace: "Matera, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
+  month: 6
   day: 1
 canonizationStatus: Venerable
 vocation:

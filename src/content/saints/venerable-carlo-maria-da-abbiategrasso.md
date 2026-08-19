@@ -14,8 +14,8 @@ birthPlace: "Italy as Gaetano Antonio Vigevano"
 deathPlace: "Lodi, Lombardy, Italytuberculosis and pneumonia"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 8
 canonizationStatus: Venerable
 vocation:
   - Bishop

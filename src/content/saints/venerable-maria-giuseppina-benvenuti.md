@@ -13,8 +13,8 @@ died: "evening of 24 April 1926 in Serra de' Conti, Ancona, Italy of natural cau
 deathPlace: "Ancona, Italynatural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 24
 canonizationStatus: Venerable
 vocation:
   - Priest

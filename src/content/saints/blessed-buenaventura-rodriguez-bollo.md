@@ -1,7 +1,6 @@
 ---
 name: "Blessed Buenaventura Rodríguez Bollo"
 honorific: Blessed
-title: "Blessed Buenaventura Rodríguez Bollo"
 summary: "Franciscan priest. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

@@ -2,7 +2,6 @@
 name: "Blessed Agnes Takeda"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Annals_of_botany_%28IA_annalsofbotany271913balf%29.pdf/page1-500px-Annals_of_botany_%28IA_annalsofbotany271913balf%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Agnes Takeda"
 summary: "Lay woman in the diocese of Fukuoka, Japan. Married to Blessed Simon Takeda Gohyoe. Martyr."
 birthYear: 1563
 deathYear: 1603

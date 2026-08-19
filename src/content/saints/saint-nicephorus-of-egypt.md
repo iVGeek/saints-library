@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicephorus of Egypt"
 honorific: Saint
-title: "Saint Nicephorus of Egypt"
 summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian."
 deathYear: 283
 died: "grilled over a fire until nearly dead, then chopped to pieces in 283 in Diospolis (modern Hu), Egypt"

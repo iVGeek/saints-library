@@ -1,7 +1,6 @@
 ---
 name: "Saint Aidan of Mayo"
 honorific: Saint
-title: "Saint Aidan of Mayo"
 summary: "Eighth-century abbot-bishop of Mayo, Ireland."
 searchAliases:
   - "Aedanus"

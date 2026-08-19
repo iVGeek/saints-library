@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustochia Calafato"
 honorific: Venerable
-title: "Saint Eustochia Calafato"
 summary: "Daughter of Count Bernardo and Countess Macaldo Romano Colonna, Sicilian nobles and wealthy merchants. Legend says she was born in a stable because her mother had received a vision directing her there. Raised and educated by her pious mother, the girl felt drawn to the religious"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eustochia-Calafato.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Oreste Fontanella"
 honorific: Venerable
-title: "Venerable Oreste Fontanella"
 summary: "Priest in the diocese of Biella, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Oreste-Fontanella.jpg"
 birthYear: 1883

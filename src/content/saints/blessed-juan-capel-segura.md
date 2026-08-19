@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Capel Segura"
 honorific: Blessed
-title: "Blessed Juan Capel Segura"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

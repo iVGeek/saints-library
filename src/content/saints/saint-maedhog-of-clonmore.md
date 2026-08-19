@@ -1,7 +1,6 @@
 ---
 name: "Saint Maedhog of Clonmore"
 honorific: Saint
-title: "Saint Maedhog of Clonmore"
 summary: "Sixth century abbot of Clonmore, Ireland."
 searchAliases:
   - "Aedhan"

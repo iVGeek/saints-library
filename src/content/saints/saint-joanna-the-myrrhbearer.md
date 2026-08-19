@@ -1,7 +1,6 @@
 ---
 name: "Saint Joanna the Myrrhbearer"
 honorific: Saint
-title: "Saint Joanna the Myrrhbearer"
 summary: "First century lay woman. Married to Chusa, steward of King Herod Antipas. Disciple of Jesus, and mentioned in Luke (8:3) as providing for Jesus and the Apostles. Eastern tradition says that she gave the head of John the Baptist an honourable burial. One of the women Luke says (24"
 image: "http://catholicsaints.info/wp-content/uploads/img-Joanna-the-Myrhhbearer.jpg"
 region: "England"

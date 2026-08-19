@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Imbert"
 honorific: Blessed
-title: "Blessed Joseph Imbert"
 summary: "Jesuit priest. Vicar apostolic of Moulins, France. Imprisoned on a ship during the anti-Catholic persecutions of the French Revolution and left to die. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1720

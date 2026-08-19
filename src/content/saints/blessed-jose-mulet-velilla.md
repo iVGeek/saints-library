@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Mulet Velilla"
 honorific: Blessed
-title: "Blessed José Mulet Velilla"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "José Teofilo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius of Antioch"
 honorific: Saint
-title: "Saint Macarius of Antioch"
 summary: "Soldier. Martyr."
 born: "Greece"
 died: "Antioch (modern Antakya, Turkey)"

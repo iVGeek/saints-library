@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Chamayoux Auclés"
 honorific: Blessed
-title: "Blessed Joseph Chamayoux Auclés"
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jacob Samuel"

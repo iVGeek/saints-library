@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Nicholas I"
 honorific: Saint
-title: "Pope Saint Nicholas I"
 summary: "Son of the Theodore, who held the title Defensor. An excellent student, known for his piety and eloquence. Ordained as a sub-deacon by Pope Sergius II, and then a deacon by Pope Leo IV. Elected pope after the disintegration of the empire of Charlemagne when Christianity was threa"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/St_Nicholas%2C_Great_Wakering_-_Stained_glass_window_-_geograph.org.uk_-_3916715%28cropped%29.jpg"
 searchAliases:

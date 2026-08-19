@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Ulma"
 honorific: Blessed
-title: "Blessed Maria Ulma"
 summary: "Child in the archdiocese of Przemysl, Poland, the daughter of Józef and Wiktoria Ulma. Executed by Nazi forces because her family hid Jewish refugees during World War II. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg"
 searchAliases:

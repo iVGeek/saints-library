@@ -1,7 +1,6 @@
 ---
 name: "Venerable Quirico Pignalberi"
 honorific: Venerable
-title: "Venerable Quirico Pignalberi"
 summary: "Youngest of five children born to the peasant family of Egidio Pignalberi and Catherine Proietti. Confirmed on 29 September 1893. Joined the Franciscan Friars Minor Conventual on 30 October 1908 at Zagarolo, Rome, Italy. Studied at the Gregorian University from 1911 to 1913 and t"
 image: "http://catholicsaints.info/wp-content/uploads/quiricopibliagnoler4.jpg"
 birthYear: 1891

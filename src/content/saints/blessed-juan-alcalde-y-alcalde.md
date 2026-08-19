@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Alcalde y Alcalde"
 honorific: Blessed
-title: "Blessed Juan Alcalde y Alcalde"
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julián Pozo Ruiz de Samaniego"
 honorific: Blessed
-title: "Blessed Julián Pozo Ruiz de Samaniego"
 summary: "Julián entered the El Espino Redemptorist seminary as a boy, joined the Order/a> in his teens, and made his profession in 1920. He was diagnosed with tuberculosis in 1921. Ordained a priest in the diocese of Cuenca, Spain on 27 September 1925. His health prevented Father Julián f"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-Pozo-Ruiz-de-Samaniego.jpg"
 birthYear: 1903

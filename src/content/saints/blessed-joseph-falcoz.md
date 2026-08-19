@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Falcoz"
 honorific: Blessed
-title: "Blessed Joseph Falcoz"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1726
 deathYear: 1792

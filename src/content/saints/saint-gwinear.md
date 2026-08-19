@@ -1,7 +1,6 @@
 ---
 name: "Saint Gwinear"
 honorific: Saint
-title: "Saint Gwinear"
 summary: "Son of the pagan King Clito of Ireland. When Saint Patrick arrived at Clito's court, the king was hostile; Gwinear recognized Patrick's sincerity and piety, treated him well, and meditated on his message. Convert to Christianity. Hermit. Upon his father's death, he returned home,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%89glise_de_Pluvigner_%28St_Guigner%29.jpg/960px-%C3%89glise_de_Pluvigner_%28St_Guigner%29.jpg"
 searchAliases:

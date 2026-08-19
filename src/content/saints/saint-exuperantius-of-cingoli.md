@@ -1,7 +1,6 @@
 ---
 name: "Saint Exuperantius of Cingoli"
 honorific: Saint
-title: "Saint Exuperantius of Cingoli"
 summary: "Fifth century bishop of Cingoli, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Antonio_solario_o_pietro_paolo_agabiti%2C_madonna_tra_i_ss._esuperanzio_e_barnardino%2C_03.jpg/960px-Antonio_solario_o_pietro_paolo_agabiti%2C_madonna_tra_i_ss._esuperanzio_e_barnardino%2C_03.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Alexandria"
 honorific: Saint
-title: "Saint Saturninus of Alexandria"
 summary: "Marytred in the persecutions of Diocletian. Nothing else is known about him."
 deathYear: 304
 died: "martyred in 304 in Alexandria, Egypt"

@@ -1,7 +1,6 @@
 ---
 name: "Saint William of Dijon"
 honorific: Saint
-title: "Saint William of Dijon"
 summary: "Born to the Italian nobility, the son of Count Robert of Volpiano. Born during a battle in which his father defended the island against Emperor Otto. When the island was lost, the Emperor became William's sponsor and patron. Educated from age seven in the Benedictine abbey of Loc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Dijon.jpg"
 searchAliases:

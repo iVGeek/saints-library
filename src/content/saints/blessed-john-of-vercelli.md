@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Vercelli"
 honorific: Blessed
-title: "Blessed John of Vercelli"
 summary: " Dominican Friar, joining in Vercelli, and receiving the habit from Blessed Jordan of Saxony, whose preaching had brought him to the O Studied at the University of Paris. Doctor of civil and canon law. Taught law at Paris and Vercelli, Italy. Helped found a university in Vercelli."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blessed_john_of_vercelli.png"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Verissimus of Lisbon"
 honorific: Saint
-title: "Saint Verissimus of Lisbon"
 summary: "Martyred with his sisters Saint Julia of Lisbon and Saint Maxima of Lisbon in the persecution of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Verissimus-of-Lisbon.jpg"
 deathYear: 304

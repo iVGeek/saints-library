@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas of Montecorpino"
 honorific: Blessed
-title: "Blessed Nicolas of Montecorpino"
 summary: "Franciscan Friar Minor. Martyred for trying to bring apostates back to the faith."
 searchAliases:
   - "Nicolas of Cairo"

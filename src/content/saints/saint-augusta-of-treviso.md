@@ -1,7 +1,6 @@
 ---
 name: "Saint Augusta of Treviso"
 honorific: Saint
-title: "Saint Augusta of Treviso"
 summary: "Fifth century daughter of the Teutonic duke of Friuli. Convert to Christianity. Killed by her father with his own hands for her faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Reliquie_santa_augusta.jpg/960px-Reliquie_santa_augusta.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintianus of Lucania"
 honorific: Saint
-title: "Saint Quintianus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

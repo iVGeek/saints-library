@@ -2,7 +2,6 @@
 name: "Venerable Domenico Lázaro Castro"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gundemaro.jpg"
 honorific: Venerable
-title: "Venerable Domenico Lázaro Castro"
 summary: "Priest. Member of the Society of Mary."
 birthYear: 1877
 deathYear: 1935

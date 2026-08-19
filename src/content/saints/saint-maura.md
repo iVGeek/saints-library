@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura"
 honorific: Saint
-title: "Saint Maura"
 summary: "Fourth century nun. Martyred with Saint Britta. Their story was lost, but their relics were discovered by Saint Euphronius."
 region: "England"
 feastDay:

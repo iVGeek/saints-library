@@ -1,7 +1,6 @@
 ---
 name: "Saint Partinimus"
 honorific: Saint
-title: "Saint Partinimus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 7

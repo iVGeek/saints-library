@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lindalva Justo de Oliveira"
 honorific: Blessed
-title: "Blessed Lindalva Justo de Oliveira"
 summary: "Born to a large family. Nun. Member of the Daughters of Charity of Saint Vincent de Paul in 1986. Began working at a homeless center in El Salvador on 29 January 1991. Murdered by a man who became obsessed with her and angered that she would not give up her religious life for him"
 image: "http://catholicsaints.info/wp-content/uploads/Lindalva-Justo-de-Oliveira.jpg"
 searchAliases:

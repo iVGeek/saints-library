@@ -1,7 +1,6 @@
 ---
 name: "Saint Maughold"
 honorific: Saint
-title: "Saint Maughold"
 summary: "Prince, pirate and thief. Converted to Christianity by Saint Patrick. To avoid temptation, he set sail from Ireland in a wicker boat, letting God set his course. He landed on the Isle of Man where he served as missionary bishop. Some versions say that Patrick ordained him, and as"
 searchAliases:
   - "Apostle of the Isle of Man"

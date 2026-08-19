@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilary of Viterbo"
 honorific: Saint
-title: "Saint Hilary of Viterbo"
 summary: "Deacon. Worked with and martyred with Saint Valentine of Viterbo in the persecutions of Diocletian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Hilary-and-Valentine.jpg"
 died: "beheaded at Viterbo, Italy"

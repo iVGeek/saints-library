@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Eleuterus"
 honorific: Saint
-title: "Pope Saint Eleuterus"
 summary: "Son of Habundius. Deacon under Pope Anicetus and Pope Saint Soter. Chosen 13th Pope c.174. Declared opposition to Gnostics and the Montanists. Sent Fugatius and Damjan to convert the Britons. Abolished some Jewish dietary customs for Christians. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Eleuterus.jpg"
 searchAliases:

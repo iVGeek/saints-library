@@ -1,7 +1,6 @@
 ---
 name: "Blessed Constantius of Fabriano"
 honorific: Blessed
-title: "Blessed Constantius of Fabriano"
 summary: "Known as a pious child; Constantius once convinced his parents to pray with him for the healing of his terminally ill sister - and she was immediately cured. He joined the Dominicans at age 15 at the convent of Santa Lucia. Spiritual student of Blessed Laurence of Ripafratta, Ble"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Constantius-of-Fabriano.jpg"
 searchAliases:

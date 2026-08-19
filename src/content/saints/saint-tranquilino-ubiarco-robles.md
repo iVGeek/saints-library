@@ -1,7 +1,6 @@
 ---
 name: "Saint Tranquilino Ubiarco Robles"
 honorific: Venerable
-title: "Saint Tranquilino Ubiarco Robles"
 summary: "Priest in the archdiocese of Guadalajara, Mexico. During the persecutions of the Mexican Revolution he continued his work in secret, celebrating Mass in private homes, and distributing Communion to covert Catholics. Martyred for refusing to stop his pastoral work, having been cau"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tranquilino-Ubiarco-Robles.jpg"
 birthYear: 1899

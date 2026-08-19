@@ -1,7 +1,6 @@
 ---
 name: "Saint Chrysotelus of Persia"
 honorific: Saint
-title: "Saint Chrysotelus of Persia"
 summary: "Priest martyred in Persia."
 feastDay:
   month: 4

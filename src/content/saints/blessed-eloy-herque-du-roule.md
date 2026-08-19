@@ -1,7 +1,6 @@
 ---
 name: "Blessed Éloy Herque du Roule"
 honorific: Blessed
-title: "Blessed Éloy Herque du Roule"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1741
 deathYear: 1792

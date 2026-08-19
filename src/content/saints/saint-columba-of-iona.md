@@ -1,7 +1,6 @@
 ---
 name: "Saint Columba of Iona"
 honorific: Saint
-title: "Saint Columba of Iona"
 summary: "Born to the Irish royalty, the son of Fedhlimidh and Eithne of the Ui Neill clan. Bard. Miracle worker. Monk at Moville. Spiritual student of Saint Finnian. Priest. Itinerant preacher and teacher throughout Ireland and Scotland. Spiritual teacher of Saint Corbmac, Saint Phelim, S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Columba.jpg"
 searchAliases:

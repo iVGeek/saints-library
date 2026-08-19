@@ -1,7 +1,6 @@
 ---
 name: "Saint Heliodorus the Martyr"
 honorific: Saint
-title: "Saint Heliodorus the Martyr"
 summary: "Third century martyr in Africa in the persecutions Diocletian."
 region: "Africa"
 feastDay:

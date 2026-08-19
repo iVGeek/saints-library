@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Pavia"
 honorific: Saint
-title: "Saint Felix of Pavia"
 summary: "Bishop. Martyr."
 died: "Pavia, Italy, date unknown"
 deathPlace: "Italy, date unknown"

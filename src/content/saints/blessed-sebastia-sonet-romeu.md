@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sebastià Sonet Romeu"
 honorific: Blessed
-title: "Blessed Sebastià Sonet Romeu"
 summary: "Franciscan Capuchin, making his solemn profession on 2 August 1903. Ordained a priest on 31 March 1907. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Zacaries of Llorenç de Penedès"

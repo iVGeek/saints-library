@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Fausseuse épouse Banchereau"
 honorific: Blessed
-title: "Blessed Marie Fausseuse épouse Banchereau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1740
 deathYear: 1794

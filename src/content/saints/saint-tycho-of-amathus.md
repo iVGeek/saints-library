@@ -1,7 +1,6 @@
 ---
 name: "Saint Tycho of Amathus"
 honorific: Saint
-title: "Saint Tycho of Amathus"
 summary: "Son of a poor baker. First bishop of Amathus (modern Limassol), Cyprus in the early 5th-century. Fought to rid Cyprus of its remaining pagan culture, idols and worship, particularly that related to Aphrodiate. Saint Joseph the Hymnographer composed an Office in his honour. Saint"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tycho-of-Amathus.jpg"
 searchAliases:

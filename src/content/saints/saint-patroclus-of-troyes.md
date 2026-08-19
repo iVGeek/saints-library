@@ -1,7 +1,6 @@
 ---
 name: "Saint Patroclus of Troyes"
 honorific: Saint
-title: "Saint Patroclus of Troyes"
 summary: "Wealthy Christian of Troyes, Gaul, noted for his charity. Evangelist; he converted his successor, Saint Sabinian of Troyes. Arrested for his faith during the persecutions of Emperor Marcus Aurelius. Roman officials tried to drown him in the River Seine, but he managed to briefly"
 searchAliases:
   - "Parre"

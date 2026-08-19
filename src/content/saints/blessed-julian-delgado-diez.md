@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julián Delgado Díez"
 honorific: Blessed
-title: "Blessed Julián Delgado Díez"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Hugo Julián"

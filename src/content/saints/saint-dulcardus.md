@@ -1,7 +1,6 @@
 ---
 name: "Saint Dulcardus"
 honorific: Saint
-title: "Saint Dulcardus"
 summary: "Monk at Saint-Mesmin Abbey in Orleans, France. Hermit near Bourges, France where the village of Saint-Doulchard was named for him."
 searchAliases:
   - "Doulchard"

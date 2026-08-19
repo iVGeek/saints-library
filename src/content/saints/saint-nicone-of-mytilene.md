@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicone of Mytilene"
 honorific: Saint
-title: "Saint Nicone of Mytilene"
 summary: "Martyred with several fellow Christians in the persecutions of Diocletian."
 deathYear: 300
 born: "Armenia"

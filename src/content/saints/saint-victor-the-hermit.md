@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor the Hermit"
 honorific: Saint
-title: "Saint Victor the Hermit"
 summary: "Born to the nobility and raised in a pious, well-educated family. Priest. Hermit at Arcis-sur-Aube in the Champagne region of France. His life and wisdom caused many conversions. Saint Bernard of Clairvaux composed an Office and several hymns about him."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Victor-Hermit-and-Monk.jpg"
 searchAliases:

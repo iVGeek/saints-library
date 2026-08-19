@@ -1,7 +1,6 @@
 ---
 name: "Saint Callinicus of Paphlagonia"
 honorific: Saint
-title: "Saint Callinicus of Paphlagonia"
 summary: "Martyr."
 searchAliases:
   - "Callinicus of Gangrae"

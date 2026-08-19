@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucio of Alexandria"
 honorific: Saint
-title: "Saint Lucio of Alexandria"
 summary: "One of a number of Christians martyred in the persecutions of Valerian."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"

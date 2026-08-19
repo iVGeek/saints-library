@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sebastià Riera Coromina"
 honorific: Blessed
-title: "Blessed Sebastià Riera Coromina"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

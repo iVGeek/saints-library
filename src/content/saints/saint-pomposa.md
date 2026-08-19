@@ -1,7 +1,6 @@
 ---
 name: "Saint Pomposa of Cordoba"
 honorific: Saint
-title: "Saint Pomposa of Cordoba"
 summary: "Nun at Peñamelaria, Spain during the period of Moorish occupation of Spain. Martyred for her faith by order of the Emir of Córdoba, Spain."
 deathYear: 853
 died: "beheaded in 853 in Córdoba, Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fermín Gellida Cornelles"
 honorific: Blessed
-title: "Blessed Fermín Gellida Cornelles"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alejandro Juan"

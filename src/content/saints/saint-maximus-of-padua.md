@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Padua"
 honorific: Saint
-title: "Saint Maximus of Padua"
 summary: "Second century Bishop of Padua, Italy. Known as a miracle worker."
 region: "Italy"
 feastDay:

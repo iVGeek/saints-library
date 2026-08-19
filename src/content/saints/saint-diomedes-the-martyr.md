@@ -1,7 +1,6 @@
 ---
 name: "Saint Diomedes the Martyr"
 honorific: Saint
-title: "Saint Diomedes the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter of Luxembourg"
 honorific: Blessed
-title: "Blessed Peter of Luxembourg"
 summary: "Son of Guy of Luxembourg, count of Ligny, Belgium. Orphaned at age four. Raised in Paris, France. Canon at Notre Dame, Chartres, and Cambrai. Arch-deacon of Dreux, France. Held for a while in his early teens by the English as hostage for the return of his brother. Bishop of Metz,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Luxembourg.jpg"
 searchAliases:

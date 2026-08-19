@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Antoine Seconds"
 honorific: Blessed
-title: "Blessed Jean-Antoine Seconds"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1734
 deathYear: 1792

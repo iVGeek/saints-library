@@ -1,7 +1,6 @@
 ---
 name: "Blessed Valburga of Neuenheerse"
 honorific: Blessed
-title: "Blessed Valburga of Neuenheerse"
 summary: "Nun. First abbess of the monastery in Neuenheerse, Germany in 868. The house was established by her brother, Bishop Luithard of Paderborn, to promote Christianity among the pagan Saxons, and the sisters were very active in the community, and not required to take vows."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Valburga-of-Neuenheerse.jpg"
 searchAliases:

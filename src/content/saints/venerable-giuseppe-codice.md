@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giuseppe Codicè"
 honorific: Venerable
-title: "Venerable Giuseppe Codicè"
 summary: "Priest in the archdiocese of Bologna, Italy. Founded the Visitation Sisters of the Immaculata."
 birthYear: 1838
 deathYear: 1915

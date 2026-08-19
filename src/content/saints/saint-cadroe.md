@@ -1,7 +1,6 @@
 ---
 name: "Saint Cadroe"
 honorific: Saint
-title: "Saint Cadroe"
 summary: "Prince. Studied in Arnagh, Ireland, in London, and in Fleury, France. Benedictine monk. Abbot of Waulsort monastery in Belgium. Abbot of Saint Clement's monastery, Metz, France."
 searchAliases:
   - "Cathróe, Cadroe, Cadroë, Catroe, Cadroes, Cadroel, Codroel, Kaddroë"

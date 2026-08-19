@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Toral Cascales"
 honorific: Blessed
-title: "Blessed Antonio Toral Cascales"
 summary: "Young layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

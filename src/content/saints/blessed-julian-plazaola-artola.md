@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julián Plazaola Artola"
 honorific: Blessed
-title: "Blessed Julián Plazaola Artola"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

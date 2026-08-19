@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Hungary"
 honorific: Blessed
-title: "Blessed John of Hungary"
 summary: "First Franciscan to work in Hungary."
 deathYear: 1287
 born: "French"

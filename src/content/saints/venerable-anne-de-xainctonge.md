@@ -1,7 +1,6 @@
 ---
 name: "Venerable Anne de Xainctonge"
 honorific: Venerable
-title: "Venerable Anne de Xainctonge"
 summary: "Born to the wealthy French nobility, the eldest daughter of Jean de Xainctonge, a member of the Dijon Parliament, and of Lady Marguerite Collard. Watching boys being educated at a local Jesuit college led Anne to feel a call to found a similar uncloistered order of sisters dedica"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Xainctonge_Gem%C3%A4lde2.jpg/960px-Xainctonge_Gem%C3%A4lde2.jpg"
 birthYear: 1567

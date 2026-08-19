@@ -1,7 +1,6 @@
 ---
 name: "Saint Marice"
 honorific: Saint
-title: "Saint Marice"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marice.jpg"
 died: "relics transferred from Rome, Italy to Cannaiola di Trevi, Umbria, Italy by order of Pope Innocent X"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Sallustian of Sardinia"
 honorific: Saint
-title: "Saint Sallustian of Sardinia"
 summary: "Hermit in Sardinia."
 searchAliases:
   - "Sallustianus"

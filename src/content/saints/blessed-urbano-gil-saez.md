@@ -1,7 +1,6 @@
 ---
 name: "Blessed Urbano Gil Sáez"
 honorific: Blessed
-title: "Blessed Urbano Gil Sáez"
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

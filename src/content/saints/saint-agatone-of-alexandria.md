@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatone of Alexandria"
 honorific: Saint
-title: "Saint Agatone of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

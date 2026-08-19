@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphon of Africa"
 honorific: Saint
-title: "Saint Tryphon of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Trypho"

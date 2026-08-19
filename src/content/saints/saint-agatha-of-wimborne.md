@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatha of Wimborne"
 honorific: Saint
-title: "Saint Agatha of Wimborne"
 summary: "Benedictine nun at Wimborne, England. Spiritual student of Saint Lioba of Bischofsheim with whom she travelled to Germany to help in the missionary work of Saint Boniface."
 region: "Germany"
 feastDay:

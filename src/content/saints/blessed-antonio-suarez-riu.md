@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Suárez Riu"
 honorific: Blessed
-title: "Blessed Antonio Suárez Riu"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Honorato"

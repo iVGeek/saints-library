@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen Min Kuk-ka"
 honorific: Venerable
-title: "Saint Stephen Min Kuk-ka"
 summary: "Married layman in the apostolic vicariate of Korea. Widower. Catechist. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

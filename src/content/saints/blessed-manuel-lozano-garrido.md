@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Lozano Garrido"
 honorific: Blessed
-title: "Blessed Manuel Lozano Garrido"
 summary: "Joined Catholic Action at age 11. As a teenager during the Spanish Civil War he visited prisoners and would sneak them Holy Communion; he developed a strong devotion to the Eucharist and spent a Holy Thursday in prison alone with a Host hidden in some flowers. Lifelong layman, an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Lozano-Garrido.jpg"
 searchAliases:

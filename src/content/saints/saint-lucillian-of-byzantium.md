@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucillian of Byzantium"
 honorific: Saint
-title: "Saint Lucillian of Byzantium"
 summary: "Converted in his old age. Martyr."
 searchAliases:
   - "Lucillian of Bysants"

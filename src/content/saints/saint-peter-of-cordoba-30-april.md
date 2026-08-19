@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Córdoba"
 honorific: Saint
-title: "Saint Peter of Córdoba"
 summary: "Monk. Murdered by Saracens for publicly proclaiming his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-of-Córdoba.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jul Bonati"
 honorific: Blessed
-title: "Blessed Jul Bonati"
 summary: "He studied at the Jesuit Xaverian College in Shkodër, Albania. Ordained a priest on 8 April 1906. In 1912 he was assigned to work with the Catholic Albanians in Constantinople. Vicar General of the archdiocese of Durrës, Albania in 1927. Vicar of Vlora, Albania in 1937. Arrested"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jul-Bonati.jpg"
 birthYear: 1874

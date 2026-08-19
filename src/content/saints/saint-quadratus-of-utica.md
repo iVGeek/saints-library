@@ -1,7 +1,6 @@
 ---
 name: "Saint Quadratus of Utica"
 honorific: Saint
-title: "Saint Quadratus of Utica"
 summary: "Bishop of Utica in North Africa. Martyred with all his flock."
 died: "3rd century"
 region: "Italy"

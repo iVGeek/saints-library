@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo Juanes Santos"
 honorific: Blessed
-title: "Blessed Justo Juanes Santos"
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1912
 born: "31 May 1912 in San Cristóbal de la Cuesta, Salamanca, Spain"

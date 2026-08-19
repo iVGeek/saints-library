@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edmund Daniel"
 honorific: Blessed
-title: "Blessed Edmund Daniel"
 summary: "Jesuit seminarian. One of the Irish Martyrs. First Jesuit martyr in Europe."
 searchAliases:
   - "Edmund MacDaniell"

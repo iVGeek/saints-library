@@ -1,7 +1,6 @@
 ---
 name: "Saint Edith of Wilton"
 honorific: Saint
-title: "Saint Edith of Wilton"
 summary: "Daughter of King Edgar the Peaceable and Saint Wilfrida. Raised in the abbey in Wilton, England, which she never left. Educated at the royal court, learning to read, write, illuminate manuscripts, sew and embroider. Benedictine nun from age 15. Offered the position of abbess at t"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Edith_of_Wilton.jpg"
 searchAliases:

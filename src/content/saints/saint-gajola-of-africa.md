@@ -1,7 +1,6 @@
 ---
 name: "Saint Gajola of Africa"
 honorific: Saint
-title: "Saint Gajola of Africa"
 summary: "Martyr."
 searchAliases:
   - "Cajola"

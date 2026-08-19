@@ -1,7 +1,6 @@
 ---
 name: "Blessed Donal Breen"
 honorific: Blessed
-title: "Blessed Donal Breen"
 summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."
 deathYear: 1655
 born: "Irish"

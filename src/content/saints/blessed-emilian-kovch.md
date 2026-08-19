@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilian Kovch"
 honorific: Blessed
-title: "Blessed Emilian Kovch"
 summary: "Greek Catholic. Seminarian at Lviv, Ukraine and Rome, Italy; graduated from the College of Sergius and Bachus in Rome. Married, and father of six. Ordained in 1911. Worked throughout Galacia, and with Ukrainian immigrants to Yugoslavia. Chaplain to Ukrainian soldiers fighting the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Emilian-Kovch.jpg"
 searchAliases:

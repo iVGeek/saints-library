@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony of Nicopolis"
 honorific: Saint
-title: "Saint Anthony of Nicopolis"
 summary: "Tortured and martyred in the persecutions of emperor Licinius."
 deathYear: 329
 died: "c.329 in Nicopolis, Armenia (modern Koyulhisar, Turkey)"

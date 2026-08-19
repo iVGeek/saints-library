@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damianus Ichiyata"
 honorific: Blessed
-title: "Blessed Damianus Ichiyata"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Antoku Koba, Japan"

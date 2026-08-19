@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eduard Müller"
 honorific: Blessed
-title: "Blessed Eduard Müller"
 summary: "The youngest of seven children born to the family of a poor shoemaker, Eduard was a carpenter's apprentice when he began feeling a call to the priesthood. Ordained a priest of the diocese of Osnabrück, Germany in 1940, he worked as an assistant pastor with Blessed Johannes Prasse"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Eduard-Muller.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bessa of Africa"
 honorific: Saint
-title: "Saint Bessa of Africa"
 summary: "An early martyr of the Church. No other information has survived."
 feastDay:
   month: 12

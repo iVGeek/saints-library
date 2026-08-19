@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Valeria"
 honorific: Saint
-title: "Martyrs of Valeria"
 summary: "Two monks martyred by Lombards in Valeria, Italy who were never identified. After the monks were dead, their killers could still hear them singing psalms."
 died: "hanged on a tree in Valeria, Italy in the 5th century"
 deathPlace: "Italythe 5th century"

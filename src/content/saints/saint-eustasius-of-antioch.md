@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustasius of Antioch"
 honorific: Saint
-title: "Saint Eustasius of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria, date unknown"
 deathPlace: "Syria, date unknown"

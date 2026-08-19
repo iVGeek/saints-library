@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolau Dinis"
 honorific: Blessed
-title: "Blessed Nicolau Dinis"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1553
 deathYear: 1570

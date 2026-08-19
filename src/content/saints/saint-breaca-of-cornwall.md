@@ -1,7 +1,6 @@
 ---
 name: "Saint Breaca of Cornwall"
 honorific: Saint
-title: "Saint Breaca of Cornwall"
 summary: "Spiritual student of Saint Brigid of Ireland. Missionary to Cornwall, England c.460. Worked with Saint Crewanna and Saint Elwin."
 searchAliases:
   - "Branca"

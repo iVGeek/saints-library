@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conrad of Offida"
 honorific: Blessed
-title: "Blessed Conrad of Offida"
 summary: "Conrad joined the Franciscans at age 14. He became a noted scholar, but gave up his studies to be a convent cook. However, his superiors knew of his speaking skills and ordered him out of the kitchen and into the pulpit, leading to an influential vocation as a preacher; he died w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Conrad-of-Offida.jpg"
 birthYear: 1241

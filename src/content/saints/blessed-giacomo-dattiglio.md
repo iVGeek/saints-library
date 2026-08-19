@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo d'Attiglio"
 honorific: Blessed
-title: "Blessed Giacomo d'Attiglio"
 summary: "Spiritual student of Saint Sylvester Gozzolini, and a lay brother in the Benedictine Sylvestrines near Fabriano, Italy. Known for his mystical visions."
 died: "13th century in the monastery of Montefano, Italy"
 deathPlace: "Italy"

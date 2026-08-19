@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus of Metz"
 honorific: Saint
-title: "Saint Rufus of Metz"
 summary: "4th century bishop of Metz, France, serving for 29 years."
 searchAliases:
   - "Rufo"

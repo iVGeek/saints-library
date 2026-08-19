@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Greenwood"
 honorific: Blessed
-title: "Blessed William Greenwood"
 summary: "A lay brother in the Carthusian London Charterhouse. Arrested for opposing the policies of King Henry VIII, and remaining loyal to Rome. Martyred with six companions."
 deathYear: 1537
 born: "English"

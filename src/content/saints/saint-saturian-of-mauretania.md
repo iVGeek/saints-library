@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturian of Mauretania"
 honorific: Saint
-title: "Saint Saturian of Mauretania"
 summary: "Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric."
 deathYear: 458
 died: "dragged to death by horses in 458"

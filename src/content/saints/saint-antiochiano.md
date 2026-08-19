@@ -1,7 +1,6 @@
 ---
 name: "Saint Antiochiano"
 honorific: Saint
-title: "Saint Antiochiano"
 summary: "Martyr."
 died: "on the Adriatic coast of modern Croatia"
 region: "Italy"

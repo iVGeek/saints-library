@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathodorus the Martyr"
 honorific: Saint
-title: "Saint Agathodorus the Martyr"
 summary: "Bishop who worked for the conversion of people in the Chersonese region of Greece. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Agathodorus-the-Martyr.jpg"
 searchAliases:

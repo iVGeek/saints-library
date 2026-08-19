@@ -1,7 +1,6 @@
 ---
 name: "Saint Petronius of Nicomedia"
 honorific: Saint
-title: "Saint Petronius of Nicomedia"
 summary: "Martyr."
 died: "in Nicomedia, Bithynia, Asia Minor (modern Izmet, Turkey)"
 deathPlace: "Bithynia, Asia Minor (modern Izmet, Turkey)"

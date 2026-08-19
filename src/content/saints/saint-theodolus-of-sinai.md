@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodolus of Sinai"
 honorific: Saint
-title: "Saint Theodolus of Sinai"
 summary: "Martyred with 37 companions in one of a series of massacres the early 4th century by pagan Arabs in the Red Sea area."
 searchAliases:
   - "Theodulus"

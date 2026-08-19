@@ -1,7 +1,6 @@
 ---
 name: "Blessed Celestino Ruiz Alegre"
 honorific: Blessed
-title: "Blessed Celestino Ruiz Alegre"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Aquilino Javier"

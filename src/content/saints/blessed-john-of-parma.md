@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Parma"
 honorific: Blessed
-title: "Blessed John of Parma"
 summary: "Franciscan. Priest. Taught theology at Bologna and Naples. Seventh minister general of the Franciscans from 1247-1257. Visited Franciscan provinces of different countries, including England. Papal legate to Constantinople. Retired to Greccio, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Parma.jpg"
 searchAliases:

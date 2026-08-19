@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonius Ono"
 honorific: Blessed
-title: "Blessed Antonius Ono"
 summary: "Child in the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1619

@@ -1,7 +1,6 @@
 ---
 name: "Saint Meneus"
 honorific: Saint
-title: "Saint Meneus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Hymenseus"

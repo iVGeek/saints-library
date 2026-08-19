@@ -1,7 +1,6 @@
 ---
 name: "Saint Erasmus of Antioch"
 honorific: Saint
-title: "Saint Erasmus of Antioch"
 summary: "Priest. Bishop in Syria. During a period of persecution of Christians, he fled to Mount Linanus and lived as a hermit for 17 years. Martyred in the persecutions of Licinius."
 searchAliases:
   - "Elme"

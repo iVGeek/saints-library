@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conan of Margam"
 honorific: Blessed
-title: "Blessed Conan of Margam"
 summary: "Cistercian monk. Third abbot of the Margam monastery in Wales in 1156, he served there until his death, 37 years later. Contemporaries referred to Conan as “a scholar and wise abbot”, and wrote that the monastery was more famous for its charity than any other in Wales."
 searchAliases:
   - "Conanus"

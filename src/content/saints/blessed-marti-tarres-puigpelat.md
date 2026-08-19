@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martí Tarrés Puigpelat"
 honorific: Blessed
-title: "Blessed Martí Tarrés Puigpelat"
 summary: "Joined the Franciscan Capuchins on 21 November 1886 in Arenys de Mar, Spain, and made his solemn profession on 25 November 1900. Ordained priest on 24 June 1901. Extremely popular preacher. Superior of monasteries in Igualada and Arenys de Mar, Spain. Capuchin visitator of Centra"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Martí-Tarrés-Puigpelat.jpg"
 birthYear: 1877

@@ -1,7 +1,6 @@
 ---
 name: "Saint Pedro de Jesús Maldonado-Lucero"
 honorific: Venerable
-title: "Saint Pedro de Jesús Maldonado-Lucero"
 summary: "Parish priest in Santa Isabel, archdiocese of Chihuáhua, Mexico. Beaten and martyred in the anti-Catholic persecutions of the Mexican Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-Jesus-Maldonado-Lucero.jpg"
 birthYear: 1892

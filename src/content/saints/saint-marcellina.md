@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellina"
 honorific: Saint
-title: "Saint Marcellina"
 summary: "Daughter of the Roman imperial prefect of Gaul. Elder sister of Saint Ambrose of Milan and Saint Satyrus. She moved to Rome, Italy when very young, and was raised by her older brothers. A consecrated virgin (like a modern nun), receiving the veil from Pope Liberius on Christmas D"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Sainte_Marcellina.jpg"
 birthYear: 330

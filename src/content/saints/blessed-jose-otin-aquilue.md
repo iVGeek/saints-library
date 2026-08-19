@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Otín Aquilué"
 honorific: Blessed
-title: "Blessed José Otín Aquilué"
 summary: "Educated by the Salesians, when José began to feel a call to religious life he joined the Society in Campello, Spain. Ordained a priest in 1928. A popular pastor and teacher. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Otin-Aquilue.jpg"
 birthYear: 1901

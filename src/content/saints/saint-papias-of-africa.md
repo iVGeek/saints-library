@@ -1,7 +1,6 @@
 ---
 name: "Saint Papias of Africa"
 honorific: Saint
-title: "Saint Papias of Africa"
 summary: "Martyr."
 died: "unknown location in Afria, date unknown"
 deathPlace: "date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcel Callo"
 honorific: Blessed
-title: "Blessed Marcel Callo"
 summary: "Second of nine children. Lifelong layman in the diocese of Rennes, France. Joined the Boy Scouts at age 10, and considered himself a Scout the rest of his life. Member of the Young Christian Workers (Jocists). Following the Nazi invasion of France, Marcel and some friends would g"
 image: "http://catholicsaints.info/wp-content/uploads/Marcel-Callo.jpg"
 searchAliases:

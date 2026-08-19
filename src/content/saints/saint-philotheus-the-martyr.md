@@ -1,7 +1,6 @@
 ---
 name: "Saint Philotheus the Martyr"
 honorific: Saint
-title: "Saint Philotheus the Martyr"
 summary: "Martyred in the persecutions of Maximian."
 died: "in the arena at Caesarea Maritima, Palestine"
 deathPlace: "Palestine"

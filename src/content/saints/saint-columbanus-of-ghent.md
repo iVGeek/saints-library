@@ -1,7 +1,6 @@
 ---
 name: "Saint Columbanus of Ghent"
 honorific: Saint
-title: "Saint Columbanus of Ghent"
 summary: "Abbot of an Irish community. Following a series of Viking raids, he led his community to safer fields in Belgium. On 2 February 957 Columbanus became a hermit in the cemetery near the church of Saint Bavo, Ghent. He developed a wide reputation for holiness and attracted new follo"
 deathYear: 959
 born: "Ireland"

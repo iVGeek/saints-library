@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odile Baumgarten"
 honorific: Blessed
-title: "Blessed Odile Baumgarten"
 summary: "Daughter of Charity of Saint Vincent de Paul nun of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Odile-Baumgarten.jpg"
 birthYear: 1750

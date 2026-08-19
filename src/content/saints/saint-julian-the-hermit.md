@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian the Hermit"
 honorific: Saint
-title: "Saint Julian the Hermit"
 summary: "Fourth-century hermit with a cell near Edessa, Mesopotamia. Hermit on Mount Sinai."
 feastDay:
   month: 10

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria Crescentia Höss"
 honorific: Venerable
-title: "Saint Maria Crescentia Höss"
 summary: "Seventh of the eight children of Matthias H&ouml;ss and Lucia Hoermann. Franciscan tertiary nun in 1703, admitted to the convent at Kaufbeuren, Germany at the request of the town's Protestant mayor. Mistreated by her new sisters for her lack of a dowry, her holiness overcame thei"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Crescentiah%C3%B6ss.jpg"
 searchAliases:

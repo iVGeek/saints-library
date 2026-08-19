@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispin of Ravenna"
 honorific: Saint
-title: "Saint Crispin of Ravenna"
 summary: "Martyr."
 died: "Ravenna, Italy, date unknown"
 deathPlace: "Italy, date unknown"

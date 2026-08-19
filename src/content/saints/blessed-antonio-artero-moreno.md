@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Artero Moreno"
 honorific: Blessed
-title: "Blessed Antonio Artero Moreno"
 summary: "Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

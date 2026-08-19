@@ -1,7 +1,6 @@
 ---
 name: "Saint Cairpre of Maghbile"
 honorific: Saint
-title: "Saint Cairpre of Maghbile"
 summary: "Early Irish bishop."
 region: "Ireland"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christian of Perugia"
 honorific: Blessed
-title: "Blessed Christian of Perugia"
 summary: "One of the first spiritual students of Saint Dominic de Guzman. Helped found the friary at Perugia, Italy."
 region: "Italy"
 feastDay:

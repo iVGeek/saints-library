@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juli Junyer Padern"
 honorific: Blessed
-title: "Blessed Juli Junyer Padern"
 summary: "Salesian, making his profession in 1912. Ordained in 1921. Taught philosophy, literature and Gregory chant in Girona, Spain, and served as spiritual director to other Salesians. Arrested by anti-Catholic forces in 1938, but was released. Helped some other Salesians escape across"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juli-Junyer-Padern1.jpg"
 searchAliases:

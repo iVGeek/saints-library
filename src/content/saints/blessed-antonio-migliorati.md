@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Migliorati"
 honorific: Blessed
-title: "Blessed Antonio Migliorati"
 summary: "Son of Simpliciano Migliorati, a farmer whose family had little wealth but great faith. Inspired by the life and work of Saint Nicholas of Tolentino, Antonio joined the Augustinians. Priest. Sacristan of the Augustinian church in Tolentino, Italy, the church that housed the tomb"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-Migliorati.jpg"
 searchAliases:

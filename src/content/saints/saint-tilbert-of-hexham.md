@@ -1,7 +1,6 @@
 ---
 name: "Saint Tilbert of Hexham"
 honorific: Saint
-title: "Saint Tilbert of Hexham"
 summary: "Bishop of Hexham, England from 781 to 789."
 searchAliases:
   - "Gilbert of Hexham"

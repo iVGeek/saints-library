@@ -1,7 +1,6 @@
 ---
 name: "Saint Fiolanus of Lucca"
 honorific: Saint
-title: "Saint Fiolanus of Lucca"
 summary: "Bishop. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"

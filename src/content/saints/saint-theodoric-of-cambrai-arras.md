@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodoric of Cambrai-Arras"
 honorific: Saint
-title: "Saint Theodoric of Cambrai-Arras"
 summary: "Bishop of Cambrai-Arras, France from c.830 to 863."
 deathYear: 863
 died: "863"

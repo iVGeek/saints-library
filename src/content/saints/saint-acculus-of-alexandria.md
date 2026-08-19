@@ -1,7 +1,6 @@
 ---
 name: "Saint Acculus of Alexandria"
 honorific: Saint
-title: "Saint Acculus of Alexandria"
 summary: "Martyr."
 region: "England"
 feastDay:

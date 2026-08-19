@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Jerusalem"
 honorific: Saint
-title: "Saint Alexander of Jerusalem"
 summary: "Studied in Alexandria, Egypt. Fellow student with Origen. Bishop of Cappadocia. Imprisoned from 204 to 211 for his faith during the persecutions of Severus. Pilgrim to Jerusalem upon his release. Coadjutor bishop of Jerusalem with Saint Narcissus in 212. Censured for encouraging"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Alexander_of_Jerusalem.jpg"
 searchAliases:

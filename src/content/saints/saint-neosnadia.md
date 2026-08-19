@@ -1,7 +1,6 @@
 ---
 name: "Saint Neosnadia"
 honorific: Saint
-title: "Saint Neosnadia"
 summary: "Fifth-century woman. Several ancient chapels and churches in the area of Poitiers, France are dedicated to her, and some art-work associates her with sheep, wool and spinning, but no certain information about her has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Neosnadia.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed María de la Salud Baldoví Trull"
 honorific: Blessed
-title: "Blessed María de la Salud Baldoví Trull"
 summary: "The eldest of five children born to Juan Bautista Baldoví and Joaquina Trull. She joined the Cistercian nuns at the Gratia Dei Monastery in La Zaidía, Valencia, Spain in 1892, making her profession in 1893. She served as abbess of the house from 1917 to 1921. Feeling a call to a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-de-la-Salud-Baldovi-Trull.jpg"
 searchAliases:

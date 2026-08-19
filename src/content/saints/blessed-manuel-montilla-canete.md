@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Montilla Cañete"
 honorific: Blessed
-title: "Blessed Manuel Montilla Cañete"
 summary: "Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1919
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Manchán of Lemanaghan"
 honorific: Saint
-title: "Saint Manchán of Lemanaghan"
 summary: "His mother was Mella, his father Sillán, son of Conall, descendant of Rudraige Mór of Ulster. Monk. Spiritual student of Saint Ciarán at Clonmacnoise. Founded a monastery to the west of Lemanaghan, Ireland, c.645 on land obtained by Saint Ciarán from the king of Connacht. The mon"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Manchán-of-Lemanaghan.jpg"
 searchAliases:

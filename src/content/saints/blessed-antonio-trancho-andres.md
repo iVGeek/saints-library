@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Trancho Andrés"
 honorific: Blessed
-title: "Blessed Antonio Trancho Andrés"
 summary: "Antonio joined the Dominicans in Almagro, Spain on 23 September 1917. He made his profession in September 1918, continued his studies, and was eventually ordained a priest. Beginning in 1926, he taught apologetics, moral theology, and served as librarian at the Almagro convent. H"
 birthYear: 1900
 deathYear: 1936

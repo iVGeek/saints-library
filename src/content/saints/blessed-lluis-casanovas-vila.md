@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluis Casanovas Vila"
 honorific: Blessed
-title: "Blessed Lluis Casanovas Vila"
 summary: "Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lluis-Casanovas-Vila.jpg"
 searchAliases:

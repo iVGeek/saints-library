@@ -1,7 +1,6 @@
 ---
 name: "Saint Hervé"
 honorific: Saint
-title: "Saint Hervé"
 summary: "Son of the bard Hyvarnion, Herve was born blind. His father died when Herve was an infant, his mother, Rivanone, became an anchoress, and the boy was entrusted to the care of his uncles and a renowned holy man with whom he stayed until his teenage years. He lived for a while as a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Guern_%2856%29_Basilique_Notre-Dame-de-Quelven_Statue_08.JPG/960px-Guern_%2856%29_Basilique_Notre-Dame-de-Quelven_Statue_08.JPG"
 searchAliases:

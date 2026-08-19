@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gilbert of Neufontaines"
 honorific: Blessed
-title: "Blessed Gilbert of Neufontaines"
 summary: "Born to the nobility of Aquitaine. Married to Petronilla, father of Pontia. Fought in the Crusades with King Louis VII from 1146 to 1149. When he returned home he convinced his wife and family to let him follow a call to religious life. Hermit. Premonstratensian monk. Founder and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gilbert-of-Neufontaines.jpg"
 searchAliases:

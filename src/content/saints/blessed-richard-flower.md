@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Flower"
 honorific: Blessed
-title: "Blessed Richard Flower"
 summary: "Born to the Welsh nobility. Layman in the apostolic vicariate of England. Imprisoned and executed in the persecutions of Queen Elizabeth I for the crime of helping priests; he had given some wine to Father William Horner."
 searchAliases:
   - "Richard Floyd"

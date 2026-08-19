@@ -1,7 +1,6 @@
 ---
 name: "Saint Promo of Ashkelon"
 honorific: Saint
-title: "Saint Promo of Ashkelon"
 deathYear: 308
 died: "beheaded at the gates of Ashkelon c.308"
 region: "Italy"

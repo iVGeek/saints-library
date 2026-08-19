@@ -1,7 +1,6 @@
 ---
 name: "Saint Polydore Plasden"
 honorific: Venerable
-title: "Saint Polydore Plasden"
 summary: "Son of a horn maker. Studied for the priesthood at Rheims, France and the English College in Rome, Italy. Ordained on 7 December 1586, he return to England to minister to covert Catholics during the persecutions of Queen Elizabeth I. Arrested on 2 November 1591 at the home of Sai"
 searchAliases:
   - "Oliver Palmer"

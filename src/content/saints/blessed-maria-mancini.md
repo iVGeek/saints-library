@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Mancini"
 honorific: Blessed
-title: "Blessed Maria Mancini"
 summary: "By age 25, Maria had been married twice, to Baccio Mancini and them Guillermo Spezzalaste, widowed twice, and saw all seven of her children die in childhood. She became a spiritual student Saint Catherine of Siena and took the veil of the Dominican Third Order at the Holy Cross m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Mancini.jpg"
 searchAliases:

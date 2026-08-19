@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Gaza"
 honorific: Saint
-title: "Saint Theodore of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Thorlac Thorhallsson"
 honorific: Saint
-title: "Saint Thorlac Thorhallsson"
 summary: "Born to the Icelandic nobility. Deacon by age 15, priest by 18. Studied in Paris, France and Lincoln, England, and visited London, England before returning to Iceland in 1161. Refused an arranged marriage to a wealthy widow. Founded an Augustinian abbey on his farmland, and serve"
 image: "http://catholicsaints.info/wp-content/uploads/img-Thorlac.jpg"
 searchAliases:

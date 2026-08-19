@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Massó Llagostera"
 honorific: Blessed
-title: "Blessed Pere Massó Llagostera"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Edmond Ángel"

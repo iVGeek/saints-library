@@ -1,7 +1,6 @@
 ---
 name: "Saint Ceolfrid"
 honorific: Saint
-title: "Saint Ceolfrid"
 summary: "Saxon Northumbrian noble. Benedictine monk at Gilling, North Yorkshire, then at Ripon, England where he served as cook. Ordained at age 27 at Ripon. He was well-educated, but had trouble with practical matters of administration. Prior at Wearmouth, but was too strict, and was rem"
 searchAliases:
   - "Ceolfridus"

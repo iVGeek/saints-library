@@ -1,7 +1,6 @@
 ---
 name: "Saint Catus of Numidia"
 honorific: Saint
-title: "Saint Catus of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

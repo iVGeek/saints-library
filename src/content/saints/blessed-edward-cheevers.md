@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Cheevers"
 honorific: Blessed
-title: "Blessed Edward Cheevers"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs."
 searchAliases:
   - "Éadbhard Cheevers"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedicta of Rome"
 honorific: Saint
-title: "Saint Benedicta of Rome"
 summary: "Nun in 6th century Rome, Italy. Friend of Saint Galla who had founded their monastery. She received a vision of Saint Peter the Apostle warning her of her death."
 searchAliases:
   - "Benedikta"

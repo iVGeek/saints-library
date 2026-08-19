@@ -1,7 +1,6 @@
 ---
 name: "Saint Ludger of Utrecht"
 honorific: Saint
-title: "Saint Ludger of Utrecht"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ludger-of-Utrecht1.jpg"
 searchAliases:
   - "Apostle of Saxony"

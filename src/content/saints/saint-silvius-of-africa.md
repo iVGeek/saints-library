@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvius of Africa"
 honorific: Saint
-title: "Saint Silvius of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Silvus"

@@ -2,7 +2,6 @@
 name: "Saint Burchard of Meissen"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mitteilungen_des_Vereins_f%C3%BCr_Geschichte_der_Stadt_Meissen_%28IA_mitteilungendesv02unse%29.pdf/page1-500px-Mitteilungen_des_Vereins_f%C3%BCr_Geschichte_der_Stadt_Meissen_%28IA_mitteilungendesv02unse%29.pdf.jpg"
 honorific: Saint
-title: "Saint Burchard of Meissen"
 summary: "Benedictine monk at the monastery of Saint Emmeram in Regensburg, Bavaria, Germany. First bishop of Meissen, Germany in 968; he only served about a year. Established the Cathedral Chapter in Meissen."
 searchAliases:
   - "Burkhard"

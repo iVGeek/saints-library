@@ -1,7 +1,6 @@
 ---
 name: "Saint Altman of Passau"
 honorific: Saint
-title: "Saint Altman of Passau"
 summary: "Studied in Paris, France. Priest. Head of the cathedral school at Paderborn, Germany. Chaplain to Emperor Henry III, and friend of Empress Agnes. While on a pilgrimage to the Holy Lands in 1064, he and 7,000 other travellers were captured by Saracens; only half of the group survi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Altmann-of-Passau.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abyce"
 honorific: Saint
-title: "Saint Abyce"
 summary: "Nun at an unknown monastery in England where she served for a while as its prioress."
 searchAliases:
   - "Abycia"

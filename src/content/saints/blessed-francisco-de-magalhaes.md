@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco de Magalhães"
 honorific: Blessed
-title: "Blessed Francisco de Magalhães"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1549
 deathYear: 1570

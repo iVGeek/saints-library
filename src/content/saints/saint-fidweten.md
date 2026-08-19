@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidweten"
 honorific: Saint
-title: "Saint Fidweten"
 summary: "Benedictine monk at Saint Saviour Abbey in Redon, Brittany (in modern France). Spiritual student of Saint Convoyon of Redon. Priest."
 searchAliases:
   - "Fidivitanus"

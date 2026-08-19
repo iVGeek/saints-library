@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of the Baths"
 honorific: Saint
-title: "Martyrs of the Baths"
 summary: "A group of Christians enslaved by Diocletian to build the gigantic baths in impoerial Rome, Italy. The end of their labours coincided with the beginning of the great persecutions of Diocletian, and they were all executed. Ancient records indicated there were 10,204 of them; Zeno"
 deathYear: 304
 died: "c.304"

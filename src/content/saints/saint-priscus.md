@@ -1,7 +1,6 @@
 ---
 name: "Saint Priscus of Tomi"
 honorific: Saint
-title: "Saint Priscus of Tomi"
 summary: "Martyr. No other information has survived."
 died: "Tomi (modern Constanta, Romania)"
 deathPlace: "Romania)"

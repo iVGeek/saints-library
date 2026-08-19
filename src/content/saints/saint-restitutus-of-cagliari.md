@@ -1,7 +1,6 @@
 ---
 name: "Saint Restitutus of Cagliari"
 honorific: Saint
-title: "Saint Restitutus of Cagliari"
 summary: "Early bishop of Cagliari, Sardinia, Italy. Martyr."
 searchAliases:
   - "Restitutus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuela de Jesús Arias Espinosa"
 honorific: Blessed
-title: "Blessed Manuela de Jesús Arias Espinosa"
 summary: "Fifth of eight children in her family. Nun, entering the monastery of the Hail Mary in Los Angeles, California in 1929, making her perpetual vows on 14 December 1933 and living a cloistered life. Founder of the Congregations of the Poor Clare Missionary Sisters of the Blessed Sac"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Maria_In%C3%A9s_Teresa_Arias_Espinosa.jpg"
 searchAliases:

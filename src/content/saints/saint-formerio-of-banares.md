@@ -1,7 +1,6 @@
 ---
 name: "Saint Formerio of Bañares"
 honorific: Saint
-title: "Saint Formerio of Bañares"
 searchAliases:
   - "Formerius"
 died: "relics enshrined in a 12th-century jewelled wooden cask in the church of the Holy Cross in Bañares, Spain"

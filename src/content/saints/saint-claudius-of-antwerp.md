@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudius of Antwerp"
 honorific: Saint
-title: "Saint Claudius of Antwerp"
 summary: "Martyr. We have no other information about his life."
 searchAliases:
   - "Claudio"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Flora Bracaval"
 honorific: Venerable
-title: "Venerable Flora Bracaval"
 summary: "Nun in the Angelic Sisters of Saint Paul. Superior general of the congregation from 1919 to 1932, she oversaw the expansion of the Sisters from Italy to Brazil and Belgium."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Flora-Bracaval-1.jpg"
 searchAliases:

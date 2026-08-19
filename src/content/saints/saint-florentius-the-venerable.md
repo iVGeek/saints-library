@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius the Venerable"
 honorific: Venerable
-title: "Saint Florentius the Venerable"
 summary: "Spiritual student of Saint Martin of Tours who ordained him as priest and sent him to evangelize in Poitou, France. Hermit at Mount Glonne in Anjou, France. His reputation for holiness spread and he attracted so many spiritual students that he built a monastery for them in Saumur"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Florentius-the-Venerable.jpg"
 searchAliases:

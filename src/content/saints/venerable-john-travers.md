@@ -1,7 +1,6 @@
 ---
 name: "Venerable John Travers"
 honorific: Venerable
-title: "Venerable John Travers"
 summary: "Oxford educated. Priest. Member of the Augustinians. Chancellor of Saint Patrick's Cathedral in Dublin, Ireland. Wrote On the Authority of the Roman Pontiff. Imprisoned and executed for denying the supremacy of King Henry VIII over the Church. The first Irish martyr in the persec"
 deathYear: 1537
 born: "Dublin, Ireland"

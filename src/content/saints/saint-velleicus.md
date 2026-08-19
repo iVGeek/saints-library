@@ -1,7 +1,6 @@
 ---
 name: "Saint Velleicus"
 honorific: Saint
-title: "Saint Velleicus"
 summary: "Missionary to Germany with Saint Swithbert. Abbot of the Benedictine monastery at Werth on the Rhine (modern Düsseldorf-Kaiserswerth, Germany) in the early 8th century."
 born: "British Isles"
 region: "Germany"

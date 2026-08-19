@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Brescia"
 honorific: Saint
-title: "Saint Maximus of Brescia"
 summary: "Martyr."
 deathYear: 125
 died: "125 in Brescia, Italy"

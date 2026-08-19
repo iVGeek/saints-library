@@ -1,7 +1,6 @@
 ---
 name: "Blessed Narcis Serra Rovira"
 honorific: Blessed
-title: "Blessed Narcis Serra Rovira"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ramon Eloi"

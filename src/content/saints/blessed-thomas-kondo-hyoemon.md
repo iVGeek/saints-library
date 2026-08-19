@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Kondo Hyoemon"
 honorific: Blessed
-title: "Blessed Thomas Kondo Hyoemon"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 birthYear: 1564
 deathYear: 1627

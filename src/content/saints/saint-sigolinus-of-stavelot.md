@@ -1,7 +1,6 @@
 ---
 name: "Saint Sigolinus of Stavelot"
 honorific: Saint
-title: "Saint Sigolinus of Stavelot"
 summary: "Monk. Abbot of Stavelot-Malmédy Abbey in Belgium."
 searchAliases:
   - "Sighelm"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Acharius of Tournai"
 honorific: Saint
-title: "Saint Acharius of Tournai"
 summary: "Monk at Luxeuil Abbey in Burgundy (in modern France) under the direction of Saint Eustace. Bishop of Noyon-Tournai in 621. Helped the missionary work of Saint Amandus of Maastricht. Worked to have Saint Omen named bishop of Th&eacute;rouanne."
 searchAliases:
   - "Acharius of Noyon"

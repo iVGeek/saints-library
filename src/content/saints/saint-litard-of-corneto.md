@@ -1,7 +1,6 @@
 ---
 name: "Saint Litard of Corneto"
 honorific: Saint
-title: "Saint Litard of Corneto"
 summary: "A 12th century pilgrim to holy places, Litard was on his way home from Rome, Italy when he died in Corneto (modern Tarquinia), Italy. The people there had already seen him as a holy man, they took him to their heart, devotion to him began almost immediately, and by February 1221"
 searchAliases:
   - "Litardo"

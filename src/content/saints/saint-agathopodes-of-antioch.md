@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathopodes of Antioch"
 honorific: Saint
-title: "Saint Agathopodes of Antioch"
 summary: "Deacon from Antioch, Syria. Travelled with Saint Ignatius to Rome, Italy, and after his martyrdom brought his relics back to Antioch and wrote about him."
 searchAliases:
   - "Agathopus"

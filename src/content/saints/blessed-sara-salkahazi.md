@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sára Salkaházi"
 honorific: Blessed
-title: "Blessed Sára Salkaházi"
 summary: "Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always join the boys in their games or tug of war”. She"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sara_Salkahazi.jpg"
 searchAliases:

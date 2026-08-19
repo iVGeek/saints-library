@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Yi Do-gi"
 honorific: Blessed
-title: "Blessed Paulus Yi Do-gi"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1743

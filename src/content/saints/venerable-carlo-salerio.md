@@ -1,7 +1,6 @@
 ---
 name: "Venerable Carlo Salerio"
 honorific: Venerable
-title: "Venerable Carlo Salerio"
 summary: "He began his studies in seminaries in the Italian cities of Milan and Monza, and while still a seminarian, he fought in the Five Days of Milan and the Italian War of Independence in 1848. Studied at the seminary in Seveso, Italy. Ordained a priest in 1850. Member of the Lombard S"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Carlo_salerio.jpg"
 birthYear: 1827

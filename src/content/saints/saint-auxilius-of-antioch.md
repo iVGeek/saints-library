@@ -1,7 +1,6 @@
 ---
 name: "Saint Auxilius of Antioch"
 honorific: Saint
-title: "Saint Auxilius of Antioch"
 summary: "Martyr."
 died: "at Antioch, Syria"
 deathPlace: "Syria"

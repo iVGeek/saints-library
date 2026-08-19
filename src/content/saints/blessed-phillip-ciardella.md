@@ -1,7 +1,6 @@
 ---
 name: "Blessed Phillip Ciardella"
 honorific: Blessed
-title: "Blessed Phillip Ciardella"
 summary: "Francsican friar."
 searchAliases:
   - "Phillip of Castelli"

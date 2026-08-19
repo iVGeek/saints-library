@@ -1,7 +1,6 @@
 ---
 name: "Saint Martial of Ostia"
 honorific: Saint
-title: "Saint Martial of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"

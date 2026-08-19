@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Mohedano Larriva"
 honorific: Blessed
-title: "Blessed Antonio Mohedano Larriva"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

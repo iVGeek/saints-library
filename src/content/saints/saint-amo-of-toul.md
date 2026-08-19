@@ -1,7 +1,6 @@
 ---
 name: "Saint Amo of Toul"
 honorific: Saint
-title: "Saint Amo of Toul"
 summary: "Fourth-century bishop of Toul, France."
 searchAliases:
   - "Amon"

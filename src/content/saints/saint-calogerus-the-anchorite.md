@@ -1,7 +1,6 @@
 ---
 name: "Saint Calogerus the Anchorite"
 honorific: Saint
-title: "Saint Calogerus the Anchorite"
 summary: "Fifth century evangelist on the island of Lipari, Italy. Lived his last 35 years as a hermit near Girgenti, Sicily. Noted exorcist."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Calojru_maiolica.jpg"
 searchAliases:

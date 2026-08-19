@@ -1,7 +1,6 @@
 ---
 name: "Saint Leontinus of Braga"
 honorific: Saint
-title: "Saint Leontinus of Braga"
 summary: "Early bishop of Braga, Portugal. Martyr."
 searchAliases:
   - "Leontius"

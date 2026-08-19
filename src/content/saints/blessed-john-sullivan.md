@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Sullivan"
 honorific: Blessed
-title: "Blessed John Sullivan"
 summary: "Son of the Lord Chancellor of Ireland, and raised in the Church of Ireland; his mother was Catholic. Successful barrister in Dublin, Ireland. When his father died in 1885, he inherited the family fortune, quit his career, travelled, and became known as the best dressed man in Dub"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-John-Sullivan.jpg"
 birthYear: 1861

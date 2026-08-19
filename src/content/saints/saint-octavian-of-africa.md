@@ -1,7 +1,6 @@
 ---
 name: "Saint Octavian of Africa"
 honorific: Saint
-title: "Saint Octavian of Africa"
 summary: "Martyr. No other information has survived."
 deathYear: 254
 died: "254 in Africa, exact location and date unknown"

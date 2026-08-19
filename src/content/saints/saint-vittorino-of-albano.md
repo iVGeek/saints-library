@@ -1,7 +1,6 @@
 ---
 name: "Saint Vittorino of Albano"
 honorific: Saint
-title: "Saint Vittorino of Albano"
 summary: "Martyr. No other information has survived."
 died: "Albano, Italy"
 deathPlace: "Italy"

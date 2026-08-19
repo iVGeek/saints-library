@@ -1,7 +1,6 @@
 ---
 name: "Saint Censurius of Auxerre"
 honorific: Saint
-title: "Saint Censurius of Auxerre"
 summary: "Bishop of Auxerre, France from 448 until his death; he served 38 years."
 searchAliases:
   - "Censurio"

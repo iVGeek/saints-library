@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Rome"
 honorific: Saint
-title: "Saint Januarius of Rome"
 summary: "Three Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

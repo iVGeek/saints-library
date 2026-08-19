@@ -1,7 +1,6 @@
 ---
 name: "Saint Esuperantius of Saddi"
 honorific: Saint
-title: "Saint Esuperantius of Saddi"
 summary: "Martyred in the persecutions of Decius."
 died: "at Pieve de' Saddi, Pietralunga, Italy"
 deathPlace: "Pietralunga, Italy"

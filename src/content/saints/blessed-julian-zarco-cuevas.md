@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julián Zarco Cuevas"
 honorific: Blessed
-title: "Blessed Julián Zarco Cuevas"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Irenaeus of Sirmium"
 honorific: Saint
-title: "Saint Irenaeus of Sirmium"
 summary: "Bishop of Sirmium, Pannonia (modern Sremska Mitrovica, Serbia). Arrested and tortured in the persecutions of Diocletian, he refused to sacrifice to pagan gods. Ordered drowned for his faith, he objected that as a Christian he should be allowed to bravely face his tormentors and e"
 deathYear: 304
 died: "beheaded in 304 at Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)"

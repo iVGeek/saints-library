@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore the Sacristan"
 honorific: Saint
-title: "Saint Theodore the Sacristan"
 summary: "Sixth century sacristan for the Church of Saint Peter in Rome, Italy. Saint Gregory the Great wrote that Theodore often saw angels."
 region: "Italy"
 feastDay:

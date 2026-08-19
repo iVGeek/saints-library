@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo Brunforte of Falerone"
 honorific: Blessed
-title: "Blessed Giacomo Brunforte of Falerone"
 summary: "Franciscan friar and priest. Confessor of Blessed Giovanni della Verna."
 deathYear: 1308
 born: "13th century Ascoli Piceno, Italy"

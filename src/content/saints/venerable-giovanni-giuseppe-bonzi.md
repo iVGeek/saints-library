@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giovanni Giuseppe Bonzi"
 honorific: Venerable
-title: "Venerable Giovanni Giuseppe Bonzi"
 summary: "Licensed as a banker, as a young adult Giovanni worked at the Credito Italiano and at the Cassa di Risparmio banks in Genoa, Italy. Feeling a call to religious life, in 1918 Giovanni joined the Order of Friars Minor Capuchin. Priest. He studied at Roman University, and worked on"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Giuseppe-Bonzi.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Xavier Gorosterratzu y Jaunarena"
 honorific: Blessed
-title: "Blessed José Xavier Gorosterratzu y Jaunarena"
 summary: "The second of eight children born to the farm family of José María and Tomasa Gorosterratzu y Jaunarena; José was Baptized on the day he was born. From his family he learned farming, shepherding, and praying the rosary in the fields. Though he felt a call to the priesthood in his"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Xavier-Gorosterratzu-Jaunarena.jpg"
 birthYear: 1877

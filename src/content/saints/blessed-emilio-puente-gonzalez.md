@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilio Puente González"
 honorific: Blessed
-title: "Blessed Emilio Puente González"
 summary: "Raised in a pious family, Emilio was baptized at the age of one day, confirmed when he was 5, had an aunt who was a Piarist, three uncles and three cousins who were members of the Congregation of San Pedro ad Vincula. Educated by an uncle who was a diocesan priest. Emilio joined"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Emilio-Puente-González.jpg"
 searchAliases:

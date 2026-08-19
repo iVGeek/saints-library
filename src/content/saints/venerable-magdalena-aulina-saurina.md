@@ -1,7 +1,6 @@
 ---
 name: "Venerable Magdalena Aulina Saurina"
 honorific: Venerable
-title: "Venerable Magdalena Aulina Saurina"
 summary: "Healed of a heart condition at age 24 through the intercession of Saint Gemma Galgani. She founded the Secular Institute of Parish Workers (Señoritas Operarias Parroquiales). The Institute continues its work today in Spain, Italy, France, Puerto Rico, Paraguay, Equatorial Guinea"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Magdalena-Aulina-Saurina.jpg"
 birthYear: 1897

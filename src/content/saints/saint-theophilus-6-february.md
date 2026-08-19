@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus"
 honorific: Saint
-title: "Saint Theophilus"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

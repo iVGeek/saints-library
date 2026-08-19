@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Goizet"
 honorific: Blessed
-title: "Blessed Jean Goizet"
 summary: "Priest in the diocese of Poitiers, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792

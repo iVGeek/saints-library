@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicia of Thessalonica"
 honorific: Saint
-title: "Saint Felicia of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

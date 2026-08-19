@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Umbria"
 honorific: Saint
-title: "Saint Eutychius of Umbria"
 summary: "Martyr."
 searchAliases:
   - "Eutizio"

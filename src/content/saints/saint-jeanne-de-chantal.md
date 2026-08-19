@@ -1,7 +1,6 @@
 ---
 name: "Saint Jeanne de Chantal"
 honorific: Saint
-title: "Saint Jeanne de Chantal"
 summary: "Born to the nobility, the daughter of the president of the Parliament of Burgundy who raised her alone after the death of her mother when Jeanne was 18 months old. Married in 1592 at age twenty to Baron de Chantal. Mother of four. Widowed at 28 when the Baron was killed in a hunt"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jane-Frances-de-Chantal.jpg"
 searchAliases:

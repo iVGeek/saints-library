@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alojzije Viktor Stepinac"
 honorific: Blessed
-title: "Blessed Alojzije Viktor Stepinac"
 summary: "Raised in the large Catholic Croatian family of Josip and Barbara (nee Penic) Stepinac. Graduated high school on 28 June 1916. Soldier in the Austrian army in World War I, fighting at several points in Italy. Following the collapse of the front in September 1918, he was imprisone"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alojzije-Stepinac-1.jpg"
 searchAliases:

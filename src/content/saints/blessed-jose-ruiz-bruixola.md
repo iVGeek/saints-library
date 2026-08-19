@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ruiz Bruixola"
 honorific: Blessed
-title: "Blessed José Ruiz Bruixola"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ruiz-Bruixola.jpg"
 birthYear: 1857

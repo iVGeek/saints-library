@@ -1,7 +1,6 @@
 ---
 name: "Saint Nonnosus of Monte Soratte"
 honorific: Saint
-title: "Saint Nonnosus of Monte Soratte"
 summary: "Benedictine monk, then prior at the San Silvestre monastery on Monte Soratte north of Rome, Italy. Known to have suffered great abuse and harassment from his abbot, but was the only person who could calm the man down and reason with him. Nonnosus became abbot of Soratte himself c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nonnosus.jpg"
 searchAliases:

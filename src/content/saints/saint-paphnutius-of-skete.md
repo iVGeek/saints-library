@@ -1,7 +1,6 @@
 ---
 name: "Saint Paphnutius of Skete"
 honorific: Saint
-title: "Saint Paphnutius of Skete"
 summary: "Desert hermit in Egypt in the late 3rd and early 4th-century. Priest. Spiritual student of Saint Macarius the Great. The only times he would leave his hermit's cell was to attend Mass at a church 5 miles away on Saturday night and Sunday monring; he would carry back a bucket of w"
 searchAliases:
   - "Paphnutius of Alexandria"

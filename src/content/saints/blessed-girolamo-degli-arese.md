@@ -1,7 +1,6 @@
 ---
 name: "Blessed Girolamo degli Arese"
 honorific: Blessed
-title: "Blessed Girolamo degli Arese"
 summary: "Born to the Italian nobility, part of the family of the barons of Arese. Franciscan Friar Minor deacon. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-girolamo-degli-arese.jpg"
 searchAliases:

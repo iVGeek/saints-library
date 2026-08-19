@@ -1,7 +1,6 @@
 ---
 name: "Venerable Celeste Maria Ossoli"
 honorific: Venerable
-title: "Venerable Celeste Maria Ossoli"
 summary: "Member of the Congregation of the Sisters of the Poor - Palazzolo Institute. She died of the Ebola virus contracted by caring for victims of the hemorrhagic fever."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Celeste-Maria-Ossoli-1.jpg"
 searchAliases:

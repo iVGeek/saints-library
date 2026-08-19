@@ -1,7 +1,6 @@
 ---
 name: "Blessed Placidia of Verona"
 honorific: Blessed
-title: "Blessed Placidia of Verona"
 summary: "Nun, known for her piety and for her healing miracles."
 deathYear: 533
 born: "latter 5th century in Verona, Italy"

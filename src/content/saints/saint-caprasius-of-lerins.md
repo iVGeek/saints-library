@@ -1,7 +1,6 @@
 ---
 name: "Saint Caprasius of Lérins"
 honorific: Saint
-title: "Saint Caprasius of Lérins"
 summary: "Hermit in Provence and Lerins, France, and in Greece. Friend of Saint Honoratus of Arles and Saint Venantius. With Saint Honoratus, he founded a monastery at Lerins, and eventually served as its abbot."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Aulla-IMG_0481.JPG/960px-Aulla-IMG_0481.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Caldia of Amisus"
 honorific: Saint
-title: "Saint Caldia of Amisus"
 summary: "Christian woman martyred in the persecutions of Diocletian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Caldia-of-Amisus.jpg"
 searchAliases:

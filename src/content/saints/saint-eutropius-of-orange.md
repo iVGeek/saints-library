@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutropius of Orange"
 honorific: Saint
-title: "Saint Eutropius of Orange"
 summary: "Born to the nobility and spent a wild and wasted youth. Married. Widower. Deacon in Marseilles, France. Bishop of Orange, France during a period of rebuilding following Visigoth raids. Letters from contemporaries speak highly of his learning and piety."
 deathYear: 475
 born: "Marseilles, France"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Saturnino López Novoa"
 honorific: Venerable
-title: "Venerable Saturnino López Novoa"
 summary: "Priest in the archdiocese of Valencia, Spain. Co-founder of the Congregation of the Little Sisters of the Abandoned Elderly."
 birthYear: 1830
 deathYear: 1905

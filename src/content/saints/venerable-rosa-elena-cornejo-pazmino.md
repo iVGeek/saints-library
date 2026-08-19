@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rosa Elena Cornejo Pazmiño"
 honorific: Venerable
-title: "Venerable Rosa Elena Cornejo Pazmiño"
 summary: "Nun in the diocese of Quito, Ecuador, taking the name María Francisca of the Wounds. Founded the Congregation of the Franciscan Missionary Sisters of the Immaculata."
 searchAliases:
   - "Sister María Francisca of the Wounds"

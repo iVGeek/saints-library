@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leonardo Pérez Lários"
 honorific: Blessed
-title: "Blessed Leonardo Pérez Lários"
 summary: "The third of eleven children born to a ranching family. Leonardo felt a call to religious life, but when his father died, the young man got a job as a clerk in a clothing store in León, Mexico to help support his younger brothers; he gave as much as he could to nuns and seminaria"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Leonardo-Perez-Larios.jpg"
 birthYear: 1883

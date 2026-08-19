@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphon of Lampsacus"
 honorific: Saint
-title: "Saint Tryphon of Lampsacus"
 summary: "Raised in a Christian family, his father died when the boy was very young, he was raised by his mother Eukaria, and he worked as a goose-herd in his youth. Had a gift of healing both human and animals. Healed the demonic possession of the daughter of Emperor Gordian III; the demo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Tryphon.jpg"
 searchAliases:

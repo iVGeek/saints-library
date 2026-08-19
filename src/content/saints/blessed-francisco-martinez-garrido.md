@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Martínez Garrido"
 honorific: Blessed
-title: "Blessed Francisco Martínez Garrido"
 summary: "Priest of the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Martinez-Garrido.jpg"
 birthYear: 1866

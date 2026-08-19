@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrés Solá Molist"
 honorific: Blessed
-title: "Blessed Andrés Solá Molist"
 summary: "Born to a large and pious farm family. Entered the Claretians in 1914, making his perpetual vows in 1917. Ordained in 1922. Home missioner in Mexico. Martyred during the Mexican Revolution for being a priest who did not submit to government control."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andres-Sola-Molist.jpg"
 birthYear: 1895

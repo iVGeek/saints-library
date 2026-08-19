@@ -1,7 +1,6 @@
 ---
 name: "Saint Charbel"
 honorific: Saint
-title: "Saint Charbel"
 summary: "Martyred in the persecutions of Trajan."
 deathYear: 107
 died: "107"

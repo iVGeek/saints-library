@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eoin O'Mulkern"
 honorific: Blessed
-title: "Blessed Eoin O'Mulkern"
 summary: "Premonstratensian priest. One of the Irish Martyrs."
 searchAliases:
   - "John Kieran"

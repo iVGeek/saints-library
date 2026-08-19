@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of North Africa"
 honorific: Saint
-title: "Saint Peter of North Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

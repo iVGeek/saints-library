@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnus of Ancyra"
 honorific: Saint
-title: "Saint Magnus of Ancyra"
 summary: "One of a group of seventeen martyrs that died together."
 died: "at Ancyra, Galatia (in modern Turkey)"
 deathPlace: "Galatia (modern Turkey)"

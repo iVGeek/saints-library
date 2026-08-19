@@ -1,7 +1,6 @@
 ---
 name: "Saint Maccalin of Waulsort"
 honorific: Saint
-title: "Saint Maccalin of Waulsort"
 summary: "Friend of Saint Cadroe. During a pilgrimage to the shrine of Saint Fursey in Peronne, France, Maccalin became a Benedictine monk at Gorze. Abbot at Gorze. Abbot of Saint Michael's monastery at Thierache, France. Abbot of Waulsort Abbey near Dinant, Belgium."
 searchAliases:
   - "Macallan"

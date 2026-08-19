@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus the Theban"
 honorific: Saint
-title: "Saint Secundus the Theban"
 summary: "Soldier. Martyr. Member of the Martyrs of the Theban Legion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Secundus-the-Theban.jpg"
 deathYear: 287

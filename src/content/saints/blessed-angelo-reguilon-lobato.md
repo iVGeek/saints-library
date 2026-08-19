@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelo Reguilón Lobato"
 honorific: Blessed
-title: "Blessed Angelo Reguilón Lobato"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Angelo María"

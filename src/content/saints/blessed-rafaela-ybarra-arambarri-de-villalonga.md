@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafaela Ybarra Arambarri de Villalonga"
 honorific: Blessed
-title: "Blessed Rafaela Ybarra Arambarri de Villalonga"
 summary: "Born to a wealthy and pious family, the daughter of Gutiérrez de Cabiedes and Rosaria de Arambarri y Mancebo. Rafeala was a pious girl, made her first Communion at age 11, and was given to long meditations on the suffering of Christ. In 1861, at age 18, she married the wealthy an"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-rafaela-ybarra-arambarri-de-villalonga/blessed-rafaela-ybarra-arambarri-de-villalonga-01.jpg"
 birthYear: 1843

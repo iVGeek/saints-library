@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Gregory VII"
 honorific: Saint
-title: "Pope Saint Gregory VII"
 summary: "Educated in Rome, Italy. Benedictine monk. Chaplain to Pope Gregory VI. In charge of the Patrimony of Saint Peter. Reformer and excellent administrator. Chosen the 152nd pope, but he declined the crown. Chief counselor to Pope Victor II, Pope Stephen IX, Pope Benedict X, and Pope"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg"
 searchAliases:

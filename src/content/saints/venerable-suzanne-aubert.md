@@ -1,7 +1,6 @@
 ---
 name: "Venerable Suzanne Aubert"
 honorific: Venerable
-title: "Venerable Suzanne Aubert"
 summary: "Worked as a nurse on the battlefields of the Crimean War in the 1850s. Suzanne was drawn to religious life, but her family was strongly opposed, so in 1860 she fled from France to New Zealand to follow her vocation. Entered the Sisters of Mercy in Auckland, New Zealand, and began"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Suzanne_Aubert3.jpg"
 searchAliases:

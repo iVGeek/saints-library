@@ -1,7 +1,6 @@
 ---
 name: "Saint Thalus the Martyr"
 honorific: Saint
-title: "Saint Thalus the Martyr"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Tallo"

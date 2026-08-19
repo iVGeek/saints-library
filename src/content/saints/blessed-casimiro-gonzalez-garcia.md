@@ -1,7 +1,6 @@
 ---
 name: "Blessed Casimiro González García"
 honorific: Blessed
-title: "Blessed Casimiro González García"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Crisanto"

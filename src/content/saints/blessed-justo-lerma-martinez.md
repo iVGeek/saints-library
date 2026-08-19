@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo Lerma Martínez"
 honorific: Blessed
-title: "Blessed Justo Lerma Martínez"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Lerma-Martínez.jpg"
 searchAliases:

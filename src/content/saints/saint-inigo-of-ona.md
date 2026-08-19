@@ -1,7 +1,6 @@
 ---
 name: "Saint Iñigo of Oña"
 honorific: Saint
-title: "Saint Iñigo of Oña"
 summary: "Hermit. Monk at San Juan de Peña, Aragon (part of modern Spain), and later served as prior. Hermit in the Aragon mountains. Reforming abbot at the monastery at Oña, Spain in 1029 at the request of King Sancho the Great. Known as a peacemaker and miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Inigo-of-Ona.jpg"
 searchAliases:

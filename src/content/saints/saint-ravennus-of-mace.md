@@ -1,7 +1,6 @@
 ---
 name: "Saint Ravennus of Macé"
 honorific: Saint
-title: "Saint Ravennus of Macé"
 summary: "Fifth-century hermit in northern France. Martyr."
 born: "British Isles"
 died: "at Macé, France"

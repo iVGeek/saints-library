@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Morella Bruguera"
 honorific: Blessed
-title: "Blessed Jaume Morella Bruguera"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jaume Ramon"

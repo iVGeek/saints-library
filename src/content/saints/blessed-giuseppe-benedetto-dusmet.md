@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppe Benedetto Dusmet"
 honorific: Blessed
-title: "Blessed Giuseppe Benedetto Dusmet"
 summary: "Born to the Sicilian nobility, the son of Marquis Luigi Dusmet. Educated at the abbey of San Martino delle Scales when he was five years old. Benedictine monk, making his formal vows on 13 August 1840 at the abbey of Monte Cassino. Teacher of philosophy and theology in Benedictin"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Giuseppedusmet.JPG/960px-Giuseppedusmet.JPG"
 birthYear: 1818

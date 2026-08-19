@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simão Lopes"
 honorific: Blessed
-title: "Blessed Simão Lopes"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Ourém, Santarém, Portugal"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucunda of Reggio Aemilia"
 honorific: Saint
-title: "Saint Jucunda of Reggio Aemilia"
 summary: "Spiritual student of Saint Prosper of Reggio. Nun."
 deathYear: 466
 born: "Reggio Aemilia, Italy"

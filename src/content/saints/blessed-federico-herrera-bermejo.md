@@ -1,7 +1,6 @@
 ---
 name: "Blessed Federico Herrera Bermejo"
 honorific: Blessed
-title: "Blessed Federico Herrera Bermejo"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

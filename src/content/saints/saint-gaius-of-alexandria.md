@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius of Alexandria"
 honorific: Saint
-title: "Saint Gaius of Alexandria"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Caius"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Verona"
 honorific: Saint
-title: "Saint Alexander of Verona"
 summary: "Eighth century bishop of Verona, Italy."
 region: "Italy"
 feastDay:

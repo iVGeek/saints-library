@@ -1,7 +1,6 @@
 ---
 name: "Saint Macaria of Africa"
 honorific: Saint
-title: "Saint Macaria of Africa"
 summary: "African martyr whose name appears on ancient lists, but about whom nothing is known."
 searchAliases:
   - "Maccarius"

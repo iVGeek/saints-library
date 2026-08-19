@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Mascaró Colomina"
 honorific: Blessed
-title: "Blessed Antonio Mascaró Colomina"
 summary: "Professed cleric in the Sons of the Holy Family. In 1935-1936 he was in the military, serving during the week and studying in seminary on when off duty. At the beginning of the Spanish Civil War, the seminary closed and he was mustered out of the army; he moved to Barcelona, Spai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Mascaró-Colomina.jpg"
 birthYear: 1913

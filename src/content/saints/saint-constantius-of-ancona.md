@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantius of Ancona"
 honorific: Saint
-title: "Saint Constantius of Ancona"
 summary: "Sixth century sacristan of the church of Saint Stephen, Ancona, Italy."
 region: "Italy"
 feastDay:

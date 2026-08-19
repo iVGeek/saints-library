@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de Segalars"
 honorific: Blessed
-title: "Blessed Juan de Segalars"
 summary: "Joined the Mercedarians in Barcelona, Spain. Prior of his house. General procurator of the Mercedarians in 1439. Attended the Council of Basel in 1439-1440. He several times visited the Vatican for consultation with the pope. Travelled to Tunis in North Africa in 1447 to ransom C"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Segalars.jpg"
 deathYear: 1466

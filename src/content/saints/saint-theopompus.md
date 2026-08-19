@@ -1,7 +1,6 @@
 ---
 name: "Saint Theopompus"
 honorific: Saint
-title: "Saint Theopompus"
 summary: "Martyr."
 searchAliases:
   - "Teopompo"

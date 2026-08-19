@@ -1,7 +1,6 @@
 ---
 name: "Saint Colman mac Mici"
 honorific: Saint
-title: "Saint Colman mac Mici"
 summary: "No details about him have survived."
 region: "England"
 feastDay:

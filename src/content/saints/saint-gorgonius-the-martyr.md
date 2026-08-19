@@ -1,7 +1,6 @@
 ---
 name: "Saint Gorgonius the Martyr"
 honorific: Saint
-title: "Saint Gorgonius the Martyr"
 summary: "Third century martyr."
 feastDay:
   month: 3

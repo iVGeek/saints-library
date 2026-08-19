@@ -1,7 +1,6 @@
 ---
 name: "Saint Casdoe"
 honorific: Saint
-title: "Saint Casdoe"
 summary: "Persian noble woman. Married to Saint Dadas. Martyred with him and Saint Gabdelas, who may have been their son, for refusing to deny Christianity during the persecutions of Shapur II."
 deathYear: 368
 born: "Persian"

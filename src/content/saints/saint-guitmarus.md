@@ -1,7 +1,6 @@
 ---
 name: "Saint Guitmarus"
 honorific: Saint
-title: "Saint Guitmarus"
 summary: "Abbot at Saint-Riquier Abbey, Normandy, France in 742. Attended the council of Attigny-sur-Aisne in 765."
 searchAliases:
   - "Guimar"

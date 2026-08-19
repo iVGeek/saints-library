@@ -1,7 +1,6 @@
 ---
 name: "Saint Roch"
 honorific: Saint
-title: "Saint Roch"
 summary: "French noble who early developed a sympathy for the poor and sick; reported to have been born with the image of a red cross on his breast. Orphaned at age 20, he gave his fortune to the poor, and became a mendicant pilgrim; may have been a Franciscan tertiary. While on pilgrimage"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Saint_Roch_MET_EP14.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stanislaw Mysakowski"
 honorific: Blessed
-title: "Blessed Stanislaw Mysakowski"
 summary: "Priest in the archdiocese of Lublin, Poland. He served as a catechist and developed a personal ministry to the poor, the elderly and the handicapped. He was arrested with several other priests by the Gestapo in November 1939 as part of the Nazi occupation of Poland. For the crime"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Mysakowski.jpg"
 birthYear: 1896

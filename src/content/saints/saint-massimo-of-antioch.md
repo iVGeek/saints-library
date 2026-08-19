@@ -1,7 +1,6 @@
 ---
 name: "Saint Massimo of Antioch"
 honorific: Saint
-title: "Saint Massimo of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

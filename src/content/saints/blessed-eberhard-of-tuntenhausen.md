@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eberhard of Tüntenhausen"
 honorific: Blessed
-title: "Blessed Eberhard of Tüntenhausen"
 summary: "Shepherd who wandered the region of Freising, Germany who was known for his holy life, for his knowledge of herbal medicine, his ability to heal sick animals, and as a miracle worker. Legend says that when he would stick his shepherd's staff into the ground, a tree would grow fro"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Eberhard-of-Tuntenhausen.jpg"
 searchAliases:

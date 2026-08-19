@@ -1,7 +1,6 @@
 ---
 name: "Saint Quinquianus of Corinth"
 honorific: Saint
-title: "Saint Quinquianus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

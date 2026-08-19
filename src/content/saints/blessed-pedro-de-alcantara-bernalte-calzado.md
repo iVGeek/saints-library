@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro de Alcántara Bernalte Calzado"
 honorific: Blessed
-title: "Blessed Pedro de Alcántara Bernalte Calzado"
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

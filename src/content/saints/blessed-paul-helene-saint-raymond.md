@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paul-Hélène Saint Raymond"
 honorific: Blessed
-title: "Blessed Paul-Hélène Saint Raymond"
 summary: "Eighth of ten children born into a pious family. Paul-Hélène studied engineering at the Sorbonne in Paris, France, but felt a call to religious life, and joined the Little Sisters of the Assumption in 1952, making her final vows in 1960. Family social worker in Creil, France from"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Hélène-Saint-Raymond.jpg"
 searchAliases:

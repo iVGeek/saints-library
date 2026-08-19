@@ -1,7 +1,6 @@
 ---
 name: "Saint Manehildis"
 honorific: Saint
-title: "Saint Manehildis"
 summary: "Youngest of seven sisters, all of whom are honoured as saints in parts of Champagne, France. Hermitess. Nun, receiving the veil from Saint Alpinus."
 searchAliases:
   - "Manechildis"

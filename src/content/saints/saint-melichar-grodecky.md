@@ -1,7 +1,6 @@
 ---
 name: "Saint Melichar Grodecký"
 honorific: Venerable
-title: "Saint Melichar Grodecký"
 summary: "Jesuit priest. Missionary near Košice, Hungary (in modern Slovakia). Arrested by Calvinist troops in 1619, tortured and executed for loyalty to Catholicism. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Melichar-Grodecký.jpg"
 searchAliases:

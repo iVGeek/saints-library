@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Frémond"
 honorific: Blessed
-title: "Blessed Pierre Frémond"
 summary: "Layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1754
 deathYear: 1794

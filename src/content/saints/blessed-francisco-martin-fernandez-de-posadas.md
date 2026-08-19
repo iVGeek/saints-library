@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Martín Fernández de Posadas"
 honorific: Blessed
-title: "Blessed Francisco Martín Fernández de Posadas"
 summary: "Decided young to be a priest, and at age 19 entered the Dominican novitiate. Noted preacher. Home missioner in western Spain. Popular confessor. Known for his spiritual gifts, including reports of the ability to levitate. Wrote several works, including a biography of Saint Domini"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Juan_bernab%C3%A9_palomino-Retrato_del_Beato_Francisco_de_Posadas_%28cropped%29.jpg"
 birthYear: 1644

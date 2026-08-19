@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fortunato Velasco Tobar"
 honorific: Blessed
-title: "Blessed Fortunato Velasco Tobar"
 summary: "Joined the Vincentians on 18 September 1923, making his final vows on 19 September 1925. Priest. Assigned to the Apostolic College of Teruel in 1935. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fortunato-Velasco-Tobar.jpg"
 birthYear: 1906

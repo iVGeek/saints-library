@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio Múzquiz Erdozáin"
 honorific: Blessed
-title: "Blessed Julio Múzquiz Erdozáin"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Julio Fermín"

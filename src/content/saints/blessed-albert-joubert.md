@@ -1,7 +1,6 @@
 ---
 name: "Blessed Albert Joubert"
 honorific: Blessed
-title: "Blessed Albert Joubert"
 summary: "His father was French and a member of the Papal Guard, and his mother was African. Albert was ordained a priest of the diocese of Kasongo, Congo on 6 October 1935, and served as a missionary throughout the region. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Albert-Joubert.jpg"
 birthYear: 1908

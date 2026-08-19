@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Maqueda López"
 honorific: Blessed
-title: "Blessed Francisco Maqueda López"
 summary: "Seminarian in the archdiocese of Toledo, Spain on 5 June 1936. Imprisoned on 11 September 1936 in the anti-Christian persecutions of the Spanish Civil War; he spent the night ministering to and praying the Rosary with the other prisoners. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Maqueda-López.jpg"
 birthYear: 1914

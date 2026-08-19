@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleutherius of Bithynia"
 honorific: Saint
-title: "Saint Eleutherius of Bithynia"
 summary: "Imperial Roman senator. Chamberlain to Emperor Maximian Galerius at Constantinople. Convert to Christianity, after which he withdrew from the imperial court to his country estate in Bithynia. The persecutions caught up with him there, though. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eleutherius-of-Bithynia.jpg"
 searchAliases:

@@ -2,7 +2,6 @@
 name: "Saint Theodota"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Karl_May_Die_Tochter_des_Granden_001.jpg"
 honorific: Saint
-title: "Saint Theodota"
 summary: "Mother of Saint Cosmas and Saint Damian."
 searchAliases:
   - "Theodora"

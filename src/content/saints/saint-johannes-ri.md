@@ -1,7 +1,6 @@
 ---
 name: "Saint Johannes Ri"
 honorific: Saint
-title: "Saint Johannes Ri"
 summary: "Lay man. Martyr. A letter he wrote from prison has survived."
 searchAliases:
   - "John Rider"

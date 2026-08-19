@@ -1,7 +1,6 @@
 ---
 name: "Saint Anna Wang"
 honorific: Venerable
-title: "Saint Anna Wang"
 summary: "Born to a poor Christian farm family, Anna's mother, a pious woman, died when the girl was five years old. In addition to her schooling, Anna had to help work the farm to support the family, but her teacher, Sister Lucy Wang, continued the religious education begun by Anna's moth"
 image: "http://catholicsaints.info/wp-content/uploads/martyrs-of-Zhili.png"
 birthYear: 1886

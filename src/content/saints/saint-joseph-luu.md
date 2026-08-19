@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph Luu"
 honorific: Venerable
-title: "Saint Joseph Luu"
 summary: "Lay man farmer and catechist in the apostolic vicariate of West Cochinchina. Imprisoned when he tried to take the place of a hunted priest during the persecutions of Emperor Tu-Duc. Martyr."
 searchAliases:
   - "Giuse Nguyen Van Luu"

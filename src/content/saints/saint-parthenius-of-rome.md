@@ -1,7 +1,6 @@
 ---
 name: "Saint Parthenius of Rome"
 honorific: Saint
-title: "Saint Parthenius of Rome"
 summary: "Brother of Saint Calocerus. Eunuch in the palace of Tryphonia, wife of emperor Decius, in charge of Anatolia, daughter of Roman consul Aemilian. Charged by Decius with embezzlement of Anatolia's money, and with the capital crime of Christianity. Ignoring the financial accusations"
 searchAliases:
   - "Partenio"

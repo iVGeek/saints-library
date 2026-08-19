@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles the Good"
 honorific: Blessed
-title: "Blessed Charles the Good"
 summary: "Born a prince, the son of King Saint Canute of Denmark and Adela of Flanders. After his father's murder, he was raised in the court of his maternal grandfather, Robert de Frison, Count of Flanders (part of modern Belgium. Fought in the Second Crusade. Succeeded Robert II as count"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sint-Salvatorskathedraal_-_Bruges_-_IMG_4774.JPG/960px-Sint-Salvatorskathedraal_-_Bruges_-_IMG_4774.JPG"
 searchAliases:

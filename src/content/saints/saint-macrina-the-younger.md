@@ -1,7 +1,6 @@
 ---
 name: "Saint Macrina the Younger"
 honorific: Saint
-title: "Saint Macrina the Younger"
 summary: "Daughter of Saint Emmelia and Saint Basil the Elder; sister of Saint Basil the Great, Saint Gregory of Nyssa, and Saint Peter of Sebastea; granddaughter of Saint Macrina the Elder, and called the Younger to distinguish between the two. Educated by her mother, she could read from"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Macrina_the_Younger.jpg"
 birthYear: 327

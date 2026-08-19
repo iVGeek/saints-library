@@ -1,7 +1,6 @@
 ---
 name: "Saint Urban"
 honorific: Saint
-title: "Saint Urban"
 summary: "First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans. Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr."
 died: "relics at Constantinople"
 region: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anne of Mount Olympus"
 honorific: Saint
-title: "Saint Anne of Mount Olympus"
 summary: "Born to a prominent family, Anne was drawn to religious life but her parents pushed her into an arranged marriage. Widow. She then disguised herself as a man, used the name Euphemianus, and became a monk at an abbey on Mount Olympus. Her piety was such that the brothers asked her"
 searchAliases:
   - "Anne of Constantinople"

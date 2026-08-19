@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Rosa Adrover Martí"
 honorific: Blessed
-title: "Blessed María Rosa Adrover Martí"
 summary: "Member of the Dominican Sisters of Education of the Immaculata. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

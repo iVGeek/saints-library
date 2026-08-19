@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Mesopotamia"
 honorific: Saint
-title: "Saint Julian of Mesopotamia"
 summary: "Kidnapped and sold into slavery in 4th century Syria. When free again, he became a monk in Mesopotamia. Spiritual student of Saint Ephrem of Syria."
 searchAliases:
   - "Julian of Syria"

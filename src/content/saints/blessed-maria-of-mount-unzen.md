@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria of Mount Unzen"
 honorific: Blessed
-title: "Blessed Maria of Mount Unzen"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1591
 deathYear: 1627

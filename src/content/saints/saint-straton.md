@@ -1,7 +1,6 @@
 ---
 name: "Saint Straton"
 honorific: Saint
-title: "Saint Straton"
 summary: "Martyr."
 died: "tied to two bent trees then released so he was torn in half"
 feastDay:

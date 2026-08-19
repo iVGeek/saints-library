@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Masyla"
 honorific: Saint
-title: "Martyrs of Masyla"
 summary: "Group of Christians martyred in Masyla in northwest Africa."
 searchAliases:
   - "Massylitan Martyrs"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Tosca of Verona"
 honorific: Saint
-title: "Saint Tosca of Verona"
 summary: "Sister of Bishop Procolo. Hermitess in Verona, Italy who was known for her piety, and was often visited by area lay people in search of spiritual wisdom. When Saint Teuteria fled England, Tosca took her in."
 searchAliases:
   - "Tusca"

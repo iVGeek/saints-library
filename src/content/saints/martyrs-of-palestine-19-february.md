@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Palestine"
 honorific: Saint
-title: "Martyrs of Palestine"
 summary: "An unknown number of monks and lay people massacred together for their faith by Saracens led by Mundhir III (Alamondir)."
 deathYear: 509
 died: "c.509 in Palestine"

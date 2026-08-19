@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnus of Cuneo"
 honorific: Saint
-title: "Saint Magnus of Cuneo"
 summary: "One of the soldiers in the Theban Legion who survived their massacre. He fled to the mountains of the Piedmont region, and became an evangelist. When his reputation for holiness spread, the same persecutors who had killed his brothers in the Legion tracked him down. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/San_Magno-Botoneri.jpg"
 searchAliases:

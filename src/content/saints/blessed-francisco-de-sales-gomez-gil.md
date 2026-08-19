@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco de Sales Gómez Gil"
 honorific: Blessed
-title: "Blessed Francisco de Sales Gómez Gil"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

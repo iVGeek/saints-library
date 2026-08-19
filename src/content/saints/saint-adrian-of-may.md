@@ -1,7 +1,6 @@
 ---
 name: "Saint Adrian of May"
 honorific: Saint
-title: "Saint Adrian of May"
 summary: "May have been a member of the Hungarian royal family. Missionary bishop and leader on the isle of May in the Firth of Forth off the eastern coast of Scotland. Martyred with fellow missionaries by pagan Danish invaders. May have evangelized in Ireland. May have been bishop of Sain"
 searchAliases:
   - "Adrian of Ireland"

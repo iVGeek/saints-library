@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Muret"
 honorific: Saint
-title: "Saint Stephen of Muret"
 summary: "Educated at Benevento, Italy from age 12 by Archbishop Blessed Milo of Benevento. Founder of the Benedictine house of Grandmont in the forest of Muret, in Limousin, France. Abbot of the house, though never formally a monk."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Stephen_Muret_Hugh_Lacerta_MNMA_Cl956a.jpg/960px-Stephen_Muret_Hugh_Lacerta_MNMA_Cl956a.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Pineda Cejas"
 honorific: Blessed
-title: "Blessed José Pineda Cejas"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Puente Genil community. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

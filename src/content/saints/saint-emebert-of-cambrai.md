@@ -1,7 +1,6 @@
 ---
 name: "Saint Emebert of Cambrai"
 honorific: Saint
-title: "Saint Emebert of Cambrai"
 summary: "Son of Count Witger and Saint Amalburga; brother of Saint Gudule and Saint Reineldis. He was early drawn to the religious life. Monk. Bishop of Cambrai, France. Known for his personal piety and the example he set for his flock."
 searchAliases:
   - "Ableberius"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Dativa the Martyr"
 honorific: Saint
-title: "Saint Dativa the Martyr"
 summary: "Sister of Saint Dionysia. Aunt of Saint Majoricus. Martyred in the persecutions of the Arian Vandal king Huneric."
 deathYear: 484
 died: "burned at the stake in 484 somewhere in North Africa"

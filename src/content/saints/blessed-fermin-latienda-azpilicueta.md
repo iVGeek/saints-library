@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fermín Latienda Azpilicueta"
 honorific: Blessed
-title: "Blessed Fermín Latienda Azpilicueta"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Felipe José"

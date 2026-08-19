@@ -1,7 +1,6 @@
 ---
 name: "Saint Raynerius of Beaulieu"
 honorific: Saint
-title: "Saint Raynerius of Beaulieu"
 summary: "Monk at Beaulieu Abbey near Limoges, France."
 searchAliases:
   - "Raynier of Beaulieu"

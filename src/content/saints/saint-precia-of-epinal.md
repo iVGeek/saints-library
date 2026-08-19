@@ -1,7 +1,6 @@
 ---
 name: "Saint Precia of Epinal"
 honorific: Saint
-title: "Saint Precia of Epinal"
 summary: "Daughter of Saint Goeric; great-niece of Saint Arnulf of Metz. She and her sister Victorina became nuns. First abbess of a monastery in Epinal, Gaul (near the Moselle River in modern France)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Precia-of-Epinal.jpg"
 searchAliases:

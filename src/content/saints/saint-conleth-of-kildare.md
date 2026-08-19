@@ -1,7 +1,6 @@
 ---
 name: "Saint Conleth of Kildare"
 honorific: Saint
-title: "Saint Conleth of Kildare"
 summary: "Skilled worker in gold and silver, and manuscript illuminator. Hermit in a cell in Old Connell, Ireland near the Liffey river. His reputation for holiness attracted would-be disciples. Friend of and co-worker with Saint Brigid; they ran first double monastery together. First bish"
 image: "http://catholicsaints.info/wp-content/uploads/Saint-Conleth-of-Kildare.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teófilo Montes Calvo"
 honorific: Blessed
-title: "Blessed Teófilo Montes Calvo"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

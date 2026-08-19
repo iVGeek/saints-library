@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcus of Cordoba"
 honorific: Saint
-title: "Saint Marcus of Cordoba"
 summary: "Imprisoned and executed for refusing to convert from Christianity to Islam during the Moorish occupation of Spain."
 died: "beheaded in Cordoba, Spain"
 deathPlace: "Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mary Assunta"
 honorific: Blessed
-title: "Blessed Mary Assunta"
 summary: "Daughter of Luigi Pallotta and Eufrasia Casali. Baptized on 21 August 1878. She grew up in Castello di Croce, Marches of Ancona, Italy. Confirmed on 7 July 1880. In 1884 she briefly attended school, learning to read and write, but she received no further formal education. On 2 Ma"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Assunta-1.jpg"
 searchAliases:

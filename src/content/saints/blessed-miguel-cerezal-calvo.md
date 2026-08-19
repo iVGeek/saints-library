@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Cerezal Calvo"
 honorific: Blessed
-title: "Blessed Miguel Cerezal Calvo"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenio Cuesta Padierna"
 honorific: Blessed
-title: "Blessed Eugenio Cuesta Padierna"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Hilarion Eugenio"

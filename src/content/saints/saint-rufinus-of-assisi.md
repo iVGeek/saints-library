@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus of Assisi"
 honorific: Saint
-title: "Saint Rufinus of Assisi"
 summary: "Early bishop of Amasea in Pontus (part of Asia Minor) who travelled to the region of Assisi, Italy with his son Cesidio. He built the first church in the area, preached Christianity, converted many, and became their first bishop. Martyred in the persecutions of the imperial Roman"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Saint_Rufinus_-_San_Rufino_-_Assisi_2016.jpg/960px-Saint_Rufinus_-_San_Rufino_-_Assisi_2016.jpg"
 searchAliases:

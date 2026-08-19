@@ -1,7 +1,6 @@
 ---
 name: "Blessed Kristina Hamm"
 honorific: Blessed
-title: "Blessed Kristina Hamm"
 summary: "15th century nun in Hamm, Westphalia (in modern Germany). Stigmatist, attested by 12 witnesses."
 region: "Germany"
 feastDay:

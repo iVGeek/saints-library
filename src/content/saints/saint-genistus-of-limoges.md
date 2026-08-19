@@ -1,7 +1,6 @@
 ---
 name: "Saint Genistus of Limoges"
 honorific: Saint
-title: "Saint Genistus of Limoges"
 summary: "Monk at Beaulieu, Limousin, Limoges. Martyr."
 searchAliases:
   - "Genistus of Beaulieu"

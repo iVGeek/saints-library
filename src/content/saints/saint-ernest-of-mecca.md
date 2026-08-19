@@ -1,7 +1,6 @@
 ---
 name: "Saint Ernest of Mecca"
 honorific: Saint
-title: "Saint Ernest of Mecca"
 summary: "Benedictine monk and then abbot at Zwiefalten Abbey in southern Germany. Crusader, making it to Arabia. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ernest-of-Mecca.jpg"
 searchAliases:

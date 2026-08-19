@@ -1,7 +1,6 @@
 ---
 name: "Saint Desiderio of Benevento"
 honorific: Saint
-title: "Saint Desiderio of Benevento"
 summary: "Lector. Martyr."
 searchAliases:
   - "Desiderius"

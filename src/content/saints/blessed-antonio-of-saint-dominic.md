@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio of Saint Dominic"
 honorific: Blessed
-title: "Blessed Antonio of Saint Dominic"
 summary: "Dominican friar. Martyr."
 birthYear: 1608
 deathYear: 1628

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark the Mute"
 honorific: Saint
-title: "Saint Mark the Mute"
 summary: "A deaf-mute man known for his piety and ascetic lifestyle. No other information about him has survived."
 feastDay:
   month: 1

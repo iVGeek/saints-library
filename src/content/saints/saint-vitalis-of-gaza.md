@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Gaza"
 honorific: Saint
-title: "Saint Vitalis of Gaza"
 summary: "Monk and hermit in the Gaza region. At age 60 he felt driven to travel to Alexandria, Egypt and work to save the area prostitutes. He had a unique method - he worked as a day labourer; with each day's wages he would hire a prostitute for the evening; but instead of the usual serv"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Vitalis.jpg"
 deathYear: 625

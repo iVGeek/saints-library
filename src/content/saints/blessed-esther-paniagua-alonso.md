@@ -1,7 +1,6 @@
 ---
 name: "Blessed Esther Paniagua Alonso"
 honorific: Blessed
-title: "Blessed Esther Paniagua Alonso"
 summary: "The daughter of Dolores Alonso and Nicasio Paniagua. Esther joined the Augustinian Missionary Congregation at age 18, making her perpetual vows in August 1970. Trained as a nurse, she was assigned to a hospital in the Bab El Oued neighborhood of Algiers, Algeria where she was esp"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Esther-Paniagua-Alonso.jpg"
 birthYear: 1949

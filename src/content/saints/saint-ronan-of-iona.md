@@ -1,7 +1,6 @@
 ---
 name: "Saint Ronan of Iona"
 honorific: Saint
-title: "Saint Ronan of Iona"
 summary: "Monk at Iona Abbey. Was involved in the controversy with Saint Finan of Iona concerning the celebration of Easter. Confessor of the faith."
 deathYear: 660
 died: "c.660 of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Wulfhad of Mercia"
 honorific: Saint
-title: "Saint Wulfhad of Mercia"
 summary: "Seventh century prince, born to the royal family of Mercia, England. Baptised by Saint Chad. Murdered by his pagan father. Martyr."
 searchAliases:
   - "Wulfhade"

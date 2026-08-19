@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement Mary Hofbauer"
 honorific: Venerable
-title: "Saint Clement Mary Hofbauer"
 summary: "Ninth child of a butcher who changed the family name from the Moravian Dvor&aacute;k to the Germanic Hofbauer. His father died when Clement was six years old. The young man felt a call to the priesthood, but his family was too poor to afford his education. Apprentice and journeym"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wien_Maria_am_Gestade_Hofbauer-Relief_Detail.jpg/960px-Wien_Maria_am_Gestade_Hofbauer-Relief_Detail.jpg"
 searchAliases:

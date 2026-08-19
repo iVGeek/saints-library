@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gualter of Guimarães"
 honorific: Blessed
-title: "Blessed Gualter of Guimarães"
 summary: "Spiritual student of Saint Francis of Assisi in the early 13th century. One of the first Franciscan friar, joining at the Monte di Santa Catarina house near Urgezes, Portugal. His preaching and ministry made him a favourite with the faithful in nearby Guimarães, Portugal. There G"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gualter-of-Guimaraes.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Soler García"
 honorific: Blessed
-title: "Blessed Juan Soler García"
 summary: "The son of Miguel and Catalina, a pious couple, Juan was baptized at the age of two days. He felt early called to the priesthood, studied at the seminary of San Indalecio, and later taught there for nine years. He became private secretary to Bishop Bernardo Martínez y Noval, dioc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Soler-Garcia.jpg"
 birthYear: 1904

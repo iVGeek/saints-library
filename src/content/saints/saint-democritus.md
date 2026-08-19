@@ -1,7 +1,6 @@
 ---
 name: "Saint Democritus"
 honorific: Saint
-title: "Saint Democritus"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:

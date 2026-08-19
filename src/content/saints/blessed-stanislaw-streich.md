@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stanislaw Streich"
 honorific: Blessed
-title: "Blessed Stanislaw Streich"
 summary: "The eldest of three sons born to Franciszek Streich and Wladyslawa Streich née Birzynska, Stanislaw was baptized at the age of 5 weeks. After studies at the seminary in Poznan, Poland, he was ordained a priest of the archdiocese of Poznan on 6 June 1925. While continuing his stud"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Streich.jpg"
 birthYear: 1902

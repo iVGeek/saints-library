@@ -1,7 +1,6 @@
 ---
 name: "Blessed Máximo Aranda Modrego"
 honorific: Blessed
-title: "Blessed Máximo Aranda Modrego"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Justo Pastor"

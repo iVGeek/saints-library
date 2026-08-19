@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Noriega González"
 honorific: Blessed
-title: "Blessed José Noriega González"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Tuscany"
 honorific: Saint
-title: "Saint John of Tuscany"
 summary: "Martyred with Saint Festus. Honoured in Tuscany, Italy. No other information has survived."
 region: "Italy"
 feastDay:

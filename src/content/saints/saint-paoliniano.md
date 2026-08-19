@@ -1,7 +1,6 @@
 ---
 name: "Saint Paoliniano"
 honorific: Saint
-title: "Saint Paoliniano"
 summary: "Martyr."
 died: "on the Adriatic coast of modern Croatia"
 region: "Italy"

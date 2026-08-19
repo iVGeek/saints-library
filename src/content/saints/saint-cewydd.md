@@ -1,7 +1,6 @@
 ---
 name: "Saint Cewydd"
 honorific: Saint
-title: "Saint Cewydd"
 summary: "Known to have lived in Anglesey, Wales. No other information has survived."
 born: "Welsh"
 died: "6th century"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory Thaumaturgus"
 honorific: Saint
-title: "Saint Gregory Thaumaturgus"
 summary: "Born to a wealthy and distinguished pagan family. Trained in law and rhetoric in his youth. Brother-in-law to the Roman governor of Palestine. His father died when Theodore was age 14. The boy had originally planned to study at the law school in Beirut, but when he arrived at Cae"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grigorii_chudotvoretz.jpg"
 searchAliases:

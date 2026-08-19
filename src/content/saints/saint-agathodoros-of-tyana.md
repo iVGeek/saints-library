@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathodoros of Tyana"
 honorific: Saint
-title: "Saint Agathodoros of Tyana"
 summary: "After public announcing his Christianity, Agathodorus was tortured and martyred for his faith."
 died: "Tyana, Cappadocia (modern Nigde, Turkey)"
 deathPlace: "Cappadocia (modern Nigde, Turkey)"

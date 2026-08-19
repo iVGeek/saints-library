@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius of Ostia"
 honorific: Saint
-title: "Saint Asterius of Ostia"
 summary: "Martyr."
 died: "Ostia, Lazio, Italy"
 deathPlace: "Lazio, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Mercer Soler"
 honorific: Blessed
-title: "Blessed Joan Mercer Soler"
 summary: "Member of the Claretians, professed on 15 September 1895. Ordained a priest on 19 December 1903. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

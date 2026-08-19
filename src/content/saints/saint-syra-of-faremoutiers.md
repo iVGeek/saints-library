@@ -1,7 +1,6 @@
 ---
 name: "Saint Syra of Faremoutiers"
 honorific: Saint
-title: "Saint Syra of Faremoutiers"
 summary: "Nun at Faremoutiers, France. Abbess of Châlons-sur-Marne, France."
 searchAliases:
   - "Sira"

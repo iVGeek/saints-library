@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teodoro Pérez Gómez"
 honorific: Blessed
-title: "Blessed Teodoro Pérez Gómez"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Mariano Pablo"

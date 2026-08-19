@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Bevagna"
 honorific: Saint
-title: "Saint Vincent of Bevagna"
 summary: "First Bishop of Bevagna, Italy. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "martyred in 303"

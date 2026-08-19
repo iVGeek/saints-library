@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Antonio García Moreno"
 honorific: Blessed
-title: "Blessed Juan Antonio García Moreno"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Raimundo"

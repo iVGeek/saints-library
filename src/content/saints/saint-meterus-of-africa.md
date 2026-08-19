@@ -1,7 +1,6 @@
 ---
 name: "Saint Meterus of Africa"
 honorific: Saint
-title: "Saint Meterus of Africa"
 summary: "Martyr."
 died: "in Africa, date and location unknown"
 deathPlace: "date and location unknown"

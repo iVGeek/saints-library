@@ -1,7 +1,6 @@
 ---
 name: "Saint David of Sweden"
 honorific: Saint
-title: "Saint David of Sweden"
 summary: "Born to the 10th-century English nobility. Benedictine monk. Abbot of a monastery in Sweden. Worked with Saint Sigfried."
 searchAliases:
   - "David of Vasteras"

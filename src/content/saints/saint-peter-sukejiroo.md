@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Sukejiroo"
 honorific: Saint
-title: "Saint Peter Sukejiroo"
 summary: "Franciscan tertiary. Catechist. House servant and sacristan to the Franciscan missionaries. Arrested for his faith in Kyoto while ministering to imprisoned fellow Christians. One of the Martyrs of Nagasaki."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:

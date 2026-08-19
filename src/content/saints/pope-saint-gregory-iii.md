@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Gregory III"
 honorific: Saint
-title: "Pope Saint Gregory III"
 summary: "Priest at Saint Crisogono Church in Rome, Italy; except that his father's name was John, nothing else is known about his life prior to being elected 90th pope by popular acclamation in 731. Noted for his learning and virtue. The beginning of his pontificate was troubled by the ex"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/178-7866_IMG_-_Gregorius_III_AV.png"
 deathYear: 741

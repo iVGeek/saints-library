@@ -1,7 +1,6 @@
 ---
 name: "Saint Deicola"
 honorific: Saint
-title: "Saint Deicola"
 summary: "Older brother of Saint Gall. Monk. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Evangelized in Austrasia and Burgundy in 567. One of the twelve who accompanied Saint Columba to France and helped found the abbey of Luxeuil. When Saint Columba was exiled"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Deicolus-Abbot.jpg"
 searchAliases:

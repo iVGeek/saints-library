@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary Joseph Rosello"
 honorific: Saint
-title: "Saint Mary Joseph Rosello"
 summary: "One of nine children, her father was a potter. Born in poverty, she suffered from poor health all her life. Pious from early youth she tried to enter a religious order, but was refused admission due to her health and lack of dowry. The pious, childless couple she worked for could"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Joseph-Rosello.jpg"
 searchAliases:

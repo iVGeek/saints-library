@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louise Déan de Luigné"
 honorific: Blessed
-title: "Blessed Louise Déan de Luigné"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louise-Déan-de-Luigné.jpg"
 birthYear: 1757

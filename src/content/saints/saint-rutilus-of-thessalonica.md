@@ -1,7 +1,6 @@
 ---
 name: "Saint Rutilus of Thessalonica"
 honorific: Saint
-title: "Saint Rutilus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

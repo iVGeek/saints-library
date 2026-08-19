@@ -1,7 +1,6 @@
 ---
 name: "Saint Botmaele of Brittany"
 honorific: Saint
-title: "Saint Botmaele of Brittany"
 summary: "Sixth century monk in Brittany, France. Spiritual student of Saint Mawes."
 region: "France"
 feastDay:

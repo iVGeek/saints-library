@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cipriano Alguacil Torredenaida"
 honorific: Blessed
-title: "Blessed Cipriano Alguacil Torredenaida"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

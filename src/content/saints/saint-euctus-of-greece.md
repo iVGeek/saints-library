@@ -1,7 +1,6 @@
 ---
 name: "Saint Euctus of Greece"
 honorific: Saint
-title: "Saint Euctus of Greece"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Polyeuctus"

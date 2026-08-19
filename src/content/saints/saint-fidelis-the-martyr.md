@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidelis the Martyr"
 honorific: Saint
-title: "Saint Fidelis the Martyr"
 summary: "Martyr. No other information has survived."
 died: "North Africa"
 region: "England"

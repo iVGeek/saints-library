@@ -1,7 +1,6 @@
 ---
 name: "Saint Widradus"
 honorific: Saint
-title: "Saint Widradus"
 summary: "Benedictine monk, Restored the monastery of Flavigny near Dijon, France when he served as its abbot. Founded the monastery of Saulieu, France."
 searchAliases:
   - "Waré"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of Salerno"
 honorific: Saint
-title: "Saint Fortunatus of Salerno"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fortunato-of-Salerno.jpg"
 deathYear: 303

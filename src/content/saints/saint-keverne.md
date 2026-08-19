@@ -1,7 +1,6 @@
 ---
 name: "Saint Keverne"
 honorific: Saint
-title: "Saint Keverne"
 summary: "Friend of and co-worker with Saint Kieran."
 born: "6th century Cornwall, England"
 birthPlace: "England"

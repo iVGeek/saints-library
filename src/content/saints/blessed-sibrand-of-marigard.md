@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sibrand of Marigård"
 honorific: Blessed
-title: "Blessed Sibrand of Marigård"
 summary: "Premonstratensian monk. Canon of the Mariengaarde monastery in Friesland (in modern Netherlands). Abbot of the house in 1230. Known for his scholarship and personal piety, he established comprehensive education for his brothers and required the study of the Church fathers."
 searchAliases:
   - "Sibrandus"

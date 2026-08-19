@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Zeganea"
 honorific: Saint
-title: "Saint Cyriacus of Zeganea"
 summary: "Confessor of the faith in Zeganea, Laziqia (in modern Syria). No details of his life have survived."
 region: "Syria"
 feastDay:

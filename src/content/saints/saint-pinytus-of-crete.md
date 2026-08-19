@@ -1,7 +1,6 @@
 ---
 name: "Saint Pinytus of Crete"
 honorific: Saint
-title: "Saint Pinytus of Crete"
 summary: "Bishop of Crete. His contemporaries considered him one of the greatest ecclesiastical writers of his time."
 searchAliases:
   - "Pinytus of Cnossos"

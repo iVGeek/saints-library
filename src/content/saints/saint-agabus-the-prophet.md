@@ -1,7 +1,6 @@
 ---
 name: "Saint Agabus the Prophet"
 honorific: Saint
-title: "Saint Agabus the Prophet"
 summary: "Jewish convert. One of the 72 disciples sent out by Jesus to preach. Had the gift of prophecy, and predicted an empire-wide famine that occurred in 49. Probably the one who predicted Paul's imprisonment in Jerusalem in Acts 21:10."
 image: "http://catholicsaints.info/wp-content/uploads/Agabus.jpg"
 searchAliases:

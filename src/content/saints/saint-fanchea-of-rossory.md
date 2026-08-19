@@ -1,7 +1,6 @@
 ---
 name: "Saint Fanchea of Rossory"
 honorific: Saint
-title: "Saint Fanchea of Rossory"
 summary: "Sister of Saint Enda of Arran, Saint Lochina, Saint Carecha and Saint Dareima. Nun. Persuaded her brother to become a monk. Noted spiritual director. Founded a convent at Rossory, Fermanagh, Ireland, and served as its first abbess. Because of her key role in the founding of Irish"
 searchAliases:
   - "Faenche"

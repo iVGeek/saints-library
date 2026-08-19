@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julian Villanueva Alza"
 honorific: Blessed
-title: "Blessed Julian Villanueva Alza"
 summary: "Member of the Claretians, professed on 11 April 1898. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

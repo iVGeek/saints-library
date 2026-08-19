@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vitalis of Assisi"
 honorific: Blessed
-title: "Blessed Vitalis of Assisi"
 summary: "Following a wild and mis-spent youth, Vitalis had a conversion and sought to do penance first by going on pilgrimage to the most important shrines throughout Europe, and then by becoming a Benedictine monk at Monte Subasio in Umbria, Italy. Late in life he left community life to"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Saintvitalis2017.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gratien of Amiens"
 honorific: Saint
-title: "Saint Gratien of Amiens"
 summary: "Breton bishop martyred by pagans while on pilgrimage to Rome, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gratien-of-Amiens-1.jpg"
 deathYear: 286

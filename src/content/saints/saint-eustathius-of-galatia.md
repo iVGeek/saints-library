@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustathius of Galatia"
 honorific: Saint
-title: "Saint Eustathius of Galatia"
 summary: "Tortured and drowned in a river in Galatia, date unknown. Martyr."
 searchAliases:
   - "Eustasius"

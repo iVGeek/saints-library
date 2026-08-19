@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio García Padilla"
 honorific: Blessed
-title: "Blessed Antonio García Padilla"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

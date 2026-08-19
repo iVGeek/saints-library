@@ -1,7 +1,6 @@
 ---
 name: "Saint Crementius of Zaragoza"
 honorific: Saint
-title: "Saint Crementius of Zaragoza"
 summary: "Martyr."
 searchAliases:
   - "Cremenzio"

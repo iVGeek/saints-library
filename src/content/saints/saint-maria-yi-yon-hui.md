@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria Yi Yon-hui"
 honorific: Venerable
-title: "Saint Maria Yi Yon-hui"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Maria Yi Yeon-heui"

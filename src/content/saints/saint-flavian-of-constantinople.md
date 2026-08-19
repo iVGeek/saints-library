@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavian of Constantinople"
 honorific: Saint
-title: "Saint Flavian of Constantinople"
 summary: "Patriarch of Constantinople c.446. He condemned Eutyches, who began the heresy of Monophysitism. He refused to bribe Emperor Theodosius II in order to hold his see, and, against Theodosius's wishes, he made the emperor's sister Pulcherius a deaconess. Theodosius had him deposed a"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flavian_the_Confessor_the_Patriarch_of_Constantinople.jpg"
 searchAliases:

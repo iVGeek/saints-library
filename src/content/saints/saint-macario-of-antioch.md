@@ -1,7 +1,6 @@
 ---
 name: "Saint Macario of Antioch"
 honorific: Saint
-title: "Saint Macario of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

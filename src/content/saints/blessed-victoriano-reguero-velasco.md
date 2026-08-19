@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victoriano Reguero Velasco"
 honorific: Blessed
-title: "Blessed Victoriano Reguero Velasco"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

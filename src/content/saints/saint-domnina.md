@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnina"
 honorific: Saint
-title: "Saint Domnina"
 summary: "Mother of Saint Domnina and Saint Berenice. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Syria"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansilio"
 honorific: Saint
-title: "Saint Ansilio"
 summary: "Seventh-century monk, and possibly a prior, of Lagny Abbey"
 searchAliases:
   - "Amsilio"

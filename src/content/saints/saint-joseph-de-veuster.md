@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph de Veuster"
 honorific: Venerable
-title: "Saint Joseph de Veuster"
 summary: "Son of a small farmer. Studied at the college at Braine-le-Comte, Belgium. Joined the Picpus Fathers on 7 October 1860, taking the name Damien. Seminarian in Paris, France. Volunteered for missionary work while still in seminary, and was sent to Hawaii. Ordained in Honolulu on 24"
 image: "http://catholicsaints.info/wp-content/uploads/Joseph-de-Veuster.jpg"
 searchAliases:

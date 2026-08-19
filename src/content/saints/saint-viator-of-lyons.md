@@ -1,7 +1,6 @@
 ---
 name: "Saint Viator of Lyons"
 honorific: Saint
-title: "Saint Viator of Lyons"
 summary: "Lector and catechist at the cathedral of Lyons, France. Spiritual student of and assistant to Saint Justus of Lyons. Hermit in the deserts near Alexandria, Egypt from 381 until his death."
 deathYear: 390
 born: "4th century France"

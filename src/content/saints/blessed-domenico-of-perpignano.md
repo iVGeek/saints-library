@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domenico of Perpignano"
 honorific: Blessed
-title: "Blessed Domenico of Perpignano"
 summary: "Mercedarian friar the Holy Savior convent on Mallorca, Spain. Freed 153 Christians enslaved and imprisoned by Muslims for their faith in Tunisia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Domenico-of-Perpignano.jpg"
 region: "Spain"

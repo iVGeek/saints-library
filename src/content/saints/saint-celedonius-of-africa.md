@@ -1,7 +1,6 @@
 ---
 name: "Saint Celedonius of Africa"
 honorific: Saint
-title: "Saint Celedonius of Africa"
 summary: "Martyr."
 searchAliases:
   - "Celedonus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Rome"
 honorific: Saint
-title: "Saint Vitalis of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

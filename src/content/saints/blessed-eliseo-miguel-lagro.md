@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eliseo Miguel Lagro"
 honorific: Blessed
-title: "Blessed Eliseo Miguel Lagro"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

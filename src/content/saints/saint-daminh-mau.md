@@ -1,7 +1,6 @@
 ---
 name: "Saint Ðaminh Mau"
 honorific: Venerable
-title: "Saint Ðaminh Mau"
 summary: "Dominican. Priest. Promoted the use of the Rosary to strengthen the faith of Christians. Imprisoned in the persecutions of emperor Tu-Duc, he ministered to other prisoners until he was executed. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-Mau.jpg"
 searchAliases:

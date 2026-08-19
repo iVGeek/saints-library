@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jan Eugeniusz Bajewski"
 honorific: Blessed
-title: "Blessed Jan Eugeniusz Bajewski"
 summary: "Member of the Franciscan Conventuals, taking the name Antonin. Priest. Worked with Saint Maximilian Kolbe. Imprisoned, tortured and executed by the Nazis for the crime of being a Catholic priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Eugeniusz-Bajewski.jpg"
 searchAliases:

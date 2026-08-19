@@ -1,7 +1,6 @@
 ---
 name: "Saint Matthew the Apostle"
 honorific: Saint
-title: "Saint Matthew the Apostle"
 summary: "Son of Alphaeus, he lived at Capenaum on Lake Genesareth. He was a Roman tax collector, a position equated with collaboration with the enemy by those from whom he collected taxes. Jesus' contemporaries were surprised to see the Christ with a traitor, but Jesus explained that he h"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Codexaureus_17.jpg"
 searchAliases:

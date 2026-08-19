@@ -1,7 +1,6 @@
 ---
 name: "Saint Serapion of Rome"
 honorific: Saint
-title: "Saint Serapion of Rome"
 summary: "Martyred by a pagan mob."
 died: "dragged by the heels over rough ground until he died in Rome, Italy"
 deathPlace: "Italy"

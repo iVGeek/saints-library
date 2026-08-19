@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jane of Orvieto"
 honorific: Blessed
-title: "Blessed Jane of Orvieto"
 summary: "Born to a peasant family and orphaned at age five. Worked as a seamstress and embroiderer. Refused marriage as a young woman, and became a Dominican tertiary at Orvieto, Italy. Visionary, prophet, known for a life of deep prayer; reputed miracle worker and stigmatist."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jane-of-Orvieto.jpg"
 searchAliases:

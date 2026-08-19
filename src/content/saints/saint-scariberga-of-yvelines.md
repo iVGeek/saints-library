@@ -1,7 +1,6 @@
 ---
 name: "Saint Scariberga of Yvelines"
 honorific: Saint
-title: "Saint Scariberga of Yvelines"
 summary: "Born to the Gallic nobility; niece of King Clovis I. Given in an arranged marriage to Saint Arnulf of Tours; they lived as brother and sister, and when he became bishop, she became a nun. Widowed when Arnulf was martyred, she bult a hermit's cell over his tomb in the Yvelines for"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Scariberga-of-Yvelines.jpg"
 searchAliases:

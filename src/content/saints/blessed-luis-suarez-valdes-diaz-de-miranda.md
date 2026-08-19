@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Suárez-Valdés Díaz de Miranda"
 honorific: Blessed
-title: "Blessed Luis Suárez-Valdés Díaz de Miranda"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ana Julia Duque Heckner"
 honorific: Blessed
-title: "Blessed Ana Julia Duque Heckner"
 summary: "Founded the Congregation of the Little Sisters of the Annunciation."
 searchAliases:
   - "Sister María Berenice"

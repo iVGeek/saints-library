@@ -1,7 +1,6 @@
 ---
 name: "Saint Abraham of Rostov"
 honorific: Saint
-title: "Saint Abraham of Rostov"
 summary: "Raised as a pagan, as a young man Abraham was struck down by a nearly fatal illness, then cured by prayer. Convert. Monk, taking the name Abraham. Became a travelling evangelist and preacher in Rostov, Russia. Legend says that a vision of Saint John the Divine gave Abraham his ow"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Saint_Abraham_of_Rostov.jpg"
 searchAliases:

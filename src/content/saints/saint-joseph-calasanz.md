@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph Calasanz"
 honorific: Saint
-title: "Saint Joseph Calasanz"
 summary: "Youngest of five children born to Don Pedro Calasanz and Donna Maria Gastonia. His mother and a brother died while he was still in school. Studied at Estadilla, at the University of Lereda, at Valencia, and at Alcala de Henares. Obtained degrees in canon law and theology. His fat"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/San_Jos%C3%A9_de_Calasanz_%28Museo_del_Prado%29.jpg/960px-San_Jos%C3%A9_de_Calasanz_%28Museo_del_Prado%29.jpg"
 searchAliases:

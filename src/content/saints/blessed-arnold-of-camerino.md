@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnold of Camerino"
 honorific: Blessed
-title: "Blessed Arnold of Camerino"
 summary: "Mercedarian friar. Noted preacher and miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-of-Camerino.jpg"
 born: "Italian"

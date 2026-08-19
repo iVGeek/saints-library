@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Varona Ortega"
 honorific: Blessed
-title: "Blessed Antonio Varona Ortega"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

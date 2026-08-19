@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modesto Allepuz Vera"
 honorific: Blessed
-title: "Blessed Modesto Allepuz Vera"
 summary: "Married layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936

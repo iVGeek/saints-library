@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintus of Africa"
 honorific: Saint
-title: "Saint Quintus of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Quinctus"

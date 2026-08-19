@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Estalayo García"
 honorific: Blessed
-title: "Blessed José Estalayo García"
 summary: "Passionist brother, he joined the order in 1928, he made his profession on 29 October 1933. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Estalayo-Garcia.jpg"
 searchAliases:

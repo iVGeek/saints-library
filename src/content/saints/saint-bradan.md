@@ -1,7 +1,6 @@
 ---
 name: "Saint Bradan"
 honorific: Saint
-title: "Saint Bradan"
 summary: "Saint venerated on the Isle of Man. No other information has survived."
 searchAliases:
   - "Bradano"

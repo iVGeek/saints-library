@@ -1,7 +1,6 @@
 ---
 name: "Saint John Maron"
 honorific: Saint
-title: "Saint John Maron"
 summary: "Son of Agathon, the governor of Sarum, and Anohamia, grandson of prince Alidipas, and a member of the Frankish royal family which governed Antioch. Educated in Antioch and the monastery of Saint Maron, studying mathematics, sciences, philosophy, theology, linguistics and scriptur"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/StJohnMaron.jpg/960px-StJohnMaron.jpg"
 searchAliases:

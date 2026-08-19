@@ -1,7 +1,6 @@
 ---
 name: "Saint Cilinia"
 honorific: Saint
-title: "Saint Cilinia"
 summary: "Born to the nobility, and married to Emilius, count of Laon. Blind. Mother of Saint Principius of Soissons and Saint Remigius of Rheims."
 searchAliases:
   - "Celina"

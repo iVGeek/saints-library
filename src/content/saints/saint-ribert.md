@@ -1,7 +1,6 @@
 ---
 name: "Saint Ribert"
 honorific: Saint
-title: "Saint Ribert"
 summary: "Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern France."
 died: "7th century"
 region: "France"

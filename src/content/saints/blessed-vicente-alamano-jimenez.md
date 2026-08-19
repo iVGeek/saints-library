@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Alamano Jiménez"
 honorific: Blessed
-title: "Blessed Vicente Alamano Jiménez"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Alamano-Jimenez.jpg"
 searchAliases:

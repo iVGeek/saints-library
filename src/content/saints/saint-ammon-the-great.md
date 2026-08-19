@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammon the Great"
 honorific: Saint
-title: "Saint Ammon the Great"
 summary: "Wealthy, married layman. He and his wife lived as brother and sister for 18 years, then each entered religious life. Ammon was one of the earliest and greatest desert monks, living in a cell on Mount Nitria. His reputation for holiness spread, and he attracted over 4,000 spiritua"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ammon-the-Anchorite.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Narcís Simón Sala"
 honorific: Blessed
-title: "Blessed Narcís Simón Sala"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

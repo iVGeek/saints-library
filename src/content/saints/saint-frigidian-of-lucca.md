@@ -1,7 +1,6 @@
 ---
 name: "Saint Frigidian of Lucca"
 honorific: Saint
-title: "Saint Frigidian of Lucca"
 summary: "Sometimes confused with Saint Finnian of Moville. Son of King Ultach of Ulster, Ireland. Educated in Irish monasteries. Priest. After a pilgrimage to Rome, Italy he settled as a hermit on Mount Pisano. Bishop of Lucca in 566, though he often left the city to spend days in prayer"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Frigidian-of-Lucca.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abakerazum"
 honorific: Saint
-title: "Saint Abakerazum"
 summary: "A robber who converted to Christianity, gave up his old life, and was martyred for his faith."
 searchAliases:
   - "Kirdjun"

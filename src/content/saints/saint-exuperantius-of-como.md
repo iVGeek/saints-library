@@ -1,7 +1,6 @@
 ---
 name: "Saint Exuperantius of Como"
 honorific: Saint
-title: "Saint Exuperantius of Como"
 summary: "Sixth bishop of Como, Italy c.495. Ardent opponent of Arianism."
 searchAliases:
   - "Esuperanzio"

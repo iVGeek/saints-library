@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Emesa"
 honorific: Saint
-title: "Saint Silvanus of Emesa"
 summary: "Bishop of Emesa, Syria. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Emesa, Syria"

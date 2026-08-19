@@ -1,7 +1,6 @@
 ---
 name: "Saint Parasceve of Rome"
 honorific: Saint
-title: "Saint Parasceve of Rome"
 summary: "Martyred in the persecutions of Nero."
 died: "in Rome, Italy"
 deathPlace: "Italy"

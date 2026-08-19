@@ -1,7 +1,6 @@
 ---
 name: "Saint Blitmund of Bobbio"
 honorific: Saint
-title: "Saint Blitmund of Bobbio"
 summary: "Born to the nobility, as a young man, Blitmund moved to northern France to live as a hermit along the River Somme in Leuconay. In 611 he built a chapel and two cells in the area. He brought a hanged man back to life, which caused the spread of his reputation as a miracle worker a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Blitmund-of-Bobbio.jpg"
 searchAliases:

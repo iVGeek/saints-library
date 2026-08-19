@@ -1,7 +1,6 @@
 ---
 name: "Blessed James of Tunis"
 honorific: Blessed
-title: "Blessed James of Tunis"
 summary: "Mercedarian friar who in 1314 went to Tunis, Tunisia in North Africa to free Christian captives, working with Blessed Adolphus of Tunis and Blessed Arnaldo de Rossinol. On the trip home, their ship was captured by pirates and James was imprisoned. While in captivity he ministered"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-James-and-Blessed-Adolphus.jpg"
 searchAliases:

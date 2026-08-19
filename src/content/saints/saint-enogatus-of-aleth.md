@@ -1,7 +1,6 @@
 ---
 name: "Saint Enogatus of Aleth"
 honorific: Saint
-title: "Saint Enogatus of Aleth"
 summary: "Monk. Abbot of Saint Meen Abbey. Bishop of Aleth, Brittany, France."
 searchAliases:
   - "Enogatus of Brittany"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Illtyd"
 honorific: Saint
-title: "Saint Illtyd"
 summary: "Studied under Saint Germanus of Auxerre. Monk under the direction of Saint Cadoc. Founded the influential abbey of Llan-Illtut (Llantwit Major), which housed hundreds of monks, and became home to many Welsh saints. Defended his people against incursions from the north. To relieve"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Illtyd.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Thessalonica"
 honorific: Saint
-title: "Saint Julius of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

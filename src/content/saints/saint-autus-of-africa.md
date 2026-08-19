@@ -1,7 +1,6 @@
 ---
 name: "Saint Autus of Africa"
 honorific: Saint
-title: "Saint Autus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 searchAliases:
   - "Ulus of Africa"

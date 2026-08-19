@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Tarsus"
 honorific: Saint
-title: "Saint Juliana of Tarsus"
 summary: "Martyed with Saint Cyrenia in the persecutions of Galerius and Maximian."
 deathYear: 306
 died: "burned to death in 306 at Tarsus, Asia Minor"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ayala Garrido"
 honorific: Blessed
-title: "Blessed José Ayala Garrido"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Castro del Río community. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

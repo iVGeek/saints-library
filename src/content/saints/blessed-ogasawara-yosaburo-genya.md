@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ogasawara Yosaburo Gen'ya"
 honorific: Blessed
-title: "Blessed Ogasawara Yosaburo Gen'ya"
 summary: "Lifelong layman in the diocese of Fukuoka, Japan. Married to Blessed Ogasawara Miya Luisa. Father of Blessed Ogasawara Genpachi, Blessed Ogasawara Mari, Blessed Ogasawara Kuri, Blessed Ogasawara Sasaemon, Blessed Ogasawara Sayuemon, Blessed Ogasawara Shiro, Blessed Ogasawara Goro"
 deathYear: 1636
 born: "Buzen, Fukuoka, Japan"

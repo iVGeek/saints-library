@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Briega Morales"
 honorific: Blessed
-title: "Blessed Rafael Briega Morales"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

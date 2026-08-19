@@ -1,7 +1,6 @@
 ---
 name: "Saint Ephebus of Terni"
 honorific: Saint
-title: "Saint Ephebus of Terni"
 summary: "Gave Christian burial to Saint Valentine of Terni. Martyred in the persecutions of Aurelius."
 deathYear: 273
 died: "273 in Terni, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Armagillus of Brittany"
 honorific: Saint
-title: "Saint Armagillus of Brittany"
 summary: "Cousin of Saint Samson of York and Saint Cadfan. Monk. Abbot. Founded Saint-Armel-des-Boscheaux and Plou-Ermel monasteries in Brittany in coastal France. The church of Saint Erme in Cornwall in England is dedicated to him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Armagillus-of-Brittany1.jpg"
 searchAliases:

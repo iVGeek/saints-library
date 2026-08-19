@@ -1,7 +1,6 @@
 ---
 name: "Blessed Constantine of Orval"
 honorific: Blessed
-title: "Blessed Constantine of Orval"
 summary: "Cistercian monk. Spiritual student of Saint Bernard of Clairvaux. With abbot Roger and several brother monks, he helped found the Cistercian abbey of the Three Fountains in the diocese of Châlons-en-Champagne, France in 1118, the first daughter house of Clairvaux; soon after, Con"
 searchAliases:
   - "Constantin"

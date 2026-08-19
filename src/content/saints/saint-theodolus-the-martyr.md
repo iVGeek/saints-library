@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodolus the Martyr"
 honorific: Saint
-title: "Saint Theodolus the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomàs Capdevila Miquel"
 honorific: Blessed
-title: "Blessed Tomàs Capdevila Miquel"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

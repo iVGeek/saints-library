@@ -1,7 +1,6 @@
 ---
 name: "Saint Odran"
 honorific: Saint
-title: "Saint Odran"
 summary: "Brother of Saint Medran. Disciple of Saint Kieran of Saghir. Monk and then abbot of the monastery at Muskerry"
 feastDay:
   month: 7

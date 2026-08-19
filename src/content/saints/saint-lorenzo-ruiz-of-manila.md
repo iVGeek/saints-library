@@ -1,7 +1,6 @@
 ---
 name: "Saint Lorenzo Ruiz of Manila"
 honorific: Venerable
-title: "Saint Lorenzo Ruiz of Manila"
 summary: "Born to a Chinese father and Filipino mother, both Christians, Lorenzo learned Chinese and Tagalog at home, Spanish from the Dominicans whom he served as altar boy and sacristan. Professional calligrapher and document transcriptionist. Member of the Confraternity of the Holy Rosa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-of-Manila.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Tuci"
 honorific: Blessed
-title: "Blessed Maria Tuci"
 summary: "Educated in a Stigmatine school, when she was old enough, Maria became a Stigmatine postulant. Elementary school teacher and catechist to children. Arrested on 10 August 1949 by Albanian Communists for refusing to give information on other people, and refusing the advances of a m"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Maria_Tuci.webp"
 birthYear: 1928

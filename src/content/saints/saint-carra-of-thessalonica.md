@@ -1,7 +1,6 @@
 ---
 name: "Saint Carra of Thessalonica"
 honorific: Saint
-title: "Saint Carra of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

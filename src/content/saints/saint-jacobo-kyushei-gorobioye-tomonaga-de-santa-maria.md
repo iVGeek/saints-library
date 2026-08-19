@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacobo Kyushei Gorobioye Tomonaga de Santa María"
 honorific: Venerable
-title: "Saint Jacobo Kyushei Gorobioye Tomonaga de Santa María"
 summary: "Catechist. Joined the Dominicans in Manila, Philippines. Ordained in 1626, he returned to Japan as a missionary and to minister to covert Catholics during a period of persecution. Worked with Saint  Michaël Kurobyoe. Arrested in July 1633 for spreading Christianity, he was tortur"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg"
 searchAliases:

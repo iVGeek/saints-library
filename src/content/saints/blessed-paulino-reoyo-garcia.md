@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulino Reoyo García"
 honorific: Blessed
-title: "Blessed Paulino Reoyo García"
 summary: "Educated by the Dominicans in Almagro, Spain, Paulino joined the Dominicans on 29 September 1929, making his solemn profession on 7 October 1934. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

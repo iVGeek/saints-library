@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel of Bergamo"
 honorific: Blessed
-title: "Blessed Daniel of Bergamo"
 summary: "Venerated in Bergamo, Italy, but no details about him have survived."
 searchAliases:
   - "Daniele"

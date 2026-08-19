@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Gargallo Gascón"
 honorific: Blessed
-title: "Blessed Francisco Gargallo Gascón"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Gargallo-Gascón.jpg"
 birthYear: 1872

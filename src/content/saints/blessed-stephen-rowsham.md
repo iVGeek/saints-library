@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stephen Rowsham"
 honorific: Blessed
-title: "Blessed Stephen Rowsham"
 summary: "Studied at Oriel College, Oxford University. Anglican vicar of Saint Mary the Virgin, Oxford, England. Convert to Catholicism. Studied at the Douai College in Rheims, France. Ordained a priest in 1582 at Soissons, France. He then returned to England to minister to covert Catholic"
 searchAliases:
   - "Stephen Rouse"

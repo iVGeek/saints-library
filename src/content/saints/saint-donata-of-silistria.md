@@ -1,7 +1,6 @@
 ---
 name: "Saint Donata of Silistria"
 honorific: Saint
-title: "Saint Donata of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

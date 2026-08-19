@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Jannin"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Jannin"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Nicolò Cortese"
 honorific: Venerable
-title: "Venerable Nicolò Cortese"
 summary: "Professed priest in the Friars Minor Conventual."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/PlacidoCortese1933.jpg/960px-PlacidoCortese1933.jpg"
 searchAliases:

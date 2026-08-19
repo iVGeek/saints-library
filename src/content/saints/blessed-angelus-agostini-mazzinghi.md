@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelus Agostini Mazzinghi"
 honorific: Blessed
-title: "Blessed Angelus Agostini Mazzinghi"
 summary: "Carmelite in Florence, Italy. Priest. Professor of theology at Florence and Frascati, Italy. First member of the reformed observance of Our Lady of the Wood. Prior of several houses. Noted preacher. Eventually retired to the Carmelite house in Florence, and spent his last years i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelus-Agostini-Mazzinghi.jpg"
 birthYear: 1377

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix the Martyr"
 honorific: Saint
-title: "Saint Felix the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

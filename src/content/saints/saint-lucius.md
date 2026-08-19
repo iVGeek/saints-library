@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of Chur"
 honorific: Saint
-title: "Saint Lucius of Chur"
 summary: "Second century king or chieftain in the British Isles. Wrote to Pope Saint Eleuterus c.180 to ask for missionaries. Bede says that evangelists were sent, and had great success in the south and west of Britain and Wales. Helped found the dioceses of London, England, and Llandaff,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/St._Maria_und_Michael_Altarblatt_Hochaltar.jpg/960px-St._Maria_und_Michael_Altarblatt_Hochaltar.jpg"
 searchAliases:

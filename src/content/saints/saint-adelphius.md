@@ -1,7 +1,6 @@
 ---
 name: "Saint Adelphius of Metz"
 honorific: Saint
-title: "Saint Adelphius of Metz"
 summary: "Tenth bishop of Metz, France, serving for 17 years, bringing many pagans in the region to Christianity."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Adelphius-of-Metz.jpg"
 searchAliases:

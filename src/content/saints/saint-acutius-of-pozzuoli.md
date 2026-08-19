@@ -1,7 +1,6 @@
 ---
 name: "Saint Acutius of Pozzuoli"
 honorific: Saint
-title: "Saint Acutius of Pozzuoli"
 summary: "Christian layman imprisoned and martyred in the persecutions of Diocletian for objecting to the deaths of other martyrs."
 searchAliases:
   - "Acuzio"

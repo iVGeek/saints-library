@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Masferrer Vila"
 honorific: Blessed
-title: "Blessed Lluís Masferrer Vila"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rosa Jutglar Gallart"
 honorific: Blessed
-title: "Blessed Rosa Jutglar Gallart"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

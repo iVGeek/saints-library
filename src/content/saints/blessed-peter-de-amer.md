@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter de Amer"
 honorific: Blessed
-title: "Blessed Peter de Amer"
 summary: "Mercedarian secular knight. Elected Master-General of the Mercedarians in 1271. Wrote the first Constitutions of the Order. Founded at least 15 new Mercedarian convents in Spain and France. Led the Order for nearly 30 years until his brother Mercedarians began calling for a cleri"
 deathYear: 1301
 died: "8 June 1301 at the convent of El Puig, Spain of natural causes"

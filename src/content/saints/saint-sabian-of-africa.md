@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabian of Africa"
 honorific: Saint
-title: "Saint Sabian of Africa"
 summary: "Martyr."
 searchAliases:
   - "Sabiniana"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebio Ballesteros Rodríguez"
 honorific: Blessed
-title: "Blessed Eusebio Ballesteros Rodríguez"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Honorio"

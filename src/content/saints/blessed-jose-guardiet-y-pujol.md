@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jose Guardiet y Pujol"
 honorific: Blessed
-title: "Blessed Jose Guardiet y Pujol"
 summary: "Priest of the archdiocese of Barcelona, Spain. Rector of the parish of San Pedro in Rubi, Spain, he organized pilgrimages, supported education, and worked to make the church a hub of life for his parishioners. Had a great devotion to Our Lady of Monserrat. Imprisoned and executed"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Guardiet-y-Pujol.jpg"
 birthYear: 1879

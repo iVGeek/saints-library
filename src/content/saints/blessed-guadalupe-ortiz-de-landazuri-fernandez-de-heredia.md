@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guadalupe Ortiz de Landázuri Fernández de Heredia"
 honorific: Blessed
-title: "Blessed Guadalupe Ortiz de Landázuri Fernández de Heredia"
 summary: "Youngest of four children born to Manuel Ortiz de Landázuri, a career army officer, and Eulogia Fernández-Heredia; one of her brothers is the Servant of God Eduardo Ortiz de Landázuri Fernández de Heredia, her sister-in-law is the Servant of God Laura Busca Otaegui de Ortiz de La"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/LupeOdL.jpg/960px-LupeOdL.jpg"
 searchAliases:

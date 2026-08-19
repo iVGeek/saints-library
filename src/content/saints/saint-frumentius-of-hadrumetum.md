@@ -1,7 +1,6 @@
 ---
 name: "Saint Frumentius of Hadrumetum"
 honorific: Saint
-title: "Saint Frumentius of Hadrumetum"
 summary: "Wealthy merchant. Martyred in the persecutions of the Arian Vandal King Hunneric."
 deathYear: 484
 died: "martryred in 484 in Hadrumetum (modern Sousse, Tunisia)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucian of Tripoli"
 honorific: Saint
-title: "Saint Lucian of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"

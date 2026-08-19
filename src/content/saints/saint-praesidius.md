@@ -1,7 +1,6 @@
 ---
 name: "Saint Praesidius of Africa"
 honorific: Saint
-title: "Saint Praesidius of Africa"
 summary: "One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric."
 region: "Germany"
 feastDay:

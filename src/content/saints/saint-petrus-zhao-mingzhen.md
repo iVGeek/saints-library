@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Zhao Mingzhen"
 honorific: Venerable
-title: "Saint Petrus Zhao Mingzhen"
 summary: "Layman Christian in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion while trying to rescue some women and children from the rebels."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

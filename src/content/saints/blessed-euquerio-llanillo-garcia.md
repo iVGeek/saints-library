@@ -1,7 +1,6 @@
 ---
 name: "Blessed Euquerio Llanillo García"
 honorific: Blessed
-title: "Blessed Euquerio Llanillo García"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1937

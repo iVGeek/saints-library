@@ -1,7 +1,6 @@
 ---
 name: "Saint Berthevin of Lisieux"
 honorific: Saint
-title: "Saint Berthevin of Lisieux"
 summary: "Priest in the diocese of Bayeaux, France. During the Norman invasions, Berthevin fled to Laval, France where he became tutor to the children of the Count of Laval, and a courtier and advisor to the count. A pious and virtuous man, Berthevin spent his free time studying and in pra"
 searchAliases:
   - "Berthevin of Laval"

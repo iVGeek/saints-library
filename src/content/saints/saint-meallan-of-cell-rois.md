@@ -1,7 +1,6 @@
 ---
 name: "Saint Meallan of Cell Rois"
 honorific: Saint
-title: "Saint Meallan of Cell Rois"
 summary: "An Irish priest, he received a blessing from Saint Patrick for his desire for religious work."
 searchAliases:
   - "Meallan of Cill Ruis"

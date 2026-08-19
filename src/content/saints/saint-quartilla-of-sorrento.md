@@ -1,7 +1,6 @@
 ---
 name: "Saint Quartilla of Sorrento"
 honorific: Saint
-title: "Saint Quartilla of Sorrento"
 summary: "One of a group of three sisters and a brother who were martyred together."
 died: "Sorrento, Italy, date unknown"
 deathPlace: "Italy, date unknown"

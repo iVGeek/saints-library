@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Narbonne"
 honorific: Saint
-title: "Saint Paul of Narbonne"
 summary: "Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France."
 deathYear: 250
 died: "c.250 of natural causes"

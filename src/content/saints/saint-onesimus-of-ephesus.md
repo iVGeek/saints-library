@@ -1,7 +1,6 @@
 ---
 name: "Saint Onesimus of Ephesus"
 honorific: Saint
-title: "Saint Onesimus of Ephesus"
 summary: "Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch."
 region: "Syria"
 feastDay:

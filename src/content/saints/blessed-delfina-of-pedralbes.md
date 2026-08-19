@@ -1,7 +1,6 @@
 ---
 name: "Blessed Delfina of Pedralbes"
 honorific: Blessed
-title: "Blessed Delfina of Pedralbes"
 summary: "While we do not know of family circumstances, we do know that she was married against her will and then widowed. Delfina then entered the Poor Clare convent in the Pedralbes area of Barcelona, Spain. She was known for her piety, devotion to the religious life, and for a couple of"
 searchAliases:
   - "Delphina…"

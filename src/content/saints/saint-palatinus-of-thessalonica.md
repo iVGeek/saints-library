@@ -1,7 +1,6 @@
 ---
 name: "Saint Palatinus of Thessalonica"
 honorific: Saint
-title: "Saint Palatinus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

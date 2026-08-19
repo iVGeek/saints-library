@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Egypt"
 honorific: Saint
-title: "Martyrs of Egypt"
 summary: "Large number of bishops, priests, deacons and lay people banished when the Arian heretics seized the diocese of Alexandria, Egypt in 357 and drove out Saint Athanasius and other orthodox Christians. Many were old, many infirm, and many, many died of abuse and privations while on"
 region: "Egypt"
 feastDay:

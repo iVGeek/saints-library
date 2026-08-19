@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Michel Guérin du Rocher"
 honorific: Blessed
-title: "Blessed Pierre-Michel Guérin du Rocher"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1731
 deathYear: 1792

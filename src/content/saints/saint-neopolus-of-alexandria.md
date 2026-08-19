@@ -1,7 +1,6 @@
 ---
 name: "Saint Neopolus of Alexandria"
 honorific: Saint
-title: "Saint Neopolus of Alexandria"
 summary: "Marytred in the persecutions of Diocletian. Nothing else is known about him."
 deathYear: 304
 died: "martyred in 304 in Alexandria, Egypt"

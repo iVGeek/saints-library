@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Sanchez"
 honorific: Blessed
-title: "Blessed Peter Sanchez"
 summary: "Mercedarian. In Algiers in North Africa he ransomed 50 Christians enslaved and put to hard labour by Muslims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Sanchez.jpg"
 deathYear: 1503

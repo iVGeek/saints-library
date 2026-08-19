@@ -1,7 +1,6 @@
 ---
 name: "Saint Pothamius of Cyprus"
 honorific: Saint
-title: "Saint Pothamius of Cyprus"
 summary: "Martyr."
 died: "Cyprus"
 feastDay:

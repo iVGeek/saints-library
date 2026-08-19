@@ -1,7 +1,6 @@
 ---
 name: "Saint Nathy"
 honorific: Saint
-title: "Saint Nathy"
 summary: "Nothing reliable is known about his early life. Spiritual student of Saint Finnian of Clonnard. Priest. Founded a church and monastery at Achonry, Ireland. The monastery became a noted center for learning and piety. Spiritual teacher of Saint Fechin of Fobar. May have been a bish"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nathy-1.jpg"
 searchAliases:

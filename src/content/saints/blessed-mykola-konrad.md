@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mykola Konrad"
 honorific: Blessed
-title: "Blessed Mykola Konrad"
 summary: "Greek Catholic. Studied philosophy and theology at Rome, Italy. Ordained in 1899. Taught in high schools in Berezhony and Tereboblya. Taught at the Theological Academy in 1930. Parish priest at Stradch. Pastor of the Archeparchy of Lviv for the Ukrainians. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/en/e/e2/%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0.jpg"
 searchAliases:

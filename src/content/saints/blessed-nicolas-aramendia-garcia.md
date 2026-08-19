@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Aramendía García"
 honorific: Blessed
-title: "Blessed Nicolás Aramendía García"
 summary: "Joined the Hospitallers of Saint John of God in 1893. Served as superior of his community. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolás-Aramendía-García.jpg"
 searchAliases:

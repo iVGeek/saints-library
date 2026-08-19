@@ -1,7 +1,6 @@
 ---
 name: "Saint Pergentinus of Arezzo"
 honorific: Saint
-title: "Saint Pergentinus of Arezzo"
 summary: "Brother of Saint Laurentinus of Arezzo. Martyred in the persecutions of Decius."
 deathYear: 251
 died: "251 in Arezzo, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Drizipara"
 honorific: Saint
-title: "Saint Alexander of Drizipara"
 summary: "Third-century imperial Roman soldier and Christian. Military tribune under the command of the tribune Tiberius. In Rome, Italy Alexander was ordered to make a sacrifice to the pagan god Jupiter; he refused. Being of high rank, he was taken before Emperor Maximian Herculeus; there"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-of-Karasura.jpg"
 searchAliases:

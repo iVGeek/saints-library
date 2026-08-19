@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Augustin Robert de Lézardières"
 honorific: Blessed
-title: "Blessed Jacques-Augustin Robert de Lézardières"
 summary: "Deacon of the diocese of Luçon, France. One of the Martyrs of September."
 birthYear: 1768
 deathYear: 1792

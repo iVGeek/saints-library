@@ -1,7 +1,6 @@
 ---
 name: "Saint Rosalia"
 honorific: Saint
-title: "Saint Rosalia"
 summary: "Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne. Raised around the royal Sicilian court. From her youth, Rosalia knew she was called to dedicate her life to God. When grown, she moved to cave near her parent's home,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthonis_van_Dyck_084.jpg/960px-Anthonis_van_Dyck_084.jpg"
 searchAliases:

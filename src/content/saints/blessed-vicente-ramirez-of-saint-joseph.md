@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Ramírez of Saint Joseph"
 honorific: Blessed
-title: "Blessed Vicente Ramírez of Saint Joseph"
 summary: "Franciscan Friars Minor (Alcantarines) friary. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1597

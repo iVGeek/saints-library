@@ -1,7 +1,6 @@
 ---
 name: "Saint Juan García López-Rico"
 honorific: Venerable
-title: "Saint Juan García López-Rico"
 summary: "Fifth of eight children born to Xixón and Isabel García Marcos López-Rico; three of his siblings entered religious orders. As a child he was so drawn to follow the example of the saints that he nearly starved himself and endangered his health trying to live an ascetic life. At th"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/S%C3%A3o_Jo%C3%A3o_Batista_da_Concei%C3%A7%C3%A3o.png"
 searchAliases:

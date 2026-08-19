@@ -1,7 +1,6 @@
 ---
 name: "Saint Bruno of Segni"
 honorific: Saint
-title: "Saint Bruno of Segni"
 summary: "Born to the Italian nobility. Studied theology at the Benedictine monastery of Saint Pepetuus at Asti, Italy, and at Bologna, Italy. Benedictine, monk. Ordained in 1079, and assigned to a parish at Siena, Italy. Noted for defending orthodox Church wisdom, his knowledge of Scriptu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Segni-1.jpg"
 searchAliases:

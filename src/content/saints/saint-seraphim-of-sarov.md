@@ -1,7 +1,6 @@
 ---
 name: "Saint Seraphim of Sarov"
 honorific: Saint
-title: "Saint Seraphim of Sarov"
 summary: "Son of a builder, he had a middle-class upbringing. Monk at Sarov in 1777, taking the name Seraphim. Studious as a boy, he was able to apply himself there as the monks of Sarov spent much of the day studying Scripture and the early Church writings. Severely ill and bed-ridden fro"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Seraphim_of_Sarov_%28after_1903%2C_priv.coll%29.jpg/960px-Seraphim_of_Sarov_%28after_1903%2C_priv.coll%29.jpg"
 searchAliases:

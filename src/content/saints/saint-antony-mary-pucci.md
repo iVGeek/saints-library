@@ -1,7 +1,6 @@
 ---
 name: "Saint Antony Mary Pucci"
 honorific: Venerable
-title: "Saint Antony Mary Pucci"
 summary: "Second of seven children from a peasant family. His father was sacristan of the local church, but he opposed his son's interest in religious life. At age 18 Eustacchio joined the Servites, taking the religious name of Antony Mary. He studied the classics and theology. Ordained in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antony-Mary-Pucci-1.jpg"
 searchAliases:

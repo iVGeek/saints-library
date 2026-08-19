@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernadine Realino"
 honorific: Saint
-title: "Saint Bernadine Realino"
 summary: "Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone, Italy. Superintendent of the fiefs of the marquis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-Realino.jpg"
 searchAliases:

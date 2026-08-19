@@ -1,7 +1,6 @@
 ---
 name: "Blessed Józef Puchala"
 honorific: Blessed
-title: "Blessed Józef Puchala"
 summary: "Baptized on the day of his birth. Entered the minor seminary in Lviv (in modern Ukraine) in 1924. Franciscan Friar Minor Conventual, taking the name Achilles, and making his solemn vows on 22 May 1932. Priest, ordained on 5 July 1936. Served in the Franciscan convents in Grodno a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jozef-Puchala.jpg"
 searchAliases:

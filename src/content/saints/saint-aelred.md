@@ -1,7 +1,6 @@
 ---
 name: "Saint Aelred of Rievaulx"
 honorific: Saint
-title: "Saint Aelred of Rievaulx"
 summary: "Son of Eilaf, a priest during a period when English priests were allowed to marry, and keeper of the shrine of Hexham. Master of the household of the court of King David of Scotland. Known for his gentle spirituality and his personal austerity amid the court life. David wanted to"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/De_Speculo_Caritatis.jpeg"
 searchAliases:

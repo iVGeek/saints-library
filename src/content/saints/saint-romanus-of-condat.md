@@ -1,7 +1,6 @@
 ---
 name: "Saint Romanus of Condat"
 honorific: Saint
-title: "Saint Romanus of Condat"
 summary: "Born a Gallo-Roman; brother of Saint Lupicinus. Became a monk at Lyon, France at age 35. Hermit in Condat (modern Saint-Claude) in the Jura mountains with his brother and sister; would-be students were attracted to them. Founded abbeys of Condat and Leuconne, and the convent of L"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Romanus-of-Condat.jpg"
 birthYear: 390

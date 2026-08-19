@@ -1,7 +1,6 @@
 ---
 name: "Blessed Plácido García Gilabert"
 honorific: Blessed
-title: "Blessed Plácido García Gilabert"
 summary: "Raised in a pious family, and always known as an excellent student. Began studying at the Franciscan minor seminary in Benisa, Spain at age 12. Became a Franciscan Friar Minor on 3 October 1910, taking the name Plácido and making his solemn profession on 10 November 1914. He cont"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Plácido-García-Gilabert.jpg"
 birthYear: 1895

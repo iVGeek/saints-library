@@ -1,7 +1,6 @@
 ---
 name: "Saint Basil the Younger"
 honorific: Saint
-title: "Saint Basil the Younger"
 summary: "Hermit near Constantinople. Being a foreigner, and being odd in his appearance and behavior, he was arrested, questioned and tortured as a spy, but his gift of miracles and prophecy convinced his captors that he was just a holy man, and they freed him. Friend of Saint Theodora of"
 deathYear: 952
 died: "952 near Constantinople (modern Istanbul, Turkey) of natural causes"

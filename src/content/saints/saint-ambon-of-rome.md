@@ -1,7 +1,6 @@
 ---
 name: "Saint Ambon of Rome"
 honorific: Saint
-title: "Saint Ambon of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

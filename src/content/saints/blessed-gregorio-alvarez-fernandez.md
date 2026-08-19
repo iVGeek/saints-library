@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Álvarez Fernández"
 honorific: Blessed
-title: "Blessed Gregorio Álvarez Fernández"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Juan Pablo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Liephard of Cambrai"
 honorific: Saint
-title: "Saint Liephard of Cambrai"
 summary: "Bishop. Travelled with King Caedwalla on pilgrimage to Rome, Italy. Martyred on the return trip to England."
 searchAliases:
   - "Léoffort"

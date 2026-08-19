@@ -1,7 +1,6 @@
 ---
 name: "Saint Onorata of Albitina"
 honorific: Saint
-title: "Saint Onorata of Albitina"
 summary: "One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr."
 deathYear: 304
 died: "304"

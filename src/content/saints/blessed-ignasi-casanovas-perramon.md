@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignasi Casanovas Perramón"
 honorific: Blessed
-title: "Blessed Ignasi Casanovas Perramón"
 summary: "Son of Raimondo Casanovas Brunet and Maria Perramón Oliveras; he was baptized at the age of one day. Joined the Piarists on 21 November 1909, making his solemn vows on 30 August 1914. Ordained a priest on 17 September 1916. Worked in the Spanish cities of Terrassa, Vilanueva, Olo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignasi-Casanovas-Perramón.jpg"
 searchAliases:

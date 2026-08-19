@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Terceño Vicente"
 honorific: Blessed
-title: "Blessed Dionisio Terceño Vicente"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

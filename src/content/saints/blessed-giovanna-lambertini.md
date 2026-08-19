@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanna Lambertini"
 honorific: Blessed
-title: "Blessed Giovanna Lambertini"
 summary: "Born to the nobility, in a wealthy and powerful family, Giovanna felt a call to religious life and left the worldly one behind to become a Poor Clare nun. Spiritual student and one of 16 companions of Saint Catherine of Bologna who helped found the Corpus Domini monastery. Vicar"
 searchAliases:
   - "Sora Zovanna"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Lampsacus"
 honorific: Saint
-title: "Saint Peter of Lampsacus"
 summary: "Martyred in the persecutions of Decius for refusing to sacrifice to a statue of Venus."
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saints-Peter-and-Dionysia.jpg"
 deathYear: 250

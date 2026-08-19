@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescendo of Rome"
 honorific: Saint
-title: "Saint Crescendo of Rome"
 summary: "Martyr."
 searchAliases:
   - "Crescentio"

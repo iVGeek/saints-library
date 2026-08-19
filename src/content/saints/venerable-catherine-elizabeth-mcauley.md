@@ -1,7 +1,6 @@
 ---
 name: "Venerable Catherine Elizabeth McAuley"
 honorific: Venerable
-title: "Venerable Catherine Elizabeth McAuley"
 summary: "The daughter of James and Elinor McAuley, her father died when Catherine was 5, her mother when the girl was 20; she and her brother James then moved in with Protestant relatives. At age 25 she became household manager for William and Catherine Callaghan, and for the next 20 year"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Catherine-McAuley.jpg"
 searchAliases:

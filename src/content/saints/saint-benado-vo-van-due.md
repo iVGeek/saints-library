@@ -1,7 +1,6 @@
 ---
 name: "Saint Bênadô Võ Van Duê"
 honorific: Venerable
-title: "Saint Bênadô Võ Van Duê"
 summary: "Adult convert to Catholicism. Priest in the apostolic vicariate of East Tonkin. Worked for decades at various missions around the country. Arrested in 1838 for the crime of priesthood. One of the Martyrs of Vietnam."
 searchAliases:
   - "Bernard Due Van Vo"

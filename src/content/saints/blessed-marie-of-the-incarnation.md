@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie of the Incarnation"
 honorific: Blessed
-title: "Blessed Marie of the Incarnation"
 summary: "Daughter of a French government official named Nicholas Aurillot. Educated at her aunt's convent at Longchamps. Though attracted to religious life, she married Pierre Acarie, an aristocrat and treasury official, at age 16. Mother of six, three of whom became Carmelites, and one a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation1.jpg"
 searchAliases:

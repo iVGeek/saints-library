@@ -2,7 +2,6 @@
 name: "Blessed Antoni Lladós Salud"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf/page1-960px-Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf.jpg"
 honorific: Blessed
-title: "Blessed Antoni Lladós Salud"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Raimundo"

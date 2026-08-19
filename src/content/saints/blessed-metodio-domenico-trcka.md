@@ -1,7 +1,6 @@
 ---
 name: "Blessed Metoděj Dominik Trčka"
 honorific: Blessed
-title: "Blessed Metoděj Dominik Trčka"
 summary: " On 14 April 1950 the Communist government of Czechoslovakia outlawed religious c Redemptorist, making his profession on 25 August 1904. Priest, ordained in Prague (in modern Czech Republic) on 17 July 1910. Worked in parish missions. Vice-provincial of his order on 23 March 1946."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Metoděj-Dominik-Trčka.gif"
 searchAliases:

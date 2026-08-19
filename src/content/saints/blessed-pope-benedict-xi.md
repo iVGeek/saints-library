@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pope Benedict XI"
 honorific: Blessed
-title: "Blessed Pope Benedict XI"
 summary: "Joined the Dominicans when a young man. Ninth Master-General of his Order in 1296. Arranged an armistice between Philip IV of France and Edward I of England. Created Cardinal-Bishop of Ostia, Italy by Pope Boniface VIII. Papal legate. Defended Pope Boniface VIII against William o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lorenzo_maitani_%28attr.%29%2C_monumento_di_benedetto_XI%2C_1305_circa%2C_05%28rotated%29%28cropped%29.jpg/960px-Lorenzo_maitani_%28attr.%29%2C_monumento_di_benedetto_XI%2C_1305_circa%2C_05%28rotated%29%28cropped%29.jpg"
 searchAliases:

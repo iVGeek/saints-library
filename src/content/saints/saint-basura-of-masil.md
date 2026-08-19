@@ -1,7 +1,6 @@
 ---
 name: "Saint Basura of Masil"
 honorific: Saint
-title: "Saint Basura of Masil"
 summary: "Bishop of Masil. Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

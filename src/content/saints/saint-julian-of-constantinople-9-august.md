@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Constantinople"
 honorific: Saint
-title: "Saint Julian of Constantinople"
 summary: "One of a group of ten Christians who were arrested, tortured and executed for defending an icon of Christ in defiance of orders from Emperor Leo the Isaurian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Constantinople.jpg"
 died: "beheaded in Constantinople"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Metrodora"
 honorific: Saint
-title: "Saint Metrodora"
 summary: "Sister of Saint Menodora and Saint Nymphodora. Young Christian woman ordered to worship pagan gods during the persecutions of emperor Maximian and governor Fronto; she refused. Martyr."
 deathYear: 306
 died: "tortured, burned, beheaded in 306 in Bithynia, Asia Minor (in modern Turkey)"

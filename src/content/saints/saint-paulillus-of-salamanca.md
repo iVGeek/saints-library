@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulillus of Salamanca"
 honorific: Saint
-title: "Saint Paulillus of Salamanca"
 summary: "Younger brother of Saint Paschasius of Salamanca. Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first banished from court, then, when he continue to use the Nicene Creed, was imprisoned, tortured and martyred."
 deathYear: 437
 born: "at Salamanca, Spain"

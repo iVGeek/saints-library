@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Catherine Emmerich"
 honorific: Blessed
-title: "Blessed Anne Catherine Emmerich"
 summary: "Born to poor but pious peasants. She was a very pious child who suffered with poor health, but who received visions and prophesies; they were so common that she thought all children could see the Child Jesus and the souls in Purgatory. She was able to diagnose illness and recomme"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Anna_Katharina_Emmerick_-_Gabriel_von_Max_1885.jpg/960px-Anna_Katharina_Emmerick_-_Gabriel_von_Max_1885.jpg"
 searchAliases:

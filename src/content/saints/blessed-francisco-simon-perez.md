@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Simón Pérez"
 honorific: Blessed
-title: "Blessed Francisco Simón Pérez"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

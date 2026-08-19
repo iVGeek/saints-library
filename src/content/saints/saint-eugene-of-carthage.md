@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene of Carthage"
 honorific: Saint
-title: "Saint Eugene of Carthage"
 summary: "Bishop of Carthage, North Africa in 481. Exiled to the desert of Tripoli with many of his parishioners, some of them children, by Arian Vandals. They were allowed to return in 488, but Eugene was exiled again in 496, and he eventually settled in Albi, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-of-Carthage.jpg"
 searchAliases:

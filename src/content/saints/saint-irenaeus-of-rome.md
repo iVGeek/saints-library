@@ -1,7 +1,6 @@
 ---
 name: "Saint Irenaeus of Rome"
 honorific: Saint
-title: "Saint Irenaeus of Rome"
 summary: "Martyred with 21 Christian companions in the persecutions of Valerian."
 deathYear: 258
 died: "c.258 in Rome, Itay"

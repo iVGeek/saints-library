@@ -1,7 +1,6 @@
 ---
 name: "Saint Pedro Poveda Castroverde"
 honorific: Venerable
-title: "Saint Pedro Poveda Castroverde"
 summary: " He taught at the seminary, continued his studies, and received his licentiate in theology Raised in a pious family, Pedro felt an early call to the priesthood. He entered the seminary in Jaen, Spain in 1889, then the seminary of Guadix, Granada, Spain. Ordained on 17 April 1897."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Pedro_Poveda.jpg"
 searchAliases:

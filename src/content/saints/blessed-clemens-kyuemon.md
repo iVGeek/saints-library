@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clemens Kyuemon"
 honorific: Blessed
-title: "Blessed Clemens Kyuemon"
 summary: "Layman martyr in the archdiocese of Nagasaki, Japan."
 birthYear: 1574
 born: "c.1574 in Japan"

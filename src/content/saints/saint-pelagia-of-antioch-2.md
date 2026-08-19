@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagia of Antioch"
 honorific: Saint
-title: "Saint Pelagia of Antioch"
 summary: "One of a group of 59 Christians martyred together. No other information has survived."
 died: "Antioch, Syria"
 deathPlace: "Syria"

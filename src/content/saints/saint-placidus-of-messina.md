@@ -1,7 +1,6 @@
 ---
 name: "Saint Placidus of Messina"
 honorific: Saint
-title: "Saint Placidus of Messina"
 summary: "Young spiritual student of Saint Benedictine of Nursia. Mentioned in the Dialogues of Pope Saint Gregory the Great. Sent to Messina, Sicily, Italy to found a monastery. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Placidus-of-Messina.jpg"
 died: "6th century Messina, Sicily, Italy"

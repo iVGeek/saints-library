@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Montpeó Masip"
 honorific: Blessed
-title: "Blessed Joan Montpeó Masip"
 summary: "Seminarian of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Montpeó-Masip.jpg"
 birthYear: 1918

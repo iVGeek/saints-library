@@ -1,7 +1,6 @@
 ---
 name: "Blessed Consuelo Aguiar-Mella Díaz"
 honorific: Blessed
-title: "Blessed Consuelo Aguiar-Mella Díaz"
 summary: "Lay woman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936

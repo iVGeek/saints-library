@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacinth of Caesarea"
 honorific: Saint
-title: "Saint Hyacinth of Caesarea"
 summary: "Chamberlain to the emperor Trajan at Caesarea, Cappadocia. Imprisoned for his faith, his only food was meat that had been offered to idols; he starved rather than touch it. Martyr."
 deathYear: 120
 died: "starved to death c.120 in Caesarea, Cappadocia (in modern Turkey)"

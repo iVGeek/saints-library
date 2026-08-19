@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Aragones Mateu"
 honorific: Blessed
-title: "Blessed Josep Maria Aragones Mateu"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Lleonard Josep"

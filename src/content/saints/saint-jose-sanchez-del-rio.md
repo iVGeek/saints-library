@@ -1,7 +1,6 @@
 ---
 name: "Saint José Sánchez del Río"
 honorific: Venerable
-title: "Saint José Sánchez del Río"
 summary: "Childhood friend of Father Marcial Maciel who founded the Legionnaires of Christ and who witnessed José's death. At age 13 the boy became a flag-bearer in the Cristero army who were fighting to remain Catholic in the face of anti-religious government decrees; his two older brothe"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jos%C3%A9_S%C3%A1nchez_del_R%C3%ADo.jpg"
 birthYear: 1913

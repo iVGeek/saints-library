@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Palacio Montes"
 honorific: Blessed
-title: "Blessed José María Palacio Montes"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

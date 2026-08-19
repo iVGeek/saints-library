@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapius"
 honorific: Saint
-title: "Saint Agapius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

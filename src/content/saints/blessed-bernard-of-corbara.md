@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernard of Corbara"
 honorific: Blessed
-title: "Blessed Bernard of Corbara"
 summary: "Born to the Italian nobility, part of the family of the counts of Montemarte. A well-educated and pious young man, he was a friend and travelling companion of Saint Peter Nolasco from whom he received the Mercedarian habit as a lay knight; Bernard joined the Order on 10 August 12"
 image: "https://catholicsaints.info/wp-content/uploads/93974.jpg"
 born: "Corbara, Orvieto, Italy"

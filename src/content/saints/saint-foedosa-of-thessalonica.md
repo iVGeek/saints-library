@@ -1,7 +1,6 @@
 ---
 name: "Saint Foedosa of Thessalonica"
 honorific: Saint
-title: "Saint Foedosa of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ergnad of Ulster"
 honorific: Saint
-title: "Saint Ergnad of Ulster"
 summary: "Nun who received the veil from Saint Patrick."
 searchAliases:
   - "Ercnact"

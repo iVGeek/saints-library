@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juan José Jaime Bonal Cortada"
 honorific: Venerable
-title: "Venerable Juan José Jaime Bonal Cortada"
 summary: "Born to a deeply religious family, and received a good education, studying in Barcelona and Zaragoza, Spain. Teacher. Priest of the archdiocese of Zaragoza, Spain. He continued teaching for a while, but became so involved in ministry to the poor and sick that he had to give up te"
 birthYear: 1769
 deathYear: 1829

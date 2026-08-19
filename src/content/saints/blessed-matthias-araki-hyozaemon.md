@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matthias Araki Hyozaemon"
 honorific: Blessed
-title: "Blessed Matthias Araki Hyozaemon"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1593
 deathYear: 1626

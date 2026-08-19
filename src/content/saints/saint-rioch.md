@@ -1,7 +1,6 @@
 ---
 name: "Saint Rioch"
 honorific: Saint
-title: "Saint Rioch"
 summary: "Nephew of Saint Patrick who consecrated him as a travelling, missionary bishop. Worn from his travels, he retired to live as a monk and then abbot of the monastery Inishboffin, Ireland."
 deathYear: 480
 died: "c.480"

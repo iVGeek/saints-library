@@ -1,7 +1,6 @@
 ---
 name: "Blessed Segundo Arce Manjón"
 honorific: Blessed
-title: "Blessed Segundo Arce Manjón"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

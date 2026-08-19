@@ -1,7 +1,6 @@
 ---
 name: "Saint Absolon of Caesarea"
 honorific: Saint
-title: "Saint Absolon of Caesarea"
 summary: "Martyred at Caesarea, Cappadocia, date unknown."
 searchAliases:
   - "Absala"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugh of Bonnevaux"
 honorific: Blessed
-title: "Blessed Hugh of Bonnevaux"
 summary: "Nephew of Saint Hugh of Grenoble. Cistercian Bendictine monk at Mezieres Abbey, joining the Order in 1138. Abbot at Leoncel, France in 1163. Monk at Bonnevaux Abbey in 1169. Noted for gifts of spiritual discernment and for his ministry as an exorcist. Mediated the conflict betwee"
 searchAliases:
   - "Ugo"

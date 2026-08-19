@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas Campo Giménez"
 honorific: Blessed
-title: "Blessed Nicolas Campo Giménez"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1920
 deathYear: 1936

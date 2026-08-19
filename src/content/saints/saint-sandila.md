@@ -1,7 +1,6 @@
 ---
 name: "Saint Sandila"
 honorific: Saint
-title: "Saint Sandila"
 summary: "Martyred by Moors."
 searchAliases:
   - "Sandalus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Castulus of Rome"
 honorific: Saint
-title: "Saint Castulus of Rome"
 summary: "Married to Saint Irene of Rome. Military officer in the imperial palace in Rome during the reign of Emperor Diocletian. A quiet Christian, he was denounced to authorities for sheltering fellow Christians; arrested, tortured and martyred."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Castulus-of-Rome.jpg"
 searchAliases:

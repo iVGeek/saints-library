@@ -1,7 +1,6 @@
 ---
 name: "Saint Aresius"
 honorific: Saint
-title: "Saint Aresius"
 summary: "One of a group of seventeen martyrs in North Africa, most of whose names have been lost. No other information has survived."
 died: "North Africa, date unknown"
 deathPlace: "date unknown"

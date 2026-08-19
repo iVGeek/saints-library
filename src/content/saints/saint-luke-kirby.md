@@ -1,7 +1,6 @@
 ---
 name: "Saint Luke Kirby"
 honorific: Saint
-title: "Saint Luke Kirby"
 summary: "Educated at Cambridge University in England. Converted to Catholicism in Louvain, France. Seminarian at Douai College in 1576. Ordained at Cambrai, France in September 1577. Took the oath of the English College in Rome, Italy on 23 April 1579. Returned to England to minister to c"
 birthYear: 1549
 deathYear: 1582

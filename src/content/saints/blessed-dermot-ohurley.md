@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dermot O'Hurley"
 honorific: Blessed
-title: "Blessed Dermot O'Hurley"
 summary: "Born to a wealthy family, the son of William O'Brien O'Hurley and Honoria. Studied at the University of Leuven, Belgium where he obtained his law degree. Dean of the law school at Leuven for 15 years. Taught in Rheims, France for 4 years. Chosen archbishop of Cashel, Ireland by P"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Plaque_to_martyr_bishop.jpg/960px-Plaque_to_martyr_bishop.jpg"
 searchAliases:

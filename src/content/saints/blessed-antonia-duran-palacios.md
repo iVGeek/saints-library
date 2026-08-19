@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonia Durán Palacios"
 honorific: Blessed
-title: "Blessed Antonia Durán Palacios"
 summary: "Lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

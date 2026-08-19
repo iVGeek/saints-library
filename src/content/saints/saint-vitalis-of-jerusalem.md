@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Jerusalem"
 honorific: Saint
-title: "Saint Vitalis of Jerusalem"
 summary: "Martyr. No other information has survived."
 died: "Jerusalem"
 region: "Holy Land"

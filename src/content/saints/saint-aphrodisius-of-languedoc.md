@@ -1,7 +1,6 @@
 ---
 name: "Saint Aphrodisius of Languedoc"
 honorific: Saint
-title: "Saint Aphrodisius of Languedoc"
 summary: "Martyr. Saint Gregory of Tours wrote about him."
 died: "martyred in Languedoc, France"
 deathPlace: "France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Verdun"
 honorific: Saint
-title: "Saint Paul of Verdun"
 summary: "Courtier. Hermit on Mount Voge (modern Paulberg) near Trier, Germany. Monk at Tholey, Germany. Bishop of Verdun, France."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Paul-of-Verdun-1.jpg"
 searchAliases:

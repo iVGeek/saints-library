@@ -1,7 +1,6 @@
 ---
 name: "Saint Grimkeld of Croyland"
 honorific: Saint
-title: "Saint Grimkeld of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death."
 searchAliases:
   - "Grimkeld of Crowland"

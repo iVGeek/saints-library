@@ -1,7 +1,6 @@
 ---
 name: "Saint Deusdedit of Montecassino"
 honorific: Saint
-title: "Saint Deusdedit of Montecassino"
 summary: "Benedictine monk in the abbey of Monte Cassino, Italy. Abbot of Monte Cassino in 828. Noted for his generosity and almsgiving. Imprisoned by the Prince of Benevento, Italy, who tried to extort money from him but killed him in the process. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Deusdedit-of-Montecassino.jpg"
 searchAliases:

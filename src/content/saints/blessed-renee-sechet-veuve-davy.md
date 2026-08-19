@@ -1,7 +1,6 @@
 ---
 name: "Blessed Renée Sechet veuve Davy"
 honorific: Blessed
-title: "Blessed Renée Sechet veuve Davy"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1753
 deathYear: 1794

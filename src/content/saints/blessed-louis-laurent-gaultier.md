@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Laurent Gaultier"
 honorific: Blessed
-title: "Blessed Louis-Laurent Gaultier"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1717
 deathYear: 1792

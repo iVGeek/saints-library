@@ -1,7 +1,6 @@
 ---
 name: "Saint Candidus the Martyr"
 honorific: Saint
-title: "Saint Candidus the Martyr"
 summary: "One of a group of 22 martyrs who died together."
 deathYear: 257
 died: "c.257 in North Africa"

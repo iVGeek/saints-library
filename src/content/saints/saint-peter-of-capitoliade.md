@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Capitolíade"
 honorific: Saint
-title: "Saint Peter of Capitolíade"
 summary: "Priest. For preaching Christianity in territory held by the Saracen prince Walid, he was mutilated and executed. Martyr."
 searchAliases:
   - "Pietro di Capitolias"

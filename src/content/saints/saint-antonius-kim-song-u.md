@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius Kim Song-u"
 honorific: Venerable
-title: "Saint Antonius Kim Song-u"
 summary: "Married layman catechist in the apostolic vicariate of Korea who taught new Christians at his home. Martyr."
 searchAliases:
   - "Antonio Kim Song-u"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Alexandria"
 honorific: Saint
-title: "Saint Marcian of Alexandria"
 summary: "Martyr."
 born: "Egypt"
 died: "Alexandria, Egypt"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Toros Oghlou David"
 honorific: Blessed
-title: "Blessed Toros Oghlou David"
 summary: "Franciscan. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 deathYear: 1895

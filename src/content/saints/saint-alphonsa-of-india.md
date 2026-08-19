@@ -1,7 +1,6 @@
 ---
 name: "Saint Alphonsa of India"
 honorific: Venerable
-title: "Saint Alphonsa of India"
 summary: "Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At age 3 she contracted an infected eczema from w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsa-of-India.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Superius"
 honorific: Saint
-title: "Saint Superius"
 summary: "Missionary to the Flemish in Valenciennes (in modern France) with Saint Salvius. Murdered by a greedy local noble who opposed the work. Martyr."
 deathYear: 768
 died: "c.768 at Valenciennes (in modern France)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict of the Bridge"
 honorific: Saint
-title: "Saint Benedict of the Bridge"
 summary: "A holy man in Avignon, France who received help from an angel to build a bridge over a dangerous crossing of the Rhone River."
 searchAliases:
   - "Benet"

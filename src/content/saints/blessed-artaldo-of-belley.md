@@ -1,7 +1,6 @@
 ---
 name: "Blessed Artaldo of Belley"
 honorific: Blessed
-title: "Blessed Artaldo of Belley"
 summary: "Served briefly in the court of Amadeus III of Savoy. In 1120 he joined the Carthusians at the Charterhouse of Portes, France. Priest. He and six brother Carthusians were sent to found the house in Valromey, Switzerland. Founded the monastery of Arvières, dedicated to the Virgin M"
 image: "http://catholicsaints.info/wp-content/uploads/artoldus.jpg"
 searchAliases:

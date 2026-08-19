@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicanor Ascanio de Soria"
 honorific: Blessed
-title: "Blessed Nicanor Ascanio de Soria"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicanor-Ascanio-de-Soria.jpg"
 birthYear: 1814

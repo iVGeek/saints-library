@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine Androuin"
 honorific: Blessed
-title: "Blessed Perrine Androuin"
 summary: "Lay woman from the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1760
 deathYear: 1794

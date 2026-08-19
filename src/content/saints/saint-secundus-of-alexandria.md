@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of Alexandria"
 honorific: Saint
-title: "Saint Secundus of Alexandria"
 summary: "Priest. Martyred along with a group of unnamed clergy in the persecutions of Constantius for opposing the Arian heresy."
 deathYear: 357
 died: "Pentecost season in 357 at Alexandria, Egypt"

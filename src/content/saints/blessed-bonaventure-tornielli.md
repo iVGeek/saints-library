@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonaventure Tornielli"
 honorific: Blessed
-title: "Blessed Bonaventure Tornielli"
 summary: "Joined the Servite Order in 1448, and became a Bible expert. Though he was noted by his brothers for his love of contemplative silence, he became one of the greatest Servite preachers, preaching missions throughout southern Italy and the Papal States, always on the theme of repen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventure-Tornielli.jpg"
 searchAliases:

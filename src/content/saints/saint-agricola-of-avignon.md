@@ -1,7 +1,6 @@
 ---
 name: "Saint Agricola of Avignon"
 honorific: Saint
-title: "Saint Agricola of Avignon"
 summary: "Son of Saint Magnus of Avignon, a Gallo-Roman senator who became a monk and then bishop. Agricola moved to Lerins, France, his father's see, at age 14. Monk there at age 16. Ordained in Lerins. Co-bishop of Avignon with his father in 660. Bishop in 670. Built a church and Benedic"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avignon_Saint_Agricol_50648.JPG/960px-Avignon_Saint_Agricol_50648.JPG"
 searchAliases:

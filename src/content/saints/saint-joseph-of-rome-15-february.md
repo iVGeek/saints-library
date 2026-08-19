@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph of Rome"
 honorific: Saint
-title: "Saint Joseph of Rome"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

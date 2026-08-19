@@ -1,7 +1,6 @@
 ---
 name: "Saint Aedh mac Bricc"
 honorific: Saint
-title: "Saint Aedh mac Bricc"
 summary: "Son of Breece (Bricc) of the Hy Neill, the boy grew up working on his father's farm. When his father died, Aedh's brother refused to give him his rightful inheritance. Aedh planned to kidnap a girl from his brother's household to force the issue, but Illathan, bishop of Rathlihen"
 searchAliases:
   - "Aedh mac Breece"

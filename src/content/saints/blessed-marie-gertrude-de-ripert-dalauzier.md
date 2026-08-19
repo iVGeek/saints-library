@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Gertrude de Ripert d’Alauzier"
 honorific: Blessed
-title: "Blessed Marie-Gertrude de Ripert d’Alauzier"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

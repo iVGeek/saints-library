@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ladislaus Findysz"
 honorific: Blessed
-title: "Blessed Ladislaus Findysz"
 summary: "Born to pious peasants, the son of Stanislaus Findysz and Apollonia Rachwal. Received his early education from the Felician Sisters. Joined the Marian Solidality as a young student. Entered the major seminary in Przemysl in the autumn of 1927. Spiritual student of Blessed John Ba"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislaus-Findysz.jpg"
 searchAliases:

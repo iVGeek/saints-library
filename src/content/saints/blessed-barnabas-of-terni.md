@@ -1,7 +1,6 @@
 ---
 name: "Blessed Barnabas of Terni"
 honorific: Blessed
-title: "Blessed Barnabas of Terni"
 summary: "Born to the Italian nobility, Barnabas was well educated and earned a doctorate in medicine. He joined the Franciscan Friars Minor in Umbria, Italy and devoted himself to studying theology and to preaching until health problems forced him to retire for a while from public life. W"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Barnabas-of-Terni.jpg"
 searchAliases:

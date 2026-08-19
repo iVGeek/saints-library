@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Numidia"
 honorific: Saint
-title: "Saint Paul of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

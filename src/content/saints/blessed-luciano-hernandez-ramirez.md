@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luciano Hernández Ramírez"
 honorific: Blessed
-title: "Blessed Luciano Hernández Ramírez"
 summary: "Priest. Dominican. Martyred in the Spanish Civil War."
 searchAliases:
   - "Reginaldo"

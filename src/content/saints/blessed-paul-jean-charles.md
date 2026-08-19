@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paul-Jean Charles"
 honorific: Blessed
-title: "Blessed Paul-Jean Charles"
 summary: "Trappist monk. Priest. Prior of the Sept-Fons abbey. In 1791, the anti-Catholic forces of the French Revolution suppressed his abbey; Prior Paul-Jean took his brother monks to the abandoned monastery in Montluçon, France. That house was suppressed in February 1793. On 30 March 17"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1743

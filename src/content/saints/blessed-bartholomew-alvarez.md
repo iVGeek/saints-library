@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartholomew Alvarez"
 honorific: Blessed
-title: "Blessed Bartholomew Alvarez"
 summary: "Joined the Jesuits at Coimbra, Portugal. Missionary to the kingdom of Tonkin (modern Vietnam). Arrested in March 1736. Tortured and martyred for his work."
 deathYear: 1737
 born: "near Braganza, Portugual"

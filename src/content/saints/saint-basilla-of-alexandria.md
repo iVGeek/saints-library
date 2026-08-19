@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilla of Alexandria"
 honorific: Saint
-title: "Saint Basilla of Alexandria"
 summary: "Martyr."
 died: "4th century Alexandria, Egypt"
 deathPlace: "Egypt"

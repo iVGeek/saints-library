@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassus of Silistria"
 honorific: Saint
-title: "Saint Bassus of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

@@ -1,7 +1,6 @@
 ---
 name: "Blessed André Duliou"
 honorific: Blessed
-title: "Blessed André Duliou"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Martyrs-of-Laval.jpg"
 birthYear: 1727

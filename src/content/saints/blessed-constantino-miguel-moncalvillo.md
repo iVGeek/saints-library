@@ -1,7 +1,6 @@
 ---
 name: "Blessed Constantino Miguel Moncalvillo"
 honorific: Blessed
-title: "Blessed Constantino Miguel Moncalvillo"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

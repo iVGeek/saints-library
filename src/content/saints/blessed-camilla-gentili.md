@@ -1,7 +1,6 @@
 ---
 name: "Blessed Camilla Gentili"
 honorific: Blessed
-title: "Blessed Camilla Gentili"
 summary: "Born to the Italian nobility. Friend and supporter of the future Pope Benedict XIV. Suffered through an arranged marriage to the violent, abusive and anti-religious Baptiste Santucci who hated her family for their Catholicism, and in 1482 killed Pierozzo Grassi for being a pious"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Camilla_gentili_rovellone.jpg"
 deathYear: 1486

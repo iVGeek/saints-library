@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomas of Taw"
 honorific: Saint
-title: "Saint Thomas of Taw"
 died: "beheaded in Taw, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
 region: "Egypt"

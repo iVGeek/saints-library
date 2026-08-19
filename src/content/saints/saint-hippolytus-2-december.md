@@ -1,7 +1,6 @@
 ---
 name: "Saint Hippolytus"
 honorific: Saint
-title: "Saint Hippolytus"
 summary: "Martyred in the persecution of Valerian."
 deathYear: 258
 born: "Roman"

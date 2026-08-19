@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-Urbain Salins de Niart"
 honorific: Blessed
-title: "Blessed François-Urbain Salins de Niart"
 summary: "Priest of the diocese of Pamiers, France. One of the Martyrs of September."
 birthYear: 1760
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilides of Alexandria"
 honorific: Saint
-title: "Saint Basilides of Alexandria"
 summary: "Pagan Roman soldier. Guard to the prefect of Egypt. Defended Saint Potomiana from the mob as she was being led to her martyrdom. She appeared to Basilides in visions each of three nights after her martyrdom, claiming to be praying for him and his conversion. He converted and was"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Basilides-of-Alexandria.jpg"
 searchAliases:

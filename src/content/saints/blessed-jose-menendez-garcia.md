@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Menéndez García"
 honorific: Blessed
-title: "Blessed José Menéndez García"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

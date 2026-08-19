@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan José Vivas-Pérez Bustos"
 honorific: Blessed
-title: "Blessed Juan José Vivas-Pérez Bustos"
 summary: "Raised in a pious family who was very involved with the Church and parish life, Juan studied with the Jesuits in Chamartin, Spain, then studied to become a pharmacist and enter the family business. With his father, he helped open and support several schools and a Catholic newspap"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Jose-Vivas-Perez-Bustos.jpg"
 birthYear: 1901

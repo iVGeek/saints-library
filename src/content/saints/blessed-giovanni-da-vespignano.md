@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni da Vespignano"
 honorific: Blessed
-title: "Blessed Giovanni da Vespignano"
 summary: "Born to the wealthy nobility. From his youth he felt drawn to religious vocation, gave up his claim to wealth and moved to the area of Florence, Italy where he was known for his simple life, his charity and his work to care for war refugees. Legend says that when he paused in the"
 searchAliases:
   - "John of Vespignano"

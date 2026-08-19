@@ -1,7 +1,6 @@
 ---
 name: "Saint Gabriel of Our Lady of Sorrows"
 honorific: Venerable
-title: "Saint Gabriel of Our Lady of Sorrows"
 summary: "One of thirteen children. After a youth devoted to the world and society, attending the theatre, chasing women and the hunt, he was led to the Passionist Order by Our Lady, making his profession on 22 September 1857. His life was not marked by great events or controversy, but giv"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Gabriel7.jpg"
 searchAliases:

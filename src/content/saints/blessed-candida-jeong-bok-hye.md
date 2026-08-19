@@ -1,7 +1,6 @@
 ---
 name: "Blessed Candida Jeong Bok-hye"
 honorific: Blessed
-title: "Blessed Candida Jeong Bok-hye"
 summary: "Married lay woman martyr in the apostolic vicariate of Korea."
 deathYear: 1801
 born: "near Seoul, South Korea"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agnes Phila"
 honorific: Blessed
-title: "Blessed Agnes Phila"
 summary: "Daughter of Joachim and Anna Thit Son Chum; she was baptized in Viengkhuk, Thaland in 1924, and her god-mother was the aunt of Sister Lúcia dos Santos. Joined the Congregation of the Lovers of the Cross in Siengvang, Laos, taking the name Agnes and making her final vows on 16 Nov"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Martyrs_of_Thailand_2.jpg/330px-Martyrs_of_Thailand_2.jpg"
 searchAliases:

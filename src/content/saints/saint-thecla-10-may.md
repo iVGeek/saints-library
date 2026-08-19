@@ -1,7 +1,6 @@
 ---
 name: "Saint Thecla"
 honorific: Saint
-title: "Saint Thecla"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 5

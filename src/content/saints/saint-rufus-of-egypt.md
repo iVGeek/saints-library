@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus of Egypt"
 honorific: Saint
-title: "Saint Rufus of Egypt"
 summary: "An ascetic hermit in the desert of 5th century Egypt."
 region: "Egypt"
 feastDay:

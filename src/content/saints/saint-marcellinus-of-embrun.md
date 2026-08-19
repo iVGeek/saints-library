@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Embrun"
 honorific: Saint
-title: "Saint Marcellinus of Embrun"
 summary: "Priest. Missionary to the Dauphiné area of France and Switzerland in the early 4th century. First Bishop of Embrun, France, consecrated by Saint Eusebius of Vercelli. When the Arian heresy arrived in his area, Marcellinus was forced to flee into the mountains and care for his dio"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marcellinus.jpg"
 searchAliases:

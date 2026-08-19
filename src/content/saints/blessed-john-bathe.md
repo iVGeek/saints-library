@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Bathe"
 honorific: Blessed
-title: "Blessed John Bathe"
 summary: "Jesuit priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"

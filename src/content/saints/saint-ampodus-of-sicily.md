@@ -1,7 +1,6 @@
 ---
 name: "Saint Ampodus of Sicily"
 honorific: Saint
-title: "Saint Ampodus of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"

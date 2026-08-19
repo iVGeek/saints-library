@@ -1,7 +1,6 @@
 ---
 name: "Saint Julitta of Iconium"
 honorific: Saint
-title: "Saint Julitta of Iconium"
 summary: "Mother of Saint Cyriacus of Iconium. Widow. Moved from Iconium to Isauria to avoid persecution as a Christian. Tortured and martyred during the persecutions of Diocletian. Legend says that from the site of her burial there erupted a miraculous spring of water that cured the sick"
 image: "http://catholicsaints.info/wp-content/uploads/img-Quricus-and-Juliet.jpg"
 searchAliases:

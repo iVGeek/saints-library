@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles of Austria"
 honorific: Blessed
-title: "Blessed Charles of Austria"
 summary: "Son of Archduke Otto and Princess Maria Josephine of Saxony; great-nephew of Emperor Francis Joseph I. A stigmatic nun prophesied that he would be the victim of attacks and great suffering. A group of people were specifically assigned to pray for him at all times; after his death"
 image: "http://catholicsaints.info/wp-content/uploads/img-Charles-I-of-Austria.jpg"
 searchAliases:

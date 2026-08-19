@@ -1,7 +1,6 @@
 ---
 name: "Saint John Nepomucene Neumann"
 honorific: Venerable
-title: "Saint John Nepomucene Neumann"
 summary: "Son of Philip, who was German and owned a stocking factory, and Agnes Neumann who was Czech. John was a small and quiet boy with four sisters and a brother, and was named after Saint John Nepomucene. An excellent student, John early felt drawn to religious life. Seminarian at Bud"
 image: "http://catholicsaints.info/wp-content/gallery/saint-john-nepomucene-neumann/saint-john-nepomucene-neumann-01.gif"
 searchAliases:

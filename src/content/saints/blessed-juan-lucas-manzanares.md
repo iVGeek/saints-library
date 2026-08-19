@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Lucas Manzanares"
 honorific: Blessed
-title: "Blessed Juan Lucas Manzanares"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Braulio Carlos"

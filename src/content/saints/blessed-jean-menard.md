@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Ménard"
 honorific: Blessed
-title: "Blessed Jean Ménard"
 summary: "Married layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1736
 deathYear: 1794

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucundinus of Troyes"
 honorific: Saint
-title: "Saint Jucundinus of Troyes"
 summary: "Martyred in the persecutions of Aurelian. No other information has survived."
 deathYear: 273
 died: "273 at Troyes, Gaul (modern France)"

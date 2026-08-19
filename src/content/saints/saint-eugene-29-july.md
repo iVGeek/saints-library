@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene"
 honorific: Saint
-title: "Saint Eugene"
 summary: "Pagan barbarian who kidnapped and enslaved Saint Lucilla of Rome and Saint Flora of Rome. Their example converted him to Christianity, which led to their freedom. Eugene became one of 23 Christians martyred together in the persecutions of Gallienus."
 searchAliases:
   - "Eugenius"

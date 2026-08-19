@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Delgado Pérez"
 honorific: Blessed
-title: "Blessed José Delgado Pérez"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936

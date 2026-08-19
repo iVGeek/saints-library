@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus of Rome"
 honorific: Saint
-title: "Saint Rufus of Rome"
 summary: "Brought to Rome with Saint Ignatius of Antioch and Saint Zosimus during the persecutions of Trajan. Marytr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Rome.jpg"
 deathYear: 107

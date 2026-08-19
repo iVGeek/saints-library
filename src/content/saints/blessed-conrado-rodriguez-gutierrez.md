@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conrado Rodríguez Gutiérrez"
 honorific: Blessed
-title: "Blessed Conrado Rodríguez Gutiérrez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintius of Capua"
 honorific: Saint
-title: "Saint Quintius of Capua"
 summary: "Martyr."
 died: "Capua, Italy"
 deathPlace: "Italy"

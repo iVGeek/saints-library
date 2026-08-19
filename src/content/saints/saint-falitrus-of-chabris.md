@@ -1,7 +1,6 @@
 ---
 name: "Saint Falitrus of Chabris"
 honorific: Saint
-title: "Saint Falitrus of Chabris"
 summary: "Hermit in Berry, France. Pilgrim to Jerusalem and the Holy Lands; tradition says he brought back relics of the Blessed Virgin Mary. Monk at Issoudun, France. Hermit at Chabris, France."
 searchAliases:
   - "Faletrius"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rupert Mayer"
 honorific: Blessed
-title: "Blessed Rupert Mayer"
 summary: "Rupert grew up in a family with five children and received his basic education in Stuttgart, Germany. Feeling a call to the priesthood, he studied philosophy and theology in Freiburg, Switzerland, then in Munich and Tübingen in Germany. Ordained a priest in 1899. Assistant pastor"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/64/RupertMayer.jpg"
 searchAliases:

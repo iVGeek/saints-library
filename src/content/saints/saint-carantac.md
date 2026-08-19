@@ -1,7 +1,6 @@
 ---
 name: "Saint Carantac"
 honorific: Saint
-title: "Saint Carantac"
 summary: "Worked with Saint Patrick to bring Christianity to Ireland."
 searchAliases:
   - "Carantog"

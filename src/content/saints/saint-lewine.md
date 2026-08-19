@@ -1,7 +1,6 @@
 ---
 name: "Saint Lewine"
 honorific: Saint
-title: "Saint Lewine"
 summary: "Fourth century nun in England. Martyred by invading pagan Saxons."
 born: "Flanders (in modern Belgium)"
 died: "England"

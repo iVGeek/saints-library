@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Martínez López"
 honorific: Blessed
-title: "Blessed Antonio Martínez López"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Boher y Foix"
 honorific: Blessed
-title: "Blessed José Boher y Foix"
 summary: "The son of Mattia Boher and Benvenuta Foix. He studied in seminary of the diocese of Urgel, Spain, and was ordained a priest on 11 April 1914. He served as coadjutor in various parishes and in 1929 was appointed parish priest of Pobleta di Belvehí. Martyred in the Spanish Civil W"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Boher-y-Foix.jpg"
 birthYear: 1887

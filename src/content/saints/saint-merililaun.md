@@ -1,7 +1,6 @@
 ---
 name: "Saint Merililaun"
 honorific: Saint
-title: "Saint Merililaun"
 summary: "Eighth century pilgrim, martyred while en route to Rome, Italy."
 searchAliases:
   - "Merlilaun"

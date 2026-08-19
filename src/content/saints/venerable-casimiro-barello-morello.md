@@ -1,7 +1,6 @@
 ---
 name: "Venerable Casimiro Barello Morello"
 honorific: Venerable
-title: "Venerable Casimiro Barello Morello"
 summary: "Layman."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Casimiro-Barello-Morello.jpg"
 birthYear: 1857

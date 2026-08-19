@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Cermeño Barceló"
 honorific: Blessed
-title: "Blessed Gregorio Cermeño Barceló"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Cermeño-Barceló.jpg"
 birthYear: 1874

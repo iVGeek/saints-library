@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Amorium"
 honorific: Saint
-title: "Martyrs of Amorium"
 summary: "A group of 42 Christian senior officials in the Byzantine empire who were captured by forces of the Abbasid Caliphate when the Muslim forces overran the city of Amorium, Phrygia in 838 and massacred or enslaved its population. The men were imprisoned in Samarra, the seat of the C"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg"
 searchAliases:

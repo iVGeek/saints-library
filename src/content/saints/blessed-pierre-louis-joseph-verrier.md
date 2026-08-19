@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Louis-Joseph Verrier"
 honorific: Blessed
-title: "Blessed Pierre-Louis-Joseph Verrier"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1728
 deathYear: 1792

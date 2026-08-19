@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diogo de Andrade"
 honorific: Blessed
-title: "Blessed Diogo de Andrade"
 summary: "Jesuit priest. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1531
 deathYear: 1570

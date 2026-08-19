@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Asuncion"
 honorific: Blessed
-title: "Blessed Maria Asuncion"
 summary: "Daughter of Anacleto González and María del Rosario Trujillano, Juliana was baptized at the age of 11 days. Tertiary in the Franciscan Sisters of the Divine Shepherdess (now known as the Franciscan Missionaries of the Divine Motherhood) in 1900. She joined the Sisters at the Madr"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Asuncion.jpg"
 searchAliases:

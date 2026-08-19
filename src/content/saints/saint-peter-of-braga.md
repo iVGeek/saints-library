@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Braga"
 honorific: Saint
-title: "Saint Peter of Braga"
 summary: "First bishop of Braga, Portugal. Martyr"
 region: "Portugal"
 feastDay:

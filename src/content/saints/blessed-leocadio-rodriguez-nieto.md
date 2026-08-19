@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leocadio Rodríguez Nieto"
 honorific: Blessed
-title: "Blessed Leocadio Rodríguez Nieto"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Miguel Ireneo"

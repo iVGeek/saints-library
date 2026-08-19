@@ -1,7 +1,6 @@
 ---
 name: "Venerable Praxedes Fernández García de Fernández"
 honorific: Venerable
-title: "Venerable Praxedes Fernández García de Fernández"
 summary: "Married lay woman in the diocese of Oviedo, Spain. Dominican tertiary."
 deathYear: 1936
 died: "6 October 1936 in Oviedo, Asturias, Spain of natural causes"

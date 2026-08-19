@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Velasco y Velasco"
 honorific: Blessed
-title: "Blessed Benito Velasco y Velasco"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

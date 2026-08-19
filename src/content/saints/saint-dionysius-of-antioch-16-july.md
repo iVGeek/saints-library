@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Antioch"
 honorific: Saint
-title: "Saint Dionysius of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria, date unknown"
 deathPlace: "Syria, date unknown"

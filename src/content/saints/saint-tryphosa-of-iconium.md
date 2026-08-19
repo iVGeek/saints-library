@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphosa of Iconium"
 honorific: Saint
-title: "Saint Tryphosa of Iconium"
 summary: "Convert. Knew and were mentioned by Saint Paul the Apostle in the Letter to the Romans. Tradition associates her with Saint Thecla of Iconium."
 died: "1st century at Iconium, Lycaonia (in modern Turkey)"
 deathPlace: "Lycaonia (modern Turkey)"

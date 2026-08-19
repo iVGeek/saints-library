@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Mesopotamia"
 honorific: Saint
-title: "Saint Eutychius of Mesopotamia"
 summary: "One of a group of Christians murdered for their faith in Mesopotamia after the conquest by Muslims. Martyr."
 searchAliases:
   - "Eustathius"

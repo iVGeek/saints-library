@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena Ariie"
 honorific: Blessed
-title: "Blessed Magdalena Ariie"
 summary: "Married lay woman in the diocese of Niigata, Japan. Martyr."
 deathYear: 1629
 born: "Nukayama, Yonezawa, Yamagata, Japan"

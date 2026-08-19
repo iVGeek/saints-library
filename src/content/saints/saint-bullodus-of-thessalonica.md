@@ -1,7 +1,6 @@
 ---
 name: "Saint Bullodus of Thessalonica"
 honorific: Saint
-title: "Saint Bullodus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

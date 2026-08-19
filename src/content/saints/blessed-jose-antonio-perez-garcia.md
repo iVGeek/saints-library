@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Antonio Pérez García"
 honorific: Blessed
-title: "Blessed José Antonio Pérez García"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

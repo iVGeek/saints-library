@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Palos Gascón"
 honorific: Blessed
-title: "Blessed Ramón Palos Gascón"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Cayetano José"

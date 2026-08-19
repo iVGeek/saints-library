@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Motoyama"
 honorific: Blessed
-title: "Blessed Ioannes Motoyama"
 summary: "Member of the royal house of Firando. Relative of Blessed Ioannes Iwanga. Layman. Martyr."
 searchAliases:
   - "John"

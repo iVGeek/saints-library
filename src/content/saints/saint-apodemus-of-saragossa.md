@@ -1,7 +1,6 @@
 ---
 name: "Saint Apodemus of Saragossa"
 honorific: Saint
-title: "Saint Apodemus of Saragossa"
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean."
 searchAliases:
   - "Apodemius"

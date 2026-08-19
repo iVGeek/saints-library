@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Carmaniú Mercarder"
 honorific: Blessed
-title: "Blessed Antoni Carmaniú Mercarder"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antoni-Carmaniú-Mercarder.jpg"
 birthYear: 1860

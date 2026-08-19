@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Claude-Cyprienne Brard"
 honorific: Blessed
-title: "Blessed Marie-Claude-Cyprienne Brard"
 summary: "Carmelite nun, professed in 1757. One of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic excesses of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 birthYear: 1736

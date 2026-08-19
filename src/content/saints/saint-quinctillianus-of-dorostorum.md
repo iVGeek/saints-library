@@ -1,7 +1,6 @@
 ---
 name: "Saint Quinctillianus of Dorostorum"
 honorific: Saint
-title: "Saint Quinctillianus of Dorostorum"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "beheaded c.303 in Dorostorum, Lower Mysia (modern Sillistria, Bulgaria"

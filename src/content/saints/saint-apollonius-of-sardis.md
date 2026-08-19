@@ -1,7 +1,6 @@
 ---
 name: "Saint Apollonius of Sardis"
 honorific: Saint
-title: "Saint Apollonius of Sardis"
 summary: "Fourth-century evangelist who brought many to the faith. Scourged and executed by Prefect Perinius. Martyr."
 searchAliases:
   - "Apollonio"

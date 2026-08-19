@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Africa"
 honorific: Saint
-title: "Saint Victor of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "Africa"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bazalota of Abyssinia"
 honorific: Saint
-title: "Saint Bazalota of Abyssinia"
 summary: "4th century nun in Abyssinia (modern Ethiopia)."
 feastDay:
   month: 6

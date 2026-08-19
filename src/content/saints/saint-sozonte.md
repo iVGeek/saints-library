@@ -1,7 +1,6 @@
 ---
 name: "Saint Sozonte"
 honorific: Saint
-title: "Saint Sozonte"
 summary: "Christian who smashed up a silver idol and gave the pieces to the poor to buy food. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sozonte.jpg"
 searchAliases:

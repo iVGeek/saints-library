@@ -1,7 +1,6 @@
 ---
 name: "Saint Modestus the Martyr"
 honorific: Saint
-title: "Saint Modestus the Martyr"
 summary: "One of a group of 50 soldiers martyred in Africa. No other information about them has survived."
 died: "in Africa"
 region: "England"

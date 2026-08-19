@@ -2,7 +2,6 @@
 name: "Blessed Adam of Saxony"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Reichst%C3%A4dt_Adam_Rudolph_von_Sch%C3%B6nberg_%2805%29.JPG/960px-Reichst%C3%A4dt_Adam_Rudolph_von_Sch%C3%B6nberg_%2805%29.JPG"
 honorific: Blessed
-title: "Blessed Adam of Saxony"
 summary: "Benedictine Cistercian priest. Sacristan at the Cistercian Loccum Abbey in Saxony (modern Hanover, Germany. Noted for his strong devotion to the Blessed Virgin Mary; he is reported to have received visions of her, received two miraculous healings, and been a miracle worker."
 searchAliases:
   - "Adam of Loccum"

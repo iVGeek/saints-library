@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Tarín Curto"
 honorific: Blessed
-title: "Blessed Josep Maria Tarín Curto"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

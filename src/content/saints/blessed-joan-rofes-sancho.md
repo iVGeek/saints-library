@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Rofes Sancho"
 honorific: Blessed
-title: "Blessed Joan Rofes Sancho"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

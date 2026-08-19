@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Frías Ruiz"
 honorific: Blessed
-title: "Blessed José Frías Ruiz"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

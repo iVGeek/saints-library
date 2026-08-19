@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassianus of Alexandria"
 honorific: Saint
-title: "Saint Bassianus of Alexandria"
 summary: "Lector. Martyr."
 searchAliases:
   - "Bassian"

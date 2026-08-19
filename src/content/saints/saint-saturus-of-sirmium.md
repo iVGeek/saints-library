@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturus of Sirmium"
 honorific: Saint
-title: "Saint Saturus of Sirmium"
 summary: "One of a group of fourth century martyrs at Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)."
 feastDay:
   month: 4

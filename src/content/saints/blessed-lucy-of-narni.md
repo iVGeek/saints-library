@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucy of Narni"
 honorific: Blessed
-title: "Blessed Lucy of Narni"
 summary: "The eldest of eleven children of Bartolomeo Broccadelli and Gentilina Cassio. A pious child, at age five she received a vision of Our Lady, and at age seven she saw Mary and received a scapular from Saint Dominic de Guzman. By age twelve she had taken private vows and had decided"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-of-Narni-2.jpg"
 searchAliases:

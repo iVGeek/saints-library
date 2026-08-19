@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Bruno"
 honorific: Blessed
-title: "Blessed Francis Bruno"
 summary: "Franciscan. A pious mystic, he received several visions, including one of Paradise. Known as a miracle worker."
 searchAliases:
   - "Francesco"

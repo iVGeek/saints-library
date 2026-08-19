@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Antonella Bordoni"
 honorific: Venerable
-title: "Venerable Maria Antonella Bordoni"
 summary: "Lay woman. Dominican tertiary. Founded the Lay Fraternity of the Little Daughters of the Mother of God."
 birthYear: 1916
 deathYear: 1978

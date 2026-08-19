@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Baptist Spagnuolo"
 honorific: Blessed
-title: "Blessed John Baptist Spagnuolo"
 summary: "Son of Peter Spagnoli, a Spanish nobleman assigned to the court in Mantua, Italy. Studied in Padua, Italy where a wild life put him briefly at the mercy of loan sharks, and got him thrown out of his father's house. Drifted through Venice, Italy. Experienced a conversion to the fa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Baptist-Spagnuolo-1.jpg"
 searchAliases:

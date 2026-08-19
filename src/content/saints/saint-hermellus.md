@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermellus"
 honorific: Saint
-title: "Saint Hermellus"
 summary: "Hermit. Martyr."
 feastDay:
   month: 8

@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Concepción Odriozola Zabalía"
 honorific: Blessed
-title: "Blessed María Concepción Odriozola Zabalía"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María Concepción of Saint Ignatius"

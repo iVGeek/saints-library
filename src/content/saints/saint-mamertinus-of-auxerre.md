@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamertinus of Auxerre"
 honorific: Saint
-title: "Saint Mamertinus of Auxerre"
 summary: "Monk and then abbot at the Saints Cosmas and Damian Abbey in Auxerre, France."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saint_mamertinus.jpg"
 deathYear: 462

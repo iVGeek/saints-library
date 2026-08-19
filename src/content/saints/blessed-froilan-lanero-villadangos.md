@@ -1,7 +1,6 @@
 ---
 name: "Blessed Froilán Lanero Villadangos"
 honorific: Blessed
-title: "Blessed Froilán Lanero Villadangos"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

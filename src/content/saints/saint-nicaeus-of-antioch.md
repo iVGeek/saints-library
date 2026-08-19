@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicaeus of Antioch"
 honorific: Saint
-title: "Saint Nicaeus of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch, Syria"
 deathPlace: "Syria"

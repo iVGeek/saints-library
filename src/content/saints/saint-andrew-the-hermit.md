@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew the Hermit"
 honorific: Saint
-title: "Saint Andrew the Hermit"
 summary: "Camaldolese hermit in Moravia and Hungary. Martyr."
 deathYear: 1020
 born: "Poland"

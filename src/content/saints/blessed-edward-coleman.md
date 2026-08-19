@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Coleman"
 honorific: Blessed
-title: "Blessed Edward Coleman"
 summary: "Educated at Cambridge. Convert to Catholicism. Secretary to the duchess of York. Falsely condemned as being part of the Titus Oates Plot. Martyr."
 deathYear: 1678
 born: "Suffolk, England"

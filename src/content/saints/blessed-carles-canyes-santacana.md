@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carles Canyes Santacana"
 honorific: Blessed
-title: "Blessed Carles Canyes Santacana"
 summary: "Franciscan Capuchin friar, joining on 25 July 1933. He never made his solemn profession as he was murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Marçal of Vilafranca De Penedès"

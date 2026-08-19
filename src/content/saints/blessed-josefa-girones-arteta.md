@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Gironés Arteta"
 honorific: Blessed
-title: "Blessed Josefa Gironés Arteta"
 summary: "Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936

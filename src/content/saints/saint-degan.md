@@ -1,7 +1,6 @@
 ---
 name: "Saint Degan"
 honorific: Saint
-title: "Saint Degan"
 summary: "Sixth century spiritual student of Saint Petroc in Cornwall."
 searchAliases:
   - "Dagan"

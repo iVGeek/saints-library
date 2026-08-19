@@ -1,7 +1,6 @@
 ---
 name: "Saint Evette of Brittany"
 honorific: Saint
-title: "Saint Evette of Brittany"
 summary: "Sister of Saint Demet of Plozévet. The siblings survived a shipwreck and washed up on the beach of Plozèvet in the bay of Audierne at Penhors, Brittany, France. There she became a hermitess. She became the target of fear, harassment and finally violence by local pagans who accuse"
 searchAliases:
   - "Edwette"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Simeon of Syracuse"
 honorific: Saint
-title: "Saint Simeon of Syracuse"
 summary: "His father was Greek, his mother Calabrian. Educated in Constantinople. Pilgrim to the Holy Lands where he supported himself by serving as tour guide to other pilgrims. Spoke Greek, Latin, Coptic, Syriac and Arabic. Monk in Bethlehem. Deacon. Hermit beside the River Jordan. Monk"
 searchAliases:
   - "Simeon of Trier"

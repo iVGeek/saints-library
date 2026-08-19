@@ -1,7 +1,6 @@
 ---
 name: "Saint Angelus of Acri"
 honorific: Venerable
-title: "Saint Angelus of Acri"
 summary: "Twice refused admission to the Capuchins, but was finally accepted in 1690. Priest. His first sermons were miserable but he overcame that, too, and became a famous and sought after preacher. Sought after home missioner in the Italian regions of Calabria and Naples, performing mir"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelus-of-Acri.jpg"
 searchAliases:

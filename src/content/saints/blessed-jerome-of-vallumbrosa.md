@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerome of Vallumbrosa"
 honorific: Blessed
-title: "Blessed Jerome of Vallumbrosa"
 summary: "Benedictine Vallumbrosan monk. Hermit who lived 35 years on bread and water."
 deathYear: 1135
 died: "1135 of natural causes"

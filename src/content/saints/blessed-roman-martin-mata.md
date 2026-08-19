@@ -1,7 +1,6 @@
 ---
 name: "Blessed Román Martín Mata"
 honorific: Blessed
-title: "Blessed Román Martín Mata"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

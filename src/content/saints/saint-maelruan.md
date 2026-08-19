@@ -1,7 +1,6 @@
 ---
 name: "Saint Maelruan"
 honorific: Saint
-title: "Saint Maelruan"
 summary: "Founder and first Abbot of Tamalcht Abbey, County of Dublin, Ireland in 769 on land given by Donnchadh, King of Leinster. With Saint Aengus the Culdee he wrote the Rule of C&eacute;lidh&eacute; D&eacute;, “a minute series of rules for the regulation of the lives of the C&eacute;l"
 searchAliases:
   - "Maolruain"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nunctus of Mérida"
 honorific: Saint
-title: "Saint Nunctus of Mérida"
 summary: "Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr."
 searchAliases:
   - "Nancto"

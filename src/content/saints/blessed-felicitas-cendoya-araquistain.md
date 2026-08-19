@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felícitas Cendoya Araquistain"
 honorific: Blessed
-title: "Blessed Felícitas Cendoya Araquistain"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María Cecilia"

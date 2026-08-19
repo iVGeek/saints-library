@@ -1,7 +1,6 @@
 ---
 name: "Saint Abban the Hermit"
 honorific: Saint
-title: "Saint Abban the Hermit"
 summary: "Hermit at Abingdon (formely Abbendun), Berkshire, England, which is named for him. Noted preacher. Founded a monastery in Berkshire. May be the earliest Irish saint."
 searchAliases:
   - "Abban of Abingdon"

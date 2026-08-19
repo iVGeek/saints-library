@@ -1,7 +1,6 @@
 ---
 name: "Saint Genevieve of Loqueffret"
 honorific: Saint
-title: "Saint Genevieve of Loqueffret"
 summary: "The sister of Saint Edeyrn, she accompanied him to Brittany where she lived as a recluse in a cabin on a mountain and looked for ways to spread the faith. She founded the monastery in Loqueffret in the 10th century."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Genevieve-of-Loqueffret.jpg"
 searchAliases:

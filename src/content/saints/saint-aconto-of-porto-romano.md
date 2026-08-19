@@ -1,7 +1,6 @@
 ---
 name: "Saint Aconto of Porto Romano"
 honorific: Saint
-title: "Saint Aconto of Porto Romano"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 deathYear: 180
 died: "c.180 at Porto Romano, Italy"

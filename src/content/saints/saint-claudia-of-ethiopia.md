@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudia of Ethiopia"
 honorific: Saint
-title: "Saint Claudia of Ethiopia"
 summary: "Martyr. No other information has survived."
 died: "Ethiopia"
 feastDay:

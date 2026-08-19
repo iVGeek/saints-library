@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Alexandria"
 honorific: Saint
-title: "Saint Stephen of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"

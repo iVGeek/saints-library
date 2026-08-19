@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Jean Garrigues"
 honorific: Blessed
-title: "Blessed Pierre-Jean Garrigues"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1725
 deathYear: 1792

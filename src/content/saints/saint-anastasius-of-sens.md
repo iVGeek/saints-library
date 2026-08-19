@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius of Sens"
 honorific: Saint
-title: "Saint Anastasius of Sens"
 summary: "Archbishop of Sens, France from 968 to 977. Started construction on the cathedral there. Great supporter of the monks of Saint-Pierre-le-Vin."
 searchAliases:
   - "Anastasius XVIII"

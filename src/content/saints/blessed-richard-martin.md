@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Martin"
 honorific: Blessed
-title: "Blessed Richard Martin"
 summary: "Shropshire gentleman. Educated at Broadgates Hall, Oxford, England. Condemned to death for sheltering priests. Martyr."
 deathYear: 1588
 born: "Shropshire, England"

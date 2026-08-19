@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego de Baja"
 honorific: Blessed
-title: "Blessed Diego de Baja"
 summary: "Mercedarian friar known for his dedication to Bible study. Ransomed 289 Christians enslaved by Muslims in Algiers, and preached Christianity while travelling through."
 region: "Italy"
 feastDay:

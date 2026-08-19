@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gualfardus of Augsburg"
 honorific: Blessed
-title: "Blessed Gualfardus of Augsburg"
 summary: "Layman artison, trader and saddler at Verona, Italy. His reputation for sanctity spread, and the people of Verona saw him as a saint in their midst. He retired to become a Camoldolese Benedictine monk at San Salvatore priory near Verona."
 image: "http://catholicsaints.info/wp-content/uploads/GualfardoVerona.jpg"
 searchAliases:

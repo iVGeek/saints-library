@@ -1,7 +1,6 @@
 ---
 name: "Saint Gunifort"
 honorific: Saint
-title: "Saint Gunifort"
 summary: "Brother of Saint Guiniboldus. While making a pilgrimage, Gunifort, his brother and two unnamed sisters travelled through Germany where the sisters were killed for their faith by pagan Teutons. The brothers fled to Como, Italy where they became popular street preachers. Guiniboldu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gunifort.jpg"
 searchAliases:

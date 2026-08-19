@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel San Román Fernández"
 honorific: Blessed
-title: "Blessed Miguel San Román Fernández"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

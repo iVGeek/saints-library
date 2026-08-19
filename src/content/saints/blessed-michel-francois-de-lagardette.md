@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michel-François de la Gardette"
 honorific: Blessed
-title: "Blessed Michel-François de la Gardette"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1744
 deathYear: 1792

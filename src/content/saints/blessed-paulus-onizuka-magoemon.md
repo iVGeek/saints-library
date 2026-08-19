@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Onizuka Magoemon"
 honorific: Blessed
-title: "Blessed Paulus Onizuka Magoemon"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1563
 deathYear: 1627

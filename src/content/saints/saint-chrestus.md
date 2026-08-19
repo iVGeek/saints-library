@@ -1,7 +1,6 @@
 ---
 name: "Saint Chrestus"
 honorific: Saint
-title: "Saint Chrestus"
 summary: "Martyr."
 searchAliases:
   - "Cresto"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Serapion of Antioch"
 honorific: Saint
-title: "Saint Serapion of Antioch"
 summary: "Patriarch of Antioch in 190, serving for over 20 years. Theological writer."
 deathYear: 211
 died: "211 of natural causes"

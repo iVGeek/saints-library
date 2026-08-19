@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julián Heredia Zubia"
 honorific: Blessed
-title: "Blessed Julián Heredia Zubia"
 summary: "The son of Justo Heredia and Ceferina Zubía. On 29 October 1889, at the age of 15, Julian became a novice at the Cistercian monastery of Val San José in Getafe, Spain, taking the name Fray Maria Pio; he made his solemn profession on 27 May 1897. Ordained a priest on 18 March 1899"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-Heredia-Zubia.jpg"
 searchAliases:

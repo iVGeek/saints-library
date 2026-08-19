@@ -1,7 +1,6 @@
 ---
 name: "Saint Themoius"
 honorific: Saint
-title: "Saint Themoius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Themius"

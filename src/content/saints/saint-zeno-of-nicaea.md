@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno of Nicaea"
 honorific: Saint
-title: "Saint Zeno of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Zenone"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ananias of Damascus"
 honorific: Saint
-title: "Saint Ananias of Damascus"
 summary: "A Christian in Damascus, Syria, Ananias received a vision of Jesus in which he was ordered to find Saul (aka Paul the Apostle). Ananias found Saul, blind and staggering into the city after his encounter with Christ on the road. He cured Saul of the blindness, baptized him into th"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Saint_Paul_Ananias_Sight_Restored.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansologus of Salzburg"
 honorific: Saint
-title: "Saint Ansologus of Salzburg"
 summary: "Monk. Abbot. Third bishop of Salzburg in modern Austria. Known for supporting monastic life in his diocese."
 deathYear: 678
 died: "1 February 678"

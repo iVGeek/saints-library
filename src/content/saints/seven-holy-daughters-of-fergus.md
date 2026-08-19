@@ -1,7 +1,6 @@
 ---
 name: "Seven Holy Daughters of Fergus"
 honorific: Saint
-title: "Seven Holy Daughters of Fergus"
 summary: "Seven 6th century nuns of the island and parish of Inis Cealtra, county of Clare and Galway, Ireland. Attended the synod of Dromcheat in 580. No details about them, not even their names, have come down to us."
 searchAliases:
   - "Seven Daughters of Fergus of Tigh-inghen-Ferghusa"

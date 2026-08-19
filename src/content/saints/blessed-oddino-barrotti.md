@@ -1,7 +1,6 @@
 ---
 name: "Blessed Oddino Barrotti"
 honorific: Blessed
-title: "Blessed Oddino Barrotti"
 summary: "Priest at Saint John the Baptist Church, Fossano, Italy. Franciscan tertiary. Eventually resigned his parish and turned his house into a hospital. In 1396 he agreed to serve as director of the collegiate chapter in Fossano. Died while working with the sick during a plague epidemi"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/05/ICCD13341212_00204646.jpg"
 searchAliases:

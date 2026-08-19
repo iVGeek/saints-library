@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Balcells Grau"
 honorific: Blessed
-title: "Blessed Jaume Balcells Grau"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Gabriel of the Annunciation"

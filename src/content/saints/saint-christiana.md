@@ -1,7 +1,6 @@
 ---
 name: "Saint Christiana"
 honorific: Saint
-title: "Saint Christiana"
 summary: "Anglo-Saxon princess. Nun in Flanders, Belgium."
 searchAliases:
   - "Christine"

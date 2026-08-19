@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Gregory the Great"
 honorific: Saint
-title: "Pope Saint Gregory the Great"
 summary: "Son of Gordianus, a Roman regionarius, and Saint Silvia of Rome. Nephew of Saint Emiliana and Saint Tarsilla. Great-grandson of Pope Saint Felix III. Educated by the finest teachers in Rome, Italy. Prefect of Rome for a year, then he sold his possessions, turned his home into a B"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Gregory-the-Great.jpg"
 searchAliases:

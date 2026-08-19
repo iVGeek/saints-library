@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Elvira"
 honorific: Saint
-title: "Saint Gregory of Elvira"
 summary: "Bishop of Elvira, Spain in 375. Fought Arianism in his diocese, refusing to compromise with heretics or heresy. Wrote a number of works on the faith and scripture."
 searchAliases:
   - "Gregory Bæticus"

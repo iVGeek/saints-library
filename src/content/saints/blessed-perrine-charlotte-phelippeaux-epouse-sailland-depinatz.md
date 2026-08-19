@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine-Charlotte Phelippeaux épouse Sailland d’Epinatz"
 honorific: Blessed
-title: "Blessed Perrine-Charlotte Phelippeaux épouse Sailland d’Epinatz"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1740
 deathYear: 1794

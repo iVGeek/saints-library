@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fulk of Castrofurli"
 honorific: Blessed
-title: "Blessed Fulk of Castrofurli"
 summary: "Pilgrim to Rome, Italy with Saint Arduin of Gallinaro. Died working with plague victims in the Castrofuli and Santopadre in Italy."
 searchAliases:
   - "Folco"

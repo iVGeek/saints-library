@@ -1,7 +1,6 @@
 ---
 name: "Saint Hesychius of Gibraltar"
 honorific: Saint
-title: "Saint Hesychius of Gibraltar"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Marytr."
 region: "Spain"
 feastDay:

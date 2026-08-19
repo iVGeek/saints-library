@@ -1,7 +1,6 @@
 ---
 name: "Saint Euplius"
 honorific: Saint
-title: "Saint Euplius"
 summary: "Martyr."
 died: "rolled in a cowhide and laid out in the sun to be crushed as it shrank"
 feastDay:

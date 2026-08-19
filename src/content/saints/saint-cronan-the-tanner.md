@@ -1,7 +1,6 @@
 ---
 name: "Saint Cronan the Tanner"
 honorific: Saint
-title: "Saint Cronan the Tanner"
 summary: "Spiritual student of Saint Kevin of Glendalough."
 searchAliases:
   - "Cronanus"

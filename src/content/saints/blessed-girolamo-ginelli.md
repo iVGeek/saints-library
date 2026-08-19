@@ -1,7 +1,6 @@
 ---
 name: "Blessed Girolamo Ginelli"
 honorific: Blessed
-title: "Blessed Girolamo Ginelli"
 summary: "Born to the Italian nobility. In his mid-teens, Girolamo was drawn to religious life, and at age 16 joined the Franciscan tertiaries at the San Sebastian convent in Ancona, Italy. in 1482 he withdrew from the convent to become a hermit at San Pietro's on Mount Conero near Ancona;"
 searchAliases:
   - "Girolamo de Ginelli"

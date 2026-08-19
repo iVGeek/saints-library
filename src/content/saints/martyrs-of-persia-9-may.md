@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Persia"
 honorific: Saint
-title: "Martyrs of Persia"
 summary: "310 Christians murdered together for their faith in Persia. No details about them have survived."
 region: "Italy"
 feastDay:

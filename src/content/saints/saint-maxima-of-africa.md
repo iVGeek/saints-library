@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxima of Africa"
 honorific: Saint
-title: "Saint Maxima of Africa"
 summary: "African martyr whose name appears on ancient lists, but about whom nothing is known."
 searchAliases:
   - "Maximus"

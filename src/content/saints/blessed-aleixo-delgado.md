@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aleixo Delgado"
 honorific: Blessed
-title: "Blessed Aleixo Delgado"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
 deathYear: 1570

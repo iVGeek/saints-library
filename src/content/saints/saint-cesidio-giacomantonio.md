@@ -1,7 +1,6 @@
 ---
 name: "Saint Cesidio Giacomantonio"
 honorific: Venerable
-title: "Saint Cesidio Giacomantonio"
 summary: "Born to Giovanni and Maria Loreta Antonucci. Early feeling a call to religious life, Angelo joined the Franciscan Friars Minor (Reformed) at the convent of San Angelo in Ocre, Italy at age 15. He made his initial vows on 21 November 1891, age 18, taking the name Brother Cesidio i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cesidio-Giacomantonio.jpg"
 searchAliases:

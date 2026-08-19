@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Croyland"
 honorific: Saint
-title: "Saint Theodore of Croyland"
 summary: "Abbot of Croyland Abbey when it was over-run by pagan Danes. He and his brother monks were martyred."
 searchAliases:
   - "Theodore of Crowland"

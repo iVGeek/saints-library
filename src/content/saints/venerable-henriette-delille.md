@@ -1,7 +1,6 @@
 ---
 name: "Venerable Henriette Delille"
 honorific: Venerable
-title: "Venerable Henriette Delille"
 summary: "The daughter of a white man, Jean Baptiste Delille-Sarpy, and Marie Josef Dias, a “free woman of color”; Henriette lived her entire life in the southern United States in a time prior to the abolition of slavery. Though they were both Roman Catholic, her parents could not be marri"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-henriette-delille/venerable-henriette-delille_0.jpg"
 birthYear: 1813

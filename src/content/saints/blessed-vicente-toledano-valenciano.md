@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Toledano Valenciano"
 honorific: Blessed
-title: "Blessed Vicente Toledano Valenciano"
 summary: "Priest in the diocese of Cuenca, Spain. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

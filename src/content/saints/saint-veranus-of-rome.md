@@ -1,7 +1,6 @@
 ---
 name: "Saint Veranus of Rome"
 honorific: Saint
-title: "Saint Veranus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

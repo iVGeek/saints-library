@@ -1,7 +1,6 @@
 ---
 name: "Saint Natale of Casale Monferrato"
 honorific: Saint
-title: "Saint Natale of Casale Monferrato"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Natale-of-Casale-Monferrato.jpg"
 died: "relics in the cathedral of Casale Monferrato, Italy"

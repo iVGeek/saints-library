@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Desprez de Roche"
 honorific: Blessed
-title: "Blessed Gabriel Desprez de Roche"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792

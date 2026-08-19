@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carlos Eraña Guruceta"
 honorific: Blessed
-title: "Blessed Carlos Eraña Guruceta"
 summary: "Member of the Society of Mary (Marianists). Martyred with Blessed Fidel Fuidio Rodriguez and Blessed Jesus Hita Miranda during the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlo-Eraña-Guruceta.jpg"
 searchAliases:

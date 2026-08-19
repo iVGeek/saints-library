@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gilbert of Valenciennes"
 honorific: Blessed
-title: "Blessed Gilbert of Valenciennes"
 summary: "Benedictine monk at Saint-Crespin-en-Chaie, Soissons, France. Abbot at the monastery of Saint John the Baptist Abbey at Valenciennes, France. Persecuted by the Count of Hainault (in modern Belgium)."
 deathYear: 1185
 died: "1185 of natural causes"

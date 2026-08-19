@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Gassol Montseny"
 honorific: Blessed
-title: "Blessed Josep Gassol Montseny"
 summary: "Seminarian of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Gassol-Montseny.jpg"
 birthYear: 1915

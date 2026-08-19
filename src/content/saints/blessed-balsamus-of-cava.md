@@ -1,7 +1,6 @@
 ---
 name: "Blessed Balsamus of Cava"
 honorific: Blessed
-title: "Blessed Balsamus of Cava"
 summary: "Benedictine monk. Abbot of Cava, Italy from 1208 to 1232."
 searchAliases:
   - "Belsamus of Cava"

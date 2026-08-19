@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Absalon"
 honorific: Saint
-title: "Saint Peter Absalon"
 summary: "Martyr. No other information has survived."
 deathYear: 300
 died: "buried alive c.300 at Caesarea, Palestine"

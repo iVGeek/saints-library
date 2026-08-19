@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francisco Barrecheguren Montagut"
 honorific: Venerable
-title: "Venerable Francisco Barrecheguren Montagut"
 summary: "Francisco's father died when the boy was eleven months old, his mother when he was five years, and he was raised by his uncles in Granada, Spain. He studied at the Jesuit College of El Palo in Malaga, Spain from 1892 to 1897. Married to Concha García Calvo in 1904. Their daughter"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-Barrecheguren-Montagut.jpg"
 birthYear: 1881

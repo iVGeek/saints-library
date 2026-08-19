@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Messina"
 honorific: Saint
-title: "Saint Faustus of Messina"
 summary: "Benedictine monk. Martyr."
 died: "6th century Messina, Sicily, Italy"
 deathPlace: "Sicily, Italy"

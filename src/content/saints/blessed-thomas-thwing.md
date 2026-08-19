@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Thwing"
 honorific: Blessed
-title: "Blessed Thomas Thwing"
 summary: "Studied at Douai, France. Priest, ordained in 1665. Returning to England, he served as chaplain for his cousin, Sir Miles Stapleton, and chaplain to a Yorkshire school. Arrested in 1680, accused of involvement in the Titus Oates Plot. Martyr."
 searchAliases:
   - "Thomas Thweng"

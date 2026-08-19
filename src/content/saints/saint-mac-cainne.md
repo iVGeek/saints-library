@@ -1,7 +1,6 @@
 ---
 name: "Saint Mac Cainne"
 honorific: Saint
-title: "Saint Mac Cainne"
 summary: "Bishop of Ath-da-laarg or Áth-dá-loarc (records vary) in Ireland."
 searchAliases:
   - "Mac Coinne"

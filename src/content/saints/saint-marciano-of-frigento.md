@@ -1,7 +1,6 @@
 ---
 name: "Saint Marciano of Frigento"
 honorific: Saint
-title: "Saint Marciano of Frigento"
 summary: "Born to a wealthy Christian family, when Marciano received his inheritance he gave it all away to the poor and devoted himself to God. His devotion and spiritual wisdom attracted to so many admirers and would-be students that he left Greece for Italy, and became a hermit near the"
 born: "5th century Greece"
 died: "relics enshrined in Frigento, Italy"

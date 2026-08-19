@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odilone of Stavelot-Malamédy"
 honorific: Blessed
-title: "Blessed Odilone of Stavelot-Malamédy"
 summary: "Archdeacon in the bishopric of Verdun (in modern France). Monk at Gorze Abbey in 933 where he helped with its restoration by Saint Aldalbero of Metz. Abbot of the double monastery of Stavelot and Malamédy, in modern Belgium, from 936 to 954. He helped lead the house to being an i"
 searchAliases:
   - "Odilone of Verdun"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerinus"
 honorific: Saint
-title: "Saint Gerinus"
 summary: "Son of Saint Sigrada; brother of Saint Leodegarius. Persecuted by Ebroin, mayor of the French palace who was at war with Saint Leodegarius. Martyr by Ebroin."
 searchAliases:
   - "Garino"

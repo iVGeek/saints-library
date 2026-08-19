@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory the Illuminator"
 honorific: Saint
-title: "Saint Gregory the Illuminator"
 summary: "Gregory's father Anak killed King Khosrov I of Armenia, and young Gregory was sent to Caesarea to avoid being killed in revenge. There he married, and was the father of two sons. Bishop of Ashtishat, Armenia where he became a hugely successful evangelist. Helped free Armenia from"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gregory_the_Illuminator_Aghtamar_bas_relief.jpg/960px-Gregory_the_Illuminator_Aghtamar_bas_relief.jpg"
 searchAliases:

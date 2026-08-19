@@ -1,7 +1,6 @@
 ---
 name: "Saint Catervus"
 honorific: Saint
-title: "Saint Catervus"
 summary: "Born to the imperial Roman nobility. Roman prefect. Married to Saint Severina, and father of Saint Bassus. Brought Christianity to the city of Tolentino, Italy. Martyred for doing so."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sarcophagus.jpg/960px-Sarcophagus.jpg"
 searchAliases:

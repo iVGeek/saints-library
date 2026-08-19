@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Egypt"
 honorific: Saint
-title: "Saint Marcian of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Marciano"

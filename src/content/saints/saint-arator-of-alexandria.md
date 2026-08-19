@@ -1,7 +1,6 @@
 ---
 name: "Saint Arator of Alexandria"
 honorific: Saint
-title: "Saint Arator of Alexandria"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Aristo"

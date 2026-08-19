@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Luciani"
 honorific: Venerable
-title: "Venerable Maria Luciani"
 summary: "Member of the Sisters of the Passion of Jesus Christ."
 searchAliases:
   - "Sister Maria Addolorata of the Sacred Side"

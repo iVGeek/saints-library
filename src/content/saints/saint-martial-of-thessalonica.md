@@ -1,7 +1,6 @@
 ---
 name: "Saint Martial of Thessalonica"
 honorific: Saint
-title: "Saint Martial of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Provolo"
 honorific: Venerable
-title: "Venerable Antonio Provolo"
 summary: "Priest in the diocese of Verona, Italy, ordained on 18 December 1824. Taught for some months in his diocesan seminary, but entered into parish ministry in 1825. A pioneer in bringing education to the deaf in Italy, he started a school of the deaf in Verona on 30 October 1830. Fou"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Provolo.jpg"
 birthYear: 1801

@@ -1,7 +1,6 @@
 ---
 name: "Saint Olcese"
 honorific: Saint
-title: "Saint Olcese"
 summary: "Bishop in Gaul (modern France) in the late 4th and early 5th century. When his region was invaded by Vandals c.407, Olcese fled to a village in the Liguria area of modern Italy; the town is today known as Sant'Olcese. There he lived as a prayerful hermit, and worked to convert th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Olcese.jpg"
 searchAliases:

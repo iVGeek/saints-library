@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ricardo Díez Rodríguez"
 honorific: Blessed
-title: "Blessed José Ricardo Díez Rodríguez"
 summary: "Augustinian Recollect brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "José of the Sacred Heart"

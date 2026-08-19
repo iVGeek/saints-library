@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Heisaku"
 honorific: Blessed
-title: "Blessed Ioannes Heisaku"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Arie, Nagasaki, Japan"

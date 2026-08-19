@@ -1,7 +1,6 @@
 ---
 name: "Blessed Basilia Diez Recio"
 honorific: Blessed
-title: "Blessed Basilia Diez Recio"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María of Jesus"

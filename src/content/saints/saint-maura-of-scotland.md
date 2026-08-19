@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura of Scotland"
 honorific: Saint
-title: "Saint Maura of Scotland"
 summary: "Tenth century anchoress in Scotland. Spiritual student of Saint Baya of Scotland. Nun. Abbess."
 region: "Scotland"
 feastDay:

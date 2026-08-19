@@ -1,7 +1,6 @@
 ---
 name: "Saint Modestus of Carthage"
 honorific: Saint
-title: "Saint Modestus of Carthage"
 summary: "Martyr. No other information has survived."
 deathYear: 160
 died: "c.160 at Carthage"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cosconius of Nicaea"
 honorific: Saint
-title: "Saint Cosconius of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Cosconi"

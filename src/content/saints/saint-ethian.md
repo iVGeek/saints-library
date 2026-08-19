@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethian"
 honorific: Saint
-title: "Saint Ethian"
 summary: "Bishop of Domhnach-Mor-mie-Laithbhe; we do not know where this would be in modern Ireland."
 searchAliases:
   - "Ethern"

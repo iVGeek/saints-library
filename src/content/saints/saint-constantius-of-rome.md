@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantius of Rome"
 honorific: Saint
-title: "Saint Constantius of Rome"
 summary: "Priest in Rome, Italy. Opposed Pelagianism, and murdered by its adherents."
 deathYear: 418
 died: "c.418 at Rome, Italy"

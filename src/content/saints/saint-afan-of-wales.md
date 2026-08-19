@@ -1,7 +1,6 @@
 ---
 name: "Saint Afan of Wales"
 honorific: Saint
-title: "Saint Afan of Wales"
 summary: "Bishop. Nothing else is known about him for certain; various writers have made him a descendant of the 3rd century Cynedda Wledig, King of Britain, a cousin of 6th century Saint David of Wales, and the 10th century bishop Jeuan who was killed by Viking invaders, but no one today"
 searchAliases:
   - "Avan"

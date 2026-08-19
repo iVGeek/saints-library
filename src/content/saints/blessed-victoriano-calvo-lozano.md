@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victoriano Calvo Lozano"
 honorific: Blessed
-title: "Blessed Victoriano Calvo Lozano"
 summary: "Victor early felt a call to the priesthood, but his family opposed it, and they were too poor to help with his education. On 31 March 1919 he left home to join the Redemptorists and try to find a path to his vocation. He made his profession on 13 November 1920, taking the name Br"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Victoriano-Calvo-Lozano.jpg"
 searchAliases:

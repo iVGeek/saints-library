@@ -1,7 +1,6 @@
 ---
 name: "Saint Elfgete of Croyland"
 honorific: Saint
-title: "Saint Elfgete of Croyland"
 summary: "Monk at Croyland Abbey. Deacon. Martyred by pagan Danes."
 searchAliases:
   - "Elfgete of Crowland"

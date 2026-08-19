@@ -1,7 +1,6 @@
 ---
 name: "Gideon the Judge"
 honorific: Saint
-title: "Gideon the Judge"
 summary: "Eleventh century BC Judge of Isreal. See the Readings section below for the Old Testament account of his life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Gideon-the-Judge.gif"
 searchAliases:

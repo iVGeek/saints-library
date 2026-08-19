@@ -1,7 +1,6 @@
 ---
 name: "Saint Martialis of Sicily"
 honorific: Saint
-title: "Saint Martialis of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"

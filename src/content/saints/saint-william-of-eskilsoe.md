@@ -1,7 +1,6 @@
 ---
 name: "Saint William of Eskilsoe"
 honorific: Saint
-title: "Saint William of Eskilsoe"
 summary: "Born to the Gallic upper class. Educated at the cathedral school of Saint Germain. Priest. Canon at the church of Saint Genevieve in Paris, France until c.1170. Widespread reputation for holiness and austerity; his life was so austere that his brother priests harassed him into le"
 image: "http://catholicsaints.info/wp-content/uploads/William-of-Eskilsoe.jpg"
 searchAliases:

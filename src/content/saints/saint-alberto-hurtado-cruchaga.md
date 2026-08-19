@@ -1,7 +1,6 @@
 ---
 name: "Saint Alberto Hurtado Cruchaga"
 honorific: Venerable
-title: "Saint Alberto Hurtado Cruchaga"
 summary: "Alberto's father died when the boy was four years old, and he grew up in poverty, living with a series of relatives. Educated at the Jesuit College in Santiago, Chile. He early felt a call to religion, and to work with those as poor as himself. He entered the Jesuit novitiate in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alberto-Hurtado-Cruchaga.jpg"
 birthYear: 1901

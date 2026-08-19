@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodolus of Corinth"
 honorific: Saint
-title: "Saint Theodolus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

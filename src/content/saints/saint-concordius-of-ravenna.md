@@ -1,7 +1,6 @@
 ---
 name: "Saint Concordius of Ravenna"
 honorific: Saint
-title: "Saint Concordius of Ravenna"
 summary: "Martyr. No other information has survived."
 deathYear: 305
 died: "c.305 in Ravenna, Italy"

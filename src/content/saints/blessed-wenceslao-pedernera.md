@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wenceslao Pedernera"
 honorific: Blessed
-title: "Blessed Wenceslao Pedernera"
 summary: "Married layman of the diocese of La Rioja, Argentina. Organized the Movimiento Rural Catolico. Murdered in front of his family."
 birthYear: 1936
 deathYear: 1976

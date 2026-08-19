@@ -1,7 +1,6 @@
 ---
 name: "Saint Horres of Nicaea"
 honorific: Saint
-title: "Saint Horres of Nicaea"
 summary: "Son of Saint Theusitas of Nicaea. Martyred with his father and several others."
 searchAliases:
   - "Ilorres"

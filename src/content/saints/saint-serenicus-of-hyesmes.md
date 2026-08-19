@@ -1,7 +1,6 @@
 ---
 name: "Saint Serenicus of Hyesmes"
 honorific: Saint
-title: "Saint Serenicus of Hyesmes"
 summary: "Born to the Italian nobility. Monk. Hermit near the River Sarthe in France. Abbot of a local monastery."
 deathYear: 669
 born: "Spoleto, Italy"

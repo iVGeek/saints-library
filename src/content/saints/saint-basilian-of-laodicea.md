@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilian of Laodicea"
 honorific: Saint
-title: "Saint Basilian of Laodicea"
 summary: "Martyr. No other information has survived."
 died: "Laodicea, Syria"
 deathPlace: "Syria"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus of Alexandria"
 honorific: Saint
-title: "Saint Rufinus of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"

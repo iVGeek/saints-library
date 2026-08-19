@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Sisterna Torrent"
 honorific: Blessed
-title: "Blessed Pere Sisterna Torrent"
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elm Miquel"

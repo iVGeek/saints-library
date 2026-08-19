@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Álvarez Rego"
 honorific: Blessed
-title: "Blessed Manuel Álvarez Rego"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

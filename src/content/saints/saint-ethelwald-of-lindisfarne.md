@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethelwald of Lindisfarne"
 honorific: Saint
-title: "Saint Ethelwald of Lindisfarne"
 summary: "Leather worker and bookbinder. Monk. Assistant to Saint Cuthbert of Lindisfarne. Prior and abbot of Old Melrose monastery in Scotland. Bishop at Lindisfarne in 721. Commissioned the famous Lindisfarne Book of Gospels, now in the British Museum, and made its jewel-encrusted leathe"
 searchAliases:
   - "Aethelweald"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Baixeras Berenguer"
 honorific: Blessed
-title: "Blessed Joan Baixeras Berenguer"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

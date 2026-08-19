@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspar Sadamatsu"
 honorific: Blessed
-title: "Blessed Gaspar Sadamatsu"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nectarius of Auvergne"
 honorific: Saint
-title: "Saint Nectarius of Auvergne"
 summary: "Missionary sent by Pope Saint Fabian to take the faith into Gaul in the 3rd century, centering his work around the modern Auvergne, France. Worked with Saint Austremonius, Saint Gatianus of Tours, Saint Trophimus of Arles, Saint Paul of Narbonne, Saint Martial of Limoges, Saint D"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Saint_Nectaire_l%27_eglise_Statue_de_St_nectaire.JPG/960px-Saint_Nectaire_l%27_eglise_Statue_de_St_nectaire.JPG"
 searchAliases:

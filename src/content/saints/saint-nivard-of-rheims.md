@@ -1,7 +1,6 @@
 ---
 name: "Saint Nivard of Rheims"
 honorific: Saint
-title: "Saint Nivard of Rheims"
 summary: "Born to the wealthy Gallic nobility, a member of the ruling Merovingians. He served in the imperial court, and was the brother-in-law of King Childeric II of Austria. Priest. Archbishop of Reims, France in 657; he served there for over 20 years. Helped found the abbey of San Piet"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nivard-of-Reims.jpg"
 searchAliases:

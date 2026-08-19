@@ -2,7 +2,6 @@
 name: "Saint Britta"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/TS_Britta.jpg"
 honorific: Saint
-title: "Saint Britta"
 summary: "Fourth century nun. Martyred with Saint Maura. Their story was lost, and their relics were discovered by Saint Euphronius."
 searchAliases:
   - "Bridget"

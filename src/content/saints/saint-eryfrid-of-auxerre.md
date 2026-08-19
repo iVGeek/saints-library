@@ -1,7 +1,6 @@
 ---
 name: "Saint Eryfrid of Auxerre"
 honorific: Saint
-title: "Saint Eryfrid of Auxerre"
 summary: "Born to the Breton nobility, the son of Erifrifo and Iseberga. Priest. Chosen bishop of Auxerre, France by King Charles the Simple, he was consecrated on 29 August 887. He rebuilt the cathedral which had been destroyed by fire, was known for his personal kindness, and care for th"
 searchAliases:
   - "Erifrido"

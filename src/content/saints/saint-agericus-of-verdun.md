@@ -1,7 +1,6 @@
 ---
 name: "Saint Agericus of Verdun"
 honorific: Saint
-title: "Saint Agericus of Verdun"
 summary: " Once a local rebel leader named Bertifroi sought sanc Born to a poor farm family. Parish priest at Saint Peter and Paul Church, Verdun, France. Bishop of Verdun in 554. Advisor to King Childebert II. Noted for his generosity to the poor. Reputed miracle worker in his later years."
 searchAliases:
   - "Agerico"

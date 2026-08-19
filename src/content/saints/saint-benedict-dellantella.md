@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict dell'Antella"
 honorific: Saint
-title: "Saint Benedict dell'Antella"
 summary: "One of the Seven Founders of the Servants of Mary. Attended the Council of Lyons in 1246. Governed the Servites in the Tuscan province in 1260. Took the Servite Order to France at the request of King Saint Louis IX. Fourth prior-general of the Servites. Sent missionaries to Asia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Seven-Foudners-of-the-Servites.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elvira Moragas Cantarero"
 honorific: Blessed
-title: "Blessed Elvira Moragas Cantarero"
 summary: "Daughter of a pharmacist. She was an excellent student, and in 1900 became the only woman in the pharmacy school of the University of Madrid. When her father died in 1909, Elvira took over the business to support the family. In 1915, her bother Ricardo graduated as a pharmacist a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Elvira-Moragas-Cantarero.jpg"
 searchAliases:

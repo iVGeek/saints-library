@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Jerusalem"
 honorific: Saint
-title: "Saint Stephen of Jerusalem"
 summary: "Martyr. No other information has survived."
 died: "Jerusalem"
 region: "Holy Land"

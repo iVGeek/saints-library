@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ruperto García Arce"
 honorific: Blessed
-title: "Blessed Ruperto García Arce"
 searchAliases:
   - "Brother Florencio Miguel"
 birthYear: 1908

@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Cava"
 honorific: Saint
-title: "Saint Leo of Cava"
 summary: "Benedictine monk at the monastery of the Holy Trinity in La Cava de Tirreni at Salerno, Italy. Spiritual student of Saint Alferius who chose him as the second abbot of Cava in 1050; he served for 29 years. Known for his care and charity to the poor, often going off into the woods"
 searchAliases:
   - "Leo I"

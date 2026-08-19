@@ -1,7 +1,6 @@
 ---
 name: "Saint Szymon of Lipnica"
 honorific: Saint
-title: "Saint Szymon of Lipnica"
 summary: "Born to a poor and pious family, the son of Grzegorz and Anna. In 1454, at age 17 he moved from his small town to Kraków to study at the Uniwersytetu Jagiellonskiego. While there, he heard a sermon by Saint John Capistran which led him to consider a call to religious life and the"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Szymon_z_Lipnicy_%28sculpture%29.jpg/960px-Szymon_z_Lipnicy_%28sculpture%29.jpg"
 searchAliases:

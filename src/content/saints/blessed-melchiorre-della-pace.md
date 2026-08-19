@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melchiorre della Pace"
 honorific: Blessed
-title: "Blessed Melchiorre della Pace"
 summary: "Mercedarian friar and preacher who ransomed Christians enslaved by Muslims in North Africa."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Melchiorre-della-Pace.jpg"
 region: "Italy"

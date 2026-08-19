@@ -1,7 +1,6 @@
 ---
 name: "Saint Beresus of Africa"
 honorific: Saint
-title: "Saint Beresus of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Horne"
 honorific: Blessed
-title: "Blessed William Horne"
 summary: "Carthusian lay brother of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head of the Church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Horne.jpg"
 deathYear: 1540

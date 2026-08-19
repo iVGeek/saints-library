@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthes of Salerno"
 honorific: Saint
-title: "Saint Anthes of Salerno"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 near Salerno, Italy"

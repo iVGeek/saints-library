@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthusa of Constantinople"
 honorific: Saint
-title: "Saint Anthusa of Constantinople"
 summary: "Eighth-century nun. Tortured and exiled from Constantinople for refusing to comply with the heresy of iconoclasm."
 searchAliases:
   - "Antusa"

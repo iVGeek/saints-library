@@ -1,7 +1,6 @@
 ---
 name: "Blessed François Peltier"
 honorific: Blessed
-title: "Blessed François Peltier"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1728
 deathYear: 1794

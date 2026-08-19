@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andreas Yamamoto Shichiemon"
 honorific: Blessed
-title: "Blessed Andreas Yamamoto Shichiemon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Maria Yamamoto. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

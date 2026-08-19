@@ -1,7 +1,6 @@
 ---
 name: "Saint Markus of Africa"
 honorific: Saint
-title: "Saint Markus of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

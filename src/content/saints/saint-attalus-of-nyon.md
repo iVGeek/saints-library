@@ -1,7 +1,6 @@
 ---
 name: "Saint Attalus of Nyon"
 honorific: Saint
-title: "Saint Attalus of Nyon"
 summary: "Martyred for refusing to sacrifice to imperial Roman idols."
 died: "beheaded in Noviodunum (modern Nyon, Switzerland)"
 deathPlace: "Switzerland)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Sykeon"
 honorific: Saint
-title: "Saint Theodore of Sykeon"
 summary: "Son of pagans named Mary and Cosmas; his father was an imperial messenger. Attracted to the ascetic life of the desert monks, young Theodore studied the scriptures at the nearby shrine of Saint George. He converted to Christianity in his teens, and at age 14 he left home to take"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/St_Theodore_the_Sykeote.jpg"
 searchAliases:

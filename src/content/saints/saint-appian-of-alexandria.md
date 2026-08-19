@@ -1,7 +1,6 @@
 ---
 name: "Saint Appian of Alexandria"
 honorific: Saint
-title: "Saint Appian of Alexandria"
 summary: "Martyred with nine other Christians during disturbances caused by the heretical Monophysites."
 deathYear: 483
 died: "c.483 at Alexandria, Egypt"

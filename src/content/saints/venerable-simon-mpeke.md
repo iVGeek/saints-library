@@ -1,7 +1,6 @@
 ---
 name: "Venerable Simon Mpeke"
 honorific: Venerable
-title: "Venerable Simon Mpeke"
 summary: "Born to a non-Christian farm family, the son of Yomba and Iniyem Ngo Epouhe. Having learned about the faith at school, Mpeke converted and was baptized on 14 August 1918, taking the name Simon. He worked as a teacher, and helped at the Catholic mission run by the Spiritans in Edé"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Simon-Mpeke.jpg"
 searchAliases:

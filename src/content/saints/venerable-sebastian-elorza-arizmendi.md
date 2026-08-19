@@ -1,7 +1,6 @@
 ---
 name: "Venerable Sebastián Elorza Arizmendi"
 honorific: Venerable
-title: "Venerable Sebastián Elorza Arizmendi"
 summary: "Augustinian friar."
 birthYear: 1882
 deathYear: 1942

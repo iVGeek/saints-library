@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pau Virgili Monfá"
 honorific: Blessed
-title: "Blessed Pau Virgili Monfá"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

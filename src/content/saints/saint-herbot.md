@@ -1,7 +1,6 @@
 ---
 name: "Saint Herbot"
 honorific: Saint
-title: "Saint Herbot"
 summary: " &bull; Herbot's reputation for holiness and his skill as a preacher attracted many would-be spiritual students, including the men of nearby villages. Hermit in the forests in the region of Berrien and Huelgoat in Brittany about whom little history but many legends have survived."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saint_Herbot_%28Pleyben%29.JPG/960px-Saint_Herbot_%28Pleyben%29.JPG"
 searchAliases:

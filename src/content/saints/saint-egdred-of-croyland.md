@@ -1,7 +1,6 @@
 ---
 name: "Saint Egdred of Croyland"
 honorific: Saint
-title: "Saint Egdred of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes."
 searchAliases:
   - "Egdred of Crowland"

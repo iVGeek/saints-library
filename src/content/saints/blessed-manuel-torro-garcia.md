@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Torró García"
 honorific: Blessed
-title: "Blessed Manuel Torró García"
 summary: "Married layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Torro-Garcia.jpg"
 birthYear: 1902

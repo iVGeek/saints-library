@@ -1,7 +1,6 @@
 ---
 name: "Saint Gorman of Schleswig"
 honorific: Saint
-title: "Saint Gorman of Schleswig"
 summary: "Benedictine monk at Reichenau, Germany. Missionary preacher throughout northern Europe. Bishop of Schleswig, Denmark."
 deathYear: 965
 died: "965 of natural causes"

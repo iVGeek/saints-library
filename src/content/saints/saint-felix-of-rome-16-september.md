@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Saint Felix of Rome"
 summary: "Martyr."
 died: "on the Via Nomentana outside Rome, Italy"
 deathPlace: "Italy"

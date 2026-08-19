@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentine of Segovia"
 honorific: Saint
-title: "Saint Valentine of Segovia"
 summary: "Brother of Saint Fructus of Segovia and Saint Engratia of Segovia. Martyred by invading Moors."
 deathYear: 715
 born: "at Sepulveda, Castile (in modern Spain)"

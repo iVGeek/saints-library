@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angel López Martínez"
 honorific: Blessed
-title: "Blessed Angel López Martínez"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Lopez-Martinez.jpg"
 birthYear: 1912

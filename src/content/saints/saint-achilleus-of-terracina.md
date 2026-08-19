@@ -1,7 +1,6 @@
 ---
 name: "Saint Achilleus of Terracina"
 honorific: Saint
-title: "Saint Achilleus of Terracina"
 summary: "Soldier in the imperial Roman army, and a member of the Praetorian Guard. Convert to Christianity, baptized by Saint Peter the Apostle. Exiled for his faith to the island of Pontia, he suffered with Saint Flavia Domitilla, and was martyred with his brother Saint Nereus."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Achilleus-of-Terracina.jpg"
 searchAliases:

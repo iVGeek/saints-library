@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph Marchand"
 honorific: Venerable
-title: "Saint Joseph Marchand"
 summary: "Seminarian in Orsan in 1821. Priest. Studied at the Paris Society of Foreign Missions. Missionary to Annam, Vietnam in 1830. In 1832 he was offered the position of head of the Foreign Mission Seminary in Paris, but declined to continue his work in the field. Transferred to the pr"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Joseph_Marchand.jpg"
 birthYear: 1803

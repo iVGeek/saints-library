@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonia of Cologne"
 honorific: Saint
-title: "Saint Antonia of Cologne"
 summary: "One of the companions of Saint Ursula. Martyr."
 searchAliases:
   - "Antonina"

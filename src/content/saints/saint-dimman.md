@@ -1,7 +1,6 @@
 ---
 name: "Saint Dimman"
 honorific: Saint
-title: "Saint Dimman"
 summary: "Priest. May have been a monk first, and may have been assigned a parish by Saint Patrick; records are a bit unclear."
 searchAliases:
   - "Dioman"

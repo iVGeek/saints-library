@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Yakichi"
 honorific: Blessed
-title: "Blessed Ludovicus Yakichi"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Lucia Yakichi; father of Blessed Andreas Yakichi and Blessed Franciscus Yakichi. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg"
 deathYear: 1622

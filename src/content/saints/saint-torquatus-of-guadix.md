@@ -1,7 +1,6 @@
 ---
 name: "Saint Torquatus of Guadix"
 honorific: Saint
-title: "Saint Torquatus of Guadix"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Bishop of Guadix."
 searchAliases:
   - "Torquato"

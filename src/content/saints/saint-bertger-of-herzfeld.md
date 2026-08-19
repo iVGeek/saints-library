@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertger of Herzfeld"
 honorific: Saint
-title: "Saint Bertger of Herzfeld"
 summary: "Priest in Herzfeld, Germany. Spiritual director and confessor of Saint Ida of Herzfeld."
 deathYear: 830
 died: "c.830 in Herzfeld, Germany of natural causes while celebrating Mass"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Fritzlar"
 honorific: Saint
-title: "Saint Felix of Fritzlar"
 summary: "Monk at Fritzlar, Germany. Martyred by a pagan mob."
 deathYear: 790
 died: "c.790"

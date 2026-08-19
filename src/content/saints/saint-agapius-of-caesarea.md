@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapius of Caesarea"
 honorific: Saint
-title: "Saint Agapius of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Melitene"
 honorific: Saint
-title: "Saint Peter of Melitene"
 summary: "Deacon. Martyr."
 died: "Melitene, Armenia"
 deathPlace: "Armenia"

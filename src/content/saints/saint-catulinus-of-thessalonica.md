@@ -1,7 +1,6 @@
 ---
 name: "Saint Catulinus of Thessalonica"
 honorific: Saint
-title: "Saint Catulinus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

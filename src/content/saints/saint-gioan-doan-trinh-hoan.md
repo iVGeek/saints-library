@@ -1,7 +1,6 @@
 ---
 name: "Saint Gioan Ðoàn Trinh Hoan"
 honorific: Venerable
-title: "Saint Gioan Ðoàn Trinh Hoan"
 summary: "Priest in the apostolic vicariate of North Cochinchina (in modern Vietnam) who worked to evanglize his countrymen. Martyred in the persecutions of Emperor Tu-Duc."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

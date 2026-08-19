@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerzy Popieluszko"
 honorific: Blessed
-title: "Blessed Jerzy Popieluszko"
 summary: "Born to a farm family. Ordained on 28 May 1972 in the archdiocese of Warsaw, Poland. Noted and vocal anti-Communist preacher during the period of Communist rule in Poland. Worked closely with the anti-Communist Solidarity union movement. When martial law was declared in Poland to"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-jerzy-popieluszko/venerable-jerzy-popieluszko.jpg"
 birthYear: 1947

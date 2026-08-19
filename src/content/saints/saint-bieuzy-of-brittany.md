@@ -1,7 +1,6 @@
 ---
 name: "Saint Bieuzy of Brittany"
 honorific: Saint
-title: "Saint Bieuzy of Brittany"
 summary: "Spiritual student of Saint Gildas the Wise. Followed Gildas in his work in Brittany (part of modern France). Monk. Known for his gift healing men and animals. Murdered by a nobleman refusing the man's summons to heal some rabid dogs; Bieuzy stayed at the monastery for religious s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bieuzy-of-Brittany.jpg"
 searchAliases:

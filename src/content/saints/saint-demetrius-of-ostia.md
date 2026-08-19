@@ -1,7 +1,6 @@
 ---
 name: "Saint Demetrius of Ostia"
 honorific: Saint
-title: "Saint Demetrius of Ostia"
 summary: "Martyr. No other information has survived."
 died: "Ostia, Italy, date unknown"
 deathPlace: "Italy, date unknown"

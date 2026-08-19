@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Rome"
 honorific: Saint
-title: "Saint Paul of Rome"
 summary: "Martyr. No other information has survived."
 died: "in Rome, Italy"
 deathPlace: "Italy"

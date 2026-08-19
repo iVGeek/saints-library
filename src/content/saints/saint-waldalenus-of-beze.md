@@ -1,7 +1,6 @@
 ---
 name: "Saint Waldalenus of Bèze"
 honorific: Saint
-title: "Saint Waldalenus of Bèze"
 summary: "Born to the wealthy Burgundian nobility, the son of Duke Almagar and Duchess Aquilina; he was the brother of Saint Adalsindis of Bèze, and was named after his grandfather. Educated by and spiritual student of Saint Columbanus. Monk of Luxeuil Abbey during the abbacies of Columban"
 searchAliases:
   - "Valdaleno"

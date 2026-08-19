@@ -1,7 +1,6 @@
 ---
 name: "Saint George of Antioch"
 honorific: Saint
-title: "Saint George of Antioch"
 summary: "Monk. Bishop of Antioch, Pisidia. Attended the Second Council of Nicea in 787. Opposed the iconoclasts, for which he was exiled by Emperor Leo V, the Armenian."
 deathYear: 815
 died: "815 of natural causes"

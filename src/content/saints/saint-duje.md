@@ -1,7 +1,6 @@
 ---
 name: "Saint Duje"
 honorific: Saint
-title: "Saint Duje"
 summary: "Third century bishop of Salona, Dalmatia (in modern Croatia). Martyred with seven other Christians in the persecutions of Diocletian."
 searchAliases:
   - "Doimus"

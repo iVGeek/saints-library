@@ -1,7 +1,6 @@
 ---
 name: "Saint Grimoaldus of Pontecorvo"
 honorific: Saint
-title: "Saint Grimoaldus of Pontecorvo"
 summary: "Archpriest in Pontecorvo, southern Italy. Around 1137 he built a church dedicated to an apparition of Saint John the Baptist."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Grimoaldus-of-Pontecorvo.jpg"
 deathYear: 1137

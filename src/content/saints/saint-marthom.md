@@ -1,7 +1,6 @@
 ---
 name: "Saint Marthom"
 honorific: Saint
-title: "Saint Marthom"
 summary: "No information has survived."
 feastDay:
   month: 9

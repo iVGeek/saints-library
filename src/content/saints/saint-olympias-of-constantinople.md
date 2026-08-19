@@ -1,7 +1,6 @@
 ---
 name: "Saint Olympias of Constantinople"
 honorific: Saint
-title: "Saint Olympias of Constantinople"
 summary: "Born to a wealthy Constantinople noble family. Orphaned as a child. Married to Nebridius, prefect of Constantinople. Widowed, she refused several offers of marriage, and devoted herself to the Church. Deaconess. She led a non-cloistered group of prayerful women in her home, and d"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Olympias-of-Constantinople.jpg"
 searchAliases:

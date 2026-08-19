@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ricardo Guerra-Villazan"
 honorific: Blessed
-title: "Blessed Ricardo Guerra-Villazan"
 summary: "Baptized at the age of three days. Member of the Congregation of Saint Peter ad Vincula, making his novitiate in Marseille, France and his profession in 1931. After studies in Barcelona, Spain, he received a degree in theology. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ricardo-Guerra-Villazan.jpg"
 searchAliases:

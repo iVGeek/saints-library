@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Martínez Pérez"
 honorific: Blessed
-title: "Blessed Josefa Martínez Pérez"
 summary: "The third of six children born to the peasant family of Josè and Marcela, she was educated at home, and then at the boarding school run by the Daughters of Charity in Alberique, Spain. A member of the Daughters of Mary, Josefa felt a call to religious life, and joined the Daughte"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Martinez-Perez.jpg"
 birthYear: 1897

@@ -1,7 +1,6 @@
 ---
 name: "Saint Thecla the Martyr"
 honorific: Saint
-title: "Saint Thecla the Martyr"
 summary: "Young girl who fled to Nola, Italy, to escape persecution. Arrested there for her faith, she was taken to Salerno, tortured and martyred with Saint Archelais and Saint Susanna."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nola.jpg"
 deathYear: 293

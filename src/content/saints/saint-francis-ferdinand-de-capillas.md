@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis Ferdinand de Capillas"
 honorific: Venerable
-title: "Saint Francis Ferdinand de Capillas"
 summary: "Joined the Dominicans in Valladolid, Spain. Ordained in Manila, Philippines in 1631. Missionary and parish priest in Cagayan, Philippines. Missionary to China for several years. He made so many converts in Fu-kien that local officials arrested him as a spy. Accused of espionage,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Saint_statues_Philippines_10.jpg/960px-Saint_statues_Philippines_10.jpg"
 birthYear: 1607

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Uzumi Shingoro"
 honorific: Blessed
-title: "Blessed Thomas Uzumi Shingoro"
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 birthYear: 1575
 deathYear: 1627

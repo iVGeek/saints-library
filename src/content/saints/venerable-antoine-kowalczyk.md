@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antoine Kowalczyk"
 honorific: Venerable
-title: "Venerable Antoine Kowalczyk"
 summary: "Lost an arm in a sawmill accident in 1897 and had to use a prosthetic the rest of his life. Lay brother of the Missionary Oblates of Mary Immaculate in 1899. Worked most of his life as a a mechanic, driver, gardener and porter at the Saint-Jean Juniorate (modern Campus Saint-Jean"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/AntoniKowalczykOMI.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacinth"
 honorific: Saint
-title: "Saint Hyacinth"
 summary: "Relative, possibly the brother of Blessed Ceslas Odrowaz. Educated in Krakow, Prague, Paris and Bologna. Doctor of Law and of Sacred Studies. Priest. Worked to reform convents in his native Poland. While in Rome working with his uncle, Bishop Ivo Konski of Krakow, he witnessed a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hyacinth_-_Anglesey_Abbey.jpg/960px-Hyacinth_-_Anglesey_Abbey.jpg"
 searchAliases:

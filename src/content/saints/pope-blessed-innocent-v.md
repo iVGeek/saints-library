@@ -1,7 +1,6 @@
 ---
 name: "Pope Blessed Innocent V"
 honorific: Blessed
-title: "Pope Blessed Innocent V"
 summary: "Joined the Dominicans at age 16. Studied at the University of Paris, receiving a master in sacred theology in 1250. He was famous in his life as a preacher and theologian. Archbishop of Lyons, France in 1272. Wrote several works on philosophy, theology, and canon law. Played a pr"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/40_Innocenzo_V%28cropped%29.jpg"
 searchAliases:

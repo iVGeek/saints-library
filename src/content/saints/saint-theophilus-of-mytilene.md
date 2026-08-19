@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Mytilene"
 honorific: Saint
-title: "Saint Theophilus of Mytilene"
 summary: "Martyred with several fellow Christians in the persecutions of Diocletian."
 deathYear: 300
 born: "Armenia"

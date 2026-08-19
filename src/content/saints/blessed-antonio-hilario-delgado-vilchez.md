@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Hilario Delgado Vílchez"
 honorific: Blessed
-title: "Blessed Antonio Hilario Delgado Vílchez"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Hilario"

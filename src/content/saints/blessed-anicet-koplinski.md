@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anicet Koplinski"
 honorific: Blessed
-title: "Blessed Anicet Koplinski"
 summary: "Franciscan Capuchin friar. Priest. Friend of Blessed Fidelis Chojnacki. Martyred in the Nazi persecutions of World War II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anicet-Koplinski.jpg"
 searchAliases:

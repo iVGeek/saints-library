@@ -1,7 +1,6 @@
 ---
 name: "Saint Cuthbert of Brittany"
 honorific: Saint
-title: "Saint Cuthbert of Brittany"
 summary: "No information has survived."
 searchAliases:
   - "Cuthbertus"

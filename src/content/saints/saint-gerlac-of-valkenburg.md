@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerlac of Valkenburg"
 honorific: Saint
-title: "Saint Gerlac of Valkenburg"
 summary: "Born the nobility, he served as a soldier in the imperial German army. Led a wild and licentious life, part as a highwayman, until the death of his wife, after which he experienced a conversion. Did penance the rest of his life, first by caring for the sick in Jerusalem for seven"
 image: "http://catholicsaints.info/wp-content/uploads/img-Gerlachus-van-Houthem.jpg"
 searchAliases:

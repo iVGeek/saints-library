@@ -1,7 +1,6 @@
 ---
 name: "Saint Euerotas of Nicaea"
 honorific: Saint
-title: "Saint Euerotas of Nicaea"
 summary: "Martyr."
 deathYear: 230
 died: "c.230 in Nicaea"

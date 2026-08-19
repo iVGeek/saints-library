@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Antonio de Bengoa Larriñaga"
 honorific: Blessed
-title: "Blessed Juan Antonio de Bengoa Larriñaga"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Daciano"

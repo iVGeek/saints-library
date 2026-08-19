@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew Zorard"
 honorific: Saint
-title: "Saint Andrew Zorard"
 summary: "Missionary hermit in the area of Olawa, Silesia (in modern Poland). Monk in Tropie, Poland. Hermit and then Benedictine monk on Mount Zobar, Hungary c.1003 where, at the request of King Saint Stephen of Hungary, he helped establish a hermitage. Spiritual teacher of Saint Benedict"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Andrew-Zorard.jpg"
 searchAliases:

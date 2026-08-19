@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Acotanto"
 honorific: Blessed
-title: "Blessed Peter Acotanto"
 summary: "Born to a wealthy Venetian patrician family, he gave away his wealth to the poor and lived a life of penance. Lived as a hermit in a monastery and refused to join the community or become abbot. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Acotanto.jpg"
 deathYear: 1187

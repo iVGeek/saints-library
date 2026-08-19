@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Dolors Llimona Planas"
 honorific: Blessed
-title: "Blessed Maria Dolors Llimona Planas"
 summary: "Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:

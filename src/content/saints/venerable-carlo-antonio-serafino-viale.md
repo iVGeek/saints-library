@@ -1,7 +1,6 @@
 ---
 name: "Venerable Carlo Antonio Serafino Viale"
 honorific: Venerable
-title: "Venerable Carlo Antonio Serafino Viale"
 summary: "From his youth, Carlo felt drawn to religious life. He joined Franciscan Friars Minor at the convent of Oregina, Italy on 29 August 1847, taking the name Fra Giacomo. He studied at several convents in the area of Genoa, Italy, and on 17 December 1852 was ordained a priest. He ser"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Antonio-Serafino-Viale.jpg"
 searchAliases:

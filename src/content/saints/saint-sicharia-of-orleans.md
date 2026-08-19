@@ -1,7 +1,6 @@
 ---
 name: "Saint Sicharia of Orléans"
 honorific: Saint
-title: "Saint Sicharia of Orléans"
 summary: "Fifth century nun whose story has not survived."
 searchAliases:
   - "Sicaire"

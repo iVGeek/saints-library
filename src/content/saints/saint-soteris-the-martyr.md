@@ -1,7 +1,6 @@
 ---
 name: "Saint Soteris the Martyr"
 honorific: Saint
-title: "Saint Soteris the Martyr"
 summary: "Wealthy 3rd century noble family. A beatiful young woman, she consecrated herself to God. Unlike other women of her day, she dressed plainly with no ornamentation so men would ignore her, and lived a quiet, simple life, forshadowing the female religious orders in years to come. A"
 searchAliases:
   - "Soteris of Rome"

@@ -1,7 +1,6 @@
 ---
 name: "Saint James of Persia"
 honorific: Saint
-title: "Saint James of Persia"
 summary: "Martyred with Saint John in the persecution of King Shapur II."
 deathYear: 344
 born: "Persian"

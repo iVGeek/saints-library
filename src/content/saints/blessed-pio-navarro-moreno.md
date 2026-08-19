@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pío Navarro Moreno"
 honorific: Blessed
-title: "Blessed Pío Navarro Moreno"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

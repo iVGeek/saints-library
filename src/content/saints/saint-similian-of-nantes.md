@@ -1,7 +1,6 @@
 ---
 name: "Saint Similian of Nantes"
 honorific: Saint
-title: "Saint Similian of Nantes"
 summary: "Bishop of Nantes, France. Saint Gregory of Tours testified to his holiness."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Similian-of-Nantes.jpg"
 searchAliases:

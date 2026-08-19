@@ -1,7 +1,6 @@
 ---
 name: "Saint Athanasia of Canope"
 honorific: Saint
-title: "Saint Athanasia of Canope"
 summary: "Married Christian lay woman and mother. Tortured and martyred with her three daughters."
 died: "beheaded in Canope, Egypt"
 deathPlace: "Egypt"

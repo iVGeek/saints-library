@@ -1,7 +1,6 @@
 ---
 name: "Blessed Boniface of Canterbury"
 honorific: Blessed
-title: "Blessed Boniface of Canterbury"
 summary: " Carthusian monk at the Grande Chartreuse. Prior of the monastery in Natua, France. Bishop of Belley, France in Born to the nobility, member of the ducal House of Savoy. Eleventh child of Count Thomas of Savoy. Brother of Queen Beatrix of Savoy. Uncle of Queen Eleanor of England."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Boniface-of-Canterbury.jpg"
 birthYear: 1207

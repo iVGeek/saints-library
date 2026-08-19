@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isabel Calduch Rovira"
 honorific: Blessed
-title: "Blessed Isabel Calduch Rovira"
 summary: "Franciscan Capuchin Poor Clare nun. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1937

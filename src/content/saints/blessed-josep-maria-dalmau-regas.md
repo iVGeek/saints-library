@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Dalmau Regás"
 honorific: Blessed
-title: "Blessed Josep Maria Dalmau Regás"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936

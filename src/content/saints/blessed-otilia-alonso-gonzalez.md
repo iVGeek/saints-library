@@ -1,7 +1,6 @@
 ---
 name: "Blessed Otilia Alonso González"
 honorific: Blessed
-title: "Blessed Otilia Alonso González"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

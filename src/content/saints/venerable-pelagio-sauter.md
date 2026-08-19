@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pelágio Sauter"
 honorific: Venerable
-title: "Venerable Pelágio Sauter"
 summary: "One of 15 children. Redemptorist priest, ordained in 1907. Missionary to Brazil in 1909 where he worked for the next 52 years."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Padre_Pel%C3%A1gio_e_Herm%C3%ADnio.jpg"
 birthYear: 1878

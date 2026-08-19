@@ -1,7 +1,6 @@
 ---
 name: "Saint Rachildis of Saint-Gall"
 honorific: Saint
-title: "Saint Rachildis of Saint-Gall"
 summary: "Benedictine anchoress who lived walled up in a cell near Saint Wiborada, under obedience to the abbot of Saint Gall in Switzerland."
 searchAliases:
   - "Richildis"

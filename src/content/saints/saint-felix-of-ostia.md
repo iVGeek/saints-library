@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Ostia"
 honorific: Saint
-title: "Saint Felix of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"

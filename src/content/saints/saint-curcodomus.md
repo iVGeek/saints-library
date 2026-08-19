@@ -1,7 +1,6 @@
 ---
 name: "Saint Curcodomus"
 honorific: Saint
-title: "Saint Curcodomus"
 summary: "Benedictine abbot at Maroilles, diocese of Cambrai, France."
 deathYear: 680
 died: "680 of natural causes"

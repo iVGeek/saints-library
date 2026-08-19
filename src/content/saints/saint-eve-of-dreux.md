@@ -1,7 +1,6 @@
 ---
 name: "Saint Eve of Dreux"
 honorific: Saint
-title: "Saint Eve of Dreux"
 summary: "Martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eve-of-Dreux.jpg"
 region: "France"

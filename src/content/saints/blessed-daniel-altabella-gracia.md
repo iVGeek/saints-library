@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel Altabella Gracia"
 honorific: Blessed
-title: "Blessed Daniel Altabella Gracia"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pablo Daniel"

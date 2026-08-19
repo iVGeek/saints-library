@@ -1,7 +1,6 @@
 ---
 name: "Saint Wiro of Utrecht"
 honorific: Saint
-title: "Saint Wiro of Utrecht"
 summary: "Bishop of Utrecht, Netherlands. One of the Apostles of Frisia. He and his two companions founded a monastery at Odiliënberg (in modern France)."
 searchAliases:
   - "Wirone"

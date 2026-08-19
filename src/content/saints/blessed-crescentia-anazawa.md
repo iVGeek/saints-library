@@ -1,7 +1,6 @@
 ---
 name: "Blessed Crescentia Anazawa"
 honorific: Blessed
-title: "Blessed Crescentia Anazawa"
 summary: "Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Antonius Anazawa Han'emon. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

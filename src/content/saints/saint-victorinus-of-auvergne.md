@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Auvergne"
 honorific: Saint
-title: "Saint Victorinus of Auvergne"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 deathYear: 265
 died: "c.265 in Auvergne, France"

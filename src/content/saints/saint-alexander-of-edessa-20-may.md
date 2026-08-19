@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Edessa"
 honorific: Saint
-title: "Saint Alexander of Edessa"
 summary: "Martyred in the persecutions of Numerian."
 died: "Edessa, Syria"
 deathPlace: "Syria"

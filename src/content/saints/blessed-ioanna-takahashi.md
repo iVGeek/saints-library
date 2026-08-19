@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioanna Takahashi"
 honorific: Blessed
-title: "Blessed Ioanna Takahashi"
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Hadrianus Takahashi Mondo. One of the Martyrs of Arima."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg"
 deathYear: 1613

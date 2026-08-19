@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthelm of Belley"
 honorific: Saint
-title: "Saint Anthelm of Belley"
 summary: "Born to the nobility. Priest. Provost of a cathedral chapter. He got caught up in Church politics, and sought ecclesiastical positions to increase his power and authority rather than ability to serve. A visit to the Carthusians at Portes changed his view of his vocation, and he f"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Anthelme_priez_pour_nous.jpg"
 searchAliases:

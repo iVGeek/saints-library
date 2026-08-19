@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno the Martyr"
 honorific: Saint
-title: "Saint Zeno the Martyr"
 summary: "Martyr."
 died: "burned alive, date and place unknown"
 deathPlace: "date and place unknown"

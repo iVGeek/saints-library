@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Farrés Valls"
 honorific: Blessed
-title: "Blessed Pere Farrés Valls"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

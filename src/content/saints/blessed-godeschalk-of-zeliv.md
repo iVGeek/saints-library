@@ -1,7 +1,6 @@
 ---
 name: "Blessed Godeschalk of Zeliv"
 honorific: Blessed
-title: "Blessed Godeschalk of Zeliv"
 summary: "Premonstratensian canon in Steinfield, Germany. He led a group of Premonstratensian brothers who revived an abandoned Benedictine monastery of Želiv (in modern Czech Republic); it became one of the most important religious institutions in Bohemia, and its brothers founded other h"
 searchAliases:
   - "Godeschalcus of Želiv"

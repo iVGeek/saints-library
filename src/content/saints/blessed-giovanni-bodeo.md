@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Bodeo"
 honorific: Blessed
-title: "Blessed Giovanni Bodeo"
 summary: "Franciscan Friar Minor lay brother who served as gardener and assistant sacristan at his house. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Bodeo.jpg"
 searchAliases:

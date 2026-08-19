@@ -1,7 +1,6 @@
 ---
 name: "Saint Teresia Chen Qingjieh"
 honorific: Venerable
-title: "Saint Teresia Chen Qingjieh"
 summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Teresia-Chen-Qingjieh.jpg"
 searchAliases:

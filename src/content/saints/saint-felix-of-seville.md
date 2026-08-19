@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Seville"
 honorific: Saint
-title: "Saint Felix of Seville"
 summary: "Deacon. Martyr. No other information has survived."
 searchAliases:
   - "Felice"

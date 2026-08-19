@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Anicetus"
 honorific: Saint
-title: "Pope Saint Anicetus"
 summary: "Son of John. Little is known of his life before his election as 11th Pope. Met with Saint Polycarp of Smyrna and allowed Eastern Christians to celebrate Easter on the 14th day of Nisan, regardless of whether it fell on Sunday. Anicetus took a firm stand against Gnosticism. Decree"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wolnzach%2C_St_Laurentius_017.JPG/960px-Wolnzach%2C_St_Laurentius_017.JPG"
 deathYear: 166

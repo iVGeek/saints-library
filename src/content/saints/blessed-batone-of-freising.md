@@ -1,7 +1,6 @@
 ---
 name: "Blessed Batone of Freising"
 honorific: Blessed
-title: "Blessed Batone of Freising"
 summary: "Monk at the monastery of San Candido of Val Pusteria in the diocese of Freising, Germany. Chaplain to Bishop Ellenhard of Freising, who served from 1052 to 1078."
 searchAliases:
   - "Baturico"

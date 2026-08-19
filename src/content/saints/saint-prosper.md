@@ -1,7 +1,6 @@
 ---
 name: "Saint Prosper of Reggio"
 honorific: Saint
-title: "Saint Prosper of Reggio"
 summary: "A good student in his youth, especially of the work of Saint Augustine of Hippo; Prosper was known throughout his life for his holiness and purity. As an adult, Prosper moved from Aquitaine to Provence and settled near Marseilles, an area plagued with heresies. A layman, Prosper"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Virginmarysaintbernardsaintprosper.JPG"
 searchAliases:

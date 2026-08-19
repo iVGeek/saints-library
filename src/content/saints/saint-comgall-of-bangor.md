@@ -1,7 +1,6 @@
 ---
 name: "Saint Comgall of Bangor"
 honorific: Saint
-title: "Saint Comgall of Bangor"
 summary: "Son of Sedna. Soldier. Spiritual student of Saint Fintan of Clonenagh and Saint Kieran at Clonmacnoise. Friend of Saint Brendan, Saint Cormac, Saint Kevin of Glendalough and Finbarr of Moville. Ordained by Saint Lughaedh of Conmacnoise. Spiritual teacher of Saint Cronan Mochua. H"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Comgall-of-Bangor.jpg"
 birthYear: 510

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Ferrer Marín"
 honorific: Blessed
-title: "Blessed Pere Ferrer Marín"
 summary: "Professed religious in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pere Maria"

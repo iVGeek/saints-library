@@ -1,7 +1,6 @@
 ---
 name: "Saint Siricius of Hadrumetum"
 honorific: Saint
-title: "Saint Siricius of Hadrumetum"
 summary: "One of a group of 26 martyrs killed by Vandals."
 deathYear: 434
 died: "c.434 at Hadrumetum (modern Sousse, Tunisia)"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspard-Claude Maignien"
 honorific: Blessed
-title: "Blessed Gaspard-Claude Maignien"
 summary: "Priest in the diocese of Beauvais, France. One of the Martyrs of September."
 birthYear: 1752
 deathYear: 1792

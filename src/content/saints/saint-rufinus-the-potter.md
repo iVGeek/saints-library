@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus the Potter"
 honorific: Saint
-title: "Saint Rufinus the Potter"
 summary: "Potter. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "martyred c.250"

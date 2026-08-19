@@ -1,7 +1,6 @@
 ---
 name: "Saint Dignamerita of Brescia"
 honorific: Saint
-title: "Saint Dignamerita of Brescia"
 summary: "Lay woman martyred with her two sons, whose names have not come down to us, in the persecutions of emperor Hadrian."
 died: "beheaded the early 1st century in Brescia, Italy"
 deathPlace: "Italy"

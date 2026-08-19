@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Africa"
 honorific: Saint
-title: "Saint Julian of Africa"
 summary: "Martyr. No other information has survived."
 deathYear: 254
 died: "254 in Africa, exact location and date unknown"

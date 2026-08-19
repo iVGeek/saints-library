@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Figuera Rey"
 honorific: Blessed
-title: "Blessed Josep Figuera Rey"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Llorenç Gabriel"

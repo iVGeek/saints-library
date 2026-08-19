@@ -1,7 +1,6 @@
 ---
 name: "Venerable Vicente Garrido Pastor"
 honorific: Venerable
-title: "Venerable Vicente Garrido Pastor"
 summary: "Priest of the archdiocese of Valencia, Spain. Founded the Secular Institute of the Workers of the Cross."
 birthYear: 1896
 deathYear: 1975

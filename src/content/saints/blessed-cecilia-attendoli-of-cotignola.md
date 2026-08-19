@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cecilia Attendoli of Cotignola"
 honorific: Blessed
-title: "Blessed Cecilia Attendoli of Cotignola"
 summary: "Poor Clare nun in the monastery of Santa Chiara in Mortara, Italy. We know little about her, but she is described as a woman of great virtue, and as a miracle worker."
 image: "https://catholicsaints.info/wp-content/uploads/img-Clarissas.jpg"
 searchAliases:

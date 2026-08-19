@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Syracuse"
 honorific: Saint
-title: "Saint Zosimus of Syracuse"
 summary: "Son of wealthy land owners. Dedicated to Saint Lucy of Syracuse. Entered the monastery of Saint Lucy near Syracuse, Sicily at age seven. At one point as a child, he was unable to bear the quiet of the monastery and the tedium of his chores, and he ran away. His family sent him ba"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zosimus-of-Syracuse.jpg"
 searchAliases:

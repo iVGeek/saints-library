@@ -1,7 +1,6 @@
 ---
 name: "Saint Abbondio"
 honorific: Saint
-title: "Saint Abbondio"
 summary: "Described by Saint Gregory the Great, who wrote about him in the Dialogues, as a man of great humility and diginity in his fulfillment of work. Legend says that one day a girl with crippled hands prayed to Saint Peter the Apostle for his intercession in their healing; he appeared"
 searchAliases:
   - "Acoitius"

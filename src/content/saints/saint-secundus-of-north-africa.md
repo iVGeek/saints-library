@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of North Africa"
 honorific: Saint
-title: "Saint Secundus of North Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "England"
 feastDay:

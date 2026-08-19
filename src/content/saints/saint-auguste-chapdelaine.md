@@ -1,7 +1,6 @@
 ---
 name: "Saint Auguste Chapdelaine"
 honorific: Venerable
-title: "Saint Auguste Chapdelaine"
 summary: "Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped out to work on the family farm. He early felt a call to the priesthood, but his family opposed it, needing his help on the farm. However, the sudden death of two"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Auguste_Chapdelaine.jpg"
 searchAliases:

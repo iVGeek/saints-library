@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Font Taulat"
 honorific: Blessed
-title: "Blessed Joan Font Taulat"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Arnal Ciril"

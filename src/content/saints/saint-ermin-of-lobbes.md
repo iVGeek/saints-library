@@ -1,7 +1,6 @@
 ---
 name: "Saint Ermin of Lobbes"
 honorific: Saint
-title: "Saint Ermin of Lobbes"
 summary: "Studied at the Cathedral School of Laon, France. Priest. Monk at the Benedictine abbey at Lobbes, Belgium. Spiritual student of Saint Ursmar. Bishop of Lobbes in 711. Second abbot of Lobbes in 718. Supported missionaries, known for wisdom and personal holiness, and the gift of pr"
 searchAliases:
   - "Erminus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Adalbert Radiouski"
 honorific: Blessed
-title: "Blessed Adalbert Radiouski"
 summary: "Premonstratensian monk. Canon and then prior of the Premonstratensian monastery of Saint Vincent in Wroclaw, Poland where he insisted on proper monastic discipline. He took to the streets to defend his house against attacks by Protestants."
 searchAliases:
   - "Albert"

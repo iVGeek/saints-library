@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pau Figuerola Rovira"
 honorific: Blessed
-title: "Blessed Pau Figuerola Rovira"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Figuerola-Rovira.jpg"
 birthYear: 1870

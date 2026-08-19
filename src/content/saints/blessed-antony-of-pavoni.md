@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antony of Pavoni"
 honorific: Blessed
-title: "Blessed Antony of Pavoni"
 summary: "Known as a pious, intelligent youth. A Dominican, he was a monk at age 15, priest at 25. Pope Urban V appointed him inquisitor-general to fight heresies in Lombardy and Genoa, Italy in 1360; he was one of the youngest men to hold that office. A complex and difficult job, it was a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antony-of-Pavoni-1.jpg"
 searchAliases:

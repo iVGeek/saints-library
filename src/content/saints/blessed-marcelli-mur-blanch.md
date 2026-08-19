@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelli Mur Blanch"
 honorific: Blessed
-title: "Blessed Marcelli Mur Blanch"
 summary: "Member of the Claretians, professed on 21 June 1909. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

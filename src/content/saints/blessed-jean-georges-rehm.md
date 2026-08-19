@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Georges Rehm"
 honorific: Blessed
-title: "Blessed Jean-Georges Rehm"
 summary: "Dominican priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:

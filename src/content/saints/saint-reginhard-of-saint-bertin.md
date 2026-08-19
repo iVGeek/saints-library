@@ -1,7 +1,6 @@
 ---
 name: "Saint Reginhard of Saint Bertin"
 honorific: Saint
-title: "Saint Reginhard of Saint Bertin"
 summary: "Monk of Saint Bertin Abbey. Murdered by invading Danes. Martyr."
 deathYear: 862
 died: "862"

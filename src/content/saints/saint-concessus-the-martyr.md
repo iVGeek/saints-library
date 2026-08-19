@@ -1,7 +1,6 @@
 ---
 name: "Saint Concessus the Martyr"
 honorific: Saint
-title: "Saint Concessus the Martyr"
 summary: "Martyr. No other details are known."
 region: "England"
 feastDay:

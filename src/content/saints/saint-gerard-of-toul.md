@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerard of Toul"
 honorific: Saint
-title: "Saint Gerard of Toul"
 summary: "Born to the nobility, he was known as a pious boy, and received a good education in Cologne, Germany. Priest. Following the death of his mother by a lightning strike, Gerard wanted a life of quiet prayer and penance, and became canon of the cathedral in Cologne. His reputation fo"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cath%C3%A9drale_de_Toul%2C_2009_%28St_G%C3%A9rard%29.jpg/960px-Cath%C3%A9drale_de_Toul%2C_2009_%28St_G%C3%A9rard%29.jpg"
 searchAliases:

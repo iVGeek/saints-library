@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavius of Nicomedia"
 honorific: Saint
-title: "Saint Flavius of Nicomedia"
 summary: "Brother of Saint Augustine of Nicomedia and Saint Augustus of Nicomedia. Bishop of Nicomedia. Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Bae Gwan-gyeom"
 honorific: Blessed
-title: "Blessed Franciscus Bae Gwan-gyeom"
 summary: "Layman convert, one of the first in Korea. He started building a house of prayer house in his village for his fellow converts, but was arrested before he could finish it, and murdered during questioning."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Sobarthann"
 honorific: Saint
-title: "Saint Sobarthann"
 summary: "Irish bishop mentioned the martyrologies of Tallaght, Gorman and Donegal, but no information about him has survived."
 region: "Ireland"
 feastDay:

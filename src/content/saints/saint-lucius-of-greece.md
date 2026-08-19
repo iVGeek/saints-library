@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of Greece"
 honorific: Saint
-title: "Saint Lucius of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

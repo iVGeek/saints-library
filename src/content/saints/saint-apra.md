@@ -1,7 +1,6 @@
 ---
 name: "Saint Apra"
 honorific: Saint
-title: "Saint Apra"
 summary: "Child martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"

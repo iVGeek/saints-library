@@ -1,7 +1,6 @@
 ---
 name: "Saint Brecan of Ara"
 honorific: Saint
-title: "Saint Brecan of Ara"
 summary: "Bishop."
 region: "Ireland"
 feastDay:

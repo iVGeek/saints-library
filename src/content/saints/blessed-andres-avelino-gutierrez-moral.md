@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrés Avelino Gutiérrez Moral"
 honorific: Blessed
-title: "Blessed Andrés Avelino Gutiérrez Moral"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Avelino-Gutiérrez-Moral.jpg"
 birthYear: 1886

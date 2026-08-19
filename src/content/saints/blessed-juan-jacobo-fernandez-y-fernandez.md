@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Jacobo Fernández y Fernández"
 honorific: Blessed
-title: "Blessed Juan Jacobo Fernández y Fernández"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg"
 birthYear: 1808

@@ -1,7 +1,6 @@
 ---
 name: "Saint Egbert of Rathemigisi"
 honorific: Saint
-title: "Saint Egbert of Rathemigisi"
 summary: "Born to the Northumbrian nobility. Benedictine monk at the monastery of Lindisfarne, England. Unsuccessfully worked to stop King Egfrith from invading Ireland in 684. Studied at Rathmelsigi monastery, (modern Mellifont, County Louth) Ireland, and then served as a teacher to newer"
 searchAliases:
   - "Egbert of Iona"

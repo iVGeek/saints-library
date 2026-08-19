@@ -1,7 +1,6 @@
 ---
 name: "Saint Ninian of Whithorn"
 honorific: Saint
-title: "Saint Ninian of Whithorn"
 summary: "Son of a chieftain of the Cumbrian Britons. His father was a convert to Christianity, and Ninian was raised a Christian. Studied in Rome, Italy for fifteen years under the direction of Pope Saint Damasus I. Priest. Bishop, consecrated by Pope Saint Siricus c.394. Friend of Saint"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ninian.jpg"
 searchAliases:

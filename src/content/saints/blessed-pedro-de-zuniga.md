@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro de Zúñiga"
 honorific: Blessed
-title: "Blessed Pedro de Zúñiga"
 summary: "Augustinian priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 birthYear: 1579

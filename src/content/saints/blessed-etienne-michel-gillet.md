@@ -1,7 +1,6 @@
 ---
 name: "Blessed Étienne-Michel Gillet"
 honorific: Blessed
-title: "Blessed Étienne-Michel Gillet"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1758
 deathYear: 1792

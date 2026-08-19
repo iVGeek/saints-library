@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Nicomedia"
 honorific: Saint
-title: "Martyrs of Nicomedia"
 summary: "20,000 Christians martyred by order of Diocletian. They were reported to have all been in the single basilica to celebrate Christmas. While there unquestionably was an endless series of martyrs under Diocletian, it's likely the ancient sources exaggerated the numbers of this inci"
 deathYear: 303
 died: "burned alive in 303 in the basilica of Nicomedia"

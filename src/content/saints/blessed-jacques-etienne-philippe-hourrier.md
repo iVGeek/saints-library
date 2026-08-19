@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Étienne-Philippe Hourrier"
 honorific: Blessed
-title: "Blessed Jacques-Étienne-Philippe Hourrier"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792

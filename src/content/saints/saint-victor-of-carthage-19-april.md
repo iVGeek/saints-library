@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Carthage"
 honorific: Saint
-title: "Saint Victor of Carthage"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)"

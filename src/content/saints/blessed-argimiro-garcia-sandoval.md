@@ -1,7 +1,6 @@
 ---
 name: "Blessed Argimiro García Sandoval"
 honorific: Blessed
-title: "Blessed Argimiro García Sandoval"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "León Argimiro"

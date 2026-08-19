@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrus of Carthage"
 honorific: Saint
-title: "Saint Cyrus of Carthage"
 summary: "Bishop of Carthage."
 region: "Italy"
 feastDay:

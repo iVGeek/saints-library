@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Grassi"
 honorific: Blessed
-title: "Blessed Antonio Grassi"
 summary: "Oldest child in a devout family. Antonio's father, Vincenzo Grassi, died when the boy was only 10 years old, but he managed to pass on his devotion to Our Lady of Loreto. Antonio, who attended Mass each day as a boy, joined the Oratorian Fathers at age 17 where he showed a natura"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%93%D1%80%D0%B0%D1%81%D1%81%D0%B8.jpg"
 birthYear: 1592

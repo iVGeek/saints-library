@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius of Antioch"
 honorific: Saint
-title: "Saint Macarius of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"

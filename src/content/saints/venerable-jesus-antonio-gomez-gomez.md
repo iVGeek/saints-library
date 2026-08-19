@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jesús Antonio Gómez Gómez"
 honorific: Venerable
-title: "Venerable Jesús Antonio Gómez Gómez"
 summary: "One of seventeen children born to José Joaquín and Ana Joaquina, Jesús Antonio was baptized at the age of one day; four of the children in his family entered religious life. Jesús Antonio studied at the seminary in Medellín, Colombia, and was ordained a priest on 11 March 1922; h"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Jesus-Antonio-Gomez-Gomez.jpg"
 searchAliases:

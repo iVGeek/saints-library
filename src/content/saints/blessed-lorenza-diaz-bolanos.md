@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenza Díaz Bolaños"
 honorific: Blessed
-title: "Blessed Lorenza Díaz Bolaños"
 summary: "Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

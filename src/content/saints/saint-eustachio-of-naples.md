@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustachio of Naples"
 honorific: Saint
-title: "Saint Eustachio of Naples"
 summary: "Mid-3rd-century bishop of Naples, Italy."
 searchAliases:
   - "Eustasio"

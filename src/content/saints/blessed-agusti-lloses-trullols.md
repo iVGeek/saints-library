@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agustí Llosés Trullols"
 honorific: Blessed
-title: "Blessed Agustí Llosés Trullols"
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936

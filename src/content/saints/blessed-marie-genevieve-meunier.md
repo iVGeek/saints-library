@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Geneviève Meunier"
 honorific: Blessed
-title: "Blessed Marie-Geneviève Meunier"
 summary: "Carmelite novice, taking the habit on 16 December 1788. One of the Carmelite Martyrs of Compiegne. She mounted the scaffold singing “Laudate Dominum”."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:

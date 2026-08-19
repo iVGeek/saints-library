@@ -1,7 +1,6 @@
 ---
 name: "Blessed Johanna of Cáceres"
 honorific: Blessed
-title: "Blessed Johanna of Cáceres"
 summary: "Benedictine Cistercian nun the convent of Saint Benedict at Cáceres, western Spain when still very young; she spent almost her entire life in the convent. Abbess."
 deathYear: 1383
 born: "14th century Spain"

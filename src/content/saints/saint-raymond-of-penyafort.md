@@ -1,7 +1,6 @@
 ---
 name: "Saint Raymond of Penyafort"
 honorific: Saint
-title: "Saint Raymond of Penyafort"
 summary: "Born to the Aragonian nobility. Educated at the cathedral school in Barcelona, Spain. Philosophy teacher around age 20. Priest. Graduated law school in Bologna, Italy. Joined the Dominicans in 1218. Summoned to Rome, Italy in 1230 by Pope Gregory IX. Assigned to collect all offic"
 image: "http://catholicsaints.info/wp-content/gallery/saint-raymond-of-penyafort/saint-raymond-of-penyafort-01.jpg"
 searchAliases:

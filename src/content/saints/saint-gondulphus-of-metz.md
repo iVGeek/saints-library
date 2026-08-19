@@ -1,7 +1,6 @@
 ---
 name: "Saint Gondulphus of Metz"
 honorific: Saint
-title: "Saint Gondulphus of Metz"
 summary: "Priest. Bishop of Metz, France, December 816."
 searchAliases:
   - "Gundulfus"

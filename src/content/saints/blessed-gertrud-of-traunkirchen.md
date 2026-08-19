@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gertrud of Traunkirchen"
 honorific: Blessed
-title: "Blessed Gertrud of Traunkirchen"
 summary: "Benedictine nun and then abbess of the Abbey of Traunkirchen, Germany (in modern Austria)."
 searchAliases:
   - "Gertrude"

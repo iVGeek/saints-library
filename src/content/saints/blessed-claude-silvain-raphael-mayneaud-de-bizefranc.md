@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claude-Silvain-Raphaël Mayneaud de Bizefranc"
 honorific: Blessed
-title: "Blessed Claude-Silvain-Raphaël Mayneaud de Bizefranc"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1750
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henry of Vitskøl"
 honorific: Blessed
-title: "Blessed Henry of Vitskøl"
 summary: "Cistercian monk at the abbey of Clairvaux. Spiritual student of Saint Bernard of Clairvaux. Like many others from that house, he went out to establish other houses, and c.1150 travelled to the Nordic countries. There he became abbot of Varnhem Abbey in Sweden, but when Queen Chri"
 born: "12th century France"
 region: "France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassian of North Africa"
 honorific: Saint
-title: "Saint Bassian of North Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

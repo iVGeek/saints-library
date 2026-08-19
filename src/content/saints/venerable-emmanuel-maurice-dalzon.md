@@ -1,7 +1,6 @@
 ---
 name: "Venerable Emmanuel-Maurice d'Alzon"
 honorific: Venerable
-title: "Venerable Emmanuel-Maurice d'Alzon"
 summary: "Ordained in Rome, Italy in 1834. Vicar-General of Nimes, France. Founded the Augustinians of the Assumption (Assumptionists) in 1850 and the Oblates of the Assumption in 1865."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Emmanuel-Maurice-dAlzon.jpg"
 birthYear: 1810

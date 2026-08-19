@@ -1,7 +1,6 @@
 ---
 name: "Saint Apollo of Nicomedia"
 honorific: Saint
-title: "Saint Apollo of Nicomedia"
 summary: "Palace attendant to Empress Alexandra, wife of Diocletian. When the persecutions of Diocletian began, Apollo was imprisoned, abused and martyred."
 deathYear: 302
 died: "starved to death in 302"

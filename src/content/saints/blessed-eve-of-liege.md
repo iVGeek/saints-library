@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eve of Liège"
 honorific: Blessed
-title: "Blessed Eve of Liège"
 summary: "Born wealthy, she gave it up to become an anchoress at the church of Saint Martin in  in Liège, Belgium. Friend of Blessed Juliana of Mont Cornillon, and continued her campaign to introduce the feast of Corpus Christi."
 image: "http://catholicsaints.info/wp-content/uploads/Eve-of-St-Martin.jpg"
 searchAliases:

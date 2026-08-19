@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luc Sy"
 honorific: Blessed
-title: "Blessed Luc Sy"
 summary: "Married layman school teacher and catechist in the apostolic vicariate of Vientiane (in modern Laos). Martyr."
 birthYear: 1938
 deathYear: 1970

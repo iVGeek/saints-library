@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julia Durán Palacios"
 honorific: Blessed
-title: "Blessed Julia Durán Palacios"
 summary: "Lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

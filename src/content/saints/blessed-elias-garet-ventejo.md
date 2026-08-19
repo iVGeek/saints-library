@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elias Garet Ventejo"
 honorific: Blessed
-title: "Blessed Elias Garet Ventejo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Josep Ceferí"

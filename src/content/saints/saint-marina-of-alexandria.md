@@ -1,7 +1,6 @@
 ---
 name: "Saint Marina of Alexandria"
 honorific: Saint
-title: "Saint Marina of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Maria"

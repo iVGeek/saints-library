@@ -1,7 +1,6 @@
 ---
 name: "Saint Regulus of Rheims"
 honorific: Saint
-title: "Saint Regulus of Rheims"
 summary: "Benedictine monk at Rebais, France. Spiritual student of Saint Philibert. Archbishop of Rheims, France. Founded Orbais abbey in 680."
 searchAliases:
   - "Reol"

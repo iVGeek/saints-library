@@ -1,7 +1,6 @@
 ---
 name: "Saint Papias of Rome"
 honorific: Saint
-title: "Saint Papias of Rome"
 summary: "Martyr."
 died: "on the Via Nomentana outside Rome, Italy"
 deathPlace: "Italy"

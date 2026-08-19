@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius the Martyr"
 honorific: Saint
-title: "Saint Eutychius the Martyr"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Eutychius of Spain"

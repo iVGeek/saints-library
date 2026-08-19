@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis Rafiringa"
 honorific: Blessed
-title: "Blessed Louis Rafiringa"
 summary: "Religious brother of the Institute of the Brothers of the Christian Schools (De La Salle Brothers)."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-louis-rafiringa/venerable-louis-rafiringa-01.jpg"
 searchAliases:

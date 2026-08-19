@@ -1,7 +1,6 @@
 ---
 name: "Saint Lassa of Membressa"
 honorific: Saint
-title: "Saint Lassa of Membressa"
 summary: "One of a group of 44 Christians martyred together."
 died: "in Membressa in Africa"
 region: "England"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maternus of Cologne"
 honorific: Saint
-title: "Saint Maternus of Cologne"
 summary: "Early bishop of Cologne, Germany. Fought against the Donatist heresy. Old legend says he was born in Palestine and sent to the Cologne region by Saint Peter the Apostle, but he worked centuries later."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Maternus_von_Koeln%2C_Egbert_Psalter.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wincenty Lewoniuk"
 honorific: Blessed
-title: "Blessed Wincenty Lewoniuk"
 summary: "Married layman in the diocese of Podlasie. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1849

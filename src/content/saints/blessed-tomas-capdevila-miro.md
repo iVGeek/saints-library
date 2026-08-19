@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomàs Capdevila Miró"
 honorific: Blessed
-title: "Blessed Tomàs Capdevila Miró"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomàs-Capdevila-Miró.jpg"
 birthYear: 1914

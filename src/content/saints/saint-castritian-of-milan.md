@@ -1,7 +1,6 @@
 ---
 name: "Saint Castritian of Milan"
 honorific: Saint
-title: "Saint Castritian of Milan"
 summary: "Bishop of Milan, Italy for 42 years. Noted for establishing care for the poor and travellers, and for restoring the diocese following years of persecution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Castritian-of-Milan.jpg"
 searchAliases:

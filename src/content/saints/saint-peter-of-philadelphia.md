@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Philadelphia"
 honorific: Saint
-title: "Saint Peter of Philadelphia"
 summary: "Martyr. No other information has survived."
 died: "martyred in Philadelphia (modern Alasehir, Turkey)"
 deathPlace: "Turkey)"

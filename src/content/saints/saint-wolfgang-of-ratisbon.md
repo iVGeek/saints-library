@@ -1,7 +1,6 @@
 ---
 name: "Saint Wolfgang of Ratisbon"
 honorific: Saint
-title: "Saint Wolfgang of Ratisbon"
 summary: "Educated by Benedictines at Reichenau, Switzerland. Spiritual student of Saint Romuald. Benedictine monk at Einsiedeln abbey, Switzerland in 964. Teacher; director of the abbey school. Abbey prior in 970. Evangelized the Magyars in modern Hungary. Missionary to Pannonia. Priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wolfgang-of-Ratisbon-1.jpg"
 searchAliases:

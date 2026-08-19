@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Onizuka"
 honorific: Blessed
-title: "Blessed Ludovicus Onizuka"
 summary: "Six-year-old son of Blessed Ioannes Onizuka Naizen and Blessed Monica Onizuka. Martyr."
 birthYear: 1620
 deathYear: 1626

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alexius Sanbashi Saburo"
 honorific: Blessed
-title: "Blessed Alexius Sanbashi Saburo"
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan. Member of the Lay Dominicans. Catechist. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1601

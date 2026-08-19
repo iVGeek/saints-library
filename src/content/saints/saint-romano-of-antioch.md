@@ -1,7 +1,6 @@
 ---
 name: "Saint Romano of Antioch"
 honorific: Saint
-title: "Saint Romano of Antioch"
 summary: "Deacon in Caesarea. Preached publicly against Christians sacrificing to idols as a way to get along with pagan imperial authorities. For this he was imprisoned, tortured, his tongue cut and martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Romano-of-Antioch.jpg"
 searchAliases:

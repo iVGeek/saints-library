@@ -1,7 +1,6 @@
 ---
 name: "Saint Conval of Strathclyde"
 honorific: Saint
-title: "Saint Conval of Strathclyde"
 summary: "Son of an Irish prince. Spiritual student of Saint Kentigern. Archdeacon and priest. One day as he stood on the edge of the Irish sea he asked for God's guidance for his life. The stone on which he was standing broke loose and carried him to Inchinnan where a chapel stands to com"
 searchAliases:
   - "Conval the Confessor"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Esicio of Carcer"
 honorific: Saint
-title: "Saint Esicio of Carcer"
 summary: "Early missionary and bishop of Carcer (modern Carcesa, Spain)."
 region: "Spain"
 feastDay:

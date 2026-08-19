@@ -1,7 +1,6 @@
 ---
 name: "Saint Robert of Newminster"
 honorific: Saint
-title: "Saint Robert of Newminster"
 summary: "Studied at the University of Paris. Wrote a commentary on the Psalms, but it has been lost. Parish priest at Gargrave, England, and later a Benedictine monk at Whitby, England. With his abbot's permission, he joined the founders of the Cistercian monastery of Fountains Abbey in 1"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stiftskirche_Baumgartenberg_Kanzel06.jpg/960px-Stiftskirche_Baumgartenberg_Kanzel06.jpg"
 birthYear: 1100

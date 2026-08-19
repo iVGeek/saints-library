@@ -1,7 +1,6 @@
 ---
 name: "Saint Glycerius of Antioch"
 honorific: Saint
-title: "Saint Glycerius of Antioch"
 summary: "Deacon. Tortured and martyred for his faith."
 searchAliases:
   - "Glicerio"

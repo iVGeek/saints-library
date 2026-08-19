@@ -1,7 +1,6 @@
 ---
 name: "Saint Placid of Autun"
 honorific: Saint
-title: "Saint Placid of Autun"
 summary: "Benedictine monk. Abbot in the basilica of Saint Symphorian at Autun, France."
 searchAliases:
   - "Placidus"

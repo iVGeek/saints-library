@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip of Gortyna"
 honorific: Saint
-title: "Saint Philip of Gortyna"
 summary: "Early bishop of Gortyna, Crete. Wrote and worked against Marcion and Gnosticism."
 searchAliases:
   - "Philip of Crete"

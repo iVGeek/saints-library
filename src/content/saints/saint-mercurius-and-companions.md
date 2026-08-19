@@ -1,7 +1,6 @@
 ---
 name: "Saint Mercurius and Companions"
 honorific: Saint
-title: "Saint Mercurius and Companions"
 summary: "A group of Roman soldiers was ordered to escort a body of Christian prisoners to Lentini, Sicily where they were to be executed for their faith. The soldiers were so impressed by the prisoners that they converted to Christianity. The soldiers and prisoners were all martyred toget"
 deathYear: 300
 died: "beheaded c.300 in Lentini, Sicily, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Sicily"
 honorific: Saint
-title: "Saint Faustus of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"

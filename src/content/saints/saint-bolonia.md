@@ -1,7 +1,6 @@
 ---
 name: "Saint Bolonia"
 honorific: Saint
-title: "Saint Bolonia"
 summary: "Nun. Martyred at age 15 in the persecutions of Julian the Apostate. Then village of Saint Boulogne in Maine, France is named for her."
 searchAliases:
   - "Boulogne"

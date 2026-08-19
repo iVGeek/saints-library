@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict of Saddi"
 honorific: Saint
-title: "Saint Benedict of Saddi"
 summary: "Martyred in the persecutions of Decius."
 died: "at Pieve de' Saddi, Pietralunga, Italy"
 deathPlace: "Pietralunga, Italy"

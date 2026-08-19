@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Caballero Rubio"
 honorific: Blessed
-title: "Blessed Mariano Caballero Rubio"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 22 December 1923. Assistant pastor in Huelva on 27 April 1934. His parish church was burned by anti-Catholic forces on 21 July 1936 at the start of the Spanish Civil War, and Father Mariano went into hiding with some paris"
 birthYear: 1895
 deathYear: 1936

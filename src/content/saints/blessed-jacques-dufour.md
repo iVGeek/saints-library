@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques Dufour"
 honorific: Blessed
-title: "Blessed Jacques Dufour"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1765
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomas the Apostle"
 honorific: Saint
-title: "Saint Thomas the Apostle"
 summary: "Apostle. He was ready to die with Jesus when Christ went to Jerusalem, but is best remembered for doubting the Resurrection until allowed to touch Christ's wounds. Preached in Parthia, Persia and India, though he was so reluctant to start the mission that he had to be taken into"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg/960px-Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg"
 searchAliases:

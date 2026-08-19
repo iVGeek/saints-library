@@ -1,7 +1,6 @@
 ---
 name: "Saint Floribert of Ghent"
 honorific: Saint
-title: "Saint Floribert of Ghent"
 summary: "Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus."
 searchAliases:
   - "Florbert"

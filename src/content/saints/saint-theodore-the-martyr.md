@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore the Martyr"
 honorific: Saint
-title: "Saint Theodore the Martyr"
 summary: "Martyred in the persecutions of Maximian Herculeus."
 deathYear: 310
 died: "burned at the stake c.310"

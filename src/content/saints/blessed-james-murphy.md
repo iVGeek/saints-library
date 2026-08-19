@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Murphy"
 honorific: Blessed
-title: "Blessed James Murphy"
 summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."
 deathYear: 1655
 born: "Irish"

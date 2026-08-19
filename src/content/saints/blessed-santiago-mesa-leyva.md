@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Mesa Leyva"
 honorific: Blessed
-title: "Blessed Santiago Mesa Leyva"
 summary: "Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

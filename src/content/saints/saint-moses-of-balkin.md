@@ -1,7 +1,6 @@
 ---
 name: "Saint Moses of Balkin"
 honorific: Saint
-title: "Saint Moses of Balkin"
 searchAliases:
   - "Moses of Taw"
 died: "beheaded in Taw, Egypt, date unknown"

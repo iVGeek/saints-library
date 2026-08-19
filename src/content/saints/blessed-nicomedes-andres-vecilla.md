@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicomedes Andrés Vecilla"
 honorific: Blessed
-title: "Blessed Nicomedes Andrés Vecilla"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Bartolomé Fanti María"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilides of Rome"
 honorific: Saint
-title: "Saint Basilides of Rome"
 summary: "One of a group of 23 martyrs who died together in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270–275 on the Aurelian Way, Rome, Italy"

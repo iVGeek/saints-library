@@ -1,7 +1,6 @@
 ---
 name: "Saint Severus of Hadrianopolis"
 honorific: Saint
-title: "Saint Severus of Hadrianopolis"
 summary: "Martyr."
 searchAliases:
   - "Severus of Adrianopolis"

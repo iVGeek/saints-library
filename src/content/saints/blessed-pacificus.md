@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pacificus"
 honorific: Blessed
-title: "Blessed Pacificus"
 summary: "Travelling musician, he was crowned a “prince of poets” in Rome, Italy by the Emperor, and lived a very dissolute life. He was brought to an active faith by the preaching of Saint Francis of Assisi, joining the Franciscan friars in 1212, he became one of the favourite travelling"
 searchAliases:
   - "Pacific"

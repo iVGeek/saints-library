@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Yahyoe"
 honorific: Blessed
-title: "Blessed Petrus Yahyoe"
 summary: "Young layman in the diocese of Niigata, Japan. Son of Blessed Maria Ito. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

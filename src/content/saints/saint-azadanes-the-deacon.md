@@ -1,7 +1,6 @@
 ---
 name: "Saint Azadanes the Deacon"
 honorific: Saint
-title: "Saint Azadanes the Deacon"
 summary: "Deacon in Persia. Martyred in the persecutions of King Sapor II."
 searchAliases:
   - "Azadames"

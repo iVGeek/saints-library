@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hesso of Beinwil"
 honorific: Blessed
-title: "Blessed Hesso of Beinwil"
 summary: "Benedictine monk. Procurator at the abbey of Hirschau under Blessed William. Formed the abbey in Beinwil, Switzerland in 1085, and served as its first abbot."
 searchAliases:
   - "Esso"

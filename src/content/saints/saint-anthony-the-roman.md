@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony the Roman"
 honorific: Saint
-title: "Saint Anthony the Roman"
 summary: "Raised in a pious family during the time of the Great Schism; Anthony's loyalties lay with the Orthodox Church. He gave away his goods, and became a hermit monk. Lived on a rock surrounded by the sea for fourteen months. The rock then broke loose and floated across the waters to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-the-Roman.jpg"
 birthYear: 1086

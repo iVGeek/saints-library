@@ -1,7 +1,6 @@
 ---
 name: "Blessed Adrian Fortescue"
 honorific: Blessed
-title: "Blessed Adrian Fortescue"
 summary: "Born to the English nobility, the son of Sir John Fortescue, and a cousin of Anne Boleyn. Made a Knight of Bath in 1503, frequently serving in the royal court of King Henry VIII. Fought for England in France in 1513 and 1522. Married twice, and father of seven. Made a Knight of S"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Adrian_Fortescue_portrait.jpg"
 birthYear: 1476

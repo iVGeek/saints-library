@@ -1,7 +1,6 @@
 ---
 name: "Saint Nothelm of Canterbury"
 honorific: Saint
-title: "Saint Nothelm of Canterbury"
 summary: "Friend of Saint Bede and Saint Boniface. Priest in London, England. Archbishop of Canterbury, England in 734. His research into the history of Kent, England was used by Bede in his histories."
 searchAliases:
   - "Nothhelm"

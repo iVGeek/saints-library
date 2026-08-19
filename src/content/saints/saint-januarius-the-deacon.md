@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius the Deacon"
 honorific: Saint
-title: "Saint Januarius the Deacon"
 summary: "Deacon. Martyred with Pope Saint Sixtus II and other deacons."
 deathYear: 258
 died: "beheaded on 6 August 258 in a cemetery on the Appian Way, Rome, Italy"

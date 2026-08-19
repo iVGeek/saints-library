@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guido of Acqui"
 honorific: Blessed
-title: "Blessed Guido of Acqui"
 summary: "Born to the nobility; his father was the Count of Acquesana. Educated in Bologna, Italy. Bishop of Acqui, Monteferrato, Piedmont, Italy in March 1034 till his death 36 years later. Noted reformer, and remembered for his charity; he used much of his own wealth to support the local"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/San_Guido_d%27Acqui.jpg/960px-San_Guido_d%27Acqui.jpg"
 searchAliases:

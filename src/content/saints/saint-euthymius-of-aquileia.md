@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthymius of Aquileia"
 honorific: Saint
-title: "Saint Euthymius of Aquileia"
 summary: "Martyr."
 died: "Aquileia, Italy"
 deathPlace: "Italy"

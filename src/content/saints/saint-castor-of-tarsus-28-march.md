@@ -1,7 +1,6 @@
 ---
 name: "Saint Castor of Tarsus"
 honorific: Saint
-title: "Saint Castor of Tarsus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Castore"

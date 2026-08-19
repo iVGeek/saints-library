@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelus of Furci"
 honorific: Blessed
-title: "Blessed Angelus of Furci"
 summary: "Born to wealthy parents; they were childless for many years but conceived Angelus after a pilgrimage and prayers for the intercession of Michael the Archangel. Educated by his uncle, the Benedictine abbot of Cornaclano at Furci, Italy. Entered the Augustinian hermits at Vasto, It"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelus-of-Furci.jpg"
 deathYear: 1327

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicitas of Rome"
 honorific: Saint
-title: "Saint Felicitas of Rome"
 summary: "Martyr. No other information has survived."
 deathYear: 212
 died: "c.212 in Rome, Italy"

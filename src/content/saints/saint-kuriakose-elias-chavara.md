@@ -1,7 +1,6 @@
 ---
 name: "Saint Kuriakose Elias Chavara"
 honorific: Venerable
-title: "Saint Kuriakose Elias Chavara"
 summary: "Studied with a Hindu teacher until age 10, and learned a variety of languages and regional dialects. Entered the seminary in 1818; ordained on 29 November 1829. Co-founder and first prior-general of the Congregation of the Carmelites of Mary Immaculate. The main work of the Congr"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Kuriakose_Chavara_und_Hl._Familie.jpg"
 searchAliases:

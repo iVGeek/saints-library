@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miroslav Bulešic"
 honorific: Blessed
-title: "Blessed Miroslav Bulešic"
 summary: "Studied at the Pontifical Gregorian University in Rome, Italy, but recalled to Croatia at the start of World War II. Priest in the diocese of Porec i Pula, Croatia, ordained in April 1943. Assigned to Baderna, the scene of armed conflict between Communist and Fascist forces. Pari"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miroslav-Bulešic.jpg"
 birthYear: 1920

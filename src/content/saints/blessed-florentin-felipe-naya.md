@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florentín Felipe Naya"
 honorific: Blessed
-title: "Blessed Florentín Felipe Naya"
 summary: "Son of Miguel Felipe and Francisca Naya; he was baptized on the day of his birth. Entered the Piarist novitiate on 27 February 1876 in Paralta de la Sal, Spain as a lay brother; he made his solemn profession on 29 April 1883. Served for over 50 years in the kitchens and schools o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Florentín-Felipe-Naya.jpg"
 searchAliases:

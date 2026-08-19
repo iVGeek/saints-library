@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Ceró Cedó"
 honorific: Blessed
-title: "Blessed Joan Ceró Cedó"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

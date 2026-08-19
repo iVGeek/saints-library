@@ -1,7 +1,6 @@
 ---
 name: "Saint Cesarius of Cologne"
 honorific: Saint
-title: "Saint Cesarius of Cologne"
 summary: "Priest. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"

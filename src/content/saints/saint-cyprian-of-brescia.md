@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyprian of Brescia"
 honorific: Saint
-title: "Saint Cyprian of Brescia"
 summary: "Martyr. No other information has survived."
 region: "Italy"
 feastDay:

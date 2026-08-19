@@ -1,7 +1,6 @@
 ---
 name: "Saint Salvius of Amiens"
 honorific: Saint
-title: "Saint Salvius of Amiens"
 summary: "Probably born to a wealthy family as he had much time to study in his youth; through these studies Salvius became dedicated to theology, and was drawn to religious life. He became a monk, and later abbot, at the monastery of Our Lady in Montreuil-sur-Mer, France. Ninth bishop of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Villers-Pol_%28Nord%2CFr%29_%C3%A9glise_Saint-Martin%2C_statue_St.Saulve.JPG/960px-Villers-Pol_%28Nord%2CFr%29_%C3%A9glise_Saint-Martin%2C_statue_St.Saulve.JPG"
 searchAliases:

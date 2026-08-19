@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giustina Schiapparoli"
 honorific: Venerable
-title: "Venerable Giustina Schiapparoli"
 summary: "Sister of Venerable Maria Schiapparoli. Studied under Saint Benedicta Cambiagio Frassinello. Professed in 1850. Co-founder of the Benedictine Sisters of Divine Providence of Voghera."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giustina-and-Venerable-Maria-Schiapparoli.jpg"
 birthYear: 1819

@@ -1,7 +1,6 @@
 ---
 name: "Saint Neptunalis of Rome"
 honorific: Saint
-title: "Saint Neptunalis of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

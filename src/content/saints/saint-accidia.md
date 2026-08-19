@@ -1,7 +1,6 @@
 ---
 name: "Saint Accidia"
 honorific: Saint
-title: "Saint Accidia"
 summary: "Martyred in Africa. No other information has survived."
 region: "England"
 feastDay:

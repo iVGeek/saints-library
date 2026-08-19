@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul the Hermit"
 honorific: Saint
-title: "Saint Paul the Hermit"
 summary: "Paul grew up in an upper-class, Christian family. He was well educated, fluent in Greek and Egyptian. His parents died when the boy was 15. When the persecutions of Decius began a few years later, Paul fled into the desert to escape both them, and the machinations of his brother"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paul-the-First-Hermit.jpg"
 searchAliases:

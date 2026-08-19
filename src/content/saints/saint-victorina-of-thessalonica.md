@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorina of Thessalonica"
 honorific: Saint
-title: "Saint Victorina of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

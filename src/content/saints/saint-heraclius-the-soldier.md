@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclius the Soldier"
 honorific: Saint
-title: "Saint Heraclius the Soldier"
 summary: "Martyred with Saint Alban in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Verulamium, Hertfordshire, England"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mancius Araki Kyuzaburo"
 honorific: Blessed
-title: "Blessed Mancius Araki Kyuzaburo"
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan. Gave Blessed Francisco Pacheco a home during his missionary work. For this he was imprisoned and left to die. Martyr."
 searchAliases:
   - "Mancio Araki"

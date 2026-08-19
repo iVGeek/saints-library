@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luigi Caburlotto"
 honorific: Blessed
-title: "Blessed Luigi Caburlotto"
 summary: "Son of a Venetian gondolier. Parish priest in the archdiocese of Venice, Italy, ordained on 24 September 1842. Worked with children and teens who had been abandoned or were homeless. On 30 April 1850 he founded a school for poor and abandoned girls, and with two like-minded catec"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Luigi_Caburlotto.jpg"
 birthYear: 1817

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alferius of La Cava"
 honorific: Saint
-title: "Saint Alferius of La Cava"
 summary: "Member of the noble Pappacarbone family. Ambassador for Duke Gisulf of Salerno, Italy. When he fell seriously ill at the abbey of Chiusa, Italy, he made the common promise to God that if he lived, he would enter religious life. When he recovered, he became a monk at Cluny, France"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alferius-of-La-Cava.jpg"
 searchAliases:

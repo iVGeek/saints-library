@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Pamphylia"
 honorific: Saint
-title: "Saint Dionysius of Pamphylia"
 summary: "Martyred in the persecutions of emperor Aurelian."
 deathYear: 272
 died: "stabbed to death c.272 by an anti–Christian mob in Pamphylia, Asia Minor"

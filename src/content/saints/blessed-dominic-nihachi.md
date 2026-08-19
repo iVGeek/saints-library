@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Nihachi"
 honorific: Blessed
-title: "Blessed Dominic Nihachi"
 summary: "Son of Blessed Ludovicus Nihachi; brother of Blessed Franciscus Nihachi. Martyred at the age of two (!) because of his family's faith."
 searchAliases:
   - "Dominic of Nagasaki"

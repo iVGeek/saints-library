@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Calabria"
 honorific: Saint
-title: "Saint Vitalis of Calabria"
 summary: "Monk at the monastery of Saint Philip at Agira, Sicily. Pilgrim to Rome, Italy. Hermit in the Calabria region of Italy for two years before returning to monastic life near Agira for a quiet 12 years. He returned to Calabria to escape the Muslim invasions of Sicily. He later lived"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vitalis-of-Calabria.jpg"
 searchAliases:

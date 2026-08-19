@@ -1,7 +1,6 @@
 ---
 name: "Saint Settimino of Carthage"
 honorific: Saint
-title: "Saint Settimino of Carthage"
 summary: "Lector martyred in the persecutions of Diocletian."
 searchAliases:
   - "Settimio"

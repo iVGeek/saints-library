@@ -1,7 +1,6 @@
 ---
 name: "Saint Sebastian of Rome"
 honorific: Saint
-title: "Saint Sebastian of Rome"
 summary: "Martyred in the persecutions of Nero."
 died: "in Rome, Italy"
 deathPlace: "Italy"

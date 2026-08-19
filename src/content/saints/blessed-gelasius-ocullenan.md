@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gelasius O'Cullenan"
 honorific: Blessed
-title: "Blessed Gelasius O'Cullenan"
 summary: "Cistercian priest. One of the Irish Martyrs."
 deathYear: 1580
 born: "Irish"

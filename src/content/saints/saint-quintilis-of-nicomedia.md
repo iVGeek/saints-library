@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintilis of Nicomedia"
 honorific: Saint
-title: "Saint Quintilis of Nicomedia"
 summary: "Martryed at Nicomedia, date unknown. No other information has survived."
 region: "England"
 feastDay:

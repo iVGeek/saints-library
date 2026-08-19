@@ -1,7 +1,6 @@
 ---
 name: "Ruth the Matriarch"
 honorific: Saint
-title: "Ruth the Matriarch"
 summary: "Old Testament matriarch, and the subject of the Old Testament Book of Ruth. Born to a pagan family, she married a Jewish man. Widowed, she was facing starvation when her mother-in-law, Naomi, urged her to return to her own people. But Ruth declared that the people of God were now"
 image: "http://catholicsaints.info/wp-content/uploads/img-Ruth-the-Matriarch.gif"
 region: "England"

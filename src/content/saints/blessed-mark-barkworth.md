@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mark Barkworth"
 honorific: Blessed
-title: "Blessed Mark Barkworth"
 summary: "Described as a tall, burly man, always cheerful, even in the sufferings of his later life. Studied at Oxford University. Convert to Catholicism, joining the Church at Douai, France in 1594. Studied at English College, Rome, Italy starting on 16 December 1596, and then at the Roya"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-Barkworth.jpg"
 searchAliases:

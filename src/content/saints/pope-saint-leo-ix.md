@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Leo IX"
 honorific: Saint
-title: "Pope Saint Leo IX"
 summary: "Son of Count Hugh of Egisheim. Cousin of Emperor Conrad II. Chapter canon of Saint Stephen's, Toul, France. Deacon. Soldier and officer in the imperial army. In 1021, while still in the military, he was chosen bishop of Toul, France, a position he held for 20 years. Commanded tro"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg"
 searchAliases:

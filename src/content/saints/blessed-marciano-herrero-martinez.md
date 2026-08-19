@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marciano Herrero Martínez"
 honorific: Blessed
-title: "Blessed Marciano Herrero Martínez"
 summary: "Educated by the Brothers of the Christian Schools (De La Salle Brothers). Coming of age, he joined the Brothers himself. Taught in the Spanish cities in Jerez, Sanlucar de Barrameda, and then in 1933 in Almeria. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marciano-Herrero-Martínez.jpg"
 searchAliases:

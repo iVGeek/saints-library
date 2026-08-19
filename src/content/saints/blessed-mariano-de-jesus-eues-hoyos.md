@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano de Jesus Eues Hoyos"
 honorific: Blessed
-title: "Blessed Mariano de Jesus Eues Hoyos"
 summary: "Eldest son of a religious rural Colombian family in a time when the state was hostile to the Church. From age 16 he wanted to become a priest; he entered the new Medellin Seminary at age 24, and was ordained in 1872. Worked in the parishes of San Pedro and Yarumel, and in 1878 he"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-Jesus-Eues-Hoyos.jpg"
 searchAliases:

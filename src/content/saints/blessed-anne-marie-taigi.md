@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Marie Taigi"
 honorific: Blessed
-title: "Blessed Anne Marie Taigi"
 summary: "Daughter Luigi Giannetti and Maria Masi. Her father was a pharmacist in Siena, Italy, but his business went bankrupt when Anna Marie was five years old. The family moved to Rome, Italy in search of work, but Luigi could only find a job as a household servant. Anne was married on"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Marie-Taigi.jpg"
 searchAliases:

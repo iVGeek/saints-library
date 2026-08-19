@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupicinus of Condat"
 honorific: Saint
-title: "Saint Lupicinus of Condat"
 summary: "Brother of Saint Romanus of Condat. Monk. With Romanus, he founded the abbeys of Condat and Leuconne."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lupicinus-Abbot-and-Hermit.jpg"
 searchAliases:

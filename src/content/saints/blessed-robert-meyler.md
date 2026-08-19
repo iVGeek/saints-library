@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Meyler"
 honorific: Blessed
-title: "Blessed Robert Meyler"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Robert-Meyler.jpg"
 searchAliases:

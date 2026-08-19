@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudio Julían García San Román"
 honorific: Blessed
-title: "Blessed Claudio Julían García San Román"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

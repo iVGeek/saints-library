@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathamerus of Mysia"
 honorific: Saint
-title: "Saint Agathamerus of Mysia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agatha"

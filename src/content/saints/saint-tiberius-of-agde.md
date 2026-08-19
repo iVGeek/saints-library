@@ -1,7 +1,6 @@
 ---
 name: "Saint Tiberius of Agde"
 honorific: Saint
-title: "Saint Tiberius of Agde"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Tiberio"

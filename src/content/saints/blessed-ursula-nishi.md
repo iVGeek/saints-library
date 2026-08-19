@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ursula Nishi"
 honorific: Blessed
-title: "Blessed Ursula Nishi"
 summary: "Lay woman of the archdiocese of Nagasaki, Japan. Married to Blessed Gaspar Nishi Genka; mother of Blessed Ioannes Nishi Mataishi. Martyr."
 birthYear: 1555
 deathYear: 1609

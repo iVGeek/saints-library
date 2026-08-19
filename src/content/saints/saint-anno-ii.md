@@ -1,7 +1,6 @@
 ---
 name: "Saint Anno II"
 honorific: Saint
-title: "Saint Anno II"
 summary: "A pious child. As a young man Anno became a soldier, and considered a military career; however, with the help of his uncle, the canon of Bamberg, he answered the call to religious life. He had a background in literature as well as theology, was an eloquent speaker, and considered"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Anno_II.jpg"
 searchAliases:

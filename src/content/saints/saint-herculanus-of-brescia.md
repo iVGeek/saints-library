@@ -1,7 +1,6 @@
 ---
 name: "Saint Herculanus of Brescia"
 honorific: Saint
-title: "Saint Herculanus of Brescia"
 summary: "18th bishop of Brescia, Italy. In his later years he retired to live as a prayerful hermit at Campione del Garda, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Pietro_Perugino_Virgin_Mary_and_Saints.JPG"
 searchAliases:

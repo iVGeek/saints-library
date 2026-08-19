@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus of Perga"
 honorific: Saint
-title: "Saint Diodorus of Perga"
 summary: "Shepherd. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Perga, Asia Minor (in modern Turkey)"

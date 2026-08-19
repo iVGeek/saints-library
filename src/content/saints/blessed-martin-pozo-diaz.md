@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Pozo Díaz"
 honorific: Blessed
-title: "Blessed Martín Pozo Díaz"
 summary: "Married layman in the diocese of Córdoba, Spain."
 birthYear: 1870
 deathYear: 1936

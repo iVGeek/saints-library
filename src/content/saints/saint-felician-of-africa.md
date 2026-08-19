@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Africa"
 honorific: Saint
-title: "Saint Felician of Africa"
 summary: "Marytred with 125 companions. No other information has survived."
 born: "African"
 region: "England"

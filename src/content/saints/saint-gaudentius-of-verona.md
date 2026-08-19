@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaudentius of Verona"
 honorific: Saint
-title: "Saint Gaudentius of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Gaudenzio"

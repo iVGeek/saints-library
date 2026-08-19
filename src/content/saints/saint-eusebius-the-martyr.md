@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius the Martyr"
 honorific: Saint
-title: "Saint Eusebius the Martyr"
 summary: "Priest. Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "c.257 in Rome, Italy"

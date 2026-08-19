@@ -1,7 +1,6 @@
 ---
 name: "Saint Patricius of Tomi"
 honorific: Saint
-title: "Saint Patricius of Tomi"
 summary: "Martyr. No further information has survived."
 died: "at Tomi, Scythia (modern Constanta, Romania)"
 deathPlace: "Scythia (modern Constanta, Romania)"

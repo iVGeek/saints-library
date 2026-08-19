@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Miltiades"
 honorific: Saint
-title: "Pope Saint Miltiades"
 summary: "Pope during the time that Constantine the Great declared tolerance for Christians in the Roman Empire. Counted as a martyr on many lists due to the sufferings he endured prior to the toleration decree at the end of the Diocletian. May have been Pope when the Church was given the"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Pope_miltiades.jpg"
 searchAliases:

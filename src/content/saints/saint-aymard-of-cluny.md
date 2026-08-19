@@ -1,7 +1,6 @@
 ---
 name: "Saint Aymard of Cluny"
 honorific: Saint
-title: "Saint Aymard of Cluny"
 summary: "Benedictine monk. Brother monk to Saint Odo of Cluny. Third abbot of Cluny Abbey from 942 to 954. Though a man of humble origins himself, Aimaro made many contacts with the wealthy and powerful, and strengthened the abbey with scores of donations from them. He was an accomplished"
 searchAliases:
   - "Aimaro"

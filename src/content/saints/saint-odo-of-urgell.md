@@ -1,7 +1,6 @@
 ---
 name: "Saint Odo of Urgell"
 honorific: Saint
-title: "Saint Odo of Urgell"
 summary: "Oldest son of a Spanish Count of of Pallars Sobirà. Soldier. Archdeacon in Urgell, Spain. Bishop of Urgell in 1095. Noted for his care for the poor."
 searchAliases:
   - "Oddone"

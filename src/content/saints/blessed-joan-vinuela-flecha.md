@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Viñuela Flecha"
 honorific: Blessed
-title: "Blessed Joan Viñuela Flecha"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Lluís Daniel"

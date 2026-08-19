@@ -1,7 +1,6 @@
 ---
 name: "Saint Hesychius of Alexandria"
 honorific: Saint
-title: "Saint Hesychius of Alexandria"
 summary: "Bishop in the area of Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 deathYear: 311
 born: "Egyptian"

@@ -2,7 +2,6 @@
 name: "Blessed Alberto Linares de La Pinta"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Historia_de_la_lengua_y_literatura_castellana_-_Tomo_XIV.djvu/page1-960px-Historia_de_la_lengua_y_literatura_castellana_-_Tomo_XIV.djvu.jpg"
 honorific: Blessed
-title: "Blessed Alberto Linares de La Pinta"
 summary: "Monk. Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alberto Joaquín"

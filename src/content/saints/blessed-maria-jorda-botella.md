@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Jordá Botella"
 honorific: Blessed
-title: "Blessed María Jordá Botella"
 summary: "A lifelong lay woman in the archdiocese of Valencia, Spain, she was baptized age the age of two days, was confirmed on 20 October 1905, and made her first Communion on 21 April 1912. She was educated in convent schools, and was a member of the Confraternity of Saint Vincent de Pa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Jorda-Botella.jpg"
 birthYear: 1905

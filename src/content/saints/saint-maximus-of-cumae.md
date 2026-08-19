@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Cumae"
 honorific: Saint
-title: "Saint Maximus of Cumae"
 summary: "Martyr."
 searchAliases:
   - "Maximus of Apamea"

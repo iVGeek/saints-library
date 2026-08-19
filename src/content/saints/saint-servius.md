@@ -1,7 +1,6 @@
 ---
 name: "Saint Servius"
 honorific: Saint
-title: "Saint Servius"
 summary: "Martyred in the persecutions of the Arian Vandal king Huneric."
 deathYear: 484
 died: "484 somewhere in North Africa"

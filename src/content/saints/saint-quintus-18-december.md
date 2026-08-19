@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintus"
 honorific: Saint
-title: "Saint Quintus"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 255
 died: "c.255 in North Africa"

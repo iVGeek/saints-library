@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Thessalonica"
 honorific: Saint
-title: "Saint Alexander of Thessalonica"
 summary: "Martyred in the persecutions of Diocletian."
 died: "in Thessalonica, Greece"
 deathPlace: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Àngel Dolcet Agustì"
 honorific: Blessed
-title: "Blessed Àngel Dolcet Agustì"
 summary: "Member of the Claretians, professed on 24 September 1930. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

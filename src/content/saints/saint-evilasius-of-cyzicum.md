@@ -1,7 +1,6 @@
 ---
 name: "Saint Evilasius of Cyzicum"
 honorific: Saint
-title: "Saint Evilasius of Cyzicum"
 summary: "A girl of 13 who was tortured and executed for her faith."
 deathYear: 305
 died: "305 at Cyzicum, Pontus (in modern Turkey)"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Thérèse Haze"
 honorific: Blessed
-title: "Blessed Marie-Thérèse Haze"
 summary: "One of seven children born to the secretary of the last prince-bishop of Liège, Belgium. Could read and write by the age of four. She was drawn to religion from an early age, but was 50 years old when she finally found her vocation. Founded the Congregation of the Daughters of th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Thérèse-Haze.jpg"
 searchAliases:

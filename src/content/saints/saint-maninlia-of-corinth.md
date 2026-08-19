@@ -1,7 +1,6 @@
 ---
 name: "Saint Maninlia of Corinth"
 honorific: Saint
-title: "Saint Maninlia of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Marnintia"

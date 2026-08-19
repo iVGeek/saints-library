@@ -1,7 +1,6 @@
 ---
 name: "Saint José María Díaz Sanjurjo"
 honorific: Venerable
-title: "Saint José María Díaz Sanjurjo"
 summary: "Dominican priest, ordained on 23 March 1844. Missionary to Manila, Philippines, and then to Viet Nam. Coadjutor vicar apostolic of Central Tonking, Viet Nam and titular bishop of Plataea on 5 September 1848. One of the Martyrs of Viet Nam."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

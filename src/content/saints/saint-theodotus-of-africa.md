@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodotus of Africa"
 honorific: Saint
-title: "Saint Theodotus of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Teodoto"

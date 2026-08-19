@@ -1,7 +1,6 @@
 ---
 name: "Saint Engelram of Metz"
 honorific: Saint
-title: "Saint Engelram of Metz"
 summary: "8th-9th century bishop of Metz, France."
 region: "France"
 feastDay:

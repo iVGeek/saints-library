@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Spadafora"
 honorific: Blessed
-title: "Blessed Dominic Spadafora"
 summary: "Studied at Padua, Italy. Joined the Dominicans at the Saint Zita priory in Palermo, Sicily. Priest. Noted preacher and evangelist throughout Sicily and Italy, winning many converts. Intense devotion to the Passion of Jesus. His example of charity and humility brought many to join"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dominic-Spadafora.jpg"
 birthYear: 1450

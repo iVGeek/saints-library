@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Dulce Rodrigues dos Santos"
 honorific: Venerable
-title: "Venerable Maria Dulce Rodrigues dos Santos"
 summary: "Founded the Pequenas Missionárias de Maria Imaculada (Little Missionary Sisters of Mary Immaculate)."
 searchAliases:
   - "Teresa of the Eucharistic Jesus"

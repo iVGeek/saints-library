@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustinus of Africa"
 honorific: Saint
-title: "Saint Faustinus of Africa"
 searchAliases:
   - "Faustina"
 deathYear: 300

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartolomé Aiutamicristo"
 honorific: Blessed
-title: "Blessed Bartolomé Aiutamicristo"
 summary: "Born to the nobility. Camaldolese lay brother at the monastery of San Frediano, Pisa, Tuscany, Italy. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomé-Aiutamicristo.jpg"
 deathYear: 1224

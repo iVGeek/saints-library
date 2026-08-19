@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertullian of Bologna"
 honorific: Saint
-title: "Saint Tertullian of Bologna"
 summary: "Eighth bishop of Bologna, Italy, serving during the collapse of the western Roman Empire."
 deathYear: 490
 died: "c.490"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Borrás Román"
 honorific: Blessed
-title: "Blessed Francisco Borrás Román"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Tobías"

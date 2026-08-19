@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Puigcerda"
 honorific: Saint
-title: "Saint Victor of Puigcerda"
 summary: "Missionary in the Pyrenees, working with Saint Vincent of Puigcerda and Saint Orontius of Puigcerda. Martyr."
 deathYear: 305
 born: "at Cimiez, France"

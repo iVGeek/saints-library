@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony Mary Claret"
 honorific: Venerable
-title: "Saint Anthony Mary Claret"
 summary: "Worked as a weaver in his youth. Seminary student with Saint Francisco Coll Guitart. Ordained on 13 June 1835. Missionary in Catalonia and the Canary Islands. Directed retreats. Founded the Congregation of Missionary Sons of the Immaculate Heart of Mary (Claretians). Archbishop o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Antonio_Mar%C3%ADa_Claret%2C_c.1860.jpg/960px-Antonio_Mar%C3%ADa_Claret%2C_c.1860.jpg"
 searchAliases:

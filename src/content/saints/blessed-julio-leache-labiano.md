@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio Leache Labiano"
 honorific: Blessed
-title: "Blessed Julio Leache Labiano"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

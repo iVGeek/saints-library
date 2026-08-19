@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne-Marie de Romillon"
 honorific: Blessed
-title: "Blessed Jeanne-Marie de Romillon"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

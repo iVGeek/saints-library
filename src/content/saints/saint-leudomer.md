@@ -1,7 +1,6 @@
 ---
 name: "Saint Leudomer"
 honorific: Saint
-title: "Saint Leudomer"
 summary: "Bishop of Chartres, France."
 searchAliases:
   - "Lomer"

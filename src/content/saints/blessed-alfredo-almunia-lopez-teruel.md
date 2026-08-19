@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfredo Almunia López-Teruel"
 honorific: Blessed
-title: "Blessed Alfredo Almunia López-Teruel"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Pancras of Rome"
 honorific: Saint
-title: "Saint Pancras of Rome"
 summary: " Pope Saint Vitalian sent his relics from the cemetery of Calepodius in Rome to th Fourteen-year-old orphan, brought to Rome by his uncle, Saint Dionysius. Convert to Christianity. Martyred with Saint Nereus, Saint Achilleus, and Saint Domitilla for publicly proclaiming his faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Barcelona_Cathedral_Interior_-_Statue_of_Saint_Pancrace_of_Rome.jpg/960px-Barcelona_Cathedral_Interior_-_Statue_of_Saint_Pancrace_of_Rome.jpg"
 searchAliases:

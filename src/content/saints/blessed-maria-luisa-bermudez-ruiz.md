@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Luisa Bermúdez Ruiz"
 honorific: Blessed
-title: "Blessed María Luisa Bermúdez Ruiz"
 summary: "The daughter of Elías Bermúdez Cotón and Maria del Carmen Ruiz García-Flores, both members of the Spanish nobility with large estates. Both María Luisa and her sister were educated in the Daughters of Charity school in Santiago de Compostela, Spain, both felt a call to religious"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Luisa-Bermudez-Ruiz.jpg"
 birthYear: 1893

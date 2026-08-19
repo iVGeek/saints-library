@@ -1,7 +1,6 @@
 ---
 name: "Saint Benignus of Dijon"
 honorific: Saint
-title: "Saint Benignus of Dijon"
 summary: "Missionary to the areas of Marseilles, Autun, and Dijon in France, sent by Saint Polycarp of Smyrna. Martyred in the persecutions of Marcus Aurelius. The people of Tours, France reverenced the grave of Benignus, but the local bishop wished to put a stop to the cult, believing the"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/St.Benignus_Dijon_Abt-Kopf_3.jpg"
 searchAliases:

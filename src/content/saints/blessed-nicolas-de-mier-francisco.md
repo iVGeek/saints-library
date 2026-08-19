@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás de Mier Francisco"
 honorific: Blessed
-title: "Blessed Nicolás de Mier Francisco"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

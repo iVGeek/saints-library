@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartholomew of Olmedo"
 honorific: Blessed
-title: "Blessed Bartholomew of Olmedo"
 summary: "Mercedarian priest. The first missionary priest in Mexico, arriving in 1516, travelling with Cortés and working with the Aztecs."
 image: "http://catholicsaints.info/wp-content/uploads/Bartholomew-of-Olmedo.jpg"
 deathYear: 1524

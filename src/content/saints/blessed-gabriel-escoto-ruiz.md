@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Escoto Ruiz"
 honorific: Blessed
-title: "Blessed Gabriel Escoto Ruiz"
 summary: "Carmelites of the Ancient Observance novice. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother José María"

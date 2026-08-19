@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Seghezzi"
 honorific: Venerable
-title: "Venerable Antonio Seghezzi"
 summary: "Priest of the diocese of Bergamo, Italy. Spiritual director in the diocesan minor seminary. Spiritual director of youth in Catholic Action. Military chaplain with the Italian army in Ethiopia from 1935 to 1937. Military chaplain with the Italian army in Italy from 1939 to 1943. A"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Seghezzi.jpg"
 deathYear: 1945

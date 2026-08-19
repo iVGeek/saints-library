@@ -1,7 +1,6 @@
 ---
 name: "Venerable António Borges da Cunha de Leytoa"
 honorific: Venerable
-title: "Venerable António Borges da Cunha de Leytoa"
 summary: "Priest. Member of the Canons Regular of Saint John the Evangelist."
 birthYear: 1522
 deathYear: 1602

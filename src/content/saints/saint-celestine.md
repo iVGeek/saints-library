@@ -1,7 +1,6 @@
 ---
 name: "Saint Celestine"
 honorific: Saint
-title: "Saint Celestine"
 summary: "Martyr."
 searchAliases:
   - "Celestino"

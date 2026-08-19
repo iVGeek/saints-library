@@ -1,7 +1,6 @@
 ---
 name: "Blessed Humphrey Pritchard"
 honorific: Blessed
-title: "Blessed Humphrey Pritchard"
 summary: "Layman. Studied at the University of Oxford, England. Worked at the Catherine Wheel Inn, Saint Giles', Oxford for twelve years. Martyred in the persecutions of Queen Elizabeth I."
 deathYear: 1589
 born: "Wales"

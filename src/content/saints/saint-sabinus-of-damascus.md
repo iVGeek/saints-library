@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinus of Damascus"
 honorific: Saint
-title: "Saint Sabinus of Damascus"
 summary: "Martyr."
 born: "Syria"
 died: "Damascus, Syria, date unknown"

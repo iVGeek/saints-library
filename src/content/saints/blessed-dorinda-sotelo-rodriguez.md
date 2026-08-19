@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dorinda Sotelo Rodríguez"
 honorific: Blessed
-title: "Blessed Dorinda Sotelo Rodríguez"
 summary: "Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

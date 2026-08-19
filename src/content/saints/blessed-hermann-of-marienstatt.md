@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hermann of Marienstatt"
 honorific: Blessed
-title: "Blessed Hermann of Marienstatt"
 summary: "Born to the nobility of the Rhineland-Palatinate in modern Germany. Priest. Canon of the church of Saints Cassius and Florentius in Bonn. Dean of the church of the Holy Apostles in Cologne. Called to religious life, he joined the Cistercian abbey in Himmerod. He led the Cistercia"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Hermann-of-Marienstatt.jpg"
 birthYear: 1150

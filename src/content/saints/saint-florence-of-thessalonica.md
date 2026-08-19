@@ -1,7 +1,6 @@
 ---
 name: "Saint Florence of Thessalonica"
 honorific: Saint
-title: "Saint Florence of Thessalonica"
 summary: "Tortured and martyred in the persecutions of Emperor Maximinus Daza."
 searchAliases:
   - "Fiorenzo"

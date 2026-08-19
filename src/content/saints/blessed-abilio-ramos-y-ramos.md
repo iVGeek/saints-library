@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abilio Ramos y Ramos"
 honorific: Blessed
-title: "Blessed Abilio Ramos y Ramos"
 summary: "Passionist brother, joining in 1931, and made his profession on 23 October 1935. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Abilio-Ramos-y-Ramos.jpg"
 searchAliases:

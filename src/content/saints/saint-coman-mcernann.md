@@ -1,7 +1,6 @@
 ---
 name: "Saint Coman McErnann"
 honorific: Saint
-title: "Saint Coman McErnann"
 summary: "Brother of Saint Beccan and Saint Communian. Monk of the abbey of Iona where he was the spiritual student of Saint Fergna."
 searchAliases:
   - "Coman of Iona"

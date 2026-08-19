@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacinto Castañeda Puchasóns"
 honorific: Venerable
-title: "Saint Jacinto Castañeda Puchasóns"
 summary: "Dominican priest. Missionary to the Philippines, China, and Tonkin. Martyred in the persecutions of Trinh Sam."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jacinto-Castañeda-Puchasóns.jpg"
 searchAliases:

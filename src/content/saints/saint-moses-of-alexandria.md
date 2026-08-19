@@ -1,7 +1,6 @@
 ---
 name: "Saint Moses of Alexandria"
 honorific: Saint
-title: "Saint Moses of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

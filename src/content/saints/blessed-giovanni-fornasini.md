@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Fornasini"
 honorific: Blessed
-title: "Blessed Giovanni Fornasini"
 summary: "Ordained a priest of the archdiocese of Bologna, Italy in the cathedral of San Pietro on 28 June 1942 in the midst of World War II. Chaplain and then parish priest in Sperticano, Italy. He took in people who had been displaced in the war, helped others to escape from occupied ter"
 image: "https://upload.wikimedia.org/wikipedia/en/c/cc/Giovanni_Fornasini.jpg"
 searchAliases:

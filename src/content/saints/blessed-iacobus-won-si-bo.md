@@ -1,7 +1,6 @@
 ---
 name: "Blessed Iacobus Won Si-bo"
 honorific: Blessed
-title: "Blessed Iacobus Won Si-bo"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Jacob"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius of Brescia"
 honorific: Saint
-title: "Saint Honorius of Brescia"
 summary: "Hermit near Brescia, Italy. Bishop of Brescia c.577."
 deathYear: 586
 died: "c.586"

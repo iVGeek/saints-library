@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthymius of Nicomedia"
 honorific: Saint
-title: "Saint Euthymius of Nicomedia"
 summary: "During the persecutions of Diocletian, Euthymius encouraged Christians to hold onto their faith, and gave Christian burial to martyrs. For this he was executed. Martyr."
 searchAliases:
   - "Euthymios"

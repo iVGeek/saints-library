@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emiliano Busto Pérez"
 honorific: Blessed
-title: "Blessed Emiliano Busto Pérez"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Anacleto Luis"

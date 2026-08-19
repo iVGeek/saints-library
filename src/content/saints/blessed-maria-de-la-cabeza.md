@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria de la Cabeza"
 honorific: Blessed
-title: "Blessed Maria de la Cabeza"
 summary: "In Torrelaguna, Spain she met and married to Saint Isidore the Farmer. She spent her life working on the farm, cleaning local chapels and shrines, helping the poor. The title of the Head is due to her head being a relic venerated for centuries, and the need to distiguish her from"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-de-la-Cabeza.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giulia Bonifacio"
 honorific: Venerable
-title: "Venerable Giulia Bonifacio"
 summary: "Member of the Alcantarine Franciscan Sisters where she served as novice mistress and vicar general of the Sisters. Founded the Poor Daughters of Saint Antony (now the Religious Franciscan Sisters of Saint Anthony) in 1902 with a mission to work with the poor. Over the years the S"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giulia-Bonifacio.jpg"
 searchAliases:

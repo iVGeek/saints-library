@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Jean Lemeunier"
 honorific: Blessed
-title: "Blessed Jacques-Jean Lemeunier"
 summary: "Priest in the diocese of Sées, France. One of the Martyrs of September."
 birthYear: 1747
 deathYear: 1792

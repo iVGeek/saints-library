@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudius the Minor"
 honorific: Blessed
-title: "Blessed Claudius the Minor"
 summary: "Franciscan monk."
 searchAliases:
   - "Claude"

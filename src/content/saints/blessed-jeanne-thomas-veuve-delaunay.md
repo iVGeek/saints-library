@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Thomas veuve Delaunay"
 honorific: Blessed
-title: "Blessed Jeanne Thomas veuve Delaunay"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1730
 deathYear: 1794

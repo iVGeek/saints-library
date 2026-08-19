@@ -1,7 +1,6 @@
 ---
 name: "Saint Veronia of Antioch"
 honorific: Saint
-title: "Saint Veronia of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Ludlam"
 honorific: Blessed
-title: "Blessed Robert Ludlam"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1551
 deathYear: 1588

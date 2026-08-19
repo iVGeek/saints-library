@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Won Gyeong-do"
 honorific: Blessed
-title: "Blessed Ioannes Won Gyeong-do"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "John"

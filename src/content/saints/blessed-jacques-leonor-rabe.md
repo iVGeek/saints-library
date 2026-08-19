@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Léonor Rabé"
 honorific: Blessed
-title: "Blessed Jacques-Léonor Rabé"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1750
 deathYear: 1792

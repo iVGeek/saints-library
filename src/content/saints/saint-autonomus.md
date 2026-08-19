@@ -1,7 +1,6 @@
 ---
 name: "Saint Autonomus"
 honorific: Saint
-title: "Saint Autonomus"
 summary: "Bishop. Fled to Bithynia, Asia Minor to escape the persecution of Diocletian. The people there accepted him as one of their own, and he became a great evangelist. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Autonomus_of_Italy_by_O.Chirikov_%28Muz.ist.rel%29.jpg"
 searchAliases:

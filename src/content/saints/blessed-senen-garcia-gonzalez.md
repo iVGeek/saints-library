@@ -1,7 +1,6 @@
 ---
 name: "Blessed Senén García González"
 honorific: Blessed
-title: "Blessed Senén García González"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

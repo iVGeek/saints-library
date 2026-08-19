@@ -1,7 +1,6 @@
 ---
 name: "Saint Ernin Cas of Leithglinn"
 honorific: Saint
-title: "Saint Ernin Cas of Leithglinn"
 summary: "This person is listed in the Tallagh and Donegal Martyrologies, but no details about them have survived."
 searchAliases:
   - "Ernin Cas of Leighlin"

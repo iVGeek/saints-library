@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Thessalonica"
 honorific: Saint
-title: "Saint Cyriacus of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

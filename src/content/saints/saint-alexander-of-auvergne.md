@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Auvergne"
 honorific: Saint
-title: "Saint Alexander of Auvergne"
 summary: "Martyr. No other information has survived."
 died: "somewhere in the area of modern France, date unknown"
 deathPlace: "date unknown"

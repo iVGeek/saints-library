@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan of Granada"
 honorific: Blessed
-title: "Blessed Juan of Granada"
 summary: "Grandson of King Ismael of Granada of convert from Islam; son of Ozmin Aben Adriz a convert from Islam. Studied in Salamanca, Spain. Joined the Mercedarians in Valladolid, Spain. Commander of the convent of Córdoba, Spain for 13 years. Mercedarians provincial of Castile, Spain in"
 deathYear: 1428
 died: "1428 in Granada, Spain"

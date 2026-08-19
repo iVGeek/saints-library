@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Moreno Juárez"
 honorific: Blessed
-title: "Blessed Juan Moreno Juárez"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

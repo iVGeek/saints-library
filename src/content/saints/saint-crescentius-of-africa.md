@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentius of Africa"
 honorific: Saint
-title: "Saint Crescentius of Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

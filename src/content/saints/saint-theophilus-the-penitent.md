@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus the Penitent"
 honorific: Saint
-title: "Saint Theophilus the Penitent"
 summary: "Archdeacon and treasurer of the church in Adana, Cilicia (in modern Turkey). Offered the bishopric of Adana, he declined, saying he was not adequate to the task. Due to slander accusing him of theft of church funds, the new bishop removed him from his position. In anger, Theophil"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theophilus-the-Penitent.jpg"
 deathYear: 538

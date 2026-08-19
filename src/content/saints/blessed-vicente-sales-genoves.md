@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Sales Genovés"
 honorific: Blessed
-title: "Blessed Vicente Sales Genovés"
 summary: "Jesuit brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sales-Genovés.jpg"
 birthYear: 1881

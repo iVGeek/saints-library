@@ -1,7 +1,6 @@
 ---
 name: "Saint Dulcissimus of Fiesole"
 honorific: Saint
-title: "Saint Dulcissimus of Fiesole"
 summary: "Martyred in the persecutions of emperor Domitian."
 died: "c.90 near Fiesole, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Antipas of Pergamon"
 honorific: Saint
-title: "Saint Antipas of Pergamon"
 summary: "Spiritual student of Saint John the Apostle. Bishop of Pergamum during the persecutions of emperor Domitian. Martyr. Mentioned in the canonical Book of Revelations."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antipas-of-Pergamon.jpg"
 searchAliases:

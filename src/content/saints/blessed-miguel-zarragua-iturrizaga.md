@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Zarragua Iturrízaga"
 honorific: Blessed
-title: "Blessed Miguel Zarragua Iturrízaga"
 summary: "Joined the Franciscan Friars Minor, taking the name Miguel, and making his solemn vows on 9 September 1893. Missionary to Morocco from November 1895 to November 1906. Worked with victims of the Spanish influenza epidemic of 1918. Monk and sacristan at the convent of Fuenteobejuna"
 birthYear: 1870
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Patrick O'Lougham"
 honorific: Blessed
-title: "Blessed Patrick O'Lougham"
 summary: "Bishop in Ireland. Martyr."
 birthYear: 1530
 deathYear: 1611

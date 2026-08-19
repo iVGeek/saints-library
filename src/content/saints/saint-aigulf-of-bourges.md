@@ -1,7 +1,6 @@
 ---
 name: "Saint Aigulf of Bourges"
 honorific: Saint
-title: "Saint Aigulf of Bourges"
 summary: "Well educated, he became a hermit upon the death of his parents, and soon developed a reputation for great personal sanctity. Reluctant bishop of Bourges, France in 811. Attended the Council of Toulouse in 829. Sat in judgement of Archbishop Ebbo of Rheims who had joined a revolt"
 searchAliases:
   - "Aigulphus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspar Nagai Sohan"
 honorific: Blessed
-title: "Blessed Gaspar Nagai Sohan"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Kuchinotsu, Nagasaki, Japan"

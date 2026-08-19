@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodotus of Kyrenia"
 honorific: Saint
-title: "Saint Theodotus of Kyrenia"
 summary: "Bishop of Kyrenia, Cyprus. Imprisoned, tortured and executed in the persecutions of Licinius. Martyr."
 searchAliases:
   - "Theodotus of Cyprus"

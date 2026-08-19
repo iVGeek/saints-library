@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edmund Bojanowski"
 honorific: Blessed
-title: "Blessed Edmund Bojanowski"
 summary: "A member of a wealthy, landed, Polish noble family. He studied literature at universities in Breslau (modern Wroclaw, Poland) and Berlin, Germany. Translated works from Serbia to Polish, wrote his own poetry, and a history of Serbia. Contracted tuberculosis in his 20s. He dedicat"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Edmund_Bojanowski_wg_%27Sob%C3%B3tka%27_1871.jpg"
 searchAliases:

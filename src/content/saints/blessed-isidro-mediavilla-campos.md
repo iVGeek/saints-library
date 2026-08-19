@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Mediavilla Campos"
 honorific: Blessed
-title: "Blessed Isidro Mediavilla Campos"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

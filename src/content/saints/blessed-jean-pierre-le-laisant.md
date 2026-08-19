@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Pierre Le Laisant"
 honorific: Blessed
-title: "Blessed Jean-Pierre Le Laisant"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1753
 deathYear: 1792

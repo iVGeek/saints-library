@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclius of Todi"
 honorific: Saint
-title: "Saint Heraclius of Todi"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 in Todi, Italy where his relics still survive"

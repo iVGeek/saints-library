@@ -1,7 +1,6 @@
 ---
 name: "Blessed Otto of Freising"
 honorific: Blessed
-title: "Blessed Otto of Freising"
 summary: "Cistercian monk. Priest. Bishop of Freising, Germany. Adopted the Gregorian reforms for his diocese. Throughout his episcopacy, he wore the Cistercian habit and attended to all his duties as a monk as well as bishop."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Ottovonfreising.jpg"
 searchAliases:

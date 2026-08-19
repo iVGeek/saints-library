@@ -1,7 +1,6 @@
 ---
 name: "Saint Castora Gabrielli"
 honorific: Saint
-title: "Saint Castora Gabrielli"
 summary: "Lay woman, married to Santuccio Sanfonerio, a lawyer at Sant'Angelo in Vado, Umbria, Italy. Franciscan tertiary. Widow. Noted for the sanctity she brought to her every day work."
 deathYear: 1391
 died: "1391 of natural causes"

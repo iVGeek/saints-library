@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Constantinople"
 honorific: Saint
-title: "Saint Eutychius of Constantinople"
 summary: "The son of Alexander, a general in the imperial Byzantine army of Belisarius. Monk at Amasea in Pontus (in modern Turkey) at age 30. Archimandrite of a monastery in Constantinople (modern Istanbul, Turkey). Patriarch of Constantinople from 552, nominated by Justinian the Great an"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Eutychius_of_Constantinople.jpg"
 searchAliases:

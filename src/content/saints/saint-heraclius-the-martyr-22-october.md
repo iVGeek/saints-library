@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclius the Martyr"
 honorific: Saint
-title: "Saint Heraclius the Martyr"
 summary: "Soldier who witnessed the martyrdom of Saint Alexander and companions, and was so moved, he converted and died with them. Martyr."
 died: "beheaded"
 region: "England"

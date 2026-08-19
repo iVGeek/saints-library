@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enric Salvá Ministral"
 honorific: Blessed
-title: "Blessed Enric Salvá Ministral"
 summary: "Franciscan Capuchin brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Carmel of Colomés"

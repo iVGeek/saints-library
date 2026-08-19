@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawdog"
 honorific: Saint
-title: "Saint Lawdog"
 summary: "There are four churches in the diocese of Saint David's, Wales that are named for this 6th century saint. No information about him has survived."
 region: "England"
 feastDay:

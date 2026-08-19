@@ -1,7 +1,6 @@
 ---
 name: "Saint Palaemon of Thebaid"
 honorific: Saint
-title: "Saint Palaemon of Thebaid"
 summary: "During the persecutions of Diocletian, he sought refuge in the deserts of Upper Egypt, and became one of the earliest Egyptian desert hermits. Friend and spiritual director of Saint Pachomius of Tabenna. Worked to develop the spiritual lives of other desert hermits by bringing th"
 searchAliases:
   - "Palamon"

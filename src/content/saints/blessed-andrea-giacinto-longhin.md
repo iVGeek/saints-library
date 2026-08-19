@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrea Giacinto Longhin"
 honorific: Blessed
-title: "Blessed Andrea Giacinto Longhin"
 summary: "The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood. Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del Grappa, Venice on 27 August 1879 at age 16. He stu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrea-Giacinto-Longhin.jpg"
 searchAliases:

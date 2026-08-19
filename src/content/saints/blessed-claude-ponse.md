@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claude Ponse"
 honorific: Blessed
-title: "Blessed Claude Ponse"
 summary: "Canon Regular of the Congregation of France priest. One of the Martyrs of September."
 birthYear: 1729
 deathYear: 1792

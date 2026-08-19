@@ -1,7 +1,6 @@
 ---
 name: "Saint James the Lesser"
 honorific: Saint
-title: "Saint James the Lesser"
 summary: "Cousin of Jesus. Brother of Saint Jude Thaddeus. Raised is a Jewish home of the time with all the training in Scripture and Law that was part of that life. Convert. One of the Twelve Apostles. One of the first to have visions of the risen Christ. First Bishop of Jerusalem. Met wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-James-the-Lesser4.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus the Martyr"
 honorific: Saint
-title: "Saint Donatus the Martyr"
 summary: "Martyred with 23 companions. No other information has survived."
 died: "forced into a swamp to die of cold and exhaustion, date unknown"
 deathPlace: "date unknown"

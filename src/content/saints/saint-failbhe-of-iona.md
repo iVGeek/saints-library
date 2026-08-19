@@ -1,7 +1,6 @@
 ---
 name: "Saint Failbhe of Iona"
 honorific: Saint
-title: "Saint Failbhe of Iona"
 summary: "Brother of Saint Finan of Rath. Monk and abbot Iona Abbey."
 born: "in Ireland"
 region: "Ireland"

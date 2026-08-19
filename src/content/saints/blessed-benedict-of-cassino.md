@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict of Cassino"
 honorific: Blessed
-title: "Blessed Benedict of Cassino"
 summary: "Benedictine monk at Monte Cassino. Abbot of the monastery at Capua, Italy. Known in his house for austere life style, known in the community for his charity."
 deathYear: 1055
 died: "22 May 1055 in Capua, Caserta, Italy of natural causes"

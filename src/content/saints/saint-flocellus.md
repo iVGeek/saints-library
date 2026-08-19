@@ -1,7 +1,6 @@
 ---
 name: "Saint Flocellus"
 honorific: Saint
-title: "Saint Flocellus"
 summary: "Young man martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Flaceau"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Súairlech of Linn Duachaille"
 honorific: Saint
-title: "Saint Súairlech of Linn Duachaille"
 summary: "Monk. Abbot of Linn Duachaille."
 searchAliases:
   - "Soairlech"

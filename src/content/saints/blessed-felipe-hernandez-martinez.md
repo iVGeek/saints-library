@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Hernández Martínez"
 honorific: Blessed
-title: "Blessed Felipe Hernández Martínez"
 summary: "Educated at a Salesian boarding school, Felipe joined the Salesians, trained in Campello, Spain, and made his profession on 1 August 1930 in Girona, Spain. Teacher in Ciudadela, Spain. He began his studies for the priesthood in Madrid, Spain in 1936. Martyred in the Spanish Civil"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Hernández-Martínez.jpg"
 birthYear: 1913

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Arizaleta Salvador"
 honorific: Blessed
-title: "Blessed Dionisio Arizaleta Salvador"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936

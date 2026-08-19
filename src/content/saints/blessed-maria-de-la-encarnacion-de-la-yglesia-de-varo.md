@@ -1,7 +1,6 @@
 ---
 name: "Blessed María De La Encarnación de La Yglesia de Varo"
 honorific: Blessed
-title: "Blessed María De La Encarnación de La Yglesia de Varo"
 summary: "Member of the Sisters of the Pious Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María of Jesus"

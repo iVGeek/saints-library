@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupicinus of Lyon"
 honorific: Saint
-title: "Saint Lupicinus of Lyon"
 summary: "Bishop of Lyon, France in 486."
 searchAliases:
   - "Lupicino"

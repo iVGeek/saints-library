@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantine of Monte Cassino"
 honorific: Saint
-title: "Saint Constantine of Monte Cassino"
 summary: "Monk. Spiritual student of Saint Benedict of Nursia, and succeeded him as abbot of Monte Cassino in Italy."
 deathYear: 560
 died: "c.560"

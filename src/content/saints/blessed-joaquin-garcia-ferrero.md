@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquín García Ferrero"
 honorific: Blessed
-title: "Blessed Joaquín García Ferrero"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

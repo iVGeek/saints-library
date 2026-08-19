@@ -1,7 +1,6 @@
 ---
 name: "Saint Achileo Kiwanuka"
 honorific: Venerable
-title: "Saint Achileo Kiwanuka"
 summary: "Lugave clan. Clerk in the service of King Mwanga. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Achileo-Kiwanuka.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyprien"
 honorific: Saint
-title: "Saint Cyprien"
 summary: "Martyr. No reliable information has survived."
 searchAliases:
   - "Cipriano"

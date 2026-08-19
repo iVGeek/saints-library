@@ -1,7 +1,6 @@
 ---
 name: "Saint Sacrinus of Rome"
 honorific: Saint
-title: "Saint Sacrinus of Rome"
 summary: "Martyr. No other details have survived."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

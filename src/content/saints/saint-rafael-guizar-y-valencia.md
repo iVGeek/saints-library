@@ -1,7 +1,6 @@
 ---
 name: "Saint Rafael Guízar y Valencia"
 honorific: Venerable
-title: "Saint Rafael Guízar y Valencia"
 summary: "One of eleven children born to Prudenzio Guizar and Natividad Valencia, wealthy and pious land owners. Ordained in 1901. Conducted missions throughout Mexico. Founded the Congregation of Missionaries of Our Lady of Hope in 1903. Apostolic missionary in 1905. Spiritual director in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rafael_Gu%C3%ADzar_y_Valencia_%28cropped%29.jpg/960px-Rafael_Gu%C3%ADzar_y_Valencia_%28cropped%29.jpg"
 birthYear: 1877

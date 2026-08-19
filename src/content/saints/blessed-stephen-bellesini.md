@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stephen Bellesini"
 honorific: Blessed
-title: "Blessed Stephen Bellesini"
 summary: "Born to the Italian nobility. Became Augustinian in 1790 at age 16 at the monastery of Saint Mark in Venice, Italy, taking the name Stephen; he made his profession on 31 May 1794. Studied in Rome and Bologna in Italy. During the French Revolution troops shut down religious houses"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beato_Stefano_Bellesini.JPG/960px-Beato_Stefano_Bellesini.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aldate of Gloucester"
 honorific: Saint
-title: "Saint Aldate of Gloucester"
 summary: "Bishop of Gloucester, England. He rallied his flock and fellow citizens to resist invasion by pagans from western Britain."
 searchAliases:
   - "Aldate of Caer Loew"

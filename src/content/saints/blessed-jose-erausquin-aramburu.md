@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Erausquin Aramburu"
 honorific: Blessed
-title: "Blessed José Erausquin Aramburu"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Erausquin-Aramburu.jpg"
 searchAliases:

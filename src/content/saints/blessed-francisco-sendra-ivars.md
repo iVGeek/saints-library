@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Sendra Ivars"
 honorific: Blessed
-title: "Blessed Francisco Sendra Ivars"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Sendra-Ivars.jpg"
 birthYear: 1899

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuela Prensa Cano"
 honorific: Blessed
-title: "Blessed Manuela Prensa Cano"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María of the Blessed Sacrament"

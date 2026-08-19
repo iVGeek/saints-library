@@ -1,7 +1,6 @@
 ---
 name: "Blessed Iacobus Yun Yu-o"
 honorific: Blessed
-title: "Blessed Iacobus Yun Yu-o"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Jacob"

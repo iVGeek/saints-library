@@ -1,7 +1,6 @@
 ---
 name: "Venerable Kazimiera Gruszczynska"
 honorific: Venerable
-title: "Venerable Kazimiera Gruszczynska"
 summary: "Drawn to religious life as a child, Kazimiera made private vow of chastity at age 10. She renewed this at age 21, and lived as a celebate single woman at her family home. When her mother died in August 1870, Kazimiera took over care of her family home. Outside, she began visiting"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Kazimiera-Gruszczynska.jpg"
 searchAliases:

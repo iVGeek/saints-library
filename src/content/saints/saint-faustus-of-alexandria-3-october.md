@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Alexandria"
 honorific: Saint
-title: "Saint Faustus of Alexandria"
 summary: "Deacon under Saint Dionysius of Alexandria. Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."
 deathYear: 257
 died: "in 257 at Alexandria, Egypt"

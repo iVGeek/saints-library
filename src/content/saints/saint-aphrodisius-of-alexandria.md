@@ -1,7 +1,6 @@
 ---
 name: "Saint Aphrodisius of Alexandria"
 honorific: Saint
-title: "Saint Aphrodisius of Alexandria"
 summary: "Priest martyred with about 30 of his parishioners whose names have not come down to us."
 born: "Egypt"
 died: "Alexandria, Egypt"

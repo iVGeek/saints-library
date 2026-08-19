@@ -1,7 +1,6 @@
 ---
 name: "Saint Fructus of Corinth"
 honorific: Saint
-title: "Saint Fructus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

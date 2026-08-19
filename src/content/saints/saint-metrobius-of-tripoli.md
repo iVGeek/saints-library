@@ -1,7 +1,6 @@
 ---
 name: "Saint Metrobius of Tripoli"
 honorific: Saint
-title: "Saint Metrobius of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"

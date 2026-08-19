@@ -1,7 +1,6 @@
 ---
 name: "Venerable Alfredo Morganti"
 honorific: Venerable
-title: "Venerable Alfredo Morganti"
 summary: "A professed priest of the Order of Friars Minor in the province of Ancona, Italy, he taught philosophy, and served as spiritual director of young people just starting in religious life. Minister Provincial of the Order from 1936 to 1942. Visitator for his Order in various provinc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Alfredo-Morganti.jpg"
 searchAliases:

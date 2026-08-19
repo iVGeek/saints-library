@@ -1,7 +1,6 @@
 ---
 name: "Saint Apronus of Rome"
 honorific: Saint
-title: "Saint Apronus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

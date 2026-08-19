@@ -1,7 +1,6 @@
 ---
 name: "Saint Simon the Apostle"
 honorific: Saint
-title: "Saint Simon the Apostle"
 summary: "Apostle. Called the Cananean or Zealot because of his zeal for the Jewish law; he was not from Cana, nor a member of the Zealot party. Like all the Apostles, he was a convert, and was trained by Saint Peter the Apostle. Evangelized in Egypt and Mesopotamia, though there are tradi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simon-the-Apostle.jpg"
 searchAliases:

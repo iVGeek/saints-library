@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lazër Shantoja"
 honorific: Blessed
-title: "Blessed Lazër Shantoja"
 summary: "Studied at the Pontifical French Seminary, and then theology in Innsbruck, Austria. Ordained on 29 May 1915 as a priest of the archdiocese of Shkodrë-Pult, Albania. Noted preacher. Secretary to Archbishop Lazare Mjeda. Imprisoned, tortured and executed in the anti-Christian perse"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Laz%C3%ABr_Shantoja_%28portrait%29.jpg"
 birthYear: 1892

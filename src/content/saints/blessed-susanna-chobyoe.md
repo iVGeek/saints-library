@@ -1,7 +1,6 @@
 ---
 name: "Blessed Susanna Chobyoe"
 honorific: Blessed
-title: "Blessed Susanna Chobyoe"
 summary: "Married to Blessed Petrus Araki Chobyoe. Japanese authorities tried to shame her out of her faith by hanging her naked by her hair in a tree for eight hours; it didn't work. She was imprisoned, and then martyred six months later."
 searchAliases:
   - "Susanna Cobioje"

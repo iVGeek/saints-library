@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Africa"
 honorific: Saint
-title: "Saint John of Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

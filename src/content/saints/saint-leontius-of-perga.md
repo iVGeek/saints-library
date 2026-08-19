@@ -1,7 +1,6 @@
 ---
 name: "Saint Leontius of Perga"
 honorific: Saint
-title: "Saint Leontius of Perga"
 summary: "Martyred with several companions by order of Flavian for destroying the altar of a pagan goddess during the persecutions of Diocletian. No other information has survived."
 deathYear: 300
 died: "beheaded c.300 at Perga, Pamphylia"

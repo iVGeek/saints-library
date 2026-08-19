@@ -1,7 +1,6 @@
 ---
 name: "Saint Macra of Rheims"
 honorific: Saint
-title: "Saint Macra of Rheims"
 summary: "Lived in private vows of chastity and charity in Rheims, France. Tortured, mutilated and executed for her faith during the persecutions of governor Rictiovarius. Martyr."
 searchAliases:
   - "Macra of Aisne"

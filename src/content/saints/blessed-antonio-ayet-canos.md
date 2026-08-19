@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Ayet Canós"
 honorific: Blessed
-title: "Blessed Antonio Ayet Canós"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ludovico María"

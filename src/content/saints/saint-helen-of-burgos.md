@@ -1,7 +1,6 @@
 ---
 name: "Saint Helen of Burgos"
 honorific: Saint
-title: "Saint Helen of Burgos"
 summary: "Nun. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Centola-and-Saint-Helen-of-Burgos.jpg"
 searchAliases:

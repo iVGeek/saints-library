@@ -1,7 +1,6 @@
 ---
 name: "Saint Chariton of Tiberiopolis"
 honorific: Saint
-title: "Saint Chariton of Tiberiopolis"
 summary: "Monk. Martyred in the persecutions of Julian the Apostate. No other information has survived."
 deathYear: 361
 died: "beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor"

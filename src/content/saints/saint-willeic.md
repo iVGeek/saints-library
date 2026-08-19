@@ -1,7 +1,6 @@
 ---
 name: "Saint Willeic"
 honorific: Saint
-title: "Saint Willeic"
 summary: "Benedictine monk. Spiritual student of Saint Swithbert. Prior and then abbot of the abbey of Kaiserwerth, Germany."
 searchAliases:
   - "Velleicus"

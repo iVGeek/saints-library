@@ -1,7 +1,6 @@
 ---
 name: "Saint Celsus of Armagh"
 honorific: Saint
-title: "Saint Celsus of Armagh"
 summary: "Son of Áed mac Máele Ísu meic Amalgada of the Clann Sínnaig. Benedictine monk. May have been a monk at Glastonbury. Teacher at Oxford, England. Last hereditary archbishop of Armagh, Ireland in 1106. Built a reputation as a reformer and able administrator. Travelled throughout Ire"
 image: "http://catholicsaints.info/wp-content/uploads/cellach-of-armagh-1522.jpg"
 searchAliases:

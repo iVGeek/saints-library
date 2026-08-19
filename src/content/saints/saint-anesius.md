@@ -1,7 +1,6 @@
 ---
 name: "Saint Anesius"
 honorific: Saint
-title: "Saint Anesius"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

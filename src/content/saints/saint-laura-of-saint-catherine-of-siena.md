@@ -1,7 +1,6 @@
 ---
 name: "Saint Laura of Saint Catherine of Siena"
 honorific: Venerable
-title: "Saint Laura of Saint Catherine of Siena"
 summary: "Educated at the Holy Spirit School in Amalfi, Colombia, and in Medell&iacute;n, Colombia. Teacher. Beginning in 1908, she worked as missionary to the natives in the Uraba and Sarare regions. Founded the Works of the Indians and the Congregation of Missionary Sisters of Immaculate"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saanta-Laura-Montoya-Upegui.jpg"
 searchAliases:

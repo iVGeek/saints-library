@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Creagh"
 honorific: Blessed
-title: "Blessed Richard Creagh"
 summary: "Son of a wealthy merchant; as a young man Richard worked in his father's business. However, feeling a call to the priesthood, he studied at the University of Leuven, Belgium where he was an excellent student, and was ordained in 1555. He returned to Limerick, Ireland in 1556 and"
 birthYear: 1523
 deathYear: 1586

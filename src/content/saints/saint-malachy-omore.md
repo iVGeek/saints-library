@@ -1,7 +1,6 @@
 ---
 name: "Saint Malachy O'More"
 honorific: Saint
-title: "Saint Malachy O'More"
 summary: "Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered religious life. Ordained at age 25. Studied under Saint Malchus. Preacher and clerical reformer. Instituted celibacy regulations and other disciplines on the Irish cl"
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-malachi-bishop.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Carthage"
 honorific: Saint
-title: "Saint Donatus of Carthage"
 summary: "Martyr."
 deathYear: 430
 died: "430 in Carthage, North Africa (modern Tunis, Tunisia)"

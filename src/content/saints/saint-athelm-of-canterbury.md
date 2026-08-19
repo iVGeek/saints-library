@@ -1,7 +1,6 @@
 ---
 name: "Saint Athelm of Canterbury"
 honorific: Saint
-title: "Saint Athelm of Canterbury"
 summary: "Paternal uncle of Saint Dunstan of Canterbury. Benedictine monk at Glastonbury, England. Abbot of Glastonbury. Bishop of Wells, Somerset, England in 909. Archbishop of Canterbury in 914."
 searchAliases:
   - "Atheim"

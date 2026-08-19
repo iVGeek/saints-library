@@ -1,7 +1,6 @@
 ---
 name: "Saint Cuán of Airbhre"
 honorific: Saint
-title: "Saint Cuán of Airbhre"
 summary: "Tutor and spiritual teacher of of prince Ceallachán of Fothairt, Ireland. Cuán is mentioned in several early martyrologies, but nothing else is known about him."
 region: "Ireland"
 feastDay:

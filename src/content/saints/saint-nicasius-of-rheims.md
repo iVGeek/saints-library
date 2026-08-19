@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicasius of Rheims"
 honorific: Saint
-title: "Saint Nicasius of Rheims"
 summary: "Brother of Saint Eutropia. Bishop of Rheims, France, and founder of its basilica. Martyred in the barbarian invasion of Rheims, an invasion he saw in a vision."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nicasius_maryrdom_Louvre_OA6119.jpg/960px-Nicasius_maryrdom_Louvre_OA6119.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Casani"
 honorific: Blessed
-title: "Blessed Peter Casani"
 summary: "Born to the Tuscan nobility, Pietro studied at Franciscan schools in Lucca and Rome, Italy. He could play several musical instruments, and often played the pipe organ during Mass. He joined the Clerks Regular of the Mother of God of Lucca in 1590, and served as secretary to Saint"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Casini.jpg"
 searchAliases:

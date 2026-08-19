@@ -1,7 +1,6 @@
 ---
 name: "Blessed Zefirino Agostini"
 honorific: Blessed
-title: "Blessed Zefirino Agostini"
 summary: " Assigned as priest to a very poor parish in 1845. Established after Oldest son of Antonio Agostini, a physician, and Agela Frattini; his father died when Zefirino was very young. Ordained on 11 March 1837. Curate, youth minister and catechist at Saint Nazarius church for 8 years."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Zefirino_Agostini.jpg"
 searchAliases:

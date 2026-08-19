@@ -1,7 +1,6 @@
 ---
 name: "Saint Publius of Thessalonica"
 honorific: Saint
-title: "Saint Publius of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

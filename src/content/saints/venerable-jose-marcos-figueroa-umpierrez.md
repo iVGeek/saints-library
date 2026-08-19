@@ -1,7 +1,6 @@
 ---
 name: "Venerable José Marcos Figueroa Umpierrez"
 honorific: Venerable
-title: "Venerable José Marcos Figueroa Umpierrez"
 summary: "Jesuit co-adjutor brother, making his solemn vows on 2 February 1897. He served in the infirmary and as a cook, tailor and general laborer at his house. He never was chosen as a leader of any type, but was known for his extraordinary example of personal holiness."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Jose-Marcos-Figueroa-Umpierrez.jpg"
 birthYear: 1865

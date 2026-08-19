@@ -1,7 +1,6 @@
 ---
 name: "Blessed Goswin of Clairvaux"
 honorific: Blessed
-title: "Blessed Goswin of Clairvaux"
 summary: "Benedictine Cistercian monk at Clairvaux Abbey, and then at Cheminon, France."
 deathYear: 1203
 died: "1203 of natural causes"

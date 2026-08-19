@@ -1,7 +1,6 @@
 ---
 name: "Saint John Payne"
 honorific: Saint
-title: "Saint John Payne"
 summary: "Convert. Studied at Douai, France in 1574. Ordained on 7 April 1576. Returned to Ingatestone, Essex, England, ministering to covert Catholics and bringing many back to the Church. Worked with Saint Cuthbert Mayne. Arrested for his work in 1577, he was exiled to Douai in 1579. Ret"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Payne1.jpg"
 searchAliases:

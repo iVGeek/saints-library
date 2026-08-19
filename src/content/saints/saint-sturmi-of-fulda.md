@@ -1,7 +1,6 @@
 ---
 name: "Saint Sturmi of Fulda"
 honorific: Saint
-title: "Saint Sturmi of Fulda"
 summary: "Educated by Saint Wigbert at Fritzlar Abbey under the direction of Saint Boniface. Friend of Charlemagne. Priest. Missionary in Westphalia for three years. Hermit at Hersfeld, where he tried to establish a monastery in 742, but had to flee ahead of Saxon raiders. Founded the Fuld"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sturmi-of-Fulda.png"
 searchAliases:

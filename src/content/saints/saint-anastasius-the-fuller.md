@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius the Fuller"
 honorific: Saint
-title: "Saint Anastasius the Fuller"
 summary: "Born a wealthy Aquileian noble family. After reading Saint Paul's advice to the Thessalonians that it's best to work with your hands, he became a fuller at Spalato, Dalmatia (modern Split, Croatia). Martyred in the persecutions of Diocletian when he painted a cross on his shop do"
 searchAliases:
   - "Anastasius of Salona"

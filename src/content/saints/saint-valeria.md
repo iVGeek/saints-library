@@ -1,7 +1,6 @@
 ---
 name: "Saint Valeria"
 honorific: Saint
-title: "Saint Valeria"
 summary: "Roman martyr whose cultus was very popular in France during the time of Saint Eligius."
 region: "France"
 feastDay:

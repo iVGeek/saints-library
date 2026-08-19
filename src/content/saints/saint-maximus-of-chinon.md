@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Chinon"
 honorific: Saint
-title: "Saint Maximus of Chinon"
 summary: "Spiritual student of Saint Martin of Tours. Founded the monastery of Chinon in France."
 deathYear: 470
 died: "c.470"

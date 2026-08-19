@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno of Verona"
 honorific: Saint
-title: "Saint Zeno of Verona"
 summary: "Bishop of Verona, Italy from 362 until his death. Noted preacher. Opposed Arianism and welcomed many refugees from North Africa who were fleeing persecution by Arians. Many of his written sermons have survived to today. Legend says he was stolen at birth and briefly replaced by a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/San_Zeno_che_ride_-_San_Zeno_-_Verona_2016_%283%29.jpg/960px-San_Zeno_che_ride_-_San_Zeno_-_Verona_2016_%283%29.jpg"
 searchAliases:

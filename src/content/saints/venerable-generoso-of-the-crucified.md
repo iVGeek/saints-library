@@ -1,7 +1,6 @@
 ---
 name: "Venerable Generoso of the Crucified"
 honorific: Venerable
-title: "Venerable Generoso of the Crucified"
 summary: "Priest. Member of the Congregation of the Passion of Jesus Christ."
 searchAliases:
   - "Angelo Fontanarosa"

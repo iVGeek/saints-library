@@ -1,7 +1,6 @@
 ---
 name: "Blessed Trifón Tobar Calzada"
 honorific: Blessed
-title: "Blessed Trifón Tobar Calzada"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Jerónimo"

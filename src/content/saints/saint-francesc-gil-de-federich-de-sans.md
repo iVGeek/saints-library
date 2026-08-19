@@ -1,7 +1,6 @@
 ---
 name: "Saint Francesc Gil de Federich de Sans"
 honorific: Venerable
-title: "Saint Francesc Gil de Federich de Sans"
 summary: "Educated in Barcelona, Spain where he joined the Dominicans. Priest. Missionary to the Philippines. Missionary to Vietnam in 1732. Spent nine years in prison for his faith during which he converted fellow prisoners and supervised evangelists on the outside. One of the Martyrs of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francesc-Gil-de-Federich-de-Sans.jpg"
 birthYear: 1702

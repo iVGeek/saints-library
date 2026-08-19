@@ -1,7 +1,6 @@
 ---
 name: "Saint Potenzianus of Sens"
 honorific: Saint
-title: "Saint Potenzianus of Sens"
 summary: "Shepherd. Martyr."
 died: "Sens, France"
 deathPlace: "France"

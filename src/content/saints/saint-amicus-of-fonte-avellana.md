@@ -1,7 +1,6 @@
 ---
 name: "Saint Amicus of Fonte Avellana"
 honorific: Saint
-title: "Saint Amicus of Fonte Avellana"
 summary: "Born to the Italian nobility, Amicus gave up the worldly life for a religious one in a Benedictine monastery near his home. About age 20, he left the monastic life to become a diocesan priest. He then gave up parish work to return to the monastery, encouraged all his family to ta"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Amicus-of-Fonte-Avellana.jpg"
 birthYear: 925

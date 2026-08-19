@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilia Bicchieri"
 honorific: Blessed
-title: "Blessed Emilia Bicchieri"
 summary: "Four of seven daughters born to the wealthy Ghibelline patrician family of Pietro Bicchieri. Emilia was well educated, and early on showed a she was drawn to religious life, withdrawing to her room for hours of prayer. Her mother died when Emilia was still a girl, and her father"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Beata_Emilia_Bicchieri.jpg"
 birthYear: 1238

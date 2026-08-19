@@ -1,7 +1,6 @@
 ---
 name: "Saint Fermus of Rome"
 honorific: Saint
-title: "Saint Fermus of Rome"
 summary: "Martyr."
 searchAliases:
   - "Fermo"

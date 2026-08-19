@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco López Navarette"
 honorific: Blessed
-title: "Blessed Francisco López Navarette"
 summary: "Priest in the diocese of Jaén, Spain; he celebrated his first Mass on 1 January 1917 in his home town. Parish priest in Cañada Catena, Spain where he was known for his ministry to the poor. Established a night school for working adults. Returning to  Villanueva del Arzobispo, Spa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Lopez-Navarette.jpg"
 birthYear: 1892

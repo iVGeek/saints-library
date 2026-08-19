@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Cordero y Cordero"
 honorific: Blessed
-title: "Blessed Tomás Cordero y Cordero"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomas-Cordero-y-Cordero.jpg"
 birthYear: 1910

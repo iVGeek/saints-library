@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Alvarez y Alvarez"
 honorific: Blessed
-title: "Blessed Manuel Alvarez y Alvarez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

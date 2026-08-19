@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugo of Haarlem"
 honorific: Blessed
-title: "Blessed Hugo of Haarlem"
 summary: "Layman. Martyred by Calvinists."
 deathYear: 1572
 died: "1572 in Haarlem, Netherlands"

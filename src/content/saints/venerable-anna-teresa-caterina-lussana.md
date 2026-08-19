@@ -1,7 +1,6 @@
 ---
 name: "Venerable Anna Teresa Caterina Lussana"
 honorific: Venerable
-title: "Venerable Anna Teresa Caterina Lussana"
 summary: "Born to a wealthy family, Maria earned her teaching certification but had to return home for many years to care for her seriously ill mother. In 1888, following her mother's death, Maria tried to join the Daughters of the Sacred Heart of Jesus, but in 1889, because of her teachin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Caterina-Lussana.jpg"
 searchAliases:

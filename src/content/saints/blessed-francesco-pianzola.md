@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco Pianzola"
 honorific: Blessed
-title: "Blessed Francesco Pianzola"
 summary: "Born to a farming family. Studied at the seminary of Vigevano, Italy, and was ordained on 16 March 1907. He became an itinerant preacher, ministering to the poor, to children at their homes, to farm workers in the fields, to young women in the factories. Founded the Suore Mission"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Francesco_Pianzola.png"
 searchAliases:

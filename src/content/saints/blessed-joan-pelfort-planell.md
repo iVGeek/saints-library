@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Pelfort Planell"
 honorific: Blessed
-title: "Blessed Joan Pelfort Planell"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Joan Crisòstom"

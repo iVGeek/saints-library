@@ -1,7 +1,6 @@
 ---
 name: "Saint Arianus of Alexandria"
 honorific: Saint
-title: "Saint Arianus of Alexandria"
 summary: "Third-century governor of Thebes, Egypt. Having witnessed the courage of Christian martyrs, he became interested in the faint, and became a convert. Martyr."
 searchAliases:
   - "Ariannus"

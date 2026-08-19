@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Lycopolis"
 honorific: Saint
-title: "Saint John of Lycopolis"
 summary: "Carpenter. Hermit on a mountain near Lycopolis from ages 25 to 65, living most of his life in a small, walled-up cell. Devoted himself to prayer and meditation five days a week, spiritual direction of male students the other two days; there were so many, he had to build a hospice"
 image: "http://catholicsaints.info/wp-content/uploads/Saint-John-of-Egypt.jpg"
 searchAliases:

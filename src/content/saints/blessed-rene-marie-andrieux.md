@@ -1,7 +1,6 @@
 ---
 name: "Blessed René-Marie Andrieux"
 honorific: Blessed
-title: "Blessed René-Marie Andrieux"
 summary: "Educated by Jesuits. Joined the Jesuits in 1760. Ordained in 1766. Taught moral theology in the seminary in Laon, France, and served as spiritual director. Superior-general of his Congregation in 1786. Imprisoned and executed for refusing to take the schismatic oath of allegiance"
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Paris.jpg"
 birthYear: 1742

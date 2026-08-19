@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel-Joseph-Roger Longueville"
 honorific: Blessed
-title: "Blessed Gabriel-Joseph-Roger Longueville"
 summary: "Priest of the diocese of Viviers, France. Fidei Donum missionary in the diocese of La Rioja, Argentina. Martyr."
 birthYear: 1931
 deathYear: 1976

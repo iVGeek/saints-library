@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabel of Chalcedon"
 honorific: Saint
-title: "Saint Sabel of Chalcedon"
 summary: "One of three well-educated Christian men who were sent as ambassadors from King Baltan of Persia to the court of emperor Julian the Apostate to negotiate peace between the two states, and an end of Julian's persecutions of Christians. Instead of negotiating, Julian imprisoned the"
 deathYear: 362
 born: "Persian"

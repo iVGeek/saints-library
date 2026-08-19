@@ -1,7 +1,6 @@
 ---
 name: "Saint Zonisus of Thessalonica"
 honorific: Saint
-title: "Saint Zonisus of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

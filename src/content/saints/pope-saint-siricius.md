@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Siricius"
 honorific: Saint
-title: "Pope Saint Siricius"
 summary: "Son of Tiburtius. Lector. Deacon. Friend of Saint Ambrose of Milan. Unanimously elected 38th pope in 384. He was opposed by the anti-pope Ursinus, but the pretender could not get any support, and nothing came of it. Expanded papal power and authority, decreeing that any papal doc"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png/960px-Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png"
 birthYear: 334

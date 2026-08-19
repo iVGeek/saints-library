@@ -1,7 +1,6 @@
 ---
 name: "Saint Dominic of Sora"
 honorific: Saint
-title: "Saint Dominic of Sora"
 summary: "Benedictine monk and abbot. Founded nine monasteries in in the kingdom of Naples (in modern Italy) including Scandrilia, Sora, and Sangro."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-Abbot-and-Hermit.jpg"
 birthYear: 951

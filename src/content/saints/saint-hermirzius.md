@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermirzius"
 honorific: Saint
-title: "Saint Hermirzius"
 summary: "Martyr. No other information has survived."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Hermirzius.jpg"
 searchAliases:

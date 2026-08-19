@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Pigem Serra"
 honorific: Blessed
-title: "Blessed Salvador Pigem Serra"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Pigem-Serra.jpg"
 birthYear: 1912

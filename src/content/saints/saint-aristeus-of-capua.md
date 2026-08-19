@@ -1,7 +1,6 @@
 ---
 name: "Saint Aristeus of Capua"
 honorific: Saint
-title: "Saint Aristeus of Capua"
 summary: "Bishop. Martyr."
 searchAliases:
   - "Aristseus"

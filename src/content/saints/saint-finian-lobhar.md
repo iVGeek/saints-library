@@ -1,7 +1,6 @@
 ---
 name: "Saint Finian Lobhar"
 honorific: Saint
-title: "Saint Finian Lobhar"
 summary: "Disciple of Saint Columba. Founded a church and monastery at Innisfallen, Ireland. Monk at Clonmore, Ireland. Abbot of Swords abbey near Dublin, Ireland. In his later years he retired to Clonmore to spend his last days as a prayerful monk. He was called Lobhar (the Leper) because"
 searchAliases:
   - "Finian Lobur\nFinian the Leper"

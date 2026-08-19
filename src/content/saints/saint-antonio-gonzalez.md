@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonio González"
 honorific: Venerable
-title: "Saint Antonio González"
 summary: "Dominican priest. Missionary to Japan. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-González.jpg"
 birthYear: 1593

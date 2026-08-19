@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francisca Ana María Alcover Morell"
 honorific: Venerable
-title: "Venerable Francisca Ana María Alcover Morell"
 summary: "Lifelong lay woman of the archdiocese of Mallorca, Spain, she was born to a wealthy family who had immigrated to Spain from the south of France; Francisca was the only child in the family to survive to adulthood. She was educated at a school run by the Daughters of Maria Scolopie"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisca-Ana-Maria-Alcover-Morell.jpg"
 birthYear: 1912

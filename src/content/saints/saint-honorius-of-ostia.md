@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius of Ostia"
 honorific: Saint
-title: "Saint Honorius of Ostia"
 summary: "Martyr. No other information has survived."
 died: "Ostia, Italy, date unknown"
 deathPlace: "Italy, date unknown"

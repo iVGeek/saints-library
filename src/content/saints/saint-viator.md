@@ -1,7 +1,6 @@
 ---
 name: "Saint Viator"
 honorific: Saint
-title: "Saint Viator"
 summary: "Benedictine monk at the Saint-Mesmin Abbey (also known as Micy Abbey) in the early sixth-century near Orleans, France. Friend and brother monk of Saint Avitus. Spiritual student of Saint Maximinus. Feeling the need for solitude, he left the abbey to live as a hermit near Sologne-"
 searchAliases:
   - "Viâtre"

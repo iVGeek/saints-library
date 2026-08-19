@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Mary Javouhey"
 honorific: Blessed
-title: "Blessed Anne Mary Javouhey"
 summary: "Daughter of a wealthy farmer, she grew up during the French Revolution, and saw her family risk everything by hiding priests. Pious girl who wanted to devote herself to teaching children and helping the poor. In 1800 she had a vision in Besan&ccedil;on where she was surrounded by"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Mary-Javouhey.jpg"
 birthYear: 1779

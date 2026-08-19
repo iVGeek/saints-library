@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio González Penín"
 honorific: Blessed
-title: "Blessed Antonio González Penín"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-González-Penín.jpg"
 birthYear: 1864

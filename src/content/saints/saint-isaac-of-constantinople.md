@@ -1,7 +1,6 @@
 ---
 name: "Saint Isaac of Constantinople"
 honorific: Saint
-title: "Saint Isaac of Constantinople"
 summary: "While still a layman, he publicly opposed the Arian heresy of Emperor Valens. Monk. Abbot at Constantinople."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-of-Constantinople.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus of Silistria"
 honorific: Saint
-title: "Saint Paulus of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

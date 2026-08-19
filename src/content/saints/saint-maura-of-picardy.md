@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura of Picardy"
 honorific: Saint
-title: "Saint Maura of Picardy"
 summary: "Martyred while on pilgrimage to Rome, Italy."
 born: "Scotland"
 died: "Picardy, France"

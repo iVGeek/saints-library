@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luís Rodrigues"
 honorific: Blessed
-title: "Blessed Luís Rodrigues"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1554
 deathYear: 1570

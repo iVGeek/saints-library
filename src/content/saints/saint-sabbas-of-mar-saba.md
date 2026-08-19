@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabbas of Mar Saba"
 honorific: Saint
-title: "Saint Sabbas of Mar Saba"
 summary: "Spiritual student of Saint Euthymius the Great at age 20. Anchorite from age 30, living in a cave, devoting himself to prayer and manual labor. He wove ten willow baskets each day. On Saturday he would take them to the local monastery, led by Saint Euthymius, and trade them for a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sabbas-of-Mar-Saba-1.jpg"
 searchAliases:

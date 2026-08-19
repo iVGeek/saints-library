@@ -1,7 +1,6 @@
 ---
 name: "Saint Grazia of Germagno"
 honorific: Saint
-title: "Saint Grazia of Germagno"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Grazia.jpg"
 deathYear: 1842

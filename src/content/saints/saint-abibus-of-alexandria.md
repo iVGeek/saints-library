@@ -1,7 +1,6 @@
 ---
 name: "Saint Abibus of Alexandria"
 honorific: Saint
-title: "Saint Abibus of Alexandria"
 summary: "Deacon. Martyred in the persecutions of Decius."
 searchAliases:
   - "Bibus"

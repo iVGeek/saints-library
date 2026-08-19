@@ -1,7 +1,6 @@
 ---
 name: "Saint Sator of Velleianum"
 honorific: Saint
-title: "Saint Sator of Velleianum"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 searchAliases:
   - "Satyrus"

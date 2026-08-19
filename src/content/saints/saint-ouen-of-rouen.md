@@ -1,7 +1,6 @@
 ---
 name: "Saint Ouen of Rouen"
 honorific: Saint
-title: "Saint Ouen of Rouen"
 summary: "Son of Aiga Saint Authaire of La-Ferté. Acquainted with Saint Columbanus, Saint Faro of Meaux, and Saint Aile. Educated at Saint Medard abbey. Served in the courts of King Clotaire II, King Dagobert I, and King Clovis II. Chancellor to Dagobert and Clovis. Friend of Saint Wandril"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ouen.jpg"
 searchAliases:

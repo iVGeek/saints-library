@@ -1,7 +1,6 @@
 ---
 name: "Saint Meugant"
 honorific: Saint
-title: "Saint Meugant"
 summary: "Sixth-century spiritual student of Saint Illtyd. Hermit. Several churches in Wales and Cornwall are dedicated to him."
 searchAliases:
   - "Maughan"

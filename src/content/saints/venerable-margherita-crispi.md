@@ -1,7 +1,6 @@
 ---
 name: "Venerable Margherita Crispi"
 honorific: Venerable
-title: "Venerable Margherita Crispi"
 summary: "Founded the Sisters Oblates to Divine Love."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Margherita-Crispi.jpg"
 searchAliases:

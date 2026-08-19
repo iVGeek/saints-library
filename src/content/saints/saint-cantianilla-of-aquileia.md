@@ -1,7 +1,6 @@
 ---
 name: "Saint Cantianilla of Aquileia"
 honorific: Saint
-title: "Saint Cantianilla of Aquileia"
 summary: "Born to the imperial Roman nobility and raised in a palace; his tutor and catechist was Saint Protus of Aquileia. To escape the persecutions of Diocletian, the family sold their property and moved to Aquileia, Italy. However, the authorities there quickly ordered them to sacrific"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Aquileia.jpg"
 deathYear: 304

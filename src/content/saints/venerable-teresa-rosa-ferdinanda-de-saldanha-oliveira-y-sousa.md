@@ -1,7 +1,6 @@
 ---
 name: "Venerable Teresa Rosa Ferdinanda de Saldanha Oliveira y Sousa"
 honorific: Venerable
-title: "Venerable Teresa Rosa Ferdinanda de Saldanha Oliveira y Sousa"
 summary: "Born to the Portuguese nobility, the daughter of João de Saldanha Oliveira Juzarte Figueira e Sousa, 3rd Count of Rio Maior, and Isabel Maria of Prazeres de Sousa Botelho Mourão y Vasconcelos. Feeling a call to religious life and good works, in 1862 Teresa became the director of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Rosa-Ferdinanda-de-Saldanha-Oliveira-y-Sousa.jpg"
 birthYear: 1837

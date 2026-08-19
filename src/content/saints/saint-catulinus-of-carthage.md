@@ -1,7 +1,6 @@
 ---
 name: "Saint Catulinus of Carthage"
 honorific: Saint
-title: "Saint Catulinus of Carthage"
 summary: "Deacon martyred in the persecutions of Diocletian."
 searchAliases:
   - "Cartholinus"

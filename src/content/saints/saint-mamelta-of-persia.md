@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamelta of Persia"
 honorific: Saint
-title: "Saint Mamelta of Persia"
 summary: "Pagan priest in Bethfarme, Persia. Convert to Christianity. Martyr."
 deathYear: 344
 died: "stoned and then drowned in a lake in Persia c.344"

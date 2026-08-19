@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio Marcos Rodríguez"
 honorific: Blessed
-title: "Blessed Julio Marcos Rodríguez"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

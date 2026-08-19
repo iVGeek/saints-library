@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Koshima Shinshiro"
 honorific: Blessed
-title: "Blessed Maria Koshima Shinshiro"
 summary: "Lay woman in the diocese of Kyoto, Japan. Married to Blessed Thomas Koshima Shinshiro. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Yamashiro, Kyoto, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Rhuddlad"
 honorific: Saint
-title: "Saint Rhuddlad"
 summary: "Nun. No other information has survived."
 searchAliases:
   - "Rhudlad"

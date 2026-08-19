@@ -1,7 +1,6 @@
 ---
 name: "Saint Pinian"
 honorific: Saint
-title: "Saint Pinian"
 summary: "Married to Saint Melania the Younger. Father of two; both children died very young. About 410 the couple left Rome, Italy, and each entered religious life. Monk."
 searchAliases:
   - "Pinianus"

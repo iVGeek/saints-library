@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eleuterio Angulo Ayala"
 honorific: Blessed
-title: "Blessed Eleuterio Angulo Ayala"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Luis Victorio"

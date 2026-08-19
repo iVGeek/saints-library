@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Shobyoye"
 honorific: Blessed
-title: "Blessed Dominic Shobyoye"
 summary: "Dominican lay tertiary. Sheltered missionaries during the persecutions in Japan. Martyr."
 searchAliases:
   - "Dominic Shibioge"

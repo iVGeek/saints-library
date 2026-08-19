@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinian the Abbot"
 honorific: Saint
-title: "Saint Sabinian the Abbot"
 summary: "Abbot of Moutier-Saint-Chaffre in the Diocese of Le Puy, France."
 deathYear: 720
 died: "c.720"

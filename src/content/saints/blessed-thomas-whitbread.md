@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Whitbread"
 honorific: Blessed
-title: "Blessed Thomas Whitbread"
 summary: "Seminarian at Saint Omer, France. Joined the Jesuits in 1635. Priest. Using the alias Thomas Harcourt, he returned to England to minister to covert Catholics and serve as provincial of the Jesuit mission there. Falsely accused of conspiring to kill King Charles II. Martyr."
 searchAliases:
   - "Thomas Harcourt"

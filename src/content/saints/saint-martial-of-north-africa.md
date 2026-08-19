@@ -1,7 +1,6 @@
 ---
 name: "Saint Martial of North Africa"
 honorific: Saint
-title: "Saint Martial of North Africa"
 summary: "One of a group of 22 martyrs. No other information has survived."
 region: "England"
 feastDay:

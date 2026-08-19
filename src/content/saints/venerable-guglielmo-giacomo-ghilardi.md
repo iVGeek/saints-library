@@ -1,7 +1,6 @@
 ---
 name: "Venerable Guglielmo Giacomo Ghilardi"
 honorific: Venerable
-title: "Venerable Guglielmo Giacomo Ghilardi"
 summary: "Franciscan priest at San Vivaldo di Montaione, Italy for 44 years."
 searchAliases:
   - "Faustino"

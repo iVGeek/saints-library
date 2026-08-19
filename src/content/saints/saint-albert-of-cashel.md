@@ -1,7 +1,6 @@
 ---
 name: "Saint Albert of Cashel"
 honorific: Saint
-title: "Saint Albert of Cashel"
 summary: "Evangelist in Ireland, especially around the city of Cashel, and may have been a bishop. Noted as an excellent preacher being “by race an Angle, in speech an angel.” Evangelized in Bavaria (in modern Germany) with Saint Erhard of Regensburg. Suffered from arthritis in his back an"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/09_St_Albert_of_Cashel_detail%2C_Harry_Clarke%2C_Honan_Chapel_Stained_Glass.jpg"
 searchAliases:

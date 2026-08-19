@@ -1,7 +1,6 @@
 ---
 name: "Saint Essuperanzio of Zurich"
 honorific: Saint
-title: "Saint Essuperanzio of Zurich"
 summary: "Servant of Saint Regula and Saint Felix of Zürich. During the persecutions of Maximian Herculeaus the two fled to Switzerland. They were found there near Zürich. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Essuperanzio-of-Zurich.jpg"
 searchAliases:

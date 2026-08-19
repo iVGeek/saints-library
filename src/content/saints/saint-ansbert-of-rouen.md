@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansbert of Rouen"
 honorific: Saint
-title: "Saint Ansbert of Rouen"
 summary: "Chancellor at the court of King Clotaire III. Married; with his wife's permission, he retired to become a Benedictine monk at Fontenelle in Normandy, France. Abbot of Fontenelle. Archbishop of Rouen, France in 683. Exiled to Hainaut by Pepin of Heristal."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Baie_5_cath%C3%A9drale_Rouen_Ansbert.JPG/960px-Baie_5_cath%C3%A9drale_Rouen_Ansbert.JPG"
 searchAliases:

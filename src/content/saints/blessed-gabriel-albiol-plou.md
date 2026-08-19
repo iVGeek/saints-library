@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Albiol Plou"
 honorific: Blessed
-title: "Blessed Gabriel Albiol Plou"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Justí Gabriel"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abraham Kidunaia"
 honorific: Saint
-title: "Saint Abraham Kidunaia"
 summary: "Born to a wealthy family near Edessa, Syria. Forced into an arranged marriage at an early age. During the wedding festivities, Abraham fled. He walled himself up in a nearby building, leaving a small hole through which his family could send in food and water, and by which he coul"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg/960px-Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Choe Pil-je"
 honorific: Blessed
-title: "Blessed Petrus Choe Pil-je"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Peter"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Grau Bullich"
 honorific: Blessed
-title: "Blessed Joan Grau Bullich"
 summary: "Member of the Benedictines (Subiaco Congregation). Priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Robert"

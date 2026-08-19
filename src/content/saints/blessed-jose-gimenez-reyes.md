@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Giménez Reyes"
 honorific: Blessed
-title: "Blessed José Giménez Reyes"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucio Martínez Mancebo"
 honorific: Blessed
-title: "Blessed Lucio Martínez Mancebo"
 summary: "Entered the seminary of León, Spain in 1912, and the Dominican novitiate in Solsona, Spain in 1919. He made his profession in the Order on 24 October 1920, and ordained in 1925 in the diocese of Valencia, Spain. He served as teacher and as master of novices and students from 1930"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucio-Martínez-Mancebo.jpg"
 birthYear: 1902

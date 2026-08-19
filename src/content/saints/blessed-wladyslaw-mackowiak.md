@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wladyslaw Mackowiak"
 honorific: Blessed
-title: "Blessed Wladyslaw Mackowiak"
 summary: "Priest in the diocese of Vilnius, Lithuania, serving as a parish priest in Ikazni, working with Blessed Stanislaw Pyrtek. For his faith and zealous preaching of the faith during the Nazi occupation of World War II, he was sentenced to death by the Gestapo. Warned of the danger, F"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wladyslaw-Mackowiak.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonard of Reresby"
 honorific: Saint
-title: "Saint Leonard of Reresby"
 summary: "Crusader. Captured by Saracens, but miraculously freed."
 born: "Thryberg, Yorkshire, England"
 died: "13th century Yorkshire, England of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Crespo Calleja"
 honorific: Blessed
-title: "Blessed Juan Crespo Calleja"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

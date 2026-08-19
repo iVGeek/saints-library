@@ -1,7 +1,6 @@
 ---
 name: "Saint Rustulus of Cilicia"
 honorific: Saint
-title: "Saint Rustulus of Cilicia"
 summary: "Martyr. No other information has survived."
 died: "in Cilicia, Asia Minor (in modern Turkey), date unknown"
 deathPlace: "Asia Minor (modern Turkey), date unknown"

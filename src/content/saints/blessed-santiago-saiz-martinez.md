@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Saiz Martínez"
 honorific: Blessed
-title: "Blessed Santiago Saiz Martínez"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Santiago María"

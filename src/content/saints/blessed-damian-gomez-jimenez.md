@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damián Gómez Jiménez"
 honorific: Blessed
-title: "Blessed Damián Gómez Jiménez"
 summary: "Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Damián-Gómez-Jiménez.jpg"
 birthYear: 1871

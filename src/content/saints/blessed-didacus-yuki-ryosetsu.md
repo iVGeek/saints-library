@@ -1,7 +1,6 @@
 ---
 name: "Blessed Didacus Yuki Ryosetsu"
 honorific: Blessed
-title: "Blessed Didacus Yuki Ryosetsu"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Didacus-Yuki-Ryosetsu.jpg"
 birthYear: 1575

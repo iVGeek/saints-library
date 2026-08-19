@@ -1,7 +1,6 @@
 ---
 name: "Venerable Guglielmo Massaia"
 honorific: Venerable
-title: "Venerable Guglielmo Massaia"
 summary: "Member of the Order of Friars Minor Capuchin, taking the name Guglielmo in honour of his deceased brother who had been a canon of the cathedral in Asti, Italy, and had served as Lorenzo's spiritual teacher; he made his solemn profession on 8 September 1825. Ordained a priest in t"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Guglielmo_Massaia2.jpg"
 searchAliases:

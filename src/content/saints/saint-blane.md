@@ -1,7 +1,6 @@
 ---
 name: "Saint Blane"
 honorific: Saint
-title: "Saint Blane"
 summary: "Nephew of Saint Cathan. Studied in Ireland under Saint Comgall of Bangor, Saint Kenneth, and Saint Canice. Monk. After seven years, he returned to Scotland; tradition says he travelled in a boat without oars or rudder, but that it took him safely home. Monk at the monstery founde"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/St_Blane%27s_Church_-_full_view.JPG/960px-St_Blane%27s_Church_-_full_view.JPG"
 searchAliases:

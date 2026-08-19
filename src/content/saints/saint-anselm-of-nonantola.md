@@ -1,7 +1,6 @@
 ---
 name: "Saint Anselm of Nonantola"
 honorific: Saint
-title: "Saint Anselm of Nonantola"
 summary: "Duke of Friuli, Italy. Brother-in-law of the Lombard King Aistulph. Career soldier. Cleric. Founded the abbeys in Fanano, Modena, Italy, and of Nonantola, Italy. Both included hospitals and hostels. Anselm became a Benedictine monk in Rome, Italy in 753. Abbot of the house at Non"
 image: "http://catholicsaints.info/wp-content/uploads/Anselm-of-Nonantola.jpg"
 searchAliases:

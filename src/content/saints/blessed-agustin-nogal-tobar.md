@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agustín Nogal Tobar"
 honorific: Blessed
-title: "Blessed Agustín Nogal Tobar"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

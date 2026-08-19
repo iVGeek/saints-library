@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilla of Rome"
 honorific: Saint
-title: "Saint Basilla of Rome"
 summary: "Niece of the Emperor Gallienus. Adult convert to Christianity, baptised by Pope Saint Cornelius. She refused to marry a pagan patrician to whom she had arranged marriage and who required her to denouce her faith. Martyr."
 searchAliases:
   - "Babilla"

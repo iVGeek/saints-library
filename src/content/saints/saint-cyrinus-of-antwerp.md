@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrinus of Antwerp"
 honorific: Saint
-title: "Saint Cyrinus of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Cirino"

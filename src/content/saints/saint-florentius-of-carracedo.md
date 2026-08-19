@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Carracedo"
 honorific: Saint
-title: "Saint Florentius of Carracedo"
 summary: "12th century Benedictine monk. Abbot of the monastery of Saint Mary of Carracedo, León, Castile and León, Spain. He brought the Cistercian reform to the house, bringing in help from the nearby monastery of Santa María de Valverde. Greatly esteemed by King Alphonsus VII, Florentiu"
 searchAliases:
   - "Fiorenzo"

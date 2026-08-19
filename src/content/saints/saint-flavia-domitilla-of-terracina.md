@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavia Domitilla of Terracina"
 honorific: Saint
-title: "Saint Flavia Domitilla of Terracina"
 summary: "Roman noble lay woman. Grand-daughter of Emperor Vespasian; niece of Emperors Titus and Domitian. Married to Titus Flavius Clemens, a Roman consul, nephew of Emperor Vespasian, and first cousin of Emperors Titus and Domitian; foster sister of Saint Ephyrosyna of Terracina and Sai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Flavia-Domitilla-of-Terracina.jpg"
 died: "at Terracina, Italy"

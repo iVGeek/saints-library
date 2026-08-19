@@ -1,7 +1,6 @@
 ---
 name: "Saint Musca of Aquileia"
 honorific: Saint
-title: "Saint Musca of Aquileia"
 summary: "Martyr."
 deathYear: 100
 died: "c.100 in Aquileia, Italy"

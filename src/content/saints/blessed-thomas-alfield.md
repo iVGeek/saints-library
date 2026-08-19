@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Alfield"
 honorific: Blessed
-title: "Blessed Thomas Alfield"
 summary: "Educated at Eton and King's College, Cambridge, obtaining his degree in 1568. Raised Protestant, he converted as an adult to Catholicism. Entered the seminary at Douai and Rheims, France in 1576. Ordained in 1581. Returned to England to minister to covert Catholics during a perio"
 searchAliases:
   - "Thomas Aufield"

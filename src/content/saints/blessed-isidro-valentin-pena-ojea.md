@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Valentín Peña Ojea"
 honorific: Blessed
-title: "Blessed Isidro Valentín Peña Ojea"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Estanislao De Jesús"

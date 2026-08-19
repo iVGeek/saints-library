@@ -1,7 +1,6 @@
 ---
 name: "Venerable Satoko Elisabeth Maria Kitahara"
 honorific: Venerable
-title: "Venerable Satoko Elisabeth Maria Kitahara"
 summary: "Born to the Japanese aristocracy, a descendent of samurai warriors, and raised in a Shinto household. Lay woman in the archdiocese of Tokyo, Japan. Worked in the Nakajima airplane factory during World War II as a young girl; she survived a bombing of the plant. Developed tubercul"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Satoko-Kitahara.jpg"
 searchAliases:

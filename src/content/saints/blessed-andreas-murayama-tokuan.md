@@ -2,7 +2,6 @@
 name: "Blessed Andreas Murayama Tokuan"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-%28made-c1626%29.png/960px-Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-%28made-c1626%29.png"
 honorific: Blessed
-title: "Blessed Andreas Murayama Tokuan"
 summary: "Layman member of the Confraternity of the Holy Rosary in the archdiocese of Nagasaki, Japan. Arrested for sheltering missionaries. He was offered his freedom if he would deny Christianity; he declined. Martyr."
 searchAliases:
   - "Andrew Toukan"

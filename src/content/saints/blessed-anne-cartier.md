@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Cartier"
 honorific: Blessed
-title: "Blessed Anne Cartier"
 summary: "Ursuline nuns. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

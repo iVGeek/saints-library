@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclides of Alexandria"
 honorific: Saint
-title: "Saint Heraclides of Alexandria"
 summary: "Catechumen. Spiritual student of Origen. Martyred in the persecutions of Severus."
 searchAliases:
   - "Eraclide"

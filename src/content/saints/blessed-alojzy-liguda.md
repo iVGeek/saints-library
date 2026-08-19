@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alojzy Liguda"
 honorific: Blessed
-title: "Blessed Alojzy Liguda"
 summary: "A member of the Society of the Divine Word, joining in 1920 in hopes of missionary work in China or New Guinea; Brother Alojzy made his profession in 1926. Ordained a priest on 25 May 1927 and assigned as rector of the minor seminary of Górna Grupa in Poland. When the Germans inv"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Alojzy-Liguda.jpg"
 birthYear: 1898

@@ -1,7 +1,6 @@
 ---
 name: "Saint María Maravillas de Jesús"
 honorific: Venerable
-title: "Saint María Maravillas de Jesús"
 summary: "Daughter of Luis Pidal y Mon and Cristina Chico de Guzman y Munoz, the Marquess and Marchioness of Pidal; her father was Spanish ambassador to the Vatican and a very active supporter of the Church. She was baptized at the age of eight days, Confirmed in 1896, made her first Commu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-María-Maravillas-de-Jesús.jpg"
 searchAliases:

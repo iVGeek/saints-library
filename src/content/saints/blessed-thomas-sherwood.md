@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Sherwood"
 honorific: Blessed
-title: "Blessed Thomas Sherwood"
 summary: "A draper's assistant and a physically small man. Both parents had been arrested for clinging to their faith during a time when Catholicism was outlawed in England. Thomas aspired to the priesthood, and planned to go to Douai, France to study. Condemned to the Tower of London for"
 birthYear: 1551
 deathYear: 1578

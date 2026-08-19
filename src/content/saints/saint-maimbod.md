@@ -1,7 +1,6 @@
 ---
 name: "Saint Maimbod"
 honorific: Saint
-title: "Saint Maimbod"
 summary: "Wandering missionary who made pilgrimages to tombs of saints and martyrs throughout Gaul and northern Italy, preaching to those he met on the way."
 searchAliases:
   - "Mainbeouf"

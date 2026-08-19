@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioachim Watanabe Jirozaemon"
 honorific: Blessed
-title: "Blessed Ioachim Watanabe Jirozaemon"
 summary: "Married layman in the diocese of Fukuoka, Japan. Martyr."
 searchAliases:
   - "Joaquín"

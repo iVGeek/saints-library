@@ -1,7 +1,6 @@
 ---
 name: "Blessed François Migoret-Lamberdière"
 honorific: Blessed
-title: "Blessed François Migoret-Lamberdière"
 summary: "Priest in the diocese of Laval, France. Parish priest of Oisseau, France, and rector of a nearby college. Parish priest in Rennes-en-Gronouille, France where he also served as a teacher and encouraged education of young people. At one point in the French Revolution he took a cond"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Martyrs-of-Laval.jpg"
 birthYear: 1728

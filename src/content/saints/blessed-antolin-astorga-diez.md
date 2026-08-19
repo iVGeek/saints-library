@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antolín Astorga Díez"
 honorific: Blessed
-title: "Blessed Antolín Astorga Díez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936

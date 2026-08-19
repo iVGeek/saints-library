@@ -1,7 +1,6 @@
 ---
 name: "Saint Rusticus of Nicomedia"
 honorific: Saint
-title: "Saint Rusticus of Nicomedia"
 summary: "Martyr."
 died: "Nicomedia, Bitynia, Asia Minor (near modern Izmet, Turkey)"
 deathPlace: "Bitynia, Asia Minor (near modern Izmet, Turkey)"

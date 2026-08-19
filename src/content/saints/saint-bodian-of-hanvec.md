@@ -1,7 +1,6 @@
 ---
 name: "Saint Bodian of Hanvec"
 honorific: Saint
-title: "Saint Bodian of Hanvec"
 summary: "I can find no information on this saint."
 searchAliases:
   - "Bodianus"

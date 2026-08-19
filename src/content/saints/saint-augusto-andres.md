@@ -1,7 +1,6 @@
 ---
 name: "Saint Augusto Andrés"
 honorific: Venerable
-title: "Saint Augusto Andrés"
 summary: "Member of the Brothers of the Christian Schools, entering the novitate on 3 February 1926. One of the Martyrs of Tur&oacute;n killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-augusto-andres.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marco Mattia"
 honorific: Blessed
-title: "Blessed Marco Mattia"
 summary: "Joined the Mercedarians at the convent at Maleville, France. Missionary to Tunisia in 1293. Grabbed by a Muslim mob and murdered for preaching Christianity. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Marco-Mattia.jpg"
 deathYear: 1293

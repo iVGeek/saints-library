@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena of Hokusanbara"
 honorific: Blessed
-title: "Blessed Magdalena of Hokusanbara"
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed N. Shichizaemon. The couple and their two young daughters were martyred together."
 deathYear: 1629
 born: "Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"

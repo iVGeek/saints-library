@@ -1,7 +1,6 @@
 ---
 name: "Saint Hubert of Bretigny"
 honorific: Saint
-title: "Saint Hubert of Bretigny"
 summary: "In the face of family opposition, at age 12 Hubert became a Benedictine monk at Bretigny, Noyon, France."
 searchAliases:
   - "Hugbert"

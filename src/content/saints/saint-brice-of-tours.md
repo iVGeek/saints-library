@@ -1,7 +1,6 @@
 ---
 name: "Saint Brice of Tours"
 honorific: Saint
-title: "Saint Brice of Tours"
 summary: "An orphan rescued by Saint Martin of Tours, and raised by Martin's clerics. Though ostensibly a spiritual student of Saint Martin, Brice became so wild, wicked, proud, ungrateful, and disorderly that some thought him possessed by a demon! He became a priest, but was a vain, ambit"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saintbrice.jpg"
 searchAliases:

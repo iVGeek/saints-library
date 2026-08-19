@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonia of Cirta"
 honorific: Saint
-title: "Saint Antonia of Cirta"
 summary: "Martyr."
 deathYear: 259
 died: "259 at Citra, Algeria"

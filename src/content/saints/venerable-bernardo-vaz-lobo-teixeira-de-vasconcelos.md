@@ -1,7 +1,6 @@
 ---
 name: "Venerable Bernardo Vaz Lobo Teixeira de Vasconcelos"
 honorific: Venerable
-title: "Venerable Bernardo Vaz Lobo Teixeira de Vasconcelos"
 summary: "Studied at the University of Coimbra, Portugal. Member of the Saint Vincent de Paul Society. Devoted to eucharistic adoration. Editor of a journal devoted to democracy. Discerning a call to religious life, he entered the Mosteiro de Singeverga on 16 August 1924, joined Benedictin"
 image: "http://catholicsaints.info/wp-content/uploads/Bernardo-de-Vasconcelos.jpg"
 searchAliases:

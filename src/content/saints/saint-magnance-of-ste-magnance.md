@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnance of Ste-Magnance"
 honorific: Saint
-title: "Saint Magnance of Ste-Magnance"
 summary: "Spiritual student of Saint Germanus of Auxerre."
 searchAliases:
   - "Magnance of Auxerre"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvi Tolosa Alsina"
 honorific: Blessed
-title: "Blessed Salvi Tolosa Alsina"
 summary: "Salesian brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Onofre"

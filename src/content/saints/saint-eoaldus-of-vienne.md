@@ -1,7 +1,6 @@
 ---
 name: "Saint Eoaldus of Vienne"
 honorific: Saint
-title: "Saint Eoaldus of Vienne"
 summary: "Related to Gallic royalty. Bishop of Vienne, France."
 searchAliases:
   - "Eoalde"

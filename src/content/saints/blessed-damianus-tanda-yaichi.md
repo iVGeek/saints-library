@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damianus Tanda Yaichi"
 honorific: Blessed
-title: "Blessed Damianus Tanda Yaichi"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1582

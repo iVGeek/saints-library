@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florencio Alonso Ruiz"
 honorific: Blessed
-title: "Blessed Florencio Alonso Ruiz"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnina of Terni"
 honorific: Saint
-title: "Saint Domnina of Terni"
 summary: "Consecrated virgin martyr."
 deathYear: 200
 died: "c.200 in Terni, Umbria, Italy"

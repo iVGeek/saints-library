@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebio de Las Heras Izquierdo"
 honorific: Blessed
-title: "Blessed Eusebio de Las Heras Izquierdo"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

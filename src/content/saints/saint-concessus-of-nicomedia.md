@@ -1,7 +1,6 @@
 ---
 name: "Saint Concessus of Nicomedia"
 honorific: Saint
-title: "Saint Concessus of Nicomedia"
 summary: "Martyr."
 died: "in Nicomedia, Bithynia, Asia Minor (modern Izmet, Turkey)"
 deathPlace: "Bithynia, Asia Minor (modern Izmet, Turkey)"

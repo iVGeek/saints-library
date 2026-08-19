@@ -1,7 +1,6 @@
 ---
 name: "Saint Martin of the Ascension"
 honorific: Saint
-title: "Saint Martin of the Ascension"
 summary: "Studied in Alcala, Spain. Joined the Franciscans in 1586. Priest. Loved to sing. Missionary to Mexico. Missionary to Manila in the Philippines. Briefly served as missionary in Osaka, Japan. One of the Martyrs of Nagasaki."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:

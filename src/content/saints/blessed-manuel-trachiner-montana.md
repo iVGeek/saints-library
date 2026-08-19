@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Trachiner Montaña"
 honorific: Blessed
-title: "Blessed Manuel Trachiner Montaña"
 summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

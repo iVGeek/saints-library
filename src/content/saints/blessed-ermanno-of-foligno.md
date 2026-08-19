@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ermanno of Foligno"
 honorific: Blessed
-title: "Blessed Ermanno of Foligno"
 summary: "Franciscan friar minor at the convent in Foligno, Italy. Known as a miracle worker."
 deathYear: 1256
 born: "late 12th century"

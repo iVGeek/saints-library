@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ana de Lobera Torres"
 honorific: Venerable
-title: "Venerable Ana de Lobera Torres"
 summary: "Daughter of Diego de Lobera and Francisca Torres; her father died when she was a few months old. Her brother became a Jesuit. Ana was 7 years old before she began to speak. Her mother died when Ana was 9, and she was raised from that point by relatives. Discalced Carmelite nun at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Ann-Lobera.jpg"
 searchAliases:

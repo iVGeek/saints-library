@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacinto Martínez Ayuela"
 honorific: Blessed
-title: "Blessed Jacinto Martínez Ayuela"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

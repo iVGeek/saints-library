@@ -1,7 +1,6 @@
 ---
 name: "Saint Cominus"
 honorific: Saint
-title: "Saint Cominus"
 summary: "Fifth-century monk and abbot."
 region: "Ireland"
 feastDay:

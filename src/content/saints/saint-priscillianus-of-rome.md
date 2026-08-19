@@ -1,7 +1,6 @@
 ---
 name: "Saint Priscillianus of Rome"
 honorific: Saint
-title: "Saint Priscillianus of Rome"
 summary: "Cleric. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Priscillian"

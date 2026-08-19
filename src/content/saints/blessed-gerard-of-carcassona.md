@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerard of Carcassona"
 honorific: Blessed
-title: "Blessed Gerard of Carcassona"
 summary: "Mercedarian friar at the Saint Eulalia convent in Carcassonne, France."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerard-of-Carcassona.jpg"
 searchAliases:

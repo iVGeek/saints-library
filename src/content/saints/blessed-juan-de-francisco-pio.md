@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de Francisco Pío"
 honorific: Blessed
-title: "Blessed Juan de Francisco Pío"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Leopoldo"

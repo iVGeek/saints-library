@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leonardo Olivera Buera"
 honorific: Blessed
-title: "Blessed Leonardo Olivera Buera"
 summary: "Priest of the diocese of Zaragoza, Spain. Chaplain of Our Lady of Mount Carmel School in Bonanova, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonardo-Olivera-Buera.jpg"
 birthYear: 1889

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Gaza"
 honorific: Saint
-title: "Saint Paul of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

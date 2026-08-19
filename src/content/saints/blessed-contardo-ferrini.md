@@ -1,7 +1,6 @@
 ---
 name: "Blessed Contardo Ferrini"
 honorific: Blessed
-title: "Blessed Contardo Ferrini"
 summary: "Lifelong layman in the archdiocese of Milan, Italy. Graduated from the University of Padua in 1880. Noted civil and canon lawyer. Taught at several universities. Dean of the law faculty in Modena. Secular Franciscan tertiary. Member of the Society of Saint Vincent de Paul charity"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Contardo_ferrini.jpg"
 birthYear: 1859

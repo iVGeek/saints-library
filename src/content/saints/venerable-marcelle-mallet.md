@@ -1,7 +1,6 @@
 ---
 name: "Venerable Marcelle Mallet"
 honorific: Venerable
-title: "Venerable Marcelle Mallet"
 summary: "Entered the novitiate of the Grey Nuns of Montreal on 6 May 1824, making her final profession on 18 May 1826. She worked in the Nuns's soup kitchen, cared for nelgected children, helped disabled women. At the request of her bishop Mother Marcelle and four other sisters founded th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Mother-Marcelle-Mallet.jpg"
 birthYear: 1805

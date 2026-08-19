@@ -1,7 +1,6 @@
 ---
 name: "Saint Drusus of Tripoli"
 honorific: Saint
-title: "Saint Drusus of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"

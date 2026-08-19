@@ -1,7 +1,6 @@
 ---
 name: "Saint Martana"
 honorific: Saint
-title: "Saint Martana"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "beheaded c.257 in Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramon Gros Ballbé"
 honorific: Blessed
-title: "Blessed Ramon Gros Ballbé"
 summary: "Franciscan Capuchin friar, making his solemn profession on 13 October 1898. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Cebrià of Terrassa"

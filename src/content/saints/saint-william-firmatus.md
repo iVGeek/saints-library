@@ -1,7 +1,6 @@
 ---
 name: "Saint William Firmatus"
 honorific: Saint
-title: "Saint William Firmatus"
 summary: "Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to the poor and spent the rest of his life on pilgrimages and as a hermit at Savigny and Mantilly. Known for his closeness to nature, his love of wildlife, and the"
 searchAliases:
   - "William Firmatus of Tours"

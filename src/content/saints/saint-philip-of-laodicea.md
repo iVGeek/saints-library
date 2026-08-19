@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip of Laodicea"
 honorific: Saint
-title: "Saint Philip of Laodicea"
 summary: "Martyr."
 died: "Laodicea on the Lycus, Phrygia (near modern Denizli, Turkey), date unknown"
 deathPlace: "Phrygia (near modern Denizli, Turkey), date unknown"

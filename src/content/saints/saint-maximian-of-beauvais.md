@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximian of Beauvais"
 honorific: Saint
-title: "Saint Maximian of Beauvais"
 summary: "Missionary to Beauvais, France. Martyr."
 deathYear: 290
 died: "290 at Beauvais, France"

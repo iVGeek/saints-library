@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Palestrina"
 honorific: Saint
-title: "Saint Stephen of Palestrina"
 summary: "Cistercian monk from the Clairvaux Abbey. Cardinal-bishop of Palestrina in 1141."
 deathYear: 1144
 died: "1144"

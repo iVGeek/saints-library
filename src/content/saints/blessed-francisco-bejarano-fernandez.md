@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Bejarano Fernández"
 honorific: Blessed
-title: "Blessed Francisco Bejarano Fernández"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Añora community. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1938

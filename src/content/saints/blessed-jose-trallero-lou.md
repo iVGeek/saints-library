@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Trallero Lou"
 honorific: Blessed
-title: "Blessed José Trallero Lou"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Trallero-Lou.jpg"
 birthYear: 1903

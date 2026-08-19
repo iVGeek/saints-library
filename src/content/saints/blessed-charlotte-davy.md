@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charlotte Davy"
 honorific: Blessed
-title: "Blessed Charlotte Davy"
 summary: "Lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 searchAliases:
   - "Carole Davy"

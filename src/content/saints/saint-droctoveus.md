@@ -1,7 +1,6 @@
 ---
 name: "Saint Droctoveus"
 honorific: Saint
-title: "Saint Droctoveus"
 summary: "Monk in abbies in Paris, France. Spiritual student of Saint Germanus of Paris. Abbot of Saint Symphorium abbey at Autun, France. First abbot of what became known as Saint Germain-des-Pres in Paris."
 searchAliases:
   - "Droctonius"

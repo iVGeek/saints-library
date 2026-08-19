@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Vendrell Olivella"
 honorific: Blessed
-title: "Blessed Jaume Vendrell Olivella"
 summary: "Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Vendrell-Olivella.jpg"
 searchAliases:

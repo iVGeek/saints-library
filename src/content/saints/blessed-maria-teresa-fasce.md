@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Teresa Fasce"
 honorific: Blessed
-title: "Blessed Maria Teresa Fasce"
 summary: "Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and spiritual adventure of Rita of Cascia, whose canonization in 1900 was very special to Maria, leading to her desire to be an Augustinian religious in the monastery o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-Fasce.jpg"
 birthYear: 1881

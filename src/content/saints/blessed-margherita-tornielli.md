@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margherita Tornielli"
 honorific: Blessed
-title: "Blessed Margherita Tornielli"
 summary: "Poor Clare nun."
 deathYear: 1491
 born: "Novara, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansbald of Prüm"
 honorific: Saint
-title: "Saint Ansbald of Prüm"
 summary: "Monk at Prüm Abbey near Trier, Germany. Abbot of Saint-Hubert in the Ardennes. Abbot of Prüm Abbey in 860. Prüm was burned by Vikings in 882, but Ansbald managed to re-build."
 deathYear: 886
 born: "Luxembourg"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Anne-Madeleine de Guilhermier"
 honorific: Blessed
-title: "Blessed Marie-Anne-Madeleine de Guilhermier"
 summary: "Ursuline nun. Martyred in the French Revolution. One of the Martyrs of Orange."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

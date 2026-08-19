@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Gutiérrez Calvo"
 honorific: Blessed
-title: "Blessed Luis Gutiérrez Calvo"
 summary: "Augustinian brother. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Rome"
 honorific: Saint
-title: "Saint Peter of Rome"
 summary: "One of a group of over 20 martyrs who died together in the persecutions of Valerian and Gallienus."
 deathYear: 260
 died: "martyred c.260 in Rome, Italy"

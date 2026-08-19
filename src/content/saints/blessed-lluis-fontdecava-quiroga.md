@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluis Fontdecava Quiroga"
 honorific: Blessed
-title: "Blessed Lluis Fontdecava Quiroga"
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eliseu Maria"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simon Ballachi"
 honorific: Blessed
-title: "Blessed Simon Ballachi"
 summary: "Born to the nobility, the son of Count Ballachi. His family had a close association with the Church clergy; two of his uncles became archbishops of Rimini, Italy, and a younger brother was a priest. Trained as a soldier and in administration, he was expected to take over the fami"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Simon-Ballachi.jpg"
 birthYear: 1240

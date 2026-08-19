@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Pius V"
 honorific: Saint
-title: "Pope Saint Pius V"
 summary: "Born to impoverished Italian nobility, the son of Paolo Ghislieri and Domenica Augeria. Worked as a shepherd as a boy. Received an excellent training in piety and holiness, including a scholastic education from a Dominican friar; he joined the Order himself in 1518, taking the na"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bartolomeo_Passarotti_-_Pius_V.jpg/960px-Bartolomeo_Passarotti_-_Pius_V.jpg"
 searchAliases:

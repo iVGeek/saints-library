@@ -1,7 +1,6 @@
 ---
 name: "Saint Callistratus of Constantinople"
 honorific: Saint
-title: "Saint Callistratus of Constantinople"
 summary: "One of a group of 50 African soldiers martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "sewn into sacks and thrown into the sea to drown at Constantinople c.300"

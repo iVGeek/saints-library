@@ -1,7 +1,6 @@
 ---
 name: "Saint Kessog"
 honorific: Saint
-title: "Saint Kessog"
 summary: "Son of the king of Cashel, Ireland, Kessel grew up a pious child, and was known as a miracle worker. Missionary bishop to Scotland in the area of Lennox and southern Perthshire, working from Monk's Island in Loch Lomond. May have been martyred at Bandry, Scotland, but records are"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Luss%2C_St_Kessog%27s_Church_And_Churchyard_-_20140422130105.jpg/960px-Luss%2C_St_Kessog%27s_Church_And_Churchyard_-_20140422130105.jpg"
 searchAliases:

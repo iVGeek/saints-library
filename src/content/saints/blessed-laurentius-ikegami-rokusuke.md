@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laurentius Ikegami Rokusuke"
 honorific: Blessed
-title: "Blessed Laurentius Ikegami Rokusuke"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Japan"

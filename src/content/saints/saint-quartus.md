@@ -1,7 +1,6 @@
 ---
 name: "Saint Quartus"
 honorific: Saint
-title: "Saint Quartus"
 summary: "One of a group of 35 martyrs, date unknown. No other information has survived."
 died: "martyred in northwestern Africa"
 region: "Africa"

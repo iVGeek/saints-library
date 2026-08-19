@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathonica of Pergamus"
 honorific: Saint
-title: "Saint Agathonica of Pergamus"
 summary: "Sister of Saint Papylus of Pergamus. Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agathonica-of-Pergamus.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioachim Saburobyoe"
 honorific: Blessed
-title: "Blessed Ioachim Saburobyoe"
 summary: "Layman in the diocese of Niigata, Japan. Martyr."
 deathYear: 1629
 born: "Wada, Miyagi, Japan"

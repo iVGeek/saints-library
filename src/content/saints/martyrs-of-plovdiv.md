@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Plovdiv"
 honorific: Saint
-title: "Martyrs of Plovdiv"
 summary: "38 Christians martyred together in the persecutions of Diocletian and Maximian. We don't even known their names."
 searchAliases:
   - "Martyrs of Philippopolis"

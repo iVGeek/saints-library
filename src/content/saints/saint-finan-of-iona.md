@@ -1,7 +1,6 @@
 ---
 name: "Saint Finan of Iona"
 honorific: Saint
-title: "Saint Finan of Iona"
 summary: "Monk at Iona. Succeeded Saint Aidan of Lindisfarne as governor of the Church in Northumbria, England. Bishop of Lindesfarne, England in 651. Built the cathedral, and the monasteries of Gilling and Whitby. Opposed the replacement of the Celtic liturgy with the Roman one. Evangeliz"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Finan-of-Iona.jpg"
 searchAliases:

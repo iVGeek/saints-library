@@ -1,7 +1,6 @@
 ---
 name: "Saint Nerses Glaietsi"
 honorific: Saint
-title: "Saint Nerses Glaietsi"
 summary: "Uncle of Saint Nerces Lambronazi. Worked for the union of the Greek and Armenian churches, and of the Armenian church with Rome. Bishop of the Armenians in 1166. Noted poet in his native language."
 searchAliases:
   - "Chnorhali"

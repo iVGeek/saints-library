@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Climent Sanchis"
 honorific: Blessed
-title: "Blessed Mariano Climent Sanchis"
 summary: "The son of Mariano Climent and Mariana Sanchís, Mariano was orphaned very young and was raised by his maternal aunt, Josefa Sanchís. He served as a soldier, fighting in the Carlist War, but after the war he gave in to a call to religious life and joined the Capuchins in 1881, mak"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Climent-Sanchis.jpg"
 searchAliases:

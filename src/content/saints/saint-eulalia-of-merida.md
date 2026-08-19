@@ -1,7 +1,6 @@
 ---
 name: "Saint Eulalia of Merida"
 honorific: Saint
-title: "Saint Eulalia of Merida"
 summary: "A consecrated virgin who, from her early youth, wanted to be a martyr. During the Diocletian persecutions, when she was around 12 to 14 years old (sources vary), she went to the tribunal, and confessed her faith on her own initiative. Tortured and martyred with Saint Julia of Mer"
 image: "http://catholicsaints.info/wp-content/gallery/saint-eulalia-of-merida/saint-eulalia-of-merida-01.jpg"
 searchAliases:

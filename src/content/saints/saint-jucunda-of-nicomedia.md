@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucunda of Nicomedia"
 honorific: Saint
-title: "Saint Jucunda of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "Nicomedia, Asia Minor"
 deathPlace: "Asia Minor"

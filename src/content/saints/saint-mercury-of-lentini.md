@@ -1,7 +1,6 @@
 ---
 name: "Saint Mercury of Lentini"
 honorific: Saint
-title: "Saint Mercury of Lentini"
 summary: "Officer in the imperial Roman army. Led a group of soldiers escorting Christian prisoners to trial during the persecutions of emperor Licinius and governor Tertyllus. Mercurius and many of his men were converted to the faith by the prisoners while on the road, and were martyred w"
 searchAliases:
   - "Mercury of Leontium"

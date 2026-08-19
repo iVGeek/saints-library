@@ -1,7 +1,6 @@
 ---
 name: "Ezekiel the Prophet"
 honorific: Saint
-title: "Ezekiel the Prophet"
 summary: "Prophet, son of Buzi, exiled to Babylon about 598 BC. He began to prophesy five years later and continued for over twenty years. His prophecies form one of the books of the Old Testament and are given in forty-eight chapters. After a vision of the glory of the Lord, under various"
 image: "https://catholicsaints.info/wp-content/uploads/img-Ezekiel-the-Prophet-1.jpg"
 searchAliases:

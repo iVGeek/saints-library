@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Baptista Yi Kwang-nyol"
 honorific: Venerable
-title: "Saint Ioannes Baptista Yi Kwang-nyol"
 summary: "Lay catechist in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

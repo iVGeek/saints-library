@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Villanueva Igual"
 honorific: Blessed
-title: "Blessed Antonio Villanueva Igual"
 summary: "Joined the Hospitallers of Saint John of God, making his temporary vows on 28 August 1932. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 searchAliases:

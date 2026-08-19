@@ -1,7 +1,6 @@
 ---
 name: "Saint Fergna the White"
 honorific: Saint
-title: "Saint Fergna the White"
 summary: "Relative and spiritual student of Saint Columba. Abbot at the monastery of Iona."
 searchAliases:
   - "Fergna of Iona"

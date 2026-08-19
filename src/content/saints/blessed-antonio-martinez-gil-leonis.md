@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Martínez Gil-Leonis"
 honorific: Blessed
-title: "Blessed Antonio Martínez Gil-Leonis"
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

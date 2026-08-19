@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sabino Rodrigo Fierro"
 honorific: Blessed
-title: "Blessed Sabino Rodrigo Fierro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

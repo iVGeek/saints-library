@@ -1,7 +1,6 @@
 ---
 name: "Saint Euplus of Catania"
 honorific: Saint
-title: "Saint Euplus of Catania"
 summary: "Deacon. Tortured and martyred by order of governor Calvisianus in the persecutions of Diocletian for the crime of possessing a copy of the Gospels. His copy of the Scripture was taken when he was arrested; in court he was asked if he had any other copies, and he began to recite t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Euplus-of-Catania.jpg"
 searchAliases:

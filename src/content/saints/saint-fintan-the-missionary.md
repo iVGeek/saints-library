@@ -1,7 +1,6 @@
 ---
 name: "Saint Fintan the Missionary"
 honorific: Saint
-title: "Saint Fintan the Missionary"
 summary: "Missionary to Switzerland and Germany. Noted for the depth of his prayer life. In later life he retired to live as a hermit on an island in the Rhine River."
 deathYear: 827
 born: "Ireland"

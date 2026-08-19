@@ -1,7 +1,6 @@
 ---
 name: "Saint Genesius of Rome"
 honorific: Saint
-title: "Saint Genesius of Rome"
 summary: "Genesius was an actor who worked in a series of plays that mocked Christianity. One day while performing in a work that made fun of Baptism he received sudden wisdom from God, realized the truth of Christianity, and had a conversion experience on stage. He announced his new faith"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Braunschweig_St._Aegidien_hl._Genesius.jpg/960px-Braunschweig_St._Aegidien_hl._Genesius.jpg"
 searchAliases:

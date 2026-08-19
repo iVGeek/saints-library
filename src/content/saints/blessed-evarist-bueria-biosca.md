@@ -1,7 +1,6 @@
 ---
 name: "Blessed Evarist Bueria Biosca"
 honorific: Blessed
-title: "Blessed Evarist Bueria Biosca"
 summary: "Member of the Claretians, professed on 15 August 1930. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

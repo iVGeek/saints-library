@@ -1,7 +1,6 @@
 ---
 name: "Venerable Elena Silvestri"
 honorific: Venerable
-title: "Venerable Elena Silvestri"
 summary: "Foundress of the Congregation of the Handmaids of the Child Jesus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Silvestri.jpg"
 searchAliases:

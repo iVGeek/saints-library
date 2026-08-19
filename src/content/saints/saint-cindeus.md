@@ -1,7 +1,6 @@
 ---
 name: "Saint Cindeus"
 honorific: Saint
-title: "Saint Cindeus"
 summary: "Priest in Pamphylia, Asia Minor. Tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Cindée"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustinus of Spoleto"
 honorific: Saint
-title: "Saint Faustinus of Spoleto"
 summary: "Spiritual student of Saint Felix of Martano near Spoleto, Italy, and was there at Felix's martyrdom. Faustinus was abused for his faith, but allowed to live."
 searchAliases:
   - "Faustinus of Spello"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Gómez Matarín"
 honorific: Blessed
-title: "Blessed José Gómez Matarín"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

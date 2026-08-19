@@ -1,7 +1,6 @@
 ---
 name: "Blessed Faustino Chiari"
 honorific: Blessed
-title: "Blessed Faustino Chiari"
 summary: "15th century Franciscan friar who is remembered by the Order for his holiness, but no details of his life have survived."
 deathYear: 1467
 died: "1467 in Brescia, Italy of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Candida of Greece"
 honorific: Saint
-title: "Saint Candida of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

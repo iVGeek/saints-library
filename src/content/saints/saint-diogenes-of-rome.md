@@ -1,7 +1,6 @@
 ---
 name: "Saint Diogenes of Rome"
 honorific: Saint
-title: "Saint Diogenes of Rome"
 summary: "Martyr."
 died: "on the Via Salaria Vecchia, Rome, Italy"
 deathPlace: "Rome, Italy"

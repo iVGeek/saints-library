@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Bécavin"
 honorific: Blessed
-title: "Blessed Joseph Bécavin"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1767
 deathYear: 1792

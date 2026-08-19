@@ -1,7 +1,6 @@
 ---
 name: "Saint Camella of Ricaud"
 honorific: Saint
-title: "Saint Camella of Ricaud"
 summary: "Martyr in the diocese of Mirepoix, France, killed by invading Visigoths. A church, a small village, and a healing well in the area are named for her; water from the well has a reputation for healing eye problems."
 searchAliases:
   - "Cmelle"

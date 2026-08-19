@@ -1,7 +1,6 @@
 ---
 name: "Blessed Frederick of Hirsau"
 honorific: Blessed
-title: "Blessed Frederick of Hirsau"
 summary: "Born to the Swabian nobility. Benedictine monk at Einsideln, Germany. First abbot of the reconstructed Hirsau monastery in the Black Forest area on 7 March 1066. During his short abbacy, the house began its rise to become famed for the piety and learning of its brothers. However,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Frederick.jpg"
 searchAliases:

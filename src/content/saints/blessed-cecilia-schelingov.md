@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cecilia Schelingová"
 honorific: Blessed
-title: "Blessed Cecilia Schelingová"
 summary: "One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious life. At age 15 she requested entry to the Congreg"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cecilia-Schelingova.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro José Cano Cebrían"
 honorific: Blessed
-title: "Blessed Pedro José Cano Cebrían"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Arístides Marcos"

@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Syracuse"
 honorific: Saint
-title: "Saint John of Syracuse"
 summary: "Archdeacon of the church in Catania. Bishop of Syracuse, Sicily in February 593, chosen by Pope Saint Gregory the Great."
 deathYear: 609
 died: "c.609"

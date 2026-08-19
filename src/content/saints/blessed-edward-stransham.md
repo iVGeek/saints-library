@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Stransham"
 honorific: Blessed
-title: "Blessed Edward Stransham"
 summary: "Educated at Oxford, England, Douai and Rheims, France. Ordained in 1580. Returned to England in 1581 and covertly ministered to Catholics in London and Oxford. Arrested in 1586 and martyred for the crime of priesthood. Marytred with Blessed Thomas Reynolds"
 deathYear: 1586
 born: "at Oxford, Oxfordshire, England"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentian of Sassari"
 honorific: Saint
-title: "Saint Crescentian of Sassari"
 summary: "Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Crescentianus"

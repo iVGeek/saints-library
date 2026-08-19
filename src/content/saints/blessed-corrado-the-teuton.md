@@ -1,7 +1,6 @@
 ---
 name: "Blessed Corrado the Teuton"
 honorific: Blessed
-title: "Blessed Corrado the Teuton"
 summary: "Remembered in some old martyrologies as a miracle worker, but no details about him have survived."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeritus of North Africa"
 honorific: Saint
-title: "Saint Emeritus of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Emeterus"

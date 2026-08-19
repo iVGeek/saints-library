@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles Carnus"
 honorific: Blessed
-title: "Blessed Charles Carnus"
 summary: "Priest of the diocese of Rodez, France. One of the Martyrs of September."
 birthYear: 1749
 deathYear: 1792

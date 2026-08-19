@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Noviodunum"
 honorific: Saint
-title: "Saint Paul of Noviodunum"
 summary: "Martyr."
 searchAliases:
   - "Paolo"

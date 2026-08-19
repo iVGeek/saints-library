@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Rome"
 honorific: Saint
-title: "Saint Juliana of Rome"
 summary: "Martyr."
 deathYear: 304
 died: "c.304 in Rome, Italy"

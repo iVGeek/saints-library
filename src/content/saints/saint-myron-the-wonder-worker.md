@@ -1,7 +1,6 @@
 ---
 name: "Saint Myron the Wonder Worker"
 honorific: Saint
-title: "Saint Myron the Wonder Worker"
 summary: "Layman farmer and family man as a young adult, and known for his charity. Once a band of thieves broken in on him when he was threshing grain. Myron decided that if they were so hard up for food that they had to resort to robbery, they were poor indeed; he gave them all he could,"
 searchAliases:
   - "Myron of Crete"

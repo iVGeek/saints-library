@@ -1,7 +1,6 @@
 ---
 name: "Saint Speusippus"
 honorific: Saint
-title: "Saint Speusippus"
 summary: "Triplet brother of Saint Eleusippus and Saint Meleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An extraordinary series of legends grew up around the family over the years."
 died: "relics in Langres, France"
 deathPlace: "France"

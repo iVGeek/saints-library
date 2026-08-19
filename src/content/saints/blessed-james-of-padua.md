@@ -1,7 +1,6 @@
 ---
 name: "Blessed James of Padua"
 honorific: Blessed
-title: "Blessed James of Padua"
 summary: "Franciscan. Missionary. Martyred with Blessed Thomas of Tolentino, Blessed Peter of Siena, and Blessed Demetrius of Triflis while en route to evangelize Ceylon and China."
 deathYear: 1322
 born: "Italian"

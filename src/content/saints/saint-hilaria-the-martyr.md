@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilaria the Martyr"
 honorific: Saint
-title: "Saint Hilaria the Martyr"
 summary: "Wife of Saint Claudius. Mother of Saint Jason and Saint Maurus. Convert. Martyred in the persecutions of Numerian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Rome-3-December.jpg"
 deathYear: 283

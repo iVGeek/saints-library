@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vasyl Vsevolod Velychkovskyi"
 honorific: Blessed
-title: "Blessed Vasyl Vsevolod Velychkovskyi"
 summary: "Son of catechists Volodymyr and Anne Theodorowych Velychkovsky. Greek Catholic. Entered the seminary in Lviv, Ukraine in 1920. Ordained on 9 October 1925. Teacher and missionary in the Volyn region of Ukraine. Prior of the monastery at Ternopil, Ukraine in 1942. Arrested for his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vasyl-Vsevolod-Velychkovskyi.jpg"
 searchAliases:

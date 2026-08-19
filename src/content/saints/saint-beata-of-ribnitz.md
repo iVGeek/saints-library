@@ -1,7 +1,6 @@
 ---
 name: "Saint Beata of Ribnitz"
 honorific: Saint
-title: "Saint Beata of Ribnitz"
 summary: "Born to the nobility, the daughter of Duke Heinrich of Mecklenburg. Poor Clare nun at the convent in Ribnitz, Germany. Abbess of the house in 1350."
 searchAliases:
   - "Beate of Ribnitz"

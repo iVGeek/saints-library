@@ -1,7 +1,6 @@
 ---
 name: "Saint Argentea of Cordoba"
 honorific: Saint
-title: "Saint Argentea of Cordoba"
 summary: "Daughter of Omar ben Hafsun, Christian leader of anti-Ummayad forces in southern Iberia during the Moorish occupation. Following her mother's death, she devoted herself to prayer and a desire for religious life. She fled the Muslim forces to a monastery in Cordoba where she was c"
 deathYear: 931
 born: "Bobastro, Spain"

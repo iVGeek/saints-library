@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Alexandria"
 honorific: Saint
-title: "Saint Julian of Alexandria"
 summary: "Martyr. No other information has survived."
 deathYear: 160
 died: "160 at Alexandria, Egypt"

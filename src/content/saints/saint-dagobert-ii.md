@@ -1,7 +1,6 @@
 ---
 name: "Saint Dagobert II"
 honorific: Saint
-title: "Saint Dagobert II"
 summary: "Born a Prince, the son of Saint Sigebert III, king of Austrasia, and Chimnechild of Burgundy. Upon Sigebert's death in 656 when Dagobert was still a child, the throne was stolen by Dagobert's guardian Gimoald in order to make his own son, Childebert, king. Dagobert was kidnapped"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Tiers_de_sou_d%27or_de_Dagobert_II.png"
 birthYear: 650

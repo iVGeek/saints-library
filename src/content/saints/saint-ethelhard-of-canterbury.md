@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethelhard of Canterbury"
 honorific: Saint
-title: "Saint Ethelhard of Canterbury"
 summary: "Abbot, probably of Louth, Lincolnshire, England. May have been bishop of Winchester, England. Archbishop of Canterbury, England, consecrated on 21 July 793. Elected to the see at a time when Mercian King Offa was trying to weaken Canterbury's influence. Ethelhard had to flee from"
 searchAliases:
   - "&AElig;thelheard"

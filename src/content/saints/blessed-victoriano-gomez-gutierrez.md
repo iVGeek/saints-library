@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victoriano Gómez Gutiérrez"
 honorific: Blessed
-title: "Blessed Victoriano Gómez Gutiérrez"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Salvio"

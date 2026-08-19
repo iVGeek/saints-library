@@ -1,7 +1,6 @@
 ---
 name: "Saint Etherius of Vienne"
 honorific: Saint
-title: "Saint Etherius of Vienne"
 summary: "Seventh-century bishop of Vienne, France."
 searchAliases:
   - "Aetherius"

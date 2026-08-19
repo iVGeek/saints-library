@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rafael Cordero Molina"
 honorific: Venerable
-title: "Venerable Rafael Cordero Molina"
 summary: "Layman in the archdiocese of San Juan, Puerto Rico."
 birthYear: 1790
 deathYear: 1868

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacut"
 honorific: Saint
-title: "Saint Jacut"
 summary: "Son of Saint Fragan and Saint Gwen; brother of Saint Guethenoc and Saint Gwenaloe. Spiritual student of Saint Budoc. Monk. Spiritual teacher of Saint Cast. With Guethenoc, he was driven from Britain to Brittany in the 5th century by invading Saxons. There he founded a monastery i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jacut.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mellon"
 honorific: Saint
-title: "Saint Mellon"
 summary: "A pagan, Mellon travelled to Rome, Italy to bring tribute to the emperor from the British Isles. While making a sacrifice to the god Mars, he heard Pope Saint Stephen I preaching nearby. He soon after converted to Christianity, and was baptized by Stephen. He sold his property, g"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mellon.jpg"
 searchAliases:

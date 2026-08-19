@@ -1,7 +1,6 @@
 ---
 name: "Saint Emmelia"
 honorific: Saint
-title: "Saint Emmelia"
 summary: "Married to Saint Basil the Elder; mother of Saint Basil the Great, Saint Gregory Nyssen, Saint Peter of Sebaste, and Saint Macrina the Younger. Exiled for his faith during the persecutions of Emperor Galerius Maximianus, she eventually returned home."
 searchAliases:
   - "Emmélie"

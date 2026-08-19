@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Lucania"
 honorific: Saint
-title: "Saint Donatus of Lucania"
 summary: "Martyred by Saracens."
 died: "Lucania region of southern Italy, date unknown"
 deathPlace: "date unknown"

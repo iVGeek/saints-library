@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescens of Myra"
 honorific: Saint
-title: "Saint Crescens of Myra"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Crescent"

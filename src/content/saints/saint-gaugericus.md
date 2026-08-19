@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaugericus of Cambrai"
 honorific: Saint
-title: "Saint Gaugericus of Cambrai"
 summary: "Son of Gaudentius and Austadiola. Pious youth. Ordained as a deacon when he showed he knew all the Psalms by heart. Priest, ordained by Saint Magnericus of Trier. Bishop of the dioceses of Cambrai and of Arras, Gaul for 39 years beginning c.586. He convinced his people to destroy"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaugericus-of-Cambrai.jpg"
 searchAliases:

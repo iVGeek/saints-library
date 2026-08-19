@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerónimo Alonso Fernández"
 honorific: Blessed
-title: "Blessed Jerónimo Alonso Fernández"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Javier Benito"

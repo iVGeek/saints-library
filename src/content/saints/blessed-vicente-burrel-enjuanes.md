@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Burrel Enjuanes"
 honorific: Blessed
-title: "Blessed Vicente Burrel Enjuanes"
 summary: "Benedictine monk in the Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Gallen Ybañez"
 honorific: Blessed
-title: "Blessed Vicente Gallen Ybañez"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Vicente of the Cross"

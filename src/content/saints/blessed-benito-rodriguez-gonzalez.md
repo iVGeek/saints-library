@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Rodríguez González"
 honorific: Blessed
-title: "Blessed Benito Rodríguez González"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936

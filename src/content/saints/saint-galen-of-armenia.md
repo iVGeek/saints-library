@@ -1,7 +1,6 @@
 ---
 name: "Saint Galen of Armenia"
 honorific: Saint
-title: "Saint Galen of Armenia"
 summary: "Martyred in the persecutions of emperor Hadrian."
 born: "Armenian"
 died: "crucified in the early 2nd century"

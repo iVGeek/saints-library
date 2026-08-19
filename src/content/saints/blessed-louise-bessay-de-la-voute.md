@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louise Bessay de la Voûte"
 honorific: Blessed
-title: "Blessed Louise Bessay de la Voûte"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1721
 deathYear: 1794

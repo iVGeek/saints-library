@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Kuhyoe"
 honorific: Blessed
-title: "Blessed Franciscus Kuhyoe"
 summary: "Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Catechist. Martyr."
 deathYear: 1627
 born: "Nagasaki, Japan"

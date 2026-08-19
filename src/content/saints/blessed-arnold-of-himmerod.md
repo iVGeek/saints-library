@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnold of Himmerod"
 honorific: Blessed
-title: "Blessed Arnold of Himmerod"
 summary: "Cistercian monk at Himmerod monastery in Trier, Germany. Renowned for his personal piety."
 searchAliases:
   - "Arnoldus"

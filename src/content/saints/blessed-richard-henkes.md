@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Henkes"
 honorific: Blessed
-title: "Blessed Richard Henkes"
 summary: "One of eight children in the family of a stone mason. His mother taught the children religion, and would sprinkle them with holy water each night before bed. Attracted to the idea of mission work, Richard joined the Pallotines in 1919. Spiritual student of the Servant of God Jose"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Henkes_richard.jpg"
 birthYear: 1900

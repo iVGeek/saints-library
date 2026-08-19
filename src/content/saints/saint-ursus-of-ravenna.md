@@ -1,7 +1,6 @@
 ---
 name: "Saint Ursus of Ravenna"
 honorific: Saint
-title: "Saint Ursus of Ravenna"
 summary: "Born to the Sicilian nobility. Convert to Christianity. His father violently opposed the conversion, and Ursus fled to Ravenna, Italy. There he so impressed the locals with his holiness that he became bishop of Ravenna for 20 years, reviving the celebration of the feasts of the s"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Sant-orso-basilica-classe.jpg"
 searchAliases:

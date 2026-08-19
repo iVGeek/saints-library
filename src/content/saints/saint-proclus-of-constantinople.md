@@ -1,7 +1,6 @@
 ---
 name: "Saint Proclus of Constantinople"
 honorific: Saint
-title: "Saint Proclus of Constantinople"
 summary: "Lector while still a student. Secretary to and spiritual student of Saint John Chrysostom. Priest. Chosen archbishop of Cyzicus, but the people of that city saw him as being under the control of Constantinople, and refused to accept him. Noted preacher in Constantinople. When Nes"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Proclus_of_Constantinople_%28Menologion_of_Basil_II%29.jpg/960px-Proclus_of_Constantinople_%28Menologion_of_Basil_II%29.jpg"
 deathYear: 447

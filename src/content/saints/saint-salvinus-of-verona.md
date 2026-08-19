@@ -1,7 +1,6 @@
 ---
 name: "Saint Salvinus of Verona"
 honorific: Saint
-title: "Saint Salvinus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Salvino"

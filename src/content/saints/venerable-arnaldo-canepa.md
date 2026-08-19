@@ -1,7 +1,6 @@
 ---
 name: "Venerable Arnaldo Canepa"
 honorific: Venerable
-title: "Venerable Arnaldo Canepa"
 summary: "Lifelong layman of the diocese of Rome, Italy. He was indifferent to religion during the first half of his life, having a conversion experience in May 1921. Served as a catechist. Founder of the Centro Oratori Romani in 1945. He devoted his life and impoverished himself in suppor"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Arnaldo-Canepa.jpg"
 birthYear: 1882

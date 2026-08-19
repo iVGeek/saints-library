@@ -1,7 +1,6 @@
 ---
 name: "Saint Walfrid"
 honorific: Saint
-title: "Saint Walfrid"
 summary: "Eldest of five children in a wealthy family. Properous married layman, a solid citizen, and father of five sons and a daughter. With their children grown, he and his wife, Thesia, each felt called to religious life. Walfrid and two married friends, Fortis and Gunduald, founded th"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Walfrid.jpg"
 searchAliases:

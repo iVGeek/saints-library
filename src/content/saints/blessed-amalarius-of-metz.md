@@ -1,7 +1,6 @@
 ---
 name: "Blessed Amalarius of Metz"
 honorific: Blessed
-title: "Blessed Amalarius of Metz"
 summary: "Ninth-century liturgical writer. A pupil of Alcuin at Aix-la-Chapelle, Germany, he was bishop of Trier, Germany from 811 to 813, and later ambassador to Constantinople. He lived at a time when the liturgy was changing, when fusion of the Roman and Gallican uses was taking place,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Amalarius-of-Metz.jpg"
 searchAliases:

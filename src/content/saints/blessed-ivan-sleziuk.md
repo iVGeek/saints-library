@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ivan Sleziuk"
 honorific: Blessed
-title: "Blessed Ivan Sleziuk"
 summary: "Greek Catholic. Ordained in 1923. Co-adjutor bishop in April 1945. Arrested for his faith on 2 June 1945, and sentenced to ten years in the forced labour camps in Vorkuta, Russia; transferred in 1950 to Mordovia, Russia. Released on 15 November 1954, and returned to Ivano-Frankiv"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ivan-Sleziuk.jpg"
 searchAliases:

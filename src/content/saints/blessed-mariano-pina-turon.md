@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Pina Turón"
 honorific: Blessed
-title: "Blessed Mariano Pina Turón"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Pina-Turón.jpg"
 birthYear: 1867

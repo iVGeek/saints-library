@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Ito"
 honorific: Blessed
-title: "Blessed Maria Ito"
 summary: "Married lay woman in the diocese of Niigata, Japan. Mother of Blessed Marina Chobo. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

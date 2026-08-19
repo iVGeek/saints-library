@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Rome"
 honorific: Saint
-title: "Martyrs of Rome"
 summary: "Group of 165 Christians martyred in the persecutions of Aurelian."
 deathYear: 274
 died: "274 in Rome, Italy"

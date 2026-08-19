@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria of Bourbon"
 honorific: Blessed
-title: "Blessed Maria of Bourbon"
 summary: "Related to the French royalty. Poor Clare nun at the monastery of Saint George and Santa Chiara in Amiens, France."
 deathYear: 1445
 died: "c.1445 of natural causes"

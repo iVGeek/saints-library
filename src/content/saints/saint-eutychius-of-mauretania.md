@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Mauretania"
 honorific: Saint
-title: "Saint Eutychius of Mauretania"
 summary: "Deacon in Mauretania Caesariensis in North Africa. Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

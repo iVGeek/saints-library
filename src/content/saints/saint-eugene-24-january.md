@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene"
 honorific: Saint
-title: "Saint Eugene"
 summary: "Martyr. No other information has survived."
 died: "burned at the stake in Asia Minor"
 feastDay:

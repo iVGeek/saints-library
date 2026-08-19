@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dimbalac Oghlou Vartavar"
 honorific: Blessed
-title: "Blessed Dimbalac Oghlou Vartavar"
 summary: "Lay man. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 deathYear: 1895

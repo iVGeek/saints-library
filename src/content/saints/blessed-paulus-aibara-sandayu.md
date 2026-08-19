@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Aibara Sandayu"
 honorific: Blessed
-title: "Blessed Paulus Aibara Sandayu"
 summary: "Son of Blessed Romanus Aibara; father of Blessed Leo Aibara. Convert to Catholicism. Dominican tertiary. Martyr."
 deathYear: 1628
 born: "Nagasaki, Japan"

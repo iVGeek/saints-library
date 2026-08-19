@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ursula Yamamoto"
 honorific: Blessed
-title: "Blessed Ursula Yamamoto"
 summary: "Child in the diocese of Niigata, Japan. Daughter of Blessed Maria Yamamoto and Blessed Andreas Yamamoto Shichiemon. Martyr."
 birthYear: 1626
 deathYear: 1629

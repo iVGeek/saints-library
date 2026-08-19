@@ -1,7 +1,6 @@
 ---
 name: "Blessed Czeslaw Jozwiak"
 honorific: Blessed
-title: "Blessed Czeslaw Jozwiak"
 summary: "Son of a police officer in the archdiocese of Poznan, Poland, Czeslaw was educated by the Salesians. Member of the Salesian youth oratory. When the Nazis invaded Poland in 1939, he was forced to leave school and found work in a cosmetics shop. Martyred in the Nazi persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Czeslaw-Jozwiak.jpg"
 birthYear: 1919

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laurence Humphrey"
 honorific: Blessed
-title: "Blessed Laurence Humphrey"
 summary: "Raised in a Protestant family, Laurence was known to be a studious and pious boy, spending his time with the Bible and other religious works. At the age of 18 he began arguing the faith with a local priest, Father Stanney - and soon wound up converting to Catholicism. He continue"
 searchAliases:
   - "Laurence Humphreys"

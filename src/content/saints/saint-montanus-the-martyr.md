@@ -1,7 +1,6 @@
 ---
 name: "Saint Montanus the Martyr"
 honorific: Saint
-title: "Saint Montanus the Martyr"
 summary: "Priest. Married to and martyred with Saint Maxima the Martyr."
 searchAliases:
   - "Montano"

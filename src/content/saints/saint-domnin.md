@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnin"
 honorific: Saint
-title: "Saint Domnin"
 summary: "A child convert to Christianity, Domnin was imprisoned, tortured and executed for his faith in the persecutions of Riziovarus."
 searchAliases:
   - "Domnin of Avrillé"

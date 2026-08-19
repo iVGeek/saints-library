@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Hortós Tura"
 honorific: Blessed
-title: "Blessed Lluís Hortós Tura"
 summary: "Member of the Claretians, professed on 15 August 1931. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

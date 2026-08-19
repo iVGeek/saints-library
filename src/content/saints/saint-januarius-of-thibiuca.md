@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Thibiuca"
 honorific: Saint
-title: "Saint Januarius of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303"

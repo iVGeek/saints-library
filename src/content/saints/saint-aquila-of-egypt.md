@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquila of Egypt"
 honorific: Saint
-title: "Saint Aquila of Egypt"
 summary: "Martyred in the persecutions of Maximinus Daza."
 searchAliases:
   - "Aquila of Nîmes"

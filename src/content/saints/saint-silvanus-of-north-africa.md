@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of North Africa"
 honorific: Saint
-title: "Saint Silvanus of North Africa"
 summary: "Martyred in North Africa."
 searchAliases:
   - "Sylvanus"

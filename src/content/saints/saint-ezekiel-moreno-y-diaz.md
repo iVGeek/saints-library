@@ -1,7 +1,6 @@
 ---
 name: "Saint Ezekiel Moreno y Diaz"
 honorific: Venerable
-title: "Saint Ezekiel Moreno y Diaz"
 summary: "Raised in a pious family in a pious town. Joined the Augustinian Recollects on 21 September 1864 at Montegudo, Navarra, Spain. Prior of his monastery. Ordained at Manila, Philippines on 3 June 1871, and became a well-known missionary. Vicar apostolic of Casanare and bishop of Pin"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ezekiel-Moreno-y-Diaz.jpg"
 searchAliases:

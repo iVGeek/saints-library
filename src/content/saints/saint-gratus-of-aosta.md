@@ -1,7 +1,6 @@
 ---
 name: "Saint Gratus of Aosta"
 honorific: Saint
-title: "Saint Gratus of Aosta"
 summary: "Priest. Bishop of Aosta, Italy some time after 451. He evangelized his people, established charities, and was known as a miracle worker."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gratusofaosta.jpg"
 searchAliases:

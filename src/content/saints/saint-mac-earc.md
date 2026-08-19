@@ -1,7 +1,6 @@
 ---
 name: "Saint Mac Earc"
 honorific: Saint
-title: "Saint Mac Earc"
 summary: "Traditionally born to a family of saints, Mac Earc is mentioned in several ancient Irish martyrologies as a bishop, though the location varies from record to record. No other information about him has survived."
 born: "early 5th century Ireland"
 region: "Ireland"

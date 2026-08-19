@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict Revelli"
 honorific: Blessed
-title: "Blessed Benedict Revelli"
 summary: "Benedictine monk of Santa Maria dei Fonti, Italy. Hermit on the island of Gallinaria in the Gulf of Genoa, Italy. Bishop of Albenga, Italy in 870."
 deathYear: 900
 died: "c.900"

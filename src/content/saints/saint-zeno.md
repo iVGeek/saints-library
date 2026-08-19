@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno"
 honorific: Saint
-title: "Saint Zeno"
 summary: "Martyred in the persecutions of Diocletian."
 died: "burned to death, date unknown"
 deathPlace: "date unknown"

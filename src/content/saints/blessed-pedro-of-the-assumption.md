@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro of the Assumption"
 honorific: Blessed
-title: "Blessed Pedro of the Assumption"
 summary: "Franciscan Friars Minor (Alcantarines) missionary priest. Martyr."
 searchAliases:
   - "Pedro of Cuerva"

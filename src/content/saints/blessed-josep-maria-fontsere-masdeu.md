@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Fontseré Masdeú"
 honorific: Blessed
-title: "Blessed Josep Maria Fontseré Masdeú"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Maria-Fontseré-Masdeú.jpg"
 birthYear: 1854

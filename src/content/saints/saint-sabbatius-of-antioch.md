@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabbatius of Antioch"
 honorific: Saint
-title: "Saint Sabbatius of Antioch"
 summary: "Tortured and martyred in the persecutions of Emperor Probus."
 deathYear: 277
 died: "scourged to death c.277 at Antioch (in modern Turkey)"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carmelo Coronel Jiménez"
 honorific: Blessed
-title: "Blessed Carmelo Coronel Jiménez"
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

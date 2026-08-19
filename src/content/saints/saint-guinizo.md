@@ -1,7 +1,6 @@
 ---
 name: "Saint Guinizo"
 honorific: Saint
-title: "Saint Guinizo"
 summary: "Benedictine monk at Monte Cassino. After the destruction of the abbey there, he spent the rest of his life as a hermit on the mountain."
 searchAliases:
   - "Guinizzone"

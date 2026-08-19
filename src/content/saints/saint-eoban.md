@@ -1,7 +1,6 @@
 ---
 name: "Saint Eobán of Utrecht"
 honorific: Saint
-title: "Saint Eobán of Utrecht"
 summary: "Benedictine monk. Priest. Evangelized Freisland with Saint Boniface and Saint Willibrord of Echternach. Appointed bishop of Utrecht, Netherlands by Saint Boniface. Martyr."
 searchAliases:
   - "Eobáno"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Ilarregui Goñi"
 honorific: Blessed
-title: "Blessed Lorenzo Ilarregui Goñi"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Gabriel of Aróstegui"

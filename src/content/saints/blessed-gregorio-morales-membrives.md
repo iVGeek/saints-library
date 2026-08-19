@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Morales Membrives"
 honorific: Blessed
-title: "Blessed Gregorio Morales Membrives"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

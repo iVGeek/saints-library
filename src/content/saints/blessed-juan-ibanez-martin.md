@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Ibáñez Martín"
 honorific: Blessed
-title: "Blessed Juan Ibáñez Martín"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

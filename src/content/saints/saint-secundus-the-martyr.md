@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus the Martyr"
 honorific: Saint
-title: "Saint Secundus the Martyr"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

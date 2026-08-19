@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleutherius of Tournai"
 honorific: Saint
-title: "Saint Eleutherius of Tournai"
 summary: "Born to the Gallo-Roman nobility, the son of Blanda and Serenus, a family that converted to Christianity after hearing the preaching of Saint Plato; his father donated the land on which the cathedral of Notre-Dame of Tournai was built. Eletutherius was a friend of, and student wi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Eleutherius_of_Tournai_Baptizing_Converts_%28detail%29%2C_workshop_of_Arnold_of_Nijmegen%2C_Flemish%2C_c._1500-1525_-_Nelson-Atkins_Museum_of_Art_-_DSC08491.JPG/960px-St_Eleutherius_of_Tournai_Baptizing_Converts_%28detail%29%2C_workshop_of_Arnold_of_Nijmegen%2C_Flemish%2C_c._1500-1525_-_Nelson-Atkins_Museum_of_Art_-_DSC08491.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Polvorinos Gómez"
 honorific: Blessed
-title: "Blessed Francisco Polvorinos Gómez"
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
 birthYear: 1910
 born: "29 January 1910 in Calaveras de Arriba, León, Spain"

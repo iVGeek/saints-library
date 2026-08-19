@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodorus of Rome"
 honorific: Saint
-title: "Saint Theodorus of Rome"
 summary: "Martyred with 21 Christian companions in the persecutions of Valerian."
 searchAliases:
   - "Theodor"

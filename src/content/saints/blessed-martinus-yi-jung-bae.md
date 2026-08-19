@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martinus Yi Jung-bae"
 honorific: Blessed
-title: "Blessed Martinus Yi Jung-bae"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1751
 deathYear: 1801

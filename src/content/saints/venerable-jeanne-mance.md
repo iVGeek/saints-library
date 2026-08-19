@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jeanne Mance"
 honorific: Venerable
-title: "Venerable Jeanne Mance"
 summary: "Daughter of Catherine Émonot and Charles Mance, a prosecutor for the king of France. When her mother died, Jeanne took care of her eleven brothers and sisters. At age 34 she became a lay immigrant and missionary to New France, landing in Montreal, Québec in the spring of 1642. Sh"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/JeanneManceHotelDieu.jpg"
 birthYear: 1606

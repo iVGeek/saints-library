@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus the Soldier"
 honorific: Saint
-title: "Saint Zoticus the Soldier"
 summary: "One of a group of ten soldier martyrs."
 deathYear: 120
 died: "120 at Rome, Italy"

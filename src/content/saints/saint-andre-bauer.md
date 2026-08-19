@@ -1,7 +1,6 @@
 ---
 name: "Saint André Bauer"
 honorific: Venerable
-title: "Saint André Bauer"
 summary: "Member of the Franciscan Friars Minor (Observants). Martyred in the Boxer Rebellion."
 deathYear: 1900
 died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"

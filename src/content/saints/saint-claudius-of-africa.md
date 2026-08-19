@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudius of Africa"
 honorific: Saint
-title: "Saint Claudius of Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed María de Las Nieves Rodríguez Higuera"
 honorific: Blessed
-title: "Blessed María de Las Nieves Rodríguez Higuera"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Guadalupe of the Ascension"

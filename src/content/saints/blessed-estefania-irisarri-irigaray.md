@@ -1,7 +1,6 @@
 ---
 name: "Blessed Estefanía Irisarri Irigaray"
 honorific: Blessed
-title: "Blessed Estefanía Irisarri Irigaray"
 summary: "The daughter of Idelfonso and Juana, Estefanía grew up in a farming family. She was educated at home, then moved to Valencia where her aunt, a member of the Daughters of Charity, helped her enter the Order on 21 November 1896. Assigned to Bétera, Spain, she served as a teacher fo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Estefania-Irisarri-Irigaray.jpg"
 birthYear: 1878

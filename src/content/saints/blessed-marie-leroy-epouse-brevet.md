@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Leroy épouse Brevet"
 honorific: Blessed
-title: "Blessed Marie Leroy épouse Brevet"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1755
 deathYear: 1794

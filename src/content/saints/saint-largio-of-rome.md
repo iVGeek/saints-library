@@ -1,7 +1,6 @@
 ---
 name: "Saint Largio of Rome"
 honorific: Saint
-title: "Saint Largio of Rome"
 summary: "Martyr."
 deathYear: 304
 died: "c.304 in Rome, Italy"

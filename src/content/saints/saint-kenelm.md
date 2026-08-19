@@ -1,7 +1,6 @@
 ---
 name: "Saint Kenelm"
 honorific: Saint
-title: "Saint Kenelm"
 summary: " Mentioned in the Canterbury Tales's Nun's Priest's Tale. Saint John Henr Mercian prince, the son of King Coenwulf. Venerated as a boy king and martyr in the Middle Ages, though his biography became mixed with pious legends, one of which says he was killed on orders of his sister."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/St_Kenelm_in_situ.jpg"
 searchAliases:

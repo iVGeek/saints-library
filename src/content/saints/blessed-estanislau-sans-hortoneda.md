@@ -1,7 +1,6 @@
 ---
 name: "Blessed Estanislau Sans Hortoneda"
 honorific: Blessed
-title: "Blessed Estanislau Sans Hortoneda"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Verus of Vienne"
 honorific: Saint
-title: "Saint Verus of Vienne"
 summary: "Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314."
 searchAliases:
   - "Vero"

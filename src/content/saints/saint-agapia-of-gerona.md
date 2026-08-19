@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapia of Gerona"
 honorific: Saint
-title: "Saint Agapia of Gerona"
 summary: "Martyr. No other details have survived."
 searchAliases:
   - "Appia"

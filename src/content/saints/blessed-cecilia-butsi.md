@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cecilia Butsi"
 honorific: Blessed
-title: "Blessed Cecilia Butsi"
 summary: "Daughter of Amato Sinuen and Agatha Thep. Worked in the kitchen of a Catholic mission in the archdiocese of Thare and Nonseng, Thailand, and know for the joy and courage she brought to living as an oppressed Christian. Martyred in the anti-Christian persecutions that began when t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cecilia-Butsi.jpg"
 searchAliases:

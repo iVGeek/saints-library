@@ -1,7 +1,6 @@
 ---
 name: "Saint Sincheall of Killeigh"
 honorific: Saint
-title: "Saint Sincheall of Killeigh"
 summary: "Son of Cennannan. Spiritual student of Saint Patrick. Founded the Killeigh monastery and school in Offaly, Ireland."
 searchAliases:
   - "Sincheall of Cell Achaid"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardino Caimi"
 honorific: Blessed
-title: "Blessed Bernardino Caimi"
 summary: " Back in Europe, Brother Bernardino got the idea of reproducing Franciscan friar at the convent of Sant'Angelo in Milan, Italy. Superior of a community in Lodi, Italy. His gifts as an administror led to him being appointed commissioner of the holy places in the Holy Land in 1478."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardino-Caimi.jpg"
 deathYear: 1500

@@ -1,7 +1,6 @@
 ---
 name: "Saint Celerinus of Carthage"
 honorific: Saint
-title: "Saint Celerinus of Carthage"
 summary: "Nephew of Saint Laurentinus, Saint Laurentius, and Saint Clerina. Imprisoned and tortured during the persecutions of Decius in Rome, Italy. He was eventually freed and returned home to Carthage. Ordained as a deacon by Saint Cyprian. Because he suffered so much, and because he wa"
 searchAliases:
   - "Celerino"

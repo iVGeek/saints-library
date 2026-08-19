@@ -1,7 +1,6 @@
 ---
 name: "Venerable Miguel Ángel Builes Gómez"
 honorific: Venerable
-title: "Venerable Miguel Ángel Builes Gómez"
 summary: "The son of Agustín Builes Restrepo and Doña Ana María Gómez Peña. Ordained a priest on 29 November 1914. Chosen bishop of Santa Rosa de Osos, Colombia on 27 May 1924. Founded the Xaverian Missionaries of Yarumal, the Missionary Sisters of Saint Therese of the Child Jesus, and the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Miguel-Ángel-Builes-Gómez.jpg"
 birthYear: 1888

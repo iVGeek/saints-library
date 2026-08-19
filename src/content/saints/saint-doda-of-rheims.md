@@ -1,7 +1,6 @@
 ---
 name: "Saint Doda of Rheims"
 honorific: Saint
-title: "Saint Doda of Rheims"
 summary: "Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims, France."
 searchAliases:
   - "Deuteria"

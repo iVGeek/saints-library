@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Nutter"
 honorific: Blessed
-title: "Blessed John Nutter"
 summary: "Brother of Blessed Robert Nutter. Fellow at Saint John's College, Cambridge. Studied for the priesthood at the English College in Rheims, France. Ordained in 1581. Martyr."
 born: "at Burnley, Lancashire, England"
 birthPlace: "Lancashire, England"

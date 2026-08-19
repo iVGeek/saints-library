@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Marie Rouchouze"
 honorific: Blessed
-title: "Blessed Jean-Marie Rouchouze"
 summary: "A member of the Picpus Fathers, making his professon to the Servant of God Marie Joseph Coudrin, the founder of the Fathers, on 2 February 1837. Jean-Marie taught Latin, mathematics and philosophy in Congregation schools in Belgium. Reluctantly ordained to the priesthood on 5 Jun"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-Rouchouze.jpg"
 searchAliases:

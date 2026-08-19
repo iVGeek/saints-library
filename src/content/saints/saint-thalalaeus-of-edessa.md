@@ -1,7 +1,6 @@
 ---
 name: "Saint Thalalaeus of Edessa"
 honorific: Saint
-title: "Saint Thalalaeus of Edessa"
 summary: "Martyred in the persecutions of Numerian."
 died: "Edessa, Syria"
 deathPlace: "Syria"

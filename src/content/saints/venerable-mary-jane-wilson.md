@@ -1,7 +1,6 @@
 ---
 name: "Venerable Mary Jane Wilson"
 honorific: Venerable
-title: "Venerable Mary Jane Wilson"
 summary: "Born to English parents in India. Raised an Anglican and converted to Catholicism, joining the Church in France in 1873. Worked as a nurse, and taught catechism to children. Founded the Franciscan Sisters of Our Lady of Victory on 15 January 1884, dedicating to caring for childre"
 searchAliases:
   - "Maria of Saint Francis"

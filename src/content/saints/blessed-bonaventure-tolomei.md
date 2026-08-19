@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonaventure Tolomei"
 honorific: Blessed
-title: "Blessed Bonaventure Tolomei"
 summary: "Though he was initially considered a pious and devoted youth, Bonaventure gave himself over to worldly life for several years. As an adult he returned to the faith and made a series of pilgrimages to shrines as a method of penance. Back in Siena, Italy, he joined the Dominicans,"
 deathYear: 1348
 born: "Siena, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hieronymus van Weert"
 honorific: Saint
-title: "Saint Hieronymus van Weert"
 summary: "Franciscan missionary to Palestinian Muslims. Returning to Europe, he preached forcefully against Calvinism. Vicar of the friary at Gorkum, Netherlands. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:

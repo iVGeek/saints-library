@@ -1,7 +1,6 @@
 ---
 name: "Saint Radegonde of Celles"
 honorific: Saint
-title: "Saint Radegonde of Celles"
 summary: "Goddaughter of Saint Bathilde who helped raise her in the monastery of Chelles. The little girl died a few days before Bathilde, and devotion for Bathilde began to take in the holy little girl Radegonde, as well."
 birthYear: 673
 deathYear: 680

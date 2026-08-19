@@ -1,7 +1,6 @@
 ---
 name: "Saint Luciolus"
 honorific: Saint
-title: "Saint Luciolus"
 summary: "One of a group of martyrs. No other information has survived."
 died: "martyred in North Africa, date unknown"
 deathPlace: "date unknown"

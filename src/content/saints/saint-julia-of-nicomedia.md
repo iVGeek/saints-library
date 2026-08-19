@@ -1,7 +1,6 @@
 ---
 name: "Saint Julia of Nicomedia"
 honorific: Saint
-title: "Saint Julia of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "Nicomedia, Asia Minor"
 deathPlace: "Asia Minor"

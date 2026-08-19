@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pius Salvans Corominas"
 honorific: Blessed
-title: "Blessed Pius Salvans Corominas"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

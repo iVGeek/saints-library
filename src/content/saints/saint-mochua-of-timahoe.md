@@ -1,7 +1,6 @@
 ---
 name: "Saint Mochua of Timahoe"
 honorific: Saint
-title: "Saint Mochua of Timahoe"
 summary: "Son of Lonan. Soldier. Monk as a young man. Founded a monastery in Derenish, County Laois, Ireland. Founded the monastery of Timahoe (Teach Mochua / House of Mochua) in County Cavan, Ireland. Some monasteries in Scotland claim Mochua as their founder."
 deathYear: 657
 born: "Achonry district of Connaught, Ireland"

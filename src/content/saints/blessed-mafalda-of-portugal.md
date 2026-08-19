@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mafalda of Portugal"
 honorific: Blessed
-title: "Blessed Mafalda of Portugal"
 summary: "Born a princess, the daughter of King Sancho I of Portugal. Sister of Saint Theresa of Portugal and Saint Sancha of Portugal. Portugal was involved in a war to reclaim the Iberian peninsula from the Moors, and to seal an alliance with the neighboring kingdom of Castile, a marriag"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/D._Mafalda_de_Portugal%2C_Rainha_de_Castela_-_The_Portuguese_Genealogy_%28Genealogia_dos_Reis_de_Portugal%29.png/960px-D._Mafalda_de_Portugal%2C_Rainha_de_Castela_-_The_Portuguese_Genealogy_%28Genealogia_dos_Reis_de_Portugal%29.png"
 birthYear: 1184

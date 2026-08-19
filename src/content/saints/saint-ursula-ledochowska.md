@@ -1,7 +1,6 @@
 ---
 name: "Saint Ursula Ledóchowska"
 honorific: Venerable
-title: "Saint Ursula Ledóchowska"
 summary: "Daughter of Count Anthony Ledochowska, a Polish noble, and an Austrian mother. One of five children in a pious family; sister of Saint Theresa Ledochowska. Due to financial failure, the family moved to Saint Poelten, Austria in 1873. Her father died of smallpox in February 1885,"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Ursula_Leduhovskaya_in_1907.jpg"
 searchAliases:

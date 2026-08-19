@@ -1,7 +1,6 @@
 ---
 name: "Saint Reatrus of North Africa"
 honorific: Saint
-title: "Saint Reatrus of North Africa"
 summary: "One of a group of 30 Christians martyred together by Arian Vandals."
 searchAliases:
   - "Restius"

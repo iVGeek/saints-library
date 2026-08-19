@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvester of Ireland"
 honorific: Saint
-title: "Saint Silvester of Ireland"
 summary: "Evangelizing bishop in Ireland, working with Saint Palladius of Ireland."
 searchAliases:
   - "Silvestro"

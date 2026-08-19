@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius of Alexandria"
 honorific: Saint
-title: "Saint Macarius of Alexandria"
 summary: "Martyr. No other information has survived."
 deathYear: 250
 died: "c.250 in Alexandria, Egypt"

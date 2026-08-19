@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ebontius of Babastro"
 honorific: Blessed
-title: "Blessed Ebontius of Babastro"
 summary: "Benedictine monk in Sainte-Foi, Tomieres, France. Abbot of San Victorian, Ainsa, Aragon, Spain. Bishop of Roda de Isábena, Aragon, Spain. The see was moved to Babastro, Spain after it was re-captured from the Moors."
 searchAliases:
   - "Ebon"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Catus of Carthage"
 honorific: Saint
-title: "Saint Catus of Carthage"
 summary: "One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them."
 died: "Carthage, North Africa (modern Tunis, Tunisia)"
 deathPlace: "North Africa (modern Tunis, Tunisia)"

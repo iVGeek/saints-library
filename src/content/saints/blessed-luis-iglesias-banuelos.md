@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Iglesias Bañuelos"
 honorific: Blessed
-title: "Blessed Luis Iglesias Bañuelos"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Abdón"

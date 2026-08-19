@@ -1,7 +1,6 @@
 ---
 name: "Venerable Madeleine Delbrêl"
 honorific: Venerable
-title: "Venerable Madeleine Delbrêl"
 summary: "Lay woman in the diocese of Créteil, France, she was a convert to the Faith. Poet. Mystic."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Madeleine_Delbr%C3%AAl.jpg"
 searchAliases:

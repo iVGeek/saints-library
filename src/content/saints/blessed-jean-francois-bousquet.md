@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-François Bousquet"
 honorific: Blessed
-title: "Blessed Jean-François Bousquet"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792

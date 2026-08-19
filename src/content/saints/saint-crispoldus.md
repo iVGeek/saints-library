@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispoldus"
 honorific: Saint
-title: "Saint Crispoldus"
 summary: "Bishop of Bettona, Italy where he was known as a miracle worker. May have been bishop of Nocera, Italy, too. Arrested by order of prefect Asterius in the late 3rd-century persecutions of emperor Maximian, ordered to sacrifice to pagan gods, and then tortured and killed with anoth"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Crispoldus.jpg"
 searchAliases:

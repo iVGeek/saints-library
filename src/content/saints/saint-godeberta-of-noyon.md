@@ -1,7 +1,6 @@
 ---
 name: "Saint Godeberta of Noyon"
 honorific: Saint
-title: "Saint Godeberta of Noyon"
 summary: "Though her parents wanted to arrange a suitable marriage for her, Godeberta was drawn to the religious life. In 657 she became a nun in Noyon, France, receiving the veil from Saint Eligius, to whom she was an advisor. Was given a king's house at Noyon to convert into a convent. A"
 image: "http://catholicsaints.info/wp-content/uploads/Godeberta-of-Noyon.jpg"
 searchAliases:

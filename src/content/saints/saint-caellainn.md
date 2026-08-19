@@ -1,7 +1,6 @@
 ---
 name: "Saint Caellainn"
 honorific: Saint
-title: "Saint Caellainn"
 summary: "A church in Roscommon, Ireland is named in her honor. No other information has survived."
 searchAliases:
   - "Caoilfionn"

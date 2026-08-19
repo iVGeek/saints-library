@@ -1,7 +1,6 @@
 ---
 name: "Blessed Prudència Canyelles Ginestà de Aguadé"
 honorific: Blessed
-title: "Blessed Prudència Canyelles Ginestà de Aguadé"
 summary: "Married lay woman in the archdiocese of Barcelona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Prudència-Canyelles-Ginestà-de-Aguadé.jpg"
 birthYear: 1884

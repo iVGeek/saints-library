@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucas Hong Nak-min"
 honorific: Blessed
-title: "Blessed Lucas Hong Nak-min"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1751
 deathYear: 1801

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Santonja Pinsach"
 honorific: Blessed
-title: "Blessed Josep Santonja Pinsach"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius the Martyr"
 honorific: Saint
-title: "Saint Dionysius the Martyr"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:

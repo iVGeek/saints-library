@@ -1,7 +1,6 @@
 ---
 name: "Saint Nivitus of Lucania"
 honorific: Saint
-title: "Saint Nivitus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

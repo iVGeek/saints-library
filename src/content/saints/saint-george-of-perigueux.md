@@ -1,7 +1,6 @@
 ---
 name: "Saint George of Périgueux"
 honorific: Saint
-title: "Saint George of Périgueux"
 summary: "Third-century missionary priest of the Périgueux region of France."
 region: "France"
 feastDay:

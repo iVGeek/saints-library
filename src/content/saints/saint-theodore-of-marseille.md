@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Marseille"
 honorific: Saint
-title: "Saint Theodore of Marseille"
 summary: "Sixth-century bishop of Marseille, Gaul (in modern France). For trying to establish clerical discipline and control of his clergy, he ran into opposition from King Childebert and King Guntram, and was sometimes imprisoned and was exiled three times. Attended the synod of Mâcon in"
 searchAliases:
   - "Théodore of Marselha"

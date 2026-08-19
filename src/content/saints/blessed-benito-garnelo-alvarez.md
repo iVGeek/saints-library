@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Garnelo Álvarez"
 honorific: Blessed
-title: "Blessed Benito Garnelo Álvarez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

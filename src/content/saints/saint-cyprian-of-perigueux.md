@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyprian of Périgueux"
 honorific: Saint
-title: "Saint Cyprian of Périgueux"
 summary: "Sixth century monk at Périgueux, France. In late life he became a hermit on the banks of the River Dordogne. Saint Gregory of Tours wrote a biography of him."
 region: "France"
 feastDay:

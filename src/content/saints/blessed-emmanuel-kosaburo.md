@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emmanuel Kosaburo"
 honorific: Blessed
-title: "Blessed Emmanuel Kosaburo"
 summary: "Layman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Tanba, Kyoto, Japan"

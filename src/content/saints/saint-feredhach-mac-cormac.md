@@ -1,7 +1,6 @@
 ---
 name: "Saint Feredhach Mac Cormac"
 honorific: Saint
-title: "Saint Feredhach Mac Cormac"
 summary: "Monk. Abbot of the monastery of Iona. Served during the period when the relics of Saint Columba of Iona were transferred to Ireland, symbolizing the deep connection between Christianity in Scotland and Ireland."
 searchAliases:
   - "Feredacius"

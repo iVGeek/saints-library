@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Auvergne"
 honorific: Saint
-title: "Saint Julian of Auvergne"
 summary: "Officer in the imperial Roman army, and a closet Christian. He retired from the army and fled to Auvergne, France during the persecutions of Diocletian. At one point he was hidden by Saint Ferreolus the Tribune. Julian later surrendered to pursuing Christian-hunters, and made a p"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julian-of-Auvergne.jpg"
 searchAliases:

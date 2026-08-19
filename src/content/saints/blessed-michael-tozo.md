@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Tozo"
 honorific: Blessed
-title: "Blessed Michaël Tozo"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 birthYear: 1588

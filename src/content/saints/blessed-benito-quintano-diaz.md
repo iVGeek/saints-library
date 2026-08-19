@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Quintano Díaz"
 honorific: Blessed
-title: "Blessed Benito Quintano Díaz"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1861
 deathYear: 1936

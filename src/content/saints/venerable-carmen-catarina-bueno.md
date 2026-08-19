@@ -1,7 +1,6 @@
 ---
 name: "Venerable Carmen Catarina Bueno"
 honorific: Venerable
-title: "Venerable Carmen Catarina Bueno"
 summary: "As her mother was only 15 years old when Carminha was born, she was raised by her grandparents in Campinas, Brazil. After studying at the Colégio Sion in São Paulo, Carminha joined the Discalced Carmelites at the Carmelo São José in Rio de Janeiro, Brazil on 21 April 1926; she ma"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Carmen-Catarina-Bueno-1.jpg"
 searchAliases:

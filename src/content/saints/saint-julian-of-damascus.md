@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Damascus"
 honorific: Saint
-title: "Saint Julian of Damascus"
 summary: "Martyr."
 born: "Syria"
 died: "Damascus, Syria, date unknown"

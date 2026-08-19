@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Trois-Châteaux"
 honorific: Saint
-title: "Saint Florentius of Trois-Châteaux"
 summary: "Martyr."
 searchAliases:
   - "Florence"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Grivicianus of Saddi"
 honorific: Saint
-title: "Saint Grivicianus of Saddi"
 summary: "Martyred in the persecutions of Decius."
 died: "at Pieve de' Saddi, Pietralunga, Italy"
 deathPlace: "Pietralunga, Italy"

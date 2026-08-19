@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Cornelius"
 honorific: Blessed
-title: "Blessed John Cornelius"
 summary: "Born to Irish immigrant parents. Educated at Oxford, and a fellow of Exeter College, Oxford. Studied theology at Rheims, France, and at the English College in Rome, Italy beginning on 1 April 1580. Ordained in Rome in 1583. Returned to England as a missionary in Lanherne, often t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Cornelius.jpg"
 searchAliases:

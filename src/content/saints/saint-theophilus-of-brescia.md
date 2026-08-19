@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Brescia"
 honorific: Saint
-title: "Saint Theophilus of Brescia"
 summary: "Priest. Bishop of Brescia, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theophilus-of-Brescia.jpg"
 deathYear: 427

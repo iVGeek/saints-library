@@ -1,7 +1,6 @@
 ---
 name: "Saint Odilia of Alsace"
 honorific: Saint
-title: "Saint Odilia of Alsace"
 summary: "Born blind to the family of the Duke of Alsace Lord Aldaric (aka Etichon, aka Athich) and Bereswinda; because she was a girl and disabled, the family decided to put her out. Rather that having her killed, she was given to a peasant family. Taken in by a convent at age twelve, she"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Odilia-of-Alsace.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Christianus"
 honorific: Saint
-title: "Saint Christianus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

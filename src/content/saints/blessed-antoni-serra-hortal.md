@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Serra Hortal"
 honorific: Blessed
-title: "Blessed Antoni Serra Hortal"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Adolf Jaume"

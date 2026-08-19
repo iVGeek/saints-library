@@ -1,7 +1,6 @@
 ---
 name: "Saint Bruno of Ebsdorf"
 honorific: Saint
-title: "Saint Bruno of Ebsdorf"
 summary: "Duke of Saxony. Leader of the army that became the Martyrs of Ebsdorf."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Saxony.jpg"
 searchAliases:

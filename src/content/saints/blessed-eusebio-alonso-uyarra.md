@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebio Alonso Uyarra"
 honorific: Blessed
-title: "Blessed Eusebio Alonso Uyarra"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Evencio Ricardo"

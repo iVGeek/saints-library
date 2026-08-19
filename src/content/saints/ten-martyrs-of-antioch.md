@@ -1,7 +1,6 @@
 ---
 name: "Ten Martyrs of Antioch"
 honorific: Saint
-title: "Ten Martyrs of Antioch"
 summary: "Ten Christians murdered together by Arabs after their seizure of Antioch, Syria. No names or other details about them have come down to us."
 deathYear: 637
 died: "637 in Antioch, Syria"

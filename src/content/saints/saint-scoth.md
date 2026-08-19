@@ -1,7 +1,6 @@
 ---
 name: "Saint Scoth"
 honorific: Saint
-title: "Saint Scoth"
 summary: "Irish nun."
 region: "Ireland"
 feastDay:

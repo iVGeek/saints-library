@@ -1,7 +1,6 @@
 ---
 name: "Saint Malou of Hautvillers"
 honorific: Saint
-title: "Saint Malou of Hautvillers"
 summary: "Priest at Hautvillers, Marne, France. No other information has survived."
 searchAliases:
   - "Madeloup"

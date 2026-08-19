@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego of Valdieri"
 honorific: Blessed
-title: "Blessed Diego of Valdieri"
 summary: "Franciscan friar minor. Sent to the Pinerolo region to preach against Waldensianism, he brought many back to the faith."
 deathYear: 1655
 born: "Valdieri, Italy"

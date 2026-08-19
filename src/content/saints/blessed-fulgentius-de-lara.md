@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fulgentius de Lara"
 honorific: Blessed
-title: "Blessed Fulgentius de Lara"
 summary: "Mercedarian friar. Went on several missions to ransom Christians enslaved by Muslims in Andalusia, Spain, and in Morocco; he freed over 200, preaching Christianity all along the way."
 deathYear: 1287
 died: "1287 of natural causes"

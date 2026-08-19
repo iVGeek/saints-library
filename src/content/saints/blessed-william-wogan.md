@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Wogan"
 honorific: Blessed
-title: "Blessed William Wogan"
 summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
 deathYear: 1581
 born: "Irish"

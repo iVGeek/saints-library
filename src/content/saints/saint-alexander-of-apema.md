@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Apema"
 honorific: Saint
-title: "Saint Alexander of Apema"
 summary: "Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Caius of Apema. Fought the Montanist heresy. Martyred in the persecutions of Emperor Marcus Aurelius."
 deathYear: 172
 born: "in Eumenes, Phrygia"

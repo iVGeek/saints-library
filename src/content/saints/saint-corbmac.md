@@ -1,7 +1,6 @@
 ---
 name: "Saint Corbmac of Durrow"
 honorific: Saint
-title: "Saint Corbmac of Durrow"
 summary: "Sixth century spiritual student of Saint Columba. Appointed abbot of Durrow monastery by Columba."
 searchAliases:
   - "Cormac"

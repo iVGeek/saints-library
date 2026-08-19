@@ -1,7 +1,6 @@
 ---
 name: "Saint John Nepomucene"
 honorific: Saint
-title: "Saint John Nepomucene"
 summary: "While a child, he was cured by the prayers of his parents; they then consecrated him to God. Priest. Known as a great preacher who converted thousands. Vicar-general of Prague (in the modern Czech Republic). Counselor and advocate of the poor in the court of King Wenceslaus IV. H"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Nepomucene-03.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lauta of Thessalonica"
 honorific: Saint
-title: "Saint Lauta of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

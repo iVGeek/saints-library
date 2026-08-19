@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-Hyacinthe lé Livec de Trésurin"
 honorific: Blessed
-title: "Blessed François-Hyacinthe lé Livec de Trésurin"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1726
 deathYear: 1792

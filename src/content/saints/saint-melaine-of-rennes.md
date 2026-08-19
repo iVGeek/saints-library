@@ -1,7 +1,6 @@
 ---
 name: "Saint Melaine of Rennes"
 honorific: Saint
-title: "Saint Melaine of Rennes"
 summary: "Monk. Bishop of Rennes, France during the 5th and 6th centuries when the Franks were conquering all of Gaul. Nearly eliminated idolatry in his diocese. Close friend and advisor to King Clovis. Required his priests to stop “wandering from cabin to cabin, celebrating Mass on portab"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Melaine.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Symmachus"
 honorific: Saint
-title: "Pope Saint Symmachus"
 summary: " An anti-pope, Laurentius, was elected the same day by a minority with Byzantine sympathies and with the support of Emperor Anastasius; King Theodoric the Great supported The son of Fortunatus. Baptized in Rome, Italy. Archdeacon under Pope Anastasius II. Chosen 51st pope in 498."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pope_Symmachus_%E2%80%93_apse_mosaic_of_Sant%27Agnese_fuori_le_mura.png"
 searchAliases:

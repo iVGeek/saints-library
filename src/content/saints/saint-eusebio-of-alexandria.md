@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebio of Alexandria"
 honorific: Saint
-title: "Saint Eusebio of Alexandria"
 summary: "One of a number of Christian martyrs."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"

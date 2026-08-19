@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno of Nicomedia"
 honorific: Saint
-title: "Saint Zeno of Nicomedia"
 summary: "Imperial Roman soldier and regimental commander. As the emperor Diocletian offered sacrifice to a statue of the goddess Ceres, Zeno laughed at and ridiculed the whole procedure. His jaw was shattered for having spoken, and he then was martyred for his sentiment."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zeno-of-Nicomedia.jpg"
 searchAliases:

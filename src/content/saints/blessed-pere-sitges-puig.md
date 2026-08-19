@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Sitges Puig"
 honorific: Blessed
-title: "Blessed Pere Sitges Puig"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Laureà Carles"

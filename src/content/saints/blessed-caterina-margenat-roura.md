@@ -1,7 +1,6 @@
 ---
 name: "Blessed Caterina Margenat Roura"
 honorific: Blessed
-title: "Blessed Caterina Margenat Roura"
 summary: "Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Margenat-Roura.jpg"
 searchAliases:

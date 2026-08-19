@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jesús Largo Manrique"
 honorific: Blessed
-title: "Blessed Jesús Largo Manrique"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leandro Gómez Gil"
 honorific: Blessed
-title: "Blessed Leandro Gómez Gil"
 summary: "Trappist monk. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 birthYear: 1915

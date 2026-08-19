@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Alexandria"
 honorific: Saint
-title: "Saint Dionysius of Alexandria"
 summary: "Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."
 region: "Italy"
 feastDay:

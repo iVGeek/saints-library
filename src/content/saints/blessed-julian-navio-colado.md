@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julian Navio Colado"
 honorific: Blessed
-title: "Blessed Julian Navio Colado"
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

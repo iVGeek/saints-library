@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawrence O'Toole"
 honorific: Saint
-title: "Saint Lawrence O'Toole"
 summary: "Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old; Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough, Ireland. and raised and educated at the monastic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-OToole.jpg"
 searchAliases:

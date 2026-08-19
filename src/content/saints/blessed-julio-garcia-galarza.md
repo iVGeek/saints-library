@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio García Galarza"
 honorific: Blessed
-title: "Blessed Julio García Galarza"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Frumencio"

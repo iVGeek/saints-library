@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Bethlehem"
 honorific: Saint
-title: "Saint Andrew of Bethlehem"
 summary: "First century convert martyred in the persecutions of King Herod Antipas."
 died: "1st century Bethlehem"
 region: "England"

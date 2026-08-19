@@ -1,7 +1,6 @@
 ---
 name: "Saint Macrobius"
 honorific: Saint
-title: "Saint Macrobius"
 summary: "Martyed in the persecution of emperor Licinius."
 deathYear: 311
 born: "Cappadocia (in modern Turkey)"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aquilino Pastor Cambeos"
 honorific: Blessed
-title: "Blessed Aquilino Pastor Cambeos"
 summary: "Aquilino studied at the seminaries of Coria and Toledo, Spain, and was ordained a priest on 25 August 1935. A member of the Hermandad de Sacerdotes Operarios Diocesanos (Diocesan Laborer Priests of the Sacred Heart of Jesus), joining in 1934 while still in seminary. He served as"
 image: "https://catholicsaints.info/wp-content/uploads/img-Aquilino-Pastor-Cambeos.jpg"
 searchAliases:

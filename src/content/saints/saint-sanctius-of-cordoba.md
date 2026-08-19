@@ -1,7 +1,6 @@
 ---
 name: "Saint Sanctius of Córdoba"
 honorific: Saint
-title: "Saint Sanctius of Córdoba"
 summary: "Lifelong layman and Christian. Captured by the Moors as a prisoner of war, he was taken to Córdoba, Spain, educated at the Moorish court, and enrolled in the guards of the Emir. Martyred when he refused to convert to Islam."
 searchAliases:
   - "Sancho"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Radegunde"
 honorific: Saint
-title: "Saint Radegunde"
 summary: "Princess of Thuringia. Queen of France. Daughter of the pagan king Berthachar of Thuringia. She was given at age 12 to Clotaire I as a hostage after he conquered her father's army in 531. The girl converted to Christianity during her captivity, and 540 she was married against her"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Radegunde.jpg"
 searchAliases:

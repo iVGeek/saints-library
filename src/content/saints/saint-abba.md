@@ -1,7 +1,6 @@
 ---
 name: "Saint Abba"
 honorific: Saint
-title: "Saint Abba"
 summary: "One of a large group martyred in Africa."
 searchAliases:
   - "Alla"

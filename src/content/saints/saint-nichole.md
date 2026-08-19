@@ -1,7 +1,6 @@
 ---
 name: "Saint Nichole"
 honorific: Saint
-title: "Saint Nichole"
 summary: "Abbess of the convent at Almenêches Abbey, France."
 region: "France"
 feastDay:

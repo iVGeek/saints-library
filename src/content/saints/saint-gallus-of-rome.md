@@ -1,7 +1,6 @@
 ---
 name: "Saint Gallus of Rome"
 honorific: Saint
-title: "Saint Gallus of Rome"
 summary: "A martyr of the early Church, date and location unknown."
 feastDay:
   month: 3

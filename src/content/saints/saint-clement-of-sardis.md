@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement of Sardis"
 honorific: Saint
-title: "Saint Clement of Sardis"
 summary: "First century convert. One of the original 72 missionaries sent by Jesus himself. Bishop of Sardis. Martyr."
 feastDay:
   month: 9

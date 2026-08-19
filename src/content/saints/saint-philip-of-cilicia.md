@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip of Cilicia"
 honorific: Saint
-title: "Saint Philip of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philippus"

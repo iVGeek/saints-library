@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Pujol Espinalt"
 honorific: Blessed
-title: "Blessed Francesc Pujol Espinalt"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Honest Maria"

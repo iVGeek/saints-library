@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartolomé Cantador González"
 honorific: Blessed
-title: "Blessed Bartolomé Cantador González"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

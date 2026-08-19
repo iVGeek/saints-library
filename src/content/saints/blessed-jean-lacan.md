@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Lacan"
 honorific: Blessed
-title: "Blessed Jean Lacan"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 deathYear: 1792
 born: "in Rodez, Aveyron, France"

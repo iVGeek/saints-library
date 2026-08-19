@@ -1,7 +1,6 @@
 ---
 name: "Saint Genoveva Torres Morales"
 honorific: Venerable
-title: "Saint Genoveva Torres Morales"
 summary: "Youngest of six children. By the age of eight, both her parents and four of her siblings had died. A child homemaker for her older brother, Genovena grew up a quiet child, accustomed to solitude. She took an interest in spiritual reading around age ten, and early understood that"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fiesta_de_Santa_Genoveva_Torres_Morales_02.jpg/960px-Fiesta_de_Santa_Genoveva_Torres_Morales_02.jpg"
 birthYear: 1870

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Besançon"
 honorific: Saint
-title: "Saint Peter of Besançon"
 summary: "Bishop of Besançon, France."
 region: "France"
 feastDay:

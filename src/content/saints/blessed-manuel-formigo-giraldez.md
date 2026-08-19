@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Formigo Giráldez"
 honorific: Blessed
-title: "Blessed Manuel Formigo Giráldez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

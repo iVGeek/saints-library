@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego Llorca Llopis"
 honorific: Blessed
-title: "Blessed Diego Llorca Llopis"
 summary: "Born to a pious family, Didaco early felt a call to the priesthood. He studied at the seminary in Valencia, Spain, and was ordained a priest in the archdiocese of Valencia in 1925. Father Didaco served as a co-adjutor in the parishes of Setla-Mirarrosa, Miraflor, Denia and Beniss"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Llorca-Llopis.jpg"
 searchAliases:

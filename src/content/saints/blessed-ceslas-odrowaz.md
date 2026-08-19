@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ceslas Odrowaz"
 honorific: Blessed
-title: "Blessed Ceslas Odrowaz"
 summary: "Relative, possibly the brother, of Saint Hyacinth. Studied at Prague in Bohemia, and Bologna, Italy. Ordained in Cracow, Poland. Doctor of canon law and of theology. Canon of the cathedral at Cracow. Provost of Sandomir. Noted spiritual advisor. Friar Preacher, receiving the habi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ceslas-Odrowaz-1.jpg"
 searchAliases:

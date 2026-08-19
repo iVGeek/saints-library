@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Baptiste Guillaume"
 honorific: Blessed
-title: "Blessed Jean Baptiste Guillaume"
 summary: "Salesian brother, joining on 16 October 1785. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:

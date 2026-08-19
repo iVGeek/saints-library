@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidentius of Todi"
 honorific: Saint
-title: "Saint Fidentius of Todi"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Fidenzio of Todi"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Celestina Bottego"
 honorific: Venerable
-title: "Venerable Celestina Bottego"
 summary: "Founded the Xaverian Missionary Sisters, Society of Mary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Celestina-Bottego.jpg"
 birthYear: 1895

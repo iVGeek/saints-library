@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cristóbal González Carcedo"
 honorific: Blessed
-title: "Blessed Cristóbal González Carcedo"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

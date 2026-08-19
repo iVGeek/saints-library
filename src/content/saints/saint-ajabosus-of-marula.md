@@ -1,7 +1,6 @@
 ---
 name: "Saint Ajabosus of Marula"
 honorific: Saint
-title: "Saint Ajabosus of Marula"
 summary: "Martyr."
 searchAliases:
   - "Ajobosus"

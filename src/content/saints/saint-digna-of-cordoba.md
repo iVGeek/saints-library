@@ -1,7 +1,6 @@
 ---
 name: "Saint Digna of Cordoba"
 honorific: Saint
-title: "Saint Digna of Cordoba"
 summary: "Nun at the double monastery of T&aacute;banos. One of the first three martyrs of Cordoba, Spain, killed for their faith by order of the Moorish caliph."
 searchAliases:
   - "Degna"

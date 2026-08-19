@@ -1,7 +1,6 @@
 ---
 name: "Saint Maryáhb"
 honorific: Saint
-title: "Saint Maryáhb"
 summary: "Priest. Martyred in the persecutions of Shapur II."
 deathYear: 341
 died: "341 in Persia"

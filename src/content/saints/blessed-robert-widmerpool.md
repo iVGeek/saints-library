@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Widmerpool"
 honorific: Blessed
-title: "Blessed Robert Widmerpool"
 summary: "Robert studied in Oxford, England, and then worked as a tutor to the sons of the Earl of Northumberland. During the anti-Catholic persecutions of Queen Elizabeth I, Robert was imprisoned and executed for aiding a Catholic priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg"
 deathYear: 1588

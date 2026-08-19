@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gandulphus of Binasco"
 honorific: Blessed
-title: "Blessed Gandulphus of Binasco"
 summary: "Born to the nobility, a member of the wealthy and powerful Sacchi family. He joined the Franciscans while Saint Francis was still alive, and made his final vows c.1224. Priest. Father Gandulphus spent his life praying and preaching throughout Sicily. Founded the Franciscan conven"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gandulphus-of-Binasco.jpg"
 searchAliases:

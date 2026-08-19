@@ -1,7 +1,6 @@
 ---
 name: "Saint Potamiaena of Alexandria the Younger"
 honorific: Saint
-title: "Saint Potamiaena of Alexandria the Younger"
 summary: "Young Christian girl martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Alexandria, Egypt"

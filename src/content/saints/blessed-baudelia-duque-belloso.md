@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baudelia Duque Belloso"
 honorific: Blessed
-title: "Blessed Baudelia Duque Belloso"
 summary: "Member of the Franciscan Sisters of the Sacred Hearts. Martyred in the Spanish Civil War."
 searchAliases:
   - "Carlota of the Visitation"

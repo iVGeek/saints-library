@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaime Calatrava Romero"
 honorific: Blessed
-title: "Blessed Jaime Calatrava Romero"
 summary: "Layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Basila of Sirmium"
 honorific: Saint
-title: "Saint Basila of Sirmium"
 summary: "Martyr."
 searchAliases:
   - "Basilla"

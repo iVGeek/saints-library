@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurea of Paris"
 honorific: Saint
-title: "Saint Aurea of Paris"
 summary: "Immigrated from Syria to France. Nun. Served as abbess of Saint Martial in Paris, France for 33 years. Died with 160 of her sisters during a plague epidemic."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sainte_Aure.JPG"
 deathYear: 666

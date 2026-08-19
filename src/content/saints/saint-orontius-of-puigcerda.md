@@ -1,7 +1,6 @@
 ---
 name: "Saint Orontius of Puigcerda"
 honorific: Saint
-title: "Saint Orontius of Puigcerda"
 summary: "Brother of Saint Vincent. Missionary in the Pyrenees, working with Saint Vincent and Saint Victor of Puigcerda. Martyr."
 deathYear: 305
 born: "at Cimiez, France"

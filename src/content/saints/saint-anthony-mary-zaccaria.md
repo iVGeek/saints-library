@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony Mary Zaccaria"
 honorific: Saint
-title: "Saint Anthony Mary Zaccaria"
 summary: "Born to a patrician family. His father Lazzaro died when Anthony was two, and his mother, Antonia Pescorali, widowed at age 18, devoted herself to her son. He studied medicine at Padua, Italy, receiving his doctorate at age 22. Work as a physicians to the poor in Cremona, Italy,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Zaccaria.jpg"
 searchAliases:

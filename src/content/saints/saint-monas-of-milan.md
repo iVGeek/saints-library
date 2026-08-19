@@ -1,7 +1,6 @@
 ---
 name: "Saint Monas of Milan"
 honorific: Saint
-title: "Saint Monas of Milan"
 summary: "Bishop of Milan, Italy for 56 years, serving through many imperial Roman persecutions from 193 until his death."
 deathYear: 249
 died: "249 of natural causes"

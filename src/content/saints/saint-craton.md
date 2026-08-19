@@ -1,7 +1,6 @@
 ---
 name: "Saint Craton"
 honorific: Saint
-title: "Saint Craton"
 summary: "Professor of rhetoric and philosophy. Convert, brought to the faith by Saint Valentine of Terni. Martyred with his wife and family, none of whose names have survived."
 deathYear: 273
 died: "c.273 in Rome, Italy"

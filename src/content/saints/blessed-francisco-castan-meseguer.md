@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Castán Meseguer"
 honorific: Blessed
-title: "Blessed Francisco Castán Meseguer"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936

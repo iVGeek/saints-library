@@ -1,7 +1,6 @@
 ---
 name: "Saint Adausia of Rome"
 honorific: Saint
-title: "Saint Adausia of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Adavisa"

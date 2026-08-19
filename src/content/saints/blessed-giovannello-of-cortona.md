@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovannello of Cortona"
 honorific: Blessed
-title: "Blessed Giovannello of Cortona"
 summary: "Franciscan tertiary in Cortona, Italy in the late 13th and early 14th centuries."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Severinus the Hermit"
 honorific: Saint
-title: "Saint Severinus the Hermit"
 summary: "Hermit at and then near Paris, France. Lived in a walled up cell. Spiritual teacher of Saint Cloud."
 searchAliases:
   - "Severin"

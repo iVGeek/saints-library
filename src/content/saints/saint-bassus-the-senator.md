@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassus the Senator"
 honorific: Saint
-title: "Saint Bassus the Senator"
 summary: "Imperial Roman senator. During the persecutions of Diocletian he was exposed as a Christian. He was removed from office, arrested, tortured and martyred."
 died: "limbs hacked off and his body thrown into a pit to bleed to death"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anna the Prophetess"
 honorific: Saint
-title: "Saint Anna the Prophetess"
 summary: "Jewish, the daughter of Phanuel, tribe of Aser. Married at age fourteen; widowed at twenty-one. At age 72 she was charged with the care of the Blessed Virgin Mary at the Temple from her presentation there at age three until her betrothal to Saint Joseph. She was in attendance at"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rembrandt_Harmensz._van_Rijn_085_%28cropped%29.jpg/960px-Rembrandt_Harmensz._van_Rijn_085_%28cropped%29.jpg"
 born: "1st century BC"

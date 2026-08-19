@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentia of Agde"
 honorific: Saint
-title: "Saint Florentia of Agde"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Agde, France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Laetus of Orléans"
 honorific: Saint
-title: "Saint Laetus of Orléans"
 summary: "Monk from age 12. Priest. Spiritual advisor to Saint Leonard of Noblac."
 searchAliases:
   - "Lie"

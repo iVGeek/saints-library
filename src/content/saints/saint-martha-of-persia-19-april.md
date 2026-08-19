@@ -1,7 +1,6 @@
 ---
 name: "Saint Martha of Persia"
 honorific: Saint
-title: "Saint Martha of Persia"
 summary: "Daughter of Saint Pusicio. Nun. Martyred in the persecutions of Shapur II."
 deathYear: 341
 died: "Easter, 341 in Persia"

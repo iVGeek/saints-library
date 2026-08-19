@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of North Africa"
 honorific: Saint
-title: "Saint Paul of North Africa"
 summary: "One of a group of 19 Christians martyred together in the persecutions of the Arian Vandal King Hunneric."
 deathYear: 430
 died: "c.430"

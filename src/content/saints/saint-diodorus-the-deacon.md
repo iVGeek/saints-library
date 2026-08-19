@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus the Deacon"
 honorific: Saint
-title: "Saint Diodorus the Deacon"
 summary: "Deacon. Martyred in the persecutions of Diocletian."
 died: "in Aphrodisia, Caria, Asia Minor"
 deathPlace: "Caria, Asia Minor"

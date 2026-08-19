@@ -1,7 +1,6 @@
 ---
 name: "Saint Evaristus of Crete"
 honorific: Saint
-title: "Saint Evaristus of Crete"
 summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 region: "England"
 feastDay:

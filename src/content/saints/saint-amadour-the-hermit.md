@@ -1,7 +1,6 @@
 ---
 name: "Saint Amadour the Hermit"
 honorific: Saint
-title: "Saint Amadour the Hermit"
 searchAliases:
   - "Amadour of Lucca"
   - "Amadour of Rocamadour"

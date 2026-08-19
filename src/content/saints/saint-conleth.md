@@ -1,7 +1,6 @@
 ---
 name: "Saint Conleth"
 honorific: Saint
-title: "Saint Conleth"
 summary: "Hermit in Old Connell on the River Liffey in Ireland. Friend of Saint Brigid of Ireland for whom he fashioned several chalices, crosses and other items in metal for her convent. Spritiual director of the nuns at Kildare, Ireland. Bishop of Kildare. Skillful metal worker, manuscri"
 birthYear: 450
 deathYear: 519

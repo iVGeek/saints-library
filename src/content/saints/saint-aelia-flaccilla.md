@@ -1,7 +1,6 @@
 ---
 name: "Saint Aelia Flaccilla"
 honorific: Saint
-title: "Saint Aelia Flaccilla"
 summary: "Her family was of Spanish descent, and she may have been the daughter of Claudius Antonius, Prefect of Gaul. Married to Emperor Theodosius the Great c.376. Mother of Arcadius, roman emperor of the east, and Honorius, roman emperor of the west; a daughter, Pulcheria, died in child"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bust_of_Aelia_Flaccilla_%28cropped%29.jpg/960px-Bust_of_Aelia_Flaccilla_%28cropped%29.jpg"
 searchAliases:

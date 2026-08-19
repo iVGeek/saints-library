@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Mercader Rendé"
 honorific: Blessed
-title: "Blessed Francesc Mercader Rendé"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Mercader-Rendé.jpg"
 birthYear: 1881

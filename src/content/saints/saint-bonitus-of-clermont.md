@@ -1,7 +1,6 @@
 ---
 name: "Saint Bonitus of Clermont"
 honorific: Saint
-title: "Saint Bonitus of Clermont"
 summary: "Chancellor to King Sigebert III of Austrasia. Appointed governor of Marseilles by King Thierry III in 667. Bishop of Clermont, France in 689. He resigned the see when doubts arose about the validity of his election. Bonitus spent his later years as a holy hermit at the Benedictin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bonitus.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leo Sukeemon"
 honorific: Blessed
-title: "Blessed Leo Sukeemon"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr."
 deathYear: 1622
 born: "Japan"

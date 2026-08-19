@@ -1,7 +1,6 @@
 ---
 name: "Blessed Inés Zudaire Galdeano"
 honorific: Blessed
-title: "Blessed Inés Zudaire Galdeano"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Inés-Zudaire-Galdeano.jpg"
 searchAliases:

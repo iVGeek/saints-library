@@ -1,7 +1,6 @@
 ---
 name: "Saint Pamphilus of Capua"
 honorific: Saint
-title: "Saint Pamphilus of Capua"
 summary: "Bishop of Capua, Italy."
 deathYear: 400
 born: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bedrich Bachstein"
 honorific: Blessed
-title: "Blessed Bedrich Bachstein"
 summary: "Franciscan Friar Minor priest. He served as novice master, preacher and church vicar of his house. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-bedrich-bachstein.jpg"
 searchAliases:

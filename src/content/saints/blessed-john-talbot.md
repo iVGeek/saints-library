@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Talbot"
 honorific: Blessed
-title: "Blessed John Talbot"
 summary: "Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr."
 deathYear: 1600
 born: "in Thornton-le-Street, North Yorkshire, England"

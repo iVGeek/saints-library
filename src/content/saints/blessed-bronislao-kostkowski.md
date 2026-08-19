@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bronislao Kostkowski"
 honorific: Blessed
-title: "Blessed Bronislao Kostkowski"
 summary: "Seminarian in the diocese of Wlaoclawek, Poland. Arrested by Nazi officials in 1939 along with his seminary teachers, and lodged in the concentration camp at Dachau, Bavaria, Germany, which had a special section for Catholic clergy. He was offered his freedom if he would renounce"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bronislao-Kostkowski.jpg"
 searchAliases:

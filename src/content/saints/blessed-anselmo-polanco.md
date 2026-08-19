@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anselmo Polanco"
 honorific: Blessed
-title: "Blessed Anselmo Polanco"
 summary: "Son of a farmer. Joined the Augustinian Order at Valladolid, Spain in 1896 at age 15. Studied at the monastery of Santa Maria of La Vid. Ordained in 1904. Taught theology in seminary. Prior in 1922. Provincial councilor of his Order in the Philippines, responsible for missionary"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anselmo-Polanco.jpg"
 searchAliases:

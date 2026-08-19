@@ -1,7 +1,6 @@
 ---
 name: "Saint Gervinus"
 honorific: Saint
-title: "Saint Gervinus"
 summary: "Educated at episcopal school at Rheims, France. Benedictine. Canon of Rheims. Abbot. Friend of Saint Edward the Confessor. Great preacher, and very devoted to the Divine Office. Collected ancient Greek and Latin manuscripts. Leper."
 deathYear: 1075
 born: "at Rheims, France"

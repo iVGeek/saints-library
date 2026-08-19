@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Mendibelzúa Ocerín"
 honorific: Blessed
-title: "Blessed Juan Mendibelzúa Ocerín"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

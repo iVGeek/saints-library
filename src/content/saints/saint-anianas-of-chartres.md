@@ -1,7 +1,6 @@
 ---
 name: "Saint Anianas of Chartres"
 honorific: Saint
-title: "Saint Anianas of Chartres"
 summary: "Fifth century bishop of Chartres, France."
 searchAliases:
   - "Agnan of Chartres"

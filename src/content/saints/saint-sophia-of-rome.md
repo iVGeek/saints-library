@@ -1,7 +1,6 @@
 ---
 name: "Saint Sophia of Rome"
 honorific: Saint
-title: "Saint Sophia of Rome"
 summary: "Young woman martyred in the persecutions of Diocletian."
 searchAliases:
   - "Kalte Sophia"

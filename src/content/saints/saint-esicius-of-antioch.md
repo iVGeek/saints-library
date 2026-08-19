@@ -1,7 +1,6 @@
 ---
 name: "Saint Esicius of Antioch"
 honorific: Saint
-title: "Saint Esicius of Antioch"
 summary: "Martyr."
 searchAliases:
   - "Isicius"

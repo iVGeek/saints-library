@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jan Chrysostom Zavrel"
 honorific: Blessed
-title: "Blessed Jan Chrysostom Zavrel"
 summary: "Dominican friar and priest in the Congregation of Saint Sabina in Prague (in modern Czech Republic) with the name Father Chrysostom. In May 1776 he joined the Cistercian Congregation of Casamari, making his profession on 6 June 1777, and taking the name Father Domenico Maria. He"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Chrysostom-Zavrel.jpg"
 searchAliases:

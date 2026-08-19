@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Hattori Jingoro"
 honorific: Blessed
-title: "Blessed Ioannes Hattori Jingoro"
 summary: "Married layman of the diocese of Fukuoka, Japan. Father of Blessed Petrus Hattori. Martyr."
 birthYear: 1570
 deathYear: 1609

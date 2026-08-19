@@ -1,7 +1,6 @@
 ---
 name: "Saint Edith of Tamworth"
 honorific: Saint
-title: "Saint Edith of Tamworth"
 summary: "Sister of King Athelstan. Married the viking king Sihtric of Northumbria at York in 925. Widowed in 926. Benedictine nun at Polesworth, Warwickshire, England. Abbess of Polesworth."
 searchAliases:
   - "Edith of Polesworth"

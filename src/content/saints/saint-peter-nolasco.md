@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Nolasco"
 honorific: Saint
-title: "Saint Peter Nolasco"
 summary: "Born to the French nobility. Grew up a pious youth. His father died when Peter was fifteen, and he inherited a substantial fortune. When he came of age, he gave away his possessions and moved to Barcelona, Spain to avoid the Albigensian heretics. He later took part in the Crusade"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/StPeterNolasco.jpg"
 searchAliases:

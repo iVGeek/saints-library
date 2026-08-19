@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emiliano Pascual Abad"
 honorific: Blessed
-title: "Blessed Emiliano Pascual Abad"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

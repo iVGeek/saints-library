@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Cano García"
 honorific: Blessed
-title: "Blessed José Cano García"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

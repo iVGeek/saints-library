@@ -1,7 +1,6 @@
 ---
 name: "Saint Polyanthus"
 honorific: Saint
-title: "Saint Polyanthus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

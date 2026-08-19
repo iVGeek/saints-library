@@ -1,7 +1,6 @@
 ---
 name: "Blessed Balbina Rodríguez Higuera"
 honorific: Blessed
-title: "Blessed Balbina Rodríguez Higuera"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María of Saint Joseph"

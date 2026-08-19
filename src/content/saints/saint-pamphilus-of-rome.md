@@ -1,7 +1,6 @@
 ---
 name: "Saint Pamphilus of Rome"
 honorific: Saint
-title: "Saint Pamphilus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Panfilo"

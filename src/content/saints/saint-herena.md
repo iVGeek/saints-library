@@ -1,7 +1,6 @@
 ---
 name: "Saint Herena the Martyr"
 honorific: Saint
-title: "Saint Herena the Martyr"
 summary: "One of a group of 3rd-century Christians martyred in North Africa in the persecutions of Decius."
 region: "Africa"
 feastDay:

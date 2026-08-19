@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Perfecto Fernández Aparicio"
 honorific: Blessed
-title: "Blessed Antonio Perfecto Fernández Aparicio"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Pozoblanco community. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

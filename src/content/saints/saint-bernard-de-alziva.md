@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernard de Alziva"
 honorific: Saint
-title: "Saint Bernard de Alziva"
 summary: "Convert, with his two sisters, from Islam to Christianity; they were all martyred for this choice."
 deathYear: 1180
 died: "1180"

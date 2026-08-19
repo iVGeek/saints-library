@@ -1,7 +1,6 @@
 ---
 name: "Saint Guy of Pomposa"
 honorific: Saint
-title: "Saint Guy of Pomposa"
 summary: "Known in his youth for being meticulous about his clothing and appearance - until the day he realized it was simply vanity and traded his fine clothes for a beggar's rags. Pilgrim to Rome, Italy. Spiritual student for three years of a hermit name Martin on an island in the River"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guy-of-Pomposa.jpg"
 searchAliases:

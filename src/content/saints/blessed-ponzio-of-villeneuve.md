@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ponzio of Villeneuve"
 honorific: Blessed
-title: "Blessed Ponzio of Villeneuve"
 summary: "Benedictine monk. Abbot of the abbey of Sant'André in Villeneuve-lès-Avignon, France from 1063 to 1087. His brother monks included his blood brother and his father. The only biography of him has little biography, but a long list of miracles he performed."
 searchAliases:
   - "Ponce"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Lanz Palanca"
 honorific: Blessed
-title: "Blessed Juan Lanz Palanca"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Crisólogo"

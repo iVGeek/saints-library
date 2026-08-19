@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus the Potter"
 honorific: Saint
-title: "Saint Theophilus the Potter"
 summary: "Potter. Martyred in the persecutions of Decius."
 searchAliases:
   - "Theophilos"

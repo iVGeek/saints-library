@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Tomachi"
 honorific: Blessed
-title: "Blessed Michaël Tomachi"
 summary: "Teenaged son of Blessed Ioannes Tomachi in the archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Michael Tomaki"

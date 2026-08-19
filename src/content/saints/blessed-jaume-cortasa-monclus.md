@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Cortasa Monclús"
 honorific: Blessed
-title: "Blessed Jaume Cortasa Monclús"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pere"

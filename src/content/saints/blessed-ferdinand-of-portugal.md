@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ferdinand of Portugal"
 honorific: Blessed
-title: "Blessed Ferdinand of Portugal"
 summary: "A prince, the son of King John I of Portugal. He grew up in the royal court, but spent his free time in prayer and helping the poor. Though a layman, he was offered a cardinalate by Pope Eugene IV; he declined. In 1437, with his brother Henry, he commanded an expedition to Morocc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinand-of-Portugal.jpg"
 searchAliases:

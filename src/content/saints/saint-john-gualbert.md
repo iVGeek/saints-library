@@ -1,7 +1,6 @@
 ---
 name: "Saint John Gualbert"
 honorific: Saint
-title: "Saint John Gualbert"
 summary: " Aga Florentine nobility; part of the Visdomini family. His brother Hugh was murdered; John tracked down the killer, finding him on a Good Friday. John received a vision of Christ on the Cross, which he took as a sign to pardon the killer, and convert to Christianity. He did both."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Trinita%2C_Neri_di_bicci%2C_San_giovanni_gualberto_%28dettaglio%292.jpg/960px-Santa_Trinita%2C_Neri_di_bicci%2C_San_giovanni_gualberto_%28dettaglio%292.jpg"
 searchAliases:

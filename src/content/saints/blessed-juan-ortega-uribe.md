@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Ortega Uribe"
 honorific: Blessed
-title: "Blessed Juan Ortega Uribe"
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

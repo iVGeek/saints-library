@@ -1,7 +1,6 @@
 ---
 name: "Venerable Marcello Candia"
 honorific: Venerable
-title: "Venerable Marcello Candia"
 summary: "One of five children born to Camillo and Louise; his father owned of several chemical plants, and the family was considered upper middle class. Marcello earned a doctorate in chemistry in 1939, a pharmacist degree in 1943, served as physician to lepers in Brazil where he lived in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Marcello_Candia.jpg/960px-Marcello_Candia.jpg"
 birthYear: 1916

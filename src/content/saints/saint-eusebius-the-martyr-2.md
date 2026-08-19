@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius the Martyr"
 honorific: Saint
-title: "Saint Eusebius the Martyr"
 summary: "One of a group of ten martyrs who died in a group in North Africa."
 region: "Africa"
 feastDay:

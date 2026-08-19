@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Lenée épouse Lepage de Varancé"
 honorific: Blessed
-title: "Blessed Marie Lenée épouse Lepage de Varancé"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1729
 deathYear: 1794

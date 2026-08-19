@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Jules Bonnaud"
 honorific: Blessed
-title: "Blessed Jacques-Jules Bonnaud"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1740
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Boris of Kiev"
 honorific: Saint
-title: "Saint Boris of Kiev"
 summary: "Son of Saint Vladimir, Duke of Muscovy. Grandson of Saint Olga of Kiev. Brother of Saint Gleb. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gleb-and-Saint-Boris.jpg"
 searchAliases:

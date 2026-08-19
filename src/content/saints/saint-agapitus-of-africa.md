@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapitus of Africa"
 honorific: Saint
-title: "Saint Agapitus of Africa"
 summary: "Martyr."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"

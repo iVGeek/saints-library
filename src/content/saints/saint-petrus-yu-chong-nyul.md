@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Yu Chong-nyul"
 honorific: Venerable
-title: "Saint Petrus Yu Chong-nyul"
 summary: "Married layman and father in the apostolic vicariate of Korea. While reading the Bible to a group of friends at the home of a catechist one night, he was arrested, imprisoned and murdered for the offense of teaching Christianity. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

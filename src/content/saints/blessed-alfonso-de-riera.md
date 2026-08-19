@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfonso de Riera"
 honorific: Blessed
-title: "Blessed Alfonso de Riera"
 summary: "Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved Christians."
 image: "http://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg"
 region: "France"

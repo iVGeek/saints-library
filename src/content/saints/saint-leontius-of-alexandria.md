@@ -1,7 +1,6 @@
 ---
 name: "Saint Leontius of Alexandria"
 honorific: Saint
-title: "Saint Leontius of Alexandria"
 summary: "Brother of Saint Sarapion of Alexandria. Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "drowned c.300 at Alexandria, Egypt"

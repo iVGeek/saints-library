@@ -1,7 +1,6 @@
 ---
 name: "Saint Ensfrid of Cologne"
 honorific: Saint
-title: "Saint Ensfrid of Cologne"
 summary: "Parish priest in Siegburg and Friedburg in Germany. Dean of the church of Saint Andrew in Cologne, Germany. Noted for his works of charity including literally giving the shirt off his back to beggars."
 searchAliases:
   - "Enfrid"

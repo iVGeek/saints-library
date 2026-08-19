@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodotus of Libya"
 honorific: Saint
-title: "Saint Theodotus of Libya"
 summary: "Listed on ancient menologies, but no details about him have survived."
 feastDay:
   month: 7

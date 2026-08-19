@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodosius the Cenobiarch"
 honorific: Saint
-title: "Saint Theodosius the Cenobiarch"
 summary: "Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon recognized him as a holy man and leader, and invite"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Theodosius_the_Cenobiarch.jpg"
 searchAliases:

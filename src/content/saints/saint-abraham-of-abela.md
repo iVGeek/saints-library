@@ -1,7 +1,6 @@
 ---
 name: "Saint Abraham of Abela"
 honorific: Saint
-title: "Saint Abraham of Abela"
 summary: "Bishop of Abela, Assyria (in modern Iraq). Martyred in the persecutions of King Sapor II of Persia for refusing to worship the sun."
 searchAliases:
   - "Abraham of Arbela"

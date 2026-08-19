@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena Hayashida"
 honorific: Blessed
-title: "Blessed Magdalena Hayashida"
 summary: "Young lay woman in the archdiocese of Nagasaki, Japan. Daughter of Blessed Leo Hayashida Sukeemon and Blessed Martha Hayashida. One of the Martyrs of Arima."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg"
 birthYear: 1593

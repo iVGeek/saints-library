@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Milan"
 honorific: Saint
-title: "Saint Faustus of Milan"
 summary: "Born to the wealthy nobility, the son of Philip. Soldier. Martyred in the persecutions of Commodus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fausto-of-Milan.jpg"
 deathYear: 190

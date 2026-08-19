@@ -1,7 +1,6 @@
 ---
 name: "Saint Salomon of Cordoba"
 honorific: Saint
-title: "Saint Salomon of Cordoba"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Salomone"

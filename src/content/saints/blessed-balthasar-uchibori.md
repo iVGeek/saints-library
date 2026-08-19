@@ -1,7 +1,6 @@
 ---
 name: "Blessed Balthasar Uchibori"
 honorific: Blessed
-title: "Blessed Balthasar Uchibori"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Antonius Uchibori and Blessed Ignatius Uchibori."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"

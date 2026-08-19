@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Saragossa"
 honorific: Saint
-title: "Saint Vincent of Saragossa"
 summary: "Friend of Saint Valerius of Saragossa in Spain, and served as his deacon. Imprisoned and tortured in Valencia, Spain for his faith during the persecutions of Diocletian; part of his time was spent being burned on a gridiron. While in prison, he converted his jailer. Was finally o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vicente_de_Zaragoza_by_Tom%C3%A1s_Giner%2C_1462%E2%80%931466.jpg/960px-Vicente_de_Zaragoza_by_Tom%C3%A1s_Giner%2C_1462%E2%80%931466.jpg"
 searchAliases:

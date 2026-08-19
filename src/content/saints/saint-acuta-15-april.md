@@ -1,7 +1,6 @@
 ---
 name: "Saint Acuta of Mesopotamia"
 honorific: Saint
-title: "Saint Acuta of Mesopotamia"
 summary: "Martyred in Mesopotamia. No other information has survived."
 feastDay:
   month: 4

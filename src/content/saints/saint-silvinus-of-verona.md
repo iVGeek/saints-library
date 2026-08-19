@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvinus of Verona"
 honorific: Saint
-title: "Saint Silvinus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Silvino"

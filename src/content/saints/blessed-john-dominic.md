@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Dominici"
 honorific: Blessed
-title: "Blessed Giovanni Dominici"
 summary: "He had a humble background, little education, and a tendency to stammer and stutter, but John had a great memory, great drive to improve, and became a great theologian and preacher. He spent much of his youth in or around the nearby Dominican church of Santa Maria Novella. Though"
 image: "http://catholicsaints.info/wp-content/uploads/John-Dominic.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fructus of Rome"
 honorific: Saint
-title: "Saint Fructus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Taziano of Claudiopolis"
 honorific: Saint
-title: "Saint Taziano of Claudiopolis"
 summary: "Martyr."
 searchAliases:
   - "Tatian"

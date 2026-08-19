@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Antonia Vergara Melgar de Ortega"
 honorific: Blessed
-title: "Blessed María Antonia Vergara Melgar de Ortega"
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936

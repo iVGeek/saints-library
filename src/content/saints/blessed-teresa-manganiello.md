@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teresa Manganiello"
 honorific: Blessed
-title: "Blessed Teresa Manganiello"
 summary: "Born to a farm family. Lifelong lay woman in the Diocese of Benevento, Italy. She was strongly drawn to the religious life, and became a Secular Franciscan Tertiary. Having received the blessing of Pope Blessed Pius IX for her project, Teresa was in the process of forming a new c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Manganiello.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitiva of Rome"
 honorific: Saint
-title: "Saint Primitiva of Rome"
 summary: "Martyr."
 searchAliases:
   - "Primitia"

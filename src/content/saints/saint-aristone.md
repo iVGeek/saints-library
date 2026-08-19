@@ -1,7 +1,6 @@
 ---
 name: "Saint Aristone"
 honorific: Saint
-title: "Saint Aristone"
 summary: "Martyr."
 died: "Porto Romano, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Rivera y Rivera"
 honorific: Blessed
-title: "Blessed Pedro Rivera y Rivera"
 summary: "Candido joined the Franciscan Friars Minor Conventual, taking the name Pedro, and making his novitiate in Granollers, Spain. He studied theology in Osimo, Italy, made his solemn vows as a Franciscan in Rome, Italy in 1933, and was ordained a priest in 1935. Returning to Spain, he"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Rivera.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis Alexander Alphonse Brisson"
 honorific: Blessed
-title: "Blessed Louis Alexander Alphonse Brisson"
 summary: "The only child of Toussaint and Savine Brisson. Educated by a local priest who had a large library; Louis read everything, but was especially interested in science. Seminarian in Troyes, France. Ordained on 19 December 1840. Teacher at the Visitation school in Troyes. Chaplain to"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-louis-alexander-alphonse-brisson/venerable-louis-alexander-alphonse-brisson.jpg"
 searchAliases:

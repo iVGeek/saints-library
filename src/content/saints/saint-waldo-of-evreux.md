@@ -1,7 +1,6 @@
 ---
 name: "Saint Waldo of Evreux"
 honorific: Saint
-title: "Saint Waldo of Evreux"
 summary: "Seventh century bishop of Evreux, France. In late life he retired to live as a hermit."
 searchAliases:
   - "Gaud"

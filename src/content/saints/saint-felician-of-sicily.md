@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Sicily"
 honorific: Saint
-title: "Saint Felician of Sicily"
 summary: "Martyr."
 searchAliases:
   - "Feliciano"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paternus of Wales"
 honorific: Saint
-title: "Saint Paternus of Wales"
 summary: "Helped found the monastery of Llanbadarn Fawr in Wales where he served as abbot. Noted preacher in the area around Aberystwyth, Wales."
 image: "http://catholicsaints.info/wp-content/uploads/Patern-of-Wales.jpg"
 searchAliases:

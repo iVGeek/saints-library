@@ -1,7 +1,6 @@
 ---
 name: "Saint Joannicus of Mount Olympus"
 honorific: Saint
-title: "Saint Joannicus of Mount Olympus"
 summary: " A friend who had become a monk led him to the faith. At age 40, Joannicus retired from the military and the A swineherd in his youth, and a lazy one at that. Professional soldier in the Byzantine army for 20 years, and a dissolute one at that. Fought in wars against the Bulgars."
 image: "http://catholicsaints.info/wp-content/gallery/saint-joannicus-of-mount-olympus/saint-joannicus-of-mount-olympus.jpg"
 searchAliases:

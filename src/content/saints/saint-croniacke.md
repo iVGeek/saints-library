@@ -1,7 +1,6 @@
 ---
 name: "Saint Croniacke"
 honorific: Saint
-title: "Saint Croniacke"
 summary: "Benedictine monk in northern Scotland."
 searchAliases:
   - "Cro-niacke"

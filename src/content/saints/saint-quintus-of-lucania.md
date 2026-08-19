@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintus of Lucania"
 honorific: Saint
-title: "Saint Quintus of Lucania"
 summary: "Martyr."
 died: "at Lucania, Italy"
 deathPlace: "Italy"

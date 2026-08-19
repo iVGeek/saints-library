@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertrand of Aquileia"
 honorific: Saint
-title: "Saint Bertrand of Aquileia"
 summary: "Studied civil and canon law at the University of Toulouse. Priest. Dean of the cathedral chapter of Angouleme, France in 1316. Canon of Saint Felice in Toulouse, France in 1318. Archdeacon of Noyon, France. Papal chaplain. Taught law at the University of Toulouse. Worked for the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bertrand-of-Aquileia1.jpg"
 searchAliases:

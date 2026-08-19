@@ -1,7 +1,6 @@
 ---
 name: "Saint Camillus of Lellis"
 honorific: Saint
-title: "Saint Camillus of Lellis"
 summary: "Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large individual, perhaps as tall as 6'6″ (2 metres"
 image: "http://catholicsaints.info/wp-content/gallery/saint-camillus-of-lellis/saint-camillus-of-lellis-01.jpg"
 searchAliases:

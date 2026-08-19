@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnino of Thessalonica"
 honorific: Saint
-title: "Saint Domnino of Thessalonica"
 summary: "Martyr."
 searchAliases:
   - "Donate"

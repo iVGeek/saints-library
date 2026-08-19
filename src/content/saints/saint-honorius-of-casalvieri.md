@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius of Casalvieri"
 honorific: Saint
-title: "Saint Honorius of Casalvieri"
 summary: "Imperial Roman soldier executed for refusing to repudiate Christianity. Martyr."
 searchAliases:
   - "Onorio"

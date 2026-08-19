@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miqael of Ulompo"
 honorific: Blessed
-title: "Blessed Miqael of Ulompo"
 summary: "Sixth-century monk who worked with Saint John Zedazneli to evangelize Georgia."
 searchAliases:
   - "Michael Ulumbijski"

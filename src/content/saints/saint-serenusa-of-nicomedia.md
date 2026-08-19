@@ -1,7 +1,6 @@
 ---
 name: "Saint Serenusa of Nicomedia"
 honorific: Saint
-title: "Saint Serenusa of Nicomedia"
 summary: "Martyred in the persecutions of the Arian Emperor Constantius."
 deathYear: 349
 died: "349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"

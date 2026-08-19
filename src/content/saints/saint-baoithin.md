@@ -1,7 +1,6 @@
 ---
 name: "Saint Baoithin"
 honorific: Saint
-title: "Saint Baoithin"
 summary: "Son of Cuana. No other information available."
 region: "Ireland"
 feastDay:

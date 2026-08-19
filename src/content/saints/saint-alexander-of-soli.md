@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Soli"
 honorific: Saint
-title: "Saint Alexander of Soli"
 summary: "Martyr."
 region: "England"
 feastDay:

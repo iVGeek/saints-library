@@ -1,7 +1,6 @@
 ---
 name: "Saint Adalgott of Einsiedeln"
 honorific: Saint
-title: "Saint Adalgott of Einsiedeln"
 summary: "Monk at Einsiedeln Abbey. Abbot of Dissentis Abbey in 1012."
 searchAliases:
   - "Adalgott of Dissentis"

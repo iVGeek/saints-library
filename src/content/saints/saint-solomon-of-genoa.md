@@ -1,7 +1,6 @@
 ---
 name: "Saint Solomon of Genoa"
 honorific: Saint
-title: "Saint Solomon of Genoa"
 summary: "First bishop of Genoa, Italy."
 searchAliases:
   - "Salomon"

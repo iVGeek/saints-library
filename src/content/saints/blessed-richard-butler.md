@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Butler"
 honorific: Blessed
-title: "Blessed Richard Butler"
 summary: "Franciscan Friar Minor priest. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"

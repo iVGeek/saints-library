@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph-Marie Gros"
 honorific: Blessed
-title: "Blessed Joseph-Marie Gros"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupulo of Capua"
 honorific: Saint
-title: "Saint Lupulo of Capua"
 summary: "Martyr."
 died: "Capua, Campania, Italy"
 deathPlace: "Campania, Italy"

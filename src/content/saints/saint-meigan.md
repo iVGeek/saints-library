@@ -1,7 +1,6 @@
 ---
 name: "Saint Meigan"
 honorific: Saint
-title: "Saint Meigan"
 summary: "Monk at Cor Beuno, Carnarvon, Wales."
 searchAliases:
   - "Megan"

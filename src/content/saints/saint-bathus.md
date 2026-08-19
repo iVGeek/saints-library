@@ -1,7 +1,6 @@
 ---
 name: "Saint Bathus"
 honorific: Saint
-title: "Saint Bathus"
 summary: "Martyred along with his wife, two sons and two daughters for their faith."
 deathYear: 370
 died: "burned to death in their church c.370 somewhere in the Balkans"

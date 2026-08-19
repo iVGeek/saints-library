@@ -1,7 +1,6 @@
 ---
 name: "Saint Cursicus of Africa"
 honorific: Saint
-title: "Saint Cursicus of Africa"
 summary: "Priest. Martyr."
 searchAliases:
   - "Caius"

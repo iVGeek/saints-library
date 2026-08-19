@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Pacheco"
 honorific: Blessed
-title: "Blessed Francisco Pacheco"
 summary: "Born to the Portugese nobility. Joined the Jesuit in 1592. Priest. Missionary to the Far East in 1598, first in India, then Macao, and finally in 1604 in Japan. He returned to Macao to direct the Jesuit Institute, then back to Japan, and then was exiled in the first wave of an an"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vel%C3%A1zquez_-_Caballero%2C_Francisco_Pacheco_%28Museo_del_Prado%2C_c._1622%29.jpg/960px-Vel%C3%A1zquez_-_Caballero%2C_Francisco_Pacheco_%28Museo_del_Prado%2C_c._1622%29.jpg"
 searchAliases:

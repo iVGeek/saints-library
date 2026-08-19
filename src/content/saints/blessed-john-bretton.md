@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Bretton"
 honorific: Blessed
-title: "Blessed John Bretton"
 summary: "Married layman. Father. Martyred in the persecutions of Queen Elizabeth I for remaining loyal to the Catholic Church."
 searchAliases:
   - "John Britton"

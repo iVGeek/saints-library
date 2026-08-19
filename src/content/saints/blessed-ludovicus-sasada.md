@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Sasada"
 honorific: Blessed
-title: "Blessed Ludovicus Sasada"
 summary: "Member of the Franciscan Friars Minor (Observants). Priest. Martyr."
 deathYear: 1624
 born: "Tokyo, Japan"

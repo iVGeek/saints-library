@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatian of Rome"
 honorific: Saint
-title: "Saint Rogatian of Rome"
 summary: "Two Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

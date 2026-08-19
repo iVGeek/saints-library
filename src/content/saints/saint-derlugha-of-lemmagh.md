@@ -1,7 +1,6 @@
 ---
 name: "Saint Derlugha of Lemmagh"
 honorific: Saint
-title: "Saint Derlugha of Lemmagh"
 summary: "Nun."
 searchAliases:
   - "Derlugha of Lawyn"

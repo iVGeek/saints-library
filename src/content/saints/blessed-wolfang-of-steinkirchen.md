@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wolfang of Steinkirchen"
 honorific: Blessed
-title: "Blessed Wolfang of Steinkirchen"
 summary: "Franciscan priest, noted for his charismatic preaching. Martyred by invading Turks for refusing to renounce Christianity."
 deathYear: 1529
 died: "beheaded on 24 September 1529 in Enzersdorf, Austria"

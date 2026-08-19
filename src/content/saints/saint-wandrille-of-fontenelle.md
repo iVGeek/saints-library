@@ -1,7 +1,6 @@
 ---
 name: "Saint Wandrille of Fontenelle"
 honorific: Saint
-title: "Saint Wandrille of Fontenelle"
 summary: "Member of the court of King Dagobert I. Married. Pilgrim to Rome, Italy, his wife became a nun and Wandrille became a monk at Montfaucon, Switzerland. Spiritual student of Saint Balderic. Hermit at Saint-Ursanne, Jura, France. Monk in Bobbio, Italy. Priest, ordained by Saint Ouen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wandrille-of-Fontenelle.jpg"
 searchAliases:

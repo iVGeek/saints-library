@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Avogadro of Vercelli"
 honorific: Blessed
-title: "Blessed Giovanni Avogadro of Vercelli"
 summary: "15th-century Augustinian canon noted for his piety and humility."
 deathYear: 1497
 born: "mid-15th century Italy"

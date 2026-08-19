@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Fausti"
 honorific: Blessed
-title: "Blessed Giovanni Fausti"
 summary: "Eldest of twelve brothers in his family. Studied at the Inter-Brescia seminary where he became friends with the future Pope Paul VI. Graduated from the Pontifical Gregorian University in Rome, Italy in 1922, and was ordained as a priest on 9 July 1922. Taught philosophy at the In"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gjon-Fausti.jpg"
 searchAliases:

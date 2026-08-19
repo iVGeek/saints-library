@@ -1,7 +1,6 @@
 ---
 name: "Saint Dagamondo of Condat"
 honorific: Saint
-title: "Saint Dagamondo of Condat"
 summary: "Monk. Ninth abbot of San Eugendo di Condat Abbey for nine years in the late 6th and early 7th centuries."
 born: "6th century"
 died: "7th century of natural causes"

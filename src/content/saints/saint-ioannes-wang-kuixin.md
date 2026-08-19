@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Wang Kuixin"
 honorific: Venerable
-title: "Saint Ioannes Wang Kuixin"
 summary: "Layman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

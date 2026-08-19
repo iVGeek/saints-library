@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrea Franchi"
 honorific: Blessed
-title: "Blessed Andrea Franchi"
 summary: "Studied at the Dominican convent of Santa Maria Novella in Pistoia, Italy as a boy, and joined the Dominicans there at age 14. Great preacher and evangelist. Prior of the Dominican houses in Pistoia, Lucca and Orvieto in Italy. Bishop of Pistoia, Italy in 1382; his ministry to th"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Blessed_andrea_franchi.png"
 birthYear: 1335

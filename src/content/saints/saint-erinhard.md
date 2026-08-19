@@ -1,7 +1,6 @@
 ---
 name: "Saint Erinhard"
 honorific: Saint
-title: "Saint Erinhard"
 summary: "Monk. Prior."
 deathYear: 739
 born: "Normandy, France"

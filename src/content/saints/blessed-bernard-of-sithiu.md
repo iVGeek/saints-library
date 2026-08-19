@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernard of Sithiu"
 honorific: Blessed
-title: "Blessed Bernard of Sithiu"
 summary: "To atone for the sins of his early life, including a murder, Bernard lived in complete poverty, wearing rags, eating whatever came to hand, if anything, travelling barefoot from one holy place to another, and living as a hermit between pilgrimages. In 1178 he settled near the abb"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Sithiu.jpg"
 searchAliases:

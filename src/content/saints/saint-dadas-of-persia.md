@@ -1,7 +1,6 @@
 ---
 name: "Saint Dadas of Persia"
 honorific: Saint
-title: "Saint Dadas of Persia"
 summary: "Persian noble. Related to King Shapur II. Married to Saint Casdoe. Martyred for refusing to deny Christianity during the persecution of Shapur II."
 searchAliases:
   - "Didas"

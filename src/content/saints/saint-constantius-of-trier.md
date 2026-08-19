@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantius of Trier"
 honorific: Saint
-title: "Saint Constantius of Trier"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 287
 died: "c.287 at Trier (in modern Germany)"

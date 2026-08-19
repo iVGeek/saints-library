@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Bologna"
 honorific: Saint
-title: "Saint Felix of Bologna"
 summary: "Spiritual student of and deacon for Saint Ambrose of Milan. Bishop of Bologna, Italy c.397."
 searchAliases:
   - "Felice"

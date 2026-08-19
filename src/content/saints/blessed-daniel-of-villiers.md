@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel of Villiers"
 honorific: Blessed
-title: "Blessed Daniel of Villiers"
 summary: "Soldier. Knight. Benedictine Cistercian monk. Cellarer of the great Cistercian abbey of Villiers in the Brabant region."
 died: "late 12th century of natural causes"
 feastDay:

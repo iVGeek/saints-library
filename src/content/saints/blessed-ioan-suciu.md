@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioan Suciu"
 honorific: Blessed
-title: "Blessed Ioan Suciu"
 summary: "Born into a family of Greek-Catholic priests. Studied at Sant'Atanasio and the Pontificium Institutum Internationale Angelicum in Rome, Italy. Ordained a priest in the Romanian Greek-Catholic Rite on 29 November 1931, and earned a doctorate in theology. Chosen auxiliary bishop of"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Ioan_Suciu_2019_stamp_of_Romania.jpg"
 birthYear: 1907

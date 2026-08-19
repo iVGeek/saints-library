@@ -1,7 +1,6 @@
 ---
 name: "Saint Paphnutius of Jerusalem"
 honorific: Saint
-title: "Saint Paphnutius of Jerusalem"
 summary: "Priest in Jerusalem. Martyr."
 died: "Jerusalem, date unknown"
 deathPlace: "date unknown"

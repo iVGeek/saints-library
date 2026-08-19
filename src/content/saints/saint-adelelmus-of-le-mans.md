@@ -1,7 +1,6 @@
 ---
 name: "Saint Adelelmus of Le Mans"
 honorific: Saint
-title: "Saint Adelelmus of Le Mans"
 summary: "Friend and spiritual student of a hermit named Albert around Le Mans, France. Spiritual student of Saint Bernard of Tiron on Chaussey in the Channel Islands, but he returned to live as a hermit with Albert. With help from the count of Beaumont, Adelelmus founded a monastery for m"
 image: "http://catholicsaints.info/wp-content/uploads/Adelelmus-of-Le-Mans.jpg"
 searchAliases:

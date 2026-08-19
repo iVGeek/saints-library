@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simon of Aulne"
 honorific: Blessed
-title: "Blessed Simon of Aulne"
 summary: "Born to nobility, related to the counts of Guelders. At age 16 he became a Cistercian lay brother at the Aulne Abbey in the diocese of Liege, Belgium. A mystic and visionary, known to fall into ecstasies during prayer. His reputation for holiness was such that Pope Innocent III s"
 birthYear: 1144
 deathYear: 1228

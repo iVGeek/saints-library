@@ -1,7 +1,6 @@
 ---
 name: "Saint Etheldritha"
 honorific: Saint
-title: "Saint Etheldritha"
 summary: "A princess, the daughter of King Offa of Mercia. Betrothed to Saint Ethelbert of East Anglia. After the murder of Ethelbert, Etheldritha moved to Croyland, England and lived as a Benedictine anchoress."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Etheldritha.jpg"
 searchAliases:

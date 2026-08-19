@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Saint Felix of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Felice"

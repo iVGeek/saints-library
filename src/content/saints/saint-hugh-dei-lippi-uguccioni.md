@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh dei Lippi-Uguccioni"
 honorific: Saint
-title: "Saint Hugh dei Lippi-Uguccioni"
 summary: "One of the Seven Founders of the Servants of Mary. Worked with Saint Philip Benizi in France and Germany. Vicar-general of the Servites in Germany for eight years."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Hugh-dei-Lippi-Uguccioni.jpg"
 searchAliases:

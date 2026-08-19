@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wlodzimierz Laskowski"
 honorific: Blessed
-title: "Blessed Wlodzimierz Laskowski"
 summary: "Parish priest in Lwówek, archdiocese of Poznan, Poland. Financial director of the Poznan seminary. Imprisoned, tortured and executed in the Nazis persecutions during the occupation of Poland in World War II. Martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Wlodzimierz-Laskowski.jpg"
 searchAliases:

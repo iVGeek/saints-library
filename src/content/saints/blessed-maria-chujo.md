@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Chujo"
 honorific: Blessed
-title: "Blessed Maria Chujo"
 summary: "Married lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Bungo (in modern Oita), Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Louis Gervais"
 honorific: Blessed
-title: "Blessed Pierre-Louis Gervais"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1753
 deathYear: 1792

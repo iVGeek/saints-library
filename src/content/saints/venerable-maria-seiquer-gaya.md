@@ -1,7 +1,6 @@
 ---
 name: "Venerable María Séiquer Gayá"
 honorific: Venerable
-title: "Venerable María Séiquer Gayá"
 summary: "Founded the Apostolic Sisters of Christ Crucified."
 birthYear: 1891
 deathYear: 1975

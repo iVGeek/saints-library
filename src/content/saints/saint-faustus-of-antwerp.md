@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Antwerp"
 honorific: Saint
-title: "Saint Faustus of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius of Nicea"
 honorific: Saint
-title: "Saint Antonius of Nicea"
 summary: "Martyr."
 died: "Nicea, Asia Minor (Turkey)"
 deathPlace: "Asia Minor (Turkey)"

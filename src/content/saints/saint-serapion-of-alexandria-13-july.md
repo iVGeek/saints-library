@@ -1,7 +1,6 @@
 ---
 name: "Saint Serapion of Alexandria"
 honorific: Saint
-title: "Saint Serapion of Alexandria"
 summary: "Martyred in the persecutions of emperor Septimius Severus and governor Aquila."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Serapion-of-Alexandria.jpg"
 searchAliases:

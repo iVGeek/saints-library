@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Gálvez Lozano"
 honorific: Blessed
-title: "Blessed Juan Gálvez Lozano"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

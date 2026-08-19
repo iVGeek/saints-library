@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michele Pío Fasoli"
 honorific: Blessed
-title: "Blessed Michele Pío Fasoli"
 summary: "Franciscan priest. Missionary to Ethiopia. In 1716 the emperor declared a persecution of Christians. Father Michele was arrested and ordered to renounce his faith; he refused. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Gondar.jpg"
 searchAliases:

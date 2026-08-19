@@ -1,7 +1,6 @@
 ---
 name: "Saint Disciola of Poitiers"
 honorific: Saint
-title: "Saint Disciola of Poitiers"
 summary: "Niece of Saint Salvius, bishop of Albi, France. Disciola became a nun at the abbey of Santa Croce in Poitiers, France in the 6th century where she was a spiritual student of Saint Agnes of Poitiers. Disciola became known for her humility, her personal piety, and her dedication of"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Disciola-of-Poitiers.jpg"
 deathYear: 583

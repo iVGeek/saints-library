@@ -1,7 +1,6 @@
 ---
 name: "Saint Aventinus of Larboust"
 honorific: Saint
-title: "Saint Aventinus of Larboust"
 summary: "Hermit in the Larboust valley in the Pyrenees, part of the border region between modern France and Spain. Martyred by Saracens."
 searchAliases:
   - "Aventinus of Bagnéres"

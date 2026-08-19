@@ -1,7 +1,6 @@
 ---
 name: "Saint Abibas"
 honorific: Saint
-title: "Saint Abibas"
 summary: "Born Jewish, the second son of Gamaliel, a member of the Sanhedrin, and a teacher of Saint Paul the Apostle. Convert to Christianity."
 searchAliases:
   - "Abibo"

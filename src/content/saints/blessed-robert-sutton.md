@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Sutton"
 honorific: Blessed
-title: "Blessed Robert Sutton"
 summary: "Layman martyr."
 deathYear: 1588
 born: "Kegworth, Leicestershire, England"

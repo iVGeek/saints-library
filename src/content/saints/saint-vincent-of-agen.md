@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Agen"
 honorific: Saint
-title: "Saint Vincent of Agen"
 summary: "Deacon and preacher. Martyred by pagans as a sacrifice to a sun god."
 searchAliases:
   - "Vincenzo di Aquitania"

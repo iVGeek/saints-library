@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jožefa Bojanc"
 honorific: Blessed
-title: "Blessed Jožefa Bojanc"
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
 searchAliases:
   - "Sister Marija Krizina"

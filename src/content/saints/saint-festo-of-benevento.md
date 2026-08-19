@@ -1,7 +1,6 @@
 ---
 name: "Saint Festo of Benevento"
 honorific: Saint
-title: "Saint Festo of Benevento"
 summary: "Deacon. Martyr."
 searchAliases:
   - "Festus"

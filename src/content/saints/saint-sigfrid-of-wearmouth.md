@@ -1,7 +1,6 @@
 ---
 name: "Saint Sigfrid of Wearmouth"
 honorific: Saint
-title: "Saint Sigfrid of Wearmouth"
 summary: "Benedictine monk. Spiritual student of Saint Benedict Biscop, and brother monk to Saint Esterwine of Wearmouth and Saint Ceolfrid. Biblical scholar. Co-adjutor abbot of Jarrow Abbey. Abbot in Wearmouth, England in 686."
 deathYear: 688
 died: "22 August 688 of natural causes related to respiratory illness"

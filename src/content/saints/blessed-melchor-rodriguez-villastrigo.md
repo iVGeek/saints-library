@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melchor Rodríguez Villastrigo"
 honorific: Blessed
-title: "Blessed Melchor Rodríguez Villastrigo"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Melchor-Rodriguez-Villastrigo.jpg"
 searchAliases:

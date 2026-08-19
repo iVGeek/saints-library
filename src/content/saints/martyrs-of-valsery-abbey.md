@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Valsery Abbey"
 honorific: Saint
-title: "Martyrs of Valsery Abbey"
 summary: "An unknown number of Premonstratensian monks at the Abbey of Notre-Dame de Valsery, Picardie, France who were martyred by Calvinists."
 deathYear: 1567
 died: "1567 at Valsery, Pircardy, France"

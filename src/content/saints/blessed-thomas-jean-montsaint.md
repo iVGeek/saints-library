@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas-Jean Montsaint"
 honorific: Blessed
-title: "Blessed Thomas-Jean Montsaint"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1725
 deathYear: 1792

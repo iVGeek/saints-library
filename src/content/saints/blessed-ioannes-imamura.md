@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Imamura"
 honorific: Blessed
-title: "Blessed Ioannes Imamura"
 summary: "Lay Dominican in the archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "John Imamura"

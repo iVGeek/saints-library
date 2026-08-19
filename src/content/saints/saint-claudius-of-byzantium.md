@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudius of Byzantium"
 honorific: Saint
-title: "Saint Claudius of Byzantium"
 summary: "Martyr."
 deathYear: 273
 died: "crucified in 273 in Byzantium"

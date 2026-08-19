@@ -1,7 +1,6 @@
 ---
 name: "Saint Albert Quadrelli"
 honorific: Saint
-title: "Saint Albert Quadrelli"
 summary: "Parish priest at Rivolta d'Adda, Italy for 25 years. Chosen bishop of Lodi, Italy on Holy Thursday, 29 March 1168. Staunch supporter of Pope Alexander III against anti-pope Pascual III. Participated in the 3rd Lateran Council."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Albert-Quadrelli.jpg"
 searchAliases:

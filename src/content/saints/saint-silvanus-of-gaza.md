@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Gaza"
 honorific: Saint
-title: "Saint Silvanus of Gaza"
 summary: "Bishop of Gaza. Branded and sentenced to forced labour with 39 of his clergy by command of Caesar Galerius Maximian during the persecutions of Diocletian. Martyred with 39 fellow Christians."
 searchAliases:
   - "Sylvain"

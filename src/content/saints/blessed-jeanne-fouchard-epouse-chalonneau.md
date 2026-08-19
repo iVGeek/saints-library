@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Fouchard épouse Chalonneau"
 honorific: Blessed
-title: "Blessed Jeanne Fouchard épouse Chalonneau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1747
 deathYear: 1794

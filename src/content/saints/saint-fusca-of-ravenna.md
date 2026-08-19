@@ -1,7 +1,6 @@
 ---
 name: "Saint Fusca of Ravenna"
 honorific: Saint
-title: "Saint Fusca of Ravenna"
 summary: "Raised in a pagan family, at age 15 Fusca converted to Christianity and was baptized along with her nursemaid, Saint Maura. During the persecutions of Decius she was ordered by her family to renounce the faith; she refused. Arrested and tortured and ordered to sacrifice to idols,"
 image: "http://catholicsaints.info/wp-content/uploads/Santa_Fosca_sculpture.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Archelaus"
 honorific: Saint
-title: "Saint Archelaus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Archelao"

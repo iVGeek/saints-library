@@ -1,7 +1,6 @@
 ---
 name: "Blessed Beatrice d'Ornacieux"
 honorific: Blessed
-title: "Blessed Beatrice d'Ornacieux"
 summary: "In 1273, at the age of thirteen, Beatice joined the Carthusians at the Charterhouse of Parménie, France. In 1301, she and two others, Luisa Alleman of Grésivaudan and Margherita di Sassenaye, were sent to found the monastery of Eymeu in the diocese of Valance, France. Noted for h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrice-dOrnacieux.jpg"
 searchAliases:

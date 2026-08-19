@@ -1,7 +1,6 @@
 ---
 name: "Saint Mummolus of Lagny"
 honorific: Saint
-title: "Saint Mummolus of Lagny"
 summary: "Monk. Friend of Saint Fursey of Peronne. Abbot of Lagny in Meaux, France."
 searchAliases:
   - "Momble"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michał Sopoćko"
 honorific: Blessed
-title: "Blessed Michał Sopoćko"
 summary: "Michal began his studies at the seminary in Vilnius, Lithuania in 1910, and was ordained a priest in 1914. Parish priest in Vilnius, and military chaplain in World War I from 1914 to 1918, assigned to Vilnius and to Warsaw, Poland. He earned his doctorate in theology in 1926. Spi"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sopo%C4%87ko.jpg"
 birthYear: 1888

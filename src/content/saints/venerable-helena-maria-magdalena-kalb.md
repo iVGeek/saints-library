@@ -1,7 +1,6 @@
 ---
 name: "Venerable Helena Maria Magdalena Kalb"
 honorific: Venerable
-title: "Venerable Helena Maria Magdalena Kalb"
 summary: "Professed religious in the Canonesses of the Holy Spirit of Sassia."
 searchAliases:
   - "Sister Emanuela"

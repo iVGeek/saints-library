@@ -1,7 +1,6 @@
 ---
 name: "Saint Facundinus of Taino"
 honorific: Saint
-title: "Saint Facundinus of Taino"
 summary: "Bishop of Taino, Italy."
 deathYear: 620
 died: "c.620"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Daria of Connaught"
 honorific: Saint
-title: "Saint Daria of Connaught"
 summary: "5th century daughter of Cormac, and part of the family of kings of Fiachra, Ireland. Martyr."
 region: "Ireland"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Pierre Simon"
 honorific: Blessed
-title: "Blessed Jean-Pierre Simon"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 deathYear: 1792
 born: "Paris, France"

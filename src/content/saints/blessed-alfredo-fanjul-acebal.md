@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfredo Fanjul Acebal"
 honorific: Blessed
-title: "Blessed Alfredo Fanjul Acebal"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagius of Istria"
 honorific: Saint
-title: "Saint Pelagius of Istria"
 summary: "Boy martyred in the persecutions of Numerian."
 searchAliases:
   - "Pelagio"

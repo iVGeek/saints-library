@@ -1,7 +1,6 @@
 ---
 name: "Saint Neomisia of Mecerata"
 honorific: Saint
-title: "Saint Neomisia of Mecerata"
 summary: "Pilgrim to Palestine and then to Rome, Italy. Abused for her faith by pagans in Capua, Italy, but managed to escape under cover of a thunderstorm."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Neomysia.jpg"
 died: "Macerata, Italy"

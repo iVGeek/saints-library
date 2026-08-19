@@ -2,7 +2,6 @@
 name: "Saint Fyncana"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_lives_of_the_saints_%28IA_livesofsaints11bariiala%29.pdf/page1-500px-The_lives_of_the_saints_%28IA_livesofsaints11bariiala%29.pdf.jpg"
 honorific: Saint
-title: "Saint Fyncana"
 summary: "Martyr. No other information has survived."
 died: "in Scotland"
 region: "England"

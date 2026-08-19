@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter the Farmer"
 honorific: Saint
-title: "Saint Peter the Farmer"
 summary: "Legend says that Peter was an 11th century farmer from Castagnole Monferrato, Italy who miraculously dug a spring to supply a convent built in a place with no water. He founded a hospital next to the church of Saint Mary which later became the church of San Pietro in his hounour."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-of-Asti.jpg"
 searchAliases:

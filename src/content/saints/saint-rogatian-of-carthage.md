@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatian of Carthage"
 honorific: Saint
-title: "Saint Rogatian of Carthage"
 summary: "Priest. Martyr."
 searchAliases:
   - "Rogaziano"

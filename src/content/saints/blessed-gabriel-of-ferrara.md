@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel of Ferrara"
 honorific: Blessed
-title: "Blessed Gabriel of Ferrara"
 summary: "Born to the nobility, the Count of Ferrara, Italy. Trained as a surgeon, he practiced medicine in Milan, Italy and served as personal physician to the Duke of Urbino, Italy. He joined the Brothers of Mercy, a hospital order, in 1591, taking the name Gabriel and making his vows in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gabriel-of-Ferrara.jpg"
 searchAliases:

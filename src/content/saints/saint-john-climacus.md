@@ -1,7 +1,6 @@
 ---
 name: "Saint John Climacus"
 honorific: Saint
-title: "Saint John Climacus"
 summary: "Well educated and came to adulthood in a intellectual environment. Monk on Mount Sinai at age 16. Hermit in various places in the Arabian Desert. Abbot at Mount Sinai at age 75. Just before his death he resigned his position to return to his solitary life. Ascetical writer whose"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Lestvichnik.jpg"
 searchAliases:

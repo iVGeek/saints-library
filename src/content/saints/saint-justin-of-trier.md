@@ -1,7 +1,6 @@
 ---
 name: "Saint Justin of Trier"
 honorific: Saint
-title: "Saint Justin of Trier"
 summary: "Martyred with a group of fellow Christians in the persecutions of Diocletian."
 searchAliases:
   - "Justinus"

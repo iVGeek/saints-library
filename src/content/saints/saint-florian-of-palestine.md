@@ -1,7 +1,6 @@
 ---
 name: "Saint Florian of Palestine"
 honorific: Saint
-title: "Saint Florian of Palestine"
 summary: "Martyred with 59 companions whose names have not come down to us."
 deathYear: 638
 died: "638 at Belt Jibrin, Palestine"

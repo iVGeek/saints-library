@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernard of Clairvaux"
 honorific: Saint
-title: "Saint Bernard of Clairvaux"
 summary: "Born to the French nobility; brother of Saint Humbeline. At age 22, fearing the ways of the world, he, four of his brothers, and 25 friends joined the abbey of Citeaux; his father and another brother joined soon after. Benedictine. Founded and led the monastery of Clairvaux which"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg"
 searchAliases:

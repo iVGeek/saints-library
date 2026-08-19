@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramiro Argüelles Hevia"
 honorific: Blessed
-title: "Blessed Ramiro Argüelles Hevia"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

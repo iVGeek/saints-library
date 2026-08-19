@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Bonet Nadal"
 honorific: Blessed
-title: "Blessed José Bonet Nadal"
 summary: "Member of the Salesians, making his perpetual vows in 1897. Studied theology at Sivigliae. Priest, ordained in April 1904. Novice master and director of vocations. Martyred in the Spanish Civil War for the crime of being a priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Bonet-Nadal.jpg"
 searchAliases:

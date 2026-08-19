@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roque Catalán Domingo"
 honorific: Blessed
-title: "Blessed Roque Catalán Domingo"
 summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

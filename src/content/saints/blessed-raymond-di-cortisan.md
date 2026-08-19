@@ -1,7 +1,6 @@
 ---
 name: "Blessed Raymond di Cortisan"
 honorific: Blessed
-title: "Blessed Raymond di Cortisan"
 summary: "Canon and archdeacon of Lézat, Toulouse, France. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs of Toulou"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Toulouse.jpg"
 searchAliases:

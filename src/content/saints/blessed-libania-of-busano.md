@@ -1,7 +1,6 @@
 ---
 name: "Blessed Libania of Busano"
 honorific: Blessed
-title: "Blessed Libania of Busano"
 summary: "Born to the nobility, the daughter of Lord Armerico of Barbania, Italy, and descended from the dukes of Lombardy. Feeling a call to religious life, Libania fled home from an arranged marriage at age 15, seeking shelter at the abbey of San Benigno Futtuaria where she became a Bene"
 deathYear: 1064
 born: "Barbania, Italy"

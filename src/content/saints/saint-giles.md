@@ -1,7 +1,6 @@
 ---
 name: "Saint Giles"
 honorific: Saint
-title: "Saint Giles"
 summary: "Born to a wealthy noble family, when his parents died, Giles gave his fortune to help the poor. Known as a miracle worker. To avoid followers and adulation, he left Greece c.683 for France where he lived as a hermit in a cave in the diocese of Nimes, a cave whose mouth was guarde"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Saint_Giles_closeup.jpg"
 searchAliases:

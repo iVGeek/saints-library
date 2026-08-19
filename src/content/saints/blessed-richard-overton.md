@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Overton"
 honorific: Blessed
-title: "Blessed Richard Overton"
 summary: "Dominican priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"

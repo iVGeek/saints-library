@@ -1,7 +1,6 @@
 ---
 name: "Saint Parthenius of Thessalonica"
 honorific: Saint
-title: "Saint Parthenius of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

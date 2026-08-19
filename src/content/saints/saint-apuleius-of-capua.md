@@ -1,7 +1,6 @@
 ---
 name: "Saint Apuleius of Capua"
 honorific: Saint
-title: "Saint Apuleius of Capua"
 summary: "Student of Simon Magus. Converted to Christianity by Saint Peter the Apostle; an old tradition says that he was one of the people who interred the body of Saint Peter on Vatican Hill. Martyr."
 died: "in Capua, Italy"
 deathPlace: "Italy"

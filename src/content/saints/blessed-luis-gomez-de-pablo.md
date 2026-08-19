@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Gómez de Pablo"
 honorific: Blessed
-title: "Blessed Luis Gómez de Pablo"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Gomez-de-Pablo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Noyala of Brittany"
 honorific: Saint
-title: "Saint Noyala of Brittany"
 summary: "Nun. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Noyala-of-Brittany.jpg"
 searchAliases:

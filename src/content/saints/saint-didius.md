@@ -1,7 +1,6 @@
 ---
 name: "Saint Didius"
 honorific: Saint
-title: "Saint Didius"
 summary: "Martyred in the persecutions of Maximian Galerius."
 died: "early 4th century in Egypt"
 region: "Egypt"

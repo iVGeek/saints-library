@@ -1,7 +1,6 @@
 ---
 name: "Saint Paregorius of Patara"
 honorific: Saint
-title: "Saint Paregorius of Patara"
 summary: "Martyr. No other information has survived."
 deathYear: 260
 died: "260 at Patara, Lycia"

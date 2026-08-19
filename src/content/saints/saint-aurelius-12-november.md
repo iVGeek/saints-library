@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurelius"
 honorific: Saint
-title: "Saint Aurelius"
 summary: "Bishop. Wrote in opposition to the Montanist heresy. Martyr."
 feastDay:
   month: 11

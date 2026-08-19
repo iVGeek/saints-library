@@ -1,7 +1,6 @@
 ---
 name: "Saint Concessa of Carthage"
 honorific: Saint
-title: "Saint Concessa of Carthage"
 summary: "Martyr venerated in Carthage, North Africa."
 region: "England"
 feastDay:

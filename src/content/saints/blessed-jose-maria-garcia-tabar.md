@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María García Tabar"
 honorific: Blessed
-title: "Blessed José María García Tabar"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

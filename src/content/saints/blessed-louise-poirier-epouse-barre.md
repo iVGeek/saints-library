@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louise Poirier épouse Barré"
 honorific: Blessed
-title: "Blessed Louise Poirier épouse Barré"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1754
 deathYear: 1794

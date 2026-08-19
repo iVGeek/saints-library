@@ -1,7 +1,6 @@
 ---
 name: "Saint Nymphora of Nicaea"
 honorific: Saint
-title: "Saint Nymphora of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Nymphodora"

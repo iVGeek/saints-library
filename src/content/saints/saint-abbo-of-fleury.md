@@ -1,7 +1,6 @@
 ---
 name: "Saint Abbo of Fleury"
 honorific: Saint
-title: "Saint Abbo of Fleury"
 summary: "Benedictine monk, taking the habit and coming of age at Saint Beno&icirc;t-sur-Loire monastery, Fleury-sur-Loire, France. Studied at Paris, Rheims and Orleans in France. One of the great scholars of his age; we still have writings by him on astronomy, grammar, philosophy, mathema"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tract_by_Abbo_of_Fleury.jpg"
 searchAliases:

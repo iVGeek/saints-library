@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ingrid of Sweden"
 honorific: Blessed
-title: "Blessed Ingrid of Sweden"
 summary: "Born to the Swedish nobility, Ingrid was well educated, and was known from her youth as a pious girl. Given in an arranged marriage when young, she was widowed soon after. Pilgrim to the Holy Lands, then to the Vatican, then to Santiago de Compostela in Spain. Spiritual student o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ingrid_of_Sweden_and_Denmark_1954.jpg/960px-Ingrid_of_Sweden_and_Denmark_1954.jpg"
 searchAliases:

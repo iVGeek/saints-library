@@ -1,7 +1,6 @@
 ---
 name: "Saint Ciria of Aquileia"
 honorific: Saint
-title: "Saint Ciria of Aquileia"
 summary: "Martyr."
 deathYear: 100
 died: "c.100 in Aquileia, Italy"

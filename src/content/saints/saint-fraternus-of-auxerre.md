@@ -1,7 +1,6 @@
 ---
 name: "Saint Fraternus of Auxerre"
 honorific: Saint
-title: "Saint Fraternus of Auxerre"
 summary: "Bishop of Auxerre, France. Martyr."
 searchAliases:
   - "Fraterno"

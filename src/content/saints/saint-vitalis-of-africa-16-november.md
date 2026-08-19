@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Africa"
 honorific: Saint
-title: "Saint Vitalis of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

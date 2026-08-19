@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Nutter"
 honorific: Blessed
-title: "Blessed Robert Nutter"
 summary: "Brother of Blessed John Nutter. Educated at Brasenose College, Oxford, England in the mid-1560's. Seminarian at the English College, Rheims, France. Ordained at Soissons, France on 21 December 1581. Returned to England with Blessed George Haydock to minister to covert Catholics."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Blessed_Robert_Nutter_O.P.jpg"
 searchAliases:

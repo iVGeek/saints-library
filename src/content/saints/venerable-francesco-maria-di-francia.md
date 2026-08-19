@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francesco Maria di Francia"
 honorific: Venerable
-title: "Venerable Francesco Maria di Francia"
 summary: "Brother of Saint Hannibal Mary di Francia. Orphaned as a child. Priest of the archdiocese of Messina-Lipari-Santa Lucia del Mela, Italy. Founded the Congregation of the Capuchin Sisters of the Sacred Heart."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Foto_di_padre_Francesco_Maria_di_Francia.jpg"
 birthYear: 1853

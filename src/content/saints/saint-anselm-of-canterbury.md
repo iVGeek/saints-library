@@ -1,7 +1,6 @@
 ---
 name: "Saint Anselm of Canterbury"
 honorific: Saint
-title: "Saint Anselm of Canterbury"
 summary: "Born to the Italian nobility. After a childhood devoted to piety and study, at age 15 Anselm wanted to enter religious life, but his father Gondulf prevented it, and Anselm became rather worldly for several years. Upon the death of his mother, Ermenberge, Anselm argued with his f"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/960px-Anselm_of_Canterbury%2C_seal.svg.png"
 searchAliases:

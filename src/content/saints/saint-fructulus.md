@@ -1,7 +1,6 @@
 ---
 name: "Saint Fructulus"
 honorific: Saint
-title: "Saint Fructulus"
 summary: "Martyr. No other information has survived."
 born: "African"
 region: "Africa"

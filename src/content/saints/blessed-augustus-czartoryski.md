@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augustus Czartoryski"
 honorific: Blessed
-title: "Blessed Augustus Czartoryski"
 summary: "Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in Paris, France after being losing all their property and being exiled in the 1830 revolution. Both Augustus and his mother contracted tuberculosis; she died when h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustus-Czartoryski.jpg"
 searchAliases:

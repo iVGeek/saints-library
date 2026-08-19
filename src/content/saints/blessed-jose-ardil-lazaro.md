@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ardil Lázaro"
 honorific: Blessed
-title: "Blessed José Ardil Lázaro"
 summary: "Young layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturnin of Rome"
 honorific: Saint
-title: "Saint Saturnin of Rome"
 summary: "Two people of this name who were part of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived."
 region: "Italy"
 feastDay:

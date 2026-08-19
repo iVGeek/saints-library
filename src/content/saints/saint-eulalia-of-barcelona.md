@@ -1,7 +1,6 @@
 ---
 name: "Saint Eulalia of Barcelona"
 honorific: Saint
-title: "Saint Eulalia of Barcelona"
 summary: "Sanctified virgin, the forerunner of professed nun. Martyred at age 13 or 14 in the persecutions of Diocletian. Often confused with Saint Eulalia of Merida. Several villages in Guienne and Languedoc are named for her."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernat_Martorell_-_Martyrdom_of_Saint_Eulalia_-_Google_Art_Project.jpg/960px-Bernat_Martorell_-_Martyrdom_of_Saint_Eulalia_-_Google_Art_Project.jpg"
 searchAliases:

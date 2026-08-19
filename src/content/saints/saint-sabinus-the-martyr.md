@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinus the Martyr"
 honorific: Saint
-title: "Saint Sabinus the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

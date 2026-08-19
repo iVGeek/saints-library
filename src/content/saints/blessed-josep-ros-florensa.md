@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Ros Florensa"
 honorific: Blessed
-title: "Blessed Josep Ros Florensa"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

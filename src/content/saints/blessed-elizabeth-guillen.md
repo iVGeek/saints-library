@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elizabeth Guillen"
 honorific: Blessed
-title: "Blessed Elizabeth Guillen"
 summary: "Mercedarian nun in Barcelona, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Guillen.jpg"
 deathYear: 1300

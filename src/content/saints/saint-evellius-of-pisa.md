@@ -1,7 +1,6 @@
 ---
 name: "Saint Evellius of Pisa"
 honorific: Saint
-title: "Saint Evellius of Pisa"
 summary: "Imperial advisor to emperor Nero. Converted to Christianity after witnessing the courage and faith of martyrs. He left the imperial court and fled Rome, but was captured and executed. Martyr."
 searchAliases:
   - "Evelio"

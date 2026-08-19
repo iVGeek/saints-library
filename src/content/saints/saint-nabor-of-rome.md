@@ -1,7 +1,6 @@
 ---
 name: "Saint Nabor of Rome"
 honorific: Saint
-title: "Saint Nabor of Rome"
 summary: "Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "304 outside Rome, Italy"

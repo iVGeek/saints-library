@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Scott"
 honorific: Blessed
-title: "Blessed William Scott"
 summary: "Studied law at Cambridge University. Adult convert to Catholicism, brought to the faith by Blessed John Roberts. Studied at Saint Facundus Benedictine Abbey in Sahagun, Spain. Benedictine, taking the name Maurus. Priest. He returned to England to minister to covert Catholics, but"
 searchAliases:
   - "Brother Maurus"

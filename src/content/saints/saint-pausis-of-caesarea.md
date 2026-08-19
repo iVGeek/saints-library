@@ -1,7 +1,6 @@
 ---
 name: "Saint Pausis of Caesarea"
 honorific: Saint
-title: "Saint Pausis of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

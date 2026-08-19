@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebia of Marseilles"
 honorific: Saint
-title: "Saint Eusebia of Marseilles"
 summary: "Abbess of a convent in Marseilles, France. Martyred with about 40 of her sisters by Saracens."
 deathYear: 731
 died: "c.731 at Saint-Cyr, France"

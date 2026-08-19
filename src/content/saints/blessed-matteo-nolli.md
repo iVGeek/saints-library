@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matteo Nolli"
 honorific: Blessed
-title: "Blessed Matteo Nolli"
 summary: "Born to the Italian nobility. He joined the Franciscans at the convent of San Nazaro in Novara, Italy, receiving the habit from Saint Bernardine of Siena. He became a famous preacher, always trying to model his work on Saint Bernardine, and with a noted devotion to the holy names"
 deathYear: 1478
 born: "Novara, Italy"

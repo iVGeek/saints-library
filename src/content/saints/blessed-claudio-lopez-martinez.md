@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudio López Martínez"
 honorific: Blessed
-title: "Blessed Claudio López Martínez"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-Lopez-Martinez.jpg"
 birthYear: 1910

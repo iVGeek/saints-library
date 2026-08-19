@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquín Frade Eiras"
 honorific: Blessed
-title: "Blessed Joaquín Frade Eiras"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Berardo of Visantoña"

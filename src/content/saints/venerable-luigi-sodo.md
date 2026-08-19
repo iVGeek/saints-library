@@ -1,7 +1,6 @@
 ---
 name: "Venerable Luigi Sodo"
 honorific: Venerable
-title: "Venerable Luigi Sodo"
 summary: "Ordained a priest on 20 December 1834, he continued his education and earned a degree in theology at the Royal University in Naples, Italy. Father Luigi served in chapels along the waterfront, caring for sailors and fishermen, and with a ministry to the sick and to prisoners. Rec"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Luigi-Sodo.jpg"
 birthYear: 1811

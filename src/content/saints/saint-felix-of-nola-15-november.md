@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Nola"
 honorific: Saint
-title: "Saint Felix of Nola"
 summary: "Bishop of Nola, Italy. Martyred with 30 other Christians in the 3rd-century persecutions of the prefect Marcianus."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Felix_of_Nola-1.jpg"
 region: "Italy"

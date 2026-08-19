@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppina Maria de Micheli"
 honorific: Blessed
-title: "Blessed Giuseppina Maria de Micheli"
 summary: "Sister in the Daughters of the Immaculate Conception, joining in October 1913, taking the name Sister Maria Pierina when she made her profession on 16 May 1914. She served in the Daughters' motherhouse in Buenos Aires, Argentina. Beginning on the first Friday of Lent in 1936, Sis"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-giuseppina-maria-de-micheli/venerable-giuseppina-maria-de-micheli-01.jpg"
 searchAliases:

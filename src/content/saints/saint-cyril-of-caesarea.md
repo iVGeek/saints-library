@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyril of Caesarea"
 honorific: Saint
-title: "Saint Cyril of Caesarea"
 summary: "Raised in a wealthy pagan family, in his youth Cyril was baptized in secret. When his family learned of his conversion, his father banished him from the family estate. Cyril was imprisoned for his faith, and ordered by local officials to renounce Christianity and sacrifice to ido"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Cyril-Martyr.jpg"
 searchAliases:

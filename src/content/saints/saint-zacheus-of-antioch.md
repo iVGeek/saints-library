@@ -1,7 +1,6 @@
 ---
 name: "Saint Zacheus of Antioch"
 honorific: Saint
-title: "Saint Zacheus of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"

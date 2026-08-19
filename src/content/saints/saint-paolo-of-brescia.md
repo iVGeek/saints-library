@@ -1,7 +1,6 @@
 ---
 name: "Saint Paolo of Brescia"
 honorific: Saint
-title: "Saint Paolo of Brescia"
 summary: "Brother of Saint Gaudenzio of Brescia. Priest. Tenth bishop of the diocese of Brescia, Italy, serving in the early 5th century."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Paolo-of-Brescia.jpg"
 searchAliases:

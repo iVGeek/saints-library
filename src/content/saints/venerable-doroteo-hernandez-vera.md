@@ -1,7 +1,6 @@
 ---
 name: "Venerable Doroteo Hernández Vera"
 honorific: Venerable
-title: "Venerable Doroteo Hernández Vera"
 summary: "Priest of the diocese of Santander, Spain. Founded the Secular Institute Evangelical Crusade."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Doroteo-Hernández-Vera.jpg"
 birthYear: 1901

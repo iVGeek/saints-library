@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María López Carrillo"
 honorific: Blessed
-title: "Blessed José María López Carrillo"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Leobard of Tours"
 honorific: Saint
-title: "Saint Leobard of Tours"
 summary: "Spiritual student of Saint Gregory of Tours. Hermit for over 20 years near Marmoutier, France."
 searchAliases:
   - "Leopardo"

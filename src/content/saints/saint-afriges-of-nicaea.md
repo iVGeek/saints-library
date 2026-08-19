@@ -1,7 +1,6 @@
 ---
 name: "Saint Afriges of Nicaea"
 honorific: Saint
-title: "Saint Afriges of Nicaea"
 summary: "One of 279 Christians martyred together."
 died: "Nicaea, Bithynia"
 deathPlace: "Bithynia"

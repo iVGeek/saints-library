@@ -1,7 +1,6 @@
 ---
 name: "Saint Timolaus of Caesarea"
 honorific: Saint
-title: "Saint Timolaus of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

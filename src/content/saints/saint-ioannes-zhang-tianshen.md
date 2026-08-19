@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Zhang Tianshen"
 honorific: Venerable
-title: "Saint Ioannes Zhang Tianshen"
 summary: "Married layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr."
 searchAliases:
   - "John Zhang Tianshen\nRuowang"

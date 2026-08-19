@@ -1,7 +1,6 @@
 ---
 name: "Saint Pionius of Smyrna"
 honorific: Saint
-title: "Saint Pionius of Smyrna"
 summary: "Priest. Noted scholar and preacher. During the persecutions of Decius, Pionius and fifteen followers, hearing they were about to be arrested, spent the night of 22-23 February 250 in prayer; they were arrested in the morning at the end of Mass. They had put on their own chains an"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pionius-of-Smyrna.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matthew Lambert"
 honorific: Blessed
-title: "Blessed Matthew Lambert"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a baker. One of the Irish Martyrs."
 searchAliases:
   - "Maitiú Laimpeart"

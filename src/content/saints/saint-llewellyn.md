@@ -1,7 +1,6 @@
 ---
 name: "Saint Llewellyn"
 honorific: Saint
-title: "Saint Llewellyn"
 summary: "Monk at Welshpool and Bardsey, Wales. Friend of Saint Gwrnerth."
 searchAliases:
   - "Llywelyn"

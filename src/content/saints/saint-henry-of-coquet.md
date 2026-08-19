@@ -1,7 +1,6 @@
 ---
 name: "Saint Henry of Coquet"
 honorific: Saint
-title: "Saint Henry of Coquet"
 summary: "Drawn to religious life from an early age, Henry sailed to England to live as a hermit on Coquet (Cocket) Island off Northumberland without the pressure of family and friends who wanted him to forego such devotions. Never joined any order, but lived under the direction of the mon"
 searchAliases:
   - "Henry of Cocket"

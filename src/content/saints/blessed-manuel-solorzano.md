@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Solórzano"
 honorific: Blessed
-title: "Blessed Manuel Solórzano"
 summary: "Lifelong layman in the archdiocese of San Salvador, El Salvador. He was married to Eleuteria Antonia Guillén, and the couple had ten children. In Aguilares, Chile, he sold seeds and cattle for a living. Murdered by El Salvadoran security forces while on his way to serve at Saturd"
 birthYear: 1905
 deathYear: 1977

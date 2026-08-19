@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justa López González"
 honorific: Blessed
-title: "Blessed Justa López González"
 summary: "Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Justa-Lopez-Gonzalez.jpg"
 searchAliases:

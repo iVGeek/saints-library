@@ -1,7 +1,6 @@
 ---
 name: "Saint Placid of Ocre"
 honorific: Saint
-title: "Saint Placid of Ocre"
 summary: "Born to a working class family. Became a Cistercian monk at Saint Nicholas, Corno, Italy. Lived as a hermit at Ocre in the Abruzzi region of Italy. Founder and abbot of Santo Spirito monastery near Val d'Ocre. As a self-imposed penance, he slept standing the last 37 years of his"
 searchAliases:
   - "Placid of Roio"

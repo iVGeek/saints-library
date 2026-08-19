@@ -1,7 +1,6 @@
 ---
 name: "Saint Waldrada of Metz"
 honorific: Saint
-title: "Saint Waldrada of Metz"
 summary: "Born to the Frankish nobility, a member of the Merovingians. Benedictine nun. First abbess of the Saint-Pierre-aux-Nonnains abbey in Metz, (in modern France), serving for 50 years."
 searchAliases:
   - "Valdrada"

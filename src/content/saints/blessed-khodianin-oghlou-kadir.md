@@ -1,7 +1,6 @@
 ---
 name: "Blessed Khodianin Oghlou Kadir"
 honorific: Blessed
-title: "Blessed Khodianin Oghlou Kadir"
 summary: "Franciscan. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 born: "Armenian"

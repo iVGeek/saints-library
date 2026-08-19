@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jesús Delgado De La Fuente"
 honorific: Blessed
-title: "Blessed Jesús Delgado De La Fuente"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Valente José"

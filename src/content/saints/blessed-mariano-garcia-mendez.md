@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano García Méndez"
 honorific: Blessed
-title: "Blessed Mariano García Méndez"
 summary: "Eldest of 15 children of pious farmers Mariano Garcia Hernandez and Emeteria Mendez Grande. Dehonian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-García-Méndez.jpg"
 searchAliases:

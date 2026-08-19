@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of North Africa"
 honorific: Saint
-title: "Saint Marcian of North Africa"
 summary: "Martyr."
 region: "England"
 feastDay:

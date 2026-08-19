@@ -1,7 +1,6 @@
 ---
 name: "Blessed Geronimo Limón Márquez"
 honorific: Blessed
-title: "Blessed Geronimo Limón Márquez"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luis of Valencina"

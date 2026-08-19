@@ -1,7 +1,6 @@
 ---
 name: "Saint Castulus of Rome"
 honorific: Saint
-title: "Saint Castulus of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 region: "Italy"
 feastDay:

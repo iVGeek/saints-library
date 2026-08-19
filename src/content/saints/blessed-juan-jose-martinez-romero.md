@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan José Martínez Romero"
 honorific: Blessed
-title: "Blessed Juan José Martínez Romero"
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1937

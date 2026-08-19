@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh of Cluny"
 honorific: Saint
-title: "Saint Hugh of Cluny"
 summary: "Born to the Burgundian nobility. Eldest son of Count Dalmatius of Semur and Aremberge of Vergy. His father wanted him to become a knight and secular leader; his mother was advised of a vision received by a local priest that her son was destined for religious life. When Hugh seeme"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Hugo-v-cluny_heinrich-iv_mathilde-v-tuszien_cod-vat-lat-4922_1115ad.jpg"
 searchAliases:

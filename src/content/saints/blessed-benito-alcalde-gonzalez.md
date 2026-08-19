@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Alcalde González"
 honorific: Blessed
-title: "Blessed Benito Alcalde González"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

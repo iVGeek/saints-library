@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter To Rot"
 honorific: Blessed
-title: "Blessed Peter To Rot"
 summary: "Son of Angelo To Puia, a village chief, and Maria la Tumul, an adult converts who were part of the region's first generation of Catholics. Peter was a pious boy, and though somewhat drawn to religious life, he became a lay catechist and worked with missionaries in the area. An ex"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-To-Rot.jpg"
 birthYear: 1912

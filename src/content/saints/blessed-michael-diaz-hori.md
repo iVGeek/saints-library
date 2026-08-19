@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Díaz Hori"
 honorific: Blessed
-title: "Blessed Michaël Díaz Hori"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucundus of Rheims"
 honorific: Saint
-title: "Saint Jucundus of Rheims"
 summary: "Lector. Martyred in the barbarian invasion of Rheims, France."
 deathYear: 451
 died: "beheaded c.451 at Rheims, France"

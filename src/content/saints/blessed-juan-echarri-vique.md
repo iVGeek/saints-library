@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Echarri Vique"
 honorific: Blessed
-title: "Blessed Juan Echarri Vique"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Echarri-Vique.jpg"
 birthYear: 1913

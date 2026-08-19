@@ -1,7 +1,6 @@
 ---
 name: "Saint Diocles of Istria"
 honorific: Saint
-title: "Saint Diocles of Istria"
 summary: "Early martyr in the Istria peninsula."
 region: "England"
 feastDay:

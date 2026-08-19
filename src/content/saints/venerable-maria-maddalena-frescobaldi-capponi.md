@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Maddalena Frescobaldi Capponi"
 honorific: Venerable
-title: "Venerable Maria Maddalena Frescobaldi Capponi"
 summary: "Married lay woman in the archdiocese of Florence, ItalyPassionist Sisters of Saint Paul of the Cross. Founded a school to train women as school teachers."
 birthYear: 1771
 deathYear: 1839

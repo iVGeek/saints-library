@@ -1,7 +1,6 @@
 ---
 name: "Saint Cleomenes"
 honorific: Saint
-title: "Saint Cleomenes"
 summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 searchAliases:
   - "Leomenes"

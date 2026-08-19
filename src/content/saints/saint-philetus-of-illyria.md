@@ -1,7 +1,6 @@
 ---
 name: "Saint Philetus of Illyria"
 honorific: Saint
-title: "Saint Philetus of Illyria"
 summary: "Senator. Married to Saint Lydia of Illyria; father of Saint Macedo of Illyria and Saint Theoprepius of Illyria. Martyred in the persecutions of Hadrian."
 image: "http://catholicsaints.info/wp-content/uploads/Philetus.jpg"
 deathYear: 121

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict of Urbino"
 honorific: Blessed
-title: "Blessed Benedict of Urbino"
 summary: "The 7th of eleven children born to Domenico Passionei and Maddalena Cibo, members of the Italian nobility; Marco was orphaned as a boy, and suffered from frail health all his life. He studied philosophy and law at the University of Perugia and the University of Padua, graduating"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Benedict-of-Urbino.jpg"
 searchAliases:

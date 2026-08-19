@@ -1,7 +1,6 @@
 ---
 name: "Venerable Johann Evangelist Wagner"
 honorific: Venerable
-title: "Venerable Johann Evangelist Wagner"
 summary: "Priest of the diocese of Augsburg, Germany."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-johann-evangelist-wagner/venerable-johann-evangelist-wagner-01.jpg"
 birthYear: 1807

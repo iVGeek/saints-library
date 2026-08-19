@@ -1,7 +1,6 @@
 ---
 name: "Blessed Trifón Lacunza Unzu"
 honorific: Blessed
-title: "Blessed Trifón Lacunza Unzu"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Virgilio"

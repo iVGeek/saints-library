@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernard of Menthon"
 honorific: Saint
-title: "Saint Bernard of Menthon"
 summary: "Born to the French nobility. Priest. Archdeacon of Aosta in 996. Evangelized the people of the Alps for over 40 years. Vicar-general of Alpine diocese. He started a patrol that cleared robbers from the mountains, and he established hospices for travellers and pilgrims to Rome, It"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bernardus_van_Menthon_%28tg-uact-666%29.jpg/960px-Bernardus_van_Menthon_%28tg-uact-666%29.jpg"
 searchAliases:

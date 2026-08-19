@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Font y Font"
 honorific: Blessed
-title: "Blessed Manuel Font y Font"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrianus of Constantinople"
 honorific: Saint
-title: "Saint Cyrianus of Constantinople"
 summary: "One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens."
 deathYear: 367
 died: "c.367 in Constantintinople"

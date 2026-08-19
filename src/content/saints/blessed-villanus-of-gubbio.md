@@ -1,7 +1,6 @@
 ---
 name: "Blessed Villanus of Gubbio"
 honorific: Blessed
-title: "Blessed Villanus of Gubbio"
 summary: "Benedictine monk at the monastery of Fonte-Avellana, Italy. Priest. Bishop of Gubbio, Italy in 1206."
 deathYear: 1237
 born: "Gubbio, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppina Catanea"
 honorific: Blessed
-title: "Blessed Giuseppina Catanea"
 summary: "Born to the Italian nobility, Giuseppina was known as a pious girl with great care for the poor, a devotion to Mary and the Eucharist, and for praying her rosary whenever she had a chance. She developed the heart condition angina pectoris in 1912, later contracted spinal tubercul"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppina-Catanea.jpg"
 searchAliases:

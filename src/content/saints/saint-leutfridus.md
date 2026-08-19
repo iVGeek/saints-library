@@ -1,7 +1,6 @@
 ---
 name: "Saint Leutfridus of La-Croix"
 honorific: Saint
-title: "Saint Leutfridus of La-Croix"
 summary: "Born to the nobility of Évreux, France. Brother of Saint Agofredus. Studied at Condat and Chartres in France. Teacher of young boys at Evreux, France. Spiritual student of Saint Sidonius of Saint-Saens. Benedictine hermit at Cailly and at Rouen in France. Founded La Croix-Saint-O"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leutfridus.jpg"
 searchAliases:

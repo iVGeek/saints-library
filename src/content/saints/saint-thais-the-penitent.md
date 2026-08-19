@@ -1,7 +1,6 @@
 ---
 name: "Saint Thaïs the Penitent"
 honorific: Saint
-title: "Saint Thaïs the Penitent"
 summary: "Following a long life of sin, Thais converted to Christianity, brought to the faith by Saint Paphnutius of Heracleopolis in Egypt. To avoid temptation and spend the next three years in prayer, she moved into a closed cell and would only communicate with her spiritual advisors Sai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thais.jpg"
 searchAliases:

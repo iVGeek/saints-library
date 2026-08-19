@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Finch"
 honorific: Blessed
-title: "Blessed John Finch"
 summary: "Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John became a strong and faithful Catholic. Married layman. His home became a center for covert missionary work, and he hid and harboured priests. Parish clerk and ca"
 birthYear: 1548
 deathYear: 1584

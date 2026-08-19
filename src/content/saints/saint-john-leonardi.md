@@ -1,7 +1,6 @@
 ---
 name: "Saint John Leonardi"
 honorific: Venerable
-title: "Saint John Leonardi"
 summary: "Worked as a pharmacist's apprentice while studying for the priesthood. After ordination on 22 December 1572, he worked with prisoners and the sick. His example attracted some young laymen to assist him, most of whom became priests themselves. This group formed Clerks Regular of t"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SaintJeanLeonardi02.jpg/960px-SaintJeanLeonardi02.jpg"
 searchAliases:

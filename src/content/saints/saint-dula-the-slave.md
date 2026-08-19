@@ -1,7 +1,6 @@
 ---
 name: "Saint Dula the Slave"
 honorific: Saint
-title: "Saint Dula the Slave"
 summary: "Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”."
 region: "England"
 feastDay:

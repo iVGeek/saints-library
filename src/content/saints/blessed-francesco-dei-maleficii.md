@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco dei Maleficii"
 honorific: Blessed
-title: "Blessed Francesco dei Maleficii"
 summary: "Franciscan missionary to Corsica."
 searchAliases:
   - "Apostle of Corsica"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Landry"
 honorific: Blessed
-title: "Blessed Pierre Landry"
 summary: "Priest of the diocese of Potiers, France. One of the Martyrs of September."
 birthYear: 1762
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucas Martín Puente"
 honorific: Blessed
-title: "Blessed Lucas Martín Puente"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Anastasio Lucas"

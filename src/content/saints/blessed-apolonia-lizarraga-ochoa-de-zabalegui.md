@@ -1,7 +1,6 @@
 ---
 name: "Blessed Apolonia Lizárraga Ochoa de Zabalegui"
 honorific: Blessed
-title: "Blessed Apolonia Lizárraga Ochoa de Zabalegui"
 summary: "One of eleven children in a pious family. Joined the Carmelite Sisters of Charity on 16 July 1886. Studied at the college in Madrid, Spain. Taught at the college of Trujillo. Superior of the community of Villafranca de los Barros, Badajoz, and in Seville, Spain. Elected Superior-"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Apolonia-Lizárraga-Ochoa-de-Zabalegui.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Salvius of Albelda"
 honorific: Saint
-title: "Saint Salvius of Albelda"
 summary: "Abbot at Albelda, Spain."
 deathYear: 962
 died: "962 of natural causes"

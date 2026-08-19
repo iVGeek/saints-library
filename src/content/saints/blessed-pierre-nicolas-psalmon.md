@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Nicolas Psalmon"
 honorific: Blessed
-title: "Blessed Pierre-Nicolas Psalmon"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1749
 deathYear: 1792

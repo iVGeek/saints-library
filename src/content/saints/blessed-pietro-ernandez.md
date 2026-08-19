@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pietro Ernandez"
 honorific: Blessed
-title: "Blessed Pietro Ernandez"
 summary: "Mercedarian. Had the gift of tongues, which he used to preach to Saracens and convert many of them to Christianity. Tortured with hot tongs and martyred for his work."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-Ernandez.jpg"
 died: "tied to a pole and shot with arrows on the road in Almeria, Spain"

@@ -2,7 +2,6 @@
 name: "Saint Justinian of Ramsey"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ramsey_Sound_St._Justinian_lifeboat_station_-_geograph.org.uk_-_2056648.jpg"
 honorific: Saint
-title: "Saint Justinian of Ramsey"
 searchAliases:
   - "Gestin"
   - "Iestin"

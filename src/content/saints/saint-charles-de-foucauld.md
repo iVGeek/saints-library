@@ -1,7 +1,6 @@
 ---
 name: "Saint Charles de Foucauld"
 honorific: Venerable
-title: "Saint Charles de Foucauld"
 summary: "Born to an aristocratic family; orphaned by age six, he and his sister Mary were raised by their grandfather. Studied at Jesuit schools in Nancy and Paris, France from 1872 to 1875. Entered the Saint-Cyr Military Academy in 1876. Joined the 4th Hussar regiment; in 1880 his unit w"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg"
 searchAliases:

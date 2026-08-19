@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conrad of Urach"
 honorific: Blessed
-title: "Blessed Conrad of Urach"
 summary: "Priest. Canon of the church of Saint Lambert, the cathedral of Li&egrave;ge, when a young man. Cistercian monk at Villers, Belgium in 1199. Prior of Villers. Abbot of Villers in 1209. Abbot of Clairvaux in 1214. Abbot of Citeaux in 1217. General of the Cistercians. Created Cardin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Conrad-of-Urach.jpg"
 searchAliases:

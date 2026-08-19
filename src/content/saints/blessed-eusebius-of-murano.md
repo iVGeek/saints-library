@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebius of Murano"
 honorific: Blessed
-title: "Blessed Eusebius of Murano"
 summary: "Born to the Spanish nobility, he became ambassador from the Spanish throne to the Republic of Venice (in modern Italy). Leaving the worldly life, he became a Camaldolese monk at the San Michele monastery on the islands of Murano, Italy."
 deathYear: 1501
 born: "15th century Spain"

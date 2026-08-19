@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapitus of Thessalonica"
 honorific: Saint
-title: "Saint Agapitus of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

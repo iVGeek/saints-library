@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus the Deacon"
 honorific: Saint
-title: "Saint Donatus the Deacon"
 summary: "Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity."
 deathYear: 362
 died: "362 in Lavallum, North Africa"

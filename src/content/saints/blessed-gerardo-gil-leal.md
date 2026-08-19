@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerardo Gil Leal"
 honorific: Blessed
-title: "Blessed Gerardo Gil Leal"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

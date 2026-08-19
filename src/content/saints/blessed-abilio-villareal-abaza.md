@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abilio Villareal Abaza"
 honorific: Blessed
-title: "Blessed Abilio Villareal Abaza"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Roque"

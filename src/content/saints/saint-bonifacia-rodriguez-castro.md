@@ -1,7 +1,6 @@
 ---
 name: "Saint Bonifacia Rodriguez Castro"
 honorific: Venerable
-title: "Saint Bonifacia Rodriguez Castro"
 summary: "One of six children born to the pious family of Joseph Rodríguez Gutiérrez, a tailor, and Maria Natalia Jiménez Castro, she was baptized at the age for 4 days. At age 15 she began work in a rope factory, rough work for little money. A pious young woman, she attended daily Mass, a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bonifacia-Rodriguez-Castro.jpg"
 birthYear: 1837

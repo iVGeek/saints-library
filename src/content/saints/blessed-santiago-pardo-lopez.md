@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Pardo López"
 honorific: Blessed
-title: "Blessed Santiago Pardo López"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

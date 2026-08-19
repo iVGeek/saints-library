@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Samaria"
 honorific: Saint
-title: "Martyrs of Samaria"
 summary: "1480 Christians massacred in and near Samaria during the war between the Greek Emperor Heraclius and the pagan Chosroas of Persia."
 searchAliases:
   - "Martyrs of Palestine"

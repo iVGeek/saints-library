@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Shizaburo"
 honorific: Blessed
-title: "Blessed Franciscus Shizaburo"
 summary: "Layman in the Kyoto, Japan. Son of Blessed Cosmas of Kyoto. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Kyoto (Miyako), Japan"

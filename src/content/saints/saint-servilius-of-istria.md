@@ -1,7 +1,6 @@
 ---
 name: "Saint Servilius of Istria"
 honorific: Saint
-title: "Saint Servilius of Istria"
 summary: "Early martyr in the Istria peninsula."
 searchAliases:
   - "Servulo"

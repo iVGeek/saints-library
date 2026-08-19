@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marià Binefa Alsinella"
 honorific: Blessed
-title: "Blessed Marià Binefa Alsinella"
 summary: "Member of the Claretians, professed on 11 June 1933. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

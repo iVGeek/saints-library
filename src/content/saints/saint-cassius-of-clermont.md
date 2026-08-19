@@ -1,7 +1,6 @@
 ---
 name: "Saint Cassius of Clermont"
 honorific: Saint
-title: "Saint Cassius of Clermont"
 summary: "Priest. Martyred by Teutonic barbarians led by Chrocas."
 deathYear: 264
 died: "c.264 in Clermont, France"

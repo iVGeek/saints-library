@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Jean-Mathieu Lanier"
 honorific: Blessed
-title: "Blessed Louis-Jean-Mathieu Lanier"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1753
 deathYear: 1792

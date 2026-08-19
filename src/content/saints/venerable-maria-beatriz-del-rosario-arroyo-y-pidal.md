@@ -1,7 +1,6 @@
 ---
 name: "Venerable María Beatriz del Rosario Arroyo y Pidal"
 honorific: Venerable
-title: "Venerable María Beatriz del Rosario Arroyo y Pidal"
 summary: "The only daughter of Ignacio Arroyo and Doña Maria Pidal; her brother José became a senator in 1919, her brother Mariano became a governor in 1928. María made her profession as a Dominican nun on 3 January 1914. Teacher. With two like-minded Dominican sisters, she founded the Dom"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Beatriz-del-Rosario-Arroyo-y-Pidal.jpg"
 searchAliases:

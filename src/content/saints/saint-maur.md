@@ -1,7 +1,6 @@
 ---
 name: "Saint Maur"
 honorific: Saint
-title: "Saint Maur"
 summary: "Layman. Martyred with eleven others."
 searchAliases:
   - "Maurus"

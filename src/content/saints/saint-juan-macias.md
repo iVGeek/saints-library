@@ -1,7 +1,6 @@
 ---
 name: "Saint Juan Macías"
 honorific: Venerable
-title: "Saint Juan Macías"
 summary: "Born to a pious and impoverished Spanish noble family. Orphaned young, he worked as a shepherd. Worked on a South American cattle ranch around Cartagena, Colombia. Dominican lay brother at Lima, Peru, received by the house on 23 January 1622. Worked as porter or doorkeeper for hi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Juan-Macías.jpg"
 searchAliases:

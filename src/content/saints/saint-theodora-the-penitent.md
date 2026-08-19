@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodora the Penitent"
 honorific: Saint
-title: "Saint Theodora the Penitent"
 summary: "A Christian woman, she fell into a life of sin for many years, had a conversion experience, returned to her faith, and lived the rest of her life as a penitent hermit in the deserts of Thebaid, Egypt. Living the rugged like of a desert hermit, no one knew she was a woman until sh"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-the-Penitent.jpg"
 deathYear: 491

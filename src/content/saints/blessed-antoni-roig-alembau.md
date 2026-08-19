@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Roig Alembau"
 honorific: Blessed
-title: "Blessed Antoni Roig Alembau"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Antolí"

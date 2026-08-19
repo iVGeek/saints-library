@@ -1,7 +1,6 @@
 ---
 name: "Saint Euprepis of Rome"
 honorific: Saint
-title: "Saint Euprepis of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 region: "Italy"
 feastDay:

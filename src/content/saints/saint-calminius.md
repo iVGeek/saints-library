@@ -1,7 +1,6 @@
 ---
 name: "Saint Calminius"
 honorific: Saint
-title: "Saint Calminius"
 summary: "A duke in the region of Aquitaine (in modern France), and count of Auvergne, Calminius was married to Saint Namadia of Marsat, and spent his early adulthood as a soldier. He felt a call to religious life, however, and founded the Saint-Chaffre du Monastier oratory in Villars, Fra"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calminius_Namadia_Mozac_2007_06_30.jpg/960px-Calminius_Namadia_Mozac_2007_06_30.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Amandus of Rennes"
 honorific: Saint
-title: "Saint Amandus of Rennes"
 summary: "Fourth century bishop of Rennes, France."
 searchAliases:
   - "Amand of Rennes"

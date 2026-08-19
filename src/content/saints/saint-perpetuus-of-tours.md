@@ -1,7 +1,6 @@
 ---
 name: "Saint Perpetuus of Tours"
 honorific: Saint
-title: "Saint Perpetuus of Tours"
 summary: "Related to Saint Eustachius of Tours and Saint Volusianus of Tours. Bishop of Tours, France for 30 years. Restored ecclesiastical discipline in his suffragan dioceses to the point that unworthy priests were removed from service. Built churches and monasteries."
 image: "http://catholicsaints.info/wp-content/uploads/Perpetuus-of-Tours.jpg"
 searchAliases:

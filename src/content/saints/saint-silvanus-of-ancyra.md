@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Ancyra"
 honorific: Saint
-title: "Saint Silvanus of Ancyra"
 summary: "Child martyr."
 died: "Ancyra, Galatia"
 deathPlace: "Galatia"

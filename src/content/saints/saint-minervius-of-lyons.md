@@ -1,7 +1,6 @@
 ---
 name: "Saint Minervius of Lyons"
 honorific: Saint
-title: "Saint Minervius of Lyons"
 summary: "Martyr."
 died: "3rd century in Lyons, France"
 deathPlace: "France"

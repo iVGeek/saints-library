@@ -1,7 +1,6 @@
 ---
 name: "Saint Modan"
 honorific: Saint
-title: "Saint Modan"
 summary: "Son of a chieftain. Monk at Dryburgh Abbey in 522 where he gave himself over to prayer 7 to 8 hours a day. Preacher at Stirling, Falkirk, and along the Forth in Scotland. Reluctant abbot at Dryburgh Abbey. In his later years he retired to become a hermit at Dumbarton, Scotland. L"
 searchAliases:
   - "Maden"

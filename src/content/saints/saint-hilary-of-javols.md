@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilary of Javols"
 honorific: Saint
-title: "Saint Hilary of Javols"
 summary: "Sixth-century bishop of Javols, France."
 region: "France"
 feastDay:

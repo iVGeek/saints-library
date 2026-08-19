@@ -1,7 +1,6 @@
 ---
 name: "Blessed Helen of Poland"
 honorific: Blessed
-title: "Blessed Helen of Poland"
 summary: "Born a princess, the daughter of King Bela IV of Hungary and Maria Laskaris. Niece of Saint Elizabeth of Hungary, grand-niece of Saint Hedwig of Andechs, and younger sister of Blessed Cunegund of Poland, who raised her. Married to Duke Boleslas V, the devout prince of Kalishi, Po"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-of-Poland.jpg"
 searchAliases:

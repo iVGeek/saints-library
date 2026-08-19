@@ -1,7 +1,6 @@
 ---
 name: "Saint Thrysus"
 honorific: Saint
-title: "Saint Thrysus"
 summary: "Martyred in the persecutions of Decius."
 region: "England"
 feastDay:

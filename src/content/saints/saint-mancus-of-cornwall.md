@@ -1,7 +1,6 @@
 ---
 name: "Saint Mancus of Cornwall"
 honorific: Saint
-title: "Saint Mancus of Cornwall"
 summary: "Sixth century saint who lived in Cornwall. A church is dedicated to him, but no information about him has survived."
 born: "Ireland"
 region: "Ireland"

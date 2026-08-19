@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gundisalvus of Azebeyro"
 honorific: Blessed
-title: "Blessed Gundisalvus of Azebeyro"
 summary: "Cistercian Benedictine monk. Abbot at Azebeyro, Spanish Galicia."
 deathYear: 1466
 died: "1466 of natural causes"

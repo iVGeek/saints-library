@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony Kauleas"
 honorific: Saint
-title: "Saint Anthony Kauleas"
 summary: "Born to a noble family from Phrygia who had moved to the country to escape persecution by the iconoclasts. Monk near Constantinople at age 12. Abbot of his house. Patriarch of Constantinople in 893. He worked to heal the schisms created by his predecessor Photius, presiding over"
 searchAliases:
   - "Anthony Cauleas"

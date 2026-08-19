@@ -1,7 +1,6 @@
 ---
 name: "Saint Francisco Marto"
 honorific: Venerable
-title: "Saint Francisco Marto"
 summary: "One of the child visionaries of the apparition of Our Lady of Fatima in 1917 in Portugal."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Marto.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Eubulus of Caesarea"
 honorific: Saint
-title: "Saint Eubulus of Caesarea"
 summary: "Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint Adrian in the persecutions of governor Firmilian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg"
 deathYear: 308

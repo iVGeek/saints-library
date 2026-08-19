@@ -1,7 +1,6 @@
 ---
 name: "Saint Hesychius of Mytilene"
 honorific: Saint
-title: "Saint Hesychius of Mytilene"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 born: "Armenia"

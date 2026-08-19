@@ -1,7 +1,6 @@
 ---
 name: "Blessed Kolë Shllaku"
 honorific: Blessed
-title: "Blessed Kolë Shllaku"
 summary: "Son of Loros and Marë Ashtës. Studied at Franciscan schools, and became a Franciscan Friar Minor novice on 4 October 1922, making his perpetual vows on 13 September 1928 and taking the name Gjon. Studied theology in the Netherlands. Ordained a priest on 15 March 1931. Studied sci"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Kolë-Shllaku.jpg"
 searchAliases:

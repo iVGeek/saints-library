@@ -1,7 +1,6 @@
 ---
 name: "Saint Diomedes of Tarsus"
 honorific: Saint
-title: "Saint Diomedes of Tarsus"
 summary: "Physician at Constantinople. Lay evangelist. Martyred in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/FrescoDiomedes.jpg"
 searchAliases:

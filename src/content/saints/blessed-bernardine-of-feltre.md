@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardine of Feltre"
 honorific: Blessed
-title: "Blessed Bernardine of Feltre"
 summary: "Born to the nobility, the eldest of nine children, he grew up with a speech impediment. After hearing Saint James of the Marches preach at Padua, Italy during Lent in 1456, he felt a call to the religious life. Joined the Order of Friars Minor in May 1456. Teacher. Studied at Man"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bernardine_of_Feltre.jpg"
 searchAliases:

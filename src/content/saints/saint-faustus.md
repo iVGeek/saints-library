@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus"
 honorific: Saint
-title: "Saint Faustus"
 summary: "Layman. Martyred with eleven others."
 searchAliases:
   - "Festus"

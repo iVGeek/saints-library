@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Silverio Pérez Ruano"
 honorific: Blessed
-title: "Blessed Juan Silverio Pérez Ruano"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Crispín of Cuevas de San Marcos"

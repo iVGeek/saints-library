@@ -1,7 +1,6 @@
 ---
 name: "Saint Bajulus of Rome"
 honorific: Saint
-title: "Saint Bajulus of Rome"
 summary: "Martyr."
 region: "England"
 feastDay:

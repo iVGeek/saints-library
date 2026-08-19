@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathopus the Deacon"
 honorific: Saint
-title: "Saint Agathopus the Deacon"
 summary: "Deacon. Marytred with Saint Theodulus during the persecution of Maximinian Herculius for refusing to surrender holy books."
 searchAliases:
   - "Agathopus of Thessalonica"

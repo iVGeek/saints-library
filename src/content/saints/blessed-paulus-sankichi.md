@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Sankichi"
 honorific: Blessed
-title: "Blessed Paulus Sankichi"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Japan"

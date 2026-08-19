@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Trevi"
 honorific: Saint
-title: "Saint Peter of Trevi"
 summary: "Evangelist who preached to peasants in the Tivoli, Anagni and Subiaco areas of Italy."
 deathYear: 1052
 born: "Carsoli, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed János Scheffler"
 honorific: Blessed
-title: "Blessed János Scheffler"
 summary: "Ordained on 6 July 1910. Bishop of Satu Mare, Romania on 26 March 1942. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Scheffler_janos_MK.jpg"
 birthYear: 1887

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guillermo Fernández Aguilera"
 honorific: Blessed
-title: "Blessed Guillermo Fernández Aguilera"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

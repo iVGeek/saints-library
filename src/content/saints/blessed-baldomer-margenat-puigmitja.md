@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baldomer Margenat Puigmitja"
 honorific: Blessed
-title: "Blessed Baldomer Margenat Puigmitja"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Esiqui Josep"

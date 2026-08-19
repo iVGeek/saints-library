@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sante Spessotto"
 honorific: Blessed
-title: "Blessed Sante Spessotto"
 summary: "Sante was born to the peasant family of Vittorio Spessotto and Josefina Zamuner; he was baptized at the age of two days. About age 10, the boy began feeling a call to the priesthood, and concentrated his studies on that. He joined the Franciscan Friars Minor in Motta di Livenza,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Sante-Spessotto.jpg"
 searchAliases:

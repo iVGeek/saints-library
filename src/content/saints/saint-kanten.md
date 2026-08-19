@@ -2,7 +2,6 @@
 name: "Saint Kanten of Wales"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Catalogue_of_the_library_of_the_Geological_Society_of_London_%28IA_catalogueoflibr00geol%29.pdf/page1-500px-Catalogue_of_the_library_of_the_Geological_Society_of_London_%28IA_catalogueoflibr00geol%29.pdf.jpg"
 honorific: Saint
-title: "Saint Kanten of Wales"
 summary: "Founder of Llanganten abbey, Powys, Wales."
 searchAliases:
   - "Cannen"

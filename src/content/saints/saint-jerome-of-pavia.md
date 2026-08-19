@@ -1,7 +1,6 @@
 ---
 name: "Saint Jerome of Pavia"
 honorific: Saint
-title: "Saint Jerome of Pavia"
 summary: "Bishop of Pavia, Italy from 778 until his death."
 searchAliases:
   - "Gerolamo"

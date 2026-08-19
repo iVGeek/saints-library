@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundius of Como"
 honorific: Saint
-title: "Saint Abundius of Como"
 summary: "Priest. Bishop of Como, Italy. Noted theologian. Attended the Council of Constantinople in 450. Diplomat from Pope Leo the Great to Emperor Theodosius II. Papal legate to the Council of Chalcedon in 451. Attended the Council of Milan in 452. Fought Eutychianism, which denied Jesu"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Abundius-of-Como-1.jpg"
 searchAliases:

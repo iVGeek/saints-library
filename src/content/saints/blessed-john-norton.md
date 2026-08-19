@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Norton"
 honorific: Blessed
-title: "Blessed John Norton"
 summary: "Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr."
 deathYear: 1600
 born: "in Lamesley, Tyne and Wear, England"

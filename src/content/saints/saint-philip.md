@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip"
 honorific: Saint
-title: "Saint Philip"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philippus"

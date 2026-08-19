@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Gabriel Galais"
 honorific: Blessed
-title: "Blessed Jacques-Gabriel Galais"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792

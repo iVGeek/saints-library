@@ -1,7 +1,6 @@
 ---
 name: "Saint Tydfil"
 honorific: Saint
-title: "Saint Tydfil"
 summary: "Born a princess, the daughter of Saint Brychan of Brecknock in Wales. Killed by pagan Saxons."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_98.png/960px-Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_98.png"
 searchAliases:

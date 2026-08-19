@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eystein Erlandsön"
 honorific: Blessed
-title: "Blessed Eystein Erlandsön"
 summary: "Born to the nobility, he studied in France. Priest. Court chaplain in the reign of King Inge Korkrygg. First archbishop of Nidaros (modern Trondheim), Norway in 1157; his suffragan dioceses included all of Iceland and Greenland. His reign was a constant fight to keep the Church s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eystein-Erlandson.jpg"
 searchAliases:

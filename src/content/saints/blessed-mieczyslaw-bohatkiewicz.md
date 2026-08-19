@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mieczyslaw Bohatkiewicz"
 honorific: Blessed
-title: "Blessed Mieczyslaw Bohatkiewicz"
 summary: "Priest in the diocese of Pinsk, Belarus known as an inspiring preacher with a ministry to the poor. Murdered in the Nazi persecution of Christians. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mieczyslaw-Bohatkiewicz.jpg"
 searchAliases:

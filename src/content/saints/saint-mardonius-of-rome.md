@@ -1,7 +1,6 @@
 ---
 name: "Saint Mardonius of Rome"
 honorific: Saint
-title: "Saint Mardonius of Rome"
 summary: "Christian imperial official in Rome, Italy. He refused to renounce his faith during the persecutions of Diocletian. Martyr."
 deathYear: 303
 died: "drowned in 303 in Nicomedia, Bithynia (modern Izmit, Turkey)"

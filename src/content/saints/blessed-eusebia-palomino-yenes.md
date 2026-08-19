@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebia Palomino Yenes"
 honorific: Blessed
-title: "Blessed Eusebia Palomino Yenes"
 summary: "Born to a poor but pious family, when she old enough she had to beg to help them survive. She felt a call to religious life, but worked as a servant in a wealthy household, then a nanny in an orphanage. Religious of the Institute of the Daughters of Mary, Help of Christians (Sale"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eusebia_Palomino_Yenes.jpg"
 birthYear: 1899

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eladi Peres Bori"
 honorific: Blessed
-title: "Blessed Eladi Peres Bori"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

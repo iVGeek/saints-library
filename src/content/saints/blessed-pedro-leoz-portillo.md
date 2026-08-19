@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Leoz Portillo"
 honorific: Blessed
-title: "Blessed Pedro Leoz Portillo"
 summary: "Member of the Passionists. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pablo María of Saint Joseph"

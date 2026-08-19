@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isabel Sánchez Romero"
 honorific: Blessed
-title: "Blessed Isabel Sánchez Romero"
 summary: "Isabella joined the Dominicans at age 17, taking the name Sister Ascensión de San José; she was known as an obedient, silent, hardworking and humble sister. Imprisoned and abused by anti-Catholic Communist forces in the Spanish Civil War, she was ordered to renounce her faith and"
 searchAliases:
   - "Sister Asunción of Saint Joseph"

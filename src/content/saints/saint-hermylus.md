@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermylus"
 honorific: Saint
-title: "Saint Hermylus"
 summary: "Deacon at Singidunum (modern Belgrade, Serbia). Martyred with his servant, Saint Stratonicus, in the persecutions of Licinius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermylus.jpg"
 searchAliases:

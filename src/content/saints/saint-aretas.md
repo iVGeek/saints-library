@@ -1,7 +1,6 @@
 ---
 name: "Saint Aretas of Rome"
 honorific: Saint
-title: "Saint Aretas of Rome"
 summary: "Martyred with 504 other Christians whose names have not come down to us."
 searchAliases:
   - "Arethas"

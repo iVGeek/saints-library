@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christopher Solino"
 honorific: Blessed
-title: "Blessed Christopher Solino"
 summary: "Professor of Sacred Theology at the University of Paris. Mercedarian monk at the convent of Santa Maria in Toulouse, France where he was noted for his ascetic, prayerful life."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Christopher-Solino.jpg"
 region: "France"

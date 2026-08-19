@@ -1,7 +1,6 @@
 ---
 name: "Saint Thyrsus of Autun"
 honorific: Saint
-title: "Saint Thyrsus of Autun"
 summary: "Second-century deacon in Smryna. Missionary in the area of Autun in Gaul (modern France), assigned by Saint Polycarp. Martyr."
 deathYear: 179
 died: "179"

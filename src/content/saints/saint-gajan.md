@@ -1,7 +1,6 @@
 ---
 name: "Saint Gajan"
 honorific: Saint
-title: "Saint Gajan"
 summary: "Fourth century deacon. Martyr."
 died: "martyred in Dacia (an area of modern Romania)"
 feastDay:

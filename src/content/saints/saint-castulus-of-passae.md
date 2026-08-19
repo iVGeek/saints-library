@@ -1,7 +1,6 @@
 ---
 name: "Saint Castulus of Passae"
 honorific: Saint
-title: "Saint Castulus of Passae"
 summary: "Christian in the diocese of Saint Valetine in Terni, Italy. Martyr."
 deathYear: 273
 died: "273 in Passae, Italy"

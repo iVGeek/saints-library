@@ -1,7 +1,6 @@
 ---
 name: "Saint Eucarpus"
 honorific: Saint
-title: "Saint Eucarpus"
 summary: "One of a group of 28 Christians martyred in the early days of the Church in Asia Minor."
 feastDay:
   month: 9

@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Béziers"
 honorific: Saint
-title: "Martyrs of Béziers"
 summary: "20 Mercedarian friars murdered by Huguenots for being Catholic. Martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Beziers.jpg"
 deathYear: 1562

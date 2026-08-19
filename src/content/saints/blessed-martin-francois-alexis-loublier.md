@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martin-François-Alexis Loublier"
 honorific: Blessed
-title: "Blessed Martin-François-Alexis Loublier"
 summary: "Priest of the diocese of Sées, France. One of the Martyrs of September."
 birthYear: 1733
 deathYear: 1792

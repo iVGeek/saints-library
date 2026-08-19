@@ -1,7 +1,6 @@
 ---
 name: "Saint Constant"
 honorific: Saint
-title: "Saint Constant"
 summary: "Priest. Hermit at Lough Erne. Martyr."
 deathYear: 777
 born: "Irish"

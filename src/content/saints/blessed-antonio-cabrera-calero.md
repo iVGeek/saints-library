@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Cabrera Calero"
 honorific: Blessed
-title: "Blessed Antonio Cabrera Calero"
 summary: "Priest in the diocese of Córdoba, Spain, serving as an assistant pastor in the Pedroche community. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936

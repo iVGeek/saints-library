@@ -1,7 +1,6 @@
 ---
 name: "Saint Gemiliano of Cagliari"
 honorific: Saint
-title: "Saint Gemiliano of Cagliari"
 summary: "First century bishop of Cagliari, Italy. Martyred in the persecutions of Nero."
 searchAliases:
   - "Emily"

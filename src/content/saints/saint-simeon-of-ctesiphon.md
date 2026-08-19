@@ -1,7 +1,6 @@
 ---
 name: "Saint Simeon of Ctesiphon"
 honorific: Saint
-title: "Saint Simeon of Ctesiphon"
 summary: "Son of a fuller. Co-adjutor bishop of Seleucia-Ctesiphon in 316. Patriarch of the Church in the East in 326. During the persecutions of King Shapur II of Persia, Shapur, who did not trust Christians or their connection to Rome, ordered Simeon to collect double taxes from all Chri"
 image: "http://catholicsaints.info/wp-content/uploads/Simeon_Barsabae.jpg"
 searchAliases:

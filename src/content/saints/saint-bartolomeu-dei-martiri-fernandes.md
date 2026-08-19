@@ -1,7 +1,6 @@
 ---
 name: "Saint Bartolomeu dei Martiri Fernandes"
 honorific: Venerable
-title: "Saint Bartolomeu dei Martiri Fernandes"
 summary: "Joined the Dominicans on 11 November 1528. Took part in the Council of Trent, and introduced the Council's decisions to Portugal. Archbishop of Braga, Portugal from 27 January 1559 through 23 February 1582. Built hospitals and hospices in his diocese, and founded the first cleric"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeu-dei-Martiri-Fernandes.jpg"
 searchAliases:

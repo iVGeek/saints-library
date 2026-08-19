@@ -1,7 +1,6 @@
 ---
 name: "Saint Codrato"
 honorific: Saint
-title: "Saint Codrato"
 summary: "Martyr."
 searchAliases:
   - "Codro"

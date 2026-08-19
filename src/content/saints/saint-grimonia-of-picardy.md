@@ -1,7 +1,6 @@
 ---
 name: "Saint Grimonia of Picardy"
 honorific: Saint
-title: "Saint Grimonia of Picardy"
 summary: "Daughter of a pagan chieftain. Converted to Christianity around age twelve, and dedicated herself to God. When ordered by her father to marry, she refused. Her father was enraged, and imprisoned her. She managed to escape, fled to Laon, Picardy in France, and lived as an anchores"
 searchAliases:
   - "Germana"

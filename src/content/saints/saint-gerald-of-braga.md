@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerald of Braga"
 honorific: Saint
-title: "Saint Gerald of Braga"
 summary: "Born to the French nobility. Benedictine monk at Moissac, France. Taught grammer and music. Worked with the archbishop in Toledo, Spain, and served as cathedral choir director. Reforming bishop of Braga, Portugal in 1100. Stopped ecclesiastical investiture by laymen in his dioces"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Geraldo.JPG/960px-Geraldo.JPG"
 searchAliases:

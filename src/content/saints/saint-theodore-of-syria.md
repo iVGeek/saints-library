@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Syria"
 honorific: Saint
-title: "Saint Theodore of Syria"
 summary: "Martyr. Known to Saint John Chrysostom who preached on his feast day. No other information has survived."
 died: "date unknown, in Syria, possibly in Antioch"
 deathPlace: "Syria, possibly in Antioch"

@@ -1,7 +1,6 @@
 ---
 name: "Haggai the Prophet"
 honorific: Saint
-title: "Haggai the Prophet"
 summary: "Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding the Temple in Jerusalem."
 image: "http://catholicsaints.info/wp-content/uploads/img-Haggai-the-Prophet.jpg"
 searchAliases:

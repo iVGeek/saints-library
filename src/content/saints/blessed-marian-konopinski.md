@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marian Konopinski Poznan"
 honorific: Blessed
-title: "Blessed Marian Konopinski Poznan"
 summary: "Priest and vicar-general of the archdiocese of Poznan, Poland. Chaplain of the Congregation of the Holy Archangels. Studied social science at the university in Poznan. Arrested for his faith in September 1939 during the Nazi invasion of Poland. Imprisoned in the Dachau concentrat"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Konopinski-Poznan.jpg"
 birthYear: 1907

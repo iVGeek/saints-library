@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Spoleto"
 honorific: Saint
-title: "Saint Gregory of Spoleto"
 summary: "Priest. Martyred in the persecutions of Maximinian Herculeus."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kolner_Dom_Silvester-_und_Gregorfenster.jpg/960px-Kolner_Dom_Silvester-_und_Gregorfenster.jpg"
 deathYear: 304

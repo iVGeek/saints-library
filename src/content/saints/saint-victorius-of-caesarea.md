@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorius of Caesarea"
 honorific: Saint
-title: "Saint Victorius of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Vittorio"

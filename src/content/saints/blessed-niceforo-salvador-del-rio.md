@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicéforo Salvador del Río"
 honorific: Blessed
-title: "Blessed Nicéforo Salvador del Río"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

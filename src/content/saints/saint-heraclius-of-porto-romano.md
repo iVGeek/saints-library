@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclius of Porto Romano"
 honorific: Saint
-title: "Saint Heraclius of Porto Romano"
 summary: "Martyred in the persecution of Diocletian."
 deathYear: 305
 died: "c.305 at Porto Romano at the mouth of the River Tiber in Italy"

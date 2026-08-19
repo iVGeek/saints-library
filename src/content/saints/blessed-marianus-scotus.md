@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marianus Scotus"
 honorific: Blessed
-title: "Blessed Marianus Scotus"
 summary: "Pilgrim to Rome, Italy in 1067, but he never made it. As he passed through Michaelsberg, Germany, he was asked to help copy some manuscripts for a convent. With his travelling companions working to make the vellum on which he wrote, he stayed for the work, and became a Benedictin"
 searchAliases:
   - "Marianus of Ireland"

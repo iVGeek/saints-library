@@ -1,7 +1,6 @@
 ---
 name: "Saint Berius of Constantinople"
 honorific: Saint
-title: "Saint Berius of Constantinople"
 summary: "Martyr."
 searchAliases:
   - "Beniamino"

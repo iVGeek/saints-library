@@ -1,7 +1,6 @@
 ---
 name: "Saint Fiacre"
 honorific: Saint
-title: "Saint Fiacre"
 summary: "Brother of Saint Syra of Troyes. Raised in an Irish monastery, which in the 7th century were great repositories of learning, including the use of healing herbs, a skill studied by Fiacre. His knowledge and holiness caused followers to flock to him, which destroyed the holy isolat"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg/960px-Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg"
 searchAliases:

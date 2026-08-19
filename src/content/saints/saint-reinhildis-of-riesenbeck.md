@@ -1,7 +1,6 @@
 ---
 name: "Saint Reinhildis of Riesenbeck"
 honorific: Saint
-title: "Saint Reinhildis of Riesenbeck"
 summary: "Martyr."
 died: "date unknown, but a gravestone in Riesenbeck, Germany dates from the early 12th century"
 deathPlace: "but a gravestoneRiesenbeck, Germany dates from the early 12th century"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Lhuilier"
 honorific: Blessed
-title: "Blessed Marie Lhuilier"
 summary: "She had no education or place in the world when she was orphaned as a small girl. She worked briefly as a domestic servant then applied for entry to the Augustinian Sisters of the Mercy of Jesus (French Federation) at the convent of San Giuliano. She worked at the hospital of Cha"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Lhuilier.jpg"
 searchAliases:

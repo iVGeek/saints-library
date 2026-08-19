@@ -1,7 +1,6 @@
 ---
 name: "Saint Fulbert of Chartres"
 honorific: Saint
-title: "Saint Fulbert of Chartres"
 summary: "Grew up around Rome, Italy, and known as a promising student. Studied the Benedictine abbey in Rheims, France. A favourite student of the future Pope Sylvester II, he was brought to Rome as an advisor to Sylvester. Upon the pope's death, Fulbert returned to France where he served"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg/960px-Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg"
 searchAliases:

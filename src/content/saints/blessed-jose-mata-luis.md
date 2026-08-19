@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Mata Luis"
 honorific: Blessed
-title: "Blessed José Mata Luis"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Mata-Luis.jpg"
 searchAliases:

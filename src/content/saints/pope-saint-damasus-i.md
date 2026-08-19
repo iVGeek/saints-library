@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Damasus I"
 honorific: Saint
-title: "Pope Saint Damasus I"
 summary: "Raised in a pious family; his father was a priest in Rome, Italy and Damasus served for a time as deacon in his father's church, Saint Laurence. Priest. Assistant to Pope Liberius. Chosen 37th pope in a disputed election in which a minority chose the anti-pope Ursinus. The two re"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pope_Damasus_-_Biblia_Sancti_Martialis_Lemovicensis%2C_Folio_4v.png"
 birthYear: 306

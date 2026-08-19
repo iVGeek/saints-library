@@ -1,7 +1,6 @@
 ---
 name: "Saint Patrick of Málaga"
 honorific: Saint
-title: "Saint Patrick of Málaga"
 summary: "Bishop of Malaga, Spain. At one point he was forced to flee to Auvergne, France to escape persecution. Little else is known about him."
 searchAliases:
   - "Patrick of Auvergne"

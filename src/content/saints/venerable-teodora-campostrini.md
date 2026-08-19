@@ -1,7 +1,6 @@
 ---
 name: "Venerable Teodora Campostrini"
 honorific: Venerable
-title: "Venerable Teodora Campostrini"
 summary: "Second of eight children born to the wealthy family of Francisco and Angela Terzi. Teodora and her sister Rose were educated at the Benedictine convent and school in Verona, Italy, but had to return home in 1806 when religious orders were suppressed as part of the Napoleonic inva"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Teodora-Campostrini.jpg"
 birthYear: 1788

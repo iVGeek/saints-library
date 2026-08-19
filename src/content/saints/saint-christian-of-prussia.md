@@ -1,7 +1,6 @@
 ---
 name: "Saint Christian of Prussia"
 honorific: Saint
-title: "Saint Christian of Prussia"
 summary: "Cistercian monk in Poland. Missionary to pagans in Prussia in the early 13th century. Consecrated a missionary bishop by Pope Innocent III in 1215, the first bishop assigned to Prussia. Worked to establish local priests in the region. Founded the Dobrin Order of the Knights of Ch"
 deathYear: 1245
 born: "late 12th century Prussia (in modern Germany)"

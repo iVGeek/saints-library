@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucio of Alexandria"
 honorific: Saint
-title: "Saint Lucio of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

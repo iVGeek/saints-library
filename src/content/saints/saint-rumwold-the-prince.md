@@ -1,7 +1,6 @@
 ---
 name: "Saint Rumwold the Prince"
 honorific: Saint
-title: "Saint Rumwold the Prince"
 summary: "Born a prince. When he was three days old, Rumwold was baptised, spoke a profession of his faith, and then died."
 searchAliases:
   - "Rumwald"

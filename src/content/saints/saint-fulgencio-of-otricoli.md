@@ -1,7 +1,6 @@
 ---
 name: "Saint Fulgencio of Otricoli"
 honorific: Saint
-title: "Saint Fulgencio of Otricoli"
 summary: " When his city was being approached by the Ostrogoth army of King Totila, Fulgencio went out to meet him, first to plead for his city, then to bribe him into passing by. The Ostro Mid-6th-century bishop of Otricoli, Italy. Pope Saint Gregory the Great wrote about him in Dialogues."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fulgencio-of-Otricoli.jpg"
 searchAliases:

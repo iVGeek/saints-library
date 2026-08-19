@@ -1,7 +1,6 @@
 ---
 name: "Saint Bellinus of Padua"
 honorific: Saint
-title: "Saint Bellinus of Padua"
 summary: "Priest. During a period of turmoil in his diocese, Bellinus stayed loyal to the bishop appointed by the legitimate Pope. Bishop of Padua, Italy. Led a reform of the spiritual lives of the canons in his diocese, and the effort to rebuild the cathedral after its destruction in 1117"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Palazzo_Roverella_-_lapidarium_San_Bellino.jpg/960px-Palazzo_Roverella_-_lapidarium_San_Bellino.jpg"
 searchAliases:

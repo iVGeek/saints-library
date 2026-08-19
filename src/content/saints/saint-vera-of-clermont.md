@@ -1,7 +1,6 @@
 ---
 name: "Saint Vera of Clermont"
 honorific: Saint
-title: "Saint Vera of Clermont"
 summary: "Holy woman whose relics are enshrined in the church of Saint Artemius in Clermont, France. No details of her life have survived."
 region: "France"
 feastDay:

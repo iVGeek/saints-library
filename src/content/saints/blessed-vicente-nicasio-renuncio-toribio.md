@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Nicasio Renuncio Toribio"
 honorific: Blessed
-title: "Blessed Vicente Nicasio Renuncio Toribio"
 summary: "Member of the Redemptorists, professing his vows on 8 September 1895. Ordained a priest on 23 March, 1901, over the next 11 years he was assigned as pastor to several Redemptorist communities in Spain. In 1912, he was assigned to the Shrine of Perpetual Help in Madrid, Spain wher"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Nicasio-Renuncio-Toribio.jpg"
 birthYear: 1876

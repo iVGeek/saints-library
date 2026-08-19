@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carlos Díaz Gandía"
 honorific: Blessed
-title: "Blessed Carlos Díaz Gandía"
 summary: "Lifelong layman in the archdiocese of Valencia, Spain, baptized at the age of one day. Member of Youth Catholic Action at age 14; he eventually served as president of the local chapters. An excellent catechist, he established several “catechist centers” where he would teach each"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-Díaz-Gandía.jpg"
 birthYear: 1907

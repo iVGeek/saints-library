@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Marsden"
 honorific: Blessed
-title: "Blessed William Marsden"
 summary: "Convert to Catholicism; entered the English College at Rheims, France in 1580. Ordained at Rheims with his friend and co-worker Blessed Robert Anderton. Sailed for England as a home missioner, but their ship was driven off course, and wrecked on the Isle of Wight. Arrested soon a"
 birthYear: 1560
 deathYear: 1586

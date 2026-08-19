@@ -1,7 +1,6 @@
 ---
 name: "Venerable Zacarías Salterain-Bizkarra"
 honorific: Venerable
-title: "Venerable Zacarías Salterain-Bizkarra"
 summary: "Youngest of nine children born to Bartholomew and Venancia Salterain-Bizkarra. Discalced Carmelite priest, ordained on 14 September 1912. Missionary to India. Taught at the seminary in Puthemphaly, India. Worked to spread Catholic culture through region while studying the local c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Zacarías-Salterain-Bizkarra.jpg"
 searchAliases:

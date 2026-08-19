@@ -1,7 +1,6 @@
 ---
 name: "Saint Gennadius of Uzalis"
 honorific: Saint
-title: "Saint Gennadius of Uzalis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Gennadio"

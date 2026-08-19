@@ -1,7 +1,6 @@
 ---
 name: "Saint Benignus of Armagh"
 honorific: Saint
-title: "Saint Benignus of Armagh"
 summary: "Son of the Irish chieftain Sesenen in County Meath. Baptized by and a disciple of Saint Patrick, accompanying him in his travels and missions. Noted choral singer and arranger for liturgical music, he was called Patrick's psalm-singer. Evangelized the provinces of Clare, Kerry, a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kilbennan_St._Benin%27s_Church_Window_St._Benen_Detail_2010_09_16.jpg/960px-Kilbennan_St._Benin%27s_Church_Window_St._Benen_Detail_2010_09_16.jpg"
 searchAliases:

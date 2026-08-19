@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary"
 honorific: Saint
-title: "Saint Mary"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "beheaded c.257 in Rome, Italy"

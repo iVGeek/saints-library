@@ -1,7 +1,6 @@
 ---
 name: "Saint Tella of Corinth"
 honorific: Saint
-title: "Saint Tella of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Tellas"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed René-Joseph Urvoy"
 honorific: Blessed
-title: "Blessed René-Joseph Urvoy"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1766
 deathYear: 1792

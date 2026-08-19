@@ -1,7 +1,6 @@
 ---
 name: "Saint Almirus"
 honorific: Saint
-title: "Saint Almirus"
 summary: "Hermit at Gréez-sur-Roc, France."
 searchAliases:
   - "Almer"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Dolores Rodríguez Sopeña"
 honorific: Blessed
-title: "Blessed María Dolores Rodríguez Sopeña"
 summary: "The fourth of seven children born to Tomas Rodr&iacute;guez Sope&ntilde;a, a lawyer, magistrate and administrator, and Nicolasa Ortega Salomon. Eye surgery at age eight left her with limited sight the rest of her life. A debutante at age 17, Maria did not care for the wordly life"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Dolores_sope%C3%B1a_pensativa.jpg"
 birthYear: 1848

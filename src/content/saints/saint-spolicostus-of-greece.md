@@ -1,7 +1,6 @@
 ---
 name: "Saint Spolicostus of Greece"
 honorific: Saint
-title: "Saint Spolicostus of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

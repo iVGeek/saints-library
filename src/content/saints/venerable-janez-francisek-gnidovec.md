@@ -1,7 +1,6 @@
 ---
 name: "Venerable Janez Francišek Gnidovec"
 honorific: Venerable
-title: "Venerable Janez Francišek Gnidovec"
 summary: "Born to a small, poor, pious farm family, Janez began working the cows and hogs as a small boy. His mother died when the boy was seven. An excellent student, Janez helped support his family by tutoring other boys. When his father died in February 1892, Janez prayed for guidance -"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-janez-francisek-gnidovec/venerable-janez-francisek-gnidovec.jpg"
 searchAliases:

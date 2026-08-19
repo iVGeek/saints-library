@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Carvajal Pereda"
 honorific: Blessed
-title: "Blessed Pedro Carvajal Pereda"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

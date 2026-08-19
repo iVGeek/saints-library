@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ricardo Gil Barcelón"
 honorific: Blessed
-title: "Blessed Ricardo Gil Barcelón"
 summary: "One of ten children born to Francesco and Francesca Gil Barcelon. As a young man, he enrolled in the Teruel Normal School to become a teacher, but the director was a Freemason who harassed and eventually expelled Ricardo for his Catholicism. Served as a soldier in the Philippines"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ricardo-Gil-Barcelon-1.jpg"
 birthYear: 1873

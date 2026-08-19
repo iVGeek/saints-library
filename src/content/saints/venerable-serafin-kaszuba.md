@@ -1,7 +1,6 @@
 ---
 name: "Venerable Serafin Kaszuba"
 honorific: Venerable
-title: "Venerable Serafin Kaszuba"
 searchAliases:
   - "Alojzy Kazimierz"
 birthYear: 1910

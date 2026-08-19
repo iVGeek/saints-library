@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Desamparados Giner Sixta"
 honorific: Blessed
-title: "Blessed María Desamparados Giner Sixta"
 summary: "Member of the Carmelite Sisters of Charity, beginning her novitiate on 2 June 1902. Assigned to the College of the Immaculate Conception of Cullera, Spain where she served the rest of her life. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maria-Desamparados.jpg"
 searchAliases:

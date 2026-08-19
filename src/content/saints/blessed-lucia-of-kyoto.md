@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia of Kyoto"
 honorific: Blessed
-title: "Blessed Lucia of Kyoto"
 summary: "Child in the Kyoto, Japan. Daughter of Blessed Mencia of Kyoto. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Omi (in modern Shiga), Japan"

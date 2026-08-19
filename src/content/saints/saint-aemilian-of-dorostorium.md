@@ -1,7 +1,6 @@
 ---
 name: "Saint Aemilian of Dorostorium"
 honorific: Saint
-title: "Saint Aemilian of Dorostorium"
 summary: "Son of the imperial Roman prefect of Dorostorium. Martyred in the persecutions of Julian the Apostate for destroying pagan idols. An innocent passerby was initially grabbed off the street and charged with the damage, but Aemilian came forward to confess and save the man."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aemilian-of-Dorostorium.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Arabus of Thessalonica"
 honorific: Saint
-title: "Saint Arabus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

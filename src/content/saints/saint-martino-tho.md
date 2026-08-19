@@ -1,7 +1,6 @@
 ---
 name: "Saint Martinô Tho"
 honorific: Venerable
-title: "Saint Martinô Tho"
 summary: "Layman martyr."
 birthYear: 1787
 deathYear: 1840

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juan Sáez Hurtado"
 honorific: Venerable
-title: "Venerable Juan Sáez Hurtado"
 summary: "Priest of the diocese of Cartagena, Spain."
 birthYear: 1897
 deathYear: 1982

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaudentia"
 honorific: Saint
-title: "Saint Gaudentia"
 summary: "Roman maiden. Early martyr. No other information has survived."
 region: "Italy"
 feastDay:

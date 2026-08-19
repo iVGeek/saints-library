@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Alexandria"
 honorific: Saint
-title: "Saint Dionysius of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

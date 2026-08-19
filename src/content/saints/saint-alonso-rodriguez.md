@@ -1,7 +1,6 @@
 ---
 name: "Saint Alonso Rodriguez"
 honorific: Venerable
-title: "Saint Alonso Rodriguez"
 summary: "Third of eleven children in the family of the wealthy wool merchant Diego Rodriguez. Met Blessed Peter Faber when he was 10; the Father Faber prepared the boy for his First Communion. At age 14, Alonso was sent to study with Jesuits, Alonso's father died within a year, and he ret"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alonso_Rodr%C3%ADguez.jpg/960px-Alonso_Rodr%C3%ADguez.jpg"
 searchAliases:

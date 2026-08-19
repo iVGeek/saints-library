@@ -1,7 +1,6 @@
 ---
 name: "Saint Lycarion of Egypt"
 honorific: Saint
-title: "Saint Lycarion of Egypt"
 summary: "Tortured extensively and executed for his faith. Martyr."
 searchAliases:
   - "Licarion"

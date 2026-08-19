@@ -1,7 +1,6 @@
 ---
 name: "Saint Siméon-François Berneux"
 honorific: Venerable
-title: "Saint Siméon-François Berneux"
 summary: "Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in 1831. Due to health problems, he had to leave seminary for two years during which time he worked as a tutor. Ordained a diocesan priest on 20 May 1837, Father Berneu"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/St-Berneux.jpg"
 birthYear: 1814

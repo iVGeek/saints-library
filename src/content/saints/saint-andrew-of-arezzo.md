@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Arezzo"
 honorific: Saint
-title: "Saint Andrew of Arezzo"
 summary: "Married layman. Martyred in the persecutions of Valentian I along with his wife and children and 50 companions whose names have not come down to us."
 deathYear: 364
 died: "364 at Arezzo, Tuscany, Italy"

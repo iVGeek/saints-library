@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Gutiérrez Martín"
 honorific: Blessed
-title: "Blessed Manuel Gutiérrez Martín"
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
 birthYear: 1913
 born: "1 January 1913 in Fresno del Río, Palencia, Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ebrulf of Ouche"
 honorific: Saint
-title: "Saint Ebrulf of Ouche"
 summary: "Merovingian courtier. A married layman, he made financial arrangements for his wife, who may have later become a nun, and left the court of King Childebert I to become a monk at Deux Jumeaux abbey. He and a small group of brothers left to become hermits in the nearby forest of Ou"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ebrulf-of-Ouche.jpg"
 searchAliases:

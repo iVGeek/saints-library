@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Souzy"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Souzy"
 summary: "Priest in the diocese of La Rochelle, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. Appointed by his bishop to serve as vicar-general of the prisoners, he tended to them as best he c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1732

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pascual Torres Lloret"
 honorific: Blessed
-title: "Blessed Pascual Torres Lloret"
 summary: "Born to a poor family, Pascual was baptized at the age of two days. He worked as a manufacturer and builder, and was married Leonor Pérez Canet on 5 October 1911; they had five children. Pascual was a pious man, devoted to his family and his faith. Member of Catholic Action. When"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Torres-Lloret.jpg"
 searchAliases:

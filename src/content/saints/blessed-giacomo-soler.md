@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo Soler"
 honorific: Blessed
-title: "Blessed Giacomo Soler"
 summary: "Mercedarian friar known for his dedication to Bible study. Ransomed 289 Christians enslaved by Muslims in Algiers, and preached Christianity while travelling through."
 region: "Italy"
 feastDay:

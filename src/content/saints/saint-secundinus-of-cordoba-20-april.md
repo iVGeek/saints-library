@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundinus of Córdoba"
 honorific: Saint
-title: "Saint Secundinus of Córdoba"
 summary: "Martyr. No other information has survived."
 died: "Córdoba, Spain"
 deathPlace: "Spain"

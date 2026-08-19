@@ -1,7 +1,6 @@
 ---
 name: "Blessed Brian O'Carolan"
 honorific: Blessed
-title: "Blessed Brian O'Carolan"
 summary: "Priest in the diocese of Meath, Ireland. One of the Irish Martyrs."
 deathYear: 1606
 born: "Irish"

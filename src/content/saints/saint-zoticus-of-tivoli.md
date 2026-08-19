@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Tivoli"
 honorific: Saint
-title: "Saint Zoticus of Tivoli"
 summary: "Martyr."
 died: "Tivoli, Italy"
 deathPlace: "Italy"

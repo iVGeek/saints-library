@@ -1,7 +1,6 @@
 ---
 name: "Saint Baudry of Montfaucon"
 honorific: Saint
-title: "Saint Baudry of Montfaucon"
 summary: "Seventh century monk. Founded the Abbey of Montfaucon in the diocese of Verdun, France."
 region: "France"
 feastDay:

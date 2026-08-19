@@ -1,7 +1,6 @@
 ---
 name: "Saint Heribert of Cologne"
 honorific: Saint
-title: "Saint Heribert of Cologne"
 summary: "Son of Duke Hugo of Worms, Germany. Educated at the cathedral school at Worms. Provost of the cathedral. Ordained in 994. Chancellor for Italy under King Otto III in 994. Chancellor for Germany in 997. Archbishop of Cologne, Germany on 9 July 999. Attended the death-bed of King O"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Rathausturm_K%C3%B6ln_-_Heribert_%28detail%29.jpg"
 searchAliases:

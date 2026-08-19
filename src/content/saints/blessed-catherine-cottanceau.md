@@ -1,7 +1,6 @@
 ---
 name: "Blessed Catherine Cottanceau"
 honorific: Blessed
-title: "Blessed Catherine Cottanceau"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1733
 deathYear: 1794

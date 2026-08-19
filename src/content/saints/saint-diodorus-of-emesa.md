@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus of Emesa"
 honorific: Saint
-title: "Saint Diodorus of Emesa"
 summary: "Martyr."
 born: "Emesa, Phoenicia (modern Homs, Syria)"
 died: "crucified in Emesa, Phoenicia (modern Homs, Syria), date unknown"

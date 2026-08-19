@@ -1,7 +1,6 @@
 ---
 name: "Blessed Archangel of Treviglio"
 honorific: Blessed
-title: "Blessed Archangel of Treviglio"
 summary: "Franciscan friar and preacher who served over 40 years in the convent of Santa Maria delle Grazie in the area outside Milan, Italy."
 searchAliases:
   - "Arcangelo"

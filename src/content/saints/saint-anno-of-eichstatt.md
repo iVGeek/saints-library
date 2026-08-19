@@ -1,7 +1,6 @@
 ---
 name: "Saint Anno of Eichstätt"
 honorific: Saint
-title: "Saint Anno of Eichstätt"
 summary: "Monk who evangelized the area of Eichstätt, Germany in the 8th century."
 region: "Germany"
 feastDay:

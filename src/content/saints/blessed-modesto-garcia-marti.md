@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modesto García Martí"
 honorific: Blessed
-title: "Blessed Modesto García Martí"
 summary: "The third of seven children born to Francisco García and Joaquina Martí, Modesto was baptized at the age of two days. He studied at the Capuchin seminary in Massamagrell, Spain, took the habit on 1 January 1896, and made his perpetual vows as a friar on 6 January 1900. After addi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Modesto-García-Martí.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fortis Gabrielli"
 honorific: Blessed
-title: "Blessed Fortis Gabrielli"
 summary: "Hermit in the mountains near Scheggia, Italy. Spiritual student of Blessed Ludolph. Benedictine monk-hermit at the monastery of Fontavellana."
 searchAliases:
   - "Forte"

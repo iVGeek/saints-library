@@ -1,7 +1,6 @@
 ---
 name: "Venerable Thomas Kurialacherry"
 honorific: Venerable
-title: "Venerable Thomas Kurialacherry"
 summary: "Studied at the College of the Papal Propaganda Congregation in Rome, Italy. Ordained a Syro-Malabar priest on 27 May 1899. Parish priest in the Indian towns of Kavalam, Edathua and Champakulam. Founded the Sisters of Adoration of the Blessed Sacrament (Adoration Congregation) on"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bischof_Kurialacherry_JS.jpg"
 birthYear: 1873

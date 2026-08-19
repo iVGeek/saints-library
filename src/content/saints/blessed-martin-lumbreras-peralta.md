@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Lumbreras Peralta"
 honorific: Blessed
-title: "Blessed Martín Lumbreras Peralta"
 summary: "Augustinian Recollect priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:

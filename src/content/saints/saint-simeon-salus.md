@@ -1,7 +1,6 @@
 ---
 name: "Saint Simeon Salus"
 honorific: Saint
-title: "Saint Simeon Salus"
 summary: "A man who lived as a simple fool for Christ and became known for his holy wisdom and miracles. Pilgrim to many holy places. Longtime friend and travelling companion of Saint John of Edessa. Desert hermit. Hermit in Emesa (modern Homs), Syria."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-Salus.jpg"
 searchAliases:

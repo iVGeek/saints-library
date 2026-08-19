@@ -1,7 +1,6 @@
 ---
 name: "Venerable Louis Tijssen"
 honorific: Venerable
-title: "Venerable Louis Tijssen"
 summary: "Priest in the diocese of Roermond, Netherlands."
 birthYear: 1865
 deathYear: 1929

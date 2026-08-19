@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethelred of Eastry"
 honorific: Saint
-title: "Saint Ethelred of Eastry"
 summary: "Great-grandson of Saint Ethelbert of Kent. Martyr."
 searchAliases:
   - "Aethelred"

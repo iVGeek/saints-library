@@ -1,7 +1,6 @@
 ---
 name: "Saint Bruno of Würzburg"
 honorific: Saint
-title: "Saint Bruno of Würzburg"
 summary: "Son of Duke Conrad of Carinthia and the Baroness Matilda. Nephew of Pope Gregory V. Cousin to emperor Conrad II, and later a counselor to him. Great-nephew of Saint Bruno of Querfort. Younger than average when ordained. Bishop of W&uuml;rzburg, Germany in 1033. Built the Cathedra"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Wurzburg.jpg"
 deathYear: 1045

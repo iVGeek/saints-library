@@ -1,7 +1,6 @@
 ---
 name: "Saint Abdo of Rome"
 honorific: Saint
-title: "Saint Abdo of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Abseodus"

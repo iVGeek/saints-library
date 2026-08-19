@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuela Arriola Uranda"
 honorific: Blessed
-title: "Blessed Manuela Arriola Uranda"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuela-Arriola-Uranda.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerius of Armenia"
 honorific: Saint
-title: "Saint Valerius of Armenia"
 summary: "Martyred in the persecutions of emperor Hadrian."
 born: "Armenian"
 died: "crucified in the early 2nd century"

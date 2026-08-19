@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Jin'emon"
 honorific: Blessed
-title: "Blessed Ludovicus Jin'emon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Anna of Hokusanbara. Martyr."
 birthYear: 1549
 deathYear: 1629

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaullenus of Gerona"
 honorific: Saint
-title: "Saint Gaullenus of Gerona"
 summary: "Martyr. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"

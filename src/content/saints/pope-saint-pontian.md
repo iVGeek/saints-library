@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Pontian"
 honorific: Saint
-title: "Pope Saint Pontian"
 summary: "Son of Calpurnius. Chosen 18th pope in 230. Ended the schism of Hippolytus and reconciled the schismatics with the Church. Exiled with Saint Hippolytus by emperor Maximinus Thrax to Sardinia and sentenced to work in the mines, he abdicated the papacy on 28 September 235 so a new"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Spinello_Aretino_008.jpg"
 searchAliases:

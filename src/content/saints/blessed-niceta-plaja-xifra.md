@@ -1,7 +1,6 @@
 ---
 name: "Blessed Niceta Plaja Xifra"
 honorific: Blessed
-title: "Blessed Niceta Plaja Xifra"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Niceta of Saint Prudentius"

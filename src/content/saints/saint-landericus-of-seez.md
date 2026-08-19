@@ -1,7 +1,6 @@
 ---
 name: "Saint Landericus of Séez"
 honorific: Saint
-title: "Saint Landericus of Séez"
 summary: "Bishop of Séez, Normandy, France c.450. Martyr."
 searchAliases:
   - "Landri"

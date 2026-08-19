@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidelis of Sigmaringen"
 honorific: Saint
-title: "Saint Fidelis of Sigmaringen"
 summary: "Lawyer and philosophy teacher. Disgusted by the greed, corruption, and lack of interest in justice by his fellow lawyers, Mark Rey abandoned the law, became a priest, became a Franciscan friar with his brother George, changed his name to Fidelis, and gave away his worldly wealth"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pf%C3%A4rrenbach_Wandmalerei_Fidelis_von_Sigmaringen.jpg/960px-Pf%C3%A4rrenbach_Wandmalerei_Fidelis_von_Sigmaringen.jpg"
 searchAliases:

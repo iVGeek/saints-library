@@ -1,7 +1,6 @@
 ---
 name: "Saint Symphronius the Slave"
 honorific: Saint
-title: "Saint Symphronius the Slave"
 summary: "Slave in imperial Rome. Helped bring Saint Olympius the Tribune, Saint Exuperia the Martyr and Saint Theodulus the Martyr to the faith. Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "burned to death in 257"

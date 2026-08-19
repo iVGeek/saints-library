@@ -1,7 +1,6 @@
 ---
 name: "Saint Armogastes of Africa"
 honorific: Saint
-title: "Saint Armogastes of Africa"
 summary: "Servant of Theodoric, son of the Arian Vandal King Genseric. After Genseric renounced his Christianity and returned to his roots as a violent pagan, he demanded that Armogastes also renounce his faith. When the servant refused, he was tortured, enslaved in the mines of Byzacena,"
 deathYear: 460
 died: "sometime after 460 of natural causes near Carthage, North Africa"

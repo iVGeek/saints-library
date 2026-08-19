@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Isidoro Arrué Peiró"
 honorific: Blessed
-title: "Blessed Antonio Isidoro Arrué Peiró"
 summary: " In 1931, at ag Layman in the Archdiocese of Valencia, Spain. He learned the art of wood carving from his father. Orphaned in 1926 around age 18. He moved from his home town to the city of Zaragoza, Spain where he suffered from depression so severe that he was hospitalized twice."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Isidoro-Arrue-Peiro.jpg"
 birthYear: 1908

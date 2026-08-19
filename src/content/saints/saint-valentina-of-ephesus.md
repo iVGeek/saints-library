@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentina of Ephesus"
 honorific: Saint
-title: "Saint Valentina of Ephesus"
 summary: "Martyr."
 died: "stoned to death near Ephesus, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Chora"
 honorific: Saint
-title: "Saint Theodore of Chora"
 summary: "Maternal uncle of Empress Theodora. General of the Byzantine armies during war with the Persians in 528. Following the war, he retired from the world to live as a hermit in the mountains around Antioch. Founded the Chora monastery outside Constantinople."
 deathYear: 595
 died: "c.595 of natural causes"

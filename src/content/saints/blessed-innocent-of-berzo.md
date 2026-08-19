@@ -1,7 +1,6 @@
 ---
 name: "Blessed Innocent of Berzo"
 honorific: Blessed
-title: "Blessed Innocent of Berzo"
 summary: "Capuchin priest. Having a special gift working with those seeking the Franciscan life, he was made assistant novice master, then director of candidates for the Order. He died while on a preaching tour. His beatification miracles involved cures of terminally ill children."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Innocent-of-Berzo-1.jpg"
 searchAliases:

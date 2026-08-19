@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeroni Messegué Ribera"
 honorific: Blessed
-title: "Blessed Jeroni Messegué Ribera"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Leònides"

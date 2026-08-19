@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modesto Sáez Manzanares"
 honorific: Blessed
-title: "Blessed Modesto Sáez Manzanares"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Hermen-do-Lorenzo.jpg"
 searchAliases:

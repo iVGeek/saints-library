@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rufina of Kyoto"
 honorific: Blessed
-title: "Blessed Rufina of Kyoto"
 summary: "Married lay woman in the diocese of Kyoto, Japan. Mother of Blessed Martha of Kyoto. Widow. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Owari (in modern Aichi), Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Puig Bret"
 honorific: Blessed
-title: "Blessed Josep Puig Bret"
 summary: "Member of the Claretians, professed on 6 January 1880. Ordained a priest on 24 September 1883. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Sidronius"
 honorific: Saint
-title: "Saint Sidronius"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 in Rome, Italy"

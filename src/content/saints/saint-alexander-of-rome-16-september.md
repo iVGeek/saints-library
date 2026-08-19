@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Saint Alexander of Rome"
 summary: "Martyr."
 died: "on the Via Nomentana outside Rome, Italy"
 deathPlace: "Italy"

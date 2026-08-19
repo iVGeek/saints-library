@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Barberi"
 honorific: Blessed
-title: "Blessed Dominic Barberi"
 summary: "Born to a poor farm family, orphaned by age eight, and raised by an aunt and uncle on a farm in Merlano, Italy. An uneducated shepherd boy, he spent his time with the flocks in prayer. Met many Passionist priests exiled from France during the repressions of Napoleon. During praye"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dominic_Barberi_painting.jpg/960px-Dominic_Barberi_painting.jpg"
 searchAliases:

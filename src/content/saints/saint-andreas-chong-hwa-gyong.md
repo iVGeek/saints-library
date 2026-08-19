@@ -1,7 +1,6 @@
 ---
 name: "Saint Andreas Chong Hwa-Gyong"
 honorific: Venerable
-title: "Saint Andreas Chong Hwa-Gyong"
 summary: "Layman catechist in the the apostolic vicariate of Korea. Assistant to Saint Lawrence Imbert. Turned his home into a safe-house for Christians hiding from official persecutions, for which he was shot, arrested and finally executed. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Andreas-Chong-Hwa-Gyong.jpg"
 searchAliases:

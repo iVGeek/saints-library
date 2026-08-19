@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of North Africa"
 honorific: Saint
-title: "Saint Victor of North Africa"
 summary: "Martyr. No other information has survived."
 died: "martyred in North Africa, date unknown"
 deathPlace: "date unknown"

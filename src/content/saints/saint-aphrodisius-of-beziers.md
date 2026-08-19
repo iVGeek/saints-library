@@ -1,7 +1,6 @@
 ---
 name: "Saint Aphrodisius of Béziers"
 honorific: Saint
-title: "Saint Aphrodisius of Béziers"
 summary: "Government official in his native Egypt, and an adult convert to Christianity. First bishop of Béziers in Narbonense Gaul (in modern France), consecrated by Saint Paul of Narbonne, and serving in the mid-3rd-century."
 searchAliases:
   - "Afrodise"

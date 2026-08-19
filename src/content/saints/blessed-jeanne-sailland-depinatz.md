@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Sailland d'Epinatz"
 honorific: Blessed
-title: "Blessed Jeanne Sailland d'Epinatz"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1769
 deathYear: 1794

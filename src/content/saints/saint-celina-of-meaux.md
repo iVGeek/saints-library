@@ -1,7 +1,6 @@
 ---
 name: "Saint Celina of Meaux"
 honorific: Saint
-title: "Saint Celina of Meaux"
 summary: "Born to the nobility, she was drawn to religious life; this desire was intensified when she met Saint Genevieve. Her fiance opposed the choice. Celina fled to the local cathedral with Saint Genevieve; its doors opened to admit them, closed behind them, and could not be opened aga"
 deathYear: 480
 died: "c.480 of natural causes"

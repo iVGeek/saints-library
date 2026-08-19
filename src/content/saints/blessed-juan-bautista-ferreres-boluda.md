@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Bautista Ferreres Boluda"
 honorific: Blessed
-title: "Blessed Juan Bautista Ferreres Boluda"
 summary: "Joined the Jesuits in 1888. Priest. Professor of moral theology and canon law. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Bautista-Ferreres-Boluda.jpg"
 birthYear: 1861

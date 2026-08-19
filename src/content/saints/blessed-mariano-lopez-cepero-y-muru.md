@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano López-Cepero y Murú"
 honorific: Blessed
-title: "Blessed Mariano López-Cepero y Murú"
 summary: "Married layman in the archdiocese of Seville, Spain. Deputy mayor of Cazalla de la Sierra, Spain. Member of the Society of Saint Vincent de Paul and his parish council. Murdered with his brother, Blessed Gabriel López-Cepero y Murú in the persecutions of the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

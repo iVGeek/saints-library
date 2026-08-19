@@ -1,7 +1,6 @@
 ---
 name: "Blessed Adalbert of Tegernsee"
 honorific: Blessed
-title: "Blessed Adalbert of Tegernsee"
 summary: "Brother of Blessed Ottokar of Tegernsee. Count of Warngau (in modern Germany). Helped found the Tegernsee Abbey in Bavaria (in modern Germany), and served as its first abbot."
 image: "http://catholicsaints.info/wp-content/uploads/Adalbert-of-Tegernsee.jpg"
 searchAliases:

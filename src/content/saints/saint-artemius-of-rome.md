@@ -1,7 +1,6 @@
 ---
 name: "Saint Artemius of Rome"
 honorific: Saint
-title: "Saint Artemius of Rome"
 summary: "Married to Saint Candida of Rome; father of Saint Paulina of Rome. Jailer. Convert, brought to the faith by Saint Peter the Exorcist and baptised by Saint Marcellinus. Martyr."
 searchAliases:
   - "Artemio"

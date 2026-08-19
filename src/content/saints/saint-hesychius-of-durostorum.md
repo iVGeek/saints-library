@@ -1,7 +1,6 @@
 ---
 name: "Saint Hesychius of Durostorum"
 honorific: Saint
-title: "Saint Hesychius of Durostorum"
 summary: "Imperial Roman soldier in Durostorum, Moesia (modern Silistra, Bulgaria). Martyred with Saint Julius of Durostorum."
 searchAliases:
   - "Hesychius of Dorostoro"

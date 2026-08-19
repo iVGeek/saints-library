@@ -1,7 +1,6 @@
 ---
 name: "Saint Robert of Molesme"
 honorific: Saint
-title: "Saint Robert of Molesme"
 summary: "Born to the French nobility. Benedictine monk in 1044. Prior of Moutiers-la-Celle Abbey. Abbot of Saint-Michel-de-Tonnerre, but considered it to have lax standards. Prior of Saint-Ayeul Abbey. In 1075, in an attempt to return to a simpler form of Benedictine life requested by a g"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG/960px-Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG"
 searchAliases:

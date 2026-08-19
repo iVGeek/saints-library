@@ -1,7 +1,6 @@
 ---
 name: "Saint Dio of Alexandria"
 honorific: Saint
-title: "Saint Dio of Alexandria"
 summary: "Priest. Martyred in the Diocletian."
 region: "Italy"
 feastDay:

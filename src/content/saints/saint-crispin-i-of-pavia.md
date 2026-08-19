@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispin I of Pavia"
 honorific: Saint
-title: "Saint Crispin I of Pavia"
 summary: "Third century bishop of Pavia, Lombardy, Italy for 35 years."
 deathYear: 250
 died: "c.250"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict the Black"
 honorific: Saint
-title: "Saint Benedict the Black"
 summary: "His parents, Christopher and Diana, were slaves who had been taken from Africa to Sicily. Benedict was granted his freedom at age 18, but remained as an employee of his former master. Scorned and mocked by others as poor as himself, due to his origin and skin, he retained a natur"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-the-Black-1.jpg"
 searchAliases:

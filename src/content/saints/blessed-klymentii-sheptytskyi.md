@@ -1,7 +1,6 @@
 ---
 name: "Blessed Klymentii Sheptytskyi"
 honorific: Blessed
-title: "Blessed Klymentii Sheptytskyi"
 summary: "Greek Catholic. Younger brother of the Servant of God Metropolitan Roman Oleksandr Maria Sheptytskyi. Klymentii entered the monastery of Saint Theodore the Studite in 1911 at age 42. He studied theology at Innsbruck, Austria. Ordained on 28 August 1915. Prior of the Studite monas"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Klymentii-Sheptytskyi.jpg"
 searchAliases:

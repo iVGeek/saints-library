@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthalia of Leontini"
 honorific: Saint
-title: "Saint Euthalia of Leontini"
 summary: "Daughter of Saint Eutropia of Lentini. A convert, she was baptized following a vision and healing received by her Mother. She withdrew from the world as much as she could. Murdered by her own brother, Servilian, during the persecutions of Decius. Martyr."
 searchAliases:
   - "Eutalia"

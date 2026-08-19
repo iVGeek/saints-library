@@ -1,7 +1,6 @@
 ---
 name: "Saint Baricus of Africa"
 honorific: Saint
-title: "Saint Baricus of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Albert of Louvain"
 honorific: Saint
-title: "Saint Albert of Louvain"
 summary: "Son of Duke Godfrey III of Brabant. Made a canon of Liege, Belgium at age 12, a political appointment for guaranteed income rather than a religious vocation. He gave up the position at age 21 to become a knight under Count Baldwin V of Hainault, a bitter enemy of his native Braba"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Archduke_Albert_with_Albert_of_Louvain.jpg"
 searchAliases:

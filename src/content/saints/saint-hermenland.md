@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermenland"
 honorific: Saint
-title: "Saint Hermenland"
 summary: "Royal cup-bearer in his youth. Monk at Fontenelle under Saint Lambert. Priest. With twelve brother monks, he established an abbey on an island at Aindre on the Loire, and served as its first abbot."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermeland.jpg"
 searchAliases:

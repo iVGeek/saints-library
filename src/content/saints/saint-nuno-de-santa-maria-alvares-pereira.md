@@ -1,7 +1,6 @@
 ---
 name: "Saint Nuño de Santa Maria Álvares Pereira"
 honorific: Saint
-title: "Saint Nuño de Santa Maria Álvares Pereira"
 summary: "Cousin of the founder of the noble Braganza family. Constable of the kingdom of Portugal, a knight, and a prior in the Order of Saint John of Jerusalem. Married. Career soldier, fighting for, and a hero of Portuguese independence. Widower. Lay-brother in the Order of Friars of th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nuño-de-Santa-Maria-Álvares-Pereira.jpg"
 searchAliases:

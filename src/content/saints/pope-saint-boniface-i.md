@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Boniface I"
 honorific: Saint
-title: "Pope Saint Boniface I"
 summary: "Son of the presbyter Jocundus. Priest, apparently having been ordained by Pope Saint Damasus I. Papal legate to Constantinople c.405 for Pope Saint Innocent I. Elected 42nd pope in 418. He was opposed by anti-pope Eulalius who had the support of the minor clergy. Both were exiled"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/H._Augustinus_met_brandend_hart_Titelpagina_voor_Cornelius_Jansenius%2C_Augustinus%2C_Leuven%2C_1640%2C_RP-P-OB-6932%28cropped2%29.jpg"
 birthYear: 350

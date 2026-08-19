@@ -1,7 +1,6 @@
 ---
 name: "Blessed Estfan Al-Dwayhi"
 honorific: Blessed
-title: "Blessed Estfan Al-Dwayhi"
 summary: "Patriarch of Antioch of the Maronites, noted for his writings on liturgy, history, Christian living, philosophy and other matters."
 searchAliases:
   - "3 May"

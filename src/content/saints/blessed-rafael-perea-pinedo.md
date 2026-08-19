@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Perea Pinedo"
 honorific: Blessed
-title: "Blessed Rafael Perea Pinedo"
 summary: "Redemptorist brother, joining on 27 February 1923, and making his solemn profession on 27 February 1926. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Perea-Pinedo.jpg"
 searchAliases:

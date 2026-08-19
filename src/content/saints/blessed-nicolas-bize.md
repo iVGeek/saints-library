@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas Bize"
 honorific: Blessed
-title: "Blessed Nicolas Bize"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1737
 deathYear: 1792

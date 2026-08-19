@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Panadés Terré"
 honorific: Blessed
-title: "Blessed Josep Maria Panadés Terré"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthusa the Younger"
 honorific: Saint
-title: "Saint Anthusa the Younger"
 summary: "Martyr."
 born: "Persian"
 died: "sewn up in a sack and drowned in a well in Persia"

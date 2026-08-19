@@ -1,7 +1,6 @@
 ---
 name: "Saint Adela of Blois"
 honorific: Saint
-title: "Saint Adela of Blois"
 summary: "Princess. Youngest daughter of King William the Conqueror of England. Married Stephen of Blois, France in 1080. Mother of eleven children. Active in English politics throughout her life. Endowed several churches and monasteries."
 image: "http://catholicsaints.info/wp-content/gallery/saint-adela/saint-adela-01.jpg"
 searchAliases:

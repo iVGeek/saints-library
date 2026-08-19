@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gennaro Maria Sarnelli"
 honorific: Blessed
-title: "Blessed Gennaro Maria Sarnelli"
 summary: "Son of the Baron of Ciorani. Civil and canon lawyer at age 20. Friend of Saint Alphonsus Maria de Liguori. While working with terminally ill patients, Gennaro felt a call to the priesthood, and in 1728 he gave up the law and entered the seminary. Ordained on 8 June 1732, he gave"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Beato_Gennaro_Maria_Sarnelli_-_tela_per_la_beatificazione.jpg"
 searchAliases:

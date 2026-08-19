@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Rome"
 honorific: Saint
-title: "Saint Silvanus of Rome"
 summary: "Martyr."
 searchAliases:
   - "Sylvanus"

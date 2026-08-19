@@ -1,7 +1,6 @@
 ---
 name: "Saint Badulf of Ainay"
 honorific: Saint
-title: "Saint Badulf of Ainay"
 summary: "Monk. Abbot of Ainay Abbey near Lyons, France."
 searchAliases:
   - "Badour"

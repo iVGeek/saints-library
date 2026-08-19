@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Alonso Sanjuán"
 honorific: Blessed
-title: "Blessed Tomás Alonso Sanjuán"
 summary: "Salesian priest. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936

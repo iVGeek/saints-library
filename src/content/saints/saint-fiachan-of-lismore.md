@@ -1,7 +1,6 @@
 ---
 name: "Saint Fiachan of Lismore"
 honorific: Saint
-title: "Saint Fiachan of Lismore"
 summary: "Monk at Lismore, Ireland. Spiritual student of Saint Carthage the Younger."
 searchAliases:
   - "Fiachna"

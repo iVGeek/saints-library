@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Heraclea"
 honorific: Saint
-title: "Saint Felix of Heraclea"
 summary: "Martyred at Heraclea. No other information has survived."
 region: "England"
 feastDay:

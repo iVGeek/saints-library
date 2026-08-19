@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus Chen Changpin"
 honorific: Venerable
-title: "Saint Paulus Chen Changpin"
 summary: "Seminarian in the apostolic vicariate of Guizhou, China. Locked in a cold, damp cave, tortured and martyred for his faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Chen-Changpin.jpg"
 searchAliases:

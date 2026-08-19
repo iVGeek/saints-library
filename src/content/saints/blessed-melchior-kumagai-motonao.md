@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melchior Kumagai Motonao"
 honorific: Blessed
-title: "Blessed Melchior Kumagai Motonao"
 summary: "Married layman of the diocese of Hiroshima, Japan. Martyr."
 birthYear: 1554
 deathYear: 1605

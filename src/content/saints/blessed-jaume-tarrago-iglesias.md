@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Tarragó Iglesias"
 honorific: Blessed
-title: "Blessed Jaume Tarragó Iglesias"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1868
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cesar Gonzalo Zurro Fanjul"
 honorific: Blessed
-title: "Blessed Cesar Gonzalo Zurro Fanjul"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1934

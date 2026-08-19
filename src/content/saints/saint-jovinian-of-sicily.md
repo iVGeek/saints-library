@@ -1,7 +1,6 @@
 ---
 name: "Saint Jovinian of Sicily"
 honorific: Saint
-title: "Saint Jovinian of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"

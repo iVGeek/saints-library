@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Alarcón Ruiz"
 honorific: Blessed
-title: "Blessed Mariano Alarcón Ruiz"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father José Mariano of the Angels"

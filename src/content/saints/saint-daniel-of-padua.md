@@ -1,7 +1,6 @@
 ---
 name: "Saint Daniel of Padua"
 honorific: Saint
-title: "Saint Daniel of Padua"
 summary: "Jewish convert. Deacon to Saint Prosdocimus of Padua, and assisted in his missionary work. Martyed for his efforts during the persecutions of Marcus Aurelius."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/San_Daniele_Basilica_del_Santo.JPG/960px-San_Daniele_Basilica_del_Santo.JPG"
 deathYear: 168

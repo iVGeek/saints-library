@@ -1,7 +1,6 @@
 ---
 name: "Saint Emidius of Ascoli Piceno"
 honorific: Saint
-title: "Saint Emidius of Ascoli Piceno"
 summary: "Convert to Christianity. Bishop, consecrated by Pope Saint Marcellus. Very successful missionary to Trier, Germany. However, when he started smashing pagan idols, the non-converts revolted, and he had to flee to Rome for safety. When he returned to his mission in Ascoli Piceno, I"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emidius-of-Ascoli-Piceno.jpg"
 searchAliases:

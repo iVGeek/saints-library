@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Nicomedia"
 honorific: Saint
-title: "Saint Donatus of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "Nicomedia, Bitynia (in modern Turkey)"
 deathPlace: "Bitynia (modern Turkey)"

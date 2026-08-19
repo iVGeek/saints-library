@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Southerne"
 honorific: Blessed
-title: "Blessed William Southerne"
 summary: "Studied in Lithuania, at the English College at Douai, France, and the College of Saint Alban, Valladolid, Spain. Priest. Returned to England to minister to covert Catholics, mainly in Northumberland. Arrested while celebrating Mass, and condemned to death for the crime of priest"
 birthYear: 1569
 deathYear: 1618

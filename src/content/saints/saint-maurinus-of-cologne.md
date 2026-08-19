@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurinus of Cologne"
 honorific: Saint
-title: "Saint Maurinus of Cologne"
 summary: "Monk at the monastery of Saint Panteleon, Cologne, Germany. Probably served as abbot of his house. Martyr."
 searchAliases:
   - "Maurino"

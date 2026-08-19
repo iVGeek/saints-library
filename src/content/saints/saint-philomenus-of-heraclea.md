@@ -1,7 +1,6 @@
 ---
 name: "Saint Philomenus of Heraclea"
 honorific: Saint
-title: "Saint Philomenus of Heraclea"
 summary: "Martyred in Heraclea, Thrace. No other information has survived."
 region: "England"
 feastDay:

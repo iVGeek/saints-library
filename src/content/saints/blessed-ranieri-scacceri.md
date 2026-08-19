@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ranieri Scacceri"
 honorific: Blessed
-title: "Blessed Ranieri Scacceri"
 summary: "Son of a wealthy merchant, he spent a wild and sinful youth as a wandering minstrel and musician, partying all night, sleeping by day if at all. One evening, while performing for a merry crowd in a castle, he met a holy man, Blessed Alberto Leccapecore. Ranieri felt drawn to the"
 image: "http://catholicsaints.info/wp-content/uploads/Ranieri-Scacceri.jpg"
 searchAliases:

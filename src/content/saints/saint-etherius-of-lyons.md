@@ -1,7 +1,6 @@
 ---
 name: "Saint Etherius of Lyons"
 honorific: Saint
-title: "Saint Etherius of Lyons"
 summary: "Bishop of Lyons, France."
 searchAliases:
   - "Alermius"

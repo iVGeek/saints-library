@@ -1,7 +1,6 @@
 ---
 name: "Saint Simplicius of Sardinia"
 honorific: Saint
-title: "Saint Simplicius of Sardinia"
 summary: "First bishop of Gallura, Italy. Marytred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simplicius-of-Sardinia.jpg"
 searchAliases:

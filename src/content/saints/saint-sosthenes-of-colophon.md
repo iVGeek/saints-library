@@ -1,7 +1,6 @@
 ---
 name: "Saint Sosthenes of Colophon"
 honorific: Saint
-title: "Saint Sosthenes of Colophon"
 summary: "First century leader of the synagogue at Corinth. Convert, led to the faith by Saint Paul the Apostle, and mentioned in the opening of the 1st Epistle to the Corinthians. First bishop of Colophon, Asia Minor. Martyr."
 searchAliases:
   - "Sosthenes of Corinth"

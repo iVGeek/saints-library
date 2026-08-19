@@ -1,7 +1,6 @@
 ---
 name: "Saint Sacerdos of Saguntum"
 honorific: Saint
-title: "Saint Sacerdos of Saguntum"
 summary: "Bishop of Saguntum (now Murviedro), Spain."
 deathYear: 560
 died: "c.560 of natural causes"

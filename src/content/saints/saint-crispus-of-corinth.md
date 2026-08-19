@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispus of Corinth"
 honorific: Saint
-title: "Saint Crispus of Corinth"
 summary: "Convert, baptized by Saint Paul the Apostle. Leader of the synagogue in Corinth, Greece. First bishop of the island of Aegina. Martyr."
 searchAliases:
   - "Crispus of Aegina"

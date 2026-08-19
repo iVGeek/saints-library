@@ -1,7 +1,6 @@
 ---
 name: "Saint Evangelius of Alexandria"
 honorific: Saint
-title: "Saint Evangelius of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Eucarius"

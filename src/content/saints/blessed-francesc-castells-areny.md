@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Castells-Areny"
 honorific: Blessed
-title: "Blessed Francesc Castells-Areny"
 summary: "We have no information about his birth parents, but know that Francesco was adopted, and used the name of his adoptive parents. He studied in the seminary of the diocese of Urgell, Spain and was ordained a priest on 21 December 1889. He served as coadjutor in various parishes, an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Castells-Areny.jpg"
 searchAliases:

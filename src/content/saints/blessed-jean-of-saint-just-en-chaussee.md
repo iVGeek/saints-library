@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean of Saint-Just-en-Chaussée"
 honorific: Blessed
-title: "Blessed Jean of Saint-Just-en-Chaussée"
 summary: "Member of the Premonstratensians. Canon of Saint-Just-en-Chaussée monastery. In 1147 he was placed in charge of another Premonstratensian house which he led until his death."
 birthYear: 1100
 deathYear: 1160

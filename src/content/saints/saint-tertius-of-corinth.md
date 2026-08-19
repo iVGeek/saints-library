@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertius of Corinth"
 honorific: Saint
-title: "Saint Tertius of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

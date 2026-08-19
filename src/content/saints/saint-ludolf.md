@@ -1,7 +1,6 @@
 ---
 name: "Saint Ludolf"
 honorific: Saint
-title: "Saint Ludolf"
 summary: "Monk. Abbot of New Corvey Abbey in Westphalia, Germany from 971 to 983."
 searchAliases:
   - "Ludolph"

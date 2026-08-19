@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Pannonia"
 honorific: Saint
-title: "Martyrs of Pannonia"
 summary: "Seven virgin-martyrs in Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)."
 region: "England"
 feastDay:

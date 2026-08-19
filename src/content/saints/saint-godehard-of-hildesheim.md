@@ -1,7 +1,6 @@
 ---
 name: "Saint Godehard of Hildesheim"
 honorific: Saint
-title: "Saint Godehard of Hildesheim"
 summary: "Godehard was raised around churchmen, his father working for the canons of Niederaltaich Abbey in Bavaria. Ordained a priest, Godehard joined the canons of Niederaltaich, and became their provost. Benedictine monk. He helped reintroduce the Benedictine Rule at Niederaltaich, whic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Godehard-of-Hildesheim.jpg"
 searchAliases:

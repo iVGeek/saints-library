@@ -1,7 +1,6 @@
 ---
 name: "Saint Thamel"
 honorific: Saint
-title: "Saint Thamel"
 summary: "Pagan priest. Convert to Christianity. Martyred with his sister, whose name has not come down to us, in the persecutions of Emperor Hadrian."
 deathYear: 125
 died: "125"

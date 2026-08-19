@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyril of North Africa"
 honorific: Saint
-title: "Saint Cyril of North Africa"
 summary: "Bishop. Martyred in North Africa."
 region: "Africa"
 feastDay:

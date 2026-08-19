@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro de la Varga Delgado"
 honorific: Blessed
-title: "Blessed Pedro de la Varga Delgado"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

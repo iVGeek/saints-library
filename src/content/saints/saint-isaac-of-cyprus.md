@@ -1,7 +1,6 @@
 ---
 name: "Saint Isaac of Cyprus"
 honorific: Saint
-title: "Saint Isaac of Cyprus"
 summary: "Bishop in Cyprus. Martyr. No other information has survied."
 searchAliases:
   - "Isacius"

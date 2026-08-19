@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Kazmierski"
 honorific: Blessed
-title: "Blessed Edward Kazmierski"
 summary: "Son of a poor cobbler in the archdiocese of Poznan, Poland. He managed to finish elementary school, but had to leave to work to help the family. A pious boy, he joined the Salesian youth oratory and spent his free time there in Eucharistic adoration, singing in the choir and as a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Kazmierski.jpg"
 birthYear: 1919

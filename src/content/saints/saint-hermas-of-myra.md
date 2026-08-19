@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermas of Myra"
 honorific: Saint
-title: "Saint Hermas of Myra"
 summary: "Priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermas-of-Myra.jpg"
 died: "in Lycia, Asia Minor"

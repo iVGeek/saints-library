@@ -1,7 +1,6 @@
 ---
 name: "Saint Benatius of Kilcooley"
 honorific: Saint
-title: "Saint Benatius of Kilcooley"
 summary: "Mentioned in early Irish martyrologies, but no details about him have survived."
 region: "Ireland"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Synesius"
 honorific: Saint
-title: "Saint Synesius"
 summary: "Martyr."
 searchAliases:
   - "Senesio"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugh Canefro"
 honorific: Blessed
-title: "Blessed Hugh Canefro"
 summary: "Born to the Italian nobility. Fought in the Third Crusade. Member of the Knights of Malta. Assigned to the Saint John Commandery hospital in Genoa, Italy. There he sold his armour to buy clothes for nurses, and served the sick poor for 50 years."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-Canefro.jpg"
 searchAliases:

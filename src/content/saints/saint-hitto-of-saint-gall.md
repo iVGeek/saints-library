@@ -1,7 +1,6 @@
 ---
 name: "Saint Hitto of Saint-Gall"
 honorific: Saint
-title: "Saint Hitto of Saint-Gall"
 summary: "Born to the Swabian nobility in the 10th century; brother of Saint Wiborada of Gall. Priest. Provost of Saint Magnus church. Monk at Saint-Gall, Switzerland."
 searchAliases:
   - "Hatto"

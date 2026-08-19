@@ -1,7 +1,6 @@
 ---
 name: "Saint Stefano of Cuneo"
 honorific: Saint
-title: "Saint Stefano of Cuneo"
 summary: "Franciscan friar. Priest. Missionary to Palestine in 1384. Martyred by the Muslim authorities."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Stefano-of-Cuneo.jpg"
 deathYear: 1391

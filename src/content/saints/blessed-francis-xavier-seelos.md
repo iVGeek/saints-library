@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Xavier Seelos"
 honorific: Blessed
-title: "Blessed Francis Xavier Seelos"
 summary: "One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his first Communion on 2 April 1830. The boy wanted to b"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Blessed_Francis_Xavier_Seelos.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clemens August von Galen"
 honorific: Blessed
-title: "Blessed Clemens August von Galen"
 summary: "Born to one of the oldest German noble families. Ordained on 28 May 1904 at Münster, Germany. Chosen bishop of Münster on 5 September 1933. Fiercely anti-Communist, and an outspoken opponent of the Stalinist regime. A strong nationalist who loved his homeland, his was known for h"
 image: "http://catholicsaints.info/wp-content/uploads/Clemens-August-von-Galen.jpg"
 searchAliases:

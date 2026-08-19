@@ -1,7 +1,6 @@
 ---
 name: "Saint Epictetus of Ostia"
 honorific: Saint
-title: "Saint Epictetus of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"

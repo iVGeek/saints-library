@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustina of Alexandria"
 honorific: Saint
-title: "Saint Faustina of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"

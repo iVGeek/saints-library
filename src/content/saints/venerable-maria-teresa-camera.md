@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Teresa Camera"
 honorific: Venerable
-title: "Venerable Maria Teresa Camera"
 summary: "The daughter of Angelo Camera and Caterina Merialdi, a poor farming family. She founded the Congregation of the Daughters of Our Lady of Pieta."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Camera.jpg"
 birthYear: 1818

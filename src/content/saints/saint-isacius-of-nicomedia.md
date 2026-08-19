@@ -1,7 +1,6 @@
 ---
 name: "Saint Isacius of Nicomedia"
 honorific: Saint
-title: "Saint Isacius of Nicomedia"
 summary: "Palace attendant to Empress Alexandra, wife of Diocletian. When the persecutions of Diocletian began, Isaacius was imprisoned, abused and martyred."
 searchAliases:
   - "Isaac of Nicmedia"

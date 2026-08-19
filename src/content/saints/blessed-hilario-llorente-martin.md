@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hilario Llorente Martín"
 honorific: Blessed
-title: "Blessed Hilario Llorente Martín"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hilario-Llorente-Martín.jpg"
 birthYear: 1911

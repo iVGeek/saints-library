@@ -1,7 +1,6 @@
 ---
 name: "Saint Rebecca of Alexandria"
 honorific: Saint
-title: "Saint Rebecca of Alexandria"
 summary: "Martyr."
 died: "3rd century in Alexandria, Egypt"
 deathPlace: "Egypt"

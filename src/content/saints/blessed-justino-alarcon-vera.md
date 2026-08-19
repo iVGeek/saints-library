@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justino Alarcón Vera"
 honorific: Blessed
-title: "Blessed Justino Alarcón Vera"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Carpophorus"
 honorific: Saint
-title: "Saint Carpophorus"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Carpoforo"

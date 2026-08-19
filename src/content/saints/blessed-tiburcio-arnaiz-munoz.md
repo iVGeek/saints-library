@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tiburcio Arnáiz Muñoz"
 honorific: Blessed
-title: "Blessed Tiburcio Arnáiz Muñoz"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tiburcio_Arnaiz.jpg"
 birthYear: 1865
 deathYear: 1926

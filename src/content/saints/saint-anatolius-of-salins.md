@@ -1,7 +1,6 @@
 ---
 name: "Saint Anatolius of Salins"
 honorific: Saint
-title: "Saint Anatolius of Salins"
 summary: "Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France."
 born: "Scottish"
 died: "9th century"

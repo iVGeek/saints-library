@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Pormort"
 honorific: Blessed
-title: "Blessed Thomas Pormort"
 summary: "Educated at Cambridge University. Studied at the seminary in Rheims, France in 1581, and then, beginning in 1582, in Rome, Italy. Ordained in 1587. Worked with Bishop Owen Lewis in the diocese of Cassano, Italy. Prefect of studies at the Swiss college in Milan, Italy on 25 April"
 searchAliases:
   - "Thomas Whitgift"

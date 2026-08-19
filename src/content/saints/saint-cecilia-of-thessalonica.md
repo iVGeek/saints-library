@@ -1,7 +1,6 @@
 ---
 name: "Saint Cecilia of Thessalonica"
 honorific: Saint
-title: "Saint Cecilia of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

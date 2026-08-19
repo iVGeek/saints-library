@@ -1,7 +1,6 @@
 ---
 name: "Saint Timothy of Rheims"
 honorific: Saint
-title: "Saint Timothy of Rheims"
 summary: "Martyr."
 deathYear: 290
 died: "beheaded c.290 at Rheims, France"

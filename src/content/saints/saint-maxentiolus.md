@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxentiolus"
 honorific: Saint
-title: "Saint Maxentiolus"
 summary: "Disciple of Saint Martin of Tours. Abbot. Founder of Our Lady of Cunault abbey in France."
 searchAliases:
   - "Mezenceul"

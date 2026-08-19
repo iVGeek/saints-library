@@ -1,7 +1,6 @@
 ---
 name: "Blessed Severin Ott"
 honorific: Blessed
-title: "Blessed Severin Ott"
 summary: "Norbertine canon of the monastery in Roggenburg, Swabia, Bavaria (in modern Germany). He was known for his deep prayer life, his personal penances, and his devotion to the Virgin Mary. Promoted pilgrimages to a shrine in nearby Sheissen. In his later years he withdrew to life as"
 searchAliases:
   - "Severinus"

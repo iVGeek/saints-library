@@ -1,7 +1,6 @@
 ---
 name: "Saint Sarnat"
 honorific: Saint
-title: "Saint Sarnat"
 summary: "Daughter of Maelan. Nun. Abbess."
 born: "Irish"
 region: "Ireland"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Acacius Agathangelos of Melitene"
 honorific: Saint
-title: "Saint Acacius Agathangelos of Melitene"
 summary: "Bishop of Hither, Asia (Melitene in Armenia, modern Malatya, Turkey). He intervened in the Council of Ephesus to defend orthodox Christianity against Nestorianism. Arrested in the persecutions of Decius and brought before the imperial tribunal for the crimes of Christianity and r"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Acacius-Agathangelos-of-Melitene.jpg"
 searchAliases:

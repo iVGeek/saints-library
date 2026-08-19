@@ -1,7 +1,6 @@
 ---
 name: "Saint Erbin of Cornwall"
 honorific: Saint
-title: "Saint Erbin of Cornwall"
 summary: "Fifth century relative of a Cornish chieftain. Churches are dedicated to him in Cornwall."
 searchAliases:
   - "Erbyn"

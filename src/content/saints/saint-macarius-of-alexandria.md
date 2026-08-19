@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius of Alexandria"
 honorific: Saint
-title: "Saint Macarius of Alexandria"
 summary: "During the persecutions of Decius he was dragged before a judge who tried to reason him into rejecting Christianty; it didn't work. Martyr."
 died: "burned alive in Alexandria, Egypt mid-3rd century"
 deathPlace: "Egypt mid-3rd century"

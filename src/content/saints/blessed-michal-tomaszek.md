@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michał Tomaszek"
 honorific: Blessed
-title: "Blessed Michał Tomaszek"
 summary: "Franciscan Conventual priest. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Michael-Tomaszek.jpg"
 birthYear: 1960

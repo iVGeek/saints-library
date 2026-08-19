@@ -1,7 +1,6 @@
 ---
 name: "Saint Clerus of Antioch"
 honorific: Saint
-title: "Saint Clerus of Antioch"
 summary: "Deacon. Repeatedly tortured to give up his faith before being executed. Martyr."
 searchAliases:
   - "Bilicerius"

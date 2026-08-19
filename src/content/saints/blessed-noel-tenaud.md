@@ -1,7 +1,6 @@
 ---
 name: "Blessed Noël Tenaud"
 honorific: Blessed
-title: "Blessed Noël Tenaud"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1904
 deathYear: 1961

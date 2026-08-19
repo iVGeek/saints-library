@@ -1,7 +1,6 @@
 ---
 name: "Saint Digna of Sicily"
 honorific: Saint
-title: "Saint Digna of Sicily"
 summary: "Martyr. No other information has survived."
 died: "in Sicily"
 feastDay:

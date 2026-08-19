@@ -1,7 +1,6 @@
 ---
 name: "Saint Theusitas of Nicaea"
 honorific: Saint
-title: "Saint Theusitas of Nicaea"
 summary: "Father of Saint Horres of Nicaea. Martyred with his son and several others."
 searchAliases:
   - "Theusetas"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen"
 honorific: Saint
-title: "Saint Stephen"
 summary: "Early martyr venerated in England. No other information has survived."
 region: "England"
 feastDay:

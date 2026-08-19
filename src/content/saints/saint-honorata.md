@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorata"
 honorific: Saint
-title: "Saint Honorata"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Honoratus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Nantes"
 honorific: Saint
-title: "Saint Felix of Nantes"
 summary: "Born to the nobility, received a good education, and was very fluent in Greek. Ordained in 540. Bishop of Nantes, France for 33 years; he was married at the time he was chosen, and his wife became a nun. Attended the synods in Paris, France in 557 and 573, and in Tours, France in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/F%C3%A9lix_de_Nantes_%28cropped%29.JPG/960px-F%C3%A9lix_de_Nantes_%28cropped%29.JPG"
 birthYear: 515

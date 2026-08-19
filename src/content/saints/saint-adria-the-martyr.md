@@ -1,7 +1,6 @@
 ---
 name: "Saint Adria the Martyr"
 honorific: Saint
-title: "Saint Adria the Martyr"
 summary: "Martyred in the persecutions of Valerian."
 searchAliases:
   - "Adrias"

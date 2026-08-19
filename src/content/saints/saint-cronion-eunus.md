@@ -1,7 +1,6 @@
 ---
 name: "Saint Cronion Eunus"
 honorific: Saint
-title: "Saint Cronion Eunus"
 summary: "Servant of and martyred with Saint Julian the Alexandria in the persecutions of Decius."
 searchAliases:
   - "Cronion of Alexandria"

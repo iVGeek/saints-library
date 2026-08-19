@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Detkens"
 honorific: Blessed
-title: "Blessed Edward Detkens"
 summary: "Priest in the archdiocese of Warsaw, Poland where he served as chaplain to university students and personnel, and rector of the church of Saint Anne. Imprisoned by the Gestapo in the Dachau concentration camp during the Nazi occupation of Poland in World War II. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edward_Detkens.jpg"
 birthYear: 1885

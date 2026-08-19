@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simon of Saint Bertin"
 honorific: Blessed
-title: "Blessed Simon of Saint Bertin"
 summary: "Benedictine monk at the Abbey of Saint-Bertin, France. Abbot at Auchy, France. Abbot at Saint-Bertin in 1138."
 deathYear: 1148
 died: "1148 of natural causes"

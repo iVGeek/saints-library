@@ -1,7 +1,6 @@
 ---
 name: "Saint Sophia of Fermo"
 honorific: Saint
-title: "Saint Sophia of Fermo"
 summary: "Consecrated virgin martyred in the persecutions of Decius."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Sophia-of-Fermo.jpg"
 searchAliases:

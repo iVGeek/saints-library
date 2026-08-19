@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ponciano Nieto Asensio"
 honorific: Blessed
-title: "Blessed Ponciano Nieto Asensio"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jarlath of Armagh"
 honorific: Saint
-title: "Saint Jarlath of Armagh"
 summary: "Spiritual student of Saint Patrick. Bishop of Armagh, Ireland. Involved in the monastic expansion and general missionary work in the British Isles."
 searchAliases:
   - "Hierlath"

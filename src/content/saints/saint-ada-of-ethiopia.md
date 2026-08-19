@@ -1,7 +1,6 @@
 ---
 name: "Saint Ada of Ethiopia"
 honorific: Saint
-title: "Saint Ada of Ethiopia"
 summary: "Martyr."
 died: "Ethiopia"
 region: "England"

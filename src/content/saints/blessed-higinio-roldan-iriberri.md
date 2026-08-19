@@ -1,7 +1,6 @@
 ---
 name: "Blessed Higinio Roldán Iriberri"
 honorific: Blessed
-title: "Blessed Higinio Roldán Iriberri"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

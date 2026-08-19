@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor the Martyr"
 honorific: Saint
-title: "Saint Victor the Martyr"
 summary: "Hermit near Burgos, Spain. At the command of an angel, he returned to Cereza, Spain to preach Christianity to the Moors who were laying seige to the city. Martyr."
 searchAliases:
   - "Vitores"

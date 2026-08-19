@@ -1,7 +1,6 @@
 ---
 name: "Saint Mansuetus of Corinth"
 honorific: Saint
-title: "Saint Mansuetus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

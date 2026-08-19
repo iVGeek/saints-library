@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augustine Ota"
 honorific: Blessed
-title: "Blessed Augustine Ota"
 summary: "Worked as a catechist, helping Jesuit missionaries. Imprisoned at Ikinoshima for his faith. While imprisoned, he was received into the Jesuits. Martyr."
 searchAliases:
   - "Augustinus Ota"

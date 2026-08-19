@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augustine Gazotich"
 honorific: Blessed
-title: "Blessed Augustine Gazotich"
 summary: "Joined the Domnicans at age 29. Missionary to the Slavs and Hungarians. Bishop of Zagreb, Croatia in 1303. Bishop of Luccera, Italy. Had the gift of healing."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustine-Gazotich.jpg"
 searchAliases:

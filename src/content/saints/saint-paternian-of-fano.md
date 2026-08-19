@@ -1,7 +1,6 @@
 ---
 name: "Saint Paternian of Fano"
 honorific: Saint
-title: "Saint Paternian of Fano"
 summary: "Fled into the mountains for a period to escape the persecutions of Diocletian. Bishop of Fano, Italy."
 deathYear: 343
 died: "c.343"

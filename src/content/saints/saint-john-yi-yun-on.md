@@ -1,7 +1,6 @@
 ---
 name: "Saint John Yi Yun-on"
 honorific: Venerable
-title: "Saint John Yi Yun-on"
 summary: "Layman farmer. Married. Father. Catechist. Beaten, whipped and executed for his faith, the last martyr of a particular state-sponsored persecution of Christians in Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

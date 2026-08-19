@@ -1,7 +1,6 @@
 ---
 name: "Saint Florus of Lodève"
 honorific: Saint
-title: "Saint Florus of Lodève"
 summary: "Bishop of Lodève, France."
 searchAliases:
   - "Flour"

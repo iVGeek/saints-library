@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphonia of Rome"
 honorific: Saint
-title: "Saint Tryphonia of Rome"
 summary: "Mother of Saint Cyrilla of Rome. Third-century widow and martyr."
 searchAliases:
   - "Tryfonia"

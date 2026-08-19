@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Rome"
 honorific: Saint
-title: "Martyrs of Rome"
 summary: "A group of 262 Christians martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Rome, Italy"

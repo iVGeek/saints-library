@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bertheid of Münster"
 honorific: Blessed
-title: "Blessed Bertheid of Münster"
 summary: "Raised in a pious family; her brother became Bishop Hermann I of Münster, Germany. Nun. Abbess of Liebfrauenpfarrei which ran a school for girls born to the nobility."
 deathYear: 1042
 died: "22 December 1042 in Münster, Germany"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppe Antonio Migliavacca"
 honorific: Blessed
-title: "Blessed Giuseppe Antonio Migliavacca"
 summary: "The fifth of twelve children born to Glicerio Migliavacca and Annunziata Strumia. Giuseppe entered the diocesan seminary in Cremona, Italy in 1863, and was ordained a priest in 1874. Parish priest in Cassano d'Adda, Italy. Joined the Jesuits in 1875. He founded the Congregation o"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Antonio-Migliavacca.jpg"
 searchAliases:

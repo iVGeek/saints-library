@@ -1,7 +1,6 @@
 ---
 name: "Blessed Renée Valin"
 honorific: Blessed
-title: "Blessed Renée Valin"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1760
 deathYear: 1794

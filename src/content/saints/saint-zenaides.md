@@ -1,7 +1,6 @@
 ---
 name: "Saint Zenaides"
 honorific: Saint
-title: "Saint Zenaides"
 summary: "First century relative of Saint Paul the Apostle. A convert to Christianity, she spent her life in good works and healing in her home town of Tarsus."
 searchAliases:
   - "Zenais"

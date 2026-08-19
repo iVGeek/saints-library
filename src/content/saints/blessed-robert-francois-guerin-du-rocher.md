@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert-François Guérin du Rocher"
 honorific: Blessed
-title: "Blessed Robert-François Guérin du Rocher"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1736
 deathYear: 1792

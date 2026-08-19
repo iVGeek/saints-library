@@ -1,7 +1,6 @@
 ---
 name: "Blessed Higinio de Mata Díez"
 honorific: Blessed
-title: "Blessed Higinio de Mata Díez"
 summary: "Cousin of Blessed Juan de Mata Díez. Higinio grew up a pious child, attending Mass and praying the Rosary daily. At age 25 he began working at house of the Salesians of Don Bosco in Carabanchal Alto, Spain, and became a postulent to the Order. When the anti-Christian persecutions"
 birthYear: 1909
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaetano Errico"
 honorific: Venerable
-title: "Saint Gaetano Errico"
 summary: "Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt a call to the priesthood at age fourteen. He was"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Cayetano_ovalo.jpg"
 birthYear: 1791

@@ -1,7 +1,6 @@
 ---
 name: "Saint María del Carmen Sallés Barangueras"
 honorific: Venerable
-title: "Saint María del Carmen Sallés Barangueras"
 summary: "Second of ten children born to José Sallés y Vall and Francisca Barangueras y de Planell who were pious people. By age 16 she was engaged in an arranged marriage, but convinced her family of a desire for religious life. She began her novitiate in the Adoration Sisters on 7 May 18"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-María-del-Carmen-Sallés-Barangueras.jpg"
 searchAliases:

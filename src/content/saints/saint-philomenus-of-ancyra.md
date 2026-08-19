@@ -1,7 +1,6 @@
 ---
 name: "Saint Philomenus of Ancyra"
 honorific: Saint
-title: "Saint Philomenus of Ancyra"
 summary: "Baker. Martyred in the persecutions of Emperor Aurelian,"
 searchAliases:
   - "Filomenus"

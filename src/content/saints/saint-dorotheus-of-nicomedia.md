@@ -1,7 +1,6 @@
 ---
 name: "Saint Dorotheus of Nicomedia"
 honorific: Saint
-title: "Saint Dorotheus of Nicomedia"
 summary: "Favourite and trusted servant in the court of Emperor Diocletian. Convert to Christianity. Tortured and martyred with a group of other Christians during the persecutions of Diocletian."
 deathYear: 303
 died: "strangled to death in 303 in Nicomedia, Bithynia (modern Izmit, Turkey)"

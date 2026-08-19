@@ -1,7 +1,6 @@
 ---
 name: "Saint Almedha"
 honorific: Saint
-title: "Saint Almedha"
 summary: "A princess, the daughter of King Brychan. A pious girl, she made a private vow of chastity, and dedicated her life to Jesus. When her family tried to force her into an arranged marriage for political reasons, she fled her father's kingdom. Fearing Brychan's revenge if they helped"
 searchAliases:
   - "Aled"

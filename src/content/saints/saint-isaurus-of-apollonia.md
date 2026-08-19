@@ -1,7 +1,6 @@
 ---
 name: "Saint Isaurus of Apollonia"
 honorific: Saint
-title: "Saint Isaurus of Apollonia"
 summary: "Christian who fled to a cave near Apollonia, Macedonia to escape persecution for his faith, but was caught and executed. Martyr."
 born: "Athens, Greece"
 died: "beheaded at Apollonia, Macedonia"

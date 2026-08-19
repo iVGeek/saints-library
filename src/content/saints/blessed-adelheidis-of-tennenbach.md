@@ -1,7 +1,6 @@
 ---
 name: "Blessed Adelheidis of Tennenbach"
 honorific: Blessed
-title: "Blessed Adelheidis of Tennenbach"
 summary: "Born to an aristocratic family. Benedictine Cistercian nun and recluse at Tennenbach Abbey."
 deathYear: 1273
 born: "at Thöningen, Germany"

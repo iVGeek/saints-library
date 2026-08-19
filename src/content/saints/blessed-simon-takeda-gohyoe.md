@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simon Takeda Gohyoe"
 honorific: Blessed
-title: "Blessed Simon Takeda Gohyoe"
 summary: "Layman in the diocese of Fukuoka, Japan. Son of Blessed Ioanna Takeda. Married to Blessed Agnes Takeda. Martyr."
 birthYear: 1568
 deathYear: 1603

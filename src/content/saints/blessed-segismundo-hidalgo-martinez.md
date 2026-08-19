@@ -1,7 +1,6 @@
 ---
 name: "Blessed Segismundo Hidalgo Martínez"
 honorific: Blessed
-title: "Blessed Segismundo Hidalgo Martínez"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Gabriel Eduardo"

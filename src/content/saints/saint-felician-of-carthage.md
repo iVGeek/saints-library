@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Carthage"
 honorific: Saint
-title: "Saint Felician of Carthage"
 summary: "Martyr."
 searchAliases:
   - "Feliciano"

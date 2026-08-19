@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucia Yi Zhenmei"
 honorific: Venerable
-title: "Saint Lucia Yi Zhenmei"
 summary: "Lay woman in the apostolic vicariate of Guizhou, China. She was the youngest child in her family, and grew up loving to read and learn; her mother taught her to spin. She served as a catechist in her parish; her priest asked her to use that experence to teach in the local school."
 searchAliases:
   - "Luqi"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingos Fernandes"
 honorific: Blessed
-title: "Blessed Domingos Fernandes"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1551
 deathYear: 1570

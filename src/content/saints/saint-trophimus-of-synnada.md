@@ -1,7 +1,6 @@
 ---
 name: "Saint Trophimus of Synnada"
 honorific: Saint
-title: "Saint Trophimus of Synnada"
 summary: "Martyr."
 searchAliases:
   - "Trofimo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Rome"
 honorific: Saint
-title: "Saint Victor of Rome"
 summary: "Martyred in the persecutions of Nero."
 died: "in Rome, Italy"
 deathPlace: "Italy"

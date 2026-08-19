@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodorus of Africa"
 honorific: Saint
-title: "Saint Theodorus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Teodorus"

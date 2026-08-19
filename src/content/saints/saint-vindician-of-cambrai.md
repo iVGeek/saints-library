@@ -1,7 +1,6 @@
 ---
 name: "Saint Vindician of Cambrai"
 honorific: Saint
-title: "Saint Vindician of Cambrai"
 summary: "Spiritual student of Saint Eligius. Bishop of Arras-Cambrai, France in 669. Promoted monasticism in his diocese. Protested against the excesses of the Merovingian kings, including Theirry III, and the powerful mayors of the palace. In his later years he retired to the Saint Vaast"
 searchAliases:
   - "Vidicianus"

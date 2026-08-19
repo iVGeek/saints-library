@@ -1,7 +1,6 @@
 ---
 name: "Saint Anrê Tuong"
 honorific: Venerable
-title: "Saint Anrê Tuong"
 summary: "Peasant farmer in the apostolic vicariate of Central Tonkin (in modern Vietnam). During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Imprisoned, tortured and martyred."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

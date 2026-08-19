@@ -1,7 +1,6 @@
 ---
 name: "Blessed Calimerius of Montechiaro"
 honorific: Blessed
-title: "Blessed Calimerius of Montechiaro"
 summary: "Dominican. Spent a long life preaching throughout Italy. When he was 90 years old and unable to climb into the pulpit, parishioners would left him into it so he could preach."
 birthYear: 1430
 deathYear: 1521

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paphnutius of Thebes"
 honorific: Saint
-title: "Saint Paphnutius of Thebes"
 summary: "Hermit. Spiritual student of Saint Anthony the Abbot. Monk. Bishop in Egypt. During the persecutions of emperor Galerius Maximinus, Paphnutius had his right eye torn out, his left knee crippled, and was sent to work in the mines, all as punishment for his faith. Rescued by empero"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Paphnutius.jpg"
 searchAliases:

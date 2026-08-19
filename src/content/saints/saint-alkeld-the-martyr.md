@@ -1,7 +1,6 @@
 ---
 name: "Saint Alkeld the Martyr"
 honorific: Saint
-title: "Saint Alkeld the Martyr"
 summary: "Martyred by Danes. Two churches in Yorkshire, England are dedicated to her."
 searchAliases:
   - "Athilda"

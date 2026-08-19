@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Trullen Gilisbarts"
 honorific: Blessed
-title: "Blessed Francesc Trullen Gilisbarts"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Hug Bernabé"

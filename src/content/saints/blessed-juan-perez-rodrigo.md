@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Pérez Rodrigo"
 honorific: Blessed
-title: "Blessed Juan Pérez Rodrigo"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Nicolás Adriano"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Moreno Martínez"
 honorific: Blessed
-title: "Blessed Manuel Moreno Martínez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1862
 deathYear: 1936

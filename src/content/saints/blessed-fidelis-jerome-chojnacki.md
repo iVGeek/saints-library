@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fidelis Jerome Chojnacki"
 honorific: Blessed
-title: "Blessed Fidelis Jerome Chojnacki"
 summary: "Youngest of six children born to Waclaw and Leokadia Spurinska. Raised in a pious family. Studied in public schools and a military academy. Worked for a year at Szczuczyn Mowogrodzki in the Institute of Social Insurance. Worked at the Central Post Office in Warsaw, Poland. Member"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fidelis-Jerome-Chojnacki.jpg"
 searchAliases:

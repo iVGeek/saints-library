@@ -1,7 +1,6 @@
 ---
 name: "Saint Ariston of Campania"
 honorific: Saint
-title: "Saint Ariston of Campania"
 summary: "Marytred in the persecutions of Diocletian. No other information has survived."
 deathYear: 284
 died: "284 in Campania, Italy"

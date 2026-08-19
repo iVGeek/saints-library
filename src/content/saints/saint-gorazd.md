@@ -1,7 +1,6 @@
 ---
 name: "Saint Gorazd"
 honorific: Saint
-title: "Saint Gorazd"
 summary: "One of the Seven Apostles of Bulgaria."
 searchAliases:
   - "Gorazdus"

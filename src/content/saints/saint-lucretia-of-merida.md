@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucretia of Mérida"
 honorific: Saint
-title: "Saint Lucretia of Mérida"
 summary: "Consecrated virgin. Martyred in a period of imperial Roman persecution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lucretia-of-Merida.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Augurius the Martyr"
 honorific: Saint
-title: "Saint Augurius the Martyr"
 summary: "Deacon in Tarragona, Spain. Arrested in 259 by the Roman governor Emilian. Martyred in the persecutions of Valerian. Saint Augustine of Hippo wrote in praise of him and his fellow martyrs."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Augurius-Eulogius-and-Fructuosos.jpg"
 deathYear: 259

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ero di Armenteira"
 honorific: Blessed
-title: "Blessed Ero di Armenteira"
 summary: "Benedictine monk. Founded the Armenteira monastery in the Diocese of Compostela, Spain in 1153. Introduced the Cistercian reform to the monastery in 1162."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ero-di-Armenteira.jpg"
 deathYear: 1167

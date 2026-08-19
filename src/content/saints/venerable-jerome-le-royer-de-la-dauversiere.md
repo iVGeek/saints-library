@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jérôme Le Royer de la Dauversière"
 honorific: Venerable
-title: "Venerable Jérôme Le Royer de la Dauversière"
 summary: "Married layman in the diocese of Le Mans, France. Co-founder of the Religieuses Hospitalières de Saint-Joseph (Religious Hospitallers of Saint Joseph)."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-jerome-le-royer-de-la-dauversiere/venerable-jerome-le-royer-de-la-dauversiere-01.jpg"
 birthYear: 1597

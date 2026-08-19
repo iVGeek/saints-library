@@ -1,7 +1,6 @@
 ---
 name: "Saint Bregwin of Canterbury"
 honorific: Saint
-title: "Saint Bregwin of Canterbury"
 summary: "Noted spiritual teacher. Archbishop of Canterbury, England in 759. Received the pallium from Pope Paul I in 761. Bregwin's letters to Saint Lull of Mainz survive."
 deathYear: 764
 born: "Saxony (in modern Germany)"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Heliodoro Merino y Merino"
 honorific: Blessed
-title: "Blessed Heliodoro Merino y Merino"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

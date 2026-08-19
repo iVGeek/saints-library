@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertulf of Luxeuil"
 honorific: Saint
-title: "Saint Bertulf of Luxeuil"
 summary: "Son of a pagan nobleman; relative of Saint Arnulf of Metz who was instrumental in Bertulf converting to Christianity. Monk at Luxeuil Abbey in 620. Monk and, in 627, third abbot of the monastery in Bobbio, Italy. Known for his strict adherence to the Rule of Saint Columbanus, and"
 searchAliases:
   - "Bertulf of Bobbio"

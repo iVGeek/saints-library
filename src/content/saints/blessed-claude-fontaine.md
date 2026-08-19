@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claude Fontaine"
 honorific: Blessed
-title: "Blessed Claude Fontaine"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1749
 deathYear: 1792

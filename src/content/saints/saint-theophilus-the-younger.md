@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus the Younger"
 honorific: Saint
-title: "Saint Theophilus the Younger"
 summary: "Commander of the imperial Byzantine military outpost in Cyprus in the late 8th century reign of Constantine IV. During a naval attack by Muslim forces, he was captured, taken to the Saracen Caliph Harun ar-Rashid, imprisoned for four years in hopes of his being ransomed, and regu"
 searchAliases:
   - "Teófilo"

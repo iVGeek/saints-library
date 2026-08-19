@@ -1,7 +1,6 @@
 ---
 name: "Saint Photinus of Lyons"
 honorific: Saint
-title: "Saint Photinus of Lyons"
 summary: "Bishop of Lyons, France. At age 90 he was one of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob, arrested and tried for their faith, and murdered in the persecutions of Marcus Aurelius. A letter describing their fate, possib"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Photinus-of-Lyons-1.jpg"
 searchAliases:

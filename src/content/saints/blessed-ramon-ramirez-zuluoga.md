@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Ramírez Zuluoga"
 honorific: Blessed
-title: "Blessed Ramón Ramírez Zuluoga"
 summary: "Ramón joined the Hospitallers of Saint John of God in 1933, taking the name Brother Melquiades, and making his final vows on 25 December 1934. Martyred in the Spanish Civil War. One of the Martyred Colombians of Barcelona."
 searchAliases:
   - "Brother Melquiades"

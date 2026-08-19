@@ -1,7 +1,6 @@
 ---
 name: "Venerable Beniamino Filon"
 honorific: Venerable
-title: "Venerable Beniamino Filon"
 summary: "The eighth of ten children born to Giacomo Filon and Giuseppina Marin, Beniamino Angelo was baptized at the age of three days, confirmed at age nine, and made his First Communion at ten. On 13 October 1917, Beniamino entered the Capuchin seminary in Rovigo, Italy, but his studies"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Giacomo_Filon_da_Balduina_c1945.png"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Swethin of Croyland"
 honorific: Saint
-title: "Saint Swethin of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes."
 searchAliases:
   - "Swethin of Crowland"

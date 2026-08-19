@@ -1,7 +1,6 @@
 ---
 name: "Saint Dymphna"
 honorific: Saint
-title: "Saint Dymphna"
 summary: "Daughter of a pagan Irish chieftain named Damon, and a beautiful devoted Christian woman whose name has not come down to us. Her mother died when Dymphna was a teenager. Her father searched the Western world for a woman to replace his wife, but none could. Returning home, he saw"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg/960px-Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg"
 searchAliases:

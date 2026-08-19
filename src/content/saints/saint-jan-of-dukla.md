@@ -1,7 +1,6 @@
 ---
 name: "Saint Jan of Dukla"
 honorific: Saint
-title: "Saint Jan of Dukla"
 summary: "Hermit. Friar Minor Conventual in 1440. Priest. Preacher in Ukraine, Moldavia and Belarus. Often a local superior, and once led the Franciscan custody headquartered in Lv&iacute;v, Ukraine. In 1463 he joined part of the Observant Franciscans, who observed their Rule very strictly"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jan-of-Dukla1.jpg"
 searchAliases:

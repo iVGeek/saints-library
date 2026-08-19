@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Alonso Fernández"
 honorific: Blessed
-title: "Blessed Pedro Alonso Fernández"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

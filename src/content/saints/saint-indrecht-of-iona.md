@@ -1,7 +1,6 @@
 ---
 name: "Saint Indrecht of Iona"
 honorific: Saint
-title: "Saint Indrecht of Iona"
 summary: "Monk. Abbot of Iona Abbey. Martyred by Saxons while travelling to Rome, Italy."
 deathYear: 854
 died: "854"

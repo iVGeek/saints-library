@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbara Yi Chong-hui"
 honorific: Venerable
-title: "Saint Barbara Yi Chong-hui"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Bareubara Yi Jeong-heui"

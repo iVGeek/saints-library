@@ -1,7 +1,6 @@
 ---
 name: "Venerable François-Léon Clergue"
 honorific: Venerable
-title: "Venerable François-Léon Clergue"
 summary: "The oldest of three children born to Jean-Louis-François-Frédéric Clergue, a law clerk, and Rose Amilhau, he was baptized when he was only a few minutes old. He was known as a pious and stubborn child who planned from age 6 to become a priest. He began studying at a junior semina"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marie-Antoine_de_Lavaur.jpg/960px-Marie-Antoine_de_Lavaur.jpg"
 searchAliases:

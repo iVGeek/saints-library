@@ -1,7 +1,6 @@
 ---
 name: "Saint Enuclus of Corinth"
 honorific: Saint
-title: "Saint Enuclus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

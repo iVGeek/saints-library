@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph of Persia"
 honorific: Saint
-title: "Saint Joseph of Persia"
 summary: "Priest. Martyred with Saint Acepsimas in the persecution of King Shapur II."
 region: "Greece"
 feastDay:

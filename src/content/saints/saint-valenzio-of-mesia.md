@@ -1,7 +1,6 @@
 ---
 name: "Saint Valenzio of Mesia"
 honorific: Saint
-title: "Saint Valenzio of Mesia"
 summary: "Martyr. No other information has survived."
 died: "beheaded in Mesia, Spain"
 deathPlace: "Spain"

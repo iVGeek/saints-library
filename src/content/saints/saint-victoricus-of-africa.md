@@ -1,7 +1,6 @@
 ---
 name: "Saint Victoricus of Africa"
 honorific: Saint
-title: "Saint Victoricus of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"

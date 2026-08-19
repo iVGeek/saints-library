@@ -1,7 +1,6 @@
 ---
 name: "Saint Mbaga Tuzinde"
 honorific: Venerable
-title: "Saint Mbaga Tuzinde"
 summary: "Mmamba clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg"
 deathYear: 1886

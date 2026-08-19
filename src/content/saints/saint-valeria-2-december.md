@@ -1,7 +1,6 @@
 ---
 name: "Saint Valeria"
 honorific: Saint
-title: "Saint Valeria"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "c.257 in Rome, Italy"

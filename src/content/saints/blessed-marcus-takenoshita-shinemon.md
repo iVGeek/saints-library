@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcus Takenoshita Shin'emon"
 honorific: Blessed
-title: "Blessed Marcus Takenoshita Shin'emon"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Japan"

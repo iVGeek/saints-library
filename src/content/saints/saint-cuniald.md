@@ -1,7 +1,6 @@
 ---
 name: "Saint Cuniald"
 honorific: Saint
-title: "Saint Cuniald"
 summary: "Seventh century confessor of the faith. No details about him have survived."
 region: "England"
 feastDay:

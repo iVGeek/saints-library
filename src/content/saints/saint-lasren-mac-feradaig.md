@@ -1,7 +1,6 @@
 ---
 name: "Saint Lasrén mac Feradaig"
 honorific: Saint
-title: "Saint Lasrén mac Feradaig"
 summary: "Cousin and spiritual student of Saint Columba at the abbey of Iona. Abbot of the monastery of Durrow, Ireland. Third abbot of Iona."
 searchAliases:
   - "Lasrén of Iona"

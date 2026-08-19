@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Arras"
 honorific: Saint
-title: "Saint Florentius of Arras"
 summary: "Martyr."
 searchAliases:
   - "Fiorenzo"

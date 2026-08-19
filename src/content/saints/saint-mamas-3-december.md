@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamas"
 honorific: Saint
-title: "Saint Mamas"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

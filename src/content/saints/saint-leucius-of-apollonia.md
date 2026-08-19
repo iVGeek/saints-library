@@ -1,7 +1,6 @@
 ---
 name: "Saint Leucius of Apollonia"
 honorific: Saint
-title: "Saint Leucius of Apollonia"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 251
 died: "251 at Apollonia, Phrygia (modern Turkey)"

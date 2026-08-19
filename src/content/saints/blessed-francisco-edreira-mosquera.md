@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Edreira Mosquera"
 honorific: Blessed
-title: "Blessed Francisco Edreira Mosquera"
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eppo of Mallersdorf"
 honorific: Blessed
-title: "Blessed Eppo of Mallersdorf"
 summary: "Benedictine monk, probably training at the St Georgen monastery in the Black Forest (in modern Germany). Chosen second abbot of the Saint John the Evangelist double monastery in Mallersdorf, Bavaria (in modern Germany). His leadership of the house led to expansion of its importan"
 searchAliases:
   - "Eppo of St Georgen"

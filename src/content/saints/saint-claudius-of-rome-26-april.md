@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudius of Rome"
 honorific: Saint
-title: "Saint Claudius of Rome"
 summary: "Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr."
 died: "beheaded"
 feastDay:

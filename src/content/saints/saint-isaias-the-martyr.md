@@ -1,7 +1,6 @@
 ---
 name: "Saint Isaias the Martyr"
 honorific: Saint
-title: "Saint Isaias the Martyr"
 summary: "Martyred with 37 companions in one of a series of massacres the early 4th century by pagan Arabs in the Red Sea area."
 deathYear: 309
 died: "309 on Mount Sinai"

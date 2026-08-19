@@ -1,7 +1,6 @@
 ---
 name: "Saint Herbert of Derwentwater"
 honorific: Saint
-title: "Saint Herbert of Derwentwater"
 summary: "Benedictine monk and priest. Disciple and friend of Saint Cuthbert of Lindisfarne. Hermit on the island of Lake Derwentwater, later called Saint Herbert's Island. Each year he visited Cuthbert at Lindisfarne. In 686 Cuthbert visited Herbert on his island, and told him that if he"
 deathYear: 687
 died: "20 March 687 of natural causes"

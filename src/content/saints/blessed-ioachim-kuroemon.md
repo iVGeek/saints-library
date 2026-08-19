@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioachim Kuroemon"
 honorific: Blessed
-title: "Blessed Ioachim Kuroemon"
 summary: "Layman catechist in the diocese of Hiroshima, Japan. Martyr."
 birthYear: 1559
 deathYear: 1624

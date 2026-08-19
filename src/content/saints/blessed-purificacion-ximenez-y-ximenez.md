@@ -1,7 +1,6 @@
 ---
 name: "Blessed Purificación Ximénez y Ximénez"
 honorific: Blessed
-title: "Blessed Purificación Ximénez y Ximénez"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Purificación-Ximénez-y-Ximénez.jpg"
 searchAliases:

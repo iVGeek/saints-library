@@ -1,7 +1,6 @@
 ---
 name: "Venerable Andrea Beltrami"
 honorific: Venerable
-title: "Venerable Andrea Beltrami"
 summary: "Salesian priest. Friend of and seminarian with Blessed August Czartoryski."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Andreas-Beltrami.jpg"
 birthYear: 1870

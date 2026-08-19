@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Africa"
 honorific: Saint
-title: "Saint Marcellinus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survived."
 searchAliases:
   - "Marcellus"

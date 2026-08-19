@@ -1,7 +1,6 @@
 ---
 name: "Venerable Agnelo Gustavo Adolfo de Souza"
 honorific: Venerable
-title: "Venerable Agnelo Gustavo Adolfo de Souza"
 summary: "Joined the Society of Missionaries of Saint Francis Xavier (Pilar Fathers) on 17 July 1897. Ordained on 2 September 1899. Mystic and noted preacher."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Agnelo-Gustavo-Adolfo-de-Souza.jpg"
 birthYear: 1869

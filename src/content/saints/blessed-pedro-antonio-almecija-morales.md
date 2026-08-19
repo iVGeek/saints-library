@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Antonio Almécija Morales"
 honorific: Blessed
-title: "Blessed Pedro Antonio Almécija Morales"
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

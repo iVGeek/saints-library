@@ -1,7 +1,6 @@
 ---
 name: "Saint Rainofle"
 honorific: Saint
-title: "Saint Rainofle"
 summary: "Relative of Pepin, Mayor of the Palace to King Dagobert, and a member of the Dagobert court. Wishing to devote herself to God, she fled the court to avoid an arranged marriage and died from exposure."
 searchAliases:
   - "Rainofre"

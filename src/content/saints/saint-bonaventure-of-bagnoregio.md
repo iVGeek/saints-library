@@ -1,7 +1,6 @@
 ---
 name: "Saint Bonaventure of Bagnoregio"
 honorific: Saint
-title: "Saint Bonaventure of Bagnoregio"
 summary: "Healed from a childhood disease through the prayers of Saint Francis of Assisi. Bonaventure joined the Order of Friars Minor at age 22. Studied theology and philosophy in Paris, France, and later taught there. Friend of Saint Thomas Aquinas. Doctor of Theology. Friend of King Sai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bonaventure-of-Bagnoregio.jpg"
 searchAliases:

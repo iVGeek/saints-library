@@ -1,7 +1,6 @@
 ---
 name: "Saint Luigi Versiglia"
 honorific: Venerable
-title: "Saint Luigi Versiglia"
 summary: "Studied at Don Bosco's Oratory from age 12. Salesian. Ordained on 21 December 1895. Missonary to China in 1906. Appointed vicar apostolic of Shiuchow, China, and titular bishop of Carystus, on 22 April 1920. On 25 February 1930, while travelling with Saint Callistus Caravario, hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Luigi_Versiglia_%281873-1930%29.jpg"
 searchAliases:

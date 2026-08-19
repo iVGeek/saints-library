@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leoncio Ibáñez Caballero"
 honorific: Blessed
-title: "Blessed Leoncio Ibáñez Caballero"
 summary: "Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Lorenzo"

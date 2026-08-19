@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Yakichi"
 honorific: Blessed
-title: "Blessed Franciscus Yakichi"
 summary: "Son of Blessed Lucia Yakichi and Blessed Ludovicus Yakichi; brother of Blessed Andreas Yakichi. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg"
 birthYear: 1619

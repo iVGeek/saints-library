@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Nyon"
 honorific: Saint
-title: "Saint Saturninus of Nyon"
 summary: "Martyred for refusing to sacrifice to imperial Roman idols."
 searchAliases:
   - "Saturnine"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Brigida Postorino"
 honorific: Venerable
-title: "Venerable Maria Brigida Postorino"
 summary: "Nun. Founded the Daughters of Mary Immaculate."
 birthYear: 1865
 deathYear: 1960

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anectus of Corinth"
 honorific: Saint
-title: "Saint Anectus of Corinth"
 summary: "During the persecutions of Valerian, Anectus was arrested for his faith, tortured, and martyred with a group of fellow Christians in Corinth, Greece."
 born: "Greek"
 died: "thrown to wild animals"

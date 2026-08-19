@@ -1,7 +1,6 @@
 ---
 name: "Saint Malo of Aleth"
 honorific: Saint
-title: "Saint Malo of Aleth"
 summary: "An adult convert who was  baptized by and became the spiritual student of Saint Brendan the Navigator. Monk at Llancarfan Abbey in Wales. One of the monks on the famous Voyage of Saint Brendan. Immigrant to Brittany where he helped in the missionary work of Saint Aaron of Brettan"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Malo-of-Aleth.jpg"
 searchAliases:

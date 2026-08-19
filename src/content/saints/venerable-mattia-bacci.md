@@ -1,7 +1,6 @@
 ---
 name: "Venerable Mattia Bacci"
 honorific: Venerable
-title: "Venerable Mattia Bacci"
 summary: "Franciscan Friars Minor priest."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Mattia-Bacci.jpg"
 searchAliases:

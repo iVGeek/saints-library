@@ -1,7 +1,6 @@
 ---
 name: "Saint Daria of Constantinople"
 honorific: Saint
-title: "Saint Daria of Constantinople"
 summary: "Martyr."
 searchAliases:
   - "Daretia"

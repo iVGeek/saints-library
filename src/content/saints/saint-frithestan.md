@@ -1,7 +1,6 @@
 ---
 name: "Saint Frithestan"
 honorific: Saint
-title: "Saint Frithestan"
 summary: "Spiritual student of Saint Grimbald. Bishop of Winchester, England, consecrated by Saint Plegmund. He served for 23 years, and noted for his care for the poor and a ministry of prayer for the recently dead."
 searchAliases:
   - "Frithustan"

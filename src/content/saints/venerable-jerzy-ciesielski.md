@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jerzy Ciesielski"
 honorific: Venerable
-title: "Venerable Jerzy Ciesielski"
 summary: "Married layman in the diocese of Kraków, Poland. Civil engineer. Father of three. Teacher at the Cracow University of Technology and the University of Chartumski. Loved handball, basketball, rowing, canoeing and camping. Friend of Karol Wojtyla, the future Pope John Paul II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Jerzy-Ciesielski.jpg"
 birthYear: 1929

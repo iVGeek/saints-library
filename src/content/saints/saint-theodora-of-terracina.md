@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodora of Terracina"
 honorific: Saint
-title: "Saint Theodora of Terracina"
 summary: "Foster sister of Saint Flavia Domitilla and Saint Euphrosyna of Terracina. Exiled and then martyred with her."
 died: "2nd-century Terracina, Italy"
 deathPlace: "Italy"

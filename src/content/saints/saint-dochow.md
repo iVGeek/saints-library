@@ -1,7 +1,6 @@
 ---
 name: "Saint Dochow"
 honorific: Saint
-title: "Saint Dochow"
 summary: "Immigrated to Cornwall where he founded a monastery. May have become a bishop; records are inconclusive."
 searchAliases:
   - "Dochau"

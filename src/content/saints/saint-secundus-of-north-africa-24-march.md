@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of North Africa"
 honorific: Saint
-title: "Saint Secundus of North Africa"
 summary: "Brother of Saint Romulus. Martyr."
 searchAliases:
   - "Secondino"

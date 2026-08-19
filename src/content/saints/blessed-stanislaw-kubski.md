@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stanislaw Kubski"
 honorific: Blessed
-title: "Blessed Stanislaw Kubski"
 summary: "Priest in the archdiocese of Gniezno, Poland, serving in the parish of the Blessed Virgin Mary in Inowroclaw, Poland. Known for his pastoral work, especially with the poor and the unemployed. He was arrested by the invading Nazi forces on 2 September 1939, the 2nd day of the war"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Kubski.jpg"
 birthYear: 1876

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Sanpo"
 honorific: Blessed
-title: "Blessed Petrus Sanpo"
 summary: "Jesuit cleric. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1580

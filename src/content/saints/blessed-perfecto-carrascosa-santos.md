@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perfecto Carrascosa Santos"
 honorific: Blessed
-title: "Blessed Perfecto Carrascosa Santos"
 summary: "Franciscan Friar Minor priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Perfecto-Carrascosa-Santos.jpg"
 birthYear: 1906

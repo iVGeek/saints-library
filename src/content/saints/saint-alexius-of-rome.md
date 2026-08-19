@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexius of Rome"
 honorific: Saint
-title: "Saint Alexius of Rome"
 summary: "The only son of a wealthy Christian Roman senator. The young man wanted to devote himself to God, but his parents arranged a marriage for him. On his wedding day his fiancee agreed to release him and let him follow his vocation. He fled his parent's home disguised as a beggar, an"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Alexii.jpg"
 searchAliases:

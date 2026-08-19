@@ -1,7 +1,6 @@
 ---
 name: "Saint Gallgo"
 honorific: Saint
-title: "Saint Gallgo"
 summary: "Sixth century founder of the Llanallgo monastery in Anglesey, Wales."
 born: "Welsh"
 region: "England"

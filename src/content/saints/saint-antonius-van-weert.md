@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius van Weert"
 honorific: Saint
-title: "Saint Antonius van Weert"
 summary: "Franciscan priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonius-van-Weert.jpg"
 searchAliases:

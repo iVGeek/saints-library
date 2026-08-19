@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore Stratelates"
 honorific: Saint
-title: "Saint Theodore Stratelates"
 summary: "Roman general (stratelates) and covert Christian during a time of persecution. Exposed as a Christian, a military tribunal decided he was a good soldier who had made a mistake, told him to reconsider, and set him free; he promptly burned down a pagan temple. Arrested again, he wa"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fyodorstratelate.jpg"
 searchAliases:

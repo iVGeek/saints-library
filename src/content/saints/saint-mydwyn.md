@@ -1,7 +1,6 @@
 ---
 name: "Saint Mydwyn"
 honorific: Saint
-title: "Saint Mydwyn"
 summary: "Sent with Saint Elvan by King Saint Lucius to Pope Saint Eleuterus to petition for missionaries to Britain. In Rome he studied, was ordained a priest, then worked in the British Isles as a missionary himself."
 searchAliases:
   - "Meduin"

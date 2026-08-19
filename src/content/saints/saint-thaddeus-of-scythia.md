@@ -1,7 +1,6 @@
 ---
 name: "Saint Thaddeus of Scythia"
 honorific: Saint
-title: "Saint Thaddeus of Scythia"
 summary: "Ninth-century Scythian slave. Relative of Saint Theodore Studites. Freed from slavery, Thaddeus became a monk. His house was dispersed in the iconoclast persecutions of Emperor Leo V. Thaddeus was arrested with several brother monks, ordered to reject icons and images, and to tra"
 searchAliases:
   - "Thaddee"

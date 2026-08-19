@@ -1,7 +1,6 @@
 ---
 name: "Blessed Colomba Osorio"
 honorific: Blessed
-title: "Blessed Colomba Osorio"
 summary: "Nun. Abbess at Archen. Martyred with several of her sisters."
 deathYear: 982
 died: "982"

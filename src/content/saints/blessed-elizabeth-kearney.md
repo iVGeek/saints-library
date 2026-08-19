@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elizabeth Kearney"
 honorific: Blessed
-title: "Blessed Elizabeth Kearney"
 summary: "Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"

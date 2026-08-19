@@ -1,7 +1,6 @@
 ---
 name: "Saint Enguerrammus the Wise"
 honorific: Saint
-title: "Saint Enguerrammus the Wise"
 summary: "Monk and then abbot of the abbey of Saint-Riquier, France. Noted for being a great spiritual teacher to his brother monks."
 searchAliases:
   - "Angilram the Wise"

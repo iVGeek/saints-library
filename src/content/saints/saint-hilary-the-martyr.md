@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilary the Martyr"
 honorific: Saint
-title: "Saint Hilary the Martyr"
 summary: "Martyr. No other details are known."
 region: "England"
 feastDay:

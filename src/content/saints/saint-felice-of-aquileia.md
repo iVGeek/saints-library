@@ -1,7 +1,6 @@
 ---
 name: "Saint Felice of Aquileia"
 honorific: Saint
-title: "Saint Felice of Aquileia"
 summary: "Brother of Saint Fortunatus of Aquileia. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Felice of Vincenza"

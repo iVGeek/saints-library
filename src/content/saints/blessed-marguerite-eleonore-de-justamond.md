@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marguerite-Eléonore de Justamond"
 honorific: Blessed
-title: "Blessed Marguerite-Eléonore de Justamond"
 summary: "Cistercian nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

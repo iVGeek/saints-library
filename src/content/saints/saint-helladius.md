@@ -1,7 +1,6 @@
 ---
 name: "Saint Helladius"
 honorific: Saint
-title: "Saint Helladius"
 summary: "Lay man martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Helladius.jpg"
 searchAliases:

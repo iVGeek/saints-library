@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julian Maunoir"
 honorific: Blessed
-title: "Blessed Julian Maunoir"
 summary: "Raised in a pious home. Classmate of Saint Isaac Jogues. Joined the Jesuits in 1625. Regent of the College of Quimper from 1630 to 1633. Ordained on 6 June 1637. Successfully fought secret societies in Brittany, France. Built homes for the aged in the French cities of Vannes and"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Julien_Maunoir.jpg"
 searchAliases:

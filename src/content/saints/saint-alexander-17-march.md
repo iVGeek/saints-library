@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander"
 honorific: Saint
-title: "Saint Alexander"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3

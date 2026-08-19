@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melchor Sánchez Pérez"
 honorific: Blessed
-title: "Blessed Melchor Sánchez Pérez"
 summary: "Augustinian Recollect priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:

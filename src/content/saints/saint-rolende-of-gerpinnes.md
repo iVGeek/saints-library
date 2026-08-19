@@ -1,7 +1,6 @@
 ---
 name: "Saint Rolende of Gerpinnes"
 honorific: Saint
-title: "Saint Rolende of Gerpinnes"
 summary: "Born a princess, the daughter of King Didier of the Lombards who was in exile after being defeated in battle by Blessed Charlemagne. Feeling a call to a life for God, she fled from an arranged marriage to Prince Oger of Scotland, and planned to enter the Sainte-Ursule convent in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Rolende-of-Gerpinnes.jpg"
 searchAliases:

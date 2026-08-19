@@ -1,7 +1,6 @@
 ---
 name: "Saint Becan of Cork"
 honorific: Saint
-title: "Saint Becan of Cork"
 summary: "Sixth-century hermit near Cork, Ireland."
 searchAliases:
   - "Becan of Cluain-Aird-Mobecog"

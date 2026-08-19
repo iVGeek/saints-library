@@ -1,7 +1,6 @@
 ---
 name: "Blessed Archangel of Agnone"
 honorific: Blessed
-title: "Blessed Archangel of Agnone"
 summary: "Franciscan friar at the convent of Sant'Onofrio in Vasto, Italy."
 deathYear: 1651
 born: "Agnone, Italy"

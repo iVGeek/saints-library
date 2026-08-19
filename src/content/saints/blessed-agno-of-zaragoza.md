@@ -2,7 +2,6 @@
 name: "Blessed Agno of Zaragoza"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/University_of_Michigan_%28IA_afj2106.0001.001.umich.edu%29.pdf/page1-960px-University_of_Michigan_%28IA_afj2106.0001.001.umich.edu%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Agno of Zaragoza"
 summary: "Canon of the cathedral of Zaragoza, Spain. Franciscan Friar Minor. Missionary bishop of Morocco."
 deathYear: 1260
 born: "Zaragoza, Spain"

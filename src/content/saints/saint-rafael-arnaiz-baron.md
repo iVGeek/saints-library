@@ -1,7 +1,6 @@
 ---
 name: "Saint Rafael Arnáiz Barón"
 honorific: Venerable
-title: "Saint Rafael Arnáiz Barón"
 summary: "An artistic young man, he studied architecture in Madrid, Spain. However, he felt a call to the religious life, and on 15 April 1934 Rafael became an oblate friar of the Order of Cistercians of the Strict Observance (Trappist). Suffered from acute diabetes, a condition that force"
 image: "http://catholicsaints.info/wp-content/gallery/saint-rafael-arnaiz-baron/saint-rafael-arnaiz-baron-01.jpg"
 searchAliases:

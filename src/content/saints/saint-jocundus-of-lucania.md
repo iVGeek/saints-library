@@ -1,7 +1,6 @@
 ---
 name: "Saint Jocundus of Lucania"
 honorific: Saint
-title: "Saint Jocundus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

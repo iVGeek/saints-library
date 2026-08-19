@@ -1,7 +1,6 @@
 ---
 name: "Saint Neofyta of Lentini"
 honorific: Saint
-title: "Saint Neofyta of Lentini"
 summary: "Born to the Sicilian nobility; sister of Saint Isadora of Lentini. Married. Mother of Saint Neofytus of Lentini. Seized, tortured and murdered with Saint Isadora by pagans for refusing to renounce Christianity. Martyr."
 searchAliases:
   - "Neophyte"

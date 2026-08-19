@@ -1,7 +1,6 @@
 ---
 name: "Blessed Severian Baranyk"
 honorific: Blessed
-title: "Blessed Severian Baranyk"
 summary: "Greek Catholic. Entered the Krekhiv monastery of the Basilian Order of Saint Josaphat on 24 September 1904, and made his final vows on 21 September 1910. Ordained on 14 February 1915. Prior of the Basilian monastery in Drohobych in 1932. Arrested for his faith on 26 June 1941 by"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Severian_Baranyk.jpg/960px-Severian_Baranyk.jpg"
 searchAliases:

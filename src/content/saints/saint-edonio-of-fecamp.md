@@ -1,7 +1,6 @@
 ---
 name: "Saint Edonio of Fécamp"
 honorific: Saint
-title: "Saint Edonio of Fécamp"
 summary: "Seventh century Benedictine monk at the Holy Trinity abbey of Fécamp, France. Spiritual student of Saint Benedict Biscop during Benedict's time in France."
 searchAliases:
   - "Edoneé the Confessor"

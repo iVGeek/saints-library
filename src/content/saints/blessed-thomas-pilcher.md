@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Pilcher"
 honorific: Blessed
-title: "Blessed Thomas Pilcher"
 summary: "Studied at Balliol College, Oxford, England. Converted to Catholicism. Studied at Douai College, Rheims, France. Ordained a priest at Laon, France in 1583. He then returned to England to minister to covert Catholics in Hampshire and Dorset. Arrested and condemned to death for the"
 searchAliases:
   - "Thomas Pilchard"

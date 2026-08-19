@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laurence Loricatus"
 honorific: Blessed
-title: "Blessed Laurence Loricatus"
 summary: "Raised to be a soldier, but when he accidentally killed a man Laurence was so overcome with remorse that he put his aside his arms and made a pilgrimage of penance to Santiago de Compostella in Spain. Benedictine monk at Subiaco, Italy. Lived 34 years as a hermit in the ruins of"
 birthYear: 1190
 deathYear: 1243

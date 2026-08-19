@@ -1,7 +1,6 @@
 ---
 name: "Saint Aengus the Culdee"
 honorific: Saint
-title: "Saint Aengus the Culdee"
 summary: "Hermit or culdee near the River Nore in Ireland where he was known to commune with angels. Hermit near Maryborough. Monk at Clonenagh in Ireland. His reputation for holiness attracted so many would-be students that he retired to be a lay brother at the monastery of Tallaght near"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Aengus-the-Culdee.jpg"
 searchAliases:

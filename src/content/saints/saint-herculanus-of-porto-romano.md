@@ -1,7 +1,6 @@
 ---
 name: "Saint Herculanus of Porto Romano"
 honorific: Saint
-title: "Saint Herculanus of Porto Romano"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Ercolano"

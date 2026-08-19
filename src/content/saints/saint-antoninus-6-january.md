@@ -1,7 +1,6 @@
 ---
 name: "Saint Antoninus"
 honorific: Saint
-title: "Saint Antoninus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

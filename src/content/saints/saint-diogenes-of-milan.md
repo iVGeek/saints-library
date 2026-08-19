@@ -1,7 +1,6 @@
 ---
 name: "Saint Diogenes of Milan"
 honorific: Saint
-title: "Saint Diogenes of Milan"
 summary: "Martyr."
 searchAliases:
   - "Theotecnus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Permias of Italy"
 honorific: Saint
-title: "Saint Permias of Italy"
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."
 region: "Italy"
 feastDay:

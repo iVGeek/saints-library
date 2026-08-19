@@ -1,7 +1,6 @@
 ---
 name: "Saint Socrates"
 honorific: Saint
-title: "Saint Socrates"
 summary: "Early martyr venerated in England. No other information has survived."
 region: "England"
 feastDay:

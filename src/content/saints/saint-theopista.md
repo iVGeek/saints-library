@@ -1,7 +1,6 @@
 ---
 name: "Saint Theopista"
 honorific: Saint
-title: "Saint Theopista"
 summary: "For preferring a life devoted to God over marriage to a young imperial Roman nobleman, she was martyred in the persecutions of Valerian."
 searchAliases:
   - "Teopista"

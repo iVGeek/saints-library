@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Woodcock"
 honorific: Blessed
-title: "Blessed John Woodcock"
 summary: "Franciscan Friar Minor (Recollects) priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Woodcock.jpg"
 searchAliases:

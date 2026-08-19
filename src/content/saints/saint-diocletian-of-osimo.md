@@ -1,7 +1,6 @@
 ---
 name: "Saint Diocletian of Osimo"
 honorific: Saint
-title: "Saint Diocletian of Osimo"
 summary: "Martyr."
 died: "Osimo, Italy"
 deathPlace: "Italy"

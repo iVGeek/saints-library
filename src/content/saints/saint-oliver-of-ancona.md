@@ -1,7 +1,6 @@
 ---
 name: "Saint Oliver of Ancona"
 honorific: Saint
-title: "Saint Oliver of Ancona"
 summary: "Benedictine monk at Santa Maria di Portonuovo at Ancona, Italy."
 searchAliases:
   - "Oliver of Pontonuovo"

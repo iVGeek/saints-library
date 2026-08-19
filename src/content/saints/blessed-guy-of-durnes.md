@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guy of Durnes"
 honorific: Blessed
-title: "Blessed Guy of Durnes"
 summary: "Cistercian Benedictine monk at Clairvaux, and one of Saint Bernard of Clairvaux's most beloved disciples. Founder and abbot of the abbey of Our Lady of Cherlieu in the diocese of Besancon, France. At Saint Bernard's request, Guy revised the Cistercian liturgical chant."
 deathYear: 1157
 died: "c.1157 of natural causes"

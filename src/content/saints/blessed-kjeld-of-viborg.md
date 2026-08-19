@@ -1,7 +1,6 @@
 ---
 name: "Blessed Kjeld of Viborg"
 honorific: Blessed
-title: "Blessed Kjeld of Viborg"
 summary: "Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and zealous preacher in Viborg, Denmark. Miracle worker."
 searchAliases:
   - "Ketil"

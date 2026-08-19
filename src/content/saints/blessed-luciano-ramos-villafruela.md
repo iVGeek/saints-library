@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luciano Ramos Villafruela"
 honorific: Blessed
-title: "Blessed Luciano Ramos Villafruela"
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

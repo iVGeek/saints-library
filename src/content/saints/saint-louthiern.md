@@ -1,7 +1,6 @@
 ---
 name: "Saint Louthiern"
 honorific: Saint
-title: "Saint Louthiern"
 summary: "No information has survived."
 searchAliases:
   - "Ludowanus"

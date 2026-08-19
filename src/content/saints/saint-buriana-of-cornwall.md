@@ -1,7 +1,6 @@
 ---
 name: "Saint Buriana of Cornwall"
 honorific: Saint
-title: "Saint Buriana of Cornwall"
 summary: "Sixth-century anchoress in Cornwall. The town of Saint Buryan, whose parish church served as her base, is named after her. May have been the daughter of an Irish king, and some writers says she travelled to Cornwall as a missionary to “>convert the Cornish. One legend tells how s"
 searchAliases:
   - "Berriona"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Werburgh of Chester"
 honorific: Saint
-title: "Saint Werburgh of Chester"
 summary: "Born a princess, the daughter of King Wulfhere of Mercia and his queen, Saint Ermenilda. Nun. Spiritual student of Saint Etheldreda. Worked for reform in female religious houses throughout England. Reported to read minds."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Werburga.jpg"
 searchAliases:

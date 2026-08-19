@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bibiana Mun Yeong-in"
 honorific: Blessed
-title: "Blessed Bibiana Mun Yeong-in"
 summary: "Lay woman in the apostolic vicariate of Korea. Member of the Korean royal court. Convert to Catholicism. Martyr."
 searchAliases:
   - "Viviana"

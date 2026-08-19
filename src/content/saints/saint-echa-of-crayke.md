@@ -1,7 +1,6 @@
 ---
 name: "Saint Echa of Crayke"
 honorific: Saint
-title: "Saint Echa of Crayke"
 summary: "Priest. Lived as a hermit in Crayke, Yorkshire, England."
 searchAliases:
   - "Echa of Crayk"

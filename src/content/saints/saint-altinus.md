@@ -1,7 +1,6 @@
 ---
 name: "Saint Altinus"
 honorific: Saint
-title: "Saint Altinus"
 summary: "First century missionary bishop. Founded the churches of Orleans and Chartres, France."
 searchAliases:
   - "Attinus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnold of Hiltensweiler"
 honorific: Saint
-title: "Saint Arnold of Hiltensweiler"
 summary: "Married, lifelong layman. Soldier. Knight who fought in the First Crusade. Founded a monastery at Langnan, Germany c.1122."
 image: "http://catholicsaints.info/wp-content/gallery/saint-arnold-of-hiltensweiler/saint-arnold-of-hiltensweiler.jpg"
 searchAliases:

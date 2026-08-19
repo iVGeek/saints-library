@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleutherius of Marseille"
 honorific: Saint
-title: "Saint Eleutherius of Marseille"
 summary: "Young martyr."
 searchAliases:
   - "Deutherius"

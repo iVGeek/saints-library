@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Alvarez Rodríguez"
 honorific: Blessed
-title: "Blessed José Alvarez Rodríguez"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

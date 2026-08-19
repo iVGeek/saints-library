@@ -1,7 +1,6 @@
 ---
 name: "Saint Imperia"
 honorific: Saint
-title: "Saint Imperia"
 summary: "Honoured in Mauprévoir, France, but no information about her has survived."
 region: "France"
 feastDay:

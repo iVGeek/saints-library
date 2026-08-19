@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermes of Corinth"
 honorific: Saint
-title: "Saint Hermes of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

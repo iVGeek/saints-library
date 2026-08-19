@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Grimaltos Monllor"
 honorific: Blessed
-title: "Blessed Ramón Grimaltos Monllor"
 summary: "Jesuit brother in 1890. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Grimaltos-Monllor.jpg"
 birthYear: 1861

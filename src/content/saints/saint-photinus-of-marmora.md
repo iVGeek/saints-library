@@ -1,7 +1,6 @@
 ---
 name: "Saint Photinus of Marmora"
 honorific: Saint
-title: "Saint Photinus of Marmora"
 summary: "Tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Fotinus"

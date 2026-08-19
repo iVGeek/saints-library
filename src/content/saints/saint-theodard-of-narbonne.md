@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodard of Narbonne"
 honorific: Saint
-title: "Saint Theodard of Narbonne"
 summary: "Born to a wealthy family of the French nobility. Excellent student in both secular and Church topics; as a sub-deacon he helped settle a dispute at a synod at Toulouse, France. Benedictine monk at the Saint Martin monastery in Montauriol, France; it was later renamed Saint Audard"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodard-of-Narbonne.jpg"
 searchAliases:

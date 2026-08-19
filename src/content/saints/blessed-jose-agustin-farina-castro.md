@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Agustín Fariña Castro"
 honorific: Blessed
-title: "Blessed José Agustín Fariña Castro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

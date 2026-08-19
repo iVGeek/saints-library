@@ -1,7 +1,6 @@
 ---
 name: "Saint Marguerite Bourgeous"
 honorific: Venerable
-title: "Saint Marguerite Bourgeous"
 summary: "The sixth of twelve children of devout parents. When Marguerite was 19 her mother died, and the young lady cared for her younger brothers and sisters; her father died when she was twenty-seven. The family raised, Marguerite prayed to know what to do with her life. The governor of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marguerite-Bourgeous.jpg"
 searchAliases:

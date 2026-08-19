@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfons Maria Mazurek"
 honorific: Blessed
-title: "Blessed Alfons Maria Mazurek"
 summary: "Discalced Carmelite friar, taking the name Alfons Maria of the Holy Spirit. Ordained in July 1916. Teacher and noted administrator. Professor at the Carmelite minor seminary. Prefect of the seminary. Prior of the Carmelite monastery at Czerna, Poland in 1930. Under his leadership"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Alphonse-Marie-Mazurek.jpg"
 searchAliases:

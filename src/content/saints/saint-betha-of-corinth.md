@@ -1,7 +1,6 @@
 ---
 name: "Saint Betha of Corinth"
 honorific: Saint
-title: "Saint Betha of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Zethas"

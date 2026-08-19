@@ -1,7 +1,6 @@
 ---
 name: "Saint Herodion of Patras"
 honorific: Saint
-title: "Saint Herodion of Patras"
 summary: "First century bishop of Patras, Greece. He may have been one of the “70 Disciples of Jesus”. Martyr. Saint Paul the Apostle refers to Herodion as “my brother” or “my kinsman”."
 searchAliases:
   - "Herodian of Patras"

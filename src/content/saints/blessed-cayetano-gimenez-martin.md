@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cayetano Giménez Martín"
 honorific: Blessed
-title: "Blessed Cayetano Giménez Martín"
 summary: "Ordained a priest of the archdiocese of Granada, Spain, Father Cayetano continued studying canon law for several years. He served in parishes in Alfornón, Alboloduy, and Loja, and was noted for a devotion to the Blessed Virgin Mary. At the outbreak of the Spanish Civil War, his c"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Cayetano-Gimenez-Martin.jpg"
 birthYear: 1866

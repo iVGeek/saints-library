@@ -1,7 +1,6 @@
 ---
 name: "Saint Thyrsus"
 honorific: Saint
-title: "Saint Thyrsus"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

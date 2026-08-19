@@ -1,7 +1,6 @@
 ---
 name: "Blessed Scipion-Jérôme Brigeat Lambert"
 honorific: Blessed
-title: "Blessed Scipion-Jérôme Brigeat Lambert"
 summary: "Born to the nobility, his father was a royal advisor and treasury official. Studied in the French cities of Ligny and Paris, then the seminaries of San Luis and then San Sulpice. Ordained a priest in 1756. Earned his doctorate in 1760 at the college of Navarra. Canon and vicar-ge"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:

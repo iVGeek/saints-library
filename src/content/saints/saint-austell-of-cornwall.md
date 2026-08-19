@@ -1,7 +1,6 @@
 ---
 name: "Saint Austell of Cornwall"
 honorific: Saint
-title: "Saint Austell of Cornwall"
 summary: "Spiritual student of Saint Mewan of Bretagne. He probably lived in the area now known as Saint Austol."
 searchAliases:
   - "Austol"

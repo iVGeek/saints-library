@@ -1,7 +1,6 @@
 ---
 name: "Saint James the Hermit"
 honorific: Saint
-title: "Saint James the Hermit"
 summary: "James spent a wild youth, but became a convert to Christianity. Lived as a hermit for 15 years. At one point he lost his faith, and committed several crimes, one of which may have been murder. He was ready to abandon his faith, and his life, but an anchorite friend convinced him"
 searchAliases:
   - "James the Palestinian"

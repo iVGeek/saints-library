@@ -1,7 +1,6 @@
 ---
 name: "Saint Colgan of Clonmacnoise"
 honorific: Saint
-title: "Saint Colgan of Clonmacnoise"
 summary: "Brother of Saint Foila. Friend and teacher of Blessed Alcuin. Abbot of Clonmachnoise, Offaly, Ireland. Many of his spiritual students spread out across France, becoming influential teachers in imperial schools."
 searchAliases:
   - "Colgan the Wise"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mechtildis of Edelstetten"
 honorific: Saint
-title: "Saint Mechtildis of Edelstetten"
 summary: "Born to the nobility, the daughter of Count Berthold and Sophie of Andechs; sister of Blessed Euphemia of Altomünster. Raised in a Benedictine convent at Diessen, Germany that had been founded by her parents. When she became Benedictine nun herself, her obvious virtue led to her"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Marienm%C3%BCnster_Die%C3%9Fen_Langhausfresko_detail_2.jpg/960px-Marienm%C3%BCnster_Die%C3%9Fen_Langhausfresko_detail_2.jpg"
 searchAliases:

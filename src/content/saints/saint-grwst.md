@@ -1,7 +1,6 @@
 ---
 name: "Saint Grwst"
 honorific: Saint
-title: "Saint Grwst"
 summary: "Namesake for Llanrwst, Clwyd, Wales."
 region: "England"
 feastDay:

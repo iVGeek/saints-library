@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis of Noirmoutier"
 honorific: Saint
-title: "Saint Vitalis of Noirmoutier"
 summary: "Monk on Noirmoutier-en-l'Île, France. Hermit on Mont Scobrit near the Loire River."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Vitalis-of-Noirmoutier.jpg"
 searchAliases:

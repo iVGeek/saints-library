@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nemesio Cabria Andrés"
 honorific: Blessed
-title: "Blessed Nemesio Cabria Andrés"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Julián José"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Sugar"
 honorific: Blessed
-title: "Blessed John Sugar"
 summary: "Priest in the apostolic vicariate of England during a period of government persecution. Martyr."
 searchAliases:
   - "John Cox"

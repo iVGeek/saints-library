@@ -1,7 +1,6 @@
 ---
 name: "Saint Elian of Marula"
 honorific: Saint
-title: "Saint Elian of Marula"
 summary: "Martyr."
 searchAliases:
   - "Elianus"

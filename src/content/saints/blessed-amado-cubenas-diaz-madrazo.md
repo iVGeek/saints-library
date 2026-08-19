@@ -1,7 +1,6 @@
 ---
 name: "Blessed Amado Cubeñas Díaz-Madrazo"
 honorific: Blessed
-title: "Blessed Amado Cubeñas Díaz-Madrazo"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

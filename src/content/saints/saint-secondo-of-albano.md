@@ -1,7 +1,6 @@
 ---
 name: "Saint Secondo of Albano"
 honorific: Saint
-title: "Saint Secondo of Albano"
 summary: "Martyr. No other information has survived."
 died: "Albano, Italy"
 deathPlace: "Italy"

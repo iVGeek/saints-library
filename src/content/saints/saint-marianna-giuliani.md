@@ -1,7 +1,6 @@
 ---
 name: "Saint Marianna Giuliani"
 honorific: Venerable
-title: "Saint Marianna Giuliani"
 summary: "Nun. Member of the Franciscan Missionaries of Mary. Missionary to China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg"
 searchAliases:

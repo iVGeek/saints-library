@@ -1,7 +1,6 @@
 ---
 name: "Saint Lanoald of Maastricht"
 honorific: Saint
-title: "Saint Lanoald of Maastricht"
 summary: "Priest in Rome, Italy. With Saint Amantius of Wintershoven, he evangelized areas of modern France and Belgium. Founded the church at Wintershoven, Belgium."
 image: "http://catholicsaints.info/wp-content/uploads/Landoald-of-Maastricht.jpg"
 searchAliases:

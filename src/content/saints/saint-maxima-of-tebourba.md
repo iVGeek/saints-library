@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxima of Tebourba"
 honorific: Saint
-title: "Saint Maxima of Tebourba"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "304 at Tebourba in North Africa"

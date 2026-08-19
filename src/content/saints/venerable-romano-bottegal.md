@@ -1,7 +1,6 @@
 ---
 name: "Venerable Romano Bottegal"
 honorific: Venerable
-title: "Venerable Romano Bottegal"
 summary: "Trappist priest."
 birthYear: 1921
 deathYear: 1978

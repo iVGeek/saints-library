@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius of Caesarea"
 honorific: Saint
-title: "Saint Asterius of Caesarea"
 summary: "Roman senator. Martyred for giving a Christian burial to Saint Marinus of Caesarea."
 searchAliases:
   - "Asterus"

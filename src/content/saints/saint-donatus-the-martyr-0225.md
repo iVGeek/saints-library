@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus the Martyr"
 honorific: Saint
-title: "Saint Donatus the Martyr"
 summary: "One of a group of 3rd-century Christians martyred in North Africa in the persecutions of Decius."
 region: "Africa"
 feastDay:

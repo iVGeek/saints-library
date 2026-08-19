@@ -1,7 +1,6 @@
 ---
 name: "Saint Everan of Drumreilly"
 honorific: Saint
-title: "Saint Everan of Drumreilly"
 summary: "Evangelizing bishop of Drumreilly, Ireland, serving in the 6th century, following in the wake of the work of Saint Patrick."
 searchAliases:
   - "Everan of Druim Air Belaigh"

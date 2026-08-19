@@ -1,7 +1,6 @@
 ---
 name: "Saint Selyf of Cornwall"
 honorific: Saint
-title: "Saint Selyf of Cornwall"
 summary: "Sixth century hermit in Saint Levan, Cornwall, England."
 searchAliases:
   - "Levan"

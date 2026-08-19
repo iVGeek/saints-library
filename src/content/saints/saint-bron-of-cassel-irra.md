@@ -1,7 +1,6 @@
 ---
 name: "Saint Bron of Cassel-Irra"
 honorific: Saint
-title: "Saint Bron of Cassel-Irra"
 summary: "Spiritual student of Saint Patrick. Bishop of Cassel-Irra, Ireland."
 deathYear: 511
 died: "c.511"

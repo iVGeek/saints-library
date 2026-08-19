@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ricardo López y López"
 honorific: Blessed
-title: "Blessed Ricardo López y López"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

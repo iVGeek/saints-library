@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunanziano of Carthage"
 honorific: Saint
-title: "Saint Fortunanziano of Carthage"
 summary: "Lector martyred in the persecutions of Diocletian."
 searchAliases:
   - "Fortunanzio"

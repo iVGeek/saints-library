@@ -1,7 +1,6 @@
 ---
 name: "Saint Tómmán"
 honorific: Saint
-title: "Saint Tómmán"
 summary: "Bishop. No other information has survived."
 born: "Ireland"
 region: "Ireland"

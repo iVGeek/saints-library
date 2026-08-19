@@ -1,7 +1,6 @@
 ---
 name: "Venerable Carolina Beltrami"
 honorific: Venerable
-title: "Venerable Carolina Beltrami"
 summary: "Founder of the Institute of the Immaculatine Sisters of Alessandria."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-carolina-beltrami/venerable-carolina-beltrami-01.jpg"
 birthYear: 1869

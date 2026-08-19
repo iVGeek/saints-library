@@ -1,7 +1,6 @@
 ---
 name: "Saint Abercius"
 honorific: Saint
-title: "Saint Abercius"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

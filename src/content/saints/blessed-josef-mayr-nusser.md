@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josef Mayr-Nusser"
 honorific: Blessed
-title: "Blessed Josef Mayr-Nusser"
 summary: "Raised in a pious, rural Italian farm family; his brother Jakob became a priest. Devotee of Blessed Antoine-Frédéric Ozanam and Saint Vincent de Paul. To follow their example, he joined the Saint Vincent de Paul Society in 1932, and by 1937 was the president of the Bolzano, Italy"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Josef_Mayr-Nusser.jpg"
 searchAliases:

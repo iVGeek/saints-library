@@ -1,7 +1,6 @@
 ---
 name: "Saint Sigeberht of East Anglia"
 honorific: Saint
-title: "Saint Sigeberht of East Anglia"
 summary: "While exiled from East Anglia to France during the reign of King Redwald, Sigeberht converted to Christianity. He returned to East Anglia as king in 630, the first Christian king of the region. Worked with Archbishop Honorius of Canterbury and Saint Fursey to bring Christianity t"
 searchAliases:
   - "Sigebert"

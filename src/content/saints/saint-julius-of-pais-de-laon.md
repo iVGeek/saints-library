@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Pais-de-Laon"
 honorific: Saint
-title: "Saint Julius of Pais-de-Laon"
 summary: "Martyred with in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 at Pais-de-Leon, Brittany (in modern France"

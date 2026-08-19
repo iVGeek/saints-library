@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnaldo de Rossinol"
 honorific: Blessed
-title: "Blessed Arnaldo de Rossinol"
 summary: "Orphaned young, Arnaldo was raised by his uncle, the archbishop of Tarragona, Spain. As a young man, Arnaldo served briefly in the court of King Peter III but felt a call to religious life, and became a lay knight in the Mercedarians. His dedication and personal piety were so obv"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Arnaldo-de-Rossinol.jpg"
 deathYear: 1317

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelle"
 honorific: Blessed
-title: "Blessed Marcelle"
 summary: "Born to a farm family, Marcelle was a pious 10th century goatherd. We know nothing else about her, but the Benedictines in Chauriat who knew her, built a church in her honour in 976."
 searchAliases:
   - "Marcella"

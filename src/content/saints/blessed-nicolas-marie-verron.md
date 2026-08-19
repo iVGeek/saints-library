@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas-Marie Verron"
 honorific: Blessed
-title: "Blessed Nicolas-Marie Verron"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792

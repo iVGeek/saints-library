@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mancius Kyujiro"
 honorific: Blessed
-title: "Blessed Mancius Kyujiro"
 summary: "Layman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Kyoto (Miyako), Japan"

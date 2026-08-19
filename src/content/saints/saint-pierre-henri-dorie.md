@@ -1,7 +1,6 @@
 ---
 name: "Saint Pierre-Henri Dorie"
 honorific: Venerable
-title: "Saint Pierre-Henri Dorie"
 summary: "Studied at the seminaries of Sables-d'Olonne and Luçon. Ordained a priest on 21 May 1864. Member of the Paris Foreign Missions Society, and assigned to missionary work in Korea. Tortured and martyred in one of the anti-Christian persecutions."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pierre_Henri_Dorie_Korea_1864.jpg/960px-Pierre_Henri_Dorie_Korea_1864.jpg"
 searchAliases:

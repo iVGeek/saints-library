@@ -1,7 +1,6 @@
 ---
 name: "Saint Solomon III of Bretagne"
 honorific: Saint
-title: "Saint Solomon III of Bretagne"
 summary: "King of Brittany (in modern France). Military leader who fought both Franks and Northmen; the Bretons count him among their national heroes. He repented for the crimes of his youth and when he was murdered, he was proclaimed a martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Solomon-III-of-Bretagne.jpg"
 searchAliases:

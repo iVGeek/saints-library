@@ -1,7 +1,6 @@
 ---
 name: "Blessed Otto Neururer"
 honorific: Blessed
-title: "Blessed Otto Neururer"
 summary: "Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but timid young man who also battled depression."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Otto_Neururer.jpg"
 searchAliases:

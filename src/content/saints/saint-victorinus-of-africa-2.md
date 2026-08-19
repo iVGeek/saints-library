@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Africa"
 honorific: Saint
-title: "Saint Victorinus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

@@ -2,7 +2,6 @@
 name: "Blessed Alfons Miquel Garriga"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alfonso_Miquel_Garriga%2C_C.M.F.png"
 honorific: Blessed
-title: "Blessed Alfons Miquel Garriga"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

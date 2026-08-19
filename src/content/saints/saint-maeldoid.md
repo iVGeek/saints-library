@@ -1,7 +1,6 @@
 ---
 name: "Saint Maeldoid"
 honorific: Saint
-title: "Saint Maeldoid"
 summary: "6th-7th century monk and then abbot of the abbey of Mucnam, Castleblayney, County Monaghan, Ireland."
 born: "Irish"
 region: "Ireland"

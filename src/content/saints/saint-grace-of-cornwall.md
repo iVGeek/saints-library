@@ -1,7 +1,6 @@
 ---
 name: "Saint Grace of Cornwall"
 honorific: Saint
-title: "Saint Grace of Cornwall"
 summary: "Married to Saint Probus of Cornwall. No other information has come down to us. During renovation of the church named for them, a male and a female skull were found interred near the site of the altar, and are believed to be relics of the couple."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Probus-of-Cornwall.jpg"
 born: "at Cornwall, England"

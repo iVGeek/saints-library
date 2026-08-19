@@ -1,7 +1,6 @@
 ---
 name: "Blessed Publio Fernández González"
 honorific: Blessed
-title: "Blessed Publio Fernández González"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

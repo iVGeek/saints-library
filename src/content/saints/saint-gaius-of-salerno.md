@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius of Salerno"
 honorific: Saint
-title: "Saint Gaius of Salerno"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Caius"

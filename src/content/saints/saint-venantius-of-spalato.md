@@ -1,7 +1,6 @@
 ---
 name: "Saint Venantius of Spalato"
 honorific: Saint
-title: "Saint Venantius of Spalato"
 summary: "Bishop in the Dalmatia region of modern Croatia. Martyred with several Christian companions."
 searchAliases:
   - "Venantius of Split"

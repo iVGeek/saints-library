@@ -1,7 +1,6 @@
 ---
 name: "Saint Marianus"
 honorific: Saint
-title: "Saint Marianus"
 summary: "In 283 an entire congregation was martyred in the persecutions of Numerian when they assembled in the catacombs for prayers - and were walled in to suffocate or starve. The only names that have come down to us are Saint Marianus and Saint Didorus."
 deathYear: 283
 born: "Roman citizen"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jean-Gabriel-Taurin Dufresse"
 honorific: Venerable
-title: "Saint Jean-Gabriel-Taurin Dufresse"
 summary: "Entered the Society of Foreign Missions of Paris seminary in 1774, and ordained on 17 September. Missionary to Szechuan, China in 1775. Imprisoned for six months in 1784 during a government persecution of Christians. He was re-assigned to Macao, but return to the Chinese missions"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Gabriel-Taurin-Dufresse.jpg"
 birthYear: 1750

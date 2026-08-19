@@ -1,7 +1,6 @@
 ---
 name: "Saint Hormisdas of Persia"
 honorific: Saint
-title: "Saint Hormisdas of Persia"
 summary: "Born to the Persian noblity. He converted to Christianity in his youth. He later refused to apostacize, was stripped of his rank and title by King Varannes, and busted to army camel-driver. When he continued to cling to his faith, he was executed. Martyr."
 deathYear: 420
 born: "Persia"

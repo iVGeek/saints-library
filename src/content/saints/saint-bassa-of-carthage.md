@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassa of Carthage"
 honorific: Saint
-title: "Saint Bassa of Carthage"
 summary: "Nun. Martyr."
 died: "in Carthage in North Africa"
 region: "Africa"

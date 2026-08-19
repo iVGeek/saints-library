@@ -1,7 +1,6 @@
 ---
 name: "Saint Adauctus of Rome"
 honorific: Saint
-title: "Saint Adauctus of Rome"
 summary: "As Saint Felix of Rome was being dragged to his martyrdom, Adauctus, a bystander, was moved to proclaim his own faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adauctus-and-Saint-Felix.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ambroise-Augustin Chevreux"
 honorific: Blessed
-title: "Blessed Ambroise-Augustin Chevreux"
 summary: "Ambroise-Augustin joined the Benedictine Maurist abbey of Saint-Florent de Saumur in Orléans, France on 14 May 1744 at the age of 16. He was later sent to the Saint-Germain-des-Prés Abbey in Paris, France. Beginning in 1763, he began to be appointed to leadership positions, and i"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-ambroise-augustin-chevreux/blessed-ambroise-augustin-chevreux-01.jpg"
 searchAliases:

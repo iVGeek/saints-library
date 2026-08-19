@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrea Carlo Ferrari"
 honorific: Blessed
-title: "Blessed Andrea Carlo Ferrari"
 summary: "Educated in the seminary of Parma, Italy. Ordained on 20 December 1873 in Parma. Episcopal delegate of Mariano, February 1874. Coadjutor Bishop of Fornovo di Taro, Italy on 4 July 1874. Vice-rector of the Parma seminary, and professor of physics and mathematics in 1875. Rector of"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andrea_Carlo_Ferrari_-_Photo.jpg"
 searchAliases:

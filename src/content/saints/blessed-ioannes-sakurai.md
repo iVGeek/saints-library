@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Sakurai"
 honorific: Blessed
-title: "Blessed Ioannes Sakurai"
 summary: "Married layman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Bungo (in modern Oita), Japan"

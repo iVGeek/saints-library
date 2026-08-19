@@ -1,7 +1,6 @@
 ---
 name: "Blessed César Elexgaray Otazua"
 honorific: Blessed
-title: "Blessed César Elexgaray Otazua"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

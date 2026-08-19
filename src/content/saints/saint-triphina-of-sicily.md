@@ -1,7 +1,6 @@
 ---
 name: "Saint Triphina of Sicily"
 honorific: Saint
-title: "Saint Triphina of Sicily"
 summary: "Martyr. No other information has survived."
 deathYear: 306
 born: "Sicily"

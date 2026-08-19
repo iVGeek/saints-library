@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sixtus of Kyoto"
 honorific: Blessed
-title: "Blessed Sixtus of Kyoto"
 summary: "Son of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 3."
 birthYear: 1616
 deathYear: 1619

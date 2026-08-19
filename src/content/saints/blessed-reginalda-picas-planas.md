@@ -1,7 +1,6 @@
 ---
 name: "Blessed Reginalda Picas Planas"
 honorific: Blessed
-title: "Blessed Reginalda Picas Planas"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

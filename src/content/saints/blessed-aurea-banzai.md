@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aurea Banzai"
 honorific: Blessed
-title: "Blessed Aurea Banzai"
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Ioannes Banzai Kazue. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

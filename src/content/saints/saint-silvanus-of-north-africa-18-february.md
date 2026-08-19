@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of North Africa"
 honorific: Saint
-title: "Saint Silvanus of North Africa"
 summary: "One of a group of Christians who were martyred together, date unknown. No other information has survived."
 born: "African"
 died: "North Africa"

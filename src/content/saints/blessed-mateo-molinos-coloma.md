@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mateo Molinos Coloma"
 honorific: Blessed
-title: "Blessed Mateo Molinos Coloma"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Dionisio Luis"

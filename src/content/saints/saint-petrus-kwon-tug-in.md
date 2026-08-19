@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Kwon Tug-In"
 honorific: Venerable
-title: "Saint Petrus Kwon Tug-In"
 summary: "Married layman in the apostolic vicariate of Korea. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:

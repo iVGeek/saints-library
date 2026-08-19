@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacinth of Rome"
 honorific: Saint
-title: "Saint Hyacinth of Rome"
 summary: "Martyr."
 searchAliases:
   - "Giacinto"

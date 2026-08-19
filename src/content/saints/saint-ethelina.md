@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethelina"
 honorific: Saint
-title: "Saint Ethelina"
 summary: "No information has survived."
 searchAliases:
   - "Eudelme"

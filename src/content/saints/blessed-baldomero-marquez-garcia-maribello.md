@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baldomero Márquez García-Maribello"
 honorific: Blessed
-title: "Blessed Baldomero Márquez García-Maribello"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Hinojosa del Duque community. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

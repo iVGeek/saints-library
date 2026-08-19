@@ -1,7 +1,6 @@
 ---
 name: "Saint Elpidius of Brioude"
 honorific: Saint
-title: "Saint Elpidius of Brioude"
 summary: "Fourth-century martyr."
 searchAliases:
   - "Elpida"

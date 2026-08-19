@@ -1,7 +1,6 @@
 ---
 name: "Blessed Chiara of the Resurrection"
 honorific: Blessed
-title: "Blessed Chiara of the Resurrection"
 summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Chiara-of-the-Resurrection.jpg"
 region: "Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ribert of Saint-Oyend"
 honorific: Saint
-title: "Saint Ribert of Saint-Oyend"
 summary: "Monk. Abbot of the monastery of Saint Oyend, France."
 searchAliases:
   - "Ribarius"

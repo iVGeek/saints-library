@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Troyes"
 honorific: Saint
-title: "Saint Leo of Troyes"
 summary: "Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France."
 searchAliases:
   - "Leo of Mantenay"

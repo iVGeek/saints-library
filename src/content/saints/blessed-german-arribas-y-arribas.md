@@ -1,7 +1,6 @@
 ---
 name: "Blessed Germán Arribas y Arribas"
 honorific: Blessed
-title: "Blessed Germán Arribas y Arribas"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Ángel Gregorio"

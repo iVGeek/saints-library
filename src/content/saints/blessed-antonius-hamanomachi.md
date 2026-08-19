@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonius Hamanomachi"
 honorific: Blessed
-title: "Blessed Antonius Hamanomachi"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 searchAliases:

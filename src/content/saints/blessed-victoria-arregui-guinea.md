@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victoria Arregui Guinea"
 honorific: Blessed
-title: "Blessed Victoria Arregui Guinea"
 summary: "The daughter of Venancio, a farmhand, and Liboria, Victoria was educated by the Daughters of Charity, was a member of the Daughters of Mary of the Miraculous Medal, and as a girl developed a love of prayer, Marian devotion, and service to the poor. Feeling a call to religious lif"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Victoria-Arregui-Guinea.jpg"
 birthYear: 1894

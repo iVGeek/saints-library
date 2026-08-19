@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammi of Caesarea"
 honorific: Saint
-title: "Saint Ammi of Caesarea"
 summary: "Foster-mother of Saint Mamas. Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 at Caesarea, Cappadocia, Asia Minor"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alfanus of Salerno"
 honorific: Saint
-title: "Saint Alfanus of Salerno"
 summary: "Benedictine monk at Monte Cassino Abbey. Archbishop of Salerno, Italy. Assisted Pope Saint Gregory VII on his death-bed."
 deathYear: 1085
 died: "1085"

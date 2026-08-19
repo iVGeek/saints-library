@@ -1,7 +1,6 @@
 ---
 name: "Saint Caerealis of Alexandria"
 honorific: Saint
-title: "Saint Caerealis of Alexandria"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cerulus"

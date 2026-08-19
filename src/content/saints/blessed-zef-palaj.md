@@ -1,7 +1,6 @@
 ---
 name: "Blessed Zef Palaj"
 honorific: Blessed
-title: "Blessed Zef Palaj"
 summary: "Educated by the Franciscans, and then joined the Friars Minor, taking the name Bernardin; he made his solemn profession in 1917. He studied in Salzburg and Innsbruck, Austria, and was ordained a priest on 2 August 1918. He taught Albanian and Latin at the Franciscan Illyricum Gym"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Zef-Palaj.jpg"
 searchAliases:

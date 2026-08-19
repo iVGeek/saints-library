@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinus of Piacenza"
 honorific: Saint
-title: "Saint Sabinus of Piacenza"
 summary: "Bishop of Piacenza, Italy. Friend of Saint Ambrose of Milan, he regularly read and commented on the first draft of Ambrose's writings. Dispatched by Pope Saint Damasus I to Antioch to suppress the Meletian Schism. Attended the Council of Aquileia in 381."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/San-Savino-Caselle-Landi.JPG/960px-San-Savino-Caselle-Landi.JPG"
 deathYear: 420

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Pascual García Martín"
 honorific: Blessed
-title: "Blessed Pedro Pascual García Martín"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

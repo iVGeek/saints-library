@@ -1,7 +1,6 @@
 ---
 name: "Saint Himerius"
 honorific: Saint
-title: "Saint Himerius"
 summary: "Monk. Hermit. Missionary to Jura district in Switzerland, which is now called Val-Saint-Imier in his honour."
 searchAliases:
   - "Imier"

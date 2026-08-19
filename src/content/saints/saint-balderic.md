@@ -1,7 +1,6 @@
 ---
 name: "Saint Balderic of Montfaucon"
 honorific: Saint
-title: "Saint Balderic of Montfaucon"
 summary: "Born a prince, the son of King Sigebert I of Austrasia, an area in the east of modern France; brother of Saint Bova, and uncle of Saint Doda of Rheims. Founded the monastery of Montfaucon in Switzerland and a convent for his sister in Rheims, France."
 searchAliases:
   - "Baldric"

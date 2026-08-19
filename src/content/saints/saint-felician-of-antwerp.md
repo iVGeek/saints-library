@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Antwerp"
 honorific: Saint
-title: "Saint Felician of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

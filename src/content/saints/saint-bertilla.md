@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertilla"
 honorific: Saint
-title: "Saint Bertilla"
 summary: "Born to the early 7th century Frankish nobility. Married to Saint Gualberto."
 region: "France"
 feastDay:

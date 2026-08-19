@@ -1,7 +1,6 @@
 ---
 name: "Saint Caesarius of Clermont"
 honorific: Saint
-title: "Saint Caesarius of Clermont"
 summary: "Bishop of Clermont, France."
 deathYear: 627
 died: "c.627"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Milburga"
 honorific: Saint
-title: "Saint Milburga"
 summary: "Daughter of Merewalh, King of Mercia, and Saint Ermenburga. Sister of Saint Mildred and Saint Mildgytha. Took the veil from archbishop Saint Theodore. Benedictine nun. Founded Much Wenlock abbey in Shropshire, England, and was abbess there. Miracle worker. Had a mysterious power"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Milburga.jpg"
 searchAliases:

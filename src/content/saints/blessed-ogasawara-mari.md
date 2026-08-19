@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ogasawara Mari"
 honorific: Blessed
-title: "Blessed Ogasawara Mari"
 summary: "Lifelong lay woman in the diocese of Fukuoka, Japan. Daughter of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya Luisa. Martyr."
 deathYear: 1636
 born: "Kokura, Buzen, Fukuoka, Japan"

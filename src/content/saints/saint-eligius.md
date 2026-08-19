@@ -1,7 +1,6 @@
 ---
 name: "Saint Eligius of Noyon"
 honorific: Saint
-title: "Saint Eligius of Noyon"
 summary: "Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges, France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of and advisor to Clotaire. Noted for his piety, har"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eligius-of-Noyon1.jpg"
 searchAliases:

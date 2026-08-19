@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucie Khambang"
 honorific: Blessed
-title: "Blessed Lucie Khambang"
 summary: "Daughter of James and Mary Dam May Li; baptized on 10 March 1917, Confirmed and received her first Communion on 4 June 1925. Joined the Congregation of the Lovers of the Cross, beginning the novitiate on 18 October 1935 and making her final profession in Siengvang, Laos on 15 Oct"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucie-Khambang.jpg"
 searchAliases:

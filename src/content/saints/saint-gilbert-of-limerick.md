@@ -1,7 +1,6 @@
 ---
 name: "Saint Gilbert of Limerick"
 honorific: Saint
-title: "Saint Gilbert of Limerick"
 summary: "Priest. Worked in Rouen, France from 1103 to 1106. Apostolic delegate to Ireland from the papacy of Pope Paschal II c.1106. Chosen bishop of Limerick, Ireland in 1107. With Saint Malchus of Waterford and Ceallach of Armagh, he helped reorganize the Church in Ireland, replacing mo"
 searchAliases:
   - "Gilla"

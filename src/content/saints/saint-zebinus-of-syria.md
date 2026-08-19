@@ -1,7 +1,6 @@
 ---
 name: "Saint Zebinus of Syria"
 honorific: Saint
-title: "Saint Zebinus of Syria"
 summary: "Hermit in Syria. Spiritual teacher of many monks, including Saint Maro and Saint Polychronius."
 died: "5th century of natural causes"
 region: "England"

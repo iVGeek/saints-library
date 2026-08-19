@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertula of Thessalonica"
 honorific: Saint
-title: "Saint Tertula of Thessalonica"
 summary: "Two Christians with the same name who were martyred."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

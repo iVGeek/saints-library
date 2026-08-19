@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ovidio Fernández Arenillas"
 honorific: Blessed
-title: "Blessed Ovidio Fernández Arenillas"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ovidio-Fernandez-Arenillas.jpg"
 searchAliases:

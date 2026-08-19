@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christopher Macassoli of Vigevano"
 honorific: Blessed
-title: "Blessed Christopher Macassoli of Vigevano"
 summary: "Born to the Italian nobility. Entered the Franciscans at age 20. Priest. Founded the monastery of Santa Maria delle Grazie at Vigevano, Italy c.1475, which became a point of pilgrimage for those seeking spiritual advice. Worked with Blessed Pacificus Ramoth of Carano."
 searchAliases:
   - "Kristoffer Macassoli av Vigevano"

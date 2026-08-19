@@ -1,7 +1,6 @@
 ---
 name: "Saint Arealdo of Brescia"
 honorific: Saint
-title: "Saint Arealdo of Brescia"
 summary: "Martyred with his sons Carillo and Oderico by invading Lombards."
 deathYear: 576
 died: "c.576 in Brescia, Italy"

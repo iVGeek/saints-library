@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Dorca Coromina"
 honorific: Blessed
-title: "Blessed Pere Dorca Coromina"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Anastasi Maria"

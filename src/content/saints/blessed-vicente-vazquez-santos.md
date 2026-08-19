@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Vázquez Santos"
 honorific: Blessed
-title: "Blessed Vicente Vázquez Santos"
 summary: "Member of the Claretians, professed on 25 August 1931. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

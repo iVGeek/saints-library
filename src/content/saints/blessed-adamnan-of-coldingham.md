@@ -2,7 +2,6 @@
 name: "Blessed Adamnan of Coldingham"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/University_of_Vermont._Catalogue_of_the_library_of_George_Perkins_Marsh_%28IA_universityofverm00vermrich%29.pdf/page1-960px-University_of_Vermont._Catalogue_of_the_library_of_George_Perkins_Marsh_%28IA_universityofverm00vermrich%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Adamnan of Coldingham"
 summary: "Pilgrim. Monk at the monastery of Coldingham, Scotland under the direction of Saint Ebba. Known for the austerity of his life. Had the gift of prophecy."
 searchAliases:
   - "Adamannus"

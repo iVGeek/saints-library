@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellus of Saint Gall"
 honorific: Saint
-title: "Saint Marcellus of Saint Gall"
 summary: "Monk at Saint Gall Abbey in Switzerland."
 deathYear: 869
 born: "Ireland"

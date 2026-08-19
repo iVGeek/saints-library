@@ -1,7 +1,6 @@
 ---
 name: "Saint Irais"
 honorific: Saint
-title: "Saint Irais"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Herais"

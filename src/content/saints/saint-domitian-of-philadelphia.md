@@ -1,7 +1,6 @@
 ---
 name: "Saint Domitian of Philadelphia"
 honorific: Saint
-title: "Saint Domitian of Philadelphia"
 summary: "Martyr. No other information has survived."
 died: "martyred in Philadelphia (modern Alasehir, Turkey)"
 deathPlace: "Turkey)"

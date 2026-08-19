@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Nicomedia"
 honorific: Saint
-title: "Saint Cyriacus of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Kyriakos"

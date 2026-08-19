@@ -1,7 +1,6 @@
 ---
 name: "Saint Matutinus of Thessalonica"
 honorific: Saint
-title: "Saint Matutinus of Thessalonica"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Maturinus"

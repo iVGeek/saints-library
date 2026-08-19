@@ -1,7 +1,6 @@
 ---
 name: "Saint Auxanus of Milan"
 honorific: Saint
-title: "Saint Auxanus of Milan"
 summary: "Bishop of Milan, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Auxanus-of-Milan.jpg"
 searchAliases:

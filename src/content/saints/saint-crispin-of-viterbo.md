@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispin of Viterbo"
 honorific: Venerable
-title: "Saint Crispin of Viterbo"
 summary: "Son of Ubald and Marsha. His father died when Pietro was very young, and his mother consecrated the boy to the Blessed Virgin Mary when he was five years old. Pietro developed an early devotion to Our Lady, calling her his other mother, and displayed such a simple and honest piet"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Fioretti2.jpg"
 searchAliases:

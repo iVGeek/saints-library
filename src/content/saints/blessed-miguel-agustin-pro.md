@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Agustin Pro"
 honorific: Blessed
-title: "Blessed Miguel Agustin Pro"
 summary: "Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious home. Born to privilege, he had great affinity for the poor and working classes. Victim of recurring stomach disorder. Jesuit novice at 20. Exiled during the Mexican"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Austin-Pro.jpg"
 birthYear: 1891

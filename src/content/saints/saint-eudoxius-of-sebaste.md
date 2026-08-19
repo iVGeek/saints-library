@@ -1,7 +1,6 @@
 ---
 name: "Saint Eudoxius of Sebaste"
 honorific: Saint
-title: "Saint Eudoxius of Sebaste"
 summary: "One of a group of ten Christian soldiers in the imperial Roman army of Emperor Licinius who were martyred together for refusing to sacrifice to Roman gods."
 deathYear: 315
 died: "burned at the stake c.315 at Sebaste, Armenia"

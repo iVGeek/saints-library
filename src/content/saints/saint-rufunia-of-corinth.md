@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufunia of Corinth"
 honorific: Saint
-title: "Saint Rufunia of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

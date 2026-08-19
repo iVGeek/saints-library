@@ -1,7 +1,6 @@
 ---
 name: "Saint Polycarp of Antioch"
 honorific: Saint
-title: "Saint Polycarp of Antioch"
 died: "martyred in Antioch"
 region: "England"
 feastDay:

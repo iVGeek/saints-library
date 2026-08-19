@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnus of Orkney"
 honorific: Saint
-title: "Saint Magnus of Orkney"
 summary: "Born to a Viking family, son of Erlend Thorfinnsson, Earl of Orkney; related to King Olav II and King Harald II of Norway. He was raised as a pagan and lived as a pirate. Convert to Christianity, which made him unpopular in the Norwegian royal court especially when he refused to"
 image: "http://catholicsaints.info/wp-content/uploads/magnus.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusebio Roldán Vielva"
 honorific: Blessed
-title: "Blessed Eusebio Roldán Vielva"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eusebio Andrés"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Heraclius of Noviodunum"
 honorific: Saint
-title: "Saint Heraclius of Noviodunum"
 summary: "Martyr."
 searchAliases:
   - "Eraclio"

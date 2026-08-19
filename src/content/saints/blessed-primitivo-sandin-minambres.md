@@ -1,7 +1,6 @@
 ---
 name: "Blessed Primitivo Sandín Miñambres"
 honorific: Blessed
-title: "Blessed Primitivo Sandín Miñambres"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936

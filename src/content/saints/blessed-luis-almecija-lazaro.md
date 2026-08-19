@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Almécija Lázaro"
 honorific: Blessed
-title: "Blessed Luis Almécija Lázaro"
 summary: "Born to a pious farming family, Luis was baptized at the age of three days; his sister became a Poor Clare prioress, and two nephews were priests. Luis studied in seminaries in Almería and Granada, Spain, and was ordained a priest in the archdiocese of Granada on 18 May 1906. He"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Almecija-Lazaro.jpg"
 birthYear: 1883

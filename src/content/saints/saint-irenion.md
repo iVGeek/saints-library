@@ -1,7 +1,6 @@
 ---
 name: "Saint Irenion"
 honorific: Saint
-title: "Saint Irenion"
 summary: "Bishop of Gaza in Palestine."
 searchAliases:
   - "Irenian"

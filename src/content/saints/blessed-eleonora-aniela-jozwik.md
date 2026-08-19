@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eleonora Aniela Józwik"
 honorific: Blessed
-title: "Blessed Eleonora Aniela Józwik"
 summary: "Member of the Sisters of the Holy Family of Nazareth. One of the Martyrs of Nowogrodek who were killed for their faith in the Nazi persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eleonora-Aniela-Józwik.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mucius"
 honorific: Saint
-title: "Saint Mucius"
 summary: "Priest. Martyred in the persecutions of Diocletian for overturning a pagan altar."
 deathYear: 304
 born: "at Byzantium"

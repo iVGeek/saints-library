@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Pilar Izquierdo Albero"
 honorific: Blessed
-title: "Blessed Maria Pilar Izquierdo Albero"
 summary: "The third of five children born to Mariano, a baker, and Paola. Theirs was a poor family, and Maria was known from early youth for her love of God and her desire to serve those even poorer than herself. As a young woman, she worked at a shoe factory to help support her family. In"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Pilar-Izquierdo-Albero-1.jpg"
 birthYear: 1906

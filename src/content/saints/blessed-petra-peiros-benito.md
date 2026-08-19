@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petra Peirós Benito"
 honorific: Blessed
-title: "Blessed Petra Peirós Benito"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Petra Pilar de los Desamparados"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laura Vicuña"
 honorific: Blessed
-title: "Blessed Laura Vicuña"
 summary: "Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved across the Andes to raise the girl in Las Laj"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Laura_Vicu%C3%B1a_2.jpg"
 birthYear: 1891

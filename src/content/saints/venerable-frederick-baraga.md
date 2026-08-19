@@ -1,7 +1,6 @@
 ---
 name: "Venerable Irenej Friderik Baraga"
 honorific: Venerable
-title: "Venerable Irenej Friderik Baraga"
 summary: "Studied at Ljublajana, Slovenia and Vienna, Austria. Ordained a priest on 21 September 1823. Missionary in the area of modern Michigan, arriving in North America in 1830. Chosen Vicar Apostolic of Upper Michigan and Titular Bishop of Amyzon on 29 July 1853. Appointed Bishop of Ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Irenej-Friderik-Baraga.jpg"
 birthYear: 1797

@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Võ Ðang Khoa"
 honorific: Venerable
-title: "Saint Phêrô Võ Ðang Khoa"
 summary: "Priest. Worked with bishop Saint Peter Dumoulin. Martyr."
 searchAliases:
   - "Peter Choa"

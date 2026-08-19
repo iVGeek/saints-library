@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eudald Rodas Saurina"
 honorific: Blessed
-title: "Blessed Eudald Rodas Saurina"
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Oleguer Àngel"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrés Hibernón Real"
 honorific: Blessed
-title: "Blessed Andrés Hibernón Real"
 summary: "Born to an impoverished Spanish noble family. Educated by his uncle who was a chaplain in the cathedral of Murcia, Spain. Andrés worked and saved for several years to build up funds to provide for his sister's marriage and help support his parents; while taking it to them he was"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Andres_Hibernon.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Primitivo Berrocoso Maillo"
 honorific: Blessed
-title: "Blessed Primitivo Berrocoso Maillo"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Primitivo-Berrocoso-Maillo.jpg"
 birthYear: 1913

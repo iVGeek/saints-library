@@ -1,7 +1,6 @@
 ---
 name: "Saint Bairfhion of Killbarron"
 honorific: Saint
-title: "Saint Bairfhion of Killbarron"
 summary: "Led the church founded by Saint Columba in Drum Cullen, Offaly, Ireland in the 6th century. Later lived in Killbarron near Ballyshannon, Donegal, Ireland. Legend says that the sailed to America even before Saint Brendan the Navigator."
 searchAliases:
   - "Barrfoin"

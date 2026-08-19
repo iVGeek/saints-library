@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilea of the Via Latina"
 honorific: Saint
-title: "Saint Basilea of the Via Latina"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Basilée"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Adelfa Soro Bó"
 honorific: Blessed
-title: "Blessed Adelfa Soro Bó"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

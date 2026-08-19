@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Tirry"
 honorific: Blessed
-title: "Blessed William Tirry"
 summary: "Son of John and Joan Tirry. Studied in Valladolid, Spain and Paris, France. Augustinian priest. He returned to Ireland in 1630, and worked many years as secretary for his uncle, the bishop of Cork. In 1654 he was assigned to Fethard, Tipperary. Arrested on Holy Saturday, 25 March"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Blessed-william-tirry.png"
 searchAliases:

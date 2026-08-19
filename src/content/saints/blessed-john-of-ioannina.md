@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Ioannina"
 honorific: Blessed
-title: "Blessed John of Ioannina"
 summary: "A tailor by trade, John was murdered by Muslims for refusing to renounce Christianity. Martyr."
 searchAliases:
   - "John of Janina"

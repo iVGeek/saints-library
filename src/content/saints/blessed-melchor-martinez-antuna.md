@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melchor Martínez Antuña"
 honorific: Blessed
-title: "Blessed Melchor Martínez Antuña"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Agilus"
 honorific: Saint
-title: "Saint Agilus"
 summary: "Frankish nobleman and courtier. Monk at Luxeuil Abbey. Spiritual student of Saint Columbanus. Missionary to Bavaria, Germany. Abbot of Rebais monastery near Paris, France."
 searchAliases:
   - "Agilo"

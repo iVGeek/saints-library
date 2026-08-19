@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Iñiguez de Heredia Alzola"
 honorific: Blessed
-title: "Blessed Benito Iñiguez de Heredia Alzola"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Gaudencio"

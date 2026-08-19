@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Giuseppina Teresa Marcucci"
 honorific: Venerable
-title: "Venerable Maria Giuseppina Teresa Marcucci"
 summary: "Passionist nun."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg"
 searchAliases:

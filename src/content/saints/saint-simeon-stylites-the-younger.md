@@ -1,7 +1,6 @@
 ---
 name: "Saint Simeon Stylites the Younger"
 honorific: Saint
-title: "Saint Simeon Stylites the Younger"
 summary: "Son of Saint Marthe. Simeon's father died when the boy was five years old, and he became the ward of a monk named John who lived nearby. When Simeon was seven, the two moved onto platforms at the top of pillars in order to ensure their solitude. Word spread about the sanctity and"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Simeon_Stylites_the_Younger.jpg"
 birthYear: 521

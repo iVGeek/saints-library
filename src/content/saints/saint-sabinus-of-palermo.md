@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinus of Palermo"
 honorific: Saint
-title: "Saint Sabinus of Palermo"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 in Palermo, Italy"

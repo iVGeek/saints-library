@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Peque Iglesias"
 honorific: Blessed
-title: "Blessed José Peque Iglesias"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

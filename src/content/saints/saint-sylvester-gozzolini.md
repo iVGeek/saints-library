@@ -1,7 +1,6 @@
 ---
 name: "Saint Sylvester Gozzolini"
 honorific: Saint
-title: "Saint Sylvester Gozzolini"
 summary: "Born to the Italian nobility. Began the study of civil law in Bologna and Padua in Italy in 1197. Renouncing civil law, he studied theology and was ordained in 1217 in the diocese of Osimo, Italy; his father was so upset with the change that he refused to speak to his son for ten"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/24/SilvestroG.jpg"
 birthYear: 1177

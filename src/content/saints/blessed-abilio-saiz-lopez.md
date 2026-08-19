@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abilio Sáiz López"
 honorific: Blessed
-title: "Blessed Abilio Sáiz López"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Perpetua Hong Kum-Ju"
 honorific: Venerable
-title: "Saint Perpetua Hong Kum-Ju"
 summary: "Married lay woman in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicophorus of Corinth"
 honorific: Saint
-title: "Saint Nicophorus of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Nicephorus"

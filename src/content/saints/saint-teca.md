@@ -1,7 +1,6 @@
 ---
 name: "Saint Teca"
 honorific: Saint
-title: "Saint Teca"
 summary: "Nun in or near Rúscach, County Louth, Ireland."
 searchAliases:
   - "Tecca"

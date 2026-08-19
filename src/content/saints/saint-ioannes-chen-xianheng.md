@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Chen Xianheng"
 honorific: Venerable
-title: "Saint Ioannes Chen Xianheng"
 summary: "Layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr."
 searchAliases:
   - "John Chen Xianheng"

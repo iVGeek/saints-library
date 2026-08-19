@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Somers"
 honorific: Blessed
-title: "Blessed Thomas Somers"
 summary: "Schoolmaster. Seminarian in Douai, France. Priest. Returned to England to minister to covert Catholics in London, sometimes using the alias Thomas Wilson. Arrested and condemned to death for the crime of being a priest. Martyred with Saint John Roberts."
 searchAliases:
   - "Thomas Wilson"

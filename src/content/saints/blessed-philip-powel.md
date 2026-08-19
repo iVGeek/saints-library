@@ -1,7 +1,6 @@
 ---
 name: "Blessed Philip Powel"
 honorific: Blessed
-title: "Blessed Philip Powel"
 summary: "Son of Roger and Catherine Powel. Studied law in London, England. Seminarian in Douai, France. Joined the Benedictines at the monastery now known as Downside Abbey in Bath, England. Ordained in Douai in 1618. Returned to England in 1622 to minister to covert and oppressed Catholi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Philip-Powel.jpg"
 searchAliases:

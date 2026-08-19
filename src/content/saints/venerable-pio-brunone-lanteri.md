@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pio Brunone Lanteri"
 honorific: Venerable
-title: "Venerable Pio Brunone Lanteri"
 summary: "Priest of the diocese of Pinerolo, Italy. Founded the Oblates of the Virgin Mary. His spiritual life was centered on the Spiritual Exercises of Saint Ignatius of Loyola."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Pio-Bruno-Lanteri.jpg"
 searchAliases:

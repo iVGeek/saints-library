@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Geneviève-Joseph Ducrez"
 honorific: Blessed
-title: "Blessed Marie-Geneviève-Joseph Ducrez"
 summary: "One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg"
 searchAliases:

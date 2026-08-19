@@ -1,7 +1,6 @@
 ---
 name: "Saint Attilanus of Zamora"
 honorific: Saint
-title: "Saint Attilanus of Zamora"
 summary: "Benedictine monk. Friend and spiritual student of Saint Froilan with whom he founded the monastery of Moreruela, Spain. Prior. Bishop of Zamora, Spain, and area that had been under Moorish occupation, on Whit-Sunday in 990."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Attilanus-of-Zamora.jpg"
 searchAliases:

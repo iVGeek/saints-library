@@ -1,7 +1,6 @@
 ---
 name: "Saint Etto"
 honorific: Saint
-title: "Saint Etto"
 summary: "Etto left Ireland for Rome, Italy with seven brother monks to receive papal blessing as a missionary. He was ordained as a missionary bishop, and then worked to evangelize the people of Thiérache, Artois, and Hainault in modern northern France and Belgium. He founded Saint Peter'"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Oelilton_Araujo_dos_Santos_Etto_2009.jpg"
 birthYear: 590

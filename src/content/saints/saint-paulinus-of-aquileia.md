@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulinus of Aquileia"
 honorific: Saint
-title: "Saint Paulinus of Aquileia"
 summary: "Raised on a farm, and broadly self educated, gaining a wide reputation for scholarship. Teacher. Invited courtier to Charlemagne begining in 774, he was named “royal master of grammar”. He served at court for over a decade and became a favorite of the emperor. Poet. Reluctant Pat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paulinus-of-Aquileia.jpg"
 searchAliases:

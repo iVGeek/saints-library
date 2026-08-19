@@ -1,7 +1,6 @@
 ---
 name: "Saint Jean of Réomay"
 honorific: Saint
-title: "Saint Jean of Réomay"
 summary: "Hermit at Réome, France. His reputation for holiness spread, and he began to attract would-be disciples. To escape them he sneaked away, and became a monk at Lérins Abbey. He was sent by his bishop back to Réome as abbot of its monastery, which became Moutiers-Saint-Jean in his h"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-John-Abbot.jpg"
 searchAliases:

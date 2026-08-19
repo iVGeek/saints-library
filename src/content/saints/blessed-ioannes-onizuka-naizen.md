@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Onizuka Naizen"
 honorific: Blessed
-title: "Blessed Ioannes Onizuka Naizen"
 summary: "Wealthy layman. Married to Blessed Monica Naizen; father of Blessed Louis Naizen. Worked with Blessed Giovanni Battista Zola. Withstood personal persecution for his faith, but when the authorities threatened to force his wife into prostitution, he briefly renounced Christianity t"
 searchAliases:
   - "John Naisen"

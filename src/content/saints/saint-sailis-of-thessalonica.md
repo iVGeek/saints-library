@@ -1,7 +1,6 @@
 ---
 name: "Saint Sailis of Thessalonica"
 honorific: Saint
-title: "Saint Sailis of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

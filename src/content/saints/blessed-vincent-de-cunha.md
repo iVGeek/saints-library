@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vincent de Cunha"
 honorific: Blessed
-title: "Blessed Vincent de Cunha"
 summary: "Jesuit. Missionary to the kingdom of Tonkin (modern Vietnam). Arrested in March 1736. Tortured and martyred for his work."
 deathYear: 1737
 born: "Portuguese"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo Gil Pardo"
 honorific: Blessed
-title: "Blessed Justo Gil Pardo"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

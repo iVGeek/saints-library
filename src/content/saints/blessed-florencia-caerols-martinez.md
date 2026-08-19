@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florencia Caerols Martínez"
 honorific: Blessed
-title: "Blessed Florencia Caerols Martínez"
 summary: "Lay women in the archdiocese of Valencia, Spain. Textile worker. President of the Union of Spanish Catholic Women in Valencia, a member of Catholic Action and the Daughters of Mary. Franciscan tertiary. Had a devotion to Saint Therese of Lisieux, and worked to spread devotion to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Florencia-Caerols-Martínez.jpg"
 searchAliases:

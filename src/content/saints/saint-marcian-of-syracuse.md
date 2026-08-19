@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Syracuse"
 honorific: Saint
-title: "Saint Marcian of Syracuse"
 summary: "Third century missionary bishop to Sicily, using Syracuse as his base of operations. Martyred by local Jews who considered him a heretic. An old Sicilian tradition says that he was sent to the island by Saint Peter the Apostle, but that would be a couple of centuries off."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Statua_Duomo_di_Siracusa.jpg/960px-Statua_Duomo_di_Siracusa.jpg"
 searchAliases:

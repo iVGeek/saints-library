@@ -1,7 +1,6 @@
 ---
 name: "Venerable Matthew Talbot"
 honorific: Venerable
-title: "Venerable Matthew Talbot"
 summary: "Born to a poor family with a history of alcoholism, Matt took to drink when still a child, and was considered a hopeless alcoholic by age thirteen. At age 28, he had conversion experience and, on his knees, he made a pledge of sobriety; he lived another 41 years without ever brea"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Matthew_Talbot.jpg"
 birthYear: 1856

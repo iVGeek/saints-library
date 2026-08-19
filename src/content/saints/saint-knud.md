@@ -1,7 +1,6 @@
 ---
 name: "Saint Knud"
 honorific: Saint
-title: "Saint Knud"
 summary: "Illegimate son of King Sweyn Estrithson of Denmark. Nephew of King Knud of England. King of Denmark as Knud IV c.1080. Married to Adela, sister of Count Roberts of Flanders (in modern Belgium. He spread the gospel through his kingdom, supported missionaries, and built churches. T"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Knud.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Luís y Luís"
 honorific: Blessed
-title: "Blessed Pedro Luís y Luís"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

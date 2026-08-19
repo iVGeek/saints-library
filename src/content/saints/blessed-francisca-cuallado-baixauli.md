@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisca Cualladó Baixauli"
 honorific: Blessed
-title: "Blessed Francisca Cualladó Baixauli"
 summary: "Lay woman in the archdiocese of Valencia, Spain; baptized at the age of 2 days. Her father died when Francisca was very young, and she had to care for her ailing mother. Worked as a seamstress, and devoted her spare time to work with the Union of Catholic Women. Attended Mass dai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisca-Cualladó-Baixauli.jpg"
 birthYear: 1890

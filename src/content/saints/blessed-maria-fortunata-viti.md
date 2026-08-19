@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Fortunata Viti"
 honorific: Blessed
-title: "Blessed Maria Fortunata Viti"
 summary: "Daughter of Luigi Viti, a gambler and heavy drinker, and Anna Bono, who died when Anna was fourteen. Raised her eight siblings after her mother's death, often working as a domestic servant to support them. Joined the Benedictines at the San Maria de’Franconi monastery in Veroli,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Fortunata-Viti.jpg"
 searchAliases:

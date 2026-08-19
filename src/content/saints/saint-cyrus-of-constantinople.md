@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrus of Constantinople"
 honorific: Saint
-title: "Saint Cyrus of Constantinople"
 summary: "Monk in Amasra and Paflagonia. Bishop and patriarch of Constantinople, c.705. He helped prevent the new emperor from exacting some of the revenge against his political opponents. Deposed from his see in 712 when Emperor Filippico took the Byzantine throne, he spent his final year"
 searchAliases:
   - "Ciro"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cury"
 honorific: Saint
-title: "Saint Cury"
 summary: "Fourth-century missionary from Brittany to the Cornwall area of England."
 searchAliases:
   - "Corentin"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Esicius of Rome"
 honorific: Saint
-title: "Saint Esicius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Esicus"

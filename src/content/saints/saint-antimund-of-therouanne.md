@@ -1,7 +1,6 @@
 ---
 name: "Saint Antimund of Thérouanne"
 honorific: Saint
-title: "Saint Antimund of Thérouanne"
 summary: "Hermit in Gallia Belgica (in modern northern France) in the early 6th century. Priest. Feeling a call to missionary work, and he and a Father Adelbert were sent by Saint Remigius of Rheims to evangelize the Morini people in the area of modern Picardy, France; this was a people wh"
 searchAliases:
   - "Animundus"

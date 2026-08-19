@@ -1,7 +1,6 @@
 ---
 name: "Saint Pierius"
 honorific: Saint
-title: "Saint Pierius"
 summary: "Priest. Wrote a number of treatises on philosophy and theology. Director of the Catechetical School of Alexandria, Egypt. Noted preacher and teacher and scholar praised by Eusebius of Caesarea and Saint Jerome."
 searchAliases:
   - "Pierio"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorian of Asana"
 honorific: Saint
-title: "Saint Victorian of Asana"
 summary: "Founded monasteries and hospices in Italy. Travelled and settled briefly in France. Founded and directed a community of monks at Asana (modern Saint Victorian) in the diocese of Barbastro, in the Spanish Pyrenees. Saint Venantius Fortunatus wrote well of him."
 searchAliases:
   - "Victoria of Asan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victrix of Africa"
 honorific: Saint
-title: "Saint Victrix of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"

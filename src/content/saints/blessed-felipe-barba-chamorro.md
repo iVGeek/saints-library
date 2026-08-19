@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Barba Chamorro"
 honorific: Blessed
-title: "Blessed Felipe Barba Chamorro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936

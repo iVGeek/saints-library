@@ -1,7 +1,6 @@
 ---
 name: "Saint Morand of Cluny"
 honorific: Saint
-title: "Saint Morand of Cluny"
 summary: "Monk of Cluny. Founded the monastery of Saint Christopher at Altkirch, France. Lived the whole of each Lent on a single bunch of grapes, leading to his patronage of people in the grape and wine trade."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Morand-of-Cluny.jpg"
 searchAliases:

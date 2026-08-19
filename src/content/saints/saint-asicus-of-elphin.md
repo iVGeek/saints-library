@@ -1,7 +1,6 @@
 ---
 name: "Saint Asicus of Elphin"
 honorific: Saint
-title: "Saint Asicus of Elphin"
 summary: "Married coppersmith and silversmith. Convert. Disciple of Saint Patrick. First bishop of the diocese of Elphin, Ireland. Late in life, citing his unworthiness to lead his parishioners, he retired to live as a prayerful hermit on an island in Donegal Bay; monks from his diocese fo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Tassach-of-Raholp-1.jpg"
 searchAliases:

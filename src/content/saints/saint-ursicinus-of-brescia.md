@@ -1,7 +1,6 @@
 ---
 name: "Saint Ursicinus of Brescia"
 honorific: Saint
-title: "Saint Ursicinus of Brescia"
 summary: "Priest. Early bishop of Brescia, Lombardy, Italy. Participated in the Council of Sardica in 347 supporting orthodox Christianity against Arianism."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ursicinus-of-Brescia.jpg"
 searchAliases:

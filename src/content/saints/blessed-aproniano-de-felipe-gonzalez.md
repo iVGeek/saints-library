@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aproniano de Felipe González"
 honorific: Blessed
-title: "Blessed Aproniano de Felipe González"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Miguel of Grajal"

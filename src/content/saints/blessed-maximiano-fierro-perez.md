@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maximiano Fierro Pérez"
 honorific: Blessed
-title: "Blessed Maximiano Fierro Pérez"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ángel Amado"

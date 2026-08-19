@@ -1,7 +1,6 @@
 ---
 name: "Blessed León Inchausti Minteguía"
 honorific: Blessed
-title: "Blessed León Inchausti Minteguía"
 summary: "Augustinian Recollect priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "León of Our Lady of the Rosary"

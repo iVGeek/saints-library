@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eustáquia Monedero"
 honorific: Blessed
-title: "Blessed Eustáquia Monedero"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María of the Assumption"

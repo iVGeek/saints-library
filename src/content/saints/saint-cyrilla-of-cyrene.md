@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrilla of Cyrene"
 honorific: Saint
-title: "Saint Cyrilla of Cyrene"
 summary: "An elderly widow who was arrested in the persecutions of Diocletian for refusing to sacrifice to idols. To force her to make the sacrifice, they put live coals and incense in her bare hands so that when she dropped the flaming mass, it would fall on the altar, and she would have"
 searchAliases:
   - "Cyrilla of Libya"

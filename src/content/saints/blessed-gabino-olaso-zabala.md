@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabino Olaso Zabala"
 honorific: Blessed
-title: "Blessed Gabino Olaso Zabala"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

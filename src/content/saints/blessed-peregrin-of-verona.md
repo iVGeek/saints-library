@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pérégrin of Verona"
 honorific: Blessed
-title: "Blessed Pérégrin of Verona"
 summary: "13th century Augustinian hermit in the area of Verona, Italy. Priest."
 searchAliases:
   - "Peregrine"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthimus of Rome"
 honorific: Saint
-title: "Saint Anthimus of Rome"
 summary: "Parish priest in Rome, Italy, noted for his conversions, including that of a Roman prefect. The official's change of faith brought Anthimus to the attention of Roman officials who condemned him to drown in the Tiber for his religion. Thrown in, he was rescued by an angel. Continu"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sant%27Antimo_prete_e_martire.jpg/960px-Sant%27Antimo_prete_e_martire.jpg"
 deathYear: 303

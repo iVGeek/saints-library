@@ -1,7 +1,6 @@
 ---
 name: "Saint Ivo of Huntingdonshire"
 honorific: Saint
-title: "Saint Ivo of Huntingdonshire"
 summary: "Bishop. Hermit at Huntingdonshire, England. The city of Saint Ives (formerly Slepe), Huntingdonshire (modern Cambridgeshire), England is named for him. His gravesite was lost for years, but in 1001 four bodies were uncovered in an unmarked grave; one bore a bishop's insignia. A l"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ivo-of-Huntingdonshire.jpg"
 searchAliases:

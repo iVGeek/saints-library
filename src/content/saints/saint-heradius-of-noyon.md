@@ -1,7 +1,6 @@
 ---
 name: "Saint Heradius of Noyon"
 honorific: Saint
-title: "Saint Heradius of Noyon"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Heraclio"

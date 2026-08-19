@@ -1,7 +1,6 @@
 ---
 name: "Saint Patientia of Loret"
 honorific: Saint
-title: "Saint Patientia of Loret"
 summary: "Married to Saint Orentius of Loret. Lived near Huesca, Spain. An old Spanish tradition makes her the mother of Saint Lawrence of Rome. Martyr."
 searchAliases:
   - "Patientia of Huesca"

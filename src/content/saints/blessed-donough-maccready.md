@@ -1,7 +1,6 @@
 ---
 name: "Blessed Donough MacCready"
 honorific: Blessed
-title: "Blessed Donough MacCready"
 summary: "Priest in the diocese of Down and Connor, Ireland. One of the Irish Martyrs."
 deathYear: 1608
 born: "Irish"

@@ -2,7 +2,6 @@
 name: "Saint Felix of Fondi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Selected_letters_of_Mendelssohn_1894.djvu/page1-960px-Selected_letters_of_Mendelssohn_1894.djvu.jpg"
 honorific: Saint
-title: "Saint Felix of Fondi"
 summary: "Benedictine monk at Fondi, Italy. Held in high regard by Saint Gregory the Great."
 died: "6th century of natural causes"
 region: "Italy"

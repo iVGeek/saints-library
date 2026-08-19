@@ -1,7 +1,6 @@
 ---
 name: "Saint Coliondola of Africa"
 honorific: Saint
-title: "Saint Coliondola of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 region: "Africa"
 feastDay:

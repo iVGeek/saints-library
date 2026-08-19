@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Olivares Roda"
 honorific: Blessed
-title: "Blessed Gabriel Olivares Roda"
 summary: "Franciscan Friar Minor. Priest. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

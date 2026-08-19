@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marguerite Rutan"
 honorific: Blessed
-title: "Blessed Marguerite Rutan"
 summary: "Religious sister in the Daughters of Charity of Saint Vincent de Paul who served at the Dax hospital, caring for the sick and poor. Martyred in the French Revolution for the crime of “fanatacism”, that is, refusing to take the oath of loyalty to the Revolutionary government."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Marguerite_Rutan_c1903.jpg"
 birthYear: 1736

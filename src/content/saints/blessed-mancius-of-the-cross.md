@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mancius of the Cross"
 honorific: Blessed
-title: "Blessed Mancius of the Cross"
 summary: "Worked with Blessed Luis Bertran, often acting as a guide for the missionaries. During a period of persecution, he hid from authorities in a leper colony, but was found and imprisoned in Kuwara, Japan. While in prison he was admitted to the Dominicans as cooperator brother during"
 deathYear: 1627
 born: "Japan"

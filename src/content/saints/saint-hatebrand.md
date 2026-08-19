@@ -1,7 +1,6 @@
 ---
 name: "Saint Hatebrand"
 honorific: Saint
-title: "Saint Hatebrand"
 summary: "Benedictine monk at Saint Paul's abbey in Utrecht, Netherlands. Abbot of Olden-Klooster, Frisia (in modern Netherlands) in 1183. Revived the Benedictine Rule in Frisia."
 deathYear: 1198
 born: "Frisia (in modern Netherlands)"

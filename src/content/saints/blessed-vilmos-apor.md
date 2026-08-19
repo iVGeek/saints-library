@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vilmos Apor"
 honorific: Blessed
-title: "Blessed Vilmos Apor"
 summary: "Born to the Hungarian nobility. Ordained on 24 August 1915. Chosen bishop of Gy&otilde;r, Hungary on 21 January 1941 by Pope Pius XII. Conventual chaplain ad honorem of the Sovereign Military Order of Malta. Known for his hard work, his efforts for social justice, his support of"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Apor_Vilmos.jpg"
 searchAliases:

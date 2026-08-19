@@ -1,7 +1,6 @@
 ---
 name: "Blessed Madeleine Perrotin veuve Rousseau"
 honorific: Blessed
-title: "Blessed Madeleine Perrotin veuve Rousseau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1744
 deathYear: 1794

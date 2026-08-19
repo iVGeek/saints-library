@@ -1,7 +1,6 @@
 ---
 name: "Blessed Heliodoro Ramos García"
 honorific: Blessed
-title: "Blessed Heliodoro Ramos García"
 summary: "Baptized at the age of two days, Heliodoro was a religious boy and grew up with a call to religious life. He joined the Salesians of Don Bosco in Mohernando, Guadalajara, Spain, and made his solemn profession as a coadjutor lay brother on 23 July 1936. The same day, his house was"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Heliodoro-Ramos-Garcia.jpg"
 birthYear: 1915

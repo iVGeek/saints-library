@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Rome"
 honorific: Saint
-title: "Martyrs of Rome"
 summary: "Thirty Christian soldiers executed together in the persecutions of Diocletian."
 deathYear: 304
 died: "304 in Rome, Italy"

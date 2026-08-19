@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquila the Martyr"
 honorific: Saint
-title: "Saint Aquila the Martyr"
 summary: "Married to Saint Severian. Martyr."
 died: "in Julia Caesarea, Mauritania, North Africa"
 deathPlace: "Mauritania, North Africa"

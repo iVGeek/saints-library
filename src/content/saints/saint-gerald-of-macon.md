@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerald of Mâcon"
 honorific: Saint
-title: "Saint Gerald of Mâcon"
 summary: "Benedictine monk at Brou. Bishop of Mâcon, France for 40 years, but in his old age he resigned and retired to his old monastery to live as a hermit."
 searchAliases:
   - "Gerald of Mécon"

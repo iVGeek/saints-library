@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus the Wonder Worker"
 honorific: Saint
-title: "Saint Zosimus the Wonder Worker"
 summary: "Hermit at Palestine. Miracle worker."
 searchAliases:
   - "Zosimus of Palestine"

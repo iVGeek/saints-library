@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustratius of Olympus"
 honorific: Saint
-title: "Saint Eustratius of Olympus"
 summary: "Abbot of the Abgar Abby on Mount Olympus in Bithynia (modern Turkey)."
 searchAliases:
   - "Eustrate"

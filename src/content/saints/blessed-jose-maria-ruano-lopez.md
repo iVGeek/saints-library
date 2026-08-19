@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Ruano López"
 honorific: Blessed
-title: "Blessed José María Ruano López"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

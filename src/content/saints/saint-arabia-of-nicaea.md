@@ -1,7 +1,6 @@
 ---
 name: "Saint Arabia of Nicaea"
 honorific: Saint
-title: "Saint Arabia of Nicaea"
 summary: "Martyr."
 died: "at Nicaea, Bithynia (modern Iznik, Turkey), date unknown"
 deathPlace: "Bithynia (modern Iznik, Turkey), date unknown"

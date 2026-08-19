@@ -1,7 +1,6 @@
 ---
 name: "Saint Quiricus of Murisengo"
 honorific: Saint
-title: "Saint Quiricus of Murisengo"
 summary: "Martyr whose death became linked to the Theban Legion."
 searchAliases:
   - "Cerdre"

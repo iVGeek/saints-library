@@ -1,7 +1,6 @@
 ---
 name: "Saint Achahildis of Wendelstein"
 honorific: Saint
-title: "Saint Achahildis of Wendelstein"
 summary: "Born to the nobility, the sister of Saint Cunegundes. Married to Thietmar and mother of quintuplets; she and her husband, both of whom were drawn to religious life, then took vows of celibacy. Noted for her charity to the poor, and as a miracle worker. Founded a parish church in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Achahildis-of-Wendelstein.jpg"
 searchAliases:

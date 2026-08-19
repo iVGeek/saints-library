@@ -1,7 +1,6 @@
 ---
 name: "Venerable Robert Spiske"
 honorific: Venerable
-title: "Venerable Robert Spiske"
 summary: "Priest in the diocese of Wroclaw, Poland. Founder of the Congregation of the Sisters of Saint Hedwig."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-robert-spiske/venerable-robert-spiske-01.jpg"
 birthYear: 1821

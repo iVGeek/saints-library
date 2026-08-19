@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Thessalonica"
 honorific: Saint
-title: "Saint Victor of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

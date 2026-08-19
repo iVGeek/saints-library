@@ -1,7 +1,6 @@
 ---
 name: "Saint George of San Giorio"
 honorific: Saint
-title: "Saint George of San Giorio"
 summary: "Martyr. Later writers associate him with the Theban Legion, but they were in an entirely different location."
 searchAliases:
   - "Georg of San Giorio"

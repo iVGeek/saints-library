@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Aguirre Bilbao"
 honorific: Blessed
-title: "Blessed Luis Aguirre Bilbao"
 summary: "Orphaned as a small boy. Worked as a mechanic while studying to enter the Vincentians, making his profession on 30 June 1933. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Aguirre-Bilbao.jpg"
 birthYear: 1914

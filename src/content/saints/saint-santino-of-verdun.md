@@ -1,7 +1,6 @@
 ---
 name: "Saint Santino of Verdun"
 honorific: Saint
-title: "Saint Santino of Verdun"
 summary: "Missionary bishop in Verdun, France."
 region: "France"
 feastDay:

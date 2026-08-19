@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Welbourne"
 honorific: Blessed
-title: "Blessed Thomas Welbourne"
 summary: "Lifelong layman in the apostolic vicariate of England. School teacher. Martyred in the persecutions of King James I for the crime of being vocally Catholic."
 deathYear: 1605
 born: "Hutton Bushel, North Yorkshire, England"

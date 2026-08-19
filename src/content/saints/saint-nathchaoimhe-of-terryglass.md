@@ -1,7 +1,6 @@
 ---
 name: "Saint Nathchaoimhe of Terryglass"
 honorific: Saint
-title: "Saint Nathchaoimhe of Terryglass"
 summary: "Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland."
 region: "Ireland"
 feastDay:

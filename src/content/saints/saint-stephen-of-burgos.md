@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Burgos"
 honorific: Saint
-title: "Saint Stephen of Burgos"
 summary: "Ninth-century Benedictine monk. Abbot in Burgos, Spain. Martyred with 200 of his brother monks by invading Muslims."
 deathYear: 872
 died: "put to the sword in 872 in Burgos, Spain"

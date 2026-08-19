@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaudiosus of Brescia"
 honorific: Saint
-title: "Saint Gaudiosus of Brescia"
 summary: "Bishop of Brescia, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaudiosus-of-Brescia.jpg"
 searchAliases:

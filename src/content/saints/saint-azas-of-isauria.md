@@ -1,7 +1,6 @@
 ---
 name: "Saint Azas of Isauria"
 honorific: Saint
-title: "Saint Azas of Isauria"
 summary: "One of about 150 Christian soldiers martyred together in the persecutions of Diocletian."
 deathYear: 304
 died: "304 in Isauria, Asia Minor"

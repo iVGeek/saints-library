@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Taaffe"
 honorific: Blessed
-title: "Blessed Peter Taaffe"
 summary: "Augustinian priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"

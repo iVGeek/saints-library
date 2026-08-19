@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Mitsuishi Hikoemon"
 honorific: Blessed
-title: "Blessed Michaël Mitsuishi Hikoemon"
 summary: "Married layman of the diocese of Fukuoka, Japan. Father of Blessed Thomas Mitsuishi. Martyr."
 birthYear: 1559
 deathYear: 1609

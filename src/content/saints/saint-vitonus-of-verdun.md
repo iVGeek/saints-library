@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitonus of Verdun"
 honorific: Saint
-title: "Saint Vitonus of Verdun"
 summary: "Became a monk as a young man. Bishop of Verdun, France c.500. Converted all the residents in his diocese, wiping out paganism in the area. Founded a college for priests. Known as a miracle worker. A great Benedictine abbey in Lorraine, France was later named for him."
 searchAliases:
   - "Vanne"

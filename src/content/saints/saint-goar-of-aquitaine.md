@@ -1,7 +1,6 @@
 ---
 name: "Saint Goar of Aquitaine"
 honorific: Saint
-title: "Saint Goar of Aquitaine"
 summary: "Priest. In 519, to serve God anonymously, he migrated to the area around Trier, Germany, and became a hermit in a cell at Oberwesel on the Rhein. Well known for sanctity, prophecies, and miracles. Refused the archbishopric of Trier. Charlemagne built a stately church over Goar's"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Saint_Goar.png"
 deathYear: 575

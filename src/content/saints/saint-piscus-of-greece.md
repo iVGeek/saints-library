@@ -1,7 +1,6 @@
 ---
 name: "Saint Piscus of Greece"
 honorific: Saint
-title: "Saint Piscus of Greece"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cipiscus"

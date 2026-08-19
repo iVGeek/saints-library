@@ -1,7 +1,6 @@
 ---
 name: "Saint Vaise"
 honorific: Saint
-title: "Saint Vaise"
 summary: "Wealthy citizen of Saintes, France who was imprisoned and murdered by his relatives for giving his property to the poor. Martyr."
 searchAliases:
   - "Vasius"

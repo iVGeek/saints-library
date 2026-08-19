@@ -1,7 +1,6 @@
 ---
 name: "Saint Tiberio of Pinerolo"
 honorific: Saint
-title: "Saint Tiberio of Pinerolo"
 summary: "Soldier of the Theban Legion. Martyr."
 died: "3rd century near Pinerolo, Italy"
 deathPlace: "Italy"

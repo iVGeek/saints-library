@@ -1,7 +1,6 @@
 ---
 name: "Saint Patiens of Metz"
 honorific: Saint
-title: "Saint Patiens of Metz"
 summary: "Fourth bishop of Metz, France in the second century."
 searchAliases:
   - "Paziente"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luigj Prendushi"
 honorific: Blessed
-title: "Blessed Luigj Prendushi"
 summary: "Studied in colleges and seminaries of Piedmont, Italy and Sarvano Skarnafacio. Ordained as a priest of the diocese of Sapë, Albania on 12 March 1921. Parish priest in Ipeshkvninë, Albania. Accused by the Communist government of being a spy for the Vatican, he was arrested on 8 De"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Luigj-Prendushi.jpg"
 birthYear: 1896

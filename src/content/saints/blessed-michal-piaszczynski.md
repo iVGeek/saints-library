@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michał Piaszczyński"
 honorific: Blessed
-title: "Blessed Michał Piaszczyński"
 summary: "Priest in the diocese of Lomza, Poland. Teacher and spiritual director at the Lomza seminary where he invited rabbis in order to promote inter-religious dialogue. As he was a Pole, Catholic, a priest, and a man who was friendly and sympathetic to Jews, he was imprisoned and murde"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bl._Michael_Piaszczynski.jpg/960px-Bl._Michael_Piaszczynski.jpg"
 searchAliases:

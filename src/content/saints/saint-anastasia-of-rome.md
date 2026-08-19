@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasia of Rome"
 honorific: Saint
-title: "Saint Anastasia of Rome"
 summary: "Born to the Imperial Roman nobility. Spiritual student of Saint Peter the Apostle and Saint Paul the Apostle whose bodies she helped to bury. Martyred in the persecutions of Nero."
 image: "http://catholicsaints.info/wp-content/uploads/Anastasia-and-Basilissa.jpg"
 died: "beheaded c.68 at Rome, Italy"

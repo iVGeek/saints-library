@@ -1,7 +1,6 @@
 ---
 name: "Saint Roderick of Cordoba"
 honorific: Saint
-title: "Saint Roderick of Cordoba"
 summary: "A Christian priest in Moorish Spain, Roderick had a brother who became Moslem and another with no religion. One day he tried to break up a fight between his brothers; they turned on him and beat him into a coma. The Moslem brother, seeking further revenge, announced to authoritie"
 image: "http://catholicsaints.info/wp-content/uploads/Roderick-of-Cordoba.jpg"
 searchAliases:

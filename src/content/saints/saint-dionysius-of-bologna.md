@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Bologna"
 honorific: Saint
-title: "Saint Dionysius of Bologna"
 summary: "Martyr, date and location unknown."
 died: "relics enshrined in churches in Bologna and Rome in Italy"
 region: "Italy"

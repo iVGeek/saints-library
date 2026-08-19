@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eberhard of Marchtal"
 honorific: Blessed
-title: "Blessed Eberhard of Marchtal"
 summary: "Premonstratensian monk at Mönchsrot monastery. He was chosen provost of Marchtal Abbey in Swabia, Germany, when it was re-founded and given to the Order in 1171."
 searchAliases:
   - "Eberhard of Obermarchtal"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arthur O'Neilly"
 honorific: Blessed
-title: "Blessed Arthur O'Neilly"
 summary: "Trinitarian priest assigned to care for and try to free Christians imprisoned, enslaved and held for ransom by Muslims in Egypt. Martyr."
 deathYear: 1282
 born: "13th century Ireland"

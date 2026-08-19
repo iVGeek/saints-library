@@ -1,7 +1,6 @@
 ---
 name: "Saint Primus"
 honorific: Saint
-title: "Saint Primus"
 summary: "Brother of Saint Felicianus. With his brother he was tortured and martyred. The two were the first martyrs whose remains were transferred from a basilica outside the walls of Rome, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/Felicianus-and-Primus.jpg"
 deathYear: 286

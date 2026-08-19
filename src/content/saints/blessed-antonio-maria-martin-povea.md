@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio María Martín Povea"
 honorific: Blessed
-title: "Blessed Antonio María Martín Povea"
 summary: "Member of the Carmelites of the Ancient Observance. Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

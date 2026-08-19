@@ -1,7 +1,6 @@
 ---
 name: "Saint Cunibert of Maroilles"
 honorific: Saint
-title: "Saint Cunibert of Maroilles"
 summary: "Monk. Spiritual student of Saint Humbert of Pelagius at Maroilles Abbey near Cambrai, France. Abbot of Maroilles."
 region: "France"
 feastDay:

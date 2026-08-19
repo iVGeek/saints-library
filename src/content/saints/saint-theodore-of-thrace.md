@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Thrace"
 honorific: Saint
-title: "Saint Theodore of Thrace"
 summary: "Martyred in Thrace in the persecutions of Hadrian. No other information has survived."
 region: "Italy"
 feastDay:

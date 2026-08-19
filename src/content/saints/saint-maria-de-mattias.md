@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria de Mattias"
 honorific: Venerable
-title: "Saint Maria de Mattias"
 summary: "Born to a pious and educated upper class family. Though women of her day were forbidden a formal education, she learned to read and write, and much about her faith at home from her father. Being an upper class girl of the time, she grew up isolated and self-involved, but in her m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-de-Mattias-1.jpg"
 searchAliases:

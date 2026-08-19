@@ -1,7 +1,6 @@
 ---
 name: "Saint Vihn Son Ðo Yen"
 honorific: Venerable
-title: "Saint Vihn Son Ðo Yen"
 summary: "Born to a Christian family. Ordained in 1798 by Blessed Ignatius Delgado in the vicariate apostolic on Eastern Tonkin (in modern Vietnam). He was imprisoned in a government persecution of Christians in 1799, but friends ransomed him out. Joined the Dominicans on 22 July 1808 in M"
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

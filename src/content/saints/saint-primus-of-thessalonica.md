@@ -1,7 +1,6 @@
 ---
 name: "Saint Primus of Thessalonica"
 honorific: Saint
-title: "Saint Primus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

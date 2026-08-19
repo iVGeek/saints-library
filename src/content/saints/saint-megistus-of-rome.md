@@ -1,7 +1,6 @@
 ---
 name: "Saint Megistus of Rome"
 honorific: Saint
-title: "Saint Megistus of Rome"
 summary: "One of the three soldiers who escorted Saint Paul the Apostle to his death. They were all converted by Paul, and were martyred with him."
 died: "beheaded c.65 at Rome, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Herefrith of Lindsey"
 honorific: Saint
-title: "Saint Herefrith of Lindsey"
 summary: "Bishop of Lindsey, England. Martyred by Danes."
 deathYear: 869
 died: "c.869"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Brocard"
 honorific: Saint
-title: "Saint Brocard"
 summary: "Monk on Mount Carmel who was chosen prior of his house. Around the year 1210, he asked Saint Albert, patriarch of Jerusalem, to write a Rule for the monks. This Rule became the foundation for the Carmelite Order. Pope Honorius III objected to its use because it did not have his p"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Saint_Brocard_et_Saint_Albert.jpg"
 searchAliases:

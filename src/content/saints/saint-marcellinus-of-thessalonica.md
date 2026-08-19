@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Thessalonica"
 honorific: Saint
-title: "Saint Marcellinus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Roca Vilardell"
 honorific: Blessed
-title: "Blessed Joan Roca Vilardell"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

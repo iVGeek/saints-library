@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Casas Juliá"
 honorific: Blessed
-title: "Blessed Josep Casas Juliá"
 summary: "Discalced Carmelites friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Joaquim of Saint Joseph"

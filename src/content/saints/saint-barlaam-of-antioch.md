@@ -1,7 +1,6 @@
 ---
 name: "Saint Barlaam of Antioch"
 honorific: Saint
-title: "Saint Barlaam of Antioch"
 summary: "Uneducated Christian peasant. Jailed for his faith during the persecution of Diocletian. Brought to trial in 304, he was scourged, racked, tortured, and ordered to deny his faith; he refused. In an effort to make it look as though Barlaam were making an incense offering to an ido"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Barlaam-of-Antioch.jpg"
 deathYear: 304

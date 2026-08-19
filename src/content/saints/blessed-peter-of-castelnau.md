@@ -2,7 +2,6 @@
 name: "Blessed Peter of Castelnau"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tombeau_de_Pierre_de_Castelnau.jpg/960px-Tombeau_de_Pierre_de_Castelnau.jpg"
 honorific: Blessed
-title: "Blessed Peter of Castelnau"
 summary: "Known in lay and religious life for his intelligence, piety, and devotion. Archdeacon of Maguelone in 1199. Cistercian monk at Fontfroide c.1202. Papal legate and inquisitor in 1203 under Pope Innocent III. Assigned to work with the heretic Albigensians, to bring them back to the"
 deathYear: 1208
 born: "near Montpellier, France"

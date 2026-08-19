@@ -1,7 +1,6 @@
 ---
 name: "Saint Mazota of Abernethy"
 honorific: Saint
-title: "Saint Mazota of Abernethy"
 searchAliases:
   - "Mayota"
 region: "Ireland"

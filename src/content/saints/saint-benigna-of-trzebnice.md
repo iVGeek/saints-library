@@ -1,7 +1,6 @@
 ---
 name: "Saint Benigna of Trzebnice"
 honorific: Saint
-title: "Saint Benigna of Trzebnice"
 summary: "Cistercian nun in Trzebnice, Poland. Martyr."
 searchAliases:
   - "Benign"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Sato Matagoro"
 honorific: Blessed
-title: "Blessed Paulus Sato Matagoro"
 summary: "Married layman in the diocese of Niigata, Japan. Brother of Blessed Alexius Sato Seisuke. Martyr."
 deathYear: 1629
 born: "Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"

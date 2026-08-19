@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunus of Africa"
 honorific: Saint
-title: "Saint Fortunus of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 region: "Africa"
 feastDay:

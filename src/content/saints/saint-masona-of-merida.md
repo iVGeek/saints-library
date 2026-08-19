@@ -1,7 +1,6 @@
 ---
 name: "Saint Masona of Mérida"
 honorific: Saint
-title: "Saint Masona of Mérida"
 summary: "Born to the Gothic nobility, Masona was educated at the monastery affiliated with the Basilica of Saint Eulalia in Mérida, Spain. He was known as an excellent and pious student, and when he was old enough, entered the monastery. Chosen bishop of Mérida c.572. He built a hospital,"
 searchAliases:
   - "Mausona"

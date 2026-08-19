@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark the Evangelist"
 honorific: Saint
-title: "Saint Mark the Evangelist"
 summary: "Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son Mark” by the first Pope. Travelled with his"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Codexaureus_21.jpg"
 searchAliases:

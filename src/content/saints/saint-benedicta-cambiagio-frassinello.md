@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedicta Cambiagio Frassinello"
 honorific: Venerable
-title: "Saint Benedicta Cambiagio Frassinello"
 summary: "Daughter of Giuseppe and Francesca Cambiagio, she grew up in Pavia, Italy. At the age of 20 she had a profound mystical experience that left her devoted to prayer and desiring a religious life. However, to go along with her family's wishes, she married Giovanni Battista Frassinel"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedicta-Cambiagio-Frassinello.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marguerite-Rose de Gordon"
 honorific: Blessed
-title: "Blessed Marguerite-Rose de Gordon"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

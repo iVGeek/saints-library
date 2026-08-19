@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claude-Antoine-Raoul Laporte"
 honorific: Blessed
-title: "Blessed Claude-Antoine-Raoul Laporte"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1734
 deathYear: 1792

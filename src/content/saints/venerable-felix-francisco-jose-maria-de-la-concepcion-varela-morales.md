@@ -1,7 +1,6 @@
 ---
 name: "Venerable Félix Francisco José María de la Concepción Varela Morales"
 honorific: Venerable
-title: "Venerable Félix Francisco José María de la Concepción Varela Morales"
 summary: "An asthmatic, Felix suffered from ill health as a boy, his mother died young, and he grew up in Saint Augustine, Florida with his aunt. Seminarian in Havana, Cuba. Ordained on 21 December 1811. Priest in the diocese of San Cristóbal de la Habana, Cuba. Elected to the Spanish parl"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Félix-Francisco-José-María-de-la-Concepción-Varela-Morales.gif"
 birthYear: 1788

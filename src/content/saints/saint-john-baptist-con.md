@@ -1,7 +1,6 @@
 ---
 name: "Saint John Baptist Con"
 honorific: Venerable
-title: "Saint John Baptist Con"
 summary: "Married layman. Martyr."
 searchAliases:
   - "Gioan Baotixta Còn"

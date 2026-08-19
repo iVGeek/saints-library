@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Callistus II"
 honorific: Saint
-title: "Pope Saint Callistus II"
 summary: "Born to the nobility. Uncle of the Queen of France, cousin of the King of England, related to the German Emperor. Benedictine monk. Archbishop of Vienne, France for over 30 years. Created cardinal by Pope Paschal II. Chosen 162nd Pope in 1119. Ended the investiture conflict. Pres"
 image: "https://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Callistus-II-2.jpg"
 searchAliases:

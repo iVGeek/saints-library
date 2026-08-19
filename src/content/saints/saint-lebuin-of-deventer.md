@@ -1,7 +1,6 @@
 ---
 name: "Saint Lebuin of Deventer"
 honorific: Saint
-title: "Saint Lebuin of Deventer"
 summary: "Educated in a monastery. Benedictine monk at Ripon, England. Priest. Missionary to the Netherlands, following in the path of Saint Boniface, beginning in Utrecht. He worked with Saint Marchelm and Saint Gregory of Utrecht. Preached in the districts along the Yssel River. Establis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lebuin-of-Deventer.jpg"
 searchAliases:

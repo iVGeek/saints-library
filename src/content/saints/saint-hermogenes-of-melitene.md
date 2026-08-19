@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermogenes of Melitene"
 honorific: Saint
-title: "Saint Hermogenes of Melitene"
 summary: "Martyr."
 searchAliases:
   - "Ermogene"

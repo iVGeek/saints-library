@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix España Ortiz"
 honorific: Blessed
-title: "Blessed Félix España Ortiz"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Benito Clemente"

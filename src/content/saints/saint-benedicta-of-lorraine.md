@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedicta of Lorraine"
 honorific: Saint
-title: "Saint Benedicta of Lorraine"
 summary: "Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Cecilia of Lorraine. Nun and then abbess of Susteren Abbey in the German Rhineland."
 region: "France"
 feastDay:

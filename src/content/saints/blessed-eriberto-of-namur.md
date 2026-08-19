@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eriberto of Namur"
 honorific: Blessed
-title: "Blessed Eriberto of Namur"
 summary: "The details of this person's life have been lost."
 died: "relics enshrined in a Marian chapel in the Saint Alban cathedral in Bois-Vlilliers, Namur, Belgium"
 deathPlace: "Namur, Belgium"

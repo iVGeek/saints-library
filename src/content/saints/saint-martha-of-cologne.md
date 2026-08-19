@@ -1,7 +1,6 @@
 ---
 name: "Saint Martha of Cologne"
 honorific: Saint
-title: "Saint Martha of Cologne"
 summary: "Martyr. May have been part of the group that travelled with Saint Ursula."
 died: "Cologne, Germany"
 deathPlace: "Germany"

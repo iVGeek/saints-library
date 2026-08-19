@@ -1,7 +1,6 @@
 ---
 name: "Saint Raverranus of Séez"
 honorific: Saint
-title: "Saint Raverranus of Séez"
 summary: "Bishop of Séez, France."
 deathYear: 682
 died: "682"

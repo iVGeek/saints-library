@@ -1,7 +1,6 @@
 ---
 name: "Blessed James of Voragine"
 honorific: Blessed
-title: "Blessed James of Voragine"
 summary: "Dominican in 1244 at age 14. Taught theology and Bible study. Prior of his house in Genoa, Italy. Provincial of Lombardy from 1267 to 1286 where he was a noted preacher. Chosen archbishop of Genoa in 1286, but refused the position. Genoa was placed under interdict for supporting"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-James-of-Voragine.jpg"
 searchAliases:

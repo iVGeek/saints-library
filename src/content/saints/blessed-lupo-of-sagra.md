@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lupo of Sagra"
 honorific: Blessed
-title: "Blessed Lupo of Sagra"
 summary: "Mercedarian friar. Assigned to Granada, Spain, in 1428 he ransomed more than 300 Christians who had been enslaved by Muslim Moors. While there, he preached Christianity. Known for receiving holy visions."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lupo-of-Sagra.jpg"
 region: "Spain"

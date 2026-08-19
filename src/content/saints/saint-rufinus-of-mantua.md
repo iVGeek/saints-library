@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus of Mantua"
 honorific: Saint
-title: "Saint Rufinus of Mantua"
 summary: "Long venerated in Mantua, Italy, but all details have been lost."
 region: "Italy"
 feastDay:

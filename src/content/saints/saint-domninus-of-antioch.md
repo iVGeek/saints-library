@@ -1,7 +1,6 @@
 ---
 name: "Saint Domninus of Antioch"
 honorific: Saint
-title: "Saint Domninus of Antioch"
 summary: "Martyr. No other information has survived."
 deathYear: 400
 died: "c.400 in Antioch, Syria"

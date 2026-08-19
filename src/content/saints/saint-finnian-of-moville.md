@@ -1,7 +1,6 @@
 ---
 name: "Saint Finnian of Moville"
 honorific: Saint
-title: "Saint Finnian of Moville"
 summary: "Descendant of Fiatach the Fair. Studied under Saint Colman of Dromore, Saint Mochae of Noendrum, and the school of Saint Ninian. Pilgrim to Rome. Bishop of Moville, Ireland. Founded the monastery of Druim Fionn, and the school of Moville c.540. Composed a rule and penitential cod"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Finnian-of-Moville.jpg"
 searchAliases:

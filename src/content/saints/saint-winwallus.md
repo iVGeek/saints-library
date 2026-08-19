@@ -1,7 +1,6 @@
 ---
 name: "Saint Winwallus"
 honorific: Saint
-title: "Saint Winwallus"
 summary: "His father was Fragan, a Welsh noble who had recently emigrated to Brittany to escape a Saxon invasion. Ward and spiritual student of Saint Budoc on Lauren Island. Monk. Following a pilgrimage at age 20 to key Saint Patrick related sites in Ireland, Winwallus founded Landevennec"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Winwallus.jpg"
 searchAliases:

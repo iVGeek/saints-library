@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapitus the Martyr"
 honorific: Saint
-title: "Saint Agapitus the Martyr"
 summary: " Because he was a young man, and because the heroic way he met his martyrdom brought about many conversions, his was a f Born to an imperial patrician family. At fifteen years of age, the boy proudly, publicly proclaimed his Christianity during the persecution of Aurelian. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Agapetus.jpg"
 searchAliases:

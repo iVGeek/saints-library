@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Toral Cascales"
 honorific: Blessed
-title: "Blessed José Toral Cascales"
 summary: "Young layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

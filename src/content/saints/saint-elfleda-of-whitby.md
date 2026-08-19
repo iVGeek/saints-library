@@ -1,7 +1,6 @@
 ---
 name: "Saint Elfleda of Whitby"
 honorific: Saint
-title: "Saint Elfleda of Whitby"
 summary: "Born a princess, the daughter of King Oswy of Northumbria (part of England). She was offered to God as a child at the convent of Hartlepool. Nun at the double monastery of Whitby Abbey with Saint Hilda of Whitby. Abbess of Whitby."
 searchAliases:
   - "Aelflaed"

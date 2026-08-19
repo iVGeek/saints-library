@@ -1,7 +1,6 @@
 ---
 name: "Saint Superatus of Rome"
 honorific: Saint
-title: "Saint Superatus of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

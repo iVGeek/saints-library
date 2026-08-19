@@ -1,7 +1,6 @@
 ---
 name: "Saint Medran"
 honorific: Saint
-title: "Saint Medran"
 summary: "Brother of Saint Odran. Disciple of Saint Kieran of Saghir."
 feastDay:
   month: 7

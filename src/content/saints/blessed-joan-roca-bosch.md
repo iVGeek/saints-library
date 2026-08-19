@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Roca Bosch"
 honorific: Blessed
-title: "Blessed Joan Roca Bosch"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Roca-Bosch.jpg"
 birthYear: 1884

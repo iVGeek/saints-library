@@ -1,7 +1,6 @@
 ---
 name: "Saint Probe"
 honorific: Saint
-title: "Saint Probe"
 summary: "Young lay woman who was drawn to religious life, refused a marriage, and fled from her family's home to escape it. She was found near Laon in France and killed for her refusal. Martyr."
 born: "4th century Ireland"
 died: "4th century near Laon, France"

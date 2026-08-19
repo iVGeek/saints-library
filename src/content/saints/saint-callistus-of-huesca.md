@@ -1,7 +1,6 @@
 ---
 name: "Saint Callistus of Huesca"
 honorific: Saint
-title: "Saint Callistus of Huesca"
 summary: "Friend of Saint Mercutialis. Martyred by Saracens."
 deathYear: 1003
 born: "Huesca, Spain"

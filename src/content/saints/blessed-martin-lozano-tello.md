@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Lozano Tello"
 honorific: Blessed
-title: "Blessed Martín Lozano Tello"
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

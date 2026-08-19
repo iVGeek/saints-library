@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Hara Mondo"
 honorific: Blessed
-title: "Blessed Ioannes Hara Mondo"
 summary: "Layman in the archdiocese of Funari, Japan. Franciscan Tertiary. Martyr."
 deathYear: 1623
 born: "Usui, Chiba, Japan"

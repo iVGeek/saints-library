@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Amagasu Uemon"
 honorific: Blessed
-title: "Blessed Ludovicus Amagasu Uemon"
 summary: "Married layman in the diocese of Niigata, Japan. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

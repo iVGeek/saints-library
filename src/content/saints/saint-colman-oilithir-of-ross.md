@@ -1,7 +1,6 @@
 ---
 name: "Saint Colman Oilithir of Ross"
 honorific: Saint
-title: "Saint Colman Oilithir of Ross"
 summary: "Student of Saint Finbar in Cork, Ireland. Evangelist in the area of Rosscarbery, East Carbery, County Cork, Munster, Ireland."
 searchAliases:
   - "Colman the Pilgrim"

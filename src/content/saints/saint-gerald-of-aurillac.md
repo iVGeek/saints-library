@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerald of Aurillac"
 honorific: Saint
-title: "Saint Gerald of Aurillac"
 summary: "Born to the nobility, the son of Count Gerard and Saint Adeltrude of Aurillac. The boy suffered from several illnesses in his youth, and eventually went blind. Upon his father's death, Gerald became Count of Aurillac himself; he then gave away his possessions and dedicated himsel"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/G%C3%A9raud_d%27Aurillac.jpg"
 searchAliases:

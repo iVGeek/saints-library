@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Aschia"
 honorific: Saint
-title: "Saint Eusebius of Aschia"
 summary: "Fifth century hermit in Aschia, Syria."
 region: "England"
 feastDay:

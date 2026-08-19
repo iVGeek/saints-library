@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Orsini"
 honorific: Blessed
-title: "Blessed Giovanni Orsini"
 summary: "Born to the Italian nobility; his was a pious family and several of his brothers became monks. Canon lawyer. Canon of the cathedral of Turin, Italy. Commendatory abbot of Rivalta, Italy. Priest. Noted preacher. Archbishop of Turin in 1364. Zealous preacher against heresy, includi"
 birthYear: 1333
 deathYear: 1411

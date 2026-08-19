@@ -1,7 +1,6 @@
 ---
 name: "Saint Paula of Carthage"
 honorific: Saint
-title: "Saint Paula of Carthage"
 summary: "Nun. Martyr."
 died: "in Carthage in North Africa"
 region: "Africa"

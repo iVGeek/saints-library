@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Thessalonica"
 honorific: Saint
-title: "Saint Dionysius of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

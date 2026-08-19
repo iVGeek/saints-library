@@ -1,7 +1,6 @@
 ---
 name: "Saint Moderatus of Verona"
 honorific: Saint
-title: "Saint Moderatus of Verona"
 summary: "33rd bishop of the diocese of Verona, Italy, serving 32 years from 712 until his death."
 searchAliases:
   - "Moderato"

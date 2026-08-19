@@ -1,7 +1,6 @@
 ---
 name: "Saint Neon of Antioch"
 honorific: Saint
-title: "Saint Neon of Antioch"
 summary: "Layman. One of the Martyrs of Antioch."
 deathYear: 303
 died: "c.303 at Antioch, Pisidia (in modern Turkey)"

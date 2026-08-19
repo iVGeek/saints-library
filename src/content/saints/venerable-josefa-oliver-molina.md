@@ -1,7 +1,6 @@
 ---
 name: "Venerable Josefa Oliver Molina"
 honorific: Venerable
-title: "Venerable Josefa Oliver Molina"
 summary: "Founded the Congregation of the Sisters of the Virgin of Mount Carmel."
 searchAliases:
   - "Mother María Elisea"

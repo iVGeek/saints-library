@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fiorina Cecchin"
 honorific: Blessed
-title: "Blessed Fiorina Cecchin"
 summary: "Feeling a call to religious life from her youth, Fiorina first applied to join the Dorotee Sisters of Vicenza, but was not accepted due to health reasons. However, on 27 August 1896, she joined the Sisters of Saint Joseph Benedict Cottolengo (Cottolengo Sisters) in Bigolino, Ital"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Fiorina-Cecchin.jpg"
 searchAliases:

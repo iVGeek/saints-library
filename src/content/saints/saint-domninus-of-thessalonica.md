@@ -1,7 +1,6 @@
 ---
 name: "Saint Domninus of Thessalonica"
 honorific: Saint
-title: "Saint Domninus of Thessalonica"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 300
 died: "c.300 in Thessalonica"

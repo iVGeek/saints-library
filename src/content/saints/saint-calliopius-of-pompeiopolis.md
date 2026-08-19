@@ -1,7 +1,6 @@
 ---
 name: "Saint Calliopius of Pompeiopolis"
 honorific: Saint
-title: "Saint Calliopius of Pompeiopolis"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Calliope"

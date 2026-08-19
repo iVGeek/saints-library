@@ -1,7 +1,6 @@
 ---
 name: "Blessed Melecio Pardo Llorente"
 honorific: Blessed
-title: "Blessed Melecio Pardo Llorente"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Melecio-Pardo-Llorente.jpg"
 birthYear: 1913

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Ephesus"
 honorific: Saint
-title: "Saint Maximus of Ephesus"
 summary: "Lay man merchant Christian in Ephesus. Beaten, racked and martyred in the persecutions of Decius."
 deathYear: 250
 died: "stoned to death in 250"

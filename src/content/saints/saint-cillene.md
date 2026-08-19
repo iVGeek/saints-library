@@ -1,7 +1,6 @@
 ---
 name: "Saint Cillene"
 honorific: Saint
-title: "Saint Cillene"
 summary: "Monk. Elected abbot in Iona Abbey in Scotland in 726."
 searchAliases:
   - "Killen"

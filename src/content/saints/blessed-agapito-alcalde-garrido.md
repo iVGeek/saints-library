@@ -2,7 +2,6 @@
 name: "Blessed Agapito Alcalde Garrido"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Francisco_Asenjo_Barbieri_-_El_r%C3%A1bano_por_las_hojas_-_tonadilla_en_un_acto_y_en_verso_-_libretto_%28IA_elrabanoporlasho464barb%29.pdf/page1-500px-Francisco_Asenjo_Barbieri_-_El_r%C3%A1bano_por_las_hojas_-_tonadilla_en_un_acto_y_en_verso_-_libretto_%28IA_elrabanoporlasho464barb%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Agapito Alcalde Garrido"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936

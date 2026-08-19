@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodosius of Antioch"
 honorific: Saint
-title: "Saint Theodosius of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria, date unknown"
 deathPlace: "Syria, date unknown"

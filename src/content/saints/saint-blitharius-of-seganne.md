@@ -1,7 +1,6 @@
 ---
 name: "Saint Blitharius of Seganne"
 honorific: Saint
-title: "Saint Blitharius of Seganne"
 summary: "Evangelizing priest in Gaul, working with Saint Fursey of Peronne. In the early 640's, he settled in Sézanne, Champagne (in modern France) where he built a small cell, spent the rest of his life as a hermit, and became known for his life of penance and prayer."
 searchAliases:
   - "Blitarius"

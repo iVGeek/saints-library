@@ -1,7 +1,6 @@
 ---
 name: "Saint Bicor"
 honorific: Saint
-title: "Saint Bicor"
 summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."
 deathYear: 360
 died: "c.360 in Persia"

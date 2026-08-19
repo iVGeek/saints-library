@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ohannes oglu Baldji"
 honorific: Blessed
-title: "Blessed Ohannes oglu Baldji"
 summary: "Married layman. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 birthYear: 1860

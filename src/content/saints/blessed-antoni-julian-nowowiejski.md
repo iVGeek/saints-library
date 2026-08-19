@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Julian Nowowiejski"
 honorific: Blessed
-title: "Blessed Antoni Julian Nowowiejski"
 summary: "Antoni studied at the seminary of Plock, Poland, and was ordained a priest on 10 July 1881 in Plock. Professor and rector of the Plock seminary. Vicar-General of Plock in 1902. Bishop of Plock on 12 June 1908. Titular Archbishop of Silyum on 25 November 1930. Known for his deep s"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Antoni_Nowowiejski.png"
 searchAliases:

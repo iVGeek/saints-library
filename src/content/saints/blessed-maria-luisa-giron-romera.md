@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Luisa Girón Romera"
 honorific: Blessed
-title: "Blessed María Luisa Girón Romera"
 summary: "Student at the Piarist school in her hometown of Bujalance, Spain. She joined the Sisters of the Pious Schools in 1916, making her vows on 31 March 1918. Taught in Cuba for several years, then returned to work with girls in Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg"
 searchAliases:

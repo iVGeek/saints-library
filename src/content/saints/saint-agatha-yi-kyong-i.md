@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatha Yi Kyong-I"
 honorific: Venerable
-title: "Saint Agatha Yi Kyong-I"
 summary: "Lay woman. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

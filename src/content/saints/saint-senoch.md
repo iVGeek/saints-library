@@ -1,7 +1,6 @@
 ---
 name: "Saint Senoch"
 honorific: Saint
-title: "Saint Senoch"
 summary: "Son of pagan parents. In his early 20's he became the spiritual student of Saint Martin de Vertou, and converted to Christianity. Hermit whose wisdom and piety attracted would-be students for whom he founded a monastic community; Blessed Euphronius of Tours consecrated the altar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Senoch.jpg"
 searchAliases:

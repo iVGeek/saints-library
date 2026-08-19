@@ -1,7 +1,6 @@
 ---
 name: "Blessed Atanasio Vidaurreta Labra"
 honorific: Blessed
-title: "Blessed Atanasio Vidaurreta Labra"
 summary: "Born to a family of shepherds. Feeling a call to religious life, he joined the Claretians in his teens, making his profession in Vic, Spain on 15 August 1930. While he was in seminary in 1936, the Spanish Civil War broke out. In July, Atanasio collapsed from an unspecified health"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Atanasio-Vidaurreta-Labra.jpg"
 birthYear: 1911

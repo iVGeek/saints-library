@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Nazianzen"
 honorific: Saint
-title: "Saint Gregory of Nazianzen"
 summary: " Reluctant priest; he bel Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Caesar Nazianzen, and Saint Gorgonius. Spent an wandering youth in search of learning. Friend of and fellow student with Saint Basil the Great. Monk at Basil's desert monastery."
 image: "http://catholicsaints.info/wp-content/gallery/saint-gregory-of-nazianzen/saint-gregory-of-nazianzen-01.jpg"
 searchAliases:

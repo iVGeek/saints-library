@@ -1,7 +1,6 @@
 ---
 name: "Venerable María de Jesús Guízar Barragán"
 honorific: Venerable
-title: "Venerable María de Jesús Guízar Barragán"
 summary: "Fifth of 16 children born to Don Emiliano Guizar y Valencia and Lucia Barragan Guizar. Baptized at the age of one day. Teacher in her early teens. At age 15 she suffered from a near fatal illness, which led to serious reflection, which led to her dedicating herself to God. Founde"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-De-Jesús-Guízar-Barragán.jpg"
 searchAliases:

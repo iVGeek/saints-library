@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Pannonia"
 honorific: Saint
-title: "Saint Maximus of Pannonia"
 summary: "Fourth century martyr. No other information has survived."
 feastDay:
   month: 7

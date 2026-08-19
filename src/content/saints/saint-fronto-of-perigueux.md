@@ -1,7 +1,6 @@
 ---
 name: "Saint Fronto of Périgueux"
 honorific: Saint
-title: "Saint Fronto of Périgueux"
 summary: "Third-century missionary bishop of the Périgueux region of France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fronto-of-Périgueux.jpg"
 searchAliases:

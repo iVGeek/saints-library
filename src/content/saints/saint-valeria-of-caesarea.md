@@ -1,7 +1,6 @@
 ---
 name: "Saint Valeria of Caesarea"
 honorific: Saint
-title: "Saint Valeria of Caesarea"
 summary: "Convert. Martyr."
 died: "Caesarea, Palestine, date unknown"
 deathPlace: "Palestine, date unknown"

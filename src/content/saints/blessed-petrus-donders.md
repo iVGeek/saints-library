@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Donders"
 honorific: Blessed
-title: "Blessed Petrus Donders"
 summary: "Son of Arnold Denis Donders and Petronella van den Brekel. Peter grew up poor, rarely getting to school, working at home and in a local factory with his brother Martin, and dreaming of becoming a priest. With the help of local priests and a wealthy patron, he enter the seminary a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Petrus-Donders.jpg"
 searchAliases:

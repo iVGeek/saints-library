@@ -1,7 +1,6 @@
 ---
 name: "Saint Phanxicô Xaviê Hà Trong Mau"
 honorific: Venerable
-title: "Saint Phanxicô Xaviê Hà Trong Mau"
 summary: "Lay Dominican in the apostolic vicariate of East Tonkin. Catechist. Imprisoned, tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

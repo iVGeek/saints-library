@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Lasaga Carazo"
 honorific: Blessed
-title: "Blessed Miguel Lasaga Carazo"
 summary: "Baptized at the age of one day, Miguel joined the Salesians of Don Bosco in his late teens, making his solemn profession at Carabanchel Alto, Madrid, Spain on 31 July 1912. Ordained a priest in Barcelona, Spain on 21 May 1921. He supervised novice training and teachers in Italy,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Lasaga-Carazo.jpg"
 birthYear: 1892

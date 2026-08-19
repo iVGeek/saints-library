@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Bautista Ferris Llopis"
 honorific: Blessed
-title: "Blessed Juan Bautista Ferris Llopis"
 summary: "Trappist priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 birthYear: 1905

@@ -1,7 +1,6 @@
 ---
 name: "Saint Walter of Pontoise"
 honorific: Saint
-title: "Saint Walter of Pontoise"
 summary: "Well educated in general, and a professor of philosophy and rhetoric. Joined the Benedictines at Rebais-en-Brie to escape the world and the temptations presented by success in his field. Against his will he was made abbot of Pontoise Abbey by King Philip I; Walter reminded the ki"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG/960px-Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Vicente Hormaechea Apoita"
 honorific: Blessed
-title: "Blessed José Vicente Hormaechea Apoita"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Vicente-Hormaechea-Apoita.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rosario Ciércoles Gascón"
 honorific: Blessed
-title: "Blessed Rosario Ciércoles Gascón"
 summary: "The daughter of Juan, a guitarist, and Maria, Rosario was educated at a boarding school run by the Daughters of Charity of Saint Vincent de Paul. She studied music, played the organ, and was a member of the Daughters of Mary of the Miraculous Medal, a group centered on Marian spi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Rosario-Ciercoles-Gascon.jpg"
 birthYear: 1873

@@ -1,7 +1,6 @@
 ---
 name: "Blessed William of Castellammare di Stabia"
 honorific: Blessed
-title: "Blessed William of Castellammare di Stabia"
 summary: "Franciscan friar. Missionary to Palestine. Imprisoned and murdered by Muslims for this work. Martyr."
 deathYear: 1364
 born: "Castellammare di Stabia, Naples (in modern Italy)"

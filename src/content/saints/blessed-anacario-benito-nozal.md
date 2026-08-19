@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anacario Benito Nozal"
 honorific: Blessed
-title: "Blessed Anacario Benito Nozal"
 summary: "Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg"
 searchAliases:

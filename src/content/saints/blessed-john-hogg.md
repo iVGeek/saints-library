@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Hogg"
 honorific: Blessed
-title: "Blessed John Hogg"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1565
 deathYear: 1590

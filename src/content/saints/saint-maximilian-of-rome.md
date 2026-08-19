@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximilian of Rome"
 honorific: Saint
-title: "Saint Maximilian of Rome"
 summary: "Martyr."
 died: "cemetery of Basilla on the Via Salaria Antica outside Rome, Italy"
 deathPlace: "Italy"

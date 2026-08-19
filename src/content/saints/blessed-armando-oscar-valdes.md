@@ -1,7 +1,6 @@
 ---
 name: "Blessed Armando Óscar Valdés"
 honorific: Blessed
-title: "Blessed Armando Óscar Valdés"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Jaime"

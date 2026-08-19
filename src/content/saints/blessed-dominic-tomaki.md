@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Tomaki"
 honorific: Blessed
-title: "Blessed Dominic Tomaki"
 summary: "Son of Blessed John Tomaki. Martyred with his family."
 searchAliases:
   - "Dominic Tomachi"

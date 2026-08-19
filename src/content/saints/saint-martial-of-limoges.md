@@ -1,7 +1,6 @@
 ---
 name: "Saint Martial of Limoges"
 honorific: Saint
-title: "Saint Martial of Limoges"
 summary: " Leg Missionary bishop who was sent with Saint Denis of Paris to evangelize Gaul (modern France), and who settled on Limoges as his see city. Spiritual teacher of Saint Valeria and Saint Aurelian of Limoges. Worked with Saint Alpinian of Limoges and Saint Austriclinian of Limoges."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martial-of-Limoges.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Declan of Ardmore"
 honorific: Saint
-title: "Saint Declan of Ardmore"
 summary: "A convert, he was baptized by and became a spiritual student of Saint Colman. Monk. Trained as an evangelist by Saint Diomma of Kildimo. Worked in Ireland before the arrival of Saint Patrick. Pilgrim to Rome, Italy. First bishop of Ardmore, Waterford, Ireland. Known as a miracle"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Declan-of-Ardmore.jpg"
 searchAliases:

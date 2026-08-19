@@ -1,7 +1,6 @@
 ---
 name: "Venerable Carlo Maria da Abbiategrasso"
 honorific: Venerable
-title: "Venerable Carlo Maria da Abbiategrasso"
 summary: "The eldest of 17 children born to Carlo Vigevano and Giuditta Colzi. Gaetano's father was a tailor, and the boy grew up in the trade, serving as an assistant. He was a pious child, devoted to the Eucharist, to Our Lady, to caring for the poor, and serving as youth leader in his p"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Maria-da-Abbiategrasso.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Elias of Syracuse"
 honorific: Saint
-title: "Saint Elias of Syracuse"
 summary: "Monk. Bishop of Syracuse, Sicily."
 deathYear: 660
 died: "660"

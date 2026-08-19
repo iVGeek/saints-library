@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Syracuse"
 honorific: Saint
-title: "Saint Andrew of Syracuse"
 summary: "Deported from Syracuse, Sicily by invading Saracens and sent to North Africa where he was tortured and executed for his faith. Martyr."
 deathYear: 900
 died: "c.900"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Jiménez Vallejo"
 honorific: Blessed
-title: "Blessed Pedro Jiménez Vallejo"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Jimenez-Vallejo.jpg"
 searchAliases:

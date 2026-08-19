@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cristoforo Amerio"
 honorific: Blessed
-title: "Blessed Cristoforo Amerio"
 summary: "Mercedarian friar. Cardinal."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cristoforo-Amerio.jpg"
 deathYear: 1425

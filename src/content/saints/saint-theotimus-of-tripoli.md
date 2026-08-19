@@ -1,7 +1,6 @@
 ---
 name: "Saint Theotimus of Tripoli"
 honorific: Saint
-title: "Saint Theotimus of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"

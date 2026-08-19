@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Marcellinus"
 honorific: Saint
-title: "Pope Saint Marcellinus"
 summary: "Chosen 29th pope. Enlarged the catacombs. Reigned at the start of the persecution of Diocletian, and was himself martyred. Legend says that he apostatized, made sacrifice to pagan gods, then repented, and was beheaded, but this story has been discredited."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Martyrdom_of_pope_Marcellinus.jpg"
 searchAliases:

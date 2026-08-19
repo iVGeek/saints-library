@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquim Pallerola Feu"
 honorific: Blessed
-title: "Blessed Joaquim Pallerola Feu"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Leonci Joaquim"

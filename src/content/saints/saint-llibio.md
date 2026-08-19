@@ -1,7 +1,6 @@
 ---
 name: "Saint Llibio"
 honorific: Saint
-title: "Saint Llibio"
 summary: "No information has survived."
 searchAliases:
   - "Libio"

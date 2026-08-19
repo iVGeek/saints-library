@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo Alberione"
 honorific: Blessed
-title: "Blessed Giacomo Alberione"
 summary: "Seminarian in Bra and Alba in Italy. During the night of 31 December 1900 to 1 January 1901, while doing nightly Eucharistic adoration in Alba, he suddently felt he was called on to do something for the people of the new 20th century. Ordained on 29 June 1907. Parish priest in Na"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Alberione.gif"
 searchAliases:

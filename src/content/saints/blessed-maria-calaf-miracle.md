@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Calaf Miracle"
 honorific: Blessed
-title: "Blessed Maria Calaf Miracle"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maria.jpg"
 searchAliases:

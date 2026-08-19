@@ -1,7 +1,6 @@
 ---
 name: "Saint Richard Pampuri"
 honorific: Venerable
-title: "Saint Richard Pampuri"
 summary: " Though he wanted to become a missiona Tenth of the eleven children born to Innocenzo and Angela Pampuri. His mother died of tuberculosis when Erminio was three, and he was raised by his maternal grandparents and an aunt. His father died in a traffic accident when Erminio was ten."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg"
 searchAliases:

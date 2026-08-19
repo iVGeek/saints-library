@@ -1,7 +1,6 @@
 ---
 name: "Saint Thethmar"
 honorific: Saint
-title: "Saint Thethmar"
 summary: "Premonstratensian canon. Missionary to the Wends in Germany, working with Saint Vicelin of Oldenburg."
 searchAliases:
   - "Theodemar"

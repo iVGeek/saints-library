@@ -1,7 +1,6 @@
 ---
 name: "Saint André Bessette"
 honorific: Venerable
-title: "Saint André Bessette"
 summary: "Son of a woodcutter, and eighth of twelve children. His father died in a work-related accident, his mother of tuberculosis, and he was adopted at age twelve by a farmer uncle who insisted he work for his keep. Over the years Andre worked as a farmhand, shoemaker, baker, blacksmit"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Andr%C3%A9_Bessette.jpg/960px-Saint_Andr%C3%A9_Bessette.jpg"
 searchAliases:

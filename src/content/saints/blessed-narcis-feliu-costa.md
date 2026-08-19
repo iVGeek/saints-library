@@ -1,7 +1,6 @@
 ---
 name: "Blessed Narcís Felíu Costa"
 honorific: Blessed
-title: "Blessed Narcís Felíu Costa"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

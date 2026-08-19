@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspar di Salamanca"
 honorific: Blessed
-title: "Blessed Gaspar di Salamanca"
 summary: "Mercedarian friar and travelling preacher. In 1419 he helped ransom 293 Christians from slavery in Muslim Granada."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dominco-de-Molinar-and-Blessed-Gaspare-di-Salamanca.jpg"
 region: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Alexandria"
 honorific: Saint
-title: "Saint Mark of Alexandria"
 summary: "Martyr."
 born: "Egypt"
 died: "Alexandria, Egypt"

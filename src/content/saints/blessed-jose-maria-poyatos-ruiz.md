@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Poyatos-Ruiz"
 honorific: Blessed
-title: "Blessed José María Poyatos-Ruiz"
 summary: "Young layman in the diocese of Jaén, Spain; factory worker, member of Catholic Action and frequently spent time in Eucharistis adoration. Taken from his home and killed for being a Christian activist. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Poyatos-Ruiz.jpg"
 birthYear: 1914

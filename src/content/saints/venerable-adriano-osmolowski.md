@@ -1,7 +1,6 @@
 ---
 name: "Venerable Adriano Osmolowski"
 honorific: Venerable
-title: "Venerable Adriano Osmolowski"
 summary: "Franciscan priest."
 searchAliases:
   - "Hadrian Osmolowski"

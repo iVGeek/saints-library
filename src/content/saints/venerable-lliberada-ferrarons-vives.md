@@ -1,7 +1,6 @@
 ---
 name: "Venerable Lliberada Ferrarons-Vivés"
 honorific: Venerable
-title: "Venerable Lliberada Ferrarons-Vivés"
 summary: "Lay woman in the diocese of Girona, Spain. Member of the Lay Carmelites."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-lliberada-ferrarons-vives/venerable-lliberada-ferrarons-vives-01.jpg"
 birthYear: 1803

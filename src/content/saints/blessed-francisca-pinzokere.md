@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisca Pinzokere"
 honorific: Blessed
-title: "Blessed Francisca Pinzokere"
 summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
 deathYear: 1627
 born: "Nagasaki, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Joseph Rateau"
 honorific: Blessed
-title: "Blessed Jean-Joseph Rateau"
 summary: "Jean-Joseph studied at the San Sulpizio seminary. He was ordained a priest in the archdiocese of Paris, France in 1788, and earned a doctorate in theology at the Sorbonne. In August 1792 he was imprisoned by forces of the French Revolution for his continued loyalty to the Vatican"
 searchAliases:
   - "Giovanni Giuseppe Rateau"

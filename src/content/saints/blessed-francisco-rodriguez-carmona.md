@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Rodríguez Carmona"
 honorific: Blessed
-title: "Blessed Francisco Rodríguez Carmona"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

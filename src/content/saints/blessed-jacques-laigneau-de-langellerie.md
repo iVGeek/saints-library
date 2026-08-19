@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques Laigneau de Langellerie"
 honorific: Blessed
-title: "Blessed Jacques Laigneau de Langellerie"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1747
 deathYear: 1794

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Michel Philippot"
 honorific: Blessed
-title: "Blessed Jean-Michel Philippot"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 searchAliases:
   - "Jean-Michel Phelippot"

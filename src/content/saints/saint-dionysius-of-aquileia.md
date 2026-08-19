@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Aquileia"
 honorific: Saint
-title: "Saint Dionysius of Aquileia"
 summary: "Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian."
 searchAliases:
   - "Denis"

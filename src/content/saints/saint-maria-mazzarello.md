@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria Mazzarello"
 honorific: Venerable
-title: "Saint Maria Mazzarello"
 summary: "Daughter of Giuseppe and Maddalena Mazzarello, the eldest of ten children born to a farm family in the mountains; seven of the children survived, and Maria learned the lessons typical of a big sister. Field worker. Member of the Pious Union of Mary Immaculate. Assisted at her par"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Mazzarello1.jpg"
 searchAliases:

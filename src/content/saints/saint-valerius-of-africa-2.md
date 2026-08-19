@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerius of Africa"
 honorific: Saint
-title: "Saint Valerius of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

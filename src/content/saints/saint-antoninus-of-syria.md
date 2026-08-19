@@ -1,7 +1,6 @@
 ---
 name: "Saint Antoninus of Syria"
 honorific: Saint
-title: "Saint Antoninus of Syria"
 summary: "Stonemason in predominantly pagan Aribazus, Syria. He denounced their non-Christian practices of neighbors, and became a hermit for two years. He then returned to his village and destroyed the pagan idols there. He afterwards moved to Apamea, Syria where he built a church. Martyr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antoninus-of-Syria.jpg"
 searchAliases:

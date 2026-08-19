@@ -1,7 +1,6 @@
 ---
 name: "Saint Successus of Thessalonica"
 honorific: Saint
-title: "Saint Successus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

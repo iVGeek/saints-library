@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement of Ohrid"
 honorific: Saint
-title: "Saint Clement of Ohrid"
 summary: "Student of Saint Cyril and Saint Methodius in Moravia and Panonia. Building on their work, he helped found Slavic literature and culture in Macedonia. He was the first Slavic writer, translated dozens of works, wrote a biography of Saints Cyril and Methodius, and founded the firs"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png/960px-Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco Maria Greco"
 honorific: Blessed
-title: "Blessed Francesco Maria Greco"
 summary: "Born to a pious family, the son of a pharmacist, he received early religious training from his mother. Though his father hoped Francesco would take over the family business, the boy felt a call to the priesthood, studied in Naples, Italy, and was ordained in the archdiocese of Co"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/30/Francesco_Maria_Greco2.jpg"
 birthYear: 1857

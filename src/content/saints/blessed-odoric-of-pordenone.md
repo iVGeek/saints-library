@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odoric of Pordenone"
 honorific: Blessed
-title: "Blessed Odoric of Pordenone"
 summary: "Joined the Franciscans in 1300. Hermit. Priest. Preacher in northern Italy, drawing large crowds to his services. Missionary through the Near and Far East, preaching in Persia, China, Java, Ceylon, and Tibet from 1316 to 1330. First European to reach the capital of the Dalai-Lama"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/DepartureOfOdoricOfPordenone.jpg/960px-DepartureOfOdoricOfPordenone.jpg"
 searchAliases:

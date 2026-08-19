@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicita of Capua"
 honorific: Saint
-title: "Saint Felicita of Capua"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Felicity"

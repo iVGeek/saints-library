@@ -1,7 +1,6 @@
 ---
 name: "Blessed August-Dénis Nezel"
 honorific: Blessed
-title: "Blessed August-Dénis Nezel"
 summary: "Auguste studied classics at the college of Montaigu. Drawn to religious life, he joined Sulpicians, taught Latin and served as a catechist, mainly teaching children. Seminarian in the archdiocese of Paris, France at the outbreak of the French Revolution. The anti-Catholic excesse"
 birthYear: 1770
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gurloes of Sainte-Croix"
 honorific: Saint
-title: "Saint Gurloes of Sainte-Croix"
 summary: "Benedictine monk. Prior of Redon Abbey. Abbot of Sainte-Croix of Quimperle, Brittany (in modern France)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gurloes-of-Sainte-Croix.jpg"
 searchAliases:

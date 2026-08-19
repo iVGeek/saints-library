@@ -1,7 +1,6 @@
 ---
 name: "Saint Verena of Zürich"
 honorific: Saint
-title: "Saint Verena of Zürich"
 summary: "Born to a wealthy Theban family, and baptized by Bishop Charemon. She was related to one of the soldiers of the Theban Legion; legend says she was the cousin of Mauritius and was engaged to a soldier named Victor. She travelled with the Legion to Milan, Italy where she stayed to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Verena-of-Zurich.jpg"
 searchAliases:

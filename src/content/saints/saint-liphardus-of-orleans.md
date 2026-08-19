@@ -1,7 +1,6 @@
 ---
 name: "Saint Liphardus of Orleans"
 honorific: Saint
-title: "Saint Liphardus of Orleans"
 summary: "A prominent lawyer in Orleans, France. He gave it all up to devote himself to prayer as a cave-dwelling hermit. At the age of fifty he and Saint Urbicius founded and entered a monastery of Meung-sur-Loire, France, and served as its abbot."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Liphardus-of-Orleans.jpg"
 searchAliases:

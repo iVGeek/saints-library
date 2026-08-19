@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wincenty Matuszewski"
 honorific: Blessed
-title: "Blessed Wincenty Matuszewski"
 summary: "Priest in the diocese of Wloclawek, Poland. Murdered by occupying Nazi forces for the crime of being a Catholic priest. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wincenty-Matuszewski.jpg"
 birthYear: 1869

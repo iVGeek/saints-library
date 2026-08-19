@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Amero"
 honorific: Blessed
-title: "Blessed John Amero"
 summary: "Dominican lay-brother at Baeza, Spain. Noted for having only two interests in life: study and prayer. Directed by his spiritual directors to take holy orders."
 deathYear: 1566
 died: "1566 of natural causes"

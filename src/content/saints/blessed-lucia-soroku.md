@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia Soroku"
 honorific: Blessed
-title: "Blessed Lucia Soroku"
 summary: "Lay woman in the Kyoto, Japan. Married to Blessed Hieronimus Soroku. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Aki (in modern Hiroshima), Japan"

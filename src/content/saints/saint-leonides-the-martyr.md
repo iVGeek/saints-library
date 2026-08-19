@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonides the Martyr"
 honorific: Saint
-title: "Saint Leonides the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

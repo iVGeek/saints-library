@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Sanromá Solé"
 honorific: Blessed
-title: "Blessed Jaume Sanromá Solé"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

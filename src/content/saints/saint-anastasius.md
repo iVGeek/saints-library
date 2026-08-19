@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius"
 honorific: Saint
-title: "Saint Anastasius"
 summary: "During an early persecution of Christians, Anastasius publicly proclaimed his faith. Martyr."
 region: "England"
 feastDay:

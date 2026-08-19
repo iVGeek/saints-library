@@ -1,7 +1,6 @@
 ---
 name: "Blessed Crescencio García Pobo"
 honorific: Blessed
-title: "Blessed Crescencio García Pobo"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencio-García-Pobo.jpg"
 searchAliases:

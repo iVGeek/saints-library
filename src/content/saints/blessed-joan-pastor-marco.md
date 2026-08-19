@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Pastor Marco"
 honorific: Blessed
-title: "Blessed Joan Pastor Marco"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Fabià"

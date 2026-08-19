@@ -1,7 +1,6 @@
 ---
 name: "Blessed William of Maleval"
 honorific: Blessed
-title: "Blessed William of Maleval"
 summary: "William lived a wild and dissolute life as a soldier in his youth. However, at some point he began to take his religion seriously, left the military life, and made pilgrimages to the Holy Lands. He became superior of an abbey at Pisa, Italy in 1153. He failed in this position, ho"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Antonio_nasini%2C_san_guglielmo%2C_1690-1710_ca._01.jpg/960px-Antonio_nasini%2C_san_guglielmo%2C_1690-1710_ca._01.jpg"
 searchAliases:

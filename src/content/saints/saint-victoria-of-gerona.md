@@ -1,7 +1,6 @@
 ---
 name: "Saint Victoria of Gerona"
 honorific: Saint
-title: "Saint Victoria of Gerona"
 summary: "Martyr. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"

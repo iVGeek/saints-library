@@ -1,7 +1,6 @@
 ---
 name: "Saint Babolenus of Stavelot-Malmédy"
 honorific: Saint
-title: "Saint Babolenus of Stavelot-Malmédy"
 summary: "Travelling missionary bishop in 7th-century Netherlands. Close friend of Saint Remaclus. In later life he retired to lives as a prayerful monk at the monastery of Stavelot-Malmédy (in modern Belgium)."
 searchAliases:
   - "Babolin"

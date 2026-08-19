@@ -1,7 +1,6 @@
 ---
 name: "Blessed Élisabeth Verchière"
 honorific: Blessed
-title: "Blessed Élisabeth Verchière"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Tewdrig ap Teithfallt"
 honorific: Saint
-title: "Saint Tewdrig ap Teithfallt"
 summary: "Born a prince, the son of King Ceithfalt of Morganwg; he became king upon his father's death. A great supporter of the Church, Tewdrig abdicated in favour of his son Meurig, and then retired to live as a prayerful hermit at Tintern, Montmouthsire, Wales. When the pagan Saxons led"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tewdrig-ap-Teithfallt.jpg"
 searchAliases:

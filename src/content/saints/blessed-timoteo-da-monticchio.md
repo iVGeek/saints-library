@@ -1,7 +1,6 @@
 ---
 name: "Blessed Timoteo da Monticchio"
 honorific: Blessed
-title: "Blessed Timoteo da Monticchio"
 summary: "Born to a peasant family and grew up poor but pious. Joined the Franciscan Friars Minor. Priest. Franciscan novice master in Campli, Teramo, Italy, and lived in the San Angelo d'Ocre convent. Noted for his austere devotion to the Franciscan life, his deep prayer life, and devotio"
 searchAliases:
   - "Timoteo de Mound"

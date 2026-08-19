@@ -1,7 +1,6 @@
 ---
 name: "Saint Teresa Eustochio Verzeri"
 honorific: Venerable
-title: "Saint Teresa Eustochio Verzeri"
 summary: "Teresa's mother, Countess Elena Pedrocca-Grumelli, had felt drawn to the religious life, but her aunt, a Poor Clare nun, prophesied that Elena would be the mother of holy children. Teresa was the oldest of the seven children; her brother became bishop of Brescia, Italy. Ingazia w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Eustochio-Verzeri.jpg"
 searchAliases:

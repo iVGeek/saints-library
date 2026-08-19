@@ -1,7 +1,6 @@
 ---
 name: "Saint Fronto of Nitria"
 honorific: Saint
-title: "Saint Fronto of Nitria"
 summary: "Hermit. Monk. Abbot of a group of monks in the Nitria Desert in Egypt."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fronto-of-Nitria.jpg"
 searchAliases:

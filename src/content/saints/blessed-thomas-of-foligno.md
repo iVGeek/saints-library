@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas of Foligno"
 honorific: Blessed
-title: "Blessed Thomas of Foligno"
 summary: "Franciscan friar. Betrayed by a heretic monk, he and several of his religious brothers were martyred by order of King Bazarath."
 deathYear: 1369
 died: "1369 at Vidin (in modern Bulgaria)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammonio of Alexandria"
 honorific: Saint
-title: "Saint Ammonio of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

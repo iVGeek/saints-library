@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Jaunzarás Gómez"
 honorific: Blessed
-title: "Blessed Vicente Jaunzarás Gómez"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Jaunzarás-Gómez.jpg"
 searchAliases:

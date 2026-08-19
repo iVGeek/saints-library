@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Mases Boncompte"
 honorific: Blessed
-title: "Blessed Jaume Mases Boncompte"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Lambert Carles"

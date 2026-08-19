@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Dolores Oller Angelats"
 honorific: Blessed
-title: "Blessed Maria Dolores Oller Angelats"
 summary: "Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Dolores-Oller-Angelats.jpg"
 searchAliases:

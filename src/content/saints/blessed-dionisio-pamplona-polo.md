@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Pamplona-Polo"
 honorific: Blessed
-title: "Blessed Dionisio Pamplona-Polo"
 summary: "Piarist priest. Teacher. Rector of the Piarist school in Buenos Aires, Spain. Parish priest in Parelta de la Sal. Imprisoned in the persecutions of the Spanish Civil War. At one point he escaped; he immediately went the local parish church to consume all the consecrated hosts as"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dionisio-Pamplona-Polo.jpg"
 searchAliases:

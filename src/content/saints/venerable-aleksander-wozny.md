@@ -1,7 +1,6 @@
 ---
 name: "Venerable Aleksander Wozny"
 honorific: Venerable
-title: "Venerable Aleksander Wozny"
 summary: "Ordained a priest of the archdiocese of Poznan, Poland on 10 June 1933. During World War II he was imprisoned in the former Bruczków monastery, then the Buchenwald and Dachau concentration camps; he survived over five years in the camps, being freed by American troops on 29 April"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Aleksander-Wozny.jpg"
 birthYear: 1910

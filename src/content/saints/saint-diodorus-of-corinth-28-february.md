@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus of Corinth"
 honorific: Saint
-title: "Saint Diodorus of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Dioscurus"

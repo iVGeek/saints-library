@@ -1,7 +1,6 @@
 ---
 name: "Saint Stefano of Antioch"
 honorific: Saint
-title: "Saint Stefano of Antioch"
 summary: "Bishop. Abused by heretic protesters at the Council of Chalcedon. Martyr."
 searchAliases:
   - "Stephen"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Aymerich"
 honorific: Blessed
-title: "Blessed James Aymerich"
 summary: "Mercedarian friar. Elected Master General of the Mercedarians on 8 April 1419. He improved convents in several cities, straightened out some financial and debt problems, and redeemed many slaves. Advisor to King Alfonso V, especially on matters spiritual."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Aymerich.jpg"
 deathYear: 1428

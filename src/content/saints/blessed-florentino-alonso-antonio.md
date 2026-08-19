@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florentino Alonso Antonio"
 honorific: Blessed
-title: "Blessed Florentino Alonso Antonio"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Salustiano"

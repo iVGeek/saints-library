@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Édouard Cestac"
 honorific: Blessed
-title: "Blessed Louis-Édouard Cestac"
 summary: "As a child, he suffered from neuralgia, and was unable to speak for three years; he was healed after his mother developed a devotion to the Blessed Virgin Mary. After studies in the seminary of Aire-sur-l'Adour, France and the Sulpician college in Paris, where he became friends w"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pere_Cestac_Paris.jpg"
 birthYear: 1801

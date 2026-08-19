@@ -1,7 +1,6 @@
 ---
 name: "Saint Elizabeth of the Visitation"
 honorific: Saint
-title: "Saint Elizabeth of the Visitation"
 summary: "Descendant of the Old Testament patriarch, Aaron. Wife of Zechariah, temple priest. Relative of Mary. Mother of Saint John the Baptist, becoming pregnant very late in life. She was the Elizabeth that Mary visited soon after the Annunciation. Described in the Gospel of Luke as “ri"
 image: "http://catholicsaints.info/wp-content/uploads/img-Visitation.jpg"
 born: "1st century BC"

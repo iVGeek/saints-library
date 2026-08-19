@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Corfu"
 honorific: Saint
-title: "Saint Januarius of Corfu"
 summary: "A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith, he is one of the Martyrs of Corfu."
 searchAliases:
   - "Gennaro"

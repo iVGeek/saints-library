@@ -1,7 +1,6 @@
 ---
 name: "Saint Optatus of Auxerre"
 honorific: Saint
-title: "Saint Optatus of Auxerre"
 summary: "Bishop of Auxerre, France c.529."
 deathYear: 530
 died: "c.530 of natural causes"

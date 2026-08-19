@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Kawano"
 honorific: Blessed
-title: "Blessed Petrus Kawano"
 summary: "Son of Blessed Marina Tanaura in the archdiocese of Nagasaki, Japan. Martyred at age 7."
 birthYear: 1615
 deathYear: 1622

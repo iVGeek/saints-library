@@ -1,7 +1,6 @@
 ---
 name: "Saint Theonas"
 honorific: Saint
-title: "Saint Theonas"
 summary: "Pagan magician. Convert, brought to Christianity by Saint Theopemptus of Nicomedia. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Theonas-and-Theopemptus.jpg"
 searchAliases:

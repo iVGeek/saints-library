@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ubaldo Revilla Rodríguez"
 honorific: Blessed
-title: "Blessed Ubaldo Revilla Rodríguez"
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

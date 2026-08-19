@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Cervilla Luis"
 honorific: Blessed
-title: "Blessed Ramón Cervilla Luis"
 summary: "Ordained a priest of the archdiocese of Granada, Spain on 1 March 1890. Martyred in the Spanish Civil War; he died forgiving his killers."
 birthYear: 1865
 deathYear: 1936

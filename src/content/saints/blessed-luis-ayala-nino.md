@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Ayala Niño"
 honorific: Blessed
-title: "Blessed Luis Ayala Niño"
 summary: "Joined the Hospitallers of Saint John of God in 1928, making his final vows on 4 July 1933. Martyred in the Spanish Civil War. One of the Martyred Colombians of Barcelona."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Ayala-Niño.jpg"
 searchAliases:

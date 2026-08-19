@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Menéndez García"
 honorific: Blessed
-title: "Blessed Miguel Menéndez García"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

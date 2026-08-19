@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles Spinola"
 honorific: Blessed
-title: "Blessed Charles Spinola"
 summary: "Born to the Italian nobility in a family that originated in Genoa. Studied at Nola, Italy, under his uncle Cardinal Filippo Spinola. Joined the Jesuits in Nola in 1584. Ordained in 1594. Missionary to Japan in 1594. It took three tries to actually reach the island, but he worked"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Charles_Spinola_%281565-1622%29.jpg"
 searchAliases:

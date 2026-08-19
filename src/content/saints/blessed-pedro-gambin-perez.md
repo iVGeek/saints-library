@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Gambín Pérez"
 honorific: Blessed
-title: "Blessed Pedro Gambín Pérez"
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936

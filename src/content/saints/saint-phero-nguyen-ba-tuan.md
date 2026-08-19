@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Nguyen Bá Tuan"
 honorific: Venerable
-title: "Saint Phêrô Nguyen Bá Tuan"
 summary: "Priest in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 birthYear: 1766

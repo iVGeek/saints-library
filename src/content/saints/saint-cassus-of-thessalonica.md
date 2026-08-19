@@ -1,7 +1,6 @@
 ---
 name: "Saint Cassus of Thessalonica"
 honorific: Saint
-title: "Saint Cassus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

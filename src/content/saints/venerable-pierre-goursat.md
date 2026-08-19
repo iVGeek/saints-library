@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pierre Goursat"
 honorific: Venerable
-title: "Venerable Pierre Goursat"
 summary: "Lifelong layman of the archdiocese of Paris, France. Brought to an active faith while being treated for tuberculosis around age 19. Founded the Association of the Faithful the Emmanuel Community to spread the benefits of the Charismatic Renewal, and worked to spread the Faith by"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Pierre-Goursat.jpg"
 birthYear: 1914

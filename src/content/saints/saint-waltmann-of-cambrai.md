@@ -1,7 +1,6 @@
 ---
 name: "Saint Waltmann of Cambrai"
 honorific: Saint
-title: "Saint Waltmann of Cambrai"
 summary: "Accompanied Saint Norbert of Xanten to Cambrai, France to preach against heresy. Remained as abbot of Saint Michael's at Antwerp, Belgium."
 searchAliases:
   - "Waltmann of Antwerp"

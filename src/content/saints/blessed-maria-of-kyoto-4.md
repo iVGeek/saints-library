@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria of Kyoto"
 honorific: Blessed
-title: "Blessed Maria of Kyoto"
 summary: "Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Tanba, Kyoto, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Elijah of Tomi"
 honorific: Saint
-title: "Saint Elijah of Tomi"
 summary: "Martyr."
 searchAliases:
   - "Elias, Heli, Helias, Ilios"

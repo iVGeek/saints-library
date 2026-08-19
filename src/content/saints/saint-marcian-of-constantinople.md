@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Constantinople"
 honorific: Saint
-title: "Saint Marcian of Constantinople"
 summary: "Member of a Roman family of Constantinople. Related to Emperor Theodosius II. Ordained in 455. He lived such an austere life that he was wrongly accused of the heresy of Novatianism. Treasurer of the great church Hagia Sophia. Appointed Oikonomos, a position second only to the pa"
 searchAliases:
   - "Marciano"

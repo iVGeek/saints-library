@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict of Poland"
 honorific: Saint
-title: "Saint Benedict of Poland"
 summary: "One of four brothers who became hermits, Benedictine monks and saints."
 deathYear: 1008
 born: "Poland"

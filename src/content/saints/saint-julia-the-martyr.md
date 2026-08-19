@@ -1,7 +1,6 @@
 ---
 name: "Saint Julia the Martyr"
 honorific: Saint
-title: "Saint Julia the Martyr"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Giulia of Augusta"

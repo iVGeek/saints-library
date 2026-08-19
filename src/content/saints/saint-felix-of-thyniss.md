@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Thyniss"
 honorific: Saint
-title: "Saint Felix of Thyniss"
 summary: "Arrested for his faith, he was found dead in prison the day before for his scheduled execution. No other information has survived."
 searchAliases:
   - "Felix of Thynissa"

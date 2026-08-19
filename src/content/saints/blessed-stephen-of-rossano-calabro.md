@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stephen of Rossano Calabro"
 honorific: Blessed
-title: "Blessed Stephen of Rossano Calabro"
 summary: "Raised in a peasant family, Stephen early felt a desire for religious life, and became a monk. Spiritual student, friend and travelling companion of Saint Nilus the Younger, he was noted for his zeal for the monastic life and desire to spread the faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stephen-of-Rossano-Calabro.jpg"
 birthYear: 925

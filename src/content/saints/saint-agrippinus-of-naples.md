@@ -1,7 +1,6 @@
 ---
 name: "Saint Agrippinus of Naples"
 honorific: Saint
-title: "Saint Agrippinus of Naples"
 summary: "Bishop of Naples, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agrippinus-of-Naples.jpg"
 searchAliases:

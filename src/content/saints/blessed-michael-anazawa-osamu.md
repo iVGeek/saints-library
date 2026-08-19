@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Anazawa Osamu"
 honorific: Blessed
-title: "Blessed Michaël Anazawa Osamu"
 summary: "Child in the diocese of Niigata, Japan. Son of Blessed Crescentia Anazawa and Blessed Antonius Anazawa Han'emon. Martyr."
 birthYear: 1618
 deathYear: 1629

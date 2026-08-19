@@ -1,7 +1,6 @@
 ---
 name: "Saint Auspicius of Trier"
 honorific: Saint
-title: "Saint Auspicius of Trier"
 summary: "Bishop of Trier, Germany"
 searchAliases:
   - "Auspicius of Tréves"

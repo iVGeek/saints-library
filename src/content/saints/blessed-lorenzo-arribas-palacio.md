@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Arribas Palacio"
 honorific: Blessed
-title: "Blessed Lorenzo Arribas Palacio"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

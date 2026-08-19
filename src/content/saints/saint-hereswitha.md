@@ -1,7 +1,6 @@
 ---
 name: "Saint Hereswitha"
 honorific: Saint
-title: "Saint Hereswitha"
 summary: "Princess from Northumbria (in modern England), the daughter of Hereric and Breguswith. Sister of Saint Hilda of Whitby. Married to Aethelhere, King of East Anglia. Mother of Alfwold and of Aldwulf who became king of East Anglia. Widow. When her children were grown, she became a n"
 searchAliases:
   - "Haeresvid"

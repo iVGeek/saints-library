@@ -1,7 +1,6 @@
 ---
 name: "Blessed Titus Zeman"
 honorific: Blessed
-title: "Blessed Titus Zeman"
 summary: "Joined the Salesians of Don Bosco in 1931, and made his solemn vows on 7 March 1938. Ordained a priest in 1940. Chaplain, school council member and chemistry teacher. Helped Salesians in Czechoslovakia escape to Italy after Communists banned religious orders on 13 April 1950 and"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vajnory_kostol_09_%28cropped%29.jpg/960px-Vajnory_kostol_09_%28cropped%29.jpg"
 birthYear: 1915

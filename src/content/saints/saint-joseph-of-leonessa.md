@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph of Leonessa"
 honorific: Saint
-title: "Saint Joseph of Leonessa"
 summary: "Third of eight children born to John Desideri, a wool merchant, and Serafina Paolini. His parents died when the boy was 12 years old, and he was raised and educated by his uncle Battista Desideri, a teacher in Viterbo, Italy. Desideri arranged a marriage for Eufranio with a local"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Giambattista_Tiepolo_-_I_santi_Fedele_da_Sigmaringen_e_Giuseppe_da_Leonessa_%28Parma_ca.1752%29.jpg/960px-Giambattista_Tiepolo_-_I_santi_Fedele_da_Sigmaringen_e_Giuseppe_da_Leonessa_%28Parma_ca.1752%29.jpg"
 searchAliases:

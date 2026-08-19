@@ -1,7 +1,6 @@
 ---
 name: "Saint Manuel González García"
 honorific: Venerable
-title: "Saint Manuel González García"
 summary: "Fourth of five boys in his family; his father was a carpenter. Manuel was very active in his parish church, sang in the choir and entered the junior seminary in Seville, Spain at age 12. Ordained a priest in the diocese of Seville on 21 September 1901 by his bishop, Blessed Marce"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-González-García.jpg"
 searchAliases:

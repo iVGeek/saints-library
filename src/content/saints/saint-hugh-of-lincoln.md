@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh of Lincoln"
 honorific: Saint
-title: "Saint Hugh of Lincoln"
 summary: "Born to the nobility, the son of William, Lord of Avalon. His mother Anna died when he was eight, and he was raised and educated at a convent at Villard-Benoit in France. Monk at 15. Deacon at 19. Prior of a monastery at Saint-Maxim. Joined the Carthusians in 1160. Ordained in 11"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg"
 searchAliases:

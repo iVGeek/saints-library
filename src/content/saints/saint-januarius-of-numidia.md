@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Numidia"
 honorific: Saint
-title: "Saint Januarius of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

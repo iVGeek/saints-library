@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartolomeo di Cervere"
 honorific: Blessed
-title: "Blessed Bartolomeo di Cervere"
 summary: "After studying in Savigliano and Turin, Italy, Bartolomeo joined the Dominicans at Savigliano. He was ordained a priest in 1445. He earned three degrees in theology from the University of Turin, awarded all of them on 8 May 1452, and then taught at the university for a year. Chos"
 searchAliases:
   - "Bartolomeo Cerver"

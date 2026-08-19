@@ -1,7 +1,6 @@
 ---
 name: "Saint Procula of Thessalonica"
 honorific: Saint
-title: "Saint Procula of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

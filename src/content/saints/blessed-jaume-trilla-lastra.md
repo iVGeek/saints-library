@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Trilla Lastra"
 honorific: Blessed
-title: "Blessed Jaume Trilla Lastra"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Feliu Josep"

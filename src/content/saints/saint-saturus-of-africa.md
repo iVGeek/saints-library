@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturus of Africa"
 honorific: Saint
-title: "Saint Saturus of Africa"
 summary: "Wealthy master of the household of the anti-Christian Arian and then pagan Vandal king Genseric. When Genseric cracked down on the faithful, he tortured Saturus and threatened him with complete poverty and loss of his family and freedom. Saturus refused to deny his faith. Genseri"
 deathYear: 460
 died: "some time after 460 of natural causes near Carthage, North Africa"

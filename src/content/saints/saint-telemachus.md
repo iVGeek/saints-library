@@ -1,7 +1,6 @@
 ---
 name: "Saint Telemachus"
 honorific: Saint
-title: "Saint Telemachus"
 summary: "Hermit or monk from the eastern part of the Roman empire. He protested in Rome against gladiatorial combat, and was murdered by its supporters. His efforts moved the Christian emperor Honorius to ban the combats, and Telemachus is considered a martyr, saving many through his sacr"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Telemachus_departing_from_Nestor_-_Henry_Howard_-_Project_Gutenberg_eText_13725.jpg/960px-Telemachus_departing_from_Nestor_-_Henry_Howard_-_Project_Gutenberg_eText_13725.jpg"
 searchAliases:

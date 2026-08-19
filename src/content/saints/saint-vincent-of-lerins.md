@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Lérins"
 honorific: Saint
-title: "Saint Vincent of Lérins"
 summary: "May have been born to the Gallic nobility. Career soldier. Retired to become a monk at Lerins, France. Wrote the Commonitory, a great defense of the faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Icon_of_St_Vincent_of_Lerins_by_Bojan_Teodosijevi%C4%87.jpg/960px-Icon_of_St_Vincent_of_Lerins_by_Bojan_Teodosijevi%C4%87.jpg"
 searchAliases:

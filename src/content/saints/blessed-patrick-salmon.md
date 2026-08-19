@@ -1,7 +1,6 @@
 ---
 name: "Blessed Patrick Salmon"
 honorific: Blessed
-title: "Blessed Patrick Salmon"
 summary: "Servant of Blessed Thomas Bosgrave. With Thomas, he was arrested and martyred for the crime of sheltering priests."
 deathYear: 1594
 born: "Ireland"

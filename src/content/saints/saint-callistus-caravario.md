@@ -1,7 +1,6 @@
 ---
 name: "Saint Callistus Caravario"
 honorific: Venerable
-title: "Saint Callistus Caravario"
 summary: "Known as a pious and prayerful child. Salesian missionary priest. He worked at Macao, China, then in Timor, and then on 18 May 1929 in Shiuchow, China. On 25 February 1930, while travelling with his bishop, Saint Luigi Versiglia, his ship was boarded by Bolshevik pirates who plan"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Callisto_Caravario_%281903-1930%29.jpg"
 searchAliases:

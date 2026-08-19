@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicephorus of Constantinople"
 honorific: Saint
-title: "Saint Nicephorus of Constantinople"
 summary: "Son of the secretary to Emperor Constantine Copronymus, a man tortured and exiled for refusing to accept iconclasm. Nicephorus was known as a scholar and eloquent speaker, and served as an imperial commissioner. Built a monastery near the Black Sea. A layman, he was chosen patria"
 image: "http://catholicsaints.info/wp-content/uploads/Nicephorus-of-Constantinople.jpg"
 searchAliases:

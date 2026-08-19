@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerulph"
 honorific: Saint
-title: "Saint Gerulph"
 summary: "Young man in Flanders, Belgium who was heir to a large estate but was drawn to spiritual life. Murdered by a relative who hoped to inherit Gerulph's wealth; Gerulph was on his way from having received the sacrament of Confirmation. As he died, Gerulph pardoned his murderer. Honou"
 searchAliases:
   - "Gerulfo"

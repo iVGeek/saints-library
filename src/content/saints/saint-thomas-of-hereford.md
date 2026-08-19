@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomas of Hereford"
 honorific: Saint
-title: "Saint Thomas of Hereford"
 summary: "Born to the nobility, the son of Baron William de Cantilupe. Educated in Oxford, England, and in France at Paris and Orléans. Priest. Attended the Council of Lyons in 1245. Papal chaplain. Taught canon law at the University of Oxford, and was chosen the university chancellor in 1"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thomas-of-Hereford.jpg"
 searchAliases:

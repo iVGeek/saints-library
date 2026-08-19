@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucien Botovasoa"
 honorific: Blessed
-title: "Blessed Lucien Botovasoa"
 summary: "Eldest of nine children, Lucien was baptized at age 10 in 1918, and made his First Communion at 14 in 1922. From 1922 to 1927, he studied at the Jesuit Saint Joseph College, and became a school teacher, dedicated to both religious and secular education of children; at the end of"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lucien_Botovasoa.png"
 birthYear: 1908

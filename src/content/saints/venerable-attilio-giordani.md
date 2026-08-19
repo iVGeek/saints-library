@@ -1,7 +1,6 @@
 ---
 name: "Venerable Attilio Giordani"
 honorific: Venerable
-title: "Venerable Attilio Giordani"
 summary: "Layman in the archdiocese of Milan, Italy. Soldier at different times from 1934 till 1945. Employed at Pirelli Industries in Milan. After World War II he married Noemi Davanzo; father of three boys. Worked in youth ministry, and helped start the Crusade of Kindness movement. Memb"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Attilio-Giordani.jpg"
 birthYear: 1913

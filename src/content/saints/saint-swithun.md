@@ -1,7 +1,6 @@
 ---
 name: "Saint Swithun"
 honorific: Saint
-title: "Saint Swithun"
 summary: " His patr Raised in an abbey. Priest. Chaplain to Egbert, King of the West Saxons. Tutor to prince Ethelwolf. Bishop of Winchester, England. Miracles associated with his relics. His shrine was destroyed during the Reformation. Almost 60 ancient British churches were named for him."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg/960px-St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg"
 searchAliases:

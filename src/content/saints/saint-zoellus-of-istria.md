@@ -1,7 +1,6 @@
 ---
 name: "Saint Zöellus of Istria"
 honorific: Saint
-title: "Saint Zöellus of Istria"
 summary: "Martyr."
 searchAliases:
   - "Zoello"

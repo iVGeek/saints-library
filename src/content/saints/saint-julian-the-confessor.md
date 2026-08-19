@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian the Confessor"
 honorific: Saint
-title: "Saint Julian the Confessor"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

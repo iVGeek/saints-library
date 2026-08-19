@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Martínez Ramos"
 honorific: Blessed
-title: "Blessed Pedro Martínez Ramos"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

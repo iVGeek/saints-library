@@ -1,7 +1,6 @@
 ---
 name: "Saint Adeloga of Kitzingen"
 honorific: Saint
-title: "Saint Adeloga of Kitzingen"
 summary: "Frankish princess. Benedictine nun. Founded the Benedictine convent of Kitzingen in Franconia (part of modern Germany), and served as its first abbess."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/1_Adeloga_Schwanberg_1.jpg/960px-1_Adeloga_Schwanberg_1.jpg"
 searchAliases:

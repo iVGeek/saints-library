@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Lahoz Gan"
 honorific: Blessed
-title: "Blessed Antonio Lahoz Gan"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Lahoz-Gan.jpg"
 birthYear: 1858

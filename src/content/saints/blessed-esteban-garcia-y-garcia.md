@@ -1,7 +1,6 @@
 ---
 name: "Blessed Esteban García y García"
 honorific: Blessed
-title: "Blessed Esteban García y García"
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint John de Brito"
 honorific: Venerable
-title: "Saint John de Brito"
 summary: " Against the strenuous objections of his family, he volunteered for the missions in India in 1673, and was Born to the Portugese nobility, and a favourite of Don Pedro, king of Portugal. Son of the governor of Brazil. Jesuit at age 15. Studied at the University of Coimbra. Priest."
 image: "http://catholicsaints.info/wp-content/uploads/John-de-Brito.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Agostina Petrantoni"
 honorific: Venerable
-title: "Saint Agostina Petrantoni"
 summary: "Born to a small farm family, the daughter of Francesco Pietrantoni and Caterina Costantini. Nurse at the Holy Spirit Hospital, near the Vatican, in Rome in 1886. She joined the Sisters of Charity, a congregation dedicated to service to the sick, in 1887, taking the name Agostina."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agostina-Petrantoni-1.jpg"
 searchAliases:

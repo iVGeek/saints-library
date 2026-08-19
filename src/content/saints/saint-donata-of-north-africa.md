@@ -1,7 +1,6 @@
 ---
 name: "Saint Donata of North Africa"
 honorific: Saint
-title: "Saint Donata of North Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3

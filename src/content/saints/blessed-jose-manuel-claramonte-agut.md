@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Manuel Claramonte Agut"
 honorific: Blessed
-title: "Blessed José Manuel Claramonte Agut"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1938

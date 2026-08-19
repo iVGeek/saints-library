@@ -1,7 +1,6 @@
 ---
 name: "Saint Amatus Ronconi"
 honorific: Saint
-title: "Saint Amatus Ronconi"
 summary: "Born to a wealthy family, Amatus was orphaned when very young and grew up in the home of his older brother Giacomo. Feeling a call to live according to the gospel, he devoted himself to caring for the poor and helping pilgrims. Franciscan tertiary. Constructed combination chapel"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-amatus-ronconi/beati-amato-ronconi.jpg"
 searchAliases:

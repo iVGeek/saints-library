@@ -1,7 +1,6 @@
 ---
 name: "Saint Robustian of Milan"
 honorific: Saint
-title: "Saint Robustian of Milan"
 summary: "Early martyr. No other information has survived."
 died: "in Milan, Italy"
 deathPlace: "Italy"

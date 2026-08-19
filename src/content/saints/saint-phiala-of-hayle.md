@@ -1,7 +1,6 @@
 ---
 name: "Saint Phiala of Hayle"
 honorific: Saint
-title: "Saint Phiala of Hayle"
 summary: "Sister of Saint Fingar. Martyred with several companions by pagans. No other information has survived."
 searchAliases:
   - "Piala"

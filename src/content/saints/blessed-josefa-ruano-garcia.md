@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Ruano García"
 honorific: Blessed
-title: "Blessed Josefa Ruano García"
 summary: "Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Josefa of Saint John Of God"

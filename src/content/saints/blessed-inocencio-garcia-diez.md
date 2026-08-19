@@ -1,7 +1,6 @@
 ---
 name: "Blessed Inocencio García Díez"
 honorific: Blessed
-title: "Blessed Inocencio García Díez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ersilia Penelope Frey"
 honorific: Venerable
-title: "Venerable Ersilia Penelope Frey"
 summary: "Daughter of Luigi and Maria Giannotti. Cistercian nun, joining on 2 July 1858 and taking the name Maria Giuseppa Benedetta. In November 1861 she became paralyzed on the right side of her body; she had to have parts of her body suspended by ropes and bands because of the intense p"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ersilia-Penelope-Frey.jpg"
 searchAliases:

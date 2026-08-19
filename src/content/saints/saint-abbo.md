@@ -1,7 +1,6 @@
 ---
 name: "Saint Abbo of Auxerre"
 honorific: Saint
-title: "Saint Abbo of Auxerre"
 summary: "Monk and abbot at Saint Germain monastery at Auxerre, France. Bishop of Auxerre in 857. Assisted at the synod of Poncy in 860. Resigned the see in 859 to return to the life of a monk."
 searchAliases:
   - "Abbone"

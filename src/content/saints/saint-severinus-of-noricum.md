@@ -1,7 +1,6 @@
 ---
 name: "Saint Severinus of Noricum"
 honorific: Saint
-title: "Saint Severinus of Noricum"
 summary: " Evangelized in Noricum (part of modern Austria). Hermit near Vienna. Prophesied t Born to the Roman nobility. Gave away his wealth to live as a hermit in the Egyptian desert. Though he loved the quiet and contemplative life, he felt a call to spread the faith, and he followed it."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Severin_von_Noricum_%28um_1470%29.jpg"
 searchAliases:

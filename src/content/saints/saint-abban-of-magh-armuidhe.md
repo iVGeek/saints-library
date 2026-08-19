@@ -1,7 +1,6 @@
 ---
 name: "Saint Abbán of Magh-Armuidhe"
 honorific: Saint
-title: "Saint Abbán of Magh-Armuidhe"
 summary: "Son of Cormac, King of Leinster, Ireland. Nephew and disciple of Saint Ibar. Founded churches in Wexford, and monasteries in Magheranoidhe and Kilabbain."
 searchAliases:
   - "Eibbán"

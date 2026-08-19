@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Alexandria"
 honorific: Saint
-title: "Saint Saturninus of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Alexandria, Egypt"

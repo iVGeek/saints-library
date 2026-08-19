@@ -1,7 +1,6 @@
 ---
 name: "Saint Gertrude of Nivelles"
 honorific: Saint
-title: "Saint Gertrude of Nivelles"
 summary: "Younger daughter of Saint Pepin of Landen and Saint Ida of Nivelles; sister of Saint Begga of Ardenne. Devoted to her faith from an early age, she turned down a noble marriage to pursue the religious life. Following the death of Pepin in 639, and on the advice of Saint Amand of M"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG/960px-Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG"
 birthYear: 626

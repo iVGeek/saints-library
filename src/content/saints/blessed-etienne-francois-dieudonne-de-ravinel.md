@@ -1,7 +1,6 @@
 ---
 name: "Blessed Étienne-François-Dieudonné de Ravinel"
 honorific: Blessed
-title: "Blessed Étienne-François-Dieudonné de Ravinel"
 summary: "Deacon in the diocese of Nancy, France. One of the Martyrs of September."
 birthYear: 1769
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Everild of Everingham"
 honorific: Saint
-title: "Saint Everild of Everingham"
 summary: "Seventh century English nobility. Convert to Christianity. Nun, entering a convent at York with Saint Bega and Saint Wuldreda under the direction of Saint Wilfrid. Assigned by Wilfrid to lead a large community of nuns at Bishop's Farm (later called Everildsham in her honour, and"
 searchAliases:
   - "Averil"

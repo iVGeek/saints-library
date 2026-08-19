@@ -1,7 +1,6 @@
 ---
 name: "Saint Nectarius of Vienne"
 honorific: Saint
-title: "Saint Nectarius of Vienne"
 summary: "13th bishop of Vienne, France, serving from c.441 to c.449."
 searchAliases:
   - "Nectaire"

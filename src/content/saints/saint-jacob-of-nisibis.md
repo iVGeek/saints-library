@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacob of Nisibis"
 honorific: Saint
-title: "Saint Jacob of Nisibis"
 summary: "Monk. First bishop of Nisibis, Mesopotamia (modern Nusaybin, Turkey) from 309 until his death. Spiritual director of Saint Ephrem of Syria. Participated in the Council of Nicaea in 325. Noted for praying for the death of Arius, founder of the Arian heresy. Known for his learning,"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Hildesheim_Domschatz_Reliquiar_Jakob_von_Nisibis.jpg"
 searchAliases:

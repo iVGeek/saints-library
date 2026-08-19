@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutichio"
 honorific: Saint
-title: "Saint Eutichio"
 summary: "Martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"

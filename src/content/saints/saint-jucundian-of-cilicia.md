@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucundian of Cilicia"
 honorific: Saint
-title: "Saint Jucundian of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Jucundianus, Jocundianus"

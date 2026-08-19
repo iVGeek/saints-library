@@ -1,7 +1,6 @@
 ---
 name: "Saint Meuris of Alexandria"
 honorific: Saint
-title: "Saint Meuris of Alexandria"
 summary: "Virgin who dedicated herself to God. Arrested, tortured and martyred for her faith in the persecutions of Maximinus II."
 deathYear: 307
 born: "Gaza, Palestine"

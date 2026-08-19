@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrés de Peschiera Grego"
 honorific: Blessed
-title: "Blessed Andrés de Peschiera Grego"
 summary: "Raised in a pious family, Andrés grew up on the shore of Lake Garda in Italy. He early felt a desire to become a hermit, and tried living in monastic style at his father's home. When his father died, the 15 year old Andrew joined the Dominicans at the priory at Brescia, Italy. St"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-de-Peschiera-Grego.jpg"
 searchAliases:

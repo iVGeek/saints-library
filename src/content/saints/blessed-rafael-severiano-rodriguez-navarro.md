@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafaél Severiano Rodríguez Navarro"
 honorific: Blessed
-title: "Blessed Rafaél Severiano Rodríguez Navarro"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pacifico of Ronda"

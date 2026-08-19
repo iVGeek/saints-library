@@ -1,7 +1,6 @@
 ---
 name: "Saint Sigolena of Troclar"
 honorific: Saint
-title: "Saint Sigolena of Troclar"
 summary: "Born to the nobility of Aquitaine (in modern France). Married in her teens, whe was widowed at age 22. Though she was pressured to re-marry, she instead devoted her life to prayer and service to the poor. She founded the convent of Troclar in Lagrave (in modern southern France),"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Sigolena-of-Trocar.jpg"
 searchAliases:

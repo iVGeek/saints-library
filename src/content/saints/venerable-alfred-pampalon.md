@@ -1,7 +1,6 @@
 ---
 name: "Venerable Alfred Pampalon"
 honorific: Venerable
-title: "Venerable Alfred Pampalon"
 summary: "Ninth of twelve children born to Antoine and Josephine Dorion Pampalon; his parents were pious people, and his father was a stonemason who built churches. Josephine died when Alfred as five years old, and his father soon married the Irish widow, Margaret Phelan, who was loving, g"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Alfred_Pampalon.png"
 searchAliases:

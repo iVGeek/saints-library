@@ -1,7 +1,6 @@
 ---
 name: "Venerable Alonso de Bárcena"
 honorific: Venerable
-title: "Venerable Alonso de Bárcena"
 summary: "Entered the Jesuits in 1565. Studied in Paris, France. Missionary to Peru in 1577. He spoke eleven Indian languages, and composed grammars and catechisms in most of them."
 searchAliases:
   - "Apostle of Peru"

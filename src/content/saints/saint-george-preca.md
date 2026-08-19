@@ -1,7 +1,6 @@
 ---
 name: "Saint George Preca"
 honorific: Venerable
-title: "Saint George Preca"
 summary: "Seventh in a Christian family of nine children, the son of Vincent Preco and Nathalie Ceravolo. His father was a merchant and health inspector. George was a sickly child. Studied at the Lyceum and Major Seminary on Malta. A severe respiratory ailment in seminary nearly killed him"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_of_Saint_George_Preca_at_Montekristo_Estates%2C_Hal_Farrug%2C_Luqa_%28cropped%29.jpeg/960px-Statue_of_Saint_George_Preca_at_Montekristo_Estates%2C_Hal_Farrug%2C_Luqa_%28cropped%29.jpeg"
 searchAliases:

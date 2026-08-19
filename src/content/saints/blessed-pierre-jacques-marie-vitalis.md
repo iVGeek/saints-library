@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Jacques-Marie Vitalis"
 honorific: Blessed
-title: "Blessed Pierre-Jacques-Marie Vitalis"
 summary: "Priest in the archdiocese of Paris, France. He served in the parish of St-Nicolas-des-Champes in Paris from 1784 to 1785, then as vicar of the parish of Saint-Merry. During the French Revolution, Father Pierre refused to take the oath of loyalty to the civil administration, and w"
 searchAliases:
   - "Peter James Maria Vitalis"

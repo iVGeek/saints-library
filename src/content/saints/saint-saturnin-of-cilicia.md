@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturnin of Cilicia"
 honorific: Saint
-title: "Saint Saturnin of Cilicia"
 summary: "Martyr. No other information has survived."
 died: "in Cilicia, Asia Minor (in modern Turkey), date unknown"
 deathPlace: "Asia Minor (modern Turkey), date unknown"

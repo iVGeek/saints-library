@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustratius of Sebaste"
 honorific: Saint
-title: "Saint Eustratius of Sebaste"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eustratius-of-Sebaste.jpg"
 deathYear: 302

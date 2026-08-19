@@ -1,7 +1,6 @@
 ---
 name: "Saint Mariano of Acerenza"
 honorific: Saint
-title: "Saint Mariano of Acerenza"
 summary: "Friend of Saint Laviero. Deacon and courageous preacher in a time of persecution. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 in Grumentum (modern Grumento Nova, Italy)"

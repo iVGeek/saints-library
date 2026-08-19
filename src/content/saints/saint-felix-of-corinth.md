@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Corinth"
 honorific: Saint
-title: "Saint Felix of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nilus of Phunon"
 honorific: Saint
-title: "Saint Nilus of Phunon"
 summary: "Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for celebrating Mass in prison."
 deathYear: 310
 died: "burned to death in 310 at Phunon, near Petra in Palestine"

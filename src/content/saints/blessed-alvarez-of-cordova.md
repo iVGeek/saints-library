@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alvarez of Cordova"
 honorific: Blessed
-title: "Blessed Alvarez of Cordova"
 summary: "Joined the Dominicans at Cordova, Spain in 1368. Renowned and well-travelled preacher, well known in Andalusia and Italy. Pilgrim to the Holy Lands. Preached Crusade. Personal confessor, spiritual guide and political advisor to Queen Catherine. In charge of the education of young"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Alvarez-of-Cordova.jpg"
 searchAliases:

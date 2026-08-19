@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerard Sagredo"
 honorific: Saint
-title: "Saint Gerard Sagredo"
 summary: "Benedictine monk. Abbot at San Giorgio Maggiore abbey, Venice, Italy. He passed through Hungary while on a pilgrimage to Palestine. There he met with King Saint Stephen who persuaded him to stay and minister to the Magyars. Tutor of Prince Saint Emeric. First bishop of Csanad, Hu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gerard-Sangredo.jpg"
 searchAliases:

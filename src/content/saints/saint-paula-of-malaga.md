@@ -1,7 +1,6 @@
 ---
 name: "Saint Paula of Málaga"
 honorific: Saint
-title: "Saint Paula of Málaga"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 305
 died: "stoned to death in 305 in Málaga, Spain"

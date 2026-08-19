@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Canals Pascual"
 honorific: Blessed
-title: "Blessed Francesc Canals Pascual"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

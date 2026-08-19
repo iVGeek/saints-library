@@ -1,7 +1,6 @@
 ---
 name: "Saint Apollinaris of Monte Cassino"
 honorific: Saint
-title: "Saint Apollinaris of Monte Cassino"
 summary: "Abbot of Monte Cassino Abbey for eleven years."
 deathYear: 828
 died: "828 of natural causes"

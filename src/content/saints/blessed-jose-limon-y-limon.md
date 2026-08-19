@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Limón y Limón"
 honorific: Blessed
-title: "Blessed José Limón y Limón"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

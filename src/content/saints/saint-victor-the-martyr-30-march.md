@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor the Martyr"
 honorific: Saint
-title: "Saint Victor the Martyr"
 summary: "Martyred with nine other Christians whose names have not come down to us. No other information as survived."
 region: "England"
 feastDay:

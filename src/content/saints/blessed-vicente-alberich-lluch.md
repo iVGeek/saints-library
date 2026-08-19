@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Alberich Lluch"
 honorific: Blessed
-title: "Blessed Vicente Alberich Lluch"
 summary: "Member of the Salesians. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eliseo Vicente"

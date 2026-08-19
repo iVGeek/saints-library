@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Torres García"
 honorific: Blessed
-title: "Blessed Antonio Torres García"
 summary: "Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War."
 birthYear: 1890
 deathYear: 1936

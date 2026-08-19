@@ -1,7 +1,6 @@
 ---
 name: "Saint Agostino Roscelli"
 honorific: Venerable
-title: "Saint Agostino Roscelli"
 summary: "Born to a poor farming family, Agostino spent his youth as a mountain shepherd, using his solitary time for prayer. During a parish mission in May 1835, he realized a call to the priesthood, a calling he attacked with prayer which led to financial aid that allowed him to study at"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bargone-dipinto_Agostino_Roscelli.jpg/960px-Bargone-dipinto_Agostino_Roscelli.jpg"
 searchAliases:

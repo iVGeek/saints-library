@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus of Laodicea"
 honorific: Saint
-title: "Saint Diodorus of Laodicea"
 summary: "Martyr. No other information has survived."
 died: "Laodicea, Syria"
 deathPlace: "Syria"

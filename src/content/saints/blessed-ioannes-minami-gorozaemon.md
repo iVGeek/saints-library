@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Minami Gorozaemon"
 honorific: Blessed
-title: "Blessed Ioannes Minami Gorozaemon"
 summary: "Layman in the diocese of Fukuoka, Japan. Married to Blessed Magdalena Minami; adopted father of Blessed Ludovicus Minami. Martyr."
 birthYear: 1568
 deathYear: 1603

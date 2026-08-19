@@ -1,7 +1,6 @@
 ---
 name: "Saint Menna"
 honorific: Saint
-title: "Saint Menna"
 summary: "Relative of Saint Eucherius and Saint Elaptius. Nun."
 searchAliases:
   - "Manna"

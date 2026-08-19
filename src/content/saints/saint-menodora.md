@@ -1,7 +1,6 @@
 ---
 name: "Saint Menodora"
 honorific: Saint
-title: "Saint Menodora"
 summary: "Sister of Saint Metrodora and Saint Nymphodora. Young Christian woman ordered to worship pagan gods during the persecutions of emperor Maximian and governor Fronto; she refused. Martyr."
 deathYear: 306
 died: "beaten to death in 306 in Bithynia, Asia Minor (in modern Turkey)"

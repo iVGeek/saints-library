@@ -1,7 +1,6 @@
 ---
 name: "Saint Thaddeus Liu Ruiting"
 honorific: Venerable
-title: "Saint Thaddeus Liu Ruiting"
 summary: "Priest, ordained at age 35, he spent his ministry walking from village to village, ministering to Christians and spreading the faith. Arrested on Pentecost 1821, he was tortured and then imprisoned for two years before his sentence was finally handed down. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thaddeus-Liu-Ruiting.jpg"
 searchAliases:

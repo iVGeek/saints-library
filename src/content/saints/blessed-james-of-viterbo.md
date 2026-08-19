@@ -1,7 +1,6 @@
 ---
 name: "Blessed James of Viterbo"
 honorific: Blessed
-title: "Blessed James of Viterbo"
 summary: "Augustinian hermit at Viterbo, Italy . Received his doctorate from the University of Paris. Well-known theology teacher in Paris, France and Naples, Italy. Bishop of Benevento, Italy in 1302. Archbishop of Naples, Italy in 1303."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GiacomoDaVt.Trin.jpg/960px-GiacomoDaVt.Trin.jpg"
 searchAliases:

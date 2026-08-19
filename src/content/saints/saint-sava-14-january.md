@@ -1,7 +1,6 @@
 ---
 name: "Saint Sava"
 honorific: Saint
-title: "Saint Sava"
 summary: "Prince of Serbia, the son of King Stephen I Nemanya. He took the name Sava (Sabas) when he became a monk at Mount Athos. His father later surrendered his crown and became a monk, too, and together they founded the monastery at Chilanari as a house for Serbs. Sava returned home in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sava_River_and_Gazela_Bridge_%28Belgrade%29.jpg/960px-Sava_River_and_Gazela_Bridge_%28Belgrade%29.jpg"
 searchAliases:

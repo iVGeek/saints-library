@@ -1,7 +1,6 @@
 ---
 name: "Saint Benignus of Antwerp"
 honorific: Saint
-title: "Saint Benignus of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Caesarea"
 honorific: Saint
-title: "Saint Maximus of Caesarea"
 summary: "Rural itinerant bishop. Martyr."
 deathYear: 255
 died: "255 at Caesarea, Cappadocia (in modern Turkey)"

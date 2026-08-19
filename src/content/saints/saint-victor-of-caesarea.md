@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Caesarea"
 honorific: Saint
-title: "Saint Victor of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Victor of Cerezo"

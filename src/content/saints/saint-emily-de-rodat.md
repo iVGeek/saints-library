@@ -1,7 +1,6 @@
 ---
 name: "Saint Emily de Rodat"
 honorific: Venerable
-title: "Saint Emily de Rodat"
 summary: "Raised by her grandmother. Educated at Maison Sain-Cyr, Villefrance, France, and at age 18, she became a teacher there. Drawn to religious life, she joined three different orders, but was not comfortable with any of them. In 1815 she began tutoring poor children on her own time,"
 image: "http://catholicsaints.info/wp-content/gallery/saint-emily-de-rodat/saint-emily-de-rodat.jpg"
 searchAliases:

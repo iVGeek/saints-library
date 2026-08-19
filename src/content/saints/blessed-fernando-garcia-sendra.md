@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fernando García Sendra"
 honorific: Blessed
-title: "Blessed Fernando García Sendra"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fernando-García-Sendra.jpg"
 birthYear: 1905

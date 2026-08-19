@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Robert Quéneau"
 honorific: Blessed
-title: "Blessed Jean-Robert Quéneau"
 summary: "Priest in the diocese of Angers, France. One of the Martyrs of September."
 birthYear: 1758
 deathYear: 1792

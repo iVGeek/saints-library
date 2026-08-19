@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquilinus of Isauria"
 honorific: Saint
-title: "Saint Aquilinus of Isauria"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 5

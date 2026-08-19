@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clara Fey"
 honorific: Blessed
-title: "Blessed Clara Fey"
 summary: "Fourth of five children born to Louis and Katherine Fey; her father was a wealthy textile industrialist who died of a stroke in 1820 when Clara was five years old. The girl grew up well off, but became acutely concerned about the plight of the poor in her city. Her family was act"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Clara_fey.jpg"
 searchAliases:

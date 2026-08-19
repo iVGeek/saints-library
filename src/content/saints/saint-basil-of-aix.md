@@ -1,7 +1,6 @@
 ---
 name: "Saint Basil of Aix"
 honorific: Saint
-title: "Saint Basil of Aix"
 summary: "Priest at Arles, France. Bishop of Aix, Provence, France. Known for his exceptional sanctity, his work in his diocese, and as a miracle worker."
 deathYear: 521
 died: "521"

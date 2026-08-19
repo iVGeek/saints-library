@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Alexandria"
 honorific: Saint
-title: "Saint Faustus of Alexandria"
 summary: "One of a number of Christians martyred in the persecutions of Decius."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"

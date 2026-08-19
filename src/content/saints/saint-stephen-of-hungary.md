@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Hungary"
 honorific: Saint
-title: "Saint Stephen of Hungary"
 summary: "Born to a pagan family, but was baptized at age 10 with his father. King of the Magyars in Hungary. Married to Blessed Gisella of Ungarn, sister of emperor Saint Henry II. Evangelized both their peoples. Saint Astricus served as his advisor. Stephen united the Magyars into a sing"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Stephen-of-Hungary.jpg"
 searchAliases:

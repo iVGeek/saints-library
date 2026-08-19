@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Barry"
 honorific: Blessed
-title: "Blessed Richard Barry"
 summary: "Dominican priest. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aloysius Gonzaga"
 honorific: Saint
-title: "Saint Aloysius Gonzaga"
 summary: "Born to the Italian nobility who grew up in a castle, the son of Ferdinand Gonzaga, a prince in the Holy Roman Emperor and a compulsive gambler. Cousin of Saint Rudolph Acquaviva. Trained from age four as a soldier and courtier. Served as a page in the Spanish court. He suffered"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Vocation_of_Saint_Aloysius_Gonzaga.PNG/960px-The_Vocation_of_Saint_Aloysius_Gonzaga.PNG"
 searchAliases:

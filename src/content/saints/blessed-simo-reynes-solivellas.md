@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simó Reynés Solivellas"
 honorific: Blessed
-title: "Blessed Simó Reynés Solivellas"
 summary: "Priest. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

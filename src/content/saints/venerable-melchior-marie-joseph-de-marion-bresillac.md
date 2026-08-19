@@ -1,7 +1,6 @@
 ---
 name: "Venerable Melchior-Marie-Joseph de Marion-Brésillac"
 honorific: Venerable
-title: "Venerable Melchior-Marie-Joseph de Marion-Brésillac"
 summary: "Member of La Société des Missions Etrangères. Ordained a priest on 22 December 1838. Pro-Vicar Apostolic of Coimbatore, India and Titular Bishop of Prusa on 6 May 1845. His status was changed to the Vicar Apostolic of Coimbatore of 3 April 1850; he retired on 18 March 1855. Found"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Melchior-Marie-Joseph-de-Marion-Bresillac.jpg"
 birthYear: 1813

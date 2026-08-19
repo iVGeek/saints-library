@@ -1,7 +1,6 @@
 ---
 name: "Saint Marinus"
 honorific: Saint
-title: "Saint Marinus"
 summary: "Stonemason who worked at Monte Titano in modern San Marino. Layman preacher who converted many, and ministered to Christians who had been sentenced to quarry work as punishment for their faith. Deacon, ordained by Saint Gaudentius of Rimini. Bishop of Rimini, Italy. Though he bel"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG/960px-Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Foila"
 honorific: Saint
-title: "Saint Foila"
 summary: "Sister of Saint Colgan. Co-patroness with him of the parishes of Kil-Faile and KilGolgan, County Galway, Ireland. No other information about her has survived."
 searchAliases:
   - "Faile"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Curio of Rome"
 honorific: Saint
-title: "Saint Curio of Rome"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Curio.jpg"
 died: "Rome, Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alban of Mainz"
 honorific: Saint
-title: "Saint Alban of Mainz"
 summary: "Priest. Worked with Saint Ursus. The two fled Naxos, Greece to Naples, Italy to escape Arian persecution. Saint Ambrose of Milan sent them on to Gaul and Germany to evangelize the pagans there. Ursus was killed on the way, but Alban continued to Mainz, Germany. He became famous a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alban-of-Mainz.jpg"
 searchAliases:

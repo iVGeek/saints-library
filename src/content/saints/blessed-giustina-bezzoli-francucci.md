@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giustina Bezzoli Francucci"
 honorific: Blessed
-title: "Blessed Giustina Bezzoli Francucci"
 summary: "Born to the nobility, Giustina grew up in a wealthy household. As a child, she frequently fasted on her own, and had a habit of hiding away to pray. She was drawn to the religious life, but her parents strongly opposed it, not wishing to lose their only daughter to the cloister."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giustina-Bezzoli-Francucci.jpg"
 birthYear: 1257

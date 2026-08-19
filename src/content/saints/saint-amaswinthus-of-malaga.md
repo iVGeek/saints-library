@@ -1,7 +1,6 @@
 ---
 name: "Saint Amaswinthus of Málaga"
 honorific: Saint
-title: "Saint Amaswinthus of Málaga"
 summary: "Monk and abbot for 42 years at Silva de Málaga at Andalusia, southern Spain."
 searchAliases:
   - "Amaswinthus of Silva"

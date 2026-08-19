@@ -1,7 +1,6 @@
 ---
 name: "Saint Modestus the Deacon"
 honorific: Saint
-title: "Saint Modestus the Deacon"
 summary: "Deacon. Martyred in the persecutions of Diocletian."
 deathYear: 304
 born: "Sardinia (part of modern Italy)"

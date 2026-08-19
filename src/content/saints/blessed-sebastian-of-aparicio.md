@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sebastian of Aparicio"
 honorific: Blessed
-title: "Blessed Sebastian of Aparicio"
 summary: "Born of Spanish peasants. Shepherd as a child, and a hired field hand as a young man, helping to support his family. Gentleman's valet at Salamanca. He travelled to Puebla, Mexico at age 31 where he built plows and wagons, and worked as a farm hand. Spent 10 years building a 466"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastian-of-Aparicio.jpg"
 searchAliases:

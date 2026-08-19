@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleutherius of Constantinople"
 honorific: Saint
-title: "Saint Eleutherius of Constantinople"
 summary: "Martyr. No other information has survived."
 died: "burned to death in Constantinople, date unknown"
 deathPlace: "date unknown"

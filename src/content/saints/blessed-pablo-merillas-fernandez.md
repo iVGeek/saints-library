@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pablo Merillas Fernández"
 honorific: Blessed
-title: "Blessed Pablo Merillas Fernández"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Carlos of Alcubilla de Nogales"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius VIII"
 honorific: Saint
-title: "Saint Anastasius VIII"
 summary: "Martyr. No other information has survived."
 died: "4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"
 deathPlace: "Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"

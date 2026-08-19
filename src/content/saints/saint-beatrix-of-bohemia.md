@@ -1,7 +1,6 @@
 ---
 name: "Saint Beatrix of Bohemia"
 honorific: Saint
-title: "Saint Beatrix of Bohemia"
 summary: "Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun."
 searchAliases:
   - "Bozena of Bohemia"

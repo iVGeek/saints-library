@@ -1,7 +1,6 @@
 ---
 name: "Saint Salustius of Rome"
 honorific: Saint
-title: "Saint Salustius of Rome"
 summary: "Martyr. No other information has survived."
 deathYear: 212
 died: "c.212 in Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paschasius of Vienne"
 honorific: Saint
-title: "Saint Paschasius of Vienne"
 summary: "Bishop of early 4th-century Vienne, France. No other information has survived."
 searchAliases:
   - "Paschase"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Antwerp"
 honorific: Saint
-title: "Saint Alexander of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

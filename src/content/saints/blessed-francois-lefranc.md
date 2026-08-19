@@ -1,7 +1,6 @@
 ---
 name: "Blessed François Lefranc"
 honorific: Blessed
-title: "Blessed François Lefranc"
 summary: "Eudist priest. One of the Martyrs of September."
 birthYear: 1739
 deathYear: 1792

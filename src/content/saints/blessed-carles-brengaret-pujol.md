@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carles Brengaret Pujol"
 honorific: Blessed
-title: "Blessed Carles Brengaret Pujol"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Carles Rafael"

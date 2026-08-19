@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelino Rebollar Campo"
 honorific: Blessed
-title: "Blessed Marcelino Rebollar Campo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Julián Marcelino"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carmen Godoy Calvache de Coromina"
 honorific: Blessed
-title: "Blessed Carmen Godoy Calvache de Coromina"
 summary: "Lay woman, married to Antonio María Colomina Bignati in the archdiocese of Granada, Spain. Mother of four, two of whom died in infancy. Active in her , Carmen helped raise funds to rebuild the church after it was burned by Communists in 1932. She had personal devotion to the poor"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Godoy-Calvache-de-Coromina.jpg"
 birthYear: 1888

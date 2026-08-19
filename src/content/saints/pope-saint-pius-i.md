@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Pius I"
 honorific: Saint
-title: "Pope Saint Pius I"
 summary: "May have been born a slave. May have been the brother of Hermas, author of The Shepherd. Tenth Pope. Reportedly established the date for Easter as the first Sunday after the March full moon. Established rules for the conversion of Jews. Opposed Marcion the agnostic. May have been"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pope_Pius_I.jpg"
 deathYear: 155

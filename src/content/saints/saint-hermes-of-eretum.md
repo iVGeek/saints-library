@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermes of Eretum"
 honorific: Saint
-title: "Saint Hermes of Eretum"
 summary: "Martyr."
 searchAliases:
   - "Ermete"

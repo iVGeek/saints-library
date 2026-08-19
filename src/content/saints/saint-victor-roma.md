@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor Roma"
 honorific: Saint
-title: "Saint Victor Roma"
 summary: "Martyr."
 searchAliases:
   - "Victor of Basilla"

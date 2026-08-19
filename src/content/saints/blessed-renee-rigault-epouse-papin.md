@@ -1,7 +1,6 @@
 ---
 name: "Blessed Renée Rigault épouse Papin"
 honorific: Blessed
-title: "Blessed Renée Rigault épouse Papin"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1750
 deathYear: 1794

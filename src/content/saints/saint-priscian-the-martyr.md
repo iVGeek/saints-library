@@ -1,7 +1,6 @@
 ---
 name: "Saint Priscian the Martyr"
 honorific: Saint
-title: "Saint Priscian the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 10

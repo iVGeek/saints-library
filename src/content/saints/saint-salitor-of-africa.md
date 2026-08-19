@@ -1,7 +1,6 @@
 ---
 name: "Saint Salitor of Africa"
 honorific: Saint
-title: "Saint Salitor of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 searchAliases:
   - "Salutaris of Africa"

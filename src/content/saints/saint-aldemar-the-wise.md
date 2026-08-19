@@ -1,7 +1,6 @@
 ---
 name: "Saint Aldemar the Wise"
 honorific: Saint
-title: "Saint Aldemar the Wise"
 summary: "Monk at Monte Cassino Abbey. Spiritual director of a convent at Capua, Italy, a house founded by princess Aloara. Known as a miracle worker. A dispute developed between the princess and Aldemar's abbot; she wanted him to stay, the abbot wanted him back at Monte Cassino. To escape"
 searchAliases:
   - "Aldemar of Capua"

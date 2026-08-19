@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isabella of France"
 honorific: Blessed
-title: "Blessed Isabella of France"
 summary: "Born a princess, the daughter of King Louis VIII of France and Blanche of Castile; sister of Saint Louis IX; aunt of Saint Louis of Tolouse. Declined a marriage offer from the German emperor in order to found a Poor Clare convent at Longchamps near Paris, France where she lived a"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Isabella_of_France_by_Froissart.png"
 searchAliases:

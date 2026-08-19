@@ -1,7 +1,6 @@
 ---
 name: "Saint Matronianus of Milan"
 honorific: Saint
-title: "Saint Matronianus of Milan"
 summary: "Hermit. No other information has survived."
 searchAliases:
   - "Matronian"

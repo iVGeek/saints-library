@@ -1,7 +1,6 @@
 ---
 name: "Saint Altfried of Münster"
 honorific: Saint
-title: "Saint Altfried of Münster"
 summary: "Monk. Priest. Fifth abbot of the monastery of Werden, Germany. Abbot of the monastery of Helmstedt, Germany. Nephew of Saint Liudger, first bishop of Münster, Germany; related to Saint Gerfried of Münster, the second bishop; Altfried served as third bishop from 839 until his deat"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Altfried-of-Munster.jpg"
 searchAliases:

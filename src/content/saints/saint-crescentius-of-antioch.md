@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentius of Antioch"
 honorific: Saint
-title: "Saint Crescentius of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"

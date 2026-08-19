@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus"
 honorific: Saint
-title: "Saint Secundus"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:

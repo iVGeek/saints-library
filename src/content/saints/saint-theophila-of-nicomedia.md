@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophila of Nicomedia"
 honorific: Saint
-title: "Saint Theophila of Nicomedia"
 summary: "Nun. Martyred in the persecutions of Diocletian. One of the 20,000 Martyrs of Nicomedia."
 searchAliases:
   - "Theofile"

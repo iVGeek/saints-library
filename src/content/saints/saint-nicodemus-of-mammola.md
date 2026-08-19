@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicodemus of Mammola"
 honorific: Saint
-title: "Saint Nicodemus of Mammola"
 summary: "Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a young man, Nicodemus was disgusted by the mis-spent lives of his contemporaries, and was drawn to the monastic life. He tried to join the monks in the San Mercur"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/San_Nicodemo_-_Statua01.jpg/960px-San_Nicodemo_-_Statua01.jpg"
 searchAliases:

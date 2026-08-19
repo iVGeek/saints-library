@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaime María Carretero Rojas"
 honorific: Blessed
-title: "Blessed Jaime María Carretero Rojas"
 summary: "Professed cleric in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936

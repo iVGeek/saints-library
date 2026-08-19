@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatinus of Alexandria"
 honorific: Saint
-title: "Saint Donatinus of Alexandria"
 summary: "Martyr. No other information has survived."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"

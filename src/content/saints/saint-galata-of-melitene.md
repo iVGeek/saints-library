@@ -1,7 +1,6 @@
 ---
 name: "Saint Galata of Melitene"
 honorific: Saint
-title: "Saint Galata of Melitene"
 summary: "Martyr."
 searchAliases:
   - "Galatas"

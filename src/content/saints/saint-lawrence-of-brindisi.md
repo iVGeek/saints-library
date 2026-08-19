@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawrence of Brindisi"
 honorific: Saint
-title: "Saint Lawrence of Brindisi"
 summary: "Son of Guglielmo de Rossi and Elisabetta Masella. He felt an early call to religious life, and was educated by the Friars Minor Conventuals of Brindisi, Italy. His father died when the boy was twelve. Studied in Venice. Joined the Capuchin Friars in 1575 at age 16, taking the nam"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/San_Lorenzo_da_Brindisi.jpg"
 searchAliases:

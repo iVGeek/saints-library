@@ -1,7 +1,6 @@
 ---
 name: "Venerable Luigi Savaré"
 honorific: Venerable
-title: "Venerable Luigi Savaré"
 summary: "Priest in the diocese of Lodi, Italy."
 birthYear: 1878
 deathYear: 1949

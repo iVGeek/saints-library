@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clemente Vea Balaguer"
 honorific: Blessed
-title: "Blessed Clemente Vea Balaguer"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Clemente Adolfo"

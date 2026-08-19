@@ -1,7 +1,6 @@
 ---
 name: "Saint Chrysogonus of Lucania"
 honorific: Saint
-title: "Saint Chrysogonus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

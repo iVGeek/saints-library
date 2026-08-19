@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jules-Honoré-Cyprien Pazery de Thorame"
 honorific: Blessed
-title: "Blessed Jules-Honoré-Cyprien Pazery de Thorame"
 summary: "Born to the French nobility, the son of Pierre Symphorien de Pazery, a knight, the lord of Thorame, and councilor to the French parliament, and of Catherine Lordonne; Jules was baptized at the age of one day. He earned as Master's degree in Paris, France on 17 February 1784, and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-September1.jpg"
 birthYear: 1763

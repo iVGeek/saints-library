@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxentia of Beauvais"
 honorific: Saint
-title: "Saint Maxentia of Beauvais"
 summary: "Anchoress near Senlis, France. Martyr."
 born: "Ireland"
 died: "martyred in Pont-Sainte-Maxence, France"

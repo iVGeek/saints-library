@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantine of Amorium"
 honorific: Saint
-title: "Saint Constantine of Amorium"
 summary: "Secretary to Saint Constantine Baboutzikos. One of the 42 Martyrs of Amorium who were captured by invading Muslims, imprisoned for seven years, and then murdered when they refused to convert to Islam. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg"
 deathYear: 845

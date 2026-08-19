@@ -2,7 +2,6 @@
 name: "Blessed Alberto José Larrazábal Michelena"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Los_Venezolanos_en_el_exterior_%28IA_losvenezolanosen00land%29.pdf/page1-500px-Los_Venezolanos_en_el_exterior_%28IA_losvenezolanosen00land%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Alberto José Larrazábal Michelena"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Junián Alberto"

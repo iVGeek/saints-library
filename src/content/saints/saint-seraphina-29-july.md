@@ -1,7 +1,6 @@
 ---
 name: "Saint Seraphina"
 honorific: Saint
-title: "Saint Seraphina"
 summary: "Martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg"
 searchAliases:

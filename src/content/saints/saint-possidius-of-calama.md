@@ -1,7 +1,6 @@
 ---
 name: "Saint Possidius of Calama"
 honorific: Saint
-title: "Saint Possidius of Calama"
 summary: "Spiritual student of Saint Augustine of Hippo. Bishop of Calama, Numidia in North Africa in 397. He preached against Arianism, Donatism and Pelagianism in his diocese. He and his priests were assaulted by followers of these heresies, and his churches damaged; Possidius was eventu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Possidius-of-Calama.jpg"
 searchAliases:

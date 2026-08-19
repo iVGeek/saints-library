@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonincontri of San Miniato"
 honorific: Blessed
-title: "Blessed Bonincontri of San Miniato"
 summary: "A spiritual student of Saint Francis of Assisi, Bonincontri was one of the first Franciscan friars, helping found the Castrum Rudilphi convent in the diocese of Bourges, France. Known as a miracle worker."
 searchAliases:
   - "Bonincontro"

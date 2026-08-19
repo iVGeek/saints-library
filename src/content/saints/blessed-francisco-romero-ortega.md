@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Romero Ortega"
 honorific: Blessed
-title: "Blessed Francisco Romero Ortega"
 summary: "The son of a tailor, the brother of Blessed José Romero Ortega, after studies at the seminary of San Indalecio de Almería, Francisco was ordained a priest in the diocese of Almería, Spain in May 1895; he served in this vocation for over 40 years. Parish priest in several location"
 birthYear: 1872
 deathYear: 1936

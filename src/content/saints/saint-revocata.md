@@ -1,7 +1,6 @@
 ---
 name: "Saint Revocata"
 honorific: Saint
-title: "Saint Revocata"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

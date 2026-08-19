@@ -1,7 +1,6 @@
 ---
 name: "Saint Veranus of Vence"
 honorific: Saint
-title: "Saint Veranus of Vence"
 summary: "Son of Galla, who became a nun in later life, and Saint Eucherius of Lyon; brother of Saint Salonius of Geneva. Educated at Lérins Abbey where he became a monk. Bishop of Vence, France."
 searchAliases:
   - "Veran"

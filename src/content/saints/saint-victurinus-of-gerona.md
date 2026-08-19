@@ -1,7 +1,6 @@
 ---
 name: "Saint Victurinus of Gerona"
 honorific: Saint
-title: "Saint Victurinus of Gerona"
 summary: "Martyr. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"

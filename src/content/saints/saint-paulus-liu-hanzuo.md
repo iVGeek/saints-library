@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus Liu Hanzuo"
 honorific: Venerable
-title: "Saint Paulus Liu Hanzuo"
 summary: "Raised in a poor Christian family, Paulus worked as a shepherd in his youth, and had little education. Feeling a call to the priesthood, he entered seminary at age 24; because he had no Latin, he was allowed to study philosophy and theology in Chinese. Ordained in his early 30's,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China-1.jpg"
 searchAliases:

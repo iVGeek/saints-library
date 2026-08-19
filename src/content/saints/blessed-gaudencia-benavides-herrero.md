@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaudencia Benavides Herrero"
 honorific: Blessed
-title: "Blessed Gaudencia Benavides Herrero"
 summary: "Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1937

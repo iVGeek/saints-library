@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethernan"
 honorific: Saint
-title: "Saint Ethernan"
 summary: "Born to the Scottish nobility, he was educated and consecrated in Ireland as a bishop, then returned home to evangelize the areas of Buchan, Aberdeenshire, Scotland."
 searchAliases:
   - "Eddran"

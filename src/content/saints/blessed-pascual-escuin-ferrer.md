@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pascual Escuin Ferrer"
 honorific: Blessed
-title: "Blessed Pascual Escuin Ferrer"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Marciano Pascual"

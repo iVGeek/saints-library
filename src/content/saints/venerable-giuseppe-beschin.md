@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giuseppe Beschin"
 honorific: Venerable
-title: "Venerable Giuseppe Beschin"
 summary: "Priest. Member of the Order of Friars Minor, taking the name Ignazio."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Beschin.jpg"
 searchAliases:

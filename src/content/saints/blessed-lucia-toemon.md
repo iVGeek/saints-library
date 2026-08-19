@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia Toemon"
 honorific: Blessed
-title: "Blessed Lucia Toemon"
 summary: "Lay woman in the diocese of Kyoto, Japan. Married to Blessed Thomas Toemon. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Owari (in modern Aichi), Japan"

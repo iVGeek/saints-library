@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of the Salarian Way"
 honorific: Saint
-title: "Martyrs of the Salarian Way"
 summary: "A group of 260 Christians who, for their faith, were condemned to road work on the Salarian Way in Rome, Italy during the persecutions of Claudius II. When they were no longer needed for work, they were publicly murdered in the amphitheatre. Martyrs."
 deathYear: 269
 died: "shot with arrows in 269 in Rome, Italy"

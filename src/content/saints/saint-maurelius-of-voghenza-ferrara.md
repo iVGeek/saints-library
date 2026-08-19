@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurelius of Voghenza-Ferrara"
 honorific: Saint
-title: "Saint Maurelius of Voghenza-Ferrara"
 summary: " That's what we're relatively sure about. The legend writers, though, they invented all kinds of things Bishop of Voghenza, Italy, the modern titutal diocese of Vicohabentia; may have been the last bishop of that diocese before the area was joined to the diocese of Ferrara, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maurelius-of-Voghenza-Ferrara.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Osanna of Northumbria"
 honorific: Saint
-title: "Saint Osanna of Northumbria"
 summary: "Princess of Northumbria (in modern England) who became a nun."
 searchAliases:
   - "Osanna of Howden"

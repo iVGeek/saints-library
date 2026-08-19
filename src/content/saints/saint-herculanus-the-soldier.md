@@ -1,7 +1,6 @@
 ---
 name: "Saint Herculanus the Soldier"
 honorific: Saint
-title: "Saint Herculanus the Soldier"
 summary: "Second century imperial Roman soldier. Converted by Pope Saint Alexander I, and martyred soon after."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martí Anglés Oliveras"
 honorific: Blessed
-title: "Blessed Martí Anglés Oliveras"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Victori"

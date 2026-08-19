@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Casademunt Ribas"
 honorific: Blessed
-title: "Blessed Francesc Casademunt Ribas"
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Benild Josep"

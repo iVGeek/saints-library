@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margaretha Flesch"
 honorific: Blessed
-title: "Blessed Margaretha Flesch"
 summary: "Daughter of an oil-seed miller, the oldest of seven children. When her parents died, Margaretha worked as a day labourer to help support her siblings. In 1861, she and her sister Marianne moved into quarters at the Chapel of the Holy Cross in Waldbreitbach, Germany, trusting God"
 image: "http://catholicsaints.info/wp-content/uploads/Margaretha-Flesch.jpg"
 searchAliases:

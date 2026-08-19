@@ -2,7 +2,6 @@
 name: "Blessed Anthony Middleton"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Warwick_Mill_-_Middleton_-_geograph.org.uk_-_2717940.jpg/960px-Warwick_Mill_-_Middleton_-_geograph.org.uk_-_2717940.jpg"
 honorific: Blessed
-title: "Blessed Anthony Middleton"
 summary: "Son of Ambrose Middleton of Barnard Castle, Durham, England, and Cecil, daughter of Anthony Crackenthorpe of Howgill Castle, Westmoreland, England. Entered the English College at Rheims, France on 9 January 1582. Ordained on 30 May 1586. Returned to England to minister to covert"
 deathYear: 1590
 born: "Middleton Tyas, North Yorkshire, England"

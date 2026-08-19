@@ -1,7 +1,6 @@
 ---
 name: "Saint Ireneus of Rome"
 honorific: Saint
-title: "Saint Ireneus of Rome"
 summary: "Martyr."
 died: "cemetery of Saint Lawrence, Via Tiburtina, Rome, Italy"
 deathPlace: "Via Tiburtina, Rome, Italy"

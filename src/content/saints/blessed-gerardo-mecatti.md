@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerardo Mecatti"
 honorific: Blessed
-title: "Blessed Gerardo Mecatti"
 summary: "A member of the Knights of Malta, Gerardo was inspired by the example of Saint Francis of Assisi, gave all his wealth to the poor, became a Franciscan tertiary and withdrew to live as a prayerful hermit. He came into the city for Mass, to pray in churches for the souls in Purgato"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardo-Mecatti.jpg"
 birthYear: 1174

@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnina of Anazarbus"
 honorific: Saint
-title: "Saint Domnina of Anazarbus"
 summary: "Young Christian woman tortured and martyred in the persecutions of Lysias."
 searchAliases:
   - "Donnina"

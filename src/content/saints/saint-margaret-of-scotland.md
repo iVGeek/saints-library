@@ -1,7 +1,6 @@
 ---
 name: "Saint Margaret of Scotland"
 honorific: Saint
-title: "Saint Margaret of Scotland"
 summary: "Granddaughter of King Edmund Ironside of England. Great-niece of Saint Stephen of Hungary. Born in Hungary while her family was in exile due to the Danish invasion of England, she still spent much of her youth in the British Isles. While fleeing the invading army of William the C"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Margaret-of-Scotland.jpg"
 searchAliases:

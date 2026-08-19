@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Moya Collado"
 honorific: Blessed
-title: "Blessed Juan Moya Collado"
 summary: "Young layman in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1938

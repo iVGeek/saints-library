@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Faúndez López"
 honorific: Blessed
-title: "Blessed Miguel Faúndez López"
 summary: "Franciscan priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Antonio"

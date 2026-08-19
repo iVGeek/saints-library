@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Gaza"
 honorific: Saint
-title: "Saint Stephen of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

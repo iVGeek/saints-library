@@ -1,7 +1,6 @@
 ---
 name: "Saint Anacharius of Auxerre"
 honorific: Saint
-title: "Saint Anacharius of Auxerre"
 summary: "Born to the 6th-century nobility. Educated at the court of King Guntram of Burgundy. Spiritual student of Saint Syagrius of Autun. Bishop of Auxerre, France in 572. Attended the Council of Paris in 573 and the Council of Macon in 583. Supported the praying of the Breviary and the"
 searchAliases:
   - "Aunacharius"

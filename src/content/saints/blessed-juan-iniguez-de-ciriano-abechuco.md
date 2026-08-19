@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Iñiguez de Ciriano Abechuco"
 honorific: Blessed
-title: "Blessed Juan Iñiguez de Ciriano Abechuco"
 summary: "Picpus priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Isidro"

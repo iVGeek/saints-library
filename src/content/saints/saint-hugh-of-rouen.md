@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh of Rouen"
 honorific: Saint
-title: "Saint Hugh of Rouen"
 summary: "Benedictine monk at Fontenelle Abbey. Primicerius of Metz, France. Bishop of Rouen, France in 722. Bishop of Paris, France. Abbot at Fontenelle. Abbot at Jumieges. He used these positions, several of which he held at once, to inspire and support piety and learning in his diocese,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hugh-of-Rouen.jpg"
 searchAliases:

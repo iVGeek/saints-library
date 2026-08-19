@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerian of Alexandria"
 honorific: Saint
-title: "Saint Valerian of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "drowned c.300 at Alexandria, Egypt"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeritus of Rome"
 honorific: Saint
-title: "Saint Emeritus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

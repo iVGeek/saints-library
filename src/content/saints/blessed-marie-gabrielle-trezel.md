@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Gabrielle Trezel"
 honorific: Blessed
-title: "Blessed Marie-Gabrielle Trezel"
 summary: "Discalced Carmelite nun, professed on 12 December 1771. Sang in the convent choir. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christian persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Goeric of Metz"
 honorific: Saint
-title: "Saint Goeric of Metz"
 summary: "Nephew of Saint Arnulf of Metz. Married and father of two daughters, both of whom became nuns, and one of whom is Saint Precia of Epinal. Member of the court of King Dagobert. He was blind for a while, but miraculously healed. Priest, ordained in 627. Bishop of Metz, France."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Saint_Go%C3%A9ry_et_ses_filles.jpg"
 searchAliases:

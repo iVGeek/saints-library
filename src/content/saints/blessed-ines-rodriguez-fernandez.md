@@ -1,7 +1,6 @@
 ---
 name: "Blessed Inés Rodríguez Fernández"
 honorific: Blessed
-title: "Blessed Inés Rodríguez Fernández"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Inés of Saint Joseph"

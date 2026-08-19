@@ -1,7 +1,6 @@
 ---
 name: "Saint Pion of Smyrna"
 honorific: Saint
-title: "Saint Pion of Smyrna"
 summary: "Martyr."
 searchAliases:
   - "Phion"

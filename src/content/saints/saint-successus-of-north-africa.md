@@ -1,7 +1,6 @@
 ---
 name: "Saint Successus of North Africa"
 honorific: Saint
-title: "Saint Successus of North Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

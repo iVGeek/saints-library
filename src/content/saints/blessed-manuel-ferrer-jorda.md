@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Ferrer Jordá"
 honorific: Blessed
-title: "Blessed Manuel Ferrer Jordá"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Benito María of Burriana"

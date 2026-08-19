@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Remi-Nicolas Benoist"
 honorific: Blessed
-title: "Blessed Louis-Remi-Nicolas Benoist"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792

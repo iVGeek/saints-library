@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph of Volokolamsk"
 honorific: Saint
-title: "Saint Joseph of Volokolamsk"
 summary: "Monk. Abbot at the monastery of Borovsk, Russia in 1477, but his strict discipline did not sit well with his brothers. Founded the monastery at Volokolamsk, Russia in 1479, and served as its abbot. Reformer in his houses, stressing discipline, fasting, obedience, devotion to the"
 searchAliases:
   - "Ivan Sanin"

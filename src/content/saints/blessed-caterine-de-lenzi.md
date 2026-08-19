@@ -1,7 +1,6 @@
 ---
 name: "Blessed Caterine de' Lenzi"
 honorific: Blessed
-title: "Blessed Caterine de' Lenzi"
 summary: "Born to the Sienese nobility, the daughter of Angelo and Bartolomea di Benedetto, from the time she was a small girl, Caterine want to enter religious life. She specifically came to be devoted to Saint Catherine of Siena, wanted to become a Dominican tertiary, and when old enough"
 searchAliases:
   - "Catherine the Second (as opposed to Saint Siena)"

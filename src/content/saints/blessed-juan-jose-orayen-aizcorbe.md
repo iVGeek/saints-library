@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan José Orayen Aizcorbe"
 honorific: Blessed
-title: "Blessed Juan José Orayen Aizcorbe"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936

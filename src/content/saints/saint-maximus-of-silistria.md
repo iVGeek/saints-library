@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Silistria"
 honorific: Saint
-title: "Saint Maximus of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

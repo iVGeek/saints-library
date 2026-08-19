@@ -1,7 +1,6 @@
 ---
 name: "Saint Thea of Alexandria"
 honorific: Saint
-title: "Saint Thea of Alexandria"
 summary: "Virgin who dedicated herself to God. Arrested, tortured and martyred for her faith in the persecutions of Maximinus II."
 deathYear: 307
 born: "Gaza, Palestine"

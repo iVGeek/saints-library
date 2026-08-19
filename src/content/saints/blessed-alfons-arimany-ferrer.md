@@ -2,7 +2,6 @@
 name: "Blessed Alfons Arimany Ferrer"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/86/12ALFONSO.jpg"
 honorific: Blessed
-title: "Blessed Alfons Arimany Ferrer"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Alfons of the Heart of Mary"

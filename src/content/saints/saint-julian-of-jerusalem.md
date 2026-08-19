@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Jerusalem"
 honorific: Saint
-title: "Saint Julian of Jerusalem"
 summary: "Around the year 454, Julian felt a call to monastic life and travelled to Jerusalem. There he found all the monasteries involved in the Monophysite heresey, and in schism against their bishop, Juvenal of Jerusalem. Julian was about to leave when he met a woman name Flavia who was"
 searchAliases:
   - "Giuliano"

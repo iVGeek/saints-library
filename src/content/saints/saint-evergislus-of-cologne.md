@@ -1,7 +1,6 @@
 ---
 name: "Saint Evergislus of Cologne"
 honorific: Saint
-title: "Saint Evergislus of Cologne"
 summary: "Fifth-century bishop of Cologne, Germany. Murdered by heathen robbers. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Evergislus-of-Cologne.jpg"
 searchAliases:

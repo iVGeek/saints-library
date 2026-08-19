@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyprian of Africa"
 honorific: Saint
-title: "Saint Cyprian of Africa"
 summary: "One of a group of 13 Christians murdered together for their faith in Africa, date unknown. No details have survived."
 region: "Africa"
 feastDay:

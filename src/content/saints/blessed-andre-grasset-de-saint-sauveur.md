@@ -1,7 +1,6 @@
 ---
 name: "Blessed André Grasset de Saint-Sauveur"
 honorific: Blessed
-title: "Blessed André Grasset de Saint-Sauveur"
 summary: "Immigrant from Canada to France where he served as a priest in the archdiocese of Sens and canon of the cathedral there. During the persecutions of the French Revolution, he was arrested and murdered for refusing to take an oath of allegiance to civil constitution. One of the Mar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-André-Grasset-de-Saint-Sauveur.jpg"
 birthYear: 1758

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucilla of Novellara"
 honorific: Saint
-title: "Saint Lucilla of Novellara"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "26 March 303\nrelics enshrined in the parish of Saint Stephen in Novellara, Italy in 1603"

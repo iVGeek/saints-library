@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Onillon veuve Onillon"
 honorific: Blessed
-title: "Blessed Jeanne Onillon veuve Onillon"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1753
 deathYear: 1794

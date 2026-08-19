@@ -1,7 +1,6 @@
 ---
 name: "Saint Gajola of North Africa"
 honorific: Saint
-title: "Saint Gajola of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Gaiola"

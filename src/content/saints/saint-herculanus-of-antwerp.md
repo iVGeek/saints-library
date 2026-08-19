@@ -1,7 +1,6 @@
 ---
 name: "Saint Herculanus of Antwerp"
 honorific: Saint
-title: "Saint Herculanus of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

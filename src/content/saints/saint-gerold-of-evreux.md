@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerold of Evreux"
 honorific: Saint
-title: "Saint Gerold of Evreux"
 summary: "Courtier to Blessed Charlemagne. Left court life to become a monk at the abbey of Fontenelle in Normandy, France. Bishop of Evreux, France in 787. Late in life he resigned his see and returned to life as a monk at Fontenelle."
 searchAliases:
   - "Gerold of Fontenelle"

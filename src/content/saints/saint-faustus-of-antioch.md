@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Antioch"
 honorific: Saint
-title: "Saint Faustus of Antioch"
 summary: "Martyr."
 died: "Antioch (in modern Turkey)"
 region: "England"

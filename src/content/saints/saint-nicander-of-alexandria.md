@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicander of Alexandria"
 honorific: Saint
-title: "Saint Nicander of Alexandria"
 summary: "Physician noted for his charity, for ministering to and treating people imprisoned for their faith, and giving Christian burial to martyrs who died in the persecutions of Diocletian. Imprisoned, tortured and martyred for his faith and good works."
 searchAliases:
   - "Nicander the Physician"

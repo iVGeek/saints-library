@@ -1,7 +1,6 @@
 ---
 name: "Saint Partinus of Corinth"
 honorific: Saint
-title: "Saint Partinus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

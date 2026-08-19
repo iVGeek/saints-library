@@ -1,7 +1,6 @@
 ---
 name: "Saint Macrinus of Noviodunum"
 honorific: Saint
-title: "Saint Macrinus of Noviodunum"
 summary: "Martyr."
 died: "Noviodunum, Lower Moesia (near modern Isaccea, Romania"
 deathPlace: "Lower Moesia (near modern Isaccea, Romania"

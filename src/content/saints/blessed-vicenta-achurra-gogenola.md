@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicenta Achurra Gogenola"
 honorific: Blessed
-title: "Blessed Vicenta Achurra Gogenola"
 summary: "Joined the Carmelite Missionaries in 1910, began her formal novitiate at Gracia-Barcelona, Spain in 1915, her profession in 1916, and her perpetual vows in 1921. Had a great devotion to the Sacred Heart of Jesus and Our Lady of Mount Carmel. Worked at the Las Corts mental hospita"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicenta-Achurra-Gogenola.jpg"
 searchAliases:

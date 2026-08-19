@@ -1,7 +1,6 @@
 ---
 name: "Saint Taurio of Amphipolis"
 honorific: Saint
-title: "Saint Taurio of Amphipolis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Taurion"

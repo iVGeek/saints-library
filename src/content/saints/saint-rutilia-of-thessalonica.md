@@ -1,7 +1,6 @@
 ---
 name: "Saint Rutilia of Thessalonica"
 honorific: Saint
-title: "Saint Rutilia of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

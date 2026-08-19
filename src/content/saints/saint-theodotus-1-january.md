@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodotus"
 honorific: Saint
-title: "Saint Theodotus"
 summary: "Martyr."
 died: "beheaded"
 feastDay:

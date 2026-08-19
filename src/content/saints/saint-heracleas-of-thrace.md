@@ -1,7 +1,6 @@
 ---
 name: "Saint Heracleas of Thrace"
 honorific: Saint
-title: "Saint Heracleas of Thrace"
 summary: "Martyred in Thrace. No other information has survived."
 region: "England"
 feastDay:

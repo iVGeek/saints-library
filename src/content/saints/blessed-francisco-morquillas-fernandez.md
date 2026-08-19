@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Morquillas Fernández"
 honorific: Blessed
-title: "Blessed Francisco Morquillas Fernández"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

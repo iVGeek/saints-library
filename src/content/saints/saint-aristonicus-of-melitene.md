@@ -1,7 +1,6 @@
 ---
 name: "Saint Aristonicus of Melitene"
 honorific: Saint
-title: "Saint Aristonicus of Melitene"
 summary: "Martyr."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Sánchez López"
 honorific: Blessed
-title: "Blessed Tomás Sánchez López"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1890
 deathYear: 1936

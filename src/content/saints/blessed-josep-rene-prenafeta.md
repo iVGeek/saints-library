@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Reñé Prenafeta"
 honorific: Blessed
-title: "Blessed Josep Reñé Prenafeta"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Reñé-Prenafeta.jpg"
 birthYear: 1903

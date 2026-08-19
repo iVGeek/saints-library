@@ -1,7 +1,6 @@
 ---
 name: "Saint Philogonius of Antioch"
 honorific: Saint
-title: "Saint Philogonius of Antioch"
 summary: "Married. Lawyer. Widower. Priest. Bishop. Patriarch of Antioch in 319. One of the first to oppose Arianism. Saint John Chrysostom preached a beautiful eulogy on Philogonius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Philogonius-Bishop.jpg"
 searchAliases:

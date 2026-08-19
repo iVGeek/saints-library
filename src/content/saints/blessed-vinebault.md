@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vinebault"
 honorific: Blessed
-title: "Blessed Vinebault"
 summary: "Shepherd at Villeneuve-la-Lionne, near the Ferté-Gaucher in Brie Champagne, France. Attended school in Ferté-Gaucher. Miracle worker."
 searchAliases:
   - "Vinebaldo"

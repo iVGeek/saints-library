@@ -1,7 +1,6 @@
 ---
 name: "Saint Ermine"
 honorific: Saint
-title: "Saint Ermine"
 summary: "Sixth century nun. Honoured in Ireland."
 searchAliases:
   - "Ermina"

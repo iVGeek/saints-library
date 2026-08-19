@@ -1,7 +1,6 @@
 ---
 name: "Saint Giusto of Novalesa"
 honorific: Saint
-title: "Saint Giusto of Novalesa"
 summary: "Monk of Novalesa Abbey. Martyred by Saracen raiders."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Novalesa.jpg"
 searchAliases:

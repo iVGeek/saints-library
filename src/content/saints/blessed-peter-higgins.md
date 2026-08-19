@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Higgins"
 honorific: Blessed
-title: "Blessed Peter Higgins"
 summary: "Joined the Dominicans in 1622. Priest. Prior of the Dominican house at Naas. He was ordered to acknowledge the English king as head of the Church; he declined. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Higgins.jpg"
 searchAliases:

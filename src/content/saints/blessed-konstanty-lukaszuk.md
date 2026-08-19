@@ -1,7 +1,6 @@
 ---
 name: "Blessed Konstanty Lukaszuk"
 honorific: Blessed
-title: "Blessed Konstanty Lukaszuk"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1829

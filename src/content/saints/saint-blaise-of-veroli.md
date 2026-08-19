@@ -1,7 +1,6 @@
 ---
 name: "Saint Blaise of Veroli"
 honorific: Saint
-title: "Saint Blaise of Veroli"
 summary: "Martyr."
 searchAliases:
   - "Blasius"

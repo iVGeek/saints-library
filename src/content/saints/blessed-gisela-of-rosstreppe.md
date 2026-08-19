@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gisela of Rosstreppe"
 honorific: Blessed
-title: "Blessed Gisela of Rosstreppe"
 summary: "Born to the royal family of Eastphalia; sister of Blessed Liudbirg of Thale. Nun."
 died: "late 9th century in Harz, Germany of natural causes"
 deathPlace: "Germanynatural causes"

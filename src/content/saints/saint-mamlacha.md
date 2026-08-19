@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamlacha"
 honorific: Saint
-title: "Saint Mamlacha"
 summary: "Nun. Martyred in the persecutions of king Shapur II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mamlacha.jpg"
 died: "Persia"

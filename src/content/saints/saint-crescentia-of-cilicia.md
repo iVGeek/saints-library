@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentia of Cilicia"
 honorific: Saint
-title: "Saint Crescentia of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Criscentia"

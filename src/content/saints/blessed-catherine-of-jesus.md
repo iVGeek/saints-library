@@ -1,7 +1,6 @@
 ---
 name: "Blessed Catherine of Jesus"
 honorific: Blessed
-title: "Blessed Catherine of Jesus"
 summary: "Poor Clare nun at the monastery of Saint Anthony of Padua in Baeza, Spain."
 searchAliases:
   - "Caterina"

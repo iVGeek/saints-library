@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Iturrarán Laucirica"
 honorific: Blessed
-title: "Blessed Miguel Iturrarán Laucirica"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ponticus of Lugdunum"
 honorific: Saint
-title: "Saint Ponticus of Lugdunum"
 summary: "A young boy, one of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob, arrested and tried for their faith, and murdered in the persecutions of Marcus Aurelius. A letter describing their fate, possibly written by Saint Irenaeus"
 deathYear: 177
 died: "mauled by animals in 177 in the amphitheatre of Lugdunum, Gaul (modern France)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Clelia Barbieri"
 honorific: Saint
-title: "Saint Clelia Barbieri"
 summary: "From her earliest life, Clelia paid no attention to this world, focused solely on the spiritual life. Founded the Little Sisters of the Mother of Sorrows who concentrate on ministering in hospitals and elementary schools to the sick, the aged, the lonely, and a prayer ministry fo"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Clelia_Barbieri.jpg"
 searchAliases:

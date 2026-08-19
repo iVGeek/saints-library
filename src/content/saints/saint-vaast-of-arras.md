@@ -1,7 +1,6 @@
 ---
 name: "Saint Vaast of Arras"
 honorific: Saint
-title: "Saint Vaast of Arras"
 summary: "Hermit. Worked with Saint Remigius to convert the Franks. Priest. Instructed King Clovis in the faith. His miraculous healing of the blind helped convince some of Clovis's pagan court of the power of God (and led to Vaast's patronage against eye trouble). First bishop of Arras, F"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Vaast.jpg"
 searchAliases:

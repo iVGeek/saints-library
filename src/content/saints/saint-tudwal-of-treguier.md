@@ -1,7 +1,6 @@
 ---
 name: "Saint Tudwal of Tréguier"
 honorific: Saint
-title: "Saint Tudwal of Tréguier"
 summary: "Son of King Hoel I and Saint Koupaïa; cousin of King Deroc of Dumnonia. Monk in Wales. Friend and co-worker with Saint Briarch. Evangelized in Brittany. Founded the monastery of Lan Pabu at Leon, Spain. Bishop of Tréguier (Treher), Brittany. Advisor to King Childebert I. Several"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tudwal-of-Tréguier.jpg"
 searchAliases:

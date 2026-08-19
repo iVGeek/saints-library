@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Cilicia"
 honorific: Saint
-title: "Saint Zosimus of Cilicia"
 summary: "Tortured for his faith in Cilicia (part of modern Turkey) in the persecutions of Diocletian. His heroic suffering was the cause for the conversion of Saint Athanasius. He survived the persecutions to become a hermit for the remainder of his life. Because of his suffering and will"
 region: "England"
 feastDay:

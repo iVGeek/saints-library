@@ -1,7 +1,6 @@
 ---
 name: "Saint Praetexatus of Rouen"
 honorific: Saint
-title: "Saint Praetexatus of Rouen"
 summary: "Bishop of Rouen, France from 549, a position he held for 35 years. Because of his involvement in political intrigue, the French king had him brought before a court of bishops on a charge of fomenting rebellion. Praetextatus denied the charges, but agreed to exile for several year"
 image: "http://catholicsaints.info/wp-content/uploads/Praetexatus-of-Rouen.jpg"
 searchAliases:

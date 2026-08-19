@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego de Azevedo"
 honorific: Blessed
-title: "Blessed Diego de Azevedo"
 summary: "Courtier to Prince Ferdinand. He was sent to escort the fiance' of the prince, but when Diego arrived he found that she had recently died. He heard Saint Dominic de Guzman preaching, and decided to give up court life for religious. He travelled with Saint Dominic and became one o"
 searchAliases:
   - "Didacus"

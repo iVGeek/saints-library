@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthimus of Aegea"
 honorific: Saint
-title: "Saint Anthimus of Aegea"
 summary: "Martyred with Saints Cosmas and Damian in the persecutions of Diocletian."
 deathYear: 303
 died: "tortured and beheaded c.303 in Aegea, Cilicia (modern Ayas, Turkey)"

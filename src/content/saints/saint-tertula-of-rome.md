@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertula of Rome"
 honorific: Saint
-title: "Saint Tertula of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

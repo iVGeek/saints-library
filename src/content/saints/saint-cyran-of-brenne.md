@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyran of Brenne"
 honorific: Saint
-title: "Saint Cyran of Brenne"
 region: "France"
 feastDay:
   month: 12

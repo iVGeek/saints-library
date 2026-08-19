@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Aranha"
 honorific: Blessed
-title: "Blessed Francis Aranha"
 summary: "Jesuit missionary in India who entered the Order on 1 November 1571, assigned first to colleges in Cochin and Goa. In 1577 he was assigned to the Salsette mission where he worked to build churches and chapels. While they were raising a cross, he and some brother Jesuits were atta"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cuncolim.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogation of Africa"
 honorific: Saint
-title: "Saint Rogation of Africa"
 summary: "African martyr. No other information has survived."
 searchAliases:
   - "Rogatianus"

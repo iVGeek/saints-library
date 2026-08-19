@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Bertrán"
 honorific: Blessed
-title: "Blessed Luis Bertrán"
 summary: "Relative of Saint Louis Bertrán. Joined the Dominicans at the convent of Santa Catalina in Barcelona, Spain in 1611. Priest. Missionary to the Philippines in 1618. Missionary to Japan in 1623; he worked the rest of his life in the Omura region. He brought many to the faith, espec"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Bertrán.jpg"
 searchAliases:

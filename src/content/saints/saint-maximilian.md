@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximilian"
 honorific: Saint
-title: "Saint Maximilian"
 summary: "Christian who refused to serve in the army as he believed the life of an imperial soldier was against the tenants of his faith, and was executed for his refusal. Martyr."
 region: "England"
 feastDay:

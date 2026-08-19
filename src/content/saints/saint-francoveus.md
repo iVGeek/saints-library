@@ -1,7 +1,6 @@
 ---
 name: "Saint Francoveus"
 honorific: Saint
-title: "Saint Francoveus"
 summary: "Seventh-century monk in Saint Martin de la Bretonnière (modern Sainte Maire, Nièvre), France. Noted for the jealousy he caused by living strictly according the Benedictine Rule. When the abbey was destroyed, he lived as a hermit in the Nivernais region near Nevers, France."
 searchAliases:
   - "Franchy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentin Faustino Berri Ochoa"
 honorific: Venerable
-title: "Saint Valentin Faustino Berri Ochoa"
 summary: "Born in the Basque country. Ordained a priest on 14 June 1851. Made his profession as a Dominican on 12 November 1854. Missionary to the Philippines and then to Viet Nam. Appointed coadjutor vicar apostolic of Central Tonking, (modern diocese of B&ugrave;i Chu) Viet Nam and titul"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Valentin-Faustino-Berri-Ochoa-1.jpg"
 searchAliases:

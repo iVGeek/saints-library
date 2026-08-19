@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrinus of Salerno"
 honorific: Saint
-title: "Saint Cyrinus of Salerno"
 summary: "Bishop. Martyr. No other information has surived."
 searchAliases:
   - "Cirino"

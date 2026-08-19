@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paul Himonoya"
 honorific: Blessed
-title: "Blessed Paul Himonoya"
 summary: "Son of Blessed Michael Himonoya. Dominican tertiary. Ordered by authorities to renounce his faith; he refused. Martyr."
 deathYear: 1628
 born: "Japanese"

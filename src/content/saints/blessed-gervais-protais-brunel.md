@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gervais-Protais Brunel"
 honorific: Blessed
-title: "Blessed Gervais-Protais Brunel"
 summary: "Trappist monk. Priest. Prior of La Trappe Abbey in early 1790. Imprisoned on the ship Deux-Associés in the harbor of Rochefort, France on 27 January 1794, and left to die during the anti-Catholic persecutions of the French Revolution for refusing to take the oath of loyalty to th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1744

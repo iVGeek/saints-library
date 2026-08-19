@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramon Illa Salvia"
 honorific: Blessed
-title: "Blessed Ramon Illa Salvia"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

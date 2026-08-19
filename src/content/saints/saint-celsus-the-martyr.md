@@ -1,7 +1,6 @@
 ---
 name: "Saint Celsus the Martyr"
 honorific: Saint
-title: "Saint Celsus the Martyr"
 summary: "Martyr. No other information has survived."
 died: "martyred in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

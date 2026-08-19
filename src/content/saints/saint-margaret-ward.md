@@ -1,7 +1,6 @@
 ---
 name: "Saint Margaret Ward"
 honorific: Venerable
-title: "Saint Margaret Ward"
 summary: "Nothing is known of her early life. She first appears in the records working as a lady's companion to the Whittle family in London. She and her servant, Blessed John Roche were arrested for helping Father Richard Watson escape from Bridewell Prison by smuggling him a rope and the"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/St_Etheldreda%2C_Ely_Place%2C_London_EC1_-_Nave_statue_-_geograph.org.uk_-_1613381.jpg"
 deathYear: 1588

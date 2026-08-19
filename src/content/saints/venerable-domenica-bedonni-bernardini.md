@@ -1,7 +1,6 @@
 ---
 name: "Venerable Domenica Bedonni Bernardini"
 honorific: Venerable
-title: "Venerable Domenica Bedonni Bernardini"
 summary: "Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy. Franciscan tertiary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg"
 birthYear: 1889

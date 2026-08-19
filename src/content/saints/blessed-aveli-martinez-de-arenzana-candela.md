@@ -1,7 +1,6 @@
 ---
 name: "Blessed Avelí Martínez de Arenzana Candela"
 honorific: Blessed
-title: "Blessed Avelí Martínez de Arenzana Candela"
 summary: "Oblate. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936

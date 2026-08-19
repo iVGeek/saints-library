@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manoel José Sousa de Sousa"
 honorific: Blessed
-title: "Blessed Manoel José Sousa de Sousa"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Mario Félix"

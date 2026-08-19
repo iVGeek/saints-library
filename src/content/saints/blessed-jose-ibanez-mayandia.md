@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ibañez Mayandia"
 honorific: Blessed
-title: "Blessed José Ibañez Mayandia"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

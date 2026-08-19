@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giovanni Merlini"
 honorific: Venerable
-title: "Venerable Giovanni Merlini"
 summary: "Against the strong wishes of his family, Giovanni was ordained a priest on 19 December 1818. Following a course of spiritual excercises conducted at the Abbey of San Felice in Giano dell'Umbria, Italy by Saint Caspar del Bufalo, Father Giovanni became one of the first members of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Giovanni_Merlini_%28cropped%29.jpg/960px-Giovanni_Merlini_%28cropped%29.jpg"
 birthYear: 1795

@@ -1,7 +1,6 @@
 ---
 name: "Saint Darius of Nicaea"
 honorific: Saint
-title: "Saint Darius of Nicaea"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Dario"

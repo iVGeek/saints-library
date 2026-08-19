@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcello"
 honorific: Saint
-title: "Saint Marcello"
 summary: "Martyr."
 died: "molten lead poured down his throat"
 region: "Italy"

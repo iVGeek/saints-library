@@ -1,7 +1,6 @@
 ---
 name: "Saint Agilbert of Paris"
 honorific: Saint
-title: "Saint Agilbert of Paris"
 summary: "Born to the Frankish nobility. Studied at the monastery of Jouarre in Ireland under the spiritual direction of his cousin, abbot Ado. Invited in 650 by King Coenwalh of the West Saxons to serve as bishop of Wessex with his see at Dorchester-on-Thames, Oxfordshire. Active evangeli"
 searchAliases:
   - "Agilbert of Wessex"

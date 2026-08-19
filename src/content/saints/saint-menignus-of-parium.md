@@ -1,7 +1,6 @@
 ---
 name: "Saint Menignus of Parium"
 honorific: Saint
-title: "Saint Menignus of Parium"
 summary: "Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for tearing down an edict suppressing the faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Menigno-of-Parium.jpg"
 searchAliases:

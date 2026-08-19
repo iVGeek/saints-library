@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Yaxley"
 honorific: Blessed
-title: "Blessed Richard Yaxley"
 summary: "Studied at the University of Oxford, England, and then the Douai College in Rheims, France. Priest of the apostolic vicariate of England, ordained in 1586. He then returned to England to minister to covert Catholics. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1560
 deathYear: 1589

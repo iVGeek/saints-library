@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Enric Canut Isus"
 honorific: Blessed
-title: "Blessed Antoni Enric Canut Isus"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

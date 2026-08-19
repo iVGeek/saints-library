@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Andrés Llop Gaya"
 honorific: Blessed
-title: "Blessed Vicente Andrés Llop Gaya"
 summary: "Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Guillermo"

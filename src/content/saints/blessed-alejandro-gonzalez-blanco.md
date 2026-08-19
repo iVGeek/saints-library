@@ -2,7 +2,6 @@
 name: "Blessed Alejandro González Blanco"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/1906-12-01%2C_Blanco_y_Negro%2C_Real_Academia_Espa%C3%B1ola_%2822_nov._1906%29%2C_B._y_N.jpg/960px-1906-12-01%2C_Blanco_y_Negro%2C_Real_Academia_Espa%C3%B1ola_%2822_nov._1906%29%2C_B._y_N.jpg"
 honorific: Blessed
-title: "Blessed Alejandro González Blanco"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Braulio José"

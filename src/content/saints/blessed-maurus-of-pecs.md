@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maurus of Pécs"
 honorific: Blessed
-title: "Blessed Maurus of Pécs"
 summary: "Benedictine monk in his youth at the San Martin monastery in Pannonhalma, Hungary. Abbot his monastery from 1029 till 1036, having been chosen by Saint Stephen of Hungary. Friend of Saint Emeric of Hungary. Bishop of Pécs, Hungary in 1036, the second bishop of the diocese, and po"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Maurus.jpg"
 searchAliases:

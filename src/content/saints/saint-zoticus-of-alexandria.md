@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Alexandria"
 honorific: Saint
-title: "Saint Zoticus of Alexandria"
 summary: "Martyr. No other information has survived."
 died: "martyred in Alexandria, Egypt"
 deathPlace: "Egypt"

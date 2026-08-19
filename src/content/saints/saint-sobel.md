@@ -1,7 +1,6 @@
 ---
 name: "Saint Sobel"
 honorific: Saint
-title: "Saint Sobel"
 summary: "Martyred in Egypt. No other information has survived."
 region: "Egypt"
 feastDay:

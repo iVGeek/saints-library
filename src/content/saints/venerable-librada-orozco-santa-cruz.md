@@ -1,7 +1,6 @@
 ---
 name: "Venerable Librada Orozco Santa Cruz"
 honorific: Venerable
-title: "Venerable Librada Orozco Santa Cruz"
 summary: "Founded the Franciscan Sisters of Our Lady of Refuge."
 searchAliases:
   - "María Librada of the Sacred Heart of Jesus"

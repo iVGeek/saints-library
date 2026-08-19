@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Mark"
 honorific: Saint
-title: "Pope Saint Mark"
 summary: "Son of Priscus. Chosen 34th pope; he reigned less than a year. Believed to have built the basilica of San Marco in Rome, Italy and the Juxta Pallacinis basilica just outside the city. Issued a constitution confirming the power of the bishop of Ostia to consecrate newly elected po"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Saint-Marc-%C3%A0-Loubaud_%C3%A9glise_statue_%281%29.jpg/960px-Saint-Marc-%C3%A0-Loubaud_%C3%A9glise_statue_%281%29.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Indreachtach of Bangor"
 honorific: Saint
-title: "Saint Indreachtach of Bangor"
 summary: "Son of Dobhailen. Monk. Abbot of Bangor Abbey."
 deathYear: 901
 born: "9th century Ireland"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintian"
 honorific: Saint
-title: "Saint Quintian"
 summary: "One of a group people martyred in Catania, Sicily, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

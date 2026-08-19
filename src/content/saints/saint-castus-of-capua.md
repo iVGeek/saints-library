@@ -1,7 +1,6 @@
 ---
 name: "Saint Castus of Capua"
 honorific: Saint
-title: "Saint Castus of Capua"
 summary: "Martyr who was either killed in Capua, Italy, or that's where his relics were first enshrined."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Libert"
 honorific: Saint
-title: "Saint Libert"
 summary: "Adult convert. Monk at Malines, Belgium with Saint Rumold. Monk at Saint-Trond monastery. Martyr."
 deathYear: 783
 born: "Malines, Belgium"

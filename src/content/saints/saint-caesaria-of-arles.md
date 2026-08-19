@@ -1,7 +1,6 @@
 ---
 name: "Saint Caesaria of Arles"
 honorific: Saint
-title: "Saint Caesaria of Arles"
 summary: "Sister of Saint Caesarius of Arles. Founder of a convent in 512; the house soon grew to hundreds of nuns, many of them widows. Caesaria served as its first abbess. She was devoted to the care of the poor, the sick, and children. Saint Gregory of Tours and Saint Venantius Fortunat"
 searchAliases:
   - "Cesarie"

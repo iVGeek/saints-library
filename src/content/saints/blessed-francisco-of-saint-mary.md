@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco of Saint Mary"
 honorific: Blessed
-title: "Blessed Francisco of Saint Mary"
 summary: "Member of the Franciscan Friars Minor (Alcantarines). Priest. Martyr."
 deathYear: 1627
 born: "Montalbanejo, Cuenca, Spain"

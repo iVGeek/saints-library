@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassus of Heraclea"
 honorific: Saint
-title: "Saint Bassus of Heraclea"
 summary: "One of a group of 43 Christians martyred together."
 died: "Heraclea, Thrace"
 deathPlace: "Thrace"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margaret Colonna"
 honorific: Blessed
-title: "Blessed Margaret Colonna"
 summary: "Daughter of Prince Odo Colonna of Palestrina, Italy. Her parents died when Margaret was young, and she had to care for her two brothers, the youngest of whom grew to be Cardinal James Colonna in 1278. Having refused a marriage offer by the chief magistrate of Rome, Margaret retir"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Margaret-Colonna.jpg"
 searchAliases:

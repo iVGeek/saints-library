@@ -1,7 +1,6 @@
 ---
 name: "Saint Eberhard of Luzy"
 honorific: Saint
-title: "Saint Eberhard of Luzy"
 summary: "Born to the Italian nobility, he became a Duke, then gave it up to live as a shepherd in Luzy, Haute-Marne, France so he could have the solitude to live in prayer."
 searchAliases:
   - "Évrard"

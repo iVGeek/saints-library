@@ -1,7 +1,6 @@
 ---
 name: "Saint Giulia Salzano"
 honorific: Venerable
-title: "Saint Giulia Salzano"
 summary: "Daughter of Adelaide Valentino and Diego Salzano. Her father was a captain in the Lancers of King Ferdinand II of Naples, and died when Giulia was four years old. Raised and educated by the Sisters of Charity in the Royal Orphanage of Saint Nicola La Strada until age fifteen. Sch"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beata_Giulia_Salzano_cropped.jpg"
 searchAliases:

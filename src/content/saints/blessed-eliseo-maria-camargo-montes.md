@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eliseo María Camargo Montes"
 honorific: Blessed
-title: "Blessed Eliseo María Camargo Montes"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

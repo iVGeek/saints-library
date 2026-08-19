@@ -1,7 +1,6 @@
 ---
 name: "Venerable Tomás Suárez Fernández"
 honorific: Venerable
-title: "Venerable Tomás Suárez Fernández"
 summary: "Augustinian priest."
 birthYear: 1915
 deathYear: 1949

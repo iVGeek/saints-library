@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustazio of Palermo"
 honorific: Saint
-title: "Saint Eustazio of Palermo"
 summary: "Imprisoned for his faith in North Africa in the persecutions by the Arian King Genseric. Escaping, he fled by sea to Sardinia and then to the islands in the Tuscan region of Italy. Spiritual student of Saint Mamillian of Palermo."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eustozio-of-Palermo.jpg"
 died: "Giglio Island, Italy"

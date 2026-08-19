@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Ausellé Rigau"
 honorific: Blessed
-title: "Blessed Josep Ausellé Rigau"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

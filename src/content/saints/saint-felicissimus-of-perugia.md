@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicissimus of Perugia"
 honorific: Saint
-title: "Saint Felicissimus of Perugia"
 summary: "Martyred under Diocletian."
 deathYear: 303
 died: "c.303 in Perugia, Italy"

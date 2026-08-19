@@ -1,7 +1,6 @@
 ---
 name: "Saint Maruthas of Bardiaboch"
 honorific: Saint
-title: "Saint Maruthas of Bardiaboch"
 summary: "One of a group of Christians who were arrested, tortured and executed together for their faith during the persecutions of Persian king Shapur II. Martyr."
 deathYear: 326
 died: "27 March 326 at Bardiaboch, Persia"

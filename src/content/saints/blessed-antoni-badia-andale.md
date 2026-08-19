@@ -2,7 +2,6 @@
 name: "Blessed Antoni Badía Andale"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Index_pseudonymorum._W%C3%B6rterbuch_der_pseudonymen%3B_oder%2C_Verzeichniss_aller_autoren%2C_die_sich_falscher_namen_bedienten_%28IA_bub_gb_bTEYAAAAMAAJ%29.pdf/page1-500px-Index_pseudonymorum._W%C3%B6rterbuch_der_pseudonymen%3B_oder%2C_Verzeichniss_aller_autoren%2C_die_sich_falscher_namen_bedienten_%28IA_bub_gb_bTEYAAAAMAAJ%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Antoni Badía Andale"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Hermògenes"

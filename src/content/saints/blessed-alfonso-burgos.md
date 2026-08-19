@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfonso Burgos"
 honorific: Blessed
-title: "Blessed Alfonso Burgos"
 summary: "Mercedarian friar in the convent of Santa Caterina in Toledo, Spain. Ransomed 159 Christians who had been enslaved and imprisoned for their faith in northern Africa by Muslims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Burgos.jpg"
 deathYear: 1381

@@ -1,7 +1,6 @@
 ---
 name: "Saint Christina of Persia"
 honorific: Saint
-title: "Saint Christina of Persia"
 summary: "Martyred in the persecutions of Khosrau I of Persia."
 searchAliases:
   - "Kristina"

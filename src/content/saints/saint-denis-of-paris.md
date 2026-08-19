@@ -1,7 +1,6 @@
 ---
 name: "Saint Denis of Paris"
 honorific: Saint
-title: "Saint Denis of Paris"
 summary: "Missionary to Paris, France. First Bishop of Paris. His success roused the ire of local pagans, and he was imprisoned by Roman governor. Martyred in the persecutions of Valerius with Saint Rusticus and Saint Eleutherius. Legends have grown up around his torture and death, includi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paris_-_Cath%C3%A9drale_Notre-Dame_-_Portail_de_la_Vierge_-_PA00086250_-_003.jpg/960px-Paris_-_Cath%C3%A9drale_Notre-Dame_-_Portail_de_la_Vierge_-_PA00086250_-_003.jpg"
 searchAliases:

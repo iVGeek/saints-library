@@ -1,7 +1,6 @@
 ---
 name: "Saint Maternus of Milan"
 honorific: Saint
-title: "Saint Maternus of Milan"
 summary: "Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation and die of natural causes."
 deathYear: 307
 died: "c.307 of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Crescencio Ortiz Blanco"
 honorific: Blessed
-title: "Blessed Crescencio Ortiz Blanco"
 summary: "Member of the Redemptorists, making his profession on 24 September 1900. Ordained a priest on 23 December 1905. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencio-Ortiz-Blanco.jpg"
 birthYear: 1881

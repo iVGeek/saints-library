@@ -1,7 +1,6 @@
 ---
 name: "Saint Cirilo Bertrán"
 honorific: Venerable
-title: "Saint Cirilo Bertrán"
 summary: "Professed religious in the Brothers of the Christian Schools, entering the novitate on 23 October 1906. Director of his house in Tur&oacute;n, Asturias, Spain. One of the Nine Martyrs of Astoria killed in the persecutions of the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cirilo-Beltran.jpg"
 searchAliases:

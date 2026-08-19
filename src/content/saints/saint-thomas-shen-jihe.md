@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomas Shen Jihe"
 honorific: Venerable
-title: "Saint Thomas Shen Jihe"
 summary: "Layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Duome"

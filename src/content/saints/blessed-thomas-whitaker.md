@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Whitaker"
 honorific: Blessed
-title: "Blessed Thomas Whitaker"
 summary: "Son of Thomas, a schoolmaster, and Helen. Studied at Saint Omer and in Valladolid, Spain. Ordained at Valladolid in 1638. He returned to England where he spent five years ministering to covert Catholics in Lancashire. Arrested, imprisoned from 7 August 1643 to 1646, and condemned"
 searchAliases:
   - "Thomas Starkie"

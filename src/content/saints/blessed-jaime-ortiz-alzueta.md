@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaime Ortiz Alzueta"
 honorific: Blessed
-title: "Blessed Jaime Ortiz Alzueta"
 summary: "A wild and undisciplined child, Jaime was educated from age 12 by the Salesians; in his teens he abandoned school to work as a mechanic. Though he enjoyed secular life, and was known as a wild and undisciplined young man, Jaime began to see the misery to which such a life led his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaime-Ortiz-Alzueta.jpg"
 birthYear: 1913

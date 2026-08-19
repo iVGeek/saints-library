@@ -1,7 +1,6 @@
 ---
 name: "Our Lady of Czestochowa"
 honorific: Saint
-title: "Our Lady of Czestochowa"
 summary: "A revered four-foot high, wood and canvas icon of the Blessed Virgin Mary housed at the Jasna Góra Monastery in Czestochowa, Poland. In the image, Mary, dressed in fleur-de-lis robes, directs attention away from herself and toward Jesus. The Child Jesus raises his right hand in a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Our-Lady-of-Czestochowa.jpg"
 searchAliases:

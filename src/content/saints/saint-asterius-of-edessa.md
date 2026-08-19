@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius of Edessa"
 honorific: Saint
-title: "Saint Asterius of Edessa"
 summary: "Executioner who killed Christians until his exposure to them converted him to the faith. Martyred in the persecutions of Numerian."
 deathYear: 284
 born: "Syrian"

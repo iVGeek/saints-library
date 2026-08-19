@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict d'Alignan"
 honorific: Blessed
-title: "Blessed Benedict d'Alignan"
 summary: "13th century Benedictine monk. Abbot of his house. Bishop of Marseilles in southern France. Following a pilgrimage to the Holy Lands, he resigned his bishopric, joined the Franciscans, and spent his remaining days as a Franciscan friar."
 searchAliases:
   - "Benedict of Marseilles"

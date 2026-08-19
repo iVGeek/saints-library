@@ -1,7 +1,6 @@
 ---
 name: "Venerable José Torres-Padilla"
 honorific: Venerable
-title: "Venerable José Torres-Padilla"
 summary: "The son of Francisco de Torres Bauta and María Padilla Cabeza, José was baptized at the age of six days in the parish of Our Lady of the Assumption. He was orphaned young, with both parents dying of natural causes on the same day; he and his three brothers were raised by relative"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Jose-Torres-Padilla.jpg"
 searchAliases:

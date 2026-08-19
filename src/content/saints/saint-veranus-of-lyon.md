@@ -1,7 +1,6 @@
 ---
 name: "Saint Veranus of Lyon"
 honorific: Saint
-title: "Saint Veranus of Lyon"
 summary: "Fifth century bishop of Lyon, France."
 region: "France"
 feastDay:

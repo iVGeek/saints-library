@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomas of Antioch"
 honorific: Saint
-title: "Saint Thomas of Antioch"
 summary: "Hermit near Antioch, Syria."
 deathYear: 782
 died: "782 of natural causes"

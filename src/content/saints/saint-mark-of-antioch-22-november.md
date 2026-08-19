@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Antioch"
 honorific: Saint
-title: "Saint Mark of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch, Pisidia (in modern Turkey)"
 deathPlace: "Pisidia (modern Turkey)"

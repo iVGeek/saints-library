@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Vicente Ramos"
 honorific: Blessed
-title: "Blessed Dionisio Vicente Ramos"
 summary: "Franciscan Conventual friar. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dionisio-Vicente-Ramos.jpg"
 birthYear: 1871

@@ -1,7 +1,6 @@
 ---
 name: "Saint Viator of Bergamo"
 honorific: Saint
-title: "Saint Viator of Bergamo"
 summary: "Disciple of the Apostles. Bishop of Bergamo, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg"
 searchAliases:

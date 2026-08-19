@@ -1,7 +1,6 @@
 ---
 name: "Blessed María López de Rivas Martínez"
 honorific: Blessed
-title: "Blessed María López de Rivas Martínez"
 summary: "Born wealthy, but she gave it all up. Her father died when Maria was four years old, and she was raised by her paternal grandparents. Well educated. Joined the Carmelites at Toledo, Spain at age 17 and lived 63 years as a Carmelite nun. Stigmatist. Prioress. In 1600 she was unjus"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/MJLopezRivas.jpg"
 searchAliases:

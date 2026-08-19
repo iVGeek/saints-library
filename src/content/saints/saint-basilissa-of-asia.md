@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilissa of Asia"
 honorific: Saint
-title: "Saint Basilissa of Asia"
 summary: "Married to a man named Felicius. Martyred, date unknown."
 feastDay:
   month: 3

@@ -1,7 +1,6 @@
 ---
 name: "Saint Menulphus of Quimper"
 honorific: Saint
-title: "Saint Menulphus of Quimper"
 summary: "Seventh century bishop of Quimper in Brittany, (part of modern France)."
 searchAliases:
   - "Menou"

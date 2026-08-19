@@ -1,7 +1,6 @@
 ---
 name: "Saint Urbicius"
 honorific: Saint
-title: "Saint Urbicius"
 summary: "With Saint Liphardus of Orleans, he founded and entered a monastery of Meung-sur-Loire, France. Served as its second abbot."
 died: "late 6th century"
 region: "France"

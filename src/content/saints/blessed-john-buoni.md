@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Buoni"
 honorific: Blessed
-title: "Blessed John Buoni"
 summary: "Spent his youth as a jester in Italian courts with his spare time mis-spent in wild living. After a severe illness in 1208, he reformed completely, converted, and became a hermit at Cesena, Italy. His reputation for piety attacted disciples. To escape them, he left one night and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Buoni.jpg"
 searchAliases:

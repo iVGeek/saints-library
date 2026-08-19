@@ -1,7 +1,6 @@
 ---
 name: "Blessed Herminio García Pampliega"
 honorific: Blessed
-title: "Blessed Herminio García Pampliega"
 summary: "Trappist priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 searchAliases:

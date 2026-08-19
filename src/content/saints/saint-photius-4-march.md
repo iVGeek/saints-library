@@ -1,7 +1,6 @@
 ---
 name: "Saint Photius"
 honorific: Saint
-title: "Saint Photius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Fotios"

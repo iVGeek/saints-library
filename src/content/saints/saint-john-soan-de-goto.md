@@ -1,7 +1,6 @@
 ---
 name: "Saint John Soan de Goto"
 honorific: Saint
-title: "Saint John Soan de Goto"
 summary: "Raised Christian. He and his family fled to Nagasaki, Japan to escape persecution on the Goto Islands. Studied with the Jesuits at Nagasaki and Shiki. Jesuits temporal-coadjutor. Catechist at Osaka, Japan. One of the Martyrs of Nagasaki."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Juan-de-Soan-de-Goto.jpg"
 searchAliases:

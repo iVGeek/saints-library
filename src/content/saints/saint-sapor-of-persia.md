@@ -1,7 +1,6 @@
 ---
 name: "Saint Sapor of Persia"
 honorific: Saint
-title: "Saint Sapor of Persia"
 summary: "Relative of King Shapur II who had him executed for his faith. Martyr."
 searchAliases:
   - "Shapor"

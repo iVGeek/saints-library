@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agatha Han Sin-ae"
 honorific: Blessed
-title: "Blessed Agatha Han Sin-ae"
 summary: "Lay woman. Convert to Christianity. Organized catechism classes for other working glass young women. martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 deathYear: 1801

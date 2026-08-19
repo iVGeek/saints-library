@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wenceslau Clarís Vilaregut"
 honorific: Blessed
-title: "Blessed Wenceslau Clarís Vilaregut"
 summary: "Born to a wealthy farm family. Studied in the Spanish cities of Vic in 1922, then Cervera and Barbastro. Intelligent and studious, he suffered with stuttering. Joined the Claretians in 1927. He was ordained as a sub-deacon, but his health was poor, and he set aside his seminary s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Wenceslau-Clarís-Vilaregut.jpg"
 birthYear: 1907

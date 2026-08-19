@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luczja Heymann"
 honorific: Blessed
-title: "Blessed Luczja Heymann"
 summary: "A member of the Sisters of Saint Elizabeth, joining in 1894 and making her perpetual profession on 2 July 1906. She served as a nurse in Hamburg-Eppendorf, Germany and Nysa, Poland. Near the end of World War II, the Soviet Red Army entered the city of Nysa and went to the house o"
 searchAliases:
   - "Sister Maria Sapientia"

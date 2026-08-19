@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbolenus of Bobbio"
 honorific: Saint
-title: "Saint Barbolenus of Bobbio"
 summary: "Abbot in Bobbio, Italy."
 deathYear: 640
 died: "c.640"

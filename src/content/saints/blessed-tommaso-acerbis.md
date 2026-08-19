@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tommaso Acerbis"
 honorific: Blessed
-title: "Blessed Tommaso Acerbis"
 summary: "Born to a poor family, the boy worked as a shepherd in his youth and received no schooling at all. Joined the Capuchin Friars Minor on 12 September 1580 at Verona, Italy where at age 17 he finally learned to read and write. Tommaso made his final profession on 5 July 1584 and ser"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Tommaso-Acerbis-1.jpg"
 searchAliases:

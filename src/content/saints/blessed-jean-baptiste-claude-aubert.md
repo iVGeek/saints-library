@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste-Claude Aubert"
 honorific: Blessed
-title: "Blessed Jean-Baptiste-Claude Aubert"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1768
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emiliano Santamaría Angulo"
 honorific: Blessed
-title: "Blessed Emiliano Santamaría Angulo"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Floriano Félix"

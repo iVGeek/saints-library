@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odoardo Focherini"
 honorific: Blessed
-title: "Blessed Odoardo Focherini"
 summary: "Layman in the diocese of Carpi, Italy. Married, a father of seven, who worked as a journalist. Focherini provided Jews with false documents so they could escape Nazi death camps by emigrating to Switzerland. Arrested by the Nazi authorities, he was sentenced to a concentration ca"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Odoardo_Focherini.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Concordius of Tivoli"
 honorific: Saint
-title: "Saint Concordius of Tivoli"
 summary: "Son of a man who became a priest late in life. Priest. Fled Rome, Italy to Tivoli, Italy during the late 2nd-century persecutions of emperor Marcus Aurelius. When all the people of Tivoli were ordered to sacrifice to idols, Concordius spat on them instead. Martyr."
 searchAliases:
   - "Concordio"

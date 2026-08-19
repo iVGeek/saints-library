@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix of Cîteaux"
 honorific: Blessed
-title: "Blessed Félix of Cîteaux"
 summary: "No information has survived."
 deathYear: 1113
 died: "1113 of natural causes"

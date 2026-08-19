@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary Ann de Paredes"
 honorific: Venerable
-title: "Saint Mary Ann de Paredes"
 summary: "Daughter of Don Girolamo Flores Zenel de Paredes, a nobleman of Toledo, and Doña Mariana Cranobles de Xaramilo; her birth was accompanied by unusual celestial phenomena. Orphaned very young, she was raised by her older sister and her husband. Mary Ann was a pious child with a dev"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Ann-de-Paredes1.jpg"
 searchAliases:

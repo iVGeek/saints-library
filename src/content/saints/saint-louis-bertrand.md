@@ -1,7 +1,6 @@
 ---
 name: "Saint Louis Bertrand"
 honorific: Saint
-title: "Saint Louis Bertrand"
 summary: "Relative of Saint Vincent Ferrer. Deeply religious from childhood, Louis joined the Dominicans in 1544 at age 18. Ordained in 1547 at age 21. Noted preacher. Master of novices for 30 years. Worked with plague victims in 1557. Friend of Saint Teresa of Avila, and helped her reform"
 image: "http://catholicsaints.info/wp-content/gallery/saint-louis-bertrand/saint-louis-bertrand-00.jpg"
 searchAliases:

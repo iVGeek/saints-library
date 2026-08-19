@@ -1,7 +1,6 @@
 ---
 name: "Saint Monon of Nassogne"
 honorific: Saint
-title: "Saint Monon of Nassogne"
 summary: "Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness."
 searchAliases:
   - "Mono"

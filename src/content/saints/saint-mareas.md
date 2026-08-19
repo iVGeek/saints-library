@@ -1,7 +1,6 @@
 ---
 name: "Saint Mareas"
 honorific: Saint
-title: "Saint Mareas"
 summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."
 deathYear: 360
 died: "c.360 in Persia"

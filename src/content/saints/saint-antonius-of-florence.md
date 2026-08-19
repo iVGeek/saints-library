@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius of Florence"
 honorific: Saint
-title: "Saint Antonius of Florence"
 summary: "When he first tried to join the Dominicans he was refused due to his poor health. When he persisted, the prior told him he could only enter if he could recite the whole of canon law from memory; a year later, in 1405, after spending his time in study, he recited it and was admitt"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonius-of-Florence.jpg"
 searchAliases:

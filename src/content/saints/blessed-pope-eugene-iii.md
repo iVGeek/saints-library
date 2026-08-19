@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pope Eugene III"
 honorific: Blessed
-title: "Blessed Pope Eugene III"
 summary: "Prominent Cistercian monk. Friend of Saint Bernard of Clairvaux. Abbot of the monastery of Tre Fontaine. Elected pope unanimously on day of his predecessor's funeral; the cardinals wanted a quick election to prevent the interference of secular authorities. Promoted the disastrous"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Cons%C3%A9cration_par_EUg%C3%A8ne_III_%28Cropped%29.jpg"
 searchAliases:

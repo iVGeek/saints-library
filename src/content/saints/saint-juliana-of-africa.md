@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Africa"
 honorific: Saint
-title: "Saint Juliana of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

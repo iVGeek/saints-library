@@ -1,7 +1,6 @@
 ---
 name: "Saint Artemia"
 honorific: Saint
-title: "Saint Artemia"
 summary: "Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"

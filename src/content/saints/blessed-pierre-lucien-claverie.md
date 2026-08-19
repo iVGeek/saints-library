@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Lucien Claverie"
 honorific: Blessed
-title: "Blessed Pierre-Lucien Claverie"
 summary: "Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by Dominicans, and became familiar with their spirituality. He attended college in Grenoble, France, and joined the Dominicans himself at the convent in Lille, France on 7"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Lucien-Claverie.jpg"
 searchAliases:

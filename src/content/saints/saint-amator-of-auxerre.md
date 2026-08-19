@@ -1,7 +1,6 @@
 ---
 name: "Saint Amator of Auxerre"
 honorific: Saint
-title: "Saint Amator of Auxerre"
 summary: "Born to the upper class. Convert, brought to the faith by Saint Helladius of Auxerre. Amator felt a call to the priesthood, and studied theology, but his family objected and he withdrew. Married to a woman named Martha from Langres, France; her reputation for holiness led to the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amator-of-Auxerre.jpg"
 searchAliases:

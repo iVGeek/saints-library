@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Kim Ob-I"
 honorific: Venerable
-title: "Saint Magdalena Kim Ob-I"
 summary: "Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:

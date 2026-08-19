@@ -1,7 +1,6 @@
 ---
 name: "Saint Nostrianus of Naples"
 honorific: Saint
-title: "Saint Nostrianus of Naples"
 summary: "Fifteenth bishop of Naples, Italy, in the mid-5th century, serving for 17 years. Fought against the spread of the Arian, Manichean and Pelagian heresies in his diocese. Helped hold his people together and adhering to the faith during a period of barbarian invasion of the aging Ro"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nostrianus-of-Naples.jpg"
 searchAliases:

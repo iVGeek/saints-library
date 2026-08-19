@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leoncio Pérez Ramos"
 honorific: Blessed
-title: "Blessed Leoncio Pérez Ramos"
 summary: "Born to a poor peasant family. Joined the Claretian at the school in Alagón in 1889. Priest, ordained in Miranda de Ebro, Spain in 1901. Superior of the house at Olesa de Montserrat in 1907. Treasurer and administrator of houses in several cities beginning in 1913. Martyred in th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leoncio-Pérez-Ramos.jpg"
 birthYear: 1875

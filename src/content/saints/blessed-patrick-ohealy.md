@@ -1,7 +1,6 @@
 ---
 name: "Blessed Patrick O'Healy"
 honorific: Blessed
-title: "Blessed Patrick O'Healy"
 summary: "A member of the Franciscan Friars Minor (Observants), beginning his novitiate in 1561. After studying at the University of Alcalá in Spain, he was ordained a priest. He was transferred by the Order to Rome, Italy in 1575, and was chosen bishop of Mayo, Ireland in 1576  by Pope Gr"
 searchAliases:
   - "Pádraig Ó Héilí"

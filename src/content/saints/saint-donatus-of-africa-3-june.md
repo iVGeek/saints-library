@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Africa"
 honorific: Saint
-title: "Saint Donatus of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

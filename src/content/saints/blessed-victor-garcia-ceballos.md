@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victor García Ceballos"
 honorific: Blessed
-title: "Blessed Victor García Ceballos"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

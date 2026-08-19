@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Araki Chobyoe"
 honorific: Blessed
-title: "Blessed Petrus Araki Chobyoe"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Susanna Chobyoe. Martyr."
 birthYear: 1585
 deathYear: 1626

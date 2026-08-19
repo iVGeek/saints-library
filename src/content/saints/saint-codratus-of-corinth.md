@@ -1,7 +1,6 @@
 ---
 name: "Saint Codratus of Corinth"
 honorific: Saint
-title: "Saint Codratus of Corinth"
 summary: "During the persecutions of Decius, Codratus and his mother fled to the forests of Greece. His mother died, and the boy grew up as a forest hermit. He later returned to the cities and studied medicine. During the persecution of Emperor Valerian, Codratus was finally arrested for h"
 searchAliases:
   - "Chuadratus"

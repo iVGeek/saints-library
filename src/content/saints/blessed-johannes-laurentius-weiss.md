@@ -1,7 +1,6 @@
 ---
 name: "Blessed Johannes Laurentius Weiss"
 honorific: Blessed
-title: "Blessed Johannes Laurentius Weiss"
 summary: "Franciscan, taking the name Liberat. Priest Missionary to Ethiopia. In 1716 the emperor declared a persecution of Christians. Father Liberat was arrested and ordered to renounce his faith; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Johannes-Laurentius-Weiss.jpg"
 searchAliases:

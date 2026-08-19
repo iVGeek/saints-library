@@ -1,7 +1,6 @@
 ---
 name: "Saint Peregrinus of Auxerre"
 honorific: Saint
-title: "Saint Peregrinus of Auxerre"
 summary: "Missionary to Auxerre, Gaul (modern France), sent by Pope Saint Sixtus II to serve as the area's first bishop. Worked with Saint Curcodomus of Auxerre. Killed by order of the area's imperial governor when he tried to interfere with the consecration of a temple to the pagan god Ju"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peregrinus-of-Auxerre.jpg"
 searchAliases:

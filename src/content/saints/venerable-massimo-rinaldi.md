@@ -1,7 +1,6 @@
 ---
 name: "Venerable Massimo Rinaldi"
 honorific: Venerable
-title: "Venerable Massimo Rinaldi"
 summary: "Ordained a priest on 6 July 1893, serving in the Italian cities of Rieti, Ornaro, Greccio, and Montefiascone. He joined the Scalabrinians in 1900, making his profession on 4 November 1900, and served as missionay in Brazil from then until 1910. He returned to Italy for the Genera"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Massimo-Rinaldi.jpg"
 birthYear: 1869

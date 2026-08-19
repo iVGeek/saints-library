@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Choe Pil-gong"
 honorific: Blessed
-title: "Blessed Thomas Choe Pil-gong"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1744
 deathYear: 1801

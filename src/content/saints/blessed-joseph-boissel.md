@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Boissel"
 honorific: Blessed
-title: "Blessed Joseph Boissel"
 summary: "Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14. Joseph studied at the junior seminary of the Missionary Oblates of Mary Immaculate on the Isle of Jersey, and then on the Isle of Berder, France; he was considered a v"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Boissel.jpg"
 birthYear: 1909

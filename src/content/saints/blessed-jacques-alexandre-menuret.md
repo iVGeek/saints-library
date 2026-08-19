@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Alexandre Menuret"
 honorific: Blessed
-title: "Blessed Jacques-Alexandre Menuret"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1734
 deathYear: 1792

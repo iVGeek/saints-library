@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Fingley"
 honorific: Blessed
-title: "Blessed John Fingley"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1553
 deathYear: 1586

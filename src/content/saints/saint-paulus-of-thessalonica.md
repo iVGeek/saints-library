@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus of Thessalonica"
 honorific: Saint
-title: "Saint Paulus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

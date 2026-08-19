@@ -1,7 +1,6 @@
 ---
 name: "Saint Yangzhi Lang"
 honorific: Venerable
-title: "Saint Yangzhi Lang"
 summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China. She married Christian man, became a catechumen, and became a local model of Christian charity. Mother of Saint Paulus Lang Fu. Martyred in the anti-Christian persecutions of the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Yangzhi-Lang.jpg"
 searchAliases:

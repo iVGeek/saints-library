@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Dolores Monzón Rosales"
 honorific: Blessed
-title: "Blessed María Dolores Monzón Rosales"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 searchAliases:

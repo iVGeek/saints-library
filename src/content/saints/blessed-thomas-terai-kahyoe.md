@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Terai Kahyoe"
 honorific: Blessed
-title: "Blessed Thomas Terai Kahyoe"
 summary: "Young layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bathilde"
 honorific: Saint
-title: "Saint Bathilde"
 summary: "Kidnapped in her youth from her native England and sold into slavery in France to Erkenwald, the Mayor of the Palace of King Clovis II. When grown, she was placed in charge of the household. Married King Clovis II in 649. Queen. Mother of three sons, all of whom became kings: Clo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bathilde-1.jpg"
 searchAliases:

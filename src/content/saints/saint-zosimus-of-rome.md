@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Rome"
 honorific: Saint
-title: "Saint Zosimus of Rome"
 summary: "Brought to Rome, Italy with Saint Ignatius of Antioch and Saint Rufus during the persecutions of Trajan. Marytred with Saint Rufus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zosimus-of-Rome.jpg"
 deathYear: 107

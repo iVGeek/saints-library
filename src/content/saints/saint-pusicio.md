@@ -1,7 +1,6 @@
 ---
 name: "Saint Pusicio"
 honorific: Saint
-title: "Saint Pusicio"
 summary: "Courtier to Shapur II of Persia. Martyr."
 died: "stabbed through the neck in Persia (modern Iran)"
 region: "Italy"

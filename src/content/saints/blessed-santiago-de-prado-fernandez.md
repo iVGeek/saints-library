@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago de Prado Fernández"
 honorific: Blessed
-title: "Blessed Santiago de Prado Fernández"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Mateo"

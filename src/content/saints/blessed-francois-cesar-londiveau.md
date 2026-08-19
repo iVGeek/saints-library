@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-César Londiveau"
 honorific: Blessed
-title: "Blessed François-César Londiveau"
 summary: "Priest in the diocese of Le Mans, France. One of the Martyrs of September."
 birthYear: 1764
 deathYear: 1792

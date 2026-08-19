@@ -1,7 +1,6 @@
 ---
 name: "Saint Sawl"
 honorific: Saint
-title: "Saint Sawl"
 summary: "Welsh chieftain. Father of Saint Asaph."
 searchAliases:
   - "Sawyl"

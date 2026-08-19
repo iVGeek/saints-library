@@ -1,7 +1,6 @@
 ---
 name: "Saint Restitutus of Rome"
 honorific: Saint
-title: "Saint Restitutus of Rome"
 summary: "Martyred in the persecutions of Emperor Nero. No other information has survived."
 died: "martyred in the 1st century, either in Rome, Italy, or in Spain; records are unclear"
 deathPlace: "eitherRome, Italy, or in Spain; records are unclear"

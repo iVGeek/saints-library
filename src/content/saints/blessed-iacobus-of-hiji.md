@@ -1,7 +1,6 @@
 ---
 name: "Blessed Iacobus of Hiji"
 honorific: Blessed
-title: "Blessed Iacobus of Hiji"
 summary: "Young son of Blessed Balthasar Kagayama Hanzaemon in the diocese of Fukuoka, Japan. Martyr."
 birthYear: 1615
 deathYear: 1619

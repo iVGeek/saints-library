@@ -1,7 +1,6 @@
 ---
 name: "Saint Isidora of Egypt"
 honorific: Saint
-title: "Saint Isidora of Egypt"
 summary: "Nun in the monastery at Tabenna, Egypt who worked in the kitchen and pretended to be a simpleton so she could concentrate on her personal piety and prayer life, and not have to teach her sisters. To avoid being honoured by her house, she fled to a desert hermitage where she spent"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Isidora-of-Egypt.jpg"
 searchAliases:

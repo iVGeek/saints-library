@@ -1,7 +1,6 @@
 ---
 name: "Saint Domingos Carvalho"
 honorific: Venerable
-title: "Saint Domingos Carvalho"
 summary: "Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645

@@ -1,7 +1,6 @@
 ---
 name: "Saint James of Antioch"
 honorific: Saint
-title: "Saint James of Antioch"
 summary: "Bishop. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"

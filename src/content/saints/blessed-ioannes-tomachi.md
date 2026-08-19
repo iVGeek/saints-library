@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Tomachi"
 honorific: Blessed
-title: "Blessed Ioannes Tomachi"
 summary: "Married layman in Nagasaki, Japan. Father of Blessed Paulus Tomachi, Blessed Dominicus Tomachi, Blessed Michaël Tomachi, and Blessed Thomas Tomachi. Member of the Lay Dominicans and Secular Franciscans. Martyr."
 searchAliases:
   - "John Tomachi"

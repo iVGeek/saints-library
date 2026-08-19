@@ -1,7 +1,6 @@
 ---
 name: "Saint Augustinus Park Chong-Won"
 honorific: Venerable
-title: "Saint Augustinus Park Chong-Won"
 summary: "Lay catechist in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

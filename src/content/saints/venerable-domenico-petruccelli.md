@@ -1,7 +1,6 @@
 ---
 name: "Venerable Domenico Petruccelli"
 honorific: Venerable
-title: "Venerable Domenico Petruccelli"
 summary: "Born to a peasant family, the son of Salvatore Petruccelli and Brigida Mastrovita, Domenico helped work the fields in his youth, spending as much of his time as possible in prayer. He apprenticed as a shoe maker, but the call to religious life was too strong, and he joined the Ca"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenico-Petruccelli.jpg"
 searchAliases:

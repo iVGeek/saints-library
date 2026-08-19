@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregory Celli of Verucchio"
 honorific: Blessed
-title: "Blessed Gregory Celli of Verucchio"
 summary: "Augustinian monk in the monastery founded by his mother in Verucchio, Italy. For unknown (and apparently unjust) reasons that have not come down to us, he was dismissed by the Augustinians from the Order, but was immediately taken in by the Franciscans at Monte Carnerio."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregory-Celli-of-Verucchio.jpg"
 searchAliases:

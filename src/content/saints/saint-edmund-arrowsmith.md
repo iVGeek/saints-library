@@ -1,7 +1,6 @@
 ---
 name: "Saint Edmund Arrowsmith"
 honorific: Saint
-title: "Saint Edmund Arrowsmith"
 summary: "Son of the farmer Robert Arrowsmith and Margery Gerard Arrowsmith. His rebel parents refused to attend Protestant services, harbored priests in their home, and at one point were arrested for their actions, and dragged away in the night, leaving the child Edmund alone. Entered Dou"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/27/St._Edmund_Arrowsmith.jpg"
 searchAliases:

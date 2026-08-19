@@ -1,7 +1,6 @@
 ---
 name: "Blessed José García Pérez"
 honorific: Blessed
-title: "Blessed José García Pérez"
 summary: "Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

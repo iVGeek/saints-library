@@ -1,7 +1,6 @@
 ---
 name: "Saint Gummarus"
 honorific: Saint
-title: "Saint Gummarus"
 summary: "Son of the Lord of Emblem, a court official. Gummarus received no formal education but grew up serving in the court of Pepin the Short. He married a shrewish noble woman name Guinmarie; they had no children. Soldier in the army of Pepin, serving eight years in the field in Lombar"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sint_Gommaar_%28cropped%29.png"
 searchAliases:

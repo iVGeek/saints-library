@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Verona"
 honorific: Saint
-title: "Saint Peter Verona"
 summary: "Son of Catharist heretics. Educated in a Catholic school and at the University of Bologna, Italy. Embraced orthodox Catholicism upon hearing the teaching of Saint Dominic. Became a Dominican at age 16, received into the Order by Saint Dominic. Prior of the Dominican house in Como"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-of-Verona-01.jpg"
 searchAliases:

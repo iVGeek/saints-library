@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bibiana Khamphai"
 honorific: Blessed
-title: "Blessed Bibiana Khamphai"
 summary: "Daughter of Lon and Monica Di Benedetto. Pious girl, dedicated to the sacraments, and attended the Catholic mission of Songkhon, Thailand. Martyred in the anti-Christian persecutions that began when the French left Thailand."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bibiana-Khamphai.jpg"
 birthYear: 1925

@@ -1,7 +1,6 @@
 ---
 name: "Saint Justa of Sardinia"
 honorific: Saint
-title: "Saint Justa of Sardinia"
 summary: "Martyred  in the persecutions of Hadrian."
 searchAliases:
   - "Giusta"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustathius of Antioch"
 honorific: Saint
-title: "Saint Eustathius of Antioch"
 summary: "Noted for his learning and personal piety, and his eloquence in the defense of Christianity. Bishop of Beroea, Syria. Bishop of Antioch (modern Antakya, Turkey) c.324. Fought Arianism. Assisted at the General Council of Nice. Exiled by Emperor Constantine the Great for his opposi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg/960px-Saint_Eustathios_of_Antioch_Fresco_Peribleptos.jpg"
 searchAliases:

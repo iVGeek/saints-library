@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Antioch"
 honorific: Saint
-title: "Saint Zosimus of Antioch"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6

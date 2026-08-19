@@ -1,7 +1,6 @@
 ---
 name: "Saint Pinnock"
 honorific: Saint
-title: "Saint Pinnock"
 summary: "A church in Cornwall, England is dedicated to this saint, but no information about him has survived."
 region: "England"
 feastDay:

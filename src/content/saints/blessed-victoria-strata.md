@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victoria Strata"
 honorific: Blessed
-title: "Blessed Victoria Strata"
 summary: "Happily married to Angelo Strata from age seventeen to twenty-six. Mother of six. Widowed in 1587 at age 25, Victoria wanted to marry again because of her children, but a vision of the Virgin Mary convinced her to begin a single life of motherhood, chastity, prayer, and charity t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Maria-Vittoria-De-Fornari-Strata.jpg"
 searchAliases:

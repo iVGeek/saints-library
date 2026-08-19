@@ -1,7 +1,6 @@
 ---
 name: "Blessed Servatius Scharff"
 honorific: Blessed
-title: "Blessed Servatius Scharff"
 summary: "Joined the Premonstratensians at age 20. Canon of the Premonstratensian Steingadan monastery in Weilheim-Schongau, Bavaria, Germany. Priest. Had a great devotion to the Blessed Virgin Mary. When Protestant Swedes invaded Bavaria during the Thirty Years War, Servatius took to the"
 birthYear: 1603
 deathYear: 1670

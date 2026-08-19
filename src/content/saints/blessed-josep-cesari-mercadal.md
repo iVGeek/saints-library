@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Cesari Mercadal"
 honorific: Blessed
-title: "Blessed Josep Cesari Mercadal"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Dionís Martí"

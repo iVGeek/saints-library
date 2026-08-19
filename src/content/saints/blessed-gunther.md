@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gunther"
 honorific: Blessed
-title: "Blessed Gunther"
 summary: "Cousin of Saint Stephen of Hungary. After a worldly youth, he was brought to the faith by Saint Godehard of Hildesheim. Benedictine monk at Niederaltaich, Bavaria, Germany. Falling back on his old ways, he actually campaigned to be abbot of Gollingen, and won the position; he was"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peter_von_Cornelius_Hagen_versenkt_den_Nibelungenhort_1859.jpg"
 birthYear: 955

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Camillus Costanzo"
 honorific: Blessed
-title: "Blessed Camillus Costanzo"
 summary: "Jesuit priest. Missionary to Japan. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Costanzo_Camillus_1.jpg/960px-Costanzo_Camillus_1.jpg"
 searchAliases:

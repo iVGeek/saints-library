@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor Maurus"
 honorific: Saint
-title: "Saint Victor Maurus"
 summary: "Soldier in the Roman Praetorian Guard. A Christian from his youth, Victor lived in quiet praise of God. Around 303, the elderly Victor was arrested in Milan, Italy in the persecutions of Maximian. He was tortured for his faith, basted in molten lead, and killed. Martyr. Saint Gre"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/89/San_Vittore_in_Ciel_doro_rit..jpg"
 searchAliases:

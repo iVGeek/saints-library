@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Rojas Lobo"
 honorific: Blessed
-title: "Blessed José María Rojas Lobo"
 summary: "Young layman lawyer in the archdiocese of Sevilla, Spain. Arrested for his faith on 20 July 1936 at the start of the Spanish Civil War; he was shot and seriously wounded by the anti-Catholic forces, and died a few days later. Martyr."
 birthYear: 1910
 deathYear: 1936

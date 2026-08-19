@@ -1,7 +1,6 @@
 ---
 name: "Saint Viventius"
 honorific: Saint
-title: "Saint Viventius"
 summary: "Hermit. Priest. Travelled from Palestine to Europe. Worked with Saint Hilary of Poitiers to oppose Arianism."
 born: "Samaritan"
 region: "England"

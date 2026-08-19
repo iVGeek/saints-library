@@ -1,7 +1,6 @@
 ---
 name: "Saint Matthias Feng De"
 honorific: Venerable
-title: "Saint Matthias Feng De"
 summary: "Married layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mattia-Fan.jpg"
 searchAliases:

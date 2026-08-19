@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ubaldo Adimari"
 honorific: Blessed
-title: "Blessed Ubaldo Adimari"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg"
 searchAliases:
   - "Ubaldo da Borgo San Sepolcro"

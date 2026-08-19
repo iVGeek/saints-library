@@ -1,7 +1,6 @@
 ---
 name: "Saint Alphonsus Maria de Liguori"
 honorific: Venerable
-title: "Saint Alphonsus Maria de Liguori"
 summary: "Born to the nobility, Alphonsus was a child prodigy; he became extremely well-educated, and received his doctorate in law from the University of Naples at age 16. He had his own legal practice by age 21, and was soon one of the leading lawyers in Naples, though he never attended"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsus-Maria-de-Liguori.gif"
 searchAliases:

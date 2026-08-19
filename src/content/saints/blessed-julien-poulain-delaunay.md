@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julien Poulain Delaunay"
 honorific: Blessed
-title: "Blessed Julien Poulain Delaunay"
 summary: "Priest in the archdiocese of Rennes, France. One of the Martyrs of September."
 birthYear: 1744
 deathYear: 1792

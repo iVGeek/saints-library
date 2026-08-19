@@ -1,7 +1,6 @@
 ---
 name: "Saint Pacificus of San Severino"
 honorific: Saint
-title: "Saint Pacificus of San Severino"
 summary: "Son of Antonio M Divini and Mariangela Bruni, both of whom died when Pacificus was about 3 years old, leaving him to be raised by an uncle. Joined the Franciscans in December 1670. Ordained in 1678. Professor of philosophy, teaching novices. Parish mission preacher. His health fa"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pacificus_of_San_Severino.jpg"
 birthYear: 1653

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Élisabeth-Thérèse de Consolin"
 honorific: Blessed
-title: "Blessed Élisabeth-Thérèse de Consolin"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 birthYear: 1736

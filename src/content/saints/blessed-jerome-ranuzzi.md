@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerome Ranuzzi"
 honorific: Blessed
-title: "Blessed Jerome Ranuzzi"
 summary: "Born to a noted middle class family; his father was later given rank in the noblity. Servite. Studied philosophy and theology in Bologna, Italy. Priest. Renowned for his learning and scholarship. Advisor to Duke Frederick of Montefeltro, Urbino, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jerome-Ranuzzi.jpg"
 searchAliases:

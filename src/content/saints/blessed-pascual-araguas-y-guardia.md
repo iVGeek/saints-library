@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pascual Araguàs y Guàrdia"
 honorific: Blessed
-title: "Blessed Pascual Araguàs y Guàrdia"
 summary: "The son of Francesco Araguas e Carmen Guardia, Pascual grew up in a pious, very poor family. He entered the junior seminary at age 13, and was ordained a priest in the diocese of Urgell, Spain in 3 April 1923. He served as co-adjutor and parish priest in several town. Martyred in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Araguàs-y-Guàrdia.jpg"
 birthYear: 1899

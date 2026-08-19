@@ -1,7 +1,6 @@
 ---
 name: "Saint Euflamia"
 honorific: Saint
-title: "Saint Euflamia"
 summary: "Soldier. Imperial Roman legionaire. Martyr."
 died: "buried in the cemetery of Saint Priscilla in Rome, Italy"
 deathPlace: "Italy"

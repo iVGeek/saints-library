@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavianus of Avellino"
 honorific: Saint
-title: "Saint Flavianus of Avellino"
 summary: "Deacon in Antioch, Turkey, serving Saint Modestinus of Avellina. Imprisoned for his faith in the persecutions of Diocletian, he fled to Italy. There he was again imprisoned and martyred in persecutions of Maximian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Avellino.jpg"
 searchAliases:

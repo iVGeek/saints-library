@@ -1,7 +1,6 @@
 ---
 name: "Saint Vouga of Lesneven"
 honorific: Saint
-title: "Saint Vouga of Lesneven"
 summary: "Sixth century bishop in Ireland. Retiring from public work, he settled in Brittany to live as a hermit near Lesneven, France."
 searchAliases:
   - "Feock"

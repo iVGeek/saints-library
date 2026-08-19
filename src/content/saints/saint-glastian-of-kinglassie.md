@@ -1,7 +1,6 @@
 ---
 name: "Saint Glastian of Kinglassie"
 honorific: Saint
-title: "Saint Glastian of Kinglassie"
 summary: "Bishop. He mediated a peace between the Picts and the Scots, greatly improving the conditions of the conqured Picts."
 searchAliases:
   - "Glastiano"

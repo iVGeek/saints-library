@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dolores Úrsula Caro Martín"
 honorific: Blessed
-title: "Blessed Dolores Úrsula Caro Martín"
 summary: "Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining in 19 May 1917. She served as a teacher and a nurse with her longest assignment being at the College of Mercy in Madrid, basically dealing with the infirmary. Superior of the Casa della"
 image: "https://catholicsaints.info/wp-content/uploads/95966_DoloresUrsulaCaro.jpg"
 birthYear: 1893

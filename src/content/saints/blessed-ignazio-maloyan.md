@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignazio Maloyan"
 honorific: Blessed
-title: "Blessed Ignazio Maloyan"
 summary: "Son of Melkon and Farid&eacute; Maloyan. Studied at the convent of Bzommar-Lebanon where he was ordained on 6 August 1896. Member of the Bzommar Institute. Took the name of Ignatius in remembrance of Saint Ignatius of Antioch. Parish priest in Alexandria and Cairo, Egypt from 189"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignazio-Maloyan1.jpg"
 searchAliases:

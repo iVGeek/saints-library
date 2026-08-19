@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tsuji Shobyoe"
 honorific: Blessed
-title: "Blessed Tsuji Shobyoe"
 summary: "Member of the Secular Francisicans in the archdiocese of Nagasaki, Japan. Married to Blessed Maria Shobyoe. Martyr."
 searchAliases:
   - "Gaspar Vaz"

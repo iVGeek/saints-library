@@ -1,7 +1,6 @@
 ---
 name: "Saint Finian Munnu"
 honorific: Saint
-title: "Saint Finian Munnu"
 summary: "Member of the noble Ui Neill clan. Monk and spiritual student of Saint Columba and Saint Seenell at Cluain Inis, Ireland for 18 years. He moved to Iona Abbey in Scotland, but found Saint Columba had left a prophecy that Finian was to be turned away as he was destined to found ano"
 searchAliases:
   - "Finian of Taghmon"

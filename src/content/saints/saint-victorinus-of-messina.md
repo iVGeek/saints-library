@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Messina"
 honorific: Saint
-title: "Saint Victorinus of Messina"
 summary: "Brother of Saint Placidus of Messina. Benedictine monk. Martyr."
 died: "6th century Messina, Sicily, Italy"
 deathPlace: "Sicily, Italy"

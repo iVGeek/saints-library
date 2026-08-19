@@ -1,7 +1,6 @@
 ---
 name: "Saint Attroban of Saxony"
 honorific: Saint
-title: "Saint Attroban of Saxony"
 summary: "Missionary who worked with Saint Willehad of Bremen. Martyr."
 deathYear: 782
 died: "30 November 782 at River Weser, Lawer Saxony, Germany"

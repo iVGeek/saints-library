@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartholomew Buonpedoni"
 honorific: Blessed
-title: "Blessed Bartholomew Buonpedoni"
 summary: "Born to the nobility, the only son of Count Giovanni and Countess Giuntina Bounpedoni, a couple who had prayed for decades for a child. When he came of age, his family tried to arrange a marriage for Bartolo, but the young man felt a call to religious life and left home. He trave"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-Buonpedoni.jpg"
 searchAliases:

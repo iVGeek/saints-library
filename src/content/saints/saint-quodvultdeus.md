@@ -1,7 +1,6 @@
 ---
 name: "Saint Quodvultdeus"
 honorific: Saint
-title: "Saint Quodvultdeus"
 summary: "Fifth century North African church father. Known to have been living in Carthage c.407. Deacon c.421. Friend, spiritual student and correspondent with Saint Augustine of Hippo who dedicated some of his writings to Quodvultdeus. Bishop of Carthage. When Carthage was invaded by Ari"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Quodvultdeus_mosaic_portrait%2C_5th_century_%28San_Gennaro_catacombs%2C_Naples%29.jpg/960px-Quodvultdeus_mosaic_portrait%2C_5th_century_%28San_Gennaro_catacombs%2C_Naples%29.jpg"
 deathYear: 450

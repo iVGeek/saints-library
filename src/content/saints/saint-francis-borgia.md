@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis Borgia"
 honorific: Saint
-title: "Saint Francis Borgia"
 summary: "Born to the nobility, the great-grandson of Pope Alexander VI; grandson of King Ferdinand of Aragon; son of Duke Juan Borgia. Raised in the court of King Charles V and educated at Saragossa, Spain. Married Eleanor de Castro in 1529, and the father of eight children. Accompanied C"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/San_Francisco_de_Borja.jpg/960px-San_Francisco_de_Borja.jpg"
 searchAliases:

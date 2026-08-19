@@ -1,7 +1,6 @@
 ---
 name: "Saint Clemente Ignacio Delgado Cebrián"
 honorific: Venerable
-title: "Saint Clemente Ignacio Delgado Cebrián"
 summary: "Raised in a pious family. Joined the Dominicans in 1780. Priest. Missionary to the Philippines, and then Vietnam where he worked for nearly 50 years. Apostolic vicar and of East Tonkin (in modern Vietnam) and titular bishop of Metellopolis on 11 February 1794. He and several of h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Clemente-Ignacio-Delgado-Cebrián.jpg"
 searchAliases:

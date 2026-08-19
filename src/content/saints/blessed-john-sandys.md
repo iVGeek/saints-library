@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Sandys"
 honorific: Blessed
-title: "Blessed John Sandys"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1552
 deathYear: 1586

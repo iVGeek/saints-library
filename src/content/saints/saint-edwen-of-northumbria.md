@@ -1,7 +1,6 @@
 ---
 name: "Saint Edwen of Northumbria"
 honorific: Saint
-title: "Saint Edwen of Northumbria"
 summary: "Seventh century consecrated virgin. Daughter of Saint Edwin of Northumbria."
 region: "England"
 feastDay:

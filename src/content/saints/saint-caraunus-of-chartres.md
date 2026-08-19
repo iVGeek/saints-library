@@ -1,7 +1,6 @@
 ---
 name: "Saint Caraunus of Chartres"
 honorific: Saint
-title: "Saint Caraunus of Chartres"
 summary: "When his parents died, Caraunus sold all his goods and estate, distributed the money to the poor, and retired from the world to live as a prayerful hermit. His reputation for holiness spread, his local bishop ordained Caraunus as a deacon, and the new deacon gave up the life of a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Caraunus-of-Chartres.jpg"
 searchAliases:

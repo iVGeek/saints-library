@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miquel Soler Sala"
 honorific: Blessed
-title: "Blessed Miquel Soler Sala"
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Miquel Maria"

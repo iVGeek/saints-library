@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Gárate Aranguren"
 honorific: Blessed
-title: "Blessed Francisco Gárate Aranguren"
 summary: "Second of seven boys born to Francisco and Maria Aranguren, a pious farm family in the Basque region of northern Spain; three of them grew up to become Jesuit brothers. Francisco left home at age 14 to work as a domestic servant at the newly opened Jesuit College of Nuestra Señor"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Gárate-Aranguren.jpg"
 searchAliases:

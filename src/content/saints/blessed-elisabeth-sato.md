@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elisabeth Sato"
 honorific: Blessed
-title: "Blessed Elisabeth Sato"
 summary: "Child in the diocese of Niigata, Japan. She was the daughter of Blessed Alexius Sato Seisuke and Blessed Lucia Sato, and was martyred with them."
 birthYear: 1626
 deathYear: 1629

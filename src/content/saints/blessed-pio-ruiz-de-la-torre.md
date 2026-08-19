@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pio Ruiz De La Torre"
 honorific: Blessed
-title: "Blessed Pio Ruiz De La Torre"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Blessed Buenaventura Pio"

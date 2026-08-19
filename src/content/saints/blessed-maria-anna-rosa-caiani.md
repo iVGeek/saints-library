@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Anna Rosa Caiani"
 honorific: Blessed
-title: "Blessed Maria Anna Rosa Caiani"
 summary: "As a young woman, Maria felt a call to service and religious life. When her parents died, relieving her of family duties, she entered the Benedictine monastery at Pistoia, Italy on 4 October 1893. She determined quickly that it was not the life for her, and left after a month. Af"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Rosa-Caiani.jpg"
 searchAliases:

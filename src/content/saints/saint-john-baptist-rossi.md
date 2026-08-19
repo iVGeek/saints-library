@@ -1,7 +1,6 @@
 ---
 name: "Saint Giovanni Battista Rossi"
 honorific: Saint
-title: "Saint Giovanni Battista Rossi"
 summary: "One of four children born to Charles de Rossi and Frances Anfossi. Taken by a wealthy noble couple to Genoa, Italy for schooling. There he met some Capuchin friars who thought well of him, and helped him continue his education in Rome, Italy. Studied under the Jesuits at the Roma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-Battista-Rossi.jpg"
 searchAliases:

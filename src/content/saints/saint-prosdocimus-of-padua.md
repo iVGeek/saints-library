@@ -1,7 +1,6 @@
 ---
 name: "Saint Prosdocimus of Padua"
 honorific: Saint
-title: "Saint Prosdocimus of Padua"
 summary: "First bishop of Padua, Italy; he evangelized the entire region. Baptized Saint Daniel of Padua, who served him as deacon. Tradition says Prosdocimus was sent Saint Peter the Apostle."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Prosdocimus-of-Padua.jpg"
 searchAliases:

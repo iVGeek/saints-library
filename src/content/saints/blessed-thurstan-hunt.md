@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thurstan Hunt"
 honorific: Blessed
-title: "Blessed Thurstan Hunt"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Thurstan Greenlow"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Wenceslaus of Bohemia"
 honorific: Saint
-title: "Saint Wenceslaus of Bohemia"
 summary: "Son of Vratislav I, Duke of Bohemia, whose family had been converted by Saint Cyril and Saint Methodius, and Drahomira, daughter of a pagan chief; she was baptized on her wedding day, but who apparently never seriously took to the faith. Grandson and student of Saint Ludmilla. Du"
 image: "http://catholicsaints.info/wp-content/gallery/saint-wenceslaus-of-bohemia/saint-wenceslaus-of-bohemia-00.jpg"
 searchAliases:

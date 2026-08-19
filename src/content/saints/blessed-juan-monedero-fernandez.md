@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Monedero Fernández"
 honorific: Blessed
-title: "Blessed Juan Monedero Fernández"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

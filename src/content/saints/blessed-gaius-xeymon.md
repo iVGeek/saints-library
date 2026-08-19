@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaius Xeymon"
 honorific: Blessed
-title: "Blessed Gaius Xeymon"
 summary: "Born to Christian parents. Dominican tertiary. Helped the friars with their missionary work, and was martyred for it."
 searchAliases:
   - "Caius"

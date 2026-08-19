@@ -1,7 +1,6 @@
 ---
 name: "Saint Abo of Tblisi"
 honorific: Saint
-title: "Saint Abo of Tblisi"
 summary: "Grew up Muslim. Perfumer to Nerses, the prince of Kartli, a region of eastern Georgia. As a young adult, Abo became convinced of the truth of Christianity, but was afraid to convert openly as Georgia was under Muslim rule and conversion was a capital offense. For political reason"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Abo-of-Tblisi.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura of Antinoe"
 honorific: Saint
-title: "Saint Maura of Antinoe"
 summary: "Lay woman. Married to Saint Timothy of Antinoe. About twenty days into the marriage, and in the middle of the persecution of Diocletian, Timothy was arrested. As he was being tortured to learn the location of sacred texts, Maura was dragged to the prison; the authorities thought"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Timothy-and-Maura.jpg"
 searchAliases:

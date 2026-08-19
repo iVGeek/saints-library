@@ -1,7 +1,6 @@
 ---
 name: "Saint Agathangelus"
 honorific: Saint
-title: "Saint Agathangelus"
 summary: "Adult convert to Christianity, baptized by Saint Clement of Ancyra. Deacon. Evangelized in Ancyra (in modern Turkey) with Saint Clement, and was martyred with him."
 image: "http://catholicsaints.info/wp-content/uploads/ConsulterElementNum.jpg"
 deathYear: 309

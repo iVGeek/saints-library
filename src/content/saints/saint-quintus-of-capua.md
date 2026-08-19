@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintus of Capua"
 honorific: Saint
-title: "Saint Quintus of Capua"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Quarto-and-Quinto.jpg"
 born: "Capua, Italy"

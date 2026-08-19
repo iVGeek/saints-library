@@ -1,7 +1,6 @@
 ---
 name: "Blessed Celedonio Martínez Infante"
 honorific: Blessed
-title: "Blessed Celedonio Martínez Infante"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Fernando María"

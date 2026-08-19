@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Roger veuve Chartier"
 honorific: Blessed
-title: "Blessed Marie Roger veuve Chartier"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1727
 deathYear: 1794

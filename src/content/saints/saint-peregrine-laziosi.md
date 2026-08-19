@@ -1,7 +1,6 @@
 ---
 name: "Saint Peregrine Laziosi"
 honorific: Saint
-title: "Saint Peregrine Laziosi"
 summary: "Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly anti-Catholic. During a popular revolt, he struck the papal peace negotiator, Saint Philip Benizi, across the face. Saint Philip calmly turned the other cheek, prayed for the"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Lippi%2C_circoncisione%2C_santo_spirito.jpg"
 searchAliases:

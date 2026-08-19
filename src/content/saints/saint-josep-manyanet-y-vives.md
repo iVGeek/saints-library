@@ -1,7 +1,6 @@
 ---
 name: "Saint Josep Manyanet y Vives"
 honorific: Venerable
-title: "Saint Josep Manyanet y Vives"
 summary: "Born to a large and pious family. Dedicated to Our Lady at age 5 by his mother. Educated by the Piarist Fathers in Barbastro, Spain, and then in seminaries at Lleida and Urgell in Spain. Ordained on 9 April 1859. Private secretary to the bishop of Urgell. Seminary librarian. Chan"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Josep-Manyanet-y-Vives.jpg"
 birthYear: 1833

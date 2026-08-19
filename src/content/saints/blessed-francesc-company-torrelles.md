@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Company Torrelles"
 honorific: Blessed
-title: "Blessed Francesc Company Torrelles"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936

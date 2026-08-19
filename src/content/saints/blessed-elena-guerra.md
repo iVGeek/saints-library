@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elena Guerra"
 honorific: Blessed
-title: "Blessed Elena Guerra"
 summary: "Born to wealthy, pious, aristocratic family, one of six children; only three survived to adulthood. From an early age Helen was devoted to the Holy Spirit. She worked with the Vincentians, caring for the poor and the sick, studying Latin and the writings of the Church Fathers. At"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Guerra_Elena.png"
 searchAliases:

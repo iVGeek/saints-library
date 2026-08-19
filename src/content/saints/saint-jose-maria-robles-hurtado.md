@@ -1,7 +1,6 @@
 ---
 name: "Saint José María Robles Hurtado"
 honorific: Venerable
-title: "Saint José María Robles Hurtado"
 summary: " Consecrated to the Sacred Eucharistic Heart of Jesus, and in 1918 founded the Congregat Born to a fervently Catholic family, the son of Antonio Robles and Petronila Hurtado. Entered the seminary of Guadalajara, Mexico at age 12. Ordained on 22 March 1913 at age 25 at Guadalajara."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/San_jose_maria_robles_hurtado.jpg"
 searchAliases:

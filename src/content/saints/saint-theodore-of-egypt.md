@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Egypt"
 honorific: Saint
-title: "Saint Theodore of Egypt"
 summary: "Monk. Spiritual student of Saint Ammonius the Great in Egypt. One of the early desert hermits on the Nile. Mentioned in the writings of Saint Athanasius of Alexandria and Saint Gregory the Great."
 searchAliases:
   - "Theodor"

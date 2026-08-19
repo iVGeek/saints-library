@@ -1,7 +1,6 @@
 ---
 name: "Saint Tarasius of Constantinople"
 honorific: Saint
-title: "Saint Tarasius of Constantinople"
 summary: "Born to the Byzantine nobility. Consul and then Secretary of State to Emperor Constantine IV and Empress Irene. Though a courtier in the most political of empires, he led the life of a monk. Unanimously chosen Patriarch of Constantinople; Tarasius said that he could not accept su"
 image: "http://catholicsaints.info/wp-content/uploads/Patriarch_Tarasios.jpg"
 searchAliases:

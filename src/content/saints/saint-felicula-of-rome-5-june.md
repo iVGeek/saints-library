@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicula of Rome"
 honorific: Saint
-title: "Saint Felicula of Rome"
 summary: "Martyr. No other details have survived."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

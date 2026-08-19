@@ -1,7 +1,6 @@
 ---
 name: "Saint Clinius of Pontecorvo"
 honorific: Saint
-title: "Saint Clinius of Pontecorvo"
 summary: "Benedictine monk at Monte Cassino Abbey. Abbot of Saint Peter's abbey near Pontecorvo, Italy."
 searchAliases:
   - "Clino"

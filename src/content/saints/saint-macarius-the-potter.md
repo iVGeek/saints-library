@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius the Potter"
 honorific: Saint
-title: "Saint Macarius the Potter"
 summary: "Potter. Martyred in the persecutions of Decius."
 searchAliases:
   - "Makarios"

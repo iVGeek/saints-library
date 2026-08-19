@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modesto Vegas y Vegas"
 honorific: Blessed
-title: "Blessed Modesto Vegas y Vegas"
 summary: "Entered the novitiate of the Friars Minor Conventual at the Franciscan convent at Granollers, Spain as a teenager in 1929. Studied at the seminary in Osimo, Italy where he was ordained in 1934. His short career as a parish priest in Granollers was noted for his preaching and devo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Modesto-Vegas-y-Vegas.jpg"
 birthYear: 1912

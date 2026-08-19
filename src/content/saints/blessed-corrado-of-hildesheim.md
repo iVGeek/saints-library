@@ -1,7 +1,6 @@
 ---
 name: "Blessed Corrado of Hildesheim"
 honorific: Blessed
-title: "Blessed Corrado of Hildesheim"
 summary: "Franciscan friar in 13th century Prussia remembered for his virtuous life and as a miracle worker."
 searchAliases:
   - "Conrad"

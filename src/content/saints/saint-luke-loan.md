@@ -1,7 +1,6 @@
 ---
 name: "Saint Luke Loan"
 honorific: Saint
-title: "Saint Luke Loan"
 summary: "Priest in the apostolic vicariate of West Tonkin (modern Vietnam). Arrested and martyred in one of the waves of anti-Christianity."
 searchAliases:
   - "Luca Vu Bá Loan"

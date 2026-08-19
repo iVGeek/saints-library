@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cristóbal Pérez Pascual"
 honorific: Blessed
-title: "Blessed Cristóbal Pérez Pascual"
 summary: "Married layman in the archdiocese of Seville, Spain. In 1923 he opened a pharmacy in Cazalla de la Sierra; in addition to its business side, he used it as a charity to support the local poor. Member of the Society of Saint Vincent de Paul, and his parish council. Martyred in the"
 birthYear: 1887
 deathYear: 1936

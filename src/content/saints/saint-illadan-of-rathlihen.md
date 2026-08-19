@@ -1,7 +1,6 @@
 ---
 name: "Saint Illadan of Rathlihen"
 honorific: Saint
-title: "Saint Illadan of Rathlihen"
 summary: "Sixth century bishop of Rathlihen, Offaly, Ireland."
 searchAliases:
   - "Illathan"

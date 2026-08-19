@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sebastián Obeso Alario"
 honorific: Blessed
-title: "Blessed Sebastián Obeso Alario"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Honorio Sebastián"

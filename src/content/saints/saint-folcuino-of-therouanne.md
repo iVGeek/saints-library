@@ -1,7 +1,6 @@
 ---
 name: "Saint Folcuino of Therouanne"
 honorific: Saint
-title: "Saint Folcuino of Therouanne"
 summary: "Bishop in the area of Thérouanne, northern France for 39 years."
 searchAliases:
   - "Folquin"

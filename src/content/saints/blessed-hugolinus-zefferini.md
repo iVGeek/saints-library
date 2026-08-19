@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugolinus Zefferini"
 honorific: Blessed
-title: "Blessed Hugolinus Zefferini"
 summary: "Civil strife forced Hugolinus' family to flee Cortona for Mantua, Italy while the Hugolinus was still a baby. He became a page of the court of the Gonzagas, but he did not care for court life and felt a call to religious life. Joined the Augustinians at the monastery of Saint Agn"
 image: "http://catholicsaints.info/wp-content/uploads/Hugolinus-Zefferini.jpg"
 searchAliases:

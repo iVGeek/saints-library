@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Roca Toscas"
 honorific: Blessed
-title: "Blessed Pere Roca Toscas"
 summary: "Drawn to religious life in his early teens. Had a great love of literature, especially Catalan, and wrote poetry. Professed cleric in the Sons of the Holy Family. Entered the seminary in Barcelona, Spain, but it was closed at the outbreak of the Spanish Civil War. Captured, tortu"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Roca-Toscas.jpg"
 birthYear: 1916

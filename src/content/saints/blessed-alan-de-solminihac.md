@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alan de Solminihac"
 honorific: Blessed
-title: "Blessed Alan de Solminihac"
 summary: "Born to a noble, pious and patriotic family, Alan wanted to join the Knights of Malta, to serve God while in the military. Instead, however, he became an Augustinian Regular at Chancelade Abbey, P&eacute;rigueux, France at age twenty. Superior of the abbey in 1623. He worked to r"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alain_de_Solminihac_%281593-1659%29.jpg/330px-Alain_de_Solminihac_%281593-1659%29.jpg"
 searchAliases:

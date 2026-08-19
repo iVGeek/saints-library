@@ -1,7 +1,6 @@
 ---
 name: "Saint Lachtain"
 honorific: Saint
-title: "Saint Lachtain"
 summary: "All details about his life have been lost."
 region: "Ireland"
 feastDay:

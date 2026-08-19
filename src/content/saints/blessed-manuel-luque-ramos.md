@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Luque Ramos"
 honorific: Blessed
-title: "Blessed Manuel Luque Ramos"
 summary: "Layman in the archdiocese of Sevilla, Spain, he lived with his widowed mother. Member of the Society of Saint Vincent de Paul. Sacristan for the nearby Poor Clare convent in Sevilla. On 18 July 1936, at the start of the Spanish Civil War, he prevented an anti-Catholic mob from di"
 birthYear: 1893
 deathYear: 1936

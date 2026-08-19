@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Cubero Martín"
 honorific: Blessed
-title: "Blessed Rafael Cubero Martín"
 summary: "Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

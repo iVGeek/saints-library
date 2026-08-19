@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Araki Kanshichi"
 honorific: Blessed
-title: "Blessed Ioannes Araki Kanshichi"
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 birthYear: 1593
 deathYear: 1627

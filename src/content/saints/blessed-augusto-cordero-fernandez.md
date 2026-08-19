@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augusto Cordero Fernández"
 honorific: Blessed
-title: "Blessed Augusto Cordero Fernández"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Estanislao-Vitor.jpg"
 searchAliases:

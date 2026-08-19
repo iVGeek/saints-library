@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco de Asis Arias Rivas"
 honorific: Blessed
-title: "Blessed Francisco de Asis Arias Rivas"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 1 June 1901. Parish priest at several locations in Sevilla. Devotee of Virgen de la Soledad. Imprisoned in late July 1936, tortured and finally murdered in the early days of the Spanish Civil War for the offense of being a"
 birthYear: 1875
 deathYear: 1936

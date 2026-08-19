@@ -1,7 +1,6 @@
 ---
 name: "Saint André de Soveral"
 honorific: Venerable
-title: "Saint André de Soveral"
 summary: "André joined the Jesuits in 1593, making his novitiate in Bahia, Brazil. Priest. He worked at the College of Olinda catechetical centre, and in 1606 began missionary work in Rio Grande do Norte area. By 1614 he was parish priest of Cunhau and a member of the diocesan clergy. One"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andre-de-Soveral.jpg"
 birthYear: 1572

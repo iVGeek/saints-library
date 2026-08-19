@@ -1,7 +1,6 @@
 ---
 name: "Saint Agileus of Carthage"
 honorific: Saint
-title: "Saint Agileus of Carthage"
 summary: "Martyr. Saint Augustine preached a sermon in his honour."
 searchAliases:
   - "Agileo"

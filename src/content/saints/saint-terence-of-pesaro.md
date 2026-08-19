@@ -1,7 +1,6 @@
 ---
 name: "Saint Terence of Pesaro"
 honorific: Saint
-title: "Saint Terence of Pesaro"
 summary: "Fled to across the Adriatic Sea Italy to escape persecutions in Pannonia (modern Hungary in the early 3rd century. Bishop of Pesaro, Italy. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Saint_Terence_of_Pesaro.jpg/960px-Saint_Terence_of_Pesaro.jpg"
 searchAliases:

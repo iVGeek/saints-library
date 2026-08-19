@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisca Pérez de Labeaga García"
 honorific: Blessed
-title: "Blessed Francisca Pérez de Labeaga García"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 searchAliases:

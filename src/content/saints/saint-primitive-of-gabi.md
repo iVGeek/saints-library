@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitive of Gabi"
 honorific: Saint
-title: "Saint Primitive of Gabi"
 summary: "Martyr."
 searchAliases:
   - "Primitivo"

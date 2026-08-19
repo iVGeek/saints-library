@@ -1,7 +1,6 @@
 ---
 name: "Venerable Josefa Segovia Morón"
 honorific: Venerable
-title: "Venerable Josefa Segovia Morón"
 summary: "Lifelong lay woman in the archdiocese of Madrid, Spain. She studied in Granada and Madrid to become a school teacher. Back home in Jaén, she met Saint Pedro Poveda Castroverde and with him founded the Teresian Institute for female teachers; she served as its first director.  Prof"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Josefa-Segovia-Morón.jpg"
 birthYear: 1891

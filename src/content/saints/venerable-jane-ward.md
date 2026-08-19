@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jane Ward"
 honorific: Venerable
-title: "Venerable Jane Ward"
 summary: "Mary was raised in a pious family, and early felt drawn to the religious life. In 1606 she entered the Poor Clare convent at Saint-Omer, France as a lay sister. Founded a Poor Clare house for English sisters in Gravelines, France in 1607. However, feeling drawn to an active rathe"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Jane_at_Skylight_%28cropped%29.jpg"
 searchAliases:

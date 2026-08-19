@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Wu Wenyin"
 honorific: Venerable
-title: "Saint Ioannes Wu Wenyin"
 summary: "Layman catechist in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

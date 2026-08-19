@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Nguyen Van Hien"
 honorific: Venerable
-title: "Saint Phêrô Nguyen Van Hien"
 summary: "Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce Christianity; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Corman of Iona"
 honorific: Saint
-title: "Saint Corman of Iona"
 summary: "Seventh-century priest. Monk at Iona Abbey. Missionary to Northumbria in northern England; he may have been the first priest to evangelize the area."
 searchAliases:
   - "Coman"

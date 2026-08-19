@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roger Lefort"
 honorific: Blessed
-title: "Blessed Roger Lefort"
 summary: "French noble, the son of Godefroy le Fort, the lord of Ternes, Limousin. Nephew of Cardinal de la Chapelle. Bishop of Orleans, France in 1321 while still a sub-deacon. Bishop of Limoges, France  in 1328. Bishop of Bourges, France in 1343. Instituted a feast in honour of Mary's Im"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Roger-Lefort.jpg"
 searchAliases:

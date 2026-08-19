@@ -1,7 +1,6 @@
 ---
 name: "Saint Hubert of Liège"
 honorific: Saint
-title: "Saint Hubert of Liège"
 summary: "Grandson of Charibert, King of Toulouse. Eldest son of Bertrand, Duke of Aquitaine. Worldly, popular and dissolute layman courtier at Nuestria in northwest France in his youth. For political reasons he emigrated, to Austrasia in the border area between modern France and Germany."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damian of Campania"
 honorific: Blessed
-title: "Blessed Damian of Campania"
 summary: "Franciscan Friar Minor."
 searchAliases:
   - "Damiano"

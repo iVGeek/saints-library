@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilarus of Thessalonica"
 honorific: Saint
-title: "Saint Hilarus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

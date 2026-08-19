@@ -1,7 +1,6 @@
 ---
 name: "Saint Lydia of Illyria"
 honorific: Saint
-title: "Saint Lydia of Illyria"
 summary: "Married to Saint Philetus of Illyria; mother of Saint Macedo of Illyria and Saint Theoprepius of Illyria. Martyred in the persecutions of Hadrian."
 image: "http://catholicsaints.info/wp-content/uploads/Lydia.jpg"
 deathYear: 121

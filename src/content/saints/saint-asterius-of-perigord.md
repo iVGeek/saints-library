@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius of Périgord"
 honorific: Saint
-title: "Saint Asterius of Périgord"
 summary: "A convert, baptized by Saint Eparchus of Périgord. Withdrew from the world to live as a hermit, but his reputation for holiness, wisdom and miraculous healing caused many people to seek him out."
 searchAliases:
   - "Astier"

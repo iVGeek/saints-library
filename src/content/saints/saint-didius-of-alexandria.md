@@ -1,7 +1,6 @@
 ---
 name: "Saint Didius of Alexandria"
 honorific: Saint
-title: "Saint Didius of Alexandria"
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 deathYear: 311
 born: "Egyptian"

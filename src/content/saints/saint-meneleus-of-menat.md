@@ -1,7 +1,6 @@
 ---
 name: "Saint Meneleus of Ménat"
 honorific: Saint
-title: "Saint Meneleus of Ménat"
 summary: "Monk at Carméry in Auvergne, France. Restored the monastery of Ménat near Clermont, France, and he served as its abbot."
 searchAliases:
   - "Mauvier"

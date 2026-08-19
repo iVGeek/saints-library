@@ -1,7 +1,6 @@
 ---
 name: "Saint Germana of Numidia"
 honorific: Saint
-title: "Saint Germana of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

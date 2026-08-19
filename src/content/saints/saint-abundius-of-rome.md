@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundius of Rome"
 honorific: Saint
-title: "Saint Abundius of Rome"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 2

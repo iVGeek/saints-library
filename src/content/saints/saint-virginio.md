@@ -1,7 +1,6 @@
 ---
 name: "Saint Virginio"
 honorific: Saint
-title: "Saint Virginio"
 summary: "Soldier. Imperial Roman legionaire. Martyr."
 died: "buried in the cemetery of Saint Priscilla in Rome, Italy"
 deathPlace: "Italy"

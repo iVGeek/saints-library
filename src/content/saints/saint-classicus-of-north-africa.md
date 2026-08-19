@@ -1,7 +1,6 @@
 ---
 name: "Saint Classicus of North Africa"
 honorific: Saint
-title: "Saint Classicus of North Africa"
 summary: "Martyr in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

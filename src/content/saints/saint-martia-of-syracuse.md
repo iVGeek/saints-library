@@ -1,7 +1,6 @@
 ---
 name: "Saint Martia of Syracuse"
 honorific: Saint
-title: "Saint Martia of Syracuse"
 summary: "Martyr. No other details have survived."
 died: "Syracuse, Sicily, date unknown"
 deathPlace: "Sicily, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paula of Tuscany"
 honorific: Blessed
-title: "Blessed Paula of Tuscany"
 summary: "Placed into the care of the local Camaldolese nuns while she was very young, she remained with the order, student and nun, for the rest of her life. Best known for her work as a peacemaker between the Italian cities of Florence and Pisa."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Paula-Nun.jpg"
 birthYear: 1318

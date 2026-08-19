@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius"
 honorific: Saint
-title: "Saint Asterius"
 summary: "Priest under Pope Callistus, whom he secretly buried, and for which act he was killed by order of Emperor Alexander Severus. Martyr."
 searchAliases:
   - "Astericus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Marie Gallot"
 honorific: Blessed
-title: "Blessed Jean-Marie Gallot"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 birthYear: 1747
 deathYear: 1794

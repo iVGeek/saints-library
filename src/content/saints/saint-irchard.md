@@ -1,7 +1,6 @@
 ---
 name: "Saint Irchard"
 honorific: Saint
-title: "Saint Irchard"
 summary: "Seventh century spiritual student of Saint Ternan of Culross. Bishop, consecrated in Rome, Italy by Pope Gregory the Great."
 searchAliases:
   - "Apostle of the Picts"

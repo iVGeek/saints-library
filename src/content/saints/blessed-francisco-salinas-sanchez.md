@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Salinas Sánchez"
 honorific: Blessed
-title: "Blessed Francisco Salinas Sánchez"
 summary: "Layman in the diocese of Almeria, Spain. Franciscan Friars Minor aspirant. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1938

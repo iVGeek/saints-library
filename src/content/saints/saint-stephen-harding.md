@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen Harding"
 honorific: Saint
-title: "Saint Stephen Harding"
 summary: "Born to the English nobility. After a somewhat mis-spent youth, he was drawn to religious life and entered the Benedictine Sherborne Abbey. Following the Norman conquest of England in 1066, Stephen left the monastic life, moved to Scotland and then to Paris, France to study. Pilg"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG/960px-Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG"
 searchAliases:

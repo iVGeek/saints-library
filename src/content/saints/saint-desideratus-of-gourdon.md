@@ -1,7 +1,6 @@
 ---
 name: "Saint Desideratus of Gourdon"
 honorific: Saint
-title: "Saint Desideratus of Gourdon"
 summary: "Sixth-century priest and hermit in Gourdon the area of modern Burgundy, France. Pope Saint Gregory the Great wrote of the admirable holiness of Desideratus. Had the gift of healing by prayer, especially helping those with tooth pain."
 searchAliases:
   - "Désiré"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerius of Thessalonica"
 honorific: Saint
-title: "Saint Valerius of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

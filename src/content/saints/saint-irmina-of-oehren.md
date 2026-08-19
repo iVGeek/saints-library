@@ -1,7 +1,6 @@
 ---
 name: "Saint Irmina of Oehren"
 honorific: Saint
-title: "Saint Irmina of Oehren"
 summary: "Daughter of Saint Dagobert II and the Anglo-Saxon princess Matilda. Sister of Saint Adela of Pfalzel. Grand-daughter of Saint Sigebert III of Austrasia. Princess. Betrothed at age 15 to Count Herman, but he died on their wedding day. Irmina became a nun and founded a Benedictine"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Irmina-of-Oehren.jpg"
 searchAliases:

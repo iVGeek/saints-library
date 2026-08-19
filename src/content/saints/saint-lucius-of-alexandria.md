@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of Alexandria"
 honorific: Saint
-title: "Saint Lucius of Alexandria"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "in 257 at Alexandria, Egypt"

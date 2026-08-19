@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alexius Nakamura"
 honorific: Blessed
-title: "Blessed Alexius Nakamura"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. One of a group of eleven Christians martyred together for their faith during a period of official persecution in Japan."
 birthYear: 1561
 deathYear: 1619

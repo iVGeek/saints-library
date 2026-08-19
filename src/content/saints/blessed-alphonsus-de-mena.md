@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alphonsus de Mena"
 honorific: Blessed
-title: "Blessed Alphonsus de Mena"
 summary: "Nephew of Blessed Peter Paul Navarro. Entered the Dominican Order at Salamanca, Spain. Priest. Missionary to Japan. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/blessed-alphonsus-de-mena/beato-alfonso-de-mena.jpg"
 searchAliases:

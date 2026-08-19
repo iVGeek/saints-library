@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomàs Cubells Miguel"
 honorific: Blessed
-title: "Blessed Tomàs Cubells Miguel"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936

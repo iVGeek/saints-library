@@ -1,7 +1,6 @@
 ---
 name: "Blessed José González Ramos Campos"
 honorific: Blessed
-title: "Blessed José González Ramos Campos"
 summary: "Franciscan Capuchin friar, joining in Andalusia, Spain on 24 June 1896, and making his professed on 11 July 1897. Ordained a priest on 26 April 1903. Provincial Definitor and Superior at several Capuchin convents. Murdered by Marxist militiamen in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Gonzalez-Ramos-Campos.jpg"
 searchAliases:

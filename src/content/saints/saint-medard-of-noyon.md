@@ -1,7 +1,6 @@
 ---
 name: "Saint Medard of Noyon"
 honorific: Saint
-title: "Saint Medard of Noyon"
 summary: "Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen, France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to Vermand, France and to Tournai, Belgium, and freq"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Medard-of-Noyon.jpg"
 searchAliases:

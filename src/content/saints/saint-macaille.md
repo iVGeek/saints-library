@@ -1,7 +1,6 @@
 ---
 name: "Saint Macaille of Croghan"
 honorific: Saint
-title: "Saint Macaille of Croghan"
 summary: "Spiritual student of Saint Mel of Ardagh. Bishop of Croghan, Offaly, Ireland. Helped preside at the ceremony where Saint Brigid of Ireland took her vows."
 searchAliases:
   - "Macculi"

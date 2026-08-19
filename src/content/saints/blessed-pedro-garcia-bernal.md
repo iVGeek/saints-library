@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro García Bernal"
 honorific: Blessed
-title: "Blessed Pedro García Bernal"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-García-Bernal.jpg"
 birthYear: 1911

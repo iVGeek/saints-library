@@ -1,7 +1,6 @@
 ---
 name: "Saint Gredifael of Wales"
 honorific: Saint
-title: "Saint Gredifael of Wales"
 summary: "Friend and co-worker with Saint Paternus of Wales. Abbot of Whitland abbey, Dyfed, Wales."
 born: "7th century"
 region: "England"

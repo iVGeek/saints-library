@@ -1,7 +1,6 @@
 ---
 name: "Saint Socrates of Pamphylia"
 honorific: Saint
-title: "Saint Socrates of Pamphylia"
 summary: "Martyred in the persecutions of emperor Aurelian."
 deathYear: 272
 died: "stabbed to death c.272 by an anti–Christian mob in Pamphylia, Asia Minor"

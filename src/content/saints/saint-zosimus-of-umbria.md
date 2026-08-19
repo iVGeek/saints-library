@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Umbria"
 honorific: Saint
-title: "Saint Zosimus of Umbria"
 summary: "Martyred in the persecutions of Trajan."
 searchAliases:
   - "Zosimus of Spoleto"

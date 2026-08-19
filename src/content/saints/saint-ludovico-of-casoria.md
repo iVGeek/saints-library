@@ -1,7 +1,6 @@
 ---
 name: "Saint Ludovico of Casoria"
 honorific: Venerable
-title: "Saint Ludovico of Casoria"
 summary: "An apprentice cabinet maker as a youth, Arcangelo joined the Franciscan Friars Minor on 1 July 1832, taking the name Ludovico. Priest. Taught philosophy and mathematics to young friars in Naples, Italy. He began working with the poor, founding orphanages and dispensaries. Around"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/CellaLudovicoDaCasoriaConventoTaurano_%28cropped%29.jpg"
 searchAliases:

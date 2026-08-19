@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicetas of Apollonias"
 honorific: Saint
-title: "Saint Nicetas of Apollonias"
 summary: "Bishop of Apollonias in Bithynia (in modern Turkey). Persecuted and exiled to Anatolia for opposing the iconoclasm of emperor Leo III."
 searchAliases:
   - "Nicetas of Bithynia"

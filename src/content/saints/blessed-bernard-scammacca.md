@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernard Scammacca"
 honorific: Blessed
-title: "Blessed Bernard Scammacca"
 summary: "Born to a wealthy and pious family, Bernard was well educated, but spent a wild and dissolute youth. During one of his revels he received a leg wound in a duel. His recovery gave him time to think, and the young man realized that he was headed in the wrong direction. As he was he"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-bernard-scammacca/blessed-bernard-scammacca-01.jpg"
 birthYear: 1430

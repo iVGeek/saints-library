@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurino of Agen"
 honorific: Saint
-title: "Saint Maurino of Agen"
 summary: "Sixth century evangelist in the rural areas of Agen, Aquitaine (in modern France). Martyr."
 searchAliases:
   - "Maurin"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Meléndez Sánchez"
 honorific: Blessed
-title: "Blessed Antonio Meléndez Sánchez"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Martiniano"

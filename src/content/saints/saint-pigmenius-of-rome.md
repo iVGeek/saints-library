@@ -1,7 +1,6 @@
 ---
 name: "Saint Pigmenius of Rome"
 honorific: Saint
-title: "Saint Pigmenius of Rome"
 summary: "Priest in Rome, Italy. Tutor to the young Julian the Apostate. Martyred by order of Julian."
 searchAliases:
   - "Pigmentius"

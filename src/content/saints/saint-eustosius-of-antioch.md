@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustosius of Antioch"
 honorific: Saint
-title: "Saint Eustosius of Antioch"
 summary: "Martyred with 22 companions."
 searchAliases:
   - "Eustasius"

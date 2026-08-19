@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Arciero"
 honorific: Blessed
-title: "Blessed Mariano Arciero"
 summary: "Mariano's family was so poor that he was placed in a home for neglected children. A priest who worked there mentored the boyand took him along to parish missions where Mariano taught catechism to children. In 1729, at age 22, Mariano moved to Naples, Italy. There he studied liter"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Arciero.jpg"
 searchAliases:

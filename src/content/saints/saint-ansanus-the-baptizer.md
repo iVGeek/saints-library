@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansanus the Baptizer"
 honorific: Saint
-title: "Saint Ansanus the Baptizer"
 summary: "Born into the imperial Roman nobility, the son of a pagan senator. Christian convert at age twelve. His father denounced him to the authorities. The boy escaped, and converted so many pagans in Bagnorea and Siena, Italy that he gained the title the Baptizer. Martyred in the perse"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ansanus-the-Baptizer.jpg"
 searchAliases:

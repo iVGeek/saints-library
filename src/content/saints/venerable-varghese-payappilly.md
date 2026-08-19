@@ -1,7 +1,6 @@
 ---
 name: "Venerable Varghese Payappilly"
 honorific: Venerable
-title: "Venerable Varghese Payappilly"
 summary: "Born to a wealthy family, he was educated in the parish school at Perumanoor, India, and at Saint Albert's School in Ernakulam, India. He studied the Central Seminary at Puthenpally, India and the Papal Seminary at Kandy, Sri Lanka. Ordained a priest of the archeparchy of Ernakul"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Varghese-Payappilly.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago García Molina"
 honorific: Blessed
-title: "Blessed Santiago García Molina"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Diego de Cádiz"

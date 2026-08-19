@@ -1,7 +1,6 @@
 ---
 name: "Venerable Élisabeth Bruyère"
 honorific: Venerable
-title: "Venerable Élisabeth Bruyère"
 summary: "Daughter of Jean Baptiste Charles Bruguier and Sophie Mercier. Joined the Sisters of Charity of the Hôpital Général of Montreal (Grey Nuns) in 1839. With three other Sisters of Charity, she opened the first hospital in Ottawa (then known as Bytown; the hospital later became the O"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/%C3%89lisabeth_Bruy%C3%A8re.jpg"
 searchAliases:

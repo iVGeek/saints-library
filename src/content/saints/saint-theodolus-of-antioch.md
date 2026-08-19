@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodolus of Antioch"
 honorific: Saint
-title: "Saint Theodolus of Antioch"
 summary: "Priest in Antioch, Syria. No other information has survived."
 searchAliases:
   - "Theodore"

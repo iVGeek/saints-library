@@ -1,7 +1,6 @@
 ---
 name: "Saint Satyrus"
 honorific: Saint
-title: "Saint Satyrus"
 summary: "Destroyed a pagan idol by making the sign of the cross at it. Martyred by the pagans who had worshipped the thing."
 searchAliases:
   - "Saturus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Vardan Mamikonian"
 honorific: Saint
-title: "Saint Vardan Mamikonian"
 summary: "Born a prince, the son of Hamazasp and Dustr; his maternal grandfather was Isaac, the Armenian katholikos or leader of the regional Church, who saw to the religious training of young Vardan. A career soldier, Vardan became supreme commander of the armies of Armenia in 432. Marrie"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg/960px-Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg"
 searchAliases:

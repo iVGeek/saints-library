@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco García Balanza"
 honorific: Blessed
-title: "Blessed Francisco García Balanza"
 summary: "Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

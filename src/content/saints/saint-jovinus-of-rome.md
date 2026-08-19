@@ -1,7 +1,6 @@
 ---
 name: "Saint Jovinus of Rome"
 honorific: Saint
-title: "Saint Jovinus of Rome"
 summary: "Martyred with four companions, date unknown."
 died: "Rome, Italy"
 deathPlace: "Italy"

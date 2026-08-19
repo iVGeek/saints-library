@@ -1,7 +1,6 @@
 ---
 name: "Blessed Symeon Lukach"
 honorific: Blessed
-title: "Blessed Symeon Lukach"
 summary: "Greek Catholic. Born to a farm family. Entered the seminary in 1913; his studies were interrupted by World War I, but he graduated in and was ordained in 1919. Taught moral theology at the seminary in Ivano-Franksivsk. Believed to have been secretly ordained a bishop in April 194"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Simeon_Lukach.jpg"
 searchAliases:

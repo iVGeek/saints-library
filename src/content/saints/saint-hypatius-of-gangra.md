@@ -1,7 +1,6 @@
 ---
 name: "Saint Hypatius of Gangra"
 honorific: Saint
-title: "Saint Hypatius of Gangra"
 summary: "Bishop of Gangra, Paphlagonia (modern Çankiri, Turkey). Attended the Council of Nicea where he fiercely defended the divinity of Christ. When he returned home, he was martyred by a group of Novatian heretics who opposed his view."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Saint_Hypatius_of_Gangra.jpg"
 searchAliases:

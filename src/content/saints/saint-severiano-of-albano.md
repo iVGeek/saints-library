@@ -1,7 +1,6 @@
 ---
 name: "Saint Severiano of Albano"
 honorific: Saint
-title: "Saint Severiano of Albano"
 summary: "Martyr. No other information has survived."
 died: "Albano, Italy"
 deathPlace: "Italy"

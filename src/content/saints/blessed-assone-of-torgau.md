@@ -1,7 +1,6 @@
 ---
 name: "Blessed Assone of Torgau"
 honorific: Blessed
-title: "Blessed Assone of Torgau"
 summary: "Franciscan friar known for the holiness of his life and as a miracle worker."
 searchAliases:
   - "Asso"

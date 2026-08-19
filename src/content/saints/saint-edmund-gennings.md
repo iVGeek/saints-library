@@ -1,7 +1,6 @@
 ---
 name: "Saint Edmund Gennings"
 honorific: Venerable
-title: "Saint Edmund Gennings"
 summary: "Convert to Catholicism at age 17. He studied and was ordained at Rheims, France in 1590. He then returned to England to minister to covert Catholics. One of the Forty Martyrs of England and Wales."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Edmund_Gennings.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatus of Rome"
 honorific: Saint
-title: "Saint Rogatus of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

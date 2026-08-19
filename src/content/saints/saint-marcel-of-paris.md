@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcel of Paris"
 honorific: Saint
-title: "Saint Marcel of Paris"
 summary: "Ninth bishop of Paris, France. Chaired the Council of Paris in 360 - 361 which recognized the edicts of the Council of Nicaea in 325. Supported Saint Genevieve. Legend says that there was a dragon in Paris which was devouring women of “ill repute”; Marcel defeated it by striking"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marcel-of-Paris.jpg"
 searchAliases:

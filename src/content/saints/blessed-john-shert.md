@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Shert"
 honorific: Blessed
-title: "Blessed John Shert"
 summary: "Educated at Brasenose College, Oxford, England graduating in 1566. Schoolmaster in London, England. Convert to Catholicism. Servant to Dr Thomas Stapleton at Douai, France. Studied at Douai, and at Rome, Italy. Ordained in 1576 at the English College at Rome. Returned to England"
 deathYear: 1582
 born: "at Shert Hall, near Macclesfield, Cheshire, England"

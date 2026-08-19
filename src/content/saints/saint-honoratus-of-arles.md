@@ -1,7 +1,6 @@
 ---
 name: "Saint Honoratus of Arles"
 honorific: Saint
-title: "Saint Honoratus of Arles"
 summary: "Son of a Roman consul, and raised as a pagan. Converted to Christianity as a young man. Friend of Saint Caprasius; brother of Saint Venantius. Lived and studied monasticism in Greece, Egypt and Palestine. When he returned to France, he founded the abbey of L&eacute;rins on the is"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Honoratus-of-Arles-1.jpg"
 searchAliases:

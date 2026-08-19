@@ -1,7 +1,6 @@
 ---
 name: "Saint Martin of Brive"
 honorific: Saint
-title: "Saint Martin of Brive"
 summary: "Born to a pagan family, Martin converted to Christianity as a young man and left Spain to live in the area of Périgord, France. In a village part of modern Brive-la-Gaillarde, France, Martin smashed up a pagan altar. The mob turned on him, stoned and killed him. Martyr."
 searchAliases:
   - "Martin the Spaniard"

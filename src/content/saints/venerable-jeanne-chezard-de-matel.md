@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jeanne Chézard de Matel"
 honorific: Venerable
-title: "Venerable Jeanne Chézard de Matel"
 summary: "Founder of the Ordre du Verbe Incarné (Sisters of the Incarnate Word and Blessed Sacrament)."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-jeanne-chezard-de-matel/venerable-jeanne-chezard-de-matel-01.jpg"
 birthYear: 1596

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic of the Holy Rosary"
 honorific: Blessed
-title: "Blessed Dominic of the Holy Rosary"
 summary: "Dominican novice. Marytr."
 searchAliases:
   - "Ioannes Nagata Magoshichiro"

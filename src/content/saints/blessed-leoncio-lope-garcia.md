@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leoncio Lope García"
 honorific: Blessed
-title: "Blessed Leoncio Lope García"
 summary: "Augustinian friar."
 birthYear: 1902
 deathYear: 1936

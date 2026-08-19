@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacquine Monnier"
 honorific: Blessed
-title: "Blessed Jacquine Monnier"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1726
 deathYear: 1794

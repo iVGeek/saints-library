@@ -1,7 +1,6 @@
 ---
 name: "Saint Abraham of Cyriacus"
 honorific: Saint
-title: "Saint Abraham of Cyriacus"
 summary: "While seeking to learn from hermits, Abraham was captured by bandits in Egypt, he was imprisoned and enslaved by them for five years before he could escape. Making his way to Europe, he lived as a hermit near Clermont, Gaul (modern France). Priest. Abbot of Saint Cyriacus abbey."
 searchAliases:
   - "Abraham of St-Cirgue"

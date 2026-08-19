@@ -1,7 +1,6 @@
 ---
 name: "Saint Genesius, Count of Clermont"
 honorific: Saint
-title: "Saint Genesius, Count of Clermont"
 summary: "Born to the nobility, the son of Audastrius and Tranquilla. Miracle worker in his youth, restoring sight to the blind, healing the lame. Built and richly endowed several churches and religious houses. Friend of Saint Bonitus, Bishop of Clermont, and of Saint Meneleus, Abbot of Me"
 deathYear: 725
 died: "725 of natural causes"

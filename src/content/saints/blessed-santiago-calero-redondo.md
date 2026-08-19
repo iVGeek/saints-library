@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Calero Redondo"
 honorific: Blessed
-title: "Blessed Santiago Calero Redondo"
 summary: "Priest of the diocese of Córdoba, Spain, serving as parish priest in the Villa del Río community. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

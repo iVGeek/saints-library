@@ -1,7 +1,6 @@
 ---
 name: "Blessed Astolfo Lobo"
 honorific: Blessed
-title: "Blessed Astolfo Lobo"
 summary: "Member of the Mercedarians. Priest. Bishop in Tournai, Belgium. Noted theologian in his day, known for his ministry to the poor."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Astolfo-Lobo.jpg"
 region: "Belgium"

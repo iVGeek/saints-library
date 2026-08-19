@@ -1,7 +1,6 @@
 ---
 name: "Saint Acteie of Rome"
 honorific: Saint
-title: "Saint Acteie of Rome"
 summary: "Martyr. No other information has survived."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonius Anazawa Han'emon"
 honorific: Blessed
-title: "Blessed Antonius Anazawa Han'emon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Crescentia Anazawa. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

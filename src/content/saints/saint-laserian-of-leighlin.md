@@ -1,7 +1,6 @@
 ---
 name: "Saint Laserian of Leighlin"
 honorific: Saint
-title: "Saint Laserian of Leighlin"
 summary: "Son of Cairel. Student of Saint Murin of Fahan. Hermit on Holy Island, Lamlach bay. Ordained by Pope Saint Gregory the Great in Rome, Italy. Consecrated bishop by Pope Honorius I. Apostolic Legate to settle the question of the Easter observance."
 image: "http://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg"
 searchAliases:

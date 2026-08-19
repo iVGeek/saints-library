@@ -1,7 +1,6 @@
 ---
 name: "Saint Octavian of Volterra"
 honorific: Saint
-title: "Saint Octavian of Volterra"
 summary: "Octavian, along with Saint Justus, Saint Clemente and a group of other Christian priests and laity, fled North Africa for Tuscany to escape 6th century persecutions. While the others became part of the community, Octavian withdrew to live as a solitary hermit in a hollow tree nea"
 searchAliases:
   - "Ottaviano"

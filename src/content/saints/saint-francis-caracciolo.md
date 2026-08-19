@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis Caracciolo"
 honorific: Saint
-title: "Saint Francis Caracciolo"
 summary: "Born to the nobility; related to Saint Thomas Aquinas and to the princes of Naples. Enjoyed hunting. Cured of a leprous-like disease at age 22, he took the cure as a miraculous sign for his life. He sold his goods, gave the money to the poor, and went to study theology in Naples,"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Saint_Francis_Caracciolo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis Barreau de La Touche"
 honorific: Blessed
-title: "Blessed Louis Barreau de La Touche"
 summary: "Benedictine Maurist priest. One of the Martyrs of September."
 birthYear: 1758
 deathYear: 1792

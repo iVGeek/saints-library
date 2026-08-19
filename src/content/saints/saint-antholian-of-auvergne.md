@@ -1,7 +1,6 @@
 ---
 name: "Saint Antholian of Auvergne"
 honorific: Saint
-title: "Saint Antholian of Auvergne"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Antoliano"

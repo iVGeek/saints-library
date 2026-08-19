@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gemma of Goriano"
 honorific: Blessed
-title: "Blessed Gemma of Goriano"
 summary: "Born to a poor but pious farm family, they all moved into the village of Goriano Sicoli, diocese of Sulmona, Italy to try to improve their finances. Gemma was orphaned while still a young girl when both parents died in an epidemic; she lived with relatives and worked as a shepher"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gemma-of-Goriano-1.jpg"
 searchAliases:

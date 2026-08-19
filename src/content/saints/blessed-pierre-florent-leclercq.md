@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Florent Leclercq"
 honorific: Blessed
-title: "Blessed Pierre-Florent Leclercq"
 summary: "Deacon in the diocese of Amiens, France. One of the Martyrs of September."
 searchAliases:
   - "Pierre-Florent Clercq"

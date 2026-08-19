@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucanus of Lagny"
 honorific: Saint
-title: "Saint Lucanus of Lagny"
 summary: "Martyr."
 died: "5th-century in Lagny, France where his relics are enshrined"
 deathPlace: "France where his relics are enshrined"

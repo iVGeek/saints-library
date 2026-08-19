@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartholomew of Vicenza"
 honorific: Blessed
-title: "Blessed Bartholomew of Vicenza"
 summary: "Joined the Dominicans at Bologna, Italy, receiving the habit from Saint Dominic himself. Noted preacher throughout Lombardy and Emilia in Italy. Bishop of Limassol, Cyprus in 1253. Bishop of Vincenza, Italy in 1255. Worked as a peace maker between warring factions in the region."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-of-Vicenza.jpg"
 searchAliases:

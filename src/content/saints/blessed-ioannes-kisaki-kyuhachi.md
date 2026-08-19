@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Kisaki Kyuhachi"
 honorific: Blessed
-title: "Blessed Ioannes Kisaki Kyuhachi"
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Derwa"
 honorific: Saint
-title: "Saint Derwa"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Diogenius of Tomi"
 honorific: Saint
-title: "Saint Diogenius of Tomi"
 summary: "One of a group of Christians martyred together. No other information has survived."
 died: "at Tomi, Exinius Pontus, Moesia (modern Constanta, Romania)"
 deathPlace: "Exinius Pontus, Moesia (modern Constanta, Romania)"

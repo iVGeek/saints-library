@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ion Costist"
 honorific: Blessed
-title: "Blessed Ion Costist"
 summary: "A pious boy raised in Romania, he emigrated to Italy at age 19 because he thought the greatest Christians could be found there. Franciscan lay brother, taking the name Jeremiah. He developed a ministry of caring for the poor, sick and crippled, begging alms that always went to th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ion-Costist.jpg"
 searchAliases:

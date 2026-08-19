@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carlos López Vidal"
 honorific: Blessed
-title: "Blessed Carlos López Vidal"
 summary: "Lifelong layman in the archdiocese of Valencia, Spain. Sacristan of the collegiate church of Gandia, Spain. Married to Rosa Tarazona Ribanocha in October 1923. Member of several lay apostolate groups, including Catholic Action, and known as a man of faith and prayer with a devoti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-López-Vidal.jpg"
 birthYear: 1894

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Bathe"
 honorific: Blessed
-title: "Blessed Thomas Bathe"
 summary: "Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"

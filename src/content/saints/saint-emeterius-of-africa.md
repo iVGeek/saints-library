@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeterius of Africa"
 honorific: Saint
-title: "Saint Emeterius of Africa"
 summary: "Martyr."
 searchAliases:
   - "Emerita"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierina Morosini"
 honorific: Blessed
-title: "Blessed Pierina Morosini"
 summary: "One of eight children in a poor family in the diocese of Bergamo, Italy. Trained as a seamstress, she began work in a fabric factory at age 15. A pious girl, she had made a private vow of chastity to God, and considered religious life, but continued to live at home to help her mo"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pierina_Morosini.jpg"
 birthYear: 1931

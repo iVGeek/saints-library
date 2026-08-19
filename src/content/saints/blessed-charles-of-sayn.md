@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles of Sayn"
 honorific: Blessed
-title: "Blessed Charles of Sayn"
 summary: "Son of a wealthy merchant from Cologne, Germany. Trained as a soldier. Knight. On his way home from a jousting tournament, he finally gave into the call to religious life and became a Cistercian monk at Hemmerode in 1185. Prior of Heisterbach Abbey in 1189. Abbot of Villers Abbey"
 searchAliases:
   - "Charles of Cologne"

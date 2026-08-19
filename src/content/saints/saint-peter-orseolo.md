@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Orseolo"
 honorific: Saint
-title: "Saint Peter Orseolo"
 summary: " Chosen Doge of Venice on 12 August 976, Born to a wealthy, noble, and prominent family. Married at age 18 to Felicitas, and the father of one son, Peter, who became the Doge of Venice in 991. Admiral and commander of the Venetian fleet by age 20. Rid the Adriatic Sea of pirates."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Orseolo.jpg"
 searchAliases:

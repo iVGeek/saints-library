@@ -1,7 +1,6 @@
 ---
 name: "Venerable María Antonia Pereira Andrade"
 honorific: Venerable
-title: "Venerable María Antonia Pereira Andrade"
 summary: "Discaled Carmelite nun."
 searchAliases:
   - "Sister María Antonia of Jesus"

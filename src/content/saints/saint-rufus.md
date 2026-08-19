@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus"
 honorific: Saint
-title: "Saint Rufus"
 summary: "Martyred with his entire household in the persecutions of Diocletian. No other information has survived."
 deathYear: 304
 born: "imperial Roman citizen"

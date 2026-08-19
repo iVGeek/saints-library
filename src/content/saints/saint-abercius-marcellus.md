@@ -1,7 +1,6 @@
 ---
 name: "Saint Abercius Marcellus"
 honorific: Saint
-title: "Saint Abercius Marcellus"
 summary: "Resident of Phrygia Salutaris. Bishop of Hierapolis (an area of modern southwestern Turkey). Active missionary in his region. He was imprisoned for a period as a threat to civil order for opposing paganism. At age 72 he was summoned to Rome, Italy to exorcise a demon from Lucilla"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Abercius-Marcellus.jpg"
 searchAliases:

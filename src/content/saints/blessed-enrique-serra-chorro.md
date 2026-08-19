@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enrique Serra Chorro"
 honorific: Blessed
-title: "Blessed Enrique Serra Chorro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936

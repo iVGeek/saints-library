@@ -1,7 +1,6 @@
 ---
 name: "Saint Timothy of Antioch"
 honorific: Saint
-title: "Saint Timothy of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

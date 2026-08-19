@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilius of Ravenna"
 honorific: Saint
-title: "Saint Emilius of Ravenna"
 summary: "Martyr."
 searchAliases:
   - "Emelus"

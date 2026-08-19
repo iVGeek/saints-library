@@ -1,7 +1,6 @@
 ---
 name: "Saint Bettelin"
 honorific: Saint
-title: "Saint Bettelin"
 summary: "I have no details on this saint."
 searchAliases:
   - "Bertram"

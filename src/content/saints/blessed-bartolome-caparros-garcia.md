@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartolomé Caparrós García"
 honorific: Blessed
-title: "Blessed Bartolomé Caparrós García"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolome-Caparros-Garcia.jpg"
 birthYear: 1872

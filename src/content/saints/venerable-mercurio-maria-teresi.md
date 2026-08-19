@@ -1,7 +1,6 @@
 ---
 name: "Venerable Mercurio Maria Teresi"
 honorific: Venerable
-title: "Venerable Mercurio Maria Teresi"
 summary: "Ordained a priest of the diocese of Cefalù, Italy on 21 September 1765. Chosen archbishop of the archdiocese of Monreale, Italy on 24 May 1802 where he served the remaining years of his life."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Mercurio-Maria-Teresi.jpg"
 birthYear: 1742

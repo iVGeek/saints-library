@@ -1,7 +1,6 @@
 ---
 name: "Saint Zenaides of Caesarea"
 honorific: Saint
-title: "Saint Zenaides of Caesarea"
 summary: "Convert. Martyr."
 searchAliases:
   - "Zenaide"

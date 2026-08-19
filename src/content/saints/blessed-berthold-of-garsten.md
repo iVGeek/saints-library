@@ -1,7 +1,6 @@
 ---
 name: "Blessed Berthold of Garsten"
 honorific: Blessed
-title: "Blessed Berthold of Garsten"
 summary: "Born to the nobility. Benedictine monk at the Abbey of Saint Blaise in the Black Forest in Germany. Priest. Prior of Gottweig Abbey in 1107. Developed and served as first abbot of Garsden Abbey in 1111. Introduced the Hirsau Reforms into Austria. Known for his strict adherence to"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Melk75.jpg"
 searchAliases:

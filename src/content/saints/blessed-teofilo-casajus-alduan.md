@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teófilo Casajús Alduán"
 honorific: Blessed
-title: "Blessed Teófilo Casajús Alduán"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

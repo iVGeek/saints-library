@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Veron"
 honorific: Blessed
-title: "Blessed Jeanne Veron"
 summary: "Member of the Sisters of Charity of Our Lady of Evron. Martyred in the French Revolution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jeanne-Veron.jpg"
 birthYear: 1766

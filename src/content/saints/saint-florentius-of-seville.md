@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Seville"
 honorific: Saint
-title: "Saint Florentius of Seville"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Fiorenzo"

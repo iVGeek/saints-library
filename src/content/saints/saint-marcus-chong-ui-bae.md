@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcus Chong Ui-Bae"
 honorific: Venerable
-title: "Saint Marcus Chong Ui-Bae"
 summary: "Raised in a pagan family, he became a teacher. He married but was a widower with no children. He became interested in Christianity when he saw the calm with which two priests met their martyrdom. He began studying, read himself into the faith, and converted. He served as a catech"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marcus-Chong-Ui-Bae.jpg"
 searchAliases:

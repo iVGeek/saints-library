@@ -1,7 +1,6 @@
 ---
 name: "Saint Thessalonica of Amphipolis"
 honorific: Saint
-title: "Saint Thessalonica of Amphipolis"
 summary: "Martyr. No other information has survived."
 died: "Amphipolis, Macedonia"
 deathPlace: "Macedonia"

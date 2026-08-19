@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugh of Sassoferrato"
 honorific: Blessed
-title: "Blessed Hugh of Sassoferrato"
 summary: "Studied at Bologna, Italy. Spiritual student of Saint Sylvester Guzzolini. Benedictine monk."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-of-Sassoferrato.jpg"
 searchAliases:

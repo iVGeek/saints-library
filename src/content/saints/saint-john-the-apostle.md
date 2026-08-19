@@ -1,7 +1,6 @@
 ---
 name: "Saint John the Apostle"
 honorific: Saint
-title: "Saint John the Apostle"
 summary: "Son of Zebedee and Salome. Fisherman. Brother of Saint James the Greater, and called one of the Sons of Thunder. Disciple of Saint John the Baptist. Friend of Saint Peter the Apostle. Called by Jesus during the first year of His ministry, and traveled everywhere with Him, becomin"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rubens_apostel_johannes_grt.jpg/960px-Rubens_apostel_johannes_grt.jpg"
 searchAliases:

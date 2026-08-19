@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilissa of Nicomedia"
 honorific: Saint
-title: "Saint Basilissa of Nicomedia"
 summary: "Martyred at age 9 in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Basilissa-of-Nicomedia.jpg"
 searchAliases:

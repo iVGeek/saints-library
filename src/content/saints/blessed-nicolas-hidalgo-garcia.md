@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Hidalgo García"
 honorific: Blessed
-title: "Blessed Nicolás Hidalgo García"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Bujalance community. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936

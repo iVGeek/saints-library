@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Luis Palacio Muñiz"
 honorific: Blessed
-title: "Blessed José Luis Palacio Muñiz"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936

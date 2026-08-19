@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jan Beyzym"
 honorific: Blessed
-title: "Blessed Jan Beyzym"
 summary: "Son of a Polish freedom fighter. Jesuit priest. Teacher at Jesuit boarding schools in Tarnopol and Chyrów. In 1898 he became a missionary to lepers near Tananariwa, Madagascar. In 1902 he began construction of a leper hospital at Marana, Madagascar; he never gave up, but it took"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Beyzym.jpg"
 birthYear: 1850

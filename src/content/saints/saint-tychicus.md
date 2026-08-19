@@ -1,7 +1,6 @@
 ---
 name: "Saint Tychicus"
 honorific: Saint
-title: "Saint Tychicus"
 summary: "Spiritual student of Saint Paul the Apostle who delivered several of the letters to early churches; many became part of the New Testament. He is described by Paul in the Epistle to the Ephesians as “beloved brother and faithful servant in the Lord”, and is believed to have been a"
 searchAliases:
   - "Tychichus"

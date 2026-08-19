@@ -1,7 +1,6 @@
 ---
 name: "Saint Stanislaw of Jesus and Mary"
 honorific: Venerable
-title: "Saint Stanislaw of Jesus and Mary"
 summary: "Youngest of eight children of Tomasz Papczyński, a village blacksmith and bailiff and Zofia Tacikowska. As a boy he worked as a shepherd, tending his father's sheep. He was not a natural student, but he worked hard and graduated from a series of schools, colleges and seminaries."
 
 image: "http://catholicsaints.info/wp-content/uploads/papczynski.jpg"

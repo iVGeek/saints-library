@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicitas of North Africa"
 honorific: Saint
-title: "Saint Felicitas of North Africa"
 summary: "Martyred in North Africa."
 region: "Africa"
 feastDay:

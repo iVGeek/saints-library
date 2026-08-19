@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip of Palermo"
 honorific: Saint
-title: "Saint Philip of Palermo"
 summary: "A wealthy couple of the Settimi family of Palermo, Italy had finally accepted that they were not going to have children. The man made a pilgrimage to ask Saint Philip of Agira what he should do with his estate when he died. Philip told him to hold onto it as the prayers of the co"
 region: "Italy"
 feastDay:

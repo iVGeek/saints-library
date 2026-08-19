@@ -1,7 +1,6 @@
 ---
 name: "Saint Philo"
 honorific: Saint
-title: "Saint Philo"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

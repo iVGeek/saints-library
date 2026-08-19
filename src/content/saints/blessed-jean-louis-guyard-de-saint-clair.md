@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Louis Guyard de Saint-Clair"
 honorific: Blessed
-title: "Blessed Jean-Louis Guyard de Saint-Clair"
 summary: "Priest in the diocese of Beauvais, France. One of the Martyrs of September."
 birthYear: 1734
 deathYear: 1792

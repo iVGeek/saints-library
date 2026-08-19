@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Hattori"
 honorific: Blessed
-title: "Blessed Petrus Hattori"
 summary: "Young son of Blessed Ioannes Hattori Jingoro. Martyr."
 birthYear: 1604
 deathYear: 1609

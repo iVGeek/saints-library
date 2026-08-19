@@ -1,7 +1,6 @@
 ---
 name: "Saint Antigonus of Rome"
 honorific: Saint
-title: "Saint Antigonus of Rome"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 2

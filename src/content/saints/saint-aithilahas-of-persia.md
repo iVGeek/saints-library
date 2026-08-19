@@ -1,7 +1,6 @@
 ---
 name: "Saint Aithilahas of Persia"
 honorific: Saint
-title: "Saint Aithilahas of Persia"
 summary: "Priest. Martyred in the persecutions of King Shapur II."
 searchAliases:
   - "Aithalla"

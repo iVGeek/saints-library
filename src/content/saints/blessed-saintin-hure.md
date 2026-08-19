@@ -1,7 +1,6 @@
 ---
 name: "Blessed Saintin Huré"
 honorific: Blessed
-title: "Blessed Saintin Huré"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 searchAliases:
   - "Santino"

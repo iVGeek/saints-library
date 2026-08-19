@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Laodicea"
 honorific: Saint
-title: "Saint Theophilus of Laodicea"
 summary: "Martyr."
 searchAliases:
   - "Theophilos"

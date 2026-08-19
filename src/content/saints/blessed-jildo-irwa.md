@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jildo Irwa"
 honorific: Blessed
-title: "Blessed Jildo Irwa"
 summary: "Convert at about age eleven. Catechist with Blessed Daudi Okelo. Local chiefs demanded that the two of them stop teaching the Gospel; they refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Daudi-Okelo.jpg"
 birthYear: 1906

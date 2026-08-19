@@ -1,7 +1,6 @@
 ---
 name: "Saint Modesto of Sardinia"
 honorific: Saint
-title: "Saint Modesto of Sardinia"
 summary: "Deacon. Martyred in the persecutions of Diocletian."
 deathYear: 304
 born: "Sardinia, Italy"

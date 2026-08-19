@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Tripoli"
 honorific: Saint
-title: "Saint Paul of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"

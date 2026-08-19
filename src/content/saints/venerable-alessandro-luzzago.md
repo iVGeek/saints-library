@@ -1,7 +1,6 @@
 ---
 name: "Venerable Alessandro Luzzago"
 honorific: Venerable
-title: "Venerable Alessandro Luzzago"
 summary: "Lifelong lay man who was elected to the city council of Milan, Italy where he worked to smooth relations between Church and state authorities. He founded schools and charities in the area. Though he was a layman, he was briefly considered for the position of archbishop of Milan."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Alessandro_Luzzago.jpg"
 birthYear: 1551

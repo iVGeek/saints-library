@@ -1,7 +1,6 @@
 ---
 name: "Saint Julia of Lisbon"
 honorific: Saint
-title: "Saint Julia of Lisbon"
 summary: "Martyred with her brother Saint Verissimus of Lisbon and sister Saint Maxima of Lisbon in the persecution of Diocletian."
 deathYear: 304
 died: "c.304"

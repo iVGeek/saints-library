@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerian of Trebizond"
 honorific: Saint
-title: "Saint Valerian of Trebizond"
 summary: "During the persecutions of Diocletian she fled into the mountains, believing it was safer with the wild animals than people. However, she was caught and executed. Martyr."
 searchAliases:
   - "Valarianus"

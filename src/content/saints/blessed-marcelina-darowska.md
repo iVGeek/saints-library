@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelina Darowska"
 honorific: Blessed
-title: "Blessed Marcelina Darowska"
 summary: "Born to a land-owning Polish family, Marcellina was a pious child with a love of prayer. Though she would have preferred a religious life, she promised her dying father that she would marry and raise a family. Married Karol Darowski in 1849, and sanctified her marriage “by living"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MarcelinaDarowska1DSC_0167.JPG/960px-MarcelinaDarowska1DSC_0167.JPG"
 searchAliases:

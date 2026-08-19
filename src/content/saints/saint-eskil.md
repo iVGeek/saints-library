@@ -1,7 +1,6 @@
 ---
 name: "Saint Eskil"
 honorific: Saint
-title: "Saint Eskil"
 summary: "Missionary, working in Sweden with Saint Ansgar. Bishop. He converted so many pagan Swedes to Christianity that he was condemned to death by King Swerker the Bloody. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Overselo_L1valv4a_detail_%28left%29.jpg"
 searchAliases:

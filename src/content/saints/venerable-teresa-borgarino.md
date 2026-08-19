@@ -1,7 +1,6 @@
 ---
 name: "Venerable Teresa Borgarino"
 honorific: Venerable
-title: "Venerable Teresa Borgarino"
 summary: "Member of the Company of the Daughters of Charity of Saint Vincent de Paul."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Borgarino.jpg"
 searchAliases:

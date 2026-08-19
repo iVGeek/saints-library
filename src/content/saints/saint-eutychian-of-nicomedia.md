@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychian of Nicomedia"
 honorific: Saint
-title: "Saint Eutychian of Nicomedia"
 summary: "Martyr."
 searchAliases:
   - "Eutichiano"

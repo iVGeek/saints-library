@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingos Jorge"
 honorific: Blessed
-title: "Blessed Domingos Jorge"
 summary: "Soldier. Immigrant to Japan. Layman. Member of the Confraternity of the Rosary. Arrested for hiding the Christian missionary Blessed John Spinola during a persecution of the faith. Martyr."
 searchAliases:
   - "Dominic Jorjes"

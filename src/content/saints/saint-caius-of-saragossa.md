@@ -1,7 +1,6 @@
 ---
 name: "Saint Caius of Saragossa"
 honorific: Saint
-title: "Saint Caius of Saragossa"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Saragossa, Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurelius of Carthage"
 honorific: Saint
-title: "Saint Aurelius of Carthage"
 summary: "Bishop of Carthage in North Africa. Worked with Saint Augustine of Hippo. One of the first to denounce the heresy of Pelagianism."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelius-of-Carthage.jpg"
 deathYear: 426

@@ -1,7 +1,6 @@
 ---
 name: "Saint Failbe of Disert Mic Conlocha"
 honorific: Saint
-title: "Saint Failbe of Disert Mic Conlocha"
 summary: "No information about this saint has survived."
 searchAliases:
   - "Failbe of Mic Con Locha"

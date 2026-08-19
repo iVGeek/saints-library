@@ -1,7 +1,6 @@
 ---
 name: "Saint Ewald the Fair"
 honorific: Saint
-title: "Saint Ewald the Fair"
 summary: "Priest. Studied in Ireland. Knew Saint Willibrord of Echternach. Missionary to Saxony with Saint Ewald the Black c.690. Tortured and murdered by pagan Saxons who feared to give up the old religion. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Ewalde_scan_fair.jpg"
 searchAliases:

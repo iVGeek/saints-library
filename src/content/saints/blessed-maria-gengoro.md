@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Gengoro"
 honorific: Blessed
-title: "Blessed Maria Gengoro"
 summary: "Lay woman in the diocese of Fukuoka, Japan. Married to Blessed Thomas Gengoro; mother of Blessed Iacobus. Member of the Confraternity of the Rosary. Martyred in the persecutions of governor Yetsundo."
 born: "Kiyota, Japan"
 birthPlace: "Japan"

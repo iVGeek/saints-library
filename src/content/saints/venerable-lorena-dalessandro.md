@@ -1,7 +1,6 @@
 ---
 name: "Venerable Lorena d'Alessandro"
 honorific: Venerable
-title: "Venerable Lorena d'Alessandro"
 summary: "The eldest of three children, Lorena developed bone cancer as a small child, had a transplant at age 10, and an amputation at age 12. She served as a cantor at her high school and parish Masses, catechist at her parish, was a member of Renewal in the Holy Spirit, and carried all"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Lorena-dAlessandro.jpg"
 birthYear: 1964

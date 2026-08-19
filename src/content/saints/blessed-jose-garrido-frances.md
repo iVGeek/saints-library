@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Garrido Francés"
 honorific: Blessed
-title: "Blessed José Garrido Francés"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936

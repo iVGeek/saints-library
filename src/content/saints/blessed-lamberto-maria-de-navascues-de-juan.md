@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lamberto María de Navascués de Juan"
 honorific: Blessed
-title: "Blessed Lamberto María de Navascués de Juan"
 summary: "Lamberto studied with Jesuits, and then the Marists, and then went to law school at the university in Zaragoza, Spain. He dropped out before obtaining his law license, becoming a Dominican co-operator brother on 17 May 1935. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lamberto-María-de-Navascués-de-Juan.jpg"
 birthYear: 1911

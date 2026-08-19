@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florentina Nicol Goñi"
 honorific: Blessed
-title: "Blessed Florentina Nicol Goñi"
 summary: "Youngest of four children. Educated in the Saint Rose of Lima Dominican boarding school at Huesca, Spain where she became a Dominican nun in 1885, taking the name Ascensi&oacute;n. Teacher in 1886. In 1913 the Spanish state took over the school expelled the sisters. Missionary to"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-florentina-nicol-goni/blessed-florentina-nicol-goni-01.jpg"
 searchAliases:

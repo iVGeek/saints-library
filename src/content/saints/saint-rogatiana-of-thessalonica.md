@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatiana of Thessalonica"
 honorific: Saint
-title: "Saint Rogatiana of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

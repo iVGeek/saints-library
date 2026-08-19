@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enrique María Gómez Jiménez"
 honorific: Blessed
-title: "Blessed Enrique María Gómez Jiménez"
 summary: "Baptized at the age of two days. After studying at the seminary of Saint Julian, he was ordained a priest in the diocese of Almería, Spain on 26 May 1888. Chaplain of the convent of San Clemente in 1890. Parish priest in Villar de Cantos, Spain. Bursar of the collegiate church of"
 birthYear: 1865
 deathYear: 1936

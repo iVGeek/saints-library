@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene of Tivoli"
 honorific: Saint
-title: "Saint Eugene of Tivoli"
 summary: "Martyred in the persecutions of Hadrian."
 died: "early 2nd century in Tivoli, Italy"
 deathPlace: "Italy"

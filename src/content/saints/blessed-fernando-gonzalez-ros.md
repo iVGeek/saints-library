@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fernando González Ros"
 honorific: Blessed
-title: "Blessed Fernando González Ros"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Fernando-Gonzalez-Ros.jpg"
 birthYear: 1871

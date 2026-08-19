@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ciriaco Olarte Pérez de Mendiguren"
 honorific: Blessed
-title: "Blessed Ciriaco Olarte Pérez de Mendiguren"
 summary: "Ciriaco joined the Redemptorists at El Espino, Spain on 21 September 1904. Ordained a priest in the diocese of Cuenca, Spain on 29 July 1917. Missionary to Mexico from 1920 to 1926 when the anti-clerical attitude of the authorities led him to return to Spain where he served at th"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ciriaco-Olarte-Perez-de-Mendiguren.jpg"
 birthYear: 1893

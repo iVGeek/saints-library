@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardino Calle Franco"
 honorific: Blessed
-title: "Blessed Bernardino Calle Franco"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

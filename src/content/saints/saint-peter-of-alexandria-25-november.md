@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Alexandria"
 honorific: Saint
-title: "Saint Peter of Alexandria"
 summary: " During th Suffered in the persecution of Decius, but survived. Renowned for his knowledge of science and the Bible. Head of the catechetical school at Alexandria, Egypt. Bishop of Alexandria in 300. Opposed extreme Origenism. May have been the first to deal with the Arian heresy."
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-peter-of-alexandria-bishop-martyr.jpg"
 deathYear: 311

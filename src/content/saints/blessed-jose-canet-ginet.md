@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Canet Ginet"
 honorific: Blessed
-title: "Blessed José Canet Ginet"
 summary: "Born to a poor family. Studied at the seminary in Valencia, Spain. Ordained a priest in the archdiocese of Valencia, Spain in 1930. Parish priest in Catamarruch and Margarida; in both places he revitalized parish life, and developed a ministry to the poor and prisoners. Helped sp"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Canet-Ginet.jpg"
 birthYear: 1903

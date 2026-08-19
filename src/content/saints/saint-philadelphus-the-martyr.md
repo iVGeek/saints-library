@@ -1,7 +1,6 @@
 ---
 name: "Saint Philadelphus the Martyr"
 honorific: Saint
-title: "Saint Philadelphus the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 9

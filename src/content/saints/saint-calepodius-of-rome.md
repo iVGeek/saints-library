@@ -1,7 +1,6 @@
 ---
 name: "Saint Calepodius of Rome"
 honorific: Saint
-title: "Saint Calepodius of Rome"
 summary: "Priest. Martyred in the persecutions of Emperor Alexander Severus. One of the Roman catacombs is named for him."
 searchAliases:
   - "Calepodio"

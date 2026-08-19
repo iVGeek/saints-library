@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisca Aldea y Araujo"
 honorific: Blessed
-title: "Blessed Francisca Aldea y Araujo"
 summary: "Orphaned at an early age, Francisca grew up and was educated at Saint Susanna's College in Madrid, Spain, a school run by the Sisters of Charity of the Sacred Heart of Jesus. When she came of age, she joined the Sisters. She served as a teacher until being chosen assistant genera"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisca-Aldea-y-Araujo.jpg"
 searchAliases:

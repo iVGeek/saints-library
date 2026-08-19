@@ -1,7 +1,6 @@
 ---
 name: "Saint Afflinus"
 honorific: Saint
-title: "Saint Afflinus"
 summary: "Bishop. No other information has survived."
 feastDay:
   month: 1

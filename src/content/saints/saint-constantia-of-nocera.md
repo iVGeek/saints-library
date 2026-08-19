@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantia of Nocera"
 honorific: Saint
-title: "Saint Constantia of Nocera"
 summary: "Martyred in the persecutions of Nero."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Constantia-of-Nocera.jpg"
 searchAliases:

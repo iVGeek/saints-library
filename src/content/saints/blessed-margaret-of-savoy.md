@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margaret of Savoy"
 honorific: Blessed
-title: "Blessed Margaret of Savoy"
 summary: "Born to the nobility, daughter of Amadeo of Savoy, Lord of Piedmont and titular Prince of Achaea, and Catherine of Geneva. Married to Theodore Paleologus, marquis of Montferrat on 17 January 1403. Widowed in 1418. Declined a marriage offer from Philip, Visconti of Milan. Influenc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Margaret-of-Savoy.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Placidus of Sicily"
 honorific: Saint
-title: "Saint Placidus of Sicily"
 summary: "Martyr."
 searchAliases:
   - "Placid"

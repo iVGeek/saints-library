@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcos Leyún Goñi"
 honorific: Blessed
-title: "Blessed Marcos Leyún Goñi"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Emiliano José"

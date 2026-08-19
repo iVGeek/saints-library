@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Thessalonica"
 honorific: Saint
-title: "Saint Saturninus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

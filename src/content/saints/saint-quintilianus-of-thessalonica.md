@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintilianus of Thessalonica"
 honorific: Saint
-title: "Saint Quintilianus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

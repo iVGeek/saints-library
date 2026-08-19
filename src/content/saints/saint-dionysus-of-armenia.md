@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysus of Armenia"
 honorific: Saint
-title: "Saint Dionysus of Armenia"
 summary: "Armenian monk. Martyr."
 region: "England"
 feastDay:

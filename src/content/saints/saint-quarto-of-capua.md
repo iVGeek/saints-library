@@ -1,7 +1,6 @@
 ---
 name: "Saint Quarto of Capua"
 honorific: Saint
-title: "Saint Quarto of Capua"
 summary: "Martyr."
 region: "Italy"
 feastDay:

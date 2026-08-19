@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine Ledoyen"
 honorific: Blessed
-title: "Blessed Perrine Ledoyen"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1764
 deathYear: 1794

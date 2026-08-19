@@ -1,7 +1,6 @@
 ---
 name: "Saint Artemas of Pozzuoli"
 honorific: Saint
-title: "Saint Artemas of Pozzuoli"
 summary: "Teenaged martyr."
 died: "Pozzuoli, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marquard of Hildesheim"
 honorific: Saint
-title: "Saint Marquard of Hildesheim"
 summary: "Monk at New Corbey Abbey, Saxony (in modern Germany). Bishop of Hildesheim, Germany from 874. One of the Martyrs of Ebsdorf."
 searchAliases:
   - "Markward"

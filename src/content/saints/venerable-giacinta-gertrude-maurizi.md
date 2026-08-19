@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giacinta Gertrude Maurizi"
 honorific: Venerable
-title: "Venerable Giacinta Gertrude Maurizi"
 summary: "Born to a prominent Roman family, the daughter of Ambrogio Maurizi, secretary of Cardinal Orsini, and Anna Lucia Albertini. Giacinta received a good education at home, and was known from her youth to be a pious girl. Taken to the theatre by family, she would pretend to watch whil"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giacinta-Gertrude-Maurizi.jpg"
 searchAliases:

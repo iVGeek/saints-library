@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wolfhelm of Brauweiler"
 honorific: Blessed
-title: "Blessed Wolfhelm of Brauweiler"
 summary: "Born to a pious, noble family; his sister became a nun at Vilich Abbey. He entered the Benedictines in 1036, becoming a monk at the Saint Maximinus monastery at Trier, Germany. He taught at the cathedral school in Cologne, Germany, and eventually transferred to the nearby Saint P"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wolfhelm-of-Brauweiler.jpg"
 searchAliases:

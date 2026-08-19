@@ -1,7 +1,6 @@
 ---
 name: "Saint Osdag of Ebsdorf"
 honorific: Saint
-title: "Saint Osdag of Ebsdorf"
 summary: "Soldier, possibly a knight, who fell in battle against pagan Normans, and is considered a martyr. One of the Martyrs of Ebsdorf."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Osdag-of-Ebsdorf.jpg"
 searchAliases:

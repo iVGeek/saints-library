@@ -1,7 +1,6 @@
 ---
 name: "Saint Wulsin of Sherborne"
 honorific: Saint
-title: "Saint Wulsin of Sherborne"
 summary: "Benedictine monk. Spiritual student and close confidant of Saint Dunstan of Canterbury. Named by Dunstan c.960 to be superior of the restored Benedictine community at Westminster, England. Abbot of Westminster in 980. Bishop of Sherborne, England in 993; continued to serve as abb"
 searchAliases:
   - "Wulsin of Shireburn"

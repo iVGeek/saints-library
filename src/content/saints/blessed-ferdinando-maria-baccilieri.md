@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ferdinando Maria Baccilieri"
 honorific: Blessed
-title: "Blessed Ferdinando Maria Baccilieri"
 summary: "Raised in a pious family, he was educated by the Barnabites in Bologna, Italy and the Jesuits in Ferrara, Italy. Jesuit novice in Rome, Italy in 1838, but health problems force him to drop out and return home. When he improved, he studied theology in Ferrara, and was ordained in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Maria-Baccilieri.jpg"
 birthYear: 1821

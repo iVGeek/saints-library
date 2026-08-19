@@ -1,7 +1,6 @@
 ---
 name: "Saint Celsus of Corinth"
 honorific: Saint
-title: "Saint Celsus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

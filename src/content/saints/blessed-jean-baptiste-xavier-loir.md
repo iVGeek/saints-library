@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste-Xavier Loir"
 honorific: Blessed
-title: "Blessed Jean-Baptiste-Xavier Loir"
 summary: "Son of Jacques-Louis Loir, director of the mint in Besançon, France and Elizabeth Juliot, the sixth of their eight children; he was baptized on the day of his birth. Studied in Lyon, France. Joined the Franciscan Capuchin friars in May 1740, making his profession on 9 May 1741 in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:

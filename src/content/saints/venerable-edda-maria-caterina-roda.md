@@ -1,7 +1,6 @@
 ---
 name: "Venerable Edda Maria Caterina Roda"
 honorific: Venerable
-title: "Venerable Edda Maria Caterina Roda"
 summary: "One of three children born to Guerrino, a baker, and Cecilia Capelli; she made her First Communion on 18 April 1948 at the church of the Visitation in Bagnolo Mella, Italy, and was Confirmed there on 17 September 1950. Edda was studying in Bergamo, Italy to become a nurse when sh"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Edda-Maria-Caterina-Roda.jpg"
 searchAliases:

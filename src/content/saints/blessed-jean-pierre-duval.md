@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Pierre Duval"
 honorific: Blessed
-title: "Blessed Jean-Pierre Duval"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1740
 deathYear: 1792

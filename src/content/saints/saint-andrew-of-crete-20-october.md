@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Crete"
 honorific: Saint
-title: "Saint Andrew of Crete"
 summary: "Eighth-century hermit on Crete. When the Byzantine Emperor Constantine Copronymus published his edict against venerating icons, Andrew went to Constantinople and denounced the iconoclast heresy so forcefully that he was taken before the emperor himself. Martyr."
 searchAliases:
   - "Andrew the Calybite"

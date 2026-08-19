@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Cid Rodríguez"
 honorific: Blessed
-title: "Blessed Antonio Cid Rodríguez"
 summary: "Baptized at the age of one day, Antonio grew up with a call to religious life. He joined the Salesians of Don Bosco in Seville, Spain, and made his profession as a coadjutor lay brother on 8 December 1909. He taught in several colleges, working in Santander, Spain at the outbreak"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Cid-Rodriguez.jpg"
 birthYear: 1890

@@ -1,7 +1,6 @@
 ---
 name: "Saint Manuel Rodrigues de Moura"
 honorific: Venerable
-title: "Saint Manuel Rodrigues de Moura"
 summary: "Married layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645

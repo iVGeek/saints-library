@@ -1,7 +1,6 @@
 ---
 name: "Saint Caedwalla of Wessex"
 honorific: Saint
-title: "Saint Caedwalla of Wessex"
 summary: "Son of Coenberht; descendent of King Ceawlin of Wessex in England. Exiled, but later returned to reclaim the throne by right, and by warfare. King of Wessex, which he expanded by conquest, annihilating the pagan residents of the Isle of Wight in the process in order to colonize i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Caedwalla-of-Wessex.jpg"
 searchAliases:

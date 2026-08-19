@@ -1,7 +1,6 @@
 ---
 name: "Saint Repositus of Velleianum"
 honorific: Saint
-title: "Saint Repositus of Velleianum"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 deathYear: 303
 died: "c.303 at Velleianum, Italy"

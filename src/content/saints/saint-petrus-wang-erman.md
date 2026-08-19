@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Wang Erman"
 honorific: Venerable
-title: "Saint Petrus Wang Erman"
 summary: "Layman in the apostolic vicariate of Northern Shanxi. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Baiduo"

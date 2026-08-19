@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alcuin"
 honorific: Blessed
-title: "Blessed Alcuin"
 summary: "Born to the English nobility. Spiritual student of Saint Colgan. Deacon. Head of the York cathedral school c.770. Minister of education under Blessed Charlemagne in 781. Established schools at cathedrals and monasteries. Established scriptoria dedicated to copying and preserving"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Raban-Maur_Alcuin_Otgar.jpg/960px-Raban-Maur_Alcuin_Otgar.jpg"
 searchAliases:

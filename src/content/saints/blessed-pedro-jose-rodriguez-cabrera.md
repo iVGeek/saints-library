@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro José Rodríguez Cabrera"
 honorific: Blessed
-title: "Blessed Pedro José Rodríguez Cabrera"
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1937

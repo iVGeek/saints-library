@@ -1,7 +1,6 @@
 ---
 name: "Saint Ecclesius of Ravenna"
 honorific: Saint
-title: "Saint Ecclesius of Ravenna"
 summary: "Bishop of Ravenna, Italy from 521 till his death in 532. Built the Basilica of San Vitale. Worked with Pope John I to resist King Theodoric."
 searchAliases:
   - "Eclesio Celio"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Octavius of Turin"
 honorific: Saint
-title: "Saint Octavius of Turin"
 summary: "Martyr. His original story was lost, and somehow he came to be associated with the Theban Legion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Turin.jpg"
 searchAliases:

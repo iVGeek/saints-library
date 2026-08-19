@@ -1,7 +1,6 @@
 ---
 name: "Saint Nowa Mawaggali"
 honorific: Venerable
-title: "Saint Nowa Mawaggali"
 summary: "Member of the Ngabi clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nowa-Mawaggali.jpg"
 searchAliases:

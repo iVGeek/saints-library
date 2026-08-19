@@ -1,7 +1,6 @@
 ---
 name: "Venerable Alexia González-Barros y González"
 honorific: Venerable
-title: "Venerable Alexia González-Barros y González"
 summary: "One of five children born to pious members of Opus Dei. Alexia made her First Communion in Rome, Italy on 8 May 1979, the next day attended the pope's weekly general audience, and when Pope Saint John Paul II passed nearby greeting the pilgrims, she ran from the crowd to hug him,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Alexia-González-Barros.jpg"
 birthYear: 1971

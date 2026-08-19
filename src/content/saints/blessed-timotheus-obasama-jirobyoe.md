@@ -1,7 +1,6 @@
 ---
 name: "Blessed Timotheus Obasama Jirobyoe"
 honorific: Blessed
-title: "Blessed Timotheus Obasama Jirobyoe"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Lucia Obasama. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

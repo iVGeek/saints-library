@@ -1,7 +1,6 @@
 ---
 name: "Saint Sarmata"
 honorific: Saint
-title: "Saint Sarmata"
 summary: "Desert hermit and monk. Spiritual student of Saint Anthony the Abbot. Martyr."
 searchAliases:
   - "Sarmatas"

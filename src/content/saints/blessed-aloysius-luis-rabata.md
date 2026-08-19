@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aloysius Luis Rabata"
 honorific: Blessed
-title: "Blessed Aloysius Luis Rabata"
 summary: "Carmelite priest. Prior of the reformed convent in Randazzo, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Aloysius-Luis-Rabata.jpg"
 searchAliases:

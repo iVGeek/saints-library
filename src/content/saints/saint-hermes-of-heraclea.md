@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermes of Heraclea"
 honorific: Saint
-title: "Saint Hermes of Heraclea"
 summary: "Cleric at Heraclea near Constantinople. Arrested and abused with other Christians by the authorities who demanded the location of sacred texts so they could be burned. The group refused to say where they had hidden their copies of the Scriptures, and were executed. Martyr A copy"
 deathYear: 304
 died: "burned at the stake in 304 at Adrianopolis (modern Edirne, Turkey)"

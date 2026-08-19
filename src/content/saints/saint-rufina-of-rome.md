@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufina of Rome"
 honorific: Saint
-title: "Saint Rufina of Rome"
 summary: "Nun. Martyred in the persecutions of Valerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg"
 deathYear: 257

@@ -1,7 +1,6 @@
 ---
 name: "Saint Colman of Clontivrin"
 honorific: Saint
-title: "Saint Colman of Clontivrin"
 summary: "Saint with a church named for him in Clontivrin, Ireland, but no details have survived."
 searchAliases:
   - "Colmán"

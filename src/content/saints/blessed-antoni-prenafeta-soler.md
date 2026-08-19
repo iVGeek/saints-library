@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Prenafeta Soler"
 honorific: Blessed
-title: "Blessed Antoni Prenafeta Soler"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

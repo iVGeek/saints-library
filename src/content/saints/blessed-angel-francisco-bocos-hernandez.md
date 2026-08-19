@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ángel Francisco Bocos Hernández"
 honorific: Blessed
-title: "Blessed Ángel Francisco Bocos Hernández"
 summary: "Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

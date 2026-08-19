@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermolaus of Nicomedia"
 honorific: Saint
-title: "Saint Hermolaus of Nicomedia"
 summary: "Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then the imperial physician. Martyr."
 searchAliases:
   - "Ermolao"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Margaret of Hulme"
 honorific: Saint
-title: "Saint Margaret of Hulme"
 summary: "Martyr."
 searchAliases:
   - "Margaret of Hoveton"

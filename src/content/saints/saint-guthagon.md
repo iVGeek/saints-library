@@ -1,7 +1,6 @@
 ---
 name: "Saint Guthagon"
 honorific: Saint
-title: "Saint Guthagon"
 summary: "May have been Irish royalty. Hermit at Oostkerk, Flanders, Belgium."
 born: "Eighth century Ireland"
 died: "in Belgium of natural causes"

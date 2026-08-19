@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Comana"
 honorific: Saint
-title: "Saint Zoticus of Comana"
 summary: "Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus."
 deathYear: 204
 died: "204"

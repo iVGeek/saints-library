@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of Thibiuca"
 honorific: Saint
-title: "Saint Fortunatus of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian when he refused to give up copies of scripture for destruction."
 searchAliases:
   - "Fortunato"

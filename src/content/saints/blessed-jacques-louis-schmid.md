@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Louis Schmid"
 honorific: Blessed
-title: "Blessed Jacques-Louis Schmid"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1752
 deathYear: 1792

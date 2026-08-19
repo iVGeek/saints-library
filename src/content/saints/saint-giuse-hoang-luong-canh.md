@@ -1,7 +1,6 @@
 ---
 name: "Saint Giuse Hoàng Luong Canh"
 honorific: Venerable
-title: "Saint Giuse Hoàng Luong Canh"
 summary: "Lifelong layman in the apostolic vicariate of East Tonkin. Physician. Catechist and Dominican tertiary. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/saint-joseph-canh/saint-joseph-canh-01.jpg"
 searchAliases:

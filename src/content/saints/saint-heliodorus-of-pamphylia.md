@@ -1,7 +1,6 @@
 ---
 name: "Saint Heliodorus of Pamphylia"
 honorific: Saint
-title: "Saint Heliodorus of Pamphylia"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 at Pamphylia"

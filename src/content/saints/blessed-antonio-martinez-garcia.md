@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Martínez García"
 honorific: Blessed
-title: "Blessed Antonio Martínez García"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

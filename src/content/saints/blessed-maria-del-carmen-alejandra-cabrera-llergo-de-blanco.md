@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Del Carmen Alejandra Cabrera Llergo de Blanco"
 honorific: Blessed
-title: "Blessed María Del Carmen Alejandra Cabrera Llergo de Blanco"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936

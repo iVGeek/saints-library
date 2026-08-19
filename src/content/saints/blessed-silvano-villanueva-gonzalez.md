@@ -1,7 +1,6 @@
 ---
 name: "Blessed Silvano Villanueva González"
 honorific: Blessed
-title: "Blessed Silvano Villanueva González"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Silvano María"

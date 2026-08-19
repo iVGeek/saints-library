@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pietro Bonilli"
 honorific: Blessed
-title: "Blessed Pietro Bonilli"
 summary: "Priest in the diocese of Spoleto, Italy, ordained in 1863. Parish priest in Cannaiola, Trevi, Italy for 34 years. Founded the Suore della Sacra Famiglia (Sisters of the Holy Family) on 13 May 1888 for the care and education of orphans, the deaf, the blind, the homeless and especi"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Pietro_Bonilli.jpg"
 searchAliases:

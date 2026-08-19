@@ -1,7 +1,6 @@
 ---
 name: "Saint Oliver Plunkett"
 honorific: Venerable
-title: "Saint Oliver Plunkett"
 summary: "Oliver was born to the Irish nobility, part of a family who supported King Charles I and the fight for Irish national freedom from England. Growing up, he was greatly influenced by his uncle Patrick, a Cistercian monk who later became bishop of the Irish dioceses of Ardagh and Me"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Oliver_Plunket_by_Edward_Luttrell.jpg/960px-Oliver_Plunket_by_Edward_Luttrell.jpg"
 searchAliases:

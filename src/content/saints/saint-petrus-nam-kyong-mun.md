@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Nam Kyong-Mun"
 honorific: Venerable
-title: "Saint Petrus Nam Kyong-Mun"
 summary: "Married layman catechist in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

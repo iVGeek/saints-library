@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Abessala"
 honorific: Saint
-title: "Saint Peter of Abessala"
 summary: "Martyr. No other information has survived."
 deathYear: 309
 born: "Greece"

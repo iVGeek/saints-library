@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Oia"
 honorific: Saint
-title: "Saint Stephen of Oia"
 summary: "Martyred with five other Christians, date unknown. No other information has survived."
 died: "Oia, Greece"
 deathPlace: "Greece"

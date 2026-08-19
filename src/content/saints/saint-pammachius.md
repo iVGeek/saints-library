@@ -1,7 +1,6 @@
 ---
 name: "Saint Pammachius"
 honorific: Saint
-title: "Saint Pammachius"
 summary: "Pious and learned Roman senator and proconsul; member of the noble Fuii family. Studied rhetoric with Saint Jerome. Married to Paulina, one of the daughters of Saint Paula, in 385. Widower in 397, Paulina dying in childbirth. Following Paulina's death, Pammachius devoted his weal"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pammachius_Ss_Giovanni_e_Paolo.JPG/960px-Pammachius_Ss_Giovanni_e_Paolo.JPG"
 birthYear: 340

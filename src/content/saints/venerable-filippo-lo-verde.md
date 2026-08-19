@@ -1,7 +1,6 @@
 ---
 name: "Venerable Filippo Lo Verde"
 honorific: Venerable
-title: "Venerable Filippo Lo Verde"
 summary: "Franciscan Friar Minor Conventual cleric."
 searchAliases:
   - "Brother Luigi"

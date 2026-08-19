@@ -1,7 +1,6 @@
 ---
 name: "Saint Nazarius of Lérins"
 honorific: Saint
-title: "Saint Nazarius of Lérins"
 summary: "Monk and later abbot of Lérins Abbey in France."
 deathYear: 450
 died: "c.450"

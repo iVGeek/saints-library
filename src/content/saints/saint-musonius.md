@@ -1,7 +1,6 @@
 ---
 name: "Saint Musonius"
 honorific: Saint
-title: "Saint Musonius"
 summary: "Martyr. No other information has survived."
 died: "burned at the stake in Asia Minor"
 feastDay:

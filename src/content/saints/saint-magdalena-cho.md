@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Cho"
 honorific: Venerable
-title: "Saint Magdalena Cho"
 summary: "Lay woman in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

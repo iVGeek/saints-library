@@ -1,7 +1,6 @@
 ---
 name: "Saint Nem of Drum Dallain"
 honorific: Saint
-title: "Saint Nem of Drum Dallain"
 summary: "Early Irish bishop."
 region: "Ireland"
 feastDay:

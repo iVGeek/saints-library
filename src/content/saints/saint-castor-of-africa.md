@@ -1,7 +1,6 @@
 ---
 name: "Saint Castor of Africa"
 honorific: Saint
-title: "Saint Castor of Africa"
 summary: "African martyr. No other information has survived."
 region: "England"
 feastDay:

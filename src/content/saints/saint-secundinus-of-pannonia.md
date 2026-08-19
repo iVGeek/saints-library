@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundinus of Pannonia"
 honorific: Saint
-title: "Saint Secundinus of Pannonia"
 summary: "Fourth century martyr. No other information has survived."
 feastDay:
   month: 7

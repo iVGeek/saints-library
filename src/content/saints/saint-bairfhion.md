@@ -1,7 +1,6 @@
 ---
 name: "Saint Bairfhion"
 honorific: Saint
-title: "Saint Bairfhion"
 summary: "Bishop. No other information has survived."
 born: "Irish"
 region: "Ireland"

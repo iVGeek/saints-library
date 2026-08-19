@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagia"
 honorific: Saint
-title: "Saint Pelagia"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 7

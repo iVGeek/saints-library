@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilio Serrano Lizarralde"
 honorific: Blessed
-title: "Blessed Emilio Serrano Lizarralde"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Saturnino of Bilbao"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Herman José Fernández Sáenz"
 honorific: Blessed
-title: "Blessed Herman José Fernández Sáenz"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Clemente Faustino"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Louis of Córdoba"
 honorific: Saint
-title: "Saint Louis of Córdoba"
 summary: "Layman. Murdered by Saracens for publicly proclaiming his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-of-Córdoba.jpg"
 searchAliases:

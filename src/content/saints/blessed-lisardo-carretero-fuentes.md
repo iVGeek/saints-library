@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lisardo Carretero Fuentes"
 honorific: Blessed
-title: "Blessed Lisardo Carretero Fuentes"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

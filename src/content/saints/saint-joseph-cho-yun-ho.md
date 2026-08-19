@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph Cho Yun-ho"
 honorific: Venerable
-title: "Saint Joseph Cho Yun-ho"
 summary: "Young layman who grew up on a farm in the apostolic vicariate of Korea. Son of Saint Peter Cho Hwa-so. Catechist. Martyr."
 searchAliases:
   - "Iosephus Cho Yun-ho"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Laodicea"
 honorific: Saint
-title: "Saint Eusebius of Laodicea"
 summary: "Deacon in Alexandria, Egypt, serving under Saint Dionysius the Great. Exiled to Kefro, Libya in the persecutions of emperor Valerian c.255 for refusing to sacrifice to idols, Eusebius went into hiding to avoid the sentence, ministered to other covert Christians for several years,"
 searchAliases:
   - "Eusebius of Alexandria"

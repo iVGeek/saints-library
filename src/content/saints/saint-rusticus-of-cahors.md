@@ -1,7 +1,6 @@
 ---
 name: "Saint Rusticus of Cahors"
 honorific: Saint
-title: "Saint Rusticus of Cahors"
 summary: "Born to the Gallo-Roman nobility, the son of Salvius and Herchenfreda; brother of Saint Desiderius of Cahors. Rusticus early felt a called to religious life. Educated in the court of King Clotaire II. Archdeacon of the diocese of Rodez, France. Priest. Chaplain of the Palatine or"
 searchAliases:
   - "Rustico"

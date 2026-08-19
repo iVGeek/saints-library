@@ -1,7 +1,6 @@
 ---
 name: "Saint Osmanna of Jouarre"
 honorific: Saint
-title: "Saint Osmanna of Jouarre"
 summary: "Nun at Jouarre, France."
 searchAliases:
   - "Osanna…"

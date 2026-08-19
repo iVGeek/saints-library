@@ -1,7 +1,6 @@
 ---
 name: "Saint Diodorus of Corinth"
 honorific: Saint
-title: "Saint Diodorus of Corinth"
 summary: "During the persecutions of Valerian, Anectus was arrested for his faith, tortured, and martyred with a group of fellow Christians."
 born: "Greek"
 died: "thrown to wild animals"

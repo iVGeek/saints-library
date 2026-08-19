@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppe Puglisi"
 honorific: Blessed
-title: "Blessed Giuseppe Puglisi"
 summary: "Son of Carmelo and Giuseppa Fana Puglisi, a cobbler and a seamstress. Ordained on 2 July 1960 as a priest in the archdiocese of Palermo, Italy. Parish priest in the areas of Settacannoli, Romagnolo, Vadessi, Godrano and Brancaccio in Italy. Confessor of the Basilian sisters Figli"
 image: "http://catholicsaints.info/wp-content/uploads/Venerable-Giuseppe-Puglisi.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacques Honoré Chastán"
 honorific: Venerable
-title: "Saint Jacques Honoré Chastán"
 summary: "Ordained in 1826. Joined the Paris Society of Missions in 1827. Missionary in Thailand, then Malaysia, and then Korea, arriving on 31 December 1836. Worked with Saint Lawrence Imbert, Saint Peter Maubant and Saint Paul Chong Hasang. Lived and worked in secret for over two years,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jacques-Honoré-Chastán.jpg"
 searchAliases:

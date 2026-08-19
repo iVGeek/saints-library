@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian of Africa"
 honorific: Saint
-title: "Saint Emilian of Africa"
 summary: "Martyr."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"

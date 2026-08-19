@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudius of Mesopotamia"
 honorific: Saint
-title: "Saint Claudius of Mesopotamia"
 summary: "Became a monk at age 30. Captured, tortured and martyred in Mesopotamia."
 searchAliases:
   - "Claudianus of Mesopotamia"

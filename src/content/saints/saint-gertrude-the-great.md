@@ -1,7 +1,6 @@
 ---
 name: "Saint Gertrude the Great"
 honorific: Saint
-title: "Saint Gertrude the Great"
 summary: "We don't know who her parents were or what became of them, and she may have been an orphan. Gertrude was raised in the Benedictine abbey of Saint Mary of Helfta, Eisleben, Saxony from age five. An extremely bright and dedicated student, she excelled in literature and philosophy,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg/960px-Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg"
 searchAliases:

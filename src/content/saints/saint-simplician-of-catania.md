@@ -1,7 +1,6 @@
 ---
 name: "Saint Simplician of Catania"
 honorific: Saint
-title: "Saint Simplician of Catania"
 summary: "One of a group of Christians martyred together, date unknown. No other information has survived."
 died: "Catania, Sicily, Italy"
 deathPlace: "Sicily, Italy"

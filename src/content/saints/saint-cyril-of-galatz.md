@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyril of Galatz"
 honorific: Saint
-title: "Saint Cyril of Galatz"
 summary: "Martyred with six companion Christians. No other information has survived, not even the names of the companions."
 searchAliases:
   - "Cyril of Axiopolis"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Orsola Bussone"
 honorific: Venerable
-title: "Venerable Maria Orsola Bussone"
 summary: "Her father owned a car repair service, her mother was a tailor, and Maria was active in parish life from an early age, playing guitar, singing, and being a leader of youth groups at her church. Member of the Focolare Movement."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Orsola-Bussone.jpg"
 birthYear: 1954

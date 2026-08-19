@@ -1,7 +1,6 @@
 ---
 name: "Saint Aldegrin of Baume"
 honorific: Saint
-title: "Saint Aldegrin of Baume"
 summary: "After a life as a knight Aldegrin felt a call to religious life, and became a Benedictine monk at Baume Abbey. Spiritual student of Saint Odo of Cluny. Spent his latter years of his life as a hermit near Baume."
 searchAliases:
   - "Adalgrim"

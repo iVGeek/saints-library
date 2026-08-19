@@ -1,7 +1,6 @@
 ---
 name: "Blessed Piotr Edward Dankowski"
 honorific: Blessed
-title: "Blessed Piotr Edward Dankowski"
 summary: "Priest in the Archdiocese of Kraków, Poland. Vicar of the parish of Zakopane, he was known for his service to the people, especially the poor. During World War II he helped escapees hiding from the Nazis. Arrested in May 1941 and sentenced to the extermination camp in Oswiecim (A"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Piotr-Edward-Dankowski.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellus the Martyr"
 honorific: Saint
-title: "Saint Marcellus the Martyr"
 summary: "Martyr."
 deathYear: 362
 died: "dragged by wild horses and then burned at the stake in 362"

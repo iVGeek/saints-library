@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anna of Hokusanbara"
 honorific: Blessed
-title: "Blessed Anna of Hokusanbara"
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Ludovicus Jin'emon. Martyr."
 birthYear: 1549
 deathYear: 1629

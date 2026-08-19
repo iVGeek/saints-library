@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Repiso Martínez de Orbe"
 honorific: Venerable
-title: "Venerable Antonio Repiso Martínez de Orbe"
 summary: "The youngest child and only son of Francisco Repiso Membrilla and Carlota Martínez de Orbe, Antonio was 12 years old his mother died. At age 14, against his father's wishes, the boy enrolled in seminary. Ordained a priest on 20 March 1881. Parish priest in a number of cities wher"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Repiso-Martínez-de-Orbe.jpg"
 searchAliases:

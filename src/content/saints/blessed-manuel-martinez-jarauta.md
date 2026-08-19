@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Martínez Jarauta"
 honorific: Blessed
-title: "Blessed Manuel Martínez Jarauta"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

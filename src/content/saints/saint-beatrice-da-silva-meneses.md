@@ -1,7 +1,6 @@
 ---
 name: "Saint Beatrice da Silva Meneses"
 honorific: Saint
-title: "Saint Beatrice da Silva Meneses"
 summary: "Daughter of the Count of Viana. Sister of Saint Amedeus of Portugal. Raised in the household of Princess Isabel, and accompanied her to Castile when she married John II of Castile. Beatrice spent much of her life as a courtier, but tired of it. She retired to a Cistercian convent"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Beatrice-da-Silva-Meneses.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Lieou"
 honorific: Venerable
-title: "Saint Peter Lieou"
 summary: "Married lay man convert to Christianity. Catechist. Exiled to Mongolia for his faith in 1814. He was permitted to return from exile in 1827 and began working with Catholic missionaries. When the persecutions of the faith resumed, many Christians were imprisoned. Peter initially e"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

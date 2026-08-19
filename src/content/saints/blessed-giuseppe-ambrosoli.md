@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppe Ambrosoli"
 honorific: Blessed
-title: "Blessed Giuseppe Ambrosoli"
 summary: "Born the seventh son of Giovanni Battista Ambrosoli and Palmira Valli. As a college student in World War II, he helped smuggle Jews into neutral Switzerland to escape persecution. Physician, surgeon and teacher. Priest. Member of the Comboni Missionaries of the Heart of Jesus. In"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Ambrosoli.jpg"
 birthYear: 1923

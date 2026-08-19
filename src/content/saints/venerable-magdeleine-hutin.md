@@ -1,7 +1,6 @@
 ---
 name: "Venerable Magdeleine Hutin"
 honorific: Venerable
-title: "Venerable Magdeleine Hutin"
 summary: "The youngest of six children born in a pious family, Magdelaine grew up in the French cities of Paris, Nantes, Bordeaux, Dax and Aix-en-Provence. She had early felt a call to religious life, but she stayed with her family until, by the age of 19, she was the only child, all her s"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Magdeleine-Hutin.jpg"
 searchAliases:

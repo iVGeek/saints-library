@@ -1,7 +1,6 @@
 ---
 name: "Saint Gabinus of Rome"
 honorific: Saint
-title: "Saint Gabinus of Rome"
 summary: "Member of the imperial Roman nobility. Brother of Pope Caius. Father of Saint Susanna. Relative of the emperor Diocletian. Martyr."
 searchAliases:
   - "Gabins"

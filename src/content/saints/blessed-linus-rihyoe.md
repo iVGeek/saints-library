@@ -1,7 +1,6 @@
 ---
 name: "Blessed Linus Rihyoe"
 honorific: Blessed
-title: "Blessed Linus Rihyoe"
 summary: "Layman in the diocese of Kyoto, Japan. Married to Blessed Maria of Kyoto. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Chugoku region, Japan"

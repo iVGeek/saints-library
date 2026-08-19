@@ -1,7 +1,6 @@
 ---
 name: "Saint Luppus"
 honorific: Saint
-title: "Saint Luppus"
 summary: "Christian slave. Martyr, date and location unknown."
 feastDay:
   month: 8

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Plana Rabugent"
 honorific: Blessed
-title: "Blessed Lluís Plana Rabugent"
 summary: "Member of the Claretians, professed on 15 August 1931. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

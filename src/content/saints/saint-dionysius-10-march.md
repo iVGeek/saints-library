@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Corinth"
 honorific: Saint
-title: "Saint Dionysius of Corinth"
 summary: "During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of fellow Christians."
 born: "Greek"
 died: "thrown to wild animals"

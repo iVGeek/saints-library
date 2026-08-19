@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of Nicaea"
 honorific: Saint
-title: "Saint Secundus of Nicaea"
 summary: "Martyr. No other information has survived."
 died: "at Nicaea, Bithynia (modern Izmit, Turkey)"
 deathPlace: "Bithynia (modern Izmit, Turkey)"

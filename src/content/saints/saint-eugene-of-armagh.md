@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene of Armagh"
 honorific: Saint
-title: "Saint Eugene of Armagh"
 summary: "Monk. Abbot of Armagh, Ireland. Abbot of Clonard, Ireland."
 searchAliases:
   - "Eoghan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hippolytus of Antioch"
 honorific: Saint
-title: "Saint Hippolytus of Antioch"
 summary: "Priest. Renowned in Antioch, he was at one point a follower of the Novatian heresy. Martyr."
 born: "Syria"
 region: "England"

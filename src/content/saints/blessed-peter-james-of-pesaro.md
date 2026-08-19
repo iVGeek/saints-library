@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter James of Pesaro"
 honorific: Blessed
-title: "Blessed Peter James of Pesaro"
 summary: "Augustinian friar at the convent of Saint Nicholas in Pesaro, Italy."
 deathYear: 1496
 died: "c.1496"

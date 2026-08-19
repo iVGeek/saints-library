@@ -1,7 +1,6 @@
 ---
 name: "Saint John Isauro"
 honorific: Saint
-title: "Saint John Isauro"
 summary: "Monk at Constantinople. Spiritual student of Saint Gregory Decapolitus. Fought zealously against the iconoclasts of emperor Leo the Armenian."
 searchAliases:
   - "Giovanni…"

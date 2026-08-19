@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Piquer Arnáu"
 honorific: Blessed
-title: "Blessed José Piquer Arnáu"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

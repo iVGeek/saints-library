@@ -1,7 +1,6 @@
 ---
 name: "Saint Moses the Black"
 honorific: Saint
-title: "Saint Moses the Black"
 summary: "Born into slavery to an Egyptian official's family. An unruly thief, he was driven from the house and fell in with a band of robbers. On the run, he took refuge with hermits at the monastery of Petra in the desert of Skete, Egypt. He was converted and joined them as a monk. Pries"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/San_Moises_el_Negro.jpg"
 searchAliases:

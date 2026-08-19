@@ -1,7 +1,6 @@
 ---
 name: "Saint Privatus of Phrygia"
 honorific: Saint
-title: "Saint Privatus of Phrygia"
 summary: "Martyred in Phrygia, Asia Minor. No other information has survived."
 region: "England"
 feastDay:

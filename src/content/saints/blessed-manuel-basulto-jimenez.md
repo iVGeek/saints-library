@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Basulto Jiménez"
 honorific: Blessed
-title: "Blessed Manuel Basulto Jiménez"
 summary: "Son of a miller. Seminarian in Avila, Spain in 1880. Ordained on 15 March 1893. Parish priest in Narros del Puerto, Spain. Studied theology at the San Carlo Borromeo seminary and law at the University of Valladolid. Taught in the seminary in Madrid, Spain. Canon of the cathedral"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Basulto-Jiménez1.jpg"
 birthYear: 1860

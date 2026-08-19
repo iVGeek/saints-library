@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian"
 honorific: Saint
-title: "Saint Marcian"
 summary: "Possible devil worshipper who converted to Christianity and was martyred in the persecutions of Decius."
 deathYear: 250
 died: "martyred c.250"

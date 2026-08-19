@@ -1,7 +1,6 @@
 ---
 name: "Saint Pierre Rose Ursule Dumoulin Borie"
 honorific: Venerable
-title: "Saint Pierre Rose Ursule Dumoulin Borie"
 summary: "Studied at the seminary of the Paris Foreign Missions Society, beginning in 1829. Ordained in 1832. Missionary to Tonkin (modern Vietnam). Arrested for his faith in 1836. During his two years in prison, where he was regularly beaten and tortured, he was appointed titular bishop a"
 image: "http://catholicsaints.info/wp-content/gallery/saint-pierre-rose-ursule-dumoulin-borie/saint-pierre-rose-ursule-dumoulin-borie-01.jpg"
 searchAliases:

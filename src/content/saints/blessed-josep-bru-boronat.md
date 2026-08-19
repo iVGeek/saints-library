@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Bru Boronat"
 honorific: Blessed
-title: "Blessed Josep Bru Boronat"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

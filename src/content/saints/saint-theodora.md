@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodora"
 honorific: Saint
-title: "Saint Theodora"
 summary: "Wealthy member of the imperial Roman nobility who spent largely from her fortune to support fellow Christians during the persecutions of Diocletian. Martyr."
 deathYear: 305
 died: "305"

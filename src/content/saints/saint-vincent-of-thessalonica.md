@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Thessalonica"
 honorific: Saint
-title: "Saint Vincent of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

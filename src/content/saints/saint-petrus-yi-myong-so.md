@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Yi Myong-So"
 honorific: Venerable
-title: "Saint Petrus Yi Myong-So"
 summary: "Married layman in the apostolic vicariate of Korea."
 searchAliases:
   - "Peteuro Yi Myeong-Seo"

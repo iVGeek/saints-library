@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of Avila"
 honorific: Saint
-title: "Saint Secundus of Avila"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain."
 region: "Spain"
 feastDay:

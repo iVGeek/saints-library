@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict of Gnesen"
 honorific: Saint
-title: "Saint Benedict of Gnesen"
 summary: "Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg"
 born: "Italy"

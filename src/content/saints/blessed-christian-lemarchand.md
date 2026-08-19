@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christian Lemarchand"
 honorific: Blessed
-title: "Blessed Christian Lemarchand"
 summary: "Son of a career soldier, Christian lived part of his youth in Indochina (modern Vietnam) and Algeria. Director of the Saint-Charles College of Thonars (Deux-Sèvres) for fourteen years. Joined the Trappists in 1981 at the abbey of Bellefontaine, and moved to houses in Algeria and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-Lemarchand.jpg"
 searchAliases:

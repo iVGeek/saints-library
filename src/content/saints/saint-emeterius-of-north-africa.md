@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeterius of North Africa"
 honorific: Saint
-title: "Saint Emeterius of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Emerita"

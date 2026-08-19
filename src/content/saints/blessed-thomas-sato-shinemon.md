@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Sato Shin'emon"
 honorific: Blessed
-title: "Blessed Thomas Sato Shin'emon"
 summary: "Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Ou Jinyemon"

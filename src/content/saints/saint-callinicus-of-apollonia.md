@@ -1,7 +1,6 @@
 ---
 name: "Saint Callinicus of Apollonia"
 honorific: Saint
-title: "Saint Callinicus of Apollonia"
 summary: "Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/81370.jpg"
 died: "Apollonia, Bithynia (in modern Turkey)"

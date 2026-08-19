@@ -1,7 +1,6 @@
 ---
 name: "Saint Procula of Rome"
 honorific: Saint
-title: "Saint Procula of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

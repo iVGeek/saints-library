@@ -1,7 +1,6 @@
 ---
 name: "Saint Baoithin of Ennisboyne"
 honorific: Saint
-title: "Saint Baoithin of Ennisboyne"
 summary: "No information available."
 searchAliases:
   - "Baithin mac Findech"

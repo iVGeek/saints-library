@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Valera González"
 honorific: Blessed
-title: "Blessed Tomás Valera González"
 summary: "Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1938

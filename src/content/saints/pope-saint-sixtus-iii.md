@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Sixtus III"
 honorific: Saint
-title: "Pope Saint Sixtus III"
 summary: "Chosen 44th pope in 432. Approved the results of the Council of Ephesus. Corresponded extensively with Saint Augustine of Hippo. Fought Nestorianism and Pelagianism. Restored several Roman basilicas including Saint Peter's and Saint John Lateran. Defended the supremacy of the pop"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Sixtus-III.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Severino Ruiz Hidalgo"
 honorific: Blessed
-title: "Blessed Severino Ruiz Hidalgo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Severino"

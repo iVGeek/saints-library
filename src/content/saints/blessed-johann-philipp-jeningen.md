@@ -1,7 +1,6 @@
 ---
 name: "Blessed Johann Philipp Jeningen"
 honorific: Blessed
-title: "Blessed Johann Philipp Jeningen"
 summary: "Johann joined the Jesuits on 19 January 1663 in Landsberg, Germany; he made his solemn vows on 2 February 1677. Ordained a priest on 11 June 1672. Popular and successful missionary, his work at the shrine of Our Lady of Schönenberg brought so many pilgrims to the site that a new"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Philipp_Jeningen.jpg"
 searchAliases:

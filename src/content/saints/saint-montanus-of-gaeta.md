@@ -1,7 +1,6 @@
 ---
 name: "Saint Montanus of Gaeta"
 honorific: Saint
-title: "Saint Montanus of Gaeta"
 summary: "Soldier. Martyr."
 deathYear: 300
 died: "drowned in the sea with a stone tied around his neck c.300 on Ponza, Italy"

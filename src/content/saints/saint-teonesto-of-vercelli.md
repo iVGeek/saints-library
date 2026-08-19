@@ -1,7 +1,6 @@
 ---
 name: "Saint Teonesto of Vercelli"
 honorific: Saint
-title: "Saint Teonesto of Vercelli"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Teonesto-of-Vercelli.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thérèse-Madeleine Fantou"
 honorific: Blessed
-title: "Blessed Thérèse-Madeleine Fantou"
 summary: "Nun in the Daughters of Charity of Saint Vincent de Paul at Arras, France in 1771. Imprisoned in 1792 and executed two years later in the anti-Catholic excesses of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cambrai.jpg"
 birthYear: 1747

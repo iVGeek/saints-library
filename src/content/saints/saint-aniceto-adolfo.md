@@ -1,7 +1,6 @@
 ---
 name: "Saint Aniceto Adolfo"
 honorific: Venerable
-title: "Saint Aniceto Adolfo"
 summary: "Member of the Brothers of the Christian Schools, entering the novitate on 6 September 1928. One of the Martyrs of Tur&oacute;n killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-aniceto-adolfo.jpg"
 searchAliases:

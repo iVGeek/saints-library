@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus"
 honorific: Saint
-title: "Saint Fortunatus"
 summary: "One of a group of martyrs. No other information has survived."
 died: "North Africa, date unknown"
 deathPlace: "date unknown"

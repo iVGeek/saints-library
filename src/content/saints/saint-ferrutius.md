@@ -1,7 +1,6 @@
 ---
 name: "Saint Ferrutius"
 honorific: Saint
-title: "Saint Ferrutius"
 summary: "Roman soldier. Christian. When stationed at Mainz, Germany, as part of his duty he was ordered to worship an idol. He refused, and demanded his discharge from the army so that he could stay true to his faith. Instead he was thrown into prison and abused to death. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferrutius.jpg"
 searchAliases:

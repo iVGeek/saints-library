@@ -1,7 +1,6 @@
 ---
 name: "Saint Charles of Mount Argus"
 honorific: Venerable
-title: "Saint Charles of Mount Argus"
 summary: "Fourth of eleven children born to Peter Joseph and Elizabeth Jane Houban. Made his first Communion at age 13. Studied at Sittard; he was a slow learner, but a very dedicated student. Enlisted in the military in 1840, and served five years. After the military, Joannes worked brief"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Houben.jpg"
 searchAliases:

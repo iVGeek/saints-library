@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispulus of Sardinia"
 honorific: Saint
-title: "Saint Crispulus of Sardinia"
 summary: "Missionary priest in Sardinia, Italy. Martyred in the persecutions of Hadrian."
 deathYear: 130
 died: "c.130 at Porto Torres, Sardinia, Italy"

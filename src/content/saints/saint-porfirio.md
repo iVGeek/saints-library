@@ -1,7 +1,6 @@
 ---
 name: "Saint Porfirio"
 honorific: Saint
-title: "Saint Porfirio"
 summary: "Imperial executioner who was so moved by the courage of the Christians he was murdering that he examined the faith and converted. Martyred with five companions during the persecutions of Emperor Septimius Severus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Porfirio.jpg"
 searchAliases:

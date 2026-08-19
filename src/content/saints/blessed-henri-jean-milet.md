@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henri-Jean Milet"
 honorific: Blessed
-title: "Blessed Henri-Jean Milet"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1759
 deathYear: 1792

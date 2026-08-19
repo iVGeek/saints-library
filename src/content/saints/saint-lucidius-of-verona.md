@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucidius of Verona"
 honorific: Saint
-title: "Saint Lucidius of Verona"
 summary: "Fourth century bishop of Verona, Italy. Famous for a life of prayer and study."
 region: "Italy"
 feastDay:

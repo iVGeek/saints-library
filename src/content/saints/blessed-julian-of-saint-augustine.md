@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julian of Saint Augustine"
 honorific: Blessed
-title: "Blessed Julian of Saint Augustine"
 summary: "Tailor's apprentice in youth. Briefly admitted to the Franciscan monastery at Medinaceli, Spain, but was dismissed as not suited for monastic life. Tailor at Santocraz, Spain. Briefly admitted as a lay brother to the Franciscan monastery of Our Lady of Salceda, but dismissed as m"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-of-Saint-Augustine-1.jpg"
 searchAliases:

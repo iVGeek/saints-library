@@ -1,7 +1,6 @@
 ---
 name: "Blessed Avelino Rodríguez Alonso"
 honorific: Blessed
-title: "Blessed Avelino Rodríguez Alonso"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

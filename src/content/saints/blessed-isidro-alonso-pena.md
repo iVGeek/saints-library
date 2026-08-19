@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Alonso Peña"
 honorific: Blessed
-title: "Blessed Isidro Alonso Peña"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936

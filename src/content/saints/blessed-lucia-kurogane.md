@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia Kurogane"
 honorific: Blessed
-title: "Blessed Lucia Kurogane"
 summary: "Young daughter of Blessed Thecla Kurogane and Blessed Vincentius Kurogane Ichibiyoe in the diocese of Niigata, Japan. Martyr."
 birthYear: 1628
 deathYear: 1629

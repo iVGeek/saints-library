@@ -1,7 +1,6 @@
 ---
 name: "Saint Frontiniano of Alba"
 honorific: Saint
-title: "Saint Frontiniano of Alba"
 summary: "May have served as a soldier in an imperial Roman legion. Studied in his home town of Carcassonne, France, and became a deacon. Pilgrim to Rome, Italy with one Casiano, healing people along with way by praying for them, and performing other miracles including crossing a river on"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Frontiniano-of-Alba.jpg"
 searchAliases:

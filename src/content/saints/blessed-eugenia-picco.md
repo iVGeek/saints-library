@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenia Picco"
 honorific: Blessed
-title: "Blessed Eugenia Picco"
 summary: "Daughter of Giuseppe Picco, a famous touring musician, and Adelaide del Corno. Because her parents lived on the road, Eugenia was raised for years by her grandparents; however, at one point Adalaide returned alone, Eugenia moved in with her, and from that point grew up in a moral"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Picco.jpg"
 searchAliases:

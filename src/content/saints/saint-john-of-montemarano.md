@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Montemarano"
 honorific: Saint
-title: "Saint John of Montemarano"
 summary: "Benedictine monk. First bishop of Montemarano, Italy in 1074."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Montemarano.jpg"
 searchAliases:

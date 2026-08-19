@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matteo de Lana"
 honorific: Blessed
-title: "Blessed Matteo de Lana"
 summary: "Mercedarian monk at the monastery of Santa Maria degli Ulivi."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matteo-de-Lana.jpg"
 searchAliases:

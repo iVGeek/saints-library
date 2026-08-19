@@ -1,7 +1,6 @@
 ---
 name: "Saint Regulus of Scotland"
 honorific: Saint
-title: "Saint Regulus of Scotland"
 summary: "Bishop of Patras, Greece. Custodian of the relics of Saint Andrew the Apostle. In 345 he received a vision telling him to take the relics to the west, and to found a church with the name Saint Andrew. He and some companions, including Saint Damian of Scotland, wandered to the wes"
 searchAliases:
   - "Regulus of Saint Andrew"

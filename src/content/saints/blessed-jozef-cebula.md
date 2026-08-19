@@ -1,7 +1,6 @@
 ---
 name: "Blessed Józef Cebula"
 honorific: Blessed
-title: "Blessed Józef Cebula"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyred in the Nazi anti-Catholic persecutions."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Josef_Cebula_priest.jpg"
 searchAliases:

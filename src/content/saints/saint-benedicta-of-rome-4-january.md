@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedicta of Rome"
 honorific: Saint
-title: "Saint Benedicta of Rome"
 summary: "Nun. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Benedikta"

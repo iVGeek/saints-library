@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvi Huix Miralpeix"
 honorific: Blessed
-title: "Blessed Salvi Huix Miralpeix"
 summary: "Born to a pious and fairly wealthy family. Known for his hard work as a student and seminarian, and for his problems controlling his temper. Ordained on 19 September 1903 in the diocese of Vic, Spain. Rural parish priest for several years. Joined the Oratorians in Vich 1907, and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvi-Huix-Miralpeix.jpg"
 searchAliases:

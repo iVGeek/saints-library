@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Malo"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Malo"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1889
 deathYear: 1954

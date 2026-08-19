@@ -1,7 +1,6 @@
 ---
 name: "Saint Erluph of Werden"
 honorific: Saint
-title: "Saint Erluph of Werden"
 summary: "Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans."
 searchAliases:
   - "Erlulph"

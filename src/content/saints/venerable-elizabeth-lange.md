@@ -1,7 +1,6 @@
 ---
 name: "Venerable Elizabeth Lange"
 honorific: Venerable
-title: "Venerable Elizabeth Lange"
 summary: "To escape harsh racial discrimination, Elizabeth's family moved to South Carolina in the United States in 1813. Because of the racial laws there, Elisabeth moved on to Baltimore, Maryland. There she found that education of black children ranged from none to completely outlawed. W"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Elisabeth-Lange.jpg"
 searchAliases:

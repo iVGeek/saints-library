@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatho of Alexandria"
 honorific: Saint
-title: "Saint Agatho of Alexandria"
 summary: "Soldier in Alexandria, Egypt. When he prevented a mob of pagans from desecrating the bodies of Christian martyrs killed in the persecutions of Decius, the mob dragged him to court where he confessed to being a Christian himself. Martyr."
 deathYear: 250
 died: "martyred in 250 in Alexandria, Egypt"

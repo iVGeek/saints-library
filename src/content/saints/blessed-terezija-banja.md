@@ -1,7 +1,6 @@
 ---
 name: "Blessed Terezija Banja"
 honorific: Blessed
-title: "Blessed Terezija Banja"
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
 searchAliases:
   - "Sister Marija Bernadeta"

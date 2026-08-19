@@ -1,7 +1,6 @@
 ---
 name: "Saint Laetissima of Nicomedia"
 honorific: Saint
-title: "Saint Laetissima of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "at Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey)"
 deathPlace: "Bithynia, Asia Minor (modern Izmit, Turkey)"

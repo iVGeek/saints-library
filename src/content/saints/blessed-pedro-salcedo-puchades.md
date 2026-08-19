@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Salcedo Puchades"
 honorific: Blessed
-title: "Blessed Pedro Salcedo Puchades"
 summary: "Second of five children born to the poor but pious family of Matías Salcedo and Elena Puchades. Baptized at the age of 2 days. Became a Franciscan Capuchin friar on 21 July 1899, making his perpetual profession on 21 February 1903. Served as beggar of the house im Massamagrell, S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Salcedo-Puchades.jpg"
 searchAliases:

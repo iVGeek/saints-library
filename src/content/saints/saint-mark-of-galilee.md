@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Galilee"
 honorific: Saint
-title: "Saint Mark of Galilee"
 summary: "Convert, brought to the faith by Saint Peter the Apostle. Evangelized and served as first bishop of Abruzzi, Italy, was and its first martyr."
 searchAliases:
   - "Mark of Abruzzi"

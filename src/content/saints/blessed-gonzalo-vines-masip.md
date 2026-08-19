@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gonzalo Viñes Masip"
 honorific: Blessed
-title: "Blessed Gonzalo Viñes Masip"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Vines-Masip.jpg"
 birthYear: 1883

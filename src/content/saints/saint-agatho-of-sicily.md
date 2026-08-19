@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatho of Sicily"
 honorific: Saint
-title: "Saint Agatho of Sicily"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agatone"

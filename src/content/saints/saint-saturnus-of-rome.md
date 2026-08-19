@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturnus of Rome"
 honorific: Saint
-title: "Saint Saturnus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

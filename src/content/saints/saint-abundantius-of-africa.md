@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundantius of Africa"
 honorific: Saint
-title: "Saint Abundantius of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Abundius"

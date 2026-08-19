@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnina of Aegea"
 honorific: Saint
-title: "Saint Domnina of Aegea"
 summary: "Pious Christian woman martyred in the persecutions of Pro-consul Lysias."
 deathYear: 285
 died: "drowned in 285 at Aegea, Cilicia (in Asia Minor)"

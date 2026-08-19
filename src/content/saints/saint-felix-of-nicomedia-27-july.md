@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Nicomedia"
 honorific: Saint
-title: "Saint Felix of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "Nicomedia, Asia Minor"
 deathPlace: "Asia Minor"

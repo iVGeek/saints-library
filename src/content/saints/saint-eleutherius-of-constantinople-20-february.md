@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleutherius of Constantinople"
 honorific: Saint
-title: "Saint Eleutherius of Constantinople"
 summary: "Bishop in Constantinople. Martyr."
 searchAliases:
   - "Eleuterio"

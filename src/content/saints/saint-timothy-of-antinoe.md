@@ -1,7 +1,6 @@
 ---
 name: "Saint Timothy of Antinoe"
 honorific: Saint
-title: "Saint Timothy of Antinoe"
 summary: "Layman son of a priest named Pikolpossos. Lector and copyist, he was responsible for the security of the liturgical texts used in services. Married to Saint Maura of Antinoe. About twenty days into the marriage, and in the middle of the persecution of Diocletian, Timothy was arre"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Timothy-and-Maura.jpg"
 deathYear: 286

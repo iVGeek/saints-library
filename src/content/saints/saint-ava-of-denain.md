@@ -1,7 +1,6 @@
 ---
 name: "Saint Ava of Denain"
 honorific: Saint
-title: "Saint Ava of Denain"
 summary: "Niece of King Pepin the Short. Blind as a child, she was miraculously healed by Saint Rainfredis. Nun a Denain, Hainault (in modern Belgium), and later served as its abbess."
 searchAliases:
   - "Ava of Dinant"

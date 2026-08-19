@@ -1,7 +1,6 @@
 ---
 name: "Blessed Serviliano Riaño Herrero"
 honorific: Blessed
-title: "Blessed Serviliano Riaño Herrero"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

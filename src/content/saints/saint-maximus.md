@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus"
 honorific: Saint
-title: "Saint Maximus"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Massimo"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Aparicio López"
 honorific: Blessed
-title: "Blessed Santiago Aparicio López"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

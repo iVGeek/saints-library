@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juana Vazquez Gutierrez"
 honorific: Venerable
-title: "Venerable Juana Vazquez Gutierrez"
 summary: "Member of the Franciscan Nuns of the Third Order Regular, taking the name Juana of the Cross. Abbess of the Santa Maria de la Cruz convent in Cubas de la Sagra, Spain."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Juana-Vazquez-Gutierrez.jpg"
 searchAliases:

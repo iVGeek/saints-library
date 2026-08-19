@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnus of Avignon"
 honorific: Saint
-title: "Saint Magnus of Avignon"
 summary: "Married. Father of Saint Agricola of Avignon. Governor of Avignon, France. Widower. Monk at Lérins Abbey. Bishop of Lérins, France."
 deathYear: 660
 born: "Avignon, France"

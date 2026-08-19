@@ -1,7 +1,6 @@
 ---
 name: "Saint Landulf of Yariglia"
 honorific: Saint
-title: "Saint Landulf of Yariglia"
 summary: "Studied at the Benedictine monastery of San Pietro in Ciel d'Oro in Pavia, Italy. Priest. Canon of Milan, Italy. Bishop of Asti, Italy in 1105, a position that included the civil government of the city."
 searchAliases:
   - "Landulf of Asti"

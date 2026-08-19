@@ -1,7 +1,6 @@
 ---
 name: "Saint Heron of Alexandria"
 honorific: Saint
-title: "Saint Heron of Alexandria"
 summary: "A new convert, he was a spiritual student of Origen. Martyred in the persecutions of Severus."
 searchAliases:
   - "Erone"

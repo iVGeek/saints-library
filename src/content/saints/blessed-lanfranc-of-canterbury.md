@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lanfranc of Canterbury"
 honorific: Blessed
-title: "Blessed Lanfranc of Canterbury"
 summary: "After a liberal education in England, he went to Normandy and entered the monastery at Bec, where he opened a famous school. An opponent of the doctrines of Berengarius, he succeeded in having the Catholic doctrine defined at the Lateran Council of 1059. He obtained the papal dis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Archbishop-Lanfranc.jpg"
 birthYear: 1005

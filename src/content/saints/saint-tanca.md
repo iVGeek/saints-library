@@ -1,7 +1,6 @@
 ---
 name: "Saint Tanca"
 honorific: Saint
-title: "Saint Tanca"
 summary: "Young girl martyed defending her virginity."
 deathYear: 637
 died: "c.637 near Troyes, France"

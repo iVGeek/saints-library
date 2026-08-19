@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufo of Rome"
 honorific: Saint
-title: "Saint Rufo of Rome"
 summary: "Martyr."
 died: "Generosa cemetery, Rome, Italy"
 deathPlace: "Rome, Italy"

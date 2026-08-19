@@ -1,7 +1,6 @@
 ---
 name: "Saint Wilfrid of York"
 honorific: Saint
-title: "Saint Wilfrid of York"
 summary: "Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of modern England). He studied at the monastery of"
 image: "http://catholicsaints.info/wp-content/uploads/Saint-Wilfrid-of-York.jpg"
 searchAliases:

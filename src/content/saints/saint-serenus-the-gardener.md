@@ -1,7 +1,6 @@
 ---
 name: "Saint Serenus the Gardener"
 honorific: Saint
-title: "Saint Serenus the Gardener"
 summary: " One day he found a woman and her daughters walking in the garden around noon. He recommended Serenus abandoned his home and people to live as a hermit in Sirmiun, Pannonia (modern Hungary) where he directed his thought to prayer, his labour to working a garden of fruit and herbs."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Billom_%C3%89glise_Saint-Cerneuf_Vitrail_087.jpg/960px-Billom_%C3%89glise_Saint-Cerneuf_Vitrail_087.jpg"
 searchAliases:

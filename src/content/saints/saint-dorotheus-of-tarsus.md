@@ -1,7 +1,6 @@
 ---
 name: "Saint Dorotheus of Tarsus"
 honorific: Saint
-title: "Saint Dorotheus of Tarsus"
 summary: "Martyred in Tarsus, Cilicia. No other information has survived."
 region: "England"
 feastDay:

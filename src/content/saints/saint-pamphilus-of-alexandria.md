@@ -1,7 +1,6 @@
 ---
 name: "Saint Pamphilus of Alexandria"
 honorific: Saint
-title: "Saint Pamphilus of Alexandria"
 summary: "Studied in Berytus, Phoenicia and in Alexandria, Egypt. Careful student of the works of Origen. Priest, ordained at Caesarea. Head of a catechetical school in Caesarea. Noted Bible scholar. In a day when books were hand-copied, Pamphilus was known for the size of his library whic"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Pamphilus-of-Alexandria.jpg"
 born: "Berytus, Phoenicia"

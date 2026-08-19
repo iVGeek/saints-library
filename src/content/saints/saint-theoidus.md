@@ -1,7 +1,6 @@
 ---
 name: "Saint Theoidus"
 honorific: Saint
-title: "Saint Theoidus"
 summary: "Martyr."
 searchAliases:
   - "Thelois"

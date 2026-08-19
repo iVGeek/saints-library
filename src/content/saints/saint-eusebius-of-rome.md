@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Rome"
 honorific: Saint
-title: "Saint Eusebius of Rome"
 summary: "Imperial Roman patrician. Priest. Pope Liberius subscribed to the Arian formula of Sirmium; when he was permitted by the Emperor Constantius to return to Rome, Eusebius, an ardent defender of the Nicene Creed, publicly denounced them both. He was imprisoned, and died seven months"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eusebius-of-Rome.jpg"
 deathYear: 357

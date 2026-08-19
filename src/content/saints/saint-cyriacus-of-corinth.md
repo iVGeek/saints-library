@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Corinth"
 honorific: Saint
-title: "Saint Cyriacus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

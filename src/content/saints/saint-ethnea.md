@@ -1,7 +1,6 @@
 ---
 name: "Saint Ethnea"
 honorific: Saint
-title: "Saint Ethnea"
 summary: "Nun. Sister of Feidelma, mentioned in the “Acts” of Saint Patrick."
 searchAliases:
   - "Athna"

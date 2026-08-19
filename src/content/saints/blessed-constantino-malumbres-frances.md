@@ -1,7 +1,6 @@
 ---
 name: "Blessed Constantino Malumbres Francés"
 honorific: Blessed
-title: "Blessed Constantino Malumbres Francés"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

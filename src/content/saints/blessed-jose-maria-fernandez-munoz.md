@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Fernández Muñoz"
 honorific: Blessed
-title: "Blessed José María Fernández Muñoz"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1934

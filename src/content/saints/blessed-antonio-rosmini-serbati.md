@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Rosmini-Serbati"
 honorific: Blessed
-title: "Blessed Antonio Rosmini-Serbati"
 summary: "Educated at home, and then three years at the University of Padua, Italy. Ordained on 21 April 1821 at Chioggia, Italy. Received his Doctorate of Canon Law and Theology in 1822. Began work in Rome, Italy in 1823, studying philosphy for the next three years, especially the works o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Rosmini-Serbati1.jpg"
 birthYear: 1797

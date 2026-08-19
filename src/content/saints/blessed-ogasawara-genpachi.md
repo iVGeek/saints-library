@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ogasawara Genpachi"
 honorific: Blessed
-title: "Blessed Ogasawara Genpachi"
 summary: "Lifelong layman in the diocese of Fukuoka, Japan. Son of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya Luisa. Martyr."
 deathYear: 1636
 born: "Kokura, Buzen, Fukuoka, Japan"

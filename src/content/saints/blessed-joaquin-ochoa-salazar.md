@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquín Ochoa Salazar"
 honorific: Blessed
-title: "Blessed Joaquín Ochoa Salazar"
 summary: "Marianist brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquin-Ochoa-Salazar.jpg"
 birthYear: 1910

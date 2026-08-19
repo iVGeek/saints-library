@@ -1,7 +1,6 @@
 ---
 name: "Saint Tomaseu Son Cha-son"
 honorific: Venerable
-title: "Saint Tomaseu Son Cha-son"
 summary: "Korean layman who worked with Catholic missionaries to spread Christianity in his country. Martyr."
 searchAliases:
   - "Tomaseu Son Ja-Seon"

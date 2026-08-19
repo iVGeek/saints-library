@@ -1,7 +1,6 @@
 ---
 name: "Saint Theotychus of Alexandria"
 honorific: Saint
-title: "Saint Theotychus of Alexandria"
 summary: "Layman. Having witnessed the courage of Christian martyrs, he became interested in the faint, and became a convert. Martyr."
 died: "drowned at sea"
 region: "England"

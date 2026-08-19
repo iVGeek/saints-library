@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego Luis de San Vitores-Alonso"
 honorific: Blessed
-title: "Blessed Diego Luis de San Vitores-Alonso"
 summary: "Member of the Jesuits, joining in 1634. Ordained a priest on 23 December 1651. He served several years as a teacher in the Spanish cities of Toledo, Madrid and Alcalà, but in 1660 was finally able to moved to missionary work. He studied in Mexico from 1660 to 1662, and then was a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Luis-de-San-Vitores-Alonso.jpg"
 birthYear: 1627

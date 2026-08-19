@@ -1,7 +1,6 @@
 ---
 name: "Saint Pientius of Poitiers"
 honorific: Saint
-title: "Saint Pientius of Poitiers"
 summary: "Bishop of Poitiers, France. Helped Saint Radegunde to found her convent."
 searchAliases:
   - "Pien"

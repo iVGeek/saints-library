@@ -1,7 +1,6 @@
 ---
 name: "Venerable Martín Fulgencio Elorza Legaristi"
 honorific: Venerable
-title: "Venerable Martín Fulgencio Elorza Legaristi"
 summary: "Member of the Passionists, joining in 1912 and making his solemn profession on 12 June 1924. Ordained a priest on 13 July 1924. He served as director of students in Gabiria, Spain, then Provincial Councilor, and then Provincial Superior, serving during the persecutions of the Spa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Martin-Fulgencio-Elorza-Legaristi.jpg"
 searchAliases:

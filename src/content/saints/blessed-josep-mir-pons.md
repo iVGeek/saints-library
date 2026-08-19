@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Mir Pons"
 honorific: Blessed
-title: "Blessed Josep Mir Pons"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Priscillià"

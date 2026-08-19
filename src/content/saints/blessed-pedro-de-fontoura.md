@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro de Fontoura"
 honorific: Blessed
-title: "Blessed Pedro de Fontoura"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Braga, Portugal"

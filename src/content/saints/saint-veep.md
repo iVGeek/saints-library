@@ -1,7 +1,6 @@
 ---
 name: "Saint Veep"
 honorific: Saint
-title: "Saint Veep"
 summary: "Born a princess, the daughter of the chieftain Caw; sister of Saint Samson of York, and related to Saint Gwenyth of Cornwall. Driven south by non-Christian Picts, she settled in Cornwall, England. The parish of Saint Veep is named for her."
 searchAliases:
   - "Gwenagwy"

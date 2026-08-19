@@ -1,7 +1,6 @@
 ---
 name: "Saint Basileus of Braga"
 honorific: Saint
-title: "Saint Basileus of Braga"
 summary: "First bishop of Braga, Portugal."
 region: "Portugal"
 feastDay:

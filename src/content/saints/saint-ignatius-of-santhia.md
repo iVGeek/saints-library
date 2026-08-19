@@ -1,7 +1,6 @@
 ---
 name: "Saint Ignatius of Santhià"
 honorific: Venerable
-title: "Saint Ignatius of Santhià"
 summary: "Ordained in 1710 in the diocese of Vercelli, Italy. Parish priest for six years. He was offered a position of authority in the diocese, but declined, and on 24 May 1716 he became a novice in the Capuchins of Turin, Italy, taking the name Ignatius, and beginning 54 years of servic"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Reliquie_di_Ignazio_da_Santhi%C3%A0.jpg/960px-Reliquie_di_Ignazio_da_Santhi%C3%A0.jpg"
 searchAliases:

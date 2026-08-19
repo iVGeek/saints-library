@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintí of Thessalonica"
 honorific: Saint
-title: "Saint Quintí of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

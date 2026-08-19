@@ -1,7 +1,6 @@
 ---
 name: "Saint Terenzio of Luni"
 honorific: Saint
-title: "Saint Terenzio of Luni"
 summary: "Sixth bishop of Luni, Italy, noted at the time for his charity and care for the poor. Martyred by Arian Lombards for trying to bring them to orthodox Christianity."
 birthYear: 556
 born: "c.556"

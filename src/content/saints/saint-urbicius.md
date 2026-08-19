@@ -1,7 +1,6 @@
 ---
 name: "Saint Urbicius"
 honorific: Saint
-title: "Saint Urbicius"
 summary: "Born to the Frankish nobility. Monk at the monastery of Saint Martin, Val de Onsera, France. Priest. Captured by Saracen raiders, and taken to the area of modern Spain. He escaped, and became a hermit in the Pyrenees Mountains near Huesca, Aragon. The Ermita de San Úrbez in Huesc"
 searchAliases:
   - "Urbez"

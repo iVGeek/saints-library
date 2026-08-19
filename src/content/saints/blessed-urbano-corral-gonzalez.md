@@ -1,7 +1,6 @@
 ---
 name: "Blessed Urbano Corral González"
 honorific: Blessed
-title: "Blessed Urbano Corral González"
 summary: "Joined the Salesians in Bujedo, Spain in September 1913, making his profession on 2 February 1916. Began teaching at the College de las Maravillas of Madrid, Spain in 1919. Novice catechist at Griñon, Spain. Taught at the College San Fernando in Andalucia, and then in Santa Cruz"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Urbano-Corral-González.jpg"
 searchAliases:

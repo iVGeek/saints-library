@@ -1,7 +1,6 @@
 ---
 name: "Saint Melas of Rhinocolura"
 honorific: Saint
-title: "Saint Melas of Rhinocolura"
 summary: "Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured by Arian heretics."
 searchAliases:
   - "Melantius"

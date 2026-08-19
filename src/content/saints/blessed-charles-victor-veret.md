@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles-Victor Véret"
 honorific: Blessed
-title: "Blessed Charles-Victor Véret"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1763
 deathYear: 1792

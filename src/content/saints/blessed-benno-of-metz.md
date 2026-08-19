@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benno of Metz"
 honorific: Blessed
-title: "Blessed Benno of Metz"
 summary: "Born to the nobility. Canon in Strasbourg, France. Hermit on Mount Etzel in Switzerland in 906, living in the former hermitage of Saint Meinrad. Benno's reputation for holiness spread, spiritual students gathered around him, and in 924 he founded the Benedictine monastery of Eins"
 searchAliases:
   - "Benno of Einsiedeln"

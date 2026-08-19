@@ -1,7 +1,6 @@
 ---
 name: "Saint Photis of Rome"
 honorific: Saint
-title: "Saint Photis of Rome"
 summary: "Martyred in the persecutions of Nero."
 searchAliases:
   - "Photides of Rome"

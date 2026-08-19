@@ -1,7 +1,6 @@
 ---
 name: "Saint Quiriacus of Africa"
 honorific: Saint
-title: "Saint Quiriacus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survived."
 region: "Africa"
 feastDay:

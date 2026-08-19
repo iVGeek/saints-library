@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Martínez Vizcaíno"
 honorific: Blessed
-title: "Blessed José María Martínez Vizcaíno"
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermogenes of Syracuse"
 honorific: Saint
-title: "Saint Hermogenes of Syracuse"
 summary: "Martyr."
 searchAliases:
   - "Ermogene"

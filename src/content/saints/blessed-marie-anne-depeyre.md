@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Anne Depeyre"
 honorific: Blessed
-title: "Blessed Marie-Anne Depeyre"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

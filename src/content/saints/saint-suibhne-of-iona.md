@@ -1,7 +1,6 @@
 ---
 name: "Saint Suibhne of Iona"
 honorific: Saint
-title: "Saint Suibhne of Iona"
 summary: "Monk. Abbot of Iona Abbey for about three years."
 searchAliases:
   - "Sweeney"

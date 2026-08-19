@@ -1,7 +1,6 @@
 ---
 name: "Blessed Monica of Kyoto"
 honorific: Blessed
-title: "Blessed Monica of Kyoto"
 summary: "Married lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Omi (in modern Shiga), Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Gourdon veuve Moreau"
 honorific: Blessed
-title: "Blessed Jeanne Gourdon veuve Moreau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1733
 deathYear: 1794

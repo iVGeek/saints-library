@@ -1,7 +1,6 @@
 ---
 name: "Blessed Octavia Iglesias Blanco"
 honorific: Blessed
-title: "Blessed Octavia Iglesias Blanco"
 summary: "Lay woman in the diocese of Astorga, Spain. Red Cross nurse. Raped and murdered in the Spanish Civil War. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Octavia-Iglesias-Blanco.jpg"
 birthYear: 1894

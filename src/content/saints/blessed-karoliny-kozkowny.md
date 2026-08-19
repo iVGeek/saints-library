@@ -1,7 +1,6 @@
 ---
 name: "Blessed Karoliny Kózkówny"
 honorific: Blessed
-title: "Blessed Karoliny Kózkówny"
 summary: "Fourth of eleven children born to the farm family of Jan and Maria Borzechka Kózka. Catechist. A teenaged virgin, she refused the advances of a Russian soldier. He kidnapped her, dragged her into the forest, and murdered her during an attempted rape. Martyr of purity."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Karoliny-Kozkowny.jpg"
 searchAliases:

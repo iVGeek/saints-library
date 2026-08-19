@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christoffel Zelt"
 honorific: Blessed
-title: "Blessed Christoffel Zelt"
 summary: "Franciscan Friar Minor lay brother, he served in his late 60's as a cook for his house after having served for may years in a house in Vienna, Austria. One of the Martyrs of Prague, killed by a Lutheran mob as he carried firewood into the kitchen."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-christoffel-zelt.jpg"
 searchAliases:

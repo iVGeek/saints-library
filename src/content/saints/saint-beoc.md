@@ -1,7 +1,6 @@
 ---
 name: "Saint Beoc"
 honorific: Saint
-title: "Saint Beoc"
 summary: "Founded a monastery on an island in Lough Derg, Donegal, Ireland, a site famous for barefoot pilgrimages that continue to this day, and served as its first abbot."
 searchAliases:
   - "Bean"

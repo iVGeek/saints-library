@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vitaliy Bayrak"
 honorific: Blessed
-title: "Blessed Vitaliy Bayrak"
 summary: "Greek Catholic. Joined the Basilian Order of Saint Josaphat monastery on 4 September 1924. Ordained on 13 August 1933. Prior of Drohobych in 1941. Arrested for his faith on 17 September 1945 by the NKVD. On 13 November 1945 his property was confiscated, and he was sentenced to ei"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vitalij_Bajrak.jpg"
 searchAliases:

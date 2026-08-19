@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Antoine Savine"
 honorific: Blessed
-title: "Blessed Jean-Antoine Savine"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1760
 deathYear: 1792

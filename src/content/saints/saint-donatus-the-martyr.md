@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus the Martyr"
 honorific: Saint
-title: "Saint Donatus the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

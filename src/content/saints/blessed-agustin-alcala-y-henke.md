@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agustín Alcalá y Henke"
 honorific: Blessed
-title: "Blessed Agustín Alcalá y Henke"
 summary: "Married layman in the archdiocese Sevilla, Spain. Studied at the Jesuit College of El Puerto de Santa María, and then the Padre Luis Coloma Institute in Jerez de la Frontera where he graduated in 1908. Studied law at the University of Sevilla, where he was an honours student, and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Agustin-Alcala-y-Henke.jpg"
 birthYear: 1892

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Fernández Escosura"
 honorific: Blessed
-title: "Blessed Francisco Fernández Escosura"
 summary: "Member of the Dominicans. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936

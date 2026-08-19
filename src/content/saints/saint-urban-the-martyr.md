@@ -1,7 +1,6 @@
 ---
 name: "Saint Urban the Martyr"
 honorific: Saint
-title: "Saint Urban the Martyr"
 summary: "Student of Saint Babylas. Martyr."
 region: "Italy"
 feastDay:

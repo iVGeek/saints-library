@@ -1,7 +1,6 @@
 ---
 name: "Saint Theopistus"
 honorific: Saint
-title: "Saint Theopistus"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 1

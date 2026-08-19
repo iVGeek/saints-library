@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Tours"
 honorific: Saint
-title: "Saint Gregory of Tours"
 summary: "Born to the Gallic nobility; great-nephew of Saint Eustadius. Friend of Saint Magnericus and Saint Senoch. While on pilgrimage to the shrine of Saint Martin of Tours, his obvious piety led to his being chosen bishop of Tours, France in 573, taking the name Gregory on his ordinati"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gregory_of_Tours_cour_Napoleon_Louvre.jpg/960px-Gregory_of_Tours_cour_Napoleon_Louvre.jpg"
 searchAliases:

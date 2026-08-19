@@ -1,7 +1,6 @@
 ---
 name: "Saint Marana of Beroea"
 honorific: Saint
-title: "Saint Marana of Beroea"
 summary: "Pious woman who lived a life of extreme asceticism walled up in a small house just outside of Beroea, Syria."
 deathYear: 455
 died: "c.455 in Beroea, Syria of natural causes"

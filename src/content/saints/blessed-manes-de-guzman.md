@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manés de Guzmán"
 honorific: Blessed
-title: "Blessed Manés de Guzmán"
 summary: "Son of Felix de Guzman and Blessed Juana of Aza; older brother of Saint Dominic de Guzman. Educated by his uncle Gonzalo de Aza in Gumiel de Izan, and he joined the Cistercians in the San Pedro monastery in Gumiel de Izan in 1183. Priest. Helped his brother Dominic found and spre"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Manescuadro_%28cropped%29.jpg"
 searchAliases:

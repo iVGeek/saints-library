@@ -1,7 +1,6 @@
 ---
 name: "Blessed Epifanio Gómez Alvaro"
 honorific: Blessed
-title: "Blessed Epifanio Gómez Alvaro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

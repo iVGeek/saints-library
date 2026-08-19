@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonides of Athens"
 honorific: Saint
-title: "Saint Leonides of Athens"
 summary: "Sixth-century bishop of Athens, Greece."
 region: "Greece"
 feastDay:

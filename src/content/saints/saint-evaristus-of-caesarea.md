@@ -1,7 +1,6 @@
 ---
 name: "Saint Evaristus of Caesarea"
 honorific: Saint
-title: "Saint Evaristus of Caesarea"
 summary: "Brother of Saint Carponius of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "in 303 in Caesarea, Cappadocia (in modern Turkey)"

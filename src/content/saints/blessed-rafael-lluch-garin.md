@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Lluch Garín"
 honorific: Blessed
-title: "Blessed Rafael Lluch Garín"
 summary: "Young layman in the archdiocese of Valencia, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936

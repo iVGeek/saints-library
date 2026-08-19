@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia of Verona"
 honorific: Blessed
-title: "Blessed Lucia of Verona"
 summary: "As a girl, Lucia was noted for her piety and charity. She joined the Third Order of the Servants of Mary in Verona, Italy, and lived in her house as though it was a monastery. She developed a ministery of visiting the sick, nursing them in their homes, dressing wounds, sitting wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucia-of-Verona.jpg"
 birthYear: 1514

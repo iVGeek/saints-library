@@ -1,7 +1,6 @@
 ---
 name: "Saint Norbert of Xanten"
 honorific: Saint
-title: "Saint Norbert of Xanten"
 summary: "Born to the nobility, Norbert was raised around the royal court and served as almoner for Emperor Henry V. In the court he developed a very worldly view, and took holy orders as a career move, joining the Benedictines at Siegburg. A narrow escape from death led to a conversion ex"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/SSACRAM_62.JPG"
 searchAliases:

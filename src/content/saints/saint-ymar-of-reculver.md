@@ -1,7 +1,6 @@
 ---
 name: "Saint Ymar of Reculver"
 honorific: Saint
-title: "Saint Ymar of Reculver"
 summary: "Monk at Reculver Abbey, Kent, England. Martyr."
 deathYear: 830
 died: "martyred c.830 by invading Danes"

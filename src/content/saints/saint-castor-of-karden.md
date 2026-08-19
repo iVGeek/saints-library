@@ -1,7 +1,6 @@
 ---
 name: "Saint Castor of Karden"
 honorific: Saint
-title: "Saint Castor of Karden"
 summary: "Spiritual student of Saint Maximinus of Trier. Priest, ordained by Maximinus in the mid-4th-century. Hermit at Karden in the Moselle river region where he ministered to other hermits and small religious groups, including Saint Potentinus his sons Felicius and Simplicius."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karden_Statue_Kastorbrunnen_2006-08-16.jpg/960px-Karden_Statue_Kastorbrunnen_2006-08-16.jpg"
 searchAliases:

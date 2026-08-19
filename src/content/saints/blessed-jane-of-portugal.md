@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jane of Portugal"
 honorific: Blessed
-title: "Blessed Jane of Portugal"
 summary: "Princess, the daughter of Elizabeth and King Alphonsus V of Portugal. Entered a Dominican convent at Aveiro, Portual in 1473. The royal family objected to her taking vows because she might need to marry to insure the continuity of the royal bloodline. She agreed, fended off arran"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jane-of-Portugal1.jpg"
 searchAliases:

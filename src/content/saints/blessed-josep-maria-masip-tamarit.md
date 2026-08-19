@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Masip Tamarit"
 honorific: Blessed
-title: "Blessed Josep Maria Masip Tamarit"
 summary: "Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Marçal of Saint Anne"

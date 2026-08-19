@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Maria Boccardo"
 honorific: Blessed
-title: "Blessed Giovanni Maria Boccardo"
 summary: "Eldest of ten children born to Gasparo Boccardo and Giuseppina Malerba; his was a pious family - he was baptized at one day of age, three of his brothers became priests, one of them Blessed Luigi Boccardo. He studied with the Barnabites, graduating from their high school in 1864,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Maria-Boccardo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicola da Forca Palena"
 honorific: Blessed
-title: "Blessed Nicola da Forca Palena"
 summary: "Priest. Nicola joined the Franciscan tertiaries and became known for his personal piety and life of penance. Curate of the church of Sant'Antonio in Palena, Italy in 1379. Pilgrim to Rome, Italy where he visited the tombs of each of the Apostles, and began to feel a call to solit"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicola-da-Forca-Palena.jpg"
 searchAliases:

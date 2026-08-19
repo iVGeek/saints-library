@@ -1,7 +1,6 @@
 ---
 name: "Venerable Angela Maria Boidi"
 honorific: Venerable
-title: "Venerable Angela Maria Boidi"
 summary: "Born to a wealthy, landed family, the tenth daughter of Filippo Boidi and Antonia Bruno. Passionist nun."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Angela-Maria-Boidi.jpg"
 searchAliases:

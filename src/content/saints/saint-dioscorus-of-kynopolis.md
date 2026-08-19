@@ -1,7 +1,6 @@
 ---
 name: "Saint Dioscorus of Kynopolis"
 honorific: Saint
-title: "Saint Dioscorus of Kynopolis"
 summary: "Lector in a church in Kynopolis, Egypt. Martyr."
 searchAliases:
   - "Dioscorus of Alexandria"

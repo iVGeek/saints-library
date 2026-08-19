@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Rodrigo Antón"
 honorific: Blessed
-title: "Blessed Antonio Rodrigo Antón"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

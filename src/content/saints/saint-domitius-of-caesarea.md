@@ -1,7 +1,6 @@
 ---
 name: "Saint Domitius of Caesarea"
 honorific: Saint
-title: "Saint Domitius of Caesarea"
 summary: "Publicly opposed the violent entertainments of the circus, which were dedicated to pagan gods. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Domitius the Phrygian"

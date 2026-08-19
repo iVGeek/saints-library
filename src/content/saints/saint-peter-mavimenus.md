@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Mavimenus"
 honorific: Saint
-title: "Saint Peter Mavimenus"
 summary: "Martyred by Muslims for supporting Christianity and denigrating Islam."
 searchAliases:
   - "Peter the Scribe"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jarogniew Wojciechowski"
 honorific: Blessed
-title: "Blessed Jarogniew Wojciechowski"
 summary: "Young layman in the archdiocese of Poznan, Poland, the son of an alcoholic manager of a cosmetics shop who eventually abandoned the family. Jarogniew found the Saleisan oratory and it became a second home. Played piano. He became a pious young man who thought deeply, worked for a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jarogniew-Wojciechowski.jpg"
 birthYear: 1922

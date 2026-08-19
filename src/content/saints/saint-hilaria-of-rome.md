@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilaria of Rome"
 honorific: Saint
-title: "Saint Hilaria of Rome"
 summary: "One of a group of Roman women martyred in an  early persecution, date unknown."
 searchAliases:
   - "Ilaria"

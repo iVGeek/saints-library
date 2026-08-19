@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Alexis-Mathias Boubert"
 honorific: Blessed
-title: "Blessed Louis-Alexis-Mathias Boubert"
 summary: "Deacon of the diocese of Amiens, France. One of the Martyrs of September."
 birthYear: 1766
 deathYear: 1792

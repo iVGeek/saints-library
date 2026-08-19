@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Uchibori Sakuemon"
 honorific: Blessed
-title: "Blessed Paulus Uchibori Sakuemon"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Konstanty Bojko"
 honorific: Blessed
-title: "Blessed Konstanty Bojko"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1826

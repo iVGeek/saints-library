@@ -1,7 +1,6 @@
 ---
 name: "Saint Elijah Speleota"
 honorific: Saint
-title: "Saint Elijah Speleota"
 summary: "Born to the wealthy nobility, the son of Peitro Bozzetta and Leonzia de Leontini. At age 18, to avoid an arranged marriage and answer a call to religious life, Elijah left home to become a pilgrim to Rome, Italy. He became a Basilian monk at Grottaferrata outside Rome, returned b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elijah-Speleota.jpg"
 searchAliases:

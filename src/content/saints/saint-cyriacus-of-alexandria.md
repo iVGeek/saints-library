@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Alexandria"
 honorific: Saint
-title: "Saint Cyriacus of Alexandria"
 summary: "Martyr. No other information has survived."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"

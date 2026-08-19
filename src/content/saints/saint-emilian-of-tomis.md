@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian of Tomis"
 honorific: Saint
-title: "Saint Emilian of Tomis"
 summary: "Martyr."
 died: "in Tomis, Scythia Minor (modern Constanta, Romania)"
 deathPlace: "Scythia Minor (modern Constanta, Romania)"

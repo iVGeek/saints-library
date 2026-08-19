@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mathurin-Victoir Deruelle"
 honorific: Blessed
-title: "Blessed Mathurin-Victoir Deruelle"
 summary: "Mathurin graduated university with degrees in literature and philosophy in 1748. Ordained a priest of the archdiocese of Paris, France in December 1753, Father Mathurin served in the Saint Gervase parish, and as chaplain to the local house of the Daughters of Charity. He earned a"
 searchAliases:
   - "Maturino Vittorio"

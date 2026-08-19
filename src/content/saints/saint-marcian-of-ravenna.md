@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Ravenna"
 honorific: Saint
-title: "Saint Marcian of Ravenna"
 summary: "Bishop of Ravenna, Italy in 112."
 searchAliases:
   - "Mariano"

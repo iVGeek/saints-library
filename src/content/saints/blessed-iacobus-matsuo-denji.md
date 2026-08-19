@@ -1,7 +1,6 @@
 ---
 name: "Blessed Iacobus Matsuo Denji"
 honorific: Blessed
-title: "Blessed Iacobus Matsuo Denji"
 summary: "Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr."
 searchAliases:
   - "Iacobus Denxi"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cisellus of Sardinia"
 honorific: Saint
-title: "Saint Cisellus of Sardinia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "beheaded in 303 in Sardinia, Italy"

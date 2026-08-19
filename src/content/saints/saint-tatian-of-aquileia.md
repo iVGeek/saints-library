@@ -1,7 +1,6 @@
 ---
 name: "Saint Tatian of Aquileia"
 honorific: Saint
-title: "Saint Tatian of Aquileia"
 summary: "Deacon in Aquileia, Italy. Martyred in the persecutions of Numerian."
 searchAliases:
   - "Taziano"

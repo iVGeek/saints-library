@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edigna of Puch"
 honorific: Blessed
-title: "Blessed Edigna of Puch"
 birthYear: 1055
 deathYear: 1109
 born: "c.1055"

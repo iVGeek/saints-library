@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mancius of Saint Thomas"
 honorific: Blessed
-title: "Blessed Mancius of Saint Thomas"
 summary: "Dominican friar. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg"
 searchAliases:

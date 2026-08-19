@@ -1,7 +1,6 @@
 ---
 name: "Saint Medana"
 honorific: Saint
-title: "Saint Medana"
 summary: "Eighth century consecrated virgin who lived most of her life in the area of Galloway, Scotland."
 born: "Ireland"
 region: "Ireland"

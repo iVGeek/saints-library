@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphrasia"
 honorific: Saint
-title: "Saint Euphrasia"
 summary: " When Eu Born to the Roman nobility, the daughter of Antigonus, senator of Constantinople. Related to Roman Emperor Theodosius I who finished the conversion of Rome to a Christian state. Her father died soon after Euphrasia was born; she and her mother became wards of the emperor."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Augentrost.jpg"
 searchAliases:

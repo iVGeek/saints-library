@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Africa"
 honorific: Saint
-title: "Saint Saturninus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 region: "Africa"
 feastDay:

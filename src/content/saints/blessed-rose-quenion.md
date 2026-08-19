@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rose Quenion"
 honorific: Blessed
-title: "Blessed Rose Quenion"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rose-Quenion.jpg"
 birthYear: 1764

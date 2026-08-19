@@ -1,7 +1,6 @@
 ---
 name: "Saint Narcissus of Africa"
 honorific: Saint
-title: "Saint Narcissus of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "Africa"
 feastDay:

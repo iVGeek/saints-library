@@ -1,7 +1,6 @@
 ---
 name: "Saint Annemond of Lyons"
 honorific: Saint
-title: "Saint Annemond of Lyons"
 summary: "Born to the nobility, the son of Sigon, a prefect in Lyons, France; his brother was Count Dalfin of Lyons. Annemond grew up in the court of King Dagobert I, and councilor to King Clovis II. Friend of Saint Wilfrid of York. Archbishop of Lyons, France. Murdered by Ebroin in the tu"
 searchAliases:
   - "Annemund"

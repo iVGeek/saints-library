@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Cástor Sojo López"
 honorific: Blessed
-title: "Blessed Francisco Cástor Sojo López"
 summary: "Francisco studied at the seminary of Plasencia, Spain, joining the Hermandad de Sacerdotes Operarios Diocesanos (Diocesan Laborer Priests of the Sacred Heart of Jesus) on 11 October 1903, and being ordained a priest on 19 December 1903. He served and taught in colleges and semina"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Castor-Sojo-Lopez.jpg"
 birthYear: 1881

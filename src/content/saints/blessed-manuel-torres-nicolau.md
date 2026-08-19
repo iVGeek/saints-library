@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Torres Nicolau"
 honorific: Blessed
-title: "Blessed Manuel Torres Nicolau"
 summary: "Member of the Claretians, professed on 16 July 1891. Ordained a priest on 13 May 1899. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

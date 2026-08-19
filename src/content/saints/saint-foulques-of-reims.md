@@ -1,7 +1,6 @@
 ---
 name: "Saint Foulques of Reims"
 honorific: Saint
-title: "Saint Foulques of Reims"
 summary: "Born to the Frankish nobility; his brother Anscar I was the first Margrave of Ivrea in northern Italy. Fulk served as palace cleric in the court of King Charles II the Bald. Abbot of the Benedictine abbey of San Bertino in 877. Chosen 34th bishop of Reims, France on 7 March 883."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fulk-of-Reims.jpg"
 searchAliases:

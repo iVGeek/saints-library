@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Ephesus"
 honorific: Saint
-title: "Saint Mark of Ephesus"
 summary: "Martyr."
 died: "stoned to death near Ephesus, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"

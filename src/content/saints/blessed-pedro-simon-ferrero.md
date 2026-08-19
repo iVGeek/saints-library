@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Simón Ferrero"
 honorific: Blessed
-title: "Blessed Pedro Simón Ferrero"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

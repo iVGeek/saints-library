@@ -1,7 +1,6 @@
 ---
 name: "Saint Edmund Campion"
 honorific: Saint
-title: "Saint Edmund Campion"
 summary: "Son of a Catholic bookseller named Edmund whose family converted to Anglicanism. The boy planned to enter his father's trade, but earned a scholarship to Saint John’s College, Oxford under the patronage of Queen Elizabeth I's court favorite, Robert Dudley, Earl of Leicester. Soug"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg"
 searchAliases:

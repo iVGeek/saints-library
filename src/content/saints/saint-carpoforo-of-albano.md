@@ -1,7 +1,6 @@
 ---
 name: "Saint Carpóforo of Albano"
 honorific: Saint
-title: "Saint Carpóforo of Albano"
 summary: "Martyr. No other information has survived."
 died: "Albano, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Julia of Saragossa"
 honorific: Saint
-title: "Saint Julia of Saragossa"
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean."
 deathYear: 304
 died: "martyred c.304 at Zaragoza, Spain"

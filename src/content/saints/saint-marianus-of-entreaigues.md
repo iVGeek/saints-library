@@ -1,7 +1,6 @@
 ---
 name: "Saint Marianus of Entreaigues"
 honorific: Saint
-title: "Saint Marianus of Entreaigues"
 summary: "Hermit in the forest of Entreaigues in Berry, France. Saint Gregory of Tours wrote a biography of him."
 deathYear: 515
 died: "c.515"

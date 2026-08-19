@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Jesús Díaz Ramos"
 honorific: Blessed
-title: "Blessed Antonio Jesús Díaz Ramos"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 18 December 1920. Parish administrator in Cazalla de la Sierra, Sevilla in 1931. Imprisoned on the night of 18 July 1936 at the start of the Spanish Civil War; he survived less than three weeks. Martyr."
 birthYear: 1896
 deathYear: 1936

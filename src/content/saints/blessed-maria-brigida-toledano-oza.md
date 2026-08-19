@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Brígida Toledano Oza"
 honorific: Blessed
-title: "Blessed María Brígida Toledano Oza"
 summary: "Lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936

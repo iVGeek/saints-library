@@ -1,7 +1,6 @@
 ---
 name: "Saint Priamus of Sardinia"
 honorific: Saint
-title: "Saint Priamus of Sardinia"
 summary: "A church on Sardinia is dedicated to this saint, but no information about them has survived."
 region: "Italy"
 feastDay:

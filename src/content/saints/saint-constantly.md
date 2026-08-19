@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantly"
 honorific: Saint
-title: "Saint Constantly"
 summary: "Daughter of Constantine the Great. Healed of an unnnamed mortal illness a the tomb of Saint Agnes of Rome, she converted to Christianity. Lived the rest of her life near the tomb with a group of like-minded women that today would be nuns."
 region: "Italy"
 feastDay:

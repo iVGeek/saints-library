@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitus of Bergamo"
 honorific: Saint
-title: "Saint Vitus of Bergamo"
 summary: "Benedictine monk near Bergamo, Italy. Spiritual student of Saint Albert."
 deathYear: 1095
 died: "1095"

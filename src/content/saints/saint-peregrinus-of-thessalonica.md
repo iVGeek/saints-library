@@ -1,7 +1,6 @@
 ---
 name: "Saint Peregrinus of Thessalonica"
 honorific: Saint
-title: "Saint Peregrinus of Thessalonica"
 summary: "Martyred in the persecution of Diocletian"
 deathYear: 303
 died: "burned at the stake c.303 at Thessalonica"

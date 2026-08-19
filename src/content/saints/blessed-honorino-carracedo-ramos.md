@@ -1,7 +1,6 @@
 ---
 name: "Blessed Honorino Carracedo Ramos"
 honorific: Blessed
-title: "Blessed Honorino Carracedo Ramos"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 searchAliases:
   - "Honorino of Our Lady of Sorrows"

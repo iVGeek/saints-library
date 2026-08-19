@@ -1,7 +1,6 @@
 ---
 name: "Saint Oswine of Deira"
 honorific: Saint
-title: "Saint Oswine of Deira"
 summary: "Born a prince, the son of King Osric of Deira in Britain. Educated by Saint Aidan. Succeeded Saint Oswald of Northumbria as king of Deira in 642. Saint Bede describes him as “most generous to all men and above all things humble; tall of stature and of graceful bearing, with pleas"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Saint_Oswine.jpg"
 searchAliases:

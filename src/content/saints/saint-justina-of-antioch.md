@@ -1,7 +1,6 @@
 ---
 name: "Saint Justina of Antioch"
 honorific: Saint
-title: "Saint Justina of Antioch"
 summary: "Young maiden who had consecrated her virginity to God, and who became the target of the obsession of Saint Cyprian of Antioch, who was a pagan magician at the time and tried to use his “powers” to seduce her. She converted him to Christianity. Martyred in the persecutions of Dioc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Cyprian-and-Justina.jpg"
 searchAliases:

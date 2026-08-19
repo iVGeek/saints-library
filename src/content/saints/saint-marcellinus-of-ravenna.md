@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Ravenna"
 honorific: Saint
-title: "Saint Marcellinus of Ravenna"
 summary: "Third century bishop of Ravenna, Italy."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Bertoni"
 honorific: Blessed
-title: "Blessed James Bertoni"
 summary: "Born to a poor family. Joined the Servites at age 9. Priest. Procurator of the Servite friary in Faenza, Italy until his death."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-James-Bertoni.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Gutiérrez Arranz"
 honorific: Blessed
-title: "Blessed José Gutiérrez Arranz"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

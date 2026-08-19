@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavia of Messina"
 honorific: Saint
-title: "Saint Flavia of Messina"
 summary: "Sister of Saint Placidus of Messina. Benedictine nun. Martyr."
 died: "6th century Messina, Sicily, Italy"
 deathPlace: "Sicily, Italy"

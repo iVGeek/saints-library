@@ -1,7 +1,6 @@
 ---
 name: "Saint Novatus of Rome"
 honorific: Saint
-title: "Saint Novatus of Rome"
 summary: "Son of Pudens, imperial Roman senator. Brother of Saint Praxedes and Saint Pudentiana."
 deathYear: 151
 died: "c.151"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rosalie Cadron-Jetté"
 honorific: Venerable
-title: "Venerable Rosalie Cadron-Jetté"
 summary: "Founded the Institute of the Misericordia Sisters."
 searchAliases:
   - "Mère of the Nativity"

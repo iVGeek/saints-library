@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anna Maria Janer Anglarill"
 honorific: Blessed
-title: "Blessed Anna Maria Janer Anglarill"
 summary: "Studied at the Real Colegio de Educandras. Worked as a nurse in the Castelltort Hospital. Director the House of Charity and cared for orphans, young people and the elderly. Teacher. Established a hospital for the poor. Founded the Institute of Sisters of the Holy Family of Urgell"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/AMJaner1886.JPG"
 birthYear: 1800

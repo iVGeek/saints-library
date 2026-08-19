@@ -1,7 +1,6 @@
 ---
 name: "Saint Banban"
 honorific: Saint
-title: "Saint Banban"
 summary: "Priest."
 searchAliases:
   - "Banbhan"

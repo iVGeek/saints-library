@@ -1,7 +1,6 @@
 ---
 name: "Saint Domitian of Lobbes"
 honorific: Saint
-title: "Saint Domitian of Lobbes"
 summary: "Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Hadelin of Lobbes."
 deathYear: 686
 died: "c.686 of natural causes"

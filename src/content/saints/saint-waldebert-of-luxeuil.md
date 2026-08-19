@@ -1,7 +1,6 @@
 ---
 name: "Saint Waldebert of Luxeuil"
 honorific: Saint
-title: "Saint Waldebert of Luxeuil"
 summary: "Monk. Abott of Luxeuil Abbey c.628. Worked with Saint Salaberga to found the convent of Saint John the Baptist in Laon, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Waldebert-of-Luxeuil.jpg"
 searchAliases:

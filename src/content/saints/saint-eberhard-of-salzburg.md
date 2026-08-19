@@ -1,7 +1,6 @@
 ---
 name: "Saint Eberhard of Salzburg"
 honorific: Saint
-title: "Saint Eberhard of Salzburg"
 summary: "Born to the nobility. Studied at the Benedictine school at Bamberg, Bavaria. Priest. Canon of the Cathedral of Bamberg. Studied in Paris, France, earning a master's degree. Benedictine monk at Prufening Abbey, Regensburg, Germany in 1125. Abbot at Biburg, Germany, a house that ha"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eberhard-of-Salzburg.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnulf of Metz"
 honorific: Saint
-title: "Saint Arnulf of Metz"
 summary: "Courtier and advisor of Austrasian King Theodebert II. Soldier. Married the Lady Doda. Father. From his son Ansegisel and Saint Begga of Ardenne came the Carolingian kings of France. Widower. In 610, when Arnulf was about to become a monk at Lérins, he was appointed bishop of Met"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Saint_Arnould.jpg/960px-Saint_Arnould.jpg"
 searchAliases:

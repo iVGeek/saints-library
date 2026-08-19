@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Nicomedia"
 honorific: Saint
-title: "Saint Victor of Nicomedia"
 summary: "One of a group of Christians martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 303
 died: "303 in Nicomedia (in modern Turkey)"

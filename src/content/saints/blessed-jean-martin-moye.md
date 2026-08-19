@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Martin Moÿe"
 honorific: Blessed
-title: "Blessed Jean-Martin Moÿe"
 summary: "Sixth of thirteen children born to John Mo&yuml;e and Catharine Demange. Studied at the College of Pont-à-Mousson, the Jesuit College at Strasburg, and the Seminary of Saint-Simon at Metz, France. Ordained on 9 March 1754 in the diocese of Metz. Helped found schools for poor coun"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Martin-Moÿe.jpg"
 birthYear: 1730

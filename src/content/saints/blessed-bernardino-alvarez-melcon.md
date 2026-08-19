@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardino Álvarez Melcón"
 honorific: Blessed
-title: "Blessed Bernardino Álvarez Melcón"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

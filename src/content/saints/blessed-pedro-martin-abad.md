@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Martín Abad"
 honorific: Blessed
-title: "Blessed Pedro Martín Abad"
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

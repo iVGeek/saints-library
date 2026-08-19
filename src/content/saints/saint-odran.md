@@ -1,7 +1,6 @@
 ---
 name: "Saint Odran"
 honorific: Saint
-title: "Saint Odran"
 summary: "Saint Patrick's chariot driver. Legend says that one day on the road, he spotted what appeared to be an ambush. He traded places with Patrick without telling him why, and died from the attack meant for his passenger."
 searchAliases:
   - "Odhran"

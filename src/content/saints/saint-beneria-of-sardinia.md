@@ -1,7 +1,6 @@
 ---
 name: "Saint Beneria of Sardinia"
 honorific: Saint
-title: "Saint Beneria of Sardinia"
 summary: "Married to Saint Mauro of Sardinia. Martyr."
 died: "beheaded in Sardinia"
 region: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Castus of Heraclea"
 honorific: Saint
-title: "Saint Castus of Heraclea"
 summary: "Martyr."
 died: "Heraclea, Thrace (in modern Turkey)"
 deathPlace: "Thrace (modern Turkey)"

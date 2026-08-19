@@ -1,7 +1,6 @@
 ---
 name: "Saint Apollonius of Egypt"
 honorific: Saint
-title: "Saint Apollonius of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Apollonio"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Devinicus"
 honorific: Saint
-title: "Saint Devinicus"
 summary: "As an old man he became a missionary in Caithness, Scotland, working with Saint Columba of Iona and Saint Machar of Aberdeen. May have been a bishop."
 searchAliases:
   - "Denick"

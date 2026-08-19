@@ -1,7 +1,6 @@
 ---
 name: "Saint Fingen of Metz"
 honorific: Saint
-title: "Saint Fingen of Metz"
 summary: "Monk. Abbot. Known for restoring old monasteries."
 deathYear: 1005
 born: "10th century Ireland"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Augustine of Canterbury"
 honorific: Saint
-title: "Saint Augustine of Canterbury"
 summary: "Monk and abbot of Saint Andrew's abbey in Rome, Italy. Sent by Pope Saint Gregory the Great with 40 brother monks, including Saint Lawrence of Canterbury to evangelize the British Isles in 597. Before he reached the islands, terrifying tales of the Celts sent him back to Rome in"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/LeningradBedeHiRes.jpg"
 searchAliases:

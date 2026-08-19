@@ -1,7 +1,6 @@
 ---
 name: "Saint Magnus of Passae"
 honorific: Saint
-title: "Saint Magnus of Passae"
 summary: "Christian in the diocese of Saint Valetine in Terni, Italy. Martyr."
 deathYear: 273
 died: "273 in Passae, Italy"

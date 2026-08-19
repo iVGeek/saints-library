@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramiro Frías García"
 honorific: Blessed
-title: "Blessed Ramiro Frías García"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Vidal Ernesto"

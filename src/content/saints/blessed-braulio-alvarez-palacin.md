@@ -1,7 +1,6 @@
 ---
 name: "Blessed Braulio Álvarez Palacín"
 honorific: Blessed
-title: "Blessed Braulio Álvarez Palacín"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Camerino"

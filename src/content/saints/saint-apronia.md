@@ -1,7 +1,6 @@
 ---
 name: "Saint Apronia"
 honorific: Saint
-title: "Saint Apronia"
 summary: "Sister of Saint Aprus of Toul to whom she made her vows as a nun."
 searchAliases:
   - "Evronie"

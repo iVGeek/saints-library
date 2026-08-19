@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Caselles-Moncho"
 honorific: Blessed
-title: "Blessed José Caselles-Moncho"
 summary: "Studied at the Salesian College in Valencia, Spain. Joined the Salesians, making his profession in 1927. Teacher in Sarria, Spain. Ordained in 1936 in the diocese of Valencia. Parish priest in Tibidabo, Spain. At the outbreak of the Spanish Civil War, he set up a shelter for boys"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Caselles-Moncho.jpg"
 birthYear: 1907

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Toyama Jintaro"
 honorific: Blessed
-title: "Blessed Franciscus Toyama Jintaro"
 summary: "Young layman of the diocese of Hiroshima, Japan. Martyr."
 birthYear: 1600
 deathYear: 1624

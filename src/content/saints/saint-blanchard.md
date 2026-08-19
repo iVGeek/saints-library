@@ -1,7 +1,6 @@
 ---
 name: "Saint Blanchard"
 honorific: Saint
-title: "Saint Blanchard"
 summary: "I can find no biographical information on this person."
 searchAliases:
   - "Blancardo"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Martin Benedict"
 honorific: Venerable
-title: "Venerable Martin Benedict"
 summary: "A physician, Martin practiced at a series of hospitals from his graduation in 1957 until his death nearly 30 years later. After many years of study, and a series of setbacks from serious illness, he joined the Order of Friars Minor Conventual, making his solemn profession in 1979"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Martin-Benedict.jpg"
 birthYear: 1931

@@ -1,7 +1,6 @@
 ---
 name: "Saint Luigi Maria Palazzolo"
 honorific: Venerable
-title: "Saint Luigi Maria Palazzolo"
 summary: "Youngest of eight boys born to Octavius and Theresa Antoine Palazzolo; his father died when Luigi was about 10 years old. Ordained a priest in the diocese of Bergamo, Italy on 23 June 1850. As a parish priest, he would occasionally encounter children who were abandoned or orphane"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luigi_Palazzolo.png"
 searchAliases:

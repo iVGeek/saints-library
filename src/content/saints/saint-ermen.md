@@ -1,7 +1,6 @@
 ---
 name: "Saint Ermen"
 honorific: Saint
-title: "Saint Ermen"
 summary: "Nun, praised for her charity. No other information has survived."
 born: "Ireland"
 region: "Ireland"

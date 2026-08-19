@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Touceda Fernández"
 honorific: Blessed
-title: "Blessed Rafael Touceda Fernández"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Román"

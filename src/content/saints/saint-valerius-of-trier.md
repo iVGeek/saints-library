@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerius of Trier"
 honorific: Saint
-title: "Saint Valerius of Trier"
 summary: "Bishop of Trier in modern Germany. Legend makes him a disciple of Saint Peter the Apostle, but it's doubtful such a disciple would have lived into the 4th century."
 searchAliases:
   - "Valery"

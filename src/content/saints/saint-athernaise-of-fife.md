@@ -1,7 +1,6 @@
 ---
 name: "Saint Athernaise of Fife"
 honorific: Saint
-title: "Saint Athernaise of Fife"
 summary: "Confessor of the faith in Fife, Scotland."
 searchAliases:
   - "Athernaise the Silent"

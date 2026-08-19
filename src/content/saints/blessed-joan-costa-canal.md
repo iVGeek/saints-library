@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Costa Canal"
 honorific: Blessed
-title: "Blessed Joan Costa Canal"
 summary: "Priest. Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Costa-Canal.jpg"
 searchAliases:

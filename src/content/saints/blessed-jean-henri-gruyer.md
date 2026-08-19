@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Henri Gruyer"
 honorific: Blessed
-title: "Blessed Jean-Henri Gruyer"
 summary: "Vincentian priest. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Henri-Gruyer.jpg"
 birthYear: 1734

@@ -1,7 +1,6 @@
 ---
 name: "Saint Oliva of Anagni"
 honorific: Saint
-title: "Saint Oliva of Anagni"
 summary: "Nun at Anagni, Italy. No other reliable information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Oliva-of-Anagni.jpg"
 region: "Italy"

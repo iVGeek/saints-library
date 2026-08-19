@@ -1,7 +1,6 @@
 ---
 name: "Saint Belina of Troyes"
 honorific: Saint
-title: "Saint Belina of Troyes"
 summary: "A peasant shepherd girl who died fighting off a rape by the feudal lord of her district."
 searchAliases:
   - "Belina of Landreville"

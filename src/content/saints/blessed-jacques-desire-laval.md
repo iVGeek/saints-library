@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques Désiré Laval"
 honorific: Blessed
-title: "Blessed Jacques Désiré Laval"
 summary: "Son of a prosperous farmer, Jacques grew up in a pious household with examples set by his mother and an uncle who was a priest. Jacques' mother died when the boy was seven years old. Intially torn between the priesthood and medicine, Jacques was educated at local schools, Evraux,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Désiré-Laval.jpg"
 searchAliases:

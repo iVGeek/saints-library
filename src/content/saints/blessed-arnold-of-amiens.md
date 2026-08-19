@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnold of Amiens"
 honorific: Blessed
-title: "Blessed Arnold of Amiens"
 summary: "Bishop of Amiens, France from 1236 to 1247."
 searchAliases:
   - "Arnould"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Falgarona Vilanova"
 honorific: Blessed
-title: "Blessed Jaume Falgarona Vilanova"
 summary: "Member of the Claretians, making his profession in Vich, Spain on 15 August 1930. On 1 July 1936 he entered the seminary in Barbastro, Spain where to study for the priesthood and where he served as choir master. On 20 July 1936 he had to enter hospital; on 15 August he was releas"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Falgarona-Vilanova.jpg"
 birthYear: 1912

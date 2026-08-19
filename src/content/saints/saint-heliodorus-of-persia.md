@@ -1,7 +1,6 @@
 ---
 name: "Saint Heliodorus of Persia"
 honorific: Saint
-title: "Saint Heliodorus of Persia"
 summary: "Martyred with several hundred companions during the persecutions of Shapur II."
 deathYear: 362
 born: "Persia"

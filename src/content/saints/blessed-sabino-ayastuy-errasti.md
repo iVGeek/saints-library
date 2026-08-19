@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sabino Ayastuy Errasti"
 honorific: Blessed
-title: "Blessed Sabino Ayastuy Errasti"
 summary: "Marianist brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Sabino-Ayastuy-Errasti.jpg"
 birthYear: 1911

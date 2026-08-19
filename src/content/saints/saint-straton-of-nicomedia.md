@@ -1,7 +1,6 @@
 ---
 name: "Saint Straton of Nicomedia"
 honorific: Saint
-title: "Saint Straton of Nicomedia"
 summary: "Martyr."
 searchAliases:
   - "Stratone"

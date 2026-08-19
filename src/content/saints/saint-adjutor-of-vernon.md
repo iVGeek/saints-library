@@ -1,7 +1,6 @@
 ---
 name: "Saint Adjutor of Vernon"
 honorific: Saint
-title: "Saint Adjutor of Vernon"
 summary: "Lord of Vernon-sur-Seine. Norman knight in the First Crusade in 1095 during which he was captured by Muslims who tried to force him to abandon his faith. He escaped, apparently swimming to freedom, returned to France, and became a Benedictine monk at Tiron, France. Hermit in his"
 image: "http://catholicsaints.info/wp-content/uploads/Adjutor-of-Vernon.jpg"
 searchAliases:

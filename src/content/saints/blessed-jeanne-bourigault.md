@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jeanne Bourigault"
 honorific: Blessed
-title: "Blessed Jeanne Bourigault"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1757
 deathYear: 1794

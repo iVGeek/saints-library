@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Díez Pérez"
 honorific: Blessed
-title: "Blessed Gregorio Díez Pérez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

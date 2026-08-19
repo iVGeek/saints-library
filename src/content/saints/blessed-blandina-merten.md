@@ -1,7 +1,6 @@
 ---
 name: "Blessed Blandina Merten"
 honorific: Blessed
-title: "Blessed Blandina Merten"
 summary: "After graduating from the Marienau Institute of Teaching, Maria taught in several Catholic elementary schools in the Trier, Germany region. She was known for her special care to the children of the poor, helping them however she could, and ensuring their active lives in the paris"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Blandina-Merten.jpg"
 searchAliases:

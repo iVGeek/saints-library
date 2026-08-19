@@ -1,7 +1,6 @@
 ---
 name: "Blessed Humbeline of Jully"
 honorific: Blessed
-title: "Blessed Humbeline of Jully"
 summary: "Younger sister of Saint Bernard of Clairvaux. Married to Guy de Narcy, a member of the ruling family of Lorraine (in modern France). After a few years of rich and frivolous living, Humbeline turned her back on the worldly life; after a few more years she, with her husband's appro"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Saint_Umbeline_-_Portugal_-_17th_century_-_wood.JPG/960px-Saint_Umbeline_-_Portugal_-_17th_century_-_wood.JPG"
 searchAliases:

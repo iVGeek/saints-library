@@ -2,7 +2,6 @@
 name: "Blessed Andrés Serrano Muñoz"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/El_contrabando_-_sainete_en_un_acto_y_en_prosa_%28IA_elcontrabandosai00serr%29.pdf/page1-960px-El_contrabando_-_sainete_en_un_acto_y_en_prosa_%28IA_elcontrabandosai00serr%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Andrés Serrano Muñoz"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Cabeza del Buey community. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

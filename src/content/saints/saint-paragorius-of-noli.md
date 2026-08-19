@@ -1,7 +1,6 @@
 ---
 name: "Saint Paragorius of Noli"
 honorific: Saint
-title: "Saint Paragorius of Noli"
 summary: "Born to the nobility. Soldier. Martyr. A late legend makes him an escaped member of the Theban Legend, but that's doubtful."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paragorius-of-Noli.jpg"
 born: "Noli, Italy"

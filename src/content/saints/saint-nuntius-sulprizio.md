@@ -1,7 +1,6 @@
 ---
 name: "Saint Nuntius Sulprizio"
 honorific: Venerable
-title: "Saint Nuntius Sulprizio"
 summary: "Son of Domenico Sulprizio and Rosa Luciani, Nunzio was named after his grandfather and baptized when only a few hours old. Nunzio's father died on 16 May 1820 when the boy was only three years old, his little sister died in 1822, and his new step-father treated the boy as a conte"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nuntius-Sulprizio.jpg"
 searchAliases:

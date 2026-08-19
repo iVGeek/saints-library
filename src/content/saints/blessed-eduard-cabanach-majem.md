@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eduard Cabanach Majem"
 honorific: Blessed
-title: "Blessed Eduard Cabanach Majem"
 summary: "Raised in a pious family; three of his brothers entered religious life. Had a devotion to Saint John Berchmans. Priest. Member of the Sons of the Holy Family. Director of the Saint Peter the Apostle school in Reus, Spain. Supporter, spiritual and material, of vocations in others."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eduard-Cabanach-Majem.jpg"
 birthYear: 1908

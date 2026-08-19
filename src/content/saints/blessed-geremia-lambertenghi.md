@@ -1,7 +1,6 @@
 ---
 name: "Blessed Geremia Lambertenghi"
 honorific: Blessed
-title: "Blessed Geremia Lambertenghi"
 summary: "Born to the Italian nobility, the son of Francesco Lambertenghi, a member of the city council of Como, and Ursina di Fontanella; he was known as a religious boy, concerned for the welfare of the poor. At age 20 he answered a call to religious life, became a Franciscan tertiary at"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Geremia-Lambertenghi.jpg"
 searchAliases:

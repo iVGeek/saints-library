@@ -1,7 +1,6 @@
 ---
 name: "Saint Dominica of Campania"
 honorific: Saint
-title: "Saint Dominica of Campania"
 summary: "Daughter of Doroteo and Arsenia. Martyred in the persecutions of Diocletian for destroying pagan idols."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dominica-of-Campania.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juliana Puricelli"
 honorific: Blessed
-title: "Blessed Juliana Puricelli"
 summary: "Augustinian contemplative nun. Friend of Blessed Catherine da Palanza."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juliana-Puricelli.jpg"
 searchAliases:

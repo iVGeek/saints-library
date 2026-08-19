@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawrence of Novara"
 honorific: Saint
-title: "Saint Lawrence of Novara"
 summary: "Priest. Friend and assistant to Saint Gaudentius of Novara. Martyred with a group of children he was instructing in Christianity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-of-Novara.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicander of Mytilene"
 honorific: Saint
-title: "Saint Nicander of Mytilene"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 born: "Armenia"

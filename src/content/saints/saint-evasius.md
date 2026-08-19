@@ -1,7 +1,6 @@
 ---
 name: "Saint Evasius"
 honorific: Saint
-title: "Saint Evasius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6

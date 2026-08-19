@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Ruthenia"
 honorific: Saint
-title: "Saint Dionysius of Ruthenia"
 summary: "Monk in Ruthenia (in modern Ukraine)."
 deathYear: 1100
 died: "c.1100 of natural causes"

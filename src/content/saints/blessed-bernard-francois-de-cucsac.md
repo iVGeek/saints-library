@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernard-François de Cucsac"
 honorific: Blessed
-title: "Blessed Bernard-François de Cucsac"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1758
 deathYear: 1792

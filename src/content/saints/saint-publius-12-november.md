@@ -1,7 +1,6 @@
 ---
 name: "Saint Publius"
 honorific: Saint
-title: "Saint Publius"
 summary: "Bishop. Wrote in opposition to the Montanist heresy. Martyr."
 feastDay:
   month: 11

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Jesús Adradas Gonzalo"
 honorific: Blessed
-title: "Blessed Juan Jesús Adradas Gonzalo"
 summary: "Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Mariano"

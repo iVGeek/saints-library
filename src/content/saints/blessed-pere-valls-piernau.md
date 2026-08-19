@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Valls Piernau"
 honorific: Blessed
-title: "Blessed Pere Valls Piernau"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Teògenes"

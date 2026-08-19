@@ -1,7 +1,6 @@
 ---
 name: "Blessed Walter Pierson"
 honorific: Blessed
-title: "Blessed Walter Pierson"
 summary: "Carthusian lay brother in the London Charterhouse. Arrested with his brothers for opposing the takeover of the Church by King Henry VIII. Chained standing up in Newgate Prison and left to starve. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Walter-Pierson.jpg"
 deathYear: 1537

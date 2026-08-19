@@ -1,7 +1,6 @@
 ---
 name: "Saint Hirenarchus of Sebaste"
 honorific: Saint
-title: "Saint Hirenarchus of Sebaste"
 summary: "Pagan who converted while witnessing the faith of the Martyrs of Sebaste during their persecution; he was martyred with them."
 searchAliases:
   - "Hirenarkus"

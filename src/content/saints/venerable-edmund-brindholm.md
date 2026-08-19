@@ -1,7 +1,6 @@
 ---
 name: "Venerable Edmund Brindholm"
 honorific: Venerable
-title: "Venerable Edmund Brindholm"
 summary: "Parish priest at Our Lady’s Church in Calais, France, an area under English control at the time. Martyr."
 searchAliases:
   - "Edmund Bryndeholme"

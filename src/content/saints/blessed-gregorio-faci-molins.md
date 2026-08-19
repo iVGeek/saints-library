@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Faci Molins"
 honorific: Blessed
-title: "Blessed Gregorio Faci Molins"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother José Carmelo"

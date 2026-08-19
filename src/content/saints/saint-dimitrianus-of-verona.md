@@ -1,7 +1,6 @@
 ---
 name: "Saint Dimitrianus of Verona"
 honorific: Saint
-title: "Saint Dimitrianus of Verona"
 summary: "Second bishop of Verona, Italy."
 searchAliases:
   - "Dimidriano"

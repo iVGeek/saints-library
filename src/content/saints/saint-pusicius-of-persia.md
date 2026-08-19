@@ -1,7 +1,6 @@
 ---
 name: "Saint Pusicius of Persia"
 honorific: Saint
-title: "Saint Pusicius of Persia"
 summary: "Martyred with about 100 other believers during the persecutions of King Sapor II."
 deathYear: 345
 born: "Persian"

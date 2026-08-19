@@ -1,7 +1,6 @@
 ---
 name: "Blessed Yusuf Nehme"
 honorific: Blessed
-title: "Blessed Yusuf Nehme"
 summary: "Lebanese Maronite monk."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Yusuf-Nehme-1.jpg"
 searchAliases:

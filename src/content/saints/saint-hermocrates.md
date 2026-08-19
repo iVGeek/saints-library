@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermocrates"
 honorific: Saint
-title: "Saint Hermocrates"
 summary: "Martyr."
 searchAliases:
   - "Thermocrates"

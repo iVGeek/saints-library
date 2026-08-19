@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonia Palacios Bonilla de Durán"
 honorific: Blessed
-title: "Blessed Antonia Palacios Bonilla de Durán"
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

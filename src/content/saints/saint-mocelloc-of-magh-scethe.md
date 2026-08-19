@@ -1,7 +1,6 @@
 ---
 name: "Saint Mocelloc of Magh-Scethe"
 honorific: Saint
-title: "Saint Mocelloc of Magh-Scethe"
 summary: "One of the first Christians in Ireland, baptized c.347, and coming to the faith even before the work of Saint Patrick. Hermit in the vicinity of six other holy converts at Magh-Scethe, near modern Lismore, Ireland. Legend says that all seven of these men, including Mocelloc, had"
 searchAliases:
   - "Celloc (may have been his original name)"

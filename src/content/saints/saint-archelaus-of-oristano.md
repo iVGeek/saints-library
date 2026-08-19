@@ -1,7 +1,6 @@
 ---
 name: "Saint Archelaus of Oristano"
 honorific: Saint
-title: "Saint Archelaus of Oristano"
 summary: "Convert to Christianity. Priest. Imprisoned and executed during the persecutions of either Diocletian or Trajan (records vary) for his evangelization work. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Archelaus-of-Oristanto.jpg"
 searchAliases:

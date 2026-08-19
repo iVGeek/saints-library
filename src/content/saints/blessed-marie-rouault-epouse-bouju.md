@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Rouault épouse Bouju"
 honorific: Blessed
-title: "Blessed Marie Rouault épouse Bouju"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1744
 deathYear: 1794

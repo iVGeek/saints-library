@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Belson"
 honorific: Blessed
-title: "Blessed Thomas Belson"
 summary: "Young layman of the apostolic vicariate of England. Educated of Exeter College, Oxford, England, and Douai College, Rheims, France. Arrested for “conveying intelligence” for a Catholic priest, he was imprisoned in the Tower of London and released on condition of banishment. He la"
 birthYear: 1564
 deathYear: 1589

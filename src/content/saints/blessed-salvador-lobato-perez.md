@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Lobato Pérez"
 honorific: Blessed
-title: "Blessed Salvador Lobato Pérez"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 12 March 1927. Administrator of the parish of El Saucejo in 1933. Imprisoned and murdered with his brother, Blessed Rafael Lobato Pérez, in the persecutions of the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

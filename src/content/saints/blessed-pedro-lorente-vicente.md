@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Lorente Vicente"
 honorific: Blessed
-title: "Blessed Pedro Lorente Vicente"
 summary: "Baptized at the age of four days. Member of the Brothers of the Christian Schools, joining on 7 November 1925 at Monreal del Campo, Spain and making his vows on 1 February 1930, taking the name Brother Ambrosio León. Taught in Bonanova, Spain in 1932. Dragged of his school militi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Lorente-Vicente.jpg"
 searchAliases:

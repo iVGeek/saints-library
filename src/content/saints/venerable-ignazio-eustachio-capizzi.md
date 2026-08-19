@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ignazio Eustachio Capizzi"
 honorific: Venerable
-title: "Venerable Ignazio Eustachio Capizzi"
 summary: "Oratorian priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Ignazio-Eustachio-Capizzi.jpg"
 birthYear: 1708

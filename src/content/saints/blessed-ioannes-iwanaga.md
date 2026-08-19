@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Iwanaga"
 honorific: Blessed
-title: "Blessed Ioannes Iwanaga"
 summary: "Member of the royal family of Firando. Layman. Related to Blessed Ioannes Motoyama. Martyr."
 searchAliases:
   - "John"

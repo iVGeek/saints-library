@@ -1,7 +1,6 @@
 ---
 name: "Venerable Manuel Nunes Formigão"
 honorific: Venerable
-title: "Venerable Manuel Nunes Formigão"
 summary: "Baptised at the age of seven weeks. Feeling an early call to the priesthood, he entered the minor seminary in Farrobo, Portugal in 1895 at the age of 12. Joined the Archconfraternity of the Imaculado Coração de Maria on 6 June 1896. Began studying theology at the major seminary i"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Manuel_Nunes_Formig%C3%A3o.png"
 birthYear: 1883

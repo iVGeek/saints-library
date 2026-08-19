@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurelian of Limoges"
 honorific: Saint
-title: "Saint Aurelian of Limoges"
 summary: " One legend says that Aurelian was a pagan priest who opposed the Christian evangelism of Saint Martial. Struck by lightning for his opposition, Aurelian died, but was brou Spiritual student of Saint Martial of Limoges. Priest. Second bishop of Limoges, France, succeeding Martial."
 searchAliases:
   - "Aurélien Cotta"

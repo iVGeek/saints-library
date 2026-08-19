@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvius of Lucania"
 honorific: Saint
-title: "Saint Silvius of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

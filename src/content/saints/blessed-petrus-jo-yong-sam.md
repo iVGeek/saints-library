@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Jo Yong-sam"
 honorific: Blessed
-title: "Blessed Petrus Jo Yong-sam"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Peter"

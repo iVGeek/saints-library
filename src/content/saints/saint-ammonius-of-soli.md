@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammonius of Soli"
 honorific: Saint
-title: "Saint Ammonius of Soli"
 summary: "Martyr."
 feastDay:
   month: 2

@@ -1,7 +1,6 @@
 ---
 name: "Saint Asteria of Bergamo"
 honorific: Saint
-title: "Saint Asteria of Bergamo"
 summary: "Sister of Saint Grata of Bergamo. Worked to provide Christian burial for martyrs. Executed by Diocletian for doing it. Martyr."
 searchAliases:
   - "Hesteria"

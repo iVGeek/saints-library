@@ -1,7 +1,6 @@
 ---
 name: "Saint Diogene of Antioch"
 honorific: Saint
-title: "Saint Diogene of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

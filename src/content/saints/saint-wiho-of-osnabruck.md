@@ -1,7 +1,6 @@
 ---
 name: "Saint Wiho of Osnabrück"
 honorific: Saint
-title: "Saint Wiho of Osnabrück"
 summary: "First bishop of Osnabrück, Saxony (in modern Germany) c.800."
 searchAliases:
   - "Viho"

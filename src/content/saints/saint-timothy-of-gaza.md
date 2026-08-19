@@ -1,7 +1,6 @@
 ---
 name: "Saint Timothy of Gaza"
 honorific: Saint
-title: "Saint Timothy of Gaza"
 summary: "Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Timothy-of-Gaza.jpg"
 deathYear: 304

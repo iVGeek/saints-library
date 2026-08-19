@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Codinach Espinalt"
 honorific: Blessed
-title: "Blessed Joan Codinach Espinalt"
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

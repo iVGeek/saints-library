@@ -1,7 +1,6 @@
 ---
 name: "Blessed Venturino of Bergamo"
 honorific: Blessed
-title: "Blessed Venturino of Bergamo"
 summary: " In February 1 Joined the Dominicans on 22 January 1319 at the convent of Saint Stephen in Bergamo, . Studied and was ordained at Genoa, Italy. Noted preacher throughout northern Italy, converting many and calling for peace during the struggles between the Guelphs and Ghibellines."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/75/GiorcesVenturino1.jpg"
 searchAliases:

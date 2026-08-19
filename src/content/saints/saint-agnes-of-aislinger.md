@@ -1,7 +1,6 @@
 ---
 name: "Saint Agnes Aislinger"
 honorific: Saint
-title: "Saint Agnes Aislinger"
 summary: "Lived a long life of prayer and asceticism as an anchoress in a cell next to the Augustinian convent at Rebdorf, Germany. Her reputation for wisdom and holiness was widespread."
 searchAliases:
   - "Agnes of Aislingen"

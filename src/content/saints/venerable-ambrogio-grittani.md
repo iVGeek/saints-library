@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ambrogio Grittani"
 honorific: Venerable
-title: "Venerable Ambrogio Grittani"
 summary: "Priest in the diocese of Bari, Italy. Taught in the regional seminary in Molfetta, Italy. Founder of the Pious Work of Saint Benedict Joseph Labre in October 1941 with a mission to help the poor both materially and spiritually. Founder of the Oblate Sisters of Saint Benedict Jose"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ambrogio-Grittani.jpg"
 searchAliases:

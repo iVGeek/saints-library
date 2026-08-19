@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Khan"
 honorific: Venerable
-title: "Saint Phêrô Khan"
 summary: "Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned for six months in the persecutions of Thieu Tri, and repeatedly order to renounce his faith; Father Phêrô refused. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 birthYear: 1780

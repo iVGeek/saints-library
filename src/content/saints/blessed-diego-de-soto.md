@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego de Soto"
 honorific: Blessed
-title: "Blessed Diego de Soto"
 summary: "Mercedarian monk. Spiritual student of Saint Serapion of Algiers. Master of novices. Sent to Granada to redeem prisoners held captive by Muslims, he was imprisoned, tortured, starved and killed for his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-de-Soto.jpg"
 deathYear: 1237

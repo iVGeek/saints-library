@@ -1,7 +1,6 @@
 ---
 name: "Saint Deodatus of Blois"
 honorific: Saint
-title: "Saint Deodatus of Blois"
 summary: "Hermit near Blois, France. The town of Saint-Dié, France grew up around his cell. Bishop."
 searchAliases:
   - "Dié"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilarion the Younger"
 honorific: Saint
-title: "Saint Hilarion the Younger"
 summary: "Priest. Monk. Archimandrite of the monastery of Dalmazio. For defending the use of icons and other images, he was imprisoned, whipped and exiled."
 searchAliases:
   - "Ilarione"

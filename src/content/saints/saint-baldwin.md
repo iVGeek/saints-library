@@ -1,7 +1,6 @@
 ---
 name: "Saint Baldwin"
 honorific: Saint
-title: "Saint Baldwin"
 summary: "Son of Saint Sadalberga and Saint Blandinus of Laon. Brother of Saint Anstrude of Laon. Archdeacon of Laon in the time of Dagobert I, King of France. Martyred by Ebroin."
 searchAliases:
   - "Balduin"

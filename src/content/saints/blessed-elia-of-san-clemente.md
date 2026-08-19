@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elia of San Clemente"
 honorific: Blessed
-title: "Blessed Elia of San Clemente"
 summary: "The third of nine children born in a devout family; four of her siblings did not survive childhood. On 10 May 1911, ten-year-old Teodora, on the night before her First Communion, had a vision of Saint Thérèse of Lisieux who said the girl would grow to become a nun. Member of the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elia-of-San-Clemente.jpg"
 searchAliases:

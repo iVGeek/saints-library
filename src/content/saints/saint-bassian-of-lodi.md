@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassian of Lodi"
 honorific: Saint
-title: "Saint Bassian of Lodi"
 summary: "Son of Servius, prefect of Syracuse, Sicily. Student in Rome, Italy. Convert to Christianity. His family opposed the conversion, and when Bassian was ordered back to Syracuse, he fled to Ravenna, Italy. Bishop of Lodi, Italy c.373. Attended the Council of Aquileia in 381. Friend"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bassian-of-Lodi.jpg"
 searchAliases:

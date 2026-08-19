@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodorus of Alexandria"
 honorific: Saint
-title: "Saint Theodorus of Alexandria"
 summary: "Bishop in the area of Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 searchAliases:
   - "Theodore"

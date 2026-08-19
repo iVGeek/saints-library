@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cherubino Testa"
 honorific: Blessed
-title: "Blessed Cherubino Testa"
 summary: "Born to the Italian nobility, Cherubino was early drawn to religious life, and joined the Augustinian Hermits at age 20. Ordained a priest in early 1479. Known for his obedience to the Rule of his Order, and for a great devotion to the Passion."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Cherubino-Testa.jpg"
 searchAliases:

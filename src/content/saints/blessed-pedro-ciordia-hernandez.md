@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Ciordia Hernández"
 honorific: Blessed
-title: "Blessed Pedro Ciordia Hernández"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Baudilio"

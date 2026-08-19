@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julian Majali"
 honorific: Blessed
-title: "Blessed Julian Majali"
 summary: "Benedictine monk at San Martino delle Scale monastery in Sicily. Abbot. Hermit in 1464. Highly regarded by kings and popes."
 deathYear: 1470
 died: "1470"

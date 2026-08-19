@@ -1,7 +1,6 @@
 ---
 name: "Saint Zacchaeus the Publican"
 honorific: Saint
-title: "Saint Zacchaeus the Publican"
 summary: "Mentioned in Gospel of Luke as the short tax collector who climbed a tree in order to see Jesus because he couldn't see over the crowd. Jesus decided to go to the man's house, and when the locals grumbled that Christ was friendly with sinners, Zacchaeus showed his conversion by m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zacchaeus-the-Publican.jpg"
 searchAliases:

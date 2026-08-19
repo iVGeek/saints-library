@@ -1,7 +1,6 @@
 ---
 name: "Saint Satullus of Africa"
 honorific: Saint
-title: "Saint Satullus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survived."
 searchAliases:
   - "Satulus"

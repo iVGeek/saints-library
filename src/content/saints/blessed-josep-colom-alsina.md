@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Colom Alsina"
 honorific: Blessed
-title: "Blessed Josep Colom Alsina"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936

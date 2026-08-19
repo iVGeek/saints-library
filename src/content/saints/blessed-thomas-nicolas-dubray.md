@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas-Nicolas Dubray"
 honorific: Blessed
-title: "Blessed Thomas-Nicolas Dubray"
 summary: "Sulpician priest. Sacristan priest of the parish of Saint Sulpicius, ministering and supporting the parish poor. In the French Revolution, he refused to take the oath of loyalty to the civil government, which opposed loyalty to the Vatican. One of the Martyrs of September."
 birthYear: 1746
 deathYear: 1792

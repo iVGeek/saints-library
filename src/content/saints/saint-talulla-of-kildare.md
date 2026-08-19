@@ -1,7 +1,6 @@
 ---
 name: "Saint Talulla of Kildare"
 honorific: Saint
-title: "Saint Talulla of Kildare"
 summary: "Nun. Abbess of Cell Dara monastery (in modern Kildare, Ireland)."
 searchAliases:
   - "Tulilatha"

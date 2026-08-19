@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Llop Plana"
 honorific: Blessed
-title: "Blessed Manuel Llop Plana"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Adrián"

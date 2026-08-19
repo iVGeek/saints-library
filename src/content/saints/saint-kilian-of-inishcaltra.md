@@ -1,7 +1,6 @@
 ---
 name: "Saint Kilian of Inishcaltra"
 honorific: Saint
-title: "Saint Kilian of Inishcaltra"
 summary: "Monk. Abbot of monastery on the island of Inishcaltra. Wrote a biography of Saint Brigid."
 region: "Ireland"
 feastDay:

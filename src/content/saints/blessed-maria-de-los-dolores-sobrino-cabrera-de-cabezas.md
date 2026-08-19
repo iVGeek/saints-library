@@ -1,7 +1,6 @@
 ---
 name: "Blessed María de Los Dolores Sobrino Cabrera de Cabezas"
 honorific: Blessed
-title: "Blessed María de Los Dolores Sobrino Cabrera de Cabezas"
 summary: "Lifelong lay woman of the archdiocese of Seville, Spain. She married Rafael Cabezas Ruival de Flores on 27 December 1891. Martyred in the Spanish Civil War."
 birthYear: 1868
 deathYear: 1936

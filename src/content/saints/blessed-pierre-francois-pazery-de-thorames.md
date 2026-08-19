@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-François Pazery de Thorames"
 honorific: Blessed
-title: "Blessed Pierre-François Pazery de Thorames"
 summary: "Priest in the archdiocese of Arles, France. One of the Martyrs of September."
 birthYear: 1735
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Tejado Librado"
 honorific: Blessed
-title: "Blessed Ramón Tejado Librado"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hector"
 honorific: Saint
-title: "Saint Hector"
 summary: "Martyred in the persecutions of Diocletian, possibly in Greece. No other information has survived."
 searchAliases:
   - "Ettore"

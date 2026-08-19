@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Ichinose Sukezaemon"
 honorific: Blessed
-title: "Blessed Michaël Ichinose Sukezaemon"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mark of Montegallo"
 honorific: Blessed
-title: "Blessed Mark of Montegallo"
 summary: "Italian noble from the Marches of Ancona. Physician. Married layman; both he and his wife joined the Franciscans, she becoming a Poor Clare. Priest. Travelled Italy preaching and establishing charitable pawnshops for the poor, known in Italy as Monti di Pieta."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-of-Montegallo.jpg"
 searchAliases:

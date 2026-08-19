@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitus of Syrmium"
 honorific: Saint
-title: "Saint Vitus of Syrmium"
 summary: "Martyr. No other information has survived."
 died: "3rd or 4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Serbia)"
 deathPlace: "Pannonia (modern Sremska Mitrovica, Serbia)"

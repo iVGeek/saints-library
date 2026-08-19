@@ -1,7 +1,6 @@
 ---
 name: "Saint Epimachus of Melusio"
 honorific: Saint
-title: "Saint Epimachus of Melusio"
 summary: "When, during the persecutions of Decius, he saw Christians forced to sacrifice to idols, Epimachus attacked the pagan altars and statues. Imprisoned, tortured and exexcuted. Martyr."
 searchAliases:
   - "Epimachus of Alexandria"

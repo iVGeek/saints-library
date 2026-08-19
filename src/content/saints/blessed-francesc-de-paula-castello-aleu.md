@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc de Paula Castelló Aleu"
 honorific: Blessed
-title: "Blessed Francesc de Paula Castelló Aleu"
 summary: "Lifelong layperson in the diocese of Lleida, Spain. Youngest of three children, his father died when Francesc was an infant. Educated by Marists in Lleida, Catalonia, and then by Jesuits at the Chemical Intitute in Barcelona, Spain.  During his college years in Oviedo, he became"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Francisco_Castell%C3%B3_en_la_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Alicante.jpg"
 birthYear: 1914

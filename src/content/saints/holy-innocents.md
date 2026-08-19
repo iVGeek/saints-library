@@ -1,7 +1,6 @@
 ---
 name: "Holy Innocents"
 honorific: Saint
-title: "Holy Innocents"
 summary: " When Herod realized that he had been deceived by the magi, he became furious. He ordered the massacre of all the boys in Bethlehem and its vicinity two years old and under, in accordance with th The children slaughtered by Herod the Great when he tried to kill the infant Christ."
 image: "http://catholicsaints.info/wp-content/gallery/holy-innocents/holy-innocents-04.jpg"
 searchAliases:

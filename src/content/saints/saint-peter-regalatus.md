@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Regalatus"
 honorific: Saint
-title: "Saint Peter Regalatus"
 summary: "Born to a wealth, pious, noble family. His father died when Peter was very young. Tried to join the Franciscans when he was only ten years old. Educated in a Franciscan convent in Valladolid, Spain from age 13. Disciple of Peter de Villacreces in 1404. Franciscan priest. Superior"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Regalatus-1.jpg"
 searchAliases:

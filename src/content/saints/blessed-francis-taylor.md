@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Taylor"
 honorific: Blessed
-title: "Blessed Francis Taylor"
 summary: "Born to the local nobility, son of Robert Taylor and Elizabeth Golding. Married laymen and father of six. Lord Mayor of Dublin, Ireland in 1595. Elected to Parliment, he was refused his seat due to being Catholic. Arrested in late 1613 or early 1614 for his faith. One of the Iris"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-francis-taylor/blessed-francis-taylor-01.jpg"
 searchAliases:

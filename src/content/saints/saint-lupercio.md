@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupercio"
 honorific: Saint
-title: "Saint Lupercio"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:

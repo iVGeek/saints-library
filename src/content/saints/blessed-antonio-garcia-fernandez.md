@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio García Fernández"
 honorific: Blessed
-title: "Blessed Antonio García Fernández"
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 deathYear: 1936
 born: "22 September (year unknown) in Piñar, Granada Spain"

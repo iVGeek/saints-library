@@ -1,7 +1,6 @@
 ---
 name: "Saint Gérontios"
 honorific: Saint
-title: "Saint Gérontios"
 summary: "Desert mountain hermit near the monastery of Saint Panteleimon."
 feastDay:
   month: 7

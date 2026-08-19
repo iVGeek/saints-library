@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michal Wawryszuk"
 honorific: Blessed
-title: "Blessed Michal Wawryszuk"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1853

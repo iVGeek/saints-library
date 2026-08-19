@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco Giovanni Bonifacio"
 honorific: Blessed
-title: "Blessed Francesco Giovanni Bonifacio"
 summary: "Priest in the diocese of Trieste, Italy. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Giovanni-Bonifacio.jpg"
 birthYear: 1912

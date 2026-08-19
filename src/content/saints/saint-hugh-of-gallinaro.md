@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh of Gallinaro"
 honorific: Saint
-title: "Saint Hugh of Gallinaro"
 summary: "English pilgrim."
 region: "Italy"
 feastDay:

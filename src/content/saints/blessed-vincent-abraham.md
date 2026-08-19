@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vincent Abraham"
 honorific: Blessed
-title: "Blessed Vincent Abraham"
 summary: "Priest in the archdiocese of Rheims, France. One of the Martyrs of September."
 birthYear: 1740
 deathYear: 1792

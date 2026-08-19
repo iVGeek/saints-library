@@ -1,7 +1,6 @@
 ---
 name: "Blessed João Fernandes"
 honorific: Blessed
-title: "Blessed João Fernandes"
 summary: "Jesuit temporal-coadjutor missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1547
 deathYear: 1570

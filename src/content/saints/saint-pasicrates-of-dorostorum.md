@@ -1,7 +1,6 @@
 ---
 name: "Saint Pasicrates of Dorostorum"
 honorific: Saint
-title: "Saint Pasicrates of Dorostorum"
 summary: "One of a group of four martyrs executed together. No details about them have survived."
 died: "Dorostorum, Mysia, Asia Minor"
 deathPlace: "Mysia, Asia Minor"

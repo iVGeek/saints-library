@@ -1,7 +1,6 @@
 ---
 name: "Saint James the Syrian"
 honorific: Saint
-title: "Saint James the Syrian"
 summary: "Monk at Amida (Diarbekir), Mesopotamia. Known as a miracle worker, and for his great austerities."
 deathYear: 500
 born: "Syrian"

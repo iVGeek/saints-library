@@ -1,7 +1,6 @@
 ---
 name: "Saint Isidore of Scété"
 honorific: Saint
-title: "Saint Isidore of Scété"
 summary: "Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper devotion."
 deathYear: 394
 died: "c.394"

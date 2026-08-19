@@ -1,7 +1,6 @@
 ---
 name: "Saint Ida of Boulogne"
 honorific: Saint
-title: "Saint Ida of Boulogne"
 summary: "Daughter of Duke Godfrey IV of Lorraine. Descendent of Blessed Charlemagne. Married Count Eustace II of Boulogne at age 17. Mother of Godfrey and Baldwin de Bouillon. Widow. Endowed several monasteries in Picardy (part of modern France). Benedictine oblate."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ida-of-Boulogne-1.jpg"
 searchAliases:

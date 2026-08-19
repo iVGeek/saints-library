@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augustine Fangi"
 honorific: Blessed
-title: "Blessed Augustine Fangi"
 summary: "Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without making an outcry, claming his mind had been on hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Agostinobiella.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ruidche"
 honorific: Saint
-title: "Saint Ruidche"
 summary: "Nun."
 born: "9th century Ireland"
 region: "Ireland"

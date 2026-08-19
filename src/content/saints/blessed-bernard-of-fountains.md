@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernard of Fountains"
 honorific: Blessed
-title: "Blessed Bernard of Fountains"
 summary: "Thirteenth abbot of the Cistercian monastery of Fountains, England, chosen in September 1184, and serving the remaining year and a half of his life."
 searchAliases:
   - "Bernard of Fontaines"

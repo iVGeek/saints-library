@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodosia the Martyr"
 honorific: Saint
-title: "Saint Theodosia the Martyr"
 summary: "Martyred by Julian the Apostate."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Photius of North Africa"
 honorific: Saint
-title: "Saint Photius of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Focius"

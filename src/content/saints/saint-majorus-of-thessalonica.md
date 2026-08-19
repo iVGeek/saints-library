@@ -1,7 +1,6 @@
 ---
 name: "Saint Majorus of Thessalonica"
 honorific: Saint
-title: "Saint Majorus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

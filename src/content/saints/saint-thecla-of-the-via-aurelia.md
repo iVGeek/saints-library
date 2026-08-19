@@ -1,7 +1,6 @@
 ---
 name: "Saint Thecla of the Via Aurelia"
 honorific: Saint
-title: "Saint Thecla of the Via Aurelia"
 summary: "Martyr."
 died: "69 on the Via Aurelia near Rome, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Barsabas"
 honorific: Saint
-title: "Saint Barsabas"
 summary: "Abbot. Known as a miracle worker. Martyred with twelve of his monks in the persecutions of the Sassanid King Shapur II."
 searchAliases:
   - "Barsabbas"

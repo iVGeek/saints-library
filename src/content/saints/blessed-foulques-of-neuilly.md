@@ -1,7 +1,6 @@
 ---
 name: "Blessed Foulques of Neuilly"
 honorific: Blessed
-title: "Blessed Foulques of Neuilly"
 summary: "We have no details of his youth, but it was apparently spent in a pretty dissolute manner. Foulques came to the faith, spent some time in penance, studied theology in Paris, and became parish priest in Neuilly-sur-Marne, France in 1195. He became known for his personal piety and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Foulques-of-Neuilly.jpg"
 searchAliases:

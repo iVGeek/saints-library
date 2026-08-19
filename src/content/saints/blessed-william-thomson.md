@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Thomson"
 honorific: Blessed
-title: "Blessed William Thomson"
 summary: "Studied at the English College in Rheims, France. Ordained, he returned to minister to covert Catholics in England during a period of persecution. Executed for the crime of being a priest. Martyr."
 searchAliases:
   - "William Thompson"

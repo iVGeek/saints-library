@@ -1,7 +1,6 @@
 ---
 name: "Blessed Celina Chludzinska"
 honorific: Blessed
-title: "Blessed Celina Chludzinska"
 summary: "Celina was early drawn to religious life, but acceded to her parent's wishes and married Joseph Borzęcka in 1853. Mother for four, two of whom died in infancy. Widow. Founded the Congregation of Sisters of the Resurrection of Our Lord Jesus Christ."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Celina-Chludzinska.jpg"
 searchAliases:

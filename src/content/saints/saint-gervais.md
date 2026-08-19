@@ -1,7 +1,6 @@
 ---
 name: "Saint Gervais"
 honorific: Saint
-title: "Saint Gervais"
 summary: "Deacon in the diocese of Le Mans, France. Pilgrim to Rome, Italy, he was murdered while travelling home."
 died: "buried in Saint-Gervais-en-Vallière, France"
 deathPlace: "France"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francus of Francavilla"
 honorific: Blessed
-title: "Blessed Francus of Francavilla"
 summary: "Greek rite monk from Calabria, Italy. Monk in the Abruzzo region of Italy, possibly fleeing Muslim raids on monasteries in Calabria. Hermit in the central Appennine mountains."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francus-of-Francavilla.jpg"
 searchAliases:

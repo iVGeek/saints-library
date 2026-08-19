@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus the Martyr"
 honorific: Saint
-title: "Saint Zoticus the Martyr"
 summary: "One of a group of 50 soldiers martyred in Africa. No other information about them has survived."
 died: "in Africa"
 region: "England"

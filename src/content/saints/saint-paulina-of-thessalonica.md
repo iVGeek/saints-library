@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulina of Thessalonica"
 honorific: Saint
-title: "Saint Paulina of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

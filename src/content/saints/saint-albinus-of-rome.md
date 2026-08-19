@@ -1,7 +1,6 @@
 ---
 name: "Saint Albinus of Rome"
 honorific: Saint
-title: "Saint Albinus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Albinus of Cologne"

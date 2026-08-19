@@ -1,7 +1,6 @@
 ---
 name: "Saint Martin of Trier"
 honorific: Saint
-title: "Saint Martin of Trier"
 summary: "Tenth bishop of Trier, Germany."
 searchAliases:
   - "Martin of Treves"

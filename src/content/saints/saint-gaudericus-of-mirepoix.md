@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaudericus of Mirepoix"
 honorific: Saint
-title: "Saint Gaudericus of Mirepoix"
 summary: "Peasant farmer in the diocese of Mirepoix in the Pyrenees region of France known for his devotion to the Mother of God."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gaudericus-of-Mirepoix.jpg"
 searchAliases:

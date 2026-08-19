@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria Fu Guilin"
 honorific: Venerable
-title: "Saint Maria Fu Guilin"
 summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China. Teacher. Turned over to the pagan persecutors in the Boxer Rebellion, she publicly prayed to Christ, and was immediately murdered. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

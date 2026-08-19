@@ -1,7 +1,6 @@
 ---
 name: "Saint Papocinicus of Africa"
 honorific: Saint
-title: "Saint Papocinicus of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

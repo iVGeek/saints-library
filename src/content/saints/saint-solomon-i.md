@@ -1,7 +1,6 @@
 ---
 name: "Saint Solomon I"
 honorific: Saint
-title: "Saint Solomon I"
 summary: "Married to Saint Gwen; father of Saint Cuby. Lived in Brittany in modern France. Murdered by heathens."
 searchAliases:
   - "Solomon of Brittany"

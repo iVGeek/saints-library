@@ -1,7 +1,6 @@
 ---
 name: "Saint Hiduard"
 honorific: Saint
-title: "Saint Hiduard"
 summary: "Benedictine monk. Missionary in Flanders. Founded Saint Peter's abbey at Dickelvenne, Belgium."
 searchAliases:
   - "Hilduard"

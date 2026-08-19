@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary of Jesus Crucified"
 honorific: Venerable
-title: "Saint Mary of Jesus Crucified"
 summary: "Born to Giries Baouardy and Mariam Shahine, a poor Greek Melchite Catholic family. Twelve of her thirteen brothers died in infancy, and Mary's birth was an answered prayer to Our Lady. Her parents died when Mary was only two, and she was raised by a paternal uncle. Moved to Alexa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Jesus-Crucified1.jpg"
 searchAliases:

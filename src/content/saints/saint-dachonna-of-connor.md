@@ -1,7 +1,6 @@
 ---
 name: "Saint Dachonna of Connor"
 honorific: Saint
-title: "Saint Dachonna of Connor"
 summary: "Fourth bishop of Connor, Ireland, serving in the early 8th century."
 searchAliases:
   - "Duchomma"

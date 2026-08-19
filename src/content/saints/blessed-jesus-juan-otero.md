@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jesús Juan Otero"
 honorific: Blessed
-title: "Blessed Jesús Juan Otero"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Arnoldo Julian"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo Arévalo Mora"
 honorific: Blessed
-title: "Blessed Justo Arévalo Mora"
 summary: "Priest in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Arévalo-Mora.jpg"
 birthYear: 1869

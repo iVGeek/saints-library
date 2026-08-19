@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Eustace"
 honorific: Blessed
-title: "Blessed Thomas Eustace"
 summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
 deathYear: 1581
 born: "Irish"

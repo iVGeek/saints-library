@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Jones"
 honorific: Blessed
-title: "Blessed Edward Jones"
 summary: "Raised as an Anglican, he converted to Catholicism and was received into the Church at the English College in Rheims, France in 1587. Ordained in 1588. Returned to England to minister to covert Catholics. Arrested in 1590 in a grocer's in Fleet Street in London, England by a prie"
 deathYear: 1590
 born: "Diocese of Saint Asaph, Wales"

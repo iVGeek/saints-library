@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juana de la Concepción Sanchez Garcia"
 honorific: Venerable
-title: "Venerable Juana de la Concepción Sanchez Garcia"
 summary: "Poor Clare nun."
 searchAliases:
   - "Clara de la Concepcion"

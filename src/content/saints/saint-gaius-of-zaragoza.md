@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius of Zaragoza"
 honorific: Saint
-title: "Saint Gaius of Zaragoza"
 summary: "Martyr."
 searchAliases:
   - "Caio"

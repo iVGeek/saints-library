@@ -1,7 +1,6 @@
 ---
 name: "Blessed Germán García y García"
 honorific: Blessed
-title: "Blessed Germán García y García"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luciano-Pablo.jpg"
 searchAliases:

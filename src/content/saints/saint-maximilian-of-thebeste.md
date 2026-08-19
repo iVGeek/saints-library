@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximilian of Thebeste"
 honorific: Saint
-title: "Saint Maximilian of Thebeste"
 summary: "Son of a Roman army veteran. Conscientious objector - when drafted into the Roman army, he refused to serve on the grounds that his faith prohibited it. Martyred for this stand."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maximilian-of-Thebeste.jpg"
 searchAliases:

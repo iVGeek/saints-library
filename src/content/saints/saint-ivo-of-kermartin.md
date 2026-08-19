@@ -1,7 +1,6 @@
 ---
 name: "Saint Ivo of Kermartin"
 honorific: Saint
-title: "Saint Ivo of Kermartin"
 summary: "Born to a wealthy Breton noble family. From age 14 he studied civil and canon lawyer, philosophy, and theology in Paris and Orleans. Franciscan tertiary. Lawyer who practised in both civil and ecclesiastical courts, often defending the poor without charge, and ministering to them"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Weyden_Ivo.jpg/960px-Weyden_Ivo.jpg"
 searchAliases:

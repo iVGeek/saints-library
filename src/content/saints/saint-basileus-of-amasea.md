@@ -1,7 +1,6 @@
 ---
 name: "Saint Basileus of Amasea"
 honorific: Saint
-title: "Saint Basileus of Amasea"
 summary: "Bishop of Amasea in Pontus. When he was killed in the Licinius persecutions by being thrown into the sea to drown, one of his disciples was directed to his body by an angel so it could be recovered and given Christian burial."
 searchAliases:
   - "Basil"

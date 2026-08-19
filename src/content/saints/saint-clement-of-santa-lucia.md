@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement of Santa Lucia"
 honorific: Saint
-title: "Saint Clement of Santa Lucia"
 summary: "Abbot of Santa Lucia Abbey in Syracuse, Sicily."
 deathYear: 800
 died: "c.800"

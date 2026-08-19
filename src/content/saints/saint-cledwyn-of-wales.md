@@ -1,7 +1,6 @@
 ---
 name: "Saint Cledwyn of Wales"
 honorific: Saint
-title: "Saint Cledwyn of Wales"
 summary: "Eldest son of Saint Brychan of Brycheiniog, and ruler of part of Brychan's kingdom."
 searchAliases:
   - "Clydwyn of Wales"

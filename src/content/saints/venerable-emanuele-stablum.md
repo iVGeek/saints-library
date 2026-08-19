@@ -1,7 +1,6 @@
 ---
 name: "Venerable Emanuele Stablum"
 honorific: Venerable
-title: "Venerable Emanuele Stablum"
 summary: "Religious brother, joining the Sons of the Immaculate Conception on 15 August 1913. By order of his Congregation superiors, he gave up studying for the priesthood to study medicine, and graduated medical school in 1930. In 1943 and 1944, he used his position in the Istituto Dermo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Emanuele-Stablum.jpg"
 searchAliases:

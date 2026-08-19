@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Sánchez Molina"
 honorific: Blessed
-title: "Blessed Juan Sánchez Molina"
 summary: "After studying at the San Indalecio de Almería seminary, Juan was ordained a priest in the diocese of Almería, Spain on 4 June 1909. Parish priest for 25+ years. Chaplain of the Little Sisters of the Poor and of the Provincial Prison of Almería in 1935. Imprisoned and martyred in"
 birthYear: 1882
 deathYear: 1936

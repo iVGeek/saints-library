@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignacio Tejero Molina"
 honorific: Blessed
-title: "Blessed Ignacio Tejero Molina"
 summary: "Member of Catholic Action. Joined the Hospitallers of Saint John of God on 30 November 1935. Martyred in the Spanish Civil War while still a novice. One of the Martyred Hospitallers of Spain."
 birthYear: 1916
 deathYear: 1936

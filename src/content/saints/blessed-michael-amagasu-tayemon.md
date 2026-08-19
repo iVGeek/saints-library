@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Amagasu Tayemon"
 honorific: Blessed
-title: "Blessed Michaël Amagasu Tayemon"
 summary: "Layman in the diocese of Niigata, Japan. Son of Blessed Ludovicus Amagasu Uemon. Married to Blessed Dominica Amagasu Martyr."
 birthYear: 1594
 deathYear: 1629

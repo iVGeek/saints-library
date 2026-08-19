@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory the Moor"
 honorific: Saint
-title: "Saint Gregory the Moor"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-the-Moor.jpg"
 deathYear: 302

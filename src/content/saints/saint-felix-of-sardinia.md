@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Sardinia"
 honorific: Saint
-title: "Saint Felix of Sardinia"
 summary: "A church on Sardinia is dedicated to this saint, but no information about them has survived."
 region: "Italy"
 feastDay:

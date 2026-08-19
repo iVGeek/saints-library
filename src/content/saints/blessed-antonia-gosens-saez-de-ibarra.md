@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonia Gosens Sáez De Ibarra"
 honorific: Blessed
-title: "Blessed Antonia Gosens Sáez De Ibarra"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Antonia of Saint Timothy"

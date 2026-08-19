@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pietro Marcellino Corradini"
 honorific: Venerable
-title: "Venerable Pietro Marcellino Corradini"
 summary: "Baptized at the age of one day. As a young man in Rome, Italy, he earned degrees in civil and canon law, and studied archaeology. Ordained a priest on 10 June 1702. Appointed Titular Archbishop of Athenae on 7 November 1707. Elevated to Cardinal in Pectore on 18 May 1712. Cardina"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/CORRADINI_PIER_MARCELLINO.jpg"
 birthYear: 1658

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Becerra Sánchez"
 honorific: Blessed
-title: "Blessed José Becerra Sánchez"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

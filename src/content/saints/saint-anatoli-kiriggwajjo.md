@@ -1,7 +1,6 @@
 ---
 name: "Saint Anatoli Kiriggwajjo"
 honorific: Venerable
-title: "Saint Anatoli Kiriggwajjo"
 summary: "Herdsman. Page to King Mwanga. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anatoli-Kiriggwajjo.jpg"
 searchAliases:

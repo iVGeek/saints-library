@@ -1,7 +1,6 @@
 ---
 name: "Saint Aristides the Philosopher"
 honorific: Saint
-title: "Saint Aristides the Philosopher"
 summary: "Early Christian writer and philosopher. Taught philosophy in Athens, Greece. Presented an explanation of Christianity to Emperor Hadrian in 133, a work inspired by the persecution of Christians, and which led to an imperial decree that paused the imperial anti-Christian policy. W"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aristides-the-Philosopher.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Arcadius of Mauretania"
 honorific: Saint
-title: "Saint Arcadius of Mauretania"
 summary: "Wealthy and prominent citizen, and a closet Christian. During a persecution in Mauritania, he withdrew to live as a hidden hermit, prayerful and out of harm's way. The authorities wanted to use him as an example, and arrested a relative, threatening him with harm unless Arcadius"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Saint_Arcadius.JPG"
 searchAliases:

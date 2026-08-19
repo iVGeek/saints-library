@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramiro Alonso López"
 honorific: Blessed
-title: "Blessed Ramiro Alonso López"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

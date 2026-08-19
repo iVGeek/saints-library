@@ -1,7 +1,6 @@
 ---
 name: "Abigail the Matriarch"
 honorific: Saint
-title: "Abigail the Matriarch"
 summary: "Jewish laywoman. Wife of King David. Old Testament matriarch. One of the seven women considered a prophet by the Talmudic scholars."
 image: "http://catholicsaints.info/wp-content/uploads/img-David-and-Abigail.jpg"
 birthYear: 1000

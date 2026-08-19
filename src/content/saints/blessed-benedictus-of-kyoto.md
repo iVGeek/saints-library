@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedictus of Kyoto"
 honorific: Blessed
-title: "Blessed Benedictus of Kyoto"
 summary: "Son of Blessed Martha of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 2."
 birthYear: 1617
 deathYear: 1619

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermes the Exorcist"
 honorific: Saint
-title: "Saint Hermes the Exorcist"
 summary: "Priest. Exorcist. Martyred in the persecution of Marcus Aurelian."
 searchAliases:
   - "Hermes of Rome"

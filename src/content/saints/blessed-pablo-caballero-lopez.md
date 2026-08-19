@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pablo Caballero López"
 honorific: Blessed
-title: "Blessed Pablo Caballero López"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

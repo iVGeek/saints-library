@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Callistus I"
 honorific: Saint
-title: "Pope Saint Callistus I"
 summary: "Born a slave, owned by Carpophorus, a Christian in the household of Caesar. His master entrusted a large sum to Callistus to open a bank, which took in several deposits, made several loans to people who refused to pay them back, and went broke. Knowing he would be personally blam"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Callistus-I-1.jpg"
 searchAliases:

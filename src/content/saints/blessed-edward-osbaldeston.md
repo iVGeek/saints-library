@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Osbaldeston"
 honorific: Blessed
-title: "Blessed Edward Osbaldeston"
 summary: "Son of Thomas Osbaldeston. Studied at the English College in Douai, France, and then at the seminary in Rheims, France. Ordained on 21 September 1585. On 27 April 1589 he returned to England to minister to covert Catholics. Had a great devotion to Saint Jerome. Betrayed by Thomas"
 birthYear: 1560
 deathYear: 1594

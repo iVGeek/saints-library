@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Volitani"
 honorific: Saint
-title: "Martyrs of Volitani"
 summary: "A group of martyrs who were praised by Saint Augustine of Hippo"
 searchAliases:
   - "Martyrs of Bolitani"

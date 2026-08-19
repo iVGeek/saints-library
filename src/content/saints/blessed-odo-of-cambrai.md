@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odo of Cambrai"
 honorific: Blessed
-title: "Blessed Odo of Cambrai"
 summary: "One of the most learned French scholars of the 11th century. Layman headmaster of the cathedral school at Tournai in 1087. Following a close study of the writings of Saint Augustine of Hippo, around 1090 he felt a calling to religious life. Benedictine monk. He founded a Benedict"
 searchAliases:
   - "Odo of Orléans\nOdoardus…."

@@ -1,7 +1,6 @@
 ---
 name: "Saint Onorato of Africa"
 honorific: Saint
-title: "Saint Onorato of Africa"
 summary: "One of a group of 35 martyrs who died together. No other information has survived."
 died: "in northwestern Africa"
 region: "Africa"

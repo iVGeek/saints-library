@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eduardo Ripoll Diego"
 honorific: Blessed
-title: "Blessed Eduardo Ripoll Diego"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Africa"
 honorific: Saint
-title: "Saint Victor of Africa"
 summary: "One of a group of 35 martyrs, date unknown. No other information has survived."
 died: "in northwestern Africa"
 region: "Africa"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Philo of Antioch"
 honorific: Saint
-title: "Saint Philo of Antioch"
 summary: "Deacon from Antioch, Syria. Travelled with Saint Ignatius to Rome, Italy, and after his martyrdom brought his relics back to Antioch and wrote about him."
 deathYear: 150
 died: "c.150"

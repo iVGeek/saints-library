@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Sans Viñas"
 honorific: Blessed
-title: "Blessed Lluís Sans Viñas"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

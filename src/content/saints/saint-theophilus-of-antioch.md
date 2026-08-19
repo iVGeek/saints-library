@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Antioch"
 honorific: Saint
-title: "Saint Theophilus of Antioch"
 summary: "Convert, brought to the faith through scripture reading. Zealous apologist, both by speaking and by writing, opposing heretics who preached against orthodox Christianity. Bishop of Antioch in 169."
 searchAliases:
   - "Teofilo"

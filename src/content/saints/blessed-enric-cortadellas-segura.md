@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enric Cortadellas Segura"
 honorific: Blessed
-title: "Blessed Enric Cortadellas Segura"
 summary: "Member of the Claretians, professed on 31 August 1926. Ordained a priest on 22 September 1934. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936

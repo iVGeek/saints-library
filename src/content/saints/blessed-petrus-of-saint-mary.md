@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus of Saint Mary"
 honorific: Blessed
-title: "Blessed Petrus of Saint Mary"
 summary: "At age 13 Petrus began studying to be a catechists; Blessed Luis Bertrán was his teacher. He supported the work of the missionaries, spending his wages to buy them supplies, strengthening the faith of new Christians. During a period of persecution, he hid from authorities in a le"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Petrus-of-Saint-Mary.jpg"
 searchAliases:

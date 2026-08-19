@@ -1,7 +1,6 @@
 ---
 name: "Saint Amphibalus of Verulam"
 honorific: Saint
-title: "Saint Amphibalus of Verulam"
 summary: "Cleric. Friend and co-worker with Saint Alban of Verulam. Marytred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amphibalus-of-Verulam.jpg"
 deathYear: 304

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Yi Seong"
 honorific: Blessed
-title: "Blessed Maria Yi Seong"
 summary: "Lay woman and mother, married to Saint Franciscus Ch'oe Kyong-Hwan. Upon witnessing the martyrdom of Saint Franciscus, Maria renounced her faith, but soon after repented, returned to the Church, and was soon after martyred herself."
 birthYear: 1801
 deathYear: 1840

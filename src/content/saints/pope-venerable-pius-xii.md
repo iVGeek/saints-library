@@ -1,7 +1,6 @@
 ---
 name: "Pope Venerable Pius XII"
 honorific: Venerable
-title: "Pope Venerable Pius XII"
 summary: "Studied at the Pontifical Gregorian University in Rome. Ordained on 2 April 1899. Staff member of the Sacred Congregation of Extraordinary Ecclesiastical Affairs from 1901 to 1911. From 1904 to 1916 he assisted Cardinal Gasparri in his work to codify canon law. Undersecretary of"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Pius_XII_with_tabard%2C_by_Michael_Pitcairn%2C_1951_%28retouched%29.jpg"
 searchAliases:

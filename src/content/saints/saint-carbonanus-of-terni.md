@@ -1,7 +1,6 @@
 ---
 name: "Saint Carbonanus of Terni"
 honorific: Saint
-title: "Saint Carbonanus of Terni"
 summary: "Christian soldier in the imperial Roman army. Executed during the persecutions of emperor Claudius. Martyr."
 deathYear: 270
 died: "270 in Terni, Italy"

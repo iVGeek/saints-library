@@ -1,7 +1,6 @@
 ---
 name: "Saint John the Almoner"
 honorific: Saint
-title: "Saint John the Almoner"
 summary: "Born to the Cypriot nobility; his father as the governor of Cyprus. Married briefly, and father of one child. Entered the religious life when his wife and child died of disease. Patriarch of Alexandria, Egypt in 608. Archbishop. Known as the Almoner because of his generosity to t"
 image: "http://catholicsaints.info/wp-content/uploads/titian-Saintjohnthealmoner.jpg"
 searchAliases:

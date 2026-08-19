@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Míguez Fernández"
 honorific: Blessed
-title: "Blessed Francisco Míguez Fernández"
 summary: "Salesian priest. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

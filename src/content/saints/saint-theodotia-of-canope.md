@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodotia of Canope"
 honorific: Saint
-title: "Saint Theodotia of Canope"
 summary: "Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Theodota"

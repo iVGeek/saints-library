@@ -1,7 +1,6 @@
 ---
 name: "Blessed Karoline Anna Leidenix"
 honorific: Blessed
-title: "Blessed Karoline Anna Leidenix"
 summary: "Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg"
 searchAliases:

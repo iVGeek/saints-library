@@ -1,7 +1,6 @@
 ---
 name: "Saint Clotilde"
 honorific: Saint
-title: "Saint Clotilde"
 summary: "Born a princess, the daughter of King Chilperic of Burgundy. Married young to King Clovis of the Salian Franks while he was still a pagan; she brought him to the faith. Queen. Mother of three sons. Led her husband to Christianity in 496. Widow. Following Clovis's death in 511, he"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Delpech_-_Clotilde.jpg"
 searchAliases:

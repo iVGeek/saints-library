@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laurentius Kaida Hachizo"
 honorific: Blessed
-title: "Blessed Laurentius Kaida Hachizo"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:

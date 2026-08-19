@@ -1,7 +1,6 @@
 ---
 name: "Saint Agericus of Tours"
 honorific: Saint
-title: "Saint Agericus of Tours"
 summary: "Spiritual student of Saint Eligius. Abbot of Saint Martin's in Tours, France."
 searchAliases:
   - "Acry"

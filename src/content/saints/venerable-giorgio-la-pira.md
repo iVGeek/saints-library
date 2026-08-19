@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giorgio la Pira"
 honorific: Venerable
-title: "Venerable Giorgio la Pira"
 summary: "Giorgio joined the Lay Dominicans in his early 20's, and their spirituality informed everthing in his life. Lawyer. University professor. Assisted with writing the Italian constitution after World War II. Lived in a cell in the San Marco monastery in Florence, Italy until chronic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giorgio-la-Pira.jpg"
 searchAliases:

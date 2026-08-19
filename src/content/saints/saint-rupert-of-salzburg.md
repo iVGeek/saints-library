@@ -1,7 +1,6 @@
 ---
 name: "Saint Rupert of Salzburg"
 honorific: Saint
-title: "Saint Rupert of Salzburg"
 summary: "Relative of Saint Ermentrude. Benedictine. Bishop of Worms, Germany. Evangelist to southern Germany. In 696 Theodo, Duke of Bavaria, gave him the ruined town of Iuvavum, which Rupert rebuilt. There he founded the monastery of Saint Peter, serving as its first abbot, and a Benedic"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Rupert-Salzburg.jpg"
 searchAliases:

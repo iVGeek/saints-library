@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene the Martyr"
 honorific: Saint
-title: "Saint Eugene the Martyr"
 summary: "Bishop who worked for the conversion of people in the Chersonese region of Greece. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-of-the-Chersonese.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nemesius of Cyprus"
 honorific: Saint
-title: "Saint Nemesius of Cyprus"
 summary: "Martyr."
 died: "Cyprus"
 feastDay:

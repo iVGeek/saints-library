@@ -1,7 +1,6 @@
 ---
 name: "Saint Fergus the Pict"
 honorific: Saint
-title: "Saint Fergus the Pict"
 summary: "May have studied in both Scotland and Ireland. Priest. Travelling bishop in Ireland. Evangelist in the counties of Perth and Caithness in Scotland. Founded churches dedicated to Saint Patrick at Strageath, Blackford, and Dolpatrick in Perthshire; Wick and Halkirk, in Caithnessshi"
 searchAliases:
   - "Fergus Cruithneach"

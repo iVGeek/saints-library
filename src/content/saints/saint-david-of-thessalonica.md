@@ -1,7 +1,6 @@
 ---
 name: "Saint David of Thessalonica"
 honorific: Saint
-title: "Saint David of Thessalonica"
 summary: "From his youth, David was known for his contamplative, prayerful personal piety. Hermit outside Thessalonica for 70 years, including three years living in an almond tree."
 image: "http://catholicsaints.info/wp-content/uploads/img-David-of-Thessalonica.jpg"
 searchAliases:

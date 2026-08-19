@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Vienne"
 honorific: Saint
-title: "Saint Dionysius of Vienne"
 summary: "Bishop of Vienne, France."
 searchAliases:
   - "Denis"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Papulus"
 honorific: Saint
-title: "Saint Papulus"
 summary: "Priest. Worked with Saint Saturninus of Toulouse in France. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Papoul"

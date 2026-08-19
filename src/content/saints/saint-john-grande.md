@@ -1,7 +1,6 @@
 ---
 name: "Saint John Grande"
 honorific: Venerable
-title: "Saint John Grande"
 summary: "Raised in a solidly Christian family, John was a choir boy from age 7 to 12. He was apprenticed in the linen business in Seville, Spain from age 15, and then returned to Carmona, Spain to start his own shop. At age 19 he left business behind, gave away his possessions, and became"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Grande.jpg"
 searchAliases:

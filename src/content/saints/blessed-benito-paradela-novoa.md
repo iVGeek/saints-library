@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Paradela Novoa"
 honorific: Blessed
-title: "Blessed Benito Paradela Novoa"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

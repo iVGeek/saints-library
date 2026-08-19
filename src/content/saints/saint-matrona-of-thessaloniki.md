@@ -1,7 +1,6 @@
 ---
 name: "Saint Matrona of Thessaloniki"
 honorific: Saint
-title: "Saint Matrona of Thessaloniki"
 summary: "Christian slave with a Jewish “owner”. When the lady of the house caught Matrona going to Mass, she was abused, tortured and eventally killed. Martyr."
 deathYear: 350
 died: "beaten to death c.350 in Thessaloniki, Macedonia (in modern Greece)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Antwerp"
 honorific: Saint
-title: "Saint Julius of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

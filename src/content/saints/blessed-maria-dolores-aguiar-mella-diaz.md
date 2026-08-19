@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Dolores Aguiar-Mella Díaz"
 honorific: Blessed
-title: "Blessed María Dolores Aguiar-Mella Díaz"
 summary: "Lay woman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936

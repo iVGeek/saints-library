@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gonzalo de Amarante"
 honorific: Blessed
-title: "Blessed Gonzalo de Amarante"
 summary: "Born to a wealthy, high-ranking family. Upon his ordination, he transferred his great wealth to his nephews, and spent 14 years in pilgrimage through the Holy Lands; his family did not recognize him when he returned, and his nephew set the dogs on him. Dominican friar. Received p"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Amarante.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Isidore of Alexandria"
 honorific: Saint
-title: "Saint Isidore of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "burned to death in 250 at Alexandria, Egypt"

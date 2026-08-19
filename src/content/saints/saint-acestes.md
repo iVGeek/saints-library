@@ -1,7 +1,6 @@
 ---
 name: "Saint Acestes"
 honorific: Saint
-title: "Saint Acestes"
 summary: "One of the three soldiers who escorted Saint Paul the Apostle to his death. They were all converted by Paul, and were martyred with him."
 searchAliases:
   - "Acestres"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Blanco Álvarez"
 honorific: Blessed
-title: "Blessed Luis Blanco Álvarez"
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

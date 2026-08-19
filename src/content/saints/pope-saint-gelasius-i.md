@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Gelasius I"
 honorific: Saint
-title: "Pope Saint Gelasius I"
 summary: "Son of an African immigrant named Valerius. Priest. Pope. Known for his learning, charity, and sense of justice. Opposed the Acacian and Manichaean heresies. Came into conflict with the Patriarch of Constantinople over supremacy in Alexandria, Egypt and Antioch. Suppressed many o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter%2C_Star%C3%A9_Brno%2C_Gelasius_I.jpg/960px-Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter%2C_Star%C3%A9_Brno%2C_Gelasius_I.jpg"
 deathYear: 496

@@ -1,7 +1,6 @@
 ---
 name: "Saint Damaride"
 honorific: Saint
-title: "Saint Damaride"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

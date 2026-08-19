@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Muñoz Antolín"
 honorific: Blessed
-title: "Blessed Isidro Muñoz Antolín"
 summary: "Joined the Salesians on 7 February 1929, making his profession on 28 September 1932. Began teaching in Santa Cruz de Mudela on 6 September 1935. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Isidro-Muñoz-Antolín.jpg"
 searchAliases:

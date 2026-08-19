@@ -1,7 +1,6 @@
 ---
 name: "Saint Possessor of Antioch"
 honorific: Saint
-title: "Saint Possessor of Antioch"
 summary: "Soldier. Martyr."
 born: "Greece"
 died: "Antioch (modern Antakya, Turkey)"

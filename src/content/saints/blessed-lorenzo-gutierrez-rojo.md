@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Gutiérrez Rojo"
 honorific: Blessed
-title: "Blessed Lorenzo Gutiérrez Rojo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Félix Lorenzo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Susanna the Martyr"
 honorific: Saint
-title: "Saint Susanna the Martyr"
 summary: "Young girl who fled to Nola, Italy to escape persecution. Arrested there for her faith, she was taken to Salerno, Italy, tortured and martyred with Saint Thecla and Saint Archelais."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nola.jpg"
 deathYear: 293

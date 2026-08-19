@@ -1,7 +1,6 @@
 ---
 name: "Saint Alipius of Tagaste"
 honorific: Saint
-title: "Saint Alipius of Tagaste"
 summary: "From youth he was a friend of Saint Augustine of Hippo. Studied law in Rome, Italy. Magistrate in Rome. When Augustine went to Rome, Alipius resigned his position and followed. Convert to Christianity, baptized by Saint Ambrose in Milan on Easter Eve 387 with Augustine. Monk for"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alipius-of-Tagaste.jpg"
 searchAliases:

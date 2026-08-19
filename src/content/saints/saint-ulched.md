@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulched"
 honorific: Saint
-title: "Saint Ulched"
 summary: "Holy man for whom Llechulched, Anglesey, Wales was named. I have no further information."
 searchAliases:
   - "Ulchad"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ada of Le Mans"
 honorific: Saint
-title: "Saint Ada of Le Mans"
 summary: "Niece of Saint Engelbert; Ada's whole family was known for its piety. Nun at Soissons, France. Abbess at Saint Julien-des-Pr&eacute;s abbey, Le Mans, France."
 image: "http://catholicsaints.info/wp-content/gallery/saint-ada/saint-ada.jpg"
 searchAliases:

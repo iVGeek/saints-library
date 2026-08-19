@@ -1,7 +1,6 @@
 ---
 name: "Saint Pamphilus of Cilicia"
 honorific: Saint
-title: "Saint Pamphilus of Cilicia"
 summary: "Pamphilus studied in Alexandria, Egypt where he became a great defender of the works of Origen. Ordained a priest in Caesarea Maritima, Palestine (in modern Israel). Bishop. Imprisoned and sentenced to forced labour in the mines of Cilicia for two years during the persecutions of"
 searchAliases:
   - "Pamphilus of Caesarea"

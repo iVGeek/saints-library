@@ -1,7 +1,6 @@
 ---
 name: "Saint Raynald of Nocera"
 honorific: Saint
-title: "Saint Raynald of Nocera"
 summary: "Born to the nobility, the eldest son of the the Count of Postignano. He received a good eduction, and his family expected him to have a life in politics, but Raynald felt a call to religious life. He gave away all his possessions and withdrew from the world to live as a hermit on"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Raynald-of-Nocera.jpg"
 searchAliases:

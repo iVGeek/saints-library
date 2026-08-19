@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudia Weinhardt"
 honorific: Blessed
-title: "Blessed Claudia Weinhardt"
 summary: "Poor Clare nun in Brixon, Italy."
 deathYear: 1643
 died: "1643 of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Alexandria"
 honorific: Saint
-title: "Saint Dionysius of Alexandria"
 summary: "He studied under Origen, and eventually became the head of the catechetical school of Alexandria, Egypt. Archbishop of Alexandria. In 250 during the persecutions of Decius, Dionysius tried to flee the city, but was caught and imprisoned. He was rescued by Christians and hid in th"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg"
 searchAliases:

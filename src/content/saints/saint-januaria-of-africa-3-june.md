@@ -1,7 +1,6 @@
 ---
 name: "Saint Januaria of Africa"
 honorific: Saint
-title: "Saint Januaria of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Martyred Soldiers of Rome"
 honorific: Saint
-title: "Martyred Soldiers of Rome"
 died: "martyred c.68 in Rome, Italy"
 deathPlace: "Italy"
 region: "Italy"

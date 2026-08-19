@@ -1,7 +1,6 @@
 ---
 name: "Saint Elias of Conques"
 honorific: Saint
-title: "Saint Elias of Conques"
 summary: "Monk. Abbot of the monastery Sainte-Foy de Conques, Rouergue, Languedoc, France. Founded the monastery New Conques from land and support given by King Pepin I of Aquitaine in late 838."
 searchAliases:
   - "Heli"

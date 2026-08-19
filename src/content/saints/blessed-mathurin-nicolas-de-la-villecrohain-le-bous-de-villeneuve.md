@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mathurin-Nicolas de la VilleCrohain le Bous de Villeneuve"
 honorific: Blessed
-title: "Blessed Mathurin-Nicolas de la VilleCrohain le Bous de Villeneuve"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1731
 deathYear: 1792

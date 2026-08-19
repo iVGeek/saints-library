@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardina Maria Jabłońska"
 honorific: Blessed
-title: "Blessed Bernardina Maria Jabłońska"
 summary: "Raised in a pious family. Spiritual student of Saint Albert Chmielowski. Co-foundress of the Sisters of the Third Order of Saint Francis Servants of the Poor (Albertine Sisters). Known as a mystic with a great concern for those who are suffering. As superior of the Sisters she fo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardina-Maria-Jablonska.jpg"
 searchAliases:

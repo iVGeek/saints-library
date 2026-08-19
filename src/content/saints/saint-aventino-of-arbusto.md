@@ -1,7 +1,6 @@
 ---
 name: "Saint Aventino of Arbusto"
 honorific: Saint
-title: "Saint Aventino of Arbusto"
 summary: "Hermit in the Arbusto Valley of the Pyrenees region of France. He spent most of his time in prayer, but would sometimes come down to the villages to preach. Martyred by Moors for preaching Christianity."
 searchAliases:
   - "Aventino of Larboust"

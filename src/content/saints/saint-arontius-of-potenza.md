@@ -1,7 +1,6 @@
 ---
 name: "Saint Arontius of Potenza"
 honorific: Saint
-title: "Saint Arontius of Potenza"
 summary: "Martyred in the persecutions of Maximian."
 searchAliases:
   - "Orontius"

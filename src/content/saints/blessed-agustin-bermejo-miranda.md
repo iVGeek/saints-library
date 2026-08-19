@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agustín Bermejo Miranda"
 honorific: Blessed
-title: "Blessed Agustín Bermejo Miranda"
 summary: "Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Agustin-Bermejo-Miranda.jpg"
 birthYear: 1904

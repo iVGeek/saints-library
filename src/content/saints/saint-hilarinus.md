@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilarinus"
 honorific: Saint
-title: "Saint Hilarinus"
 summary: "Benedictine monk martyred by Saracens."
 deathYear: 731
 died: "731 at Saint-Seine, diocese of Langres, France"

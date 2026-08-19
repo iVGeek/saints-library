@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Palestine"
 honorific: Saint
-title: "Martyrs of Palestine"
 summary: "Thirty-three Christians martyred in Palestine; they are commemorated in old martyrologies, but the date and exact location have been lost."
 region: "Holy Land"
 feastDay:

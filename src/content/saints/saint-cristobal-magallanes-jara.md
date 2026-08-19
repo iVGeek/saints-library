@@ -1,7 +1,6 @@
 ---
 name: "Saint Cristobal Magallanes Jara"
 honorific: Venerable
-title: "Saint Cristobal Magallanes Jara"
 summary: "Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish priest at Totatiche, Mexico. Helped found schools, a newspaper, catechism centers for children and adults, carpentry shops, and an electric plant to power the mills."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cristobal-Magallanes-Jara.jpg"
 birthYear: 1869

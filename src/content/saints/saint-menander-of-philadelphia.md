@@ -1,7 +1,6 @@
 ---
 name: "Saint Menander of Philadelphia"
 honorific: Saint
-title: "Saint Menander of Philadelphia"
 summary: "Martyr. No other information has survived."
 died: "martyred in Philadelphia (modern Alasehir, Turkey)"
 deathPlace: "Turkey)"

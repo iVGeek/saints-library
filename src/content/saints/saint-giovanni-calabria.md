@@ -1,7 +1,6 @@
 ---
 name: "Saint Giovanni Calabria"
 honorific: Venerable
-title: "Saint Giovanni Calabria"
 summary: "Youngest of seven boys born to Luigi Foschi and Angela Calabria. His was a poor family, and his father died when Giovanni was only 9 years old; the boy had to leave school and become an apprentice. He eventually received some tutoring from a local priest, and was able to finish h"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Don_Giovanni_Calabria.JPG/960px-Don_Giovanni_Calabria.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Melun"
 honorific: Saint
-title: "Saint Leo of Melun"
 summary: "Venerated at Melun, France, but no details of their life have survived."
 region: "France"
 feastDay:

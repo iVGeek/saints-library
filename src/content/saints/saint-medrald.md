@@ -1,7 +1,6 @@
 ---
 name: "Saint Medrald"
 honorific: Saint
-title: "Saint Medrald"
 summary: "Benedictine monk at Saint-Evroult, Ouche, France. Abbot of Vendome, France in the mid-9th century."
 searchAliases:
   - "Merald"

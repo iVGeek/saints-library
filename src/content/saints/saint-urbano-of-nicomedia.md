@@ -1,7 +1,6 @@
 ---
 name: "Saint Urbano of Nicomedia"
 honorific: Saint
-title: "Saint Urbano of Nicomedia"
 summary: "Martyred in the persecutions of Valens."
 died: "locked on a boat which was then set on fire on the shore of Nicomedia, Bithynia (in modern Turkey)"
 deathPlace: "Bithynia (modern Turkey)"

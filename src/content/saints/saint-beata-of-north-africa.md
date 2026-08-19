@@ -1,7 +1,6 @@
 ---
 name: "Saint Beata of North Africa"
 honorific: Saint
-title: "Saint Beata of North Africa"
 summary: "Martyred in North Africa."
 region: "Africa"
 feastDay:

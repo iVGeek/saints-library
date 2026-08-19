@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Barcelona"
 honorific: Saint
-title: "Saint Victor of Barcelona"
 summary: "Priest. Bishop of Barcelona, Spain. Martyr."
 searchAliases:
   - "Vittore"

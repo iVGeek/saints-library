@@ -1,7 +1,6 @@
 ---
 name: "Saint Nisia of Africa"
 honorific: Saint
-title: "Saint Nisia of Africa"
 summary: "Martyr. No other detail have survived."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"

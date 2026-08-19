@@ -1,7 +1,6 @@
 ---
 name: "Saint Gilbert of Meaux"
 honorific: Saint
-title: "Saint Gilbert of Meaux"
 summary: "Studied at Saint Quentin. Archdeacon and then bishop of Meaux, France in 995."
 deathYear: 1009
 born: "Vermandois, France"

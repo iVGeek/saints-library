@@ -1,7 +1,6 @@
 ---
 name: "Saint Aleydis of Schaerbeek"
 honorific: Saint
-title: "Saint Aleydis of Schaerbeek"
 summary: "At age seven Aleydis was sent to the Cistercian convent of Camera Sanctae Mariae to receive an education; she stayed the rest of her life. In adolescence she developed leprosy and was isolated from the community; the spirit with which she bore her illness served as an example to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aleydis-of-Schaerbeek1.jpg"
 searchAliases:

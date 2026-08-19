@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavian of Civitavecchia"
 honorific: Saint
-title: "Saint Flavian of Civitavecchia"
 summary: "Roman deputy prefect. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Flavian of Civita Vecchia"

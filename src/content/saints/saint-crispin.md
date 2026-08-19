@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispin"
 honorific: Saint
-title: "Saint Crispin"
 summary: "Member of the imperial Roman nobility. Brother of Saint Crispian with whom he evangelized Gaul in the middle 3rd century. Worked from Soissons, France, they preached in the streets by day, made shoes by night. Their charity, piety, and contempt of material things impressed the lo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Crispin-and-Saint-Crispian.jpg"
 searchAliases:

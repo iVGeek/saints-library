@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabina of Caëstre"
 honorific: Saint
-title: "Saint Sabina of Caëstre"
 summary: "Born a princess, the daughter of King Genolfo of Mercia (in modern England); sister of Saint Elfrida and Saint Edith. Converting to Christianity, she renounced the marriage that her father had arranged, and with her sisters, left for a pilgrimage to Rome, Italy. After spending th"
 searchAliases:
   - "Sabina of Cassel"

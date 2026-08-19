@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rachele Ambrosini"
 honorific: Venerable
-title: "Venerable Rachele Ambrosini"
 summary: "Young, single lay woman in the diocese of Benevento, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Rachele-Ambrosini.jpg"
 birthYear: 1925

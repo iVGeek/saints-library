@@ -1,7 +1,6 @@
 ---
 name: "Saint Digna of Augsburg"
 honorific: Saint
-title: "Saint Digna of Augsburg"
 summary: "Companion of Saint Hilaria of Augsburg on her trip to her mother's tomb, she was arrested and executed in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304"

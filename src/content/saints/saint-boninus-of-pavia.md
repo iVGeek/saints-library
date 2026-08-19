@@ -1,7 +1,6 @@
 ---
 name: "Saint Boninus of Pavia"
 honorific: Saint
-title: "Saint Boninus of Pavia"
 summary: "Martyr."
 died: "Pavia, Italy, date unknown"
 deathPlace: "Italy, date unknown"

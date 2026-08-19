@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fransis Masabki"
 honorific: Blessed
-title: "Blessed Fransis Masabki"
 summary: "Married layman in the archeparchy of Damascus of the Maronites. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Three-Martyrs-of-Damascus.jpg"
 deathYear: 1860

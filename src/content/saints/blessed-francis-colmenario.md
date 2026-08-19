@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Colmenario"
 honorific: Blessed
-title: "Blessed Francis Colmenario"
 summary: "Discalced Franciscan friar. Priest. Missionary to the West Indies and Guatemala, serving for 35 years. First Franciscan vicar of Guatemala in 1561. When he preached in a new town, he would install a cross at each of its boundary corners."
 searchAliases:
   - "Francis ColmenarFrancisco…"

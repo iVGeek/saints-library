@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Vigne"
 honorific: Blessed
-title: "Blessed Pierre Vigne"
 summary: "One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late in his teens he received a sudden, active awar"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Pierre_vigne.jpg"
 searchAliases:

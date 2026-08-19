@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciszek Dachtera"
 honorific: Blessed
-title: "Blessed Franciszek Dachtera"
 summary: "Priest in the archdiocese of Gniezno, Poland. Prefect of the secondary school in Bydgoszcz, Poland. Arrested on 17 September 1939 during the Nazi occupation, he was imprisoned in several place before ending in the Dachau concentration camp where he was tortured and used in “medic"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Franiszek_Dachtera_monument.jpg/960px-Franiszek_Dachtera_monument.jpg"
 birthYear: 1910

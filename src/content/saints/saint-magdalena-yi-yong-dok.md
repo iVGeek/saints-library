@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Yi Yong-Dok"
 honorific: Venerable
-title: "Saint Magdalena Yi Yong-Dok"
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Magdallena Yi Yeong-Deok"

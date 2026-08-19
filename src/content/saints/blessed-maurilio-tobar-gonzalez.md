@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maurilio Tobar González"
 honorific: Blessed
-title: "Blessed Maurilio Tobar González"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

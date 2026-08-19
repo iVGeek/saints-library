@@ -1,7 +1,6 @@
 ---
 name: "Blessed Saturnino Sanz y Sanz"
 honorific: Blessed
-title: "Blessed Saturnino Sanz y Sanz"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Pablo de la Cruz"

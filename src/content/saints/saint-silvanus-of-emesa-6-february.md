@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Emesa"
 honorific: Saint
-title: "Saint Silvanus of Emesa"
 summary: "Bishop of Emesa, Phoenicia for 40 years. Martyred in the persecutions of Maximian."
 searchAliases:
   - "Silvano"

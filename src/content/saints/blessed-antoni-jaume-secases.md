@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Jaume Secases"
 honorific: Blessed
-title: "Blessed Antoni Jaume Secases"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jaume Berti"

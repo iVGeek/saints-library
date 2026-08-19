@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedetto Menni"
 honorific: Venerable
-title: "Saint Benedetto Menni"
 summary: "Son of Luigi Menni and Luisa Figini, the fifth of fifteen children in the family. Brother in the Order of Saint John of God Hospitaler. Studied philosophy and theology at the Seminary of Lodi, Italy and then in the Gregorian Pontifical University of Rome, Italy. Ordained in 1866."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedetto-Menni.jpg"
 searchAliases:

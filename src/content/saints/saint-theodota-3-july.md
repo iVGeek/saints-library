@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodota"
 honorific: Saint
-title: "Saint Theodota"
 summary: "Imprisoned, tortured and martyred in the persecutions of Trajan. Saint Hyacinth ministered to her in prison."
 deathYear: 110
 died: "beheaded c.110, location unknown"

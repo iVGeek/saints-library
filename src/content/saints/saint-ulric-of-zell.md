@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulric of Zell"
 honorific: Saint
-title: "Saint Ulric of Zell"
 summary: " Pilgrim to Rome, Italy; wh Born wealthy. Suffered from eye trouble from an early age. Page at the court of Empress Agnes. Monk. Ordained as a deacon by his uncle Notker, bishop of Freising, Germany. Archdeacon and cathedral provost. Gave away much of his fortune to help the poor."
 searchAliases:
   - "Ulric of Cluny"

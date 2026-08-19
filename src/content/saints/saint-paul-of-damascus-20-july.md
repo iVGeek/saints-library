@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Damascus"
 honorific: Saint
-title: "Saint Paul of Damascus"
 summary: "Martyr."
 born: "Syria"
 died: "Damascus, Syria, date unknown"

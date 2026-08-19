@@ -1,7 +1,6 @@
 ---
 name: "Saint Narseus of Alexandria"
 honorific: Saint
-title: "Saint Narseus of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Narsee"

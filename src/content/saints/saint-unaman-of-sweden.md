@@ -1,7 +1,6 @@
 ---
 name: "Saint Unaman of Sweden"
 honorific: Saint
-title: "Saint Unaman of Sweden"
 summary: "Nephew of Saint Sigfrid. Monk. Missionary to Sweden with Sigfrid. Martyred by pagans."
 deathYear: 1040
 died: "c.1040 in Sweden"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ursus of Troyes"
 honorific: Saint
-title: "Saint Ursus of Troyes"
 summary: "Priest. Bishop of Troyes, France in the late 4th and early 5th centuries."
 searchAliases:
   - "Orso"

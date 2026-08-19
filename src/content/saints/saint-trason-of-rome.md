@@ -1,7 +1,6 @@
 ---
 name: "Saint Trason of Rome"
 honorific: Saint
-title: "Saint Trason of Rome"
 summary: "Martyred in the persecutions of Diocletian for ministering to Christian prisoners."
 searchAliases:
   - "Traso"

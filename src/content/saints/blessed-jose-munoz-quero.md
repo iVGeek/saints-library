@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Muñoz Quero"
 honorific: Blessed
-title: "Blessed José Muñoz Quero"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

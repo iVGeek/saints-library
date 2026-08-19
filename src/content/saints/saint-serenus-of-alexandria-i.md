@@ -1,7 +1,6 @@
 ---
 name: "Saint Serenus of Alexandria"
 honorific: Saint
-title: "Saint Serenus of Alexandria"
 summary: "Spiritual student of Origen. Martyred in the persecutions of Severus."
 searchAliases:
   - "Sereno"

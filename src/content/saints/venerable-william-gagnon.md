@@ -1,7 +1,6 @@
 ---
 name: "Venerable William Gagnon"
 honorific: Venerable
-title: "Venerable William Gagnon"
 summary: "As a young man, William felt a call to religious life, and after a six year search, he joined the Hospitallers of Saint John of God in 1930. Hospitaller provincial of Canada in 1941. Assigned to Indochina (modern Vietnam) in December 1951, he founded the Hospitallers province the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-William-Gagnon.jpg"
 birthYear: 1905

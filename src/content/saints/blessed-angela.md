@@ -1,7 +1,6 @@
 ---
 name: Blessed Angela Bartolomea dei Ranzi
 honorific: Blessed
-title: Blessed Angela Bartolomea dei Ranzi
 summary: "15th century Augustinian nun at the convent of Blessed Michela in Vercelli, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Angela_of_Foligno_1.jpg/330px-Angela_of_Foligno_1.jpg"
 imageAlt: Portrait of Blessed Angela Bartolomea dei Ranzi

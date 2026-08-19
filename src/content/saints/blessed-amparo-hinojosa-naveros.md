@@ -1,7 +1,6 @@
 ---
 name: "Blessed Amparo Hinojosa Naveros"
 honorific: Blessed
-title: "Blessed Amparo Hinojosa Naveros"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Amparo-Hinojosa-Naveros.jpg"
 searchAliases:

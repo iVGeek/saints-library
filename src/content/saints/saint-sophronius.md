@@ -1,7 +1,6 @@
 ---
 name: "Saint Sophronius of Jerusalem"
 honorific: Saint
-title: "Saint Sophronius of Jerusalem"
 summary: "Travelled widely in the East and West. Taught rhetoric. Monk in Palestine at several houses, including at Bethlehem. Lived several years at Alexandria, Egypt near Saint John the Almoner. Ecclesiastical writer of distinction. Poet and extensive correspondent; some of his writings"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Athonite_Fresco_Icon_of_Saint_Sophronios_of_Jerusalem.jpg"
 searchAliases:

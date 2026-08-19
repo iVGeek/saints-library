@@ -1,7 +1,6 @@
 ---
 name: "Saint Lydwina of Schiedam"
 honorific: Saint
-title: "Saint Lydwina of Schiedam"
 summary: "Her father was a poor noble, and her mother a poor commoner. Lydwina early evinced a devotion of Our Lady of Schiedam. Injured in an ice-skating accident at age 16, the broken rib caused gangrene to set in, and Lydwina became paralyzed and suffered for decades. She spent her time"
 image: "http://catholicsaints.info/wp-content/uploads/saint-lydwina-of-schiedam.jpg"
 searchAliases:

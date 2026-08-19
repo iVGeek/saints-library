@@ -1,7 +1,6 @@
 ---
 name: "Venerable Patrick Peyton"
 honorific: Venerable
-title: "Venerable Patrick Peyton"
 summary: "Immigrant to the United States. Ordained at Notre Dame University in 1941. Despite ongoing health problems, he entered the Congregation of Holy Cross. He recovered his health, attributed the healing to the intercession of the Virgin Mary, and was moved to establish the Rosary Cru"
 image: "http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/father-patrick-peyton.jpg"
 birthYear: 1909

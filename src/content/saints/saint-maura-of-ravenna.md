@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura of Ravenna"
 honorific: Saint
-title: "Saint Maura of Ravenna"
 summary: "Nurse to Saint Fusca of Ravenna. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Ravenna, Italy"

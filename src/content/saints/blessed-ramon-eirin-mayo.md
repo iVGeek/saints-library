@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Eirin Mayo"
 honorific: Blessed
-title: "Blessed Ramón Eirin Mayo"
 summary: "Studied at the Salesian college in La Coruña, Spain. Member of the Salesians, taking his vows on 10 October 1930. Studied in Italy and taught in Madrid. When his school was shut down in the anti-Catholic persecutions of the Spanish Civil War, he worked in a hospital until capture"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Eirin-Mayo.jpg"
 birthYear: 1911

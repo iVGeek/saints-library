@@ -1,7 +1,6 @@
 ---
 name: "Saint Eucherius of Orléans"
 honorific: Saint
-title: "Saint Eucherius of Orléans"
 summary: "Born to the nobility, Eucherius was a very pious in youth, and highly educated; legend says that his pregnant mother had a dream of an angel who told her that her unborn son would be a holy bishop, and blessed them both. He took the cowl in Jumièges, Normandy, France in 714. When"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sint-Truiden%2C_OLV-kerk%2C_schatkamer12.jpg/960px-Sint-Truiden%2C_OLV-kerk%2C_schatkamer12.jpg"
 searchAliases:

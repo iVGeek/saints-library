@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Arbé Barrón"
 honorific: Blessed
-title: "Blessed Martín Arbé Barrón"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Ismael Ricardo"

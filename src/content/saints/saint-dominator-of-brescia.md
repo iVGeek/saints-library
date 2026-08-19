@@ -1,7 +1,6 @@
 ---
 name: "Saint Dominator of Brescia"
 honorific: Saint
-title: "Saint Dominator of Brescia"
 summary: "Bishop of Brescia, Italy."
 deathYear: 495
 died: "c.495"

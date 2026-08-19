@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius of Africa"
 honorific: Saint
-title: "Saint Honorius of Africa"
 summary: "One of a group of Christians martyred together in Africa, date unknown, exact location unknown."
 region: "Africa"
 feastDay:

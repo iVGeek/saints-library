@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giulio Bocci"
 honorific: Venerable
-title: "Venerable Giulio Bocci"
 summary: "Giulio joined the Order of Friars Minor Capuchin at the convent at Cingoli, Italy at the age of 13; he made his solemn profession on 2 November 1907. Ordained a priest on 21 December 1907. Father Giuseppe was especially devoted to spritual direction, encouraging religious vocatio"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giulio-Bocci.jpg"
 searchAliases:

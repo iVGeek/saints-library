@@ -1,7 +1,6 @@
 ---
 name: "Saint Colman of Clonard"
 honorific: Saint
-title: "Saint Colman of Clonard"
 summary: "Related to Saint Finnian of Clonard. Monk. Abbot of Clonard Abbey."
 searchAliases:
   - "Colman moccu Thelduib"

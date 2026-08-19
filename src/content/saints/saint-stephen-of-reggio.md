@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Reggio"
 honorific: Saint
-title: "Saint Stephen of Reggio"
 summary: "First bishop of Reggio, Italy, ordained by Saint Paul the Apostle in the 1st century. Martyred in the persecutions of Nero."
 searchAliases:
   - "Stephen of Nicaea"

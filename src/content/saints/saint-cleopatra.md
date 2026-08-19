@@ -1,7 +1,6 @@
 ---
 name: "Saint Cleopatra"
 honorific: Saint
-title: "Saint Cleopatra"
 summary: "Married, a mother, and living in Kemet, Upper Egypt, Cleopatra witnessed the martyrdom of Saint Varus of Kemet, and developed a great devotion to him. When her husband died, Cleopatra took both his body and the relics of Saint Varus to Daraa, Syria for burial in the family tomb."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg"
 deathYear: 327

@@ -1,7 +1,6 @@
 ---
 name: "Saint Spinulus"
 honorific: Saint
-title: "Saint Spinulus"
 summary: "Monk at Moyenmoutier, France. Friend of Saint Hidulf. Founded the monastery of Bégon-Celle (now known as Saint-Blasien) in France."
 searchAliases:
   - "Spin"

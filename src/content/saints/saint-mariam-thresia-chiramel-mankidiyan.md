@@ -1,7 +1,6 @@
 ---
 name: "Saint Mariam Thresia Chiramel Mankidiyan"
 honorific: Venerable
-title: "Saint Mariam Thresia Chiramel Mankidiyan"
 summary: "Made a vow of private chastity at age 10. Her mother died when Mariam was 12, and she dedicated herself to prayer, to the service of the poor and sick, and to the comfort of lonely people in her parish. With three friends, she formed a prayer group, and engaged in apostolic work"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Thresia-Chiramel-Mankidiyan.jpg"
 searchAliases:

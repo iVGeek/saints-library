@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leo Kurobyoe Nakamura"
 honorific: Blessed
-title: "Blessed Leo Kurobyoe Nakamura"
 summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Franciscus"

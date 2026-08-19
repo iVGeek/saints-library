@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitiva of Camerino"
 honorific: Saint
-title: "Saint Primitiva of Camerino"
 summary: "Convert. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 deathYear: 251

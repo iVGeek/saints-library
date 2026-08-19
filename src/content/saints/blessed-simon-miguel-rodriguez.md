@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simón Miguel Rodríguez"
 honorific: Blessed
-title: "Blessed Simón Miguel Rodríguez"
 summary: "Franciscan lay brother at the college in Chipiona. Friar Minor, taking the name Simón Miguel and making his solemn vows on 26 June 1935 in the convent of Fuenteobejuna where he served as a cook until martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

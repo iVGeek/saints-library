@@ -1,7 +1,6 @@
 ---
 name: "Saint Disibod of Disenberg"
 honorific: Saint
-title: "Saint Disibod of Disenberg"
 summary: "Disibod travelled from his native Ireland c.640 to live as a pilgim and a hermit on the banks of the Rhine River near the city of Mainz (in modern Germany); tradition says that his travelling companions were named Giswald, Clement and Sallust. His reputation for holiness and wisd"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Disibod-of-Disenberg.jpg"
 searchAliases:

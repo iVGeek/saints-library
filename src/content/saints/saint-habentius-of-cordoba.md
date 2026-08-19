@@ -1,7 +1,6 @@
 ---
 name: "Saint Habentius of Cordoba"
 honorific: Saint
-title: "Saint Habentius of Cordoba"
 summary: "Monk at the monastery of Saint Christopher in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
 searchAliases:
   - "Abenzio"

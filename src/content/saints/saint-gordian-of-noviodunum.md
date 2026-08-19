@@ -1,7 +1,6 @@
 ---
 name: "Saint Gordian of Noviodunum"
 honorific: Saint
-title: "Saint Gordian of Noviodunum"
 summary: "Martyr."
 died: "Noviodunum, Lower Moesia (near modern Isaccea, Romania)"
 deathPlace: "Lower Moesia (near modern Isaccea, Romania)"

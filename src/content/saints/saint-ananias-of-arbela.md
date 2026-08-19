@@ -1,7 +1,6 @@
 ---
 name: "Saint Ananias of Arbela"
 honorific: Saint
-title: "Saint Ananias of Arbela"
 summary: "Layman. Martyr. No other information has survived."
 region: "England"
 feastDay:

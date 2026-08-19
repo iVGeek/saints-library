@@ -1,7 +1,6 @@
 ---
 name: "Saint Eparchius of Caesarea"
 honorific: Saint
-title: "Saint Eparchius of Caesarea"
 summary: "Martyred by Julian the Apostate."
 region: "England"
 feastDay:

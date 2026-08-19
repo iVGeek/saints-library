@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Oliva Bonaldo"
 honorific: Venerable
-title: "Venerable Maria Oliva Bonaldo"
 summary: "Founded the Institute of the Daughters of the Church."
 searchAliases:
   - "Maria Oliva of the Mystical Body"

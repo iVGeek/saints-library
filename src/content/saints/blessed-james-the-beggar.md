@@ -1,7 +1,6 @@
 ---
 name: "Blessed James the Beggar"
 honorific: Blessed
-title: "Blessed James the Beggar"
 summary: "Supporter and advocate for the poor and oppressed in the 13th century."
 searchAliases:
   - "James Limosnero"

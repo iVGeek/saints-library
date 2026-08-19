@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Latros"
 honorific: Saint
-title: "Saint Paul of Latros"
 summary: "Son of a Byzantine army officer who died in battle. After his mother's death sometime later, he and his brother Basil became monks at the monastery on Mount Olympus, Greece. Paul later left to become a hermit on Mount Latros, Bithynia, Asia Minor. His reputation for holiness spre"
 searchAliases:
   - "Paul the Younger"

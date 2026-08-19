@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Joaquín Esnaola Urteaga"
 honorific: Blessed
-title: "Blessed José Joaquín Esnaola Urteaga"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936

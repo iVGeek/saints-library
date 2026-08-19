@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gamelbert of Michaelsbuch"
 honorific: Blessed
-title: "Blessed Gamelbert of Michaelsbuch"
 summary: "Born to a wealthy family, and may have been a member of the nobility. Pilgrim to Rome, Italy. Parish priest in Michaelsbuch, Germany for over 50 years. Founded the Benedictine Metten Abbey in Bavaria, Germany. Uncle of its first abbot, Blessed Utto of Metten."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Michaelsbuch-Gamelbert-Gedenkstein.jpg/960px-Michaelsbuch-Gamelbert-Gedenkstein.jpg"
 birthYear: 720

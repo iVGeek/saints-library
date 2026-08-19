@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Prusa"
 honorific: Saint
-title: "Saint Paul of Prusa"
 summary: "Bishop of Prusa, Bithynia (part of modern Turkey). Opposed the iconoclasts, and for his trouble he was exiled to Egypt where he spent the rest of his life."
 searchAliases:
   - "Paul of Pelusium"

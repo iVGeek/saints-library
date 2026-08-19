@@ -1,7 +1,6 @@
 ---
 name: "Saint Zenobius of Sidon"
 honorific: Saint
-title: "Saint Zenobius of Sidon"
 summary: "Priest. Martyred in the persecutions of Diocletian for encourging condemned Christians not to abandoned their faith."
 searchAliases:
   - "Zenobio"

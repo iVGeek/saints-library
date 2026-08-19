@@ -1,7 +1,6 @@
 ---
 name: "Saint Cleopas"
 honorific: Saint
-title: "Saint Cleopas"
 summary: "One of the two disciples of the Way to Emmaus. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Michelangelo_Caravaggio_016.jpg/960px-Michelangelo_Caravaggio_016.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Shanxi"
 honorific: Saint
-title: "Martyrs of Shanxi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg"
 deathYear: 1900
 died: "beheaded on 9 July 1900 at Taiyuanfu, China"

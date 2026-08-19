@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perfecto Del Río Páramo"
 honorific: Blessed
-title: "Blessed Perfecto Del Río Páramo"
 summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego of Narbonne"
 honorific: Blessed
-title: "Blessed Diego of Narbonne"
 summary: "As a young man he felt a call to religious life, and joined the Mercedarians. He attracted so much attention as a miracle worker that for a while he lived a cloistered life at the El Puig monastery at Valencia, Spain. In north Africa he ransomed 108 Christians from Muslim slavery"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-of-Narbonne.jpg"
 born: "in Spain of French immigrant parents"

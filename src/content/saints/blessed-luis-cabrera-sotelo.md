@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Cabrera Sotelo"
 honorific: Blessed
-title: "Blessed Luis Cabrera Sotelo"
 summary: "Member of the Franciscan Friars Minor (Observants). Priest. Martyr."
 birthYear: 1574
 deathYear: 1624

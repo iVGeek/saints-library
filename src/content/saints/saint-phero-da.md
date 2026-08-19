@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Ða"
 honorific: Venerable
-title: "Saint Phêrô Ða"
 summary: "Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Carpenter by trade, he served as sacristan at his parish. Imprisoned, tortured and executed in the persecutions of emperor Tu Duc. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

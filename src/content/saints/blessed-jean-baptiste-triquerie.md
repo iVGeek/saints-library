@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Triquerie"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Triquerie"
 summary: "Franciscan Conventual priest. Martyred in the French Revolution."
 birthYear: 1737
 deathYear: 1794

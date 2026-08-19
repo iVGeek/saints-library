@@ -1,7 +1,6 @@
 ---
 name: "Blessed Didacus Tsuzu"
 honorific: Blessed
-title: "Blessed Didacus Tsuzu"
 summary: "Layman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Kyoto (Miyako), Japan"

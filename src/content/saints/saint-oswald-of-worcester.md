@@ -1,7 +1,6 @@
 ---
 name: "Saint Oswald of Worcester"
 honorific: Saint
-title: "Saint Oswald of Worcester"
 summary: "Oswald's parents came from Denmark to England before his birth. The boy was educated by his uncle, Saint Odo the Good. Priest in the diocese of Winchester, England. Benedictine monk at Fleury-sur-Loire, France. Bishop of Worcester, England in 962. Worked with Saint Dunstan and Sa"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Oswald_and_Eadnoth.jpg"
 deathYear: 992

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Dalmau Rosich"
 honorific: Blessed
-title: "Blessed Antoni Dalmau Rosich"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antoni-Dalmau-Rosich.jpg"
 birthYear: 1912

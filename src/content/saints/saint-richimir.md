@@ -1,7 +1,6 @@
 ---
 name: "Saint Richimir"
 honorific: Saint
-title: "Saint Richimir"
 summary: "Benedictine monk. With a group of disciple brother monks, and with the support of the bishop of Le Mans, France, he founded the Benedictine monastery now known as Saint-Rigomer-des-Bois in the Loire Valley of France, and served as its first abbot."
 searchAliases:
   - "Richimirus"

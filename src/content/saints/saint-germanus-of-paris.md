@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Paris"
 honorific: Saint
-title: "Saint Germanus of Paris"
 summary: "Priest, ordained by Saint Agrippinus of Autun. Abbot. Bishop of Paris, France in 555. Taught and ordained Saint Bertrand of Le Mans. Spiritual teacher of Saint Droctoveus. Cured King Childebert I from an unnamed illness, and converted him from a misspent life. The king then built"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Germanus-of-Paris.jpg"
 searchAliases:

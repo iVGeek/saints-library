@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ricardo Marcos Reguero"
 honorific: Blessed
-title: "Blessed Ricardo Marcos Reguero"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

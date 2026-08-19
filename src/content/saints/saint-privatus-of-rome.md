@@ -1,7 +1,6 @@
 ---
 name: "Saint Privatus of Rome"
 honorific: Saint
-title: "Saint Privatus of Rome"
 summary: "Martyred in the persecutions of Alexander Severus."
 deathYear: 223
 died: "scourged to death in 223 in Rome, Italy"

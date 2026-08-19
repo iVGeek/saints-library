@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisca Pons Sarda"
 honorific: Blessed
-title: "Blessed Francisca Pons Sarda"
 summary: "Member of the Carmelite Missionaries, beginning her novitiate in Barcelona, Spain in 1907 at age 26; she made her solemn profession in 1913. During periods of anti-Christian activity in Spain, her family would urge her to return home, but she insisted that life, or death, with he"
 searchAliases:
   - "Sister Gabriela of Saint John of the Cross"

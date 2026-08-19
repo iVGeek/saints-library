@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Cordoba"
 honorific: Saint
-title: "Saint Faustus of Cordoba"
 summary: "Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba."
 deathYear: 304
 died: "burned to death in 304 in Cordoba, Spain"

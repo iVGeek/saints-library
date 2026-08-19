@@ -1,7 +1,6 @@
 ---
 name: "Saint Muirchu"
 honorific: Saint
-title: "Saint Muirchu"
 summary: "Son of Cogitosus. Writer whose works include biographies of Saint Brigid of Ireland and Saint Patrick."
 searchAliases:
   - "Maccutinus"

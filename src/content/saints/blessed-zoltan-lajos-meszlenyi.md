@@ -1,7 +1,6 @@
 ---
 name: "Blessed Zoltán Lajos Meszlényi"
 honorific: Blessed
-title: "Blessed Zoltán Lajos Meszlényi"
 summary: "Second of five children in a devoutly Catholic family; his father was a school teacher and principal. Graduated from a Benedictine high school in Esztergom, Hungary in 1909. With the support of Cardinal Kolos Vaszary, Zoltán then a studied in Rome, Italy at the Collegium Germanic"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-zoltan-lajos-meszlenyi/venerable-zoltan-lajos-meszlenyi-01.jpg"
 birthYear: 1892

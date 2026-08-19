@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingo Montoya Elorza"
 honorific: Blessed
-title: "Blessed Domingo Montoya Elorza"
 summary: "Franciscan priest. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

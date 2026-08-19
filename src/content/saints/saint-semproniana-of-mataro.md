@@ -1,7 +1,6 @@
 ---
 name: "Saint Semproniana of Mataró"
 honorific: Saint
-title: "Saint Semproniana of Mataró"
 summary: "Blood sister of Saint Juliana of Mataró. Baptized by and spiritual student of Saint Cugat del Valles. Nun. Imprisoned and martyred in the persecutions of Diocletian for trying to bury the martyred body of Saint Cugat."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Semproniana.jpg"
 deathYear: 304

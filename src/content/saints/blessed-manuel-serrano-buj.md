@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Serrano Buj"
 honorific: Blessed
-title: "Blessed Manuel Serrano Buj"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Eduardo Maria"

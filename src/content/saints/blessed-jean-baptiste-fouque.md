@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Fouque"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Fouque"
 summary: "Jean-Baptiste grew up in a pious household, the son of Louis Fouque and Adèle Anne Remuzat. He studied at the school run by Servant of God Joseph-Marie Timon-David. Ordained a priest in Marseilles, France on 10 June 1876. Parish priest in the French cities of Auriol and La Major"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Abb%C3%A9_Jean-Baptiste_Fouque.jpg"
 searchAliases:

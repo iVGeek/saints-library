@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundulus of Carthage"
 honorific: Saint
-title: "Saint Secundulus of Carthage"
 summary: "Catechumen. Martyr."
 deathYear: 203
 died: "mauled by wild beasts and beheaded 7 March 203 at Carthage, North Africa"

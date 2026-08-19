@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cayetano García Martínez"
 honorific: Blessed
-title: "Blessed Cayetano García Martínez"
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

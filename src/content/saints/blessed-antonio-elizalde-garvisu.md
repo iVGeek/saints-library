@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Elizalde Garvisu"
 honorific: Blessed
-title: "Blessed Antonio Elizalde Garvisu"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

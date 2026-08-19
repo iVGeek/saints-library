@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Drury"
 honorific: Blessed
-title: "Blessed Robert Drury"
 summary: "Studied at the English College, Rheims, France in 1588, and the English College, Valladolid, Spain in 1590. Ordained at Valladolid in 1593. Returned to England in 1593 to minister to covert Catholics around London, England. One of the signers of the loyal address of 31 January 16"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Robert-Drury.jpg"
 searchAliases:

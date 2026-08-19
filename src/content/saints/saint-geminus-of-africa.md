@@ -1,7 +1,6 @@
 ---
 name: "Saint Geminus of Africa"
 honorific: Saint
-title: "Saint Geminus of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Gemino"

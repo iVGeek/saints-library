@@ -1,7 +1,6 @@
 ---
 name: "Saint Jeremias of Cordoba"
 honorific: Saint
-title: "Saint Jeremias of Cordoba"
 summary: "Friend of and fellow student with Saint Emilas at Cordova, Spain during a time when the city was under Moorish control. The two were very open about their Christianity. Martyr."
 searchAliases:
   - "Jeremy"

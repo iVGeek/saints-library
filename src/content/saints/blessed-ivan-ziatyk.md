@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ivan Ziatyk"
 honorific: Blessed
-title: "Blessed Ivan Ziatyk"
 summary: "Greek Catholic. Graduated high school in 1919, and obtained a degree in theology in 1923. Ordained in 1923. Taught catechism and theology, and served as prefect of students at the seminary at Peremysyl, Poland from 1925 to 1935. Joined the Redemptorists in 1935. Noted preacher wh"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ivan-Ziatyk.jpg"
 searchAliases:

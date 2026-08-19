@@ -1,7 +1,6 @@
 ---
 name: "Saint Matrona of Barcelona"
 honorific: Saint
-title: "Saint Matrona of Barcelona"
 summary: "Girl martyred in Rome, Italy, date unknown. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/Martona-of-Barcelona.jpg"
 searchAliases:

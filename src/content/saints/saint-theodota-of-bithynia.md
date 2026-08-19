@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodota of Bithynia"
 honorific: Saint
-title: "Saint Theodota of Bithynia"
 summary: "Born to the nobility. Married, mother of three, Saints Evodius, Hermogenes and Callista. Widow. When she refused an offer of marriage by imperial prefect Leucatius during the persecutions of Diocletian, he denounced her as a Christian, had her arrested, beaten and executed. Marty"
 searchAliases:
   - "Teodota"

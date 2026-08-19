@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingo Alonso De Frutos"
 honorific: Blessed
-title: "Blessed Domingo Alonso De Frutos"
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

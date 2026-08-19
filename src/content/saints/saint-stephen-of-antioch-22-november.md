@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Antioch"
 honorific: Saint
-title: "Saint Stephen of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch, Pisidia (in modern Turkey)"
 deathPlace: "Pisidia (modern Turkey)"

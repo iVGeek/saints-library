@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Angela Astorch"
 honorific: Blessed
-title: "Blessed Maria Angela Astorch"
 summary: "Raised in a pious family. Poor Clare Capuchin nun at Barcelona, Spain, entering the Order on 16 September 1603 and making her religious profession on 8 September 1609. Novice mistress and director of formation. Founded a monastery in Zaragoza, Spain on 9 May 1614. Abbess in 1627."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astorch.jpg"
 searchAliases:

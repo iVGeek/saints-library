@@ -1,7 +1,6 @@
 ---
 name: "Saint Terenzio of Imola"
 honorific: Saint
-title: "Saint Terenzio of Imola"
 summary: "Terenzio grew up beside the cathedral in Imola, Italy, and early saw life in the Church as just part of life in general. Deacon. He felt called to move to Faenza, Italy where he lived near the church of Santa Croce, working with the poor and serving at Mass. He one day healed a b"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Terenzio-of-Imola.jpg"
 searchAliases:

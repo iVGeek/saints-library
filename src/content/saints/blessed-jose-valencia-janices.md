@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Valencia Janices"
 honorific: Blessed
-title: "Blessed José Valencia Janices"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Benigno José"

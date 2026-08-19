@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenia Ravasco"
 honorific: Blessed
-title: "Blessed Eugenia Ravasco"
 summary: "Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was three, her father moved with some of the children to Genoa, Italy to find work, and Eugenia was raised in Milan by her pious aunt Marietta Anselmi. The family reu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Ravasco.jpg"
 birthYear: 1845

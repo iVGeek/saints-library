@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabas the Goth of Rome"
 honorific: Saint
-title: "Saint Sabas the Goth of Rome"
 summary: "Military officer of Gothic descent. Tortured and murdered with 70 unnamed companions in the persecutions of Aurelian for the crime of visiting Christians in prison. Martyr."
 searchAliases:
   - "Sabas Stratelates"

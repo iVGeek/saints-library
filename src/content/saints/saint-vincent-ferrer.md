@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent Ferrer"
 honorific: Saint
-title: "Saint Vincent Ferrer"
 summary: "Fourth child of the Anglo-Scottish nobleman William Stewart Ferrer and his Spanish wife, Constantia Miguel; his father is reported to have had a dream in which he was told that Vincent would be a world famous Dominican friar. The boy joined the Dominicans in 1367. Received his do"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Joan_de_Joanes_-_St_Vincent_Ferrer_-_WGA12062.jpg"
 searchAliases:

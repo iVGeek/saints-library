@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramon Martí Amenós"
 honorific: Blessed
-title: "Blessed Ramon Martí Amenós"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Martí-Amenós.jpg"
 birthYear: 1905

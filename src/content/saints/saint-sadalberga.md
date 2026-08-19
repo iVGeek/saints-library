@@ -1,7 +1,6 @@
 ---
 name: "Saint Sadalberga"
 honorific: Saint
-title: "Saint Sadalberga"
 summary: "Born to the nobility, the daughter of Duke Gundoin of Alsace; sister of Saint Bodo. She went blind as a child, but was healed by Saint Eustace of Luxeuil. Married, but widowed after two months. Married to Saint Blandinus of Laon. Mother of five, including Saint Baldwin and Saint"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sadalberga.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mariana of Britonia"
 honorific: Saint
-title: "Saint Mariana of Britonia"
 summary: "Martyred nun."
 searchAliases:
   - "Marina"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenio Artola Sorolla"
 honorific: Blessed
-title: "Blessed Eugenio Artola Sorolla"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Victorico María"

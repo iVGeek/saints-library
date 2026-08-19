@@ -1,7 +1,6 @@
 ---
 name: "Saint Cronan Mochua"
 honorific: Saint
-title: "Saint Cronan Mochua"
 summary: "Educated at Bangor Abbey under Saint Comgall of Bangor. Founded a monastery at Gael, among the Feara Rois of Louth and Monaghan. Travelled to Fore, then Hy-Many in the country of Connaught (all these places are in Ireland). Founded the diocese and abbey of Balla, County Mayo, Ire"
 searchAliases:
   - "Cronan of Balla"

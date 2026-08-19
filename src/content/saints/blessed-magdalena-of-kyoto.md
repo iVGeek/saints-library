@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena of Kyoto"
 honorific: Blessed
-title: "Blessed Magdalena of Kyoto"
 summary: "Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."
 birthYear: 1616
 deathYear: 1619

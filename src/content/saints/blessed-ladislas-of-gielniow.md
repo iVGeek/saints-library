@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ladislas of Gielniów"
 honorific: Blessed
-title: "Blessed Ladislas of Gielniów"
 summary: "Educated at the University of Warsaw, Poland. Joined the Franciscan Order of Friars Minor Observant. Doorkeeper in his monastery. Elected provincial of his Order in 1487 and again in 1496. He sent Franciscan missionaries to Lithuania; their work brought many schismatics back to t"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/%C5%81adys%C5%82aw_z_Gielniowa.PNG"
 searchAliases:

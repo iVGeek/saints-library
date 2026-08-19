@@ -1,7 +1,6 @@
 ---
 name: "Saint Candida"
 honorific: Saint
-title: "Saint Candida"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

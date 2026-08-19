@@ -1,7 +1,6 @@
 ---
 name: "Saint Francesco Saverio Maria Bianchi"
 honorific: Venerable
-title: "Saint Francesco Saverio Maria Bianchi"
 summary: "Studied in Naples, Italy. Joined the Barnabite at age 14 over the objections of his family. Ordained in 1767. Served as the president of two colleges. Noted for his endless ministry to the poor and neglected, his work to prevent girls from turning to prostitution, for his persona"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francesco-Saverio-Maria-Bianchi.jpg"
 searchAliases:

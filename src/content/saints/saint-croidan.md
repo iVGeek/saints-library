@@ -1,7 +1,6 @@
 ---
 name: "Saint Croidan"
 honorific: Saint
-title: "Saint Croidan"
 summary: "Sixth century spiritual student of Saint Petroc in Cornwall."
 region: "England"
 feastDay:

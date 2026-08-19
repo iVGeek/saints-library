@@ -1,7 +1,6 @@
 ---
 name: "Saint Amphilocus of Iconium"
 honorific: Saint
-title: "Saint Amphilocus of Iconium"
 summary: "Cousin and friend of Saint Gregory Nazianus; close friend of Saint Basil the Great. Studied law and rhetoric in Constantinople, and taught rhetoic there. Bishop of Iconium (modern Konya, Turkey) in 374. Fought against heresies of Arianism, the Manichaeans and the Messalians. Atte"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amphilocus-of-Iconium.jpg"
 searchAliases:

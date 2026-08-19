@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Castellet Vinale"
 honorific: Blessed
-title: "Blessed Francisco Castellet Vinale"
 summary: "Joined the Dominicans in Barcelona, Spain at a young age, taking the name Dominic. Priest. Missionary to the Philippines from 1615 to 1621. Missionary to Japan in 1621 during a period of persecution of Christians; he even went into prisons to minister to people imprisoned for the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Castellet-Vinale.jpg"
 searchAliases:

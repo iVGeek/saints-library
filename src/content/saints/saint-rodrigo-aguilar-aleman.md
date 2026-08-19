@@ -1,7 +1,6 @@
 ---
 name: "Saint Rodrigo Aguilar Alemán"
 honorific: Venerable
-title: "Saint Rodrigo Aguilar Alemán"
 summary: "Parish priest in Uniòn de Tula, Mexico. Poet. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rodrigo-Aguilar-Alemán.jpg"
 birthYear: 1875

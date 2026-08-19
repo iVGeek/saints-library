@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas of Saint Hyacinth"
 honorific: Blessed
-title: "Blessed Thomas of Saint Hyacinth"
 summary: "Dominican friar who assisted missionaries in Japan. Catechist. Martyr."
 birthYear: 1598
 deathYear: 1628

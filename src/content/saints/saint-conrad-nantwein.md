@@ -1,7 +1,6 @@
 ---
 name: "Saint Conrad Nantwein"
 honorific: Saint
-title: "Saint Conrad Nantwein"
 summary: "A pious man who stopped at Wolfratshausen, Germany while on pilgrimage to Rome, Italy. There he was falsley accused of abusing a boy; his accuser, the local judge, conducted a mock trial, skipped hearing from witnesses, found Conrad guilty, sentenced him to death, and took all th"
 image: "https://catholicsaints.info/wp-content/uploads/Nantwein_St._Nantwein_736.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Augustalis"
 honorific: Saint
-title: "Saint Augustalis"
 summary: "Bishop in Gaul, possibly in Arles."
 searchAliases:
   - "Augustalus"

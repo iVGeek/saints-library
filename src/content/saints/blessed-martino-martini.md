@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martino Martini"
 honorific: Blessed
-title: "Blessed Martino Martini"
 summary: "Convert to Christianity. He joined the Franciscans, though he never made his solemn profession or became a friar. He did the most menial work around the convent of San Francesco in Lisbon, Portugal, going barefoot, living off little but bread and water, and spending all free time"
 deathYear: 1249
 born: "late 12th century"

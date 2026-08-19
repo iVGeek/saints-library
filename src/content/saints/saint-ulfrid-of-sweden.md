@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulfrid of Sweden"
 honorific: Saint
-title: "Saint Ulfrid of Sweden"
 summary: "Missionary bishop to Germany and Sweden. Martyred for chopping down an idol of the god Thor."
 searchAliases:
   - "Ulfrid of Sverige"

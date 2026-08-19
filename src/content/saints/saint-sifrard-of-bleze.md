@@ -1,7 +1,6 @@
 ---
 name: "Saint Sifrard of Bèze"
 honorific: Saint
-title: "Saint Sifrard of Bèze"
 summary: "Benedictine monk. Killed defending the altar at the Bèze Abbey, C&ocirc;te-d'Or, France against Norman invaders."
 deathYear: 888
 died: "888 at Bèze, C&ocirc;te-d'Or, France"

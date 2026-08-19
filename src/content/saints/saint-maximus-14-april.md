@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Rome"
 honorific: Saint
-title: "Saint Maximus of Rome"
 summary: "Third century martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Valerian-of-Trastevere.jpg"
 died: "martyred in Rome, Italy"

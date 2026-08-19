@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Hart"
 honorific: Blessed
-title: "Blessed William Hart"
 summary: "Raised Protestant. Educated at Lincoln College, Oxford. Convert to Catholicism. Studied for the priesthood at Douai, Rheims, and Rome, Italy. Ordained in 1581, he returned to England to minister to covert Catholics. Betrayed by an apostate in the house of Saint Margaret Clitherow"
 birthYear: 1558
 deathYear: 1583

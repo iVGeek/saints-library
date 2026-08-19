@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leopold of Gaiche"
 honorific: Blessed
-title: "Blessed Leopold of Gaiche"
 summary: "Born to a peasant family, he was a shepherd as a boy. He early showed signs of a religious vocation, and joined the Franciscans at age 19. Ordained in 1757. Taught philosophy and theology. Mission preacher. Minister-Provincial of Umbrian in 1781; his term was noted for insisting"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Leopold-of-Gaiche-1.jpg"
 searchAliases:

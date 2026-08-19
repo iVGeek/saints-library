@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo Cusmano"
 honorific: Blessed
-title: "Blessed Giacomo Cusmano"
 summary: "Fourth of five children born to Giacomo and Magdalene Cusmano; his father worked as a surveyor, and the family was well-off financially. Giacomo's mother died of cholera when the boy was three. He was a pious child, eager for the religious instruction from his father, and showing"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Beato_giacomo_cusmano.jpg"
 searchAliases:

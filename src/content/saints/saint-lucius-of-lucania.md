@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of Lucania"
 honorific: Saint
-title: "Saint Lucius of Lucania"
 summary: "Martyr."
 died: "at Lucania, Italy"
 deathPlace: "Italy"

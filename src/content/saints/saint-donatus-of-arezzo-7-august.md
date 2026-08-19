@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Arezzo"
 honorific: Saint
-title: "Saint Donatus of Arezzo"
 summary: "Educated in Rome, Italy. During the persecutions of Diocletian, he fled from Rome to Arezzo, Italy. There his obvious sanctity and education led to his election as the second bishop of Arezzo in 346. Due to the number of saints named Donatus, there is some confusion about his dea"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Jose_de_Ribera_-The_Miracle_of_Saint_Donatus.JPG"
 searchAliases:

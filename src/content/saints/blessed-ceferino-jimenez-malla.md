@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ceferino Jimenez-Malla"
 honorific: Blessed
-title: "Blessed Ceferino Jimenez-Malla"
 summary: "Lifelong layman. He had little education, and was possibly illiterate, but his native intelligence was obvious to all who knew him, and he was known for his love of nature. Baptised into the Church as an adult. Married to Teresa Jimenez Castro in 1912 at age 51. Adoptive father o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ceferino-Jimenez-Malla.jpg"
 searchAliases:

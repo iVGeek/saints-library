@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcel Denis"
 honorific: Blessed
-title: "Blessed Marcel Denis"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1919
 deathYear: 1961

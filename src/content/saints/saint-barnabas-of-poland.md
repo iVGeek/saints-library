@@ -1,7 +1,6 @@
 ---
 name: "Saint Barnabas of Poland"
 honorific: Saint
-title: "Saint Barnabas of Poland"
 summary: "One of four brothers who became hermits, Benedictine monks and saints."
 deathYear: 1008
 born: "Poland"

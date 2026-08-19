@@ -1,7 +1,6 @@
 ---
 name: "Blessed Germán García y García"
 honorific: Blessed
-title: "Blessed Germán García y García"
 summary: "Young layman in the archdiocese of Burgos, Spain. Martyred in the Spanish Civil War. One of the Martyrs of Suances."
 birthYear: 1912
 deathYear: 1937

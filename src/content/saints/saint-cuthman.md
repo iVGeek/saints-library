@@ -1,7 +1,6 @@
 ---
 name: "Saint Cuthman"
 honorific: Saint
-title: "Saint Cuthman"
 summary: "Poor and pious youth from the south of England. He cared for his invalid mother following his father's death, and worked as a shepherd, spending his time with the flock in prayer. He built a church near his property near Steyning, Sussex, England. Miracle worker in life and after"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cuthman.jpg"
 searchAliases:

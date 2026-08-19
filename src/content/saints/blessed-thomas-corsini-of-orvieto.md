@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Corsini of Orvieto"
 honorific: Blessed
-title: "Blessed Thomas Corsini of Orvieto"
 summary: "Member of the Servites. Served his house as a beggar. Visionary."
 birthYear: 1300
 deathYear: 1343

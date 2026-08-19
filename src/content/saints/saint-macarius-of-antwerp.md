@@ -1,7 +1,6 @@
 ---
 name: "Saint Macarius of Antwerp"
 honorific: Saint
-title: "Saint Macarius of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

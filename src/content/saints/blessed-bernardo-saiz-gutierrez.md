@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardo Sáiz Gutiérrez"
 honorific: Blessed
-title: "Blessed Bernardo Sáiz Gutiérrez"
 summary: "Member of the Redemptorists, making his profession on 25 March 1924. Priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardo-Saiz-Gutierrez.jpg"
 searchAliases:

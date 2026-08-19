@@ -1,7 +1,6 @@
 ---
 name: "Saint John IV of Naples"
 honorific: Saint
-title: "Saint John IV of Naples"
 summary: "Bishop of Naples, Italy."
 searchAliases:
   - "Giovanni d'Acquarola"

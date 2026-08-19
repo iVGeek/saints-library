@@ -1,7 +1,6 @@
 ---
 name: "Saint Canute Lavard"
 honorific: Saint
-title: "Saint Canute Lavard"
 summary: "Second son of King Eric the Good of Denmark. Nephew of King Saint Canute of Denmark. Raised in the court of Saxony. Duke of Jutland with his court at Schlewig. Spent years defending against Viking raids. Supported the missionary work of Saint Vicelin. Father of King Valdemar I, w"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Knut_Lavard.jpg"
 searchAliases:

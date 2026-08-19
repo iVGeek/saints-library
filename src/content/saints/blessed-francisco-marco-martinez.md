@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Marco Martínez"
 honorific: Blessed
-title: "Blessed Francisco Marco Martínez"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936

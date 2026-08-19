@@ -1,7 +1,6 @@
 ---
 name: "Blessed Trigidia of Oña"
 honorific: Blessed
-title: "Blessed Trigidia of Oña"
 summary: "Born to the Spanish nobility, the daughter of Sancho García, Count of Castile, and Donna Urraca. Trigidia early felt a call to religious life, and c.1011, while still in her teens, she became a Benedictine nun at the double monastery of San Salvador in Oña, Spain, a house founded"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Trigidia-of-Ona.jpg"
 searchAliases:

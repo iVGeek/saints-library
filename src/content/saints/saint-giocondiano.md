@@ -1,7 +1,6 @@
 ---
 name: "Saint Giocondiano"
 honorific: Saint
-title: "Saint Giocondiano"
 summary: "Martyr."
 died: "Africa, date and exact location unknown"
 deathPlace: "date and exact location unknown"

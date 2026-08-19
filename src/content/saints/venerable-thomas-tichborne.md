@@ -1,7 +1,6 @@
 ---
 name: "Venerable Thomas Tichborne"
 honorific: Venerable
-title: "Venerable Thomas Tichborne"
 summary: "Brother of Venerable Nicholas Tichnborne. Suffered for years with tuberculosis. Seminarian at Rheims, France and Rome, Italy. Ordained in Rome on Ascension Day, 17 May 1592. Returned to England on 10 March 1594 to minister to covert Catholics. Arrested for the crime of priesthood"
 birthYear: 1567
 deathYear: 1602

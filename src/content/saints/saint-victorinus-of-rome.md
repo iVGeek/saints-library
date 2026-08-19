@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Rome"
 honorific: Saint
-title: "Saint Victorinus of Rome"
 summary: "Friend of Saint Flavia Domitilla, whom they accompanied in exile to the island of Ponza. Martyred in the persecutions of Trajan."
 died: "martyred in Rome, Italy"
 deathPlace: "Italy"

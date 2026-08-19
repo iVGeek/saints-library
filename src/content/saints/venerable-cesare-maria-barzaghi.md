@@ -1,7 +1,6 @@
 ---
 name: "Venerable Cesare Maria Barzaghi"
 honorific: Venerable
-title: "Venerable Cesare Maria Barzaghi"
 summary: "Priest in the Congregation of Clerics Regular of Saint Paul (Barnabites) Noted scholar and evangelist in Lodi, Italy. In 1900 he founded Il Pallavicino which works for the education and the spiritual formation of the young people."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Cesare-Maria-Barzaghi.jpg"
 searchAliases:

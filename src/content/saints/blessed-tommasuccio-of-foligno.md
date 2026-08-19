@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tommasuccio of Foligno"
 honorific: Blessed
-title: "Blessed Tommasuccio of Foligno"
 summary: "Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria."
 searchAliases:
   - "Tommasuccio of Nocera"

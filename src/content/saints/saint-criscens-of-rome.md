@@ -1,7 +1,6 @@
 ---
 name: "Saint Criscens of Rome"
 honorific: Saint
-title: "Saint Criscens of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Prieto Fuentes"
 honorific: Blessed
-title: "Blessed José Prieto Fuentes"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

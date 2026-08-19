@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abraham of Bulgaria"
 honorific: Blessed
-title: "Blessed Abraham of Bulgaria"
 summary: "Muslim layman merchant, known for his charity. Convert to Christianity. For this, he was arrested, tortured and executed. Martyr."
 deathYear: 1229
 died: "c.1229"

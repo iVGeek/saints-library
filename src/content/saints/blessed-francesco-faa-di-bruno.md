@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco Faà di Bruno"
 honorific: Blessed
-title: "Blessed Francesco Faà di Bruno"
 summary: "Youngest of twelve children born to Louis, Marquis of Bruno, and Carolina Milanesi, a family of wealthy nobles. Francesco studied mathematics, geography, surveying and cartography, served in the army of Savoy, and rose to officer status in the corps of engineers. Graduated from t"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Francesco_Fa%C3%A0_di_Bruno.jpg"
 birthYear: 1825

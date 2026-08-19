@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stefano of Paternò"
 honorific: Blessed
-title: "Blessed Stefano of Paternò"
 summary: "12th century monk. Abbot of Santa Maria della Scala di Paternò monastery in Catania, Italy. Known as a miracle worker."
 region: "Italy"
 feastDay:

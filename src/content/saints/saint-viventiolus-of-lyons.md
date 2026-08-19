@@ -1,7 +1,6 @@
 ---
 name: "Saint Viventiolus of Lyons"
 honorific: Saint
-title: "Saint Viventiolus of Lyons"
 summary: "Monk at Saint Oyend, France. Archbishop of Lyons, France. Friend of Saint Avitus of Vienne."
 searchAliases:
   - "Juventiole"

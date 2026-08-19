@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro de Eriz Eguiluz"
 honorific: Blessed
-title: "Blessed Pedro de Eriz Eguiluz"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pedro of Saint Elijah"

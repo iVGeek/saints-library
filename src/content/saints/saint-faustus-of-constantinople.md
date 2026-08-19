@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Constantinople"
 honorific: Saint
-title: "Saint Faustus of Constantinople"
 summary: "Son of the archimandrite Dalmazio, he and his father became monks in Constantinople."
 searchAliases:
   - "Fausto"

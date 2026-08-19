@@ -1,7 +1,6 @@
 ---
 name: "Saint Gundenis of Carthage"
 honorific: Saint
-title: "Saint Gundenis of Carthage"
 summary: "Maiden martyred in the persecutions of Septimus Severus."
 searchAliases:
   - "Gundenes"

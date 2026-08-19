@@ -1,7 +1,6 @@
 ---
 name: "Blessed Celestino José Alonso Villar"
 honorific: Blessed
-title: "Blessed Celestino José Alonso Villar"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1862
 deathYear: 1936

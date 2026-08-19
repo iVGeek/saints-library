@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Baptista Chon Chang-un"
 honorific: Venerable
-title: "Saint Ioannes Baptista Chon Chang-un"
 summary: "Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Worked with Saint Petrus Ch’Oe Hyong to publish Christian books in Korean, and was imprisoned, tortured and executed with him. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Venerable María Consuelo Sanjurjo Santos"
 honorific: Venerable
-title: "Venerable María Consuelo Sanjurjo Santos"
 summary: "Professed religious of the Congregation of the Servants of Mary, Ministers to the Sick."
 searchAliases:
   - "María Soledad"

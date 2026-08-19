@@ -1,7 +1,6 @@
 ---
 name: "Saint Adalbert of Egmond"
 honorific: Saint
-title: "Saint Adalbert of Egmond"
 summary: "Member of the Northumbrian royal family. Spiritual student of and fellow evangelist in Ireland with Saint Egbert of Rathemigisi. Deacon at Rathemigisi monastery. Evangelized in Friesland with Saint Willibrord in 690. Converted most of the people of Egmond by his preaching and his"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bonifatius-gregorius-aedelbertus-noordwijk.JPG/960px-Bonifatius-gregorius-aedelbertus-noordwijk.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Emerius of Bañoles"
 honorific: Saint
-title: "Saint Emerius of Bañoles"
 summary: "Son of Saint Candida of Bañoles. Benedictine monk. Founded Saint Stephen of Bañoles Abbey, Catalonia, Spain. His mother lived in a hermitage near the abbey."
 searchAliases:
   - "Emerus"

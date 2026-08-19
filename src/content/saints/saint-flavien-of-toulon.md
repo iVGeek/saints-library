@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavien of Toulon"
 honorific: Saint
-title: "Saint Flavien of Toulon"
 summary: "Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of Toulon. Due to the persecutions of Arian Gothic king Aleric II, Flavien abandoned military life and fled to the island of Cépet, France where he lived the rest of"
 region: "France"
 feastDay:

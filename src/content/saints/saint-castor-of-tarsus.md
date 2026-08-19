@@ -1,7 +1,6 @@
 ---
 name: "Saint Castor of Tarsus"
 honorific: Saint
-title: "Saint Castor of Tarsus"
 summary: "Martyred in one of the early persecutions in Asia Minor."
 died: "at Tarsus, Cilicia, Asia Minor"
 deathPlace: "Cilicia, Asia Minor"

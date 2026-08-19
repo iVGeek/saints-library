@@ -1,7 +1,6 @@
 ---
 name: "Saint Catherine Labouré"
 honorific: Venerable
-title: "Saint Catherine Labouré"
 summary: "Ninth of eleven children born to a farm family, and from an early age Catherine felt a call to the religious life. Never learned to read or write. Forced to take over running the house at age eight after her mother died and her older sister joined the Sisters of Charity. Worked a"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Catherine_Laboure.jpg"
 searchAliases:

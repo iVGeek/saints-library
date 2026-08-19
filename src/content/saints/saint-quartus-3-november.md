@@ -1,7 +1,6 @@
 ---
 name: "Saint Quartus"
 honorific: Saint
-title: "Saint Quartus"
 summary: "One of the first disciples of the Apostles. Mentioned in Saint Paul's letter to the Romans."
 died: "1st century"
 region: "England"

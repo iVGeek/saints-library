@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco López-Gasco Fernández-Largo"
 honorific: Blessed
-title: "Blessed Francisco López-Gasco Fernández-Largo"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Apollinaris of Posat"
 honorific: Blessed
-title: "Blessed Apollinaris of Posat"
 summary: "Educated by the Jesuits. Joined the Capuchins in Zug, Switzerland in 1762. Priest, noted preacher, valued confessor, and instructor of young Capuchin priests. He began studying Eastern languages in Paris, France in 1788 to prepare for missionary work. The French Revolution broke"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-apollinaris-of-posat/blessed-apollinaris-of-posat-01.jpg"
 searchAliases:

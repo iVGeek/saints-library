@@ -1,7 +1,6 @@
 ---
 name: "Saint Pietro of Anagni"
 honorific: Saint
-title: "Saint Pietro of Anagni"
 summary: "Born to the nobility, part of the family of the princes of Lombardy (part of modern Italy). Benedictine monk at the San Benito monastery in Salerno, Naples (in modern Italy). Priest. Papal chaplain. With the support of the future Pope Saint Gregory VII, Pietro was chosen bishop o"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pietro-of-Anagni.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victoria of Thessalonica"
 honorific: Saint
-title: "Saint Victoria of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

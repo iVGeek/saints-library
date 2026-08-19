@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fructuoso Pérez Márquez"
 honorific: Blessed
-title: "Blessed Fructuoso Pérez Márquez"
 summary: "Feeling a call to a religious life, Fructuoso studied in seminary, but left, married María Barceló Toro, and became a Dominican tertiary in the diocese of Almería, Spain. He could play the piano and sing, and served as a cantor in the cathedral of Almería. Editor and director of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fructuoso-Pérez-Márquez.jpg"
 birthYear: 1884

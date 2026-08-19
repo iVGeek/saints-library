@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary Elizabeth Hesselblad"
 honorific: Venerable
-title: "Saint Mary Elizabeth Hesselblad"
 summary: " Emigrated to New York at age 18 to seek work to support her family back in Sweden. Studied nu Fifth of thirteen children born to Augusto Roberto Hesselblad and Cajsa Pettesdotter Dag. Raised in the Reformed Church of Sweden. Due to economic hard times, the family moved regularly."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maria-Elizabetta-Hesselblad.jpg"
 searchAliases:

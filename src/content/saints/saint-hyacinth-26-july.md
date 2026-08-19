@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacinth"
 honorific: Saint
-title: "Saint Hyacinth"
 summary: "Martyred in the persecutions of Trajan."
 deathYear: 110
 died: "c.110"

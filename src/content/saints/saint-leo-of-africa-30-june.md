@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Africa"
 honorific: Saint
-title: "Saint Leo of Africa"
 summary: "Sub-deacon. Martyr."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"

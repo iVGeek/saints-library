@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco de la Vega González"
 honorific: Blessed
-title: "Blessed Francisco de la Vega González"
 summary: "Trappist monk. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 searchAliases:

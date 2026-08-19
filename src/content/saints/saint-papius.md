@@ -1,7 +1,6 @@
 ---
 name: "Saint Papius"
 honorific: Saint
-title: "Saint Papius"
 summary: "Martyr. No other information has survived"
 deathYear: 303
 died: "c.303, probably in Sicily"

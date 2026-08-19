@@ -1,7 +1,6 @@
 ---
 name: "Saint Pedro de Osma"
 honorific: Saint
-title: "Saint Pedro de Osma"
 summary: "Benedictine monk at the Cluniac Saint-Orens Abbey in Auch, France. He and several brother monks moved to Castile at the request of Archbishop Bernardo de Salvivat of Toledo, Spain in order to bring the Cluniac reform to the region. Arch-deacon of the Toledo. Bishop of Osma, Spain"
 searchAliases:
   - "Pedro of Bourges"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Fuente Puebla"
 honorific: Blessed
-title: "Blessed Francisco Fuente Puebla"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

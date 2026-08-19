@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Reixach Reguer"
 honorific: Blessed
-title: "Blessed Josep Reixach Reguer"
 summary: "Member of the Claretians, professed on 10 November 1891. Ordained a priest on 6 April 1889. Martyred in the Spanish Civil War."
 birthYear: 1865
 deathYear: 1936

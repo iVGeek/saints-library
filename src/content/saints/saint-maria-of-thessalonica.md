@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria of Thessalonica"
 honorific: Saint
-title: "Saint Maria of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

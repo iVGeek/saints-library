@@ -1,7 +1,6 @@
 ---
 name: "Saint Bond of Sens"
 honorific: Saint
-title: "Saint Bond of Sens"
 summary: "Convert. Spiritual student of Saint Artemius of Sens. Hermit in Sens, France."
 searchAliases:
   - "Baldo"

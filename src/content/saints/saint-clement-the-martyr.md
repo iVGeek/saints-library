@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement the Martyr"
 honorific: Saint
-title: "Saint Clement the Martyr"
 summary: "Martyr. No other information has survived."
 died: "martyred in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

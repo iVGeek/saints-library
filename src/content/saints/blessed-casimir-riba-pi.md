@@ -1,7 +1,6 @@
 ---
 name: "Blessed Casimir Riba Pi"
 honorific: Blessed
-title: "Blessed Casimir Riba Pi"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Bernabé"

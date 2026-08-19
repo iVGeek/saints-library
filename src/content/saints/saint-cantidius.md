@@ -1,7 +1,6 @@
 ---
 name: "Saint Cantidius"
 honorific: Saint
-title: "Saint Cantidius"
 summary: "Martyred in Egypt. No other information has survived."
 region: "Egypt"
 feastDay:

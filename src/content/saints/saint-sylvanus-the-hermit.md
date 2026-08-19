@@ -1,7 +1,6 @@
 ---
 name: "Saint Sylvanus the Hermit"
 honorific: Saint
-title: "Saint Sylvanus the Hermit"
 summary: "Hermit near Burgos, Old Castile, Spain. Martyred by Saracens."
 deathYear: 950
 died: "c.950"

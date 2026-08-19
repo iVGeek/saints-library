@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Alfred Miller"
 honorific: Blessed
-title: "Blessed James Alfred Miller"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers). He taught Spanish, English and religion, and coached football at a high school in Saint Paul, Minnesota. Noted for his knowledge and skill at construction. Assigned by the Brothers to teach in Nicaragua, he t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-James-Alfred-Miller.jpg"
 searchAliases:

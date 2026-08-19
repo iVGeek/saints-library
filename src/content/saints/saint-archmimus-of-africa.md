@@ -1,7 +1,6 @@
 ---
 name: "Saint Archmimus of Africa"
 honorific: Saint
-title: "Saint Archmimus of Africa"
 summary: "Marytred in the persecutions of the Vandal king Genseric."
 died: "North Africa"
 region: "Italy"

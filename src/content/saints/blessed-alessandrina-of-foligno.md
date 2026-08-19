@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alessandrina of Foligno"
 honorific: Blessed
-title: "Blessed Alessandrina of Foligno"
 summary: "Poor Clare nun. Founded the Poor Clare monastery in Foligno, Italy where she was admired for her great piety."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alessandrina-of-Foligno.jpg"
 searchAliases:

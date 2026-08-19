@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucas of Piacenza"
 honorific: Saint
-title: "Saint Lucas of Piacenza"
 summary: "Monk at the San Sabinus monastery in Piacenza, Italy."
 region: "Italy"
 feastDay:

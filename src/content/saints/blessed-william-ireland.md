@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Ireland"
 honorific: Blessed
-title: "Blessed William Ireland"
 summary: "Eldest son of William Ireland of Crofton Hall, Yorkshire, England and Barbara Eure of Washingborough, Lincolnshire, England. Studied at English College, Saint Omer, France. Joined the Jesuits at Watten, Belgium in 1655; made his profession and was ordained in 1673. Confessor to a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-William-Ireland.jpg"
 searchAliases:

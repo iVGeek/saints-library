@@ -1,7 +1,6 @@
 ---
 name: "Saint Ueratia of Corinth"
 honorific: Saint
-title: "Saint Ueratia of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

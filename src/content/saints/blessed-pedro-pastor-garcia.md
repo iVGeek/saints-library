@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Pastor García"
 honorific: Blessed
-title: "Blessed Pedro Pastor García"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Segundo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Matthew of Beauvais"
 honorific: Saint
-title: "Saint Matthew of Beauvais"
 summary: "Soldier. Knight who fought in the First Crusade. Captured by Saracens, he was ordered to renounce Christianity; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Matthew-of-Beauvais.jpg"
 searchAliases:

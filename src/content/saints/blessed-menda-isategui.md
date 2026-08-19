@@ -1,7 +1,6 @@
 ---
 name: "Blessed Menda Isategui"
 honorific: Blessed
-title: "Blessed Menda Isategui"
 summary: "Mercedarian nun at the monastery of Santa Maria della Pieta in Marquina, Spain for 80 years. Had the gift of healing by prayer, and of inedia."
 region: "Spain"
 feastDay:

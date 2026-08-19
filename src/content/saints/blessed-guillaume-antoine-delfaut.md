@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guillaume-Antoine Delfaut"
 honorific: Blessed
-title: "Blessed Guillaume-Antoine Delfaut"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1733
 deathYear: 1792

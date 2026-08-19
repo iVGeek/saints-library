@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilas of Cordoba"
 honorific: Saint
-title: "Saint Emilas of Cordoba"
 summary: "Deacon. Friend of and fellow student with Saint Jeremias at Cordova, Spain during a time when the city was under Moorish control. The two were very open about their Christianity. Martyred in the persecutions of Caliph Abderrahman."
 searchAliases:
   - "Emile"

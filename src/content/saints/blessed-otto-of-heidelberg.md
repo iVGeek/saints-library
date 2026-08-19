@@ -1,7 +1,6 @@
 ---
 name: "Blessed Otto of Heidelberg"
 honorific: Blessed
-title: "Blessed Otto of Heidelberg"
 summary: "Brother of Blessed Herman of Heidelberg. Benedictine monk and priest at the monastery of Niederaltaich, Bavaria (modern Germany). After his brother's death, Otto exercised his vocation from Herman's old cell."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Otto-of-Heidelberg.jpg"
 deathYear: 1344

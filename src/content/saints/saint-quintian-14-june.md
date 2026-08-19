@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintian of Rhodez"
 honorific: Saint
-title: "Saint Quintian of Rhodez"
 summary: "Bishop of Rhodez, France."
 searchAliases:
   - "Quinctian"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Cano Gómez"
 honorific: Blessed
-title: "Blessed Juan Cano Gómez"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Bujalante community. Martyred in the Spanish Civil War."
 birthYear: 1863
 deathYear: 1936

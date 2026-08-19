@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyricus of Africa"
 honorific: Saint
-title: "Saint Cyricus of Africa"
 summary: "Martyr."
 died: "in Africa, date and location unknown"
 deathPlace: "date and location unknown"

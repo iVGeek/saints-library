@@ -1,7 +1,6 @@
 ---
 name: "Saint Adrastus of Africa"
 honorific: Saint
-title: "Saint Adrastus of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Arcastus"

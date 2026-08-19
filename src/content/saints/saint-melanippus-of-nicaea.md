@@ -1,7 +1,6 @@
 ---
 name: "Saint Melanippus of Nicaea"
 honorific: Saint
-title: "Saint Melanippus of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Melanippi"

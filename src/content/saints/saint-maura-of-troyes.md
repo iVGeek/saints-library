@@ -1,7 +1,6 @@
 ---
 name: "Saint Maura of Troyes"
 honorific: Saint
-title: "Saint Maura of Troyes"
 summary: "Born to the nobility. A pious child, her prayers caused her the conversion of her father who had lived a dissolute life. After his death, she stayed with her mother Sedulia, and worked for the spiritual growth of her brother Eutropius, who became bishop of Troyes, France. She dev"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maura-of-Troyes.jpg"
 birthYear: 827

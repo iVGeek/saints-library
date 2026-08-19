@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicolas Bùi Ðuc The"
 honorific: Venerable
-title: "Saint Nicolas Bùi Ðuc The"
 summary: "Lifelong layman in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam."
 birthYear: 1792
 deathYear: 1839

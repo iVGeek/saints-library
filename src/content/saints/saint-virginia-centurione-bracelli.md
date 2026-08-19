@@ -1,7 +1,6 @@
 ---
 name: "Saint Virginia Centurione Bracelli"
 honorific: Saint
-title: "Saint Virginia Centurione Bracelli"
 summary: "Daughter of Giorgio Centurione, and imposing and controlling individual who became the Doge of Genoa, and Lelia Spinola. Raised in a pious family, she felt drawn to religious life as a child. However, due to family position she agree to an arranged marriage to Gasparo Grimaldi Br"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Virgina_Centurione_Pittura_Busto.jpg/960px-Virgina_Centurione_Pittura_Busto.jpg"
 searchAliases:

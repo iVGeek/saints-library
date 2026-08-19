@@ -1,7 +1,6 @@
 ---
 name: "Pope Blessed Pius IX"
 honorific: Blessed
-title: "Pope Blessed Pius IX"
 summary: "Son of Gerolamo Ferretti and Caterina Solazzi, local nobles, the family's ninth child. Frail, intelligent and pious boy who suffered from epilepsy when young. Educated at the Piarist College, Volterra, Italy from 1802 to 1809. Studied in Rome from 1809 to 1810 due to political di"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg/960px-Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg"
 searchAliases:

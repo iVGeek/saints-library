@@ -1,7 +1,6 @@
 ---
 name: "Saint Ananias of Phoenicia"
 honorific: Saint
-title: "Saint Ananias of Phoenicia"
 summary: "Third-century priest. Martyred in the persections of Diocletian along with seven soldiers whose names have not come down to us."
 searchAliases:
   - "Ananias III"

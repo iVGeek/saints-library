@@ -1,7 +1,6 @@
 ---
 name: "Saint Martin of Saujon"
 honorific: Saint
-title: "Saint Martin of Saujon"
 summary: "Spiritual student of Saint Martin of Tours. Founded the monastery of Saujon, France."
 deathYear: 400
 died: "c.400"

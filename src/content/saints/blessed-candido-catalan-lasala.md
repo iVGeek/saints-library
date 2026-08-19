@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cándido Catalán Lasala"
 honorific: Blessed
-title: "Blessed Cándido Catalán Lasala"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Candido-Catalan-Lasala.jpg"
 birthYear: 1916

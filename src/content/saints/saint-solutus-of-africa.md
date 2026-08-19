@@ -1,7 +1,6 @@
 ---
 name: "Saint Solutus of Africa"
 honorific: Saint
-title: "Saint Solutus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

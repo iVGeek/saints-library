@@ -1,7 +1,6 @@
 ---
 name: "Saint Clement of Cordoba"
 honorific: Saint
-title: "Saint Clement of Cordoba"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 298
 died: "c.298 in Cordoba, Spain"

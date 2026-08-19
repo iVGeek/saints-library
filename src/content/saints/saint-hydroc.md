@@ -1,7 +1,6 @@
 ---
 name: "Saint Hydroc"
 honorific: Saint
-title: "Saint Hydroc"
 summary: "Fifth century. No other information has survived."
 searchAliases:
   - "Hydoc"

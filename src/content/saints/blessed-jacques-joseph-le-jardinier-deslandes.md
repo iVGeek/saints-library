@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques-Joseph Le jardinier desLandes"
 honorific: Blessed
-title: "Blessed Jacques-Joseph Le jardinier desLandes"
 summary: "Priest in the diocese of Coutances, France. One of the Martyrs of September."
 birthYear: 1750
 deathYear: 1792

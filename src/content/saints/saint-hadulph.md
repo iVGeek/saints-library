@@ -1,7 +1,6 @@
 ---
 name: "Saint Hadulph"
 honorific: Saint
-title: "Saint Hadulph"
 summary: "Benedictine monk. Travelled, worked and martyred with Saint Boniface."
 searchAliases:
   - "Hathawulf"

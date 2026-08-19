@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Langley"
 honorific: Blessed
-title: "Blessed Richard Langley"
 summary: "Member of the English gentry and lifelong layman. Condemned for travelling with Blessed Robert Morton, and for paying sixpence for Robert's supper. Martyr."
 deathYear: 1586
 born: "Ousethorpe, Yorkshire, England"

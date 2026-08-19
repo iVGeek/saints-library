@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Corinth"
 honorific: Saint
-title: "Saint Paul of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

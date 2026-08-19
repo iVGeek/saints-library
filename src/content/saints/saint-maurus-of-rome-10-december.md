@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus of Rome"
 honorific: Saint
-title: "Saint Maurus of Rome"
 summary: "Child martyr, celebrated by Pope Damasus."
 died: "Via Salaria, Rome, Italy"
 deathPlace: "Rome, Italy"

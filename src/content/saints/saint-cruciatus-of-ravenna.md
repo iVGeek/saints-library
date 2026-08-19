@@ -1,7 +1,6 @@
 ---
 name: "Saint Cruciatus of Ravenna"
 honorific: Saint
-title: "Saint Cruciatus of Ravenna"
 summary: "Martyr."
 searchAliases:
   - "Martharus"

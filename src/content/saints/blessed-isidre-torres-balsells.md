@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidre Torres Balsells"
 honorific: Blessed
-title: "Blessed Isidre Torres Balsells"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

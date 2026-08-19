@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Roig i Diggle"
 honorific: Blessed
-title: "Blessed Joan Roig i Diggle"
 summary: "Born to a poor family, the son of Ramón Roig Fuente and Maud Diggle Puckering. Educated by the La Salle Brothers, and then the Piarists. Student of Blessed Ignasi Casanovas Perramón and Blessed Francisco Carceller Galindo. To find work, his family moved to El Masnou, Spain, and w"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Joan-roig-bn-recortado-980x1095.jpg/960px-Joan-roig-bn-recortado-980x1095.jpg"
 birthYear: 1917

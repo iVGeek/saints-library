@@ -1,7 +1,6 @@
 ---
 name: "Saint Candidus the Martyr"
 honorific: Saint
-title: "Saint Candidus the Martyr"
 summary: "Martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Candidus-the-Martyr.jpg"
 searchAliases:

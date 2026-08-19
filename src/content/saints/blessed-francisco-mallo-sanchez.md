@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Mallo Sánchez"
 honorific: Blessed
-title: "Blessed Francisco Mallo Sánchez"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Francisco Alfredo"

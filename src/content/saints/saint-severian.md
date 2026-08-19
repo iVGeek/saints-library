@@ -1,7 +1,6 @@
 ---
 name: "Saint Severian"
 honorific: Saint
-title: "Saint Severian"
 summary: "Roman imperial senator during the persecutions of Licinius. He witnessed the martyrdom of the Forty Martyrs of Sebaste and was moved to proclaim his own faith. Martyr."
 deathYear: 320
 born: "Armenian"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Dorimedonte of Synnada"
 honorific: Saint
-title: "Saint Dorimedonte of Synnada"
 summary: "Martyr."
 died: "Synnada, Phrygia (in modern Turkey)"
 deathPlace: "Phrygia (modern Turkey)"

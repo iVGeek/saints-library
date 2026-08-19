@@ -1,7 +1,6 @@
 ---
 name: "Blessed James of Nocera"
 honorific: Blessed
-title: "Blessed James of Nocera"
 summary: "Monk at Santa Croce di' Fontavellana."
 deathYear: 1300
 born: "at Nocera, Umbria, Italy"

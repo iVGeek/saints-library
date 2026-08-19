@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilio Camino Noval"
 honorific: Blessed
-title: "Blessed Emilio Camino Noval"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

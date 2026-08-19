@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magí Civit Roca"
 honorific: Blessed
-title: "Blessed Magí Civit Roca"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Stylianus"
 honorific: Saint
-title: "Saint Stylianus"
 summary: "Hermit in the area of Adrianopolis."
 searchAliases:
   - "Alypius"

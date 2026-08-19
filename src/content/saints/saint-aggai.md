@@ -1,7 +1,6 @@
 ---
 name: "Saint Aggai"
 honorific: Saint
-title: "Saint Aggai"
 summary: "Royal jeweler to King Abgar the Black. Converted by Saint Addai. Bishop, and successor to Saint Addai as evangelist. Spiritual director of Saint Mari, whom he dispatched on missionary work. Martyr."
 died: "2nd century"
 feastDay:

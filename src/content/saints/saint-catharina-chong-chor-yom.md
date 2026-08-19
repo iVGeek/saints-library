@@ -1,7 +1,6 @@
 ---
 name: "Saint Catharina Chong Ch'Or-Yom"
 honorific: Venerable
-title: "Saint Catharina Chong Ch'Or-Yom"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

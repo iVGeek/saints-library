@@ -1,7 +1,6 @@
 ---
 name: "Saint Himerius of Gaza"
 honorific: Saint
-title: "Saint Himerius of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

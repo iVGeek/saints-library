@@ -1,7 +1,6 @@
 ---
 name: "Blessed Geremia Oghlou Boghos"
 honorific: Blessed
-title: "Blessed Geremia Oghlou Boghos"
 summary: "Franciscan. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 born: "Armenian"

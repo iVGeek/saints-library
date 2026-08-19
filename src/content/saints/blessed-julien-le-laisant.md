@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julien le Laisant"
 honorific: Blessed
-title: "Blessed Julien le Laisant"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1761
 deathYear: 1792

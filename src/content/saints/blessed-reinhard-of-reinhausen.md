@@ -1,7 +1,6 @@
 ---
 name: "Blessed Reinhard of Reinhausen"
 honorific: Blessed
-title: "Blessed Reinhard of Reinhausen"
 summary: "Monk of Helmarshausen in modern Bad Karlshafen, Germany. Monk and head of the abbey school at Stavelot, Belgium. First abbot at Reinhausen, Germany in 1130."
 searchAliases:
   - "Reginhard"

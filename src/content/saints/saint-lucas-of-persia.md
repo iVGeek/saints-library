@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucas of Persia"
 honorific: Saint
-title: "Saint Lucas of Persia"
 summary: "Deacon martyred in Persia."
 feastDay:
   month: 4

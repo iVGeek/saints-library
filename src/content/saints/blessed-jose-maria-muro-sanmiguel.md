@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Muro-Sanmiguel"
 honorific: Blessed
-title: "Blessed José María Muro-Sanmiguel"
 summary: "Studied at the San Gaudioso seminary in Tarazona, Spain, and was ordained a priest there on 17 July 1928. He served as co-adjutor of Villalengua, Spain in 1928, then regent of Purojosa, and co-adjutor of Novallas, Spain. Father José joined the Dominicans in Calanda, Spain on 6 Ju"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Muro-Sanmiguel.jpg"
 birthYear: 1905

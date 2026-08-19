@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles Meehan"
 honorific: Blessed
-title: "Blessed Charles Meehan"
 summary: "Franciscan priest. Martyred in connection with the Titus Oates Plot."
 searchAliases:
   - "Charles Mahoney"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Philibert of Toledo"
 honorific: Saint
-title: "Saint Philibert of Toledo"
 summary: "Martyr."
 searchAliases:
   - "Filibert"

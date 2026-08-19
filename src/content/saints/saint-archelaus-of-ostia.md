@@ -1,7 +1,6 @@
 ---
 name: "Saint Archelaus of Ostia"
 honorific: Saint
-title: "Saint Archelaus of Ostia"
 summary: "Deacon. One of a group martyred in the persecutions of Alexander Severus."
 deathYear: 235
 died: "c.235"

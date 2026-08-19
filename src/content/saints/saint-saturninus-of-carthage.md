@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Carthage"
 honorific: Saint
-title: "Saint Saturninus of Carthage"
 summary: "Catechist. Martyr."
 deathYear: 203
 died: "mauled by wild beasts and beheaded 7 March 203 at Carthage, North Africa"

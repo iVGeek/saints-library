@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Caerleon"
 honorific: Saint
-title: "Saint Julius of Caerleon"
 summary: "Martyred with several companions. No other information has survived."
 deathYear: 305
 died: "martyred c.305 at Caerleon, Monmouthshire, England"

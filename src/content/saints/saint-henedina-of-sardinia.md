@@ -1,7 +1,6 @@
 ---
 name: "Saint Henedina of Sardinia"
 honorific: Saint
-title: "Saint Henedina of Sardinia"
 summary: "Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Enedina"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Baba"
 honorific: Blessed
-title: "Blessed Ludovicus Baba"
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans. Catechist. Martyr."
 deathYear: 1624
 born: "Japan"

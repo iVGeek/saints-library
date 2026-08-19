@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucundian"
 honorific: Saint
-title: "Saint Jucundian"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Jocondien"

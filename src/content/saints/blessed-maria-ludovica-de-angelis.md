@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Ludovica de Angelis"
 honorific: Blessed
-title: "Blessed Maria Ludovica de Angelis"
 summary: "The eldest of eight chidren born to a peasant family. Against the opposition of her family, Antonina joined the Daughters of Our Lady of Mercy on 17 November 1904, taking the name Sister Maria Ludovica. Beginning in late 1907, she served in the missions in Argentina as a manager"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Ludovica-de-Angelis.jpg"
 searchAliases:

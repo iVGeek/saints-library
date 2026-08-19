@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Alonso Fontaneda"
 honorific: Blessed
-title: "Blessed Francisco Alonso Fontaneda"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Eduardo María"

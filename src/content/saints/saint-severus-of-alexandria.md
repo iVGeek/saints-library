@@ -1,7 +1,6 @@
 ---
 name: "Saint Severus of Alexandria"
 honorific: Saint
-title: "Saint Severus of Alexandria"
 summary: "Martyred for publicly proclaiming the faith."
 deathYear: 309
 born: "Egyptian"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrinus of Rome"
 honorific: Saint
-title: "Saint Cyrinus of Rome"
 summary: "Martyred in the persecutions of Diocletian."
 died: "late 3rd century in Rome, Italy"
 deathPlace: "Italy"

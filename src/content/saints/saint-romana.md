@@ -1,7 +1,6 @@
 ---
 name: "Saint Romana"
 honorific: Saint
-title: "Saint Romana"
 summary: "Daughter of an imperial Roman official, Romana was drawn to Christianity. Around age 16, to avoid marriage, she fled her family home. With the help of an angel, she made it to the cave on Mount Soracte where Pope Saint Sylvester was hiding from the persecutions of Diocletian. She"
 birthYear: 308
 deathYear: 324

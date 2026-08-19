@@ -1,7 +1,6 @@
 ---
 name: "Saint Ascla of Antinoe"
 honorific: Saint
-title: "Saint Ascla of Antinoe"
 summary: "Tortured and martyred by governor Arrian of Thebaid, Egypt in the persecutions of Diocletian for publicly proclaiming his faith."
 born: "Thebes, Egypt"
 died: "drowned in the river Nile with a stone around his neck at Antinoe, Thebaid, Egypt"

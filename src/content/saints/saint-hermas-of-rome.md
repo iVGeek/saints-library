@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermas of Rome"
 honorific: Saint
-title: "Saint Hermas of Rome"
 summary: "Martyred by a pagan mob."
 searchAliases:
   - "Hermes"

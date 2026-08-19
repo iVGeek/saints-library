@@ -1,7 +1,6 @@
 ---
 name: "Venerable Marton Boldizsár"
 honorific: Venerable
-title: "Venerable Marton Boldizsár"
 summary: "Discalced Carmelite priest."
 searchAliases:
   - "Marcell of the Virgin of Carmel"

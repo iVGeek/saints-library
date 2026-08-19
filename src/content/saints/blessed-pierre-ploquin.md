@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Ploquin"
 honorific: Blessed
-title: "Blessed Pierre Ploquin"
 summary: "Priest of the archdiocese of Tours, France. One of the Martyrs of September."
 birthYear: 1762
 deathYear: 1792

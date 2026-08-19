@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Thomas"
 honorific: Blessed
-title: "Blessed Pierre Thomas"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 birthYear: 1729
 deathYear: 1794

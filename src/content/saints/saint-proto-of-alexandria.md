@@ -1,7 +1,6 @@
 ---
 name: "Saint Proto of Alexandria"
 honorific: Saint
-title: "Saint Proto of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Protolicus"

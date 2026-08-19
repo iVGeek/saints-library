@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerald of Ostia"
 honorific: Saint
-title: "Saint Gerald of Ostia"
 summary: "Benedictine monk. Prior of Cluny Abbey. Bishop of Ostia, Italy. Papal legate to France, Spain and Germany. Imprisoned by the German emperor, Henry V."
 searchAliases:
   - "Geraldo"

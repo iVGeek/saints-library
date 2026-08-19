@@ -1,7 +1,6 @@
 ---
 name: "Blessed Convoyon of Redon"
 honorific: Blessed
-title: "Blessed Convoyon of Redon"
 summary: "Archdeacon of Vannes, France. Hermit. Benedictine monk at Glanfeuil, France. Founded Saint Savior monastery near Redon, France in 831, and served as its first abbot. Spiritual teacher of Saint Fidweten. Invading Norseman attacked the monastery and drove him into exile where he sp"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Convoyon.jpg"
 searchAliases:

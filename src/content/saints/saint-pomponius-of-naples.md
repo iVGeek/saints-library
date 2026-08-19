@@ -1,7 +1,6 @@
 ---
 name: "Saint Pomponius of Naples"
 honorific: Saint
-title: "Saint Pomponius of Naples"
 summary: "Bishop of Naples, Italy from 508 to 536. Fierce opponent of Arianism."
 searchAliases:
   - "Pomponio"

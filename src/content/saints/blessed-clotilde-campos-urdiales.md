@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clotilde Campos Urdiales"
 honorific: Blessed
-title: "Blessed Clotilde Campos Urdiales"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María del Pilar"

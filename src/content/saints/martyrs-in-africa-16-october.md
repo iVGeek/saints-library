@@ -1,7 +1,6 @@
 ---
 name: "Martyrs in Africa"
 honorific: Saint
-title: "Martyrs in Africa"
 summary: "A group of 220 Christians martyrs about whom we know nothing but that they died for their faith."
 region: "Africa"
 feastDay:

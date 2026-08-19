@@ -1,7 +1,6 @@
 ---
 name: "Saint Charitina of Amasa"
 honorific: Saint
-title: "Saint Charitina of Amasa"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Charitina-of-Amasa.jpg"
 searchAliases:

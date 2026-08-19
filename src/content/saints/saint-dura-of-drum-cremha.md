@@ -1,7 +1,6 @@
 ---
 name: "Saint Dura of Drum-Cremha"
 honorific: Saint
-title: "Saint Dura of Drum-Cremha"
 summary: "Bishop in Ireland, though the date and exact location are unknown, and we have no details of his life."
 region: "Ireland"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Duckett"
 honorific: Blessed
-title: "Blessed John Duckett"
 summary: "Relative of Blessed James Duckett, possibly his grandson. Educated at Douai, France. Ordained in 1639. Studied at the College of Arras in Paris, France for three years. Ministered to covert Catholics in Durham, England from 1642. Arrested by Roundhead soldiers at Redgate Head (fo"
 birthYear: 1603
 deathYear: 1644

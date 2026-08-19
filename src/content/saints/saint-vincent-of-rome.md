@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent of Rome"
 honorific: Saint
-title: "Saint Vincent of Rome"
 summary: "Martyr."
 died: "outside the walls of Rome, Italy"
 deathPlace: "Italy"

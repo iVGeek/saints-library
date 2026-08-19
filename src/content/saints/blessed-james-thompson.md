@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Thompson"
 honorific: Blessed
-title: "Blessed James Thompson"
 summary: "Educated at Cardinal Allen's college at Rheims, France. Ordained at Soissons, France. Returned to York, England to minister to covert Catholics during a period of persecution, using the name James Hudson. Imprisoned and executed for the crime of being a priest in England."
 searchAliases:
   - "James Hudson"

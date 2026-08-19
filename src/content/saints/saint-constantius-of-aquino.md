@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantius of Aquino"
 honorific: Saint
-title: "Saint Constantius of Aquino"
 summary: "Bishop of Aquino, Italy c.465 to c.487. Attended the Council of Rome in 465. Had the gift of prophecy. Pope Saint Gregory the Great wrote about him in the Dialogues, and Peter the Deacon wrote a biography of him."
 searchAliases:
   - "Costantino…"

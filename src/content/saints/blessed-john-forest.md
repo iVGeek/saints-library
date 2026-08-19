@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Forest"
 honorific: Blessed
-title: "Blessed John Forest"
 summary: "Joined the Friars Minor of the Regular Observance at Greenwich, England while in his late teens. Studied theology at the Franciscan College at Oxford, England; he was known thereafter as “Doctor”, though records of his degree have not survived. Priest and royal chaplain. Provinci"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/St_Etheldreda%2C_Ely_Place%2C_London_EC1_-_Nave_statue_-_geograph.org.uk_-_1613379.jpg"
 searchAliases:

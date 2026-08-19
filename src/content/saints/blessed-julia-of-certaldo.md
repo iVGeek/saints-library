@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julia of Certaldo"
 honorific: Blessed
-title: "Blessed Julia of Certaldo"
 summary: "Born to an impoverished noble family. Worked as a domestic servant in her youth in the Timolfi household at Florence, Italy. She became an Augustinian tertiary at age 19. Florence was in turmoil in those years, and Julia returned to the quiet of Certaldo, Tuscany. There she rescu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Julia-of-Certaldo.jpg"
 searchAliases:

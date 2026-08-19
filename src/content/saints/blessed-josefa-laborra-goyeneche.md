@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Laborra Goyeneche"
 honorific: Blessed
-title: "Blessed Josefa Laborra Goyeneche"
 summary: "The daughter of Francisco and Javier, Josefa was raised in a pious farm family with three brothers. She was educated at the College of the Immaculate, a school run by the Daughters of Charity. Member of the Daughters of Mary. She joined the Daughters of Charity on 18 March 1881,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Laborra-Goyeneche.jpg"
 birthYear: 1864

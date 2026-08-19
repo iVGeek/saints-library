@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mathieu-Henri Planchat"
 honorific: Blessed
-title: "Blessed Mathieu-Henri Planchat"
 summary: "While studying theology in Paris, France, Mathieu-Henri joined the Religious of Saint Vincent de Paul, worked with its founder, Venerable Jean-Léon Le Prevost, and spent much of his non-study time ministering to the poor. Ordained a priest on 21 December 1850. On 24 December 1850"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mathieu-Henri-Planchat.jpg"
 searchAliases:

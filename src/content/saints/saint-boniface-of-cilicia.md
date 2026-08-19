@@ -1,7 +1,6 @@
 ---
 name: "Saint Boniface of Cilicia"
 honorific: Saint
-title: "Saint Boniface of Cilicia"
 summary: "Slave and servant to the imperial Roman noble woman Aglaia at Tarsus, Cilicia. Martyred in the persecutions of Diocletian."
 deathYear: 290
 died: "c.290 in Tarsus, Cilicia (in modern Turkey)"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fabiola of Rome"
 honorific: Saint
-title: "Saint Fabiola of Rome"
 summary: "Born to the Roman patrician class. Divorced from her first marriage after being abused by her adulterous husband. Widowed in second marriage. Friend of Saint Jerome, Saint Paula of Rome, and Saint Pammachius. Founded the first hospital in the west. Built a hospice in Porto Romano"
 image: "http://catholicsaints.info/wp-content/uploads/Fabiola-of-Rome.jpg"
 deathYear: 399

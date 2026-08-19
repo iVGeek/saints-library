@@ -1,7 +1,6 @@
 ---
 name: "Saint Peleusius of Alexandria"
 honorific: Saint
-title: "Saint Peleusius of Alexandria"
 summary: "Priest. Martyr."
 searchAliases:
   - "Pelusio"

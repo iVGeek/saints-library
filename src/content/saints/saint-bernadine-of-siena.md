@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernadine of Siena"
 honorific: Saint
-title: "Saint Bernadine of Siena"
 summary: " Bernardino's charismatic preaching filled the Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-of-Siena.jpg"
 searchAliases:

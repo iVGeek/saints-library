@@ -1,7 +1,6 @@
 ---
 name: "Blessed Honoratus Kozminski"
 honorific: Blessed
-title: "Blessed Honoratus Kozminski"
 summary: "After basic education, Honoratus studied architecture at the School of Fine Arts in Warsaw, Poland. During his school years, he abandoned the faith. In 1846 he was imprisoned by the Tsarist police for political reasons; he feared a death sentence, and nearly died of typhus. This"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Honoratus-Kozminski.jpg"
 searchAliases:

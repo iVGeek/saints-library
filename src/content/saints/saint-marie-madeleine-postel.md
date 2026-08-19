@@ -1,7 +1,6 @@
 ---
 name: "Saint Marie-Madeleine Postel"
 honorific: Venerable
-title: "Saint Marie-Madeleine Postel"
 summary: "Aunt of Blessed Placide Viel. Educated by the Benedictines at Valognes, France. Director of a school for girls at age 28. When the school was closed during the French Revolution, she used the building to house fugitive priests. Franciscan tertiary at age 52, taking the name Marie"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Portrait%2C_St._Marie_Madeleine_Postel%2C_Sisters_of_Christian_Schools_of_Mercy.jpg"
 searchAliases:

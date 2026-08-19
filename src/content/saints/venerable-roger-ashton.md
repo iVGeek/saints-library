@@ -1,7 +1,6 @@
 ---
 name: "Venerable Roger Ashton"
 honorific: Venerable
-title: "Venerable Roger Ashton"
 summary: "Third son of Richard Ashton. Soldier in the army of the Earl of Leicester who fought against Spain in the Low Countries in 1585. Worked with Sir William Stanley to return the town of Deventer to Spain, and joined the Catholic Spanish cause on 29 January 1587. He returned to Engla"
 deathYear: 1592
 born: "Croston, Lancashire, England"

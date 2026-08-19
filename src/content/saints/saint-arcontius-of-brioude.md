@@ -1,7 +1,6 @@
 ---
 name: "Saint Arcontius of Brioude"
 honorific: Saint
-title: "Saint Arcontius of Brioude"
 summary: "Fourth-century confessor in Brioude, France."
 searchAliases:
   - "Arconce"

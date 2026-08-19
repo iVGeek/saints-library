@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerian of Trastevere"
 honorific: Saint
-title: "Saint Valerian of Trastevere"
 summary: "Brother of Saint Tiburtius; married to Saint Cecilia. Convert to Christianity. Ministered to Christians imprisoned for their faith. Arrested and tortured for their ministry. Offered his freedom if he would sacrifice to pagan idols; he declined. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Valerian-of-Trastevere.jpg"
 birthYear: 177

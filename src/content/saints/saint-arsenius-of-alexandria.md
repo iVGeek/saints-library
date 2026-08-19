@@ -1,7 +1,6 @@
 ---
 name: "Saint Arsenius of Alexandria"
 honorific: Saint
-title: "Saint Arsenius of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Arsinus"

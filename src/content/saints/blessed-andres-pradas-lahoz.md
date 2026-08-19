@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrés Pradas Lahoz"
 honorific: Blessed
-title: "Blessed Andrés Pradas Lahoz"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Blessed Andrés Sergio"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Simon Stock"
 honorific: Saint
-title: "Saint Simon Stock"
 summary: "Little is known of his early life. Legend says that at age twelve he began to live as a hermit in a hollow oak tree; the name Stock is believed derived from the old English for tree trunk. Itinerant preacher. Pilgrim to the Holy Lands, but left when invading Muslims chased out Ch"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pietro_Novelli_Our_Lady_of_Carmel_and_Saints.JPG"
 searchAliases:

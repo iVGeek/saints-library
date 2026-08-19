@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter of Montepiano"
 honorific: Blessed
-title: "Blessed Peter of Montepiano"
 summary: "Vallombrosan monk. Abbot of the San Virgilio Abbey in Brescia, Italy. Late in life he retired to live as a hermit in Montepiano, Tuscany, Italy."
 deathYear: 1098
 died: "1098 in Montepiano, Tuscany, Italy of natural causes"

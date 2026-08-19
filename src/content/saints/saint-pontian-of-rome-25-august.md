@@ -1,7 +1,6 @@
 ---
 name: "Saint Pontian of Rome"
 honorific: Saint
-title: "Saint Pontian of Rome"
 summary: "Martyred in the persecutions of Emperor Commodus."
 deathYear: 192
 died: "stretched on the rack, beaten with clubs, burned, then beaten to death with lead-tipped whips in 192 at Rome, Italy"

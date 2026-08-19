@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardino of Rionero Sannitico"
 honorific: Blessed
-title: "Blessed Bernardino of Rionero Sannitico"
 summary: "Franciscan friar."
 deathYear: 1505
 died: "1505 in Isernia, Italy of natural causes"

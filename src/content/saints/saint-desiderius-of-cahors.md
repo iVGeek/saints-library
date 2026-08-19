@@ -1,7 +1,6 @@
 ---
 name: "Saint Desiderius of Cahors"
 honorific: Saint
-title: "Saint Desiderius of Cahors"
 summary: "Born to the Gallo-Roman nobility, the son of Salvius and Herchenfreda; brother of Saint Rusticus. Educated in the court of King Clotaire II. Studied canon law. Royal treasurer to Clotaire II and Dagobert I. Bishop of Cahors, France from 630 to 655. Great supporter of monastic lif"
 searchAliases:
   - "Didier"

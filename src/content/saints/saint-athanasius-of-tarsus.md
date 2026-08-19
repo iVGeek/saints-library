@@ -1,7 +1,6 @@
 ---
 name: "Saint Athanasius of Tarsus"
 honorific: Saint
-title: "Saint Athanasius of Tarsus"
 summary: "Bishop of Tarsus in Asia Minor. Martyred in the persecutions of Emperor Valerian."
 deathYear: 257
 died: "257"

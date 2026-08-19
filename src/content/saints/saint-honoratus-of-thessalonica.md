@@ -1,7 +1,6 @@
 ---
 name: "Saint Honoratus of Thessalonica"
 honorific: Saint
-title: "Saint Honoratus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

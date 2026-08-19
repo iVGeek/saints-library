@@ -1,7 +1,6 @@
 ---
 name: "Saint Sindulf of Rheims"
 honorific: Saint
-title: "Saint Sindulf of Rheims"
 summary: "Hermit in Aussonce, France."
 searchAliases:
   - "Sindolfo"

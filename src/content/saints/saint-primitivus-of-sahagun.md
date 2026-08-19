@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitivus of Sahagun"
 honorific: Saint
-title: "Saint Primitivus of Sahagun"
 summary: "Martyr."
 searchAliases:
   - "Primitivo of Sahagun"

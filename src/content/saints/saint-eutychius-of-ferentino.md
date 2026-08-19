@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Ferentino"
 honorific: Saint
-title: "Saint Eutychius of Ferentino"
 summary: "Martyr. No other information has survived."
 died: "in Ferentino, Italy"
 deathPlace: "Italy"

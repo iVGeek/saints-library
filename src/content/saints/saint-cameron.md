@@ -1,7 +1,6 @@
 ---
 name: "Saint Cameron"
 honorific: Saint
-title: "Saint Cameron"
 summary: "Martyr. No other information has survived."
 region: "Italy"
 feastDay:

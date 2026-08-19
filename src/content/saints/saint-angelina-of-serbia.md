@@ -1,7 +1,6 @@
 ---
 name: "Saint Angelina of Serbia"
 honorific: Saint
-title: "Saint Angelina of Serbia"
 summary: "Born to the nobility, the daughter of Prince Georg Skenderberg of Albania. Married to King Stefan Brankovic of Serbia, and with him live in Mexile. As a mother she concentrated on the Christian part of her sons' education. Widowed, she renounced her position in the world to becom"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Angjelina_Arianiti_%28cropped%29.png"
 searchAliases:

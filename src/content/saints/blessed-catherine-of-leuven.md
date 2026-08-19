@@ -1,7 +1,6 @@
 ---
 name: "Blessed Catherine of Leuven"
 honorific: Blessed
-title: "Blessed Catherine of Leuven"
 summary: "Born to a Jewish family, Rachel converted to Christianity, having learned about the faith from listening to her father argue theology with the chaplain of the Duke of Brabant (in modern Belgium).  She ran away from home to the Parcum Damarum (Parc-aux-Dames) abbey near Leuven (in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-of-Leuven.jpg"
 searchAliases:

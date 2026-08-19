@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lambert Roesenveld"
 honorific: Blessed
-title: "Blessed Lambert Roesenveld"
 summary: "Mayor of Haarlem, Netherlands. Martyred by Calvinists."
 searchAliases:
   - "Lambertus"

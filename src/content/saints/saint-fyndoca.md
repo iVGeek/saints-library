@@ -1,7 +1,6 @@
 ---
 name: "Saint Fyndoca"
 honorific: Saint
-title: "Saint Fyndoca"
 summary: "Martyr. No other information has survived."
 died: "in Scotland"
 region: "England"

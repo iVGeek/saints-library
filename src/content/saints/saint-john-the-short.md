@@ -1,7 +1,6 @@
 ---
 name: "Saint John the Short"
 honorific: Saint
-title: "Saint John the Short"
 summary: "Born to a poor but pious family. From age 18, he lived in an underground cave he dug in the desert of Skete. Spiritual student of Saint Poemen and Saint Ammoes. Noted for being short of stature, short of temper, and conceited by nature; he did not grow in height, but as his faith"
 searchAliases:
   - "John Colobus"

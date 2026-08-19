@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fernando Olmedo Reguera"
 honorific: Blessed
-title: "Blessed Fernando Olmedo Reguera"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936

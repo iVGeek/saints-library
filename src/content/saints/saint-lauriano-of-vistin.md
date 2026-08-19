@@ -1,7 +1,6 @@
 ---
 name: "Saint Lauriano of Vistin"
 honorific: Saint
-title: "Saint Lauriano of Vistin"
 summary: "Martyr."
 died: "Vistin, Berry, France"
 deathPlace: "Berry, France"

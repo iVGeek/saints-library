@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diogo Pires Mimoso"
 honorific: Blessed
-title: "Blessed Diogo Pires Mimoso"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Nisa, Portalegre, Portugal"

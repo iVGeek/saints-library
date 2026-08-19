@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignacio Caselles García"
 honorific: Blessed
-title: "Blessed Ignacio Caselles García"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Juan Crisóstomo of Gata de Gorgos"

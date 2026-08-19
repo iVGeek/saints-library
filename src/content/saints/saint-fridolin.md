@@ -1,7 +1,6 @@
 ---
 name: "Saint Fridolin of Säckingen"
 honorific: Saint
-title: "Saint Fridolin of Säckingen"
 summary: "Born to the Irish nobility, he became a Benedictine monk at Luxeuil Abbey and at Poitiers, France. Reported to have been present at the baptism of Frankish king Clovis on Christmas day in 496. Fridolin received a vision of Saint Hilary of Poitiers in which he was shown the locati"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Fridolins-Banner.jpg"
 searchAliases:

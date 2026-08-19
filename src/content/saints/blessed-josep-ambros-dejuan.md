@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Ambrós Dejuán"
 honorific: Blessed
-title: "Blessed Josep Ambrós Dejuán"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Víctor Conrad"

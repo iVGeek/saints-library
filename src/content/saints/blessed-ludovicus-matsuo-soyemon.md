@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Matsuo Soyemon"
 honorific: Blessed
-title: "Blessed Ludovicus Matsuo Soyemon"
 summary: "Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Martyr."
 deathYear: 1627
 born: "Nagasaki, Japan"

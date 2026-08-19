@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cipriano Polo García"
 honorific: Blessed
-title: "Blessed Cipriano Polo García"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

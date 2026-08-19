@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovic Frarijn"
 honorific: Blessed
-title: "Blessed Ludovic Frarijn"
 summary: "Dominican priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ludovic-Frarijn.jpg"
 searchAliases:

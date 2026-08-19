@@ -1,7 +1,6 @@
 ---
 name: "Saint Zachary of Vienne"
 honorific: Saint
-title: "Saint Zachary of Vienne"
 summary: "Second bishop of Vienne, France. Martyred in the persecutions of Trajan."
 deathYear: 106
 died: "c.106"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulfo of Troyes"
 honorific: Saint
-title: "Saint Ulfo of Troyes"
 summary: "Martyr."
 searchAliases:
   - "Hugh"

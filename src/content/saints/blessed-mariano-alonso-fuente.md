@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Alonso Fuente"
 honorific: Blessed
-title: "Blessed Mariano Alonso Fuente"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Laurentino"

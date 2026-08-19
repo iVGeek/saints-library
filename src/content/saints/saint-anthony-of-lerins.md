@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony of Lérins"
 honorific: Saint
-title: "Saint Anthony of Lérins"
 summary: "Anthony's father died when the boy was eight years old, and he was raised for several years by Saint Severinus of Noricum. Severinus, however, died when the boy was in his early teens, and Antony moved in with his uncle, Bishop Constantius of Lorsch, Bavaria (in modern Germany. W"
 searchAliases:
   - "Antony of Lérins"

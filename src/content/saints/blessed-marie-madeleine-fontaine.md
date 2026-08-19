@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Madeleine Fontaine"
 honorific: Blessed
-title: "Blessed Marie-Madeleine Fontaine"
 summary: "Joined the Sisters of Charity of Saint Vincent de Paul in 1748. Ran a girl's school for 19 years. Superior of the convent at Arras, France in 1767. Arrested with three of her sisters in 1794 by French Revolutionaries. When the sisters refused to take the Oath of the Constitution,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Daughters-of-Charity.jpg"
 birthYear: 1723

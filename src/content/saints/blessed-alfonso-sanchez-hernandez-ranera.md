@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfonso Sánchez Hernández-Ranera"
 honorific: Blessed
-title: "Blessed Alfonso Sánchez Hernández-Ranera"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

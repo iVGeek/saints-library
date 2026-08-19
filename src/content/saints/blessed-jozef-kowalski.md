@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jozef Kowalski"
 honorific: Blessed
-title: "Blessed Jozef Kowalski"
 summary: "Educated at the local state elementary school, and the Salesian school in Auschwitz, Poland. Member of the Holy Brigade, an unofficial group dedicated to the spiritual life of the school. Joseph joined the Salesians in 1927. Ordained in 1938. Personal secretary of the Salesian pr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jozef-Kowalski.jpg"
 searchAliases:

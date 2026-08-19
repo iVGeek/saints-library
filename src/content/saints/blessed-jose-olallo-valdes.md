@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Olallo Valdés"
 honorific: Blessed
-title: "Blessed José Olallo Valdés"
 summary: "José was abandoned as an infant at the age of one month at the Saint Joseph orphanage in Havana, Cuba; he had a note which had his birthdate and the statement that he had not been baptized. The orphanage baptized him 2 days later, and he lived there till he was 7 years old when h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ollalo-Valdés.jpg"
 searchAliases:

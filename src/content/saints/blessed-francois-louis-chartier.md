@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-Louis Chartier"
 honorific: Blessed
-title: "Blessed François-Louis Chartier"
 summary: "Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 searchAliases:
   - "Francesco Luigi Chartier"

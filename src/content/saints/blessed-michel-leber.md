@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michel Leber"
 honorific: Blessed
-title: "Blessed Michel Leber"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1731
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Terrence Albert O'Brien"
 honorific: Blessed
-title: "Blessed Terrence Albert O'Brien"
 summary: "Joined the Dominicans in 1622. Priest. Dominican prior provincial of Ireland. Bishop of Emly, Ireland. He was ordered to acknowledge the English king as head of the Church; he declined. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Terrence-Albert-OBrien1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramon Roca Buscallà"
 honorific: Blessed
-title: "Blessed Ramon Roca Buscallà"
 summary: "Member of the Claretians, professed on 7 June 1907. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

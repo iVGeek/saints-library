@@ -1,7 +1,6 @@
 ---
 name: "Saint Concordius of Nicomedia"
 honorific: Saint
-title: "Saint Concordius of Nicomedia"
 summary: "Son of Saint Zenone of Nicomedia. Martyred in the persecutions of Diocletian."
 died: "Nicomedia, Bithynia (in modern Turkey)"
 deathPlace: "Bithynia (modern Turkey)"

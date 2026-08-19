@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix-Célestin Gombert Olympe"
 honorific: Blessed
-title: "Blessed Félix-Célestin Gombert Olympe"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Jean-Marie"

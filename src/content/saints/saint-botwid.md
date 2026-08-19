@@ -1,7 +1,6 @@
 ---
 name: "Saint Botwid of Sudermannland"
 honorific: Saint
-title: "Saint Botwid of Sudermannland"
 summary: "Raised a pagan in Sweden. He converted to Christianity in England, and then returned home to the region of Södermanland in southeastern Sweden as a missionary. Murdered by an apostate Finnish pagan slave whom Botvid had instructed in the faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Botvid.jpg"
 searchAliases:

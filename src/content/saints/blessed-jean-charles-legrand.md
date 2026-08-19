@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Charles Legrand"
 honorific: Blessed
-title: "Blessed Jean-Charles Legrand"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1745
 deathYear: 1792

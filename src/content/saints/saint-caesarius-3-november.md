@@ -1,7 +1,6 @@
 ---
 name: "Saint Caesarius"
 honorific: Saint
-title: "Saint Caesarius"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "250 at Caesarea, Cappadocia"

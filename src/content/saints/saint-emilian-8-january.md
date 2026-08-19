@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian"
 honorific: Saint
-title: "Saint Emilian"
 summary: "A confessor of the faith. No details about him have survived."
 searchAliases:
   - "Aemilian"

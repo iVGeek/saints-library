@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mancius Yoshino Han'emon"
 honorific: Blessed
-title: "Blessed Mancius Yoshino Han'emon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Iulia Yoshino. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

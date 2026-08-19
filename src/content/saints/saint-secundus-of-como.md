@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of Como"
 honorific: Saint
-title: "Saint Secundus of Como"
 summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian."
 deathYear: 295
 died: "c.295 on the north side of Lake Como, near Samolaco, Italy"

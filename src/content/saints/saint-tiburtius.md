@@ -1,7 +1,6 @@
 ---
 name: "Saint Tiburtius"
 honorific: Saint
-title: "Saint Tiburtius"
 summary: "Martyr."
 deathYear: 690
 died: "690 in the Sabine region of Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicander of Venafro"
 honorific: Saint
-title: "Saint Nicander of Venafro"
 summary: "Soldier in the imperial Romany army. Married to Saint Daria of Venafro. Convert to Christianity. Martyred in the persecutions of Maximian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg"
 deathYear: 303

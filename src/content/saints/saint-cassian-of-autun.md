@@ -1,7 +1,6 @@
 ---
 name: "Saint Cassian of Autun"
 honorific: Saint
-title: "Saint Cassian of Autun"
 summary: "Born to the Egyptian mobility. Worked with Saint Reticius. Bishop of Autun, France from 314 to the end of his life; he served for 36 years. Miracle worker."
 searchAliases:
   - "Cassiano"

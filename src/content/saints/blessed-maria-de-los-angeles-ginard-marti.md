@@ -1,7 +1,6 @@
 ---
 name: "Blessed María de Los Ángeles Ginard Martí"
 honorific: Blessed
-title: "Blessed María de Los Ángeles Ginard Martí"
 summary: "Member of the Congregation of Sisters, Zealous of Eucharistic Devotion. Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-de-Los-Ángeles-Ginard-Martí.jpg"
 searchAliases:

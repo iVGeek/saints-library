@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Bullaker"
 honorific: Blessed
-title: "Blessed Thomas Bullaker"
 summary: "Born the only son of a pious, well-to-do physician. Studied at the English College in Saint-Omer, France, and the Royal English College at Valladolid, Spain. Joined the Franciscans in 1622, taking the name John Baptist. Ordained in Valladolid c.1627. He returned to England where"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Thomas_Bullaker.jpg"
 searchAliases:

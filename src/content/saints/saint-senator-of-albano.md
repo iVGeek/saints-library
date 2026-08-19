@@ -1,7 +1,6 @@
 ---
 name: "Saint Senator of Albano"
 honorific: Saint
-title: "Saint Senator of Albano"
 summary: "Martyr."
 searchAliases:
   - "Senatore"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel López Álvarez"
 honorific: Blessed
-title: "Blessed Manuel López Álvarez"
 summary: "Born to a peasant family, Manuel was baptized on the day he was born. Ordained as a priest in the archdiocese of Granada, Spain on 16 July 1905. Parish priest in Alcolea, Spain. In the time leading up to the Spanish Civil War, Father Manuel came increasingly in conflict with anti"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Lopez-Alvarez.jpg"
 birthYear: 1881

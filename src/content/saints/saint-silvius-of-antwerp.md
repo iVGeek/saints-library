@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvius of Antwerp"
 honorific: Saint
-title: "Saint Silvius of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Silvio"

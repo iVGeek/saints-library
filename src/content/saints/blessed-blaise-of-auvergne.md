@@ -1,7 +1,6 @@
 ---
 name: "Blessed Blaise of Auvergne"
 honorific: Blessed
-title: "Blessed Blaise of Auvergne"
 summary: "Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher."
 searchAliases:
   - "Blasius of Auvergne"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Placidus of Montecarotto"
 honorific: Saint
-title: "Saint Placidus of Montecarotto"
 summary: "Priest martyred while celebrating Mass for the crime of having given Christian burial to other Christian martyrs."
 searchAliases:
   - "Placidus of Trasacco"

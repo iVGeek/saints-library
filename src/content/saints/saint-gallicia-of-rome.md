@@ -1,7 +1,6 @@
 ---
 name: "Saint Gallicia of Rome"
 honorific: Saint
-title: "Saint Gallicia of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

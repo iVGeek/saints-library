@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles-François le Gué"
 honorific: Blessed
-title: "Blessed Charles-François le Gué"
 summary: "Jesuit priest One of the Martyrs of September."
 birthYear: 1724
 deathYear: 1792

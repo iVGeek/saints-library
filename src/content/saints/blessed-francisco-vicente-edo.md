@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Vicente Edo"
 honorific: Blessed
-title: "Blessed Francisco Vicente Edo"
 summary: "Member of the De La Salle Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Félix Adriano"

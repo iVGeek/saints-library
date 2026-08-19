@@ -1,7 +1,6 @@
 ---
 name: "Blessed Évangéliste of Verona"
 honorific: Blessed
-title: "Blessed Évangéliste of Verona"
 summary: "13th century Augustinian hermit in the area of Verona, Italy. Priest."
 searchAliases:
   - "Evangelist"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giacinto Alegre Pujals"
 honorific: Venerable
-title: "Venerable Giacinto Alegre Pujals"
 summary: "Joined the Jesuits in 1892. Priest. Developed a ministry to the sick in hospital and the poor on the streets."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giacinto-Alegre-Pujals.jpg"
 searchAliases:

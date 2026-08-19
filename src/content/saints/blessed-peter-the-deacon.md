@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter the Deacon"
 honorific: Blessed
-title: "Blessed Peter the Deacon"
 summary: "Benedictine monk of the Sant'Andrea al Celio monastery in Rome, Italy. Friend and fellow student of Pope Saint Gregory the Great. Ordained a deacon, Peter assisted and travelled with Pope Gregory, served as his representative in Sicily and in Campania, and insured that Gregory's"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Peter_the_Deacon.jpg"
 searchAliases:

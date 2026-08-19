@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurontus"
 honorific: Saint
-title: "Saint Maurontus"
 summary: "Benedictine monk. Abbot. Founder of Saint-Florentle-Vieil abbey, Anjou, France."
 searchAliases:
   - "Maurentius"

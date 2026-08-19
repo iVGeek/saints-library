@@ -1,7 +1,6 @@
 ---
 name: "Saint Opportuna of Montreuil"
 honorific: Saint
-title: "Saint Opportuna of Montreuil"
 summary: "Sister of Saint Chrodegang of Séez. Niece of Saint Lanthilda. Benedictine nun and abbess at the convent near Almenêches, France, receiving the veil from her brother. Legend says that a peasant stole a donkey from her convent and refused to acknowledge his crime. Opportuna turned"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Stopportuna.PNG"
 searchAliases:

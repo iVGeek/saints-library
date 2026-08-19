@@ -1,7 +1,6 @@
 ---
 name: "Saint Alban of Britain"
 honorific: Saint
-title: "Saint Alban of Britain"
 summary: "Soldier in the imperial Roman army of Diocletian. Convert, brought to the faith by Saint Amphibalus of Verulam whom he had sheltered. The first martyr in Britain, dying in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alban-of-Britain.jpg"
 searchAliases:

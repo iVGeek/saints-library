@@ -1,7 +1,6 @@
 ---
 name: "Saint Strato of Alexandria"
 honorific: Saint
-title: "Saint Strato of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Straton"

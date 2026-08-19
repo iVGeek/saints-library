@@ -1,7 +1,6 @@
 ---
 name: "Saint Robert of Knaresborough"
 honorific: Saint
-title: "Saint Robert of Knaresborough"
 summary: "The son of the mayor of York, England, an office his brother later held, early in life Robert began studying for the priesthood. He was ordained sub-deacon, but left his studies to become a Cistercian novice at the Newminster Abbey. Feeling a call to a life of holy solitude, he l"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/St_Robert%27s_Cave_-_geograph.org.uk_-_403773.jpg"
 searchAliases:

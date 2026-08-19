@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxentius of Poitou"
 honorific: Saint
-title: "Saint Maxentius of Poitou"
 summary: "Spiritual student of Saint Severus of Poitiers. Monk at a monastery in Poitou, France, a place now Saint-Maixent in his honour; he eventually served as abbot. He was highly esteemed by the local laity whom he sheltered during invasions. Known as a miracle worker."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maxentius-of-Poitou.jpg"
 searchAliases:

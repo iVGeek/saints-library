@@ -1,7 +1,6 @@
 ---
 name: "Saint Anna An Xingshi"
 honorific: Venerable
-title: "Saint Anna An Xingshi"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 birthYear: 1828

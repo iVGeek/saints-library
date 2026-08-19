@@ -1,7 +1,6 @@
 ---
 name: "Saint Liadán of Killyon"
 honorific: Saint
-title: "Saint Liadán of Killyon"
 summary: "Daughter of a pagan chieftain, and the mother of Saint Kieran; a legend in the Oengu Martyrology says that she conceived Kieran “when a star fell into her mouth”. She was a convert, brought to the faith by her son. Helping Saint Patrick and Saint Kieran spread the faith, she beca"
 searchAliases:
   - "Liadain"

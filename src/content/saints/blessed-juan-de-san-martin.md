@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de San Martín"
 honorific: Blessed
-title: "Blessed Juan de San Martín"
 summary: "Jesuit novice missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"

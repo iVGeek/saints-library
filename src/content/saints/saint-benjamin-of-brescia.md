@@ -1,7 +1,6 @@
 ---
 name: "Saint Benjamin of Brescia"
 honorific: Saint
-title: "Saint Benjamin of Brescia"
 summary: "Martyr."
 deathYear: 125
 died: "125 in Brescia, Italy"

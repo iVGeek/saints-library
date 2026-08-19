@@ -1,7 +1,6 @@
 ---
 name: "Saint Luca of Rome"
 honorific: Saint
-title: "Saint Luca of Rome"
 summary: "Martyr."
 searchAliases:
   - "Lucius"

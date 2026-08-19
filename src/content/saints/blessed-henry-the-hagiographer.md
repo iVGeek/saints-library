@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henry the Hagiographer"
 honorific: Blessed
-title: "Blessed Henry the Hagiographer"
 summary: "Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer."
 searchAliases:
   - "Heric"

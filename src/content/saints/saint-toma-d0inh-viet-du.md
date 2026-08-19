@@ -1,7 +1,6 @@
 ---
 name: "Saint Tôma Ðinh Viet Du"
 honorific: Venerable
-title: "Saint Tôma Ðinh Viet Du"
 summary: "Dominican priest. One of the Martyrs of Vietnam."
 birthYear: 1783
 deathYear: 1839

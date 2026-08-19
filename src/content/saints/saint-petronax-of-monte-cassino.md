@@ -1,7 +1,6 @@
 ---
 name: "Saint Petronax of Monte Cassino"
 honorific: Saint
-title: "Saint Petronax of Monte Cassino"
 summary: "Benedictine monk at Brescia, Italy. Abbot. On assignment from Pope Gregory II in 717, he re-built, re-staffed and re-invigorated the monastery at Monte Cassino, Italy following the Lombard invasions that had left the place damaged and deserted. He served as abbot there, and by th"
 searchAliases:
   - "Petronax of Brescia"

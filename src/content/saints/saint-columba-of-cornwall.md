@@ -1,7 +1,6 @@
 ---
 name: "Saint Columba of Cornwall"
 honorific: Saint
-title: "Saint Columba of Cornwall"
 summary: "Convert who became Christian when the Holy Spirit appeared to her in the form of a dove; hence, the name Columba, meaning dove. Martyred by the king of Cornwall. Two parishes in Cornwall are dedicated to her, but no other information has survived."
 died: "in Cornwall, England, date unknown"
 deathPlace: "England, date unknown"

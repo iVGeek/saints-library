@@ -1,7 +1,6 @@
 ---
 name: "Saint Fechno"
 honorific: Saint
-title: "Saint Fechno"
 summary: "Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland."
 searchAliases:
   - "Fiachna"

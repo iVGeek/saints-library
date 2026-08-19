@@ -1,7 +1,6 @@
 ---
 name: "Saint Carissima of Rauzeille"
 honorific: Saint
-title: "Saint Carissima of Rauzeille"
 summary: "Born to the Gallic nobility. Married. Mother. Widow. Helped found the abbey of Saint-Martin in Rauzeille near Aubusson, Creuse, Gaul (in modern France)."
 searchAliases:
   - "Careme"

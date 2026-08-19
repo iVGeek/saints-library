@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Anne Vaillot"
 honorific: Blessed
-title: "Blessed Marie-Anne Vaillot"
 summary: "Daughter of Charity of Saint Vincent de Paul nun of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Anne-Vaillot.jpg"
 birthYear: 1736

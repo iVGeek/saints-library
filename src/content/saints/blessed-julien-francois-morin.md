@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julien-François Morin"
 honorific: Blessed
-title: "Blessed Julien-François Morin"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 birthYear: 1733
 deathYear: 1794

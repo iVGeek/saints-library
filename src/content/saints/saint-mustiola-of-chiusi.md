@@ -1,7 +1,6 @@
 ---
 name: "Saint Mustiola of Chiusi"
 honorific: Saint
-title: "Saint Mustiola of Chiusi"
 summary: "Cousin of Emperor Claudius. Martyred with Saint Irenaeus of Chiusi for ministering to Christian prisoners, and burying martyrs."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mustiola-of-Chiusi.jpg"
 deathYear: 273

@@ -1,7 +1,6 @@
 ---
 name: "Saint Chuniald"
 honorific: Saint
-title: "Saint Chuniald"
 summary: "Seventh-century missionary priest in the region of Bavaria in modern Germany and Austria. Worked with Saint Rupert of Salzburg."
 searchAliases:
   - "Conald"

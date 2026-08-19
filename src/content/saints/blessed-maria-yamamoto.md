@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Yamamoto"
 honorific: Blessed
-title: "Blessed Maria Yamamoto"
 summary: "Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Andreas Yamamoto Shichiemon. Marytr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Caecilius of Carthage"
 honorific: Saint
-title: "Saint Caecilius of Carthage"
 summary: "Third century priest in Carthage, North Africa. He converted Saint Cyprian of Carthage to Christianity. Cyprian so revered Caecilius that he took his name, and looked after his family after the priest's death."
 searchAliases:
   - "Caecilian"

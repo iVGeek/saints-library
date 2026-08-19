@@ -1,7 +1,6 @@
 ---
 name: "Saint Fabius of Rome"
 honorific: Saint
-title: "Saint Fabius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Fabio"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hippolytus Galantini"
 honorific: Blessed
-title: "Blessed Hippolytus Galantini"
 summary: "Silk-weaver. From age twelve, he assisted priests in teaching children their catechism. As an adult, he formed the congregation of Italian Doctrinarians, who taught children catechism."
 image: "http://catholicsaints.info/wp-content/uploads/img-ippolito-galantini.jpg"
 searchAliases:

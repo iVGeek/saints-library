@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Mir Vime"
 honorific: Blessed
-title: "Blessed Jaume Mir Vime"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936

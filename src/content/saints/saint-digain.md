@@ -1,7 +1,6 @@
 ---
 name: "Saint Digain"
 honorific: Saint
-title: "Saint Digain"
 summary: "Born to the 5th-century nobility, the son of Constantine, a lord in Cornwall, England. The village of Llangernyw, Wales is named after him."
 searchAliases:
   - "Dygain"

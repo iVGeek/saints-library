@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Catania"
 honorific: Saint
-title: "Saint Stephen of Catania"
 summary: "One of a group of Christians martyred together, date unknown. No other information has survived."
 died: "Catania, Sicily, Italy"
 deathPlace: "Sicily, Italy"

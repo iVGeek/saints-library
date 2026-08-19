@@ -1,7 +1,6 @@
 ---
 name: "Saint Enda of Arran"
 honorific: Saint
-title: "Saint Enda of Arran"
 summary: "An Irish prince, the son of Conall Derg of Ergall, Ulster. Brother of Saint Fanchea of Rossory who brought him to the Faith. Brother-in-law to King Oengus of Munster, Ireland. Soldier. When he converted to Christianity, he gave up the military life and his dreams of conquest, and"
 searchAliases:
   - "Enda of Aran"

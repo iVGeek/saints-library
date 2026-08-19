@@ -1,7 +1,6 @@
 ---
 name: "Saint Segundo of Ábula"
 honorific: Saint
-title: "Saint Segundo of Ábula"
 summary: "Early missionary and bishop of Ábula (modern Abla, Spain)."
 region: "Spain"
 feastDay:

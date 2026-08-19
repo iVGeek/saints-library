@@ -1,7 +1,6 @@
 ---
 name: "Blessed Charles Steeb"
 honorific: Blessed
-title: "Blessed Charles Steeb"
 summary: "Born to a wealthy Lutheran family. Studied briefly in Paris, France as a teenager, but fled during the French Revolution. While studying in Verona, Italy his contact with priests and lay Catholics led to his  conversion to Catholicism; his parents disowned him. Priest, with a spe"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Carlo_Steeb.jpg"
 searchAliases:

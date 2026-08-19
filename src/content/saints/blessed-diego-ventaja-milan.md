@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego Ventaja Milán"
 honorific: Blessed
-title: "Blessed Diego Ventaja Milán"
 summary: "Son of Juan Ventaja and Palmira Milán. Educated at Sacro Monte Granada, and both the Collegio San Giuseppe and Pontifical Gregorian University in Rome, Italy. Priest, ordained in Rome in 1902. Chaplain, then church canon and then professor of moral theology at Sacro Monte Granada"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/VENTAJA_MIL%C3%81N%2C_Diego_%281%29.jpg"
 searchAliases:

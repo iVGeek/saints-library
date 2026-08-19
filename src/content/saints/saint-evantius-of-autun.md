@@ -1,7 +1,6 @@
 ---
 name: "Saint Evantius of Autun"
 honorific: Saint
-title: "Saint Evantius of Autun"
 summary: "Bishop of Autun, France c.400."
 searchAliases:
   - "Evancius"

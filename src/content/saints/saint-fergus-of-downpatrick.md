@@ -1,7 +1,6 @@
 ---
 name: "Saint Fergus of Downpatrick"
 honorific: Saint
-title: "Saint Fergus of Downpatrick"
 summary: "Born to Irish royalty, a descendant of king Coelbadh. Sixth century bishop of Downpatrick, Ireland."
 searchAliases:
   - "Fergus McAengus"

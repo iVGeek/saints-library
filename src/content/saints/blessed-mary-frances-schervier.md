@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mary Frances Schervier"
 honorific: Blessed
-title: "Blessed Mary Frances Schervier"
 summary: "Daughter of Johann Heinrich Schervier, a wealthy needle-factory owner and vice-mayor of Aachen, Germany, and Maria Louise Migeon; god-daughter of Emperor Francis I of Austria. She ran her father's household at age 16 after the death of her mother and two older sisters to tubercul"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Franziska_schervier.jpg"
 searchAliases:

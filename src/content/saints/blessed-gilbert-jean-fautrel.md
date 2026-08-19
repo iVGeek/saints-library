@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gilbert-Jean Fautrel"
 honorific: Blessed
-title: "Blessed Gilbert-Jean Fautrel"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1730
 deathYear: 1792

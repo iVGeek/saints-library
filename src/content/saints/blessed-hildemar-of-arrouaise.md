@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hildemar of Arrouaise"
 honorific: Blessed
-title: "Blessed Hildemar of Arrouaise"
 summary: "Court chaplain to William the Conqueror in England. Hermit in the forest of Arrouaise, Artois (in modern France) in 1090. His reputation for sanctity attracted disciples, and with them he founded the Augustinian monastery at Arrouaise. Martyr."
 searchAliases:
   - "Heldemar"

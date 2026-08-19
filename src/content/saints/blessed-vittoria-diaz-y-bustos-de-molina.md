@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vittoria Diaz y Bustos de Molina"
 honorific: Blessed
-title: "Blessed Vittoria Diaz y Bustos de Molina"
 summary: "Lay woman of the diocese of Córdoba, Spain. She studied at the teacher's college in Seville, Spain, earning her degree in 1923. She joined the Teresian Institute in 1926. Taught school in rural Spain where she worked at night to educate adults and working women. She founded a lib"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Victoria-Díez-Bustos-de-Molina.jpg"
 birthYear: 1903

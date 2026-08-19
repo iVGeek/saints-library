@@ -1,7 +1,6 @@
 ---
 name: "Saint Maccaris of Corinth"
 honorific: Saint
-title: "Saint Maccaris of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Macarius"

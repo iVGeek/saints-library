@@ -1,7 +1,6 @@
 ---
 name: "Saint Liudhard"
 honorific: Saint
-title: "Saint Liudhard"
 summary: "Chaplain of Queen Bertha of Kent. Bishop. Helped convert King Ethelbert of Kent, which led to the conversion of all of Kent, England."
 searchAliases:
   - "Letard"

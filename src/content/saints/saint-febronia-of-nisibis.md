@@ -1,7 +1,6 @@
 ---
 name: "Saint Febronia of Nisibis"
 honorific: Saint
-title: "Saint Febronia of Nisibis"
 summary: "Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry Diocletian's nephew Lysimachus, and stop him from joining the"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Martirio_s._febronia%2C_coste%2C_palagonia.jpg"
 searchAliases:

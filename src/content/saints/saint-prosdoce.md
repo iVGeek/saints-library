@@ -1,7 +1,6 @@
 ---
 name: "Saint Prosdoce"
 honorific: Saint
-title: "Saint Prosdoce"
 summary: "Daughter of Saint Domnina; sister of Saint Berenice. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Syria"

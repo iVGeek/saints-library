@@ -1,7 +1,6 @@
 ---
 name: "Saint Domingo Henares de Zafra Cubero"
 honorific: Venerable
-title: "Saint Domingo Henares de Zafra Cubero"
 summary: "Born to a poor family. Joined the Dominicans at the Santa Croce monastery in Granada, Spain in 1783. Missionary to the area of modern Vietnam, sailing on 29 September 1785 and arriving in the Philippines on 9 July 1786. While studying theology at the College of Saint Thomas in Ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Domingo-Henares-de-Zafra-Cubero.jpg"
 searchAliases:

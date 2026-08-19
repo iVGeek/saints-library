@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jesús Aníbal Gómez y Gómez"
 honorific: Blessed
-title: "Blessed Jesús Aníbal Gómez y Gómez"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Anibal-Gomez-y-Gomez.jpg"
 birthYear: 1914

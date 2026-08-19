@@ -1,7 +1,6 @@
 ---
 name: "Blessed Berengar de Alenys"
 honorific: Blessed
-title: "Blessed Berengar de Alenys"
 summary: "Mercedarian monk. Abbot of the convent of Santa Maria in Avignon, France."
 image: "http://catholicsaints.info/wp-content/uploads/Berenegar-of-Alenys.jpg"
 searchAliases:

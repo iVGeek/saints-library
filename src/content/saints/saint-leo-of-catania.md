@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Catania"
 honorific: Saint
-title: "Saint Leo of Catania"
 summary: "Learned priest in Ravenna, Italy, and then in Reggio Calabria, Italy. Bishop of Catania, Italy; legend says that an angel appeared in dreams to the people in Catania to point them to Leo. He fought to suppress blasphemous magicians that people in his diocese saw as an alternative"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Leo_of_Catania%2C_Menologion_of_Basil_II.png"
 searchAliases:

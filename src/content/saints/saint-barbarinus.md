@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbarinus"
 honorific: Saint
-title: "Saint Barbarinus"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Barbarunus"

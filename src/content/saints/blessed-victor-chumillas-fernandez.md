@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victor Chumillas-Fernández"
 honorific: Blessed
-title: "Blessed Victor Chumillas-Fernández"
 summary: "Son of Alfonso and Catalina Chumillas-Fernández, pious parents of six children; baptized at the age of two days. Victor's father died when the boy was quite young, he had to work to help support his family, but he was early drawn to religious life, and was fascinated with the Mar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Victor-Chumillas-Fernández.jpg"
 birthYear: 1902

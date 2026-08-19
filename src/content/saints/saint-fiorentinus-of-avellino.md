@@ -1,7 +1,6 @@
 ---
 name: "Saint Fiorentinus of Avellino"
 honorific: Saint
-title: "Saint Fiorentinus of Avellino"
 summary: "Priest in Antioch, Turkey, led by Saint Modestinus of Avellina. Imprisoned for his faith in the persecutions of Diocletian, he fled to Italy. There he was again imprisoned and martyred in persecutions of Maximian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Avellino.jpg"
 searchAliases:

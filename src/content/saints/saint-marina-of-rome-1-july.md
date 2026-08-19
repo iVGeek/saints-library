@@ -1,7 +1,6 @@
 ---
 name: "Saint Marina of Rome"
 honorific: Saint
-title: "Saint Marina of Rome"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

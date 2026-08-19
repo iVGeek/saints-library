@@ -1,7 +1,6 @@
 ---
 name: "Saint Ephrem of Syria"
 honorific: Saint
-title: "Saint Ephrem of Syria"
 summary: "May have been the son of a pagan priest. Brought to the faith by Saint James of Nisibis, and baptized at age 18. Helped to evangelize Nisibis, Mesopotamia. May have attended the Council of Nicaea in 325. Deacon. Preacher. Had a great devotion to the Blessed Virgin Mary. In 363 Ni"
 image: "http://catholicsaints.info/wp-content/gallery/saint-ephrem-of-syria/saint-ephrem-of-syria-01.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Frans Rembrandts"
 honorific: Blessed
-title: "Blessed Frans Rembrandts"
 summary: "Son of a man named Jacob. Priest. Martyred by Calvinists."
 deathYear: 1572
 died: "1572 in Haarlem, Netherlands"

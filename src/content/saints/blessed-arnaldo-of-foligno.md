@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnaldo of Foligno"
 honorific: Blessed
-title: "Blessed Arnaldo of Foligno"
 summary: "Franciscan friar. Confessor, spiritual director and biographer of Blessed Angela of Foligno."
 searchAliases:
   - "Arnold"

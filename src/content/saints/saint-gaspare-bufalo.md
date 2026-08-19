@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaspare Bufalo"
 honorific: Venerable
-title: "Saint Gaspare Bufalo"
 summary: "Son of Antonio del Bufalo, a chef to Prince Altieri, and Annunziata Quartieroni. As an infant he suffered from an eye condition that threatened to blind him; he was cured in 1788 following prayers for the intervention of Saint Francis Xavier. Studied at the Collegium Romanum from"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bufalo1.jpg"
 searchAliases:

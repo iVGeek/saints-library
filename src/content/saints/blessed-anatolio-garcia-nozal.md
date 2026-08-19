@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anatolio García Nozal"
 honorific: Blessed
-title: "Blessed Anatolio García Nozal"
 summary: "Passionist priest martyred in the Spanish Civil War."
 searchAliases:
   - "Ildefonso of the Cross"

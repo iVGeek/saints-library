@@ -1,7 +1,6 @@
 ---
 name: "Saint Abra"
 honorific: Saint
-title: "Saint Abra"
 summary: "Daughter of Saint Hilary of Poitiers. Nun. Helped spread the faith around Poitiers, France."
 searchAliases:
   - "Abre"

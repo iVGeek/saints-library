@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodulphus of Lobbes"
 honorific: Saint
-title: "Saint Theodulphus of Lobbes"
 summary: "Benedictine monk. Abbot of Lobbes Abbey in Belgium. Bishop of Lobbes."
 searchAliases:
   - "Teodolfo"

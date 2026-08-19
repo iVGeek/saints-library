@@ -1,7 +1,6 @@
 ---
 name: "Blessed Diego Martinez"
 honorific: Blessed
-title: "Blessed Diego Martinez"
 summary: "Mercedarian friar in Spain. Came to the Americas with Francisco Pizarro and Diego de Almagro. Missionary in Panama, and then in Cuzco, Peru. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Martinez.jpg"
 deathYear: 1536

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Peris Ramos"
 honorific: Blessed
-title: "Blessed José Peris Ramos"
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Patermutius of Egypt"
 honorific: Saint
-title: "Saint Patermutius of Egypt"
 summary: "A notorious robber and thief, he converted to Christianity, brought to the faith by Saint Copra. Desert hermit in Egypt. At age 75, he was arrested in the persecutions of Julian the Apostate for refusing to sacrifice to idols. Julian sent Copra, who had renounced Christianity, to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Patermutius-of-Egypt.jpg"
 searchAliases:

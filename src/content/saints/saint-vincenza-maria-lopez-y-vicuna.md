@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincenza María López y Vicuña"
 honorific: Venerable
-title: "Saint Vincenza María López y Vicuña"
 summary: "Daughter of a lawyer. Educated in Madrid, Spain. As a young woman she refused an arranged marriage and took a private vow of chastity. She lived with her aunt, Eulolia de Vicuna, who had founded a home for domestic servants. With her aunt's help, Vincenza founded a group of women"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vincenza-María-López-y-Vicuña.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Eigil of Fulda"
 honorific: Saint
-title: "Saint Eigil of Fulda"
 summary: "Born to the Bavarian nobility; nephew of Saint Sturmi of Fulda. Educated in Fulda, Germany in the monastery of his uncle Sturmi. Eigil became a Benedictine monk in Fulda. Priest. Teacher at the monastery school. Abbot of the monastery in 817, a house that was in decline at that p"
 searchAliases:
   - "Aegil"

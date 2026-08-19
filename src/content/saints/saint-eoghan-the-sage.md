@@ -1,7 +1,6 @@
 ---
 name: "Saint Eoghan the Sage"
 honorific: Saint
-title: "Saint Eoghan the Sage"
 summary: "No reliable information has survived."
 searchAliases:
   - "Eoghan Sapiens"

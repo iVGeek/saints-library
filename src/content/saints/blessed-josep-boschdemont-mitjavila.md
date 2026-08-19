@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Boschdemont Mitjavila"
 honorific: Blessed
-title: "Blessed Josep Boschdemont Mitjavila"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Gilberto de Jesús"

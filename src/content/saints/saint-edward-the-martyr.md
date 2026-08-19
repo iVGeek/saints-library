@@ -1,7 +1,6 @@
 ---
 name: "Saint Edward the Martyr"
 honorific: Saint
-title: "Saint Edward the Martyr"
 summary: "Son of King Edgar the Peaceful, and &AElig;thelfl&aelig;d. On Edgar's death in 975, there was a disputed succession between Edward and his younger half-brother, &AElig;thelred, Edgar's son by &AElig;lfthryth, but Edward was chosen King of England at age 13; he reigned less than t"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Edward_the_Martyr_-_MS_Royal_14_B_VI.jpg"
 searchAliases:

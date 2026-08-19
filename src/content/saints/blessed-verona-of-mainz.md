@@ -1,7 +1,6 @@
 ---
 name: "Blessed Verona of Mainz"
 honorific: Blessed
-title: "Blessed Verona of Mainz"
 summary: "Sister of Blessed Veronus of Lembeek. Having received supernatural knowledge of her brother's death, Verona set out to find his grave. Having found it, she prayed for him and returned home. She entered religious life, founded several abbeys, and served as abbess of one of them."
 searchAliases:
   - "Verona of Leefdaal"

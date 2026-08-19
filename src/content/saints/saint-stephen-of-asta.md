@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Asta"
 honorific: Saint
-title: "Saint Stephen of Asta"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "c.300 at Asta, Andalusia, Spain"

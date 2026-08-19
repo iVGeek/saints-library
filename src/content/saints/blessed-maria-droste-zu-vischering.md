@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Droste zu Vischering"
 honorific: Blessed
-title: "Blessed Maria Droste zu Vischering"
 summary: "Born to the wealthy German nobility, she had a twin brother, Max, and pious parents, Klemens Heidenreich Franz Hubertus Eusebius Maria, the count Droste zu Vischering, and Helene Clementine Maria Anna Sybille Huberta Antonia, the countess of Galen, who were loyal to the Church du"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Droste-zu-Vischering.jpg"
 searchAliases:

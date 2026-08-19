@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Pierre Bangue"
 honorific: Blessed
-title: "Blessed Jean-Pierre Bangue"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1744
 deathYear: 1792

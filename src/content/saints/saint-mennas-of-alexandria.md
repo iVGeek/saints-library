@@ -1,7 +1,6 @@
 ---
 name: "Saint Mennas of Alexandria"
 honorific: Saint
-title: "Saint Mennas of Alexandria"
 summary: "Martyr."
 deathYear: 312
 died: "beheaded c.312 at Alexandria, Egypt"

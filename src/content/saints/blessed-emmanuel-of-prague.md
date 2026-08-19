@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emmanuel of Prague"
 honorific: Blessed
-title: "Blessed Emmanuel of Prague"
 summary: "Franciscan Friar Minor lay brother who served as cook for his house. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-emmanuel-of-prague.jpg"
 birthYear: 1581

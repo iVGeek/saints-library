@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilissa of Antioch"
 honorific: Saint
-title: "Saint Basilissa of Antioch"
 summary: "Married to Saint Julian of Antioch, they agreed to mutual vows of chastity, and lived as brother and sister, devoted to their faith. She encouraged him during his tribulations in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julian-and-Saint-Basilissa.jpg"
 born: "Syrian"

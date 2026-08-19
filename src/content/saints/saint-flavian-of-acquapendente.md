@@ -1,7 +1,6 @@
 ---
 name: "Saint Flavian of Acquapendente"
 honorific: Saint
-title: "Saint Flavian of Acquapendente"
 summary: "Father of Saint Bibiana and Saint Demetria; married to Saint Dafrosa of Acquapendente. A former prefect of imperial Rome. Julian the Apostate had him branded on the forehead as a slave for remaining loyal to his faith. Exiled to Acquapendente, Tuscany, Italy. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Flavian-of-Acquapendente.jpg"
 deathYear: 362

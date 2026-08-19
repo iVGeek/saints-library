@@ -1,7 +1,6 @@
 ---
 name: "Saint Talmach"
 honorific: Saint
-title: "Saint Talmach"
 summary: "Seventh century spiritual student of Saint Finbar at Lough Erc, Ireland. Founded a monastery."
 region: "Ireland"
 feastDay:

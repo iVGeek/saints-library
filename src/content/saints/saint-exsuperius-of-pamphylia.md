@@ -1,7 +1,6 @@
 ---
 name: "Saint Exsuperius of Pamphylia"
 honorific: Saint
-title: "Saint Exsuperius of Pamphylia"
 summary: "Married to Saint Zoe. Father of Saint Cyriacus and Saint Theodulus. Slave, owned by a rich devout worshipper of the ancient Roman gods in Attalia, Pamphylia. Field worker. One pagan feast day, the family of slave saints was given meat to sacrifice to an idol. They refused, and th"
 searchAliases:
   - "Exuperius"

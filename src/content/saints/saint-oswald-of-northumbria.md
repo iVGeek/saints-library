@@ -1,7 +1,6 @@
 ---
 name: "Saint Oswald of Northumbria"
 honorific: Saint
-title: "Saint Oswald of Northumbria"
 summary: "Son of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, the second of seven children. Brother of Saint Ebbe the Elder. Nephew of Saint Ethelreda. When his father was killed in battle when Oswald was eleven years old, his mother fled with the family"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Saint_Oswald_Durham_Cathedral.jpg"
 birthYear: 605

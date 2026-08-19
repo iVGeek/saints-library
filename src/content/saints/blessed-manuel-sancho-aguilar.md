@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Sancho Aguilar"
 honorific: Blessed
-title: "Blessed Manuel Sancho Aguilar"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Sancho-Aguilar.jpg"
 birthYear: 1874

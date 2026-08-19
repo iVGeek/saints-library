@@ -1,7 +1,6 @@
 ---
 name: "Saint Simon of Jerusalem"
 honorific: Saint
-title: "Saint Simon of Jerusalem"
 summary: "A relative of Jesus, possibly a first cousin. He is mentioned in the Gospel of Matthew, and was one of the 72 disciples. He was present at the Ascension, and is one of the brethren of Christ mentioned in Acts who was present at the birth of the Church on the first Pentecost. Repo"
 image: "http://catholicsaints.info/wp-content/uploads/pls-saint-simeon.jpg"
 searchAliases:

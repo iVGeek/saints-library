@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Solas del Val"
 honorific: Blessed
-title: "Blessed Miguel Solas del Val"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Anselmo Pablo"

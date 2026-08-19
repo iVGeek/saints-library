@@ -1,7 +1,6 @@
 ---
 name: "Blessed Feliciana de Uribe Orbe"
 honorific: Blessed
-title: "Blessed Feliciana de Uribe Orbe"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Feliciana of Our Lady of Mount Carmel"

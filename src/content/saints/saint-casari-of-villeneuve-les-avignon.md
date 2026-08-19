@@ -1,7 +1,6 @@
 ---
 name: "Saint Casari of Villeneuve-lès-Avignon"
 honorific: Saint
-title: "Saint Casari of Villeneuve-lès-Avignon"
 summary: "Hermitess in the area of Avignon, France near where the Abbey Saint-André-de-Villeneuve was founded."
 searchAliases:
   - "Cazarie"

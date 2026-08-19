@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Romero Meneses"
 honorific: Blessed
-title: "Blessed María Romero Meneses"
 summary: "One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved to learn. At the age of twelve she spent a year"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Beata_Mar%C3%ADa_Romero_Meneses.jpg"
 searchAliases:

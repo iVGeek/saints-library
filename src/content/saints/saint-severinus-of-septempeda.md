@@ -1,7 +1,6 @@
 ---
 name: "Saint Severinus of Septempeda"
 honorific: Saint
-title: "Saint Severinus of Septempeda"
 summary: "Brother of Saint Victorinus of Camerino. The two brothers distributed their wealth to the poor in their area, then retired to live as hermits on Monte Nero, Italy. Ordered by Pope Vigilius to become Bishop of Septempeda, an area in the Marches of Ancona, Italy. Severinus was so s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Severinus-of-Septempeda.jpg"
 searchAliases:

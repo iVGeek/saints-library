@@ -1,7 +1,6 @@
 ---
 name: "Saint Victurus of Africa"
 honorific: Saint
-title: "Saint Victurus of Africa"
 summary: "One of a group of 35 martyrs, date unknown. No other information has survived."
 died: "in northwestern Africa"
 region: "Africa"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ptolemy of Rome"
 honorific: Saint
-title: "Saint Ptolemy of Rome"
 summary: "Arrested and martyred in the persecutions of Antoninus Pius for the crime of teaching a woman about Christianity. His story was written by Saint Justin Martyr."
 deathYear: 160
 died: "c.160 in Rome, Italy"

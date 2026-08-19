@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aleix Civil Castellví"
 honorific: Blessed
-title: "Blessed Aleix Civil Castellví"
 summary: "Benedictine monk in the Subiaco Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ildefons"

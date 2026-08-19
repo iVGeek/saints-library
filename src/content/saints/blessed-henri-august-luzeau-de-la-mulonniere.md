@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henri-August Luzeau de la Mulonnière"
 honorific: Blessed
-title: "Blessed Henri-August Luzeau de la Mulonnière"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1762
 deathYear: 1792

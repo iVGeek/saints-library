@@ -1,7 +1,6 @@
 ---
 name: "Saint Venustus of Milan"
 honorific: Saint
-title: "Saint Venustus of Milan"
 summary: "Martyr in Milan, Italy in the persecutions of Diocletian."
 region: "Italy"
 feastDay:

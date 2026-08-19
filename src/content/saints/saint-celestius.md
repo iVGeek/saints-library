@@ -1,7 +1,6 @@
 ---
 name: "Saint Celestius"
 honorific: Saint
-title: "Saint Celestius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Coelestius"

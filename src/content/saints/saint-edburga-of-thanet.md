@@ -1,7 +1,6 @@
 ---
 name: "Saint Edburga of Thanet"
 honorific: Saint
-title: "Saint Edburga of Thanet"
 summary: "Only daughter of King Centwine and Queen Engyth of Wessex, the 8th century royal family of Kent, England. Benedictine nun. Friend and spiritual student of Saint Mildred of Thanet. Abbess of Minster-on-Thanet Abbey in 716. She secured several royal charters for the abbey, and buil"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Edburga-of-Thanet.jpg"
 searchAliases:

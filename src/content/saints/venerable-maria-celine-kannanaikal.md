@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Celine Kannanaikal"
 honorific: Venerable
-title: "Venerable Maria Celine Kannanaikal"
 summary: "Raised in a pious family, Maria had a great devotion to the Virgin Mary, to Saint Teresa of the Child Jesus, to Saint Maria Goretti, and to time spent in Eucharistic adoration. After finishing her education, she spent three years teaching before following a call to religious life"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Celine-Kannanaikal.jpg"
 birthYear: 1931

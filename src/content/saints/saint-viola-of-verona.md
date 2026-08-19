@@ -1,7 +1,6 @@
 ---
 name: "Saint Viola of Verona"
 honorific: Saint
-title: "Saint Viola of Verona"
 summary: "Early martyr. No other information has survived."
 searchAliases:
   - "Iole"

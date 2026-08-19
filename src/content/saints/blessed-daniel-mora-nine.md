@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel Mora Nine"
 honorific: Blessed
-title: "Blessed Daniel Mora Nine"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Daniel-Mora-Nine.jpg"
 searchAliases:

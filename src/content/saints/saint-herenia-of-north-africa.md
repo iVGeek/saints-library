@@ -1,7 +1,6 @@
 ---
 name: "Saint Herenia of North Africa"
 honorific: Saint
-title: "Saint Herenia of North Africa"
 summary: "Martyred in North Africa."
 region: "Africa"
 feastDay:

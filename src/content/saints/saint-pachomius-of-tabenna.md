@@ -1,7 +1,6 @@
 ---
 name: "Saint Pachomius of Tabenna"
 honorific: Saint
-title: "Saint Pachomius of Tabenna"
 summary: "Soldier in the imperial Roman army. Convert in 313. He left the army in 314 and became a spiritual student of Saint Palaemon. Lived as a hermit from 316. During a retreat into the deep desert, he received a vision telling him to build a monastery on the spot and leave the life of"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Pachomius-Abbot.jpg"
 searchAliases:

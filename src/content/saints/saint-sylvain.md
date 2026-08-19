@@ -1,7 +1,6 @@
 ---
 name: "Saint Sylvain"
 honorific: Saint
-title: "Saint Sylvain"
 summary: "6th century hermit near the village of Saint-Pierre-sur-Erve, diocese of Laval, France. A chapel dedicated to him in 1431 is still in use."
 searchAliases:
   - "Silvano"

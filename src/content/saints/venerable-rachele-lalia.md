@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rachele Lalía"
 honorific: Venerable
-title: "Venerable Rachele Lalía"
 summary: "Born to a pious family. At age 15, due to health problems, Rachele was entrusted to the Dominican Sisters in Misilmeri, Palermo, Italy. Joined the Dominicans at age 17. Founded a school, re-built the monastery, and supervised the training of the sisters who would become teachers."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Rachele-Lalía.jpg"
 searchAliases:

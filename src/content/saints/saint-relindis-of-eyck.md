@@ -1,7 +1,6 @@
 ---
 name: "Saint Relindis of Eyck"
 honorific: Saint
-title: "Saint Relindis of Eyck"
 summary: "She and her sister Herlindis were nuns in Valenciennes in northern France. An artist, Relindis was known for her painting and embroidery. Abbess in Maaseik, Belgium."
 searchAliases:
   - "Relindis of Maaseik"

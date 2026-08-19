@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Brazil"
 honorific: Saint
-title: "Martyrs of Brazil"
 summary: "On 25 December 1597 an expedition of colonists, with two Jesuit and two Franciscan evangelists, arrived at Natal, Rio Grande do Norte, Brazil. The region was colonized by Portuguese Catholics, but was invaded by Dutch Calvinists who soon took over the whole territory. They immedi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645

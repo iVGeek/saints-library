@@ -1,7 +1,6 @@
 ---
 name: "Saint Augia of Apt"
 honorific: Saint
-title: "Saint Augia of Apt"
 summary: "Martyr. No other information has survived."
 region: "France"
 feastDay:

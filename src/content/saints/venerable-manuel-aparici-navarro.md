@@ -1,7 +1,6 @@
 ---
 name: "Venerable Manuel Aparici Navarro"
 honorific: Venerable
-title: "Venerable Manuel Aparici Navarro"
 summary: "Member of Catholic Action. Spanish national youth chairman of Catholic Action from 1934 to 1941, a period of great persecutions during the Spanish Civil War. Priest in the archdiocese of Madrid, Spain. Spanish national chaplain of youth for Catholic Action from 1950 to 1959. Help"
 image: "http://catholicsaints.info/wp-content/uploads/Manuel-Aparici-Navarro.gif"
 birthYear: 1902

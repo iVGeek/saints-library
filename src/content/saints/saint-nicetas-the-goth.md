@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicetas the Goth"
 honorific: Saint
-title: "Saint Nicetas the Goth"
 summary: "Convert, brought to Christianity by the missionary and translator Ulphilas. Martyred in the persecutions of King Athanaric."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Nikita_Martyr_%2816th_c.%2C_Yaroslavl_museum%29.jpg"
 deathYear: 370

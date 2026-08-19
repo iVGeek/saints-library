@@ -1,7 +1,6 @@
 ---
 name: "Saint Gratian of Perugia"
 honorific: Saint
-title: "Saint Gratian of Perugia"
 summary: "Imperial Roman soldier. Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Felinus-and-Gratian.jpg"
 searchAliases:

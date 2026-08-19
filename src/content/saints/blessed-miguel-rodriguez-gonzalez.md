@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Rodríguez González"
 honorific: Blessed
-title: "Blessed Miguel Rodríguez González"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936

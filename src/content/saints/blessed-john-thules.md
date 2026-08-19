@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Thules"
 honorific: Blessed
-title: "Blessed John Thules"
 summary: "Priest of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."
 searchAliases:
   - "John Thulis"

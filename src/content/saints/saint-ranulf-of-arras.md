@@ -1,7 +1,6 @@
 ---
 name: "Saint Ranulf of Arras"
 honorific: Saint
-title: "Saint Ranulf of Arras"
 summary: "Father of Saint Hadulph. Martyr."
 searchAliases:
   - "Ragnulf"

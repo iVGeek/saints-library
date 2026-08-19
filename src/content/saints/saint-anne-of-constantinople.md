@@ -1,7 +1,6 @@
 ---
 name: "Saint Anne of Constantinople"
 honorific: Saint
-title: "Saint Anne of Constantinople"
 summary: "Born an aristocrat, she was orphaned young and inherited a large fortune. Though she spent her money to support the poor, she attracted a steady stream of greedy suitors. To avoid marriage to a man named Agarenus, a union supported by Emperor Basil the Macedonian, Anne fled from"
 searchAliases:
   - "Susanna of Constantinople"

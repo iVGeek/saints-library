@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammon of Alexandria"
 honorific: Saint
-title: "Saint Ammon of Alexandria"
 summary: "Priest. Martyred by Diocletian."
 born: "Egypt"
 region: "Italy"

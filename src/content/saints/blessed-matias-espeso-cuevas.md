@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matías Espeso Cuevas"
 honorific: Blessed
-title: "Blessed Matías Espeso Cuevas"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

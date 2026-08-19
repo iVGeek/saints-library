@@ -1,7 +1,6 @@
 ---
 name: "Saint Luke the Evangelist"
 honorific: Saint
-title: "Saint Luke the Evangelist"
 summary: "Born to pagan Greek parents, and possibly a slave. One of the earliest converts to Christianity. Physician, studying in Antioch and Tarsus. Probably travelled as a ship's doctor; many charitable societies of physicians are named for him. Legend has that he was also a painter who"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostle_Luke.jpg/960px-Apostle_Luke.jpg"
 born: "at Antioch"

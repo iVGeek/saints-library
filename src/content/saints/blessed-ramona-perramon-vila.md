@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramona Perramón Vila"
 honorific: Blessed
-title: "Blessed Ramona Perramón Vila"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936

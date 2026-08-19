@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Teresa Casini"
 honorific: Blessed
-title: "Blessed Maria Teresa Casini"
 summary: "Born to a wealthy family, the eldest daughter of Tommaso Casini, an engineer, and Melania Rayner, she was baptized at the age of two days at the cathedral of Frascati, Italy. Her father died when Teresa was about ten years old, and she and her mother moved in with her maternal gr"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Maria_Teresa_Casini.png"
 searchAliases:

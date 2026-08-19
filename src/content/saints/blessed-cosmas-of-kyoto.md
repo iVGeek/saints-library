@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cosmas of Kyoto"
 honorific: Blessed
-title: "Blessed Cosmas of Kyoto"
 summary: "Married layman in the diocese of Kyoto, Japan. Father of Blessed Franciscus Shizaburo. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Kyoto (Miyako), Japan"

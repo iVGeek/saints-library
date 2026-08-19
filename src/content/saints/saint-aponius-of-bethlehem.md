@@ -1,7 +1,6 @@
 ---
 name: "Saint Aponius of Bethlehem"
 honorific: Saint
-title: "Saint Aponius of Bethlehem"
 summary: "First century convert martyred in the persecutions of King Herod Antipas."
 died: "1st century Bethlehem"
 region: "England"

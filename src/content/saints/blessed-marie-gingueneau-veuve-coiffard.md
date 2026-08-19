@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Gingueneau veuve Coiffard"
 honorific: Blessed
-title: "Blessed Marie Gingueneau veuve Coiffard"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1739
 deathYear: 1794

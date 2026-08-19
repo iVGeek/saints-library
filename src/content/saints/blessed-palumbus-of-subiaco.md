@@ -1,7 +1,6 @@
 ---
 name: "Blessed Palumbus of Subiaco"
 honorific: Blessed
-title: "Blessed Palumbus of Subiaco"
 summary: "Benedictine monk. Priest in the abbey of Subiaco, Italy. Lived several years as a hermit near the monastery."
 deathYear: 1070
 died: "c.1070 of natural causes"

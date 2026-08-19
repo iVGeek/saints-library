@@ -1,7 +1,6 @@
 ---
 name: "Saint Marchelm"
 honorific: Saint
-title: "Saint Marchelm"
 summary: "Missionary to the Netherlands with Saint Willibrord of Echternach. Worked with Saint Lebuin of Deventer in the area of Overijssel, Netherlands."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marchelm.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus of San Felice"
 honorific: Saint
-title: "Saint Maurus of San Felice"
 summary: "Sixth-century bishop. Pilgrim to Rome, Italy. Settle in the village of San Felice near Narni, Italy."
 born: "Palestine"
 region: "Italy"

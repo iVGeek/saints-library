@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anthony of Milan"
 honorific: Blessed
-title: "Blessed Anthony of Milan"
 summary: "One of three Franciscans assigned to Armenia with a mission to improve the conditions of Christians there, and to bring the faith to any Muslims who were open. In Arzenga, Armenia, on the first Friday in Lent, the group stood in the street and preached Jesus to the people going t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arzenga.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Silverio"
 honorific: Saint
-title: "Pope Saint Silverio"
 summary: "Son of Pope Hormisdas, who had entered religious life after raising a family. Sub-deacon when elected pope at the insistence of King Theodaha the Ostrogoth. A humble man caught in the middle of a political ploy by Vigilius and the Empress Theodora to seize the pontificate for the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Silverio.jpg"
 searchAliases:

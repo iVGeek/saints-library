@@ -1,7 +1,6 @@
 ---
 name: "Venerable Claudia Russo"
 honorific: Venerable
-title: "Venerable Claudia Russo"
 summary: "Founded the Congregation of the Poor Daughters of the Visitation of the Blessed Virgin Mary."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Miss_Italy_08_Claudia_Russo.jpg"
 birthYear: 1889

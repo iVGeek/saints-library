@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Rome"
 honorific: Saint
-title: "Saint John of Rome"
 summary: "Priest. Martyred during the persecutions of Julian the Apostate."
 deathYear: 362
 born: "at Rome, Italy"

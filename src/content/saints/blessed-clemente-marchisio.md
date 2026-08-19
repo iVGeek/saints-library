@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clemente Marchisio"
 honorific: Blessed
-title: "Blessed Clemente Marchisio"
 summary: "Ordained a priest in the archdiocese of Turin, Italy on 20 September 1856. He served as parish priest in Cambiano, Italy, then Vigone, Italy, and then in 1860 in Rivabalda, Italy where the locals varied from indifferent to hostile to the Church. By being a pious example and using"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Clemente-Marchisio-1.jpg"
 searchAliases:

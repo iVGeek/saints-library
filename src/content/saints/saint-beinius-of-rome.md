@@ -1,7 +1,6 @@
 ---
 name: "Saint Beinius of Rome"
 honorific: Saint
-title: "Saint Beinius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Beinio"

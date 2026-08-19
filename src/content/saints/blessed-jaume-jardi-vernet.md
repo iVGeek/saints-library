@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Jardí Vernet"
 honorific: Blessed
-title: "Blessed Jaume Jardí Vernet"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Fulbert Jaume"

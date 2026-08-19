@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapius of Novara"
 honorific: Saint
-title: "Saint Agapius of Novara"
 summary: "Bishop of Novara, Italy in 417; he served there for 30 years."
 image: "http://catholicsaints.info/wp-content/gallery/saint-agapius-of-novara/saint-agapius-of-novara.jpg"
 searchAliases:

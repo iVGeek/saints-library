@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermes of Moesia"
 honorific: Saint
-title: "Saint Hermes of Moesia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Ermete"

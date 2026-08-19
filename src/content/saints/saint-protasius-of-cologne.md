@@ -1,7 +1,6 @@
 ---
 name: "Saint Protasius of Cologne"
 honorific: Saint
-title: "Saint Protasius of Cologne"
 summary: "Martyr honoured in Cologne, Germany. His details have not survived."
 region: "Germany"
 feastDay:

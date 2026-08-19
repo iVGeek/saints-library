@@ -1,7 +1,6 @@
 ---
 name: "Blessed Asunción Pascual Nieto"
 honorific: Blessed
-title: "Blessed Asunción Pascual Nieto"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936

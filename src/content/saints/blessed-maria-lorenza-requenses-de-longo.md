@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Lorenza Requenses de Longo"
 honorific: Blessed
-title: "Blessed María Lorenza Requenses de Longo"
 summary: "Born to the Spanish nobility. Married to the Regent of the Viceroy of Naples, she and her husband moved to Naples, Italy in 1506. In the early 16th-century, Maria developed a form of paralysis, and when she recovered, she took the name Maria Lorenza. Widowed, she devoted herself"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Lorenza-Requenses-de-Longo.jpg"
 searchAliases:

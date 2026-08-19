@@ -1,7 +1,6 @@
 ---
 name: "Saint Titian of Brescia"
 honorific: Saint
-title: "Saint Titian of Brescia"
 summary: "Evangelizing bishop of Brescia, Italy."
 searchAliases:
   - "Tiziano"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertharius of Monte Cassino"
 honorific: Saint
-title: "Saint Bertharius of Monte Cassino"
 summary: "Born to the royal house of France. Monk at Monte Cassino Abbey. Abbot there in 856. Murdered by invading Saracens while at prayer. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bertharius-of-Monte-Cassino.jpg"
 birthYear: 810

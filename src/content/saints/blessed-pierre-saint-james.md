@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Saint-James"
 honorific: Blessed
-title: "Blessed Pierre Saint-James"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792

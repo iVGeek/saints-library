@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Amumdarain Garmendia"
 honorific: Venerable
-title: "Venerable Antonio Amumdarain Garmendia"
 summary: "Priest in the diocese of Vitoria, Spain. Founded the Instituto Secular Alianza en Jesus por Maria."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Amumdarain-Garmendia.jpg"
 birthYear: 1885

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Kajiya Yoemon"
 honorific: Blessed
-title: "Blessed Thomas Kajiya Yoemon"
 summary: "Child in the Kyoto, Japan, the son of Blessed Anna Kajiya. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Tanba, Kyoto, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Parasceva of Rome"
 honorific: Saint
-title: "Saint Parasceva of Rome"
 summary: "Daughter of the wealthy Christians Politea and Agathon, and was born after much praying by them for a child. Unusually well educated for a girl of her time. When her parents died, she gave her property to the poor and became an persuasive, itinerant preacher. During a time of per"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-of-Rome.jpg"
 searchAliases:

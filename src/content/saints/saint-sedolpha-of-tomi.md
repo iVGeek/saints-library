@@ -1,7 +1,6 @@
 ---
 name: "Saint Sedolpha of Tomi"
 honorific: Saint
-title: "Saint Sedolpha of Tomi"
 summary: "Martyr. No other information has survived."
 died: "Tomi, Scythia (in modern Romania)"
 deathPlace: "Scythia (modern Romania)"

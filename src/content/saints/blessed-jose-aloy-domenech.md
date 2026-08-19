@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Aloy Doménech"
 honorific: Blessed
-title: "Blessed José Aloy Doménech"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Leandro"

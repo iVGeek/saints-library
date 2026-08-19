@@ -1,7 +1,6 @@
 ---
 name: "Saint Victoricus"
 honorific: Saint
-title: "Saint Victoricus"
 summary: "Missionary to the Gallic Moroni people. Arrested for their faith by order of Roman Governor Rictiovarus. Tortured in Amiens, France. Martyr."
 searchAliases:
   - "Victorious"

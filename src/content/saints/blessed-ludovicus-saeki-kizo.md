@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Saeki Kizo"
 honorific: Blessed
-title: "Blessed Ludovicus Saeki Kizo"
 summary: "Son of Blessed Dionisius Saeki Zenka. Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnosus of Campania"
 honorific: Saint
-title: "Saint Arnosus of Campania"
 summary: "One of a group of 23 Christians arrested, tortured and then beheaded together in the later 3rd century by order of governor Rictiovarus in the persecutions of Diocletian."
 feastDay:
   month: 7

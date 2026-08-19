@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joachim Piccolomini"
 honorific: Blessed
-title: "Blessed Joachim Piccolomini"
 summary: "Born to the Sienese nobility. A pious youth, noted for a devotion to the Blessed Virgin, and for giving all he had to the poor. Servite lay-brother at age 14. Spiritual student of Saint Philip Benizi. Urged by his brothers to study for the priesthood, Joachim felt he was not wort"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Joachim_Piccolomini.JPG"
 searchAliases:

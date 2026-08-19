@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonius Sanga"
 honorific: Blessed
-title: "Blessed Antonius Sanga"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Catechist. Memmber of the Confraternity of the Rosary. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 deathYear: 1622

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conon of Naso"
 honorific: Blessed
-title: "Blessed Conon of Naso"
 summary: "Born to the wealthy nobility, the son of Count Anselmo Navacita, governor of Naso, Italy, and Claudia Santapau. At age 15 he turned his back on wealth and became a Basilian monk at the nearby monastery. Monk at the Fragala Abbey in Frazzano, Italy. Spiritual student of Saint Lawr"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/San_Cono_Abate.jpg"
 searchAliases:

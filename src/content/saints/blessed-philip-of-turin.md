@@ -1,7 +1,6 @@
 ---
 name: "Blessed Philip of Turin"
 honorific: Blessed
-title: "Blessed Philip of Turin"
 summary: "On hearing of the work of Saint Francis of Assisi, he tracked down Francis and became one of the first twelve Franciscans. Known for his deep understanding of scripture. Served as the first confessor to the first Poor Clares, and travelled to preach with Saint Francis."
 searchAliases:
   - "Philip Longo"

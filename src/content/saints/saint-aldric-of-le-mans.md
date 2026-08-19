@@ -1,7 +1,6 @@
 ---
 name: "Saint Aldric of Le Mans"
 honorific: Saint
-title: "Saint Aldric of Le Mans"
 summary: "Grew up at Aachen, Germany, serving in the court of Charlemagne. Left court life at age 21 to study for the priesthood at Metz, France. After ordination he served for nine years as chaplain in the court of Charlemagne's son Louis the Pious. Bishop of LeMans, France in 832. Known"
 searchAliases:
   - "Alderico"

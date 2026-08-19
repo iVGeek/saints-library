@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni de Barthulono"
 honorific: Blessed
-title: "Blessed Giovanni de Barthulono"
 summary: "Born to an illustrious Italian family. Mercedarian. Ransomed 49 Christians who had been enslaved in Africa. Noted for his personal piety and virtue."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-de-Barthulono.jpg"
 deathYear: 1500

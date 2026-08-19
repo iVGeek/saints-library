@@ -1,7 +1,6 @@
 ---
 name: "Saint Euprepius of Verona"
 honorific: Saint
-title: "Saint Euprepius of Verona"
 summary: "First century bishop of Verona, Italy."
 searchAliases:
   - "Euprepio"

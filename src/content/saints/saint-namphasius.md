@@ -1,7 +1,6 @@
 ---
 name: "Saint Namphasius"
 honorific: Saint
-title: "Saint Namphasius"
 summary: "After a career as a soldier, he retired from the world to become a hermit near Marcillac, France."
 searchAliases:
   - "Namfasio"

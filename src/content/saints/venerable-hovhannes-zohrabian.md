@@ -1,7 +1,6 @@
 ---
 name: "Venerable Hovhannes Zohrabian"
 honorific: Venerable
-title: "Venerable Hovhannes Zohrabian"
 summary: "The fifth of eight children of Vartan Zohrabian, an Armenian baker, and his wife Sara, née Hovhannessian. Cirillo joined the Franciscan Capuchins in Constantinople in 1898; he took the name Guregh (Cyril) at his profession. Ordained a priest on 12 May 1904. He founded a church, a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Hovhannes-Zohrabian.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abadios"
 honorific: Saint
-title: "Saint Abadios"
 summary: "Soldier. Martyred in the persecutions of Diocletian."
 born: "Bilgai, Egypt"
 died: "thrown from a high rock"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Saint Felix of Rome"
 summary: "One of a group of nine Christians, including seven brothers, martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

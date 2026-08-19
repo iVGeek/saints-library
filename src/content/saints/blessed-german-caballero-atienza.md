@@ -1,7 +1,6 @@
 ---
 name: "Blessed Germán Caballero Atienza"
 honorific: Blessed
-title: "Blessed Germán Caballero Atienza"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

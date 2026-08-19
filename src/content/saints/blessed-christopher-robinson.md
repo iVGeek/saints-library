@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christopher Robinson"
 honorific: Blessed
-title: "Blessed Christopher Robinson"
 summary: "Studied in Douai and Rheims, France beginning in 1590. Ordained 24 February 1592. Returned to England in September 1592 to covertly minister to oppressed Catholics in the areas of Cumberland and Westmoreland. He witnessed the martyrdom of Saint John Boste, and published an accoun"
 birthYear: 1568
 deathYear: 1598

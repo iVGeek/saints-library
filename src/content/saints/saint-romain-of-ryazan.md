@@ -1,7 +1,6 @@
 ---
 name: "Saint Romain of Ryazan"
 honorific: Saint
-title: "Saint Romain of Ryazan"
 summary: "Son of the Prince of Ryazan. Imprisoned, tortured and murdered by pagan Tatars who accused him of insulting their gods. Martyr."
 searchAliases:
   - "Romanus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioachim Díaz Hirayama"
 honorific: Blessed
-title: "Blessed Ioachim Díaz Hirayama"
 summary: "Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Captain of the ship that brought Blessed Pedro de Zúñiga and Blessed Ludovic Frarijn from Manila to Japan. The ship was captured by Dutch Protestant pirates, and taken to Firando. Joac"
 searchAliases:
   - "Joachim Firaiama-Diz"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Italius of Cilicia"
 honorific: Saint
-title: "Saint Italius of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Italus"

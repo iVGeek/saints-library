@@ -1,7 +1,6 @@
 ---
 name: "Saint Felipe de Jesus"
 honorific: Saint
-title: "Saint Felipe de Jesus"
 summary: " He joined the Reformed Franciscan Convent of Santa Barbara in Pueblo, Mexico in h Philip's parents had immigrated from Illescas, Spain to Mexico City, and the boy was born in the New World. It was a pious family; two of his brothers entered the Augustinians, and one was martyred."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Felipe-de-Jesus-1.jpg"
 searchAliases:

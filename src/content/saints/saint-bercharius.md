@@ -1,7 +1,6 @@
 ---
 name: "Saint Bercharius"
 honorific: Saint
-title: "Saint Bercharius"
 summary: "Godson of Saint Nivard of Rheims; student of Saint Remaclus of Maestricht. Monk at Luxeuil Abbey under the leadership of Saint Walbert. First abbot of Hautvillers Abbey; he expanded it and built other houses, one of which was populated by brothers who were redeemed slaves. First"
 image: "http://catholicsaints.info/wp-content/uploads/Bercharius.jpg"
 searchAliases:

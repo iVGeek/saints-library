@@ -1,7 +1,6 @@
 ---
 name: "Blessed Engelmar Unzeitig"
 honorific: Blessed
-title: "Blessed Engelmar Unzeitig"
 summary: "Professed priest in the Congregation of Missionaries of Mariannhill, ordained in 1939 and taking the name Engelmar. Parish priest in Glöckelberg, Czech Republic. Arrested by the Gestapo on 21 April 1941 for the crime of being a priest and preaching against the teachings of the Na"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Engelmar_Hubert_Unzeitig_%281911-1945%29.jpg"
 searchAliases:

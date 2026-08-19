@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Clotilde Blanc"
 honorific: Blessed
-title: "Blessed Marie-Clotilde Blanc"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Caius of Alexandria"
 honorific: Saint
-title: "Saint Caius of Alexandria"
 summary: "Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."
 searchAliases:
   - "Gaius"

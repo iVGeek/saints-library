@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Dolores Segarra Gestoso"
 honorific: Venerable
-title: "Venerable Maria Dolores Segarra Gestoso"
 summary: "Founded the Missionary Sisters of Christ the Priest."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Dolores-Segarra-Gestoso.jpg"
 birthYear: 1921

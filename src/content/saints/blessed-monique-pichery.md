@@ -1,7 +1,6 @@
 ---
 name: "Blessed Monique Pichery"
 honorific: Blessed
-title: "Blessed Monique Pichery"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1762
 deathYear: 1794

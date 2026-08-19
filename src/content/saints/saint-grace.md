@@ -1,7 +1,6 @@
 ---
 name: "Saint Grace of Saragossa"
 honorific: Saint
-title: "Saint Grace of Saragossa"
 summary: "Unmarried lay woman arrested, tortured and martyred for her faith in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/Grace.jpg"
 deathYear: 304

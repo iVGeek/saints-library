@@ -1,7 +1,6 @@
 ---
 name: "Saint Firmina of Amelia"
 honorific: Saint
-title: "Saint Firmina of Amelia"
 summary: "Maiden martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Firmina-of-Amelia.jpg"
 searchAliases:

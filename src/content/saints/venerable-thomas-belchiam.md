@@ -1,7 +1,6 @@
 ---
 name: "Venerable Thomas Belchiam"
 honorific: Venerable
-title: "Venerable Thomas Belchiam"
 summary: "Franciscan who denounced King Henry VIII as a heretic and clergy who accepted his persecution as faithless. Martyr."
 deathYear: 1537
 died: "starved to death on 3 August 1537 in prison"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno of Alexandria"
 honorific: Saint
-title: "Saint Zeno of Alexandria"
 summary: "Martyr."
 died: "early 4th-century in Alexandria, Egypt"
 deathPlace: "Egypt"

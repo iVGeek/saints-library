@@ -1,7 +1,6 @@
 ---
 name: "Saint Antinogenes of Merida"
 honorific: Saint
-title: "Saint Antinogenes of Merida"
 summary: "Martyr."
 deathYear: 304
 died: "304 in Merida, Estremadura, Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Pérez Rodríguez"
 honorific: Blessed
-title: "Blessed Juan Pérez Rodríguez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

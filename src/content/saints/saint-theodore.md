@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore"
 honorific: Saint
-title: "Saint Theodore"
 summary: "One of 23 Christians martyred in the persecutions of Gallienus."
 deathYear: 260
 died: "c.260"

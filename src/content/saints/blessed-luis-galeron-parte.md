@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Galerón Parte"
 honorific: Blessed
-title: "Blessed Luis Galerón Parte"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Benedicto José"

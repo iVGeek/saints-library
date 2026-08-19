@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Sprott"
 honorific: Blessed
-title: "Blessed Thomas Sprott"
 summary: "Priest in the apostolic vicariate of England. Martyred for the crime of being a priest during the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Thomas Parker"

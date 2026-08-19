@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Mateos Sánchez"
 honorific: Blessed
-title: "Blessed Tomás Mateos Sánchez"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomas-Mateos-Sanchez.jpg"
 searchAliases:

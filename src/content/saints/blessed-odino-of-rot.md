@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odino of Rot"
 honorific: Blessed
-title: "Blessed Odino of Rot"
 summary: "Born to the German nobility, related to the counts of Rajasthan and Waldburg. Premonstratensian monk. Canon of Mönchsrot Abbey in Rot at Memmingen, Germany. Abbot of the house for 42 years during which time the house grew to 200 monks and 40 nuns. His spiritual student went out t"
 searchAliases:
   - "Odino Truchseß"

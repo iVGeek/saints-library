@@ -1,7 +1,6 @@
 ---
 name: "Saint Neon the Martyr"
 honorific: Saint
-title: "Saint Neon the Martyr"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "beheaded c.257 in Rome, Italy"

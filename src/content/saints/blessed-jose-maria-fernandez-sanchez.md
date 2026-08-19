@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Fernández Sánchez"
 honorific: Blessed
-title: "Blessed José María Fernández Sánchez"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rudolph Aquaviva"
 honorific: Blessed
-title: "Blessed Rudolph Aquaviva"
 summary: "Fifth child of the Duke of Atri. Nephew of Claudius Acquaviva, 5th General of the Jesuits. Cousin of Saint Aloysius Gonzaga. Joined the Jesuits on 2 April 1568. Missionary to the East Indies, reaching Goa, India on 13 September 1578. At the request of the Great Mogul Adbar, he ev"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rudolph-Aquaviva.jpg"
 searchAliases:

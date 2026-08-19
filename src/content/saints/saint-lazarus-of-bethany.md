@@ -1,7 +1,6 @@
 ---
 name: "Saint Lazarus of Bethany"
 honorific: Saint
-title: "Saint Lazarus of Bethany"
 summary: "The brother of Saint Martha and Saint Mary of Bethany. He was the man whom Jesus raised from the dead after having been dead and in his tomb for four days. The Bible does not trace his history after the miracle, but tradition says he became a missionary to Gaul, the first bishop"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Eduard_von_Gebhardt_-_The_Raising_of_Lazarus_-_Google_Art_Project_%28cropped%29.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Faeldobair of Clochar"
 honorific: Saint
-title: "Saint Faeldobair of Clochar"
 summary: "Monk."
 searchAliases:
   - "Faeldobar"

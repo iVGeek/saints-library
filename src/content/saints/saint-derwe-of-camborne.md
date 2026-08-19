@@ -1,7 +1,6 @@
 ---
 name: "Saint Derwe of Camborne"
 honorific: Saint
-title: "Saint Derwe of Camborne"
 summary: "Missionary nun, working in the area of Penwith and Carnmarth in Cornwall in modern western England. Martyr."
 searchAliases:
   - "Derwa"

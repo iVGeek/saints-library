@@ -1,7 +1,6 @@
 ---
 name: "Saint Amaethlu of Anglesey"
 honorific: Saint
-title: "Saint Amaethlu of Anglesey"
 summary: "Sixth century hermit. Founded a church in Anglesey, Wales, now named Llanfaethlu."
 searchAliases:
   - "Amaethlu of Wales"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudio Pedro Gómez Gil"
 honorific: Blessed
-title: "Blessed Claudio Pedro Gómez Gil"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

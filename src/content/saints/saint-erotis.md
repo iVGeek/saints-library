@@ -1,7 +1,6 @@
 ---
 name: "Saint Erotis"
 honorific: Saint
-title: "Saint Erotis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Eroteis"

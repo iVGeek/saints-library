@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Angeles of Saint Joseph"
 honorific: Blessed
-title: "Blessed Maria Angeles of Saint Joseph"
 summary: "Youngest of eleven children born to Manual and Lorenza; six of her siblings died in childhood. Her mother died when Marciana was three, and she decided to devote herself to the Blessed Virgin Mary as her new mother. She daily went to Mass, prayed the rosary, and spent hours in Eu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Angeles-of-Saint-Joseph.jpg"
 searchAliases:

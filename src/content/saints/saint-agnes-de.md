@@ -1,7 +1,6 @@
 ---
 name: "Saint Agnes De"
 honorific: Venerable
-title: "Saint Agnes De"
 summary: "Raised in a Christian family. Married lay woman in the apostolic vicariate of West Tonkin (in modern Vietnam). Mother. Imprisoned, tortured and martyred in the persecutions of Thieu Tri for the crime of hiding a priest."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

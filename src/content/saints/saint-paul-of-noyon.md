@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Noyon"
 honorific: Saint
-title: "Saint Paul of Noyon"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Noyon, Switzerland"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Burden"
 honorific: Blessed
-title: "Blessed Edward Burden"
 summary: "Seminarian in Rheims, France. Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1540
 deathYear: 1588

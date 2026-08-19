@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Juan Martínez"
 honorific: Blessed
-title: "Blessed Isidro Juan Martínez"
 summary: "Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936

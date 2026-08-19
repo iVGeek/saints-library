@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pietro Riminucci"
 honorific: Venerable
-title: "Venerable Pietro Riminucci"
 summary: "Franciscan Capuchin friar."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-Riminucci.jpg"
 searchAliases:

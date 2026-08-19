@@ -1,7 +1,6 @@
 ---
 name: "Saint Lauto of Coutances"
 honorific: Saint
-title: "Saint Lauto of Coutances"
 summary: "Bishop of Coutances, France in 528; he served for 40 years. Participated in the conclave of bishops in Angers, France c.529. Noted for his healing miracles, especially of eye problems. The town of Briovere and Lauto's estate became the modern city of Saint-Lô in northern France,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Vu Van Truat"
 honorific: Venerable
-title: "Saint Phêrô Vu Van Truat"
 summary: "Young layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyr."
 searchAliases:
   - "Peter Truat"

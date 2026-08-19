@@ -1,7 +1,6 @@
 ---
 name: "Saint Amandus of Limoges"
 honorific: Saint
-title: "Saint Amandus of Limoges"
 summary: "Born to the Hungarian nobility. In the late 5th century, with the support of Bishop Ruricius I, he became a hermit at the conflux of the Glanne and Vienne Rivers near Comodoliac (modern Saint-Junien), diocese of Limoges, France. Spiritual teacher of Saint Junian. Reported miracle"
 searchAliases:
   - "Amandus of Haute-Vienne"

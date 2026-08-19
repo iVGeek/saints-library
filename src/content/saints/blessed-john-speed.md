@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Speed"
 honorific: Blessed
-title: "Blessed John Speed"
 summary: "Layman. Martyred for befriending and protecting Catholic priests, including Saint John Boste, during the persecutions of Elizabeth I."
 searchAliases:
   - "John Spence"

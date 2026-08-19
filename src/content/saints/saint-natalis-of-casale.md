@@ -1,7 +1,6 @@
 ---
 name: "Saint Natalis of Casale"
 honorific: Saint
-title: "Saint Natalis of Casale"
 summary: "Priest at Casale, Piedmont, Italy."
 born: "in Benevento, Italy"
 died: "6th century of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Nicaea"
 honorific: Saint
-title: "Saint Zosimus of Nicaea"
 summary: "Martyr. No other information has survived."
 died: "at Nicaea, Turkey"
 deathPlace: "Turkey"

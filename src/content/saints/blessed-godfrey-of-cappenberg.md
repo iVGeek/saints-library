@@ -1,7 +1,6 @@
 ---
 name: "Blessed Godfrey of Cappenberg"
 honorific: Blessed
-title: "Blessed Godfrey of Cappenberg"
 summary: "Descendant of Charlemagne through his father, of the dukes of Swabia through his mother. Wealthy count in Westphalia with extensive lands. Layman, married to a noble woman. After being brought to an active faith by his friend Saint Norbert of Xanten, Godfrey turned his castle int"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Godfrey-of-Cappenberg.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Colagia"
 honorific: Blessed
-title: "Blessed Colagia"
 summary: "Mercedarian nun, one of the first. Great spiritual teacher to her sisters. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Colagia.jpg"
 deathYear: 1295

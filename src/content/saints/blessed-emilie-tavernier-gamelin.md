@@ -1,7 +1,6 @@
 ---
 name: "Blessed Émilie Tavernier Gamelin"
 honorific: Blessed
-title: "Blessed Émilie Tavernier Gamelin"
 summary: "Daughter of Antoine Tavernier and Marie-Josephte Maurice, the youngest of 15 children. Orphaned young, and raised by her aunts. Educated by the Sisters of the Congregation of Notre Dame at the Saint-Jean-Baptiste Street school. Felt drawn from an early age to work with the poor a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-Tavernier-Gamelin-1.jpg"
 searchAliases:

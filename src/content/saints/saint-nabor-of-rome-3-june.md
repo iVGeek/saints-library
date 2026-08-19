@@ -1,7 +1,6 @@
 ---
 name: "Saint Nabor of Rome"
 honorific: Saint
-title: "Saint Nabor of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

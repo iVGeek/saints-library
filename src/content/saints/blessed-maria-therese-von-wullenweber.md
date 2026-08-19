@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Therese von Wüllenweber"
 honorific: Blessed
-title: "Blessed Maria Therese von Wüllenweber"
 summary: "Born to the German nobility, the eldest of five daughters of Baron Theodor von Wüllenweber. Always deeply religious, as a girl Maria-Therese felt drawn to religious life, and wanted to become a missionary. Educated by tutors and the Benedictines of Liege, Belgium. At age 24 she e"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/M%C3%A8re_Marie_des_Ap%C3%B4tres.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anatolius of Nicea"
 honorific: Saint
-title: "Saint Anatolius of Nicea"
 summary: "Martyred in the persecutions of Emperor Maximinius the Thracian."
 deathYear: 235
 died: "235 in Nicea, Asia Minor"

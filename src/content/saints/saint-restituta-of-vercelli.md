@@ -1,7 +1,6 @@
 ---
 name: "Saint Restituta of Vercelli"
 honorific: Saint
-title: "Saint Restituta of Vercelli"
 summary: "After her husband was martyred for his faith, Restituta moved from Sardinia to Rome, Italy. Her two small children were baptized there by Pope Saint Eusebius, and given the names Eusebio and Eusebia. The boy grew to become Saint Eusebius, first bishop of Vercelli, Italy, while th"
 born: "latter 3rd century Sardinia (part of modern Italy)"
 died: "early 4th century near Cagliari, Sardinia (part of modern Italy)"

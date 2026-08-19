@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonius Yamada"
 honorific: Blessed
-title: "Blessed Antonius Yamada"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Japan"

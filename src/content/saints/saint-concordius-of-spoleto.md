@@ -1,7 +1,6 @@
 ---
 name: "Saint Concordius of Spoleto"
 honorific: Saint
-title: "Saint Concordius of Spoleto"
 summary: "Sub-deacon in Rome, Italy. Spent most of his time alone in prayer and meditation. Imprisoned for his faith during the persecutions of Marcus Aurelius. Tried at Spoleto, Italy by Torquatus, the governor of Umbria, Italy, he was offered his freedom if he would renounce his faith an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Concordius-of-Spoleto.jpg"
 searchAliases:

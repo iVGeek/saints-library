@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jules Tuffier"
 honorific: Blessed
-title: "Blessed Jules Tuffier"
 summary: "After studying at the college of the Picpus Fathers, Jules joined the congregation, making his profession on 14 May 1823. Ordained a priest in 1830, he served as a parish priest, chaplain to convents, and superior of teaching Fathers at several colleges. Procurator and General Co"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jules-Tuffier.jpg"
 searchAliases:

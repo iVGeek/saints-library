@@ -1,7 +1,6 @@
 ---
 name: "Saint Ururi of Thessalonica"
 honorific: Saint
-title: "Saint Ururi of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

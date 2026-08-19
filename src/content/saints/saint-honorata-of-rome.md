@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorata of Rome"
 honorific: Saint
-title: "Saint Honorata of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

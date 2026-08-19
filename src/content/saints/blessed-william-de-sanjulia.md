@@ -1,7 +1,6 @@
 ---
 name: "Blessed William de Sanjulia"
 honorific: Blessed
-title: "Blessed William de Sanjulia"
 summary: "Mercedarian friar and evangelist."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-de-Sanjulia.jpg"
 died: "buried in Mercedarian priory church at Barcelona, Spain"

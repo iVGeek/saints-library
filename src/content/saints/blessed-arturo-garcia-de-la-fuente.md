@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arturo García de la Fuente"
 honorific: Blessed
-title: "Blessed Arturo García de la Fuente"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

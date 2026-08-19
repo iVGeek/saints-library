@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baltasar de Torres Arias"
 honorific: Blessed
-title: "Blessed Baltasar de Torres Arias"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 birthYear: 1563

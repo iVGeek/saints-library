@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore the Martyr"
 honorific: Saint
-title: "Saint Theodore the Martyr"
 summary: "Martyred in the persecutions of Emperor Hadrian."
 deathYear: 130
 died: "martyred c.130"

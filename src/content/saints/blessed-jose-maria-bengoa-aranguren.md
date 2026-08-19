@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jose María Bengoa Aranguren"
 honorific: Blessed
-title: "Blessed Jose María Bengoa Aranguren"
 summary: "Passionist priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Juan Pedro of Saint Anthony"

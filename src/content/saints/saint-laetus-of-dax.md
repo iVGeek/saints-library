@@ -1,7 +1,6 @@
 ---
 name: "Saint Laetus of Dax"
 honorific: Saint
-title: "Saint Laetus of Dax"
 summary: "Deacon in the diocese of Dax, France. Worked with Saint Vincent of Xaintes."
 searchAliases:
   - "Leto"

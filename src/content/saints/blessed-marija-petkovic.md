@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marija Petkovic"
 honorific: Blessed
-title: "Blessed Marija Petkovic"
 summary: "Sixth of eleven children born to Antun Petkovic-Kovac and Maria Marinovic. Raised in a wealthy family known for their charity to the poor. Educated in public elementary school and then the School of Domestic Science run by the Servants of Charity. Made her First Communion in 1905"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marija-Petkovic-1.jpg"
 searchAliases:

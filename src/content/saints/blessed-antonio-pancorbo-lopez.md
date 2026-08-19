@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Pancorbo López"
 honorific: Blessed
-title: "Blessed Antonio Pancorbo López"
 summary: "Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

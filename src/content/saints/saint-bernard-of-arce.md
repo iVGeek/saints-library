@@ -1,7 +1,6 @@
 ---
 name: "Saint Bernard of Arce"
 honorific: Saint
-title: "Saint Bernard of Arce"
 summary: "Pilgrim to the Holy Lands and then to Rome, Italy. Hermit at Arpino, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-of-Arce.jpg"
 searchAliases:

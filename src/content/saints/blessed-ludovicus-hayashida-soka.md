@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Hayashida Soka"
 honorific: Blessed
-title: "Blessed Ludovicus Hayashida Soka"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1560
 deathYear: 1627

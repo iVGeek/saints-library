@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Damián Enguix Garés"
 honorific: Blessed
-title: "Blessed Salvador Damián Enguix Garés"
 summary: "Baptized at the age of one day. Married layman in the archdiocese of Valencia, Spain; father of five. Veterinarian. Member of Catholic Action. Organized and supported over night Eucharistic adoration in Alzira, Spain. Imprisoned multiple times before finally being martyred in the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Damián-Enguix-Garés.jpg"
 birthYear: 1862

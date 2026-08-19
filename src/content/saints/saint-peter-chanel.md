@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter Chanel"
 honorific: Venerable
-title: "Saint Peter Chanel"
 summary: "Born to a peasant family, he was a shepherd as a boy. An excellent student. Ordained in 1827 at age 24. He was assigned to Crozet, a parish in decline; he turned it around, in part because of his ministry to the sick, and brought a spiritual revival. Joined the Society of Mary (M"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Peter_Chanel.jpg"
 searchAliases:

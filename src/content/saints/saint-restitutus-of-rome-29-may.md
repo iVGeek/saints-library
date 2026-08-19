@@ -1,7 +1,6 @@
 ---
 name: "Saint Restitutus of Rome"
 honorific: Saint
-title: "Saint Restitutus of Rome"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 299
 died: "c.299 in Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidore Ngei Ko Lat"
 honorific: Blessed
-title: "Blessed Isidore Ngei Ko Lat"
 summary: "Young layman catechist in the diocese of Loikaw, Myanmar."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mario%26isidoro.jpg"
 birthYear: 1920

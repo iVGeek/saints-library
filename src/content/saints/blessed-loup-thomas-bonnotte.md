@@ -1,7 +1,6 @@
 ---
 name: "Blessed Loup Thomas-Bonnotte"
 honorific: Blessed
-title: "Blessed Loup Thomas-Bonnotte"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1719
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Sadurní Raventós"
 honorific: Blessed
-title: "Blessed Pere Sadurní Raventós"
 summary: "Pere was drawn to religious life from an early age, and he joined the Sons of the Holy Family in his late teens, making his solemn profession on 16 August 1903. Ordained priest on 19 September 1914. He taught science at the school of San José de Tremp, and then taught at the semi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Sadurní-Raventós.jpg"
 birthYear: 1883

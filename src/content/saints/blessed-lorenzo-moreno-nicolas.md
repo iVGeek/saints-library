@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Moreno Nicolás"
 honorific: Blessed
-title: "Blessed Lorenzo Moreno Nicolás"
 summary: "At age 12, Lorenzo left school to help support his widowed mother. Worked at a railway station. Joined the Mercedarians in Lorca, Spain, making his profession on 23 September 1920. Ordained on 18 December 1926. Dean of students at the College of El Puig. Teacher for five years at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Moreno-Nicolás.jpg"
 birthYear: 1899

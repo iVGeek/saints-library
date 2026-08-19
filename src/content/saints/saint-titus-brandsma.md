@@ -1,7 +1,6 @@
 ---
 name: "Saint Titus Brandsma"
 honorific: Saint
-title: "Saint Titus Brandsma"
 summary: "A pious youth from a pious family, three of Titus's four sisters were nuns, and a brother became a Franciscan priest. Had the nickname Shorty. Good student who felt an early call to the priesthood. Entered a Franciscan minor seminary from ages 11 to 17, but health problems, prima"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TitusBrandsma.jpg/960px-TitusBrandsma.jpg"
 searchAliases:

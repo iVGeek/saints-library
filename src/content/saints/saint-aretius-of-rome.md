@@ -1,7 +1,6 @@
 ---
 name: "Saint Aretius of Rome"
 honorific: Saint
-title: "Saint Aretius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Arecius"

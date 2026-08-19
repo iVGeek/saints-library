@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Cunill Padrós"
 honorific: Blessed
-title: "Blessed Pere Cunill Padrós"
 summary: "Pedro's family was in the sausage business. He early felt a call to the priesthood and religious life. Studied at the seminary of Vic, Spain. Joined the Claretians in Cervera, Spain in 1922. Ordained in 1927 in Vic. Administrator of the diocese seminary in Barbastro, Spain in 193"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Cunill-Padrós.jpg"
 birthYear: 1903

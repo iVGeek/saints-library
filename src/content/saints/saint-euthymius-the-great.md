@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthymius the Great"
 honorific: Saint
-title: "Saint Euthymius the Great"
 summary: "May have been an orphan as he was educated at the home of the Bishop Orteus of Melitine, Armenia (modern Malatya, Turkey). Saint Polyeuctus of Melitine was a friend of his family, and one of Euthymius' spiritual directors. Ordained c.396. Monk. Bishop's deputy for monasteries in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg/960px-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg"
 birthYear: 378

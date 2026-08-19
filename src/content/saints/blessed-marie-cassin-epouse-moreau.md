@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Cassin épouse Moreau"
 honorific: Blessed
-title: "Blessed Marie Cassin épouse Moreau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1750
 deathYear: 1794

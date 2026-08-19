@@ -1,7 +1,6 @@
 ---
 name: "Saint Patritius of Prusa"
 honorific: Saint
-title: "Saint Patritius of Prusa"
 summary: "Bishop. Martyr. No other information has survived."
 searchAliases:
   - "Patricius"

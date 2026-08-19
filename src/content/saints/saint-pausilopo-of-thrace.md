@@ -1,7 +1,6 @@
 ---
 name: "Saint Pausilopo of Thrace"
 honorific: Saint
-title: "Saint Pausilopo of Thrace"
 summary: "Martyred in Thrace in the persecutions of Hadrian. No other information has survived."
 searchAliases:
   - "Pausilippo"

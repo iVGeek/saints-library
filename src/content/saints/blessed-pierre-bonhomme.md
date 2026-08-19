@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Bonhomme"
 honorific: Blessed
-title: "Blessed Pierre Bonhomme"
 summary: "Pierre was known as a pious and studious child who early felt a call to the priesthood. He entered seminary at Montfaucon, France in November 1818 at age 15. While a deacon he opened a school for boys. Ordained on 23 December 1827 at age 24, and served in the diocese of Cahors, F"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Pierre_Bonhomme_%281803-1861%29.jpg"
 birthYear: 1803

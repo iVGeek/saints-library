@@ -1,7 +1,6 @@
 ---
 name: "Saint Withburgh of East Anglia"
 honorific: Saint
-title: "Saint Withburgh of East Anglia"
 summary: "Born a princess, the youngest daughter of King Anna of East Anglia (part of modern England). Following the death of her father in battle, Withburgh became a nun and lived as an anchoress at East Dereham, Norfolk, England where she eventually founded a convent."
 image: "http://catholicsaints.info/wp-content/uploads/Withburgh-of-East-Anglia.jpg"
 searchAliases:

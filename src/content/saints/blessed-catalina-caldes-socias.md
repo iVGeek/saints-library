@@ -1,7 +1,6 @@
 ---
 name: "Blessed Catalina Caldés Socías"
 honorific: Blessed
-title: "Blessed Catalina Caldés Socías"
 summary: "Nun. Member of the Franciscan Daughters of Mercy. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Catalina-Caldés-Socías.jpg"
 searchAliases:

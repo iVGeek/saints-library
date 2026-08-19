@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Juan Costa"
 honorific: Blessed
-title: "Blessed Ramón Juan Costa"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Honorio of Orihuela"

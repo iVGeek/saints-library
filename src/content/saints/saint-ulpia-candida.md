@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulpia Candida"
 honorific: Saint
-title: "Saint Ulpia Candida"
 summary: "Martyr, apparently dying in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Rome, Italy"

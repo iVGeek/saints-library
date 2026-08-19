@@ -1,7 +1,6 @@
 ---
 name: "Venerable Anfrosina Berardi"
 honorific: Venerable
-title: "Venerable Anfrosina Berardi"
 summary: "Child in the archdiocese of L'Aquila, Italy, born to a peasant family. In April 1931, when she was 10 years old, Anfrosina had appendicitis with severe abdominal pain; the pain only increased after the appendectomy, caused by a fast-growing intestinal blockage. Her brother took h"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Anfrosina-Berardi.jpg"
 birthYear: 1920

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Alexandria"
 honorific: Saint
-title: "Saint Peter of Alexandria"
 summary: "Martyred for publicly proclaiming the faith."
 deathYear: 309
 born: "Egyptian"

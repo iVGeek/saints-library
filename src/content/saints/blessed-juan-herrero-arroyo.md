@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Herrero Arroyo"
 honorific: Blessed
-title: "Blessed Juan Herrero Arroyo"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vasile Aftenie"
 honorific: Blessed
-title: "Blessed Vasile Aftenie"
 summary: "Drafted into the army in 1917, Vasile fought in the front in Galacia and Italy in World War I. In 1918 he began studying law in Bucharest, Romania, but in 1919 gave into a call to the priesthood and began studying theology at the Pontifical Greek College of Saint Athanasius. Orda"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vasile_Aftenie_2019_stamp_of_Romania.jpg"
 birthYear: 1899

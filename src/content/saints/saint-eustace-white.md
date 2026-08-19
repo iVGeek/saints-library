@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustace White"
 honorific: Venerable
-title: "Saint Eustace White"
 summary: "Convert to Catholicism which led to his anti-Catholic father cursing him and caused a permanent estrangement from his family. In 1584 Eustace began studies for the priesthood in Rheims, France and Rome, Italy, and was ordained at the English College in Rome in 1588. In November 1"
 birthYear: 1559
 deathYear: 1591

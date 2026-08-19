@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clementina Arambarri Fuente"
 honorific: Blessed
-title: "Blessed Clementina Arambarri Fuente"
 summary: "Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Clementina-Arambarri-Fuente.jpg"
 searchAliases:

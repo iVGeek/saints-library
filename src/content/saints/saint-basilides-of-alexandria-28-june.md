@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilides of Alexandria"
 honorific: Saint
-title: "Saint Basilides of Alexandria"
 summary: "Spiritual student of Origen. Martyred in the persecutions of Severus."
 deathYear: 206
 died: "c.206 in Alexandria, Egypt"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Amedinos of Constantinople"
 honorific: Saint
-title: "Saint Amedinos of Constantinople"
 summary: "One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens."
 deathYear: 367
 died: "c.367 in Constantintinople"

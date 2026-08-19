@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapio of Cirtha"
 honorific: Saint
-title: "Saint Agapio of Cirtha"
 summary: "Bishop. Martyred in Cirtha, Nicomedia (in modern Turkey). No other information has survived."
 region: "Italy"
 feastDay:

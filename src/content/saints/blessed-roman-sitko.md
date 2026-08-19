@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roman Sitko"
 honorific: Blessed
-title: "Blessed Roman Sitko"
 summary: "Priest in the diocese of Tarnów, Poland. Imprisoned, tortured and martyred in the Nazi persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Roman-Sitko.jpg"
 birthYear: 1880

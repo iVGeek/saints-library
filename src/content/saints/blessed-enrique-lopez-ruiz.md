@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enrique López Ruiz"
 honorific: Blessed
-title: "Blessed Enrique López Ruiz"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936

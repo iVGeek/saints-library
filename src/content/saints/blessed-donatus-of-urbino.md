@@ -1,7 +1,6 @@
 ---
 name: "Blessed Donatus of Urbino"
 honorific: Blessed
-title: "Blessed Donatus of Urbino"
 summary: "Born to a wealthy and socially prominent family, the son of a lawyer. Studied at the University of Padua. Physician. Franciscan friar. Franciscan Provincial for the Marches on five separate occasions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Donatus-of-Urbino.jpg"
 searchAliases:

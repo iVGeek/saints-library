@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dietmar von Minden"
 honorific: Blessed
-title: "Blessed Dietmar von Minden"
 summary: " Theitmar lived an extremel Priest. Bishop of Minden, Germany from c.1185 until his death 20 years later. WIth royal approval, Dietmar had the diocese open silver mines near Dehem and Cruckeberge, both of which are in modern Germany. In 1200, he founded the Marienwerder monastery."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dietmar-von-Minden.jpg"
 searchAliases:

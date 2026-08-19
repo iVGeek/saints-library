@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian of Membressa"
 honorific: Saint
-title: "Saint Emilian of Membressa"
 summary: "One of a group of 44 Christians martyred together."
 died: "in Membressa in Africa"
 region: "England"

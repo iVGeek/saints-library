@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria del Carmen of the Child Jesus"
 honorific: Blessed
-title: "Blessed Maria del Carmen of the Child Jesus"
 summary: "Born to a pious family. In 1857 she married Joaquín Muñoz del Caño, a violent, unfaithful man; Maria responded by praying for him until he finally turned his life around. Widowed in 1881. In 1882, with the help of Cappuccin Father Barnabas Astoraga and some like-minded women frie"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-del-Carmen-of-the-Child-Jesus.jpg"
 searchAliases:

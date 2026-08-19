@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Basauri Altube"
 honorific: Blessed
-title: "Blessed Felipe Basauri Altube"
 summary: "Married layman in the archdiocese of Madrid, Spain. Member of the Association of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

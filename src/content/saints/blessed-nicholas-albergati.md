@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicholas Albergati"
 honorific: Blessed
-title: "Blessed Nicholas Albergati"
 summary: "Studied law. Carthusian monk in 1394. Prior of several Carthusian houses. Ordained in June 1404. Chosen as reluctant bishop of Bologna, Italy on 5 January 1417. Papal diplomat with missions to France and Lombardy, Italy. Archbishop of Bologna in 1418 against his will. Elevated to"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-nicholas-albergati/blessed-nicholas-albergati.jpg"
 searchAliases:

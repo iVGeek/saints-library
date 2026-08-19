@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Mitsuishi"
 honorific: Blessed
-title: "Blessed Thomas Mitsuishi"
 summary: "Young son of Blessed Michaël Mitsuishi Hikoemon. Martyr."
 birthYear: 1597
 deathYear: 1609

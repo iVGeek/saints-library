@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquim Gelada Hugas"
 honorific: Blessed
-title: "Blessed Joaquim Gelada Hugas"
 summary: "Member of the Claretians, professed on 11 September 1898. Ordained a priest on 30 September 1906. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

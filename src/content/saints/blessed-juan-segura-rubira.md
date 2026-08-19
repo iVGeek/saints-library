@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Segura Rubira"
 honorific: Blessed
-title: "Blessed Juan Segura Rubira"
 summary: "The son of a school teacher, the nephew of a parish priest, Juan was baptized at the age of five days, and eventually followed the paths of both his elders. He graduated in 1899, and became a teacher for the next 20+ years. In 1921, at age 39, he finally followed a call to the pr"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Segura-Rubira.jpg"
 birthYear: 1881

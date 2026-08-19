@@ -1,7 +1,6 @@
 ---
 name: "Saint Timothy the Deacon"
 honorific: Saint
-title: "Saint Timothy the Deacon"
 summary: "Deacon. Martyred in the persecutions of Decius."
 searchAliases:
   - "Timothy of Africa"

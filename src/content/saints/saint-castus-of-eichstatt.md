@@ -1,7 +1,6 @@
 ---
 name: "Saint Castus of Eichstätt"
 honorific: Saint
-title: "Saint Castus of Eichstätt"
 summary: "Martyr."
 died: "in Rome, Italy"
 deathPlace: "Italy"

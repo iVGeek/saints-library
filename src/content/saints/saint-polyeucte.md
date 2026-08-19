@@ -1,7 +1,6 @@
 ---
 name: "Saint Polyeucte"
 honorific: Saint
-title: "Saint Polyeucte"
 summary: "Pagan soldier in the 12th imperial Roman legion assigned to Armenia in the 3rd century. Friend of Saint Nearchus who brought him to the faith. Ordered to offer a sacrifice of incense to the emperor as a god, Polyeucte refused. Martyr."
 feastDay:
   month: 1

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henry of Albano"
 honorific: Blessed
-title: "Blessed Henry of Albano"
 summary: "Cistercian Benedictine monk. Bishop of Albano, Italy in 1179. Cardinal."
 searchAliases:
   - "Henricus Gallus"

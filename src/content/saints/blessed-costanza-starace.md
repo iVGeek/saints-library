@@ -1,7 +1,6 @@
 ---
 name: "Blessed Costanza Starace"
 honorific: Blessed
-title: "Blessed Costanza Starace"
 summary: "Consecrated as a baby to Our Lady of Sorrows. Attended a boarding school run by the Daughters of Charity in Castellammare di Stabia, Italy. Costanza was attracted to the religious life, but for health reasons she returned to her parents and was taught by a tutor who also helped h"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Maria_Maddalena_Starace.png"
 searchAliases:

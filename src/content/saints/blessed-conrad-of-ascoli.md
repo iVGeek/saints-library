@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conrad of Ascoli"
 honorific: Blessed
-title: "Blessed Conrad of Ascoli"
 summary: "Born to the Italian nobility. Lifelong friend of Girolamo d'Ascoli, the future Pope Nicholas IV. The two joined the Franciscan Friars Minor in Ascoli, Italy, studied together in Assisi, Italy and then Perugia, Italy. Conrad earned a doctorate in theology and was assigned to teach"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Blessed_Conrad_of_Ascoli.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hanna Helena Chrzanowska"
 honorific: Blessed
-title: "Blessed Hanna Helena Chrzanowska"
 summary: "Lay woman in the diocese of Kraków, Poland. She was the daughter of Ignacy Chrzanowski, a university professor, and Wanda Szlenkier, and while their industrialist and land-owning families had a tradition of charity, religious involvement at home was low since one side of the fami"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/HannaChrzanowska.JPG"
 birthYear: 1902

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Meinwerk of Paderborn"
 honorific: Blessed
-title: "Blessed Meinwerk of Paderborn"
 summary: "Son of Imad, Count of Tesiterbant and Radichen, he was born to the Immedinger nobility; related to the Saxon royal family. Studied in the German cities of Halberstadt and Hildesheim; schoolmate of Saint Bernward of Hildesheim. Priest. Canon at Halberstadt. Chaplain at the court o"
 searchAliases:
   - "Meginwerk"

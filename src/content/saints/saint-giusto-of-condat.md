@@ -1,7 +1,6 @@
 ---
 name: "Saint Giusto of Condat"
 honorific: Saint
-title: "Saint Giusto of Condat"
 summary: "Monk in area of Condat, France."
 region: "France"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aphrodisius of Africa"
 honorific: Saint
-title: "Saint Aphrodisius of Africa"
 summary: "Martyred in the 5th century by Arian Vandals in North Africa."
 region: "Africa"
 feastDay:

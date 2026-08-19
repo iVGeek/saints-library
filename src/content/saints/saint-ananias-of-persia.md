@@ -1,7 +1,6 @@
 ---
 name: "Saint Ananias of Persia"
 honorific: Saint
-title: "Saint Ananias of Persia"
 summary: "Martyred with about 100 other believers during the persecutions of King Sapor II."
 deathYear: 345
 born: "Persian"

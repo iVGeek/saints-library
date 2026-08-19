@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Badía Mateu"
 honorific: Blessed
-title: "Blessed Josep Maria Badía Mateu"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

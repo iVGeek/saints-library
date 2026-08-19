@@ -1,7 +1,6 @@
 ---
 name: "Saint Joaquín Royo Pérez"
 honorific: Venerable
-title: "Saint Joaquín Royo Pérez"
 summary: "Joined the Dominicans in Valencia, Spain in 1709. Missionary to the Philippines in 1712, and then to China in 1715. Worked with Saint Peter Sanz. Priest. He served his parishioners by night, hiding in tombs or secret rooms by day to avoid the government persecutions. Imprisoned f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joaquín-Royo-Pérez.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Amelius of Mortara"
 honorific: Saint
-title: "Saint Amelius of Mortara"
 summary: "Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr."
 searchAliases:
   - "Amelio"

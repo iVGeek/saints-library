@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lukasz Bojko"
 honorific: Blessed
-title: "Blessed Lukasz Bojko"
 summary: "Young layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1852

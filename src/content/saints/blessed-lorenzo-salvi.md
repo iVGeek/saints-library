@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Salvi"
 honorific: Blessed
-title: "Blessed Lorenzo Salvi"
 summary: "Studied at the Collegio Romano in Rome, Italy; his classmates included Saint Gaspare del Bufalo and the future Pope Gregory XVI. Influenced by the work and preaching of Saint Vincent Mary Strambi. Became a Passionist novice at Monte Argentario in 1801, and made his profession on"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lorenzo_Salvi_by_Josef_Kriehuber.jpg"
 searchAliases:

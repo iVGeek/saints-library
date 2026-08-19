@@ -1,7 +1,6 @@
 ---
 name: "Saint Edgar the Peaceful"
 honorific: Saint
-title: "Saint Edgar the Peaceful"
 summary: "Born a prince, the son of King Edmund I and Saint Elgiva of Shaftesbury. King of the Mercians and Northumbrians in 957. King of the West Saxons on 1 October 959, which effectively made him king of all England. Efficient and unusually tolerant of local customs; while he spent much"
 image: "http://catholicsaints.info/wp-content/gallery/saint-edgar-the-peaceful/saint-edgar-the-peaceful.jpg"
 searchAliases:

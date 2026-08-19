@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius of Brescia"
 honorific: Saint
-title: "Saint Anastasius of Brescia"
 summary: "Bishop of Brescia, Lombardy, Italy. Converted the Lombards from Arianism."
 searchAliases:
   - "Anastasio"

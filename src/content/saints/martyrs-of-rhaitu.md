@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Rhaitu"
 honorific: Saint
-title: "Martyrs of Rhaitu"
 summary: "43 monks martyred by Blemmyes."
 died: "Raíthu, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"

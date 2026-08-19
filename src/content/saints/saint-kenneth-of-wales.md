@@ -2,7 +2,6 @@
 name: "Saint Kenneth of Wales"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kenneth_Morris.png"
 honorific: Saint
-title: "Saint Kenneth of Wales"
 summary: "Son of a 6th century chieftain. Hermit on the peninsula of Gower, Wales, a place later known as Llangenydd in his honour."
 searchAliases:
   - "Cenydd"

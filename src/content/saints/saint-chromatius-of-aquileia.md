@@ -1,7 +1,6 @@
 ---
 name: "Saint Chromatius of Aquileia"
 honorific: Saint
-title: "Saint Chromatius of Aquileia"
 summary: " He w Chromatius' father died when the boy was an infant, and he was raised by his mother and large family of older siblings. Ordained c.387. Attended the Synod of Aquileia, and worked for the strong denunciation of Arianism that resulted from the synod. Bishop of Aquileia in 388."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chromatius-of-Aquileia.jpg"
 searchAliases:

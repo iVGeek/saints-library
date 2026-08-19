@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Peña Ruiz"
 honorific: Blessed
-title: "Blessed Juan Peña Ruiz"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Vicente"

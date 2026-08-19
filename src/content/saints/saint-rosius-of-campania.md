@@ -1,7 +1,6 @@
 ---
 name: "Saint Rosius of Campania"
 honorific: Saint
-title: "Saint Rosius of Campania"
 summary: "Priest in North African. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea by the Arian Vandals. The boat landed in the Campania region of southern Italy, and he resumed his ministry with the people there."
 region: "Italy"
 feastDay:

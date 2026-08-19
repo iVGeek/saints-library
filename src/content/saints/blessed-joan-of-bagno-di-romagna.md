@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan of Bagno di Romagna"
 honorific: Blessed
-title: "Blessed Joan of Bagno di Romagna"
 summary: "Camaldolese nun. Friend of Saint Agnes of Bagno di Romagna."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-of-Bagno-di-Romagna.jpg"
 searchAliases:

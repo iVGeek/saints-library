@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arsenio Merino Miguel"
 honorific: Blessed
-title: "Blessed Arsenio Merino Miguel"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Augusto María"

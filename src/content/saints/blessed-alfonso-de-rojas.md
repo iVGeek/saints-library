@@ -2,7 +2,6 @@
 name: "Blessed Alfonso de Rojas"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cruce_calles_Pintor_Murillo-Pintor_Vel%C3%A1zquez-Alcalde_Alfonso_de_Rojas.JPG/960px-Cruce_calles_Pintor_Murillo-Pintor_Vel%C3%A1zquez-Alcalde_Alfonso_de_Rojas.JPG"
 honorific: Blessed
-title: "Blessed Alfonso de Rojas"
 summary: "Professor in Salamanca, Spain. Tutor to the children of duke. Canon at Coria, Spain. Franciscan."
 searchAliases:
   - "Alfonso of Coria"

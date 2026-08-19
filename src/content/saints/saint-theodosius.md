@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodosius"
 honorific: Saint
-title: "Saint Theodosius"
 summary: "Martyred with 42 companions in the persecutions of Diocletian."
 searchAliases:
   - "Teodosio"

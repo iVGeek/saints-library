@@ -1,7 +1,6 @@
 ---
 name: "Saint Angela Merici"
 honorific: Saint
-title: "Saint Angela Merici"
 summary: " In Crete, during a pilgrimage to Holy Land, she was struck blind. Her friends wanted to return home, but she insisted on going on, visiting the shrines with as much Franciscan tertiary at age 15. She received a vision telling her she would inspire devout women in their vocation."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Saint_Angela_Merici.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rosalie-Clotilde Bes"
 honorific: Blessed
-title: "Blessed Rosalie-Clotilde Bes"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

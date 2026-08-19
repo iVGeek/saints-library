@@ -1,7 +1,6 @@
 ---
 name: "Saint Elleher"
 honorific: Saint
-title: "Saint Elleher"
 summary: "Benedictine monk. Travelled, worked and martyred with Saint Boniface."
 deathYear: 754
 died: "5 June 754 at Dokkum, Freisland (modern Nederlands)"

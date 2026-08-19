@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juliette Colbert de Falletti di Barolo"
 honorific: Venerable
-title: "Venerable Juliette Colbert de Falletti di Barolo"
 summary: "Married lay woman in the archdiocese of Turin, Italy. Widow. Founded the Daughters of Jesus the Good Shepherd and the Sisters of Saint Anne."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Juliette-Colbert-de-Falletti-di-Barolo.jpg"
 searchAliases:

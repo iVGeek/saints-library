@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Torrero Luque"
 honorific: Blessed
-title: "Blessed Antonio Torrero Luque"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

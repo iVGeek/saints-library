@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Eretum"
 honorific: Saint
-title: "Saint Julius of Eretum"
 summary: "Martyr."
 searchAliases:
   - "Giulio"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed N. Shichizaemon"
 honorific: Blessed
-title: "Blessed N. Shichizaemon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena of Hokusanbara. The couple and their two young daughters were martyred together."
 deathYear: 1629
 born: "Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"

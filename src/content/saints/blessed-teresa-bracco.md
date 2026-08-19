@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teresa Bracco"
 honorific: Blessed
-title: "Blessed Teresa Bracco"
 summary: "Born to Giacomo Bracco and Anna Pera, two humble and devoutly Catholic farmers. A pious child, she early developed a devotion to the Eucharist and the Virgin Mary; as she grew older would go into ecstatic trances while staring at the Blessed Sacrament. Went to Mass daily, and pra"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Teresa_Bracco.jpg"
 birthYear: 1924

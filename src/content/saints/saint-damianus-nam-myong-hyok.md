@@ -1,7 +1,6 @@
 ---
 name: "Saint Damianus Nam Myong-Hyok"
 honorific: Venerable
-title: "Saint Damianus Nam Myong-Hyok"
 summary: "Married layman in the apostolic vicariate of Korea. Catechist. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:

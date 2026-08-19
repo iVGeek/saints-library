@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Ruiz Cano"
 honorific: Blessed
-title: "Blessed José María Ruiz Cano"
 summary: "Claretian priest. Martyred in the religious persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ruiz-Cano.jpg"
 birthYear: 1906

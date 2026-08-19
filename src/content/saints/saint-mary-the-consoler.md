@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary the Consoler"
 honorific: Saint
-title: "Saint Mary the Consoler"
 summary: "Sister of Saint Anno of Verona."
 died: "8th century"
 feastDay:

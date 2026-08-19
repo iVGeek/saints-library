@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martina Olaizola Garagarza"
 honorific: Blessed
-title: "Blessed Martina Olaizola Garagarza"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Martina-Olaizola-Garagarza.jpg"
 searchAliases:

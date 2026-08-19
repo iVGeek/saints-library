@@ -1,7 +1,6 @@
 ---
 name: "Blessed Acacio Calleja Santamaría"
 honorific: Blessed
-title: "Blessed Acacio Calleja Santamaría"
 summary: "Baptized at the age of 2 days. Member of the Congregation of Saint Peter ad Vincula, making his profession in 1934 in Marseille, France. Studied humanities and philosophy in Barcelona, Spain. Known for his love of his vocation and his care for the students he taught. Martyred in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Acacio-Calleja-Santamaría.jpg"
 searchAliases:

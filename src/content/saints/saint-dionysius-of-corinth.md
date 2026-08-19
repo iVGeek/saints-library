@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Corinth"
 honorific: Saint
-title: "Saint Dionysius of Corinth"
 summary: "Second century bishop of Corinth, Greece. Some of his correspondence, including testimony about the martyrdom of Saint Peter and Saint Paul, and correspondence with popes of the era, have survived. Fought the Marcionites and other heresies of his time."
 searchAliases:
   - "Denis"

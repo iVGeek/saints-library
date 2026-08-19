@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Byzantium"
 honorific: Saint
-title: "Saint Paul of Byzantium"
 summary: "Martyr."
 deathYear: 273
 died: "crucified in 273 in Byzantium"

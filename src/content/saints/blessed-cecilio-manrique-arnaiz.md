@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cecilio Manrique Arnáiz"
 honorific: Blessed
-title: "Blessed Cecilio Manrique Arnáiz"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Cirilo Pedro"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius of Amasea"
 honorific: Saint
-title: "Saint Asterius of Amasea"
 summary: "Studied law and rhetoric in his youth, and practiced law for a while, but gave it up for the priesthood. Bishop of Amasea, Pontus (in Asia Minor) during the persecutions of Julian the Apostate. A noted preacher, 21 of his sermons have survived."
 deathYear: 410
 born: "4th century"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Heron of Alexandria"
 honorific: Saint
-title: "Saint Heron of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Hero"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnold Wala"
 honorific: Blessed
-title: "Blessed Arnold Wala"
 summary: "Premonstratensian monk. Canon of the monastery of Saint Cornelius in Ninove, Belgium. Prior of the monastery for 40 years. Abbot of the house."
 deathYear: 1190
 born: "early 12th century"

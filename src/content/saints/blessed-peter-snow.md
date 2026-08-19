@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Snow"
 honorific: Blessed
-title: "Blessed Peter Snow"
 summary: "Priest in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1598
 born: "in Ripon, North Yorkshire, England"

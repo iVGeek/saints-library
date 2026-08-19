@@ -1,7 +1,6 @@
 ---
 name: "Saint Caramnan"
 honorific: Saint
-title: "Saint Caramnan"
 summary: "No information has survived."
 searchAliases:
   - "Carmnan"

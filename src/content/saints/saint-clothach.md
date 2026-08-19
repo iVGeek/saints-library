@@ -1,7 +1,6 @@
 ---
 name: "Saint Clothach"
 honorific: Saint
-title: "Saint Clothach"
 summary: "Early Irish bishop."
 region: "Ireland"
 feastDay:

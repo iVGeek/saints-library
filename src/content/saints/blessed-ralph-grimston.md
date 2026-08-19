@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ralph Grimston"
 honorific: Blessed
-title: "Blessed Ralph Grimston"
 summary: "Married layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1598
 born: "in Nidd, North Yorkshire, England"

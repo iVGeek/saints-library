@@ -1,7 +1,6 @@
 ---
 name: "Venerable Coínta Jáuregui Osés"
 honorific: Venerable
-title: "Venerable Coínta Jáuregui Osés"
 summary: "Nun in the Company of Mary Our Lady, entering the novitiate in 1893. Teacher. Superior of her community in 1915. Her community was broken up and members lived as refugees during the anti-Catholic privations of the Spanish Civil War, but in the post-war years Cointa was able to re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Coínta-Jáuregui-Osés.jpg"
 birthYear: 1875

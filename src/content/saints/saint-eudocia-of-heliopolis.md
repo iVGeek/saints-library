@@ -1,7 +1,6 @@
 ---
 name: "Saint Eudocia of Heliopolis"
 honorific: Saint
-title: "Saint Eudocia of Heliopolis"
 summary: "Courtesan who led a dissolute youth. She converted, and led a life of great penance to make up for her early waywardness. Martyred in the persecutions of Trajan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eudocia-of-Heliopolis.jpg"
 searchAliases:

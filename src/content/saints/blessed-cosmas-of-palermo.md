@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cosmas of Palermo"
 honorific: Blessed
-title: "Blessed Cosmas of Palermo"
 summary: "Feeling an early call to the Church, Cosmas became a deacon as a teenager, continued his studies, and was ordained a priest. Consecrated by Pope Eugene III as a travelling missionary bishop, Cosmas worked about ten years in North Africa to free slaves and bring the Saracens to Ch"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Cosmas-of-Palermo.jpg"
 searchAliases:

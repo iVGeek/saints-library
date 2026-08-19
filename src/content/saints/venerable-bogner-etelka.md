@@ -1,7 +1,6 @@
 ---
 name: "Venerable Bogner Etelka"
 honorific: Venerable
-title: "Venerable Bogner Etelka"
 summary: "Visitation nun."
 searchAliases:
   - "Mária Margit"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felice of Camerino"
 honorific: Saint
-title: "Saint Felice of Camerino"
 summary: "Convert. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 deathYear: 251

@@ -1,7 +1,6 @@
 ---
 name: "Saint Toribio Romo González"
 honorific: Venerable
-title: "Saint Toribio Romo González"
 summary: "Ordained at age 21; he had to receive special dispensation from the Vatican to be ordained so young. Parish priest in Tequila, Jalisco, archdiocese of Guadalajara, Mexico. Parish priest in Agua Caliente, Mexico. Known for a great devotion to the Eucharist. Murdered during the Mex"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Toribio-Romo-González.jpg"
 searchAliases:

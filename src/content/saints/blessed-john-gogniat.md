@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Gogniat"
 honorific: Blessed
-title: "Blessed John Gogniat"
 summary: "Premonstratensian monk. Canon of the Bellelay monastery in the Jura Bernois area of Bern, Switzerland. Abbot of the house in 1530; he served for 23 years, defending his house and his faith during a period when Calvinists displacing Catholic clergy and institutions."
 searchAliases:
   - "John of Bellelay"

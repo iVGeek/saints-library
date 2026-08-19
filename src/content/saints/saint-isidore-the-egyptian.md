@@ -1,7 +1,6 @@
 ---
 name: "Saint Isidore the Egyptian"
 honorific: Saint
-title: "Saint Isidore the Egyptian"
 summary: "Desert hermit. Priest in charge of a Alexandria pilgrims hospice. Opposed Arianism, supported Saint Athanasius, and was persecuted by Arians. Friend of Saint John Chrysostom."
 searchAliases:
   - "Isidore of Alexandria"

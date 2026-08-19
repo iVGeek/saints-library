@@ -1,7 +1,6 @@
 ---
 name: "Saint Callisthene"
 honorific: Saint
-title: "Saint Callisthene"
 summary: "Daughter of Saint Adauctus. Following his martyrdom, she devoted her life to charity. Surrounded by the death of the faithful, she somehow lived through the persecutions of Emperor Maximinus."
 died: "4th century of natural causes"
 feastDay:

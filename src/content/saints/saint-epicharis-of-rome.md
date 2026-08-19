@@ -1,7 +1,6 @@
 ---
 name: "Saint Epicharis of Rome"
 honorific: Saint
-title: "Saint Epicharis of Rome"
 summary: "Priest in Rome, Italy. Martyr."
 deathYear: 300
 died: "300"

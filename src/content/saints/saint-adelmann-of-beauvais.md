@@ -1,7 +1,6 @@
 ---
 name: "Saint Adelmann of Beauvais"
 honorific: Saint
-title: "Saint Adelmann of Beauvais"
 summary: "Benedictine monk of Corbie Abbey, Amiens, France. Spiritual student of Saint Adelhard. Bishop of Beauvaus, France in 821; he served for 25 years. Signed and supported the decrees of the Council of Pris. Ministered to his people during Norman invasions."
 searchAliases:
   - "Adalmann"

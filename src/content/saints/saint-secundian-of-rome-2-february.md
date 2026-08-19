@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundian of Rome"
 honorific: Saint
-title: "Saint Secundian of Rome"
 summary: "Martyr. No other information has survived."
 deathYear: 212
 died: "c.212 in Rome, Italy"

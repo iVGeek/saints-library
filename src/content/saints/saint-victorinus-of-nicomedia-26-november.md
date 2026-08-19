@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Nicomedia"
 honorific: Saint
-title: "Saint Victorinus of Nicomedia"
 summary: "Martyred in the persecutions of the Arian Emperor Constantius."
 deathYear: 349
 died: "349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"

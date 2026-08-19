@@ -1,7 +1,6 @@
 ---
 name: "Saint Kingsmark"
 honorific: Saint
-title: "Saint Kingsmark"
 summary: "Scottish chieftain. Lived in Wales. Several churches dedicated to him."
 searchAliases:
   - "Cynfarch"

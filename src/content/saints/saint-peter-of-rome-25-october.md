@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Rome"
 honorific: Saint
-title: "Saint Peter of Rome"
 summary: "One of a group of 50 soldiers martyred together in the persecutions of Claudius II."
 deathYear: 269
 died: "269 in Rome, Italy"

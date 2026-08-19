@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Amaro Rodríguez"
 honorific: Blessed
-title: "Blessed Miguel Amaro Rodríguez"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

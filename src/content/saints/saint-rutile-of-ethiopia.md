@@ -1,7 +1,6 @@
 ---
 name: "Saint Rutile of Ethiopia"
 honorific: Saint
-title: "Saint Rutile of Ethiopia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Rustika"

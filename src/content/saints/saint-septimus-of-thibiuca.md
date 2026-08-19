@@ -1,7 +1,6 @@
 ---
 name: "Saint Septimus of Thibiuca"
 honorific: Saint
-title: "Saint Septimus of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303"

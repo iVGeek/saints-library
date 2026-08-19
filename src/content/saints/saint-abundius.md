@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundius"
 honorific: Saint
-title: "Saint Abundius"
 summary: "Deacon. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Abundantius"

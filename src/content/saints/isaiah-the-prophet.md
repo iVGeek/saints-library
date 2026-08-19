@@ -1,7 +1,6 @@
 ---
 name: "Isaiah the Prophet"
 honorific: Saint
-title: "Isaiah the Prophet"
 summary: "Eighth century BC Old Testament prophet. Killed at the order of King Manasses of Juda."
 image: "http://catholicsaints.info/wp-content/uploads/img-Isaiah-the-Prophet.jpg"
 died: "sawn in two"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Adalbald of Ostrevant"
 honorific: Saint
-title: "Saint Adalbald of Ostrevant"
 summary: "Born to the nobility of Flanders, Belgium. Son of Saint Gertrude the Elder. Duke of Douai, France. Served in the courts of King Dagobert I and King Clovis II. While suppressing a rebellion in Gascony, he met and married Saint Rictrude of Marchiennes, daughter of Ernold. Though th"
 searchAliases:
   - "Adalbald d'Ostrevant"

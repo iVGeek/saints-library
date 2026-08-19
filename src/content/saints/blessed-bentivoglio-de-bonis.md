@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bentivoglio de Bonis"
 honorific: Blessed
-title: "Blessed Bentivoglio de Bonis"
 summary: "One of Saint Francis of Assisi's earliest disciples and one of first Franciscans. Priest. Noted preachers, miracle worker, healer and visionary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bentivoglio-de-Bonis.jpg"
 searchAliases:

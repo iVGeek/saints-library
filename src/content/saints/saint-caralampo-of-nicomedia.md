@@ -1,7 +1,6 @@
 ---
 name: "Saint Caralampo of Nicomedia"
 honorific: Saint
-title: "Saint Caralampo of Nicomedia"
 summary: "Martyred at Nicomedia (in modern Turkey). No other information has survived."
 region: "Italy"
 feastDay:

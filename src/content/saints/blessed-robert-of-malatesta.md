@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert of Malatesta"
 honorific: Blessed
-title: "Blessed Robert of Malatesta"
 summary: "Born to the nobility, the son of Pandolph Malatesta, the Lord of Rimini, Robert was orphaned as a boy, and was educated in the home of his uncle. Robert was known as a pious youth who ignored the pleasures of his position, and spent much time in prayer, penance and works of chari"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Robert-of-Malatesta.jpg"
 searchAliases:

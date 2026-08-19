@@ -1,7 +1,6 @@
 ---
 name: "Saint Amatus"
 honorific: Saint
-title: "Saint Amatus"
 summary: "Born to the nobility. Entered the abbey of Saint Maurice of Agaune in Switzerland while still very young. Spent thirty years there as a schoolboy, Benedictine monk, and hermit. Accompanied Saint Eustace  to Luxeuil Abbey in 614, and became a monk there. Brought the Merovingian no"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Remiremont-Saint_Am%C3%A9_%281%29.jpg/960px-Remiremont-Saint_Am%C3%A9_%281%29.jpg"
 searchAliases:

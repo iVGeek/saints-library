@@ -1,7 +1,6 @@
 ---
 name: "Saint Gwrnerth"
 honorific: Saint
-title: "Saint Gwrnerth"
 summary: "Monk at Welshpool and Bardsey in Wales. Friend of Saint Liewellyn."
 born: "Welsh"
 died: "6th century Wales of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Ibáñez López"
 honorific: Blessed
-title: "Blessed Dionisio Ibáñez López"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Cruz"

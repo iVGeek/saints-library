@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenio Cernuda Febrero"
 honorific: Blessed
-title: "Blessed Eugenio Cernuda Febrero"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulina of Rome"
 honorific: Saint
-title: "Saint Paulina of Rome"
 summary: "Daughter of Saint Artemius of Rome and Saint Candida of Rome.  Convert, brought to the faith by Saint Peter the Exorcist and baptised by Saint Marcellinus. Martyr."
 searchAliases:
   - "Paolina"

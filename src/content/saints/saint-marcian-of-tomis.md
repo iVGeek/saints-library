@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Tomis"
 honorific: Saint
-title: "Saint Marcian of Tomis"
 summary: "Martyr."
 searchAliases:
   - "Marcianus"

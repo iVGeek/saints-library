@@ -1,7 +1,6 @@
 ---
 name: "Saint Abibus of Samosata"
 honorific: Saint
-title: "Saint Abibus of Samosata"
 summary: "Convert. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata."
 searchAliases:
   - "Abibas"

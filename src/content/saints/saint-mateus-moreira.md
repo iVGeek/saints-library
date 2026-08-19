@@ -1,7 +1,6 @@
 ---
 name: "Saint Mateus Moreira"
 honorific: Venerable
-title: "Saint Mateus Moreira"
 summary: "Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Mateus_Moreira.jpg"
 deathYear: 1645

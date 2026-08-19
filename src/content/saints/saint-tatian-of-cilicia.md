@@ -1,7 +1,6 @@
 ---
 name: "Saint Tatian of Cilicia"
 honorific: Saint
-title: "Saint Tatian of Cilicia"
 summary: "Scourged, burned, tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Dulas (nickname)"

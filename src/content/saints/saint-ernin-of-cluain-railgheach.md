@@ -1,7 +1,6 @@
 ---
 name: "Saint Ernin of Cluain-railgheach"
 honorific: Saint
-title: "Saint Ernin of Cluain-railgheach"
 summary: "Sixth-century bishop who worked in Ireland with Saint Columba."
 region: "Ireland"
 feastDay:

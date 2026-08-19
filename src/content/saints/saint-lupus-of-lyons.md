@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupus of Lyons"
 honorific: Saint
-title: "Saint Lupus of Lyons"
 summary: "Monk near Lyons, France. Archbishop of Lyons. Suffered in the turmoil which followed the death of Saint Sigismund of Burgundy."
 searchAliases:
   - "Lupo"

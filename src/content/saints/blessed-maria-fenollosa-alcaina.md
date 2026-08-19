@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Fenollosa Alcaina"
 honorific: Blessed
-title: "Blessed María Fenollosa Alcaina"
 summary: "Nun, joining the Capuchin Tertiary Sisters of the Holy Family in 1921 and making her perpetual vows in 1928. Assistant novice mistress at Masamagrell. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Francisca Javier of Rafelbunyol"

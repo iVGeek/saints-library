@@ -1,7 +1,6 @@
 ---
 name: "Saint Aemilius of Sardinia"
 honorific: Saint
-title: "Saint Aemilius of Sardinia"
 summary: "A church on Sardinia is dedicated to this saint, but no information about them has survived."
 feastDay:
   month: 5

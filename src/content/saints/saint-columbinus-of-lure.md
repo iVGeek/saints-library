@@ -1,7 +1,6 @@
 ---
 name: "Saint Columbinus of Lure"
 honorific: Saint
-title: "Saint Columbinus of Lure"
 summary: "Monk. Spiritual student of Saint Deicola. Abbot of Lure in France."
 searchAliases:
   - "Colombino"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Celaya Badiola"
 honorific: Blessed
-title: "Blessed José María Celaya Badiola"
 summary: "Baptized at the age of one day. Joined the Salesians of Don Bosco in Carabanchel Alto, Madrid, Spain on 5 January 1906. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Maria-Celaya-Badiola.jpg"
 birthYear: 1887

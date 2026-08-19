@@ -1,7 +1,6 @@
 ---
 name: "Saint Ambrosius of Piacenza"
 honorific: Saint
-title: "Saint Ambrosius of Piacenza"
 summary: "Monk at the San Sabinus monastery in Piacenza, Italy."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carlo Spinola"
 honorific: Blessed
-title: "Blessed Carlo Spinola"
 summary: "Jesuit priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1564

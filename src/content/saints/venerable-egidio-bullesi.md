@@ -1,7 +1,6 @@
 ---
 name: "Venerable Egidio Bullesi"
 honorific: Venerable
-title: "Venerable Egidio Bullesi"
 summary: "Born to a poor family, the third of nine brothers. His family was imprisoned and starved during World War I. After the war, at age 13, he became an apprentice in the shipyard at Pola, Italy. He joined Catholic Action, became a Franciscan tertiary, and worked with young people. Sa"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Egidio_Bullesi.jpg"
 searchAliases:

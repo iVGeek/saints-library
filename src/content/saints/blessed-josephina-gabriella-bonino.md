@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josephina Gabriella Bonino"
 honorific: Blessed
-title: "Blessed Josephina Gabriella Bonino"
 summary: "Raised in a pious family, she was a deeply religious child. Moved to Turin, Italy at age 12. Made a temporary vow of chastity at age 18. At age 26 she returned to Savigliano, Italy to care for her ailing father. Underwent a successful back surgery in 1887, and made a pilgrimage t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josephina-Gabriella-Bonino.jpg"
 searchAliases:

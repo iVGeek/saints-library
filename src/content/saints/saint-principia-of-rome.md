@@ -1,7 +1,6 @@
 ---
 name: "Saint Principia of Rome"
 honorific: Saint
-title: "Saint Principia of Rome"
 summary: "Nun in Rome, Italy. Spiritual student of Saint Marcella."
 deathYear: 420
 died: "c.420"

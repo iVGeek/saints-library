@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Holiday"
 honorific: Blessed
-title: "Blessed Richard Holiday"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1565
 deathYear: 1590

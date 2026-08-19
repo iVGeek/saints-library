@@ -1,7 +1,6 @@
 ---
 name: "Saint Salvator of Africa"
 honorific: Saint
-title: "Saint Salvator of Africa"
 summary: "An early martyr of the Church. No other information has survived."
 feastDay:
   month: 12

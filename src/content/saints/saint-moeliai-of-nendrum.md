@@ -1,7 +1,6 @@
 ---
 name: "Saint Moeliai of Nendrum"
 honorific: Saint
-title: "Saint Moeliai of Nendrum"
 summary: "Baptised by Saint Patrick. Abbot of Nendrum Monastery."
 searchAliases:
   - "Moelray"

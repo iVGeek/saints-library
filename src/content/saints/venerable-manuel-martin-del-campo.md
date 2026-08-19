@@ -1,7 +1,6 @@
 ---
 name: "Venerable Manuel Martín del Campo"
 honorific: Venerable
-title: "Venerable Manuel Martín del Campo"
 summary: "Raised in a pious family, they recited the rosary together daily, and his elder brother Fernando was a priest. Studied at the Seminary of Veracruz, Mexico in the 1930s during a period of official persecution of the Church, when the seminary was underground and the classes were co"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Manuel-Martín-del-Campo.jpg"
 birthYear: 1917

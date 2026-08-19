@@ -1,7 +1,6 @@
 ---
 name: "Saint Basileus the Martyr"
 honorific: Saint
-title: "Saint Basileus the Martyr"
 summary: "Martyred in the persecution of Valerian."
 deathYear: 258
 died: "c.258 at Rome, Italy"

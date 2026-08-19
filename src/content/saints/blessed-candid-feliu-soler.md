@@ -1,7 +1,6 @@
 ---
 name: "Blessed Càndid Feliu Soler"
 honorific: Blessed
-title: "Blessed Càndid Feliu Soler"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Càndid-Feliu-Soler.jpg"
 searchAliases:

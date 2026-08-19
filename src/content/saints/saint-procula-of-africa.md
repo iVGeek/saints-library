@@ -1,7 +1,6 @@
 ---
 name: "Saint Procula of Africa"
 honorific: Saint
-title: "Saint Procula of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survived."
 searchAliases:
   - "Proculus"

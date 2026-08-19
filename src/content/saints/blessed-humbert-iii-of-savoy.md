@@ -1,7 +1,6 @@
 ---
 name: "Blessed Humbert III of Savoy"
 honorific: Blessed
-title: "Blessed Humbert III of Savoy"
 summary: "Son of Count Amadeus III of Savoy and Matilda of Vienna. Educated by Blessed Amadeus of Lausanne. Count of Savoy from age 13 when his father died. Married several times; widower several times. Joined the Carthusian monastery at Haute-Combe, but was obliged to resume political cha"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Humbert-III-of-Savoy.jpg"
 birthYear: 1136

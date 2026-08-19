@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis Blanco"
 honorific: Saint
-title: "Saint Francis Blanco"
 summary: "Studied at Salamanca, Spain. Alcantarine Franciscan monk. Evangelist in Mexico, Philippines, and Japan. One of the Martyrs of Nagasaki."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Francis-Blanco.jpg"
 searchAliases:

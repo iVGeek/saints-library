@@ -1,7 +1,6 @@
 ---
 name: "Saint Jeanne-Marie Kerguin"
 honorific: Venerable
-title: "Saint Jeanne-Marie Kerguin"
 summary: "Jeanne-Marie grew up in a poor peasant mountain family. Her mother died when Giovanna was quite young, and she was forced to take over the household chores for the family. With her home obligations fulfilled, she joined the Franciscan Missionaries of Mary in 1887, taking the name"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Marie-Kerguin.jpg"
 searchAliases:

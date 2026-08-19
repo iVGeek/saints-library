@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio María Fincias"
 honorific: Blessed
-title: "Blessed Julio María Fincias"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcia the Martyr"
 honorific: Saint
-title: "Saint Marcia the Martyr"
 summary: "One of a group of martyrs. No other information has survived."
 died: "martyred in North Africa, date unknown"
 deathPlace: "date unknown"

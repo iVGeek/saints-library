@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucian of Tomi"
 honorific: Saint
-title: "Saint Lucian of Tomi"
 summary: "Martyr."
 died: "Tomi (Tomes, Tomis), Pontus Euxinus (modern Constanta, Romania)"
 deathPlace: "Tomis), Pontus Euxinus (modern Constanta, Romania)"

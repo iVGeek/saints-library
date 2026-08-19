@@ -1,7 +1,6 @@
 ---
 name: "Saint Candidus of Lucania"
 honorific: Saint
-title: "Saint Candidus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

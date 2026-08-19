@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Jové Pach"
 honorific: Blessed
-title: "Blessed Lluís Jové Pach"
 summary: "Member of the Claretians, professed on 9 March 1888. Ordained a priest on 29 February 1896. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

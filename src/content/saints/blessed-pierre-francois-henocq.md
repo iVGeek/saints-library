@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-François Hénocq"
 honorific: Blessed
-title: "Blessed Pierre-François Hénocq"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1749
 deathYear: 1792

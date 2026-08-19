@@ -1,7 +1,6 @@
 ---
 name: "Saint Cassian of Rome"
 honorific: Saint
-title: "Saint Cassian of Rome"
 summary: "Martyred with four companions, date unknown."
 died: "Rome, Italy"
 deathPlace: "Italy"

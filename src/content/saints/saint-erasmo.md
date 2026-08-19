@@ -1,7 +1,6 @@
 ---
 name: "Saint Erasmo"
 honorific: Saint
-title: "Saint Erasmo"
 summary: "Hermit. May have been a monk or anchorite, but no details have survived."
 region: "Italy"
 feastDay:

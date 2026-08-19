@@ -1,7 +1,6 @@
 ---
 name: "Saint Cantidianus"
 honorific: Saint
-title: "Saint Cantidianus"
 summary: "Martyred in Egypt. No other information has survived."
 region: "Egypt"
 feastDay:

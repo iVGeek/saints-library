@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Crete"
 honorific: Saint
-title: "Saint Andrew of Crete"
 summary: "Young monk at Mar Sabas. Monk at the Holy Sepulchre in Jerusalem at the age of 15. Sent to Constantinople by Patriarch Theodore of Jerusalem in 685 to accept the decrees of the Council of Constantinople. He stayed there as head of an orphanage and a men's home for aged. Deacon at"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Andrew_of_Crete_%28fresco%29.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Filatus of Rome"
 honorific: Saint
-title: "Saint Filatus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philatus"

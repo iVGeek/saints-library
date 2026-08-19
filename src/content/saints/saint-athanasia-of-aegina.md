@@ -1,7 +1,6 @@
 ---
 name: "Saint Athanasia of Aegina"
 honorific: Saint
-title: "Saint Athanasia of Aegina"
 summary: "Born to the nobility, the daughter of Nikita and Marina, Athanasia grew up in a pious family. She early felt drawn to the religious life; legend says that when she was a young girl learning to weave, a star suddenly appeared, settled over her heart, and she was enlightened. Howev"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St._Athanasia%2C_Widow_Met_DP891072.jpg/960px-St._Athanasia%2C_Widow_Met_DP891072.jpg"
 searchAliases:

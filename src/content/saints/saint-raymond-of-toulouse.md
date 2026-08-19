@@ -1,7 +1,6 @@
 ---
 name: "Saint Raymond of Toulouse"
 honorific: Saint
-title: "Saint Raymond of Toulouse"
 summary: "Married layman. Widower. Cantor, archdeacon and canon of Saint Sernin church in Toulouse, France. Helped rebuild the church. Known for his austere lifestyle, charity and generosity to the poor, and his good relations with the local Jewish community."
 searchAliases:
   - "Raymond Gayrard"

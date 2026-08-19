@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Gorobyoe"
 honorific: Blessed
-title: "Blessed Ioannes Gorobyoe"
 summary: "Married layman in the diocese of Niigata, Japan. Martyr."
 birthYear: 1549
 deathYear: 1629

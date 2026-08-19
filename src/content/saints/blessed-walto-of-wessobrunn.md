@@ -1,7 +1,6 @@
 ---
 name: "Blessed Walto of Wessobrünn"
 honorific: Blessed
-title: "Blessed Walto of Wessobrünn"
 summary: "Benedictine monk. Abbot of Wessobr&uuml;nn in Bavaria in 1129. Brought many benefactors to the abbey due to his goodness and miracles."
 searchAliases:
   - "Balto of Wessobr&uuml;nn"

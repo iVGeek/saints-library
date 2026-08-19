@@ -1,7 +1,6 @@
 ---
 name: "Saint Papo"
 honorific: Saint
-title: "Saint Papo"
 summary: "Martyr."
 searchAliases:
   - "Pappo"

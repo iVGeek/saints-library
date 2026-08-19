@@ -1,7 +1,6 @@
 ---
 name: "Venerable Elia dalla Costa"
 honorific: Venerable
-title: "Venerable Elia dalla Costa"
 summary: "Youngest of five children born to Luigi dalla Costa and Teresa dal Balcon; he was one of only two that survived childhood, and his mother died when the boy was only five years old. In addition to theological studies, he obtained a degree in literature while in seminary. Ordained"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Elia-dalla-Costa.jpg"
 searchAliases:

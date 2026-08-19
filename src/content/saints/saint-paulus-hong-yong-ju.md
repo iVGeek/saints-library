@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus Hong Yong-ju"
 honorific: Venerable
-title: "Saint Paulus Hong Yong-ju"
 summary: "Layman in the apostolic vicariate of Korea. Catechist. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

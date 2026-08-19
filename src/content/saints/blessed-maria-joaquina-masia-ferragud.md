@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Joaquina Masiá Ferragud"
 honorific: Blessed
-title: "Blessed María Joaquina Masiá Ferragud"
 summary: "Capuchin Poor Clare nun. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Joaquina-Masiá-Ferragud.jpg"
 searchAliases:

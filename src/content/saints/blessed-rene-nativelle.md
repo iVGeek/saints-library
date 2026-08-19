@@ -1,7 +1,6 @@
 ---
 name: "Blessed René Nativelle"
 honorific: Blessed
-title: "Blessed René Nativelle"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792

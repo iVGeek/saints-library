@@ -1,7 +1,6 @@
 ---
 name: "Saint Troadius of Pontus"
 honorific: Saint
-title: "Saint Troadius of Pontus"
 summary: "A young man born to the nobility who publicly proclaimed his Christianity. Martyred in the persecutions of Decius."
 searchAliases:
   - "Troadus"

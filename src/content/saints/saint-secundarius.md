@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundarius"
 honorific: Saint
-title: "Saint Secundarius"
 summary: "Martyred in one of the early persecutions, date unknown. No other information has survived."
 died: "martyred in Antioch, Syria"
 deathPlace: "Syria"

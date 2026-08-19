@@ -1,7 +1,6 @@
 ---
 name: "Blessed Wisinto of Kremsmünster"
 honorific: Blessed
-title: "Blessed Wisinto of Kremsmünster"
 summary: "Benedictine monk. Priest. Served at the abbey of Kremsmünster, Austria. Austrian Benedictines have always considered him Saint Wisinto but elsewhere he known as Blessed."
 deathYear: 1250
 died: "c.1250 of natural causes"

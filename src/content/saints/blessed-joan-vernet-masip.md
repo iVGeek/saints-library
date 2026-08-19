@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Vernet Masip"
 honorific: Blessed
-title: "Blessed Joan Vernet Masip"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Thaumastus of Mainz"
 honorific: Saint
-title: "Saint Thaumastus of Mainz"
 summary: "Early 5th century bishop of Mainz (in modern Germany). Saint Gregory of Tours writes about him in The Glory of the Confessors."
 searchAliases:
   - "Thaumastus of Poitiers"

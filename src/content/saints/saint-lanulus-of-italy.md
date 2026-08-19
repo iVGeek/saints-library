@@ -1,7 +1,6 @@
 ---
 name: "Saint Lanulus of Italy"
 honorific: Saint
-title: "Saint Lanulus of Italy"
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."
 searchAliases:
   - "Hianulus"

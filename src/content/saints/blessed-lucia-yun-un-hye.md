@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucia Yun Un-hye"
 honorific: Blessed
-title: "Blessed Lucia Yun Un-hye"
 summary: "Married lay woman martyr in the apostolic vicariate of Korea."
 deathYear: 1801
 born: "Gyeonggi-do, South Korea"

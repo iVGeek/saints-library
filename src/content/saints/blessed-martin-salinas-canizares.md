@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Salinas Cañizares"
 honorific: Blessed
-title: "Blessed Martín Salinas Cañizares"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

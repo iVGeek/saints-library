@@ -1,7 +1,6 @@
 ---
 name: "Saint Albinus of Brixen"
 honorific: Saint
-title: "Saint Albinus of Brixen"
 summary: "Born to the nobility, the son of Blessed Agatha Hildegardis of Carinthia and Count Paul, Margrave of Carinthia. Bishop of Sabion, South Tyrol (in modern Italy) in 975, a see that was moved to Brixen, Italy."
 image: "http://catholicsaints.info/wp-content/gallery/saint-albinus-of-brixen/saint-albuino-di-bressanone.jpg"
 searchAliases:

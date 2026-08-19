@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentinus the Hermit"
 honorific: Saint
-title: "Saint Florentinus the Hermit"
 summary: "Hermit. Martyr."
 searchAliases:
   - "Florentino"

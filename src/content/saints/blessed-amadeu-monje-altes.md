@@ -1,7 +1,6 @@
 ---
 name: "Blessed Amadeu Monje Altés"
 honorific: Blessed
-title: "Blessed Amadeu Monje Altés"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936

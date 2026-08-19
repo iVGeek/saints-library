@@ -1,7 +1,6 @@
 ---
 name: "Saint Plenus of Africa"
 honorific: Saint
-title: "Saint Plenus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

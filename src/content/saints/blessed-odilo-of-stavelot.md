@@ -1,7 +1,6 @@
 ---
 name: "Blessed Odilo of Stavelot"
 honorific: Blessed
-title: "Blessed Odilo of Stavelot"
 summary: "Benedictine monk. Abbot of the monastery of Stavelot-Malmédy Abbey in Belgium."
 deathYear: 954
 died: "954"

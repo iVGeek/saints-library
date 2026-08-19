@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodora of Nicaea"
 honorific: Saint
-title: "Saint Theodora of Nicaea"
 summary: "Martyr."
 died: "at Nicaea, Bithynia (modern Iznik, Turkey), date unknown"
 deathPlace: "Bithynia (modern Iznik, Turkey), date unknown"

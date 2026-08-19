@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Joseph de Lavèze-Bellay"
 honorific: Blessed
-title: "Blessed Jean-Joseph de Lavèze-Bellay"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792

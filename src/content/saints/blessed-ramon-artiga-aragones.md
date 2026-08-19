@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramon Artiga Aragonés"
 honorific: Blessed
-title: "Blessed Ramon Artiga Aragonés"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

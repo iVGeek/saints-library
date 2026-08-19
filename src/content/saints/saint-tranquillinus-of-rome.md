@@ -1,7 +1,6 @@
 ---
 name: "Saint Tranquillinus of Rome"
 honorific: Saint
-title: "Saint Tranquillinus of Rome"
 summary: "Father of Saint Mark and Saint Marcellian. Convert, baptized by Saint Polycarp of Rome. Priest, ordained by Pope Caius. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Tranquillinus-of-Rome.jpg"
 searchAliases:

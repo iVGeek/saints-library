@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogate"
 honorific: Saint
-title: "Saint Rogate"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6

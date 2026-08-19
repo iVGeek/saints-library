@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Maria Sancho Toda"
 honorific: Blessed
-title: "Blessed Josep Maria Sancho Toda"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936

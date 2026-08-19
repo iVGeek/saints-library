@@ -1,7 +1,6 @@
 ---
 name: "Saint Joseph of Arimathea"
 honorific: Saint
-title: "Saint Joseph of Arimathea"
 summary: "Wealthy Israelite owner of tin mines in Cornwall. May have been related to Jesus, and certainly was a disciple and student. He is the noble counselor mentioned in the Gospel of Mark. Provided the tomb for Christ, and with the help of Saint Nicodemus, interred Jesus. Tradition say"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Brooklyn_Museum_-_Joseph_of_Arimathaea_%28Joseph_d%27Arimathie%29_-_James_Tissot.jpg"
 searchAliases:

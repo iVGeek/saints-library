@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertha of Blangy"
 honorific: Saint
-title: "Saint Bertha of Blangy"
 summary: "Daughter of Count Rigobertus and Ursanna, daughter of the king of Kent, England. Married a noble named Siegfried, a cousin of the king, at age 20. Mother of five daughters. Widowed in 672. Built a convent at Blangy, Artois, France in 682. Legend says that two partially built hous"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bertha-of-Blangy.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian of Armenia"
 honorific: Saint
-title: "Saint Emilian of Armenia"
 summary: "Armenian monk. Martyr."
 searchAliases:
   - "Aemilian"

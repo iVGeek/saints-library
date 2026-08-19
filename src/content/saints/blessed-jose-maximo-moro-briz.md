@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Máximo Moro Briz"
 honorific: Blessed
-title: "Blessed José Máximo Moro Briz"
 summary: "Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

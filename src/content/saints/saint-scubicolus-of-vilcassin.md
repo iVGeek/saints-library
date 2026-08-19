@@ -1,7 +1,6 @@
 ---
 name: "Saint Scubicolus of Vilcassin"
 honorific: Saint
-title: "Saint Scubicolus of Vilcassin"
 summary: "Martyr."
 died: "Vexin Lugdunense territory of Gaul (modern Vilcassin, France)"
 deathPlace: "France)"

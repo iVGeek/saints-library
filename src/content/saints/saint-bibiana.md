@@ -1,7 +1,6 @@
 ---
 name: "Saint Bibiana"
 honorific: Saint
-title: "Saint Bibiana"
 summary: "Her parents, Saint Flavian of Acquapendente and Dafrosa of Acquapendente, were martyred in the persecutions of Julian the Apostate, and Vivian and her sister Demetria were turned over to a woman named Rufina who tried to force them into prostitution. Upon her continued refusal to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bibiana.jpg"
 searchAliases:

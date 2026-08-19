@@ -1,7 +1,6 @@
 ---
 name: "Saint Elstan of Abingdon"
 honorific: Saint
-title: "Saint Elstan of Abingdon"
 summary: "Monk at Abingdon Abbey. Friend and spiritual student of Saint Ethelwold. Known for his humility and his obedience to duty. Bishop of Ramsbury, England. Abbot of Abingdon."
 searchAliases:
   - "Elstan of Winchester"

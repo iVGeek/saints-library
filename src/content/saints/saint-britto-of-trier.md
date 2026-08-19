@@ -1,7 +1,6 @@
 ---
 name: "Saint Britto of Trier"
 honorific: Saint
-title: "Saint Britto of Trier"
 summary: "Bishop of Trier, Belgic Gaul (modern Germany) in 374, and a leader of the Church in Gaul. Attended the 382 synod of bishops called by Pope Saint Damasus I. Friend of co-worker with Saint Ambrose of Milan and Saint Martin of Tours. When a group of pagans sought sanctuary with the"
 searchAliases:
   - "Brito"

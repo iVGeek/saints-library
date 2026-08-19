@@ -1,7 +1,6 @@
 ---
 name: "Saint Acuta"
 honorific: Saint
-title: "Saint Acuta"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Acute"

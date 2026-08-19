@@ -1,7 +1,6 @@
 ---
 name: "Saint Evodius of Syracuse"
 honorific: Saint
-title: "Saint Evodius of Syracuse"
 summary: "Martyr."
 searchAliases:
   - "Evodio"

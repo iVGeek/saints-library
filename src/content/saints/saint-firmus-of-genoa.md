@@ -1,7 +1,6 @@
 ---
 name: "Saint Firmus of Genoa"
 honorific: Saint
-title: "Saint Firmus of Genoa"
 summary: "Martyr. No other information as survived."
 died: "Genoa, Italy"
 deathPlace: "Italy"

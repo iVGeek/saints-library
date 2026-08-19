@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ovide Charlebois"
 honorific: Venerable
-title: "Venerable Ovide Charlebois"
 summary: "Seventh of fourteen children born to Hyacinthe Charlebois and Émérente Chartier-Robert, he was raised in a poor and pious family. Ovide studied at the Collège de l'Assomption in Quebec from 1876 to 1882. Joined the Oblate Misionaries of Mary Immaculate in 1883, making his profess"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Monseigneur_Ovide_Charlebois%2C_O.M.I._1862-1933%2C_recto.tif/lossy-page1-960px-Monseigneur_Ovide_Charlebois%2C_O.M.I._1862-1933%2C_recto.tif.jpg"
 searchAliases:

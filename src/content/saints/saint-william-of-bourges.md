@@ -1,7 +1,6 @@
 ---
 name: "Saint William of Bourges"
 honorific: Saint
-title: "Saint William of Bourges"
 summary: "Member of the family of the Counts of Nevers, his father Baldwin planned a military life for William. Educated by his maternal uncle, Peter the Hermit, archdeacon of Soissons, France. Drawn to religious life from an early age, William became a priest, canon of Soissons, and canon"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Bourges.jpg"
 searchAliases:

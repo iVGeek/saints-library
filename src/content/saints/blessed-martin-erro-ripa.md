@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martín Erro Ripa"
 honorific: Blessed
-title: "Blessed Martín Erro Ripa"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Teófilo Martín"

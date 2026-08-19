@@ -1,7 +1,6 @@
 ---
 name: "Saint Winifred of Wales"
 honorific: Saint
-title: "Saint Winifred of Wales"
 summary: "Daughter to Trevith, a member of the Welsh landed class and advisor to the king. Spiritual student of her maternal uncle Saint Beuno Gasulsych. Physically beautiful, she made a private vow of chastity, becoming a bride of Christ. Murdered when she rejected the amorous advances of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Winifred.jpg"
 searchAliases:

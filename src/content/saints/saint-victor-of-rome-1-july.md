@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Rome"
 honorific: Saint
-title: "Saint Victor of Rome"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

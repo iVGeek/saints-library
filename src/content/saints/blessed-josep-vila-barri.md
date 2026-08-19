@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Vila Barri"
 honorific: Blessed
-title: "Blessed Josep Vila Barri"
 summary: "Priest. Member of the Sons of the Holy Family. Imprisoned and executed in the anti-Christian persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Vila-Barri.jpg"
 birthYear: 1910

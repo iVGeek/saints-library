@@ -1,7 +1,6 @@
 ---
 name: "Saint Egilhard of Cornelimünster"
 honorific: Saint
-title: "Saint Egilhard of Cornelimünster"
 summary: "Abbot of Cornelimünster Abbey near Aachen, Germany. Killed by Viking raiders."
 deathYear: 881
 died: "881 at Bercheim, Germany"

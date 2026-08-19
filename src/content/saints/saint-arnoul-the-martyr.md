@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnoul the Martyr"
 honorific: Saint
-title: "Saint Arnoul the Martyr"
 summary: "Sixth-century missionary to the Franks. Martyr."
 searchAliases:
   - "Arnulphus"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Addolorata de Pascali"
 honorific: Venerable
-title: "Venerable Maria Addolorata de Pascali"
 summary: "Member of the Compassionist Sisters from 1920 to 1929. Founded the Sisters Disciples of the Sacred Heart on 11 April 1929."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Addolorata-de-Pascali.jpg"
 searchAliases:

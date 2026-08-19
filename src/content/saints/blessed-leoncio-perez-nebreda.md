@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leoncio Pérez Nebreda"
 honorific: Blessed
-title: "Blessed Leoncio Pérez Nebreda"
 summary: "Joined the Vincentians on 19 August 1911, making his profession on 1 January 1914. Ordained on 10 August 1921. Professor at the Vincentian Apostolic College in Teruel, and the in 1935 at Alcorisa, Spain. Regardless of his assignment, he never forgot that his first vocation was to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leoncio-Pérez-Nebreda.jpg"
 birthYear: 1895

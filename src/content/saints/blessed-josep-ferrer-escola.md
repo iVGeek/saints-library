@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Ferrer Escolà"
 honorific: Blessed
-title: "Blessed Josep Ferrer Escolà"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

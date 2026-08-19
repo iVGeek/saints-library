@@ -1,7 +1,6 @@
 ---
 name: "Saint Cadoc of Llancarvan"
 honorific: Saint
-title: "Saint Cadoc of Llancarvan"
 summary: "Son of Saint Gwynllyw, a king in Wales, a robber chieftain who led a band of 300; his mother, Saint Gladys, had been stolen in a raid on a neighboring chief; brother of Saint Gluvias. Raised by an Irish monk; Cadoc's father had stolen the monk's cow, and when he came to demand it"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cadoc.jpg"
 searchAliases:

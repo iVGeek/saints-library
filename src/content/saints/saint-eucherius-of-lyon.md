@@ -1,7 +1,6 @@
 ---
 name: "Saint Eucherius of Lyon"
 honorific: Saint
-title: "Saint Eucherius of Lyon"
 summary: "Born to the nobility, well educated, and known for his learning and as a gifted speaker. Married to Galla, who became a nun in later life; father of at least two sons, Saint Veranus of Vence and Saint Salonius of Geneva, and two daughters, Saint Tullia and Saint Consortia. In 422"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Statue_de_Saint_Eucherius_de_Lyon_%28cropped%29.JPG"
 deathYear: 449

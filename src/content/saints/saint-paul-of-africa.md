@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Africa"
 honorific: Saint
-title: "Saint Paul of Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

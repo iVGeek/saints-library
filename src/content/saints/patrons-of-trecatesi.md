@@ -1,7 +1,6 @@
 ---
 name: "patrons of trecatesi"
 honorific: Saint
-title: "patrons of trecatesi"
 region: "Italy"
 feastDay:
   month: 1

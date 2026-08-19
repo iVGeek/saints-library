@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinian"
 honorific: Saint
-title: "Saint Rufinian"
 summary: "Brother of Saint Rufinus. Martyr."
 feastDay:
   month: 9

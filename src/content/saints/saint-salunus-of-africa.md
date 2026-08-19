@@ -1,7 +1,6 @@
 ---
 name: "Saint Salunus of Africa"
 honorific: Saint
-title: "Saint Salunus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

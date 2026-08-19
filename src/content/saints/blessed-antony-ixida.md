@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antony Ixida"
 honorific: Blessed
-title: "Blessed Antony Ixida"
 summary: "Evangelizing Jesuit priest noted for his education and eloquence. Martyr."
 searchAliases:
   - "Antony Ishida"

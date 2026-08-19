@@ -1,7 +1,6 @@
 ---
 name: "Saint Ermia of Pojani"
 honorific: Saint
-title: "Saint Ermia of Pojani"
 summary: "Martyr."
 died: "Pojani, Macedonia (in modern Albania), date unknown"
 deathPlace: "Macedonia (modern Albania), date unknown"

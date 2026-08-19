@@ -1,7 +1,6 @@
 ---
 name: "Saint Aileran of Clonard"
 honorific: Saint
-title: "Saint Aileran of Clonard"
 summary: "Monk and teacher at the monastery of Clonard, Ireland. Rector in 650. Noted scholar and master of Greek and Latin. Wrote several theological treatises and biographies of Saint Brigid, Saint Fechin and Saint Patrick."
 searchAliases:
   - "Aileran Sapiens"

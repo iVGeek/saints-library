@@ -1,7 +1,6 @@
 ---
 name: "Blessed Regina Protmann"
 honorific: Blessed
-title: "Blessed Regina Protmann"
 summary: "Born to a wealthy familiy, at age 19 she gave it all up to live in community with like-minded friends and work with the sick and the poor. This was the foundation of the Sisters of Saint Catherine, Virgin and Martyr which expanded its mission to educating the young. The Sisters c"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Braniewo_-_B%C5%82._Regina_Protmann.JPG/960px-Braniewo_-_B%C5%82._Regina_Protmann.JPG"
 birthYear: 1552

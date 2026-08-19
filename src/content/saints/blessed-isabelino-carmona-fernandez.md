@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isabelino Carmona Fernández"
 honorific: Blessed
-title: "Blessed Isabelino Carmona Fernández"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

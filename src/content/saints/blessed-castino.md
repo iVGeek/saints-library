@@ -1,7 +1,6 @@
 ---
 name: "Blessed Castino"
 honorific: Blessed
-title: "Blessed Castino"
 summary: "Franciscan friar and missionary. In the latter 13th century, he and Blessed Cesorio da Spira were sent by Saint Francis of Assisi to spread the Franciscan Order into Germany. Near Munich, he took over an old chapel dedicated to Saint James and used it as the base for his preachin"
 searchAliases:
   - "Castissimo"

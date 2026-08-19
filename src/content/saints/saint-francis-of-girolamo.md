@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis of Girolamo"
 honorific: Saint
-title: "Saint Francis of Girolamo"
 summary: "Studied humanities and philosophy at the Jesuit college of Taranto, Italy at age 16; studied theology and canon law at the college of Gesu Vecchio. Ordained  on 18 March 1666 at Naples, Italy, and served as a parish priest. Joined the Jesuits at age 28 on 1 July 1670. Rural missi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-of-Girolamo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Firmus the Martyr"
 honorific: Saint
-title: "Saint Firmus the Martyr"
 summary: "Third century martyr. No other information has survived."
 searchAliases:
   - "Firminus"

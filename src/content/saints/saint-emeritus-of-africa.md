@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeritus of Africa"
 honorific: Saint
-title: "Saint Emeritus of Africa"
 summary: "Martyr."
 searchAliases:
   - "Emeterus"

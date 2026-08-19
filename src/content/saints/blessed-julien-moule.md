@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julien Moulé"
 honorific: Blessed
-title: "Blessed Julien Moulé"
 summary: "Priest in the diocese of Laval, France. Curate and rector of the college at Beaufray, France. Parish priest at Saulges, France. During the French Revolution he initially took a loyalty oath to the government, but he later repudiated it. Martyr."
 birthYear: 1716
 deathYear: 1794

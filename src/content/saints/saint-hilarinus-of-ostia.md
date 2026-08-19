@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilarinus of Ostia"
 honorific: Saint
-title: "Saint Hilarinus of Ostia"
 deathYear: 361
 died: "scourged to death in 361 at Ostia, Italy"
 deathPlace: "Italy"

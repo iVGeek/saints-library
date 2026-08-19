@@ -1,7 +1,6 @@
 ---
 name: "Saint Fiorenzo of Osimo"
 honorific: Saint
-title: "Saint Fiorenzo of Osimo"
 summary: "Martyr."
 died: "Osimo, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Virgin Mary"
 honorific: Blessed
-title: "Blessed Virgin Mary"
 summary: "Mother of Jesus. Spouse of the Holy Spirit. Betrothed of Saint Joseph"
 image: "http://catholicsaints.info/wp-content/uploads/img-BVM.jpg"
 born: "unknown, perhaps 20BC"

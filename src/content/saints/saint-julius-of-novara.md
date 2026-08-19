@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Novara"
 honorific: Saint
-title: "Saint Julius of Novara"
 summary: "Priest. Missionary to northern Italy. Sent by Emperor Theodosius I to destroy pagan altars and woods, and convert pagan temples into Christian churches. Received financial and spiritual support from Saint Audentius of Milan."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/JuliusofNovara.jpg"
 searchAliases:

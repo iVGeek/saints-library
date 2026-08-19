@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Solé Rovira"
 honorific: Blessed
-title: "Blessed Josep Solé Rovira"
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Andreu Corsino Maria"

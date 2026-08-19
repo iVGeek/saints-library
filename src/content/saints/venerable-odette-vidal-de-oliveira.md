@@ -1,7 +1,6 @@
 ---
 name: "Venerable Odette Vidal de Oliveira"
 honorific: Venerable
-title: "Venerable Odette Vidal de Oliveira"
 summary: "Born to a wealthy family; she encouraged all members of her family and their staff to give to the poor. From age 4 she began having visions of Jesus."
 searchAliases:
   - "Odetinha"

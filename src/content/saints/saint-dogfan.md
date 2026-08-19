@@ -1,7 +1,6 @@
 ---
 name: "Saint Dogfan"
 honorific: Saint
-title: "Saint Dogfan"
 summary: "Son of the chieftain Saint Brychan of Brycheiniog. Martyr. No other information has survived."
 searchAliases:
   - "Doewan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Federico Cobo-Sanz"
 honorific: Blessed
-title: "Blessed Federico Cobo-Sanz"
 summary: "Aspirant to the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1919
 deathYear: 1936

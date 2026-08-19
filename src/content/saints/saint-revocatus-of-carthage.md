@@ -1,7 +1,6 @@
 ---
 name: "Saint Revocatus of Carthage"
 honorific: Saint
-title: "Saint Revocatus of Carthage"
 summary: "Catechumen. Martyr."
 deathYear: 203
 died: "mauled by wild beasts and beheaded 7 March 203 at Carthage, North Africa"

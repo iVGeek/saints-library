@@ -1,7 +1,6 @@
 ---
 name: "Venerable Marthe-Louise Robin"
 honorific: Venerable
-title: "Venerable Marthe-Louise Robin"
 summary: "Lay woman in the diocese of Valence, France. Mystic and visionary, and reported to have received the stigmata. Founded the Association of the Foyers of Charity."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Marthe-Louise-Robin.jpg"
 birthYear: 1902

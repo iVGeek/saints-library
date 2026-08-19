@@ -1,7 +1,6 @@
 ---
 name: "Saint Neon of Aegea"
 honorific: Saint
-title: "Saint Neon of Aegea"
 summary: "Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred."
 deathYear: 285
 died: "crucified in 285 outside the walls of Aegea, Cilicia (in Asia Minor)"

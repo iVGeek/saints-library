@@ -1,7 +1,6 @@
 ---
 name: "Blessed Henry of Segusio"
 honorific: Blessed
-title: "Blessed Henry of Segusio"
 summary: "Studied civil and canon law at Bologna, Italy. Taught in Bologna. Taught canon law in Paris, France. Diplomat from the court of King Henry III to Pope Innocent IV. Provost of of the diocese of Antibes, France. Chaplain to the pope. Bishop of Sisteron, France in 1244. Archbishop o"
 searchAliases:
   - "Hostiensis"

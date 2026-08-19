@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antônio de Almeida Lustosa"
 honorific: Venerable
-title: "Venerable Antônio de Almeida Lustosa"
 summary: "Antônio studied at the Salesian college of Cachoreira do Campo, Brazil, and joined the Order. Ordained a priest on 28 January 1912. Bishop of Uberaba, Brazil on 4 July 1924. Bishop of Corumbá, Mato Grosso do Sul, Brazil on 17 December 1928. Archbishop of Belém do Pará, Brazil on"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Dom_Lustosa_Folhetim.jpg"
 birthYear: 1886

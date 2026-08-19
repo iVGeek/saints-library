@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidelis of Edessa"
 honorific: Saint
-title: "Saint Fidelis of Edessa"
 summary: "Son of Saint Bassa of Edessa. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bassa-of-Edessa.jpg"
 deathYear: 304

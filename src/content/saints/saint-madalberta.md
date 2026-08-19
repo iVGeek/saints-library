@@ -1,7 +1,6 @@
 ---
 name: "Saint Madalberta"
 honorific: Saint
-title: "Saint Madalberta"
 summary: "Daughter of Saint Vincent Madelgarus and Saint Waltrude; sister of Saint Aldetrudis; grand-daughter of Saint Bertille. Spiritual student of her aunt Saint Aldegund. Benedictine nun at the abbey of Maubeuge, France. Abbess in 697."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Madelberte.jpg"
 searchAliases:

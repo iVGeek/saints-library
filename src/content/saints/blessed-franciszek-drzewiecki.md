@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciszek Drzewiecki"
 honorific: Blessed
-title: "Blessed Franciszek Drzewiecki"
 summary: "Orionist. After studies at the mother-house in Tortona, Italy, he was ordained on 6 June 1936. Returning to Poland, he taught at the college of Zdunska Wola. Parish priest in Wloclawek, Poland. Arrested on 7 November 1939 and condemned to forced labour at the Dachau concentration"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Drzewiecki.jpg"
 birthYear: 1908

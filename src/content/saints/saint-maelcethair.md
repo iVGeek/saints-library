@@ -1,7 +1,6 @@
 ---
 name: "Saint Maelcethair"
 honorific: Saint
-title: "Saint Maelcethair"
 summary: "Born to the nobility and related to King Fiatach Finn, Maelcethair went out as a missionary across Ireland. With Saint Brendan, he brought the faith to Kilmalkedar, County Kerry, Ireland; his work there made it an important regional center of culture, spirituality and missionary"
 searchAliases:
   - "Malkedar"

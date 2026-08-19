@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nemesio Díez Fernández"
 honorific: Blessed
-title: "Blessed Nemesio Díez Fernández"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Sergio Bernardini"
 honorific: Venerable
-title: "Venerable Sergio Bernardini"
 summary: "Married to Venerable Domenica Bedonni Bernardini; father; lifelong layman in the archdiocese of Modena-Nonantola, Italy. Franciscan tertiary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Sergio-Bernardini.jpg"
 birthYear: 1882

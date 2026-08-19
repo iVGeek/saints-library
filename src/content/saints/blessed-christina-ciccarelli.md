@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christina Ciccarelli"
 honorific: Blessed
-title: "Blessed Christina Ciccarelli"
 summary: "Youngest of six children of Domenico de Pericolo. Drawn to the religious life from an early age. Augustinian recluse at the monastery of Saint Lucia in Aquileia, Italy in June 1505, taking the name Christina. Abbess. Prophet, healer, and visionary, noted for her piety, humility,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christina-Ciccarelli.jpg"
 searchAliases:

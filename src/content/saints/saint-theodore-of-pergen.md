@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Pergen"
 honorific: Saint
-title: "Saint Theodore of Pergen"
 summary: "Son of Saint Philippa. Roman soldier. Martyred in the persecutions of Emperor Elagabalus."
 deathYear: 220
 died: "crucified c.220 at Pergen, Pamphylia, Asia Minor (in modern Turkey)"

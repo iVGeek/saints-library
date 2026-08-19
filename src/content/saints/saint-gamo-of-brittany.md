@@ -1,7 +1,6 @@
 ---
 name: "Saint Gamo of Brittany"
 honorific: Saint
-title: "Saint Gamo of Brittany"
 summary: "Eighth century Benedictine monk. Abbot of near Noyon, France. Worked for expansion of the monastic movement. Noted patron of the arts."
 region: "France"
 feastDay:

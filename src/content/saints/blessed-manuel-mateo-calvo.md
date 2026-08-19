@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Mateo Calvo"
 honorific: Blessed
-title: "Blessed Manuel Mateo Calvo"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Claudio José"

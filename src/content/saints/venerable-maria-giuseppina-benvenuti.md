@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Giuseppina Benvenuti"
 honorific: Venerable
-title: "Venerable Maria Giuseppina Benvenuti"
 summary: "Kidnapped as a child and sold by Arab slavers, Zeinab was ransomed out of slavery by Father Niccolò Olivieri, and taken to Italy. Baptized Catholic on 24 September 1856, she took the name Maria Giuseppina Benvenuti; the 'Benvenuti' part was her godmother's last name. Educated by"
 searchAliases:
   - "Moretta"

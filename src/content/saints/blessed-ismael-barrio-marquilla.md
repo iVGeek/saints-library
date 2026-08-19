@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ismael Barrio Marquilla"
 honorific: Blessed
-title: "Blessed Ismael Barrio Marquilla"
 summary: "Salesian brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Celestino Antonio"

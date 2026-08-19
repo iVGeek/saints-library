@@ -1,7 +1,6 @@
 ---
 name: "Saint Amaranthus"
 honorific: Saint
-title: "Saint Amaranthus"
 summary: "Third century martyr."
 searchAliases:
   - "Amaranto"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Victurus of Africa"
 honorific: Saint
-title: "Saint Victurus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Victorus"

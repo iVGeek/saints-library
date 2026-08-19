@@ -1,7 +1,6 @@
 ---
 name: "Blessed Humbert"
 honorific: Blessed
-title: "Blessed Humbert"
 summary: "Benedictine monk at Fritzlar, Hesse, Germany. Prior at Buraburg, Germany."
 born: "7th century"
 died: "8th century of natural causes"

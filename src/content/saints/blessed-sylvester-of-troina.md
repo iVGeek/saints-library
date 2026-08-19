@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sylvester of Troina"
 honorific: Blessed
-title: "Blessed Sylvester of Troina"
 summary: "Born to the local nobility, as a young man he became a twelfth-century monk in the Basilian monastery of Saint Michael the Archangel in Troina, Sicily, Italy, where he became known for his charity. Lived briefly at the monastery of San Filippo di Fragalà near Frazzanò, Italy. Ord"
 searchAliases:
   - "Silvestro di Troina"

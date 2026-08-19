@@ -1,7 +1,6 @@
 ---
 name: "Saint Wendelin"
 honorific: Saint
-title: "Saint Wendelin"
 summary: "Prince of Scotland, the son of King Forchado and Queen Irelina. Educated by the local bishop, Wendelin decided to abandon life in the royal family, and devote himself to God. Dressed as a pilgrim, Wendelin left his castle home in the middle of the night, and left the worldly life"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wendelin1.jpg"
 searchAliases:

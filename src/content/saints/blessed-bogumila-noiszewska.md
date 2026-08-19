@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bogumila Noiszewska"
 honorific: Blessed
-title: "Blessed Bogumila Noiszewska"
 summary: "Member of the Sisters of the Immaculate Conception of the Blessed Virgin, taking the name Maria Ewa of Providence. School teacher in Slonim, Belarus. Imprisoned and executed by Nazis for helping to hide Jews. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Eva-Noiszewska.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Liberio González Nombela"
 honorific: Blessed
-title: "Blessed Liberio González Nombela"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

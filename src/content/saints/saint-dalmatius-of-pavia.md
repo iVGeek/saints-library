@@ -1,7 +1,6 @@
 ---
 name: "Saint Dalmatius of Pavia"
 honorific: Saint
-title: "Saint Dalmatius of Pavia"
 summary: "Raised a pagan. Adult convert to Christianity. Preached in Gaul and northern Italy. Bishop of Pavia, Italy for the last year of his life. Martyred in the persecutions of Maximian Herculeus."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pornassio-IMG_0817.JPG/960px-Pornassio-IMG_0817.JPG"
 searchAliases:

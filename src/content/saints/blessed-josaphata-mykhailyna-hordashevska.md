@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josaphata Mykhailyna Hordashevska"
 honorific: Blessed
-title: "Blessed Josaphata Mykhailyna Hordashevska"
 summary: "Greek Catholic. Entered the contemplative Basilian Sisters at age 18. When the Basilians decided to establish a woman's congregation that focused on the active life, sister Mykhailyna was chosed to lead it. First member of the Sisters Servant of Mary Immaculate, taking the name J"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josaphata-Mykhailyna-Hordashevska.gif"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fort of Bordeaux"
 honorific: Saint
-title: "Saint Fort of Bordeaux"
 summary: "First bishop of Bordeaux, France, serving in the early 4th century. Participated in the Council of Arles in 314. Martyr."
 searchAliases:
   - "Forannan"

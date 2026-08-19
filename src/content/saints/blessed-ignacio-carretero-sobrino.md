@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignacio Carretero Sobrino"
 honorific: Blessed
-title: "Blessed Ignacio Carretero Sobrino"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Cañada del Gamo community. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

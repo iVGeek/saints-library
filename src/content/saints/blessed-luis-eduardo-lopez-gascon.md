@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Eduardo López Gascón"
 honorific: Blessed
-title: "Blessed Luis Eduardo López Gascón"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1855
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan of San Domenico"
 honorific: Blessed
-title: "Blessed Juan of San Domenico"
 summary: "Dominican priest. Martyr</a."
 searchAliases:
   - "Juan Martinez y Cid"

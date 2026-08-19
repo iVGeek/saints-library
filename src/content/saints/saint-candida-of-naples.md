@@ -1,7 +1,6 @@
 ---
 name: "Saint Candida of Naples"
 honorific: Saint
-title: "Saint Candida of Naples"
 summary: "Lay woman noted throughout her region for her personal holiness. It was the work of her lifetime to convert her heathen husband and son."
 searchAliases:
   - "Candida the Younger"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Notburga"
 honorific: Blessed
-title: "Blessed Notburga"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bled_-_cerkev_Marijinega_vnebovzetja_%28sveta_Notburga%2C_medaljon%29.jpg"
 searchAliases:
   - "Notburga of Eben"

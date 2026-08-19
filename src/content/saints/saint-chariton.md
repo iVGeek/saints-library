@@ -1,7 +1,6 @@
 ---
 name: "Saint Chariton"
 honorific: Saint
-title: "Saint Chariton"
 summary: "Martyred in the persecutions of Diocletian."
 died: "burned to death, date unknown"
 deathPlace: "date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagius of Antwerp"
 honorific: Saint
-title: "Saint Pelagius of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

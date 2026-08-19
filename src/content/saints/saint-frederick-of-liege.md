@@ -1,7 +1,6 @@
 ---
 name: "Saint Frederick of Liège"
 honorific: Saint
-title: "Saint Frederick of Liège"
 summary: "Twelfth century bishop of Liège, Belgium. Known for repressing simony, nepotism, and the usurpation of Church authority by German imperial authorities."
 deathYear: 1172
 died: "1172 of natural causes"

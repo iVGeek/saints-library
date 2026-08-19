@@ -1,7 +1,6 @@
 ---
 name: "Saint Franciscus Zhang Rong"
 honorific: Venerable
-title: "Saint Franciscus Zhang Rong"
 summary: "Married layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Fangji"

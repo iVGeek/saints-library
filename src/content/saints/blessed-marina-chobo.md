@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marina Chobo"
 honorific: Blessed
-title: "Blessed Marina Chobo"
 summary: "Young lay woman in the diocese of Niigata, Japan. Daughter of Blessed Maria Ito. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"

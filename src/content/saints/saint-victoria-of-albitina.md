@@ -1,7 +1,6 @@
 ---
 name: "Saint Victoria of Albitina"
 honorific: Saint
-title: "Saint Victoria of Albitina"
 summary: " Arrested during Mas Born to the North African nobility. Convert in her youth. She refused an arranged marriage to a young nobleman, and on her wedding day she leaped from a window in her parents' house. She sought sanctuary in a nearby church, and there dedicated her life to God."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victoria-of-Albitina.jpg"
 deathYear: 304

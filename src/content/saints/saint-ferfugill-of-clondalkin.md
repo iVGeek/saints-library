@@ -1,7 +1,6 @@
 ---
 name: "Saint Ferfugill of Clondalkin"
 honorific: Saint
-title: "Saint Ferfugill of Clondalkin"
 summary: "8th century bishop of Clondalkin, Ireland."
 searchAliases:
   - "Ferfugill of Cluain Dolcáin"

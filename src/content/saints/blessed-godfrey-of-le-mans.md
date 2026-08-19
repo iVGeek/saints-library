@@ -1,7 +1,6 @@
 ---
 name: "Blessed Godfrey of Le Mans"
 honorific: Blessed
-title: "Blessed Godfrey of Le Mans"
 summary: "Bishop of Le Mans, France in 1234. Founded the Charterhouse of Parc d'Orgues, France."
 deathYear: 1255
 died: "1255 at Anagni, Italy of natural causes"

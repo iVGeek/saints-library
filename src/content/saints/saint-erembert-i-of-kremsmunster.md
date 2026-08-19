@@ -1,7 +1,6 @@
 ---
 name: "Saint Erembert I of Kremsmünster"
 honorific: Saint
-title: "Saint Erembert I of Kremsmünster"
 summary: "Benedictine monk. Abbot of Kremsmünster in Austria in 1050."
 region: "Austria"
 feastDay:

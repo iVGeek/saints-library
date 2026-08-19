@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Antioch"
 honorific: Saint
-title: "Saint Theodore of Antioch"
 died: "martyred in Antioch"
 region: "England"
 feastDay:

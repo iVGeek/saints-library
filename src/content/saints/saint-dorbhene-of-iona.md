@@ -1,7 +1,6 @@
 ---
 name: "Saint Dorbhene of Iona"
 honorific: Saint
-title: "Saint Dorbhene of Iona"
 summary: "Relative of Saint Columba. Monk. Abbot of Iona Abbey."
 region: "Italy"
 feastDay:

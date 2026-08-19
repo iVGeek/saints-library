@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Hamard"
 honorific: Blessed
-title: "Blessed Anne Hamard"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 searchAliases:
   - "Anne Hmard"

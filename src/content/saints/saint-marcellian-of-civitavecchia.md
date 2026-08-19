@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellian of Civitavecchia"
 honorific: Saint
-title: "Saint Marcellian of Civitavecchia"
 summary: "Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Secundian-Marcellian-and-Verian.jpg"
 deathYear: 250

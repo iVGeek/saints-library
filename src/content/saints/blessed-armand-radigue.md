@@ -1,7 +1,6 @@
 ---
 name: "Blessed Armand Radigue"
 honorific: Blessed
-title: "Blessed Armand Radigue"
 summary: "Armand joined the Picpus Fathers on 7 March 1845. He was ordained a priest on 22 April 1848, and served the Fathers as novice master for 20 years. Chosen Vicar-General of the Fathers in 1868, and then superior of the Picpus mother house in Paris, France. Martyred in the persecuti"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Armand-Radigue.jpg"
 searchAliases:

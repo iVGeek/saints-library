@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Quintas Durán"
 honorific: Blessed
-title: "Blessed José Quintas Durán"
 summary: "Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1938

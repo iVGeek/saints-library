@@ -1,7 +1,6 @@
 ---
 name: "Blessed Deogracias Palacios del Río"
 honorific: Blessed
-title: "Blessed Deogracias Palacios del Río"
 summary: "The sixth of seven children in his family, Deogracius was known as a good student, and joined the Augustinian Recollects at age 15. Missionary to Brazil in 1923. Ordained a priest in Brazil on 28 March 1925. Missionary to Argentina. He returned to Spain in 1933, and served his re"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Deogracias-Palacios-del-Rio.jpg"
 searchAliases:

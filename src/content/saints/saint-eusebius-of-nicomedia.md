@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Nicomedia"
 honorific: Saint
-title: "Saint Eusebius of Nicomedia"
 summary: "Martyred at Nicomedia (in modern Turkey). No other information has survived."
 region: "Italy"
 feastDay:

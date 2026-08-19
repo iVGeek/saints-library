@@ -1,7 +1,6 @@
 ---
 name: "Blessed Veronica of Milan"
 honorific: Blessed
-title: "Blessed Veronica of Milan"
 summary: "Grew up in a poor peasant family in a small village, doing chores and working the fields. She had no formal education, and tried unsuccessfully to teach herself to read at night. She began to have religious ecstasies, visions of the life of Christ, and was taught her catechism by"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Beata_Veronica.jpg/960px-Beata_Veronica.jpg"
 searchAliases:

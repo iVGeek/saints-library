@@ -1,7 +1,6 @@
 ---
 name: "Saint Solochanus of Chalcedon"
 honorific: Saint
-title: "Saint Solochanus of Chalcedon"
 summary: "Imperial Roman soldier martyred with many of his Christian companions in the persecutions of emperor Maximian."
 searchAliases:
   - "Solochon"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Laurens"
 honorific: Blessed
-title: "Blessed Jean Laurens"
 summary: "Norbertine canon of the Averbode monastery near Diest, Brabant (in modern Belgium). Ordained in 1574. Sub-prior of his house and master of novices, he was known for instilling a zeal for the faith in his charges by his pious personal example. Vicar of Hechtel, Limburg, Belgium in"
 birthYear: 1548
 deathYear: 1613

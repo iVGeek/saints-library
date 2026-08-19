@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Mount Jura"
 honorific: Saint
-title: "Saint Donatus of Mount Jura"
 summary: "Deacon. Priest. Following a pilgrimage to the tomb of Saint Martin of Tours, he retired from world to live as a hermit on Mount Jura near Sisteron, Provence (in modern France). Reported to have the gift of healing by prayer."
 searchAliases:
   - "Donatus of Sisteron"

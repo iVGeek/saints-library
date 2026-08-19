@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Llamas Barrero"
 honorific: Blessed
-title: "Blessed Felipe Llamas Barrero"
 summary: " Father Domitilo was arrested on 3 August 1936 in the early day Felipe joined the Franciscan Capuchins on 2 August 1923, taking the name Domitilo of Ayoó; he made his religious profession on 3 August 1924. Ordained a priest on 30 May 1931. He became known as a passionate preacher."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Llamas-Barrero.jpg"
 searchAliases:

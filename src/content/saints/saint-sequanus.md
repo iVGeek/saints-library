@@ -1,7 +1,6 @@
 ---
 name: "Saint Sequanus"
 honorific: Saint
-title: "Saint Sequanus"
 summary: "Hermit near Verreysous-Dree, France. Monk at Réomay, France. Founded a monastery in Segreste, France and served as its abbot; it was later renamed Saint-Seine in his honour."
 searchAliases:
   - "Segnano"

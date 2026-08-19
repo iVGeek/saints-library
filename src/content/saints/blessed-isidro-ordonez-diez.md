@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Ordóñez Díez"
 honorific: Blessed
-title: "Blessed Isidro Ordóñez Díez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936

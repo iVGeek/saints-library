@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxima of Fréjus"
 honorific: Saint
-title: "Saint Maxima of Fréjus"
 summary: "Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France."
 searchAliases:
   - "Maxime"

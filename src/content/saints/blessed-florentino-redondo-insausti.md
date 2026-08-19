@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florentino Redondo Insausti"
 honorific: Blessed
-title: "Blessed Florentino Redondo Insausti"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Leopoldo José"

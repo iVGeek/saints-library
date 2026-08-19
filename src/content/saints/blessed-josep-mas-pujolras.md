@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Más Pujolrás"
 honorific: Blessed
-title: "Blessed Josep Más Pujolrás"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Josep Benet"

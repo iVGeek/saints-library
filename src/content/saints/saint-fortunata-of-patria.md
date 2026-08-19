@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunata of Patria"
 honorific: Saint
-title: "Saint Fortunata of Patria"
 summary: "Martyr."
 region: "Italy"
 feastDay:

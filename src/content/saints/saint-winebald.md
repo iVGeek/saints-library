@@ -1,7 +1,6 @@
 ---
 name: "Saint Winebald"
 honorific: Saint
-title: "Saint Winebald"
 summary: "Monk and then abbot at Saint-Loup-de-Troyes, France."
 searchAliases:
   - "Vinebaud"

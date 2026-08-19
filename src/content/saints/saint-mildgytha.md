@@ -1,7 +1,6 @@
 ---
 name: "Saint Mildgytha"
 honorific: Saint
-title: "Saint Mildgytha"
 summary: "Born a princess, the daughter of Merewalh, King of Mercia, and Saint Ebbe in Thanet. Sister of Saint Milburga and Saint Mildred of Thanet. Benedictine nun, receiving the veil from her mother at Minster on the Isle of Thanet. Abbess of a Northumbrian convent."
 searchAliases:
   - "Mildgita"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modestinus of Jesus and Mary"
 honorific: Blessed
-title: "Blessed Modestinus of Jesus and Mary"
 summary: "Born to a poor, working-class family; his father prepared hemp for use in rope making, and his mother worked as a weaver. An active and enthusiastic altar boy, Dominic early felt a call to religious life and began studying at the seminary in Aversa, Italy at age 18. He joined the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Modestinus-of-Jesus-and-Mary.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Burke"
 honorific: Blessed
-title: "Blessed John Burke"
 summary: "Layman in the diocese of Limerick, Ireland. One of the Irish Martyrs."
 deathYear: 1606
 born: "Irish"

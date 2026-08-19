@@ -1,7 +1,6 @@
 ---
 name: "Saint Primael of Quimper"
 honorific: Saint
-title: "Saint Primael of Quimper"
 summary: "Hermit near Quimper, France."
 born: "British Isles"
 region: "France"

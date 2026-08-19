@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francesca Paola Prestigiacomo"
 honorific: Venerable
-title: "Venerable Francesca Paola Prestigiacomo"
 summary: "Founded the Institute of the Sisters of the Sacred Heart of Jesus of the Incarnate Word."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francesca-Paola-Prestigiacomo.jpg"
 searchAliases:

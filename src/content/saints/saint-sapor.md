@@ -1,7 +1,6 @@
 ---
 name: "Saint Sapor"
 honorific: Saint
-title: "Saint Sapor"
 summary: "Bishop of Beth-Nictor, he was known for the number of converts he brought to the faith. Denounced for interfering with the Persian star worship, and suspected of treasonous collaboration with Roman authorities, he was arrested in 339. Tried before King Shapur II, they were given"
 searchAliases:
   - "Shapur"

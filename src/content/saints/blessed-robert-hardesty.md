@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Hardesty"
 honorific: Blessed
-title: "Blessed Robert Hardesty"
 summary: "Layman, martyred for the crime of hiding and supporting the work of Blessed William Spenser."
 deathYear: 1589
 born: "Yorkshire, England"

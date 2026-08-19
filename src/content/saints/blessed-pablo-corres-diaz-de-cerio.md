@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pablo Corres Díaz de Cerio"
 honorific: Blessed
-title: "Blessed Pablo Corres Díaz de Cerio"
 summary: "Joined the Hospitallers of Saint John of God, making his solemn vows on 15 September 1916. Ordained on 15 April 1922. Served as novice master. Arrested in the persecutions of the Spanish Civil War, he spent his final hours celebrating Mass and hearing the confessions of his fello"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pablo-Corres-Diaz-de-Cerio.jpg"
 searchAliases:

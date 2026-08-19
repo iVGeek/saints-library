@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Vega Ponce"
 honorific: Blessed
-title: "Blessed Santiago Vega Ponce"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pedro"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioannes Yi Mun-u"
 honorific: Venerable
-title: "Saint Ioannes Yi Mun-u"
 summary: "Married layman in the apostolic vicariate of Korea. Ministered to the poor and gave Christian burial to martyrs. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

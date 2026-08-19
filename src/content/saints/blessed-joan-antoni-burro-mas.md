@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Antoni Burró Mas"
 honorific: Blessed
-title: "Blessed Joan Antoni Burró Mas"
 summary: "Brother in the Hospitallers of Saint John of God, joining at age 14. After training he was a member of the community in Ciempozuelos, Madrid, Spain, and served in the nearby military hospital. Martyred in the Spanish Civil War by Marxist militiamen."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Antoni-Burró-Mas.jpg"
 birthYear: 1914

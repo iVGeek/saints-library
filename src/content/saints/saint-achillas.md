@@ -1,7 +1,6 @@
 ---
 name: "Saint Achillas"
 honorific: Saint
-title: "Saint Achillas"
 summary: "Bishop of Alexandria, Egypt. Ordained Arius, the founder of the Arian heresy. Attacked by Meletianists for his orthodox Christianity."
 deathYear: 313
 died: "313 of natural causes"

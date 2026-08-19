@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Pérez y Pérez"
 honorific: Blessed
-title: "Blessed Francisco Pérez y Pérez"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Francisco María"

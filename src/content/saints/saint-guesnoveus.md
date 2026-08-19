@@ -1,7 +1,6 @@
 ---
 name: "Saint Guesnoveus of Quimper"
 honorific: Saint
-title: "Saint Guesnoveus of Quimper"
 summary: "Bishop of Quimper, Brittany. Founder of a monastery near Brest, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guesnoveus-of-Quimper.jpg"
 searchAliases:

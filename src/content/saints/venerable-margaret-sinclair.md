@@ -1,7 +1,6 @@
 ---
 name: "Venerable Margaret Sinclair"
 honorific: Venerable
-title: "Venerable Margaret Sinclair"
 summary: "Joined the Poor Clare Colettine Nuns in London, England in 1923."
 searchAliases:
   - "Sister Mary Frances of the Five Wounds"

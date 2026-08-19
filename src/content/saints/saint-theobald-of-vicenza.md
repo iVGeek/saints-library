@@ -1,7 +1,6 @@
 ---
 name: "Saint Theobald of Vicenza"
 honorific: Saint
-title: "Saint Theobald of Vicenza"
 summary: "Born to the Italian nobility, in the family of the counts of Campania. Hermit. Known for his personal holiness and as a miracle worker."
 died: "Vicenza, Italy"
 deathPlace: "Italy"

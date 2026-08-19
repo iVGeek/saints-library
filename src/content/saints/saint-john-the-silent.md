@@ -1,7 +1,6 @@
 ---
 name: "Saint John the Silent"
 honorific: Saint
-title: "Saint John the Silent"
 summary: "Son of Enkratios, a military commander, and Euphemia; his brother and other family members were advisors to emperors. John received an excellent secular and religious education. His parents died in 471, and at age 18 John used his inheritance to build the Church of the Most Holy"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/John_the_Silent_of_St._Sabbas%27_Monastery_%28Menologion_of_Basil_II%29.jpg/960px-John_the_Silent_of_St._Sabbas%27_Monastery_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:

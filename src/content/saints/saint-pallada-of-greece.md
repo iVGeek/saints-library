@@ -1,7 +1,6 @@
 ---
 name: "Saint Pallada of Greece"
 honorific: Saint
-title: "Saint Pallada of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

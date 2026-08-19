@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Muller"
 honorific: Blessed
-title: "Blessed Antonio Muller"
 summary: "Mercedarian friar. Scripture scholar. Professor of Eastern languages."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Muller.jpg"
 region: "Italy"

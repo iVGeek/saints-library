@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyneburga of Gloucester"
 honorific: Saint
-title: "Saint Cyneburga of Gloucester"
 summary: "A princess who wished to devote herself to God; to avoid an arranged marriage she fled to Gloucester and worked as a maid for a baker. The baker's wife, jealous of the young woman, killed her and threw her body into a well. Her body was recovered and buried nearby. Miracles began"
 searchAliases:
   - "Cyniburg"

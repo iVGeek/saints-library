@@ -1,7 +1,6 @@
 ---
 name: "Saint Dorymedon the Senator"
 honorific: Saint
-title: "Saint Dorymedon the Senator"
 summary: "Christian Roman senator. Tortured and martyred in the persecutions of Emperor Probus."
 deathYear: 277
 died: "beheaded c.277 at Antioch (in modern Turkey)"

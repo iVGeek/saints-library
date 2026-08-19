@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary Magdalen of Pazzi"
 honorific: Saint
-title: "Saint Mary Magdalen of Pazzi"
 summary: "Catherine received a religious upbringing. She was initially sent to a convent at age 14, but was taken back home by her family who opposed her religious vocation and wanted her to marry well. They eventually gave in, and Catherine became a Carmelite of the Ancient Observance at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-of-Pazzi1.jpg"
 searchAliases:

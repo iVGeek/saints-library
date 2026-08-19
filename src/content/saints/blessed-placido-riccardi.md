@@ -1,7 +1,6 @@
 ---
 name: "Blessed Placido Riccardi"
 honorific: Blessed
-title: "Blessed Placido Riccardi"
 summary: "Spent a worldly youth in Umbria, Italy. He moved to Rome, Italy in 1865 to study philosophy under the Dominicans at the Angelicum College. The study led to a conversion experience, a pilgrimage to Loreto, and entry to the Cassinese Benedictine abbey of Saint-Paul-Outside-the-Wall"
 image: "http://catholicsaints.info/wp-content/uploads/Placido-Riccardi.jpg"
 searchAliases:

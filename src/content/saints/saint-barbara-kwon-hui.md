@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbara Kwon Hui"
 honorific: Venerable
-title: "Saint Barbara Kwon Hui"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Bareubara Gweon Heui"

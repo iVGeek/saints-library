@@ -1,7 +1,6 @@
 ---
 name: "Blessed Warmondus of Ivrea"
 honorific: Blessed
-title: "Blessed Warmondus of Ivrea"
 summary: "Bishop of Ivrea, Italy. Built the cathedral, encouraged monasticism and learning in his see, and fought to keep the Church free from secular authority."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Warmondus-of-Ivrea.jpg"
 searchAliases:

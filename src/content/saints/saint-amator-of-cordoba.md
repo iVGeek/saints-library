@@ -1,7 +1,6 @@
 ---
 name: "Saint Amator of Córdoba"
 honorific: Saint
-title: "Saint Amator of Córdoba"
 summary: "Ordained in Cordoba, Spain. Murdered by Saracens for publicly proclaiming his faith. Martyr."
 searchAliases:
   - "Amateur"

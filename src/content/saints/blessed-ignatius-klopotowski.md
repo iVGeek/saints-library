@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignatius Klopotowski"
 honorific: Blessed
-title: "Blessed Ignatius Klopotowski"
 summary: "Born to a pious and patriotic family. He entered the Lublin seminary in 1883, and was ordained on 5 July 1891. Parochial vicar of the Conversion of Saint Paul parish. Chaplain of Saint Vincent's hospital in 1892. Taught sacred scripture, catechetics, homiletics, moral theology an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignatius-Klopotowski.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio María Arriaga Anduiza"
 honorific: Blessed
-title: "Blessed Antonio María Arriaga Anduiza"
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

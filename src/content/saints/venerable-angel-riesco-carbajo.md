@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ángel Riesco Carbajo"
 honorific: Venerable
-title: "Venerable Ángel Riesco Carbajo"
 summary: "The oldest of three children, his family moved to Argentina when Ángel was eight years old, but returned to Spain four years later. Seminarian in Madrid and Santander. Ordained a priest on 25 July 1926 in the diocese of Astorga, Spain. Founded a Catholic Action group in his paris"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Ángel-Riesco-Carbajo.jpg"
 birthYear: 1902

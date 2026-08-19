@@ -1,7 +1,6 @@
 ---
 name: "Blessed Torcuato Pérez López"
 honorific: Blessed
-title: "Blessed Torcuato Pérez López"
 summary: "Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

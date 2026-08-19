@@ -1,7 +1,6 @@
 ---
 name: "Saint Cristanziano of Piceno"
 honorific: Saint
-title: "Saint Cristanziano of Piceno"
 summary: "First person in the area of Ascoli Piceno, Italy to convert and be baptized by Saint Emidius who gave him the name Cristanziano. Emidius saw to Cristanziano's education, and ordained him as a deacon; Cristanziano served as assistant to Saint Emidius until the bishop's martyrdom."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cristanziano.jpg"
 searchAliases:

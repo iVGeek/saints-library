@@ -1,7 +1,6 @@
 ---
 name: "Venerable Sílvia Cardoso Ferreiro da Silva"
 honorific: Venerable
-title: "Venerable Sílvia Cardoso Ferreiro da Silva"
 summary: "Oldest of four children of Umbelino Manuel Ferreira da Silva and Joaquina da Conceição Cardoso Emilia. Following the death of her fiance, Silvia devoted herself to the care of poor children. Founded homes for the abandoned, organized retreats for laity, and set an example of the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Sílvia-Cardoso-Ferreiro-da-Silva.jpg"
 birthYear: 1882

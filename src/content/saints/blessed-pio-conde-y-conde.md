@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pío Conde y Conde"
 honorific: Blessed
-title: "Blessed Pío Conde y Conde"
 summary: "Baptized at the age of one day. Member of the Salesians of Don Bosco, beginning his novitiate in Sarrià-Barcelona, Spain, and making his profession on 3 February 1906. Priest. Worked in colleges in the Spanish cities of Sarrià, Madrid, Valencia, Béjar, Salamanca and Santander. Ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pío-Conde-y-Conde.jpg"
 birthYear: 1887

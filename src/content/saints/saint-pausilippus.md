@@ -1,7 +1,6 @@
 ---
 name: "Saint Pausilippus"
 honorific: Saint
-title: "Saint Pausilippus"
 summary: "Martyred in the persecutions of Emperor Hadrian."
 deathYear: 130
 died: "martyred c.130"

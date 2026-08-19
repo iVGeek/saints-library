@@ -1,7 +1,6 @@
 ---
 name: "Saint Margaret of Cortona"
 honorific: Saint
-title: "Saint Margaret of Cortona"
 summary: "Farmer's daughter. Her mother died when Margaret was seven years old, and her step-mother considered the girl a nuisance. Margaret eloped with a young nobleman from Montepulciano, bore him a son, and lived as his mistress for nine years. In 1274 he was murdered by brigands, and h"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Calvi_J._A._Estasi_di_santa_Margherita.jpg"
 birthYear: 1247

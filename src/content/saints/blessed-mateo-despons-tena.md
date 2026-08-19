@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mateo Despóns Tena"
 honorific: Blessed
-title: "Blessed Mateo Despóns Tena"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Bacchus the Younger"
 honorific: Saint
-title: "Saint Bacchus the Younger"
 summary: "Raised in a Christian family in the area of Jerusalem, Dahhat saw family members giving up the faith to become Muslim. Dahhat retired to the Saint Saba monastery near Bethlehem, taking the name Bacchus. Returning to Jerusalem, he helped some of his brothers return to Christianity"
 searchAliases:
   - "Bacchus of Jerusalem"

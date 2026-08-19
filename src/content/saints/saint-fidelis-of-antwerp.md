@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidelis of Antwerp"
 honorific: Saint
-title: "Saint Fidelis of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

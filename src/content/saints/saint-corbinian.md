@@ -1,7 +1,6 @@
 ---
 name: "Saint Corbinian"
 honorific: Saint
-title: "Saint Corbinian"
 summary: "Son of Waldegiso, who may have died when Corbinian was an infant. Nothing else is known of his youth. Hermit for fourteen years in a cell near the church of Saint-Germain in Ch&acirc;tres, France. His reputation for holiness, as a miracle worker, and as a spiritual director soon"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Corbinian_polack.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Ran Goñi"
 honorific: Blessed
-title: "Blessed Nicolás Ran Goñi"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ismael"

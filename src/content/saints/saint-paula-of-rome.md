@@ -1,7 +1,6 @@
 ---
 name: "Saint Paula of Rome"
 honorific: Saint
-title: "Saint Paula of Rome"
 summary: "Member of the Imperial Roman nobility, married to senator Toxotius. Mother of five children including Saint Eustochium and Saint Blaesilla. Widowed at age 32 in 379, she devoted her fortune and the rest of her life to spiritual development and care for the poor. Friend of Saint M"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Juan_de_Valdes_Leal_-_Santa_Paula_de_Roma.jpg"
 searchAliases:

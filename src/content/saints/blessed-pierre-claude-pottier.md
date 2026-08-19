@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Claude Pottier"
 honorific: Blessed
-title: "Blessed Pierre-Claude Pottier"
 summary: "Eudist priest. One of the Martyrs of September."
 birthYear: 1743
 deathYear: 1792

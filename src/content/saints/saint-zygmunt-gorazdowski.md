@@ -1,7 +1,6 @@
 ---
 name: "Saint Zygmunt Gorazdowski"
 honorific: Venerable
-title: "Saint Zygmunt Gorazdowski"
 summary: " Organized The Affordable P Roman Catholic in an area predominantly Greek Catholic. Suffered with respiratory problems all his life. Studied law for two years, but quit to enter the seminary at Lviv, Ukraine. Ordained in 1871. Senior priest of the parish of Saint Nicholas in Lviv."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zygmunt_Gorazdowski_%281845-1920%29.jpg"
 searchAliases:

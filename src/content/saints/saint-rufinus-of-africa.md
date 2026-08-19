@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus of Africa"
 honorific: Saint
-title: "Saint Rufinus of Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

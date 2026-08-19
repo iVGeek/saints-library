@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitivus of Tivoli"
 honorific: Saint
-title: "Saint Primitivus of Tivoli"
 summary: "Imperial Roman guard. Sent by Emperor Hadrian with Caerealis to arrest the brother converts Saint Getulius and Saint Amantius. Instead, the brothers converted the guards. Hadrian ordered the judge Licinius to condemn the whole group to death. They were offered a reprieve if they"
 deathYear: 120
 died: "clubbed to death c.120 at Tivoli, Italy"

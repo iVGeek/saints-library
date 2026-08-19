@@ -1,7 +1,6 @@
 ---
 name: "Saint Sindimius of Nicomedia"
 honorific: Saint
-title: "Saint Sindimius of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Nicomedia, Asia Minor"

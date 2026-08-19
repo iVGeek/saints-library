@@ -1,7 +1,6 @@
 ---
 name: "Saint Robert Lawrence"
 honorific: Saint
-title: "Saint Robert Lawrence"
 summary: "Carthusian monk and priest. Prior of the Carthusian charterhouse of Beauvale in Nottingham, England. Martyred with several brother Carthusians. One of the Forty Martyrs of England and Wales."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Robert-Lawrence.jpg"
 searchAliases:

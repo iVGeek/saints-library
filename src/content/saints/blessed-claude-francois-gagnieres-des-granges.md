@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claude-François Gagnières des Granges"
 honorific: Blessed
-title: "Blessed Claude-François Gagnières des Granges"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1722
 deathYear: 1792

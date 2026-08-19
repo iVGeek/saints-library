@@ -1,7 +1,6 @@
 ---
 name: "Saint Evodius of Camerino"
 honorific: Saint
-title: "Saint Evodius of Camerino"
 summary: "Convert. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 searchAliases:

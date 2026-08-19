@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pau Bertrán Mercadé"
 honorific: Blessed
-title: "Blessed Pau Bertrán Mercadé"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

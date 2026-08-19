@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Vives"
 honorific: Blessed
-title: "Blessed Thomas Vives"
 summary: "Mercedarian sent to Tunisia to redeem Christian prisoners. There he was imprisoned for five years before being executed. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Tommaso-Vives.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Margaret of Fontana"
 honorific: Saint
-title: "Saint Margaret of Fontana"
 summary: "A pious youth who was orphaned when she was young. Dominican tertiary. Devoted to the sick and poor, spending whole nights praying over the sick in her care. Miraculous healings reported. Drove away demons by making the Sign of the Cross."
 searchAliases:
   - "Margherita Fontana"

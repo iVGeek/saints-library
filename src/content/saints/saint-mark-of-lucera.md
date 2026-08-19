@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Lucera"
 honorific: Saint
-title: "Saint Mark of Lucera"
 summary: "Fourth-century bishop in southern Italy."
 deathYear: 328
 died: "c.328 of natural causes"

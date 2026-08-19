@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedetta Bianchi Porro"
 honorific: Blessed
-title: "Blessed Benedetta Bianchi Porro"
 summary: "Daughter of Guido Bianchi Porro and Elsa Giammarchi, the second of six children. Afflicted with poliomyelitis at an early age, leaving her with a crippled left leg and a need to wear a brace to prevent her spine from deforming. A clever and happy child, she began keeping a diary"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Benedetta_Bianchi_Porro.png"
 searchAliases:

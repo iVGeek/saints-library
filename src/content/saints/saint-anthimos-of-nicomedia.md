@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthimos of Nicomedia"
 honorific: Saint
-title: "Saint Anthimos of Nicomedia"
 summary: "Bishop of Nicomedia. Martyred in the persecutions of Diocletian for refusing to sacrfice to idols."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthimos-of-Nicomedia1.jpg"
 searchAliases:

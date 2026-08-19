@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupus of Caesarea"
 honorific: Saint
-title: "Saint Lupus of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Lupulo"

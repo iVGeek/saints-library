@@ -1,7 +1,6 @@
 ---
 name: "Venerable Albertina Violi Zirondoli"
 honorific: Venerable
-title: "Venerable Albertina Violi Zirondoli"
 summary: "Born to a pious middle class family, Albertina earned a master's degree from a teacher's college in Modena, Italy in 1918 when she was only 17. On 31 May 1924, she married Livio Zirondoli whose family was firm in their socialist and materialist ideologies; the couple's son, Alfre"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Albertina-Violi-Zirandoli.jpg"
 birthYear: 1901

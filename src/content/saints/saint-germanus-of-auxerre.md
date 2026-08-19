@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Auxerre"
 honorific: Saint
-title: "Saint Germanus of Auxerre"
 summary: "Born to a noble Gallic family, the son of Rusticus and Germanilla. Studied general topics in Arles and Lyon in France, and rhetoric and civil law in Rome, Italy. Successful lawyer for several years. Married to Eustachia, a member of the nobility with close ties to the emperor. Im"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/StGermanus.png"
 searchAliases:

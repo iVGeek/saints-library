@@ -1,7 +1,6 @@
 ---
 name: "Blessed Esteban García Suárez"
 honorific: Blessed
-title: "Blessed Esteban García Suárez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

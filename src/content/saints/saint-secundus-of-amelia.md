@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundus of Amelia"
 honorific: Saint
-title: "Saint Secundus of Amelia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "drowned in 304 in the River Tiber at Amelia, Italy"

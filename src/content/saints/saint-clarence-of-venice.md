@@ -1,7 +1,6 @@
 ---
 name: "Saint Clarence of Venice"
 honorific: Saint
-title: "Saint Clarence of Venice"
 summary: "Bishop of Venice, Italy."
 region: "Italy"
 feastDay:

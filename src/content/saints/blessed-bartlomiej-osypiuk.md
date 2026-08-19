@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartlomiej Osypiuk"
 honorific: Blessed
-title: "Blessed Bartlomiej Osypiuk"
 summary: "Married layman from Bohukaly, Poland. Father of two. One of the Marytrs of Podlasie. He was wounded at the scene, transported home where he prayed for his killers before dying."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1843

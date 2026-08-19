@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Sicily"
 honorific: Saint
-title: "Saint Eusebius of Sicily"
 summary: "Exile."
 deathYear: 310
 born: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable José María García Lahiguera"
 honorific: Venerable
-title: "Venerable José María García Lahiguera"
 summary: "Ordained a priest in the archdiocese of Madrid, Spain on 29 May 1926. Doctor of canon law in 1928. He taught, served as spiritual director at the seminary in Madrid, and helped found Catholic Action groups in the city. On 25 April 1938, during the persecutions of the Spanish Civi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-José-María-García-Lahiguera.jpg"
 birthYear: 1903

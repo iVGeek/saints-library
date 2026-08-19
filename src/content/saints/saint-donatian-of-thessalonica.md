@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatian of Thessalonica"
 honorific: Saint
-title: "Saint Donatian of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

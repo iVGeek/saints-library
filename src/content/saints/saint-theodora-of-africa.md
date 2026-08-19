@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodora of Africa"
 honorific: Saint
-title: "Saint Theodora of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

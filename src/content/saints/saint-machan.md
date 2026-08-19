@@ -1,7 +1,6 @@
 ---
 name: "Saint Machan"
 honorific: Saint
-title: "Saint Machan"
 summary: "A spiritual student of Saint Cadoc of Llancarvan, Machan was educated in Ireland where he was ordained a priest. He made a pilgrimage to Rome, Italy where he was consecrated a bishop. Missionary to pagans in the area of Campsie Glen near Glasgow, Scotland. Known as a miracle work"
 searchAliases:
   - "Mahon"

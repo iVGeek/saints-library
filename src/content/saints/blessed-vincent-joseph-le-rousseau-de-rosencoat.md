@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vincent-Joseph le Rousseau de Rosencoat"
 honorific: Blessed
-title: "Blessed Vincent-Joseph le Rousseau de Rosencoat"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1726
 deathYear: 1792

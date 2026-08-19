@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mateo López y López"
 honorific: Blessed
-title: "Blessed Mateo López y López"
 summary: "Priest in the diocese of Almeria, Spain. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1938

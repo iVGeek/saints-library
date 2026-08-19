@@ -1,7 +1,6 @@
 ---
 name: "Saint Carilephus"
 honorific: Saint
-title: "Saint Carilephus"
 summary: "Monk. Friend of Saint Avitus. Founded a monastery in the region of western France then known as Le Maine, and served as its abbot."
 searchAliases:
   - "Carileff"

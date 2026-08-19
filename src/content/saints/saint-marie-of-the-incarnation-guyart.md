@@ -1,7 +1,6 @@
 ---
 name: "Saint Marie of the Incarnation Guyart"
 honorific: Venerable
-title: "Saint Marie of the Incarnation Guyart"
 summary: "Daughter of a baker, she was raised in a family of craftsmen and tradesmen, and was related on her mother's side to the noble Barbon de la Bourdaisière family. A pious and sometimes mystical child, she would memorize and recite homilies, and early wanted to become a nun. Against"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation-Guyart.jpg"
 searchAliases:

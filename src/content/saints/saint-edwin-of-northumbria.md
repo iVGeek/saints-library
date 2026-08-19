@@ -1,7 +1,6 @@
 ---
 name: "Saint Edwin of Northumbria"
 honorific: Saint
-title: "Saint Edwin of Northumbria"
 summary: "A prince, born a pagan, the son of King Ella of Northumbria. King of Northumbria from 616 to 633. Married to Saint Ethelburga of Kent. Adult convert to Christianity, baptized in 627 by Saint Paulinus of York; first Christian King of Northumbria. Father of Saint Eanfleda of Whitby"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Saint_King_Edwin_of_Northumbria.jpg/960px-Saint_King_Edwin_of_Northumbria.jpg"
 searchAliases:

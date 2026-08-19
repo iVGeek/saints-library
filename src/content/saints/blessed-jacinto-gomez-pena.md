@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacinto Gómez Peña"
 honorific: Blessed
-title: "Blessed Jacinto Gómez Peña"
 summary: "Raised in a pious family; his brother and an uncle were both members of the Piarists. Jacinto joined the Congregation of San Pedro ad Vincula in 1910, making his initial vows in 1912 and his final profession in January 1922; it took so long because he did military service in the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Gómez-Peña.jpg"
 searchAliases:

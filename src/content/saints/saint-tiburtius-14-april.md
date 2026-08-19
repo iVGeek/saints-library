@@ -1,7 +1,6 @@
 ---
 name: "Saint Tiburtius of Rome"
 honorific: Saint
-title: "Saint Tiburtius of Rome"
 summary: "Brother of Saint Valerian. Convert to Christianity. Ministered to Christians imprisoned for their faith. Arrested and tortured for their ministry. Offered his freedom if he would sacrifice to pagan idols; he declined. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Valerian-of-Trastevere.jpg"
 died: "beaten to death  in 3rd century Rome, Italy"

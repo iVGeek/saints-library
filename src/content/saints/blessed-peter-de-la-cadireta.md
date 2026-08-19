@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter de la Cadireta"
 honorific: Blessed
-title: "Blessed Peter de la Cadireta"
 summary: "Dominican. Companion of Saint Raymond of Pe&ntilde;afort in Barcelona, Spain. Travelling preacher who worked against the Albigensians. Inquisitor for Spain from 1258 until his death. Prior of the Dominican convent in Urgell. Martyred for his faith and work."
 deathYear: 1277
 born: "Moya, Catalonia, Spain"

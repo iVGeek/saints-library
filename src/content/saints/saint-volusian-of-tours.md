@@ -1,7 +1,6 @@
 ---
 name: "Saint Volusian of Tours"
 honorific: Saint
-title: "Saint Volusian of Tours"
 summary: "As a layman, he suffered through years of a terrible marriage. Imperial Roman senator at Tours, France. Bishop of Tours in 488. Exiled to Spain in 496 by Arian Visigoths. May have been martyred, but records are unclear."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Chapiteau_-_Saint_Volusien_06.jpg/960px-Chapiteau_-_Saint_Volusien_06.jpg"
 searchAliases:

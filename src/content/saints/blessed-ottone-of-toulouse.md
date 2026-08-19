@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ottone of Toulouse"
 honorific: Blessed
-title: "Blessed Ottone of Toulouse"
 summary: "Born to the French nobilty; brother of a viscount of Narborne; uncle of the queen of Navarre. Joined the Mercedarians. Sent to Constantinople to ransom two imprisoned Mercedarian brothers, Ottone was immediately imprisoned himself. When sultan Bajazet II learned that Ottone was a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ottone-da-Tolosa.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Adrio of Alexandria"
 honorific: Saint
-title: "Saint Adrio of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Adrione"

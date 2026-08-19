@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roger Dickenson"
 honorific: Blessed
-title: "Blessed Roger Dickenson"
 summary: "Priest. Imprisoned, tortured and martyred with Blessed Ralph Milner in the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Roger Dickinson"

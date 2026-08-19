@@ -1,7 +1,6 @@
 ---
 name: "Saint Emeterius of Calahorra"
 honorific: Saint
-title: "Saint Emeterius of Calahorra"
 summary: "Soldier in Imperial Roman army in Spain. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emeterius-of-Calahorra.jpg"
 searchAliases:

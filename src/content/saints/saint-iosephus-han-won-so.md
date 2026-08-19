@@ -1,7 +1,6 @@
 ---
 name: "Saint Iosephus Han Won-So"
 honorific: Venerable
-title: "Saint Iosephus Han Won-So"
 summary: "Layman catechist in the apostolic vicariate of Korea."
 searchAliases:
   - "Yosep Han Weon-Seo"

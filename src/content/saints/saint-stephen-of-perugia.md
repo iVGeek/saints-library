@@ -1,7 +1,6 @@
 ---
 name: "Saint Stephen of Perugia"
 honorific: Saint
-title: "Saint Stephen of Perugia"
 summary: "Abbot of Saint Peter's Abbey in Perugia, Italy."
 deathYear: 1026
 died: "1026"

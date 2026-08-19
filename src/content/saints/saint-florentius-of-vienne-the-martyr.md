@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Vienne the Martyr"
 honorific: Saint
-title: "Saint Florentius of Vienne the Martyr"
 summary: "Third century bishop of Vienne, France. Exiled from Vienne by Emperor Gallienus. Martyred while in exile."
 deathYear: 275
 died: "c.275"

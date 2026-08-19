@@ -1,7 +1,6 @@
 ---
 name: "Blessed Reginbold of Muri"
 honorific: Blessed
-title: "Blessed Reginbold of Muri"
 summary: "Benedictine monk at the monastery of Einsiedeln, Switzerland. Leader of the brothers sent to establish the abbey in Muri, Aargau, Switzerland in 1032; he served as provost for the remaining 23 years of his life. Reginbold worked tirelessly to establish the financial stability of"
 deathYear: 1055
 born: "Solothurn, Switzerland"

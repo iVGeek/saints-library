@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agnellus of Pisa"
 honorific: Blessed
-title: "Blessed Agnellus of Pisa"
 summary: "Born to the Italian nobility. Received into the Franciscans by Saint Francis himself. Deacon. Custos of Saint-Denis, the first Franciscan friary in Paris, France. Worked with the University of Paris. Appointed by Saint Francis to introduce the Franciscans into England in 1224. Wi"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Agnellus_of_Pisa_NPG.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentine of Chieri"
 honorific: Saint
-title: "Saint Valentine of Chieri"
 summary: "Martyr."
 died: "date and location of death unknown"
 region: "Italy"

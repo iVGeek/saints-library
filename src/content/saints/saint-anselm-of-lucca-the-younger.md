@@ -1,7 +1,6 @@
 ---
 name: "Saint Anselm of Lucca the Younger"
 honorific: Saint
-title: "Saint Anselm of Lucca the Younger"
 summary: "Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm initially refused to accept the regalia of his office from Emperor Henry IV, but later gave in and accepted. He retired to lived as a Benedictine monk in a Cluniac mona"
 image: "http://catholicsaints.info/wp-content/uploads/Anslem-the-Young-of-Lucca.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abidianus of Africa"
 honorific: Saint
-title: "Saint Abidianus of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

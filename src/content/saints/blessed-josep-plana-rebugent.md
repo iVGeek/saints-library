@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Plana Rebugent"
 honorific: Blessed
-title: "Blessed Josep Plana Rebugent"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Emeri Josep"

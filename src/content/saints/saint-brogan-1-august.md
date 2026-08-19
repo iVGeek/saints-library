@@ -1,7 +1,6 @@
 ---
 name: "Saint Brogan"
 honorific: Saint
-title: "Saint Brogan"
 summary: "Mentioned in the Gorman Martyrology. No other information has survived."
 feastDay:
   month: 8

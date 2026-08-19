@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ismael Perdomo Borrero"
 honorific: Venerable
-title: "Venerable Ismael Perdomo Borrero"
 summary: "Ismael studied at the seminary in Bogotá, Colombia, and the Latin American Pontifical College in Rome, Italy where he was ordained a priest for the diocese of Garzón, Colombia on 19 December 1896. He earned a degree in theology at the Gregorian University, studied in Paris, Franc"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/ISMAEL_PERDOMO_BORRERO.jpg"
 searchAliases:

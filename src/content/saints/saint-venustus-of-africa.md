@@ -1,7 +1,6 @@
 ---
 name: "Saint Venustus of Africa"
 honorific: Saint
-title: "Saint Venustus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

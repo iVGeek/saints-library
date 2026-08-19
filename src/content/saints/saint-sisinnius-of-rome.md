@@ -1,7 +1,6 @@
 ---
 name: "Saint Sisinnius of Rome"
 honorific: Saint
-title: "Saint Sisinnius of Rome"
 summary: "Deacon in Rome. With his priest Saint Saturninus, he was sentenced to hard labor for his faith. Martyr."
 searchAliases:
   - "Sysinnius"

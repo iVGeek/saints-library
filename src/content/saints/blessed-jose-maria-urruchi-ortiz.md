@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Urruchi Ortiz"
 honorific: Blessed
-title: "Blessed José María Urruchi Ortiz"
 summary: "Member of the Redemptorists, joining on 24 August 1927 and making his solemn profession on 15 September 1930. Ordained a priest on 20 October 1932. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Maria-Urruchi-Ortiz.jpg"
 birthYear: 1909

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Juan Vicente of Jesus and Mary"
 honorific: Venerable
-title: "Venerable Juan Vicente of Jesus and Mary"
 summary: "Discalced Carmelite priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-Vicente-of-Jesus-and-Mary.jpg"
 searchAliases:

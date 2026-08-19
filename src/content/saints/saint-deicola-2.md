@@ -1,7 +1,6 @@
 ---
 name: "Saint Deicola"
 honorific: Saint
-title: "Saint Deicola"
 summary: "Seventh-century evangelist in the Norfolk and Sussex regions of England. Founded the abbey at Bosham in Sussex, and spent time as a monk at Saint Fursey's Abbey in Burgcastle, East Anglia."
 searchAliases:
   - "Dicul"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Daria of Venafro"
 honorific: Saint
-title: "Saint Daria of Venafro"
 summary: "Married to Saint Nicander of Venafro. Convert to Christianity. Martyred in the persecutions of Maximian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg"
 deathYear: 303

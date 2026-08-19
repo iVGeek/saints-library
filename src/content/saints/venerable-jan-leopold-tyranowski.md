@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jan Leopold Tyranowski"
 honorific: Venerable
-title: "Venerable Jan Leopold Tyranowski"
 summary: "Layman of the archdiocese of Kraków, Poland."
 birthYear: 1901
 deathYear: 1947

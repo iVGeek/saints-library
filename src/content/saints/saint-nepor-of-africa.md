@@ -1,7 +1,6 @@
 ---
 name: "Saint Nepor of Africa"
 honorific: Saint
-title: "Saint Nepor of Africa"
 summary: "Martyred in Africa, date unknown."
 searchAliases:
   - "Nepos"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Marguerite de Barbégie d’Albrède"
 honorific: Blessed
-title: "Blessed Marie-Marguerite de Barbégie d’Albrède"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

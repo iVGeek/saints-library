@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertula of Cirta"
 honorific: Saint
-title: "Saint Tertula of Cirta"
 summary: "Martyr. No other information has survived."
 deathYear: 259
 born: "Spain"

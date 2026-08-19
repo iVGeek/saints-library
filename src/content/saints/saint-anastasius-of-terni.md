@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius of Terni"
 honorific: Saint
-title: "Saint Anastasius of Terni"
 summary: "Hermit near Perugia, Italy. Bishop of Terni, Italy. Helped keep his flock from following the Arian heresy. Following the destructive invasion of his area by Totila, Anastasius led rescue and rebuilding efforts of homes and churches."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-of-Terni.jpg"
 deathYear: 553

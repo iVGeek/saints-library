@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Gutiérrez Ceballos"
 honorific: Blessed
-title: "Blessed Manuel Gutiérrez Ceballos"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

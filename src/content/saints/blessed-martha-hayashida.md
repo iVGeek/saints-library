@@ -1,7 +1,6 @@
 ---
 name: "Blessed Martha Hayashida"
 honorific: Blessed
-title: "Blessed Martha Hayashida"
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Leo Hayashida Sukeemon; mother of Blessed Magdalena Hayashida and Blessed Didacus Hayashida. One of the Martyrs of Arima."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg"
 deathYear: 1613

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Cravagliana"
 honorific: Saint
-title: "Saint Maximus of Cravagliana"
 summary: "Martyr."
 searchAliases:
   - "Massimo"

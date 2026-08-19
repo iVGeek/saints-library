@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul Ibaraki"
 honorific: Saint
-title: "Saint Paul Ibaraki"
 summary: "Member of a noble samuri family. Brother of Saint Leo Karasumaru. Ran a small sake brewery to support his family. Convert, brought to the faith by Jesuit missionaries. Franciscan lay tertiary. Worked with the missionaries in Kyoto as an interpreter, catechist and lay preacher nea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:

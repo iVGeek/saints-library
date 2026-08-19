@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnulf of Gruyere"
 honorific: Saint
-title: "Saint Arnulf of Gruyere"
 summary: "A pious youth. As soon as he was old enough, Arnulf left home to make an endless pilgrimage to shrines and relics throughout France. While on the road, he was beset by thieves who were certain he was hiding money; he wasn't. They beat him to the point that he lived long enough to"
 searchAliases:
   - "Arnulfus"

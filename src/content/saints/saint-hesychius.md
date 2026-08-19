@@ -1,7 +1,6 @@
 ---
 name: "Saint Hesychius"
 honorific: Saint
-title: "Saint Hesychius"
 summary: "Fled to Macedonia to escape the persecutions in Italy, but martyred en route."
 deathYear: 117
 born: "Italian"

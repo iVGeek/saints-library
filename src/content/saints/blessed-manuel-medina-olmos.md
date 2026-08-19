@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Medina Olmos"
 honorific: Blessed
-title: "Blessed Manuel Medina Olmos"
 summary: "Son of Juan Medina Garzón and Pilar Olmos Núñez. A prodigy, he graduated at age 13, earned a doctorate in theology at 17, and before age 22 he had doctorates in canon law, philosophy and literature. Priest, ordained on 19 December 1891. Parish priest and prefect of seminarians in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Medina-Olmos.jpg"
 searchAliases:

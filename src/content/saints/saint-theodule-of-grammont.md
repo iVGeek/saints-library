@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodule of Grammont"
 honorific: Saint
-title: "Saint Theodule of Grammont"
 summary: "A missionary priest from east of the region, Theodulus became the first known bishop of Sion (Sitten), Switzerland, consecrated in the 340's, and serving over 40 years. He attended the Council of Aquileia in 381, and was signatory of the documents of the Synod of Milan in 390 tha"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodulus-of-Grammont.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Barontius of Pistoia"
 honorific: Saint
-title: "Saint Barontius of Pistoia"
 summary: "Member of the French nobility and a courtier to King Theirry II. Married and a father. Retired to become a monk at Lonrey, France. After receiving a vision, he moved to become a hermit near Pistoia, Italy. Friend of Saint Desiderius of Pistoia."
 searchAliases:
   - "Barontus"

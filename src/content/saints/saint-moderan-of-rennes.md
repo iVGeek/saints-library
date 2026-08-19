@@ -1,7 +1,6 @@
 ---
 name: "Saint Moderan of Rennes"
 honorific: Saint
-title: "Saint Moderan of Rennes"
 summary: "Benedictine, monk. Bishop of Rennes, France in 703. Pilgrim to Rome, Italy in 720. In his later years he resigned his see to become a hermit monk at the abbey of Berceto, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Moderan-of-Rennes.jpg"
 searchAliases:

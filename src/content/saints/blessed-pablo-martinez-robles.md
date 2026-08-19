@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pablo Martínez Robles"
 honorific: Blessed
-title: "Blessed Pablo Martínez Robles"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Bernardino María of Andújar"

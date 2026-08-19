@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Africa"
 honorific: Saint
-title: "Saint Donatus of Africa"
 summary: "Martyr."
 died: "unknown location in Afria, date unknown"
 deathPlace: "date unknown"

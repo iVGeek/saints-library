@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingo Sánchez Lázaro"
 honorific: Blessed
-title: "Blessed Domingo Sánchez Lázaro"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

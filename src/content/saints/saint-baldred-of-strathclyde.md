@@ -1,7 +1,6 @@
 ---
 name: "Saint Baldred of Strathclyde"
 honorific: Saint
-title: "Saint Baldred of Strathclyde"
 summary: "Bishop of Strathclyde, Scotland; successor to Saint Kentigern. Founded monasteries, convents, and churches. Due to the civil disruptions of the day, late in life Baldred retired from his see and lived out his last days as a prayerful hermit on the coast of the Frith of Forth."
 searchAliases:
   - "Baldred of Glasgow"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Elizabeth of Portugal"
 honorific: Saint
-title: "Saint Elizabeth of Portugal"
 summary: "Princess. Daughter of King Pedro III of Aragon and Constantia; great-granddaughter of Emperor Frederick II. Great-niece of Saint Elizabeth of Hungary, for whom she was named. She had a pious upbringing with daily liturgy and praying of the hours, regular religious instruction and"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png/960px-Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png"
 searchAliases:

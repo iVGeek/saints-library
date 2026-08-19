@@ -1,7 +1,6 @@
 ---
 name: "Saint Deifer of Bodfari"
 honorific: Saint
-title: "Saint Deifer of Bodfari"
 summary: "Sixth century founder and abbot of Bodfari Abbey in Clwyd, Wales."
 region: "England"
 feastDay:

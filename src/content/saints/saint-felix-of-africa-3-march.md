@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Africa"
 honorific: Saint
-title: "Saint Felix of Africa"
 summary: "Martyr."
 died: "in Africa, date and location unknown"
 deathPlace: "date and location unknown"

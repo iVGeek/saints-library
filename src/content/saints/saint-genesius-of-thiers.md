@@ -1,7 +1,6 @@
 ---
 name: "Saint Genesius of Thiers"
 honorific: Saint
-title: "Saint Genesius of Thiers"
 summary: "Martyr."
 searchAliases:
   - "Genesius of Tigernum"

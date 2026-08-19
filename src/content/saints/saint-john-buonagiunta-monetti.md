@@ -1,7 +1,6 @@
 ---
 name: "Saint John Buonagiunta Monetti"
 honorific: Saint
-title: "Saint John Buonagiunta Monetti"
 summary: "One of the Seven Founders of Servants of Mary. The youngest of the Founders. Elected as the second prior-general of the Servites in 1256."
 image: "http://catholicsaints.info/wp-content/uploads/img-Seven-Foudners-of-the-Servites.jpg"
 searchAliases:

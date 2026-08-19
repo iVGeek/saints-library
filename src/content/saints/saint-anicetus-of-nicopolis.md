@@ -1,7 +1,6 @@
 ---
 name: "Saint Anicetus of Nicopolis"
 honorific: Saint
-title: "Saint Anicetus of Nicopolis"
 summary: "Tortured and martyred in the persecutions of emperor Licinius."
 searchAliases:
   - "Aniceto"

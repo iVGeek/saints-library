@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edmund Sykes"
 honorific: Blessed
-title: "Blessed Edmund Sykes"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Edmond"

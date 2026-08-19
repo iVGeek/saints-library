@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermogenes of Melitene"
 honorific: Saint
-title: "Saint Hermogenes of Melitene"
 summary: "Servant to a deacon, Saint Peter, with whom he was martyred."
 died: "Melitene, Armenia"
 deathPlace: "Armenia"

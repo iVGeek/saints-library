@@ -1,7 +1,6 @@
 ---
 name: "Blessed Helen of Hungary"
 honorific: Blessed
-title: "Blessed Helen of Hungary"
 summary: "Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given to ecstasies, and lilies of light grew from her hands during prayers."
 searchAliases:
   - "Ilona of Hungary"

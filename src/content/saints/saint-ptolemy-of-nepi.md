@@ -1,7 +1,6 @@
 ---
 name: "Saint Ptolemy of Nepi"
 honorific: Saint
-title: "Saint Ptolemy of Nepi"
 summary: "Tradition says he was a spiritual student of Saint Peter the Apostle. Bishop of Nepi, Italy. Spiritual teacher of Saint Romanus of Nepi. Martyr."
 died: "martyred in the 1st century in Nepi, Italy"
 deathPlace: "Italy"

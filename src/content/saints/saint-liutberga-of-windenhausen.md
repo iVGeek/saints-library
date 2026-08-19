@@ -1,7 +1,6 @@
 ---
 name: "Saint Liutberga of Windenhausen"
 honorific: Saint
-title: "Saint Liutberga of Windenhausen"
 summary: "Born to the nobility, related to Duke Hessi of Ostfalen. Noted by the nobles for her exceptional skill at managing the estates and houses of her family, and by the poor for her almsgiving and care for the sick and dying as she travelled from estate to estate. She spent her days m"
 searchAliases:
   - "Liutberga of Michaëlstein"

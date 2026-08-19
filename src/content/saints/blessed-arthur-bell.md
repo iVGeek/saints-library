@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arthur Bell"
 honorific: Blessed
-title: "Blessed Arthur Bell"
 summary: "Studied at Saint Omer and at the Royal College of Saint Alban, Valladolid, Spain. Ordained in Salamanca, Spain in 1618. Joined the Franciscans in 1618. Worked in Douai and Gravelines in France, and Brussels, Belgium. He returned to England to minister to covert Catholics in 1634."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arthur-Bell.jpg"
 searchAliases:

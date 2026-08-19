@@ -1,7 +1,6 @@
 ---
 name: "Saint Palatias"
 honorific: Saint
-title: "Saint Palatias"
 summary: "Lady of Ancona, Italy, Convert, brought to the faith by her slave, Saint Laurentia. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Palazia"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Tomi"
 honorific: Saint
-title: "Saint Zoticus of Tomi"
 summary: "Martyr."
 searchAliases:
   - "Zolicus"

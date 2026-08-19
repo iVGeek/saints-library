@@ -1,7 +1,6 @@
 ---
 name: "Blessed Panacea de'Muzzi of Quarona"
 honorific: Blessed
-title: "Blessed Panacea de'Muzzi of Quarona"
 summary: "Panacea's mother died when the girl was an infant. When she was old enough, Panacea worked as shepherdess. Her father re-married, but her step-mother, Margherita di Locarno Sesia, quickly developed a hatred of the girl, partly because she would not work as ordered, and partially"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Panacea-deMuzzi-of-Quarona.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Rome"
 honorific: Saint
-title: "Saint Marcian of Rome"
 summary: "Martyred with four companions, date unknown."
 died: "Rome, Italy"
 deathPlace: "Italy"

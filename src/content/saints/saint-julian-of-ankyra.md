@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Ankyra"
 honorific: Saint
-title: "Saint Julian of Ankyra"
 summary: "Priest. Martyed in the persecution of emperor Licinius."
 searchAliases:
   - "Julian of Galatia"

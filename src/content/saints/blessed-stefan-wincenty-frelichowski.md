@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stefan Wincenty Frelichowski"
 honorific: Blessed
-title: "Blessed Stefan Wincenty Frelichowski"
 summary: "After studying at the diocesan seminary in Pelpin, Poland Stefan was ordained on 13 March 1937. Known for his devotion to the Sacred Heart. Secretary to his bishop, and then curate of the church of Saint Mary in Torun, Poland where he was active in parish life and chaplain to the"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Stefan_Wincenty_Frelichowski1.jpg"
 birthYear: 1913

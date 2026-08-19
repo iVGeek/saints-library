@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florentín Pérez Romero"
 honorific: Blessed
-title: "Blessed Florentín Pérez Romero"
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

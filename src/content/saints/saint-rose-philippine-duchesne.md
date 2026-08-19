@@ -1,7 +1,6 @@
 ---
 name: "Saint Rose Philippine Duchesne"
 honorific: Venerable
-title: "Saint Rose Philippine Duchesne"
 summary: "Born to family with wealth and political connections; her father, Pierre Francois Duchesne, was a lawyer, businessman, and prominent civic leader in Grenoble, France, and her mother, Rose Perier, was a member of a leading family from the Dauphine region of France. From age eight"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/DuchesneRSCJ.jpg"
 searchAliases:

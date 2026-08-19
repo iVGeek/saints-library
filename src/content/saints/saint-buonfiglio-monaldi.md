@@ -1,7 +1,6 @@
 ---
 name: "Saint Buonfiglio Monaldi"
 honorific: Saint
-title: "Saint Buonfiglio Monaldi"
 summary: "One of the Seven Founders of the Servants of Mary. The eldest of the Founders. First superior of the Servites, serving until 1256."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Buonfiglio-Monaldi.jpg"
 searchAliases:

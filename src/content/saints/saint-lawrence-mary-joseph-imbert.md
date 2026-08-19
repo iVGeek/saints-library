@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawrence Mary Joseph Imbert"
 honorific: Venerable
-title: "Saint Lawrence Mary Joseph Imbert"
 summary: "Born to a poor farm family. Studied at the Foreign Mission Seminary at Paris, France in 1818. Ordained on 18 December 1819. Missionary to China, leaving in 1820. Taught at the College General, Penang from April 1821 to January 1822. Missionary for two year in Tonkin, Indochina (m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-Mary-Joseph-Imbert-1.jpg"
 searchAliases:

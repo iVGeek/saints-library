@@ -1,7 +1,6 @@
 ---
 name: "Saint Sulpitius of Ravenna"
 honorific: Saint
-title: "Saint Sulpitius of Ravenna"
 summary: "Bishop. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Hayashida Mohyoe"
 honorific: Blessed
-title: "Blessed Paulus Hayashida Mohyoe"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1592
 deathYear: 1627

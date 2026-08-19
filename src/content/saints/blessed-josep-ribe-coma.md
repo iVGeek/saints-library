@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Ribé Coma"
 honorific: Blessed
-title: "Blessed Josep Ribé Coma"
 summary: "Claretian priest. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936

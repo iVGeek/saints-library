@@ -1,7 +1,6 @@
 ---
 name: "Saint Elpidius of Lyon"
 honorific: Saint
-title: "Saint Elpidius of Lyon"
 summary: "Bishop of Lyons, France from 410."
 searchAliases:
   - "Elpidio, Elpèidius"

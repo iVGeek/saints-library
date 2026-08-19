@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Caballé Bru"
 honorific: Blessed
-title: "Blessed Jaume Caballé Bru"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Domingo"

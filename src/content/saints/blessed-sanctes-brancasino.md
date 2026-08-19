@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sanctes Brancasino"
 honorific: Blessed
-title: "Blessed Sanctes Brancasino"
 summary: "Franciscan lay-brother at Scotameto, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sanctes-Brancasino.jpg"
 searchAliases:

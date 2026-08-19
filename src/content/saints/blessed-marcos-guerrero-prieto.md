@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcos Guerrero Prieto"
 honorific: Blessed
-title: "Blessed Marcos Guerrero Prieto"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nazaria Ignacia March y Mesa"
 honorific: Venerable
-title: "Saint Nazaria Ignacia March y Mesa"
 summary: "Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were baptized on the day they were born, Nazaria mad"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazaria-Ignacia-March-Mesa.jpg"
 searchAliases:

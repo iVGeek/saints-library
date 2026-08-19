@@ -1,7 +1,6 @@
 ---
 name: "Saint Saterius of Pavia"
 honorific: Saint
-title: "Saint Saterius of Pavia"
 summary: "Martyr."
 died: "Pavia, Italy, date unknown"
 deathPlace: "Italy, date unknown"

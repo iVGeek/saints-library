@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthymius the Younger"
 honorific: Saint
-title: "Saint Euthymius the Younger"
 summary: "Hermit on Mount Olympus c.848. Hermit on Mount Athos in Greece, and became a noted preacher in the area. Founded a monastery in Salonika where he lived for a while as a hermit. Founded a monastery on and another one near Mount Athos. Late in life, he retired to living as a prayer"
 searchAliases:
   - "Euthymius the Thessalonian"

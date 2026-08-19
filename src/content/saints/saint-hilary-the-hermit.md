@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilary the Hermit"
 honorific: Saint
-title: "Saint Hilary the Hermit"
 summary: "Hermit. Martyr."
 died: "France"
 region: "France"

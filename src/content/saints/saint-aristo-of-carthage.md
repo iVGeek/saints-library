@@ -1,7 +1,6 @@
 ---
 name: "Saint Aristo of Carthage"
 honorific: Saint
-title: "Saint Aristo of Carthage"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Aristone"

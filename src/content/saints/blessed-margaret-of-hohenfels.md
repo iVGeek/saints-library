@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margaret of Hohenfels"
 honorific: Blessed
-title: "Blessed Margaret of Hohenfels"
 summary: "Born to the nobility. Benedictine nun and prioress at Bingen under Saint Hildegard."
 searchAliases:
   - "Margarita"

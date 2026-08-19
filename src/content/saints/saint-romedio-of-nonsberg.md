@@ -1,7 +1,6 @@
 ---
 name: "Saint Romedio of Nonsberg"
 honorific: Saint
-title: "Saint Romedio of Nonsberg"
 summary: "Born to the nobility, the family of the Counts of Thaur in modern Austria. He learned to read using the Bible and stories of the saints. As an adult, he gave away his fortune to support churches in the Tyrol, turned a family castle into a monastery, and then went on pilgrimage to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Romedio-of-Nonsberg-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphemia of Chalcedon"
 honorific: Saint
-title: "Saint Euphemia of Chalcedon"
 summary: "Born to a wealthy, aristocratic, and pious family; the daughter of Philophorm and Theodosia, Christians in a pagan world. Consecrated virgin who used her fortune to aid the poor. Ordered to sacrifice to a statue of Ares, she refused. She was imprisoned and tortured, but repeatedl"
 image: "http://catholicsaints.info/wp-content/uploads/Euphemia-of-Chalcedon.jpg"
 deathYear: 305

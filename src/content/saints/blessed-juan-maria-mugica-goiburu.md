@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan María Múgica Goiburu"
 honorific: Blessed
-title: "Blessed Juan María Múgica Goiburu"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Lázaro"

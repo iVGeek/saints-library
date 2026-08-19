@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioachim Ogawa"
 honorific: Blessed
-title: "Blessed Ioachim Ogawa"
 summary: "Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Mino (in modern Gifu), Japan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Diogenes of Philippi"
 honorific: Saint
-title: "Saint Diogenes of Philippi"
 summary: "Martyr."
 deathYear: 345
 died: "345 in Philippi, Macedonia, Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florida Cevoli"
 honorific: Blessed
-title: "Blessed Florida Cevoli"
 summary: "Born to the late 17th century Italian nobility, the daughter of Count Curzio and Countess Laura della Seta, Lucrezia was educated by the Poor Clares of Saint Martin's College in Pisa, Italy. It led her feel a call to religious life, and joined the Capuchin Poor Clares in Città di"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Beataflorida.jpg"
 searchAliases:

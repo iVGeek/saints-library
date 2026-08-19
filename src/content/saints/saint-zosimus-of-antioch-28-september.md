@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Antioch"
 honorific: Saint
-title: "Saint Zosimus of Antioch"
 summary: "Layman. One of the Martyrs of Antioch."
 deathYear: 303
 died: "c.303 at Antioch, Pisidia (in modern Turkey)"

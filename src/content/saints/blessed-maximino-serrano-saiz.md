@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maximino Serrano Sáiz"
 honorific: Blessed
-title: "Blessed Maximino Serrano Sáiz"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "José Alfonso"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Secunda of Rome"
 honorific: Saint
-title: "Saint Secunda of Rome"
 summary: "Nun. Martyred in the persecutions of Valerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg"
 deathYear: 257

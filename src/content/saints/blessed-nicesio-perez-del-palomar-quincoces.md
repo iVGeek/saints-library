@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicesio Pérez del Palomar Quincoces"
 honorific: Blessed
-title: "Blessed Nicesio Pérez del Palomar Quincoces"
 summary: "Redemptorist brother who made his religious vows on 30 March 1891. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicesio-Perez-del-Palomar-Quincoces.jpg"
 birthYear: 1859

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Esteban Cobo-Sanz"
 honorific: Blessed
-title: "Blessed Esteban Cobo-Sanz"
 summary: "Professed cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

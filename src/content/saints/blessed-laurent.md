@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laurent"
 honorific: Blessed
-title: "Blessed Laurent"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 deathYear: 1792
 died: "martyred on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France"

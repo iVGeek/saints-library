@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gérard Cagnoli"
 honorific: Blessed
-title: "Blessed Gérard Cagnoli"
 summary: "Born to the Italian nobility. Cared for his mother until her death, then became a hermit for several years on Mount Etna, Sicily. Franciscan lay brother. Cook for Franciscan house. Known for his childlike simplicity, and the many graces that derived from it."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerard-Cagnoli.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Proculus of Terni"
 honorific: Saint
-title: "Saint Proculus of Terni"
 summary: "Bishop of Terni, Italy. Martyred in the persecutions of Maxentius."
 deathYear: 310
 died: "310"

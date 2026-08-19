@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pau Roselló Borgueres"
 honorific: Blessed
-title: "Blessed Pau Roselló Borgueres"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936

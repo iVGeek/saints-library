@@ -1,7 +1,6 @@
 ---
 name: "Saint Sotericus of Ephesus"
 honorific: Saint
-title: "Saint Sotericus of Ephesus"
 summary: "Martyr."
 died: "stoned to death near Ephesus, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"

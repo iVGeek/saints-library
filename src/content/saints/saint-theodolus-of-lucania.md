@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodolus of Lucania"
 honorific: Saint
-title: "Saint Theodolus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

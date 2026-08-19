@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luís Correia"
 honorific: Blessed
-title: "Blessed Luís Correia"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Évora, Portugal"

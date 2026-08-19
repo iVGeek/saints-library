@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Orrego Fuentes"
 honorific: Blessed
-title: "Blessed Antonio Orrego Fuentes"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Orrego-Fuentes.jpg"
 birthYear: 1915

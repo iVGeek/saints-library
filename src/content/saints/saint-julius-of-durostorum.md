@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Durostorum"
 honorific: Saint
-title: "Saint Julius of Durostorum"
 summary: "Martyr."
 searchAliases:
   - "Julius of Dorostoro"

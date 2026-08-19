@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teresa Demjanovich"
 honorific: Blessed
-title: "Blessed Teresa Demjanovich"
 summary: "One of five children born to Alexander and Johanna Demjanovich, emmigrants to the United States from an area of the Austro-Hungarian empire that is in modern Slovakia. Raised in the Byzantine-Ruthenian rite. Valedictorian of her high school class. Teacher at the Saint Aloysius Ac"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Demjanovi%C4%8Dov%C3%A1.JPG"
 searchAliases:

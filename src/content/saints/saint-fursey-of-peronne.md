@@ -1,7 +1,6 @@
 ---
 name: "Saint Fursey of Péronne"
 honorific: Saint
-title: "Saint Fursey of Péronne"
 summary: "Son of an Irish prince. Related to Saint Foillan and Saint Ultan of Péronne. Educated by Saint Brendan the Voyager. Priest. Abbot of a house at Rathmat, Ireland. Preached, evangelized, and established monasteries in Ireland for twelve years. Evangelized in England, building monas"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fursey-of-Péronne.jpg"
 searchAliases:

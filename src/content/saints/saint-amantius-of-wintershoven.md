@@ -1,7 +1,6 @@
 ---
 name: "Saint Amantius of Wintershoven"
 honorific: Saint
-title: "Saint Amantius of Wintershoven"
 summary: "Deacon from Rome, Italy. With Saint Landoald, he evangelized the area of modern France and Belgium. Founded the church at Wintershoven."
 deathYear: 668
 died: "c.668"

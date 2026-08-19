@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Ebsdorf"
 honorific: Saint
-title: "Martyrs of Ebsdorf"
 searchAliases:
   - "Ebsdorf Martyrs"
 deathYear: 880

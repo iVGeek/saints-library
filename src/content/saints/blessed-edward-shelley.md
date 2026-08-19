@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Shelley"
 honorific: Blessed
-title: "Blessed Edward Shelley"
 summary: "Son of Edward Shelley of Warminghurst, Sussex and Joan of Penshurst, Kent. Lifelong layman. Arrested in April 1584 for possessing the banned book My Lord Leicester's Commonwealth, for assisting Blessed William Dean, and for harbouring priests. Martyr."
 birthYear: 1530
 deathYear: 1588

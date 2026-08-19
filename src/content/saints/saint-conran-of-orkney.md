@@ -1,7 +1,6 @@
 ---
 name: "Saint Conran of Orkney"
 honorific: Saint
-title: "Saint Conran of Orkney"
 summary: "Bishop of the Orkney Islands, Scotland."
 region: "England"
 feastDay:

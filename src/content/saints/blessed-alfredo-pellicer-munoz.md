@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfredo Pellicer Muñoz"
 honorific: Blessed
-title: "Blessed Alfredo Pellicer Muñoz"
 summary: "Franciscan Friar Minor, making his solemn profession on 5 July 1936, just days before the outbreak of the Spanish Civil War. He had been studying theolgy; his family urged him to give it up and become a teacher, in hopes of avoiding the persecutions of the anti-Catholic Republica"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Pellicer-Muñoz.jpg"
 birthYear: 1914

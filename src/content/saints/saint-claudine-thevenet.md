@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudine Thévenet"
 honorific: Venerable
-title: "Saint Claudine Thévenet"
 summary: "Raised in a pious family. Two of her brothers were murdered in the excesses of the French Revolution; they went to their deaths forgiving their killers and asking Claudine to do the same. Claudine worked with working class young women around Lyon, France. In 1816, with Father And"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Saint_Claudine_Thevenet.jpg"
 searchAliases:

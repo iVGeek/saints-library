@@ -1,7 +1,6 @@
 ---
 name: "Saint Exuperantius of Spoleto"
 honorific: Saint
-title: "Saint Exuperantius of Spoleto"
 summary: "Deacon. One of a group of Christians martyred together in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Spoleto, Italy"

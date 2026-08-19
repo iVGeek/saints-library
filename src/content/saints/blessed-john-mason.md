@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Mason"
 honorific: Blessed
-title: "Blessed John Mason"
 summary: "Layman. Servant to a Mr Owen of Oxfordshire. Arrested for harbouring priests in general, and Saint Edmund Gennings in particular, physically restraining the men who were going to arrest Gennings during Mass. Martyr."
 deathYear: 1591
 born: "at Kendal, Westmoreland, England"

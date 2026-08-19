@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Deluil-Martiny"
 honorific: Blessed
-title: "Blessed Marie Deluil-Martiny"
 summary: "The oldest of five children (she had one brother and three sisters) born to upper middle class parents; she was baptized on the day of her birth. Her father was Paul Deluil-Martiny, a lawyer, and she was the great-niece of Venerable Anne-Madeleine Rémuzat. Marie received a good e"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Moeder_Marie_de_J%C3%A9sus_Deluil-Martiny.JPG"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Chrodegang of Metz"
 honorific: Saint
-title: "Saint Chrodegang of Metz"
 summary: "Son of Sigram and Landrada; related to Pepin the Short; brother of Saint Opportuna of Montreuil. Educated at Saint Trond abbey. Secretary to Charles Martel. Chancellor of France. Even while holding such positions, he went about in hair shirts, fasting, praying, and supporting the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chrodegang-of-Metz.jpg"
 searchAliases:

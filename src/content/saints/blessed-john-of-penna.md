@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Penna"
 honorific: Blessed
-title: "Blessed John of Penna"
 summary: "Joined the Franciscan in Recanati, Italy c.1213. Priest. Founded several Franciscan houses in Provence, France during a 25 year apostolate there. Returned to Italy in 1242, and lived the bulk of his remaining 30 in cloistered retirement. Experienced many highs and lows in his spi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Penna.jpg"
 searchAliases:

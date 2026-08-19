@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Genevieve Poulain de la Forestrie"
 honorific: Blessed
-title: "Blessed Marie-Genevieve Poulain de la Forestrie"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1741
 deathYear: 1794

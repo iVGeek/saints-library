@@ -1,7 +1,6 @@
 ---
 name: "Saint Consolata of Genoa"
 honorific: Saint
-title: "Saint Consolata of Genoa"
 summary: "Born while her parents were on pilgrimage to the Holy Lands. Nun in a nearby convent that had been built by her father."
 deathYear: 1109
 born: "near the Sea of Galilee"

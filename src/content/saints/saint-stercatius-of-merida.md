@@ -1,7 +1,6 @@
 ---
 name: "Saint Stercatius of Merida"
 honorific: Saint
-title: "Saint Stercatius of Merida"
 summary: "Martyr."
 deathYear: 304
 died: "304 in Merida, Estremadura, Spain"

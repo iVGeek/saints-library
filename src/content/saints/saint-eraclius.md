@@ -1,7 +1,6 @@
 ---
 name: "Saint Eraclius"
 honorific: Saint
-title: "Saint Eraclius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

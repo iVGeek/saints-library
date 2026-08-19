@@ -1,7 +1,6 @@
 ---
 name: "Saint Abel of Rheims"
 honorific: Saint
-title: "Saint Abel of Rheims"
 summary: "Missionary to the European continent with Saint Boniface. Chosen archbishop of Rheims, France in 744 by Pope Saint Zachary and the Council of Soissons. He was unable to take over the see as it was occupied by hostile forces supporting the self-appointed bishop Milo. Retired as a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Abel-of-Rheims.jpg"
 searchAliases:

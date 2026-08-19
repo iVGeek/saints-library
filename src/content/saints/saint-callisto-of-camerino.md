@@ -1,7 +1,6 @@
 ---
 name: "Saint Callisto of Camerino"
 honorific: Saint
-title: "Saint Callisto of Camerino"
 summary: "Convert. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 deathYear: 251

@@ -1,7 +1,6 @@
 ---
 name: "Saint Frunumius of North Africa"
 honorific: Saint
-title: "Saint Frunumius of North Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3

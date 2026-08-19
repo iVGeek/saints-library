@@ -1,7 +1,6 @@
 ---
 name: "Saint Tatwine of Canterbury"
 honorific: Saint
-title: "Saint Tatwine of Canterbury"
 summary: "Monk at Breedon Abbey, Mercia (in modern England). Famed for his piety and learning. Archbishop of Canterbury, England."
 searchAliases:
   - "Tatwin"

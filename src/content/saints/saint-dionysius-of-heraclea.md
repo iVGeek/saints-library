@@ -1,7 +1,6 @@
 ---
 name: "Saint Dionysius of Heraclea"
 honorific: Saint
-title: "Saint Dionysius of Heraclea"
 summary: "One of a group of 43 Christians martyred together."
 died: "Heraclea, Thrace"
 deathPlace: "Thrace"

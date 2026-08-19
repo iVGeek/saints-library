@@ -1,7 +1,6 @@
 ---
 name: "Saint Chi Zhuze"
 honorific: Venerable
-title: "Saint Chi Zhuze"
 summary: "Teenaged layman convert in the apostolic vicariate of Southeastern Zhili, China who was still a catechumen when, during an anti-Western riot, he was dragged into the town square and murdered for being a Christian during the Boxer Rebellion. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:

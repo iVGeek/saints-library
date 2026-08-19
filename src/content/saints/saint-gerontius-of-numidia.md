@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerontius of Numidia"
 honorific: Saint
-title: "Saint Gerontius of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

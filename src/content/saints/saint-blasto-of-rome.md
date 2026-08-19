@@ -1,7 +1,6 @@
 ---
 name: "Saint Blasto of Rome"
 honorific: Saint
-title: "Saint Blasto of Rome"
 summary: "Martyr."
 died: "on the Via Salaria Vecchia, Rome, Italy"
 deathPlace: "Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Waterson"
 honorific: Blessed
-title: "Blessed Edward Waterson"
 summary: "As a young man Edward travelled to Turkey with some English merchants. There he met and was befriended by a wealthy Turk who liked Edward so much that he offered his daughter in marriage if the Englishman would convert to Islam. Edward declined, but the incident set his mind on s"
 deathYear: 1593
 born: "at London, England"

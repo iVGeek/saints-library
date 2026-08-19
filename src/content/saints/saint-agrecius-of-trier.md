@@ -1,7 +1,6 @@
 ---
 name: "Saint Agrecius of Trier"
 honorific: Saint
-title: "Saint Agrecius of Trier"
 summary: "Nothing reliable is recorded about his life before his service to the Church. Patriarch of Antioch. Friend and advisor to empress Saint Helena. Named bishop of Treves, Gaul (modern Trier, Germany) by Pope Sylvester I; served for 20 years. Attended the Council of Arles in 314. Bui"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agrecius-of-Trier.jpg"
 searchAliases:

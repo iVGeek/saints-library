@@ -1,7 +1,6 @@
 ---
 name: "Saint Antolian of Clermont"
 honorific: Saint
-title: "Saint Antolian of Clermont"
 summary: "Martyred in the invasion of Crocus, king of the Alemanni, who invaded Gaul in the mid-3rd century."
 searchAliases:
   - "Antoliano"

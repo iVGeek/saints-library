@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Bourdon"
 honorific: Blessed
-title: "Blessed Jean Bourdon"
 summary: "The son of Simon Bourdon, a wheelwright, and Mary Louise Le Fou, he was baptized at the age of one day. Franciscan Capuchin, professed on 27 November 1768, taking the name Brother Protasio. Priest, ordained in 1775. Secretary of the Franciscan provincial of Normandy. Imprisoned o"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/79/JeanBourdon.jpg"
 searchAliases:

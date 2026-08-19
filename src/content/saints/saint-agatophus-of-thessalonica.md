@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatophus of Thessalonica"
 honorific: Saint
-title: "Saint Agatophus of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

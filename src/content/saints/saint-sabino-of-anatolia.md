@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabino of Anatolia"
 honorific: Saint
-title: "Saint Sabino of Anatolia"
 summary: "Martyred with 42 companions in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Anatolia, Asia Minor"

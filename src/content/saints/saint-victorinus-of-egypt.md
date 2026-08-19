@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Egypt"
 honorific: Saint
-title: "Saint Victorinus of Egypt"
 summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian."
 deathYear: 283
 born: "Corinth, Greece"

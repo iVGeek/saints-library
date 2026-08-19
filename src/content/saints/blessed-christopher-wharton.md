@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christopher Wharton"
 honorific: Blessed
-title: "Blessed Christopher Wharton"
 summary: "Priest of the apostolic vicariate of England. Martyred in the persecutions of Elizabeth I."
 birthYear: 1540
 deathYear: 1600

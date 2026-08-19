@@ -1,7 +1,6 @@
 ---
 name: "Saint Melangell"
 honorific: Saint
-title: "Saint Melangell"
 summary: "Princess. Anchoress in Powys, Wales. One day Prince Brochwel of Powys was hunting and chased a hare. The animal ran to Melangell who shield it in her cloak. The prince was so moved by her courage and sanctity that he gave her the valley as a place of sanctuary. Melangell became a"
 searchAliases:
   - "Monacella"

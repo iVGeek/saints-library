@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Furcona"
 honorific: Saint
-title: "Saint Felix of Furcona"
 summary: "One of a group of soldiers martyred in the persecutions of Maximinius the Thracian."
 deathYear: 235
 died: "235 at Furcona, Italy"

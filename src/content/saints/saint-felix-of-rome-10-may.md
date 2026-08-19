@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Saint Felix of Rome"
 summary: "Married to Saint Blanda of Rome. Martyred in the persecutions of Emperor Alexander Severus."
 deathYear: 232
 died: "beheaded c.232 in Rome, Italy"

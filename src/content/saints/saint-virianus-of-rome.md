@@ -1,7 +1,6 @@
 ---
 name: "Saint Virianus of Rome"
 honorific: Saint
-title: "Saint Virianus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodore of Canterbury"
 honorific: Saint
-title: "Saint Theodore of Canterbury"
 summary: "Educated in Tarsus, Cilicia (part of modern Turkey). Lived for a while in Athens, Greece. Monk in Rome, Italy. Friend of Saint Adrian of Canterbury who recommended that Pope Saint Vitalian choose Theodore as Archbishop of Canterbury, England in 666. He visited all of England, sup"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-of-Canterbury.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Filippo Smaldone"
 honorific: Venerable
-title: "Saint Filippo Smaldone"
 summary: "While in seminary he worked extensively with deaf-mutes in Naples, Italy. Ordained in 1871. While working with plague victims, he contracted the disease himself, but was miraculously cured through the intervention of Our Lady of Pompei. At one point, depressed over the frustratio"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Filippo_Smaldone.jpg/960px-San_Filippo_Smaldone.jpg"
 birthYear: 1848

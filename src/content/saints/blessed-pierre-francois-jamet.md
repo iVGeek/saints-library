@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-François Jamet"
 honorific: Blessed
-title: "Blessed Pierre-François Jamet"
 summary: "One of eight children born to a wealthy farm family. Studied at the College of Vire, then the University of Caen. Ordained on 22 September 1787 in the diocese of Bayeaux, France. Chaplain and confessor to the Daughters of the Good Savior in Caen, France in 1790. He tried to conti"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Abbejamet.jpg"
 searchAliases:

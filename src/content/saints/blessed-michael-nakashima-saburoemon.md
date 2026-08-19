@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Nakashima Saburoemon"
 honorific: Blessed
-title: "Blessed Michaël Nakashima Saburoemon"
 summary: "Jesuit. Martyred for hiding and assisting priests and missionaries."
 birthYear: 1583
 deathYear: 1628

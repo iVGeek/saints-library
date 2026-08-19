@@ -1,7 +1,6 @@
 ---
 name: "Saint Urbanus of Thessalonica"
 honorific: Saint
-title: "Saint Urbanus of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 region: "Italy"
 feastDay:

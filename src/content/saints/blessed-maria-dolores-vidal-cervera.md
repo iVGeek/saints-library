@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Dolores Vidal Cervera"
 honorific: Blessed
-title: "Blessed María Dolores Vidal Cervera"
 summary: "Member of the Carmelite Sisters of Charity. She served as a teacher at several schools run by the Sisters where he students recognized her spirituality as well as her teaching skills; they even tried to hide her during the persecutions of the Spanish Civil War, but she refused, f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Maria-Dolores.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Altigianus"
 honorific: Saint
-title: "Saint Altigianus"
 summary: "Benedictine monk martyred by Saracens."
 deathYear: 731
 died: "731 at Saint-Seine, diocese of Langres, France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paula of Nicomedia"
 honorific: Saint
-title: "Saint Paula of Nicomedia"
 summary: "Consecrated virgin. Cared for Saint Lucillian of Byzantium, Saint Claudius of Byzantium, Saint Dionysius of Byzantium, Saint Hypatius of Byzantium, and Saint Paul of Byzantium while they were in prison. Arrested, tortured and martyred for helping Christians."
 deathYear: 273
 born: "Nicomedia"

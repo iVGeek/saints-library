@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix Yuste Cava"
 honorific: Blessed
-title: "Blessed Félix Yuste Cava"
 summary: "Known as a pious child. Studied at the seminary of Valencia, Spain, and at the Spanish College and Gregorian University in Rome, Italy. Priest in several parishes of the archdiocese of Valencia. Professor at the Valencia seminary. Active supporter of Catholic Action in his parish"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felice-Yuste-Cava.jpg"
 birthYear: 1887

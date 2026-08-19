@@ -1,7 +1,6 @@
 ---
 name: "Saint Rambold of Ratisbon"
 honorific: Saint
-title: "Saint Rambold of Ratisbon"
 summary: "Monk at the Saint Maximinus monastery in Trier, Germany. Abbot of Saint Emmeram in Regensburg, Germany."
 searchAliases:
   - "Ramnold of Ratisbon"

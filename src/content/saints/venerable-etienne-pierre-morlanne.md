@@ -1,7 +1,6 @@
 ---
 name: "Venerable Étienne-Pierre Morlanne"
 honorific: Venerable
-title: "Venerable Étienne-Pierre Morlanne"
 summary: "Son of Étienne-Pierre Morlanne, a surgeon in the Royal Polish Cavalry, and Anne Antoinette Janet. Be became a physician, himself, specializing in obstetrics in Metz, France. Founded the Sisters of Maternal Charity."
 birthYear: 1772
 deathYear: 1862

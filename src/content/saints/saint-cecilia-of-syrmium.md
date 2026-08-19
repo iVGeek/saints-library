@@ -1,7 +1,6 @@
 ---
 name: "Saint Cecilia of Syrmium"
 honorific: Saint
-title: "Saint Cecilia of Syrmium"
 summary: "Martyr. No other information has survived."
 died: "4th century in Syrmium, Pannonia (modern Serbia)"
 deathPlace: "Pannonia (modern Serbia)"

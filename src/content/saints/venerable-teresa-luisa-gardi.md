@@ -1,7 +1,6 @@
 ---
 name: "Venerable Teresa Luisa Gardi"
 honorific: Venerable
-title: "Venerable Teresa Luisa Gardi"
 summary: "Lifelong lay women in the diocese of Imola, Italy. Franciscan tertiary. Had a great devotion to the works of Saint John of the Cross and Saint Teresa of Avila. Visionary and mystic kept a diary of what she saw and felt, but revealed nothing; it wasn't until her diaries were print"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Gardi-of-Imola.jpg"
 searchAliases:

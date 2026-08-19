@@ -1,7 +1,6 @@
 ---
 name: "Saint Bolcan of Derken"
 honorific: Saint
-title: "Saint Bolcan of Derken"
 summary: "Baptized by Saint Patrick. Studied in Gaul. Bishop of Derkan, northern Ireland. Bolcan's school there was one of the best equipped in the island."
 searchAliases:
   - "Olcan"

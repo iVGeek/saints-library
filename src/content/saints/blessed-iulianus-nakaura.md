@@ -1,7 +1,6 @@
 ---
 name: "Blessed Iulianus Nakaura"
 honorific: Blessed
-title: "Blessed Iulianus Nakaura"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Iulianus-Nakaura.jpg"
 searchAliases:

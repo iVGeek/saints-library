@@ -1,7 +1,6 @@
 ---
 name: "Saint Abda of Mercia"
 honorific: Saint
-title: "Saint Abda of Mercia"
 summary: "Priest. Missionary to the area of Mercia (in modern England)."
 region: "England"
 feastDay:

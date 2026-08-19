@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Sens"
 honorific: Saint
-title: "Saint Leo of Sens"
 summary: "Bishop of Sens, France for 22 years."
 deathYear: 541
 died: "541"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Falco the Hermit"
 honorific: Blessed
-title: "Blessed Falco the Hermit"
 summary: "Hermit in the Abruzzi region of Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Falco-the-Hermit.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nestor of Side"
 honorific: Saint
-title: "Saint Nestor of Side"
 summary: "Bishop of Side, Pamphylia (in modern Antalya, Turkey), known for his personal piety and his zeal as an evangelist. Arrested and executed by order of governor Epolius during the persecutions of Decius. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nestor-of-Side.jpg"
 searchAliases:

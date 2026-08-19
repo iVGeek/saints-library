@@ -1,7 +1,6 @@
 ---
 name: "Saint Seleucus of Syria"
 honorific: Saint
-title: "Saint Seleucus of Syria"
 summary: "Martyr. No other information has survived."
 born: "Syrian"
 region: "England"

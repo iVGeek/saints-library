@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionysius Fugixima"
 honorific: Blessed
-title: "Blessed Dionysius Fugixima"
 summary: "Born to the Japanese nobility. Jesuit novice. Worked with Blessed Paul Navarro. Martyr."
 searchAliases:
   - "Denis Fugiscima"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Poussepin"
 honorific: Blessed
-title: "Blessed Marie Poussepin"
 summary: "Daughter of a stocking manufacturer, Marie was raised in a pious household and educated by her mother and the local parish priest. Her mother died when Marie was 22, at which point she took over running the house and raising her younger siblings. When her father died in 1683 she"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marie_Poussepin.jpeg"
 birthYear: 1653

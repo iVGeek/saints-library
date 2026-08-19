@@ -1,7 +1,6 @@
 ---
 name: "Blessed Victor Gutiérrez Gómez"
 honorific: Blessed
-title: "Blessed Victor Gutiérrez Gómez"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Lino Fernando"

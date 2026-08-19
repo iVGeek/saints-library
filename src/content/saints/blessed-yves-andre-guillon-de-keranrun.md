@@ -1,7 +1,6 @@
 ---
 name: "Blessed Yves-André Guillon de Keranrun"
 honorific: Blessed
-title: "Blessed Yves-André Guillon de Keranrun"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1748
 deathYear: 1792

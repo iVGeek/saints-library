@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Antoine Guilleminet"
 honorific: Blessed
-title: "Blessed Jean-Antoine Guilleminet"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1738
 deathYear: 1792

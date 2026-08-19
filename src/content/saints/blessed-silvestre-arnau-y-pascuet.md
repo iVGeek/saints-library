@@ -1,7 +1,6 @@
 ---
 name: "Blessed Silvestre Arnau y Pascuet"
 honorific: Blessed
-title: "Blessed Silvestre Arnau y Pascuet"
 summary: "The son of Lorenzo Arnau and Maria Pasquet, Silvestre entered the minor seminary at age 12, studied in Urgel, Spain and at the Gregorian University of Rome, Italy where he earned a degree in theology. Ordained a priest in the diocese of Urgel on 21 November 1935. He served as co-"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Silvestre-Arnau-y-Pascuet.jpg"
 birthYear: 1911

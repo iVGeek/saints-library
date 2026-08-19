@@ -1,7 +1,6 @@
 ---
 name: "Saint Flamidianus"
 honorific: Saint
-title: "Saint Flamidianus"
 summary: "Martyr."
 died: "Catalonia (in modern Spain)"
 region: "France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Ch’oe Hyong"
 honorific: Venerable
-title: "Saint Petrus Ch’oe Hyong"
 summary: "Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Catechist. Worked with Saint Ioannes Baptista Chon Chang-un to publish Christian books in Korean, and was imprisoned, tortured and executed with him. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea-1.jpg"
 searchAliases:

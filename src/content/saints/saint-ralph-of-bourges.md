@@ -1,7 +1,6 @@
 ---
 name: "Saint Ralph of Bourges"
 honorific: Saint
-title: "Saint Ralph of Bourges"
 summary: "Born to the French royal family, the son of the count of Cahors and lord of Turenne. Ralph gave up his worldly position to become a monk in 822. Archbishop of Bourges, France in 840. Founded seven monasteries and worked tirelessly to improve discipline and encourage the faith. Co"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ralph-of-Bourges.jpg"
 searchAliases:

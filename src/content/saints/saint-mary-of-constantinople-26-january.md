@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary of Constantinople"
 honorific: Saint
-title: "Saint Mary of Constantinople"
 summary: "Married to Saint Xenophon of Constantinople, mother of Saint John and Saint Arcadius. Member of the wealthy governing class of 5th century imperial Constantinople, she was known as a Christian who lived a simple life. To give their sons a good education, Xenophon and Mary sent th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Constantinople.jpg"
 searchAliases:

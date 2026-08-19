@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcos Caldeira"
 honorific: Blessed
-title: "Blessed Marcos Caldeira"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1547
 deathYear: 1570

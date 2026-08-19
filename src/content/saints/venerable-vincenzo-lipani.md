@@ -1,7 +1,6 @@
 ---
 name: "Venerable Vincenzo Lipàni"
 honorific: Venerable
-title: "Venerable Vincenzo Lipàni"
 summary: " In 1866, religious orde Studied at the Jesuit college in Caltanissetta, Italy. He joined the Franciscan Capuchins in Palermo, Italy on 13 October 1861, taking the name Fra Angelico; he made his solemn profession on 13 October 1865. Ordained a priest on 3 December 1865 in Palermo."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Lipàni.jpg"
 searchAliases:

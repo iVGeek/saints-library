@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Martín Sierra"
 honorific: Blessed
-title: "Blessed Manuel Martín Sierra"
 summary: "Ordained in the diocese of Granada, Spain in 1915. Received a doctorate in theology. Teacher and chaplain at the seminary of Granada, Spain. Parish priest at the Divine Shepherdess church in Motril, Spain where he lived in poverty to help support the local poor, and worked endles"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Martín-Sierra.jpg"
 birthYear: 1892

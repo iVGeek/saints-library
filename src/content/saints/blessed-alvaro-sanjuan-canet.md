@@ -1,7 +1,6 @@
 ---
 name: "Blessed Álvaro Sanjuán Canet"
 honorific: Blessed
-title: "Blessed Álvaro Sanjuán Canet"
 summary: "Member of the Salesians of Don Bosco. Studied at the seminary of Campello, Alicante, Spain, and then in Turin, Italy. Ordained in 1934. When the Spanish Civil War broke out, Father Álvaro fled to Cocentaina, Spain and went into hiding with his parents, but was found, briefly impr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Álvaro-Sanjuán-Canet.jpg"
 birthYear: 1908

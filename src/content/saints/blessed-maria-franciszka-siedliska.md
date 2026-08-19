@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Franciszka Siedliska"
 honorific: Blessed
-title: "Blessed Maria Franciszka Siedliska"
 summary: "Eldest daughter of Adolf Adam Siedliski and Cecilia Marianna Morawska, wealthy and aristocratic landowners in the part of Poland which was occupied by Russia. In her late teens, Franciszka felt the call to religious life, which was against her family wishes as they were very indi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Franciszka-Siedliska.jpg"
 searchAliases:

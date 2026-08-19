@@ -1,7 +1,6 @@
 ---
 name: "Saint Austrebertha of Pavilly"
 honorific: Saint
-title: "Saint Austrebertha of Pavilly"
 summary: "Daughter of Saint Framechildis and the Count Badefrid. Her parents arranged a marriage for her for political reasons, but Austrebertha was drawn to religious life. Benedictine nun, receiving the veil from Saint Omer at Abbeville, France. Abbess at Jumieges, and at Pavilly. Miracl"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Austrebertha-of-Pavilly.jpg"
 searchAliases:

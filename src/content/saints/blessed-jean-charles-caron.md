@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Charles Caron"
 honorific: Blessed
-title: "Blessed Jean-Charles Caron"
 summary: "Priest of the diocese of Meaux, France. One of the Martyrs of September."
 birthYear: 1730
 deathYear: 1792

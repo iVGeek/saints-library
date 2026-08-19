@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne of Saint Bartholomew"
 honorific: Blessed
-title: "Blessed Anne of Saint Bartholomew"
 summary: "Worked as a shepherdess in her youth. Lay Carmelite at age 20 under the direction of Saint Teresa of Avila. Anne became secretary to and close friend of Saint Teresa; Teresa died in Anne's arms. Worked on the Carmelite reform in France. Prioress of houses at Tours and Pontoise. F"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anne-of-Saint-Bartholomew.jpg"
 searchAliases:

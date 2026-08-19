@@ -1,7 +1,6 @@
 ---
 name: "Saint Dalmatius of Rodez"
 honorific: Saint
-title: "Saint Dalmatius of Rodez"
 summary: "Bishop of Rodez, France from 524 to 580. Persecuted for years by the Arian Visigoth King Amalaric."
 deathYear: 580
 died: "580"

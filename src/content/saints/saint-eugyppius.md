@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugyppius"
 honorific: Saint
-title: "Saint Eugyppius"
 summary: "Ordained in Rome, Italy. Worked with Saint Severinus in Noricum (part of modern Austria), and wrote a biography of him."
 deathYear: 511
 born: "North Africa"

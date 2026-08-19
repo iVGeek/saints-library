@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolaus Fukunaga Keian"
 honorific: Blessed
-title: "Blessed Nicolaus Fukunaga Keian"
 summary: "Jesuit lay brother. Martyr."
 birthYear: 1570
 deathYear: 1633

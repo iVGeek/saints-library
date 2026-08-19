@@ -1,7 +1,6 @@
 ---
 name: "Saint Antidius of Besançon"
 honorific: Saint
-title: "Saint Antidius of Besançon"
 summary: "Spiritual student of Saint Froninus of Besançon. Bishop of Besançon, France. Martyred by Arian Vandals."
 searchAliases:
   - "Antel"

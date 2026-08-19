@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cesáreo España Ortiz"
 honorific: Blessed
-title: "Blessed Cesáreo España Ortiz"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eladio Vicente"

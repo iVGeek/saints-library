@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Ruiz de los Paños Angel"
 honorific: Blessed
-title: "Blessed Pedro Ruiz de los Paños Angel"
 summary: "Studied at the seminary in Toledo, Spain. Priest. Joined the Diocesan Laborer Priests of the Sacred Heart of Jesus. Administrator of Spanish seminaries in Malaga, Badajoz, Seville and Plasencia, and the Spanish College of Rome, Italy. Director General of the Laborer Priests for t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Ruiz-de-los-Paños-Angel.jpg"
 birthYear: 1881

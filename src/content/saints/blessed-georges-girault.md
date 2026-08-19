@@ -1,7 +1,6 @@
 ---
 name: "Blessed Georges Girault"
 honorific: Blessed
-title: "Blessed Georges Girault"
 summary: "Franciscan Friars of the Third Order Regular, making his final profession in 1750. Ordained in Paris, France in 1754. One of the Martyrs of September."
 birthYear: 1728
 deathYear: 1792

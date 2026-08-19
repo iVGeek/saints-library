@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Álvarez Baena"
 honorific: Blessed
-title: "Blessed Francisco Álvarez Baena"
 summary: "Priest of the diocese of Córdoba, Spain, serving in a diocesan apostolate to workers. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936

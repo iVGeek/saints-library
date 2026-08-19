@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bento de Castro"
 honorific: Blessed
-title: "Blessed Bento de Castro"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
 birthYear: 1543

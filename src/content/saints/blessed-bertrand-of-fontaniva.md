@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bertrand of Fontaniva"
 honorific: Blessed
-title: "Blessed Bertrand of Fontaniva"
 summary: "As a young man, Bertrand gave up his worldly goods and became a pilgrim to the shrines in Rome, Italy. Near Fontaniva, he became overcome with some illness and sat down on the porch of a church. He flagged down a passing boy and had him find a priest. As soon as Bertrand finished"
 searchAliases:
   - "Bertrand d'Orega"

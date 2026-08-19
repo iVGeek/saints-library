@@ -1,7 +1,6 @@
 ---
 name: "Venerable Nelson Santana"
 honorific: Venerable
-title: "Venerable Nelson Santana"
 summary: "As a nine-year-old terminal cancer patient in the diocese of São Carlos, Brazil, Nelson offered all his sufferings to Christ, and was endlessly supportive of family and friends, reminding them of their faith in the life to come."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Nelson-Santana.jpg"
 searchAliases:

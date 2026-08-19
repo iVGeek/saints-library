@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius of Melitene"
 honorific: Saint
-title: "Saint Gaius of Melitene"
 summary: "Martyr."
 searchAliases:
   - "Caius"

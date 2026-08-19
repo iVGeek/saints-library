@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Tristany Pujol"
 honorific: Blessed
-title: "Blessed Josep Tristany Pujol"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Lluc of Saint Joseph"

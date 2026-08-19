@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pau Castellá Barberá"
 honorific: Blessed
-title: "Blessed Pau Castellá Barberá"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

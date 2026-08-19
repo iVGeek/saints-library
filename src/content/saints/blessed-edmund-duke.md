@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edmund Duke"
 honorific: Blessed
-title: "Blessed Edmund Duke"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1563
 deathYear: 1590

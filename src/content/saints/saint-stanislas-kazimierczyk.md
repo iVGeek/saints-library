@@ -1,7 +1,6 @@
 ---
 name: "Saint Stanislas Kazimierczyk"
 honorific: Venerable
-title: "Saint Stanislas Kazimierczyk"
 summary: "Raised in a pious family, the son of Maciej and Jadwiga Soltys, he received a good education in the faith. Received doctorates in theology and philosophy from Jagiello University, Kraków, Poland. Entered the Canons Regular of the Lateran in 1456, devoting his life to the Eucharis"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Stanislas-Kazimierczyk-1.jpg"
 searchAliases:

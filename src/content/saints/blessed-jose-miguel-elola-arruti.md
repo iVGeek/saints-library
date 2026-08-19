@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Miguel Elola Arruti"
 honorific: Blessed
-title: "Blessed José Miguel Elola Arruti"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Vito José"

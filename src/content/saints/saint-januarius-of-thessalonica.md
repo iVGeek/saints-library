@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Thessalonica"
 honorific: Saint
-title: "Saint Januarius of Thessalonica"
 summary: "Two Christians with the same name who were martyred."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Philadelphus of Lentini"
 honorific: Saint
-title: "Saint Philadelphus of Lentini"
 summary: "Brother of Saint Alphius and Saint Cyrinus. Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philadelphus-of-Lentini.jpg"
 searchAliases:

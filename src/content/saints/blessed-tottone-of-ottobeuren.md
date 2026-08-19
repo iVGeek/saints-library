@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tottone of Ottobeuren"
 honorific: Blessed
-title: "Blessed Tottone of Ottobeuren"
 summary: "Born to the nobility, the son of Silach and Ermenswinth who donated a manor to be used as a monastery. Benedictine monk. Founder and first abbot of Ottobeuren Abbey in Ottobeuren, Germany in 764."
 searchAliases:
   - "Toto"

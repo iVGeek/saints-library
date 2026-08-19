@@ -1,7 +1,6 @@
 ---
 name: "Blessed Restituto Santiago Allende"
 honorific: Blessed
-title: "Blessed Restituto Santiago Allende"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "José De Arimatea"

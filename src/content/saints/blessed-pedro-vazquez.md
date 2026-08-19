@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Vázquez"
 honorific: Blessed
-title: "Blessed Pedro Vázquez"
 summary: "Dominican, assigned to Madrid, Spain, then Manila in the Philippines. Priest. Missionary to Japan. Arrested on 18 April 1623 for the crime of moving the body of the martyred Blessed Ludovico Flores, he spent 16 months of abuse in prison before being executed for remaining a Chris"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Vázquez.jpg"
 searchAliases:

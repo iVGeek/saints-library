@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Polo Benito"
 honorific: Blessed
-title: "Blessed José Polo Benito"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul Aurelian"
 honorific: Saint
-title: "Saint Paul Aurelian"
 summary: "Born a Romano-Briton prince, the son of Perphius, a Welsh chieftain. Educated at Llantwit Major with Saint David of Wales, Saint Samson of York, Saint Gildas the Wise and Saint Illtyd. Hermit. To escape being made a bishop, he and 12 companions established a monastery at Porz-Pol"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Etole_de_Saint_Paul_Aur%C3%A9lien.jpg/960px-Etole_de_Saint_Paul_Aur%C3%A9lien.jpg"
 searchAliases:

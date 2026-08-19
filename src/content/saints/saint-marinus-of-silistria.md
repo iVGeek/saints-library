@@ -1,7 +1,6 @@
 ---
 name: "Saint Marinus of Silistria"
 honorific: Saint
-title: "Saint Marinus of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

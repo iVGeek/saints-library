@@ -1,7 +1,6 @@
 ---
 name: "Saint Firmatus of Auxerre"
 honorific: Saint
-title: "Saint Firmatus of Auxerre"
 summary: "Deacon. Martyr."
 died: "Auxerre, France"
 deathPlace: "France"

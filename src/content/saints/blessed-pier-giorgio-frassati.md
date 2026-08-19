@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pier Giorgio Frassati"
 honorific: Blessed
-title: "Blessed Pier Giorgio Frassati"
 summary: "Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an agnostic, the founder and editor of the liberal newspaper La Stampa, and became the Italian ambassador to Germany. A pious youth, average student, outstanding athle"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PierGiorgioFrassati-Pr%C3%A9sentation.jpg/960px-PierGiorgioFrassati-Pr%C3%A9sentation.jpg"
 searchAliases:

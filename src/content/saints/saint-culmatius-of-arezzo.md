@@ -1,7 +1,6 @@
 ---
 name: "Saint Culmatius of Arezzo"
 honorific: Saint
-title: "Saint Culmatius of Arezzo"
 summary: "Deacon. Martyred in the persecutions of Valentian I along with 53 companions whose names have not come down to us."
 deathYear: 364
 died: "364 at Arezzo, Tuscany, Italy"

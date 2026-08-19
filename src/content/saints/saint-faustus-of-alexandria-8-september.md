@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Alexandria"
 honorific: Saint
-title: "Saint Faustus of Alexandria"
 summary: "Priest. Martyred in the Diocletian."
 region: "Italy"
 feastDay:

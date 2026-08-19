@@ -1,7 +1,6 @@
 ---
 name: "Venerable María Natividad Sánchez Villoria"
 honorific: Venerable
-title: "Venerable María Natividad Sánchez Villoria"
 summary: "Poor Clare nun, joining the Order on 13 May 1923 and making her solemn profession on 1 January 1928. Venerable María spent 68 years in religious life serving as portress, sacristan, novice mistress and abbess. She slept little, and spent her nights in contemplative prayer and Euc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Natividad-Sanchez-Villoria.jpg"
 searchAliases:

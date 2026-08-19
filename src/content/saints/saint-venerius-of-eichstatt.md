@@ -1,7 +1,6 @@
 ---
 name: "Saint Venerius of Eichstätt"
 honorific: Saint
-title: "Saint Venerius of Eichstätt"
 summary: "Martyr."
 died: "in Rome, Italy"
 deathPlace: "Italy"

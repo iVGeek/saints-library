@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luciano Verdejo Acuña"
 honorific: Blessed
-title: "Blessed Luciano Verdejo Acuña"
 summary: "Married layman in the diocese of Almeria, Spain. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1938

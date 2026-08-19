@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Berenguer Moratona"
 honorific: Blessed
-title: "Blessed Lluís Berenguer Moratona"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1937

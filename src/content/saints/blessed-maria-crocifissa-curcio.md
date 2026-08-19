@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Crocifissa Curcio"
 honorific: Blessed
-title: "Blessed Maria Crocifissa Curcio"
 summary: "Seventh of ten children born to Salvatore Curcio and Concetta Franz&ograve;. During much of her life she was diabetic, and suffered from health problems related to it. A clever and out-going girl, she had only six years of school, but educated herself by reading widely in her fam"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/MC_dipinto.jpg"
 searchAliases:

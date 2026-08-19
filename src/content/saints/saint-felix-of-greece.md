@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Greece"
 honorific: Saint
-title: "Saint Felix of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

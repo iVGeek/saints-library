@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalicus of Smyrna"
 honorific: Saint
-title: "Saint Vitalicus of Smyrna"
 summary: "Bishop. Martyr. No other information has suvived."
 died: "at Smyrna (modern Izmir, Turkey)"
 deathPlace: "Turkey)"

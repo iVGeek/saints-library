@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Sordi"
 honorific: Blessed
-title: "Blessed John Sordi"
 summary: " Bishop of Mantua in 1174, replacing a bishop removed for trans Benedictine monk at the abbey of Saint Lawrence in Cremona, Italy. Abbot in 1155. Sided with the Pope against Emperor Frederick Barbarossa, and so was banished from the abbey by the emperor. Hermit near Mantua, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Sordi.jpg"
 searchAliases:

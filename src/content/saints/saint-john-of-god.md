@@ -1,7 +1,6 @@
 ---
 name: "Saint John of God"
 honorific: Saint
-title: "Saint John of God"
 summary: "Juan grew up working as a shepherd in the Castile region of Spain. He led a wild and misspent youth, and travelled over much of Europe and north Africa as a soldier in the army of Charles V, and as a mercenary. Fought through a brief period of insanity. Peddled religious books an"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/John_of_god_murillo.jpg"
 searchAliases:

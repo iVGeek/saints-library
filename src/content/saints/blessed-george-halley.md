@@ -1,7 +1,6 @@
 ---
 name: "Blessed George Halley"
 honorific: Blessed
-title: "Blessed George Halley"
 summary: "Carmelite, taking the name Angelus of Saint Joseph. One of the Irish Martyrs."
 searchAliases:
   - "Angelus of Saint Joseph"

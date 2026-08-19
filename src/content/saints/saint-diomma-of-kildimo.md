@@ -1,7 +1,6 @@
 ---
 name: "Saint Diomma of Kildimo"
 honorific: Saint
-title: "Saint Diomma of Kildimo"
 summary: "Son of Cass. Spiritual teacher of Saint Declan of Ardmore and other Irish evangelists."
 searchAliases:
   - "Diamma"

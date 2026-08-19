@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Constantinople"
 honorific: Saint
-title: "Saint Peter of Constantinople"
 summary: "One of over 300 Christians martyred together for opposing iconoclasm. No other information has survived."
 deathYear: 764
 died: "scourged, stoned and dragged to death through the streets of Constantinople in 764"

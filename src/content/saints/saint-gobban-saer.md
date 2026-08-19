@@ -1,7 +1,6 @@
 ---
 name: "Saint Gobban Saer"
 honorific: Saint
-title: "Saint Gobban Saer"
 summary: "Architect and builder of churches and related structures."
 searchAliases:
   - "Gobban the Builder"

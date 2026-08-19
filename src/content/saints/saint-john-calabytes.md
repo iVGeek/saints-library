@@ -1,7 +1,6 @@
 ---
 name: "Saint John Calabytes"
 honorific: Saint
-title: "Saint John Calabytes"
 summary: "Born wealthy. Ran away from home as a child, and became a monk at Gomon on the Bosphorus at age 12. When he finally returned home as a beggar at age 18, his family did not recognize him. However, the did recognized that he was a holy man, and the family allowed him to live as a h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Calabytes.jpg"
 searchAliases:

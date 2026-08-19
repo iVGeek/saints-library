@@ -1,7 +1,6 @@
 ---
 name: "Blessed Urbain Lefebvre"
 honorific: Blessed
-title: "Blessed Urbain Lefebvre"
 summary: "Priest. Member of the Paris Foreign Missions Society. One of the Martyrs of September."
 birthYear: 1725
 deathYear: 1792

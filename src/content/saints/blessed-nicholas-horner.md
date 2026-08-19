@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicholas Horner"
 honorific: Blessed
-title: "Blessed Nicholas Horner"
 summary: "Lifelong layman and a tailor by trade. An informal but enthusiastic evangelist for Catholicism. While in London, England seeking treatment for a leg wound, he was imprisoned in Newgate for the crime of harbouring priests; the chains and lack of medical care led to amputation of t"
 deathYear: 1590
 died: "hanged, drawn and quartered on 4 March 1590 in front of his home on Fetter Lane, Smithfield, London, England"

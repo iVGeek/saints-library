@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Africa"
 honorific: Saint
-title: "Saint Felix of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "Africa"
 feastDay:

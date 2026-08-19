@@ -1,7 +1,6 @@
 ---
 name: "Saint Domnina of Antioch"
 honorific: Saint
-title: "Saint Domnina of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"

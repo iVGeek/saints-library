@@ -1,7 +1,6 @@
 ---
 name: "Saint Audactus of Thibiuca"
 honorific: Saint
-title: "Saint Audactus of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Adauctus"

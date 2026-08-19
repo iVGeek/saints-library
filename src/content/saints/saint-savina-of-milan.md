@@ -1,7 +1,6 @@
 ---
 name: "Saint Savina of Milan"
 honorific: Saint
-title: "Saint Savina of Milan"
 summary: "Martyred for ministering to Christian prisoners and for burying martyrs during the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/9893_-_Milano_-_Sant%27Ambrogio_-_Cappella_S._Savina_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg/960px-9893_-_Milano_-_Sant%27Ambrogio_-_Cappella_S._Savina_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg"
 searchAliases:

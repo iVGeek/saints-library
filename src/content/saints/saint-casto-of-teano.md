@@ -1,7 +1,6 @@
 ---
 name: "Saint Casto of Teano"
 honorific: Saint
-title: "Saint Casto of Teano"
 summary: "Bishop of Teano, Italy."
 region: "Italy"
 feastDay:

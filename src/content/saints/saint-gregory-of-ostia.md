@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Ostia"
 honorific: Saint
-title: "Saint Gregory of Ostia"
 summary: "Benedictine monk. Priest. Abbot of the monastery of Saints Cosma e Damiano ad Micam auream, Rome, Italy. Chosen Cardinal-Bishop of Ostia, Italy and Vatican librarian c.1034 by Pope Benedict IX. Papal legate to the kingdoms of Spanish Navarre and Old Castile. Reported miracle work"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-of-Ostia-1.jpg"
 searchAliases:

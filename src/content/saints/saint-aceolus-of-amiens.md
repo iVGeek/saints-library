@@ -1,7 +1,6 @@
 ---
 name: "Saint Aceolus of Amiens"
 honorific: Saint
-title: "Saint Aceolus of Amiens"
 summary: "Sub-deacon who was studying for the priesthood when he was arrested and martyred as part of the persecutions of Emperor Diocletian."
 searchAliases:
   - "Acheul"

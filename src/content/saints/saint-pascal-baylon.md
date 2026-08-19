@@ -1,7 +1,6 @@
 ---
 name: "Saint Pascal Baylon"
 honorific: Saint
-title: "Saint Pascal Baylon"
 summary: "Son of the pious peasants Martin Baylon and Elizabeth Jubera. From youth he displayed great devotion to the Eucharist. Worked as a shepherd from ages 7 to 24, and was a good influence on his shepherd friends, an often rowdy group. Franciscan lay brother with friars of the Alcanta"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pascal-Baylon.jpg"
 searchAliases:

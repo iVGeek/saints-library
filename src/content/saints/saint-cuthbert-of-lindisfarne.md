@@ -1,7 +1,6 @@
 ---
 name: "Saint Cuthbert of Lindisfarne"
 honorific: Saint
-title: "Saint Cuthbert of Lindisfarne"
 summary: "Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan. Guest-master at Melrose where he was know for his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cuthbert-of-Lindisfarne.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Worad of Saint Bertin"
 honorific: Saint
-title: "Saint Worad of Saint Bertin"
 summary: "Deacon at Saint Bertin Abbey. Murdered by invading Danes. Martyr."
 deathYear: 862
 died: "862"

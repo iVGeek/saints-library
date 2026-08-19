@@ -2,7 +2,6 @@
 name: "Blessed Àngel Presta Batllé"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colls_y_punys_-_com%C3%A8dia_catalana_en_un_acte_y_en_vers_%28IA_collsypunyscomed3612molg%29.pdf/page1-500px-Colls_y_punys_-_com%C3%A8dia_catalana_en_un_acte_y_en_vers_%28IA_collsypunyscomed3612molg%29.pdf.jpg"
 honorific: Blessed
-title: "Blessed Àngel Presta Batllé"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Àngel Maria"

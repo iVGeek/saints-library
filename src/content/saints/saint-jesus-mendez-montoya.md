@@ -1,7 +1,6 @@
 ---
 name: "Saint Jesús Méndez-Montoya"
 honorific: Venerable
-title: "Saint Jesús Méndez-Montoya"
 summary: "Priest in the diocese of Morelia, Mexico. During the persecutions of the Mexican Revolution, he hid in the villages of the peasants, living with the poorest, teaching catechism. Musician and music teacher. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jesús-Méndez-Montoya.jpg"
 searchAliases:

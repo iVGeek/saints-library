@@ -1,7 +1,6 @@
 ---
 name: "Venerable Lúcia dos Santos"
 honorific: Venerable
-title: "Venerable Lúcia dos Santos"
 summary: "A cousin of Francesco and Jacinta Marta, Lucia was one of the child visionaries of Fatima. Discalced Carmelite nun at Coimbra, Portugal."
 image: "http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/sister-lucia-dos-santos.jpg"
 searchAliases:

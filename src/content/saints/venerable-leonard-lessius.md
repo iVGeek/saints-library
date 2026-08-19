@@ -1,7 +1,6 @@
 ---
 name: "Venerable Leonard Lessius"
 honorific: Venerable
-title: "Venerable Leonard Lessius"
 summary: "Earned his doctorate of philosophy at Louvain, Belgium at age 17. Joined the Society of Jesus in 1573. Studied theology in Rome, Italy. Professor of theology in Louvain for 15 years. Noted for his intelligence and his piety. Wrote several theological, apologetic and other related"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Leonard-Lessius.jpg"
 birthYear: 1554

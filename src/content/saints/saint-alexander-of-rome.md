@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Saint Alexander of Rome"
 summary: "Priest in Rome, Italy. Imprisoned, tortured and martyred with Saint Theodulus of Rome and Saint Eventius of Rome."
 deathYear: 113
 died: "burned and beheaded c.113 on the Via Nomentana in Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Tertus of Gerona"
 honorific: Saint
-title: "Saint Tertus of Gerona"
 summary: "Martyr. No other details have survived."
 searchAliases:
   - "Tertius"

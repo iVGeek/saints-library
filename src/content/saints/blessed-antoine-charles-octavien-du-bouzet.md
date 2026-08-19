@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoine-Charles-Octavien du Bouzet"
 honorific: Blessed
-title: "Blessed Antoine-Charles-Octavien du Bouzet"
 summary: "Born to the French nobility, Antoine began studying at the San Sulpizius seminary in Paris, France in 1759. Priest in the diocese of Châlons, France. Canon of the cathedral of Reims, France in 1761. Vicar-general of Reims in 1771. Commendatory abbot of Our Lady of Virtue abbey in"
 birthYear: 1739
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Secundino Ortega García"
 honorific: Blessed
-title: "Blessed Secundino Ortega García"
 summary: "Joined the Claretians in 1928. Priest, ordained in Barbastro, Spain on 6 June 1936. Heard the final confession and the perpetual vows of the Claretians martyred on 12 August 1936. One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Secundino-Ortega-García.jpg"
 birthYear: 1912

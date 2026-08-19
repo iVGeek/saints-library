@@ -1,7 +1,6 @@
 ---
 name: "Saint Honoratus of Ostia"
 honorific: Saint
-title: "Saint Honoratus of Ostia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Onorato"

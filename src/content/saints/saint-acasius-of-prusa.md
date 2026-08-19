@@ -1,7 +1,6 @@
 ---
 name: "Saint Acasius of Prusa"
 honorific: Saint
-title: "Saint Acasius of Prusa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Acatius"

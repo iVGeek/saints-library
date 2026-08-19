@@ -1,7 +1,6 @@
 ---
 name: "Blessed Secondo Giovanni Pollo"
 honorific: Blessed
-title: "Blessed Secondo Giovanni Pollo"
 summary: "Educated by the Brothers of the Christian Schools, Secondo felt a call to the priesthood when he was a little boy, and entered the Vercelli, Italy diocesan junior seminary at age 11. He studied theology in Rome, Italy at the Lombard Seminary, the Pontifical Academy of Saint Thoma"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Secondo-Giovanni-Pollo.jpg"
 birthYear: 1908

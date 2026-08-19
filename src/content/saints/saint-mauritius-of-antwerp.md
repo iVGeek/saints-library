@@ -1,7 +1,6 @@
 ---
 name: "Saint Mauritius of Antwerp"
 honorific: Saint
-title: "Saint Mauritius of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Maurus"

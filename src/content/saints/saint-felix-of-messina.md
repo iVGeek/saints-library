@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Messina"
 honorific: Saint
-title: "Saint Felix of Messina"
 summary: "Sixth-century spiritual student of Saint Placidus of Messina. Bishop of Messina, Sicily, Italy."
 searchAliases:
   - "Felice"

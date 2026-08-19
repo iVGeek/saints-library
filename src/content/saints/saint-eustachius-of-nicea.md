@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustachius of Nicea"
 honorific: Saint
-title: "Saint Eustachius of Nicea"
 summary: "Martyred in the persecutions of Emperor Maximinius the Thracian."
 deathYear: 235
 died: "235 in Nicea, Asia Minor"

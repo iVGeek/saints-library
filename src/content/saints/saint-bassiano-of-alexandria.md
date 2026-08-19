@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassiano of Alexandria"
 honorific: Saint
-title: "Saint Bassiano of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Bassus"

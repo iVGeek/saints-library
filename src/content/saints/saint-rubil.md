@@ -1,7 +1,6 @@
 ---
 name: "Saint Rubil"
 honorific: Saint
-title: "Saint Rubil"
 summary: "Monk, living the monastic life for 65 years. Superior of a house of 35 monks. Because of confusion among the handwritten records from the region, we're not sure when he lived."
 searchAliases:
   - "Reuben"

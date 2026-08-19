@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Antoine-Hyacinthe Boucharenc de Chaumeils"
 honorific: Blessed
-title: "Blessed Jean-Antoine-Hyacinthe Boucharenc de Chaumeils"
 summary: "Priest of the diocese of Viviers, France. One of the Martyrs of September."
 birthYear: 1738
 deathYear: 1792

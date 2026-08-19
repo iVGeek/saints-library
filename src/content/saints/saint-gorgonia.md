@@ -1,7 +1,6 @@
 ---
 name: "Saint Gorgonia"
 honorific: Saint
-title: "Saint Gorgonia"
 summary: "Daughter of Saint Gregory of Nazianzen the Elder and Saint Nonna. Sister of Saint Gregory of Nazianzen and Saint Caesarius of Nazianzen. Married, and mother of three. Twice miraculously cured of serious maladies, one of which resulted from being trampled by a team of mules which"
 deathYear: 375
 died: "c.375 of natural causes"

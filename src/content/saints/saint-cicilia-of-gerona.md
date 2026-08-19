@@ -1,7 +1,6 @@
 ---
 name: "Saint Cicilia of Gerona"
 honorific: Saint
-title: "Saint Cicilia of Gerona"
 summary: "Martyr. No other details have survived."
 searchAliases:
   - "Caecilia"

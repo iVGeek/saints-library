@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrew Sushinda"
 honorific: Blessed
-title: "Blessed Andrew Sushinda"
 summary: "Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr."
 searchAliases:
   - "Andreas Yoshida"

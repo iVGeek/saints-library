@@ -1,7 +1,6 @@
 ---
 name: "Saint Failbhe the Little"
 honorific: Saint
-title: "Saint Failbhe the Little"
 summary: "Abbot of Iona Abbey for seven years."
 searchAliases:
   - "Failbhe of Iona"

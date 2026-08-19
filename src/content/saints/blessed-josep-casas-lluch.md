@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Casas Lluch"
 honorific: Blessed
-title: "Blessed Josep Casas Lluch"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ildefons Lluís"

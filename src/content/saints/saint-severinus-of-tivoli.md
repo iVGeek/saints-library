@@ -1,7 +1,6 @@
 ---
 name: "Saint Severinus of Tivoli"
 honorific: Saint
-title: "Saint Severinus of Tivoli"
 summary: "Benedictine monk. Hermit at Tivoli, Italy."
 deathYear: 609
 died: "609 of natural causes"

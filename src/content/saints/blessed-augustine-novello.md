@@ -1,7 +1,6 @@
 ---
 name: "Blessed Augustine Novello"
 honorific: Blessed
-title: "Blessed Augustine Novello"
 summary: "Graduated a Doctor of law in Bologna, Italy and stayed to teach. Held assorted offices in civil government. Chancellor to King Manfred of Sicily. Soldier. Badly injured and left for dead on the battlefield at Benevento, Italy during Manfred's war with Charles of Anjou. When recov"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustine-Novello.jpg"
 searchAliases:

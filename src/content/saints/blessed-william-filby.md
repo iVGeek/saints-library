@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Filby"
 honorific: Blessed
-title: "Blessed William Filby"
 summary: "Educated at Lincoln College, Oxford, England. Seminarian at Rheims, France beginning on 12 October 1579. Ordained on 25 March 1581. Soon after he returned to England to minister to covert Catholics. Arrested in July 1579 for the crime of priesthood, he was imprisoned in the Tower"
 birthYear: 1557
 deathYear: 1582

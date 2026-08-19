@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pascual Aláez Medina"
 honorific: Blessed
-title: "Blessed Pascual Aláez Medina"
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
 birthYear: 1917
 born: "11 May 1917 in Villaverde de Arcayos, León, Spain"

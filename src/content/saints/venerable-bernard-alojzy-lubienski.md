@@ -1,7 +1,6 @@
 ---
 name: "Venerable Bernard Alojzy Lubienski"
 honorific: Venerable
-title: "Venerable Bernard Alojzy Lubienski"
 summary: "Born to the nobility and related to royalty, Bernard was the second of twelve children born to Count Tomasz Wentworth Lubienski and Adelajda, née Lempicka. From the age of six, he was raised by Maria (née Lubienska) and Felix Szymanowski, pious relatives of his father. Home schoo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Bernard-Alojzy-Lubienski.jpg"
 birthYear: 1846

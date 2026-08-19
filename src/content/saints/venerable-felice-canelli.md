@@ -1,7 +1,6 @@
 ---
 name: "Venerable Felice Canelli"
 honorific: Venerable
-title: "Venerable Felice Canelli"
 summary: "Born to a very poor family, Felice early felt a call to religion, entered the minor seminary at age 12 and was ordained a priest of the diocese of San Severo, Italy on 6 June 1903. In 1905 the Salesians of Don Bosco began working in his diocese; Father Felice was drawn to their c"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Canelli.jpg"
 birthYear: 1880

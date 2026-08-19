@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Olay Colunga"
 honorific: Blessed
-title: "Blessed Manuel Olay Colunga"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1937

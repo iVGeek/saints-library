@@ -1,7 +1,6 @@
 ---
 name: "Saint Gundisalvus Garcia"
 honorific: Saint
-title: "Saint Gundisalvus Garcia"
 summary: "His father was a Portugese soldier and immigrant to India, his mother an Indian convert. Gundisalvus grew up a Christian, and served as a lay catechist, working for the Jesuits. Successful businessman in Japan and Macao. Became an Alcantarine Franciscan lay brother in Manila in t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gundisalvus-Garcia-1.jpg"
 searchAliases:

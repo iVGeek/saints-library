@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paganus of Lecco"
 honorific: Blessed
-title: "Blessed Paganus of Lecco"
 summary: "Educated in the Dominican convents in Bergamo and Rimini, Italy, Paganus was a Dominican friar for 50 years, received into the Order by Saint Dominic himself. He succeeded Saint Peter the Martyr as inquisitor general, serving in the Italian regions of Lombardy, Piedmont and Liguo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Paganus-of-Lecco.jpg"
 deathYear: 1274

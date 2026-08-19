@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eleuterio Marne Mansilla"
 honorific: Blessed
-title: "Blessed Eleuterio Marne Mansilla"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936

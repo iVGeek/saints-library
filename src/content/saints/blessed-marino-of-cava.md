@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marino of Cava"
 honorific: Blessed
-title: "Blessed Marino of Cava"
 summary: "Benedictine monk. Spiritual student of Blessed Falco of Cava. Chosen seventh abbot of the Holy Trinity monastery in Cava dei Tirreni, Campania, Italy on 9 July 1146; received a blessing for this office from Pope Eugene III, and served for 24 years. He expanded and rebuilt element"
 deathYear: 1170
 died: "15 December 1170 in Campania, Italy of natural causes"

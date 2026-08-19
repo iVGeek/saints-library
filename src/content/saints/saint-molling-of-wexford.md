@@ -1,7 +1,6 @@
 ---
 name: "Saint Molling of Wexford"
 honorific: Saint
-title: "Saint Molling of Wexford"
 summary: "Monk at Glendalough. Abbot of Aghacainid. Bishop of Ferns, Ireland, but eventually resigned to specified his latter years as a prayerful monk."
 searchAliases:
   - "Molling of Ferns"

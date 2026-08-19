@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Ahun"
 honorific: Saint
-title: "Saint Silvanus of Ahun"
 summary: "Deacon martyred by Vandals."
 searchAliases:
   - "Salvan"

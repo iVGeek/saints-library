@@ -1,7 +1,6 @@
 ---
 name: "Saint Sebastian of Agaunum"
 honorific: Saint
-title: "Saint Sebastian of Agaunum"
 summary: "Soldier. Member of the Theban Legion. To escape the persecution of Emperor Maximian, he fled from his unit to the Piedmont region of Italy, but was caught, convicted of being a Christian, and executed. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/the-theban-legion.jpg"
 deathYear: 288

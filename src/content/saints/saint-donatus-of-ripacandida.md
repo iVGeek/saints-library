@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Ripacandida"
 honorific: Saint
-title: "Saint Donatus of Ripacandida"
 summary: "Born to a poor family; named for Saint Donatus d'Arezzo. Benedictine monk at the monastery of Sant'Onofrio Massadiruta, Petina, Italy. Transferred to the Montevergine abbey in 1194. Returned to Sant'Onofrio Massadiruta in 1195 where he worked in the garden, with the farm animals,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Donatus-of-Ripacandida.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Tarskius of Alexandria"
 honorific: Saint
-title: "Saint Tarskius of Alexandria"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

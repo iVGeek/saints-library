@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugenian of Autun"
 honorific: Saint
-title: "Saint Eugenian of Autun"
 summary: "Latter 4th century bishop of Autun, France. Fierce opponent of Arianism, which led to his martyrdom."
 searchAliases:
   - "Egemoine"

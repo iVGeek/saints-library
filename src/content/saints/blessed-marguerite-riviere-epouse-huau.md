@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marguerite Rivière épouse Huau"
 honorific: Blessed
-title: "Blessed Marguerite Rivière épouse Huau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1756
 deathYear: 1794

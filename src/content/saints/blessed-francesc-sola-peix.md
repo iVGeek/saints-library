@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Solá Peix"
 honorific: Blessed
-title: "Blessed Francesc Solá Peix"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936

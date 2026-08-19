@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius of Milan"
 honorific: Saint
-title: "Saint Gaius of Milan"
 summary: "Spiritual student of Saint Barnabas the Apostle. First century bishop of Milan, Italy for 24 years. Baptized Saint Vitalis, Saint Gervase and Saint Protase."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Caius-of-Milan.jpg"
 searchAliases:

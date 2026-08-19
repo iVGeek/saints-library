@@ -1,7 +1,6 @@
 ---
 name: "Saint Molagga of Fermoy"
 honorific: Saint
-title: "Saint Molagga of Fermoy"
 summary: "Spiritual student of Saint David of Wales. Founded Fermoy monastery in Wales, and served as its first abbot."
 searchAliases:
   - "Molagga of Fulachmhin"

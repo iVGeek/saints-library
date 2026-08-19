@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of Potenza"
 honorific: Saint
-title: "Saint Fortunatus of Potenza"
 summary: "Martyred in the persecutions of Maximian."
 deathYear: 303
 died: "beheaded in 303 at Potenza, Italy"

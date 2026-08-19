@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Campania"
 honorific: Saint
-title: "Saint Juliana of Campania"
 summary: "Martyr."
 feastDay:
   month: 2

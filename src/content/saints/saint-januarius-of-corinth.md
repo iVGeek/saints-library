@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Corinth"
 honorific: Saint
-title: "Saint Januarius of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

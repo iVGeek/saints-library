@@ -1,7 +1,6 @@
 ---
 name: "Blessed Everard of Sens"
 honorific: Blessed
-title: "Blessed Everard of Sens"
 summary: "Monk at the abbey of Saint Colomba in Sens (in modern France). Archbishop of Sens, France, consecrated on 28 February 884, and serving the final 3 years of his life."
 searchAliases:
   - "Everardo"

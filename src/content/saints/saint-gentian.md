@@ -1,7 +1,6 @@
 ---
 name: "Saint Gentian"
 honorific: Saint
-title: "Saint Gentian"
 summary: "Elderly convert to Christianity. When troops arrested Saint Victoricus and Saint Fuscian, Gentian objected and was martyred on the spot."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gentien.jpg"
 searchAliases:

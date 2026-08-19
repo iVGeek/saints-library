@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Trier"
 honorific: Saint
-title: "Martyrs of Trier"
 summary: "Commemorates the large number of martyrs who died in Trier, Germany in the persecutions of Diocletian."
 deathYear: 287
 died: "287 in Trier, Germany"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Fernández Pérez"
 honorific: Blessed
-title: "Blessed Salvador Fernández Pérez"
 summary: "Baptized on the day of his birth, Salvador grew to be a Salesian priest, making his profession in Sarrià-Barcelona, Spain on 8 December 1891, and being ordained on 19 September 1896. Known as a jovial, enthusiastic man who was willing to endlessly work at his vocation. Imprisoned"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Fernandez-Perez.jpg"
 birthYear: 1870

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Milagros Ortells Gimeno"
 honorific: Blessed
-title: "Blessed Milagros Ortells Gimeno"
 summary: "Franciscan Capuchin Poor Clare nun. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

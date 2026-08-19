@@ -1,7 +1,6 @@
 ---
 name: "Saint Mica of Africa"
 honorific: Saint
-title: "Saint Mica of Africa"
 summary: "Martyr."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"

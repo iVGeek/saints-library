@@ -1,7 +1,6 @@
 ---
 name: "Saint Matrona of Ancyra"
 honorific: Saint
-title: "Saint Matrona of Ancyra"
 summary: "Nun martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)"

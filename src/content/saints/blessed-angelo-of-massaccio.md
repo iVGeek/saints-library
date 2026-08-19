@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelo of Massaccio"
 honorific: Blessed
-title: "Blessed Angelo of Massaccio"
 summary: "Camaldolese monk at the Santa Maria della Serra monastery near Cupramontana, Italy. Prior of his house. Priest. Martyr by Berlotani heretic wood cutters when he chastised them for ignoring the Sabbath."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angelo-of-Massaccio.jpg"
 searchAliases:

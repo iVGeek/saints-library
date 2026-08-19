@@ -1,7 +1,6 @@
 ---
 name: "Saint Risinnius of North Africa"
 honorific: Saint
-title: "Saint Risinnius of North Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3

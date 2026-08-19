@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan of Cetina"
 honorific: Blessed
-title: "Blessed Juan of Cetina"
 summary: "Franciscan. Missionary with Blessed Peter de Dueñas to the Moors in Granada, Spain. Martyr."
 deathYear: 1397
 born: "Spain"

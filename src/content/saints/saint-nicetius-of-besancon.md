@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicetius of Besançon"
 honorific: Saint
-title: "Saint Nicetius of Besançon"
 summary: "Bishop of Besançon, France. Friend of Saint Columbanus of Luxeuil."
 searchAliases:
   - "Niceto"

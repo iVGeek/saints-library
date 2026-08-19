@@ -1,7 +1,6 @@
 ---
 name: "Saint Macedonius of Meros"
 honorific: Saint
-title: "Saint Macedonius of Meros"
 summary: "Tortured and martyred in the persecutions of emperor Julian the Apostate and governor Almachio."
 searchAliases:
   - "Macedonio"

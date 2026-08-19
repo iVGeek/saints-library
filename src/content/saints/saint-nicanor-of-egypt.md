@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicanor of Egypt"
 honorific: Saint
-title: "Saint Nicanor of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Nicandro"

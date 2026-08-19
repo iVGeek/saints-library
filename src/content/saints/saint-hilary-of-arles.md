@@ -1,7 +1,6 @@
 ---
 name: "Saint Hilary of Arles"
 honorific: Saint
-title: "Saint Hilary of Arles"
 summary: "Born and raised a pagan; relative of Saint Honoratus of Arles. Highly placed civil authority. Honoratus invited Hilary to the recently completed abbey of Lerins, and brought him to the faith; Hilary was baptised at Lerins, and joined the community as a monk. When Honoratus became"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Hilari14.jpg"
 searchAliases:

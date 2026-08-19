@@ -1,7 +1,6 @@
 ---
 name: "Blessed Belarmina Pérez Martínez"
 honorific: Blessed
-title: "Blessed Belarmina Pérez Martínez"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 searchAliases:

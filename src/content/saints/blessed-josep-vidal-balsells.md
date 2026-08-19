@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Vidal Balsells"
 honorific: Blessed
-title: "Blessed Josep Vidal Balsells"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936

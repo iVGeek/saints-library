@@ -1,7 +1,6 @@
 ---
 name: "Saint Quirinus of Vilcassin"
 honorific: Saint
-title: "Saint Quirinus of Vilcassin"
 summary: "Martyr."
 died: "Vexin Lugdunense territory of Gaul (modern Vilcassin, France)"
 deathPlace: "France)"

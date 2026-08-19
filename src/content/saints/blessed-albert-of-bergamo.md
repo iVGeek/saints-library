@@ -1,7 +1,6 @@
 ---
 name: "Blessed Albert of Bergamo"
 honorific: Blessed
-title: "Blessed Albert of Bergamo"
 summary: "Born to a modest but pious farm family. Married layman. Farmer in Villa d'Ogna, Italy. Dominican tertiary. Known for his ministry and devotion to the poor. Pilgrim to Rome, Italy, to Jerusalem and to Compostela, Spain. Settled finally in Cremona, Italy. Known as a miracle worker."
 image: "http://catholicsaints.info/wp-content/gallery/blessed-albert-of-bergamo/blessed-alberto-da-bergamo.jpg"
 searchAliases:

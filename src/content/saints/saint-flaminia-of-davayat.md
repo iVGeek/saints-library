@@ -1,7 +1,6 @@
 ---
 name: "Saint Flaminia of Davayat"
 honorific: Saint
-title: "Saint Flaminia of Davayat"
 summary: "Martyr."
 searchAliases:
   - "Flamina"

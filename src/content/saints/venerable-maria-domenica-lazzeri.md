@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Domenica Lazzeri"
 honorific: Venerable
-title: "Venerable Maria Domenica Lazzeri"
 summary: "Lifelong lay woman in the archdiocese of Trent, Italy who received the stigmata, and spent the last 14 years of her life in bed, never eating or drinking except for Communion. Every Friday during that period, she would bleed from the wounds on her hands, feet, side and 40+ holes"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Maria_Domenica_Lazzari%2C_a_girl_who_received_the_stigmata._Co_Wellcome_V0007062.jpg/960px-Maria_Domenica_Lazzari%2C_a_girl_who_received_the_stigmata._Co_Wellcome_V0007062.jpg"
 searchAliases:

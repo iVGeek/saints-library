@@ -1,7 +1,6 @@
 ---
 name: "Saint Dion of Greece"
 honorific: Saint
-title: "Saint Dion of Greece"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Dionysius"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Numidia"
 honorific: Saint
-title: "Saint Julius of Numidia"
 summary: "Second century martyr."
 died: "in Numidia in North Africa"
 region: "Africa"

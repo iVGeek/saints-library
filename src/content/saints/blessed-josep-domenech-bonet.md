@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Domènech Bonet"
 honorific: Blessed
-title: "Blessed Josep Domènech Bonet"
 summary: "Born to a pious peasant family, Josep was baptized at the age of five days, and made his First Communion at age 11. He joined the Capuchin Franciscan Friars Minor in 1909, making his solemn profession on 23 February 1913. After studies in Barcelona, he was ordained a priest on 29"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Domènech-Bonet.jpg"
 searchAliases:

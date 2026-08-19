@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tommaso Maria Fusco"
 honorific: Blessed
-title: "Blessed Tommaso Maria Fusco"
 summary: "Son of Dr Antonio Fusco, a pharmacist, and Stella Giordano, an Italian noble; seventh of eight children in a pious family. His mother died of cholera in 1837 when Tommaso was six, his father in 1841 when the boy was ten, and he was educated by his fraternal uncle Giuseppe, a prie"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Beato_Tommaso_Maria_Fusco.jpg"
 searchAliases:

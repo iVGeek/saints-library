@@ -1,7 +1,6 @@
 ---
 name: "Saint Francis Serrano"
 honorific: Venerable
-title: "Saint Francis Serrano"
 summary: "Dominican priest. Missionary to Fujian, China; worked with Saint John Alcober. Imprisoned with Saint Pere Sans Jorda in 1746 for their work spreading the faith. Chosen titular bishop of Tipasa while in prison. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Francisco_serrano_de_frias.jpg"
 searchAliases:

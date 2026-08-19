@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claudius Gabriel Faber"
 honorific: Blessed
-title: "Blessed Claudius Gabriel Faber"
 summary: "Minim monk. Prior of his house. Martyred by heretics."
 deathYear: 1575
 died: "1575 in Lunel, France"

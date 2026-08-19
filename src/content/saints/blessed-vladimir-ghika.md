@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vladimir Ghika"
 honorific: Blessed
-title: "Blessed Vladimir Ghika"
 summary: "Born a Romanian prince, grandson of the last ruler of Moldavia, Prince Gregory V. Studied in Toulouse, France, at the University of Paris, in Romania, and at the Dominican university in Rome, Italy. Established the first free hospital in Romania, and the country's first ambulance"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Vladimir_Ghika_2018_stamp_of_Romania.jpg"
 searchAliases:

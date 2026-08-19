@@ -1,7 +1,6 @@
 ---
 name: "Venerable Enrico Beretta"
 honorific: Venerable
-title: "Venerable Enrico Beretta"
 summary: "The seventh of thirteen children born to Alberto and Maria Beretta, Enrico was raised in a pious family - one sister is Saint Gianna Beretta Molla, another a Canossian missionary, and a brother was a priest who served in the Roman Curia. Enrico graduated with a medical degree in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Father-Enrico-Beretta.jpg"
 searchAliases:

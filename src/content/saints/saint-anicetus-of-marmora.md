@@ -1,7 +1,6 @@
 ---
 name: "Saint Anicetus of Marmora"
 honorific: Saint
-title: "Saint Anicetus of Marmora"
 summary: "Tortured and martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anicetus-of-Marmora.jpg"
 deathYear: 304

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marie de Saint Just"
 honorific: Venerable
-title: "Saint Marie de Saint Just"
 summary: "Daughter of a wealthy farmer known for his charity. A sensitive child, she retreated to silence and solitude. Her father died when Anne was still young, and she soon helped support the family by selling the farm produce in town. When Anne was in her early 20's she felt a call to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marie-de-Saint-Just.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro of Ávila"
 honorific: Blessed
-title: "Blessed Pedro of Ávila"
 summary: "Franciscan Friars Minor (Alcantarines) priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1591

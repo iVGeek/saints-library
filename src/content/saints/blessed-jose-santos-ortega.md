@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Santos Ortega"
 honorific: Blessed
-title: "Blessed José Santos Ortega"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936

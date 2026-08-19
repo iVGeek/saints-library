@@ -1,7 +1,6 @@
 ---
 name: "Saint Eberhard of Einsiedeln"
 honorific: Saint
-title: "Saint Eberhard of Einsiedeln"
 summary: "Provost of the cathedral of Strasbourg (on the modern France and German border. In 934 he retired to live as a hermit in the Black Forest for several years. In the mid-940's, he and several other area hermits joined together as a Benedictine house. On 27 October 947, King Otto I"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eberhard-of-Einsiedeln.jpg"
 searchAliases:

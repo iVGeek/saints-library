@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santiago Franco Mayo"
 honorific: Blessed
-title: "Blessed Santiago Franco Mayo"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

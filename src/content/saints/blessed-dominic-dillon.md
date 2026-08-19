@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dominic Dillon"
 honorific: Blessed
-title: "Blessed Dominic Dillon"
 summary: "Dominican priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"

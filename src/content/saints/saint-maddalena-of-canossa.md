@@ -1,7 +1,6 @@
 ---
 name: "Saint Maddalena of Canossa"
 honorific: Venerable
-title: "Saint Maddalena of Canossa"
 summary: "One of five children born to a wealthy and famous family, her father died and mother abandoned them all to a governess when Maddalen was five years old. Nun, studying in the Carmel of Trent, Italy and then Conegliano, Italy. Developed a ministery to the poor in Verona, Italy base"
 image: "http://catholicsaints.info/wp-content/uploads/Magdalena-Gabriela-Canossa.jpg"
 searchAliases:

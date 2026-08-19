@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulina"
 honorific: Saint
-title: "Saint Paulina"
 summary: "Roman martyr under Valerian."
 deathYear: 258
 died: "tortured to death c.258"

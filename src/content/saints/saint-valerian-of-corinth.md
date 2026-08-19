@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerian of Corinth"
 honorific: Saint
-title: "Saint Valerian of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

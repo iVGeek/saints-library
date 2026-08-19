@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Alberich Lluch"
 honorific: Blessed
-title: "Blessed José Alberich Lluch"
 summary: "Discalced Carmelite friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother José Cecilio Of Jesus Mary"

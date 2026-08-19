@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isabel Lacaba Andia"
 honorific: Blessed
-title: "Blessed Isabel Lacaba Andia"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María del Carmen"

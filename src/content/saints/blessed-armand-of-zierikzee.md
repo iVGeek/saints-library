@@ -1,7 +1,6 @@
 ---
 name: "Blessed Armand of Zierikzee"
 honorific: Blessed
-title: "Blessed Armand of Zierikzee"
 summary: "Franciscan friar who used his knowledge of Greek, Hebrew and Chaldean languages to become and influential Bible scholar and teacher. Franciscan provincial of Cologne, Germany in the early 16th century. In 1506 he retired from administrative work to live at the Franciscan house in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Armando-of-Zierikzee.jpg"
 deathYear: 1524

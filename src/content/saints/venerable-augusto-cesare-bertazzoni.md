@@ -1,7 +1,6 @@
 ---
 name: "Venerable Augusto Cesare Bertazzoni"
 honorific: Venerable
-title: "Venerable Augusto Cesare Bertazzoni"
 summary: "Educated by the Salesians of Don Bosco, Augusto was one of the many boys mentored by Saint John Bosco, himself. Friend of Saint Luigi Orione, Saint Giovanni Calabria and the future Pope Pius X. Ordained a priest on 23 February 1899, he served in the parish at San Benedetto Po, It"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Augusto-Cesare-Bertazzoni.jpg"
 birthYear: 1876

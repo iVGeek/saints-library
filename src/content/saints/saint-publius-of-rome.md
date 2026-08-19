@@ -1,7 +1,6 @@
 ---
 name: "Saint Publius of Rome"
 honorific: Saint
-title: "Saint Publius of Rome"
 summary: "Two Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

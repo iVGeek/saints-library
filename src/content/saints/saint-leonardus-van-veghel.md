@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonardus van Veghel"
 honorific: Saint
-title: "Saint Leonardus van Veghel"
 summary: "Priest of the diocese of Utrecht, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Leonardus-van-Veghel.jpg"
 searchAliases:

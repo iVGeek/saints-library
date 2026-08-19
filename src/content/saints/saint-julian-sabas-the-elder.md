@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian Sabas the Elder"
 honorific: Saint
-title: "Saint Julian Sabas the Elder"
 summary: "Hermit in a cave in Mesopotamia on the banks of the Euphrates near Edessa, and then on Mount Sinai. Legend says he ate only once a week. Ministered to and encourged Christians persecuted by Julian the Apostate. Enemies proclaimed that Julian was a follower of Arianism. He travell"
 searchAliases:
   - "Julian the Ascetic"

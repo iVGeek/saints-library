@@ -1,7 +1,6 @@
 ---
 name: "Saint Metunus of Thessalonica"
 honorific: Saint
-title: "Saint Metunus of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

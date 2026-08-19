@@ -1,7 +1,6 @@
 ---
 name: "Saint Leobatius of Sennevières"
 honorific: Saint
-title: "Saint Leobatius of Sennevières"
 summary: "May have lived as a hermit in the Cahors region, fleeing, as many did, during the invasion of Arian Goths and Burgundians, but records are unclear. Late 5th and early 6th century monk and spiritual student of Saint Ursus of Loches. First abbot of Sennevières in Touraine (in moder"
 searchAliases:
   - "Leobacius"

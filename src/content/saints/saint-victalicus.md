@@ -1,7 +1,6 @@
 ---
 name: "Saint Victalicus"
 honorific: Saint
-title: "Saint Victalicus"
 summary: "Child martyr."
 died: "martyred in Ancyra, Galatia (in modern Turkey)"
 deathPlace: "Galatia (modern Turkey)"

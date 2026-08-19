@@ -1,7 +1,6 @@
 ---
 name: "Blessed Patricio Gellida Llorach"
 honorific: Blessed
-title: "Blessed Patricio Gellida Llorach"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Rafaél José"

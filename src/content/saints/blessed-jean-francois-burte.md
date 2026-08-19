@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-François Burté"
 honorific: Blessed
-title: "Blessed Jean-François Burté"
 summary: "Franciscan Conventuals priest. Teacher. One of the Martyrs of September."
 birthYear: 1740
 deathYear: 1792

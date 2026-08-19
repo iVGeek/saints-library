@@ -1,7 +1,6 @@
 ---
 name: "Saint Maonacan of Athleague"
 honorific: Saint
-title: "Saint Maonacan of Athleague"
 summary: "Founded a church in Athleague, County Roscommon, Ireland, helping to spread the faith in its early days on the island."
 searchAliases:
   - "Maenucan"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicenç Queralt Lloret"
 honorific: Blessed
-title: "Blessed Vicenç Queralt Lloret"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

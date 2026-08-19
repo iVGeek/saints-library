@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Hashimoto"
 honorific: Blessed
-title: "Blessed Petrus Hashimoto"
 summary: "Son of Blessed Ioannes Hashimoto Tahyoe and Blessed Thecla Hashimoto. One of the Martyrs of Kyoto."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg"
 birthYear: 1613

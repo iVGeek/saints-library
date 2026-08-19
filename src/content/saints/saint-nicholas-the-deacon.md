@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicholas the Deacon"
 honorific: Saint
-title: "Saint Nicholas the Deacon"
 summary: "Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr."
 searchAliases:
   - "Nicholas of Antioch"

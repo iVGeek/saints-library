@@ -1,7 +1,6 @@
 ---
 name: "Blessed Anne Pelras"
 honorific: Blessed
-title: "Blessed Anne Pelras"
 summary: "Carmelite nun, professed on 22 October 1786. Sang in the convent choir. One of the Carmelite Martyrs of Compiegne."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:

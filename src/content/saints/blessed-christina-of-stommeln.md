@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christina of Stommeln"
 honorific: Blessed
-title: "Blessed Christina of Stommeln"
 summary: "Born to wealthy farmers Heinrich and Hilla Bruso. Though she learned to read, Christina could not write. At the age of five she received a vision of Jesus, and at age ten believed that she became a bride of Christ. When she was 12, the girl's parents arranged a marriage for her,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christina-of-Stommeln.jpg"
 searchAliases:

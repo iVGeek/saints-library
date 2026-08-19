@@ -1,7 +1,6 @@
 ---
 name: "Saint Bassus of Lucera"
 honorific: Saint
-title: "Saint Bassus of Lucera"
 summary: "First bishop of Lucera, Italy; tradition says that he was consecrated by Saint Peter the Apostle. Martyred in the persecutions of Trajan."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cattedrale_di_Termoli_particolare.JPG/960px-Cattedrale_di_Termoli_particolare.JPG"
 searchAliases:

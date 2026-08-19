@@ -1,7 +1,6 @@
 ---
 name: "Venerable Rafaela Veintemilla Villacís"
 honorific: Venerable
-title: "Venerable Rafaela Veintemilla Villacís"
 summary: "Founder of the Congregation of the Augustinian Daughters of the Most Holy Redeemer."
 searchAliases:
   - "Rafaela of the Passion"

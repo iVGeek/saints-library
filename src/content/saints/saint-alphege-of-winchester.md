@@ -1,7 +1,6 @@
 ---
 name: "Saint Alphege of Winchester"
 honorific: Saint
-title: "Saint Alphege of Winchester"
 summary: "Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk, anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in 984. Built several churches, installed a cathedra"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphege-of-Winchester.jpg"
 searchAliases:

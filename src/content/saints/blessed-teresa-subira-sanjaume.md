@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teresa Subirà Sanjaume"
 honorific: Blessed
-title: "Blessed Teresa Subirà Sanjaume"
 summary: "Teresa grew up in a farming village in the Pyrenees, and helped out as a shepherdess. Member of the Carmelite Missionaries. Superior of the house at Vilarrodona, Spain. Martyred by Communist militia in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Subira-Sanjaume.jpg"
 searchAliases:

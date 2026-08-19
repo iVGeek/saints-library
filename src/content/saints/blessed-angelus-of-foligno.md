@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelus of Foligno"
 honorific: Blessed
-title: "Blessed Angelus of Foligno"
 summary: "Born to the Italian nobility. Augustinian hermit at the age of 20. Friend of Saint Nicholas of Tolentino and Saint Hugolinus of Gualdo Cattaneo. Helped found three Augustinian monasteries."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelus-of-Foligno.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Lobato Pérez"
 honorific: Blessed
-title: "Blessed Rafael Lobato Pérez"
 summary: "Lifelong layman of the archdiocese of Seville, Spain. He worked as a carpenter, and assisted the ministry of his brother, Blessed Salvador Lobato Pérez. Imprisoned and murdered with his brother in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

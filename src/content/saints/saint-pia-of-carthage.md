@@ -1,7 +1,6 @@
 ---
 name: "Saint Pia of Carthage"
 honorific: Saint
-title: "Saint Pia of Carthage"
 summary: "One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them."
 searchAliases:
   - "Picaria"

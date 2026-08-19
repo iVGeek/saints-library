@@ -1,7 +1,6 @@
 ---
 name: "Saint Jarlath of Tuam"
 honorific: Saint
-title: "Saint Jarlath of Tuam"
 summary: "Born to the Irish nobility. Studied under Saint Benignus. Priest. Founded a monastery and college at Cluain Fois outside Tuam, Galway, Ireland, and is considered the founder of the diocese. The school attracted scholars from all over Ireland, including Saint Brendan of Ardfert an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jarlath-of-Tuam1.jpg"
 searchAliases:

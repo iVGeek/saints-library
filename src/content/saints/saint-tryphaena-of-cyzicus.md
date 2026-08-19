@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphaena of Cyzicus"
 honorific: Saint
-title: "Saint Tryphaena of Cyzicus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Triphenes"

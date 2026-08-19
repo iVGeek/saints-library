@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Ferrer Cardet"
 honorific: Blessed
-title: "Blessed Salvador Ferrer Cardet"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Laureano María of Burriana"

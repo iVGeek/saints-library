@@ -1,7 +1,6 @@
 ---
 name: "Blessed François d'Oudinot de la Boissière"
 honorific: Blessed
-title: "Blessed François d'Oudinot de la Boissière"
 summary: "Priest in the diocese of Limoges, France. Martyred in the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1746

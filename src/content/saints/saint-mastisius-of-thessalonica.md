@@ -1,7 +1,6 @@
 ---
 name: "Saint Mastisius of Thessalonica"
 honorific: Saint
-title: "Saint Mastisius of Thessalonica"
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 searchAliases:
   - "Mars"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Polyenus of Prusa"
 honorific: Saint
-title: "Saint Polyenus of Prusa"
 summary: "Martyr. No other information has survived."
 died: "Prusa, Bithynia (in the northwest of modern Turkey)"
 deathPlace: "Bithynia (the northwest of modern Turkey)"

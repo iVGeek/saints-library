@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste Nativelle"
 honorific: Blessed
-title: "Blessed Jean-Baptiste Nativelle"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1749
 deathYear: 1792

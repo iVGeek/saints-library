@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cipriano González Millán"
 honorific: Blessed
-title: "Blessed Cipriano González Millán"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cipriano-González-Millán.jpg"
 searchAliases:

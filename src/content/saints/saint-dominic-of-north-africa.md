@@ -1,7 +1,6 @@
 ---
 name: "Saint Dominic of North Africa"
 honorific: Saint
-title: "Saint Dominic of North Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Jiménez Salado"
 honorific: Blessed
-title: "Blessed Manuel Jiménez Salado"
 summary: "Joined the Hospitallers of Saint John of God on 4 September 1935. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
 birthYear: 1907
 deathYear: 1936

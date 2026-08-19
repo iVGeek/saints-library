@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Pinilla Ibáñez"
 honorific: Blessed
-title: "Blessed Vicente Pinilla Ibáñez"
 summary: "Priest. Member of the Augustinian Recollects. Missionary to the Philippines. When anti-Christian persecutions began in the islands, he was transferred to Brazil, and later to Motril, Spain. Had a devotion to Our Lady of Consolation, was dedicated to hearing confessions, and loved"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Pinilla-Ibáñez.jpg"
 searchAliases:

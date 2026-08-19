@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel of Ungrispach"
 honorific: Blessed
-title: "Blessed Daniel of Ungrispach"
 summary: " Though he travelled in wordly circles, Dan Born to the Carinthian nobility, Daniele became a wealthy fabric merchant. Married to Orsina Ricchieri, the two had a daughter named Lucia. Daniel became a judge, and throughout his life he worked in politics and served in civil offices."
 searchAliases:
   - "Daniele"

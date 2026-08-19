@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Ronci"
 honorific: Blessed
-title: "Blessed Francis Ronci"
 summary: "Member of the  Holy Spirit Community of Maiella (Celestines). Spiritual student of Saint Peter Celestine. Priest. Assisted Saint Peter at the hermitages of Orfente and Morrone. Prior of the Celestine monastery of the Holy Spirit in Maiella, Italy in 1285. First general of the Cel"
 searchAliases:
   - "Francesco"

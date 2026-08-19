@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Vives Coll"
 honorific: Blessed
-title: "Blessed Pere Vives Coll"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

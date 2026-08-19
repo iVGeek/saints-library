@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantine of Carthage"
 honorific: Saint
-title: "Saint Constantine of Carthage"
 summary: "Confessor of the faith at Carthage. No other information has survived."
 region: "Italy"
 feastDay:

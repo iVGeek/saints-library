@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamillus of North Africa"
 honorific: Saint
-title: "Saint Mamillus of North Africa"
 summary: "Martyred in North Africa."
 region: "Africa"
 feastDay:

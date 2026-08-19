@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dorotea Llamanzares Fernández"
 honorific: Blessed
-title: "Blessed Dorotea Llamanzares Fernández"
 summary: "Nun of the Congregation of Franciscan Missionaries of the Divine Motherhood. Martyred in the Spanish Civil War."
 searchAliases:
   - "Gertrudis"

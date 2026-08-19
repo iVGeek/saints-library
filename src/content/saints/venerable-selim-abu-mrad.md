@@ -1,7 +1,6 @@
 ---
 name: "Venerable Sélim Abu Mrad"
 honorific: Venerable
-title: "Venerable Sélim Abu Mrad"
 summary: "Basilian Salvatorians of the Melkites priest."
 searchAliases:
   - "Béchara Abou-Mourad"

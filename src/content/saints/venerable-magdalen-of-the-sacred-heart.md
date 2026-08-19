@@ -1,7 +1,6 @@
 ---
 name: "Venerable Magdalen of the Sacred Heart"
 honorific: Venerable
-title: "Venerable Magdalen of the Sacred Heart"
 summary: "Daughter of an Anglican clergyman. Volunteer nurse in the Crimean War. Convert to Catholicism in 1855. Founded the Poor Servants of the Mother of God in 1872. Nun. Worked in the slums of central London, England. Set up shelters for prostitutes and homeless women and children. Fou"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Magdalen-of-the-Sacred-Heart.jpg"
 searchAliases:

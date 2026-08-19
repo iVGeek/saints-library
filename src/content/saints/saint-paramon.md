@@ -1,7 +1,6 @@
 ---
 name: "Saint Paramon"
 honorific: Saint
-title: "Saint Paramon"
 summary: "One of a group of 375 martyrs who died together in the persecutions of Decius. The names of the others have not come down to us."
 deathYear: 250
 died: "250"

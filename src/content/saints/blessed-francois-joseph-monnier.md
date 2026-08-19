@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-Joseph Monnier"
 honorific: Blessed
-title: "Blessed François-Joseph Monnier"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1763
 deathYear: 1792

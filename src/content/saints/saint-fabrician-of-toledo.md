@@ -1,7 +1,6 @@
 ---
 name: "Saint Fabrician of Toledo"
 honorific: Saint
-title: "Saint Fabrician of Toledo"
 summary: "Martyr."
 searchAliases:
   - "Fabricianus"

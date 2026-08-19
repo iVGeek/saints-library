@@ -1,7 +1,6 @@
 ---
 name: "Saint Servilian"
 honorific: Saint
-title: "Saint Servilian"
 summary: "Converted by the prayers of Saint Flavia Domitilla. Martyred in the persecutions of Trajan."
 deathYear: 117
 died: "beheaded c.117 at the 2nd mile marker on the Via Latina outside Rome, Italy"

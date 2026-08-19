@@ -1,7 +1,6 @@
 ---
 name: "Saint Simon Qin Chunfu"
 honorific: Venerable
-title: "Saint Simon Qin Chunfu"
 summary: "Son of Saint Elisabeth Qin Bianshi Elisabeth in the apostolic vicariate of Southeastern Zhili, China. Martyred as a teenager in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 birthYear: 1886

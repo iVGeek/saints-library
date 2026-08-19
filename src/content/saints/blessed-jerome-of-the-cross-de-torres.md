@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerome of the Cross de Torres"
 honorific: Blessed
-title: "Blessed Jerome of the Cross de Torres"
 summary: "Educated at Arima, Japan. Franciscan tertiary. Ordained at Manila, Philippines. Parish priest in Japan from 1628. Arrested for his faith in 1631. Martyr."
 searchAliases:
   - "Hieronymus Iyo"

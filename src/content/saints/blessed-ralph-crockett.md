@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ralph Crockett"
 honorific: Blessed
-title: "Blessed Ralph Crockett"
 summary: "Educated at Christ College, University of Cambridge and at Glouscester Hall at the University of Oxford in England. Taught at Tibnam in Norfolk, England, and then at Littlehampton in Sussex, England. He studied for the priesthood at the seminary at Reims, France, and was ordained"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Blessed-ralph-crockett.png"
 searchAliases:

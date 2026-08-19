@@ -1,7 +1,6 @@
 ---
 name: "Saint Adalbero of Metz"
 honorific: Saint
-title: "Saint Adalbero of Metz"
 summary: "Born to the nobility. Studied at Gorze Abbey. Benedictine monk. Bishop of Verdun, France in 984, and bishop of Metz, 984 later that same year. Founded several Cluniac monasteries in his diocese, and helped in the revitalization of Gorze."
 searchAliases:
   - "Adalbero of Verdun"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Savinianus of North Africa"
 honorific: Saint
-title: "Saint Savinianus of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Sabianianus"

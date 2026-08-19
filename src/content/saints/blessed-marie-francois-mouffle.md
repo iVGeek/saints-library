@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-François Mouffle"
 honorific: Blessed
-title: "Blessed Marie-François Mouffle"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792

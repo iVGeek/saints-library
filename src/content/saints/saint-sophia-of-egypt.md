@@ -1,7 +1,6 @@
 ---
 name: "Saint Sophia of Egypt"
 honorific: Saint
-title: "Saint Sophia of Egypt"
 summary: "Martyr."
 deathYear: 200
 died: "beheaded c.200 in Egypt"

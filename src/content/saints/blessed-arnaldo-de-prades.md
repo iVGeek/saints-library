@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnaldo de Prades"
 honorific: Blessed
-title: "Blessed Arnaldo de Prades"
 summary: "Arnaldo worked as a barber, but felt a call to religious life. Mercedarian friar, joining during the early years of the Order. Noted preacher and evangelist. Ransomed many Christians from slavery in Muslim-held lands. Present at the death of Saint Peter Nolasco."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnaldo-de-Prades.jpg"
 region: "Italy"

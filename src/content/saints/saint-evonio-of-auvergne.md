@@ -1,7 +1,6 @@
 ---
 name: "Saint Evonio of Auvergne"
 honorific: Saint
-title: "Saint Evonio of Auvergne"
 summary: "Though his name appears on saint lists as early as 950, no information about him has survived."
 searchAliases:
   - "Enonio"

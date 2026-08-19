@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufina of Thessalonica"
 honorific: Saint
-title: "Saint Rufina of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

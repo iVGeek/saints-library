@@ -1,7 +1,6 @@
 ---
 name: "Saint Gelasius of Fossombrone"
 honorific: Saint
-title: "Saint Gelasius of Fossombrone"
 summary: "Third century martyr. No other information has survived."
 died: "martyred at Fossombrone, Italy"
 deathPlace: "Italy"

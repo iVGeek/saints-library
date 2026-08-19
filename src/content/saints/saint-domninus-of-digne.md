@@ -1,7 +1,6 @@
 ---
 name: "Saint Domninus of Digne"
 honorific: Saint
-title: "Saint Domninus of Digne"
 summary: "Missionary bishop to the Dauphiné area of France."
 searchAliases:
   - "Domnin"

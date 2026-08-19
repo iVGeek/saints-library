@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Tuy"
 honorific: Saint
-title: "Saint John of Tuy"
 summary: "Hermit near Tuy, Spain."
 born: "9th century Spanish Galatia"
 died: "relics enshrined in the Dominican church at Tuy, Spain"

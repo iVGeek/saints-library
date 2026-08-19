@@ -1,7 +1,6 @@
 ---
 name: "Saint Athanasius of Jerusalem"
 honorific: Saint
-title: "Saint Athanasius of Jerusalem"
 summary: "Deacon in Jerusalem. Denounced the heretic Theodosius who had deposed Saint Juvenal as bishop of Jerusalem. Arrested, scourged and martyred for his support of orthodoxy and the decrees of the Council of Chalcedon."
 searchAliases:
   - "Atanasio"

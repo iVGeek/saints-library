@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eusthénios of Cyprus"
 honorific: Blessed
-title: "Blessed Eusthénios of Cyprus"
 summary: "Christian who retired to Cyprus to live as a cave hermit, devoting himself to prayer and an ascetic life devoted to God. Tortured and martyred for his faith."
 died: "beheaded in the 12th century on Cyprus"
 feastDay:

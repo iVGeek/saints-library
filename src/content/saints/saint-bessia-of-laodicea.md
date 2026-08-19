@@ -1,7 +1,6 @@
 ---
 name: "Saint Bessia of Laodicea"
 honorific: Saint
-title: "Saint Bessia of Laodicea"
 summary: "Martyr."
 died: "Laodicea on the Lycus, Phrygia (near modern Denizli, Turkey), date unknown"
 deathPlace: "Phrygia (near modern Denizli, Turkey), date unknown"

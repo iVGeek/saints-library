@@ -1,7 +1,6 @@
 ---
 name: "Saint Egelwine of Athelney"
 honorific: Saint
-title: "Saint Egelwine of Athelney"
 summary: "Seventh century prince of Wessex, England. Lived as a prayerful hermit at Athelney, Somersetshire, England."
 searchAliases:
   - "Aylwine"

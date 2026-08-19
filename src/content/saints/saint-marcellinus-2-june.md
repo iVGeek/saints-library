@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus"
 honorific: Saint
-title: "Saint Marcellinus"
 summary: "Priest in Rome, Italy. Noted for his piety. Martyred with Saint Peter in the persecutions of Diocletian. His name is mentioned in the first Eucharistic prayer."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marcellinus-the-Martyr.jpg"
 deathYear: 304

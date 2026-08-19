@@ -1,7 +1,6 @@
 ---
 name: "Saint Zambdas of Jerusalem"
 honorific: Saint
-title: "Saint Zambdas of Jerusalem"
 summary: "Bishop of Jerusalem in the late 3rd and early 4th century. Legend says he is the one who brought the Theban Legion to Christianity. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 of natural causes"

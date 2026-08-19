@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Takeya"
 honorific: Blessed
-title: "Blessed Franciscus Takeya"
 summary: "Son of Blessed Cosmas Takeya Sozaburo and Blessed Agnes Takeya in the archdiocese of Nagasaki, Japan. Martyred at age 12."
 birthYear: 1610
 deathYear: 1622

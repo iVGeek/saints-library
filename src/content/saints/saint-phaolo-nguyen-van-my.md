@@ -1,7 +1,6 @@
 ---
 name: "Saint Phaolô Nguyen Van My"
 honorific: Venerable
-title: "Saint Phaolô Nguyen Van My"
 summary: "Convert. Assisted the Paris Foreign Missions to spread the faith in Vietnam. Martyr."
 searchAliases:
   - "Paul My"

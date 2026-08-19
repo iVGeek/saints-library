@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapes of Nicomedia"
 honorific: Saint
-title: "Saint Agapes of Nicomedia"
 searchAliases:
   - "Agathia"
 deathYear: 303

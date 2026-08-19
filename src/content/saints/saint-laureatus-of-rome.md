@@ -1,7 +1,6 @@
 ---
 name: "Saint Laureatus of Rome"
 honorific: Saint
-title: "Saint Laureatus of Rome"
 summary: "Martyred in the persecutions of Valerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Laureato.jpg"
 deathYear: 258

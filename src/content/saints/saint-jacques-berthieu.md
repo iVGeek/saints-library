@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacques Berthieu"
 honorific: Venerable
-title: "Saint Jacques Berthieu"
 summary: "One of seven children in a pious farm family. Ordained on 21 May 1864. Parish priest in Roannes-Saint Mary, France. Feeling a call to religious life, he joined the Jesuits on 31 October 1873. Missionary to Madagascar in 1875. Superior of the mission in Ambositra in 1885, he expan"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jacques_Berthieu_%281838-1896%29.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Lasa Vidauretta"
 honorific: Blessed
-title: "Blessed Antonio Lasa Vidauretta"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Lasa-Vidauretta.jpg"
 birthYear: 1913

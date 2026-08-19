@@ -1,7 +1,6 @@
 ---
 name: "Saint Leontius the Elder"
 honorific: Saint
-title: "Saint Leontius the Elder"
 summary: "Bishop of Bordeaux, France."
 deathYear: 541
 died: "c.541"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucifer of Cagliari"
 honorific: Saint
-title: "Saint Lucifer of Cagliari"
 summary: "Priest. Bishop of Cagliari, Italy. Fierce opponent of Arianism and defender of the faith as expressed in the Nicene Creed for which he was exiled by emperor Constantius. Bishop Lucifer was so opposed to the Arians that he refused to have anything to do with any of them, for which"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cagliari%2C_duomo%2C_interno%2C_santuario_dei_martiri_%28cripta%29%2C_cappella_sx_di_san_saturnino%2C_nicchiette_03_lucifero_di_cagliari.jpg/960px-Cagliari%2C_duomo%2C_interno%2C_santuario_dei_martiri_%28cripta%29%2C_cappella_sx_di_san_saturnino%2C_nicchiette_03_lucifero_di_cagliari.jpg"
 searchAliases:

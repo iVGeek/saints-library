@@ -1,7 +1,6 @@
 ---
 name: "Saint Mac Nissi of Clonmacnoise"
 honorific: Saint
-title: "Saint Mac Nissi of Clonmacnoise"
 summary: "Monk. Abbot of Clonmacnoise monastery, County Offaly, Ireland c.574 to c.590."
 searchAliases:
   - "Mac Nesi"

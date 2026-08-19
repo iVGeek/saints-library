@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicephorus of Africa"
 honorific: Saint
-title: "Saint Nicephorus of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Nikeforus"

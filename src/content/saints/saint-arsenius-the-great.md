@@ -1,7 +1,6 @@
 ---
 name: "Saint Arsenius the Great"
 honorific: Saint
-title: "Saint Arsenius the Great"
 summary: "Born to a wealthy Roman noble family. Deacon. Tutor to the sons of Emperor Theodosius the Great c.383. About 395 he left to live with the monks of Alexandria, Egypt. After the emperor's death, Arsenius retired to the wilderness of Scetis, and became a student of Saint John the Sh"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Hosios_Luka_-_Arsenios.jpg"
 searchAliases:

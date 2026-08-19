@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Tomi"
 honorific: Saint
-title: "Saint Marcellinus of Tomi"
 summary: "Brother of Saint Argeus and Saint Narcissus. Young soldier in the army of Emperor Licinius. Martyred with his brothers."
 deathYear: 320
 died: "imprisoned, flogged and drowned in 320 at Tomi, Exinius Pontus, Moesia (modern Constanta, Romania)"

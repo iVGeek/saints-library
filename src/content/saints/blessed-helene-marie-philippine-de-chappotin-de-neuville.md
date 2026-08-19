@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hélène-Marie-Philippine de Chappotin de Neuville"
 honorific: Blessed
-title: "Blessed Hélène-Marie-Philippine de Chappotin de Neuville"
 summary: "The death of two sisters and a cousin led Hélène to look for meaning in life, which led to her discerning a call to religious life. Her mother died when Hélène was 20 years old, and she put the religious life on hold to run her family home and help raise her younger siblings. In"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hélène-Marie-Philippine-de-Chappotin-de-Neuville.jpg"
 searchAliases:

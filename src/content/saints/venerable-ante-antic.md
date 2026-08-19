@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ante Antic"
 honorific: Venerable
-title: "Venerable Ante Antic"
 summary: "Franciscan Friar Minor. Priest."
 birthYear: 1893
 deathYear: 1965

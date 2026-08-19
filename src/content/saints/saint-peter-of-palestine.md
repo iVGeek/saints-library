@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Palestine"
 honorific: Saint
-title: "Saint Peter of Palestine"
 summary: "Imprisoned, tortured and martyred for his faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Balsam.jpg"
 searchAliases:

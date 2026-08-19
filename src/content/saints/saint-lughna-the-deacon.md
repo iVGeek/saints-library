@@ -1,7 +1,6 @@
 ---
 name: "Saint Lughna the Deacon"
 honorific: Saint
-title: "Saint Lughna the Deacon"
 summary: "Deacon in Ireland. No other information has survived."
 searchAliases:
   - "Lugnei Diaconi"

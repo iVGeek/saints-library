@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angel Pérez Murillo"
 honorific: Blessed
-title: "Blessed Angel Pérez Murillo"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Perez-Murillo.jpg"
 birthYear: 1915

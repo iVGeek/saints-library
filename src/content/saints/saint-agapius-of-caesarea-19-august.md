@@ -1,7 +1,6 @@
 ---
 name: "Saint Agapius of Caesarea"
 honorific: Saint
-title: "Saint Agapius of Caesarea"
 summary: "Arrested three times during the persecutions of Diocletian, but released each time. On his fourth arrest he was imprisoned for two years, then offered his freedom if he would renounce Christianity; he declined. Martyr."
 searchAliases:
   - "Agapio"

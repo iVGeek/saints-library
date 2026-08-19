@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrea Bordino"
 honorific: Blessed
-title: "Blessed Andrea Bordino"
 summary: "Drafted into the Italian army, he fought in World War II, was captured by the Soviets, and imprisoned in Siberia. Released after the war, he joined the Brothers of Saint Joseph Benedict Cottolengo, taking the name Luigi of the Consolata and working for 30 years with the sick and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrea-Bordino.jpg"
 searchAliases:

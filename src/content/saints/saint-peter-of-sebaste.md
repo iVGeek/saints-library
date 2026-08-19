@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Sebaste"
 honorific: Saint
-title: "Saint Peter of Sebaste"
 summary: "Youngest of ten children born to Saint Basil the Elder and Saint Emmelia; brother of Saint Basil the Great, Saint Gregory of Nyssa, and Saint Macrina the Younger. His father died when Peter was an infant, and he was raised and educated by Saint Macrina. Monk in a monastery in Arm"
 birthYear: 340
 deathYear: 391

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gonzalo Mercador"
 honorific: Blessed
-title: "Blessed Gonzalo Mercador"
 summary: "Mercedarian friar. Bishop of Granada, Spain. Participated in the Council of Florence in 1450. On his way home from that council, he was captured, imprisoned, beaten, tortured and finally executed for his Christianity. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Mercador.jpg"
 deathYear: 1450

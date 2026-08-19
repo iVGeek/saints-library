@@ -2,7 +2,6 @@
 name: "Blessed Ammon of Cyprus"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zeus_Ammon_Cyprus.jpg/960px-Zeus_Ammon_Cyprus.jpg"
 honorific: Blessed
-title: "Blessed Ammon of Cyprus"
 summary: "Christian who retired to Cyprus to live as a cave hermit, devoting himself to prayer and an ascetic life devoted to God. Tortured and martyred for his faith."
 died: "beheaded in the 12th century on Cyprus"
 feastDay:

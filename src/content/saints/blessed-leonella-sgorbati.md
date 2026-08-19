@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leonella Sgorbati"
 honorific: Blessed
-title: "Blessed Leonella Sgorbati"
 summary: "Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately after birth at her parish church of San Savio. The family moved to Milan, Italy on 9 October 1950 when Leonella was 9 so her father could find work; he died less"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonella-Sgorbati.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Privatus of Africa"
 honorific: Saint
-title: "Saint Privatus of Africa"
 summary: "Martyr. No other information has survived."
 died: "somewhere in Africa, date unknown"
 deathPlace: "date unknown"

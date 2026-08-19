@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupercilla"
 honorific: Saint
-title: "Saint Lupercilla"
 summary: "Born to the 3rd century Roman nobility, Lupercilla was martyred at age 7 or 8 with all 42 members of her family in the persecutions of Alexander Severus; no other information about her life has survived."
 birthYear: 225
 deathYear: 233

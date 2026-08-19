@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammonaria of Alexandria"
 honorific: Saint
-title: "Saint Ammonaria of Alexandria"
 summary: "Two young women with the same name martyred in the persecutions of Decius."
 searchAliases:
   - "Amalia"

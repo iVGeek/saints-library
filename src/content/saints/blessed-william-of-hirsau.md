@@ -1,7 +1,6 @@
 ---
 name: "Blessed William of Hirsau"
 honorific: Blessed
-title: "Blessed William of Hirsau"
 summary: "Benedictine monk. Abbot at Saint Emmeram monastery, Ratisbon (Regensburg), Germany. Abbot of Hirsau abbey, W&uuml;rtemberg, Germany. He restored the house's scriptorium, introduced the Cluniac observance, and saw to the education and improvement of the farmers living on abbey lan"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Wilhelm_Hirsau.jpg"
 deathYear: 1091

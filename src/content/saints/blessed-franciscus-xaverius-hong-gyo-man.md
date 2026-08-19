@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciscus Xaverius Hong Gyo-man"
 honorific: Blessed
-title: "Blessed Franciscus Xaverius Hong Gyo-man"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Francis Xavier"

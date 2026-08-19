@@ -1,7 +1,6 @@
 ---
 name: "Saint Avitus"
 honorific: Saint
-title: "Saint Avitus"
 summary: "Martyr. No other reliable information has survived."
 died: "in Africa"
 region: "England"

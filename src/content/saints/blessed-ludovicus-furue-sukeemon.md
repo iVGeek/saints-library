@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Furue Sukeemon"
 honorific: Blessed
-title: "Blessed Ludovicus Furue Sukeemon"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1590
 deathYear: 1627

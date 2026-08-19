@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Grau Antolí"
 honorific: Blessed
-title: "Blessed Miguel Grau Antolí"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Grau-Antolí.jpg"
 birthYear: 1869

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cajetan"
 honorific: Saint
-title: "Saint Cajetan"
 summary: "Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of souls.” A distinguished student, he studied l"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg"
 searchAliases:

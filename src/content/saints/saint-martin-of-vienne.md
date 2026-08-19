@@ -1,7 +1,6 @@
 ---
 name: "Saint Martin of Vienne"
 honorific: Saint
-title: "Saint Martin of Vienne"
 summary: "Sent by Pope Saint Alexander I as missionary to Vienne, France. Served as its third bishop."
 region: "France"
 feastDay:

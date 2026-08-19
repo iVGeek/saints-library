@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Pérez González"
 honorific: Blessed
-title: "Blessed José Pérez González"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ramiro of Sobradillo"

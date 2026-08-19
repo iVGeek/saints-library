@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudian of Perga"
 honorific: Saint
-title: "Saint Claudian of Perga"
 summary: "Shepherd. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Perga, Asia Minor (in modern Turkey)"

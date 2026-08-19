@@ -1,7 +1,6 @@
 ---
 name: "Saint Abilius of Alexandria"
 honorific: Saint
-title: "Saint Abilius of Alexandria"
 summary: "Third bishop of Alexandria, Egypt c.84."
 searchAliases:
   - "Abilio"

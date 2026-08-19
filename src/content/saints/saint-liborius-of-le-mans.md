@@ -1,7 +1,6 @@
 ---
 name: "Saint Liborius of Le Mans"
 honorific: Saint
-title: "Saint Liborius of Le Mans"
 summary: "Born to a noble family of Gaul. Priest. Bishop of Le Mans, France from 348. Friend of Saint Martin of Tours. Served his diocese for 45 years, building many churches. The translation of his relics from Le Mans to Paderborn, Germany led to a sister-city relation that has lasted for"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Paderborner_Dom_Dreifaltigkeitskapelle_Liborius.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christina of Spoleto"
 honorific: Blessed
-title: "Blessed Christina of Spoleto"
 summary: "Daughter of a physician. Married to a stone cutter, but widowed very young. She became mistress to a soldier, and bore his son, but the child died as an infant. Married a second time, she was widowed when the man was killed in a fight with a jealous rival. Realizing that her life"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christina-of-Spoleto.jpg"
 searchAliases:

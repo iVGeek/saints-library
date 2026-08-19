@@ -1,7 +1,6 @@
 ---
 name: "Saint Medico of Otricoli"
 honorific: Saint
-title: "Saint Medico of Otricoli"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Medico-of-Otricoli.jpg"
 searchAliases:

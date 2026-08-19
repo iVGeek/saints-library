@@ -1,7 +1,6 @@
 ---
 name: "Saint Serrano"
 honorific: Saint
-title: "Saint Serrano"
 summary: "Bishop."
 searchAliases:
   - "Serano"

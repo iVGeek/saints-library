@@ -1,7 +1,6 @@
 ---
 name: "Saint Primian of North Africa"
 honorific: Saint
-title: "Saint Primian of North Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Primianus"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Miquel Costa y Llobera"
 honorific: Venerable
-title: "Venerable Miquel Costa y Llobera"
 summary: "Initially a law student, Miquel began studying at the University of Barcelona in 1872, but abandoned the field, and lived for a while in Paris, France. Finally answering a call to the priesthood, he began studying at Gregorian University in Rome, Italy on 24 July 1883. Received i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Miquel-Costa-y-Llobera.jpg"
 birthYear: 1854

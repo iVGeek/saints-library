@@ -1,7 +1,6 @@
 ---
 name: "Saint Evan of Ayrshire"
 honorific: Saint
-title: "Saint Evan of Ayrshire"
 summary: "Pilgrim to Rome and Jerusalem. Hermit at Ayrshire, Scotland where several wells are named for him, and churches dedicated to him including one, now dedicated to Mary, which is thought to have been built on the site of his cell."
 searchAliases:
   - "Inan"

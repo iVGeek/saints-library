@@ -1,7 +1,6 @@
 ---
 name: "Saint Uni of Bremen"
 honorific: Saint
-title: "Saint Uni of Bremen"
 summary: "Monk at New Corvey Abbey. Archbishop of Bremen-Hamburg, Germany in 917. Evangelized Sweden and Denmark."
 searchAliases:
   - "Huno"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gelasius of Crete"
 honorific: Saint
-title: "Saint Gelasius of Crete"
 summary: "One of the Ten Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 deathYear: 250
 died: "250 on Crete"

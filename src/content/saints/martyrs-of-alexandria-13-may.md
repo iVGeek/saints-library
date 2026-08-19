@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Alexandria"
 honorific: Saint
-title: "Martyrs of Alexandria"
 summary: "A group of Catholic Christians martyred in the church of Theonas, Alexandria, Egypt by order of the Arian Emperor Valens. Their names have not come down to us."
 deathYear: 372
 died: "in 372 in Alexandria, Egypt"

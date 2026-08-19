@@ -1,7 +1,6 @@
 ---
 name: "Saint Liuican"
 honorific: Saint
-title: "Saint Liuican"
 summary: "Monk. Founded and served as first abbot of the monastery of Killucan (Killuquin; Cill Liúcainne) in the barony of Farbill, Westmeath, Ireland."
 searchAliases:
   - "Lenican"

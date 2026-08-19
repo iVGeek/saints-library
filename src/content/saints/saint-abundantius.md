@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundantius"
 honorific: Saint
-title: "Saint Abundantius"
 summary: "Martyr."
 died: "France"
 region: "France"

@@ -1,7 +1,6 @@
 ---
 name: "Saint William of Roskilde"
 honorific: Saint
-title: "Saint William of Roskilde"
 summary: " Bishop of Roskilde, Zeeland. He decreed that a person who had shed blood unjustly could not rec Priest. Court chaplain to King Canute of England and Denmark. During a trip to Denmark, William saw a crying need for Christian missionaries, and he worked there the rest of his life."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Biskop_Vilhelm_-_1073_%28Roskilde_Domkirke%29.JPG/960px-Biskop_Vilhelm_-_1073_%28Roskilde_Domkirke%29.JPG"
 deathYear: 1067

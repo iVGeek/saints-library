@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidra Fernández Palomero de Fernández"
 honorific: Blessed
-title: "Blessed Isidra Fernández Palomero de Fernández"
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936

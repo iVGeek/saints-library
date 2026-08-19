@@ -1,7 +1,6 @@
 ---
 name: "Saint Lindru of Partois"
 honorific: Saint
-title: "Saint Lindru of Partois"
 summary: "Nun in Partois, France."
 region: "France"
 feastDay:

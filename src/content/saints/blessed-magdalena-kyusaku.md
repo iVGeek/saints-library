@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena Kyusaku"
 honorific: Blessed
-title: "Blessed Magdalena Kyusaku"
 summary: "Lay woman in the diocese of Kyoto, Japan. Married to Blessed Ioannes Kyusaku. Mother of Blessed Regina Kyusaku. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Kyoto (Miyako), Japan"

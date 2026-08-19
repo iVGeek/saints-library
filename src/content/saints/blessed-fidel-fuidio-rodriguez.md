@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fidel Fuidio Rodriguez"
 honorific: Blessed
-title: "Blessed Fidel Fuidio Rodriguez"
 summary: "Member of the Society of Mary (Marianists). Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fidel-Fuidio-Rodriguez.jpg"
 birthYear: 1880

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mura McFeredach"
 honorific: Saint
-title: "Saint Mura McFeredach"
 summary: "Abbot of Fahan (Othan Mor), appointed by Saint Columba. Friend of King Hugh of Ireland. Spiritual teacher of Saint Laserian of Leighlin. Member of the O'Neill clan. Writer of a number of works including a rhymed biography of Saint Columba. In the ruined church of Saint Mura at Fa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mura-of-Fahan.jpg"
 searchAliases:

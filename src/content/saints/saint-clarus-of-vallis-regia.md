@@ -1,7 +1,6 @@
 ---
 name: "Saint Clarus of Vallis Regia"
 honorific: Saint
-title: "Saint Clarus of Vallis Regia"
 summary: "May have been a bishop, may have been an abbot, may have been both; surviving records are very unclear. Venerated at Vallis Regia, Genoa, Italy."
 searchAliases:
   - "Chiaro"

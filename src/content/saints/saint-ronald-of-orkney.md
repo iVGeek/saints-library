@@ -1,7 +1,6 @@
 ---
 name: "Saint Ronald of Orkney"
 honorific: Saint
-title: "Saint Ronald of Orkney"
 summary: "Son of Lendmann Kol Kalisson and Gunhild Erlendsdotter, and described as “elegant and accomplished”. Appointed Earl of the Orkney and Shetland Islands by King Sigurd I of Norway in 1129. He made a vow to build a church in his lands; the result was the Saint Magnus Cathedral in Ki"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ronald-of-Orkney.jpg"
 searchAliases:

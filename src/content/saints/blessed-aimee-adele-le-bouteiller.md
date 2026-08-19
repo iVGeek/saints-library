@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aimée-Adèle le Bouteiller"
 honorific: Blessed
-title: "Blessed Aimée-Adèle le Bouteiller"
 summary: "Third of four children of Andrea and Maria Francesca le Bouteiller Morel; the family were farmers and linen weavers, and her father died of tuberculosis when she was only 10 years old. Around age 20 she went to work as a maid. Aimee joined the Sisters of the Christian Schools of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Aimée-Adèle-le-Bouteiller.jpg"
 searchAliases:

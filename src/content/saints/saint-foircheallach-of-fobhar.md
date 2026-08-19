@@ -1,7 +1,6 @@
 ---
 name: "Saint Foircheallach of Fobhar"
 honorific: Saint
-title: "Saint Foircheallach of Fobhar"
 summary: "Monk and abbot of the abbey of Fobhar and/or Clonmachoise. No information about his life have survived."
 searchAliases:
   - "Fairchellach"

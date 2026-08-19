@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutizio of Ferento"
 honorific: Saint
-title: "Saint Eutizio of Ferento"
 summary: " Legend says that one day Eutizio was walking around Ferento and saw Young priest who, after celebrating Mass in honor of the recently martyred Saint Gracilian and Saint Felicissima, was arrested by imperial soldiers, tortured and executed in the persecutions of Aurelian. Martyr."
 searchAliases:
   - "Eutizio of Ferentium"

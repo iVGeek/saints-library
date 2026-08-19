@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Lampley"
 honorific: Blessed
-title: "Blessed William Lampley"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1588
 born: "in Gloucester, Gloucestershire, England"

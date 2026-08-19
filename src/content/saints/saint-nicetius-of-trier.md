@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicetius of Trier"
 honorific: Saint
-title: "Saint Nicetius of Trier"
 summary: "Born to a Gallo-Roman family, he was  a religious youth. Monk at Limoges. Abbot. Knew and was highly thought of by King Theodoric I. Bishop of Trier, Gaul (part of modern Germany) in 532. A reformer and revitalizer, Nicetius rebuilt the cathedral and worked to bring back love of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicetius-of-Trier.jpg"
 searchAliases:

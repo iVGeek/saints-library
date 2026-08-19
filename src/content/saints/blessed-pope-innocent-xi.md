@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pope Innocent XI"
 honorific: Blessed
-title: "Blessed Pope Innocent XI"
 summary: "Born to a pious patrician family; his brother became bishop of Novara, Italy. Benedetto felt an early call to the priesthood. Educated by Jesuits at Como, Italy. Apprentice at his family's bank in Genoa, Italy when he was fifteen. Studied law at Rome and Naples in Italy, and rece"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jacob_Ferdinand_Voet_Portrait_of_Innocenzo_XI_Odescalchi.jpeg/960px-Jacob_Ferdinand_Voet_Portrait_of_Innocenzo_XI_Odescalchi.jpeg"
 searchAliases:

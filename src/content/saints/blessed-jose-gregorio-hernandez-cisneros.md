@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Gregorio Hernandez-Cisneros"
 honorific: Blessed
-title: "Blessed José Gregorio Hernandez-Cisneros"
 summary: "The eldest of six children born to Benigno María Hernández Manzaneda and Josefa Antonia Cisneros Mansilla; he was baptized on 30 January 1865 and confirmed on 6 December 1867. Beginning at age 18, he studied medicine at the University of Caracas, Venezuela, graduating on 29 June"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Gregorio-Hernandez-Cisneros.jpg"
 birthYear: 1864

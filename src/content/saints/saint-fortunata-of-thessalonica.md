@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunata of Thessalonica"
 honorific: Saint
-title: "Saint Fortunata of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

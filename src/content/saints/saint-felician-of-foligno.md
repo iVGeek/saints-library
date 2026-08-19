@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Foligno"
 honorific: Saint
-title: "Saint Felician of Foligno"
 summary: "Spiritual student of Pope Saint Eleutherius during his missionary days. Priest. Consecrated bishop of Foligno, Italy by Pope Victor I in Rome c.204; he was the first bishop given the pallium as symbol of his office. For a time, Felician was the only bishop in northern Italy. Orda"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/San_feliciano.JPG/960px-San_feliciano.JPG"
 birthYear: 158

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo González Lorente"
 honorific: Blessed
-title: "Blessed Justo González Lorente"
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
 birthYear: 1915
 born: "14 October 1915 in Villaverde de Arcayos, León, Spain"

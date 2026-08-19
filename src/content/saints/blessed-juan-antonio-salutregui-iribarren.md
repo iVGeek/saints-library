@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Antonio Salútregui Iribarren"
 honorific: Blessed
-title: "Blessed Juan Antonio Salútregui Iribarren"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Antonio-Salútregui-Iribarren.jpg"
 searchAliases:

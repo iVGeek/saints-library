@@ -1,7 +1,6 @@
 ---
 name: "Blessed Denis of the Nativity"
 honorific: Blessed
-title: "Blessed Denis of the Nativity"
 summary: "Sailor from age twelve. Pilot-in-chief, cartographer, and cosmographer to the king of Portugal, and to the French court. Still a member of the royal court when he became a Discalced Carmelite in 1635 at Goa, India. With Blessed Redemptorus of the Cross, he travelled as a missiona"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Denis_of_the_Nativity_and_Redemptus_of_the_Cross_cropped.jpg"
 searchAliases:

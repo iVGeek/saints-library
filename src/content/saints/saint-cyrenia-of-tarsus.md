@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrenia of Tarsus"
 honorific: Saint
-title: "Saint Cyrenia of Tarsus"
 summary: "Martyred with Saint Juliana in the persecutions of Galerius and Maximian."
 deathYear: 306
 died: "burned to death in 306 at Tarsus, Asia Minor"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francesco Caruso"
 honorific: Venerable
-title: "Venerable Francesco Caruso"
 summary: "Francesco early felt called to the priesthood but his family was too poor for him to be educated, and so, instead, he worked the fields. At age 18 he enlisted in the military, and at 20 was accepted into the seminary of the archdiocese of Catanzaro-Squillace, Italy. Ordained a pr"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francesco-Caruso.jpg"
 searchAliases:

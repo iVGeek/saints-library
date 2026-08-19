@@ -1,7 +1,6 @@
 ---
 name: "Venerable Isabel Larrañaga Ramírez"
 honorific: Venerable
-title: "Venerable Isabel Larrañaga Ramírez"
 summary: "Nun. Founded the Hermanas de la Caridad del Sagrado Corazón de Jesús (Sisters of Charity of the Sacred Heart of Jesus)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Isabel-Larrañaga-Ramírez.jpg"
 searchAliases:

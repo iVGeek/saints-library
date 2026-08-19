@@ -1,7 +1,6 @@
 ---
 name: "Saint Lorgius of Caesarea"
 honorific: Saint
-title: "Saint Lorgius of Caesarea"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Lorgio"

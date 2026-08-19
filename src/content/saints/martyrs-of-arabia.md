@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Arabia"
 honorific: Saint
-title: "Martyrs of Arabia"
 summary: "A memorial for all the unnamed Christians martyred in the desert and mountainous areas south of the Dead Sea during the persecutions of Emperor Valerius Maximianus Galerius."
 region: "England"
 feastDay:

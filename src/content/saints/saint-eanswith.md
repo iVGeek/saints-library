@@ -1,7 +1,6 @@
 ---
 name: "Saint Eanswith of Folkestone"
 honorific: Saint
-title: "Saint Eanswith of Folkestone"
 summary: "Born to the nobility, grand-daughter of King Ethelbert of Kent. On the coast near Folkestone, she founded the first convent in England; it was later destroyed by invading Danes."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eanswith.jpg"
 searchAliases:

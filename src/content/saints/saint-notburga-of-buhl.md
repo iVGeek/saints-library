@@ -1,7 +1,6 @@
 ---
 name: "Saint Notburga of Bühl"
 honorific: Saint
-title: "Saint Notburga of Bühl"
 summary: "Born a princess, the daughter of a Scottish chieftain. She ascended to the throne in 814, and was married to Duke Alboin in 818. Widowed while pregnant in 820, she fled the country, settling in the village of Bühl in Klettgau in Bavaria (in modern Germany) where she gave birth to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Notburga-of-Buhl.jpg"
 searchAliases:

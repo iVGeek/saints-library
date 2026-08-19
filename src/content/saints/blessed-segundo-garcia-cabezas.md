@@ -1,7 +1,6 @@
 ---
 name: "Blessed Segundo García Cabezas"
 honorific: Blessed
-title: "Blessed Segundo García Cabezas"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Segundo-de-Santa-Teresa.jpg"
 searchAliases:

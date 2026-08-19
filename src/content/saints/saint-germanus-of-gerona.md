@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Gerona"
 honorific: Saint
-title: "Saint Germanus of Gerona"
 summary: "Two Christians with this name martyred together. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"

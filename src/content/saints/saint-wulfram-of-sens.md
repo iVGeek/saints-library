@@ -1,7 +1,6 @@
 ---
 name: "Saint Wulfram of Sens"
 honorific: Saint
-title: "Saint Wulfram of Sens"
 summary: "Son of an official in the court of King Dagobert. Courtier under Clotaire III. Priest. Benedictine. Archbishop of Sens, France in 682, but in 685 he surrendered his see to Saint Amatus, whom he felt was the rightful bishop. Gave away his lands and evangelized the Frisians in Scan"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St_Wulfram%27s%2C_Grantham_-_tabernacle.jpg/960px-St_Wulfram%27s%2C_Grantham_-_tabernacle.jpg"
 searchAliases:

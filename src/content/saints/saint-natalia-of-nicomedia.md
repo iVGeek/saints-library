@@ -1,7 +1,6 @@
 ---
 name: "Saint Natalia of Nicomedia"
 honorific: Saint
-title: "Saint Natalia of Nicomedia"
 summary: "Christian woman married to a non-Christian Nicomedian imperial officer named Adrian. Her husband was so impressed by Christians persecuted by Diocletian that he openly declared he was a Christian, though he hadn't even been baptized; he was immediately arrested. Natalia visited h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Natalie-of-Nicomedia.jpg"
 deathYear: 311

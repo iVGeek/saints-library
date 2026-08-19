@@ -1,7 +1,6 @@
 ---
 name: "Saint Plautus of Thrace"
 honorific: Saint
-title: "Saint Plautus of Thrace"
 summary: "Martyred in Thrace. No other information has survived."
 region: "England"
 feastDay:

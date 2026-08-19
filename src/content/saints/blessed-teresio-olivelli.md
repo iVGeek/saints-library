@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teresio Olivelli"
 honorific: Blessed
-title: "Blessed Teresio Olivelli"
 summary: "Son of Domenico Olivelli and Clelia Invernizzi, Teresio grew up in a very religious family. His maternal uncle, Father Rocco Invernizzi, was the boy's spiritual teacher and director. His family moved to Pavia, Italy in 1926. Studied at Ghislieri College and then in 1934 at the la"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Teresio_Olivelli.jpg"
 searchAliases:

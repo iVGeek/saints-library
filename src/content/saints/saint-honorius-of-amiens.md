@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius of Amiens"
 honorific: Saint
-title: "Saint Honorius of Amiens"
 summary: "Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens, France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the time of his selection as bishop. Re-discovere"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Honorius-of-Amiens.jpg"
 searchAliases:

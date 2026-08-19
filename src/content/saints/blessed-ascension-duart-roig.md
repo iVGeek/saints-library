@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ascensión Duart Roig"
 honorific: Blessed
-title: "Blessed Ascensión Duart Roig"
 summary: "Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:

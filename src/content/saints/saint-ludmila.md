@@ -1,7 +1,6 @@
 ---
 name: "Saint Ludmila of Bohemia"
 honorific: Saint
-title: "Saint Ludmila of Bohemia"
 summary: "Daughter of a Slavic prince. Duchess of Bohemia, married to Boriwoi, first Christian Duke of Bohemia; the two were baptized by Saint Methodius in 871. They built the first Christian church in Bohemia, and tried to force Christianity on their subjects; they failed. Widow. Grandmot"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/StLudmilaWindowCedarRapidsSep2001.jpg"
 searchAliases:

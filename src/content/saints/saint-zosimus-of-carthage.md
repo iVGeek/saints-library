@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosimus of Carthage"
 honorific: Saint
-title: "Saint Zosimus of Carthage"
 summary: "Martyred in Carthage in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Zozimus"

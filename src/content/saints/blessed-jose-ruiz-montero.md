@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ruiz Montero"
 honorific: Blessed
-title: "Blessed José Ruiz Montero"
 summary: "Seminarian in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936

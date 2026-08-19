@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebius of Saint Gall"
 honorific: Saint
-title: "Saint Eusebius of Saint Gall"
 summary: "Monk of Saint Gall Abbey in Switzerland. Hermit on Mount Saint Victor in the Vorarlberg region of modern Austria. Killed while preaching against godlessness. Martyr."
 deathYear: 884
 born: "Ireland"

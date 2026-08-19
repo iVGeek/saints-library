@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustus of Rome and Milan"
 honorific: Saint
-title: "Saint Faustus of Rome and Milan"
 summary: "Martyr."
 searchAliases:
   - "Fausto"

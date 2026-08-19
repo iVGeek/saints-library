@@ -1,7 +1,6 @@
 ---
 name: "Saint Caran of Scotland"
 honorific: Saint
-title: "Saint Caran of Scotland"
 summary: "Missionary bishop in the east of Scotland. Commemorated in the Aberdeen Breviary."
 searchAliases:
   - "Caranus"

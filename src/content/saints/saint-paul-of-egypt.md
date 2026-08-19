@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Egypt"
 honorific: Saint
-title: "Saint Paul of Egypt"
 summary: "Leader of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were many converts, the men were attacked in various places around the country. The governor of the region had them all arrested, brought to him, and ordered them to mak"
 born: "Egypt"
 region: "England"

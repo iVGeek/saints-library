@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus"
 honorific: Saint
-title: "Saint Silvanus"
 summary: "Monk at Constantinople. Bishop of Troas, Phrygia. Prohibited his priests from working in secular courts."
 searchAliases:
   - "Sylvanus"

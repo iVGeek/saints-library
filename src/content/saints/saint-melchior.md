@@ -1,7 +1,6 @@
 ---
 name: "Saint Melchior"
 honorific: Saint
-title: "Saint Melchior"
 summary: "One of the Three Magi."
 image: "http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg"
 region: "Germany"

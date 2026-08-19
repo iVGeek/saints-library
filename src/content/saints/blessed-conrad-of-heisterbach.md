@@ -1,7 +1,6 @@
 ---
 name: "Blessed Conrad of Heisterbach"
 honorific: Blessed
-title: "Blessed Conrad of Heisterbach"
 summary: "Soldier. Ministered to the margraves of Thuringia until he was about 50 years old. He then became a Cistercian lay brother at Heisterbach Abbey near Oberdollendorf in North Rhine-Westphalia (in modern Germany). Records from the time indicate that he once receive a vision of Jesus"
 searchAliases:
   - "Konrad"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of Thessalonica"
 honorific: Saint
-title: "Saint Fortunatus of Thessalonica"
 summary: "Three Christians with the same name who were martyred."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

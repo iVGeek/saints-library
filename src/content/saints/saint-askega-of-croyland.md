@@ -1,7 +1,6 @@
 ---
 name: "Saint Askega of Croyland"
 honorific: Saint
-title: "Saint Askega of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes."
 searchAliases:
   - "Askega of Crowland"

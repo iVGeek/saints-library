@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomasello"
 honorific: Saint
-title: "Saint Thomasello"
 summary: "Dominican. Student of Saint Thomas Aquinas."
 searchAliases:
   - "Thomasellus"

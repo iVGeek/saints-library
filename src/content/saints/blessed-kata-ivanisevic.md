@@ -1,7 +1,6 @@
 ---
 name: "Blessed Kata Ivaniševic"
 honorific: Blessed
-title: "Blessed Kata Ivaniševic"
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
 searchAliases:
   - "Sister Marija Jula"

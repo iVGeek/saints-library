@@ -1,7 +1,6 @@
 ---
 name: "Saint Cedd"
 honorific: Saint
-title: "Saint Cedd"
 summary: "Brother of Saint Chad and Saint Cynibild; his brother Caelin was also a priest. Benedictine monk at Lindisfarne, England. Spiritual student of Saint Aidan of Lindesfarne. Priest. Missionary to the Midlands of England in 653, sent by King Oswiu of Northumbria with three other prie"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Saint_cedd.jpg"
 searchAliases:

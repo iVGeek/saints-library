@@ -1,7 +1,6 @@
 ---
 name: "Saint Sillan of Bangor"
 honorific: Saint
-title: "Saint Sillan of Bangor"
 summary: "Spiritual student of Saint Comgall of Bangor. Abbot of Bangor Abbey."
 searchAliases:
   - "Sillian"

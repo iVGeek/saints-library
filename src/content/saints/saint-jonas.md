@@ -1,7 +1,6 @@
 ---
 name: "Saint Jonas"
 honorific: Saint
-title: "Saint Jonas"
 summary: "Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian."
 searchAliases:
   - "Yon"

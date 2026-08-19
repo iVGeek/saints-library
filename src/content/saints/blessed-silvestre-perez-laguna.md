@@ -1,7 +1,6 @@
 ---
 name: "Blessed Silvestre Perez Laguna"
 honorific: Blessed
-title: "Blessed Silvestre Perez Laguna"
 summary: "Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936

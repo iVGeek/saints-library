@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Tomis"
 honorific: Saint
-title: "Saint John of Tomis"
 summary: "Martyr."
 died: "in Tomis, Scythia Minor (modern Constanta, Romania)"
 deathPlace: "Scythia Minor (modern Constanta, Romania)"

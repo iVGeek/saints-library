@@ -1,7 +1,6 @@
 ---
 name: "Blessed Raymond de Blanes"
 honorific: Blessed
-title: "Blessed Raymond de Blanes"
 summary: "Soldier. Knight. Mercedarian. Captured by Muslim invaders, he was imprisoned, tortured, and executed for his faith. First Mercedarian martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ryamond-de-Blanes.jpg"
 deathYear: 1235

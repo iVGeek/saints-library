@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baldomero Arribas Arnaiz"
 honorific: Blessed
-title: "Blessed Baldomero Arribas Arnaiz"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Narciso"

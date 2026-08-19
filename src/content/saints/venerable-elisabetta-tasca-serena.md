@@ -1,7 +1,6 @@
 ---
 name: "Venerable Elisabetta Tasca Serena"
 honorific: Venerable
-title: "Venerable Elisabetta Tasca Serena"
 summary: "Married lay woman in the diocese of Vicenza, Italy."
 birthYear: 1899
 deathYear: 1978

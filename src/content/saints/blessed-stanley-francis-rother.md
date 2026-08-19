@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stanley Francis Rother"
 honorific: Blessed
-title: "Blessed Stanley Francis Rother"
 summary: "Graduated from Mount Saint Mary's seminary in Maryland. Priest in the archdiocese of Oklahoma City, Oklahoma. A pipe smoker. Missionary to Guatemala in 1968. Murdered for his work and faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanley-Francis-Rother.jpg"
 birthYear: 1935

@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatonico of Thrace"
 honorific: Saint
-title: "Saint Agatonico of Thrace"
 summary: "Martyr."
 died: "3rd century Thrace"
 region: "England"

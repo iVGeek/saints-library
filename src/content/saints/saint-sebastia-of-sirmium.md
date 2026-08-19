@@ -1,7 +1,6 @@
 ---
 name: "Saint Sebastia of Sirmium"
 honorific: Saint
-title: "Saint Sebastia of Sirmium"
 summary: "Martyred with 31 companions, most of whose names have not come down to us. No other information has survived."
 searchAliases:
   - "Sabbatia"

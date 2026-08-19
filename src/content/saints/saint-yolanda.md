@@ -1,7 +1,6 @@
 ---
 name: "Saint Yolanda"
 honorific: Saint
-title: "Saint Yolanda"
 summary: "Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father."
 deathYear: 1283
 died: "1283 of natural causes"

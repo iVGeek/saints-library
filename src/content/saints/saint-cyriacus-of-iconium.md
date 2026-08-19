@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Iconium"
 honorific: Saint
-title: "Saint Cyriacus of Iconium"
 summary: "Son of Saint Julitta. When Cyriacus was a small child, his mother was sentenced to death at Tarsus during the persecutions of Diocletian. Cyriacus made a childish attack on Alexander, the sentencing magistrate, and announced that he was a Christian like his mother. The angry magi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Quricus-and-Juliet.jpg"
 searchAliases:

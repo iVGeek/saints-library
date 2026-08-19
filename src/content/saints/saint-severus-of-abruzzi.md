@@ -1,7 +1,6 @@
 ---
 name: "Saint Severus of Abruzzi"
 honorific: Saint
-title: "Saint Severus of Abruzzi"
 summary: "Priest in the Abruzzi region of Italy. Saint Gregory the Great writes that Severus brought a man back from the dead long enough to receive communion and unction."
 searchAliases:
   - "Severo"

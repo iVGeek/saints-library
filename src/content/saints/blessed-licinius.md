@@ -1,7 +1,6 @@
 ---
 name: "Blessed Licinius"
 honorific: Blessed
-title: "Blessed Licinius"
 summary: "Soldier martyr."
 searchAliases:
   - "Lesé"

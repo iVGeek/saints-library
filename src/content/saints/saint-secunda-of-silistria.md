@@ -1,7 +1,6 @@
 ---
 name: "Saint Secunda of Silistria"
 honorific: Saint
-title: "Saint Secunda of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7

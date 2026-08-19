@@ -1,7 +1,6 @@
 ---
 name: "Saint Sabinus of Brescia"
 honorific: Saint
-title: "Saint Sabinus of Brescia"
 summary: "Martyr. No reliable information has survived."
 searchAliases:
   - "Savinus"

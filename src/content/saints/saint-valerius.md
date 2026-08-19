@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerius"
 honorific: Saint
-title: "Saint Valerius"
 summary: "Spiritual student of Saint Gislenus in Belgium and France."
 searchAliases:
   - "Bellère"

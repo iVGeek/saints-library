@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammonius of Alexandria"
 honorific: Saint
-title: "Saint Ammonius of Alexandria"
 summary: "Child martyr."
 region: "England"
 feastDay:

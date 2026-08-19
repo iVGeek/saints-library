@@ -2,7 +2,6 @@
 name: "Blessed André Fardeau"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg/960px-Jacques-Louis_David%2C_The_Coronation_of_Napoleon_edit.jpg"
 honorific: Blessed
-title: "Blessed André Fardeau"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution for refusing to take the oath of allegience to the Civil Constitution of the Clergy, which would have put his vocation under government control."
 birthYear: 1761
 deathYear: 1794

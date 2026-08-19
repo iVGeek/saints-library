@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Porto Romano"
 honorific: Saint
-title: "Saint Paul of Porto Romano"
 summary: "One of a group of Christians martyred in the persecution of Diocletian. No other information survives."
 region: "Italy"
 feastDay:

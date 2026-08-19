@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Francesco Marzorati"
 honorific: Blessed
-title: "Blessed Antonio Francesco Marzorati"
 summary: "Franciscan, joining on 5 March 1792 at Lugano, Switzerland, and taking the name Samuele. priest Missionary to Ethiopia. In 1716 the emperor declared a persecution of Christians. Father Samuele was arrested and ordered to renounce his faith; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Francesco-Marzorati.jpg"
 searchAliases:

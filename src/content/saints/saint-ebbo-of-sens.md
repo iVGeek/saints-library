@@ -1,7 +1,6 @@
 ---
 name: "Saint Ebbo of Sens"
 honorific: Saint
-title: "Saint Ebbo of Sens"
 summary: "Monk of Saint-Pierre-le-Vif Abbey in Sens, France. Bishop of Sens. Held his flock together and helped them survive a siege by Saracens in 725."
 deathYear: 740
 born: "Tonnere, France"

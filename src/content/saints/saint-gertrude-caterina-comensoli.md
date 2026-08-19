@@ -1,7 +1,6 @@
 ---
 name: "Saint Geltrude Caterina Comensoli"
 honorific: Venerable
-title: "Saint Geltrude Caterina Comensoli"
 summary: "One of a family of eleven children; her father worked an iron forge, and her mother was a seamstress. Caterina joined the Sisters of Charity in Lovere, Bergamo, Italy in 1862, but she became seriously ill and had to return to her family. When recovered, she stayed in lay life, wo"
 image: "http://catholicsaints.info/wp-content/gallery/saint-gertrude-caterina-comensoli/saint-gertrude-caterina-comensoli-01.jpg"
 searchAliases:

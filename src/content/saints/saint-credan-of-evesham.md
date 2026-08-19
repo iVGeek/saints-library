@@ -1,7 +1,6 @@
 ---
 name: "Saint Credan of Evesham"
 honorific: Saint
-title: "Saint Credan of Evesham"
 summary: "Abbot at Evesham Abbey."
 deathYear: 780
 died: "c.780"

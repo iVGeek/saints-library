@@ -1,7 +1,6 @@
 ---
 name: "Saint Chillien of Aubigny"
 honorific: Saint
-title: "Saint Chillien of Aubigny"
 summary: "Relative of Saint Fiacre whom he visited while on pilgrimage to Rome, Italy. Stayed for a while to learn contemplative prayer from Fiacre. Acquainted with bishop Saint Faro of Meaux who dispatched him to evangelize in Artois, France. He was very successful as a missionary. Founde"
 searchAliases:
   - "Chilianus"

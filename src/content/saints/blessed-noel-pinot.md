@@ -1,7 +1,6 @@
 ---
 name: "Blessed Noël Pinot"
 honorific: Blessed
-title: "Blessed Noël Pinot"
 summary: " In the French Revolution, he was required to take an oath of loyalty to the new governm Ordained in 1771, he served for several years as assistant pastor at different parishes. Parish priest at Saint Aubin, Louroux-Beconnais, France in 1788, with a special ministry with the sick."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/No%C3%ABl_Pinot.jpg"
 searchAliases:

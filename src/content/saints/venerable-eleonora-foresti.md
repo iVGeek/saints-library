@@ -1,7 +1,6 @@
 ---
 name: "Venerable Eleonora Foresti"
 honorific: Venerable
-title: "Venerable Eleonora Foresti"
 summary: "Founder of the Congregation of the Franciscan Sisters Adorers."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Eleonora-Foresti.jpg"
 searchAliases:

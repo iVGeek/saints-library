@@ -2,7 +2,6 @@
 name: "Blessed Amadeus of Clermont"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/AmadeuClermontI.png"
 honorific: Blessed
-title: "Blessed Amadeus of Clermont"
 summary: "Lord of Hauterives, Dr&ocirc;me, France. Father of Blessed Amadeus of Lausanne. With 16 of his men, he retired to become a Cistercian monk at Bonnevaux Abbey, and then he and his son moved to Cluny Abbey, both in France. Founded monasteries at L&eacute;oncel, Mazan, Montperout, a"
 deathYear: 1150
 born: "Hauterives, Dr&ocirc;me, France"

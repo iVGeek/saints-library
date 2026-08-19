@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Gomis Martorell"
 honorific: Blessed
-title: "Blessed Josep Gomis Martorell"
 summary: "Priest in the archdiocese of Tarragona, Spain.  Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Gomis-Martorell.jpg"
 birthYear: 1894

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc de Paula Colomer Prísas"
 honorific: Blessed
-title: "Blessed Francesc de Paula Colomer Prísas"
 summary: "Franciscan Capuchin friar, making his first profession on 25 March 1936. He never made his solemn profession, being murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Pacià Maria of Barcelona"

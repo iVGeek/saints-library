@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriacus of Pamphylia"
 honorific: Saint
-title: "Saint Cyriacus of Pamphylia"
 summary: "Son of Saint Exsuperius and Saint Zoe; brother of Saint Theodulus. Slave, owned by a rich devout worshipper of the ancient Roman gods in Attalia, Pamphylia. One pagan feast day, this family of slave saints was given meat to sacrifice to an idol. They refused, and the entire famil"
 deathYear: 127
 died: "burned to death c.127"

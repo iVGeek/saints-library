@@ -1,7 +1,6 @@
 ---
 name: "Saint Theopista of Camerino"
 honorific: Saint
-title: "Saint Theopista of Camerino"
 summary: "Married to Saint Anastasius of Camerino. Convert. Martyred with all her family and servants."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 deathYear: 251

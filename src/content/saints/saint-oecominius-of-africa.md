@@ -1,7 +1,6 @@
 ---
 name: "Saint Oecominius of Africa"
 honorific: Saint
-title: "Saint Oecominius of Africa"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 2

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mercuria of Alexandria"
 honorific: Saint
-title: "Saint Mercuria of Alexandria"
 summary: "Elderly woman martyred in the persecutions of Decius."
 deathYear: 250
 died: "beheaded c.250 in Alexandria, Egypt"

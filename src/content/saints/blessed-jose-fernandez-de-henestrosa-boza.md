@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Fernández de Henestrosa Boza"
 honorific: Blessed
-title: "Blessed José Fernández de Henestrosa Boza"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936

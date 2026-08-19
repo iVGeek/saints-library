@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maurilio Macho Rodríguez"
 honorific: Blessed
-title: "Blessed Maurilio Macho Rodríguez"
 summary: "Passionist cleric. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg"
 searchAliases:

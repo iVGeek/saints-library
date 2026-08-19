@@ -1,7 +1,6 @@
 ---
 name: "Saint Clotsindis of Marchiennes"
 honorific: Saint
-title: "Saint Clotsindis of Marchiennes"
 summary: "Daughter of Saint Adalbald of Ostrevant and Saint Richrudis of Marchiennes. Benedictine nun at the convent of Marchiennes under the spiritual direction of her mother. Abbess of the house."
 searchAliases:
   - "Clotsend"

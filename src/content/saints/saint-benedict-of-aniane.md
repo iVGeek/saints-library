@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict of Aniane"
 honorific: Saint
-title: "Saint Benedict of Aniane"
 summary: "Born a Visigoth, the son of Aigul, Count of Maguelone. Educated at the court of Pepin. Courtier and cup-bearer to King Pepin and Blessed Charlemagne. Part of the 773 campaign of Charlemagne. Narrowly escaped drowning in the Tesin near Pavia, Italy while trying to save his brother"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aniane_%28H%C3%A9rault%2C_Fr%29_%C3%A9glise%2Cstatue_St._Beno%C3%AEt_d%27Aniane.JPG/960px-Aniane_%28H%C3%A9rault%2C_Fr%29_%C3%A9glise%2Cstatue_St._Beno%C3%AEt_d%27Aniane.JPG"
 searchAliases:

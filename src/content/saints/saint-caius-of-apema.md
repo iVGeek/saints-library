@@ -1,7 +1,6 @@
 ---
 name: "Saint Caius of Apema"
 honorific: Saint
-title: "Saint Caius of Apema"
 summary: "Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Alexander of Apema. Fought the Montanist heresy. Martyred in the persecutions of Emperor Marcus Aurelius."
 searchAliases:
   - "Gaius"

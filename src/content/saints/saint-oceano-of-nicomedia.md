@@ -1,7 +1,6 @@
 ---
 name: "Saint Oceano of Nicomedia"
 honorific: Saint
-title: "Saint Oceano of Nicomedia"
 summary: "Martyr."
 died: "Nicomedia, Bithynia (in modern Turkey)"
 deathPlace: "Bithynia (modern Turkey)"

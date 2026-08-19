@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis-Remi Benoist"
 honorific: Blessed
-title: "Blessed Louis-Remi Benoist"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 searchAliases:
   - "Louis-René Benoist"

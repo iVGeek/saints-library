@@ -1,7 +1,6 @@
 ---
 name: "Saint Tryphillius of Leucosia"
 honorific: Saint
-title: "Saint Tryphillius of Leucosia"
 summary: "Educated in Constantinople. Worked as a lawyer. Convert to Christianity. Spritiual student of Saint Spyridon of Cyprus. Bishop of Leucosia (modern Nicosia), Cyprus. Supported Saint Athanasius of Alexandria in his opposition to Arianism; Saint Athanasius praised Tryphillius for hi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Spyridon-of-Cyprus1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Sais"
 honorific: Saint
-title: "Martyrs of Sais"
 summary: "A group of Christians martyred for their faith, but about whom no details have survived."
 died: "drowned near Sais, Egypt"
 deathPlace: "Egypt"

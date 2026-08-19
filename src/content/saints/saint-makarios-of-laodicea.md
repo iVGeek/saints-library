@@ -1,7 +1,6 @@
 ---
 name: "Saint Makarios of Laodicea"
 honorific: Saint
-title: "Saint Makarios of Laodicea"
 summary: "Martyr."
 searchAliases:
   - "Macarios"

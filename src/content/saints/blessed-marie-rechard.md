@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie Rechard"
 honorific: Blessed
-title: "Blessed Marie Rechard"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1763
 deathYear: 1794

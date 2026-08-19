@@ -1,7 +1,6 @@
 ---
 name: "Saint Bartholomew the Apostle"
 honorific: Saint
-title: "Saint Bartholomew the Apostle"
 summary: "One of the Twelve Apostles. Probably a close friend of Saint Philip; Bartholomew's name is always mentioned in the Gospels in connection with Philip, and it was Philip who brought Bartholomew to Jesus. May have written a gospel, now lost; it is mentioned in other writings of the"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rubens_apostel_bartolomeus_grt.jpg/960px-Rubens_apostel_bartolomeus_grt.jpg"
 searchAliases:

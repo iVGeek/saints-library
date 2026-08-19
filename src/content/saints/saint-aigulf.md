@@ -1,7 +1,6 @@
 ---
 name: "Saint Aigulf"
 honorific: Saint
-title: "Saint Aigulf"
 summary: "Benedictine monk at Fleury, France. He led a party of monks sent to retrieve the relics of Saint Bernard from the Lombards. Abbot at the monastery in Lerins, France c.670, taking over a house badly in need of reform. Aigulf worked to restore order and discipline to the house, and"
 birthYear: 630
 deathYear: 676

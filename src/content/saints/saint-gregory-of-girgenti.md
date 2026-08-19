@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Girgenti"
 honorific: Saint
-title: "Saint Gregory of Girgenti"
 summary: "Bishop of Girgenti, Italy. Wrote a commentary on the book of Ecclesiastes, which has survived, and was a noted Bible teacher, explaining the Scriptures in a plain way to plain people."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-of-Girgenti.jpg"
 searchAliases:

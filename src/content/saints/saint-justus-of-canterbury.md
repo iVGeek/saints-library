@@ -1,7 +1,6 @@
 ---
 name: "Saint Justus of Canterbury"
 honorific: Saint
-title: "Saint Justus of Canterbury"
 summary: "Benedictine monk. Priest. Missionary to the Anglo-Saxons in 601, sent by Pope Saint Gregory the Great. Worked with Saint Augustine of Canterbury, Saint Paulinus of York, and Saint Lawrence of Canterbury. First bishop of Rochester, England in 604. In 616, the death of King Saint E"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Justus-of-Canterbury.jpg"
 deathYear: 627

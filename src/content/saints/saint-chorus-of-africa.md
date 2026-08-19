@@ -1,7 +1,6 @@
 ---
 name: "Saint Chorus of Africa"
 honorific: Saint
-title: "Saint Chorus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Corus of Africa"

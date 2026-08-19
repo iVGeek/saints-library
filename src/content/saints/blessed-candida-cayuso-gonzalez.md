@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cándida Cayuso González"
 honorific: Blessed
-title: "Blessed Cándida Cayuso González"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Cándida of Our Lady of Angels"

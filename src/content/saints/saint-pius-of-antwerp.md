@@ -1,7 +1,6 @@
 ---
 name: "Saint Pius of Antwerp"
 honorific: Saint
-title: "Saint Pius of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"

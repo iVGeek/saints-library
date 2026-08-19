@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus"
 honorific: Saint
-title: "Saint Maurus"
 summary: "Born to the nobility, the son of Equitius, a senator, and Giulia. Disciple of Saint Benedict of Nursia at age 12. Studied with Saint Placid. Deacon. Benedictine monk. Assisted Saint Benedict at Subiaco, Italy, and at Monte Cassino in 528. Founder and abbot of the abbey at Glanfeu"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Benedetto%2C_Mauro_e_Placido.jpg"
 searchAliases:

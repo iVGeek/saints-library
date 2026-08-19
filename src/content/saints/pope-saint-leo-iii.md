@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Leo III"
 honorific: Saint
-title: "Pope Saint Leo III"
 summary: " Upon his election, he sent Charlemagne the keys of Saint Peter a The son of Atyuppius and Elizabeth. Priest. Cardinal. Papal treasurer. Elected pope the day after his predecessor's burial, probably so there would not be any outside interference with the decision of the cardinals."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Pope_Leo_III_portrait_%E2%80%93_Triclinium_Leoninum.jpg"
 searchAliases:

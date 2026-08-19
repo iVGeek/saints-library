@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis de Halles"
 honorific: Blessed
-title: "Blessed Louis de Halles"
 summary: "Mercedarian friar. Imprisoned and tortured by Saracens for preaching Christianity while ransoming Christians enslaved by the Muslims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-de-Halles.jpg"
 deathYear: 1271

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Theodoric of Saint Evroult"
 honorific: Blessed
-title: "Blessed Theodoric of Saint Evroult"
 summary: "Educated by his uncle and godfather, Abbot Theodoric of Jumièges Abbey, the younger Theodoric became a Benedictine monk, then prior, then rector of the Jumièges monastic school. In 1050 he led a group of brother monks to re-claim the vacant Abbey of Saint-Evroult (in modern Saint"
 searchAliases:
   - "Theodoric of Mathonville"

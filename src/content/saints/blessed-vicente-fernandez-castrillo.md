@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Fernández Castrillo"
 honorific: Blessed
-title: "Blessed Vicente Fernández Castrillo"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Vicente Justino"

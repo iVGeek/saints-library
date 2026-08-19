@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maisam Pho Inpèng"
 honorific: Blessed
-title: "Blessed Maisam Pho Inpèng"
 summary: "Married layman in the apostolic vicariate of Vientiane (in modern Laos). Martyr."
 birthYear: 1934
 deathYear: 1970

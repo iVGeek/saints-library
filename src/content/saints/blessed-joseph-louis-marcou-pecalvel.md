@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph-Louis Marcou Pecalvel"
 honorific: Blessed
-title: "Blessed Joseph-Louis Marcou Pecalvel"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Louis de Jesus"

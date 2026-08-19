@@ -1,7 +1,6 @@
 ---
 name: "Saint Abclasta of Ebsdorf"
 honorific: Saint
-title: "Saint Abclasta of Ebsdorf"
 summary: "Member of the nobility. Soldier. Killed in battle against invading pagan Normans. One of the Martyrs of Ebsdorf."
 searchAliases:
   - "Addasta"

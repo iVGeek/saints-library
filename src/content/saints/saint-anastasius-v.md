@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius V"
 honorific: Saint
-title: "Saint Anastasius V"
 summary: "Priest. Martyr."
 died: "in Sicily"
 region: "England"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paphnutius of Bendura"
 honorific: Saint
-title: "Saint Paphnutius of Bendura"
 searchAliases:
   - "Paphnutios"
   - "Pafnutius"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Evermarus of Rousson"
 honorific: Saint
-title: "Saint Evermarus of Rousson"
 summary: "Born to the Frisian nobility, he became a pilgrim to Santiago de Compostela in Spain, and to several shrines in Belgium. Murdered on the road by bandits with seven fellow pilgrims while on the way to Maastricht, Netherlands. As he was a holy man on a holy pilgrimage, he is consid"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Evermarus-of-Rousson.jpg"
 searchAliases:

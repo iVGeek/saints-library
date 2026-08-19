@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Nicomedia"
 honorific: Saint
-title: "Saint Peter of Nicomedia"
 summary: "Chamberlain in the palace of Diocletian in Nicomedia (in modern Turkey). Overheard lamenting the cruelty shown to the Martyrs of Nicomedia during persecutions of Diocletian, he was exposed as a Christian, arrested, tortured and martyred  faith."
 searchAliases:
   - "Peter Cubicolario"

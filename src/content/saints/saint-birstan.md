@@ -1,7 +1,6 @@
 ---
 name: "Saint Birstan"
 honorific: Saint
-title: "Saint Birstan"
 summary: "Spiritual student of Saint Grimbald. Benedictine monk. Bishop of Winchester, England from 931 to 934. Known for his work with the poor, and his mission of praying for the dead; at one point the dead are reported to have responded “Amen”. Founded the Hospital of Saint John in Winc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Birnstan-Bishop.jpg"
 searchAliases:

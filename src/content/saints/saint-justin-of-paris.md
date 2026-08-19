@@ -1,7 +1,6 @@
 ---
 name: "Saint Justin of Paris"
 honorific: Saint
-title: "Saint Justin of Paris"
 summary: "Small child martyr. No other information has survived."
 deathYear: 290
 died: "c.290 at Louvre, archdiocese of Paris, France"

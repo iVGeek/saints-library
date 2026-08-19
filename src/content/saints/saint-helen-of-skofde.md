@@ -1,7 +1,6 @@
 ---
 name: "Saint Helen of Skofde"
 honorific: Saint
-title: "Saint Helen of Skofde"
 summary: "Born to the Swedish nobility. She married young, and was the mother of one daughter. Built the church of Skofde, Sweden. Widowed early in her marriage, after which she gave away most of her fortune to the poor. Helen's son-in-law was murdered by his own servants because of his cr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Helen-of-Skofde.jpg"
 searchAliases:

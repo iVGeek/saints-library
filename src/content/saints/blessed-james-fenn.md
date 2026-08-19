@@ -1,7 +1,6 @@
 ---
 name: "Blessed James Fenn"
 honorific: Blessed
-title: "Blessed James Fenn"
 summary: "Educated at Corpus Christi College and Gloucester Hall at Oxford University. Married layman and schoolmaster. Widower. He studied at Rheims, France, and was ordained in 1580. He returned to England to minister to covert Catholics in the area of Somerset. Arrested for his faith, h"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Blessed-james-fenn.png"
 deathYear: 1584

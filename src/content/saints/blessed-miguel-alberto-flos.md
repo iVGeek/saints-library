@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Alberto Flos"
 honorific: Blessed
-title: "Blessed Miguel Alberto Flos"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Exuperio"

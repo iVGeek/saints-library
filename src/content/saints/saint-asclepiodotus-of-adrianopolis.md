@@ -1,7 +1,6 @@
 ---
 name: "Saint Asclepiodotus of Adrianopolis"
 honorific: Saint
-title: "Saint Asclepiodotus of Adrianopolis"
 summary: "Martyred in the persecutions of Maximian."
 deathYear: 310
 died: "310 at Adrianopolis (Adrianople), a location in modern Bulgaria"

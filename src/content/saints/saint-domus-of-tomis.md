@@ -1,7 +1,6 @@
 ---
 name: "Saint Domus of Tomis"
 honorific: Saint
-title: "Saint Domus of Tomis"
 summary: "Martyr."
 died: "in Tomis, Scythia Minor (modern Constanta, Romania)"
 deathPlace: "Scythia Minor (modern Constanta, Romania)"

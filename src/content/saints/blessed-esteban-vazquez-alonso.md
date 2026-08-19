@@ -1,7 +1,6 @@
 ---
 name: "Blessed Esteban Vázquez Alonso"
 honorific: Blessed
-title: "Blessed Esteban Vázquez Alonso"
 summary: "Baptized at the age of three days. As a young man, he was drawn to religious life, and member of the Salesians of Don Bosco, starting his novitiate in Mohernando, Guadalajara, Spain. He made his profession on 23 July 1936 - and later that same day was imprisoned with all his Sale"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Esteban-Vázquez-Alonso.jpg"
 birthYear: 1915

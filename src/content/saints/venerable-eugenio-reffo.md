@@ -1,7 +1,6 @@
 ---
 name: "Venerable Eugenio Reffo"
 honorific: Venerable
-title: "Venerable Eugenio Reffo"
 summary: "Priest in the archdiocese of Turin, Italy. Co-founded the Congregation of Saint Joseph (Murialdines)."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Eugenio-Reffo.jpg"
 birthYear: 1843

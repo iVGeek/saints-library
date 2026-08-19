@@ -1,7 +1,6 @@
 ---
 name: "Saint Avidus of Rome"
 honorific: Saint
-title: "Saint Avidus of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

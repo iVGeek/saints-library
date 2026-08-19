@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulinus of Brescia"
 honorific: Saint
-title: "Saint Paulinus of Brescia"
 summary: "Bishop of Brescia, Italy c.524."
 deathYear: 545
 died: "c.545"

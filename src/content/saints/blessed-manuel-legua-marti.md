@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Legua Martí"
 honorific: Blessed
-title: "Blessed Manuel Legua Martí"
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father León María From Alaquàs"

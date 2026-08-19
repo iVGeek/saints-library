@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ismael Molinero Novillo"
 honorific: Venerable
-title: "Venerable Ismael Molinero Novillo"
 summary: "The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de Esténaga y Echevarría. In 1931, at age 14, he dro"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ismael-Molinero-Novillo.jpg"
 searchAliases:

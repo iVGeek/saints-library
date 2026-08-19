@@ -1,7 +1,6 @@
 ---
 name: "Saint Emiliana of Rome"
 honorific: Saint
-title: "Saint Emiliana of Rome"
 summary: "Daughter of the senator Gordian and Saint Silvia of Rome. Sister of Saint Trasilla. Paternal aunt of Pope Saint Gregory the Great. Niece of Pope Saint Felix III. Spent so much time kneeling in prayer that her knees and elbows were locked arthritically in the position. She and her"
 image: "https://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Caesarea"
 honorific: Saint
-title: "Saint Paul of Caesarea"
 summary: "Martyred in the persecutions of Galerius."
 deathYear: 309
 died: "309 at Caesarea, Palestine"

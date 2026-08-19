@@ -1,7 +1,6 @@
 ---
 name: "Saint Aucias of Thessalonica"
 honorific: Saint
-title: "Saint Aucias of Thessalonica"
 summary: "Reported to be a king, but of where is unknown. Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

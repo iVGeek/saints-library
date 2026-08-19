@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Alexandria"
 honorific: Saint
-title: "Martyrs of Alexandria"
 summary: "An unknown number of Christians who were massacred in church in 4th century Alexandria, Egypt by Arian heretics for adhering to the orthodox faith."
 region: "Italy"
 feastDay:

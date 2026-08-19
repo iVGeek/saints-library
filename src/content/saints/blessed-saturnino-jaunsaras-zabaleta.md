@@ -1,7 +1,6 @@
 ---
 name: "Blessed Saturnino Jaunsarás Zabaleta"
 honorific: Blessed
-title: "Blessed Saturnino Jaunsarás Zabaleta"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Herminio Pascual"

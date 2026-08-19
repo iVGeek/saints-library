@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcia of Caesarea"
 honorific: Saint
-title: "Saint Marcia of Caesarea"
 summary: "Convert. Martyr."
 died: "Caesarea, Palestine, date unknown"
 deathPlace: "Palestine, date unknown"

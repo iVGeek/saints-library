@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sabino Hernández Laso"
 honorific: Blessed
-title: "Blessed Sabino Hernández Laso"
 summary: "Member of the Salesians of Don Bosco, making his novitiate in Carabanchel Alto, Madrid, Spain, and his solemn profession in Campelio, Spain on 6 January 1914. Ordained a priest on 23 December 1916. Martyred in the Spanish Civil War for the offense of being a priest."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Sabino-Hernandez-Laso.jpg"
 birthYear: 1886

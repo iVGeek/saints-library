@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius"
 honorific: Saint
-title: "Saint Julius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

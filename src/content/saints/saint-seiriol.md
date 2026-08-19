@@ -1,7 +1,6 @@
 ---
 name: "Saint Seiriol Wyn"
 honorific: Saint
-title: "Saint Seiriol Wyn"
 summary: "The son of King Owain Danwyn of Rhos; brother of King Cynlas of Rhos and King Saint Einion of Llyn. Called to religious life, Seiriol built himself a cell at the Penmon Priory in on the Isle of Anglesy; his brothers didn't think much of it, and rebuilt it. Friend of Saint Cybri;"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Seiriol-Wyn.jpg"
 born: "6th century Wales"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María González Solís"
 honorific: Blessed
-title: "Blessed José María González Solís"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-González-Solís.jpg"
 birthYear: 1877

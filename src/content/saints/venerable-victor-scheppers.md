@@ -1,7 +1,6 @@
 ---
 name: "Venerable Victor Scheppers"
 honorific: Venerable
-title: "Venerable Victor Scheppers"
 summary: "Priest in the archdiocese of Mechelen-Brussel, Belgium. Founder of the Brothers of Our Lady of Mercy."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Victor_Scheppers.jpg"
 birthYear: 1802

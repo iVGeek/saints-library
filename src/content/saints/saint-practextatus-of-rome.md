@@ -1,7 +1,6 @@
 ---
 name: "Saint Practextatus of Rome"
 honorific: Saint
-title: "Saint Practextatus of Rome"
 summary: "Martyred in the persecutions of Diocletian for ministering to Christian prisoners."
 deathYear: 303
 born: "Roman citizen"

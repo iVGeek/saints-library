@@ -1,7 +1,6 @@
 ---
 name: "Saint Balda of Jouarre"
 honorific: Saint
-title: "Saint Balda of Jouarre"
 summary: "Late 7th century abbess in Jouarre Abbey, diocese of Meaux, France."
 died: "relics in the abbey church at Nesle-la-Reposte, diocese of Troyes, France"
 deathPlace: "dioceseTroyes, France"

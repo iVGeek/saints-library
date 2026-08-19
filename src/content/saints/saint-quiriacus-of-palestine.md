@@ -1,7 +1,6 @@
 ---
 name: "Saint Quiriacus of Palestine"
 honorific: Saint
-title: "Saint Quiriacus of Palestine"
 summary: "Hermit in Palestine who lived among several groups of hermits, and was renowned in each one for his holiness."
 searchAliases:
   - "Ciriaco"

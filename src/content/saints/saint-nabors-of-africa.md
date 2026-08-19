@@ -1,7 +1,6 @@
 ---
 name: "Saint Nabors of Africa"
 honorific: Saint
-title: "Saint Nabors of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Naborus"

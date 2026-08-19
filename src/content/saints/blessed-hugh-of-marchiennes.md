@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hugh of Marchiennes"
 honorific: Blessed
-title: "Blessed Hugh of Marchiennes"
 summary: "Educated at Rheims, France. Benedictine monk at Saint Martin's abbey, Tournai, Belgium. Abbot of the monastery at Marchiennes, France in 1148."
 deathYear: 1158
 born: "at Tournai, Belgium"

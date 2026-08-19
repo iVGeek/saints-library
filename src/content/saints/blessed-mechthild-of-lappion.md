@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mechthild of Lappion"
 honorific: Blessed
-title: "Blessed Mechthild of Lappion"
 summary: "Anchoress in Lappion, Diocese of Laon, France."
 searchAliases:
   - "Matilda"

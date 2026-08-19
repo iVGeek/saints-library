@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margarita de Maturana"
 honorific: Blessed
-title: "Blessed Margarita de Maturana"
 summary: "Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of Charity. On 10 August 1903, Pilar entered the novi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Margarita-de-Maturana.jpg"
 searchAliases:

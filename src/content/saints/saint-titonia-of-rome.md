@@ -1,7 +1,6 @@
 ---
 name: "Saint Titonia of Rome"
 honorific: Saint
-title: "Saint Titonia of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

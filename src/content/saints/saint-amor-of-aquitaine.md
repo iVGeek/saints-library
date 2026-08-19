@@ -1,7 +1,6 @@
 ---
 name: "Saint Amor of Aquitaine"
 honorific: Saint
-title: "Saint Amor of Aquitaine"
 summary: "Ninth century hermit in Maastricht, Netherlands. Founded the convent of Münsterbilsen near Liège, Belgium."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amor-of-Aquitaine.jpg"
 searchAliases:

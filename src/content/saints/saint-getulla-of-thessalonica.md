@@ -1,7 +1,6 @@
 ---
 name: "Saint Getulla of Thessalonica"
 honorific: Saint
-title: "Saint Getulla of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Huguet Cardona"
 honorific: Blessed
-title: "Blessed Joan Huguet Cardona"
 summary: "Ordained a priest for the diocese of Minorca, Spain on 6 June 1936. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Huguet-Cardona.jpg"
 birthYear: 1913

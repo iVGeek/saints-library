@@ -1,7 +1,6 @@
 ---
 name: "Venerable Madeleine Du Bois de Fontaines"
 honorific: Venerable
-title: "Venerable Madeleine Du Bois de Fontaines"
 summary: "Discalced Carmelite nun for over 30 years. Novice mistress for her house. In 1608 she was chosen the first prioress of the Discalced Carmelite sisters in France, serving at the Carmel of the Incarnation in Paris, France. Founded the Carmel of Lyon, France. Founded the Carmel of t"
 searchAliases:
   - "Sister Madeleine of Saint Joseph"

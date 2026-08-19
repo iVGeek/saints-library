@@ -1,7 +1,6 @@
 ---
 name: "Saint Eutychius of Aquileia"
 honorific: Saint
-title: "Saint Eutychius of Aquileia"
 summary: "Martyr."
 died: "Aquileia, Italy"
 deathPlace: "Italy"

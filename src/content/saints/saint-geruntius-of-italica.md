@@ -1,7 +1,6 @@
 ---
 name: "Saint Geruntius of Italica"
 honorific: Saint
-title: "Saint Geruntius of Italica"
 summary: "First century missionary to Spain; legend says he was a spiritual student of the Apostles. Bishop of Talco (Italica), Spain. Martyr."
 deathYear: 100
 died: "c.100 in prison"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Arce Fernández"
 honorific: Blessed
-title: "Blessed Felipe Arce Fernández"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elipio of Saint Rose"

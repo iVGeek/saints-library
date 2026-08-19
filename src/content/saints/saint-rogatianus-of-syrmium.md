@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatianus of Syrmium"
 honorific: Saint
-title: "Saint Rogatianus of Syrmium"
 summary: "One of a group of 4th century martyrs."
 deathYear: 303
 died: "c.303 at Syrmium, Pannonia (modern Sremska Mitrovica, Serbia)"

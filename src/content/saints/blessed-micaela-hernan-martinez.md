@@ -1,7 +1,6 @@
 ---
 name: "Blessed Micaela Hernán Martínez"
 honorific: Blessed
-title: "Blessed Micaela Hernán Martínez"
 summary: "The daughter of Benito, a merchant, and Micaela, young Micela was educated at a boarding school run by the Daughters of Charity of Saint Vincent de Paul. A member of the Daughters of Mary of the Miraculous Medal, a group centered on Marian spirituality, prayer and service. She wo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Micaela-Hernan-Martinez.jpg"
 birthYear: 1881

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giovanna Profilio"
 honorific: Venerable
-title: "Venerable Giovanna Profilio"
 summary: "Fourth daughter of Giuseppe Profilio and Nunziata Marchese, a pious family who provided her a solid Christian education and example of being active in parish life; her brother Anthony became a priest. Upon the death of her father in 1895, Giovanna and her family emigrated from It"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanna-Profilio.jpg"
 searchAliases:

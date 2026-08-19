@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphemia of Abyssinia"
 honorific: Saint
-title: "Saint Euphemia of Abyssinia"
 summary: "4th century nun in Abyssinia (modern Ethiopia)."
 feastDay:
   month: 6

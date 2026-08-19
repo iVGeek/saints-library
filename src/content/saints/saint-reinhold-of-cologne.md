@@ -1,7 +1,6 @@
 ---
 name: "Saint Reinhold of Cologne"
 honorific: Saint
-title: "Saint Reinhold of Cologne"
 summary: "Relative of Charlemagne. Benedictine monk. Supervised building operations at Saint Pantaleon abbey, Cologne, Germany. Murdered by the construction workers; Reinhold worked harder than they did and made them look bad."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Reinhold-of-Cologne-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Comasia"
 honorific: Saint
-title: "Saint Comasia"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Comasia.jpg"
 died: "3rd century Rome, Italy"

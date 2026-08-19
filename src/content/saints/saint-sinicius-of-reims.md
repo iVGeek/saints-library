@@ -1,7 +1,6 @@
 ---
 name: "Saint Sinicius of Reims"
 honorific: Saint
-title: "Saint Sinicius of Reims"
 summary: "Evangelizing priest in the regions of Soissons and Reims (in modern France) in the latter 3rd century, working with Saint Sixtus of Reims. Bishop of Soissons, France. Second bishop of Reims, France, serving from 280 to 286."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Sinicius-of-Reims.jpg"
 searchAliases:

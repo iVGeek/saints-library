@@ -1,7 +1,6 @@
 ---
 name: "Saint Amandus of Boixe"
 honorific: Saint
-title: "Saint Amandus of Boixe"
 summary: "Rather than go into business as his family wanted, Amand decided to take up arms against the Saracens. Setting sail for the front lines, his ship was blown back to show, and Amand took this as a sign that he should not be a soldier. He gave away all his possessions, became a herm"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Amandus-of-Boixe.jpg"
 searchAliases:

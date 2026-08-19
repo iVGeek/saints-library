@@ -1,7 +1,6 @@
 ---
 name: "Saint Zeno of Alexandria"
 honorific: Saint
-title: "Saint Zeno of Alexandria"
 summary: "Roman soldier assigned to guard a group of Egyptian Christians imprisoned for their faith in the persecutions of Decius. During their trial he encouraged the prisoners not to apostatize. Arrested as a Christian, he was martyred with Saint Ammon, Saint Ingen, Saint Ptolomy, and Sa"
 searchAliases:
   - "Zenone"

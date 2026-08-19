@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Sabina"
 honorific: Saint
-title: "Saint Maximus of Sabina"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "in 304 on the Via Salaria outside Rome, Italy"

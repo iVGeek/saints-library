@@ -1,7 +1,6 @@
 ---
 name: "Saint Florus of Ostia"
 honorific: Saint
-title: "Saint Florus of Ostia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Floro"

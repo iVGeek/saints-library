@@ -1,7 +1,6 @@
 ---
 name: "Saint Ferreolus the Tribune"
 honorific: Saint
-title: "Saint Ferreolus the Tribune"
 summary: "Tribune in the imperial Roman army, stationed at Vienne, Gaul (modern France). During the persecutions of Diocletian, he hid Saint Julian of Brioude from the anti-Christian authorities; Ferreolus may have been Julian's superior officer. For this, and for his faith, he was arreste"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferreolus-the-Tribune1.jpg"
 searchAliases:

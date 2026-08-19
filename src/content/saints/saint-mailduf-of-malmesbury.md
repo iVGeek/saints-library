@@ -1,7 +1,6 @@
 ---
 name: "Saint Mailduf of Malmesbury"
 honorific: Saint
-title: "Saint Mailduf of Malmesbury"
 summary: "Monk. Abbot. Founded the monastery at Malmesbury, England. Spiritual teacher of Saint Aldhelm of Sherborne."
 searchAliases:
   - "Maeldulph"

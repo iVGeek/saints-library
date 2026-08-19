@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesco Paoli"
 honorific: Blessed
-title: "Blessed Francesco Paoli"
 summary: "The son of Angelo Paoli and Santa Morelli. As a young man he spent his spare time teaching catechism to poor children in Argigliano, Casola in Lunigiana, Italy. Calced Carmelite novice in Siena, Italy at age 18. Professed priest in the Carmelites of the Ancient Observance. Assign"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-francesco-paoli/venerable-francesco-paoli-01.jpg"
 searchAliases:

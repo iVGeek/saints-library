@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Perugia"
 honorific: Saint
-title: "Saint Florentius of Perugia"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "beheaded in 250 in Perugia, Italy"

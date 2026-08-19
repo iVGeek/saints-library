@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Gaza"
 honorific: Saint
-title: "Saint John of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

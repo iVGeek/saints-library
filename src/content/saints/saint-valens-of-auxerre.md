@@ -1,7 +1,6 @@
 ---
 name: "Saint Valens of Auxerre"
 honorific: Saint
-title: "Saint Valens of Auxerre"
 summary: "Priest. Bishop. Martyred with three boys whose names have not come down to us."
 searchAliases:
   - "Vales"

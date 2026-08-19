@@ -1,7 +1,6 @@
 ---
 name: "Saint Phaolô Nguyen Ngân"
 honorific: Venerable
-title: "Saint Phaolô Nguyen Ngân"
 summary: "Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Martyred in the persecutions of Emperor Thieu Tri."
 birthYear: 1771
 deathYear: 1840

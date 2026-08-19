@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Barriopedro Tejedor"
 honorific: Blessed
-title: "Blessed Gabriel Barriopedro Tejedor"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gabriel-Barriopedro-Tejedor.jpg"
 birthYear: 1883

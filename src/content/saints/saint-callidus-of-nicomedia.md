@@ -1,7 +1,6 @@
 ---
 name: "Saint Callidus of Nicomedia"
 honorific: Saint
-title: "Saint Callidus of Nicomedia"
 summary: "Martyr."
 died: "in Nicomedia, Bithynia, Asia Minor (modern Izmet, Turkey)"
 deathPlace: "Bithynia, Asia Minor (modern Izmet, Turkey)"

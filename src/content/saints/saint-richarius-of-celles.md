@@ -1,7 +1,6 @@
 ---
 name: "Saint Richarius of Celles"
 honorific: Saint
-title: "Saint Richarius of Celles"
 summary: "Born a pagan. As a young man he protected Saints Caidoc and Fricor, Irish missionaries in danger from local non-Christians. While in hiding, the missionaries converted Richardius. He became a priest, travelling the country on a donkey and preaching the Gospel. Worked in England f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Richarius-of-Celles.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonilla"
 honorific: Saint
-title: "Saint Leonilla"
 summary: "Grandmother of Saint Speusippus, Saint Eleusippus and Saint Meleusippus. Martyred by Marcus Aurelius. An extraordinary series of legends grew up around the family over the years."
 died: "relics in Langres, France"
 deathPlace: "France"

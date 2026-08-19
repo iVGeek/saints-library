@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip of Alexandria"
 honorific: Saint
-title: "Saint Philip of Alexandria"
 summary: "Martyr."
 died: "early 4th-century in Alexandria, Egypt"
 deathPlace: "Egypt"

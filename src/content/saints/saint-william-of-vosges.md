@@ -1,7 +1,6 @@
 ---
 name: "Saint William of Vosges"
 honorific: Saint
-title: "Saint William of Vosges"
 summary: "Hermit at a monastery in the Vosges region of France."
 deathYear: 860
 died: "c.860"

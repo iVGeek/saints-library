@@ -1,7 +1,6 @@
 ---
 name: "Saint Christina the Astonishing"
 honorific: Saint
-title: "Saint Christina the Astonishing"
 summary: "Born to a peasant family, orphaned as a child, and raised by two older sisters. At age 21, she experienced a severe seizure of what may have been epilepsy. It was so severe as to be cateleptic, and she was thought to have died. During her funeral Mass, she suddenly recovered, and"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Christina_the_Astonishing_1630_prayer_card_Fasti_Mariani.png"
 searchAliases:

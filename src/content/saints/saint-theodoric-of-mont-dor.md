@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodoric of Mont d'Or"
 honorific: Saint
-title: "Saint Theodoric of Mont d'Or"
 summary: "Priest. Spiritual student of Saint Remigius of Rheims. Founded the abbey at Mont d'Or, France, and served as the house's first abbot. Noted evangelist. A healer, he miraculously cured King Theodoric of an eye disease."
 searchAliases:
   - "Thierri"

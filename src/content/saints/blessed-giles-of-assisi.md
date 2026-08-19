@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giles of Assisi"
 honorific: Blessed
-title: "Blessed Giles of Assisi"
 summary: "Friend and third follower of Saint Francis of Assisi. Sent as a missionary to Muslims in Tunis, but had no success. Upon his return, he lived at various places in Italy where for the rest of his days he was in demand as a spiritual advisor; his “Sayings” have been printed in many"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Legend_of_St._Francis_by_Giotto.jpg/960px-Legend_of_St._Francis_by_Giotto.jpg"
 searchAliases:

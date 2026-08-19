@@ -1,7 +1,6 @@
 ---
 name: "Saint Helen of Auxerre"
 honorific: Saint
-title: "Saint Helen of Auxerre"
 summary: "Maiden described in the Acts of Saint Amator of Auxerre as being with him, and of being a holy woman. No details about her were given, and no other information has survived."
 searchAliases:
   - "Helena"

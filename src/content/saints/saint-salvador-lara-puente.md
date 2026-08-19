@@ -1,7 +1,6 @@
 ---
 name: "Saint Salvador Lara Puente"
 honorific: Venerable
-title: "Saint Salvador Lara Puente"
 summary: " On 29 July 1929, a LN Seminarian at Durango, Mexico, he was forced to drop out to help support his family financially. Assisted Saint Luis Batiz in his parish work. President of Catholic Action (ACJM). Secretary of the National League for the Defense of Religious Liberty (LNDLR)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Salvador-Lara-Puente.jpg"
 searchAliases:

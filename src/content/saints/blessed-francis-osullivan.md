@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis O'Sullivan"
 honorific: Blessed
-title: "Blessed Francis O'Sullivan"
 summary: "Franciscan Friars Minor priest. One of the Irish Martyrs."
 deathYear: 1653
 born: "Irish"

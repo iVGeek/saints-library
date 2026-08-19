@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Venosa"
 honorific: Saint
-title: "Saint Januarius of Venosa"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 deathYear: 303
 died: "c.303 at Venosa, Italy"

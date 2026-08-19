@@ -1,7 +1,6 @@
 ---
 name: "Saint Livonius of Eichstätt"
 honorific: Saint
-title: "Saint Livonius of Eichstätt"
 summary: "Martyr."
 died: "in Rome, Italy"
 deathPlace: "Italy"

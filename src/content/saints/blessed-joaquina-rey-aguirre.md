@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquina Rey Aguirre"
 honorific: Blessed
-title: "Blessed Joaquina Rey Aguirre"
 summary: "The daughter of Francisco, a commercial real estate agent, and Jerónima, Joaquina was baptized at the age of six days. At the age of 30, she joined the Daughters of Charity, training at the La Princesa de Madrid hospital, and then the Daughters motherhouse. She was assigned to th"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquina-Rey-Aguirre.jpg"
 birthYear: 1895

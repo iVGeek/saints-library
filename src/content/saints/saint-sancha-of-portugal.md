@@ -1,7 +1,6 @@
 ---
 name: "Saint Sancha of Portugal"
 honorific: Saint
-title: "Saint Sancha of Portugal"
 summary: "Born a princess, the daughter of King Sancho I of Portugal; sister of Blessed Mafilda and Saint Theresa of Portugal. She devoted herself to charity, supported the Franciscans and Dominicans in Portugal including helping Franciscan missionaries en route to Morocco. Founded a Ciste"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sancha-of-Portugal.jpg"
 searchAliases:

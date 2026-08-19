@@ -1,7 +1,6 @@
 ---
 name: "Saint Priscus of Rome"
 honorific: Saint
-title: "Saint Priscus of Rome"
 summary: "Priest. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Crispinus"

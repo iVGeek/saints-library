@@ -1,7 +1,6 @@
 ---
 name: "Saint Deochar"
 honorific: Saint
-title: "Saint Deochar"
 summary: "Hermit in the Franconia forests near Fulda, an area in modern Germany. Spiritual student of Blessed Alcuin at Aachen, Germany. Benedictine monk and first abbot of Herriedon abbey; he was chosen for the position by Blessed Charlemagne. Appointed missus regius (king's messenger), a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Deochar.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Philippe Marchand"
 honorific: Blessed
-title: "Blessed Jean-Philippe Marchand"
 summary: "Priest in the diocese of Poitiers, France. One of the Martyrs of September."
 birthYear: 1764
 deathYear: 1792

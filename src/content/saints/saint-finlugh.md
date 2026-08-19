@@ -1,7 +1,6 @@
 ---
 name: "Saint Finlugh of Derry"
 honorific: Saint
-title: "Saint Finlugh of Derry"
 summary: "Son of Pipan and Aes; brother of Saint Fintan of Doon. Spiritual student of Saint Columba of Iona in Scotland. Abbot in a Columban monastery in County Derry, Ireland."
 searchAliases:
   - "Finlag"

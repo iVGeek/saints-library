@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nemesio García Rubio"
 honorific: Blessed
-title: "Blessed Nemesio García Rubio"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

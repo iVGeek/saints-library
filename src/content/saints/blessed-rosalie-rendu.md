@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rosalie Rendu"
 honorific: Blessed
-title: "Blessed Rosalie Rendu"
 summary: "Eldest of four daughters in a middle class mountain family. When she was three years old, the French Revolution broke out. Priests loyal to Rome were expelled, killed, or chased into hiding. Jeanne's family hid those who stayed to minister to French Catholics, claiming that they"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jeanne_Marie_Rendu.gif"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Du Fengju"
 honorific: Venerable
-title: "Saint Magdalena Du Fengju"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China; mother of Saint Maria Du Tianshi. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Benedict Joseph Labre"
 honorific: Saint
-title: "Saint Benedict Joseph Labre"
 summary: "Oldest of fifteen children in a prosperous middle class family. Educated by his uncle, a parish priest. Following his uncle's death, he tried to join the Trappists, Carthusians, and Cistercians, but was rejected by them all. He spent years wandering Europe, especially Rome, Italy"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/BJLABRE1.jpg"
 searchAliases:

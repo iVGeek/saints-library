@@ -1,7 +1,6 @@
 ---
 name: "Saint Sporoc"
 honorific: Saint
-title: "Saint Sporoc"
 summary: "Irish nun mentioned in the martyrologies of Tallaght, Gorman and Donegal, but about whom we know nothing else."
 region: "Ireland"
 feastDay:

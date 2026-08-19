@@ -1,7 +1,6 @@
 ---
 name: "Saint John Stone"
 honorific: Saint
-title: "Saint John Stone"
 summary: "Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying royal supremacy of the Church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Stone.jpg"
 deathYear: 1538

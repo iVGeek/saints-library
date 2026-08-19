@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagius of Oviedo"
 honorific: Saint
-title: "Saint Pelagius of Oviedo"
 summary: "Left with Moors at age 10 as a hostage for his captured Christian uncle. Three years later, when Pelagius had not been ransomed, he was offered his freedom and a reward if he would convert to Islam and denounce Christianity; he declined. Martyred at age 13."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pelagius_of_Oviedo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Nestita of Corinth"
 honorific: Saint
-title: "Saint Nestita of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Nola"
 honorific: Saint
-title: "Saint Felix of Nola"
 summary: " When Maximus f Elder son of Hermias, a Syrian soldier who had retired to Nola, Italy. After his father's death, Felix sold off most of his property and possessions, gave the proceeds to the poor, and pursued a clerical vocation. Ordained by, and worked with Saint Maximus of Nola."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Felix_of_Nola-1.jpg"
 searchAliases:

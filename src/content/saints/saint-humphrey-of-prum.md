@@ -1,7 +1,6 @@
 ---
 name: "Saint Humphrey of Prüm"
 honorific: Saint
-title: "Saint Humphrey of Prüm"
 summary: "Benedictine monk at Prüm, Germany. Bishop of Thérouanne, France. Abbot of Saint Bertin Abbey. Cared for and supported his flock during Norman invasion. He had a special devotion to the feast of the Assumption of Our Lady."
 searchAliases:
   - "Humphrey of Pruem"

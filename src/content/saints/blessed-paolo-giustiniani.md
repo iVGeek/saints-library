@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paolo Giustiniani"
 honorific: Blessed
-title: "Blessed Paolo Giustiniani"
 summary: "Born to the Venetian nobility, the son of Francesco Giustiniani and Paola Malipiero. Studied theology and philosophy at the University of Padua. Pilgrim to the Holy Lands in 1507 which left with a desire for the religious life. He joined the Camaldolese hermits in 1510 and became"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Giustiniani.jpg"
 birthYear: 1476

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roman Lysko"
 honorific: Blessed
-title: "Blessed Roman Lysko"
 summary: "Greek Catholic. Graduated from the Lviv Theological Academy. Married. Ordained on 28 August 1941. Pastor of the Archeparchy of Lviv for the Ukrainians. Arrested for his faith on 9 September 1949 by the NKVD; imprisoned on Lontskoho Street, Lviv. Noted for loudly singing Psalms wh"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/90/%D0%9B%D0%B8%D1%81%D0%BA%D0%BE_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD.jpg"
 birthYear: 1914

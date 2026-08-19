@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Pascual Pallardó"
 honorific: Blessed
-title: "Blessed Josefa Pascual Pallardó"
 summary: "Professed religious in the Sisters of the Christian Doctrine, joining in 1889, and serving her community in any menial task needed to keep the house running, much of the time spent as a cook. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:

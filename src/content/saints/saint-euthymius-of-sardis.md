@@ -1,7 +1,6 @@
 ---
 name: "Saint Euthymius of Sardis"
 honorific: Saint
-title: "Saint Euthymius of Sardis"
 summary: "Studied in Alexandria, Egypt. Monk. Priest. Bishop of Sardis, Lydia (in modern Turkey) in 787. He fought iconoclasm, and condemned it at the Seventh Ecumenical Council in Nicea. For this opposition, and other conflicts with Emperor Nicephorus, Euthymmius was exiled three times. O"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Martyrdom_of_Euthymius_of_Sardeis.jpg/960px-Martyrdom_of_Euthymius_of_Sardeis.jpg"
 searchAliases:

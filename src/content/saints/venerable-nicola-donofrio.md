@@ -1,7 +1,6 @@
 ---
 name: "Venerable Nicola D'Onofrio"
 honorific: Venerable
-title: "Venerable Nicola D'Onofrio"
 summary: "From the age of seven, Nicola knew that he wanted to be a priest, and was drawn to religious life. Though his family was initially opposed, they allowed him to start studying with the Camillians at age 12 in 1955. He joined the Camillians (Order of the Clerks Regular, Ministers t"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nicola_Gave.jpg"
 birthYear: 1943

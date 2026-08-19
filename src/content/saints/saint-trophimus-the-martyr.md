@@ -1,7 +1,6 @@
 ---
 name: "Saint Trophimus the Martyr"
 honorific: Saint
-title: "Saint Trophimus the Martyr"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Trofimo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fedelemia"
 honorific: Saint
-title: "Saint Fedelemia"
 summary: "Daughter of King Leoghaire of Ireland; sister of Saint Eithne. She and her sister met Saint Patrick near the fountain of Clebach, received instruction in Christianity, were baptized, received their First Communion, and died in an ecstasy of love. An ancient church was built over"
 searchAliases:
   - "Fedelma"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Luque Jurado"
 honorific: Blessed
-title: "Blessed Antonio Luque Jurado"
 summary: "Priest of the diocese of Córdoba, Spain, serving as parish priest in the Belalcázar community. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

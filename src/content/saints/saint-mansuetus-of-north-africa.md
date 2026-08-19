@@ -1,7 +1,6 @@
 ---
 name: "Saint Mansuetus of Uruci"
 honorific: Saint
-title: "Saint Mansuetus of Uruci"
 summary: "Fifth century African bishop. Martyred in the persecutions of the Arian Vandal king Genseric."
 searchAliases:
   - "Mansueto"

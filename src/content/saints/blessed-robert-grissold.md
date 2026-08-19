@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Grissold"
 honorific: Blessed
-title: "Blessed Robert Grissold"
 summary: "Lifelong layman in the apostolic vicariate of England. Martyr."
 birthYear: 1575
 deathYear: 1604

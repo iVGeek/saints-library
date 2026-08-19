@@ -1,7 +1,6 @@
 ---
 name: "Saint Sempronius of Africa"
 honorific: Saint
-title: "Saint Sempronius of Africa"
 summary: "Martyr. No further information has survived."
 searchAliases:
   - "Symphronius"

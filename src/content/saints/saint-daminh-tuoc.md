@@ -1,7 +1,6 @@
 ---
 name: "Saint Ðaminh Tuoc"
 honorific: Venerable
-title: "Saint Ðaminh Tuoc"
 summary: "Dominican tertiary and priest. One of the Martyrs of Vietnam."
 searchAliases:
   - "Domenico"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santos Escudero Miguel"
 honorific: Blessed
-title: "Blessed Santos Escudero Miguel"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Santos"

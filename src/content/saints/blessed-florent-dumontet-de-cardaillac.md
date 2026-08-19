@@ -1,7 +1,6 @@
 ---
 name: "Blessed Florent Dumontet de Cardaillac"
 honorific: Blessed
-title: "Blessed Florent Dumontet de Cardaillac"
 summary: "Priest in the diocese of Castres, France. Imprisoned for his faith on a prison ship during the persecutions of the French Revolution, he ministered to other prisoners and cared for the sick until his own health broke. Martyr. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:

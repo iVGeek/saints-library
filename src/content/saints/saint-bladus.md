@@ -1,7 +1,6 @@
 ---
 name: "Saint Bladus"
 honorific: Saint
-title: "Saint Bladus"
 summary: "Early bishop on the Isle of Man."
 searchAliases:
   - "Blade"

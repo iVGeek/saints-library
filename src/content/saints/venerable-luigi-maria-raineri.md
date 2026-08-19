@@ -1,7 +1,6 @@
 ---
 name: "Venerable Luigi Maria Raineri"
 honorific: Venerable
-title: "Venerable Luigi Maria Raineri"
 summary: "Luigi initially wanted to join the Dominicans like three of his brothers and an uncle, but his school grades worked against him. Instead, in 1908, after hearing the preaching of Father Giovanni Maria Semeria, he joined the Barnabites. He studied in Genoa, Italy for several years,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Luigi-Maria-Raineri.jpg"
 birthYear: 1895

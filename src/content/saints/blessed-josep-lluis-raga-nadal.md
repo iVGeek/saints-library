@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Lluis Raga Nadal"
 honorific: Blessed
-title: "Blessed Josep Lluis Raga Nadal"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eufrosí Maria"

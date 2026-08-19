@@ -1,7 +1,6 @@
 ---
 name: "Saint Maro"
 honorific: Saint
-title: "Saint Maro"
 summary: "Hermit who lived near the Orontes River at Cyrrhus, generally in the open with no shelter. When he found a pagan temple, he dedicated it to God and made it his oratory. Ordained in 405. Spent his nights standing in prayer. Had the gift of healing, both physical ills and of vices."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maron.jpg"
 searchAliases:

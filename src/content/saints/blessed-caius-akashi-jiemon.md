@@ -1,7 +1,6 @@
 ---
 name: "Blessed Caius Akashi Jiemon"
 honorific: Blessed
-title: "Blessed Caius Akashi Jiemon"
 summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
 deathYear: 1627
 born: "Korea"

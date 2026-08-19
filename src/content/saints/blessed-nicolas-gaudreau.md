@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas Gaudreau"
 honorific: Blessed
-title: "Blessed Nicolas Gaudreau"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1744
 deathYear: 1792

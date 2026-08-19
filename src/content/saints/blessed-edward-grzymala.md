@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Grzymala"
 honorific: Blessed
-title: "Blessed Edward Grzymala"
 summary: "Priest in the diocese of Wloclawek, Poland. Imprisoned and murdered in the Nazi persecutions. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Grzymala.jpg"
 birthYear: 1906

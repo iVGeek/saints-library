@@ -1,7 +1,6 @@
 ---
 name: "Saint Mamas"
 honorific: Saint
-title: "Saint Mamas"
 summary: "Son of Saint Theodotus and Saint Rufina; he was born in prison where they were being held prior to martyrdom, and he was raised by Saint Ammi. Shepherd who was known to preach to the animals in the fields; they gathered around to hear the good news, and a lion stayed with him as"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mamas.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine Sailland d’Epinatz"
 honorific: Blessed
-title: "Blessed Perrine Sailland d’Epinatz"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Perrine-Sailland-d’Epinatz.jpg"
 birthYear: 1768

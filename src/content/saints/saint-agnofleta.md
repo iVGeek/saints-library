@@ -1,7 +1,6 @@
 ---
 name: "Saint Agnofleta"
 honorific: Saint
-title: "Saint Agnofleta"
 summary: "Seventh century nun. Friend of Saint Longis."
 searchAliases:
   - "Nofleta"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Liberatus of Rome"
 honorific: Saint
-title: "Saint Liberatus of Rome"
 summary: "Martyr. Venerated in Rome. No other information as survived."
 searchAliases:
   - "Liberale"

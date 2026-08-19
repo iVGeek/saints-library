@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carmen Barrera Izaguirre"
 honorific: Blessed
-title: "Blessed Carmen Barrera Izaguirre"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Barrera-Izaguirre.jpg"
 searchAliases:

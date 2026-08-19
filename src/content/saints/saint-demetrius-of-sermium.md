@@ -1,7 +1,6 @@
 ---
 name: "Saint Demetrius of Sermium"
 honorific: Saint
-title: "Saint Demetrius of Sermium"
 summary: "Born to a wealthy, noble family and raised Christian. Well-educated, he became a professional public speaker; his explanations of Christianity brought many converts. Soldier. Deacon. Duke of Thessaly under emperor Maximian in 190. When he was found to be a Christian he was arrest"
 image: "http://catholicsaints.info/wp-content/uploads/saint-demetrius-of-sermium.jpg"
 searchAliases:

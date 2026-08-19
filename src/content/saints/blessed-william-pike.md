@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Pike"
 honorific: Blessed
-title: "Blessed William Pike"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 searchAliases:
   - "William Pikes"

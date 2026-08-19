@@ -1,7 +1,6 @@
 ---
 name: "Blessed Aldara Ériz de Lugo"
 honorific: Blessed
-title: "Blessed Aldara Ériz de Lugo"
 summary: "Born to the Galician nobility, the daughter of Count Ero Fernández and Adosinda Romanez de Monterroso; sister of Saint Godiña. Married to Count Gutier Menéndez, she was the mother of Saint Rudesind, Count Froila Gutiérrez of Trastámara, Count Munio Guterres de Celanova of Sobrado"
 searchAliases:
   - "Aldara de Celanova"

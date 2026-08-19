@@ -1,7 +1,6 @@
 ---
 name: "Blessed George Swallowell"
 honorific: Blessed
-title: "Blessed George Swallowell"
 summary: "Layman schoolmaster and Protestant minister. He converted to Catholicism, which led to his execution in the persecutions of Queen Elizabeth I. Martyr."
 deathYear: 1594
 born: "Shadforth, Durham, England"

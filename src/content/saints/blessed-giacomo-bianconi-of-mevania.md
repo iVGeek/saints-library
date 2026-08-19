@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giacomo Bianconi of Mevania"
 honorific: Blessed
-title: "Blessed Giacomo Bianconi of Mevania"
 summary: "Joined the Dominicans at Spoleto, Italy at age 16 in 1236, choosing a life of extreme poverty even by Dominican standards. Founder and first prior of a Dominican friary in Mevania, Italy. Aided survivors and refugees in Mevania after it was sacked by emporer Frederick II in 1248."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Bianconi.jpg"
 searchAliases:

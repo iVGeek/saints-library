@@ -1,7 +1,6 @@
 ---
 name: "Saint Kenan of Damleag"
 honorific: Saint
-title: "Saint Kenan of Damleag"
 summary: "Descended from the royalty of Munster. In his youth, Kenan was one of fifty hostages given to King Leogair by the Irish princes as a guarantee of peace. Freed by the intercession of bishop Kiaran. Spiritual student of Saint Martin of Tours in France. Knew Saint Patrick who admire"
 searchAliases:
   - "Cianan"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Liebert"
 honorific: Saint
-title: "Saint Liebert"
 summary: "Benedictine monk. Abbot. Martyred by Normans."
 searchAliases:
   - "Liberto"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Bonet Nadal"
 honorific: Blessed
-title: "Blessed Jaume Bonet Nadal"
 summary: "Member of the Salesians, professed in Seville, Spain in 1909. Priest, ordained in Andalusia in 1917. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Bonet-Nadal.jpg"
 birthYear: 1884

@@ -1,7 +1,6 @@
 ---
 name: "Saint Stratonicus of Antioch"
 honorific: Saint
-title: "Saint Stratonicus of Antioch"
 summary: "Soldier. Martyr."
 born: "Greece"
 died: "Antioch (modern Antakya, Turkey)"

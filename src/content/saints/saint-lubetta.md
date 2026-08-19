@@ -1,7 +1,6 @@
 ---
 name: "Saint Lubetta"
 honorific: Saint
-title: "Saint Lubetta"
 summary: " Legend says that as they were travelling through Poitiers (in modern France), Lubetta fell seriously ill. Helena gave her a fragment of the Cross, and left her there to recover; she didn't. The fragment of the Cross was enshrined in Spiritual student of the empress Saint Helena."
 searchAliases:
   - "Lubette"

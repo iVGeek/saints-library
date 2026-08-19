@@ -1,7 +1,6 @@
 ---
 name: "Saint John of Beverley"
 honorific: Saint
-title: "Saint John of Beverley"
 summary: "Studied at Canterbury under Saint Adrian and Saint Theodore. Benedictine monk at Whitby. Bishop of Hexham, England in 687. Metropolitan of York, England in 705. Founded a monastery at Inderawood (later Beverley), which became an important ecclesiastical center. Ordained the Vener"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_-_St_John_of_Beverley_on_the_Minster.jpg"
 searchAliases:

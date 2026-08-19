@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammun of Adrianopolis"
 honorific: Saint
-title: "Saint Ammun of Adrianopolis"
 summary: "Early martyr."
 died: "whipped to death in Adrianopolis, Thrace (an area of modern Bulgaria)"
 deathPlace: "Thrace (an areamodern Bulgaria)"

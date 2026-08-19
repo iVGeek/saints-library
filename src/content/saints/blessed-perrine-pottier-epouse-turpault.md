@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine Pottier épouse Turpault"
 honorific: Blessed
-title: "Blessed Perrine Pottier épouse Turpault"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1750
 deathYear: 1794

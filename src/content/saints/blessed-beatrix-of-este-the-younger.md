@@ -1,7 +1,6 @@
 ---
 name: "Blessed Beatrix of Este the Younger"
 honorific: Blessed
-title: "Blessed Beatrix of Este the Younger"
 summary: "Born to the family of the Norman dukes of Apulia, Italy. Daughter of the Marques of Ferrara, Italy. Niece of Blessed Beatrix of Este the Elder. Betrothed to Galeazzo Manfredi of Vicenza, Italy, but just before the wedding he died of wounds received in combat. Beatrix refused to r"
 image: "http://catholicsaints.info/wp-content/uploads/Beatrix-of-Este-the-Younger.jpg"
 deathYear: 1262

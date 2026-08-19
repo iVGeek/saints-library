@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas-Claude Roussel"
 honorific: Blessed
-title: "Blessed Nicolas-Claude Roussel"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1730
 deathYear: 1792

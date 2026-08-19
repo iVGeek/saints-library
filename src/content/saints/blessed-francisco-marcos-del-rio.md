@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Marcos Del Río"
 honorific: Blessed
-title: "Blessed Francisco Marcos Del Río"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936

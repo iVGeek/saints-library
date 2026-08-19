@@ -1,7 +1,6 @@
 ---
 name: "Saint Felician of Vienne"
 honorific: Saint
-title: "Saint Felician of Vienne"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 deathYear: 170
 died: "170 in Vienne, France"

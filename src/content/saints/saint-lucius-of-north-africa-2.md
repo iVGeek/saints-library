@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of North Africa"
 honorific: Saint
-title: "Saint Lucius of North Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

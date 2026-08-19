@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eustache Félix"
 honorific: Blessed
-title: "Blessed Eustache Félix"
 summary: "Doctrinarian priest. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eustache-Félix.jpg"
 birthYear: 1726

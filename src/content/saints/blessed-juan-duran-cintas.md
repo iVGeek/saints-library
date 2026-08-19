@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Durán Cintas"
 honorific: Blessed
-title: "Blessed Juan Durán Cintas"
 summary: "Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Eliseo María"

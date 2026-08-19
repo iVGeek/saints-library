@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Fulthrop"
 honorific: Blessed
-title: "Blessed Edward Fulthrop"
 summary: "Martyr."
 deathYear: 1594
 born: "Yorkshire, England"

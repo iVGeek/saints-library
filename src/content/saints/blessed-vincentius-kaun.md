@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vincentius Kaun"
 honorific: Blessed
-title: "Blessed Vincentius Kaun"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 searchAliases:

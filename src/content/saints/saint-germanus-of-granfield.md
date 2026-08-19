@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Granfield"
 honorific: Saint
-title: "Saint Germanus of Granfield"
 summary: "Born to a wealthy senatorial family; educated by Saint Modoald of Trier. Spiritual student of Saint Arnulf of Metz. Monk of Münster-Granfel Abbey. Monk of Remiremont Abbey. Monk of Luxeuil Abbey. Spiritual student of Saint Waldebert. Priest. Abbot of Granfield Abbey, Val Moutier,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Germanus-Abbot-and-Martyr.jpg"
 searchAliases:

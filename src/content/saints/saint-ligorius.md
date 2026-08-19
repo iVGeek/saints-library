@@ -1,7 +1,6 @@
 ---
 name: "Saint Ligorius"
 honorific: Saint
-title: "Saint Ligorius"
 summary: "Desert-living Christian murdered by a pagan mob. Martyr."
 died: "relics venerated in Venice, Italy"
 deathPlace: "Italy"

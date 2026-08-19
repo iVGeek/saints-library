@@ -1,7 +1,6 @@
 ---
 name: "Blessed René Dubroux"
 honorific: Blessed
-title: "Blessed René Dubroux"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1914
 deathYear: 1959

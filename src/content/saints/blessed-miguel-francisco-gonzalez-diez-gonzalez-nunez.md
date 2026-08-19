@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miguel Francisco González-Díez González-Núñez"
 honorific: Blessed
-title: "Blessed Miguel Francisco González-Díez González-Núñez"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Francisco-González-Díez-González-Núñez.jpg"
 searchAliases:

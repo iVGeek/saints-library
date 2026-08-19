@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerard of Clairvaux"
 honorific: Blessed
-title: "Blessed Gerard of Clairvaux"
 summary: "As a young man, Gerard was drawn to religious life and joined the Benedictines at the Fossanova Abbey near Rome, Italy. A few years later, the began to follow the Cistercian Rule. Abbot of Clairvaux Abbey in 1170 where he was known as a strict disciplinarian.  While on a visit to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerard-of-Clairvaux.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Caesarius of Africa"
 honorific: Saint
-title: "Saint Caesarius of Africa"
 summary: "Deacon of an African church. During a visit to Italy, he witnessed a pagan celebration of Apollo; Caesarius objected to the human sacrifice it involved. For his interference, he was imprisoned for two years, and then for his faith he was martyred with Saint Julian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Caesarius-of-Africa-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Uguccio"
 honorific: Blessed
-title: "Blessed Uguccio"
 summary: "No information."
 died: "Mount Senario near Florence, Italy while at prayer"
 deathPlace: "Italy while at prayer"

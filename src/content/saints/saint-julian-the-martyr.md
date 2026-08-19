@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian the Martyr"
 honorific: Saint
-title: "Saint Julian the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:

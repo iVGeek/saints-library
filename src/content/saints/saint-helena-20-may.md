@@ -1,7 +1,6 @@
 ---
 name: "Saint Helena"
 honorific: Saint
-title: "Saint Helena"
 summary: "One tradition makes her the daughter of Alphaeus the Apostle. Martyr."
 died: "stoned to death in 1st century Greece"
 region: "England"

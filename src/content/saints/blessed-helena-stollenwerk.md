@@ -1,7 +1,6 @@
 ---
 name: "Blessed Helena Stollenwerk"
 honorific: Blessed
-title: "Blessed Helena Stollenwerk"
 summary: "Anna grew up in a pious farm family that was always involved in parish life. Feeling a call to religious life in her youth, Anna joined the Society of the Holy Childhood. She was interested in missionary work in China, and wrote about the desire to Saint Arnold Janssen, founder o"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Helena_Maria_Stollenwerk_b.jpg"
 searchAliases:

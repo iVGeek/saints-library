@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dodone of Haske"
 honorific: Blessed
-title: "Blessed Dodone of Haske"
 summary: "After his father's death, Dodone was forced into an arranged marriage for the good of his family, but after a few years he gave in to a call to religious life, and entered the Premonstratensian abbey of Mariëngaarde (Garden of Mary) in Friesland near modern Hallum, Netherlands; b"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dodone-of-Haske.jpg"
 searchAliases:

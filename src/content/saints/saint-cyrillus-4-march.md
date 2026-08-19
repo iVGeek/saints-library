@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyrillus"
 honorific: Saint
-title: "Saint Cyrillus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cyrillos"

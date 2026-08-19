@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicholas Postgate"
 honorific: Blessed
-title: "Blessed Nicholas Postgate"
 summary: "Priest for 50 years, serving covert Catholics in the apostolic vicariate of England. Martyr."
 birthYear: 1597
 deathYear: 1679

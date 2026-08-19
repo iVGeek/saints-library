@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miquel Masip González"
 honorific: Blessed
-title: "Blessed Miquel Masip González"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

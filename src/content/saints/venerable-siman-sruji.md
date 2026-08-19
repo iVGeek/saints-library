@@ -1,7 +1,6 @@
 ---
 name: "Venerable Siman Sruji"
 honorific: Venerable
-title: "Venerable Siman Sruji"
 summary: "Brother in the Salesians of Don Bosco."
 searchAliases:
   - "Siman Srugi"

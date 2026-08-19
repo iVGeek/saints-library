@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Paul VI"
 honorific: Venerable
-title: "Pope Saint Paul VI"
 summary: "Son of a prominent newspaper editor. Ordained in Brescia, Italy on 29 May 1920, he continued his studies in Rome, Italy, and became part of the Vatican secretariat of state in 1922. One of two pro-secretaries to Pope Pius XII. Archbishop of Milan from 1954 to 1963 where he worked"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg/960px-Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg"
 searchAliases:

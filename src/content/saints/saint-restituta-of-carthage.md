@@ -1,7 +1,6 @@
 ---
 name: "Saint Restituta of Carthage"
 honorific: Saint
-title: "Saint Restituta of Carthage"
 summary: "Virgin-martyr, tortured and killed during the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/gallery/saint-restituta-of-carthage/saint-restituta-of-carthage-01.jpg"
 searchAliases:

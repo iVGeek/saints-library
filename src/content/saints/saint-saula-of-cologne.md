@@ -1,7 +1,6 @@
 ---
 name: "Saint Saula of Cologne"
 honorific: Saint
-title: "Saint Saula of Cologne"
 summary: "Martyr. No other information has survived."
 died: "Cologne, Germany"
 deathPlace: "Germany"

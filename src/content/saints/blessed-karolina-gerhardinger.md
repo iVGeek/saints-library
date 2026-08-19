@@ -1,7 +1,6 @@
 ---
 name: "Blessed Karolina Gerhardinger"
 honorific: Blessed
-title: "Blessed Karolina Gerhardinger"
 summary: "Born to a working class family. Educated by the Augustinian canonesses until 1809 when religious orders were closed by decree of the Bavarian government in Germany. Caroline decided to start a new religious order devoted to God and Christian education. In 1828 the Vatican got con"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karolina_Gerhardinger_%28Korbinianbr%C3%BCcke_Freising%29.JPG/960px-Karolina_Gerhardinger_%28Korbinianbr%C3%BCcke_Freising%29.JPG"
 searchAliases:

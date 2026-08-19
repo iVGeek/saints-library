@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre de Barellis"
 honorific: Blessed
-title: "Blessed Pierre de Barellis"
 summary: "Born to the French nobility. Mercedarian friar. Served as the attorney general of his Order. Papal legate. Created cardinal-deacon by Pope Nicholas IV."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-de-Barellis.jpg"
 died: "Ascoli Piceno, Italy of natural causes"

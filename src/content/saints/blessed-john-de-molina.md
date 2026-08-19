@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de Molina"
 honorific: Blessed
-title: "Blessed Juan de Molina"
 summary: "Mercedarian friar and commander of the convent of Saint Lazarus, Zarragoza, Spain. Noted for his personal piety, the austerity of his life, and his gift of prophecy."
 region: "Spain"
 feastDay:

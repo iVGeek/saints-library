@@ -1,7 +1,6 @@
 ---
 name: "Saint Leobald of Fleury"
 honorific: Saint
-title: "Saint Leobald of Fleury"
 summary: "Benedictine monk. Founded Fleury Abbey (modern Fleury-Saint-Benoît-sur-Loire) near Orleans, France, c.640, and served as its first abbot."
 searchAliases:
   - "Leodebod"

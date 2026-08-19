@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ruiz de la Torre"
 honorific: Blessed
-title: "Blessed José Ruiz de la Torre"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Candido Alberto"

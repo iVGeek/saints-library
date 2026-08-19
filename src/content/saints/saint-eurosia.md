@@ -1,7 +1,6 @@
 ---
 name: "Saint Eurosia"
 honorific: Saint
-title: "Saint Eurosia"
 summary: "Born to the nobility. Promised in an arranged marriage to a Moor, she hid in a cave, but the smoke from her fire gave away her position. She was dragged from the cave by her hair and martyred. Very popular cultus throughout southern France and northern Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Saint_eurosia.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Amadeus of Savoy"
 honorific: Blessed
-title: "Blessed Amadeus of Savoy"
 summary: "Member of the royal house of Piedmont. Duke of Savoy (an area of modern France). Known as a just and charitable ruler, he promoted the Church in his realm and personal holiness in his subjects."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Amadeus-of-Savoy.jpg"
 searchAliases:

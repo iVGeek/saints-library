@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelino Ovejero Gómez"
 honorific: Blessed
-title: "Blessed Marcelino Ovejero Gómez"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936

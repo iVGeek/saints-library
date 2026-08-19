@@ -1,7 +1,6 @@
 ---
 name: "Saint Ternatius of Besançon"
 honorific: Saint
-title: "Saint Ternatius of Besançon"
 summary: "Bishop of Besançon, France."
 searchAliases:
   - "Terniscus of Besançon"

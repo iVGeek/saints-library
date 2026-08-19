@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ela of Lacock"
 honorific: Blessed
-title: "Blessed Ela of Lacock"
 summary: "Born to the English nobility, the daughter of William FitzPatrick, 2nd Earl of Salisbury, and Eléonore de Vitré. Married to William Longespée, half-brother of King Richard I and King John, and the couple had at least eight children. Widowed on 7 March 1226, Ela took over the post"
 searchAliases:
   - "Ela of Laycock"

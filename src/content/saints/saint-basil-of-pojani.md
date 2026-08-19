@@ -1,7 +1,6 @@
 ---
 name: "Saint Basil of Pojani"
 honorific: Saint
-title: "Saint Basil of Pojani"
 summary: "Martyr."
 died: "Pojani, Macedonia (in modern Albania), date unknown"
 deathPlace: "Macedonia (modern Albania), date unknown"

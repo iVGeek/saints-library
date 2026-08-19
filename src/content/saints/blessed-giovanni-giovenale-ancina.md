@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giovanni Giovenale Ancina"
 honorific: Blessed
-title: "Blessed Giovanni Giovenale Ancina"
 summary: "Born to a wealthy and politically connected family. Educated in medicine and philosophy. Noted scholar, musician, composer, music editor, and orator. Professor of medicine at the University of Turin, Italy. Private physician to the ambassador from Savoy to Rome in 1575. There he"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Giovenale-Ancina.jpg"
 searchAliases:

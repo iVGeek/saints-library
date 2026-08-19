@@ -1,7 +1,6 @@
 ---
 name: "Saint Artemon of Laodicia"
 honorific: Saint
-title: "Saint Artemon of Laodicia"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 deathYear: 305
 died: "burned to death in 305 in Laodicea, Phrygia"

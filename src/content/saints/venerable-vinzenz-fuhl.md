@@ -1,7 +1,6 @@
 ---
 name: "Venerable Vinzenz Fuhl"
 honorific: Venerable
-title: "Venerable Vinzenz Fuhl"
 summary: "Augustinian priest."
 searchAliases:
   - "Father Clemens"

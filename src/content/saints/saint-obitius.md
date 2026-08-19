@@ -1,7 +1,6 @@
 ---
 name: "Saint Obitius"
 honorific: Saint
-title: "Saint Obitius"
 summary: "Knight. He narrowly escaped drowning, and during the experience he had a vision of Hell which changed his life. He became a Benedictine monk at Brescia, Italy doing penance and working for the nearby Benedictine convent."
 deathYear: 1204
 born: "in Brescia, Italy"

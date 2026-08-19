@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Ramón Rodríguez Calle"
 honorific: Blessed
-title: "Blessed Pedro Ramón Rodríguez Calle"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Ramon-Rodriguez-Calle.jpg"
 searchAliases:

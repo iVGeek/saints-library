@@ -1,7 +1,6 @@
 ---
 name: "Saint Wulfric of Haselbury"
 honorific: Saint
-title: "Saint Wulfric of Haselbury"
 summary: "Though a priest, Wulfric led a worldly life, interested more in hunting and parties with local nobles that in tending to his flock. For unspecified reasons he suddenly realized the error of his ways and repented. Some say it was due to a chance encounter with a beggar; others tha"
 searchAliases:
   - "Ulfrick"

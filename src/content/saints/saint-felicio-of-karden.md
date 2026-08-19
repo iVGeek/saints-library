@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicio of Karden"
 honorific: Saint
-title: "Saint Felicio of Karden"
 summary: "Father of Saint Simplicio and Saint Potentino. Pilgrim to various European holy places. Hermit at Karden (modern Treis-Karden, Germany)."
 deathYear: 930
 born: "Aquitaine (in modern France)"

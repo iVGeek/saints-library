@@ -1,7 +1,6 @@
 ---
 name: "Saint Cristino"
 honorific: Saint
-title: "Saint Cristino"
 summary: "Martyr. No other details about his life have come down to us."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cristino.jpg"
 died: "Rome, Italy"

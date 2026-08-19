@@ -1,7 +1,6 @@
 ---
 name: "Saint Moses of Africa"
 honorific: Saint
-title: "Saint Moses of Africa"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 searchAliases:
   - "Moysetes"

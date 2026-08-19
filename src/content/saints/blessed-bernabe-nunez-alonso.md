@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernabé Núñez Alonso"
 honorific: Blessed
-title: "Blessed Bernabé Núñez Alonso"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alfeo Bernabé"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Domitian of Huy"
 honorific: Saint
-title: "Saint Domitian of Huy"
 summary: "Priest. Bishop of Tongres (in modern Belgium). He spoke out convincingly against heretics and pagans. Opposed heretics at the Synod of Orleans in 549. Encouraged the development of writings and sermons against heresy. Worked in the Meuse Valley to convert pagans. Built churches a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Huy_051027_%2832%29.JPG/960px-Huy_051027_%2832%29.JPG"
 deathYear: 560

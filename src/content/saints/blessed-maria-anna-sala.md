@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Anna Sala"
 honorific: Blessed
-title: "Blessed Maria Anna Sala"
 summary: "Daughter of Giovanni and Giovannina Sala; fifth of eight children in a pious family. Educated in the convent school by the Sisters of Saint Marcellina in Vimercate, Italy. She wanted to join the Sisters, but her family needed her help, and Maria returned home. In 1848, her family"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Sala-1.jpg"
 birthYear: 1829

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Filomeno Maria Losito"
 honorific: Venerable
-title: "Venerable Antonio Filomeno Maria Losito"
 summary: "Redemptorist priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Filomeno-Maria-Losito.jpg"
 birthYear: 1838

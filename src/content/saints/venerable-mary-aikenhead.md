@@ -1,7 +1,6 @@
 ---
 name: "Venerable Mary Aikenhead"
 honorific: Venerable
-title: "Venerable Mary Aikenhead"
 summary: "Born to a Catholic mother and a Scots Protestant father, Mary was brought up in the Church of Ireland; her father was a physician and pharmacist, and the family very wealthy and prominent. At age 15, Mary made the choice to join the Catholic Chuch, and felt a call to religious li"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Mary_Aikenhead_-_1807.jpg"
 birthYear: 1787

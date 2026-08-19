@@ -1,7 +1,6 @@
 ---
 name: "Saint Egole of the Eegoilse Desert"
 honorific: Saint
-title: "Saint Egole of the Eegoilse Desert"
 summary: "No details about this saint have survived."
 searchAliases:
   - "Egole di Disert Eegoilse"

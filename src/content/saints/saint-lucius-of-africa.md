@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucius of Africa"
 honorific: Saint
-title: "Saint Lucius of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"

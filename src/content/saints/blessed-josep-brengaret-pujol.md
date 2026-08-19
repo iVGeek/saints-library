@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Brengaret Pujol"
 honorific: Blessed
-title: "Blessed Josep Brengaret Pujol"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Brengaret-Pujol.jpg"
 birthYear: 1913

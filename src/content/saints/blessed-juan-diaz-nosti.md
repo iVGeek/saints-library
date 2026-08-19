@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Díaz Nosti"
 honorific: Blessed
-title: "Blessed Juan Díaz Nosti"
 summary: "Joined the Claretians in 1893. Ordained in 1906 in Zaragoza, Spain. Superior of the community in Calatayud, Spain in 1913. Began teaching moral theology in Barbastro, Spain in 1916; he worked there for 18 years. Prefect of students in Barbastro in 1934. Noted teacher, preacher an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Díaz-Nosti.jpg"
 birthYear: 1880

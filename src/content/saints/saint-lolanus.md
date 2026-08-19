@@ -1,7 +1,6 @@
 ---
 name: "Saint Lolanus"
 honorific: Saint
-title: "Saint Lolanus"
 summary: "Bishop in the area of Perth, Scotland."
 searchAliases:
   - "Lolan"

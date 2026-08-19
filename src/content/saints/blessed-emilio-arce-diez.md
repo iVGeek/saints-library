@@ -1,7 +1,6 @@
 ---
 name: "Blessed Emilio Arce Díez"
 honorific: Blessed
-title: "Blessed Emilio Arce Díez"
 summary: "Baptized at the age of 2 days. Salesian Brother, making his vows in Carabanchel Alto, Madrid, Spain on 16 July 1926. Head tailor for colleges in the La Coruna, Astudillo and Madrid in Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Emilio-Arce-Díez.jpg"
 birthYear: 1908

@@ -1,7 +1,6 @@
 ---
 name: "Saint Atilano Cruz-Alvarado"
 honorific: Venerable
-title: "Saint Atilano Cruz-Alvarado"
 summary: "Priest in the archdiocese of Guadalajara, Mexico at a time when ordination was a crime in Mexico. He ministered to covert Catholics, administering the sacraments in secret and hiding from the authorities. Martyred in the Mexican Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Atilano-Cruz-Alvarado.jpg"
 birthYear: 1901

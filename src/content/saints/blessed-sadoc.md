@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sadoc of Sandomierz"
 honorific: Blessed
-title: "Blessed Sadoc of Sandomierz"
 summary: "Studied at the University of Bologna, Italy. Dominican friar, receiving the habit from Saint Dominic de Guzman himself. At the General Chapter the Dominicans in Bologna in 1221, Sadoc was chosen to assist Master Paul of Hungary to establish a province in Hungary. Sadoc later move"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sadoc.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaucherius"
 honorific: Saint
-title: "Saint Gaucherius"
 summary: "Hermit near Limousin, France, probably supporting himself as a wood cutter. Founder and abbot of the Augustinian canons regular monastery of Saint John at Aureil, Limousin. Friend and benefactor of Saint Stephen of Muret."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Brueil-en-Vexin_-_Fontaine_Saint-Gaucher01.jpg/960px-Brueil-en-Vexin_-_Fontaine_Saint-Gaucher01.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix Alonso Muñiz"
 honorific: Blessed
-title: "Blessed Félix Alonso Muñiz"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

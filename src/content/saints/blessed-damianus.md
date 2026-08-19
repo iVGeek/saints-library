@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damianus"
 honorific: Blessed
-title: "Blessed Damianus"
 summary: "Layman who served as a catechist in the diocese of Hiroshima, Japan. Martyr."
 birthYear: 1560
 deathYear: 1605

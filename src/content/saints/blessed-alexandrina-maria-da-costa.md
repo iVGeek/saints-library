@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alexandrina Maria da Costa"
 honorific: Blessed
-title: "Blessed Alexandrina Maria da Costa"
 summary: "Lay woman from the diocese of Braga, Portugal, she went to school in Povoa do Varzim and learned relgion from her pious mother on the family farm. At age 14 Alexandrina jumped from a window to escape a rapist; she was injured in the fall, by 19 was paralyzed and bed-ridden for th"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alexandrina_de_Balazar.jpg/330px-Alexandrina_de_Balazar.jpg"
 birthYear: 1904

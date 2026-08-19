@@ -1,7 +1,6 @@
 ---
 name: "Blessed Franciszek Kesy"
 honorific: Blessed
-title: "Blessed Franciszek Kesy"
 summary: "Young layman in the archdiocese of Poznan, Poland, the son of a carpenter who moved to Poznan for work. Franciszek planned to enter the Salesian novitiate, but the German invasion of Poland in 1939 intervened. He worked in a factory, spent his free time at the Salesian oratory, w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Kesy.jpg"
 birthYear: 1920

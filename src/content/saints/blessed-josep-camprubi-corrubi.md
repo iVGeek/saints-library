@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Camprubí Corrubí"
 honorific: Blessed
-title: "Blessed Josep Camprubí Corrubí"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jacint Jordi"

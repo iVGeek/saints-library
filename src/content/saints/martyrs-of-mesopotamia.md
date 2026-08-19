@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Mesopotamia"
 honorific: Saint
-title: "Martyrs of Mesopotamia"
 summary: "A group of Christians martyred in Mesopotamia in persecutions by imperial Roman authorities. Their names and the details of their lives have not come down to us."
 died: "suffocated over a slow fire in Mesopotamia"
 region: "England"

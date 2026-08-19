@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Reynolds"
 honorific: Blessed
-title: "Blessed Thomas Reynolds"
 summary: "Studied at Rheims, France, and at Valladolid and Seville in Spain. Ordained in 1592 in Cadiz, Spain, he returned to England to minister to covert Catholics, but was arrested and exiled in 1606. He returned and worked in secret until his arrest in 1628. He spent fourteen years in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Reynolds.jpg"
 searchAliases:

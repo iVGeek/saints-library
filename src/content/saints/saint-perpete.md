@@ -1,7 +1,6 @@
 ---
 name: "Saint Perpète of Tongres"
 honorific: Saint
-title: "Saint Perpète of Tongres"
 summary: "Son of Count Ostierne. Bishop of Tongres, Belgium in 598."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Perpete.jpg"
 searchAliases:

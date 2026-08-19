@@ -1,7 +1,6 @@
 ---
 name: "Venerable Joaquim Alves Brás"
 honorific: Venerable
-title: "Venerable Joaquim Alves Brás"
 summary: "Priest in the patriarchate of Lisbon, Portugal. Founded the Secular Institute of the Cooperators of the Family. Founded Work of Saint Zita."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Alves-Brás.jpg"
 birthYear: 1889

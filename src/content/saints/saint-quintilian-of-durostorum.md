@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintilian of Durostorum"
 honorific: Saint
-title: "Saint Quintilian of Durostorum"
 summary: "Martyred in the persecutions of Diocletian. No other information have survived."
 died: "beheaded in Durostorum (modern Silistra, Bulgaria)"
 deathPlace: "Bulgaria)"

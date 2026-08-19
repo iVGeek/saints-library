@@ -1,7 +1,6 @@
 ---
 name: "Saint Consolata of Reggio Emilia"
 honorific: Saint
-title: "Saint Consolata of Reggio Emilia"
 summary: "Martyr."
 region: "Italy"
 feastDay:

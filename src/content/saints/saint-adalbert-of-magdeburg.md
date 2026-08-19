@@ -1,7 +1,6 @@
 ---
 name: "Saint Adalbert of Magdeburg"
 honorific: Saint
-title: "Saint Adalbert of Magdeburg"
 summary: "Benedictine monk at the monastery of Saint Maximin at Trier, Germany. Missionary bishop. Leader of the band of missionaries sent into Russia in 961 by Emperor Otto I the Great on the request of Saint Olga, princess of Kiev. The band was violently opposed by an army of pagans led"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Adalbert_of_Magdeburg.jpg"
 searchAliases:

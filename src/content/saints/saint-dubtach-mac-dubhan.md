@@ -1,7 +1,6 @@
 ---
 name: "Saint Dubtach Mac Dubhan"
 honorific: Saint
-title: "Saint Dubtach Mac Dubhan"
 summary: "Ninth century priest."
 born: "Ireland"
 region: "Ireland"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Romulus of Caesarea"
 honorific: Saint
-title: "Saint Romulus of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:

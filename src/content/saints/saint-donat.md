@@ -1,7 +1,6 @@
 ---
 name: "Saint Donat"
 honorific: Saint
-title: "Saint Donat"
 summary: "No information has survived."
 searchAliases:
   - "Danat"

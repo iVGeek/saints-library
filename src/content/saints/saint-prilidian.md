@@ -1,7 +1,6 @@
 ---
 name: "Saint Prilidian"
 honorific: Saint
-title: "Saint Prilidian"
 summary: "Spiritual student of Saint Babylas. Martyred in the persecutions of Decius."
 deathYear: 260
 died: "c.260 of abuse and mistreatment in prison"

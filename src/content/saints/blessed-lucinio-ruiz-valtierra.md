@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lucinio Ruiz Valtierra"
 honorific: Blessed
-title: "Blessed Lucinio Ruiz Valtierra"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gil Belascoain Ilagorri"
 honorific: Blessed
-title: "Blessed Gil Belascoain Ilagorri"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

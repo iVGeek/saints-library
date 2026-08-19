@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan José Caballero Rodríguez"
 honorific: Blessed
-title: "Blessed Juan José Caballero Rodríguez"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

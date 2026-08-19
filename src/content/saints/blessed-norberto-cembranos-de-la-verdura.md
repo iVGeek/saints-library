@@ -1,7 +1,6 @@
 ---
 name: "Blessed Norberto Cembranos de la Verdura"
 honorific: Blessed
-title: "Blessed Norberto Cembranos de la Verdura"
 summary: "Norberto joined the Franciscan Capuchin lay oblates in El Pardo, Madrid, Spain. He was serving there in 1936 at the start of the Spanish Civil War when the convent came under siege by hundreds of militiamen. Norberto managed to escape, and hid for a while in a local inn, but was"
 birthYear: 1891
 deathYear: 1936

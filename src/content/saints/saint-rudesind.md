@@ -1,7 +1,6 @@
 ---
 name: "Saint Rudesind"
 honorific: Saint
-title: "Saint Rudesind"
 summary: "Born to the Spanish nobility, son of Count Gutierre de Mendenez. Relative of Saint Senorina and Blessed Ilduara. Benedictine monk. Reluctant bishop of Mondonedo, Spain at age 18. Reforming bishop of Compostela, Spain replacing his corrupt cousin Sisnand. Led armies against invadi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Estatua_no_frontal_do_Mosteiro_de_San_Salvador_de_Celanova_-_Galiza.jpg/960px-Estatua_no_frontal_do_Mosteiro_de_San_Salvador_de_Celanova_-_Galiza.jpg"
 searchAliases:

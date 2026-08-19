@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Persia"
 honorific: Saint
-title: "Saint Maximus of Persia"
 summary: "Born to the Persian nobility. Martyred in the persecutions of Decius."
 deathYear: 251
 died: "beaten to death in 251"

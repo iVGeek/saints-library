@@ -1,7 +1,6 @@
 ---
 name: "Saint Pharnacius of Satala"
 honorific: Saint
-title: "Saint Pharnacius of Satala"
 summary: "One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and eventually martyred in the persecutions of Maximian."
 deathYear: 311
 died: "c.311 near Rhizos (in modern Armenia)"

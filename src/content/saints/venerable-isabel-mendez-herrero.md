@@ -1,7 +1,6 @@
 ---
 name: "Venerable Isabel Méndez Herrero"
 honorific: Venerable
-title: "Venerable Isabel Méndez Herrero"
 summary: "Nun. Founded the Servants of Saint Joseph in 1944."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Isabel-Méndez-Herrero.jpg"
 searchAliases:

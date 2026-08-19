@@ -1,7 +1,6 @@
 ---
 name: "Blessed María del Carmen Viel Ferrando"
 honorific: Blessed
-title: "Blessed María del Carmen Viel Ferrando"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Baptized at the age of two days, and made her First Communion on 24 April 1904 in her home parish of Saint Peter the Apostle. Worked as a seamstress. Studied sociology; she worked with working young people, and brought the Salesian"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-del-Carmen-Viel-Ferrando.jpg"
 birthYear: 1893

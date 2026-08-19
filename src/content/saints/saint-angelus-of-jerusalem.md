@@ -1,7 +1,6 @@
 ---
 name: "Saint Angelus of Jerusalem"
 honorific: Saint
-title: "Saint Angelus of Jerusalem"
 summary: "Angelus' parents were 12th century Jewish converts. At age 18, Angelus and his twin brother joined a group of hermits who formed the first Carmelite house. He was sent to evangelize in Sicily, met with great success in converting some Sicilian Jews, and great hatred from others,"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Saintangelus.jpg"
 searchAliases:

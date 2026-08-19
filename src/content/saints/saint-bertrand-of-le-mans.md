@@ -1,7 +1,6 @@
 ---
 name: "Saint Bertrand of Le Mans"
 honorific: Saint
-title: "Saint Bertrand of Le Mans"
 summary: "Educated and ordained in Paris, France by Saint Germanus of Paris. Worked at the cathedral school at Paris, and served as archdeacon of the city. Bishop of Le Mans, France in 587. Noted for his generosity, personally and from his position, to the poor. Founded a monastery, hospic"
 searchAliases:
   - "Bertichramnus"

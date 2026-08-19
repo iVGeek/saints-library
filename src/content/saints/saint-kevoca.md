@@ -1,7 +1,6 @@
 ---
 name: "Saint Kevoca of Kyle"
 honorific: Saint
-title: "Saint Kevoca of Kyle"
 summary: "Seventh century saint honored in Kyle, Scotland; I have found no other reliable information."
 searchAliases:
   - "Evox"

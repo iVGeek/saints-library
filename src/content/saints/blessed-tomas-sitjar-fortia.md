@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomàs Sitjar Fortiá"
 honorific: Blessed
-title: "Blessed Tomàs Sitjar Fortiá"
 summary: "Joined the Jesuits in 1880. Priest. Rector of novices. Superior of the community in Gandia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomàs-Sitjar-Fortiá.jpg"
 birthYear: 1866

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Matthaeus Gim Hyeon-u"
 honorific: Blessed
-title: "Blessed Matthaeus Gim Hyeon-u"
 summary: "Brother of Blessed Barnabas Kim Iu. Layman in the apostolic vicariate of Korea. Supported the work of Father James Zhou Wen-mo. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1775

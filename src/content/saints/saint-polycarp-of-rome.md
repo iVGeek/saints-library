@@ -1,7 +1,6 @@
 ---
 name: "Saint Polycarp of Rome"
 honorific: Saint
-title: "Saint Polycarp of Rome"
 summary: "Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith."
 deathYear: 300
 died: "c.300"

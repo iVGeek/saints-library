@@ -1,7 +1,6 @@
 ---
 name: "Saint Lawrence the Illuminator"
 honorific: Saint
-title: "Saint Lawrence the Illuminator"
 summary: "Fled from Syria with 300 Catholic companions to Italy due to Monophysite persecution of Severus in 514. Ordained a priest in Rome, Italy. Preacher in Umbria, Italy. Founded a monastery at Spoleto, Italy. Bishop of Spoleto for 20 years. When he arrived to assume his see, the peopl"
 searchAliases:
   - "Lawrence of Spoleto"

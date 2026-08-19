@@ -1,7 +1,6 @@
 ---
 name: "Saint Basinus of Poitiers"
 honorific: Saint
-title: "Saint Basinus of Poitiers"
 summary: "Monk. Abbot of the Saint Hilary of Poitiers monastery."
 searchAliases:
   - "Basino"

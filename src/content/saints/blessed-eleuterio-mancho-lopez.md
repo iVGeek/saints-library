@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eleuterio Mancho López"
 honorific: Blessed
-title: "Blessed Eleuterio Mancho López"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Eleuterio Roman"

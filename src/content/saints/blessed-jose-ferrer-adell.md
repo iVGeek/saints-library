@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Ferrer Adell"
 honorific: Blessed
-title: "Blessed José Ferrer Adell"
 summary: "Franciscan Capuchin friar, making his profession on 3 January 1897. Ordained a priest on 19 December 1903. Missionary to Colombia where he served as superior of several convents. Rector of the Seraphic Seminary of Massamagrell, Spain where he encouraged Eucharastic Adoration and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ferrer-Adell.jpg"
 searchAliases:

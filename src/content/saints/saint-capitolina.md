@@ -1,7 +1,6 @@
 ---
 name: "Saint Capitolina"
 honorific: Saint
-title: "Saint Capitolina"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "304 in Cappadocia"

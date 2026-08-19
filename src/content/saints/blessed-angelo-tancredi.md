@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angelo Tancredi"
 honorific: Blessed
-title: "Blessed Angelo Tancredi"
 summary: "Born to the nobility, Angelo became a knight. In 1223 he was in service to Cardinal Leone Brancaleone in Rome, Italy where he met Saint Francis of Assisi. He was so taken with the teachings of Francis that he gave up the military life, became one of the first spiritual students o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelo-Tancredi.jpg"
 searchAliases:

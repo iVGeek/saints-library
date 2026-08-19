@@ -1,7 +1,6 @@
 ---
 name: "Saint Selesius of Alexandria"
 honorific: Saint
-title: "Saint Selesius of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Seleucus"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Valens of Caesarea"
 honorific: Saint
-title: "Saint Valens of Caesarea"
 summary: "Martyred in the persecutions of Galerius."
 deathYear: 309
 died: "309 at Caesarea, Palestine"

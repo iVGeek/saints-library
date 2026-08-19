@@ -1,7 +1,6 @@
 ---
 name: "Blessed Estanislao García Obeso"
 honorific: Blessed
-title: "Blessed Estanislao García Obeso"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

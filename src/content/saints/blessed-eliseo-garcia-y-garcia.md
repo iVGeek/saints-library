@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eliseo García y García"
 honorific: Blessed
-title: "Blessed Eliseo García y García"
 summary: "Member of the Salesians of Don Bosco, joining in 1932. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eliseo-García-y-García.jpg"
 birthYear: 1907

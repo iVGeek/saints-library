@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Caius I"
 honorific: Saint
-title: "Pope Saint Caius I"
 summary: " Pope in a time of peace before the last great persecution of Rome, and l Some unreliable early documents indicate he was from Spalato in Dalmatia, may have been a relative of Emperor Diocletian, and the uncle of Saint Susanna. However, nothing reliable is known of his early life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Caius-I.jpg"
 searchAliases:

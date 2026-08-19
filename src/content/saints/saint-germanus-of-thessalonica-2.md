@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Thessalonica"
 honorific: Saint
-title: "Saint Germanus of Thessalonica"
 summary: "Imperial Roman citizen. Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Castañón Fernández"
 honorific: Blessed
-title: "Blessed Juan Castañón Fernández"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1934

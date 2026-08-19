@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonaventura Toldrà Rodon"
 honorific: Blessed
-title: "Blessed Bonaventura Toldrà Rodon"
 summary: "Member of the Carmelite Tertiaries of Education. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

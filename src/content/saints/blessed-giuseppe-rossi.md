@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giuseppe Rossi"
 honorific: Blessed
-title: "Blessed Giuseppe Rossi"
 summary: "Born the second son of a poor family. After studying at the seminary in the diocese of Novara, Italy, Giuseppe was ordained a priest on 29 June 1937. Parish priest at the church of San Gottardo in the small mountain town of Castiglione Ossola, Italy in 1939. He served there throu"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Giuseppe_Rossi01_%28cropped%29.jpg/960px-Giuseppe_Rossi01_%28cropped%29.jpg"
 birthYear: 1912

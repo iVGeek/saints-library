@@ -1,7 +1,6 @@
 ---
 name: "Blessed Càndid Casals Sunyer"
 honorific: Blessed
-title: "Blessed Càndid Casals Sunyer"
 summary: "Member of the Claretians, professed on 8 September 1913 in Cervera, Spain. Ordained a priest on 29 May 1920 in Zaragoza, Spain. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936

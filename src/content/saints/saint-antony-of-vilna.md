@@ -1,7 +1,6 @@
 ---
 name: "Saint Antony of Vilna"
 honorific: Saint
-title: "Saint Antony of Vilna"
 summary: "Official at the court of the grand Duke of Lithuania. Martyred with Saint John of Vilna and Saint Eustace of Vilna for refusing to eat meat on a day of abstinence"
 searchAliases:
   - "Antona"

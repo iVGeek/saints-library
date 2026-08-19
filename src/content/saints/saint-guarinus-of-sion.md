@@ -1,7 +1,6 @@
 ---
 name: "Saint Guarinus of Sion"
 honorific: Saint
-title: "Saint Guarinus of Sion"
 summary: "Born to the nobility. Cistercian Benedictine monk at the monastery of Molesmes in Laignes, Côte-d'Or, Burgundy, France. Spiritual student of Saint Robert of Molesmes. Helped found the monastery of Aulps in the Savoy region, diocese of Geneva, Switzerland, and was chosen its secon"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guerrino-di-Sion.jpg"
 searchAliases:

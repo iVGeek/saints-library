@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Han Yong-I"
 honorific: Venerable
-title: "Saint Magdalena Han Yong-I"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Magdallena Han Yeong-I"

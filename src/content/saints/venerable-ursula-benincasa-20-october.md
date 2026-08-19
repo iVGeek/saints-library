@@ -1,7 +1,6 @@
 ---
 name: "Venerable Ursula Benincasa"
 honorific: Venerable
-title: "Venerable Ursula Benincasa"
 summary: "Daughter of Girolamo Benincasa and Vincenza Genuina; hers was a wealthy and pious family who supported the arts and sciences, and many of whom entered religious life. An excellent student who studied the Bible and Latin Church writings. She was early drawn to religous life, and e"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Orsola_Benincasa.jpg"
 searchAliases:

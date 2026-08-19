@@ -1,7 +1,6 @@
 ---
 name: "Saint Christian O'Morgair of Clogher"
 honorific: Saint
-title: "Saint Christian O'Morgair of Clogher"
 summary: "Brother of Saint Malachy of Armagh. Influential bishop of Clogher, Ireland in 1126."
 searchAliases:
   - "Christianus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rosalío Benito Ixchop"
 honorific: Blessed
-title: "Blessed Rosalío Benito Ixchop"
 summary: "Pious married layman of the diocese of Quiché, Guatemala who served his parish as a catechist. Murdered by government troops. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Rosalio-Benito-Ixchop.jpg"
 birthYear: 1914

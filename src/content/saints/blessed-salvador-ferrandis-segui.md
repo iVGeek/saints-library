@@ -1,7 +1,6 @@
 ---
 name: "Blessed Salvador Ferrandis Seguí"
 honorific: Blessed
-title: "Blessed Salvador Ferrandis Seguí"
 summary: "Studied at the Colegio del Patriarca. Ordained as a priest in the archdiocese of Valencia, Spain in 1904. Parish priest in L'Alqueria de Comtessa, and then Pedreguer, Spain. Used his personal and family funds to re-build the church, and to support the poor and sick. Martyred in t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Ferrandis-Seguí.jpg"
 birthYear: 1880

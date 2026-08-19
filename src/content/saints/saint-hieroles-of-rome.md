@@ -1,7 +1,6 @@
 ---
 name: "Saint Hieroles of Rome"
 honorific: Saint
-title: "Saint Hieroles of Rome"
 summary: "A martyr of the early Church, date and location unknown."
 searchAliases:
   - "Herod"

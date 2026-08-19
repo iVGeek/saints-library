@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Palau Sin"
 honorific: Blessed
-title: "Blessed Mariano Palau Sin"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Anselmo"

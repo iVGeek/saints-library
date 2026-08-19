@@ -1,7 +1,6 @@
 ---
 name: "Blessed Orante of Ortucchio"
 honorific: Blessed
-title: "Blessed Orante of Ortucchio"
 summary: "A monk who made pilgrimages to holy sites and lived on alms; we don't know his real name. When passing through Ortucchio, Italy, he became ill, and stopped at the local church, Santa Maria. It was closed up for the day, so our monk knelt on a pile of dry vines by the door, and pl"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Orante-of-Ortucchio.jpg"
 birthYear: 1400

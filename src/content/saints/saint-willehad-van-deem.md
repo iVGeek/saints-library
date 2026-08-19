@@ -1,7 +1,6 @@
 ---
 name: "Saint Willehad van Deem"
 honorific: Saint
-title: "Saint Willehad van Deem"
 summary: "Franciscan priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 birthYear: 1482

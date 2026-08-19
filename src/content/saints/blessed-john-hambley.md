@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Hambley"
 honorific: Blessed
-title: "Blessed John Hambley"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1560
 deathYear: 1587

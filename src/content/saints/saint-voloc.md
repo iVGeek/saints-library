@@ -1,7 +1,6 @@
 ---
 name: "Saint Voloc"
 honorific: Saint
-title: "Saint Voloc"
 summary: "Bishop. Missionary to Scotland."
 searchAliases:
   - "Walloch"

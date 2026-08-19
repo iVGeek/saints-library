@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lluís Escalé Binefa"
 honorific: Blessed
-title: "Blessed Lluís Escalé Binefa"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

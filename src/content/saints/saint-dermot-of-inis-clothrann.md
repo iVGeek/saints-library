@@ -1,7 +1,6 @@
 ---
 name: "Saint Dermot of Inis Clothrann"
 honorific: Saint
-title: "Saint Dermot of Inis Clothrann"
 summary: "Abbot. Founder of a monastery on Innis-Closran, Ireland. Noted teacher, writer, and preacher. Spiritual director of Saint Kiernan of Clonracnois. Built seven churches on Quaker Island."
 searchAliases:
   - "Dermot of Clothrann"

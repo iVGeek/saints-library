@@ -1,7 +1,6 @@
 ---
 name: "Blessed Robert Middleton"
 honorific: Blessed
-title: "Blessed Robert Middleton"
 summary: "Jesuit priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1571
 deathYear: 1601

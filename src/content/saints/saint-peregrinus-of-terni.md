@@ -1,7 +1,6 @@
 ---
 name: "Saint Peregrinus of Terni"
 honorific: Saint
-title: "Saint Peregrinus of Terni"
 summary: "Bishop of Terni, Italy, and founder of its cathedral."
 deathYear: 138
 died: "c.138"

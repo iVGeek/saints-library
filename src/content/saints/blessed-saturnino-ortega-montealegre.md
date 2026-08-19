@@ -1,7 +1,6 @@
 ---
 name: "Blessed Saturnino Ortega Montealegre"
 honorific: Blessed
-title: "Blessed Saturnino Ortega Montealegre"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1866
 deathYear: 1936

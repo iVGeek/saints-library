@@ -1,7 +1,6 @@
 ---
 name: "Saint Gracilian"
 honorific: Saint
-title: "Saint Gracilian"
 summary: "While in prison for his faith, Gracilian restored the sight of a blind girl, Saint Felicissima, and converted her to the faith. Martyr."
 searchAliases:
   - "Gratilian"

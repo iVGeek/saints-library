@@ -1,7 +1,6 @@
 ---
 name: "Blessed Georg Häfner"
 honorific: Blessed
-title: "Blessed Georg Häfner"
 summary: "Priest in the diocese of Würzburg, Germany. Arrested by the Nazis and sent to die in the concentration camps for his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-georg-hafner/venerable-georg-hafner-01.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Gibson"
 honorific: Blessed
-title: "Blessed William Gibson"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1596
 born: "in Ripon, North Yorkshire, England"

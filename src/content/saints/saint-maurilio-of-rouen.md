@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurilio of Rouen"
 honorific: Saint
-title: "Saint Maurilio of Rouen"
 summary: "Born to the Gallic nobility. Studied theology in Liege, Belgium and in Saxony in modern Germany; member of the cathedral chapter of Halberstadt. By 1030 he was a monk at Fécamp, France. After some years, he withdrew from communal life to live as a hermit in Vallombrosa, Italy. Ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maurilio-of-Rouen.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Vives Antich"
 honorific: Blessed
-title: "Blessed Francesc Vives Antich"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

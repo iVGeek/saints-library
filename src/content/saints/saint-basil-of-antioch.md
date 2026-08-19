@@ -1,7 +1,6 @@
 ---
 name: "Saint Basil of Antioch"
 honorific: Saint
-title: "Saint Basil of Antioch"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Basilio"

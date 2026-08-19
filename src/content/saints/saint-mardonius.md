@@ -1,7 +1,6 @@
 ---
 name: "Saint Mardonius"
 honorific: Saint
-title: "Saint Mardonius"
 summary: "Martyr. No other information has survived."
 died: "burned at the stake in Asia Minor"
 feastDay:

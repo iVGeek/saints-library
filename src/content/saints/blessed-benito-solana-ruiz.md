@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benito Solana Ruiz"
 honorific: Blessed
-title: "Blessed Benito Solana Ruiz"
 summary: "Son of a village carpenter. Against his parent's wishes, Benito entered the Passionist novitiate in Corella, Spain in 1913. He was not a great student, had trouble with the early studies at seminary, and became a brother in the Order. Cook and tailor for the Passionist house in D"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Benito-Solana-Ruiz.jpg"
 searchAliases:

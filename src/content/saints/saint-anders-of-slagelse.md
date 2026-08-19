@@ -1,7 +1,6 @@
 ---
 name: "Saint Anders of Slagelse"
 honorific: Saint
-title: "Saint Anders of Slagelse"
 summary: "Early 13th-century priest at Saint Peter's Church, Slagalse, Denmark. While on pilgrimage in the Holy Lands he received a vision of a man on a white horse who miraculously transported him home so that he could celebrate Easter with his parishioners. The rider then transported him"
 deathYear: 1205
 born: "12th-century Slagelse, Denmark"

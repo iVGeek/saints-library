@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict Cerretani"
 honorific: Blessed
-title: "Blessed Benedict Cerretani"
 summary: "Vallombrosan abbot."
 deathYear: 1205
 died: "1205"

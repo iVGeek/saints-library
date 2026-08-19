@@ -1,7 +1,6 @@
 ---
 name: "Saint Dada of Durostorum"
 honorific: Saint
-title: "Saint Dada of Durostorum"
 summary: "Martyred in the persecutions of Diocletian. No other information have survived."
 searchAliases:
   - "Dadas"

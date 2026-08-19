@@ -1,7 +1,6 @@
 ---
 name: "Venerable Jadwiga Jaroszewska"
 honorific: Venerable
-title: "Venerable Jadwiga Jaroszewska"
 summary: "Founded the Benedictine Samaritan Sisters of the Cross of Christ."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg"
 searchAliases:

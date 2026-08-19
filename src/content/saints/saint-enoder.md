@@ -1,7 +1,6 @@
 ---
 name: "Saint Enoder"
 honorific: Saint
-title: "Saint Enoder"
 summary: "Grandson of Saint Brychan of Brecknock. The towns of Llangynidr, Wales, Saint Enoder, Cornwall and Kenderchurch, England are named for him."
 searchAliases:
   - "Cynidr"

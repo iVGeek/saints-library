@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Istria"
 honorific: Saint
-title: "Saint Silvanus of Istria"
 summary: "Early martyr in the Istria peninsula."
 region: "England"
 feastDay:

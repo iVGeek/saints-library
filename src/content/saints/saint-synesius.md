@@ -1,7 +1,6 @@
 ---
 name: "Saint Synesius"
 honorific: Saint
-title: "Saint Synesius"
 summary: "Lector. Martyred in the persecutions of Aurelian."
 deathYear: 275
 died: "stabbed with a sword in 275 in Rome, Italy"

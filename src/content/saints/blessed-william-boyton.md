@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Boyton"
 honorific: Blessed
-title: "Blessed William Boyton"
 summary: "Jesuit priest. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"

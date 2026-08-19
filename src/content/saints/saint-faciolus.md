@@ -1,7 +1,6 @@
 ---
 name: "Saint Faciolus"
 honorific: Saint
-title: "Saint Faciolus"
 summary: "Benedictine monk of Saint Cyprian abbey, Poitiers, France."
 deathYear: 950
 died: "c.950 of natural causes"

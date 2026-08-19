@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre Brisse"
 honorific: Blessed
-title: "Blessed Pierre Brisse"
 summary: "Priest in the diocese of Beauvais, France. One of the Martyrs of September."
 birthYear: 1733
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Lucas Hwang Sok-tu"
 honorific: Venerable
-title: "Saint Lucas Hwang Sok-tu"
 summary: "The only child in a wealthy family, Lucas learned about Christianity from a person he met while on the road to study in Seoul, Korea. His family opposed his interest in the faith, but he converted and eventually so did all of them. Lucas was married, worked as a teacher of Chines"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lucas-Hwang-Sok-tu.jpg"
 searchAliases:

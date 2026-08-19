@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agnès of Jesus"
 honorific: Blessed
-title: "Blessed Agnès of Jesus"
 summary: "Third of eight children born to Pierre Galand and Guillemette Massiote. A pious girl, Agnès consecrated herself to the Virgin Mary at age seven and at nine began reciting the office every day in honour of the Holy Spirit. Joined the Order of Penance of Saint Dominic at Langeac, F"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/S%C5%93ur_Agn%C3%A8s_de_J%C3%A9sus.jpg/330px-S%C5%93ur_Agn%C3%A8s_de_J%C3%A9sus.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ingenuus of Thessalonica"
 honorific: Saint
-title: "Saint Ingenuus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

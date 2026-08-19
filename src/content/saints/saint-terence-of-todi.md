@@ -1,7 +1,6 @@
 ---
 name: "Saint Terence of Todi"
 honorific: Saint
-title: "Saint Terence of Todi"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Terenzio"

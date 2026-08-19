@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domingo del Barrio Batz"
 honorific: Blessed
-title: "Blessed Domingo del Barrio Batz"
 summary: "Married layman of the diocese of Quiché, Guatemala. Member of Catholic Action. Worked as a sacristan for Blessed José María Gran Cirera in the parish of San Gaspar di Chajul, and was murdered with him. Martyr."
 birthYear: 1951
 deathYear: 1980

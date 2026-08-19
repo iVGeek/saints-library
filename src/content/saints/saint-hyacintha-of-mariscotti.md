@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacintha of Mariscotti"
 honorific: Saint
-title: "Saint Hyacintha of Mariscotti"
 summary: "Born to the Italian nobility. Educated in a Franciscan convent. Franciscan tertiary at Saint Bernardine's convent in Viterbo, Italy for ten years, though with no real enthusiasm; she used her personal funds to insure comfortable lodgings, and none of the privations of the other t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Giacinta-Mariscotti.jpg"
 searchAliases:

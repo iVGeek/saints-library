@@ -1,7 +1,6 @@
 ---
 name: "Saint Sunniva of Bergen"
 honorific: Saint
-title: "Saint Sunniva of Bergen"
 summary: "Daughter of a tenth century Irish king. To avoid an arranged marriage with an invading pagan king, she, her brother Alban, and several female companions fled her home to settle in a cave on the island of Selje off the Norwegian coast. Some time later, Viking locals decided that t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sunniva-of-Bergen-1.jpg"
 searchAliases:

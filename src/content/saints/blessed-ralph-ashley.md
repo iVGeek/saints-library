@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ralph Ashley"
 honorific: Blessed
-title: "Blessed Ralph Ashley"
 summary: "Worked as a cook at Douay College. Entered the English College at Valladolid on 28 April 1590 where he became a Jesuit lay brother. Ill health forced him to leave college and return to England. Along the way he was captured by Dutch heretics; he stood up to them and explained the"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Blessed-ralph-ashley.png"
 searchAliases:

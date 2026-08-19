@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorius of Léon"
 honorific: Saint
-title: "Saint Victorius of Léon"
 summary: "Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Lupercus of Léon. Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "c.300 in Léon, Spain"

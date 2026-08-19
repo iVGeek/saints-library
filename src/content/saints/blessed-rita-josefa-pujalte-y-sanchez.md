@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rita Josefa Pujalte y Sánchez"
 honorific: Blessed
-title: "Blessed Rita Josefa Pujalte y Sánchez"
 summary: "Nun, a member of the Sisters of Charity of the Sacred Heart of Jesus, as was her sister Luisa. On the recommendation of the Order's fonder, Rita was chosen superior of the Sisters in 1900; she served in that position for 28 years. Started schools for girls, especially in the poor"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rita-Josefa-Pujalte-y-Sánchez.jpg"
 searchAliases:

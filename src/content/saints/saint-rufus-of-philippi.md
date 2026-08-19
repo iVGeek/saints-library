@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus of Philippi"
 honorific: Saint
-title: "Saint Rufus of Philippi"
 summary: "Martyr. Saint Polycarp wrote about him as a “most happy man”."
 deathYear: 109
 died: "c.109 at Philippi, Macedonia"

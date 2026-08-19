@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Capua"
 honorific: Saint
-title: "Saint Donatus of Capua"
 summary: "Martyr; no other information has survived. Long venerated in Capua, Italy."
 region: "Italy"
 feastDay:

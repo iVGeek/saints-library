@@ -1,7 +1,6 @@
 ---
 name: "Blessed Julio Fernández Muñiz"
 honorific: Blessed
-title: "Blessed Julio Fernández Muñiz"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ildefonso"

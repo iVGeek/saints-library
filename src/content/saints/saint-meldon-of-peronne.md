@@ -1,7 +1,6 @@
 ---
 name: "Saint Meldon of Péronne"
 honorific: Saint
-title: "Saint Meldon of Péronne"
 summary: "Sixth-century hermit in France."
 searchAliases:
   - "Medon"

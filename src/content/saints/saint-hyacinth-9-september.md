@@ -1,7 +1,6 @@
 ---
 name: "Saint Hyacinth"
 honorific: Saint
-title: "Saint Hyacinth"
 summary: "Martyr."
 deathYear: 690
 died: "690 in the Sabine region of Italy"

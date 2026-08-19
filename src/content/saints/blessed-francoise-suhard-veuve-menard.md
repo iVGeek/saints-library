@@ -1,7 +1,6 @@
 ---
 name: "Blessed Françoise Suhard veuve Ménard"
 honorific: Blessed
-title: "Blessed Françoise Suhard veuve Ménard"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1731
 deathYear: 1794

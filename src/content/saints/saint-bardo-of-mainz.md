@@ -1,7 +1,6 @@
 ---
 name: "Saint Bardo of Mainz"
 honorific: Saint
-title: "Saint Bardo of Mainz"
 summary: "Benedictine monk at Fulda, Germany. Abbot of Werden Abbey, Essen-Werden, Germany in 1029. Abbot of Hersfeld Abbey, Hesse, Germany in 1031. Archbishop of Mainz, Germany in 1031. As monk, abbot and bishop he was known for his simple, ascetic life, his charity to the poor, the gift"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bardo-of-Mainz.jpg"
 searchAliases:

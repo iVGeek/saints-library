@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jordan of Saxony"
 honorific: Blessed
-title: "Blessed Jordan of Saxony"
 summary: "Born to the Saxon nobility, he received a pious upbringing and was noted for his charity to the poor from an early age. Educated in Germany, and received his masters degree in theology at the University of Paris. Joined the Order of Preachers in 1220 under Saint Dominic himself."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jordanofsaxony.png"
 searchAliases:

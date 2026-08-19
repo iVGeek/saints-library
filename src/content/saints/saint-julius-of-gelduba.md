@@ -1,7 +1,6 @@
 ---
 name: "Saint Julius of Gelduba"
 honorific: Saint
-title: "Saint Julius of Gelduba"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Julius of Gildoba"

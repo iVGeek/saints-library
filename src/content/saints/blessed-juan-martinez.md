@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Martínez"
 honorific: Blessed
-title: "Blessed Juan Martínez"
 summary: "Franciscan Friar Minor priest. Sacristan. One of the Martyrs of Prague, killed by a Lutheran mob. Father Juan had just finished celebrating Mass when attacked, and received several severe wounds while defending the consecrated Hosts."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-juan-martinez.jpg"
 birthYear: 1581

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maximiano Dronda Leoz"
 honorific: Blessed
-title: "Blessed Maximiano Dronda Leoz"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Alipio José"

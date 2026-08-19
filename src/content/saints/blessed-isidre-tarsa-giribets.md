@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidre Tarsá Giribets"
 honorific: Blessed
-title: "Blessed Isidre Tarsá Giribets"
 summary: "Member of the Carmelite Tertiaries of Education. Martyred in the Spanish Civil War."
 birthYear: 1866
 deathYear: 1936

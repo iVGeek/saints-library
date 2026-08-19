@@ -1,7 +1,6 @@
 ---
 name: "Saint Ebrulfus"
 honorific: Saint
-title: "Saint Ebrulfus"
 summary: "Hermit. Founded a monastery at Saint-Fuscien-aux-Bois."
 searchAliases:
   - "Ebrulf"

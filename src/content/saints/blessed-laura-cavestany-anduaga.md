@@ -1,7 +1,6 @@
 ---
 name: "Blessed Laura Cavestany Anduaga"
 honorific: Blessed
-title: "Blessed Laura Cavestany Anduaga"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Laura-Cavestany-Anduaga.jpg"
 searchAliases:

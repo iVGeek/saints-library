@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean Charton de Millou"
 honorific: Blessed
-title: "Blessed Jean Charton de Millou"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792

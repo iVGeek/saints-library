@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Choe Chang-hyeon"
 honorific: Blessed
-title: "Blessed Ioannes Choe Chang-hyeon"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "John"

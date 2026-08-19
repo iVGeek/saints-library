@@ -1,7 +1,6 @@
 ---
 name: "Saint Matthaeus Kohyoe"
 honorific: Venerable
-title: "Saint Matthaeus Kohyoe"
 summary: "Dominican novice and catechist. Martyr."
 searchAliases:
   - "Matthaeus of the Rosary"

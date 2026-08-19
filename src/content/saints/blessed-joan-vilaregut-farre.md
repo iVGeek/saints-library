@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Vilaregut Farré"
 honorific: Blessed
-title: "Blessed Joan Vilaregut Farré"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Vilaregut-Farre.jpg"
 searchAliases:

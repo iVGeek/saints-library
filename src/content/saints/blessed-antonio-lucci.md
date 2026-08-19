@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Lucci"
 honorific: Blessed
-title: "Blessed Antonio Lucci"
 summary: "The son of Francesco Lucci, a cobbler and coppersmith, and Angela Paolantonio, he was raised in a pious home, taught by Franciscans, and developed a devotion to Our Lady of the Rosary. Angelo joined the Franciscan Friars Minor Conventuals in his teens, making his solemn vows in 1"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Antonio_Lucci.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacques de la Lande"
 honorific: Blessed
-title: "Blessed Jacques de la Lande"
 summary: "Priest in the diocese of Evreux, France. One of the Martyrs of September."
 birthYear: 1735
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guardato di Belforte Piceno"
 honorific: Blessed
-title: "Blessed Guardato di Belforte Piceno"
 summary: "Born to the nobility, a member of the Reguardati family. He was early drawn to life as a religious hermit."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guardato-di-Belforte-Piceno.jpg"
 birthYear: 1360

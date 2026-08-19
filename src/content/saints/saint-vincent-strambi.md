@@ -1,7 +1,6 @@
 ---
 name: "Saint Vincent Strambi"
 honorific: Venerable
-title: "Saint Vincent Strambi"
 summary: "Son of a druggist. His parents encouraged his vocation of a parish priest. Ordained in 1767. Joined the Passionists in 1768 after a retreat led by Saint Paul of the Cross. Professor of theology. Passionist provincial in 1781. Bishop of Macerata-Tolentino, Italy in 1801. Exiled in"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Strambi.jpg"
 searchAliases:

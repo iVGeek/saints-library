@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagia of Tarsus"
 honorific: Saint
-title: "Saint Pelagia of Tarsus"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "burned to death in a bronze ox at Tarsus c.300"

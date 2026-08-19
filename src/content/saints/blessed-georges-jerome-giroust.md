@@ -1,7 +1,6 @@
 ---
 name: "Blessed Georges-Jérôme Giroust"
 honorific: Blessed
-title: "Blessed Georges-Jérôme Giroust"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1765
 deathYear: 1792

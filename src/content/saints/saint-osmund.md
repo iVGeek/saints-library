@@ -1,7 +1,6 @@
 ---
 name: "Saint Osmund"
 honorific: Saint
-title: "Saint Osmund"
 summary: " Following the Battle of Hastings, he was made royal chaplain and Earl of Son of Henry, count of Seez, Normandy, France. He received a good education, and became count of Seez in his own turn. Companion of William the Conqueror, and part of the force that invaded England in 1066."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saint_Osmund_colored_statue.jpg/960px-Saint_Osmund_colored_statue.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Matsutake Chozaburo"
 honorific: Blessed
-title: "Blessed Ioannes Matsutake Chozaburo"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1589
 deathYear: 1627

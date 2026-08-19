@@ -1,7 +1,6 @@
 ---
 name: "Saint Symforian of Antwerp"
 honorific: Saint
-title: "Saint Symforian of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

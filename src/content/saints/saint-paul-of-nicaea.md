@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Nicaea"
 honorific: Saint
-title: "Saint Paul of Nicaea"
 summary: "Martyr. No other information has survived."
 died: "at Nicaea, Turkey"
 deathPlace: "Turkey"

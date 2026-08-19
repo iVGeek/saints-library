@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Charles-Marie Bernard du Cornillet"
 honorific: Blessed
-title: "Blessed Jean-Charles-Marie Bernard du Cornillet"
 summary: "Canon Regular of Saint Victor priest. One of the Martyrs of September."
 birthYear: 1759
 deathYear: 1792

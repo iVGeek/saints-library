@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurelius of Cutigliano"
 honorific: Saint
-title: "Saint Aurelius of Cutigliano"
 summary: "Martyr."
 searchAliases:
   - "Aurelio"

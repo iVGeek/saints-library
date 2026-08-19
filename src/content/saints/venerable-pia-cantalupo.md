@@ -1,7 +1,6 @@
 ---
 name: "Venerable Pia Cantalupo"
 honorific: Venerable
-title: "Venerable Pia Cantalupo"
 summary: "Religious sister in the Daughters of Charity of Saint Vincent de Paul in Catania, Italy known for her zealous work for the poor. She was convinced that charity work needed to involve the laity, and worked to bring as many as possible to the work and the spirit of Saint Vincent de"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Pia-Cantalupo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Claritus Voglia"
 honorific: Blessed
-title: "Blessed Claritus Voglia"
 summary: "Born to the Italian nobility. Though he was early drawn to religious life, Claritus married a lady named Nicolosia; they apparently had no children, which hints at a celibate marriage. Around 1342, Claritus received a miraculous intervention by Saint Zenobius of Florence. In grat"
 searchAliases:
   - "Chiarito"

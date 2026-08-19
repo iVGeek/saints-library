@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de Zafra"
 honorific: Blessed
-title: "Blessed Juan de Zafra"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Jerez, Badajoz, Spain"

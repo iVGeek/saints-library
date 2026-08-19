@@ -1,7 +1,6 @@
 ---
 name: "Saint Grata of Bergamo"
 honorific: Saint
-title: "Saint Grata of Bergamo"
 summary: "Widowed lay woman who zealously pursued a mission of giving Christian burial for martyrs. This included the body of Saint Alexander of Bergamo; as she carried his severed head, lilies sprang from the earth from every spot where a drop of his blood fell. She is reputed to have bui"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1750_Tiepolo_Die_Heiligen_der_Familie_Crotta_anagoria.JPG/960px-1750_Tiepolo_Die_Heiligen_der_Familie_Crotta_anagoria.JPG"
 deathYear: 307

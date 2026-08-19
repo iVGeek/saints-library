@@ -1,7 +1,6 @@
 ---
 name: "Saint Alena of Brussels"
 honorific: Saint
-title: "Saint Alena of Brussels"
 summary: "Daughter of a pagan chieftain in an area in modern Belgium. Secret convert to Christianity. One night she slipped out to hear Mass at the chapel in Vorst, Belgium. Her father found out, and ordered guards to follow her; they winessed her walk across the river Senne to reach the c"
 deathYear: 640
 born: "7th century near Brussels Belgium"

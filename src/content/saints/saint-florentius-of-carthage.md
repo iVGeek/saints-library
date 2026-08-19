@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentius of Carthage"
 honorific: Saint
-title: "Saint Florentius of Carthage"
 summary: "Martyred in the persecutions of Diocletian."
 born: "Carthaginian"
 died: "relics at the basilica of Fausta at Carthage"

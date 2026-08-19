@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luigi Biraghi"
 honorific: Blessed
-title: "Blessed Luigi Biraghi"
 summary: "The fifth of eight children. Entered the Minor Seminary of Castello sopra Lecco, Italy at age 12; studied in the Major Seminaries of Monza and Milan in Italy. Ordained in the archdiocese of Milan, Italy on 28 May 1825. Taught in the seminaries of Castello sopra Lecco, Seveso and"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Luigi_Biraghi.jpg"
 birthYear: 1801

@@ -1,7 +1,6 @@
 ---
 name: "Saint Godwin of Stavelot"
 honorific: Saint
-title: "Saint Godwin of Stavelot"
 summary: "Benedictine monk. Abbot of the monastery of Stavelot-Malmedy, Belgium."
 deathYear: 690
 died: "c.690 of natural causes"

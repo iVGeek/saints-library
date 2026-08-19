@@ -1,7 +1,6 @@
 ---
 name: "Saint Hugh of Novara"
 honorific: Saint
-title: "Saint Hugh of Novara"
 summary: "Cistercian Benedictine monk. Spiritual student of Saint Bernard of Clairvaux. Served as first abbot at the abbey in Novara, Sicily."
 searchAliases:
   - "Hugh of Nucaria"

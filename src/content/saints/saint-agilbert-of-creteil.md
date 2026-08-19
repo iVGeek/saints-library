@@ -1,7 +1,6 @@
 ---
 name: "Saint Agilbert of Creteil"
 honorific: Saint
-title: "Saint Agilbert of Creteil"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agilbertus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonaventura Reixach Vilarò"
 honorific: Blessed
-title: "Blessed Bonaventura Reixach Vilarò"
 summary: "Member of the Claretians, professed on 19 March 1888. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

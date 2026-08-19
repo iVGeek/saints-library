@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatian of Nantes"
 honorific: Saint
-title: "Saint Rogatian of Nantes"
 summary: "Brother of Saint Donatian of Nantes. Arrested, torture, mutilated, and finally martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saints-Donatian-and-Rogatian-Martyrs.jpg"
 deathYear: 299

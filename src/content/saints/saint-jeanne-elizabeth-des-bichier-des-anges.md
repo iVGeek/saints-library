@@ -1,7 +1,6 @@
 ---
 name: "Saint Jeanne Elizabeth des Bichier des Anges"
 honorific: Venerable
-title: "Saint Jeanne Elizabeth des Bichier des Anges"
 summary: "Daughter of Antony Bichier, lord of Agnes, and Marie Augier de Moussac. From ages ten through nineteen she was educated at a convent at Poitiers, France. When her father died, she returned home to keep her family's property from being confiscated by the state. She won the court b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Elizabeth-des-Bichier-des-Anges1.jpg"
 birthYear: 1773

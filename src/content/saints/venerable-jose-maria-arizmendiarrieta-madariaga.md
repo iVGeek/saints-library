@@ -1,7 +1,6 @@
 ---
 name: "Venerable José María Arizmendiarrieta Madariaga"
 honorific: Venerable
-title: "Venerable José María Arizmendiarrieta Madariaga"
 summary: "The oldest son in his family, José lost an eye in a childhood accident. As an adult, he worked as a journalist for Basque language newspapers. His work caused the anti-Catholic forces to imprison him and sentence him to death in the Spanish Civil War, but he was accidentally rele"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-José-María-Arizmendiarrieta-Madariaga.jpg"
 searchAliases:

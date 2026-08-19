@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicola Paglia"
 honorific: Blessed
-title: "Blessed Nicola Paglia"
 summary: "Born to the Italian nobility, in his youth Nicola received a vision of an angel who warned him not to eat meat as he would one day join a religious order that had a permanent rule of abstinence. He was a university student in Bologna, Italy when he heard the preaching of Saint Do"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicola_paglia.jpg/960px-Nicola_paglia.jpg"
 searchAliases:

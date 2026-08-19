@@ -1,7 +1,6 @@
 ---
 name: "Blessed Onufry Wasyluk"
 honorific: Blessed
-title: "Blessed Onufry Wasyluk"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1853

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hemerion of Alexandria"
 honorific: Saint
-title: "Saint Hemerion of Alexandria"
 summary: "One of 12 Christian companions marytred together. No other information has survived."
 searchAliases:
   - "Emerion"

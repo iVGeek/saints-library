@@ -1,7 +1,6 @@
 ---
 name: "Saint Framboldus of Bayeux"
 honorific: Saint
-title: "Saint Framboldus of Bayeux"
 summary: "Monk and abbot of the abbey of Le Mans, France. Bishop of Bayeux, France from 691 to 720. While there is evidence of dedication to him, and belief in his heroic virtues, all information about him has been lost."
 searchAliases:
   - "Frambaldo"

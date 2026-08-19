@@ -1,7 +1,6 @@
 ---
 name: "Blessed Damián Rodríguez Pablo"
 honorific: Blessed
-title: "Blessed Damián Rodríguez Pablo"
 summary: "Discalced Carmelite friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Damián of the Holy Trinity"

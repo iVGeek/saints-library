@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Antioch"
 honorific: Saint
-title: "Saint Paul of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch, Syria"
 deathPlace: "Syria"

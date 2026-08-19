@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jarich of Mariegaarde"
 honorific: Blessed
-title: "Blessed Jarich of Mariegaarde"
 summary: "Premonstratensian monk. Canon of the Mariegaarde monastery in Hallum, Friesland (in the modern Netherlands). Priest. A pious and well-educated man, he was known as a poet, a writer of biblical commentary, and a popular preacher. Parish priest in Grijn where he had a special minis"
 searchAliases:
   - "Jarichus"

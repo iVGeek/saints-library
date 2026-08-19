@@ -1,7 +1,6 @@
 ---
 name: "Saint Deogratias of Carthage"
 honorific: Saint
-title: "Saint Deogratias of Carthage"
 summary: " During his bishopric he sold everything he could, including the diocesan gold and silver plate, works of art, and equipage of the Mas Priest at Carthage. Bishop of Carthage in 453, the first bishop of the city in 14 years. Initially well-loved by Christians, pagans, and heretics."
 deathYear: 457
 died: "457 in Carthage (modern Tunis, Tunisia) of natural causes"

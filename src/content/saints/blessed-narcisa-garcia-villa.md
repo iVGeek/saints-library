@@ -1,7 +1,6 @@
 ---
 name: "Blessed Narcisa García Villa"
 honorific: Blessed
-title: "Blessed Narcisa García Villa"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Beatriz of Saint Teresa"

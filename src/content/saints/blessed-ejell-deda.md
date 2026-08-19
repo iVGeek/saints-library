@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ejëll Deda"
 honorific: Blessed
-title: "Blessed Ejëll Deda"
 summary: "Studied with the Franciscans, and then at the Shkodrë Pontifical Seminary. Ordained on 24 February 1943 as a priest in the archdiocese of Shkodrë-Pult, Albania. Vicar of his archdiocese. Arrested on 12 November 1947 and sentenced to 10 years in prison during the anti-Christian pe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Ejell-Deda.jpg"
 birthYear: 1917

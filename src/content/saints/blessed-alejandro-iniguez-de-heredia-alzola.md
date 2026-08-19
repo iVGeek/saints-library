@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alejandro Iñiguez De Heredia Alzola"
 honorific: Blessed
-title: "Blessed Alejandro Iñiguez De Heredia Alzola"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Mauricio"

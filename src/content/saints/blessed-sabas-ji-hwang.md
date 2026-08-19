@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sabas Ji Hwang"
 honorific: Blessed
-title: "Blessed Sabas Ji Hwang"
 summary: "Layman catechist in the apostolic vicariate of Korea. Arrested, tortured and executed for assisting Blessed Iacobus Chu Mun-mo. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Pibush"
 honorific: Blessed
-title: "Blessed John Pibush"
 summary: "Son of Thomas and Jane Pibush. Educated at Rheims, France beginning 4 August 1580. Deacon in 1586. Ordained on 14 March 1587. Returned to England as missioner on 14 January 1588. Arrested at Morton-in-Marsh, Gloucester, England in 1593 for the crime of priesthood. Spent a year in"
 deathYear: 1601
 born: "at Thirsk, Yorkshire, England"

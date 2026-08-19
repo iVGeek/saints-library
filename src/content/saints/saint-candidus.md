@@ -1,7 +1,6 @@
 ---
 name: "Saint Candidus"
 honorific: Saint
-title: "Saint Candidus"
 summary: "Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius."
 searchAliases:
   - "Candide"

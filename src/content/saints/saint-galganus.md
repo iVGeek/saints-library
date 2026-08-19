@@ -1,7 +1,6 @@
 ---
 name: "Saint Galganus"
 honorific: Saint
-title: "Saint Galganus"
 summary: " Legend says his conversion wa Galgano led a worldly life in his youth, but converted and became a hermit on Monte Siepe in Tuscany, Italy. A church built on the site of his hermitage in 1196 was turned over to the Cistercians in 1201, and they claimed Galgano as one of their own."
 image: "http://catholicsaints.info/wp-content/gallery/saint-galganus/sword-of-saint-galgano.jpg"
 searchAliases:

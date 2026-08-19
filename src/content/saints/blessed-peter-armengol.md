@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Armengol"
 honorific: Blessed
-title: "Blessed Peter Armengol"
 summary: " From Born to the nobility, Pietro wasted his youth in dissolute living, and rode for a while as a brigand and thief. His band once tried to hijack his father's entourage, which caused the young man to re-evaluate his life. He had a conversion, and joined the Mercedarians in 1258."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Armengol.jpg"
 searchAliases:

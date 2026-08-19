@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicasius of Jerusalem"
 honorific: Saint
-title: "Saint Nicasius of Jerusalem"
 summary: "Soldier. Member of the Knights Hospitaller. Crusader. Fought in the defense of Acre. Captured by Saracens. They ordered him to renounce Christianity and convert to Islam; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicasius-of-Jerusalem.jpg"
 searchAliases:

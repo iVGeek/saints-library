@@ -1,7 +1,6 @@
 ---
 name: "Saint Basilissa of Øhren"
 honorific: Saint
-title: "Saint Basilissa of Øhren"
 summary: "Benedictine nun. Abbess of Oehren (Herren; Horreum) Abbey, Trier, Germany."
 deathYear: 780
 died: "c.780"

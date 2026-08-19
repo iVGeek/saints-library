@@ -1,7 +1,6 @@
 ---
 name: "Saint Maris of Persia"
 honorific: Saint
-title: "Saint Maris of Persia"
 summary: "Born to the nobility. Husband of Saint Martha, father of Saint Audifax and Saint Abachum. Convert who gave his fortune to the poor. Martyred with his whole family in the persecutions of Aurelian."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-Maris-of-Persia.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed David Gonson"
 honorific: Blessed
-title: "Blessed David Gonson"
 summary: "Son of a British vice-admiral and a member of the English nobility. Lifelong layman in the apostolic vicariate of England. Knight of the Order of Saint John of Jerusalem. Imprisoned in the Tower of London, then Marshalsea prison, and finally executed for refusing to acknowledge K"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Blessed-david-gonson.png"
 searchAliases:

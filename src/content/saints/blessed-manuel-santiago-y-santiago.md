@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Santiago y Santiago"
 honorific: Blessed
-title: "Blessed Manuel Santiago y Santiago"
 summary: "Member of the Dominicans. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

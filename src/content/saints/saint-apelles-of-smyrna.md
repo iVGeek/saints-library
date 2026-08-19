@@ -1,7 +1,6 @@
 ---
 name: "Saint Apelles of Smyrna"
 honorific: Saint
-title: "Saint Apelles of Smyrna"
 summary: "First century convert. Bishop of Smyrna. Saint Paul greeted him as “approved in Christ” in Romans 16. Martyr."
 searchAliases:
   - "Apelle"

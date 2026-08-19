@@ -1,7 +1,6 @@
 ---
 name: "Blessed Flora of Beaulieu"
 honorific: Blessed
-title: "Blessed Flora of Beaulieu"
 summary: "Know as a pious youth, her parents tried to arrange a marriage for her, but Flora resisted, and eventually entered a convent near Auvergne, France. In 1324 she entered the Priory of Beaulieu of the Hospitallers of Saint John of Jerusalem. Had the gifts of levitation, stigmata, an"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Santa_Flora.jpg"
 searchAliases:

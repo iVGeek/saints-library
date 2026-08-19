@@ -1,7 +1,6 @@
 ---
 name: "Saint Anatolius of Alexandria"
 honorific: Saint
-title: "Saint Anatolius of Alexandria"
 summary: "Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply r"
 searchAliases:
   - "Anatolius of Laodicea"

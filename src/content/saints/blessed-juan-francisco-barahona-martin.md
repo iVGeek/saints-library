@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Francisco Barahona Martín"
 honorific: Blessed
-title: "Blessed Juan Francisco Barahona Martín"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Alejandro of Sobradillo"

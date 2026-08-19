@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luigi Talamoni"
 honorific: Blessed
-title: "Blessed Luigi Talamoni"
 summary: "The second of six children born to Giuseppe Talamoni, a hat maker, and Maria Angelica Sala; Luigi was baptized on the day of his birth. He was ordained a priest in the archdiocese of Milan, Italy on 4 March 1871. Teacher at the Collegio San Carlo in Milan; one of his students was"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Luigi_Talamoni_portrait.jpg"
 birthYear: 1848

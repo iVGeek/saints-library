@@ -1,7 +1,6 @@
 ---
 name: "Saint Augustinus Yu Chin-Kil"
 honorific: Venerable
-title: "Saint Augustinus Yu Chin-Kil"
 summary: "Married layman catechist in the apstolic vicariate of Korea. Wrote to Pope Gregory XVI, asking for missionaries and priests to Korea. Imprisoned, tortured and martyred for his faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Augustinus-Yu-Chin-Kil.jpg"
 searchAliases:

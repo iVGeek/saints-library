@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Louis Joret"
 honorific: Blessed
-title: "Blessed Pierre-Louis Joret"
 summary: "Priest of the diocese of Amiens, France. One of the Martyrs of September."
 birthYear: 1761
 deathYear: 1792

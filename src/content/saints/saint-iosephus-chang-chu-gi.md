@@ -1,7 +1,6 @@
 ---
 name: "Saint Iosephus Chang Chu-gi"
 honorific: Venerable
-title: "Saint Iosephus Chang Chu-gi"
 summary: "Born to a wealthy family with a history of working as diplomats. Married. An adult convert to Christianity, he was baptized at age 26 along with his entire family. He served as a catechist, conducting classes first in his home and then in a small building he bought and maintained"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Iosephus-Chang-Chu-gi.jpg"
 searchAliases:

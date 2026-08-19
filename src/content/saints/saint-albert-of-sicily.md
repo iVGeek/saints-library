@@ -1,7 +1,6 @@
 ---
 name: "Saint Albert of Sicily"
 honorific: Saint
-title: "Saint Albert of Sicily"
 summary: "Albert's parents, Benedict and Joan, promised that if they were blessed with a son, he would be dedicated to Our Lady of Mount Carmel. Educated in a Carmelite monastery, and joined the Order at age 18. Priest. Teacher in the monastery. Mendicant preacher to the Sicilians, making"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Albert-the-Abbot.jpg"
 searchAliases:

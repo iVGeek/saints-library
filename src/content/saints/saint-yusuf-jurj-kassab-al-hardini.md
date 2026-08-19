@@ -1,7 +1,6 @@
 ---
 name: "Saint Yusuf Jurj Kassab al-Hardini"
 honorific: Venerable
-title: "Saint Yusuf Jurj Kassab al-Hardini"
 summary: "Educated by the monks of San Antonio Aban. Lebanese Maronite monk in Batrun, Lebanon in 1828, taking the name Father Nimatullah. Worked as a bookbinder of religious works for his house. Ordained in 1833. Spiritual director and novice master in his house, and chosen to be part of"
 image: "http://catholicsaints.info/wp-content/uploads/Hardini.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Harold the King"
 honorific: Saint
-title: "Saint Harold the King"
 summary: "First Christian king of Denmark. When he tried to bring his pagan people to the faith they revolted and killed him. Martyr."
 searchAliases:
   - "Harold IV"

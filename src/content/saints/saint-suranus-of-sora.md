@@ -1,7 +1,6 @@
 ---
 name: "Saint Suranus of Sora"
 honorific: Saint
-title: "Saint Suranus of Sora"
 summary: "Abbot of a monastery at Sora, Italy. When the Lombards invaded the region, Suranus gave away all the goods of the monastery to refugees. When the Lombards reached the monastery and found nothing left to plunder, they murdered Suranus for spite. Martyr."
 searchAliases:
   - "Surano"

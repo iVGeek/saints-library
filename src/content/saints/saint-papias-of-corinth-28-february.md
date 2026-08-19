@@ -1,7 +1,6 @@
 ---
 name: "Saint Papias of Corinth"
 honorific: Saint
-title: "Saint Papias of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

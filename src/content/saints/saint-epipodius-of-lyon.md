@@ -1,7 +1,6 @@
 ---
 name: "Saint Epipodius of Lyon"
 honorific: Saint
-title: "Saint Epipodius of Lyon"
 summary: "Friend of and worker with Saint Alexander of Lyon. Imprisoned, tortured, and martyred during the persecutions of Marcus Aurelius. Though he never joined an order, Epipodius was a confirmed celibate bachelor, devoting his time to work with and for God. Betrayed to imperial authori"
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-epipodius-of-lyons.jpg"
 deathYear: 178

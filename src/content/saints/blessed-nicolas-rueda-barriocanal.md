@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Rueda Barriocanal"
 honorific: Blessed
-title: "Blessed Nicolás Rueda Barriocanal"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Daniel Antonino"

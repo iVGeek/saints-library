@@ -1,7 +1,6 @@
 ---
 name: "Saint Drutilde"
 honorific: Saint
-title: "Saint Drutilde"
 summary: "Eighth century Anglo-Saxon nun. Spiritual student of Saint Lioba of Bischofsheim."
 searchAliases:
   - "Truthil"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Benildis of Cordoba"
 honorific: Saint
-title: "Saint Benildis of Cordoba"
 summary: "Having seen the martyrdom of Saint Anastasius, Benildis was moved to make a public statement of her faith. Martyred by the Moors."
 searchAliases:
   - "Benilde"

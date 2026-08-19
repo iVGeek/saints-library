@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stilla of Abenberg"
 honorific: Blessed
-title: "Blessed Stilla of Abenberg"
 summary: "Born to the nobility, one of five children of the Count of Abenberg in Franconia (in modern Germany). Stilla lived as a nun with two other women, possibly her sisters. She founded the church of Saints Peter and Paul in Abenberg around which the monastery of Marienburg, which Stil"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Stilla-of-Abenberg.jpg"
 deathYear: 1145

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnold of Clairvaux"
 honorific: Blessed
-title: "Blessed Arnold of Clairvaux"
 summary: "Cistercian lay brother. Spiritual student of Saint Bernard of Clairvaux."
 searchAliases:
   - "Arnoldus"

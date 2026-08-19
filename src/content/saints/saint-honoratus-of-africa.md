@@ -1,7 +1,6 @@
 ---
 name: "Saint Honoratus of Africa"
 honorific: Saint
-title: "Saint Honoratus of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

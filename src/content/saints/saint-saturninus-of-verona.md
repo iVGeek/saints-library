@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Verona"
 honorific: Saint
-title: "Saint Saturninus of Verona"
 summary: "Fourth century bishop of Verona, Italy."
 searchAliases:
   - "Saturnino"

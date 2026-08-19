@@ -1,7 +1,6 @@
 ---
 name: "Saint Petronilla of Rome"
 honorific: Saint
-title: "Saint Petronilla of Rome"
 summary: "For centuries legend said she was the daughter of Saint Peter, and that she was so beautiful that he had locked her in a tower to keep her from eligible men, but none of that is true. She may have been related to Peter, a servant, a co-worker, one of his converts, his “spiritual"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Petronilla-01.jpg"
 searchAliases:

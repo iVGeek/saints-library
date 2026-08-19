@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Asúa Mendía"
 honorific: Blessed
-title: "Blessed Pedro Asúa Mendía"
 summary: "Educated by Jesuits. Trained as an architect, graduating in 1915. Worked on schools, churches and houses for religious. Priest in the diocese of Vitoria, Spain, ordained in 1924. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-blessed-pedro-asua-mendía.jpg"
 birthYear: 1890

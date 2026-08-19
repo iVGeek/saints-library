@@ -1,7 +1,6 @@
 ---
 name: "Blessed Enric Gispert Domenech"
 honorific: Blessed
-title: "Blessed Enric Gispert Domenech"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enric-Gispert-Domenech.jpg"
 birthYear: 1879

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José López Tascón"
 honorific: Blessed
-title: "Blessed José López Tascón"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph-Louis Oviefre"
 honorific: Blessed
-title: "Blessed Joseph-Louis Oviefre"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1748
 deathYear: 1792

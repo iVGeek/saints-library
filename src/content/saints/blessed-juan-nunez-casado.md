@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Núñez Casado"
 honorific: Blessed
-title: "Blessed Juan Núñez Casado"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Vivencio"

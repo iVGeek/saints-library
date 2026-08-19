@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michal Oziebijowski"
 honorific: Blessed
-title: "Blessed Michal Oziebijowski"
 summary: "Priest of the archdiocese of Warsaw, Poland, serving in the parish of Kutno where he was know for ministry and assistance to the poor. Arrested in October 1941 by the Gestapo and imprisoned in the Dachau concentration camp during the Nazi occupation of Poland in World War II. The"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Michal-Oziebijowski.jpg"
 birthYear: 1900

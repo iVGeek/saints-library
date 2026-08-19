@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Troncatti"
 honorific: Blessed
-title: "Blessed Maria Troncatti"
 summary: "Worked as a Red Cross nurse in an Italian military hospital during World War I. Nun in the Salesian Sisters. In 1922 she left Italy for Ecuador and spent the rest of her life working with the Shuar tribe in the Amazon forest."
 image: "http://catholicsaints.info/wp-content/uploads/Suor-Maria-Troncatti.jpg"
 birthYear: 1883

@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Ptolemais"
 honorific: Saint
-title: "Saint Juliana of Ptolemais"
 summary: "Sister of Saint Paul of Ptolemais. Martyred with him in the persecutions of Aurelian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Juliana-of-Ptolemais.jpg"
 deathYear: 270

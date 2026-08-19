@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Puigferrer Mora"
 honorific: Blessed
-title: "Blessed Jaume Puigferrer Mora"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Miquel De Jesus"

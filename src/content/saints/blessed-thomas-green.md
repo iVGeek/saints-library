@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Green"
 honorific: Blessed
-title: "Blessed Thomas Green"
 summary: "Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head of the Church."
 searchAliases:
   - "Thomas Greenwood"

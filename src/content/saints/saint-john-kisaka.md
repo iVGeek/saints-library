@@ -1,7 +1,6 @@
 ---
 name: "Saint John Kisaka"
 honorific: Saint
-title: "Saint John Kisaka"
 summary: "Layman. Silk-weaver. Convert. Franciscan tertiary. One of the Martyrs of Nagasaki."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:

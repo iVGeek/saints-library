@@ -1,7 +1,6 @@
 ---
 name: "Blessed Milo of Fontenelle"
 honorific: Blessed
-title: "Blessed Milo of Fontenelle"
 summary: "Born to the Frankish nobility, Milo and his father both gave it up to become Benedictine monks at Fontenelle Abbey. Milo later left the monastery to live as a hermit."
 deathYear: 735
 died: "c.735"

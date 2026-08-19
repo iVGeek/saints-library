@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roger Filcock"
 honorific: Blessed
-title: "Blessed Roger Filcock"
 summary: "Educated at Rheims, France and Valladolid, Spain. Ordained in Valladolid c.1597. He returned to England in 1598 to minister to covert Catholics. Jesuit. Friend of Saint Anne Line. Arrested and condemned for the crime of priesthood. Died with Saint Anne Line and Blessed Mark Barkw"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Melchior_k%C3%BCsel-rogelio_filcock.jpg"
 searchAliases:

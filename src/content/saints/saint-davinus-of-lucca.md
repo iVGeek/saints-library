@@ -1,7 +1,6 @@
 ---
 name: "Saint Davinus of Lucca"
 honorific: Saint
-title: "Saint Davinus of Lucca"
 summary: "Layman who sold all that he owned, gave the money to the poor, and set out as a mendicant pilgrim to Rome, Italy and Compostella, Spain. He depended on the hospitality of strangers who uniformly recognized his personal piety and strong prayer life."
 searchAliases:
   - "Davinus of Armenia"

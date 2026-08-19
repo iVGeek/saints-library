@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Bosch Verdura"
 honorific: Blessed
-title: "Blessed Antoni Bosch Verdura"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Jordi of Saint Joseph"

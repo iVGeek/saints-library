@@ -1,7 +1,6 @@
 ---
 name: "Saint Heribaldus of Auxerre"
 honorific: Saint
-title: "Saint Heribaldus of Auxerre"
 summary: "Benedictine monk. Abbot at Saint Germanus, Auxerre, France. Bishop of Auxerre."
 searchAliases:
   - "Héribald"

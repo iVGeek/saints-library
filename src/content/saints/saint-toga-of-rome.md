@@ -1,7 +1,6 @@
 ---
 name: "Saint Toga of Rome"
 honorific: Saint
-title: "Saint Toga of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

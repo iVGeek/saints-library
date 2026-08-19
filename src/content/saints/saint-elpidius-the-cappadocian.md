@@ -1,7 +1,6 @@
 ---
 name: "Saint Elpidius the Cappadocian"
 honorific: Saint
-title: "Saint Elpidius the Cappadocian"
 summary: "Monk. Abbot in Asia Minor. Hermit in a cave on Mount Luca, Cappadocia for over twenty years. Legend says that an angel convinced him to immigrate to the area of Ancona, Italy where his reputation for holiness and wisdom attracted many disciples."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Giacomo_di_nicola_da_recanati%2C_polittico_di_sant%27elpidio_a_mare%2C_1425%2C_04.JPG/960px-Giacomo_di_nicola_da_recanati%2C_polittico_di_sant%27elpidio_a_mare%2C_1425%2C_04.JPG"
 searchAliases:

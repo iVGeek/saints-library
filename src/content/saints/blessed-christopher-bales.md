@@ -1,7 +1,6 @@
 ---
 name: "Blessed Christopher Bales"
 honorific: Blessed
-title: "Blessed Christopher Bales"
 summary: "Educated at Rome, Italy and Rheims, France. Ordained at Douai, France in 1587. Returned to England in 1588 to minister to covert Catholics, using the name Christopher Evers. Arrested and martyred for the crime of priesthood."
 searchAliases:
   - "Christopher Bayles"

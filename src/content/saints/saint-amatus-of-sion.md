@@ -1,7 +1,6 @@
 ---
 name: "Saint Amatus of Sion"
 honorific: Saint
-title: "Saint Amatus of Sion"
 summary: "Monk. Abbot at Agaunum, Switzerland. Bishop of Sion, Switzerland. Due to a false accusation, he was exiled from his see, first to Péronne, France, and then Breuil-sur-Lys, France; in both places he lived as a model, prayerful monk."
 deathYear: 690
 died: "690 of natural causes"

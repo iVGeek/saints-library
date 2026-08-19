@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sisto Brioschi"
 honorific: Blessed
-title: "Blessed Sisto Brioschi"
 summary: "At age 16, after hearing a sermon by Saint Bernardino of Siena, Sisto joined the Franciscan Friars Minor at the convent of Sant'Angelo in Milan, Italy. Ordained a priest, Sisto was assigned to the convent of San Francesco in Mantua, Italy; it remained his base of operations for t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Sisto-Brioschi.jpg"
 searchAliases:

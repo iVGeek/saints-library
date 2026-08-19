@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Blasco Juan"
 honorific: Blessed
-title: "Blessed José Blasco Juan"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936

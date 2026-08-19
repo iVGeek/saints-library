@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Dionysius"
 honorific: Saint
-title: "Pope Saint Dionysius"
 summary: "Roman citizen. Nothing is known about his early life. Monk. Priest. Bishop in Rome during the papacy of Saint Stephen I. Involved in the controversy over orthodox and heretical forms of Baptism. Following an inter-regnum of a year caused by the persecutions of Valerian, Dionyius"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pope_Dionysius.jpg"
 deathYear: 268

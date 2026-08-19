@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modest Pamplona Falguera"
 honorific: Blessed
-title: "Blessed Modest Pamplona Falguera"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Agapit Modest"

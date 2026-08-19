@@ -2,7 +2,6 @@
 name: "Saint Justus of Lugdunum"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_creeds_of_Christendom_-_with_a_history_and_critical_notes_%28IA_creedschristendo02scha%29.pdf/page1-500px-The_creeds_of_Christendom_-_with_a_history_and_critical_notes_%28IA_creedschristendo02scha%29.pdf.jpg"
 honorific: Saint
-title: "Saint Justus of Lugdunum"
 summary: "One of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob, arrested and tried for their faith, and murdered in the persecutions of Marcus Aurelius. A letter describing their fate, possibly written by Saint Irenaeus of Lyons, was"
 deathYear: 177
 died: "mauled by animals in 177 in the amphitheatre of Lugdunum, Gaul (modern France)"

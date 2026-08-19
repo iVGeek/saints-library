@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Vargas González"
 honorific: Blessed
-title: "Blessed Ramón Vargas González"
 summary: "The son of a physician, Ramón's family moved to Guadalajara, Mexico when the boy was nine years old. Member of the Catholic Youth Association of Mexico. Noted for his ministry to the poor. Imprisoned and executed in the Mexican Revolution."
 birthYear: 1905
 deathYear: 1927

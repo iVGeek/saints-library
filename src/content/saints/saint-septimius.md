@@ -1,7 +1,6 @@
 ---
 name: "Saint Septimius"
 honorific: Saint
-title: "Saint Septimius"
 summary: "Martyr."
 searchAliases:
   - "Settimio"

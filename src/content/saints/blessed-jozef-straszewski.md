@@ -1,7 +1,6 @@
 ---
 name: "Blessed Józef Straszewski"
 honorific: Blessed
-title: "Blessed Józef Straszewski"
 summary: "Priest in the diocese of Wloclawek, Poland. Martyred in the Nazi persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Straszewski.jpg"
 birthYear: 1885

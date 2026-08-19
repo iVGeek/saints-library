@@ -1,7 +1,6 @@
 ---
 name: "Saint Abundius of Spain"
 honorific: Saint
-title: "Saint Abundius of Spain"
 summary: "Martyr. No other information has survived"
 deathYear: 283
 died: "283 in Spain"

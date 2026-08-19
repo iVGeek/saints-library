@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mateu Casals Mas"
 honorific: Blessed
-title: "Blessed Mateu Casals Mas"
 summary: "Member of the Claretians, professed on 15 August 1903. Ordained a priest on 13 June 1911. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

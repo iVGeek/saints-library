@@ -1,7 +1,6 @@
 ---
 name: "Saint Stanislaus Kostka"
 honorific: Saint
-title: "Saint Stanislaus Kostka"
 summary: "Born to the Polish nobility, the son of a senator. Attended the Viennese Jesuit college from age 14 with his brother Paul, who badly mistreated him. While staying at the home of a Lutheran, he became gravely ill, but was not allowed to call for a priest. He prayed to his personal"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stanislaus_Kostka_Legros_n1.jpg/960px-Stanislaus_Kostka_Legros_n1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ida of Nivelles"
 honorific: Saint
-title: "Saint Ida of Nivelles"
 summary: "Daughter of Bishop Arnoald of Metz. Sister of Saint Modoald of Trier and Saint Severa. Married to Saint Pepin of Landen. Mother of Saint Gertrude of Nivelles, Saint Begga of Ardenne, and Grimoald, mayor of the palace. Grandmother of Pepin of Herstal. Friend of Saint Amand of Maas"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Sant%27Ida_%28Ita%29_37900.jpg"
 searchAliases:

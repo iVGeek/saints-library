@@ -1,7 +1,6 @@
 ---
 name: "Saint Pasterus of Corinth"
 honorific: Saint
-title: "Saint Pasterus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

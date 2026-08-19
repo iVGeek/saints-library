@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bruno of Paris"
 honorific: Blessed
-title: "Blessed Bruno of Paris"
 summary: "Cistercian monk in Paris, France. He died while on pilgrimage to the Holy Land."
 deathYear: 1227
 born: "12th century of natural causes"

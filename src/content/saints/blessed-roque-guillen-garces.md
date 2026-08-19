@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roque Guillén Garcés"
 honorific: Blessed
-title: "Blessed Roque Guillén Garcés"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

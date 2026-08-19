@@ -1,7 +1,6 @@
 ---
 name: "Saint Sisimmus of Tomis"
 honorific: Saint
-title: "Saint Sisimmus of Tomis"
 summary: "Martyr."
 searchAliases:
   - "Sesinus"

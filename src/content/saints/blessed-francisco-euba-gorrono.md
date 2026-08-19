@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Euba Gorroño"
 honorific: Blessed
-title: "Blessed Francisco Euba Gorroño"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Euba-Gorroño.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Germanus of Caesarea"
 honorific: Saint
-title: "Saint Germanus of Caesarea"
 summary: "Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the saint chewed out his pagan judge as a coward for torturing the young woman, Saint Ennatha of Caesarea."
 deathYear: 297
 died: "beheaded in 297 at Caesarea, Palestine"

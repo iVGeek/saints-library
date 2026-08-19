@@ -1,7 +1,6 @@
 ---
 name: "Saint Pantaleimon of Bisceglia"
 honorific: Saint
-title: "Saint Pantaleimon of Bisceglia"
 summary: "Martyred in the persecutions of Trajan."
 searchAliases:
   - "Pantaleo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Alexandria"
 honorific: Saint
-title: "Saint Julian of Alexandria"
 summary: "Summoned by authorities to answer a charge of Christianity in the persecutions of Decius, Julian was too crippled with gout to walk there. He was carried to court by two Christian servants, one of whom apostacized; the other was Saint Cronion Eunus. Martyred with Saint Cronion an"
 deathYear: 249
 died: "scourged, dragged through the city by a camel and burned to death in 249 at Alexandria, Egypt"

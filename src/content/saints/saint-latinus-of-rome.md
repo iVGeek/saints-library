@@ -1,7 +1,6 @@
 ---
 name: "Saint Latinus of Rome"
 honorific: Saint
-title: "Saint Latinus of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

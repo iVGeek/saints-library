@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatus of Africa"
 honorific: Saint
-title: "Saint Rogatus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 region: "Africa"
 feastDay:

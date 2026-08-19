@@ -1,7 +1,6 @@
 ---
 name: "Saint Cerenico of Spoleto"
 honorific: Saint
-title: "Saint Cerenico of Spoleto"
 summary: "7th century deacon in the area of Le Mans, France. Hermit at Séez, France. Benedictine monk who attracted 140 brother monks by his piety and wisdom."
 searchAliases:
   - "Cenerico"

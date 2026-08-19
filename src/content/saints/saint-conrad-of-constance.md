@@ -1,7 +1,6 @@
 ---
 name: "Saint Conrad of Constance"
 honorific: Saint
-title: "Saint Conrad of Constance"
 summary: "Second son of Count Heinrich von Altdorf, part of the Guelf family. Educated at the cathedral school at Constance, Germany (in modern Switzerland). Priest. Provost of the cathedral. Bishop of Constance from 934 to 975. Made three pilgrimages to the Holy Lands. Accompanied Emperor"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Konrad_Kupferscheibe.jpg/960px-Konrad_Kupferscheibe.jpg"
 searchAliases:

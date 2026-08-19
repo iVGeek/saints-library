@@ -1,7 +1,6 @@
 ---
 name: "Saint Valerian of Aquileia"
 honorific: Saint
-title: "Saint Valerian of Aquileia"
 summary: "Martyr."
 deathYear: 100
 died: "c.100 in Aquileia, Italy"

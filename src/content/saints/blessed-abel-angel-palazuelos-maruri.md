@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abel Ángel Palazuelos Maruri"
 honorific: Blessed
-title: "Blessed Abel Ángel Palazuelos Maruri"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Mauro"

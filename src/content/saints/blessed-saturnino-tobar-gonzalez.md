@@ -1,7 +1,6 @@
 ---
 name: "Blessed Saturnino Tobar González"
 honorific: Blessed
-title: "Blessed Saturnino Tobar González"
 summary: "Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1858
 deathYear: 1936

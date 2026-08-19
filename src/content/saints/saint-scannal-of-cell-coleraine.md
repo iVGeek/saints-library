@@ -1,7 +1,6 @@
 ---
 name: "Saint Scannal of Cell-Coleraine"
 honorific: Saint
-title: "Saint Scannal of Cell-Coleraine"
 summary: "Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary."
 searchAliases:
   - "Scannal of Gill Cobrainne"

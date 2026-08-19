@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus of Porec"
 honorific: Saint
-title: "Saint Maurus of Porec"
 summary: "Monk for 18 years. Pilgrim to Rome, Italy. Bishop of Porec, Istria. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maurus-of-Porec.jpg"
 searchAliases:

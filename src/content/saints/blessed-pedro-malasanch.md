@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Malasanch"
 honorific: Blessed
-title: "Blessed Pedro Malasanch"
 summary: "Born to the Catalan nobility. Joined the Mercedarians at age 18. Made redemption trips to Africa in 1415 and 1427 to ransom Christians who had been enslaved by Muslims. During the latter trip, he was imprisoned, tortured and executed by the Moors for refusing to deny Christianity"
 deathYear: 1428
 born: "Lerida, Spain"

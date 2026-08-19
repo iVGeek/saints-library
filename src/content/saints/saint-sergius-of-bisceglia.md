@@ -1,7 +1,6 @@
 ---
 name: "Saint Sergius of Bisceglia"
 honorific: Saint
-title: "Saint Sergius of Bisceglia"
 summary: "Martyred in the persecutions of Trajan."
 searchAliases:
   - "Sergio"

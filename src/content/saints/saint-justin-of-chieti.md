@@ -1,7 +1,6 @@
 ---
 name: "Saint Justin of Chieti"
 honorific: Saint
-title: "Saint Justin of Chieti"
 summary: "Bishop of Chieti, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Cripta_San_Giustino_Ch-3.jpg"
 deathYear: 540

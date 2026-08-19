@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clemente Rodríguez Tejerina"
 honorific: Blessed
-title: "Blessed Clemente Rodríguez Tejerina"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

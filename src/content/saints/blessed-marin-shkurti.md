@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marin Shkurti"
 honorific: Blessed
-title: "Blessed Marin Shkurti"
 summary: "Ordained a priest of the archdiocese of Shkodrë-Pult, Albania in the cathedral of Shkodra, by Monsignor Çoba on 8 December 1961. When Communist authorities closed all the churches, he began ministering to covert Catholics in various towns. He fled to Yugoslavia to escape the pers"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Marin-Shkurti.jpg"
 birthYear: 1933

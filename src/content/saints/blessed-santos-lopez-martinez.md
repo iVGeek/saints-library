@@ -1,7 +1,6 @@
 ---
 name: "Blessed Santos López Martinez"
 honorific: Blessed
-title: "Blessed Santos López Martinez"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Mariano Leon"

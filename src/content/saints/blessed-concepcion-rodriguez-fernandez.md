@@ -1,7 +1,6 @@
 ---
 name: "Blessed Concepción Rodríguez Fernández"
 honorific: Blessed
-title: "Blessed Concepción Rodríguez Fernández"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Concepción of Saint Magdalene"

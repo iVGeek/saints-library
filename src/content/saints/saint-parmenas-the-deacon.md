@@ -1,7 +1,6 @@
 ---
 name: "Saint Parmenas the Deacon"
 honorific: Saint
-title: "Saint Parmenas the Deacon"
 summary: "One of the seven deacons appointed by the Apostles to minister to Hellenized Jews of Jerusalem who had converted to Christianity. Their work is described in the Acts of the Apostles. Parmenas preached in Asia Minor. Martyred in the persecutions of Trajan."
 searchAliases:
   - "Parmena"

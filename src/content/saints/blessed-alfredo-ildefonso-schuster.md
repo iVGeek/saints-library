@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfredo Ildefonso Schuster"
 honorific: Blessed
-title: "Blessed Alfredo Ildefonso Schuster"
 summary: " Novice master of his house f Educated at Saint-Paul-Outside-the-Walls abbey, Rome, Italy from age 11. Entered the Cassinese Benedictine monastic noviate in 1896, taking the name Ildefonso. Made his formal monastic confession on 13 November 1900. Ordained on 19 March 1904 in Rome."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Cardinal_Schuster_%28original%2C_cropped%29.jpg"
 searchAliases:

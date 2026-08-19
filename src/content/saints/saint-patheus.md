@@ -1,7 +1,6 @@
 ---
 name: "Saint Patheus"
 honorific: Saint
-title: "Saint Patheus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

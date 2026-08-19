@@ -1,7 +1,6 @@
 ---
 name: "Saint Bantu of Trier"
 honorific: Saint
-title: "Saint Bantu of Trier"
 summary: "Sixth century priest and hermit."
 searchAliases:
   - "Bantus"

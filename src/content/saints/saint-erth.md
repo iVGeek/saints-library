@@ -1,7 +1,6 @@
 ---
 name: "Saint Erth of Cornwall"
 honorific: Saint
-title: "Saint Erth of Cornwall"
 summary: "Brother of Saint Uny and Saint Ia. Evangelist in Cornwall where the village of Saint Erth is named for him."
 searchAliases:
   - "Erth of Slane"

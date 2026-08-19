@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Cappadocia"
 honorific: Saint
-title: "Saint Julian of Cappadocia"
 summary: "Man who came to the town of Cilicia on un-related business, saw the bodies of the recently martyred, kissed them and prayed for them, and was thus exposed as a Christian. Martyr."
 deathYear: 309
 died: "burned in a slow fire in 309 in Cilicia, Asia Minor (in modern Turkey)"

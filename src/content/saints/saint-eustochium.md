@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustochium"
 honorific: Saint
-title: "Saint Eustochium"
 summary: "Daughter of Saint Paula of Rome and Roman senator Toxotius. Sister of Saint Blaesilla. Spiritual student of Saint Jerome in 382. Made a personal vow of perpetual virginity. Spoke Latin and Greek, and could read Hebrew. Travelled with Paula and Jerome to the Holy Land where she he"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Valdes_leal-santa_eustoquio.jpg"
 birthYear: 369

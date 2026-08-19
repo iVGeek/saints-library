@@ -1,7 +1,6 @@
 ---
 name: "Saint Michael of Klopsk"
 honorific: Saint
-title: "Saint Michael of Klopsk"
 summary: "He was a monk who suddenly showed up at the Klopsk Abbey near Novgorod, Russia and who would no speak to anyone or answer any questions. The abbot gave him a cell and Michael sometimes slept there, sometimes in the fields, some times just stayed in church reading his Bible by can"
 searchAliases:
   - "Michael of Clopas"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Saint Alexander of Rome"
 summary: "Following his public confession of Christianity, Alexander was martyred with 38 companions whose names have not come down to us."
 died: "in Rome, Italy"
 deathPlace: "Italy"

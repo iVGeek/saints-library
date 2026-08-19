@@ -1,7 +1,6 @@
 ---
 name: "Saint Justina of Bellusco"
 honorific: Saint
-title: "Saint Justina of Bellusco"
 summary: "Martyr."
 searchAliases:
   - "Giustina"

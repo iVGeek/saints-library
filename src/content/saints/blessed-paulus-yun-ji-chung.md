@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paulus Yun Ji-chung"
 honorific: Blessed
-title: "Blessed Paulus Yun Ji-chung"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1759
 deathYear: 1791

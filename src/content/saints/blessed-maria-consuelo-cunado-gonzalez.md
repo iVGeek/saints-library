@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Consuelo Cuñado González"
 honorific: Blessed
-title: "Blessed María Consuelo Cuñado González"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María Consuelo of the Blessed Sacrament"

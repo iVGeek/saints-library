@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Myra"
 honorific: Saint
-title: "Saint Juliana of Myra"
 summary: "Martyr."
 died: "at Myra, Lycia"
 deathPlace: "Lycia"

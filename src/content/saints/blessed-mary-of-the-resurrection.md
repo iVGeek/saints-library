@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mary of the Resurrection"
 honorific: Blessed
-title: "Blessed Mary of the Resurrection"
 summary: "Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of Colonna. Mercedarian nun at the monastery of the Assumption in Seville, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Sisters.jpg"
 deathYear: 1615

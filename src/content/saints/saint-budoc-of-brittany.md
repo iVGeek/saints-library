@@ -1,7 +1,6 @@
 ---
 name: "Saint Budoc of Brittany"
 honorific: Saint
-title: "Saint Budoc of Brittany"
 summary: "Born a prince, the son of a king of Brittany; his mother was Azenor, princess of Brest, France. Legend says that his mother was set adrift in a cask, and that Budoc was born at sea with Saint Brigid of Ireland in attendance. Educated in a monastery near Waterford, Ireland. Abbot"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Budoc-Trégarvan-Presquile-de-Crozon.jpg"
 searchAliases:

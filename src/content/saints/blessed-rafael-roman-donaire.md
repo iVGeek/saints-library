@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Román Donaire"
 honorific: Blessed
-title: "Blessed Rafael Román Donaire"
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Livinus"
 honorific: Saint
-title: "Saint Livinus"
 summary: "Son of a Scottish nobleman and an Irish princess, he was raised in Ireland, and studied there and in England. Ordained by Saint Augustine of Canterbury. Highly successful missionary to Flanders, Belgium with three companions. Bishop of Ghent, Belgium. Tortured by pagans, his tong"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Martyrdom_of_St_Livinus_by_Rubens.jpg"
 searchAliases:

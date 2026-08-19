@@ -1,7 +1,6 @@
 ---
 name: "Saint Pienza of Vilcassin"
 honorific: Saint
-title: "Saint Pienza of Vilcassin"
 summary: "Martyr."
 died: "Vexin Lugdunense territory of Gaul (modern Vilcassin, France)"
 deathPlace: "France)"

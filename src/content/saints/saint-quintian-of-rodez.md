@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintian of Rodez"
 honorific: Saint
-title: "Saint Quintian of Rodez"
 summary: "Fled his native North Africa to France in order to escape Arian-Vandal persecution. Bishop of Rodez, France. Exiled Auvergne, France by Arian Visigoths. Bishop of Clermont, France."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Quintiano_de_Rodez_%28cropped%29.JPG"
 searchAliases:

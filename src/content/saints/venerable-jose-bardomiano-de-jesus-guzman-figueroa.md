@@ -1,7 +1,6 @@
 ---
 name: "Venerable José Bardomiano de Jesús Guzmán Figueroa"
 honorific: Venerable
-title: "Venerable José Bardomiano de Jesús Guzmán Figueroa"
 summary: "Priest. Member of the Missionaries of the Holy Spirit. Founded the Eucharistic Missionaries of the Most Holy Trinity."
 searchAliases:
   - "Pablo María"

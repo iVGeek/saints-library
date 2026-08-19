@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ramón Sanz De Galdeano Mañeru"
 honorific: Blessed
-title: "Blessed Ramón Sanz De Galdeano Mañeru"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ramiro"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Irene"
 honorific: Saint
-title: "Saint Irene"
 summary: "Raised a pagan. At about 14 years of age, she witnessed a mob abusing Saint Porphyrius for his faith. The violence sickened her, and she came to his rescue, causing enough trouble that the pagans left him alone. He recovered and brought her to Christianity."
 birthYear: 470
 deathYear: 490

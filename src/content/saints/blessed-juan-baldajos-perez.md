@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Baldajos Pérez"
 honorific: Blessed
-title: "Blessed Juan Baldajos Pérez"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

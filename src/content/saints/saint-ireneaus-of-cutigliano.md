@@ -1,7 +1,6 @@
 ---
 name: "Saint Ireneaus of Cutigliano"
 honorific: Saint
-title: "Saint Ireneaus of Cutigliano"
 summary: "Martyr."
 searchAliases:
   - "Ireneo"

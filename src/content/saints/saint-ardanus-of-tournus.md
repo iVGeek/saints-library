@@ -1,7 +1,6 @@
 ---
 name: "Saint Ardanus of Tournus"
 honorific: Saint
-title: "Saint Ardanus of Tournus"
 summary: "Benedictine monk. 13th abbot of the abbey of Saint Philibert at Tournus, diocese of Autun, France in 1028. Restored monastic buildings there, and cared for the local people during the famine of 1030 to 1033."
 searchAliases:
   - "Ardagne"

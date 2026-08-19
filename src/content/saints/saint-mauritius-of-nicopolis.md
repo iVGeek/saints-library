@@ -1,7 +1,6 @@
 ---
 name: "Saint Mauritius of Nicopolis"
 honorific: Saint
-title: "Saint Mauritius of Nicopolis"
 summary: "Tortured and martyred in the persecutions of emperor Licinius."
 searchAliases:
   - "Maurice"

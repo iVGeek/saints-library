@@ -1,7 +1,6 @@
 ---
 name: "Blessed Plàcid Fàbrega Julià"
 honorific: Blessed
-title: "Blessed Plàcid Fàbrega Julià"
 summary: "Son of Pablo and Maria Julià. Like his older brother before him, Plàcid joined the Marist Brothers of the Schools as a teenager at San Andrea Palo de Mar in Barcelona, Spain, taking the name Brother Bernat and making his vows on 8 September 1905. Taught at schools in Barcelona, V"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Plàcid-Fàbrega-Julià.jpg"
 searchAliases:

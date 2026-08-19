@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander the Charcoal Burner"
 honorific: Saint
-title: "Saint Alexander the Charcoal Burner"
 summary: "Well-born, educated, and erudiate 3rd century Greek with philosophical training. Convert to Christianity. To escape his pagan roots and live for God, he left his native area and became a charcoal burner at Comana, Pontus, Asia Minor (in modern Turkey). Noted for being exceptional"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-the-Charcoal-Burner.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Cadfan"
 honorific: Saint
-title: "Saint Cadfan"
 summary: "Sixth-century monk. Spiritual teacher of Sadwen of Wales. Emigrated from Brittany to Wales where he founded several monasteries. First abbot of Bardsey Abbey in Wales. Llangadfan, Montgomeryshire, Wales is named in his honour."
 searchAliases:
   - "Cadfan of Wales"

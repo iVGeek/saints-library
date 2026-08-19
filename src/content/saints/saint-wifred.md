@@ -1,7 +1,6 @@
 ---
 name: "Saint Wifred"
 honorific: Saint
-title: "Saint Wifred"
 summary: "Monk and then abbot of Saint Victor Abbey in Marseilles, France."
 deathYear: 1021
 died: "1021 of natural causes"

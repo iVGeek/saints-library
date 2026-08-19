@@ -1,7 +1,6 @@
 ---
 name: "Saint Quintus of Rome"
 honorific: Saint
-title: "Saint Quintus of Rome"
 summary: "Two Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

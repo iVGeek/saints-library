@@ -1,7 +1,6 @@
 ---
 name: "Saint Vicenta of Coria"
 honorific: Saint
-title: "Saint Vicenta of Coria"
 summary: "Nun. Martyr."
 region: "Portugal"
 feastDay:

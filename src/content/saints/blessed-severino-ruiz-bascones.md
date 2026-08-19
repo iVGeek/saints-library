@@ -1,7 +1,6 @@
 ---
 name: "Blessed Severino Ruiz Báscones"
 honorific: Blessed
-title: "Blessed Severino Ruiz Báscones"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Feliciano"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Seville"
 honorific: Saint
-title: "Saint Peter of Seville"
 summary: "Martyr. Venerated in Seville, Spain. Many legends and tall tales grew up around him to fill in the empty parts of his biography, but none are reliable."
 region: "Spain"
 feastDay:

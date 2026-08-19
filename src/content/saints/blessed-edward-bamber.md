@@ -1,7 +1,6 @@
 ---
 name: "Blessed Edward Bamber"
 honorific: Blessed
-title: "Blessed Edward Bamber"
 summary: "Studied at the seminary of Saint Omer, and at the English College of Saint Gregory in Seville, Spain. Ordained in Seville in 1626. He returned to England to minister to covert Catholics, mainly in Lancashire. He was immediately arrested upon landing, but released. Arrested in 164"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Blessed-edward-bamber.png"
 searchAliases:

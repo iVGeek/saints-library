@@ -1,7 +1,6 @@
 ---
 name: "Saint Fulgentius of Ruspe"
 honorific: Saint
-title: "Saint Fulgentius of Ruspe"
 summary: "Born to a Roman senatorial family, and was well educated. Provincial fiscal procurator and lieutenant governor of Byzacena. He became a monk early in life, led to the religious life by the writings of Saint Augustine of Hippo, whose work remained a touchstone for him the rest of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fulgentius_von_Ruspe_17Jh.jpg/960px-Fulgentius_von_Ruspe_17Jh.jpg"
 searchAliases:

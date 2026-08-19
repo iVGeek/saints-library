@@ -1,7 +1,6 @@
 ---
 name: "Saint Thomaides of Alexandria"
 honorific: Saint
-title: "Saint Thomaides of Alexandria"
 summary: "Fifth century wife of a fisherman. Died fending off a rape attempt by her father-in-law, and is considered a martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thomaides-of-Alexandria.jpg"
 searchAliases:

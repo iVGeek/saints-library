@@ -1,7 +1,6 @@
 ---
 name: "Saint Sisinius of Osimo"
 honorific: Saint
-title: "Saint Sisinius of Osimo"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "stoned to death in 303 in Osimo, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Epiphanius of Salamis"
 honorific: Saint
-title: "Saint Epiphanius of Salamis"
 summary: "A Hellenized Jew, and convert to Christianity. Fluent in five languages, and extensively studied in theology and the classics. Monk in several communities in Egypt, returning to Palestine in 333. Priest. As a young man he founded a monastery at Eleutheropolis (Beth-Saddouk), and"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Epiphanius-Kosovo.jpg"
 searchAliases:

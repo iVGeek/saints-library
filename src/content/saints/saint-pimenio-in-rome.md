@@ -1,7 +1,6 @@
 ---
 name: "Saint Pimenio in Rome"
 honorific: Saint
-title: "Saint Pimenio in Rome"
 summary: "Priest. Martyr."
 searchAliases:
   - "Pimen"

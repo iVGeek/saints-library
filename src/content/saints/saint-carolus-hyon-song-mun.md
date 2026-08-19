@@ -1,7 +1,6 @@
 ---
 name: "Saint Carolus Hyon Song-Mun"
 honorific: Venerable
-title: "Saint Carolus Hyon Song-Mun"
 summary: "Married layman and father in the apostolic vicariate of Korea. Catechist. Travelled extensively throughout Korea to help missionaries, managing their money and helping converts. Wrote a book about the persecutions of Christians in 1839. Imprisoned in June 1846 for his faith, he s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Carolus-Hyon-Song-Mun.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pascual Fortuño Almela"
 honorific: Blessed
-title: "Blessed Pascual Fortuño Almela"
 summary: "Born to a pious, hard-working family, Pascual was baptized at the age of one day. Joined the Franciscan Friar Minor novitiate at age 12, making his solemn profession on 24 January 1909. Studied theology at the Franciscan school in Onteniente, Spain, and was ordained on 15 August"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Fortuño-Almela.jpg"
 birthYear: 1886

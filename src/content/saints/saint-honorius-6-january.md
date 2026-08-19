@@ -1,7 +1,6 @@
 ---
 name: "Saint Honorius"
 honorific: Saint
-title: "Saint Honorius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1

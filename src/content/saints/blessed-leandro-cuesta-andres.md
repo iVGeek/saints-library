@@ -1,7 +1,6 @@
 ---
 name: "Blessed Leandro Cuesta Andrés"
 honorific: Blessed
-title: "Blessed Leandro Cuesta Andrés"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936

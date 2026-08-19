@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria of Kyoto"
 honorific: Blessed
-title: "Blessed Maria of Kyoto"
 summary: "Married lay woman in the diocese of Kyoto, Japan. Mother of Blessed Sixtus of Kyoto. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Tanba, Kyoto, Japan"

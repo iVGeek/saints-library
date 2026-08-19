@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus of Bisceglia"
 honorific: Saint
-title: "Saint Maurus of Bisceglia"
 summary: "Spiritual student of Saint Peter the Apostle. Assigned by Peter as the first Bishop of Bisceglia, Italy. Martyred in the persecutions of Trajan."
 searchAliases:
   - "Maruo"

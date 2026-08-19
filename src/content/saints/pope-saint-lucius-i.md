@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Lucius I"
 honorific: Saint
-title: "Pope Saint Lucius I"
 summary: "Chosen 22nd pope. Noted for his ascetic lifestyle, even while on the throne. Forbade men and women not related by blood to live together. Decreed that clergy should not live with deaconesses even if given lodging for reasons of charity. Exiled briefly during the persecution of Em"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fresco_of_Pope_Lucius_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.jpg/960px-Fresco_of_Pope_Lucius_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.jpg"
 searchAliases:

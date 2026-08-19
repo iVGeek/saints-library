@@ -1,7 +1,6 @@
 ---
 name: "Saint Teresa of the Andes"
 honorific: Venerable
-title: "Saint Teresa of the Andes"
 summary: "Born to an upper class family. From her adolescence Teresa was devoted to Christ. Greatly influenced by the autobiography of Saint Thérèse de Lisieux. She entered the monastery of the Discalced Carmelite nuns at Los Andes on 7 May 1919, and was given the name Teresa of Jesus. A m"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Teresa_de_los_Andes.jpg"
 searchAliases:

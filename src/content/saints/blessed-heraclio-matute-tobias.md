@@ -1,7 +1,6 @@
 ---
 name: "Blessed Heraclio Matute Tobias"
 honorific: Blessed
-title: "Blessed Heraclio Matute Tobias"
 summary: "Member of the Claretians, professed on 23 December 1884. Ordained a priest on 14 March 1891. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Felicity of Rome"
 honorific: Saint
-title: "Saint Felicity of Rome"
 summary: "Rich, noble widow. Mother of seven sons, all of whom were martyred"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg"
 searchAliases: []

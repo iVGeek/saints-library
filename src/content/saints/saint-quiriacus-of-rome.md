@@ -1,7 +1,6 @@
 ---
 name: "Saint Quiriacus of Rome"
 honorific: Saint
-title: "Saint Quiriacus of Rome"
 summary: "Martyr."
 deathYear: 304
 died: "c.304 in Rome, Italy"

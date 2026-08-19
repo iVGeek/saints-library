@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of North Africa"
 honorific: Saint
-title: "Saint Fortunatus of North Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

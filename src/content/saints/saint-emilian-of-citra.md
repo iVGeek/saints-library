@@ -1,7 +1,6 @@
 ---
 name: "Saint Emilian of Citra"
 honorific: Saint
-title: "Saint Emilian of Citra"
 summary: "Soldier. Martyr. No other information has survived."
 searchAliases:
   - "Aemilian"

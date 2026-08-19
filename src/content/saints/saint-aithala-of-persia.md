@@ -1,7 +1,6 @@
 ---
 name: "Saint Aithala of Persia"
 honorific: Saint
-title: "Saint Aithala of Persia"
 summary: "Martyr."
 searchAliases:
   - "Aithelas"

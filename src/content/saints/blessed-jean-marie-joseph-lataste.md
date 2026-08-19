@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Marie Joseph Lataste"
 honorific: Blessed
-title: "Blessed Jean-Marie Joseph Lataste"
 summary: "The youngest of seven children born to Vital, a cloth merchant and vineyard owner, and Jeanne Lataste. Alcide started his work life as an administrator in the tax office, working in several cities in southern France. Friend of and long time correspondent with Father Jean-Baptiste"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-Joseph-Lataste.jpg"
 searchAliases:

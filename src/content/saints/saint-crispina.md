@@ -1,7 +1,6 @@
 ---
 name: "Saint Crispina"
 honorific: Saint
-title: "Saint Crispina"
 summary: "Born a wealthy Roman citizen, she was a married lay woman, and mother of several children. Arrested for her Christianity during the persecutions of Diocletian. Tried, abused, humilitated and threatened in Thebeste (Thebessa) by Roman proconsul Anulinus, she gave a spirited defens"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Crispina.jpg"
 deathYear: 304

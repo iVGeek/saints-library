@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Muñoz Calvo"
 honorific: Blessed
-title: "Blessed José Muñoz Calvo"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 deathYear: 1936
 died: "30 July 1936 in Alhama de Granada, Spain"

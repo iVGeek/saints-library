@@ -1,7 +1,6 @@
 ---
 name: "Saint Oriculus"
 honorific: Saint
-title: "Saint Oriculus"
 summary: "One of a group of martyrs killed by Arian Vandals; the names of his fellow martyrs have not come down to us."
 deathYear: 430
 died: "c.430 near Carthage, North Africa"

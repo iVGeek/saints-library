@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giovanni Bacile"
 honorific: Venerable
-title: "Venerable Giovanni Bacile"
 summary: "Priest of the diocese of Monreale, Italy."
 birthYear: 1880
 deathYear: 1941

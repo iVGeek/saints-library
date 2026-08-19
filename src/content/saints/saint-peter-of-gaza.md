@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Gaza"
 honorific: Saint
-title: "Saint Peter of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"

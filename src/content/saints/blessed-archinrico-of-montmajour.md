@@ -1,7 +1,6 @@
 ---
 name: "Blessed Archinrico of Montmajour"
 honorific: Blessed
-title: "Blessed Archinrico of Montmajour"
 summary: "Monk and abbot in the late 10th and early 11th centuries. He is mentioned in some documents, but little about the man has survived."
 region: "Italy"
 feastDay:

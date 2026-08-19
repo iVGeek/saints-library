@@ -1,7 +1,6 @@
 ---
 name: "Saint Asterius"
 honorific: Saint
-title: "Saint Asterius"
 summary: "Martyr."
 searchAliases:
   - "Asterio"

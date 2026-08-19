@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petra de San José Perez Florido"
 honorific: Blessed
-title: "Blessed Petra de San José Perez Florido"
 summary: "The youngest of five children born to José Perez and Maria Florido; her mother died when the girl was three, and her paternal grandmother stepped in to help raise and educate her. Ana developed devotion to Mary and Joseph. It being a time of arranged marriages, the family receive"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Petra-de-San-Jose-Perez-Florido.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Plumtree"
 honorific: Blessed
-title: "Blessed Thomas Plumtree"
 summary: "Began studies at Corpus Christi College, Oxford, England in 1543. Priest. Rector of Stubton, Lincolnshire, England in 1546. He resigned his prebend and became chaplain to northern insurgents in the Catholic Rising of the North against the repressions of Queen Elizabeth I, refusin"
 searchAliases:
   - "Pastor Rebel"

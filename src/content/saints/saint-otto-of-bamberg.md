@@ -1,7 +1,6 @@
 ---
 name: "Saint Otto of Bamberg"
 honorific: Saint
-title: "Saint Otto of Bamberg"
 summary: "Born to the Swabian nobility. Priest. Part of the household of Duke Ladislas of Poland. Entered the service of Emperor Henry IV in 1090. Chancellor in 1101. When Henry broke with Rome over the dispute of the investiture of bishops by Rome as opposed to local authorities, Otto was"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pr%C3%BCfening_Klosterkirche_-_Romanische_Fresken_3b_Otto_von_Bamberg.jpg/960px-Pr%C3%BCfening_Klosterkirche_-_Romanische_Fresken_3b_Otto_von_Bamberg.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Athanasius the Athonite"
 honorific: Saint
-title: "Saint Athanasius the Athonite"
 summary: "Studied at Constantinople. Monk at Saint Michael's monastery, Kymina, Bithynia, taking the name Athanasius. Fearing that the was going to be chosen abbot, Athanasius fled to Karyes, changed his name, claimed to be illiterate, and hid in his cell. Hermit in a cave at Mount Athos,"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Athanasios.jpg"
 searchAliases:

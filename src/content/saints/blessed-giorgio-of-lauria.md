@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giorgio of Lauria"
 honorific: Blessed
-title: "Blessed Giorgio of Lauria"
 summary: "Son of Admiral Don Ruggero. Cousin of Blessed Raymond of Toulouse, he fiercely opposed Raymond's call to religious life at the convent of Barcelona, Spain, and even threatened to beat him up if he took the habit; Giorgia later felt the call himself and followed Raymond into the M"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giorgio-da-Lauria.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Heliodorus of Mesopotamia"
 honorific: Saint
-title: "Saint Heliodorus of Mesopotamia"
 summary: "Bishop in Mesopotamia. Martyred in the persecution of Shapur II."
 deathYear: 355
 died: "c.355"

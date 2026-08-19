@@ -1,7 +1,6 @@
 ---
 name: "Saint Romanus of Corinth"
 honorific: Saint
-title: "Saint Romanus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Manzano Cruz"
 honorific: Blessed
-title: "Blessed Francisco Manzano Cruz"
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936

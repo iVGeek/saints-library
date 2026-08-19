@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mykola Tsehelskyi"
 honorific: Blessed
-title: "Blessed Mykola Tsehelskyi"
 summary: "Greek Catholic. Studied theology at the university of Lviv, Ukraine, graduating in 1923. Married with two sons and two daughters. Ordained on 5 April 1925. Parish priest at Soroka, Hrymailivsk deanery, where he built the church. Pastor of the Archeparchy of Lviv for the Ukrainian"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolao-Cehelskyj.jpg"
 searchAliases:

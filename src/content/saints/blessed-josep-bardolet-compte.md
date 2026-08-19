@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Bardolet Compte"
 honorific: Blessed
-title: "Blessed Josep Bardolet Compte"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Benet Josep"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Stanislaw Kostka Starowieyski"
 honorific: Blessed
-title: "Blessed Stanislaw Kostka Starowieyski"
 summary: "Graduated high school in 1914. Studied law at Jagiellonian University in Krakow, Poland, but his studies were interrupted by the start of World War I. Soldier and officer in the Austrian army, he fought on the eastern front and in Italy. Helped found the Polish army in 1918. Foug"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Kostka-Starowieyski.jpg"
 searchAliases:

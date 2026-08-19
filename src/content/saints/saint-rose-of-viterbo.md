@@ -1,7 +1,6 @@
 ---
 name: "Saint Rose of Viterbo"
 honorific: Saint
-title: "Saint Rose of Viterbo"
 summary: "Franciscan tertiary. At age three she brought a person back from death. Preached in the streets from age ten and led public processions praising Christ. Prophetess and subject to visions. Had the friendship of birds. Was repeatedly refused entrance to the Poor Clares, and in 1250"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Santarosaviterbo.gif"
 searchAliases:

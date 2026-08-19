@@ -1,7 +1,6 @@
 ---
 name: "Saint Sallustia"
 honorific: Saint
-title: "Saint Sallustia"
 summary: "Married to Saint Caerealis. Convert to Christianity, instructed in the faith by Pope Saint Cornelius. Martyred in the persecutions of Decius."
 deathYear: 251
 died: "251 in Rome, Italy"

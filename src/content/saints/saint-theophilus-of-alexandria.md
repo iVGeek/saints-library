@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Alexandria"
 honorific: Saint
-title: "Saint Theophilus of Alexandria"
 summary: "Martyr."
 born: "Egypt"
 region: "Egypt"

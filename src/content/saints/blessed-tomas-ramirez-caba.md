@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Ramírez Caba"
 honorific: Blessed
-title: "Blessed Tomás Ramírez Caba"
 summary: "Married layman and father of the diocese of Quiché, Guatemala. He served as sacristan in his parish. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomas-Ramirez-Caba.jpg"
 birthYear: 1934

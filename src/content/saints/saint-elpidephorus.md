@@ -1,7 +1,6 @@
 ---
 name: "Saint Elpidephorus"
 honorific: Saint
-title: "Saint Elpidephorus"
 summary: "Persian senator during the persecutions of King Sapor II. When he led a group of senators speaking in support of the faith and courage shown by Saints Acindynus, Pegasius and Anempodistus, he was exposed as a Christian and immediately executed. One of the Martyrs of Isfahan."
 deathYear: 350
 born: "Persian"

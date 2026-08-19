@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arturo Donoso Murillo"
 honorific: Blessed
-title: "Blessed Arturo Donoso Murillo"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936

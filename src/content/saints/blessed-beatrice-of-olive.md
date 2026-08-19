@@ -1,7 +1,6 @@
 ---
 name: "Blessed Beatrice of Olive"
 honorific: Blessed
-title: "Blessed Beatrice of Olive"
 summary: "Cistercian nun at the convent of the Olive in Morlanwelz, Belgium. Her life in the convent led her to question her vocation, and she became a pilgrim for 15 years after which she received a vision of the Blessed Virgin Mary telling her it was time to return to Cistercian life. Be"
 deathYear: 1400
 died: "c.1400 of natural causes"

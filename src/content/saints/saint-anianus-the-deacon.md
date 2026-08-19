@@ -1,7 +1,6 @@
 ---
 name: "Saint Anianus the Deacon"
 honorific: Saint
-title: "Saint Anianus the Deacon"
 summary: "Deacon. Martyred with 22 companions. No other information has survived."
 searchAliases:
   - "Anian"

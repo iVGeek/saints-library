@@ -1,7 +1,6 @@
 ---
 name: "Saint Calocerus of Ravenna"
 honorific: Saint
-title: "Saint Calocerus of Ravenna"
 summary: "Spiritual student of Saint Apollinaris of Ravenna. Bishop of Ravenna, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Ravenna.jpg"
 searchAliases:

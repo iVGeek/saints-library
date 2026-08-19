@@ -1,7 +1,6 @@
 ---
 name: "Saint Basileus of Antioch"
 honorific: Saint
-title: "Saint Basileus of Antioch"
 summary: "Bishop. Martyr."
 died: "at Antioch, Syria"
 deathPlace: "Syria"

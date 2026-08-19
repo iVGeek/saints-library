@@ -1,7 +1,6 @@
 ---
 name: "Venerable Anna Maria Sorti"
 honorific: Venerable
-title: "Venerable Anna Maria Sorti"
 summary: "Member of the Congregation of the Sisters of the Poor - Palazzolo Institute. She died of the Ebola virus contracted by caring for victims of the hemorrhagic fever."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Anna-Maria-Sorti.jpeg"
 searchAliases:

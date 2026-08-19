@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eduardo Romero Cortés"
 honorific: Blessed
-title: "Blessed Eduardo Romero Cortés"
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936

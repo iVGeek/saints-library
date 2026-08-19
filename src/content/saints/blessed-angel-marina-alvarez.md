@@ -2,7 +2,6 @@
 name: "Blessed Ángel Marina Álvarez"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Viaje_alrededor_del_mundo%2C_aventuras_de_un_joven_marino_1915.pdf/page1-960px-Viaje_alrededor_del_mundo%2C_aventuras_de_un_joven_marino_1915.pdf.jpg"
 honorific: Blessed
-title: "Blessed Ángel Marina Álvarez"
 summary: "Dominican friar, taking the habit in the church of Santísimo Rosario in Almagro, Ciudad Real, Spain on 3 October 1906, and making his profession on 9 October 1907. He studied at Almagro for the next ten years, and was ordained a priest on 21 September 1916. Missionary to Venezuel"
 birthYear: 1890
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Guy of Casauria"
 honorific: Blessed
-title: "Blessed Guy of Casauria"
 summary: "Benedictine monk at Farfa. Abbot of Casauria, Italy."
 deathYear: 1045
 died: "1045"

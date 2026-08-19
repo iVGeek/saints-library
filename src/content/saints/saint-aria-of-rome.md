@@ -1,7 +1,6 @@
 ---
 name: "Saint Aria of Rome"
 honorific: Saint
-title: "Saint Aria of Rome"
 summary: "Martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"

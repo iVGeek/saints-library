@@ -1,7 +1,6 @@
 ---
 name: "Saint Paula Frassinetti"
 honorific: Venerable
-title: "Saint Paula Frassinetti"
 summary: " One of Paula's aunts moved in to help with the Only daughter of John and Angela Frassinetti, she was raised in a pious family; all four of her brothers became priests. Paula's mother died when the girl was nine years old. In need of a substitute mother, Paula turned to Our Lady."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Paola_frassinetti.jpg"
 searchAliases:

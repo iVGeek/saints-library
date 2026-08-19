@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Alberich Lluch"
 honorific: Blessed
-title: "Blessed Nicolás Alberich Lluch"
 summary: "Member of the Salesians. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Valeriano Luis"

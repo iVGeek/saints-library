@@ -1,7 +1,6 @@
 ---
 name: "King David"
 honorific: Saint
-title: "King David"
 summary: "Son of Jesse, and a shepherd in his youth. Anointed by the prophet Samuel. During war with the Philistines, David, relying on God, slew the giant Goliath and won the friendship of Jonathan, son of Saul; courtier. Married to Saul's daughter Michol. Forced into exile for political"
 image: "http://catholicsaints.info/wp-content/uploads/img-King-David.jpg"
 birthYear: 1085

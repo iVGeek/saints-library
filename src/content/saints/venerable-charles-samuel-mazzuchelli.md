@@ -1,7 +1,6 @@
 ---
 name: "Venerable Charles Samuel Mazzuchelli"
 honorific: Venerable
-title: "Venerable Charles Samuel Mazzuchelli"
 summary: "Dominican missionary priest to the United States and the Native American tribes around the Great Lakes. Assigned in 1830 to the island of Mackinac, and was the only permanent priest in the upper Great Lakes region. Founded the first Catholic school in Wisconsin. Transferred to Ga"
 image: "http://catholicsaints.info/wp-content/uploads/Venerable-Charles-Samuel-Mazzuchelli.jpg"
 searchAliases:

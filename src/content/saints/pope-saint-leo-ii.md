@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Leo II"
 honorific: Saint
-title: "Pope Saint Leo II"
 summary: "Pope. Eloquent preacher. Interested in music. Noted for his charity to the poor. Confirmed the Sixth Council of Constantinople in 681 which condemned Monthelitism and censured Pope Honorius I for not doing the same. Secured revocation of the edict of Constans II which proclaimed"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-II.jpg"
 deathYear: 683

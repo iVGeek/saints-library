@@ -1,7 +1,6 @@
 ---
 name: "Saint James of Persia"
 honorific: Saint
-title: "Saint James of Persia"
 summary: "Fourth century priest in Persia, martyred in the persecutions of King Shapur II"
 feastDay:
   month: 4

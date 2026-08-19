@@ -1,7 +1,6 @@
 ---
 name: "Saint Leonides of Palmyra"
 honorific: Saint
-title: "Saint Leonides of Palmyra"
 summary: "Sister of Saint Libya of Palmyra. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Leonis"

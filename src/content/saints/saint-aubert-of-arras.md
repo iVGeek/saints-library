@@ -1,7 +1,6 @@
 ---
 name: "Saint Aubert of Arras"
 honorific: Saint
-title: "Saint Aubert of Arras"
 summary: "Bishop of the diocese of Arras, France in 603. Built churches and founded several monasteries in Flanders and Hainault in Belgium. Accepted the vows of Saint Waltrude. Advisor to King Dagobert on both spiritual and temporal matters."
 searchAliases:
   - "Aubert of Cambrai"

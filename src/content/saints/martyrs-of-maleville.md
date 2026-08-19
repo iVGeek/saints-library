@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Maleville"
 honorific: Saint
-title: "Martyrs of Maleville"
 summary: "50 Mercedarian friars murdered for their faith by Huguenots."
 deathYear: 1563
 died: "1563 in the Mercedarian convent of Maleville in Rodez, France"

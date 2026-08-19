@@ -1,7 +1,6 @@
 ---
 name: "Saint Berlindis of Meerbeke"
 honorific: Saint
-title: "Saint Berlindis of Meerbeke"
 summary: "Born to the nobility, the daughter of Odolard, Duke of Lothringia and Nona, and the niece of Saint Amand of Maastricht. Odolard developed leprosy; when Berlindis would not drink from the same glass as her father, the duke disowned her. Benedictine nun at Saint Mary's convent, Moo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Berlindis-of-Meerbeke.jpg"
 searchAliases:

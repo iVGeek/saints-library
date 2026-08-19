@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcus of Nicaea"
 honorific: Saint
-title: "Saint Marcus of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Mark"

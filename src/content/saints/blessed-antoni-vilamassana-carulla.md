@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Vilamassana Carulla"
 honorific: Blessed
-title: "Blessed Antoni Vilamassana Carulla"
 summary: "Claretian brother. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936

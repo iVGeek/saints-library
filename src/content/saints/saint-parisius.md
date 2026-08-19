@@ -1,7 +1,6 @@
 ---
 name: "Saint Parisius"
 honorific: Saint
-title: "Saint Parisius"
 summary: "Camaldolese monk at age 12 at the monastery of Saint Michael's. Hermit. Priest. Chaplain and spiritual director of the Saint Christina convent of Treviso, Italy in 1191; he served there for 72 years. Cared for the spritual needs of pilgrims and the sick at the All Saints Hospice"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Legendari_di_sancti_istoriado_uulgar%2C_1497_-_%28Parisio%29_-_BEIC_IE4411197.jpg/960px-Legendari_di_sancti_istoriado_uulgar%2C_1497_-_%28Parisio%29_-_BEIC_IE4411197.jpg"
 searchAliases:

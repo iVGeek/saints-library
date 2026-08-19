@@ -1,7 +1,6 @@
 ---
 name: "Saint Charalampias"
 honorific: Saint
-title: "Saint Charalampias"
 summary: "Elderly priest in Magnesia, Asia Minor (in modern Turkey). Tortured and martyred with Saint Baptus, Saint Porphyrius of Magnesia, and three unnamed Christian women during the persecutions of Emperor Septimius Severus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Charalampias.jpg"
 searchAliases:

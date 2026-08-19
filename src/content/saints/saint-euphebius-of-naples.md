@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphebius of Naples"
 honorific: Saint
-title: "Saint Euphebius of Naples"
 summary: "4th century bishop of Naples, Italy."
 searchAliases:
   - "Efébo"

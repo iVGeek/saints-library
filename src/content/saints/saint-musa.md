@@ -1,7 +1,6 @@
 ---
 name: "Saint Musa of Rome"
 honorific: Saint
-title: "Saint Musa of Rome"
 summary: "Young girl in 6th century Rome, Italy who had visions and mystical experiences. Saint Gregory the Great wrote about her."
 region: "Italy"
 feastDay:

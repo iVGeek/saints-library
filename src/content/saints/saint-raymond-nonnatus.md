@@ -1,7 +1,6 @@
 ---
 name: "Saint Raymond Nonnatus"
 honorific: Saint
-title: "Saint Raymond Nonnatus"
 summary: "Born to the Spanish nobility. Well educated, his father planned a career for Raymond in the royal court in Aragon (part of modern Spain). When Raymond felt drawn to religious life, his father ordered him to manage one of the family farms. However, Raymond spent his time with the"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/San_Ram%C3%B3n_Nonato_%28Museo_Ibercaja_Cam%C3%B3n_Aznar%29.jpg"
 searchAliases:

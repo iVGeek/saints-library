@@ -1,7 +1,6 @@
 ---
 name: "Saint Claudian of Hierapolis"
 honorific: Saint
-title: "Saint Claudian of Hierapolis"
 summary: "Martyr."
 died: "Hierapolis, Phrygia (in modern Turkey)"
 deathPlace: "Phrygia (modern Turkey)"

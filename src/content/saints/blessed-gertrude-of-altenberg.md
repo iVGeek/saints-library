@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gertrude of Altenberg"
 honorific: Blessed
-title: "Blessed Gertrude of Altenberg"
 summary: "Daughter of Saint Elizabeth of Hungary and Louis IV, landgrave of Thuringia. Educated at Altenberg Abbey. Cistercian nun at Altenberg. Chosen abbess when very young, and led the house for 50 years."
 image: "http://catholicsaints.info/wp-content/uploads/img-Gertrud-von-Altenberg.jpg"
 birthYear: 1227

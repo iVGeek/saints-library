@@ -1,7 +1,6 @@
 ---
 name: "Saint Paul of Carthage"
 honorific: Saint
-title: "Saint Paul of Carthage"
 summary: "Courtier. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)"

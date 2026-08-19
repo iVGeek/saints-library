@@ -1,7 +1,6 @@
 ---
 name: "Saint Desiderius of Pozzuoli"
 honorific: Saint
-title: "Saint Desiderius of Pozzuoli"
 summary: "Lector for Saint Januarius of Naples. Imprisoned and martyred in the persecutions of Diocletian."
 region: "Italy"
 feastDay:

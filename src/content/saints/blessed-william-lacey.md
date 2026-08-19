@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Lacey"
 honorific: Blessed
-title: "Blessed William Lacey"
 summary: "Married to a widow name Creswell; both his step-sons from that marriage became Jesuits. He held a civil service position, possibly as coroner, until c.1565 when he began to be persecuted for his Catholicism. Imprisoned for a while at Hull. Widower. He travelled to the European co"
 deathYear: 1582
 born: "in Horton, Yorkshire, England"

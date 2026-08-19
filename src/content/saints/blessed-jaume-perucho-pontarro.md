@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Perucho Pontarró"
 honorific: Blessed
-title: "Blessed Jaume Perucho Pontarró"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Perucho-Pontarro.jpg"
 searchAliases:

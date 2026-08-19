@@ -1,7 +1,6 @@
 ---
 name: "Saint Laura of Pollenza"
 honorific: Saint
-title: "Saint Laura of Pollenza"
 summary: "Martyred in the persecutions of Diocletian."
 died: "beheaded in the early 4th century in Rome, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Ballester Far"
 honorific: Blessed
-title: "Blessed Vicente Ballester Far"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Ballester-Far.jpg"
 birthYear: 1888

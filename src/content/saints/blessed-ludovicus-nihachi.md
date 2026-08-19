@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ludovicus Nihachi"
 honorific: Blessed
-title: "Blessed Ludovicus Nihachi"
 summary: "Married layman in the archdiocese of Nagasaki, Japan. Father of Blessed Franciscus Nihachi and Blessed Dominicus Nihachi. Member of the Lay Dominicans and Secular Franciscans. Catechist. Martyred for sheltering foreign missionaries."
 deathYear: 1628
 born: "Japan"

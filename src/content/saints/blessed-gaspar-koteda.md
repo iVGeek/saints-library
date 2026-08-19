@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspar Koteda"
 honorific: Blessed
-title: "Blessed Gaspar Koteda"
 summary: "Young layman catechist in the archdiocese of Nagasaki, Japan. Dominican tertiary. Martyr."
 birthYear: 1601
 deathYear: 1622

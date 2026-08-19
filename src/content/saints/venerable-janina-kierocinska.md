@@ -1,7 +1,6 @@
 ---
 name: "Venerable Janina Kierocinska"
 honorific: Venerable
-title: "Venerable Janina Kierocinska"
 summary: "Founded the Congregation of the Carmelite Sisters of the Child Jesus."
 searchAliases:
   - "Maria Teresa of Saint Joseph"

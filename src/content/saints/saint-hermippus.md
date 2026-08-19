@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermippus"
 honorific: Saint
-title: "Saint Hermippus"
 summary: "Martyr."
 deathYear: 305
 died: "c.305"

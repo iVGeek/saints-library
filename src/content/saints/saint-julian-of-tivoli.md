@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of Tivoli"
 honorific: Saint
-title: "Saint Julian of Tivoli"
 summary: "Martyred in the persecutions of Hadrian."
 died: "Tivoli, Italy in the early 2nd century"
 deathPlace: "Italythe early 2nd century"

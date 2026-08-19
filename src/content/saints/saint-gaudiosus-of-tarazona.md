@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaudiosus of Tarazona"
 honorific: Saint
-title: "Saint Gaudiosus of Tarazona"
 summary: "Monk in the Aragonese Pyrenees near Benasque. Spiritual student of Saint Victorian. Bishop of Tarazona, Zaragoza province c.565."
 searchAliases:
   - "Gaudioso"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mark Fantucci"
 honorific: Blessed
-title: "Blessed Mark Fantucci"
 summary: "Born wealthy and known as an excellent student. Lawyer. In his mid-20's he felt a call to religious life and gave up his career to enter the Franciscan in 1430, taking the name Marcus. Priests. Guardian of the monastery of Monte Colombo. Noted preacher in Italy, Istria, and Dalma"
 image: "http://catholicsaints.info/wp-content/uploads/Marco-Fantuzzi.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Damhnade"
 honorific: Saint
-title: "Saint Damhnade"
 summary: "Virgin venerated in Ireland. No other information has survived."
 region: "Ireland"
 feastDay:

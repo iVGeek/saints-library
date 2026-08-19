@@ -1,7 +1,6 @@
 ---
 name: "Saint Callistus of Rome"
 honorific: Saint
-title: "Saint Callistus of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Callisto"

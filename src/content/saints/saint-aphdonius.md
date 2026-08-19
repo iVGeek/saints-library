@@ -1,7 +1,6 @@
 ---
 name: "Saint Aphdonius"
 honorific: Saint
-title: "Saint Aphdonius"
 summary: "A torturer in the court of King Sapor II of Persia. Witnessing the courage and faith of his victims, Saints Acindynus, Pegasius and Anempodistus, he converted to the faith and was immediately executed. One of the Martyrs of Isfahan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aphdonius.jpg"
 deathYear: 350

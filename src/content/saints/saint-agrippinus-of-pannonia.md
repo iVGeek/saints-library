@@ -1,7 +1,6 @@
 ---
 name: "Saint Agrippinus of Pannonia"
 honorific: Saint
-title: "Saint Agrippinus of Pannonia"
 summary: "Fourth century martyr. No other information has survived."
 feastDay:
   month: 7

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Yakym Senkivsky"
 honorific: Blessed
-title: "Blessed Yakym Senkivsky"
 summary: "Greek Catholic. Studied theology at Lviv. Ordained on 4 December 1921. Obtained his Doctorate in theology from Innsbruck, Austria. Novice in the Basilian Order of Saint Josaphat at Krekhiv in 1923. Assigned to the village of Krasnopushcha, then Lavriv. Held various positions at t"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-yakym-senkivsky/blessed-yakym-senkivsky-01.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Onésimo Agorreta Zabaleta"
 honorific: Blessed
-title: "Blessed Onésimo Agorreta Zabaleta"
 summary: "Member of the Claretians, professed on 15 August 1932. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

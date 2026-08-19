@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thecla Takahashi"
 honorific: Blessed
-title: "Blessed Thecla Takahashi"
 summary: "Child in the diocese of Niigata, Japan, the daughter of Blessed Simon Takahashi Seizaemon. Martyr."
 birthYear: 1616
 deathYear: 1629

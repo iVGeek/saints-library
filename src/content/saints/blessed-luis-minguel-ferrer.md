@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis Minguel Ferrer"
 honorific: Blessed
-title: "Blessed Luis Minguel Ferrer"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Luis María of the Virgin of Mercy"

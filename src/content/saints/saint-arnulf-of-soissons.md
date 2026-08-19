@@ -1,7 +1,6 @@
 ---
 name: "Saint Arnulf of Soissons"
 honorific: Saint
-title: "Saint Arnulf of Soissons"
 summary: "French nobleman. Distinguished career soldier under King Robert and King Henry I. Benedictine monk at the monastery of Saint Medard, Soissons, France c.1060. Hermit, living for three years in a tiny cell with almost no contact with the outside. Called to return to his community,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Arnulf-of-Soissons-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Archippus of Colossi"
 honorific: Saint
-title: "Saint Archippus of Colossi"
 summary: "Companion of Saint Paul the Apostle. Tradition says he was one of the 72 disciples. In the canonical Epistle to the Colossians, Paul bids him “take heed to the ministry which thou hast received in the Lord, that thou fulfill it.”"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Archippus-of-Colossi.jpg"
 searchAliases:

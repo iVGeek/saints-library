@@ -1,7 +1,6 @@
 ---
 name: "Saint Hadrian of Africa"
 honorific: Saint
-title: "Saint Hadrian of Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Adrian"

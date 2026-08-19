@@ -1,7 +1,6 @@
 ---
 name: "Saint Tonione of Alexandria"
 honorific: Saint
-title: "Saint Tonione of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"

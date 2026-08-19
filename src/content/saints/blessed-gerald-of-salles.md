@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerald of Salles"
 honorific: Blessed
-title: "Blessed Gerald of Salles"
 summary: "Canon regular in the diocese of Périgueux, France. Reforming monk at the Saint-Avit Abbey. Hermit in the Cadonh Forest. His reputation attracted many would-be students. Founded the Benedictine houses of Andorel Abbey, Belleperche Abbey, Valmagne Abbey, Bournet Abbey in 1113, Dalo"
 searchAliases:
   - "Gerald of Salas"

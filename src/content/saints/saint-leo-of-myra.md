@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo of Myra"
 honorific: Saint
-title: "Saint Leo of Myra"
 summary: "Martyr."
 searchAliases:
   - "León"

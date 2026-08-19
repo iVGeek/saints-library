@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Segalà Solé"
 honorific: Blessed
-title: "Blessed Francesc Segalà Solé"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Segala-Sole.jpg"
 searchAliases:

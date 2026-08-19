@@ -1,7 +1,6 @@
 ---
 name: "Saint Protus of Lucania"
 honorific: Saint
-title: "Saint Protus of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"

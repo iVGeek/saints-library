@@ -1,7 +1,6 @@
 ---
 name: "Blessed Richard Simpson"
 honorific: Blessed
-title: "Blessed Richard Simpson"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1554
 deathYear: 1588

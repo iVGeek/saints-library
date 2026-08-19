@@ -1,7 +1,6 @@
 ---
 name: "Saint Servandus of Cadiz"
 honorific: Saint
-title: "Saint Servandus of Cadiz"
 summary: "Son of Saint Marcellus of Léon, brother of Saint Germanus of Cadiz. Soldier in the imperial Roman army. When he was revealed to be a Christian, Servandus was chained, tortured, force marched without food, and finally martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Servandus-and-Germanus-of-Cadiz.jpg"
 deathYear: 305

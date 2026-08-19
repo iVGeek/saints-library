@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nazario del Valle González"
 honorific: Blessed
-title: "Blessed Nazario del Valle González"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nazario-del-Valle-Gonzalez.jpg"
 searchAliases:

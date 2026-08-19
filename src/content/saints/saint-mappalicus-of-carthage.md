@@ -1,7 +1,6 @@
 ---
 name: "Saint Mappalicus of Carthage"
 honorific: Saint
-title: "Saint Mappalicus of Carthage"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Mappalicius"

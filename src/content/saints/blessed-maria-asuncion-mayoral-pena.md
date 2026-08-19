@@ -1,7 +1,6 @@
 ---
 name: "Blessed María Asunción Mayoral Peña"
 honorific: Blessed
-title: "Blessed María Asunción Mayoral Peña"
 summary: "Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining on 17 March 1897. She served as a nurse in several hospitals. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/95966_AsunciomMayoral.jpg"
 birthYear: 1879

@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Thebaid"
 honorific: Saint
-title: "Martyrs of Thebaid"
 summary: "A large but unspecified number of Christians who were imprisoned, tortured and murdered together in the persecutions of Decius and Valerian."
 searchAliases:
   - "Martyrs of Thebes"

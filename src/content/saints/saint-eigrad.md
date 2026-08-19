@@ -1,7 +1,6 @@
 ---
 name: "Saint Eigrad"
 honorific: Saint
-title: "Saint Eigrad"
 summary: "Brother of Saint Samson of York. Spiritual student of Saint Illtyd. Founded a church in Anglesey, Wales."
 died: "6th century of natural causes"
 region: "England"

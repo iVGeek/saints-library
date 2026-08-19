@@ -1,7 +1,6 @@
 ---
 name: "Saint Dominic de la Calzada"
 honorific: Saint
-title: "Saint Dominic de la Calzada"
 summary: "Feeling a call to religious life, Dominic tried to join the Benedictines at Valvanera, Spain, but was turned away. Hermit at Rioja, Spain at what is now the shrine La Calzada. To help pilgims to Compostela, Spain, and with the help of Saint John de Ortega he built by hand a cause"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Domingo_Garc%C3%ADa_en_Catedral_de_Santo_Domingo_de_la_Calzada.jpg"
 searchAliases:

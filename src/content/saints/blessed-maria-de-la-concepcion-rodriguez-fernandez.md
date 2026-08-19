@@ -1,7 +1,6 @@
 ---
 name: "Blessed María de la Concepción Rodríguez Fernández"
 honorific: Blessed
-title: "Blessed María de la Concepción Rodríguez Fernández"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María del Carmen of the Immaculate Conception"

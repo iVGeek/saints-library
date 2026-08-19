@@ -1,7 +1,6 @@
 ---
 name: "Saint Apollonius of Braga"
 honorific: Saint
-title: "Saint Apollonius of Braga"
 summary: "Early bishop of Braga, Portugal. Martyr."
 searchAliases:
   - "Apollonios"

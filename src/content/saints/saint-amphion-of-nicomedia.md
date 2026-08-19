@@ -1,7 +1,6 @@
 ---
 name: "Saint Amphion of Nicomedia"
 honorific: Saint
-title: "Saint Amphion of Nicomedia"
 summary: "Priest during the reign of Valerius Maximianus Galerius. Earliest known bishop of Epiphania, Cilicia (in modern Turkey) in 325. Attended the Council of Nicaea. Bishop of Nicomedia; opposed the Arians who were just starting to spread in the area. Writer whose works were recommende"
 searchAliases:
   - "Amphion of Cilicia"

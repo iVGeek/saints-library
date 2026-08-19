@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnald Arench"
 honorific: Blessed
-title: "Blessed Arnald Arench"
 summary: "Mercedarian friar. Professor in a medical school in Montpellier, France. Preacher and writer who made expeditions to ransom Christians who had been enslaved by Muslims. During one of these trips he was imprisoned and beaten daily by Muslims for adhering to Christianity. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Arnald-Arench.jpg"
 deathYear: 1394

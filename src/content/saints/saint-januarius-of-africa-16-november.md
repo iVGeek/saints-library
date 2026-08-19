@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Africa"
 honorific: Saint
-title: "Saint Januarius of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

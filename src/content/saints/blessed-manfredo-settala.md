@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manfredo Settala"
 honorific: Blessed
-title: "Blessed Manfredo Settala"
 summary: "Born to an esteemed Milanese family. Priest of the parishes of Cuasso, Cuasso al Piano, Cuasso al Monte, Brusimpiano and Porto Ceresio Besano in the diocese of Milan. Hermit on Monte San Giorgio, Italy. His reputation for piety spread, which led to a series of people asking for h"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Portret_van_Manfred_Septalius%2C_RP-P-1909-4789.jpg/960px-Portret_van_Manfred_Septalius%2C_RP-P-1909-4789.jpg"
 deathYear: 1217

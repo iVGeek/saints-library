@@ -1,7 +1,6 @@
 ---
 name: "Saint Anna Kim Chang-gum"
 honorific: Venerable
-title: "Saint Anna Kim Chang-gum"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

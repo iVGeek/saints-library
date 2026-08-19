@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dionisio Rugger"
 honorific: Blessed
-title: "Blessed Dionisio Rugger"
 summary: "Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved Christians."
 image: "http://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg"
 region: "France"

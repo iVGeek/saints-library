@@ -1,7 +1,6 @@
 ---
 name: "Saint Ernin of Cremchoill"
 honorific: Saint
-title: "Saint Ernin of Cremchoill"
 summary: "This person is listed in the Tallagh and Donegal Martyrologies, but no details about them have survived."
 searchAliases:
   - "Ernin of Cranfield"

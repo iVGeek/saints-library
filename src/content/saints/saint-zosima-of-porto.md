@@ -1,7 +1,6 @@
 ---
 name: "Saint Zosima of Porto"
 honorific: Saint
-title: "Saint Zosima of Porto"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 273
 died: "c.273 in Porto, Italy"

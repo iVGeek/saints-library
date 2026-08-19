@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidora Izquierdo García"
 honorific: Blessed
-title: "Blessed Isidora Izquierdo García"
 summary: "The daughter of Esteban and Felicitas, Isidora was baptized at the age of eight days; she was educated at home, and then at the College of La Milagrosa of Rabé de las Calzadas in Burgos, Spain. In her teens, she felt a call to religious life, joined the Daughters of Charity, did"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Isidora-Izquierdo-Garcia.jpg"
 birthYear: 1885

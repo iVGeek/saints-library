@@ -1,7 +1,6 @@
 ---
 name: "Saint Domninus of Rome"
 honorific: Saint
-title: "Saint Domninus of Rome"
 summary: "Travelling preacher throughout Italy. Martyr."
 born: "Rome, Italy"
 birthPlace: "Italy"

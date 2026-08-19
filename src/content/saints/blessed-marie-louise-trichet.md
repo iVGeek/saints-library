@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Louise Trichet"
 honorific: Blessed
-title: "Blessed Marie-Louise Trichet"
 summary: "The fourth of eight children born to Julien, a court magistrate, and Françoise Lecocq, a notably pious mother; one of Marie-Louise's brothers became a priest, one of her sisters a nun; her eldest sister, Jeanne, was paralyzed at the age of 13, but was cured at 16 during a pilgrim"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Louise-Trichet.jpg"
 searchAliases:

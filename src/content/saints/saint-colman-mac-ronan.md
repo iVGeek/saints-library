@@ -1,7 +1,6 @@
 ---
 name: "Saint Colman mac Rónán"
 honorific: Saint
-title: "Saint Colman mac Rónán"
 summary: "Irish bishop."
 searchAliases:
   - "Colmanus"

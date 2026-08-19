@@ -1,7 +1,6 @@
 ---
 name: "Saint Aprilis of Africa"
 honorific: Saint
-title: "Saint Aprilis of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 region: "Africa"
 feastDay:

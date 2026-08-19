@@ -1,7 +1,6 @@
 ---
 name: "Saint Verecundus of Verona"
 honorific: Saint
-title: "Saint Verecundus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Verecondo"

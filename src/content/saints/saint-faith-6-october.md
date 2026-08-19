@@ -1,7 +1,6 @@
 ---
 name: "Saint Faith of Agen"
 honorific: Saint
-title: "Saint Faith of Agen"
 summary: "Reported to have been an exquisitely beautiful woman, utterly indifferent to the world who had dedicated herself to God. Arrested for her faith and tried by Dacian, procurator at Agen, France in the persecutions of Diocletian. Martyred with Saint Alberta. When some of the spectat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Faith1.jpg"
 searchAliases:

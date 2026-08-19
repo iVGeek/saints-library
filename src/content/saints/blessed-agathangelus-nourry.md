@@ -1,7 +1,6 @@
 ---
 name: "Blessed Agathangelus Nourry"
 honorific: Blessed
-title: "Blessed Agathangelus Nourry"
 summary: "Joined the Capuchins at Le Mans, France in 1619. Taught theology at Rennes, France. Missionary to the Copts in Egypt in 1633 with Blessed Cassianus. They met with little success, and moved on to Abyssinia. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angathangelus-and-Cassianus.jpg"
 searchAliases:

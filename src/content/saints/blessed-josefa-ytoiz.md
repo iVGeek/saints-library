@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josefa Ytóiz"
 honorific: Blessed
-title: "Blessed Josefa Ytóiz"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María of Saint Joseph"

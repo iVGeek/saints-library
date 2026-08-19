@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Africa"
 honorific: Saint
-title: "Saint Zoticus of Africa"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 2

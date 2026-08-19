@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luigi Carrara"
 honorific: Blessed
-title: "Blessed Luigi Carrara"
 summary: "Joined the Xaverian Missionaries in 1947, making his perpetual profession on 5 November 1959. Ordained a priest on 15 October 1961. Missionary to Baraka, Democratic Republic of Congo in 1962 where he was known for his humble service and deep prayer life. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luigi-Carrara.jpg"
 birthYear: 1933

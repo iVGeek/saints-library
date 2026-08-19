@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ferran Suñer Estrach"
 honorific: Blessed
-title: "Blessed Ferran Suñer Estrach"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Epifani"

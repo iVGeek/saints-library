@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ioannes Tanaka"
 honorific: Blessed
-title: "Blessed Ioannes Tanaka"
 summary: "Married layman. Sheltered Blessed Balthadar de Torres from persecutors. Imprisoned at Omura, Japan. Martyr."
 searchAliases:
   - "John Tanaca"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Walembert of Cambrai"
 honorific: Blessed
-title: "Blessed Walembert of Cambrai"
 summary: "Studied with the canons of Sainte-Walpurga, Veurne, Flanders, Belgium. Servant to Mayor Oylard in Saint-Quentin, Cambrai, France. Hermit in Bony, Cambrai. Augustinian monk. Built an abbey in the diocese of Cambrai, France in 1119; he served as its first abbot while his sister ser"
 searchAliases:
   - "Garembert"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Beatus of Lungern"
 honorific: Saint
-title: "Saint Beatus of Lungern"
 summary: "Convert, baptized in England by Saint Barnabas the Apostle. Priest, ordained in Rome, Italy by Saint Peter the Apostle. Missionary to Switzerland. Lived in a cave above the Lake of Thun, which tradition says is where he fought a dragon (often used as a metaphor for chasing the de"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Saints_Beatus_and_Achatus_of_Thun_-_Orthodox_Icon.jpg/960px-Saints_Beatus_and_Achatus_of_Thun_-_Orthodox_Icon.jpg"
 searchAliases:

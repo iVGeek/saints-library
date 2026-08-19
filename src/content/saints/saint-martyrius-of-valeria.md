@@ -1,7 +1,6 @@
 ---
 name: "Saint Martyrius of Valeria"
 honorific: Saint
-title: "Saint Martyrius of Valeria"
 summary: "Sixth century hermit in the Valeria (modern Abruzzo), Italy."
 searchAliases:
   - "Martory"

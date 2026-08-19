@@ -1,7 +1,6 @@
 ---
 name: "Saint Rigaldo"
 honorific: Saint
-title: "Saint Rigaldo"
 summary: "Martyr."
 region: "Italy"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Juan de Sahagún"
 honorific: Saint
-title: "Saint Juan de Sahagún"
 summary: "Son of John Gonzalez de Castrillo and Sancia Martinez, the oldest of seven children, their first after sixteen years of sterility and frustration; raised in a pious and well-to-do family. Educated by Benedictines at Fagondez abbey at Sahagun. Ordained in 1445. Held several benefi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Sahagun1.jpg"
 searchAliases:

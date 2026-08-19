@@ -1,7 +1,6 @@
 ---
 name: "Saint Mel of Ardagh"
 honorific: Saint
-title: "Saint Mel of Ardagh"
 summary: "Son of Conis and Saint Darerca, one of their nineteen children. Brother of Saint Melchu. Nephew of Saint Patrick. Travelled with Patrick and helped evangelize Ireland. Ordained bishop of Ardagh, Ireland by Patrick. Reputed to have professed Saint Brigid of Ireland as a nun. He su"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mel-of-Ardagh.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Servilia of Corinth"
 honorific: Saint
-title: "Saint Servilia of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Servilianus"

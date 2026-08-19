@@ -1,7 +1,6 @@
 ---
 name: "Blessed Néstor Vivar Valdivieso"
 honorific: Blessed
-title: "Blessed Néstor Vivar Valdivieso"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alberto María"

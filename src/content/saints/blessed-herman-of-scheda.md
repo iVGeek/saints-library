@@ -1,7 +1,6 @@
 ---
 name: "Blessed Herman of Scheda"
 honorific: Blessed
-title: "Blessed Herman of Scheda"
 summary: "Jewish convert to Christianity. Premonstratensian monk. Abbot of Scheda, archdiocese of Cologne, Germany."
 deathYear: 1200
 born: "at Cologne, Germany"

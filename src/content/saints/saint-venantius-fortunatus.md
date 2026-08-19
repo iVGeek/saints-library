@@ -1,7 +1,6 @@
 ---
 name: "Saint Venantius Fortunatus"
 honorific: Saint
-title: "Saint Venantius Fortunatus"
 summary: "Born to a pagan family, Venantius converted to Christianity when still quite young. He grew up in Aquileia, Italy, and studied grammar, rhetoric, and law at Ravenna, Italy. While a student he became nearly blind, but recovered his sight by anointing his eyes with oil from a lamp"
 image: "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Poitiers%2C_M%C3%A9diath%C3%A8que_Fran%C3%A7ois_Mitterrand%2C_MS_250_%28136%29%2C_fol._21v.jpg/960px-Poitiers%2C_M%C3%A9diath%C3%A8que_Fran%C3%A7ois_Mitterrand%2C_MS_250_%28136%29%2C_fol._21v.jpg"
 searchAliases:

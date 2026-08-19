@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcius of Monte Cassino"
 honorific: Saint
-title: "Saint Marcius of Monte Cassino"
 summary: "Born to the Italian nobility. Hermit on Monte Cassino when Saint Benedict arrived to start his abbey; the two fasted and prayed together about the proper religious life, and when they came to different conclusions, Marcius became a hermit on Mount Massicus; he spent several years"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Martin-of-Mons-Marsicus.jpg"
 searchAliases:

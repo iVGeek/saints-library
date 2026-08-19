@@ -1,7 +1,6 @@
 ---
 name: "Saint Fulk of Fontenelle"
 honorific: Saint
-title: "Saint Fulk of Fontenelle"
 summary: "Benedictine monk. Abbot at Fontenelle in France."
 deathYear: 845
 died: "845 of natural causes"

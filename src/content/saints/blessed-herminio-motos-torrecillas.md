@@ -1,7 +1,6 @@
 ---
 name: "Blessed Herminio Motos Torrecillas"
 honorific: Blessed
-title: "Blessed Herminio Motos Torrecillas"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gwenyth of Cornwall"
 honorific: Saint
-title: "Saint Gwenyth of Cornwall"
 summary: "Sister of Saint Samson of York. Nun."
 region: "England"
 feastDay:

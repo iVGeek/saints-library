@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Nadal Guiu"
 honorific: Blessed
-title: "Blessed Josep Nadal Guiu"
 summary: "Priest in the diocese of Lleida, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Nadal-Guiu.jpg"
 birthYear: 1911

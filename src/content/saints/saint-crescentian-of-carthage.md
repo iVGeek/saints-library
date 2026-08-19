@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentian of Carthage"
 honorific: Saint
-title: "Saint Crescentian of Carthage"
 summary: "Martyr."
 deathYear: 258
 died: "martyed c.258 in North Africa"

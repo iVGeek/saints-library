@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Nogués Martí"
 honorific: Blessed
-title: "Blessed Antoni Nogués Martí"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

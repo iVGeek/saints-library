@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Page"
 honorific: Blessed
-title: "Blessed Francis Page"
 summary: "Raised in a Protestant family from Harrow-on-the-Hill, England. Convert to Catholicism. Studied at Douai, France where he was ordained in 1600. Worked in England to minister to covert Catholics who faced government persecution. Arrested and sentenced to death for the crime of bei"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Page.jpg"
 birthYear: 1575

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elisabeth Hernden"
 honorific: Blessed
-title: "Blessed Elisabeth Hernden"
 summary: "Leader of a group of Franciscan tertiaries in Germany."
 deathYear: 1527
 died: "1527"

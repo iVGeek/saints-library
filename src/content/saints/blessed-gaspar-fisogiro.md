@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gaspar Fisogiro"
 honorific: Blessed
-title: "Blessed Gaspar Fisogiro"
 summary: "Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr."
 searchAliases:
   - "Gaspar Ueda Hikojiro"

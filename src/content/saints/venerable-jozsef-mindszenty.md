@@ -1,7 +1,6 @@
 ---
 name: "Venerable József Mindszenty"
 honorific: Venerable
-title: "Venerable József Mindszenty"
 summary: "Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught religion in Zalaegerszeg, Hungary. Founded the newspaper Zalamegyei Újság (Zala County Newspaper) in 1918, helped found the Catholic People's Party, and was arres"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/J%C3%B3zsef_Mindszenty.jpg/960px-J%C3%B3zsef_Mindszenty.jpg"
 searchAliases:

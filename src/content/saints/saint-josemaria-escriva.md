@@ -1,7 +1,6 @@
 ---
 name: "Saint Josemaría Escrivá"
 honorific: Venerable
-title: "Saint Josemaría Escrivá"
 summary: "One of six children born to Jose and Dolores Escriva; three of his siblings died in infancy. His father was a small businessman, and when his business failed in 1915, the family moved to Logroño, Spain. As a young man, Josemaria saw the bare footprints left in the snow by a monk;"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg"
 searchAliases:

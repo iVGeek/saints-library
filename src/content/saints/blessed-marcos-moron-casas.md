@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcos Morón Casas"
 honorific: Blessed
-title: "Blessed Marcos Morón Casas"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Indalecio de María"

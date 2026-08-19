@@ -1,7 +1,6 @@
 ---
 name: "Saint Aussenzius  of Caesarea"
 honorific: Saint
-title: "Saint Aussenzius  of Caesarea"
 summary: "Martyred in the persecutions of Maximian."
 died: "in the arena at Caesarea Maritima, Palestine"
 deathPlace: "Palestine"

@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Urban I"
 honorific: Saint
-title: "Pope Saint Urban I"
 summary: "Son of Pontianus. Pope during a time of relative peace and growth in the Church. Continued the orthodox papal opposition to Hippolytus of Rome and his schismatics."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sala_di_costantino%2C_papa_urbano_I_tra_la_giustizia_e_la_carit%C3%A0.jpg/960px-Sala_di_costantino%2C_papa_urbano_I_tra_la_giustizia_e_la_carit%C3%A0.jpg"
 deathYear: 230

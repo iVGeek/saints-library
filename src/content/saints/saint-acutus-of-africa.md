@@ -1,7 +1,6 @@
 ---
 name: "Saint Acutus of Africa"
 honorific: Saint
-title: "Saint Acutus of Africa"
 summary: "One of a group of Christians martyred together in Africa, date unknown, exact location unknown."
 region: "Africa"
 feastDay:

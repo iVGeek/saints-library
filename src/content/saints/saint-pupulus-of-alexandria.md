@@ -1,7 +1,6 @@
 ---
 name: "Saint Pupulus of Alexandria"
 honorific: Saint
-title: "Saint Pupulus of Alexandria"
 summary: "Martyr. No other information has survived."
 born: "Egyptian"
 died: "in Alexandria, Egypt, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Nàjera Gherna"
 honorific: Blessed
-title: "Blessed Jaume Nàjera Gherna"
 summary: "Franciscan Capuchin friar, professed on 27 July 1931. Ordained a priest on 11 March 1933. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Alexandre of Barcelona"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Gerona"
 honorific: Saint
-title: "Saint Donatus of Gerona"
 summary: "Martyr. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"

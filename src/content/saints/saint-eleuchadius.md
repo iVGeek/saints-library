@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleuchadius of Ravenna"
 honorific: Saint
-title: "Saint Eleuchadius of Ravenna"
 summary: "Convert, brought to the faith by Saint Apollinaris of Ravenna who then ordained him a deacon. Bishop of Ravenna, Italy in 100; legend says he was chosen when a dove rested over his head, which was taken as a sign of the Holy Spirit descending on him."
 searchAliases:
   - "Eleucadio"

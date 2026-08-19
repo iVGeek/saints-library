@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Ikegami"
 honorific: Blessed
-title: "Blessed Thomas Ikegami"
 summary: "Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Hokuriku region, Japan"

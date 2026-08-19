@@ -1,7 +1,6 @@
 ---
 name: "Saint Epiphanius of Pavia"
 honorific: Saint
-title: "Saint Epiphanius of Pavia"
 summary: "Brother of Saint Honorata and Saint Liberata. Bishop of Pavia, Italy in 467 at age 28. Powerful and influential preacher with a reputation for sanctity, charity to the poor, and working miracles. At one time or another, he intervened for his parishioners with Emperor Anthemus, th"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Hildesheim_StGodehard_Tympanon.jpg"
 searchAliases:

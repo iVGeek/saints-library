@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rigoberto Aquilino de Anta Barrio"
 honorific: Blessed
-title: "Blessed Rigoberto Aquilino de Anta Barrio"
 summary: "Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

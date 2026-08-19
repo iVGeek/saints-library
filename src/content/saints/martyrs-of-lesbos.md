@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Lesbos"
 honorific: Saint
-title: "Martyrs of Lesbos"
 summary: "Five young Christian women martyred together for their faith. No other details, not even their names, have come down to us."
 died: "island of Lesbos, Greece"
 deathPlace: "Greece"

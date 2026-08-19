@@ -1,7 +1,6 @@
 ---
 name: "Blessed Raimundo Joaquín Castaño González"
 honorific: Blessed
-title: "Blessed Raimundo Joaquín Castaño González"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Raimundo-Joaquín-Castaño-González.jpg"
 birthYear: 1877

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maiulo of Hadrumetum"
 honorific: Saint
-title: "Saint Maiulo of Hadrumetum"
 summary: "Martyr."
 searchAliases:
   - "Maiolo"

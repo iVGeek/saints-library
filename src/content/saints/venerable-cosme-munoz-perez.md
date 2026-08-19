@@ -1,7 +1,6 @@
 ---
 name: "Venerable Cosme Muñoz Pérez"
 honorific: Venerable
-title: "Venerable Cosme Muñoz Pérez"
 summary: "Baptized on 19 April 1573 in the parish of Santa María del Vado in Villar del Rio, Spain. As a young man, he felt a call to the military life, enlisted in Malaga, Spain, and served in the royal galleys for four years. As a civilian, he worked in clerical and secretarial positions"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Cosme-Munoz-Perez.jpg"
 birthYear: 1573

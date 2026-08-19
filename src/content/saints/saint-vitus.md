@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitus"
 honorific: Saint
-title: "Saint Vitus"
 summary: "Legend says that Vitus was the son of a pagan Sicilian senator named Hylas. The boy was converted to Christianity at age twelve by his tutor, Saint Modestus, and his nurse Saint Crescentia. His father showed his objection to the conversion by having all three arrested and scourge"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg/960px-St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg"
 searchAliases:

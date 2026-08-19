@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Milan"
 honorific: Saint
-title: "Saint Mark of Milan"
 summary: "Early martyr. No other information has survived."
 died: "in Milan, Italy"
 deathPlace: "Italy"

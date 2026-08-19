@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermogenes"
 honorific: Saint
-title: "Saint Hermogenes"
 summary: "Martyred with 23 companions. No other information has survived."
 died: "forced into a swamp to die of cold and exhaustion"
 feastDay:

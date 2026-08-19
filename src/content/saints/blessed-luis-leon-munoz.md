@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luis León Muñoz"
 honorific: Blessed
-title: "Blessed Luis León Muñoz"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the El Carpio community. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936

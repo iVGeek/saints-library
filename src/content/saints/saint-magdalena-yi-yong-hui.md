@@ -1,7 +1,6 @@
 ---
 name: "Saint Magdalena Yi Yong-hui"
 honorific: Venerable
-title: "Saint Magdalena Yi Yong-hui"
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

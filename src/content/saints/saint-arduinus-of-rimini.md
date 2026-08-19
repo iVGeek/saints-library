@@ -1,7 +1,6 @@
 ---
 name: "Saint Arduinus of Rimini"
 honorific: Saint
-title: "Saint Arduinus of Rimini"
 summary: "Spiritual student of Venerio, rector of the church of San Gregorio in Rimini, Italy. Priest in Rimini, ordained by Bishop Uberto; Adruinus had to pay Uberto to ordain him, but he was a dedicated priest who made the one concession to the worldly ways of his time and then fought ag"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Arduinus-of-Rimini.jpg"
 searchAliases:

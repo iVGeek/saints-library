@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Anastasie de Roquard"
 honorific: Blessed
-title: "Blessed Marie-Anastasie de Roquard"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

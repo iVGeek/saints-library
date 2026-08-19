@@ -1,7 +1,6 @@
 ---
 name: "Blessed Domenico Lentini"
 honorific: Blessed
-title: "Blessed Domenico Lentini"
 summary: "Youngest of five children in a poor but pious family. By age 14 he felt a call to the priesthood, studied at the seminary in Salerno, Italy and was ordained in the diocese of Tursi-Lagonegro, Italy in 1794. He was assigned to his hometown of Lauria, Italy and worked there the res"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blessed_Domenico_Lentini_-_Addolorata_-_Maratea_-_Italy_2015.JPG/960px-Blessed_Domenico_Lentini_-_Addolorata_-_Maratea_-_Italy_2015.JPG"
 birthYear: 1770

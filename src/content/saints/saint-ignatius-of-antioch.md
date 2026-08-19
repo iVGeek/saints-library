@@ -1,7 +1,6 @@
 ---
 name: "Saint Ignatius of Antioch"
 honorific: Saint
-title: "Saint Ignatius of Antioch"
 summary: "Convert from paganism to Christianity. Succeeded Saint Peter the Apostle as bishop of Antioch, Syria. Served during persecution of Domitian. During the persecution of Trajan, he was ordered taken to Rome to be killed by wild animals. On the way, a journey which took months, he wr"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/960px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg"
 searchAliases:

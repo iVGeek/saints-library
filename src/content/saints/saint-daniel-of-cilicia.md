@@ -1,7 +1,6 @@
 ---
 name: "Saint Daniel of Cilicia"
 honorific: Saint
-title: "Saint Daniel of Cilicia"
 summary: "Ministered to Christians who were condemned to work the mines of Cilicia in the persecutions of Maximus. This exposed Daniel's faith, and he was arrested, tortured and martryed by order of the governor Firmilian."
 deathYear: 309
 born: "Egyptian"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Cánovas Martínez"
 honorific: Blessed
-title: "Blessed José María Cánovas Martínez"
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936

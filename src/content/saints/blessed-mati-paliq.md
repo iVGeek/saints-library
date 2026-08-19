@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mati Paliq"
 honorific: Blessed
-title: "Blessed Mati Paliq"
 summary: "Though he grew up in a primarily Muslim area, Mati was raised in a pious Christian family; two of his brothers also became Franciscan priests. Mati joined the Friars Minor in Cortemaggiore, Italy at age 19, taking the name Luigi, and making his solemn profession on 26 April 1901."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mari-Paliq.jpeg"
 searchAliases:

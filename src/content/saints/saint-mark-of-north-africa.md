@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of North Africa"
 honorific: Saint
-title: "Saint Mark of North Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:

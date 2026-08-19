@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcian of Africa"
 honorific: Saint
-title: "Saint Marcian of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Marcianus"

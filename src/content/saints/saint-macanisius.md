@@ -1,7 +1,6 @@
 ---
 name: "Saint Macanisius"
 honorific: Saint
-title: "Saint Macanisius"
 summary: "Baptized as an infant by Saint Patrick. Spiritual student of Saint Olean. Pilgrim to Rome and the Holy Lands. Priest. Consecrated as abbot-bishop of Kells in Ireland by Saint Patrick. Friend of Saint Colmon of Dromore. Probable founder of the Kells monastery, which became the dio"
 searchAliases:
   - "Aengus McNisse"

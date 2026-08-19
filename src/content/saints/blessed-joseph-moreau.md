@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Moreau"
 honorific: Blessed
-title: "Blessed Joseph Moreau"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1763
 deathYear: 1794

@@ -1,7 +1,6 @@
 ---
 name: "Saint Abda"
 honorific: Saint
-title: "Saint Abda"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Abdas"

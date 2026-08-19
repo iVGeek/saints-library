@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jerzy Kaszyra"
 honorific: Blessed
-title: "Blessed Jerzy Kaszyra"
 summary: "Raised in an Orthodox family, George converted to Roman Catholicism in 1922 at age 18. He joined the Marians of the Immaculate Conception in 1924 in Druya, Belarus, and made his profession on 2 August 1929. He studied theology and philosophy in Rome, Italy, then at the seminary o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jerzy-Kaszyra.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gregorio Sánchez Sancho"
 honorific: Blessed
-title: "Blessed Gregorio Sánchez Sancho"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Sanchez-Sancho.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximianus of Ephesus"
 honorific: Saint
-title: "Saint Maximianus of Ephesus"
 summary: "One of a group of seven young Christian men who hid in a cave in hopes of avoiding the persecution of Decius in the year 250. Found and arrested, they were ordered by the pro-consul in Ephesus to renounce their faith; they refused, and were sentenced to die. Legend says that they"
 image: "http://catholicsaints.info/wp-content/uploads/Seven-Sleepers-of-the-Ephesos-by-Emmanuel-Tzanes.jpg"
 searchAliases:

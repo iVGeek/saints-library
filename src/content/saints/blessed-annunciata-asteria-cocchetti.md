@@ -1,7 +1,6 @@
 ---
 name: "Blessed Annunciata Asteria Cocchetti"
 honorific: Blessed
-title: "Blessed Annunciata Asteria Cocchetti"
 summary: "Orphaned at age seven, she was raised by her grandmother. At 17 she opened a school for poor girls in her home. Taught school at Rovato, Italy at 22, and then at Cemmo Valcamonica, Italy. Helped found the Sisters of Saint Dorothy of Cemmo, and served in the order for 40 years."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Annunciata-Asteria-Cocchetti-1.jpg"
 birthYear: 1800

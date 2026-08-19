@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mariano Alcalá Pérez"
 honorific: Blessed
-title: "Blessed Mariano Alcalá Pérez"
 summary: "Son of Thomas and Vincenza Alcalá Pérez. Joined the Mercedarians on 24 September 1881 at the convent of dell'Olivar, a house that spear-headed the expansion of the Order in the Aragon region of Spain; he make his solemn profession on 3 June 1886. He studied at the Gregorian Unive"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Alcalá-Pérez.jpg"
 birthYear: 1867

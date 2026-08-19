@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Silvestre Moya"
 honorific: Blessed
-title: "Blessed Antonio Silvestre Moya"
 summary: "Son of a policeman. Studied at the seminary of Valencia, Spain. Priest in the Archdiocese of Valencia, ordained in 1915. Parish priest in the Spanish cities of Calp, Quatretonda, Otos, La Font de la Figuera and Xátiva. When the persecutions of Spanish Civil War began in 1936, Fat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Silvestre-Moya.jpg"
 birthYear: 1892

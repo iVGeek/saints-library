@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mamerto Carchano y Carchano"
 honorific: Blessed
-title: "Blessed Mamerto Carchano y Carchano"
 summary: "Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936

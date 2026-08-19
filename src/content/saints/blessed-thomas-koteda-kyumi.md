@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Koteda Kyumi"
 honorific: Blessed
-title: "Blessed Thomas Koteda Kyumi"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. One of a group of eleven Christians martyred together for their faith during a period of official persecution in Japan."
 birthYear: 1576
 deathYear: 1619

@@ -1,7 +1,6 @@
 ---
 name: "Saint César de Bus"
 honorific: Venerable
-title: "Saint César de Bus"
 summary: "A middle child - the seventh of thirteen children, and raised as a pious child. Soldier at age 18, and fought in the war against the Huguenots. Joined the navy to fight in the siege of La Rochelle, but illness kept him from the fight. He lived for three years in Paris, France, de"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/70/De_Bus_C%C3%A9sar_%281544-1607%29.jpg"
 searchAliases:

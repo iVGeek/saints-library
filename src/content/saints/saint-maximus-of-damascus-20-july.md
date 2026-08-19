@@ -1,7 +1,6 @@
 ---
 name: "Saint Maximus of Damascus"
 honorific: Saint
-title: "Saint Maximus of Damascus"
 summary: "Martyr."
 born: "Syria"
 died: "Damascus, Syria, date unknown"

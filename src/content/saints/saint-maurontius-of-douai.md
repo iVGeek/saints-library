@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurontius of Douai"
 honorific: Saint
-title: "Saint Maurontius of Douai"
 summary: "Eldest son of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes; brother of Saint Clotsindis of Marchiennes, Saint Eusebia of Hamage, and Saint Adalsindis. Monk at Marchiennes, France. Founded a monastery at Breuil-sur-Lys near Douai, France."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Douai_-_Coll%C3%A9giale_Saint-Pierre_-_Saint_Maurand_%282%29.jpg/960px-Douai_-_Coll%C3%A9giale_Saint-Pierre_-_Saint_Maurand_%282%29.jpg"
 searchAliases:

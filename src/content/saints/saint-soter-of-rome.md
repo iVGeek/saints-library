@@ -1,7 +1,6 @@
 ---
 name: "Saint Soter of Rome"
 honorific: Saint
-title: "Saint Soter of Rome"
 summary: "Young woman martyred for refusing to sacrifice to idols. Related to Saint Ambrose of Milan who wrote about her."
 searchAliases:
   - "Sotere"

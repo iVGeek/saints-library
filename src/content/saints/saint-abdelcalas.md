@@ -1,7 +1,6 @@
 ---
 name: "Saint Abdelcalas"
 honorific: Saint
-title: "Saint Abdelcalas"
 summary: "Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II."
 searchAliases:
   - "Abdelchalas"

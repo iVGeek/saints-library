@@ -1,7 +1,6 @@
 ---
 name: "Saint Helen of Oehren"
 honorific: Saint
-title: "Saint Helen of Oehren"
 summary: "Benedictine nun and abbess of the convent of Oehren in Trier, Germany."
 searchAliases:
   - "Elia"

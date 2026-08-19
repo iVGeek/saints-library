@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorinus of Antwerp"
 honorific: Saint
-title: "Saint Victorinus of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

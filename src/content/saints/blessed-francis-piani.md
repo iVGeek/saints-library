@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Piani"
 honorific: Blessed
-title: "Blessed Francis Piani"
 summary: "Francis grew up in a poor farming community where he saw many people become enslaved to high-interest money lenders and pawn dealers. Franciscan friar. Known as a powerful preacher and a peacemaker between feuding people, families and clans; he said his secret to peace-making was"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Piani.jpg"
 searchAliases:

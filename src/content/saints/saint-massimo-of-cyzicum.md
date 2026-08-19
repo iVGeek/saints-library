@@ -1,7 +1,6 @@
 ---
 name: "Saint Massimo of Cyzicum"
 honorific: Saint
-title: "Saint Massimo of Cyzicum"
 summary: "Imperial Roman pagan prefect who witnessed the martyrdom of Saint Evilasius, and was so moved that he converted to Christianity and was immediately executed. Martyr."
 searchAliases:
   - "Massimino"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermengild"
 honorific: Saint
-title: "Saint Hermengild"
 summary: " Publicly renounced and Son of the Spanish Visigoth Arian king Levigild, and raised in Arianism. In 579 he married the Catholic princess Indgund, who, with Saint Leander, bishop of Seville, Spain, converted him back to orthodox Christianity. Immediately disinherited by his father."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermengild1.jpg"
 searchAliases:

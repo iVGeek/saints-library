@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Majadas Málaga"
 honorific: Blessed
-title: "Blessed Vicente Majadas Málaga"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

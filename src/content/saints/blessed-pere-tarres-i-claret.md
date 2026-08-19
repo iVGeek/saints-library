@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pere Tarrés i Claret"
 honorific: Blessed
-title: "Blessed Pere Tarrés i Claret"
 summary: "The son of Francesco and Carmen Tarres i Claret, he and his sisters Francesca and Maria, both of whom became Conceptionist nuns, were raised in a Christian home. Due to his father's work as a mechanic, the family moved regularly. He received Confirmation on 31 May 1910, and his f"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Pere_Tarr%C3%A9s_i_Claret_c1945.png"
 birthYear: 1905

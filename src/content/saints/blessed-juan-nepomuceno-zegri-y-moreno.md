@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Nepomuceno Zegrí y Moreno"
 honorific: Blessed
-title: "Blessed Juan Nepomuceno Zegrí y Moreno"
 summary: "Son of Antonio Zegr&iacute; Mart&iacute;n and Josefa Moreno Escudero. A pious child, he received a good religious education, and felt an early call to the priesthood. Studied at Saint Dionysius Seminary, Granada, Spain. Ordained at Granada on 2 June 1855. Parish priest at Hu&eacu"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Nepomuceno-Zegrí-y-Moreno-1.jpg"
 searchAliases:

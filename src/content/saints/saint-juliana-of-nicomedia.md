@@ -1,7 +1,6 @@
 ---
 name: "Saint Juliana of Nicomedia"
 honorific: Saint
-title: "Saint Juliana of Nicomedia"
 summary: "Daughter of a pagan named Africanus who promised the girl to a young noble named Evilase. Juliana put him off, first insisting that he become prefect of Nicomedia. When he became prefect, she insisted he become a Christian before they could marry, a condition he would never meet."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Juliana_of_Nicomedia.jpg"
 searchAliases:

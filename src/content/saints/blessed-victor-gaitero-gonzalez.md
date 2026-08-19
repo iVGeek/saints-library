@@ -1,7 +1,6 @@
 ---
 name: "Blessed Víctor Gaitero González"
 honorific: Blessed
-title: "Blessed Víctor Gaitero González"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

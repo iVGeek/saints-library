@@ -1,7 +1,6 @@
 ---
 name: "Blessed Irmtrud"
 honorific: Blessed
-title: "Blessed Irmtrud"
 summary: "13th-century Poor Clare nun. Correspondent with Saint Clare of Assisi. Founded Poor Clare monasteries in several Flemish cities, including in Brugge, Belgium."
 searchAliases:
   - "Irma"

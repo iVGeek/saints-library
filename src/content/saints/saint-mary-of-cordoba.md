@@ -1,7 +1,6 @@
 ---
 name: "Saint Mary of Cordoba"
 honorific: Saint
-title: "Saint Mary of Cordoba"
 summary: "Friend of Saint Flora, and ran away with her, briefly hiding in the home of Flora's sister. The sister, however, feared being accused of harboring Christians, and threw the two out. Betrayed to the Islamic authorities by Flora's brother, she was imprisoned and scourged for her fa"
 searchAliases:
   - "Maria"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gudelia"
 honorific: Saint
-title: "Saint Gudelia"
 summary: "Maiden martyred in the persecutions of Shapur II."
 deathYear: 340
 died: "c.340 at Persia"

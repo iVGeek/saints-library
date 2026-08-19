@@ -1,7 +1,6 @@
 ---
 name: "Saint Nerses Lambronazi"
 honorific: Saint
-title: "Saint Nerses Lambronazi"
 summary: "Nephew of Saint Nerses Glaietsi. Bishop. Archbishop of Tarsus. Helped reunify Armenia with the Church of Rome in 1198. Translated many important Church documents into Armenian including the Rule of Saint Benedict, and Saint Gregory's Dialogues."
 searchAliases:
   - "Nerses Lambronazzi"

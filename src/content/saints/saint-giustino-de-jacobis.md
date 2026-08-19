@@ -1,7 +1,6 @@
 ---
 name: "Saint Giustino de Jacobis"
 honorific: Venerable
-title: "Saint Giustino de Jacobis"
 summary: "Justin grew up a pious youth in the city of Naples, Italy and joined the Vincentians at age 18. Ordained on 12 June 1824 in the Congregation of the Mission. Noted for his preaching skills, especially among the rural poor. Helped found a Vincentian house at Monopoli, Italy. Superi"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/San_Justino_de_Jacobis.jpg"
 searchAliases:

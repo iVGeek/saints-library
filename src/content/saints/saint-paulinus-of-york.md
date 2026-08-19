@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulinus of York"
 honorific: Saint
-title: "Saint Paulinus of York"
 summary: "The Venerable Bede describes him as a “tall man with a slight stoop, who had black hair, a thin face and a narrow, aquiline nose, his presence being venerable and awe-inspiring”. Monk at the monastery of Saint Andrew, Rome, Italy. Missionary to the Anglo-Saxons in 601, sent by Po"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paulinus-of-York.jpg"
 birthYear: 584

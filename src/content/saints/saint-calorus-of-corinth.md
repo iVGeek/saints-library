@@ -1,7 +1,6 @@
 ---
 name: "Saint Calorus of Corinth"
 honorific: Saint
-title: "Saint Calorus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"

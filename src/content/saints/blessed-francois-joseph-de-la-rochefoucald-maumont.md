@@ -1,7 +1,6 @@
 ---
 name: "Blessed François-Joseph de la Rochefoucald-Maumont"
 honorific: Blessed
-title: "Blessed François-Joseph de la Rochefoucald-Maumont"
 summary: "Born to the French nobility. Priest. Bishop of Beauvais, France. Led his priests in resisting the schismatic oath of allegiance to the civil constitution of the French Revolution. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-François-Joseph-de-la-Rochefoucald-Maumont.jpg"
 birthYear: 1736

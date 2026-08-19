@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugene of Africa"
 honorific: Saint
-title: "Saint Eugene of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Eugenius"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed William Way"
 honorific: Blessed
-title: "Blessed William Way"
 summary: "Seminarian in Reims, France. Ordained in 1586. He returned to England to minister to covert Catholics, hiding under the name William Flowers. Imprisoned and executed for the crime of priesthood. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/William_Way_-_St_Agathas_Kingston.jpg/960px-William_Way_-_St_Agathas_Kingston.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Marie Adolphine Dierks"
 honorific: Venerable
-title: "Saint Marie Adolphine Dierks"
 summary: "One of six children in a very poor family. Her mother died when Anne was still quite young, and the children were raised by equally poor neighbors. Anne was known as a studious and prayerful child. She worked in a factory, and then as a domestic servant. She eventually joined the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marie-Adolphine-Dierks.gif"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Secundina of Rome"
 honorific: Saint
-title: "Saint Secundina of Rome"
 summary: "Young woman martyred in the persecutions of Decius. Her guards were converted to Christianity by her testimony of faith before the judges."
 deathYear: 250
 died: "flogged to death c.250 in Rome, Italy"

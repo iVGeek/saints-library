@@ -1,7 +1,6 @@
 ---
 name: "Saint John Plessington"
 honorific: Venerable
-title: "Saint John Plessington"
 summary: "Son of Robert Plessington, a royalist Catholic, and Alice Rawstone. His family was persecuted for both their religious and political beliefs. John was educated by Jesuits at Scarisbrick Hall, then at the Royal College of Saint Alban at Valladolid, Spain, and then Saint Omer's mon"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Saint-john-plessington.png"
 searchAliases:

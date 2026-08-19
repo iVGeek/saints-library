@@ -1,7 +1,6 @@
 ---
 name: "Saint Sillus of Africa"
 honorific: Saint
-title: "Saint Sillus of Africa"
 summary: "One of a group of 21 Christians martyred together in the persecutions of Decius."
 deathYear: 250
 born: "African"

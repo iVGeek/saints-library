@@ -1,7 +1,6 @@
 ---
 name: "Saint Balbina of Rome"
 honorific: Saint
-title: "Saint Balbina of Rome"
 summary: "Daughter of Saint Quirinus the Jailer. Baptised by Pope Saint Alexander I. Virgin recluse. Martyred with her father. Three ancient memorials to her are found in Rome."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint_Balbina.JPG/960px-Saint_Balbina.JPG"
 searchAliases:

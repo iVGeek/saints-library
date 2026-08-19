@@ -1,7 +1,6 @@
 ---
 name: "Saint Baptus of Magnesia"
 honorific: Saint
-title: "Saint Baptus of Magnesia"
 summary: "Eyewitness to executions of Christians who was so moved by their courage that he examined the faith and converted. Martyred with five companions during the persecutions of Emperor Septimius Severus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bapto.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Ruiz de Valdivia Pérez"
 honorific: Blessed
-title: "Blessed Pedro Ruiz de Valdivia Pérez"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbara Yi"
 honorific: Venerable
-title: "Saint Barbara Yi"
 summary: "14 year old girl in the apostolic vicariate of Korea. Imprisoned and left to die for her faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:

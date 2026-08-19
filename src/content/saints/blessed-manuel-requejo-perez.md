@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Requejo Pérez"
 honorific: Blessed
-title: "Blessed Manuel Requejo Pérez"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

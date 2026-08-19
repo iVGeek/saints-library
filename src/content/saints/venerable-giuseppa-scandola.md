@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giuseppa Scandola"
 honorific: Venerable
-title: "Venerable Giuseppa Scandola"
 summary: "Nun in the Comboni Missionary Sisters. Missionary in what is today the southern Sudan."
 searchAliases:
   - "Maria Teresa Scandola"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Crementius of Saragossa"
 honorific: Saint
-title: "Saint Crementius of Saragossa"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Saragossa, Spain"

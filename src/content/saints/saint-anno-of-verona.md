@@ -1,7 +1,6 @@
 ---
 name: "Saint Anno of Verona"
 honorific: Saint
-title: "Saint Anno of Verona"
 summary: "Brother of Saint Maria Consolatrice of Verona. Priest. Bishop of Verona, Italy. Connected with the translation of the relics of Saint Firmus and Saint Rusticus."
 searchAliases:
   - "Annon"

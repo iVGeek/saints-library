@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonia Mesina"
 honorific: Blessed
-title: "Blessed Antonia Mesina"
 summary: "Second of ten children born to a peasant family. She received only four years of school, quitting to take over housekeeping from her mother, Grazia, who was bed-ridden with a heart condition. Joined Catholic Action at age ten, becoming an active and lively member and recruiter. A"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/B._Antonia_Mesina.jpg"
 searchAliases:

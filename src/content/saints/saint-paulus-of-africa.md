@@ -1,7 +1,6 @@
 ---
 name: "Saint Paulus of Africa"
 honorific: Saint
-title: "Saint Paulus of Africa"
 summary: "Martyr."
 died: "in North Africa"
 region: "Africa"

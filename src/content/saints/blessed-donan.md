@@ -1,7 +1,6 @@
 ---
 name: "Blessed Donan"
 honorific: Blessed
-title: "Blessed Donan"
 summary: "Early 11th century monk and abbot in Scotland. Friend and advisor to King Duncan, who ruled from 1034 to 1040."
 searchAliases:
   - "Donano"

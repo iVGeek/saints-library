@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ralph Corby"
 honorific: Blessed
-title: "Blessed Ralph Corby"
 summary: "Raised in a pious family; all of the family, his parents included, eventually took religious vows. Educated at the College of Saint Omer in France, the seminary of Saint Gregory at Seville, Spain, and the Royal College of Saint Alban in Valladolid, Spain. Joined the Jesuits in 16"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ralph-Corby.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Scubilion Rousseau"
 honorific: Blessed
-title: "Blessed Scubilion Rousseau"
 summary: "A pious young man who served as a catechist. Entered the Christian Brothers' noviate in Paris, France on 24 December 1822, taking the name Scubilion Elementary school teacher for ten years in various locations in France. In 1833 he was assigned to teach and work with slaves on Re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Scubilion-Rousseau.jpg"
 searchAliases:

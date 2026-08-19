@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maddallena of the Conception"
 honorific: Blessed
-title: "Blessed Maddallena of the Conception"
 summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain. Had a great devotion to prayer for souls in Purgatory."
 searchAliases:
   - "Magdalene"

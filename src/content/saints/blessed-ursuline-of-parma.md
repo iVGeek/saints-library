@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ursuline of Parma"
 honorific: Blessed
-title: "Blessed Ursuline of Parma"
 summary: "Daughter of Peter and Veneri Bertolina. At age 11 she was healed from a serious illness through the intercession of Saint Peter Martyr. At age 15, after having received a vision, she made a pilgrimage to Avignon, France to plead with anti-Pope Clement VII (Robert of Geneva) to re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ursuline-of-Parma.jpg"
 searchAliases:

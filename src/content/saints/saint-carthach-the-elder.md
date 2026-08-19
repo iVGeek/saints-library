@@ -1,7 +1,6 @@
 ---
 name: "Saint Carthach the Elder"
 honorific: Saint
-title: "Saint Carthach the Elder"
 summary: "Descendant of a king. Bishop of Ossory, Ireland and Munster, Ireland. Spiritual teacher of Saint Carthage the Younger."
 searchAliases:
   - "Carthach Mc Erbthaide"

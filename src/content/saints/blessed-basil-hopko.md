@@ -1,7 +1,6 @@
 ---
 name: "Blessed Basil Hopko"
 honorific: Blessed
-title: "Blessed Basil Hopko"
 summary: "Son of Anna Petrenko and Basil Hopko, poor, landless peasants. His father died when the boy was just a year old, and when he was four his mother emigrated to the United States to look for work. Educated in Hungary, graduating with honors in 1923. Trained at the Eparchial Seminary"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vasil_Hopko_Osek_1967.jpg/960px-Vasil_Hopko_Osek_1967.jpg"
 birthYear: 1904

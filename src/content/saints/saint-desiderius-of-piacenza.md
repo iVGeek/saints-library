@@ -1,7 +1,6 @@
 ---
 name: "Saint Desiderius of Piacenza"
 honorific: Saint
-title: "Saint Desiderius of Piacenza"
 summary: "Martyr."
 searchAliases:
   - "Desiderio"

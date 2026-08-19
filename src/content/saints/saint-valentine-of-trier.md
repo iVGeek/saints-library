@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentine of Trier"
 honorific: Saint
-title: "Saint Valentine of Trier"
 summary: "Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Valentine of Treves"

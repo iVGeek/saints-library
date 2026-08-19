@@ -1,7 +1,6 @@
 ---
 name: "Saint Sarapion of Alexandria"
 honorific: Saint
-title: "Saint Sarapion of Alexandria"
 summary: "Brother of Saint Leontius of Alexandria. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Serapian"

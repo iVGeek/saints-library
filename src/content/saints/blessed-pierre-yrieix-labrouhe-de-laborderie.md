@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pierre-Yrieix Labrouhe de Laborderie"
 honorific: Blessed
-title: "Blessed Pierre-Yrieix Labrouhe de Laborderie"
 summary: "Priest in the diocese of Limoges, France. Canon of Auvergne, France. Martyred in the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg"
 searchAliases:

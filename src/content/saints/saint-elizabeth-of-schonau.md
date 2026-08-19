@@ -1,7 +1,6 @@
 ---
 name: "Saint Elizabeth of Schönau"
 honorific: Saint
-title: "Saint Elizabeth of Schönau"
 summary: "Born to the German nobility. Raised and educated in Schönau Benedictine abbey near Bingen, Germany from age 12. Elizabeth came to see the abbey as home, and took vows as a Benedictine nun in 1147. Friend of Saint Hildegard von Bingen. Abbess at Schonau from 1157 until her death."
 
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elizabeth-of-Schonau.jpg"

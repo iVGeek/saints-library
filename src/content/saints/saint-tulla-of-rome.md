@@ -1,7 +1,6 @@
 ---
 name: "Saint Tulla of Rome"
 honorific: Saint
-title: "Saint Tulla of Rome"
 summary: "One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived."
 region: "Italy"
 feastDay:

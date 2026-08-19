@@ -1,7 +1,6 @@
 ---
 name: "Saint Gregory of Utrecht"
 honorific: Saint
-title: "Saint Gregory of Utrecht"
 summary: "Son of Saint Wastrada, and uncle of Saint Alberic of Utrecht. Spiritual student and Benedictine monk under Saint Boniface whom he had met as a child, and who acted as a mentor. Abbot of Saint Martin's abbey, Utrecht, Netherlands, during which it became a centre for missionaries a"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Reliquienbueste_Gregor_von_Utrecht.jpeg"
 searchAliases:

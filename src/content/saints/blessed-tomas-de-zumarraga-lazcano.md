@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás de Zumárraga Lazcano"
 honorific: Blessed
-title: "Blessed Tomás de Zumárraga Lazcano"
 summary: "Dominican priest. Missionary to Japan. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-de-Zumárraga-Lazcano.jpg"
 searchAliases:

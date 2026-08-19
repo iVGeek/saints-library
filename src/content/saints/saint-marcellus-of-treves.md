@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellus of Treves"
 honorific: Saint
-title: "Saint Marcellus of Treves"
 summary: "Bishop."
 searchAliases:
   - "Marcellus of Tongres"

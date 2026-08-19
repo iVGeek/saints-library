@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Adams"
 honorific: Blessed
-title: "Blessed John Adams"
 summary: "Protestant minister. Described as being of average height with dark eyes and a dark beard. Convert to Catholicism. Studied at Rheims, France. Ordained in 1579. Returned to England in March 1581 to minister to covert Catholics. He worked in Winchester and Hampshire, working primar"
 birthYear: 1545
 born: "c.1545 in England"

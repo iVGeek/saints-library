@@ -1,7 +1,6 @@
 ---
 name: "Saint Callista of Syracuse"
 honorific: Saint
-title: "Saint Callista of Syracuse"
 summary: "Martyr."
 searchAliases:
   - "Callistus"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alfredo Cremonesi"
 honorific: Blessed
-title: "Blessed Alfredo Cremonesi"
 summary: "The oldest of seven children born to the grocer Enrico Cremonesi and Maria Rosa Scartabellati; he was baptized at the age of one day. Alfredo was a sickly boy, and his health basically collapsed at one point; he attributed his recovery to the intercession of Saint Thérèse of Lisi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Cremonesi.jpg"
 birthYear: 1902

@@ -1,7 +1,6 @@
 ---
 name: "Saint Paschasius Radbertus"
 honorific: Saint
-title: "Saint Paschasius Radbertus"
 summary: "A foundling whose background is completely unknown. Raised by monks after being found by nuns on the steps of Notre Dame of Soissons. Unruly in his youth, even with the brothers. Benedictine monk under Saint Adalard of Corbie. Deacon. Teacher. Moved to Corbie Abbey in 822, and he"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Abbatiale_Saint-Pierre_de_Corbie%2C_int%C3%A9rieur%2C_Paschase_Radbert_3.jpg/960px-Abbatiale_Saint-Pierre_de_Corbie%2C_int%C3%A9rieur%2C_Paschase_Radbert_3.jpg"
 searchAliases:

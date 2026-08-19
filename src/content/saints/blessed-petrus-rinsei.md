@@ -1,7 +1,6 @@
 ---
 name: "Blessed Petrus Rinsei"
 honorific: Blessed
-title: "Blessed Petrus Rinsei"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 searchAliases:

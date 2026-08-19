@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Pappacarbone"
 honorific: Saint
-title: "Saint Peter of Pappacarbone"
 summary: "Born to the Salerno nobility; relative of Saint Alferius of La Cava. Benedictine monk at Cava, Italy while still a young man; his abbot was Saint Leo of La Cava. Lived for a while as a hermit, and then was assigned to Cluny Abbey from 1062 to 1068. Bishop of Policastro, Italy in"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/San_Pietro_Pappacarbone.jpg"
 searchAliases:

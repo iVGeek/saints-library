@@ -1,7 +1,6 @@
 ---
 name: "Saint Stacteus"
 honorific: Saint
-title: "Saint Stacteus"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"

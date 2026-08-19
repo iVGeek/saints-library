@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis Leroy"
 honorific: Blessed
-title: "Blessed Louis Leroy"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."
 birthYear: 1923
 deathYear: 1961

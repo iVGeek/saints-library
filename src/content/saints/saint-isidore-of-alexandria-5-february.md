@@ -1,7 +1,6 @@
 ---
 name: "Saint Isidore of Alexandria"
 honorific: Saint
-title: "Saint Isidore of Alexandria"
 summary: "Martyr. No other information has survived."
 born: "Egyptian"
 died: "Alexandria, Egypt"

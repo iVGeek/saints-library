@@ -1,7 +1,6 @@
 ---
 name: "Saint Libentius of Hamburg"
 honorific: Saint
-title: "Saint Libentius of Hamburg"
 summary: "Benedictine monk. Exiled to Hamburg, Germany with Pope Benedict V. Developed a ministery to the poor and sick of Bremen, Germany. Chamberlain to Archbishop Adaldago of Hamburg. Archbishop of Hamburg in 988."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Libentius-of-Hamburg.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Justo Fernández González"
 honorific: Blessed
-title: "Blessed Justo Fernández González"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

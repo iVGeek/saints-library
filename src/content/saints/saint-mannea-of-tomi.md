@@ -1,7 +1,6 @@
 ---
 name: "Saint Mannea of Tomi"
 honorific: Saint
-title: "Saint Mannea of Tomi"
 summary: "Married to Saint Marcellinus; mother of Saint John of Tomi. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian."
 died: "tied to a stake and burned alive; he emerged unharmed"
 region: "Italy"

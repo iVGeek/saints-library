@@ -1,7 +1,6 @@
 ---
 name: "Saint Teresa Kim"
 honorific: Venerable
-title: "Saint Teresa Kim"
 summary: "Married lay women in the apostolic vicariate of Korea. Widow. Imprisoned, beaten, tortured and executed for being a Christian. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

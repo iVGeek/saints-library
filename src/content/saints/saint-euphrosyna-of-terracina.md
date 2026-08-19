@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphrosyna of Terracina"
 honorific: Saint
-title: "Saint Euphrosyna of Terracina"
 summary: "Foster sister of Saint Flavia Domitilla and Saint Theodora of Terracina. Exiled and then martyred with her."
 died: "2nd-century Terracina, Italy"
 deathPlace: "Italy"

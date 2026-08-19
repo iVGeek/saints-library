@@ -1,7 +1,6 @@
 ---
 name: "Saint Othmar of Saint Gall"
 honorific: Saint
-title: "Saint Othmar of Saint Gall"
 summary: "Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was buried. Appointed abbot at Saint Gall, Switzerla"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Othmar-of-Saint-Gall.jpg"
 searchAliases:

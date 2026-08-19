@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elisabetta Sanna"
 honorific: Blessed
-title: "Blessed Elisabetta Sanna"
 summary: "Married lay women in the dioceses of Rome and Sassari, Italy. Widow. Member of the Secular Franciscan Order, and of the Union of the Catholic Apostolate."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Elisabetta_Sanna_Porcu%2C_sin_marco_%28cropped%29.JPG"
 birthYear: 1788

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Peter Wright"
 honorific: Blessed
-title: "Blessed Peter Wright"
 summary: "Born to a Protestant family, Peter converted to Catholicism. Worked in a country lawyer's office for ten years. He enlisted in the army, was assigned to the Netherlands, but deserted after a month. Studied in at the Jesuit seminary in Ghent, Belgium, and in Rome, Italy. Priest. J"
 deathYear: 1651
 died: "hanged on 19 May (Whit Monday) 1651 at Tyburn, London, England"

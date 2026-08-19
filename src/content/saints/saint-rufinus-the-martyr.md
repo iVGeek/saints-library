@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufinus the Martyr"
 honorific: Saint
-title: "Saint Rufinus the Martyr"
 summary: "One of a group of 13 martyrs in North Africa."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Alonso Ortega"
 honorific: Blessed
-title: "Blessed Pedro Alonso Ortega"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Marino"

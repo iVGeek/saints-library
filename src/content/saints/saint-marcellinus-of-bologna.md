@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Bologna"
 honorific: Saint
-title: "Saint Marcellinus of Bologna"
 summary: "Martyr, date and location unknown."
 died: "relics enshrined in churches in Bologna and Rome in Italy"
 region: "Italy"

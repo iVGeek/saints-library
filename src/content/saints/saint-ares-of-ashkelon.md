@@ -1,7 +1,6 @@
 ---
 name: "Saint Ares of Ashkelon"
 honorific: Saint
-title: "Saint Ares of Ashkelon"
 deathYear: 308
 died: "burned at the stake at the gates of Ashkelon c.308"
 region: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Modest Godo Buscato"
 honorific: Blessed
-title: "Blessed Modest Godo Buscato"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Anselm Fèlix"

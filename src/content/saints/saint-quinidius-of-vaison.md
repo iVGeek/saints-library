@@ -1,7 +1,6 @@
 ---
 name: "Saint Quinidius of Vaison"
 honorific: Saint
-title: "Saint Quinidius of Vaison"
 summary: "Known in his youth as an excellent student. Studied theology at Lerins Abbey. Travelling preacher through the areas of Avignon, Brignoles, Besse, Gonfaron in France, converting many. Hermit in Aix-en-Provence, France. Arch-deacon and then bishop of Vaison, France in 570; he spent"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Quinidius-of-Vaison.jpg"
 searchAliases:

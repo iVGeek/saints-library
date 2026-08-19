@@ -1,7 +1,6 @@
 ---
 name: "Saint Philip Benizi"
 honorific: Saint
-title: "Saint Philip Benizi"
 summary: "Born to the Italian nobility. Brilliant student. Studied medicine at Paris, France, and Padua, Italy, receiving his doctorates in medicine and philosophy by age 19. Practiced medicine for about a year, but following a vision of the Virgin Mary, he quit to join the Servites as a l"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Benizi-1.jpg"
 searchAliases:

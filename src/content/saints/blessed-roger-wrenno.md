@@ -1,7 +1,6 @@
 ---
 name: "Blessed Roger Wrenno"
 honorific: Blessed
-title: "Blessed Roger Wrenno"
 summary: "Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."
 searchAliases:
   - "Ruggero"

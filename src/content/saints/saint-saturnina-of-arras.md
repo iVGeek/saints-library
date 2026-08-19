@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturnina of Arras"
 honorific: Saint
-title: "Saint Saturnina of Arras"
 summary: "Virgin-martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg"
 searchAliases:

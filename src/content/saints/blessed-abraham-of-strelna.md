@@ -1,7 +1,6 @@
 ---
 name: "Blessed Abraham of Strelna"
 honorific: Blessed
-title: "Blessed Abraham of Strelna"
 summary: "Like his three brothers, he became a Premonstratensian monk at the monastery in Hradisko, Moravia (in modern Slovakia). He withdrew from the monastery to live for 30 years as a hermit, but was eventually ordered back to the monastery in 1229 and was soon after elected abbot. He a"
 deathYear: 1232
 born: "late 11th-century in Strelna, Moravia (modern Czech Republic)"

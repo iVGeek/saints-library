@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elizabeth Salviati"
 honorific: Blessed
-title: "Blessed Elizabeth Salviati"
 summary: "Camaldolese nun. Abbess at the convent of San Giovanni Evangelista di Boldrone in Florence, Italy."
 deathYear: 1519
 born: "Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Agostino Chieppi"
 honorific: Venerable
-title: "Venerable Agostino Chieppi"
 summary: "Priest in the diocese of Parma, Italy. Founder of the Congregation of the Little Daughters of the Sacred Hearts of Jesus and Mary. Accepted Blessed Eugenia Picco into the Congregation, and served as her spiritual director."
 image: "http://catholicsaints.info/wp-content/uploads/agostino-chieppi.jpg"
 birthYear: 1830

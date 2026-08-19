@@ -1,7 +1,6 @@
 ---
 name: "Saint Ritbert of Varennes"
 honorific: Saint
-title: "Saint Ritbert of Varennes"
 summary: "Monk and then abbot of a monastery in Varennes, France."
 deathYear: 690
 died: "c.690"

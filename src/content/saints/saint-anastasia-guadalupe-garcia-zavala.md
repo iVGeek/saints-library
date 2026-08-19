@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasia Guadalupe García Zavala"
 honorific: Venerable
-title: "Saint Anastasia Guadalupe García Zavala"
 summary: "Daughter of Fortino García and Refugio Zavala de García; her father ran a religious goods store in front of the Basilica of Our Lady of Zapopan, and Maria grew up with a devotion to Our Lady. As a young woman she was engaged to marry but gave in to a call to religious life; with"
 image: "http://catholicsaints.info/wp-content/uploads/Maria-Guadalupe-Garcia-Zavala.jpg"
 searchAliases:

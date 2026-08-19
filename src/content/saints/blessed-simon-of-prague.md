@@ -1,7 +1,6 @@
 ---
 name: "Blessed Simon of Prague"
 honorific: Blessed
-title: "Blessed Simon of Prague"
 summary: "Franciscan Friar Minor priest. Served as alms collector. One of the Martyrs of Prague, killed by a Lutheran mob. At the time of the attack, Simon was in hospital recovering from a stab wound received in the street while collecting alms."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-simon-of-prague.jpg"
 birthYear: 1581

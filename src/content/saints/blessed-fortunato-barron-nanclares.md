@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fortunato Barrón Nanclares"
 honorific: Blessed
-title: "Blessed Fortunato Barrón Nanclares"
 summary: "Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Gonzalo"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Arnaldo of Lyon"
 honorific: Blessed
-title: "Blessed Arnaldo of Lyon"
 summary: "Some records list him as a martyred bishop of Lyon, France, but the records of bishops in Lyon itself are very thorough and do not mention him."
 deathYear: 1128
 died: "1128"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bonifacio of Siena"
 honorific: Blessed
-title: "Blessed Bonifacio of Siena"
 summary: "Franciscan friar."
 searchAliases:
   - "Bonafino"

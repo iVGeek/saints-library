@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giusto Santgelp"
 honorific: Blessed
-title: "Blessed Giusto Santgelp"
 summary: "Born to the nobility. Secular Mercedarian knight. Ransomed 200 Christian slaves from the Saracens in Muslim occupied Granada, Spain in 1284."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giusto-Santgelp.jpg"
 born: "France"

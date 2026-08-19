@@ -1,7 +1,6 @@
 ---
 name: "Saint Leopold III"
 honorific: Saint
-title: "Saint Leopold III"
 summary: "Grandson of Emperor Henry III. Grandfather of Frederick Barbarossa. Educated by bishop Altman of Passau, Germany. At age 23 he succeeded his father as margrave (military governor) of Austria. Married to Agnes, widowed daughter of Emperor Henry IV. She brought two children into th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leopold-III-of-Austria.jpg"
 searchAliases:

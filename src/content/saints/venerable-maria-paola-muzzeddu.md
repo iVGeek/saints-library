@@ -1,7 +1,6 @@
 ---
 name: "Venerable Maria Paola Muzzeddu"
 honorific: Venerable
-title: "Venerable Maria Paola Muzzeddu"
 summary: "Raised in a farm family and educated primarily at home by her mother who insured she was trained in domestic and needle work. Maria was always drawn to religious life, and when she was old enough to live on her own, she and some like-minded women began living as nuns. On 8 Decemb"
 image: "http://catholicsaints.info/wp-content/uploads/img-Mother-Maria-Paola-Muzzeddu.jpg"
 birthYear: 1913

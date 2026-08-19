@@ -2,7 +2,6 @@
 name: "Blessed Perrine Besson"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Perrine_Valli_%285914965253%29.jpg/960px-Perrine_Valli_%285914965253%29.jpg"
 honorific: Blessed
-title: "Blessed Perrine Besson"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1742
 deathYear: 1794

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Theresia Ledóchowska"
 honorific: Blessed
-title: "Blessed Maria Theresia Ledóchowska"
 summary: "Born to the Austrian noblity, the daughter of Count Anton Ledóchowski and Josephine Salis-Zizers, known as extremely religious people. When Maria's father died of smallpox when she was 22, she turned to God for answers and began the spiritual move that would define the rest of he"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Theresia-Ledochowska.jpg"
 birthYear: 1863

@@ -1,7 +1,6 @@
 ---
 name: "Saint Andronicus of Pannonia"
 honorific: Saint
-title: "Saint Andronicus of Pannonia"
 summary: "Early Christian, relative, travelling companion and fellow prisoner of Saint Paul the Apostle mentioned in the New Testament Letter to the Romans."
 searchAliases:
   - "Andronico"

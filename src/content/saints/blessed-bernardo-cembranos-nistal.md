@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardo Cembranos Nistal"
 honorific: Blessed
-title: "Blessed Bernardo Cembranos Nistal"
 summary: "Feeling an early call to religious life, Bernardo joined the Capuchins on 20 May 1920, aged 17, taking the name Eustaquio de Villaquite; he made his profession as a lay brother on 6 May 1921. When the Spanish Civil War broke out in 1936, Bernardo was serving as a cook in the Capu"
 searchAliases:
   - "Eustaquio of Villaquite"

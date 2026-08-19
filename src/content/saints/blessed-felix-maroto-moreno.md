@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix Maroto Moreno"
 honorific: Blessed
-title: "Blessed Félix Maroto Moreno"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

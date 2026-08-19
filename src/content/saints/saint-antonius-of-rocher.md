@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius of Rocher"
 honorific: Saint
-title: "Saint Antonius of Rocher"
 summary: "Sixth century Bendictine monk, and a disciple of Saint Benedictine himself. Sent to France by Saint Benedict to establish the Order there. Founded the Monastery of Saint-Julien in Tours, France, and served as its first abbot. Feeling a need for greater solitude, Antonius retired"
 region: "France"
 feastDay:

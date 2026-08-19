@@ -1,7 +1,6 @@
 ---
 name: "Saint Ioachim Hao"
 honorific: Venerable
-title: "Saint Ioachim Hao"
 summary: "Raised in a pagan family, he worked in cotton for a while, and then as a blacksmith. Convert some time after 1802. Layman catechist in the apostolic vicariate of Guizhou, China. Married; widower. He lived an quietly, giving what he could to the poor, fasting, and having services"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ioachim-Hao.jpg"
 searchAliases:

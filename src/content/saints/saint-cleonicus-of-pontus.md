@@ -1,7 +1,6 @@
 ---
 name: "Saint Cleonicus of Pontus"
 honorific: Saint
-title: "Saint Cleonicus of Pontus"
 summary: "May have been a slave or soldier. One of a large groups martyred in the persecutions of Emperor Galerius. No other information has survived."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cleonicus-of-Pontus.jpg"
 searchAliases:

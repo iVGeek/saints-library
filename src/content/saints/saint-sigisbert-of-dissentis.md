@@ -1,7 +1,6 @@
 ---
 name: "Saint Sigisbert of Dissentis"
 honorific: Saint
-title: "Saint Sigisbert of Dissentis"
 summary: "Founded Dissentis Abbey in Switzerland. Friend of Saint Placid of Dissentis."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sigisbert-of-Disentis.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Enrico Medi"
 honorific: Venerable
-title: "Venerable Enrico Medi"
 summary: "The son of Arturo Medi, a physician, and Maria Luisa Mei. When Enrico was about 3 years old, his family moved to Belvedere Ostrense, Italy, and then to Rome, Italy when he was about nine. While in high school and college, he co-founded the Student Missionary League, and served as"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrico-Medi.jpg"
 birthYear: 1911

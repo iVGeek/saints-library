@@ -1,7 +1,6 @@
 ---
 name: "Saint Getulius of Tivoli"
 honorific: Saint
-title: "Saint Getulius of Tivoli"
 summary: "Husband of Saint Symphorosa of Tivoli. Roman officer in the armies of Emperors Trajan and Hadrian. Public convert to Christianity with his brother Saint Amantius. Getulius resigned his commission, and retired to the country of the Sabines. Emperor Hadrian sent the guards Caereali"
 searchAliases:
   - "Getulio"

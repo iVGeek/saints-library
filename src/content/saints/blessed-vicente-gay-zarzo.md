@@ -1,7 +1,6 @@
 ---
 name: "Blessed Vicente Gay Zarzo"
 honorific: Blessed
-title: "Blessed Vicente Gay Zarzo"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Gay-Zarzo.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Blessed René-Nicolas Poret"
 honorific: Blessed
-title: "Blessed René-Nicolas Poret"
 summary: "Priest in the diocese of Sées, France. One of the Martyrs of September."
 birthYear: 1732
 deathYear: 1792

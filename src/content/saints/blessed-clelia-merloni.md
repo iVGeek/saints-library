@@ -1,7 +1,6 @@
 ---
 name: "Blessed Clelia Merloni"
 honorific: Blessed
-title: "Blessed Clelia Merloni"
 summary: "The daughter of Gioacchino Merloni, a wealthy and influential industrialist, and Teresa Brandinelli; Clelia was baptized in the diocesan cathedral of Santa Croce in Forli, Italy when she was only a few hours old. Her mother died in 1864 when Clelia was only 3 years old; her mater"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Clelia_Merloni.jpg"
 birthYear: 1861

@@ -1,7 +1,6 @@
 ---
 name: "Saint Ramirus of Léon"
 honorific: Saint
-title: "Saint Ramirus of Léon"
 summary: "Monk and then prior of the Saint Claudius Abbey in Léon, Spain. He and all his brother monks were martyred by Arian Visigoths."
 region: "Spain"
 feastDay:

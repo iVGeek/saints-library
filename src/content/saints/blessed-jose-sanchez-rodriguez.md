@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Sánchez Rodríguez"
 honorific: Blessed
-title: "Blessed José Sánchez Rodríguez"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ángel María"

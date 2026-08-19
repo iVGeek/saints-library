@@ -1,7 +1,6 @@
 ---
 name: "Saint Dunchaid O'Braoin"
 honorific: Saint
-title: "Saint Dunchaid O'Braoin"
 summary: "Hermit. Abbot on Clanmocnoise, near Westmeath, Ireland c.969. In his last years he retired from abbacy to resume the life of a hermit at Armagh, Ireland."
 deathYear: 988
 born: "in Westmeath, Ireland"

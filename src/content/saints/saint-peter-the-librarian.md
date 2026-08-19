@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter the Librarian"
 honorific: Saint
-title: "Saint Peter the Librarian"
 summary: "Martyr."
 searchAliases:
   - "Peter Palatine"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Fortunatus of Pannonia"
 honorific: Saint
-title: "Saint Fortunatus of Pannonia"
 summary: "Fourth century martyr. No other information has survived."
 feastDay:
   month: 7

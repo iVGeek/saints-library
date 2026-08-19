@@ -1,7 +1,6 @@
 ---
 name: "Saint Columba of Terryglass"
 honorific: Saint
-title: "Saint Columba of Terryglass"
 summary: "Son of Crinthainn. Disciple of Saint Finnian of Clonard; administered Last Rites to Saint Finnian on his death-bed. Spiritual director of Saint Caemban, Saint Fintan, and Saint Mocumin. Founded the monastery of Tirdaglas (Terryglass) in 548, and served as its abbot. Visited Tours"
 image: "http://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg"
 searchAliases:

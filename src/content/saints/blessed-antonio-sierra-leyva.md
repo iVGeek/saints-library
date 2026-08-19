@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antonio Sierra Leyva"
 honorific: Blessed
-title: "Blessed Antonio Sierra Leyva"
 summary: "Member of the Servants of the Divine Child Mary. Priest. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936

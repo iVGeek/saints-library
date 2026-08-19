@@ -1,7 +1,6 @@
 ---
 name: "Blessed Margherita of Verona"
 honorific: Blessed
-title: "Blessed Margherita of Verona"
 summary: "As a small girl she was noted for her devotion to Mary, and would make little shrines devoted to her. She grew to live as a pious tertiary in penance and prayer, working as a domestic servant, eating just enough to survive, and giving everything else to people she considered poor"
 searchAliases:
   - "Margarita"

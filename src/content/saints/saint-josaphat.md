@@ -1,7 +1,6 @@
 ---
 name: "Saint Josaphat"
 honorific: Saint
-title: "Saint Josaphat"
 summary: " Many people in India were converted by Thomas the Apostle. Astrologers foretold that the son of King Abenner would one day become a Chri With Saint Barlaam, one of the protagonists in a Christianized retelling of the story of Siddhartha Buddha that was popular in the Middle Ages."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Barlaam-and-Saint-Josaphat.jpg"
 searchAliases:

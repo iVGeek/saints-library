@@ -1,7 +1,6 @@
 ---
 name: "Saint Largo of Rome"
 honorific: Saint
-title: "Saint Largo of Rome"
 summary: "Martyr."
 died: "at the 7 mile marker, on the Via Ostia, Rome, Italy"
 deathPlace: "on the Via Ostia, Rome, Italy"

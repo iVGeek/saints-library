@@ -1,7 +1,6 @@
 ---
 name: "Saint Cassian of Saint Saba"
 honorific: Saint
-title: "Saint Cassian of Saint Saba"
 summary: "Educated at the monastery of Saint Saba where he became a monk and then abbot."
 searchAliases:
   - "Cassiano"

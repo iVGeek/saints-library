@@ -1,7 +1,6 @@
 ---
 name: "Blessed John Duns Scotus"
 honorific: Blessed
-title: "Blessed John Duns Scotus"
 summary: "Son of a wealthy farmer. Friar Minor at Dumfries where his uncle Elias Duns was superior. Studied at Oxford and Paris. Ordained 17 March 1291 at Saint Andrew's Church, Northampton at age 25. Lectured at Oxford and Cambridge from 1297 to 1301 when he returned to Paris to teach and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Duns-Scotus-1.jpg"
 searchAliases:

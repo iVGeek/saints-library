@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joan Tomás Gibert"
 honorific: Blessed
-title: "Blessed Joan Tomás Gibert"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

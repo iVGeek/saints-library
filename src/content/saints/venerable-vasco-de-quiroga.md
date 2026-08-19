@@ -1,7 +1,6 @@
 ---
 name: "Venerable Vasco de Quiroga"
 honorific: Venerable
-title: "Venerable Vasco de Quiroga"
 summary: "Quiroga studied for the priesthood, canon law and civil law, at the University of Valladolid, Spain and the University of Salamanca, Spain. Worked at the chancery of the diocese of Badajoz, Spain. Chosen as a judge for the royal court in New Spain, arriving in Mexico City in 1531"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vasco_de_Quiroga.jpg"
 searchAliases:

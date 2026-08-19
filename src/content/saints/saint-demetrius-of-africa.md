@@ -1,7 +1,6 @@
 ---
 name: "Saint Demetrius of Africa"
 honorific: Saint
-title: "Saint Demetrius of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:

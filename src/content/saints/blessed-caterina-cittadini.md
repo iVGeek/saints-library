@@ -1,7 +1,6 @@
 ---
 name: "Blessed Caterina Cittadini"
 honorific: Blessed
-title: "Blessed Caterina Cittadini"
 summary: "Daughter of Giovanni Battista and Magherita Lanzani. Her mother died when Caterina was seven, and her father abandoned the girl and her younger sister Giuditta. They were accepted and grew up at the orphanage of the Conventino of Bergamo. There she developed a strong faith, a big"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Cittadini.jpg"
 searchAliases:

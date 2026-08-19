@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paul Favre-Miville"
 honorific: Blessed
-title: "Blessed Paul Favre-Miville"
 summary: "Paul worked as a plumber, then joined the army and served as a paratrooper officer in Algeria. In his 40's, Paul followed a call to religious life and joined the Trappists in 1984. He moved to the Atlas Abbey of Tibhirine near Médéa, Algeria in 1989 and set up an irrigation syste"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Favre-Miville.jpg"
 searchAliases:

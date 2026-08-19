@@ -1,7 +1,6 @@
 ---
 name: "Saint Marina of Omura"
 honorific: Venerable
-title: "Saint Marina of Omura"
 summary: "Dominican lay tertiary in the archdiocese of Nagasaki, Japan. Martyred in the persecutions of Tokugawa Yemitsu."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Marina-of-Omura.jpg"
 deathYear: 1634

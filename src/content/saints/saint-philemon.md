@@ -1,7 +1,6 @@
 ---
 name: "Saint Philemon"
 honorific: Saint
-title: "Saint Philemon"
 summary: "First century Christian convert at Colossae, Phrygia, brought to the faith by Saint Paul the Apostle. Married to Saint Apphia. Subject of Paul's canonical Epistle to Philemon in which he asks Philemon to accept back the runaway slave Saint Onesimus, receiving him as a brother Chr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philemon.jpg"
 died: "stoned to death in the 1st century at Colossae, Phrygia"

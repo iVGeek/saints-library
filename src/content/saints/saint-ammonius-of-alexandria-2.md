@@ -1,7 +1,6 @@
 ---
 name: "Saint Ammonius of Alexandria"
 honorific: Saint
-title: "Saint Ammonius of Alexandria"
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 deathYear: 311
 born: "Egyptian"

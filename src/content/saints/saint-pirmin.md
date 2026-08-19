@@ -1,7 +1,6 @@
 ---
 name: "Saint Pirmin"
 honorific: Saint
-title: "Saint Pirmin"
 summary: "Possibly of Visigoth ancestry. Monk, following a mixed rule with strong influences from Irish monasticism. When the Saracens invaded Spain, he fled to the Rhineland (in modern Germany) where established or restored several abbeys. He rebuilt Dissentis Abbey after its destruction."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hornbacher_Sakramentar_fol._8v.jpg/960px-Hornbacher_Sakramentar_fol._8v.jpg"
 searchAliases:

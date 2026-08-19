@@ -1,7 +1,6 @@
 ---
 name: "Blessed Baltasar Mariano Muñoz Martínez"
 honorific: Blessed
-title: "Blessed Baltasar Mariano Muñoz Martínez"
 summary: "Franciscan Friar Minor. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Buenaventura"

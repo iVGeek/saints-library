@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ferran Llovera Pulgsech"
 honorific: Blessed
-title: "Blessed Ferran Llovera Pulgsech"
 summary: "Carmelites of the Ancient Observance  priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Ferran Maria"

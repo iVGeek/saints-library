@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquilinus of Noyon"
 honorific: Saint
-title: "Saint Aquilinus of Noyon"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Noyon, Switzerland"

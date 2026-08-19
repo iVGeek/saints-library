@@ -1,7 +1,6 @@
 ---
 name: "Saint Severa of Rome"
 honorific: Saint
-title: "Saint Severa of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

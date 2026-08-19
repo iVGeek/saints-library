@@ -1,7 +1,6 @@
 ---
 name: "Saint Luglianus of Lillers"
 honorific: Saint
-title: "Saint Luglianus of Lillers"
 summary: "Brother of Saint Luglius. A lifelong layman, and possible hermit, he is often depicted as a king due to some old legends indicating the brothers were members of the royal family. In 696 the brothers joined a party making a pilgrimage to the Holy Land. When their ship got stranded"
 searchAliases:
   - "Luglianus of Ferfay"

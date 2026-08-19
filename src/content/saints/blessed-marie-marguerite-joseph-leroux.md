@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marie-Marguerite-Joseph Leroux"
 honorific: Blessed
-title: "Blessed Marie-Marguerite-Joseph Leroux"
 summary: "Ursuline nun. One of a group of religious sisters murdered together in the anti-Christian excesses of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes.jpg"
 searchAliases:

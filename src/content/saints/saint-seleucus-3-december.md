@@ -1,7 +1,6 @@
 ---
 name: "Saint Seleucus"
 honorific: Saint
-title: "Saint Seleucus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12

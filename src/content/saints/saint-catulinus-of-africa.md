@@ -1,7 +1,6 @@
 ---
 name: "Saint Catulinus of Africa"
 honorific: Saint
-title: "Saint Catulinus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Catalus of Africa"

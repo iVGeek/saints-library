@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ferran Castán Messeguer"
 honorific: Blessed
-title: "Blessed Ferran Castán Messeguer"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

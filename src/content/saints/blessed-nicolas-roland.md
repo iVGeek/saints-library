@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolas Roland"
 honorific: Blessed
-title: "Blessed Nicolas Roland"
 summary: "Raised in a pious family. Educated by Jesuits. Canon of Rheims, France while still a seminarian. Priest. Noted preacher. Assigned as parish priest in Rouen, France. Returned to Rheims with the plan to start schools for poor girls; he took a run-down orphanage and turned it into a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nicolas_Roland.jpg/960px-Nicolas_Roland.jpg"
 birthYear: 1642

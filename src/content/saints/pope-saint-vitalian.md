@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint Vitalian"
 honorific: Saint
-title: "Pope Saint Vitalian"
 summary: "Son of Anastasius; nothing else is known of Vitalian before his election to the papacy. Chosen 76th pope in 657. His pontificate was marked by constant conflict with the eastern patriarchs and leaders over their support of Monothelite heresy. Helped settle the conflict between En"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Bulle_vitaliani_16976.jpg"
 searchAliases:

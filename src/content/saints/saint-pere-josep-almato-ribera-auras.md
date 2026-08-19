@@ -1,7 +1,6 @@
 ---
 name: "Saint Pere Josep Almató Ribera Auras"
 honorific: Venerable
-title: "Saint Pere Josep Almató Ribera Auras"
 summary: "Dominican priest. Martyred in the persecutions of emperor Tu-Duc."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pere-Josep-Almató-Ribera-Auras.jpg"
 searchAliases:

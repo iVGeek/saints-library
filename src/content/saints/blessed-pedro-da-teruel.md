@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro da Teruel"
 honorific: Blessed
-title: "Blessed Pedro da Teruel"
 summary: "Mercedarian friar. Ransomed at least 180 Christians enslaved by Muslims in north Africa."
 region: "Italy"
 feastDay:

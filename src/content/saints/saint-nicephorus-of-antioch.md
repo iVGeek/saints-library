@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicephorus of Antioch"
 honorific: Saint
-title: "Saint Nicephorus of Antioch"
 summary: "Martyred in the persecutions of Valerian."
 searchAliases:
   - "Niceforus"

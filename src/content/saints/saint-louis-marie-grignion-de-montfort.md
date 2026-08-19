@@ -1,7 +1,6 @@
 ---
 name: "Saint Louis-Marie Grignion de Montfort"
 honorific: Venerable
-title: "Saint Louis-Marie Grignion de Montfort"
 summary: " Under Mary's inspiration, he founded the Dau Born poor. Studied in Paris, France, and ordained in 1700. While a seminarian he delighted in researching the writings of Church Fathers, Doctors and Saints as they related to the Blessed Virgin Mary, to whom he was singularly devoted."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-Marie-Grignion-de-Montfort.jpg"
 birthYear: 1673

@@ -1,7 +1,6 @@
 ---
 name: "Martyrs Under Alexander"
 honorific: Saint
-title: "Martyrs Under Alexander"
 summary: "A large but unspecified number of Christians martyred in the persecutions of Emperor Alexander Severus and the praefect Ulpian who saw any non-state religion to be a dangerous treason."
 deathYear: 219
 died: "219"

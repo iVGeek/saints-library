@@ -1,7 +1,6 @@
 ---
 name: "Saint Fromundus of Coutances"
 honorific: Saint
-title: "Saint Fromundus of Coutances"
 summary: "Monk. Abbot. Bishop of Coutances, France."
 searchAliases:
   - "Fromondo"

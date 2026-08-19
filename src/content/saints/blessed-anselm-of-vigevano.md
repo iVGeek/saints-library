@@ -2,7 +2,6 @@
 name: "Blessed Anselm of Vigevano"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catholic_Encyclopedia%2C_volume_15.djvu/page1-960px-Catholic_Encyclopedia%2C_volume_15.djvu.jpg"
 honorific: Blessed
-title: "Blessed Anselm of Vigevano"
 summary: "Born to Italian nobility. Franciscan friar known for his example of piety and monastic devotion."
 searchAliases:
   - "Anselmo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aurelia"
 honorific: Saint
-title: "Saint Aurelia"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 258
 born: "citizen of the Roman empire"

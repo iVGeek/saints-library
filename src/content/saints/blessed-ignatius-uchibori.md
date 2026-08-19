@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ignatius Uchibori"
 honorific: Blessed
-title: "Blessed Ignatius Uchibori"
 summary: "Child in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Antonius Uchibori. Martyr."
 birthYear: 1622
 deathYear: 1627

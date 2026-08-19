@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantine of Scotland"
 honorific: Saint
-title: "Saint Constantine of Scotland"
 summary: "King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr."
 deathYear: 874
 died: "874"

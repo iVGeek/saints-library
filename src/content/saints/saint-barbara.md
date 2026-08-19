@@ -1,7 +1,6 @@
 ---
 name: "Saint Barbara"
 honorific: Saint
-title: "Saint Barbara"
 summary: "A beautiful maiden imprisoned in a high tower by her father Dioscorus for disobedience. While there, she was tutored by philosphers, orators and poets. From them she learned to think, and decided that polytheism was nonsense. With the help of Origen and Valentinian, she converted"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg/960px-Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg"
 searchAliases:

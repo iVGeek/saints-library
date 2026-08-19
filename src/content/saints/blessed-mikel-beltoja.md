@@ -1,7 +1,6 @@
 ---
 name: "Blessed Mikel Beltoja"
 honorific: Blessed
-title: "Blessed Mikel Beltoja"
 summary: "Received theological training from Bishop Ernest Çoba of Shkodrë, Albania. Ordained on 8 December 1961 as a priest of the archdiocese of Shkodrë-Pult, Albania. When the Communist government closed all churches in Albania in March 1967, Father Mikel travelled from village to villa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Mikel-Beltoja.jpg"
 birthYear: 1935

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Primo Andrés Lanas"
 honorific: Blessed
-title: "Blessed Primo Andrés Lanas"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Trinidad"

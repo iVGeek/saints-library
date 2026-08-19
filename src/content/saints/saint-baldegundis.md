@@ -1,7 +1,6 @@
 ---
 name: "Saint Baldegundis"
 honorific: Saint
-title: "Saint Baldegundis"
 summary: "Abbess of Saint-Croix in Poitiers, France."
 deathYear: 580
 died: "c.580"

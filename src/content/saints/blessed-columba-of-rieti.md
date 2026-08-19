@@ -1,7 +1,6 @@
 ---
 name: "Blessed Columba of Rieti"
 honorific: Blessed
-title: "Blessed Columba of Rieti"
 summary: "Legend says that at her birth, angels gathered around Columba's house to sing. During her Baptism, a dove suddenly flew down to the font. From that point on, no one used her by her given name (Angelella = little angel), but called her Columba (= dove). She was raised in a poor bu"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Columba_of_Rieti.jpg"
 searchAliases:

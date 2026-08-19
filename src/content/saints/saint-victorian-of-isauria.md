@@ -1,7 +1,6 @@
 ---
 name: "Saint Victorian of Isauria"
 honorific: Saint
-title: "Saint Victorian of Isauria"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 5

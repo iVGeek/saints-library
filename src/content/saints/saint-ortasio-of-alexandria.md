@@ -1,7 +1,6 @@
 ---
 name: "Saint Ortasio of Alexandria"
 honorific: Saint
-title: "Saint Ortasio of Alexandria"
 summary: "Martyr."
 deathYear: 341
 died: "341 in Alexandria, Egypt"

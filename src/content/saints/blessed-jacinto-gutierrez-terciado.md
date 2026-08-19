@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jacinto Gutiérrez Terciado"
 honorific: Blessed
-title: "Blessed Jacinto Gutiérrez Terciado"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Diego of Guadilla"

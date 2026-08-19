@@ -1,7 +1,6 @@
 ---
 name: "Saint Silanus of Puy"
 honorific: Saint
-title: "Saint Silanus of Puy"
 summary: "Missionary, sent by Saint Fronto of Périgueux to the area of Puy, France. Tortured and martyred by local pagans."
 died: "beheaded in Puy (modern Puy-en-Velay), France"
 deathPlace: "France"

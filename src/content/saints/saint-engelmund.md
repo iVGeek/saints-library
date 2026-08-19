@@ -1,7 +1,6 @@
 ---
 name: "Saint Engelmund"
 honorific: Saint
-title: "Saint Engelmund"
 summary: "Educated in England, Engelmund became a Benedictine monk at a very early age. Priest. Abbot. Missionary to Friesland, working with Saint Willibrord of Echternach."
 searchAliases:
   - "Engelmond"

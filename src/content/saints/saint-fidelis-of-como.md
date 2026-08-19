@@ -1,7 +1,6 @@
 ---
 name: "Saint Fidelis of Como"
 honorific: Saint
-title: "Saint Fidelis of Como"
 summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian Herculeus."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/S_Fedele_Verscio_120115.jpg/960px-S_Fedele_Verscio_120115.jpg"
 searchAliases:

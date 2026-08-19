@@ -1,7 +1,6 @@
 ---
 name: "Saint Patiens of Lyon"
 honorific: Saint
-title: "Saint Patiens of Lyon"
 summary: "Archbishop of Lyon, France. Worked with, and was highly praised by Saint Sidonius Apollinaris. Bishop Patiens donated all his income to the poor."
 searchAliases:
   - "Paziente"

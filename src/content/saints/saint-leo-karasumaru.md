@@ -1,7 +1,6 @@
 ---
 name: "Saint Leo Karasumaru"
 honorific: Saint
-title: "Saint Leo Karasumaru"
 summary: "Younger brother of Saint Paul Ibaraki. Uncle of Saint Louis Ibaraki. A Buddhist bonze in his youth. Convert to Christianity, baptized by Japanese Jesuits in 1589. First Korean Franciscan tertiary. Chief catechist for the Franciscan friars, and threw himself into any task they gav"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:

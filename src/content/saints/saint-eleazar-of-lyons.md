@@ -1,7 +1,6 @@
 ---
 name: "Saint Eleazar of Lyons"
 honorific: Saint
-title: "Saint Eleazar of Lyons"
 summary: "Martyr."
 died: "3rd century in Lyons, France"
 deathPlace: "France"

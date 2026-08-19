@@ -1,7 +1,6 @@
 ---
 name: "Saint Adautto of Carthage"
 honorific: Saint
-title: "Saint Adautto of Carthage"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Adauctus"

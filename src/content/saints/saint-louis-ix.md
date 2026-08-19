@@ -1,7 +1,6 @@
 ---
 name: "Saint Louis IX"
 honorific: Saint
-title: "Saint Louis IX"
 summary: "Son of King Louis VIII and Blanche of Castile. King of France and Count of Artois at age eleven; his mother ruled as regent until he reached 22, and then he reigned for 44 years. Louis made numerous judicial and legislative reforms, promoted Christianity in France, established re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-IX-1.jpg"
 searchAliases:

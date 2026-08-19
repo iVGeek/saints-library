@@ -1,7 +1,6 @@
 ---
 name: "Blessed Alix le Clerc"
 honorific: Blessed
-title: "Blessed Alix le Clerc"
 summary: "Born to a wealthy family, Alix grew up loving dance and music and parties and was known as a silly and frivolous girl. At age 21, however, she had a conversion experience, and became a spiritual student of Saint Peter Fourier. She was devoted to the education of girls, and in 159"
 image: "http://catholicsaints.info/wp-content/uploads/img-Alix-Le-Clerc.jpg"
 searchAliases:

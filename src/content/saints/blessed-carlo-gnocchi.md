@@ -1,7 +1,6 @@
 ---
 name: "Blessed Carlo Gnocchi"
 honorific: Blessed
-title: "Blessed Carlo Gnocchi"
 summary: "Youngest of three boys born to Henry and Clementine Gnocchi; his father died when Carlo was 5 years old, and his two brothers died of tuberculosis before he was 13. Priest in the archdiocese of Milan, Italy, ordained in 1925. Teacher and spiritual director of children. Chaplain t"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Don_Carlo_Gnocchi.jpg"
 birthYear: 1902

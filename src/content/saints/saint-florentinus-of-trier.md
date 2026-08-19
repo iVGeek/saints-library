@@ -1,7 +1,6 @@
 ---
 name: "Saint Florentinus of Trier"
 honorific: Saint
-title: "Saint Florentinus of Trier"
 summary: "Fourth-century bishop of Trier, Germany."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Florentinus-of-Trier.jpg"
 searchAliases:

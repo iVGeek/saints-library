@@ -1,7 +1,6 @@
 ---
 name: "Saint Malchus of Syria"
 honorific: Saint
-title: "Saint Malchus of Syria"
 summary: "Only child of a farming family. Worked as a shepherd, spending his time in the field in prayer. His family hoped he would marry, but Malchus felt a call to the religious life and slipped away from home and became a monk; he lived as a vegetarian, eating only dates, cheese and mil"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malc_monjo_CauFerrat_Escriptori_mallorca_sXVII%281%29_3869_-_Copy.jpg/960px-Malc_monjo_CauFerrat_Escriptori_mallorca_sXVII%281%29_3869_-_Copy.jpg"
 searchAliases:

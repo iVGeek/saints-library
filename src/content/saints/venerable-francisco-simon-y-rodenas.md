@@ -1,7 +1,6 @@
 ---
 name: "Venerable Francisco Simón y Ródenas"
 honorific: Venerable
-title: "Venerable Francisco Simón y Ródenas"
 summary: "Capuchin priest, ordained c.1875. Bishop of Santa Marta, Colombia from 5 July 1904 to 2 December 1912. Titular bishop of Echinus on 2 December 1912."
 searchAliases:
   - "Francisco of Orihuela"

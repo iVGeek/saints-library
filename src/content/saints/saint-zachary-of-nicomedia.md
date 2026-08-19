@@ -1,7 +1,6 @@
 ---
 name: "Saint Zachary of Nicomedia"
 honorific: Saint
-title: "Saint Zachary of Nicomedia"
 summary: "Martyr."
 died: "at Nicomedia, date unknown"
 deathPlace: "date unknown"

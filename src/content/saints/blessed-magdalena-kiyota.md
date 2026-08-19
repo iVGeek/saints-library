@@ -1,7 +1,6 @@
 ---
 name: "Blessed Magdalena Kiyota"
 honorific: Blessed
-title: "Blessed Magdalena Kiyota"
 summary: "Married member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
 deathYear: 1627
 born: "Nagasaki, Japan"

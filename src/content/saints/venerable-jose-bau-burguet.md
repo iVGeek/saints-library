@@ -1,7 +1,6 @@
 ---
 name: "Venerable José Bau Burguet"
 honorific: Venerable
-title: "Venerable José Bau Burguet"
 summary: "After studying at the Colegio Mayor-Seminary of the Presentation of the Blessed Virgin Mary in the Temple and Saint Thomas of Villanueva in Valencia, Spain, José was ordained a priest on 19 December 1891. Vicar of the Church of the Purísima Concepción. Vicar of the Church of Sant"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Bau-Burguet.jpg"
 birthYear: 1867

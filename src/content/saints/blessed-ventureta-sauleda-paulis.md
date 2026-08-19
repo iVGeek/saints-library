@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ventureta Sauleda Paulís"
 honorific: Blessed
-title: "Blessed Ventureta Sauleda Paulís"
 summary: "Dominican nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Josefina"

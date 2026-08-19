@@ -1,7 +1,6 @@
 ---
 name: "Saint Maurus of Rome"
 honorific: Saint
-title: "Saint Maurus of Rome"
 summary: "Martyr. No other details have survived."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

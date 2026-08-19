@@ -1,7 +1,6 @@
 ---
 name: "Saint Giustino Maria Russolillo"
 honorific: Venerable
-title: "Saint Giustino Maria Russolillo"
 summary: "Studied at the seminary of Pozzuoli, Italy where he was noted for his personal piety and stood out as an exceptional student. Priest in the Diocese of Pozzuoli, Italy, ordained on 20 September 1913. Parish priest in Pianura, Italy. Founded the Society of Divine Vocations (Vocatio"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-giustino-maria-russolillo/venerable-giustino-maria-russolillo.jpg"
 searchAliases:

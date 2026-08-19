@@ -1,7 +1,6 @@
 ---
 name: "Saint Julianus of Thessalonica"
 honorific: Saint
-title: "Saint Julianus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Engelbert Kolland"
 honorific: Blessed
-title: "Blessed Engelbert Kolland"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Engelbert-Kolland.jpg"
 birthYear: 1827

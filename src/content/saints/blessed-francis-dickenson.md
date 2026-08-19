@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francis Dickenson"
 honorific: Blessed
-title: "Blessed Francis Dickenson"
 summary: "Studied at the English Seminary in Rheims, France. Priest, returning to England to minister to covert Catholics during a period of persecution by Queen Elizabeth I. Martyr."
 searchAliases:
   - "Francis Dicconson"

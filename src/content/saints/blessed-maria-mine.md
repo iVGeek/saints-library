@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Mine"
 honorific: Blessed
-title: "Blessed Maria Mine"
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioachim Mine Sukedayu. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Kuchinotsu, Nagasaki, Japan"

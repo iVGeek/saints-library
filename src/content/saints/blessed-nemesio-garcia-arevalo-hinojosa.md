@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nemesio García-Arévalo Hinojosa"
 honorific: Blessed
-title: "Blessed Nemesio García-Arévalo Hinojosa"
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 deathYear: 1936
 born: "in Dos Torres, Córdoba, Spain"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicholas Bunkerd Kitbamrung"
 honorific: Blessed
-title: "Blessed Nicholas Bunkerd Kitbamrung"
 summary: "One of six children. His parents were converts, and he was raised as a Christian. Entered the Hang Xan Minor Seminary at age 13, and the Penang Major Seminary, Malaysia in 1920. Ordained in the archdiocese of Bangkok, Thailand in 1926. Pastor at Bang Nok Khneuk and Phitsanulok. M"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94_%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Zoticus of Nyon"
 honorific: Saint
-title: "Saint Zoticus of Nyon"
 summary: "Martyred for refusing to sacrifice to imperial Roman idols."
 died: "beheaded in Noviodunum (modern Nyon, Switzerland)"
 deathPlace: "Switzerland)"

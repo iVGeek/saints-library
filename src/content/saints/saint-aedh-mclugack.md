@@ -1,7 +1,6 @@
 ---
 name: "Saint Aedh McLugack"
 honorific: Saint
-title: "Saint Aedh McLugack"
 summary: "No information has survived."
 born: "Irish"
 region: "Ireland"

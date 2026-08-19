@@ -1,7 +1,6 @@
 ---
 name: "Saint Agape of Antioch"
 honorific: Saint
-title: "Saint Agape of Antioch"
 summary: "Nun. Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"

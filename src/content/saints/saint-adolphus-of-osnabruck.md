@@ -1,7 +1,6 @@
 ---
 name: "Saint Adolphus of Osnabrück"
 honorific: Saint
-title: "Saint Adolphus of Osnabrück"
 summary: "Count of Tecklenburg, Westphalia. Priest. Canon of Cologne, Germany, a position he resigned to become a monk at the Cistercian monastery at Camp on the Rhein. Bishop of Osnabruck, Germany in 1216. Noted for his personal piety and his extensive charity work for the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adolphus-of-Osnabruck.jpg"
 searchAliases:

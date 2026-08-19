@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juana Pérez Abascal"
 honorific: Blessed
-title: "Blessed Juana Pérez Abascal"
 summary: "Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936

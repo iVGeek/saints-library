@@ -1,7 +1,6 @@
 ---
 name: "Blessed Daniel Gómez Lucas"
 honorific: Blessed
-title: "Blessed Daniel Gómez Lucas"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936

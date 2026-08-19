@@ -1,7 +1,6 @@
 ---
 name: "Saint Codratus of Nicomedië"
 honorific: Saint
-title: "Saint Codratus of Nicomedië"
 summary: "Fed and ministered to prisoners who were arrested and tortured in the persecutions of Emperor Valerian. When the prisoners were taken into the court for their show trial and the judge began questioning them, none would speak. Finally Codratus called out from the gallery, “We are"
 searchAliases:
   - "Chuadratus"

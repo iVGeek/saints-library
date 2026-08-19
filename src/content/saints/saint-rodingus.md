@@ -1,7 +1,6 @@
 ---
 name: "Saint Rodingus"
 honorific: Saint
-title: "Saint Rodingus"
 summary: "Monk. Priest. Missionary to Germany. Monk at Tholey Abbey near Trier, Germany. Founded the Wasloi Abbey in the forest of Argonne, France."
 searchAliases:
   - "Radingus"

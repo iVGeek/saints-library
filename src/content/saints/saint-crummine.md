@@ -1,7 +1,6 @@
 ---
 name: "Saint Crummine"
 honorific: Saint
-title: "Saint Crummine"
 summary: "Spiritual student of Saint Patrick. Missionary bishop at Leccuine, Westmeath, Ireland."
 region: "Ireland"
 feastDay:

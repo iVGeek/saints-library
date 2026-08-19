@@ -1,7 +1,6 @@
 ---
 name: "Venerable Guido Vidal França Schäffer"
 honorific: Venerable
-title: "Venerable Guido Vidal França Schäffer"
 summary: "Baptized at the church of Saint Cecilia in Volta Redonda, Brazil at the age of 7 months. An avid surfer throughout his life. Physician, graduating from the medical school of Souza Marques University in 1998. He founded prayer groups and spent his spare time from residency by work"
 image: "http://catholicsaints.info/wp-content/uploads/img-Servant-of-God-Guido-Vidal-Franca-Schaffer.jpg"
 birthYear: 1974

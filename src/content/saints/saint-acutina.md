@@ -1,7 +1,6 @@
 ---
 name: "Saint Acutina"
 honorific: Saint
-title: "Saint Acutina"
 summary: "One of a group of 79 Christians martyred together. No other information has survived."
 searchAliases:
   - "Agutina"

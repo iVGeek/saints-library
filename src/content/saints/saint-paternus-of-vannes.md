@@ -1,7 +1,6 @@
 ---
 name: "Saint Paternus of Vannes"
 honorific: Saint
-title: "Saint Paternus of Vannes"
 summary: "Fifth-century bishop of Vannes in Brittany (in modern France). Late in life he retired from his see to spend his final years as a hermit."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paternus-of-Vannes.jpg"
 searchAliases:

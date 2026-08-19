@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eduardo Bautista Jiménez"
 honorific: Blessed
-title: "Blessed Eduardo Bautista Jiménez"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

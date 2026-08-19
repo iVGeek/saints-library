@@ -1,7 +1,6 @@
 ---
 name: "Saint Ignatius of Laconi"
 honorific: Venerable
-title: "Saint Ignatius of Laconi"
 summary: "Son of a poor farmer with seven children, Ignatius grew up in hard rural poverty, working the fields. At age 17, he became very ill, and promised to become a Franciscan if he was spared. When he was cured, his father convinced him to wait. At age 20 Ignatius was almost killed whe"
 image: "https://upload.wikimedia.org/wikipedia/en/2/29/IgnatiusLaconi.jpg"
 searchAliases:

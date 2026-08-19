@@ -1,7 +1,6 @@
 ---
 name: "Blessed Rafael Alcocer Martínez"
 honorific: Blessed
-title: "Blessed Rafael Alcocer Martínez"
 summary: "Benedictine monk, Solesmes Congregation. Priest. Popular speaker, and an expert in Arab studies. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Alcocer-Martínez.jpg"
 birthYear: 1889

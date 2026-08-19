@@ -1,7 +1,6 @@
 ---
 name: "Saint Gengulphus of Burgundy"
 honorific: Saint
-title: "Saint Gengulphus of Burgundy"
 summary: "Born to wealthy Burgundian nobility, he became knight and courtier. Married a noble woman who proved frequently unfaithful. Ashamed of her actions, but not wishing her harm, Gengulphus became a hermit in his castle at Avallon, France, leaving his staff of servants to care for his"
 image: "http://catholicsaints.info/wp-content/uploads/Heiliger_Gangolf.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Donata of Thessalonica"
 honorific: Saint
-title: "Saint Donata of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giuseppe Quadrio"
 honorific: Venerable
-title: "Venerable Giuseppe Quadrio"
 summary: "Born to a poor but pious peasant family, the son of Augustine and Jacqueline Robustelli; at age 8 he developed his own rule for life which included the phrase, “I will try to become a saint.” Studied at the Institute of Ivrea. Entered the Salesian Society of Saint John Bosco in 1"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Quadrio.jpg"
 searchAliases:

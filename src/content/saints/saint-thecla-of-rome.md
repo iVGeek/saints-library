@@ -1,7 +1,6 @@
 ---
 name: "Saint Thecla of Rome"
 honorific: Saint
-title: "Saint Thecla of Rome"
 summary: "Martyred with four companions, date unknown."
 died: "Rome, Italy"
 deathPlace: "Italy"

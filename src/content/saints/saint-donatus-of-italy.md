@@ -1,7 +1,6 @@
 ---
 name: "Saint Donatus of Italy"
 honorific: Saint
-title: "Saint Donatus of Italy"
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."
 region: "Italy"
 feastDay:

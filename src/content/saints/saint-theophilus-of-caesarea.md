@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus of Caesarea"
 honorific: Saint
-title: "Saint Theophilus of Caesarea"
 summary: "Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover, whether that was Sunday or not."
 image: "http://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg"
 deathYear: 195

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Luke Bergin"
 honorific: Blessed
-title: "Blessed Luke Bergin"
 summary: "Cistercian priest. One of the Irish Martyrs."
 deathYear: 1655
 born: "Irish"

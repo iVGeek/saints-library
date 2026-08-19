@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Garrigues Hernández"
 honorific: Blessed
-title: "Blessed José María Garrigues Hernández"
 summary: "Franciscan Capuchin friar, making his profession on 15 August 1912. Priest, ordained on 9 February 1919. School teacher with a strong ministry to the poor. Taught at the College of San Buenaventura de Totana in Murcia, Spain. Taught at the Seraphic Seminary of Massamgrell. In the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Garrigues-Hernández.jpg"
 searchAliases:

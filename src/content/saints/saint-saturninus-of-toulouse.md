@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturninus of Toulouse"
 honorific: Saint
-title: "Saint Saturninus of Toulouse"
 summary: "Born to the third century Roman nobility. Missionary to Gaul, the Pyrenees, and the Iberian peninsula. Worked with Saint Papoul. He converted many, including the farmer now known as Saint Honestus who joined him as a missionary. Imprisoned in Carcassone by the prefect Rufinus, Sa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Saturninus-of-Toulouse-1.jpg"
 searchAliases:

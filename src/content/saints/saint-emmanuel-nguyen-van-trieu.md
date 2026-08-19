@@ -1,7 +1,6 @@
 ---
 name: "Saint Emmanuel Nguyen Van Trieu"
 honorific: Venerable
-title: "Saint Emmanuel Nguyen Van Trieu"
 summary: "Raised Catholic. Soldier. Seminarian with the Paris Foreign Mission Society. Ordained at Pong-King. Parish priest in the apostolic vicariate of Cochinchina. Arrested for his faith while visiting his mother. One of the Martyrs of Vietnam."
 searchAliases:
   - "Emmanuel Triêu"

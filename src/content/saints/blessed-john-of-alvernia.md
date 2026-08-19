@@ -1,7 +1,6 @@
 ---
 name: "Blessed John of Alvernia"
 honorific: Blessed
-title: "Blessed John of Alvernia"
 summary: "Joined the Franciscan Friars Minor in 1272. Part-time hermit, part-time evangelist and spiritual advisor in the area around Mount Alvernia, central and northern Italy. Had the gifts of infused knowledge, visions, ecstacies, and mind-reading."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Alvernia.jpg"
 searchAliases:

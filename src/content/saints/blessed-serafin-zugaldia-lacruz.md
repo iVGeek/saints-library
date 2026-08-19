@@ -1,7 +1,6 @@
 ---
 name: "Blessed Serafín Zugaldía Lacruz"
 honorific: Blessed
-title: "Blessed Serafín Zugaldía Lacruz"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Santiago"

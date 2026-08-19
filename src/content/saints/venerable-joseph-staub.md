@@ -1,7 +1,6 @@
 ---
 name: "Venerable Joseph Staub"
 honorific: Venerable
-title: "Venerable Joseph Staub"
 summary: "Assumptionist priest. Founded the Sœurs de Ste-Jeanne d’Arc (Sisters of Saint Joan of Arc)."
 searchAliases:
   - "Marie-Clement"

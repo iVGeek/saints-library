@@ -1,7 +1,6 @@
 ---
 name: "Saint Petrus Chong Won-Ji"
 honorific: Venerable
-title: "Saint Petrus Chong Won-Ji"
 summary: "Young married layman in the apostolic vicariate of Korea."
 searchAliases:
   - "Peteuro Jeong Weon-Ji"

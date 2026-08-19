@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodulus the Lector"
 honorific: Saint
-title: "Saint Theodulus the Lector"
 summary: "Lector. Martyred with Saint Agathopus for refusing to surrender holy books during the persecutions of Emperor Maximian Herculeus."
 searchAliases:
   - "Theodolus of Thessalonica"

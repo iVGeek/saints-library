@@ -1,7 +1,6 @@
 ---
 name: "Saint Peregrinus of Rome"
 honorific: Saint
-title: "Saint Peregrinus of Rome"
 summary: "Martyred in the persecutions of Emperor Commodus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peregrinus-of-Rome.jpg"
 searchAliases:

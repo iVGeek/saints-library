@@ -1,7 +1,6 @@
 ---
 name: "Venerable Antonio Palladino"
 honorific: Venerable
-title: "Venerable Antonio Palladino"
 summary: "Priest in the diocese of Cerignola-Ascoli Satriano, Italy. Founder of the Dominican Sisters of the Blessed Sacrament."
 birthYear: 1881
 deathYear: 1926

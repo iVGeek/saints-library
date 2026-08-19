@@ -1,7 +1,6 @@
 ---
 name: "Saint Clydog"
 honorific: Saint
-title: "Saint Clydog"
 summary: "Sixth century king, part of the Brychan family who ruled Ewyas (modern Hereford and Monmoth), England. A nobleman's daughter fell in love with Clydog, but a friend who wanted the girl himself murdered Clydog near the River Monnow in the Black Mountains. His body was placed on an"
 searchAliases:
   - "Clodock"

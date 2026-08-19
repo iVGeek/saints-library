@@ -1,7 +1,6 @@
 ---
 name: "Saint Jacques Fermin"
 honorific: Saint
-title: "Saint Jacques Fermin"
 summary: "Joined the Jesuits in 1646. Priest. Missionary in Canada, working with the Onodaga, Cayuhoga and Mohawk. Established a mission on Isle La Motte in present day Vermont. Believed to have brought as many as 10,000 locals to Christianity."
 birthYear: 1628
 born: "12 March 1628 at Rheims, France"

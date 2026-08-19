@@ -1,7 +1,6 @@
 ---
 name: "Blessed Tomás Díaz y Díaz"
 honorific: Blessed
-title: "Blessed Tomás Díaz y Díaz"
 summary: "Franciscan Capuchin friar. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Bonaventura of Arroyo-Cerezo"

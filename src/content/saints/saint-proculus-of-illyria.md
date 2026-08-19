@@ -1,7 +1,6 @@
 ---
 name: "Saint Proculus of Illyria"
 honorific: Saint
-title: "Saint Proculus of Illyria"
 summary: "Sculptor. Stone-cutter who worked to build Christian churches. Martyr."
 searchAliases:
   - "Prochus"

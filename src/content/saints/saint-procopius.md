@@ -1,7 +1,6 @@
 ---
 name: "Saint Procopius"
 honorific: Saint
-title: "Saint Procopius"
 summary: "Born to a Christian family in recently converted Bohemia. Eastern Rite priest c.1003. Monk in the area of modern Hungary. Hermit. Returned to Bohemia in 1029 where he lived as a hermit in the Sazava Valley. His reputation for holiness attracted the attention of the locals and the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Procopius-1.jpg"
 searchAliases:

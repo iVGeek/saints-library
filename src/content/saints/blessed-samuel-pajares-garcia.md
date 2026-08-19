@@ -1,7 +1,6 @@
 ---
 name: "Blessed Samuel Pajares García"
 honorific: Blessed
-title: "Blessed Samuel Pajares García"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936

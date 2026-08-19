@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jan Andrzejuk"
 honorific: Blessed
-title: "Blessed Jan Andrzejuk"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1848

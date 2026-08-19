@@ -1,7 +1,6 @@
 ---
 name: "Blessed Thomas Maxfield"
 honorific: Blessed
-title: "Blessed Thomas Maxfield"
 summary: "Son of Ursula and William Macclesfield; his father was later charged with hiding and supporting priests, one of which was Thomas's brother, Father Humphrey. Thomas studied at the English College in Douai, France; ordained in 1614. In 1615 he returned to England to minister to cov"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blessed-thomas-maxfield.png/960px-Blessed-thomas-maxfield.png"
 searchAliases:

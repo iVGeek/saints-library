@@ -1,7 +1,6 @@
 ---
 name: "Blessed Angela Serafina Correggiari"
 honorific: Blessed
-title: "Blessed Angela Serafina Correggiari"
 summary: "Born to the Italian nobility, Angela became a Dominican nun at the Santa Caterina convent in Ferrara, Italy. She was known as a beautiful, pious woman who was endlessly devoted to prayer, and served as prioress of her house for the last few months of her life."
 deathYear: 1512
 born: "latter 15th century in Ferrara, Italy"

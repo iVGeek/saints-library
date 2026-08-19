@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benedict Ricasoli"
 honorific: Blessed
-title: "Blessed Benedict Ricasoli"
 summary: "Vallumbrosan monk at a mountain monastery founded by his parents. In later life he became a hermit in a cell near the monastery."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Benedict-Ricasoli.jpg"
 searchAliases:

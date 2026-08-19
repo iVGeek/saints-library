@@ -1,7 +1,6 @@
 ---
 name: "Saint Gaius"
 honorific: Saint
-title: "Saint Gaius"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Caius"

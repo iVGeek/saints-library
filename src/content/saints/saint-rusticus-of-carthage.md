@@ -1,7 +1,6 @@
 ---
 name: "Saint Rusticus of Carthage"
 honorific: Saint
-title: "Saint Rusticus of Carthage"
 summary: "Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric."
 deathYear: 483
 died: "483"

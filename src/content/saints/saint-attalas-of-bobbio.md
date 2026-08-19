@@ -1,7 +1,6 @@
 ---
 name: "Saint Attalas of Bobbio"
 honorific: Saint
-title: "Saint Attalas of Bobbio"
 summary: "Monk at Lérins, France. Monk at Luxeuil Abbey. Helped Columbanus build the abbey in Bobbio, Italy. Served as its abbot from 615. During Attalas's abbacy most of the monks stood out against the severity of the Columbanian Rule. His monks included Saint Valery and Saint Blitmund of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Attalas-of-Bobbio.jpg"
 searchAliases:

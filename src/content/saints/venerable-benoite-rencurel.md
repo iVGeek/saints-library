@@ -1,7 +1,6 @@
 ---
 name: "Venerable Benoîte Rencurel"
 honorific: Venerable
-title: "Venerable Benoîte Rencurel"
 summary: "Lay woman of the diocese of Gap, France. Member of the Lay Dominicans. Visionary who experienced the apparitions of Our Lady of Laus."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/La_v%C3%A9n%C3%A9rable_visionnaire_Beno%C3%AEte_Rencurel.jpg/960px-La_v%C3%A9n%C3%A9rable_visionnaire_Beno%C3%AEte_Rencurel.jpg"
 searchAliases:

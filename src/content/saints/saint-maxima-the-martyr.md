@@ -1,7 +1,6 @@
 ---
 name: "Saint Maxima the Martyr"
 honorific: Saint
-title: "Saint Maxima the Martyr"
 summary: "Married to and martyred with Saint Montanus the Martyr in the persecutions of Diocletian."
 searchAliases:
   - "Massima"

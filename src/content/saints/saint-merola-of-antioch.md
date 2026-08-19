@@ -1,7 +1,6 @@
 ---
 name: "Saint Merola of Antioch"
 honorific: Saint
-title: "Saint Merola of Antioch"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Merula"

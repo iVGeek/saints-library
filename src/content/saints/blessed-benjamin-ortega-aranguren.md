@@ -1,7 +1,6 @@
 ---
 name: "Blessed Benjamin Ortega Aranguren"
 honorific: Blessed
-title: "Blessed Benjamin Ortega Aranguren"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936

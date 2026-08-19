@@ -1,7 +1,6 @@
 ---
 name: "Saint Chrysole the Armenian"
 honorific: Saint
-title: "Saint Chrysole the Armenian"
 summary: "Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris. Evangelized the area of Cambrai, France and Tournai, Belgium. Bishop. Martyr."
 searchAliases:
   - "Chryseuil the Armenian"

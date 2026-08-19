@@ -1,7 +1,6 @@
 ---
 name: "Saint Peleonicus of Africa"
 honorific: Saint
-title: "Saint Peleonicus of Africa"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 2

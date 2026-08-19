@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartholomeus Baba Han'emon"
 honorific: Blessed
-title: "Blessed Bartholomeus Baba Han'emon"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1574
 deathYear: 1627

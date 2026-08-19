@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquila of Philadelphia"
 honorific: Saint
-title: "Saint Aquila of Philadelphia"
 summary: "Martyr. No other information has survived."
 died: "in Philadelphia (modern Alasehir, Turkey)"
 deathPlace: "Turkey)"

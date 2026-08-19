@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Fernández Sánchez Toril"
 honorific: Blessed
-title: "Blessed Francisco Fernández Sánchez Toril"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1854
 deathYear: 1936

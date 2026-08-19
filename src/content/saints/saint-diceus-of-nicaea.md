@@ -1,7 +1,6 @@
 ---
 name: "Saint Diceus of Nicaea"
 honorific: Saint
-title: "Saint Diceus of Nicaea"
 summary: "One of 279 Christians martyred together."
 died: "Nicaea, Bithynia"
 deathPlace: "Bithynia"

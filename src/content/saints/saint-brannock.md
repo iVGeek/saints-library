@@ -1,7 +1,6 @@
 ---
 name: "Saint Brannock of Braunton"
 honorific: Saint
-title: "Saint Brannock of Braunton"
 summary: "Monk. Migrated to Devon, England. Founded a monastery at Braunton in Devonshire, and served as its first abbot."
 searchAliases:
   - "Barnoc"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mordeyren"
 honorific: Saint
-title: "Saint Mordeyren"
 summary: "No information about him has survived."
 died: "relics formerly enshrined in a chapel of the parish church Nantglyn, Wales, but they have disappeared"
 deathPlace: "Wales, but they have disappeared"

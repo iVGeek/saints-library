@@ -1,7 +1,6 @@
 ---
 name: "Venerable Giovanni Nadiani"
 honorific: Venerable
-title: "Venerable Giovanni Nadiani"
 summary: "The youngest of three children, Giovanni's mother and two step-mothers were all Christian women who ensured the boy learned his faith. He was a good student, a fine singer, and briefly entered the seminary in Cesena, Italy. As a young man he worked in his father's restaurant, in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Nadiani-1.jpg"
 birthYear: 1885

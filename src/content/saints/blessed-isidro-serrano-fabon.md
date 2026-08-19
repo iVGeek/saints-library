@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidro Serrano Fabón"
 honorific: Blessed
-title: "Blessed Isidro Serrano Fabón"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Martiniano"

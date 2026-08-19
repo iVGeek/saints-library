@@ -1,7 +1,6 @@
 ---
 name: "Blessed Elisabetta del Paradiso"
 honorific: Blessed
-title: "Blessed Elisabetta del Paradiso"
 summary: "Sister of Blessed Maria del Paradiso. The two became Mercedarian nuns together at the monastery of Santa Maria ad Argamasilla, and stayed together in lives of austerity, prayer and penance."
 image: "http://catholicsaints.info/wp-content/uploads/img-Beate-Elisabetta-and-Maria-del-Paradiso.jpg"
 region: "Italy"

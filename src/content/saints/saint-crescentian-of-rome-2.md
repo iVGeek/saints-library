@@ -1,7 +1,6 @@
 ---
 name: "Saint Crescentian of Rome"
 honorific: Saint
-title: "Saint Crescentian of Rome"
 summary: "Martyred in the persecutions of Maxentius."
 searchAliases:
   - "Crescentianus"

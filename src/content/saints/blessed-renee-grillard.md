@@ -1,7 +1,6 @@
 ---
 name: "Blessed Renée Grillard"
 honorific: Blessed
-title: "Blessed Renée Grillard"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1766
 deathYear: 1794

@@ -1,7 +1,6 @@
 ---
 name: "Saint Primitivus of North Africa"
 honorific: Saint
-title: "Saint Primitivus of North Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:

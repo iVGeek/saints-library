@@ -1,7 +1,6 @@
 ---
 name: "Saint Vitalis"
 honorific: Saint
-title: "Saint Vitalis"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "250 at Caesarea, Cappadocia"

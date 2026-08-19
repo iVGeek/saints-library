@@ -1,7 +1,6 @@
 ---
 name: "Saint Dacius of Damascus"
 honorific: Saint
-title: "Saint Dacius of Damascus"
 summary: "Martyred with six companions. No other information has survived."
 searchAliases:
   - "Decius of Damascus"

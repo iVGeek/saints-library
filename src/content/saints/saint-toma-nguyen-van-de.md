@@ -1,7 +1,6 @@
 ---
 name: "Saint Tôma Nguyen Van Ðe"
 honorific: Venerable
-title: "Saint Tôma Nguyen Van Ðe"
 summary: "Layman tailor in the apostolic vicariate of East Tonkin (in modern Vietnam. Dominican tertiary. Arrested for sheltering foreign missionaries. Martyred with four other Vietnamese Catholics."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:

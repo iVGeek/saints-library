@@ -1,7 +1,6 @@
 ---
 name: "Saint Odo of Massay"
 honorific: Saint
-title: "Saint Odo of Massay"
 summary: "Benedictine monk. Abbot at Massay the last 32 years of his life."
 deathYear: 967
 died: "967 of natural causes"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joris"
 honorific: Blessed
-title: "Blessed Joris"
 summary: "Son of Stephen and Helen, Joris grew up in a home with seven brothers. Priest. Bishop in Armenia. Died while on pilgrimage to Boulogne in northern France."
 searchAliases:
   - "Jorio"

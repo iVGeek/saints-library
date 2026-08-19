@@ -1,7 +1,6 @@
 ---
 name: "Saint Anrê Tran An Dung"
 honorific: Venerable
-title: "Saint Anrê Tran An Dung"
 summary: "Priest in the apostolic vicariate of West Tonkin. Worked in the missions with the priests of the Foreign Mission Society of Paris. Imprisoned and repeatedly tortured in the persecutions of Minh-Meng. Died with Saint Peter Thi. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/saint-anre-tran-an-dung/saint-anre-tran-an-dung-01.jpg"
 searchAliases:

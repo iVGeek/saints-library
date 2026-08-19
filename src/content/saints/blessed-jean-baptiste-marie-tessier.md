@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jean-Baptiste-Marie Tessier"
 honorific: Blessed
-title: "Blessed Jean-Baptiste-Marie Tessier"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1761
 deathYear: 1792

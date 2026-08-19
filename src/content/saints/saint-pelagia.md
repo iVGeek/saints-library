@@ -1,7 +1,6 @@
 ---
 name: "Saint Pelagia"
 honorific: Saint
-title: "Saint Pelagia"
 summary: "Martyred in the persecutions of Emperor Licinius."
 deathYear: 320
 died: "beheaded in 320 at Nicopolis, Lesser Armenia"

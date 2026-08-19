@@ -1,7 +1,6 @@
 ---
 name: "Saint Severinus of Cologne"
 honorific: Saint
-title: "Saint Severinus of Cologne"
 summary: " Legend says that as a priest, Father Severinus heard a voice saying, “Severinus, you will be bishop of Cologne.” He asked, “When?” “When your staff flourishes,” came the reply. So, he planted his walking stick into the g Bishop of Cologne, Germany. Prominent opponent of Arianism."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Severinus-of-Cologne-1.jpg"
 searchAliases:

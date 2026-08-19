@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcolinus Amanni"
 honorific: Blessed
-title: "Blessed Marcolinus Amanni"
 summary: "Marcolinus joined the Dominican in Forli, Emilia, Italy at the age of ten, and lived under their Rule for 70 years. He was known for his simple life, his love of quiet and solitude, his service to the poor and children, his life of prayer, and his ability to counsel and re-invigo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marcolinus-Amanni.jpg"
 searchAliases:

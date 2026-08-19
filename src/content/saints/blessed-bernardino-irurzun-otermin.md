@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bernardino Irurzun Otermín"
 honorific: Blessed
-title: "Blessed Bernardino Irurzun Otermín"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

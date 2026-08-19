@@ -1,7 +1,6 @@
 ---
 name: "Blessed Paternus the Scot"
 honorific: Blessed
-title: "Blessed Paternus the Scot"
 summary: "Hermit. Monk. Joined a group of brothers who emigrated to Westphalia (in modern Germany), and was one of the first monks at Abdinghof Abbey under the leadership of Blessed Meinwerk of Paderborn. Much admired by Saint Peter Damian and Blessed Marianus Scotus."
 searchAliases:
   - "Paternus Scotus"

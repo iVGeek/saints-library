@@ -1,7 +1,6 @@
 ---
 name: "Daughters of Feradhach"
 honorific: Saint
-title: "Daughters of Feradhach"
 summary: "Mentioned in early calendars and martyrologies, but no information about them has survived."
 searchAliases:
   - "Filiae Feradachi"

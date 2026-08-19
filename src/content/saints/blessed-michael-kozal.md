@@ -1,7 +1,6 @@
 ---
 name: "Blessed Michaël Kozal"
 honorific: Blessed
-title: "Blessed Michaël Kozal"
 summary: "Born to a peasant family. Ordained a priest in 1918. Appointed auxiliary bishop of Wloclawek, Poland and titular bishop of Lappa by Pope Pius XII on 10 June 1939. Arrested by the Gestapo on 7 November 1939 as part of the Nazi persecution of the Catholic Church. Imprisoned and tor"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-Kozal.jpg"
 searchAliases:

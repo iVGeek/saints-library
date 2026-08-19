@@ -1,7 +1,6 @@
 ---
 name: "Blessed Maria Candida of the Eucharist"
 honorific: Blessed
-title: "Blessed Maria Candida of the Eucharist"
 summary: "Daughter of Pietro Barba, an appelate court judge. Raised in Palermo, Sicily. She made her first Communion at age 10, and had an intense devotion to the Eucharist from a very early age. At fifteen she felt a call to religious life, but her family, though pious, opposed her vocati"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/MariaCandida.JPG"
 searchAliases:

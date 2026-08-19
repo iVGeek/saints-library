@@ -1,7 +1,6 @@
 ---
 name: "Blessed Hyacinth-Marie Cormier"
 honorific: Blessed
-title: "Blessed Hyacinth-Marie Cormier"
 summary: "Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri. His father died when Louis was a small boy, h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hyacinth-Marie-Cormier.jpg"
 searchAliases:

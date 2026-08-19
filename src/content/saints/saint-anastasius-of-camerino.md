@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasius of Camerino"
 honorific: Saint
-title: "Saint Anastasius of Camerino"
 summary: "Tribune in the imperial Roman army in the reign of Emperor Decius; corniculario, a sort of justice of the peace. Anastasius converted when he saw the courage and faith of martyrs that he was torturing to death. Soon after, Anastasius was arrested for his new faith and martyred wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg"
 deathYear: 251

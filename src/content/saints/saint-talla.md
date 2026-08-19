@@ -1,7 +1,6 @@
 ---
 name: "Saint Talla"
 honorific: Saint
-title: "Saint Talla"
 summary: "Nun. She is mentioned in the Tallaght, Gorman and Donegal Martyrologies, but no details about her have survived."
 searchAliases:
   - "Toidilia"

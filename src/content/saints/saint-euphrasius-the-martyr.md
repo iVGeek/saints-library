@@ -1,7 +1,6 @@
 ---
 name: "Saint Euphrasius the Martyr"
 honorific: Saint
-title: "Saint Euphrasius the Martyr"
 summary: "Bishop. Martyred by Arian Vandals."
 searchAliases:
   - "Eufrasio"

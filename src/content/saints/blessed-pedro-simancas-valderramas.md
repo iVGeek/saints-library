@@ -1,7 +1,6 @@
 ---
 name: "Blessed Pedro Simancas Valderramas"
 honorific: Blessed
-title: "Blessed Pedro Simancas Valderramas"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Cabeza del Buey community. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936

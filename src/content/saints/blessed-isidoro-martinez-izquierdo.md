@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isidoro Martínez Izquierdo"
 honorific: Blessed
-title: "Blessed Isidoro Martínez Izquierdo"
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936

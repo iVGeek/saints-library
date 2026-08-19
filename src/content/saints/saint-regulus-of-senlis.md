@@ -1,7 +1,6 @@
 ---
 name: "Saint Regulus of Senlis"
 honorific: Saint
-title: "Saint Regulus of Senlis"
 summary: "First bishop of Civitas Silvanectium, Gaul (modern Senlis, France)."
 searchAliases:
   - "Rieul"

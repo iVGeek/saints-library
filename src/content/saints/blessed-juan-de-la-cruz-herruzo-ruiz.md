@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan de La Cruz Herruzo Ruiz"
 honorific: Blessed
-title: "Blessed Juan de La Cruz Herruzo Ruiz"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Alcaracejos community. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936

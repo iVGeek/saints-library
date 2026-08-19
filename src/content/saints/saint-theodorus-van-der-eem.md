@@ -1,7 +1,6 @@
 ---
 name: "Saint Theodorus van der Eem"
 honorific: Saint
-title: "Saint Theodorus van der Eem"
 summary: "Priest. Franciscan Friars Minor. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:

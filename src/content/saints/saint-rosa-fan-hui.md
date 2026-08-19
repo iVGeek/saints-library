@@ -1,7 +1,6 @@
 ---
 name: "Saint Rosa Fan Hui"
 honorific: Venerable
-title: "Saint Rosa Fan Hui"
 summary: "Unmarried lay woman. A convert, she took the name Rosa. She served as an active and enthusiastic catechist. When the anti-Christian forces of the Boxer Rebellion moved into the area of her village, she and her friends spent the night of the Feast of the Assumption in prayer. They"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Mangin.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Francesco Antonio Fasani"
 honorific: Venerable
-title: "Saint Francesco Antonio Fasani"
 summary: "Known as a pious child. Entered the Conventual Franciscan order in 1695, taking the name Francis. Ordained in 1705. Taught philosophy to younger friars, served as guardian of his friary, provincial of the Order, master of novices, and finally pastor in his hometown. Sought after"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francesco-Antonio-Fasani-1.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius"
 honorific: Saint
-title: "Saint Januarius"
 summary: "Martyred in the persecutions of Licinius."
 deathYear: 320
 died: "beheaded in 320 at Nicopolis, Lesser Armenia"

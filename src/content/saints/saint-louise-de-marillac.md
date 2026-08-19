@@ -1,7 +1,6 @@
 ---
 name: "Saint Louise de Marillac"
 honorific: Saint
-title: "Saint Louise de Marillac"
 summary: "Though she considered a religious vocation from an early age, her ill health kept any house from taking her. She married Antony LeGras, an official to the queen, in 1611. Widowed in 1625. Spiritual student of Saint Vincent de Paul. With Saint Vincent, she founded the Daughters of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg/960px-Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg"
 searchAliases:

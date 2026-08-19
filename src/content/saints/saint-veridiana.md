@@ -1,7 +1,6 @@
 ---
 name: "Saint Veridiana"
 honorific: Saint
-title: "Saint Veridiana"
 summary: "Member of an impoverished but noble family, she was drawn to religious life from an early age. Pilgrim to Santiago de Compostela, Spain. Anchoress at age 26, living 34 years in a tiny cell at the chapel of Saint Anthony of Padua, Florence, Italy. Received the habit of the Secular"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Veridiana.jpg"
 searchAliases:

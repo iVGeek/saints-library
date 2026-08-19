@@ -1,7 +1,6 @@
 ---
 name: "Blessed Felipe Ruiz Peña"
 honorific: Blessed
-title: "Blessed Felipe Ruiz Peña"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Gil Felipe"

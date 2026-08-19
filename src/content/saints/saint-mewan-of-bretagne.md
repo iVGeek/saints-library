@@ -1,7 +1,6 @@
 ---
 name: "Saint Mewan of Bretagne"
 honorific: Saint
-title: "Saint Mewan of Bretagne"
 summary: "Followed Saint Samson from Wales to Brittany in the sixth century, accompanied by his godson Saint Austell of Cornwall. Evangelized the Broceliande district. Founded the monastery at Parmpont, Brittany, France that was later named for him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mewan-of-Bretagne-1.jpg"
 searchAliases:

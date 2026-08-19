@@ -1,7 +1,6 @@
 ---
 name: "Saint Lupus of Sens"
 honorific: Saint
-title: "Saint Lupus of Sens"
 summary: "Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and his generosity to the poor. Monk at Lérins. Priest. Arc"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/82/SaintLupusSens.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Hadulfus of Cambrai"
 honorific: Saint
-title: "Saint Hadulfus of Cambrai"
 summary: "His father, Ragnulfo, died a martyr. When he was of age, Hadulfus became a monk in the Abbey of St Vaast in Arras; he served as abbot of the house from 710 to 717. Bishop of Cambrai in the Neustria region (part of modern France) from 717 until his death 11 years later."
 searchAliases:
   - "Hadulfus of Saint-Vaast"

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Emilio Recchia"
 honorific: Venerable
-title: "Venerable Emilio Recchia"
 summary: "Emilio joined the Congregation of the Stigmata of Our Lord Jesus Christ in 1903 at age 17 while still in high school, and made his perpetual profession on 8 August 1908. Ordained a priest on 3 September 1911. He became a noted preacher, and served as a teacher in Stigmatine commu"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Emilio-Recchia.jpg"
 birthYear: 1888

@@ -1,7 +1,6 @@
 ---
 name: "Saint Aedan of Ferns"
 honorific: Saint
-title: "Saint Aedan of Ferns"
 summary: "Son of Eithne and Sedna, chief of Connaught. A widespread reputation for sanctity brought him potential disciples in his youth; he fled to Kilmuine, Wales to escape them. He became one of Saint David's most faithful disciples. He returned to Ireland in 580 with a band of disciple"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aidan-of-Ferns.jpg"
 searchAliases:

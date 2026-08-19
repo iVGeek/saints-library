@@ -1,7 +1,6 @@
 ---
 name: "Saint Theophilus the Lawyer"
 honorific: Saint
-title: "Saint Theophilus the Lawyer"
 summary: "Pagan lawyer brought to the faith through a miracle received through the intervention of Saint Dorothy of Caesarea. Martyr."
 searchAliases:
   - "Theophilus Scholasticus"

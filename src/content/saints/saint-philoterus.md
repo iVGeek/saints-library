@@ -1,7 +1,6 @@
 ---
 name: "Saint Philoterus"
 honorific: Saint
-title: "Saint Philoterus"
 summary: "Born to the nobility, the son of imperial Roman proconsul Pacian. Marytred in the persecutions of Diocletian."
 deathYear: 303
 born: "Nicomedia (in modern Turkey)"

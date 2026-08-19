@@ -1,7 +1,6 @@
 ---
 name: "Saint Andrew of Marula"
 honorific: Saint
-title: "Saint Andrew of Marula"
 summary: "Martyr."
 searchAliases:
   - "Andreas"

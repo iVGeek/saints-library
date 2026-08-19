@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellus of Sicily"
 honorific: Saint
-title: "Saint Marcellus of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"

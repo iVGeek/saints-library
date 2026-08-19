@@ -1,7 +1,6 @@
 ---
 name: "Saint Paternus of Fondi"
 honorific: Saint
-title: "Saint Paternus of Fondi"
 summary: "Martyr."
 deathYear: 255
 born: "Alexandria, Egypt"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Martha Kim Song-im"
 honorific: Venerable
-title: "Saint Martha Kim Song-im"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

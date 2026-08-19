@@ -1,7 +1,6 @@
 ---
 name: "Saint Agatho of Alexandria"
 honorific: Saint
-title: "Saint Agatho of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"

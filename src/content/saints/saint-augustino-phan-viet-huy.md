@@ -1,7 +1,6 @@
 ---
 name: "Saint Augustinô Phan Viet Huy"
 honorific: Venerable
-title: "Saint Augustinô Phan Viet Huy"
 summary: "Lifelong layman in the apostolic vicariate of East Tonkin. Soldier. Worked to help the foreign missionaries. Worked, tortured and died with Saint Nicolas The. One of the Martyrs of Vietnam."
 searchAliases:
   - "Augustine Huy Viet Phan"

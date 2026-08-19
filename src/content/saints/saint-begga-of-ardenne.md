@@ -1,7 +1,6 @@
 ---
 name: "Saint Begga of Andenne"
 honorific: Saint
-title: "Saint Begga of Andenne"
 summary: "Born to the nobility, the daughter of Saint Pepin of Landen, mayor of the palace, and Saint Ida of Nivelles. Sister of Saint Gertrude of Nivelles. Married to Ansegilius, son of Saint Arnulf of Metz. Mother of Pepin of Herstal, founder of the Carolingian dynasty of rulers in Franc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Begga-of-Andenne.jpg"
 deathYear: 693

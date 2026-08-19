@@ -1,7 +1,6 @@
 ---
 name: "Blessed Nicolás Pereda Revuelta"
 honorific: Blessed
-title: "Blessed Nicolás Pereda Revuelta"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother José Federico"

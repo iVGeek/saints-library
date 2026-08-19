@@ -1,7 +1,6 @@
 ---
 name: "Saint Dasius of Nicomedia"
 honorific: Saint
-title: "Saint Dasius of Nicomedia"
 summary: "One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Dasio"

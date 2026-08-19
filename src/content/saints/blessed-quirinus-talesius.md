@@ -1,7 +1,6 @@
 ---
 name: "Blessed Quirinus Talesius"
 honorific: Blessed
-title: "Blessed Quirinus Talesius"
 summary: "Local government official. Martyred by Calvinists."
 deathYear: 1572
 died: "1572 in Haarlem, Netherlands"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Perrine Grille"
 honorific: Blessed
-title: "Blessed Perrine Grille"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1742
 deathYear: 1794

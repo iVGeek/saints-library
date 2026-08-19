@@ -1,7 +1,6 @@
 ---
 name: "Saint Castus of Piacenza"
 honorific: Saint
-title: "Saint Castus of Piacenza"
 summary: "Martyr."
 searchAliases:
   - "Casto"

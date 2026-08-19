@@ -1,7 +1,6 @@
 ---
 name: "Saint Benignus of Flay"
 honorific: Saint
-title: "Saint Benignus of Flay"
 summary: "Monk and abbot at Fontenelle and Flay in France."
 searchAliases:
   - "Benignus of Fontenelle"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teofilius Matulionis"
 honorific: Blessed
-title: "Blessed Teofilius Matulionis"
 summary: "The middle of three brothers born to the peasant family of Jurgis Matulionis and Ona Juocepyte; after his mother died, his father re-married, and the couple then had seven more children. Teofilius studied at Antaliepte, Lithuania from 1887 to 1892, then Dvinsk (modern Daugpilis,"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Teofilius_Matulionis.jpg"
 birthYear: 1873

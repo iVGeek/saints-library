@@ -1,7 +1,6 @@
 ---
 name: "Saint Valentine of Terni"
 honorific: Saint
-title: "Saint Valentine of Terni"
 summary: "Ordained by Saint Felician of Foligno. Consecrated bishop of Terni, Italy by Pope Victor I, c.197. Noted evangelist, miracle worker and healer, he was much loved by his flock. Imprisoned, tortured, and beheaded by order of the prefect Placid Furius during the persecution of Aurel"
 image: "http://catholicsaints.info/wp-content/gallery/saint-valentine-of-terni/saint-valentine-of-terni-01.jpg"
 birthYear: 175

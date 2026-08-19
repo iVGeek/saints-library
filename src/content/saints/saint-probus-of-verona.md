@@ -1,7 +1,6 @@
 ---
 name: "Saint Probus of Verona"
 honorific: Saint
-title: "Saint Probus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Probo"

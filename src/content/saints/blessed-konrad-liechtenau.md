@@ -1,7 +1,6 @@
 ---
 name: "Blessed Konrad Liechtenau"
 honorific: Blessed
-title: "Blessed Konrad Liechtenau"
 summary: "Born to the noblity, member of the family of the Count of Liechtenau, Baden-Wuerttemberg, Germany. Canon of the cathedral of Konstanz, Germany. Premonstratensian monk. Canon of the Ursberg monastery at Augsburg, Germany. Priest. Abbot of Ursberg in 1226. He renovated the abbey an"
 deathYear: 1240
 born: "late 12th century Germany"

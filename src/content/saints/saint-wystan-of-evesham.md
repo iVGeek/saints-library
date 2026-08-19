@@ -1,7 +1,6 @@
 ---
 name: "Saint Wystan of Evesham"
 honorific: Saint
-title: "Saint Wystan of Evesham"
 summary: "Prince of Mercia, the son of Wigmund of Mercia and Ælfflæd, daughter of King Ceolwulf I of Mercia. Killed in his youth by his regent Bertulph, king of Mercia, for opposing the marriage of Bertulph to Wistan's mother. Some writers have considered him a martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wystan-of-Evesham.jpg"
 searchAliases:

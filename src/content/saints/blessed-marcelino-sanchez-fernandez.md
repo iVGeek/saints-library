@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marcelino Sánchez Fernández"
 honorific: Blessed
-title: "Blessed Marcelino Sánchez Fernández"
 summary: "Professed religious brother in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936

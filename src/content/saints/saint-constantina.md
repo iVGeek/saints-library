@@ -1,7 +1,6 @@
 ---
 name: "Saint Constantina"
 honorific: Saint
-title: "Saint Constantina"
 summary: "Born to the imperial Roman nobility, the daughter of emperor Constantine I and Fausta; the granddaughter of emperor Maximian; the sister of emperors Constantine II, Constantius II and Constans I. Married for political reasons to Hannibalian in 335, she was the mother of two daugh"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pietro_da_Cortona_-_Saint_Constantia%27s_Vision_before_the_Tomb_of_Saints_Agnes_and_Emerentiana_-_Google_Art_Project.jpg/960px-Pietro_da_Cortona_-_Saint_Constantia%27s_Vision_before_the_Tomb_of_Saints_Agnes_and_Emerentiana_-_Google_Art_Project.jpg"
 searchAliases:

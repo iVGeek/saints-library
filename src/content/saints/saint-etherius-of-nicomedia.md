@@ -1,7 +1,6 @@
 ---
 name: "Saint Etherius of Nicomedia"
 honorific: Saint
-title: "Saint Etherius of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Aetherius of Nicomedia"

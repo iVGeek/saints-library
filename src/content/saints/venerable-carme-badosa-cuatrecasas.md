@@ -2,7 +2,6 @@
 name: "Venerable Carme Badosa Cuatrecasas"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/BadosaArcangela.jpg"
 honorific: Venerable
-title: "Venerable Carme Badosa Cuatrecasas"
 summary: "Carmelite nun."
 searchAliases:
   - "Sister Arcàngela"

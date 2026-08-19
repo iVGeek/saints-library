@@ -1,7 +1,6 @@
 ---
 name: "Saint Graecina of Volterra"
 honorific: Saint
-title: "Saint Graecina of Volterra"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Gracinea"

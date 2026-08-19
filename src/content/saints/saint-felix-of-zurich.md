@@ -1,7 +1,6 @@
 ---
 name: "Saint Felix of Zurich"
 honorific: Saint
-title: "Saint Felix of Zurich"
 summary: "Brother of Saint Regula of Zürich. During the persecutions of Maximian Herculeaus the two fled to Switzerland. They were found there near Zürich. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Zurich-and-Saint-Regula-of-Zurich.jpg"
 died: "3rd century near Zürich, Switzerland"

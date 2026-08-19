@@ -1,7 +1,6 @@
 ---
 name: "Saint Helimenas of Persia"
 honorific: Saint
-title: "Saint Helimenas of Persia"
 summary: "Priest martyred in Persia."
 feastDay:
   month: 4

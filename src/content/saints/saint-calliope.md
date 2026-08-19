@@ -1,7 +1,6 @@
 ---
 name: "Saint Calliope"
 honorific: Saint
-title: "Saint Calliope"
 summary: "Third century martyr. No other information has survived."
 searchAliases:
   - "Calliopa"

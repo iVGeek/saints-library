@@ -1,7 +1,6 @@
 ---
 name: "Saint Vissia of Fermo"
 honorific: Saint
-title: "Saint Vissia of Fermo"
 summary: "Consecrated virgin martyred in the persecutions of Decius."
 deathYear: 250
 died: "martyred c.250 in Fermo, Italy"

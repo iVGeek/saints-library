@@ -1,7 +1,6 @@
 ---
 name: "Saint Adolph of Utrecht"
 honorific: Saint
-title: "Saint Adolph of Utrecht"
 summary: "Brother of Saint Botulph of Ikanhoe. Seventh-century monk. Missionary bishop to Saxony. Miracle worker."
 searchAliases:
   - "Adolph of Maastricht"

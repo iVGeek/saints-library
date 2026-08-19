@@ -1,7 +1,6 @@
 ---
 name: "Saint Alphege the Bald"
 honorific: Saint
-title: "Saint Alphege the Bald"
 summary: "Relative of Saint Dunstan of Canterbury and Saint Ethelwold. Monk. Bishop of Winchester, England in 935. Great supporter of the monastic life. Ordained Saint Dunstan and Saint Ethelwold."
 searchAliases:
   - "Alphege of Winchester"

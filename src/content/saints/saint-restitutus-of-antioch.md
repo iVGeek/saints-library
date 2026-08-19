@@ -1,7 +1,6 @@
 ---
 name: "Saint Restitutus of Antioch"
 honorific: Saint
-title: "Saint Restitutus of Antioch"
 summary: "One of a group of sixteen Christians who were martyred together. No other details have survived."
 died: "4th century Antioch, Syria"
 deathPlace: "Syria"

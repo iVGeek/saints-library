@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonius of Rome"
 honorific: Saint
-title: "Saint Antonius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Antoninus"

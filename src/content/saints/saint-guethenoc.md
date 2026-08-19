@@ -1,7 +1,6 @@
 ---
 name: "Saint Guethenoc"
 honorific: Saint
-title: "Saint Guethenoc"
 summary: "Son of Saint Fragan and Saint Gwen; brother of Saint Jacut and Saint Gwenaloe. Spiritual student of Saint Budoc. With Jacut, he was driven from Britain to Brittany in the 5th century by invading Saxons."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guethenoc.jpg"
 searchAliases:

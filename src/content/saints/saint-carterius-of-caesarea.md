@@ -1,7 +1,6 @@
 ---
 name: "Saint Carterius of Caesarea"
 honorific: Saint
-title: "Saint Carterius of Caesarea"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Karterios"

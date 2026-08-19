@@ -1,7 +1,6 @@
 ---
 name: "Saint Epiphana"
 honorific: Saint
-title: "Saint Epiphana"
 summary: "Martyr. No other reliable information has survived."
 searchAliases:
   - "Epiphania"

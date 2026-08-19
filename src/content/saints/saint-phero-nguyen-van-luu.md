@@ -1,7 +1,6 @@
 ---
 name: "Saint Phêrô Nguyen Van Luu"
 honorific: Saint
-title: "Saint Phêrô Nguyen Van Luu"
 summary: "Priest in the apostolic vicariate of West Cochinchina (modern Vietnam). Martyred in the persecutions of emperor Tu-Duc."
 searchAliases:
   - "Pietro Nguyen Van Luu"

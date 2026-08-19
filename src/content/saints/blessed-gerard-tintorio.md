@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerard Tintorio"
 honorific: Blessed
-title: "Blessed Gerard Tintorio"
 summary: "Well off layman in Monza, Lombardy, Italy. He spent his wealth founding a hospital in Monza where he worked with the sick, especially lepers."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gerardo-dei-Tintori.jpg"
 deathYear: 1207

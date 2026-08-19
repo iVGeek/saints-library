@@ -1,7 +1,6 @@
 ---
 name: "Saint Rogatus of Carthage"
 honorific: Saint
-title: "Saint Rogatus of Carthage"
 summary: "Monk. Martyred in the persecutions of the Arian King Hunneric."
 deathYear: 483
 died: "483"

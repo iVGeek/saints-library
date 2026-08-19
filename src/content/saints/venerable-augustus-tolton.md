@@ -1,7 +1,6 @@
 ---
 name: "Venerable Augustus Tolton"
 honorific: Venerable
-title: "Venerable Augustus Tolton"
 summary: "Born a slave, the son of slaves, the second of three children of Peter and Martha Tolton. Peter escaped to joined the Union Army in Saint Louis; his family never saw him again, and he died of dysentery. Augustus and his older brother were both working as field hands by age seven."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Augustine_Tolton_portrait_%283x4_cropped%29.jpg/960px-Augustine_Tolton_portrait_%283x4_cropped%29.jpg"
 birthYear: 1854

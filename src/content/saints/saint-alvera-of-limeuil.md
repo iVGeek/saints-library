@@ -1,7 +1,6 @@
 ---
 name: "Saint Alvera of Limeuil"
 honorific: Saint
-title: "Saint Alvera of Limeuil"
 summary: "Fourth century Christian. No other information has survived."
 searchAliases:
   - "Alvère"

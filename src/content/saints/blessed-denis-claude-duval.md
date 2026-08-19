@@ -1,7 +1,6 @@
 ---
 name: "Blessed Denis-Claude Duval"
 honorific: Blessed
-title: "Blessed Denis-Claude Duval"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1739
 deathYear: 1792

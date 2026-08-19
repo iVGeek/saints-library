@@ -1,7 +1,6 @@
 ---
 name: "Saint Damian"
 honorific: Saint
-title: "Saint Damian"
 summary: "Twin brother of Saint Cosmas. Physician, trained in Syria; the brothers accepted no payment for their services, and their charity brought many to Christ. Reported to have miraculously replaced the ulcered leg of a man named Justinian with one from a recently deceased man. Arreste"
 image: "http://catholicsaints.info/wp-content/gallery/saint-cosmas-and-saint-damian/saint-cosmas-and-saint-damian-00.jpg"
 searchAliases:

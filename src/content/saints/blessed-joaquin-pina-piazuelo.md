@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joaquín Piña Piazuelo"
 honorific: Blessed
-title: "Blessed Joaquín Piña Piazuelo"
 summary: "Member of the Hospitallers of Saint John of God, joining at age 37. Imprisoned and martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquin-Pina-Piazuelo.jpg"
 searchAliases:

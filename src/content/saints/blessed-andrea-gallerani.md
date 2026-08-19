@@ -1,7 +1,6 @@
 ---
 name: "Blessed Andrea Gallerani"
 honorific: Blessed
-title: "Blessed Andrea Gallerani"
 summary: "Born to the nobility, he was a distinguished soldier. Exiled for killing a blasphemer with his sword, Andrea devoted the rest of his life to penitential acts of mercy. When he was allowed to return home to Siena, Italy, he founded a hospital and the Frati della Misericordia (Brot"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/43/GalleraniVecchietta.JPG"
 searchAliases:

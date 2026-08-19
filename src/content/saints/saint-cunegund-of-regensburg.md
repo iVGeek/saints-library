@@ -1,7 +1,6 @@
 ---
 name: "Saint Cunegund of Regensburg"
 honorific: Saint
-title: "Saint Cunegund of Regensburg"
 summary: "Nun at Niedermunster convent in Ratisbon, Germany."
 deathYear: 1052
 died: "c.1052"

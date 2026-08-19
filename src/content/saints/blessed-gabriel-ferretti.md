@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gabriel Ferretti"
 honorific: Blessed
-title: "Blessed Gabriel Ferretti"
 summary: "Born to the Italian nobility, the eldest son of the Count Liverotto of Ferretti and Lady Alvisia. At age 18 he left his worldly position behind and joined the Franciscan Friars Minor at the convent of San Francesco in Ancona, Italy. Received visions of the Blessed Virgin Mary. Ha"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Crivelli%2C_beato_gabriele_ferretti.jpg"
 birthYear: 1385

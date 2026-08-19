@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francesc Xavier Ponsa Casallach"
 honorific: Blessed
-title: "Blessed Francesc Xavier Ponsa Casallach"
 summary: "Member of Catholic Action Youth. Joined the Hospitallers of Saint John of God on 20 February 1935 and became a novice in the community of San Baudilio de Llobregat, Barcelona, Spain on 2 June 1936. Martyred in the Spanish Civil War less than three months later."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 birthYear: 1916

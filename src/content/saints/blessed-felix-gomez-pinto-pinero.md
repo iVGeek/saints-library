@@ -1,7 +1,6 @@
 ---
 name: "Blessed Félix Gómez-Pinto Piñero"
 honorific: Blessed
-title: "Blessed Félix Gómez-Pinto Piñero"
 summary: "One of four children born to pious farm family; his mother was a Franciscan tertiary, and two of his sisters became Capuchin nuns. Félix joined the Franciscan Friar Minor on 12 May 1886 at the at Pastrana, Spain, making his solemn profession on 16 May 1890. Priest, ordained on 19"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Félix-Gómez-Pinto-Piñero.jpg"
 birthYear: 1870

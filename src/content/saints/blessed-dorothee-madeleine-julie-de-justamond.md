@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dorothée-Madeleine-Julie de Justamond"
 honorific: Blessed
-title: "Blessed Dorothée-Madeleine-Julie de Justamond"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

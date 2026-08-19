@@ -1,7 +1,6 @@
 ---
 name: "Blessed George Douglas"
 honorific: Blessed
-title: "Blessed George Douglas"
 summary: "Studied in Paris, France. Priest. Ministered to covert Catholics in England. Arrested in York and martyred for the crime of being a priest. One of the Martyrs of England, Scotland, and Wales."
 deathYear: 1587
 born: "Edinburgh, Scotland"

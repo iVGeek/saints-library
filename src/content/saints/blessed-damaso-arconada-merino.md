@@ -1,7 +1,6 @@
 ---
 name: "Blessed Dámaso Arconada Merino"
 honorific: Blessed
-title: "Blessed Dámaso Arconada Merino"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Saturnin of Rome"
 honorific: Saint
-title: "Saint Saturnin of Rome"
 summary: "Martyred with 21 Christian companions in the persecutions of Valerian."
 searchAliases:
   - "Saturninus"

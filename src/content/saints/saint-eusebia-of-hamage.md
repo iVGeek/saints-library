@@ -1,7 +1,6 @@
 ---
 name: "Saint Eusebia of Hamage"
 honorific: Saint
-title: "Saint Eusebia of Hamage"
 summary: "Eldest daughter of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes; great-granddaughter of Saint Gertrude the Elder; sister of Saint Maurontius, Saint Clotsindis, and Saint Adalsindis of Hamay. After her father's murder when she was very young, she was sent to the"
 searchAliases:
   - "Eusebia of Hamay"

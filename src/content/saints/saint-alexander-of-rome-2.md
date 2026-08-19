@@ -1,7 +1,6 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Saint Alexander of Rome"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 2

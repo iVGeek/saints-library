@@ -1,7 +1,6 @@
 ---
 name: "Saint Julian of North Africa"
 honorific: Saint
-title: "Saint Julian of North Africa"
 summary: "Martyr. No other information has survived."
 died: "North Africa, date unknown"
 deathPlace: "date unknown"

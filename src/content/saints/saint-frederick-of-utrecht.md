@@ -1,7 +1,6 @@
 ---
 name: "Saint Frederick of Utrecht"
 honorific: Saint
-title: "Saint Frederick of Utrecht"
 summary: "Grandson of King Radbon of the Frisians. Educated by the priests at Utrecht, Netherlands. Priest, known for his learning and personal piety. Catechist and instructor to converts. Bishop of Utrecht in 825. Frederick worked to reform his clergy, regularize Church practice in his di"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederik_Bloemaert_-_S._Fredericus.jpg/960px-Frederik_Bloemaert_-_S._Fredericus.jpg"
 searchAliases:

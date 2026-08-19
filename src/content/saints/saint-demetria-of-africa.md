@@ -1,7 +1,6 @@
 ---
 name: "Saint Demetria of Africa"
 honorific: Saint
-title: "Saint Demetria of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Maria Yi In-Dok"
 honorific: Venerable
-title: "Saint Maria Yi In-Dok"
 summary: "Young lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:

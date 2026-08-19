@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jesús Moreno Ruiz"
 honorific: Blessed
-title: "Blessed Jesús Moreno Ruiz"
 summary: "Member of the Missionaries of the Sacred Heart, making his profession in 1934. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Moreno-Ruiz.jpg"
 birthYear: 1915

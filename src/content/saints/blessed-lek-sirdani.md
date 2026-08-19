@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lek Sirdani"
 honorific: Blessed
-title: "Blessed Lek Sirdani"
 summary: "Studied at the Pontifical Seminary Shkodrë, and theology in Innsbruck, Austria. Ordained on 24 April 1916 as a priest of the archdiocese of Shkodrë-Pult, Albania. Served in several mountain village parishes. Imprisoned, tortured and dumped into a sewage pit to die during the anti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Lek-Sirdani.jpg"
 birthYear: 1891

@@ -1,7 +1,6 @@
 ---
 name: "Saint Verda of Persia"
 honorific: Saint
-title: "Saint Verda of Persia"
 summary: "Persian Christian martyred in the persecutions of King Shapur II."
 deathYear: 344
 died: "344"

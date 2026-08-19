@@ -1,7 +1,6 @@
 ---
 name: "Saint Aquilinus of Africa"
 honorific: Saint
-title: "Saint Aquilinus of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Aquilino"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Mucian of Mesia"
 honorific: Saint
-title: "Saint Mucian of Mesia"
 summary: "Martyr of the early Church for refusing to sacrifice to idols."
 searchAliases:
   - "Mocian"

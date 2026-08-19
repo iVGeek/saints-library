@@ -1,7 +1,6 @@
 ---
 name: "Jeremiah the Prophet"
 honorific: Saint
-title: "Jeremiah the Prophet"
 summary: "Old Testament prophet. Son of Helcias, of a priestly race of Anathoth, a little village of the tribe of Benjamin. Raised to love and respect Jewish traditions, and studied previous prophets, especially Isaias and Micheas. Tough and unconcerned about the opinions and threats of ot"
 image: "http://catholicsaints.info/wp-content/uploads/img-Jeremiah-the-Prophet.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gervase"
 honorific: Saint
-title: "Saint Gervase"
 summary: "Second century martyr. Son of Saint Vitalis of Milan and Saint Valeria of Milan. He and his beheaded twin brother Protase are considered the first martyrs of Milan as Saint Ambrose, guided by a vision, unearthed their remains in 386. Saint Paulinus of Nola says the martyrs appear"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gervase1.jpg"
 searchAliases:

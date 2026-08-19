@@ -1,7 +1,6 @@
 ---
 name: "Saint Silvanus of Rome"
 honorific: Saint
-title: "Saint Silvanus of Rome"
 summary: "Two Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"

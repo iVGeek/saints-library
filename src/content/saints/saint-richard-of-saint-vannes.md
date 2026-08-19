@@ -1,7 +1,6 @@
 ---
 name: "Saint Richard of Saint Vannes"
 honorific: Saint
-title: "Saint Richard of Saint Vannes"
 summary: "Monk at the monastery of Saint Vannes, Verdun, France."
 searchAliases:
   - "Gratia Dei (Thanks be to God) – a nickname based on a phrase he often used"

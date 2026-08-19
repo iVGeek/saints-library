@@ -1,7 +1,6 @@
 ---
 name: "Saint Quirinus of Cluny"
 honorific: Saint
-title: "Saint Quirinus of Cluny"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6

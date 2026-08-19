@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoine Chevrier"
 honorific: Blessed
-title: "Blessed Antoine Chevrier"
 summary: "An only child in a family of workers in the silk industry, Antoine was baptized at the age of 2 days. He made his First Communion in 1837, and in 1840, at age 14, he considered becoming a priest - and had such a sense of happiness at the idea that he knew he had a calling to the"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chevrier2.jpg/960px-Chevrier2.jpg"
 birthYear: 1825

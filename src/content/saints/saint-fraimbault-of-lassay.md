@@ -1,7 +1,6 @@
 ---
 name: "Saint Fraimbault of Lassay"
 honorific: Saint
-title: "Saint Fraimbault of Lassay"
 summary: "Born to the Frankish nobility, the son of a count. At age 15, against his own objections, he followed his father's orders and became a servant in the court of King Childebert. He found that he despised life in court, referring to it as a “barbaric environment”, and left to become"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fambaldus.jpg"
 searchAliases:

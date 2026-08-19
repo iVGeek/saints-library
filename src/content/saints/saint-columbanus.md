@@ -1,7 +1,6 @@
 ---
 name: "Saint Columbanus"
 honorific: Saint
-title: "Saint Columbanus"
 summary: "Well-born, handsome and educated, Columbanus was torn between a desire for God and easy access to the pleasures of the world. Acting on advice of a holy anchoress, he decided to withdraw from the world. His family opposed the choice, his mother going so far as to block the door."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Colombano.jpg"
 searchAliases:

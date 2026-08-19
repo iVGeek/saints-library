@@ -1,7 +1,6 @@
 ---
 name: "Blessed Jaume Llach-Candell"
 honorific: Blessed
-title: "Blessed Jaume Llach-Candell"
 summary: "Priest. Member of the Sons of the Holy Family. One of the Martyrs of the Spanish Civil War."
 birthYear: 1878
 deathYear: 1937

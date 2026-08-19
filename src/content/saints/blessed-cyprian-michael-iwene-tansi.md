@@ -1,7 +1,6 @@
 ---
 name: "Blessed Cyprian Michael Iwene Tansi"
 honorific: Blessed
-title: "Blessed Cyprian Michael Iwene Tansi"
 summary: "Son of Tabansi of Igboezunu-Aguleri and Ejikwevi of Nteje; one of five children. Though his parents were non-Christian, they sent the boy to live with and be educated by a Christian uncle. He was baptised on 7 January 1912, and given the name Michael. Studied at Onitsha and Agule"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blessed_Cyprian_Michael_Iwene_Tansi_by_Leicester_Thomas.jpg/960px-Blessed_Cyprian_Michael_Iwene_Tansi_by_Leicester_Thomas.jpg"
 searchAliases:

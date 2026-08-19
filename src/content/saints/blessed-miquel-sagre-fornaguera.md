@@ -1,7 +1,6 @@
 ---
 name: "Blessed Miquel Sagré Fornaguera"
 honorific: Blessed
-title: "Blessed Miquel Sagré Fornaguera"
 summary: "Franciscan Capuchin, making his profession on 15 August 1911. Ordained a priest on 17 June 1916. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Benigne de Canet De Mar"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ogasawara Miya Luisa"
 honorific: Blessed
-title: "Blessed Ogasawara Miya Luisa"
 summary: "Lifelong lay woman in the diocese of Fukuoka, Japan. Married to Blessed Ogasawara Yosaburo Gen'ya. Mother of Blessed Ogasawara Genpachi, Blessed Ogasawara Mari, Blessed Ogasawara Kuri, Blessed Ogasawara Sasaemon, Blessed Ogasawara Sayuemon, Blessed Ogasawara Shiro, Blessed Ogasaw"
 deathYear: 1636
 born: "Buzen, Fukuoka, Japan"

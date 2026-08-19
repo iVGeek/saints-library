@@ -1,7 +1,6 @@
 ---
 name: "Saint Anastasia the Patrician"
 honorific: Saint
-title: "Saint Anastasia the Patrician"
 summary: "Christian Byzantine noble. Lady-in-waiting to the Empress Theodora in Constantinople. To escape the unwanted attentions of the Emperor Justinian, Anastaia fled the court to a convent in Alexandria, Egypt. On the death of Theodora, Justinian launched a search for Anastasia. To esc"
 searchAliases:
   - "Anastasia of Alessandria"

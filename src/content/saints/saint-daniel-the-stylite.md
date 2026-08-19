@@ -1,7 +1,6 @@
 ---
 name: "Saint Daniel the Stylite"
 honorific: Saint
-title: "Saint Daniel the Stylite"
 summary: "Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to the Holy Lands, but a vision of Saint Simeo"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Spas_na_Ilyine_-_Stylite_Daniel.jpg"
 searchAliases:

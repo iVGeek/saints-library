@@ -1,7 +1,6 @@
 ---
 name: "Saint Theobald of Dorat"
 honorific: Saint
-title: "Saint Theobald of Dorat"
 summary: "Born to a poor but pious farm family. Spiritual student of Saint Israel of Limoges at Dorat, France. Augustinian canon. Ordained a deacon, he considered himself unworthy of the priesthood. Treasurer and sacristan of the churches in Dorat. Had a ministry to the sick and the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theobald-of-Dorat.jpg"
 birthYear: 990

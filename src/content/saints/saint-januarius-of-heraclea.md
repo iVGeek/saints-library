@@ -1,7 +1,6 @@
 ---
 name: "Saint Januarius of Heraclea"
 honorific: Saint
-title: "Saint Januarius of Heraclea"
 summary: "Martyred at Heraclea. No other information has survived."
 region: "England"
 feastDay:

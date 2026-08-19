@@ -1,7 +1,6 @@
 ---
 name: "Blessed Isaias Boner"
 honorific: Blessed
-title: "Blessed Isaias Boner"
 summary: "A member of the Augustinian friars. Beginning in 1419, he studied theology in Padua, Italy. He began teaching at the Augustinian house there in 1422, and began teaching theology in 1424. Exceptional professor of Holy Scripture within the order. Provincial visitor of the Augustini"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Isaias-Boner.jpg"
 birthYear: 1400

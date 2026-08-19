@@ -1,7 +1,6 @@
 ---
 name: "Saint Priscus"
 honorific: Saint
-title: "Saint Priscus"
 summary: "Zealous preacher of Christianity. Martyred for his opposition to idolatry."
 died: "tortured to death"
 feastDay:

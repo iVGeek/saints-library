@@ -1,7 +1,6 @@
 ---
 name: "Saint Piaton of Tournai"
 honorific: Saint
-title: "Saint Piaton of Tournai"
 summary: "Priest, ordained by Saint Dionysius the Areopagite. Early evangelist to the areas of Tournai, Belgium and Chartres in Gaul (modern France). Martyred in the persecutions of Emperor Maximian Herculeus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Piaton-of-Tournai.jpg"
 searchAliases:

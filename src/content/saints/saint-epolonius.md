@@ -1,7 +1,6 @@
 ---
 name: "Saint Epolonius"
 honorific: Saint
-title: "Saint Epolonius"
 summary: "Spiritual student of Saint Babylas. Martyred in the persecutions of Decius."
 searchAliases:
   - "Epolono"

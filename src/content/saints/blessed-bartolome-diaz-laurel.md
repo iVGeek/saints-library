@@ -1,7 +1,6 @@
 ---
 name: "Blessed Bartolomé Díaz Laurel"
 honorific: Blessed
-title: "Blessed Bartolomé Díaz Laurel"
 summary: "Member of the Franciscan Friars Minor (Observants). Friend of and co-worker with Blessed Francisco of Saint Mary. Missionary to Manila, Philippines in 1609. Missionary to Japan in 1622 where he served as a physician and catechist. Martyr."
 birthYear: 1599
 deathYear: 1627

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Wilhelm Janauschek"
 honorific: Venerable
-title: "Venerable Wilhelm Janauschek"
 summary: "Remptorist priest."
 birthYear: 1859
 deathYear: 1926

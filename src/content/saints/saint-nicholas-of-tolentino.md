@@ -1,7 +1,6 @@
 ---
 name: "Saint Nicholas of Tolentino"
 honorific: Saint
-title: "Saint Nicholas of Tolentino"
 summary: " Nicholas became an Augustinian friar at age 18, and a student wi His middle-aged parents, Compagnonus de Guarutti and Amata de Guidiani, were childless until a prayerful visit to a shrine of Saint Nicholas of Myra at Bari, Italy. In gratitude, the couple named their son Nicholas."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ritratto_di_San_Nicola_da_Tolentino.jpg"
 searchAliases:

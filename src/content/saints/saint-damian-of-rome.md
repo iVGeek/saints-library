@@ -1,7 +1,6 @@
 ---
 name: "Saint Damian of Rome"
 honorific: Saint
-title: "Saint Damian of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Damiano"

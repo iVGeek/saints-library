@@ -1,7 +1,6 @@
 ---
 name: "Saint Adamnan of Iona"
 honorific: Saint
-title: "Saint Adamnan of Iona"
 summary: " Adamnan gave sanctuary to Prince Aldfrid when the throne of Northumbria was in dispute following t Distant relative of Saint Columba. Monk at Drunhome, Donegal, Ireland. Abbot of Iona in 679. President-general of all the Columban houses in Ireland. Evangelized throughout Ireland."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adamnan-of-Iona.gif"
 searchAliases:

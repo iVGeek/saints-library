@@ -1,7 +1,6 @@
 ---
 name: "Saint Rufus of Avignon"
 honorific: Saint
-title: "Saint Rufus of Avignon"
 summary: "First bishop of Avignon, France."
 region: "France"
 feastDay:

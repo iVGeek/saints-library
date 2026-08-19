@@ -1,7 +1,6 @@
 ---
 name: "Saint Natalis of Ulster"
 honorific: Saint
-title: "Saint Natalis of Ulster"
 summary: "Spiritual student of Saint Columba. One of the great founders of monasticism in northern Ireland. Abbot of monasteries of Naile, Daunhinis, and Cill. A well in the region honors his memory."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruins_Church_of_Naile%2C_Kinawley%2C_Fermanagh.jpg/960px-Ruins_Church_of_Naile%2C_Kinawley%2C_Fermanagh.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Saint Anstrudis of Laon"
 honorific: Saint
-title: "Saint Anstrudis of Laon"
 summary: "Daughter of Saint Blandinus of Laon and Saint Sadalberga; sister of Saint Baldwin. When Sadalberga withdrew from the world to become abbess at Saint John the Baptist convent at Laon, France, Anstrudis went with her as a nun. On the death of her mother, Anstrudis reluctantly becam"
 searchAliases:
   - "Anstrude"

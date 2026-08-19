@@ -1,7 +1,6 @@
 ---
 name: "Saint Hermias of Comana"
 honorific: Saint
-title: "Saint Hermias of Comana"
 summary: "Professional soldier. Martyr. Mentioned prominently in Greek liturgy."
 searchAliases:
   - "Hermias of Cappadocia"

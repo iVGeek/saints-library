@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyriaca"
 honorific: Saint
-title: "Saint Cyriaca"
 summary: "Wealthy married woman in Rome, Italy. Widowed, she spent her fortune sheltering persecuted Christians. Saint Lawrence of Rome used her house as a base for alms-giving and charitable work. Martyr. The church of Saint Mary in Dominica in Rome is named for her."
 searchAliases:
   - "Dominica"

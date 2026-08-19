@@ -1,7 +1,6 @@
 ---
 name: "Saint Victor of Braga"
 honorific: Saint
-title: "Saint Victor of Braga"
 summary: "Catechumen martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "c.300 in Braga, Portugal"

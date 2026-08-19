@@ -1,7 +1,6 @@
 ---
 name: "Saint Arbeo of Freising"
 honorific: Saint
-title: "Saint Arbeo of Freising"
 summary: "Student under Saint Corbinian. Benedictine monk. First abbot at the Scharnitz Monastery at Garmisch-Partenkirchen, Germany in 763. Bishop of Freising, Germany in 765. He increased the reputation of the diocese for prosperity and religious devotion, founded several convents, and m"
 searchAliases:
   - "Aribo of Freising"

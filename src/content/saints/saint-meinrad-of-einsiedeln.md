@@ -1,7 +1,6 @@
 ---
 name: "Saint Meinrad of Einsiedeln"
 honorific: Saint
-title: "Saint Meinrad of Einsiedeln"
 summary: "May have been a member of the noble Hohenzollern family. Educated, professed as a Benedictine monk, and ordained at the abbey on the island of Reichenau, in Lake Constance in Switzerland. Teacher in Zurich, Switzerland. Around 829 he withdrew to live in prayer as a hermit in the"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Mainrado.JPG"
 searchAliases:

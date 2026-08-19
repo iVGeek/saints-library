@@ -1,7 +1,6 @@
 ---
 name: "Saint Faustinus of Rome"
 honorific: Saint
-title: "Saint Faustinus of Rome"
 summary: "Brother of Saint Beatrice of Rome. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Rome, Italy"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Burchard of Würzburg"
 honorific: Saint
-title: "Saint Burchard of Würzburg"
 summary: "Born wealthy, he felt early called to the Church and working with the poor. Inspired by Saint Boniface, he became a missionary in the area of modern Germany. First bishop of Würzburg, Franconia, consecrated by Saint Boniface in 741 and confirmed by Pope Saint Zachary in 743. Unde"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BurckarduswholeBW.jpg/960px-BurckarduswholeBW.jpg"
 searchAliases:

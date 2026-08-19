@@ -1,7 +1,6 @@
 ---
 name: "Saint Anthony of Ancyra"
 honorific: Saint
-title: "Saint Anthony of Ancyra"
 summary: "Son of Saints Melasippus and Carina of Ancyra. Martyred at age 13 in the persecutions of Julian the Apostate."
 died: "latter 4th century in Ancyra, Galatia"
 deathPlace: "Galatia"

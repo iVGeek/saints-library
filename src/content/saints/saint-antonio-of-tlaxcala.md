@@ -1,7 +1,6 @@
 ---
 name: "Saint Antonio of Tlaxcala"
 honorific: Venerable
-title: "Saint Antonio of Tlaxcala"
 summary: "Grandson of the Tlaxcala noble Xicoht&eacute;ncati, and heir to his title and estates. Convert to Christianity. One of the Three Child Martyrs of Tlaxcala."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tlaxcala.jpg"
 searchAliases:

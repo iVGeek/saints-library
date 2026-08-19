@@ -1,7 +1,6 @@
 ---
 name: "Saint Pragmatius of Autun"
 honorific: Saint
-title: "Saint Pragmatius of Autun"
 summary: "Bishop of Autun, France."
 searchAliases:
   - "Prammazio"

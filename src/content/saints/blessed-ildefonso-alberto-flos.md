@@ -1,7 +1,6 @@
 ---
 name: "Blessed Ildefonso Alberto Flos"
 honorific: Blessed
-title: "Blessed Ildefonso Alberto Flos"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Luis Alberto"

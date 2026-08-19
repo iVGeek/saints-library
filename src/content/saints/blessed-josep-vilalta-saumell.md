@@ -1,7 +1,6 @@
 ---
 name: "Blessed Josep Vilalta Saumell"
 honorific: Blessed
-title: "Blessed Josep Vilalta Saumell"
 summary: "Franciscan Capuchin friar, professed on 14 March 1935. Ordained a priest on 20 April 1935. Imprisoned and murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Tarsici de Miralcamp"

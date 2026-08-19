@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenio García Tribaldos"
 honorific: Blessed
-title: "Blessed Eugenio García Tribaldos"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Agustín María"

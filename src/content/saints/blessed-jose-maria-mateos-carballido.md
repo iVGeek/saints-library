@@ -1,7 +1,6 @@
 ---
 name: "Blessed José María Mateos Carballido"
 honorific: Blessed
-title: "Blessed José María Mateos Carballido"
 summary: "Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936

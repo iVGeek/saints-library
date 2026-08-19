@@ -1,7 +1,6 @@
 ---
 name: "Martyrs of Colonia Suffetulana"
 honorific: Saint
-title: "Martyrs of Colonia Suffetulana"
 summary: "A group of 60 Christians martyred for destroying a statue of Hermes."
 died: "Colonia Suffetulana, Africa"
 deathPlace: "Africa"

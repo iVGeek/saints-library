@@ -1,7 +1,6 @@
 ---
 name: "Saint Eustace of Beauvais"
 honorific: Saint
-title: "Saint Eustace of Beauvais"
 summary: "Parish priest in Beauvais, France. Joined the Benedictine Cistercians at the abbey in Saint-Germer-de-Fly, France. Monk. Abbot of the house. Apostolic legate to England for Pope Innocent III. Apostolic legate to fight Albigensianism in southern France."
 born: "Beauvais, France"
 birthPlace: "France"

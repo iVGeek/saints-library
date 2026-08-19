@@ -1,7 +1,6 @@
 ---
 name: "Blessed Joseph Outhay Phongphumi"
 honorific: Blessed
-title: "Blessed Joseph Outhay Phongphumi"
 summary: "Layman catechist in the apostolic vicariate of Savannakhet (in modern Laos). Martyr."
 birthYear: 1933
 deathYear: 1961

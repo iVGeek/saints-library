@@ -1,7 +1,6 @@
 ---
 name: "Blessed Teuzzo of Razzuolo"
 honorific: Blessed
-title: "Blessed Teuzzo of Razzuolo"
 summary: "An early spiritual student of Saint Giovanni Gualberto, Teuzzo became a Benedictine monk at the monastery in Vallombrosa, Italy, a house that adhered strictly to the Benedictine Rule, and where he where served as a nurse. In the mid-11th century, when the third Vallombrosan abbey"
 deathYear: 1095
 born: "early 11th century"

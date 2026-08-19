@@ -1,7 +1,6 @@
 ---
 name: "Saint Cyria of Caesarea"
 honorific: Saint
-title: "Saint Cyria of Caesarea"
 summary: "Convert. Martyr."
 searchAliases:
   - "Ciria"

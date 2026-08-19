@@ -1,7 +1,6 @@
 ---
 name: "Saint Ulric of Croyland"
 honorific: Saint
-title: "Saint Ulric of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes."
 searchAliases:
   - "Ulric of Crowland"

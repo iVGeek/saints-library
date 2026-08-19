@@ -1,7 +1,6 @@
 ---
 name: "Blessed Raoul of Vaucelles"
 honorific: Blessed
-title: "Blessed Raoul of Vaucelles"
 summary: "Benedictine Cistercian monk and spiritual student of Saint Bernard at Clairvaux Abbey. Sent by Bernard to found and govern a Cistercian abbey of Vaucelles, diocese of Cambrai, France."
 searchAliases:
   - "Radulphe"

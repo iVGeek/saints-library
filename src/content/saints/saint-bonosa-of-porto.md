@@ -1,7 +1,6 @@
 ---
 name: "Saint Bonosa of Porto"
 honorific: Saint
-title: "Saint Bonosa of Porto"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 207
 died: "c.207 in Porto Romano, Italy"

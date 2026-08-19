@@ -1,7 +1,6 @@
 ---
 name: "Saint Cronidas of Illyria"
 honorific: Saint
-title: "Saint Cronidas of Illyria"
 summary: "Notary. Martyred in the persecutions of Hadrian."
 deathYear: 121
 died: "c.121 in the imperial Roman province of Illyria, an area of the modern Balkans"

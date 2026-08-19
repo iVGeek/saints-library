@@ -1,7 +1,6 @@
 ---
 name: "Saint Girald of Fontenelle"
 honorific: Saint
-title: "Saint Girald of Fontenelle"
 summary: "Studied at the cathedral school in Rheims, France; student of Gerbert of Aurillac, who would later become Pope Sylvester II, and of Saint Fulbert of Chartres. Benedictine monk at Lagny, diocese of Meaux, France. Abbot of Saint-Arnoul Abbey. Abbot of Fontenelle Abbey where his eff"
 searchAliases:
   - "Gerardus"

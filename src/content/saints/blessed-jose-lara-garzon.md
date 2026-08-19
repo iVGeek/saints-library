@@ -1,7 +1,6 @@
 ---
 name: "Blessed José Lara Garzón"
 honorific: Blessed
-title: "Blessed José Lara Garzón"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936

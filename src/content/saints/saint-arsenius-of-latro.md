@@ -1,7 +1,6 @@
 ---
 name: "Saint Arsenius of Latro"
 honorific: Saint
-title: "Saint Arsenius of Latro"
 summary: "An admiral in the imperial fleet. Shipwrecked in a violent storm, he learned that he benefitted from living as a hermit. Rescued, he returned to life as a mountain hermit. Monk near Miletus, Caria (in modern Turkey). Miracle worker."
 region: "Italy"
 feastDay:

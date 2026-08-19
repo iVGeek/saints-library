@@ -1,7 +1,6 @@
 ---
 name: "Saint Eugendus of Condat"
 honorific: Saint
-title: "Saint Eugendus of Condat"
 summary: "Taught to read and write at home by his father, a man who became a priest himself. Following a vision in which Eugendus was shown that he would have masses of spiritual students and lead many to the faith, he moved into the Condat Monastery, Mount Jura, Switzerland at age seven,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eugendus-Abbot.jpg"
 searchAliases:

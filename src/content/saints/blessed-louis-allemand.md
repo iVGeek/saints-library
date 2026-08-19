@@ -1,7 +1,6 @@
 ---
 name: "Blessed Louis Allemand"
 honorific: Blessed
-title: "Blessed Louis Allemand"
 summary: "Born to the French nobility. Canon lawyer. Bishop of Maguelonne, France in 1418. Advisor, courtier and diplomat in service to Pope Martin V. Archbishop of Arles, France in 1423. Created Cardinal-priest of Sante Cecilia in 1426. Important member of the Council of Basle in 1436, le"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Allemand.jpg"
 searchAliases:

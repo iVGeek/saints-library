@@ -1,7 +1,6 @@
 ---
 name: "Blessed Marguerite-Marie-Anne de Rocher"
 honorific: Blessed
-title: "Blessed Marguerite-Marie-Anne de Rocher"
 summary: "Ursuline nun. Martyred in the French Revolution. One of the Martyrs of Orange."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:

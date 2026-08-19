@@ -1,7 +1,6 @@
 ---
 name: "Blessed Giles of Saumur"
 honorific: Blessed
-title: "Blessed Giles of Saumur"
 summary: "Chaplain to King Saint Louis IX. Accompanied the king on Crusade. Bishop of Damietta, Egypt in 1243. Archbishop of Tyre, Lebanon in 1245."
 searchAliases:
   - "Egidio"

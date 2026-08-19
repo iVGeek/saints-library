@@ -1,7 +1,6 @@
 ---
 name: "Saint Jósef Bilczewski"
 honorific: Venerable
-title: "Saint Jósef Bilczewski"
 summary: "Eldest of nine children in a peasant family. Seminarian at Krakow, Poland. Ordained on 6 July 1884. Doctor of theology at the University of Vienna, Austria in 1886. Studied dogmatic theology and Christian archaeology in Rome, Italy and Paris, France. Professor of theology at the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jósef-Bilczewski.jpg"
 searchAliases:

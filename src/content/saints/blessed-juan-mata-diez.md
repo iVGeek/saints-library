@@ -1,7 +1,6 @@
 ---
 name: "Blessed Juan Mata Díez"
 honorific: Blessed
-title: "Blessed Juan Mata Díez"
 summary: "Layman in the diocese of Burgos, Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

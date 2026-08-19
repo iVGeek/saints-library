@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Tost Llaberia"
 honorific: Blessed
-title: "Blessed Antoni Tost Llaberia"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Francesc Magi"

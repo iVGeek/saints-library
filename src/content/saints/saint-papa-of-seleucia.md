@@ -1,7 +1,6 @@
 ---
 name: "Saint Papa of Seleucia"
 honorific: Saint
-title: "Saint Papa of Seleucia"
 summary: "Martyr."
 searchAliases:
   - "Papa of Lycaonia"

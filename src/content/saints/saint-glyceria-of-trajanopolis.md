@@ -1,7 +1,6 @@
 ---
 name: "Saint Glyceria of Trajanopolis"
 honorific: Saint
-title: "Saint Glyceria of Trajanopolis"
 summary: "Roman maiden at Trajanopolis, Greece, and may have been the daughter of a Roman senator. Arrested for her faith during the persecutions of emperor Antoninus and the governor Sabinus, she managed to destroy a statue of Jupiter before being imprisoned, tortured and martyred."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Trajanopolis.jpg"
 searchAliases:

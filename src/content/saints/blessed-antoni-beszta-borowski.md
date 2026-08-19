@@ -1,7 +1,6 @@
 ---
 name: "Blessed Antoni Beszta-Borowski"
 honorific: Blessed
-title: "Blessed Antoni Beszta-Borowski"
 summary: "Parish priest in Bielsk Podlaski and vicar-general of the diocese of Pinsk, Poland. In both positions he was noted for his concern for those, lay and clergy, in his care, especially in the persecutions during the Nazi occupation. For this work, on 15 July 1943 he was arrested by"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Antoni_Beszta-Borowski.png"
 birthYear: 1880

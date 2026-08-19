@@ -1,7 +1,6 @@
 ---
 name: "Venerable Raymundo Jardón Herrera"
 honorific: Venerable
-title: "Venerable Raymundo Jardón Herrera"
 summary: "Born to a family with 14 children, Raymundo was baptized at the age of three days. Priest of the archdiocese of Monterrey, Mexico, ordained in the cathedral of Saltillo. Father Raymundo was an evangelist, tirelessly preaching, teaching, encouraging young people to live their fait"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Raymundo-Jardón-Herrera.jpg"
 birthYear: 1887

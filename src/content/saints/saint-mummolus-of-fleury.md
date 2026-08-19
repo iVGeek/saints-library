@@ -1,7 +1,6 @@
 ---
 name: "Saint Mummolus of Fleury"
 honorific: Saint
-title: "Saint Mummolus of Fleury"
 summary: "Benedictine monk. Abbot at Fleury Abbey. Brought relics of Saint Benedict and Saint Scholastica to Fleury; the abbey was eventually known as Saint-Benoît-sur-Loire because of the relics."
 searchAliases:
   - "Mummolo"

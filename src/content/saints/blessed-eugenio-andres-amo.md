@@ -1,7 +1,6 @@
 ---
 name: "Blessed Eugenio Andrés Amo"
 honorific: Blessed
-title: "Blessed Eugenio Andrés Amo"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1862
 deathYear: 1936

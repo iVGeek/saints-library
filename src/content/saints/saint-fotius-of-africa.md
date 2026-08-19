@@ -1,7 +1,6 @@
 ---
 name: "Saint Fotius of Africa"
 honorific: Saint
-title: "Saint Fotius of Africa"
 summary: "Martyr."
 searchAliases:
   - "Focius"

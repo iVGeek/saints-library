@@ -2,7 +2,6 @@
 name: "Blessed Alfonso López Morales"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Las_siete_partidas_del_rey_Don_Alfonso_el_Sabio_%281807%29.djvu/page1-960px-Las_siete_partidas_del_rey_Don_Alfonso_el_Sabio_%281807%29.djvu.jpg"
 honorific: Blessed
-title: "Blessed Alfonso López Morales"
 summary: "Priest of the diocese of Córdoba, Spain, serving as parish priest in the Santa Eufemia community. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936

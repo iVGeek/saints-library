@@ -1,7 +1,6 @@
 ---
 name: "Blessed Fernando Salinas Romeo"
 honorific: Blessed
-title: "Blessed Fernando Salinas Romeo"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936

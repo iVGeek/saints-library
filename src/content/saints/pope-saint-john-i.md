@@ -1,7 +1,6 @@
 ---
 name: "Pope Saint John I"
 honorific: Saint
-title: "Pope Saint John I"
 summary: "Priest in Rome. Elected 53rd pope in 523. Italy's ruler, Theodoric the Goth, was an Arian, and for a while he let Catholics alone, but in later life he became suspicious of everyone, imagining conspiracies and attempts to seize his throne. He tried to involve Pope John in his pol"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg/960px-Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg"
 deathYear: 526

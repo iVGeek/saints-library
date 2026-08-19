@@ -1,7 +1,6 @@
 ---
 name: "Blessed François Varheilhe-Duteil"
 honorific: Blessed
-title: "Blessed François Varheilhe-Duteil"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1734
 deathYear: 1792

@@ -1,7 +1,6 @@
 ---
 name: "Saint Flora of Cordoba"
 honorific: Saint
-title: "Saint Flora of Cordoba"
 summary: "Born to Muslim parents. She and her mother converted to Christianity - Flora was raised Christian, her brother Muslim. She was often abused at home for her faith. She took a private vow of chastity, and ministered to Christian prisoners. When her parents announced an arranged mar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Flora-of-Cordoba.jpg"
 deathYear: 851

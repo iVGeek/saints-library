@@ -1,7 +1,6 @@
 ---
 name: "Blessed Gerlando d'Alemagna"
 honorific: Blessed
-title: "Blessed Gerlando d'Alemagna"
 summary: "A knight of the Order of Hospitallers of Saint John of Jerusalem (Knights of Malta), Gerlando lived in the small church of Madonna del Tempio near Caltagirone, Italy where he dedicated himself to protecting the church and town, to the care of widows and orphans, and to personal p"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerlando-dAlemagna.jpg"
 deathYear: 1279

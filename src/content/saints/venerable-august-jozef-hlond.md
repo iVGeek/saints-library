@@ -1,7 +1,6 @@
 ---
 name: "Venerable August Józef Hlond"
 honorific: Venerable
-title: "Venerable August Józef Hlond"
 summary: "Ordained a priest of the Salesians of Don Bosco on 23 September 1905. Chosen bishop of Katowice, Poland on 14 December 1925 by Pope Pius XI. Chosen archbishop of Gniezno e Poznan, Poland in 24 June 1926. Elevated to Cardinal-Priest of Santa Maria della Pace on 20 June 1927 by Pop"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-August-Jozef-Hlond.jpg"
 birthYear: 1881

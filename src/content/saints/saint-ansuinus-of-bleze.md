@@ -1,7 +1,6 @@
 ---
 name: "Saint Ansuinus of Bèze"
 honorific: Saint
-title: "Saint Ansuinus of Bèze"
 summary: "Priest. Martyred defending the altar at the Benedictine monastery of Saint Peter and Paul at Bèze, Côte-d'Or, France against Norman invaders."
 searchAliases:
   - "Ansuino"

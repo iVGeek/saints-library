@@ -1,7 +1,6 @@
 ---
 name: "Saint Theon of Africa"
 honorific: Saint
-title: "Saint Theon of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Theonus"

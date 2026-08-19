@@ -1,7 +1,6 @@
 ---
 name: "Saint Simeon Stylites"
 honorific: Saint
-title: "Saint Simeon Stylites"
 summary: "Son of a poor shepherd, and worked as a shepherd as a child. A would-be monk at age 13, he was turned away from monasteries because his severe self-imposed penances. Tired of the gossip and arguments from fellow religious, he lived as a  hermit on top of a column, occasionally pr"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Plaque_de_Saint-Simeon_%28Louvre%2C_Bj_2180%29_%28cropped%29.jpg/960px-Plaque_de_Saint-Simeon_%28Louvre%2C_Bj_2180%29_%28cropped%29.jpg"
 searchAliases:

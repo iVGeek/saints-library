@@ -1,7 +1,6 @@
 ---
 name: "Blessed Francisco Pérez Godoy"
 honorific: Blessed
-title: "Blessed Francisco Pérez Godoy"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1540
 deathYear: 1570

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Manuel Borrajo Míguez"
 honorific: Blessed
-title: "Blessed Manuel Borrajo Míguez"
 summary: "Professed cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936

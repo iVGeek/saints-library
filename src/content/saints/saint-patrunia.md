@@ -1,7 +1,6 @@
 ---
 name: "Saint Patrunia"
 honorific: Saint
-title: "Saint Patrunia"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 7

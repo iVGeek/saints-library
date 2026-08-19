@@ -1,7 +1,6 @@
 ---
 name: "Saint Pompilius Maria Pirrotti"
 honorific: Venerable
-title: "Saint Pompilius Maria Pirrotti"
 summary: "The sixth of eleven children born to Jerome and Donna Pirrotti; his father was a well-known lawyer. In his mid-teens, Domenico felt a call to religious life, and on 2 February 1727 he joined the Piarists, taking the name Pompilio Maria of Saint Nicholas; he made his solemn profes"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pompilius-Maria-Pirrotti.jpg"
 searchAliases:

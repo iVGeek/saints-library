@@ -1,7 +1,6 @@
 ---
 name: "Saint Mutien Marie Wiaux"
 honorific: Venerable
-title: "Saint Mutien Marie Wiaux"
 summary: "Third of six children of a blacksmith whose family was noted for piety. Louis attended a small country school, and then helped in his father's shop. He joined the Brothers of Christian Schools on 7 April 1852 at age 11, taking the name Mutien Marie, and beginning his novitiate in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mutien-Marie-Wiaux.jpg"
 searchAliases:

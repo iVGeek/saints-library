@@ -1,7 +1,6 @@
 ---
 name: "Blessed Lorenzo Atanasio Rodríguez Cortés"
 honorific: Blessed
-title: "Blessed Lorenzo Atanasio Rodríguez Cortés"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Casturea community. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936

@@ -1,7 +1,6 @@
 ---
 name: "Saint Gerald of Beziers"
 honorific: Saint
-title: "Saint Gerald of Beziers"
 summary: "Augustinian canon regular. Deacon in 1094; ordained to the priesthood in 1101. Abbot of Cassan Abbey near Roujan, France in 1105. Bishop of Beziers, France in 1121. Spent all his diocese's revenues to care for the poor."
 searchAliases:
   - "Gerald of Puissalicon"

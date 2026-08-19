@@ -1,7 +1,6 @@
 ---
 name: "Saint Charles of Sezze"
 honorific: Venerable
-title: "Saint Charles of Sezze"
 summary: "Born to a poor but pious rural family, he worked as a shepherd as a child. His family encouraged his vocation to the priesthood, but Charles was a terrible student, barely able to read or write, and had no hope of success in seminary. Franciscan lay brother at age 22 at Naziano,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antonio_Sicurezza_saint_Charles_from_Sezze.jpg/960px-Antonio_Sicurezza_saint_Charles_from_Sezze.jpg"
 searchAliases:

@@ -1,7 +1,6 @@
 ---
 name: "Venerable Fernanda Riva"
 honorific: Venerable
-title: "Venerable Fernanda Riva"
 summary: "Canossian nun."
 birthYear: 1920
 deathYear: 1956

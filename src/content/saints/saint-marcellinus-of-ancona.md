@@ -1,7 +1,6 @@
 ---
 name: "Saint Marcellinus of Ancona"
 honorific: Saint
-title: "Saint Marcellinus of Ancona"
 summary: "Born to the nobility. Bishop of Ancona, Italy c.550. Mentioned in the writings of Saint Gregory the Great."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marcellinus-of-Ancona.jpg"
 searchAliases:

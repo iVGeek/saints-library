@@ -1,7 +1,6 @@
 ---
 name: "Saint Micae Nguyen Huy My"
 honorific: Venerable
-title: "Saint Micae Nguyen Huy My"
 summary: "Lifelong layman in the apostolic vicariate of West Tonkin. One of the Martyrs of Vietnam."
 birthYear: 1804
 deathYear: 1838

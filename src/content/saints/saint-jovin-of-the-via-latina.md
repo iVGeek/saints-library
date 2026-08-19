@@ -1,7 +1,6 @@
 ---
 name: "Saint Jovin of the Via Latina"
 honorific: Saint
-title: "Saint Jovin of the Via Latina"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Giovino"

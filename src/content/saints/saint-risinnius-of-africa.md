@@ -1,7 +1,6 @@
 ---
 name: "Saint Risinnius of Africa"
 honorific: Saint
-title: "Saint Risinnius of Africa"
 summary: "Martyr."
 died: "in Africa, date and location unknown"
 deathPlace: "date and location unknown"

@@ -1,7 +1,6 @@
 ---
 name: "Blessed Sebastián Calvo Martínez"
 honorific: Blessed
-title: "Blessed Sebastián Calvo Martínez"
 summary: "Joined the Claretians in 1915. Studied in Barbastro and Cervera, Spain. Priest, ordained in July 1928. Noted teacher and preacher in Calatayud, Aranda de Duero and Barbastro. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastián-Calvo-Martínez.jpg"
 birthYear: 1903

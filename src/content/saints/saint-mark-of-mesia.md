@@ -1,7 +1,6 @@
 ---
 name: "Saint Mark of Mesia"
 honorific: Saint
-title: "Saint Mark of Mesia"
 summary: "Martyr of the early Church for refusing to sacrifice to idols."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mark-of-Mesia.jpg"
 died: "beheaded in Mesia (in modern Spain)"

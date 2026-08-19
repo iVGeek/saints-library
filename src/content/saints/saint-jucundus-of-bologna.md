@@ -1,7 +1,6 @@
 ---
 name: "Saint Jucundus of Bologna"
 honorific: Saint
-title: "Saint Jucundus of Bologna"
 summary: "Bishop of Bologna, Italy."
 searchAliases:
   - "Giocondo"

@@ -1,7 +1,6 @@
 ---
 name: "Saint Peter of Cordoba"
 honorific: Saint
-title: "Saint Peter of Cordoba"
 summary: "Priest in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
 deathYear: 851
 born: "Astigi (modern Ecija), Seville, Spain"

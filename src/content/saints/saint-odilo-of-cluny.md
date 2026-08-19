@@ -1,7 +1,6 @@
 ---
 name: "Saint Odilo of Cluny"
 honorific: Saint
-title: "Saint Odilo of Cluny"
 summary: "Born to the French nobility, the son of Berald de Mercoeur and Gerberga who became a nun when widowed. Cured of unnamed malady in childhood by the intervention of Our Lady. Monk at Cluny at age 29. Abbot at Cluny in 994 at age 32 until his death. Promoted the Truce of God whereby"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Troyes_%2810%29_Basilique_Saint-Urbain_Statue_de_Saint-Odilon.jpg"
 searchAliases:

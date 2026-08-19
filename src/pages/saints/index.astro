@@ -202,7 +202,9 @@ const PAGE_SIZE = 50;
               type="search"
               placeholder="Search by name, alias, patron, or cause…"
               class="w-full rounded-sm border border-gold-600/40 bg-ivory px-10 py-2.5 font-body text-lg text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none"
+              autocomplete="off"
             />
+            <div id="ac-dropdown" class="absolute left-0 right-0 top-full z-30 mt-1 hidden max-h-80 overflow-y-auto rounded-lg border border-gold-600/40 bg-ivory shadow-deep"></div>
           </div>
           <label class="flex items-center gap-2 font-body text-ink-600">
             Sort
@@ -510,13 +512,75 @@ const PAGE_SIZE = 50;
       applyFilters();
     }
 
+    var acDropdown = document.getElementById('ac-dropdown');
+    var acHighlight = -1;
+
+    function renderAutocomplete(q) {
+      if (!q || q.length < 2) { acDropdown.classList.add('hidden'); return; }
+      var lq = q.toLowerCase();
+      var matches = [];
+      for (var i = 0; i < items.length && matches.length < 12; i++) {
+        var it = items[i];
+        var hay = (it.dataset.search || '');
+        if (hay.indexOf(lq) !== -1) {
+          var nameEl = it.querySelector('.card-name, h3, .font-heading');
+          var name = nameEl ? nameEl.textContent.trim() : '';
+          var status = it.dataset.status || '';
+          var date = it.dataset.date || '';
+          var slug = (it.querySelector('a') || {}).getAttribute?.('href') || '#';
+          matches.push({ name: name, status: status, date: date, slug: slug, hay: hay });
+        }
+      }
+      if (matches.length === 0) { acDropdown.classList.add('hidden'); return; }
+      acDropdown.innerHTML = matches.map(function (m, idx) {
+        var dot = m.status === 'Saint' ? 'bg-gold-500' : m.status === 'Blessed' ? 'bg-forest-600' : 'bg-navy-500';
+        return '<a href="' + m.slug + '" class="flex items-center gap-3 px-4 py-2.5 transition-colors hover:bg-gold-600/10" data-ac-idx="' + idx + '">' +
+          '<span class="h-2 w-2 shrink-0 rounded-full ' + dot + '"></span>' +
+          '<span class="min-w-0 flex-1 truncate font-heading text-sm font-semibold text-navy-900">' + esc(m.name) + '</span>' +
+          '<span class="shrink-0 font-body text-xs text-ink-500">' + esc(m.date) + '</span>' +
+        '</a>';
+      }).join('');
+      acDropdown.classList.remove('hidden');
+      acHighlight = -1;
+    }
+
+    function esc(s) {
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+
     search.addEventListener('input', function () {
       var q = search.value.trim().toLowerCase();
+      renderAutocomplete(search.value.trim());
       if (q) filters['_search'] = new Set([q]);
       else delete filters['_search'];
       currentPage = 1;
       syncURL();
       applyFilters();
+    });
+
+    search.addEventListener('keydown', function (e) {
+      var links = acDropdown.querySelectorAll('a[data-ac-idx]');
+      if (acDropdown.classList.contains('hidden') || links.length === 0) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        acHighlight = Math.min(acHighlight + 1, links.length - 1);
+        links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
+        links[acHighlight].scrollIntoView({ block: 'nearest' });
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        acHighlight = Math.max(acHighlight - 1, 0);
+        links.forEach(function (l, i) { l.style.background = i === acHighlight ? 'rgba(180,140,60,0.1)' : ''; });
+        links[acHighlight].scrollIntoView({ block: 'nearest' });
+      } else if (e.key === 'Enter' && acHighlight >= 0) {
+        e.preventDefault();
+        links[acHighlight].click();
+      } else if (e.key === 'Escape') {
+        acDropdown.classList.add('hidden');
+      }
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!e.target.closest('#ac-dropdown') && e.target !== search) acDropdown.classList.add('hidden');
     });
     sortEl.addEventListener('change', function () {
       var params = new URLSearchParams(location.search);

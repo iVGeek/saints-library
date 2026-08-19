@@ -14,7 +14,7 @@ interface NovenaEntry {
   prayers: { name: string; kind?: string; text: string; source?: string }[];
   honorific: string;
   patronage: string[];
-  region: string;
+  region?: string;
 }
 
 const novenaEntries: NovenaEntry[] = [];

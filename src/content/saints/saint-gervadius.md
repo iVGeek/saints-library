@@ -1,7 +1,7 @@
 ---
 name: "Saint Gervadius"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Gervadius"
 summary: "Hermit at Kenedor and Holyman Head in Scotland, where he lived in a cave. He would light torches at night to warn ships away from the dangerous rocks along the shore. His cave survived into the 19th century, being a place of pilgrimage before being quarried out. Legend says that"
 searchAliases:
   - "Garnat"

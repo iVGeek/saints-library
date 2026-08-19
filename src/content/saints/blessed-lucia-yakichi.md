@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia Yakichi"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Lucia Yakichi"
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ludovicus Yakichi; father of Blessed Andreas Yakichi and Blessed Franciscus Yakichi. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg"
 deathYear: 1622
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

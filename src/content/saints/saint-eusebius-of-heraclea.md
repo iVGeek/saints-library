@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusebius of Heraclea"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Eusebius of Heraclea"
 summary: "Priest in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all scriptures; he refused. Martyr."
 deathYear: 304
 died: "burned at the stake in 304 in Adrianople (modern Edirne, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 martyr: true

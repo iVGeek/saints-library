@@ -1,7 +1,7 @@
 ---
 name: "Blessed Symforian Ducki"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Symforian Ducki"
 summary: "Son of Julian and Marianna Lenardt; his father was a locksmith. Franciscan Capuchin friar, entering the community on 3 January 1918, taking the name Antonio; his religious name is later changed to Symforian and makes his final vows on 22 May 1925. He served his community as cook."
 image: "http://catholicsaints.info/wp-content/uploads/Symforian-Ducki.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

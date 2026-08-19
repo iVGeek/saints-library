@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alerinus de Rambaldis"
 honorific: Blessed
-title: "Bishop, Pope"
+title: "Blessed Alerinus de Rambaldis"
 summary: " Following a vision, Bishop Alerino redi Born to the Italian nobility, from his youth Alerinus was drawn to religious life. He became a canon of the cathedral of Alba, Italy, and was chosen bishop of Alba by Pope Martin V on 10 September 1419; he led the diocese for over 36 years."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alerino-Rembaudi.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

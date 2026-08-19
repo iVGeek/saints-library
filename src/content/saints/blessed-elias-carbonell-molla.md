@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elías Carbonell Molla"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Elías Carbonell Molla"
 summary: "Son of a physician; brother of Blessed Juan Carbonell Molla. Entered the seminary in Valencia, Spain in 1890. Ordained a priest in the archdiocese of Valencia in 1893. Co-adjutor of El Salvador. Hospital and asylum director. Noted preacher. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Elías-Carbonell-Molla.jpg"
 birthYear: 1869
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

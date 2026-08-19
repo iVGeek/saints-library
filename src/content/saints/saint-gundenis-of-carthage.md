@@ -1,7 +1,7 @@
 ---
 name: "Saint Gundenis of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gundenis of Carthage"
 summary: "Maiden martyred in the persecutions of Septimus Severus."
 searchAliases:
   - "Gundenes"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

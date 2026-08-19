@@ -1,7 +1,7 @@
 ---
 name: "Blessed Narcis Basté y Basté"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Narcis Basté y Basté"
 summary: "Joined the Jesuits in 1890. Priest. Director of the Foundation for Youth Workers in Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Narcis-Basté-y-Basté.jpg"
 birthYear: 1866
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

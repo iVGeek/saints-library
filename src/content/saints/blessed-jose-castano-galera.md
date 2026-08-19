@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Castaño Galera"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Castaño Galera"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Castano-Galera.jpg"
 birthYear: 1870
@@ -16,9 +16,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

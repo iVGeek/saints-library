@@ -1,7 +1,7 @@
 ---
 name: "Saint Kentigern"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit, Royalty, Missionary, Confessor"
+title: "Saint Kentigern"
 summary: "Grandson of the British prince Lothus; son of Saint Theneva. Hermit. Monk. Missionary to Scotland, beginning at Cathures. Bishop of the Strathclyde Britons in the area of modern Glasgow in 540. He taught and led there for 13 years, living in great austerity. Exiled in 553 during"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Kentigern-1.jpg"
 searchAliases:
@@ -32,7 +32,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

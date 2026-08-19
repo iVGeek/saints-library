@@ -1,7 +1,7 @@
 ---
 name: "Blessed Melchor Rodríguez Villastrigo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Melchor Rodríguez Villastrigo"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Melchor-Rodriguez-Villastrigo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

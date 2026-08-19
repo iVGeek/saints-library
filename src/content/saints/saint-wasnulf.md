@@ -1,7 +1,7 @@
 ---
 name: "Saint Wasnulf"
 honorific: Saint
-title: "Priest, Monk, Missionary"
+title: "Saint Wasnulf"
 summary: "Seventh-century priest and noted preachers. Missionary to the Hainault region (along the border of modern Belgium and France) at the invitation of Count Vincent of Hainault. Miracle worker."
 searchAliases:
   - "Vasnolfo"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dio of Constantinople"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Dio of Constantinople"
 summary: "Ordained a priest in Antioch where he founded a monastery and lived there as a brother monk. With a great reputation for holiness, c.390 on land in Constantinople given him by emperor Theodosius, he founded a monastery where served as archimandrite. At one point he jabbed his abb"
 searchAliases:
   - "Dio Thaumaturg"

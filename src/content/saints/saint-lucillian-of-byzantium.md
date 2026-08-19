@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucillian of Byzantium"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lucillian of Byzantium"
 summary: "Converted in his old age. Martyr."
 searchAliases:
   - "Lucillian of Bysants"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard of Roquefort"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Bernard of Roquefort"
 summary: "Dominican. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs of Toulouse."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Roquefort.jpg"
 deathYear: 1242
@@ -13,9 +13,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

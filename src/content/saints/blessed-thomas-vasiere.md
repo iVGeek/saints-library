@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Vasière"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Thomas Vasière"
 summary: "Mercedarian friar at the convent of Santa Maria in Tolosa, Spain. Ransomed 114 Christians from Muslim slavery in north Africa, preaching Christianity as he made his way to them and back."
 born: "French"
 died: "at the convent of Santa Maria in Tolosa, Spain of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Venantius of Spalato"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Venantius of Spalato"
 summary: "Bishop in the Dalmatia region of modern Croatia. Martyred with several Christian companions."
 searchAliases:
   - "Venantius of Split"
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 religiousOrder: "Franciscan"

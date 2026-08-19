@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Cambiano"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Peter Cambiano"
 summary: "Peter's father was a city councillor, his mother was from a noble family, and the boy was raised in a pious household. He received a good education, and was early drawn to religious life, with a personal devotion to Our Lady of the Rosary. Joined the Dominicans in Piedmont, Italy"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Cambiano.jpg"
 searchAliases:
@@ -21,11 +21,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

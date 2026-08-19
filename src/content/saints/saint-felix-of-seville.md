@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Seville"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Felix of Seville"
 summary: "Deacon. Martyr. No other information has survived."
 searchAliases:
   - "Felice"
@@ -13,7 +13,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

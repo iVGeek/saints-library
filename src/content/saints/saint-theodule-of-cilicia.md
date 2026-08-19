@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodule of Cilicia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theodule of Cilicia"
 summary: "Elderly servant of governor Firmilian. Martyr."
 deathYear: 309
 died: "309 in Cilicia, Asia Minor (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

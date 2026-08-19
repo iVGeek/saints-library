@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dionisius Saeki Zenka"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Dionisius Saeki Zenka"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Father of Blessed Ludovicus Saeki Kizo. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"
@@ -14,9 +14,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

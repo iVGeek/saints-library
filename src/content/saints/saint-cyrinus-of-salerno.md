@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrinus of Salerno"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Cyrinus of Salerno"
 summary: "Bishop. Martyr. No other information has surived."
 searchAliases:
   - "Cirino"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

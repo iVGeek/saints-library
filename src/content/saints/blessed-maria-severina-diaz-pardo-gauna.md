@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Severina Díaz-Pardo Gauna"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed María Severina Díaz-Pardo Gauna"
 summary: "Educated in a Carmelite school, Maria Severina's father was a member of the Society of Saint Vincent de Paul, and through them she encountered the Daughters of Charity; when she began to feel a call to religious life, she joined the Daughters in the Archdiocese of Madrid, Spain."
 image: "https://catholicsaints.info/wp-content/uploads/95966_MSeverinaDiazPardo.jpg"
 birthYear: 1895
@@ -16,10 +16,8 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

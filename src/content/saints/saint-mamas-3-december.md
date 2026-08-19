@@ -1,14 +1,13 @@
 ---
 name: "Saint Mamas"
 honorific: Saint
-title: "Martyr"
+title: "Saint Mamas"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Gwon Sang-yeon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Iacobus Gwon Sang-yeon"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1751
 deathYear: 1791
@@ -14,9 +14,7 @@ feastDay:
   month: 12
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

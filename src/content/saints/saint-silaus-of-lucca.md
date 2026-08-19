@@ -1,7 +1,7 @@
 ---
 name: "Saint Silaus of Lucca"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Silaus of Lucca"
 summary: "Monk. Abbot of Saint Brendan's Abbey. Bishop. In later life he moved to Italy where he was known for his charity to the poor."
 searchAliases:
   - "Silan"
@@ -25,7 +25,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: false
 ---

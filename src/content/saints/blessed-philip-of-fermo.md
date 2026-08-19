@@ -1,7 +1,7 @@
 ---
 name: "Blessed Philip of Fermo"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Philip of Fermo"
 summary: " Philip was never formally beatified; his memorial was only within the Apostolini, and w One of the first spiritual students of Blessed Placido of Recanati in the 15th century. Member of the Apostolini friars. He founded a convent in Macerata, Italy, where he lived for many years."
 searchAliases:
   - "Filippo"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

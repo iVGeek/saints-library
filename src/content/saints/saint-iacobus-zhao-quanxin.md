@@ -1,7 +1,7 @@
 ---
 name: "Saint Iacobus Zhao Quanxin"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Iacobus Zhao Quanxin"
 summary: "Married layman in the apostolic vicariate of Northern Shanxi, China. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Yage"
@@ -14,9 +14,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

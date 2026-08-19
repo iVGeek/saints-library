@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthêô Nguyen Van Ðac Phuong"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Matthêô Nguyen Van Ðac Phuong"
 summary: "Married layman catechist in the apostolic vicariate of North Cochinchina. Tortured and martyred in the persecutions of emperor Tu-Duc."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 5
   day: 25
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

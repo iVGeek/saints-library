@@ -1,7 +1,7 @@
 ---
 name: "Saint Procopius of Taormina"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Procopius of Taormina"
 summary: "Bishop of Taormina, Sicily, Italy. Murdered along with hundreds of other Christians by invading Muslim Berbers. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Procopius-of-Taormina.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

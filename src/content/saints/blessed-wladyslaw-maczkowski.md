@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wladyslaw Maczkowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Wladyslaw Maczkowski"
 summary: "Priest in the Archdiocese of Gniezno, Poland, serving in the parish of Lubowo. Arrested on 26 August 1940 by occupying Nazis, he was imprisoned in the Dachau concentration camp where he ministered to fellow prisoners and was abused by guards for nearly two years. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Wladyslaw-Maczkowski.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Goscelinus of Toul"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Goscelinus of Toul"
 summary: "Bishop of Toul, Lotharingia (in modern France). Promoted monastic institutions in his diocese, and monastic discipline on those houses."
 searchAliases:
   - "Gauzlino"

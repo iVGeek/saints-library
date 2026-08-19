@@ -1,7 +1,7 @@
 ---
 name: "Saint David Roldán-Lara"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Saint David Roldán-Lara"
 summary: "His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to help support his family by working as a miner; never returned to seminary, and remained a layman. Worked with Saint Luis Batiz in his local parish. Joined Catholic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-Roldan-Lara.jpg"
 birthYear: 1907
@@ -16,10 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

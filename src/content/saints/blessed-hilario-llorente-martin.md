@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hilario Llorente Martín"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Hilario Llorente Martín"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hilario-Llorente-Martín.jpg"
 birthYear: 1911
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

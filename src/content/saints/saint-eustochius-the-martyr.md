@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustochius the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eustochius the Martyr"
 summary: "Martyr."
 deathYear: 362
 died: "dragged by wild horses and then burned at the stake in 362"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

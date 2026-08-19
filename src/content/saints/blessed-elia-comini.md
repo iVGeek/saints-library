@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elia Comini"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Elia Comini"
 summary: "His father, Claudio, was a carpenter, and his mother Emma a dressmaker. In 1914, his family moved to the Casetta area of Grizzana, Italy, and Elia was there educated by the Salesians of Don Bosco. When he was old enough, the boy joined the Salesians himself, making his first prof"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elia-Comini.jpg"
 birthYear: 1910
@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

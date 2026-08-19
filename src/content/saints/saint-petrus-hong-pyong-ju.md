@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Hong Pyong-Ju"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Hong Pyong-Ju"
 summary: "Lay catechist in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 31
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

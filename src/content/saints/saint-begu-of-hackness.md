@@ -1,7 +1,7 @@
 ---
 name: "Saint Begu of Hackness"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Begu of Hackness"
 summary: "Nun at Hackness, Yorkshire, England."
 deathYear: 660
 died: "660"

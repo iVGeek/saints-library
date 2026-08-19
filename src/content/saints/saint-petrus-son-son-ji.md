@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Son Son-Ji"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Petrus Son Son-Ji"
 summary: "Married layman in the apostolic vicariate of Korea. Catechist. Martyr."
 searchAliases:
   - "Peteuro Son Seon-Ji"
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

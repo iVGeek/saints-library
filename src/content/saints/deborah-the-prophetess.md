@@ -1,7 +1,7 @@
 ---
 name: "Deborah the Prophetess"
 honorific: Saint
-title: "Monk, Royalty, Soldier"
+title: "Deborah the Prophetess"
 summary: "Old Testament prophetess and judge. Married to Lapidoth. See the passage below from Judges that talks about her."
 searchAliases:
   - "Debbora the Prophetess"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
   - Soldier
 martyr: false
 ---

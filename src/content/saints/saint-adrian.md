@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrian of Numidia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Adrian of Numidia"
 summary: "Martyred in the persecution of Maximian Herculeus."
 deathYear: 290
 died: "c.290"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

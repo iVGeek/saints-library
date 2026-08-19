@@ -1,7 +1,7 @@
 ---
 name: "Saint Zacchaeus of Jerusalem"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Zacchaeus of Jerusalem"
 summary: "Fourth bishop of Jerusalem."
 searchAliases:
   - "Zacharius"

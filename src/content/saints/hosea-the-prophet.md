@@ -1,7 +1,7 @@
 ---
 name: "Hosea the Prophet"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Hosea the Prophet"
 summary: "Eighth century BC Old Testament prophet. His message concerned the destruction of his compatriots in Samaria."
 image: "http://catholicsaints.info/wp-content/uploads/img-Hosea-the-Prophet.jpg"
 searchAliases:
@@ -13,9 +13,8 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Eighth century BC Old Testament prophet. His message concerned the destruction of his compatriots in Samaria.

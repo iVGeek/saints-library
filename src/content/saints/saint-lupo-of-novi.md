@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupo of Novi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Lupo of Novi"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lupo-of-Novi.jpg"
 searchAliases:
@@ -13,8 +13,7 @@ feastDay:
   month: 8
   day: 23
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

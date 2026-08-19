@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonizzella Cacciaconti"
 honorific: Blessed
-title: "Royalty"
+title: "Blessed Bonizzella Cacciaconti"
 summary: "Born to the Italian nobility, the daughter of Ildebrandino Cacciaconti. Married to Naddo di Benuccio Piccolomini, a rich nobleman from Corsignano, Italy. Widowed, she withdrew from worldly life to her home in Belsedere, Italy, and went out each day to care for the poor and encour"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bonizzella-Cacciaconti.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

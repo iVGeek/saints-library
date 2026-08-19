@@ -1,7 +1,7 @@
 ---
 name: "Saint Felanus of Saint Andrew"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Felanus of Saint Andrew"
 summary: "Hermit. Monk. Abbot of the monastery of Saint Andrew in Scotland."
 deathYear: 710
 died: "c.710 in Scotland of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul Josef Nardini"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope"
+title: "Blessed Paul Josef Nardini"
 summary: "The son of Margherita Lichtenberger, a single mother; at age two he was adopted by his aunt, Barbara Nardini, and grew up as her son. An exceptional student, Paul studied in Speyer and Munich in Germany, graduating in 1846; his graduate thesis concerned “Demons in the New Testame"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Josef-Nardini.jpg"
 birthYear: 1821
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

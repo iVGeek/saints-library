@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Michel Langevin"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Michel Langevin"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1731
 deathYear: 1793
@@ -15,9 +15,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

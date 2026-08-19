@@ -1,7 +1,7 @@
 ---
 name: "Saint Salomon of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Salomon of Cordoba"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Salomone"
@@ -15,7 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

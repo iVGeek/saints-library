@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovicus Shinzaburo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ludovicus Shinzaburo"
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 birthYear: 1601
 deathYear: 1627
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

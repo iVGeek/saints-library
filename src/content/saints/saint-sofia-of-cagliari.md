@@ -1,7 +1,7 @@
 ---
 name: "Saint Sofia of Cagliari"
 honorific: Saint
-title: "Martyr"
+title: "Saint Sofia of Cagliari"
 summary: "Born to the Imperial Roman nobility. At age 15 she publicly and stubbornly proclaimed her Christian faith during the persecutions of Diocletian. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Sofia-of-Cagliari.jpg"
 searchAliases:
@@ -20,8 +20,7 @@ feastDay:
   month: 10
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

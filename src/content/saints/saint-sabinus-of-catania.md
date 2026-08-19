@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinus of Catania"
 honorific: Saint
-title: "Bishop, Hermit"
+title: "Saint Sabinus of Catania"
 summary: "Bishop of Catania, Sicily. In later years he resigned to become a hermit."
 deathYear: 760
 died: "c.760"

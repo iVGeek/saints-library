@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasia of Sirmium"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Anastasia of Sirmium"
 summary: " Her name is commemorated in the second Mass of Christmas and the first eucharistic prayer. Nothing is reall Daughter of Saint Fausta of Sirmium. Matron of a noble Roman family. Married to a pagan. Spiritual student of Saint Chrysogonus. Martyred in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Anastasia.jpg"
 deathYear: 304
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

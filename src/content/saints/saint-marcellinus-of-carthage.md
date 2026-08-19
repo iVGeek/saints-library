@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellinus of Carthage"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Marcellinus of Carthage"
 summary: "Married Christian layman and father; tribune and notary in imperial Roman North Africa. Friend of Saint Augustine of Hippo, whom he often contacted for clarification of doctrine and theology, and Saint Jerome. In 411 he chaired the council that tried to bring peace to feuding Cat"
 searchAliases:
   - "Marcelino"
@@ -15,7 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 martyr: true

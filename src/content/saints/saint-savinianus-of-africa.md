@@ -1,7 +1,7 @@
 ---
 name: "Saint Savinianus of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Savinianus of Africa"
 summary: "Martyr."
 searchAliases:
   - "Sabianianus"
@@ -15,8 +15,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

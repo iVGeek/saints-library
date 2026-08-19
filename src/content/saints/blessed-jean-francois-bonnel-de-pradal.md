@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-François Bonnel de Pradal"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-François Bonnel de Pradal"
 summary: "Canon Regular of the Congregation of France priest. One of the Martyrs of September."
 birthYear: 1738
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

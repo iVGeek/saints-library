@@ -1,7 +1,7 @@
 ---
 name: "Saint Imina of Würzburg"
 honorific: Saint
-title: "Bishop, Monk, Religious"
+title: "Saint Imina of Würzburg"
 summary: "Daughter of Duke Hedan II of Thuringia. Donated Marienburg castle in Würzburg, Germany to Bishop Burkhard, and retired from public life to become a nun. Abbess at Karlburg, Franconia."
 searchAliases:
   - "Imma"

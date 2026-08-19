@@ -1,7 +1,7 @@
 ---
 name: "Saint Neoterius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Neoterius of Alexandria"
 summary: "Martyr."
 born: "Egypt"
 region: "Egypt"
@@ -10,7 +10,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

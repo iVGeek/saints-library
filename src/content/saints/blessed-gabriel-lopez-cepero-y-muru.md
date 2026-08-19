@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gabriel López-Cepero y Murú"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Gabriel López-Cepero y Murú"
 summary: "Lifelong layman in the archdiocese of Sevilla, Spain. Married to María Teresa Ovelar Ovelar, with whom he had seven children. A member of the Society of Saint Vincent de Paul and his parish council. Murdered with his brother, Blessed Mariano López-Cepero y Murú in the Spanish Civ"
 birthYear: 1875
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

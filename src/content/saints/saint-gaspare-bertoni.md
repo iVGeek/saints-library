@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaspare Luigi Bertoni"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Soldier, Missionary"
+title: "Saint Gaspare Luigi Bertoni"
 summary: " At h Son of Francis, a wealthy lawyer and notary, and Brunora Ravelli Bertoni, he was raised in a pious family. His beloved sister died when Gaspare was quite young. He was educated at home, then by Jesuits and the Marian Congregation at Saint Sebastian's School in Verona, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bertoni.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

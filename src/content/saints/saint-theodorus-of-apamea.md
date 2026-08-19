@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodorus of Apamea"
 honorific: Saint
-title: "Martyr, Priest, Monk, Confessor"
+title: "Saint Theodorus of Apamea"
 summary: " Strong defender of sacred ima Son of Venerable Jonah the Presbyter. Brother of Saint Theophanes of Nicaea. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule."
 searchAliases:
   - "one of the Grapti from the Greek graptoi = “written upon”"
@@ -20,7 +20,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Confessor

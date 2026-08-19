@@ -1,7 +1,7 @@
 ---
 name: "Saint Rhodopianus the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Rhodopianus the Deacon"
 summary: "Deacon. Martyred in the persecutions of Diocletian."
 died: "in Aphrodisia, Caria, Asia Minor"
 deathPlace: "Caria, Asia Minor"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

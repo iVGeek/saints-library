@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphronius of Autun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Euphronius of Autun"
 summary: "Friend of Saint Lupus of Troyes. Bishop of Autun, France. Founded the first monastery in the diocese, the priory of Saint Symphorian. Attended the Council of Arles in 475. Fought the Arian and Pelagian heresies in his diocese. Built a basilica over the tomb of Saint Symphorian, a"
 searchAliases:
   - "Euphromius"

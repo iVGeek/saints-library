@@ -1,7 +1,7 @@
 ---
 name: "Blessed Narciso Pascual y Pascual"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Narciso Pascual y Pascual"
 summary: "Vincentian monk. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Narciso-Pascual-y-Pascual.jpg"
 birthYear: 1917
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

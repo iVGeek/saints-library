@@ -1,7 +1,7 @@
 ---
 name: "Blessed Álvaro Santos Cejudo Moreno Chocano"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Álvaro Santos Cejudo Moreno Chocano"
 summary: "Married layman in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Álvaro-Santos-Cejudo-Moreno-Chocano.jpg"
 birthYear: 1880
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 17
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

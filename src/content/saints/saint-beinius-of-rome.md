@@ -1,7 +1,7 @@
 ---
 name: "Saint Beinius of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Beinius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Beinio"
@@ -12,8 +12,7 @@ feastDay:
   month: 5
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

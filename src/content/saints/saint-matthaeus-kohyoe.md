@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthaeus Kohyoe"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Matthaeus Kohyoe"
 summary: "Dominican novice and catechist. Martyr."
 searchAliases:
   - "Matthaeus of the Rosary"
@@ -19,9 +19,7 @@ feastDay:
   month: 10
   day: 19
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

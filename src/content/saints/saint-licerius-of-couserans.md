@@ -1,7 +1,7 @@
 ---
 name: "Saint Licerius of Couserans"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Licerius of Couserans"
 summary: "Spiritual student of Saint Faustus of Riez in France. Bishop of Couserans, France in 506. Saved the city of Courserans from Visigoth destruction by prayer."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lizier-deCouserans.jpg"
 searchAliases:

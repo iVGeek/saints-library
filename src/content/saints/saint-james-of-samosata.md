@@ -1,7 +1,7 @@
 ---
 name: "Saint James of Samosata"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint James of Samosata"
 summary: "Convert. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata."
 deathYear: 297
 died: "crucified in 297 at Samosata (an area of modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret the Barefooted"
 honorific: Saint
-title: "Monk"
+title: "Saint Margaret the Barefooted"
 summary: "Born poor. Married at 15 to an Italian gentleman, and abused for years by her husband for her attachment to the Church and her perceived ministry to the poor. She gave up shoes, dressed and appeared as a beggar to better associate herself with the poor. Widowed."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Margaret-the-Barefooted-1.jpg"
 searchAliases:

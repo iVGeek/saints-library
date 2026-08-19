@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Sánchez Barba"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pedro Sánchez Barba"
 summary: "Priest in the diocese of Cartagena, Spain. Member of the Secular Franciscans. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

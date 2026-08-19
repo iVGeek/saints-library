@@ -1,7 +1,7 @@
 ---
 name: "Blessed Élisabeth Eppinger"
 honorific: Blessed
-title: "Bishop, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Élisabeth Eppinger"
 summary: "Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the first of a series of visions, including of Jesus Christ. The combination led her to her belief that suffering could block a person from experiencing God's love,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Élisabeth-Eppinger.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 patronage:
   - "Sisters of the Holy Redeemer"
 martyr: false

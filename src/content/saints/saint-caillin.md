@@ -1,7 +1,7 @@
 ---
 name: "Saint Caillin of Ferns"
 honorific: Saint
-title: "Monk"
+title: "Saint Caillin of Ferns"
 summary: "Seventh century spiritual student of Saint Aidan of Ferns in Ireland. Legend says that he turned a group of hostile Druids into stone."
 region: "Ireland"
 feastDay:

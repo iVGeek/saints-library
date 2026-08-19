@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Ramón Morín Ramos"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Juan Ramón Morín Ramos"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Matías"
@@ -17,9 +17,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

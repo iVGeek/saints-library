@@ -1,7 +1,7 @@
 ---
 name: "Saint Balin"
 honorific: Saint
-title: "Monk"
+title: "Saint Balin"
 summary: "Born to the 7th century English nobility. Brother of Saint Gerald. Worked with Saint Colman of Lindisfarne, and travelled with him to Iona, Scotland. With his brothers, he later settled to live as a monk at Tecksaxon (“The House of the Saxons”) near Tuam, Ireland."
 searchAliases:
   - "Balanus"

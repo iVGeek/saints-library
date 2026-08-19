@@ -1,7 +1,7 @@
 ---
 name: "Blessed Félicité Pricet"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Félicité Pricet"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1745
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

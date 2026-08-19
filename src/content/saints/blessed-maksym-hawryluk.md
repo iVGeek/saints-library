@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maksym Hawryluk"
 honorific: Blessed
-title: "Martyr, Pope, Soldier"
+title: "Blessed Maksym Hawryluk"
 summary: "Married layman in the diocese of Podlasie, Poland. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1840
@@ -16,8 +16,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

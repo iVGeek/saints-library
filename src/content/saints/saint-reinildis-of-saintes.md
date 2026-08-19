@@ -1,7 +1,7 @@
 ---
 name: "Saint Reinildis of Saintes"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Hermit, Royalty"
+title: "Saint Reinildis of Saintes"
 summary: "Born to the nobility, the daughter of Saint Amalburga and Duke Witger of Lorraine; sister of Saint Gudula of Brussels and Saint Emebert of Cambrai. She was taught her faith by her mother. As an adult, Reinildis made private vows to devote herself to God, gave her possessions to t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Reinildis-of-Saintes.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "against eye disease"

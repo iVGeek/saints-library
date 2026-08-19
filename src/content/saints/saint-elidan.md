@@ -1,7 +1,7 @@
 ---
 name: "Saint Elidan"
 honorific: Saint
-title: "Religious"
+title: "Saint Elidan"
 summary: "Nun in Llangurig, Denbigshire, Wales."
 searchAliases:
   - "Elidano"

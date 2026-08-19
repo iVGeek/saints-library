@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elias of Bourdeilles"
 honorific: Blessed
-title: "Bishop, Priest, Monk, Cardinal, Royalty, Confessor"
+title: "Blessed Elias of Bourdeilles"
 summary: "Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he authored a report vindicating Saint Joan of Arc. Archbishop of Tours, France in 1468. Cardinal in 1483. Confessor to King Louis XI. Defended the rights of the Church"
 image: "http://catholicsaints.info/wp-content/uploads/Elias-of-Bourdeilles.jpg"
 searchAliases:

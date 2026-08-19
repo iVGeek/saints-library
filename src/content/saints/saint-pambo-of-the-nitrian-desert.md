@@ -1,7 +1,7 @@
 ---
 name: "Saint Pambo of the Nitrian Desert"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Pambo of the Nitrian Desert"
 summary: "Spiritual student of Saint Anthony the Abbot. Worked to establish the eremitical life in the Nitrian Desert in Egypt, and founded monasteries there. He was renowned for his wisdom, and was consulted by many, including Saint Athanasius of Egypt, Saint Melania the Elder, and Saint"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pambo-of-Nitria.jpg"
 searchAliases:

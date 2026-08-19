@@ -1,7 +1,7 @@
 ---
 name: "Saint Botulph of Ikanhoe"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Missionary"
+title: "Saint Botulph of Ikanhoe"
 summary: "Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery of Cnobersburg (Burgh Castle), Suffolk under the direction of its founder, Saint Fursey. When Mercian forces under King Penda invaded the region, the boys were s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Botulph-of-Ikanhoe.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 patronage:

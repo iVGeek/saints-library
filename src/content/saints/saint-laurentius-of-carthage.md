@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurentius of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Laurentius of Carthage"
 summary: "Brother of Saint Laurentinus and Saint Clerina. Uncle of Saint Celerinus. Martyred in the persecutions of Decius."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

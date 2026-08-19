@@ -1,7 +1,7 @@
 ---
 name: "Saint Thethmar"
 honorific: Saint
-title: "Royalty, Missionary"
+title: "Saint Thethmar"
 summary: "Premonstratensian canon. Missionary to the Wends in Germany, working with Saint Vicelin of Oldenburg."
 searchAliases:
   - "Theodemar"
@@ -13,7 +13,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Royalty
   - Missionary
 martyr: false
 ---

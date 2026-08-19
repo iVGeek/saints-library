@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Casany Villarrasa"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Antoni Casany Villarrasa"
 summary: "Member of the Claretians, professed on 15 August 1920. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frederick of Ratisbon"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Frederick of Ratisbon"
 summary: "Augustinian lay-brother at Ratisbon, Germany. Worked for the holy hermits in the area as a carpenter and wood cutter."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-of-Ratisbon.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

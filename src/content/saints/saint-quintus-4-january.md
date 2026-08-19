@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintus of Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Quintus of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Quinctus"
@@ -13,9 +13,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

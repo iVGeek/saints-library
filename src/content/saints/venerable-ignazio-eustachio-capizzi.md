@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ignazio Eustachio Capizzi"
 honorific: Venerable
-title: "Priest, Monk, Pope"
+title: "Venerable Ignazio Eustachio Capizzi"
 summary: "Oratorian priest."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Ignazio-Eustachio-Capizzi.jpg"
 birthYear: 1708
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

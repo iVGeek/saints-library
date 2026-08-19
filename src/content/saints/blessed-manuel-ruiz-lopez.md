@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Ruiz López"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Ruiz López"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

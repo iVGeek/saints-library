@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Maximus of Alexandria"
 summary: "Bishop of Alexandria, Egypt. Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

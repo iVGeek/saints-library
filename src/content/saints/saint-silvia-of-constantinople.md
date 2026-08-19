@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvia of Constantinople"
 honorific: Saint
-title: "Monk"
+title: "Saint Silvia of Constantinople"
 summary: "Considered the most learned woman of her day. Fought against heresies."
 searchAliases:
   - "Silviana"

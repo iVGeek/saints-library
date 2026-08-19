@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ndoc Suma"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Ndoc Suma"
 summary: "Ndoc studied in Albania and at the Jesuit Canisianum College in Innsbruck, Austria. He was ordained a priest in the archdiocese of Shkodrë-Pult, Albania on 21 September 1911. Arrested for his faith by Communists in Shkodrë on 8 December 1946, he was imprisoned at hard labour unti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ndoc-Suma.jpg"
 birthYear: 1887
@@ -16,9 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: true

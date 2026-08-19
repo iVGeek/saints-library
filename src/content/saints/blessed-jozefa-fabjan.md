@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jožefa Fabjan"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Jožefa Fabjan"
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
 searchAliases:
   - "Sister Marija Antonija"
@@ -17,9 +17,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

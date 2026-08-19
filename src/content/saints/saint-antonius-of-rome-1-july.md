@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonius of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Antonius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Antoninus"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ottokar of Tegernsee"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Ottokar of Tegernsee"
 summary: "Brother of Blessed Adalbert of Tegernsee. Count of Tegernsee in Bavaria (in modern Germany). Helped found the Tegernsee Abbey, and entered it as a monk."
 image: "http://catholicsaints.info/wp-content/uploads/Ottokar-of-Tegernsee.jpg"
 searchAliases:

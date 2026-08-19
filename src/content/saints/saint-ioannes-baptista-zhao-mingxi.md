@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Baptista Zhao Mingxi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Baptista Zhao Mingxi"
 summary: "Layman Christian in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion while trying to rescue some women and children from the rebels."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 7
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

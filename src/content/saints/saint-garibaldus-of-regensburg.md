@@ -1,7 +1,7 @@
 ---
 name: "Saint Garibaldus of Regensburg"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Garibaldus of Regensburg"
 summary: "Benedictine monk in Bavaria, Germany. Ordained by Saint Boniface c.740. Abbot of Saint Emmeran monastery at Regensburg, Germany. First bishop of Regensburg."
 searchAliases:
   - "Garibaldus of Ratisbon"

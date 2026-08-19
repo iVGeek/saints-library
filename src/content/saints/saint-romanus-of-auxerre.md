@@ -1,7 +1,7 @@
 ---
 name: "Saint Romanus of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Romanus of Auxerre"
 summary: "Bishop of Auxerre, France."
 deathYear: 564
 died: "c.564"

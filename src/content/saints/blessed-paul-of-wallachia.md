@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul of Wallachia"
 honorific: Blessed
-title: "Martyr, Missionary"
+title: "Blessed Paul of Wallachia"
 summary: "Studied law at the University of Bologna, Italy. A friend of Saint Dominic de Guzman, Paul joined the Dominicans and returned to Hungary to establish the Order there. With a group of approximately 90 others, he travelled to Wallachia, an area of modern Romania, as a missionary to"
 deathYear: 1240
 born: "Hungary"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

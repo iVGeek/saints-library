@@ -1,7 +1,7 @@
 ---
 name: "Saint Aetherius of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Aetherius of Auxerre"
 summary: "Sixth-century bishop of Auxerre, France for 10 years."
 searchAliases:
   - "Ethère"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edmund Daniel"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Edmund Daniel"
 summary: "Jesuit seminarian. One of the Irish Martyrs. First Jesuit martyr in Europe."
 searchAliases:
   - "Edmund MacDaniell"
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Ward"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed William Ward"
 summary: "Raised Protestant. Teacher. Travelled to Spain with a Catholic friend, and there joined the Church. Back home, he converted his mother. Repeatedly imprisoned for professing his faith. At 40 he went to Belgium to study for the priesthood. Ordained. Took the name Father William War"
 searchAliases:
   - "William Webster"
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

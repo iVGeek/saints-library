@@ -1,7 +1,7 @@
 ---
 name: "Saint Justino Orona-Madrigal"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Justino Orona-Madrigal"
 summary: "Priest in the archdiocese of Guadalajara, Mexico. Founded the Hermanas Clarisas del Sagrado Corazón. Martyred in the Mexican Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Justino-Orona-Madrigal.jpg"
 birthYear: 1877
@@ -16,9 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

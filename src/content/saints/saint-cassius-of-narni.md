@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassius of Narni"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Cassius of Narni"
 summary: "Bishop of Narni, Italy. Known to have given away all his possessions and wealth to the poor. Made a yearly pilgrimage to Rome, Italy to celebrate Mass on the feast of Saint Peter and Paul as founders of the Church."
 searchAliases:
   - "Cassio"
@@ -14,10 +14,9 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Narni, Italy. Known to have given away all his possessions and wealth to the poor. Made a yearly pilgrimage to Rome, Italy to celebrate Mass on the feast of Saint Peter and Paul as founders of the Church.

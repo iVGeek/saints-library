@@ -1,7 +1,7 @@
 ---
 name: "Saint Fanchea of Rossory"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Fanchea of Rossory"
 summary: "Sister of Saint Enda of Arran, Saint Lochina, Saint Carecha and Saint Dareima. Nun. Persuaded her brother to become a monk. Noted spiritual director. Founded a convent at Rossory, Fermanagh, Ireland, and served as its first abbess. Because of her key role in the founding of Irish"
 searchAliases:
   - "Faenche"
@@ -21,12 +21,11 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Sister of Saint Enda of Arran, Saint Lochina, Saint Carecha and Saint Dareima. Nun. Persuaded her brother to become a monk. Noted spiritual director. Founded a convent at Rossory, Fermanagh, Ireland, and served as its first abbess. Because of her key role in the founding of Irish monasticism, many fantastic stories grew up around her.

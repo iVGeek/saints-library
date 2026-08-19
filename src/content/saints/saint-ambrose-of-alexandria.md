@@ -1,7 +1,7 @@
 ---
 name: "Saint Ambrose of Alexandria"
 honorific: Saint
-title: "Confessor"
+title: "Saint Ambrose of Alexandria"
 summary: "Rich nobleman of Alexandria, Egypt. Friend and financial supporter of Origen. Imprisoned for his faith in the persecutions of Maximinus but survived. Confessor of the faith."
 deathYear: 250
 died: "c.250 of natural causes"

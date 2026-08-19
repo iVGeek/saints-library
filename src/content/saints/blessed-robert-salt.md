@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Salt"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Robert Salt"
 summary: "Carthusian lay brother. Arrested on 29 May 1535 for refusing to take the Oath of Supremacy. Martyred with five other Carthusian brothers."
 deathYear: 1537
 born: "English"
@@ -13,9 +13,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

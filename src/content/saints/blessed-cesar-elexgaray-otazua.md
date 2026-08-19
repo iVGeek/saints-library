@@ -1,7 +1,7 @@
 ---
 name: "Blessed César Elexgaray Otazua"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed César Elexgaray Otazua"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

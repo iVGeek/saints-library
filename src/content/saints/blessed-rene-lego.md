@@ -1,7 +1,7 @@
 ---
 name: "Blessed René Lego"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed René Lego"
 summary: "Brother of Blessed Jean-Baptiste Lego. Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution for refusing to swear the oath imposed on the clergy by the secular Revolutionary government."
 searchAliases:
   - "Renatus Lego"
@@ -17,9 +17,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

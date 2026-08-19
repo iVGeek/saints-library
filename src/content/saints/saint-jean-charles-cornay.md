@@ -1,7 +1,7 @@
 ---
 name: "Saint Jean-Charles Cornay"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Saint Jean-Charles Cornay"
 summary: "Priest. Member of the Paris Society of Foreign Missions. Missionary to Vietnam, working in Annam. Accused of theft after weapons were planted on his land to discredit him, he was actually arrested for his faith at Ban-ho. He was kept in chains in a cage for three months, routinel"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jean-Charles_Cornay.jpg/960px-Jean-Charles_Cornay.jpg"
 searchAliases:
@@ -22,10 +22,7 @@ feastDay:
   day: 20
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

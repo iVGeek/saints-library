@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurelius of Riditio"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Aurelius of Riditio"
 summary: "When Saint Dionysius of Milan was driven from his diocese by Arians, he fled to Armenia where he was befriended by Aurelius. When Dionysius died, Aurelius took his remains back to Milan where he remained as a friend to Saint Ambrose of Milan. Bishop of Riditio in Armenia."
 birthYear: 400
 deathYear: 475

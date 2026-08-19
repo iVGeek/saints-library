@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isabel Lacaba Andia"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Isabel Lacaba Andia"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María del Carmen"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

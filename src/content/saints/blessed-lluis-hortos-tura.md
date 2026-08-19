@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lluís Hortós Tura"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Lluís Hortós Tura"
 summary: "Member of the Claretians, professed on 15 August 1931. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

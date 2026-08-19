@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus the Martyr"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Marcellus the Martyr"
 summary: "Deacon. Martyred in the persecutions of Valerian."
 deathYear: 257
 died: "beheaded c.257 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

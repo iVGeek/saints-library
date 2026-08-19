@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francesco Gattola"
 honorific: Venerable
-title: "Virgin, Priest, Pope"
+title: "Venerable Francesco Gattola"
 summary: "Priest in the archdiocese of Naples, Italy. Founded the Daughters of the Most Holy Immaculate Virgin of Lourdes."
 birthYear: 1822
 deathYear: 1899
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
-  - Pope
 martyr: false
 ---
 

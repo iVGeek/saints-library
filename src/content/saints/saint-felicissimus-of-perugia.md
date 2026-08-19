@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicissimus of Perugia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felicissimus of Perugia"
 summary: "Martyred under Diocletian."
 deathYear: 303
 died: "c.303 in Perugia, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Perugia, Italy"

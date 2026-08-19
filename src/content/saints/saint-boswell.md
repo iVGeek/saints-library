@@ -1,7 +1,7 @@
 ---
 name: "Saint Boswell"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Boswell"
 summary: "Spiritual student of Saint Aidan of Lindisfarne. Monk. Abbot at the abbey of Melrose, Scotland. Teacher and spiritual director of Saint Cuthbert of Lindisfarne and Saint Eghert. Bible scholar. Had the gift of prophecy. Noted preacher."
 searchAliases:
   - "Boisil"

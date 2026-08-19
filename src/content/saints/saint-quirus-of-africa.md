@@ -1,7 +1,7 @@
 ---
 name: "Saint Quirus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quirus of Africa"
 summary: "Martyred in Africa, date unknown."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

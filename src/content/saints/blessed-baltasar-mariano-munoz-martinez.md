@@ -1,7 +1,7 @@
 ---
 name: "Blessed Baltasar Mariano Muñoz Martínez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Baltasar Mariano Muñoz Martínez"
 summary: "Franciscan Friar Minor. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Buenaventura"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 4
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

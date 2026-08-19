@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent Pallotti"
 honorific: Venerable
-title: "Priest, Monk, Pope, Hermit, Royalty"
+title: "Saint Vincent Pallotti"
 summary: "Born to the Italian nobility. Priest. Taught theology. He lived in constant danger working with the sick during a cholera epidemic. Highly successful fund-raiser for charities for the poor. Founded guilds for workers, agricultural schools, loan associations, orphanages and homes"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/San_Vincenzo_Pallotti.jpg"
 birthYear: 1795
@@ -18,9 +18,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Pallottine"
 patronage:
   - "clergy"

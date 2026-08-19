@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertulla of the Via Aurelia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tertulla of the Via Aurelia"
 summary: "Martyr."
 died: "69 on the Via Aurelia near Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

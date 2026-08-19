@@ -1,7 +1,7 @@
 ---
 name: "Saint Ulric of Einsideln"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Ulric of Einsideln"
 summary: "Son of Saint Gerold of Saxony. Monk at Einsideln Abbey. When Saint Gerold died, Ulric retired to live as a hermit in his father's cell near Mitternach, Germany."
 deathYear: 978
 died: "c.978 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dorothy of Montau"
 honorific: Blessed
-title: "Priest, Religious, Pope, Soldier"
+title: "Blessed Dorothy of Montau"
 summary: "Peasant, one of nine children. Married at age 17 to a wealthy swordsmith named Adalbert or Albrecht of Prague (in modern Czech Republic). Bore nine children, only one of whom survived; the girl became a Benedictine nun. Difficult marriage; she suffered abuse from her husband, but"
 image: "http://catholicsaints.info/wp-content/gallery/saint-dorothy-of-montau/saint-dorothea-von-montau.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Soldier
 religiousOrder: "Benedictine"
 patronage:

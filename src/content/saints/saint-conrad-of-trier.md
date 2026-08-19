@@ -1,7 +1,7 @@
 ---
 name: "Saint Conrad of Trier"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Conrad of Trier"
 summary: "Born to a noble Swabian family. Nephew of Saint Anno. Bishop of Trier, Germany, which involved him in the political fight over who had the right to choose the bishop of that diocese. On his way to Trier he was captured by opponents and murdered. Considered a martyr."
 searchAliases:
   - "Conrad of Treves"
@@ -17,7 +17,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

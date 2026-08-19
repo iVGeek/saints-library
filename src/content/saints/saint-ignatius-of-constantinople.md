@@ -1,7 +1,7 @@
 ---
 name: "Saint Ignatius of Constantinople"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Ignatius of Constantinople"
 summary: "Son of the Byzantine emperor Michael I. Imprisoned for political reasons in a monastery in 813 by Leo the Armenian; there he learned about and entered the religious life, taking the name Ignatius. Monk. Priest. Abbot. Patriach of Constantinople in 842. Fought corruption in civil"
 image: "http://catholicsaints.info/wp-content/uploads/Hagia_Sophia_Constantinople_2007_28.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 martyr: false
 ---

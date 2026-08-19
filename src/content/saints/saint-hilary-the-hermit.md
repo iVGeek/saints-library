@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilary the Hermit"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Hilary the Hermit"
 summary: "Hermit. Martyr."
 died: "France"
 region: "France"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

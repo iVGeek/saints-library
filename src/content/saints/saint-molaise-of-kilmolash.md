@@ -1,7 +1,7 @@
 ---
 name: "Saint Molaise of Kilmolash"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Molaise of Kilmolash"
 summary: "Priest in Kilmolash, Ireland who helped convert the people in the Inishlounaght region."
 searchAliases:
   - "Molaise of Devenish"

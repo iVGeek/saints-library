@@ -1,7 +1,7 @@
 ---
 name: "Saint Ansgar"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary, Confessor"
+title: "Saint Ansgar"
 summary: "Born to the French nobility. Benedictine monk at Old Corbie Abbey in Picardy (in modern France) and New Corbie in Westphalia (in modern Germany). Studied under Saint Adelard of Corbie and Saint Paschasius Radbert. Accompanied the converted King Harold to Denmark when the exiled k"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Bendixen_Ansgar.jpg"
 searchAliases:
@@ -29,7 +29,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

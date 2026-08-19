@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius II of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Anastasius II of Antioch"
 summary: "Bishop of Antioch, Syria in 599. Fought simony in his diocese with the support of Pope Gregory the Great. Murdered by a mob during an uprising of Syrian Jews against Emperor Phocas who was trying to force conversions; because he died in anti-Church violence, he is considered a ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-II-of-Antioch.jpg"
 searchAliases:
@@ -15,11 +15,9 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

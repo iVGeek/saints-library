@@ -1,7 +1,7 @@
 ---
 name: "Saint William of Eygliers"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint William of Eygliers"
 summary: "Raised in a poor family, William was born with crippled legs and missing his right hand. Priest. Pastor to the brothers of the monastery of Olux on the Durance River; he later served there as a canon regular. Legend says that he received three visits from an angel; the angel orde"
 searchAliases:
   - "Guglielmo"

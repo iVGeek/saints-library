@@ -1,7 +1,7 @@
 ---
 name: "Blessed Grzegorz Boleslaw Frackowiak"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Grzegorz Boleslaw Frackowiak"
 summary: "Friar in the Society of the Divine Word. During World War II he developed a ministry to covert Catholics which led to his imprisonment, torture and eventual martyrdom by the Nazis."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Grzegorz-Boleslaw-Frackowiak.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 5
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

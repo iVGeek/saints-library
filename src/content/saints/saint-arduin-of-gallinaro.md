@@ -1,7 +1,7 @@
 ---
 name: "Saint Arduin of Gallinaro"
 honorific: Saint
-title: "Monk"
+title: "Saint Arduin of Gallinaro"
 summary: "English pilgrim."
 searchAliases:
   - "Ardwine"

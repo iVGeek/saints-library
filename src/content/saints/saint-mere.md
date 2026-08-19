@@ -1,7 +1,7 @@
 ---
 name: "Saint Mère"
 honorific: Saint
-title: "Monk"
+title: "Saint Mère"
 summary: "The memorial has long been celebrating in the diocese of Auch, France, and the town of Sainte-Mère, France appears to have been named for this person, but no information about them has survived."
 region: "France"
 feastDay:

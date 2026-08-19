@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emilio García Pareja"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Emilio García Pareja"
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

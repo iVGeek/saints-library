@@ -1,7 +1,7 @@
 ---
 name: "Saint Auxilius of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Auxilius of Antioch"
 summary: "Martyr."
 died: "at Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

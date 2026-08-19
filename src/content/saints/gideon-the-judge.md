@@ -1,7 +1,7 @@
 ---
 name: "Gideon the Judge"
 honorific: Saint
-title: "Priest, Monk, Royalty, Soldier"
+title: "Gideon the Judge"
 summary: "Eleventh century BC Judge of Isreal. See the Readings section below for the Old Testament account of his life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Gideon-the-Judge.gif"
 searchAliases:
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Soldier
 patronage:
   - "Saint-G&eacute;d&eacute;on-de-Beauce, Canada"

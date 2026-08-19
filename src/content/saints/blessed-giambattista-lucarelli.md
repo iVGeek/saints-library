@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giambattista Lucarelli"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Soldier, Missionary, Confessor"
+title: "Blessed Giambattista Lucarelli"
 summary: "The son of Gregorio and Camilla Perti, Giambattista joined the Franciscan Friars Minor Conventual at Mondaino, Italy as a teenager in 1554. There he studied theology, earning a doctorate while still a young man. Priest. Assigned by Pope Pius V to serve as confessor to the soldier"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giambattista-Lucarelli.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Missionary
   - Confessor

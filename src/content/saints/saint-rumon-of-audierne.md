@@ -1,7 +1,7 @@
 ---
 name: "Saint Rumon of Audierne"
 honorific: Saint
-title: "Bishop, Hermit, Confessor"
+title: "Saint Rumon of Audierne"
 summary: "May have been the son of Saint Thumette. Hermit in the region of Audierne, France."
 searchAliases:
   - "Druman"

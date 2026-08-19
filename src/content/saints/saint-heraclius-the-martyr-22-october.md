@@ -1,7 +1,7 @@
 ---
 name: "Saint Heraclius the Martyr"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Heraclius the Martyr"
 summary: "Soldier who witnessed the martyrdom of Saint Alexander and companions, and was so moved, he converted and died with them. Martyr."
 died: "beheaded"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

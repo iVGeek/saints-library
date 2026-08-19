@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Nicomedia"
 summary: "Martyr. No other information has survived."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Victor-of-Nicomedia.jpg"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

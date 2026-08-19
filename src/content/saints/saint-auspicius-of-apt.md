@@ -1,7 +1,7 @@
 ---
 name: "Saint Auspicius of Apt"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Auspicius of Apt"
 summary: "First bishop of Apt, France in the late 1st century, consecrated by Pope Saint Clement I."
 searchAliases:
   - "Auspice"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

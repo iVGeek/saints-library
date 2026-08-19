@@ -1,7 +1,7 @@
 ---
 name: "Saint Tova of Thorney"
 honorific: Saint
-title: "Martyr, Hermit"
+title: "Saint Tova of Thorney"
 summary: "Hermitess at Thorney Abbey. Martyr."
 deathYear: 869
 died: "869 by pagan Danish raiders at Thorney Abbey, Cambridgeshire, England"
@@ -12,7 +12,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
 martyr: true
 ---

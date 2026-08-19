@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charlemagne"
 honorific: Blessed
-title: "Priest, Monk, Pope, Royalty, Soldier"
+title: "Blessed Charlemagne"
 summary: "Born a prince, the eldest son of Bertha and Pepin the Short, Mayor of the Palace under King Childeric III and then King of the Franks in 751. Married, and father of Louis the Pious. King of the Franks in 768. As “Roman Patrician” Charles was obligated to defend the temporal right"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/960px-Charlemagne_denier_Mayence_812_814.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
   - Soldier
 patronage:
   - "brokers"

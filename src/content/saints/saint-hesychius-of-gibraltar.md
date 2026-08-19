@@ -1,7 +1,7 @@
 ---
 name: "Saint Hesychius of Gibraltar"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hesychius of Gibraltar"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Marytr."
 region: "Spain"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Marytr.

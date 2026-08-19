@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ana María Aranda Riera"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ana María Aranda Riera"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Baptized at the age of two days. Member of Catholic Action. Attended Mass every day. Catechist known for her work with the poor. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ana-María-Aranda-Riera.jpg"
 birthYear: 1888
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

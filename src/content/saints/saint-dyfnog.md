@@ -1,7 +1,7 @@
 ---
 name: "Saint Dyfnog"
 honorific: Saint
-title: "Monk"
+title: "Saint Dyfnog"
 summary: "Venerated in Clwyd, Wales."
 born: "Wales"
 died: "7th century"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria de Puiggraciós Badia Flaquer"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Maria de Puiggraciós Badia Flaquer"
 summary: "Carmelites of the Ancient Observance nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Maria del Patrocini de Sant Josep"
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

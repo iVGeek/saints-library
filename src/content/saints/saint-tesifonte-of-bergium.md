@@ -1,7 +1,7 @@
 ---
 name: "Saint Tesifonte of Bergium"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Tesifonte of Bergium"
 summary: "Early missionary and bishop of Bergium (modern Berja, Spain)."
 region: "Spain"
 feastDay:

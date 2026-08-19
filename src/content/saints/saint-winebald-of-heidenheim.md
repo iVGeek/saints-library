@@ -1,7 +1,7 @@
 ---
 name: "Saint Winebald of Heidenheim"
 honorific: Saint
-title: "Priest, Monk, Royalty, Missionary, Confessor"
+title: "Saint Winebald of Heidenheim"
 summary: "Born a prince, the son of Saint Richard the King and Saint Wunna of Wessex; brother of Saint Willibald and Saint Walburga; nephew of Saint Boniface. During a pilgrimage to the Holy Lands, he became ill and spent seven years in Rome, Italy recovering and studying before finally re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Winebald-of-Heidenheim.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Missionary
   - Confessor
 patronage:

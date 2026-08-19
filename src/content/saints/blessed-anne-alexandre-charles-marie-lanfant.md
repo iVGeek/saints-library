@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anne-Alexandre-Charles-Marie Lanfant"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed Anne-Alexandre-Charles-Marie Lanfant"
 summary: "Born to a middle-class family, Alexandre studied at Trinity College in Lyon, France, then became a Jesuits novice on 7 September 1741 at age 15 in Avignon, France. He taught grammar, rhetoric and humanities in several schools in the French cities of Aix, Besan&ccedil;on and Marse"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-anne-alexandre-charles-marie-lanfant/blessed-anne-alexandre-charles-marie-lanfant-01.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Jesuit"
 martyr: true

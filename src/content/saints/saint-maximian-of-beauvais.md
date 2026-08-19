@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximian of Beauvais"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Maximian of Beauvais"
 summary: "Missionary to Beauvais, France. Martyr."
 deathYear: 290
 died: "290 at Beauvais, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 martyr: true

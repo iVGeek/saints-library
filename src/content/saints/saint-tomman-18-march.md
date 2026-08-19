@@ -1,7 +1,7 @@
 ---
 name: "Saint Tómmán"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Tómmán"
 summary: "Bishop. No other information has survived."
 born: "Ireland"
 region: "Ireland"
@@ -10,9 +10,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop. No other information has survived.

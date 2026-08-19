@@ -1,7 +1,7 @@
 ---
 name: "Saint Alfonso Maria Fusco"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Cardinal, Royalty, Confessor"
+title: "Saint Alfonso Maria Fusco"
 summary: "Son of Giuseppina Schiavone and Aniello Fusco, the eldest of five children in a pious peasant family. The couple had been unable to have children until a visit to the relics of Saint Alphonsus Maria d' Liguori; there they received the message that they would have a son, name him"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/AlfonsoMariaFusco.jpg"
 birthYear: 1839
@@ -16,7 +16,6 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

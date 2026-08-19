@@ -1,7 +1,7 @@
 ---
 name: "Saint Basillisa"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Basillisa"
 summary: "Married chastely to Saint Julian. The two converted their home into a hospital which could house up to 1,000; Basilissa cared for sick indigent women in one wing, Julian cared for the men in another."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Basillisa.jpg"
 died: "of natural causes"
@@ -11,11 +11,10 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "against chilblains"
-martyr: true
+martyr: false
 ---
 
 Married chastely to Saint Julian. The two converted their home into a hospital which could house up to 1,000; Basilissa cared for sick indigent women in one wing, Julian cared for the men in another.

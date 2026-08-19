@@ -1,7 +1,7 @@
 ---
 name: "Saint Honestus of Nimes"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Honestus of Nimes"
 summary: "Convert. Priest. Evangelized in Spain with Saint Saturninus, who had brought him into the faith. Martyr."
 deathYear: 270
 born: "Nimes, France"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

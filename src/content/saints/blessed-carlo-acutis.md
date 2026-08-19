@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carlo Acutis"
 honorific: Blessed
-title: "Bishop, Pope, Cardinal, Royalty"
+title: "Blessed Carlo Acutis"
 summary: "Teenaged layman in the archdiocese of Milan, Italy known for creating a series of websites devoted to Church-related supernatural events (see links below). As a regular teenaged boy, he liked comics, computer programming, video editing, and related matters. He was known at his sc"
 image: "http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/carlo-acutis.jpg"
 birthYear: 1991
@@ -17,9 +17,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
   - Cardinal
-  - Royalty
 patronage:
   - "computer programmers"
   - "computer users"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrio of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Cyrio of Alexandria"
 summary: "Priest. Martyr."
 died: "burned at the stake in Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

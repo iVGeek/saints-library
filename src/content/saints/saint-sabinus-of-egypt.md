@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinus of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sabinus of Egypt"
 summary: "Born to the nobility, he lived in Hermopolis (modern Al-Ashmunayn), Egypt. With other Christians, he retreated into the wilderness to escape the persecutions of Diocletian, but was betrayed to the authorities by a beggar he had helped. Martyr."
 searchAliases:
   - "Sabinus of Al-Ashmunayn"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

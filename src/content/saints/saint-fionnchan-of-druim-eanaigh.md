@@ -1,7 +1,7 @@
 ---
 name: "Saint Fionnchan of Druim-Eanaigh"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Fionnchan of Druim-Eanaigh"
 summary: "6th century bishop of Druim-Eanaigh, Ireland."
 searchAliases:
   - "Fionnchan of Droma Enaigh"

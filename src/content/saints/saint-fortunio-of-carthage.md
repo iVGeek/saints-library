@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunio of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fortunio of Carthage"
 summary: "Imprisoned for his faith, he spent his time ministering to other prisoners. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

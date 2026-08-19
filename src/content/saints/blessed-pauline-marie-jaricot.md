@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pauline-Marie Jaricot"
 honorific: Blessed
-title: "Virgin, Bishop, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Pauline-Marie Jaricot"
 summary: "Born to an aristocratic family. A pious child, at age 17 Pauline adopted a life of extreme asceticism. On 25 December 1816 she made a private vow of perpetual virginity. She organized a group of pious servant girls who prayed to alleviate the sins committed against the Sacred Hea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pauline-Marie-Jaricot.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Missionary
 patronage:

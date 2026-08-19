@@ -1,7 +1,7 @@
 ---
 name: "Saint Bettelin of Stafford"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Bettelin of Stafford"
 summary: " Some stories claim Bettelin was a Mercian nobleman married to an Irish princess. While the two were travelling through a forest, Spritual student of Saint Guthlac of Croyland. One of several hermits around Croyland in Lincolnshire, England who were subject to the monastery there."
 searchAliases:
   - "Beccelin"
@@ -23,7 +23,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "Stafford, England"

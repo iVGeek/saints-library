@@ -1,7 +1,7 @@
 ---
 name: "Venerable Siman Sruji"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Siman Sruji"
 summary: "Brother in the Salesians of Don Bosco."
 searchAliases:
   - "Siman Srugi"
@@ -18,8 +18,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: false
 ---

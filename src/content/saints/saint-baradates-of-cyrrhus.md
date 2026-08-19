@@ -1,7 +1,7 @@
 ---
 name: "Saint Baradates of Cyrrhus"
 honorific: Saint
-title: "Priest, Monk, Hermit, Confessor"
+title: "Saint Baradates of Cyrrhus"
 summary: "Hermit in a tiny shack in Cyrrhus, Syria; he wore animal skins, lived on whatever came to hand, and spent every possible moment in prayer. Emperor Leo I of Constantinople wrote to Baradates for his thoughts on the Council of Chalcedon in 451."
 searchAliases:
   - "Baradatas"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iulianus Nakaura"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Iulianus Nakaura"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Iulianus-Nakaura.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

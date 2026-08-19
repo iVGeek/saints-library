@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Catania"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Hermit"
+title: "Saint Leo of Catania"
 summary: "Learned priest in Ravenna, Italy, and then in Reggio Calabria, Italy. Bishop of Catania, Italy; legend says that an angel appeared in dreams to the people in Catania to point them to Leo. He fought to suppress blasphemous magicians that people in his diocese saw as an alternative"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Leo_of_Catania%2C_Menologion_of_Basil_II.png"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
@@ -29,7 +28,7 @@ patronage:
   - "Rometta, Sicily, Italy"
   - "Saracena, Sicily, Italy"
   - "Sinagra, Sicily, Italy"
-martyr: true
+martyr: false
 ---
 
 Learned priest in Ravenna, Italy, and then in Reggio Calabria, Italy. Bishop of Catania, Italy; legend says that an angel appeared in dreams to the people in Catania to point them to Leo. He fought to suppress blasphemous magicians that people in his diocese saw as an alternative to the Church. Leo opposed the iconoclasm ordered by the Byzantine Empire; the governor of Sicily ordered his arrest for this stance, and the bishop spent time in the mountains in exile, living as a cave hermit. Known always for his care for the poor.

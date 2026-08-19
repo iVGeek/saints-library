@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lambert of Neuwerk"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Lambert of Neuwerk"
 summary: "Augustinian Canon Regular at the abbey of Rottenbuch, Germany. He helped found the canonry at Neuwerk bei Halle, Saxony (in modern Germany) c.1116, and served as its provost until his death."
 deathYear: 1123
 died: "1123 of natural causes"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Augustinian"
 martyr: false
 ---

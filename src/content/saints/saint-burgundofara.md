@@ -1,7 +1,7 @@
 ---
 name: "Saint Burgundofara"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Burgundofara"
 summary: " Burgundofara was early drawn to a religious vocation, despite her father's fierce opposition. He demanded that she marry, a Sister of Saint Cagnoald and Saint Faro of Meaux; daughter of Count Agneric, courtier of King Theodebert II. As a baby, she was blessed by Saint Columbanus."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Champeaux_%2877%29_Coll%C3%A9giale_Saint-Martin_Statue_de_Sainte-Fare.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Cinisi, Italy"

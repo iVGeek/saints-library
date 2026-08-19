@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Freeman"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed William Freeman"
 summary: "Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being a priest."
 deathYear: 1595
 born: "Menthorpre, North Yorkshire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

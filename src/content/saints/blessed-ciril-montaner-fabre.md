@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ciril Montaner Fabré"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Ciril Montaner Fabré"
 summary: "Member of the Claretians, professsed on 7 March 1897 in Cervera, Spain. Ordained a priest on 29 June 1902. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alto of Altomünster"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Alto of Altomünster"
 summary: "Hermit in a forest near Augsburg, Germany. His reputation for holiness attracted would-be spiritual students; to house them he founded a monastery that was later known as Altomünster in his honour. The town of Altomünster grew up around it."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St-Alto.jpg/960px-St-Alto.jpg"
 searchAliases:

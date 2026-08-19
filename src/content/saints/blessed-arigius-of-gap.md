@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arigius of Gap"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Arigius of Gap"
 summary: "Bishop of Gap, France for 20 years. Known for the support he gave to his priests. Helped Saint Columbanus of Luxeuil harmonize the dates of celebration of Easter."
 searchAliases:
   - "Aray"
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

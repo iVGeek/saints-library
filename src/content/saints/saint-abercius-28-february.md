@@ -1,7 +1,7 @@
 ---
 name: "Saint Abercius"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abercius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Abircius"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

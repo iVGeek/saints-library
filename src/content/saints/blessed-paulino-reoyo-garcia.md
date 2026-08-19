@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulino Reoyo García"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Paulino Reoyo García"
 summary: "Educated by the Dominicans in Almagro, Spain, Paulino joined the Dominicans on 29 September 1929, making his solemn profession on 7 October 1934. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,10 +15,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

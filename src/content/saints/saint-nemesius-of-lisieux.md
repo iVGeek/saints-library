@@ -1,7 +1,7 @@
 ---
 name: "Saint Nemesius of Lisieux"
 honorific: Saint
-title: "Monk"
+title: "Saint Nemesius of Lisieux"
 summary: "No information about him has survived."
 feastDay:
   month: 8

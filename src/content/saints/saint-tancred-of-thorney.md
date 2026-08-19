@@ -1,7 +1,7 @@
 ---
 name: "Saint Tancred of Thorney"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Tancred of Thorney"
 summary: "Hermit and monk at Thorney Abbey. Martyr."
 deathYear: 869
 died: "869 by pagan Danish raiders at Thorney Abbey, Cambridgeshire, England"
@@ -12,7 +12,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

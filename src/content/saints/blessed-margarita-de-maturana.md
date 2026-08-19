@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margarita de Maturana"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Margarita de Maturana"
 summary: "Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of Charity. On 10 August 1903, Pilar entered the novi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Margarita-de-Maturana.jpg"
 searchAliases:
@@ -20,13 +20,11 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Carmelite"
 patronage:
   - "Mercedarian Missionaries of Berriz"
-martyr: true
+martyr: false
 ---
 
 Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of Charity. On 10 August 1903, Pilar entered the novitiate of the Vera Cruz Mercedarian Monastery at Berriz, Spain, taking the name Margarita. She taught school and later served as principal. By 1922 her health began to suffer, and she developed a duodenal ulcer that plagued her the rest of her life.

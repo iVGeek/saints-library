@@ -1,7 +1,7 @@
 ---
 name: "Saint Julia of Troyes"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Julia of Troyes"
 summary: "Captured as a spoil of war by the forces of Roman emperor Aurelian following his victory over Tetricus. Given as a prize to Claudius of Troyes, an army officer. She converted him, and they were martyred together."
 deathYear: 273
 born: "3rd century at Troyes, France"
@@ -14,7 +14,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

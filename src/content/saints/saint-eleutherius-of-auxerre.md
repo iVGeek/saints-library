@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Eleutherius of Auxerre"
 summary: "Bishop of Auxerre, France in 532; he served for 29 years. Assisted at the four Councils of Orleans"
 deathYear: 561
 died: "561"

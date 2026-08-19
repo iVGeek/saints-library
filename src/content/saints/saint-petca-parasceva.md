@@ -1,7 +1,7 @@
 ---
 name: "Saint Petca Parasceva"
 honorific: Saint
-title: "Virgin, Monk"
+title: "Saint Petca Parasceva"
 summary: "Born to wealthy, noble, pious landowners. During services at age ten, at the Church of the Holy Theotokos, she heard the words, Whosoever will come after Me, let him deny himself and take up his cross, and follow me. They had a profound effect on the girl, and became the subject"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-the-Younger.jpg"
 searchAliases:

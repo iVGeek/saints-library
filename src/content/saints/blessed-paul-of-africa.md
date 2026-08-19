@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul of Africa"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Paul of Africa"
 summary: "Adult convert, brought to Christianity by witnessing the faith of Blessed Thomas Vives during his martyrdom. Mercedarian friar."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-James-and-Paul-of-Africa.jpg"
 born: "north Africa"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

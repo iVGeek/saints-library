@@ -1,7 +1,7 @@
 ---
 name: "Saint Menefrida"
 honorific: Saint
-title: "Monk"
+title: "Saint Menefrida"
 summary: "Related to Brychan of Brycheiniog. No details about her have survived."
 searchAliases:
   - "Menefreda"

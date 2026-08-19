@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentine of Passau"
 honorific: Saint
-title: "Bishop, Monk, Hermit, Missionary"
+title: "Saint Valentine of Passau"
 summary: "Monk. Abbot. Missionary bishop in Rhaetia, Switzerland, an area in the border region of modern Italy, Austria and Switzerland. Late in life he withdrew to live as a hermit near Mais, Austria."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Valentin_von_Raetien2.jpg"
 searchAliases:

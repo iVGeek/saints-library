@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Capua"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Victor of Capua"
 summary: "Bishop of Capua, Italy in  541. Noted ecclesiastical writer."
 searchAliases:
   - "Vittore"

@@ -23,10 +23,7 @@ feastDayLabel: Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary; als
 liturgicalRank: Solemnity
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Peter_von_Cornelius_002.jpg/960px-Peter_von_Cornelius_002.jpg"
-vocation:
-  - Married
-  - Worker
-  - Patron of the universal Church
+vocation: []
 patronage:
   - fathers
   - workers

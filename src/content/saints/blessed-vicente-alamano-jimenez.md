@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Alamano Jiménez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Vicente Alamano Jiménez"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Alamano-Jimenez.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

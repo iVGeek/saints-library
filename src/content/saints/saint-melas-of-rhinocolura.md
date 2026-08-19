@@ -1,7 +1,7 @@
 ---
 name: "Saint Melas of Rhinocolura"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Melas of Rhinocolura"
 summary: "Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured by Arian heretics."
 searchAliases:
   - "Melantius"
@@ -13,10 +13,9 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured by Arian heretics.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Alonso Fernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Blessed Juan Alonso Fernández"
 summary: "Juan joined the Missionaries of the Sacred Heart in 1953, making his perpetual vows on 8 September 1958. Ordained a priest on 11 June 1960, he was sent to serve in Guatemala. Missionary to Indonesia from 1963 to 1965. Returning to Guatemala, he founded the parish of San Maria Reg"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Alonso-Fernandez.jpg"
 birthYear: 1933
@@ -16,10 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

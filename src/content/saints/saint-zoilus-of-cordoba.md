@@ -1,7 +1,7 @@
 ---
 name: "Saint Zoilus of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zoilus of Cordoba"
 summary: "Young man martyred with 19 unnamed Christian companions in the persecutions of Diocletian. The monastery of San Zoil de Carrión in León, Spain was founded to enshrine his relics."
 searchAliases:
   - "Zoilo"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Quadratus of Anatolia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Quadratus of Anatolia"
 summary: "Bishop in Anatolia (in modern Turkey). Martyred with 42 companions in the persecutions of Diocletian."
 searchAliases:
   - "Codrato"
@@ -15,7 +15,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

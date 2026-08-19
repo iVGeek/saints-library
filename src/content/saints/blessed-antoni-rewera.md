@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Rewera"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoni Rewera"
 summary: "Priest in the diocese of Sandomierz, Poland. Taught theology at the Sandomierz seminary. Founded the Daughters of the Seraphic Saint Francis. Arrested in March 1942 by the Gestapo and deported to the Dachau concentration camp as part of the Nazi persecutions of Catholics."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Antoni_Rewera.jpg"
 birthYear: 1868
@@ -16,10 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest in the diocese of Sandomierz, Poland. Taught theology at the Sandomierz seminary. Founded the Daughters of the Seraphic Saint Francis. Arrested in March 1942 by the Gestapo and deported to the Dachau concentration camp as part of the Nazi persecutions of Catholics.

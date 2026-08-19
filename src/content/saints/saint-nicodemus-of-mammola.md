@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicodemus of Mammola"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Nicodemus of Mammola"
 summary: "Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a young man, Nicodemus was disgusted by the mis-spent lives of his contemporaries, and was drawn to the monastic life. He tried to join the monks in the San Mercur"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/San_Nicodemo_-_Statua01.jpg/960px-San_Nicodemo_-_Statua01.jpg"
 searchAliases:
@@ -20,13 +20,12 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
 patronage:
   - "Mammola, Italy (proclaimed in 1630)"
-martyr: true
+martyr: false
 ---
 
 Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a young man, Nicodemus was disgusted by the mis-spent lives of his contemporaries, and was drawn to the monastic life. He tried to join the monks in the San Mercurius abbey on Mount Pollino in the Calabria region of Italy; it was a hard, ascetic life for these monks, dressed in goat skins, going bare-foot in all seasons, surviving on chestnuts and lupins with a cave for shelter and some straw for a bed, and Nicodemus was initially turned away by the abbot, Saint Fantinus, who thought the young man's health too frail for a monk's life. But Nicodemus persevered, and Fantinus eventually relented and welcomed him to the community. Brother monk with Saint Nilus of Rossano.

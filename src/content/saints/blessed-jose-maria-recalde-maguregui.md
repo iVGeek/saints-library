@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Recalde Magúregui"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Recalde Magúregui"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ignacio of Galdácano"
@@ -17,9 +17,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

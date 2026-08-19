@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentin of Arles"
 honorific: Saint
-title: "Monk"
+title: "Saint Florentin of Arles"
 summary: "First abbot of Holy Apostles Abbey in Arles, France."
 searchAliases:
   - "Florentine"

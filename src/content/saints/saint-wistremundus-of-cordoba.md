@@ -1,7 +1,7 @@
 ---
 name: "Saint Wistremundus of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Wistremundus of Cordoba"
 summary: "Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
 searchAliases:
   - "Wistremundo"
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

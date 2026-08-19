@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Dibdale"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Robert Dibdale"
 summary: "Priest for the apostolic vicariate of England. Martyr."
 birthYear: 1558
 born: "c.1558 in Worcestershire, England"
@@ -12,9 +12,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

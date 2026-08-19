@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Abessala"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Abessala"
 summary: "Martyr. No other information has survived."
 deathYear: 309
 born: "Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

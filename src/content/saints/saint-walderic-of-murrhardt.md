@@ -1,7 +1,7 @@
 ---
 name: "Saint Walderic of Murrhardt"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Walderic of Murrhardt"
 summary: "With the help of Louis the Pious, Walderic founded a monastery at Murrhardt, Germany, and served as its first abbot."
 deathYear: 817
 died: "c.817 of natural causes"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

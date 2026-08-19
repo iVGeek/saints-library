@@ -1,7 +1,7 @@
 ---
 name: "Saint Juan Alcober Figuera"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Pope, Royalty, Missionary"
+title: "Saint Juan Alcober Figuera"
 summary: " Posing as a water se Dominican priest and missionary to China. Due to transport trouble, he was marooned in Lorca for a while, where he became a popular preacher. Sailed to Manila in the Philippines in 1726, and reached China in 1728. Worked sixteen years in the Fo-kien province."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Juan-Alcober-Figuera.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

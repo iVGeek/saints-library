@@ -1,7 +1,7 @@
 ---
 name: "Blessed Saturio Rey Robles"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Saturio Rey Robles"
 summary: "Lifelong friend of Blessed Felicísimo Díez González. Dominican priest, professed on 6 October 1925 and ordained on 21 June 1931. Teacher at the convent school lin Calanda, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Saturio-Rey-Robles.jpg"
 birthYear: 1907
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Damian dei Fulcheri"
 honorific: Blessed
-title: "Virgin, Priest, Pope"
+title: "Blessed Damian dei Fulcheri"
 summary: "Born to wealthy Italian nobility. When he was kidnapped as an infant by a mentally ill man, his parents prayed fervently to the Virgin Mary for help; searchers were led to his hiding place by a miraculous light, and the baby was returned unharmed. Damien joined the Dominicans at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Damian-dei-Fulcheri.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Élisabeth Turgeon"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Cardinal"
+title: "Blessed Marie-Élisabeth Turgeon"
 summary: "One of nine children born to Louis-Marc Turgeon and Angèle Labrecque; her father died when Elisabeth was 15 years old. She graduated from Laval Normal School in Quebec, Canada in 1862, and taught at several schools. Founded the Sisters of Our Lady of the Rosary on 12 September 18"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Elisabeth_Turgeon.jpg"
 birthYear: 1840
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

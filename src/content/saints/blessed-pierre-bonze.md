@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre Bonzé"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pierre Bonzé"
 summary: "Parish priest of Massey in the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1719
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

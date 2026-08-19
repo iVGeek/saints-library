@@ -1,7 +1,7 @@
 ---
 name: "Saint Ilud Ferch Brychan"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Ilud Ferch Brychan"
 summary: "Born a princess, the daughter of Saint Brychan of Brycheiniog. A parish church in Luxulyan, Cornwall, England is dedicated to her."
 searchAliases:
   - "Hudd"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

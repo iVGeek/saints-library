@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregory of Nonantula"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Gregory of Nonantula"
 summary: "Benedictine monk. Abbot at Nonantula, Italy."
 deathYear: 933
 died: "933 of natural causes"

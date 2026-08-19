@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Nyon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturninus of Nyon"
 summary: "Martyred for refusing to sacrifice to imperial Roman idols."
 searchAliases:
   - "Saturnine"
@@ -12,7 +12,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

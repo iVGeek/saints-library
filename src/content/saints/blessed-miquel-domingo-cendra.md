@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Domingo Cendra"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Miquel Domingo Cendra"
 summary: "Student at the Salesian school in Rocafort, Barcelona, Spain. Salesian brother, making his profession in 1928. Taught in Mataro, Barcelona. Studied theology in Carabanchel, Madrid, Spain. Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miquel-Domingo-Cendra.jpg"
 birthYear: 1909
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

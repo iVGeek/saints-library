@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrico Angelo Angelelli Carletti"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope, Cardinal, Royalty, Soldier"
+title: "Blessed Enrico Angelo Angelelli Carletti"
 summary: "Son of Italian immigrants. He entered the seminary of Our Lady of Loreto at age 15, studied in Rome, Italy, and then was ordained a priest on 9 October 1949 at Rome for the diocese of Córdoba, Argentina. He served as a parish priest in Córdoba, founded youth groups, and ministeri"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Angelo-Angelelli-Carletti.jpg"
 birthYear: 1923
@@ -16,11 +16,9 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Son of Italian immigrants. He entered the seminary of Our Lady of Loreto at age 15, studied in Rome, Italy, and then was ordained a priest on 9 October 1949 at Rome for the diocese of Córdoba, Argentina. He served as a parish priest in Córdoba, founded youth groups, and ministering to the poor in their own neighborhoods.

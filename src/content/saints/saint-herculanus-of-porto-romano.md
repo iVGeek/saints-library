@@ -1,7 +1,7 @@
 ---
 name: "Saint Herculanus of Porto Romano"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Herculanus of Porto Romano"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Ercolano"
@@ -14,7 +14,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

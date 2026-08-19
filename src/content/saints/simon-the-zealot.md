@@ -24,9 +24,7 @@ feastDay:
   day: 28
 liturgicalRank: Memorial
 canonizationStatus: Saint
-vocation:
-  - Apostle
-  - Martyr
+vocation: []
 patronage:
   - workers
   - the-church

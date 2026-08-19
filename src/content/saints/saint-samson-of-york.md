@@ -1,7 +1,7 @@
 ---
 name: "Saint Samson of York"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Samson of York"
 summary: "Born to the Welsh nobility; brother of Saint Gwenyth of Cornwall and Saint Veep. At age seven, Samson was sent to the abbey of Llanwit Major in South Glamorgan for instruction by the abbot, Saint Illtud. Ordained in 512. Retired to a small monastery on Caldey Island to deepen his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Samson-of-York.jpg"
 searchAliases:

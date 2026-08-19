@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isfrid of Ratzeburg"
 honorific: Blessed
-title: "Bishop, Pope"
+title: "Blessed Isfrid of Ratzeburg"
 summary: "Premonstratensian canon at the Cappenenberg monastery in Westphalia (in modern Germany). Provost of the Premonstratensian house of Jerichow in 1159. Bishop of Ratzeburg, Germany in 1180; he served for 24 years, continued to live by the Premonstratensian rule, and was known for hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evermode.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
 martyr: false
 ---
 

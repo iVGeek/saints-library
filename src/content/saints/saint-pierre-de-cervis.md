@@ -1,7 +1,7 @@
 ---
 name: "Saint Pierre de Cervis"
 honorific: Saint
-title: "Martyr"
+title: "Saint Pierre de Cervis"
 summary: "Mercedarian. Commander of the convent of Santa Maria in Narbonne, France. Travelled to Moorish occupied Granada to ransom Christians imprisoned and enslaved by Moors, and to preach Christianity. He was immediately arrested, stripped of the money brought to ransom prisoners, beate"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-de-Cervis.jpg"
 deathYear: 1422
@@ -14,8 +14,7 @@ feastDay:
   month: 6
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

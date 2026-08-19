@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Gonzales"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Peter Gonzales"
 summary: "Castilian nobility who mis-spent a worldly youth. Educated by his uncle, the bishop of Astorga, Spain. Priest, primarily as a step to high office. Obtained special papal dispensation to become Canon of Palencia when he was officially still too young. During a grand Christmas Day"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Gonzales.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

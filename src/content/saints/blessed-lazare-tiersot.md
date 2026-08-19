@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lazare Tiersot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Lazare Tiersot"
 summary: "Joined the Carthusians on 18 December 1769 at the monastery of Fontenay, France. Priest. Served as vicar of his house until June 1791 when the monastery was suppressed by the civil authorities of the French Revolution. Arrested on 19 April 1793 for refusing to take the oath that"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lazare-Tiersot.jpg"
 birthYear: 1739
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

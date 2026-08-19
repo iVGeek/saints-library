@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Jové Bonet"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Manuel Jové Bonet"
 summary: "Member of the Claretians, professed on 15 August 1912. Ordained a priest on 28 May 1926. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

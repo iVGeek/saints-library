@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Confessor"
+title: "Saint Proculus of Verona"
 summary: "Bishop of Verona, Italy. Made public confession of his faith during the persecutions of Diocletian, for which he he was harassed, beaten and run out of town. He eventually returned to resume leadership of his flock."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sebastiano_Ricci_042.jpg/960px-Sebastiano_Ricci_042.jpg"
 searchAliases:
@@ -15,10 +15,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Bishop of Verona, Italy. Made public confession of his faith during the persecutions of Diocletian, for which he he was harassed, beaten and run out of town. He eventually returned to resume leadership of his flock.

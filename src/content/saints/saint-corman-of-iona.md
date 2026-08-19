@@ -1,7 +1,7 @@
 ---
 name: "Saint Corman of Iona"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Corman of Iona"
 summary: "Seventh-century priest. Monk at Iona Abbey. Missionary to Northumbria in northern England; he may have been the first priest to evangelize the area."
 searchAliases:
   - "Coman"
@@ -12,11 +12,10 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Seventh-century priest. Monk at Iona Abbey. Missionary to Northumbria in northern England; he may have been the first priest to evangelize the area.

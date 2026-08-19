@@ -1,7 +1,7 @@
 ---
 name: "Saint Drusus of Syria"
 honorific: Saint
-title: "Martyr"
+title: "Saint Drusus of Syria"
 summary: "Martyr whose death was written and preached about by Saint John Chrysostom, possibly for giving Christian burial to other martyrs."
 searchAliases:
   - "Drusus of Antioch\nAnisia…"
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

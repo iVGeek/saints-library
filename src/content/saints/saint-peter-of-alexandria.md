@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Alexandria"
 summary: "Martyred for publicly proclaiming the faith."
 deathYear: 309
 born: "Egyptian"
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

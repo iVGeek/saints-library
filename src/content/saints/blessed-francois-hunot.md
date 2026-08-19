@@ -1,7 +1,7 @@
 ---
 name: "Blessed François Hunot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed François Hunot"
 summary: "Priest in the Archdiocese of Sens, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1753
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

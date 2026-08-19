@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark of Galilee"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Mark of Galilee"
 summary: "Convert, brought to the faith by Saint Peter the Apostle. Evangelized and served as first bishop of Abruzzi, Italy, was and its first martyr."
 searchAliases:
   - "Mark of Abruzzi"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

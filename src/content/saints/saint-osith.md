@@ -1,7 +1,7 @@
 ---
 name: "Saint Osith"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Osith"
 summary: "Born a princess, the daughter of Frewald, a Merclan prince of the Hwiccan tribe. Niece to Editha, to whom belonged the town and manor of Ailesbury, and who raised Osith. Educated at the convent school at Aylesbury. Though she was drawn to religious life, Osith was married young t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Osith.png"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

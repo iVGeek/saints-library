@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramon Rius Camps"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Ramon Rius Camps"
 summary: "Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

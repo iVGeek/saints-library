@@ -1,7 +1,7 @@
 ---
 name: "Saint Zenobius of Florence"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Confessor"
+title: "Saint Zenobius of Florence"
 summary: "Born a pagan, Zenobius converted and was baptized as an adult. Priest. Archdeacon. Friend of Saint Ambrose of Milan. Counselor to Pope Saint Damasus I. First bishop of Florence, Italy. Worked with Saint Eugene of Florence and Saint Crescentius. Fought Arianism. Miracle worker, re"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Monte_di_giovanni_detto_del_fora%2C_mosaico_di_san_zanobi_benedicente%2C_1505-05_%28cropped%29.JPG/960px-Monte_di_giovanni_detto_del_fora%2C_mosaico_di_san_zanobi_benedicente%2C_1505-05_%28cropped%29.JPG"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

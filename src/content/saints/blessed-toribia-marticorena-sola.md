@@ -1,7 +1,7 @@
 ---
 name: "Blessed Toribia Marticorena Sola"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Toribia Marticorena Sola"
 summary: "Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

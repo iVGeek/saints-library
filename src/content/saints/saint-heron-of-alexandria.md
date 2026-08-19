@@ -1,7 +1,7 @@
 ---
 name: "Saint Heron of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heron of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Hero"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

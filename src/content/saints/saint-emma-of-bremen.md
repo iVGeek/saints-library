@@ -1,7 +1,7 @@
 ---
 name: "Saint Emma of Bremen"
 honorific: Saint
-title: "Bishop, Religious, Pope"
+title: "Saint Emma of Bremen"
 summary: "Born to the Saxon nobility; the sister of Bishop Meinwerk of Paderborn, Germany. Lay woman, married to Count Luidger, the son of a Saxon duke. In 1008 she built a church on land given to her by the pope. Mother of one, who would become Bishop Imad of Paderborn. Widowed in 1011, s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emma-of-Bremen.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Religious
-  - Pope
 martyr: false
 ---
 

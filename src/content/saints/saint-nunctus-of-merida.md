@@ -1,7 +1,7 @@
 ---
 name: "Saint Nunctus of Mérida"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Nunctus of Mérida"
 summary: "Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr."
 searchAliases:
   - "Nancto"
@@ -15,7 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

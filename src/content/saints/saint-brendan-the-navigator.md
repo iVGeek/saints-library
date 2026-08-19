@@ -1,7 +1,7 @@
 ---
 name: "Saint Brendan the Navigator"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Brendan the Navigator"
 summary: "Son of Findloga; brother of Saint Briga. Monk. Educated by Saint Ita of Killeedy and Saint Erc of Kerry. Friend of Saint Columba and Saint Brendan of Birr, Saint Brigid, and Saint Enda of Arran. Ordained in 512. Built monastic cells at Ardfert, Shankeel, Aleth, Plouaret, Inchquin"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "boatmen, mariners, sailors, watermen"
@@ -37,7 +36,7 @@ patronage:
   - "Clonfert, city of"
   - "Clonfert, diocese of"
   - "Kerry, diocese of"
-martyr: true
+martyr: false
 ---
 
 Son of Findloga; brother of Saint Briga. Monk. Educated by Saint Ita of Killeedy and Saint Erc of Kerry. Friend of Saint Columba and Saint Brendan of Birr, Saint Brigid, and Saint Enda of Arran. Ordained in 512. Built monastic cells at Ardfert, Shankeel, Aleth, Plouaret, Inchquin Island, and Annaghdown. Founded Clonfert monastery and monastic school c.559. Legend says that this community had at least three thousand monks, and that their Rule was dictated to Brendan by an angel.

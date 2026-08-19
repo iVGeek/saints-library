@@ -1,7 +1,7 @@
 ---
 name: "Saint Aiden"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Aiden"
 summary: "Known for his piety even as a small child. Studied scripture at the monastery of Saint David in Wales. Reported to have saved the house on several occasions by miraculously turning back Saxon invasions He returned to Ireland in 580 and built a monastery at Ferns, Wexford. Bishop."
 searchAliases:
   - "Aedan"
@@ -25,7 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

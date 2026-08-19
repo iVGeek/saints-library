@@ -1,7 +1,7 @@
 ---
 name: "Saint Pigmenius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Pigmenius of Rome"
 summary: "Priest in Rome, Italy. Tutor to the young Julian the Apostate. Martyred by order of Julian."
 searchAliases:
   - "Pigmentius"
@@ -15,7 +15,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

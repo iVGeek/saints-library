@@ -1,14 +1,13 @@
 ---
 name: "Saint Rufinian"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufinian"
 summary: "Brother of Saint Rufinus. Martyr."
 feastDay:
   month: 9
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

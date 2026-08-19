@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Silverio Pérez Ruano"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Juan Silverio Pérez Ruano"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Crispín of Cuevas de San Marcos"
@@ -17,9 +17,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

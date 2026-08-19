@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fulk of Montdidier"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Fulk of Montdidier"
 summary: "Premonstratensian canon. Chosen the second prior of the Saint-Jean monastery in Amiens, France in 1130, he served as the leader of his house for his remaining 26 years; the house was elevated to an abbey in 1135, and Fulk became its abbot. During his leadership, the house attract"
 searchAliases:
   - "Fulco"
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Schininà Arezzo"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Maria Schininà Arezzo"
 summary: "Born to the Italian nobility, the fifth of eight children of Giambattista Schininà and Rosalia Arezzo. Though she had not been a particularly pious child or young woman, her father's death in 1865 caused Maria to re-examine her life and the best way to live it, and she had someth"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Schinina-Arezzo.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Sisters of the Sacred Heart of Jesus of Ragusa (Suore del Sacro Cuore di Gesù di Ragusa)"
 martyr: false

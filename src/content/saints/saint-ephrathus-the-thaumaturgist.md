@@ -1,7 +1,7 @@
 ---
 name: "Saint Ephrathus the Thaumaturgist"
 honorific: Saint
-title: "Monk"
+title: "Saint Ephrathus the Thaumaturgist"
 summary: "Monk. Abbot of the Abgaro monastery on Mount Olympus, Bithynia (in modern Turkey)."
 searchAliases:
   - "Ephrathus the Wonder Worker"

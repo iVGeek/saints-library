@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alphonsine Anuarite Nengapeta"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Alphonsine Anuarite Nengapeta"
 summary: "Born to a non-Christian family, the daughter of Nengapeta. With her mother and sisters, she converted to Christianity, taking the name Alfonsina. Nun, a member of the Nivelles, Belgium based Congregation of the Holy Family, making her first profession on 5 August 1959. Served as"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alphonsine-Anuarite-Nengapeta.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

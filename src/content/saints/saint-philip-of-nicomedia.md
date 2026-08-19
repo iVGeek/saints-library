@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philip of Nicomedia"
 summary: "Martyr."
 died: "Nicomedia, Bithynia (in modern Turkey)"
 deathPlace: "Bithynia (modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

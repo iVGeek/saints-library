@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Won Si-jang"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Won Si-jang"
 summary: "Layman convert who served as a catechist. Martyred in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1732
@@ -15,9 +15,7 @@ feastDay:
   month: 1
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

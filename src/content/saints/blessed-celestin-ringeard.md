@@ -1,7 +1,7 @@
 ---
 name: "Blessed Célestin Ringeard"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Célestin Ringeard"
 summary: "Célestin served as a nurse during the Algeria Independence War, caring for the injured on both sides of the conflict. Catechist who worked with the homeless, alcoholics, prostitutes and outcasts of Nantes, France. Diocesan priest. Célestin joined the Trappist monks in 1983, and m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Célestin-Ringeard.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

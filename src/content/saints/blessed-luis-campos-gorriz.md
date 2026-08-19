@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Campos Górriz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis Campos Górriz"
 summary: "Educated from age 7 by Jesuits. From 1921 to 1926 he studied law and philosophy at the University of Valencia. While in university, he worked with Marian congregations. Began work as a lawyer in 1930. Married to Carmen Arteche Echeturia in the archdiocese of Valencia, Spain on 25"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Campos-Górriz.jpg"
 birthYear: 1905
@@ -16,9 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

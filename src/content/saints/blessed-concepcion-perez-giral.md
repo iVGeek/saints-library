@@ -1,7 +1,7 @@
 ---
 name: "Blessed Concepción Pérez Giral"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Concepción Pérez Giral"
 summary: "Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

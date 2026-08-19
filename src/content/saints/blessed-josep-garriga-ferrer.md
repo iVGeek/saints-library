@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Garriga Ferrer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Garriga Ferrer"
 summary: "Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Garriga-Ferrer.jpg"
 birthYear: 1872
@@ -16,10 +16,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.

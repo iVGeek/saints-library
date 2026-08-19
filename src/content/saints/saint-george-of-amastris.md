@@ -1,7 +1,7 @@
 ---
 name: "Saint George of Amastris"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint George of Amastris"
 summary: "Hermit on Mount Sirik; monk at Bonyssa; bishop of Amastris (modern Amasra, Turkey). Successfully defended Amastris city during Saracen attacks."
 deathYear: 825
 born: "at Kromna near Amastris on the Black Sea"

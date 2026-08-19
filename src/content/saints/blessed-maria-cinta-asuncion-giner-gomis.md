@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Cinta Asunción Giner Gomis"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Missionary"
+title: "Blessed María Cinta Asunción Giner Gomis"
 summary: "Nun, member of the Religious of Mary Immaculate, Claretian Missionary Sisters. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Cinta-Asuncion-Giner-Gomis.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Missionary
 martyr: true
 ---

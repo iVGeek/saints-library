@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jose María Bengoa Aranguren"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jose María Bengoa Aranguren"
 summary: "Passionist priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Juan Pedro of Saint Anthony"
@@ -17,9 +17,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

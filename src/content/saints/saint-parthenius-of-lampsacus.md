@@ -1,7 +1,7 @@
 ---
 name: "Saint Parthenius of Lampsacus"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Saint Parthenius of Lampsacus"
 summary: "Fourth-century bishop of Lampsacus in the Hellespont region of modern Turkey. Known for his preaching, evangelizing and his great example of Christian life that led many to the faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Parthenius-of-Lampsacus.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 patronage:
   - "against mad dogs"
   - "fishermen"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Martínez Garrido"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Martínez Garrido"
 summary: "Priest of the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Martinez-Garrido.jpg"
 birthYear: 1866
@@ -16,9 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

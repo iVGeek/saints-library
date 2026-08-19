@@ -1,7 +1,7 @@
 ---
 name: "Saint Troadius of Pontus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Troadius of Pontus"
 summary: "A young man born to the nobility who publicly proclaimed his Christianity. Martyred in the persecutions of Decius."
 searchAliases:
   - "Troadus"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

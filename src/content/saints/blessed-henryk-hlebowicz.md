@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henryk Hlebowicz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Henryk Hlebowicz"
 summary: "Priest in the diocese of Wloclawek, Poland. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Henryk_Hlebowicz.jpg"
 birthYear: 1904
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

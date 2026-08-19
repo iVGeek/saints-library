@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelgitha of Northumbria"
 honorific: Saint
-title: "Religious"
+title: "Saint Ethelgitha of Northumbria"
 summary: "Nun. Abbess of a convent in Northumbria, England."
 deathYear: 720
 died: "c.720"

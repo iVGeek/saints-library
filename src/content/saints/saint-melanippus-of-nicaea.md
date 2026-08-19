@@ -1,7 +1,7 @@
 ---
 name: "Saint Melanippus of Nicaea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Melanippus of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Melanippi"
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Zoticus of Tomi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Zoticus of Tomi"
 summary: "Martyr."
 searchAliases:
   - "Zolicus"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

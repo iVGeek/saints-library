@@ -1,7 +1,7 @@
 ---
 name: "Blessed Florencio Arnáiz Cejudo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Florencio Arnáiz Cejudo"
 summary: "Marianist brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Florencio-Arnaiz-Cejudo.jpg"
 birthYear: 1909
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

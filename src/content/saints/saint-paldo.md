@@ -1,7 +1,7 @@
 ---
 name: "Saint Paldo"
 honorific: Saint
-title: "Monk"
+title: "Saint Paldo"
 summary: "Brother of Saint Tato and Saint Taso. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the monastery of San Vincenzo on the Voltorno river. First abbot of the house."
 deathYear: 720
 born: "in Benevento, Italy"

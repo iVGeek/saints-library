@@ -1,7 +1,7 @@
 ---
 name: "Saint Chariton"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Chariton"
 summary: "Martyred in the persecutions of Diocletian."
 died: "burned to death, date unknown"
 deathPlace: "date unknown"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

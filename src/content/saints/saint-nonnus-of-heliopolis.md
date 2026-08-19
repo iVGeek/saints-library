@@ -1,7 +1,7 @@
 ---
 name: "Saint Nonnus of Heliopolis"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Nonnus of Heliopolis"
 summary: "Bishop of Heliopolis in 471."
 region: "England"
 feastDay:

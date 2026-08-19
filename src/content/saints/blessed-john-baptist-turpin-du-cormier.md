@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Baptist Turpin du Cormier"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed John Baptist Turpin du Cormier"
 summary: "Parish priest in the diocese of Laval, France. Leader of the Blessed Martyrs of Laval."
 birthYear: 1732
 deathYear: 1794
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

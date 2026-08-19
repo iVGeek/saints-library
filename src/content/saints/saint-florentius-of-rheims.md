@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Rheims"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon"
+title: "Saint Florentius of Rheims"
 summary: "Deacon. Martyred in the barbarian invasion of Rheims, France."
 deathYear: 451
 died: "beheaded c.451 at Rheims, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

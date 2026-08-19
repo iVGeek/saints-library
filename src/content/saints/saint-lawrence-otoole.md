@@ -1,7 +1,7 @@
 ---
 name: "Saint Lawrence O'Toole"
 honorific: Saint
-title: "Martyr"
+title: "Saint Lawrence O'Toole"
 summary: "Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old; Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough, Ireland. and raised and educated at the monastic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-OToole.jpg"
 searchAliases:
@@ -19,12 +19,11 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "archdiocese of Dublin, Ireland"
-martyr: true
+martyr: false
 ---
 
 Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old; Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough, Ireland. and raised and educated at the monastic school there. Monk at Glendalough, and then abbot in 1153. Declined the bishopric of Glendalough in 1160, citing his unworthiness. Ordered to accept the archbishopric of Dublin, Ireland in 1161, he became the first native-born Irishman to hold the see.

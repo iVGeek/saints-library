@@ -1,7 +1,7 @@
 ---
 name: "Venerable Amalia Streitel"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Amalia Streitel"
 summary: "One of four children raised in a pious family. Educated to be a teacher of music and language, but around age 17 she began to feel drawn to religious life. Her family opposed the vocation, but finally relented when Amalia was about 21, and she joined the Franciscan Sisters at the"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-amalia-streitel/venerable-amalia-streitel.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Quadratus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quadratus"
 summary: "Martyr. Saint Augustine of Hippo wrote about him."
 died: "Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

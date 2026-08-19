@@ -1,7 +1,7 @@
 ---
 name: "Saint Pontius of Cimiez"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Pontius of Cimiez"
 summary: "Born to a pagan imperial Roman senatorial family, the son of Marcus and and Julia. Martyred in the persecutions of Valerian and Gallienus."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Saint-Pons_martyr.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-René Rogue"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pierre-René Rogue"
 summary: "Priest. Member of the Congregation of the Mission (Vincentians). Ordered to take an oath of allegiance to the anti-Catholic government of the French Revolution; he refused. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vannes_-_cath%C3%A9drale%2C_statue_de_PR_Rogue.JPG/960px-Vannes_-_cath%C3%A9drale%2C_statue_de_PR_Rogue.JPG"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Lazarist"
 martyr: true
 ---

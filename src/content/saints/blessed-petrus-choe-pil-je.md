@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Choe Pil-je"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Choe Pil-je"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Peter"
@@ -15,9 +15,7 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

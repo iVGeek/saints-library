@@ -1,7 +1,7 @@
 ---
 name: "Saint Amelberga of Susteren"
 honorific: Saint
-title: "Religious"
+title: "Saint Amelberga of Susteren"
 summary: "Benedictine nun. Abbess of Susteren Abbey."
 searchAliases:
   - "Amalburga"

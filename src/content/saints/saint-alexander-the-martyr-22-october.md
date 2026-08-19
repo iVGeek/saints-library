@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Alexander the Martyr"
 summary: "Missionary bishop in imperial Rome. Ordered to sacrifice to pagan idols, he refused. Martyr."
 died: "beheaded"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

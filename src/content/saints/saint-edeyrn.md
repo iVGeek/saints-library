@@ -1,7 +1,7 @@
 ---
 name: "Saint Edeyrn"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Edeyrn"
 summary: "Hermit the Armonica area of Brittany in modern France. Evangelist in Wales. Legend says that he spent his early life as a friend of King Arthur."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/St_Edeyrn%27s_church%2C_Llanedeyrn.jpg/960px-St_Edeyrn%27s_church%2C_Llanedeyrn.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "Landeyrn, Brittany, France"
 martyr: false

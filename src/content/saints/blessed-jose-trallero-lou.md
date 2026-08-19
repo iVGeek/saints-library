@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Trallero Lou"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Trallero Lou"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Trallero-Lou.jpg"
 birthYear: 1903
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

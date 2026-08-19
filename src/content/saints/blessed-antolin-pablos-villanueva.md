@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antolín Pablos Villanueva"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Monk, Pope, Cardinal"
+title: "Blessed Antolín Pablos Villanueva"
 summary: "Benedictine monk, Solesmes Congregation. Priest. Historian who worked in Madrid, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antolín-Pablos-Villanueva.jpg"
 birthYear: 1871
@@ -16,8 +16,6 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Benedictine"

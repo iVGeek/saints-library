@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frederick of Regensburg"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Frederick of Regensburg"
 summary: "Born to a poor family. Skilled carpenter. Member of the Augustinians. Worked as a carpenter and wood cutter for his house. Noted for his obedience to the Rule of his Order, his piety, the fervor of his prayer life and devotion to Eucharistic Adoration."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-of-Regensburg.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

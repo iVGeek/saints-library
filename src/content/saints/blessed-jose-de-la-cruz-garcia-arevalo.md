@@ -1,7 +1,7 @@
 ---
 name: "Blessed José de La Cruz García-Arévalo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José de La Cruz García-Arévalo"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Dos Torres community. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

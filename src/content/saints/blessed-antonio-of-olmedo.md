@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio of Olmedo"
 honorific: Blessed
-title: "Royalty, Missionary"
+title: "Blessed Antonio of Olmedo"
 summary: "Mercedarian friar. Missionary in Chile, bringing many to Christianity and instilling a love of devotions. Founded the Mercedarian convent of Santa Maria in Valdivia, Chile. Contracted a fatal illness while working with plague victims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-of-Olmedo.jpg"
 died: "plague in Chile"
@@ -11,7 +11,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Royalty
   - Missionary
 martyr: false
 ---

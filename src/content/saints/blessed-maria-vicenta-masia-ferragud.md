@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Vicenta Masiá Ferragud"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Vicenta Masiá Ferragud"
 summary: "Capuchin Poor Clare nun. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Vicenta-Masiá-Ferragud.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio of Saint Bonaventure"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Antonio of Saint Bonaventure"
 summary: "Franciscan Alcantarine missionary priest to Japan. He worked for ten years before his arrest, ministering to the faithful, hiding from the authorities. Martyr."
 searchAliases:
   - "Antonio of Tuy"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bona of Pisa"
 honorific: Saint
-title: "Priest, Pope, Soldier"
+title: "Saint Bona of Pisa"
 summary: "Mystic and visionary from her childhood. Augustinian tertiary by age 10. Pilgrim to the Holy Lands at age 14, travelling to see her father who was fighting in the Crusades. On the way home she was captured and imprisoned by Islamic pirates in the Mediterranean, but was rescued by"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Santa_Bona_-_Giovanni_Lorenzetti.jpg"
 birthYear: 1156
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Pope
   - Soldier
 religiousOrder: "Augustinian"
 patronage:

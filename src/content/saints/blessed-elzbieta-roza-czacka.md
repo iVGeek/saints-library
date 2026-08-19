@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elzbieta Róza Czacka"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Elzbieta Róza Czacka"
 summary: "The youngest of four children in an aristocratic family who moved from a small town in Ukraine to Warsaw, Poland in 1882. Rosa received a good secular and religious education even as her eyesight deteriorated; in 1898, at age 22, she was completely blind. She spent a lot of time"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elzbieta-Roza-Czacka.jpg"
 birthYear: 1876
@@ -14,9 +14,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

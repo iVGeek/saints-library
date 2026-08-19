@@ -1,7 +1,7 @@
 ---
 name: "Blessed Constantino Fernández Álvarez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Constantino Fernández Álvarez"
 summary: "Dominican priest, making his profession in the Order on 8 July 1923, and ordained on 10 November 1929. He earned a doctorate in theology at the Angelicum in Rome, Italy, and then stayed on for a while to teach there. He returned to Valencia, Spain, served briefly there as a teach"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Constantino-Fernández-Álvarez.jpg"
 birthYear: 1907
@@ -16,10 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

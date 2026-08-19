@@ -1,7 +1,7 @@
 ---
 name: "Saint Zygmunt Szcesny Felinski"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Saint Zygmunt Szcesny Felinski"
 summary: "Son of Gerard Felinski and Eva Wendorff, the third of six childen in a proudly patriotic Polish family. Two of his siblings died as children, and his father died when Sigimondo was 11 years old. His mother was arrested and exiled to Siberia in 1838 for her pro-Polish politics and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zygmunt-Szcesny-Felinski.jpg"
 searchAliases:
@@ -26,8 +26,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

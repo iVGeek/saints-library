@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Myra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Leo of Myra"
 summary: "Martyr."
 searchAliases:
   - "León"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

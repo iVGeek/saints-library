@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Whitbread"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Thomas Whitbread"
 summary: "Seminarian at Saint Omer, France. Joined the Jesuits in 1635. Priest. Using the alias Thomas Harcourt, he returned to England to minister to covert Catholics and serve as provincial of the Jesuit mission there. Falsely accused of conspiring to kill King Charles II. Martyr."
 searchAliases:
   - "Thomas Harcourt"
@@ -19,10 +19,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Martin_bouche-thomas_whitbread.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

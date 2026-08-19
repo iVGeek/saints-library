@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilary of Dijon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hilary of Dijon"
 summary: "Fifth century senator. Husband of Saint Quieta with whom he was martyred."
 died: "5th century Dijon, France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

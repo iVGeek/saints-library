@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luke Bergin"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Luke Bergin"
 summary: "Cistercian priest. One of the Irish Martyrs."
 deathYear: 1655
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

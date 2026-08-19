@@ -1,7 +1,7 @@
 ---
 name: "Saint Cajetan"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope, Royalty, Soldier, Confessor"
+title: "Saint Cajetan"
 summary: "Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of souls.” A distinguished student, he studied l"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"
@@ -39,7 +37,7 @@ patronage:
   - "Naples"
   - "Santo Stefano Medio, Messina"
   - "Vicenza"
-martyr: true
+martyr: false
 ---
 
 Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of souls.” A distinguished student, he studied law in Padua, Italy, and was offered positions in the government, but he turned them down and left his native town to seek a religious vocation and obscurity in Rome. Found out, he was forced at age 28 to accept a position at the court of Pope Julius II. He was ordained a priest at age 36.

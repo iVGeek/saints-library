@@ -1,7 +1,7 @@
 ---
 name: "Saint Ithamar of Rochester"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Ithamar of Rochester"
 summary: "Known in his day for his learning. First Anglo-Saxon to be ordained a bishop, succeeding Saint Paulinus of York to the see of Rochester, England in 644, consecrated by Saint Honorius. Miraculous cures, especially of the eyes, recorded at his tomb."
 searchAliases:
   - "Itamaro"

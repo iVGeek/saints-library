@@ -1,7 +1,7 @@
 ---
 name: "Blessed Caius of Korea"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Caius of Korea"
 summary: "Layman catechist in the archdiocese of Nagasaki, Japan. Martyr. Caius was accepted into the Jesuits, but had been executed before the notice reached him."
 searchAliases:
   - "Caio"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

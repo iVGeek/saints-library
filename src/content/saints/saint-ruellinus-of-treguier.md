@@ -1,7 +1,7 @@
 ---
 name: "Saint Ruellinus of Treguier"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Ruellinus of Treguier"
 summary: "Monk. Priest. Bishop of Tréguier, Brittany, France."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ruellinus-of-Treguier.jpg"
 searchAliases:

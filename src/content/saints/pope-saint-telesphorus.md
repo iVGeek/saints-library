@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Telesphorus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Hermit"
+title: "Pope Saint Telesphorus"
 summary: "Greek, probably from Calabria. Pope. Celebrated Easter on Sunday but maintained fellowship with communities that did not. Started the tradition of Christmas Midnight Mass, and decided that the Gloria should be sung. Some legends say he was a hermit before his election, and that h"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Straubing%2C_Karmelitenkirche_008.JPG/960px-Straubing%2C_Karmelitenkirche_008.JPG"
 searchAliases:
@@ -14,10 +14,8 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Hermit
 martyr: true
 ---

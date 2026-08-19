@@ -1,7 +1,7 @@
 ---
 name: "Saint Philibert of Jumièges"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Philibert of Jumièges"
 summary: "The only son of a member of the court of King Dagobert I. Educated by Saint Ouen of Rouen. Monk of Rébais Abbey at age 20. Abbot of Rébais. He spent some time travelling to various monasteries, studying their Rules, constitutions and methods of mangement. Founded Jumièges Abbey o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Abbatiale_de_Saint-Philbert-de-Grand-Lieu_%28statue_SP1%29.jpg/960px-Abbatiale_de_Saint-Philbert-de-Grand-Lieu_%28statue_SP1%29.jpg"
 birthYear: 608
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "in France\n\nNoirmoutier"
   - "Quinçay"

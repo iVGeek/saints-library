@@ -1,7 +1,7 @@
 ---
 name: "Blessed Philip of Piacenza"
 honorific: Blessed
-title: "Priest, Hermit"
+title: "Blessed Philip of Piacenza"
 summary: "Priest. Augustinian hermit at Piacenza, Italy. Wore iron armor at all times as a way of reducing his concern for things of the flesh. Known for healing through prayer."
 searchAliases:
   - "Philip Suzanni"

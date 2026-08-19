@@ -1,7 +1,7 @@
 ---
 name: "Saint Hyacinth of Lucania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hyacinth of Lucania"
 summary: "Martyr."
 died: "Lucania, southern Italy"
 deathPlace: "southern Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

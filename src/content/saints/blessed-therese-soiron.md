@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thérèse Soiron"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Thérèse Soiron"
 summary: "Blood-sister of Blessed Catherine Soiron. Served as a tourière, a lay woman who made non-canonical private vows in 1772, and handled the affairs of the cloistered Discalced Carmelite nuns with the outside world. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christ"
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 birthYear: 1748
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

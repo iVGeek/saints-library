@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felix of Monte Cassino"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Felix of Monte Cassino"
 summary: "Benedictine monk at Monte Cassino who worked as spiritual teacher and director to area shepherds."
 searchAliases:
   - "Felix of Chieti"

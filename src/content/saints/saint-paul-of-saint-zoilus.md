@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Saint Zoilus"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Paul of Saint Zoilus"
 summary: "Deacon in Moorish-occupied Cordoba, Spain. Monk at the Saint Zoilus monastery in Cordoba. Had a special ministry caring for Christians imprisoned for their faith by the Muslims. Martyr."
 searchAliases:
   - "Paul of Cordoba"
@@ -13,7 +13,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

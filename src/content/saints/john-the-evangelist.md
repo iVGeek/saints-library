@@ -26,8 +26,6 @@ feastDay:
 liturgicalRank: Feast
 canonizationStatus: Saint
 vocation:
-  - Apostle
-  - Evangelist
   - Founder
 patronage:
   - writers

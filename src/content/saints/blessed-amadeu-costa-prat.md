@@ -2,7 +2,7 @@
 name: "Blessed Amadeu Costa Prat"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jochs_Florals_de_Barcelona_en_1901.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1901.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Amadeu Costa Prat"
 summary: "Member of the Claretians, professed on 15 August 1932. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

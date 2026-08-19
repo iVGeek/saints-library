@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diego Hompanera París"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Diego Hompanera París"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint They"
 honorific: Saint
-title: "Saint"
+title: "Saint They"
 summary: "Fifth century spiritual student of Saint Guénolé at Landévennec abbey in Brittany."
 searchAliases:
   - "Dei"
@@ -13,8 +13,7 @@ feastDay:
   month: 7
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Lothey, France"
 martyr: false

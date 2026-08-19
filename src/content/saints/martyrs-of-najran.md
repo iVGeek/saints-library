@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Najran"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Martyrs of Najran"
 summary: "342 priests, religious and lay people who were martyred together by order of Dhu Nuwas, king of the Omeritani who had converted to Judaism and demanded that everyone in the his kingdom do so, too."
 searchAliases:
   - "Martyrs of Nagrana"
@@ -14,10 +14,8 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

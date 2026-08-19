@@ -1,7 +1,7 @@
 ---
 name: "Saint Asterius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Asterius"
 summary: "Martyr."
 searchAliases:
   - "Asterio"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stanislaus Han Jeong-Heum"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Stanislaus Han Jeong-Heum"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg"
 birthYear: 1756
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

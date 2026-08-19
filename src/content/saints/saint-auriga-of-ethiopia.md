@@ -1,7 +1,7 @@
 ---
 name: "Saint Auriga of Ethiopia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Auriga of Ethiopia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Aurec"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Aldhelm of Sherborne"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit, Royalty"
+title: "Saint Aldhelm of Sherborne"
 summary: " Abbot at Malmesbury c Son of Centa, he was a Saxon and related to the King of Wessex. Lived for a while as a hermit near Wiltshire, England. Monk at Malmesbury Abbey in Wiltshire. Spiritual student of Saint Maeldulph and Saint Adrian of Canterbury. Teacher and spiritual director."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aldhelm-of-Sherborne1.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Benedictine"

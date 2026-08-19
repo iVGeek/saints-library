@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisca Desamparados Honorata Lloret Martí"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Francisca Desamparados Honorata Lloret Martí"
 summary: "While studying to be a teacher, Francisca felt a call to religious life, and on 20 April 1903 joined the Sisters of the Christian Doctrine, taking the name Ángeles de San José. Superior General of the Congregation on 16 February 1936. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

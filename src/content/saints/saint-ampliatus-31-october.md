@@ -1,7 +1,7 @@
 ---
 name: "Saint Ampliatus"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Ampliatus"
 summary: "First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans. Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr."
 died: "relics at Constantinople"
 region: "England"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Stachys%2C_Amplias%2C_Urban_%28Menologion_of_Basil_II%29.jpg/960px-Stachys%2C_Amplias%2C_Urban_%28Menologion_of_Basil_II%29.jpg"
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

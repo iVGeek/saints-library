@@ -1,7 +1,7 @@
 ---
 name: "Blessed Almus of Balmerino"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Almus of Balmerino"
 summary: "13th century Cistercian monk in Melrose, England. First abbot of Balmerino Abbey, founded c.1228."
 searchAliases:
   - "Alme"

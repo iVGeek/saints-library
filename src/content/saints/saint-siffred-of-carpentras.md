@@ -1,7 +1,7 @@
 ---
 name: "Saint Siffred of Carpentras"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Siffred of Carpentras"
 summary: "Monk at Lérins Abbey. Bishop of Carpentras, France."
 searchAliases:
   - "Siffrein"

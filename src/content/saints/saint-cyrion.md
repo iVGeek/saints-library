@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrion"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Cyrion"
 summary: "Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius."
 searchAliases:
   - "Quirinus"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

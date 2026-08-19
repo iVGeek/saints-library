@@ -1,7 +1,7 @@
 ---
 name: "Saint Fulk of Piacenza"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope"
+title: "Saint Fulk of Piacenza"
 summary: "Canon. Studied in Paris, France. Archpriest and then bishop of Piacenza, Italy. Bishop of Pavia, Italy in 1216, chosen by Pope Honorius III."
 image: "http://catholicsaints.info/wp-content/uploads/img-San-Folco-Scotti.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

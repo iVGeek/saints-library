@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alessandra Ghilardi"
 honorific: Venerable
-title: "Martyr, Religious, Pope, Royalty"
+title: "Venerable Alessandra Ghilardi"
 summary: "While working at a nursing home, she met and came to admire the Sisters of the Poor, Palazzolo Institute, and joined them on 8 September 1952. Assigned to the Belgian Congo in 1959, she spent the rest of her life working there in the missions, primarily as a midwife, but died whi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Alessandra-Ghilardi.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 While working at a nursing home, she met and came to admire the Sisters of the Poor, Palazzolo Institute, and joined them on 8 September 1952. Assigned to the Belgian Congo in 1959, she spent the rest of her life working there in the missions, primarily as a midwife, but died while treating patients in the Ebola epidemic.

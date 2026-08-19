@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudiosus of Naples"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Gaudiosus of Naples"
 summary: "Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where he founded a monastery."
 searchAliases:
   - "Gaudiosus of Abitinae"
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

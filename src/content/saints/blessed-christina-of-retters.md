@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christina of Retters"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Christina of Retters"
 summary: "Premonstratensian nun who developed a mystical prayer life after receiving a vision of the Child Jesus."
 birthYear: 1269
 deathYear: 1292

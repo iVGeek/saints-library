@@ -1,7 +1,7 @@
 ---
 name: "Blessed Assone of Torgau"
 honorific: Blessed
-title: "Martyr, Priest"
+title: "Blessed Assone of Torgau"
 summary: "Franciscan friar known for the holiness of his life and as a miracle worker."
 searchAliases:
   - "Asso"
@@ -16,10 +16,9 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan friar known for the holiness of his life and as a miracle worker.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Doda of Rheims"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Doda of Rheims"
 summary: "Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims, France."
 searchAliases:
   - "Deuteria"
@@ -13,12 +13,11 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims, France.

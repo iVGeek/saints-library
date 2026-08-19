@@ -1,7 +1,7 @@
 ---
 name: "Saint Papius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Papius"
 summary: "Martyr. No other information has survived"
 deathYear: 303
 died: "c.303, probably in Sicily"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

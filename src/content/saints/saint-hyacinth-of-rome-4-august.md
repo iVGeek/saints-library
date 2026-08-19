@@ -1,7 +1,7 @@
 ---
 name: "Saint Hyacinth of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hyacinth of Rome"
 summary: "Martyr."
 searchAliases:
   - "Giacinto"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Thorette"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Thorette"
 summary: "Worked as a shepherdess most of her life. Lived as a hermitess late in life. In both states she spent most of her time in prayer."
 feastDay:
   month: 5

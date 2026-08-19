@@ -1,7 +1,7 @@
 ---
 name: "Saint Septimius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Septimius"
 summary: "Martyr."
 searchAliases:
   - "Settimio"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

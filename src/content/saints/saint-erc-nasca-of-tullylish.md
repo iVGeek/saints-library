@@ -1,7 +1,7 @@
 ---
 name: "Saint Erc Nasca of Tullylish"
 honorific: Saint
-title: "Martyr, Monk, Confessor"
+title: "Saint Erc Nasca of Tullylish"
 summary: "Confessor of the faith in Ireland. His memorial is found on several calendars and martyrologies, but the details of his life have been lost."
 searchAliases:
   - "Erc Nasca de Talach-leis"
@@ -18,7 +18,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Confessor
 martyr: true

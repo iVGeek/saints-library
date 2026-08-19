@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphrosyne of Polotsk"
 honorific: Saint
-title: "Virgin, Religious, Pope, Hermit, Royalty"
+title: "Saint Euphrosyne of Polotsk"
 summary: "Daughter of Prince Svyatoslav of Polotsk. Granddaughter of Prince Polacak Usiaslau. Entered the Convent of Holy Wisdom at Polotsk, a house founded by her aunt, at age 12; she was later joined by her sister, two nieces, and a cousin. Hermit in a cell in the Cathedral of Holy Wisdo"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/E%C5%ADfrasi%C5%84nia_Po%C5%82ackaja._%D0%AD%D1%9E%D1%84%D1%80%D0%B0%D1%81%D1%96%D0%BD%D1%8C%D0%BD%D1%8F_%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%281859%29.jpg/960px-E%C5%ADfrasi%C5%84nia_Po%C5%82ackaja._%D0%AD%D1%9E%D1%84%D1%80%D0%B0%D1%81%D1%96%D0%BD%D1%8C%D0%BD%D1%8F_%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%8F_%281859%29.jpg"
 searchAliases:
@@ -24,9 +24,7 @@ canonizationStatus: Saint
 vocation:
   - Virgin
   - Religious
-  - Pope
   - Hermit
-  - Royalty
 patronage:
   - "Belarus"
 martyr: false

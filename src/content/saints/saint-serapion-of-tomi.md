@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion of Tomi"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Serapion of Tomi"
 summary: "Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian."
 died: "tied to a stake and burned alive; he emerged unharmed"
 region: "Italy"
@@ -10,10 +10,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian.

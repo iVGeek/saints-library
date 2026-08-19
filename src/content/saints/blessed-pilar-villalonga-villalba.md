@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pilar Villalonga Villalba"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pilar Villalonga Villalba"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Member of Catholic Action. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pilar-Villalonga-Villalba.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 12
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

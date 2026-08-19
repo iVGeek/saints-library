@@ -1,7 +1,7 @@
 ---
 name: "Saint Jean-Pierre Néel"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Jean-Pierre Néel"
 summary: "Jesuit priest. Missionary to Kuy-tsheu, China in 1858. Arrested, tortured and martyred with three of his converts."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Pierre_Neel.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 18
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

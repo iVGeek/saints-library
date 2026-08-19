@@ -1,7 +1,7 @@
 ---
 name: "Saint Exuperius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Exuperius"
 summary: "One of the Martyrs of the Theban Legion. No other information has survived."
 searchAliases:
   - "Essuperio"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Le_Mus%C3%A9e_Paul_Dupuy_-_Ch%C3%A2sse_de_saint-Exup%C3%A8re.jpg/960px-Le_Mus%C3%A9e_Paul_Dupuy_-_Ch%C3%A2sse_de_saint-Exup%C3%A8re.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

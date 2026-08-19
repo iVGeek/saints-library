@@ -1,7 +1,7 @@
 ---
 name: "Saint Zenaides of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zenaides of Caesarea"
 summary: "Convert. Martyr."
 searchAliases:
   - "Zenaide"
@@ -14,7 +14,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Honoratus of Canterbury"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Missionary, Confessor"
+title: "Saint Honoratus of Canterbury"
 summary: "Benedictine monk. Missionary to England by order of Pope Gregory the Great, and at the request of Saint Augustine of Canterbury. Bishop, ordained at Lincoln, England by Saint Paulinus of York. Archbishop of Canterbury, England in 627. Ordained Saint Felix of East Anglia as bishop"
 searchAliases:
   - "Honorius"
@@ -17,7 +17,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

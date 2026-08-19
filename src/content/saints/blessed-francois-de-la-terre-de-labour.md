@@ -1,7 +1,7 @@
 ---
 name: "Blessed François de la Terre de Labour"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed François de la Terre de Labour"
 summary: "Franciscan Friar Minor. Martyred for trying to bring apostates back to the faith."
 searchAliases:
   - "François of Cairo"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Franciscan"
 martyr: true

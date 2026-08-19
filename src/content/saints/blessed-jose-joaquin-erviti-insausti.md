@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Joaquín Erviti Insausti"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed José Joaquín Erviti Insausti"
 summary: "Redemptorist brother, joinin on 24 February 1930, and making his solemn profession on 24 February 1935. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Joaquin-Erviti-Insausti.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 8
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Redemptorist"
 martyr: true
 ---

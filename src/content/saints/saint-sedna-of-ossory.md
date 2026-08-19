@@ -1,7 +1,7 @@
 ---
 name: "Saint Sedna of Ossory"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Sedna of Ossory"
 summary: "Benedictine monk. Abbot of Seir-Kieran abbey. Bishop of Ossory, Ireland. Friend of Saint Luanus."
 region: "Ireland"
 feastDay:

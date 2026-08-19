@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ante Antic"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Ante Antic"
 summary: "Franciscan Friar Minor. Priest."
 birthYear: 1893
 deathYear: 1965
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint John the Wonder Worker"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint John the Wonder Worker"
 summary: "Bishop of Polybotum, Phrygia. Defended orthodox teachings and the use of images against emperor Leo the iconoclast. His reputation as a miracle worker was such that the emperor feared to act against him."
 searchAliases:
   - "John Thaumaturgus"
@@ -13,10 +13,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Polybotum, Phrygia. Defended orthodox teachings and the use of images against emperor Leo the iconoclast. His reputation as a miracle worker was such that the emperor feared to act against him.

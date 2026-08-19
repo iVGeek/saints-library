@@ -1,7 +1,7 @@
 ---
 name: "Saint Polius of Mauretania"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Polius of Mauretania"
 summary: "Deacon in Mauretania Caesariensis in North Africa. Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

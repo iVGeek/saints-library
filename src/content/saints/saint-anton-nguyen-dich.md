@@ -1,7 +1,7 @@
 ---
 name: "Saint Antôn Nguyen Ðích"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Antôn Nguyen Ðích"
 summary: "Married layman in the apostolic vicariate of West Tonkin. A wealthy farmer, solid citizen, and patron of his church. He worked to help the missionaries of the Paris Foreign Mission Society, supporting them financially, and hiding priests from government oppression. Arrested and t"
 searchAliases:
   - "Anthony Dich Nguyen"
@@ -17,9 +17,7 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

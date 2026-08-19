@@ -27,7 +27,6 @@ beatifiedDate: 30 May 1232
 canonizedDate: 30 May 1232
 vocation:
   - Priest
-  - Doctor
   - Preacher
   - Franciscan
 religiousOrder: Franciscan

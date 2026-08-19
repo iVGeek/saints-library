@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eugenio Sanz-Orozco Mortera"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Eugenio Sanz-Orozco Mortera"
 summary: "Son of Eugenio del Saz-Orozco de la Oz, the last Spanish mayor of Manila, Philippines, and Felisa Mortera y Camacho. Educated at Ateneo de Manila University, Colegio de San Juan de Letran, and University of Santo Tomas. Against the wishes of his parents, Eugenio felt a call to re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenio-Sanz-Orozco-Mortera.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

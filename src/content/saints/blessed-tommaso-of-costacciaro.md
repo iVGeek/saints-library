@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tommaso of Costacciaro"
 honorific: Blessed
-title: "Monk, Pope, Hermit"
+title: "Blessed Tommaso of Costacciaro"
 summary: "After a visit to a Camaldolese hermitage in 1270, Tommaso was drawn to the monastic and eremetical life. Camaldolese monk in the abbey of Santa Maria in Sitria, Italy. Hermit on Monte Cucco in the Umbria region of Italy for over 60 years, living a life of utter poverty and denial"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tommaso-of-Costacciaro.jpg"
 deathYear: 1337
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 patronage:

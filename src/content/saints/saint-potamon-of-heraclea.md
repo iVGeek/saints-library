@@ -1,7 +1,7 @@
 ---
 name: "Saint Potamon of Heraclea"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Potamon of Heraclea"
 summary: "Bishop of Heraclea, Egypt. Tortured, mutilated and crippled for his faith during the persecutions of Maximinus Daia in the early 4th century. Attended the Council of Nice in 325 and zealously opposed Arianism. Friend of Saint Athanasius whom he defended in the Council of Tyre in"
 searchAliases:
   - "Potamon of Alexandria"
@@ -15,7 +15,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

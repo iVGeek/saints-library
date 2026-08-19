@@ -1,7 +1,7 @@
 ---
 name: "Saint Romain of Ryazan"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Romain of Ryazan"
 summary: "Son of the Prince of Ryazan. Imprisoned, tortured and murdered by pagan Tatars who accused him of insulting their gods. Martyr."
 searchAliases:
   - "Romanus"
@@ -13,9 +13,7 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

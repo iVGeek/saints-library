@@ -1,7 +1,7 @@
 ---
 name: "Saint Randoald of Granfield"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Randoald of Granfield"
 summary: "Monk. Prior of Granfield Abbey, Val Moutier, Switzerland. Martyred for interceding with local authorities on behalf of the poor."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Randoald-of-Granfield.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

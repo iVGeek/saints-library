@@ -1,7 +1,7 @@
 ---
 name: "Saint Tipasio of Tigava"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Tipasio of Tigava"
 summary: "Veteran soldier. During the persecutions of Diocletian, all soldiers were ordered to sacrifice to pagan idols; Tipasio refused. Martyr."
 searchAliases:
   - "Typasius of Tigava"
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

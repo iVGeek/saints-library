@@ -1,7 +1,7 @@
 ---
 name: "Saint Zachary of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zachary of Nicomedia"
 summary: "Martyr."
 died: "at Nicomedia, date unknown"
 deathPlace: "date unknown"
@@ -10,7 +10,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

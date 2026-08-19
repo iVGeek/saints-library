@@ -1,7 +1,7 @@
 ---
 name: "Saint Zama of Bologna"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Zama of Bologna"
 summary: "First known bishop of Bologna, Italy, consecrated by Pope Saint Dionysius, c.260."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zama-of-Bologna.jpg"
 searchAliases:
@@ -14,11 +14,9 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 First known bishop of Bologna, Italy, consecrated by Pope Saint Dionysius, c.260.

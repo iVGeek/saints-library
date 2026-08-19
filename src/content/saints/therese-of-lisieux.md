@@ -29,7 +29,6 @@ beatifiedDate: 29 April 1923
 canonizedDate: 17 May 1925
 vocation:
   - Nun
-  - Doctor
   - Mystic
 religiousOrder: Discalced Carmelite
 patronage:

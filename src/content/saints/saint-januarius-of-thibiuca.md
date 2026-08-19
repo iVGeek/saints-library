@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of Thibiuca"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Januarius of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

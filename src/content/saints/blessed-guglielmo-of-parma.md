@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guglielmo of Parma"
 honorific: Blessed
-title: "Soldier"
+title: "Blessed Guglielmo of Parma"
 summary: "Born to the Italian nobility. Mercedarian lay knight, receiving the habit from Saint Peter Nolasco. Known as an innocent and virtuous young man."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Parma.jpg"
 searchAliases:

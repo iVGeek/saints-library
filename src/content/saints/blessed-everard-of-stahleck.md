@@ -1,7 +1,7 @@
 ---
 name: "Blessed Everard of Stahleck"
 honorific: Blessed
-title: "Monk, Religious, Deacon, Hermit"
+title: "Blessed Everard of Stahleck"
 summary: "Born to the nobility, the youngest son of Wolfram of family of the counts of Stahleck in modern Germany. Page in the court at Heidelberg, Germany. In his early teens, Everard felt a call to religious life and tried three times to enter the Cistercian abbey of Schönau near Heidelb"
 searchAliases:
   - "Everard of Commed"

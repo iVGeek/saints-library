@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Morales Membrives"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Gregorio Morales Membrives"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

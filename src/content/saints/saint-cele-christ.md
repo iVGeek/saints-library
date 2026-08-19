@@ -1,7 +1,7 @@
 ---
 name: "Saint Cele-Christ"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Cele-Christ"
 summary: "Hermit. Reluctant bishop of Leinster, Ireland."
 searchAliases:
   - "Christicola"

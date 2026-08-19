@@ -1,7 +1,7 @@
 ---
 name: "Saint Guibertus of Gorze"
 honorific: Saint
-title: "Monk, Hermit, Soldier"
+title: "Saint Guibertus of Gorze"
 summary: "Born to the French nobility. Soldier who fought in several campaigns. Hermit on his estates at Gembloux, Brabant (in modern Belgium. Founded a monastery in Gembloux. Benedictine monk at Gorze Abbey near Metz, France. Though he wanted to retire from the world, he was forced to ret"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guibert-de-Gembloux.jpg"
 searchAliases:

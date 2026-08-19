@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter of Città di Castello"
 honorific: Blessed
-title: "Priest, Pope, Confessor"
+title: "Blessed Peter of Città di Castello"
 summary: "Joined the reformed Dominican priory of Cortona, Italy at age 15. Ordained in Cortona. Known for his deep life of prayer, penance and contemplation. Noted preacher, often on the theme of contemplating your own death, preaching with a skull in his hand."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Città-di-Castello.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

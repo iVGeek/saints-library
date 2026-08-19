@@ -1,7 +1,7 @@
 ---
 name: "Saint Abdon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Cardinal"
+title: "Saint Abdon"
 summary: "Cooper. With Saint Senen, he befriended Christians persecuted under Diocletian. Tortured and executed when they were found collecting the remains of martyrs in order to give them a respectable burial. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Abdon-and-Saint-Sennen.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Cardinal

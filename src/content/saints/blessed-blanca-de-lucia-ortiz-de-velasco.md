@@ -1,7 +1,7 @@
 ---
 name: "Blessed Blanca de Lucía y Ortiz de Velasco"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Blanca de Lucía y Ortiz de Velasco"
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

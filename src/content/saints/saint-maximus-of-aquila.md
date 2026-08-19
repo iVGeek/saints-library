@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Aquila"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Maximus of Aquila"
 summary: "Raised in a pious family, Maximus became a zealous deacon at Aveia, Italy. He aspired to the priesthood, but his open and unapologetic Christianity led to him being imprisoned, tortured and executed during the persecutions of Decius. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maximus-of-Aquila.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

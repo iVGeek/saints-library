@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard Scammacca"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed Bernard Scammacca"
 summary: "Born to a wealthy and pious family, Bernard was well educated, but spent a wild and dissolute youth. During one of his revels he received a leg wound in a duel. His recovery gave him time to think, and the young man realized that he was headed in the wrong direction. As he was he"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-bernard-scammacca/blessed-bernard-scammacca-01.jpg"
 birthYear: 1430
@@ -15,13 +15,10 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Born to a wealthy and pious family, Bernard was well educated, but spent a wild and dissolute youth. During one of his revels he received a leg wound in a duel. His recovery gave him time to think, and the young man realized that he was headed in the wrong direction. As he was healed, Bernard renewed his life in the Church and then joined the Dominicans in Catania in 1452. Noted for his charitable works, his life of repentance for his earlier ways, his strict adherence to the rules of his Order, and his devotion to contemplation of Christ's Passion, which would sometimes send him into ecstacies. Founded a hospital for the poor. A gifted preacher, he preferred to spend his time in the confessional and working as a spiritual director. Had the gift of prophecy, and used it to warn people to change their lives; prophesied the date of his own death.

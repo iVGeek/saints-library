@@ -1,7 +1,7 @@
 ---
 name: "Saint Cronan of Ferns"
 honorific: Saint
-title: "Monk"
+title: "Saint Cronan of Ferns"
 summary: "Monk. Abbot of Ferns in the latter 7th-century."
 searchAliases:
   - "Mochua"

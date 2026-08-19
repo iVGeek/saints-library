@@ -1,7 +1,7 @@
 ---
 name: "Saint Aucias of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Aucias of Thessalonica"
 summary: "Reported to be a king, but of where is unknown. Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"
@@ -11,9 +11,7 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

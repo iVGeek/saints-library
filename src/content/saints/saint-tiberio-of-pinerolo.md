@@ -1,7 +1,7 @@
 ---
 name: "Saint Tiberio of Pinerolo"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Tiberio of Pinerolo"
 summary: "Soldier of the Theban Legion. Martyr."
 died: "3rd century near Pinerolo, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

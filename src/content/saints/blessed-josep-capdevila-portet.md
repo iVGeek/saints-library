@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Capdevila Portet"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Josep Capdevila Portet"
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
 birthYear: 1890
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

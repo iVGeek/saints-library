@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emiliano Martínez de La Pera Alava"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Emiliano Martínez de La Pera Alava"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Santiago.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 11
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

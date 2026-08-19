@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassia of Damascus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cassia of Damascus"
 summary: "Martyr."
 searchAliases:
   - "Cassius"
@@ -14,7 +14,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

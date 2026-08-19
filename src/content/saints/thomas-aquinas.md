@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: "1323"
 vocation:
   - Priest
-  - Doctor
   - Founder
 religiousOrder: Dominican
 patronage:

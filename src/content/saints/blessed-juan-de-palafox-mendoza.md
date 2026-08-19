@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan de Palafox Mendoza"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Juan de Palafox Mendoza"
 summary: "Born the illegitimate son of an Aragonese noble, Jaime de Palafox, the Marquis of Ariaza; his father would not recognize him, his mother became a Carmelite nun, and Juan was raised by a family of millers. When the boy was ten years old, his father finally acknowledged him and too"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Palafox-Mendoza.jpg"
 birthYear: 1600
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

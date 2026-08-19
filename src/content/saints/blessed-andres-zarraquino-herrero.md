@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrés Zarraquino Herrero"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Andrés Zarraquino Herrero"
 summary: "Member of the Brothers of the Christian Schools, joining in Cambrils on 27 July 1924 and taking the habit on 15 August 1925, taking the name Brother Honorato Andrés. Teacher in Tortosa, Gracia, and then the College of Our Lady of Bonanova in Barcelona, Spain. Martyred in the Span"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Zarraquino-Herrero.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 10
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

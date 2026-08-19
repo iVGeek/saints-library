@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Hermit"
+title: "Saint Marinus"
 summary: "Stonemason who worked at Monte Titano in modern San Marino. Layman preacher who converted many, and ministered to Christians who had been sentenced to quarry work as punishment for their faith. Deacon, ordained by Saint Gaudentius of Rimini. Bishop of Rimini, Italy. Though he bel"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG/960px-Pompeo_batoni_san_marino_risolleva_la_repubblica_by_stefano_bolognini.JPG"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon
@@ -31,7 +29,7 @@ patronage:
   - "falsely accused people"
   - "stone masons"
   - "San Marino"
-martyr: true
+martyr: false
 ---
 
 Stonemason who worked at Monte Titano in modern San Marino. Layman preacher who converted many, and ministered to Christians who had been sentenced to quarry work as punishment for their faith. Deacon, ordained by Saint Gaudentius of Rimini. Bishop of Rimini, Italy. Though he belonged to no order that required it, he was a confirmed, life-long bachelor. Falsely accused by an insane woman of Rimini of being her estranged husband, he fled to a cave on Monte Titano, and lived there with Saint Leo of Montefeltro as a hermit. The small country of San Marino is named for him.

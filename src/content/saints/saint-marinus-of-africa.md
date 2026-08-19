@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marinus of Africa"
 summary: "African martyr whose name appears on ancient lists, but about whom nothing is known."
 searchAliases:
   - "Marin"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

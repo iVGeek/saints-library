@@ -1,7 +1,7 @@
 ---
 name: "Saint Molonachus of Lismore"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Molonachus of Lismore"
 summary: "Seventh century spiritual student of Saint Brendan. Bishop of Lismore in Argyll, Scotland."
 region: "England"
 feastDay:

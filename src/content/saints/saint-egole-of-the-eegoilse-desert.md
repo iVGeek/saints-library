@@ -1,7 +1,7 @@
 ---
 name: "Saint Egole of the Eegoilse Desert"
 honorific: Saint
-title: "Martyr"
+title: "Saint Egole of the Eegoilse Desert"
 summary: "No details about this saint have survived."
 searchAliases:
   - "Egole di Disert Eegoilse"
@@ -11,9 +11,8 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---
 
 No details about this saint have survived.

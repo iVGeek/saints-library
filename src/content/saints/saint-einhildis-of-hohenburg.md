@@ -1,7 +1,7 @@
 ---
 name: "Saint Einhildis of Hohenburg"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Einhildis of Hohenburg"
 summary: "Benedictine nun at Hohenburg, Alsace, France. Abbess of nearby Niedermunster."
 searchAliases:
   - "Einhild"

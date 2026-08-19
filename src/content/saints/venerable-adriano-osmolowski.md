@@ -1,7 +1,7 @@
 ---
 name: "Venerable Adriano Osmolowski"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Adriano Osmolowski"
 summary: "Franciscan priest."
 searchAliases:
   - "Hadrian Osmolowski"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

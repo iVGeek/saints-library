@@ -1,7 +1,7 @@
 ---
 name: "Saint Filemon of Antwerp"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Filemon of Antwerp"
 summary: "Martyr."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Jesuit"
 martyr: true

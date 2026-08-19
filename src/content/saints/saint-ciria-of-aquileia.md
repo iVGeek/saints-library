@@ -1,7 +1,7 @@
 ---
 name: "Saint Ciria of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ciria of Aquileia"
 summary: "Martyr."
 deathYear: 100
 died: "c.100 in Aquileia, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

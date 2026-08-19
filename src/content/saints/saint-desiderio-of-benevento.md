@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderio of Benevento"
 honorific: Saint
-title: "Martyr"
+title: "Saint Desiderio of Benevento"
 summary: "Lector. Martyr."
 searchAliases:
   - "Desiderius"
@@ -12,8 +12,7 @@ feastDay:
   month: 9
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

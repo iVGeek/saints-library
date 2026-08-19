@@ -1,7 +1,7 @@
 ---
 name: "Saint Geslar"
 honorific: Saint
-title: "Monk, Confessor"
+title: "Saint Geslar"
 summary: "Seventh century confessor of the faith. No details about him have survived."
 region: "England"
 feastDay:

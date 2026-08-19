@@ -1,7 +1,7 @@
 ---
 name: "Venerable Mary Cecilia Potter"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Mary Cecilia Potter"
 summary: "The youngest of five children, her father deserted the family when Mary was still a toddler, and she never knew him. Founded the Little Company of Mary (Blue Nuns)."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Mary-Potter.jpg"
 birthYear: 1847
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

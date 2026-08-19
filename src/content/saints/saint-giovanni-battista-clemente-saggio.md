@@ -1,7 +1,7 @@
 ---
 name: "Saint Giovanni Battista Clemente Saggio"
 honorific: Saint
-title: "Priest, Pope, Royalty"
+title: "Saint Giovanni Battista Clemente Saggio"
 summary: "Born to a poor peasant family, Giovanni was a clever boy who enjoyed study, but had to work the fields with his father instead of going to school. He was a pious child, and would spend whole days in prayer in a local Minim church. At 20, against his family's wishes (legend says t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-Battista-Clemente-Saggio.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "Longobardi, Italy"
 martyr: false

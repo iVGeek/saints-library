@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Díez Tejerina"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente Díez Tejerina"
 summary: "Passionist priest. Provincial superior of his Order. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Díez-Tejerina.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

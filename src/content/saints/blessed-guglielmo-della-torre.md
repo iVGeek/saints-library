@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guglielmo della Torre"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Guglielmo della Torre"
 summary: "Born to the Swiss nobility, the son of Ruggero and Adilia. Priest. Canon of the cathedral of Como, Italy. Bishop of Como from 1197 until his death, serving nearly 30 years. Helped to smooth out some differences that had arisen between his diocese and the Vatican. Participated in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-della-Torre.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

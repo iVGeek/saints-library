@@ -1,7 +1,7 @@
 ---
 name: "Saint Domangard of Maghera"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Domangard of Maghera"
 summary: "Hermit on the mountain now Slieve-Donard, Ireland after his memory."
 searchAliases:
   - "Donard"

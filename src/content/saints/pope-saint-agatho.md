@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Agatho"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Pope Saint Agatho"
 summary: " As pontiff, Agatho brought his business skills to Married layman and successful businessman for most of his life. In maturity he finally followed a call to God, and with his wife's blessing, he became a monk at Saint Hermes' monastery in Palermo, Sicily. Vatican treasurer. Pope."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Pope_Agatho_%28Menologion_of_Basil_II%29_-_cropped.jpg"
 searchAliases:
@@ -19,16 +19,14 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Palermo, Sicily, Italy"
   - "York, England"
-martyr: true
+martyr: false
 ---
 
 Married layman and successful businessman for most of his life. In maturity he finally followed a call to God, and with his wife's blessing, he became a monk at Saint Hermes' monastery in Palermo, Sicily. Vatican treasurer. Pope.

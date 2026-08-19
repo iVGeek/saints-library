@@ -1,7 +1,7 @@
 ---
 name: "Blessed Donato Jiménez Bibiano"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Donato Jiménez Bibiano"
 summary: "Member of the Redemptorists, making his profession on 8 September 1893. Ordained a priest on 27 May 1899. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Donato-Jimenez-Bibiano.jpg"
 birthYear: 1873
@@ -16,10 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Redemptorist"
 martyr: true
 ---

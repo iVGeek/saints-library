@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius Uchibori"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonius Uchibori"
 summary: "Teenaged layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Ignatius Uchibori."
 birthYear: 1609
 deathYear: 1627
@@ -14,10 +14,8 @@ feastDay:
   month: 2
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Teenaged layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Ignatius Uchibori.

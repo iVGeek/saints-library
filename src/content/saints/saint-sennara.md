@@ -1,7 +1,7 @@
 ---
 name: "Saint Sennara"
 honorific: Saint
-title: "Royalty"
+title: "Saint Sennara"
 summary: "Born a princess, the daughter of Count Even of Brest (in modern western France). She married the Count of Goëlo, an area of northern Brittany, and was the mother of Saint Budoc. Legend says she gave birth while locked in a barrel floating in the English channel, midwifed by an an"
 searchAliases:
   - "Azenora"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 patronage:
   - "mothers with insufficient milk"
   - "Languengar, France"

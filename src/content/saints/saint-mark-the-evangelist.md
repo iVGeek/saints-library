@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark the Evangelist"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Mark the Evangelist"
 summary: "Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son Mark” by the first Pope. Travelled with his"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Codexaureus_21.jpg"
 searchAliases:
@@ -14,11 +14,9 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "against impenitence"
@@ -101,7 +99,7 @@ patronage:
   - "Veneto"
   - "Venice"
   - "Vertova"
-martyr: true
+martyr: false
 ---
 
 Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son Mark” by the first Pope. Travelled with his cousin Saint Barnabas, and with Saint Paul through Cyprus. Evangelized in Alexandria, Egypt, established the Church there, served as its first bishop, and founded the first famous Christian school. Author of the earliest canonical Gospel.

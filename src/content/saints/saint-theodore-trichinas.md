@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore Trichinas"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Theodore Trichinas"
 summary: "Fourth century hermit."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-Trichinas.jpg"
 born: "Constantinople (modern Istanbul, Turkey)"

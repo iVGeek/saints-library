@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Royalty"
+title: "Saint Theophilus of Nicomedia"
 summary: "Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking letters to Christian prisoners, tortured for the hiding place of other Christians. Martyr."
 searchAliases:
   - "Theofilus"
@@ -14,10 +14,8 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Royalty
 martyr: true
 ---
 

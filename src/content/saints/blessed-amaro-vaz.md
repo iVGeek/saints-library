@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amaro Vaz"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Amaro Vaz"
 summary: "Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
 birthYear: 1554
@@ -16,8 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

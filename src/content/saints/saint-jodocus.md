@@ -1,7 +1,7 @@
 ---
 name: "Saint Jodocus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Jodocus"
 summary: "Seventh century king in Brittany, the son of King Juthael of Amorica. Following a pilgrimage to Rome, Italy c.636, he abdicated to lead a religious life. Ordained at Ponthieu. Hermit at Runiacum, which was later renamed Saint-Josse-sur-Mer. Felt a special call to pray for sailors"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jodocus.jpg"
 searchAliases:
@@ -30,7 +30,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Confessor
 patronage:
@@ -55,7 +54,7 @@ patronage:
   - "–"
   - "in France\n\nDommartin Abbey"
   - "Saint-Josse-sur-Mer"
-martyr: true
+martyr: false
 ---
 
 Seventh century king in Brittany, the son of King Juthael of Amorica. Following a pilgrimage to Rome, Italy c.636, he abdicated to lead a religious life. Ordained at Ponthieu. Hermit at Runiacum, which was later renamed Saint-Josse-sur-Mer. Felt a special call to pray for sailors.

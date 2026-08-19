@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Gutiérrez Morales"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Antonio Gutiérrez Morales"
 summary: "Priest in the diocese of Córdoba, Spain, serving in the Bujalance community. Martyred in the Spanish Civil War."
 birthYear: 1908
 born: "15 February 1908 in Córdoba, Córdoba, Spain"
@@ -12,9 +12,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

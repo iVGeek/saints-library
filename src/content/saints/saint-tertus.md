@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Tertus"
 summary: "Monk. Martyred in the persecutions of the Arian Vandal king Huneric."
 searchAliases:
   - "Tertius"
@@ -13,10 +13,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

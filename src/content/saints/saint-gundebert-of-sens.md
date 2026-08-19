@@ -1,7 +1,7 @@
 ---
 name: "Saint Gundebert of Sens"
 honorific: Saint
-title: "Bishop, Hermit"
+title: "Saint Gundebert of Sens"
 summary: "Bishop of Sens, France. Around 660 he retired from the office, lived as a hermit in the Vosges region of France, and founded the Benedictine monastery of Saint Peter in Senones."
 searchAliases:
   - "Gondelbert"

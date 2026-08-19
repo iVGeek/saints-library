@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupus of Verona"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Lupus of Verona"
 summary: "Bishop of Verona, Italy. No other information has survived."
 searchAliases:
   - "Lupo"

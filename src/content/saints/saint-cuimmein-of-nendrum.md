@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuimmein of Nendrum"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cuimmein of Nendrum"
 summary: "Bishop of Aendruim, Ireland (modern Mahee Island, Strangford Lough, Down)."
 searchAliases:
   - "Cuimmein of Mahee Island"

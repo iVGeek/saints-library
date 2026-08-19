@@ -1,7 +1,7 @@
 ---
 name: "Saint Matronianus of Milan"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Matronianus of Milan"
 summary: "Hermit. No other information has survived."
 searchAliases:
   - "Matronian"
@@ -14,10 +14,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Hermit. No other information has survived.

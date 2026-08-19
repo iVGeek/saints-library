@@ -1,7 +1,7 @@
 ---
 name: "Saint Agricola of Ravenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agricola of Ravenna"
 summary: "Martyr. No other information has survived."
 deathYear: 305
 died: "martyred c.305 at Ravenna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

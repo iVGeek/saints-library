@@ -1,14 +1,13 @@
 ---
 name: "Saint Victorian of Isauria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victorian of Isauria"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 5
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

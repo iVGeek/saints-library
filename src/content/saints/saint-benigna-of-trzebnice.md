@@ -1,7 +1,7 @@
 ---
 name: "Saint Benigna of Trzebnice"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Benigna of Trzebnice"
 summary: "Cistercian nun in Trzebnice, Poland. Martyr."
 searchAliases:
   - "Benign"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

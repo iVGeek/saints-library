@@ -1,7 +1,7 @@
 ---
 name: "Saint Failbe of Disert Mic Conlocha"
 honorific: Saint
-title: "Martyr"
+title: "Saint Failbe of Disert Mic Conlocha"
 summary: "No information about this saint has survived."
 searchAliases:
   - "Failbe of Mic Con Locha"
@@ -17,9 +17,8 @@ feastDay:
   month: 7
   day: 11
 canonizationStatus: Saint
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---
 
 No information about this saint has survived.

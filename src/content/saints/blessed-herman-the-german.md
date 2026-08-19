@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herman the German"
 honorific: Blessed
-title: "Bishop, Priest"
+title: "Blessed Herman the German"
 summary: "In 1218 he travelled from Krakow to Rome with Bishop Iwo Odrowaz, Saint Hyacinth and Blessed Ceslas Odrowaz where he met with Saint Dominic de Guzman and joined the Dominicans, receiving the habit from Saint Dominic himself. The new friars then returned to Silesia to spread Domin"
 searchAliases:
   - "Herman of Friesach"

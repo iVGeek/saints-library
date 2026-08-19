@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giacomo Gaglione"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Giacomo Gaglione"
 summary: "Lifelong lay man in the diocese of Caserta, Italy. Member of the Secular Franciscans. Founder of the Association of the Apostolate of Suffering. Became bedridden with ankylosing spondylitis, a type of severe arthritis in the spine."
 image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Giacomo_Gaglione.jpg"
 birthYear: 1896
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nikolaus Gross"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Nikolaus Gross"
 summary: "Miner. Father of seven. Member of the Christian miners' labour union at age 19, and secretary at 22. Member of the Zentrum Christian Party at age 20. Worked on Westdeutschen Arbeiterzeitung, (West German Workers' Newspaper), the newspaper of the Catholic Workers' Movement, at age"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nikolaus_Gro%C3%9F_Ikone_sel.gesprochen_2001.JPG/960px-Nikolaus_Gro%C3%9F_Ikone_sel.gesprochen_2001.JPG"
 birthYear: 1898
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

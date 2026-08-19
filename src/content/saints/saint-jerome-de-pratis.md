@@ -1,7 +1,7 @@
 ---
 name: "Saint Jerome de Pratis"
 honorific: Saint
-title: "Martyr"
+title: "Saint Jerome de Pratis"
 summary: "Member of the Mercedarians at the convent of Saint Eulalia in Barcelona, Spain. Known for his humility, holy charity, and his deep prayer life. Sent to Tunis in north Africa to ransom the release of Christians enslaved by Moors. He was seized by a gang of Moors who ordered him to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-de-Pratis.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

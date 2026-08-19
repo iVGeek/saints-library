@@ -1,7 +1,7 @@
 ---
 name: "Saint Derwe of Camborne"
 honorific: Saint
-title: "Martyr, Monk, Religious, Royalty, Missionary"
+title: "Saint Derwe of Camborne"
 summary: "Missionary nun, working in the area of Penwith and Carnmarth in Cornwall in modern western England. Martyr."
 searchAliases:
   - "Derwa"
@@ -16,10 +16,8 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-  - Royalty
   - Missionary
 patronage:
   - "Menadarva, England"

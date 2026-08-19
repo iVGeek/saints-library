@@ -1,7 +1,7 @@
 ---
 name: "Venerable Stanislas Henri Verjus"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Stanislas Henri Verjus"
 summary: "Ordained on 1 November 1883. Member of the Missionaries of the Sacred Heart of Jesus. Titular Bishop of Limyra and Vicar Apostolic of New Pomerania, Papua New Guinea on 10 May 1889. Co-adjutor of the Apostolic Vicariate of New Guinea on 28 December 1889."
 image: "http://catholicsaints.info/wp-content/uploads/97327612.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

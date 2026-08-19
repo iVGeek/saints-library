@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Pampliega Santiago"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed José Pampliega Santiago"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Berardo José"
@@ -17,9 +17,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

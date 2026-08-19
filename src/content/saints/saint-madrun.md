@@ -1,7 +1,7 @@
 ---
 name: "Saint Madrun"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Madrun"
 summary: "Born a princess, the daughter of King Vortimer Fendigaid and Ynyr Gwent. Married to Prince Ynyr. Queen of Gwent. While on pilgrimage, she received a dream in which she was told to build a convent where she slept; the church there has survived to today. Mother of Saint Ceidio; she"
 image: "http://catholicsaints.info/wp-content/uploads/Madrun.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 patronage:
   - "Trawsfynydd, Wales"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bartholomea Capitanio"
 honorific: Venerable
-title: "Martyr, Virgin, Monk, Religious, Pope, Royalty"
+title: "Saint Bartholomea Capitanio"
 summary: "Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a private vow of perpetual chastity, and began teaching and working with youth as a lay woman. Extensive correspondent, often writing on spirituality; many of letter"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bartholomea-Capitanio.jpg"
 birthYear: 1807
@@ -15,11 +15,10 @@ feastDay:
   month: 7
   day: 26
 canonizationStatus: Venerable
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Lovere, Italy"
-martyr: true
+martyr: false
 ---
 
 Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a private vow of perpetual chastity, and began teaching and working with youth as a lay woman. Extensive correspondent, often writing on spirituality; many of letters were later collected and published.

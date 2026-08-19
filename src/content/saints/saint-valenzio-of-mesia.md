@@ -1,7 +1,7 @@
 ---
 name: "Saint Valenzio of Mesia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Valenzio of Mesia"
 summary: "Martyr. No other information has survived."
 died: "beheaded in Mesia, Spain"
 deathPlace: "Spain"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

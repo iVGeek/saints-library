@@ -1,7 +1,7 @@
 ---
 name: "Blessed René-Louis Ambroise"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed René-Louis Ambroise"
 summary: "Priest at Holy Trinity parish in the diocese of Laval, France. Martyred in the French Revolution."
 birthYear: 1720
 deathYear: 1794
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

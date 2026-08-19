@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Gambacorta"
 honorific: Blessed
-title: "Priest, Monk, Pope, Hermit"
+title: "Blessed Peter Gambacorta"
 summary: "Son of a government official and brother of Blessed Clara Gambacorta. At age 25, after a mis-spent youth and life at court, he left the world to become a beggar and hermit on Montebello in Umbria, Italy. Converted a band of thieves and bandits not just to Christianity but to reli"
 image: "http://catholicsaints.info/wp-content/uploads/UrbanoVIaprovaReglaGambacorta.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

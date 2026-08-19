@@ -1,7 +1,7 @@
 ---
 name: "Saint Pezenne"
 honorific: Saint
-title: "Monk"
+title: "Saint Pezenne"
 summary: "Pezenne fled to France from Spain during the persecutions of Diocletian in the early 4th century. In the area of Niort, France she helped Saint Macrine found a small monastery."
 image: "http://catholicsaints.info/wp-content/uploads/pazanne.jpg"
 searchAliases:

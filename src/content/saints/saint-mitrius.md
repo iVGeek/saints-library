@@ -1,7 +1,7 @@
 ---
 name: "Saint Mitrius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Mitrius"
 summary: "Slave in Aix-en-Provence, France. Routinely abused by his master and even his fellow slaves for being a Christian. Martyr."
 searchAliases:
   - "Matrius"
@@ -20,7 +20,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

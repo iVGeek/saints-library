@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gausberto of Montsalvy"
 honorific: Blessed
-title: "Priest, Monk, Hermit"
+title: "Blessed Gausberto of Montsalvy"
 summary: "Priest. Hermit. Augustinian monk and then abbot at Montsalvy Abbey, Clermont-Ferrand, France. He helped turn the house into a hospice to assist pilgrims to holy sites. Spiritual teacher of Blessed Bernard of Rodez."
 searchAliases:
   - "Gausbert"

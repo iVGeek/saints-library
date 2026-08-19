@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicophorus of Corinth"
 honorific: Saint
-title: "Martyr"
+title: "Saint Nicophorus of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Nicephorus"
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

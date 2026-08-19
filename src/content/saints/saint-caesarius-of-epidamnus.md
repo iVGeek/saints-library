@@ -1,7 +1,7 @@
 ---
 name: "Saint Caesarius of Epidamnus"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Caesarius of Epidamnus"
 summary: "One of the 72 disciples of Christ described in Acts. Bishop of Epidamnus (modern Durrës, Albania). Martyr."
 searchAliases:
   - "Caesarius of Durazzo"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

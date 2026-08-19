@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Maximus of Rome"
 summary: "Priest. Martyred in the persecutions of Valerian."
 deathYear: 255
 died: "c.255 on the Appian Way in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

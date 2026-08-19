@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio de Pietra"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Antonio de Pietra"
 summary: "Mercedarian friar. Ransomed 80 Christians from Muslim slavery in North Africa."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-de-Pietra.jpg"
 deathYear: 1490
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Paschasia of Dijon"
 honorific: Saint
-title: "Martyr, Virgin, Religious, Missionary"
+title: "Saint Paschasia of Dijon"
 summary: "Consecrated virgin (an early type of nun). Spiritual student of Saint Benigne and and helped in his missionary work. Martyr. Saint Gregory of Tours mentions her."
 searchAliases:
   - "Paschasie"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Religious
   - Missionary

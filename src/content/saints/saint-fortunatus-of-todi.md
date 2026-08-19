@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Todi"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Fortunatus of Todi"
 summary: "Bishop of Todi, Italy. Saved Todi from being sacked by Totila the Goth. Converted many and showed the power of God over idols by destroying a temple of Pan and using the materials to build a church."
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/San_Fortunato_di_Todi.jpg"
 deathYear: 537

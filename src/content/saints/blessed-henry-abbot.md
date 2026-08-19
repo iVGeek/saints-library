@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry Abbot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Henry Abbot"
 summary: "Layman. Convert. He was approached by a Protestant minister who claimed to be searching for a priest so he could reconcile with the Church; Henry arranged a meeting with a priest who was in hiding due to state persecution of Catholics, the minister betrayed them to the authoritie"
 deathYear: 1597
 born: "at Howden, East Riding, Yorkshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

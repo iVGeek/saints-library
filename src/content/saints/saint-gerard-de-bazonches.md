@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerard de Bazonches"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Gerard de Bazonches"
 summary: "Benedictine monk at Saint Aubin Monastery, Angers, France. Priest."
 deathYear: 1123
 died: "1123"

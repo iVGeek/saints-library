@@ -1,7 +1,7 @@
 ---
 name: "Saint Ibar of Meath"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Ibar of Meath"
 summary: "Uncle and teacher of Saint Abban. disciple of Saint Patrick. Missionary in south Ireland with Saint Kiaran, Saint Ailbe, Saint Declan and others. Preached in Leinster and Meath. About 480 he settled at Begerin where he built an oratory and cell; his holiness attracted many would-"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ibar-of-Meath.jpg"
 searchAliases:

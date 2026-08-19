@@ -1,7 +1,7 @@
 ---
 name: "Saint Venustus of Milan"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Venustus of Milan"
 summary: "Martyr in Milan, Italy in the persecutions of Diocletian."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

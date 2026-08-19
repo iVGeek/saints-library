@@ -1,7 +1,7 @@
 ---
 name: "French Mercedarian Martyrs"
 honorific: Saint
-title: "Martyr"
+title: "French Mercedarian Martyrs"
 summary: "48 French Mercedarian friars who were murdered by Huguenot heretics for keeping their Catholic faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-French-Mercedarian-Martyrs.jpg"
 deathYear: 1563
@@ -12,9 +12,8 @@ feastDay:
   month: 4
   day: 23
 canonizationStatus: Saint
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---
 
 48 French Mercedarian friars who were murdered by Huguenot heretics for keeping their Catholic faith.

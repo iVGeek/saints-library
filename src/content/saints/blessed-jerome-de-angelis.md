@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jerome de Angelis"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty, Missionary"
+title: "Blessed Jerome de Angelis"
 summary: "Jesuit priest. Sailed as a missionary to Japan shortly after ordination, but due to a series of problems, took six years to arrive, landing during a persecution of Christians. Spent twelve years working with the Nagasaki Christians. An edict in 1614 expelled Jesuits and ended Cat"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Girolamo_De_Angelis.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Jesuit"

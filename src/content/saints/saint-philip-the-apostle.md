@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip the Apostle"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Philip the Apostle"
 summary: "Disciple of Saint John the Baptist. Convert. One of the Twelve Apostle. Brought Saint Nathanael to Christ. Confidant of Jesus. Little is known about him, but scriptural episodes give the impression of a shy, naive, but practical individual. Preached in Greece and Asia Minor. Mart"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rubens_apostel_philippus.jpg/960px-Rubens_apostel_philippus.jpg"
 born: "at Bethsaida, Palestine"
@@ -14,10 +14,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "hat makers"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Palestine"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Palestine"
 summary: "Imprisoned, tortured and martyred for his faith."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Balsam.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

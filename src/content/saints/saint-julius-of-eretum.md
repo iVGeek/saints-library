@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Eretum"
 honorific: Saint
-title: "Martyr"
+title: "Saint Julius of Eretum"
 summary: "Martyr."
 searchAliases:
   - "Giulio"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

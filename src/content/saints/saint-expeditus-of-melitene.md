@@ -1,7 +1,7 @@
 ---
 name: "Saint Expeditus of Melitene"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Expeditus of Melitene"
 summary: "Possibly legendary. Unclear whether his name led to his association with expeditious matters, or the other way around. This association led to his becoming the patron of people who had to deliver things on time."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Expeditus-of-Melitene1.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:
@@ -25,7 +24,7 @@ patronage:
   - "navigators"
   - "prompt solutions; urgent cases"
   - "test takers"
-martyr: true
+martyr: false
 ---
 
 Possibly legendary. Unclear whether his name led to his association with expeditious matters, or the other way around. This association led to his becoming the patron of people who had to deliver things on time.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Levroux"
 honorific: Saint
-title: "Monk"
+title: "Saint Silvanus of Levroux"
 summary: "Early saint long venerated in Levroux, France. No other information has survived."
 searchAliases:
   - "Silouan"

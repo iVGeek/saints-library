@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregory of Narek"
 honorific: Saint
-title: "Saint"
+title: "Saint Gregory of Narek"
 summary: "Grigor, the son of Bishop Khosrov Andzevatsi, was descended from a line of scholars and churchmen, and was educated by his father and Anania Vartabed, abbess of Narek monastery. He and both his brothers became monks as young men. Gregory excelled in music, astronomy, geometry, ma"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Grigor_Narekatsi_1.jpg"
 searchAliases:

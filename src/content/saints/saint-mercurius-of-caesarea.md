@@ -1,7 +1,7 @@
 ---
 name: "Saint Mercurius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Mercurius of Caesarea"
 summary: "Scythian Christian soldier who distinguished himself against the barbarian invaders of the Roman empire, and gained the notice of Decius. However, he refused to sacrifice to the pagan god Artemis, and so was tortured and executed. Some versions of his story include angelic vision"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mercurius-of-Caesarea.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

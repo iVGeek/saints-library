@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Corinth"
 honorific: Saint
-title: "Martyr"
+title: "Saint Victorinus of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

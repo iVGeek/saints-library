@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Rodríguez Carmona"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Rodríguez Carmona"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

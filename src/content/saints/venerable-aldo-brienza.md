@@ -1,7 +1,7 @@
 ---
 name: "Venerable Aldo Brienza"
 honorific: Venerable
-title: "Pope, Cardinal"
+title: "Venerable Aldo Brienza"
 summary: "Discalced Carmelite brother. He bed-ridden for 50 years with osteomyelitis, a painful and debilitating bone infection; his bedside became a place of pilgrimage for the faithful who sought the wisdom he gained from a life of suffering and prayer."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Aldo-Brienza.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Cardinal
 religiousOrder: "Carmelite"
 martyr: false

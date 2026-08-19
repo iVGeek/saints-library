@@ -1,7 +1,7 @@
 ---
 name: "Saint Dotto"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Dotto"
 summary: "Sixth century abbot of a monastery in the Orkney Islands, Scotland."
 region: "England"
 feastDay:

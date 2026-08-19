@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henrik of Denmark"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Henrik of Denmark"
 summary: "Related to the Danish royal family, Henrik became a Franciscan tertiary and became a penitent pilgrim. In Perugia, Italy, while en route to Assisi as part of a pilgrimage to the sites of Saint Francis, his health failed, and he died in the local hospital. However, he had apparent"
 searchAliases:
   - "Enrico di Danimarca"
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

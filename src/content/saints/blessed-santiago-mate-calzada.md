@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Maté Calzada"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Santiago Maté Calzada"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermes of Eretum"
 honorific: Saint
-title: "Martyr"
+title: "Saint Hermes of Eretum"
 summary: "Martyr."
 searchAliases:
   - "Ermete"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

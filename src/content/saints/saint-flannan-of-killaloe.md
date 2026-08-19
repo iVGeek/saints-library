@@ -1,7 +1,7 @@
 ---
 name: "Saint Flannán of Killaloe"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Missionary, Confessor"
+title: "Saint Flannán of Killaloe"
 summary: "Son of an Irish chieftain named Turdough. Intellectual and spiritual student of the monk Saint Molua. Despite family opposition, he became a monk. Missionary monk throughout Ireland, Scotland, and the Hebrides. First bishop of Killaloe, Ireland, consecrated by Pope John IV. Recit"
 born: "7th century in Thomond, Ireland"
 birthPlace: "Ireland"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

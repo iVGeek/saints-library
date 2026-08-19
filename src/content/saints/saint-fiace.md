@@ -1,7 +1,7 @@
 ---
 name: "Saint Fiace"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Missionary"
+title: "Saint Fiace"
 summary: "Prince of Hy-Bairrche, Ireland; son of MacDara. Nephew of the famous bard and convert Dubhtach who taught him to sing. Married layman and father of one son, Fiacre, who was later ordained by Saint Patrick. Convert. Widower. Ordained as a missionary bishop for Leinster, Ireland by"
 searchAliases:
   - "Fiacc"
@@ -20,7 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Missionary
 martyr: false
 ---

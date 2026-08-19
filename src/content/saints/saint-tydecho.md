@@ -1,7 +1,7 @@
 ---
 name: "Saint Tydecho"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Tydecho"
 summary: "Brother of Saint Cadfan. Probably lived as a hermit. Several Welsh churches are named for him. No other information has survived."
 searchAliases:
   - "Dudec"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hymnemodus of Saint-Maurice"
 honorific: Saint
-title: "Martyr, Royalty"
+title: "Saint Hymnemodus of Saint-Maurice"
 summary: "Official in the court of King Gundobad of Burgundy. Feeling a call to the religious life, Hymnodus entered the monastery of Grigney in Vienne, France; he was later chosen abbot of the house. In 515, he was appointed abbot of the monastery of Saint Moritz at the site of the massac"
 searchAliases:
   - "Hymnemodus of San-Moritz"
@@ -22,10 +22,8 @@ feastDay:
   month: 1
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Royalty
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Official in the court of King Gundobad of Burgundy. Feeling a call to the religious life, Hymnodus entered the monastery of Grigney in Vienne, France; he was later chosen abbot of the house. In 515, he was appointed abbot of the monastery of Saint Moritz at the site of the massacre of the Theban Legion. With royal support and financing, the monastery expanded and in later centuries became a major religious center and pilgrimage site.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Servus the Martyr"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Servus the Martyr"
 summary: "Born to the nobility. A layman, he was tortured and murdered in the persecutions of the Arian Vandal King Hunneric for adhering to orthodox Christianity."
 deathYear: 484
 born: "African"
@@ -12,10 +12,8 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Born to the nobility. A layman, he was tortured and murdered in the persecutions of the Arian Vandal King Hunneric for adhering to orthodox Christianity.

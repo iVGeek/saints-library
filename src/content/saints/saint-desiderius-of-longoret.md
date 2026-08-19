@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderius of Longoret"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Desiderius of Longoret"
 summary: "Seventh century Benedictine monk at Saint-Pierre de Longoret Abbey in the diocese of Bourges, France. Spiritual student of Saint Sigiranus. He led a the new Saint Martin monastery in Rurriacus, France, but retired to live as a prayerful hermit in La Brenne, France. Reported mirac"
 searchAliases:
   - "Desiderius of Lonrey"

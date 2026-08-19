@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Ausellé Rigau"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Josep Ausellé Rigau"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

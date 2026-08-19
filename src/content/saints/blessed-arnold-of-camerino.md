@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arnold of Camerino"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Arnold of Camerino"
 summary: "Mercedarian friar. Noted preacher and miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-of-Camerino.jpg"
 born: "Italian"
@@ -10,8 +10,7 @@ feastDay:
   month: 7
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

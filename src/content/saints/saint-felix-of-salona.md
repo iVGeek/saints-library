@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Salona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Felix of Salona"
 summary: "Bishop martyred in the persecutions of Diocletian."
 searchAliases:
   - "Felix of Epetium"
@@ -21,7 +21,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

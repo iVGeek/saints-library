@@ -1,7 +1,7 @@
 ---
 name: "Saint Pion of Smyrna"
 honorific: Saint
-title: "Martyr"
+title: "Saint Pion of Smyrna"
 summary: "Martyr."
 searchAliases:
   - "Phion"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

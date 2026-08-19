@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Montfort"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Germanus of Montfort"
 summary: "Studied at Paris, France. Priest. Benedictine monk at Savigny, France. Prior of the monastery at Talloires, France. Spent the last years of his life as a hermit."
 birthYear: 906
 deathYear: 1000

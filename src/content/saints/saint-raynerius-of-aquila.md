@@ -1,7 +1,7 @@
 ---
 name: "Saint Raynerius of Aquila"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Raynerius of Aquila"
 summary: "Bishop of Forconium (modern Aquila), Abruzzi region, Italy. Noted for his excellent administrative skills, but no details about the man have survived."
 searchAliases:
   - "Rainer"
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alfred the Great"
 honorific: Saint
-title: "Pope, Royalty"
+title: "Saint Alfred the Great"
 summary: "Youngest of five sons of King Ethelwulf of Wessex. Ideal Christian king of Wessex, he came to the throne during a Danish invasion. Alfred defeated the Danes and preserved the growth of the Church in England. Patron of learning, he established a court school, invited British and f"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Alfred_the_Great%2C_silver_penny%3B_struck_875%E2%80%93880_%28obverse%29.png"
 birthYear: 849
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 patronage:
   - "academics, scholars"
 martyr: false

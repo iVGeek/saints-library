@@ -1,7 +1,7 @@
 ---
 name: "Saint Innocent of Agaunum"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Innocent of Agaunum"
 summary: "Soldier and member of the Martyrs of the Theban Legion. Martyr. Having the initial massacre of the Legion, he stayed in the area to evangelize the locals. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Innocent-of-Agaunum.jpg"
 deathYear: 287
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Bad Karlshafen, Germany"

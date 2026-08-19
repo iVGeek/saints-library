@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anastasius"
 summary: "During an early persecution of Christians, Anastasius publicly proclaimed his faith. Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

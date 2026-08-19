@@ -1,7 +1,7 @@
 ---
 name: "Saint Antiochus of Sulci"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antiochus of Sulci"
 summary: "Travelling physician in Galatia and Cappadocia who evangelized as he went, converting many. When Emperor Hadrian issued orders against Christians, Antiochus, who had been very public in his work, was arrested immediately. He was ordered to renounce his faith; he declined and was"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antiochus-of-Sulci.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "miners"

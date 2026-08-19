@@ -1,7 +1,7 @@
 ---
 name: "Saint Cosmas Takeya"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Cosmas Takeya"
 summary: "Sword maker. Convert to Christianity, brought into the faith by Jesuit missionaries. Lay Franciscan tertiary. Interpreter for the missionaries. Catechist for the Franciscans. Preached in Osaka. One of the Martyrs of Nagasaki."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cosmas-Takeya.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

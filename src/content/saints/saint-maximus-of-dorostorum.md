@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Dorostorum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maximus of Dorostorum"
 summary: "Reader and interpreter of the Scriptures. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "beheaded c.303 in Dorostorum, Lower Mysia (modern Sillistria, Bulgaria"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

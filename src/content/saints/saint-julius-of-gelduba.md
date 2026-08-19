@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Gelduba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julius of Gelduba"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Julius of Gildoba"
@@ -13,7 +13,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

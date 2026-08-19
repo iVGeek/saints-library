@@ -1,7 +1,7 @@
 ---
 name: "Saint Elsiar of Lavedan"
 honorific: Saint
-title: "Monk"
+title: "Saint Elsiar of Lavedan"
 summary: "Monk at Saint-Savin, Lavedan, France."
 deathYear: 1050
 died: "c.1050 of natural causes"

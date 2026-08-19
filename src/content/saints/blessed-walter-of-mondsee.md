@@ -1,7 +1,7 @@
 ---
 name: "Blessed Walter of Mondsee"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Walter of Mondsee"
 summary: "Benedictine monk. Abbot of the Mondsee monastery in Upper Austria."
 deathYear: 1158
 died: "1158 of natural causes"

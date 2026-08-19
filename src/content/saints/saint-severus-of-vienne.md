@@ -1,7 +1,7 @@
 ---
 name: "Saint Severus of Vienne"
 honorific: Saint
-title: "Priest, Monk, Missionary"
+title: "Saint Severus of Vienne"
 summary: "Priest. Missionary to the area of Vienne, France."
 deathYear: 455
 died: "c.455"

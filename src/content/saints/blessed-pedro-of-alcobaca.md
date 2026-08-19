@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro of Alcobaça"
 honorific: Blessed
-title: "Monk, Royalty"
+title: "Blessed Pedro of Alcobaça"
 summary: "Cistercian monk in the monastery of Alcobaça, Portugal. His piety and his connection to this monastery, which was founded in 1153 by King Afonso Henriques, let to many outlandish tales about him, his royal connections, etc. But all we really know was that he was a pious Cistercia"
 deathYear: 1160
 died: "c.1160"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

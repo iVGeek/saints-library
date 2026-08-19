@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Antonio de Bengoa Larriñaga"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Antonio de Bengoa Larriñaga"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Daciano"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

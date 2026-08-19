@@ -1,7 +1,7 @@
 ---
 name: "Saint Martina of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Saint Martina of Rome"
 summary: "Wealthy daughter of a Christian Roman consul. On her parent's death, she gave away her riches to the poor and devoted herself to prayer. Tortured and martyred in the persecutions of Alexander Severus for refusing to sacrifice to pagan gods. A basilica is dedicated to her at the R"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/El_Greco_-_Madonna_and_Child_with_Saint_Martina_and_Saint_Agnes_%28NGA%29.jpg/960px-El_Greco_-_Madonna_and_Child_with_Saint_Martina_and_Saint_Agnes_%28NGA%29.jpg"
 deathYear: 228
@@ -12,11 +12,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 patronage:
   - "nursing mothers"
   - "Rome, Italy"

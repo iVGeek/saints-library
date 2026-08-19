@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Persia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint John of Persia"
 summary: "Bishop. Martyred with Saint James of Persia in the persecutions of King Shapur II."
 deathYear: 344
 died: "c.344"
@@ -11,10 +11,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

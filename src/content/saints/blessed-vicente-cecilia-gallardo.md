@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Cecilia Gallardo"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Vicente Cecilia Gallardo"
 summary: "Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

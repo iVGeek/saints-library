@@ -1,7 +1,7 @@
 ---
 name: "Saint Barulas"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Barulas"
 summary: "A boy of seven who learned Christianity from Saint Romanus the Abbot. When he publicly announced his Christianity, he was tortured and martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/Barulas-of-Antioch.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

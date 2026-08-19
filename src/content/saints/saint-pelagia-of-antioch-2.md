@@ -1,7 +1,7 @@
 ---
 name: "Saint Pelagia of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pelagia of Antioch"
 summary: "One of a group of 59 Christians martyred together. No other information has survived."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

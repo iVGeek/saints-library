@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovicus Jin'emon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ludovicus Jin'emon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Anna of Hokusanbara. Martyr."
 birthYear: 1549
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

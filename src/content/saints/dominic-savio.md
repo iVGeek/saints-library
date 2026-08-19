@@ -26,7 +26,6 @@ canonizationStatus: Saint
 canonizedDate: 12 June 1954
 vocation:
   - Religious
-  - Youth
 patronage:
   - children
   - students

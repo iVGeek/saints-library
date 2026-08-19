@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sébastien Desbrielles"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Sébastien Desbrielles"
 summary: "Layman in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1739
 deathYear: 1792
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

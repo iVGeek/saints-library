@@ -1,7 +1,7 @@
 ---
 name: "Saint Nemesius of Cyprus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nemesius of Cyprus"
 summary: "Martyr."
 died: "Cyprus"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Roda Rodríguez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Roda Rodríguez"
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

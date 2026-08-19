@@ -1,7 +1,7 @@
 ---
 name: "Venerable Jan Leopold Tyranowski"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Jan Leopold Tyranowski"
 summary: "Layman of the archdiocese of Kraków, Poland."
 birthYear: 1901
 deathYear: 1947
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

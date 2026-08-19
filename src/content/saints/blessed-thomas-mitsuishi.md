@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Mitsuishi"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Thomas Mitsuishi"
 summary: "Young son of Blessed Michaël Mitsuishi Hikoemon. Martyr."
 birthYear: 1597
 deathYear: 1609
@@ -15,8 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

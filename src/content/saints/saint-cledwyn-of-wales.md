@@ -1,7 +1,7 @@
 ---
 name: "Saint Cledwyn of Wales"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Cledwyn of Wales"
 summary: "Eldest son of Saint Brychan of Brycheiniog, and ruler of part of Brychan's kingdom."
 searchAliases:
   - "Clydwyn of Wales"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 patronage:
   - "Llangedwyn, Wales"
 martyr: false

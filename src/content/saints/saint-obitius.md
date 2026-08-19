@@ -1,7 +1,7 @@
 ---
 name: "Saint Obitius"
 honorific: Saint
-title: "Monk, Pope, Royalty, Soldier"
+title: "Saint Obitius"
 summary: "Knight. He narrowly escaped drowning, and during the experience he had a vision of Hell which changed his life. He became a Benedictine monk at Brescia, Italy doing penance and working for the nearby Benedictine convent."
 deathYear: 1204
 born: "in Brescia, Italy"
@@ -15,8 +15,6 @@ canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Reliquie_e_altare_di_S._Obizio_-_Chiesa_S._Maurizio_-_Niardo_%28Foto_Luca_Giarelli%29.jpg"
 vocation:
   - Monk
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Benedictine"
 martyr: false

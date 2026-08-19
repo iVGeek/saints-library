@@ -1,7 +1,7 @@
 ---
 name: "Saint Lomer of Corbion"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Lomer of Corbion"
 summary: "Born to a poor family, as a boy he worked as a shepherd near Chartres, France. Priest. Treasurer of the cathedral chapter of Chatres, France. Hermit near Chartres  in the forest of Perche, France. His reputation for holiness spread, disciples gathers, and Lomer founded the monast"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lomer.jpg"
 searchAliases:

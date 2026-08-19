@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Royalty, Confessor"
+title: "Saint Cyril"
 summary: "Brother of Saint Methodius. Born to the Greek nobility; his family was connected with the senate of Thessalonica, and his mother Maria may have been Slavic. Studied at the University of Constantinople, and taught philosophy there. Deacon. Priest. Librarian at the church of Santa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Cyril-and-Methodius.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

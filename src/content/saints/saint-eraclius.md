@@ -1,14 +1,13 @@
 ---
 name: "Saint Eraclius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eraclius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

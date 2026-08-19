@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fernando Salinas Romeo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Fernando Salinas Romeo"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

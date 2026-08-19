@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius Banzai Orusu"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Antonius Banzai Orusu"
 summary: "Child in the diocese of Niigata, Japan. Son of Blessed Ioannes Banzai Kazue and Blessed Aurea Banzai. Martyr."
 birthYear: 1617
 born: "c.1617 in Yonezawa, Yamagata, Japan"
@@ -11,8 +11,7 @@ feastDay:
   month: 1
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

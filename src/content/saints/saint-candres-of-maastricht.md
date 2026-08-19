@@ -1,7 +1,7 @@
 ---
 name: "Saint Candres of Maastricht"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Candres of Maastricht"
 summary: "Fifth century regional bishop. Evangelized the territory of Maastricht, Netherlands."
 region: "England"
 feastDay:

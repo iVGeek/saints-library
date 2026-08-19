@@ -1,7 +1,7 @@
 ---
 name: "Saint Glastian of Kinglassie"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Glastian of Kinglassie"
 summary: "Bishop. He mediated a peace between the Picts and the Scots, greatly improving the conditions of the conqured Picts."
 searchAliases:
   - "Glastiano"
@@ -18,7 +18,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "Kinglassie, Fife, Scotland"

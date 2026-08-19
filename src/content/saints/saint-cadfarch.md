@@ -1,7 +1,7 @@
 ---
 name: "Saint Cadfarch of Wales"
 honorific: Saint
-title: "Monk"
+title: "Saint Cadfarch of Wales"
 summary: "Sixth-century spiritual student of Saint Iltyd. Founded churches in Penegoes and Abererch in Wales."
 searchAliases:
   - "Cadfarch of Abererch"

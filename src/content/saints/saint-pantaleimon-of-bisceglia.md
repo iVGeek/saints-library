@@ -1,7 +1,7 @@
 ---
 name: "Saint Pantaleimon of Bisceglia"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Pantaleimon of Bisceglia"
 summary: "Martyred in the persecutions of Trajan."
 searchAliases:
   - "Pantaleo"
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

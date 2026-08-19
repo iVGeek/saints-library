@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassius of Auvergne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cassius of Auvergne"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 deathYear: 265
 died: "c.265 in Auvergne, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

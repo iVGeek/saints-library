@@ -1,7 +1,7 @@
 ---
 name: "Saint Gwynllyw"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Gwynllyw"
 summary: "Chieftain and layman. Proposed marriage to Saint Gladys, the daughter of Brychan of Brecknock. When Brychan refused, he kidnapped her, and the two started a violent life on the run. Father of Saint Cadoc of Llancarvan who eventually convinced Gwynllyw and Gladys to give up their"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/S._Gwynllyw_%285292115%29.jpg/960px-S._Gwynllyw_%285292115%29.jpg"
 searchAliases:

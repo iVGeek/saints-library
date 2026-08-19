@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Lucas Manzanares"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Lucas Manzanares"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Braulio Carlos"
@@ -16,9 +16,7 @@ feastDay:
   month: 2
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

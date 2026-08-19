@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rose-Chretien de Neuville"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Rose-Chretien de Neuville"
 summary: "Married young. Widow. Carmelite nun at Compiegne, France, taking the name Julia Louise of Jesus, professed in 1777. She sang in their choir. One of the Carmelite Martyrs of Compiegne."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

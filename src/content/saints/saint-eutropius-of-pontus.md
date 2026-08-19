@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropius of Pontus"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Eutropius of Pontus"
 summary: "May have been a slave or soldier. One of a large groups martyred in the persecutions of Emperor Galerius. No other information has survived."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eutropius-of-Pontus.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enric Canadell Quintana"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Enric Canadell Quintana"
 summary: "Son of Francisco Canadell Presta and Margarita Quintana, Enric was baptized at the age of one day. Joined the Piarists on 22 October 1905 in Moyà, Spain, making his solemn vows on 29 June 1912. Priest, ordained on 20 September 1913 in Lérida, Spain. Teacher in the Piarist schools"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enric-Canadell-Quintana.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticus of Narbonne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Rusticus of Narbonne"
 summary: "Monk at Lérins Abbey. Bishop of Narbonne, France. Attended the 3rd Ecumenical Council in Ephesus in 431."
 searchAliases:
   - "Rustique"

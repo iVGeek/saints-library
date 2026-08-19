@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Suárez Velasco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis Suárez Velasco"
 summary: "Luis joined the Dominicans in Almagro, Spain in 1917, and made his solemn profession on 17 October 1920. Ordained a priest on 10 February 1924. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Urdánoz Aldaz"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Tomás Urdánoz Aldaz"
 summary: "Joined the Hospitallers of Saint John of God at age 32. Martyred in the Spanish Civil War while still a novice. One of the Martyred Hospitallers of Spain."
 birthYear: 1903
 deathYear: 1936
@@ -14,10 +14,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

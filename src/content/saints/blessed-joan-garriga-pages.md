@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Garriga Pagés"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Joan Garriga Pagés"
 summary: "Member of the Claretians, professed on 8 December 1926. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

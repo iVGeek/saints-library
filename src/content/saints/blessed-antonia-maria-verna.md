@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonia Maria Verna"
 honorific: Blessed
-title: "Bishop, Religious, Pope, Royalty"
+title: "Blessed Antonia Maria Verna"
 summary: "Antonia early felt a call to religious life, and as a teenager began caring for and catechising children in her village. Attended the Institute in San Giorgio Canavese, simultaneously a student and a teacher. In 1806, she and several companions formed a group that would become th"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-antonia-maria-verna/venerable-antonia-maria-verna.jpg"
 birthYear: 1773
@@ -18,8 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

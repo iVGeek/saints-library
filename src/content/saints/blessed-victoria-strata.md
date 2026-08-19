@@ -1,7 +1,7 @@
 ---
 name: "Blessed Victoria Strata"
 honorific: Blessed
-title: "Martyr, Virgin, Religious, Pope"
+title: "Blessed Victoria Strata"
 summary: "Happily married to Angelo Strata from age seventeen to twenty-six. Mother of six. Widowed in 1587 at age 25, Victoria wanted to marry again because of her children, but a vision of the Virgin Mary convinced her to begin a single life of motherhood, chastity, prayer, and charity t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Maria-Vittoria-De-Fornari-Strata.jpg"
 searchAliases:
@@ -22,13 +22,11 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Religious
-  - Pope
 patronage:
   - "Order of the Annunciation"
-martyr: true
+martyr: false
 ---
 
 Happily married to Angelo Strata from age seventeen to twenty-six. Mother of six. Widowed in 1587 at age 25, Victoria wanted to marry again because of her children, but a vision of the Virgin Mary convinced her to begin a single life of motherhood, chastity, prayer, and charity to the poor. When her children were grown, she and ten like-minded friends took vows of religion in 1605, and used a grant from a rich friend to found their first house. The group formed the beginnings of the Blue Annonciades or Blue Nuns which soon had houses scattered through Italy and France. Victoria served the rest of her life as the congregation's first superior.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Candidus the Martyr"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Candidus the Martyr"
 summary: "Martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Candidus-the-Martyr.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 patronage:
   - "Fucecchio, Italy"
 martyr: true

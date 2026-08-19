@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerulph"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gerulph"
 summary: "Young man in Flanders, Belgium who was heir to a large estate but was drawn to spiritual life. Murdered by a relative who hoped to inherit Gerulph's wealth; Gerulph was on his way from having received the sacrament of Confirmation. As he died, Gerulph pardoned his murderer. Honou"
 searchAliases:
   - "Gerulfo"
@@ -15,7 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "against fever"

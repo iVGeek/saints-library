@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Rome"
 summary: "Martyr."
 died: "on the Via Nomentana outside Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

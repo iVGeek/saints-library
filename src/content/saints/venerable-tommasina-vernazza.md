@@ -1,7 +1,7 @@
 ---
 name: "Venerable Tommasina Vernazza"
 honorific: Venerable
-title: "Pope, Royalty"
+title: "Venerable Tommasina Vernazza"
 summary: "Daughter of Ettore Vernazza, a patrician who founded hospitals for the poor in the Italian cities of Genoa, Rome, and Naples. God-daughter of Saint Catherine Fieschi-Adorno. She became a Canoness Regular of the Lateran of Saint Augustine at the monastery of Saint Maria delle Graz"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Tommasina-Vernazza.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 martyr: false
 ---
 

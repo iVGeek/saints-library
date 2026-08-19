@@ -1,7 +1,7 @@
 ---
 name: "Saint Syntyche of Philippi"
 honorific: Saint
-title: "Monk"
+title: "Saint Syntyche of Philippi"
 summary: "Mentioned by Saint Paul the Apostle in the Letter to the Philippians as having helped him spread the gospel, but no information about her has come down to us."
 searchAliases:
   - "Synteches"

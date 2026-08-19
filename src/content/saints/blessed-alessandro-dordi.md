@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alessandro Dordi"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Alessandro Dordi"
 summary: "Priest in the diocese of Bergamo, Italy. Missionary of Fidei Donum. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Micha%C5%82-Zbigniew-Alessandro%2C_Chimbote_PE.jpg/330px-Micha%C5%82-Zbigniew-Alessandro%2C_Chimbote_PE.jpg"
 birthYear: 1931
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Vaise"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vaise"
 summary: "Wealthy citizen of Saintes, France who was imprisoned and murdered by his relatives for giving his property to the poor. Martyr."
 searchAliases:
   - "Vasius"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eglise_st_pierre_vaise_Lyon9_fr.JPG/960px-Eglise_st_pierre_vaise_Lyon9_fr.JPG"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Anthemius of Poitiers"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Anthemius of Poitiers"
 summary: "Eighth century bishop of Poitiers, France. Evangelized the Saintonge region. Accompanied Charlemagne to Spain where he was martyred."
 searchAliases:
   - "Antemio"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

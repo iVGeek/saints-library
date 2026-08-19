@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermes of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermes of North Africa"
 summary: "Martyr. No other information has survived."
 died: "North Africa"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

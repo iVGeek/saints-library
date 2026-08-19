@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felix Ugalde Irurzun"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Felix Ugalde Irurzun"
 summary: "Entered the Passionist novitiate at Corella, Spain in 1932, and began studying for the priesthood. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felix-Ugalde-Irurzun.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

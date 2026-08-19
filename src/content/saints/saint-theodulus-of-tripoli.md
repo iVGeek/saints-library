@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodulus of Tripoli"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Theodulus of Tripoli"
 summary: "Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg"
 deathYear: 135
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

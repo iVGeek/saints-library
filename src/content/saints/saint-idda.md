@@ -1,7 +1,7 @@
 ---
 name: "Saint Idda"
 honorific: Saint
-title: "Monk"
+title: "Saint Idda"
 summary: "Born to the southern German nobility, Idda spent as much of her time in prayer as possible. Married. Widowed, she spent her final days at the Benedictine abbey of Fischingen, Germany."
 died: "12th century of natural causes"
 region: "Germany"

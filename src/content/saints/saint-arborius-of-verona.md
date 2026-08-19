@@ -1,7 +1,7 @@
 ---
 name: "Saint Arborius of Verona"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Arborius of Verona"
 summary: "29th bishop of the diocese of Verona, Italy."
 searchAliases:
   - "Arborio"
@@ -13,9 +13,8 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 29th bishop of the diocese of Verona, Italy.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus of Messina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Donatus of Messina"
 summary: "Benedictine monk. Martyr."
 died: "6th century Messina, Sicily, Italy"
 deathPlace: "Sicily, Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

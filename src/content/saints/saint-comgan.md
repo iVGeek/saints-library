@@ -1,7 +1,7 @@
 ---
 name: "Saint Comgan"
 honorific: Saint
-title: "Monk"
+title: "Saint Comgan"
 summary: "Monk. Abbot in Glenthsen, Ireland."
 searchAliases:
   - "Cowan"

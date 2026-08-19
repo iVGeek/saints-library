@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Roca Huguet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miquel Roca Huguet"
 summary: "Joined the Hospitallers of Saint John of God in 1910. Ordained in August 1926. Rector of the Holy Family school in Carabanchel Alto. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

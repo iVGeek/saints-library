@@ -1,7 +1,7 @@
 ---
 name: "Saint Osanna of Northumbria"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Osanna of Northumbria"
 summary: "Princess of Northumbria (in modern England) who became a nun."
 searchAliases:
   - "Osanna of Howden"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

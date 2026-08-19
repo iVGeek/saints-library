@@ -1,7 +1,7 @@
 ---
 name: "Venerable Raffaelo delle Nocche"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Raffaelo delle Nocche"
 summary: "Ordained a priest on 1 June 1901. Chosen bishop of Tricarico, Italy on 28 JUne 1922. Founded the Sisters Disciples of the Eucharistic Jesus."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Raffaelo-delle-Nocche.jpg"
 birthYear: 1877
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

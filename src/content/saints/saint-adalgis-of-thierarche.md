@@ -1,7 +1,7 @@
 ---
 name: "Saint Adalgis of Thiérarche"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Adalgis of Thiérarche"
 summary: "Monk. Spiritual student of Saint Fursey of Peronne. Missionary in the area of Arras and Laon, France. Founded a monastery in the forest around Thiérarche, Picardy; the village of Saint Algis grew up around it."
 searchAliases:
   - "Adalgis of Novara"

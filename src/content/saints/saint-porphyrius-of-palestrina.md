@@ -1,7 +1,7 @@
 ---
 name: "Saint Porphyrius of Palestrina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Porphyrius of Palestrina"
 summary: "Martyr."
 died: "in Palestrina, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Silvius of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Silvus"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

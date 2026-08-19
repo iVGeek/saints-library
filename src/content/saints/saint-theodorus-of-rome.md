@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodorus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodorus of Rome"
 summary: "Martyred with 21 Christian companions in the persecutions of Valerian."
 searchAliases:
   - "Theodor"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

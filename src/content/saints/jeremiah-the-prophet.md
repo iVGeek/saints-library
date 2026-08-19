@@ -1,7 +1,7 @@
 ---
 name: "Jeremiah the Prophet"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Jeremiah the Prophet"
 summary: "Old Testament prophet. Son of Helcias, of a priestly race of Anathoth, a little village of the tribe of Benjamin. Raised to love and respect Jewish traditions, and studied previous prophets, especially Isaias and Micheas. Tough and unconcerned about the opinions and threats of ot"
 image: "http://catholicsaints.info/wp-content/uploads/img-Jeremiah-the-Prophet.jpg"
 searchAliases:
@@ -18,10 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Old Testament prophet. Son of Helcias, of a priestly race of Anathoth, a little village of the tribe of Benjamin. Raised to love and respect Jewish traditions, and studied previous prophets, especially Isaias and Micheas. Tough and unconcerned about the opinions and threats of others when carrying out his mission of prophecy. Prophesied the destruction of the Temple of Jerusalem. The crowd sought to kill him for this, but he was saved through the intervention of Ahicam. Prophesied the Babylonian captivity of the Jews. Imprisoned with Baruch. Killed by people angered over his prophecies.

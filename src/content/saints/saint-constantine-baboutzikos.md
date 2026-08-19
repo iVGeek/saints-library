@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantine Baboutzikos"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Constantine Baboutzikos"
 summary: "Brother-in-law of the Byzantine empress Theodora. Held the high-ranking title of magistros in the Byzantine imperial court. One of the 42 Martyrs of Amorium who were captured by invading Muslims, imprisoned for seven years, and then murdered when they refused to convert to Islam."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg"
 deathYear: 845
@@ -12,9 +12,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

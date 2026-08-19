@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermes of Moesia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermes of Moesia"
 summary: "Exorcist. Martyr. No other information has survived."
 searchAliases:
   - "Ermete"
@@ -14,7 +14,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

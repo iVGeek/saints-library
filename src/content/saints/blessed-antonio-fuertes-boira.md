@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Fuertes Boira"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Cardinal"
+title: "Blessed Antonio Fuertes Boira"
 summary: "Monk. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ángel"
@@ -17,9 +17,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

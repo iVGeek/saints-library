@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles-Louis Hurtrel"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Charles-Louis Hurtrel"
 summary: "Order of Minims priest. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/gallery/blessed-charles-louis-hurtrel/blessed-charles-louis-hurtrel-01.jpg"
 birthYear: 1760
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

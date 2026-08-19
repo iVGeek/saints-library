@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoine-Frédéric Ozanam"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Antoine-Frédéric Ozanam"
 summary: "Born to Jean and Marie Ozanam, the fifth of 14 children; only three of them survived to adulthood. Married layman scholar, teacher and author in the archdioceses of Paris and Marseilles, France. Studied law in Paris. Worked in the judicial service in Lyons, France. Obtained a doc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederic-Ozanam.jpg"
 birthYear: 1813
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

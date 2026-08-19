@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus of Tomi"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marinus of Tomi"
 summary: "Martyr. No other information has survived."
 died: "Tomi, Scythia (in modern Romania)"
 deathPlace: "Scythia (modern Romania)"
@@ -10,7 +10,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

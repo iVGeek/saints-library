@@ -1,7 +1,7 @@
 ---
 name: "Saint Chrestus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Chrestus"
 summary: "Martyr."
 searchAliases:
   - "Cresto"
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Wilcox"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Wilcox"
 summary: "Robert began studying for the priesthood in Reims, France on 12 August 1583, and was ordained on 20 April 1585. He returned to England in 1586 to minister to covert Catholics in Kent during the anti-Catholic persecutions of Queen Elizabeth I. Imprisoned in Marshalsea prison in Lo"
 image: "http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg"
 birthYear: 1558
@@ -16,10 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

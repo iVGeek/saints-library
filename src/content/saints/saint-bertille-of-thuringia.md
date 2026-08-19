@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertille of Thuringia"
 honorific: Saint
-title: "Royalty"
+title: "Saint Bertille of Thuringia"
 summary: "Born a princess. Married to Saint Walbert of Hainault. Mother of Saint Waltrude and Saint Aldegundis."
 searchAliases:
   - "Bertilia"
@@ -11,8 +11,7 @@ feastDay:
   month: 1
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

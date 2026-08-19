@@ -1,7 +1,7 @@
 ---
 name: "Saint Hunna of Alsace"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Hunna of Alsace"
 summary: "Daughter of the duke of Alsace. Wife of an Alsatian nobleman named Huno of Hunnaweyer, she lived in the diocese of Strasbourg. Mother of one; her son, Deodatus, was baptized by Saint Deodatus of Nevers, and eventually became a monk. Donated property to monasteries, and financed t"
 searchAliases:
   - "The Holy Washerwoman"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 patronage:
   - "laundresses"
   - "laundry workers"

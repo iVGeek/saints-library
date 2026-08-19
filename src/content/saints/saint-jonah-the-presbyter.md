@@ -1,7 +1,7 @@
 ---
 name: "Saint Jonah the Presbyter"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Jonah the Presbyter"
 summary: "Father of Saint Theodorus of Apamea and Saint Theophanes of Nicaea. When his sons were grown and entering religious life, Jonah became a monk at the Grand Laura of San Saba in the Kidron Valley in Palestine for the rest of his life. There he was known as a model of asceticism and"
 searchAliases:
   - "Jonah of Palestine"

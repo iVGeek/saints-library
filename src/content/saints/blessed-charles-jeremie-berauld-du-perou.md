@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles-Jéremie Bérauld du Pérou"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Charles-Jéremie Bérauld du Pérou"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1737
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

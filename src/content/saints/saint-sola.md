@@ -1,7 +1,7 @@
 ---
 name: "Saint Sola"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Sola"
 summary: "No information of his early life has survived, and the first we hear of Sola he is a monk in England. He immigrated to Germany where he became a spiritual student of Saint Boniface. Ordained by Boniface. Hermit near Fulda, Germany, and later at Eichstätt, Germany. At each place h"
 searchAliases:
   - "Sualo"

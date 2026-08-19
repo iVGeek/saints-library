@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Zabal Blasco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Zabal Blasco"
 summary: "A lifelong layman in the archdiocese of Valencia, Spain. José's father died when the boy was 12 years old. He apprenticed in a law office, and a railroad managerial staff. Married to Catalina Cerdá Palop on 3 May 1925; the couple had three children. Member of Catholic Action and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Maria-Zabal-Blasco.jpg"
 birthYear: 1898
@@ -16,9 +16,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

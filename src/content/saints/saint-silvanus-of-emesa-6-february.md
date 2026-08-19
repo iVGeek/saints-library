@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Emesa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Silvanus of Emesa"
 summary: "Bishop of Emesa, Phoenicia for 40 years. Martyred in the persecutions of Maximian."
 searchAliases:
   - "Silvano"
@@ -14,7 +14,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

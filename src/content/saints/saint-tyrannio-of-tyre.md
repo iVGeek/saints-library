@@ -1,7 +1,7 @@
 ---
 name: "Saint Tyrannio of Tyre"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Tyrannio of Tyre"
 summary: "Bishop of Tyre, Phoenicia (modern Sur, Lebanon). Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Tirannione"
@@ -15,7 +15,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

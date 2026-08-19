@@ -1,7 +1,7 @@
 ---
 name: "Saint Conon of Perga"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Conon of Perga"
 summary: "Shepherd. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Perga, Asia Minor (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

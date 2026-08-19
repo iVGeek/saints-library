@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Constantinople"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Alexander of Constantinople"
 summary: "First bishop of Constantinople. Fought Arianism and turned away the writings of Arius from entering his diocese. Assisted at the Council of Nice."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg"
 deathYear: 340

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Carlo Angelo Sonzini"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope"
+title: "Venerable Carlo Angelo Sonzini"
 summary: "Born to a wealthy family, Carlo was educated at seminaries in the Italian cities of Seveso, Monza and Milan. While still in seminary, he served as Prefect of the Collegio San Carlo in Milan, and then at the Collegio San Martino di San Pietro Martire. Ordained a priest in the arch"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Angelo-Sonzini.jpg"
 birthYear: 1878
@@ -16,11 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Born to a wealthy family, Carlo was educated at seminaries in the Italian cities of Seveso, Monza and Milan. While still in seminary, he served as Prefect of the Collegio San Carlo in Milan, and then at the Collegio San Martino di San Pietro Martire. Ordained a priest in the archdiocese of Milan on 1 June 1901.

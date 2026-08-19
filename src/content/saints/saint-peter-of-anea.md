@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Anea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Anea"
 summary: "Martyr. No other information as survived."
 died: "burned alive at Eleutheropolis, Asia Minor, date unknown"
 deathPlace: "Asia Minor, date unknown"
@@ -10,7 +10,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

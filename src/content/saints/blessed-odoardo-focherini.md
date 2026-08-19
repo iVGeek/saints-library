@@ -1,7 +1,7 @@
 ---
 name: "Blessed Odoardo Focherini"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Odoardo Focherini"
 summary: "Layman in the diocese of Carpi, Italy. Married, a father of seven, who worked as a journalist. Focherini provided Jews with false documents so they could escape Nazi death camps by emigrating to Switzerland. Arrested by the Nazi authorities, he was sentenced to a concentration ca"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/07/Odoardo_Focherini.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

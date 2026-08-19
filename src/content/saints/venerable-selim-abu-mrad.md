@@ -1,7 +1,7 @@
 ---
 name: "Venerable Sélim Abu Mrad"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Sélim Abu Mrad"
 summary: "Basilian Salvatorians of the Melkites priest."
 searchAliases:
   - "Béchara Abou-Mourad"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

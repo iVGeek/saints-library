@@ -1,7 +1,7 @@
 ---
 name: "Saint Boniface of Ferentino"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Boniface of Ferentino"
 summary: "Third bishop of Ferentino, Tuscany, Italy serving in the sixth century during the reign of Roman Emperor Justin. Saint Gregory the Great wrote about him."
 region: "Italy"
 feastDay:
@@ -9,13 +9,11 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 patronage:
   - "alcoholics"
-martyr: true
+martyr: false
 ---
 
 Third bishop of Ferentino, Tuscany, Italy serving in the sixth century during the reign of Roman Emperor Justin. Saint Gregory the Great wrote about him.

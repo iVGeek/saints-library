@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Schiapparoli"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Schiapparoli"
 summary: "Sister of Venerable Giustina Schiapparoli. Studied under Saint Benedicta Cambiagio Frassinello. Professed in 1850. Co-founder of the Benedictine Sisters of Divine Providence of Voghera."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giustina-and-Venerable-Maria-Schiapparoli.jpg"
 birthYear: 1815
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

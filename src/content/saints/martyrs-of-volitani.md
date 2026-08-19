@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Volitani"
 honorific: Saint
-title: "Martyr"
+title: "Martyrs of Volitani"
 summary: "A group of martyrs who were praised by Saint Augustine of Hippo"
 searchAliases:
   - "Martyrs of Bolitani"
@@ -12,8 +12,7 @@ feastDay:
   month: 10
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Cañal Gómez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Enrique Cañal Gómez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

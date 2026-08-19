@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas of Tolentino"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Blessed Thomas of Tolentino"
 summary: "Joined the Franciscans as a young man; he was noted by his brothers for his strict adherence to the Rule of the Order. Priest. Missionary in Armenia in 1289. Envoy from King Haython II of Armenia to the papal court. Missionary in Persia (modern Iran) in 1305. Missionary to Hindus"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-of-Tolentino-2.jpg"
 birthYear: 1260
@@ -16,10 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

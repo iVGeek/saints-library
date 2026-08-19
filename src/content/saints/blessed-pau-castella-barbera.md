@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Castellá Barberá"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pau Castellá Barberá"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

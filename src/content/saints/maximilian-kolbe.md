@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 10 October 1982
 vocation:
   - Priest
-  - Martyr
   - Founder
 religiousOrder: Franciscan
 patronage:

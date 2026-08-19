@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gausmarus of Savigny"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Gausmarus of Savigny"
 summary: "Benedictine monk. Abbot at Saint Martin of Savigny from 954 to 984."
 deathYear: 984
 died: "984"

@@ -2,7 +2,7 @@
 name: "Blessed Angelus de Scarpetti"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ismeretlen_XV-XVI._sz%C3%A1zadi_fest%C5%91_Angelo_Scarpetti_Museo_Civico_Arezzo_Chiesa_di_S._Chiara.jpg"
 honorific: Blessed
-title: "Pope, Missionary"
+title: "Blessed Angelus de Scarpetti"
 summary: "Augustinian friar c.1254. Fellow student with Saint Nicholas of Tolentino. Missionary to England where he preached and built monasteries. Known as a miracle worker. He once intervened on behalf of a man condemned to death; the authorities ignored him, and executed the man; Angelu"
 searchAliases:
   - "Angelus of Borgo San Sepolcro"
@@ -19,7 +19,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Missionary
 religiousOrder: "Augustinian"
 martyr: false

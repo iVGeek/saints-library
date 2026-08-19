@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy of Prusa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Timothy of Prusa"
 summary: "Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate."
 deathYear: 362
 died: "362"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

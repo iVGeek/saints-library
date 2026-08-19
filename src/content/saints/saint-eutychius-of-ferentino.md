@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius of Ferentino"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutychius of Ferentino"
 summary: "Martyr. No other information has survived."
 died: "in Ferentino, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

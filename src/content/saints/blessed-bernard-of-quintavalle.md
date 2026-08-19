@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard of Quintavalle"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Bernard of Quintavalle"
 summary: "Born to the wealthy nobility of Assisi, Bernard studied at the University of Bologna and received degrees in both civil and canon law, and fought in the First Crusade. He was one of the early followers of Saint Francis of Assisi, meeting him and becoming his spiritual student in"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bernard_of_Quintavalle.jpg"
 searchAliases:
@@ -20,8 +20,7 @@ feastDay:
   month: 7
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

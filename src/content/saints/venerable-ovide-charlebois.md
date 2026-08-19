@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ovide Charlebois"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Royalty, Missionary"
+title: "Venerable Ovide Charlebois"
 summary: "Seventh of fourteen children born to Hyacinthe Charlebois and Émérente Chartier-Robert, he was raised in a poor and pious family. Ovide studied at the Collège de l'Assomption in Quebec from 1876 to 1882. Joined the Oblate Misionaries of Mary Immaculate in 1883, making his profess"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Monseigneur_Ovide_Charlebois%2C_O.M.I._1862-1933%2C_recto.tif/lossy-page1-960px-Monseigneur_Ovide_Charlebois%2C_O.M.I._1862-1933%2C_recto.tif.jpg"
 searchAliases:
@@ -18,12 +18,10 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Seventh of fourteen children born to Hyacinthe Charlebois and Émérente Chartier-Robert, he was raised in a poor and pious family. Ovide studied at the Collège de l'Assomption in Quebec from 1876 to 1882. Joined the Oblate Misionaries of Mary Immaculate in 1883, making his profession in 1884. Ordained a priest on 17 July 1887. Worked in the missions in the Canadian northwest, travelling repeatedly across Saskatchewan by dog-sled, canoe and snowshoe. Chosen Vicar Apostolic of Keewatin, Manitoba, Canada and Titular Bishop of Berenice on 8 August 1910; he served there the remaining 23 years of his life. He was devoted to education of the people, built many schools, churches and chapels in the Vicariate, founded a newspaper to tie the widespread communities together, and was a vocal opponent of Communism.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescentian of Rome"
 summary: "Martyred in the persecutions of Maxentius."
 searchAliases:
   - "Crescentianus"
@@ -14,7 +14,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

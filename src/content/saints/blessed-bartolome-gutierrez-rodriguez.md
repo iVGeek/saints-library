@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomé Gutiérrez Rodríguez"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Bartolomé Gutiérrez Rodríguez"
 summary: "Augustinian priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomé-Gutiérrez-Rodríguez.jpg"
 birthYear: 1580
@@ -16,10 +16,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

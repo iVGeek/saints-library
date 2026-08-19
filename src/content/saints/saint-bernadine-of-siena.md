@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernadine of Siena"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Cardinal, Royalty, Confessor"
+title: "Saint Bernadine of Siena"
 summary: " Bernardino's charismatic preaching filled the Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-of-Siena.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -56,7 +54,7 @@ patronage:
   - "Siena"
   - "Trevignano Romano"
   - "Venice"
-martyr: true
+martyr: false
 ---
 
 Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc.

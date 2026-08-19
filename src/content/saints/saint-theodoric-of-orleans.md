@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodoric of Orleans"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Theodoric of Orleans"
 summary: "Benedictine monk at Saint-Pierre-le-Vif monastery, Sens, France. Royal counselor. Bishop of Orleans, France. Died while on pilgrimage to the tombs of the Apostles in Rome, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodoric-Bishop.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Camille Costa de Beauregard"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Camille Costa de Beauregard"
 summary: "Raised in a Christian family, Camille lost his faith as a young man, but came back enthusiastically when he had a conversion experience at age 22. He studied at the French seminary in Rome, Italy, and was ordained a priest of the diocese of Chambéry, Savoie, France on 26 May 1866"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Camille-Costa-de-Beauregard.jpg"
 birthYear: 1841
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: false
 ---

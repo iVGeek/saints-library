@@ -1,7 +1,7 @@
 ---
 name: "Saint Vindonius of Campania"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Vindonius of Campania"
 summary: "Priest in North African. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea by the Arian Vandals. The boat landed in the Campania region of southern Italy, and he resumed his ministry with the people there."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in North African. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea by the Arian Vandals. The boat landed in the Campania region of southern Italy, and he resumed his ministry with the people there.

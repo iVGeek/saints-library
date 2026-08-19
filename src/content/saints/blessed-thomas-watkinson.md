@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Watkinson"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Thomas Watkinson"
 summary: "Married layman and family man in the apostolic vicariate of England who provided aid to covert priests in the persecutions of Queen Elizabeth I. Martyr."
 deathYear: 1591
 born: "in Menthorpe, North Yorkshire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gumbert of Ansbach"
 honorific: Saint
-title: "Saint"
+title: "Saint Gumbert of Ansbach"
 summary: "Founded the monastery of Ansbach in Franconia (in modern Germany) on the land around his villa, then retired there to serve as its first abbot."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gumbert-of-Ansbach.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 7
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Ansbach, Germany"
 martyr: false

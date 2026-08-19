@@ -1,7 +1,7 @@
 ---
 name: "Blessed Buenaventura García-Paredes Pallasá"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Buenaventura García-Paredes Pallasá"
 summary: "Born to a pious family of shepherds, and he worked the fields as a boy. Educated at the Dominican Apostolic School. Dominican novice in Toledo, Spain; he made his solemn profession in 1887, taking the name Bonaventure of Saint Louis Bertran. Studied theology in Avila, Salamanca,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-García-Paredes-Pallasá.jpg"
 birthYear: 1866
@@ -16,10 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

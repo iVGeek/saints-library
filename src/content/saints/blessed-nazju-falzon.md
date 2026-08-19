@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nazju Falzon"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty, Soldier"
+title: "Blessed Nazju Falzon"
 summary: "Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in theology, but did not feel worthy of the prie"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazju-Falzon.jpg"
 searchAliases:
@@ -18,12 +18,10 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in theology, but did not feel worthy of the priesthood, and though his bishop encouraged him, Ignatius never took the final step of becoming ordained. Taught catechism to children at the Institute of the Good Shepherd; known to help the poorer children with money, as well.

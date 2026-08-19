@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luigi Bosio"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Luigi Bosio"
 summary: "Priest of the diocese of Verona, Italy."
 birthYear: 1909
 deathYear: 1994
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

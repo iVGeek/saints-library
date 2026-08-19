@@ -1,7 +1,7 @@
 ---
 name: "Blessed Madeleine-Thérèse Talieu"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope, Royalty"
+title: "Blessed Madeleine-Thérèse Talieu"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 7
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

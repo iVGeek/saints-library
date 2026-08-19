@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hilario De Santiago Paredes"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Hilario De Santiago Paredes"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ligorio Pedro"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

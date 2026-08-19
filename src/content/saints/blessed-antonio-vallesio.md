@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Vallesio"
 honorific: Blessed
-title: "Martyr, Missionary"
+title: "Blessed Antonio Vallesio"
 summary: "Mercedarian missionary to Tunisia. Arrested by Muslim authorities for preaching Christianity, sentenced to forced labour, but simply dragged outside of town and murdered. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Antonio-Vallesio.jpg"
 deathYear: 1293
@@ -15,7 +15,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 martyr: true
 ---

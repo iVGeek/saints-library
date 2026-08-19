@@ -1,7 +1,7 @@
 ---
 name: "Saint Tujan"
 honorific: Saint
-title: "Bishop, Monk, Pope, Hermit"
+title: "Saint Tujan"
 summary: " A chapel was later built on the site of his hermitage; the chapel a place of Born to the Cornish nobility, the son of Lord Arastagn. Rector of Brasparts in Brittany (in modern France) where he worked with Saint Joavan of Brittany. Hermit and monk, and often depicted as an abbot."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Tujan.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Hermit
 patronage:
   - "against eye problems"

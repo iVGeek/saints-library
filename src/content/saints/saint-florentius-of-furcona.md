@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Furcona"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Florentius of Furcona"
 summary: "One of a group of soldiers martyred in the persecutions of Maximinius the Thracian."
 deathYear: 235
 died: "235 at Furcona, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

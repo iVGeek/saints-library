@@ -1,7 +1,7 @@
 ---
 name: "Saint Roincenn Conlaedh"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Roincenn Conlaedh"
 summary: "Son of Ugaine Mor. Bishop in the area of Cill-dara, Ireland."
 deathYear: 519
 born: "Ireland"
@@ -12,9 +12,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Son of Ugaine Mor. Bishop in the area of Cill-dara, Ireland.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelfleda"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Ethelfleda"
 summary: "Daughter of King Edward the Elder. Nun and then abbess of Ramsey Abbey where she was a sister with Saint Merewenna."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ethelfleda.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Morant Pellicer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Enrique Morant Pellicer"
 summary: "Born to a deeply religious family, Enrique attended a Catholic high school in Gandia, Spain, began studying architecture in Madrid, Spain, but finally gave in to a call to the priesthood. Ordained in the archdiocese of Valencia, Spain in 1933. Parish priest in Barig where he revi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Morant-Pellicer.jpg"
 birthYear: 1908
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

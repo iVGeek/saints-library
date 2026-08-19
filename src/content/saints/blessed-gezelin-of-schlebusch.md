@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gezelin of Schlebusch"
 honorific: Blessed
-title: "Bishop, Hermit"
+title: "Blessed Gezelin of Schlebusch"
 summary: "12th-century hermit and Cistercian lay brother at Altenberg Abbey where he worked as a shepherd. Miracle worker, including ending a drought by stabbing his shepherd's crook into the ground which caused a spring of water to erupt; the spring continues to flow today, and the water"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gezelinus.jpg"
 searchAliases:

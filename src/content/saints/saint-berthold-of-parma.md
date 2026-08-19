@@ -1,7 +1,7 @@
 ---
 name: "Saint Berthold of Parma"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Berthold of Parma"
 summary: "Born to Anglo-Saxon parents who had fled England at the Norman Conquest of 1066. Saintly lay brother at the monastery of Saint Alexander."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Berthold-of-Parma.jpg"
 searchAliases:
@@ -16,9 +16,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Born to Anglo-Saxon parents who had fled England at the Norman Conquest of 1066. Saintly lay brother at the monastery of Saint Alexander.

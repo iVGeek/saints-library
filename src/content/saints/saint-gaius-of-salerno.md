@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Salerno"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gaius of Salerno"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Caius"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

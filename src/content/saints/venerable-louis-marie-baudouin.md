@@ -1,7 +1,7 @@
 ---
 name: "Venerable Louis-Marie Baudouin"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Louis-Marie Baudouin"
 summary: "Ordained a priest of the diocese of Luçon, France on 19 September 1789. Refused to take the oath of allegiance to the Civil Constitution of the Clergy put forth by the government during the French Revolution, and along with 233 other priests, went into exile in Spain on 9 Septemb"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Louis_M_B.jpg"
 birthYear: 1765
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

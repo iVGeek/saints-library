@@ -1,7 +1,7 @@
 ---
 name: "Saint Horres of Nicaea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Horres of Nicaea"
 summary: "Son of Saint Theusitas of Nicaea. Martyred with his father and several others."
 searchAliases:
   - "Ilorres"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Autun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint John of Autun"
 summary: "Bishop venerated at Autun, France."
 region: "France"
 feastDay:

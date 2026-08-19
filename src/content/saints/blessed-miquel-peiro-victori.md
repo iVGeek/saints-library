@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Peiro Victori"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Miquel Peiro Victori"
 summary: "Married layman in the archdiocese of Barcelona, Spain. Member of the Lay Dominicans. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miquel-Peiro-Victori.jpg"
 birthYear: 1887
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

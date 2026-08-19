@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderius of Pistoia"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Desiderius of Pistoia"
 summary: "Hermit at Pistoia, Italy. Friend of Saint Barontius of Pistoia."
 searchAliases:
   - "Dizier"

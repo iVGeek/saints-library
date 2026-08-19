@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salvador Estrugo Salves"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Salvador Estrugo Salves"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Estrugo-Salves.jpg"
 birthYear: 1862
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

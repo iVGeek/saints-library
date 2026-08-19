@@ -28,7 +28,6 @@ feastDay:
 liturgicalRank: Feast
 canonizationStatus: Blessed
 vocation:
-  - Mother
   - Virgin
 patronage:
   - mothers

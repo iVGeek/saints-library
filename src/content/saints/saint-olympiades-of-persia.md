@@ -1,7 +1,7 @@
 ---
 name: "Saint Olympiades of Persia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Olympiades of Persia"
 summary: "Born to the Persian nobility. Martyred in the persecutions of Decius."
 deathYear: 251
 died: "beaten to death in 251"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

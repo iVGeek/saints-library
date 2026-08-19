@@ -1,7 +1,7 @@
 ---
 name: "Saint Arduinus of Trepino"
 honorific: Saint
-title: "Monk"
+title: "Saint Arduinus of Trepino"
 summary: "May have been an English pilgrim to holy sites in southern Italy, but no reliable information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Arduinus-of-Trepino.jpg"
 searchAliases:

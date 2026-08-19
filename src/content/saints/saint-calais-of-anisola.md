@@ -1,7 +1,7 @@
 ---
 name: "Saint Calais of Anisola"
 honorific: Saint
-title: "Priest, Hermit, Royalty"
+title: "Saint Calais of Anisola"
 summary: "Grew up at the Menat monastery in Riom, France. Friend of Saint Avitus of Perche. Ordained at Saint-Mesmin de Micy Abbey near Orleans, France. Hermit in the Maine-et-Loire region of France. His reputation for holiness attracted so many would-be students that he founded the Benedi"
 searchAliases:
   - "Calais d'Anille"
@@ -25,7 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "in France\n\nBlois"

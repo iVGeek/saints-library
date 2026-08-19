@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco García León"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco García León"
 summary: "Teenaged boy in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1920
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

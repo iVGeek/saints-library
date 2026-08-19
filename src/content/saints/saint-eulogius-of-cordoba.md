@@ -1,7 +1,7 @@
 ---
 name: "Saint Eulogius of Cordoba"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Eulogius of Cordoba"
 summary: "Son of a senatorial family from Cordoba, Spain. Well educated. Priest. Head of an ecclesiastical school. Worked to comfort and support Christian martyrs and their survivors during Islamic persecutions in Moorish occupied Spain. Arrested several times for his faith, he wrote Exhor"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Saint-Eulalia-of-Cordoba.jpg"
 deathYear: 859
@@ -13,11 +13,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "carpenters"
   - "coppersmiths"

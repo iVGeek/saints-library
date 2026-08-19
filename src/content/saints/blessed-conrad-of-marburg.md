@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conrad of Marburg"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Conrad of Marburg"
 summary: "Franciscan friar. Provincial of Franciscans in Germany. He was known for his personal holiness, and for a great devotion to the saints of the Church."
 deathYear: 1257
 born: "late 12th century"
@@ -11,8 +11,7 @@ feastDay:
   month: 11
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Innocent of Le Mans"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Innocent of Le Mans"
 summary: "Bishop of Le Mans, France for over 40 years."
 deathYear: 559
 died: "559"

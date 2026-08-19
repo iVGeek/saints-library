@@ -1,7 +1,7 @@
 ---
 name: "Saint Zoticus of Laodicea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Zoticus of Laodicea"
 summary: "Martyr."
 died: "Laodicea on the Lycus, Phrygia (near modern Denizli, Turkey), date unknown"
 deathPlace: "Phrygia (near modern Denizli, Turkey), date unknown"
@@ -10,8 +10,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

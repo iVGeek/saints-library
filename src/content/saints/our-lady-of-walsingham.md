@@ -1,7 +1,7 @@
 ---
 name: "Our Lady of Walsingham"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Religious, Pope, Royalty"
+title: "Our Lady of Walsingham"
 summary: "In 1061 Lady Richeldis de Faverches, lady of the manor near the village of Walsingham, Norfolk, England, was taken in spirit to Nazareth. There Our Lady asked her to build a replica, in Norfolk, of the Holy House where she had been born, grew up, and received the Annunciation of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Our_Lady_of_Walsingham_III.JPG/960px-Our_Lady_of_Walsingham_III.JPG"
 searchAliases:
@@ -12,8 +12,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Augustinian"

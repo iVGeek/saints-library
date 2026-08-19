@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilian of Lagny"
 honorific: Saint
-title: "Monk"
+title: "Saint Emilian of Lagny"
 summary: "Benedictine monk. Monk and then abbot at Lagny, France."
 searchAliases:
   - "Aemilianus"

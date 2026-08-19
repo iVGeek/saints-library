@@ -1,7 +1,7 @@
 ---
 name: "Saint Attalia"
 honorific: Saint
-title: "Religious"
+title: "Saint Attalia"
 summary: "Niece of Saint Odilia of Alsace. Benedictine nun. Abbess of Saint Stephen's Convent, Strasbourg, France."
 searchAliases:
   - "Attala"

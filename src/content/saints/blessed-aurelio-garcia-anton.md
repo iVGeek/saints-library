@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aurelio García Anton"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Aurelio García Anton"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Aurelio María"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Melania the Younger"
 honorific: Saint
-title: "Priest, Monk, Pope, Cardinal, Hermit"
+title: "Saint Melania the Younger"
 summary: "Wealthy Roman patrician noble; granddaughter of Saint Melania the Elder. Married against her will to Valerius Pinianus (Saint Pinian) at age 13. After the death of their two children, both of whom died young, and to escape Visigoth invasion, the couple fled to Tagaste in North Af"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Melania_the_Younger%2C_nun_of_Rome_%28Menologion_of_Basil_II%29.jpg/960px-Melania_the_Younger%2C_nun_of_Rome_%28Menologion_of_Basil_II%29.jpg"
 birthYear: 383
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Cardinal
   - Hermit
 patronage:

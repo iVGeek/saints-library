@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernward of Hildesheim"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Bernward of Hildesheim"
 summary: "Member of a noble Saxon family. Grandson of Athelbero, Count Palatine of Saxony. Orphaned at an early age. Raised by his uncle Volkmar, bishop of Utrecht, and educated at the cathedral school at Heidelberg, where he was a schoolmate of Blessed Meinwerk of Paderborn and at Mainz."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernwardst%C3%BCr.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

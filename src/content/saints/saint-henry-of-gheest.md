@@ -1,7 +1,7 @@
 ---
 name: "Saint Henry of Gheest"
 honorific: Saint
-title: "Monk"
+title: "Saint Henry of Gheest"
 summary: "Cistercian monk."
 searchAliases:
   - "Henry of Villers"

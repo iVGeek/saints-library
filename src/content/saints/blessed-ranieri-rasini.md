@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ranieri Rasini"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Ranieri Rasini"
 summary: " Among the miracles attributed to him was the resurrection from the dead of two children, Franciscan Friar Minor who served as his convent porter and beggar in Borgo San Sepolcro (modern Sansepolcro), Italy. He was known for his humility, poverty, patience and service to the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rainier-Rasini.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "women in labour"

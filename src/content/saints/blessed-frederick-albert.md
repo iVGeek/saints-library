@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frederick Albert"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Frederick Albert"
 summary: "Priest. Founded the Congregation of the Vincentian Sisters of Mary Immaculate (Albertines)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-Albert.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

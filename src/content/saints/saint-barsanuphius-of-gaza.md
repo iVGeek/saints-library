@@ -1,7 +1,7 @@
 ---
 name: "Saint Barsanuphius of Gaza"
 honorific: Saint
-title: "Priest, Monk, Hermit, Soldier"
+title: "Saint Barsanuphius of Gaza"
 summary: "Hermit for 50 years in absolute seclusion near the monastery of Saint Seridon of Gaza, Palestine. Wrote against Origenists. Greatly venerated by the Greeks. Extensive correspondent whose letters have survived 15 centuries."
 image: "http://catholicsaints.info/wp-content/uploads/Barsanuphius-of-Gaza.jpg"
 searchAliases:

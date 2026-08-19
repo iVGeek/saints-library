@@ -1,7 +1,7 @@
 ---
 name: "Saint Philemon of Antinoë"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Philemon of Antinoë"
 summary: "Actor and musician. Convert. Ordered to sacrifice to idols during the persecutions of Diocletian, he confessed that he was a Christian. Tortured and executed. Marytr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Philemon-and-Apollonius-of-Antinoe.jpg"
 deathYear: 305
@@ -13,7 +13,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

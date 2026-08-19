@@ -1,7 +1,7 @@
 ---
 name: "Saint Aggaeus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aggaeus the Martyr"
 summary: "Martyr. No other reliable information has survived."
 deathYear: 300
 died: "c.300"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

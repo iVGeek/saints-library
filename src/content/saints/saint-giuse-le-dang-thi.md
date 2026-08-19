@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Lê Dang Thi"
 honorific: Venerable
-title: "Martyr, Pope, Royalty, Soldier"
+title: "Saint Giuse Lê Dang Thi"
 summary: "Layman. Soldier. Captain in the army of King Tu-duc. Convert. Martyr."
 searchAliases:
   - "Joseph Thi"
@@ -17,9 +17,6 @@ feastDay:
   day: 24
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Celedonius of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Celedonius of Africa"
 summary: "Martyr."
 searchAliases:
   - "Celedonus"
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

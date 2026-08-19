@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claudius of Avignon"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Claudius of Avignon"
 summary: "Franciscan friar in the Avignon region of France."
 region: "France"
 feastDay:

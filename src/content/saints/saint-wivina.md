@@ -1,7 +1,7 @@
 ---
 name: "Saint Wivina"
 honorific: Saint
-title: "Monk, Religious, Hermit"
+title: "Saint Wivina"
 summary: "She received many offers of marriage but turned them all down. At age 23 she became a hermitess near Brussels, Belgium. Her reputation soon attracted disciples. For them she built a Benedictine convent of Grand-Brigard on land donated by Count Godfrey of Brabant, and served as it"
 image: "http://catholicsaints.info/wp-content/uploads/img-Sainte-Wivine-de-Grand-Bigard.jpg"
 searchAliases:

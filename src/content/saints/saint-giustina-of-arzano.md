@@ -1,7 +1,7 @@
 ---
 name: "Saint Giustina of Arzano"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Giustina of Arzano"
 summary: "Young Christian woman in Trieste, Italy who had consecrated herself to God during a period of persecution. A pagan friend of the city's imperial consol Fabiano sought Giuliana in marriage, but she refused, and was discovered to be a Christian. She was arrested, ordered to renouce"
 died: "arrows fired at her would not strike her, and the archers would suddenly sweat blood"
 deathPlace: "and the archers would suddenly sweat blood"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

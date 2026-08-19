@@ -1,7 +1,7 @@
 ---
 name: "Saint Buono"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Buono"
 summary: "Priest. Martyred with eleven others. The town of San Buono, Italy is named for him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Buono.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

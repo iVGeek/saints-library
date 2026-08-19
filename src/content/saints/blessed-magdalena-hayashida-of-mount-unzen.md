@@ -1,7 +1,7 @@
 ---
 name: "Blessed Magdalena Hayashida of Mount Unzen"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Magdalena Hayashida of Mount Unzen"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1559
 deathYear: 1627
@@ -15,8 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

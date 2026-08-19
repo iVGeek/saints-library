@@ -1,7 +1,7 @@
 ---
 name: "Saint Oda of Aquitaine"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Oda of Aquitaine"
 summary: "Princess. Married to the Duke of Aquitaine (in modern France. Widow. Devoted her life after marriage, and her fortune, to care of the poor and suffering."
 deathYear: 723
 died: "c.723 of natural causes"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 patronage:
   - "Amay, Belgium"
 martyr: false

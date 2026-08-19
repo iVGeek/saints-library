@@ -1,7 +1,7 @@
 ---
 name: "Saint Aceptismas of Hnaita"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Royalty"
+title: "Saint Aceptismas of Hnaita"
 summary: "Bishop of Hnaita, Persia. Over 80 years old, he was tortured and martyred in the persecutions of King Sapor II."
 searchAliases:
   - "Aceptismas of Honit"
@@ -15,7 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon

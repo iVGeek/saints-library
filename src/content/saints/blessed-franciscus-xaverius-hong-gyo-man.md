@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciscus Xaverius Hong Gyo-man"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Franciscus Xaverius Hong Gyo-man"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Francis Xavier"
@@ -16,9 +16,7 @@ feastDay:
   month: 4
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

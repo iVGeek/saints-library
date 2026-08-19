@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor Roma"
 honorific: Saint
-title: "Martyr"
+title: "Saint Victor Roma"
 summary: "Martyr."
 searchAliases:
   - "Victor of Basilla"
@@ -14,8 +14,7 @@ feastDay:
   month: 5
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

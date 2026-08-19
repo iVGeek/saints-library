@@ -1,7 +1,7 @@
 ---
 name: "Blessed Goderanno"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Goderanno"
 summary: "Benedictine monk at the Abbey of Cluny. Abbot of Maillezais Abbey. Bishop of Saintes, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Goderanno.jpg"
 deathYear: 1074

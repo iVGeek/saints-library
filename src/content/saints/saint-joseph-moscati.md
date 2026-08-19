@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Moscati"
 honorific: Venerable
-title: "Pope, Royalty, Soldier"
+title: "Saint Joseph Moscati"
 summary: "Seventh of nine children born to a prominent family, the son of Francsco Moscati, a lawyer and magistrate who served as an altar server whenever possible, and Rosa de Luca dei Marchesi di Roseto, whose family was Italian nobility. Giuseppe's family moved to Naples, Italy when the"
 image: "http://catholicsaints.info/wp-content/gallery/saint-joseph-moscati/saint-joseph-moscati-01.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Pope
-  - Royalty
   - Soldier
 patronage:
   - "bachelors"

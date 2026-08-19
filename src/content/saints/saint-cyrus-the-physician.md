@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrus the Physician"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Cyrus the Physician"
 summary: "Physician in Alexandria, Egypt. His ministry to the sick, and the Christian example he set, brought many others to the faith. He, Saint John, Saint Athanasia, and her three daughters were tortured and martyred for their faith. Their story was told by Saint Sophronius and others."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cyrus-the-Physician.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

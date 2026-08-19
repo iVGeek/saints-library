@@ -1,7 +1,7 @@
 ---
 name: "Saint Adalsindis of Bèze"
 honorific: Saint
-title: "Religious, Royalty"
+title: "Saint Adalsindis of Bèze"
 summary: "Born to the Burgundian nobility, the daughter of Duke Almagar and Duchess Aquilina; sister of Saint Waldalenus of Bèze. Benedictine nun. Abbess of a convent near Bèze under the supervision of her brother."
 searchAliases:
   - "Adalsainde"
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

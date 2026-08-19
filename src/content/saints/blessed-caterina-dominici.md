@@ -1,7 +1,7 @@
 ---
 name: "Blessed Caterina Dominici"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Caterina Dominici"
 summary: "Member of the Sisters of Saint Anne for 44 years, entering in November 1850 and taking the name Sister Mary Henrietta. Worked tirelessly with cholera people during and outbreak in 1854. Novice mistress for several years. Served 33 years as Superior General of her congregation. Fr"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/MHDominici.jpg"
 searchAliases:
@@ -21,11 +21,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Member of the Sisters of Saint Anne for 44 years, entering in November 1850 and taking the name Sister Mary Henrietta. Worked tirelessly with cholera people during and outbreak in 1854. Novice mistress for several years. Served 33 years as Superior General of her congregation. Friend and advisor to Saint John Bosco.

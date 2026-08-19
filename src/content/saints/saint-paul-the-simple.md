@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul the Simple"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Paul the Simple"
 summary: "Farmer. Upon the discovery of his wife's adultery, Paul became a desert hermit. Spiritual student of Saint Anthony the Abbot. Given the title The Simple for his simple and humble acceptance of the teachings. Received visions, and known as a miracle worker."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Paul_the_Simple_of_Egypt_%28Menologion_of_Basil_II%29.jpg/960px-Paul_the_Simple_of_Egypt_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

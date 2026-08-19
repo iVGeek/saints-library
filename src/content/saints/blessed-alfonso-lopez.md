@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfonso Lopez"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Alfonso Lopez"
 summary: "Friar Minor Conventual priest. Martyred with five companions during the persecutions of the Second Spanish Republic."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Lopez.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

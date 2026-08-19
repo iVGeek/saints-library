@@ -1,7 +1,7 @@
 ---
 name: "Saint Schotin"
 honorific: Saint
-title: "Monk, Hermit, Royalty, Confessor"
+title: "Saint Schotin"
 summary: "Left his homeland to become a spiritual student of Saint David of Wales. Hermit on Mount Mairge in Ireland. Founded a boy's school in Kilkenny, Ireland."
 searchAliases:
   - "Scarthin"
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 martyr: false
 ---

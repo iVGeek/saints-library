@@ -1,7 +1,7 @@
 ---
 name: "Saint Achilles of Larissa"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Achilles of Larissa"
 summary: "Born to an imperial Roman patrician family, he received a good education, especially in philosophy. On the death of his parents, he sold all his property, gave the money to the poor, and went on pilgrimage to the Holy Lands and then to Rome, Italy. Bishop of Larissa, Thessaly, Gr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Achilles-of-Larissa.jpg"
 searchAliases:

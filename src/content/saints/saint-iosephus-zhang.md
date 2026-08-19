@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Zhang"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Iosephus Zhang"
 summary: "Seminarian at Su-tchuen, China. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

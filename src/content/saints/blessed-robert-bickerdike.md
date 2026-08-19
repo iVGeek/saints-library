@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Bickerdike"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Robert Bickerdike"
 summary: "Layman in the apostolic vicariate of England during a period of official persecution. Martyr."
 deathYear: 1586
 born: "Lowhale, Yorkshire, England"
@@ -15,9 +15,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Robert_Bickerdike%2C_c1890.png"
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marius Aventicus"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Marius Aventicus"
 summary: "Born to a rich, distinguished family with roots in the Roman empire. Ordained as a young man. Bishop of Avenches, Switzerland in 574; he later moved his see to Lausanne. Participated in the Council of M&acirc;con in 585. A skilled goldsmith, he made altar vessels by hand. Noted a"
 searchAliases:
   - "Marius Aventicensis"

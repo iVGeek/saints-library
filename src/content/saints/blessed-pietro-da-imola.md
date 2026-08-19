@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro da Imola"
 honorific: Blessed
-title: "Royalty, Soldier"
+title: "Blessed Pietro da Imola"
 summary: "Son of Giacomo di Antonio, a member of the Ghibelline political faction, and related to the Italian nobility. Lawyer. By 1289 he is known to have served as a civil magistrate, and in 1299 was a leader in the peace negotiations between the Guelphs and the Ghibellines. For politica"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-da-Imola.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Royalty
   - Soldier
 martyr: false
 ---

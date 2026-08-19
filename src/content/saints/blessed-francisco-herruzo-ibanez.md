@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Herruzo Ibáñez"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco Herruzo Ibáñez"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustinus of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Faustinus of Brescia"
 summary: "Bishop of Brescia, Italy c.360. Legend says that he was a relative of Saint Faustinus and Saint Jovita, and we know that he researched and wrote their Acts."
 deathYear: 381
 died: "381"

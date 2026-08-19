@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Alexander I"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Pope Saint Alexander I"
 summary: "Roman citizen. Pope in the reign of Emperor Trajan. Baptized Saint Balbina of Rome. He inserted in the Canon of the Mass the words commemorative of the institution of the Eucharist beginning “Qui pridie”. Introduced the use of blessing water mixed with salt for the purification o"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sanctus_Alexander_Papa_Sancta_Maria_Antiqua%28cropped%29.jpg/960px-Sanctus_Alexander_Papa_Sancta_Maria_Antiqua%28cropped%29.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

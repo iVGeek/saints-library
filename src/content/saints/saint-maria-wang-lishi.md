@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Wang Lishi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Maria Wang Lishi"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion for openly declaring herself a Christian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

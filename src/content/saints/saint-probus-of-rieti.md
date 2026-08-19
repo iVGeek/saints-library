@@ -1,7 +1,7 @@
 ---
 name: "Saint Probus of Rieti"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Probus of Rieti"
 summary: "Bishop of Rieti, Italy."
 searchAliases:
   - "Probo"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Herveus of Tours"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Herveus of Tours"
 summary: "Monk and treasurer of the Saint Martin of Tours Abbey where, though he was one of the brothers, he lived as a hermit."
 searchAliases:
   - "Herve"

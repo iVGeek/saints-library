@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Bori Puig"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pau Bori Puig"
 summary: "Jesuit priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Bori-Puig.jpg"
 birthYear: 1864
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -25,7 +25,6 @@ feastDay:
 liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - soldiers

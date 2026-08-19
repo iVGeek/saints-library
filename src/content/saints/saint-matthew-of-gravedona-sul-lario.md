@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthew of Gravedona sul Lario"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Matthew of Gravedona sul Lario"
 summary: "May have been a soldier in the Theban Legion. Martyr."
 deathYear: 1248
 died: "relics re-discovered on 11 September 1248 and enshrined at the church of San Fedele"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Gravedona sul Lario, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovannina Franchi"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Giovannina Franchi"
 summary: "Born to a wealthy family, she grew up wanting and working to help the poor. Nun in the diocese of Como, Italy. Founded the Nursing Sisters of Our Lady of Sorrows."
 image: "http://catholicsaints.info/wp-content/uploads/img-Giovannina-Franchi.jpg"
 birthYear: 1807
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

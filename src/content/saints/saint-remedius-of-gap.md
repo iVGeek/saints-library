@@ -1,7 +1,7 @@
 ---
 name: "Saint Remedius of Gap"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Remedius of Gap"
 summary: "Bishop of Gap, France."
 searchAliases:
   - "Reméde"

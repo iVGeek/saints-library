@@ -1,7 +1,7 @@
 ---
 name: "Venerable Joaquim Roselló Ferrá"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Joaquim Roselló Ferrá"
 summary: "Priest in the diocese of Mallorca, Spain. Founded the Congregation of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca."
 image: "http://catholicsaints.info/wp-content/uploads/img-Joaquim-Roselló-Ferrá.jpg"
 birthYear: 1833
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Lazarist"
 martyr: false
 ---

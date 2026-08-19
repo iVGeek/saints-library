@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benedict Daswa"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Benedict Daswa"
 summary: "Married layman in the diocese of Tzaneen, South Africa. Member of the Lemba tribe, called “Black Jews” because they followed Jewish laws and traditions. Converted to Catholicism in 1963 and became very active in the Church. Teacher, catechist and worked with local youth; he combi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Benedict-Daswa.jpg"
 searchAliases:
@@ -19,11 +19,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Married layman in the diocese of Tzaneen, South Africa. Member of the Lemba tribe, called “Black Jews” because they followed Jewish laws and traditions. Converted to Catholicism in 1963 and became very active in the Church. Teacher, catechist and worked with local youth; he combined all these works by checking on students who missed class, and helping their families when money ran low. Helped build the first Catholic church in his area. Principal of his school, popular local leader, and advisor to area civil authorities.

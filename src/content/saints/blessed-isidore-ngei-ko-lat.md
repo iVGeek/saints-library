@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidore Ngei Ko Lat"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Isidore Ngei Ko Lat"
 summary: "Young layman catechist in the diocese of Loikaw, Myanmar."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mario%26isidoro.jpg"
 birthYear: 1920
@@ -16,10 +16,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Young layman catechist in the diocese of Loikaw, Myanmar.

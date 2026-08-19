@@ -1,7 +1,7 @@
 ---
 name: "Blessed William of Assisi"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed William of Assisi"
 summary: "May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the Order."
 searchAliases:
   - "William the Englishman"

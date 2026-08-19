@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Pilar of Saint Francis Borgia"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Maria Pilar of Saint Francis Borgia"
 summary: "Youngest of eleven children born to Gabino Martinez and Luisa Garcia; eight of her siblings died in childhood; her surviving siblings became a priest and a Carmelite nun. Jacoba joined the Discalced Carmelites at the San José de Guadalajara convent on 12 October 1898, taking the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Angeles-of-Saint-Joseph.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

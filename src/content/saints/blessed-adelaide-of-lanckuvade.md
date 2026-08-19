@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adelaide of Lanckuvade"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Adelaide of Lanckuvade"
 summary: "After a wicked and wasted early life, Adelaide repented and became Cistercian nun in the convent of Lenkwend, Germany. She is reported to have received visions of temptations and threats from the devil, trying to prevent her penitence."
 searchAliases:
   - "Adelaide of Lenkwend"

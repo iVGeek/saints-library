@@ -1,7 +1,7 @@
 ---
 name: "Saint Severian of Puy"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Severian of Puy"
 summary: "Missionary, sent by Saint Fronto of Périgueux to the area of Puy, France. Tortured and martyred by local pagans."
 died: "beheaded in Puy (modern Puy-en-Velay), France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 martyr: true

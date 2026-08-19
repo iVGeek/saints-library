@@ -1,7 +1,7 @@
 ---
 name: "Blessed Simon Takahashi Seizaemon"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Simon Takahashi Seizaemon"
 summary: "Married layman in the diocese of Niigata, Japan. Father of Blessed Thecla Takahashi. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -14,9 +14,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

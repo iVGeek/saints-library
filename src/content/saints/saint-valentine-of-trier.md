@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentine of Trier"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Valentine of Trier"
 summary: "Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Valentine of Treves"
@@ -16,7 +16,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

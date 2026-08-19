@@ -1,7 +1,7 @@
 ---
 name: "Saint Simon of Cyrene"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Missionary"
+title: "Saint Simon of Cyrene"
 summary: "First century convert. Father of Saint Rufus. Helped Christ carry the cross on the way to Calvary. Missionary to France. First bishop of Avignon, France. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Limours_Saint-Pierre_303.JPG/960px-Limours_Saint-Pierre_303.JPG"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Saint Amelia of Gerona"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Amelia of Gerona"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amelia-of-Gerona.jpg"
 deathYear: 304
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

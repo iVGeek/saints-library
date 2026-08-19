@@ -1,7 +1,7 @@
 ---
 name: "Saint Mawes"
 honorific: Saint
-title: "Bishop, Priest, Hermit, Confessor"
+title: "Saint Mawes"
 summary: "Hermit in an area of Cornwall, England; the area now has a village named Saint Mawes (Lannvowsedh in Cornish) in his honour. He emigrated to Brittany where he founded a monastery on an island now known as Maudez; he had to drive out the snakes and vermin in order to build. Worked"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mawes.jpg"
 searchAliases:

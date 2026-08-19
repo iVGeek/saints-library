@@ -1,7 +1,7 @@
 ---
 name: "Saint Derien of Brittany"
 honorific: Saint
-title: "Royalty, Soldier"
+title: "Saint Derien of Brittany"
 summary: " Legend says that on his return from the Holy Lands, travelling wit Seventh century knight from the British Isles. Pilgrim to the Holy Lands. Several churches in Brittany, France are named in his honour as he is considered one of the British who brought Christianity to the region."
 searchAliases:
   - "Derhen"
@@ -15,7 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Royalty
   - Soldier
 martyr: false
 ---

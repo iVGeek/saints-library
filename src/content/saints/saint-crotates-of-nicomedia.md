@@ -1,7 +1,7 @@
 ---
 name: "Saint Crotates of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Crotates of Nicomedia"
 summary: "Palace attendant to Empress Alexandra, wife of Diocletian. When the persecutions of Diocletian began, Crotates was imprisoned, abused and martyred."
 searchAliases:
   - "Codratus"
@@ -13,9 +13,7 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

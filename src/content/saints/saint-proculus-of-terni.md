@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Terni"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Proculus of Terni"
 summary: "Gave Christian burial to Saint Valentine of Terni. Martyred in the persecutions of Aurelius."
 deathYear: 273
 died: "273 in Terni, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Andronicus"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Andronicus"
 summary: "Roman soldier. Convert. Arrested, tortured and thrown to the arena animals during the persecutions of Diocletian and Maximian."
 birthYear: 239
 deathYear: 304
@@ -13,10 +13,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Roman soldier. Convert. Arrested, tortured and thrown to the arena animals during the persecutions of Diocletian and Maximian.

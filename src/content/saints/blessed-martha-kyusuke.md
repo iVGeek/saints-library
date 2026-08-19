@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martha Kyusuke"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Martha Kyusuke"
 summary: "Lay woman in the Kyoto, Japan. Married to Blessed Leo Kyusuke. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Owari (in modern Aichi), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

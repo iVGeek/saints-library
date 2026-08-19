@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Yamada Kasahashi"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Michaël Yamada Kasahashi"
 summary: "Married layman in the archdiocese of Nagasaki, Japan; father of Blessed Laurentius Yamada. Convert to Catholicism. Member of the Lay Dominicans and Secular Franciscans. Martyred for aiding foreign missionaries."
 deathYear: 1628
 born: "Nagasaki, Japan"
@@ -14,10 +14,8 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

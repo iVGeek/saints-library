@@ -1,7 +1,7 @@
 ---
 name: "Saint Aignan of Orléans"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Aignan of Orléans"
 summary: "Born to the nobility, his parents were Hungarians who had fled to the Dauphine area of modern France to escape Arian persecutions. Lived as a hermit in a cave. Spiritual student of Saint Evurtius of Orléans. Priest. Monk. Abbot of the Saint Laurence Abbey in Orléans, France. Bish"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aignan-of-Orleans.jpg"
 searchAliases:

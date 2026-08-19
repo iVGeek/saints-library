@@ -1,7 +1,7 @@
 ---
 name: "Saint Mateo Correa-Magallanes"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier"
+title: "Saint Mateo Correa-Magallanes"
 summary: "Attended the seminary at Zacatecas, Mexico on a scholarship, beginning 12 January 1881. Ordained on 20 August 1893. Parish priest, assigned to Concepcion de Oro, Mexico from 1898 to 1905. Close friend of the Pro-Juarez family, he baptized Humberto Pro, and gave First Communion to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mateo-Correa-Magallanes.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

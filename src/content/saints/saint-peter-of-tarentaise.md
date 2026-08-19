@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Tarentaise"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Peter of Tarentaise"
 summary: "Joined the Benedictine Cistercians at Bonneveaux, France at age 20 along with his father and two brothers. Monk. First abbot of Tamie Abbey in the Tarentaise Mountains where he built a hospice for travellers. Reluctant archbishop of Tarentaise, France c.1142. He worked to reform"
 image: "http://catholicsaints.info/wp-content/uploads/Peter-of-Tarentaise.jpg"
 birthYear: 1102
@@ -19,8 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Vigor of Bayeux"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Vigor of Bayeux"
 summary: "Studied at Arras, France. Spiritual student of Saint Vedast of Arras. He studied for the priesthood, but found the vocation so overwhelming that he ran from it for a while. He eventually realized his vocation and was ordained. Preacher and missionary. Bishop of Bayeux, France in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vigor-of-Bayeux.png"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Blanco Salgado"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Blanco Salgado"
 summary: "Friar in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

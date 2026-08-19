@@ -1,7 +1,7 @@
 ---
 name: "Saint Heliodorus of Pamphylia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heliodorus of Pamphylia"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 at Pamphylia"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

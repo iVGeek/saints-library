@@ -1,7 +1,7 @@
 ---
 name: "Saint Florus of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florus of Ostia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Floro"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

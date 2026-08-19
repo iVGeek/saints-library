@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Antioch"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Julian of Antioch"
 summary: "Married to Saint Basilissa of Antioch, they agreed to mutual vows of chastity, and lived as brother and sister, devoted to their faith. Martyred in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Julian_of_Tarsus.jpg"
 deathYear: 313
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

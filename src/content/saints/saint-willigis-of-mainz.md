@@ -1,7 +1,7 @@
 ---
 name: "Saint Willigis of Mainz"
 honorific: Saint
-title: "Bishop, Priest, Pope, Royalty"
+title: "Saint Willigis of Mainz"
 summary: "Son of a wheelwright. Well educated. Priest. Canon at Hildesheim, Germany. Noted speaker. Chaplain to Emperor Otto II. Chancellor of Germany in 971. Archbishop of Mainz, Germany in 973. Archchancellor of the Holy Roman Empire in 975. Vicar apostolic to Germany in 975, ordained by"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Willigis-of-Mainz.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "carters"
   - "wheelwrights"

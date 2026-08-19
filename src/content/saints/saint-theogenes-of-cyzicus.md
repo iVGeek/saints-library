@@ -1,7 +1,7 @@
 ---
 name: "Saint Theogenes of Cyzicus"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Soldier"
+title: "Saint Theogenes of Cyzicus"
 summary: "Priest. Bishop of Parios, Asia Minor. Ordered to join the imperial Roman army during the reign of emperor Licinius, he refused as it would require him to sacrifice to idols. Arrested, he was imprisoned without food for 40 days; he prayed for and converted some of soldiers, and su"
 searchAliases:
   - "Teogene"
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

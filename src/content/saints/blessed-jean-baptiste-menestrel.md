@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste Menestrel"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Baptiste Menestrel"
 summary: "Priest in the diocese of Saint-Dié, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1748
@@ -16,9 +16,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

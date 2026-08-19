@@ -1,7 +1,7 @@
 ---
 name: "Saint Sandila"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sandila"
 summary: "Martyred by Moors."
 searchAliases:
   - "Sandalus"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sandila_block_map.png/960px-Sandila_block_map.png"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

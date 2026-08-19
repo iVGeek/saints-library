@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio González Penín"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio González Penín"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-González-Penín.jpg"
 birthYear: 1864
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

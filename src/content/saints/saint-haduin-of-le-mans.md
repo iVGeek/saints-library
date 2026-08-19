@@ -1,7 +1,7 @@
 ---
 name: "Saint Haduin of Le Mans"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Haduin of Le Mans"
 summary: "Bishop at Le Mans, France. Founded several monasteries including Notre-Dame-d'Evron."
 searchAliases:
   - "Harduin"

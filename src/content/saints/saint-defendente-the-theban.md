@@ -1,7 +1,7 @@
 ---
 name: "Saint Defendente the Theban"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Defendente the Theban"
 summary: "Christian soldier in the Theban Legion of the imperial Roman army. Martyred by emperor Maximian for refusing to sacrifice to pagan gods prior to a battle."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Defendente-the-Theban.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "against fire"

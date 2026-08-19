@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felipe de Jesús Munárriz Azcona"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blessed Felipe de Jesús Munárriz Azcona"
 summary: "Born to a pious family; he became a Claretian priest, as did two of his brothers. He joined the Claretians in 1886. Studied at Santo Domingo de la Calzada. Ordained in 1898. Novice master. Worked to reduce the spread of tuberculosis, which was spreadly wildly at the time. Superio"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-de-Jesús-Munárriz-Azcona.png"
 birthYear: 1875
@@ -16,10 +16,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 martyr: true
 ---
 

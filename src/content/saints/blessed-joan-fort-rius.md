@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Fort Rius"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joan Fort Rius"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Àngel of Saint Joseph"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

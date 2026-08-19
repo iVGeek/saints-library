@@ -1,7 +1,7 @@
 ---
 name: "Saint Derfel Gadarn"
 honorific: Saint
-title: "Martyr, Monk, Hermit, Royalty, Soldier, Missionary"
+title: "Saint Derfel Gadarn"
 summary: "Born a prince, the son of King Hywel Mawr; grandson of Hoel I Mawr the Great. Brother of Saint Tudwal. Brother of Saint Arthfael. Soldier whose skill was celebrated the bards of his day; he fought in the battle of Camlan in 537. A life at war caused him to turn to religion. Hermi"
 searchAliases:
   - "Cadarn"
@@ -20,9 +20,8 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Born a prince, the son of King Hywel Mawr; grandson of Hoel I Mawr the Great. Brother of Saint Tudwal. Brother of Saint Arthfael. Soldier whose skill was celebrated the bards of his day; he fought in the battle of Camlan in 537. A life at war caused him to turn to religion. Hermit and then monk at Llantwit, Wales. Abbot of Ynys Enlli. Missionary. A wooden statue of Derfel on horseback was a great treasure of the church at Llanderfel; it was used in the pyre that burned Blessed John Forest.

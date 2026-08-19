@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Seville"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florentius of Seville"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Fiorenzo"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

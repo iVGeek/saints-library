@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Campion"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Edward Campion"
 summary: "Gerard studied at Jesus College, Oxford, England, but did not earn a degree because he refused to take the oath acknowledging the queen as the head of Christianity in England. He then worked as a servant in the house of Baron Gregory Fiennes. The strong Catholic loyalty of the fa"
 searchAliases:
   - "Gerard Edward"
@@ -16,10 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Werenfridus"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Missionary, Confessor"
+title: "Saint Werenfridus"
 summary: "Benedictine monk. He studied and lived as a hermit in Ireland. Missionary priest to the Frisians (in the modern Netherlands) and the area of modern northern France, not just preaching and teaching but living a life prayer and piety, and helping the poor and suffering. Worked with"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Werenfridus.jpg"
 searchAliases:

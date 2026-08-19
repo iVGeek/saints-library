@@ -1,7 +1,7 @@
 ---
 name: "Saint Victoricus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Victoricus"
 summary: "Missionary to the Gallic Moroni people. Arrested for their faith by order of Roman Governor Rictiovarus. Tortured in Amiens, France. Martyr."
 searchAliases:
   - "Victorious"
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary

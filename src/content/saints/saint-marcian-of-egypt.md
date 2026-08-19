@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcian of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Marciano"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Poggio di Roio, Aquila, Italy"

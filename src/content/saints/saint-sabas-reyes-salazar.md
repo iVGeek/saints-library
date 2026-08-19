@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabas Reyes Salazar"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier"
+title: "Saint Sabas Reyes Salazar"
 summary: " In January 1927 government troops commandeered his chur Seminarian at Guadalajara, Mexico. Ordained in the diocese of Taumalipus, Mexico in 1911. Worked in several parishes in Guadalupe. Sent to Tototlan, Mexico to escape the government's persection of the Church and its priests."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sabas-Reyes-Salazar.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

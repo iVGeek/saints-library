@@ -1,7 +1,7 @@
 ---
 name: "Saint Gemus"
 honorific: Saint
-title: "Monk"
+title: "Saint Gemus"
 summary: "Monk, probably at Moyenmoutier in the Alsace (part of modern France)."
 died: "relics at Horbach, Germany"
 deathPlace: "Germany"

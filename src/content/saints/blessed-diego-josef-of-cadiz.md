@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diégo Josef of Cádiz"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Diégo Josef of Cádiz"
 summary: "Joined the Capuchin Order in Seville, Spain in 1759. Missionary throughout Spain, primarily in Andalusia. Spent most of his pastoral time in the confessional. Member of the Confraternity of the Most Holy Trinity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Josef-of-Cadiz.jpg"
 searchAliases:
@@ -24,11 +24,9 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Capuchin"
-martyr: true
+martyr: false
 ---
 
 Joined the Capuchin Order in Seville, Spain in 1759. Missionary throughout Spain, primarily in Andalusia. Spent most of his pastoral time in the confessional. Member of the Confraternity of the Most Holy Trinity.

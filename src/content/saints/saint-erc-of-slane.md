@@ -1,7 +1,7 @@
 ---
 name: "Saint Erc of Slane"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Erc of Slane"
 summary: "Spiritual student of Saint Patrick. Bishop of Slane, Ireland."
 birthYear: 423
 deathYear: 513

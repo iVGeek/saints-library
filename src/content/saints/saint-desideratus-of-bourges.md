@@ -1,7 +1,7 @@
 ---
 name: "Saint Desideratus of Bourges"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Desideratus of Bourges"
 summary: "His was a pious family; his parents turned their home into a hospital, and his brothers, Deodato and Didier, died as a martyrs. Desideratus was a courtier and advisor to king Clotaire. Fought simony and heresy. He wished to retire to life as a monk, but was chosen to serve as bis"
 searchAliases:
   - "Desire"
@@ -17,10 +17,8 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

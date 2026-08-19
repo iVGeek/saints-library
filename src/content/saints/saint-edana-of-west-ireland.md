@@ -1,7 +1,7 @@
 ---
 name: "Saint Edana of West Ireland"
 honorific: Saint
-title: "Virgin, Priest, Monk"
+title: "Saint Edana of West Ireland"
 summary: "Holy virgin who lived near the rivers Boyle and Shannon. A holy well is named for her, as are some parishes in western Ireland. No details of her life have survived."
 searchAliases:
   - "Edaene"

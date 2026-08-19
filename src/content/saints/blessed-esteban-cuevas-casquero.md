@@ -1,7 +1,7 @@
 ---
 name: "Blessed Esteban Cuevas Casquero"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Esteban Cuevas Casquero"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Esteban-Cuevas-Casquero.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

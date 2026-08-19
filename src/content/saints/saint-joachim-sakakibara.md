@@ -1,7 +1,7 @@
 ---
 name: "Saint Joachim Sakakibara"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Joachim Sakakibara"
 summary: "Physician who treated the poor for free. Franciscan tertiary. Sometime cook for the Franciscan missionaries at Osaka, Japan. Catechist. One of the Martyrs of Nagasaki."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

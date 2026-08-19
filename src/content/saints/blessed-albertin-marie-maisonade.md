@@ -1,7 +1,7 @@
 ---
 name: "Blessed Albertin-Marie Maisonade"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty, Soldier"
+title: "Blessed Albertin-Marie Maisonade"
 summary: "Cistercian chorister monk who fled from the persecutions of the French Revolution to the Congregation of Casamari in Veroli, Italy, making his profession on 20 November 1793. Known for his devotion to Eucharistic adoration and the Mass. When anti-Christian French revolutionary soldiers attacked, he was stabbed and shot."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

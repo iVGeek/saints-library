@@ -26,7 +26,6 @@ liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Doctor
 patronage:
   - teachers
   - the-church

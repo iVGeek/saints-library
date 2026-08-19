@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Baptista Yi Kwang-nyol"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Ioannes Baptista Yi Kwang-nyol"
 summary: "Lay catechist in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

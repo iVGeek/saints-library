@@ -1,7 +1,7 @@
 ---
 name: "Saint Napoleon of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Napoleon of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Napoleon-of-Alexandria.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pablo Brull Carrasco"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Pablo Brull Carrasco"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Baena community. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

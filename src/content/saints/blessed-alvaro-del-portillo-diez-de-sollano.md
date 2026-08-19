@@ -1,7 +1,7 @@
 ---
 name: "Blessed Álvaro del Portillo Díez de Sollano"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Álvaro del Portillo Díez de Sollano"
 summary: "One of eight children. Joined Opus Dei in 1935. Engineering student. Member of the Saint Vicent de Paul Society, and taught catechism to children in in poor neighbourhoods where the Society worked. Priest, ordained on 25 June 1944 in Madrid, Spain. Assigned to work in Rome, Italy"
 image: "http://catholicsaints.info/wp-content/uploads/img-Alvaro-del-Portillo-Diez-de-Sollano.jpg"
 birthYear: 1914
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

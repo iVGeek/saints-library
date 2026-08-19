@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Redyng"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed Thomas Redyng"
 summary: "Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head of the Church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Redyng.jpg"
 searchAliases:
@@ -15,10 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

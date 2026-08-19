@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Prieto López"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Jesús Prieto López"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1934
@@ -15,8 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

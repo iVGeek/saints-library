@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan José Orellana del Moral"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Juan José Orellana del Moral"
 summary: "Priest of the diocese of Córdoba, Spain, serving the Montalbán and Espejo communities. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

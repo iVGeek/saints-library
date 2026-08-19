@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Romero Meneses"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Religious, Pope"
+title: "Blessed María Romero Meneses"
 summary: "One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved to learn. At the age of twelve she spent a year"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Beata_Mar%C3%ADa_Romero_Meneses.jpg"
 searchAliases:
@@ -20,15 +20,13 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 patronage:
   - "World Youth Day 2019"
-martyr: true
+martyr: false
 ---
 
 One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved to learn. At the age of twelve she spent a year extemely sick from rheumatic fever; she was paralyzed for six months and her heart was permanently damaged. She was cured by the intercession and apparition of Our Lady, Help of Christians, during which vision she understood her vocation to be a Salesian sister.

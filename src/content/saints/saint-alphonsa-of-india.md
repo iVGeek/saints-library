@@ -1,7 +1,7 @@
 ---
 name: "Saint Alphonsa of India"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Saint Alphonsa of India"
 summary: "Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At age 3 she contracted an infected eczema from w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsa-of-India.jpg"
 searchAliases:
@@ -22,11 +22,8 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 patronage:
   - "against bodily ills"
   - "against illness"
@@ -35,7 +32,7 @@ patronage:
   - "sick people"
   - "–"
   - "Bhadravathi, India, diocese of"
-martyr: true
+martyr: false
 ---
 
 Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At age 3 she contracted an infected eczema from which she suffered for over a year. Made her first Communion on 27 November 1917. Badly burned on her feet when she accidentally fell into a pit of burning chaff, leaving her permanently partially disabled. Joined the Poor Clare convent at Bharananganam on 2 August 1928, taking the name Alphonsa, and making her vows on 12 August 1936.

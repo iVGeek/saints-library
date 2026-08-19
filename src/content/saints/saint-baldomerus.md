@@ -1,7 +1,7 @@
 ---
 name: "Saint Baldomerus of Saint Justus"
 honorific: Saint
-title: "Priest, Monk, Deacon"
+title: "Saint Baldomerus of Saint Justus"
 summary: "Blacksmith and locksmith in Lyon, France known for his personal piety, charity and simple living. Late in life he retired to the monastery of Saint Justus. Ordained as a sub-deacon."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Baldomerus-of-Saint-Justus.jpg"
 searchAliases:

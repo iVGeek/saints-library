@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan of Bagno di Romagna"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Joan of Bagno di Romagna"
 summary: "Camaldolese nun. Friend of Saint Agnes of Bagno di Romagna."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-of-Bagno-di-Romagna.jpg"
 searchAliases:
@@ -19,12 +19,10 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 patronage:
   - "Bagno di Romagna, Italy"
-martyr: true
+martyr: false
 ---
 
 Camaldolese nun. Friend of Saint Agnes of Bagno di Romagna.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Conon of Alexandria"
 honorific: Saint
-title: "Monk"
+title: "Saint Conon of Alexandria"
 summary: "Sixth century monk in the monastery of Pentucla in Palestine. Abbot of his house."
 deathYear: 555
 died: "555 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gislenus"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Gislenus"
 summary: "Frankish hermit. Lived in a forest in Hainault, Belgium. His reputation for holiness attracted many disciples for whom he built and governed an abbey, now known as Saint-Ghislain, near Mons, Belgium. Spiritual teacher of Saint Waltrude, Saint Lambert, and Saint Valerius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gislenus.jpg"
 searchAliases:

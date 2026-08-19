@@ -1,7 +1,7 @@
 ---
 name: "Saint Luigi Guanella"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Luigi Guanella"
 summary: "Ninth of thirteen children born to Lawrence and Maria Guanella, a poor but pious family. Luigi entered seminary at age twelve, and was ordained on 26 May 1866. He worked with Saint John Bosco from 1875 to 1878 to care for homeless children. Youth director in Turin, Italy. Parish"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Guanella3.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

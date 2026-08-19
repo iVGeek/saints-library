@@ -1,7 +1,7 @@
 ---
 name: "Blessed Raynald of Ravenna"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Soldier"
+title: "Blessed Raynald of Ravenna"
 summary: "Priest. Canon of Lodi, Italy. Bishop of Vicenza, Italy in 1296. Held several governmental posts in the papal states. Archbishop of Ravenna, Italy in 1303. Defended the good work of the Knights Templar."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Raynald-of-Ravenna.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Soldier
 martyr: false
 ---

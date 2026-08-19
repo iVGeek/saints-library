@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyria of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyria of Caesarea"
 summary: "Convert. Martyr."
 searchAliases:
   - "Ciria"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

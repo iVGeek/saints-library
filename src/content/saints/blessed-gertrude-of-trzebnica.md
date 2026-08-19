@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gertrude of Trzebnica"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Gertrude of Trzebnica"
 summary: "Daughter of Saint Hedwig of Silesia and Duke Henry I. Engaged to the Count Palatine Otto of Wittelsbach, but he died before the wedding. Cistercian nun and then abbess in Trzebnica, Poland."
 image: "http://catholicsaints.info/wp-content/uploads/Gertrude-of-Trebnitz.jpg"
 birthYear: 1200

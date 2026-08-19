@@ -1,7 +1,7 @@
 ---
 name: "Saint Basinus of Trier"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Basinus of Trier"
 summary: "Seventh-century Benedictine monk. Abbot of Saint Maximinus monastery in Trier, Germany. Bishop of Trier. Assisted English missionaries in the area, including Saint Willibrord of Echternach."
 searchAliases:
   - "Basino"

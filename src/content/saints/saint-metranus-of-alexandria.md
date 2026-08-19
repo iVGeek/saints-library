@@ -1,7 +1,7 @@
 ---
 name: "Saint Metranus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Metranus of Alexandria"
 summary: "Tortured and murdered in the persecutions of Decius for refusing to sacrifice to idols. Saint Dionysius of Alexandria wrote about his martyrdom."
 searchAliases:
   - "Metras"
@@ -15,7 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

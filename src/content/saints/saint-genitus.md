@@ -1,7 +1,7 @@
 ---
 name: "Saint Genitus"
 honorific: Saint
-title: "Monk"
+title: "Saint Genitus"
 summary: "Third century monk at Celle-sur-Naton, France."
 region: "France"
 feastDay:

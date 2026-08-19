@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rusticus of Vallombrosa"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Rusticus of Vallombrosa"
 summary: "Friend, co-worker and spiritual student of Saint John Gualbert. Monk at the Vallombrosa monastery; he served for many years as treasurer of the house. Chosen prior of the San Michele Arcangelo a Passignano abbey near the town of Tavarnelle Val di Pesa, Italy by Saint John in 1068"
 searchAliases:
   - "Rustico"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

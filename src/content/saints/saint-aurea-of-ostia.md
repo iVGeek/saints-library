@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurea of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aurea of Ostia"
 summary: "Killed for visiting Christian prisoners and giving them a decent burial after their execution. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Saint_Aurea.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Ostia, Italy"

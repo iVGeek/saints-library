@@ -1,7 +1,7 @@
 ---
 name: "Saint Lybosus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lybosus of North Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

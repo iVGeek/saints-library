@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco José Marín López de Arroyave"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Francisco José Marín López de Arroyave"
 summary: "Member of the Salesians of Don Bosco, joining in Mohernando, Spain, and making his solemn profession on 12 October 1933 as a coadjutor brother. He served at the Salesian college in Madrid, Spain. Seized on 19 July 1936 as part of the persecutions of the Spanish Civil War, he spen"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Jose-Marin-Lopez-de-Arroyave.jpg"
 birthYear: 1910
@@ -15,10 +15,7 @@ feastDay:
   month: 11
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

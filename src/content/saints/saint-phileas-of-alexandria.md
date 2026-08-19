@@ -1,7 +1,7 @@
 ---
 name: "Saint Phileas of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Phileas of Alexandria"
 summary: "Bishop of Thmuïs, Egypt. Imprisoned in Alexandria, Egypt for his faith. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 searchAliases:
   - "Phileas of Thmuïs"
@@ -16,7 +16,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

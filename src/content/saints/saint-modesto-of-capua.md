@@ -1,7 +1,7 @@
 ---
 name: "Saint Modesto of Capua"
 honorific: Saint
-title: "Martyr"
+title: "Saint Modesto of Capua"
 summary: "Martyr."
 died: "Capua, Campania, Italy"
 deathPlace: "Campania, Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 10
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

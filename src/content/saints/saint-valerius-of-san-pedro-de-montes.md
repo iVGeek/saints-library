@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerius of San Pedro de Montes"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Valerius of San Pedro de Montes"
 summary: "Born to the nobility of Visigothic Spain, Valerius was early drawn to religious life, and became a Benedictine monk. He retired for a while to live as a desert hermit, then returned to monastic life. Abbot of the monastery San Pedro de Montes in Galicia, Spain.  He left several a"
 searchAliases:
   - "Valerius of Astorga"

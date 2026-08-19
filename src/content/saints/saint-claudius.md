@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Claudius"
 summary: "One of the Four Crowned Martyrs."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/960px-Claudius_crop.jpg"
 searchAliases:
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

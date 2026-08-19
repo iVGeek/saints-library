@@ -1,7 +1,7 @@
 ---
 name: "Saint Blath of Kildare"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Blath of Kildare"
 summary: "Lay-sister and cook in the Kildare, Ireland convent of Saint Brigid. Known for her simple, personal sanctity, and for her loyalty to Saint Brigid."
 searchAliases:
   - "Flora"

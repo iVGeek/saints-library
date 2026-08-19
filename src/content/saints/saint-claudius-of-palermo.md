@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudius of Palermo"
 honorific: Saint
-title: "Martyr"
+title: "Saint Claudius of Palermo"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 in Palermo, Italy"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

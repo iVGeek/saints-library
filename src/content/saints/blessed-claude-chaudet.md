@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude Chaudet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Claude Chaudet"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 deathYear: 1792
 born: "in Aix, Bouches-du-Rhône, France"
@@ -14,9 +14,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

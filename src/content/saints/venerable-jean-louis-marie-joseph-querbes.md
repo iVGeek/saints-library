@@ -1,7 +1,7 @@
 ---
 name: "Venerable Jean-Louis-Marie-Joseph Querbes"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Jean-Louis-Marie-Joseph Querbes"
 summary: "The son of a tailor, he was born in the middle of the French Revolution, baptized the day of his birth, and a bomb destroyed his home when he was one day old. Educated in the parish school of Saint Nizier and the Saint Irenaeus seminary, his classmates included Saint John Mary Vi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Jean-Louis-Marie-Joseph-Querbes.jpg"
 birthYear: 1793
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

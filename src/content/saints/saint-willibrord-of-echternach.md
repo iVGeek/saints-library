@@ -1,7 +1,7 @@
 ---
 name: "Saint Willibrord of Echternach"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Missionary, Confessor"
+title: "Saint Willibrord of Echternach"
 summary: "Son of Saint Hilgis. Educated at Ripon, England and in Ireland under Saint Egbert. Missionary to Friesland and Luxembourg with Saint Swithbert. Benedictine monk. Founding bishop of Utrecht, Netherlands in 695, ordained by Pope Saint Sergius I. Worked with Saint Boniface, Saint Ru"
 image: "http://catholicsaints.info/wp-content/gallery/saint-willibrord-of-echternach/saint-willibrord-of-echternach-01.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cronan of Clashmore"
 honorific: Saint
-title: "Martyr"
+title: "Saint Cronan of Clashmore"
 summary: "Martyred by pagan Danes."
 deathYear: 631
 died: "631 near Dublin, Ireland"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Clashmore, Ireland"
 martyr: true

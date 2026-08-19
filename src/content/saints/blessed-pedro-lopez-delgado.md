@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro López Delgado"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Pedro López Delgado"
 summary: "Pedro joined the Dominicans in 1926, making his solemn professedon on 10 February 1930. Ordained a priest on 16 July 1933. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936
@@ -15,10 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

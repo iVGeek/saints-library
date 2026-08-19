@@ -1,7 +1,7 @@
 ---
 name: "Saint Apro"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Apro"
 summary: "Priest. Hermit."
 searchAliases:
   - "Apri"

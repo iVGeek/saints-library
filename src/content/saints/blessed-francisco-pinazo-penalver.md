@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Pinazo Peñalver"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Pinazo Peñalver"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg"
 birthYear: 1802
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

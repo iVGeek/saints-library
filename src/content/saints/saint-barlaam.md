@@ -1,7 +1,7 @@
 ---
 name: "Saint Barlaam"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Barlaam"
 summary: "Convert to Christianity in northern India. Hermit. Brought Saint Josaphat to the faith, and then returned to his life as a cave hermit."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Barlaam-and-Saint-Josaphat.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 martyr: false
 ---

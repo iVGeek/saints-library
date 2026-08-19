@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Clavería Mas"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Josep Clavería Mas"
 summary: "Member of the Claretians, professed on 3 November 1901. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

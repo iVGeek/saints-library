@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Seleucia"
 honorific: Saint
-title: "Martyr, Royalty"
+title: "Martyrs of Seleucia"
 summary: "One-hundred and eleven (111) men and nine (9) women who, because they were Christians, were dragged to Seleucia and martyred for refusing to worship the sun or fire or other pagan idols during the persecutions of King Shapur II."
 searchAliases:
   - "Martyrs of Persia"
@@ -13,9 +13,7 @@ feastDay:
   month: 4
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Royalty
+vocation: []
 martyr: true
 ---
 

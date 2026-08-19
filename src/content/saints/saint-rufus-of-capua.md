@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus of Capua"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Rufus of Capua"
 summary: "Spiritual student of Saint Apollinaris of Ravenna. Bishop of Capua, Italy. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Capua.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

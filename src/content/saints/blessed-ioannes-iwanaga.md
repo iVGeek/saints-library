@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Iwanaga"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Ioannes Iwanaga"
 summary: "Member of the royal family of Firando. Layman. Related to Blessed Ioannes Motoyama. Martyr."
 searchAliases:
   - "John"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

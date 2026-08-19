@@ -1,7 +1,7 @@
 ---
 name: "Saint Heliodorus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heliodorus"
 summary: "Martyred with 75 other Christians in the perscutions of Diocletian."
 died: "late 3rd century in Africa"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

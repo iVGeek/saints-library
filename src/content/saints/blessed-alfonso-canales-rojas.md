@@ -2,7 +2,7 @@
 name: "Blessed Alfonso Canales Rojas"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jaime_Alfonso%2C_el_Barbudo%2C_novela_hist%C3%B3rica_%28IA_jaimealfonsoelba00parr%29.pdf/page1-500px-Jaime_Alfonso%2C_el_Barbudo%2C_novela_hist%C3%B3rica_%28IA_jaimealfonsoelba00parr%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Alfonso Canales Rojas"
 summary: "Priest of the diocese of Córdoba, Spain, working in the comjunities of Almodóvar del Río and Pedro Abad. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936
@@ -16,11 +16,8 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

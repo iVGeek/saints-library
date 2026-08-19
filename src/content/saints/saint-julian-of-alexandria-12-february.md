@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julian of Alexandria"
 summary: "Martyr. No other information has survived."
 deathYear: 160
 died: "160 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

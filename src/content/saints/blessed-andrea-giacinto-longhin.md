@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrea Giacinto Longhin"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Royalty, Soldier, Missionary"
+title: "Blessed Andrea Giacinto Longhin"
 summary: "The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood. Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del Grappa, Venice on 27 August 1879 at age 16. He stu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrea-Giacinto-Longhin.jpg"
 searchAliases:
@@ -22,13 +22,11 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood. Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del Grappa, Venice on 27 August 1879 at age 16. He studied at Padua and Venice in Italy, made his solemn profession on 4 October 1883, and was ordained on 19 June 1886.

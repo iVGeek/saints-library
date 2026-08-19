@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilaria of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hilaria of Rome"
 summary: "One of a group of Roman women martyred in an  early persecution, date unknown."
 searchAliases:
   - "Ilaria"
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

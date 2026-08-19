@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francisco of the Child Jesus"
 honorific: Venerable
-title: "Monk, Pope"
+title: "Venerable Francisco of the Child Jesus"
 summary: "Discalced Carmelite brother."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-of-the-Child-Jesus.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

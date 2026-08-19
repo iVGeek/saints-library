@@ -1,7 +1,7 @@
 ---
 name: "Saint Galata of Melitene"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Galata of Melitene"
 summary: "Martyr."
 searchAliases:
   - "Galatas"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

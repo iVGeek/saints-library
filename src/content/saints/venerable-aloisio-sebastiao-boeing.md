@@ -1,7 +1,7 @@
 ---
 name: "Venerable Aloísio Sebastião Boeing"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Pope"
+title: "Venerable Aloísio Sebastião Boeing"
 summary: "Aloísio was raised in a pious family - his father João served as choirmaster and participated in Mass every day; his mother Josefina Effting had a devotion to the Blessed Virgin Mary and Saint Joseph, and cared for travellers; of his six blood brothers and two adopted ones, two b"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Padre-aloisio-boeing.jpg"
 birthYear: 1913
@@ -19,7 +19,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

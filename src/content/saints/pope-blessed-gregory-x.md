@@ -1,7 +1,7 @@
 ---
 name: "Pope Blessed Gregory X"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Deacon, Pope, Cardinal, Royalty, Confessor"
+title: "Pope Blessed Gregory X"
 summary: " Worked Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg/960px-Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg"
 searchAliases:
@@ -19,12 +19,10 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope.

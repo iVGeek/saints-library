@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus of Die"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Saint Marcellus of Die"
 summary: "Bishop of Die, province of Lugdunense, Gaul (in modern France) in 463. Exiled by Arian king Eurico for defending orthodox Christianity, he spent several years living in Rome, Italy."
 searchAliases:
   - "Marcel"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 martyr: false
 ---
 

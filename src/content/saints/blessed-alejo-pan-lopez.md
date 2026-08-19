@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alejo Pan López"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Alejo Pan López"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ambrosio of Santibáñez"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aleix Miquel Rossell"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Aleix Miquel Rossell"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hippolytus of Mount Jura"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Hippolytus of Mount Jura"
 summary: "Monk. Abbot of the monastery on Mount Jura in the Lugdunese region of Gaul (in modern France). Bishop."
 deathYear: 770
 died: "c.770"

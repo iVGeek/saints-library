@@ -1,7 +1,7 @@
 ---
 name: "Saint Luke Kirby"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Luke Kirby"
 summary: "Educated at Cambridge University in England. Converted to Catholicism in Louvain, France. Seminarian at Douai College in 1576. Ordained at Cambrai, France in September 1577. Took the oath of the English College in Rome, Italy on 23 April 1579. Returned to England to minister to c"
 birthYear: 1549
 deathYear: 1582
@@ -15,10 +15,8 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Luke_Kirby_2012_Shankbone.JPG/960px-Luke_Kirby_2012_Shankbone.JPG"
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

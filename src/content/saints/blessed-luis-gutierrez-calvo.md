@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Gutiérrez Calvo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luis Gutiérrez Calvo"
 summary: "Augustinian brother. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

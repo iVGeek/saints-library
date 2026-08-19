@@ -1,7 +1,7 @@
 ---
 name: "Saint Pia of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pia of Carthage"
 summary: "One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them."
 searchAliases:
   - "Picaria"
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

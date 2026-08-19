@@ -1,7 +1,7 @@
 ---
 name: "Saint Eoghan the Sage"
 honorific: Saint
-title: "Saint"
+title: "Saint Eoghan the Sage"
 summary: "No reliable information has survived."
 searchAliases:
   - "Eoghan Sapiens"
@@ -19,8 +19,7 @@ feastDay:
   month: 5
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

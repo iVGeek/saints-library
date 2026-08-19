@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Milan"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Antoninus of Milan"
 summary: "Archbishop of Milan, Italy."
 searchAliases:
   - "Antonino"

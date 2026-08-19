@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomian of Armagh"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Thomian of Armagh"
 summary: "Bishop of Armagh, Ireland, from c.623. Involved in the controversy over the proper date for celebrating Easter."
 searchAliases:
   - "Thomas"

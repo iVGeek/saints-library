@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermogius of Tuy"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Hermogius of Tuy"
 summary: "Uncle of Saint Pelagius of Cordova. Benedictine monk. Bishop of Tuy, Spain. Founded the abbey at Lubrugia, Spanish Galatia in 915. Captured by Moors and imprisoned in Cordoba, Spain with Pelagius for his faith. He was later freed, but Pelagius retained as a hostage for his behavi"
 deathYear: 942
 born: "at Tuy, Spain"

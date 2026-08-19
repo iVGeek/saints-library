@@ -1,7 +1,7 @@
 ---
 name: "Saint Luglius of Lillers"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Hermit, Royalty"
+title: "Saint Luglius of Lillers"
 summary: "Brother of Saint Luglianus. Regional bishop in Ireland. In 696 the brothers joined a party making a pilgrimage to the Holy Land. When their ship got stranded in Boulogne-sur-Mer, France, the two began preaching the faith through the region, including the diocese of Thérouanne. Ma"
 searchAliases:
   - "Luglius of Ferfay"
@@ -15,7 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 religiousOrder: "Benedictine"

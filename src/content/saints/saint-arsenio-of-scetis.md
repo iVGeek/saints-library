@@ -1,7 +1,7 @@
 ---
 name: "Saint Arsenio of Scetis"
 honorific: Saint
-title: "Deacon, Hermit"
+title: "Saint Arsenio of Scetis"
 summary: "Deacon. Hermit at Mount Scetis, Egypt."
 born: "4th century"
 died: "5th century"

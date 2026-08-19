@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuliana of Turin"
 honorific: Saint
-title: "Martyr"
+title: "Saint Giuliana of Turin"
 summary: "Lay woman who gave Christian burial to the Martyrs of Turin in 297."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giuliana-of-Turin.jpg"
 searchAliases:
@@ -14,8 +14,7 @@ feastDay:
   month: 2
   day: 13
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

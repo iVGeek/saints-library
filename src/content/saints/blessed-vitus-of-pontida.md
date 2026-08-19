@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vitus of Pontida"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Vitus of Pontida"
 summary: "Benedictine monk. Friend and fellow student of Blessed Albert of Pontida. First abbot of the Cluniac abbey of Saint James in Pontida, Italy."
 searchAliases:
   - "Guido"

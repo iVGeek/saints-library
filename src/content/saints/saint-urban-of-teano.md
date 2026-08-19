@@ -1,7 +1,7 @@
 ---
 name: "Saint Urban of Teano"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Urban of Teano"
 summary: "Bishop of Teano, Campania, Italy."
 deathYear: 356
 died: "c.356"

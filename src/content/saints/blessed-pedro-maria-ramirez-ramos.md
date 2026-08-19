@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro María Ramírez Ramos"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Pedro María Ramírez Ramos"
 summary: "The son of Ramón Ramírez Flórez and Isabel Ramos, he was baptized at the age of one day. Feeling a call to the priesthood, Pedro began his studies on 4 October 1915 in the diocese of Garzón, Colombia, but in 1920 he began to have doubts about his vocation, and left the seminary."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Maria-Ramirez-Ramos.jpg"
 birthYear: 1899
@@ -16,10 +16,8 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

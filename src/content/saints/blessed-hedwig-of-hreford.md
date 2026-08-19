@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hedwig of Hreford"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Hedwig of Hreford"
 summary: "Niece of Blessed Warinus of Corvey. Benedictine nun. Abbess of Hreford in Westphalia (part of modern Germany."
 searchAliases:
   - "Hadwigis of Hreford"

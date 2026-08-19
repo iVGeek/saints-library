@@ -1,7 +1,7 @@
 ---
 name: "Saint Aimo of Savigny"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Aimo of Savigny"
 summary: "Benedictine monk at Savigny, Normandy, France. He was believed to have leprosy, and so he was assigned to care for some brother monks who were dying of the disease. Later he was found not to have the condition, and was allowed to return to the general population of his house, but"
 searchAliases:
   - "Aymon"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Isidore of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "burned to death in 250 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

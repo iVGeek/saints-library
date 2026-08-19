@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Africa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Saturninus of Africa"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Carthage in north Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

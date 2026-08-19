@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fazzio of Verona"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Fazzio of Verona"
 summary: "An accomplished goldsmith in Verona, Italy, his business opponents developed a vicious hatred for him. He moved to Cremona, Italy, where he worked and gave away his earnings to the poor. Pilgrim to Compostela, Spain, and to Rome, Italy. Returning to his native Verona, he was fals"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fazzio-of-Verona.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 1
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

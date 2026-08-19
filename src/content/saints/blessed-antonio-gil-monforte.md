@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Gil-Monforte"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio Gil-Monforte"
 summary: "Member of the De La Salle Brothers. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

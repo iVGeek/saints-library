@@ -1,7 +1,7 @@
 ---
 name: "Saint Castor of Tarsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Castor of Tarsus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Castore"
@@ -13,7 +13,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

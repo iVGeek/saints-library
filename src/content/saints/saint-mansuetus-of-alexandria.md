@@ -1,7 +1,7 @@
 ---
 name: "Saint Mansuetus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mansuetus of Alexandria"
 summary: "Martyred with nine other Christians during disturbances caused by the heretical Monophysites."
 deathYear: 483
 died: "c.483 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

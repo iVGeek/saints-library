@@ -1,7 +1,7 @@
 ---
 name: "Venerable Hermínio Pinzetta"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Hermínio Pinzetta"
 summary: "Second of thirteen boys born to Fiorentino Pinzetta and Isabela Romani. He became Capuchin friar on 2 February 1944 in Marau, Brazil; he made his solemn profession on 6 January 1949. Studied at the seminary in Flores da Cunha, Brazil. He served his Capuchin house as a cook, garde"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Hermínio-Pinzetta.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Capuchin"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christian O'Conarchy"
 honorific: Blessed
-title: "Bishop, Monk, Deacon, Pope"
+title: "Blessed Christian O'Conarchy"
 summary: "Spritual student and archdeacon of Saint Malachy O'More at Armagh, Ireland. Received the Cistercian habit at Clairvaux, France in 1139 from Saint Bernard of Clairvaux. Abbot of the first Cistercian monastery in Ireland in 1142. Bishop of Lismore, Ireland in 1150. Papal legate for"
 searchAliases:
   - "Christianus"
@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Monk
   - Deacon
-  - Pope
 martyr: false
 ---
 

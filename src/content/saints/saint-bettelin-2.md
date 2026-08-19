@@ -1,7 +1,7 @@
 ---
 name: "Saint Bettelin"
 honorific: Saint
-title: "Saint"
+title: "Saint Bettelin"
 summary: "I have no details on this saint."
 searchAliases:
   - "Bertram"
@@ -11,8 +11,7 @@ feastDay:
   month: 8
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Stafford, England"
 martyr: false

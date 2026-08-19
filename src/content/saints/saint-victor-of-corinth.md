@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Corinth"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Corinth"
 summary: "During the persecutions of Valerian, Victor was arrested for his faith, tortured, and martyred with a group of fellow Christians."
 born: "Greek"
 died: "thrown to wild animals"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

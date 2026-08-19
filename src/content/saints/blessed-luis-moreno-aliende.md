@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Moreno Aliende"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Luis Moreno Aliende"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luis Alfonso"
@@ -17,9 +17,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

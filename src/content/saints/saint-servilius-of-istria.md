@@ -1,7 +1,7 @@
 ---
 name: "Saint Servilius of Istria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Servilius of Istria"
 summary: "Early martyr in the Istria peninsula."
 searchAliases:
   - "Servulo"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marko Križevcanin"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Soldier, Missionary"
+title: "Saint Marko Križevcanin"
 summary: "Studied at the Germanicum in Rome, Italy. Priest and canon in the archdiocese of Esztergom, Hungary. Missionary near Košice, Hungary (in modern Slovakia). Arrested by Calvinist troops in 1619, tortured and executed for loyalty to Catholicism. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marko-Križevcanin.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

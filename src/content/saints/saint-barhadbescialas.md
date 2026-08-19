@@ -1,7 +1,7 @@
 ---
 name: "Saint Barhadbescialas"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Barhadbescialas"
 summary: "Deacon. Martyred in the persecutions of Sapor II. The Acts of the his martyrdom, written in Aramaic, have survived."
 searchAliases:
   - "Barhadbesciabas"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

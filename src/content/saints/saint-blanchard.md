@@ -1,7 +1,7 @@
 ---
 name: "Saint Blanchard"
 honorific: Saint
-title: "Saint"
+title: "Saint Blanchard"
 summary: "I can find no biographical information on this person."
 searchAliases:
   - "Blancardo"
@@ -13,8 +13,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

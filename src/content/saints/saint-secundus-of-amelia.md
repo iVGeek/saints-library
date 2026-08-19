@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundus of Amelia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Secundus of Amelia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "drowned in 304 in the River Tiber at Amelia, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

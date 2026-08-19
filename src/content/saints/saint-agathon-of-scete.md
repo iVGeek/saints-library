@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathon of Scete"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Agathon of Scete"
 summary: "Around the year 364, Agathon retired from the world to live as a prayerful, austere hermit in the desert of Scete near Alexandria, Egypt. He supported himself by weaving and selling baskets in Alexandria; he often just gave them away to the very poor to use or sell as they saw fi"
 deathYear: 370
 died: "c.370 in Scete, Egypt of natural causes"

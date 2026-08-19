@@ -1,7 +1,7 @@
 ---
 name: "Blessed María de Las Nieves Rodríguez Higuera"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed María de Las Nieves Rodríguez Higuera"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Guadalupe of the Ascension"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

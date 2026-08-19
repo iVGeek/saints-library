@@ -1,7 +1,7 @@
 ---
 name: "Venerable Casimiro Barello Morello"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Casimiro Barello Morello"
 summary: "Layman."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Casimiro-Barello-Morello.jpg"
 birthYear: 1857
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

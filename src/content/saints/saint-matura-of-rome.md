@@ -1,7 +1,7 @@
 ---
 name: "Saint Matura of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Matura of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

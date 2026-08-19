@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bronislaw Komorowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Bronislaw Komorowski"
 summary: "Son of Jan Komorowski and Katarzyna née Gencza who had eleven children between them. Priest in the archdiocese of Gdansk, Poland, ordained in 1914. Parish priest in Legowo, Poland, and then at the church of Saint Nicolaus in Gdansk. Taught history and and the Polish language in t"
 image: "http://catholicsaints.info/wp-content/uploads/Bronislaw-Komorowski.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

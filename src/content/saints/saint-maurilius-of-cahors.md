@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurilius of Cahors"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Maurilius of Cahors"
 summary: "Bishop of Cahors, France. Known for knowing the entire Bible by heart."
 searchAliases:
   - "Maurille"

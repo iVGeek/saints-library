@@ -1,7 +1,7 @@
 ---
 name: "Saint Lillian of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lillian of Cordoba"
 summary: "Lay woman in Moorish controlled ninth-century Spain. Married to Saint Felix of Cordoba. A covert Christian who was careful not to display enough of her faith to risk the attention of Muslim neighbors. However, stories of the persecutions of active Christians shamed her into openl"
 image: "http://catholicsaints.info/wp-content/uploads/Lillian.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

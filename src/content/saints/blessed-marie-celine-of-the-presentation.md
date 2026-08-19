@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Céline of the Presentation"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Marie-Céline of the Presentation"
 summary: "Fifth of twelve children born to a poor but pious family. Due to a childhood polio, one of her legs was paralyzed, but she always helped where she could, and basically took over housekeeping for the family when her mother died. Lived five years with the Sisters of Nazareth. Enter"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Celine-of-the-Presentation.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

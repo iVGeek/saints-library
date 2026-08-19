@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard of Wedinghausen"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Richard of Wedinghausen"
 summary: "Member of the Premonstratensians. Canon of the Norbertine monastery of Wedinghausen in Arnsberg, Germany. Theological writer."
 searchAliases:
   - "Richard of Arnsberg"

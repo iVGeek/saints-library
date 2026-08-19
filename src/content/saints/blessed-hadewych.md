@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hadewych"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Hadewych"
 summary: "Daughter of Blessed Hildegundis; sister of Blessed Herman Joseph. Premonstratensian nun. With her mother she founded a convent Mehre, Rhenish Prussia (in modern Germany). Prioress of the convent in 1183."
 searchAliases:
   - "Hadewig"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catalina Calpe Ibáñez"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Catalina Calpe Ibáñez"
 summary: "The daughter of Mariano and Leandra. Professed religious in the Sisters of the Christian Doctrine, joining in 1893. Known as an amateur historian, and for her devotion to Marian spirituality. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

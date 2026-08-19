@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufinus of Soissons"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Rufinus of Soissons"
 summary: "Lived at Soissons, Gaul (in modern France). May have been a missionary from Rome, Italy. Fled during the persecution of Diocletian, but was captured. When brought to court, he made a bold, public statement of faith. Tortured and martyred with Saint Valerius."
 deathYear: 287
 died: "beheaded c.287 at Bazoches, Gaul (modern France)"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary

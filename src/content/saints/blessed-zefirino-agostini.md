@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zefirino Agostini"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope"
+title: "Blessed Zefirino Agostini"
 summary: " Assigned as priest to a very poor parish in 1845. Established after Oldest son of Antonio Agostini, a physician, and Agela Frattini; his father died when Zefirino was very young. Ordained on 11 March 1837. Curate, youth minister and catechist at Saint Nazarius church for 8 years."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Zefirino_Agostini.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 patronage:
   - "Congregation of Ursulines, Daughters of Mary Immaculate"
   - "Pious Union of Sisters Devoted to Saint Angela Merici"

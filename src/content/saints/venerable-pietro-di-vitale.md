@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pietro di Vitale"
 honorific: Venerable
-title: "Virgin, Pope"
+title: "Venerable Pietro di Vitale"
 summary: "Sixth of eight boys born to the poor but pious peasant family of Vitale and Anna Scimeca; Pietro was baptized at the age of seven days. He was known as an intelligent child, and became an altar boy at Holy Trinity parish. He had to leave school at age 10 to help his family on the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-di-Vitale.jpg"
 birthYear: 1916
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Virgin
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

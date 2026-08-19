@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermippus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermippus"
 summary: "Martyr."
 deathYear: 305
 died: "c.305"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

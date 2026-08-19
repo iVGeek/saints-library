@@ -1,7 +1,7 @@
 ---
 name: "Blessed George Haydock"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed George Haydock"
 summary: "Youngest son of Evan and Helen Haydock. Educated at the English College in Douai, France, and the English College in Rome, Italy. Ordained on 21 December 1581 at Rheims, France. He then returned to England to minister to covert Catholics during the persecutions of Queen Elizabeth"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Plaque_in_honor_of_Blessed_George_Haydock.jpg/960px-Plaque_in_honor_of_Blessed_George_Haydock.jpg"
 birthYear: 1557
@@ -16,10 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: true
 ---

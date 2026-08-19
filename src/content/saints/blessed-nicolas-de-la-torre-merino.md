@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolás de La Torre Merino"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Nicolás de La Torre Merino"
 summary: "A Salesian coadjutor brother, Nicola made his novitiate in Sarrià, Barcelona, Spain, and made his solemn profession on 18 March 1910. He taught in the Spanish cities of Barcelona, Valencia, La Coruña, Vigo and Madrid. As he dressed in civilian closed, he continued working even af"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicola-de-la-Torre-Merino.jpg"
 birthYear: 1892
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

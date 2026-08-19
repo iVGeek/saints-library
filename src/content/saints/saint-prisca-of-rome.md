@@ -1,7 +1,7 @@
 ---
 name: "Saint Prisca of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Prisca of Rome"
 summary: "Born to the imperial Roman nobility. Supported the Church in Rome, Italy. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Prisca-of-Rome.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

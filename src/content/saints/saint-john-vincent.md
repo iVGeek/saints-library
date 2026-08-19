@@ -1,7 +1,7 @@
 ---
 name: "Saint John Vincent"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint John Vincent"
 summary: "Benedictine monk at Saint Michael of Chiusa where he built a church. Hermit on Monte Caprario. Bishop."
 deathYear: 1012
 died: "1012 of natural causes"

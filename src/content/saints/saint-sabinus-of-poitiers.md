@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinus of Poitiers"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sabinus of Poitiers"
 summary: "Spiritual student of Saint Germanus of Auxerre. Martyr."
 died: "5th century near Poitiers, France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

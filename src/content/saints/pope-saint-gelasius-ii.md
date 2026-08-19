@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Gelasius II"
 honorific: Saint
-title: "Priest, Monk, Pope, Cardinal"
+title: "Pope Saint Gelasius II"
 summary: "Benedictine monk at Monte Cassino. Counsellor to Pope Pascal II. Cardinal. Chancellor of the Vatican. Chosen 161st Pope. His election was contested by Cenzio Frangipani who imprisoned him; a Roman mob rescued him and placed him on the throne. He struggled with Holy Roman Emperor"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Gelasius-II.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: false

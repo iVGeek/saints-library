@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Joseph of Rome"
 summary: "Martyred in the persecutions of Nero."
 died: "in Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

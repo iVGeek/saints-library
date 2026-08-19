@@ -1,7 +1,7 @@
 ---
 name: "Saint Stratonicus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stratonicus"
 summary: "Servant to Saint Hermylus at Singidunum (modern Belgrade). Martyred with Hermylus in the persecutions of Licinius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Stratonicus.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

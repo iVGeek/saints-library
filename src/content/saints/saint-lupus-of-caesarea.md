@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupus of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lupus of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Lupulo"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

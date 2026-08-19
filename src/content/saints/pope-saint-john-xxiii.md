@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint John XXIII"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Cardinal, Royalty, Soldier"
+title: "Pope Saint John XXIII"
 summary: "Born to an Italian peasant family. Educated at Bergamo and the Pontifical Roman Seminary. Ordained on 10 August 1904. Secretary to the bishop of Bergamo, Italy from 1904 to 1914, during which he wrote the basis for his five-volume biography of Saint Charles Borromeo. Served in Wo"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg/960px-Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 11
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

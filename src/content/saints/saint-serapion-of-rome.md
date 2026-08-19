@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Serapion of Rome"
 summary: "Martyred by a pagan mob."
 died: "dragged by the heels over rough ground until he died in Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

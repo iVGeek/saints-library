@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerland"
 honorific: Saint
-title: "Soldier"
+title: "Saint Gerland"
 summary: "Thirteenth century knight."
 died: "relics at Caltagirone, Sicily"
 deathPlace: "Sicily"

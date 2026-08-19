@@ -1,7 +1,7 @@
 ---
 name: "Saint Pierre Philibert Maubant"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Missionary"
+title: "Saint Pierre Philibert Maubant"
 summary: "Ordained in the Diocese of Bayeux, France in 1829. Joined the Foreign Missionary Society of Paris. Missionary to Korea, arriving on 12 January 1836. Worked with Saint Lawrence Imbert, Saint Jacques Chastain, and Saint Paul Chong Hasang. He worked in secret for two years, minister"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-Philibert-Maubant.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

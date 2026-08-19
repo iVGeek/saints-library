@@ -1,7 +1,7 @@
 ---
 name: "Saint Lubetta"
 honorific: Saint
-title: "Martyr, Virgin, Royalty"
+title: "Saint Lubetta"
 summary: " Legend says that as they were travelling through Poitiers (in modern France), Lubetta fell seriously ill. Helena gave her a fragment of the Cross, and left her there to recover; she didn't. The fragment of the Cross was enshrined in Spiritual student of the empress Saint Helena."
 searchAliases:
   - "Lubette"
@@ -14,10 +14,8 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Spiritual student of the empress Saint Helena.

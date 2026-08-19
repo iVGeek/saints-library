@@ -1,7 +1,7 @@
 ---
 name: "Saint Ralph"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Ralph"
 summary: "Monk at the monastery of Solignac, France. Abbot of Saint Medard in Soissons, France. Bishop of Bourges, France in 840. Founded several monasteries; known for his charity and good works."
 deathYear: 866
 died: "866 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Damiano"
 honorific: Blessed
-title: "Cardinal, Hermit"
+title: "Blessed Damiano"
 summary: "Nephew and spiritual student of Saint Pier Damiano. Camaldolese hermit in Fonte Avellana, Italy. Studied in Paris, France. Prior of his hermitage. Cardinal of the Church."
 region: "Italy"
 feastDay:

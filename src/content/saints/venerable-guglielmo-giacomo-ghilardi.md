@@ -1,7 +1,7 @@
 ---
 name: "Venerable Guglielmo Giacomo Ghilardi"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Venerable Guglielmo Giacomo Ghilardi"
 summary: "Franciscan priest at San Vivaldo di Montaione, Italy for 44 years."
 searchAliases:
   - "Faustino"
@@ -18,11 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan priest at San Vivaldo di Montaione, Italy for 44 years.

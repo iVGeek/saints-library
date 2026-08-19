@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Osiense"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Juan Osiense"
 summary: "Mercedarian friar at the convent of Santa Maria in Guardia de los Prados, Spain. Noted theologian. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Osiense.jpg"
 died: "Santa Maria convent in Guardia de los Prados, Spain of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 10
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

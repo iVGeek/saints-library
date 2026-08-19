@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Tomis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcian of Tomis"
 summary: "Martyr."
 searchAliases:
   - "Marcianus"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

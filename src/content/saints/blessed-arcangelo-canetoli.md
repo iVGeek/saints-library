@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arcangelo Canetoli"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Arcangelo Canetoli"
 summary: "As a boy he survived the politically inspired massacred of the rest of his family. Entered the Canons Regular of Santa Maria di Reno. Priest. Lived at the Saint Ambrose convent at Gubbio, Italy in 1498. His reputation for holiness attracted the humble and powerful. Repeatedly ref"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/San_Salvador_Interno_-_San_Nicol%C3%B2%2C_San_Leonardo_e_il_Beato_Arcangelo_Canetoli_di_Giovanni_Battista_Piazzetta_e_Domenico_Maggiotto.jpg/960px-San_Salvador_Interno_-_San_Nicol%C3%B2%2C_San_Leonardo_e_il_Beato_Arcangelo_Canetoli_di_Giovanni_Battista_Piazzetta_e_Domenico_Maggiotto.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Baldred the Hermit"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Baldred the Hermit"
 summary: "Eighth century hermit. Priest. Miracle worker. No other information has survived."
 searchAliases:
   - "Baltherus the Hermit"

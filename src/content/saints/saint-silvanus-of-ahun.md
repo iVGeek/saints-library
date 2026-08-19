@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Ahun"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Silvanus of Ahun"
 summary: "Deacon martyred by Vandals."
 searchAliases:
   - "Salvan"
@@ -18,7 +18,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

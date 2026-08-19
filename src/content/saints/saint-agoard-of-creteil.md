@@ -1,7 +1,7 @@
 ---
 name: "Saint Agoard of Creteil"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Agoard of Creteil"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agoardus"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

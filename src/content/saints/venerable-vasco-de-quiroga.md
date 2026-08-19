@@ -1,7 +1,7 @@
 ---
 name: "Venerable Vasco de Quiroga"
 honorific: Venerable
-title: "Martyr, Bishop, Priest"
+title: "Venerable Vasco de Quiroga"
 summary: "Quiroga studied for the priesthood, canon law and civil law, at the University of Valladolid, Spain and the University of Salamanca, Spain. Worked at the chancery of the diocese of Badajoz, Spain. Chosen as a judge for the royal court in New Spain, arriving in Mexico City in 1531"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vasco_de_Quiroga.jpg"
 searchAliases:
@@ -18,10 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Quiroga studied for the priesthood, canon law and civil law, at the University of Valladolid, Spain and the University of Salamanca, Spain. Worked at the chancery of the diocese of Badajoz, Spain. Chosen as a judge for the royal court in New Spain, arriving in Mexico City in 1531. Assigned to the state of Michoacán as royal inspector, he worked to make peace with the Purépecha people. He founded two hospitals in the state. Chosen first bishop of the diocese of Michoacán, Mexico on 18 August 1536 where he served for the remaining 29 years of his life. He worked as a social reformer and educator who supported the welfare of the Indians. Founded the Colegio de San Nicolás Obisbo which trained priests fluent in native languages and translated religious works to those languages.

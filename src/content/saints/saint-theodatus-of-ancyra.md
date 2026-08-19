@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodatus of Ancyra"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Religious"
+title: "Saint Theodatus of Ancyra"
 summary: "Married innkeeper and vintner in Ancyra, Galatia (in modern Turkey). Martyred in the persecutions of Diocletian for giving Christian burial to seven martyred nuns."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodatus-of-Ancyra.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Religious

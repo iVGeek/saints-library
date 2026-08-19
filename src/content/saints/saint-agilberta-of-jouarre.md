@@ -1,7 +1,7 @@
 ---
 name: "Saint Agilberta of Jouarre"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Agilberta of Jouarre"
 summary: "Related to Saint Ebrigisil, Saint Ado of Jouarre, and Saint Agilbert of Paris. Nun. Abbess of Jouarre Abbey c.660."
 searchAliases:
   - "Aguilberta of Jouarre"

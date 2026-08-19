@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph-Louis Marcou Pecalvel"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joseph-Louis Marcou Pecalvel"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Louis de Jesus"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

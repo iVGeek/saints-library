@@ -1,7 +1,7 @@
 ---
 name: "Venerable Isabella de Rosis"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Isabella de Rosis"
 summary: "The eldest of nine children born to the 19th century Italian noble family of Baron Domiziano de Roses and Baroness Gabriella Francesca Berlingieri, Isabella was educated at the boarding school of the Santa Chiara monastery in Naples, Italy. She grew up loving the religious life o"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Isabella-de-Rosis.jpg"
 birthYear: 1842
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

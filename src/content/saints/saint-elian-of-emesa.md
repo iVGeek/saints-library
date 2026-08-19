@@ -1,7 +1,7 @@
 ---
 name: "Saint Elian of Emesa"
 honorific: Saint
-title: "Martyr, Priest, Soldier"
+title: "Saint Elian of Emesa"
 summary: "The son of a senior officer in the imperial Roman army, Elian trained as a physician. He was a convert to Christianity, baptized by Saint Silvanus of Emesa. He developed a reputation of healing by prayer as much as by medicine, and treated the poor sick for free. Caught ministeri"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elian-of-Emesa.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Soldier
 martyr: true

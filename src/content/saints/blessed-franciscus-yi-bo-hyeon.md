@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciscus Yi Bo-hyeon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Franciscus Yi Bo-hyeon"
 summary: "Layman convert, martyred by the police in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

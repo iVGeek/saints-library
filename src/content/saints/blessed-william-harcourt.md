@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Harcourt"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed William Harcourt"
 summary: "Studied at the Jesuit College, Saint-Omer, France. Joined the Jesuits at Watten in 1632. Priest. Returned to England in 1644 to minister to covert Catholics. Worked in London for 35 years, using the names William Harcourt and/or William Waring. Jesuit superior for London in 1678."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Harcourt-1.jpg"
 searchAliases:
@@ -16,10 +16,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

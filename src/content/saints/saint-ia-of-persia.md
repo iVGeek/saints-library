@@ -1,7 +1,7 @@
 ---
 name: "Saint Ia of Persia"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Ia of Persia"
 summary: "Born a slave. Martyred in the persecution of King Shapur II for her success in converting Persian women to the faith."
 deathYear: 360
 born: "Greek"
@@ -13,9 +13,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

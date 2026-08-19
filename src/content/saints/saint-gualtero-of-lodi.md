@@ -1,7 +1,7 @@
 ---
 name: "Saint Gualtero of Lodi"
 honorific: Saint
-title: "Bishop, Priest, Religious, Hermit, Royalty"
+title: "Saint Gualtero of Lodi"
 summary: "The only child of Aliprando and Adelazia, pious parents who were childless so long that they promised God they would devote any child of theirs to the Church. They kept their pledge, giving the boy a good education, and by age fifteen Gualtero was working as a Hospitaller friar i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gualtero-of-Lodi.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Priest
   - Religious
   - Hermit
-  - Royalty
 martyr: false
 ---
 

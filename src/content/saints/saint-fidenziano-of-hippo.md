@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidenziano of Hippo"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Fidenziano of Hippo"
 summary: "Bishop. One of a group of 20 Christians martyred together and celebrated by Saint Augustine."
 searchAliases:
   - "Fidentien"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

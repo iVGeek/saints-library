@@ -1,7 +1,7 @@
 ---
 name: "Saint Crispus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Crispus of Rome"
 summary: "Priest in Rome, Italy in the early days of the Church. With Saint John he recovered and properly buried the bodies of martyrs - and was martyred for it."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles-René Collas du Bignon"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Charles-René Collas du Bignon"
 summary: "Priest in the Society of Saint Sulpice. Superior of the minor seminary of Bourges, France. Martyred in the anti-Christian persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

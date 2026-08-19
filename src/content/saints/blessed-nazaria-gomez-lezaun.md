@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nazaria Gómez Lezaun"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Nazaria Gómez Lezaun"
 summary: "Joined the Sisters of the Pious Schools in Carabanchel, Spain, and made her profession on 8 September 1895. Teacher at the Piarist College in Valencia, Spain for 41 years. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

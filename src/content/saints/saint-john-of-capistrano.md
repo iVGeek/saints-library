@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Capistrano"
 honorific: Saint
-title: "Priest, Monk, Deacon, Pope, Royalty, Soldier, Confessor"
+title: "Saint John of Capistrano"
 summary: "Son of a German knight, his father died when John was still young. The young man studied law at the University of Perugia, and worked as a lawyer in Naples, Italy. Reforming governor of Perugia under King Landislas of Naples. When war broke out between Perugia and the House of Ma"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/82Johannes_von_Capestrano.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Priest
   - Deacon
   - Confessor

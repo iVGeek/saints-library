@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertullinus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Tertullinus of Rome"
 summary: "Priest. Martyred two days after his ordination in the persecutions of Valerian."
 deathYear: 257
 died: "257"
@@ -10,7 +10,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

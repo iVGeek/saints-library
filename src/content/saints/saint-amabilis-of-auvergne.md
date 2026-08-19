@@ -1,7 +1,7 @@
 ---
 name: "Saint Amabilis of Auvergne"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Amabilis of Auvergne"
 summary: "Cantor in the church of Saint Mary at Clermont, France. Precentor of the cathedral of Clermont. Parish priest in Riom, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amabilis-of-Auvergne.jpg"
 searchAliases:

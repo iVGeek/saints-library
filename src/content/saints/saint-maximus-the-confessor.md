@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus the Confessor"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Saint Maximus the Confessor"
 summary: "Born to the Byzantine nobility. Chief secretary to Emperor Heraclius, a post he resigned to become a monk at Chrysopolis. Spiritual student of Saint Sophronius. Abbot of Chrysopolis. His community broke up in 626 due to Persian invasion. Maximus fled to Alexandria, Egypt, then to"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Athonite_Fresco_Icon_of_Saint_Maximos_the_Confessor_2.jpg"
 searchAliases:
@@ -19,12 +19,10 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Born to the Byzantine nobility. Chief secretary to Emperor Heraclius, a post he resigned to become a monk at Chrysopolis. Spiritual student of Saint Sophronius. Abbot of Chrysopolis. His community broke up in 626 due to Persian invasion. Maximus fled to Alexandria, Egypt, then to Carthage, and then Rome, Italy. Worked with Pope Martin I against Monothelist heresy, and attended the Lateran Council of 649.

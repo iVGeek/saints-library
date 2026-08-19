@@ -1,7 +1,7 @@
 ---
 name: "Saint Acacius of Byzantium"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Acacius of Byzantium"
 summary: "Christian centurian in the imperial Roman army stationed in Thrace. Tortured and executed in the persecutions of Diocletian. Several churches in Constantinople dedicated to him, including one dedicated by Constantine the Great. One of the Fourteen Holy Helpers."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Acacius-of-Byzantium.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

@@ -1,7 +1,7 @@
 ---
 name: "Saint Tillo of Solignac"
 honorific: Saint
-title: "Priest, Monk, Hermit, Missionary"
+title: "Saint Tillo of Solignac"
 summary: "Kidnapped by raiders and brought to the Low Countries as a slave. Ransomed by Saint Eligius of Noyon. Benedictine monk at Solignac, France. Priest. Missionary in the regions around Courtrai, France. Eventually retired to become a hermit at Solignac."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Tillo-Abbot-and-Hermit.jpg"
 searchAliases:

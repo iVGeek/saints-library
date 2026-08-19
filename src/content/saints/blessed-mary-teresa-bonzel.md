@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary Teresa Bonzel"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Mary Teresa Bonzel"
 summary: "Franciscan tertiary by age 20. She wanted to enter religious life, but her family strongly opposed it. With eight other women she took the veil as part of the new community of Sisters of Saint Francis of Perpetual Adoration, and became its director, taking the name Mother Mary Te"
 image: "http://catholicsaints.info/wp-content/uploads/Mother-Maria-Theresia.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

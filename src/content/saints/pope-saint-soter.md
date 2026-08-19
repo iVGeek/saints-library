@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Soter"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Pope Saint Soter"
 summary: "Nothing is known of his life before he was chosen 12th pope c.166, and not much is known of his pontificate. Forbade women to burn incense in services. Ratified that matrimony was a valid sacrament only if blessed by a priest. Inaugurated Easter as an annual festival in Rome."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/22/San_Sotero_Papa.jpg"
 searchAliases:
@@ -21,12 +21,10 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Nothing is known of his life before he was chosen 12th pope c.166, and not much is known of his pontificate. Forbade women to burn incense in services. Ratified that matrimony was a valid sacrament only if blessed by a priest. Inaugurated Easter as an annual festival in Rome.

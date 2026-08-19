@@ -1,7 +1,7 @@
 ---
 name: "Saint Zöellus of Istria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zöellus of Istria"
 summary: "Martyr."
 searchAliases:
   - "Zoello"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Athanasia of Antioch"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Athanasia of Antioch"
 summary: "Ninth-century lay woman in Antioch, Syria. Married to Saint Andronicus of Antioch. Mother of two.  On the death of their children, Andronicus and Athanasia agreed to live separately as hermits in upper Egypt. Made multiple pilgrimages to Jerusalem."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Athanasia-of-Antioch.jpg"
 region: "Italy"

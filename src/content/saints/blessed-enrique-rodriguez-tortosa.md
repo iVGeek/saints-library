@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Rodríguez Tortosa"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Enrique Rodríguez Tortosa"
 summary: "Orphaned when he was very small, Enrique was raised by his aunt Araceli. He grew to be a pious and committed Christian, an honest, humble and well-liked layman in his community in the diocese of Almería, Spain. Member of Catholic Action. When Communist militia came to his down in"
 birthYear: 1908
 deathYear: 1936
@@ -15,10 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

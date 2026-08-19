@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ismael Barrio Marquilla"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ismael Barrio Marquilla"
 summary: "Salesian brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Celestino Antonio"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Febronia of Nisibis"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Febronia of Nisibis"
 summary: "Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry Diocletian's nephew Lysimachus, and stop him from joining the"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Martirio_s._febronia%2C_coste%2C_palagonia.jpg"
 searchAliases:
@@ -15,12 +15,11 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry Diocletian's nephew Lysimachus, and stop him from joining the Church; she declined. Tortured, mutilated and murdered. Lysimachus, who had been leaning toward Christianity to begin with, converted along with many of the witnesses to Febronia's abuse; the judge, Selenus, went insane and killed himself.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Arnulf of Eynesbury"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Arnulf of Eynesbury"
 summary: "Ninth-century hermit whose records have been lost but who has been long venerated in Arnulphsbury, Cambridgeshire, England."
 region: "England"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Menas of Sinai"
 honorific: Saint
-title: "Monk"
+title: "Saint Menas of Sinai"
 summary: "Monk and abbot of the monastery of Saint Catherine on the Sinai peninsula in the desert of Egypt for 15 years. Saint John Klimakos."
 died: "latter 6th-century at monastery of Saint Catherine, Egypt of natural causes"
 deathPlace: "Egyptnatural causes"

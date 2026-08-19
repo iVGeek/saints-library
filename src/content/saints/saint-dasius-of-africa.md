@@ -1,7 +1,7 @@
 ---
 name: "Saint Dasius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dasius of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

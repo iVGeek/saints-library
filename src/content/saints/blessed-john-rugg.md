@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Rugg"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed John Rugg"
 summary: "Former fellow of the two Saint Mary Winton colleges. Priest. First holder of the Wykehamical prebend “Bursalis” at the Chichester Cathedral. Obtained a dispensation from residence, and was living as a Benedictine monk at Reading, Berkshire, England in 1532. Believed to have hidde"
 deathYear: 1539
 born: "English"
@@ -13,11 +13,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

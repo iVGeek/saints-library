@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of North Africa"
 summary: "Martyr. No other information has survived."
 died: "martyred in North Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

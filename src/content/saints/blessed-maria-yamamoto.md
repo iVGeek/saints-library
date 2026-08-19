@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Yamamoto"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Maria Yamamoto"
 summary: "Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Andreas Yamamoto Shichiemon. Marytr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -15,10 +15,8 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Maria_Yamamoto_Fanime_2005_Meet_the_Guests_reception_%28cropped%29.jpg"
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Andreas Yamamoto Shichiemon. Marytr.

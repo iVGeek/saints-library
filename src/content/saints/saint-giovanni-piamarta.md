@@ -1,7 +1,7 @@
 ---
 name: "Saint Giovanni Battista Piamarta"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Saint Giovanni Battista Piamarta"
 summary: "Born to a poor family, Giovanni's mother died when the boy was nine years old, and the boy grew up in the slums, indifferently educated, but mentored part of the time by his religious maternal grandfather. As a young man he discovered a call to the priesthood, and he was ordained"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Beato_Piamarta.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

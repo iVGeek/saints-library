@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Adrianopolis"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Maximus of Adrianopolis"
 summary: "Martyred in the persecutions of Maximian."
 deathYear: 310
 died: "310 at Adrianopolis (Adrianople), a location in modern Bulgaria"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

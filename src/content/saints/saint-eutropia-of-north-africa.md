@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropia of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutropia of North Africa"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 253
 died: "c.253 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

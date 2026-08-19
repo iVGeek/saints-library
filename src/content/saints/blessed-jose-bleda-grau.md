@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Bleda Grau"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Bleda Grau"
 summary: "Franciscan Capuchin friar, professed on 2 February 1901. Worked as a beggar and tailor for his religious community in Orihuela, Alicante, Spain; he developed a relationship with the people of his city based on his humility, piety and charity. When the anti-Catholic persecutions o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Bleda-Grau.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 4
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

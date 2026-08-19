@@ -1,7 +1,7 @@
 ---
 name: "Saint Martinô Tho"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Martinô Tho"
 summary: "Layman martyr."
 birthYear: 1787
 deathYear: 1840
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 8
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo de Medina García"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Lorenzo de Medina García"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Belalcázar community. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

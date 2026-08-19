@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto Blanch Ferrer"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Jacinto Blanch Ferrer"
 summary: "The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in his parish church of Santa Maria. His was a large and pious family; all his siblings would enter religious life, five of them as Claretian Missionaries. He made hi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Jacinto-Blanch-Ferrer.jpg"
 birthYear: 1868
@@ -16,8 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
 martyr: true
 ---

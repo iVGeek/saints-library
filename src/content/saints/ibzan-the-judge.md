@@ -1,7 +1,7 @@
 ---
 name: "Ibzan the Judge"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Ibzan the Judge"
 summary: "Judge of Israel for 7 years, as described in the Old Testament Book of Judges. Married and the father of 30 sons and 30 daughters."
 searchAliases:
   - "Ibzan of Bethlehem"
@@ -15,9 +15,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-martyr: true
+martyr: false
 ---
 
 Judge of Israel for 7 years, as described in the Old Testament Book of Judges. Married and the father of 30 sons and 30 daughters.

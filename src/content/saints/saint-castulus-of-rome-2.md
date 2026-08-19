@@ -1,7 +1,7 @@
 ---
 name: "Saint Castulus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Castulus of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

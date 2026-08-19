@@ -1,7 +1,7 @@
 ---
 name: "Saint Cormac"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Cormac"
 summary: "Sixth century abbot in Ireland. Friend of Saint Columba of Iona."
 region: "Ireland"
 feastDay:

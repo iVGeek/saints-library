@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Harrington"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed William Harrington"
 summary: "After meeting Saint Edmund Campion, William travelled to Rheims, France were he studied for the priesthood. Ordained in 1592, he returned to England to minister to covert Catholics. Arrested in 1593, he was held for several months before being executed for the crime of being a pr"
 deathYear: 1594
 born: "Felixkirk, Borth Yorkshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Bùi Van Úy"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Ðaminh Bùi Van Úy"
 summary: "Lay Dominican in the apostolic vicariate of East Tonkin. Catechist. One of the Martyrs of Vietnam."
 birthYear: 1801
 deathYear: 1839
@@ -14,9 +14,7 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

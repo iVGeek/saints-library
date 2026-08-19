@@ -1,7 +1,7 @@
 ---
 name: "Saint Caspar"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Caspar"
 summary: "One of the Three Magi."
 image: "http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "against epilepsy"
   - "against thunder"

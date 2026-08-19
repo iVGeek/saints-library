@@ -1,7 +1,7 @@
 ---
 name: "Saint Laetus of Dax"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Laetus of Dax"
 summary: "Deacon in the diocese of Dax, France. Worked with Saint Vincent of Xaintes."
 searchAliases:
   - "Leto"
@@ -12,10 +12,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-martyr: true
+martyr: false
 ---
 
 Deacon in the diocese of Dax, France. Worked with Saint Vincent of Xaintes.

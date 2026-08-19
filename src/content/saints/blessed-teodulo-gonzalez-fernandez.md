@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teódulo González Fernández"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Teódulo González Fernández"
 summary: "Salesian of Don Bosco brother. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidra Fernández Palomero de Fernández"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Isidra Fernández Palomero de Fernández"
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

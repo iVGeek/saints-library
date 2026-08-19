@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Rosa Adrover Martí"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Rosa Adrover Martí"
 summary: "Member of the Dominican Sisters of Education of the Immaculata. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

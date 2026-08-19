@@ -1,7 +1,7 @@
 ---
 name: "Saint Odo the Good"
 honorific: Saint
-title: "Bishop, Monk, Royalty, Confessor"
+title: "Saint Odo the Good"
 summary: "Odo's parents were pagan Danish nobility who had come to East Anglia as part of a colonizing/invading force. Uncle of Saint Oswald of Worcester. Benedictine monk. Bishop of Rambury, Wessex, England. Present at the battle of Brunanburk, England where he spent the day praying for E"
 searchAliases:
   - "Odo of Canterbury"
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 martyr: false

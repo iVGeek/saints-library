@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benedict Metzler"
 honorific: Blessed
-title: "Priest, Monk, Royalty"
+title: "Blessed Benedict Metzler"
 summary: "Educated by Premonstratensians at the Mönchsrot monastery in Memmingen, Germany. Premonstratensian monk. Canon of the Bad Schussenried monastery in Biberach, Germany, making his solemn vows on 17 April 1717. Studied theology in Dillingen, Germany. Ordained on 6 January 1721. Prof"
 birthYear: 1687
 deathYear: 1773
@@ -16,7 +16,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

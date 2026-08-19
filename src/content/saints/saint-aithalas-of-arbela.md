@@ -1,7 +1,7 @@
 ---
 name: "Saint Aithalas of Arbela"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Aithalas of Arbela"
 summary: "Pagan priest who was healed from a serious disease by the prayers of Christians; convert. Martyred in the persecutions of Shapur II."
 searchAliases:
   - "Aithelas"
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Ortigosa Oraá"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Pedro Ortigosa Oraá"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Aureliano"
@@ -17,9 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

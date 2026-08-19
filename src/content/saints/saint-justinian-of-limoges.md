@@ -2,15 +2,14 @@
 name: "Saint Justinian of Limoges"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414453%29.pdf/page1-960px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414453%29.pdf.jpg"
 honorific: Saint
-title: "Royalty"
+title: "Saint Justinian of Limoges"
 summary: "Justinian's parents, Aniano and Giusta, were a childless pagan couple converted to Christianity by Saint Martial of Limoges. When they brought up the lack of children, Martial said that they should pray for a child. Soon after, Giusta became pregnant, and when Justinian was born,"
 region: "France"
 feastDay:
   month: 7
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

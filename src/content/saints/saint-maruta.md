@@ -1,7 +1,7 @@
 ---
 name: "Saint Maruta"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Royalty"
+title: "Saint Maruta"
 summary: "Bishop of Mayferkqat, Syria, part of the kingdom of Persia, in the late 4th and early 5th centuries. Presided over the Council of Seleucia. Worked to build and repair churches that had been lost during the persecutions of King Sapor, and collected so many of the relics that had b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maruta.jpg"
 searchAliases:
@@ -13,10 +13,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Royalty
 martyr: true
 ---
 

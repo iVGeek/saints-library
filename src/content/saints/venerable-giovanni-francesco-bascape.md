@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Francesco Bascapè"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Royalty"
+title: "Venerable Giovanni Francesco Bascapè"
 summary: "Born to the nobility, Giovanni studied law in Pavia, Italy, and was a friend of Saint Charles Borromeo. Ordained a priest on 29 July 1576. He joined the Barnabites in 1578, taking the name Carlo in honour of Saint Charles. He served in various administrative functions in the orde"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Francesco-Bascape.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

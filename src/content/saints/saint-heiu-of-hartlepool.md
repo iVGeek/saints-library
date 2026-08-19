@@ -1,7 +1,7 @@
 ---
 name: "Saint Heiu of Hartlepool"
 honorific: Saint
-title: "Religious"
+title: "Saint Heiu of Hartlepool"
 summary: "First nun to take vows in Northumbria (part of modern England), consecrated by Saint Aiden of Lindisfarne. Founded a convent at Hartlepool, Northumbia, and later another at Healaugh, Northumbria."
 died: "mid-7th century"
 region: "England"

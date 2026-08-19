@@ -1,7 +1,7 @@
 ---
 name: "Venerable Augustine John Ukken"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Augustine John Ukken"
 summary: "The second son of Punnaparambil Ukken Anthappan and Chalakal Annamma. Augustine was orphaned by the age of six; the local parish priest took him in and saw to his education, including getting him enrolled in the Minor Seminary in Trichur, India around 1895. Augustine began seriou"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Augustine-John-Ukken.jpg"
 birthYear: 1880
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

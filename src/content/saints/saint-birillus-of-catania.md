@@ -1,7 +1,7 @@
 ---
 name: "Saint Birillus of Catania"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Birillus of Catania"
 summary: "Travelling companion of Saint Peter the Apostle. First bishop of Catania, Sicily, consecrated by Saint Peter."
 image: "http://catholicsaints.info/wp-content/uploads/Birillus-of-Catania.jpg"
 searchAliases:

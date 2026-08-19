@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ogerius"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Ogerius"
 summary: "Benedictine Cistercian monk. Abbot at Locedio, diocese of Vercelli, Italy. Wrote a series of sermons defending the doctrine of the Immaculate Conception."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ogerius.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

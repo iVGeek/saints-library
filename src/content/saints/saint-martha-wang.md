@@ -1,7 +1,7 @@
 ---
 name: "Saint Martha Wang"
 honorific: Venerable
-title: "Martyr, Bishop, Pope"
+title: "Saint Martha Wang"
 summary: "Married lay woman in the apostolic vicariate of Guizhou, China. Widow. Carried letters from Blessed Joseph Tshang and Blessed John Baptist Lo to their bishop. Arrested for helping spread Christianity. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martha-Wang.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 29
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
-  - Pope
 martyr: true
 ---
 

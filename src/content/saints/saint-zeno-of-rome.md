@@ -1,7 +1,7 @@
 ---
 name: "Saint Zeno of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zeno of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Zenone"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

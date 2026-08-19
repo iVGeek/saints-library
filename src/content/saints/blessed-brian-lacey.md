@@ -1,7 +1,7 @@
 ---
 name: "Blessed Brian Lacey"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Brian Lacey"
 summary: "Yorkshire country gentleman. Cousin, companion and assistant to Venerable Father Montford Scott Arrested in 1586 for helping and hiding priests. Arrested again in 1591 when his own brother Richard betrayed him, Brian was tortured at Bridewell prison to learn the names of more peo"
 deathYear: 1591
 born: "Brockdish, Norfolk, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

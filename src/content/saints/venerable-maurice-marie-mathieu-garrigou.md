@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maurice-Marie-Mathieu Garrigou"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Maurice-Marie-Mathieu Garrigou"
 summary: "Priest in the archdiocese of Tolouse, France. Founded the Institute of the Sisters of Our Lady of Compassion."
 birthYear: 1766
 deathYear: 1852
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

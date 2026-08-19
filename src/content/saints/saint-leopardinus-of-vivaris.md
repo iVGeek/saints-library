@@ -1,7 +1,7 @@
 ---
 name: "Saint Leopardinus of Vivaris"
 honorific: Saint
-title: "Monk"
+title: "Saint Leopardinus of Vivaris"
 summary: "Seventh century monk and abbot of the monastery of Saint Symphorian in Vivaris, province of Berry, France."
 region: "France"
 feastDay:

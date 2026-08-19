@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus"
 summary: "Layman. Martyred with eleven others."
 searchAliases:
   - "Festus"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

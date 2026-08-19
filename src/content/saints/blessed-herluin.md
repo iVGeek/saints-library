@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herluin"
 honorific: Blessed
-title: "Bishop, Monk, Soldier"
+title: "Blessed Herluin"
 summary: "Raised to be a soldier, and served as a knight at the court of the Count of Brionne, France. He left the life of arms to found a monastery on his estate at Bonneville, France. Benedictine monk. Abbot at Bonneville. Moved his community to a new home on the banks of the River Bec i"
 deathYear: 1078
 born: "Normandy (in modern France)"

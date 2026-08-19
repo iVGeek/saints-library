@@ -1,7 +1,7 @@
 ---
 name: "Saint Solochanus of Chalcedon"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Solochanus of Chalcedon"
 summary: "Imperial Roman soldier martyred with many of his Christian companions in the persecutions of emperor Maximian."
 searchAliases:
   - "Solochon"
@@ -15,7 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugenian of Autun"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Eugenian of Autun"
 summary: "Latter 4th century bishop of Autun, France. Fierce opponent of Arianism, which led to his martyrdom."
 searchAliases:
   - "Egemoine"
@@ -24,7 +24,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

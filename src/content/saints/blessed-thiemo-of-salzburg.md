@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thiemo of Salzburg"
 honorific: Blessed
-title: "Martyr, Bishop, Monk, Pope"
+title: "Blessed Thiemo of Salzburg"
 summary: "Born to the Bavarian nobility. Benedictine monk at Niederaltaich Abbey. Renowned painter, engraver, sculptor, and artist in metal. Abbot of Saint Peter's Abbey in Salzburg, Austria in 1077. Archbishop of Salzburg in 1090. Attended the Council of Piacenza in 1095 which took place"
 image: "http://catholicsaints.info/wp-content/uploads/Thiemo-of-Salzburg.jpg"
 searchAliases:
@@ -21,10 +21,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "engravers"

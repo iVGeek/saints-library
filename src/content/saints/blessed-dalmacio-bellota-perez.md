@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dalmacio Bellota Pérez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Dalmacio Bellota Pérez"
 summary: "Began the Lasallian novitiate in Bujedo, Spain on 2 February 1925, taking the name Carlos Jorge. Taught at Nuestra Señora de las Maravillas College in Madrid, Spain until anti-Christian forces destroyed it by a fire in 1931. Taught at the Cuevas Community in Almeria, Spain. Taugh"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-Jorge.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 8
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

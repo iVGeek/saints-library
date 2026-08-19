@@ -1,7 +1,7 @@
 ---
 name: "Saint Cowair"
 honorific: Saint
-title: "Monk"
+title: "Saint Cowair"
 summary: "No information has survived."
 searchAliases:
   - "Cywair"

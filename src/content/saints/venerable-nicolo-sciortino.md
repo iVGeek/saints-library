@@ -1,7 +1,7 @@
 ---
 name: "Venerable Nicolò Sciortino"
 honorific: Venerable
-title: "Priest, Pope, Royalty, Missionary"
+title: "Venerable Nicolò Sciortino"
 summary: "The fifth of six children born to Domenico Sciortino and Ninfa Colletti, he was baptised on the day he was born and raised in a pious farm family; his father had taken minor orders. Nicolò grew up helping with the family flocks, and, feeling an early call to religion, spent his t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Nicolo-Sciortino.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Capuchin"
 martyr: false

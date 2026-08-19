@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Vigil Cabrerizo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Vigil Cabrerizo"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 11 October 1906. Martyred in the Spanish Civil War, the first priest to be murdered in that persecution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Vigil-Cabrerizo.jpg"
 birthYear: 1906
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

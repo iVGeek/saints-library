@@ -1,7 +1,7 @@
 ---
 name: "Blessed Klemens of Prague"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Klemens of Prague"
 summary: "Franciscan Friar Minor novice. One of the Martyrs of Prague, killed by a Lutheran mob while setting tables in the convent dining room."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-klemens-of-prague.jpg"
 birthYear: 1590
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

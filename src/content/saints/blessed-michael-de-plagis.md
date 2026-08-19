@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michael de Plagis"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Michael de Plagis"
 summary: "Mercedarian monk at the monastery of Messina, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-de-Plagis.jpg"
 deathYear: 1619

@@ -1,7 +1,7 @@
 ---
 name: "Blessed François-Joseph Pey"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed François-Joseph Pey"
 summary: "One of nine children born to Joseph-François Pey, a physician, and Marguerite Rose Moutte; five of them died in childhood. Theirs was a pious family; both François-Joseph and his older brother, Jean-Louis, became priests. François-Joseph studied at seminaries in Aix-en-Provence,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-September1.jpg"
 birthYear: 1759
@@ -16,10 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

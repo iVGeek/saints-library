@@ -1,7 +1,7 @@
 ---
 name: "Saint Gunthildis of Biblisheim"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Gunthildis of Biblisheim"
 summary: "Benedictine nun. First abbess of the Biblisheim Abbey in Alsace."
 searchAliases:
   - "Gonthildis"

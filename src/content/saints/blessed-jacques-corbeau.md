@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques Corbeau"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Jacques Corbeau"
 summary: "Premonstratensian canon at the Saint-Augustin monastery in Thérouanne, Pas-de-Calais, Nord-Pas-de-Calais, France. Chosen abbot of the house in 1603, where he served for his remaining 39 years, noted for his humility as a leader and charity to the poor. Near the end of his life, h"
 searchAliases:
   - "Jacob"
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

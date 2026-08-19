@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francesco Saverio Vincenzo Toppi"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Francesco Saverio Vincenzo Toppi"
 summary: "Member of the Order of Friars Minor Capuchin. Ordained a priest on 29 June 1948. Served as archbishop prelate of Pompei o Beatissima Vergine Maria del Santissimo Rosario, Italy from 13 October 1990 to 17 February 2001."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francesco-Saverio-Toppi.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

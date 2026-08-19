@@ -1,7 +1,7 @@
 ---
 name: "Saint Quadragesimus of Policastro"
 honorific: Saint
-title: "Monk, Deacon, Pope"
+title: "Saint Quadragesimus of Policastro"
 summary: "Shepherd. Deacon at Policastro, Salerno, Italy. According to Saint Gregory the Great, he raised a dead man to life."
 deathYear: 590
 died: "c.590 of natural causes"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-  - Pope
 martyr: false
 ---
 

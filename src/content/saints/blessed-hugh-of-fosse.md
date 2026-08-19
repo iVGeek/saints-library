@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hugh of Fosse"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Hugh of Fosse"
 summary: "Priest. Disciple of Saint Norbert, and succeeded him as superior general of the Premonstratensians. Under his leadership the Order grew to 120 houses."
 image: "http://catholicsaints.info/wp-content/uploads/Hugh-of-Fosse.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

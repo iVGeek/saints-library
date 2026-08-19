@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bogumilus of Gniezno"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Pope, Hermit, Royalty"
+title: "Blessed Bogumilus of Gniezno"
 summary: "Born to the Polish nobility, twin brother of Boguphalus. Studied in Paris, France. Priest. Served Holy Trinity parish in Dobrow, Poland, a church that he built himself. Chancellor of Gniezno, Poland. Had a great dedication to the Blessed Virgin Mary, and loved solitude. Archbisho"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bogumilus-of-Gniezno.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mariano Navarro Blasco"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Mariano Navarro Blasco"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jenaro"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zechariah"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Zechariah"
 summary: "Franciscan, accepted into the Order in Rome, Italy by Saint Francis of Assisi. Sent to Spain by Saint Francis to preach Christianity to the Moors. Used miracles to prove the Real Presence."
 searchAliases:
   - "Zaccaria"
@@ -12,8 +12,7 @@ feastDay:
   month: 5
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

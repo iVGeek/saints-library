@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marco Criado"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Marco Criado"
 summary: "Known as a clever and intelligent youth. Joined the Trinitarians in 1536. Studied in Andujar, Spain. Priest. Preacher in the areas of Almeria and Granada, both to Christian and Muslims. Martyred by Moors."
 image: "http://catholicsaints.info/wp-content/uploads/img-blessed-marco-criado.jpg"
 birthYear: 1522
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

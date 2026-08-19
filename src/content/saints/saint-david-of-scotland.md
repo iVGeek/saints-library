@@ -1,7 +1,7 @@
 ---
 name: "Saint David of Scotland"
 honorific: Saint
-title: "Royalty"
+title: "Saint David of Scotland"
 summary: "Youngest son of King Malcolm III Canmore and Saint Margaret of Scotland; brother of Saint Matilde in whose court he grew up and was educated. Prince of Cumbria in 1107. Married. Ascended to the throne of Scotland in 1124. Fought in the border wars with England, and in 1138 partic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-of-Scotland1.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 5
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

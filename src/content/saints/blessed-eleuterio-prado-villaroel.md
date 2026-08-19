@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eleuterio Prado Villaroel"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Eleuterio Prado Villaroel"
 summary: "Professed religious brother in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 martyr: true
 ---

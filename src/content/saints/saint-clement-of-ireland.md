@@ -1,7 +1,7 @@
 ---
 name: "Saint Clement of Ireland"
 honorific: Saint
-title: "Saint"
+title: "Saint Clement of Ireland"
 summary: "Clement and his companion Ailbe, arrived in Gaul in 772, and opened shop as teachers. Their fame spread, and Charlemagne sent for them to come to his court, where they stayed for several months. Ailbe was given direction of a monastery near Pavia, Italy. Clement stayed in France"
 searchAliases:
   - "Clemens Scotus"
@@ -16,8 +16,7 @@ feastDay:
   month: 3
   day: 20
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

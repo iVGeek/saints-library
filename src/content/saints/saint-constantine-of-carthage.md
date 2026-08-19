@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantine of Carthage"
 honorific: Saint
-title: "Martyr, Monk, Confessor"
+title: "Saint Constantine of Carthage"
 summary: "Confessor of the faith at Carthage. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Confessor of the faith at Carthage. No other information has survived.

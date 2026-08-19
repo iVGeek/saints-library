@@ -1,7 +1,7 @@
 ---
 name: "Blessed Laurentius Pak Chwi-deuk"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Laurentius Pak Chwi-deuk"
 summary: "Layman convert to Christianity in the apostolic vicariate of Korea. Zealous about his new found faith, he learned the catechism, then returned to his home village to try to convert his family and neighbors. When the anti-Christian Sinhae persecutions began in 1791, he protested t"
 searchAliases:
   - "Lorenzo Pak Chwi-deuk"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

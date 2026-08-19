@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Vives Missé"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Teresa Vives Missé"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

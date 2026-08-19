@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marguerite-Marie-Anne de Rocher"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Marguerite-Marie-Anne de Rocher"
 summary: "Ursuline nun. Martyred in the French Revolution. One of the Martyrs of Orange."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Radegonda"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Radegonda"
 summary: "Premonstratensian nun in the monastery of San Pablo de Sordillos in Burgos, Spain; the sisters there soon had to move to San Miguel de Villamayor de Treviño, Spain. After a pilgrimage to Rome, Italy, and possibly to the Holy Lands, Radegonda felt a need to live as a recluse. She"
 deathYear: 1156
 born: "Villamayor de Treviño, Burgos, Spain"

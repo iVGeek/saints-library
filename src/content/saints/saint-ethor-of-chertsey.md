@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethor of Chertsey"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Ethor of Chertsey"
 summary: "Benedictine monk and priest at Chertsey Abbey. Martyred with 90 of his brothers by pagan Danish raiders."
 searchAliases:
   - "Hethor"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Benedictine"

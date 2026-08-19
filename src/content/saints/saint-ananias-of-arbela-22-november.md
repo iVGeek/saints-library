@@ -1,7 +1,7 @@
 ---
 name: "Saint Ananias of Arbela"
 honorific: Saint
-title: "Martyr, Royalty"
+title: "Saint Ananias of Arbela"
 summary: "Imprisoned, tortured and martyred in the persecutions of king Shapur II."
 searchAliases:
   - "Ananias of Erbel"
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Royalty
+vocation: []
 martyr: true
 ---
 

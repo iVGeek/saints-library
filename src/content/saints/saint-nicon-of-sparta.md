@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicon of Sparta"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Nicon of Sparta"
 summary: "Born to a wealthy, land-owning family. Monk. Wandering preacher and evangelist, especially in Greece, calling everyone to repent (metanoete)."
 searchAliases:
   - "Nicon Metanoiete ( = repent)"

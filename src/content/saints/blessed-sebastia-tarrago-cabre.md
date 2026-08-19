@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastià Tarragó Cabré"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Sebastià Tarragó Cabré"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

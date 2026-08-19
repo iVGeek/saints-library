@@ -1,7 +1,7 @@
 ---
 name: "Saint Felice of Tubzak"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Felice of Tubzak"
 summary: "Bishop of Tibiuca. During the persecutions of Diocletian, Felice was ordered by Procurator Magniliano to burn his copies of the scriptures. Felice replied that he would rather be burned himself that burn the scriptures. Martyr."
 searchAliases:
   - "Felice of Carthage"
@@ -24,7 +24,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

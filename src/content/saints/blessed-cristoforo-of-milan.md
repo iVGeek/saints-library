@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cristoforo of Milan"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Cristoforo of Milan"
 summary: "Franciscan friar who lived for 40 years in the convent at Ciudad Rodrigo, Salamanca, Spain, known to his brothers and local people for his piety and severe penances."
 searchAliases:
   - "Cattanei"
@@ -16,8 +16,7 @@ feastDay:
   month: 4
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

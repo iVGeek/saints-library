@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Royalty"
+title: "Saint Maurus"
 summary: "Born to the nobility, the son of Equitius, a senator, and Giulia. Disciple of Saint Benedict of Nursia at age 12. Studied with Saint Placid. Deacon. Benedictine monk. Assisted Saint Benedict at Subiaco, Italy, and at Monte Cassino in 528. Founder and abbot of the abbey at Glanfeu"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Benedetto%2C_Mauro_e_Placido.jpg"
 searchAliases:
@@ -17,11 +17,9 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against cold"
@@ -49,7 +47,7 @@ patronage:
   - "Cesena"
   - "Monte Cassino Abbey"
   - "Susa, diocese of"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, the son of Equitius, a senator, and Giulia. Disciple of Saint Benedict of Nursia at age 12. Studied with Saint Placid. Deacon. Benedictine monk. Assisted Saint Benedict at Subiaco, Italy, and at Monte Cassino in 528. Founder and abbot of the abbey at Glanfeuil, France in 543; it was later renamed for him. Could heal by prayer, and there are multiple stories of him bringing the dead back to life. At the moment of the death of Saint Benedict, Maurus received a vision of his old teacher travelling a street that led to heaven.

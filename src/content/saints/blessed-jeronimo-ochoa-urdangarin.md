@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jerónimo Ochoa Urdangarín"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Jerónimo Ochoa Urdangarín"
 summary: "Joined Hospitallers of Saint John of God in 1921, making his solemn vows on 3 June 1923. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1936
@@ -14,10 +14,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

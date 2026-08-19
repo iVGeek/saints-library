@@ -1,7 +1,7 @@
 ---
 name: "Saint Archelaus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Archelaus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Archelao"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

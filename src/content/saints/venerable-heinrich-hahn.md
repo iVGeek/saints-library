@@ -1,7 +1,7 @@
 ---
 name: "Venerable Heinrich Hahn"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Heinrich Hahn"
 summary: "Married layman and father of ten children in the diocese of Aachen, Germany. Physician, politician. Helped found the Franziskus Xaverius Missionsverein."
 birthYear: 1800
 deathYear: 1882
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

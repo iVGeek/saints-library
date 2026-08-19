@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Rosa Molas y Vallvé"
 honorific: Venerable
-title: "Bishop, Religious, Pope, Royalty"
+title: "Saint Maria Rosa Molas y Vallvé"
 summary: "The daughter of Jose Molas and Maria Vallvé, Rosa was baptized at the age of one day. She joined the Daughters of Charity in 1841, taking the name Maria Rosa, worked in and then directed a girls' sewing school, served as superior, and worked in a hospital. With the help and suppo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Rosa-Molas-y-Vallve.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

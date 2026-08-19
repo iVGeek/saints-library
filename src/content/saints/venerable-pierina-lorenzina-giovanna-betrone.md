@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pierina Lorenzina Giovanna Betrone"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Pierina Lorenzina Giovanna Betrone"
 summary: "Capuchin Poor Clare nun."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Pierina-Lorenzina-Giovanna-Betrone.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Capuchin"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Yago"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Ioannes Yago"
 summary: "Layman sailor of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."
 deathYear: 1622
 born: "Korea"
@@ -13,9 +13,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Orbanus of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Orbanus of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

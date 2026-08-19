@@ -1,7 +1,7 @@
 ---
 name: "Saint Franciscus Ch'oe Kyong-Hwan"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Saint Franciscus Ch'oe Kyong-Hwan"
 summary: "Raised in a prosperous Christian family; his grandfather was an early convert, and brought his family into the faith. When the priests were all executed or kicked out of the country, the family began to be harassed by locals who were returning to paganism, and they moved to the c"
 image: "http://catholicsaints.info/wp-content/uploads/martyrs-of-South-Korea.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucien Galan"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Lucien Galan"
 summary: "Member of the Paris Foreign Missions Society. Priest. Missionary to China, working the Xichang, Sichuan area. Imprisoned for this work in November 1950, he was exiled and arrived in Hong Kong in January 1952. He was reassigned to a mountainous area of Laos in 1956; in February 19"
 searchAliases:
   - "Lucian"
@@ -18,8 +18,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

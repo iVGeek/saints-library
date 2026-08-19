@@ -1,7 +1,7 @@
 ---
 name: "Blessed István Sándor"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed István Sándor"
 summary: "Printer. Salesian lay brother in 1940. Led a group of young Catholic workers. Arrested in 1952 by the Hungarian Communist authorities in a crackdown during which all religous groups were outlawed; he received a show trial in October and was sentenced to death for bring actively C"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Istvan-Sandor.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

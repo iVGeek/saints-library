@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Vilna"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint John of Vilna"
 summary: "Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence."
 searchAliases:
   - "Milhey"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

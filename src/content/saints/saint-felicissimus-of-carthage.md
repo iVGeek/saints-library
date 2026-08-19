@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicissimus of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felicissimus of Carthage"
 summary: "Layman. Martyr."
 deathYear: 256
 died: "256 in Carthage in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

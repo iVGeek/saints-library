@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger James"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed Roger James"
 summary: "Sub-treasurer of, sacristan for and the youngest Benedictine monk in Glastonbury Abbey. Arrested for refusing to acknowledge King Henry VIII as head of the Church. Martyr."
 deathYear: 1539
 born: "England"
@@ -13,10 +13,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

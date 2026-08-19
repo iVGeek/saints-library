@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Bologna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Bologna"
 summary: "Martyr, date and location unknown."
 died: "relics enshrined in churches in Bologna and Rome in Italy"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Simon-Marie-Just Ranfer de Bretenières"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope"
+title: "Saint Simon-Marie-Just Ranfer de Bretenières"
 summary: "Born to the nobility, he was well educated, and earned a degree in Lyon, France in 1856. Simon entered the Sulpician seminary in Paris, France in 1859. He joined the Paris Foreign Missions Society, and began studying at their seminary on 25 July 1861. Ordained on 21 May 1864. Ass"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simon-Marie-Just-Ranfer-de-Bretenières.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Sulpician"
 martyr: true
 ---

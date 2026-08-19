@@ -1,7 +1,7 @@
 ---
 name: "Venerable Aurora Calvo Hernández-Agero"
 honorific: Venerable
-title: "Priest, Pope, Royalty, Missionary"
+title: "Venerable Aurora Calvo Hernández-Agero"
 summary: "Raised in deeply religious family, Aurora was educated at the Collegio della Religiose della Sacra Famiglia di Béjar (College of Religious of the Holy Family of Béjar), and was close to her older brother Ramón, who became a Jesuit missionary priest in Cuba and Puerto Rico. Aurora"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Aurora-Calvo-Hernandez-Agero.jpg"
 birthYear: 1901
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

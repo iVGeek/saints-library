@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertula of Gerona"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tertula of Gerona"
 summary: "Two Christians with this name martyred together. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

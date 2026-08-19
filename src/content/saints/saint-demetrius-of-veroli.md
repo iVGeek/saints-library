@@ -1,7 +1,7 @@
 ---
 name: "Saint Demetrius of Veroli"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Demetrius of Veroli"
 summary: "Martyr."
 died: "at Veroli, Italy"
 deathPlace: "Italy"
@@ -11,10 +11,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Antonio Pérez Mayo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Blessed Juan Antonio Pérez Mayo"
 summary: "One of seven children born to Modesto Pérez and Beatriz Mayo; his was a pious family, and Juan was baptized on 23 March 1908. Member of the Tarsicios, a religious association for children; at age 14 he started doing over-night Eucharistic adoration and started talking about becom"
 birthYear: 1907
 born: "19 November 1907 in Santa Marina del Rey, diocese of Astorga, León, Spain"
@@ -12,10 +12,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

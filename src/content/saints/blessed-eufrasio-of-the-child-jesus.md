@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eufrasio of the Child Jesus"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Eufrasio of the Child Jesus"
 summary: "Discalced Carmelite priest. Murdered in the religious persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-of-the-Child-Jesus.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
-martyr: true
+martyr: false
 ---
 
 Discalced Carmelite priest. Murdered in the religious persecutions of the Spanish Civil War.

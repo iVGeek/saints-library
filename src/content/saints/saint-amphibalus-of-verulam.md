@@ -1,7 +1,7 @@
 ---
 name: "Saint Amphibalus of Verulam"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Amphibalus of Verulam"
 summary: "Cleric. Friend and co-worker with Saint Alban of Verulam. Marytred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amphibalus-of-Verulam.jpg"
 deathYear: 304
@@ -12,10 +12,8 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Cleric. Friend and co-worker with Saint Alban of Verulam. Marytred in the persecutions of Diocletian.

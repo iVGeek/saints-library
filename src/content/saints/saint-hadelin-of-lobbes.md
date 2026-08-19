@@ -1,7 +1,7 @@
 ---
 name: "Saint Hadelin of Lobbes"
 honorific: Saint
-title: "Monk"
+title: "Saint Hadelin of Lobbes"
 summary: "Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Domitian of Lobbes."
 searchAliases:
   - "Hadelinus of Lobbes"

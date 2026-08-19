@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matías Manuel Albert Ginés"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Matías Manuel Albert Ginés"
 summary: "Studied at the preceptory of Andorra in 1882, then the seminary in Zaragoza, Spain. Ordained in the diocese of Zaragoza in early June 1891. Member of the Dominicans. Noted for his charity to his parishioners, and his ministery to sick priests. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matías-Manuel-Albert-Ginés.jpg"
 birthYear: 1867
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

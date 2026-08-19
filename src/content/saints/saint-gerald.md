@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerald of Mayo"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious"
+title: "Saint Gerald of Mayo"
 summary: "Monk at Lindisfarne, England. Friend of Saint Colman of Lindesfarne. Monk at Innisboffin, Ireland in 668. Abbot at Mayo of the Saxons abbey in 670, a house for English monks in Ireland; he there served until 697 when he resigned in favour of Saint Adamnan. Saw the supplanting of"
 deathYear: 731
 born: "Northumbria, England"

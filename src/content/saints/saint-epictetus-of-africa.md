@@ -1,7 +1,7 @@
 ---
 name: "Saint Epictetus of Africa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Epictetus of Africa"
 summary: "Bishop. Martyred in the persecutions of Decius with 21 other Christians. No other information has survived."
 searchAliases:
   - "Epitteto"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

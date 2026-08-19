@@ -1,7 +1,7 @@
 ---
 name: "Saint Cogitosus"
 honorific: Saint
-title: "Monk"
+title: "Saint Cogitosus"
 summary: "Eighth-century monk at Kildare, Ireland. Wrote a biography of Saint Brigid."
 region: "Ireland"
 feastDay:

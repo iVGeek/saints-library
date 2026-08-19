@@ -1,7 +1,7 @@
 ---
 name: "Saint Tanca"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Tanca"
 summary: "Young girl martyed defending her virginity."
 deathYear: 637
 died: "c.637 near Troyes, France"
@@ -12,12 +12,11 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 patronage:
   - "against hemorrhages"
-martyr: true
+martyr: false
 ---
 
 Young girl martyed defending her virginity.

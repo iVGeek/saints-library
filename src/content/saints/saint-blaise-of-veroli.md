@@ -1,7 +1,7 @@
 ---
 name: "Saint Blaise of Veroli"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Blaise of Veroli"
 summary: "Martyr."
 searchAliases:
   - "Blasius"
@@ -13,10 +13,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 martyr: true
 ---
 

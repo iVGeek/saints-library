@@ -1,7 +1,7 @@
 ---
 name: "Saint Memmius of Châlons-sur-Marne"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Memmius of Châlons-sur-Marne"
 summary: "First bishop of Châlons-sur-Marne, France, serving in the latter 3rd century. Saint Gregory of Tours wrote about Memmius as a miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Memmius-of-Châlons-sur-Marne.jpg"
 searchAliases:

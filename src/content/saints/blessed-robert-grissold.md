@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Grissold"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Robert Grissold"
 summary: "Lifelong layman in the apostolic vicariate of England. Martyr."
 birthYear: 1575
 deathYear: 1604
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Robert_Grissold_1_b.jpg"
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

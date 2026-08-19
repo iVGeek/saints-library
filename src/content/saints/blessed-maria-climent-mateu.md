@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Climent Mateu"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed María Climent Mateu"
 summary: "Lay woman in the archdiocese of Valencia, Spain, she was baptized on the day of her birth at her parish church of Saint Tecla. Educated by the Dominican Sisters in Valencia, Spain. Singer, musician and loved to work on embroidery. Secretary of the Catholic Women's Trade Union. Me"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Climent-Mateu.jpg"
 birthYear: 1887
@@ -16,10 +16,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

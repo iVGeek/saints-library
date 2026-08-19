@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martín Martínez Pascual"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Martín Martínez Pascual"
 summary: "Son of Martín Martínez Callao, a carpenter, and Francisca Pascual Amposta; Martin was baptized at the age of one day. He was a religious child. He joined the Diocesan Laborer Priests of the Sacred Heart of Jesus in 1934 while in seminary in the diocese of Zaragoza, Spain. Priest,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Martín-Martínez-Pascual.jpg"
 birthYear: 1910
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

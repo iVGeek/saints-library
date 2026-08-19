@@ -1,7 +1,7 @@
 ---
 name: "Saint Abdo of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abdo of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Abseodus"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

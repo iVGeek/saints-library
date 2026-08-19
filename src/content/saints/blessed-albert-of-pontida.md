@@ -1,7 +1,7 @@
 ---
 name: "Blessed Albert of Pontida"
 honorific: Blessed
-title: "Monk, Soldier"
+title: "Blessed Albert of Pontida"
 summary: "Born to the Italian nobility. Soldier in the army of Bergamo, Italy. Severely wounded in battle, he made the common offer to enter religious life if he was healed. Albert recovered, made a pilgrimage to Santiago de Compostella, became a Benedictine monk, and c.1079, he returned t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Albert-of-Pontida.jpg"
 searchAliases:

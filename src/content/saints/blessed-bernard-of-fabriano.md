@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard of Fabriano"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Bernard of Fabriano"
 summary: "Franciscan friar noted for his piety and the depth of his prayer and meditative life."
 deathYear: 1421
 died: "c.1421 in Camerino, Italy on the date he had previously predicted"
@@ -11,8 +11,7 @@ feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

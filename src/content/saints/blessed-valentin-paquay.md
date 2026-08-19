@@ -1,7 +1,7 @@
 ---
 name: "Blessed Valentin Paquay"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Confessor"
+title: "Blessed Valentin Paquay"
 summary: "The fifth of eleven children born to Hendrik Paquay and Anne Neven, a pious couple who raised all their children to have a strong connection to the Church. Louis studied literature at the College in Tongres. He entered Saint Trond Seminary in 1845. When his father died unexpected"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Valentin-Paquay.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 martyr: false

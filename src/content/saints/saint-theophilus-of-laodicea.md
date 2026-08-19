@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus of Laodicea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Theophilus of Laodicea"
 summary: "Martyr."
 searchAliases:
   - "Theophilos"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

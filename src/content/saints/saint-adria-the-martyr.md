@@ -1,7 +1,7 @@
 ---
 name: "Saint Adria the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Adria the Martyr"
 summary: "Martyred in the persecutions of Valerian."
 searchAliases:
   - "Adrias"
@@ -14,7 +14,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

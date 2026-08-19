@@ -1,7 +1,7 @@
 ---
 name: "Saint Bartholomew of Rossano"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Bartholomew of Rossano"
 summary: "Son of Greek immigrants to Italy. Spiritual student of Saint Nilus of Rossano. Monk at the monastery of Grottaferrata, Frascati, Italy, a house with Greek Rites and Basilian Rule. Abbot at Grottaferrata for forty years, completing the construction and other work started by Nilus,"
 image: "http://catholicsaints.info/wp-content/uploads/img-San-Bartolomeo-da-Rossano.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

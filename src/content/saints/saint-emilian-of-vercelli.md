@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilian of Vercelli"
 honorific: Saint
-title: "Bishop, Monk, Pope, Hermit"
+title: "Saint Emilian of Vercelli"
 summary: "Lived as a hermit for 40 years. Bishop of Vercelli, Italy. Attended three synods held in Rome, Italy by Pope Saint Symmachus. Lived to be over 100."
 searchAliases:
   - "Aemilian of Vercelli"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

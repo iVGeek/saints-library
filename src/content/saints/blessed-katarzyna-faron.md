@@ -1,7 +1,7 @@
 ---
 name: "Blessed Katarzyna Faron"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Katarzyna Faron"
 summary: "Orphaned at age five, Katarzyna was raised by childless relatives. Entered the Congregation of the Sisters Servants of Mary Immaculate in 1930, taking the name Celestyna and making pertual vows on 15 September 1938. Catechist and kindergarten teacher. During World War II she ran"
 image: "http://catholicsaints.info/wp-content/uploads/Katarzyna-Faron.jpg"
 searchAliases:
@@ -21,10 +21,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

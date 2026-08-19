@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angelina di Marsciano"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Angelina di Marsciano"
 summary: "Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her mother died when Angelina was 12. Given in an arranged marriage at age 15 to the Duke of Civitella, Giovanni da Terni, who agreed to honour the girl's private vow o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelina-di-Marsciano.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Franciscan Sisters of the Third Order Regular"

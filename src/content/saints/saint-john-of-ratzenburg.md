@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Ratzenburg"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint John of Ratzenburg"
 summary: "Missionary to Germany. Bishop of Ratzenburg, Germany. Evangelized the Baltic Coast. Martyred by local pagans."
 searchAliases:
   - "John of Saxony"
@@ -15,7 +15,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

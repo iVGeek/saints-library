@@ -1,7 +1,7 @@
 ---
 name: "Blessed Belengerius of Montauto"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Belengerius of Montauto"
 summary: "Born to the Italian nobility, a member of the Conti da Montauto family. Franciscan tertiary at the convent of Genoa, Italy. Known for his personal piety and holiness, and for a life of constant prayer."
 searchAliases:
   - "Belengerio"
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Pavia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Peter of Pavia"
 summary: "Bishop of Pavia, Italy."
 deathYear: 735
 born: "Lombardy (in modern Italy)"
@@ -12,10 +12,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Pavia, Italy.

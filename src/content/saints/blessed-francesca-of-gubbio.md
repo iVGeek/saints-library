@@ -1,14 +1,13 @@
 ---
 name: "Blessed Francesca of Gubbio"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Francesca of Gubbio"
 summary: "Franciscan tertiary."
 feastDay:
   month: 2
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

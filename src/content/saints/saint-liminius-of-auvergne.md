@@ -1,7 +1,7 @@
 ---
 name: "Saint Liminius of Auvergne"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Confessor"
+title: "Saint Liminius of Auvergne"
 summary: "Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their invasion of the Auvergne region of Gaul. Saint Gregory of Tours wrote about him in his history of the time."
 searchAliases:
   - "Limin"
@@ -18,7 +18,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Confessor

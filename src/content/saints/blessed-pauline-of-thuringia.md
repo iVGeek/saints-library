@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pauline of Thuringia"
 honorific: Blessed
-title: "Martyr, Religious, Soldier"
+title: "Blessed Pauline of Thuringia"
 summary: "Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a double monastery in the Thuringian Forest and entered it as a nun."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pauline-of-Thuringia.jpg"
 searchAliases:
@@ -20,10 +20,9 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a double monastery in the Thuringian Forest and entered it as a nun.

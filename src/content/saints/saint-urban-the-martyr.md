@@ -1,7 +1,7 @@
 ---
 name: "Saint Urban the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Urban the Martyr"
 summary: "Student of Saint Babylas. Martyr."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Melitina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Melitina"
 summary: "Christian woman in a time persecution by emperor Antoninus Pius and governor Antiochus, she was twice taken into pagan temples and ordered to make sacrfices to idols; the idols would topple over. Her captors gave up, tortured and then executed her. Martyr."
 died: "beheaded in the 2nd century at Marcianopolis, Thrace (in modern Greece)"
 deathPlace: "Thrace (modern Greece)"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Lemnos, Greece"

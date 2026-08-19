@@ -26,7 +26,6 @@ canonizationStatus: Saint
 canonizedDate: 1 November 1610
 vocation:
   - Bishop
-  - Doctor
   - Founder
 patronage:
   - priests

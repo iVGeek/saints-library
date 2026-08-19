@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuthbert Mayne"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Missionary"
+title: "Saint Cuthbert Mayne"
 summary: "Raised a Protestant by his uncle, a schimastic priest. Ordained as a Anglican minister at age 19. Friend of Saint Edmund Campion. He converted to Catholicism in 1570 while a student at Saint John's College, Oxford. Studied and ordained at Douai, France, the first Englishman train"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Cuthbert_Mayne_2a.JPG"
 birthYear: 1544
@@ -16,8 +16,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

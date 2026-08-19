@@ -1,7 +1,7 @@
 ---
 name: "Saint Clarus of Aquitaine"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Clarus of Aquitaine"
 summary: "Priest who emigrated from north Africa to Italy in the late 1st century, was consecrated as a bishop, and became a travelling preacher in the Aquitaine region. Bishop of Albi, France for three years. While preaching in Lactoræ, Novempopulania, Chiaro was ordered to honour an idol"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Chiaro-of-Albi.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 patronage:

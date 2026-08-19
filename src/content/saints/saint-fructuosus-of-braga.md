@@ -1,7 +1,7 @@
 ---
 name: "Saint Fructuosus of Braga"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Soldier, Confessor"
+title: "Saint Fructuosus of Braga"
 summary: "Son of a Gothic general, and member of a noble military family. Studied at the seminary in Palencia. From an early age, Fructuosus felt a call to the religious life. Orphaned when young. When he came of age, Fructuosus gave away his family fortune to the poor, bought the freedom"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sao_Frutuoso.JPG/960px-Sao_Frutuoso.JPG"
 deathYear: 665

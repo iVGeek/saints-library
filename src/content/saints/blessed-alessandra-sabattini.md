@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alessandra Sabattini"
 honorific: Blessed
-title: "Pope, Cardinal, Royalty"
+title: "Blessed Alessandra Sabattini"
 summary: "A lifelong lay woman in the diocese of Rimini, Italy, she was the daughter of Giuseppi and Agnese Bonin Sabattini and had one brother. A pious girl, Alessandra made her First Communion on 3 May 1970, was Confirmed on 16 April 1972, and joined the Associazione Comunita Papal Giova"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sandra_Sabattini.jpg/330px-Sandra_Sabattini.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

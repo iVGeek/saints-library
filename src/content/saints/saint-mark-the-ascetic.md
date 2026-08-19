@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark the Ascetic"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Mark the Ascetic"
 summary: "Fifth century monk. May have been a disciple of Saint John Chrysostom, and friend of Saint Nilus the Ascetic, but it's questionable. Wrote over 200 texts on spiritual law, baptism, repentance, grace and holy works, and other topics. May have been the abbot at Ancyra, but later be"
 searchAliases:
   - "Mark the Wrestler"
@@ -14,7 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

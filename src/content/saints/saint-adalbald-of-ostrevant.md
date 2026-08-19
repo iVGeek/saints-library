@@ -1,7 +1,7 @@
 ---
 name: "Saint Adalbald of Ostrevant"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty, Soldier"
+title: "Saint Adalbald of Ostrevant"
 summary: "Born to the nobility of Flanders, Belgium. Son of Saint Gertrude the Elder. Duke of Douai, France. Served in the courts of King Dagobert I and King Clovis II. While suppressing a rebellion in Gascony, he met and married Saint Rictrude of Marchiennes, daughter of Ernold. Though th"
 searchAliases:
   - "Adalbald d'Ostrevant"
@@ -21,14 +21,12 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
   - Soldier
 patronage:
   - "parents of large families"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility of Flanders, Belgium. Son of Saint Gertrude the Elder. Duke of Douai, France. Served in the courts of King Dagobert I and King Clovis II. While suppressing a rebellion in Gascony, he met and married Saint Rictrude of Marchiennes, daughter of Ernold. Though they were happy together, they fought constant opposition from her family who opposed his military incursion in their region. Father of Saint Maurontius of Douai, Saint Clotsindis of Marchiennes, Saint Eusebia of Hamage, and Saint Adalsindis. Adalbald and Rictrudis dedicated themselves and their fortunes to religious projects and care of the poor.

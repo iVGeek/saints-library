@@ -1,7 +1,7 @@
 ---
 name: "Saint Rosa Chen Aijieh"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Rosa Chen Aijieh"
 summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Rosa-Chen-Aijieh.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 7
   day: 5
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

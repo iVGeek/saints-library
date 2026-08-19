@@ -1,7 +1,7 @@
 ---
 name: "Blessed Douceline of Digne"
 honorific: Blessed
-title: "Virgin, Bishop, Religious"
+title: "Blessed Douceline of Digne"
 summary: "Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety and charity. Following the death of her parents, she moved to Hyères, France, and was drawn to the spirituality of the Franciscans who had recently moved into th"
 searchAliases:
   - "Douceline of Hyères"

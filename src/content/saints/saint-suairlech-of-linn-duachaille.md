@@ -1,7 +1,7 @@
 ---
 name: "Saint Súairlech of Linn Duachaille"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Súairlech of Linn Duachaille"
 summary: "Monk. Abbot of Linn Duachaille."
 searchAliases:
   - "Soairlech"
@@ -15,9 +15,8 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Abbot of Linn Duachaille.

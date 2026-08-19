@@ -1,7 +1,7 @@
 ---
 name: "Saint Urban"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Urban"
 summary: "First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans. Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr."
 died: "relics at Constantinople"
 region: "Greece"
@@ -10,7 +10,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

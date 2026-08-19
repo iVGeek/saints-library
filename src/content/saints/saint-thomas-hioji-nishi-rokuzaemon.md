@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas Hioji Nishi Rokuzaemon"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Thomas Hioji Nishi Rokuzaemon"
 summary: "Dominican missionary priest, first Formosa and then Japan. Tortured and martyred in the persecutions of Tokugawa Yemitsu."
 searchAliases:
   - "Father Thomas of Saint Hyacinth"
@@ -17,9 +17,7 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

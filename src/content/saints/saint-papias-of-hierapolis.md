@@ -1,7 +1,7 @@
 ---
 name: "Saint Papias of Hierapolis"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Papias of Hierapolis"
 summary: "Second century Apostolic Father. Friend of Saint Polycarp of Smyrna. Bishop of Hierapolis, Phrygia (in modern Turkey). Author of lengthy commentaries on the life, teaching, and works of Jesus; they survive only in fragments."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png"
 searchAliases:

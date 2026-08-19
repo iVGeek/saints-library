@@ -1,7 +1,7 @@
 ---
 name: "Blessed Kaspar Stanggassinger"
 honorific: Blessed
-title: "Priest, Pope, Missionary"
+title: "Blessed Kaspar Stanggassinger"
 summary: "The second of sixteen children born to Kaspar Stanggassiner and Crescencia Hamberger, the boy was baptized on the day he was born. Kaspar entered the junior seminary of Freising, Germany at age 10, and at the age of 16 made personal vows of chastity. A Marian pilgrimage in the su"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Kaspar_Stanggassinger_%281871-1899%29.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Redemptorist"
 martyr: false

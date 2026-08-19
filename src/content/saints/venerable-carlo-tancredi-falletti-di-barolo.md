@@ -1,7 +1,7 @@
 ---
 name: "Venerable Carlo Tancredi Falletti di Barolo"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Carlo Tancredi Falletti di Barolo"
 summary: "Son of Ottavio Alessandro Falletti, the Marquess of Barolo, and Paolina d'Oncieu; he was the last descendant of the noble Falletti family. Carlo met Venerable Giulia Colbert while serving at the court of Napoleon I, and they were married in Paris, France on 18 August 1807. Made a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ritratto_di_Carlo_Tancredi_Falletti_di_Barolo.png/960px-Ritratto_di_Carlo_Tancredi_Falletti_di_Barolo.png"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

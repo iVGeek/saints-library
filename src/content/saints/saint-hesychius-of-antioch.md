@@ -1,7 +1,7 @@
 ---
 name: "Saint Hesychius of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Hesychius of Antioch"
 summary: "Imperial Roman soldier during a period of persecution. Suddenly moved to proclaim his faith, he threw off his military belt and announced himself a Christian. He was promptly executed. Martyr."
 searchAliases:
   - "Esichio"
@@ -14,7 +14,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

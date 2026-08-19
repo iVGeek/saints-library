@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Insa Celma"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Lorenzo Insa Celma"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

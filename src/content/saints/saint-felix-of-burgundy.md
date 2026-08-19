@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Burgundy"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Felix of Burgundy"
 summary: "Monk. Priest. Met, befriended, converted and baptised King Sigebert who was in exile from East Anglia. When Sigebert returned to East Anglia in 630, he invited Felix to bring Christianity to his people. Felix was ordained bishop by Saint Honoratus of Canterbury, and then sailed u"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Felix_of_Burgundy.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "East Anglia, England"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Albert of Tournai"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Albert of Tournai"
 summary: "A pious youth, Albert received a good education in the faith from his parents, and preferred to spend his time alone and in prayer. One day he heard a travelling musician sing a hymn about the holy hermit Theobald of Provins, and was immediately taken with the idea of a life of p"
 searchAliases:
   - "Albert of Crespin"

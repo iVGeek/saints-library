@@ -1,7 +1,7 @@
 ---
 name: "Saint Modestus of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Modestus of Carthage"
 summary: "Martyr. No other information has survived."
 deathYear: 160
 died: "c.160 at Carthage"
@@ -11,7 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Cartagena, Spain"

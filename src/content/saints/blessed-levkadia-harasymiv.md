@@ -1,7 +1,7 @@
 ---
 name: "Blessed Levkadia Harasymiv"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Levkadia Harasymiv"
 summary: "Greek Catholic. Entered the Sisters of Saint Joseph in 1931, taking her vows in 1933. Arrested for her faith by the NKVD in 1951, and sent to Borislav (in the modern Czech Republic), then exiled to Tomsk, Siberia. She contracted tuberculosis, and was relocated to Kharsk, Siberia"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Levkadia-Harasymiv.jpg"
 searchAliases:
@@ -23,10 +23,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

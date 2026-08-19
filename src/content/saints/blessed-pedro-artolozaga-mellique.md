@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Artolozaga Mellique"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pedro Artolozaga Mellique"
 summary: "Pedro studied at the Salesians of Don Bosco college in Santander, Spain, and joined the Order himself in 1926; he made his solemn profession in 1931. He was assigned to the María Auxiliadora school in Salamanca, Spain in 1933, and while teaching, he continued his studies for the"
 searchAliases:
   - "Pietro Artolozaga Mellique"
@@ -17,9 +17,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

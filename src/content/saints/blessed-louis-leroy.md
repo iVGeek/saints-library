@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louis Leroy"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Louis Leroy"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."
 birthYear: 1923
 deathYear: 1961
@@ -16,9 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/2/27/M_Louis_Leroy_%28photographie_%28...%29Atelier_Nadar_btv1b53081569f_%28cropped%29.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

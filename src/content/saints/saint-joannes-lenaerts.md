@@ -1,7 +1,7 @@
 ---
 name: "Saint Joannes Lenaerts"
 honorific: Saint
-title: "Martyr, Religious, Pope, Confessor"
+title: "Saint Joannes Lenaerts"
 summary: "Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands. One of the Gorkum Martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Confessor
 religiousOrder: "Augustinian"
 martyr: true

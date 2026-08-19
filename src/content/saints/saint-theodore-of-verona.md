@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Verona"
 honorific: Saint
-title: "Martyr, Virgin, Bishop"
+title: "Saint Theodore of Verona"
 summary: "Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the area."
 searchAliases:
   - "Teodoro"
@@ -13,10 +13,9 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the area.

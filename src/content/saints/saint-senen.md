@@ -1,7 +1,7 @@
 ---
 name: "Saint Senen"
 honorific: Saint
-title: "Martyr, Priest, Monk, Cardinal"
+title: "Saint Senen"
 summary: "Cooper. With Saint Abdon, he befriended Christians persecuted under Diocletian. Tortured and executed when they were found collecting the remains of martyrs in order to give them a respectable burial. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Atrium_Senen_Plaza.jpg/960px-Atrium_Senen_Plaza.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Cardinal

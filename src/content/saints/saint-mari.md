@@ -1,7 +1,7 @@
 ---
 name: "Saint Mari"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Mari"
 summary: "Converted by and spiritual student of Saint Addai. Missionary around Nisibis, Nineveh, and along the Euphrates. Won many converts, destroyed pagan temples, and built churches, monasteries and convents. Known as one of the great apostles to Syria and Persia."
 died: "2nd century near Seleucia-Ctesiphion"
 region: "Syria"

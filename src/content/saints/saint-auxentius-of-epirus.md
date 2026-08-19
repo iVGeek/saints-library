@@ -1,7 +1,7 @@
 ---
 name: "Saint Auxentius of Epirus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Auxentius of Epirus"
 summary: "A furrier in Constantinople by trade. He joined the Turkish navy, but was forced to jump ship and return to Constantinople when he was accused of having been a Muslim who had renounced that faith. There he worked on a small fishing boat until the day he was spotted by some of the"
 birthYear: 1690
 deathYear: 1720
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

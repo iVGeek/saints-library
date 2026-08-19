@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Civit Timoneda"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Civit Timoneda"
 summary: "Priest of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

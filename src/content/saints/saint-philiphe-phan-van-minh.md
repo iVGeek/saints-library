@@ -1,7 +1,7 @@
 ---
 name: "Saint Philiphê Phan Van Minh"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Philiphê Phan Van Minh"
 summary: "Priest in the the apostolic vicariate of West Cochinchina (in modern Vietnam). Member of the Paris Society for Foreign Missions. Martyred in the persecutions of Emperor Tu-Duc."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Philiphe-Phan-Van-Minh.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

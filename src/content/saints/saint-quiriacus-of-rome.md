@@ -1,7 +1,7 @@
 ---
 name: "Saint Quiriacus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quiriacus of Rome"
 summary: "Martyr."
 deathYear: 304
 died: "c.304 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

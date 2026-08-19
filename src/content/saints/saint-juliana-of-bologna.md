@@ -1,7 +1,7 @@
 ---
 name: "Saint Juliana of Bologna"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Juliana of Bologna"
 summary: "Pious, married laywoman. Her husand, with her blessing, left her to become a priest. She raised four children alone, and then devoted herself to the Church and service to the poor. Widow. Saint Ambrose of Milan wrote glowingly of her."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Juliana-of-Bologna.jpg"
 searchAliases:
@@ -18,10 +18,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Pious, married laywoman. Her husand, with her blessing, left her to become a priest. She raised four children alone, and then devoted herself to the Church and service to the poor. Widow. Saint Ambrose of Milan wrote glowingly of her.

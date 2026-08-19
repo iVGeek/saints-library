@@ -1,7 +1,7 @@
 ---
 name: "Saint Harlindis of Arland"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Harlindis of Arland"
 summary: "Daughter of Count Arland. Sister of Saint Belindis. Nun. Helped found an abbey in Belgium, and served as its first abbess. Corresponded for many years with Saint Boniface and Saint Willibrord of Echternach."
 deathYear: 745
 died: "745 of natural causes"

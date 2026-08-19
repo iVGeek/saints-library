@@ -1,7 +1,7 @@
 ---
 name: "Saint Nonno of Porto Romano"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nonno of Porto Romano"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 deathYear: 180
 died: "c.180 at Porto Romano, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

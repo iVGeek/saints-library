@@ -1,7 +1,7 @@
 ---
 name: "Saint Famianus of Compostela"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Famianus of Compostela"
 summary: "Born to a wealthy family, he received minor orders at age 18, and planned for the priesthood. He began to despair of the worldliness of everyone around him, so he gave away his property to the poor and became a pilgrim to Rome, the Holy Lands, and Compostela, Spain where he arriv"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Stift_Heiligenkreuz_2432.JPG/960px-Stift_Heiligenkreuz_2432.JPG"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Potentino of Karden"
 honorific: Saint
-title: "Pope, Hermit"
+title: "Saint Potentino of Karden"
 summary: "Son of Saint Felicio; brother of Saint Simplicio. Pilgrim to various European holy places. Hermit at Karden (modern Treis-Karden, Germany)."
 deathYear: 930
 born: "Aquitaine (in modern France)"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Hermit
 martyr: false
 ---

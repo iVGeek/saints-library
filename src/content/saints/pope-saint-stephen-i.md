@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Stephen I"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Pope, Royalty"
+title: "Pope Saint Stephen I"
 summary: "Son of Jovius; little else known of his early life. Archdeacon under Pope Lucius I. Elected 23rd pope in 254. Explicitly proclaimed the primacy of the diocese of Rome in matters of theology, and the current understanding of Christ's statement to Saint Peter: “You are Peter, and u"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg/960px-Head_of_Pope_Saint_Stephen_I_-_Speyer_Cathedral_-_Speyer_-_Germany_2017.jpg"
 deathYear: 257
@@ -13,8 +13,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
 patronage:

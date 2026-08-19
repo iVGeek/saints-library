@@ -1,7 +1,7 @@
 ---
 name: "Saint Gistaldo"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gistaldo"
 summary: "Son of Saint Sigismund of Burgundy. With his parents, he was captured and murdered by invading Franks in 523. Martyr."
 searchAliases:
   - "Giselades"
@@ -15,8 +15,7 @@ feastDay:
   month: 5
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

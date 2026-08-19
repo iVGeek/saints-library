@@ -1,7 +1,7 @@
 ---
 name: "Saint Talaleo of Egea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Talaleo of Egea"
 summary: "Physician. Imprisoned, tortured and martyred in the persecutions of Numerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Talaleo-of-Egea.jpg"
 searchAliases:
@@ -19,8 +19,7 @@ feastDay:
   month: 5
   day: 20
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

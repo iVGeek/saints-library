@@ -1,7 +1,7 @@
 ---
 name: "Saint Doroteo of Nicomedia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Doroteo of Nicomedia"
 summary: "Clerk in the house of emperor Diocletian. He was exposed as a Christian when he objected to the torture of fellow servant and Catholic, Saint Peter of Nicomedia. This led to his own arrest, torture and execution. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Doroteo-of-Nicomedia.jpg"
 searchAliases:
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 12
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

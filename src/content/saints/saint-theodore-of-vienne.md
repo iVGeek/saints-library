@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Vienne"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Theodore of Vienne"
 summary: "Priest. Monk. Spiritual student of Saint Caesarius of Arles. Abbot of a monastery in Vienne, France. Founded several monasteries in the region. In late life he lived as a hermit in the church of Saint Laurence in Vienne."
 searchAliases:
   - "Theudar"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Makarios of Laodicea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Makarios of Laodicea"
 summary: "Martyr."
 searchAliases:
   - "Macarios"
@@ -13,8 +13,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

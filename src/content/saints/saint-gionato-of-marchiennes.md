@@ -1,7 +1,7 @@
 ---
 name: "Saint Gionato of Marchiennes"
 honorific: Saint
-title: "Monk"
+title: "Saint Gionato of Marchiennes"
 summary: "Monk. Spiritual student of Saint Amand of Maastricht. On Amand's recommendation, Gionato was chosen abbot of Marchiennes Abbey. During his time there it became a double monastery, and he worked with Saint Richrudis."
 searchAliases:
   - "Giona"

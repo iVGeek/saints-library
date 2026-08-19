@@ -1,7 +1,7 @@
 ---
 name: "Saint Cistronius"
 honorific: Saint
-title: "Confessor"
+title: "Saint Cistronius"
 summary: "6th century confessor of the faith. No details about his life have survived."
 searchAliases:
   - "Cistron"

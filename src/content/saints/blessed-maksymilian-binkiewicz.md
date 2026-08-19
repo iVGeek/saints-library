@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maksymilian Binkiewicz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Maksymilian Binkiewicz"
 summary: "Maksymilian studied at the seminary in Czestochowa, Krakow, Poland, and then at the Jagiellonian University. He was ordained a priest in the archdiocese of Czestochowa in 1931. Prefect of a diocesan school in Wielun. Known as extremely intelligent, pious and comfortable in social"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maksymilian-Binkiewicz.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Maksymilian studied at the seminary in Czestochowa, Krakow, Poland, and then at the Jagiellonian University. He was ordained a priest in the archdiocese of Czestochowa in 1931. Prefect of a diocesan school in Wielun. Known as extremely intelligent, pious and comfortable in social situations. Arrested on 6 October 1941 and deported from occupied Poland to the Dachau concentration camp where he was imprisoned and tortured to death for his faith.

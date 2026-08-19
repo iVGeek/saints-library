@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dionís Domínguez Martínez"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Dionís Domínguez Martínez"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Domènec Ciríac"
@@ -17,9 +17,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

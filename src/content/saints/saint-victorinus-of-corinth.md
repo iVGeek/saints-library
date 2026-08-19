@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Corinth"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victorinus of Corinth"
 summary: "Arrested, tortured, and murdered with a group of fellow Christians during the persecutions of Valerian."
 born: "Greek"
 died: "thrown to wild animals"
@@ -11,9 +11,8 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Arrested, tortured, and murdered with a group of fellow Christians during the persecutions of Valerian.

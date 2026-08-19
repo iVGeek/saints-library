@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zofia Czeska-Maciejowska"
 honorific: Blessed
-title: "Virgin, Religious, Pope, Cardinal"
+title: "Blessed Zofia Czeska-Maciejowska"
 summary: "Married young, and widowed young. Founded the Sisters of the Presentation of the Blessed Virgin Mary, dedicated to caring for and the education poor and orphaned girls."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Zofia-Czeska-Maciejowska.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 patronage:

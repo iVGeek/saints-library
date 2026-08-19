@@ -1,7 +1,7 @@
 ---
 name: "Venerable Juana Méndez Romero"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Juana Méndez Romero"
 summary: "Juana's father worked on the estate of Mother Maria Jesús Herruzo, Foundress of the Congregation of the Worker Sisters of the Heart of Jesus, and when the girl's mother died in 1945, she lived with, was educated by, and two blood sisters joined the Sisters. On 30 October 1950, Ju"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Juana-Mendez-Romero.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

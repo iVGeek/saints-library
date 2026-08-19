@@ -1,7 +1,7 @@
 ---
 name: "Saint Gapito the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Gapito the Martyr"
 summary: "Bishop who was sent by emperor Constantine to work for the conversion of people in the Chersonese region of Greece."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gapito-the-Martyr.jpg"
 searchAliases:
@@ -15,10 +15,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop who was sent by emperor Constantine to work for the conversion of people in the Chersonese region of Greece.

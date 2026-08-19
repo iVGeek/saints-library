@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus of Rome"
 honorific: Saint
-title: "Monk"
+title: "Saint Rufus of Rome"
 summary: "A 1st-century Christian greeted by name by Saint Paul the Apostle in the Epistle to the Romans 16:13."
 died: "c.90"
 region: "England"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Servan of Culross"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Servan of Culross"
 summary: "Bishop, possibly being consecrated by Saint Palladius. Missionary to the Scots."
 searchAliases:
   - "Apostle of West Fife"

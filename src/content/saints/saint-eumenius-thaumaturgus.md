@@ -1,7 +1,7 @@
 ---
 name: "Saint Eumenius Thaumaturgus"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Eumenius Thaumaturgus"
 summary: "Late 3rd-century bishop of Gortyna, Crete. Noted for his charity and as a miracle worker, but died in exile."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eumenius-Thaumaturgus.jpg"
 searchAliases:

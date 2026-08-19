@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Leoz Portillo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pedro Leoz Portillo"
 summary: "Member of the Passionists. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pablo María of Saint Joseph"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

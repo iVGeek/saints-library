@@ -1,7 +1,7 @@
 ---
 name: "Saint Hardulf of Breedon"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Hardulf of Breedon"
 summary: "Hermit in Breedon, Leicestershire, England."
 died: "7th century"
 region: "England"

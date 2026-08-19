@@ -1,7 +1,7 @@
 ---
 name: "Saint Attius of Perga"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Attius of Perga"
 summary: "Martyred with several companions by order of Flavian for destroying the altar of a pagan goddess during the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Athius"
@@ -15,7 +15,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mosè Tovini"
 honorific: Blessed
-title: "Virgin, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Mosè Tovini"
 summary: "Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of Blessed Giuseppe Tovini. Attended elementary school in Breno, Italy, and was a good student. Moved in with Blessed Giuseppe in Brescia, Italy at age nine to conti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mose-Tovini.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-  - Pope
   - Cardinal
   - Soldier
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ángel Alonso Escribano"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Ángel Alonso Escribano"
 summary: "Studied at the seminary in Salamanca, Spain, and at the Universidad Pontificia de Commillas. Earned a doctorate in theology, and a degree in canon law. Ordained priest on 11 September 1921. Parish priest. As a member of the Diocesan Laborer Priests of the Sacred Heart of Jesus, F"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Alonso-Escribano.jpg"
 birthYear: 1897
@@ -16,9 +16,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

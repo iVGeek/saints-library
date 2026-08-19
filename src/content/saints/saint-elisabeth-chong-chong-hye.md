@@ -1,7 +1,7 @@
 ---
 name: "Saint Elisabeth Chong Chong-Hye"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Elisabeth Chong Chong-Hye"
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Ellisabes Jeong Jeong-Hye"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Pérez Fernández"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed José Pérez Fernández"
 summary: "Layman the diocese of Almería, Spain. Member of Catholic Action. He distributed the Catholic periodical “La Independencia” in a time of anti-Catholic persecution. Imprisoned in Almería and then in Turón, Spain, and finally executed in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1938
@@ -15,10 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

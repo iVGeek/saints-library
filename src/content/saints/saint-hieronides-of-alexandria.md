@@ -1,7 +1,7 @@
 ---
 name: "Saint Hieronides of Alexandria"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Hieronides of Alexandria"
 summary: "Aged deacon. Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "drowned c.300 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

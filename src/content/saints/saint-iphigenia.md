@@ -1,7 +1,7 @@
 ---
 name: "Saint Iphigenia"
 honorific: Saint
-title: "Monk"
+title: "Saint Iphigenia"
 summary: "Convert, brought to the faith by Saint Matthew the Apostle."
 born: "1st century in Ethiopia"
 region: "Italy"

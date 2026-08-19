@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernarius of Corbie"
 honorific: Saint
-title: "Monk"
+title: "Saint Bernarius of Corbie"
 summary: "Benedictine monk of Corbie Abbey."
 searchAliases:
   - "Bernario"

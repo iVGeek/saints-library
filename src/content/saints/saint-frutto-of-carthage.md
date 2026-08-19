@@ -1,7 +1,7 @@
 ---
 name: "Saint Frutto of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Frutto of Carthage"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

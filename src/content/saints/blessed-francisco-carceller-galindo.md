@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Carceller Galindo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Carceller Galindo"
 summary: "Piarist priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Carceller-Galindo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

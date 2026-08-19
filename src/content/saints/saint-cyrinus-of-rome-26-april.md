@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrinus of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Cyrinus of Rome"
 summary: "Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr."
 died: "beheaded"
 feastDay:
@@ -9,9 +9,7 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michal Giedroyc"
 honorific: Blessed
-title: "Martyr, Pope, Hermit, Royalty"
+title: "Blessed Michal Giedroyc"
 summary: "Born the nobility, related to the princes of Lithuania, Michal suffered from a number of birth defects including being a dwarf and having the use of only one foot. Though his formal education was frequently interrupted and limited, he was an exceptional metal worker. Joined the A"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Micha%C5%82_Gedroy%C4%87.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

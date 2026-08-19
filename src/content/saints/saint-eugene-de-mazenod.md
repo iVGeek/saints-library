@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugene de Mazenod"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Saint Eugene de Mazenod"
 summary: "Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent educated, and wealthy; his father was an aristocrat, classically educated, and poor. Their marriage, and Eugene's home life, were plagued by constant family in-figh"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-de-Mazenod.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

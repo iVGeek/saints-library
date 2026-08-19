@@ -1,7 +1,7 @@
 ---
 name: "Saint Homobonus of Cremona"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Homobonus of Cremona"
 summary: "Son of a well-to-do tailor and merchant. He became a tailor himself, and took over his father's business. Married layman. He believed that his ability to work was given to him by God so he could support the poor, and he devoted most of his profits, and some of his house space, to"
 image: "http://catholicsaints.info/wp-content/gallery/saint-homobonus/saint-homobonus.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 patronage:
@@ -38,7 +36,7 @@ patronage:
   - "—"
   - "Cremona, Italy, city of"
   - "Cremona, Italy, diocese of"
-martyr: true
+martyr: false
 ---
 
 Son of a well-to-do tailor and merchant. He became a tailor himself, and took over his father's business. Married layman. He believed that his ability to work was given to him by God so he could support the poor, and he devoted most of his profits, and some of his house space, to charity.

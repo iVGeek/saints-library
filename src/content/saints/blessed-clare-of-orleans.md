@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clare of Orléans"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Clare of Orléans"
 summary: "12th century Cistercian nun. Devotion developed around her, and lasted for centuries, but all record of her life has been lost."
 searchAliases:
   - "Chiara"

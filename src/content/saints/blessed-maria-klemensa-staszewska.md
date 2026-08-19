@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Klemensa Staszewska"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Maria Klemensa Staszewska"
 summary: "Ursuline nun. Martyred in the persecutions of the Nazis."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Klemensa-Staszewska.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

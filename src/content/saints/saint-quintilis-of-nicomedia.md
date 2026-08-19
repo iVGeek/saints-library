@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintilis of Nicomedia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Quintilis of Nicomedia"
 summary: "Martryed at Nicomedia, date unknown. No other information has survived."
 region: "England"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Martryed at Nicomedia, date unknown. No other information has survived.

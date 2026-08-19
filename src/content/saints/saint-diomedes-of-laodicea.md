@@ -1,7 +1,7 @@
 ---
 name: "Saint Diomedes of Laodicea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Diomedes of Laodicea"
 summary: "Martyr. No other information has survived."
 died: "Laodicea, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

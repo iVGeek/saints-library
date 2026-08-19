@@ -1,7 +1,7 @@
 ---
 name: "Saint Aithilahas of Persia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Deacon, Royalty"
+title: "Saint Aithilahas of Persia"
 summary: "Priest. Martyred in the persecutions of King Shapur II."
 searchAliases:
   - "Aithalla"
@@ -14,11 +14,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
-  - Royalty
 martyr: true
 ---
 

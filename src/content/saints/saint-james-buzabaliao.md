@@ -1,7 +1,7 @@
 ---
 name: "Saint James Buzabaliao"
 honorific: Venerable
-title: "Martyr, Pope, Royalty, Soldier"
+title: "Saint James Buzabaliao"
 summary: "Ngeye clan. Son of the royal bark-cloth maker. Soldier under King Mwanga of Uganda. Convert, baptized in 1885. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg"
 searchAliases:
@@ -19,9 +19,6 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

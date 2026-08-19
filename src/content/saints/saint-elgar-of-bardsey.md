@@ -1,7 +1,7 @@
 ---
 name: "Saint Elgar of Bardsey"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Elgar of Bardsey"
 summary: "Spent several years in captivity in Ireland. Hermit on the Isle of Badsey, Carnarvonshire, Wales."
 deathYear: 1100
 born: "11th century Devonshire, England"

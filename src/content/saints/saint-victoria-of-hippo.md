@@ -1,7 +1,7 @@
 ---
 name: "Saint Victoria of Hippo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victoria of Hippo"
 summary: "One of a group of 20 Christians martyred together and celebrated by Saint Augustine."
 died: "Hippo, Numidia (in north Africa)"
 deathPlace: "Numidia (north Africa)"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

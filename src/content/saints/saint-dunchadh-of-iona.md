@@ -1,7 +1,7 @@
 ---
 name: "Saint Dunchadh of Iona"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Dunchadh of Iona"
 summary: "Monk and abbot in Ireland. Abbot of Iona Abbey. Known for his personal piety and as a miracle worker."
 searchAliases:
   - "Donatus"

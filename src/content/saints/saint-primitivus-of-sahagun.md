@@ -1,7 +1,7 @@
 ---
 name: "Saint Primitivus of Sahagun"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Primitivus of Sahagun"
 summary: "Martyr."
 searchAliases:
   - "Primitivo of Sahagun"
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Artemas of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Artemas of Pozzuoli"
 summary: "Teenaged martyr."
 died: "Pozzuoli, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Pozzuoli, Italy, diocese of"

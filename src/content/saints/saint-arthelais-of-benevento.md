@@ -1,7 +1,7 @@
 ---
 name: "Saint Arthelais of Benevento"
 honorific: Saint
-title: "Saint"
+title: "Saint Arthelais of Benevento"
 summary: "Daughter of Roman imperial proconsul Lucius and Aithuesa. The emperor Justinian desired her, but she had taken vows of holy chastity and so fled to Benevento, Italy where she stayed with her uncle Narses Patricius. En route she was kidnapped by highway men, but was miraculously f"
 searchAliases:
   - "Artelais"
@@ -18,8 +18,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "against bodily ills"
   - "against illness"

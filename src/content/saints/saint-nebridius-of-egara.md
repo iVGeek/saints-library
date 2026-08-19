@@ -1,7 +1,7 @@
 ---
 name: "Saint Nebridius of Ègara"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Nebridius of Ègara"
 summary: "Brother of Saint Justus of Urgell, Saint Elpidius of Huesca and Saint Justinian of Valencia. Bible scholar and commentator. Benedictine monk. Priest. Attended the Council of Tarragona in 516, the Council of Girona in 517, the 2nd Council of Toledo in 527, and probably the Council"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nebridius-of-Ègara.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Elisabeth Pélissier"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Marie-Elisabeth Pélissier"
 summary: "Joined the Sacramentine nuns at Bollène, Provence, France, making her profession on 25 June 1759. Musician, singer and poet. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

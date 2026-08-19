@@ -1,7 +1,7 @@
 ---
 name: "Saint Pontius of Carthage"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Pontius of Carthage"
 summary: "Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage."
 searchAliases:
   - "Ponzio"
@@ -13,10 +13,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-martyr: true
+martyr: false
 ---
 
 Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage.

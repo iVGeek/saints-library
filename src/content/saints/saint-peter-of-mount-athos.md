@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Mount Athos"
 honorific: Saint
-title: "Virgin, Monk, Pope, Hermit, Soldier"
+title: "Saint Peter of Mount Athos"
 summary: " Legend says that he was a soldier captured by Muslims, but freed through the intercession of Saint Simeon. He made a pilgrimage to Rome, Italy and was given a monastic habit by the (unnamed) pope. Moved by a vision of the Blessed First hermit on Mount Athos in 8th century Greece."
 region: "Italy"
 feastDay:
@@ -11,7 +11,6 @@ canonizationStatus: Saint
 vocation:
   - Virgin
   - Monk
-  - Pope
   - Hermit
   - Soldier
 martyr: false

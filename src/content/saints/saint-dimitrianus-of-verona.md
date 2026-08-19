@@ -1,7 +1,7 @@
 ---
 name: "Saint Dimitrianus of Verona"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Dimitrianus of Verona"
 summary: "Second bishop of Verona, Italy."
 searchAliases:
   - "Dimidriano"
@@ -14,9 +14,8 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Second bishop of Verona, Italy.

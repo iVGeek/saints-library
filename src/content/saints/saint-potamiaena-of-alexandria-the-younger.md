@@ -1,7 +1,7 @@
 ---
 name: "Saint Potamiaena of Alexandria the Younger"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Potamiaena of Alexandria the Younger"
 summary: "Young Christian girl martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

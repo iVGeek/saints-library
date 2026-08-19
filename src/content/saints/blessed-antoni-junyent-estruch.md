@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Junyent Estruch"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Antoni Junyent Estruch"
 summary: "Member of the Claretians, professed on 15 August 1913. Ordained a priest on 17 December 1921. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

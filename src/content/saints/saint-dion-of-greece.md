@@ -1,7 +1,7 @@
 ---
 name: "Saint Dion of Greece"
 honorific: Saint
-title: "Martyr"
+title: "Saint Dion of Greece"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Dionysius"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 8
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

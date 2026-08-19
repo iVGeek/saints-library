@@ -1,7 +1,7 @@
 ---
 name: "Saint Jorandus of Kergrist"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Jorandus of Kergrist"
 summary: "Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France."
 deathYear: 1340
 died: "1340"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bademus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Royalty"
+title: "Saint Bademus"
 summary: "Born to the wealthy Persian nobility, Bademus cared little for worldly things, and when he was old enough he founded and led a monastery in Bethlapeta, Persia. He and seven of his monks were imprisoned for their faith during the lengthy persecution by King Sapor. Chained and regu"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Bademus.jpg"
 searchAliases:
@@ -17,12 +17,10 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Born to the wealthy Persian nobility, Bademus cared little for worldly things, and when he was old enough he founded and led a monastery in Bethlapeta, Persia. He and seven of his monks were imprisoned for their faith during the lengthy persecution by King Sapor. Chained and regularly beaten for four months, he was murdered by Nersan, an apostate Persian prince who hacked him to death to prove his renunciation of Christianity.

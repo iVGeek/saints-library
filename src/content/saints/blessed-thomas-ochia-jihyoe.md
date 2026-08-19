@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Ochia Jihyoe"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Thomas Ochia Jihyoe"
 summary: "Born to a Christian family, his parents were both catechists, and both died as martyrs. Thomas attended a Jesuit school in Arima, Japan, and when he felt a call to religious life, he continued his studies in Macao. In 1622 he went to Manila, Philippines to study, and there he joi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Ochia-Jihyoe.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

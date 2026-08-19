@@ -1,7 +1,7 @@
 ---
 name: "Saint Marina of Alexandria"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Marina of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Maria"
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

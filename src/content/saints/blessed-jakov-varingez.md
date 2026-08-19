@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jakov Varingez"
 honorific: Blessed
-title: "Priest, Monk, Pope, Confessor"
+title: "Blessed Jakov Varingez"
 summary: "Son of Leonardo and Beatrice Varingez. Jakov re-located to Bari, Italy to escape Turkish invaders. There he felt a call to religious life and joined the Order of Friars Minor at the friary of Bitetto, Italy; he lived there nearly all the rest of his life. He served as cook, alms-"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-jakov-varingez/blessed-jakov-varingez.jpg"
 searchAliases:
@@ -32,7 +32,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

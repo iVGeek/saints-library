@@ -1,7 +1,7 @@
 ---
 name: "Venerable Rafaela Veintemilla Villacís"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Rafaela Veintemilla Villacís"
 summary: "Founder of the Congregation of the Augustinian Daughters of the Most Holy Redeemer."
 searchAliases:
   - "Rafaela of the Passion"
@@ -16,8 +16,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: false
 ---

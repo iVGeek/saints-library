@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturus of Carthage"
 honorific: Saint
-title: "Martyr"
+title: "Saint Saturus of Carthage"
 summary: "Catechumen. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/Satyrus.jpg"
 searchAliases:
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

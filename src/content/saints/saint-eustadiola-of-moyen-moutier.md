@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustadiola of Moyen-Moutier"
 honorific: Saint
-title: "Religious"
+title: "Saint Eustadiola of Moyen-Moutier"
 summary: "Married. Wealthy widow. She spent her fortune building the convent of Moyen-Moutier, Francewhere she became a nun and then abbess."
 deathYear: 690
 born: "Bourges, France"

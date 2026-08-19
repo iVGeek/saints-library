@@ -1,7 +1,7 @@
 ---
 name: "Saint Amand of Maastricht"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Amand of Maastricht"
 summary: "Lived some time as a hermit, then became a monk at age 20 at the Abbey of Saint Martin at Tours, France. When he took the cowl, his family tried to kidnap him to bring him home for “deprogramming”, but failed. Given a commission to wander and preach, he evangelized in France, Fla"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amand-of-Maastricht.jpg"
 searchAliases:

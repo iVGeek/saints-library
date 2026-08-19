@@ -1,7 +1,7 @@
 ---
 name: "Saint Medard of Noyon"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Royalty, Confessor"
+title: "Saint Medard of Noyon"
 summary: "Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen, France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to Vermand, France and to Tournai, Belgium, and freq"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Medard-of-Noyon.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
@@ -42,7 +41,7 @@ patronage:
   - "farmers"
   - "Arcevia, Italy"
   - "Noyon, France"
-martyr: true
+martyr: false
 ---
 
 Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen, France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to Vermand, France and to Tournai, Belgium, and frequented the schools there. Ordained at age 33.

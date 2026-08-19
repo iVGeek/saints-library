@@ -1,7 +1,7 @@
 ---
 name: "Blessed Domingo Iturrate Zubero"
 honorific: Blessed
-title: "Virgin, Priest, Pope, Royalty"
+title: "Blessed Domingo Iturrate Zubero"
 summary: "Devoted to the Blessed Virgin Mary at an early age. Trinitarian priest, taking the name Domenico Iturrate of the Most Blessed Sacrament."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Domingo_Iturrate_Zubero.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

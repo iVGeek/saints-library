@@ -1,7 +1,7 @@
 ---
 name: "Saint Porcarius of Lérins"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Porcarius of Lérins"
 summary: "Benedictine monk. Abbot of Lérins, France, a house of 500 monks. Warned in a vision that the monastery would be attacked, he managed to evacuate about three dozen of the students and younger brothers to the mainland by boat; Porcarius and all but four of the remaining brothers we"
 searchAliases:
   - "Porcario"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Fernández Sánchez Toril"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco Fernández Sánchez Toril"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1854
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

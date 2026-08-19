@@ -1,7 +1,7 @@
 ---
 name: "Blessed Camila Díez Blanco"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Camila Díez Blanco"
 summary: "Baptized on the day she was born, and Confirmed in 1892. In March 1930 she moved in with her recently widowed brother, Blessed Gregorio Díez Blanco, raise his four children. When the Spanish Civil War began, Camila and Gregorio sheltered religious who were hiding from anti-Cathol"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Camila-Díez-Blanco.jpg"
 birthYear: 1889
@@ -16,8 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

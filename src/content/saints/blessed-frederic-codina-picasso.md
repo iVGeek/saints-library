@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frederic Codina Picasso"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Frederic Codina Picasso"
 summary: "Member of the Claretians, professed on 15 August 1904. Ordained a priest on 23 June 1912. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Roman Adame Rosales"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Saint Roman Adame Rosales"
 summary: "Ordained on 30 November 1890. Parish priest at Nochistlan, Zacatecas, Mexico in 1913, a position he held until his death. Especially known for his ministry to the sick, and his devotion to Our Lady. Built chapels in the areas around Nochistlan. Founded the Daughters of Mary of No"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Roman-Adame-Rosales.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Romero Rojas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miguel Romero Rojas"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

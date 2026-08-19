@@ -1,7 +1,7 @@
 ---
 name: "Saint Gemma Galgani"
 honorific: Venerable
-title: "Virgin, Priest, Religious, Pope"
+title: "Saint Gemma Galgani"
 summary: "Eldest daughter of a poor pharmacist; her mother died when Gemma was seven, her father when the girl was eighteen, and she took over the care of her seven brothers and sisters. Her health was always poor, and between that and her home life she never finished school. Cured in her"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Gemma_Galgani_-_Originalfoto_%28Detail%29_2.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
 patronage:
   - "against temptations"
   - "against the death of parents"

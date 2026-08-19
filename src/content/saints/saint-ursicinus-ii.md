@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursicinus II"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Ursicinus II"
 summary: "Benedictine monk. Abbot of Disentis, Switzerland. Reluctant bishop of Chur, Switzerland in 754. In 758 he resigned to spend the rest of his days as a prayerful hermit."
 searchAliases:
   - "Ursicinus di Coira"

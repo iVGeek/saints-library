@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio of Ripalimosani"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Antonio of Ripalimosani"
 summary: "Franciscan lay brother in the province of Campobasso, Italy. Had the gift of miraculous healing."
 deathYear: 1514
 born: "latter 15th century Ripalimosani, Italy"
@@ -13,8 +13,7 @@ feastDay:
   month: 7
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

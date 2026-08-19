@@ -1,7 +1,7 @@
 ---
 name: "Blessed Félix Barrio y Barrio"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Félix Barrio y Barrio"
 summary: "Member of the Claretians, professed on 19 March 1899. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

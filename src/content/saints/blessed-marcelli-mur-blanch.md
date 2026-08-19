@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marcelli Mur Blanch"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Marcelli Mur Blanch"
 summary: "Member of the Claretians, professed on 21 June 1909. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

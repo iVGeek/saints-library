@@ -1,7 +1,7 @@
 ---
 name: "Blessed Reyes Us Hernández"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Reyes Us Hernández"
 summary: "Married layman of the diocese of Quiché, Guatemala. He was very active in his local parish, and was murdered by government troops for it. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Reyes-Us-Hernandez.jpg"
 birthYear: 1939
@@ -15,9 +15,7 @@ feastDay:
   month: 11
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

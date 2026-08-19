@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis of Girolamo"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Francis of Girolamo"
 summary: "Studied humanities and philosophy at the Jesuit college of Taranto, Italy at age 16; studied theology and canon law at the college of Gesu Vecchio. Ordained  on 18 March 1666 at Naples, Italy, and served as a parish priest. Joined the Jesuits at age 28 on 1 July 1670. Rural missi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-of-Girolamo.jpg"
 searchAliases:
@@ -24,14 +24,12 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 patronage:
   - "Grottaglie, Italy"
-martyr: true
+martyr: false
 ---
 
 Studied humanities and philosophy at the Jesuit college of Taranto, Italy at age 16; studied theology and canon law at the college of Gesu Vecchio. Ordained  on 18 March 1666 at Naples, Italy, and served as a parish priest. Joined the Jesuits at age 28 on 1 July 1670. Rural missioner in and around Naples for 40 years.

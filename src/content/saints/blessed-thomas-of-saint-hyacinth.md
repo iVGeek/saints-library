@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas of Saint Hyacinth"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Thomas of Saint Hyacinth"
 summary: "Dominican friar who assisted missionaries in Japan. Catechist. Martyr."
 birthYear: 1598
 deathYear: 1628
@@ -14,9 +14,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

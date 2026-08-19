@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramon Rosell Laboria"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ramon Rosell Laboria"
 summary: "Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Leonci"
@@ -17,9 +17,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

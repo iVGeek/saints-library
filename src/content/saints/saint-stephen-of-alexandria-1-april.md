@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stephen of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

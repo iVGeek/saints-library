@@ -1,7 +1,7 @@
 ---
 name: "Blessed Philibert Fougères"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Philibert Fougères"
 summary: "Priest in the diocese of Nevers, France. One of the Martyrs of September."
 birthYear: 1742
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

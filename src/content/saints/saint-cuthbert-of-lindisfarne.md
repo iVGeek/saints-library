@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuthbert of Lindisfarne"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Cuthbert of Lindisfarne"
 summary: "Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan. Guest-master at Melrose where he was know for his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cuthbert-of-Lindisfarne.jpg"
 searchAliases:
@@ -18,14 +18,13 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "Lindisfarne Island"
-martyr: true
+martyr: false
 ---
 
 Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan. Guest-master at Melrose where he was know for his charity to poor travellers; legend says that he once entertained an angel disguised as a beggar. Spiritual student of Saint Boswell. Prior of Melrose in 664.

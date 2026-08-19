@@ -1,7 +1,7 @@
 ---
 name: "Saint Rasyphus of Macé"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Rasyphus of Macé"
 summary: "Fifth-century hermit in northern France. Martyr."
 born: "British Isles"
 died: "at Macé, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

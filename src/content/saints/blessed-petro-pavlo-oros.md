@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petro Pavlo Oros"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Petro Pavlo Oros"
 summary: "Son of a Greek Catholic priest. In 1919 the family moved to Transcarpathia. Petr studied in the diocesan seminary in Užgorod. Ordained a priest of the eparchy of Mukachevo, Ukraine, Ruthenian Rite, on 26 June 1942. Parish priest in Bol'šie Komjaty. Consecrated auxiliary bishop of"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Petro-Pavlo-Oros.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

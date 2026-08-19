@@ -1,7 +1,7 @@
 ---
 name: "Saint Nectarius of Autun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Nectarius of Autun"
 summary: "Bishop of Autun, France. Friend of Saint Germanus of Paris."
 deathYear: 550
 died: "c.550"

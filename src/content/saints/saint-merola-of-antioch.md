@@ -1,7 +1,7 @@
 ---
 name: "Saint Merola of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Merola of Antioch"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Merula"
@@ -14,7 +14,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

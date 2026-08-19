@@ -1,7 +1,7 @@
 ---
 name: "Saint Chromatius the Prefect"
 honorific: Saint
-title: "Martyr, Priest, Monk, Confessor"
+title: "Saint Chromatius the Prefect"
 summary: "Third-century imperial Roman prefect. Brought to the faith by Saint Tranquillinus. Father of Saint Tiburtius of Rome."
 region: "Italy"
 feastDay:
@@ -9,11 +9,10 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Third-century imperial Roman prefect. Brought to the faith by Saint Tranquillinus. Father of Saint Tiburtius of Rome.

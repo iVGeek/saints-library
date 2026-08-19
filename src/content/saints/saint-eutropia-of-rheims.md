@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropia of Rheims"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious"
+title: "Saint Eutropia of Rheims"
 summary: "Sister of Saint Nicasius. Martyred in the barbarian invasion of Rheims, France. She attacked her brother's murderer (one source it was by slapping him in the face), and was immediately killed."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Eutropia-of-Rheims.jpg"
 deathYear: 451
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

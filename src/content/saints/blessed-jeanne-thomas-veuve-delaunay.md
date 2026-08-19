@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jeanne Thomas veuve Delaunay"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Jeanne Thomas veuve Delaunay"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1730
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

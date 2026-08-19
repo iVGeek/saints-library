@@ -1,7 +1,7 @@
 ---
 name: "Blessed Germán Martín y Martín"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Blessed Germán Martín y Martín"
 summary: "Member of the Salesians, making his novitiate in Carabanchel Alto, Spain, and making his religious profession in 1918. He studied philosophy and education in Carabanchel Alto, Barcelona and Baracaldo. Teacher in Havana, Cuba in work that substituted for mandatory military service"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Germán-Martín-Martín.jpg"
 birthYear: 1899
@@ -16,10 +16,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Salesian"
 martyr: true

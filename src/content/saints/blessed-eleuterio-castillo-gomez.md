@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eleuterio Castillo Gómez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Eleuterio Castillo Gómez"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

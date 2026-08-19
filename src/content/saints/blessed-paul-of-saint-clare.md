@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul of Saint Clare"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Paul of Saint Clare"
 summary: "Franciscan Friars Minor (Alcantarines) priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

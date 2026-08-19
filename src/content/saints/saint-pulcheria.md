@@ -1,7 +1,7 @@
 ---
 name: "Saint Pulcheria"
 honorific: Saint
-title: "Virgin, Priest, Monk, Pope, Royalty"
+title: "Saint Pulcheria"
 summary: "Daughter of Byzantine Emperor Arcadius and Empress Eudoxia. Her father died when she was 15, and she became regent of the empire on 4 July 414 until her younger brother Theodosius was old enough to rule. Pulcheria took special care of her brother's education, ensuring a strong re"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pulcheria_coin.png"
 searchAliases:
@@ -19,8 +19,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
-  - Royalty
 patronage:
   - "against in-law problems"
   - "against the death of parents"

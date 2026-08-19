@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michel Fleury"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope"
+title: "Blessed Michel Fleury"
 summary: "Born to a poor peasant family, Michel joined the Prado congregation in 1971 and worked as a miller in Lyon and Marseilles in France. He became a Trappist monk at the Bellefontaine Abbey in 1981, and moved to Algeria in 1985, serving at the cook and housekeeper for the Atlas Abbey"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Michel-Fleury.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

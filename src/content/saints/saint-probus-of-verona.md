@@ -1,7 +1,7 @@
 ---
 name: "Saint Probus of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Probus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Probo"
@@ -12,10 +12,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Verona, Italy.

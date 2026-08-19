@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Yi Myong-So"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Petrus Yi Myong-So"
 summary: "Married layman in the apostolic vicariate of Korea."
 searchAliases:
   - "Peteuro Yi Myeong-Seo"
@@ -17,10 +17,8 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Married layman in the apostolic vicariate of Korea.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorius of Le Mans"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Deacon"
+title: "Saint Victorius of Le Mans"
 summary: "Sub-deacon. Married and the father of one son. Spiritual student of Saint Martin of Tours. At the recommendation of Saint Martin, Victorius was chosen bishop of Le Mans, France c.450; his wife became a nun and Victorius served for approximately 40 years. He attended the Council o"
 searchAliases:
   - "Vittore, Victor, Victorio"
@@ -14,11 +14,10 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
-martyr: true
+martyr: false
 ---
 
 Sub-deacon. Married and the father of one son. Spiritual student of Saint Martin of Tours. At the recommendation of Saint Martin, Victorius was chosen bishop of Le Mans, France c.450; his wife became a nun and Victorius served for approximately 40 years. He attended the Council of Angers in 453, and the Council of Tours in 461. Saint Gregory of Tours wrote about him.

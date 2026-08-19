@@ -1,7 +1,7 @@
 ---
 name: "Saint Isarnus of Toulouse"
 honorific: Saint
-title: "Monk"
+title: "Saint Isarnus of Toulouse"
 summary: "Educated at Saint Victor's, Marseilles, France. Benedictine monk at Saint Victor's. As abbot at Saint Victor's he revitalized spiritual life and devotion to the Rule; his house became the center of a great Benedictine revival in the region. Famous for his charity and his prison m"
 searchAliases:
   - "Isarnus of Marseille"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Seraphina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Seraphina"
 summary: "Martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

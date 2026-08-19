@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelelmus"
 honorific: Saint
-title: "Monk, Royalty, Soldier"
+title: "Saint Adelelmus"
 summary: "Manservant. Soldier for France, with a promising career. While on pilgrimage to Rome, Italy, he met Saint Robert at the Chaise-Dieu monastery in Issoire (in modern France). Soon after, Adelelmus retired from military life to become a Benedictine monk at Issoire under the spiritua"
 image: "http://catholicsaints.info/wp-content/uploads/LesmesBurgos.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
   - Soldier
 religiousOrder: "Benedictine"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mária Magdolina Bódi"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Soldier"
+title: "Blessed Mária Magdolina Bódi"
 summary: "The daughter of poor manorial servants and farmers in the archdiocese of Veszprém, Hungary, she was baptized at the age of one week. As Maria loved to read, her parish priest gave her access to a library of religious books, and she gave herself a deep religious education. She fel"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Magdolina-Bodi.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

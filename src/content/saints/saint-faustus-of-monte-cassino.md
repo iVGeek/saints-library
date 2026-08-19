@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Monte Cassino"
 honorific: Saint
-title: "Monk"
+title: "Saint Faustus of Monte Cassino"
 summary: "Sixth-century Benedictine monk at Monte Cassino Abbey. Spiritual student of Saint Benedict of Nursia."
 region: "England"
 feastDay:

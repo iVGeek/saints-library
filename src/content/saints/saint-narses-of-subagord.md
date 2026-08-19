@@ -1,7 +1,7 @@
 ---
 name: "Saint Narses of Subagord"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Narses of Subagord"
 summary: "Bishop of Subagord, Persia (modern Iran). Martyred with a spiritual student named Joseph in the persecutions of Shapur II for refusing to worship the sun."
 searchAliases:
   - "Narses the Martyr"
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

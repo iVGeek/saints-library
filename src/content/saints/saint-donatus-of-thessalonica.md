@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Donatus of Thessalonica"
 summary: "Three Christians with the same name who were martyred."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

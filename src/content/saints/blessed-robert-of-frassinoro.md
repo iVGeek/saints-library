@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert of Frassinoro"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Robert of Frassinoro"
 summary: "Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy."
 deathYear: 1070
 died: "1070"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Frumentius of Ethiopia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Frumentius of Ethiopia"
 summary: "Brother of Saint Aedesius. Student of the philosopher Meropius. While on a voyage on the Red Sea, their ship wrecked on the Ethiopian shore, and only Frumentius and Aedeius survived. They were taken to the king at Axum as a curiosity, and became members of the court, Frumentius s"
 image: "http://catholicsaints.info/wp-content/gallery/saint-frumentius-of-ethopia/saint-frumentius-of-ethiopia-01.jpg"
 searchAliases:
@@ -21,14 +21,13 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
 patronage:
   - "Abyssinia"
   - "Ethiopia"
-martyr: true
+martyr: false
 ---
 
 Brother of Saint Aedesius. Student of the philosopher Meropius. While on a voyage on the Red Sea, their ship wrecked on the Ethiopian shore, and only Frumentius and Aedeius survived. They were taken to the king at Axum as a curiosity, and became members of the court, Frumentius serving as secretary. When the king died they stayed as part of the queen's court. She permitted them to introduce Christianity to the country, and open trade between Ethiopia and the west. Frumentius convinced Saint Athanasius of Alexandria to send missionaries from Alexandria, Egypt, and was himself consecrated as bishop of Ethiopia. Converted many, including the princes Ezana and Sheazana, and established a firm foothold in Ethiopia for the faith.

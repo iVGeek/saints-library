@@ -1,7 +1,7 @@
 ---
 name: "Saint Apelles of Eraclea Sintica"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Apelles of Eraclea Sintica"
 summary: "First century convert, and one of the 70 disciples sent out as missionaries as described in the Acts of the Apostles. Bishop of Eraclea Sintica, Macedonia. Martyr."
 searchAliases:
   - "Apelle"
@@ -15,7 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

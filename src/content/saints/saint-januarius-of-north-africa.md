@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Januarius of North Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lantfrid"
 honorific: Saint
-title: "Monk"
+title: "Saint Lantfrid"
 summary: "Brother of Saint Waltram and Saint Elilantus. With them he founded the monastery of Benediktbeuren in Bavaria, Germany, and served as its abbot."
 searchAliases:
   - "Lantfried"

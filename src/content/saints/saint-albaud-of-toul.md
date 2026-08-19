@@ -1,7 +1,7 @@
 ---
 name: "Saint Albaud of Toul"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Albaud of Toul"
 summary: "Priest. Friend of Saint Aprus of Toul. Bishop of Toul, Gallia Belgica (in modern France) in 507. For centuries, pilgrims to his relics received some of the vintage de Saint Albaud, a wine made at the monastery that received a blessing for its use in healing of pilgrims."
 searchAliases:
   - "Aladius"

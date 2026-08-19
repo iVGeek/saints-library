@@ -1,7 +1,7 @@
 ---
 name: "Saint Irchard"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Irchard"
 summary: "Seventh century spiritual student of Saint Ternan of Culross. Bishop, consecrated in Rome, Italy by Pope Gregory the Great."
 searchAliases:
   - "Apostle of the Picts"
@@ -20,7 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: false
 ---

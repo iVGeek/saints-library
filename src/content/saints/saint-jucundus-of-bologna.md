@@ -1,7 +1,7 @@
 ---
 name: "Saint Jucundus of Bologna"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Jucundus of Bologna"
 summary: "Bishop of Bologna, Italy."
 searchAliases:
   - "Giocondo"
@@ -14,10 +14,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Bologna, Italy.

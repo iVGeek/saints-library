@@ -1,14 +1,13 @@
 ---
 name: "Saint Rusticus of Greece"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rusticus of Greece"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 1
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

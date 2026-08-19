@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidro Alonso Peña"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Isidro Alonso Peña"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

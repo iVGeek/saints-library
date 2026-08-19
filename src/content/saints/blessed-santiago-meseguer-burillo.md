@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Meseguer Burillo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Santiago Meseguer Burillo"
 summary: "Dominican priest, professed in the Order on 9 April 1901. Taught theology in the convents and the seminary in Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Santiago-Meseguer-Burillo.jpg"
 birthYear: 1885
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Daminh Ninh"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Daminh Ninh"
 summary: "Christian peasant farmer in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of emperor Tu-Duc, he was ordered to step on a crucifix to show his contempt for Christianity; he refused. Imprisoned, tortured and executed. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 2
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

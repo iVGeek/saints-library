@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigi Novarese"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Luigi Novarese"
 summary: "One of six children born to a farming family; his father died of pneumonia when the boy was very young. Due to a childhood illness, one of his legs was several inches shorter than the other, requiring him to wear special shoes all his life. Priest in the Diocese of Frascati, Ital"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Monsignor_Luigi_Novarese.png"
 birthYear: 1914
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

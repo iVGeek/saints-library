@@ -2,7 +2,7 @@
 name: "Blessed Anne-Françoise de Villeneuve"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/La_Bigne_Villeneuve_-_Cartulaire_de_l%E2%80%99Abbaye_Saint-Georges.djvu/page1-960px-La_Bigne_Villeneuve_-_Cartulaire_de_l%E2%80%99Abbaye_Saint-Georges.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Anne-Françoise de Villeneuve"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1741
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

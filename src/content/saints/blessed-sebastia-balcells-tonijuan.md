@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastià Balcells Tonijuan"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Sebastià Balcells Tonijuan"
 summary: "Claretian brother. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

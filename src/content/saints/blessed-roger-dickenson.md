@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger Dickenson"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Roger Dickenson"
 summary: "Priest. Imprisoned, tortured and martyred with Blessed Ralph Milner in the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Roger Dickinson"
@@ -17,10 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus of Melitene"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufus of Melitene"
 summary: "Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

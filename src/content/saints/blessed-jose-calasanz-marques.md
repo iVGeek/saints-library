@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Calasanz Marqués"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Calasanz Marqués"
 summary: "Joined the Salesians in 1890. Ordained in 1895. Secretary to Blessed Felipe Rinaldi for ten years. Director of the College of La Esmeralda in Sarria, Spain. Leader of the Salesians in Camaguey, Cuba in 1916. Salesian Provincial for Bolivia and Peru. Salesian Provincial in Barcelo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Calasanz-Marqués.jpg"
 birthYear: 1872
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

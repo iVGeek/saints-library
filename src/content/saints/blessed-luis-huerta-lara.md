@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Huerta Lara"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Luis Huerta Lara"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luis Fermín"
@@ -17,9 +17,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Brigida Postorino"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Brigida Postorino"
 summary: "Nun. Founded the Daughters of Mary Immaculate."
 birthYear: 1865
 deathYear: 1960
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

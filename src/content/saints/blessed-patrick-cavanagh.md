@@ -1,7 +1,7 @@
 ---
 name: "Blessed Patrick Cavanagh"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Patrick Cavanagh"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs."
 searchAliases:
   - "Pádraigh Caomhánach"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

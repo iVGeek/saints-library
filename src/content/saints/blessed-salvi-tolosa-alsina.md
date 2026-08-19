@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salvi Tolosa Alsina"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Salvi Tolosa Alsina"
 summary: "Salesian brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Onofre"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

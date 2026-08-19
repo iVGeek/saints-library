@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Duarte Martín"
 honorific: Blessed
-title: "Martyr, Deacon, Pope"
+title: "Blessed Juan Duarte Martín"
 summary: "Deacon in the diocese of Málaga, Spain. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Deacon
-  - Pope
 martyr: true
 ---
 

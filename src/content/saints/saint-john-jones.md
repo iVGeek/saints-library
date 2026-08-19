@@ -1,7 +1,7 @@
 ---
 name: "Saint John Jones"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint John Jones"
 summary: " John returned to England to work with Catholic prisoners at Marshalsea Prison in London. He Born to a strong Catholic Welsh family. Joined the Franciscans in Greenwich, England. When his monastery was dissolved in 1559, he travelled to France to study. Ordained at Rheims, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Jones-and-Blessed-John-Wall.jpg"
 searchAliases:
@@ -26,9 +26,7 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

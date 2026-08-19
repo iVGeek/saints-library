@@ -1,7 +1,7 @@
 ---
 name: "Saint Marguerite d'Youville"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Soldier"
+title: "Saint Marguerite d'Youville"
 summary: "Eldest of six children born to Christophe Dufrost de Lajemmerais, who died in her youth, and Renee de Varennes; niece of Laverendrye, who 'discovered' the Rocky Mountains. Her father died when Marguerite was seven. Educated for two years by the Ursulines in Quebec, she returned h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marguerite-dYouville.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Soldier
 religiousOrder: "Franciscan"
 patronage:

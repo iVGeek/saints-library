@@ -1,7 +1,7 @@
 ---
 name: "Saint Piran"
 honorific: Saint
-title: "Bishop, Monk, Religious, Hermit, Royalty"
+title: "Saint Piran"
 summary: "Piran's family origins are obscure; tradition says he came from Ireland. He spent his youth in south Wales where he founded a church in Cardiff. He received religious education at the monastery of Saint Cadog at Llancarfon, where he met Saint Finnian of Clonard. The two returned"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/StPiran.png"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Monk
   - Religious
   - Hermit
-  - Royalty
 patronage:
   - "Cornwall, England"
   - "miners"

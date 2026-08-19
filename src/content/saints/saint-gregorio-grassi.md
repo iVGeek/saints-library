@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregorio Grassi"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Saint Gregorio Grassi"
 summary: "Priest. Member of the Franciscan Friars Minor (Observants). Missionary to China. Apostolic vicar of Northern Shanxi, China. Martyred in the Boxer Rebellion."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Gregorio_Maria_Grassi.jpg"
 deathYear: 1900
@@ -13,10 +13,8 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

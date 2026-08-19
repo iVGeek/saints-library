@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophylact of Ohrid"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Theophylact of Ohrid"
 summary: "Clerk of the Hagia Sophia church in Constantinople. Reluctant bishop of Ohrid, Macedonia, serving for 25 years. Noted theologian and orator; many of his homilies and commentaries have survived to today."
 deathYear: 1126
 died: "1126"

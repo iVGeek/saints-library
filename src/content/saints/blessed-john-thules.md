@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Thules"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Blessed John Thules"
 summary: "Priest of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."
 searchAliases:
   - "John Thulis"
@@ -17,10 +17,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: true
 ---

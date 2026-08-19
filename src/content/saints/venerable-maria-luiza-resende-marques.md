@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Luiza Resende Marques"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Luiza Resende Marques"
 summary: "Discalced Carmelite nun."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Luiza-Resende-Marques.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

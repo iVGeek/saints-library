@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelard of Corbie"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Adelard of Corbie"
 summary: "Grandson of Charles Martel; nephew of King Pepin the Short; first cousin of Charlemagne; half-brother of Saint Walla of Corbie. He grew up in the royal court, and was an advisor to Louis le Debonnaire. Adalard gave up the court life in 773 to become a Benedictine monk at Corbie A"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Adelard-Abbot.jpg"
 searchAliases:
@@ -26,8 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

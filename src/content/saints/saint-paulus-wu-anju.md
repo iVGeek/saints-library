@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus Wu Anju"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Paulus Wu Anju"
 summary: "Married layman in the apostolic vicariate of Southeastern Zhili, China. Father of Saint Ioannes Baptista Wu Mantang; uncle of Saint Paulus Wu Wanshu. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 29
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

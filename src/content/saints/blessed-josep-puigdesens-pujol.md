@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Puigdeséns Pujol"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Josep Puigdeséns Pujol"
 summary: "Member of the Claretians, professed on 20 August 1893. Ordained a priest on 29 September 1901. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

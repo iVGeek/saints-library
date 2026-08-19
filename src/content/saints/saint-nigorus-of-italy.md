@@ -1,15 +1,14 @@
 ---
 name: "Saint Nigorus of Italy"
 honorific: Saint
-title: "Martyr"
+title: "Saint Nigorus of Italy"
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."
 region: "Italy"
 feastDay:
   month: 3
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

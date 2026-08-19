@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Paul I"
 honorific: Saint
-title: "Priest, Monk, Deacon, Pope, Royalty"
+title: "Pope Saint Paul I"
 summary: "Brother of Pope Stephen II. Orphaned young. Educated at the Lateran school. Deacon under Pope Zachary. Ordained in Rome, Italy. Noted for his gentleness and his charity, spiritual and monetary. Papal diplomat for his brother, recovering Papal State property from the invading Lomb"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/30/SCeau_Paul_I_pape_17109_%28cropped%29.jpg"
 deathYear: 767
@@ -18,8 +18,6 @@ vocation:
   - Priest
   - Monk
   - Deacon
-  - Pope
-  - Royalty
 martyr: false
 ---
 

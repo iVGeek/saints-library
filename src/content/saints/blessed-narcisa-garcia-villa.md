@@ -1,7 +1,7 @@
 ---
 name: "Blessed Narcisa García Villa"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Narcisa García Villa"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Beatriz of Saint Teresa"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

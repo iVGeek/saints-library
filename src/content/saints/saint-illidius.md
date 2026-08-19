@@ -1,7 +1,7 @@
 ---
 name: "Saint Illidius of Clermont"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Illidius of Clermont"
 summary: "Fourth Bishop of Clermont (formerly Averna), Auvergne, France. He worked to establish Clermont as a center of religious teaching and devotion in the region. Cured the daughter of the Emperor Maximus at Trier (in modern Germany). Highly venerated by Saint Gregory of Tours. The pet"
 searchAliases:
   - "Allyre"

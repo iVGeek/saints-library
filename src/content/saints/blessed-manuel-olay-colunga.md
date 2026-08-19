@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Olay Colunga"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Manuel Olay Colunga"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1937
@@ -15,8 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

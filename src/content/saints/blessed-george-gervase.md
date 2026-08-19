@@ -1,7 +1,7 @@
 ---
 name: "Blessed George Gervase"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Confessor"
+title: "Blessed George Gervase"
 summary: "George spent an adventurous youth, travelling to the West Indies with the explorer Sir Francis Drake. He entered the seminary at Douai, France, and was ordained in 1603. Benedictine. From France he returned to England to work with covert Catholics during a suppression of the Chur"
 searchAliases:
   - "George Jervise"
@@ -17,9 +17,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Blessed-george-gervase.png/960px-Blessed-george-gervase.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Benedictine"
 martyr: true

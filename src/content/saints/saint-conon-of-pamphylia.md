@@ -1,7 +1,7 @@
 ---
 name: "Saint Conon of Pamphylia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Conon of Pamphylia"
 summary: "Gardener at the imperial palace at Magydos, Pamphylia (in modern Turkey). Martyred in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/Conon-of-Pamphylia.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

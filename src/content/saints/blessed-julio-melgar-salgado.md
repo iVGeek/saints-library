@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julio Melgar Salgado"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Julio Melgar Salgado"
 summary: "Priest in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Julio-Melgar-Salgado.jpg"
 birthYear: 1900
@@ -16,9 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

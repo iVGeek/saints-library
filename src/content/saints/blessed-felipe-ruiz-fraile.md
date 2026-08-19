@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felipe Ruiz Fraile"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Felipe Ruiz Fraile"
 summary: "Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Ruiz-Fraile.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

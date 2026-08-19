@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Galcerá Videllet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Galcerá Videllet"
 summary: "Manuel studied at the seminary in Zaragoza, Spain, and was ordained a priest on 1 June 1901. He joined the Hermandad de Sacerdotes Operarios Diocesanos (Diocesan Laborer Priests of the Sacred Heart of Jesus) in August 1906. He served in the Spanish cities of Zaragoza, Tarragona,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Galcera-Videllet.jpg"
 birthYear: 1901
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

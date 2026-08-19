@@ -1,7 +1,7 @@
 ---
 name: "Saint Equitius of Valeria"
 honorific: Saint
-title: "Priest, Monk, Pope"
+title: "Saint Equitius of Valeria"
 summary: "Spiritual student of Saint Benedict of Nursia. Benedictine monk. Worked to spread monasticism throughout Italy, bringing many scholars and future saints to the religious life and the Benedictine Order. Abbot of a house in Valeria, Italy. Noted preacher Pope Saint Gregory the Grea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Equitius-of-Valeria.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Aquila, Italy, city of"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cristino"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Cristino"
 summary: "Martyr. No other details about his life have come down to us."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cristino.jpg"
 died: "Rome, Italy"
@@ -11,9 +11,7 @@ feastDay:
   month: 4
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 patronage:
   - "Portoferraio, Italy (given on 7 April 1764 by Pope Clement XIII)"
 martyr: true

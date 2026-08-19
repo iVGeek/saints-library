@@ -1,7 +1,7 @@
 ---
 name: "Saint Athenogenes of Pontus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Athenogenes of Pontus"
 summary: "Priest. Hymnist. Martyr."
 deathYear: 196
 died: "burned at the stake in 196 in Pontus, Asia Minor"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

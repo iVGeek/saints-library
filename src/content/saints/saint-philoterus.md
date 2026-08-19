@@ -1,7 +1,7 @@
 ---
 name: "Saint Philoterus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philoterus"
 summary: "Born to the nobility, the son of imperial Roman proconsul Pacian. Marytred in the persecutions of Diocletian."
 deathYear: 303
 born: "Nicomedia (in modern Turkey)"
@@ -12,9 +12,8 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, the son of imperial Roman proconsul Pacian. Marytred in the persecutions of Diocletian.

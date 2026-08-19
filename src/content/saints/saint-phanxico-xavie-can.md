@@ -1,7 +1,7 @@
 ---
 name: "Saint Phanxicô Xaviê Can"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Phanxicô Xaviê Can"
 summary: "Married layman in the apostolic vicariate of West Tonkin. Catechist. One of the Martyrs of Vietnam."
 birthYear: 1803
 deathYear: 1837
@@ -13,9 +13,7 @@ feastDay:
   month: 11
   day: 20
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

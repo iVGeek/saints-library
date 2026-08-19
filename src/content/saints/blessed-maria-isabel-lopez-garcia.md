@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Isabel López García"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Isabel López García"
 summary: "The daughter of Pietro and Maria, Isabel was educated by the Sisters of the Christian Doctrine, and joined the congregation in 1911 where she served as a cook and nurse. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

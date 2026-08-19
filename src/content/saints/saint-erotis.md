@@ -1,7 +1,7 @@
 ---
 name: "Saint Erotis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Erotis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Eroteis"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

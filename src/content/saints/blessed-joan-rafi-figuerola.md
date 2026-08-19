@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Rafí Figuerola"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Joan Rafí Figuerola"
 summary: "Member of the Claretians, professed on 8 December 1891. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

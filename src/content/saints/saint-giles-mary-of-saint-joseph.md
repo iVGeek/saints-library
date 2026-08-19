@@ -1,7 +1,7 @@
 ---
 name: "Saint Giles Mary-of-Saint-Joseph"
 honorific: Venerable
-title: "Virgin, Bishop, Priest, Pope, Royalty"
+title: "Saint Giles Mary-of-Saint-Joseph"
 summary: "Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of rope maker to support his mother and siblings. Drawn to a religious life, he applied to the Discalced Friars Minor of Saint Peter of Alcantara at Naples, Italy in 17"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giles-Mary-of-Saint-Joseph.jpg"
 searchAliases:
@@ -28,8 +28,6 @@ vocation:
   - Virgin
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Taranto, Italy (chosen on 29 June 1919 by Archbishop Orazio Mazzella of Taranto"

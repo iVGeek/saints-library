@@ -1,7 +1,7 @@
 ---
 name: "Blessed William de Paulo"
 honorific: Blessed
-title: "Monk"
+title: "Blessed William de Paulo"
 summary: "Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline."
 deathYear: 1423
 born: "Catania, Sicily"

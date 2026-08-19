@@ -1,14 +1,13 @@
 ---
 name: "Saint Philadelphus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philadelphus the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

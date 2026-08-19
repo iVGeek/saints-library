@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Vita"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Victor of Vita"
 summary: "Sixth century bishop in North Africa near modern Tunis, Tunisia. Exiled to Sardinia by Arian heretics. His writings on the persecutions by the Arian Vandals has survived."
 deathYear: 535
 born: "Carthage, North Africa"

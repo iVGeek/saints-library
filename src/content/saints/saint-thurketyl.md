@@ -1,7 +1,7 @@
 ---
 name: "Saint Thurketyl"
 honorific: Saint
-title: "Monk"
+title: "Saint Thurketyl"
 summary: "Restored Croyland Abbey, a house that had been destroyed by pagan Danes. Abbot of the monastery at Bedford, England."
 searchAliases:
   - "Turketil"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Barrog the Hermit"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Barrog the Hermit"
 summary: "Seventh century spiritual student of Saint Cadoc of Wales. Hermit on an island off the coast of Glamorgan, a piece of land now known as Barry Island in his honour."
 searchAliases:
   - "Barrwg"

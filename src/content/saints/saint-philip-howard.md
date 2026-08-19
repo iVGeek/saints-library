@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip Howard"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Philip Howard"
 summary: "Grandson of the poet Henry, Earl of Surrey, who was executed by King Henry VIII in 1547. Son of Thomas, the 4th Duke of Norfolk. Godson of King Philip of Spain. His parents were Protestant, but his mother returned to Catholicism and helped hide priests. Married to Anne, daughter"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Howard.jpg"
 birthYear: 1557
@@ -16,10 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "Arundel and Brighton, England, diocese of"
   - "betrayal victims"

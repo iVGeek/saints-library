@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ján Havlík"
 honorific: Blessed
-title: "Martyr, Virgin, Pope, Cardinal"
+title: "Blessed Ján Havlík"
 summary: "The eldest of four children in a very poor family. A member of the Society of Missionaries of Saint Vincent de Paul, Ján began studying at the seminary in Banska Bystrika, Slovakia in 1949. He was noted as an excellent speaker, an excellent singer, and for his devotion to the Vir"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Blessed_J%C3%A1n_Havl%C3%ADk_as_a_prisonner.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
-  - Pope
   - Cardinal
 martyr: true
 ---

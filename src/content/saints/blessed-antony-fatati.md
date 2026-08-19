@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antony Fatati"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Antony Fatati"
 summary: "Priest. Archpriest of Ancona, Italy. Vicar-general of Siena, Italy. Canon of the Vatican in Rome, Italy. Bishop of Teramo, Italy. Bishop of Ancona."
 searchAliases:
   - "Anthony of Teramo"
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

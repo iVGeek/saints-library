@@ -1,7 +1,7 @@
 ---
 name: "Saint Bartolomeu dei Martiri Fernandes"
 honorific: Venerable
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Bartolomeu dei Martiri Fernandes"
 summary: "Joined the Dominicans on 11 November 1528. Took part in the Council of Trent, and introduced the Council's decisions to Portugal. Archbishop of Braga, Portugal from 27 January 1559 through 23 February 1582. Built hospitals and hospices in his diocese, and founded the first cleric"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeu-dei-Martiri-Fernandes.jpg"
 searchAliases:
@@ -22,14 +22,12 @@ feastDay:
   day: 16
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "World Youth Day 2023"
-martyr: true
+martyr: false
 ---
 
 Joined the Dominicans on 11 November 1528. Took part in the Council of Trent, and introduced the Council's decisions to Portugal. Archbishop of Braga, Portugal from 27 January 1559 through 23 February 1582. Built hospitals and hospices in his diocese, and founded the first clerical seminary in Portugal. He wrote Biblical commentaries, a Portuguese catechism, and a Compendium doctrinæ spiritualis. Late in life Pope Gregory XIII allowed him to resign his office, and Bartolomeu spent his last eight years as a teacher and prayerful monk in the monastery of Viana, Portugal.

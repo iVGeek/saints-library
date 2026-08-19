@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidelis of Edessa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fidelis of Edessa"
 summary: "Son of Saint Bassa of Edessa. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bassa-of-Edessa.jpg"
 deathYear: 304
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

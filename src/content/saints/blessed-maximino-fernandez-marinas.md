@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maximino Fernández Marinas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Maximino Fernández Marinas"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

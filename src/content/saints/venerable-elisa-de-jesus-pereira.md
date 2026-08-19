@@ -1,7 +1,7 @@
 ---
 name: "Venerable Elisa de Jesus Pereira"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Elisa de Jesus Pereira"
 summary: "Born to a family with ten children. Her parents died when Elisa was 17 years old, and she helped raise her younger siblings. At age 19, she felt a call to religious life, but her family convinced her to stay and help with the home. When she felt that her obligations there were fi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Elisa-de-Jesus-Pereira.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

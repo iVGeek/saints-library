@@ -1,7 +1,7 @@
 ---
 name: "Saint Maccallin of Lusk"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Maccallin of Lusk"
 summary: "Priest. Bishop of Lusk, Ireland where he lived in a cave while building a church and founding a monastery in the village."
 searchAliases:
   - "Macallan"

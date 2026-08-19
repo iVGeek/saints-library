@@ -1,7 +1,7 @@
 ---
 name: "Blessed Candido Rivera y Rivera"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Candido Rivera y Rivera"
 summary: "Franciscan Conventual priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Pedro"
@@ -17,9 +17,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leonella Sgorbati"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Leonella Sgorbati"
 summary: "Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately after birth at her parish church of San Savio. The family moved to Milan, Italy on 9 October 1950 when Leonella was 9 so her father could find work; he died less"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonella-Sgorbati.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

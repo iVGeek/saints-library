@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benedict Cerretani"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Benedict Cerretani"
 summary: "Vallombrosan abbot."
 deathYear: 1205
 died: "1205"
@@ -10,8 +10,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Badia a Ripoli, Italy"
 martyr: false

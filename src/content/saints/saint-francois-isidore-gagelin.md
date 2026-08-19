@@ -1,7 +1,7 @@
 ---
 name: "Saint François-Isidore Gagelin"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint François-Isidore Gagelin"
 summary: "Studied at the Grand Seminary at Besancon, France. Member of the Paris Foreign Mission Society in 1817. Missionary to Vietnam in 1822. Priest. When the government began a crackdown on Christians, Francis turned himself over to the authorities of Bongson, and worked with other pri"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fran%C3%A7ois-Isidore_Gagelin.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

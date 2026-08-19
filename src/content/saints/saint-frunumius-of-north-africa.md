@@ -1,14 +1,13 @@
 ---
 name: "Saint Frunumius of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Frunumius of North Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

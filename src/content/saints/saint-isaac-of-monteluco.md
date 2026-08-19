@@ -1,7 +1,7 @@
 ---
 name: "Saint Isaac of Monteluco"
 honorific: Saint
-title: "Monk, Pope, Hermit, Royalty"
+title: "Saint Isaac of Monteluco"
 summary: "Monk. Fleeing Monophysite persecution, he settled at Monteluco, Umbria where he helped restore the eremitical life to 6th century Italy. Pope Saint Gregory the Great wrote about Isaac's miracle working and his gift of prophecy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-of-Monteluco.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 martyr: false
 ---
 

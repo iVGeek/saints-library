@@ -1,7 +1,7 @@
 ---
 name: "Saint Emeritus of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Emeritus of Africa"
 summary: "Martyr."
 searchAliases:
   - "Emeterus"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

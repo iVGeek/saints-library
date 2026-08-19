@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyriacus of Málaga"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyriacus of Málaga"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 305
 died: "stoned to death in 305 in Málaga, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Malaga, Spain"

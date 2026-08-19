@@ -1,7 +1,7 @@
 ---
 name: "Saint Antanansio Bazzekuketta"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Antanansio Bazzekuketta"
 summary: "Nkima clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antanansio-Bazzekuketta.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

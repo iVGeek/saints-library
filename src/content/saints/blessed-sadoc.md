@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sadoc of Sandomierz"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Blessed Sadoc of Sandomierz"
 summary: "Studied at the University of Bologna, Italy. Dominican friar, receiving the habit from Saint Dominic de Guzman himself. At the General Chapter the Dominicans in Bologna in 1221, Sadoc was chosen to assist Master Paul of Hungary to establish a province in Hungary. Sadoc later move"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sadoc.jpg"
 searchAliases:
@@ -17,11 +17,9 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

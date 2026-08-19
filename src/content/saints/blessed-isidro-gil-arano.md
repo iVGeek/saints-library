@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidro Gil Arano"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Isidro Gil Arano"
 summary: "Joined the Hospitallers of Saint John of God in 1905. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

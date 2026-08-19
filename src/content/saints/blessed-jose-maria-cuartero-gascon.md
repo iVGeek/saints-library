@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Cuartero Gascón"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José María Cuartero Gascón"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 searchAliases:
   - "José María of Jesus and Mary"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Rinsei"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Petrus Rinsei"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

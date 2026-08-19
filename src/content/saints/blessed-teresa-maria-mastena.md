@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Maria Mastena"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Teresa Maria Mastena"
 summary: "Eldest of five children of Giulio Mastena, a grocer, and Maria Antonia Casarotti, an elementary school teacher. Raised in a pious family; one brother was a priest, another tried to be, and a sister became a tertiary. Received First Communion on 19 March 1891, during which she mad"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Maria-Mastena.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

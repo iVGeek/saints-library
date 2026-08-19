@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul Mary"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Paul Mary"
 summary: "Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor, the bins never ran empty."
 deathYear: 1597
 died: "1597 of natural causes"

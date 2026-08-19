@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michal Rapacz"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Michal Rapacz"
 summary: "Born to a farm family, the son of Jan and Marianna née Wójcik. Having studied in the seminary of Kraków, Poland, Michal was ordained a priest on 1 February 1931. He continued studying theology at Jagiellonian University, and served as parish priest in Ploki, Poland for two years,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Michal-Rapacz.jpg"
 birthYear: 1904
@@ -16,10 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

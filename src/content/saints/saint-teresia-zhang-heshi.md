@@ -1,7 +1,7 @@
 ---
 name: "Saint Teresia Zhang Heshi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Teresia Zhang Heshi"
 summary: "Married lay woman and mother in the apostolic vicariate of Southeastern Zhili, China. Dragged into a pagan temple and order to renounce Christianity, she refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 7
   day: 16
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria del Carmen Rendiles Martinez"
 honorific: Blessed
-title: "Religious, Pope, Cardinal"
+title: "Blessed Maria del Carmen Rendiles Martinez"
 summary: "Third of eight children born to a wealthy and respected family, the daughter of Ramiro Antonio Rendiles and Ana Antonia Martínez; she was born without a left arm and lived with prosthetic. She was baptized on 24 September 1903, confirmed on 28 October 1905, and made her first Com"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-del-Carmen-Rendiles-Martinez.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
 patronage:
   - "Servants of Jesus of Caracas"

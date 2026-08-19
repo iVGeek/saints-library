@@ -1,7 +1,7 @@
 ---
 name: "Saint Ferréolus of Grenoble"
 honorific: Saint
-title: "Martyr, Bishop, Pope"
+title: "Saint Ferréolus of Grenoble"
 summary: "Bishop of Grenoble, France. Killed while preaching to a crowd. Martyr."
 searchAliases:
   - "Fergeol"
@@ -14,9 +14,7 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Pope
 martyr: true
 ---
 

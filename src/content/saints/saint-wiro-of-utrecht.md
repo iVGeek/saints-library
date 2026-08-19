@@ -1,7 +1,7 @@
 ---
 name: "Saint Wiro of Utrecht"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Wiro of Utrecht"
 summary: "Bishop of Utrecht, Netherlands. One of the Apostles of Frisia. He and his two companions founded a monastery at Odiliënberg (in modern France)."
 searchAliases:
   - "Wirone"
@@ -14,13 +14,12 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
 patronage:
   - "Hohenburg Abbey"
-martyr: true
+martyr: false
 ---
 
 Bishop of Utrecht, Netherlands. One of the Apostles of Frisia. He and his two companions founded a monastery at Odiliënberg (in modern France).

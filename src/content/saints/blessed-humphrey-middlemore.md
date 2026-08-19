@@ -1,7 +1,7 @@
 ---
 name: "Blessed Humphrey Middlemore"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Humphrey Middlemore"
 summary: "Carthusian monk at the London Charterhouse. Priest. Procurator on the London Charterhouse. When he refused to recognize the validity of King Henry VIII's marriage with Anne Boleyn, he was imprisoned and martyred with two brother monks for treason."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Vicente_Carducho._Pinturas_para_la_cartuja_de_El_Paular._03.jpg"
 deathYear: 1535
@@ -13,11 +13,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

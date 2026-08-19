@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alexandre Planas Saurí"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Alexandre Planas Saurí"
 summary: "Deaf layman in the archdiocese of Barcelona, Spain. Member of the Salesian Cooperators whom he considered his family. Skiled sculptor. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alexandre-Planas-Saurí.jpg"
 birthYear: 1878
@@ -15,9 +15,7 @@ feastDay:
   month: 11
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

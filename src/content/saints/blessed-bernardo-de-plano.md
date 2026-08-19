@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernardo de Plano"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Bernardo de Plano"
 summary: "Mercedarian friar involved in the ransoming of Christians enslaved by Muslims. Master-General of the Order on 3 November 1417."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardo-de-Plano.jpg"
 deathYear: 1419
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

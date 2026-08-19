@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Mestre Iborra"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Santiago Mestre Iborra"
 summary: "Seventh of the nine children born to Onofre Mestre and Mercedes Iborra, Santiago was baptized at the age of two days. A pious boy and early drawn to religious life, he joined the Capuchins at age 12, and made his perpetual profession in Rome, Italy on 21 April 1930. Ordained a pr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Santiago-Mestre-Iborra.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

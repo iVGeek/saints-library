@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Cho Hwa-so"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Peter Cho Hwa-so"
 summary: "Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the work of Father Thomas Choe Yang-eop. He then moved to Jeonju to become a farmer in a remote mountain area. Married to Magdalene Han; they had one son, Saint Joseph"
 searchAliases:
   - "Peter Jo Hwa-seo"
@@ -19,10 +19,8 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Santonja Pinsach"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Santonja Pinsach"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

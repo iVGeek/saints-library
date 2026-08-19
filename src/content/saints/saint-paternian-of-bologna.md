@@ -1,7 +1,7 @@
 ---
 name: "Saint Paternian of Bologna"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Paternian of Bologna"
 summary: "Bishop of Bologna, Italy from c.450 until his death."
 deathYear: 470
 died: "c.470"

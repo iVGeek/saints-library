@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Consolatrice of Verona"
 honorific: Saint
-title: "Virgin, Bishop, Religious"
+title: "Saint Maria Consolatrice of Verona"
 summary: "A consecrated virgin and sister of Saint Annone, bishop of Verona, Italy. With her brother, and the financial assistance of the matrons of Verona, she recovered the relics of Saint Firmus, Saint Rusticus, Saint Primo, Saint Lazzaro, Saint Marco and Saint Apollinare to Verona; the"
 deathYear: 772
 died: "1 August 772 in Verona, Italy of natural causes"

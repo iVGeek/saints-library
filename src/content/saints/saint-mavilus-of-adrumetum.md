@@ -1,7 +1,7 @@
 ---
 name: "Saint Mavilus of Adrumetum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mavilus of Adrumetum"
 summary: "Martyred in the persecutions of Emperor Caracalla for refusing to worship idols."
 searchAliases:
   - "Majulus"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amalarius of Metz"
 honorific: Blessed
-title: "Martyr, Bishop, Royalty"
+title: "Blessed Amalarius of Metz"
 summary: "Ninth-century liturgical writer. A pupil of Alcuin at Aix-la-Chapelle, Germany, he was bishop of Trier, Germany from 811 to 813, and later ambassador to Constantinople. He lived at a time when the liturgy was changing, when fusion of the Roman and Gallican uses was taking place,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Amalarius-of-Metz.jpg"
 searchAliases:
@@ -20,11 +20,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Ninth-century liturgical writer. A pupil of Alcuin at Aix-la-Chapelle, Germany, he was bishop of Trier, Germany from 811 to 813, and later ambassador to Constantinople. He lived at a time when the liturgy was changing, when fusion of the Roman and Gallican uses was taking place, and he exercised a remarkable influence in introducing the present composite liturgy which has supplanted the ancient Roman Rite. The chief merit of his works is that they have preserved much accurate and valuable information on the state of the liturgy at the beginning of the ninth century and are therefore useful sources for the history of Latin rites.

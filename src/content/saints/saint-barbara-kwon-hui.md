@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbara Kwon Hui"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Barbara Kwon Hui"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Bareubara Gweon Heui"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

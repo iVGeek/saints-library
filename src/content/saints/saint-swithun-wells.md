@@ -1,7 +1,7 @@
 ---
 name: "Saint Swithun Wells"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Swithun Wells"
 summary: "Married layman teacher in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I for having provided shelter to priests, noteably Saint Edmund Gennings and Saint Polydore Plasden, hiding from the anti-Catholic authorities, and for permitting Mass to"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/St_Etheldreda%2C_Ely_Place%2C_London_EC1_-_Nave_statue_-_geograph.org.uk_-_1613385.jpg"
 birthYear: 1536
@@ -16,10 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

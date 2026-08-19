@@ -1,7 +1,7 @@
 ---
 name: "Isaiah the Prophet"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Isaiah the Prophet"
 summary: "Eighth century BC Old Testament prophet. Killed at the order of King Manasses of Juda."
 image: "http://catholicsaints.info/wp-content/uploads/img-Isaiah-the-Prophet.jpg"
 died: "sawn in two"
@@ -11,10 +11,8 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Eighth century BC Old Testament prophet. Killed at the order of King Manasses of Juda.

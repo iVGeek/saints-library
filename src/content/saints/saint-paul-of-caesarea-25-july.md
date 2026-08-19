@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paul of Caesarea"
 summary: "Martyred in the pesecutions of emperor Maximilian and governor Firmilian."
 deathYear: 309
 died: "beheaded in 309 in Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

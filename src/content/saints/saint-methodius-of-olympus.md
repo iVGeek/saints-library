@@ -1,7 +1,7 @@
 ---
 name: "Saint Methodius of Olympus"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk"
+title: "Saint Methodius of Olympus"
 summary: "Born to the nobility. Priest. Bishop of Olympus in Lycia, Asia Minor. Bishop of Tyre. Theological writer admired by Saint Jerome. Martyr in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Methodius_of_Olympus.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Bishop
   - Priest

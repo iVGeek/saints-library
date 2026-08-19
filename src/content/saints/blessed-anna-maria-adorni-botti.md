@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Maria Adorni Botti"
 honorific: Blessed
-title: "Pope, Missionary"
+title: "Blessed Anna Maria Adorni Botti"
 summary: "A pious child, Anna ran away from home at age seven to become a missionary. Married. Widowed at age 39, she devoted herself to ministering to the poor and women prisoners. Founded the Institute of the Good Shepherd of Parma a lay group to help women who had fallen on hard times."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anna_Maria_Adorni.jpg/960px-Anna_Maria_Adorni.jpg"
 birthYear: 1805
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Missionary
 martyr: false
 ---

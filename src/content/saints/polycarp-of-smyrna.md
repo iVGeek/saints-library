@@ -25,7 +25,6 @@ liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Martyr
 patronage:
   - the-church
 causes:

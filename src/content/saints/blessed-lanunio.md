@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lanunio"
 honorific: Blessed
-title: "Monk, Religious, Pope, Hermit"
+title: "Blessed Lanunio"
 summary: "Hermit at Santa Maria della Torre, diocese of Squillace, Calabria, Italy. When Saint Bruno began what became the Carthusians at the Grand Cartreuse in France, Lanunio travelled there to join them. There he became the friend and travelling companion of Saint Bruno, and took over t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lanunio.jpg"
 searchAliases:

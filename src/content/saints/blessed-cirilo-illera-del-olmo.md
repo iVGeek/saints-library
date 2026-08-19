@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cirilo Illera del Olmo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Cirilo Illera del Olmo"
 summary: "Grew up with an uncle who was a priest. Joined the Congregation of San Pedro ad Víncula in Barcelona, Spain in 1901. Ordained a priest in Burgos, Spain in 1914. Teacher. Superior of his house. Elected Councilor-General of the Congregation in 1931. Superior of the Sant Feliu de Ll"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cirilo-Illera-del-Olmo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lollia of Ancyra"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Lollia of Ancyra"
 summary: "Daughter of Saint Gaius of Ancyra; sister of Saint Urban and Saint Probus; great-niece of Saint Eustochius. Raised a pagan in Klistra, Turkey. Convert. Arrested and sent in chains to Ancyra, Galatia in the persectuions of Diocletian. Martyr."
 region: "Turkey"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

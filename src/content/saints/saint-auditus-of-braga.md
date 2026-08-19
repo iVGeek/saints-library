@@ -1,7 +1,7 @@
 ---
 name: "Saint Auditus of Braga"
 honorific: Saint
-title: "Martyr, Bishop, Pope, Royalty"
+title: "Saint Auditus of Braga"
 summary: "Imperial Roman citizen. Auditus was chosen 3rd bishop of Braga, Portugal by Pope Clement I in 95. Baptized Saint Marina. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santo_Ovidio.JPG/960px-Santo_Ovidio.JPG"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Pope
-  - Royalty
 patronage:
   - "against earaches"
   - "against ear problems"

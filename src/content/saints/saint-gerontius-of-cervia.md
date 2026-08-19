@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerontius of Cervia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Gerontius of Cervia"
 summary: "Bishop of Cervia, Italy. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Geronzio_%28part.%29_dalla_pala_di_Luigi_Garzi_%281704%29_-_Cattedrale_di_Cagli.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Pelinus of Confinium"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Pelinus of Confinium"
 summary: "Priest. Bishop of Brindisi, Italy. During the persecutions of Julian the Apostate, Pelinus prayed in front of a temple to the pagan god Mars; it collapsed. Martyr."
 searchAliases:
   - "Pelinus of Brindisi"
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

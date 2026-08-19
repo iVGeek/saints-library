@@ -1,7 +1,7 @@
 ---
 name: "Saint Cosmas"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Cosmas"
 summary: "Twin brother of Saint Damian. Physician, trained in Syria; the brothers accepted no payment for their services, and their charity brought many to Christ. Reported to have miraculously replaced the ulcered leg of a man named Justinian with one from a recently deceased man. Arreste"
 image: "http://catholicsaints.info/wp-content/gallery/saint-cosmas-and-saint-damian/saint-cosmas-and-saint-damian-00.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "against blindness"
   - "against enteritis"

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Matteo Ricci"
 honorific: Venerable
-title: "Priest, Pope, Missionary"
+title: "Venerable Matteo Ricci"
 summary: "Jesuit priest. An early missionary to China, he hoped to use elements of Chinese culture to explain the faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ricciportrait.jpg"
 birthYear: 1552
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Agen"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Vincent of Agen"
 summary: "Deacon and preacher. Martyred by pagans as a sacrifice to a sun god."
 searchAliases:
   - "Vincenzo di Aquitania"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

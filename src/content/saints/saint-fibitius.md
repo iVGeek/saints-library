@@ -1,7 +1,7 @@
 ---
 name: "Saint Fibitius"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Fibitius"
 summary: "Abbot of a monastery in Trier, Germany. Bishop of Trier."
 searchAliases:
   - "Fibizio"

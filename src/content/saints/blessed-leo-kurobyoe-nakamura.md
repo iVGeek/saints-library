@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leo Kurobyoe Nakamura"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Leo Kurobyoe Nakamura"
 summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Franciscus"
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

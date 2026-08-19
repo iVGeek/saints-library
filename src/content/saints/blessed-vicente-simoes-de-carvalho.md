@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Simões de Carvalho"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Vicente Simões de Carvalho"
 summary: "Augustinian priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

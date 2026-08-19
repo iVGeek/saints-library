@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gertrude Prosperi"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Gertrude Prosperi"
 summary: "Born to a wealthy, pious family, the daughter of Dominic and Maria Diomedi. Joined the Benedictines at the monastery of Sante Lucia di Trevi on 4 May 1820, taking the name Sister Maria Luisa Angelica. Served as nurse, sacristan, camerlenga and novice mistress. Elected abbess on 1"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Gertrude_Prosperi.png"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

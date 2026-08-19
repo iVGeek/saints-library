@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerold of Saxony"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Gerold of Saxony"
 summary: "Born to the Saxon nobility. Donated land to the monastery of Einsiedeln, Switzerland where his sons, Cuno and Ulric became monks. Retired to live as a hermit near Mitternach, Germany."
 image: "http://catholicsaints.info/wp-content/uploads/Heiliger-Gerold.jpg"
 searchAliases:

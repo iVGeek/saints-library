@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alberto Capellán Zuazo"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Alberto Capellán Zuazo"
 summary: "Married layman and father."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Alberto-Capellán-Zuazo.jpg"
 birthYear: 1888
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

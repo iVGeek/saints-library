@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonia of Alexandria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Deacon"
+title: "Saint Apollonia of Alexandria"
 summary: "Consecrated virgin. Deaconess. During an anti-Christian uprising in Alexandria, Egypt caused by a pagan prophecy, the mob seized Apollonia as a leader among the local Christians. After her teeth were broken with pincers, she was given the choice of renouncing Christ or being burn"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Apollonia-of-Alexandria.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

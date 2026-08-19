@@ -1,7 +1,7 @@
 ---
 name: "Blessed Malgorzata Szewczyk"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Malgorzata Szewczyk"
 summary: "Born to a deeply religious family, she was orphaned young (her father died when Malgorzata was seven, her mother when she was nine) and leaned on her faith; the Eucharist became the center of her faith the rest of her life. At age 20 Malgorzata became a Franciscan tertiary, makin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Malgorzata-Szewczyk-1.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Daughters of the Sorrowful Mother of God"

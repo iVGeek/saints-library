@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ursula Haider"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Ursula Haider"
 summary: "Orphaned soon after her birth, Usula was raised by her maternal grandmother and her uncle, Father Johannes Bör. In 1422, at age 9, she moved to the Franciscan monastery of Reute at Bad Waldsee in modern Germany to attend their school. She made her first Communion there, and becam"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ursula-Haider.jpg"
 searchAliases:

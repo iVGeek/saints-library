@@ -1,7 +1,7 @@
 ---
 name: "Saint Agilbert of Creteil"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Agilbert of Creteil"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agilbertus"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

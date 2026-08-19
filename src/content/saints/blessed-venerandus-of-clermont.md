@@ -1,7 +1,7 @@
 ---
 name: "Blessed Venerandus of Clermont"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Venerandus of Clermont"
 summary: "Member of a senatorial family. Bishop of Clermont, France from 385 until his death 38 years later. Supported evangelists throughout the region."
 deathYear: 423
 born: "Clermont, Auvergne, Gaul (modern France)"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bodian of Hanvec"
 honorific: Saint
-title: "Saint"
+title: "Saint Bodian of Hanvec"
 summary: "I can find no information on this saint."
 searchAliases:
   - "Bodianus"
@@ -11,8 +11,7 @@ feastDay:
   month: 3
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

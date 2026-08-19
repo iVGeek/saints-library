@@ -1,7 +1,7 @@
 ---
 name: "Saint Solomon le Clerq"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope"
+title: "Saint Solomon le Clerq"
 summary: "Son of a wealthy French wine merchant. Though his father wanted him to pursue the family business, Nicholas early discerned a call to religious life. On 25 March 1767, he entered the novitiate of the Brothers of Christian Schools, and took the name Solomon. A good student, recogn"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillaume-Nicolas-Louis-Leclerq.jpg"
 searchAliases:
@@ -22,10 +22,8 @@ feastDay:
   day: 2
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amancio Marín Mínguez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Amancio Marín Mínguez"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Amancio-Marín-Mínguez.jpg"
 birthYear: 1908
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

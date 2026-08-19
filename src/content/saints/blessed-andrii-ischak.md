@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrii Ischak"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Soldier"
+title: "Blessed Andrii Ischak"
 summary: "Greek Catholic. Studied at universities in Lviv, Ukraine, and Innsbruck, Austria. Doctor of theology in 1914, receiving his degree from the University of Innsbruck. Ordained in 1914. Teacher at the Lviv Theological Academy in 1928. Pastor of the Archeparchy of Lviv for the Ukrain"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrii-Ischak.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apollonius of Africa"
 summary: "Martyr. No other detail have survived."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maurus the Martyr"
 summary: "Son of Saint Claudius and Saint Hilaria; brother of Saint Jason. Convert. Martyred in the persecutions of Numerian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Rome-3-December.jpg"
 deathYear: 283
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

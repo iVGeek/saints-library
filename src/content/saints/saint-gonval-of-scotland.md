@@ -1,7 +1,7 @@
 ---
 name: "Saint Gonval of Scotland"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Gonval of Scotland"
 summary: "King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil power to meddle in Church affairs. Noted for his piety by Saint Columba, and mentioned in the ancient Dunkeld Litany."
 searchAliases:
   - "Conval"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

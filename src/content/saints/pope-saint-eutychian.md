@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Eutychian"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Pope Saint Eutychian"
 summary: "He was the 27th pope, but very little is known about him. Legend says he buried 324 martyrs with his own hands, but he reigned in a quiet period of no state persecution, so this is questionable. Another legend credits him with developing the blessings of fields and crops, but thi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarzana-cattedrale-facciata3.jpg/960px-Sarzana-cattedrale-facciata3.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

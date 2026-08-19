@@ -1,7 +1,7 @@
 ---
 name: "Saint John Joseph of the Cross"
 honorific: Saint
-title: "Priest, Monk, Pope, Confessor"
+title: "Saint John Joseph of the Cross"
 summary: "Joined Franciscans at age 16. Ascetic. First Italian to follow the reform movement of Saint Peter Alcantara who sought to make the Order more devoted to penance and austerity. John had such a reputation for holiness that his superiors put him in charge of establishing a new friar"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/JohnJosephoftheCross.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

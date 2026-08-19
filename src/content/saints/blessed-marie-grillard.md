@@ -2,7 +2,7 @@
 name: "Blessed Marie Grillard"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mend%C3%A8s_-_Les_73_journ%C3%A9es_de_la_Commune%2C_du_18_mars_au_29_mai_1871.djvu/page1-500px-Mend%C3%A8s_-_Les_73_journ%C3%A9es_de_la_Commune%2C_du_18_mars_au_29_mai_1871.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marie Grillard"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1753
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

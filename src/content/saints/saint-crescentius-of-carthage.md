@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentius of Carthage"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Crescentius of Carthage"
 summary: "Priest. Martyred in the persecutions of the Arians."
 deathYear: 484
 died: "484 at Carthage (modern Tunis, Tunisia)"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

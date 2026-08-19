@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrew Sushinda"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Andrew Sushinda"
 summary: "Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr."
 searchAliases:
   - "Andreas Yoshida"
@@ -15,11 +15,9 @@ feastDay:
   month: 10
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr.

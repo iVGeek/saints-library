@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Rosa Zorza"
 honorific: Venerable
-title: "Martyr, Religious, Pope"
+title: "Venerable Maria Rosa Zorza"
 summary: "Member of the Congregation of the Sisters of the Poor - Palazzolo Institute. She died of the Ebola virus contracted by caring for victims of the hemorrhagic fever."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Rosa-Zorza.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Member of the Congregation of the Sisters of the Poor – Palazzolo Institute. She died of the Ebola virus contracted by caring for victims of the hemorrhagic fever.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frédéric Janssone"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Royalty, Soldier"
+title: "Blessed Frédéric Janssone"
 summary: "Youngest of 13 children in a wealthy farm family, Frederic grew up in France but his language at home was Flemish. His father died when the boy was nine. Frederic felt an early call to the priesthood, and entered the junior seminary in his diocese, but dropped out to become a tra"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederic-Janssoone.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Franciscan"
 patronage:

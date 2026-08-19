@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Tuoc"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Ðaminh Tuoc"
 summary: "Dominican tertiary and priest. One of the Martyrs of Vietnam."
 searchAliases:
   - "Domenico"
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cast"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cast"
 summary: "Monk in 6th-century Ireland and Wales. Spiritual student of Saint Jacut. He travelled from Wales to Armorica, an area of France now known as Brittany; legend says that once, when he wanted to consult with Saint Jacut, the sea split and allowed him to walk back to the monastery. P"
 searchAliases:
   - "Castolus"
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "against eye diseases"

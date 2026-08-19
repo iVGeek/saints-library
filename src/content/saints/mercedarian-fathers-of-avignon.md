@@ -1,7 +1,7 @@
 ---
 name: "Mercedarian Fathers of Avignon"
 honorific: Saint
-title: "Priest, Monk"
+title: "Mercedarian Fathers of Avignon"
 summary: "Several Mercedarians from the Santa Maria convent of Avignon, France who worked with plague victims in that city, and died of the disease themselves."
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Fathers-of-Avignon.jpg"
 died: "Avignon, France of plague"

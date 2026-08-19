@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus of Autun"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Paulus of Autun"
 summary: "Evangelizing priest. Missionary to Gaul with Saint Reverianus of Autun and ten companions whose names have not come down to us. Worked from Autun, France. They were all martyred by order of Emperor Aurelian who was at war with the locals at the time."
 searchAliases:
   - "Paul"
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary

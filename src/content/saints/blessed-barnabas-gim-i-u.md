@@ -1,7 +1,7 @@
 ---
 name: "Blessed Barnabas Gim I-u"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Barnabas Gim I-u"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 deathYear: 1801
 born: "Myeongraebang, Seoul, South Korea"
@@ -13,9 +13,7 @@ feastDay:
   month: 9
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

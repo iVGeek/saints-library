@@ -1,7 +1,7 @@
 ---
 name: "Saint Aigulphus of Lérins"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aigulphus of Lérins"
 summary: "Benedictine monk at Fleury, France at age 20. Sent to Monte Cassino Abbey to obtain relics of Saint Benedict of Nursia. Abbot of the Abbey of Lérins c.670, instituting the Benedictine Rule there. Kidnapped and murdered with four of his brother monks by a group of men who objected"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aigulphus-of-Lérins.jpg"
 searchAliases:
@@ -24,12 +24,11 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 patronage:
   - "healing of sore eyes"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Fleury, France at age 20. Sent to Monte Cassino Abbey to obtain relics of Saint Benedict of Nursia. Abbot of the Abbey of Lérins c.670, instituting the Benedictine Rule there. Kidnapped and murdered with four of his brother monks by a group of men who objected to the growing influence of the Christian monks.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Yi Ho-yong"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Petrus Yi Ho-yong"
 summary: "Brother of Saint Agatha Yi So-sa. Layman catechist in the apostolic vicariate of Korea. Imprisoned for four years, regularly beaten, several bones broken, and he eventually died from his mistreatment. One of the earliest of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

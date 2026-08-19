@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelnoth the Good"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Ethelnoth the Good"
 summary: "Monk of Glastonbury, England. Archbishop of Canterbury, England in 1020. Famed for his wisdom."
 searchAliases:
   - "Egelnoth the Good"

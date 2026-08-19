@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mario Ghibaudo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Mario Ghibaudo"
 summary: "Ordained a priest of the diocese of Cuneo, Italy on 19 June 1943. He was assigned to a parish in Boves, Italy, where he developed a ministry to young people suffering in World War II. chaplain to Alpine soldiers stationed nearby. Murdered by German troops as part of the Boves Mas"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mario-Ghibaudo.jpg"
 birthYear: 1920
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

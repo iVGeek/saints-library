@@ -1,7 +1,7 @@
 ---
 name: "Saint Tuto of Regensburg"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Tuto of Regensburg"
 summary: "Monk and then abbot of Saint Emmeram Abbey in Regensburg, Germany. Bishop of Regensburg. Secretary to Emperor Arnold."
 searchAliases:
   - "Tuto of Ratisbon"

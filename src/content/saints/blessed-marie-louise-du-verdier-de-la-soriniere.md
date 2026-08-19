@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Louise du Verdier de la Sorinière"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marie-Louise du Verdier de la Sorinière"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1765
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Sacerdos of Saguntum"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sacerdos of Saguntum"
 summary: "Bishop of Saguntum (now Murviedro), Spain."
 deathYear: 560
 died: "c.560 of natural causes"
@@ -11,12 +11,11 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:
   - "Saguntum, Spain"
-martyr: true
+martyr: false
 ---
 
 Bishop of Saguntum (now Murviedro), Spain.

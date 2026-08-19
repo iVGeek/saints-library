@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Amagasu Tayemon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Michaël Amagasu Tayemon"
 summary: "Layman in the diocese of Niigata, Japan. Son of Blessed Ludovicus Amagasu Uemon. Married to Blessed Dominica Amagasu Martyr."
 birthYear: 1594
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

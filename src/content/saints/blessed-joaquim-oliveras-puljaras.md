@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquim Oliveras Puljarás"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joaquim Oliveras Puljarás"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Artur"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

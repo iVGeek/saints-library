@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincentian of Tulle"
 honorific: Saint
-title: "Pope, Hermit"
+title: "Saint Vincentian of Tulle"
 summary: "Born to the nobility, Vincentian was drawn to religious life, and became known for his charity and piety. Spiritual student of Saint Menelaus. When his parents died and he felt his family obligations were over, he retired to live as a hermit in the forest near Corrèze, in the dio"
 searchAliases:
   - "Viance"
@@ -16,7 +16,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Hermit
 patronage:
   - "Tulle, France"

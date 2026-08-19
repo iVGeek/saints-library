@@ -1,7 +1,7 @@
 ---
 name: "Saint Émilie de Villeneuve"
 honorific: Venerable
-title: "Bishop, Religious, Pope, Cardinal"
+title: "Saint Émilie de Villeneuve"
 summary: "Born to the French nobility. Nun. Founder of the Sisters of the Immaculate Conception of Castres who work for the education of poor girls and children, tend the sick, and serve as missionaries."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jeanne_Emilie_de_Villeneuve.jpg/960px-Jeanne_Emilie_de_Villeneuve.jpg"
 birthYear: 1811
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

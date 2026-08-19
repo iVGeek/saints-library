@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollinaris of Rheims"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apollinaris of Rheims"
 summary: "Jailer in Rheims, France. A spectator at the martyrdom of Saint Timothy, Apollinaris was so moved by the Timothy's courage and faith that he converted. Martyr."
 deathYear: 290
 died: "beheaded c.290 at Rheims, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Christina of Markyate"
 honorific: Saint
-title: "Bishop, Monk, Religious, Pope, Hermit"
+title: "Saint Christina of Markyate"
 summary: "Born to the Anglo-Saxon nobility, the daughter of Autti, a rich and influential guild merchant. At age 15 she visited Saint Albans Abbey where she made a private vow of celibacy. Her parents opposed her vow, and arranged a marriage for her with a man named Berktred. Christina too"
 searchAliases:
   - "Christina of Markgate"

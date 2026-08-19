@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximian of Ravenna"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Maximian of Ravenna"
 summary: "Bishop of Ravenna, Italy in 546 by Pope Vigilius with the support of Emperor Justinian; the choice was initially so unpopular that the Maximian had to live outside the city walls for a while. Built the basilica of Saint Vitalis, and either built or renovated many other churches."
 image: "http://catholicsaints.info/wp-content/uploads/Maximian-of-Ravenna.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Pedro Esqueda Ramírez"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Pedro Esqueda Ramírez"
 summary: "Priest. Vicar-general of the diocese of San Juan de los Lagos, Mexico. Discerning a need for religious education for children, he founded catechetical study centers. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pedro_Esqueda_Ram%C3%ADrez.jpg"
 birthYear: 1887
@@ -16,9 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

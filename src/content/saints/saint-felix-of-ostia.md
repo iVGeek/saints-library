@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

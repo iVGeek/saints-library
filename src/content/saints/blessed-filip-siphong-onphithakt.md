@@ -1,7 +1,7 @@
 ---
 name: "Blessed Filip Siphong Onphithakt"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Filip Siphong Onphithakt"
 summary: "Layman in the archdiocese of Thare and Nonseng, Thailand. Catechist in Songkhon in 1926. Married to Marie Thong in 1931. Father of five. When the parish priest was exiled during a persecution in Thailand, Filip took over leadership of the Christian community. He also protested th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Filip-Siphong-Onphithakt.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

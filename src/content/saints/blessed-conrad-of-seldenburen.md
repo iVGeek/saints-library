@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conrad of Seldenbüren"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Conrad of Seldenbüren"
 summary: "Born to the nobility, a member of the royal house of Seldenbüren, and apparently the last member of the family. He founded and endowed Engelberg Abbey at Unterwalden, Switzerland in 1120; legend says that Conrad was told by an angelic voice where to build the abbey. which led to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Conrad-of-Seldenburen.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 5
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

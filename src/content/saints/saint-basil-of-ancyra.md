@@ -1,7 +1,7 @@
 ---
 name: "Saint Basil of Ancyra"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Basil of Ancyra"
 summary: "Priest in Ancyra, Galatia (in Asia Minor). Fought against the Arian heretics in the reign of emperor Constantius, and against the iconoclast heretics in the persecutions of Julian the Apostate. His defense of orthodox Christianity led to his imprisonment, torture and execution. M"
 image: "http://catholicsaints.info/wp-content/uploads/Basil-of-Ancyra.jpg"
 deathYear: 364
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

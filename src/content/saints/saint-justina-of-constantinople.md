@@ -1,7 +1,7 @@
 ---
 name: "Saint Justina of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Justina of Constantinople"
 summary: "Martyred maiden. No other information has survived."
 region: "Turkey"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

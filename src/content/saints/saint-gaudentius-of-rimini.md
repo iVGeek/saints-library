@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudentius of Rimini"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon"
+title: "Saint Gaudentius of Rimini"
 summary: "Immigrant to Rome, Italy c.308; ordained there in 332. Evangelizing bishop of Rimini, Italy in 346. Ordained Saint Marinus as deacon. Attended the Council of Rimini in 359 which condemned Arianism. Murdered by Arians. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tempio_malatestiano%2C_ri%2C_corte_della_diocesi%2C_sarcofago_di_san_gaudenzio_02.JPG/960px-Tempio_malatestiano%2C_ri%2C_corte_della_diocesi%2C_sarcofago_di_san_gaudenzio_02.JPG"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

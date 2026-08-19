@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of La Torre de Fontaubella"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Martyrs of La Torre de Fontaubella"
 deathYear: 1936
 died: "12 August 1936 in La Torre de Fontaubella, Tarragona, Spain"
 deathPlace: "Tarragona, Spain"
@@ -11,8 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---

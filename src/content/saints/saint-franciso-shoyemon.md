@@ -1,7 +1,7 @@
 ---
 name: "Saint Franciso Shoyemon"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Franciso Shoyemon"
 summary: "Lay Dominican catechist. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg"
 deathYear: 1633
@@ -12,9 +12,7 @@ feastDay:
   month: 8
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

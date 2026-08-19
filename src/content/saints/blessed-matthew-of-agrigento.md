@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthew of Agrigento"
 honorific: Blessed
-title: "Bishop, Priest, Monk, Pope"
+title: "Blessed Matthew of Agrigento"
 summary: "Matthew was a Franciscan friar, joining the Order in 1391 at the convent of Saint Francis of Assisi in Agrigento, Italy; he made his profession in 1394. He studied theology in Bologna, Italy and Barcelona, Spain where he earned a degree and was ordained a priest in 1400. Travelli"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matthew-of-Agrigento.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

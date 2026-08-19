@@ -1,7 +1,7 @@
 ---
 name: "Saint Callista of Syracuse"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Callista of Syracuse"
 summary: "Martyr."
 searchAliases:
   - "Callistus"
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

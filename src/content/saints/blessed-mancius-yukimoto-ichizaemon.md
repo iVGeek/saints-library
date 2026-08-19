@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mancius Yukimoto Ichizaemon"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Mancius Yukimoto Ichizaemon"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Özséb of Esztergom"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Özséb of Esztergom"
 summary: "Born to the wealthy Hungarian nobility. As a child he was noted as an excellent student and for his faith, preferring to spend his time in prayer and contemplation in his youth. After studying at the Esztergom Seminary, he was ordained a priest in the diocese of Esztergom, Hungar"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Eusebius-of-Esztergom.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 patronage:
   - "Order of Saint Paul the First Hermit"

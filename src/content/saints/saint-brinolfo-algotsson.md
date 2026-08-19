@@ -1,7 +1,7 @@
 ---
 name: "Saint Brinolfo Algotsson"
 honorific: Saint
-title: "Bishop, Pope, Royalty"
+title: "Saint Brinolfo Algotsson"
 summary: "Born to the nobility, the son of Algot Brynolfsson. Educated at the cathedral of Skara, Sweden, and in Paris, France where he heard lectures by Saint Thomas Aquinas; Brinolfo was noted all his life for his learning. Had an extensive background in theology and canon law. Dean of t"
 searchAliases:
   - "Brynolf"
@@ -15,8 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Pope
-  - Royalty
 martyr: false
 ---
 

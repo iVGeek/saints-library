@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Africa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Julian of Africa"
 summary: "Priest of an African church. During a visit to Italy, he witnessed a pagan celebration of Apollo; Julian objected to the human sacrifice it involved. He was imprisoned for two years, and then martyred with Saint Caesarius."
 born: "African"
 died: "tied into a sack and thrown into the sea to drown at Pisco Montano, Terracina, Italy, date unknown"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

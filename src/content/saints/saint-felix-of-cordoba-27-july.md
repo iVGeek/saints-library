@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Cordoba"
 summary: "Layman Christian in Moorish-occupied Spain. Married to Saint Lillian of Cordoba. Martyred in the persecutions of Caliph Abderraham II."
 deathYear: 852
 born: "Spain"
@@ -13,7 +13,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

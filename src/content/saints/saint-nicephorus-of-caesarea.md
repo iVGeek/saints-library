@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicephorus of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nicephorus of Caesarea"
 summary: "Martyred in the persecutions of Emperor Galerius Maximus."
 deathYear: 300
 died: "c.300 in Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

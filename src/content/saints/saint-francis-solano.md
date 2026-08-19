@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis Solano"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty, Missionary, Confessor"
+title: "Saint Francis Solano"
 summary: " Missionary to South Son of Matthew Sanchez Solanus and Anna Ximenes, Andalusian nobles. Joined the Franciscans at age 20. Preacher for many years in southern Spain. Novice master at Arifazza. Worked with plague victims in Granada in 1583; caught the plague himself, but recovered."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-Solano.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
   - Confessor
@@ -34,7 +32,7 @@ patronage:
   - "Paraguay"
   - "Peru"
   - "Añatuya, Argentina, diocese of"
-martyr: true
+martyr: false
 ---
 
 Son of Matthew Sanchez Solanus and Anna Ximenes, Andalusian nobles. Joined the Franciscans at age 20. Preacher for many years in southern Spain. Novice master at Arifazza. Worked with plague victims in Granada in 1583; caught the plague himself, but recovered.

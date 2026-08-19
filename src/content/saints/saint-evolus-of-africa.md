@@ -1,7 +1,7 @@
 ---
 name: "Saint Evolus of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Evolus of Africa"
 summary: "Martyr. No other information has survived."
 deathYear: 254
 died: "254 in Africa, exact location and date unknown"
@@ -11,8 +11,7 @@ feastDay:
   month: 3
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "beheaded in 303 at Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

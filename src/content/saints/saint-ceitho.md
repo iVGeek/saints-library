@@ -1,7 +1,7 @@
 ---
 name: "Saint Ceitho"
 honorific: Saint
-title: "Monk"
+title: "Saint Ceitho"
 summary: "One of five 6th century brothers, all of whom are venerated as saints in Wales. Founded a church in Llangeitho, Dyfed, Wales."
 region: "England"
 feastDay:

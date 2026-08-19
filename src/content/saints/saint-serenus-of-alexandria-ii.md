@@ -1,7 +1,7 @@
 ---
 name: "Saint Serenus of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Serenus of Alexandria"
 summary: "Spiritual student of Origen. Tortured and martyred in the persecutions of Severus."
 searchAliases:
   - "Sereno"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

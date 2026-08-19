@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ismael Molinero Novillo"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier"
+title: "Venerable Ismael Molinero Novillo"
 summary: "The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de Esténaga y Echevarría. In 1931, at age 14, he dro"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ismael-Molinero-Novillo.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
-martyr: true
+martyr: false
 ---
 
 The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de Esténaga y Echevarría. In 1931, at age 14, he dropped out of school and went to work as a store clerk to help his family. He joined Catholic Action in Tomelloso, Spain in 1933, and over the next year or so became active in their work, in his parish, in visiting the local hospital, and in his faith in general; he became the treasurer of his Catholic Action chapter. He made a spiritual retreat in the Ciudad Real seminary in April 1935 that was led by Father José Sánchez Oliva.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alanus of Lavaur"
 honorific: Saint
-title: "Monk"
+title: "Saint Alanus of Lavaur"
 summary: "Seventh century founder and abbot of the monastery of Lavaur in Gascony (in modern France)."
 searchAliases:
   - "Alain"

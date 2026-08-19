@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodosius"
 summary: "Martyred with 42 companions in the persecutions of Diocletian."
 searchAliases:
   - "Teodosio"
@@ -14,7 +14,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

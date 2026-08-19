@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew the Tribune"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Andrew the Tribune"
 summary: "Soldier. Tribune in the Greek army. Convert to Christianity, along with a number of his men, following a miraculous victory over the Persians. Martyred by Seleucus as a group for their new faith."
 image: "http://catholicsaints.info/wp-content/uploads/Andrew-Stratelates.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "armies"

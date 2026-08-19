@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mechthild of Hochsal"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Mechthild of Hochsal"
 summary: "Anchoress at Hochsal, Waldshut in southern Germany."
 deathYear: 1081
 born: "11th century"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint William of Bourges"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Deacon, Pope, Hermit, Royalty, Soldier, Confessor"
+title: "Saint William of Bourges"
 summary: "Member of the family of the Counts of Nevers, his father Baldwin planned a military life for William. Educated by his maternal uncle, Peter the Hermit, archdeacon of Soissons, France. Drawn to religious life from an early age, William became a priest, canon of Soissons, and canon"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Bourges.jpg"
 searchAliases:
@@ -20,10 +20,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Member of the family of the Counts of Nevers, his father Baldwin planned a military life for William. Educated by his maternal uncle, Peter the Hermit, archdeacon of Soissons, France. Drawn to religious life from an early age, William became a priest, canon of Soissons, and canon of Paris. Monk in the Order of Grandmont, noted for his austerities, his devotion to the Blessed Sacrament, and for the time spent praying at the altar. Internal dissension in the Order caused him to leave Grandmont for the recently formed Cistercians, taking the habit at Pontigny. Abbot at Fontaine-Jean in Sens, France. Abbot at Chaalis near Senlis, France in 1187.

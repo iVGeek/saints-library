@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry Zdick"
 honorific: Blessed
-title: "Bishop, Monk, Royalty"
+title: "Blessed Henry Zdick"
 summary: "Bohemian prince; son of King Wratislas I. Bishop of Olmutz (in the modern Czech Republic) in 1126. During a pilgrimage to Palestine in 1137, he joined the Premonstratensian order at Jerusalem. On his return home, he introduced the order in several places in his diocese, and found"
 searchAliases:
   - "Henry of Olomouc"
@@ -16,7 +16,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Otger of Utrecht"
 honorific: Saint
-title: "Monk"
+title: "Saint Otger of Utrecht"
 summary: "Worked with Saint Wiro of Utrecht to found a monastery at Odilienburg, Netherlands."
 searchAliases:
   - "Odger"

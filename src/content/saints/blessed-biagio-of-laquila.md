@@ -1,7 +1,7 @@
 ---
 name: "Blessed Biagio of L'Aquila"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Biagio of L'Aquila"
 summary: "Franciscan lay brother who travelled with and supported the work of Saint John of Capistrano. It was said that he “never spoke an idle word”, that every action and every word was directed to spreading the faith and bringing people closer to the love of God."
 searchAliases:
   - "Biagio Aquilano"
@@ -14,8 +14,7 @@ feastDay:
   month: 6
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

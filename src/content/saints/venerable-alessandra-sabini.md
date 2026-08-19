@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alessandra Sabini"
 honorific: Venerable
-title: "Saint"
+title: "Venerable Alessandra Sabini"
 summary: "Franciscan tertiary who founded several monasteries in the Le Marche region of Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Alessandra-Sabini.jpg"
 birthYear: 1499
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

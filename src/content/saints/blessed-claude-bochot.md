@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude Bochot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Claude Bochot"
 summary: "Doctrinarian priest. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Claude-Bochot.jpg"
 birthYear: 1720
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

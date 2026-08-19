@@ -1,7 +1,7 @@
 ---
 name: "Saint Vigilius of Trent"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Missionary"
+title: "Saint Vigilius of Trent"
 summary: "Roman patrician, son of Theodosius and Maxentia. Brother of Saint Claudian and Saint Magorian. Studied at Athens, Greece where he developed a reputation for learning and sanctity. Friend of Saint John Chrysostom. Settled in the region of Trent, Italy in 380. Chosen bishop of Tren"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Vigilius_and_companions-Naurizio.JPG"
 searchAliases:
@@ -16,8 +16,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Saint Nunilo of Huesca"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Nunilo of Huesca"
 summary: "Sister of Saint Alodia of Huesca, she was born to a Muslim father and Christian mother, and was raised Christian. When her father died, her mother married another Muslim man who persecuted the girls, imprisoned them, and turned them over to die during the persecution of Abdur Rah"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nunilo-of-Huesca.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

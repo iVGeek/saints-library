@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hugh Green"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Hugh Green"
 summary: "Educated at Peterhouse, Cambridge, England. Convert to Catholicism. Studied for the priesthood, and ordained at Douai, France in 1612. Worked with covert Catholics at Dorset, England during a period of persecution. One of the Martyrs of England and Wales."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-Green.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

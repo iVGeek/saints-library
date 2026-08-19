@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerian of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Valerian of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "drowned c.300 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

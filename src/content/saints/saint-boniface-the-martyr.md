@@ -1,7 +1,7 @@
 ---
 name: "Saint Boniface the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Boniface the Martyr"
 summary: "Martyred in the persecutions of the Arian Vandal king Huneric."
 deathYear: 484
 died: "484 somewhere in North Africa"
@@ -11,10 +11,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

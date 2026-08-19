@@ -1,7 +1,7 @@
 ---
 name: "Saint Pardulf"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Pardulf"
 summary: "Hermit. Monk at Gueret, France. Abbot at Gueret. During the Saracen invasion of the area, the monks of his house evacuated - except for Pardulf; he stayed behind to pray for the preservation of the monastery; it was saved from attack."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pardoux.jpg"
 searchAliases:

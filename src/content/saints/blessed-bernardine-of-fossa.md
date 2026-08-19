@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernardine of Fossa"
 honorific: Blessed
-title: "Bishop, Pope, Royalty"
+title: "Blessed Bernardine of Fossa"
 summary: "Born to the nobility, member of the Amici family. An excellent student, he was educated at Aquila, Italy. Obtained doctorates in civil law and canon law at Perugia, Italy. Joined the Franciscan Friars Minor on 12 March 1445 in Perugia, taking the name Giovanni Bernardino, and rec"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardine-of-Fossa.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

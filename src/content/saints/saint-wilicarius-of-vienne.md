@@ -1,7 +1,7 @@
 ---
 name: "Saint Wilicarius of Vienne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Wilicarius of Vienne"
 summary: "Bishop of Vienne, France. Went into exile to Rome, Italy, c.752 due to Frankish persecution. Retired from his see to spend his remaining years as a prayerful monk in the monastery of Saint Mauritius."
 searchAliases:
   - "Wilicaire"

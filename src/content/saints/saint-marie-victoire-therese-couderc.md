@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie Victoire Therese Couderc"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Marie Victoire Therese Couderc"
 summary: "Nun in the Sisters of Saint Regis. Novice mistress and house superior in La Louvesc, France. Superior general of her order. With Father Stephen Terme, she founded the Congregation of Our Lady of the Retreat in the Cenacle, in La Louvesc in 1826; it began in a mountain hostel for"
 image: "http://catholicsaints.info/wp-content/uploads/Therese_Couderc.jpg"
 birthYear: 1805
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Pierre-François Néron"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Pierre-François Néron"
 summary: "Fith of nine children. Studied in seminaries in Nozeroy and Vaux-sur-Poligny, France. Member of the Paris Foreign Missions Society. Ordained in 1848. Missionary to Vietnam. Director of the Society's seminary. Taught philosophy and translated textbooks for his students. Noted for"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-François-Néron.jpg"
 birthYear: 1818
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 patronage:
   - "young people in the diocese of Jura, France"

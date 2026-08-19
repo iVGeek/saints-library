@@ -1,7 +1,7 @@
 ---
 name: "Saint Scoth"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Scoth"
 summary: "Irish nun."
 region: "Ireland"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Irish nun.

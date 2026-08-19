@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillermo Giraldi"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Guillermo Giraldi"
 summary: "Mercedarian friar. Prior of the Mercedarian convent in Barcelona, Spain. Made two trips to north Africa to ransom Christians enslaved by Muslims, and brought 453 of them home."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillermo-Giraldi.jpg"
 died: "in Barcelona, Spain of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 3
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

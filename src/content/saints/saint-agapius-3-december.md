@@ -1,14 +1,13 @@
 ---
 name: "Saint Agapius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agapius"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 12
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

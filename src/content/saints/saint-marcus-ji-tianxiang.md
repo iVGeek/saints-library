@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcus Ji Tianxiang"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Marcus Ji Tianxiang"
 summary: "Married layman in the apostolic vicariate of Southeastern Zhili, China. Father. Physician. An opium addiction led to him being forbidden to take Communion, and though he could not break his dependency for 30 years, he never lost his faith, never wanted to leave the Church, and wh"
 searchAliases:
   - "Magu"
@@ -19,9 +19,7 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

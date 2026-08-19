@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gundisalvus of Lagos"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Gundisalvus of Lagos"
 summary: "The son of a fisherman, Gonçalo became an Augustinian friar at about age 20. He was renowned as a theologian and preacher, concentrating his catechesis work on children, the illiterate and uneducated. A gifted artist, he illuminated and illustrated liturgical books. Prior of the"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Monumento_a_S%C3%A3o_Gon%C3%A7alo_de_Lagos_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853832859533%29.jpg/960px-Monumento_a_S%C3%A3o_Gon%C3%A7alo_de_Lagos_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853832859533%29.jpg"
 searchAliases:
@@ -21,8 +21,7 @@ feastDay:
   month: 10
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 patronage:
   - "young people"

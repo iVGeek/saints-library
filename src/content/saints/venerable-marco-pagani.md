@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marco Pagani"
 honorific: Venerable
-title: "Priest, Religious, Pope, Hermit, Royalty"
+title: "Venerable Marco Pagani"
 summary: "At age 19, Marco graduated from the University of Padua with degrees in civil and canon law, and the served as a lawyer for the Apostolic Nunciature of the Republic of Venice. In his 20's he abandoned his career to become a member of the Order of the Regular Clerics of Saint Paul"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Marco-Pagani.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

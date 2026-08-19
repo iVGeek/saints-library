@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Baptist Machado de Tavora"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Missionary"
+title: "Blessed John Baptist Machado de Tavora"
 summary: "Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan."
 birthYear: 1580
 deathYear: 1617
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

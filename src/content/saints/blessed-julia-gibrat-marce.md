@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julià Gibrat Marcé"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Julià Gibrat Marcé"
 summary: "Franciscan Capuchin friar, professed on 8 December 1899. Ordained a priest on 28 March 1903. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Viçenc of Besalú"
@@ -17,12 +17,10 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, professed on 8 December 1899. Ordained a priest on 28 March 1903. Murdered by Marxists in the Spanish Civil War.

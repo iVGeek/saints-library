@@ -1,7 +1,7 @@
 ---
 name: "Saint Photis of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Photis of Rome"
 summary: "Martyred in the persecutions of Nero."
 searchAliases:
   - "Photides of Rome"
@@ -13,7 +13,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

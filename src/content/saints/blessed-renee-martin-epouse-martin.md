@@ -1,7 +1,7 @@
 ---
 name: "Blessed Renée Martin épouse Martin"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Renée Martin épouse Martin"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1752
 deathYear: 1794
@@ -13,9 +13,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

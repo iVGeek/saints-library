@@ -2,7 +2,7 @@
 name: "Blessed Agustín Pedro Calvo"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rafael_Calvo_y_su_repertorio_-_Santiago_Estrada.pdf/page1-500px-Rafael_Calvo_y_su_repertorio_-_Santiago_Estrada.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Agustín Pedro Calvo"
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Honorato Alfredo"
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

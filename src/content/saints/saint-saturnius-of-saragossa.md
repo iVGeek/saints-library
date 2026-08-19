@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturnius of Saragossa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturnius of Saragossa"
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean. Note that there were four (4) men in the group with this name."
 deathYear: 304
 died: "martyred c.304 at Zaragoza, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

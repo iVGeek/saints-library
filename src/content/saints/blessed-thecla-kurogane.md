@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thecla Kurogane"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Thecla Kurogane"
 summary: "Young lay woman in the diocese of Niigata, Japan. Married to Blessed Vincentius Kurogane Ichibiyoe. Martyr."
 birthYear: 1611
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

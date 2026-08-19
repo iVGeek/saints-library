@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropia of Auvergne"
 honorific: Saint
-title: "Monk"
+title: "Saint Eutropia of Auvergne"
 summary: "Holy 5th century widow in Auvergne, France. No other information has survived."
 region: "France"
 feastDay:

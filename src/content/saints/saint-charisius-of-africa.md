@@ -1,7 +1,7 @@
 ---
 name: "Saint Charisius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Charisius of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Charesius"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

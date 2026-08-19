@@ -1,7 +1,7 @@
 ---
 name: "Saint Ceollach"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Ceollach"
 summary: "Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland."
 born: "Ireland"
 died: "7th century in Ireland"

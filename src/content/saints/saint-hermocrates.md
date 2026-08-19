@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermocrates"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermocrates"
 summary: "Martyr."
 searchAliases:
   - "Thermocrates"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ermocrate_di_Siracusa.png"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

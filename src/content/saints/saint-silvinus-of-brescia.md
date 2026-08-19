@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvinus of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Silvinus of Brescia"
 summary: "Bishop of Brescia, Italy."
 deathYear: 444
 died: "444"

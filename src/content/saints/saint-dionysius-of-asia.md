@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Asia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Asia"
 summary: "Uncle and guardian of Saint Pancras. In Rome, Italy the two converted to Christianity. Arrested for his faith during the persecutions of Diocletian, he died in a Roman prison. Martyr."
 deathYear: 304
 born: "Asia Minor"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

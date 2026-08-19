@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovicus Maki Soetsu"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ludovicus Maki Soetsu"
 summary: "Married layman in the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans. Adoptive father of Blessed John Maki. Allowed Blessed Thomas Tsughi to celebrate Mass in his home, for which he was arrested and executed. Martyr."
 searchAliases:
   - "Louis Maki"
@@ -16,9 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

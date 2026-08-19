@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodolus of Sinai"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theodolus of Sinai"
 summary: "Martyred with 37 companions in one of a series of massacres the early 4th century by pagan Arabs in the Red Sea area."
 searchAliases:
   - "Theodulus"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

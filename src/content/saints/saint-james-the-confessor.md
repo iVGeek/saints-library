@@ -1,7 +1,7 @@
 ---
 name: "Saint James the Confessor"
 honorific: Saint
-title: "Martyr, Confessor"
+title: "Saint James the Confessor"
 summary: "Martyred for opposing iconoclasm."
 deathYear: 824
 died: "c.824 at Constantinople (modern Istanbul, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 martyr: true
 ---

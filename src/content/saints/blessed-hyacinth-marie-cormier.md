@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hyacinth-Marie Cormier"
 honorific: Blessed
-title: "Confessor, Martyr"
+title: "Blessed Hyacinth-Marie Cormier"
 summary: "Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri. His father died when Louis was a small boy, h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hyacinth-Marie-Cormier.jpg"
 searchAliases:
@@ -19,10 +19,9 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri. His father died when Louis was a small boy, his brother soon after, and his uncle, a parish priest, helped raise him. Studied at home, then with the Christian Brothers, and entered the minor seminary in the diocese of Orléans, France at age 13. Could play the flageolet (a woodwind similar to a recorder), organ and ophicleide (a brass, trumpet-like instrument), and was known as a fine singer; Franz Liszt is reported to have admired Louis' skills at the organ.

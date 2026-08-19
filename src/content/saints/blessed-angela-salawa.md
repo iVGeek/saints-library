@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angela Salawa"
 honorific: Blessed
-title: "Pope, Soldier"
+title: "Blessed Angela Salawa"
 summary: "Daughter of Salaw Bartlomiej and Ewa Bochenek, the youngest of ten children in a pious tradesman's family. She received two years of formal education, and at age 12 began work as a domestic in nearby homes. On 27 April 1900 she joined the Saint Zita Assocation, a religious group"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/65/B%C5%82._Aniela_Salawa.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Soldier
 religiousOrder: "Franciscan"
 martyr: false

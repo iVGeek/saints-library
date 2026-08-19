@@ -1,7 +1,7 @@
 ---
 name: "Blessed Klara Schramm"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty, Soldier"
+title: "Blessed Klara Schramm"
 summary: "A member of the Sisters of Saint Elizabeth, making her first profession on 16 August 1915 and her perpetual profession on 29 June 1924. She served in Ramultowice, Szklarska Poreba, Walbrzych-Sobiecin, and Godzieszów, where she was the superior of her house. When the village was o"
 searchAliases:
   - "Sister Maria Adela"
@@ -17,10 +17,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

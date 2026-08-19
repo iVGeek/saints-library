@@ -1,7 +1,7 @@
 ---
 name: "Saint Faeldobair of Clochar"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faeldobair of Clochar"
 summary: "Monk."
 searchAliases:
   - "Faeldobar"
@@ -16,9 +16,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk.

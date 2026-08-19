@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jane of Toulouse"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Jane of Toulouse"
 summary: "Received the Carmelite veil from Saint Simon Stock, taking a vow of perpetual chastity. Followed the rule of Saint Albert of Jerusalem. First Carmelite tertiary, and foundress of the Carmelite Third Order. Worked with the sick and poor, and trained young Carmelite friars. Very li"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jane-of-Toulouse.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

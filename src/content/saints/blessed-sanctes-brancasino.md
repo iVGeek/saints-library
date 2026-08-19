@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sanctes Brancasino"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Sanctes Brancasino"
 summary: "Franciscan lay-brother at Scotameto, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sanctes-Brancasino.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

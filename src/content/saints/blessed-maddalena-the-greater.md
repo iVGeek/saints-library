@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maddalena the Greater"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Maddalena the Greater"
 summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maddalena-the-Greater.jpg"
 region: "Spain"

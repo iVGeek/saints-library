@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Sutton"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Robert Sutton"
 summary: "Protestant minister; rector of Lutterworth, Leicestershire, England in 1571. Convert to Catholicism, led to the faith by his younger brother William who became a Jesuit priest. With his younger brother Abraham, he studied in Douai, France in 1576. Ordained in February 1577 for th"
 deathYear: 1588
 born: "Burton-on-Trent, Staffordshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

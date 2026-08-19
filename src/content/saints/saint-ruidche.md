@@ -1,7 +1,7 @@
 ---
 name: "Saint Ruidche"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Ruidche"
 summary: "Nun."
 born: "9th century Ireland"
 region: "Ireland"
@@ -10,9 +10,8 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun.

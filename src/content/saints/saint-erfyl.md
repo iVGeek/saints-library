@@ -1,7 +1,7 @@
 ---
 name: "Saint Erfyl"
 honorific: Saint
-title: "Virgin, Monk"
+title: "Saint Erfyl"
 summary: "Holy virgin who founded the church of Llanerfyl, Montgomeryshire, Wales. No reliable information has survived."
 searchAliases:
   - "Eurfyl"

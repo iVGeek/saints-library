@@ -1,7 +1,7 @@
 ---
 name: "Saint Atto of Oca"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Atto of Oca"
 summary: "Benedictine monk at Ona, Old Castile, Spain. Spiritual student of Saint Enneco. Bishop of Oca-Valpuesta, Spain."
 deathYear: 1044
 died: "1044 of natural causes"

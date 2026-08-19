@@ -1,7 +1,7 @@
 ---
 name: "Saint Cloud"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Cloud"
 summary: "Born to French royalty, son of King Clodomir and Clotilde, and grandson of King Clovis and Saint Clotilda. His father died in battle when his children were still quite young. The king's sons were raised in Paris, France by their grandmother, Saint Clotilda, until an ambitious unc"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/960px-ISS-40_Thunderheads_near_Borneo.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "nail makers"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Taziano of Claudiopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Taziano of Claudiopolis"
 summary: "Martyr."
 searchAliases:
   - "Tatian"
@@ -16,7 +16,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

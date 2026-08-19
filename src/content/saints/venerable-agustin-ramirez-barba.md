@@ -1,7 +1,7 @@
 ---
 name: "Venerable Agustín Ramírez Barba"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Agustín Ramírez Barba"
 summary: "Born to a poor family. Ordained on 2 August 1908 in the diocese of San Juan de los Lagos, Mexico. Director of the seminary of Guadalajara, Mexico. Chaplain of the Santuario del Señor de la Misericordia in Tepatitlán, Mexico on 23 July 1923. Founded the Congregation of the Sister"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Agustín-Ramírez-Barba.jpg"
 birthYear: 1881
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

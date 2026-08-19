@@ -1,7 +1,7 @@
 ---
 name: "Saint Monon of Nassogne"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Monon of Nassogne"
 summary: "Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness."
 searchAliases:
   - "Mono"
@@ -17,11 +17,10 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness.

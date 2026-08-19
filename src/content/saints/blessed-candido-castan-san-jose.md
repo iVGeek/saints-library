@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cándido Castán San José"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Cándido Castán San José"
 summary: "Married layman. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cándido-Castán-San-José.jpg"
 birthYear: 1894
@@ -12,9 +12,7 @@ feastDay:
   month: 7
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

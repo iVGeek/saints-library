@@ -1,7 +1,7 @@
 ---
 name: "Saint Thespesius of Cappadocia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Thespesius of Cappadocia"
 summary: "Martyred in the persecutions of Emperor Alexander Severus."
 deathYear: 230
 died: "martyred in 230 in Cappadocia (in modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

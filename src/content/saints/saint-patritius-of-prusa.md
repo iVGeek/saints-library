@@ -1,7 +1,7 @@
 ---
 name: "Saint Patritius of Prusa"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Patritius of Prusa"
 summary: "Bishop. Martyr. No other information has survived."
 searchAliases:
   - "Patricius"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Saint Honorina of Graville"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Honorina of Graville"
 summary: "One of the earliest martyrs in Gaul (modern France). Her cultus in Normandy goes back to the beginning of the Church, but her Acts have been lost, and no details are known."
 image: "http://catholicsaints.info/wp-content/uploads/img-Sainte-Honorine.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "boatmen"

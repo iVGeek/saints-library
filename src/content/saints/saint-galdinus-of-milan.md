@@ -1,7 +1,7 @@
 ---
 name: "Saint Galdinus of Milan"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Cardinal, Confessor"
+title: "Saint Galdinus of Milan"
 summary: "Milanese noble. Priest. Chancellor. Archdeacon. Supported the Roman Pope during the schism of 1159. Fled Milan, Italy in 1161 when Frederick Barbarossa besieged the city in support of the anti-pope, yet was still elected bishop. Cardinal in 1165. Archbishop in 1166. Papal legate"
 searchAliases:
   - "Galdinus della Sala"
@@ -20,7 +20,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

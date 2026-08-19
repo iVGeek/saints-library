@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Pilar Gullón Yturriaga"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed María Pilar Gullón Yturriaga"
 summary: "The eldest of four children born to Manuel Gullón and Pilar Yturriaga. Member of Catholic Action and the Daughters of Mary in the diocese of Astorga, Spain where she taught catechism to children and cared for the sick in their homes. A lifelong lay woman, she trained and served a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Pilar-Gullon-Yturriaga.jpg"
 birthYear: 1911
@@ -15,10 +15,7 @@ feastDay:
   month: 10
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

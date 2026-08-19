@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gjelosh Lulashi"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Soldier"
+title: "Blessed Gjelosh Lulashi"
 summary: "A lifelong layman in the archdiocese of Shkodrë-Pult, Albania, Gjelosh was educated by Franciscans, and studied at the Shkodër Seminary. He was a soldier, worked as a secretary, and was a member of the anti-Communist group, Albanian Union. Gjelosh was arrested on 3 December 1945"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gjelosh-Lulashi.jpg"
 birthYear: 1925
@@ -16,8 +16,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
   - Soldier
 religiousOrder: "Franciscan"

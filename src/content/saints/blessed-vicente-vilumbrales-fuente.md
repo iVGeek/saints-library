@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Vilumbrales Fuente"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente Vilumbrales Fuente"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilumbrales-Fuente.jpg"
 birthYear: 1909
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

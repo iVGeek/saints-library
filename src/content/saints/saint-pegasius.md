@@ -1,7 +1,7 @@
 ---
 name: "Saint Pegasius"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Pegasius"
 summary: "Priest martyred in the persecutions of King Sapor II. One of the Martyrs of Isfahan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pegasius.jpg"
 deathYear: 350
@@ -14,10 +14,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

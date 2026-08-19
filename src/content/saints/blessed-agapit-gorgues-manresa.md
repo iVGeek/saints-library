@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agapit Gorgues Manresa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Agapit Gorgues Manresa"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Agapit-Gorgues-Manresa.jpg"
 birthYear: 1913
@@ -16,9 +16,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

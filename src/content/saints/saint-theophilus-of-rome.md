@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theophilus of Rome"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 302
 died: "beheaded c.302 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

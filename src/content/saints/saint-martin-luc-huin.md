@@ -1,7 +1,7 @@
 ---
 name: "Saint Martin-Luc Huin"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Martin-Luc Huin"
 summary: "One of ten children born to a pious vintner's family. Began to study theology in 1851, studying with missionaries who had returned to teach, and was ordained a diocesan parish priest on 29 June 1861. Joined the Société des Missions Etrangères (Paris Foreign Missions Society) on 2"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martin-Luc-Huin.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

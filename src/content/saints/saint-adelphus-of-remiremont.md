@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelphus of Remiremont"
 honorific: Saint
-title: "Monk"
+title: "Saint Adelphus of Remiremont"
 summary: "Grandson of Saint Romaricus. Monk and then abbot of Remiremont Abbey in eastern France."
 searchAliases:
   - "Adelfio"

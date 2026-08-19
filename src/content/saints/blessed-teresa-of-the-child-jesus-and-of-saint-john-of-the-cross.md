@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa of the Child Jesus and of Saint John of the Cross"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Royalty"
+title: "Blessed Teresa of the Child Jesus and of Saint John of the Cross"
 summary: "Second of eight children born to Juan and Eulalia. As a child, she would often visit her uncle Florentino, a priest who was later martyred in the Spanish Civil War At age nine she made personal vows of chastity and devotion to the Blessed Virgin Mary, and in 1918 she moved to an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Angeles-of-Saint-Joseph.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

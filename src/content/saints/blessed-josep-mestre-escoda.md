@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Mestre Escoda"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Mestre Escoda"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Mestre-Escoda.jpg"
 birthYear: 1899
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

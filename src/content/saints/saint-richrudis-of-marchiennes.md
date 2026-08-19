@@ -1,7 +1,7 @@
 ---
 name: "Saint Richrudis of Marchiennes"
 honorific: Saint
-title: "Priest, Monk, Religious"
+title: "Saint Richrudis of Marchiennes"
 summary: "Born to the nobility, the daughter of Ernold. Married to the Frankish nobleman Saint Adalbald of Ostrevant. Her family objected to Adalbald's military incursions into their region, and endlessly opposed the marriage. Mother of four - Saint Eusebia of Hamage, Saint Clotsindis of M"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Richtrude-Abbess.jpg"
 searchAliases:

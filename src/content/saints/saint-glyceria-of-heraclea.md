@@ -1,7 +1,7 @@
 ---
 name: "Saint Glyceria of Heraclea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Glyceria of Heraclea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg"
 searchAliases:
   - "Gliceria"
@@ -12,7 +12,6 @@ feastDay:
   month: 7
   day: 8
 canonizationStatus: Saint
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---

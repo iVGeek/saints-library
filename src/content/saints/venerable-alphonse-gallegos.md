@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alphonse Gallegos"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Royalty, Soldier"
+title: "Venerable Alphonse Gallegos"
 summary: "A twin, the son of a carpenter, the eighth of eleven children in his family, Alphonse was born with severe myopia (near-sightendness); he had multiple corrective surgergies over the years, but his sight remained very poor, and he wore extemely thick glasses all his life. His fami"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bishop_Alphonse_Gallegos.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Augustinian"
 martyr: false

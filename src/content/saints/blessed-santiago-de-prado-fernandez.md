@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago de Prado Fernández"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Santiago de Prado Fernández"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Mateo"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

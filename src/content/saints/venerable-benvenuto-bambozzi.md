@@ -1,7 +1,7 @@
 ---
 name: "Venerable Benvenuto Bambozzi"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Benvenuto Bambozzi"
 summary: "Benvenuto joined the Franciscan Order of Friars Minor Conventual in 1822. Ordained a priest in 1834. Noted for his personal piety and his austere life, he served many years as a novice master, had a ministry to the poor and the sick, and worked to bring people to the confessional"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Benvenuto-Bambozzi.jpg"
 birthYear: 1809
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

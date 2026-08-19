@@ -1,7 +1,7 @@
 ---
 name: "Saint Phêrô Ðoàn Công Quý"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Phêrô Ðoàn Công Quý"
 summary: "Priest of the diocese of Vinh Long, Vietnam. Imprisoned for seven months and then executed in the persecutions of Emperor Tu-Duc. Martyr."
 searchAliases:
   - "Peter"
@@ -17,9 +17,7 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

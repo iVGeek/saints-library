@@ -1,7 +1,7 @@
 ---
 name: "Saint Fructulus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fructulus"
 summary: "Martyr. No other information has survived."
 born: "African"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Thorpe"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Robert Thorpe"
 summary: "Began studying at the English College in Rheims, France on 1 March 1583. Ordained in April 1585. Returned to England on 9 May 1585 to minister to covert Catholics in Yorkshire. Betrayed to a justice of the peace by some one who had seen him preparing palm fronds, he was arrested"
 birthYear: 1560
 deathYear: 1591
@@ -15,9 +15,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

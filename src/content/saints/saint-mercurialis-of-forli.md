@@ -1,7 +1,7 @@
 ---
 name: "Saint Mercurialis of Forli"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Mercurialis of Forli"
 summary: "First bishop of Forlì, Italy. Worked to convert pagans and suppress Arianism, which led to him being depicted in art as killing a dragon. Attended the Council of Rimini in 359."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mercurialis-of-Forli.jpg"
 searchAliases:
@@ -16,13 +16,12 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:
   - "Forlì, Italy"
   - "Forlì-Bertinoro, Italy, diocese of"
-martyr: true
+martyr: false
 ---
 
 First bishop of Forlì, Italy. Worked to convert pagans and suppress Arianism, which led to him being depicted in art as killing a dragon. Attended the Council of Rimini in 359.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Stacteus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stacteus"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

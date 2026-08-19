@@ -1,7 +1,7 @@
 ---
 name: "Saint Amandus of Avignon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Amandus of Avignon"
 summary: "Bishop of Avignon, France."
 searchAliases:
   - "Amand"

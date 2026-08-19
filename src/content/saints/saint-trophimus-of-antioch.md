@@ -1,7 +1,7 @@
 ---
 name: "Saint Trophimus of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Trophimus of Antioch"
 summary: "Tortured and martyred in the persecutions of Emperor Probus."
 deathYear: 277
 died: "beheaded c.277 at Antioch (in modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cristòfol Baqués Almirall"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Cristòfol Baqués Almirall"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

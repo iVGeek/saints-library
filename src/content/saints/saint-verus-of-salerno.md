@@ -1,7 +1,7 @@
 ---
 name: "Saint Verus of Salerno"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Verus of Salerno"
 summary: "Fourth-century bishop of Salerno, Italy. Fought heresy to maintain orthodox Christianity in his see."
 region: "Italy"
 feastDay:

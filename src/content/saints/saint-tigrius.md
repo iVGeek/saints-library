@@ -1,7 +1,7 @@
 ---
 name: "Saint Tigrius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Tigrius"
 summary: "Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate."
 searchAliases:
   - "Tygrius"
@@ -13,10 +13,9 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Besas of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Besas of Alexandria"
 summary: "Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was recorded by Saint Dionysius of Alexandria."
 searchAliases:
   - "Bessa of Alexandria"
@@ -14,11 +14,10 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was recorded by Saint Dionysius of Alexandria.

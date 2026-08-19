@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnio of Bergamo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Domnio of Bergamo"
 summary: "Uncle of Saint Eusebia. Martyred in the persecutions of Diocletian."
 deathYear: 295
 died: "beheaded c.295 in Bergamo, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

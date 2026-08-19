@@ -1,7 +1,7 @@
 ---
 name: "Saint Mandal of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mandal of Rome"
 summary: "One of a group of 23 martyrs who died together in the persecutions of Aurelian."
 searchAliases:
   - "Mandales"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Recaredo Centelles Abad"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Recaredo Centelles Abad"
 summary: "Studied at seminaries in Tortosa and Tarragona in Spain. Priest, ordained on 25 May 1929. Member of the Diocesan Worker Priests of the Sacred Heart of Jesus. Worked as vocation director at the Tarragona seminary, and then rector of the seminary at Tortosa. Martyred in the Spanish"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Recaredo-Centelles-Abad.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

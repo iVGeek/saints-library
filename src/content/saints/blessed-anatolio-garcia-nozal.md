@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anatolio García Nozal"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Anatolio García Nozal"
 summary: "Passionist priest martyred in the Spanish Civil War."
 searchAliases:
   - "Ildefonso of the Cross"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

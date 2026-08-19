@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Gregory the Great"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Deacon, Pope, Royalty, Soldier, Missionary, Confessor"
+title: "Pope Saint Gregory the Great"
 summary: "Son of Gordianus, a Roman regionarius, and Saint Silvia of Rome. Nephew of Saint Emiliana and Saint Tarsilla. Great-grandson of Pope Saint Felix III. Educated by the finest teachers in Rome, Italy. Prefect of Rome for a year, then he sold his possessions, turned his home into a B"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Gregory-the-Great.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
   - Missionary
   - Confessor
@@ -55,7 +54,7 @@ patronage:
   - "San Gregorio nelle Alpi"
   - "Savoulx"
   - "Valdobbiadene"
-martyr: true
+martyr: false
 ---
 
 Son of Gordianus, a Roman regionarius, and Saint Silvia of Rome. Nephew of Saint Emiliana and Saint Tarsilla. Great-grandson of Pope Saint Felix III. Educated by the finest teachers in Rome, Italy. Prefect of Rome for a year, then he sold his possessions, turned his home into a Benedictine monastery, and used his money to build six monasteries in Sicily and one in Rome. Benedictine monk. Upon seeing English children being sold in the Roman Forum, he became a missionary to England.

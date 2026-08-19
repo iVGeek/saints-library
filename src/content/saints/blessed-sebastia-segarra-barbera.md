@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastià Segarra Barberá"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Sebastià Segarra Barberá"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

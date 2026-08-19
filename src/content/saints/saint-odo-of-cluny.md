@@ -1,7 +1,7 @@
 ---
 name: "Saint Odo of Cluny"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit, Confessor"
+title: "Saint Odo of Cluny"
 summary: "Born to the nobility, the son of Abbo. Raised in the courts of Count Fulk II of Anjou and Duke William of Aquitaine. Received the Order of Tonsure at age nineteen. Canon of the church of Saint Martin of Tours. Studied music and theology in Paris for four years, studying under Rem"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Odo_Cluny-11.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
   - Confessor
 religiousOrder: "Benedictine"

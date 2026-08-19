@@ -1,7 +1,7 @@
 ---
 name: "Saint Codrato"
 honorific: Saint
-title: "Martyr"
+title: "Saint Codrato"
 summary: "Martyr."
 searchAliases:
   - "Codro"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 20
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Trois-Châteaux"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florentius of Trois-Châteaux"
 summary: "Martyr."
 searchAliases:
   - "Florence"
@@ -13,7 +13,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

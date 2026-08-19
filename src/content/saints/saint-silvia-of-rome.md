@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvia of Rome"
 honorific: Saint
-title: "Monk, Religious, Pope"
+title: "Saint Silvia of Rome"
 summary: "Sister of Saint Tarsilla. Married to Gordianus, a Roman regionarius. Mother of two sons, one of which was Pope Saint Gregory the Great. After the death of her husband, Silvia devoted herself to religious life, living in a cell  like an early anchoress. Noted for her great persona"
 image: "http://catholicsaints.info/wp-content/uploads/img-Santa-Silvia-di-Rome.jpg"
 searchAliases:

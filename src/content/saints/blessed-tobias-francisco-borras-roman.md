@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tobias Francisco Borrás Román"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Tobias Francisco Borrás Román"
 summary: "Married in 1884 at age 23, he became a widower when his wife died in the cholera epidemic of 1885-1886. He joined the religious in the Hospitallers of Saint John of God in 1887. He served in Hospitaller communities in the Spanish cities of Ciempozuelos, Zaragoza, Carabanche Alto"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tobias-Francisco-Borrás-Román.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 2
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

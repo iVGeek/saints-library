@@ -1,7 +1,7 @@
 ---
 name: "Saint Gobban Saer"
 honorific: Saint
-title: "Saint"
+title: "Saint Gobban Saer"
 summary: "Architect and builder of churches and related structures."
 searchAliases:
   - "Gobban the Builder"
@@ -18,8 +18,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

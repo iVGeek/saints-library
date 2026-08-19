@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Borrero Picón"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Miguel Borrero Picón"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 19 November 1903. Assistant pastor of Utrera on 26 February 1923. Imprisoned by anti-Catholic forces on 19 July 1936 at the start of the Spanish Civil War; he survived a week in prison. Martyr."
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

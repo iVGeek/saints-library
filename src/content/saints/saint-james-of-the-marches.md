@@ -1,7 +1,7 @@
 ---
 name: "Saint James of the Marches"
 honorific: Saint
-title: "Priest, Monk, Pope, Confessor"
+title: "Saint James of the Marches"
 summary: "Born poor. Doctor of Civil Law. Franciscan monk at age 22. Studied with Saint John of Capistrano. Disciple of Saint Bernadine of Siena. Tutor. Judge of sorcerers. Ordained in 1423. Preacher and evangelist throughout Central and Northern Europe, preaching every day for 40 years. B"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Francisco_de_Zurbaran_James_of_the_Marches.JPG/960px-Francisco_de_Zurbaran_James_of_the_Marches.JPG"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

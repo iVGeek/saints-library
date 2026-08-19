@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychia of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutychia of Thessalonica"
 summary: "Widow. During the persecutions of Diocletian and governor Dulcetius, Eutychia was exposed as a Christian when she refused to eat meat that had been sacrificed to idols. Martyr."
 deathYear: 304
 died: "c.304 in Thessalonica, Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

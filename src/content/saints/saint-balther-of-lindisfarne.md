@@ -1,7 +1,7 @@
 ---
 name: "Saint Balther of Lindisfarne"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Balther of Lindisfarne"
 summary: "Benedictine hermit at Lindisfarne and Bass Rock, Northumbria, England. He was an expert gold and silversmith who worked with Bishop Eaddfrid to create the bindings of the Lindisfarne Gospels in gold, silver, and gems."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Balther-of-Lindisfarne.jpg"
 searchAliases:

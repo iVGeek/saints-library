@@ -1,7 +1,7 @@
 ---
 name: "Saint Catus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Catus"
 summary: "Second century martyr. No other information has survived."
 died: "in Numidia"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

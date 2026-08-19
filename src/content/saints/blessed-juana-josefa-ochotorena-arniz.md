@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juana Josefa Ochotorena Arniz"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Juana Josefa Ochotorena Arniz"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Juana of Saint Michael"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

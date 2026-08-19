@@ -1,7 +1,7 @@
 ---
 name: "Saint Justin of Tivoli"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Justin of Tivoli"
 summary: "Martyred in the persecutions of Hadrian."
 died: "Tivoli, Italy in the early 2nd century"
 deathPlace: "Italythe early 2nd century"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

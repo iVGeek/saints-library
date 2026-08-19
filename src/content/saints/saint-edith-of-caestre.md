@@ -1,7 +1,7 @@
 ---
 name: "Saint Edith of Caëstre"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Religious, Royalty"
+title: "Saint Edith of Caëstre"
 summary: "Born a princess, the daughter of King Genolfo of Mercia (in modern England); sister of Saint Sabina and Saint Elfrida. Converting to Christianity, she renounced the marriage that her father had arranged, and with her sisters, left for a pilgrimage to Rome, Italy. After spending t"
 searchAliases:
   - "Edith of Cassel"
@@ -18,11 +18,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Religious
-  - Royalty
 martyr: true
 ---
 

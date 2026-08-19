@@ -1,7 +1,7 @@
 ---
 name: "Saint Albinus of Rome"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Albinus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Albinus of Cologne"
@@ -13,9 +13,7 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

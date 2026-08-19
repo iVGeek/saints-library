@@ -1,7 +1,7 @@
 ---
 name: "Saint Avitus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Avitus"
 summary: "Martyr. No other reliable information has survived."
 died: "in Africa"
 region: "England"
@@ -10,8 +10,7 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Solidus_Avitus_Arles_%28obverse%29.jpg"
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

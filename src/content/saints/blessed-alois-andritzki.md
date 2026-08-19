@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alois Andritzki"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Alois Andritzki"
 summary: "One of six childen born to Johann Andritzki Kantor, a school teacher, and Magdalena Andritzki. Ordained on 30 July 1939 in the diocese of Dresden-Meissen, Germany. Arrested by the Gestapo for producing Christmas plays which were described as having “hostile statements” against th"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Alojs_Andricki.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

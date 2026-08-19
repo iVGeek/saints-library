@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louise degli Albertoni"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Louise degli Albertoni"
 summary: "Born to a wealthy and prominent family. Married to James de Citara. Mother of three. Widowed in 1506. Franciscan tertiary. She spent her fortune and ruined her health in caring for the poor. Given to religious ecstasies, she was known as a miracle worker, and had the gift of levi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louise-degli-Albertoni1.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Aureliano of the Blessed Sacrament"
 honorific: Venerable
-title: "Priest, Pope, Royalty, Missionary"
+title: "Venerable Aureliano of the Blessed Sacrament"
 summary: "Entered the novitiate of the Teresian Carmel of Larrea at age 15, taking the name Aureliano. Ordained at age 23. Missionary to India in 1913 working with seminarians at Malabar, India; he stayed the remaining 51 years of his life, working with over 6,000 seminarians, 2,300 of who"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Aureliano-of-the-Blessed-Sacrament.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: false
 ---

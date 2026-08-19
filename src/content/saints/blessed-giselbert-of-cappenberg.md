@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giselbert of Cappenberg"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Giselbert of Cappenberg"
 summary: "Servant to Blessed Godfrey of Cappenberg. Premonstratensian monk. Lector. Known for his charity."
 died: "early 12th century"
 feastDay:

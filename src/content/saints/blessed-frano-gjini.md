@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frano Gjini"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Frano Gjini"
 summary: "Ordained a priest in the diocese of Shkodrë, Albania on 28 June 1908. Vicar-general of the archdiocese of Durrës, Albania in 1918. Parish priest in Durrës, Derven of Fushë Krujë, Kurbin and Perlat of Kthella, Albania at different times. Chosen abbot of the Abbey Nullius of Saint"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Frano-Gjini.jpg"
 birthYear: 1886
@@ -16,10 +16,8 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

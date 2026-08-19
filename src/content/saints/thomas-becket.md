@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 21 February 1173
 vocation:
   - Bishop
-  - Martyr
 patronage:
   - lawyers
   - priests

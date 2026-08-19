@@ -1,7 +1,7 @@
 ---
 name: "Saint Giustino of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Giustino of Rome"
 summary: "Born to the imperial Roman aristocracy, in his late teens Giustino was martyred in the persecutions of Nero."
 searchAliases:
   - "Justin"
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Castelfranco Veneto, Italy"
   - "Cercola, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Toral Cascales"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed José Toral Cascales"
 summary: "Young layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

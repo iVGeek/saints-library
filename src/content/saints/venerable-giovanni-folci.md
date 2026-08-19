@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Folci"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Giovanni Folci"
 summary: "Priest in the diocese of Como, Italy. Founded the Work of the Divine Prisoner."
 birthYear: 1890
 deathYear: 1963
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

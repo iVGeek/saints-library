@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastian Maggi"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Sebastian Maggi"
 summary: "Born to the Italian nobility, Sebastian joined the Dominicans in Brescia at age 15 in 1429; this was the earliest that they would accept him, and he spent the next 67 years as a zealous and reforming friar. Superior of several Dominican houses. Vicar of a reformed congregation of"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sebastian_Maggi.jpg"
 birthYear: 1414
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

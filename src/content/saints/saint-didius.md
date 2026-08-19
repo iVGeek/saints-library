@@ -1,7 +1,7 @@
 ---
 name: "Saint Didius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Didius"
 summary: "Martyred in the persecutions of Maximian Galerius."
 died: "early 4th century in Egypt"
 region: "Egypt"
@@ -10,7 +10,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

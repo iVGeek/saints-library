@@ -1,7 +1,7 @@
 ---
 name: "Saint Diomedes of Tarsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Diomedes of Tarsus"
 summary: "Physician at Constantinople. Lay evangelist. Martyred in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/FrescoDiomedes.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

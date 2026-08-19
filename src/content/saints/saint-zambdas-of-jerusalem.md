@@ -1,7 +1,7 @@
 ---
 name: "Saint Zambdas of Jerusalem"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Zambdas of Jerusalem"
 summary: "Bishop of Jerusalem in the late 3rd and early 4th century. Legend says he is the one who brought the Theban Legion to Christianity. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 of natural causes"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

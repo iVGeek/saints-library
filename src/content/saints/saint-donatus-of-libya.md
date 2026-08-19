@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus of Libya"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Donatus of Libya"
 summary: "Bishop in Libya."
 feastDay:
   month: 7

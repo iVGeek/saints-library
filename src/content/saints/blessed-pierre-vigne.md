@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre Vigne"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Missionary"
+title: "Blessed Pierre Vigne"
 summary: "One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late in his teens he received a sudden, active awar"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Pierre_vigne.jpg"
 searchAliases:
@@ -18,13 +18,11 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
   - Missionary
 religiousOrder: "Sulpician"
-martyr: true
+martyr: false
 ---
 
 One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late in his teens he received a sudden, active awareness of the reality of Jesus Christ in the Eucharist. The Church became his entire life, and he entered the Sulpician Seminary in Viviers, France in 1690. Ordained on 18 September 1694 in Bourg Saint Andeaol, diocese of Viviers.

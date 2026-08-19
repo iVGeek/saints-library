@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigeberht of East Anglia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Sigeberht of East Anglia"
 summary: "While exiled from East Anglia to France during the reign of King Redwald, Sigeberht converted to Christianity. He returned to East Anglia as king in 630, the first Christian king of the region. Worked with Archbishop Honorius of Canterbury and Saint Fursey to bring Christianity t"
 searchAliases:
   - "Sigebert"
@@ -16,10 +16,8 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_King-monk_fell_in_the_rout_of_his_old_East_Anglian_subjects_-_Sidney_Paget.jpg"
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

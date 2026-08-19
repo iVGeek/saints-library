@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Jerusalem"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stephen of Jerusalem"
 summary: "Martyr. No other information has survived."
 died: "Jerusalem"
 region: "Holy Land"
@@ -10,7 +10,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

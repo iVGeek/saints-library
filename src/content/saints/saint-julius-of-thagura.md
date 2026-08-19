@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Thagura"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julius of Thagura"
 summary: "One of a group of twelve African Christians who were martyred together in the persecutions of Diocletian. No other details have survived."
 deathYear: 302
 died: "302 in Thagura, Numidia"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

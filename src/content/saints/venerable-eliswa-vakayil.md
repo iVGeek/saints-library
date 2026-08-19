@@ -1,7 +1,7 @@
 ---
 name: "Venerable Eliswa Vakayil"
 honorific: Venerable
-title: "Virgin, Religious, Pope"
+title: "Venerable Eliswa Vakayil"
 summary: "Born to the nobility, the eldest of eight children born to Thomman and Thanda of Vyppissery. She was known as a pious and compassionate child with an early devotion to the Eucharist and desire for religious life. However, giving in to her family wishes, she married Vatharu Vakayi"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mother_Eliswa.png"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

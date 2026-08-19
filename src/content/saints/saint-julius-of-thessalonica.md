@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julius of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece"
 deathPlace: "Greece"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

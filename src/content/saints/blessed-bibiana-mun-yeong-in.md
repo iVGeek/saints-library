@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bibiana Mun Yeong-in"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Bibiana Mun Yeong-in"
 summary: "Lay woman in the apostolic vicariate of Korea. Member of the Korean royal court. Convert to Catholicism. Martyr."
 searchAliases:
   - "Viviana"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

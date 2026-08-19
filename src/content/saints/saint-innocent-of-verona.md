@@ -1,7 +1,7 @@
 ---
 name: "Saint Innocent of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Confessor"
+title: "Saint Innocent of Verona"
 summary: "Bishop of the diocese of Verona, Italy, serving in the mid-5th century."
 died: "14 March, year unknown"
 deathPlace: "year unknown"
@@ -11,10 +11,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Bishop of the diocese of Verona, Italy, serving in the mid-5th century.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed David Sutton"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed David Sutton"
 summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
 deathYear: 1581
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Candida of Carthage"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Candida of Carthage"
 summary: "Consecrated virgin. Martyred in the persecutions of Maximian Herculeus."
 deathYear: 300
 died: "c.300 in Carthage, North Africa"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

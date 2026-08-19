@@ -2,7 +2,7 @@
 name: "Saint Justus of Vienne"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg/960px-Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Justus of Vienne"
 summary: "Bishop of Vienne, France."
 deathYear: 168
 died: "168 of natural causes"

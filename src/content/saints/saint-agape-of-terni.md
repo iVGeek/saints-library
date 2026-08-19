@@ -1,7 +1,7 @@
 ---
 name: "Saint Agape of Terni"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Agape of Terni"
 summary: "Spiritual student of Saint Valentine of Terni, and part he led of women devoted to religious life. Martyr."
 searchAliases:
   - "Agapes"
@@ -15,7 +15,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

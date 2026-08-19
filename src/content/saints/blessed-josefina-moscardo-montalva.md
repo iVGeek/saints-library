@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josefina Moscardó Montalvá"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josefina Moscardó Montalvá"
 summary: "Lifelong lay woman in the archdiocese of Valencia, Spain. Member of several religious associations including Catholic Action. Noted for her devotion to the Eucharist. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefina-Moscardó-Montalvá.jpg"
 birthYear: 1888
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

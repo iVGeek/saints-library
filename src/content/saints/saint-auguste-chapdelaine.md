@@ -1,7 +1,7 @@
 ---
 name: "Saint Auguste Chapdelaine"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Religious, Pope, Royalty, Missionary"
+title: "Saint Auguste Chapdelaine"
 summary: "Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped out to work on the family farm. He early felt a call to the priesthood, but his family opposed it, needing his help on the farm. However, the sudden death of two"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Auguste_Chapdelaine.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

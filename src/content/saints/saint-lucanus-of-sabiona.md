@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucanus of Sabiona"
 honorific: Saint
-title: "Bishop, Pope"
+title: "Saint Lucanus of Sabiona"
 summary: " During a famine in 424, Bishop Lucanus permitted the consumption of dairy products in his diocese during Lent, a violation of fasting rules. Enemies denounced him to the Vatican, and Pope Celestine I ordered him to Rome Bishop of Sabiona, Italy. Possible bishop of Brixen, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Lukan.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Pope
 patronage:
   - "against dropsy"
   - "–"

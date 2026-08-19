@@ -1,7 +1,7 @@
 ---
 name: "Saint Adalbert of Casauria"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Adalbert of Casauria"
 summary: "Benedictine monk at Cassoria, Abruzzi, Italy. Worked for a while with Saint Guy of Casauria. Retired to live as a hermit on Mount Caramanico where he eventually founded the abbey of Saint Nicholas."
 searchAliases:
   - "Adalbert of Cassauria"

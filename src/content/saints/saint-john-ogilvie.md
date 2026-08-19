@@ -1,7 +1,7 @@
 ---
 name: "Saint John Ogilvie"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Royalty, Soldier, Missionary"
+title: "Saint John Ogilvie"
 summary: "Walter Ogilvie was a Scottish noble who raised his son John in the state religion of Scotland, Calvinism. John converted to Catholicism at age 17 at Louvain, Belgium, and then attended several Catholic educational institutions. He joined the Jesuits soon after in 1597, and was or"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Ogilvie-1.jpg"
 birthYear: 1579
@@ -16,8 +16,6 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Jesuit"

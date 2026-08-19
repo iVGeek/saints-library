@@ -1,7 +1,7 @@
 ---
 name: "Saint Phêrô Truong Van Thi"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Phêrô Truong Van Thi"
 summary: "Priest in the apostolic vicariate of West Tonkin. He worked in the missions with the priests of the Foreign Mission Society of Paris. Imprisoned and repeatedly tortured in the persecutions of Minh-Meng. Died with Saint Andrew Dung Lac. One of the Martyrs of Vietnam."
 searchAliases:
   - "Peter Thi"
@@ -19,10 +19,8 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

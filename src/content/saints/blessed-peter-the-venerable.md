@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter the Venerable"
 honorific: Venerable
-title: "Confessor"
+title: "Blessed Peter the Venerable"
 summary: "Born to the French nobility. Benedictine monk at Cluny Abbey, and at several sister houses. Abbot of Cluny in 1122. Instituted a number of reforms to the educational and financial areas of the houses; his emphasis on the education of his monks put him into some conflict with Sain"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-the-Venerable.jpg"
 searchAliases:

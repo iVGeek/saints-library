@@ -1,7 +1,7 @@
 ---
 name: "Saint Uni"
 honorific: Saint
-title: "Monk"
+title: "Saint Uni"
 summary: "Brother of Saint Breaca of Cornwall. Immigrated from Ireland to Cornwall, England. No other details about him have survived."
 died: "6th century"
 region: "Ireland"

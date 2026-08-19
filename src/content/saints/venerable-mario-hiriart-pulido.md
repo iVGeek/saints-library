@@ -1,7 +1,7 @@
 ---
 name: "Venerable Mario Hiriart Pulido"
 honorific: Venerable
-title: "Virgin, Pope"
+title: "Venerable Mario Hiriart Pulido"
 summary: "Lifelong layman in the archdiocese of Santiago de Chile. In 1948 he began studying engineering at the Afonso de Ercilla Institute run by the Marist Brothers. While still in school in 1949, he became part of the Schoenstatt Movement and consecrated himself to the Blessed Virgin Ma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Mario-Hiriart-Pulido.jpg"
 birthYear: 1931
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Virgin
-  - Pope
 religiousOrder: "Marist"
 martyr: false
 ---

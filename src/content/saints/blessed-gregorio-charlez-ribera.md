@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Charlez Ribera"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Gregorio Charlez Ribera"
 summary: "Franciscan Capuchin friar, making his solemn profession on 6 February 1905. Late in his life he began losing his sight. Imprisoned and murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Prudenci de Pomar de Cinca"
@@ -17,12 +17,9 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, making his solemn profession on 6 February 1905. Late in his life he began losing his sight. Imprisoned and murdered by Marxists in the Spanish Civil War.

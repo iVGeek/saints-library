@@ -1,7 +1,7 @@
 ---
 name: "Saint Almut of Wetter"
 honorific: Saint
-title: "Religious"
+title: "Saint Almut of Wetter"
 summary: "Born to the royal family. With her sister Digmund, she founded the convent of Wetter in Oberlahngau, Germany, and served as its first abbess."
 searchAliases:
   - "Almud"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Odrada of Alem"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Odrada of Alem"
 summary: "Eleventh-century nun in Alem, Flanders (in modern Netherlands)."
 region: "Belgium"
 feastDay:

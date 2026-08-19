@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tesifone Ortega Villamudrio"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Tesifone Ortega Villamudrio"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Néstor Eugenio"
@@ -17,9 +17,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

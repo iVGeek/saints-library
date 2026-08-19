@@ -1,7 +1,7 @@
 ---
 name: "Saint Marianus of Lambesa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Marianus of Lambesa"
 summary: "Lector. Martyr."
 deathYear: 259
 died: "beheaded in 259 at Lambesa, North Africa"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Franciscan"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dioscorus of Kynopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dioscorus of Kynopolis"
 summary: "Lector in a church in Kynopolis, Egypt. Martyr."
 searchAliases:
   - "Dioscorus of Alexandria"
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

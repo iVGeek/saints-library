@@ -1,7 +1,7 @@
 ---
 name: "Saint Leonard of Vandoeuvre"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Leonard of Vandoeuvre"
 summary: "Hermit. Founded Vandoeuvre Abbey in France, and served as its first abbot."
 deathYear: 570
 died: "c.570"

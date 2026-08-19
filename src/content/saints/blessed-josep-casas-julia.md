@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Casas Juliá"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Casas Juliá"
 summary: "Discalced Carmelites friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Joaquim of Saint Joseph"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

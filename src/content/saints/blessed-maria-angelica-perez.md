@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Angélica Pérez"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed María Angélica Pérez"
 summary: "Born to immigrants from Spain, raised in a farm family, and known as a pious girl. Entered the Daughters of Our Lady of the Garden on 31 December 1915, taking her vows on 7 September 1918. Teacher and catechist to children. In 1924 to 1928 she was assigned to a tuberculosis hospi"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Maria_Crescencia_Perez.png"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

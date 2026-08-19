@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyprian of Brescia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyprian of Brescia"
 summary: "Martyr. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

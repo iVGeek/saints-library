@@ -1,7 +1,7 @@
 ---
 name: "Venerable Amelia Rossi"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty, Missionary"
+title: "Venerable Amelia Rossi"
 summary: "Orphaned in her early teens, Amelia grew up in her uncle's house. She joined the Missionary Sisters of the Sacred Hearts of Jesus and Mary in Pula, Italy in 1906, taking the name Leonilde of Saint John the Baptist. After completing her studies, she began service as a teacher, and"
 searchAliases:
   - "Leonilde of Saint John the Baptist"
@@ -19,8 +19,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 martyr: false
 ---

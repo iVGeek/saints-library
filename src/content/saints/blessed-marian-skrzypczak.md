@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marian Skrzypczak"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Marian Skrzypczak"
 summary: "Priest in the archdiocese of Gniezno, Poland where he served in the parish of Plonkowo. Though he knew the dangers of the invading Nazis, Father Marian stayed to serve his parishioners, and was shot by Nazi youth militia members. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Skrzypczak.jpg"
 birthYear: 1909
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

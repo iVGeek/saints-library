@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Vienne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Vienne"
 summary: "Physician in Vienne, Gaul. Adult convert to Christianity. Friend of Saint Pothinus. Arrested for his faith during the persecutions of Emperor Marcus Aurelius, he was tortured and executed. One of the Martyrs of Lyons and Vienne."
 deathYear: 177
 died: "177"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

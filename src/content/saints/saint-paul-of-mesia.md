@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Mesia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paul of Mesia"
 summary: "Martyr of the early Church, executed for encouraging other martyrs not to lose their faith."
 died: "put to the sword"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

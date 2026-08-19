@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Robinson"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed John Robinson"
 summary: "Married layman, his son Francis became a priest. When he became a widower, John studied for the priesthood himself at Reims, France; ordained in 1585 when he was in his 50's. He then returned to England to serve his old neighbours during the persecutions of Queen Elizabeth I. Joh"
 birthYear: 1530
 deathYear: 1588
@@ -15,10 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

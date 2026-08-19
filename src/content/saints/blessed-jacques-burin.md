@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques Burin"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jacques Burin"
 summary: "Priest in the diocese of Le Mans, France. Martyred in the French Revolution."
 birthYear: 1756
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

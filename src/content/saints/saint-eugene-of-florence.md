@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugene of Florence"
 honorific: Saint
-title: "Monk, Deacon, Royalty"
+title: "Saint Eugene of Florence"
 summary: "Spiritual student of Saint Ambrose of Milan. Deacon in Florence, Italy, working with Saint Zenobius of Florence."
 deathYear: 422
 died: "422"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-  - Royalty
 martyr: false
 ---
 

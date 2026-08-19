@@ -1,7 +1,7 @@
 ---
 name: "Saint Meingold"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Meingold"
 summary: "Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated while returning from a pilgrimage; the killers cared nothing about his faith, and killed him for purely political reasons."
 searchAliases:
   - "Mengold"
@@ -14,12 +14,11 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "bakers"
   - "Huy, Belgium"
-martyr: true
+martyr: false
 ---
 
 Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated while returning from a pilgrimage; the killers cared nothing about his faith, and killed him for purely political reasons.

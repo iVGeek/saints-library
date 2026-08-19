@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ida of Louvain"
 honorific: Blessed
-title: "Virgin, Monk, Religious"
+title: "Blessed Ida of Louvain"
 summary: "Cistercian Benedictine nun at Rossendael (Val-des-Roses) near Malines. Visionary."
 deathYear: 1290
 born: "at Louvain, France"

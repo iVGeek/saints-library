@@ -1,7 +1,7 @@
 ---
 name: "Saint Lukka Baanabakintu"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Lukka Baanabakintu"
 summary: "Mmamba clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lukka-Baanabakintu.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 6
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

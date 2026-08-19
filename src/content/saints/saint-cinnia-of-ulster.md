@@ -1,7 +1,7 @@
 ---
 name: "Saint Cinnia of Ulster"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Cinnia of Ulster"
 summary: "Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her the veil. Greatly honoured in County Louth, Ireland."
 searchAliases:
   - "Kinnia"
@@ -17,7 +17,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

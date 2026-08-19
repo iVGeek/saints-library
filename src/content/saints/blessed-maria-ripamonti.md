@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Ripamonti"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Maria Ripamonti"
 summary: "Youngest of four children in her family; her father's name was Ferdinando, and Maria was baptized when she was 4 days old. As a girl, she began working in a local spinning mill to help support her family. She was active in her parish, tended to children, worked with Catholic Acti"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cappella_della_Casa_madre_delle_Ancelle_della_Carit%C3%A0_lapide_Lucia_Ripamonti_Brescia.jpg/960px-Cappella_della_Casa_madre_delle_Ancelle_della_Carit%C3%A0_lapide_Lucia_Ripamonti_Brescia.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

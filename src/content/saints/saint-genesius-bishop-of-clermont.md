@@ -1,7 +1,7 @@
 ---
 name: "Saint Genesius, Bishop of Clermont"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Confessor"
+title: "Saint Genesius, Bishop of Clermont"
 summary: "Descendant of a senatorial family of Auvergne, France. Following a liberal education, he renounced the world for the Church. Archdeacon of Clermont, France under Bishop Proculus. Bishop of Clermont in 656. Founded a hospital at Clermont, the Abbey of Manlieu, the church of Saint"
 searchAliases:
   - "Genesio"

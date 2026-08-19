@@ -1,7 +1,7 @@
 ---
 name: "Saint Alburga of Wilton"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Alburga of Wilton"
 summary: "Princess, the half-sister of King Egbert of Wessex. Wife of Earl Wulstan of Wiltshire who founded Wilton Abbey near Salisbury, England in 773. Widowed in 800. She converted Wilton Abbey into a convent for women, retired there with a dozen fellow Benedictine nuns, and is also cons"
 deathYear: 810
 born: "in Wessex, England"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

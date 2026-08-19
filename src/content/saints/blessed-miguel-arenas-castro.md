@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Arenas Castro"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Miguel Arenas Castro"
 summary: "Layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

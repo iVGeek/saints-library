@@ -1,14 +1,13 @@
 ---
 name: "Saint Georgius of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Georgius of North Africa"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

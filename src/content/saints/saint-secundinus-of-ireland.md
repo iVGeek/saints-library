@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundinus of Ireland"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Secundinus of Ireland"
 summary: "Migrated to Ireland in 439 with Saint Auxilius and Saint Iserninus to help Saint Patrick evangelize the country; Secundinus preached in the north and east. There are many conflicting documents about him - whether he was a priest or bishop when he arrived, if he had been there bef"
 searchAliases:
   - "Secundinus of Dunsaghlin"

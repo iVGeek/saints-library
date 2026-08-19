@@ -1,7 +1,7 @@
 ---
 name: "Saint Flamidianus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Flamidianus"
 summary: "Martyr."
 died: "Catalonia (in modern Spain)"
 region: "France"
@@ -9,8 +9,7 @@ feastDay:
   month: 1
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

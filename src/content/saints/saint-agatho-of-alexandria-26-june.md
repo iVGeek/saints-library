@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatho of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agatho of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

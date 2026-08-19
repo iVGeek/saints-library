@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Cumae"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maximus of Cumae"
 summary: "Martyr."
 searchAliases:
   - "Maximus of Apamea"
@@ -14,7 +14,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

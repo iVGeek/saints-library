@@ -1,7 +1,7 @@
 ---
 name: "Saint James of Numidia"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint James of Numidia"
 summary: "Deacon in the same church as Saint Marianus, and imprisoned with him at Cirta (modern Constantine, Algeria) in the persecutions of Valerian. Tortured over several days to force him from his faith. During this torment he had a dream that showed him final triumph. Martyred with hun"
 searchAliases:
   - "James of Lambesa"
@@ -16,7 +16,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

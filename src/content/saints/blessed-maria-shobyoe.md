@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Shobyoe"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Maria Shobyoe"
 summary: "Member of the Secular Francisicans in the archdiocese of Nagasaki, Japan. Married to Blessed Tsuji Shobyoe. Martyr."
 deathYear: 1627
 born: "Nagasaki, Japan"
@@ -14,9 +14,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

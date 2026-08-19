@@ -1,7 +1,7 @@
 ---
 name: "Blessed Laurentí Basil Matas"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Laurentí Basil Matas"
 summary: "Franciscan Capuchin, making his profession on 20 October 1907. Ordained a priest on 13 June 1908. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Anselm de Olot"
@@ -17,13 +17,10 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, making his profession on 20 October 1907. Ordained a priest on 13 June 1908. Murdered by Marxists in the Spanish Civil War.

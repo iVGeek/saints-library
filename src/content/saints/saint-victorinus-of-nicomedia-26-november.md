@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victorinus of Nicomedia"
 summary: "Martyred in the persecutions of the Arian Emperor Constantius."
 deathYear: 349
 died: "349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

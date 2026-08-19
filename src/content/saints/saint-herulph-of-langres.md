@@ -1,7 +1,7 @@
 ---
 name: "Saint Herulph of Langres"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Herulph of Langres"
 summary: "Born to the nobility, the son of the Count of Ellwangen (part of modern Germany). Benedictine monk at the abbey of Saint Gall in Switzerland. Founded Ellwangen Abbey, diocese of Augsburg, Germany, in 764. Bishop of Langres."
 searchAliases:
   - "Herulph of Ellwangen"

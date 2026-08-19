@@ -1,7 +1,7 @@
 ---
 name: "Saint Genesius of Thiers"
 honorific: Saint
-title: "Martyr"
+title: "Saint Genesius of Thiers"
 summary: "Martyr."
 searchAliases:
   - "Genesius of Tigernum"
@@ -15,8 +15,7 @@ feastDay:
   month: 10
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

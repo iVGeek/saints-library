@@ -1,7 +1,7 @@
 ---
 name: "Saint Atto of Tordino"
 honorific: Saint
-title: "Monk"
+title: "Saint Atto of Tordino"
 summary: "Benedictine monk. First Abbot of Tordino Abbey near Teramo, Italy in 1004."
 searchAliases:
   - "Attone"

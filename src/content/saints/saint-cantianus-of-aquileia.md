@@ -1,7 +1,7 @@
 ---
 name: "Saint Cantianus of Aquileia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Cantianus of Aquileia"
 summary: "Martyr."
 died: "Aquileia, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

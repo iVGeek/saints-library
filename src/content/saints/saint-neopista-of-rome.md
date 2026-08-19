@@ -1,7 +1,7 @@
 ---
 name: "Saint Neopista of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Neopista of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,9 +11,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

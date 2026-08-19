@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonina of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antonina of Nicaea"
 summary: "Tortured and martyred in the persecutions of Diocletian and governor Priscillian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonina-of-Nicaea.jpg"
 deathYear: 290
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

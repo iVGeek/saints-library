@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leoncio López Ramos"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Leoncio López Ramos"
 summary: "Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Eladio"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

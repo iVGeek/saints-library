@@ -1,7 +1,7 @@
 ---
 name: "Saint Eufrasio of Ilitirgi"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Eufrasio of Ilitirgi"
 summary: "Early missionary and bishop of Iliturgi (modern Andújar, Spain)."
 region: "Spain"
 feastDay:

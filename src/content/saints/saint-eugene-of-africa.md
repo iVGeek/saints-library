@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugene of Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Eugene of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Eugenius"
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Caridad Brader"
 honorific: Blessed
-title: "Religious, Pope, Royalty, Missionary"
+title: "Blessed Maria Caridad Brader"
 summary: "The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a highly intelligent child, and received the best education her parents could provide. There were high expectations for the girl's future, but instead of continued"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Caridad-Brader.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

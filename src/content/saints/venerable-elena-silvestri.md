@@ -1,7 +1,7 @@
 ---
 name: "Venerable Elena Silvestri"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Elena Silvestri"
 summary: "Foundress of the Congregation of the Handmaids of the Child Jesus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Silvestri.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

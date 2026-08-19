@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ida of Toggenburg"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Ida of Toggenburg"
 summary: "Countess, married to Count Henry of Toggenburg, Switzerland. Henry was abusive, especially after time when the couple had no children. Ida finally left Henry, and he later agreed to her becoming a Benedictine nun at Fischingen Abbey."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/97/StIdda.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "in Switzerland\n\nFischingen"

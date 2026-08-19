@@ -1,7 +1,7 @@
 ---
 name: "Blessed Toros Oghlou David"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Toros Oghlou David"
 summary: "Franciscan. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 deathYear: 1895
@@ -13,9 +13,7 @@ feastDay:
   month: 11
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupus of Châlons"
 honorific: Saint
-title: "Bishop, Pope"
+title: "Saint Lupus of Châlons"
 summary: "Bishop of Châlons-sur-Saone, France. Friend and correspondent with Pope Saint Gregory the Great. Noted for his charity to the sick and poor in his diocese."
 deathYear: 610
 died: "610 of natural causes"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Pope
 martyr: false
 ---
 

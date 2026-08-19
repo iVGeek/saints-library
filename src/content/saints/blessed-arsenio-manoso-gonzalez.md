@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arsenio Mañoso González"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Arsenio Mañoso González"
 summary: "Joined the Hospitallers of Saint John of God in 1913 and made his solemn vows on 30 May 1915. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

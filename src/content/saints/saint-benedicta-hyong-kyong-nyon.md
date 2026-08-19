@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedicta Hyong Kyong-Nyon"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Benedicta Hyong Kyong-Nyon"
 summary: "Married lay woman in the apostolic vicariate of Korea. Catechist. Widow. Martyr."
 searchAliases:
   - "Benedikta Hyeong Gyeong-Nyeon"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

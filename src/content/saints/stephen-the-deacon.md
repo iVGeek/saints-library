@@ -26,7 +26,6 @@ liturgicalRank: Feast
 canonizationStatus: Saint
 vocation:
   - Deacon
-  - Martyr
 patronage:
   - builders
   - headaches

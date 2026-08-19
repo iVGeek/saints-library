@@ -1,7 +1,7 @@
 ---
 name: "Venerable Libério Rodrigues Moreira"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Libério Rodrigues Moreira"
 summary: "One of seven children born to a poor family; as a small boy, he helped his father drive oxen, and when the man died, Libério left school to support the family. In 1902 at age 18 he became a bricklayer's assistant. Four years later he entered seminary, and was ordained priest of t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Liberio-Rodrigues-Moreira.jpg"
 birthYear: 1884
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

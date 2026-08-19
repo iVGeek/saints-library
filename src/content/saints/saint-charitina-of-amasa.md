@@ -1,7 +1,7 @@
 ---
 name: "Saint Charitina of Amasa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Charitina of Amasa"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Charitina-of-Amasa.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

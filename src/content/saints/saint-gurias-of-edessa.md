@@ -1,7 +1,7 @@
 ---
 name: "Saint Gurias of Edessa"
 honorific: Saint
-title: "Martyr, Monk, Confessor"
+title: "Saint Gurias of Edessa"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gurias-of-Edessa.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Confessor
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropia of Lentini"
 honorific: Saint
-title: "Martyr"
+title: "Saint Eutropia of Lentini"
 summary: "A member of the imperial Roman pagan nobility, married and the mother of two, Servilian and Saint Euthalia, in Lentini, Sicily, Italy. Widow. She witnessed the miraculous healing of Saints Thecla and Justina by Saints Alphius, Cyrinus and Philadelphus, and after the martyrdom of"
 deathYear: 260
 died: "260 in Lentini, Italy of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Simone Chauvigné veuve Charbonneau"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Simone Chauvigné veuve Charbonneau"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1728
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Antioch"
 summary: "A group of Christians martyred together by Emperor Maximian Galerius."
 deathYear: 300
 died: "c.300 in Antioch, Syria"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

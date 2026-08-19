@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Abia Melendro"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luis Abia Melendro"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1919
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

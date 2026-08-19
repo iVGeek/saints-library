@@ -1,7 +1,7 @@
 ---
 name: "Blessed David Oglu David"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed David Oglu David"
 summary: "Layman. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 deathYear: 1895
@@ -13,9 +13,7 @@ feastDay:
   month: 11
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

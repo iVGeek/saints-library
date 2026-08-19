@@ -1,7 +1,7 @@
 ---
 name: "Saint Stratone of Noviodunum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stratone of Noviodunum"
 summary: "Martyr."
 died: "Noviodunum, Lower Moesia (near modern Isaccea, Romania"
 deathPlace: "Lower Moesia (near modern Isaccea, Romania"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

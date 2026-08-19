@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Caballé Bru"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Jaume Caballé Bru"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Domingo"
@@ -17,9 +17,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

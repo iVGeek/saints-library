@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusebius of Palestine"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Eusebius of Palestine"
 summary: "Priest. Martyred in the persecutions of Maximian Herculeus."
 died: "late 3rd century Palestine"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

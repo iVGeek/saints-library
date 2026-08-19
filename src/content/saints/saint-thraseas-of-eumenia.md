@@ -1,7 +1,7 @@
 ---
 name: "Saint Thraseas of Eumenia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Thraseas of Eumenia"
 summary: "Bishop of Eumenia, Phrygia (in modern Turkey). Martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Trasea"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

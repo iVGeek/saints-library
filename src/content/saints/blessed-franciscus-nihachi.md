@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciscus Nihachi"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Franciscus Nihachi"
 summary: "Son of Blessed Ludovicus Nihachi; brother of Blessed Dominicus Nihachi. Martyred at the age of five (!) because of his family's faith."
 birthYear: 1623
 deathYear: 1628
@@ -15,9 +15,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

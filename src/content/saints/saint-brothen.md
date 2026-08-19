@@ -1,7 +1,7 @@
 ---
 name: "Saint Brothen"
 honorific: Saint
-title: "Monk"
+title: "Saint Brothen"
 summary: "Sixth century. No information has survived."
 feastDay:
   month: 10

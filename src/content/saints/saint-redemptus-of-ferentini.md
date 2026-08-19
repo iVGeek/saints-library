@@ -1,7 +1,7 @@
 ---
 name: "Saint Redemptus of Ferentini"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Redemptus of Ferentini"
 summary: "Bishop of Ferentini, Italy."
 deathYear: 586
 died: "586"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Enodoch"
 honorific: Saint
-title: "Monk"
+title: "Saint Enodoch"
 summary: "Venerated in Wales. No other information has survived."
 searchAliases:
   - "Wenedoc"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Herena the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Herena the Martyr"
 summary: "One of a group of 3rd-century Christians martyred in North Africa in the persecutions of Decius."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

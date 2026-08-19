@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ollegarius of Tarragona"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Ollegarius of Tarragona"
 summary: "Augustinian canon regular. Prior of a succession of monasteries in France. Bishop of Barcelona, Spain in 1115. Archbishop of Tarragona, Spain in 1116. Revived and rebuilt the diocese from the sorry state in to which it had fallen during the Moorish occupation."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ollegarius-of-Tarragona.jpg"
 searchAliases:
@@ -28,7 +28,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

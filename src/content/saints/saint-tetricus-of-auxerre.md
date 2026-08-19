@@ -1,7 +1,7 @@
 ---
 name: "Saint Tetricus of Auxerre"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Tetricus of Auxerre"
 summary: "Abbot of Saint Germanus Abbey, Auxerre, France. Bishop of Auxerre by popular acclamation."
 deathYear: 707
 died: "murdered in his sleep in 707"
@@ -11,9 +11,8 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Abbot of Saint Germanus Abbey, Auxerre, France. Bishop of Auxerre by popular acclamation.

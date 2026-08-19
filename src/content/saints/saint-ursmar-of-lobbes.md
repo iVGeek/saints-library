@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursmar of Lobbes"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Ursmar of Lobbes"
 summary: "Abbot of the Benedictine abbey at Lobbes, Belgium c.689. Trained Saint Dodo. Missionary bishop. Helped found Aulne Abbey and the Abbey of Wallers-en-Faigne, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ursmar-of-Lobbes.jpg"
 searchAliases:

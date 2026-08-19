@@ -1,7 +1,7 @@
 ---
 name: "Blessed Godfrey of Cappenberg"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Godfrey of Cappenberg"
 summary: "Descendant of Charlemagne through his father, of the dukes of Swabia through his mother. Wealthy count in Westphalia with extensive lands. Layman, married to a noble woman. After being brought to an active faith by his friend Saint Norbert of Xanten, Godfrey turned his castle int"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Godfrey-of-Cappenberg.jpg"
 searchAliases:
@@ -42,12 +42,11 @@ feastDay:
   month: 1
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "in Germany\n\nCappenberg"
   - "Varlar"
-martyr: true
+martyr: false
 ---
 
 Descendant of Charlemagne through his father, of the dukes of Swabia through his mother. Wealthy count in Westphalia with extensive lands. Layman, married to a noble woman. After being brought to an active faith by his friend Saint Norbert of Xanten, Godfrey turned his castle into a Premonstratensian abbey, and in the face of violent family opposition, gave his lands and wealth over to Norbert for use by the Church. He, his brother and his servant, Blessed Giselbert of Cappenberg, then joined the order as monks; Godfrey's wife and two sisters tooks vows as nuns in a convent he founded for them nearby. Built several hospitals and other houses. Was studying for the priesthood when he died.

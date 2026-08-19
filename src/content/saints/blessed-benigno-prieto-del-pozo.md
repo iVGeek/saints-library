@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benigno Prieto Del Pozo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Benigno Prieto Del Pozo"
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward James"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Edward James"
 summary: "Raised Protestant. Educated at Saint John's College, Oxford, but was not awarded a degree because he would not acknowledge the queen as the head of Christianity in England. Converted to Catholicism. Seminarian at Rheims and Rome, Italy. Ordained in 1583, he returned to England in"
 image: "http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

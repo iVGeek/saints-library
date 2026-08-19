@@ -1,7 +1,7 @@
 ---
 name: "Saint Simeon of Syracuse"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Pope, Hermit, Royalty"
+title: "Saint Simeon of Syracuse"
 summary: "His father was Greek, his mother Calabrian. Educated in Constantinople. Pilgrim to the Holy Lands where he supported himself by serving as tour guide to other pilgrims. Spoke Greek, Latin, Coptic, Syriac and Arabic. Monk in Bethlehem. Deacon. Hermit beside the River Jordan. Monk"
 searchAliases:
   - "Simeon of Trier"
@@ -18,12 +18,10 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 His father was Greek, his mother Calabrian. Educated in Constantinople. Pilgrim to the Holy Lands where he supported himself by serving as tour guide to other pilgrims. Spoke Greek, Latin, Coptic, Syriac and Arabic. Monk in Bethlehem. Deacon. Hermit beside the River Jordan. Monk in Bethlehem. Hermit on Mount Sinai. Sent to seek alms from the Duke of Normandy for the support of other hermits on the mountain. Hermit near Trier, Germany under the direction of the abbot of the nearby Benedictine monastery of Saint Martin. One of the last great figures linking the Orthodox West with the Orthodox East.

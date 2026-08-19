@@ -1,7 +1,7 @@
 ---
 name: "Saint Camilla"
 honorific: Saint
-title: "Martyr, Hermit"
+title: "Saint Camilla"
 summary: "Converted by and spiritual student of Saint Germain of Auxerre. Hermit."
 deathYear: 437
 born: "at Civitavecchia, Italy"
@@ -14,9 +14,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Converted by and spiritual student of Saint Germain of Auxerre. Hermit.

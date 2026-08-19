@@ -1,7 +1,7 @@
 ---
 name: "Saint Emmanuel"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Emmanuel"
 summary: "Martyred with 42 companions in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emmanuel.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

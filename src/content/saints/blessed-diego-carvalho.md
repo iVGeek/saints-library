@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diego Carvalho"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Blessed Diego Carvalho"
 summary: "Jesuit priest. Missionary to Japan. Martyred with 60 companions by being exposed to the cold for days."
 searchAliases:
   - "Didacus"
@@ -18,10 +18,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

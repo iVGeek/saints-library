@@ -1,7 +1,7 @@
 ---
 name: "Blessed Basilio González Herrero"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Basilio González Herrero"
 summary: "Basilio joined the Franciscan Capuchin lay brother on 18 April 1906, taking the name Alejo of Terradillos, and serving as a porter. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Basilio-Gonzalez-Herrero.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

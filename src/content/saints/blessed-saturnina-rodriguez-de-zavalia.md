@@ -1,7 +1,7 @@
 ---
 name: "Blessed Saturnina Rodríguez de Zavalía"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Saturnina Rodríguez de Zavalía"
 summary: "Though she early felt a call to religious life, Saturnina married the widower Manuel Antonio de Zavalia on 13 August 1852, and became step-mother to his son and daughter. They were together a little over twelve years during which they lost their only daughter to a miscarriage. Wi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Madre_Catalina_de_Mar%C3%ADa_Rodr%C3%ADguez.jpg/960px-Madre_Catalina_de_Mar%C3%ADa_Rodr%C3%ADguez.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 patronage:
   - "heart patients"
   - "–"

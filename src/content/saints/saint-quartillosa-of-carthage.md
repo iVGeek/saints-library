@@ -1,7 +1,7 @@
 ---
 name: "Saint Quartillosa of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quartillosa of Carthage"
 summary: "Married lay woman, and a mother. Martyred with her husband and son, whose names have not come down to us, the persecutions of Valerian."
 deathYear: 258
 died: "c.258 in Carthage (modern Tunis Tunisia)"
@@ -10,7 +10,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

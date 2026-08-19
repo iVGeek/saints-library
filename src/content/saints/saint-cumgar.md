@@ -1,7 +1,7 @@
 ---
 name: "Saint Cumgar"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Cumgar"
 summary: "Son of Geraint, prince of Devon. Founded and served as abbot at monasteries in Badgworth and Congresbury in Somerset, England, and in Llangennith, Wales. Bishop in the area that became the Diocese of Bath and Wells, England. Died while on pilgrimage to the Holy Lands. Congresbury"
 searchAliases:
   - "Concarius"
@@ -25,7 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

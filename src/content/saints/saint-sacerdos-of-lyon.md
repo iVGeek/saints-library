@@ -1,7 +1,7 @@
 ---
 name: "Saint Sacerdos of Lyon"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Sacerdos of Lyon"
 summary: "Son of Saint Rusticus of Lyon and Hiberie de Limoges; nephew of Saint Viventiolus of Lyon; uncle of Saint Nicetius of Lyon; father of Saint Aurelian of Arles. Bishop of Lyon, France from 549 to 552. Presided over the Council of Orleans in 549. Advisor to King Childebert I."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Saint-Paul_13.jpg/960px-Saint-Paul_13.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

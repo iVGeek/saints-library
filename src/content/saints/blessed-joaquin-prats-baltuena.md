@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquín Prats Baltueña"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joaquín Prats Baltueña"
 summary: "Educated in a Piarist school, and at the Piarist Precepturia. Dominican novice, joining in Calanda, Spain on 20 October 1935. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquín-Prats-Baltueña.jpg"
 birthYear: 1915
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

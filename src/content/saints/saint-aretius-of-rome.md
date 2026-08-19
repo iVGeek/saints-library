@@ -1,7 +1,7 @@
 ---
 name: "Saint Aretius of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aretius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Arecius"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

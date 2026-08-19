@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Kwon Cheon-Rye"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Teresa Kwon Cheon-Rye"
 summary: "Married lay woman of the archdiocese of Seoul, Korea. Martyr."
 birthYear: 1784
 deathYear: 1819
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

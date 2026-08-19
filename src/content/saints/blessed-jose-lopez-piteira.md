@@ -1,7 +1,7 @@
 ---
 name: "Blessed José López Piteira"
 honorific: Blessed
-title: "Martyr, Deacon, Pope"
+title: "Blessed José López Piteira"
 summary: "Augustinian friar and deacon. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-López-Piteira.jpg"
 birthYear: 1913
@@ -16,9 +16,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Deacon
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

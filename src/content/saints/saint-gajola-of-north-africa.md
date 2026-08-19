@@ -1,7 +1,7 @@
 ---
 name: "Saint Gajola of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gajola of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Gaiola"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

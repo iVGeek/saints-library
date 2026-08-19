@@ -1,7 +1,7 @@
 ---
 name: "Saint George"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty, Soldier"
+title: "Saint George"
 summary: " Several stories have been attached to Saint George, the best known of which is the Golden Legend. In it, a dragon lived in a lake near Silena, Libya. Whole armies had gone up against this fierce creature, and had gone down in painful Soldier. Martyr. That's all we know for sure."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-George-and-the-Dragon.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
 religiousOrder: "Franciscan"
 patronage:

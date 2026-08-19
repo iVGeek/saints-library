@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antônio Ferreira Viçoso"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Antônio Ferreira Viçoso"
 summary: "Ordained a priest in the Congregation of the Mission on 7 March 1818. Bishop of Mariana, Brazil on 15 July 1843 where he served for over 30 years."
 birthYear: 1787
 deathYear: 1875
@@ -17,7 +17,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dom_Ant%C3%B4n
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Lazarist"
 martyr: false
 ---

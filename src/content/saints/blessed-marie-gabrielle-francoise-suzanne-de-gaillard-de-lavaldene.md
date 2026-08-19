@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Gabrielle-Françoise-Suzanne de Gaillard de Lavaldène"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Marie-Gabrielle-Françoise-Suzanne de Gaillard de Lavaldène"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

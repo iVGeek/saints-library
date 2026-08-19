@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidora of Lentini"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Isidora of Lentini"
 summary: "Born to the Sicilian nobility; sister of Saint Neofyta of Lentini. Married. Mother of Saint Thecla of Lentini. Seized, tortured and murdered with Saint Neofyta by pagans for refusing to renounce Christianity. Martyr."
 searchAliases:
   - "Isidore"
@@ -15,7 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

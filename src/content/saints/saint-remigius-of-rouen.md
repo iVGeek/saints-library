@@ -1,7 +1,7 @@
 ---
 name: "Saint Remigius of Rouen"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Saint Remigius of Rouen"
 summary: "Son of Charles Martel. Archbishop of Rouen, France in 755. He served as ambassador to the court of King Desiderio of the Lombards with a commission to negotiate the return of Church lands. Remigius worked for the use of the Roman rite in the Gallic Church in general, and the Greg"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saint_remi.jpg/960px-Saint_remi.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 patronage:
   - "Cavasso Nuovo, Italy"
 martyr: false

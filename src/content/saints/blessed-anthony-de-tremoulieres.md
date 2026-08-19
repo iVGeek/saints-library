@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anthony de Tremoulières"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Anthony de Tremoulières"
 summary: "Mercedarian friar. Commander of the convent of Santa Maria in Tolosa, Spain. Provincial of the Mercedarians in France. Chosen Master General of the Mercedarians on 6 November 1575. Known for his piety, and as a miracle worker."
 deathYear: 1577
 died: "August 1577 in the convent of Toulouse, France of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 6
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julián Aguilar Martín"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Julián Aguilar Martín"
 summary: "Layman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Julián-Aguilar-Martín.jpg"
 birthYear: 1912
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

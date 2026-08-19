@@ -1,7 +1,7 @@
 ---
 name: "Saint Basileus of Braga"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Basileus of Braga"
 summary: "First bishop of Braga, Portugal."
 region: "Portugal"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 First bishop of Braga, Portugal.

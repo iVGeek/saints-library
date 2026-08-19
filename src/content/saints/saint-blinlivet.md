@@ -1,7 +1,7 @@
 ---
 name: "Saint Blinlivet"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Blinlivet"
 summary: "Ninth century bishop of Vannes, France."
 searchAliases:
   - "Blevileguetus"

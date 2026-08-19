@@ -1,7 +1,7 @@
 ---
 name: "Saint Prudentius of Troyes"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Prudentius of Troyes"
 summary: "As a young man, Galindo fled from Spain to France ahead of the Saracen invaders, and there changed his name to Prudentius. Priest. Bishop of Troyes, Nuestra (in modern France). Worked for monastic reform and a return of monastic discipline. Created a combination catechism and bre"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Prudentius_-_Bishop_of_Troyes.jpg"
 searchAliases:

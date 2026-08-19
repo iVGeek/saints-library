@@ -1,7 +1,7 @@
 ---
 name: "Saint Basinus of Poitiers"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Basinus of Poitiers"
 summary: "Monk. Abbot of the Saint Hilary of Poitiers monastery."
 searchAliases:
   - "Basino"
@@ -10,9 +10,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Abbot of the Saint Hilary of Poitiers monastery.

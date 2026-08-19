@@ -1,7 +1,7 @@
 ---
 name: "Saint Petran of Landévennec"
 honorific: Saint
-title: "Monk, Royalty, Missionary"
+title: "Saint Petran of Landévennec"
 summary: "Missionary, working in the 4th and 5th century with Saint Germanus of Auxerre in the Champagne region of France. Monk at Landévennec, France."
 searchAliases:
   - "Bedan"
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
   - Missionary
 patronage:
   - "Trézilidé, France"

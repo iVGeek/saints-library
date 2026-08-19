@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerontius"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Gerontius"
 summary: "King of Damnonia (in modern Devon, England). He and his wife Enid are the subjects of romantic legends in the region."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Geraint.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

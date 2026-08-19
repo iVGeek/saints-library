@@ -1,7 +1,7 @@
 ---
 name: "Saint Thecusa of Ancyra"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Thecusa of Ancyra"
 summary: "Nun martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Saint Palladius of Ireland"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Missionary, Confessor"
+title: "Saint Palladius of Ireland"
 summary: "Born to an ancient Gallo-Roman family. Deacon in Rome. Dispatched Saint Germanus of Auxerre to Britain in 429 to fight Pelagianism. Missionary bishop for Ireland in 431, sent by Pope Saint Celestine I. Consecrated bishop of the Scots in 431. Evangelized around Leinster where he b"
 searchAliases:
   - "Palladius of Aberdeen"
@@ -18,7 +18,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

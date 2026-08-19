@@ -1,7 +1,7 @@
 ---
 name: "Saint Victurus of Gerona"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victurus of Gerona"
 summary: "Martyr. No other details have survived."
 died: "Gerona, Catalonia, Spain, date unknown"
 deathPlace: "Catalonia, Spain, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

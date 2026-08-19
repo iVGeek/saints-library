@@ -1,7 +1,7 @@
 ---
 name: "Saint Charbel Makhlouf"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Hermit"
+title: "Saint Charbel Makhlouf"
 summary: "Son of a mule driver. Raised by an uncle who opposed the boy's youthful piety. The boy's favorite book was Thomas a Kempis's The Imitation of Christ. At age 23 he snuck away to join the Baladite monastery of Saint Maron at Annaya where he took the name Charbel in memory of a 2nd"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Charbel.jpg"
 searchAliases:
@@ -17,10 +17,8 @@ feastDay:
   day: 24
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: true

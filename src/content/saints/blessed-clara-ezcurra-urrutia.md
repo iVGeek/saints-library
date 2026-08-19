@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clara Ezcurra Urrutia"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Clara Ezcurra Urrutia"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Clara of Our Lady of Hope"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

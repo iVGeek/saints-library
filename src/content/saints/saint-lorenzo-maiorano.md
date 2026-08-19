@@ -1,7 +1,7 @@
 ---
 name: "Saint Lorenzo Maiorano"
 honorific: Saint
-title: "Bishop, Pope"
+title: "Saint Lorenzo Maiorano"
 summary: "Related to Emperor Zeno of Byzantium. Bishop of Siponto, Italy in 492, consecrated by Pope Gelasius I. Received a series of visions of the Archangel Michael following Michael's appearance on Mount Gargano."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Maiorano.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Pope
 patronage:
   - "Manfredonia, Italy"
   - "Manfredonia-Vieste-San Giovanni Rotondo, Italy, archdiocese of"

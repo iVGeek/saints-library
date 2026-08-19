@@ -1,7 +1,7 @@
 ---
 name: "Blessed Justo Vicente Martínez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Justo Vicente Martínez"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

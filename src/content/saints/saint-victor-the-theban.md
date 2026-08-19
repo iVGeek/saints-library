@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor the Theban"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Victor the Theban"
 summary: "Soldier. Martyr. One of the Martyrs of the Theban Legion. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ursus-and-Saint-Victor.jpg"
 deathYear: 287
@@ -13,7 +13,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

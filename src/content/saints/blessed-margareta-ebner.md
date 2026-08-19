@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margareta Ebner"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Margareta Ebner"
 summary: "Born wealthy, Margareta received a thorough classical education at home. She became a Dominican nun at the Maria-Medingen convent in Germany in 1306. Dangerously ill from 1312 to 1322, she was sent home to recover, during which she began receiving visions, revelations and prophec"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Margareta_Ebner_%28cropped%29.jpg/960px-Margareta_Ebner_%28cropped%29.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyprian of Calamizzi"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Cyprian of Calamizzi"
 summary: "Born to the to wealthy nobility; his father was a physician, and Cyprian studied medicine himself. Monk at Holy Saviour monastery in Calanna, Italy at age 25. Hermit on family lands in Pavigliana, Italy, spending 20 years in prayer, meditation and growing his own food. Word of hi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cyprian-of-Calamizzi.jpg"
 searchAliases:

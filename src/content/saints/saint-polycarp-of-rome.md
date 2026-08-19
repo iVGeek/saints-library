@@ -1,7 +1,7 @@
 ---
 name: "Saint Polycarp of Rome"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Polycarp of Rome"
 summary: "Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith."
 deathYear: 300
 died: "c.300"
@@ -11,11 +11,10 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith.

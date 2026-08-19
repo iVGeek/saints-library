@@ -2,7 +2,7 @@
 name: "Blessed Abraham Furones y Furones"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Books_from_the_Library_of_Congress_%28IA_lifepublicservic00reav%29.pdf/page1-500px-Books_from_the_Library_of_Congress_%28IA_lifepublicservic00reav%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Abraham Furones y Furones"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Arenas"
@@ -19,9 +19,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Basilios of Constantinople"
 honorific: Saint
-title: "Monk, Confessor"
+title: "Saint Basilios of Constantinople"
 summary: "Opposed the 8th-century iconoclast decrees of Leo the Isaurian, and preserved icons and images in his care. Beaten and imprisoned for this work, he was finally released after Leo's death."
 searchAliases:
   - "Basilios the Confessor"

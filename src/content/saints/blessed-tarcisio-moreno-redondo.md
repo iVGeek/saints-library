@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tarcisio Moreno Redondo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Tarcisio Moreno Redondo"
 summary: "Priest of the diocese of Córdoba, Spain, serving as an assistant pastor in the Villanueva community. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

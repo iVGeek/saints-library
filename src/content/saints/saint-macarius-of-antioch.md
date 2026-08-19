@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius of Antioch"
 honorific: Saint
-title: "Bishop, Monk, Confessor"
+title: "Saint Macarius of Antioch"
 summary: "Bishop of Antioch, Pisidia. Archbishop of Constantinople. Captured by Saracens, but escaped.  He then resigned his see to become a pilgrim through Palestine, Epirus, Dalmatia, Bavaria, and other western areas, finally settling with the Benedictine monks of Saint Bavo Abbey in Ghe"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Macarius-of-Antioch.jpg"
 searchAliases:

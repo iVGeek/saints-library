@@ -1,7 +1,7 @@
 ---
 name: "Saint Dubtach Mac Dubhan"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Dubtach Mac Dubhan"
 summary: "Ninth century priest."
 born: "Ireland"
 region: "Ireland"
@@ -10,9 +10,8 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-martyr: true
+martyr: false
 ---
 
 Ninth century priest.

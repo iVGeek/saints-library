@@ -1,7 +1,7 @@
 ---
 name: "Saint Engelbert of Cologne"
 honorific: Saint
-title: "Martyr"
+title: "Saint Engelbert of Cologne"
 summary: "Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the cathedral school at Cologne, Germany. In a time when clerical and episcopal positions were a part of political patronage, Englebert was made provost of churches in Col"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Engelbert-of-Cologne.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 11
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

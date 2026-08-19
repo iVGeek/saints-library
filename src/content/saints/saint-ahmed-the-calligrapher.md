@@ -1,7 +1,7 @@
 ---
 name: "Saint Ahmed the Calligrapher"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ahmed the Calligrapher"
 summary: "Raised as a Muslim in 17th-century Constantinople. Calligrapher and copyist in the royal chancery. He lived as an unmarried layman, but had a concubine, a Christian slave woman from Russia. Little by little, she brought him to a desire for the faith, and he began his catechumenat"
 deathYear: 1682
 died: "beheaded in 1682"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

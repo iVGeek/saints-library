@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sancja Szymkowiak"
 honorific: Blessed
-title: "Virgin, Religious, Pope, Soldier"
+title: "Blessed Sancja Szymkowiak"
 summary: "Youngest of five children, the only daughter of Augustine and Mary Duchalska. After high school Janina studied languages and foreign literature at the University of Poznan, Poland. Member of the Sodality of Mary, she was known for her personal interest in anyone and everyone with"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sancja-Szymkowiak.jpg"
 birthYear: 1910
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
   - Soldier
 religiousOrder: "Franciscan"
 martyr: false

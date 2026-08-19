@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mazelinus of Salzburg"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Mazelinus of Salzburg"
 summary: "Monk. Abbot of Saint Peter's Abbey in Salzburg (in modern Austria) in the late 10th and early 11th century. Legend says that during the translation of the relics of Saint Erentrude on 4 September 1023, Mazelinus secretly took a relic. He was struck blind for the offense, regainin"
 searchAliases:
   - "Mazelino"

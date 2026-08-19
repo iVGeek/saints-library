@@ -1,7 +1,7 @@
 ---
 name: "Saint Eliphius of Toul"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eliphius of Toul"
 summary: "Martyred in the persecutions of Julian the Apostate."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eliphius-of-Toul.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

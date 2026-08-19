@@ -1,7 +1,7 @@
 ---
 name: "Saint Gohardus of Nantes"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Gohardus of Nantes"
 summary: "Bishop of Nantes, France Murdered by Norman raiders while celebrating Mass with a large group of monks and priests. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gohardus-of-Nantes.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

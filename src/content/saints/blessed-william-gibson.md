@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Gibson"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed William Gibson"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1596
 born: "in Ripon, North Yorkshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/William_Gibson_60th_birthday_portrait_%283x4_cropped%29.jpg/960px-William_Gibson_60th_birthday_portrait_%283x4_cropped%29.jpg"
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

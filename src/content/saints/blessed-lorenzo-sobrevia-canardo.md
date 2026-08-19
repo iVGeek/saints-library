@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Sobrevia Cañardo"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Cardinal"
+title: "Blessed Lorenzo Sobrevia Cañardo"
 summary: "Monk. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

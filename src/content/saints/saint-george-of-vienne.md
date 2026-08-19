@@ -1,7 +1,7 @@
 ---
 name: "Saint George of Vienne"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint George of Vienne"
 summary: "35th bishop of Vienne, France, serving in the mid 7th century."
 region: "France"
 feastDay:
@@ -11,7 +11,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

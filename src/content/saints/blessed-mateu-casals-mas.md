@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mateu Casals Mas"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Mateu Casals Mas"
 summary: "Member of the Claretians, professed on 15 August 1903. Ordained a priest on 13 June 1911. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Medan"
 honorific: Saint
-title: "Monk"
+title: "Saint Medan"
 summary: "Sixth century spiritual student of Saint Petroc in Cornwall."
 region: "England"
 feastDay:

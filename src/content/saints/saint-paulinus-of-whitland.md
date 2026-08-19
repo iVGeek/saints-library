@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulinus of Whitland"
 honorific: Saint
-title: "Monk"
+title: "Saint Paulinus of Whitland"
 summary: "Spiritual student of Saint Illtyd. Monk. Founded the monastery of Whitland in Wales and served as its abbot. Spritual teacher of Saint David of Wales and Saint Teilo of Llandaff."
 searchAliases:
   - "Paulinus of Wales"

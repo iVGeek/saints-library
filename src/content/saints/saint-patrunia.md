@@ -1,14 +1,13 @@
 ---
 name: "Saint Patrunia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Patrunia"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

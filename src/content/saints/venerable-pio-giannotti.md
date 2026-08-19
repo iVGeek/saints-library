@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pio Giannotti"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Missionary"
+title: "Venerable Pio Giannotti"
 summary: "The second of five children born to Félix and Maria Giannotti, pious Italian peasants; his older brother, Guilherme, became a diocesan priest and seminary director, and his younger sister, Pia, joined the Sisters of Santa Zita. Pio's first Communion had a profound effect on the b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pio-Giannotti.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Missionary
 religiousOrder: "Capuchin"
 martyr: false

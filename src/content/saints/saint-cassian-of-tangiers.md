@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassian of Tangiers"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Cassian of Tangiers"
 summary: "Court stenographer at the trial of Saint Marcellus the Centurion at Tangiers. When Marcellus was condemned to death, Cassian announced his own faith, and denounced the penalty. He was immediately arrested and killed. Martyr. Mentioned in a hymn by Saint Prudentius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Cassian-of-Tangiers.jpg"
 deathYear: 298
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

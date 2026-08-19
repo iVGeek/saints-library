@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Pla Arasa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Pla Arasa"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

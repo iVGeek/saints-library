@@ -1,7 +1,7 @@
 ---
 name: "Saint Irenaeus of Lyons"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Pope, Royalty, Doctor of the Church"
+title: "Saint Irenaeus of Lyons"
 summary: "Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and wrote against Gnosticism, basing his arguments on the works of Saint John the Apostle, whose Gospel is often cited by Gnostics. Dispatched evangelists, including Sai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Irenaeus-of-Lyons.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

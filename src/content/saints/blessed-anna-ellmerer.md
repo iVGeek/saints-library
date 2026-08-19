@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Ellmerer"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty, Soldier"
+title: "Blessed Anna Ellmerer"
 summary: "A member of the Sisters of Saint Elizabeth, joining in 1911 and making her perpetual profession on 5 July 1923. She served as a teacher in Düsseldorf, Germany, and the Polish cities of Wroclaw, Kup, and Nysa. Near the end of World War II, Soviet Red Army soldiers attacked the sis"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Anna-Ellmerer.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

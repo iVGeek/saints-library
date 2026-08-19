@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hanz Wagner"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Hanz Wagner"
 summary: "As a young man, Hanz joined the Carthusians at a lay brother at the Ittingen convent near Frauenfeld, Thurgau, Switzerland in 1475; he made his vows in 1476. The house had been abandoned for several years, and the lay brothers had to work to re-build it. This took so much time aw"
 searchAliases:
   - "Hans"
@@ -18,7 +18,6 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 martyr: false
 ---

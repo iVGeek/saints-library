@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Cologne"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Martyrs of Cologne"
 summary: "A group of 360 Christian soldiers martyred together in the persecutions of Diocletian and Maximian."
 deathYear: 303
 died: "303 outside the city walls of Cologne, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurentinus of Arezzo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Laurentinus of Arezzo"
 summary: "Brother of Saint Pergentinus of Arezzo. Martyred in the persecutions of Decius."
 deathYear: 251
 died: "251 in Arezzo, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Arezzo, Italy"

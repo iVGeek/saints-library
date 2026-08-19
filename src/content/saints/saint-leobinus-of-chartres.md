@@ -1,7 +1,7 @@
 ---
 name: "Saint Leobinus of Chartres"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Soldier"
+title: "Saint Leobinus of Chartres"
 summary: "Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at Noailles, France, working for the monks by day, being taught by them at night. He studied late by candle light, which annoyed the monks who had to wake for early"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leobinus-of-Chartres1.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 patronage:
@@ -32,7 +31,7 @@ patronage:
   - "wine merchants"
   - "–"
   - "Chartres, France"
-martyr: true
+martyr: false
 ---
 
 Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at Noailles, France, working for the monks by day, being taught by them at night. He studied late by candle light, which annoyed the monks who had to wake for early prayers; Leobinus put a screen around the candle, and pressed on.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Más Pujolrás"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Más Pujolrás"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Josep Benet"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

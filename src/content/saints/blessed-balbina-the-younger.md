@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balbina the Younger"
 honorific: Blessed
-title: "Martyr, Priest"
+title: "Blessed Balbina the Younger"
 summary: "Granddaughter of Saint Clare of Assisi. Balbina joined the Poor Clares at the monastery of San Damiano. Helped found the Poor Clare monastery in Arezzo, Italy. Known for a life of Christian virtues and supernatural gifts."
 searchAliases:
   - "Balbina of Assisi"
@@ -17,10 +17,9 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Granddaughter of Saint Clare of Assisi. Balbina joined the Poor Clares at the monastery of San Damiano. Helped found the Poor Clare monastery in Arezzo, Italy. Known for a life of Christian virtues and supernatural gifts.

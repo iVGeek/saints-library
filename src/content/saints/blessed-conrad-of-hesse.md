@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conrad of Hesse"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Conrad of Hesse"
 summary: "Conrad's father, also named Conrad, died in a shipwreck before the boy was born. Well-educated, Conrad was drawn to religious life, and became a Cistercian monk at the monastery in Haina, Germany around age 20. Priest. He served as sacristan and then cellar-master of his house fo"
 searchAliases:
   - "Conrad of Herlesheim"

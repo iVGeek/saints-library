@@ -1,7 +1,7 @@
 ---
 name: "Saint Bassa of Edessa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Bassa of Edessa"
 summary: "A devout Christian woman married to a pagan priest. Mother of Saint Theogonius, Saint Agapius and Saint Fidelis. Martyred in the persecutions of Diocletian. She was forced to watch her three sons be executed first; she prayed for them and encouraged them to not abandon their fait"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bassa-of-Edessa.jpg"
 deathYear: 304
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

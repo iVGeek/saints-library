@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry Webley"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed Henry Webley"
 summary: "Layman in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 deathYear: 1588
 born: "in Gloucester, Glocestershire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

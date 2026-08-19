@@ -1,7 +1,7 @@
 ---
 name: "Blessed Suzanne-Agathe Deloye"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Suzanne-Agathe Deloye"
 summary: "Benedictine nun at Caderousse in 1762, taking the name Mary Rose. Expelled from the convent, imprisoned and then executed during the persecutions of the French Revolution. The first of the Martyrs of Orange."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

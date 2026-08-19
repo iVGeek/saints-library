@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicula of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Felicula of Rome"
 summary: "A sanctified virgin who was imprisoned and martyred in the persecution of Domitian."
 searchAliases:
   - "Felicola"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

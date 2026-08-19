@@ -1,7 +1,7 @@
 ---
 name: "Blessed Donal O'Neylan"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Donal O'Neylan"
 summary: "Franciscan priest. Martyr."
 deathYear: 1580
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

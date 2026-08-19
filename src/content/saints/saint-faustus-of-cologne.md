@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Cologne"
 honorific: Saint
-title: "Martyr"
+title: "Saint Faustus of Cologne"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

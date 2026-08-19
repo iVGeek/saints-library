@@ -1,7 +1,7 @@
 ---
 name: "Saint Ralph Sherwin"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Ralph Sherwin"
 summary: "A fellow and noted classical scholar at Exeter College, Oxford, England; he received his Master of Arts degree on 2 July 1574. Convert to Catholicism in 1575. Studied for the priesthood at the English College, Douai, France; ordained on 23 March 1577. He then studied at the Engli"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ralph-Sherwin.jpg"
 birthYear: 1550
@@ -16,8 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor

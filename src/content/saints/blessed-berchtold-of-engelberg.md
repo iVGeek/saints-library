@@ -1,7 +1,7 @@
 ---
 name: "Blessed Berchtold of Engelberg"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Berchtold of Engelberg"
 summary: "Benedictine monk at Engelberg, Switzerland. Spiritual student of Blessed Frowin, and succeeded him as abbot at Engelberg on 27 March 1178. Noted for his encouragement of scholarship, piety and monastic discipline among his brothers, and for his own study of the Bible and the earl"
 searchAliases:
   - "Berchtold von Engelberg"

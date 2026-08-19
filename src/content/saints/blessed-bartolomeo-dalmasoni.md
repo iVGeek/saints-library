@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomeo Dalmasoni"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Bartolomeo Dalmasoni"
 summary: "Franciscan Friar Minor priest. He restored and repaired the Franciscan church and monastery in Prague, Czech Republic, and taught theology. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-bartolomeo-dalmasoni.jpg"
 deathYear: 1611
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

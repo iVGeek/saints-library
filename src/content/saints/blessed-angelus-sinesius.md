@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angelus Sinesius"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Angelus Sinesius"
 summary: "Benedictine monk in the monastery of San Nicolà l'Arena in Catania, Italy; he later served there as prior. Abbot of Santa Maria di Maniaci monastery and Santa Maria Nuova monastery in Monreale, Italy. Angelo was so strict about the Benedictine Rule in his houses that some of his"
 searchAliases:
   - "Angelo Sinisio"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Godo of Oye"
 honorific: Saint
-title: "Monk"
+title: "Saint Godo of Oye"
 summary: "Nephew and spiritual student of Saint Wandrille. Benedictine monk under Wandrille at Fontenelle Abbey. Founder and abbot of Oye Abbey, later known as Saint-Gond, at Sezanne-en-Brie, France in 661."
 searchAliases:
   - "Gaon"

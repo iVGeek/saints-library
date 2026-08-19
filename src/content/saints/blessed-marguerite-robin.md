@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marguerite Robin"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Marguerite Robin"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1725
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

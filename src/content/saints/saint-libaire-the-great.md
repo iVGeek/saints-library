@@ -1,7 +1,7 @@
 ---
 name: "Saint Libaire the Great"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Libaire the Great"
 summary: "Born to an imperial Roman patrician family, the daughter of Baccius Lientrude and sister of Saint Amée, Saint Francule, Saint Gontrude, Saint Hoilde, Saint Lintrude, Saint Menne, Saint Ode, Saint Pusinne and Saint Suzanne. She worked for her family as a shepherdess, spending her"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Libaire-the-Great.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 patronage:
   - "Sainte-Livière, Haute-Marne, France"

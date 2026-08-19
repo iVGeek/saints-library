@@ -1,7 +1,7 @@
 ---
 name: "Forty Martyred Soldiers at Rome"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Forty Martyred Soldiers at Rome"
 summary: "Forty soldiers martyred in the persecutions of Gallienus."
 deathYear: 262
 died: "martyred in 262 on the Via Lavicana, Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

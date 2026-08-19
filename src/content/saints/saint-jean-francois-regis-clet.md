@@ -1,7 +1,7 @@
 ---
 name: "Saint Jean-François-Régis Clet"
 honorific: Venerable
-title: "Martyr"
+title: "Saint Jean-François-Régis Clet"
 summary: "Tenth of fifteen children; his father was a farmer and merchant, and the boy was named after Saint John Francis Regis. He was raised in a pious family; one brother became a priest, one sister a nun. Studied at the Jesuit Royal College at Grenoble, France. Joined the Congregation"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Francois-Regis-Clet.jpg"
 birthYear: 1748
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

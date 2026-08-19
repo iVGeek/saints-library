@@ -1,7 +1,7 @@
 ---
 name: "Saint Melasippus of Ancyra"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Melasippus of Ancyra"
 summary: "Married to Saint Carina of Ancyra. Father of Saint Anthony of Ancyra. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Melasippo"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

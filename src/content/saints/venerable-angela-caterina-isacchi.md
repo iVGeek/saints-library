@@ -1,7 +1,7 @@
 ---
 name: "Venerable Angela Caterina Isacchi"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Angela Caterina Isacchi"
 summary: "Founded the Ursuline Sisters of the Sacred Heart of Jesus of Asola."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Angela-Caterina-Isacchi.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

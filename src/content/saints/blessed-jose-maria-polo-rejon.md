@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Polo Rejón"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Polo Rejón"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1890
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Genulfus"
 honorific: Saint
-title: "Monk"
+title: "Saint Genulfus"
 summary: "Third century monk at Celle-sur-Naton, France."
 searchAliases:
   - "Genou"

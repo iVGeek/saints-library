@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Africa"
 summary: "African martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

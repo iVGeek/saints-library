@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catherine of Santa Chiara"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Catherine of Santa Chiara"
 summary: "Born to the Spanish nobility. Feeling an early call to religious life, she became a Poor Clare nun at age 14 at the monastery in Baeza, Spain, and was known for her life of austerity and penance. Chosen abbess of her house, she was known for her leadership by example, and strict"
 searchAliases:
   - "Caterina"
@@ -16,10 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Born to the Spanish nobility. Feeling an early call to religious life, she became a Poor Clare nun at age 14 at the monastery in Baeza, Spain, and was known for her life of austerity and penance. Chosen abbess of her house, she was known for her leadership by example, and strict observance of the Rule of her Order.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthew Flathers"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Matthew Flathers"
 summary: "Studied at the English College in Douai, France. Priest in the apostolic vicariate of England, serving covert Catholics during the persecutions of James I. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Matthew-Flathers.jpg"
 birthYear: 1560
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

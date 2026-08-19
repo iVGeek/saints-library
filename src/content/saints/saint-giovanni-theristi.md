@@ -1,7 +1,7 @@
 ---
 name: "Saint Giovanni Theristi"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Giovanni Theristi"
 summary: "When his mother was pregnant with “Giovanni” (we don't know his birth name), she was enslaved and taken to Palermo, Sicily by Saracen raiders; his father, Arconte di Cursano, a farmer, was killed in the same attack. His mother raised Giovanni as a Christian as best she could, tho"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Theristi.jpg"
 searchAliases:
@@ -28,8 +28,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Redemptorist"
 patronage:
   - "Stilo, Italy"

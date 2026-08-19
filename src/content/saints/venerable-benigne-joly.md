@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bénigne Joly"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Bénigne Joly"
 summary: "Priest of the diocese of Dijon, France. Founded the Congregation of Our Lady of Charity of Dijon."
 birthYear: 1644
 deathYear: 1694
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

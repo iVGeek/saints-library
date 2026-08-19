@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Nowogrodek"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Martyrs of Nowogrodek"
 image: "http://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg"
 searchAliases: []
 deathYear: 1943

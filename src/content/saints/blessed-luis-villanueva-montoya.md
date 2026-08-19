@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Villanueva Montoya"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luis Villanueva Montoya"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Villanueva-Montoya.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

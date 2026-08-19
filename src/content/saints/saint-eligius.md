@@ -1,7 +1,7 @@
 ---
 name: "Saint Eligius of Noyon"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Royalty"
+title: "Saint Eligius of Noyon"
 summary: "Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges, France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of and advisor to Clotaire. Noted for his piety, har"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eligius-of-Noyon1.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 patronage:
@@ -114,7 +113,7 @@ patronage:
   - "Worshipful Company of Blacksmiths"
   - "in Belgium\n\nEloois-Vijve"
   - "Sint-Eloois-Winkel"
-martyr: true
+martyr: false
 ---
 
 Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges, France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of and advisor to Clotaire. Noted for his piety, hard work and honesty, Eligius was generous to the poor, ransomed slaves (including Saint Tillo of Solignac), built churches, a monastery at Solignac, France, and a major convent in Paris. It was said that you could easily find his house by the number of poor people there that he was caring for. Counselor to and diplomat for King Dagobert I. Friend of Saint Ouen of Rouen with whom he formed a small religious society. Persuaded Breton King Judicael to accept the authority of Dagobert.

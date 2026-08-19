@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Igneus"
 honorific: Blessed
-title: "Bishop, Monk, Pope, Cardinal"
+title: "Blessed Peter Igneus"
 summary: "Born to the Florentine nobility, he was the uncle of Saint Bernardo degli Uberti, and related to Saint John Gualbert. Peter became at Vallombrosan Benedictine monk in 1018. He was accused of simony, and underwent a trial by fire - he had to walk through fire, and if he was innoce"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/PalmezzanoIgneo.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 patronage:

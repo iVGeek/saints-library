@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andreas Gim Gwang-Ok"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Andreas Gim Gwang-Ok"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg"
 birthYear: 1841
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

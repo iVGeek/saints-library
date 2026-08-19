@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Syria"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Julian of Syria"
 summary: "Priest. No other information has survived."
 born: "Syrian"
 region: "Syria"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Karl Leisner"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Deacon, Pope"
+title: "Blessed Karl Leisner"
 summary: " He spent six months in compulsor Studied theology in M&uuml;nster, and tried to establish Catholic youth groups. However, the Nazis sought control of all work with youth, and he had to take teenagers “camping” in Belgium and the Netherlands in order to freely discuss Catholicism."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/1502_Leisner.jpg"
 birthYear: 1915
@@ -16,12 +16,10 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Studied theology in M&uuml;nster, and tried to establish Catholic youth groups. However, the Nazis sought control of all work with youth, and he had to take teenagers “camping” in Belgium and the Netherlands in order to freely discuss Catholicism.

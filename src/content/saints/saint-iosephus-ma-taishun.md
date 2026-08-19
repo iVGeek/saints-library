@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Ma Taishun"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Iosephus Ma Taishun"
 summary: "Lifelong layman in the apostolic vicariate of Southeastern Zhili, China. Physician. Catechist. During the anti-Western, anti-Christian persecutions of the Boxer Rebellion, most of Joseph's family renounced their Christianity; Joseph refused to. Martyr."
 searchAliases:
   - "Giuseppe"
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 26
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

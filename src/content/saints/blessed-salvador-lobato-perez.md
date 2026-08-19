@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salvador Lobato Pérez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Salvador Lobato Pérez"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 12 March 1927. Administrator of the parish of El Saucejo in 1933. Imprisoned and murdered with his brother, Blessed Rafael Lobato Pérez, in the persecutions of the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,11 +15,9 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Ordained a priest of the archdiocese of Sevilla, Spain on 12 March 1927. Administrator of the parish of El Saucejo in 1933. Imprisoned and murdered with his brother, Blessed Rafael Lobato Pérez, in the persecutions of the Spanish Civil War.

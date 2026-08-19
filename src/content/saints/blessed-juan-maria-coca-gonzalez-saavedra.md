@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan María Coca González-Saavedra"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Juan María Coca González-Saavedra"
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 18 December 1909. Assistant parish priest of Lora del Río on 14 October 1911. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

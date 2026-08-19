@@ -1,7 +1,7 @@
 ---
 name: "Saint Dana of Leuca"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Dana of Leuca"
 summary: "Immigrant to and deacon in Santa Maria di Leuca, Italy. When the port town was invaded, Dana gathered up the sacred vessels and scriptures and ran inland; he managed to consume the consecrated Hosts to prevent them from being profaned. Ordered to sacrifice wine to the pagan god B"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dana-of-Leuca.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
 martyr: true
 ---

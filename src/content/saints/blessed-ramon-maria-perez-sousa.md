@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón María Pérez Sousa"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Ramón María Pérez Sousa"
 summary: "Monk. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Gómez González"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Manuel Gómez González"
 summary: "Ordained in 1902 in the archdiocese of Braga, Portugal. Transferred to the diocese of Frederico Westphalen, Brazil in 1913. Known as a concerned pastor to his flock, and for his social work in the region. Martyred with his altar boy, Blessed Adilo Daronche."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pe_Manuel.jpg"
 birthYear: 1877
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

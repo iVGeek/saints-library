@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulinus of Brescia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Paulinus of Brescia"
 summary: "Bishop of Brescia, Italy c.524."
 deathYear: 545
 died: "c.545"
@@ -11,10 +11,9 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Brescia, Italy c.524.

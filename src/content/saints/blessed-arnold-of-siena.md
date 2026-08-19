@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arnold of Siena"
 honorific: Blessed
-title: "Hermit, Royalty"
+title: "Blessed Arnold of Siena"
 summary: "Studied law in Toulouse, France. Augustinian hermit, taking his vows on 11 July 1494; known for his strict observance of the Rule of his Order."
 searchAliases:
   - "Arnaldo"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Hermit
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: false
 ---

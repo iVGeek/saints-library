@@ -1,7 +1,7 @@
 ---
 name: "Venerable José Antonio Plancarte y Labastida"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable José Antonio Plancarte y Labastida"
 summary: "Around the age of 16, José travelled to England to study business, but he finally gave in to a call to the priesthood, and returned to Mexico. He studied at the Tridentine seminary in Morelia, Mexico, and then in Rome, Italy. Ordained a priest in Tivoli, Italy on 11 June 1865. Re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Antonio-Plancarte-y-Labastida.jpg"
 birthYear: 1840
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

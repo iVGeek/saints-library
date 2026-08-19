@@ -1,7 +1,7 @@
 ---
 name: "Saint Egbert of Ripon"
 honorific: Saint
-title: "Monk"
+title: "Saint Egbert of Ripon"
 summary: "Monk at Ripon, England."
 deathYear: 720
 died: "c.720"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eulogio Álvarez López"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Cardinal"
+title: "Blessed Eulogio Álvarez López"
 summary: "Trappist monk. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 birthYear: 1916
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Cardinal
 martyr: true
 ---

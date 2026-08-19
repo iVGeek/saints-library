@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Anne Lambert"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Marie-Anne Lambert"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

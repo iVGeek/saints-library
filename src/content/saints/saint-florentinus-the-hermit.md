@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentinus the Hermit"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Florentinus the Hermit"
 summary: "Hermit. Martyr."
 searchAliases:
   - "Florentino"
@@ -15,7 +15,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

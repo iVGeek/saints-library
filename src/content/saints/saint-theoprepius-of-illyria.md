@@ -1,7 +1,7 @@
 ---
 name: "Saint Theoprepius of Illyria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theoprepius of Illyria"
 summary: "Son of Saint Macedo of Illyria and Saint Lydia of Illyria; brother of Saint Theoprepius of Illyria. Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Theoprepides"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Austriclinian of Limoges"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Austriclinian of Limoges"
 summary: "Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges."
 deathYear: 250
 died: "c.250"
@@ -11,10 +11,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges.

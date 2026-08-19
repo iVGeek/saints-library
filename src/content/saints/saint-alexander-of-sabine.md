@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Sabine"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Sabine"
 summary: "Martyr."
 deathYear: 690
 died: "martyred in 690 in the Sabine region of Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

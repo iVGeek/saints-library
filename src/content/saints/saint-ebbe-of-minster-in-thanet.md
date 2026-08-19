@@ -1,7 +1,7 @@
 ---
 name: "Saint Ebbe of Minster-in-Thanet"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Ebbe of Minster-in-Thanet"
 summary: "Daughter of Prince Eormenred of Kent, England; grand-daughter of King Edbald. Sister of Saint Ermengitha, Saint Etheldreda, Saint Ethelred, and Saint Ethelbert of Eastry. Married to King Merewalh of Magonset. Mother of Saint Mildred of Thanet, Saint Milburga, and Saint Milgitha,"
 searchAliases:
   - "Aebbe of Minster-in-Thanet"
@@ -24,7 +24,6 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Albinus of Lyon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Albinus of Lyon"
 summary: "Bishop of Lyon, France from 381 to 390. Built the Saint Stephen Cathedral there."
 searchAliases:
   - "Aubin of Lyon"

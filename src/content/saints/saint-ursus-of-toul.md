@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursus of Toul"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Saint Ursus of Toul"
 summary: "Bishop of Toul, Gallia Belgica (in modern France) c.490. Assigned Saint Vaast of Arras to bring Clovis I, king of the Salian Franks, to Christianity."
 searchAliases:
   - "Orso"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 martyr: false
 ---
 

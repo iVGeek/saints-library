@@ -1,7 +1,7 @@
 ---
 name: "Saint Primian of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Primian of North Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Primianus"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

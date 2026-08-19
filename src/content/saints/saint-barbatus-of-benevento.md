@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbatus of Benevento"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Barbatus of Benevento"
 summary: "Priest at an early age. Fiery preacher whose flock turned on him because of his zeal; he finally resigned his parish and returned home. There he fought against a resurgent paganism involving the worship of a golden viper and animal skin hung in a tree. For unrelated reasons, the"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Barbatus.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "Benevento, Italy, city of"

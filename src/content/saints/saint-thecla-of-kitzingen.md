@@ -1,7 +1,7 @@
 ---
 name: "Saint Thecla of Kitzingen"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty, Missionary"
+title: "Saint Thecla of Kitzingen"
 summary: "Benedictine nun at Wimborne Abbey, Dorset, England. Missionary to Germany, working with her relative, Saint Lioba of Bischofsheim, and Saint Boniface. Abbess of Ochsenfürt Abbey and then Kitzingen Abbey."
 searchAliases:
   - "Thecla of England"
@@ -17,11 +17,10 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Missionary
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine nun at Wimborne Abbey, Dorset, England. Missionary to Germany, working with her relative, Saint Lioba of Bischofsheim, and Saint Boniface. Abbess of Ochsenfürt Abbey and then Kitzingen Abbey.

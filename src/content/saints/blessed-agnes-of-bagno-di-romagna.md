@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agnes of Bagno di Romagna"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Agnes of Bagno di Romagna"
 summary: "Camaldolese nun at the Santa Lucia convent near Bagno di Romagna, Italy. Friend of Blessed Joan of Bagno di Romagna."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Agnes-of-Bagno-di-Romagna.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

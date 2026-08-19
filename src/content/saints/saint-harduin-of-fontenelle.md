@@ -1,7 +1,7 @@
 ---
 name: "Saint Harduin of Fontenelle"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit"
+title: "Saint Harduin of Fontenelle"
 summary: "Benedictine monk at the monastery of Saint-Wandrille in Fontenelle, Rouen, Normandy (in modern France). Priest. He received permission to live as a hermit, and lived locked in a cell near the abbey. Prolific copyist of the writings of the Fathers of the Church. Taught mathematics"
 searchAliases:
   - "Arduin"
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 martyr: false

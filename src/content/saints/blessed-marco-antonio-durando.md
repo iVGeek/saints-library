@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marco Antonio Durando"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Marco Antonio Durando"
 summary: "Priest in the Congregation of the Mission of Saint Vincent de Paul. Founder of the Institute of the Sisters of Jesus the Nazarene."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marco-Antonio-Durando-268x300.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Lazarist"
 martyr: false
 ---

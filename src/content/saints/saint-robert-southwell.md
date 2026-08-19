@@ -1,7 +1,7 @@
 ---
 name: "Saint Robert Southwell"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Royalty, Confessor"
+title: "Saint Robert Southwell"
 summary: "Raised in a piously Catholic family. Educated at Douai and at Paris, France. Joined the Jesuits in 1580. Prefect of studies in the English College at Rome, Italy. Ordained in 1584. Returned to England in 1586 to minister to covert Catholics, working with Henry Garnett. Chaplain t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Father-Robert-Southwell.jpg"
 birthYear: 1561
@@ -16,8 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Jesuit"

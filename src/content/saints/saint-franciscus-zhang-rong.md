@@ -1,7 +1,7 @@
 ---
 name: "Saint Franciscus Zhang Rong"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Franciscus Zhang Rong"
 summary: "Married layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Fangji"
@@ -13,9 +13,7 @@ feastDay:
   month: 7
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

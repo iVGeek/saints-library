@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Januarius of Africa"
 summary: "Martyred by Arian Vandals."
 deathYear: 450
 died: "c.450 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

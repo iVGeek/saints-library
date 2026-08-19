@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Borràs Ferré"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Manuel Borràs Ferré"
 summary: "Priest, ordained on 19 September 1903. Notary of the Curia. Spiritual diretor of the seminary of Tarragona, Spain. Auxiliary bishop of Tarragona and titular bishop of Bisica on 2 July 1934. Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Borràs-Ferré.jpg"
 birthYear: 1880
@@ -16,10 +16,8 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

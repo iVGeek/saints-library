@@ -1,7 +1,7 @@
 ---
 name: "Saint Caralippus of Languedoc"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Caralippus of Languedoc"
 summary: "Martyr. Saint Gregory of Tours wrote about him."
 died: "martyred in Languedoc, France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

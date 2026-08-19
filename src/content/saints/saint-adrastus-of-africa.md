@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrastus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Adrastus of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Arcastus"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

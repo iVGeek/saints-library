@@ -1,7 +1,7 @@
 ---
 name: "Saint Supporina of Clermont"
 honorific: Saint
-title: "Monk"
+title: "Saint Supporina of Clermont"
 summary: "Holy woman whose relics are enshrined in the church of Saint Artemius in Clermont, France. No details of her life have survived."
 region: "France"
 feastDay:

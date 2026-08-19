@@ -1,7 +1,7 @@
 ---
 name: "Saint Gulstan"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Gulstan"
 summary: "Sailor. Hermit. Benedictine monk and then abbot at the abbey of Saint Gildas of Rhuys, Brittany under Saint Felix. Hermit on Hoëdic Island off the southern coast of Brittany."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gulstan.jpg"
 searchAliases:

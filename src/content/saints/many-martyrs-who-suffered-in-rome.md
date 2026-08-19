@@ -1,7 +1,7 @@
 ---
 name: "Many Martyrs Who Suffered in Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Many Martyrs Who Suffered in Rome"
 summary: "There were many martyrs who suffered in the persecutions of Diocletian for refusing to surrender the holy books. Though we know these atrocities occurred, we do not know the names of the saints, and we honour them as a group."
 deathYear: 303
 died: "c.303 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonifacio Rodríguez González"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Bonifacio Rodríguez González"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonifacio-Rodríguez-González.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

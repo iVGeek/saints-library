@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benvenuto Mareni"
 honorific: Blessed
-title: "Pope, Royalty"
+title: "Blessed Benvenuto Mareni"
 summary: "13th-century Franciscan Conventual lay brother in Recanati, Italy. Worked at his monastery as a cook, and spent his free time in prayer. During prayer and Mass he would lapse into ecstacies and receive visions; during one vision he was allowed to hold the Infant Christ. Legend sa"
 searchAliases:
   - "Benventuto of Recanati"
@@ -18,9 +18,7 @@ feastDay:
   month: 5
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

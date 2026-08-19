@@ -1,7 +1,7 @@
 ---
 name: "Saint John Bread-and-Water"
 honorific: Saint
-title: "Monk"
+title: "Saint John Bread-and-Water"
 summary: "Benedictine Cistercian lay-brother at Sangra menia abbey, Spain. Received his nickname due to his life-long bread-and-water fast."
 searchAliases:
   - "John Pan y Agua"

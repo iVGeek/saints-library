@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Heraclea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Victor of Heraclea"
 summary: "Martyr."
 died: "Heraclea, Thrace (in modern Turkey)"
 deathPlace: "Thrace (modern Turkey)"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

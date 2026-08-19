@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Mount Sinai"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Martyrs of Mount Sinai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Mount-Sinai.jpg"
 died: "martyred by Bedouins"
 region: "England"
@@ -10,8 +10,7 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---

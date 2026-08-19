@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paula Gambara Costa"
 honorific: Blessed
-title: "Pope, Confessor"
+title: "Blessed Paula Gambara Costa"
 summary: "Born to the nobility, the eldest of seven children born to Giampaolo Gambara and Taddea Caterina Martinengo. In her youth, Paula showed an affinity to a quiet and devout life, felt a call to religious orders, and spent her spare time spent in prayer and spiritual reading. However"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paula-Gambara-Costa.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

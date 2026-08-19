@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuseppe Nascimbeni"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Giuseppe Nascimbeni"
 summary: "Son of a carpenter. Franciscan tertiary. Priest in the diocese of Verona, Italy, ordained in 1874. Elementary school teacher at San Pietro di Lavagano, Italy for three years. Parish priest at Castelletto del Garda, Italy, an area that was poor and very removed from the modern wor"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Giuseppe_Nascimbeni_%28cropped%29.JPG/330px-Giuseppe_Nascimbeni_%28cropped%29.JPG"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

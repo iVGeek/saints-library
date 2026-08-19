@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wladyslaw Ulma"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Wladyslaw Ulma"
 summary: "Child in the archdiocese of Przemysl, Poland, the son of Józef and Wiktoria Ulma. Executed by Nazi forces because his family hid Jewish refugees during World War II. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

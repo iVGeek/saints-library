@@ -1,7 +1,7 @@
 ---
 name: "Venerable Gabriel Rivat"
 honorific: Venerable
-title: "Monk, Pope, Hermit, Royalty"
+title: "Venerable Gabriel Rivat"
 summary: "Joined the Marist Brothers in 1818, making his initial vows in 1819 and his perpetual profession in 1826. Served as a cook at Marlhes in 1820. Taught at Vanosc and Boulieu from 1821 to 1826. Served as personal secretary to Saint Marcellino Champagnat in 1831. Superior general of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Gabriel-Rivat.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Marist"
 martyr: false
 ---

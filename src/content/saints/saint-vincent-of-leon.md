@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Léon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vincent of Léon"
 summary: "Benedictine monk. Abbot of the monastery of Saint Claudius, Léon, Spain. Martyred by Arian Visigoths."
 deathYear: 630
 born: "Spanish"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 patronage:

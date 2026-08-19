@@ -1,7 +1,7 @@
 ---
 name: "Saint Rumon of Tavistock"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Rumon of Tavistock"
 summary: "Bishop in  England. Romansleigh, England is named for him."
 searchAliases:
   - "Ronan"
@@ -13,14 +13,13 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
 patronage:
   - "Tavistock, England"
   - "Romansleigh, England"
-martyr: true
+martyr: false
 ---
 
 Bishop in  England. Romansleigh, England is named for him.

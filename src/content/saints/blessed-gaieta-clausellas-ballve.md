@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gaietà Clausellas Ballvé"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Gaietà Clausellas Ballvé"
 summary: "After studying at the seminary of the archdiocese of Barcelona, Spain, Gaietà was ordained a priest on 3 May 1888. He served as chaplain at a home for the elderly for over 20 years, and refused to abandon his flock when the area was seized by anti-Christian Communist militia in t"
 birthYear: 1863
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

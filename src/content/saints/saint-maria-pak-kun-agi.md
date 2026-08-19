@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Pak K'Un-agi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Maria Pak K'Un-agi"
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Maria Bak Keun-Agi"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

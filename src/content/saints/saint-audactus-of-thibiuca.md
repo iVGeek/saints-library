@@ -1,7 +1,7 @@
 ---
 name: "Saint Audactus of Thibiuca"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Audactus of Thibiuca"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Adauctus"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovicus Minami"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ludovicus Minami"
 summary: "Young boy in the diocese of Fukuoka, Japan. Adopted son of Blessed Magdalena Minami and Blessed Ioannes Minami Gorozaemon. Martyr."
 birthYear: 1596
 deathYear: 1603
@@ -15,8 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

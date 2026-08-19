@@ -1,7 +1,7 @@
 ---
 name: "Saint Francesco Fogolla"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Francesco Fogolla"
 summary: "Priest. Franciscan missionary. Co-adjutor of the apostolic vicar of Northern Shanxi, China. One of the Martyrs of China, dying in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francesco-Fogolla.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

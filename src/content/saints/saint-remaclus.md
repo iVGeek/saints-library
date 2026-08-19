@@ -1,7 +1,7 @@
 ---
 name: "Saint Remaclus of Maastricht"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Missionary, Confessor"
+title: "Saint Remaclus of Maastricht"
 summary: "Born to the nobility, Remaclus grew up in and around the royal court of Aquitaine (in modern France. Studied under Saint Sulpicius of Bourges. Benedictine monk in 625. Priest. First abbot at Solignac Abbey near Limoges, France, appointed by Saint Eligius. Abbot of the monastery a"
 image: "http://catholicsaints.info/wp-content/gallery/saint-remaclus/saint-remaclus.jpg"
 searchAliases:

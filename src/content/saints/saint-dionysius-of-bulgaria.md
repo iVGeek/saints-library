@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Bulgaria"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Dionysius of Bulgaria"
 summary: "Archbishop from Bulgaria. Missionary to Russia. Built a monastery in Novgorod."
 deathYear: 1180
 died: "1180 in Kiev, Russia of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed William of Pontoise"
 honorific: Blessed
-title: "Priest, Monk, Hermit"
+title: "Blessed William of Pontoise"
 summary: "May have been a Benedictine monk. Priest. Hermit at Pontoise, France."
 deathYear: 1195
 born: "England"

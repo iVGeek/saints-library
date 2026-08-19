@@ -1,7 +1,7 @@
 ---
 name: "Saint Petroc"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Petroc"
 summary: " Several years later he returned to Britain, landing on the River Ca Younger son of King Glywys. On his father's death, the people of Glywysing called for Petroc to take the crown of one the country's sub-divisions, but Petroc wanted a religious life, and went to study in Ireland."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Petroc.png"
 searchAliases:

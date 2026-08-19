@@ -1,7 +1,7 @@
 ---
 name: "Saint Comus of Scotland"
 honorific: Saint
-title: "Monk"
+title: "Saint Comus of Scotland"
 summary: "6th-century monk and abbot in Scotland."
 searchAliases:
   - "Come"

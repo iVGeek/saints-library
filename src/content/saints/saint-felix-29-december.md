@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Felice"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

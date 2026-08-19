@@ -1,7 +1,7 @@
 ---
 name: "Saint Mochelloc of Kilmallock"
 honorific: Saint
-title: "Monk"
+title: "Saint Mochelloc of Kilmallock"
 summary: "Abbot at Kilmallock, Ireland. No other information has survived."
 searchAliases:
   - "Celloch"

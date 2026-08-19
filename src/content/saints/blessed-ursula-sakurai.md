@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ursula Sakurai"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ursula Sakurai"
 summary: "Married lay woman in the Kyoto, Japan. Daughter-in-law of Blessed Ioannes Sakurai. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Bungo (in modern Oita), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

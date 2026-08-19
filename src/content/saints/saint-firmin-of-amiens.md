@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmin of Amiens"
 honorific: Saint
-title: "Monk"
+title: "Saint Firmin of Amiens"
 summary: "Monk. Abbot in the region of Amiens, France."
 searchAliases:
   - "Firmino"

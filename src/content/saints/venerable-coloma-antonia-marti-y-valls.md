@@ -1,7 +1,7 @@
 ---
 name: "Venerable Coloma Antònia Martí y Valls"
 honorific: Venerable
-title: "Martyr, Religious, Pope"
+title: "Venerable Coloma Antònia Martí y Valls"
 summary: "Coloma began to feel a call to religious life at age 11. She joined the Poor Clares of Divine Providence 2 October 1882 at age 22 in Badalona, Spain; she made her first vows in 1883, her solemn profession on 29 September 1891. She served as teacher, infirmary nurse, sacristan, ch"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Coloma-Antonia-Marti-y-Valls.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Coloma began to feel a call to religious life at age 11. She joined the Poor Clares of Divine Providence 2 October 1882 at age 22 in Badalona, Spain; she made her first vows in 1883, her solemn profession on 29 September 1891. She served as teacher, infirmary nurse, sacristan, choir director, and novice mistress. Known for her charity to her sisters, her spirit of penance for the sins of the world, and for her deep contemplative prayer life.

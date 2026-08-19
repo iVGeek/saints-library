@@ -1,7 +1,7 @@
 ---
 name: "Saint Asterius of Petra"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Asterius of Petra"
 summary: "A former heretic who converted from Arianism to orthodox Christianity. Bishop of Petra. Fought heresy and earned the hatred of Arians by writing about their intrigues at the Council of Sardica in 347. Exiled to Africa by Emperor Constantius. Recalled to his diocese by Julian the"
 searchAliases:
   - "Asterio"
@@ -13,10 +13,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 A former heretic who converted from Arianism to orthodox Christianity. Bishop of Petra. Fought heresy and earned the hatred of Arians by writing about their intrigues at the Council of Sardica in 347. Exiled to Africa by Emperor Constantius. Recalled to his diocese by Julian the Apostate. Assisted at the Council of Alexandria in 362.

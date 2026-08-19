@@ -1,7 +1,7 @@
 ---
 name: "Saint Sérvulo of Trieste"
 honorific: Saint
-title: "Martyr"
+title: "Saint Sérvulo of Trieste"
 summary: "Martyred in the persecutions of Numerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sérvulo-of-Trieste.gif"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 5
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Trieste, Italy"
 martyr: true

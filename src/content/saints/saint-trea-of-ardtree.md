@@ -1,7 +1,7 @@
 ---
 name: "Saint Trea of Ardtree"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Trea of Ardtree"
 summary: "Daughter of the chieftain Cairthenn Bec mac Eircc and Mugain. An adult convert, she and her parents were brought to the faith by Saint Patrick. Trea became a nun, receiving the veil from Patrick. Anchoress at Ardtree (formerly Ardtrea and Ard Tréa before that) in Derry, Ireland."
 born: "mid 5th-century Ireland"
 died: "early 6th century in the area of Derry, Ireland of natural causes"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

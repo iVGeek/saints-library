@@ -1,7 +1,7 @@
 ---
 name: "Saint Peleusius of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Peleusius of Alexandria"
 summary: "Priest. Martyr."
 searchAliases:
   - "Pelusio"
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

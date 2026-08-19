@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christopher of Milan"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Christopher of Milan"
 summary: "Nothing is known of the early life of Blessed Christopher. He joined the Dominican at San Eustorgio convent, Milan, Italy, and became a travelling preacher throughout Italy. Abbot at Our Lady of Mercy abbey in Taggai, Italy. He had the gift of prophecy, foreseeing plague, flood a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christopher-of-Milan.jpg"
 birthYear: 1410
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

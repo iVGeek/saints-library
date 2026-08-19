@@ -1,7 +1,7 @@
 ---
 name: "Saint Tigrinus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Tigrinus of Rome"
 summary: "Martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 11
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

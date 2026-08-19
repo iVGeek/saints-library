@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderus of Gourdon"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit"
+title: "Saint Desiderus of Gourdon"
 summary: "Sixth century priest and monk at the monastery of Gourdon, Saône-et-Loire (in modern France). Reported miracle worker. Saint Agricola, bishop of Chalon-sur-Saône, France held him in high esteem."
 searchAliases:
   - "Desideratus"
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

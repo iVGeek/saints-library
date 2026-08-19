@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuthburgh of Wimborne"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Cuthburgh of Wimborne"
 summary: "Sister of King Ina of Wessex in England; sister of Saint Cwenburgh of Wimborne. Benedictine nun at Barking Abbey in Essex, England where she was a friend of Saint Hildelith. With Cwenburgh, she founded a monastery in Wimborne, Dorset, England, and served as abbess there. Many of"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cuthburgh-of-Wimborne.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

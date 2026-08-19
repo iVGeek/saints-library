@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropius of Porto"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutropius of Porto"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 273
 died: "c.273 in Porto, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

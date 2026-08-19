@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcian of Rome"
 summary: "Martyred with four companions, date unknown."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

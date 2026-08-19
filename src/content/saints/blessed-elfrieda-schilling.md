@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elfrieda Schilling"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal, Soldier"
+title: "Blessed Elfrieda Schilling"
 summary: "Raised in an Evangelical family, Elfrieda converted to Catholicism at age 20, and joined the Sisters of Saint Elizabeth. She served in various, often administrative capacities, at Elizabethan Sister houses in Hamburg-Eimsbüttel, in Glogów, in Nysa, in Katowice, in Legnica, in Cho"
 searchAliases:
   - "Sister Maria Rosaria"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

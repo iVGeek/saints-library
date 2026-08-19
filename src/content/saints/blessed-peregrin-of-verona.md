@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pérégrin of Verona"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Hermit"
+title: "Blessed Pérégrin of Verona"
 summary: "13th century Augustinian hermit in the area of Verona, Italy. Priest."
 searchAliases:
   - "Peregrine"
@@ -18,12 +18,10 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
-martyr: true
+martyr: false
 ---
 
 13th century Augustinian hermit in the area of Verona, Italy. Priest.

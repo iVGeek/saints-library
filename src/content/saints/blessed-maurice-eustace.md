@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maurice Eustace"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Maurice Eustace"
 summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
 deathYear: 1581
 born: "Irish"
@@ -12,9 +12,7 @@ feastDay:
   month: 11
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

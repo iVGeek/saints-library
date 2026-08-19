@@ -1,7 +1,7 @@
 ---
 name: "Saint Wiho of Osnabrück"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Wiho of Osnabrück"
 summary: "First bishop of Osnabrück, Saxony (in modern Germany) c.800."
 searchAliases:
   - "Viho"
@@ -15,9 +15,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 First bishop of Osnabrück, Saxony (in modern Germany) c.800.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthias of Miyako"
 honorific: Saint
-title: "Martyr, Pope, Royalty, Soldier"
+title: "Saint Matthias of Miyako"
 summary: "Franciscan tertiary. When soldiers arrived to arrest Christians during an official persecution, they were looking for another Matthias who was not there. This Matthias offered himself, both to stand for his faith and to save the other Matthias. The soldiers were happy to take him"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -16,9 +16,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Corona of Elche"
 honorific: Blessed
-title: "Virgin, Religious"
+title: "Blessed Corona of Elche"
 summary: "Benedictine nun of Elche Abbey near València, Spain."
 region: "Spain"
 feastDay:

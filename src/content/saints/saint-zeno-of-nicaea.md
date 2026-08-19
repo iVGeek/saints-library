@@ -1,7 +1,7 @@
 ---
 name: "Saint Zeno of Nicaea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Zeno of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Zenone"
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

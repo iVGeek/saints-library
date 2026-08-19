@@ -1,7 +1,7 @@
 ---
 name: "Venerable Augustin Arnaud Pagès"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Augustin Arnaud Pagès"
 summary: "Member of the Brothers of the Christian Schools. He worked in Cuba, establishing several Catholic youth associations, and supported the vocation of many young men and women to enter the priesthood and religious life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Augustin-Arnaud-Pagès.gif"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

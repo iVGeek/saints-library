@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucy Bufalari"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Lucy Bufalari"
 summary: "Sister of Blessed John of Rieti. Augustinian Oblate nun at Amelia, Italy where she became prioress."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-Bufalari.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 patronage:
   - "against demonic possession"

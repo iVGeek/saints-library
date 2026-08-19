@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisca de Amézua Ibaibarriaga"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Francisca de Amézua Ibaibarriaga"
 summary: "Raised in a pious Christian household. Member of the Carmelite Sisters of Charity, beginning her novitiate on 16 October 1900 in Vitoria, Spain. Served as a cook at the College of Oliva in Valencia, Spain. Served as a cook at the College of the Immaculate Conception of Cullera, S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Francisca.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

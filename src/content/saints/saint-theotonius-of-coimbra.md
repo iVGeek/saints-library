@@ -1,7 +1,7 @@
 ---
 name: "Saint Theotonius of Coimbra"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Theotonius of Coimbra"
 summary: "Nephew of the bishop of Coimbra, Portugal. Educated at the University of Coimbra. Parish priest, assigned to Viseu, Portugal. His powerful and outspoken preaching against vice gained him a great reputation, the animosity of the ruling class, and the affection of the king and quee"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/S%C3%A3o_Teot%C3%B3nio_%28s%C3%A9c._XV%29_-_Nuno_Gon%C3%A7alves_%28Museu_Nacional_de_Arte_Antiga%29.png/960px-S%C3%A3o_Teot%C3%B3nio_%28s%C3%A9c._XV%29_-_Nuno_Gon%C3%A7alves_%28Museu_Nacional_de_Arte_Antiga%29.png"
 searchAliases:
@@ -20,8 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Augustinian"
 patronage:
   - "Coimbra, Portugal, diocese of"

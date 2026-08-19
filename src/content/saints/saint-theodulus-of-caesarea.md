@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodulus of Caesarea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theodulus of Caesarea"
 summary: "Member of the household of the governor of Palestine. When the governor learned of Theodulus's Christianity, he ordered his execution. Martyr."
 deathYear: 309
 died: "crucified in 309 at Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Candidus"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Candidus"
 summary: "Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius."
 searchAliases:
   - "Candide"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ayne_Bru_-_Saint_Candidus_-_Google_Art_Project.jpg/960px-Ayne_Bru_-_Saint_Candidus_-_Google_Art_Project.jpg"
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Merililaun"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Merililaun"
 summary: "Eighth century pilgrim, martyred while en route to Rome, Italy."
 searchAliases:
   - "Merlilaun"
@@ -17,7 +17,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

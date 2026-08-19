@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Christophora Klomfass"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Soldier"
+title: "Blessed Maria Christophora Klomfass"
 summary: "The daughter of August and Rozalia Such, Marta's mother was a Franciscan tertiary, and theirs was a pious home. In 1918, at age 15, the girl began studying tailoring in Biskupiec, Poland. There she came to know the Dominican Sisters of Saint Catherine; in 1922, at age 19, Marta t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Christophora-Klomfass.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Soldier
 religiousOrder: "Franciscan"
 martyr: true

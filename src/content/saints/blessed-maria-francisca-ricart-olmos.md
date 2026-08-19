@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Francisca Ricart Olmos"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Francisca Ricart Olmos"
 summary: "Servite nun. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Ricart-Olmos.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

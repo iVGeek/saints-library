@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudia of Ethiopia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Claudia of Ethiopia"
 summary: "Martyr. No other information has survived."
 died: "Ethiopia"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

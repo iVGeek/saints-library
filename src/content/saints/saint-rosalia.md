@@ -1,7 +1,7 @@
 ---
 name: "Saint Rosalia"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Saint Rosalia"
 summary: "Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne. Raised around the royal Sicilian court. From her youth, Rosalia knew she was called to dedicate her life to God. When grown, she moved to cave near her parent's home,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthonis_van_Dyck_084.jpg/960px-Anthonis_van_Dyck_084.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 patronage:
   - "locations in Italy\n\nBaucina"
   - "Benetutti"
@@ -40,7 +38,7 @@ patronage:
   - "Santo Stefano Quisquina"
   - "Sicily"
   - "Vicari"
-martyr: true
+martyr: false
 ---
 
 Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne. Raised around the royal Sicilian court. From her youth, Rosalia knew she was called to dedicate her life to God. When grown, she moved to cave near her parent's home, and lived in it the rest of her life; tradition says that she was led to the cave by two angels. On the cave wall she wrote “I, Rosalia, daughter of Sinibald, Lord of Roses, and Quisquina, have taken the resolution to live in this cave for the love of my Lord, Jesus Christ.” Rosalia remained apart from the world, dedicated to prayer and works of penance for the sake of Jesus, and died alone.

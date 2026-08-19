@@ -1,7 +1,7 @@
 ---
 name: "Saint Fabius of Sabina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fabius of Sabina"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "in 304 on the Via Salaria outside Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

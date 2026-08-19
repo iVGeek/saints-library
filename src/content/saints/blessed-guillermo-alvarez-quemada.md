@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillermo Álvarez Quemada"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Guillermo Álvarez Quemada"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Oseas"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paganus"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Paganus"
 summary: "Benedictine monk in Sicily. Hermit."
 deathYear: 1423
 born: "Italian"

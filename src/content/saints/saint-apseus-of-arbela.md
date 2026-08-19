@@ -1,7 +1,7 @@
 ---
 name: "Saint Apseus of Arbela"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Apseus of Arbela"
 summary: "Christian deacon. Martyred in the persecutions of Shapur II."
 searchAliases:
   - "Acepsius"
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

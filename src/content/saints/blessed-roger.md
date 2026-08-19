@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Roger"
 summary: "A spiritual student of Saint Francis of Assisi, he joined the Franciscans in 1216. Miracle worker. Had the gift of prophecy."
 deathYear: 1236
 died: "1236 in Spain of natural causes"

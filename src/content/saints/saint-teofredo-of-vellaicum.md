@@ -1,7 +1,7 @@
 ---
 name: "Saint Teofredo of Vellaicum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Teofredo of Vellaicum"
 summary: "Monk. Abbot. Martyr."
 searchAliases:
   - "Théofrédi"
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

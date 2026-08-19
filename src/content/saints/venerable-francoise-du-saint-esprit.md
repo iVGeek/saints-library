@@ -1,7 +1,7 @@
 ---
 name: "Venerable Françoise du Saint Esprit"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Françoise du Saint Esprit"
 summary: "Entered the Sisters of the Holy Name of Joseph de Mailhac, and served as master of novices. She founded the Third Order of Saint Francis (Congregation of the Franciscan Sisters of the Holy Spirit) in Montpellier, France in 1861, a congregation dedicated to the care and education"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Françoise-du-Saint-Esprit.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

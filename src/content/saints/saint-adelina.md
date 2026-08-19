@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelina of Mortain"
 honorific: Saint
-title: "Religious"
+title: "Saint Adelina of Mortain"
 summary: "Grand-daughter of William the Conqueror. Sister of Saint Vitalis. Benedictine nun. Abbess of the convent of La Blanche, Moriton, Normandy, a house her brother had founded."
 searchAliases:
   - "Adeline"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rebecca of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rebecca of Alexandria"
 summary: "Martyr."
 died: "3rd century in Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dacius of Damascus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dacius of Damascus"
 summary: "Martyred with six companions. No other information has survived."
 searchAliases:
   - "Decius of Damascus"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

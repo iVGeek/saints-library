@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giunio Tinarelli"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Venerable Giunio Tinarelli"
 summary: "Son of Alfredo and Maria Giorgini Tinarelli. Giunio was a religious boy, which put him in conflict with his irreligious father; Giunio had to be baptized in secret because of his father's opposition to the Church. The boy worked in a printing plant at age 12, a lock and key facto"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-giunio-tinarelli/venerable-giunio-tinarelli.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

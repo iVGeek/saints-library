@@ -1,7 +1,7 @@
 ---
 name: "Saint Romfarius of Coutances"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty"
+title: "Saint Romfarius of Coutances"
 summary: "Hermit in Aquitaine (in modern France). While on-board a ship, a storm struck, wrecking the vessel in the area of Coutances, France. Romarius met and took shelter with the bishop, Saint Laudus, and became his apprentice. Priest. Bishop of Coutances."
 searchAliases:
   - "Romfaire"
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

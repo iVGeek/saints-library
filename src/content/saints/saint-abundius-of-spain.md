@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundius of Spain"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Abundius of Spain"
 summary: "Martyr. No other information has survived"
 deathYear: 283
 died: "283 in Spain"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

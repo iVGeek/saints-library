@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eurosia Fabris"
 honorific: Blessed
-title: "Virgin, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Eurosia Fabris"
 summary: "Born to a farm family, the daughter of Luigi and Maria Fabris, she grew up with the nickname Rosina. In 1870, when Eurosia was four, the family moved to Marola di Torri, Italy where she lived the rest of her life. She had only two years of school, forced to leave in 1874 at age e"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Beata_Eurosia.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

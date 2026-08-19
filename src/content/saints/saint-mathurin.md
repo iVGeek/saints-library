@@ -1,7 +1,7 @@
 ---
 name: "Saint Mathurin of Larchant"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Mathurin of Larchant"
 summary: "Raised a pagan; his father was even commissioned to persecute Christians by emperor Maximian. Mathurin converted at age 12. Priest at age 20, ordained by Saint Polycarp. Zealous evangelist in his region, even converting his parents. Noted exorcist, even healing Theodora, the daug"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint_mathurin_de_larchant.jpg"
 searchAliases:

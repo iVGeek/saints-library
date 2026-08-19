@@ -1,7 +1,7 @@
 ---
 name: "Saint Epiphana"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Epiphana"
 summary: "Martyr. No other reliable information has survived."
 searchAliases:
   - "Epiphania"
@@ -11,7 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

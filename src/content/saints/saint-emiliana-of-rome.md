@@ -1,7 +1,7 @@
 ---
 name: "Saint Emiliana of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Emiliana of Rome"
 summary: "A virgin-martyr. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg"
 died: "martyred in Rome, Italy, date unknown"
@@ -12,7 +12,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

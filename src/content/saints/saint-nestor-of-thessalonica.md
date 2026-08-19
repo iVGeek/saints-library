@@ -1,7 +1,7 @@
 ---
 name: "Saint Nestor of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nestor of Thessalonica"
 summary: "Young man martyred in the persecutions of Diocletian. There is a legend of him being involved in gladatorial matches as a way to prove something about his faith, but it's apparently a late addition."
 died: "early 4th century Thessalonica"
 region: "Greece"
@@ -10,7 +10,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

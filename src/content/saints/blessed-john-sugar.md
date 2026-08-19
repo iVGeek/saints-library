@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Sugar"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Sugar"
 summary: "Priest in the apostolic vicariate of England during a period of government persecution. Martyr."
 searchAliases:
   - "John Cox"
@@ -18,9 +18,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Blessed-john-sugar.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

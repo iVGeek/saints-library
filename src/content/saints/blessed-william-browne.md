@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Browne"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed William Browne"
 summary: "Layman servant in the house of nobleman Thomas Darcy. Known for his love of the Faith and the Church, he refused to acknowledge the king as head of Christianity in England, refused to attend Protestant services, and continued to encourage people to join and support Catholicism. F"
 deathYear: 1605
 born: "Northampton, Northamptonshire, England"
@@ -13,10 +13,7 @@ feastDay:
   month: 9
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

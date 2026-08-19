@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Arias Martín"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Arias Martín"
 summary: "Ordained in 1909. Joined the Hospitallers of Saint John of God in 1935. Member of the community in Ciempozuelos, Madrid, Spain. Martyred in the Spanish Civil War while still a 52 year old novice."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Arias-Martín.jpg"
 birthYear: 1884
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

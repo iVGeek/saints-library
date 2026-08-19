@@ -1,7 +1,7 @@
 ---
 name: "Saint Fremund of Dunstable"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Fremund of Dunstable"
 summary: "Hermit. Martyred by pagan Danish invaders."
 deathYear: 866
 died: "866"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

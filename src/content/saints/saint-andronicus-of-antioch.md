@@ -1,7 +1,7 @@
 ---
 name: "Saint Andronicus of Antioch"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Andronicus of Antioch"
 summary: "Ninth-century layman in Antioch, Syria. Married to Saint Athanasia of Antioch. Silversmith and possibly a banker. Father of two. On the death of their children, Andronicus and Athanasia agreed to live separately as hermits in upper Egypt. Made multiple pilgrimages to Jerusalem."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Andronicus-of-Antioch.jpg"
 searchAliases:

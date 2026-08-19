@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Porto Romano"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vincent of Porto Romano"
 summary: "Martyr. No other information survives."
 died: "in Porto Romano, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

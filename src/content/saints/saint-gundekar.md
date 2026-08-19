@@ -1,7 +1,7 @@
 ---
 name: "Saint Gundekar"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gundekar"
 summary: "Benedictine monk. Travelled, worked and martyred with Saint Boniface."
 deathYear: 754
 died: "5 June 754 at Dokkum, Freisland (modern Nederlands)"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

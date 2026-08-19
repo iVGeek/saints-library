@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramon Peiró Victori"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ramon Peiró Victori"
 summary: "Dominican priest, professed in the Order on 5 December 1908. Director of the schools in Solsona and Calanda, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Peiró-Victori.jpg"
 birthYear: 1891
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

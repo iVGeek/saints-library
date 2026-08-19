@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert of Arbrissel"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Robert of Arbrissel"
 summary: "Son of a village priest, he became a priest himself. Archpriest at Rennes, France where he was known both as a reformer (which often stirs up trouble), and as a peace-maker. Teacher at Angers, France. Hermit in the forest of Craon, France where he founded a community of canons, i"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Bienheureux_Robert_d%27Arbrissel.jpg/960px-Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Bienheureux_Robert_d%27Arbrissel.jpg"
 searchAliases:

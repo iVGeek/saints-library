@@ -1,7 +1,7 @@
 ---
 name: "Saint Speciosa of Pavia"
 honorific: Saint
-title: "Religious"
+title: "Saint Speciosa of Pavia"
 summary: "Fifth century nun in Pavia, Lombardy, Italy."
 died: "buried in the Basilica of San Vincenzo, Pavia, Italy"
 deathPlace: "Pavia, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerard Majella"
 honorific: Saint
-title: "Priest, Monk, Pope"
+title: "Saint Gerard Majella"
 summary: "Son of a tailor who died when the boy was 12, leaving the family in poverty. Gerard tried to join the Capuchins, but his health prevented it He was accepted as a Redemptorist lay brother serving his congregation as sacristan, gardener, porter, infirmarian, and tailor. Miracle wor"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/%D0%93%D0%B5%D1%80%D0%B0%D1%80%D0%B4%D0%BE_%D0%9C%D0%B0%D0%B9%D0%B5%D0%BB%D0%BB%D0%B0.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Capuchin"
 patronage:
   - "childbirth"

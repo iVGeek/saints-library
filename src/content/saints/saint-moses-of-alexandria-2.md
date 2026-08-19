@@ -1,7 +1,7 @@
 ---
 name: "Saint Moses of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Moses of Alexandria"
 summary: "Layman. Martyr."
 died: "burned at the stake in Alexandria, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

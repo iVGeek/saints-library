@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clemente López Yagüe"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Clemente López Yagüe"
 summary: "Discalced Carmelite novice. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Clemente-Lopez-Yague.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

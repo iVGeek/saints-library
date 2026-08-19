@@ -1,7 +1,7 @@
 ---
 name: "Saint Hippolytus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hippolytus"
 summary: "Martyred in the persecution of Valerian."
 deathYear: 258
 born: "Roman"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

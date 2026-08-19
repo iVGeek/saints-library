@@ -1,7 +1,7 @@
 ---
 name: "Venerable Georg Michael Wittmann"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Georg Michael Wittmann"
 summary: "Studied with the Jesuits, then the Benedictines, and then at the University of Heidelberg. Ordained a priest in Regensburg, Germany on 21 December 1782. Parish priest in the German cities of Kenmath, Kaltenbrunn and Miesbrunn. Beginning in 1788, he served as professor and sub-reg"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Georg-Michael-Wittmann.jpg"
 birthYear: 1760
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

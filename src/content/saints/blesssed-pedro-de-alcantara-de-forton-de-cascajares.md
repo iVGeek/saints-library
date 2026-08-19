@@ -1,7 +1,7 @@
 ---
 name: "Blesssed Pedro de Alcantara de Forton de Cascajares"
 honorific: Venerable
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blesssed Pedro de Alcantara de Forton de Cascajares"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pedro Tomás of the Virgin of the Pillar"
@@ -17,10 +17,8 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

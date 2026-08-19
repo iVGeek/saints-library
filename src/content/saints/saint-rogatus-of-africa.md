@@ -1,7 +1,7 @@
 ---
 name: "Saint Rogatus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rogatus of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

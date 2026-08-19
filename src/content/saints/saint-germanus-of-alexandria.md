@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Germanus of Alexandria"
 summary: "Marytred in the persecutions of Diocletian. Nothing else is known about him."
 deathYear: 304
 died: "martyred in 304 in Alexandria, Egypt"
@@ -12,9 +12,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Marytred in the persecutions of Diocletian. Nothing else is known about him.

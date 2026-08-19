@@ -1,7 +1,7 @@
 ---
 name: "Saint Valens of Verona"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Valens of Verona"
 summary: "Priest. Bishop of Verona, Italy from 5 November 522 until his death."
 searchAliases:
   - "Valenzio"

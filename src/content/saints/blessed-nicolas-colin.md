@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolas Colin"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Nicolas Colin"
 summary: "Priest of the diocese of Langres, France. One of the Martyrs of September."
 birthYear: 1730
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

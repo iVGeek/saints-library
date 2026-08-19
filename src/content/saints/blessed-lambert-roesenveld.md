@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lambert Roesenveld"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Lambert Roesenveld"
 summary: "Mayor of Haarlem, Netherlands. Martyred by Calvinists."
 searchAliases:
   - "Lambertus"
@@ -13,8 +13,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

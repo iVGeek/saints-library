@@ -1,7 +1,7 @@
 ---
 name: "Saint Ignatius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ignatius of Africa"
 summary: "Uncle of Saint Celerinus. Martyr. Saint Cyprian wrote about him."
 died: "3rd century Africa"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

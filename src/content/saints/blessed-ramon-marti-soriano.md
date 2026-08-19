@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Martí Soriano"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ramón Martí Soriano"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Martí-Soriano.jpg"
 birthYear: 1902
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

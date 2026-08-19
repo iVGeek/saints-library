@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Peque Iglesias"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Peque Iglesias"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

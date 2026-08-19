@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Felix I"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Pope Saint Felix I"
 summary: "Son of Constantius; little else is known of his early life. Chosen 26th pope in 269. Believed to have given sanction to the ancient practice of celebrating anniversary Masses at the graves of martyrs. First to condemn the heresy spread by Paul of Samosata which taught that Christ"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a5/PopeFelixI.jpg"
 deathYear: 274
@@ -12,11 +12,8 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

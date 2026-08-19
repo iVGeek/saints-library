@@ -1,7 +1,7 @@
 ---
 name: "Saint Epicharis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Epicharis"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 died: "in Byzantium"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

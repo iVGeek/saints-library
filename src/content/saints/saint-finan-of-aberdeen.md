@@ -1,7 +1,7 @@
 ---
 name: "Saint Finan of Aberdeen"
 honorific: Saint
-title: "Saint"
+title: "Saint Finan of Aberdeen"
 summary: "Spiritual student of Saint Kentigern."
 deathYear: 595
 died: "595"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

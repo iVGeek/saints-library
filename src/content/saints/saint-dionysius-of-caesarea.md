@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Caesarea"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

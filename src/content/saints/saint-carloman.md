@@ -1,7 +1,7 @@
 ---
 name: "Saint Carloman"
 honorific: Saint
-title: "Monk, Royalty, Missionary"
+title: "Saint Carloman"
 summary: "Eldest son of Charles Martel. King of Austrasia in 741. Supported the founding of monasteries at Fulda in Germany, and of Lobbes and Stavelot in Belgium. Supported the missionary work of Saint Boniface. Late in life, and on the advice of Saint Boniface, Carloman abdicated the thr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Carloman.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
   - Missionary
 martyr: false
 ---

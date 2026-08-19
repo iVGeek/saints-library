@@ -1,7 +1,7 @@
 ---
 name: "Saint Plato"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Royalty, Soldier"
+title: "Saint Plato"
 summary: "Plato's wealthy parents died of disease before he was 13. Raised and educated by an uncle who was a treasurer, and Plato soon handled much of his uncle's business. Excellent student. Pious from youth, he turned away from the world of the royal court, freed his slaves, sold his es"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/960px-Plato_Silanion_Musei_Capitolini_MC1377.png"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Geoffrey of Peronne"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Geoffrey of Peronne"
 summary: "Friend of Saint Bernard of Clairvaux. Prior of Clairvaux Abbey. Refused the bishopric of Tournai, Belgium."
 deathYear: 1147
 died: "1147 of natural causes"

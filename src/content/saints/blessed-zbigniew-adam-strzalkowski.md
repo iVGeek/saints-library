@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zbigniew Adam Strzalkowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Zbigniew Adam Strzalkowski"
 summary: "Franciscan Conventual priest. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas."
 image: "http://catholicsaints.info/wp-content/uploads/img-Zbigniew-Adam-Strzalkowski.jpg"
 birthYear: 1958
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

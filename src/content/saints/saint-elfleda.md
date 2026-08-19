@@ -1,7 +1,7 @@
 ---
 name: "Saint Elfleda of Glastonbury"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Elfleda of Glastonbury"
 summary: "Born an Anglo-Saxon princess and widow, she lived as an anchoress in Glastonbury, England, and was highly revered by Saint Dunstan of Canterbury."
 searchAliases:
   - "Aelflead"
@@ -25,10 +25,8 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Born an Anglo-Saxon princess and widow, she lived as an anchoress in Glastonbury, England, and was highly revered by Saint Dunstan of Canterbury.

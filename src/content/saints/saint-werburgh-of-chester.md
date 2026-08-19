@@ -1,7 +1,7 @@
 ---
 name: "Saint Werburgh of Chester"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Werburgh of Chester"
 summary: "Born a princess, the daughter of King Wulfhere of Mercia and his queen, Saint Ermenilda. Nun. Spiritual student of Saint Etheldreda. Worked for reform in female religious houses throughout England. Reported to read minds."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Werburga.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "in England\n\nChester"
@@ -27,7 +26,7 @@ patronage:
   - "Leicester"
   - "Trentham"
   - "Weedon Bec"
-martyr: true
+martyr: false
 ---
 
 Born a princess, the daughter of King Wulfhere of Mercia and his queen, Saint Ermenilda. Nun. Spiritual student of Saint Etheldreda. Worked for reform in female religious houses throughout England. Reported to read minds.

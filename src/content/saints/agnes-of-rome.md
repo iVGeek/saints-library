@@ -26,7 +26,6 @@ liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:
   - Virgin
-  - Martyr
 patronage:
   - women
   - chastity

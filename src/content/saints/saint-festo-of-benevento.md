@@ -1,7 +1,7 @@
 ---
 name: "Saint Festo of Benevento"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Festo of Benevento"
 summary: "Deacon. Martyr."
 searchAliases:
   - "Festus"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
 martyr: true
 ---

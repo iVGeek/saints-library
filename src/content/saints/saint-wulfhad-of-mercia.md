@@ -1,7 +1,7 @@
 ---
 name: "Saint Wulfhad of Mercia"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Wulfhad of Mercia"
 summary: "Seventh century prince, born to the royal family of Mercia, England. Baptised by Saint Chad. Murdered by his pagan father. Martyr."
 searchAliases:
   - "Wulfhade"
@@ -13,10 +13,8 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "York, England"
 martyr: true

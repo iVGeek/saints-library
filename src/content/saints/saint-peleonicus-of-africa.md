@@ -1,14 +1,13 @@
 ---
 name: "Saint Peleonicus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peleonicus of Africa"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 2
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Scannal of Cell-Coleraine"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Scannal of Cell-Coleraine"
 summary: "Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary."
 searchAliases:
   - "Scannal of Gill Cobrainne"
@@ -13,10 +13,9 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary.

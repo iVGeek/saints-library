@@ -1,7 +1,7 @@
 ---
 name: "Saint Liafdag"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Liafdag"
 summary: "Bishop in Jutland, Denmark. Martyred by local pagans."
 deathYear: 980
 died: "martyred in 980 in Denmark"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Potamius of Troyes"
 honorific: Saint
-title: "Pope, Hermit"
+title: "Saint Potamius of Troyes"
 summary: "A sixth century gentleman who, after committing a serious but unspecified sin, made a pilgrimage to Rome, Italy to ask the Pope for absolution. We have no information on what happened in Rome, but when he returned to Troyes he retired from the world and became a hermit outside th"
 searchAliases:
   - "Potamio"
@@ -16,7 +16,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Hermit
 martyr: false
 ---

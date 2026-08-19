@@ -1,7 +1,7 @@
 ---
 name: "Blessed Archangela Girlani"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Royalty"
+title: "Blessed Archangela Girlani"
 summary: "Drawn to religious life from an early age, Eleanor planned to become a Benedictine nun. However, when she left for the convent her horse refused to move. She took this as a sign, and joined the Carmelites at Parma, Italy in 1478, taking the name Archangela. Prioress at Parma and"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Girlani.JPG"
 searchAliases:
@@ -21,8 +21,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

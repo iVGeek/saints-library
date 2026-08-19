@@ -1,7 +1,7 @@
 ---
 name: "Saint George Limniotes"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint George Limniotes"
 summary: "Hermit at Mount Olympus, Bithynia, Asia Minor. Martyred at age 95 under Leo the Isaurian for opposing the iconoclasts."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-George-Limniotes.jpg"
 birthYear: 635
@@ -14,7 +14,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

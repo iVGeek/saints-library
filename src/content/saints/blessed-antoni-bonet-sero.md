@@ -2,7 +2,7 @@
 name: "Blessed Antoni Bonet Sero"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/In_processu_commendatoris_S._Antonij_de_Vienes%2C_Caesaraugustae._Pos_su_parte_%28IA_A11315025%29.pdf/page1-500px-In_processu_commendatoris_S._Antonij_de_Vienes%2C_Caesaraugustae._Pos_su_parte_%28IA_A11315025%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoni Bonet Sero"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Antoni Maria Of Jesus"
@@ -18,9 +18,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

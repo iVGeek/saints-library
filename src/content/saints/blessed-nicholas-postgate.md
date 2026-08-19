@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholas Postgate"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Nicholas Postgate"
 summary: "Priest for 50 years, serving covert Catholics in the apostolic vicariate of England. Martyr."
 birthYear: 1597
 deathYear: 1679
@@ -16,9 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Father_Nicholas_Postgate.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

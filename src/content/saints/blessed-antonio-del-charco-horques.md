@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio del Charco Horques"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Antonio del Charco Horques"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Baltasar"
@@ -17,9 +17,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

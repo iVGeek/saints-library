@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pontius of Faucigny"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Pontius of Faucigny"
 summary: "Born to the nobility of the Savoy region (in modern France). Monk at the Canonici Regolari di Abondance abbey as a young man. Over the years he helped revise the constitutions of the abbot to put them in closer accord to the Augustinian rule. Founded a religious house in Sixt, Sa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-of-Faucigny.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

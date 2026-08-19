@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel López Orbara"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Manuel López Orbara"
 summary: "Joined the Hospitallers of Saint John of God on 24 November 1935. Martyred in the Spanish Civil War as a novice. One of the Martyred Hospitallers of Spain."
 searchAliases:
   - "Emmanuel"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

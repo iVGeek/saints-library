@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jordi Sampé Tarragó"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Jordi Sampé Tarragó"
 summary: "Franciscan Capuchin friar, making his profession on 27 January 1929. Ordained a priest on 26 March 1932. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Doroteu of Villalba dels Arcs"
@@ -17,13 +17,10 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, making his profession on 27 January 1929. Ordained a priest on 26 March 1932. Murdered by Marxists in the Spanish Civil War.

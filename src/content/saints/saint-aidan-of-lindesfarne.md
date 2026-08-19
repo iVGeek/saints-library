@@ -1,7 +1,7 @@
 ---
 name: "Saint Aidan of Lindesfarne"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Missionary, Confessor"
+title: "Saint Aidan of Lindesfarne"
 summary: "Monk at Iona, Scotland. Studied under Saint Senan at Inish Cathay. Bishop of Clogher, Ireland. Resigned the see to became a monk at Iona c.630. Evangelizing bishop in Northumbria, England at the behest of his friend the king, Saint Oswald of Northumbria. Once when pagans attacked"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aidan-of-Lindesfarne.jpg"
 searchAliases:

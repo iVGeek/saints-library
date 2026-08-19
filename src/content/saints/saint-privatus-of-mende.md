@@ -1,7 +1,7 @@
 ---
 name: "Saint Privatus of Mende"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Privatus of Mende"
 summary: "Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his flock was hiding or sacrifice to idols; he declined both offers. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Privatus-of-Mende.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

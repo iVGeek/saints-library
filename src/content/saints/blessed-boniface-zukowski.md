@@ -1,7 +1,7 @@
 ---
 name: "Blessed Boniface Zukowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Blessed Boniface Zukowski"
 summary: "Son of Andrzej Zukowski and Albina Walkiewicz and raised on a farm. Entered the Order of Friars Minor Conventual in Niepokalanów in Teresin, Poland at age 16, taking the name Bonifacy and making his solemn profession on 2 August 1935. Worked at the house's printing presses, publi"
 image: "http://catholicsaints.info/wp-content/uploads/Boniface-Zukowski.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

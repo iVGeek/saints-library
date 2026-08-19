@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean Wauthier"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Jean Wauthier"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."
 birthYear: 1926
 deathYear: 1967
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

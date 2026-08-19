@@ -1,7 +1,7 @@
 ---
 name: "Saint Maura of Constantinople"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Maura of Constantinople"
 summary: "Virgin martyr. No details of her life have survived. An island in the Ionian Sea is named for her. Devotion was widespread in the East. Julian the Apostate unsuccessfully tried to suppress devotion to her."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maura-of-Constantinople.jpg"
 died: "at Constantinople (modern Istanbul, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

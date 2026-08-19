@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Rosat Balasch"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Teresa Rosat Balasch"
 summary: "Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Rosat-Balasch.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

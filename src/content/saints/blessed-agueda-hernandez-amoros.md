@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agueda Hernández Amorós"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Agueda Hernández Amorós"
 summary: "Member of the Carmelite Sisters of Charity, beginning her novitiate on 27 November 1918. She served as a cook at several schools run by the Siste. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Agueda.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

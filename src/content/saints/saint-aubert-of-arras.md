@@ -1,7 +1,7 @@
 ---
 name: "Saint Aubert of Arras"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Aubert of Arras"
 summary: "Bishop of the diocese of Arras, France in 603. Built churches and founded several monasteries in Flanders and Hainault in Belgium. Accepted the vows of Saint Waltrude. Advisor to King Dagobert on both spiritual and temporal matters."
 searchAliases:
   - "Aubert of Cambrai"
@@ -20,7 +20,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
@@ -32,7 +31,7 @@ patronage:
   - "Cambrai, France"
   - "Ghent, Belgium"
   - "Hainault, Belgium"
-martyr: true
+martyr: false
 ---
 
 Bishop of the diocese of Arras, France in 603. Built churches and founded several monasteries in Flanders and Hainault in Belgium. Accepted the vows of Saint Waltrude. Advisor to King Dagobert on both spiritual and temporal matters.

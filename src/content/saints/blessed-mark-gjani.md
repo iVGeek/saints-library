@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mark Gjani"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Mark Gjani"
 summary: "Studied at the Shkodra Pontifical Seminary, and then theology in Bobion, Italy. Ordained on 21 March 1942 as a priest of the archdiocese of Shkodrë-Pult, Albania. Imprisoned and tortured in the anti-Christian persecutions of the Albanian Communist government. His torturers repeat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Mark-Xhani.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

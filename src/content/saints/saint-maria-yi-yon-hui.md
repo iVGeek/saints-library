@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Yi Yon-hui"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Maria Yi Yon-hui"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Maria Yi Yeon-heui"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

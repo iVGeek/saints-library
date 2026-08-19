@@ -1,7 +1,7 @@
 ---
 name: "Saint Audax of Thora"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Audax of Thora"
 summary: "Pagan prison guard. During the persecutions of Decius, Audax was one of the guards of Saint Anatolia, who helped convert him. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Audax.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Rieti, Italy"

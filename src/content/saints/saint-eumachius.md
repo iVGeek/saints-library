@@ -1,7 +1,7 @@
 ---
 name: "Saint Eumachius"
 honorific: Saint
-title: "Priest, Confessor"
+title: "Saint Eumachius"
 summary: "Priest of the Angoulême and Périgord regions (in modern France) in the late 5th and early 6th centuries. We have almost no information about him, but tradition says he was a tireless confessor."
 searchAliases:
   - "Chamassy"

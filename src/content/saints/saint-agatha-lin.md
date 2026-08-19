@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatha Lin"
 honorific: Saint
-title: "Martyr, Virgin, Pope"
+title: "Saint Agatha Lin"
 summary: "Lay woman. Teacher in a Christian school. Catechist. One of the Martyrs of China."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AgathaLin.jpg/960px-AgathaLin.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
-  - Pope
 martyr: true
 ---
 

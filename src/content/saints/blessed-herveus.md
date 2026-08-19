@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herveus"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Herveus"
 summary: "Hermit on Chalonnes Island, Anjou, France."
 deathYear: 1130
 born: "in the British Isles"

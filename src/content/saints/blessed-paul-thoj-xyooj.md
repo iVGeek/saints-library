@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul Thoj Xyooj"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Paul Thoj Xyooj"
 summary: "Young lay catechist in the apostolic vicariate of Luang Prabang, Laos. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Thoj-Xyooj.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 martyr: true
 ---

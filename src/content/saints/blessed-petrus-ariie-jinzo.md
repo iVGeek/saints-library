@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Ariie Jinzo"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Petrus Ariie Jinzo"
 summary: "Layman in the diocese of Niigata, Japan. Son of Blessed Ioannes Ariie Kiemon and Blessed Magdalena Ariie. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

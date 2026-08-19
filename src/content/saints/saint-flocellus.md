@@ -1,7 +1,7 @@
 ---
 name: "Saint Flocellus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Flocellus"
 summary: "Young man martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Flaceau"
@@ -15,7 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of Carthage"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Januarius of Carthage"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Gennaro"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

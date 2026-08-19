@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Hambley"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed John Hambley"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1560
 deathYear: 1587
@@ -15,10 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: true
 ---

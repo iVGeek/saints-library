@@ -1,7 +1,7 @@
 ---
 name: "Saint Elpidius of Brioude"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Elpidius of Brioude"
 summary: "Fourth-century martyr."
 searchAliases:
   - "Elpida"
@@ -15,7 +15,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

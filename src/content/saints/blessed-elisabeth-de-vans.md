@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elisabeth de Vans"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Elisabeth de Vans"
 summary: "With her husband's consent, Elisabeth lived her first year of an arranged marriage in seclusion in order to discern her true vocation. Realizing a call to religious life, the couple separated and Elisabeth joined the Cistercians at the monastery of Saint Desiderius in Champagne,"
 searchAliases:
   - "Elisabeth de Wans"

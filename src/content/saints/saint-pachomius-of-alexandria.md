@@ -1,7 +1,7 @@
 ---
 name: "Saint Pachomius of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Pachomius of Alexandria"
 summary: "Bishop in the area of Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 searchAliases:
   - "Pacomius"
@@ -15,7 +15,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary de Cerevellon"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Mary de Cerevellon"
 summary: "One of the founders of the female branch of the Mercedarians in 1265, she worked with the Christian slaves of the Moors, and served as superior of her order."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Cervelló.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 patronage:
   - "abandoned people"
   - "navigators"

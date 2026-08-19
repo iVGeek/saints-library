@@ -1,7 +1,7 @@
 ---
 name: "Saint Llinio of Llandinam"
 honorific: Saint
-title: "Monk"
+title: "Saint Llinio of Llandinam"
 summary: "Monk. Founded the abbey at Llandinam, Powys, Wales, and served as its first abbot."
 deathYear: 520
 died: "520 of natural causes"

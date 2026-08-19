@@ -1,7 +1,7 @@
 ---
 name: "Saint Mesrop the Teacher"
 honorific: Saint
-title: "Monk, Hermit, Royalty, Soldier, Missionary"
+title: "Saint Mesrop the Teacher"
 summary: "Career soldier who retired from the military to become a hermit, monk and preacher. Worked with Saint Isaac the Great in the formation of the Armenian Church. Civil servant. Missionary to Armenia and Georgia. Developed the alphabet for writing Armenian. Organized schools and the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mesrop-the-Teacher.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
   - Soldier
   - Missionary
 patronage:

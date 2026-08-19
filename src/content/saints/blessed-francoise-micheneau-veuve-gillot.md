@@ -1,7 +1,7 @@
 ---
 name: "Blessed Françoise Micheneau veuve Gillot"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Françoise Micheneau veuve Gillot"
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1737
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 4
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

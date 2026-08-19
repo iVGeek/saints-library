@@ -1,7 +1,7 @@
 ---
 name: "Saint Matiya Mulumba"
 honorific: Venerable
-title: "Martyr, Pope, Royalty"
+title: "Saint Matiya Mulumba"
 summary: "Born to the Lugave clan. A man who was seeking God, he converted first to Islam, and then to Christianity. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Karoli_Lwanga_and_his_followers.jpg"
 searchAliases:
@@ -16,10 +16,7 @@ feastDay:
   month: 5
   day: 30
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

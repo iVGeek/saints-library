@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victorinus of Nicomedia"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Victorinus-of-Nicomedia.jpg"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Senatro of Missanello"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Senatro of Missanello"
 summary: "Born to the Sicilian nobility, the son of Giovanni and Tebidia, and the brother of Saint Luca of Demenna. He lived most of his life as a Basilian monk in the San Elia monastery in Missanello, Italy. While we do not have any details of his life there, belief in his piety and holin"
 image: "https://catholicsaints.info/wp-content/uploads/SAN-SENATRO-MONACO.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 patronage:
   - "Missanello, Italy"
 martyr: false

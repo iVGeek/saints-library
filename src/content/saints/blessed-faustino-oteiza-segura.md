@@ -1,7 +1,7 @@
 ---
 name: "Blessed Faustino Oteiza Segura"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blessed Faustino Oteiza Segura"
 summary: "Son of Isidoro Oteiza and Angela Segura. Baptized at the age of one day. Studied at the Piarist College of Estella, Spain. A bout of pneumonia when he was 14 was so sever that he was given last rites, but managed to recover. Entered the Piarist novitiate on 9 November 1905 at Per"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Faustino-Oteiza-Segura.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 martyr: true
 ---
 

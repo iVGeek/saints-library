@@ -29,7 +29,6 @@ canonizationStatus: Saint
 canonizedDate: 12 March 1622
 vocation:
   - Religious
-  - Doctor
   - Founder
 religiousOrder: Carmelite
 patronage:

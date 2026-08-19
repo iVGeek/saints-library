@@ -1,7 +1,7 @@
 ---
 name: "Saint Corona of Marseille"
 honorific: Saint
-title: "Martyr"
+title: "Saint Corona of Marseille"
 summary: "Martyr."
 deathYear: 290
 died: "c.290 in Marseille, France"
@@ -11,8 +11,7 @@ feastDay:
   month: 7
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

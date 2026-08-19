@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupicinus of Lipidiacum"
 honorific: Saint
-title: "Hermit, Royalty"
+title: "Saint Lupicinus of Lipidiacum"
 summary: "Sixth century wanderer and hermit, known for his piety, for carrying a large stone on his head as an act of penance, and for his healing with sick by making the sign of the cross over them."
 searchAliases:
   - "Lupicino"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Hermit
-  - Royalty
 martyr: false
 ---
 

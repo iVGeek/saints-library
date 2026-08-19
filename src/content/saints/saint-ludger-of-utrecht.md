@@ -1,7 +1,7 @@
 ---
 name: "Saint Ludger of Utrecht"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Missionary"
+title: "Saint Ludger of Utrecht"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ludger-of-Utrecht1.jpg"
 searchAliases:
   - "Apostle of Saxony"
@@ -21,8 +21,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon
@@ -44,5 +42,5 @@ patronage:
   - "Hengelo, Netherlands"
   - "Lichtenvoorde, Netherlands"
   - "Loenen, Netherlands"
-martyr: true
+martyr: false
 ---

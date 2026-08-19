@@ -1,7 +1,7 @@
 ---
 name: "Saint Eochod of Galloway"
 honorific: Saint
-title: "Monk"
+title: "Saint Eochod of Galloway"
 summary: "Spiritual student of Saint Columba, and of the twelve chosen by him to evangelize northern Britain."
 searchAliases:
   - "Apostle of the Picts of Galloway, Scotland"

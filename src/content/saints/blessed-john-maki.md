@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Maki"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed John Maki"
 summary: "Layman in the diocese of Funai, Japan. Adopted son of Blessed Ludovicus Maki Soetsu, and martyred with him."
 searchAliases:
   - "Ioannes Maki Jizaemon"
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

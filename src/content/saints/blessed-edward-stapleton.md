@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Stapleton"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Edward Stapleton"
 summary: "Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

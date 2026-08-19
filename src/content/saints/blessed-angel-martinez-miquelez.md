@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ángel Martínez Miquélez"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Missionary"
+title: "Blessed Ángel Martínez Miquélez"
 summary: "The eldest son of José Martínez Polo and Juana Miquélez, Ángel was baptized at the age of one day; his aunt and godmother, Magdalena Martínez, consecrated him to the Virgin Mary. To get work, the family moved to Argentina when Ángel was five years old, but they were forced to ret"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Martinez-Miquelez.jpg"
 birthYear: 1907
@@ -16,10 +16,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Redemptorist"
 martyr: true

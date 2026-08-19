@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicasius of Vilcassin"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nicasius of Vilcassin"
 summary: "Martyr."
 died: "Vexin Lugdunense territory of Gaul (modern Vilcassin, France)"
 deathPlace: "France)"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

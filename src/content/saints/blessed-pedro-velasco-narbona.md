@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Velasco Narbona"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pedro Velasco Narbona"
 summary: "A postulant in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

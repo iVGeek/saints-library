@@ -1,7 +1,7 @@
 ---
 name: "Saint James the Hermit"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint James the Hermit"
 summary: "Monk. Hermit. Miracle worker. His reputation for wisdom and holiness led the emperor to ask James to attend the Council of Chalcedon in 451."
 searchAliases:
   - "James the Lonely"

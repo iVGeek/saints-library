@@ -1,7 +1,7 @@
 ---
 name: "Saint Byblig"
 honorific: Saint
-title: "Monk"
+title: "Saint Byblig"
 summary: "A holy man with some connection to Carnarvon, Wales. No other information has survived."
 searchAliases:
   - "Biblig"

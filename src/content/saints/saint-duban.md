@@ -1,7 +1,7 @@
 ---
 name: "Saint Duban"
 honorific: Saint
-title: "Martyr, Priest, Royalty"
+title: "Saint Duban"
 summary: "Son of Saint Brychan of Brycheiniog and Din, a Saxon princess, Duban received a good education in the faith, and was ordained a priest. Around the year 452, Duban travelled to Ireland to make pilgrimages to holy sites. Founded a church at Killooaun or Cill Dhubháin (“the church o"
 searchAliases:
   - "Dubhán"
@@ -13,10 +13,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Son of Saint Brychan of Brycheiniog and Din, a Saxon princess, Duban received a good education in the faith, and was ordained a priest. Around the year 452, Duban travelled to Ireland to make pilgrimages to holy sites. Founded a church at Killooaun or Cill Dhubháin (“the church of Dubhán”) which became an important site at the time, but which is in ruins 1600 years later.

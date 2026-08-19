@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Arbues"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Peter Arbues"
 summary: "Born to the nobility, the son of Antonio Arbues and Sancia Ruiz. Studied philosophy at Huesca, Spain. Studied canon law at the University of Bologna. Augustinian canon at Saragossa, Spain in 1478. Inquisitor of the Aragonregion of Spain in 1484. Forcibly converted Jews and Marran"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Arbues.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, the son of Antonio Arbues and Sancia Ruiz. Studied philosophy at Huesca, Spain. Studied canon law at the University of Bologna. Augustinian canon at Saragossa, Spain in 1478. Inquisitor of the Aragonregion of Spain in 1484. Forcibly converted Jews and Marranos (converts to Judaism) to Catholicism, which was considered acceptable at the time. Murdered by a group of Marranos.

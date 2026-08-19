@@ -1,7 +1,7 @@
 ---
 name: "Saint Fausta of Bourges"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fausta of Bourges"
 summary: "Martyr."
 died: "Fésenzac, (in modern France)"
 deathPlace: "(modern France)"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 4
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

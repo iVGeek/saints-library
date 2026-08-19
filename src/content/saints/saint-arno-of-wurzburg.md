@@ -1,7 +1,7 @@
 ---
 name: "Saint Arno of Würzburg"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Arno of Würzburg"
 summary: "Bishop of Würzburg, Germany in 855. Helped organize Crusaders from Bohemia, Moravia and Normandy. Killed by pagan Slavs while he was celebrating Mass. Martyr."
 deathYear: 892
 born: "9th century"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

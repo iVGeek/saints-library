@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigia Poloni"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Luigia Poloni"
 summary: "Baptized on the day of her birth, the youngest of the twelve children, she was raised in a pious family, the daughter of a small businessman who ran a combination pharmacy and grocery in the heart of Verona, Italy. When her fathers died, Luigia took over the family finances. Spir"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luigia-Poloni.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

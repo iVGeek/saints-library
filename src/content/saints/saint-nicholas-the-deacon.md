@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicholas the Deacon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Nicholas the Deacon"
 summary: "Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr."
 searchAliases:
   - "Nicholas of Antioch"
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

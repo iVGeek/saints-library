@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Ernesto Mohedano Cabanillas"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Gregorio Ernesto Mohedano Cabanillas"
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

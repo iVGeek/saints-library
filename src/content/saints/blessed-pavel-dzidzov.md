@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pavel Dzidzov"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pavel Dzidzov"
 summary: "Joined the Congregation of the Assumption in 1926. Studied at Saint Augustine College, Plovdiv, Bulgaria from 1931 to 1938. Studied theology and philsophy in Lormoa from 1938 to 1942. Ordained on 26 January 1945 at Plovdiv. Arrested at the Assumptionist seminary at Plovdiv on 4 J"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pavel-Dzidzov.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

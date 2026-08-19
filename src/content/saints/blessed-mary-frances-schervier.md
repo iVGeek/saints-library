@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary Frances Schervier"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope, Royalty, Soldier"
+title: "Blessed Mary Frances Schervier"
 summary: "Daughter of Johann Heinrich Schervier, a wealthy needle-factory owner and vice-mayor of Aachen, Germany, and Maria Louise Migeon; god-daughter of Emperor Francis I of Austria. She ran her father's household at age 16 after the death of her mother and two older sisters to tubercul"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Franziska_schervier.jpg"
 searchAliases:
@@ -17,12 +17,10 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Daughter of Johann Heinrich Schervier, a wealthy needle-factory owner and vice-mayor of Aachen, Germany, and Maria Louise Migeon; god-daughter of Emperor Francis I of Austria. She ran her father's household at age 16 after the death of her mother and two older sisters to tuberculosis, and had a reputation for generosity to the poor. In 1844 she became a Secular Franciscan, and in 1845 she and four companions established a religious community devoted to caring for the poor. This group, Sisters of the Poor of Saint Francis, was approved by their bishop on 2 July 1851.

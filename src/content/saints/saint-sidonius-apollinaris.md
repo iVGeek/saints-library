@@ -1,7 +1,7 @@
 ---
 name: "Saint Sidonius Apollinaris"
 honorific: Saint
-title: "Bishop, Priest, Monk, Soldier, Confessor"
+title: "Saint Sidonius Apollinaris"
 summary: "Born to the imperial Roman nobility, son of Apollinaris, Prefect of Gaul. Soldier. Married to Papianilla, the daughter of Emperor Avitus, c.452. Father of Apollinaris. Arrested for political reasons in 457, but was well treated, and after release he eventually rose through the ra"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/SidonClermont.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Auxentius of Mopsuetia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Soldier"
+title: "Saint Auxentius of Mopsuetia"
 summary: "Officer in the personal guard of the Emperor Augustus Licinus. Dismissed from his post for refusing to sacrifice to the pagan god Bacchus. Priest. Bishop of Mopsuestia, Cilicia. He gave refuge to anyone exiled by emperor Constantine the Great."
 deathYear: 321
 died: "c.321 of natural causes"
@@ -11,12 +11,11 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Officer in the personal guard of the Emperor Augustus Licinus. Dismissed from his post for refusing to sacrifice to the pagan god Bacchus. Priest. Bishop of Mopsuestia, Cilicia. He gave refuge to anyone exiled by emperor Constantine the Great.

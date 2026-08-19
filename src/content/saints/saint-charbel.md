@@ -1,7 +1,7 @@
 ---
 name: "Saint Charbel"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Charbel"
 summary: "Martyred in the persecutions of Trajan."
 deathYear: 107
 died: "107"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

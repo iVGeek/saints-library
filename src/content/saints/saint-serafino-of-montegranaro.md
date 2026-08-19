@@ -1,7 +1,7 @@
 ---
 name: "Saint Serafino of Montegranaro"
 honorific: Saint
-title: "Priest, Monk, Pope"
+title: "Saint Serafino of Montegranaro"
 summary: "Born to a poor, pious farming family. An uneducated shepherd in his youth, he spent his time in the fields in prayer. Orphaned, he was abused by his big brother. He entered the Capuchin friar at age 16, receiving the name Seraphin. Noted for his simple, obedient, ascetic life, an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Serafino-of-Montegranaro-1.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "Associazione Laicale Eucaristica Riparatrice"

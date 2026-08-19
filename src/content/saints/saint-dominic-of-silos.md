@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominic of Silos"
 honorific: Saint
-title: "Priest, Monk, Royalty, Confessor"
+title: "Saint Dominic of Silos"
 summary: "Born to a peasant family, he worked as a shepherd in his youth. Benedictine monk at San Mill&aacute;n de Cogolla monastery. Priest. Novice master. Prior of the house. Ordered by King Garcia III of Navarre to give him the monastery's lands, Dominic refused, and with two of his bro"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg/960px-Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

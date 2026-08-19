@@ -1,7 +1,7 @@
 ---
 name: "Saint Carolina Santocanale"
 honorific: Venerable
-title: "Priest, Religious, Pope, Cardinal, Royalty"
+title: "Saint Carolina Santocanale"
 summary: "Born to the nobility, part of the family of the barons of Celsa Reale near Palermo, Italy. Baptized at the age of three days, made her first Communion at age eight, and received a good education. In her late teens she became the target for offers of marriage, but began to feel a"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Maria_di_Ges%C3%B9_Santocanale.png"
 searchAliases:
@@ -22,9 +22,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

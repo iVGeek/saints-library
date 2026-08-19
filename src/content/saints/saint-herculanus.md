@@ -1,7 +1,7 @@
 ---
 name: "Saint Herculanus of Perugia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Soldier"
+title: "Saint Herculanus of Perugia"
 summary: "Bishop of Perugia, Italy. Martyred under orders of Ostro-Gothic leader Totila."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pietro_Perugino_cat48h.jpg/960px-Pietro_Perugino_cat48h.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Soldier

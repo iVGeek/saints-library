@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Como"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Victorinus of Como"
 summary: "Bishop of Como, Italy. Fought Arianism."
 deathYear: 644
 died: "644 of natural causes"

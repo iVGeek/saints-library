@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Ariie Kiemon"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Ioannes Ariie Kiemon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena Ariie; father of Blessed Petrus Ariie Jinzo. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -14,9 +14,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

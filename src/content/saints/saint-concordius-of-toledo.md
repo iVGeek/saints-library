@@ -1,7 +1,7 @@
 ---
 name: "Saint Concordius of Toledo"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Concordius of Toledo"
 summary: "8th-century archbishop of Toledo, Spain."
 searchAliases:
   - "Concordio"

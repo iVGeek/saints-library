@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominic Nihachi"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Dominic Nihachi"
 summary: "Son of Blessed Ludovicus Nihachi; brother of Blessed Franciscus Nihachi. Martyred at the age of two (!) because of his family's faith."
 searchAliases:
   - "Dominic of Nagasaki"
@@ -19,9 +19,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

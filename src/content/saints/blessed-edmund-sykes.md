@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edmund Sykes"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Edmund Sykes"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 searchAliases:
   - "Edmond"
@@ -17,10 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

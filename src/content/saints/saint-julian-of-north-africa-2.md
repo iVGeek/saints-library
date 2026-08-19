@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julian of North Africa"
 summary: "One of a group of 30 Christians martyred together by Arian Vandals."
 deathYear: 500
 died: "c.500 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

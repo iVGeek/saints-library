@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aimo Taparelli"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty, Confessor"
+title: "Blessed Aimo Taparelli"
 summary: "Born to the Italian nobility, the family of the Counts of Lagnasco. Aimo felt a call to religious life in his youth, and soon as he was able, joined the Dominican in Savigliano, Italy. Studied and then taught at the University of Turin, Italy. Priest. Noted, well-travelled preach"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-aimo-taparelli/blessed-aimo-taparelli.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

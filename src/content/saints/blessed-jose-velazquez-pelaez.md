@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Velázquez Peláez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Velázquez Peláez"
 summary: "Joined the Hospitallers of Saint John of God in 1932. Martyred in the Spanish Civil War. One of the Martyred Colombians of Barcelona."
 searchAliases:
   - "Juan Bautista"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

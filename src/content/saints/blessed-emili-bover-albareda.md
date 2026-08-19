@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emili Bover Albareda"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Emili Bover Albareda"
 summary: "Member of the Claretians, professed on 1 October 1889. Ordained a priest on 16 January 1898. Martyred in the Spanish Civil War."
 birthYear: 1868
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

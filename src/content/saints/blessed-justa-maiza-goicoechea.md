@@ -1,7 +1,7 @@
 ---
 name: "Blessed Justa Maiza Goicoechea"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Justa Maiza Goicoechea"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Justa of the Immaculata"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

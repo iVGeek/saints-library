@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giomaria of Lorvão"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Giomaria of Lorvão"
 summary: "Cistercian nun who spent her entire life in religion in the convent at Lorvão, Coimbra, Portugal where she was noted for her devotion to prayer and penance."
 searchAliases:
   - "Guiomar"

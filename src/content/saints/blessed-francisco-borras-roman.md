@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Borrás Román"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francisco Borrás Román"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Tobías"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

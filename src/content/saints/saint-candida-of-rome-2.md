@@ -1,7 +1,7 @@
 ---
 name: "Saint Candida of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Candida of Rome"
 summary: "Martyr. No other information has survived."
 died: "on the Ostian Way outside of Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

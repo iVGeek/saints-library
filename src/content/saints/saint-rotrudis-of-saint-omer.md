@@ -1,7 +1,7 @@
 ---
 name: "Saint Rotrudis of Saint-Omer"
 honorific: Saint
-title: "Virgin, Monk"
+title: "Saint Rotrudis of Saint-Omer"
 summary: "No information has survived."
 deathYear: 869
 died: "c.869"

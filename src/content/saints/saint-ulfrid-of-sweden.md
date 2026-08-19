@@ -1,7 +1,7 @@
 ---
 name: "Saint Ulfrid of Sweden"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Ulfrid of Sweden"
 summary: "Missionary bishop to Germany and Sweden. Martyred for chopping down an idol of the god Thor."
 searchAliases:
   - "Ulfrid of Sverige"
@@ -19,7 +19,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

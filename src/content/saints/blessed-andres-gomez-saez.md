@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrés Gómez Sáez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Andrés Gómez Sáez"
 summary: "Member of the Salesians, taking his vows at Carabanchel Alto, Madrid, Spain on 28 July 1914. Ordained in Orense, Spain on 9 September 1925. Parish priest in Baracaldo, in La Coruña and in Santander, Spain. Arrested and executed by militia troops the Spanish Civil War for the crim"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Gómez-Sáez.jpg"
 birthYear: 1894
@@ -16,10 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

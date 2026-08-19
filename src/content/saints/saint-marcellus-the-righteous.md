@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus the Righteous"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Marcellus the Righteous"
 summary: "Marcellus inherited a large fortune in his youth. Studied at Antioch and Ephesus. Monk and abbot of the Eirenaion monastery at Constantinople. The monks of these houses were called Akiometoi (= sleepless) because they organized in groups that rotated singing in chapel so they wer"
 searchAliases:
   - "Marcellus Akimetes"

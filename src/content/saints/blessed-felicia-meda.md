@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felicia Meda"
 honorific: Blessed
-title: "Virgin, Religious, Pope"
+title: "Blessed Felicia Meda"
 summary: "Eldest of three children, she was orphaned as a small girl, and had to care for her brother and sister. At age 12 she took a personal of chastity. At age 20 she gave away all she owned and joined the Poor Clares, becoming a nun at the convent of Saint Urusla in Milan, Italy; her"
 birthYear: 1378
 deathYear: 1444
@@ -17,7 +17,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

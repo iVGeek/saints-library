@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enric Salvá Ministral"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Enric Salvá Ministral"
 summary: "Franciscan Capuchin brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Carmel of Colomés"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

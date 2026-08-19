@@ -1,7 +1,7 @@
 ---
 name: "Saint Urpasian of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Urpasian of Nicomedia"
 summary: "Christian member of the imperial household of Roman emperor Diocletian in Nicomedia (in modern Turkey). Martyred for his faith."
 deathYear: 295
 died: "burned alive in 295 in Nicomedia (in modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

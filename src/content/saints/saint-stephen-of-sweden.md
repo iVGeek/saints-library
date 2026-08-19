@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Sweden"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Stephen of Sweden"
 summary: "Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the first to bring Christianity to the area between Denmark and Sweden. Murdered by worshippers of the pagan god Woden. Martyr."
 searchAliases:
   - "Stephen of Corbie"
@@ -16,7 +16,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

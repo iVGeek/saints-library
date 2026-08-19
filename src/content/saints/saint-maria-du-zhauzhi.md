@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Du Zhauzhi"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Maria Du Zhauzhi"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of a priest. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

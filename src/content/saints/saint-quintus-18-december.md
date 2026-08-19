@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quintus"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 255
 died: "c.255 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

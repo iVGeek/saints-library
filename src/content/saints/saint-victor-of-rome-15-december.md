@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Rome"
 summary: "Martyred with 21 Christian companions in the persecutions of Valerian."
 deathYear: 258
 died: "c.258 in Rome, Itay"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

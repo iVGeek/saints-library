@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nelson Rutilio Lemus Chávez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nelson Rutilio Lemus Chávez"
 summary: "Young, single layman in the archdiocese of San Salvador, El Salvador. Murdered by El Salvadoran security forces while on his way to serve at Saturday night Mass. Martyr."
 birthYear: 1960
 deathYear: 1977
@@ -14,9 +14,7 @@ feastDay:
   month: 3
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

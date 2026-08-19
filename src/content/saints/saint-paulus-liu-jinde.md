@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus Liu Jinde"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Paulus Liu Jinde"
 summary: "Married layman in the apostolic vicariate of Southeastern Zhili, China. During the persecutions of the Boxer Rebellion, all the other members of his village renounced Christianity to save their lives. Paulus, instead, went out to meet the Boxers with a rosary and prayer book. Mar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

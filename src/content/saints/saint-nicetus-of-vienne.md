@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicetus of Vienne"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Nicetus of Vienne"
 summary: "Bishop of Vienne, France. Supported the expansion of monastic life in his diocese."
 searchAliases:
   - "Nicezio"
@@ -13,10 +13,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Vienne, France. Supported the expansion of monastic life in his diocese.

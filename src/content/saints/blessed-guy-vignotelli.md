@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guy Vignotelli"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Guy Vignotelli"
 summary: "Wealthy layman known for his charity to the poor. After hearing a sermon by Saint Francis of Assisi, he gave away the rest of his riches and became a Franciscan tertiary, received into the order by Saint Francis himself in 1211. Priest. Hermit near Cortona, Italy living in a cell"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guy-Vignotelli.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

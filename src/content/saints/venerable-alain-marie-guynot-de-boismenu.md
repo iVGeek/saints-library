@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alain-Marie Guynot de Boismenu"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Alain-Marie Guynot de Boismenu"
 summary: "Priest. Member of the Missionaries of the Sacred Heart of Jesus. Vicar apostolic of Papuasia. Founded the Handmaids of the Lord."
 birthYear: 1870
 deathYear: 1953
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

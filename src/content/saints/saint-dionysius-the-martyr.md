@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius the Martyr"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

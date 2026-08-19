@@ -1,7 +1,7 @@
 ---
 name: "Saint Anoub of Skete"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Anoub of Skete"
 summary: "Hermit in the desert of Skete in Egypt."
 died: "latter 5th century in the desert of Skete in Egypt of natural causes"
 region: "Egypt"

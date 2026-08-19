@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Agira"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Philip of Agira"
 summary: "First Christian missionary to Sicily. Exorcist. Many stories grew up around him, all apparently legend."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bust_of_Saint_Philip_of_Agira%2C_%C5%BBebbu%C4%A1%2C_Malta.jpg/960px-Bust_of_Saint_Philip_of_Agira%2C_%C5%BBebbu%C4%A1%2C_Malta.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 patronage:
@@ -38,7 +37,7 @@ patronage:
   - "San Filippo del Mela"
   - "San Filippo di Pellaro"
   - "Santo Stefano Medio, Messina"
-martyr: true
+martyr: false
 ---
 
 First Christian missionary to Sicily. Exorcist. Many stories grew up around him, all apparently legend.

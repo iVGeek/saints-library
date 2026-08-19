@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Font Taulat"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joan Font Taulat"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Arnal Ciril"
@@ -16,9 +16,7 @@ feastDay:
   month: 1
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

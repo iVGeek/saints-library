@@ -1,7 +1,7 @@
 ---
 name: "Blessed Urbano Corral González"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Urbano Corral González"
 summary: "Joined the Salesians in Bujedo, Spain in September 1913, making his profession on 2 February 1916. Began teaching at the College de las Maravillas of Madrid, Spain in 1919. Novice catechist at Griñon, Spain. Taught at the College San Fernando in Andalucia, and then in Santa Cruz"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Urbano-Corral-González.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 8
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

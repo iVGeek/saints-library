@@ -1,7 +1,7 @@
 ---
 name: "Blessed Blaise of Auvergne"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Blaise of Auvergne"
 summary: "Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher."
 searchAliases:
   - "Blasius of Auvergne"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

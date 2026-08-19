@@ -1,7 +1,7 @@
 ---
 name: "Blessed Romanus of Athos"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Romanus of Athos"
 summary: "A pius and illiterate man, following a pilgrimage to the Holy Lands, Romanus sought spiritual direction at the monastery of Saint-Sabas on Mount Athos. He then returned to Thessalonica where he pubicly confessed his Christianity in front of Muslim Turks. Romanus was condemned to"
 searchAliases:
   - "Romanus the Neomartyr"
@@ -16,7 +16,6 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

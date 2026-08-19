@@ -1,7 +1,7 @@
 ---
 name: "Saint Christina of Bolsena"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Christina of Bolsena"
 summary: " Her story and that of Saint Christina of Tyre seem to have been Born to a wealthy pagan family. Converted as a youth, she destroyed all the idols in her father's house; those of gold and silver she broke up and gave to the poor. Scourged, tortured, and martyred for her new faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ravensburg_St_Christina_Hl_Christina.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

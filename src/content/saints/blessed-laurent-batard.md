@@ -1,7 +1,7 @@
 ---
 name: "Blessed Laurent Bâtard"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Laurent Bâtard"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1744
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

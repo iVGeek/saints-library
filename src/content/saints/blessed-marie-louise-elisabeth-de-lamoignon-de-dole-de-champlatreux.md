@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Louise-Élisabeth de Lamoignon de Dolé de Champlâtreux"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Marie-Louise-Élisabeth de Lamoignon de Dolé de Champlâtreux"
 summary: " On 25 May 1803 she founded the Sisters of Charity of Sa Married to Chrétien François de Lamoignon de Basville, a politician who was murdered in the French Revolution; they had five children, two of whom made to adulthood, one of whom became Prime Minister of France in the 1830's."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Louise-Élisabeth-de-Lamoignon-de-Dolé-de-Champlâtreux-1.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 patronage:
   - "Sisters of Charity of Saint Louis"
 martyr: false

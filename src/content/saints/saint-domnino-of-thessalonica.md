@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnino of Thessalonica"
 honorific: Saint
-title: "Martyr"
+title: "Saint Domnino of Thessalonica"
 summary: "Martyr."
 searchAliases:
   - "Donate"
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 30
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

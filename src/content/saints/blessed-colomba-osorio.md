@@ -1,7 +1,7 @@
 ---
 name: "Blessed Colomba Osorio"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Colomba Osorio"
 summary: "Nun. Abbess at Archen. Martyred with several of her sisters."
 deathYear: 982
 died: "982"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

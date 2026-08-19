@@ -1,7 +1,7 @@
 ---
 name: "Venerable Rosalie Cadron-Jetté"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Rosalie Cadron-Jetté"
 summary: "Founded the Institute of the Misericordia Sisters."
 searchAliases:
   - "Mère of the Nativity"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

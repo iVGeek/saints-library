@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquín Gisbert Aguilera"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Joaquín Gisbert Aguilera"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

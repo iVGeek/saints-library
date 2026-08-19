@@ -1,7 +1,7 @@
 ---
 name: "Four Anonymous Martyrs"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Four Anonymous Martyrs"
 summary: "A father, mother and their two sons who were martyred together for their faith, but about whom we know nothing else."
 searchAliases:
   - "Four Anonymous Saints"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

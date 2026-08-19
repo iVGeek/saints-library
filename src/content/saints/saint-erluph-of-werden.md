@@ -1,7 +1,7 @@
 ---
 name: "Saint Erluph of Werden"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Erluph of Werden"
 summary: "Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans."
 searchAliases:
   - "Erlulph"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

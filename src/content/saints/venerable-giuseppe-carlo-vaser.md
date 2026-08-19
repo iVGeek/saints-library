@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giuseppe Carlo Vaser"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Giuseppe Carlo Vaser"
 summary: "First Italian Marist Brother."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Carlo-Vaser.jpg"
 searchAliases:
@@ -18,8 +18,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: false
 ---

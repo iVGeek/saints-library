@@ -1,7 +1,7 @@
 ---
 name: "Venerable Elena da Persico"
 honorific: Venerable
-title: "Pope, Royalty"
+title: "Venerable Elena da Persico"
 summary: "Lay woman. Foundress of the Secular Institute of the Daughters of the Queen of the Apostles."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-da-Persico.gif"
 birthYear: 1869
@@ -15,9 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 martyr: false
 ---
 

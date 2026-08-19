@@ -1,7 +1,7 @@
 ---
 name: "Saint Mancius of Evora"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mancius of Evora"
 summary: "Christian slave bought in Rome, Italy by Jewish traders and taken to Evora, Portugal where he was martyred by his new owners."
 born: "5th century Rome, Italy"
 died: "5th century Evora, Portugal"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

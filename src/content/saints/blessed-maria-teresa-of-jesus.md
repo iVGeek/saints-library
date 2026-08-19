@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Teresa of Jesus"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Maria Teresa of Jesus"
 summary: "An unknown illness kept the young Maria bedridden for two years; she was cured following a vision of Saint Fiorenzo, and soon after she felt a call to the religious life. On 28 May 1846 she entered the monastery of Saint Mary Magdalene de’ Pazzi, Florence, Italy, and though she l"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-of-Jesus.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

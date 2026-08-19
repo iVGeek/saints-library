@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Studita of Thessalonica"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Joseph Studita of Thessalonica"
 summary: "Brother of Saint Theodore the Studite. Monk. Hymnist. Bishop of Thessalonica. Fought hard to maintain ecclesiastical discipline with his priests, and to fend off the iconoclasts who wanted to destroy images in the churches, which eventually led to his exile to Thessaly by civil a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Studita-of-Thessalonica.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

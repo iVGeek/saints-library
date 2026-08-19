@@ -1,7 +1,7 @@
 ---
 name: "Saint Dabius"
 honorific: Saint
-title: "Priest, Monk, Missionary, Confessor"
+title: "Saint Dabius"
 summary: "May have been a spiritual student of Saint Patrick. Priest. Missionary to Scotland where several churches are named for him."
 searchAliases:
   - "Bavins"

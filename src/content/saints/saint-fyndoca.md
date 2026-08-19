@@ -1,7 +1,7 @@
 ---
 name: "Saint Fyndoca"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Fyndoca"
 summary: "Martyr. No other information has survived."
 died: "in Scotland"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Felton"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Thomas Felton"
 summary: "Son of Blessed John Felton, Thomas was about 4 years old when his father was martyred. In his youth, he served as a page to one Lady Lovett. Feeling a call to the priesthood, in 1583 Thomas began studying at the English College in Rheims, France. While still a seminarian, he join"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Felton.jpg"
 birthYear: 1567
@@ -16,10 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

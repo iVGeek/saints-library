@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Alexandria"
 summary: "Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Pérez Vacas"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Antonio Pérez Vacas"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Pedro Abad community. Martyred in the Spanish Civil War."
 birthYear: 1865
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

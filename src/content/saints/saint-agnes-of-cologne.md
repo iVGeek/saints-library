@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnes of Cologne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agnes of Cologne"
 summary: "One of the young women who travelled with and was martyred with Saint Ursula. Venerated at Cologne, Germany."
 born: "British Isles"
 region: "Germany"
@@ -10,7 +10,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

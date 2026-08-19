@@ -1,7 +1,7 @@
 ---
 name: "Saint Pimenio in Rome"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Pimenio in Rome"
 summary: "Priest. Martyr."
 searchAliases:
   - "Pimen"
@@ -13,7 +13,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

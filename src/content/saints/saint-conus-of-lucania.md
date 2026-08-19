@@ -1,7 +1,7 @@
 ---
 name: "Saint Conus of Lucania"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Conus of Lucania"
 summary: "Benedictine monk in at Santa Maria dei Codossa monastery near Lucania, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/Conus-of-Lucania.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Diano, Italy"

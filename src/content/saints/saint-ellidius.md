@@ -1,7 +1,7 @@
 ---
 name: "Saint Ellidius"
 honorific: Saint
-title: "Monk"
+title: "Saint Ellidius"
 summary: "No details have survived."
 searchAliases:
   - "Illod"

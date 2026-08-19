@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafaél Calatrava Ros"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Rafaél Calatrava Ros"
 summary: "Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

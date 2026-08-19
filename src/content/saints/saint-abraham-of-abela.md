@@ -1,7 +1,7 @@
 ---
 name: "Saint Abraham of Abela"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Abraham of Abela"
 summary: "Bishop of Abela, Assyria (in modern Iraq). Martyred in the persecutions of King Sapor II of Persia for refusing to worship the sun."
 searchAliases:
   - "Abraham of Arbela"
@@ -21,11 +21,9 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

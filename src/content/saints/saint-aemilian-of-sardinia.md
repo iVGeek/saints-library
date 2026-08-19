@@ -1,7 +1,7 @@
 ---
 name: "Saint Aemilian of Sardinia"
 honorific: Saint
-title: "Monk"
+title: "Saint Aemilian of Sardinia"
 summary: "A church on Sardinia is dedicated to this saint, but no information about them has survived."
 feastDay:
   month: 5

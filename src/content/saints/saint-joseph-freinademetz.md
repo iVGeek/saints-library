@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Freinademetz"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Missionary"
+title: "Saint Joseph Freinademetz"
 summary: "Born into a pious farm family, the fourth of twelve children. Joseph was a polymath who knew seven languages. Ordained in Bressanone, Italian Tyrol on 25 July 1875. Joined the Divine Word Missionaries when the congregation was only three years old. Missionary to China in 1879; he"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Josef_freinademetz.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

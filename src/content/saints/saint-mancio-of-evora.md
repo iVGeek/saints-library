@@ -1,7 +1,7 @@
 ---
 name: "Saint Mancio of Évora"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Mancio of Évora"
 summary: "Sixth century bishop of Évora, Portugal. Martyr."
 searchAliases:
   - "Mancio of Ébora"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

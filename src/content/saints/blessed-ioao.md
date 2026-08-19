@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iõao"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Iõao"
 summary: "Jesuit candidate. Missionary; his uncle was the captain of the ship that transported Iõao and the other Jesuit missionaries. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

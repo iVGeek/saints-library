@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-Louis de la Rochefoucauld-Bayers"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope"
+title: "Blessed Pierre-Louis de la Rochefoucauld-Bayers"
 summary: "Born to the French nobility, the son of the lord of Maumont Jean de La Rochefoucauld and Marguerite des Escots; his brother Francois-Joseph became bishop of Beauvais, France, and his sister was abbess of the convent of Notre Dame de Soissons. Priest. Prior commendator of Nanteuil"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Louis-de-la-Rochefoucauld-Bayers.jpg"
 birthYear: 1744
@@ -16,11 +16,9 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

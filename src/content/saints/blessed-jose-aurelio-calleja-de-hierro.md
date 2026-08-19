@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Aurelio Calleja de Hierro"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Aurelio Calleja de Hierro"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

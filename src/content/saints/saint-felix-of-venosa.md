@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Venosa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Felix of Venosa"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 deathYear: 303
 died: "c.303 at Venosa, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

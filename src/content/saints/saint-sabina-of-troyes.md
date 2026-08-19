@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabina of Troyes"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Sabina of Troyes"
 summary: "Sister of Saint Sabinian of Troyes."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Sabina-and-Sabinian-of-Troyes.jpg"
 deathYear: 275
@@ -12,12 +12,11 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 patronage:
   - "Troyes, France"
-martyr: true
+martyr: false
 ---
 
 Sister of Saint Sabinian of Troyes.

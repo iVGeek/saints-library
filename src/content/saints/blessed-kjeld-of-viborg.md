@@ -1,7 +1,7 @@
 ---
 name: "Blessed Kjeld of Viborg"
 honorific: Blessed
-title: "Bishop, Priest, Monk, Pope"
+title: "Blessed Kjeld of Viborg"
 summary: "Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and zealous preacher in Viborg, Denmark. Miracle worker."
 searchAliases:
   - "Ketil"
@@ -18,7 +18,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 patronage:
   - "Viborg, Denmark"

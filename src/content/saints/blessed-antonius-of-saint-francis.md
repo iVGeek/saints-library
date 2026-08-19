@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius of Saint Francis"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonius of Saint Francis"
 summary: "Member of the Alcantarine Franciscan Friars Minor. Martyr."
 deathYear: 1627
 born: "Japan"
@@ -12,9 +12,7 @@ feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

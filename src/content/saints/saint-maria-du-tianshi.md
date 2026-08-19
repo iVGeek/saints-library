@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Du Tianshi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Maria Du Tianshi"
 summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China; daughter of Saint Magdalena Du Fengju. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mencia of Kyoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Mencia of Kyoto"
 summary: "Married lay woman in the Kyoto, Japan. Mother of Blessed Lucia of Kyoto. Widow. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Omi (in modern Shiga), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

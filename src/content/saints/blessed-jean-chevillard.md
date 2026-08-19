@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean Chevillard"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Jean Chevillard"
 summary: "Member of the Missionaries of Africa, making his vows on 29 June 1949. Ordained a priest in Carthage, Tunisia on 1 July 1950. He spent the rest of his life serving in Algeria. Father Jean supervised a vocation formation center, was a regional superior and regional bursar for the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Chevillard.jpg"
 birthYear: 1925
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

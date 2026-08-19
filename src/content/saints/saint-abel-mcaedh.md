@@ -1,7 +1,7 @@
 ---
 name: "Saint Abel McAedh"
 honorific: Saint
-title: "Monk"
+title: "Saint Abel McAedh"
 summary: "Holy Irish woman. No other information has survived."
 born: "Irish"
 region: "Ireland"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Walstan of Bawburgh"
 honorific: Saint
-title: "Priest, Monk, Royalty, Confessor"
+title: "Saint Walstan of Bawburgh"
 summary: "The son of a prince and Saint Blida, Walstan left home at an early age to live as a mendicant pilgrim and itinerant farm worker. One of his employers liked him so much that he wanted to make Walstan an heir, but the young man declined, asking only for a pregnant cow. Legend says"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Walstan-of-Bawburgh.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "agricultural workers"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles Steeb"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed Charles Steeb"
 summary: "Born to a wealthy Lutheran family. Studied briefly in Paris, France as a teenager, but fled during the French Revolution. While studying in Verona, Italy his contact with priests and lay Catholics led to his  conversion to Catholicism; his parents disowned him. Priest, with a spe"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Carlo_Steeb.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Born to a wealthy Lutheran family. Studied briefly in Paris, France as a teenager, but fled during the French Revolution. While studying in Verona, Italy his contact with priests and lay Catholics led to his  conversion to Catholicism; his parents disowned him. Priest, with a special ministry to the sick and reformed sinners. Member of the Evangelical Brotherhood of priests and laity. Studied civil and canon law in Pavia, Italy. Taught languages. With Blessed Luigia Poloni, he co-founded the teaching order Institute of the Sisters of Mercy.

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Elena Raparelli"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Elena Raparelli"
 summary: "Founded the Basilian Sisters, Daughters of Saint Macrina."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Raparelli.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

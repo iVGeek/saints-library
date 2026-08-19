@@ -1,7 +1,7 @@
 ---
 name: "Saint Gall"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Missionary"
+title: "Saint Gall"
 summary: "Younger brother of Saint Deicola. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Bible scholar. Priest. One of the twelve who accompanied Saint Columbanus to France and helped found Luxeuil Abbey. He followed Columbanus into exile in 610 and then to Aust"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andricus_lignicola_-_Cola-nut_Gall.JPG/960px-Andricus_lignicola_-_Cola-nut_Gall.JPG"
 searchAliases:

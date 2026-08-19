@@ -1,7 +1,7 @@
 ---
 name: "Saint José Fernández de Ventosa"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint José Fernández de Ventosa"
 summary: "Dominican priest. Missionary to Vietnam in 1805. Provincial vicar at Tonkin. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/saint-jose-fernandez-de-ventosa/saint-jose-fernandez-de-ventosa-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

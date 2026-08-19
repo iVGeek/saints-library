@@ -1,7 +1,7 @@
 ---
 name: "Saint Magnus the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Magnus the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Dominican"

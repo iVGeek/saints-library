@@ -1,7 +1,7 @@
 ---
 name: "Saint Michaël Kurobyoie"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Michaël Kurobyoie"
 summary: "Dominican lay catechist. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 17
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

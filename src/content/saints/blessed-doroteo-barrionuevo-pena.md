@@ -1,7 +1,7 @@
 ---
 name: "Blessed Doroteo Barrionuevo Peña"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Doroteo Barrionuevo Peña"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Aldea de Cuenca community. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

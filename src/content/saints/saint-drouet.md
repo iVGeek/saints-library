@@ -1,7 +1,7 @@
 ---
 name: "Saint Drouet of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Drouet of Auxerre"
 summary: "Bishop of Auxerre, France."
 deathYear: 532
 died: "532 of natural causes"

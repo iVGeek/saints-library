@@ -1,7 +1,7 @@
 ---
 name: "Blessed María de Las Nieves Crespo López"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María de Las Nieves Crespo López"
 summary: "Member of the Carmelite Sisters of Charity, joining on 11 September 1922. Noted as an excellent teacher. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maria-de-las-Nieves.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

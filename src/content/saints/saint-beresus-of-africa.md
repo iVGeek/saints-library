@@ -1,7 +1,7 @@
 ---
 name: "Saint Beresus of Africa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Beresus of Africa"
 deathYear: 300
 died: "c.300 in Africa"
 region: "Africa"
@@ -10,8 +10,7 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---

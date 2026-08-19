@@ -1,7 +1,7 @@
 ---
 name: "Saint Amantius the Soldier"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Amantius the Soldier"
 summary: "One of a group of ten soldier martyrs."
 deathYear: 120
 died: "120 at Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Pignatelli"
 honorific: Venerable
-title: "Priest, Monk, Pope, Royalty"
+title: "Saint Joseph Pignatelli"
 summary: "His mother was Spanish, his father an Italian noble. An orphan at age 9, he became a resident student at the Jesuit college in Zaragoza. Joined the Jesuits in 1753 at Taragona at age 16, along with his brother. Developed tuberculosis, which weakened and haunted him the rest of hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Pignatelli_%281737-1811%29.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

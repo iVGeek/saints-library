@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Caccia"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Thomas Caccia"
 summary: "Born to the Italian nobility. He joined the Franciscans at the convent of San Nazaro in Novara, Italy, receiving the habit from Saint Bernardine of Siena. Thomas was known for his dedication to the Franciscan rule and spirituality, and for the gifts of prophecy and miraculous hea"
 searchAliases:
   - "Tommaso"
@@ -15,8 +15,7 @@ feastDay:
   month: 8
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

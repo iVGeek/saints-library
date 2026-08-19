@@ -1,7 +1,7 @@
 ---
 name: "Saint Cheremone of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cheremone of Alexandria"
 summary: "Suffered and exiled in the persecutions of Decius. Martyred in the persecutions of Valerian."
 searchAliases:
   - "Chêremon"
@@ -15,7 +15,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

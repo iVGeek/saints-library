@@ -1,7 +1,7 @@
 ---
 name: "Saint Verano of Cavaillon"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty"
+title: "Saint Verano of Cavaillon"
 summary: "Ordained in 540. Hermit in Vaucluse, France. Pilgrim to Rome, Italy. Bishop of Cavaillon, France in 568. Godfather of King Theodoric II. His miracles, which included freeing a captive dragon and miraculously healing the foot of a nobleman, which had withered after the nobleman ha"
 image: "http://catholicsaints.info/wp-content/gallery/saint-verano-of-cavaillon/saint-verano-of-cavaillon.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "in France\n\nCavaillon"
   - "Saint-Veran"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Franca Visalta"
 honorific: Saint
-title: "Religious, Pope"
+title: "Saint Franca Visalta"
 summary: " However, on Placed in the Benedictine convent of Saint Syrus at Piacenza, Italy in 1177 at age seven, she joined the Order at age 14. Abbess while still young, but removed from the office due to the severe austerities she imposed, and she became isolated from most of her sisters."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Santa_Franca_%28Mosteiro_de_Arouca%29.png/960px-Santa_Franca_%28Mosteiro_de_Arouca%29.png"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

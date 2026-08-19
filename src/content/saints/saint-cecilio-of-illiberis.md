@@ -1,7 +1,7 @@
 ---
 name: "Saint Cecilio of Illiberis"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Cecilio of Illiberis"
 summary: "Early missionary and bishop of Illiberis (modern Elvira, Granada, Spain)."
 region: "Spain"
 feastDay:

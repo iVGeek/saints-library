@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuseppe Cafasso"
 honorific: Venerable
-title: "Priest, Monk, Pope, Confessor"
+title: "Saint Giuseppe Cafasso"
 summary: "Born with a deformed spine, and into a wealthy peasant family; he was short in stature and crippled throughout his life. Ordained in 1833. Professor of moral theology at the ecclesiastical college at Turin in 1836. Superior of the college from 1846 to 1860. Retreat house director"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giuseppe-Cafasso.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

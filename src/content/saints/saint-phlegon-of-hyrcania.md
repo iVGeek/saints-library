@@ -1,7 +1,7 @@
 ---
 name: "Saint Phlegon of Hyrcania"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Phlegon of Hyrcania"
 summary: "First century bishop of Hyrcania, Greece. May have been one of the “70 Disciples of Christ”. Martyr. Mentioned by Saint Paul the Apostle in the Epistle to the Romans."
 searchAliases:
   - "Flegon"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

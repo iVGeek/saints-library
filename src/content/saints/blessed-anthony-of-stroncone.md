@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anthony of Stroncone"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Anthony of Stroncone"
 summary: "Raised in a pious family, both Anthony's parents were Franciscan tertiaries, his uncle was Blessed Giovanni Vici of Stroncone, and the boy tried to join the Franciscan lay brothers at age 12; they put him off until he was 14. Spiritual student of Blessed Thomas Bellacci. From 141"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Anthony-of-Stroncone-1.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "Stroncone, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Beverley"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint John of Beverley"
 summary: "Studied at Canterbury under Saint Adrian and Saint Theodore. Benedictine monk at Whitby. Bishop of Hexham, England in 687. Metropolitan of York, England in 705. Founded a monastery at Inderawood (later Beverley), which became an important ecclesiastical center. Ordained the Vener"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statue_-_St_John_of_Beverley_on_the_Minster.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -30,7 +28,7 @@ patronage:
   - "Middlesbrough, diocese of"
   - "Whitby"
   - "York"
-martyr: true
+martyr: false
 ---
 
 Studied at Canterbury under Saint Adrian and Saint Theodore. Benedictine monk at Whitby. Bishop of Hexham, England in 687. Metropolitan of York, England in 705. Founded a monastery at Inderawood (later Beverley), which became an important ecclesiastical center. Ordained the Venerable Bede who wrote of him, and recorded miracles worked by him. John always preferred the contemplative life and retired to the Inderawood Abbey in 717. King Henry V's victory at Agincourt was attributed to the aid of Saint John and Saint John of Bridlington.

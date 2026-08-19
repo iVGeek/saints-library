@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominic Shobyoye"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Dominic Shobyoye"
 summary: "Dominican lay tertiary. Sheltered missionaries during the persecutions in Japan. Martyr."
 searchAliases:
   - "Dominic Shibioge"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

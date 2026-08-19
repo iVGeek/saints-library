@@ -1,7 +1,7 @@
 ---
 name: "Saint Gabriel de Duisco"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Gabriel de Duisco"
 summary: "Convert, brought to the faith by Saint Gundisalvus Garcia. Franciscan tertiary. Catechist. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 birthYear: 1578
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

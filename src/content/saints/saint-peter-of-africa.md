@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Africa"
 summary: "Martyred in the 5th century by Arian Vandals in North Africa."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

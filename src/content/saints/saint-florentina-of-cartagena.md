@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentina of Cartagena"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Florentina of Cartagena"
 summary: "Sister of Saint Leander of Seville, Saint Fulgentius of Ecija and Saint Isidore of Seville. Orphaned young and raised by Saint Leander of Seville. Nun. Abbess."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Florentina-of-Cartagena.jpg"
 searchAliases:

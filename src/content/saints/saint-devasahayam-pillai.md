@@ -1,7 +1,7 @@
 ---
 name: "Saint Devasahayam Pillai"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Devasahayam Pillai"
 summary: "Devasahayam was raised a high-caste Hindu, knew Sanskrit, Tamil and Malayalam, and was trained martial arts and archery. He was married, and held a civil service job in the royal treasury. Beginning in 1741, he learned about Catholicism from a French prisoner of war, converted to"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/India_ThomasCross.svg/960px-India_ThomasCross.svg.png"
 searchAliases:
@@ -22,10 +22,7 @@ feastDay:
   day: 14
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

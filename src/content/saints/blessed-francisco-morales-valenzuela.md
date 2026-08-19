@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Morales Valenzuela"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Morales Valenzuela"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

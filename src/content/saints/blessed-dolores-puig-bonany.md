@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dolores Puig Bonany"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Dolores Puig Bonany"
 summary: "Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María Dolores of Saint Eulalia"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

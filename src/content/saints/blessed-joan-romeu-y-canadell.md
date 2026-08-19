@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Romeu y Canadell"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Joan Romeu y Canadell"
 summary: "Joan joined the Capuchin Franciscan Friars Minor in 1908, making his solemn profession on 4 October 1912. Ordained a priest on 25 May 1917. Assigned to the missions in Costa Rica and Nicaragua until 1930 when he returned to Spain and lived in the Franciscan convent in Manresa. On"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Romeu-Canadell.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

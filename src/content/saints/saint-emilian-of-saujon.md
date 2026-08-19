@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilian of Saujon"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Emilian of Saujon"
 summary: "Benedictine monk at Saujon, France. Hermit in the forest of Combes, Bordeaux, France. A well-known wine is named for him."
 searchAliases:
   - "Emilian of Combes"

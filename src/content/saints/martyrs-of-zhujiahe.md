@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Zhujiahe"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Martyrs of Zhujiahe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 deathYear: 1900
 died: "20 July 1900 in church in Zhujiahe, Jingxian, Hebei, China"
@@ -12,11 +12,9 @@ feastDay:
   day: 20
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---

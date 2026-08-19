@@ -2,7 +2,7 @@
 name: "Blessed Andé Angar"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Den_nyare_natur%C3%A5sk%C3%A5dningen.djvu/page1-960px-Den_nyare_natur%C3%A5sk%C3%A5dningen.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Andé Angar"
 summary: "Priest of the archdiocese of Paris, France. Earned a doctorate in theology in 1785. Vicar of the Saint-Sauveur parish. Arrested and murdered in the persecutions of the French Revolution for refusing to take the oath to the civil constitution. One of the Martyrs of September."
 birthYear: 1759
 deathYear: 1792
@@ -16,10 +16,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

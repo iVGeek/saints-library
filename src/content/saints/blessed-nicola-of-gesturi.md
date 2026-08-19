@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicola of Gesturi"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Nicola of Gesturi"
 summary: "The sixth of seven children born to Giovanni Medda and Priama Cogoni Zedda, Giovanni's father died when the boy was five, his mother then he was 13, and he spent much of his youth living with his adult sister who sent him into the fields to work the farm and watch the cattle. He"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicola-of-Gesturi.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

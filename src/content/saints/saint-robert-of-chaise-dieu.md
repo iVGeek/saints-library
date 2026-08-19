@@ -1,7 +1,7 @@
 ---
 name: "Saint Robert of Chaise-Dieu"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit"
+title: "Saint Robert of Chaise-Dieu"
 summary: "Born to the nobility, related to Saint Gerald of Aurillac. Studied at the Church of Saint-Julien in Brioude, France. Ordained in 1026. Canon of Saint Julian where he founded a hospice for the poor. Monk at Cluny under the direction of Saint Odilo. Pilgrim to Rome, Italy. Retired"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Robert-of-Chaise-Dieu.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 patronage:

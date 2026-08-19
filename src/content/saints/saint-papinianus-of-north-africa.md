@@ -1,7 +1,7 @@
 ---
 name: "Saint Papinianus of North Africa"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Papinianus of North Africa"
 summary: "Fifth century African bishop. Martyred in the persecutions of the Arian Vandal king Genseric."
 born: "North Africa"
 died: "5th century"
@@ -11,10 +11,8 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

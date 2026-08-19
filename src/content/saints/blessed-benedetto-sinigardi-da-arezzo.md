@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benedetto Sinigardi da Arezzo"
 honorific: Blessed
-title: "Virgin, Monk, Pope, Missionary"
+title: "Blessed Benedetto Sinigardi da Arezzo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Benedetto-Sinigardi-da-Arezzo.jpg"
 searchAliases:
   - "Benedetto Sinigardi"
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

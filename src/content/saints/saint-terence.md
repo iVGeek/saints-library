@@ -1,7 +1,7 @@
 ---
 name: "Saint Terence of Iconium"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Terence of Iconium"
 summary: "First century bishop of Iconium. May have been the Terius mentioned by Saint Paul the Apostle in Romans 16.22. Martyr."
 searchAliases:
   - "Terentius"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

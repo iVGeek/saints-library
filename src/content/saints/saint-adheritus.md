@@ -1,7 +1,7 @@
 ---
 name: "Saint Adheritus"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Adheritus"
 summary: "Priest. Bishop of Ravenna, Italy."
 searchAliases:
   - "Adhentus"

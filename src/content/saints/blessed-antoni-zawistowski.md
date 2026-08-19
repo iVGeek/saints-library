@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Zawistowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoni Zawistowski"
 summary: "After high school, Antoni studied at the Metropolitan Seminary in Lublin, Poland, and the Theological Academy in Saint Petersburg, Russia. Ordained a priest for the archdiocese of Lublin in 1906. Father Antoni returned to Lublin where he served as vicar of the cathedral parish, p"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ZawistowskiAntoni.jpg/960px-ZawistowskiAntoni.jpg"
 birthYear: 1882
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 patronage:
   - "Metropolitan Seminary in Lublin, Poland"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Venerius of Tino"
 honorific: Saint
-title: "Monk, Pope, Hermit"
+title: "Saint Venerius of Tino"
 summary: "Hermit, monk and abbot on the Island of Tino near Genoa, Italy. The lighthouse on the island, and Venerius's holy reputation, led to his patronage of lighthouse keepers."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Venerius-of-Tino.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
 patronage:
   - "lighthouse keepers (proclaimed for Italian keepers on 10 March 1961 by Pope John XXIII)"

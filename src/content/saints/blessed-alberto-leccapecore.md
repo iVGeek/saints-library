@@ -2,7 +2,7 @@
 name: "Blessed Alberto Leccapecore"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Relazione_delle_sacre_funzioni_eseguite_in_Pisa_in_rendimento_di_grazie_all%27_Altissimo_per_la_prodigiosa_liberazione_della_Toscana_dalle_armi_francesi_-_con_note_%28IA_relazionedellesa00gaet%29.pdf/page1-500px-thumbnail.pdf.jpg"
 honorific: Blessed
-title: "Monk, Royalty, Soldier"
+title: "Blessed Alberto Leccapecore"
 summary: "Born to the wealthy Corsican nobility, Alberto became a career soldier. The shock of seeing his brother die in combat caused him to re-evaluate his life, and develop a call to religion. He left the military to become first a penitent layman at the monastery of San Vito, and then"
 deathYear: 1154
 born: "Corsica (part of modern France)"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Royalty
   - Soldier
 martyr: false
 ---

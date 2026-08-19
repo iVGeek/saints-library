@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Persia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Persia"
 summary: "310 Christians murdered together for their faith in Persia. No details about them have survived."
 region: "Italy"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 310 Christians murdered together for their faith in Persia. No details about them have survived.

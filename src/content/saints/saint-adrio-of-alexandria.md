@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrio of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Adrio of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Adrione"
@@ -13,7 +13,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

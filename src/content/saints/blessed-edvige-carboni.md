@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edvige Carboni"
 honorific: Blessed
-title: "Pope, Cardinal, Royalty"
+title: "Blessed Edvige Carboni"
 summary: "The second child of Giovanni Battista Carboni and Maria Domenica Pinna, Edvige had to leave school at the 4th grade. She felt drawn to the religious life, but stayed at her parents' home to care for her chronically ill mother; she spent all her free time there in prayer. On 14 Ju"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edvige_Carboni.jpg/960px-Edvige_Carboni.jpg"
 birthYear: 1880
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

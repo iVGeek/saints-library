@@ -1,7 +1,7 @@
 ---
 name: "Saint Tuda of Lindisfarne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Tuda of Lindisfarne"
 summary: "Monk in Ireland. Bishop of Lindisfarne, England."
 deathYear: 664
 died: "664 of plague"

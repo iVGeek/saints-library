@@ -1,7 +1,7 @@
 ---
 name: "Blessed Otilio Del Amo Palomino"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Otilio Del Amo Palomino"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Otilio-Del-Amo-Palomino.jpg"
 birthYear: 1913
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

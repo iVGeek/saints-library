@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Francisco Joya Corralero"
 honorific: Blessed
-title: "Martyr, Virgin, Pope"
+title: "Blessed Juan Francisco Joya Corralero"
 summary: "Member of the Trinitarians. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Francisco-Joya-Corralero.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
-  - Pope
 martyr: true
 ---
 

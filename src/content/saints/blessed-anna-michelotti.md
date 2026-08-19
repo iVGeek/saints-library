@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Michelotti"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Anna Michelotti"
 summary: "Anna's father died when she was very young, and though she grew up in poverty, her family always had time to care for those worse off than themselves. She studied with the Sisters of Saint Charles in Lyon, France. Following the death of her mother and brother, Anna entered the no"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anna-Michelotti.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

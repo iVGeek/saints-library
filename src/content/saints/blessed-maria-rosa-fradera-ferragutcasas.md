@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Rosa Fradera Ferragutcasas"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Missionary"
+title: "Blessed Maria Rosa Fradera Ferragutcasas"
 summary: "Member of the Missionary Sisters of the Immaculate Heart of Mary. Nun. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Rosa-Fradera-Ferragutcasas.jpg"
 birthYear: 1900
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Missionary
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Quirino Díez del Blanco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Quirino Díez del Blanco"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Gregorio of La Mata"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

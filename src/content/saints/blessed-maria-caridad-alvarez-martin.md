@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Caridad Álvarez Martín"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope, Royalty, Missionary"
+title: "Blessed María Caridad Álvarez Martín"
 summary: "The daughter of Sotera Martín and Constantino Álvarez, María joined the Augustinian Missionary Sisters in 1955, and made her perpetual vows on 3 May 1960. She served in Algeria for more than 30 years, working with the poor and the elderly. Murdered by Muslim fundamentalists in th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Caridad-Álvarez-Martín.jpg"
 birthYear: 1933
@@ -16,7 +16,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 religiousOrder: "Augustinian"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Narcissus of Gerona"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Soldier"
+title: "Saint Narcissus of Gerona"
 summary: "Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of Diocletian he fled to modern Augsburg, Germany with his deacon, Saint Felix of Gerona. There they befriended Saint Afra of Augsburg. Returning to Gerona, he and"
 image: "http://catholicsaints.info/wp-content/uploads/Narcissus-of-Gerona.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon

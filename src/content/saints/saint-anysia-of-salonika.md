@@ -1,7 +1,7 @@
 ---
 name: "Saint Anysia of Salonika"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Soldier"
+title: "Saint Anysia of Salonika"
 summary: "Born to a wealthy and pious family, Anysia lived private vows of chastity and poverty, praying and using her wealth to help the poor. One day, during the persecutions of Maximian Galerius, an imperial Roman soldier accosted her as she was on her way to services. When he discovere"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anysia-of-Salonika.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

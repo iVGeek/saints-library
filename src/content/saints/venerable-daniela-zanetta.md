@@ -1,7 +1,7 @@
 ---
 name: "Venerable Daniela Zanetta"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Daniela Zanetta"
 summary: "Young layperson of the diocese of Novara, Italy who suffered from a rare skin disease (dystrophic epidermolysis bullosa) that required frequent medical treatment including hospitalization and blood transfusions. She was a member of the Focolare Movement, a leader in the parish yo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Daniela-Zanetta.jpg"
 birthYear: 1962
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

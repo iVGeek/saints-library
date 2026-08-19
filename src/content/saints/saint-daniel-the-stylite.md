@@ -1,7 +1,7 @@
 ---
 name: "Saint Daniel the Stylite"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Daniel the Stylite"
 summary: "Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to the Holy Lands, but a vision of Saint Simeo"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Spas_na_Ilyine_-_Stylite_Daniel.jpg"
 searchAliases:
@@ -17,11 +17,10 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to the Holy Lands, but a vision of Saint Simeon caused him to travel instead to Constantinople where he spent the rest of his life. At age 42, Daniel decided to become a pillar-dwelling hermit like Simeon, and spent the next thirty-three years on one.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elesbaan of Ethiopia"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Elesbaan of Ethiopia"
 summary: "Christian King in Ethiopia in the early 6th century. With the support of Byzantine emperors Justin I and Justinian, he invaded the southern Arabian peninsula where Christian was under attack. Late in life he abdicated his throne to live as a prayerful, penitent hermit and then a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elesbaan-of-Ethiopia1.jpg"
 searchAliases:
@@ -29,7 +29,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 martyr: false
 ---

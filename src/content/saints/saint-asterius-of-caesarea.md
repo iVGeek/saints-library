@@ -1,7 +1,7 @@
 ---
 name: "Saint Asterius of Caesarea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Asterius of Caesarea"
 summary: "Roman senator. Martyred for giving a Christian burial to Saint Marinus of Caesarea."
 searchAliases:
   - "Asterus"
@@ -15,7 +15,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

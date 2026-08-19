@@ -1,7 +1,7 @@
 ---
 name: "Saint Tutilo of Saint Gall"
 honorific: Saint
-title: "Monk"
+title: "Saint Tutilo of Saint Gall"
 summary: "A large, powerfully built man. Educated at Saint Gall's monastery in Switzerland where he stayed to become a Benedictine monk. Friend of Blessed Notkar Balbulus. A renaissance man before the term was coined. Excellent student, he became a sought after teacher at the abbey school."
 searchAliases:
   - "Tutilo von Gallen"

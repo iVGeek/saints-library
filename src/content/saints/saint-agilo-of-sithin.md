@@ -1,7 +1,7 @@
 ---
 name: "Saint Agilo of Sithin"
 honorific: Saint
-title: "Monk"
+title: "Saint Agilo of Sithin"
 summary: "Monk at Saint Aper Abbey in Toul, France. Reforming abbot at Saint Bertin Abbey in Sithin, France where he worked to restore monastic discipline."
 deathYear: 957
 died: "957"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Garrido Requena"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Juan Garrido Requena"
 summary: "Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War."
 birthYear: 1864
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomasello"
 honorific: Saint
-title: "Saint"
+title: "Saint Thomasello"
 summary: "Dominican. Student of Saint Thomas Aquinas."
 searchAliases:
   - "Thomasellus"
@@ -17,8 +17,7 @@ feastDay:
   month: 3
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

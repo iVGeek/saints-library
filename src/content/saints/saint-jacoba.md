@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacoba de Settesoli"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Jacoba de Settesoli"
 summary: "Born to the Italian nobility. Mother of two sons, grandmother of several children, all of whom she outlived. Widow. Franciscan tertiary. Friend of Saint Francis of Assisi and Saint Clare of Assisi. Legend says that Francis gave her a lamb that followed her back and forth to churc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Jacoba-of-Settesoli.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 2
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

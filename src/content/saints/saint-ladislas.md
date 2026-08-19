@@ -1,7 +1,7 @@
 ---
 name: "Saint Ladislas"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Ladislas"
 summary: "Born a prince, son of Bela I, King of Hungary. King of Hungary in 1077. Annexed Dalmatia and Croatia to greater Hungary. He expelled the Huns, Poles, Tatars, and Russians from his lands, and made Christianity the national religion. Known for his enlightened government, his devoti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ladislaus-I-of-Hungary.jpg"
 searchAliases:
@@ -21,15 +21,13 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
 patronage:
   - "in Hungary\n\nBudapest"
   - "Szekszard"
-martyr: true
+martyr: false
 ---
 
 Born a prince, son of Bela I, King of Hungary. King of Hungary in 1077. Annexed Dalmatia and Croatia to greater Hungary. He expelled the Huns, Poles, Tatars, and Russians from his lands, and made Christianity the national religion. Known for his enlightened government, his devotion to his people and to the Church. Chosen commander-in-chief of the First Crusade, but died before the expedition left.

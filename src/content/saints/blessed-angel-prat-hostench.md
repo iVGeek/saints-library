@@ -2,7 +2,7 @@
 name: "Blessed Àngel Prat Hostench"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jochs_Florals_de_Barcelona_en_1880.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1880.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Àngel Prat Hostench"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Àngel Maria"
@@ -18,9 +18,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

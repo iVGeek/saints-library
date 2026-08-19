@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Prats Sanjuán"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Prats Sanjuán"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

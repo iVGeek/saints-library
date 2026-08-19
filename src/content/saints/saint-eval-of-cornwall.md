@@ -1,7 +1,7 @@
 ---
 name: "Saint Eval of Cornwall"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Eval of Cornwall"
 summary: "Sixth century bishop in Cornwall, England. The village of St Eval, Cornwall was named in his honour."
 searchAliases:
   - "Urval"

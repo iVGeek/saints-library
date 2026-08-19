@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Segalà Solé"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pau Segalà Solé"
 summary: "Priest in the diocese of Urgell, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pau-Segalà-Solé.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

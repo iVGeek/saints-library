@@ -1,7 +1,7 @@
 ---
 name: "Saint Papo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Papo"
 summary: "Martyr."
 searchAliases:
   - "Pappo"
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Franciscan"
 martyr: true

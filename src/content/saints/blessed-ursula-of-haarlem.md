@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ursula of Haarlem"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Ursula of Haarlem"
 summary: "Beguine sister. Martyred by Calvinists."
 deathYear: 1572
 died: "1572 in Haarlem, Netherlands"
@@ -12,7 +12,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

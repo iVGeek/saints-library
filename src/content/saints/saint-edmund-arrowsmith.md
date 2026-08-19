@@ -1,7 +1,7 @@
 ---
 name: "Saint Edmund Arrowsmith"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Saint Edmund Arrowsmith"
 summary: "Son of the farmer Robert Arrowsmith and Margery Gerard Arrowsmith. His rebel parents refused to attend Protestant services, harbored priests in their home, and at one point were arrested for their actions, and dragged away in the night, leaving the child Edmund alone. Entered Dou"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/27/St._Edmund_Arrowsmith.jpg"
 searchAliases:
@@ -20,13 +20,10 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Son of the farmer Robert Arrowsmith and Margery Gerard Arrowsmith. His rebel parents refused to attend Protestant services, harbored priests in their home, and at one point were arrested for their actions, and dragged away in the night, leaving the child Edmund alone. Entered Douai College in 1605; he was forced to quit due to ill health. Ordained in France in 1611. Worked among beleaguered English Catholics in Lancashire for 15 years. Even in those oppressive times he was known for his pleasant disposition, sincerity, and energy.

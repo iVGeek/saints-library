@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Cagliari"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturninus of Cagliari"
 summary: "Martyred by order of governor Barbarus for refusing to take part in the festival of Jupiter during the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ssaturnino2.jpg/960px-Ssaturnino2.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Cagliari, Italy"

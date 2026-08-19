@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel-Louis André Des Pommerayes"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Daniel-Louis André Des Pommerayes"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1756
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

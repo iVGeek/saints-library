@@ -1,7 +1,7 @@
 ---
 name: "Saint Gumesindus of Cordoba"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Gumesindus of Cordoba"
 summary: "Priest. Martyred in the persecutions of Abderrahman II."
 searchAliases:
   - "Gumismundus"
@@ -17,7 +17,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

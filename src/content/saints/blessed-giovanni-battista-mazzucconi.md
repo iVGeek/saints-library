@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Battista Mazzucconi"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Blessed Giovanni Battista Mazzucconi"
 summary: "Priest. Member of the Pontifical Institute for Foreign Missions. Missionary to Papua New Guinea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Mazzucconi.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

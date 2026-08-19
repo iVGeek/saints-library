@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josaphat Chichkov"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josaphat Chichkov"
 summary: "Joined the Congregation of the Assumption at age 16 on 29 April 1900. Priest. Arrested by the Communist government in December 1951 for the anti-state offense of being a priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josaphat-Chichkov.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

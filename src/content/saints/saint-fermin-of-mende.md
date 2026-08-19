@@ -1,7 +1,7 @@
 ---
 name: "Saint Fermin of Mende"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Fermin of Mende"
 summary: "Bishop of Mende, France."
 searchAliases:
   - "Firmin"
@@ -11,9 +11,8 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Mende, France.

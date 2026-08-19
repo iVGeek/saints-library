@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundius of Syria"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Abundius of Syria"
 summary: "Grandson of Saint Anastasius. Deacon. Migrated from Syria to Umbria, Italy where he was martyred in the persecutions of Diocletian."
 searchAliases:
   - "Habundius"
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
 martyr: true
 ---

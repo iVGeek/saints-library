@@ -1,7 +1,7 @@
 ---
 name: "Saint Mordeyren"
 honorific: Saint
-title: "Saint"
+title: "Saint Mordeyren"
 summary: "No information about him has survived."
 died: "relics formerly enshrined in a chapel of the parish church Nantglyn, Wales, but they have disappeared"
 deathPlace: "Wales, but they have disappeared"
@@ -10,8 +10,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Nantglyn, Wales"
 martyr: false

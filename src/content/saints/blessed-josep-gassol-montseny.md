@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Gassol Montseny"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Gassol Montseny"
 summary: "Seminarian of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Gassol-Montseny.jpg"
 birthYear: 1915
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

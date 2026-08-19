@@ -1,7 +1,7 @@
 ---
 name: "Saint Raphael Kalinowski"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Raphael Kalinowski"
 summary: "Son of Andrew Kalinowski, prominent mathmatics professor at the College of Nobility, and Josepha Poionska Kalinowski. Studied at his father's school. Though he felt a call to the priesthood, Joseph decided on college first. He studied zoology, chemistry, agriculture, and apicultu"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Kalinowski1897.jpg"
 searchAliases:
@@ -22,10 +22,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

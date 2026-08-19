@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria, date unknown"
 deathPlace: "Syria, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

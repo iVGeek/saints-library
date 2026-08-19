@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Nguyen Ðình Uyen"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Giuse Nguyen Ðình Uyen"
 summary: "Layman Dominican tertiary and catechist. Died after being imprisoned for his faith during the persecutions of Emperor Minh Mang. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Giuse-Nguyen-Dinh-Uyen.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 7
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

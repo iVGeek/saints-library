@@ -1,7 +1,7 @@
 ---
 name: "Saint Judas Cyriacus"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Judas Cyriacus"
 summary: "Bishop of Ancona, Italy, possibly the first. Martyred in the persecutions of Julian the Apostate, possibly while on a pilgrimage to the Holy Lands. His name has led to much speculation about his origin, about which we know nothing for sure, and many legends, some blatantly anti-J"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%28Barcelona%29_Martyrdom_of_St._Quiricuso_-_Museu_Nacional_d%27Art_de_Catalunya.jpg/960px-%28Barcelona%29_Martyrdom_of_St._Quiricuso_-_Museu_Nacional_d%27Art_de_Catalunya.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

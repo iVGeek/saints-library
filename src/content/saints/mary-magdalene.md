@@ -22,10 +22,7 @@ feastDay:
 liturgicalRank: Feast
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg/960px-TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg"
-vocation:
-  - Disciple
-  - Apostle
-  - Evangelist
+vocation: []
 patronage:
   - conversion
   - religious-life

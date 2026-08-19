@@ -1,7 +1,7 @@
 ---
 name: "Saint Aedesius of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Aedesius of Alexandria"
 summary: "Brother of Saint Apphian of Caesarea. Publicly reproved a judge who had forced nuns to work in brothels in order to break them of their faith during the persecutions of emperor Maximinus. For this, he was imprisoned, tortured and executed. Martyr."
 searchAliases:
   - "Edese"
@@ -18,7 +18,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

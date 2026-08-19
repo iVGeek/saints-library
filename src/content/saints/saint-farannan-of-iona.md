@@ -1,7 +1,7 @@
 ---
 name: "Saint Farannan of Iona"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Farannan of Iona"
 summary: "Monk of Iona Abbey. Spiritual student of Saint Columba of Iona. Eventually retired to live as a cave hermit at All-Farannan (modern Allernan), in Sligo, Ireland."
 deathYear: 590
 born: "6th century Ireland"

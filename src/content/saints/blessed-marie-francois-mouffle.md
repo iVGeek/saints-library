@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-François Mouffle"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Marie-François Mouffle"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie Hanniset"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Marie Hanniset"
 summary: "Discalced Carmelite nun, professed in 1764. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christian persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

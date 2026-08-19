@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph Sobraqués Glory"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Joseph Sobraqués Glory"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luis Damián"
@@ -17,9 +17,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

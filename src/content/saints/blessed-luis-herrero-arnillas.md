@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Herrero Arnillas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luis Herrero Arnillas"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Esteban Vicente"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

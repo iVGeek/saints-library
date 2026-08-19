@@ -1,7 +1,7 @@
 ---
 name: "Saint Amicus of Mortara"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Amicus of Mortara"
 summary: "Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr."
 searchAliases:
   - "Amico"
@@ -15,7 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Mortara, Italy"

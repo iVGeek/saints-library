@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Timothy the Deacon"
 summary: "Deacon. Martyred in the persecutions of Decius."
 searchAliases:
   - "Timothy of Africa"
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

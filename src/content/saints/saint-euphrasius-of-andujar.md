@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphrasius of Andújar"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Pope"
+title: "Saint Euphrasius of Andújar"
 summary: " Legend says that he once travelled from Spain to Rome, Italy in 30 minutes in order to help the Pope; he managed the quick trip by bri First century spiritual student of the Apostles. One of the first group of missionaries to Spain, ordained by Saint Peter and Saint Paul. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Euphrasius-of-Andujar.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
-  - Pope
 patronage:
   - "Ajaccio, France, diocese of"
   - "Ajaccio, France, city of"

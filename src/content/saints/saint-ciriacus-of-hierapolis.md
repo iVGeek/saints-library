@@ -1,7 +1,7 @@
 ---
 name: "Saint Ciriacus of Hierapolis"
 honorific: Saint
-title: "Martyr"
+title: "Saint Ciriacus of Hierapolis"
 summary: "Martyr."
 died: "Hierapolis, Phrygia (in modern Turkey)"
 deathPlace: "Phrygia (modern Turkey)"
@@ -10,8 +10,7 @@ feastDay:
   month: 10
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margaret of Lorraine"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Margaret of Lorraine"
 summary: "Youngest daughter of Duke Frederick of Lorraine (in modern France and Jolanta Anjou; niece of Margaret of Anjou. Married Ren&eacute;, Duke of Alençon, who was 23 years her senior, in 1488. Mother of three. Widowed in 1492. She administered the ducal estate herself, lived austerel"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Margaret_of_Lorraine.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

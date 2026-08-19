@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marcellinus Choe Chang-ju"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marcellinus Choe Chang-ju"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1749
 deathYear: 1801
@@ -14,9 +14,7 @@ feastDay:
   month: 4
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

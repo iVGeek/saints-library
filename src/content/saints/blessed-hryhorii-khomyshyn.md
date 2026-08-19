@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hryhorii Khomyshyn"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Hryhorii Khomyshyn"
 summary: "Greek Catholic. Ordained on 18 November 1893. Studied theology at Vienna, Austria from 1894 to 1899. Rector of the seminary in Lviv, Ukraine in 1902. Bishop of Stanislaviv (modern Ivano-Frankivsk), Ukraine on 6 May 1904. Arrested for his faith in 1939 by the NKVD. Arrested again"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Grzegorz-Chomyszyn.jpg"
 searchAliases:
@@ -25,10 +25,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

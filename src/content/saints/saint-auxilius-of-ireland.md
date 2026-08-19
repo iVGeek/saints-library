@@ -1,7 +1,7 @@
 ---
 name: "Saint Auxilius of Ireland"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Auxilius of Ireland"
 summary: "Worked with Saint Patrick to evangelize Ireland in the fifth century. Bishop of Killossey, Ireland."
 searchAliases:
   - "Auxilius of Killossey"

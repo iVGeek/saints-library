@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuseppe Baldo"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Giuseppe Baldo"
 summary: "Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in 1882. Founded the Little Sisters of Saint Joseph in 1894."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Baldo.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

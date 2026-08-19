@@ -1,7 +1,7 @@
 ---
 name: "Saint Clarentius of Vienne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Clarentius of Vienne"
 summary: "Bishop of Vienne, France."
 searchAliases:
   - "Clarence"

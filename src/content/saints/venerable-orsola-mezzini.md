@@ -1,7 +1,7 @@
 ---
 name: "Venerable Orsola Mezzini"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Orsola Mezzini"
 summary: "Her mother died when Orsola was less than two years old, her father re-married, and the girl grew up in a house of eight children. In Bologna, Italy, on 16 November 1874 she joined the Congregation of the Sisters of the Little Mission for the Deaf-Mute; her spiritual director was"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Orsola-Mezzini.jpg"
 birthYear: 1853
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

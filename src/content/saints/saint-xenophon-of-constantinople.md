@@ -1,7 +1,7 @@
 ---
 name: "Saint Xenophon of Constantinople"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Xenophon of Constantinople"
 summary: "Married to Saint Mary of Constantinople, father of Saint John and Saint Arcadius. A wealthy man of Senatorial rank in 5th century imperial Constantinople, he was known as a Christian who lived a simple life. To give their sons a good education, Xenophon and Mary sent them to univ"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Constantinople.jpg"
 searchAliases:
@@ -14,10 +14,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

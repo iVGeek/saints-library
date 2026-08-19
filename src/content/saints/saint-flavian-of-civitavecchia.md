@@ -1,7 +1,7 @@
 ---
 name: "Saint Flavian of Civitavecchia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Flavian of Civitavecchia"
 summary: "Roman deputy prefect. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Flavian of Civita Vecchia"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio María Rodríguez Blanco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antonio María Rodríguez Blanco"
 summary: "Priest in the diocese of Córdoba, Spain. Member of the Salesian Cooperators. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

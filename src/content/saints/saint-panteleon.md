@@ -1,7 +1,7 @@
 ---
 name: "Saint Panteleon"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Panteleon"
 summary: "Raised by a Christian mother and pagan father, Panteleon chose Christian, and became physician to emperor Maximian. He was a life-long layman and bachelor. At one point he abandoned his faith, and fell in with a worldly and idolatrous crowd. However, he was eventually overcome wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pantaleon.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

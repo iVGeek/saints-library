@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth of Mantua"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope"
+title: "Blessed Elizabeth of Mantua"
 summary: "Born wealthy. Received some formal education, instruction in meditation by her mother, and was taught Latin by her father so she could read the Little Office of the Blessed Virgin Mary. Her mother died when Elizabeth was young, and she and a sister joined the third order of the S"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-elizabeth-of-mantua/blessed-elizabeth-of-mantua-01.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

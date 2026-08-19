@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Xanten"
 honorific: Saint
-title: "Martyr, Priest, Soldier"
+title: "Saint Victor of Xanten"
 summary: "Relative of Saint Verena. Soldier. Leader of a cohort of the Theban Legion. Martyr. One of the Theban Martyrs."
 image: "http://catholicsaints.info/wp-content/gallery/saint-victor-of-xanten/saint-victor-of-xanten.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Soldier
 patronage:

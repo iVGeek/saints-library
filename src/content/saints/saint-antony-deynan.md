@@ -1,7 +1,7 @@
 ---
 name: "Saint Antony Deynan"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Antony Deynan"
 summary: "Son of a Chinese father and Japanese mother. Altar boy. Educated by the Jesuits in Nagasaki and the Franciscans in Osaka. Franciscan tertiary. One of the Martyrs of Nagasaki at age 13."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

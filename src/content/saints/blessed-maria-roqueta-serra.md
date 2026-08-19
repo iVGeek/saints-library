@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Roqueta Serra"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Maria Roqueta Serra"
 summary: "Member of the Carmelite Missionaries. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Maria Refugi of Saint Angelo"
@@ -17,9 +17,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

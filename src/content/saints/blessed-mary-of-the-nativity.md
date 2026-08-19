@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary of the Nativity"
 honorific: Blessed
-title: "Religious, Royalty"
+title: "Blessed Mary of the Nativity"
 summary: "In her youth, Anna made a private vow, consecrating herself to God. She joined the Mercedarians at the monastery of the Assumption in Seville, Spain, taking the name Sister Mary of the Nativity. Known for her deep contemplative prayer life, she received visions of heaven, and spe"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-the-Nativity.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie-Madeleine Postel"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Marie-Madeleine Postel"
 summary: "Aunt of Blessed Placide Viel. Educated by the Benedictines at Valognes, France. Director of a school for girls at age 28. When the school was closed during the French Revolution, she used the building to house fugitive priests. Franciscan tertiary at age 52, taking the name Marie"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Portrait%2C_St._Marie_Madeleine_Postel%2C_Sisters_of_Christian_Schools_of_Mercy.jpg"
 searchAliases:
@@ -20,13 +20,10 @@ feastDay:
   day: 16
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Aunt of Blessed Placide Viel. Educated by the Benedictines at Valognes, France. Director of a school for girls at age 28. When the school was closed during the French Revolution, she used the building to house fugitive priests. Franciscan tertiary at age 52, taking the name Marie-Madeleine. Founded the Poor Daughters of Mercy at Cherburg, France in 1807 when she was 61. The Daughters are teachers and nurses, and at the time of Marie's death 30 years later, they had 37 houses.

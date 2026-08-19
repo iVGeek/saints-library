@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balsamus of Cava"
 honorific: Blessed
-title: "Priest, Monk, Pope"
+title: "Blessed Balsamus of Cava"
 summary: "Benedictine monk. Abbot of Cava, Italy from 1208 to 1232."
 searchAliases:
   - "Belsamus of Cava"
@@ -17,7 +17,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Thyniss"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Thyniss"
 summary: "Arrested for his faith, he was found dead in prison the day before for his scheduled execution. No other information has survived."
 searchAliases:
   - "Felix of Thynissa"
@@ -16,9 +16,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Arrested for his faith, he was found dead in prison the day before for his scheduled execution. No other information has survived.

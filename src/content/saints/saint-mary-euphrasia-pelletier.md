@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary Euphrasia Pelletier"
 honorific: Venerable
-title: "Virgin, Religious, Pope, Royalty"
+title: "Saint Mary Euphrasia Pelletier"
 summary: "Born during the French Revolution. Studied at Tours, France. Joined the Refuge of Our Lady of Charity at Tours on 20 October 1814, an order devoted to rescuing “fallen” women and those in danger of going on the game. She took the name Marie-Euphrasie, and made her religious profe"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Marie-Euphrasie_Pelletier.jpg"
 searchAliases:
@@ -25,8 +25,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "travellers"
 martyr: false

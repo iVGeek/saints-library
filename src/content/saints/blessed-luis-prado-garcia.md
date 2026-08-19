@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Prado García"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Luis Prado García"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

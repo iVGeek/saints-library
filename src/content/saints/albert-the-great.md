@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: "1931"
 vocation:
   - Bishop
-  - Doctor
   - Founder
 religiousOrder: Dominican
 patronage:

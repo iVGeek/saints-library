@@ -1,7 +1,7 @@
 ---
 name: "Saint Alfric of Canterbury"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Alfric of Canterbury"
 summary: "Benedictine monk of Abingdon Abbey, England. Abbot of Abingdon. Bishop of Wilton, England. Archbishop of Canterbury, England in 995. It was during his governance that Kent was invaded by Danes."
 searchAliases:
   - "Aelfric"

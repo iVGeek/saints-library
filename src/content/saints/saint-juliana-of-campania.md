@@ -1,14 +1,13 @@
 ---
 name: "Saint Juliana of Campania"
 honorific: Saint
-title: "Martyr"
+title: "Saint Juliana of Campania"
 summary: "Martyr."
 feastDay:
   month: 2
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

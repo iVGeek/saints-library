@@ -1,7 +1,7 @@
 ---
 name: "Saint Robert of Syracuse"
 honorific: Saint
-title: "Saint"
+title: "Saint Robert of Syracuse"
 summary: "Abbot of a monastery in Syracuse, Sicily."
 deathYear: 1000
 died: "c.1000"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

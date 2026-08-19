@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dionysius Fugixima"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Dionysius Fugixima"
 summary: "Born to the Japanese nobility. Jesuit novice. Worked with Blessed Paul Navarro. Martyr."
 searchAliases:
   - "Denis Fugiscima"
@@ -17,9 +17,7 @@ feastDay:
   month: 11
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

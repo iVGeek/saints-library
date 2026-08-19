@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrico Alfieri"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Enrico Alfieri"
 summary: "Born to the nobility of the Asti region of modern Italy, the son of Guglielmo and Agnesina Alfrieri. He joined the Franciscan friars in Asti at age 15. He eventually became superior of the house. Superior of the Genoese province in 1372. Vicar of the Order of Friars Minor Convent"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Alfieri.jpg"
 searchAliases:
@@ -19,8 +19,7 @@ feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

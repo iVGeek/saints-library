@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Kearney"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Kearney"
 summary: "Son of John Kearney and Elizabeth Creagh. Franciscan Friars Minor (Observants), entering the novitiate at Kilkenny, Ireland. Moved to Leuven, Belgium in 1638 to enter the seminary. Ordained in Brussels, Belgium in 1642. On his way back to Ireland in 1644, he was arrested in Londo"
 searchAliases:
   - "Seán Ó Cearnaigh"
@@ -17,9 +17,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

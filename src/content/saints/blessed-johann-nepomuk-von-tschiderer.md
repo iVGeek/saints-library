@@ -1,7 +1,7 @@
 ---
 name: "Blessed Johann Nepomuk von Tschiderer"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Johann Nepomuk von Tschiderer"
 summary: " Though he was not a Benedictine, Joha Son of Joseph Joachim and Caterina de Giovanelli. Received his secondary education from the Franciscans. Moved with his family to Innsbruck, Austria in 1792 where he studied philosophy and theology at the university. Ordained on 27 July 1800."
 image: "http://catholicsaints.info/wp-content/gallery/blessed-johann-nepomuk-von-tschiderer/blessed-johann-nepomuk-von-tschiderer.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

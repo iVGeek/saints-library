@@ -1,7 +1,7 @@
 ---
 name: "Saint Senan of Wales"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Senan of Wales"
 summary: "Seventh century hermit in north Wales."
 region: "England"
 feastDay:

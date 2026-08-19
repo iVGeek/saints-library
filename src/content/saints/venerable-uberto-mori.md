@@ -1,7 +1,7 @@
 ---
 name: "Venerable Uberto Mori"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Uberto Mori"
 summary: "Married layman and father in the archdiocese of Modena-Nonantola, Italy. Engineer, lecturer, and successful business entrepreneur. Joined the Third Order of Saint Francis on 19 February 1967. Known for his personal piety, simple lifestyle and devotion to Mary. Started his own tel"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Uberto-Mori.jpg"
 birthYear: 1926
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

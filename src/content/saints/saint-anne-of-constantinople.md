@@ -1,7 +1,7 @@
 ---
 name: "Saint Anne of Constantinople"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Anne of Constantinople"
 summary: "Born an aristocrat, she was orphaned young and inherited a large fortune. Though she spent her money to support the poor, she attracted a steady stream of greedy suitors. To avoid marriage to a man named Agarenus, a union supported by Emperor Basil the Macedonian, Anne fled from"
 searchAliases:
   - "Susanna of Constantinople"
@@ -15,10 +15,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Born an aristocrat, she was orphaned young and inherited a large fortune. Though she spent her money to support the poor, she attracted a steady stream of greedy suitors. To avoid marriage to a man named Agarenus, a union supported by Emperor Basil the Macedonian, Anne fled from Constantinople to Epirus in Leucadia c.869. She lived there the rest of her life as a hermitess.

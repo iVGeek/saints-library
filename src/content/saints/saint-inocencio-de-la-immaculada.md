@@ -1,7 +1,7 @@
 ---
 name: "Saint Inocencio de la Immaculada"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Inocencio de la Immaculada"
 summary: "Born to a farming family, Manuel early felt a call to religious life, and joined the Passionist as a young man, making his profession on 27 July 1905. Ordained a priest in Ovieda, Spain on 20 September 1913. He taught literature, philosophy and theology, and brought his teaching"
 image: "http://catholicsaints.info/wp-content/uploads/img-San-Inocencio-de-la-Immaculada.jpg"
 searchAliases:
@@ -22,10 +22,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

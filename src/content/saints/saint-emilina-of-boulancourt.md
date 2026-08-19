@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilina of Boulancourt"
 honorific: Saint
-title: "Royalty"
+title: "Saint Emilina of Boulancourt"
 summary: "Joined the Cistercian Abbey of Boulancourt at Longeville, France when still very young. Noted for her deep prayer life, fasts, and austere, sometimes severe self-imposed penances such as wearing a pointed chain under her habit, walking barefooted throughout the year and fasting f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emilina-of-Boulancourt.jpg"
 deathYear: 1178
@@ -12,8 +12,7 @@ feastDay:
   month: 10
   day: 27
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

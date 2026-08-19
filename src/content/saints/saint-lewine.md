@@ -1,7 +1,7 @@
 ---
 name: "Saint Lewine"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Lewine"
 summary: "Fourth century nun in England. Martyred by invading pagan Saxons."
 born: "Flanders (in modern Belgium)"
 died: "England"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

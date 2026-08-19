@@ -1,7 +1,7 @@
 ---
 name: "Saint Evagrius of Tomi"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Evagrius of Tomi"
 summary: "Martyr. No further information has survived."
 searchAliases:
   - "Euagrius"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

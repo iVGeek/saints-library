@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adelpreto of Arco"
 honorific: Blessed
-title: "Martyr, Bishop, Royalty, Soldier"
+title: "Blessed Adelpreto of Arco"
 summary: "Born to the German nobility, he served as a soldier in the army of emperor Frederick Barbarossa, fighting in the area of Trento, Italy, and at one point being a prisoner-of-war for several years. Served as the feudal Prince-Bishop of Trento from 1156 until his martyr, he was know"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Adelpreto-of-Arco.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
   - Soldier
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Urbano Gil Sáez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Urbano Gil Sáez"
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupicinus of Verona"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Lupicinus of Verona"
 summary: "Bishop of Verona, Italy in the early 5th century."
 searchAliases:
   - "Lupicino"

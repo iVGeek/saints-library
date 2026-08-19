@@ -1,7 +1,7 @@
 ---
 name: "Blessed Theodgar of Vestervig"
 honorific: Blessed
-title: "Priest, Royalty, Missionary"
+title: "Blessed Theodgar of Vestervig"
 summary: "Studied theology in England. Priest. Missionary to Norway. Courtier to King Olav Haraldsson II. Known to heal the sick by praying over them. Went into exile in Sweden with King Olav in 1028. Missionary to the area of Jutland, Denmark; he was making little headway until one mornin"
 searchAliases:
   - "Theodgar of Vendyssel"
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Royalty
   - Missionary
 religiousOrder: "Augustinian"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Won Si-bo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Iacobus Won Si-bo"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Jacob"
@@ -16,9 +16,7 @@ feastDay:
   month: 4
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

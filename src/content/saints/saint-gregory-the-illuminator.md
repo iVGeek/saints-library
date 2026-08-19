@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregory the Illuminator"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Gregory the Illuminator"
 summary: "Gregory's father Anak killed King Khosrov I of Armenia, and young Gregory was sent to Caesarea to avoid being killed in revenge. There he married, and was the father of two sons. Bishop of Ashtishat, Armenia where he became a hugely successful evangelist. Helped free Armenia from"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gregory_the_Illuminator_Aghtamar_bas_relief.jpg/960px-Gregory_the_Illuminator_Aghtamar_bas_relief.jpg"
 searchAliases:
@@ -23,14 +23,12 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:
   - "Armenia"
   - "Nardò, Italy"
-martyr: true
+martyr: false
 ---
 
 Gregory's father Anak killed King Khosrov I of Armenia, and young Gregory was sent to Caesarea to avoid being killed in revenge. There he married, and was the father of two sons. Bishop of Ashtishat, Armenia where he became a hugely successful evangelist. Helped free Armenia from Persian rule. Miracle worker. Captured on his return to his native land, he was held prisoner and tortured for 13 years by the son of King Khosrov. Gregory's example led to the conversion of Khosrov to Christianity, and together they evangelized and converted most of Armenia.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Melchora Adoración Cortés Bueno"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Melchora Adoración Cortés Bueno"
 summary: "Daughter of Charity nun in the Archdiocese of Madrid, Spain, joining on 18 March 1914. She served as a teacher in several locations, most of which was at the College of Immaculate Conception of Leganés, Spain. Known for her skill and leadership quality, and her love for her stude"
 image: "https://catholicsaints.info/wp-content/uploads/95966_MelchoraAdoracion.jpg"
 birthYear: 1894
@@ -16,9 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

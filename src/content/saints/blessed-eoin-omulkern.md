@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eoin O'Mulkern"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Eoin O'Mulkern"
 summary: "Premonstratensian priest. One of the Irish Martyrs."
 searchAliases:
   - "John Kieran"
@@ -16,10 +16,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

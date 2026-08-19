@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Sais"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Sais"
 summary: "A group of Christians martyred for their faith, but about whom no details have survived."
 died: "drowned near Sais, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

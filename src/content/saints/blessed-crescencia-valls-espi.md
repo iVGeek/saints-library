@@ -1,7 +1,7 @@
 ---
 name: "Blessed Crescencia Valls Espí"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Crescencia Valls Espí"
 summary: "Lay woman in the archdiocese of Valencia, Spain. The daughter of Joaquin Valls and Francisca Espí, Crescensia was baptized at the age of one day, and went to a school run by the Sisters of Charity. A pious girl and young woman, over the years she was a member of the Daughters of"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencia-Valls-Espi.jpg"
 birthYear: 1863
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Fulgentius of Ruspe"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Royalty, Confessor"
+title: "Saint Fulgentius of Ruspe"
 summary: "Born to a Roman senatorial family, and was well educated. Provincial fiscal procurator and lieutenant governor of Byzacena. He became a monk early in life, led to the religious life by the writings of Saint Augustine of Hippo, whose work remained a touchstone for him the rest of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fulgentius_von_Ruspe_17Jh.jpg/960px-Fulgentius_von_Ruspe_17Jh.jpg"
 searchAliases:
@@ -18,12 +18,11 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
 religiousOrder: "Augustinian"
-martyr: true
+martyr: false
 ---
 
 Born to a Roman senatorial family, and was well educated. Provincial fiscal procurator and lieutenant governor of Byzacena. He became a monk early in life, led to the religious life by the writings of Saint Augustine of Hippo, whose work remained a touchstone for him the rest of his life. Priest. Abbot. Bishop of Ruspe (modern Kudiat Rosfa, Tunisia) in 508, an illegal election in the Arian controlled land following the invasion of the Vandals led by Thrasimund.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Antioch"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Peter of Antioch"
 summary: "Priest. Martyr."
 died: "in Antioch"
 region: "Syria"
@@ -10,7 +10,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

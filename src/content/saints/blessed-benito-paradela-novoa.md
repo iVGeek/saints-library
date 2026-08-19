@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benito Paradela Novoa"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Benito Paradela Novoa"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

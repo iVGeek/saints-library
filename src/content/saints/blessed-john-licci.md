@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Licci"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Giovanni Licci"
 summary: " John's father, who fed the baby on crushed pomegranates, had to work the fields, and was forced to leave the infant alone. The baby began crying, and a neighbor Born to a poor farmer, John's mother died in childbirth. His life from then on, all 111 years, was a tale of miracles."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Licci.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "against head injuries"

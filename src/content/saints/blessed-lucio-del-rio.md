@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucio del Rio"
 honorific: Blessed
-title: "Priest, Royalty, Confessor"
+title: "Blessed Lucio del Rio"
 summary: "Mercedarian priest. Confessor of King James II of Castille, and the Infanta Isabella."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucio-del-Rio.jpg"
 birthYear: 1242
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Royalty
   - Confessor
 martyr: false
 ---

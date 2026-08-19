@@ -1,7 +1,7 @@
 ---
 name: "Saint Rumold"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Missionary"
+title: "Saint Rumold"
 summary: " Some writers indicate that he wa Benedictine monk. Friend of Saint Gummarus. Evangalizing missionary bishop with Saint Willibrord of Echternach and Saint Libert in the area of modern Netherlands and Brabant, Belgium. Martyr, murdered by two men whose sinful ways he had denounced."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rumbold-of-Mechelin.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

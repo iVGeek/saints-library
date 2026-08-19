@@ -1,7 +1,7 @@
 ---
 name: "Saint Poemen"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Poemen"
 summary: "Leader of a group of hermits in the desert of Skete in Egypt, living in the abandoned ruins of a pagan temple at Terenuth. Noted for his strong discipline, permitting himself and his brothers four hours of sleep a day, spending the rest of the time in chores, prayers or study. On"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_S.Poimen.jpg/960px-Hosios_Loukas_%28nave%2C_vault_over_south-west_bay%29_-_S.Poimen.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eugenio Remón Salvador"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Eugenio Remón Salvador"
 summary: "Eugenio joined the Franciscan Friars Minor Conventual at the convent in Granollers, Spain in 1925 where he took the name Miguel, and served his novitiate under the guidance of Blessed Federico López y López; he made his perpetual profession in Loreto, Italy in 1933 where he spent"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenio-Remón-Salvador.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

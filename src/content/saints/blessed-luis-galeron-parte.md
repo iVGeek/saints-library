@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Galerón Parte"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Luis Galerón Parte"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Benedicto José"
@@ -17,9 +17,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

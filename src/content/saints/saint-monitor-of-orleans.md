@@ -1,7 +1,7 @@
 ---
 name: "Saint Monitor of Orleans"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Monitor of Orleans"
 summary: "Bishop of Orleans, France. Supported monastic expansion in his diocese."
 deathYear: 490
 died: "c.490"
@@ -11,10 +11,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Orleans, France. Supported monastic expansion in his diocese.

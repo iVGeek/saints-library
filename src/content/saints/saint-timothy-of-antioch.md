@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Timothy of Antioch"
 summary: "Martyr."
 died: "Antioch (in modern Turkey)"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

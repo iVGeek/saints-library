@@ -1,14 +1,13 @@
 ---
 name: "Saint Philip the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philip the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

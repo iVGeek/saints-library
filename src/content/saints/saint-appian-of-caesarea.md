@@ -1,7 +1,7 @@
 ---
 name: "Saint Appian of Caesarea"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Appian of Caesarea"
 summary: "Born to wealthy, prominent and non-Christian family. Brother of Saint Aedesius of Alexandria. Well educated, studying rhetoric, philosophy and civil law in Beirut, Lebanon. Convert to Christianity. Friend of Eusebius of Caesarea; the pair made a pilgrimage to Palestine. Studied u"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Appian-of-Caesarea.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

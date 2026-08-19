@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosius of Antioch"
 honorific: Saint
-title: "Monk"
+title: "Saint Theodosius of Antioch"
 summary: "Monk. Founded a monastery in Cilicia (modern Çukurova, Turkey)."
 deathYear: 412
 born: "in Antioch (in modern Turkey)"

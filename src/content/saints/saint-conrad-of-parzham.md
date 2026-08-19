@@ -1,7 +1,7 @@
 ---
 name: "Saint Conrad of Parzham"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Conrad of Parzham"
 summary: "Youngest of nine children born to a farming family in a region recovering from the Napoleonic wars. His mother died when he was 14. Devoted from an early age to solitary prayer and peacemaking, he was a familiar site at all the churches and shrines in his region, often waiting at"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Endorf_Antwort_Wallfahrtskirche_Mari%C3%A4_Himmelfahrt_Philipp-_und_Jakob-Altar_Altarblatt_Hl._Bruder_Konrad_Nahansicht_2017_10_07.jpg/960px-Bad_Endorf_Antwort_Wallfahrtskirche_Mari%C3%A4_Himmelfahrt_Philipp-_und_Jakob-Altar_Altarblatt_Hl._Bruder_Konrad_Nahansicht_2017_10_07.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"

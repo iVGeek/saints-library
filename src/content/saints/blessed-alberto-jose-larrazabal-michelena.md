@@ -2,7 +2,7 @@
 name: "Blessed Alberto José Larrazábal Michelena"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Los_Venezolanos_en_el_exterior_%28IA_losvenezolanosen00land%29.pdf/page1-500px-Los_Venezolanos_en_el_exterior_%28IA_losvenezolanosen00land%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Alberto José Larrazábal Michelena"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Junián Alberto"
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

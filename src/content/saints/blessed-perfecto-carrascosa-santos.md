@@ -1,7 +1,7 @@
 ---
 name: "Blessed Perfecto Carrascosa Santos"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Perfecto Carrascosa Santos"
 summary: "Franciscan Friar Minor priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Perfecto-Carrascosa-Santos.jpg"
 birthYear: 1906
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

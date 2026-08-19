@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas of Tiberiopolis"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Thomas of Tiberiopolis"
 summary: "Deacon. Martyred in the persecutions of Julian the Apostate. No other information has survived."
 deathYear: 361
 died: "beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beatrice of Cochem"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Beatrice of Cochem"
 summary: "A Premonstratensian nun who lived her entire religious life in the monastery of Porta Angelica in Kochem, Rhineland-Palatinate (in modern Germany)."
 searchAliases:
   - "Beatrice of Kochem"
@@ -13,9 +13,8 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 A Premonstratensian nun who lived her entire religious life in the monastery of Porta Angelica in Kochem, Rhineland-Palatinate (in modern Germany).

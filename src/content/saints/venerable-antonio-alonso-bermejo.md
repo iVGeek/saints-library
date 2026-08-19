@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonio Alonso Bermejo"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Antonio Alonso Bermejo"
 summary: "Secular Franciscan in the archdiocese of Valladolid, Spain who devoted himself to caring for the sick in the hospital of Saint Michael in Nava del Ray, Spain."
 birthYear: 1678
 deathYear: 1758
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

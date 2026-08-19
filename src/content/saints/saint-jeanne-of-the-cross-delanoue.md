@@ -1,7 +1,7 @@
 ---
 name: "Saint Jeanne of the Cross Delanoue"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Jeanne of the Cross Delanoue"
 summary: " During the Pentecost season in 1698, Jeanne had Youngest of twelve children. Her father was draper; her mother owned and operated a religious goods store. Her mother died in 1691, and Jeanne took over the business. Smart and hard-working, she made a success of the small business."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-of-the-Cross-Delanoue.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

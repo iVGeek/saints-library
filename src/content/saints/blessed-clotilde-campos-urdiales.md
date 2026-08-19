@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clotilde Campos Urdiales"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Clotilde Campos Urdiales"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María del Pilar"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

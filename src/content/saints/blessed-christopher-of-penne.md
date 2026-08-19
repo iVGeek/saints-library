@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christopher of Penne"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Christopher of Penne"
 summary: "Franciscan monk who lived his entire life in religion at the convent of Santissima Annunziata del Poggio of Orsogna, Chieti, Italy."
 searchAliases:
   - "Cristoforo"

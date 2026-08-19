@@ -1,7 +1,7 @@
 ---
 name: "Saint Aemilianus the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Aemilianus the Martyr"
 summary: "Physician. Martyred in the persecutions of the Arian Vandal king Huneric."
 searchAliases:
   - "Aemilius"
@@ -14,10 +14,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Restituta of Sora"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Restituta of Sora"
 summary: "Born to the nobility. During the persecutions of Aurelian, Restituta and several Christian companions fled to Sora, Italy, but they were caught and killed. Martyr."
 searchAliases:
   - "Restituta of Rome"
@@ -17,7 +17,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 patronage:

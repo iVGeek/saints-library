@@ -1,7 +1,7 @@
 ---
 name: "Saint Geminianus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Geminianus of Rome"
 summary: "A convert, she was imprisoned and tortured during the persecutions of Diocletian while still a neophyte. Baptized in prison. Martyr."
 deathYear: 300
 died: "c.300 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

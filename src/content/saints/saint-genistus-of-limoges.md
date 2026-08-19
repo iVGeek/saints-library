@@ -1,7 +1,7 @@
 ---
 name: "Saint Genistus of Limoges"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Genistus of Limoges"
 summary: "Monk at Beaulieu, Limousin, Limoges. Martyr."
 searchAliases:
   - "Genistus of Beaulieu"
@@ -14,7 +14,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Aynac, France"

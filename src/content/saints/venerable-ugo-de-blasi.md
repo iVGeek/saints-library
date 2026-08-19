@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ugo de Blasi"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Ugo de Blasi"
 summary: "Fifth of seven children born to Nicola and Oronza De Marianis, he was baptized at the age of four days; his father died when Ugo was seven years old. In October 1928 he entered the diocesan junior cemetery, then the Pontifical Seminary in Molfetta, Italy. Ordained a priest of the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ugo-de-Blasi.jpg"
 birthYear: 1918
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

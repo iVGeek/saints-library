@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julius of Rome"
 summary: "Imperial Roman senator. Martyred in the persecutions of Commodus."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Julius-of-Rome.jpg"
 deathYear: 190
@@ -13,7 +13,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

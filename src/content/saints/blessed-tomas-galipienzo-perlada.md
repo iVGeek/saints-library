@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Galipienzo Perlada"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Tomás Galipienzo Perlada"
 summary: "Member of the Claretians, professed on 15 August 1914. Ordained a priest on 21 May 1921. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

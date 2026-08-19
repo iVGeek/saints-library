@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balbina of Assisi"
 honorific: Blessed
-title: "Martyr, Priest, Religious"
+title: "Blessed Balbina of Assisi"
 summary: "A spiritual student of Saint Clare of Assisi, Balbina became a Poor Clare nun at the monastery of San Damiano. Helped found the Poor Clare monastery at Spello, Italy."
 birthYear: 1214
 deathYear: 1240
@@ -14,11 +14,10 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 A spiritual student of Saint Clare of Assisi, Balbina became a Poor Clare nun at the monastery of San Damiano. Helped found the Poor Clare monastery at Spello, Italy.

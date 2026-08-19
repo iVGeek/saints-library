@@ -1,7 +1,7 @@
 ---
 name: "Saint Protogenes of Syria"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Protogenes of Syria"
 summary: "Priest in Edessa. During the Arian persecutions of the Roman emperor Valens c.370, the Catholic bishop of Edessa, Barsete, was sent into exile, and Protogene and a priest named Eulogius took over leadership of the Christian community; the two were soon exiled to the Thebaid regio"
 searchAliases:
   - "Protogenes of Harran"
@@ -14,11 +14,10 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in Edessa. During the Arian persecutions of the Roman emperor Valens c.370, the Catholic bishop of Edessa, Barsete, was sent into exile, and Protogene and a priest named Eulogius took over leadership of the Christian community; the two were soon exiled to the Thebaid region of Egypt. There Protogene started a school and converted many of the local pagans to Christianity, some being brought to the faith by Protogene's healing miracles.

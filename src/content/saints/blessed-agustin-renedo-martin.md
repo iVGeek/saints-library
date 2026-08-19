@@ -2,7 +2,7 @@
 name: "Blessed Agustín Renedo Martín"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/EUD_1994-695.pdf/page1-960px-EUD_1994-695.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Agustín Renedo Martín"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936
@@ -16,9 +16,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip"
 honorific: Saint
-title: "Martyr"
+title: "Saint Philip"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philippus"
@@ -10,8 +10,7 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Macedon_Philip_II_AR_Tetradrachm_Thunderbolt_Control_Mark%2C_LeRider_234_Plate_Coin%2C_1965_Thessalonica_Hoard.xcf/960px-Macedon_Philip_II_AR_Tetradrachm_Thunderbolt_Control_Mark%2C_LeRider_234_Plate_Coin%2C_1965_Thessalonica_Hoard.xcf.png"
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

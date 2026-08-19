@@ -1,7 +1,7 @@
 ---
 name: "Blessed Esteban Anuncibay Letona"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Esteban Anuncibay Letona"
 summary: "Member of the Brothers of the Christian Schools, joining at age 16, taking the habit on 28 June 1909, making his first vows on 31 October 1911, and his solemn profession on 25 July 1919 in Madrid, Spain. Director of schools in the Chiclana and then of Puente Vallecas, one of the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ovidio-Bertran.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

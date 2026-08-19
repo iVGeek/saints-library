@@ -1,7 +1,7 @@
 ---
 name: "Saint Giovanni Battista Rossi"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Giovanni Battista Rossi"
 summary: "One of four children born to Charles de Rossi and Frances Anfossi. Taken by a wealthy noble couple to Genoa, Italy for schooling. There he met some Capuchin friars who thought well of him, and helped him continue his education in Rome, Italy. Studied under the Jesuits at the Roma"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-Battista-Rossi.jpg"
 searchAliases:
@@ -20,13 +20,11 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 One of four children born to Charles de Rossi and Frances Anfossi. Taken by a wealthy noble couple to Genoa, Italy for schooling. There he met some Capuchin friars who thought well of him, and helped him continue his education in Rome, Italy. Studied under the Jesuits at the Roman College at age 13. Member of the Sodality of the Blessed Virgin and the Ristretto of the Twelve Apostles. Epileptic. His self-imposed acts of austerity nearly broke his health, and he never completely regained his strength. Studied philosophy and theology under the Dominicans. Ordained on 3 March 1721, assigned to Rome.

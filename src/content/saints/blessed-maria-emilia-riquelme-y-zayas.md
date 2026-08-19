@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Emilia Riquelme y Zayas"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Cardinal, Missionary"
+title: "Blessed María Emilia Riquelme y Zayas"
 summary: "Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good education, studying painting, singing, piano and languages. At age 7, Maria received a vision of the Blessed Virgin Mary with the Child Jesus; she made a vow to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Emilia-Riquelme-y-Zayas.jpg"
 birthYear: 1847
@@ -15,7 +15,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Lazarist"

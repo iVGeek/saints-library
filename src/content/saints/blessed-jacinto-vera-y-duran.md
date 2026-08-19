@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto Vera y Durán"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Cardinal"
+title: "Blessed Jacinto Vera y Durán"
 summary: "Born to a farming family, Jacinto worked the fields with them in his youth. About the age of 19, he discerned a call to the priesthood, and began studying in Buenos Aires, Argentina. Ordained on 5 June 1841. Vicar Apostolic of Montevideo, Uruguay on 4 October 1859. Titular Bishop"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Vera-y-Duran.jpg"
 birthYear: 1813
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

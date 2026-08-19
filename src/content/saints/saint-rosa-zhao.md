@@ -1,7 +1,7 @@
 ---
 name: "Saint Rosa Zhao"
 honorific: Venerable
-title: "Martyr, Religious, Pope"
+title: "Saint Rosa Zhao"
 summary: "Young lay catechist in the apostolic vicariate of Southeastern Zhili, China. Daughter of Saint Maria Zhao Guoshi; sister of Saint Maria Zhao. During the persecutions of the Boxer Rebellion, the three of them hid in a well to avoid being raped. They were found, dragged out, and ki"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

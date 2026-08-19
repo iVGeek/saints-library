@@ -1,7 +1,7 @@
 ---
 name: "Saint Euthymius of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Euthymius of Nicomedia"
 summary: "During the persecutions of Diocletian, Euthymius encouraged Christians to hold onto their faith, and gave Christian burial to martyrs. For this he was executed. Martyr."
 searchAliases:
   - "Euthymios"
@@ -14,7 +14,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ricardo Atanes Castro"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ricardo Atanes Castro"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ricardo-Atanes-Castro.jpg"
 birthYear: 1875
@@ -16,9 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

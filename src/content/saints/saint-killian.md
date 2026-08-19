@@ -1,7 +1,7 @@
 ---
 name: "Saint Killian"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Soldier, Missionary"
+title: "Saint Killian"
 summary: "Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland. Missionary with eleven companions through Gaul to W&uuml;rzburg, Germany whose people he found to be pagan, and whom he resolved to convert. Pilgrim to Rome, Ita"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Kilian.jpg"
 searchAliases:
@@ -26,8 +26,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

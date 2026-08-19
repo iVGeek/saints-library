@@ -1,7 +1,7 @@
 ---
 name: "Saint Miguel González de Aozaraza de Leibar"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Miguel González de Aozaraza de Leibar"
 summary: "Dominican priest. Missionary to Japan. Arrested for his faith in Okinawa. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg"
 birthYear: 1598
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

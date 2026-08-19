@@ -1,7 +1,7 @@
 ---
 name: "Saint Domninus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Domninus"
 summary: "Soldier. Personal attendant to Roman emperor Maximian Herculeus in Milan, Italy. Convert. When the anti-Christian persecutions began, Domninus fled, was captured, and immediately executed. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/SanDonnino_fidenza.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

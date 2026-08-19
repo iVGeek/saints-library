@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Alsina Casas"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Josep Alsina Casas"
 summary: "Franciscan Capuchin friar, professed on 19 December 1928. Ordained a priest on 20 February 1932. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Agustí of Montclar"
@@ -18,12 +18,10 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, professed on 19 December 1928. Ordained a priest on 20 February 1932. Murdered by Marxists in the Spanish Civil War.

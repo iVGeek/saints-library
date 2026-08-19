@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Emiliano Hortelano Gómez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ramón Emiliano Hortelano Gómez"
 summary: "Married layman in the diocese of Cuenca, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Emiliano-Hortelano-Gomez.jpg"
 birthYear: 1908
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

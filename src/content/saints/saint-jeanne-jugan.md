@@ -1,7 +1,7 @@
 ---
 name: "Saint Jeanne Jugan"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Jeanne Jugan"
 summary: "Born in a small, impoverished fishing village. Her father was a fisherman named Joseph who was gone to sea most of the time, and died when Jeanne was 4 years old. Her mother was named Marie, did farm work to support her family, and raised the children in the Faith during the time"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jeanne_Jugan_par_L%C3%A9on_Brune_1855.jpg/960px-Jeanne_Jugan_par_L%C3%A9on_Brune_1855.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

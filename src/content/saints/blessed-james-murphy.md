@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Murphy"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed James Murphy"
 summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."
 deathYear: 1655
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Leszczewicz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoni Leszczewicz"
 summary: "Priest. Member of the Marians of the Immaculate Conception. One of the 108 Polish Martyrs of World War II."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Antoni_Leszczewicz%2C_MIC_%28240%29.jpg"
 birthYear: 1890
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

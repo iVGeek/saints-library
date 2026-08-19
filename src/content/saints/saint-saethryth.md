@@ -1,7 +1,7 @@
 ---
 name: "Saint Saethryth"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Saethryth"
 summary: "Step-daughter of the king of the Angles. Half-sister of Saint Ethelburga and Saint Ethelfreda. Benedictine nun in a convent in Gaul. Abbess."
 searchAliases:
   - "Sethrida"
@@ -19,7 +19,6 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

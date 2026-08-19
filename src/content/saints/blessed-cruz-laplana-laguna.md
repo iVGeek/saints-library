@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cruz Laplana Laguna"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Cruz Laplana Laguna"
 summary: "Ordained a priest on 24 September 1898. Chosen bishop of Cuenca, Spain on 30 November 1921. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cruz-Laplana-Laguna.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

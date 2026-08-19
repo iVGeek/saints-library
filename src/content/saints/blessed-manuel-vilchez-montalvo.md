@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Vílchez Montalvo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Vílchez Montalvo"
 summary: " After his pari After studies at the Guadix Seminary, Manual was ordained a priest of the archdiocese of Granada, Spain on 6 June 1912. He served as pastor in the Spanish cities of Baza, Castil, Iznalloz, in the cathedral of Guadix, and as a professor at the San Torcuato Seminary."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Vilchez-Montalvo.jpg"
 birthYear: 1889
@@ -16,9 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

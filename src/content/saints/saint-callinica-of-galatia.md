@@ -1,7 +1,7 @@
 ---
 name: "Saint Callinica of Galatia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Callinica of Galatia"
 summary: "Wealthy woman in Galatia, Asia Minor (part of modern Turkey). Visited and comforted Christians imprisoned for their faith. Martyred for doing so."
 searchAliases:
   - "Callinicus"
@@ -14,7 +14,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

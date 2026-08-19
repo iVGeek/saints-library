@@ -1,7 +1,7 @@
 ---
 name: "Venerable Jean-Baptiste Berthier"
 honorific: Venerable
-title: "Priest, Pope, Cardinal, Royalty"
+title: "Venerable Jean-Baptiste Berthier"
 summary: "The eldest son in a pious peasant farm family, Jean early felt a call to the priesthood, and began studying at the minor seminary in Grenoble, France at age 13. He was an excellent student, was ordained a priest in 1862, and then joined the Missionaries of Our Lady of La Salette,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jean_Baptiste_Berthier%2C_by_French_school_of_the_18th_century.jpg/960px-Jean_Baptiste_Berthier%2C_by_French_school_of_the_18th_century.jpg"
 birthYear: 1840
@@ -17,9 +17,7 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

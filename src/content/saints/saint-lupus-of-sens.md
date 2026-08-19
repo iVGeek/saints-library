@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupus of Sens"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Lupus of Sens"
 summary: "Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and his generosity to the poor. Monk at Lérins. Priest. Arc"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/82/SaintLupusSens.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
@@ -30,7 +29,7 @@ patronage:
   - "against epilepsy; of epileptics"
   - "–"
   - "Sens, France"
-martyr: true
+martyr: false
 ---
 
 Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and his generosity to the poor. Monk at Lérins. Priest. Archbishop of Sens, Burgundy (in modern France) in 609.

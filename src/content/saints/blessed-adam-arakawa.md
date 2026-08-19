@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adam Arakawa"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Adam Arakawa"
 summary: "Married layman catechist martyr in the diocese of Funai, Japan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Adam-Arakawa.jpg"
 birthYear: 1551
@@ -15,9 +15,7 @@ feastDay:
   month: 6
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

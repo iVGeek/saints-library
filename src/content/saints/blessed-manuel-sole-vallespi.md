@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Solé Vallespì"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal, Royalty"
+title: "Blessed Manuel Solé Vallespì"
 summary: "Member of the Claretians, joining on 12 October 1924 at the seminary in Bercelona, Spain, making his profession on 24 September 1929. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,11 +15,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

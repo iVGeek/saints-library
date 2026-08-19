@@ -1,7 +1,7 @@
 ---
 name: "Saint Susanna the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Susanna the Martyr"
 summary: "Young girl who fled to Nola, Italy to escape persecution. Arrested there for her faith, she was taken to Salerno, Italy, tortured and martyred with Saint Thecla and Saint Archelais."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nola.jpg"
 deathYear: 293
@@ -15,7 +15,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

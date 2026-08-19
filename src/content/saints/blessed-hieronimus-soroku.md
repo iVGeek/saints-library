@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hieronimus Soroku"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Hieronimus Soroku"
 summary: "Layman in the Kyoto, Japan. Married to Blessed Lucia Soroku. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Aki (in modern Hiroshima), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

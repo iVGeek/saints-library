@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy of Syrmium"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Timothy of Syrmium"
 summary: "Martyr. No other information has survived."
 died: "3rd or 4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Serbia)"
 deathPlace: "Pannonia (modern Sremska Mitrovica, Serbia)"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

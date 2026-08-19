@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Eduard Massanet Flaquer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jesús Eduard Massanet Flaquer"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jesús-Eduard-Massanet-Flaquer.jpg"
 birthYear: 1899
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dachonna of Connor"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Dachonna of Connor"
 summary: "Fourth bishop of Connor, Ireland, serving in the early 8th century."
 searchAliases:
   - "Duchomma"
@@ -15,9 +15,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Fourth bishop of Connor, Ireland, serving in the early 8th century.

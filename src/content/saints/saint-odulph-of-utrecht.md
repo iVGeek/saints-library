@@ -1,7 +1,7 @@
 ---
 name: "Saint Odulph of Utrecht"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Odulph of Utrecht"
 summary: "French nobility. Pious and studious youth. Augustinian priest. Curate of Oresscoth in Brabant. Worked with Saint Frederick of Utrecht to evangelize the Frisons. Canon of the cathedral at Utrecht, Netherlands where he worked to set a good example of prayer and fasting to laymen. F"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Odulph-of-Utrecht.jpg"
 searchAliases:

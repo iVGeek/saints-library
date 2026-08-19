@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fortunatus of Rome"
 summary: "Martyr. No other information has survived."
 deathYear: 537
 died: "c.537 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

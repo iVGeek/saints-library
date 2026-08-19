@@ -1,7 +1,7 @@
 ---
 name: "Saint Phaolô Lê Bao Tinh"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Phaolô Lê Bao Tinh"
 summary: "Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his faith while still a seminarian. Seminary administrator. Wrote a book that compiled a catechism with a collection of homilies. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Phaolô-Lê-Bao-Tinh.jpg"
 birthYear: 1793
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peleus of Phunon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Peleus of Phunon"
 summary: "Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for celebrating Mass in prison."
 deathYear: 310
 died: "burned to death in 310 at Phunon, near Petra in Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

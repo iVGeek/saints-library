@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Altolaguirre y Altolaguirre"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Santiago Altolaguirre y Altolaguirre"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Santiago-Altolaguirre-y-Altolaguirre.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

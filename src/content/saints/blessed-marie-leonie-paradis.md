@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Léonie Paradis"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Marie-Léonie Paradis"
 summary: "Born to a poor but pious family. Educated by the Sisters of Notre Dame. Joined the Marianite Sisters of the Congregation of the Holy Cross on 21 February 1854, taking her final vows in 1857. Taught in Montreal, in New York, and in Indiana. With 14 of her sisters, she founded the"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Marie-L%C3%A9onie_Paradis%2C_1872.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Thyrsus of Apollonia"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Thyrsus of Apollonia"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 251
 died: "251 at Apollonia, Phrygia (modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Telga of Denbighshire"
 honorific: Saint
-title: "Virgin, Monk"
+title: "Saint Telga of Denbighshire"
 summary: "The patron of a church and a healing well in Ciwyd, Wales. No other information has survived."
 searchAliases:
   - "Tegla"

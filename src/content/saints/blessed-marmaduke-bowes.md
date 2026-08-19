@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marmaduke Bowes"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Marmaduke Bowes"
 summary: "Married layman and father. Fearful of the persecutions of the day, he was a covert Catholic who put in appearances in the Established church to keep the authorities away. He sheltered priests on the run, and had his children raised Catholic. In 1585 his children's tutor was arres"
 deathYear: 1585
 born: "Ingram Grange, Yorkshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

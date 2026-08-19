@@ -1,7 +1,7 @@
 ---
 name: "Saint Tiburtius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tiburtius"
 summary: "Martyr."
 deathYear: 690
 died: "690 in the Sabine region of Italy"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiburtius.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Proto of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Proto of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Protolicus"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

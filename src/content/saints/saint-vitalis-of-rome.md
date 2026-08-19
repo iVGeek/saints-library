@@ -1,7 +1,7 @@
 ---
 name: "Saint Vitalis of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vitalis of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

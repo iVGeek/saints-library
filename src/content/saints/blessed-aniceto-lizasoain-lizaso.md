@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aniceto Lizasoain Lizaso"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Aniceto Lizasoain Lizaso"
 summary: "Redemptorist brother; made his religious profession on 15 October 1896. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Aniceto-Lizasoain-Lizaso.jpg"
 birthYear: 1877
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 17
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Redemptorist"
 martyr: true
 ---

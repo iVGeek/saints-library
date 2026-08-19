@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lluís Jové Pach"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Lluís Jové Pach"
 summary: "Member of the Claretians, professed on 9 March 1888. Ordained a priest on 29 February 1896. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

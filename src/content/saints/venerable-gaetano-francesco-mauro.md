@@ -1,7 +1,7 @@
 ---
 name: "Venerable Gaetano Francesco Mauro"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Gaetano Francesco Mauro"
 summary: "Ordained a priest in the diocese of Cosenza, Italy on 14 July 1912. He served as a parish priest in Montalto Uffugo where he turned an old convent into a larger center for youth ministry. He served as a military chaplain in Friuli, Italy during World War I, and spent a period in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Gaetano-Francesco-Mauro.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

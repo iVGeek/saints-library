@@ -1,7 +1,7 @@
 ---
 name: "Saint Kieran the Younger"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Kieran the Younger"
 summary: "Son of Beoit, a carpenter and chariot builder. Spiritual student of Saint Finian of Clonard and Saint Dermot. Considered the most learned monk at Clonard. Tutor to the daughter of the king of Cuala. Lived seven years as a hermit at Inishmore with Saint Enda. Monk at the abbey of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Kieran-the-Younger.jpg"
 searchAliases:
@@ -30,7 +30,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "in Ireland\n\nClonmacnoise Abbey"
   - "Clonmacnoise, diocese of"

@@ -1,7 +1,7 @@
 ---
 name: "Saint David Uribe-Velasco"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Deacon, Pope"
+title: "Saint David Uribe-Velasco"
 summary: " Pa Son of Juan Uribe Ayal and Victoriana Velasco Gutierrez, the seventh of eleven children in an inevitably poor family. Baptized on 6 January 1889. Entered seminary at Chilapa in 1903 at age 14; excellent student. Sub-deacon in 1910, deacon in 1911, and ordained on 2 March 1913."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-Uribe-Velasco.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
-  - Pope
 martyr: true
 ---
 

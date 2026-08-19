@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maximus of North Africa"
 summary: "One of a group of Christians who were martyred together, date unknown. No other information has survived."
 born: "African"
 died: "North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

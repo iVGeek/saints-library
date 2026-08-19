@@ -1,7 +1,7 @@
 ---
 name: "Saint Zosimus of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zosimus of Carthage"
 summary: "Martyred in Carthage in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Zozimus"
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

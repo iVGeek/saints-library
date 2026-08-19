@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Mavimenus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter Mavimenus"
 summary: "Martyred by Muslims for supporting Christianity and denigrating Islam."
 searchAliases:
   - "Peter the Scribe"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

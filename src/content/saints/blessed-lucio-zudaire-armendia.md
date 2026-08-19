@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucio Zudaire Armendía"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Lucio Zudaire Armendía"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Teódulo"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

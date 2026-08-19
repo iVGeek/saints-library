@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clemente of Bressanone"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Clemente of Bressanone"
 summary: "Franciscan friar minor. Sent to the Pinerolo region to preach against Waldensianism, he brought many back to the faith."
 deathYear: 1655
 born: "Bressanone, Italy"

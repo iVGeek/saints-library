@@ -1,7 +1,7 @@
 ---
 name: "Saint Azadanes the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Royalty"
+title: "Saint Azadanes the Deacon"
 summary: "Deacon in Persia. Martyred in the persecutions of King Sapor II."
 searchAliases:
   - "Azadames"
@@ -12,10 +12,8 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Royalty
 martyr: true
 ---
 

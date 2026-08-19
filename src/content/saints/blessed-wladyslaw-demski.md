@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wladyslaw Demski"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blessed Wladyslaw Demski"
 summary: "A professor of classical languages, he became a priest in the archdiocese of Gniezno, Poland, serving in the parish of the Blessed Virgin Mary church in Inowroclaw, Poland. Arrested by occupying Nazi forces on 2 November 1939, he was sent to the Sachsenhausen concentration camp w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Demski.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 martyr: true
 ---
 

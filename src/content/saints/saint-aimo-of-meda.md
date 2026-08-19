@@ -1,7 +1,7 @@
 ---
 name: "Saint Aimo of Meda"
 honorific: Saint
-title: "Saint"
+title: "Saint Aimo of Meda"
 summary: "Brother of Saint Vermondo. Founded the convent of Saint Victor in Meda, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Aimo-and-Vermondo-of-Meda.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 2
   day: 13
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

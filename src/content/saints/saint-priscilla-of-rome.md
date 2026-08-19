@@ -1,7 +1,7 @@
 ---
 name: "Saint Priscilla of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Priscilla of Rome"
 summary: "Married to Manius Acilius Glabrio. Mother of Senator Pudens. Supported Saint Peter the Apostle in his work in Rome, Italy, her villa near the Roman catacombs serving as Peter's headquarters."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Priscilla-of-Rome.jpg"
 searchAliases:
@@ -12,9 +12,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Married to Manius Acilius Glabrio. Mother of Senator Pudens. Supported Saint Peter the Apostle in his work in Rome, Italy, her villa near the Roman catacombs serving as Peter's headquarters.

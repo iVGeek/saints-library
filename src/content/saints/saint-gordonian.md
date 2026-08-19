@@ -2,7 +2,7 @@
 name: "Saint Gordonian"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Bromsgrovian%2C_1902-12%2C_New_Series%2C_Volume_18%2C_Number_5.pdf/page1-500px-The_Bromsgrovian%2C_1902-12%2C_New_Series%2C_Volume_18%2C_Number_5.pdf.jpg"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gordonian"
 summary: "Listed as a martyr in early martyrologies, but there is no information about the time or place."
 searchAliases:
   - "Gortonian"
@@ -12,8 +12,7 @@ feastDay:
   month: 4
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

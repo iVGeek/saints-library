@@ -1,7 +1,7 @@
 ---
 name: "Saint Adaler of Erfurt"
 honorific: Saint
-title: "Martyr"
+title: "Saint Adaler of Erfurt"
 summary: "Evangelized Freisland with Saint Boniface. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adaler-of-Erfurt.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 6
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "livestock"
 martyr: true

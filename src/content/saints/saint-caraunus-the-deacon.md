@@ -1,7 +1,7 @@
 ---
 name: "Saint Caraunus the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Missionary"
+title: "Saint Caraunus the Deacon"
 summary: "Convert during the 1st century. Deacon. Missionary to Gaul. Martyred in the persecutions of Domitian."
 searchAliases:
   - "Ceraunus"
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
   - Missionary

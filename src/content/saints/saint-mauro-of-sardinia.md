@@ -1,7 +1,7 @@
 ---
 name: "Saint Mauro of Sardinia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Mauro of Sardinia"
 summary: "Married to Saint Beneria of Sardinia. Martyr."
 died: "beheaded in Sardinia, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 10
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

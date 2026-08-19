@@ -1,7 +1,7 @@
 ---
 name: "Saint Arethas"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Arethas"
 summary: "Martyred in the persecutions of Dhu Nowas (Dunawan), King of the Hymerites along with a large number of fellow Christians whose names have not come down to us."
 image: "http://catholicsaints.info/wp-content/uploads/Arethas_al-Haarith_and_over_4000_with_him_Menologion_of_Basil_II.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

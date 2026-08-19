@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antero Mateo García"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Antero Mateo García"
 summary: "Layman in the archdiocese of Barcelona, Spain. Married to Trabadelo Malagon in 1902; they eventually had eight children, two of whom entered religious orders. Antero began working for Northern Railways in Barcelona in 1916. He and his wife joined the Lay Dominicans, and worked wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antero-Mateo-García.jpg"
 birthYear: 1875
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

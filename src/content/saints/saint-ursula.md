@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursula"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Ursula"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Crivelli_041.jpg/960px-Carlo_Crivelli_041.jpg"
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Dominican"
 patronage:
@@ -32,5 +31,5 @@ patronage:
   - "British Virgin Islands"
   - "Campogalliano, Italy"
   - "Cologne, Germany"
-martyr: true
+martyr: false
 ---

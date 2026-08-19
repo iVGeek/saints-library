@@ -1,7 +1,7 @@
 ---
 name: "Saint Autbert of Landevennec"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Autbert of Landevennec"
 summary: "Benedictine monk at Landevennec, Brittany, France. Chaplain to the nuns of Saint Sulpice, Rheims, France."
 region: "France"
 feastDay:

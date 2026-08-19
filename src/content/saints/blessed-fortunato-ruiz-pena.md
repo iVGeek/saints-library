@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fortunato Ruiz Peña"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Fortunato Ruiz Peña"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Fortunato Andrés"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

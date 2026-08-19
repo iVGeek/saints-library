@@ -1,7 +1,7 @@
 ---
 name: "Saint Eric of Sweden"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Eric of Sweden"
 summary: "King of Sweden. Defended his country from Finnish invasions. Codified Swedish law under Gospel principles. Used his throne to spread the Gospel through his kingdom. Built the first large church in Sweden at Old Uppsala. Murdered by conspiratorial, anti-Christian Swedish nobles; m"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eric-of-Sweden.jpg"
 searchAliases:
@@ -17,10 +17,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "farmers"
   - "—"

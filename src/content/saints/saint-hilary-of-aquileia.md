@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilary of Aquileia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Hilary of Aquileia"
 summary: "Bishop of Aquileia, Italy. His prayers would cause the collapse of pagan temples and idols. Martyred in the persecutions of Numerian by order of the prefect Beronius."
 searchAliases:
   - "Elaro"
@@ -16,7 +16,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

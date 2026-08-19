@@ -1,7 +1,7 @@
 ---
 name: "Venerable Eleonora Ramírez Montalvo Landi"
 honorific: Venerable
-title: "Monk, Religious, Pope"
+title: "Venerable Eleonora Ramírez Montalvo Landi"
 summary: "Married. Widow. Founder of the Minim Sisters Handmaids of the Holy Trinity."
 birthYear: 1602
 deathYear: 1659

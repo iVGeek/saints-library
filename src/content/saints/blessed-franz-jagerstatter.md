@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franz Jägerstätter"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Blessed Franz Jägerstätter"
 summary: "Born to Rosalia Huber and Franz Bachmeier, servants too poor to get married. His father died in World War I when the boy was less than ten years old; his mother then married local famer Heinrich J&auml;gerst&auml;tter who adopted Franz. Franz had little formal education, but his"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Franz_J%C3%A4gerst%C3%A4tter_ID_photo_%284x5_cropped%29.jpg/960px-Franz_J%C3%A4gerst%C3%A4tter_ID_photo_%284x5_cropped%29.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Franciscan"
 martyr: true

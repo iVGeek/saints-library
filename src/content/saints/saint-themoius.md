@@ -1,7 +1,7 @@
 ---
 name: "Saint Themoius"
 honorific: Saint
-title: "Martyr"
+title: "Saint Themoius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Themius"
@@ -9,8 +9,7 @@ feastDay:
   month: 2
   day: 4
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

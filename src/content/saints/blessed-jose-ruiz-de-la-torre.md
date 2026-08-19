@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Ruiz de la Torre"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Ruiz de la Torre"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Candido Alberto"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

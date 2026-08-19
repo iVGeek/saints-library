@@ -1,7 +1,7 @@
 ---
 name: "Saint Adausia of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Adausia of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Adavisa"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

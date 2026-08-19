@@ -1,7 +1,7 @@
 ---
 name: "Saint Aprus of Toul"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Aprus of Toul"
 summary: "Lawyer, known for his skill, integrity and devotion to justice. He gave up his profession to became a priest. Bishop of Toul, France."
 searchAliases:
   - "Aper"

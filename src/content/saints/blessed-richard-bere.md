@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Bere"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed Richard Bere"
 summary: "Nephew of Richard Bere, abbot of Glastonbury. Educated at the Glastonbury abbey school and then Oxford. He refused an arranged marriage, and studied law at the Chancery in London. He then abandoned the law and  in 1523 became a Carthusian choir monk at the London Charterhouse. Im"
 image: "http://catholicsaints.info/wp-content/uploads/img-Carthusian-Martyrs1.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

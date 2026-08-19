@@ -1,7 +1,7 @@
 ---
 name: "Saint Heradius of Noyon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heradius of Noyon"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Heraclio"
@@ -15,7 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

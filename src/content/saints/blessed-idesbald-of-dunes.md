@@ -1,7 +1,7 @@
 ---
 name: "Blessed Idesbald of Dunes"
 honorific: Blessed
-title: "Priest, Monk, Pope"
+title: "Blessed Idesbald of Dunes"
 summary: "Court page and courtier to the Count of Flanders, Belgium. Canon priest of Veurne, Belgium in 1135, a position he resigned to become a Cistercian monk at the abbey of Our Lady of the Dunes on the sand hills between Dunkirk and Nieuport. Abbot there for 12 years."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Idesbald-of-Dunes.jpg"
 birthYear: 1095
@@ -17,7 +17,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
 patronage:
   - "against fever"
   - "against rheumatism"

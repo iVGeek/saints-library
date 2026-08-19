@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Oldo"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed James Oldo"
 summary: "The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three children. The death of a friend to disease"
 searchAliases:
   - "James of Oldo"
@@ -22,13 +22,10 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three children. The death of a friend to disease brought his own mortality to James' attention and matured him slightly. Then one day a travelling reproduction of the Holy Sepulchre came to his home town of Lodi, Italy. As a joke, James lay down on it to compare his height to Christ's. While lying there, he had an almost instantaneous conversion experience.

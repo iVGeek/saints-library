@@ -1,7 +1,7 @@
 ---
 name: "Saint Rasso of Grafrath"
 honorific: Saint
-title: "Priest, Soldier"
+title: "Saint Rasso of Grafrath"
 summary: "Born to the German nobility, he became a Count (Graf); he was an unusually large man for the time, standing at least 6 foot 6. As a soldier, he fought invading Hungarians. Pilgrim to the Holy Lands and then to Rome, Italy; along the way he collected relics, which were later enshr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rasso-of-Grafrath.jpg"
 searchAliases:

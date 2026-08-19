@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bogner Etelka"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Bogner Etelka"
 summary: "Visitation nun."
 searchAliases:
   - "Mária Margit"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

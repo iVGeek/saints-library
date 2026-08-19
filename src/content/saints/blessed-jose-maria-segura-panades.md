@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Segura Panadés"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Segura Panadés"
 summary: "Studied at the seminary of Valencia, Spain, and ordained a priest in the archdiocese of Valencia on 12 June 1921. Co-adjutor of Adzaneta de Albaida. Co-adjutor in Santa María de Onteniente. Noted for his work in youth ministry. Martyred in the Spanish Civil War for the crime of b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Segura-Panadés.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

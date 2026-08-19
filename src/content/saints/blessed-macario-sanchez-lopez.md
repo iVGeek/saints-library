@@ -1,7 +1,7 @@
 ---
 name: "Blessed Macario Sánchez López"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Macario Sánchez López"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

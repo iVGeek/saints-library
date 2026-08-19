@@ -1,7 +1,7 @@
 ---
 name: "Saint Liberatus of Carthage"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Liberatus of Carthage"
 summary: "Martyred with his wife and children in the persecutions of the Arians; only the father's name has come down to us."
 searchAliases:
   - "Liberat"
@@ -13,7 +13,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

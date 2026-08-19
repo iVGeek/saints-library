@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan de Prunera"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Juan de Prunera"
 summary: "Mercedarian friar. Ransomed Christians who were enslaved by Muslims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Prunera.jpg"
 deathYear: 1448
@@ -12,8 +12,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

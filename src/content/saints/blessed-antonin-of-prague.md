@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonín of Prague"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonín of Prague"
 summary: "Franciscan Friar Minor novice. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-antonin-of-prague.jpg"
 birthYear: 1602
@@ -14,9 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

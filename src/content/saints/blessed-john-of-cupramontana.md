@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Cupramontana"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed John of Cupramontana"
 summary: "Benedictine Camaldolese monk-hermit who lived in a cave at Cupramontana, Ancona, Italy on Mount Massaccio."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Cupramontana.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Toda Juncosa"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Teresa Toda Juncosa"
 summary: "Nun Co-founded the Hermanas Carmelitas Teresas de San José (Teresian Carmelite Sisters of Saint Joseph)."
 searchAliases:
   - "Teresa of Saint Joseph"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

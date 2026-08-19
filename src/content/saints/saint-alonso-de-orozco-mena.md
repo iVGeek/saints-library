@@ -1,7 +1,7 @@
 ---
 name: "Saint Alonso de Orozco Mena"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Pope, Royalty, Missionary"
+title: "Saint Alonso de Orozco Mena"
 summary: "Son of the governor of a castle. Studied at Talavera de la Reina. Studied music and served as choir boy in the cathedral of Toledo, Spain for three years. Attended the University of Salamanca, Spain at age 14. Joined the Augustinians in his early 20's. Spiritual student of Saint"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Alonso_de_Orozco.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Augustinian"

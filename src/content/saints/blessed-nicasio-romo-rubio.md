@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicasio Romo Rubio"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicasio Romo Rubio"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

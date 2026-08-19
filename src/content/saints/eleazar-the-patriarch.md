@@ -1,7 +1,7 @@
 ---
 name: "Eleazar the Patriarch"
 honorific: Saint
-title: "Priest, Monk"
+title: "Eleazar the Patriarch"
 summary: "Third son of Old Testament Patriarch Aaron. Leader of the Jewish theocracy. With his brother Ithamar, he founded the Israelite priestly class. Old Testament patriarch."
 image: "http://catholicsaints.info/wp-content/uploads/img-Eleazar-the-Patriarch.jpg"
 searchAliases:

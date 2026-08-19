@@ -1,7 +1,7 @@
 ---
 name: "Blessed Everard Hanse"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Everard Hanse"
 summary: "Raised Protestant. Educated at Cambridge University. Anglican minister. A near-fatal illness caused him to re-examine his life and ministery, and with the support of his brother, William, he converted to Catholicism in 1568. Studied in Rheims, France, and was ordained on 25 March"
 deathYear: 1581
 born: "Northamptonshire, England"
@@ -14,11 +14,8 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

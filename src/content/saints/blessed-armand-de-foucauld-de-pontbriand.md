@@ -1,7 +1,7 @@
 ---
 name: "Blessed Armand de Foucauld de Pontbriand"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Armand de Foucauld de Pontbriand"
 summary: "Priest in the archdiocese of Arles, France. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

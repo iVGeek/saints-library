@@ -1,7 +1,7 @@
 ---
 name: "Saint Antioco Sabaita"
 honorific: Saint
-title: "Monk"
+title: "Saint Antioco Sabaita"
 summary: "Monk at the Saint Saba monastery near Bethlehem."
 deathYear: 630
 born: "Medosaga, Ankara, Galatia"

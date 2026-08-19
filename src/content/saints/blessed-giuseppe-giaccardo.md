@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuseppe Giaccardo"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty, Soldier"
+title: "Blessed Giuseppe Giaccardo"
 summary: "Oldest of five children born to farm workers Stefano and Maria Cagna; his mother was devoted to Our Lady of the Rosary. When financial troubles hit, his father worked as a butcher and sacristan, and Giuseppe spent his early years in a house adjacent to his parish church; at one p"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Giaccardo.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Benedictine"
 martyr: false

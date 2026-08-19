@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentius of Florence"
 honorific: Saint
-title: "Monk, Deacon"
+title: "Saint Crescentius of Florence"
 summary: "Sub-deacon in Florence, Italy. Spiritual student of Saint Zenobius and Saint Ambrose."
 deathYear: 396
 died: "c.396"

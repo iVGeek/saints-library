@@ -1,7 +1,7 @@
 ---
 name: "Saint Anna Pak A-Gi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Anna Pak A-Gi"
 summary: "Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 5
   day: 24
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

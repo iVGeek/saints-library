@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gaspar Kizaemon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gaspar Kizaemon"
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."
 deathYear: 1627
 born: "Arie, Nagasaki, Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

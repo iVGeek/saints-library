@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius Cornicularius"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Anastasius Cornicularius"
 summary: "Military tribune, a position known as cornicularius. He was so impressed and moved by the courage of Saint Aeapitus under torture for his faith that he announced, “The God of Aeapitus is my God.” He was immediately arrested and executed by order of Aurelian. Martyr."
 deathYear: 274
 died: "274 at Salone, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

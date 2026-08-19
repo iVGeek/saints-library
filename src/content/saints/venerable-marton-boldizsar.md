@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marton Boldizsár"
 honorific: Venerable
-title: "Virgin, Priest, Pope"
+title: "Venerable Marton Boldizsár"
 summary: "Discalced Carmelite priest."
 searchAliases:
   - "Marcell of the Virgin of Carmel"
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

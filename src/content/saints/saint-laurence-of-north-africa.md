@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurence of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Laurence of North Africa"
 summary: "One of a group of 22 martyrs. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

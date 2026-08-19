@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Lérida"
 honorific: Saint
-title: "Martyr, Monk, Religious, Royalty"
+title: "Saint Bernard of Lérida"
 summary: "Son of Almanzor, Muslim caliph of Lerida, Catalonia. Brother of Saint Mary and Saint Grace. Convert. Benedictine Cistercian monk at Poblet, taking the name Bernard. With his sisters, he tried to convert his brother Almanzor, who turned them over to Moorish authorities. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-of-Lerida.jpg"
 searchAliases:
@@ -14,10 +14,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Alcira, Valencia, Spain"

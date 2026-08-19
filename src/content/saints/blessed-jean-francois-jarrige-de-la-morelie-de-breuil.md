@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-François Jarrige de la Morelie de Breuil"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-François Jarrige de la Morelie de Breuil"
 summary: "Priest in the diocese of Limoges, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 birthYear: 1752
@@ -16,9 +16,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

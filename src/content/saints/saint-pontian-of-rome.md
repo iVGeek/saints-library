@@ -1,7 +1,7 @@
 ---
 name: "Saint Pontian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pontian of Rome"
 summary: "Martyred in the persecutions of Diocletian for ministering to Christian prisoners."
 deathYear: 303
 born: "Roman citizen"
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

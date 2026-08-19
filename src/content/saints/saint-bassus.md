@@ -1,7 +1,7 @@
 ---
 name: "Saint Bassus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Bassus"
 summary: "Son of Saint Catervus and Saint Severina. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg"
 searchAliases:
@@ -13,8 +13,7 @@ feastDay:
   month: 10
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

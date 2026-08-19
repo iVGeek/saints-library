@@ -1,7 +1,7 @@
 ---
 name: "Blessed Saintin Huré"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Saintin Huré"
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."
 searchAliases:
   - "Santino"
@@ -17,9 +17,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

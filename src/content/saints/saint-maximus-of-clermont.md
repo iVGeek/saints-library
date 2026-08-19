@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Clermont"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maximus of Clermont"
 summary: "Martyred by Teutonic barbarians led by Chrocas."
 deathYear: 264
 died: "c.264 in Clermont, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

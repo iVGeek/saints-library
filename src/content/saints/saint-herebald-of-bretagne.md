@@ -1,7 +1,7 @@
 ---
 name: "Saint Herebald of Bretagne"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Herebald of Bretagne"
 summary: "Eighth century hermit in Brittany."
 searchAliases:
   - "Herband"

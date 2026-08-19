@@ -2,7 +2,7 @@
 name: "Blessed Andreu Prats Barrufet"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Diari_de_Sessions_del_Parlament_de_Catalunya_DSPC-P_001-11.pdf/page1-960px-Diari_de_Sessions_del_Parlament_de_Catalunya_DSPC-P_001-11.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Andreu Prats Barrufet"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936
@@ -16,9 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

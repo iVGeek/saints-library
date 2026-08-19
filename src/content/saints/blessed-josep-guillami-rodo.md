@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Guillamí Rodo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Guillamí Rodo"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Romuald of Saint Catherine"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

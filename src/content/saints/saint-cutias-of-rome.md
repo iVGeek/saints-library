@@ -1,7 +1,7 @@
 ---
 name: "Saint Cutias of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cutias of Rome"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 295
 died: "295 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

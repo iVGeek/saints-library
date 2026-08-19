@@ -1,7 +1,7 @@
 ---
 name: "Saint Catherine of Palma"
 honorific: Saint
-title: "Virgin, Priest, Monk, Pope, Confessor"
+title: "Saint Catherine of Palma"
 summary: "Orphan who lived an unhappy childhood in the home of her paternal uncle. Felt a call to the religious life at age 15, but her confessor convinced her to wait a little. Domestic servant in Palma, Spain where she learned to read and write. Joined  the Canonesses of Saint Augustine"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CaterTomasXVIII.jpg/960px-CaterTomasXVIII.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "Valldemossa, Mallorca, Spain"

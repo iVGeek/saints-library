@@ -1,7 +1,7 @@
 ---
 name: "Saint Generosus of Poitou"
 honorific: Saint
-title: "Monk"
+title: "Saint Generosus of Poitou"
 summary: "Monk. Abbot of Saint-Jouin-de-Marnes, Poitou, France."
 deathYear: 682
 died: "c.682 of natural causes"

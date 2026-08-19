@@ -1,7 +1,7 @@
 ---
 name: "Saint Gonéri of Tréguier"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Gonéri of Tréguier"
 summary: "Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit at Tréguier, France. Helped bring Prince Alwand to Christianity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Goneri-of-Tréguier.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "against anxiety"
   - "against fever"

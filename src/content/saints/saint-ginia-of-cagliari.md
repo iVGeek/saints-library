@@ -1,7 +1,7 @@
 ---
 name: "Saint Ginia of Cagliari"
 honorific: Saint
-title: "Martyr"
+title: "Saint Ginia of Cagliari"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Cagliari, Sardinia, Italy"
@@ -11,8 +11,7 @@ feastDay:
   month: 10
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Vallombrosa"
 honorific: Blessed
-title: "Monk, Hermit, Royalty"
+title: "Blessed John of Vallombrosa"
 summary: "Benedictine Vallombrosan monk at Florence, Italy, taking the religious name John of the Holy Trinity. Developed a fascination with black magic, and began to study and practice it in secret, collecting occult and forbidden writings. Eventually found out and summoned before the abb"
 searchAliases:
   - "John of the Holy Trinity"
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joachim of Fiore"
 honorific: Blessed
-title: "Priest, Monk, Hermit, Royalty"
+title: "Blessed Joachim of Fiore"
 summary: "Born to a middle class family; his father was a notary. Page to the court of the Norman King Roger of Sicily. Pilgrim to Palestine. Priest. Benedictine Cistercian monk at Santa Maria della Sambucina Abbey near Luzzi, Italy, where he tried to reform the Order. Abbot at Santa Maria"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Joachim_of_Flora.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

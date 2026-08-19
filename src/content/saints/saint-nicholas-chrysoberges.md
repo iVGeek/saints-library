@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicholas Chrysoberges"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Nicholas Chrysoberges"
 summary: "Patriarch of Constantinople from 983."
 region: "Turkey"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan de Montesinos"
 honorific: Blessed
-title: "Martyr, Missionary"
+title: "Blessed Juan de Montesinos"
 summary: "Mercedarian friar. Missionary. Martyr."
 deathYear: 1619
 died: "shot with arrows in 1619"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 martyr: true
 ---

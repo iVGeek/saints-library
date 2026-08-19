@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard of Toulouse"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Bernard of Toulouse"
 summary: "Dominican friar. Opposed Albigensianism. Martyr."
 deathYear: 1320
 died: "tortured and sawn in half in 1320 by Albigensians"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Dominican"
 martyr: true

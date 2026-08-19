@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ines de Beniganim"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Royalty"
+title: "Blessed Ines de Beniganim"
 summary: "Born to a poor family, the daughter of Luigi and Vincenza Gomar. Her father died when Giuseppa was very young, and as a small girl she was known for a devotion to the Blessed Virgin Mary. Her uncle, who had become a subsititute father to her, tried to arrange a marriage for the g"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ines-de-Beniganim.jpg"
 searchAliases:
@@ -29,8 +29,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: false
 ---

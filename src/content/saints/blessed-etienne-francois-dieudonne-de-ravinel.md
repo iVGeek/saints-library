@@ -1,7 +1,7 @@
 ---
 name: "Blessed Étienne-François-Dieudonné de Ravinel"
 honorific: Blessed
-title: "Martyr, Monk, Deacon, Pope"
+title: "Blessed Étienne-François-Dieudonné de Ravinel"
 summary: "Deacon in the diocese of Nancy, France. One of the Martyrs of September."
 birthYear: 1769
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

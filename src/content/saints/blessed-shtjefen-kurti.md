@@ -1,7 +1,7 @@
 ---
 name: "Blessed Shtjefën Kurti"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Shtjefën Kurti"
 summary: "Studied in Albania, in Graz, Feldkirch and Innsbruck in Austria, and in Rome, Italy. Ordained a priest in Rome on 13 May 1924 for the archdiocese of Tiranë-Durrës, Albania. Parish priest in Skopje and Novoselo (in modern Macedonia and Kosovo) from 1921 to 1929. To escape persecut"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Shtjef%C3%ABn_Kurti.jpg"
 birthYear: 1898
@@ -16,11 +16,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

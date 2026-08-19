@@ -1,7 +1,7 @@
 ---
 name: "Saint Martin of Trier"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Martin of Trier"
 summary: "Tenth bishop of Trier, Germany."
 searchAliases:
   - "Martin of Treves"
@@ -13,10 +13,9 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Tenth bishop of Trier, Germany.

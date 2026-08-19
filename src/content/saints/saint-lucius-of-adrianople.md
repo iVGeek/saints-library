@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius of Adrianople"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Lucius of Adrianople"
 summary: "Bishop of Adrianople. Spoke zealously against Arianism at the Council of Sardica in 343; the feelings against orthodox Catholics were so strong that the Arian emperor Constantius agreed that Lucius was under the protection of Pope Julius before the bishop could return home after"
 searchAliases:
   - "Lucius of Edirne"
@@ -18,10 +18,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Fabrician of Toledo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fabrician of Toledo"
 summary: "Martyr."
 searchAliases:
   - "Fabricianus"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

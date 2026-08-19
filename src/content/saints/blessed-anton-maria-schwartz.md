@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anton Maria Schwartz"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Anton Maria Schwartz"
 summary: "Ordained in 1875 in the archdiocese of Vienna. Founder of the Congregation of Christian Workers of Saint Joseph Calasanz at Vienna on 24 November 1889."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pfarrkirche_Liesing_-_Schwartz.jpg/960px-Pfarrkirche_Liesing_-_Schwartz.jpg"
 birthYear: 1852
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

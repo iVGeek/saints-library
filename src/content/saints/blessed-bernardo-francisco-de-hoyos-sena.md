@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernardo Francisco de Hoyos Seña"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Royalty"
+title: "Blessed Bernardo Francisco de Hoyos Seña"
 summary: "Son of Don Manuel de Hoyos and Doña Francisca de Seña. Baptized at 16 days; he was named for Saint Bernard of Clairvaux and Saint Francis Xavier. Confirmed at age nine. Began studying at the Jesuit College at Medina del Campo, Spain at age 10. Joined the Jesuit novitiate on 11 Ju"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardo-Francisco-de-Hoyos-Seña.jpg"
 birthYear: 1711
@@ -18,8 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

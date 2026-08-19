@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Morales Sedeño"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Morales Sedeño"
 summary: "Dominican priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Morales-Sedeno.jpg"
 birthYear: 1567
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Roman Oleksandr Maria Sheptyts'kyi"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Soldier"
+title: "Venerable Roman Oleksandr Maria Sheptyts'kyi"
 summary: "Born to the aristocracy, he spent a life in religion, poverty and service to his flock. Educated in Krakow, Poland. Soldier in the Austro-Hungarian army, but was forced to leave for health reasons. Received a doctorate in civil law in 1888. Member of the Basilian Order of Saint J"
 image: "http://catholicsaints.info/wp-content/uploads/img-Archbishop-Andrzej-Szeptycki.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Soldier
 martyr: false
 ---

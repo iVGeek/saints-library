@@ -1,7 +1,7 @@
 ---
 name: "Saint Zosimus of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Zosimus of Antioch"
 summary: "Deacon. Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

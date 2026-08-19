@@ -1,7 +1,7 @@
 ---
 name: "Saint John Maria Muzeyi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint John Maria Muzeyi"
 summary: "Mbogo clan. Member of the Ugandan royal court. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions, the last one to die in that persecution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   month: 1
   day: 27
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

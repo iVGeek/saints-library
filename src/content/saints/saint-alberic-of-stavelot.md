@@ -1,7 +1,7 @@
 ---
 name: "Saint Alberic of Stavelot"
 honorific: Saint
-title: "Monk"
+title: "Saint Alberic of Stavelot"
 summary: "Monk. Abbot of Stavelot-Malmédy Abbey in Belgium."
 deathYear: 779
 died: "779"

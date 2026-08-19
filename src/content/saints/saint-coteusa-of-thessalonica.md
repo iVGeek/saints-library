@@ -1,7 +1,7 @@
 ---
 name: "Saint Coteusa of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Coteusa of Thessalonica"
 summary: "Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

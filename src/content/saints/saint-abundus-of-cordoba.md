@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundus of Cordoba"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abundus of Cordoba"
 summary: "Imprisoned and executed for refusing to convert from Christianity to Islam during the Moorish occupation of Spain."
 searchAliases:
   - "Habundus"
@@ -12,8 +12,7 @@ feastDay:
   month: 9
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

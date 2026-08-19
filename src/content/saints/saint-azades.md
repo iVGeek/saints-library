@@ -1,7 +1,7 @@
 ---
 name: "Saint Azades the Eunuch"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Azades the Eunuch"
 summary: "Eunuch in the court of King Sapor II of Persia, and one of the king's favourites. Convert to Christianity. Martyred in the persecutions of Sapor II."
 searchAliases:
   - "Azat"
@@ -14,9 +14,7 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

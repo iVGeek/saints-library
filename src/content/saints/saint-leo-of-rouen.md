@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Rouen"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Leo of Rouen"
 summary: "Raised in a pious family. Bishop of Rouen, France. Evangelist in Navarre and the Basque regions. Martyred by Saracen pirates. Legend says that a spring of water sprang up where he died, and that his body carried his severed head back to the place of his last sermon before finally"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leo-of-Rouen.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 religiousOrder: "Franciscan"

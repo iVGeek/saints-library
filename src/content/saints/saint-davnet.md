@@ -1,7 +1,7 @@
 ---
 name: "Saint Davnet"
 honorific: Saint
-title: "Monk"
+title: "Saint Davnet"
 summary: "Sixth century woman who early in life dedicated herself to God. Founded a monastery in the area of her village."
 searchAliases:
   - "Damhnat"

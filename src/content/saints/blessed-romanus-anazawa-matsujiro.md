@@ -1,7 +1,7 @@
 ---
 name: "Blessed Romanus Anazawa Matsujiro"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Romanus Anazawa Matsujiro"
 summary: "Child in the diocese of Niigata, Japan. Son of Blessed Crescentia Anazawa and Blessed Antonius Anazawa Han'emon. Martyr."
 birthYear: 1615
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

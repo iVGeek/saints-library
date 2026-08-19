@@ -1,7 +1,7 @@
 ---
 name: "Blessed Burchard of Bellevaux"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Burchard of Bellevaux"
 summary: "Cistercian monk where he was a spiritual student of Saint Bernard. Abbot of Balerne Abbey in Franche-Comté, France in 1136, the first after its conversion to a Cistercian house. Abbot of Notre Dame of Bellevaux Abbey in modern Cirey, France c.1157 where he served the rest of his"
 searchAliases:
   - "Burchard of Bellevaus"

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Jan Pietraszko"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Jan Pietraszko"
 summary: "Ordained a priest in the archdiocese of Kraków, Poland on 5 April 1936. Auxiliary Bishop of Kraków and Titular Bishop of Turrisblanda on 23 November 1962."
 birthYear: 1911
 deathYear: 1988
@@ -18,7 +18,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Jan_Pietraszko_c.194
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

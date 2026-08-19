@@ -1,7 +1,7 @@
 ---
 name: "Saint Pandwyna"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Pandwyna"
 summary: "Nun. The church in Eltisley, England is dedicated to her."
 born: "Irish"
 region: "Ireland"

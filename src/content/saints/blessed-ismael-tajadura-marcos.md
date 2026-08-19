@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ismael Tajadura Marcos"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Ismael Tajadura Marcos"
 summary: "Baptized at the age of three days, and Confirmed in 1904. He joined the Congregation of Saint Peter “ad Vincula”, making his profession in 1919, and serving as a nurse. In the Spanish Civil War, friends hid him, and he went through several arrests and interrogations. He tried to"
 searchAliases:
   - "Estanislao Kostka"
@@ -18,10 +18,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

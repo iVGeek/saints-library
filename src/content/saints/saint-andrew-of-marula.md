@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew of Marula"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Andrew of Marula"
 summary: "Martyr."
 searchAliases:
   - "Andreas"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

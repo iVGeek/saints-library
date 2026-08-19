@@ -1,7 +1,7 @@
 ---
 name: "Saint Waltheof of Melrose"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Waltheof of Melrose"
 summary: "Born to the English nobility, the second son of Simon, Earl of Huntingdon, and Maud (Matilda), grand-niece of William the Conqueror. Grandson of Saint Waldef of Northumbria. Even as a child, Waltheof felt drawn to churches, and later to the religious life. Following his father's"
 searchAliases:
   - "Walthen"
@@ -23,7 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Augustinian"
 patronage:

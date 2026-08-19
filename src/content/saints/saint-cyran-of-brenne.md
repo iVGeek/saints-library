@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyran of Brenne"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Cyran of Brenne"
 region: "France"
 feastDay:
   month: 12

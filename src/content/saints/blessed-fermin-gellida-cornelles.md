@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fermín Gellida Cornelles"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Fermín Gellida Cornelles"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alejandro Juan"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

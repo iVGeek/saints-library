@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius of Constantinople"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Lucius of Constantinople"
 summary: "Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and Laudicius. Martyr."
 died: "Constantinople"
 region: "Turkey"
@@ -10,7 +10,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

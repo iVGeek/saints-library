@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto de Los Ángeles"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jacinto de Los Ángeles"
 summary: "Married layman in the archdiocese of Antequera-Oaxaca, Mexico. Catechist. Martyred for refusing to worship idols."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Oaxaca.jpg"
 birthYear: 1660
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

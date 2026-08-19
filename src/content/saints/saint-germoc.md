@@ -1,7 +1,7 @@
 ---
 name: "Saint Germoc"
 honorific: Saint
-title: "Monk"
+title: "Saint Germoc"
 summary: "Sixth century Irish chieftain. Brother of Saint Breaca. Monk. Late in life he moved to Cornwall, England."
 searchAliases:
   - "Gerome"

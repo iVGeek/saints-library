@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicholas Studites"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Nicholas Studites"
 summary: "As a young man Nicholas studied at the Studius monastery in Constantinople, and became a monk at age 18. He was exiled during the years of the iconoclast persecutions. Abbot of his house upon his return. When emperor Michael replaced Saint Ignatius of Constantinople with Photius"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Studites.jpg"
 deathYear: 863

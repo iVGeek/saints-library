@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ismael Escrihuela Esteve"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Soldier"
+title: "Blessed Ismael Escrihuela Esteve"
 summary: "Layman in the archdiocese of Valencia, Spain. Married to Josefa Grau, and the father of three. Member of Catholic Action. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ismael-Escrihuela-Esteve.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

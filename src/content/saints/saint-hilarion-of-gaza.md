@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilarion of Gaza"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Hilarion of Gaza"
 summary: "Raised in a pagan family. Converted to Christianity while studying at Alexandria, Egypt as a teenager. Studied with Saint Anthony the Great in the Egyptian desert in 306. He then gave away his wealth, and introduced the eremitical life in the Gaza region of Palestine. Supported h"
 image: "http://catholicsaints.info/wp-content/gallery/saint-hilarion-of-gaza/saint-hilarion-of-gaza.jpg"
 birthYear: 291

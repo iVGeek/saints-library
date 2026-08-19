@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Nieves Sánchez y Fernández"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Nieves Sánchez y Fernández"
 summary: "Member of the Daughters of Mary of the Pious Schools (Escolapias)."
 searchAliases:
   - "Sister Maria Nieves of the Holy Family"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

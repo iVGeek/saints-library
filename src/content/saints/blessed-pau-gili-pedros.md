@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Gili Pedrós"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pau Gili Pedrós"
 summary: "Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Gili-Pedrós.jpg"
 birthYear: 1912
@@ -16,10 +16,8 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.

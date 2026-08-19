@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Proculus of Pozzuoli"
 summary: "Deacon of the church of Pozzuoli, Italy. Imprisoned and martyred in the persecutions of Diocletian for objecting to the deaths of other martyrs."
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Martyrdom_of_St_Januarius_in_the_Amphitheatre_at_Pozzuoli.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Meléndez Sánchez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio Meléndez Sánchez"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Martiniano"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

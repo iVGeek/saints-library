@@ -1,7 +1,7 @@
 ---
 name: "Saint Gavinus of Sassari"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Gavinus of Sassari"
 summary: "Imperial Roman soldier executed for his faith in the persecutions of Diocletian. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gavinus-of-Sassari.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "in Italy\n\nCamposano"

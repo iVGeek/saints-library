@@ -1,7 +1,7 @@
 ---
 name: "Saint John Rigby"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint John Rigby"
 summary: " Imprisoned at Newgate for his faith, and for refusing to acknowledge the Queen as head of the Church. Did time with Saint John Jones. Tortured and executed by order of Ju Lancashire gentleman. Raised Protestant but converted to Catholicism. Converted others, including his father."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-John-Rigby.jpg"
 birthYear: 1570
@@ -16,10 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "bachelors"
   - "torture victims"

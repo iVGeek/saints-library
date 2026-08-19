@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo of Ripafratta"
 honorific: Blessed
-title: "Priest, Deacon, Pope, Soldier, Confessor"
+title: "Blessed Lorenzo of Ripafratta"
 summary: "Born to the Italian nobility, Lorenzo's family had a military history and a duty to protect the outer defenses of the city of Pisa, Italy. Lorenzo, however, was drawn to the religious life, began studying for the priesthood, and while a deacon, he joined the Dominicans at the con"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-of-Ripafratta.jpg"
 birthYear: 1373
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Deacon
-  - Pope
   - Soldier
   - Confessor
 religiousOrder: "Dominican"

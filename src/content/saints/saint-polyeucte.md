@@ -1,7 +1,7 @@
 ---
 name: "Saint Polyeucte"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Polyeucte"
 summary: "Pagan soldier in the 12th imperial Roman legion assigned to Armenia in the 3rd century. Friend of Saint Nearchus who brought him to the faith. Ordered to offer a sacrifice of incense to the emperor as a god, Polyeucte refused. Martyr."
 feastDay:
   month: 1
@@ -9,7 +9,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Polyeuctus_of_Meletine_in_Armenia_%28Menologion_of_Basil_II%29.jpg/960px-Polyeuctus_of_Meletine_in_Armenia_%28Menologion_of_Basil_II%29.jpg"
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Boniface of Carthage"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Royalty"
+title: "Saint Boniface of Carthage"
 summary: "Monk. Deacon. Martyred in the persecutions of the Arian King Hunneric."
 deathYear: 483
 died: "483"
@@ -11,10 +11,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: true
 ---

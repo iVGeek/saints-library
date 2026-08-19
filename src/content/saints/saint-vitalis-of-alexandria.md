@@ -1,7 +1,7 @@
 ---
 name: "Saint Vitalis of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vitalis of Alexandria"
 summary: "Martyr. No other information has survived."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

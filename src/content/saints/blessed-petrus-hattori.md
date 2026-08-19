@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Hattori"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Petrus Hattori"
 summary: "Young son of Blessed Ioannes Hattori Jingoro. Martyr."
 birthYear: 1604
 deathYear: 1609
@@ -15,8 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

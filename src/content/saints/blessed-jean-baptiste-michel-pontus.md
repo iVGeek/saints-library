@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste-Michel Pontus"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Baptiste-Michel Pontus"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1763
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

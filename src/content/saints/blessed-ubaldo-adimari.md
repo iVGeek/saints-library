@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ubaldo Adimari"
 honorific: Blessed
-title: "Priest, Pope, Soldier"
+title: "Blessed Ubaldo Adimari"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg"
 searchAliases:
   - "Ubaldo da Borgo San Sepolcro"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Soldier
 martyr: false
 ---

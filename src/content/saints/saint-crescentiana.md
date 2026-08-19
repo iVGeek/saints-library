@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentiana"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescentiana"
 summary: "Martyr."
 died: "5th century Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

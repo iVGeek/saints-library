@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre Monoculus"
 honorific: Blessed
-title: "Monk, Pope, Royalty"
+title: "Blessed Pierre Monoculus"
 summary: "Born to the Frankish nobility, Pierre was drawn to religious life as a youth, and joined the Cistercians, becoming a monk at the Abbey of Notre-Dame d'Igny, France. Prior of Igny in 1155. Chosen abbot of Abbaye de la Valroy in modern Saint-Quentin-le-Petit, France in 1164; while"
 searchAliases:
   - "Pierre le Borgne"
@@ -22,8 +22,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
-  - Royalty
 martyr: false
 ---
 

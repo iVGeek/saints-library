@@ -1,7 +1,7 @@
 ---
 name: "Blessed Max Josef Metzger"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Max Josef Metzger"
 summary: "Ordained a priest of the archdiocese of Freiburg im Breisgau, Germany on 5 July 1911. Writer, poet, and from 1921 to 1924 served as editor of the Esperanto magazine Katolika Mondo. Founded the Secular Institute Societas Christi Regis (Christ the King Society) charitable organizat"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Max-Josef-Metzger.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

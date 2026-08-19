@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Lycopolis"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Martyrs of Lycopolis"
 summary: "Five foot soldiers and their commander who were martyred for their faith by order of the imperial Roman prefect Arriano during the persecutions of Decius."
 died: "Lycopolis, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

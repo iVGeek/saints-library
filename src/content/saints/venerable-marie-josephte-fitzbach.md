@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marie-Josephte Fitzbach"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Marie-Josephte Fitzbach"
 summary: "Born to a poor family, Marie received no education and left home at age 13 to work as a domestic servant in Quebec City; she spent part of her pay for a seminarian to teach her to reading, writing and arithmetic. Marie felt drawn to religious life, but when her employer's wife di"
 searchAliases:
   - "Marie of the Sacred Heart"
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Marie-Josephte_Fitzbach.jpg"
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignace-Alexandre-Joseph Cardon"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty, Soldier"
+title: "Blessed Ignace-Alexandre-Joseph Cardon"
 summary: "Benedictine monk, making his profession on 4 August 1782 at the monastery of San Mauro in Saint-Faron de Meaux, France. Being opposed to the Civil Constitution of the Clergy imposed during the French Revolution, Brother Simèon-Marie fled France in 1795 and became a Cistercian pri"
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
 religiousOrder: "Benedictine"
 martyr: true

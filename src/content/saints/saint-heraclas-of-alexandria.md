@@ -1,7 +1,7 @@
 ---
 name: "Saint Heraclas of Alexandria"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Heraclas of Alexandria"
 summary: "Brother of Saint Plutarch of Alexandria. Spiritual student of Origen. Succeeded Origen as the head of the catechetical school at Alexandria, Egypt. Patriarch of Alexandria in 231."
 searchAliases:
   - "Eracla"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Sutton"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Robert Sutton"
 summary: "Layman martyr."
 deathYear: 1588
 born: "Kegworth, Leicestershire, England"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

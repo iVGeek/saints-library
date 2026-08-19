@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques Friteyre-Durvé"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jacques Friteyre-Durvé"
 summary: "Educated by the Jesuits at Boillons, France. Entered the Jesuit novitiate in Toulouse, France in 1742. Priest. Taught literature and philosophy at several schools. Noted preacher. When the persecution of the Church began in the French Revolution, Father Jacques disguised himself"
 birthYear: 1725
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

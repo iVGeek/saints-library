@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillaume Répin"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Guillaume Répin"
 summary: "Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillaume-Répin.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

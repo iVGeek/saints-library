@@ -1,7 +1,7 @@
 ---
 name: "Saint Rogatian of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Rogatian of Rome"
 summary: "Martyr. No other information has survived."
 deathYear: 212
 died: "c.212 in Rome, Italy"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

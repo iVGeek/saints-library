@@ -2,7 +2,7 @@
 name: "Blessed Alejandro Casare Menéndez"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lo_mejor_de_los_dados-_-_episodio_dom%C3%A9stico%2C_original_en_un_acto_y_en_verso_%28IA_lomejordelosdado469anto%29.pdf/page1-500px-Lo_mejor_de_los_dados-_-_episodio_dom%C3%A9stico%2C_original_en_un_acto_y_en_verso_%28IA_lomejordelosdado469anto%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Deacon, Pope"
+title: "Blessed Alejandro Casare Menéndez"
 summary: "Franciscan Capuchin deacon. Martyred in the Spanish Civil War."
 searchAliases:
   - "José of Chauchina"
@@ -18,9 +18,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Deacon
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

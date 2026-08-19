@@ -1,7 +1,7 @@
 ---
 name: "Saint Laureatus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Laureatus of Rome"
 summary: "Martyred in the persecutions of Valerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Laureato.jpg"
 deathYear: 258
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 8
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "against cholera (legend says that a procession of his relics ended a cholera epidemic in the town of Castelpoto, Italy)"
   - "Castelpoto, Italy"

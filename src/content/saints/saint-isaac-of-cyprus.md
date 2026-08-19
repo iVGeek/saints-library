@@ -1,7 +1,7 @@
 ---
 name: "Saint Isaac of Cyprus"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Isaac of Cyprus"
 summary: "Bishop in Cyprus. Martyr. No other information has survied."
 searchAliases:
   - "Isacius"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

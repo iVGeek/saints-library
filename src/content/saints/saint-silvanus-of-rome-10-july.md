@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Silvanus of Rome"
 summary: "Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the boy was very young. Martyred along with his whole family in the persecutions of Emperor Antoninus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

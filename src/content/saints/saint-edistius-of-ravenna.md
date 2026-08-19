@@ -1,7 +1,7 @@
 ---
 name: "Saint Edistius of Ravenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Edistius of Ravenna"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 303
 died: "c.303 in Ravenna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

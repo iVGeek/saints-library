@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapitus of Synnada"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Agapitus of Synnada"
 summary: "Third century bishop of Synnada, Phrygia."
 feastDay:
   month: 3

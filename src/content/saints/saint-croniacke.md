@@ -1,7 +1,7 @@
 ---
 name: "Saint Croniacke"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Croniacke"
 summary: "Benedictine monk in northern Scotland."
 searchAliases:
   - "Cro-niacke"
@@ -13,11 +13,10 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk in northern Scotland.

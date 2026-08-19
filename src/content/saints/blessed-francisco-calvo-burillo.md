@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Calvo Burillo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Calvo Burillo"
 summary: "Member of the Dominicans, professed in the Order on 5 April 1898. Studied at the Dominican convents of Padron and Corias in Asturias, Spain, and later at university in Barcelona, Spain. Ordained a priest in 1905 in Salamanca, Spain. Teacher for several years in Oviedo, Spain. Ass"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Calvo-Burillo.jpg"
 birthYear: 1881
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

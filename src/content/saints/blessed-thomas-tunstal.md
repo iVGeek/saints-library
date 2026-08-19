@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Tunstal"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Thomas Tunstal"
 summary: "Benedictine. Studied at the seminary in Douai, France. Priest. He returned to England to minister to covert Catholics, using false names to hide from the authorities. Martyred for the crime of priesthood in the persecutions of King James I."
 searchAliases:
   - "Thomas Helmes"
@@ -17,10 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

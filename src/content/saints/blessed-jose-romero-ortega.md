@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Romero Ortega"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Romero Ortega"
 summary: "The son of a tailor, the brother of Blessed Francisco Romero Ortega, after studies at the seminary of San Indalecio de Almería, José was ordained a priest in the diocese of Almería, Spain in December 1899. Chaplain of the hospital run by the Daughters of Charity. Parish priest in"
 birthYear: 1875
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

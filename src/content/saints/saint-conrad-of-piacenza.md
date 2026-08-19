@@ -1,7 +1,7 @@
 ---
 name: "Saint Conrad of Piacenza"
 honorific: Saint
-title: "Bishop, Priest, Pope, Hermit"
+title: "Saint Conrad of Piacenza"
 summary: "Born to the nobility. Married to Euphrosyne, the daughter of a nobleman; the two led a pious life in the world. One day while hunting, Conrad ordered attendants to set fire to some brush in order to flush out the game. A strong wind carried the flames to nearby fields, forests, t"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/San_Corado_nella_Cattedrale_di_Noto.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 patronage:

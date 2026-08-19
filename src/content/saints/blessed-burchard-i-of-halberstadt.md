@@ -1,7 +1,7 @@
 ---
 name: "Blessed Burchard I of Halberstadt"
 honorific: Blessed
-title: "Bishop, Pope, Royalty"
+title: "Blessed Burchard I of Halberstadt"
 summary: "Son of Henry of Schweinfurt, Margrave of Nordgau in Bavaria, Germany, and Gerberga von Henneberg, a daughter of Count Otto II. Studied at the convent school of Saint Emmeram in Regensburg, Germany. Secular politician. Chancellor to emperor Conrad II in 1032. Even working in the i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Burchard-I-von-Halberstadt.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Moses of Arabia"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Moses of Arabia"
 summary: "Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert."
 deathYear: 372
 died: "372"

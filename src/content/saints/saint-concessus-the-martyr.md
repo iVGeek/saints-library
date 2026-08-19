@@ -1,7 +1,7 @@
 ---
 name: "Saint Concessus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Concessus the Martyr"
 summary: "Martyr. No other details are known."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

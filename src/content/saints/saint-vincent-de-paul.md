@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent de Paul"
 honorific: Saint
-title: "Confessor"
+title: "Saint Vincent de Paul"
 summary: " Taken capti Born to a peasant family. A highly intelligent youth, Vincent spent four years with the Franciscan friars at Acq, France getting an education. Tutor to children of a gentlemen in Acq. He began divinity studies in 1596 at the University of Toulouse. Ordained at age 20."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Simon_Fran%C3%A7ois_de_Tours_-_Portrait_Vincent_de_Paul_%284x5_cropped%29.jpeg/960px-Simon_Fran%C3%A7ois_de_Tours_-_Portrait_Vincent_de_Paul_%284x5_cropped%29.jpeg"
 birthYear: 1581

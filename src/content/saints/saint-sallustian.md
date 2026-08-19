@@ -1,7 +1,7 @@
 ---
 name: "Saint Sallustian of Sardinia"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Sallustian of Sardinia"
 summary: "Hermit in Sardinia."
 searchAliases:
   - "Sallustianus"
@@ -11,10 +11,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Hermit in Sardinia.

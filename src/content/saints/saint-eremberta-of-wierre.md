@@ -1,7 +1,7 @@
 ---
 name: "Saint Eremberta of Wierre"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Eremberta of Wierre"
 summary: "Niece of Saint Wulmar. Seventh-century nun. Abbess of Wierre-aux-Bois Abbey in France which Wulmar built for her."
 region: "France"
 feastDay:

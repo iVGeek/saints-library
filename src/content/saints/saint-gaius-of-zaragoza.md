@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Zaragoza"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gaius of Zaragoza"
 summary: "Martyr."
 searchAliases:
   - "Caio"
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

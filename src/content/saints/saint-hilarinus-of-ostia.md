@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilarinus of Ostia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Hilarinus of Ostia"
 deathYear: 361
 died: "scourged to death in 361 at Ostia, Italy"
 deathPlace: "Italy"
@@ -11,9 +11,8 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---

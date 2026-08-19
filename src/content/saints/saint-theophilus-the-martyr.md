@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus the Martyr"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Theophilus the Martyr"
 summary: "Deacon. Martyr."
 born: "African"
 died: "burned to death in a furnace in Libya"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

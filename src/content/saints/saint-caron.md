@@ -1,7 +1,7 @@
 ---
 name: "Saint Caron"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Caron"
 summary: "Bishop. A church at Tregaron, Wales is named for him. No other information has survived."
 region: "England"
 feastDay:

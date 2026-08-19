@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudiosus of Salerno"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gaudiosus of Salerno"
 summary: "Seventh century bishop of Salerno, Italy."
 searchAliases:
   - "Gaudioso"

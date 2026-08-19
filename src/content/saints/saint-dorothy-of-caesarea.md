@@ -1,7 +1,7 @@
 ---
 name: "Saint Dorothy of Caesarea"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Dorothy of Caesarea"
 summary: "Apochryphal martyr whose story has been beautifully told, and was popular for many years. Having made a personal vow of virginity, she refused to marry, or to sacrifice to idols. She was tried, tortured, and sentenced to death for her faith by the prefect Sapricius during the per"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dorothy-of-Caesarea.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

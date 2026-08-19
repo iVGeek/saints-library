@@ -1,7 +1,7 @@
 ---
 name: "Saint Pharaïldis of Ghent"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Pharaïldis of Ghent"
 summary: "Sister of Saint Gudule. Niece of Saint Gertrude of Nivelles. After making a private vow of virginity, Pharaïldis was forced into marriage with a wealthy nobleman. Her husband insisted that she was married to him, and her sexual fidelity was owed to him, not God. Physically abused"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pharaildis-of-Ghent.jpg"
 searchAliases:
@@ -29,7 +29,6 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "against childhood diseases"
   - "against toothaches"

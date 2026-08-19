@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrés Pradas Lahoz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Andrés Pradas Lahoz"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Blessed Andrés Sergio"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

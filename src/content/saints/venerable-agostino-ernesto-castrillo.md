@@ -1,7 +1,7 @@
 ---
 name: "Venerable Agostino Ernesto Castrillo"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Agostino Ernesto Castrillo"
 summary: "Third of eleven children in his family. In 1919, at the age of 15, he joined the Franciscan Friars Minor. Ordained a priest in Molfetta, Italy on 11 June 1927. Parish priest in Foggia, Italy. Spiritual director of the Pontifical Athenaeum Antonianum in Rome, Italy. Provincial Min"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vescovo_Agostino_Ernesto_Castrillo.jpg/960px-Vescovo_Agostino_Ernesto_Castrillo.jpg"
 birthYear: 1904
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

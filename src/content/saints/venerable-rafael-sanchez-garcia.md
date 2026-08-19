@@ -1,7 +1,7 @@
 ---
 name: "Venerable Rafael Sánchez García"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Venerable Rafael Sánchez García"
 summary: "Ordained a priest of the archdiocese of Mérida-Badajoz, Spain on 29 June 1936. Being ordained at the start of the Spanish Civil War, he began his ministry covertly, hiding from the anti-Catholic authorities, administering the sacraments in secret. Worked with Father Leocadio Galá"
 searchAliases:
   - "Raffaele"
@@ -17,10 +17,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Ordained a priest of the archdiocese of Mérida-Badajoz, Spain on 29 June 1936. Being ordained at the start of the Spanish Civil War, he began his ministry covertly, hiding from the anti–Catholic authorities, administering the sacraments in secret. Worked with Father Leocadio Galán, founder of the Institute of the Slaves of Mary, and Luis Zambrano Blanco, founder of the Foyer of Nazareth. Chaplain of the Provincial Hospital of Badajoz for 30 years. Noted spiritual director who had particular care for the poor.

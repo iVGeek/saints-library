@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Sáiz-Aparicio"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Enrique Sáiz-Aparicio"
 summary: "Member of the Salesians of Don Bosco, professed on 5 September 1909. Priest, ordained on 28 July 1918 in Salamanca, Spain. Taught and served as an administrator in schools in Campello, Barcelona, Madrid and Salamanca. Known for his personal piety, his dedication to the priesthood"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Sáiz-Aparicio.jpg"
 birthYear: 1889
@@ -16,10 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

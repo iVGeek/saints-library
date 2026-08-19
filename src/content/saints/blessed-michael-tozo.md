@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Tozo"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Michaël Tozo"
 summary: "Jesuit priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 birthYear: 1588
@@ -16,10 +16,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

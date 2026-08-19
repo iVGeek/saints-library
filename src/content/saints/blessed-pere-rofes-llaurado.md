@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Rofes Llauradó"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pere Rofes Llauradó"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Mora Velasco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Mora Velasco"
 summary: "Priest. Postulant in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1886
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

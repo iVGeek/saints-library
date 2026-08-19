@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Joseph of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 searchAliases:
   - "Josephus of Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

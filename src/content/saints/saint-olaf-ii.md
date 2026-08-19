@@ -1,7 +1,7 @@
 ---
 name: "Saint Olaf II"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Olaf II"
 summary: "Son of Harald Grenske King of Norway and Åsta Gudbrandsdatter. Viking pirate. Convert to Christianity, baptised in 1010. Helped Ethelred of England against pagan Danish invaders. King of Norway from 1015 to 1028. Brought missionaries, including Blessed Theodgar of Vestervig, to N"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Olaf-II.jpg"
 searchAliases:
@@ -31,11 +31,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 patronage:
   - "carvers"
   - "difficult marriages"

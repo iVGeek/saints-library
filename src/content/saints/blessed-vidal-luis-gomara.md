@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vidal Luis Gómara"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vidal Luis Gómara"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1891
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

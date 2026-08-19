@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastián Sáinz López"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Sebastián Sáinz López"
 summary: "Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Africa"
 summary: "One of a group of 13 Christians murdered together for their faith in Africa, date unknown. No details have survived."
 region: "Africa"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 One of a group of 13 Christians murdered together for their faith in Africa, date unknown. No details have survived.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Mercedes Prat"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Maria Mercedes Prat"
 summary: "Baptized on 7 March 1880, and made her First Holy Communion on 30 June 1890. She was a pious child who attended Mass nearly every day. Devoted student, a painter, and she excelled in needlework. Nun, entering the Society of Saint Teresa of Jesus in 1904 in Tortosa, Spain. Assigne"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Mercedes-Prat.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

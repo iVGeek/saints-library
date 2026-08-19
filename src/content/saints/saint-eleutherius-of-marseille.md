@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius of Marseille"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eleutherius of Marseille"
 summary: "Young martyr."
 searchAliases:
   - "Deutherius"
@@ -15,7 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

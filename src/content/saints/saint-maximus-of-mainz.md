@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Mainz"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Maximus of Mainz"
 summary: "Bishop of Mainz, Germany from 354 to 378. Greatly persecuted by Arian heretics."
 deathYear: 378
 died: "378"

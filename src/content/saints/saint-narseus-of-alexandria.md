@@ -1,7 +1,7 @@
 ---
 name: "Saint Narseus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Narseus of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Narsee"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

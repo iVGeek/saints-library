@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Ford"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Missionary"
+title: "Blessed Thomas Ford"
 summary: "Received a Master of Arts at Trinity College, Oxford, England on 14 July 1567. Fellow of Trinity College. Left to study at the English College, Douai, France in 1570. Ordained in March 1573 at Brussels, Belgium. Returned to the apostolic vicariate of England on 2 May 1576. Chapla"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Ford.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Walter of Himmerode"
 honorific: Blessed
-title: "Monk, Soldier, Confessor"
+title: "Blessed Walter of Himmerode"
 summary: "Knight in the Third Crusade, and frequent combatant in royal jousts. Benedictine Cistercian monk at Himerrode (in modern Germany). He served his house as guest master, confessor to his brother monks, and as a gentle example to all who met him."
 searchAliases:
   - "Walter of Bierbeek"

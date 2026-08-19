@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gerald of Fossanuova"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Gerald of Fossanuova"
 summary: "Cistercian monk at Fossanuova Abbey. Abbot of Fossanuova. Abbot of Clairvaux in 1170."
 searchAliases:
   - "Gerald of Clairvaux"

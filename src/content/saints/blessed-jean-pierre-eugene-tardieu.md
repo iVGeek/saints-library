@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Pierre-Eugène Tardieu"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Jean-Pierre-Eugène Tardieu"
 summary: "A member of the Picpus Fathers, making his profession on 6 April 1839. Ordained a priest in 1840, he served as novice master in places in France and Belgium. General Councilor of the Fathers in Paris, France where he also taught theology, and was noted for his charity. Martyred i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Pierre-Eugene-Tardieu.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

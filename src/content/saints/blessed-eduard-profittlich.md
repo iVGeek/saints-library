@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eduard Profittlich"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Eduard Profittlich"
 summary: "Jesuit priest, ordained on 27 August 1922. Apostolic administrator of Estonia on 11 May 1931. Titular Archbishop of Hadrianopolis in Haemimonto on 27 November 1936. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Eduard_Profittlich.png"
 birthYear: 1890
@@ -16,10 +16,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Erik IV of Denmark"
 honorific: Blessed
-title: "Martyr, Priest, Royalty"
+title: "Blessed Erik IV of Denmark"
 summary: "Born a prince, the son of King Valdemar II of Denmark and Berengaria of Portugal; great-grandson of Saint Canute Lavard; brother of King Abel of Denmark and King Christopher I of Denmark. Co-ruler of Denmark on 30 May 1232, becoming fully king of Denmark when his father died in 1"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Erik-IV-of-Denmark.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

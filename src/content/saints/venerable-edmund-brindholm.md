@@ -1,7 +1,7 @@
 ---
 name: "Venerable Edmund Brindholm"
 honorific: Venerable
-title: "Martyr, Priest, Monk"
+title: "Venerable Edmund Brindholm"
 summary: "Parish priest at Our Lady’s Church in Calais, France, an area under English control at the time. Martyr."
 searchAliases:
   - "Edmund Bryndeholme"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Domitian the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Domitian the Deacon"
 summary: "Deacon. Martyr. No other information has survived."
 died: "Ankara, Galatia (modern Turkey)"
 deathPlace: "Galatia (modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

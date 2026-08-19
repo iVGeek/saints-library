@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Fermo"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Alexander of Fermo"
 summary: "Bishop of Fermo, Italy. Martyred in the persecutions of Decius."
 searchAliases:
   - "Alessandro"
@@ -16,7 +16,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

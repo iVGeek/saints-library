@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Montemarano"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint John of Montemarano"
 summary: "Benedictine monk. First bishop of Montemarano, Italy in 1074."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Montemarano.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Montemarano, Italy"

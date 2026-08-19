@@ -1,7 +1,7 @@
 ---
 name: "Venerable Mariacristina Cella Mocellin"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Mariacristina Cella Mocellin"
 summary: "Young woman in the diocese of Padua, Italy. She served as a catechist at her parish in Cinisello Balsamo, Italy, working with the Sister of Charity and the Daughters of Mary Help of Christians. Maria felt a call to religious life, but in 1985 she met Carlo Mocellin and felt a cal"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Mariacristina-Cella-Mocellin.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

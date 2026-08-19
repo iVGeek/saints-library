@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aurelio da Vinalesa"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Aurelio da Vinalesa"
 summary: "Third of seven children. Joined the Franciscan Capuchins in 1912, making his perpetual vows on 18 December 1917. Studied and was ordained in Rome, Italy on 26 March 1921. Director of philosophy and theology at the Capuchin school in Orihuela, Alicante, Spain. Martyred in the pers"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Aurelio-da-Vinalesa.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

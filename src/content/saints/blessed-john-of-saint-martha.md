@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Saint Martha"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed John of Saint Martha"
 summary: "Franciscan priest, ordained in 1606. Missionary to Japan where he was noted for his quick mastery of the language. Arrested at Macao in 1615, he was imprisoned for three years, then executed for his faith. Martyr."
 searchAliases:
   - "Juan Santamarta"
@@ -17,9 +17,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

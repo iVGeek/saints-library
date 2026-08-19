@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentina of Nevers"
 honorific: Saint
-title: "Religious, Pope, Cardinal"
+title: "Saint Valentina of Nevers"
 summary: "No information has survived."
 died: "relics discovered in the catacombs of Rome, Italy in the early 19th century"
 deathPlace: "Italythe early 19th century"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

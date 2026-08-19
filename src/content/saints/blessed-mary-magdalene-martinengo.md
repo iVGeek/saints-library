@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary Magdalene Martinengo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Mary Magdalene Martinengo"
 summary: "Born to the Italian nobility. Her mother died while Mary was five months old; the lack of a mother affected the girl deeply, and led her to intense religious devotion and prayer. At age 18 she joined the Capuchin Poor Clares of Santa Maria della Neve in Brescia, Italy. Professed"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Magdalene-Martinengo-1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 7
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Capuchin"
 martyr: true
 ---

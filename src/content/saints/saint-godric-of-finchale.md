@@ -1,7 +1,7 @@
 ---
 name: "Saint Godric of Finchale"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit, Royalty"
+title: "Saint Godric of Finchale"
 summary: "Oldest of three children born to a freedman Anglo-Saxon farmer. An adventurous seafaring man, Godric spent his youth in travel, both on land and sea, as a peddler and merchant mariner first along the coast of the British Isles, then throughout Europe. Sometime sailor, sometime sh"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Godric-Finchale.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

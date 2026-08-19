@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nectaire of Sainte-Anne"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Nectaire of Sainte-Anne"
 summary: "Though raised a Christian, when Nectaire went into the service of a Turk, he converted to Islam. When he discovered that his mother, whom he thought he dead, was still alive, he travelled to see her, and back home he renounced Islam and returned to Christianity. He spent some tim"
 deathYear: 1820
 born: "Ephesus"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

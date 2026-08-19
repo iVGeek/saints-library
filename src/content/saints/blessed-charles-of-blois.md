@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles of Blois"
 honorific: Blessed
-title: "Religious, Pope, Royalty, Soldier"
+title: "Blessed Charles of Blois"
 summary: "Son of Guy de Chatillon, Count of Blois, and Margaret, sister of King Philip VI of France. Charles felt a call to be a Francescan friar, but political duty kept him in secular life. Married Joan of Brittany in 1337, and became Duke of Brittany which involved him in disputes polit"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Charles-of-Blois-1.jpg"
 birthYear: 1320
@@ -16,8 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 patronage:
   - "prisoners"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Augebert of Champagne"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Pope, Missionary"
+title: "Saint Augebert of Champagne"
 summary: "Captured in England and sold into slavery in France. Ransomed out of slavery by Saint Gregory the Great. Ordained as a deacon and trained as a missionary, he planned to return to England, but was murdered by pagans in before he could leave. Martyr."
 born: "England"
 died: "martyred in the 7th century in Champagne (in modern France"
@@ -11,10 +11,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Pope
   - Missionary
 martyr: true
 ---

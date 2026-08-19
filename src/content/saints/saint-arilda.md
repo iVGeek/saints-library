@@ -1,7 +1,7 @@
 ---
 name: "Saint Arilda"
 honorific: Saint
-title: "Martyr, Monk, Religious, Royalty"
+title: "Saint Arilda"
 summary: "Nun in Gloucestershire, England. Died fighting off a rapist. A church at Oldbury-on-the-Hill is dedicated to her."
 searchAliases:
   - "Afrella"
@@ -13,11 +13,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Nun in Gloucestershire, England. Died fighting off a rapist. A church at Oldbury-on-the-Hill is dedicated to her.

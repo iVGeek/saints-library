@@ -1,7 +1,7 @@
 ---
 name: "Saint Conan of Cornwall"
 honorific: Saint
-title: "Monk"
+title: "Saint Conan of Cornwall"
 summary: "Companion of Saint Petroc in 6th century Cornwall, England."
 region: "England"
 feastDay:

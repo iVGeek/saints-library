@@ -1,7 +1,7 @@
 ---
 name: "Saint Etelgita of Northumbria"
 honorific: Saint
-title: "Religious"
+title: "Saint Etelgita of Northumbria"
 summary: "Nun and then abbess in Northumberland, England; we do not know at what house."
 searchAliases:
   - "Elfgitha"

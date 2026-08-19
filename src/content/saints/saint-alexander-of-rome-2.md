@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Rome"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 2
@@ -9,7 +9,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alexander%2C_at_Marcionopolis.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Nunes"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope, Missionary"
+title: "Blessed Pedro Nunes"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Vila da Fronteira, Portalegre, Portugal"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Pedro_Nunes.png"
 vocation:
-  - Martyr
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Protasius of Cologne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Protasius of Cologne"
 summary: "Martyr honoured in Cologne, Germany. His details have not survived."
 region: "Germany"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelwald of Farne"
 honorific: Saint
-title: "Priest, Monk, Hermit, Confessor"
+title: "Saint Ethelwald of Farne"
 summary: "Priest. Benedictine monk at the monastery of Ripon, England. Hermit on the island of Inner Farne, England in 687. A miracle worker, his prayers were known to stop storms that threatened visitors to his island."
 searchAliases:
   - "Ethelwald the Hermit"

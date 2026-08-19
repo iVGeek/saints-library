@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Chu Mun-mo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Iacobus Chu Mun-mo"
 summary: " Christianity had taken root in Korea through the work of lay people who learned of the faith from boo Orphaned as a child, he was raised by his grandmother. Convert to Catholicism. Studied at the diocesan seminary in Beijing, China, and was one of the first priest ordained there."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

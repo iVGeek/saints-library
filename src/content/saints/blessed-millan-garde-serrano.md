@@ -1,7 +1,7 @@
 ---
 name: "Blessed Millán Garde Serrano"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Millán Garde Serrano"
 summary: "Studied at the seminary at Cuenca, Spain. Ordained a priest on 21 December 1901. Joined the Hermandad de Sacerdotes Operarios Diocesanos (Diocesan Laborer Priests of the Sacred Heart of Jesus) on 12 August 1903. He earned a decree in Canon Law at the seminary of Toledo, Spain. Pr"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Millan-Garde-Serrano.jpg"
 birthYear: 1876
@@ -16,10 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

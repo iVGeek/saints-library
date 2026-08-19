@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincentia Gerosa"
 honorific: Venerable
-title: "Martyr, Virgin, Religious, Pope, Royalty"
+title: "Saint Vincentia Gerosa"
 summary: "Orphaned young. Spent 40 years as a homemaker and lay woman devoted to care for the poor. Around 1832 she and Saint Bartholomea Capitanio formed the Sisters of Charity of Lovere, a congregation for the welfare and support of sick poor people, and for the education of poor childre"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vincentia-Gerosa.jpg"
 searchAliases:
@@ -19,14 +19,11 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Virgin
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Lovere, Italy"
-martyr: true
+martyr: false
 ---
 
 Orphaned young. Spent 40 years as a homemaker and lay woman devoted to care for the poor. Around 1832 she and Saint Bartholomea Capitanio formed the Sisters of Charity of Lovere, a congregation for the welfare and support of sick poor people, and for the education of poor children; Catherine joined the congregation, taking the name Vincentia. She enjoyed tending grapevines destined for sacramental wine; as she worked, she meditated on their conversion to the Blood of Christ. She assumed leadership of the congregation in 1836 on the death of Saint Bartholomea, and led the congregation until her own death.

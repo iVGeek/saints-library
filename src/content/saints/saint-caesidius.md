@@ -1,7 +1,7 @@
 ---
 name: "Saint Caesidius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Caesidius"
 summary: "Son of Saint Rufinus. Priest. Imprisoned, tortured and martyred in the persecutions of Maximinus with several fellow Christians, including Saint Placidus and Saint Eutychius, but most of whose names have not come down to us. While in prison, he ministered to other prisoners, and"
 searchAliases:
   - "Cesidio"
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

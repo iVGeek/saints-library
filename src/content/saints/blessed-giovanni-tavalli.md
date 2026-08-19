@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Tavalli"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Giovanni Tavalli"
 summary: "While studying civil law in Bologna, Italy, Giovanni quit to join the Order of the Gesuati; in 1426, he was chosen prior of the Gesuati house in Ferrara, Italy. Chosen bishop of Ferrara on 28 October 1431. Giovanni at first refused the see, but Pope Eugene IV wrote to him about t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Tavalli.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

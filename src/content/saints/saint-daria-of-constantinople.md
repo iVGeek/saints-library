@@ -1,7 +1,7 @@
 ---
 name: "Saint Daria of Constantinople"
 honorific: Saint
-title: "Martyr"
+title: "Saint Daria of Constantinople"
 summary: "Martyr."
 searchAliases:
   - "Daretia"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

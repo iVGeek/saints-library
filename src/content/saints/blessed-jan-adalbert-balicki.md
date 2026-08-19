@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan Adalbert Balicki"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Jan Adalbert Balicki"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Adalbert-Balicki.jpg"
 searchAliases:
   - "John Balicki"
@@ -18,10 +18,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
-martyr: true
+martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Albert Chmielowski"
 honorific: Venerable
-title: "Religious, Pope, Royalty"
+title: "Saint Albert Chmielowski"
 summary: "Born to a wealthy aristocratic family, he initially studied agriculture in order to manage the family estate. Involved in politics from his youth, he lost a leg at age 17 when injured while fighting in an insurrection. In Krakow, he became a popular, well-known and well-liked art"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Brat_Albert.png"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Albertine Brothers"

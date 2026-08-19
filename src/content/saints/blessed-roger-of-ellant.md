@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger of Ellant"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Confessor"
+title: "Blessed Roger of Ellant"
 summary: "Cistercian monk at Lorroyen-Berry, France. Founding abbot of a monastery at Ellent, archdiocese of Rheims, France in 1156. Known for his dedication to the monastic life, and his care for the area sick."
 searchAliases:
   - "Ruggero"
@@ -15,11 +15,10 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Cistercian monk at Lorroyen-Berry, France. Founding abbot of a monastery at Ellent, archdiocese of Rheims, France in 1156. Known for his dedication to the monastic life, and his care for the area sick.

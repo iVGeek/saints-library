@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stanislaw Streich"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed Stanislaw Streich"
 summary: "The eldest of three sons born to Franciszek Streich and Wladyslawa Streich née Birzynska, Stanislaw was baptized at the age of 5 weeks. After studies at the seminary in Poznan, Poland, he was ordained a priest of the archdiocese of Poznan on 6 June 1925. While continuing his stud"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Streich.jpg"
 birthYear: 1902
@@ -16,11 +16,9 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 The eldest of three sons born to Franciszek Streich and Wladyslawa Streich née Birzynska, Stanislaw was baptized at the age of 5 weeks. After studies at the seminary in Poznan, Poland, he was ordained a priest of the archdiocese of Poznan on 6 June 1925. While continuing his studies, Father Stanislaw served as chaplain to a house of Ursuline Sisters in Poznan. Vicar of the parish of Saint Florian in Poznan in 1927 and 1928. Taught religion at the men's teacher seminary in Kozmin, Poland in 1928 and 1929, and then returned to parish work in Poznan, Zabikowo, and Lubon. He was instumental in the founding of the parish of Saint John Bosco in Lubon.

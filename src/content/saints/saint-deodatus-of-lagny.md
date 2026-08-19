@@ -1,7 +1,7 @@
 ---
 name: "Saint Deodatus of Lagny"
 honorific: Saint
-title: "Monk"
+title: "Saint Deodatus of Lagny"
 summary: "Eighth century monk at Lagny, France."
 region: "France"
 feastDay:

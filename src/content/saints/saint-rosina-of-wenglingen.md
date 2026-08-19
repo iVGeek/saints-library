@@ -1,7 +1,7 @@
 ---
 name: "Saint Rosina of Wenglingen"
 honorific: Saint
-title: "Martyr, Hermit"
+title: "Saint Rosina of Wenglingen"
 summary: "Young woman who consecrated herself to God. May have lived as a forest hermit. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rosina-of-Wenglingen.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
 patronage:
   - "Wenlingen, Germany"

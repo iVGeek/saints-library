@@ -1,7 +1,7 @@
 ---
 name: "Saint Maelrubius of Applecross"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty, Missionary"
+title: "Saint Maelrubius of Applecross"
 summary: "Son of Elganach and Subtan; related to King Niall of Ireland and Saint Comgall the Great. Monk at Saint Comgall's monastery at Bangor, Ireland. Monk of Iona Abbey. Founded several churches in Scotland and finally settled in Applecross, Scotland where he built a church and monaste"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maelrubius-of-Applecross.jpg"
 searchAliases:
@@ -26,10 +26,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
   - Missionary
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Marco Alemán"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Marco Alemán"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Alberto María"
@@ -17,9 +17,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

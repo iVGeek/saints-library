@@ -1,7 +1,7 @@
 ---
 name: "Blessed Esteve Santacana Armengol"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Esteve Santacana Armengol"
 summary: "Franciscan Capuchin, making his profession on 4 October 1905. Ordained a priest on 5 June 1909. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Remigi of El Papiol"
@@ -17,13 +17,10 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, making his profession on 4 October 1905. Ordained a priest on 5 June 1909. Murdered by Marxists in the Spanish Civil War.

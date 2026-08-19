@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphrasius of Corfu"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Euphrasius of Corfu"
 summary: "A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith, he is one of the Martyrs of Corfu."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

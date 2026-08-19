@@ -1,14 +1,13 @@
 ---
 name: "Saint Menalippus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Menalippus the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

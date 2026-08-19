@@ -1,7 +1,7 @@
 ---
 name: "Saint Agileus of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agileus of Carthage"
 summary: "Martyr. Saint Augustine preached a sermon in his honour."
 searchAliases:
   - "Agileo"
@@ -16,7 +16,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

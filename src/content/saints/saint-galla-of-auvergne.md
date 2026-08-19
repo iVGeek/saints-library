@@ -1,7 +1,7 @@
 ---
 name: "Saint Galla of Auvergne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Galla of Auvergne"
 summary: "Martyr. No other information has survived."
 died: "somewhere in the area of modern France, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

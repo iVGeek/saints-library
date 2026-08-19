@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Ferrer Escolà"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Josep Ferrer Escolà"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

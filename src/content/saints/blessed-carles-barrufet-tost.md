@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carles Barrufet Tost"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Carles Barrufet Tost"
 summary: "Discalced Carmelite friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Carles of Jesus Mary"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

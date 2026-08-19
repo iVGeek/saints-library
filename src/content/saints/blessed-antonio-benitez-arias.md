@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Benítez Arias"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Antonio Benítez Arias"
 summary: "Priest of the diocese of Córdoba, Spain, serving as assistant pastor in the Castro del Río community. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

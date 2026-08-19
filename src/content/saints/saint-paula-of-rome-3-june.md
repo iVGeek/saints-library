@@ -1,7 +1,7 @@
 ---
 name: "Saint Paula of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paula of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Juan_de_Valdes_Leal_-_Santa_Paula_de_Roma.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderius of Piacenza"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Desiderius of Piacenza"
 summary: "Martyr."
 searchAliases:
   - "Desiderio"
@@ -13,7 +13,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

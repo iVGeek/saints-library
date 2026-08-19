@@ -1,7 +1,7 @@
 ---
 name: "Saint Erminold of Prüfening"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Erminold of Prüfening"
 summary: "Consecrated to God as a small child at the abbey of Hirschau, Germany. Educated by and professed as a Benedictine monk at the abbey. Abbot in Lorsch, Germany in 1110. Fearing his appointment had been bought, he resigned and returned to Hirschau. First prior of Prüfening Abbey nea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Erminold-of-Prüfening.jpg"
 deathYear: 1121
@@ -14,7 +14,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Benedictine"

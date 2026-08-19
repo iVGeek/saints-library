@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticianus of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Rusticianus of Brescia"
 summary: "Sixth century bishop of Brescia, Italy."
 deathYear: 594
 died: "c.594 of natural causes"

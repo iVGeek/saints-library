@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martha of Kyoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Martha of Kyoto"
 summary: "Daughter of Blessed Rufina of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 4."
 birthYear: 1612
 deathYear: 1619
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

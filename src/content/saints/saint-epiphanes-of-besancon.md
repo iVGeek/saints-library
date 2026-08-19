@@ -1,7 +1,7 @@
 ---
 name: "Saint Epiphanes of Besançon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Epiphanes of Besançon"
 summary: "Martyr venerated at the cathedral at Besançon, France until the French Revolution. His story may have been recorded until then, but we have no information about them now."
 region: "France"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

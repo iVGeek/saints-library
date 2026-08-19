@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eugenio Artola Sorolla"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Eugenio Artola Sorolla"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Victorico María"
@@ -17,9 +17,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

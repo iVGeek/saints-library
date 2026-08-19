@@ -1,7 +1,7 @@
 ---
 name: "Saint Elias of Cordoba"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Elias of Cordoba"
 summary: "Priest. Martyr. Saint Eulogius of Cordoba witnessed the murder and wrote an account of it."
 deathYear: 856
 born: "Portuguese"
@@ -13,7 +13,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bertrand of Garrigue"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Bertrand of Garrigue"
 summary: "Priest. Worked with the Cistercians. Noted preacher. Fought Albigensianism. Worked with Saint Dominic de Guzman, and became his close friend and travelling companion. Joined the Dominicans in 1216 and helped them survive and thrive in their early years. Governed the first Dominic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bertrand-of-Garrigue.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

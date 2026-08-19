@@ -1,7 +1,7 @@
 ---
 name: "Venerable Anthony Battie"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Royalty"
+title: "Venerable Anthony Battie"
 summary: "Layman farmer of Masham, Yorkshire, England. Martyred in the persecutions of Queen Elizabeth I for harbouring priests."
 searchAliases:
   - "Anthony Bates"
@@ -12,10 +12,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

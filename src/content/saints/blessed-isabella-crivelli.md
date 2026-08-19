@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isabella Crivelli"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Isabella Crivelli"
 summary: "Poor Clare nun at the convent of Sant'Apollinare in Porta Romana, Milan, Italy known for her mystical prayer life."
 deathYear: 1527
 born: "latter 15th century"
@@ -13,10 +13,9 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Poor Clare nun at the convent of Sant'Apollinare in Porta Romana, Milan, Italy known for her mystical prayer life.

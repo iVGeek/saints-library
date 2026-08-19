@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignatius de Azevedo"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Blessed Ignatius de Azevedo"
 summary: "Joined the Jesuits at Coimbra, Portugal on 28 December 1548. Priest. Rector of the Jesuit college at Lisbon, Portugal. Jesuit provincial for Portugal. Rector at Broja. Leader of a band of forty Spanish and Portugese Jesuit missionaries martyred by the Huguenot pirate Jacques Sour"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignatius-de-Azevedo.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

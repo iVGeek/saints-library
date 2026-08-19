@@ -1,7 +1,7 @@
 ---
 name: "Saint Festus of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Festus of Pozzuoli"
 summary: "Deacon to Saint Januarius of Naples. Imprisoned and martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 at Pozzuoli, Campagna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

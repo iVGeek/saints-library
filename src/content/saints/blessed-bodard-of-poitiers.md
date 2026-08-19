@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bodard of Poitiers"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Bodard of Poitiers"
 summary: "Hermit near Poitiers, France."
 deathYear: 740
 born: "late 7th century near Poitiers, France"

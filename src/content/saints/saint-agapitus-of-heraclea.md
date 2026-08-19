@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapitus of Heraclea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agapitus of Heraclea"
 summary: "One of a group of 43 Christians martyred together."
 died: "Heraclea, Thrace"
 deathPlace: "Thrace"
@@ -10,7 +10,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

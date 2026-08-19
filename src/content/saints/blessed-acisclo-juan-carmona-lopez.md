@@ -2,7 +2,7 @@
 name: "Blessed Acisclo Juan Carmona López"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Annals_of_the_artists_of_Spain_%28IA_annalsofartistso04stir%29.pdf/page1-960px-Annals_of_the_artists_of_Spain_%28IA_annalsofartistso04stir%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Acisclo Juan Carmona López"
 summary: "Priest of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

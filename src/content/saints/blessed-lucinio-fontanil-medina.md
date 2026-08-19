@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucinio Fontanil Medina"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Lucinio Fontanil Medina"
 summary: "Lucinio joined the Franciscan Capuchins in 1914 at the age of 30, taking the name Primitivo di Villamizar; he made his religious profession as a lay brother in 1915. He was serving in El Pardo, Madrid, Spain in 1936 at the start of the Spanish Civil War; on 21 July the convent ca"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucinio-Fontanil-Medina.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

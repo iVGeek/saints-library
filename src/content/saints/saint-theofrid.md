@@ -1,7 +1,7 @@
 ---
 name: "Saint Theofrid"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theofrid"
 summary: "Monk and then abbot at Carmery-en-Velay (Monastier-Saint-Chaffre). Martyred by invading Saracens."
 searchAliases:
   - "Theofroy"
@@ -16,7 +16,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

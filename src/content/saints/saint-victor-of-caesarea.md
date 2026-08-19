@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Caesarea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Victor of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Victor of Cerezo"
@@ -14,8 +14,7 @@ feastDay:
   month: 8
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

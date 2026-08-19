@@ -1,7 +1,7 @@
 ---
 name: "Saint Maxentius of Trier"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maxentius of Trier"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 287
 died: "c.287 at Trier (in modern Germany)"
@@ -11,7 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

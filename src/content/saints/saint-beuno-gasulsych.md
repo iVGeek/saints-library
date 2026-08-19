@@ -1,7 +1,7 @@
 ---
 name: "Saint Beuno Gasulsych"
 honorific: Saint
-title: "Priest, Monk, Royalty, Confessor"
+title: "Saint Beuno Gasulsych"
 summary: "Son of Beugi, and grandson of a Welsh prince, and, legend says, grand-nephew of King Arthur himself. Educated in Herefordshire and Bangor, Wales. Ordained at Bangor. Founded and served as abbot in Clynnog Fawr (Carnarvonshire), North Wales. Uncle, spiritual teacher, and guardian"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Beuno.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "diseased cattle"

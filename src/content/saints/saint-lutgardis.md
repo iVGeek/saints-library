@@ -1,7 +1,7 @@
 ---
 name: "Saint Lutgardis"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious"
+title: "Saint Lutgardis"
 summary: "A pretty girl with a fondness for clothes and no apparent religious vocation, Lutgardis was sent to the Black Benedictine convent near Saint Trond at age 12 because her dowry had been lost in a failed business venture, and there was thus little chance for a life as a normal, marr"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Santa_Lutgarda-Goya.JPG"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martino of Pegli"
 honorific: Blessed
-title: "Hermit, Soldier"
+title: "Blessed Martino of Pegli"
 summary: "Born to the Italian nobility, Martino became a career soldier and knight. In a moment of anger, he killed a friend and fellow knight in the area of Rimini, Italy. Martino fled and wandered aimlessly in grief until he came to the Benedictine convent of Capo Faro in Genoa, Italy. T"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Martino-of-Pegli.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufinus of Syracuse"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufinus of Syracuse"
 summary: "Martyr. No other details have survived."
 died: "Syracuse, Sicily, date unknown"
 deathPlace: "Sicily, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edigna of Puch"
 honorific: Blessed
-title: "Hermit, Royalty"
+title: "Blessed Edigna of Puch"
 birthYear: 1055
 deathYear: 1109
 born: "c.1055"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Hermit
-  - Royalty
 patronage:
   - "against diseases of cattle"
   - "against theft"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Haruch of Werden"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Haruch of Werden"
 summary: "Benedictine monk, abbot and bishop in Werden, Germany."
 deathYear: 830
 died: "c.830"

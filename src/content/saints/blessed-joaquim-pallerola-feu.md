@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquim Pallerola Feu"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joaquim Pallerola Feu"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Leonci Joaquim"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

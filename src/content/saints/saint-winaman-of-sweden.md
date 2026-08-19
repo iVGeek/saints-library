@@ -1,7 +1,7 @@
 ---
 name: "Saint Winaman of Sweden"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Winaman of Sweden"
 summary: "Nephew of Saint Sigfrid. Monk. Missionary to Sweden with Sigfrid. Martyred by pagans."
 deathYear: 1040
 died: "c.1040 in Sweden"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 martyr: true

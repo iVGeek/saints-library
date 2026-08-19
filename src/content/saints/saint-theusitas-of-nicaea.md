@@ -1,7 +1,7 @@
 ---
 name: "Saint Theusitas of Nicaea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theusitas of Nicaea"
 summary: "Father of Saint Horres of Nicaea. Martyred with his son and several others."
 searchAliases:
   - "Theusetas"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

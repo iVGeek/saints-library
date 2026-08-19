@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyriacus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyriacus of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Kyriakos"
@@ -13,7 +13,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

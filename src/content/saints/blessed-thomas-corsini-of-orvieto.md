@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Corsini of Orvieto"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Thomas Corsini of Orvieto"
 summary: "Member of the Servites. Served his house as a beggar. Visionary."
 birthYear: 1300
 deathYear: 1343
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

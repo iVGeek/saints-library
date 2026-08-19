@@ -1,7 +1,7 @@
 ---
 name: "Blessed Simon of Cassia Fidati"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Simon of Cassia Fidati"
 summary: "Joined the Augustinian Hermits as a young man. Initially a student of the natual sciences and philosophy, as he grew older he became more and more drawn to religious matters, theology and Bible scholarship. Priest. Though he preferred solitude, prayer and study, and always avoide"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Simon-of-Cassia-Fidati.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

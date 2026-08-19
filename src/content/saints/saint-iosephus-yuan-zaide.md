@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Yuan Zaide"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Iosephus Yuan Zaide"
 summary: "Priest in the apostolic vicariate of Sichuan. One of the Martyrs of China."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Iosephus-Yuan-Zaide.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 24
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Llosá Balaguer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Llosá Balaguer"
 summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Llosá-Balaguer.jpg"
 birthYear: 1901
@@ -16,9 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

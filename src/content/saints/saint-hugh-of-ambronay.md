@@ -1,7 +1,7 @@
 ---
 name: "Saint Hugh of Ambronay"
 honorific: Saint
-title: "Monk"
+title: "Saint Hugh of Ambronay"
 summary: "Benedictine monk. Abbot of Ambronay Abbey, diocese of Belley, France."
 searchAliases:
   - "Hugo"

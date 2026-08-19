@@ -1,7 +1,7 @@
 ---
 name: "Saint Concordius of Arles"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Concordius of Arles"
 summary: "Fourth-century monk at Lerins Abbey. Bishop of Arles, France."
 searchAliases:
   - "Concorde"

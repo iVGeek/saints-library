@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vincent L’Hénoret"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Vincent L’Hénoret"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Vincent-L’Hénoret.jpg"
 birthYear: 1921
@@ -16,9 +16,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

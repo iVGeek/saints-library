@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Fernández Ferro"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Fernández Ferro"
 summary: "Salesian priest. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

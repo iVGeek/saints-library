@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cristobal Iturriaga-Echevarría Irazola"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Cristobal Iturriaga-Echevarría Irazola"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

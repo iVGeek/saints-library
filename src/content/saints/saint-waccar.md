@@ -1,7 +1,7 @@
 ---
 name: "Saint Waccar"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Waccar"
 summary: "Benedictine monk. Travelled, worked and martyred with Saint Boniface."
 deathYear: 754
 died: "martyred 5 June 754 at Dokkum, Freisland (modern Nederlands)"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

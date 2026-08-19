@@ -1,7 +1,7 @@
 ---
 name: "Saint Deodatus of Nola"
 honorific: Saint
-title: "Bishop, Priest, Deacon"
+title: "Saint Deodatus of Nola"
 summary: "Deacon to Saint Paulinus of Nola. Archpriest of Nola, Italy. Bishop of Nola."
 deathYear: 473
 died: "26 June 473 of natural causes"

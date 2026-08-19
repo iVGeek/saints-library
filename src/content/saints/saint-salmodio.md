@@ -1,7 +1,7 @@
 ---
 name: "Saint Salmodio"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Salmodio"
 summary: "Spiritual student of Saint Brendan. Hermit at Limoges, Aquintaine (in modern France)."
 searchAliases:
   - "Psalmodio"

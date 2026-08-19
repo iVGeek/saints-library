@@ -1,7 +1,7 @@
 ---
 name: "Saint John Roberts"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint John Roberts"
 summary: "Son of John and Anna Roberts; his ancestors were princes in Wales. Raised Protestant, John always felt an affinity for Catholicism. He studied at Saint John's College, Oxford from 1595 to 1597, but left without a degree. He then studied law at the Inns of Court at age 21. In 1598"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Official_roberts_CJ.jpg/960px-Official_roberts_CJ.jpg"
 birthYear: 1577
@@ -16,10 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

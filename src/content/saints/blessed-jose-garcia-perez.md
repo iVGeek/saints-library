@@ -1,7 +1,7 @@
 ---
 name: "Blessed José García Pérez"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed José García Pérez"
 summary: "Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

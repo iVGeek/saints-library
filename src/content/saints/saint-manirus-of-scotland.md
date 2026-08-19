@@ -1,7 +1,7 @@
 ---
 name: "Saint Manirus of Scotland"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Manirus of Scotland"
 summary: "Missionary bishop to the Highlanders of northern Scotland. Had an on-going battle of words and ideas with the local pagans, but there was apparently little violence from either side during his work."
 searchAliases:
   - "Manire"

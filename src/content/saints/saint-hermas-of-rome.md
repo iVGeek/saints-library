@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermas of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermas of Rome"
 summary: "Martyred by a pagan mob."
 searchAliases:
   - "Hermes"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

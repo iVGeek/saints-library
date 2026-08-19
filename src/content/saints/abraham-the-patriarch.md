@@ -1,7 +1,7 @@
 ---
 name: "Abraham the Patriarch"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty"
+title: "Abraham the Patriarch"
 summary: "Old Testament patriarch. Married to Sarah. Founder of the Hebrew nation. Father of all believers in the true God. At God's command he moved from his native Chaldea to Canaan. Nomadic shepherd. Reported to have lived to age 175."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg/330px-Guercino_Abramo_ripudia_Agar_%28cropped_2%29.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

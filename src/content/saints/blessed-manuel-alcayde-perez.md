@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Alcayde Pérez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Manuel Alcayde Pérez"
 summary: "Ordained a priest in the diocese of Guadix, Spain on 23 September 1893. Coadjutor priest in the parish of Fiñana, Almeria Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Alcayde-Perez.jpg"
 birthYear: 1869
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

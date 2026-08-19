@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilaria of Augsburg"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hilaria of Augsburg"
 summary: "Mother of Saint Afra of Augsburg. While visiting the tomb of Saint Afra with some friends, she was seized by the authorities and martyred."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hilaria-of-Augsburg.jpg"
 deathYear: 304
@@ -12,7 +12,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

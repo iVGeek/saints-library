@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Ruiz Ortega"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pedro Ruiz Ortega"
 summary: "Professed cleric in the Sons of the Holy Family. Seminarian. When the persecutions of the Spanish Civil War began, he tried to flee to Rome, Italy to continue his studies. However, he was imprisoned and executed for his faith. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Ruiz-Ortega.jpg"
 birthYear: 1912
@@ -15,9 +15,7 @@ feastDay:
   month: 3
   day: 4
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

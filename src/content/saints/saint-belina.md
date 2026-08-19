@@ -1,7 +1,7 @@
 ---
 name: "Saint Belina of Troyes"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Pope"
+title: "Saint Belina of Troyes"
 summary: "A peasant shepherd girl who died fighting off a rape by the feudal lord of her district."
 searchAliases:
   - "Belina of Landreville"
@@ -16,11 +16,9 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 A peasant shepherd girl who died fighting off a rape by the feudal lord of her district.

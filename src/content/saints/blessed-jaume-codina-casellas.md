@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Codina Casellas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jaume Codina Casellas"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Codina-Casellas.jpg"
 birthYear: 1901
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Richarius of Celles"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit, Royalty"
+title: "Saint Richarius of Celles"
 summary: "Born a pagan. As a young man he protected Saints Caidoc and Fricor, Irish missionaries in danger from local non-Christians. While in hiding, the missionaries converted Richardius. He became a priest, travelling the country on a donkey and preaching the Gospel. Worked in England f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Richarius-of-Celles.jpg"
 searchAliases:
@@ -18,12 +18,10 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Born a pagan. As a young man he protected Saints Caidoc and Fricor, Irish missionaries in danger from local non-Christians. While in hiding, the missionaries converted Richardius. He became a priest, travelling the country on a donkey and preaching the Gospel. Worked in England for several years, then returned to France to found an abbey at Centula and serve as its first abbot. When King Dagobert visited him, Richarius was so frank and blunt with his advice that the king gave him a large reward; Richarius passed it on to the poor. He was among the first to work on ransoming captives. Eventually resigned all offices to live his final years as a prayerful hermit.

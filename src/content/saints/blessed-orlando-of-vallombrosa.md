@@ -1,7 +1,7 @@
 ---
 name: "Blessed Orlando of Vallombrosa"
 honorific: Blessed
-title: "Bishop, Hermit"
+title: "Blessed Orlando of Vallombrosa"
 summary: "Lay-brother in the Vallombrosan Order. Noted exorcist."
 deathYear: 1242
 died: "1242 of natural causes"

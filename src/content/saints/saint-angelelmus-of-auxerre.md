@@ -1,7 +1,7 @@
 ---
 name: "Saint Angelelmus of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Angelelmus of Auxerre"
 summary: "Abbot of the monastery of Saint Gervase and Protase in Auxerre, France. Bishop of Auxerre."
 deathYear: 828
 died: "828"

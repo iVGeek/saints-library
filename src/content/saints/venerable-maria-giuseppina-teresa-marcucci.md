@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Giuseppina Teresa Marcucci"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Giuseppina Teresa Marcucci"
 summary: "Passionist nun."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

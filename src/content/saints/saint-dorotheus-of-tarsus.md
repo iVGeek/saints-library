@@ -1,7 +1,7 @@
 ---
 name: "Saint Dorotheus of Tarsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dorotheus of Tarsus"
 summary: "Martyred in Tarsus, Cilicia. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

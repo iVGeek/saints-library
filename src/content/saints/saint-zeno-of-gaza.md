@@ -1,7 +1,7 @@
 ---
 name: "Saint Zeno of Gaza"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Zeno of Gaza"
 summary: "Cousin of Saint Eusebius and Saint Nestabus. Monk. Survived the persecutions of Julian the Apostate. Bishop of Maïouma in Palestine where he continued to live as close as he could to the monastic rules, including doing manual labour."
 searchAliases:
   - "Zeno of Maïouma"
@@ -15,10 +15,9 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Cousin of Saint Eusebius and Saint Nestabus. Monk. Survived the persecutions of Julian the Apostate. Bishop of Maïouma in Palestine where he continued to live as close as he could to the monastic rules, including doing manual labour.

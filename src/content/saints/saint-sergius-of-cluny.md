@@ -1,14 +1,13 @@
 ---
 name: "Saint Sergius of Cluny"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sergius of Cluny"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

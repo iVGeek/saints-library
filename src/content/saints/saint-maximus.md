@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Maximus"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Massimo"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

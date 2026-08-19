@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Speed"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed John Speed"
 summary: "Layman. Martyred for befriending and protecting Catholic priests, including Saint John Boste, during the persecutions of Elizabeth I."
 searchAliases:
   - "John Spence"
@@ -19,10 +19,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/St_Giles%2C_Cripplegate%2C_London_EC2_-_Wall_monument_-_geograph.org.uk_-_1209154_%28cropped%29.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

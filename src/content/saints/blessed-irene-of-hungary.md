@@ -1,7 +1,7 @@
 ---
 name: "Blessed Irene of Hungary"
 honorific: Blessed
-title: "Priest, Royalty"
+title: "Blessed Irene of Hungary"
 summary: "Born a princesses, the daughter of King Ladislaus I of Hungary and Princess Adelaide of Swabia; her mother died when Piroska was about two years old, her father when she was about seven. Given in an arranged marriage in 1105 to John II Komnenos. Irene reigned as empress from 1118"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Mosaic_of_Irene_of_Hungary_%28cropped1%29.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Royalty
 martyr: false
 ---
 

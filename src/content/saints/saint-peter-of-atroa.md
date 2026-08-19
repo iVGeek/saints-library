@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Atroa"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Peter of Atroa"
 summary: "Eldest of three children. Following a message from the Blessed Virgin, he became the spiritual student of Saint Paul the Hesychast. Monk at age 18 at Crypta, Phrygia (in modern Turkey), taking the name Peter. Ordained at Zygos, Greece. On the day of his ordination he healed a pos"
 searchAliases:
   - "Pierre d'Atroa"

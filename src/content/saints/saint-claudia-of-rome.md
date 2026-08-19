@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudia of Rome"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Claudia of Rome"
 summary: "A princess, the daughter of British King Caractacus. Imprisoned with her father and taken with him to Rome, Italy in retaliation for his resistance to the Empire during the reign of Claudius. There she learned of and converted to Christianity, taking the name Claudia. Married Sen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Claudia-of-Rome.gif"
 region: "Italy"
@@ -12,7 +12,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

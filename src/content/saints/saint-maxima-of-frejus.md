@@ -1,7 +1,7 @@
 ---
 name: "Saint Maxima of Fréjus"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious, Cardinal, Hermit"
+title: "Saint Maxima of Fréjus"
 summary: "Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France."
 searchAliases:
   - "Maxime"
@@ -13,11 +13,10 @@ feastDay:
   month: 5
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Fréjus, France (proclaimed on 27 November 1675)"
-martyr: true
+martyr: false
 ---
 
 Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark of Rome"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Mark of Rome"
 summary: "Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,10 +9,8 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 martyr: true
 ---
 

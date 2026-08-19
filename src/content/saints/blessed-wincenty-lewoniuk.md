@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wincenty Lewoniuk"
 honorific: Blessed
-title: "Martyr, Pope, Soldier"
+title: "Blessed Wincenty Lewoniuk"
 summary: "Married layman in the diocese of Podlasie. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1849
@@ -16,8 +16,6 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

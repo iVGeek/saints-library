@@ -1,7 +1,7 @@
 ---
 name: "Saint Trophimus of Synnada"
 honorific: Saint
-title: "Martyr"
+title: "Saint Trophimus of Synnada"
 summary: "Martyr."
 searchAliases:
   - "Trofimo"
@@ -12,8 +12,7 @@ feastDay:
   month: 9
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

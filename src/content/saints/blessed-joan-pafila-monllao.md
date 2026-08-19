@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Páfila Monllaó"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Joan Páfila Monllaó"
 summary: "Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Joan Josep of Jesus Crucified"
@@ -17,9 +17,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

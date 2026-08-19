@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Arenas Castro"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Manuel Arenas Castro"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Fuente Tójar and Castil de Campos communities. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

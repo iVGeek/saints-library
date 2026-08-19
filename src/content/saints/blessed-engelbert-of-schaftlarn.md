@@ -1,7 +1,7 @@
 ---
 name: "Blessed Engelbert of Schäftlarn"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Engelbert of Schäftlarn"
 summary: "Premonstratensian monk. First prior of the convent in Ursber, Bavaria, Germany, the Order's first house in southern Germany."
 birthYear: 1100
 deathYear: 1153

@@ -1,7 +1,7 @@
 ---
 name: "Saint Salvius of Albelda"
 honorific: Saint
-title: "Saint"
+title: "Saint Salvius of Albelda"
 summary: "Abbot at Albelda, Spain."
 deathYear: 962
 died: "962 of natural causes"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

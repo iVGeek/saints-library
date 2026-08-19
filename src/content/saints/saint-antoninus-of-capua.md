@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Capua"
 honorific: Saint
-title: "Martyr"
+title: "Saint Antoninus of Capua"
 summary: "A young boy martyr."
 died: "in Capua, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Capua, Italy"
 martyr: true

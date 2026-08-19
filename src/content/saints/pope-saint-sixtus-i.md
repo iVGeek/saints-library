@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Sixtus I"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Pope Saint Sixtus I"
 summary: "Little known about his life before he was chosen seventh pope in 116. He concerned himself with the liturgy, and instituted elements still in use today. He decreed that only priests may touch the sacred vessels, that bishops returning from the Apostolic See to their dioceses must"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Celat%2C_chiesa_di_San_Rocco_-_Affreschi_della_sagrestia_01_-_San_Sisto%28cropped%29.jpg/960px-Celat%2C_chiesa_di_San_Rocco_-_Affreschi_della_sagrestia_01_-_San_Sisto%28cropped%29.jpg"
 searchAliases:
@@ -15,11 +15,9 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "Alife-Caiazzo, Italy, diocese of"

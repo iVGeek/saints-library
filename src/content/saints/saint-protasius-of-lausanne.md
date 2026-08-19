@@ -1,7 +1,7 @@
 ---
 name: "Saint Protasius of Lausanne"
 honorific: Saint
-title: "Bishop, Priest, Royalty"
+title: "Saint Protasius of Lausanne"
 summary: "Seventh-century priest noted for his severe self-denial, and his ministry to widows, orphans and the homeless poor. Bishop of Lausanne, Kingdom of Burgundy (in modern Switzerland). He re-built and expanded what became the Saint-Maure chapel, supported the construction of the chur"
 searchAliases:
   - "Protasio"
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Royalty
 martyr: false
 ---
 

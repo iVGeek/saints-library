@@ -1,7 +1,7 @@
 ---
 name: "Venerable Felisa Pérez de Iriarte Casado"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Felisa Pérez de Iriarte Casado"
 summary: "Dominican nun."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-felisa-perez-de-iriarte-casado/venerable-felisa-perez-de-iriarte-casado-01.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

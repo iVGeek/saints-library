@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ponzio of Barellis"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Ponzio of Barellis"
 summary: "Ponzio received a doctorate in civil law before joining the Mercedarians. Appointed Master-General of the Mercedarians by Pope Clement VI in 1348. He was an active leader and administrator, rebuilding the Order following the losses members and houses caused by plague. He led to t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ponzio-of-Barellis.jpg"
 deathYear: 1364
@@ -14,8 +14,7 @@ feastDay:
   month: 5
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

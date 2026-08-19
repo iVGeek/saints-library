@@ -1,7 +1,7 @@
 ---
 name: "Saint Goban"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Goban"
 summary: "Spiritual student of Saint Fursey. Benedictine monk at Burgh-Castle, Suffolk, England. Travelled with Fursey to France where they lived as hermits in the forests of Oise. Murdered by non-Christian raiders."
 searchAliases:
   - "Gavan"
@@ -18,7 +18,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
@@ -26,7 +25,7 @@ religiousOrder: "Benedictine"
 patronage:
   - "Burgh, England"
   - "Saint-Gobain, Aisne, France"
-martyr: true
+martyr: false
 ---
 
 Spiritual student of Saint Fursey. Benedictine monk at Burgh-Castle, Suffolk, England. Travelled with Fursey to France where they lived as hermits in the forests of Oise. Murdered by non-Christian raiders.

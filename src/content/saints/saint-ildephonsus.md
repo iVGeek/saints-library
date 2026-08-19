@@ -1,7 +1,7 @@
 ---
 name: "Saint Ildephonsus of Toledo"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Cardinal"
+title: "Saint Ildephonsus of Toledo"
 summary: "Born to the Spanish nobility. Nephew of Saint Eugene of Toledo. Studied at Seville, Spain under Saint Isidore of Seville. Monk at Agli (Agalia) on the River Tagus near Toledo, Spain while still a young man. Abbot at Agli. Attended the Council of Toledo in 653 and 655. Archbishop"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ildephonsus.jpg"
 searchAliases:

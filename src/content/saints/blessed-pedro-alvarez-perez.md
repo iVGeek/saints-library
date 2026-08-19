@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Álvarez Pérez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Pedro Álvarez Pérez"
 summary: "Member of the Brothers of the Christian Schools, entering the novitiate in Griñón, Madrid, Spain in 1927, and making his profession in 1930. Taught in Consuegra, Toledo, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Álvarez-Pérez.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

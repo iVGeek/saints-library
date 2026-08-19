@@ -1,7 +1,7 @@
 ---
 name: "Saint Rainerio of Split"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Rainerio of Split"
 summary: "Camaldolese monk. Bishop of Cagli, Italy in 1154. Martyred for defending the rights of the Church against civil authorities."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rainerio-of-Split.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

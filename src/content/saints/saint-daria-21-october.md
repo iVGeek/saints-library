@@ -1,7 +1,7 @@
 ---
 name: "Saint Daria"
 honorific: Saint
-title: "Monk"
+title: "Saint Daria"
 summary: "Mother of Saint Ursula."
 feastDay:
   month: 10

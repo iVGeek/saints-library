@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louise-Thérèse de Montaignac de Chauvance"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Louise-Thérèse de Montaignac de Chauvance"
 summary: "Related to the French nobility, Louise was the fifth of six children born to Raimondo Amato and Anna de Raffin; her father was a civil servant. Louise studied at the Faithful Companions of Jesus College, made her First Communion on 6 June 1833, and beginning in 1837 studied at th"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Louise_Th%C3%A9r%C3%A8se_de_Montaignac.jpg"
 birthYear: 1820
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "Oblates of the Heart of Jesus"
 martyr: false

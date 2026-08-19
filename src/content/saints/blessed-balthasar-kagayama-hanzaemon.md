@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balthasar Kagayama Hanzaemon"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Balthasar Kagayama Hanzaemon"
 summary: "Married layman in the diocese of Fukuoka, Japan. Father of Blessed Iacobus of Hiji. Martyr."
 birthYear: 1572
 deathYear: 1619
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

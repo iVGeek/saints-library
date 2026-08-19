@@ -1,7 +1,7 @@
 ---
 name: "Blessed Placide Viel"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Placide Viel"
 summary: "One of eight children of a farm family. Niece of Saint Marie Madeleine Postel. Joined the Sisters of the Christian Schools at age 18, taking the name Placide. She had little education, and studied for a while at Argentan, France. Worked in school administration, founded new conve"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Placide_Viel.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

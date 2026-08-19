@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius of Braga"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Apollonius of Braga"
 summary: "Early bishop of Braga, Portugal. Martyr."
 searchAliases:
   - "Apollonios"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

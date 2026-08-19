@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zacarías Fernández Crespo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Zacarías Fernández Crespo"
 summary: "Passionist cleric. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Zacarias-Fernandez-Crespo.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

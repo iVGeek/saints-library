@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Sanchiz Silvestre"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio Sanchiz Silvestre"
 summary: "Novice in the Hospitallers of Saint John of God on 8 March 1936. Martyred in the Spanish Civil War; one of the Martyred Hospitallers of Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
 birthYear: 1910
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

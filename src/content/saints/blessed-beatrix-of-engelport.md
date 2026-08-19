@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beatrix of Engelport"
 honorific: Blessed
-title: "Religious, Royalty"
+title: "Blessed Beatrix of Engelport"
 summary: "Dominican nun in 1262 at the convent of Engelport in Hundsrück, Germany. All the nuns at the convent became Premonstratensians in 1272. Beatrix may have served as the first prioress."
 deathYear: 1275
 born: "13th century Germany"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Royalty
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henri Grialou"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal, Royalty, Soldier"
+title: "Blessed Henri Grialou"
 summary: "Son of Auguste Grialou and Marie Miral; his father died of pneumoniaStudied in Graves and Rodez in France; during his time in seminary he developed a devotion to Saint Thérèse of Lisieux. His studies were interrupted by World War I; he served on the front lines, rose to the rank"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Henri-Grialou.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
 religiousOrder: "Carmelite"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Argymirus of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Argymirus of Cordoba"
 summary: "Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a Christian. Monk. Soon after his profession he responded to inquiries by renouncing Islam and declaring his loyalty to Christ. Martyr."
 searchAliases:
   - "Argimiro"
@@ -16,7 +16,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Córdoba, Spain"

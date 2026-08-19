@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethnea"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Ethnea"
 summary: "Nun. Sister of Feidelma, mentioned in the “Acts” of Saint Patrick."
 searchAliases:
   - "Athna"
@@ -14,9 +14,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun. Sister of Feidelma, mentioned in the “Acts” of Saint Patrick.

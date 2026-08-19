@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nikollë Prennushi"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Nikollë Prennushi"
 summary: "Nikollë entered the Franciscan Friars Minor in 1900, taking the name Vinçenc, and made his profession at Salzburg, Austria on 12 December 1904. He studied theology and philosophy in Innsbruck, Austria, and was ordained a priest in Salzburg on 19 March 1908. He wrote, poetry, book"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nikollë-Prennushi.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

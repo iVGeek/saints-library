@@ -1,7 +1,7 @@
 ---
 name: "Saint Meallan of Cell Rois"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Meallan of Cell Rois"
 summary: "An Irish priest, he received a blessing from Saint Patrick for his desire for religious work."
 searchAliases:
   - "Meallan of Cill Ruis"
@@ -12,9 +12,8 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-martyr: true
+martyr: false
 ---
 
 An Irish priest, he received a blessing from Saint Patrick for his desire for religious work.

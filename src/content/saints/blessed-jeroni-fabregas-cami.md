@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jeroni Fábregas Camí"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jeroni Fábregas Camí"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1939
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

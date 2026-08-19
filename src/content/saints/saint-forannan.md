@@ -1,7 +1,7 @@
 ---
 name: "Saint Forannan of Waulsort"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Forannan of Waulsort"
 summary: "Priest. Bishop of Domhnach-Mor, Ireland, a diocese that no longer exists. Emigrated to Belgium, he helped found Waulsort Abbey, and became a monk there. Abbot in 962, establishing it as a Benedictine house."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Forannan.jpg"
 deathYear: 982

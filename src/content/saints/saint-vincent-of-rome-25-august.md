@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Vincent of Rome"
 summary: "Martyred in the persecutions of Emperor Commodus."
 deathYear: 192
 died: "stretched on the rack, beaten with clubs, burned, then beaten to death with lead-tipped whips in 192 at Rome, Italy"
@@ -12,9 +12,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Breandan"
 honorific: Saint
-title: "Monk"
+title: "Saint Breandan"
 summary: "Monk. Migrated from Ireland to Britain. Persecuted by Pelagian heretics, he sought refuge in a monastery in Gaul. It became his new home, and he eventually became abbot of the house."
 searchAliases:
   - "Beandan"

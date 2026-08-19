@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Narni"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Proculus of Narni"
 summary: "Bishop of Narni, Italy. Executed by order of the Gothic King Totila."
 deathYear: 542
 died: "c.542"
@@ -11,10 +11,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerius of Limoges"
 honorific: Saint
-title: "Martyr, Hermit"
+title: "Saint Valerius of Limoges"
 summary: "Hermit near Limoges, France in the late 5th and early 6th centuries. The Saint-Vaury monastery was founded on the site of his hermitage."
 searchAliases:
   - "Valeric"
@@ -19,9 +19,8 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Hermit near Limoges, France in the late 5th and early 6th centuries. The Saint-Vaury monastery was founded on the site of his hermitage.

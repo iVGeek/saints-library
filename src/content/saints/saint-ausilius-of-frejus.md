@@ -1,7 +1,7 @@
 ---
 name: "Saint Ausilius of Fréjus"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Hermit, Royalty"
+title: "Saint Ausilius of Fréjus"
 summary: "Monk at the Lerins abbey c.420. Friend of Saint Maximus of Riez. Fifth bishop of Fréjus, France. Ausilius was noted for his austerity, seeming more like a hermit than the bishops of the day. Martyred in the persecutions of the Arian king Henry of the Visigoths."
 searchAliases:
   - "Antiolo"
@@ -17,11 +17,9 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Hermit
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Martiniano of Pecco"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Martiniano of Pecco"
 summary: "Soldier in the Theban Legion. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martiniano-of-Pecco.jpg"
 died: "relics formerly enshrined under the high altar of the cathedral of Turin, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Pecco, Italy"

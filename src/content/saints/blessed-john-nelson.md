@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Nelson"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty, Confessor"
+title: "Blessed John Nelson"
 summary: "Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits"
 birthYear: 1534
 deathYear: 1578
@@ -15,12 +15,10 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits at some point; though the date has been lost it was probably close to the time of his arrest.

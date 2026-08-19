@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Bautista Faubel Cano"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Bautista Faubel Cano"
 summary: "Lifelong layman in the archdiocese of Valencia, Spain. Married to Patrocinio Olba Martínez in 1914. Father of three. Worked to establish Catholic schools and keep them open. Imprisoned, tortured and martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Bautista-Faubel-Cano.jpg"
 birthYear: 1889
@@ -16,9 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Augustin-Emmanuel Philippot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Augustin-Emmanuel Philippot"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Martyrs-of-Laval.jpg"
 birthYear: 1716
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

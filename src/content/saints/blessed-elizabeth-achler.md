@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth Achler"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Elizabeth Achler"
 summary: "Born poor, the daughter of John and Anne Achler. Franciscan tertiary at age 14, but found it hard to lead a religious life while living with her parents. At age 17 she joined four other tertiaries in a community in Reute, Germany; she lived there the rest of her life. For most of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Achler.jpg"
 searchAliases:
@@ -29,8 +29,7 @@ feastDay:
   month: 11
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "Swabia, Germany"

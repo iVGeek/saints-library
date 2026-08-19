@@ -1,7 +1,7 @@
 ---
 name: "Saint Tatian of Cilicia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tatian of Cilicia"
 summary: "Scourged, burned, tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Dulas (nickname)"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

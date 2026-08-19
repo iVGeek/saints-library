@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy of Philippi"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Timothy of Philippi"
 summary: "Martyr."
 deathYear: 345
 died: "345 in Philippi, Macedonia, Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

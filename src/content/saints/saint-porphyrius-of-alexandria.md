@@ -1,7 +1,7 @@
 ---
 name: "Saint Porphyrius of Alexandria"
 honorific: Saint
-title: "Martyr"
+title: "Saint Porphyrius of Alexandria"
 summary: "Student of Saint Pamphilus of Alexandria with whom he was tortured and martyred."
 deathYear: 309
 died: "beheaded in 309 in Alexandria, Egypt"
@@ -11,8 +11,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

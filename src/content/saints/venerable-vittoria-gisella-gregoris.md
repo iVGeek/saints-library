@@ -1,7 +1,7 @@
 ---
 name: "Venerable Vittoria Gisella Gregoris"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Vittoria Gisella Gregoris"
 summary: "Nun in the Suore Francescane di Cristo Re."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Vittoria-Gisella-Gregoris.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

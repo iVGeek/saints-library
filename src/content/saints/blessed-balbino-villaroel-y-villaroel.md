@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balbino Villaroel y Villaroel"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Balbino Villaroel y Villaroel"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

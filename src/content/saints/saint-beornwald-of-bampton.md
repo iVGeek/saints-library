@@ -1,7 +1,7 @@
 ---
 name: "Saint Beornwald of Bampton"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Beornwald of Bampton"
 summary: "Eighth century priest. Venerated at Bampton, England. No other information have survived."
 searchAliases:
   - "Berenwald"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary Magdalen"
 honorific: Saint
-title: "Martyr"
+title: "Saint Mary Magdalen"
 summary: " She was a friend and follower of Jesus. Filled with sorrow over her sin, she anointed Christ, washed his feet with her hair. He exorcised seve We have very little solid information about Saint Mary, and both scholars and traditions differ on the interpretation of what we do know."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-1.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "against sexual temptation"

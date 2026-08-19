@@ -1,7 +1,7 @@
 ---
 name: "Venerable Enrica Beltrame Quattrocchi"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Enrica Beltrame Quattrocchi"
 summary: "Lay woman in the vicariage of Rome, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrica-Beltrame-Quattrocchi.jpg"
 searchAliases:
@@ -18,8 +18,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

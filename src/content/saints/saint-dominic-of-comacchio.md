@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominic of Comacchio"
 honorific: Saint
-title: "Monk"
+title: "Saint Dominic of Comacchio"
 summary: "Monk at Comacchio near Venice, Italy."
 deathYear: 820
 died: "c.820"

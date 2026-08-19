@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciszek Roslaniec"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Franciszek Roslaniec"
 summary: "Priest in the diocese of Radom, Poland, Father Franciszek was a noted Bible scholar, and taught at the University of Warsaw. Arrested by the Gestapo in November 1939 as part of the Nazi occupation of Poland in World War II, he was transferred from one prison to another, ending at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Roslaniec.jpg"
 birthYear: 1889
@@ -16,9 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

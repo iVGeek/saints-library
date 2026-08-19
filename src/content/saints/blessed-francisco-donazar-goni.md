@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Donazar Goñi"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Francisco Donazar Goñi"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Andrés José"
@@ -17,9 +17,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

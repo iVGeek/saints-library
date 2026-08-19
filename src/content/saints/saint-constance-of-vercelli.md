@@ -1,7 +1,7 @@
 ---
 name: "Saint Constance of Vercelli"
 honorific: Saint
-title: "Bishop, Religious"
+title: "Saint Constance of Vercelli"
 summary: "Nun. Sister of Saint Costanzo, bishop of Piedmont, Italy. We know little else about her."
 searchAliases:
   - "Costanza"

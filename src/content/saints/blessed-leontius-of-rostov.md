@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leontius of Rostov"
 honorific: Blessed
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Blessed Leontius of Rostov"
 summary: "Missionary to Russia. Monk at the Caves of Kiev. Bishop of Rostov in 1051 where he served for over 25 years."
 deathYear: 1077
 born: "Greek"
@@ -12,11 +12,10 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Missionary to Russia. Monk at the Caves of Kiev. Bishop of Rostov in 1051 where he served for over 25 years.

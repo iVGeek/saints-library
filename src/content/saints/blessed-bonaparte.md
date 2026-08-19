@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonaparte"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Bonaparte"
 summary: "Priest. Spiritual student of Saint Sylvester Gozzolini. Sylvestrine monk at the San Tommaso di Jesi monastery."
 died: "13th century of natural causes"
 region: "Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tommasuccio of Foligno"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Tommasuccio of Foligno"
 summary: "Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria."
 searchAliases:
   - "Tommasuccio of Nocera"
@@ -15,8 +15,7 @@ feastDay:
   month: 9
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

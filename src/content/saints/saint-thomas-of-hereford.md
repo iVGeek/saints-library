@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas of Hereford"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Thomas of Hereford"
 summary: "Born to the nobility, the son of Baron William de Cantilupe. Educated in Oxford, England, and in France at Paris and Orléans. Priest. Attended the Council of Lyons in 1245. Papal chaplain. Taught canon law at the University of Oxford, and was chosen the university chancellor in 1"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thomas-of-Hereford.jpg"
 searchAliases:
@@ -22,12 +22,10 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, the son of Baron William de Cantilupe. Educated in Oxford, England, and in France at Paris and Orléans. Priest. Attended the Council of Lyons in 1245. Papal chaplain. Taught canon law at the University of Oxford, and was chosen the university chancellor in 1262. Diplomat to Saint Louis of France in 1264 during the Barons' War. Appointed Lord Chancellor of England on 25 February 1265. Attended the Second Council of Lyons in 1274. Bishop of Hereford, England, appointed on 14 June 1275 and consecrated on 8 September 1275. Known for his large charity to the poor and his blameless personal life, endlessly involved in both Church and civil matters. Advisor to King Edward I.

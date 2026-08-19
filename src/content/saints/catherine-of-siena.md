@@ -28,9 +28,7 @@ beatifiedDate: "1461"
 canonizedDate: 29 June 1461
 vocation:
   - Mystic
-  - Doctor
   - Lay
-  - Counselor
 religiousOrder: Dominican
 patronage:
   - italy

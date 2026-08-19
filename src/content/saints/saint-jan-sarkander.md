@@ -1,7 +1,7 @@
 ---
 name: "Saint Jan Sarkander"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Jan Sarkander"
 summary: "Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of the Protestant Reformation. His father died when Jan was still young, and the family moved to Pribor. He married, but his wife died when they were young, and they"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jan_Sarkander%2C_Macerata_1855.jpg/960px-Jan_Sarkander%2C_Macerata_1855.jpg"
 searchAliases:
@@ -17,11 +17,9 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of the Protestant Reformation. His father died when Jan was still young, and the family moved to Pribor. He married, but his wife died when they were young, and they had no children.

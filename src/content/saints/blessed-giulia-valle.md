@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giulia Valle"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty, Soldier"
+title: "Blessed Giulia Valle"
 summary: "Daughter of Anselmo Valle and Cristina Dalbar who both worked in the family's milliner's shop; she had one brother, Vincent. But her mother died when Giulia was four, and she was raised by relatives in Aosta and Donnas in Italy. Educated at Besan&ccedil;on, France by the Sisters"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Giulia_Nemesia_Valle.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 martyr: false
 ---

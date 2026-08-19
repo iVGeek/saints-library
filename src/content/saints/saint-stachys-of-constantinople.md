@@ -1,7 +1,7 @@
 ---
 name: "Saint Stachys of Constantinople"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Stachys of Constantinople"
 summary: "First bishop of Constantinople, ordained by Saint Andrew the Apostle. Greeted by Saint Paul the Apostle in the Epistle to the Romans."
 searchAliases:
   - "Stachis"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eufrasia of Nicomedia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Eufrasia of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eufrasia-of-Nicomedia.jpg"
 searchAliases:
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 13
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Diethardus of Eichstätt"
 honorific: Saint
-title: "Monk"
+title: "Saint Diethardus of Eichstätt"
 summary: "Monk who evangelized the area of Eichstätt, Germany in the 8th century."
 region: "Germany"
 feastDay:

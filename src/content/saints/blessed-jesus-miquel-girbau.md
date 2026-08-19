@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Miquel Girbau"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Jesús Miquel Girbau"
 summary: "Franciscan Capuchin friar, professed on 17 September 1916. Ordained a priest on 20 December 1919. Imprisoned and murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Timoteu of Palafrugell"
@@ -17,12 +17,10 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, professed on 17 September 1916. Ordained a priest on 20 December 1919. Imprisoned and murdered by Marxists in the Spanish Civil War.

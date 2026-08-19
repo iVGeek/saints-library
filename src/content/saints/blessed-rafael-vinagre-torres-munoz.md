@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafael Vinagre Torres Muñoz"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Rafael Vinagre Torres Muñoz"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

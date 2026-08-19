@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrian of Nicomedia"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Adrian of Nicomedia"
 summary: "Pagan officer and body guard at the imperial court of Nicomedia. Adrian was so impressed by the strength and faith shown by persecuted Christians that he declared himself a Christian, though he had not even been baptized. He was immediately arrested and tortured. He and fellow pr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-of-Nicomedia1.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

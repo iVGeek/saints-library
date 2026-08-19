@@ -1,7 +1,7 @@
 ---
 name: "Saint Justa of Sardinia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Justa of Sardinia"
 summary: "Martyred  in the persecutions of Hadrian."
 searchAliases:
   - "Giusta"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Ales-Terralba, Italy, diocese of"

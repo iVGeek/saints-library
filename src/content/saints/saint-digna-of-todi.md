@@ -1,7 +1,7 @@
 ---
 name: "Saint Digna of Todi"
 honorific: Saint
-title: "Monk"
+title: "Saint Digna of Todi"
 summary: "Young woman in 4th-century Todi, Italy who made a private vow of consecration to God. During the persecutions of Diocletian she retreated to the nearby mountains to live as an anchoress."
 searchAliases:
   - "Degna"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Paternus of Auch"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Paternus of Auch"
 summary: "Second-century bishop of Auch, France."
 born: "Bilbao, Spain"
 birthPlace: "Spain"

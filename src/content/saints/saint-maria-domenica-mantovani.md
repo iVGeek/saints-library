@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Domenica Mantovani"
 honorific: Venerable
-title: "Virgin, Priest, Religious, Pope"
+title: "Saint Maria Domenica Mantovani"
 summary: "Eldest of four children born to Giovanni and Prudenza Zamperini, Maria grew up in a small farm village She received only three years of elementary school, learned religion from her pious parents, and was early drawn to religious life. In her teens, Maria's parish priest and spiri"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Maria_Domenica_Mantovani.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

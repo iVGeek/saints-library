@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Maria de Paula Sánchez Solé"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Francesc Maria de Paula Sánchez Solé"
 summary: "Benedictine monk in the Subiaco Congregation. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

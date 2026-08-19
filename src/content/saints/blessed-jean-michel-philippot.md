@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Michel Philippot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Michel Philippot"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 searchAliases:
   - "Jean-Michel Phelippot"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

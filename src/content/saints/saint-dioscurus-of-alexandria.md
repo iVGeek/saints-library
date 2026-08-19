@@ -1,7 +1,7 @@
 ---
 name: "Saint Dioscurus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dioscurus of Alexandria"
 summary: "A young boy arrested, beaten and scourged in the persecutions of Decius, but released while all the adults were executed."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

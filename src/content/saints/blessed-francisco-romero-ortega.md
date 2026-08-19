@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Romero Ortega"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Romero Ortega"
 summary: "The son of a tailor, the brother of Blessed José Romero Ortega, after studies at the seminary of San Indalecio de Almería, Francisco was ordained a priest in the diocese of Almería, Spain in May 1895; he served in this vocation for over 40 years. Parish priest in several location"
 birthYear: 1872
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Basil Anthony Marie Moreau"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Basil Anthony Marie Moreau"
 summary: "Ninth of fourteen children born to a poor but pious family during the French Revolution. His parents were involved in the Catholic underground during the anti-religious Revolution. Basil was educated by his priest. He entered the diocesan seminary in 1814, a school run by Sulpici"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Basil-Anthony-Marie-Moreau.jpg"
 birthYear: 1799
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Sulpician"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lazarus Zographos"
 honorific: Saint
-title: "Monk"
+title: "Saint Lazarus Zographos"
 summary: "Monk at Constantinople. Skilled painter of icons. Opposed the Iconoclasts under emperor Theophilus. He defended sacred images, and restored those that were defaced by Iconoclasts. For his work he was arrested and tortured. When the Iconoclasts fell from power, Lazarus was release"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Feodora_and_Lazar_%28Skylitzis_Chronicle%29.jpg"
 searchAliases:

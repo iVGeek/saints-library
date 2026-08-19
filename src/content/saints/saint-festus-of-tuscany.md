@@ -1,7 +1,7 @@
 ---
 name: "Saint Festus of Tuscany"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Festus of Tuscany"
 summary: "Martyr honoured in Tuscany, Italy. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Kilroot"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Colman of Kilroot"
 summary: "Monk. Disciple of Saint Ailbe of Emly. Abbot. Bishop of Kilroot, Ireland."
 searchAliases:
   - "MacCathbad Colman"

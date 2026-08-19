@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Verona"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Felix of Verona"
 summary: "Bishop of Verona, Italy."
 region: "Italy"
 feastDay:

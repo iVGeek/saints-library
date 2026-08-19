@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ferdinando di Salcedo"
 honorific: Blessed
-title: "Martyr, Missionary"
+title: "Blessed Ferdinando di Salcedo"
 summary: "Franciscan friar and missionary in the Caribbean. Martyred with Blessed Diego Botello and a companion whose name has not come down to us."
 searchAliases:
   - "Fernando"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelred of Eastry"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ethelred of Eastry"
 summary: "Great-grandson of Saint Ethelbert of Kent. Martyr."
 searchAliases:
   - "Aethelred"
@@ -14,7 +14,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Ramsey, England"

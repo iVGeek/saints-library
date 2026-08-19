@@ -1,7 +1,7 @@
 ---
 name: "Saint Basila of Sirmium"
 honorific: Saint
-title: "Martyr"
+title: "Saint Basila of Sirmium"
 summary: "Martyr."
 searchAliases:
   - "Basilla"
@@ -13,8 +13,7 @@ feastDay:
   month: 8
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

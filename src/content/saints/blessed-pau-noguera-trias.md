@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Noguera Trías"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pau Noguera Trías"
 summary: "Teenaged professed religious brother. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Noguera-Trías.jpg"
 birthYear: 1916
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

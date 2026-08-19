@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teodoro Martín Camacho"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Teodoro Martín Camacho"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Bujalance community. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

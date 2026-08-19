@@ -1,7 +1,7 @@
 ---
 name: "Saint Servusdei of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Servusdei of Cordoba"
 summary: "Monk. Martyred in the persecutions of Abderrahman II."
 searchAliases:
   - "Servusdeus"
@@ -15,7 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

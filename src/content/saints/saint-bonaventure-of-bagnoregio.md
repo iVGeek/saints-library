@@ -1,7 +1,7 @@
 ---
 name: "Saint Bonaventure of Bagnoregio"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Pope, Cardinal, Royalty, Doctor of the Church"
+title: "Saint Bonaventure of Bagnoregio"
 summary: "Healed from a childhood disease through the prayers of Saint Francis of Assisi. Bonaventure joined the Order of Friars Minor at age 22. Studied theology and philosophy in Paris, France, and later taught there. Friend of Saint Thomas Aquinas. Doctor of Theology. Friend of King Sai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bonaventure-of-Bagnoregio.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"
@@ -31,7 +29,7 @@ patronage:
   - "Saint Bonaventure University, New York"
   - "in Italy\n\nBagnoregio"
   - "Viterbo"
-martyr: true
+martyr: false
 ---
 
 Healed from a childhood disease through the prayers of Saint Francis of Assisi. Bonaventure joined the Order of Friars Minor at age 22. Studied theology and philosophy in Paris, France, and later taught there. Friend of Saint Thomas Aquinas. Doctor of Theology. Friend of King Saint Louis IX. General of the Franciscan Order at 35. Bishop of Albano, Italy, chosen by Pope Gregory X. Cardinal. Wrote commentaries on the Scriptures, text-books in theology and philosophy, and a biography of Saint Francis. Doctor of the Church. Pope Clement IV chose him to be Archbishop of York, England, but Bonaventure begged off, claiming to be inadequate to the office. Spoke at the Council of Lyons, but died before its close.

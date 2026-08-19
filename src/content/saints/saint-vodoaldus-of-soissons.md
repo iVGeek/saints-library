@@ -1,7 +1,7 @@
 ---
 name: "Saint Vodoaldus of Soissons"
 honorific: Saint
-title: "Monk, Hermit, Missionary"
+title: "Saint Vodoaldus of Soissons"
 summary: "Missionary from the British Isles to France. Hermit beside Saint Mary's convent at Soissons, France. Known as a miracle worker."
 searchAliases:
   - "Vodale"

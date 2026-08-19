@@ -1,7 +1,7 @@
 ---
 name: "Saint Pancharius of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Religious, Soldier"
+title: "Saint Pancharius of Nicomedia"
 summary: "Roman senator. Imperial officer. Favorite of emperor Maximian. Covert Christian during the first stage of the persecutions. After a letter from his mother and sister concerning their faith, he confessed Christ and was martyred."
 deathYear: 303
 died: "beheaded in 303 in Nicomedia"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
   - Soldier

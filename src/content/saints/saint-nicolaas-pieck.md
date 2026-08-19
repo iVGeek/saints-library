@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicolaas Pieck"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Nicolaas Pieck"
 summary: "Son of John Pieck and Henriea Clavia, a pious Catholic family with a long history. Educated at Bois-le-Duc, Netherlands. Joined the Franciscan Friars Minor at Bois-le-Duc. Studied at Louvain, Belgium where he was ordained in 1558. He evangelized throughout the Netherlands and Bel"
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:
@@ -20,11 +20,8 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

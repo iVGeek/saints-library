@@ -1,7 +1,7 @@
 ---
 name: "Saint Othmar of Saint Gall"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Othmar of Saint Gall"
 summary: "Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was buried. Appointed abbot at Saint Gall, Switzerla"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Othmar-of-Saint-Gall.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Benedictine"
@@ -26,7 +25,7 @@ patronage:
   - "against slander"
   - "–"
   - "St Gallen, Switzerland"
-martyr: true
+martyr: false
 ---
 
 Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was buried. Appointed abbot at Saint Gall, Switzerland in 720, and united the area monks into a monastery under the rule of Saint Columban. As abbot, he added a hospital and school, and changed the monastery's rule to Benedictine. Legend says that when Othmar fed the poor from a barrel of provisions, it never became empty, no matter how much he took from it.

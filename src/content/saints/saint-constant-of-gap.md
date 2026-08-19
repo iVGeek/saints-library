@@ -1,7 +1,7 @@
 ---
 name: "Saint Constant of Gap"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Constant of Gap"
 summary: "Early sixth-century bishop of Gap, France. Attended the Council of Orange in 519."
 region: "France"
 feastDay:

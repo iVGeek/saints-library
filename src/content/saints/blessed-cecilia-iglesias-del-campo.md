@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cecilia Iglesias del Campo"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Cecilia Iglesias del Campo"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 deathYear: 1936
@@ -13,9 +13,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

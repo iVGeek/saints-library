@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Ruiz Cano"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed José María Ruiz Cano"
 summary: "Claretian priest. Martyred in the religious persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ruiz-Cano.jpg"
 birthYear: 1906
@@ -16,10 +16,8 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

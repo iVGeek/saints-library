@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of the Via Claudia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Alexander of the Via Claudia"
 summary: "Second century bishop in the area around Rome, Italy. Miracle worker. Arrested, tortured and executed for his faith. Martyr."
 searchAliases:
   - "Alexander of Rome"
@@ -13,10 +13,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
 martyr: true
 ---
 

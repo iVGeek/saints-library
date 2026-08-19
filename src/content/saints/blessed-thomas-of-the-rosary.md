@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas of the Rosary"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Thomas of the Rosary"
 summary: "Dominican friar. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1602
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

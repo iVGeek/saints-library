@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertus of Gerona"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tertus of Gerona"
 summary: "Martyr. No other details have survived."
 searchAliases:
   - "Tertius"
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

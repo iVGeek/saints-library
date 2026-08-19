@@ -1,7 +1,7 @@
 ---
 name: "Saint Ansegisus"
 honorific: Saint
-title: "Monk"
+title: "Saint Ansegisus"
 summary: "Benedictine monk at Fontenelle Abbey, France at age 18. Entrusted by Charlemagne and Louis le D&eacute;bonnaire with the reform and restoration of the monasteries of Saint Sixtus, Saint Memius, Flay, and Luxeuil. He codified the laws of Charlemagne and Louis in the Capitulars. Ab"
 searchAliases:
   - "Ansegis"

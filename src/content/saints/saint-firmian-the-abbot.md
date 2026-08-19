@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmian the Abbot"
 honorific: Saint
-title: "Monk"
+title: "Saint Firmian the Abbot"
 summary: "Abbot of San Sabino Piceno near Fermo, Italy."
 searchAliases:
   - "Fermanus"

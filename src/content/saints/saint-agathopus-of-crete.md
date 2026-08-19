@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathopus of Crete"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Agathopus of Crete"
 summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 deathYear: 250
 died: "250 on Crete"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

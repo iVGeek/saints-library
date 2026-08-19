@@ -1,7 +1,7 @@
 ---
 name: "Saint Antiochus of Sebaste"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antiochus of Sebaste"
 summary: "Brother of Saint Plato of Ancyra. Physician. Martyred in the persecutions of the governor Hadrian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antiochus-of-Sebaste.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

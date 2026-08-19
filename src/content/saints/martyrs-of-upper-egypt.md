@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Upper Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Upper Egypt"
 summary: "There were many martyrs who suffered in the persecutions of Diocletian in the Thebaid region. Though we know these atrocities occurred, to the point that witnesses claim the torturers and executioners were exhausted by the work, we do not know the names of the saints, and we hono"
 searchAliases:
   - "Martyrs of Thebaid"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Del Consuelo Ramiñán Carracedo"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Del Consuelo Ramiñán Carracedo"
 summary: "Nun of the Congregation of Franciscan Missionaries of the Divine Motherhood. Martyred in the Spanish Civil War."
 searchAliases:
   - "Isabel"
@@ -17,9 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

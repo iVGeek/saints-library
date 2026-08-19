@@ -1,7 +1,7 @@
 ---
 name: "Blessed Johannes Riedgasser"
 honorific: Blessed
-title: "Monk, Royalty"
+title: "Blessed Johannes Riedgasser"
 summary: "Member of the Premonstratensians. Canon of the monastery in Obermarchtal, Swabia (in modern Germany); spiritual student of Blessed Ulkirk. Abbot of the house in 1591. His dedication to the discipline and rule of the Order led to his appointment as visitor in the region, responsib"
 deathYear: 1600
 born: "16th century Germany"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

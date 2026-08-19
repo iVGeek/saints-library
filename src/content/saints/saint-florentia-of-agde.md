@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentia of Agde"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florentia of Agde"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Agde, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

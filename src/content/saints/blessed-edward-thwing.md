@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Thwing"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Missionary"
+title: "Blessed Edward Thwing"
 summary: "Second son of Thomas and Jane Thwing. Studied at the English College in Rheims, France, with the Jesuits at Pont-à-Mousson, France, and then in Rome, Italy. Taught rhetoric and logic in Rheims. Ordained in Laon, France in December 1588. Returned to England in 1597 to serve covert"
 deathYear: 1600
 born: "Heworth, England"
@@ -14,10 +14,8 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

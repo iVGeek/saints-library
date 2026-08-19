@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius the Potter"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Macarius the Potter"
 summary: "Potter. Martyred in the persecutions of Decius."
 searchAliases:
   - "Makarios"
@@ -13,7 +13,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

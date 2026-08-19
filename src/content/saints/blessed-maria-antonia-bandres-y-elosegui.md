@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Antonia Bandrés y Elósegui"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Maria Antonia Bandrés y Elósegui"
 summary: "The 2nd of 15 children born to Ramon Bandres and Teresa Elosegui; her father worked as an attorney. Antonita was educated by the Daughters of Jesus, was known in the family as a caring big sister, and when she was old enough, she began caring for the poor on the outskirts of her"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Antonia-Bandres-y-Elosegui.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

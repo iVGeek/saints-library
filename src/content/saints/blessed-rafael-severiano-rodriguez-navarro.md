@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafaél Severiano Rodríguez Navarro"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Rafaél Severiano Rodríguez Navarro"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pacifico of Ronda"
@@ -17,9 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

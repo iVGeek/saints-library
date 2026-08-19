@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Lycaonia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcian of Lycaonia"
 summary: "Young Christian man who publicly proclaimed his faith during persections led by governor Perennio; it led to his arrest, torture, having his tongue cut out to stop him praying, and execution. Martyr."
 searchAliases:
   - "Marcian of Iconium"
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

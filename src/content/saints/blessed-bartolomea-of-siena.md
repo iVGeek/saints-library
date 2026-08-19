@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomea of Siena"
 honorific: Blessed
-title: "Royalty"
+title: "Blessed Bartolomea of Siena"
 summary: "From her youth, Bartolomea had no interest in the world or the lavish life available to her, and preferred a life in fasting and prayer. She became a tertiary in the Servites of Mary, taking the name Elisabetta. Spiritual student of Blessed Francis Patrizzi; Bartolomea once saw a"
 searchAliases:
   - "Elisabetta"
@@ -13,8 +13,7 @@ feastDay:
   month: 5
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Royalty
+vocation: []
 martyr: false
 ---
 

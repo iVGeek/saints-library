@@ -1,7 +1,7 @@
 ---
 name: "Saint Jose Isabel Flores Varela"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier"
+title: "Saint Jose Isabel Flores Varela"
 summary: "Seminarian at Guadalajara, Mexico. Parish priest at Zapotlanejo, Jalisco, Mexico in 1900. Strong and gentle father to his flock, he refused to abandon his parish during the persecutions of the Church by the government; he went into hiding, and ministered covertly to his parishion"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Isabel-Flores-Varela.jpg"
 birthYear: 1866
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

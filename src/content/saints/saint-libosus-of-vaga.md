@@ -1,7 +1,7 @@
 ---
 name: "Saint Libosus of Vaga"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Libosus of Vaga"
 summary: "Bishop of Vaga (modern Béja, Tunisia). Part of the Council of Carthage in 256. Several of his letters have survived to today. Martyred in the persecutions of Valerian."
 searchAliases:
   - "Libóso"
@@ -15,7 +15,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

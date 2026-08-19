@@ -1,7 +1,7 @@
 ---
 name: "Blessed Airaldus of Maurienne"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Airaldus of Maurienne"
 summary: "Son of William II, Count of Burgundy. Carthusian monk at Portes, diocese of Belley, France. Prior of his house. Bishop of Maurienne in the Savoy from 1132 to 1156, a position he to be ordered to accept."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Airaldus-of-Maurienne.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

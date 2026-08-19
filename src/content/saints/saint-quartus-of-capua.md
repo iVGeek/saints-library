@@ -1,7 +1,7 @@
 ---
 name: "Saint Quartus of Capua"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quartus of Capua"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Quarto-and-Quinto.jpg"
 born: "Capua, Italy"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

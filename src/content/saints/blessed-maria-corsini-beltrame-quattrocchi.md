@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Corsini Beltrame Quattrocchi"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal, Royalty, Soldier"
+title: "Blessed Maria Corsini Beltrame Quattrocchi"
 summary: "Daughter of Angiolo Corsini, a royal army captain of grenadiers, and Giulia Salvi. Due to her father's military postings, she lived in the Italian cities of Pistioa, Florence, Arrezo and Rome by the time Maria was nine. Initially enrolled in a Rome parochial school, her father tr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Corsini-Beltrame-Quattrocchi.jpg"
 birthYear: 1884
@@ -16,7 +16,6 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
 martyr: false
 ---

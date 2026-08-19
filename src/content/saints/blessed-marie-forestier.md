@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie Forestier"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marie Forestier"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1768
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 4
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

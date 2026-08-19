@@ -1,7 +1,7 @@
 ---
 name: "Saint Erotheides"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Erotheides"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "304 in Cappadocia"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

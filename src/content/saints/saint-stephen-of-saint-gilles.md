@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Saint-Gilles"
 honorific: Saint
-title: "Martyr"
+title: "Saint Stephen of Saint-Gilles"
 summary: "Cistercian abbot. Martyred by Albigensians."
 deathYear: 1209
 died: "1209 at Saint-Gilles, Languedoc, France"
@@ -11,8 +11,7 @@ feastDay:
   month: 4
   day: 11
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

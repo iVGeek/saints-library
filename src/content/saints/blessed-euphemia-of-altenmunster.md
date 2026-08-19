@@ -1,7 +1,7 @@
 ---
 name: "Blessed Euphemia of Altenmünster"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Euphemia of Altenmünster"
 summary: "Daughter of Count Berthold and Sophie of Andechs; sister of the Saint Mechtildis of Edelstetten. Benedictine nun. Abbess of Altomünster abbey in Dachau, Upper Bavaria (in modern Germany), expanding its property and population, and leading by personal piety and devotion to the Ben"
 searchAliases:
   - "Euphemia of Andechs"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Vaz"
 honorific: Venerable
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Joseph Vaz"
 summary: "Born to Christopher Vaz and Maria de Miranda, Christian parents of the Konkani Brahmin caste; the third of six children. Attended primary and secondary school in Sancoale, where he learned Portugese, and Benaulim, where he learned Latin. He studied humanities at the Jesuit Goa Un"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F_%E0%B6%85%E0%B6%B4%E0%B7%9C%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%85%E0%B7%94%E0%B7%80%E0%B6%BB_%E0%B7%81%E0%B7%94.%E0%B6%A2%E0%B7%94%E0%B7%83%E0%B7%9A_%E0%B7%80%E0%B7%8F%E0%B7%83%E0%B7%8A_%E0%B6%B8%E0%B7%94%E0%B6%B1%E0%B7%92%E0%B6%AD%E0%B7%94%E0%B6%B8%E0%B7%8F.jpg/960px-%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F_%E0%B6%85%E0%B6%B4%E0%B7%9C%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%85%E0%B7%94%E0%B7%80%E0%B6%BB_%E0%B7%81%E0%B7%94.%E0%B6%A2%E0%B7%94%E0%B7%83%E0%B7%9A_%E0%B7%80%E0%B7%8F%E0%B7%83%E0%B7%8A_%E0%B6%B8%E0%B7%94%E0%B6%B1%E0%B7%92%E0%B6%AD%E0%B7%94%E0%B6%B8%E0%B7%8F.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 16
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

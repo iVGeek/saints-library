@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eugenia Mackiewicz"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Eugenia Mackiewicz"
 summary: "Member of the Sisters of the Holy Family of Nazareth; due to the turmoil of World War II, she was never able to make her final profession in the Sisters. One of the Martyrs of Nowogrodek who were killed for their faith in the Nazi persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Mackiewicz.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

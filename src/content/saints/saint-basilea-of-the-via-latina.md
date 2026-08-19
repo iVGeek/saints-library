@@ -1,7 +1,7 @@
 ---
 name: "Saint Basilea of the Via Latina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Basilea of the Via Latina"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Basilée"
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

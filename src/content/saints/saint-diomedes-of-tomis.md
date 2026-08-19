@@ -1,7 +1,7 @@
 ---
 name: "Saint Diomedes of Tomis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Diomedes of Tomis"
 summary: "Martyr."
 died: "in Tomis, Scythia Minor (modern Constanta, Romania)"
 deathPlace: "Scythia Minor (modern Constanta, Romania)"
@@ -10,7 +10,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

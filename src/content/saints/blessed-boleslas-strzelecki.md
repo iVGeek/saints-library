@@ -1,7 +1,7 @@
 ---
 name: "Blessed Boleslas Strzelecki"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Boleslas Strzelecki"
 summary: "Parish priest in the diocese of Radom, Poland. His devotion to God and his fellow man led to his parishioners giving him the nickname Saint Francis of Radom. Arrested in January 1941 as part of the Nazi persecution of the Church, and sent to the concentration camp at Auschwitz, P"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-boleslas-strzelecki/blessed-boleslas-strzelecki.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Parish priest in the diocese of Radom, Poland. His devotion to God and his fellow man led to his parishioners giving him the nickname Saint Francis of Radom. Arrested in January 1941 as part of the Nazi persecution of the Church, and sent to the concentration camp at Auschwitz, Poland where he died four months later from general abuse and mistreatment. He spent his time there ministering to other prisoners.

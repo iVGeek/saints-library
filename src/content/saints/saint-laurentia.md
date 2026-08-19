@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurentia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Laurentia"
 summary: "Slave in Ancona, Italy. She brought her mistress, Saint Palatias, to Christianity. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Laurenzia"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/North_america_basement_rocks.png"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

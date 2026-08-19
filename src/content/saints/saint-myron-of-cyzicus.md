@@ -1,7 +1,7 @@
 ---
 name: "Saint Myron of Cyzicus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Myron of Cyzicus"
 summary: "Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater. They tortured and killed him, and then razed the building."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Myron-of-Cyzicus.jpg"
 searchAliases:
@@ -14,10 +14,9 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater. They tortured and killed him, and then razed the building.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastian Valfrè"
 honorific: Blessed
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Blessed Sebastian Valfrè"
 summary: "Born to a poor family, he struggled for years to work his way through schools, finally graduating from the University of Turin. Joined the Oratory of Saint Philip Neri in Turin, Italy on 26 May 1651. Ordained on 24 February 1652. Received his Doctorate in Theology in 1656. Parish"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Bl-sebastian-valfre.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "military chaplains"

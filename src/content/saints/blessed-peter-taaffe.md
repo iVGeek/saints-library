@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Taaffe"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Peter Taaffe"
 summary: "Augustinian priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"
@@ -14,9 +14,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Peter_Taaffe_in_2006.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius of Egypt"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Macarius of Egypt"
 summary: "Shepherd in the desert region of Skete. Falsley accused of assaulting a woman, but was acquitted. Hermit. Spiritual student of Saint Anthony the Abbot. Founder of a monastic community in Skete. Ordained at age 40. His sanctity drew followers, and his desert community numbered tho"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Saint_Macarius_the_Egyptian.jpg"
 searchAliases:
@@ -19,11 +19,10 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Shepherd in the desert region of Skete. Falsley accused of assaulting a woman, but was acquitted. Hermit. Spiritual student of Saint Anthony the Abbot. Founder of a monastic community in Skete. Ordained at age 40. His sanctity drew followers, and his desert community numbered thousands at his death. Fought Arianism, and was exiled for it. Several Libyan desert monasteries still bear the name Macarius.

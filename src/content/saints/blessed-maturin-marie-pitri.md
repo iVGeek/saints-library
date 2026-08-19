@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maturin-Marie Pitri"
 honorific: Blessed
-title: "Martyr, Pope, Royalty, Soldier"
+title: "Blessed Maturin-Marie Pitri"
 summary: "Drafted into the French army, he was assigned to serve in Italy during the Napoleonic wars. He became seriously ill in Veroli, Italy, hospitalized, and while being cared for by Blessed Ignace-Alexandre-Joseph Cardon, Maturin admitted to being drawn to religious life, and of a des"
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
 deathYear: 1799
@@ -15,9 +15,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

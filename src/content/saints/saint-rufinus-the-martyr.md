@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufinus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufinus the Martyr"
 summary: "One of a group of 13 martyrs in North Africa."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

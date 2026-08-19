@@ -1,7 +1,7 @@
 ---
 name: "Saint Dioscorus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dioscorus"
 summary: "Companion of Saint Themistocles of Lycia. Martyred in the persecutions of Valerian."
 deathYear: 253
 died: "beheaded in 253"
@@ -10,7 +10,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

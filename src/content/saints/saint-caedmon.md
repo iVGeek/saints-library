@@ -1,7 +1,7 @@
 ---
 name: "Saint Caedmon"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty"
+title: "Saint Caedmon"
 summary: "A layman cowherd, in his later years he came to work with animals at the double monastery of Whitby. One night in 657 he received a vision which commanded him to glorify God with hymns, and which gave him the poetic skills to do so. As he was illiterate, the brothers would read t"
 image: "http://catholicsaints.info/wp-content/uploads/Caedmon.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

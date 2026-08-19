@@ -1,7 +1,7 @@
 ---
 name: "Venerable Oscar Gattiani"
 honorific: Venerable
-title: "Priest, Pope, Confessor"
+title: "Venerable Oscar Gattiani"
 summary: "Oscar grew up helping in the small grocery his parents operated. In 1929, at age 15, he began the Capuchin novitiate at the convent in Cesena, Italy, and was given the name Fra Guglielmo; he made his solemn profession in Bologna, Italy on 8 December 1935. He was ordained a priest"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Oscar-Gattiani.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 martyr: false

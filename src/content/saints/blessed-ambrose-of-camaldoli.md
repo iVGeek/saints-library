@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ambrose of Camaldoli"
 honorific: Blessed
-title: "Bishop, Pope"
+title: "Blessed Ambrose of Camaldoli"
 summary: "Born to the Tuscan nobility. Studied assorted arts, sciences and languages in Venice, Italy, and would be considered a classic Renaissance man. Joined the Camaldolese in 1400 at the Santa Maria del Angelis monastery in Florence, Italy. A noted scholar and theologian, he read wide"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/S.M._degli_angeli%2C_chiostro_della_sacrestia_18_Ambrogio_Traversari%2C_Pietro_Francavilla%2C_angeli.JPG/330px-S.M._degli_angeli%2C_chiostro_della_sacrestia_18_Ambrogio_Traversari%2C_Pietro_Francavilla%2C_angeli.JPG"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
 martyr: false
 ---
 

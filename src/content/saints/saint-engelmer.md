@@ -1,7 +1,7 @@
 ---
 name: "Saint Engelmer"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Engelmer"
 summary: "Son of a poor labourer. Known for his piety, he retreated to live as a hermit near Passau, Germany. Martyr."
 deathYear: 1096
 died: "1096"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

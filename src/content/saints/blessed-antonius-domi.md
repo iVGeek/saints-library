@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius Domi"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonius Domi"
 summary: "Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Yamato (in modern Nara), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elian of Philadelphia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Elian of Philadelphia"
 summary: "Elian was a weaver and zealous Christian in the city of Philadelphia (modern Amman, Jordan). During a period of food shortages, the city was rocked by disturbances against the civil authorities. The civic leaders were imprisoned by the provincial governor for letting things get o"
 died: "burned at the stake in Philadelphia (modern Amman, Jordan)"
 deathPlace: "Jordan)"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 11
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

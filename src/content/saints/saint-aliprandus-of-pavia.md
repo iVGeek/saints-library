@@ -1,7 +1,7 @@
 ---
 name: "Saint Aliprandus of Pavia"
 honorific: Saint
-title: "Monk"
+title: "Saint Aliprandus of Pavia"
 summary: "Eighth century abbot of Saint Augustine's Abbey in Pavia, Italy."
 searchAliases:
   - "Leuprandus"

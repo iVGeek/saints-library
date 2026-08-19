@@ -1,7 +1,7 @@
 ---
 name: "Saint María Natividad Venegas de La Torre"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Religious, Pope, Royalty, Soldier"
+title: "Saint María Natividad Venegas de La Torre"
 summary: "Youngest of twelve children in a pious Bible-reading, Rosary-praying family; her father was an accountant and her mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her mother died when Nati was 16. The family moved t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-María-Natividad-Venegas-de-la-Torre.jpg"
 searchAliases:
@@ -21,14 +21,12 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:
   - "Daughters of the Sacred Heart of Jesus of Guadalajara"
   - "nurses"
-martyr: true
+martyr: false
 ---
 
 Youngest of twelve children in a pious Bible-reading, Rosary–praying family; her father was an accountant and her mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her mother died when Nati was 16. The family moved to Compostela, Nayarit, Mexico for financial reasons, and Nati spent even more time in church and in prayer. Her father died when she was 19, and her paternal uncle and aunt took over care of the children who were still at home.

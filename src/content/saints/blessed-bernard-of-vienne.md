@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard of Vienne"
 honorific: Blessed
-title: "Bishop, Pope, Soldier"
+title: "Blessed Bernard of Vienne"
 summary: "Born to the French nobility. Military officer in the army of Blessed Charlemagne. Upon the death of his parents, he retired from the military, divided his property into three parts (one for the Church, one for the poor, one for his children), bought the monastery in Ambronay, and"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Statue_de_Saint-Barnard_%C3%A0_Ambronay.JPG/960px-Statue_de_Saint-Barnard_%C3%A0_Ambronay.JPG"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
   - Soldier
 patronage:
   - "agricultural workers"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bassiano of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Bassiano of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Bassus"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

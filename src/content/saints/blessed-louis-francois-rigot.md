@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louis-François Rigot"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Louis-François Rigot"
 summary: "Layman in the archdiocese of Paris, France. He became a sacristan in the hospital of the Pietà in Paris in 1760. One of the Martyrs of September."
 birthYear: 1751
 deathYear: 1792
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

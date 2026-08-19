@@ -1,7 +1,7 @@
 ---
 name: "Abel the Patriarch"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Abel the Patriarch"
 summary: "Old Testament patriarch. Second son of Adam and Eve. Shepherd. First human being to die, and the first murder victim, killed by his brother in a fit of jealously after Abel had been given God's favour."
 image: "http://catholicsaints.info/wp-content/uploads/img-Cain-and-Abel.jpg"
 died: "murdered by his older brother Cain"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 patronage:
   - "dying people"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michelina of Pesaro"
 honorific: Blessed
-title: "Bishop, Religious, Pope, Royalty"
+title: "Blessed Michelina of Pesaro"
 summary: "Born to the wealthy Italian nobility, at age twelve Michelina was given in an arranged marriage to Duke Malatesta, the lord of Pesaro, Italy. Mother of one. She was widowed in 1320, and her son died soon after. Her chambermaid, confidant and friend, Blessed Soriana, helped her de"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Federico_barocci%2C_beata_michelina_1.jpg/960px-Federico_barocci%2C_beata_michelina_1.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against death of children"

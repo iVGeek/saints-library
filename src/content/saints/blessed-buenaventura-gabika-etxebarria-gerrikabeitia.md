@@ -1,7 +1,7 @@
 ---
 name: "Blessed Buenaventura Gabika-Etxebarria Gerrikabeitia"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Buenaventura Gabika-Etxebarria Gerrikabeitia"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-Gabika-Etxebarria-Gerrikabeitia.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

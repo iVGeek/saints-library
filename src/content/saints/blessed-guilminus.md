@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guilminus"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Guilminus"
 summary: "Benedictine monk at Thouace in Anjou, France. Friend and co-worker with Saint Burginus."
 deathYear: 1065
 died: "c.1065 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Spérie"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Spérie"
 summary: "Born to a wealthy, landed family, the daughter of duke Serenus. As a young woman, Spérie wished to devote herself to God. When her family arranged a marriage for her to the neighboring lord Elidius, she disguised herself as a peasant and left home to live as a hermitess with a ho"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Spérie.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 patronage:

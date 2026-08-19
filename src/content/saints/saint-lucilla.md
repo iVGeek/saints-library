@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucilla"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Lucilla"
 summary: "Sister of Saint Flora of Rome, she was kidnapped and enslaved by Saint Eugene of Rome, she was freed when he converted. One of 23 Christians martyred in the persecutions of Gallienus."
 searchAliases:
   - "Lucille"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Statue_of_Lucilla_detail.jpg/960px-Statue_of_Lucilla_detail.jpg"
 vocation:
-  - Martyr
   - Monk
   - Religious
 patronage:

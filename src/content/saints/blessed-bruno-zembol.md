@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bruno Zembol"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Bruno Zembol"
 summary: "Franciscan friar at the monastery in Chelm Lubelski, Poland, taking the name Bruno. Arrested for his faith by the Nazis in November 1939 and sent to the Dachau concentration camp which had a special unit for dealing with imprisoned Catholic clergy. Bruno spent his time in the cam"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bruno-Zembol-1.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   month: 8
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

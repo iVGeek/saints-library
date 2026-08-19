@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mancius of the Cross"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Mancius of the Cross"
 summary: "Worked with Blessed Luis Bertran, often acting as a guide for the missionaries. During a period of persecution, he hid from authorities in a leper colony, but was found and imprisoned in Kuwara, Japan. While in prison he was admitted to the Dominicans as cooperator brother during"
 deathYear: 1627
 born: "Japan"
@@ -12,9 +12,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

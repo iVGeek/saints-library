@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sadurní Roca Huguet"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Sadurní Roca Huguet"
 summary: "Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
 searchAliases:
   - "Constanci"
@@ -18,10 +18,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

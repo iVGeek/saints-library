@@ -1,7 +1,7 @@
 ---
 name: "Saint Christina of Persia"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Christina of Persia"
 summary: "Martyred in the persecutions of Khosrau I of Persia."
 searchAliases:
   - "Kristina"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

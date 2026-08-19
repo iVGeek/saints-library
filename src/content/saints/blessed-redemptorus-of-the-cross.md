@@ -1,7 +1,7 @@
 ---
 name: "Blessed Redemptorus of the Cross"
 honorific: Blessed
-title: "Martyr, Pope, Royalty, Soldier, Missionary"
+title: "Blessed Redemptorus of the Cross"
 summary: "Military officer. Discalced Carmelite in 1615, taking the name Redemptorus of the Cross. With Blessed Denis of the Nativity, he travelled as a missionary to the king of Achin. He and his party were ambushed and martyred by Muslims."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Redemptorus-of-the-Cross.jpg"
 searchAliases:
@@ -15,9 +15,6 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Soldier
   - Missionary
 religiousOrder: "Carmelite"

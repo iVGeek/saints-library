@@ -1,7 +1,7 @@
 ---
 name: "Saint Wiborada of Gall"
 honorific: Saint
-title: "Martyr"
+title: "Saint Wiborada of Gall"
 summary: "Born to the Swabian nobility. Her brother, Hatto, was a priest and provost of Saint Magnus church. Wiborada turned her home into a hospital for the sick poor people that her brother brought to her. Pilgrim to Rome, Italy. Benedictine nun at Saint Gall's monastery, where she worke"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wiborada-of-Gall.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 5
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Benedictine"
 martyr: true
 ---

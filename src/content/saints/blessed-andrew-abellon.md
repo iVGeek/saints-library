@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrew Abellon"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Andrew Abellon"
 summary: "In his youth he got to listen to the preaching of Saint Vincent Ferrer. Joined the Dominicans at Saint Maximin monastery. Priest. Prior of Saint Mary Magdalen monastery, Provence, France, a noted pilgrimage site; tradition says it is one of the places where Saint Mary Magdalen we"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-Abellon.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "artists"

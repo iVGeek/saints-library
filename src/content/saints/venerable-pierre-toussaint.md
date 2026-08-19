@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pierre Toussaint"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Pierre Toussaint"
 summary: "Born a slave. His master, Jean Berard, taught Pierre to read and write, and when Berard moved to New York in 1787, he took along several slaves, including Pierre and his sister Rosalie. There Pierre was apprenticed to a leading hairdresser, and soon became a popular stylist himse"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Pierre_Toussaint.jpg"
 birthYear: 1766
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

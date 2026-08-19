@@ -1,7 +1,7 @@
 ---
 name: "Saint Porphyrius of Ephesus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Porphyrius of Ephesus"
 summary: "Martyred in the persecutions of Emperor Aurelian."
 deathYear: 171
 died: "171 in Ephesus, Asia Minor"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

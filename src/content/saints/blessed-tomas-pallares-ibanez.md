@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Pallarés Ibáñez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Tomás Pallarés Ibáñez"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Pallarés-Ibáñez.jpg"
 birthYear: 1890
@@ -16,9 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

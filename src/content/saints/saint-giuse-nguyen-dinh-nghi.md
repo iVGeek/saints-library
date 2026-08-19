@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Nguyen Ðình Nghi"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Giuse Nguyen Ðình Nghi"
 summary: "Priest in the apostolic vicariate of West Tonkin. Member of the Society of Foreign Missions of Paris. Martyr."
 searchAliases:
   - "Joseph Nghi"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

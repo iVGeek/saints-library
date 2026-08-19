@@ -1,7 +1,7 @@
 ---
 name: "Blessed Xavier Bordas Piferrer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Xavier Bordas Piferrer"
 summary: "Born to a pious family and educated by the Salesians, Xavier joined the Society in 1932. He studied philosophy at the Gregorian University in Rome, Italy. Priest. Back in Spain on a break from school, Father Xavier was imprisoned for several days and then executed in the persecut"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Xavier-Bordas-Piferrer.jpg"
 birthYear: 1914
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

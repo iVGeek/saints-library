@@ -1,7 +1,7 @@
 ---
 name: "Saint Mazota of Abernethy"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Mazota of Abernethy"
 searchAliases:
   - "Mayota"
 region: "Ireland"
@@ -13,6 +13,5 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Sisterna Torrent"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Pere Sisterna Torrent"
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elm Miquel"
@@ -17,9 +17,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

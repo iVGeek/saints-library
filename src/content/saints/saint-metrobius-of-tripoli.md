@@ -1,7 +1,7 @@
 ---
 name: "Saint Metrobius of Tripoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Metrobius of Tripoli"
 summary: "Martyr."
 died: "Tripoli, Libya"
 deathPlace: "Libya"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

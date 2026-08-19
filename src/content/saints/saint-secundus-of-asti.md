@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundus of Asti"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Secundus of Asti"
 summary: "Born to the patrician class. Soldier; subaltern officer in the imperial Roman army, a low rank which probably indicates he was a young man. Convert to Christianity, baptised in Milan, Italy. He illegally gave a Christian burial to the martyr Saint Marcian of Tortona, and then fle"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/36/SSecondo_facciata.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

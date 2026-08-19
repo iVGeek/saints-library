@@ -1,7 +1,7 @@
 ---
 name: "Venerable Tomás Suárez Fernández"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Tomás Suárez Fernández"
 summary: "Augustinian priest."
 birthYear: 1915
 deathYear: 1949
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

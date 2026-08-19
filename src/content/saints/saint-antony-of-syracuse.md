@@ -1,7 +1,7 @@
 ---
 name: "Saint Antony of Syracuse"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antony of Syracuse"
 summary: "Deported from Syracuse, Sicily by invading Saracens and sent to North Africa where he was tortured and executed for his faith. Martyr."
 searchAliases:
   - "Antonius"
@@ -13,7 +13,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

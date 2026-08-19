@@ -1,7 +1,7 @@
 ---
 name: "Venerable Lodovico Coccapani"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Lodovico Coccapani"
 summary: "Layman of the diocese of Pisa, Italy. Member of the Secular Franciscan Order."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Lodovico-Coccapani.jpg"
 birthYear: 1849
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

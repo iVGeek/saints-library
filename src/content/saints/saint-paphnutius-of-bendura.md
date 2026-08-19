@@ -1,7 +1,7 @@
 ---
 name: "Saint Paphnutius of Bendura"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paphnutius of Bendura"
 searchAliases:
   - "Paphnutios"
   - "Pafnutius"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

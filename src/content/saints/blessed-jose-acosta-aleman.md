@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Acosta Alemán"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Acosta Alemán"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1937
@@ -15,9 +15,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paolo Bigoni"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Hermit, Royalty"
+title: "Blessed Paolo Bigoni"
 summary: "In 1430, Cozzando joined the Servants of Mary at the convent of Sant Alessandro in Brescia, Italy, taking the name Paolo. He studied theology there and in Paris, France, and in 1450 received a doctorate in the field. Ordained a priest, he became an influential preacher. Prior of"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Bigoni.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Hermit
-  - Royalty
 martyr: false
 ---
 

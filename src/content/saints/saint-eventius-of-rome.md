@@ -1,7 +1,7 @@
 ---
 name: "Saint Eventius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Eventius of Rome"
 summary: "Priest in Rome, Italy. Imprisoned, tortured and martyred with Saint Theodulus of Rome and Saint Alexander of Rome."
 deathYear: 113
 died: "burned and beheaded c.113 on the Via Nomentana in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Dominican"

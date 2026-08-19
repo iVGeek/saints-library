@@ -1,7 +1,7 @@
 ---
 name: "Daughters of Feradhach"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Daughters of Feradhach"
 summary: "Mentioned in early calendars and martyrologies, but no information about them has survived."
 searchAliases:
   - "Filiae Feradachi"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramon Novich Rabionet"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ramon Novich Rabionet"
 summary: "One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Novich-Rabionet.jpg"
 birthYear: 1913
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

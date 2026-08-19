@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iulia Yoshino"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Iulia Yoshino"
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Mancius Yoshino Han'emon. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

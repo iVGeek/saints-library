@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnes of Assisi"
 honorific: Saint
-title: "Monk, Religious, Pope, Soldier"
+title: "Saint Agnes of Assisi"
 summary: "Daughter of Count Favorino Scifi and Blessed Hortulana, she was raised in a series of castles in and around Assisi, Italy. Younger sister of Saint Clare of Assisi, and her first follower, leaving home two weeks after Clare to join the Benedictines at San Angelo di Panzo at age fi"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/AgneseAssisi.jpg"
 birthYear: 1197

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Gil de La Cal"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Tomás Gil de La Cal"
 summary: "Postulant in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

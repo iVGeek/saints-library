@@ -1,7 +1,7 @@
 ---
 name: "Saint Hanno of Worms"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Hanno of Worms"
 summary: "Benedictine monk in the monastery of Saint Maximin in Trier, Germany. First abbot of the monastery of Saint Mauritius of Magdeburg, Saxony, (in modern Germany) in 937. Bishop of Worms, Rhineland-Palatinate (in modern Germany) in 950. Attended the provincial synod in Mainz, German"
 searchAliases:
   - "Annone"

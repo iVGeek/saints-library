@@ -1,7 +1,7 @@
 ---
 name: "Blessed Grimo of Ursberg"
 honorific: Blessed
-title: "Monk, Pope, Royalty"
+title: "Blessed Grimo of Ursberg"
 summary: "Premonstratensian monk who had a great devotion to Christ in the Passion. Second abbot of Premonstratensian monastery in Ursberg, Bavaria, Germany in 1136, he served the remaining 37 years of his life. He was known as a wise and pious man, and ran his house in fidelity to the Rul"
 searchAliases:
   - "Gremo"
@@ -18,8 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
-  - Royalty
 martyr: false
 ---
 

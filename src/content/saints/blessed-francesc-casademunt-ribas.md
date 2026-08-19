@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Casademunt Ribas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francesc Casademunt Ribas"
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Benild Josep"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus of Brescia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Theophilus of Brescia"
 summary: "Priest. Bishop of Brescia, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theophilus-of-Brescia.jpg"
 deathYear: 427
@@ -12,11 +12,10 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. Bishop of Brescia, Italy.

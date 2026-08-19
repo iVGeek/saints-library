@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Pedró Minguella"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoni Pedró Minguella"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Armengol"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Peter Armengol"
 summary: " From Born to the nobility, Pietro wasted his youth in dissolute living, and rode for a while as a brigand and thief. His band once tried to hijack his father's entourage, which caused the young man to re-evaluate his life. He had a conversion, and joined the Mercedarians in 1258."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Armengol.jpg"
 searchAliases:
@@ -21,10 +21,8 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 patronage:
   - "for the conversion of young people"
 martyr: true

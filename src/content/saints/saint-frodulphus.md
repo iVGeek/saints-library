@@ -1,7 +1,7 @@
 ---
 name: "Saint Frodulphus"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Frodulphus"
 summary: "Spiritual student of Saint Medericus. Monk at Saint Martin's Abbey in Autun, France. Fled to Barjon, France to escape invading Saracens."
 searchAliases:
   - "Frou"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovico Morbioli"
 honorific: Blessed
-title: "Monk, Pope, Royalty"
+title: "Blessed Ludovico Morbioli"
 summary: "One of six children born to the lower middle class family of Francesco Antonio and Agnes Morbioli, Ludovico spent his early adulthood in a dissolute life that included gambling, violence and a lot of heavy drinking. Married to Lucia Tura. While living in Venice, Italy in 1462, Lu"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Blessed_ludovico_morbioli.png"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

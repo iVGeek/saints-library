@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Autun"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Proculus of Autun"
 summary: "Bishop of Autun, France c.520. As we know nothing else about him, many tales have attached to him over the years, none with historical foundation."
 searchAliases:
   - "Proculo"
@@ -14,10 +14,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Autun, France c.520. As we know nothing else about him, many tales have attached to him over the years, none with historical foundation.

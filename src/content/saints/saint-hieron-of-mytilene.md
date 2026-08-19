@@ -1,7 +1,7 @@
 ---
 name: "Saint Hieron of Mytilene"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hieron of Mytilene"
 summary: "Martyred with several fellow Christians in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hieron-of-Mytilene.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

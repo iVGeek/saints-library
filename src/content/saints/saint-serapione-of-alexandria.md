@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapione of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Serapione of Alexandria"
 summary: "Martyr."
 deathYear: 341
 died: "341 in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

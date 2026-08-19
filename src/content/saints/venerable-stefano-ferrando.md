@@ -1,7 +1,7 @@
 ---
 name: "Venerable Stefano Ferrando"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Missionary"
+title: "Venerable Stefano Ferrando"
 summary: "Son of Agostino Ferrando and Giuseppina Salvi. Stefano early felt a call to relgious life, and joined the Salesian Society of Saint John Bosco in Foglizzo Canavese, Italy in 1912 at age 17. In 1915 he joined the Italian army medical corps, rose to the rank of sergeant, and served"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Stefano-Ferrando.jpg"
 birthYear: 1895
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Missionary
 religiousOrder: "Salesian"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matilde del Sagrado Corazón Téllez Robles"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Matilde del Sagrado Corazón Téllez Robles"
 summary: "Founded the Congregation of the Daughters of Mary, Mother of the Church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matilde-del-Sagrado-Corazón-Téllez-Robles.jpg"
 searchAliases:
@@ -18,8 +18,7 @@ feastDay:
   month: 12
   day: 17
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

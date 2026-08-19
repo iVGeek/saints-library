@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidolus of Aumont"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fidolus of Aumont"
 summary: "Son of an official in Auvergne, France. Kidnapped and sold into slavery, he was ransomed by Abbot Aventinus of Aumont Abbey near Troyes, France. Fidolus became a monk himself, and then abbot of Aumont, which was later called Saint-Phal in memory of his holiness."
 searchAliases:
   - "Fidolus of Troyes"
@@ -17,9 +17,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Son of an official in Auvergne, France. Kidnapped and sold into slavery, he was ransomed by Abbot Aventinus of Aumont Abbey near Troyes, France. Fidolus became a monk himself, and then abbot of Aumont, which was later called Saint-Phal in memory of his holiness.

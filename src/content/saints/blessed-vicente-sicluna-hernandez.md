@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Sicluna Hernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente Sicluna Hernández"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sicluna-Hernández.jpg"
 birthYear: 1859
@@ -16,9 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

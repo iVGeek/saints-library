@@ -1,7 +1,7 @@
 ---
 name: "Saint Regnobert of Bayeux"
 honorific: Saint
-title: "Bishop, Priest, Royalty, Missionary"
+title: "Saint Regnobert of Bayeux"
 summary: "Missionary priest in the 620s, working to convert the Saxons who had invaded the Bessin region. Twelfth bishop of Bayeux, France. Founded several churches in the area that became Caen, France."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ragnobertus_of_Bayeux.jpg/960px-Ragnobertus_of_Bayeux.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Royalty
   - Missionary
 patronage:
   - "Caen, France"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Wigbert"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Wigbert"
 summary: "Spiritual student of Saint Egbert in Ireland. Spent two years as a missionary in Friesland (in modern Netherlands)."
 deathYear: 690
 born: "England"

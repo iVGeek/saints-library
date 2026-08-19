@@ -1,7 +1,7 @@
 ---
 name: "Saint Liberata of Pavia"
 honorific: Saint
-title: "Religious"
+title: "Saint Liberata of Pavia"
 summary: "Sister of Saint Honorata and Saint Ephiphanius of Pavia. Nun."
 born: "5th century in Pavia, Italy"
 died: "buried in the San Vincenzo basilica in Pavia, Italy"

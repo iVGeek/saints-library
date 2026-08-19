@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Medes Ferrís"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed José Medes Ferrís"
 summary: "A lifelong layman in the archdiocese of Valencia, Spain, José was baptized on the day of his birth. He grew up in a farming family, was a member of the Catholic Agricultural Union and Catholic Action, and served as a catechist. He married Purificación Esteve Martínez on 29 Januar"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Medes-Ferris.jpg"
 birthYear: 1885
@@ -16,10 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

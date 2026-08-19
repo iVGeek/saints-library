@@ -1,7 +1,7 @@
 ---
 name: "Blessed William of Cardillac"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed William of Cardillac"
 summary: "The son of Geraldo, lord of Capelle-Marival; brother of Bishop Bertrand de Cardaillac of Cahors. Benedictine monk. Bishop of Saint-Papoul, France from 27 January 1328 until his death, serving over 19 years."
 searchAliases:
   - "Guglielmo"

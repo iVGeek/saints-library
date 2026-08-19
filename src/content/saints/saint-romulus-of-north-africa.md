@@ -1,7 +1,7 @@
 ---
 name: "Saint Romulus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Romulus of North Africa"
 summary: "Brother of Saint Secundus. Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

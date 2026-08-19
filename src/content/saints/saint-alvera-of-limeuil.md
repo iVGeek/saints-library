@@ -1,7 +1,7 @@
 ---
 name: "Saint Alvera of Limeuil"
 honorific: Saint
-title: "Saint"
+title: "Saint Alvera of Limeuil"
 summary: "Fourth century Christian. No other information has survived."
 searchAliases:
   - "Alvère"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 9
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

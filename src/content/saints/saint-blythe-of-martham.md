@@ -1,7 +1,7 @@
 ---
 name: "Saint Blythe of Martham"
 honorific: Saint
-title: "Royalty"
+title: "Saint Blythe of Martham"
 summary: "Some legends have her as a 10th century queen and the mother of Saint Walstan of Bawburgh. However, though there are records of chapels dedicated to her, and traditions of her patronage, all records about her life and veneration have been lost."
 searchAliases:
   - "Blida"
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Royalty
+vocation: []
 patronage:
   - "in England\n\nBawburgh, Norfolk"
   - "North Tuddenham"

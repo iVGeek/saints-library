@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Morrissey"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Morrissey"
 summary: "Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

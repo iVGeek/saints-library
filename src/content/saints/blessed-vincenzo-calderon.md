@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vincenzo Calderon"
 honorific: Blessed
-title: "Martyr, Priest, Monk"
+title: "Blessed Vincenzo Calderon"
 summary: "Mercedarian priest. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy, volunteered to nurse the sick. He contracted the plague himself, and died as a martyr of charity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Twenty-Mercedarians-of-Palermo.jpg"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

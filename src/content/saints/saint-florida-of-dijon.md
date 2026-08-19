@@ -1,7 +1,7 @@
 ---
 name: "Saint Florida of Dijon"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Florida of Dijon"
 summary: "Young woman who may have been a nun, may have just lived very piously; records are unclear. May have been a martyr; records are unclear."
 searchAliases:
   - "Floride"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

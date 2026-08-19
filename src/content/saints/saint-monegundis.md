@@ -1,7 +1,7 @@
 ---
 name: "Saint Monegundis"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Monegundis"
 summary: "She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep depression. She eventually overcame her grief by filling the empty space in her life with God. With her husband's agreement, Monegundis became an anchoress, and"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Monegundis.jpg"
 searchAliases:
@@ -20,11 +20,10 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep depression. She eventually overcame her grief by filling the empty space in her life with God. With her husband's agreement, Monegundis became an anchoress, and built a private room where she could devote her life to solitude and prayer.

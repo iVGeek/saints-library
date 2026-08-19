@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrillus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyrillus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cyrillos"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

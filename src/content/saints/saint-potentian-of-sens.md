@@ -1,7 +1,7 @@
 ---
 name: "Saint Potentian of Sens"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Potentian of Sens"
 summary: "Second bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates, this is clearly impossible."
 deathYear: 300
 died: "c.300"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigi Beltrame Quattrocchi"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Luigi Beltrame Quattrocchi"
 summary: "Son of Carlo and Francesca Quattrocchi. Layman lawyer. Married to Blessed Maria Corsini. Father of four, three of whom entered religious life. During World War II their home became a shelter for refugees. Served as deputy attorney-general of Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luigi-Beltrame-Quattrocchi.jpg"
 birthYear: 1880
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

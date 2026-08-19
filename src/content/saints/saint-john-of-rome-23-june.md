@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint John of Rome"
 summary: "Priest. Martyred during the persecutions of Julian the Apostate."
 deathYear: 362
 born: "at Rome, Italy"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

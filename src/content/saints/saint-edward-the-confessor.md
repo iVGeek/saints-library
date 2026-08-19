@@ -1,7 +1,7 @@
 ---
 name: "Saint Edward the Confessor"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Edward the Confessor"
 summary: "Born a prince, the son of King Ethelred II and Queen Emma; half-brother to King Edmund Ironside and King Hardicanute. When his father was unseated by Danish invasion. Edward and his brother were sent to Denmark to be quietly killed, but the officer in charge took pity on the boys"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/960px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg"
 deathYear: 1066
@@ -14,8 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "difficult marriages"

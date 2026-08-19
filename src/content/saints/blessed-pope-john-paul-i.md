@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pope John Paul I"
 honorific: Blessed
-title: "Bishop, Priest, Deacon, Pope, Cardinal, Royalty"
+title: "Blessed Pope John Paul I"
 summary: "Son of Giovanni Luciani and Bortola Tancon, poor working folks; he was baptized the same day at home by the midwife as he was in danger of death. Albino entered the seminary at Feltre, Italy in October 1923, and the Gregorian seminary at Belluno, Italy in October 1928. Deacon on"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/960px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

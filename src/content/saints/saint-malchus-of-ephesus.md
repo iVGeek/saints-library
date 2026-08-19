@@ -1,7 +1,7 @@
 ---
 name: "Saint Malchus of Ephesus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Malchus of Ephesus"
 summary: "One of a group of seven young Christian men who hid in a cave in hopes of avoiding the persecution of Decius in the year 250. Found and arrested, they were ordered by the pro-consul in Ephesus to renounce their faith; they refused, and were sentenced to die. Legend says that they"
 image: "http://catholicsaints.info/wp-content/uploads/Seven-Sleepers-of-the-Ephesos-by-Emmanuel-Tzanes.jpg"
 searchAliases:
@@ -15,10 +15,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 One of a group of seven young Christian men who hid in a cave in hopes of avoiding the persecution of Decius in the year 250. Found and arrested, they were ordered by the pro-consul in Ephesus to renounce their faith; they refused, and were sentenced to die. Legend says that they were walled up in their hiding cave, guarded by the dog Al Rakim; when the cave wall was breached in 479 – they all woke up!

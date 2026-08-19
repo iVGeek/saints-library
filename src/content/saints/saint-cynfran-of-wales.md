@@ -1,7 +1,7 @@
 ---
 name: "Saint Cynfran of Wales"
 honorific: Saint
-title: "Monk"
+title: "Saint Cynfran of Wales"
 summary: "Son of Saint Brychan of Brecknock. Fifth century founder of a church in Gwynedd, Wales which has a healing well nearby."
 region: "England"
 feastDay:

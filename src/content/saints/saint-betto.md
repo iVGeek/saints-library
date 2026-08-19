@@ -1,7 +1,7 @@
 ---
 name: "Saint Betto of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Betto of Auxerre"
 summary: "Benedictine monk at Saint-Colombe abbey in  in Saint-Denis-lès-Sens, France. Abbot of Saint Heracles abbey in Sens, France. Provost of both houses and all their dependencies in 889, serving for 30 years. He was instrumental in building fortifications around the houses to protect"
 searchAliases:
   - "Betto of Sens"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius Yi Hyeon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonius Yi Hyeon"
 summary: "Layman convert and martyr in the apostolic vicariate of Korea who read himsel into the faith."
 deathYear: 1801
 born: "in Yeoju, Gyeonggi-do, South Korea"
@@ -13,9 +13,7 @@ feastDay:
   month: 7
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

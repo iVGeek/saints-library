@@ -1,7 +1,7 @@
 ---
 name: "Saint Agape of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Agape of Antioch"
 summary: "Nun. Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

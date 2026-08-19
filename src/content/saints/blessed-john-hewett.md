@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Hewett"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed John Hewett"
 summary: "Son of a draper. Educated at Caius College, Cambridge. Studied for the priesthood at Rheims, France. Ordained in 1586. Returned to England, as a covert priest using the names Weldon and Savell to hide his identity while working with his flock. Arrested at Grey's Inn Lane, London,"
 searchAliases:
   - "John Hewitt"
@@ -18,10 +18,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

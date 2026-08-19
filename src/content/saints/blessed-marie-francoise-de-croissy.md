@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Françoise de Croissy"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope"
+title: "Blessed Marie-Françoise de Croissy"
 summary: "Discalced Carmelite nun, professed on 22 February 1764. Prioress from 1779 to 1785. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christian persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 7
   day: 17
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

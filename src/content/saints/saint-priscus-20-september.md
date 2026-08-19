@@ -1,7 +1,7 @@
 ---
 name: "Saint Priscus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Priscus"
 summary: "Zealous preacher of Christianity. Martyred for his opposition to idolatry."
 died: "tortured to death"
 feastDay:
@@ -10,7 +10,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/PriscusofPanium.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

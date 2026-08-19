@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nera"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Nera"
 summary: "Dominican tertiary. Cared for the sick in Siena, Italy."
 birthYear: 1230
 deathYear: 1287

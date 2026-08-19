@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adolph Kolping"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Adolph Kolping"
 summary: "Son of a poor shepherd. Apprenticed to a shoemaker. Studied in Munich, Bonn and Cologne in Germany. Ordained on 10 April 1845. Chaplain of Saint Laurentius parish, Elberfeld, Germany from 1845 to 1849. Founded several Catholic apprentice associations, one of which became the Inte"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Adolph_Kolping.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

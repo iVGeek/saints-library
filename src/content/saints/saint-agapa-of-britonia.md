@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapa of Britonia"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Agapa of Britonia"
 summary: "Martyred nun."
 died: "in Britonia, Asturias (in modern Spain)"
 deathPlace: "Asturias (modern Spain)"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

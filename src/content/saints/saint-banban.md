@@ -1,7 +1,7 @@
 ---
 name: "Saint Banban"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Banban"
 summary: "Priest."
 searchAliases:
   - "Banbhan"
@@ -11,9 +11,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-martyr: true
+martyr: false
 ---
 
 Priest.

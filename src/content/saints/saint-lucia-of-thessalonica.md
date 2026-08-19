@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucia of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Lucia of Thessalonica"
 summary: "Nun. Martyr."
 died: "in Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

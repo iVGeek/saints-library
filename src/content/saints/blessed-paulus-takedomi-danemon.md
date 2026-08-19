@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus Takedomi Dan'Emon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Paulus Takedomi Dan'Emon"
 summary: "Young layman in the archdiocese of Nagasaki, Japan. Son of Blessed Leo Takedomi Kan'Emon. One of the Martyrs of Arima."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg"
 deathYear: 1613
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

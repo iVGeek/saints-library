@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnes of Prague"
 honorific: Saint
-title: "Monk, Religious, Pope, Royalty"
+title: "Saint Agnes of Prague"
 summary: " Educated by Cistercian nuns at Trebnitz, Germany. Though she early perceived a call to religious life, Agnes was for years promised into a series of ar Born a princess, the youngest daughter of King Ottokar I and Queen Constance of Bohemia. Relative of Saint Elizabeth of Hungary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agnes-of-Prague.jpg"
 searchAliases:

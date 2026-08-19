@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentin II of Terni"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Valentin II of Terni"
 summary: "Bishop of Terni, Italy in 494, consecrated by Pope Gelasius I; he served from 39 years."
 searchAliases:
   - "Valentine"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

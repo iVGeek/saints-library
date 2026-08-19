@@ -1,7 +1,7 @@
 ---
 name: "Blessed Barbaro of Assisi"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Barbaro of Assisi"
 summary: "Franciscan friar and companion of Saint Francis of Assisi in the 12th-13th centuries known for his love of the pious life."
 deathYear: 1229
 died: "1229 in Assisi, Italy"
@@ -11,10 +11,9 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan friar and companion of Saint Francis of Assisi in the 12th–13th centuries known for his love of the pious life.

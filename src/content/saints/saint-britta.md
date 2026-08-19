@@ -2,7 +2,7 @@
 name: "Saint Britta"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/TS_Britta.jpg"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Britta"
 summary: "Fourth century nun. Martyred with Saint Maura. Their story was lost, and their relics were discovered by Saint Euphronius."
 searchAliases:
   - "Bridget"
@@ -17,7 +17,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen du Bourg"
 honorific: Saint
-title: "Saint"
+title: "Saint Stephen du Bourg"
 summary: "Canon of Saint Rufus at Valence, France. Companion of Saint Bruno at the foundation of the Grande Chartreuse. Founded the charterhouse at Meyria in 1116."
 image: "http://catholicsaints.info/wp-content/uploads/img-Seven-Stars.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 1
   day: 4
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

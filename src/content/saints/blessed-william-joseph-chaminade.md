@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Joseph Chaminade"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Royalty, Missionary"
+title: "Blessed William Joseph Chaminade"
 summary: "Second-youngest of fifteen children of Blaise Chaminade and Catherine Bethon; a deeply religious family, three of his brothers were also priests. Took the name Joseph as his Confirmation name, and preferred it to William. At age ten he went to the College of Mussidan where one of"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Chaminadeportrait.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Missionary
 patronage:

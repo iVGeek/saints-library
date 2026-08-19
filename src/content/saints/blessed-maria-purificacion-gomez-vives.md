@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Purificación Gómez Vives"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Purificación Gómez Vives"
 summary: "Professed religious in the Sisters of the Christian Doctrine, joining in 1906, serving as a teacher, and was noted for her devotion to the Rule and community aspect of religious life. Director of the college of Molins de Rei. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

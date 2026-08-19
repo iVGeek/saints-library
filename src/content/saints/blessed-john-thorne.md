@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Thorne"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed John Thorne"
 summary: "Benedictine monk at Glastonbury. Abbey treasurer at the time the house was dissolved by decree of King Henry VIII. When the king's men arrived to disperse the monks and impound the treasury, John hid it. For keeping Church property from the king, he was charged with sacrilege and"
 deathYear: 1539
 died: "dragged through the streets by horses then hanged, drawn, and quartered on 15 November 1539 at Tor Hill, Glastonbury, Somerset, England"
@@ -12,10 +12,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: true
 ---

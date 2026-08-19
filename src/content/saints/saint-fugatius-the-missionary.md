@@ -1,7 +1,7 @@
 ---
 name: "Saint Fugatius the Missionary"
 honorific: Saint
-title: "Monk, Pope, Royalty, Missionary"
+title: "Saint Fugatius the Missionary"
 summary: "Second century missionary from Rome, Italy to the British Isles, sent by Pope Saint Eleutherius at the request of King Lucius. Apparently worked in south Wales to judge by the churches dedicated to him."
 searchAliases:
   - "Phaganu"
@@ -16,8 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
-  - Royalty
   - Missionary
 martyr: false
 ---

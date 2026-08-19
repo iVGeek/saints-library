@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Serafina of the Sacred Heart"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Maria Serafina of the Sacred Heart"
 summary: "Founder the Institute of the Sisters of the Angels on 28 June 1891 devoted to adoration of the Holy Trinity, similar to the life of the angels. There were 15 houses founded during her lifetime, and today they work in Italy, Brazil, Indonesia, Benin and the Philippines."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-maria-serafina-of-the-sacred-heart/venerable-maria-serafina-of-the-sacred-heart-01.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

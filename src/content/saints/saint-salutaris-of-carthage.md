@@ -1,7 +1,7 @@
 ---
 name: "Saint Salutaris of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Salutaris of Carthage"
 summary: "Exiled from Carthage, North Africa to the desert of Tripoli by Arian Vandals. Martyr."
 deathYear: 505
 died: "505"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

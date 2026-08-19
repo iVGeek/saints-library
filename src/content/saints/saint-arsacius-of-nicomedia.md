@@ -1,7 +1,7 @@
 ---
 name: "Saint Arsacius of Nicomedia"
 honorific: Saint
-title: "Monk, Hermit, Soldier"
+title: "Saint Arsacius of Nicomedia"
 summary: "Soldier in the imperial Roman army in the reign of Emperor Licinius. Convert to Christianity, which led to his arrest. Released, he lived as a hermit near Nicomedia. Miracle worker. Had the gift of prophecy; foretold the destruction of Nicomedia by an earthquake in 358."
 searchAliases:
   - "Arsacio"

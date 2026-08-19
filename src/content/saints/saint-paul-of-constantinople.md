@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Constantinople"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Paul of Constantinople"
 summary: "Chosen Archbishop of Constantinople in 336. For supporting orthodox Christianity against Arianism, he was exiled to Pontus in 337. He returned in 338, but the Arians again exiled him, this time to Trier, Germany. He returned c.340, but Emperor Constantius clapped him in chains an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paul-of-Constantinople.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

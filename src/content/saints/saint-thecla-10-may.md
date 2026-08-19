@@ -1,7 +1,7 @@
 ---
 name: "Saint Thecla"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Thecla"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 5
@@ -9,7 +9,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/en/1/11/Thecla_in_flames%2C_flanked_by_angels_%28detail%2C_Tarragona%29.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

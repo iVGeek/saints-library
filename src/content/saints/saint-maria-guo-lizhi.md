@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Guo Lizhi"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Maria Guo Lizhi"
 summary: "Married lay woman. Imprisoned and tortured with seven members of her family during the Boxer Rebellion, she spent her time in prison encouraging the others to keep their faith. Martyr."
 searchAliases:
   - "Maria Guo Lishi"
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

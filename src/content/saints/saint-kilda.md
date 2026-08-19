@@ -1,7 +1,7 @@
 ---
 name: "Saint Kilda"
 honorific: Saint
-title: "Monk"
+title: "Saint Kilda"
 summary: "An island off the Scottish coast is named for this saint, and there is a well on the island of the same name, but no information about this person has survived."
 searchAliases:
   - "Kilder"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelburgh of Barking"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Ethelburgh of Barking"
 summary: "Related to the East Anglian royal family and sister of Saint Erconwald of London. Nun and a spiritual student of Saint Hildelith of Barking. First abbess of Barking Abbey in Essex, England. Founded the church of All Hallows Berkyngechirche (All Hallows Barking; All Hallows by the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelburgh-of-Barking.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Barking, England"
   - "Barking Abbey"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Arras"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Florentius of Arras"
 summary: "Martyr."
 searchAliases:
   - "Fiorenzo"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Jesuit"
 martyr: true

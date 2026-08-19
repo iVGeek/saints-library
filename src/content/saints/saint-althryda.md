@@ -1,7 +1,7 @@
 ---
 name: "Saint Althryda"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Althryda"
 summary: "Born a princess, the daughter of King Offa of Mercia. Betrothed to Saint Ethelbert after whose death she retired to Croyland Abbey to live as a hermitess."
 searchAliases:
   - "Alfrida"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

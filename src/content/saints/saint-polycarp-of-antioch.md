@@ -1,7 +1,7 @@
 ---
 name: "Saint Polycarp of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Polycarp of Antioch"
 died: "martyred in Antioch"
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

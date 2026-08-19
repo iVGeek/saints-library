@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fran Mirakaj"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Fran Mirakaj"
 summary: "A lifelong layman of the diocese of Sapës, Albania, Fran married Prenda Alija Kamerin in October 1934. He was a farmer, salesman and livestock merchant. Arrested by Communist authorities in Iballë, he was imprisoned in Shkodër on 24 December 1945. On 22 February 1946, after a sho"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Fran-Mirakaj.jpg"
 birthYear: 1916
@@ -16,8 +16,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

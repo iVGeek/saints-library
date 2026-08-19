@@ -1,7 +1,7 @@
 ---
 name: "Saint Aquilina of Syria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Aquilina of Syria"
 summary: "Arrested at age 12 for her faith during the persecutions of Diocletian. When she clung to her faith, the magistrate Volusian ordered the child beaten and beheaded. Martyr. Saint Joseph the Hymnographer composed an Office in her honour."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Aquilina-of-Syria.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

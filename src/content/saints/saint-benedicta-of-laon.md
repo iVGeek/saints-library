@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedicta of Laon"
 honorific: Saint
-title: "Martyr, Virgin, Religious"
+title: "Saint Benedicta of Laon"
 summary: "Virgin-martyr in Laon, France."
 region: "France"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Religious
 martyr: true

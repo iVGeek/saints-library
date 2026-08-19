@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Pelingotto"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed John Pelingotto"
 summary: "Son of a wealthy merchant, John cared nothing for business, wealth or worldly success and preferred to live as a hermit. He eventually felt a call to help the poor and sick in the world, and gave away food, clothes and wealth, going hungry, living in rags, wearing a rope around h"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-john-pelingotto/blessed-john-pelingotto-01.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

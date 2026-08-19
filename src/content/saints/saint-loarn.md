@@ -1,7 +1,7 @@
 ---
 name: "Saint Loarn"
 honorific: Saint
-title: "Monk"
+title: "Saint Loarn"
 summary: "Fifth-century spiritual student of Saint Patrick."
 searchAliases:
   - "Loaran"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Capua"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Germanus of Capua"
 summary: "Friend of Saint Benedict of Nursia. Bishop of Capua, Italy. Papal legate to Constantinople to repair the damage caused by the Acacian schism, but met ill-treatment by the schismatics and made no progress to reunification. On his death, Saint Benedict had a vision of Germanus' sou"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Petrus_de_Ebulo_-_Balneum_Sudatorium.jpg/960px-Petrus_de_Ebulo_-_Balneum_Sudatorium.jpg"
 deathYear: 545
@@ -15,7 +15,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "Cassino, Italy"

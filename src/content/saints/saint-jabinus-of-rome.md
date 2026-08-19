@@ -1,7 +1,7 @@
 ---
 name: "Saint Jabinus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Jabinus of Rome"
 summary: "Martyr. No other information has survived."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

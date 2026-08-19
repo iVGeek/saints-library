@@ -1,7 +1,7 @@
 ---
 name: "Saint Anthusa the Younger"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anthusa the Younger"
 summary: "Martyr."
 born: "Persian"
 died: "sewn up in a sack and drowned in a well in Persia"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

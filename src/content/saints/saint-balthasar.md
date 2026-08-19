@@ -1,7 +1,7 @@
 ---
 name: "Saint Balthasar"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Balthasar"
 summary: "One of the Three Magi who brought gifts to the Infant Jesus. One tradition says he became a Christian, was ordained, became a bishop, and died while celebrating Mass."
 image: "http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "against epilepsy"
   - "against thunder"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Aredius of Lyons"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Aredius of Lyons"
 summary: "Archbishop of Lyons, France."
 searchAliases:
   - "Aregius"

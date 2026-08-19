@@ -1,7 +1,7 @@
 ---
 name: "Saint Teca"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Teca"
 summary: "Nun in or near Rúscach, County Louth, Ireland."
 searchAliases:
   - "Tecca"
@@ -14,9 +14,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun in or near Rúscach, County Louth, Ireland.

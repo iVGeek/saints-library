@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margaret of Cashel"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Margaret of Cashel"
 summary: "Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"
@@ -12,9 +12,7 @@ feastDay:
   month: 9
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

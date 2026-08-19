@@ -30,7 +30,6 @@ canonizedDate: "1934"
 vocation:
   - Priest
   - Founder
-  - Teacher
 religiousOrder: Salesian
 patronage:
   - children

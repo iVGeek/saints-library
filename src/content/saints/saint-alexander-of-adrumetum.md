@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Adrumetum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Adrumetum"
 summary: "Martyr."
 deathYear: 434
 died: "c.434 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

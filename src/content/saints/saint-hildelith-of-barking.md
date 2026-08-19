@@ -1,7 +1,7 @@
 ---
 name: "Saint Hildelith of Barking"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Hildelith of Barking"
 summary: "Anglo-Saxon princess; she was well educated, very cultured, and could read Latin. Spent most of her youth in France. Nun at Chelles and Faremoutiers-en-Brie, France. Recalled to England by Saint Erconwald to train his sister, Saint Ethelburga of Barking. Friend of Saint Cuthburgh"
 searchAliases:
   - "Hildelid"
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Barking, England"
   - "Chelles, France"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rolando Rivi"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Rolando Rivi"
 summary: "Born to a farm family. Seminarian in the diocese of Reggio Emilia-Guastalla, Italy with a plan to become a missionary priest. Abducted, abused and tortured for three days, and then murdered by Communist partisans for being a Christian. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rolando_Rivi.jpg"
 birthYear: 1931
@@ -16,9 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

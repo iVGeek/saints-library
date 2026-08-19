@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Toai"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Ðaminh Toai"
 summary: "Married layman in the apostolic vicariage of Central Tonkin (in modern Vietnam). Fisherman by trade. Father. Imprisoned, tortured and executed in the persecutions of emperor Tu Duc. He spent his time in prison encouraging other prisoners to keep their faith. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Buithe of Monasterboice"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Buithe of Monasterboice"
 summary: "Pilgrim to Rome who studied in Italy, then returned to Scotland to work as a missionary to the Picts."
 searchAliases:
   - "Buithe mac Bronach"

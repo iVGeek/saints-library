@@ -1,7 +1,7 @@
 ---
 name: "Saint Julio Álvarez Mendoza"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Julio Álvarez Mendoza"
 summary: "Ordained in 1894, Father Julio worked his entire ministry at Mechoacanejo, Jalisco, Mexico. He visited the area ranches, going to people who would not come to the church. Great devotion to the Eucharist. When the Church was suppresed by the state, he conducted Mass on farms and b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julio-Alvarez-Mendoza.jpg"
 birthYear: 1866
@@ -16,9 +16,7 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

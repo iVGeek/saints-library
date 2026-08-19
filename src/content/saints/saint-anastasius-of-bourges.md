@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Bourges"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Anastasius of Bourges"
 summary: "Soldier. Martyr. No other information as survived."
 deathYear: 274
 died: "scourged to death in 274 in Bourges, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Patricius Dong"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Patricius Dong"
 summary: "Seminarian in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Patrizio-Tong.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

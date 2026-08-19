@@ -31,7 +31,6 @@ vocation:
   - Priest
   - Cardinal
   - Theologian
-  - Oratorian
 religiousOrder: Oratorian
 patronage:
   - seekers

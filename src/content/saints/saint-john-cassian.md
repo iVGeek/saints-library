@@ -1,7 +1,7 @@
 ---
 name: "Saint John Cassian"
 honorific: Saint
-title: "Priest, Monk, Deacon"
+title: "Saint John Cassian"
 summary: "Pilgrim to the Holy Lands with his friend and relative Saint Germanus. Monk in Egypt and Marseilles, France. Studied under Saint John Chrysostom, who ordained him a deacon. Defended Chrysostom in Rome, Italy. Founded the abbey of Saint Victor and a convent at Marseilles. His writ"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Cassian.jpeg/960px-John_Cassian.jpeg"
 searchAliases:

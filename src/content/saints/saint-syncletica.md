@@ -1,7 +1,7 @@
 ---
 name: "Saint Syncletica"
 honorific: Saint
-title: "Virgin, Priest, Monk, Hermit"
+title: "Saint Syncletica"
 summary: "Wealthy Alexandrian lady who abandoned her riches and lived till age 84 as a hermitess in a tomb. She suffered in her youth with temptations and spiritual desolation; she suffered in her maturity by cancer and consumption."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Syncletica.jpg"
 searchAliases:

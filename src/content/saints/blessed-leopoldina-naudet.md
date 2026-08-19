@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leopoldina Naudet"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Leopoldina Naudet"
 summary: "Born to a French father and German mother, Leopoldina and her sister Louisa were educated in monasteries in Italy and France. The sisters became tutors to the children of Grand Duke Leopold I in Florence, Italy in 1789; they moved to Vienna, Italy with the family when he became e"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Leopoldina_Naudet.jpg"
 birthYear: 1773
@@ -15,7 +15,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 patronage:
   - "Sisters of the Holy Family"

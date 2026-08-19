@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Righi of Fabriano"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed John Righi of Fabriano"
 summary: "Born to the Italian nobility. Joined the Franciscans in 1484 at Forano, Italy. From 1511, he lived as a hermit at Cupramontana, Ancona, Italy, preaching and caring for the sick. Noted for an ascetic life style and for long periods of prayer."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Righi-of-Fabriano.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

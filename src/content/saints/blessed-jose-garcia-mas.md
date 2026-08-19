@@ -1,7 +1,7 @@
 ---
 name: "Blessed José García Mas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José García Mas"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-García-Mas.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

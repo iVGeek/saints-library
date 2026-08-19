@@ -1,7 +1,7 @@
 ---
 name: "Saint Madelgisilus"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Madelgisilus"
 summary: "Spiritual student of Saint Fursey. Monk at Saint Riquier Abbey in France. Retired to live as a hermit with Saint Pulgan near Monstrelet, France."
 searchAliases:
   - "Maguil"

@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 19 May 1935
 vocation:
   - Bishop
-  - Martyr
 patronage:
   - lawyers
   - priests

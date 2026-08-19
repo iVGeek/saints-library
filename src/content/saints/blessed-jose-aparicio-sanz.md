@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Aparicio Sanz"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed José Aparicio Sanz"
 summary: "Educated by the Sisters of Mercy in Enguera, Spain; the Pious Schools in Valencia, Spain; the College of Saint Joseph Valenza; and the Seminario Conciliar Center. Ordained a priest in the archdiocese of Valencia on 17 June 1916. As a parish priest he was known for his work with c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Aparicio-Sanz.jpg"
 birthYear: 1893
@@ -16,10 +16,8 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 martyr: true
 ---
 

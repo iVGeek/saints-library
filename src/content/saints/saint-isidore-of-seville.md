@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Seville"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit, Royalty, Doctor of the Church, Confessor"
+title: "Saint Isidore of Seville"
 summary: "Son of Severianus and Theodora, people known for their piety. Brother of Saint Fulgentius of Ecija, Saint Florentina of Cartagena, and Saint Leander of Seville, who raised him after their father's death. Initially a poor student, he gave the problem over to God and became one of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isidor_von_Sevilla.jpeg/960px-Isidor_von_Sevilla.jpeg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

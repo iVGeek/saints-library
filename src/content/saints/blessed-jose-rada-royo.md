@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Rada Royo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Rada Royo"
 summary: "Augustinian Recollect priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "José of Our Lady of Sorrows"
@@ -17,9 +17,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

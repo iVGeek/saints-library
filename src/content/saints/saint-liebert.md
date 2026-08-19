@@ -1,7 +1,7 @@
 ---
 name: "Saint Liebert"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Liebert"
 summary: "Benedictine monk. Abbot. Martyred by Normans."
 searchAliases:
   - "Liberto"
@@ -17,7 +17,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 patronage:

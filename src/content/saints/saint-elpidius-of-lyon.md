@@ -1,7 +1,7 @@
 ---
 name: "Saint Elpidius of Lyon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Elpidius of Lyon"
 summary: "Bishop of Lyons, France from 410."
 searchAliases:
   - "Elpidio, Elpèidius"
@@ -13,10 +13,9 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Lyons, France from 410.

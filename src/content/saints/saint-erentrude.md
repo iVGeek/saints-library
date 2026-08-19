@@ -1,7 +1,7 @@
 ---
 name: "Saint Erentrude"
 honorific: Saint
-title: "Monk, Religious, Missionary"
+title: "Saint Erentrude"
 summary: "Relative of Saint Rupert of Salzburg worked with him as a missionary. Benedictine nun. First abbess at Nonnberg convent, Salzburg, a house founded by Rupert."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Statue_Erentrudis_am_Portal_der_Benediktinerinnenabtei_Nonnberg.JPG/960px-Statue_Erentrudis_am_Portal_der_Benediktinerinnenabtei_Nonnberg.JPG"
 searchAliases:

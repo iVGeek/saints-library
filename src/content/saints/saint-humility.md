@@ -1,7 +1,7 @@
 ---
 name: "Saint Humility"
 honorific: Saint
-title: "Religious, Pope, Hermit, Royalty"
+title: "Saint Humility"
 summary: "Born to a wealthy family. Married at age 15 to a nobleman named Ugoletto. Mother of two, both of whom died in infancy. In 1250 Ugoletto was nearly killed, an event made both of them examine their lives and enter the double monastery of Saint Perpetua near Faenza, Italy, Ugoletto"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rochdale_Unitarian_Church_%22Humility%22.jpg/960px-Rochdale_Unitarian_Church_%22Humility%22.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Pope
   - Hermit
-  - Royalty
 patronage:
   - "in Italy\n\nFaenza"
   - "Vallombrosa"

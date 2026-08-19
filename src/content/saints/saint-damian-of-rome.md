@@ -1,7 +1,7 @@
 ---
 name: "Saint Damian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Damian of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Damiano"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

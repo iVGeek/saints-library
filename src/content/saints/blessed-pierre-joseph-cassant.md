@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-Joseph Cassant"
 honorific: Blessed
-title: "Priest, Monk, Pope, Royalty"
+title: "Blessed Pierre-Joseph Cassant"
 summary: "A pious youth, Pierre-Joseph early felt a call to the priesthood, but after months of tutoring by his parish priest, it was obvious that Pierre-Joseph would not be able to master diocesan seminary studies. Instead, on 5 December 1894 he was sent to the Abbey of Sainte-Marie-du-Dé"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Marie-Joseph_Cassant.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

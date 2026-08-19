@@ -1,7 +1,7 @@
 ---
 name: "Saint Vladimir I of Kiev"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Royalty"
+title: "Saint Vladimir I of Kiev"
 summary: "Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand prince of Kiev. Prince of Novgorod in 970. On the death of his father in 972, he fled to Scandinavia, enlisted help from an uncle, and overcame Yaropolk, another"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vladimir-I-of-Kiev.jpg"
 searchAliases:
@@ -20,11 +20,9 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "converts"
   - "parents of large families"

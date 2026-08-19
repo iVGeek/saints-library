@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amparo Carbonell Muñoz"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Amparo Carbonell Muñoz"
 summary: "Born to a poor peasant family, Amparo was educated at a convent of Daughters of Mary, Help of Christians sisters near her home. She felt a call to religious life, but it took a lot of convincing to get her family to agree. She made her initial profession in the Daughters of Mary,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Amparo-Carbonell-Muñoz.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

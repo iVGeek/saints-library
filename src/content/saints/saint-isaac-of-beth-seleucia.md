@@ -1,7 +1,7 @@
 ---
 name: "Saint Isaac of Beth-Seleucia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Isaac of Beth-Seleucia"
 summary: "Bishop of Beth-Seleucia, he was known for the number of converts he brought to the faith. Denounced for interfering with the Persian star worship, and suspected of treasonous collaboration with Roman authorities, he was arrested in 339. Tried before King Shapur II, they were give"
 deathYear: 339
 born: "4th century Persian"
@@ -12,11 +12,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

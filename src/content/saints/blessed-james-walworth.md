@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Walworth"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed James Walworth"
 summary: "Carthusian priest and choir monk at the London Charterhouse. Exiled by the government to the Charterhouse of Saint Michael at Hull, Yorkshire. Martyred with Blessed John Rochester."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Rochester-and-Walworth.jpg"
 deathYear: 1537
@@ -14,10 +14,8 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

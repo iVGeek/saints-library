@@ -1,7 +1,7 @@
 ---
 name: "Saint Restituta of Carthage"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Restituta of Carthage"
 summary: "Virgin-martyr, tortured and killed during the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/gallery/saint-restituta-of-carthage/saint-restituta-of-carthage-01.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

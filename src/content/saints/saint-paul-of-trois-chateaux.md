@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Trois Châteaux"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Paul of Trois Châteaux"
 summary: "Paul fled his home to escape the Germanic tribes invading the northern provinces of the Roman empire. He became a hermit near Arles, France. Reluctant bishop of the former diocese of Augusta Tricastinorum (modern Saint-Paul-Trois-Châteaux), Dauphine (in modern France)."
 deathYear: 405
 born: "in Rheims, Gaul"

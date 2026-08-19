@@ -1,7 +1,7 @@
 ---
 name: "Saint Honoratus of Toulouse"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Honoratus of Toulouse"
 summary: "Third century bishop of Toulouse, France. Ordained Saint Firminus II."
 searchAliases:
   - "Onorato"

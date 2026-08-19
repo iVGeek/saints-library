@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Mitsuishi Hikoemon"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Michaël Mitsuishi Hikoemon"
 summary: "Married layman of the diocese of Fukuoka, Japan. Father of Blessed Thomas Mitsuishi. Martyr."
 birthYear: 1559
 deathYear: 1609
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

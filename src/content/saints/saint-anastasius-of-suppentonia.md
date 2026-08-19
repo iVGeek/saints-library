@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Suppentonia"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Anastasius of Suppentonia"
 summary: "Benedictine monk at Suppentonia (modern Castel Sant'Elia), diocese of Nepi, Italy. Abbot at Suppentonia. Pope Saint Gregory the Great wrote that an angel appeared to summon Anastasius and his monks, all of whom died in rapid succession within the next eight days."
 searchAliases:
   - "Anastasius of Castel Sant'Elia"
@@ -15,13 +15,11 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Castel Saint'Elia, Italy"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Suppentonia (modern Castel Sant'Elia), diocese of Nepi, Italy. Abbot at Suppentonia. Pope Saint Gregory the Great wrote that an angel appeared to summon Anastasius and his monks, all of whom died in rapid succession within the next eight days.

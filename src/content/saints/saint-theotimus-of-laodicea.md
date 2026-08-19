@@ -1,7 +1,7 @@
 ---
 name: "Saint Theotimus of Laodicea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theotimus of Laodicea"
 summary: "Martyr. No other information has survived."
 died: "Laodicea (in modern Syria)"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

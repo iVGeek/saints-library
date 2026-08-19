@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Camogli"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Fortunatus of Camogli"
 summary: "Soldier and legionaire in the imperial Roman army. Convert to Christianity. Murdered for his faith by fellow soldiers."
 searchAliases:
   - "Fortunatus of Rome"
@@ -15,11 +15,10 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Camogli, Italy"
-martyr: true
+martyr: false
 ---
 
 Soldier and legionaire in the imperial Roman army. Convert to Christianity. Murdered for his faith by fellow soldiers.

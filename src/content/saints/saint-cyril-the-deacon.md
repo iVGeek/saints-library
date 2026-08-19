@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Cyril the Deacon"
 summary: "Deacon in Palestine. Tortured and martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Cyril of Heliopolis"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

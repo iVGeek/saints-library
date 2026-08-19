@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stoppa"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Stoppa"
 summary: "Franciscan tertiary. At one point she travelled from Italy to Spain to help establish houses for religious life, then returned to Siena, Italy for a life of prayer. No details of her life survive, but all records of her speak of her piety."
 deathYear: 1415
 born: "latter 14th century in Siena, Italy"
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

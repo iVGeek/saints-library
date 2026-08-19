@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Jo Suk"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Jo Suk"
 summary: "Married layman of the archdiocese of Seoul, Korea. Martyr."
 birthYear: 1787
 deathYear: 1819
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

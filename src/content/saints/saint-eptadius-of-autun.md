@@ -1,7 +1,7 @@
 ---
 name: "Saint Eptadius of Autun"
 honorific: Saint
-title: "Bishop, Priest, Hermit, Royalty"
+title: "Saint Eptadius of Autun"
 summary: "Born to a wealthy and well-connected family, Eptadius was a well-educated young man known for his serious nature, maturity and learning. Just before his wedding at age 20, he was struck by a severe fever; during the illness, the three pious women who cared for him brought him bac"
 searchAliases:
   - "Eptadius of Cervon"
@@ -24,7 +24,6 @@ vocation:
   - Bishop
   - Priest
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "blacksmiths"

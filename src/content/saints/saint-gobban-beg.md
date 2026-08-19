@@ -1,7 +1,7 @@
 ---
 name: "Saint Gobbán Beg"
 honorific: Saint
-title: "Monk"
+title: "Saint Gobbán Beg"
 summary: "Mentioned on old calendars in Ireland. The word “Beg” means “small”, so he was probably a small man, but no details about him have survived."
 searchAliases:
   - "Gobbán the Small"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Onorato of Subiaco"
 honorific: Saint
-title: "Monk"
+title: "Saint Onorato of Subiaco"
 summary: "Benedictine monk in the early 6th century. Abbot at Subiaco, Italy, leading a community formed by Saint Benedict."
 searchAliases:
   - "Honoratus"

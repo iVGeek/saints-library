@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Franquesa Costa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joan Franquesa Costa"
 summary: "Priest. Poet. Member of the Sons of the Holy Family. Preached devotion to the Holy Family in the pulpit, the press and the confessional. Killed in the anti-Christian persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Franquesa-Costa.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest. Poet. Member of the Sons of the Holy Family. Preached devotion to the Holy Family in the pulpit, the press and the confessional. Killed in the anti–Christian persecutions of the Spanish Civil War.

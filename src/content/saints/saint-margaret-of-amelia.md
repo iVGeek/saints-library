@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret of Amelia"
 honorific: Saint
-title: "Religious"
+title: "Saint Margaret of Amelia"
 summary: "Benedictine abbess at Saint Catherine of Amelia abbey. Mystic."
 searchAliases:
   - "Margarita"

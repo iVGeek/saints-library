@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustochius of Tours"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Eustochius of Tours"
 summary: "Born to an illustrious Gallic family, and a relative of Saint Perpetuus. Bishop of Tours, France in 444."
 searchAliases:
   - "Eustachius"

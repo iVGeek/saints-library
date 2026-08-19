@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Baptista Nam Chong-Sam"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Baptista Nam Chong-Sam"
 summary: "Lifelong layman in the apostolic vicariate of Korea. Well educated, he embarked at an early age on a career in civil service, and by age 39 was a regional governor. However, John had trouble reconciling his official duties with his Christianity, and he finally resigned in order t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ioannes-Baptista-Nam-Chong-Sam.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 3
   day: 7
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

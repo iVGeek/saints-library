@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus Wu Wanshu"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Paulus Wu Wanshu"
 summary: "Young layperson of the apostolic vicariate of Southeastern Zhili, China; nephew of Saint Paulus Wu Anju. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

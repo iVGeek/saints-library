@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominica of Shapwick"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Dominica of Shapwick"
 summary: "Irish princess. Following a pilgrimage to Rome, Italy, she was murdered with her brother, Saint Indract, and six others by heathen Saxon brigands. Because they were on a holy journey, and were killed by non-Christians, contemporaries considered them martyrs. Later legends swell t"
 searchAliases:
   - "Drusus"
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

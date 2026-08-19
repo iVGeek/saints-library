@@ -1,7 +1,7 @@
 ---
 name: "Saint Modomnoc"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Confessor"
+title: "Saint Modomnoc"
 summary: "Member of the Irish royal O'Neill clan. Monk. Spiritual student of Saint David of Wales. Beekeeper while a novice. When he returned to Ireland, a swarm of his bees followed his ship. Hermit at Tibraghny, Kilkenny, Ireland. Bishop of Ossory, Ireland."
 searchAliases:
   - "Dominic"

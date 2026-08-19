@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus Tomachi"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Paulus Tomachi"
 summary: "Young son of Blessed Ioannes Tomachi in the archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Paul Tomaki"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

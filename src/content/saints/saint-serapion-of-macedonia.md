@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion of Macedonia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Serapion of Macedonia"
 summary: "Zealous evangelist who brought many pagans to the faith. Martyred in the persecutions of Septimus Severus."
 deathYear: 195
 died: "burned alive c.195, probably in Macedonia"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ado of Vienne"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Ado of Vienne"
 summary: "Born to the French nobility. Educated at Ferrières Abbey. Ado renounced his title and inheritence, and became a Benedictine monk at Ferrières. He taught at Prüm Abbey at the request of its abbot, but dissension among the brothers forced him to return home. Pilgrim to Rome, Italy"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adonis-of-Vienna.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor

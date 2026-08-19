@@ -1,7 +1,7 @@
 ---
 name: "Blessed Colomba Matylda Gabriel"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Colomba Matylda Gabriel"
 summary: "Born to the wealthy Polish nobility, Janina became a teacher, first in public schools, and then in ones run by the Benedictines. Feeling a call to religious life, Janina became a Benedictine nun, taking the name of Colomba, and making her profession on 20 August 1882. She served"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Colomba-Matylda-Gabriel.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Benedictine Sisters of Charity (Benedettine di Caritá)"

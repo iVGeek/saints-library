@@ -11,8 +11,7 @@ feastDay:
   month: 9
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Archangel
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - broadcasters

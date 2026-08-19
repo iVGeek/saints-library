@@ -1,7 +1,7 @@
 ---
 name: "Saint Mamlacha"
 honorific: Saint
-title: "Martyr, Religious, Royalty"
+title: "Saint Mamlacha"
 summary: "Nun. Martyred in the persecutions of king Shapur II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mamlacha.jpg"
 died: "Persia"
@@ -11,9 +11,7 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-  - Royalty
 martyr: true
 ---
 

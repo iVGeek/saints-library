@@ -1,7 +1,7 @@
 ---
 name: "Saint Felician of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felician of Sicily"
 summary: "Martyr."
 searchAliases:
   - "Feliciano"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

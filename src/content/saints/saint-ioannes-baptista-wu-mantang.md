@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Baptista Wu Mantang"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Baptista Wu Mantang"
 summary: "Young layman of the apostolic vicariate of Southeastern Zhili, China; son of Saint Paulus Wu Anju. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

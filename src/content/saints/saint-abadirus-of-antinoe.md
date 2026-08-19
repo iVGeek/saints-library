@@ -1,7 +1,7 @@
 ---
 name: "Saint Abadirus of Antinoë"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Abadirus of Antinoë"
 summary: "Brother of Saint Rhaïs  of Alexandria. Imprisoned, tortured and executed in the persecutions of Severus. Martyr."
 searchAliases:
   - "Abadir"
@@ -15,7 +15,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

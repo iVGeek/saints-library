@@ -1,7 +1,7 @@
 ---
 name: "Saint Heraclides of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Heraclides of Alexandria"
 summary: "Catechumen. Spiritual student of Origen. Martyred in the persecutions of Severus."
 searchAliases:
   - "Eraclide"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

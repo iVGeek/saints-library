@@ -1,7 +1,7 @@
 ---
 name: "Saint Stefano of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Stefano of Antioch"
 summary: "Bishop. Abused by heretic protesters at the Council of Chalcedon. Martyr."
 searchAliases:
   - "Stephen"
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

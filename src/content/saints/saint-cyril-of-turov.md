@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril of Turov"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty"
+title: "Saint Cyril of Turov"
 summary: "Born wealthy. Fluent in Greek and Russian, he read heavily in all sacred works, and was later known as a Bible scholar. When he was grown, he renounced his inheritance, and became a monk in the Turov Borisoglebsk monastery. Preached discipline and obedience to his brother monks."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cyril-of-Turov.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

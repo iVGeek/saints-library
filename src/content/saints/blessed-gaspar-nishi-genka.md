@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gaspar Nishi Genka"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Gaspar Nishi Genka"
 summary: "Layman of the archdiocese of Nagasaki, Japan where he served as a catechist. Married to Blessed Ursula Nishi; father of Blessed Ioannes Nishi Mataishi. Martyr."
 birthYear: 1555
 deathYear: 1609
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

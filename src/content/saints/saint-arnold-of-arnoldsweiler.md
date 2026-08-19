@@ -1,7 +1,7 @@
 ---
 name: "Saint Arnold of Arnoldsweiler"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Arnold of Arnoldsweiler"
 summary: " Part of the tradition of devotion to Saint Arnold is a donation of candles, sometimes referred to as “wax interest” or “wax sacrifice”. For several centuries, parishes and villages Harpist and singer at the court of Blessed Charlemagne. Pilgrim to Santiago de Compostela in Spain."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arnoldusfigur_%2818._Jh%29%2C_Pfarrkirche_Arnoldsweiler.jpg/960px-Arnoldusfigur_%2818._Jh%29%2C_Pfarrkirche_Arnoldsweiler.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 patronage:
   - "for a good death"
   - "for the healing of livestock"

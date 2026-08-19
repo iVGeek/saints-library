@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundinus of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Secundinus of Cordoba"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 306
 died: "c.306 in Cordoba, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

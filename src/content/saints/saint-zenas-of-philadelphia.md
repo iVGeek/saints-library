@@ -1,7 +1,7 @@
 ---
 name: "Saint Zenas of Philadelphia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zenas of Philadelphia"
 summary: "Former slave of Saint Zeno. After being freed, he stayed with Zeno as a servant, and became public about his Christianity. Imprisoned, tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Zena"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

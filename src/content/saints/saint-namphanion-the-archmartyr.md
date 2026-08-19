@@ -1,7 +1,7 @@
 ---
 name: "Saint Namphanion the Archmartyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Namphanion the Archmartyr"
 summary: "Martyred with several companions whose names have not come down to us. No other information has survived."
 deathYear: 180
 born: "Carthaginian"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

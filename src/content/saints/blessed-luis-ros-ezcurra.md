@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Ros Ezcurra"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis Ros Ezcurra"
 summary: "Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Ros-Ezcurra.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

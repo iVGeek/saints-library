@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felipe González de Heredia Barahona"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Felipe González de Heredia Barahona"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Gonzalez-de-Heredia-Barahona.jpg"
 birthYear: 1889
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

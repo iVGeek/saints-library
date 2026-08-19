@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillermo Fernández Aguilera"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Guillermo Fernández Aguilera"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

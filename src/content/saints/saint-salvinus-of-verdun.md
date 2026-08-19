@@ -1,7 +1,7 @@
 ---
 name: "Saint Salvinus of Verdun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Salvinus of Verdun"
 summary: "Bishop of Verdun, France c.383, serving over 36 years."
 region: "France"
 feastDay:

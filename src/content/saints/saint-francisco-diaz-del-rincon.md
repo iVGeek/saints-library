@@ -1,7 +1,7 @@
 ---
 name: "Saint Francisco Díaz del Rincón"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Saint Francisco Díaz del Rincón"
 summary: "Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the Philippines in 1735, and soon after that in China. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Francisco-Díaz-del-Rincón.jpg"
 birthYear: 1713
@@ -16,10 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

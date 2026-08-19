@@ -1,7 +1,7 @@
 ---
 name: "Saint Nemesius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Pope, Soldier"
+title: "Saint Nemesius of Rome"
 summary: "Father of Saint Lucilla. Roman military tribune. Convert, brought to Christianity by Pope Saint Stephen I. Deacon in Rome, Italy. Martyred in the persecutions of Valerian."
 searchAliases:
   - "Nemesio"
@@ -15,8 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
 martyr: true

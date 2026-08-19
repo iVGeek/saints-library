@@ -1,7 +1,7 @@
 ---
 name: "Saint Branwallader of Jersey"
 honorific: Saint
-title: "Bishop, Monk, Hermit, Royalty"
+title: "Saint Branwallader of Jersey"
 summary: "Hermit. Monk. Bishop of Jersey, England."
 searchAliases:
   - "Branwallader of Wales"
@@ -37,7 +37,6 @@ vocation:
   - Bishop
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

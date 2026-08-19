@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ferdinando Santamaria"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Ferdinando Santamaria"
 summary: "The oldest of five children, Ferdinando's father ran a rope-making business. The boy was drawn to religious life from an early age, and was stressed when he had to spend time at work instead of in church. On 5 March 1899, less than 16 years old, he became a Passionist cleric and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Santamaria-1.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

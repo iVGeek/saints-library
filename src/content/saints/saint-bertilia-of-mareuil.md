@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertilia of Mareuil"
 honorific: Saint
-title: "Virgin, Priest, Monk"
+title: "Saint Bertilia of Mareuil"
 summary: "Born to the Frankish nobility, the daughter of Ricomer and Gertrude. Noted in her youth for her piety and charity. Married to Goutland, another Frankish noble noted for his own piety. Widow. She built a church dedicated to Saint Amandus of Maastricht, and moved into an adjoining"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bertilia-of-Mareuil.jpg"
 searchAliases:

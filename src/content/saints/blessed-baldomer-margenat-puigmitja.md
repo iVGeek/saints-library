@@ -1,7 +1,7 @@
 ---
 name: "Blessed Baldomer Margenat Puigmitja"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Baldomer Margenat Puigmitja"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Esiqui Josep"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

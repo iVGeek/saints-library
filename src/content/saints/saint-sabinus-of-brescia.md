@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinus of Brescia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sabinus of Brescia"
 summary: "Martyr. No reliable information has survived."
 searchAliases:
   - "Savinus"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Sanchís Mompó"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Sanchís Mompó"
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Sanchís-Mompó.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

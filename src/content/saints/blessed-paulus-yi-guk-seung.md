@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus Yi Guk-seung"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Paulus Yi Guk-seung"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 birthYear: 1772
 deathYear: 1801
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioachim Kuroemon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ioachim Kuroemon"
 summary: "Layman catechist in the diocese of Hiroshima, Japan. Martyr."
 birthYear: 1559
 deathYear: 1624
@@ -15,8 +15,6 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Amias"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Amias"
 summary: "Married layman cloth merchant in Wakefield, England. Father of several children. A widower, he divided his property among his children, and studied for the priesthood in Rheims, France. Ordained in 1581. He returned to England as a home missioner to covert Catholics. Arrested at"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Blessed-john-amias-and-robert-dalby.png"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

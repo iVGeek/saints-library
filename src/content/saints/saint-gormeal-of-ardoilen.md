@@ -1,7 +1,7 @@
 ---
 name: "Saint Gormeal of Ardoilen"
 honorific: Saint
-title: "Monk"
+title: "Saint Gormeal of Ardoilen"
 summary: "Abbot at Ardoilen, Galway, Ireland."
 searchAliases:
   - "Gormcal"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charlotte Lucas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Charlotte Lucas"
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1752
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Charlotte_Lucas.jpg"
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

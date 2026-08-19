@@ -1,7 +1,7 @@
 ---
 name: "Saint Isberga"
 honorific: Saint
-title: "Bishop, Monk, Religious"
+title: "Saint Isberga"
 summary: "Sister of Charlemagne. Nun at Aire in the Artois region of France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Isberga.jpg"
 searchAliases:

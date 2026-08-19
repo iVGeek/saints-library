@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Baríau y Martí"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Jaume Baríau y Martí"
 summary: "Jaume joined the Capuchin Franciscan Friars Minor in 1906, making his solemn profession on 15 August 1911. Ordained a priest on 29 May 1915. Father Jaume taught liturgy, Hebrew and Church history in the seminary at Sarriá, Barcelona, Spain, living at the Franciscan convent in Man"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Baríau-Martí.jpg"
 searchAliases:
@@ -19,11 +19,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

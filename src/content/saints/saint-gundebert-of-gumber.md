@@ -1,7 +1,7 @@
 ---
 name: "Saint Gundebert of Gumber"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Gundebert of Gumber"
 summary: "Eighth century Frankish courtier. Brother of Saint Nivard. Married to Saint Bertha of Avenay. With Bertha's approval, he separated from her to become a monk. Travelled to Ireland where he was martyred by pagans attacking his monastery."
 born: "France"
 died: "in Ireland"
@@ -11,9 +11,7 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Romuald"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit, Confessor"
+title: "Saint Romuald"
 summary: "Italian nobility who spent a wild youth. Acting as second, he witnessed his father kill another man in a duel, and Romuald sought to atone for the crime by becoming a Benedictine monk at Classe, Italy. Abbot from 996 to 999. A wanderer by nature, he established several hermitage"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fra_Angelico_032.jpg/960px-Fra_Angelico_032.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
   - Confessor
 religiousOrder: "Franciscan"

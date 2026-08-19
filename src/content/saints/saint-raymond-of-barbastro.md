@@ -1,7 +1,7 @@
 ---
 name: "Saint Raymond of Barbastro"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Raymond of Barbastro"
 summary: "Augustinian canon regular at the monastery of Saint-Antonin de Frédélas in Pamiers, France. Prior of the monastery of Saint-Sernin in Toulouse, France. Bishop of Barbastro, Aragon, Spain in 1104. Very active in his diocese, constantly travelling to visit parishes, caring for his"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/30/ReliefRamon.jpg"
 searchAliases:

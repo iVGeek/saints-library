@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedict Biscop"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Benedict Biscop"
 summary: "Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at the monastery of Saint-Honorat near Cannes, France"
 image: "http://catholicsaints.info/wp-content/uploads/Benedict-Biscop.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -34,7 +32,7 @@ patronage:
   - "Jarrow"
   - "Monkwearmouth"
   - "Sunderland"
-martyr: true
+martyr: false
 ---
 
 Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at the monastery of Saint-Honorat near Cannes, France in 666, taking the name Benedict.

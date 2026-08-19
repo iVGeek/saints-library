@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Sergeant"
 honorific: Blessed
-title: "Martyr, Priest, Deacon, Pope"
+title: "Blessed Richard Sergeant"
 summary: "Son of Thomas and Katherine Sergeant. Graduated Oxford University c.1570. Seminarian at the English College in Rheims, France on 25 July 1581. Deacon at Soissons, France on 9 June 1582. Ordained at Laon, France on 7 April 1583. Returned to England on 10 September 1583 to minister"
 searchAliases:
   - "Richard Lee"
@@ -17,10 +17,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Deacon
-  - Pope
 martyr: true
 ---
 

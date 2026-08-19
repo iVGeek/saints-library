@@ -1,7 +1,7 @@
 ---
 name: "Saint Columba of Cordova"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Columba of Cordova"
 summary: "Born to a pious family; her brother was an abbot, and her sister and brother-in-law founded a double monastery at Tabanos, Spain. Her father died when Columba was still living with her parents. Her mother wanted the girl to marry, but Columba was drawn to religious life, and ente"
 searchAliases:
   - "Columba of Cordoba"
@@ -17,7 +17,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lorgius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lorgius of Caesarea"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Lorgio"
@@ -13,7 +13,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

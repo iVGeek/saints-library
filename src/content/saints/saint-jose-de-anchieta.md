@@ -1,7 +1,7 @@
 ---
 name: "Saint José de Anchieta"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Pope, Missionary"
+title: "Saint José de Anchieta"
 summary: "Son of a wealthy and prominent family, and possibly related to Saint Ignatius of Loyola. Educated in Portugal. Joined the Jesuits in 1551 at age 17. Missionary to Brazil, arriving on 13 July 1553. He is the National Apostle of Brazil, and was co-founder of the cities of Sao Paulo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-José-de-Anchieta-1.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

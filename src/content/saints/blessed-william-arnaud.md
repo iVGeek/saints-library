@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Arnaud"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed William Arnaud"
 summary: "Dominican. Friend of Saint Dominic de Guzman. Chief assistant to the inquisitor Peter Seila when he was investigation the Albigensians. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Arnaud.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "against neuralgia (due to miracle healing of one of the Dominican sisters of the monastery of Prouille, France)"

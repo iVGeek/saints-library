@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Lérida"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Anastasius of Lérida"
 summary: "Son of Lleida. Imperial Roman soldier. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-of-Lerida.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Badalona, Spain"

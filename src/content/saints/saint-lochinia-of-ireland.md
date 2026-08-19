@@ -1,7 +1,7 @@
 ---
 name: "Saint Lochinia of Ireland"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Lochinia of Ireland"
 summary: "Born a princess, the daughter of Briga and King Conall Derg of Oriel in northern Ireland. Sister of Saint Fanchea of Rossory, Saint Carecha of Clonburren, Saint Darenia of Cashel and Saint Enda of Arran. No details of her life have survived."
 searchAliases:
   - "Lochin"
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

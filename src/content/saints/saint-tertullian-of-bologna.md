@@ -1,7 +1,7 @@
 ---
 name: "Saint Tertullian of Bologna"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Tertullian of Bologna"
 summary: "Eighth bishop of Bologna, Italy, serving during the collapse of the western Roman Empire."
 deathYear: 490
 died: "c.490"
@@ -11,10 +11,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Eighth bishop of Bologna, Italy, serving during the collapse of the western Roman Empire.

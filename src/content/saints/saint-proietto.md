@@ -1,7 +1,7 @@
 ---
 name: "Saint Proietto"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Proietto"
 summary: "Deacon, serving with and martyred with Saint Evasius of Asti in the persecutions by Arians."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
 martyr: true
 ---

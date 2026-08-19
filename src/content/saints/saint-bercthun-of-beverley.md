@@ -1,7 +1,7 @@
 ---
 name: "Saint Bercthun of Beverley"
 honorific: Saint
-title: "Monk"
+title: "Saint Bercthun of Beverley"
 summary: "Benedictine monk. Spiritual student of Saint John of Beverley. First abbot of Beverley in England."
 image: "https://catholicsaints.info/wp-content/uploads/img-SaintBercthun-of-Beverley.jpg"
 searchAliases:

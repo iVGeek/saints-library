@@ -1,7 +1,7 @@
 ---
 name: "Blessed Raymond of Granada"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Raymond of Granada"
 summary: "Mercedarian friar. Martyred for preaching Christianity in Moorish-occupied Granada, Spain."
 died: "Granada, Spain"
 deathPlace: "Spain"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

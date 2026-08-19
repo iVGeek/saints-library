@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Tuân"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Giuse Tuân"
 summary: "Dominican priest. Arrested and executed in the persecutions of Emperor Tu-Duc, charged with spying when caught bringing Holy Communion to his sick mother. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Giuse-Tuan.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

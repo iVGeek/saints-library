@@ -1,7 +1,7 @@
 ---
 name: "Saint Tola"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Tola"
 summary: "Abbot and Bishop of Disert Tola in Meath, Ireland."
 deathYear: 733
 died: "c.733"

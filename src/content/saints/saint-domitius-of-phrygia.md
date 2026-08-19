@@ -1,7 +1,7 @@
 ---
 name: "Saint Domitius of Phrygia"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Domitius of Phrygia"
 summary: "Convert to Christianity. Hermit at Nisibis, Mesopotamia. Martyred for challenging Julian the Apostate."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-of-Phrygia.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Madeleine-Françoise de Justamond"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Madeleine-Françoise de Justamond"
 summary: "Cistercian nun, entering the novitiate in Avignon, France in 1772, and making her profession on 24 October 1773. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

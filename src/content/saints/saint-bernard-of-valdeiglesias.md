@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Valdeiglesias"
 honorific: Saint
-title: "Monk"
+title: "Saint Bernard of Valdeiglesias"
 summary: "Benedictine Cistercian monk."
 searchAliases:
   - "Bernard of Candeleda"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus of Avignon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Rufus of Avignon"
 summary: "First bishop of Avignon, France."
 region: "France"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 First bishop of Avignon, France.

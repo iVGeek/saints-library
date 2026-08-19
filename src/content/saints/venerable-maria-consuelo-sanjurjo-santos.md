@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Consuelo Sanjurjo Santos"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable María Consuelo Sanjurjo Santos"
 summary: "Professed religious of the Congregation of the Servants of Mary, Ministers to the Sick."
 searchAliases:
   - "María Soledad"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

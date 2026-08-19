@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanna Meneghini"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Giovanna Meneghini"
 summary: "Founded the Ursulines of the Sacred Heart of Mary."
 birthYear: 1868
 deathYear: 1918
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

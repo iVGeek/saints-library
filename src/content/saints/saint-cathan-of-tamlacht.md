@@ -1,7 +1,7 @@
 ---
 name: "Saint Cathan of Tamlacht"
 honorific: Saint
-title: "Monk"
+title: "Saint Cathan of Tamlacht"
 summary: "One of the Breton Missionaries to Britain."
 feastDay:
   month: 1

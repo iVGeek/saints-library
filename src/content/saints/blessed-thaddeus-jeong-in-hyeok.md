@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thaddeus Jeong In-hyeok"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Thaddeus Jeong In-hyeok"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 deathYear: 1801
 born: "Seoul, South Korea"
@@ -13,9 +13,7 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

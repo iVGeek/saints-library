@@ -1,7 +1,7 @@
 ---
 name: "Saint Hypatius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hypatius"
 summary: "Martyr."
 deathYear: 273
 died: "beheaded in 273 at Byzantium"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

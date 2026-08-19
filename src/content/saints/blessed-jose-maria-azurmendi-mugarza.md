@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Azurmendi Mugarza"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Azurmendi Mugarza"
 summary: "Baptized on the day of his birth as it seemed that he and his twin brother, Agapito, might not survive the day. In his late teens, José felt a call to religious life, and became a Franciscan Friar Minor on 31 January 1887; he made his profession on 22 July 1891. He continued his"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Maria-Azurmendi-Mugarza.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

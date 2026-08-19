@@ -1,7 +1,7 @@
 ---
 name: "Saint Susanna of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Saint Susanna of Rome"
 summary: "Roman noble, the beautiful daughter of Saint Gabinus, and niece of Pope Caius, living in the early part of Diocletian's reign when the last large-scale persecutions were building steam. Having made a private vow of virginity, and not wanting to be part of a family that murdered h"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Saint_Susanna_statue_-_Cathedral_of_Santiago_de_Compostela.JPG/960px-Saint_Susanna_statue_-_Cathedral_of_Santiago_de_Compostela.JPG"
 deathYear: 295
@@ -13,11 +13,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

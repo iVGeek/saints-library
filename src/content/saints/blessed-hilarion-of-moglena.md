@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hilarion of Moglena"
 honorific: Blessed
-title: "Martyr, Bishop, Monk"
+title: "Blessed Hilarion of Moglena"
 summary: "Monk. Bishop of the Moglena region of western Macedonia. Fought the heresies Manichaeism and Messalianism."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hilarion-of-Moglena.jpg"
 deathYear: 1164
@@ -12,10 +12,9 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Bishop of the Moglena region of western Macedonia. Fought the heresies Manichaeism and Messalianism.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastian Newdigate"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Sebastian Newdigate"
 summary: "Younger son of John Newdigate, a king's sergeant, and Amphelys, daughter and heiress of John Nevill of Sutton, Lincolnshire, a pious family; his sister became a Dominican nun at the Dartford, England convent. Studied at Cambridge University. Married layman, and father of one daug"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Vicente_Carducho._Pinturas_para_la_cartuja_de_El_Paular._03.jpg"
 deathYear: 1535
@@ -14,8 +14,7 @@ feastDay:
   month: 6
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

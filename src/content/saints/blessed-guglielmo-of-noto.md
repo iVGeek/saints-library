@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guglielmo of Noto"
 honorific: Blessed
-title: "Pope, Hermit, Royalty"
+title: "Blessed Guglielmo of Noto"
 summary: "Born to the nobility, Guglielmo served as a page in the court of King Frederick II. One day in 1337 while the court was hunting on the slopes of Mount Etna, King Frederick was attacked by a wild boar. Young Guglielmo jumped on the boar and killed it, getting seriously bitten in t"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Noto.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "for rain"

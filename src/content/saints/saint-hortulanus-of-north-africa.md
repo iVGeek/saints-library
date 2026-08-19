@@ -1,7 +1,7 @@
 ---
 name: "Saint Hortulanus of North Africa"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Hortulanus of North Africa"
 summary: "Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity."
 region: "Africa"
 feastDay:
@@ -11,7 +11,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

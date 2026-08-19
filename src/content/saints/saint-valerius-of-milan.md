@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerius of Milan"
 honorific: Saint
-title: "Monk"
+title: "Saint Valerius of Milan"
 summary: "Venerated in Milan, Italy, but no details have survived."
 region: "Italy"
 feastDay:

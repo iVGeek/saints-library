@@ -1,7 +1,7 @@
 ---
 name: "Blessed Concepción Rodríguez Fernández"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Concepción Rodríguez Fernández"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Concepción of Saint Magdalene"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Abdelcalas"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Abdelcalas"
 summary: "Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II."
 searchAliases:
   - "Abdelchalas"
@@ -16,10 +16,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

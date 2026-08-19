@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of Cordoba"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Januarius of Cordoba"
 summary: "Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba."
 deathYear: 304
 died: "burned to death in 304 in Cordoba, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

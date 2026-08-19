@@ -1,7 +1,7 @@
 ---
 name: "Saint Boniface Curitan"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Boniface Curitan"
 summary: "Bishop of Ross, Scotland. Evangelized the Picts and Scots. Introduced Roman liturgy, observance and monastic discipline into the region. Found many churches in the northern British Isles."
 searchAliases:
   - "Boniface Curitan of Ross"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucio of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lucio of Alexandria"
 summary: "One of a number of Christians martyred in the persecutions of Valerian."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

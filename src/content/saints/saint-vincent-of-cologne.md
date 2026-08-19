@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Cologne"
 honorific: Saint
-title: "Martyr, Priest, Monk, Cardinal"
+title: "Saint Vincent of Cologne"
 summary: "Cardinal-priest. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Cardinal

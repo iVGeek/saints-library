@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ivan Merz"
 honorific: Blessed
-title: "Priest, Pope, Soldier"
+title: "Blessed Ivan Merz"
 summary: "Educated in Banja Luka, briefly in a military academy, and in Vienna, Austria. Fought on the Italian front of World War I. After the war he studied again in Vienna, in Paris, France, and then taught French language and literature at the University of Zagreb, from which he receive"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bl_Ivan_Merz_u_Bazilici_Srca_Isusova_13_rujna_2008.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Soldier
 martyr: false
 ---

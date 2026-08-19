@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eduardo González Santo Domingo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Eduardo González Santo Domingo"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

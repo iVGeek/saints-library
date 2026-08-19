@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Ferrándiz Hernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María Ferrándiz Hernández"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ferrándiz-Hernández.jpg"
 birthYear: 1879
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

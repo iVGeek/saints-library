@@ -1,7 +1,7 @@
 ---
 name: "Saint Louis of Toulouse"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Louis of Toulouse"
 summary: "Born to the nobility, the son of Charles II of Anjou, king of Naples. Great-nephew of Saint Louis IX, and of Saint Elizabeth of Hungary. Grew up in Provence (in modern France). Spent seven years as a hostage for his father at Barcelona and Tarragona in Spain. Ordained at age 23."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Simone_Martini_-_Saint_Louis_of_Toulouse.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Chen Xianheng"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Chen Xianheng"
 summary: "Layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr."
 searchAliases:
   - "John Chen Xianheng"
@@ -17,9 +17,7 @@ feastDay:
   month: 2
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

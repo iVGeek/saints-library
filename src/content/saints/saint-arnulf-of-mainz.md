@@ -1,7 +1,7 @@
 ---
 name: "Saint Arnulf of Mainz"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Arnulf of Mainz"
 summary: "Studied in Paris, France. Chamberlain to the archbishop of Mainz, Germany. archbishop of Mainz, Germany in 1153. Martyr."
 searchAliases:
   - "Arnold von Selenhofen"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

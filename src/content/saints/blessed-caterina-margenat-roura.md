@@ -1,7 +1,7 @@
 ---
 name: "Blessed Caterina Margenat Roura"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Caterina Margenat Roura"
 summary: "Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Margenat-Roura.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

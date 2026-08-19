@@ -2,7 +2,7 @@
 name: "Blessed Aaron of Auxerre"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aaron_Kwok%27s_concert_20111222.jpg/960px-Aaron_Kwok%27s_concert_20111222.jpg"
 honorific: Blessed
-title: "Bishop, Priest"
+title: "Blessed Aaron of Auxerre"
 summary: "Ninth-century bishop of Auxerre, France."
 deathYear: 807
 died: "c.807 in Auxerre, France of natural causes"

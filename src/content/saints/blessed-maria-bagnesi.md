@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Bagnesi"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Maria Bagnesi"
 summary: " Wh A happy, beautiful, under-sized, frequently neglected child, her mother often left her to the care of others, including a sister who was a Dominican nun. Marietta grew up and had her best times in her sister's convent, and four of her sisters eventually entered religious life."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blessed_maria_bartolomea_bagnesi.png"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "abuse victims"

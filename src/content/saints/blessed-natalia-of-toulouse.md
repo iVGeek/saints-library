@@ -1,7 +1,7 @@
 ---
 name: "Blessed Natalia of Toulouse"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Natalia of Toulouse"
 summary: "Moved to Toulouse, France at age 16 to obtain an education. Joined the Mercedarians in Toulouse, received into the Order by Blessed Bernardo of Poncelli. While she could not make the trips into Muslim occupied territory to ransom Christians held as slaves, she became known for he"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Natalia-of-Toulouse.jpg"
 birthYear: 1312
@@ -15,8 +15,7 @@ feastDay:
   month: 7
   day: 4
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

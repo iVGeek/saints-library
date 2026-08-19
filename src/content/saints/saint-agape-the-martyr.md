@@ -1,7 +1,7 @@
 ---
 name: "Saint Agape the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agape the Martyr"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

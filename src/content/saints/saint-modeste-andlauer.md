@@ -1,7 +1,7 @@
 ---
 name: "Saint Modeste Andlauer"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Modeste Andlauer"
 summary: "Eighth son of Joseph Andlauer, a baker, and Françoise Barbe Bisch. Baptized on 23 May 1847 at the church of Saints Peter and Paul, in Rosheim, France. Studied at the Episcopal College of Saint-Etienne in Strasbourg, France. Joined the Jesuits in October 1872 in Saint-Acheul, Fran"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Modeste-Andlauer.jpg"
 birthYear: 1847
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

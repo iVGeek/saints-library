@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Kusuriya"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Michaël Kusuriya"
 summary: "Lifelong layman of the archdiocese of Nagasaki, Japan. Known as the Good Samaritan of Nagasaki due to his ministry of mercy to the poor, the neglected, widows and orphans, especially those created by martyrdom. Executed for the crime of being a Christian and helping Christians. M"
 searchAliases:
   - "the Good Samaritan of Nagasaki"
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

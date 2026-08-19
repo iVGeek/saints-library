@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary the Slave"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Mary the Slave"
 summary: "Christian slave in the house of Tertullus, a patrician in Rome, Italy. Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "c.300"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

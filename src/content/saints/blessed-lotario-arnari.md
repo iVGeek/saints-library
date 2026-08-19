@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lotario Arnari"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Lotario Arnari"
 summary: "Mercedarian friar."
 image: "http://catholicsaints.info/wp-content/uploads/img-Beati-Lotario-Arnari-e-Antonio-Taglia.jpg"
 died: "convent of Santa Maria in Toulouse, France of natural causes"
@@ -11,8 +11,7 @@ feastDay:
   month: 2
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Narbonne"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary, Confessor"
+title: "Saint Paul of Narbonne"
 summary: "Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France."
 deathYear: 250
 died: "c.250 of natural causes"
@@ -11,12 +11,11 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Gabriella Sagheddu"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Maria Gabriella Sagheddu"
 summary: "Born to a family of shepherds. As a child she was described as obstinate, critical, protesting, and rebellious - but loyal, and obedient; she would say no to a request - but act on it at once. At 18 she became gentler, her temper abated, she became involved in prayer and charity,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Gabriella-Sagheddu.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 patronage:
   - "against bodily ills"
   - "against death of parents"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Demetrius of Alexandria"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Demetrius of Alexandria"
 summary: "Patriarch of Alexandria, Egypt in 188; he served for 43 years. Supported the catechetical school of Alexandria, appointing Origen as director of the school in 203; he later exiled Origen for being ordained without permission."
 deathYear: 231
 died: "231 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Prat Colldecarrera"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joan Prat Colldecarrera"
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pere Tomàs Maria"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

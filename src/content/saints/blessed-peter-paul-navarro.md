@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Paul Navarro"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Peter Paul Navarro"
 summary: " An imperial edict in 1614 expelled all foreig Joined the Jesuits in Naples, Italy in 1578. Ordained in Goa, India. Missionary to Japan. Became fluent in Japanese, and lived as much like a native as he could, wanting to show that Christianity was no threat to a Japanese lifestyle."
 searchAliases:
   - "Paul Navarro"
@@ -18,12 +18,10 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Joined the Jesuits in Naples, Italy in 1578. Ordained in Goa, India. Missionary to Japan. Became fluent in Japanese, and lived as much like a native as he could, wanting to show that Christianity was no threat to a Japanese lifestyle.

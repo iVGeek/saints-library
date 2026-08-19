@@ -1,7 +1,7 @@
 ---
 name: "Saint Pansofius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Pansofius of Alexandria"
 summary: "Son of the imperial pro-consul of Alexandria, Egypt. When Pansofius came into his inheritance, he gave away his entire fortune to the poor and lived as a hermit outside the city for over 20 years. During the persecutions of Decius, Pansofius' reputation for sanctity led to his ar"
 deathYear: 250
 died: "c.250 in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

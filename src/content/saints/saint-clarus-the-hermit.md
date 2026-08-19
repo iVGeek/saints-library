@@ -1,7 +1,7 @@
 ---
 name: "Saint Clarus the Hermit"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Clarus the Hermit"
 summary: "Born to the English nobility. Priest. Hermit near Rouen, France. Martyr. The village where he was murdered is named for him."
 searchAliases:
   - "Clair"
@@ -16,7 +16,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit

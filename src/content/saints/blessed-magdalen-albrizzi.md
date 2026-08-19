@@ -1,7 +1,7 @@
 ---
 name: "Blessed Magdalen Albrizzi"
 honorific: Blessed
-title: "Virgin, Religious, Pope, Hermit"
+title: "Blessed Magdalen Albrizzi"
 summary: "Born to the Italian nobility. On the death of her parents, she became a nun at Brunate, Italy. As abbess she affiliated her house with the Augustinian hermits. Built a hospice in Como, Italy, and encouraged frequent Communion for everyone. She was known as a miracle worker, and f"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Magdalen-Albrizzi.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

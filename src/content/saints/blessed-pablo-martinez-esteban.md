@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pablo Martínez Esteban"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Pablo Martínez Esteban"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Gaspar"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

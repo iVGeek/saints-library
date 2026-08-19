@@ -1,7 +1,7 @@
 ---
 name: "Saint Catald of Taranto"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Catald of Taranto"
 summary: "Student at the monastic school of Lismore, Waterford under Saint Carthage. Later a teacher there, and then headmaster. Pilgrim to the Holy Land. On his way home a storm shipwrecked him in Taranto, Italy. As he recovered, his holiness was such that he was chosen by the people to b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Catald-of-Taranto.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
@@ -47,7 +46,7 @@ patronage:
   - "Corato"
   - "Massa Lubrense"
   - "Taranto"
-martyr: true
+martyr: false
 ---
 
 Student at the monastic school of Lismore, Waterford under Saint Carthage. Later a teacher there, and then headmaster. Pilgrim to the Holy Land. On his way home a storm shipwrecked him in Taranto, Italy. As he recovered, his holiness was such that he was chosen by the people to be their bishop. He lived the rest of his life in the region, teaching and caring for his parishioners. There are towns in Sicily and southern Italy named for him.

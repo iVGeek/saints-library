@@ -1,7 +1,7 @@
 ---
 name: "Saint Principius of Soissons"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Principius of Soissons"
 summary: "Born to the Gallo-Roman nobility, the son of Emilius, count of Laon, and of Saint Celina; elder brother of Saint Remigius of Rheims. Bishop of Soissons, France."
 searchAliases:
   - "Principio"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Corleone"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Bernard of Corleone"
 summary: "Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a man named Canino in a duel, he sought sanctuary from the law in the church of the Capuchin Friars Minor in Palermo. While hiding there, he had a true conversion,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fortunat_Bergant_-_Sv._Bernard_Korleonski.jpg/960px-Fortunat_Bergant_-_Sv._Bernard_Korleonski.jpg"
 searchAliases:
@@ -21,11 +21,9 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Capuchin"
-martyr: true
+martyr: false
 ---
 
 Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a man named Canino in a duel, he sought sanctuary from the law in the church of the Capuchin Friars Minor in Palermo. While hiding there, he had a true conversion, and became a Capuchin lay-brother in 1632, changing his name to Brother Bernardo.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Girolamo da Recanati"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Girolamo da Recanati"
 summary: "Priest. Member of the Hermits of Saint Augustine, and lived in their convent in Recanati, Italy. Worked as a peacemaker between warring Italian political and military factions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Girolamo-da-Recanati.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

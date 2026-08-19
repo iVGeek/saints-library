@@ -1,7 +1,7 @@
 ---
 name: "Venerable Juan Fromental Cayroche"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Juan Fromental Cayroche"
 summary: "Salesian friar. Founded the Hermanas Guadalupanas de La Salle (Guadalupan Sisters of de La Salle)."
 image: "http://catholicsaints.info/wp-content/uploads/Juan-Fromental-Cayroche.png"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

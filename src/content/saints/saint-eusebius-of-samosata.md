@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusebius of Samosata"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Eusebius of Samosata"
 summary: "Bishop of Samosata, Syria. Fought Arianism, and defended Orthodox Christianity in the 4th century. Active in the Synod of Antioch in 361, a site of great debate over Arianism. Emperor Constantius was displeased, and demanded that Eusebius turn over records from the synod, threate"
 image: "http://catholicsaints.info/wp-content/uploads/img-Eusebius-of-Samosata.jpg"
 searchAliases:
@@ -15,11 +15,10 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Samosata, Syria. Fought Arianism, and defended Orthodox Christianity in the 4th century. Active in the Synod of Antioch in 361, a site of great debate over Arianism. Emperor Constantius was displeased, and demanded that Eusebius turn over records from the synod, threatening to amputate the bishop's hand if he refused; he refused; Constantius was impressed, and let him go.

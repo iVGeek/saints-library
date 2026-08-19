@@ -1,7 +1,7 @@
 ---
 name: "Saint Fabius of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fabius of Rome"
 summary: "Martyr."
 searchAliases:
   - "Fabio"
@@ -12,8 +12,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

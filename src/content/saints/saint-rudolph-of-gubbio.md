@@ -1,7 +1,7 @@
 ---
 name: "Saint Rudolph of Gubbio"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Rudolph of Gubbio"
 summary: "In 1054 he gave his castle at Campo Regio to Saint Peter Damian, and became a Benedictine monk at Fonte Avellana under Saint Peter. Bishop of Gubbio, Italy in 1061. Described as a “miracle of unselfishness”, noted for his charity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rudolph-of-Gubbio.jpg"
 searchAliases:

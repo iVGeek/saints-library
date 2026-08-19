@@ -1,7 +1,7 @@
 ---
 name: "Saint Eufridus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eufridus"
 summary: "Seventh-century Benedictine monk near Asti, Italy. Abbot. Martyred by invading Saracens."
 searchAliases:
   - "Eufredo"
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

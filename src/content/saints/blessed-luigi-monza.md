@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigi Monza"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Luigi Monza"
 summary: "Born to a poor farming family. Entered seminary at age 18, and was ordained in the archdiocese of Milan, Italy on 19 September 1925. Assigned to a parish in Vedano Olona, Italy. Imprisoned for four months, having been falsley accused of planning an attack on a local Fascist offic"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Luigi_Monza.jpg"
 birthYear: 1898
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

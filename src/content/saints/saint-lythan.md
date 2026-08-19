@@ -1,7 +1,7 @@
 ---
 name: "Saint Lythan"
 honorific: Saint
-title: "Monk"
+title: "Saint Lythan"
 summary: "Two churches in Wales are dedicated to this saint, but no information about him has survived."
 searchAliases:
   - "Llythaothaw"

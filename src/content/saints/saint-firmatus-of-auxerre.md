@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmatus of Auxerre"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Firmatus of Auxerre"
 summary: "Deacon. Martyr."
 died: "Auxerre, France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

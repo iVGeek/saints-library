@@ -1,7 +1,7 @@
 ---
 name: "Saint Sempronius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sempronius of Africa"
 summary: "Martyr. No further information has survived."
 searchAliases:
   - "Symphronius"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

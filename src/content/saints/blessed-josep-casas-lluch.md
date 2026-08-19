@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Casas Lluch"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Casas Lluch"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ildefons Lluís"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

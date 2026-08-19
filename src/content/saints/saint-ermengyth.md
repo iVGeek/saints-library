@@ -1,7 +1,7 @@
 ---
 name: "Saint Ermengyth of Minster-in-Thanet"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Ermengyth of Minster-in-Thanet"
 summary: "Sister of Saint Ermenburgh. Nun at Minster-in-Thanet, Kent, England."
 searchAliases:
   - "Ermengitha"

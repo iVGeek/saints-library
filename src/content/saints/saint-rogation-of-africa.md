@@ -1,7 +1,7 @@
 ---
 name: "Saint Rogation of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rogation of Africa"
 summary: "African martyr. No other information has survived."
 searchAliases:
   - "Rogatianus"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

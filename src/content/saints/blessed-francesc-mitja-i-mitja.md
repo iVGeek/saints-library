@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Mitjá i Mitjá"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francesc Mitjá i Mitjá"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Mitjá-i-Mitjá.jpg"
 birthYear: 1864
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

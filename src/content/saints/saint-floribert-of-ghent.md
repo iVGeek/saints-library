@@ -1,7 +1,7 @@
 ---
 name: "Saint Floribert of Ghent"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Floribert of Ghent"
 summary: "Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus."
 searchAliases:
   - "Florbert"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

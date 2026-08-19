@@ -1,7 +1,7 @@
 ---
 name: "Saint Frideswide"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Hermit, Royalty"
+title: "Saint Frideswide"
 summary: "Daughter of Prince Didan. When a neighbouring noble, Prince Algar, as for her hand in an arranged marriage, Frideswide fled to Thomwry Wood, Birnsey, England where she lived as a hermitess. Benedictine nun. Founded Saint Mary's Convent, and served as its abbess. The monastery is"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Frideswide.jpg"
 searchAliases:

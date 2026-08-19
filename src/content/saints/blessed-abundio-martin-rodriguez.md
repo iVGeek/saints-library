@@ -1,7 +1,7 @@
 ---
 name: "Blessed Abundio Martín Rodríguez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Abundio Martín Rodríguez"
 summary: "Member of the Missionaries of the Sacred Heart. Priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Abundio-Martin-Rodriguez.jpg"
 birthYear: 1908
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

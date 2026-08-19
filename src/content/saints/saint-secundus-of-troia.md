@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundus of Troia"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Secundus of Troia"
 summary: "Immigrated to Italy from north Africa to escape persecution by Arian Vandals in the 3rd century. Bishop of Troia, Italy. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Secundus-of-Troia.jpg"
 searchAliases:
@@ -13,7 +13,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Troia, Italy"

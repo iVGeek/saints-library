@@ -1,7 +1,7 @@
 ---
 name: "Saint Zota of Cyrene"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Zota of Cyrene"
 summary: "Arrested by judge Dadio during the persecutions of emperor Maximian, Zota was tortured, ordered to sacrifice to the gods, refused, was tortured, ordered to sacrifice, etc. Martyr."
 searchAliases:
   - "Ioata"
@@ -14,7 +14,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Belluno, Italy"

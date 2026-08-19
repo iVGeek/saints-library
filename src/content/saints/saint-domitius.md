@@ -1,7 +1,7 @@
 ---
 name: "Saint Domitius of Amiens"
 honorific: Saint
-title: "Monk, Deacon, Hermit"
+title: "Saint Domitius of Amiens"
 summary: "Eight-century deacon and hermit near Amiens, France. Spiritual teacher of Saint Ulphia of Amiens."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-and-Saint-Ulphia.jpg"
 region: "France"

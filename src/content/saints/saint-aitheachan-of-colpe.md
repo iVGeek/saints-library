@@ -1,7 +1,7 @@
 ---
 name: "Saint Aitheachan of Colpe"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aitheachan of Colpe"
 summary: "Sixth century. While listed in multiple martyrologies, no details about him have surived."
 searchAliases:
   - "Aitheachan of Inbher Colpthai"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

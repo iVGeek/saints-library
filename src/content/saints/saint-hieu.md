@@ -1,7 +1,7 @@
 ---
 name: "Saint Hieu"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Hieu"
 summary: "Nun, receiving the veil from Saint Aidan of Lindesfarne. Abbess at Tadcaster, Yorkshire, England. Some writings identify her with Saint Bega."
 searchAliases:
   - "Heiu"

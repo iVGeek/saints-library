@@ -1,7 +1,7 @@
 ---
 name: "Saint Arwald"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Arwald"
 summary: "Son of a prince on the Isle of Wight. Martyred by the then-pagan King Caedwalla on the day after his baptism."
 deathYear: 686
 died: "686"
@@ -11,9 +11,7 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

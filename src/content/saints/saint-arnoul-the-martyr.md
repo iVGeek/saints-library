@@ -1,7 +1,7 @@
 ---
 name: "Saint Arnoul the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Arnoul the Martyr"
 summary: "Sixth-century missionary to the Franks. Martyr."
 searchAliases:
   - "Arnulphus"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary

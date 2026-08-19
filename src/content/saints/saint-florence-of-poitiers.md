@@ -1,7 +1,7 @@
 ---
 name: "Saint Florence of Poitiers"
 honorific: Saint
-title: "Religious"
+title: "Saint Florence of Poitiers"
 summary: "Convert, brought to the faith by Saint Hilary of Poitiers while he was in exile. She then went with him back to Poitiers, France and became a nun."
 deathYear: 365
 died: "c.365 in Poitiers, France of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Calliopius of Pompeiopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Calliopius of Pompeiopolis"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Calliope"
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

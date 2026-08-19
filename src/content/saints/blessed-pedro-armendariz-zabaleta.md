@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Armendáriz Zabaleta"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Pedro Armendáriz Zabaleta"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Notburga of Cologne"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Notburga of Cologne"
 summary: "Benedictine nun at the convent of Saint Mary, Cologne, Germany."
 deathYear: 714
 died: "c.714"

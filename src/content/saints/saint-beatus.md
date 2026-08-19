@@ -1,7 +1,7 @@
 ---
 name: "Saint Beatus of Liébana"
 honorific: Saint
-title: "Monk"
+title: "Saint Beatus of Liébana"
 summary: "Monk at Saint Martin's monastery, Liébana, Spain. Wrote and preached against the Adoptionist heresy, and worked to bring it's believers back to orthodox Christianity; co-author of Liber Adversus Elipandum as part of the work. When the Adoptionist heresy lost momentum, Beatus reti"
 searchAliases:
   - "Beatus of Valcavado"

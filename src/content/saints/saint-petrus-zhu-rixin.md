@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Zhu Rixin"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Zhu Rixin"
 summary: "Teenaged layman in the apostolic vicariate of Southeastern Zhili, China, raised in a rare village where the majority were Catholic. He was in the church where the other Martyrs of Zhujiahe were killed during the Boxer Rebellion, but managed to escape. Petrus was later caught and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 20
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

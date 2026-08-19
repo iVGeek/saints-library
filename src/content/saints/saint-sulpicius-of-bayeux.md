@@ -1,7 +1,7 @@
 ---
 name: "Saint Sulpicius of Bayeux"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Sulpicius of Bayeux"
 summary: "Bishop of Bayeux, France from c.838 to 843. Martyred by Vikings."
 deathYear: 843
 died: "martyred in 843 in Livry, France"
@@ -12,10 +12,8 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

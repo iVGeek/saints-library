@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Lizasoáin Lizaso"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Lorenzo Lizasoáin Lizaso"
 summary: "The son of Miguel Ángel Lizasoain and Francisca Lizaso; he was baptized at the age of one day, and grew up speaking the Basque language. He was known as a good student, a great team mate in sports, and for an early call to religious life. He had some trouble in seminary as Spanis"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Lizasoain-Lizaso.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   month: 8
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Redemptorist"
 martyr: true
 ---

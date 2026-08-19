@@ -1,7 +1,7 @@
 ---
 name: "Blessed Félix Paco Escartín"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Félix Paco Escartín"
 summary: "Salesian priest. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

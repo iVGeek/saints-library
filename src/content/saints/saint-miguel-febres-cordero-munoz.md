@@ -1,7 +1,7 @@
 ---
 name: "Saint Miguel Febres Cordero Muñoz"
 honorific: Venerable
-title: "Pope"
+title: "Saint Miguel Febres Cordero Muñoz"
 summary: "Born to a prominent family, he had an unknown disability, and was unable to stand until age five when he received a vision of Our Lady. At age eight he was miraculously protected from being mauled by a wild bull. In 1863, at age nine, he enrolled in a school run by the Christian"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Miguel-Febres-Cordero.jpg"
 birthYear: 1854
@@ -15,8 +15,7 @@ feastDay:
   month: 2
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

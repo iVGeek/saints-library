@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Meca Moreno"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Pedro Meca Moreno"
 summary: "Ordained a priest of the diocese of Almería, Spain on 9 June 1906. Parish priest of Sierro. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

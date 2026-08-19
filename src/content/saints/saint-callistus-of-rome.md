@@ -1,7 +1,7 @@
 ---
 name: "Saint Callistus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Callistus of Rome"
 summary: "Martyred in Rome, Italy. No other information has survived."
 searchAliases:
   - "Callisto"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

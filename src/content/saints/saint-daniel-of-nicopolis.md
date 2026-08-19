@@ -1,7 +1,7 @@
 ---
 name: "Saint Daniel of Nicopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Daniel of Nicopolis"
 summary: "Tortured and martyred in the persecutions of emperor Licinius."
 deathYear: 329
 died: "c.329 in Nicopolis, Armenia (modern Koyulhisar, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Acutius of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Acutius of Pozzuoli"
 summary: "Christian layman imprisoned and martyred in the persecutions of Diocletian for objecting to the deaths of other martyrs."
 searchAliases:
   - "Acuzio"
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

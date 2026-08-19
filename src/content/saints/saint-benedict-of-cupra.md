@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedict of Cupra"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Benedict of Cupra"
 summary: "Soldier in the imperial Roman army, stationed at modern Cupra Marittima, Italy. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Cupra.jpg"
 deathYear: 304
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "San Benedetto del Tronto, Italy"

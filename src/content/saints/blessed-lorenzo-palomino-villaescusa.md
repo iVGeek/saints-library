@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Palomino Villaescusa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Lorenzo Palomino Villaescusa"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

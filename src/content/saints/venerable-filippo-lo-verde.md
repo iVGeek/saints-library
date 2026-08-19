@@ -1,7 +1,7 @@
 ---
 name: "Venerable Filippo Lo Verde"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Venerable Filippo Lo Verde"
 summary: "Franciscan Friar Minor Conventual cleric."
 searchAliases:
   - "Brother Luigi"
@@ -16,11 +16,9 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Friar Minor Conventual cleric.

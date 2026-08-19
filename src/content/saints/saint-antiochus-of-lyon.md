@@ -1,7 +1,7 @@
 ---
 name: "Saint Antiochus of Lyons"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Antiochus of Lyons"
 summary: "When Saint Justus of Lyon left France to become a hermit in Egypt, Father Antiochus was sent to talk him into coming back. He failed. When he returned home, Antiochus was chosen as the new bishop of Lyons."
 searchAliases:
   - "Andeol"

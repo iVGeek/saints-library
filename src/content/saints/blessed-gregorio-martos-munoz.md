@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Martos Muñoz"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Cardinal"
+title: "Blessed Gregorio Martos Muñoz"
 summary: "Born to a farm family who had migrated from Válor, Spain to Argentina in search of a better life; Gregorio was baptized at the age of nine days. When the boy was ten years old, the family returned to Spain. When he was old enough, Gregorio studied at the seminary in Granada, and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Martos-Munoz.jpg"
 birthYear: 1908
@@ -16,10 +16,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

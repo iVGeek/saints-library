@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beatrix of Valfleury"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Beatrix of Valfleury"
 summary: "Born to a wealthy family. A pious child, at age seven she moved into a convent of Béguines. She later joined the Cistercian nuns at Valfleury, France. Known for severe austerities, punishing her body almost to the point of torture. Received a vision of Jesus. Founded the convent"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrix-of-Valfleury.jpg"
 searchAliases:

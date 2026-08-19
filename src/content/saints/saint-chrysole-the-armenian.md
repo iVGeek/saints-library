@@ -1,7 +1,7 @@
 ---
 name: "Saint Chrysole the Armenian"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Chrysole the Armenian"
 summary: "Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris. Evangelized the area of Cambrai, France and Tournai, Belgium. Bishop. Martyr."
 searchAliases:
   - "Chryseuil the Armenian"
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

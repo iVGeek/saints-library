@@ -1,7 +1,7 @@
 ---
 name: "Saint Derwa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Derwa"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Menadarva, Cornwall, England"

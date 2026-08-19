@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna of the Angels Monteagudo"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Anna of the Angels Monteagudo"
 summary: "Educated at a convent. Over the objection of her family, she became a Dominican nun in 1618; she wore the veil for 68 years. Novice mistress for many years. Prioress at the monastery of San Caterina da Siena."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anna-of-the-Angels-Monteagudo.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

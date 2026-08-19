@@ -1,7 +1,7 @@
 ---
 name: "Saint Plato of Ancyra"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Plato of Ancyra"
 summary: "Brother of Saint Antiochus of Sebaste. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Plato-of-Ancyra.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Congar"
 honorific: Saint
-title: "Monk"
+title: "Saint Congar"
 summary: "Monk. Abbot. Several parishes and churches bear his name in Somerset, in Wales and in Brittany."
 searchAliases:
   - "Cungaro"

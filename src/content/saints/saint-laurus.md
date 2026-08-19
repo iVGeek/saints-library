@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurus"
 honorific: Saint
-title: "Monk"
+title: "Saint Laurus"
 summary: "Founded the monastery later known as Saint-Léry, on the River Doneff in Brittany, France."
 searchAliases:
   - "Lery"

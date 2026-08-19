@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ladislao Batthyány-Strattmann"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty, Soldier"
+title: "Blessed Ladislao Batthyány-Strattmann"
 summary: "Born into an ancient noble Hungarian family, the sixth of ten brothers. His family moved to Austria when he was six years old, and his mother died when Ladislao was twelve. When of age he studied agriculture, chemistry, physics, philosophy, literature, music, and medicine at the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Batthyany-Strattmann.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 martyr: false
 ---

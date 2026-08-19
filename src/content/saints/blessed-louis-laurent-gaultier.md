@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louis-Laurent Gaultier"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Louis-Laurent Gaultier"
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1717
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

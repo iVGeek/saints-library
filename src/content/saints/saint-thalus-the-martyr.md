@@ -1,7 +1,7 @@
 ---
 name: "Saint Thalus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Thalus the Martyr"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Tallo"
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed René-Julien Massey"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed René-Julien Massey"
 summary: "Baptized in the church of San Germano in Rennes, France. Called to religious life, he became a Benedictine Maurist monk at the abbey of Sainte-Melaine in Rennes in 1746 as a teenager. Priest. He served as novice master of the house in Marmoutier, France, then taught philosophy an"
 searchAliases:
   - "Renatus Massey"
@@ -17,10 +17,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martín Pozo Díaz"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Martín Pozo Díaz"
 summary: "Married layman in the diocese of Córdoba, Spain."
 birthYear: 1870
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Married layman in the diocese of Córdoba, Spain.

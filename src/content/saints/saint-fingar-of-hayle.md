@@ -1,7 +1,7 @@
 ---
 name: "Saint Fingar of Hayle"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fingar of Hayle"
 summary: "Brother of Saint Phiala. Martyred with several companions by pagans. No other information has survived."
 searchAliases:
   - "Gwinnear"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

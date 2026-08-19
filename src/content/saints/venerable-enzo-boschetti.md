@@ -1,7 +1,7 @@
 ---
 name: "Venerable Enzo Boschetti"
 honorific: Venerable
-title: "Priest, Pope, Royalty, Missionary"
+title: "Venerable Enzo Boschetti"
 summary: "Middle of three children born to a poor, rural family, the son of Esterina and Silvio Boschetti, a truck driver. A member of Catholic Action in his youth, and retreats with the organization led to him having a call to religious life. He became a Carmelite friar in 1949, taking th"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Don_Enzo_Boschetti.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Carmelite"
 martyr: false

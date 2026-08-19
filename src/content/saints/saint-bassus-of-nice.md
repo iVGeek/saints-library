@@ -1,7 +1,7 @@
 ---
 name: "Saint Bassus of Nice"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Bassus of Nice"
 summary: "First bishop of Nice, France. Burned, beaten, tortured, and executed in the persecutions of Emperor Decius. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanbasso.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

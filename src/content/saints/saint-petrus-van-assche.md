@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus van Assche"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Petrus van Assche"
 summary: "Franciscan Friars Minor monk. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

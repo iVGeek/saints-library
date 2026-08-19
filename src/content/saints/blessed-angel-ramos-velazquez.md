@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ángel Ramos Velázquez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Ángel Ramos Velázquez"
 summary: "Pilgrim to Rome, Italy at age 15 after which he joined the Salesians of Don Bosco at their house at Sarria outside Barcelona, Spain, making his profession in 1900. An artist, he used painting and theatre as fields for spreading the faith. Captured at an inn where he was hiding fr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ángel-Ramos-Velázquez.jpg"
 birthYear: 1876
@@ -15,10 +15,7 @@ feastDay:
   month: 10
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

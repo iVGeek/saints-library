@@ -1,7 +1,7 @@
 ---
 name: "Saint Gowan of Wales"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Gowan of Wales"
 summary: "Queen, the wife of King Tewdrig of Glamorgan, an area of modern Wales. The parish of Llangoven, Monmouthshire, and a chapel in Pembrokeshire are named for her."
 searchAliases:
   - "Cofen"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

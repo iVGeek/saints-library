@@ -1,7 +1,7 @@
 ---
 name: "Saint Waltrude of Mons"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty"
+title: "Saint Waltrude of Mons"
 summary: "Daughter of Saint Bertille and Saint Walbert of Hainault. Sister of Saint Aldegundis. Married to Saint Vincent Madelgaire, count of Hainault, a lord in King Dagobert's court. Mother of two sons and two daughters - including Saint Landericus of Soignies, Saint Madalberta and Saint"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Waltrudis.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "in Belgium\n\nFrameries"
   - "Hainault"

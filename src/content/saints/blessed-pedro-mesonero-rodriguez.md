@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Mesonero Rodríguez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Pedro Mesonero Rodríguez"
 summary: "Studied at seminaries in Astudillo and Campello, Spain. Salesian, making his profession on 3 August 1931. Worked in Mataro and Valencia. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Mesonero-Rodríguez.jpg"
 birthYear: 1912
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Juan Costa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ramón Juan Costa"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Honorio of Orihuela"
@@ -17,9 +17,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

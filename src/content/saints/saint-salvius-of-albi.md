@@ -1,7 +1,7 @@
 ---
 name: "Saint Salvius of Albi"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Salvius of Albi"
 summary: "Lawyer. Monk. Abbot. Hermit. Bishop of Albi, France in 574. Died while tending the sick during an epidemic."
 searchAliases:
   - "Salvio"

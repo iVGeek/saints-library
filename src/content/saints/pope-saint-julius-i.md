@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Julius I"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Pope Saint Julius I"
 summary: "Son of Rusticus. Elected 35th pope in 337. Built several churches in Rome. Confirmed the right of bishops to appeal to the Vatican for redress of wrongs. Fought Arianism, and supported Saint Athanasius the Great against the Arians. Ordered that the Eastern Church should celebrate"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pope_Julius_I_%E2%80%93_Santa_Maria_in_Trastevere.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: false
 ---

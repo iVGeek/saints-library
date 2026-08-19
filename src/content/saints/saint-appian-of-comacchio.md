@@ -1,7 +1,7 @@
 ---
 name: "Saint Appian of Comacchio"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Appian of Comacchio"
 summary: "Benedictine monk at the abbey of Saint Peter of Ciel d'Oro, Pavia, Italy. Steward of his house's goods. Hermit at Comacchio, Italy where he evangelized the area."
 searchAliases:
   - "Apianus"

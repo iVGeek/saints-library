@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Candamo Álvarez-Calderon"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Teresa Candamo Álvarez-Calderon"
 summary: "Founder of the Canonesses of the Cross."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-teresa-candamo-alvarez-calderon/venerable-teresa-candamo-alvarez-calderon-01.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

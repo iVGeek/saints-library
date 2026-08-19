@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Valence"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed John of Valence"
 summary: "Canon at Lyons, France. Pilgrim to Compostela, Spain. Benedictine Cistercian monk at Clairvaux Abbey under Saint Bernard. Founded the Cistercian Bonneval Abbey in 1117, and later served as its abbot. Bishop of Valence, France in 1141; he felt so unworthy of the position that he h"
 deathYear: 1146
 born: "at Lyons, France"
@@ -15,7 +15,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

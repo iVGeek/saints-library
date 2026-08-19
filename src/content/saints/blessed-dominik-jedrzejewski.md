@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominik Jedrzejewski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Dominik Jedrzejewski"
 summary: "Priest of the diocese of Wloclawek, Poland. Deported, imprisoned, tortured and martyred in the Nazi persecutions of World War II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dominik-Jedrzejewski.jpg"
 birthYear: 1886
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

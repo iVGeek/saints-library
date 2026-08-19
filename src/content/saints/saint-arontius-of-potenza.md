@@ -1,7 +1,7 @@
 ---
 name: "Saint Arontius of Potenza"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Arontius of Potenza"
 summary: "Martyred in the persecutions of Maximian."
 searchAliases:
   - "Orontius"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

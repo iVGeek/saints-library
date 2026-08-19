@@ -1,7 +1,7 @@
 ---
 name: "Saint Decuman"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Decuman"
 summary: "Hermit in Somerset, England in an area that is now named Saint Decumans in his honour. Martyr."
 searchAliases:
   - "Dagan"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Killag_Church_SE_2010_09_27.jpg/960px-Killag_Church_SE_2010_09_27.jpg"
 vocation:
-  - Martyr
   - Monk
   - Hermit
 patronage:

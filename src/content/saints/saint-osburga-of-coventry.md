@@ -1,7 +1,7 @@
 ---
 name: "Saint Osburga of Coventry"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Osburga of Coventry"
 summary: "First abbess of a convent founded by King Canute in Coventry, England."
 searchAliases:
   - "Osburg"
@@ -17,7 +17,6 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Coventry, England"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Maria Tolaguera Oliva"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Maria Tolaguera Oliva"
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Faust Lluís"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

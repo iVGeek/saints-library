@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Horne"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed William Horne"
 summary: "Carthusian lay brother of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head of the Church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Horne.jpg"
 deathYear: 1540
@@ -13,10 +13,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

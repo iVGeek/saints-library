@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Januarius"
 summary: "Martyred in the persecutions of Licinius."
 deathYear: 320
 died: "beheaded in 320 at Nicopolis, Lesser Armenia"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Saint_Januarius.jpg/960px-Saint_Januarius.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Starus of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Starus of Antioch"
 summary: "Soldier. Martyr."
 born: "Greece"
 died: "Antioch (modern Antakya, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

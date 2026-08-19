@@ -1,7 +1,7 @@
 ---
 name: "Saint Justina of Bellusco"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Justina of Bellusco"
 summary: "Martyr."
 searchAliases:
   - "Giustina"
@@ -12,9 +12,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 patronage:
   - "Bellusco, Italy"
 martyr: true

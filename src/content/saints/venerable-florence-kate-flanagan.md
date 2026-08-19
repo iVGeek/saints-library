@@ -1,7 +1,7 @@
 ---
 name: "Venerable Florence Kate Flanagan"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Florence Kate Flanagan"
 summary: "Professed religious in the Bridgettine Sisters, joining in Rome, Italy in 1913. After studying in Sweden, she was assigned as prioress of the Bridgettine convent in Lugano, Switzerland. She founded Bridgettine communities in Sweden and the United Kingdom."
 searchAliases:
   - "Maria Caterina"
@@ -19,8 +19,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

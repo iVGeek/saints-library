@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry the Shoemaker"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Henry the Shoemaker"
 summary: "Shoemaker. Moved to Paris, France in 1645 where, with the help of Baron de Renti, he founded the Confraternity of Saints Crispin and Crispinian (Freres Cordonniers) for the spiritual development of his fellow cobblers. Though he considered a beati, there is no evidence of a publi"
 searchAliases:
   - "Der Gute Heinrich"
@@ -16,8 +16,7 @@ feastDay:
   month: 6
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

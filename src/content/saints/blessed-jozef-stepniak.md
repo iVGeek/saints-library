@@ -1,7 +1,7 @@
 ---
 name: "Blessed Józef Stepniak"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Józef Stepniak"
 summary: "Born to a farm family, the son of Paul and Anna Misztal; he was baptized at the age of one day. Jozef's mother died when the boy was very small. Studied at the Capuchin college of Saint Fidelis in Lomza, Poland; he was a mediocre student, succeeded through simple determination an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Stepniak.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

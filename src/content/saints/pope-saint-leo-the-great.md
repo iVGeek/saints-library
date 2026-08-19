@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Leo the Great"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Doctor of the Church"
+title: "Pope Saint Leo the Great"
 summary: " Pope from 440 to 461 during the time of the invasion of Attila the Hun. When Attila marched on Rome, Leo went out to meet him and pleaded for him to leave. As Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-the-Great.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"
@@ -30,7 +28,7 @@ patronage:
   - "in Italy\n\nCastellana Grotte"
   - "Ponteginori"
   - "Volterra, diocese of"
-martyr: true
+martyr: false
 ---
 
 Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist.

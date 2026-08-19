@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Clonard"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Colman of Clonard"
 summary: "Related to Saint Finnian of Clonard. Monk. Abbot of Clonard Abbey."
 searchAliases:
   - "Colman moccu Thelduib"
@@ -13,9 +13,8 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Related to Saint Finnian of Clonard. Monk. Abbot of Clonard Abbey.

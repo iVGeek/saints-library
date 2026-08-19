@@ -1,7 +1,7 @@
 ---
 name: "Saint Osmanna of Jouarre"
 honorific: Saint
-title: "Virgin, Religious"
+title: "Saint Osmanna of Jouarre"
 summary: "Nun at Jouarre, France."
 searchAliases:
   - "Osanna…"

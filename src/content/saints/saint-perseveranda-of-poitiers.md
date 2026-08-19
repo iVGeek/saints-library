@@ -1,7 +1,7 @@
 ---
 name: "Saint Perseveranda of Poitiers"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Perseveranda of Poitiers"
 summary: "Holy virgin who, with her sisters Macrina and Columba, founded a convent in Poitiers, France."
 searchAliases:
   - "Pecinna"
@@ -16,11 +16,10 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Holy virgin who, with her sisters Macrina and Columba, founded a convent in Poitiers, France.

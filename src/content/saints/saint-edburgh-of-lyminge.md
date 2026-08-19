@@ -1,7 +1,7 @@
 ---
 name: "Saint Edburgh of Lyminge"
 honorific: Saint
-title: "Religious"
+title: "Saint Edburgh of Lyminge"
 summary: "Seventh century nun at Lyminge in Kent, England."
 searchAliases:
   - "Edburga"

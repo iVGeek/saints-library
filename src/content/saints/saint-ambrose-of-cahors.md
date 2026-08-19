@@ -1,7 +1,7 @@
 ---
 name: "Saint Ambrose of Cahors"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Ambrose of Cahors"
 summary: "Bishop of Cahors, France during a turbulent period; he was forced to flee his diocese several times to escape enemies. He retired from his see to live as a hermit near Bourges, France. In his old age he made a pilgimage to Rome, Italy."
 searchAliases:
   - "Ambroise"

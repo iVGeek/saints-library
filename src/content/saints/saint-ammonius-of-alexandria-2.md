@@ -1,7 +1,7 @@
 ---
 name: "Saint Ammonius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ammonius of Alexandria"
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 deathYear: 311
 born: "Egyptian"
@@ -13,7 +13,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

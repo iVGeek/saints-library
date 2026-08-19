@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Serapion of Alexandria"
 summary: "Martyred in the persecutions of emperor Septimius Severus and governor Aquila."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Serapion-of-Alexandria.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

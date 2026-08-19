@@ -1,7 +1,7 @@
 ---
 name: "Saint Gorgonio of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gorgonio of Rome"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg"
 searchAliases:
@@ -13,8 +13,7 @@ feastDay:
   month: 9
   day: 9
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

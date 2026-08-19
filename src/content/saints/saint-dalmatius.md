@@ -1,7 +1,7 @@
 ---
 name: "Saint Dalmatius"
 honorific: Saint
-title: "Monk"
+title: "Saint Dalmatius"
 summary: "Archimandrite. A staunch defender of Christianity, especially against Nestorianism. Especially venerated in Constantinople."
 deathYear: 440
 died: "c.440 of natural causes"

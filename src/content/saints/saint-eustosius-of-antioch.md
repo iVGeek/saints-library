@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustosius of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eustosius of Antioch"
 summary: "Martyred with 22 companions."
 searchAliases:
   - "Eustasius"
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

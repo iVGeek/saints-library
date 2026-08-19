@@ -1,7 +1,7 @@
 ---
 name: "Saint Aquila of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aquila of Egypt"
 summary: "Martyred in the persecutions of Maximinus Daza."
 searchAliases:
   - "Aquila of Nîmes"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

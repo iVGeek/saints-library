@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Girón Puigmitjà"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Jaume Girón Puigmitjà"
 summary: "Member of the Claretians, professed on 21 November 1916. Ordained a priest on 15 March 1919. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

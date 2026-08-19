@@ -1,7 +1,7 @@
 ---
 name: "Venerable Clovis Veuthey"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Clovis Veuthey"
 summary: "Professed priest of the Order of Friars Minor Conventual. Writer on Franciscan philosophy, theology and spirituality. Professor of ascetical and mystical theology in Rome, Italy. Assistant General of the Franciscans from 1945 to 1954. Parish priest in the area of Bordeaux, France"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Clovis-Veuthey.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

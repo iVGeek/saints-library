@@ -1,7 +1,7 @@
 ---
 name: "Saint John-Louis Bonnard"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier, Missionary"
+title: "Saint John-Louis Bonnard"
 summary: "Studied at seminaries in Aix and Lyons. Ordained in 1848. Missionary priest with the Paris Society of Foreign Missions, assigned to Hong Kong. Re-assigned to Annam, Indo-China (modern Vietnam) in May 1850, working in the districts of Kebang and Ketrinh. Arrested at Boasujan in 18"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Louis-Bonnard.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

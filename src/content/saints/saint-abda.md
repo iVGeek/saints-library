@@ -1,7 +1,7 @@
 ---
 name: "Saint Abda"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abda"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Abdas"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 31
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

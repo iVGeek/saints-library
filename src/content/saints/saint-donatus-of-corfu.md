@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus of Corfu"
 honorific: Saint
-title: "Monk"
+title: "Saint Donatus of Corfu"
 summary: "In 600 Saint Gregory the Great had the relics of Donatus enshrined on Corfu. No other information has survived."
 region: "England"
 feastDay:

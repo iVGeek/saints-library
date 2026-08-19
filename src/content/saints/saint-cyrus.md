@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrus"
 honorific: Saint
-title: "Monk"
+title: "Saint Cyrus"
 summary: "No details have survived."
 searchAliases:
   - "Kyros"

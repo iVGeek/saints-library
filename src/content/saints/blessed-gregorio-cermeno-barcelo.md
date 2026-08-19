@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Cermeño Barceló"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Gregorio Cermeño Barceló"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Cermeño-Barceló.jpg"
 birthYear: 1874
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Puig Serra"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Joan Puig Serra"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

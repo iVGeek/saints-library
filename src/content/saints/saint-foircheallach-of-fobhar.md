@@ -1,7 +1,7 @@
 ---
 name: "Saint Foircheallach of Fobhar"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Foircheallach of Fobhar"
 summary: "Monk and abbot of the abbey of Fobhar and/or Clonmachoise. No information about his life have survived."
 searchAliases:
   - "Fairchellach"
@@ -17,9 +17,8 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk and abbot of the abbey of Fobhar and/or Clonmachoise. No information about his life have survived.

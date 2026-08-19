@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felipe Arce Fernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Felipe Arce Fernández"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elipio of Saint Rose"
@@ -17,9 +17,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

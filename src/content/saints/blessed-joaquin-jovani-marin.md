@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquín Jovaní Marín"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joaquín Jovaní Marín"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

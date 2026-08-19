@@ -1,7 +1,7 @@
 ---
 name: "Blessed Limbania"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Limbania"
 summary: "Born to a wealthy and noble family who worked to arrange a proper marriage for her. However, from an early age, Limbania felt a call to religious life, and at age 12 she fled from her family, taking ship for Genoa, Italy. There she joined the Benedictine nuns of the Saint Thomas"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Limbania.jpg"
 born: "late 12th century Cyprus"
@@ -14,8 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "carters"

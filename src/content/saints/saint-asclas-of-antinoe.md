@@ -1,7 +1,7 @@
 ---
 name: "Saint Asclas of Antinoe"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Asclas of Antinoe"
 summary: "Arrested and tortured for his faith by order of Arrian, governor of Egypt, during the persecutions of Diocletian. While Asclas was in prison, Arrian had reason to cross the River Nile on government business - but found he was absolutely unable to leave the water's edge. Asclas se"
 deathYear: 287
 born: "Thebaid, Egypt"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

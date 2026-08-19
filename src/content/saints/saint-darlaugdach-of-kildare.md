@@ -1,7 +1,7 @@
 ---
 name: "Saint Darlaugdach of Kildare"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Darlaugdach of Kildare"
 summary: "Spiritual student of Saint Brigid at her convent in Kildare, Ireland. She succeeded Saint Brigid as abbess of the house."
 searchAliases:
   - "Dardulacha"

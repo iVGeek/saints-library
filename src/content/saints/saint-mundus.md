@@ -1,7 +1,7 @@
 ---
 name: "Saint Mundus"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Mundus"
 summary: "Abbot who founded several monasteries in Argyle, Scotland."
 searchAliases:
   - "Munde"

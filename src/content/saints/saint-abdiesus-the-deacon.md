@@ -1,7 +1,7 @@
 ---
 name: "Saint Abdiesus the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon, Royalty"
+title: "Saint Abdiesus the Deacon"
 summary: "Deacon in Persia. Martyred in the persecutions of King Sapor II."
 searchAliases:
   - "Abdjesus"
@@ -15,10 +15,8 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Royalty
 martyr: true
 ---
 

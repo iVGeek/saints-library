@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gerardesca of Pisa"
 honorific: Blessed
-title: "Monk, Pope, Hermit, Royalty"
+title: "Blessed Gerardesca of Pisa"
 summary: "Lay woman who married young and had several children. She eventually convinced her husband to become a Camaldolese monk at San Salvio. She lived nearby as a recluse, under the obedience of the abbey, but without taking orders."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardesca.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 martyr: false
 ---
 

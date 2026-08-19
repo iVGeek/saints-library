@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Grillo Michel"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Teresa Grillo Michel"
 summary: "Youngest of five children born to Giuseppe and Maria Antonietta Parvopassau. Her father was the head physician at the Civil Hospital of Alessandria, Italy, but died when the girl was still very small. Maddalena attended school in Turin, Italy, and then in a boarding school in Lod"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/M%C3%A8re_Teresa_Michel.png"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Little Sisters of Divine Providence"
 martyr: false

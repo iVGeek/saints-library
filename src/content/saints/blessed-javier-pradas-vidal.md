@@ -1,7 +1,7 @@
 ---
 name: "Blessed Javier Pradas Vidal"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Javier Pradas Vidal"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elías Paulino"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus of Nicomedia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Marcellus of Nicomedia"
 summary: "Priest in Asia Minor. Martyred in the persecutions of the Arian Emperor Constantius."
 deathYear: 349
 died: "thrown from a cliff in 349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

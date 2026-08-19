@@ -1,7 +1,7 @@
 ---
 name: "Saint Rocco Gonzalez"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier"
+title: "Saint Rocco Gonzalez"
 summary: "Born to the Paraguayan nobility. Jesuit priest. One of the architects of the Jesuit Reductions in Paraguay. Realizing the damage of the slave trade, the Jesuits gathered the indigenous Indians and went inland. In Paraguay, beginning in 1609, they built settlements, taught agricul"
 image: "http://catholicsaints.info/wp-content/uploads/Roque_González_de_Santa_Cruz.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
 religiousOrder: "Jesuit"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Manuel Moralez"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Saint Manuel Moralez"
 summary: "Manuel entered the seminary in Durango, Mexico, but had to leave to help support his impoverished family; he remained a lifelong layman. Married, and the father of three. Secretary of the publication Leon XIII. Secretary of the Circle of Catholic Workers. Member of Catholic Actio"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-Moralez.jpg"
 searchAliases:
@@ -16,10 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

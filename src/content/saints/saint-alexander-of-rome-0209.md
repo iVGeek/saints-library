@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Rome"
 summary: "Following his public confession of Christianity, Alexander was martyred with 38 companions whose names have not come down to us."
 died: "in Rome, Italy"
 deathPlace: "Italy"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alexander%2C_at_Marcionopolis.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

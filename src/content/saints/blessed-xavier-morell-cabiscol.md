@@ -1,7 +1,7 @@
 ---
 name: "Blessed Xavier Morell Cabiscol"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Xavier Morell Cabiscol"
 summary: "Member of the Claretians, professed on 15 August 1927. Ordained a priest on 19 April 1936. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

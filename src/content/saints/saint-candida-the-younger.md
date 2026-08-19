@@ -1,7 +1,7 @@
 ---
 name: "Saint Candida the Younger"
 honorific: Saint
-title: "Monk"
+title: "Saint Candida the Younger"
 summary: "Married lay woman and mother in Naples, Italy."
 region: "Italy"
 feastDay:

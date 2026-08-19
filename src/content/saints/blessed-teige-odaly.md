@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teige O'Daly"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Teige O'Daly"
 summary: "Franciscan priest. One of the Irish Martyrs."
 deathYear: 1578
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

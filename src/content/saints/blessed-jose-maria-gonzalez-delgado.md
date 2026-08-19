@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María González Delgado"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José María González Delgado"
 summary: "Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturninus the Martyr"
 summary: "Martyred with nine Christian companions whose names have not come down to us."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

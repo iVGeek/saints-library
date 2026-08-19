@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucy the Chaste"
 honorific: Saint
-title: "Saint"
+title: "Saint Lucy the Chaste"
 summary: "Dominican tertiary. Spiritual student of Saint Vincent Ferrer."
 deathYear: 1420
 born: "French"
@@ -11,8 +11,7 @@ feastDay:
   month: 12
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

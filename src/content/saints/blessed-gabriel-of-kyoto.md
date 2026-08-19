@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gabriel of Kyoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gabriel of Kyoto"
 summary: "Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto."
 birthYear: 1549
 deathYear: 1619
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatian of Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Donatian of Africa"
 summary: "One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric."
 region: "Germany"
 feastDay:
@@ -9,9 +9,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

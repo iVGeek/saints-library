@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Tabenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodore of Tabenna"
 summary: "Monk at age 14. Spiritual student of Saint Pachomius at the monastery in Tabenna, Egypt; Pachomius delegated Theodore to bury him in secret. Chosen abbot of Tabenna in 350. Founded several monasteries in Egypt. Miracle worker."
 searchAliases:
   - "Theodore of Tabennísi"
@@ -20,9 +20,8 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk at age 14. Spiritual student of Saint Pachomius at the monastery in Tabenna, Egypt; Pachomius delegated Theodore to bury him in secret. Chosen abbot of Tabenna in 350. Founded several monasteries in Egypt. Miracle worker.

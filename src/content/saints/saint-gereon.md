@@ -1,7 +1,7 @@
 ---
 name: "Saint Gereon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Gereon"
 summary: "Imperial Roman soldier. Martyred with 290 other Christians on order of emperor Maximian for refusing to sacrifice to pagan gods to obtain victory in battle."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/70/SaintGereonoakpanel.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

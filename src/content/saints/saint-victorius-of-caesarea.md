@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victorius of Caesarea"
 summary: "Martyr."
 searchAliases:
   - "Vittorio"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

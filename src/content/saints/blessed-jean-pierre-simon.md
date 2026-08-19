@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Pierre Simon"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jean-Pierre Simon"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 deathYear: 1792
 born: "Paris, France"
@@ -14,10 +14,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

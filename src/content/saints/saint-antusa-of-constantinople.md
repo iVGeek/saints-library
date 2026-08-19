@@ -1,7 +1,7 @@
 ---
 name: "Saint Antusa of Constantinople"
 honorific: Saint
-title: "Bishop, Priest, Religious, Royalty"
+title: "Saint Antusa of Constantinople"
 summary: "Born a princess, the daughter of the inconoclastic Emperor Konstantinos Kopronimos and Empress Irene; her twin brother became emperor Leo IV. Antusa was named for Saint Anthusa of Constantinople who had predicted the empress's pregnancy, and that she was carrying twins. The empre"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Antusa-of-Constantinople.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Royalty
 martyr: false
 ---
 

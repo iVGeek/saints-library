@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michal Wozniak"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Michal Wozniak"
 summary: "Priest in the archdiocese of Warsaw, Poland, serving in the parish of Kutno. He was very active in youth ministry, and founded a Salesian center to support education. Imprisoned, tortured and murdered by Nazis for the crime of being a Catholic priest. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Michal-Wozniak.jpg"
 birthYear: 1875
@@ -16,10 +16,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

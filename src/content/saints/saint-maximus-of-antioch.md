@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maximus of Antioch"
 summary: "Martyr."
 died: "Antioch, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

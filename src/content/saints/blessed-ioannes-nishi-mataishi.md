@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Nishi Mataishi"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ioannes Nishi Mataishi"
 summary: "Young layman of the archdiocese of Nagasaki, Japan. Son of Blessed Ursula Nishi and Blessed Ioannes Nishi Mataishi. Martyr."
 birthYear: 1585
 deathYear: 1609
@@ -15,8 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonia of Siena"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Antonia of Siena"
 summary: "15th century Franciscan tertiary who lived in the Santa Maria Nuova monastery in Ancona, Italy."
 deathYear: 1455
 born: "Siena, Italy"
@@ -12,10 +12,9 @@ feastDay:
   month: 2
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 15th century Franciscan tertiary who lived in the Santa Maria Nuova monastery in Ancona, Italy.

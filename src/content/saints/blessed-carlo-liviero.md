@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carlo Liviero"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Cardinal"
+title: "Blessed Carlo Liviero"
 summary: "Son of a railway worker. Baptized on 30 May 1866. Entered seminary in Padua, Italy in October 1881. Ordained on 22 December 1888. Assigned to Gallio, Italy where he worked with boys who seemed to have a vocation to the priesthood. Archpriest of Gallio in 1890. Transferred to the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlo-Liviero.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

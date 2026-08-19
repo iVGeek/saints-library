@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignacio Caselles García"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ignacio Caselles García"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Juan Crisóstomo of Gata de Gorgos"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

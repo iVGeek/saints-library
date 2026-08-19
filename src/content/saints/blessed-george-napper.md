@@ -1,7 +1,7 @@
 ---
 name: "Blessed George Napper"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Missionary"
+title: "Blessed George Napper"
 summary: "Son of George and Anne Napper; his father taught at All Souls College. Great-nephew of William Cardinal Peto. Educated at Corpus Christi College in Oxford; seminarian at the English College, Douai, France. Ordained in 1596, he returned to England to minister to the covert Catholi"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Blessed-george-napier.png"
 searchAliases:
@@ -15,8 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

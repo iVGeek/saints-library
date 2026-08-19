@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernabé Núñez Alonso"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Bernabé Núñez Alonso"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alfeo Bernabé"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

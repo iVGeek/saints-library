@@ -1,14 +1,13 @@
 ---
 name: "Saint Macarius of Arabia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Macarius of Arabia"
 summary: "Priest. With Saint Eugene, he was scourged and exiled into the Arabian desert for his faith. When they were strong enough, the two returned to preach the faith some more. Martyred in the persecutions of Julian the Apostate."
 feastDay:
   month: 12
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

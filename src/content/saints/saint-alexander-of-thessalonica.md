@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Thessalonica"
 summary: "Martyred in the persecutions of Diocletian."
 died: "in Thessalonica, Greece"
 deathPlace: "Greece"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

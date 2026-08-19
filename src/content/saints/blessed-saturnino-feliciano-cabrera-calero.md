@@ -1,7 +1,7 @@
 ---
 name: "Blessed Saturnino Feliciano Cabrera Calero"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Saturnino Feliciano Cabrera Calero"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

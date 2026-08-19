@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amado García Sánchez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Amado García Sánchez"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Amado-García-Sánchez.jpg"
 birthYear: 1903
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

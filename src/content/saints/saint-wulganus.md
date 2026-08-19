@@ -1,7 +1,7 @@
 ---
 name: "Saint Wulganus"
 honorific: Saint
-title: "Priest, Monk, Hermit, Confessor"
+title: "Saint Wulganus"
 summary: "Emigrant of France. Evangelized in the area of Atrebati, France. Hermit at Arras, France under the direction Saint Vedast Abbey."
 searchAliases:
   - "Vulgan"

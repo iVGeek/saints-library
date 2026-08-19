@@ -1,7 +1,7 @@
 ---
 name: "Saint Sidwell"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Sidwell"
 summary: "Sister of Saint Urith and Saint Juthwara. Virgin-martyr, murdered by reapers at the instigation of the girl's step-mother."
 searchAliases:
   - "Sativola"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/St_Sidwell_-_geograph.org.uk_-_351497.jpg"
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

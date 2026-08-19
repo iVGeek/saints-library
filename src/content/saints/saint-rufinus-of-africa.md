@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufinus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufinus of Africa"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

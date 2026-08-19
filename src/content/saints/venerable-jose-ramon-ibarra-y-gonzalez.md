@@ -1,7 +1,7 @@
 ---
 name: "Venerable José Ramón Ibarra y González"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable José Ramón Ibarra y González"
 summary: "Ordained on 21 February 1880 in the diocese of Tlaxcala, Tlaxcala, México. Bishop of Chilapa, Guerrero, México on 30 December 1889. Bishop of Tlaxcala, Tlaxcala, México on 19 April 1902. Archbishop of Puebla de los Angeles, Puebla, México on 9 November 1903, serving there the res"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-jose-ramon-ibarra-y-gonzalez/venerable-jose-ramon-ibarra-y-gonzalez-01.jpg"
 birthYear: 1853
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

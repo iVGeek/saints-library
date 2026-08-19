@@ -1,7 +1,7 @@
 ---
 name: "Saint Sampson of Constantinople"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sampson of Constantinople"
 summary: "Priest and physician in Constantinople, noted for his care for the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sampson-of-Constantinople.jpg"
 searchAliases:
@@ -17,10 +17,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest and physician in Constantinople, noted for his care for the poor.

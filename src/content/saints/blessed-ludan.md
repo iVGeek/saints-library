@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludan"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Ludan"
 summary: "Born to the Scottish nobility, the son of Itiboldo. Used his inheritence to build a hospital for the poor, a hospice for pilgrims. Died while returning from pilgrimage to the tombs of the Apostles."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Mort_de_Saint_Ludan_%28cropped%29.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 2
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

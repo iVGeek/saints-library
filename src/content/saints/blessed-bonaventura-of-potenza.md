@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonaventura of Potenza"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Bonaventura of Potenza"
 summary: "Joined the Friars Minor Conventual at Nocera, Italy at age 15. Home missioner in southern Italy, serving from convents in Campania Aversa, Maddaloni, Amalfi, Ischia, Nocera Inferiore, Sorrento, Naples and finally, Ravello. Noted novice master, and known for the theological depth"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Potenza.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

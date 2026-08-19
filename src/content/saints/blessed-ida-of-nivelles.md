@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ida of Nivelles"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Ida of Nivelles"
 summary: "Joined the Benedictine Cistercians at Kerkheim, Leuven, Belgium at age 16; the house, and Ida, were later moved to Rameige, Belgium, where she spent the rest of her life. Sister Ida was a mystic, a visionary and a miracle worker with a ministry of praying for suffering souls in P"
 birthYear: 1190
 deathYear: 1231

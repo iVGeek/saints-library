@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro of Cuneo"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Pietro of Cuneo"
 summary: "Franciscan friar. Travelling preacher in the regions of Piedmont in modern Italy, Provence in modern France, and then into Spain where he met with resistance from heretics. Martyr."
 deathYear: 1322
 born: "Cuneo, Italy"
@@ -13,8 +13,7 @@ feastDay:
   month: 2
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

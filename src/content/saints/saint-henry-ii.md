@@ -1,7 +1,7 @@
 ---
 name: "Saint Henry II"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Henry II"
 summary: "Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which ended Henry's thoughts of becoming a priest. Ascended to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Henry-II.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -40,7 +38,7 @@ patronage:
   - "in Germany\n\nBamberg, diocese of"
   - "Bamberg, city of"
   - "Nuremberg"
-martyr: true
+martyr: false
 ---
 
 Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which ended Henry's thoughts of becoming a priest. Ascended to the throne of Germany in 1002. Crowned King of Pavia, Italy on 15 May 1004. Married Saint Cunegunda, but was never a father. Some sources claim the two lived celibately, but there is no evidence either way.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cettin of Oran"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cettin of Oran"
 summary: "Spiritual student of Saint Patrick. Bishop. Helped Patrick evangelize Ireland. His shrine at Orran was a place of pilgrimage for centuries, apparently survived into the 18th century."
 searchAliases:
   - "Cetagh"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fulgencio Calvo Sánchez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Fulgencio Calvo Sánchez"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Fulgencio-Calvo-Sanchez.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

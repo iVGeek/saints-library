@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco de Paula Victor"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Francisco de Paula Victor"
 summary: "Born a slave and trained as a tailor. He early felt a call to the priesthood, but, being a slave, had to have special dispensation to enter seminary, and was shunned by fellow seminarians and the parishioners of his first assignment in the diocese of Campanha, Brazil; his parishi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Padre-Victor.jpg"
 birthYear: 1827
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexis Falconieri"
 honorific: Saint
-title: "Virgin, Priest, Pope, Cardinal"
+title: "Saint Alexis Falconieri"
 summary: "One of the Seven Founders of the Servants of Mary; uncle of Saint Juliana Falconieri. Son of Bernard Falconieri, a wealthy Florentine merchant and a Guelph. Joined the Laudesi, also known as the Praisers of Mary, a confraternity of the Blessed Virgin in Florence, Italy c.1225, an"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Alexis-Falconieri-1.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Virgin
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Marist"
 patronage:

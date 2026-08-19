@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Zhang Dapeng"
 honorific: Venerable
-title: "Martyr, Pope, Royalty"
+title: "Saint Joseph Zhang Dapeng"
 summary: "A clever and inquisitive boy, he was much attracted to Taoism in his youth. He moved to Guiyang in 1794, and entered the silk business. Through a business contact, he first learned of Christianity. He converted, but was unable to join the Church because, in the custom of the day,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Zhang-Dapeng.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   month: 3
   day: 12
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

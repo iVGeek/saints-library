@@ -1,7 +1,7 @@
 ---
 name: "Blessed Florencio López Egea"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Florencio López Egea"
 summary: "Baptized at the age of two days. He studied in the Colegio de San Juan Almería and the San Indalecio Seminary. Ordained a priest in the diocese of Almería, Spain in December 1907. He was known for a great devotion to the Virgin Mary, and was known to compose songs about her that"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Florencio-Lopez-Egea.jpg"
 birthYear: 1883
@@ -16,8 +16,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
 martyr: true
 ---

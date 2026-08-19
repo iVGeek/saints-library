@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beltrão de Caia"
 honorific: Blessed
-title: "Martyr, Royalty, Soldier"
+title: "Blessed Beltrão de Caia"
 summary: "Member of the Knights of Santiago de Castilla. During the re-conquest of the Iberian peninsula from the Muslims by Christian forces, in a period of truce between the armies, Beltrão was allowed to leave the Portuguese camp to hunt. Near Tavira, Portugal, he and his companions wer"
 searchAliases:
   - "Bertrand"
@@ -16,8 +16,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Royalty
   - Soldier
 martyr: true
 ---

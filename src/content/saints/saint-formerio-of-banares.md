@@ -1,7 +1,7 @@
 ---
 name: "Saint Formerio of Bañares"
 honorific: Saint
-title: "Martyr, Hermit, Royalty, Soldier"
+title: "Saint Formerio of Bañares"
 searchAliases:
   - "Formerius"
 died: "relics enshrined in a 12th-century jewelled wooden cask in the church of the Holy Cross in Bañares, Spain"
@@ -12,9 +12,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
-  - Royalty
   - Soldier
 patronage:
   - "against head diseases"
@@ -24,5 +22,5 @@ patronage:
   - "—"
   - "Bañares, Spain"
   - "Condado de Treviño, Spain"
-martyr: true
+martyr: false
 ---

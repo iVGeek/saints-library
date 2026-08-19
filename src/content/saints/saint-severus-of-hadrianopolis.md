@@ -1,7 +1,7 @@
 ---
 name: "Saint Severus of Hadrianopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Severus of Hadrianopolis"
 summary: "Martyr."
 searchAliases:
   - "Severus of Adrianopolis"
@@ -10,7 +10,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

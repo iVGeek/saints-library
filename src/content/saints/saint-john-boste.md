@@ -1,7 +1,7 @@
 ---
 name: "Saint John Boste"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint John Boste"
 summary: "Educated at Queen's College, Oxford, England from 1569 to 1572. Fellow at Queen's College. Convert to Catholicism in 1576 at Brome, Suffolk, England. Resigned his position at Oxford, and studied in Rheims, France in 1580. Ordained on 4 March 1581. Returned to England in April 158"
 searchAliases:
   - "John Boast"
@@ -18,10 +18,7 @@ feastDay:
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saint-john-boste.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

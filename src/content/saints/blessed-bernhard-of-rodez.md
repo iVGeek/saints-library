@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernhard of Rodez"
 honorific: Blessed
-title: "Monk, Pope, Cardinal"
+title: "Blessed Bernhard of Rodez"
 summary: "Born to the nobility, one of eight children born to Viscount Richard II of Millau and Rixinde. Benedictine monk at the Saint Victor monastery in Marseilles, France in 1061. Abbot of Saint Victor in 1064. Friend of Pope Gregory VII, Saint Hugo of Cluny, and Saint William of Hirsch"
 searchAliases:
   - "Bernhard of Millau"
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: false

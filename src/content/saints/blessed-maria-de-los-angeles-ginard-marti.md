@@ -1,7 +1,7 @@
 ---
 name: "Blessed María de Los Ángeles Ginard Martí"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed María de Los Ángeles Ginard Martí"
 summary: "Member of the Congregation of Sisters, Zealous of Eucharistic Devotion. Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-de-Los-Ángeles-Ginard-Martí.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

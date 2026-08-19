@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Caesarea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Julian of Caesarea"
 summary: "Catechumen at Caesarea, Palestine. Arrested for venerating the martyred Saint Elias and companions. Martyred by order of Firmilian, governor of Palestine."
 deathYear: 309
 died: "burned to death in 309 at Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

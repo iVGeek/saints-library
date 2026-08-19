@@ -1,7 +1,7 @@
 ---
 name: "Blessed Perfecto Del Río Páramo"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Perfecto Del Río Páramo"
 summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

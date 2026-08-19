@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Saignon"
 honorific: Saint
-title: "Priest, Royalty"
+title: "Saint Marcian of Saignon"
 summary: "Priest. Helped found and served as first abbot of the Benedictine monastery of Saint-Eusèbe just east of the town of Saignon, Apt, France in the 8th century."
 searchAliases:
   - "Marcian of Apt\nMarciano"
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

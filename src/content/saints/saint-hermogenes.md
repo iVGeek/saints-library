@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermogenes"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermogenes"
 summary: "Martyred with 23 companions. No other information has survived."
 died: "forced into a swamp to die of cold and exhaustion"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

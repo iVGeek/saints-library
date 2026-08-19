@@ -1,7 +1,7 @@
 ---
 name: "Saint Bilhild"
 honorific: Saint
-title: "Priest, Monk, Religious"
+title: "Saint Bilhild"
 summary: "Born to the nobility. Married to the Duke of Thuringia. Widow. Founded the convent of Altenmünster in Mainz, Germany."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bilhild.jpg"
 searchAliases:

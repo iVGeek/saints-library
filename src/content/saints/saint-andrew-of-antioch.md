@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Andrew of Antioch"
 summary: "Martyr."
 deathYear: 280
 died: "c.280 in Antioch"
@@ -10,8 +10,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

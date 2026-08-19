@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Salomone"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed James Salomone"
 summary: "Born to the nobility, and an only child. His father died when James was very small, his mother left the family to become a Cistercian nun, and James was raised by his grandmother. Tutored by a Cistercian monk who taught the boy to meditate. When he came of age, he became a Domini"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-James-Salomone.jpg"
 searchAliases:

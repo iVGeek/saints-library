@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cisinandus of Tarouca"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Cisinandus of Tarouca"
 summary: "12th century Cistercian monk and evangelist. Spiritual student of Saint Bernard of Clairvaux who sent him to northern Spain and Portugal to preach and to spread Cistercian spirituality. There he founded the San Juan monastery at Tarouca, Portugal in 1142; it lasted over 700 years"
 searchAliases:
   - "Cisinando"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria An Guoshi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Maria An Guoshi"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 11
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

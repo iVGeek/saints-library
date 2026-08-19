@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jakob of Prague"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jakob of Prague"
 summary: "Franciscan Friar Minor cleric. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-jakob-of-prague.jpg"
 birthYear: 1590
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

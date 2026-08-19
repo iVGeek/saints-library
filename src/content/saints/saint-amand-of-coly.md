@@ -1,7 +1,7 @@
 ---
 name: "Saint Amand of Coly"
 honorific: Saint
-title: "Monk"
+title: "Saint Amand of Coly"
 summary: "Founder and first abbot of Saint-Amand de Coly monastery, diocese of Limoges, France."
 searchAliases:
   - "Amandus"

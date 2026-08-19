@@ -1,7 +1,7 @@
 ---
 name: "Saint Boniface of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Boniface of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Bonifacio"
@@ -13,7 +13,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

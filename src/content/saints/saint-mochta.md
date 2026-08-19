@@ -1,7 +1,7 @@
 ---
 name: "Saint Mochta of Louth"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Mochta of Louth"
 summary: "Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth."
 searchAliases:
   - "Mochteus"

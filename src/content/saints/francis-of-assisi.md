@@ -29,7 +29,6 @@ vocation:
   - Founder
   - Deacon
   - Mystic
-  - Stigmatist
 religiousOrder: Franciscan
 patronage:
   - animals

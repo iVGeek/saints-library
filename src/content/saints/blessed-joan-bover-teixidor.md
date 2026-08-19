@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Bover Teixidor"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Joan Bover Teixidor"
 summary: "Franciscan Capuchin, making his profession on 28 June 1902. Ordained a priest on 20 July 1902. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Modest of Mieres"
@@ -17,13 +17,10 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, making his profession on 28 June 1902. Ordained a priest on 20 July 1902. Murdered by Marxists in the Spanish Civil War.

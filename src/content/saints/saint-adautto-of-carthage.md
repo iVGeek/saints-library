@@ -1,7 +1,7 @@
 ---
 name: "Saint Adautto of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Adautto of Carthage"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Adauctus"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

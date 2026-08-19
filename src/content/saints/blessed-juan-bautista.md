@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Bautista"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Bautista"
 summary: "Married layman in the archdiocese of Antequera-Oaxaca, Mexico. Catechist. Martyred for refusing to worship idols."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Oaxaca.jpg"
 birthYear: 1660
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

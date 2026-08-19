@@ -1,7 +1,7 @@
 ---
 name: "Blessed Clare Agolanti of Rimini"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Clare Agolanti of Rimini"
 summary: "Born to the nobility. Married twice, she spent most of her time in dissolute, sinful pleasures. When her father and brother were executed in civil disturbances, Clare changed her life completely. She became a Franciscan tertiary and founded a convent, though she never became a nu"
 image: "http://catholicsaints.info/wp-content/uploads/Clare-of-Rimini.jpg"
 searchAliases:

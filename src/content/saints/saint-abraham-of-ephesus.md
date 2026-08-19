@@ -1,7 +1,7 @@
 ---
 name: "Saint Abraham of Ephesus"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Abraham of Ephesus"
 summary: "Wrote several theological treatises. They became so well known that he attracted many students, and he founded monasteries for them at Constantinople and Jerusalem; they were known as Abrahamites. Archbishop of Ephesus."
 died: "6th century of natural causes"
 region: "England"

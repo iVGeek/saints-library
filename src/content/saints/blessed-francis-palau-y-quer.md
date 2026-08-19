@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Palau y Quer"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Francis Palau y Quer"
 summary: "Joined the Carmelites in 1832. Ordained in 1836. Civil disorder forced him into exile. He returned to Spain in 1851 and founded his School of Virtue at Barcelona to teach catechism. For non-theological reasons, his school was suppressed and he was exiled to Ibiza from 1854 to 186"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Palau-y-Quer.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

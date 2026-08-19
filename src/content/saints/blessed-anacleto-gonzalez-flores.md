@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anacleto González Flores"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Anacleto González Flores"
 summary: "Second of twelve children born to Valentín González Sanitiz and Maria Flores Navaho. He entered seminary, was an excellent student, but realized that he did not have a call to the priesthood and dropped out. Lawyer in the archdiocese of Guadalajara, Mexico. Married to María Conce"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Anacleto_Gonz%C3%A1lez_Flores.jpg/960px-Anacleto_Gonz%C3%A1lez_Flores.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

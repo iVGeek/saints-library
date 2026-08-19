@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florentius of Carthage"
 summary: "Martyred in the persecutions of Diocletian."
 born: "Carthaginian"
 died: "relics at the basilica of Fausta at Carthage"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

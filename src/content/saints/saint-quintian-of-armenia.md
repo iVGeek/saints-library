@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintian of Armenia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quintian of Armenia"
 summary: "Martyred with Saint Irenaeus. Nothing else is known."
 born: "Armenian"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

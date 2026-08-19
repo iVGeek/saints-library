@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril of Syria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyril of Syria"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

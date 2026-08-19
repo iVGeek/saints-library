@@ -1,7 +1,7 @@
 ---
 name: "Saint Agia"
 honorific: Saint
-title: "Monk"
+title: "Saint Agia"
 summary: "Married. Mother of Saint Lupus of Sens. Widow."
 searchAliases:
   - "Aia"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Otto Neururer"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Otto Neururer"
 summary: "Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but timid young man who also battled depression."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Otto_Neururer.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but timid young man who also battled depression. He attended seminary at Brixen, Italy. Priest. Curate and religion teacher in several places in the diocese.

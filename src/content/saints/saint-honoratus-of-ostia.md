@@ -1,7 +1,7 @@
 ---
 name: "Saint Honoratus of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Honoratus of Ostia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Onorato"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

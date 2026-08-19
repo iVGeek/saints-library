@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Luque Cano"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Pedro Luque Cano"
 summary: "Priest of the diocese of Córdoba, Spain, serving as the chaplain of the Montoro hospital. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

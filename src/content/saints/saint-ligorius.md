@@ -1,7 +1,7 @@
 ---
 name: "Saint Ligorius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ligorius"
 summary: "Desert-living Christian murdered by a pagan mob. Martyr."
 died: "relics venerated in Venice, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

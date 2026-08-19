@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Echevarría Gorostiaga"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Luis Echevarría Gorostiaga"
 summary: "Studied at the Seraphic College of Chipiona in Cadiz, Spain. Franciscan Friar Minor, making his solemn vows on 17 September 1916. Ordained in the diocese of Cadiz on 29 May 1920. Teacher at Puente Genil, Cordoba, Spain; director of the school in 1922 and 1923. Served as cantor an"
 birthYear: 1895
 deathYear: 1936
@@ -15,11 +15,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

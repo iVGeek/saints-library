@@ -1,7 +1,7 @@
 ---
 name: "Saint Callistus of Corinth"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Callistus of Corinth"
 summary: "One of a group of eight Christians who were tortured and martyred together in the persecutions of Decius."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Corinth.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

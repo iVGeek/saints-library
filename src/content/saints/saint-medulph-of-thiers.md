@@ -1,7 +1,7 @@
 ---
 name: "Saint Medulph of Thiers"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Medulph of Thiers"
 summary: "Married, a father, and a fervant Christian, Medulph one day went to gather food for the family. It was a fasting day, so Medulph went to the river to fish; but it was a cold day, too, and all the waterways were frozen, and he could catch no fish. Worried that the family would hav"
 searchAliases:
   - "Medulfo"

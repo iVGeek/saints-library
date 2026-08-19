@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudius of Terni"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Claudius of Terni"
 summary: "Christian soldier and officer in the imperial Roman army. Executed during the persecutions of emperor Claudius. Martyr."
 searchAliases:
   - "Claudio"
@@ -14,7 +14,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

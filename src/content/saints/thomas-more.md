@@ -27,8 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 19 May 1935
 vocation:
   - Lay
-  - Martyr
-  - Statesman
 patronage:
   - lawyers
   - families
@@ -41,7 +39,7 @@ symbols:
   - Chain
   - White rose
   - Chancellor's purse
-martyr: true
+martyr: false
 lifeEvents:
   - year: "7 February 1478"
     event: Born in London, son of the lawyer Sir John More.

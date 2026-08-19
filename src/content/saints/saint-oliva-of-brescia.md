@@ -1,7 +1,7 @@
 ---
 name: "Saint Oliva of Brescia"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Oliva of Brescia"
 summary: "Martyred in the persecutions of Hadrian."
 deathYear: 138
 died: "138"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
 martyr: true
 ---

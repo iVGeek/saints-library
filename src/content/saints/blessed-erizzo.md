@@ -1,7 +1,7 @@
 ---
 name: "Blessed Erizzo"
 honorific: Blessed
-title: "Monk, Pope"
+title: "Blessed Erizzo"
 summary: "First spiritual student of Saint John Gualbert. Vallombrosan monk. Fourth superior-general of the Vallombrosans."
 deathYear: 1094
 born: "in Florence, Italy"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

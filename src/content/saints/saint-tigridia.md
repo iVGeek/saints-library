@@ -1,7 +1,7 @@
 ---
 name: "Saint Tigridia"
 honorific: Saint
-title: "Priest, Monk, Religious"
+title: "Saint Tigridia"
 summary: "Born to the nobility, the daughter of Count Sancho Garcia. Her father founded the convent of Oña near Burgos, Spain, and Tigridia spent her life there as a nun."
 searchAliases:
   - "Trigidia"

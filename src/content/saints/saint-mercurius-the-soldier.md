@@ -1,7 +1,7 @@
 ---
 name: "Saint Mercurius the Soldier"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Mercurius the Soldier"
 summary: "Son of a Scythian officer in the imperial Roman army. Soldier in the same army, he distinguished himself in the defense of the city of Rome. During the persecutions of Decius, Mercurius was ordered to sacrifice to an idol; he refused. Martyr. Reported to appeared and fought with"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mercurius-the-Soldier.jpg"
 birthYear: 224
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

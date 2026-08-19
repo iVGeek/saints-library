@@ -1,7 +1,7 @@
 ---
 name: "Saint Andreas Wouters"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Andreas Wouters"
 summary: "Priest in the diocese of Haarlem, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

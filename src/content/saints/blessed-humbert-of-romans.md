@@ -1,7 +1,7 @@
 ---
 name: "Blessed Humbert of Romans"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Humbert of Romans"
 summary: "Studied in Paris, France. Doctor of civil law. Joined the Dominicans in 1224. Pilgrim to the Holy Lands. Provincial of the Dominican Roman province in 1240. Dominican provincial of France in 1244. Fifth master-general of the Dominicans in 1254. Formed and sponsored several succes"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Humbert-of-Romans.jpg"
 birthYear: 1193
@@ -15,8 +15,7 @@ feastDay:
   month: 7
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

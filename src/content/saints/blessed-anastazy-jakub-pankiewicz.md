@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anastazy Jakub Pankiewicz"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Anastazy Jakub Pankiewicz"
 summary: "Joined the Franciscans in 1900, making his solemn profession on 24 February 1904. Ordained in 1906. Built the seminary in Lotz, Poland. Founded the Antonian Sisters of Christ the King.  Arrested on 10 October 1941 in the Nazi persecutions of the Church. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Anastazy_Pankiewicz.png"
 birthYear: 1882
@@ -16,11 +16,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

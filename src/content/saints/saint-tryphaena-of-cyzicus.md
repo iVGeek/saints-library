@@ -1,7 +1,7 @@
 ---
 name: "Saint Tryphaena of Cyzicus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tryphaena of Cyzicus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Triphenes"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tryphaenes_at_Cyzicus_%28Menologion_of_Basil_II%29.jpg/960px-Tryphaenes_at_Cyzicus_%28Menologion_of_Basil_II%29.jpg"
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "nursing mothers"

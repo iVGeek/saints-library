@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro de Alos"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Pietro de Alos"
 summary: "Mercedarian. Helped ransom 187 Christians held in slavery by North African Moors."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Domenico-di-San-Pietro-and-Blessed-Pietro-de-Alos-Mercedari.jpg"
 region: "Italy"
@@ -9,8 +9,7 @@ feastDay:
   month: 5
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

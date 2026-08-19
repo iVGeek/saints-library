@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoine Auriel"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antoine Auriel"
 summary: "Priest and parochial vicar in the diocese of Cahors, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

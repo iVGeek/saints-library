@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel of Cambron"
 honorific: Blessed
-title: "Monk, Pope, Royalty"
+title: "Blessed Daniel of Cambron"
 summary: "Born to the nobility in East Flanders, Daniel grew up determined to enter religious life. In the mid-12th-century, he entered the Cistercian Benedictine abbey of Our Lady of Cambron-Casteau as a monk, and in 1164 was chosen third abbot of the house. As abbot, Daniel became an adm"
 searchAliases:
   - "Daniele"
@@ -18,8 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

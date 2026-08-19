@@ -1,7 +1,7 @@
 ---
 name: "Saint Mansuetus of Toul"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Mansuetus of Toul"
 summary: "First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region that he became known as the Apostle of Lorraine."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Toul.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Zebina of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zebina of Caesarea"
 summary: "Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the saint chewed out his pagan judge as a coward for torturing the young woman, Saint Ennatha of Caesarea."
 searchAliases:
   - "Zebinas"
@@ -14,7 +14,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

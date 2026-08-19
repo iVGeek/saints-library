@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaime Gascón Bordas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jaime Gascón Bordas"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Jaime of Saint Teresa"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

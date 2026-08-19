@@ -1,7 +1,7 @@
 ---
 name: "Saint Gorfor of Llanover"
 honorific: Saint
-title: "Monk"
+title: "Saint Gorfor of Llanover"
 summary: "No information has survived."
 searchAliases:
   - "Gofor"

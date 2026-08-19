@@ -1,7 +1,7 @@
 ---
 name: "Saint Gibrian"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Gibrian"
 summary: "Brother of Saint Tressan, Saint Helan, Saint Germanus, Saint Abran, Saint Petran, Saint Franca, Saint Promptia, and Saint Possenna. Hermit in Brittany in northern France. Priest. Worked with Saint Remigius."
 searchAliases:
   - "Abran"

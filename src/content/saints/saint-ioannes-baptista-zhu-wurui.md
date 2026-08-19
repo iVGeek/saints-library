@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Baptista Zhu Wurui"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Baptista Zhu Wurui"
 summary: "Young layman in the apostolic vicariate of Southeastern Zhili, China. A teenager at the outbreak of the Boxer Rebellion, John publicly declared his Christianity, for which the rebels mutilated and killed him. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 7
   day: 19
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

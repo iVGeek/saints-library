@@ -1,7 +1,7 @@
 ---
 name: "Saint Elpidius the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Elpidius the Martyr"
 summary: "Official in the court of Emperor Constantius. He was demoted from the court by Julian the Apostate. Martyr."
 deathYear: 362
 died: "dragged by wild horses and then burned at the stake in 362"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

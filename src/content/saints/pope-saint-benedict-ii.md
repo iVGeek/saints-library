@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Benedict II"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Confessor"
+title: "Pope Saint Benedict II"
 summary: " Obtained the decree that abolished imperial confirmat Son of John. Studied at the schola cantorum, and was early known as a Bible scholar; noted singer, too. Priest, known for his care for the poor. Pope; the delay in his ascension was caused by waiting for imperial confirmation."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Benedict-II.jpg"
 deathYear: 685
@@ -14,13 +14,11 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Son of John. Studied at the schola cantorum, and was early known as a Bible scholar; noted singer, too. Priest, known for his care for the poor. Pope; the delay in his ascension was caused by waiting for imperial confirmation.

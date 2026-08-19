@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Cloyne"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Colman of Cloyne"
 summary: "Son of Lenin. Poet. Royal bard, poet, musician, court historian, and genealogist at Cashel, Ireland. Adult convert at age fifty, being baptized by Saint Brendan the Navigator; he had become involved with Brendan and Christianity while helping recover the stolen shrine of Saint Ai"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Cloyne.jpg"
 searchAliases:

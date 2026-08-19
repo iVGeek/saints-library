@@ -1,7 +1,7 @@
 ---
 name: "Blessed George Nichols"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed George Nichols"
 summary: "Raised Protestant, he graduated from Brasenose College in Oxford, England in 1573. Taught at Saint Paul's School, London, England. Convert to Catholicism. Began studies at Douai College, Rheims, France in 1581 Ordained a priest of the apostolic vicariate of England in September 1"
 birthYear: 1550
 deathYear: 1589
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

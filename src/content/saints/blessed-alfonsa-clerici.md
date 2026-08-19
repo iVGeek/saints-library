@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfonsa Clerici"
 honorific: Blessed
-title: "Bishop, Monk, Religious, Pope"
+title: "Blessed Alfonsa Clerici"
 summary: "The eldest of ten children born to Angelo and Maria Romano Clerici; hers was a poor but pious family with two of her brothers becoming monks, one sister a Sister of the Precious Blood. Received a Master's degree from the College of the Sisters of the Precious Blood in Monza, Ital"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-alfonsa-clerici/blessed-alfonsa-clerici.jpg"
 birthYear: 1860

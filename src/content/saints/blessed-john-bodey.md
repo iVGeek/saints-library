@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Bodey"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed John Bodey"
 summary: "Educated at Winchester and Oxford in England. Fellow of New College, Oxford in 1568. Convert. Studied law at Douai, France in 1576. Returned to England in February 1578 as a schoolmaster. Married layman. Repuditated King Henry VIII's claim of supremacy in spiritual matters. Arres"
 birthYear: 1549
 deathYear: 1583
@@ -14,10 +14,7 @@ feastDay:
   month: 11
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

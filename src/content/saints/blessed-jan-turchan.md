@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan Turchan"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Jan Turchan"
 summary: "Joined the Franciscan Friars Minor in 1899 in the province of Santa Maria degli Angeli in Italy, taking the name Narcyz. Ordained a priest in Lviv, Poland (in modern Ukraine) on 1 June 1906. Arrested for his faith on 6 October 1941 by the Gestapo, he was deported, imprisoned in t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Turchan.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

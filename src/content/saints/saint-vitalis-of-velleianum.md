@@ -1,7 +1,7 @@
 ---
 name: "Saint Vitalis of Velleianum"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Vitalis of Velleianum"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 deathYear: 303
 died: "c.303 at Velleianum, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

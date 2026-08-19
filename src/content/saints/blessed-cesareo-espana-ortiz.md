@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cesáreo España Ortiz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Cesáreo España Ortiz"
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Eladio Vicente"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

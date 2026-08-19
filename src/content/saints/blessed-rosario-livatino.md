@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rosario Angelo Livatino"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Rosario Angelo Livatino"
 summary: "The son of Vincenzo Livatino and Rosalia Corbo, Rosario was an execellent student all his life, always getting top marks, and graduating with honors from the law school of the University of Palermo on 9 July 1975. After working in several legal civil service positions, on 29 Sept"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Rosario-Livatino.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hesychius of Jerusalem"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Hesychius of Jerusalem"
 summary: "Educated in Jerusalem. Monk. Hermit. Priest. Noted for his learning and Bible scholarship. Worked with Saint Jerome and Saint Cyril of Alexandria. Wrote a commentary on the entire Bible, but only small parts have survived; some sermons have also come down to us."
 deathYear: 450
 born: "Jerusalem"

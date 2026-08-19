@@ -1,7 +1,7 @@
 ---
 name: "Saint Lughna the Deacon"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Lughna the Deacon"
 summary: "Deacon in Ireland. No other information has survived."
 searchAliases:
   - "Lugnei Diaconi"
@@ -11,9 +11,8 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
-martyr: true
+martyr: false
 ---
 
 Deacon in Ireland. No other information has survived.

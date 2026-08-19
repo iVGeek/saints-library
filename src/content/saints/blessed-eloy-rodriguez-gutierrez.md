@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eloy Rodríguez Gutiérrez"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Eloy Rodríguez Gutiérrez"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Eloy José"
@@ -17,9 +17,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

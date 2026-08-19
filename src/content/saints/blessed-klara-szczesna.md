@@ -1,7 +1,7 @@
 ---
 name: "Blessed Klara Szczesna"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Klara Szczesna"
 summary: "Sixth of seven children of Anthony and Frances, née Skorupska; baptized in the parish church in Lubowidzu, Poland, and educated at home by her mother who died when the girl as 12. Pressured by her father to get married, at age 17 she left home with desire to devote herself to God"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Klara-Szczesna.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 patronage:
   - "Sister Servants of the Most Sacred Heart of Jesus"

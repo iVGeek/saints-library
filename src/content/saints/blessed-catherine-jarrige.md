@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catherine Jarrige"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Catherine Jarrige"
 summary: "The youngest of seven daughters born to Pietro Jarrige and Maria Célarier. At the age of nine, Catherine began domestic work; she later learned to do lace work. She became a Dominican tertiary in 1778 and began caring for the poor, sitting with the dying, and insuring that the de"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Catherine_Jarrige_%28banni%C3%A8re%29.jpg"
 birthYear: 1754
@@ -16,11 +16,9 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 The youngest of seven daughters born to Pietro Jarrige and Maria Célarier. At the age of nine, Catherine began domestic work; she later learned to do lace work. She became a Dominican tertiary in 1778 and began caring for the poor, sitting with the dying, and insuring that the dead received proper burial.

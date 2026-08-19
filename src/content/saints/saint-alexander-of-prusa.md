@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Prusa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Alexander of Prusa"
 summary: "Bishop of Prusa, Bithynia (in modern Turkey). Martyr."
 searchAliases:
   - "Alexandros"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

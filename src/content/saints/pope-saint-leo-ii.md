@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Leo II"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Pope Saint Leo II"
 summary: "Pope. Eloquent preacher. Interested in music. Noted for his charity to the poor. Confirmed the Sixth Council of Constantinople in 681 which condemned Monthelitism and censured Pope Honorius I for not doing the same. Secured revocation of the edict of Constans II which proclaimed"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-II.jpg"
 deathYear: 683
@@ -14,12 +14,10 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Pope. Eloquent preacher. Interested in music. Noted for his charity to the poor. Confirmed the Sixth Council of Constantinople in 681 which condemned Monthelitism and censured Pope Honorius I for not doing the same. Secured revocation of the edict of Constans II which proclaimed the bishops of Ravenna, Italy free from the direct jurisdiction of the Bishop of Rome.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Amand of Nantes"
 honorific: Saint
-title: "Saint"
+title: "Saint Amand of Nantes"
 summary: "Founder and first abbot of the monastery at Nantes, France."
 searchAliases:
   - "Amandus"
@@ -13,8 +13,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

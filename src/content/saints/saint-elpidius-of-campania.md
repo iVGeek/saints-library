@@ -1,7 +1,7 @@
 ---
 name: "Saint Elpidius of Campania"
 honorific: Saint
-title: "Bishop, Priest, Confessor"
+title: "Saint Elpidius of Campania"
 summary: "Born to the North African nobility, both Elpidius and his brother Canione became priests. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea in the persecutions of the Arian Vandals led by Genseric. The boat landed in the Campania region of southern"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elpidius-of-Campania.jpg"
 searchAliases:

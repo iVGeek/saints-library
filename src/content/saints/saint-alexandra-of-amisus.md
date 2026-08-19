@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexandra of Amisus"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Alexandra of Amisus"
 summary: "Christian woman martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/Alexandra.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

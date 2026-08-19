@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew Avellino"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Andrew Avellino"
 summary: " Lawyer at the ecclesiastical court at Naples, Italy. During a heated courtroom argument on behalf of a friend, he supported his position with a lie; in that setting, he Studied humanities and philosophy at Venice, Italy. Doctor of civil and ecclesiastical law. Ordained at age 26."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2318_-_Milano_-_Dett._facciata_S._Antonio_Abate_-_S._Andrea_Avellino_-_Foto_Giovanni_Dall%27Orto_20-May-2007.jpg/960px-2318_-_Milano_-_Dett._facciata_S._Antonio_Abate_-_S._Andrea_Avellino_-_Foto_Giovanni_Dall%27Orto_20-May-2007.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor

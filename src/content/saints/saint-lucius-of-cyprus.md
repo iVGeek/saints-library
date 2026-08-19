@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius of Cyprus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lucius of Cyprus"
 summary: "4th century imperial Roman government official in Cyrene, Africa. He witnessed the faith and martyrdom of Saint Theodore of Cyrene, which led to interest in Christianity and eventually his conversion. Retired to the island of Cyprus to live away from the empire, but was one of a"
 deathYear: 311
 died: "311 on Cyprus"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

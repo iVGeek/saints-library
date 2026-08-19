@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Sorrento"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Antoninus of Sorrento"
 summary: "Benedictine monk. Forced by war to leave his monastery, he was first a hermit, then abbot at Saint Agrippinus and teacher of the people of Sorrento, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Antoninus_of_Sorrento_statue.jpg/960px-Antoninus_of_Sorrento_statue.jpg"
 searchAliases:

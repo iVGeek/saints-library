@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Ruiz Cardeñosa"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José María Ruiz Cardeñosa"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

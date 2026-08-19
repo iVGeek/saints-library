@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Luigia Velotti"
 honorific: Blessed
-title: "Virgin, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Maria Luigia Velotti"
 summary: "Born to Francesco Velotti and Teresa Napoletano, Maria was baptised on the day she was born, but was orphaned before the age of three. She was raised by an aunt named Caterina who was virulently opposed to Maria's piety and call to religious life. Maria became a Franciscan tertia"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Velotti.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

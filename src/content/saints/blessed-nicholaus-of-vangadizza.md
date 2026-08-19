@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholaus of Vangadizza"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Nicholaus of Vangadizza"
 summary: "Camaldolese monk and priest in the abbey of Vangadizza (in modern Badia Polesine, Italy)."
 deathYear: 1210
 died: "c.1210"

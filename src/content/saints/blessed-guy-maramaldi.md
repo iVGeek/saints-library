@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guy Maramaldi"
 honorific: Blessed
-title: "Monk, Pope, Royalty"
+title: "Blessed Guy Maramaldi"
 summary: "Dominican friar. Taught philosophy and theology. Founded a friary at Ragusa. Served as General Inquisitor for the kingdom of Naples (in modern Italy)."
 deathYear: 1391
 born: "at Naples, Italy"
@@ -14,8 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: false
 ---

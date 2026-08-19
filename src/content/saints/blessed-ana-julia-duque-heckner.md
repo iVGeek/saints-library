@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ana Julia Duque Heckner"
 honorific: Blessed
-title: "Religious, Pope, Cardinal"
+title: "Blessed Ana Julia Duque Heckner"
 summary: "Founded the Congregation of the Little Sisters of the Annunciation."
 searchAliases:
   - "Sister María Berenice"
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Beata_Maria_Berenice_Duque.jpg/330px-Beata_Maria_Berenice_Duque.jpg"
 vocation:
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

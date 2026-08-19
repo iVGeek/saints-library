@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Masquef Ferré"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Masquef Ferré"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Masquef-Ferré.jpg"
 birthYear: 1872
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Laurentius Yamada"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Laurentius Yamada"
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan; son of Blessed Michaël Yamada Kasahashi. Domincan tertiary. Martyr."
 birthYear: 1625
 deathYear: 1628
@@ -14,9 +14,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

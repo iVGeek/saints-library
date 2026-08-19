@@ -1,7 +1,7 @@
 ---
 name: "Saint Magdalena Han Yong-I"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Magdalena Han Yong-I"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Magdallena Han Yeong-I"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

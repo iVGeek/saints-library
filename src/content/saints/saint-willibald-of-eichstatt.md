@@ -1,7 +1,7 @@
 ---
 name: "Saint Willibald of Eichstätt"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary, Confessor"
+title: "Saint Willibald of Eichstätt"
 summary: "Born a prince, the son of Saint Richard the King. Brother of Saint Winnebald of Heidenheim and Saint Walburga. Related to Saint Boniface. He nearly died as an infant, leading his parents to pray for his life, vowing that he would be dedicated to God if he survived. Entered the Ab"
 image: "http://catholicsaints.info/wp-content/uploads/img-Willibald-Eichstaett.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

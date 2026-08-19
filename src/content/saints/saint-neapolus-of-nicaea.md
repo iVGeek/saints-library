@@ -1,7 +1,7 @@
 ---
 name: "Saint Neapolus of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Neapolus of Nicaea"
 summary: "One of 279 Christians martyred together."
 died: "Nicaea, Bithynia"
 deathPlace: "Bithynia"
@@ -10,7 +10,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

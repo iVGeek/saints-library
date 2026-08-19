@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catalina Caldés Socías"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Catalina Caldés Socías"
 summary: "Nun. Member of the Franciscan Daughters of Mercy. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Catalina-Caldés-Socías.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

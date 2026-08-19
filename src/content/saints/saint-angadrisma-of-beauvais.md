@@ -1,7 +1,7 @@
 ---
 name: "Saint Angadrisma of Beauvais"
 honorific: Saint
-title: "Bishop, Religious, Royalty"
+title: "Saint Angadrisma of Beauvais"
 summary: "Cousin of Saint Lambert of Lyon. Educated in Therouanne by Lambert and Saint Omer. She felt drawn to religious life from an early age, but was promised in an arranged marriage to Saint Ansbert of Chaussy. Dreading marriage, Angadrisma prayed for a miracle to prevent it; she was s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Angadrisma-of-Beauvais.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against disasters"

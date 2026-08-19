@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Cejudo Redondo de Caballero"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Teresa Cejudo Redondo de Caballero"
 summary: "Lifelong lay woman in the diocese of Córdoba, Spain. Member of Catholic Action. Member of the Society of Saint Vincent de Paul. Member of the Salesian Cooperators. Attended the College of the Sisters of the Immaculate Conception. Married to the architect Juan Battista Caballero i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Cejudo-Redondo-de-Caballero.jpg"
 birthYear: 1890
@@ -16,9 +16,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

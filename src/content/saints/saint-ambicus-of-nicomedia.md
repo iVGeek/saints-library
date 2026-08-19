@@ -1,7 +1,7 @@
 ---
 name: "Saint Ambicus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ambicus of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "c.303 in Nicomedia (in modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

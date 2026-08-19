@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leonianus of Autun"
 honorific: Blessed
-title: "Monk, Pope, Hermit"
+title: "Blessed Leonianus of Autun"
 summary: "Lay man who was captured and taken to Gaul as a slave. When he regained his freedom he became a hermit near Autun (in modern France). Monk at the Saint Symphorianus Abbey at Autun."
 deathYear: 570
 born: "Pannonia (part of modern Hungary)"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

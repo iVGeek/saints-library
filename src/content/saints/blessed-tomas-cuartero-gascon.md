@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Cuartero Gascón"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Tomás Cuartero Gascón"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Cuartero-Gascón.jpg"
 birthYear: 1915
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

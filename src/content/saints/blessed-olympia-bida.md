@@ -1,7 +1,7 @@
 ---
 name: "Blessed Olympia Bida"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Olympia Bida"
 summary: "Greek Catholic. Joined the Congregation of the Sisters of Saint Joseph. Worked in several towns as a catechist and novice director, and with the aged and sick. Taught and helped to raise several young women. Convent superior in Kheriv where the Communists worked against her. Arre"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Olympia-Bida.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

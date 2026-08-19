@@ -1,7 +1,7 @@
 ---
 name: "Saint Irene of Lecce"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Irene of Lecce"
 summary: "The daughter of a wealthy, pagan named Licinius, her father considered Irene so beautiful and such a desirable marriage that he kept her locked in a tower with 13 guards. She received instruction in Christianity directly from God, was baptized by Saint Timothy, and when her fathe"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Irene-of-Lecce.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "Altamura, Italy"

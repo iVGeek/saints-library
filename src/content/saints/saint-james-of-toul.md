@@ -1,7 +1,7 @@
 ---
 name: "Saint James of Toul"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint James of Toul"
 summary: "Born to the Gallic nobility; brother of Saint Liliosa of Toul. Benedictine monk at Hornbach, diocese of Metz, France. Bishop of Toul, France in 756. Great benefactor of the Benedictines."
 deathYear: 769
 born: "at Berrigny, Haute Marne (in modern France)"

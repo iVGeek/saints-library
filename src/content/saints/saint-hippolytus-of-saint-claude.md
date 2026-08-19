@@ -1,7 +1,7 @@
 ---
 name: "Saint Hippolytus of Saint-Claude"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Hippolytus of Saint-Claude"
 summary: "Benedictine monk. Abbot and bishop of Saint-Claude, France."
 deathYear: 775
 died: "c.775 of natural causes"

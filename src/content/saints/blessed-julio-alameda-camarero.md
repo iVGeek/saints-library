@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julio Alameda Camarero"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Julio Alameda Camarero"
 summary: "Member of the Carmelite Tertiaries of Education. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

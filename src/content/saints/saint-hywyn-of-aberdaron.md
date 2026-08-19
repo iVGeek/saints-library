@@ -1,7 +1,7 @@
 ---
 name: "Saint Hywyn of Aberdaron"
 honorific: Saint
-title: "Monk"
+title: "Saint Hywyn of Aberdaron"
 summary: "Pilgrim companion of Saint Cadfan. Founded Aberdaron abbey, Gwynedd, Wales."
 searchAliases:
   - "Ewen"

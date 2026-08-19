@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Gavan"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Gavan"
 summary: "Educated at the Jesuit College, Saint Omer, France. Priest. Returned to England to minister to covert Catholics in Staffordshire. Took his final vows as a Jesuit in 1678 in Boscobel, England. Eloquent and effective preacher. Betrayed to the English priest hunters by an apostate p"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Martin_bouche-jhon_gavan.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

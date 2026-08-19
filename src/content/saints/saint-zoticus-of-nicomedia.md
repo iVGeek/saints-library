@@ -1,7 +1,7 @@
 ---
 name: "Saint Zoticus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Zoticus of Nicomedia"
 summary: "One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Zotico"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

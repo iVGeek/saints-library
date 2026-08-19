@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustina of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Religious"
+title: "Saint Faustina of Rome"
 summary: "Virgin martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Religious
 martyr: true

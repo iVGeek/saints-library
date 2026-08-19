@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julián Benigno Moreno y Moreno"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Julián Benigno Moreno y Moreno"
 summary: "Augustinian Recollect priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Julian Benigno of Saint Nicholas of Tolentino"
@@ -17,9 +17,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

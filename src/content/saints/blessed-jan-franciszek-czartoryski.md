@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan Franciszek Czartoryski"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Jan Franciszek Czartoryski"
 summary: "Civil engineer. Dominican, taking the name Michal. Priest. Executed in the Nazi persecution for ministering to wounded resistance fighters in World War II. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Franciszek-Czartoryski.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: true
 ---

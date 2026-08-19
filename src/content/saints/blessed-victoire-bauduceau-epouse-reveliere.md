@@ -1,7 +1,7 @@
 ---
 name: "Blessed Victoire Bauduceau épouse Révélière"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Victoire Bauduceau épouse Révélière"
 summary: "Married lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1745
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

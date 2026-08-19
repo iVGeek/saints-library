@@ -1,7 +1,7 @@
 ---
 name: "Saint Machudd of Llanfechel"
 honorific: Saint
-title: "Monk"
+title: "Saint Machudd of Llanfechel"
 summary: "Founded Llanfechell Abbey, Anglesey, Wales, and served as its first abbot."
 searchAliases:
   - "Machudd of Lianfechell"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Fraternus of Auxerre"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Fraternus of Auxerre"
 summary: "Bishop of Auxerre, France. Martyr."
 searchAliases:
   - "Fraterno"
@@ -13,7 +13,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

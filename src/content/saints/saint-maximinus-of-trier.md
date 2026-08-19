@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximinus of Trier"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Maximinus of Trier"
 summary: "Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he succeeded as bishop of Trier in 332 or 335. Trier was the government seat of the Western Empire, and his office put Maximinus close contact with Emperors Constant"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maximinus-of-Trier.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

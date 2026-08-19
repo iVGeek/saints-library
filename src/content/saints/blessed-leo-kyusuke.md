@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leo Kyusuke"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Leo Kyusuke"
 summary: "Layman in the Kyoto, Japan. Married of Blessed Martha Kyusuke. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Owari (in modern Aichi), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

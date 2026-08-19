@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Bazaga Palacios"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Bazaga Palacios"
 summary: "After studying in seminary at Málaga, Spain and the Abbey of Sacromonte, Juan was ordained a priest of the archdiocese of Granada, Spain on 21 September 1929, and served as parish priest multiple locations. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Bazaga-Palacios.jpg"
 birthYear: 1904
@@ -16,9 +16,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

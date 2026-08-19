@@ -1,7 +1,7 @@
 ---
 name: "Our Lady of Altotting"
 honorific: Saint
-title: "Virgin, Pope"
+title: "Our Lady of Altotting"
 summary: "Shrine located in Altotting, Bavaria, Germany, the octagonal chapel was constructed of native stone c.680 and survives today. Wars and pestilence and politics have caused the area to change hands several times, but the chapel has always survived. The small image of Our Lady was c"
 image: "http://catholicsaints.info/wp-content/uploads/img-Our-Lady-of-Altotting.gif"
 region: "Germany"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Virgin
-  - Pope
 patronage:
   - "Germany"
 martyr: false

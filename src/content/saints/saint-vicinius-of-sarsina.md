@@ -1,7 +1,7 @@
 ---
 name: "Saint Vicinius of Sarsina"
 honorific: Saint
-title: "Bishop, Priest, Hermit"
+title: "Saint Vicinius of Sarsina"
 summary: "Prayerful hermit on a mountain near Sarsina, Italy; it has since been named Monte San Vicinio in his honour. As was the custom then, around the year 303 the clergy and laity of Sarsina gathered to select their bishop; they saw a sign appear in the heavens above the mountain where"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vicinius-of-Sarsina.jpg"
 searchAliases:

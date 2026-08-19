@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Sánchez Rodríguez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Sánchez Rodríguez"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ángel María"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

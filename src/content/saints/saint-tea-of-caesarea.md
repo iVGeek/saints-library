@@ -1,7 +1,7 @@
 ---
 name: "Saint Tea of Caesarea"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Tea of Caesarea"
 summary: "Nun. Martyred in the pesecutions of emperor Maximilian and governor Firmilian."
 deathYear: 309
 died: "burned to death in 309 in Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

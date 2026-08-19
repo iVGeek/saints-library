@@ -1,7 +1,7 @@
 ---
 name: "Saint Callinicus of Paphlagonia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Callinicus of Paphlagonia"
 summary: "Martyr."
 searchAliases:
   - "Callinicus of Gangrae"
@@ -13,7 +13,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

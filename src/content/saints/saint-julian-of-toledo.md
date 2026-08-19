@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Toledo"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Julian of Toledo"
 summary: "Parents may have been Jewish, but Julian was raised Christian. Well educated at the local cathedral school. Monk at Agali, Spain. Spiritual student of Saint Eugene II, Archbishop of Toledo, Spain. Abbot at Agali. Archbishop of Toledo in 680. First bishop with primacy over the ent"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Saint_Julian_of_Toledo_ost_19.JPG"
 birthYear: 642
@@ -18,7 +18,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 martyr: false
 ---

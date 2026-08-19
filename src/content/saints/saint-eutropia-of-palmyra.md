@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutropia of Palmyra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutropia of Palmyra"
 summary: "Twelve-year-old girl martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "used as a target for archery practice in 303 in Palmyra, Syria"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

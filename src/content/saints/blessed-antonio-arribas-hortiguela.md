@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Arribas Hortigüela"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Antonio Arribas Hortigüela"
 summary: "Student at the minor seminary of the Missionaries of the Sacred Heart in Canet de Mar, Spain, and then joined the congregation on 30 September 1928. Ordained a priest on 6 April 1935. Taught Latin and served as treasurer of the Missionaries's school. Known for his exceptional phy"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Arribas-Hortiguela.jpg"
 birthYear: 1908
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

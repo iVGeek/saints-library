@@ -1,7 +1,7 @@
 ---
 name: "Saint Trason of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Trason of Rome"
 summary: "Martyred in the persecutions of Diocletian for ministering to Christian prisoners."
 searchAliases:
   - "Traso"
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundantius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Abundantius of Rome"
 summary: "Deacon in Rome, Italy. Arrested with Saint Abundius for refusing to sacrifice to Hercules. Tortured at Mammertine prison, and condemned to death for their Christianity during the persecutions of Diocletian. Martyred."
 deathYear: 304
 died: "beheaded c.304 at Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

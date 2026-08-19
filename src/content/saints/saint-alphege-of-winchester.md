@@ -1,7 +1,7 @@
 ---
 name: "Saint Alphege of Winchester"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Alphege of Winchester"
 summary: "Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk, anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in 984. Built several churches, installed a cathedra"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphege-of-Winchester.jpg"
 searchAliases:
@@ -29,8 +29,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:
@@ -39,7 +37,7 @@ patronage:
   - "Greenwich"
   - "Solihull"
   - "Winchester"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk, anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in 984. Built several churches, installed a cathedral organ so large that it could be heard a mile away, and his charity was so great that there were reported to be no beggars in his diocese. May have helped negotiate a peace treaty in 994 which ended some Viking raids.

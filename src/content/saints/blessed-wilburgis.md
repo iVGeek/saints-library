@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wilburgis"
 honorific: Blessed
-title: "Priest, Hermit, Royalty"
+title: "Blessed Wilburgis"
 summary: "Her father died on a pilgrimage to Jerusalem, and her mother soon after. Pilgrim at age 16 to Saint James de Compostella in Spain. On Ascension Day in 1248, she decided to withdraw from the world, and moved into a closed cell to live as a hermitess and anchorite near the Augustin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wilburgis.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Hermit
-  - Royalty
 religiousOrder: "Augustinian"
 patronage:
   - "Sankt Florian, Austria"

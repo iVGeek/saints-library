@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew of Fiesole"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Deacon, Royalty, Confessor"
+title: "Saint Andrew of Fiesole"
 summary: "Born to the Irish nobility. Brother of Saint Bridget the Younger. Educated by Saint Donatus of Fiesoli, and made a pilgimage to Rome, Italy with him in 816. When Donatus was miraculously chosen bishop of Fiesole, Italy, Andrew was ordained as archdeacon. He served for 47 years, r"
 searchAliases:
   - "Andrew of Ireland"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Amor of Franche-Comté"
 honorific: Saint
-title: "Monk"
+title: "Saint Amor of Franche-Comté"
 summary: "Venerated in Franche-Comté, France, but his story has been lost over time."
 searchAliases:
   - "Amour"

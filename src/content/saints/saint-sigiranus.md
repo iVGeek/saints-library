@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigiranus"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Royalty, Confessor"
+title: "Saint Sigiranus"
 summary: "Born to the nobility of Berry, France; son of the Count of Bourges, a man who later became bishop of Tours, France. Part of the royal court of Clothaire II, serving as cup-bearer. Feeling a call to the religious life, Sigiranus refused an arranged marriage and took holy orders in"
 searchAliases:
   - "Cirano"

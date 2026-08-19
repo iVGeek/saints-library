@@ -1,7 +1,7 @@
 ---
 name: "Saint Phêrô Vu Van Truat"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Phêrô Vu Van Truat"
 summary: "Young layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyr."
 searchAliases:
   - "Peter Truat"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

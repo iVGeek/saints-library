@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Gaius"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Caius"
@@ -11,7 +11,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

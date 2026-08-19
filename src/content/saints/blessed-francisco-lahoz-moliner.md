@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Lahoz Moliner"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Francisco Lahoz Moliner"
 summary: "Baptized at the age of 1 day. Joined the Brothers of the Christian Schools at Cambrils, Spain on 10 August 1925, making his vows on 2 February 1929. Teacher and catechist of novices. Imprisoned and martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Lahoz-Moliner.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 11
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

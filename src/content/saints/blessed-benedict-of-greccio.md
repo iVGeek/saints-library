@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benedict of Greccio"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Benedict of Greccio"
 summary: "Thirteenth century Franciscan friar in Rieti, Italy."
 deathYear: 1304
 died: "1304 of natural causes"
@@ -10,8 +10,7 @@ feastDay:
   month: 6
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

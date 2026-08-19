@@ -1,7 +1,7 @@
 ---
 name: "Saint Indes of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Indes of Nicomedia"
 summary: "Chambermaid in the imperial palace. Martyred in the persecutions of Diocletian for refusing to sacrifice to idols. One of the 20,000 Martyrs of Nicomedia."
 searchAliases:
   - "Indysos"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

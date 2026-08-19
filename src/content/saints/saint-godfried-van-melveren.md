@@ -1,7 +1,7 @@
 ---
 name: "Saint Godfried van Melveren"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Godfried van Melveren"
 summary: "Painter. Franciscan friar minor. Priest. Custos of the Franciscan house in Gorkum, Netherlands. Martyred by Calvinists for “papism” and their belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

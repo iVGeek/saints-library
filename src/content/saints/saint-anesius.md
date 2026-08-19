@@ -1,7 +1,7 @@
 ---
 name: "Saint Anesius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anesius"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

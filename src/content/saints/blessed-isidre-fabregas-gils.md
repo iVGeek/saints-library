@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidre Fábregas Gils"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Isidre Fábregas Gils"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jeanne Veron"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Jeanne Veron"
 summary: "Member of the Sisters of Charity of Our Lady of Evron. Martyred in the French Revolution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jeanne-Veron.jpg"
 birthYear: 1766
@@ -16,9 +16,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

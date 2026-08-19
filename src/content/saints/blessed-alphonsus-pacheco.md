@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alphonsus Pacheco"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Blessed Alphonsus Pacheco"
 summary: "Born to the New Castilian nobility. Joined the Jesuits on 8 September 1567. In September 1574, he arrived in Goa, India as a missionary. Priest. Rector of Rachol in 1581. Accompanied two punitive Portuguese expeditions against the pagans in the village of Cuncolim. One of the Mar"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cuncolim_Martyrs.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

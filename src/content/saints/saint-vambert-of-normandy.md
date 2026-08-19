@@ -1,7 +1,7 @@
 ---
 name: "Saint Vambert of Normandy"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Vambert of Normandy"
 summary: "Ninth- or tenth-century priest in the area of modern Normandy, France. Martyred by invading Normans."
 died: "beheaded in the ninth– or tenth-century in the vicinity of the River Dives, Normandy, France"
 deathPlace: "Normandy, France"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

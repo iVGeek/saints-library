@@ -1,7 +1,7 @@
 ---
 name: "Saint Theneva"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Theneva"
 summary: "British princess. When Theneva became pregnant before marriage, her family threw her from a cliff. She survived the fall unharmed, and was soon met by an unmanned boat. She knew she had no home to go to, so got into the boat; it sailed her across the Firth of Forth to land at Cul"
 searchAliases:
   - "Dwynwen"
@@ -23,7 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "Glasgow, Scotland"
 martyr: false

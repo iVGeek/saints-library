@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franco of Siena"
 honorific: Blessed
-title: "Pope, Hermit, Soldier"
+title: "Blessed Franco of Siena"
 summary: "Born to the Italian nobility. Spent a dissolute youth as a soldier in Italy. Near Sartiano, Italy he was blinded, and offered to change his life if he was healed; he was healed. Pilgrim to Rome, Bari and Loreto in Italy. Having heard the preaching of Blessed Ambrose Sansedoni in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Franco-of-Siena.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
   - Soldier
 religiousOrder: "Carmelite"

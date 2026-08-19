@@ -1,7 +1,7 @@
 ---
 name: "Pope Blessed Urban V"
 honorific: Blessed
-title: "Martyr"
+title: "Pope Blessed Urban V"
 summary: "Born to the nobility, one of four children of Guillaume de Grimoard, Lord of Bellegarde, and of Amphélise de Montferrand; his brother later became a cardinal and papal legate. Guillaume became a Benedictine monk at the priory of Chirac, France in 1327. Priest, ordained at the Chi"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Simone_dei_crocifissi%2C_urbano_V%2C_1375_ca.%2C_forse_dalla_cattedrale_di_s._pietro_01_%28cropped%29.jpg"
 searchAliases:
@@ -18,10 +18,9 @@ feastDay:
   month: 12
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, one of four children of Guillaume de Grimoard, Lord of Bellegarde, and of Amphélise de Montferrand; his brother later became a cardinal and papal legate. Guillaume became a Benedictine monk at the priory of Chirac, France in 1327. Priest, ordained at the Chirac monastery in 1334. He studied literature and law in Montpellier, France, and then law at the University of Toulouse, France. He received a doctorate in Canon Law on 31 October 1342, and was known as one of the most learned men of his day. Appointed prior of Nôtre-Dame du Pré in the diocese of Auxerre, France by Pope Clement VI. Abbot of Saint-Germain en Auxerre monastery on 13 February 1352. Benedictine Procurator-General at the Papal court. Taught canon law in Montpellier, in Paris and in Avignon, France. Vicar-general of the diocese of Clermont, France c.1350. Vicar-general of the diocese of Uzès, France in 1357. Served as papal legate in Italy several times. Abbot of the abbey of Saint Victor in Marseilles, France from August 1361 to 1362. Advisor to Pope Innocent VI. Apostolic Nuncio in Italy.

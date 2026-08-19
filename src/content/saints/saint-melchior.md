@@ -1,7 +1,7 @@
 ---
 name: "Saint Melchior"
 honorific: Saint
-title: "Priest, Royalty"
+title: "Saint Melchior"
 summary: "One of the Three Magi."
 image: "http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg"
 region: "Germany"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
 patronage:
   - "against epilepsy"
   - "against thunder"

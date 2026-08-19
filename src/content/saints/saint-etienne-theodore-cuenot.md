@@ -1,7 +1,7 @@
 ---
 name: "Saint Etienne-Théodore Cuenot"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Missionary"
+title: "Saint Etienne-Théodore Cuenot"
 summary: "Priest, ordained in 1825. Member of the Paris Foreign Missions Society. Missionary to Vietnam in 1828. Missionary bishop in 1835. Vicar apostolic of Cochinchina in 1840. Martyred in the persecutions of emperor Tu Duc."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Etienne-Théodore-Cuenot.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 14
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

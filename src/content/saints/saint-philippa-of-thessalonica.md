@@ -1,7 +1,7 @@
 ---
 name: "Saint Philippa of Thessalonica"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Philippa of Thessalonica"
 summary: "Convicted of possessing the Scriptures despite a prohibition issued in 303 by Emperor Diocletian. She was ordered to sacrifice to pagan gods; she refused. Martyr."
 deathYear: 304
 died: "c.304 in Thessalonica, Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

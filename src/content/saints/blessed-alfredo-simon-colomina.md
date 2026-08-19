@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfredo Simón-Colomina"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Alfredo Simón-Colomina"
 summary: "Jesuit priest. Dean and then rector of the Colegio de San José in Valencia, Spain. Rector in Sarriá, Spain in 1916, and then re-assigned to Valencia. Imprisoned several times and eventually martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Simón-Colomina.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

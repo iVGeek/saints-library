@@ -1,7 +1,7 @@
 ---
 name: "Saint Ortario of Landelles"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ortario of Landelles"
 summary: "Monk. Abbot of Landelles Abbey, Bayeux, France. Noted for the austerity of his personal life and his dedication to caring for the area poor and sick."
 region: "France"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Abbot of Landelles Abbey, Bayeux, France. Noted for the austerity of his personal life and his dedication to caring for the area poor and sick.

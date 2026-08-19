@@ -1,7 +1,7 @@
 ---
 name: "Saint Acasius of Prusa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Acasius of Prusa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Acatius"
@@ -13,7 +13,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

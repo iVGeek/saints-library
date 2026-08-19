@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guido of Casauria"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Guido of Casauria"
 summary: "Benedictine monk at Farfa, Italy. Abbot of the monastery at Casauria, Abruzzi, Italy."
 deathYear: 1045
 died: "c.1045 of natural causes"

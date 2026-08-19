@@ -1,7 +1,7 @@
 ---
 name: "Saint Gunthiern"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Gunthiern"
 summary: " Legend says that insects once threatened to destroy the region's crops. Count Prince who became a hermit in Brittany. The local lord, Grallon, gave Gunthiern land on the Isle of Groie, near River Blavet to found a monastery. It survives today as the Benedictine house of Kemperle."
 deathYear: 500
 born: "Welsh"
@@ -15,7 +15,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

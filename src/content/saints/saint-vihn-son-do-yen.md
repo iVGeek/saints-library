@@ -1,7 +1,7 @@
 ---
 name: "Saint Vihn Son Ðo Yen"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Vihn Son Ðo Yen"
 summary: "Born to a Christian family. Ordained in 1798 by Blessed Ignatius Delgado in the vicariate apostolic on Eastern Tonkin (in modern Vietnam). He was imprisoned in a government persecution of Christians in 1799, but friends ransomed him out. Joined the Dominicans on 22 July 1808 in M"
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Born to a Christian family. Ordained in 1798 by Blessed Ignatius Delgado in the vicariate apostolic on Eastern Tonkin (in modern Vietnam). He was imprisoned in a government persecution of Christians in 1799, but friends ransomed him out. Joined the Dominicans on 22 July 1808 in Manila, Philippines. He was a man noted for his personal piety and forgiveness. Parish priest in Ke Sat, Vietnam; the parishioners were required to destroyed their church in the 1832 persecutions of Emperor Minh Mang. Father Vincent was arrested in February 1838 as the persecutions escalated.

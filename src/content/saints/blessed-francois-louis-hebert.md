@@ -1,7 +1,7 @@
 ---
 name: "Blessed François-Louis Hébert"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed François-Louis Hébert"
 summary: "Joined the Eudists in 1756. Ordained in 1761. Taught in the seminaries of the French cities of Caen, Dol and Domfort. Co-adjutor general of the Eudists on 16 October 1782. Chosen confessor to King Louis XVI in April 1791. One of the Martyrs of September."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Francois-Louis-Hebert.jpg"
 birthYear: 1735
@@ -16,10 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Carmelite"
 martyr: true

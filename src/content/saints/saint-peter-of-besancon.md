@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Besançon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Peter of Besançon"
 summary: "Bishop of Besançon, France."
 region: "France"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Besançon, France.

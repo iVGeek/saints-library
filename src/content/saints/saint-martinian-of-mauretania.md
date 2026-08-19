@@ -1,7 +1,7 @@
 ---
 name: "Saint Martinian of Mauretania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Martinian of Mauretania"
 summary: "Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric."
 deathYear: 458
 died: "dragged to death by horses in 458"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

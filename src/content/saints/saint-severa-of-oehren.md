@@ -1,7 +1,7 @@
 ---
 name: "Saint Severa of Oehren"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Severa of Oehren"
 summary: "Abbess of the convent of Oehren in Trier, Germany."
 deathYear: 750
 died: "c.750"

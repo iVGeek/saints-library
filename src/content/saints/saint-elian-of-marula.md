@@ -1,7 +1,7 @@
 ---
 name: "Saint Elian of Marula"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Elian of Marula"
 summary: "Martyr."
 searchAliases:
   - "Elianus"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

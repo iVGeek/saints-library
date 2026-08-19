@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Bruch Cotacáns"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pedro Bruch Cotacáns"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Anastasio Pedro"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

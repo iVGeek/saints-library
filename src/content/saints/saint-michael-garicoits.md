@@ -1,7 +1,7 @@
 ---
 name: "Saint Michael Garicoïts"
 honorific: Venerable
-title: "Confessor"
+title: "Saint Michael Garicoïts"
 summary: "The eldest son of Pyrenean peasants, Arnold and Gratianne Garicoïts. His family sheltered priests escaping the persecutions of the French Revolution. As a boy Michael worked as a shepherd on neighboring farms. He early felt a call to the priesthood, but his family was too poor to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Michael-Garicoits.jpg"
 birthYear: 1797

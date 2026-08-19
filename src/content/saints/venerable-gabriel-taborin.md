@@ -1,7 +1,7 @@
 ---
 name: "Venerable Gabriel Taborin"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Gabriel Taborin"
 summary: "Catechist. Founded the Brothers of the Holy Family and served as its first superior."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Taborin.jpg"
 birthYear: 1799
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

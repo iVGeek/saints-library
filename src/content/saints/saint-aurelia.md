@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurelia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aurelia"
 summary: "Martyred in the persecutions of Valerian."
 deathYear: 258
 born: "citizen of the Roman empire"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

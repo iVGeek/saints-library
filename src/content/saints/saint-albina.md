@@ -1,7 +1,7 @@
 ---
 name: "Saint Albina of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Albina of Caesarea"
 summary: "Young Christian maiden martyred in the persecutions of Decius. Greeks maintain that her body was miraculously translated after death."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Albina-of-Caesarea.jpg"
 deathYear: 250
@@ -14,7 +14,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

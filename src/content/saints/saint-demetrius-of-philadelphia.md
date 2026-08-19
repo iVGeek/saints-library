@@ -1,7 +1,7 @@
 ---
 name: "Saint Demetrius of Philadelphia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Demetrius of Philadelphia"
 summary: "First century bishop of Philadelphia in Asia minor."
 searchAliases:
   - "Dimitrios"

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bertilla Antoniazzi"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Bertilla Antoniazzi"
 summary: "The 8th of nine children born to a peasant family, her heart was damaged at age 8 by rheumatic fever. This led to a life of alternating hospitalizations and recovery at home, but also to a life of intercessory prayer. Member of Catholic Action, of Unitalsi and of the Center for V"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Bertilla-Antoniazzi.jpg"
 birthYear: 1944
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

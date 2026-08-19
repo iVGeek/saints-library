@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leo Tanaka"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Leo Tanaka"
 summary: "Layman catechist in the Archdiocese of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Leo Tanaca"
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

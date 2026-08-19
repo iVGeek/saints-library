@@ -1,7 +1,7 @@
 ---
 name: "Saint Gracilian"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gracilian"
 summary: "While in prison for his faith, Gracilian restored the sight of a blind girl, Saint Felicissima, and converted her to the faith. Martyr."
 searchAliases:
   - "Gratilian"
@@ -16,7 +16,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Bassano Romano, Italy"

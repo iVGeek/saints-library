@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maisam Pho Inpèng"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Maisam Pho Inpèng"
 summary: "Married layman in the apostolic vicariate of Vientiane (in modern Laos). Martyr."
 birthYear: 1934
 deathYear: 1970
@@ -15,8 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

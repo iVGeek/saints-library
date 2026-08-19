@@ -1,7 +1,7 @@
 ---
 name: "Blessed María del Tránsito de Jesús Sacramentado"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed María del Tránsito de Jesús Sacramentado"
 summary: "Third child born to Felipe Cabanillas and Francisca Antonia Luj&aacute;n S&aacute;nchez. Raised in a large, wealthy and pious family; she had ten siblings, three of whom died in childhood, one brother became a priest, three sisters nuns. Educated at home and then at Cordoba, Arge"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-del-Tránsito-de-Jesús-Sacramentado.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

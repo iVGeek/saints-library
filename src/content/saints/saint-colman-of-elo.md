@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Elo"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Colman of Elo"
 summary: "Nephew of Saint Columba of Iona. Founded monasteries in Lynally (Land-Elo, Lin-Alli) and in Muckamore in Ireland. Wrote the Alphabet of Devotion."
 searchAliases:
   - "Colman Macusailni"

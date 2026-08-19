@@ -1,7 +1,7 @@
 ---
 name: "Saint Berius of Constantinople"
 honorific: Saint
-title: "Martyr"
+title: "Saint Berius of Constantinople"
 summary: "Martyr."
 searchAliases:
   - "Beniamino"
@@ -18,8 +18,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

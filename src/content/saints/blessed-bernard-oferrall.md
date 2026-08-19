@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernard O'Ferrall"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Bernard O'Ferrall"
 summary: "Dominican priest. One of the Irish Martyrs."
 deathYear: 1649
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

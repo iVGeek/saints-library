@@ -1,7 +1,7 @@
 ---
 name: "Saint Crewanna"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Crewanna"
 summary: "Assisted with Saint Breaca's missionary work in Cornwall, England. The town of Crowan was named for him."
 searchAliases:
   - "Crewenna"

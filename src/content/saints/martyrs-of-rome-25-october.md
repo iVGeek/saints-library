@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Rome"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Martyrs of Rome"
 summary: "A group of 46 soldiers and 21 civilians martyred together in the persecutions of Claudius II."
 deathYear: 269
 died: "269 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

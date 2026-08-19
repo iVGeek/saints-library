@@ -1,7 +1,7 @@
 ---
 name: "Saint Merulus of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Merulus of Rome"
 summary: "Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who later wrote about him. Miracle worker."
 deathYear: 590
 died: "c.590 of natural causes"
@@ -11,11 +11,9 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who later wrote about him. Miracle worker.

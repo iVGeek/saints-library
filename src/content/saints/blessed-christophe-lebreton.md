@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christophe Lebreton"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Christophe Lebreton"
 summary: "Seventh of a family of twelve children. He joined the Trappists in 1974, and moved to the monastery of Tamié in Algeria in 1987. Ordained a priest in 1990. Served as novice master of his community. He was one of the seven monks at the Atlas Abbey of Tibhirine near Médéa, Algeria"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christophe-Lebreton.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

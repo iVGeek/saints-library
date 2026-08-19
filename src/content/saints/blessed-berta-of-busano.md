@@ -1,7 +1,7 @@
 ---
 name: "Blessed Berta of Busano"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Berta of Busano"
 summary: "Born to the nobility, the daughter of Emilia della Rovere and Arduino II, Count of Valperga; sister of the Blessed Arduino of Turin; aunt of Blessed Boniface of Aosta. Benedictine nun in Busano, Italy as a young woman. Later chosen abbess of her house; she used the position and f"
 searchAliases:
   - "Berta of Valperga"

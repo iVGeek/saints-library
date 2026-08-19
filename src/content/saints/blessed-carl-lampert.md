@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carl Lampert"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Carl Lampert"
 summary: "Youngest of seven children. Priest, ordained on 12 May 1918 in the cathedral in Brixen, Italy. Taught at several schools, and was known for his ministry to young people. Studied canon law in Rome, Italy in 1930. Practiced law in the Sacra Rota Romana at the Vatican. Received the"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Carl_Lampert_%281918%29.jpg"
 birthYear: 1894
@@ -16,9 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

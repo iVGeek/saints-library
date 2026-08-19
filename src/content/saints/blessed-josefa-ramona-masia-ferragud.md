@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josefa Ramona Masiá Ferragud"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Josefa Ramona Masiá Ferragud"
 summary: "Discalced Augustinian nun. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Ramona-Masiá-Ferragud.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

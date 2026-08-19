@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Constantinople"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Marcian of Constantinople"
 summary: "Member of a Roman family of Constantinople. Related to Emperor Theodosius II. Ordained in 455. He lived such an austere life that he was wrongly accused of the heresy of Novatianism. Treasurer of the great church Hagia Sophia. Appointed Oikonomos, a position second only to the pa"
 searchAliases:
   - "Marciano"
@@ -13,10 +13,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Member of a Roman family of Constantinople. Related to Emperor Theodosius II. Ordained in 455. He lived such an austere life that he was wrongly accused of the heresy of Novatianism. Treasurer of the great church Hagia Sophia. Appointed Oikonomos, a position second only to the patriarch in authority. Gave away huge sums from his family fortune, but always anonymously so as not to draw attention to himself. Restored several churches. Composed several hymns, and was known as a miracle worker.

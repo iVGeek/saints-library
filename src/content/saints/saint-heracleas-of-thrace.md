@@ -1,7 +1,7 @@
 ---
 name: "Saint Heracleas of Thrace"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heracleas of Thrace"
 summary: "Martyred in Thrace. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

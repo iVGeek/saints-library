@@ -1,7 +1,7 @@
 ---
 name: "Saint Jéroche"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Jéroche"
 summary: "Seventh-century parish priest in a small village in the Brie region of France."
 died: "relics enshrined at the abbey in Rebais Seine-et-Marne, France"
 deathPlace: "France"

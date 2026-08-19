@@ -1,7 +1,7 @@
 ---
 name: "Blessed Erundina Colino Vega"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Erundina Colino Vega"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Erundina of Our Lady of Mount Carmel"
@@ -17,9 +17,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margaret of Faenza"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Margaret of Faenza"
 summary: "Benedictine Vallumbrosan nun at Saint John the Evangelist convent near Florence, Italy, where she eventually became abbess. Spiritual student of Saint Humilitas."
 searchAliases:
   - "Margarita of Faenza"

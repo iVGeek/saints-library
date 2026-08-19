@@ -1,7 +1,7 @@
 ---
 name: "Saint Clelia Barbieri"
 honorific: Saint
-title: "Martyr, Religious, Pope"
+title: "Saint Clelia Barbieri"
 summary: "From her earliest life, Clelia paid no attention to this world, focused solely on the spiritual life. Founded the Little Sisters of the Mother of Sorrows who concentrate on ministering in hospitals and elementary schools to the sick, the aged, the lonely, and a prayer ministry fo"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Clelia_Barbieri.jpg"
 searchAliases:
@@ -18,13 +18,11 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-  - Pope
 patronage:
   - "Little Sisters of the Mother of Sorrows"
   - "people ridiculed for their piety"
-martyr: true
+martyr: false
 ---
 
 From her earliest life, Clelia paid no attention to this world, focused solely on the spiritual life. Founded the Little Sisters of the Mother of Sorrows who concentrate on ministering in hospitals and elementary schools to the sick, the aged, the lonely, and a prayer ministry for the poor. Since her death, her voice has been heard in the houses of her order, accompanying her sisters in song.

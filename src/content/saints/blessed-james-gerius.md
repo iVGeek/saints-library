@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Gerius"
 honorific: Blessed
-title: "Monk"
+title: "Blessed James Gerius"
 summary: "Camaldolese monk at Florence, Italy. Noted for his devotion to the Sacred Will of God."
 birthYear: 1312
 deathYear: 1345

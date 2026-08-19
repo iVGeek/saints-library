@@ -1,7 +1,7 @@
 ---
 name: "Saint Asiano of Constantinople"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Asiano of Constantinople"
 summary: "Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian."
 deathYear: 735
 died: "735 in Constantinople (modern Istanbul, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed John van Ruysbroeck"
 honorific: Blessed
-title: "Priest, Monk, Pope, Hermit"
+title: "Blessed John van Ruysbroeck"
 summary: "Nothing is known of John's father, but history remembers his mother as a very pious woman who eventually entered a convent. At age eleven John moved in with and was educated by his uncle, Father John Hinckaert at Saint Gudule's, Brussels, Belgium. Ordained in 1317. Served as chap"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-van-Ruysbroeck.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

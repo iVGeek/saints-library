@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fulk of Toulouse"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Fulk of Toulouse"
 summary: "Professional minstrel. Benedictine Cistercian monk at Thoronet, France. Abbot in 1200. Bishop of Toulouse, France in 1206. Helped Saint Dominic de Guzman found the Order of Preachers by providing him a base of operations, books, equipment, and one-sixth of the church tithes."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fulk-of-Toulouse.jpg"
 searchAliases:

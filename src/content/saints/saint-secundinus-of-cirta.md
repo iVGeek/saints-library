@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundinus of Cirta"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Secundinus of Cirta"
 summary: "Priest. Martyr."
 deathYear: 259
 born: "Spain"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

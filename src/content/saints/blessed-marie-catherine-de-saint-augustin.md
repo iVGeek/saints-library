@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Catherine de Saint-Augustin"
 honorific: Blessed
-title: "Virgin, Bishop, Religious, Pope, Royalty"
+title: "Blessed Marie-Catherine de Saint-Augustin"
 summary: "Raised primarily by her grandparents, Marie-Catherine was a pious girl noted for her concern for the poor and sick. She became a Augustinian canoness regular sister in the Hospitaller Sisters of the Mercy on 24 October 1644, taking the name Marie-Catherine de Saint-Augustin and s"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Catherine-de-Saint-Augustin.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ vocation:
   - Virgin
   - Bishop
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: false
 ---

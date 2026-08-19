@@ -1,7 +1,7 @@
 ---
 name: "Saint Swithbert"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary, Confessor"
+title: "Saint Swithbert"
 summary: "Studied in Ireland with Saint Egbert of Rathemigisi. Benedictine monk. Preacher. Spiritual teacher of Saint Willeic. One of a group of twelve English missionaries led by Saint Willibrord of Echternach who worked in Friesland, a group of islands off the coast of the Netherlands, e"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Swithbert-1.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary
@@ -42,7 +41,7 @@ patronage:
   - "Drevenack, Germany"
   - "Friesland, Netherlands"
   - "Ripon, England"
-martyr: true
+martyr: false
 ---
 
 Studied in Ireland with Saint Egbert of Rathemigisi. Benedictine monk. Preacher. Spiritual teacher of Saint Willeic. One of a group of twelve English missionaries led by Saint Willibrord of Echternach who worked in Friesland, a group of islands off the coast of the Netherlands, evangelizing the Frisians and Bructeri. Bishop in 693. Worked with Saint Wilfrid of York. Founded a Benedictine monastery at Werth on the Rhine (modern Düsseldorf-Kaiserswerth, Germany) where he lived the rest of his life under the direction of his co-worker missionary, Saint Velleicus who served as the abbot.

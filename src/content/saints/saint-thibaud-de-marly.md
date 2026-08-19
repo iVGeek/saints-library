@@ -1,7 +1,7 @@
 ---
 name: "Saint Thibaud de Marly"
 honorific: Saint
-title: "Monk, Soldier"
+title: "Saint Thibaud de Marly"
 summary: "Born to the French nobility, he served as a knight before renouncing worldly life and property to become a Cistercian monk. Abbot of Vaux-de-Cernay monastery in Yvelines, France, a house with 200 monks, in 1235. Known as the humblest of the brothers."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thibaud-de-Marly.jpg"
 searchAliases:

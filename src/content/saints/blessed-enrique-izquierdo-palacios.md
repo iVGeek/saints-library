@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Izquierdo Palacios"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Enrique Izquierdo Palacios"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1890
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

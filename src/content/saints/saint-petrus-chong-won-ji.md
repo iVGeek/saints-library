@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Chong Won-Ji"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Chong Won-Ji"
 summary: "Young married layman in the apostolic vicariate of Korea."
 searchAliases:
   - "Peteuro Jeong Weon-Ji"
@@ -16,10 +16,8 @@ feastDay:
   month: 12
   day: 13
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Young married layman in the apostolic vicariate of Korea.

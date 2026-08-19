@@ -1,7 +1,7 @@
 ---
 name: "Saint Baudolino"
 honorific: Saint
-title: "Bishop, Hermit"
+title: "Saint Baudolino"
 summary: "Born to the nobility. Gave away all his wealth to the poor, and lived as a hermit in a hut on the banks of the River Tanaro. Miracle worker with the gifts of clairvoyance and prophesy; wild animals were reported to come to his hut to hear him speak about God. Tradition says that"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Baudolino_in_abiti_vescovili_%28cropped%29.jpg"
 birthYear: 700

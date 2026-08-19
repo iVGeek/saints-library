@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Gortyna"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Philip of Gortyna"
 summary: "Early bishop of Gortyna, Crete. Wrote and worked against Marcion and Gnosticism."
 searchAliases:
   - "Philip of Crete"
@@ -13,10 +13,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Early bishop of Gortyna, Crete. Wrote and worked against Marcion and Gnosticism.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Bufalari"
 honorific: Blessed
-title: "Monk, Pope, Hermit"
+title: "Blessed Giovanni Bufalari"
 summary: "Brother of Blessed Lucy Bufalari. Augustinian friar-hermit at Rieti, Italy. Loved to serve at Mass. Friary porter, caring for travellers and the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Rieti.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Sens"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Leo of Sens"
 summary: "Bishop of Sens, France for 22 years."
 deathYear: 541
 died: "541"
@@ -11,10 +11,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Sens, France for 22 years.

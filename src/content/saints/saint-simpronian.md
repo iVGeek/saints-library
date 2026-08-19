@@ -1,7 +1,7 @@
 ---
 name: "Saint Simpronian"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Simpronian"
 summary: "One of the Four Crowned Martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg"
 searchAliases:
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

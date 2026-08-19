@@ -1,7 +1,7 @@
 ---
 name: "Blessed Magdalena of Hokusanbara"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Magdalena of Hokusanbara"
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed N. Shichizaemon. The couple and their two young daughters were martyred together."
 deathYear: 1629
 born: "Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martha of Hokusanbara"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Martha of Hokusanbara"
 summary: "A child in the diocese of Niigata, Japan, the daughter of Blessed Paulus Sanjuro and Blessed Rufina Banzai, martyred with her parents."
 birthYear: 1628
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

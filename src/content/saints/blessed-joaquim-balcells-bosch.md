@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquim Balcells Bosch"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joaquim Balcells Bosch"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

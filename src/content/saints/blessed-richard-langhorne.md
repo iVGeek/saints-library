@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Langhorne"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Richard Langhorne"
 summary: "Third son of William Langhorne of the Inner Temple, London, England, and Lettice, daughter of Eustace Needham of Little Wymondley, Hertfordshire, England. Richard followed his father into the law, being admitted to the Inner Temple in November 1646, and passing the bar in 1654. H"
 image: "https://upload.wikimedia.org/wikipedia/en/3/36/Richard_Langhorne.jpg"
 birthYear: 1635
@@ -16,9 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

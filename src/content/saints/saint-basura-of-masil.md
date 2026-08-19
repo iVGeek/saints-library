@@ -1,7 +1,7 @@
 ---
 name: "Saint Basura of Masil"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Basura of Masil"
 summary: "Bishop of Masil. Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

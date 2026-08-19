@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rosalie-Clotilde Bes"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Rosalie-Clotilde Bes"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

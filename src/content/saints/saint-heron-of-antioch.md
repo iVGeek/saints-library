@@ -1,7 +1,7 @@
 ---
 name: "Saint Heron of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Heron of Antioch"
 summary: "Spiritual student of Saint Ignatius of Antioch. Bishop of Antioch for 20 years. Martyr."
 searchAliases:
   - "Herodion"
@@ -13,7 +13,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

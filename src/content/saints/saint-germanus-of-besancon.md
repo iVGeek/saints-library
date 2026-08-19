@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Besancon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Germanus of Besancon"
 summary: "Bishop of Besancon, France. Martyred by Arians."
 deathYear: 390
 died: "c.390"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

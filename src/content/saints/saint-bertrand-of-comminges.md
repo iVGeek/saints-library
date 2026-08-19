@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertrand of Comminges"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Royalty, Soldier"
+title: "Saint Bertrand of Comminges"
 summary: "Son of a military officer. His family exepected a military life for Bertrand, but he was drawn to religion, joined the canons of Toulouse, and became an archdeacon. Bishop of Comminges, France c.1075, a position he served for nearly 50 years; this area is part of the modern dioce"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Saint-Bertrand-de-Comminges_cath%C3%A9drale_tombeau_peintures_%28cropped%29.JPG/960px-Saint-Bertrand-de-Comminges_cath%C3%A9drale_tombeau_peintures_%28cropped%29.JPG"
 deathYear: 1123
@@ -13,7 +13,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

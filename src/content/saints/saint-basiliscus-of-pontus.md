@@ -1,7 +1,7 @@
 ---
 name: "Saint Basiliscus of Pontus"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Basiliscus of Pontus"
 summary: "Bishop of Comana in Pontus, Asia Minor (in modern Turkey). One of a large group of Christians who were tortured and martyred in the persecutions of Emperor Galerius for refusing to sacrifice to idols. Legend says that when Basiliscus announced his refusal, lightning struck the te"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Basiliscus-of-Pontus.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

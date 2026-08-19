@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zygmunt Sajna"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Zygmunt Sajna"
 summary: "Parish priest of the archdiocese of Warsaw, Poland, serving in Góra Kalwaria and known as a beloved spiritual advisor. Father Zygmunt was arrested by the Gestapo in December 1940 as part of the Nazi occupation of Poland in World War II; he spent his time in prison ministering to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Zygmunt-Sajna.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

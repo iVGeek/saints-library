@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wiktoria Niemczak Ulma"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Wiktoria Niemczak Ulma"
 summary: "Lay woman in the archdiocese of Przemysl, Poland. She married to Blessed Józef Ulma on 7 July 1935 and became dedicated to her home and children, Antoni, Barbara, Franciszek, Maria, Stanislawa, and Wladyslaw; a seventh child was on the way, but we have no record that they had cho"
 image: "https://catholicsaints.info/wp-content/uploads/img-Jozef-and-Wiktoria-Ulma.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

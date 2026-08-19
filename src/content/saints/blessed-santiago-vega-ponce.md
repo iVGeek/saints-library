@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Vega Ponce"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Santiago Vega Ponce"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pedro"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

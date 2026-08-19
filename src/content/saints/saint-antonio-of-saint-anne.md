@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonio of Saint Anne"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty, Confessor"
+title: "Saint Antonio of Saint Anne"
 summary: "Born to a deeply religious family of high social status. At 13 he began studies at the Jesuit seminary in Bel&eacute;m, but anti-Jesuit sentiment in the region caused his family to move him to the Alcantarine Franciscans. Novice at the Saint Bonaventure friary in Macacu, Rio de J"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-of-Saint-Anne-1.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

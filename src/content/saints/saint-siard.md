@@ -1,7 +1,7 @@
 ---
 name: "Saint Siard"
 honorific: Saint
-title: "Pope"
+title: "Saint Siard"
 summary: "Born to the nobility of Friesland (an area of modern Netherlands). Studied at the abbey school of Mariëngaarde, Friesland. Spiritual student of Frederick of Hallum. Joined the Premonstratensians in the early 1170's. Abbot at the house in Mariëngaarde in 1194 where he served for 3"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Siard.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 11
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Pope
+vocation: []
 patronage:
   - "sick children"
 martyr: false

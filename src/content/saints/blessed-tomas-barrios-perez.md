@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Barrios Pérez"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Tomás Barrios Pérez"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Cristobal"
@@ -17,9 +17,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

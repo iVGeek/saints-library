@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman mac Mici"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Colman mac Mici"
 summary: "No details about him have survived."
 region: "England"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 No details about him have survived.

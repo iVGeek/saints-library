@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marcelo Spínola y Maestre"
 honorific: Blessed
-title: "Bishop, Priest, Deacon, Pope, Cardinal, Royalty"
+title: "Blessed Marcelo Spínola y Maestre"
 summary: "Son of Juan Sp&iacute;nola y Osorno, marquis of Sp&iacute;nola, and Antonia Maestre y Osorno. Educated at the University of Granada, University of Valencia, and University of Seville. Received degrees in civil and canon law on 29 June 1856. Lawyer in Helva, Spain, working for the"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Retablo_-_Beato_Marcelo_Sp%C3%ADnola_y_Maestre_%28San_Fernando%29_-_01.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

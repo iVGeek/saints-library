@@ -1,7 +1,7 @@
 ---
 name: "Saint Damian of Terracina"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Deacon"
+title: "Saint Damian of Terracina"
 summary: "Born to the imperial Roman nobility, Damian was raised a Christian and was known for his piety from his youth. When his father died, Damian became the ward of his bishop, Saint Valentino who, recognizing the young man's piety, ordained him a deacon, and encouraged him to study fo"
 searchAliases:
   - "Damiano"
@@ -15,7 +15,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon

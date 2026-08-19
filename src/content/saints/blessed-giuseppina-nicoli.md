@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuseppina Nicoli"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Soldier"
+title: "Blessed Giuseppina Nicoli"
 summary: " In Fifth of ten children born to a pious family. Joined the Daughters of Charity of Saint Vincent de Paul at the San Salvario house in Turin, Italy on 24 September 1883. In 1885 she was assigned to the island of Sardegna; she spent most of her life ministering to the poor there."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppina-Nicoli.jpg"
 birthYear: 1863
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
   - Soldier
 martyr: false

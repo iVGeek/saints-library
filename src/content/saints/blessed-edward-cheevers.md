@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Cheevers"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Edward Cheevers"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs."
 searchAliases:
   - "Éadbhard Cheevers"
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Trudo of Hesbaye"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Trudo of Hesbaye"
 summary: "Son of Blessed Adela. Related to the dukes of Austrasia. Benedictine monk under Saint Remaclus. Studied at the cathedral at Metz, France. Ordained by Saint Clodulf of Metz. Noted preacher. Built a church on the land around his family's home c.656, and had it blessed by Saint Theo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Trudo-of-Hesbaye.jpg"
 searchAliases:

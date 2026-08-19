@@ -1,7 +1,7 @@
 ---
 name: "Blessed Archangelus Piacentini"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Hermit, Royalty"
+title: "Blessed Archangelus Piacentini"
 summary: "Born to the nobility. Known as a quiet and pious child, it was no surprise when he went to live as a hermit in a cave near the church of Santa Maria dei Giubino in Sicily. His reputation for holiness spread, and the young hermit attracted would-be spiritual students - which cause"
 image: "http://catholicsaints.info/wp-content/uploads/Blessed-Archangelus-Piacentini.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

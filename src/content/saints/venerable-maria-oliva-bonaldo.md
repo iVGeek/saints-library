@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Oliva Bonaldo"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Maria Oliva Bonaldo"
 summary: "Founded the Institute of the Daughters of the Church."
 searchAliases:
   - "Maria Oliva of the Mystical Body"
@@ -18,8 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Maria_Oliva_Bonaldo.jpg"
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

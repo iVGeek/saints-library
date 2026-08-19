@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hugolinus Magalotti"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Hugolinus Magalotti"
 summary: "Born to the nobility, when Hugoline's parents died, he gave in to the call to religious life, became Franciscan Friar Minor tertiary, and gave away all his wealth. He spent the rest of his life as a hermit, praying for and giving spiritual guidance to all who visited him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugolinus-Magalotti.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

@@ -24,9 +24,7 @@ feastDay:
   day: 30
 liturgicalRank: Feast
 canonizationStatus: Saint
-vocation:
-  - Apostle
-  - Martyr
+vocation: []
 patronage:
   - fishermen
   - sailors
@@ -38,7 +36,7 @@ symbols:
   - X-shaped cross
   - Fishing net
   - Anchor
-martyr: true
+martyr: false
 lifeEvents:
   - year: "1st century"
     event: Born at Bethsaida, a fisherman on the Sea of Galilee and a disciple of John the Baptist.

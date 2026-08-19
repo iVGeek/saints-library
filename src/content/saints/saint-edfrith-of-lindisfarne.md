@@ -1,7 +1,7 @@
 ---
 name: "Saint Edfrith of Lindisfarne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Edfrith of Lindisfarne"
 summary: "Bishop of Lindisfarne, England. He illuminated the Lindisfarne Gospels in honour of Saint Cuthbert."
 searchAliases:
   - "Edfrid"

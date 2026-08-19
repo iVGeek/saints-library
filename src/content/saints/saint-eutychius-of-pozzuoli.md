@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutychius of Pozzuoli"
 summary: "Christian layman imprisoned and martyred in the persecutions of Diocletian for objecting to the deaths of other martyrs."
 searchAliases:
   - "Eutyches"
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

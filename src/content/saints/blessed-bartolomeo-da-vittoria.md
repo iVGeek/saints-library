@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomeo da Vittoria"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Bartolomeo da Vittoria"
 summary: "A 15th-16th century Franciscan friar known as a humble man with a deep prayer life and the gift of prophecy."
 searchAliases:
   - "Bartolomeo da Vadinia"
@@ -13,10 +13,9 @@ feastDay:
   month: 4
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 A 15th–16th century Franciscan friar known as a humble man with a deep prayer life and the gift of prophecy.

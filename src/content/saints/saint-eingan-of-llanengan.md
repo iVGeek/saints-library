@@ -1,7 +1,7 @@
 ---
 name: "Saint Eingan of Llanengan"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Eingan of Llanengan"
 summary: "Sixth century British prince in Cumberland who abdicated to live as a hermit at Llanengan near Bangor, Wales."
 searchAliases:
   - "Anianus"
@@ -18,7 +18,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
   - Confessor
 martyr: false
 ---

@@ -2,7 +2,7 @@
 name: "Saint Anastasius XVI"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Anastasius_II_Papa.png"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anastasius XVI"
 summary: "Monk. Archimandrite of Saint Sabas Abbey in Jerusalem. Murdered with his brothers in an attack by a band of thieves."
 searchAliases:
   - "Anastasius of Jerusalem"
@@ -15,9 +15,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Archimandrite of Saint Sabas Abbey in Jerusalem. Murdered with his brothers in an attack by a band of thieves.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cormac of Cashel"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Cormac of Cashel"
 summary: "Friend of Saint Columba. First bishop of Cashel, Ireland. Wrote a glossary of the Irish language. The Psalter of Cashel he compiled survives to today."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cormac-of-Cashel.jpg"
 birthYear: 836
@@ -17,7 +17,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

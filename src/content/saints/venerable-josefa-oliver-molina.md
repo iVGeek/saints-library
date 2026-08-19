@@ -1,7 +1,7 @@
 ---
 name: "Venerable Josefa Oliver Molina"
 honorific: Venerable
-title: "Martyr, Virgin, Religious, Pope"
+title: "Venerable Josefa Oliver Molina"
 summary: "Founded the Congregation of the Sisters of the Virgin of Mount Carmel."
 searchAliases:
   - "Mother María Elisea"
@@ -17,11 +17,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Virgin
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Founded the Congregation of the Sisters of the Virgin of Mount Carmel.

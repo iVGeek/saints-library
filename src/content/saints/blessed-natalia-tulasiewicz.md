@@ -1,7 +1,7 @@
 ---
 name: "Blessed Natalia Tulasiewicz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Natalia Tulasiewicz"
 summary: "Lay woman in the archdiocese of Poznan, Poland. School teacher in Poznan. Very active in her parish. Arrested, tortured, held to public ridicule, deported, imprisoned, and sentenced to forced labor during the Nazi occupation of Poland and persecution of Christians in World War II"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Natalia-Tulasiewicz.jpg"
 birthYear: 1906
@@ -15,9 +15,7 @@ feastDay:
   month: 3
   day: 31
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margareta Kratz"
 honorific: Blessed
-title: "Monk, Religious, Royalty"
+title: "Blessed Margareta Kratz"
 summary: "Premonstratensian nun in the monastery of Engelport, Germany, entering the Order in 1450, and living her faith for the next 82 years, even working with the poor during a famine in 1530 - at the age of 100."
 searchAliases:
   - "Margaret Kratz"
@@ -19,7 +19,6 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Gafo Muñiz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Gafo Muñiz"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

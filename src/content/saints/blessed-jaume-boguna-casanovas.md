@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Boguñá Casanovas"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Jaume Boguñá Casanovas"
 summary: "Franciscan Capuchin, making his profession on 18 April 1915. Ordained a priest on 5 May 1918. Imprisoned and murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Martí of Barcelona"
@@ -17,13 +17,10 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, making his profession on 18 April 1915. Ordained a priest on 5 May 1918. Imprisoned and murdered by Marxists in the Spanish Civil War.

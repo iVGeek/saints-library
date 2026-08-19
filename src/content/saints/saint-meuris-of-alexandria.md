@@ -1,7 +1,7 @@
 ---
 name: "Saint Meuris of Alexandria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Meuris of Alexandria"
 summary: "Virgin who dedicated herself to God. Arrested, tortured and martyred for her faith in the persecutions of Maximinus II."
 deathYear: 307
 born: "Gaza, Palestine"
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

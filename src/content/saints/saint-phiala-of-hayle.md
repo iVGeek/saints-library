@@ -1,7 +1,7 @@
 ---
 name: "Saint Phiala of Hayle"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Phiala of Hayle"
 summary: "Sister of Saint Fingar. Martyred with several companions by pagans. No other information has survived."
 searchAliases:
   - "Piala"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

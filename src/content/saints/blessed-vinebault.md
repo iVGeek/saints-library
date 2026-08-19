@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vinebault"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Vinebault"
 summary: "Shepherd at Villeneuve-la-Lionne, near the Ferté-Gaucher in Brie Champagne, France. Attended school in Ferté-Gaucher. Miracle worker."
 searchAliases:
   - "Vinebaldo"
@@ -13,8 +13,7 @@ feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

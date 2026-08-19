@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eugenie Smet"
 honorific: Blessed
-title: "Religious, Pope, Missionary"
+title: "Blessed Eugenie Smet"
 summary: "Friend of Saint John Vianney, Eugenie felt a call to acts of charity done for souls in purgatory. She founded the Auxiliatrices des Ames du Purgatoire (Society of Helpers of the Holy Souls) in Paris, France on 19 January 1856. The Society continues its missionary work today in 22"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenie-Smet.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Missionary
 patronage:
   - "people rejected by religious orders"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Hartley"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed William Hartley"
 summary: "Raised a Protestant, he studied at Oxford University and became an Anglican minister. Convert to Catholicism. Studied in Rheims, France. Ordained in 1580. Returned to England to work with Saint Edmund Campion, ministering to covert Catholics. Arrested in 1582 for being a priest,"
 deathYear: 1588
 born: "Wilne, Derbyshire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

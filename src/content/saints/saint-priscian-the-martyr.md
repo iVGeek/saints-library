@@ -1,14 +1,13 @@
 ---
 name: "Saint Priscian the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Priscian the Martyr"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 10
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

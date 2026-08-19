@@ -1,7 +1,7 @@
 ---
 name: "Saint Edburga of Caistor"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Edburga of Caistor"
 summary: "Daughter of the seventh-century pagan King Penda of Mercia, an area of modern England. Convert to Christianity. Nun at Caistor, England."
 searchAliases:
   - "Eadburh"
@@ -20,7 +20,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Peterborough, England"
 martyr: false

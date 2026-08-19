@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary Salome"
 honorific: Saint
-title: "Virgin, Priest, Monk, Royalty"
+title: "Saint Mary Salome"
 summary: "Wife of Zebedee. Mother of Saint John the Apostle, and Saint James the Greater. May have been a cousin of the Blessed Virgin Mary. One of the “three Marys,” the holy women who ministered to Jesus during his earthly ministry, and may have accompanied him on his travels. Witnessed"
 image: "http://catholicsaints.info/wp-content/uploads/Salome_capp.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "in Italy\n\nCastelliri"
   - "Veroli"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lamalisse"
 honorific: Saint
-title: "Priest, Monk, Hermit, Confessor"
+title: "Saint Lamalisse"
 summary: "Hermit in Scotland. The small island of Lamlash near Arran, Scotland is named for him."
 born: "Scottish"
 died: "7th century of natural causes"

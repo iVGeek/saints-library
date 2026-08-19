@@ -1,7 +1,7 @@
 ---
 name: "Saint Arsenius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Arsenius of Alexandria"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Arsinus"
@@ -15,7 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

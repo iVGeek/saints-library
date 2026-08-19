@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Armagh"
 honorific: Saint
-title: "Monk"
+title: "Saint Colman of Armagh"
 summary: "Fifth century disciple of Saint Patrick."
 died: "buried beside Saint Patrick"
 region: "England"

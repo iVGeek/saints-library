@@ -1,7 +1,7 @@
 ---
 name: "Saint Tôma Toán"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Tôma Toán"
 summary: "Layman in the apostolic vicariate of East Tonkin, Vietnam. Member of the lay Dominicans. Catechist and head of Mission Linh Trung. Arrested, tortured and left to die of hunger and thirst in the persecutions of Emperor Minh Mang. Martyr."
 searchAliases:
   - "Tommaso Toan"
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 27
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

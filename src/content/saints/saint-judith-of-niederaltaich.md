@@ -1,7 +1,7 @@
 ---
 name: "Saint Judith of Niederaltaich"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Judith of Niederaltaich"
 summary: "English princess. Niece of Saint Salome of Niederaltaich. Anchoress at Ober Altaich, Bavaria (in modern Germany). The two figure in several legends in the Middle Ages; the tales were often simple retelling of old stories with the two holy women taking the place of the original ch"
 searchAliases:
   - "Judda"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

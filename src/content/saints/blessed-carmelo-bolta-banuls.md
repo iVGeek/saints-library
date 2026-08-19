@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carmelo Bolta Bañuls"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Carmelo Bolta Bañuls"
 summary: "Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg"
 birthYear: 1803
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

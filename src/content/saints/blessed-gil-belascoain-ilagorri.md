@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gil Belascoain Ilagorri"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Gil Belascoain Ilagorri"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1883
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

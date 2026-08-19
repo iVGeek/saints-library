@@ -1,7 +1,7 @@
 ---
 name: "Saint Rodopiano of Aphrodisias"
 honorific: Saint
-title: "Martyr"
+title: "Saint Rodopiano of Aphrodisias"
 summary: "Martyred in the persecutions of Diocletian."
 died: "stoned to death at Aphrodisias, Caria (near modern Geyre, Turkey)"
 deathPlace: "Caria (near modern Geyre, Turkey)"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 30
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

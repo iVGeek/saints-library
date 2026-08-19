@@ -1,7 +1,7 @@
 ---
 name: "Venerable Serafin Kaszuba"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Serafin Kaszuba"
 searchAliases:
   - "Alojzy Kazimierz"
 birthYear: 1910
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: false
 ---

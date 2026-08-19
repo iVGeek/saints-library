@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teresa Maria of the Cross"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Teresa Maria of the Cross"
 summary: "Daughter of Salvatore Manetti and Rosa Bigagli, Teresa had one brother, Adamo Raffaello; she lived her whole life in her small village, and her father died when Teresa was three years old. She was always known as a pious child, and made her First Communion on 8 May 1859. A natura"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-teresa-maria-of-the-cross/blessed-teresa-maria-of-the-cross-01.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 patronage:
   - "people ridiculed for their piety"

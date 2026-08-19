@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Gunter"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed William Gunter"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 born: "Raglan, Monmouthshire, Wales"
 birthPlace: "Monmouthshire, Wales"
@@ -11,10 +11,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

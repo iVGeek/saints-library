@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Carinola"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Bernard of Carinola"
 summary: "Studied at Monte Cassino Abbey; spiritual student of the abbot who later became Pope Victor III; fellow student of Saint Peter Damian. Priest. Counselor and chaplain to prince Jordan of Capua, Italy. Bishop of Forum Claudii, Italy, consecrated on 21 March 1087; he moved the see c"
 searchAliases:
   - "Bernard of Capua"
@@ -17,8 +17,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
-  - Royalty
 patronage:
   - "Carinola, Campania, Italy"
 martyr: false

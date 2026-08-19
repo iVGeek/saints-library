@@ -1,7 +1,7 @@
 ---
 name: "Venerable Franz de Castro Holzwarth"
 honorific: Venerable
-title: "Martyr, Pope, Royalty"
+title: "Venerable Franz de Castro Holzwarth"
 summary: "Layman of the diocese of São José dos Campos, Brazil. He was a lawyer and human rights activist who was killed after taking the place of a policeman taken hostage during a riot in the jail in Jacareí, Brazil. The Franz de Castro Holzwarth Award, given by the Human Rights Commissi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Franz-de-Castro-Holzwarth.jpg"
 birthYear: 1942
@@ -15,11 +15,8 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Layman of the diocese of São José dos Campos, Brazil. He was a lawyer and human rights activist who was killed after taking the place of a policeman taken hostage during a riot in the jail in Jacareí, Brazil. The Franz de Castro Holzwarth Award, given by the Human Rights Commission of the OAB/SP to honor those who stand out in the defense of human rights, was named for him.

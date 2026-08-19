@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louis-Joseph François"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Louis-Joseph François"
 summary: "Vincentian priest. During the French Revolution, he refused to take the oath of allegiance to the government, and opposed the civil constitution. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Joseph-François.jpg"
 birthYear: 1751
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

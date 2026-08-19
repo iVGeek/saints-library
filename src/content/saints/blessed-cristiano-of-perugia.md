@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cristiano of Perugia"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Cristiano of Perugia"
 summary: "Born to the Italian nobility, Cristiano was sent to study at the university in Bologna, Italy; but after hearing Saint Dominic de Guzman preach, Cristiano gave in to the call to religious life and became a Dominican friar, receiving the habit from Saint Dominic himself; he served"
 searchAliases:
   - "Cristiano Ermanni della Staffa"
@@ -15,8 +15,7 @@ feastDay:
   month: 9
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

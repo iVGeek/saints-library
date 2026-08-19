@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioachim Mine Sukedayu"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ioachim Mine Sukedayu"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Married to Blessed Maria Mine. Martyr."
 birthYear: 1567
 deathYear: 1627
@@ -15,8 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

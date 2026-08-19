@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugene of Cappadocia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eugene of Cappadocia"
 summary: "Martyr. No other information has survived."
 died: "Cappadocia"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

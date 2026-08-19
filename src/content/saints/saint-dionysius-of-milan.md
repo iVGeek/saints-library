@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Milan"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Dionysius of Milan"
 summary: "Bishop of Milan, Italy in 351. Exiled to Cappadocia in 355 by the Arian Emperor Constantius for defending Saint Athanasius of Alexandria."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dionysius-of-Milan.jpg"
 deathYear: 359

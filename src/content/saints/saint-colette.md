@@ -1,7 +1,7 @@
 ---
 name: "Saint Colette"
 honorific: Saint
-title: "Martyr"
+title: "Saint Colette"
 summary: "Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to join the Beguines and Benedictines, but fai"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Colette_-_photo_Henri_Manuel.jpg"
 searchAliases:
@@ -22,8 +22,7 @@ feastDay:
   month: 3
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "against eye disorders"
@@ -37,7 +36,7 @@ patronage:
   - "servants"
   - "Corbie, France"
   - "Ghent, Belgium"
-martyr: true
+martyr: false
 ---
 
 Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to join the Beguines and Benedictines, but failed in her vocation. Franciscan tertiary. Hermitess. On 17 September 1402, at age 21, she became an anchoress – walled into a cell whose only opening was a grilled window into a church.

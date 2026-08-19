@@ -1,7 +1,7 @@
 ---
 name: "Saint Finnian of Clonard"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Finnian of Clonard"
 summary: "A pious youth, he founded three churches in Ireland while still a layman. Studied in Wales under Saint Cadoc of Llancarvan and Saint Gildas the Wise. Monk. Great admirer of Saint Patrick. Considered one of the great founders of Irish monasticism. Founded the monastery at Clonard,"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Statue_St_Finnian_of_Clonard_%28cropped%29.jpg"
 searchAliases:

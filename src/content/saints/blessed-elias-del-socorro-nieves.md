@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elias del Socorro Nieves"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Blessed Elias del Socorro Nieves"
 summary: "Born a sickly baby in a deeply religious peasant family; had to be quickly baptized as they did not think he would survive. Nearly died of tuberculosis at age 12. His father died soon after, and Elias had to support the family. Admitted to the Augustinian college of Yuriria at ag"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Elias-del-Socorro-Nieves.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Augustinian"
 patronage:

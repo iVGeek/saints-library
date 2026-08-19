@@ -1,7 +1,7 @@
 ---
 name: "Saint Elio of Koper"
 honorific: Saint
-title: "Virgin, Bishop, Deacon"
+title: "Saint Elio of Koper"
 summary: "First century convert. Spiritual student of Saint Ermacora of Aquileia. Deacon to Nazarius, first bishop of Koper (in modern Slovenia). Built a church dedicated to the Blessed Virgin Mary."
 searchAliases:
   - "Elio of Capodistria"

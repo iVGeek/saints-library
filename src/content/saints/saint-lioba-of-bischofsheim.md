@@ -1,7 +1,7 @@
 ---
 name: "Saint Lioba of Bischofsheim"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty, Missionary"
+title: "Saint Lioba of Bischofsheim"
 summary: "Born to the Wessex nobility to parents who had long prayed for a child. Relative of Saint Boniface with whom she corresponded for several years. Educated at the convent of Minster-in-Thanet and in Wimborne in Dorset, England. Nun at Wimborne at a time when Saint Tetta of Wimborne"
 image: "http://catholicsaints.info/wp-content/uploads/Schornsheim-Lioba.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 martyr: false

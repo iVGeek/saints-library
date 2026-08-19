@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cipriano Polo García"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Cipriano Polo García"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Simon Yempo"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Simon Yempo"
 summary: "Buddhist monk. Convert to Christianity. Lay catechist. Jesuit. Martyr."
 searchAliases:
   - "Simon Enpo"
@@ -18,9 +18,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

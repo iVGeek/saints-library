@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurus of Illyria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Laurus of Illyria"
 summary: "Twin brother of Saint Florus of Illyria. Stone-cutter who worked to build Christian churches. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Laurus-of-Illyria.jpg"
 searchAliases:
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

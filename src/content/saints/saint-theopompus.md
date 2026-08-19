@@ -1,7 +1,7 @@
 ---
 name: "Saint Theopompus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theopompus"
 summary: "Martyr."
 searchAliases:
   - "Teopompo"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Castelvetro di Modena, Italy"

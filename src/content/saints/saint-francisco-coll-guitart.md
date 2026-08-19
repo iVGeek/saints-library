@@ -1,7 +1,7 @@
 ---
 name: "Saint Francisco Coll Guitart"
 honorific: Venerable
-title: "Virgin, Priest, Religious, Pope"
+title: "Saint Francisco Coll Guitart"
 summary: "One of ten children. His father, Peter, died when Francis was only four. Confirmed in 1818 at age six. Entered the seminary at Vichy, France in 1822 at age ten. Student with Saint Anthony Mary Claret. Even as a kid he taught grammar and catechism to local children. Francisco join"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/FrColl2.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Optatian of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Optatian of Brescia"
 summary: "Bishop of Brescia, Italy for over 50 years."
 searchAliases:
   - "Optaziano"

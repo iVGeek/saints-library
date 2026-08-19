@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Constantius of Rome"
 summary: "Priest in Rome, Italy. Opposed Pelagianism, and murdered by its adherents."
 deathYear: 418
 died: "c.418 at Rome, Italy"
@@ -12,10 +12,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest in Rome, Italy. Opposed Pelagianism, and murdered by its adherents.

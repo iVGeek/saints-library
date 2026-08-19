@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Augsburg"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Dionysius of Augsburg"
 summary: "May have been the uncle of Saint Afra of Augsburg. First bishop of Augsburg, Germany. Both baptized into the faith and later consecrated as bishop by Saint Narcissus of Gerona. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Dionigi"
@@ -13,7 +13,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

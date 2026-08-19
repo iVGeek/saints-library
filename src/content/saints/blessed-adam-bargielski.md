@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adam Bargielski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Adam Bargielski"
 summary: "Priest and assistant pastor of the Myszyniec parish. On 9 April 1940, the Gestapo arrested his 83 year old senior priest as part of their persecutions of Christians; Father Adam went to the Gestapo and asked to replace the elderly priest; the Gestapo agreed. Father Adam was sent"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ks._Adam_Bargielski.jpg"
 birthYear: 1903
@@ -16,9 +16,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

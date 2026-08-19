@@ -1,7 +1,7 @@
 ---
 name: "Blessed Garcia d'Aure"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Garcia d'Aure"
 summary: "Dominican lay brother. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs of Toulouse."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Garcia-dAure.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 5
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

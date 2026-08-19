@@ -1,7 +1,7 @@
 ---
 name: "Saint Diogène of Arras"
 honorific: Saint
-title: "Martyr, Bishop, Pope, Royalty, Missionary"
+title: "Saint Diogène of Arras"
 summary: "Missionary, assigned to Gaul by Pope Saint Siricius c.380, working in the area of modern Arras, France. Tradition says that he was ordained a bishop by Saint Nicaise of Rheims, but there may be a problem with the dates. Murdered by Vandals while at prayer in the church he built i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Diogene-of-Arras.jpg"
 searchAliases:
@@ -16,10 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

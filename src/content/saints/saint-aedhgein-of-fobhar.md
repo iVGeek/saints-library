@@ -1,7 +1,7 @@
 ---
 name: "Saint Aedhgein of Fobhar"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Aedhgein of Fobhar"
 summary: "Priest. Bishop. Monk. Abbot of Fobhar Abbey, Fobhar, Westmeath, Ireland."
 deathYear: 766
 died: "766"
@@ -11,11 +11,10 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. Bishop. Monk. Abbot of Fobhar Abbey, Fobhar, Westmeath, Ireland.

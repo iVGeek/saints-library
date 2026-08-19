@@ -1,7 +1,7 @@
 ---
 name: "Blessed Niels Stenson"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Niels Stenson"
 summary: "Anatomist and priest. Among his anatomical achievements was the discovery of the excretory duct of the parotid glands and the circulation of the blood in the body. When the Danes finally called for him to return, he had become a Catholic in Florence, Italy, and as such could not"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Niels-Stenson.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro María Alcalde Negredo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pedro María Alcalde Negredo"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

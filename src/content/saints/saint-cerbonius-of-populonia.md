@@ -1,7 +1,7 @@
 ---
 name: "Saint Cerbonius of Populonia"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Hermit, Royalty, Soldier"
+title: "Saint Cerbonius of Populonia"
 summary: " His reputation for holiness spread, and Ce Raised in a Christian family in North Africa. Priest, ordained by Saint Regulus. He and most other Christians in his area fled ahead of the Vandal persecutions; he and many other moved to the Tuscany region of Italy and lived as hermits."
 image: "http://catholicsaints.info/wp-content/gallery/saint-cerbonius-of-populonia/saint-cerbonius-of-populonia.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

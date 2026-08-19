@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Ghent"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed John of Ghent"
 summary: "Benedictine monk at the abbey of Sainte-Claude in the Jura Mountains. Worked with Saint Joan of Arc."
 searchAliases:
   - "Hermit of Saint Claude"

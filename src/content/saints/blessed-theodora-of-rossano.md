@@ -1,7 +1,7 @@
 ---
 name: "Blessed Theodora of Rossano"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Theodora of Rossano"
 summary: "Nun. Spiritual student of Saint Nilus the Younger. Abbess."
 searchAliases:
   - "Teodora"

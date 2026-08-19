@@ -1,7 +1,7 @@
 ---
 name: "Blessed Máximo Aranda Modrego"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Máximo Aranda Modrego"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Justo Pastor"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

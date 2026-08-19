@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Anne Béguin-Royal"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Marie-Anne Béguin-Royal"
 summary: "Sacramentine nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

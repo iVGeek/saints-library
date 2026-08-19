@@ -1,7 +1,7 @@
 ---
 name: "Saint Basilissa of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Basilissa of Nicomedia"
 summary: "Martyred at age 9 in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Basilissa-of-Nicomedia.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Adeodata Pisani"
 honorific: Blessed
-title: "Priest, Religious, Pope, Missionary"
+title: "Blessed Maria Adeodata Pisani"
 summary: "Daughter of Baron Benedict Pisani Mompalao Cuzker and Vincenza Carrano. Her father was rich, noble, Maltese, and an alcoholic, so the girl was raised by her grandmother. Her father was involved in a revolt, and exiled to Malta in 1821; Adeodata and her mother joined him in 1825."
 
 image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Adeodata_Pisani.jpg"
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Missionary
 religiousOrder: "Benedictine"
 patronage:

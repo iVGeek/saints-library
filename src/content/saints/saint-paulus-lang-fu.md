@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus Lang Fu"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Paulus Lang Fu"
 summary: "Child in the apostolic vicariate of Southeastern Zhili, China, the seven-year-old son of Saint Yangzhi Lang. Martyred in the anti-Christian persecutions of the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Lang-Fu.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 16
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

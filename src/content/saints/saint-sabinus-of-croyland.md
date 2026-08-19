@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinus of Croyland"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Sabinus of Croyland"
 summary: "Monk at Croyland Abbey. Sub-deacon. Martyred by pagan Danes."
 searchAliases:
   - "Sabinus of Crowland"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

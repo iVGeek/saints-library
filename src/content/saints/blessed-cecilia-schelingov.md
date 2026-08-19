@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cecilia Schelingová"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Cecilia Schelingová"
 summary: "One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious life. At age 15 she requested entry to the Congreg"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cecilia-Schelingova.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious life. At age 15 she requested entry to the Congregation of the Sisters of Charity of the Holy Cross, and made her first vows on 30 January 1937, taking the name Zdenka.

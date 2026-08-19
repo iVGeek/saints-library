@@ -1,7 +1,7 @@
 ---
 name: "Saint Fructuosus of Tarragona"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Fructuosus of Tarragona"
 summary: "Bishop of Tarragona, Spain. Arrested on 16 January 259 by the Roman governor Emilian. Martyred with Saint Augurius and Saint Eulogius in the persecutions of Valerian. Saint Augustine wrote in praise of these martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrdom-of-Fructuoso.jpg"
 deathYear: 259
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

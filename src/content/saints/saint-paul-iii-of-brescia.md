@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul III of Brescia"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Paul III of Brescia"
 summary: "Bishop of Brescia, Italy in the late 6th and early 7th century."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Paul-III-of-Brescia.jpg"
 died: "buried in the basilica of San Andrea"
@@ -11,9 +11,8 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Brescia, Italy in the late 6th and early 7th century.

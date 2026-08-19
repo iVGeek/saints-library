@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anastasius of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Nicomedia, Asia Minor"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

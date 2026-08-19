@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ermentrude of Liège"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Ermentrude of Liège"
 summary: "13th century Cistercian nun. Spiritual student and close confidant of Blessed Juliana of Mont Cornillon."
 region: "Italy"
 feastDay:

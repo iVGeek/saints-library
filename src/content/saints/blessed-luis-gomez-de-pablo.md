@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Gómez de Pablo"
 honorific: Blessed
-title: "Martyr, Virgin, Pope"
+title: "Blessed Luis Gómez de Pablo"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Gomez-de-Pablo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude Rousseau"
 honorific: Blessed
-title: "Martyr, Priest, Deacon, Pope"
+title: "Blessed Claude Rousseau"
 summary: "The son of a famous lawyer, member of parliament, and professor of law at the University of Paris. Claude began studying law himself, but was drawn to religion and switched to studying theology at the Laon seminary in Paris. He joined the Sulpicians in 1774 while a deacon. Ordain"
 birthYear: 1751
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Deacon
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

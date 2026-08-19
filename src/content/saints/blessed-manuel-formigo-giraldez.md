@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Formigo Giráldez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Formigo Giráldez"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

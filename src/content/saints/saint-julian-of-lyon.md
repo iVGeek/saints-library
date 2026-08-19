@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Lyon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julian of Lyon"
 summary: "Martyr."
 died: "Lyon, France, date unknown"
 deathPlace: "France, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

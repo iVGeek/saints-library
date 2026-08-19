@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giacomo Brunforte of Falerone"
 honorific: Blessed
-title: "Martyr, Priest, Confessor"
+title: "Blessed Giacomo Brunforte of Falerone"
 summary: "Franciscan friar and priest. Confessor of Blessed Giovanni della Verna."
 deathYear: 1308
 born: "13th century Ascoli Piceno, Italy"
@@ -14,11 +14,10 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Confessor
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan friar and priest. Confessor of Blessed Giovanni della Verna.

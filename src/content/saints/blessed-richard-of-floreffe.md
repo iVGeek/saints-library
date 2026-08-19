@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard of Floreffe"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Richard of Floreffe"
 summary: "One of the first Premonstratensian canons, joining at the Prémontré monastery at Laon, Aisne, Picardy, France in 1120. First prior of the monastery at Floreffe, Vallonia (in modern Belgium) in 1122 where he served the rest of his life. Richard was a pious man, known for his chari"
 deathYear: 1129
 born: "latter 11th century France"
@@ -11,8 +11,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

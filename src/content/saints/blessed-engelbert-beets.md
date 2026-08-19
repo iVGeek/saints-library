@@ -1,7 +1,7 @@
 ---
 name: "Blessed Engelbert Beets"
 honorific: Blessed
-title: "Martyr, Priest, Monk"
+title: "Blessed Engelbert Beets"
 summary: "Joined the Premonstratensians in 1561 in the Averbode monastery near Diest, Brabant, Belgium. Ordained a priest and chosen Vicar of Rumen, Belgium in 1570. Fleeing ahead of Protestants forces, he moved to Sint-Truiden, Limburg, Belgium where he applied himself to parish work, but"
 birthYear: 1539
 deathYear: 1579
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

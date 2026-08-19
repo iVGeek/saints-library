@@ -1,7 +1,7 @@
 ---
 name: "Saint Florido of Città di Castello"
 honorific: Saint
-title: "Bishop, Priest, Deacon, Pope, Soldier"
+title: "Saint Florido of Città di Castello"
 summary: "Orphaned at an early age, he managed to study literature and theology and was ordained as a deacon c.542. Forced to flee Città di Castello, Italy to the countryside of Perugia, Italy with Saint Amanzio when his city was over-run by invading troops led by Totila, he impressed the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Florido-of-Città-di-Castello.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-  - Pope
   - Soldier
 patronage:
   - "Città di Castello, Italy, city of"

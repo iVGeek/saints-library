@@ -1,7 +1,7 @@
 ---
 name: "Saint Wilfrid of York"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Royalty, Missionary, Confessor"
+title: "Saint Wilfrid of York"
 summary: "Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of modern England). He studied at the monastery of"
 image: "http://catholicsaints.info/wp-content/uploads/Saint-Wilfrid-of-York.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon
@@ -36,7 +34,7 @@ patronage:
   - "Ripon"
   - "Sompting"
   - "York"
-martyr: true
+martyr: false
 ---
 
 Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of modern England). He studied at the monastery of Lindisfarne, England for three years, then accompanied Saint Benedict Biscop to Rome, Italy where he studied under archdeacon Boniface. He stayed in Lyon, France for three years to study the monastic life, and became a monk, but left during persecutions of the local Christians. He was appointed abbot of the monastery at Ripon, England for five years, and placed it under the Benedictine Rule. Priest.

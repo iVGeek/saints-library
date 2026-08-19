@@ -1,7 +1,7 @@
 ---
 name: "Saint Serenusa of Oia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Serenusa of Oia"
 summary: "Martyred with five other Christians, date unknown. No other information has survived."
 died: "Oia, Greece"
 deathPlace: "Greece"
@@ -11,7 +11,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

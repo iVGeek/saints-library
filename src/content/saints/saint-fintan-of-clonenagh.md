@@ -1,7 +1,7 @@
 ---
 name: "Saint Fintán of Clonenagh"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Fintán of Clonenagh"
 summary: "Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him that he founded a house for them and served as their abbot. He set such an austere example that neighboring monasteries complained they could not keep up; though h"
 searchAliases:
   - "Fintán of Clúain Ednech"
@@ -15,11 +15,10 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him that he founded a house for them and served as their abbot. He set such an austere example that neighboring monasteries complained they could not keep up; though he was very severe on himself, Fintan was known to be gentle and forgiving with others. Spiritual teacher of Saint Comgall of Bangor.

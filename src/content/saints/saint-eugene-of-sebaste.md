@@ -2,7 +2,7 @@
 name: "Saint Eugene of Sebaste"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Le_Tour_du_monde-03-p401.jpg"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eugene of Sebaste"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 302
 died: "c.302 at Sebaste, Armenia (in modern Turkey)"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

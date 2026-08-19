@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Roig Llorca"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed José María Roig Llorca"
 summary: "Franciscan friar. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

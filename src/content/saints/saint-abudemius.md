@@ -1,7 +1,7 @@
 ---
 name: "Saint Abudemius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Abudemius"
 summary: "Tortured and martyred in the persecutions of Diocletian."
 born: "Tenedos Island, Turkey in the Agean Sea"
 died: "early 4th century Tenedos Island, Turkey in the Agean Sea"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

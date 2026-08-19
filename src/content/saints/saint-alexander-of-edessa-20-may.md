@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Edessa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Edessa"
 summary: "Martyred in the persecutions of Numerian."
 died: "Edessa, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

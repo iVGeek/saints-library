@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Celestine V"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Cardinal, Hermit, Royalty, Confessor"
+title: "Pope Saint Celestine V"
 summary: " At 20 Peter became a hermit, praying, working, and reading the Bible. He followe Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I'll become a saint!”."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg/960px-Celestine_V_Castel_Nuovo_Napoli_n02.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Dominican"
@@ -32,7 +30,7 @@ patronage:
   - "—"
   - "in Italy\n\nAquila"
   - "Isernia"
-martyr: true
+martyr: false
 ---
 
 Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I'll become a saint!”.

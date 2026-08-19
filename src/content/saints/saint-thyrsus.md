@@ -1,7 +1,7 @@
 ---
 name: "Saint Thyrsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Thyrsus"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -10,7 +10,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Colossal_statue_of_Antinous_as_Dionysus-Osiris.jpg/960px-Colossal_statue_of_Antinous_as_Dionysus-Osiris.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

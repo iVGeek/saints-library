@@ -1,7 +1,7 @@
 ---
 name: "Saint Maxima of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maxima of Africa"
 summary: "African martyr whose name appears on ancient lists, but about whom nothing is known."
 searchAliases:
   - "Maximus"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

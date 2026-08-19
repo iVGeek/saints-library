@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beatrice of Belmonte"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Beatrice of Belmonte"
 summary: "A member of the royal family of Navarre (in modern Spain), she became a Poor Clare nun who was described as an example of the Franciscan religious life."
 deathYear: 1520
 born: "latter 15th century Navarre, Spain"
@@ -14,10 +14,9 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 A member of the royal family of Navarre (in modern Spain), she became a Poor Clare nun who was described as an example of the Franciscan religious life.

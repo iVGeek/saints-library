@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrés Giménez Galera"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Andrés Giménez Galera"
 summary: "Ordained a priest in 1926, he served for several years in parish in Almeria, Spain. He joined the Salesians of Don Bosco in 1935, and was still in his novitiate when the Spanish Civil War began. Imprisoned by anti-Christian forces, Father Andrés spent his time ministering to othe"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Andres-Gimenez-Galera.jpg"
 birthYear: 1904
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

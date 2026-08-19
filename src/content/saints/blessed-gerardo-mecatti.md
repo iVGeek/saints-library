@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gerardo Mecatti"
 honorific: Blessed
-title: "Martyr, Pope, Hermit, Soldier"
+title: "Blessed Gerardo Mecatti"
 summary: "A member of the Knights of Malta, Gerardo was inspired by the example of Saint Francis of Assisi, gave all his wealth to the poor, became a Franciscan tertiary and withdrew to live as a prayerful hermit. He came into the city for Mass, to pray in churches for the souls in Purgato"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardo-Mecatti.jpg"
 birthYear: 1174
@@ -16,12 +16,10 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Hermit
   - Soldier
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 A member of the Knights of Malta, Gerardo was inspired by the example of Saint Francis of Assisi, gave all his wealth to the poor, became a Franciscan tertiary and withdrew to live as a prayerful hermit. He came into the city for Mass, to pray in churches for the souls in Purgatory and the conversion of non-Christians, to care for the sick, and to offer any help he could give to pilgrims. Miracle worker.

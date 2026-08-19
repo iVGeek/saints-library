@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximinus of Micy"
 honorific: Saint
-title: "Martyr, Monk, Hermit, Royalty"
+title: "Saint Maximinus of Micy"
 summary: "Nephew of Saint Eusebius of Orleans. Co-founder and first abbot of the Abbey of Micy, France on land donated by King Clovis. Legend says that at one point he prayed a dragon into submission, and then spent his later years as hermit in the dragon's former cave."
 image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Mesmin.jpg"
 searchAliases:
@@ -17,11 +17,9 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Nephew of Saint Eusebius of Orleans. Co-founder and first abbot of the Abbey of Micy, France on land donated by King Clovis. Legend says that at one point he prayed a dragon into submission, and then spent his later years as hermit in the dragon's former cave.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bronislava of Poland"
 honorific: Blessed
-title: "Monk, Religious, Pope, Hermit"
+title: "Blessed Bronislava of Poland"
 summary: "Daughter of Count Stanislaus and Countess Anna of Prandata-Odrowaz; related to Saint Hyacinth and Blessed Czeslaw. Premonstratensian nun. Hermitess. When Saint Hyacinth died, Bronislava had a vision of Mary welcoming him to heaven."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Blogoslawiona_Bronislawa.jpg"
 searchAliases:

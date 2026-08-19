@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter II of La Cava"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Peter II of La Cava"
 summary: "Benedictine monk at Santissima Trinita monastery, Cava dei Tirreni, Salerno, Campania, Italy under the leadership of Blessed Benincasa. Abbot of the house in 1195. Obtained the support of Emperor Henry VI for the house. Involved in the region's politics of the day. Founded the ho"
 searchAliases:
   - "Pietro"
@@ -15,11 +15,9 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Santissima Trinita monastery, Cava dei Tirreni, Salerno, Campania, Italy under the leadership of Blessed Benincasa. Abbot of the house in 1195. Obtained the support of Emperor Henry VI for the house. Involved in the region's politics of the day. Founded the hospice of Vietri sul mare in 1202.

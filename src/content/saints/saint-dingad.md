@@ -1,7 +1,7 @@
 ---
 name: "Saint Dingad"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Dingad"
 summary: "Fifth century son of the chieftain Saint Brychan of Brecknock. Hermit in Llandovery, Dyfed, Wales."
 region: "England"
 feastDay:

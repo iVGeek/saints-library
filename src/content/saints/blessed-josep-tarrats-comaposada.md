@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Tarrats Comaposada"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Tarrats Comaposada"
 summary: "Jesuit brother. Served as doorkeeper and infirmarian of his house. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Tarrats-Comaposada.jpg"
 birthYear: 1878
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

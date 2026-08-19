@@ -1,7 +1,7 @@
 ---
 name: "Saint Hérombert of Minden"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Hérombert of Minden"
 summary: "Bishop of Minden, Westphalia (in modern Germany), chosen with the support of Blessed Charlemagne. Missionary to the Saxons."
 deathYear: 800
 died: "800"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dorotheus of Hadrianopolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dorotheus of Hadrianopolis"
 summary: "Martyr."
 searchAliases:
   - "Dorotheus of Adrianopolis"
@@ -10,7 +10,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

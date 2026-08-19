@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Ramón Ferragud Girbes"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed José Ramón Ferragud Girbes"
 summary: "Baptized at the age of two days at his parish church of Saint James the Apostle. Lifelong layman in the archdiocese of Valencia, Spain. Married on 21 January 1914 to Josefa Borras Borras. Father of eight children. Attended daily Mass, and was active in the lay apostolates in his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ramón-Ferragud-Girbes.jpg"
 birthYear: 1887
@@ -16,10 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

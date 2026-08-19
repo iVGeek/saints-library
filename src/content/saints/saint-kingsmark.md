@@ -1,7 +1,7 @@
 ---
 name: "Saint Kingsmark"
 honorific: Saint
-title: "Monk, Royalty, Missionary"
+title: "Saint Kingsmark"
 summary: "Scottish chieftain. Lived in Wales. Several churches dedicated to him."
 searchAliases:
   - "Cynfarch"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
   - Missionary
 martyr: false
 ---

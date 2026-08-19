@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Pike"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Blessed William Pike"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 searchAliases:
   - "William Pikes"
@@ -16,10 +16,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: true
 ---

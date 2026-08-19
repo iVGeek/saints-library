@@ -1,7 +1,7 @@
 ---
 name: "Saint Guiniboldus of Como"
 honorific: Saint
-title: "Martyr, Religious, Royalty"
+title: "Saint Guiniboldus of Como"
 summary: "Brother of Saint Guinifortus. While making a pilgrimage, Guiniboldus, his brother and two unnamed sisters travelled through Germany where the sisters were killed for their faith by pagan Teutons. The brothers fled to Como, Italy where they became popular street preachers. Guinibo"
 searchAliases:
   - "Guiniboldo"
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-  - Royalty
 martyr: true
 ---
 

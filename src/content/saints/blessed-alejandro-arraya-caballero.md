@@ -2,7 +2,7 @@
 name: "Blessed Alejandro Arraya Caballero"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Comercio_de_armas_en_la_Rep%C3%BAblica_Argentina%2C_documentos_de_la_legacion_Boliviana_-_uc1.a0000257931.pdf/page1-500px-Comercio_de_armas_en_la_Rep%C3%BAblica_Argentina%2C_documentos_de_la_legacion_Boliviana_-_uc1.a0000257931.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Alejandro Arraya Caballero"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Alejandro Antonio"
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

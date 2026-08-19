@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholas Politi"
 honorific: Blessed
-title: "Virgin, Monk, Hermit, Royalty"
+title: "Blessed Nicholas Politi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Politi.jpg"
 searchAliases:
   - "Nicolò Politi"
@@ -20,7 +20,6 @@ vocation:
   - Virgin
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "Adrano, Italy"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatha of Constantinople"
 honorific: Saint
-title: "Martyr"
+title: "Saint Agatha of Constantinople"
 summary: "One of a group of martyred convert to Christianity, possibly in the persecutions of Maximinus."
 searchAliases:
   - "Agatha of Byzantium"
@@ -13,8 +13,7 @@ feastDay:
   month: 5
   day: 8
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

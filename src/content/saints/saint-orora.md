@@ -1,7 +1,7 @@
 ---
 name: "Saint Orora"
 honorific: Saint
-title: "Monk"
+title: "Saint Orora"
 summary: "Saint venerated on the Isle of Man. No other information has survived."
 searchAliases:
   - "Crora"

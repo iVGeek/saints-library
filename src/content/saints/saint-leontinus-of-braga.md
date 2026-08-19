@@ -1,7 +1,7 @@
 ---
 name: "Saint Leontinus of Braga"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Leontinus of Braga"
 summary: "Early bishop of Braga, Portugal. Martyr."
 searchAliases:
   - "Leontius"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

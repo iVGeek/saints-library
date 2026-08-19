@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guglielmo Saggiano"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Guglielmo Saggiano"
 summary: "Born to the nobility of the Ancona, Italy region, his family relocated to the Languedoc, France region in Guglielmo's youth. When the last member of his family died, Guglielmo felt free to pursue a call to religious life, and joined the Mercedarians in Toulouse, France. He served"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-Saggiano.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 12
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

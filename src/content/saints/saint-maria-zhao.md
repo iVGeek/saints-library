@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Zhao"
 honorific: Venerable
-title: "Martyr, Monk, Religious, Pope"
+title: "Saint Maria Zhao"
 summary: "Teenaged lay woman in the apostolic vicariate of Southeastern Zhili, China. Daughter of Saint Maria Zhao Guoshi; sister of Saint Rosa Zhao. During the persecutions of the Boxer Rebellion, the three of them hid in a well to avoid being raped. They were found, dragged out, and kill"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 7
   day: 20
 canonizationStatus: Venerable
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

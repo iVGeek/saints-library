@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daudi Okelo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Daudi Okelo"
 summary: "Convert at about age fifteen. Catechist with Blessed Jildo Irwa. Local chiefs demanded that the two of them stop teaching the Gospel; they refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Daudi-Okelo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 9
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

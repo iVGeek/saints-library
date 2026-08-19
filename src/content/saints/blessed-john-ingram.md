@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Ingram"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Ingram"
 summary: "Son of Anthony Ingram of Wolford, Warwickshire, and Dorothy, daughter of Sir John Hungerford. Educated at Worcestershire and the New College, Oxford, England. Adult convert to Catholicism. Continued his education at the English College, Rheims, France; the Jesuit College, Pont-a-"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Ingram.jpg"
 birthYear: 1565
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

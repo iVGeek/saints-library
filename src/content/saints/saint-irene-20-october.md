@@ -1,7 +1,7 @@
 ---
 name: "Saint Irene of Tomar"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Irene of Tomar"
 summary: "Nun in Portugal, possibly at Santarem where her memory is especially revered. Died fighting off a rape attempt."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/S._Iria_V._M._Portugueza_Adevogada_daboa_Fama_%28s%C3%A9c._XIX%29_-_Manuel_Godinho_%28Museu_de_Lisboa%2C_MC.GRA.0139%29.png"
 searchAliases:
@@ -17,14 +17,13 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
   - Religious
 patronage:
   - "Santarém, Portugal"
-martyr: true
+martyr: false
 ---
 
 Nun in Portugal, possibly at Santarem where her memory is especially revered. Died fighting off a rape attempt.

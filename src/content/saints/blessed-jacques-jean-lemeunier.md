@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques-Jean Lemeunier"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jacques-Jean Lemeunier"
 summary: "Priest in the diocese of Sées, France. One of the Martyrs of September."
 birthYear: 1747
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

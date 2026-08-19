@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catherine of Racconigi"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty, Soldier"
+title: "Blessed Catherine of Racconigi"
 summary: "The youngest of six children, and the only daughter of Giorgio and Bilia de Ferrari Mattei. Hers was a poor family in a poor region; her father was an unemployed blacksmith and tool maker, her mother a silk spinner and weaver whose work kept the family from starving. When she was"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Catherine_de_Racconigi.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Dominican"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Moses of Rome"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Moses of Rome"
 summary: "May have been of Jewish ancestry. Imperial Roman citizen. Priest. Noted preacher. Adamant opponent of the heresy of Novatianism. Correspondent with Saint Cyprian at the beginning of the persecutions of Decius. After the execution of Pope saint Fabian under Emperor Decius, he admi"
 deathYear: 251
 born: "Rome, Italy"
@@ -13,11 +13,9 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Triphina of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Triphina of Sicily"
 summary: "Martyr. No other information has survived."
 deathYear: 306
 born: "Sicily"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

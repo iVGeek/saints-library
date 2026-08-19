@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus the Centurion"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Marcellus the Centurion"
 summary: "Roman centurion at Tangiers (in modern Morocco). During a celebration of the emperor's birthday, Marcellus refused to participate in the pagan offering ceremony. He threw away his arms and armour, openly declared himself a Christian, and was condemned to death. His condemnation l"
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-marcellus-the-centurion-martyr.jpg"
 searchAliases:
@@ -15,14 +15,13 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:
   - "conscientious objectors"
   - "–"
   - "León, Spain (an early version of his story gave this as the site of his martyrdom)"
-martyr: true
+martyr: false
 ---
 
 Roman centurion at Tangiers (in modern Morocco). During a celebration of the emperor's birthday, Marcellus refused to participate in the pagan offering ceremony. He threw away his arms and armour, openly declared himself a Christian, and was condemned to death. His condemnation led to the death of Saint Cassian.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Riginos"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Riginos"
 summary: "Bishop. Martyr."
 deathYear: 362
 died: "tortured to death in 362 on the island of Skopelos, Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Skopelos Island, Greece"

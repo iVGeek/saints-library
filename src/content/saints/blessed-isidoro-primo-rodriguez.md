@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidoro Primo Rodríguez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Isidoro Primo Rodríguez"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers); he entered the novitiate on 3 August 1898, taking the name Edmigio; he received the habit on 8 October 1898, and his perpetual vows on 11 August 1911. Taught in several schools and in Saint Joseph College in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Isidoro-Primo-Rodríguez.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   month: 8
   day: 31
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

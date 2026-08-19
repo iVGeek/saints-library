@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustathius of Galatia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eustathius of Galatia"
 summary: "Tortured and drowned in a river in Galatia, date unknown. Martyr."
 searchAliases:
   - "Eustasius"
@@ -11,7 +11,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

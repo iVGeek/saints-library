@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius of Umbria"
 honorific: Saint
-title: "Martyr"
+title: "Saint Eutychius of Umbria"
 summary: "Martyr."
 searchAliases:
   - "Eutizio"
@@ -13,8 +13,7 @@ feastDay:
   month: 7
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

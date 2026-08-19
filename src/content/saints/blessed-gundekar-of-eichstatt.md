@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gundekar of Eichstätt"
 honorific: Blessed
-title: "Bishop, Royalty"
+title: "Blessed Gundekar of Eichstätt"
 summary: "Born to the Frankish nobility, the son of Reginher and Irmingart. Moved to Bavaria, Germany as a child. Educated at Cathedral School in Eichstätt, Germany. Chaplain to Empress Agnes in 1045. Bishop of Eichstätt on 20 August 1057."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gundekar-of-Eichstatt.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Royalty
 martyr: false
 ---
 

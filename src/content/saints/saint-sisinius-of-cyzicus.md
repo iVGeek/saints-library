@@ -1,7 +1,7 @@
 ---
 name: "Saint Sisinius of Cyzicus"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sisinius of Cyzicus"
 summary: "Bishop. Tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Sisinnio"
@@ -13,7 +13,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

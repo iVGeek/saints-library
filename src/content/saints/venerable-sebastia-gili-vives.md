@@ -1,7 +1,7 @@
 ---
 name: "Venerable Sebastià Gili Vives"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Sebastià Gili Vives"
 summary: "Born to a farm family, the third son of Miquel Gili i Literas and Antònia Vives i Artigues. Ordained a diocesan priest on 4 April 1835, he was known for a life dedicated to the sick and needy. He became an Augustinian tertiary in 1858, became work on organizing a religious congre"
 birthYear: 1811
 deathYear: 1894
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

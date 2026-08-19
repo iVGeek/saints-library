@@ -1,7 +1,7 @@
 ---
 name: "Saint Talida of Antinoë"
 honorific: Saint
-title: "Religious"
+title: "Saint Talida of Antinoë"
 summary: "Nun. Abbess. Head of a group of convents in Egypt. Lived over 80 years as a nun."
 searchAliases:
   - "Talida of Thebes"

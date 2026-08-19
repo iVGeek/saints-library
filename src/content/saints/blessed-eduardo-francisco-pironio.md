@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eduardo Francisco Pironio"
 honorific: Blessed
-title: "Bishop, Priest, Deacon, Pope, Cardinal"
+title: "Blessed Eduardo Francisco Pironio"
 summary: "The youngest of 22 children born to José Pironio and Enriqueta Rosa Butazzoni, who had emigrated to Argentina from Italy. He studied for the priesthood at the seminary in La Plata, Argentina, and the Pontifical Angelicum Athenaeum in Rome, Italy. Ordained a priest for the diocese"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Eduardo_Francisco_Pironio.jpg"
 birthYear: 1920
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-  - Pope
   - Cardinal
 martyr: false
 ---

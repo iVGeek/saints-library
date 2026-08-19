@@ -1,7 +1,7 @@
 ---
 name: "Venerable Adolfo Barberis"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Adolfo Barberis"
 summary: "Priest in the diocese of Turin, Italy. Founded the Suore del Famulato Cristiano (Sisters of Christian Servanthood)."
 birthYear: 1884
 deathYear: 1967
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

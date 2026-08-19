@@ -1,7 +1,7 @@
 ---
 name: "Blessed William of Montreal"
 honorific: Blessed
-title: "Monk, Soldier"
+title: "Blessed William of Montreal"
 summary: "Knight and member of the nobility in Aragon, Spain. One of early members of the Mercedarians."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Montreal.jpg"
 born: "Spain"

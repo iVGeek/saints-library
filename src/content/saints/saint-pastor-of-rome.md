@@ -1,7 +1,7 @@
 ---
 name: "Saint Pastor of Rome"
 honorific: Saint
-title: "Priest, Monk, Pope"
+title: "Saint Pastor of Rome"
 summary: "Brother of Pope Pius I. Priest in Rome, Italy."
 deathYear: 160
 died: "c.160"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

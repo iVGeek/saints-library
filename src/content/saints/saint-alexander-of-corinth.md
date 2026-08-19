@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Corinth"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Corinth"
 summary: "Martyred in the persecutions of Julian the Apostate."
 deathYear: 361
 died: "martyred in 361 in Corinth, Greece"
@@ -12,7 +12,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

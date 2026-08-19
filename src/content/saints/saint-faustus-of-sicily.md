@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus of Sicily"
 summary: "Martyr."
 died: "Sicily, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

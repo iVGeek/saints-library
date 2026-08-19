@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacob Clou"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Jacob Clou"
 summary: "Premonstratensian monk. Canon of the Saint Nicholas monastery in Veurne, Belgium. Cured of a fever by participating in a Passion procession; returning to his house, he built a way of the cross in gratitude. In 1637, with the helped of local Capuchin monks, he started a procession"
 searchAliases:
   - "Jacques"

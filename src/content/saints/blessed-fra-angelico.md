@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fra Angelico"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Fra Angelico"
 summary: "Joined the Dominicans in Fiesole, Italy in 1407, taking the name Fra Giovanna. He was taught to illuminate missals and manuscripts, and immediately exhibited a natural talent as an artist. Today his works can be seen in the Italian cities Cortona, Fiesole, Florence, and in the Va"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Fra_Angelico_portrait.jpg"
 searchAliases:

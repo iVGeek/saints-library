@@ -1,7 +1,7 @@
 ---
 name: "Saint Myrbad of Cornwall"
 honorific: Saint
-title: "Monk"
+title: "Saint Myrbad of Cornwall"
 summary: "Sixth century saint who lived in Cornwall. A church is dedicated to him, but no information about him has survived."
 born: "Ireland"
 region: "Ireland"

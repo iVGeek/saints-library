@@ -1,7 +1,7 @@
 ---
 name: "Saint Benildus"
 honorific: Venerable
-title: "Pope, Royalty"
+title: "Saint Benildus"
 summary: "Educated by the De La Salle Brothers. An excellent student, he was a part-time teacher by age 14. Joined the De La Salle Brothers at age 14, entering his noviate on 10 February 1820, and taking the name Benildus. Teacher at several schools. Director of a community at Saugues in s"
 image: "http://catholicsaints.info/wp-content/uploads/img-Benildis.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   month: 8
   day: 13
 canonizationStatus: Venerable
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 patronage:
   - "accordionists (when working with youth groups he would often lead songs by playing a concertina or early form of an accordion)"
 martyr: false

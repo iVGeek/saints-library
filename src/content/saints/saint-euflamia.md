@@ -1,7 +1,7 @@
 ---
 name: "Saint Euflamia"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Pope, Soldier"
+title: "Saint Euflamia"
 summary: "Soldier. Imperial Roman legionaire. Martyr."
 died: "buried in the cemetery of Saint Priscilla in Rome, Italy"
 deathPlace: "Italy"
@@ -11,10 +11,8 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
-  - Pope
   - Soldier
 patronage:
   - "Cherasco, Italy"

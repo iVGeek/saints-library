@@ -1,7 +1,7 @@
 ---
 name: "Saint Tigre of Maurienne"
 honorific: Saint
-title: "Hermit, Royalty"
+title: "Saint Tigre of Maurienne"
 summary: "Lay woman in the late 6th or early 7th century from Maurienne, Gaul (in modern France) swore that she would obtain a relic of the body of Saint John the Baptist, to whom she had a great devotion, and bring it back to her city. Having travelled to a shrine that was supposed to con"
 image: "http://catholicsaints.info/wp-content/uploads/401px-Fete_du_pain_st_jean_de_maurienne_2008.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Hermit
-  - Royalty
 martyr: false
 ---
 

@@ -26,9 +26,7 @@ feastDay:
   day: 28
 liturgicalRank: Feast
 canonizationStatus: Saint
-vocation:
-  - Apostle
-  - Martyr
+vocation: []
 patronage:
   - impossible-causes
   - lost-items

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cadog"
 honorific: Saint
-title: "Monk"
+title: "Saint Cadog"
 summary: "Fifth-century. No other information has survived."
 feastDay:
   month: 1

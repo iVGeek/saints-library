@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatian of Rheims"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Donatian of Rheims"
 summary: "Seventh bishop of Rheims, France from 360 to 390."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Donatian-of-Rheims1.jpg"
 searchAliases:

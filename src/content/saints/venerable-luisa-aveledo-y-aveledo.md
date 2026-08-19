@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luisa Aveledo y Aveledo"
 honorific: Venerable
-title: "Religious, Pope, Royalty"
+title: "Venerable Luisa Aveledo y Aveledo"
 summary: "Nun in the diocese of Barranquilla, Colombia, taking the name Marcelina of Saint Joseph. Founded the Congregation of the Sisters of the Poor of Saint Peter Claver."
 searchAliases:
   - "Marcelina of Saint Joseph"
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Moinnen of Clonfert"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Moinnen of Clonfert"
 summary: "Sixth century bishop of Clonfert, County Galway, Ireland."
 searchAliases:
   - "Maoineann"
@@ -15,9 +15,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Sixth century bishop of Clonfert, County Galway, Ireland.

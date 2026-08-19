@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eduardo Bautista Jiménez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Eduardo Bautista Jiménez"
 summary: "Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolaus Fukunaga Keian"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Nicolaus Fukunaga Keian"
 summary: "Jesuit lay brother. Martyr."
 birthYear: 1570
 deathYear: 1633
@@ -15,8 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius of Syria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Macarius of Syria"
 summary: "Monk. Martyred for trying to spread the faith to pagans."
 died: "Syria"
 region: "Syria"
@@ -10,7 +10,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

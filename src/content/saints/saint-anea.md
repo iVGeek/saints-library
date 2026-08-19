@@ -1,7 +1,7 @@
 ---
 name: "Saint Anea of Como"
 honorific: Saint
-title: "Martyr"
+title: "Saint Anea of Como"
 summary: "Child martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -10,8 +10,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

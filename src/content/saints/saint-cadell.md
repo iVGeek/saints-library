@@ -1,7 +1,7 @@
 ---
 name: "Saint Cadell"
 honorific: Saint
-title: "Monk"
+title: "Saint Cadell"
 summary: "Llangadell, Glamorgan, Wales is named for this 7th century saint No other information has survived."
 searchAliases:
   - "Gadell"

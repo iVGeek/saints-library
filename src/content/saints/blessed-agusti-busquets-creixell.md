@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agustí Busquets Creixell"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Agustí Busquets Creixell"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Agustí-Busquets-Creixell.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

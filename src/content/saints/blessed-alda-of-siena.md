@@ -2,7 +2,7 @@
 name: "Blessed Alda of Siena"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Piancastagnaio_-_Rocca_aldobrandesca_4.JPG/960px-Piancastagnaio_-_Rocca_aldobrandesca_4.JPG"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Alda of Siena"
 summary: "Married lay woman. Widow. Tertiary of the Holy Humility of Mary. She devoted her life to personal penance and charity to the poor, was given to religious ecstasies, and received visions. Greatly honoured in Siena, Italy."
 searchAliases:
   - "Aldo"
@@ -20,8 +20,7 @@ feastDay:
   month: 4
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

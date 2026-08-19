@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignazio Maloyan"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty, Soldier"
+title: "Blessed Ignazio Maloyan"
 summary: "Son of Melkon and Farid&eacute; Maloyan. Studied at the convent of Bzommar-Lebanon where he was ordained on 6 August 1896. Member of the Bzommar Institute. Took the name of Ignatius in remembrance of Saint Ignatius of Antioch. Parish priest in Alexandria and Cairo, Egypt from 189"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignazio-Maloyan1.jpg"
 searchAliases:
@@ -23,11 +23,9 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Son of Melkon and Farid&eacute; Maloyan. Studied at the convent of Bzommar-Lebanon where he was ordained on 6 August 1896. Member of the Bzommar Institute. Took the name of Ignatius in remembrance of Saint Ignatius of Antioch. Parish priest in Alexandria and Cairo, Egypt from 1897 to 1910. Assistant to Patriarch Boghos Bedros XII in 1904, but respiratory health problems forced his return to Egypt. Dispatched to the diocese of Mardin to restore order and discipline. Archbishop of Mardin on 22 October 1911, working with the Armenian Catholic minority. Encouraged the devotion to the Sacred Heart.

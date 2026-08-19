@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary of Peace"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Mary of Peace"
 summary: "Mercedarian tertiary who lived in the monastery of Holy Mary in Granada, Spain. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Peace.jpg"
 deathYear: 1606
@@ -11,8 +11,7 @@ feastDay:
   month: 12
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

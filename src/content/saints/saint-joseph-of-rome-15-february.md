@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Joseph of Rome"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

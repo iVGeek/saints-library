@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Izquierdo Pérez"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco Izquierdo Pérez"
 summary: "Layman of the diocese of Córdoba Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutichius of Como"
 honorific: Saint
-title: "Bishop, Priest, Hermit"
+title: "Saint Eutichius of Como"
 summary: "Hermit. Priest. Bishop of Como, Italy in 525. He had such a dedication to the contemplative prayer life that he led his diocese from a hermitage outside the city."
 searchAliases:
   - "Eutichio"

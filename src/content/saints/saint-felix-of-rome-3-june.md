@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Rome"
 summary: "Two Christians with the same name who were martyred together."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

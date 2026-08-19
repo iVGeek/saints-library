@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rubén de Jesús López Aguilar"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Rubén de Jesús López Aguilar"
 summary: "Joined the Hospitallers of Saint John of God in 1930, making his vows on 27 March 1932. Martyred in the Spanish Civil War. One of the Martyred Colombians of Barcelona."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rubén-de-Jesús-López-Aguilar.jpg"
 birthYear: 1908
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

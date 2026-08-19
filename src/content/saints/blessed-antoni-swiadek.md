@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Swiadek"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Antoni Swiadek"
 summary: "The son of Władysław and Władysława Swiadek; his father was a wheelwright. After studying at the seminary in Poznań, Poland, he was ordained a priest in the archdiocese of Gniezno, Poland on 10 June 1933. He was noted for his piety, determination and hard work. Pastor, youth mini"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antoni-Swiadek.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

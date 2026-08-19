@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnus of Vienne"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Domnus of Vienne"
 summary: "Priest. Bishop of Vienne, France. He was zealous in ransoming captives."
 deathYear: 657
 died: "657"

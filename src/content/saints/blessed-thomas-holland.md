@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Holland"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Holland"
 summary: "Apparently the son of Richard Holland, a landed gentleman. Studied at Saint Omer, France, and Valladolid, Spain in 1621. Jesuit novice at Watten, Flanders, Belgium in 1624. Ordained in 1624 at Li&egrave;ge, Belgium. Parish priest at Ghent. Prefect of Saint Omer's. Spiritual co-ad"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Holland-1.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

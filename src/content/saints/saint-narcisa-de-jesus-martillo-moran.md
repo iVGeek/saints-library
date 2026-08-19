@@ -1,7 +1,7 @@
 ---
 name: "Saint Narcisa de Jesús Martillo-Morán"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Saint Narcisa de Jesús Martillo-Morán"
 summary: "Daughter of Pedro Martillo Mosquera and Josefina Moran. Her people were farmers, and her parents died when she was still a child. She moved to Guayaquil, Ecuador where for the next 15 years she worked as a seamstress to support her younger siblings, living a single life, helping"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Narcisa-de-Jesús-Martillo-Morán.jpg"
 birthYear: 1832
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

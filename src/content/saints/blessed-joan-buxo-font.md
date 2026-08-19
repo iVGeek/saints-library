@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Buxó Font"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Joan Buxó Font"
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

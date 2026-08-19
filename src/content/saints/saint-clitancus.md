@@ -1,7 +1,7 @@
 ---
 name: "Saint Clitancus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Clitancus"
 summary: "Member of the 5th-6th century royal family of Brycheiniog, Wales. Martyr."
 searchAliases:
   - "Clitanco"
@@ -12,8 +12,7 @@ feastDay:
   month: 8
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

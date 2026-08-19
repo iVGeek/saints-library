@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominic of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Dominic of Brescia"
 summary: "Bishop of Brescia, Italy."
 deathYear: 612
 died: "c.612"

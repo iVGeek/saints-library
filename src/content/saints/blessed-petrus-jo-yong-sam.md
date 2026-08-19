@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Jo Yong-sam"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Jo Yong-sam"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Peter"
@@ -15,9 +15,7 @@ feastDay:
   month: 3
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

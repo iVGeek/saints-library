@@ -1,7 +1,7 @@
 ---
 name: "Saint Pollio of Cybalae"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Pollio of Cybalae"
 summary: "Lector of the church of Cybalae in Pannonia. Martyred in the persecutions of Diocletian for refusing to sacrifice to idols."
 searchAliases:
   - "Pollio of Cibala"
@@ -18,7 +18,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

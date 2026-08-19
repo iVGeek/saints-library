@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maurice Mackenraghty"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Maurice Mackenraghty"
 summary: "Parish priest in the diocese of Limerick, Ireland. Spent two years in prison and then executed for refusing to accept Queen Elizabeth I as head of the Church. One of the Irish Martyrs."
 searchAliases:
   - "Muiris mac Ionrachtaigh"
@@ -17,10 +17,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

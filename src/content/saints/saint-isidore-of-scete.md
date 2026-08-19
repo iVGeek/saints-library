@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Scété"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Isidore of Scété"
 summary: "Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper devotion."
 deathYear: 394
 died: "c.394"
@@ -11,11 +11,10 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper devotion.

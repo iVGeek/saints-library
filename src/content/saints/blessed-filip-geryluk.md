@@ -1,7 +1,7 @@
 ---
 name: "Blessed Filip Geryluk"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Soldier"
+title: "Blessed Filip Geryluk"
 summary: "Married layman and father from Zaczopki, Poland. One of the Marytrs of Podlasie. Noted for encouraging the others to hold their ground and protect their church."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Married layman and father from Zaczopki, Poland. One of the Marytrs of Podlasie. Noted for encouraging the others to hold their ground and protect their church.

@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Shanxi"
 honorific: Saint
-title: "Martyr, Religious, Pope"
+title: "Martyrs of Shanxi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg"
 deathYear: 1900
 died: "beheaded on 9 July 1900 at Taiyuanfu, China"
@@ -13,7 +13,7 @@ feastDay:
 canonizationStatus: Saint
 vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 In 1898 seven sisters of the Franciscan Missionaries of Mary were sent to the Shanxi diocese in China to serve the poor in hospitals, and care for the unwanted or other destitutes in orphanages. They were

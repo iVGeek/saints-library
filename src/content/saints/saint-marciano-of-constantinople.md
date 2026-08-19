@@ -1,7 +1,7 @@
 ---
 name: "Saint Marciano of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marciano of Constantinople"
 summary: "Cantor. Martyred by Arians in the persecutions of emperor Constantius."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eata of Hexham"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Eata of Hexham"
 summary: "Monk at Ripon, England. Abbot of Melrose Abbey in Scotland. Abbot of Lindisfarne Abbey. Bishop of Lindisfarne, England. Bishop of Hexham, England."
 searchAliases:
   - "Eata of Lindisfarne"

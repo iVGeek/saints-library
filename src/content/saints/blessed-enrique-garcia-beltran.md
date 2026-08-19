@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique García Beltrán"
 honorific: Blessed
-title: "Martyr, Deacon, Pope"
+title: "Blessed Enrique García Beltrán"
 summary: "The son of Vicente García and Donna Concepción Beltrán, Enrique was baptized on the day of his birth. As he grew, he was known as a pious child, spending all his free time in church. He entered the Seraphic Seminary of Massamagrell, Spain at age 14. Joined the Franciscan Capuchin"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-García-Beltrán.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Deacon
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

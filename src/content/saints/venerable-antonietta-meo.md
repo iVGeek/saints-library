@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonietta Meo"
 honorific: Venerable
-title: "Pope, Missionary"
+title: "Venerable Antonietta Meo"
 summary: "Younger daughter of Michele and Maria Meo. Member of the Catholic Action youth group. Nennolina developed bone cancer as a pre-schooler, lost a leg to it, and lived with a rather ungainly prosthetic. She was a happy and pious girl, and when it became obvious that she might not li"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Antonietta_Meo.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Missionary
 martyr: false
 ---

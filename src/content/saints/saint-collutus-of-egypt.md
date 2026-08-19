@@ -1,7 +1,7 @@
 ---
 name: "Saint Collutus of Egypt"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Collutus of Egypt"
 summary: "One of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were many converts, the men were attacked in various places around the country. The governor of the region had them all arrested, brought to him, and ordered them to make p"
 born: "Egypt"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

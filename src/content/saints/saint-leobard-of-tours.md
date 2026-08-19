@@ -1,7 +1,7 @@
 ---
 name: "Saint Leobard of Tours"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Leobard of Tours"
 summary: "Spiritual student of Saint Gregory of Tours. Hermit for over 20 years near Marmoutier, France."
 searchAliases:
   - "Leopardo"
@@ -14,10 +14,9 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Spiritual student of Saint Gregory of Tours. Hermit for over 20 years near Marmoutier, France.

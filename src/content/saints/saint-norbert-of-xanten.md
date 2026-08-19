@@ -1,7 +1,7 @@
 ---
 name: "Saint Norbert of Xanten"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Norbert of Xanten"
 summary: "Born to the nobility, Norbert was raised around the royal court and served as almoner for Emperor Henry V. In the court he developed a very worldly view, and took holy orders as a career move, joining the Benedictines at Siegburg. A narrow escape from death led to a conversion ex"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/SSACRAM_62.JPG"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -33,7 +31,7 @@ patronage:
   - "Czech Republic"
   - "in Germany\n\nMagdeburg, archdiocese of"
   - "Magdeburg, city of"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, Norbert was raised around the royal court and served as almoner for Emperor Henry V. In the court he developed a very worldly view, and took holy orders as a career move, joining the Benedictines at Siegburg. A narrow escape from death led to a conversion experience, and he began taking his vows seriously. He tried to reform his order's local house, then became a wandering preacher. He founded a community of Augustinian canons at Premontre, France; they became known as the Norbertines or Premonstratensians, and started a reform movement that swept through European monastic houses.

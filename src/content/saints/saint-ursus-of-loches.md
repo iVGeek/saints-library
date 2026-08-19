@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursus of Loches"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Ursus of Loches"
 summary: "Leader of a group of hermits in the area of Cahors, France who had to flee from invading Arian Goths. Monk. Abbot of the monastery of Loches in the archdiocese of Tours, France in the late 5th and early 6th century. Known for his spiritual virtues, his severely ascetic life, and"
 searchAliases:
   - "Orso"

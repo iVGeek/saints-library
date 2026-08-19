@@ -1,7 +1,7 @@
 ---
 name: "Saint Ananias of Persia"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Ananias of Persia"
 summary: "Martyred with about 100 other believers during the persecutions of King Sapor II."
 deathYear: 345
 born: "Persian"
@@ -11,9 +11,7 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

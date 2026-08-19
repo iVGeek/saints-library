@@ -1,7 +1,7 @@
 ---
 name: "Saint Ludolf of Ratzeburg"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Ludolf of Ratzeburg"
 summary: "Praemonstratensian canon of the cathedral of Ratzeburg (modern Landkreis Herzogtum Lauenburg), Schleswig-Holstein, Germany. Priest. Noted preacher. Bishop of Ratzeburg in 1236. Imprisoned, severely beaten and exiled by Duke Albert Urso of Lauenburg, Saxony for defending the cathe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ludolf-of-Ratzeburg.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 martyr: true

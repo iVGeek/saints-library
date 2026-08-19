@@ -1,7 +1,7 @@
 ---
 name: "Saint Jane Antide Thouret"
 honorific: Venerable
-title: "Confessor"
+title: "Saint Jane Antide Thouret"
 summary: "Daughter of a tanner. Her mother died when Jane was 16 years old, leaving the girl to manage the family and help her father raise her younger siblings. Joined the Sisters of Charity of Saint Vincent de Paul in 1787 at Paris, France, and worked in various hospitals over the next f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Antide-Thouret.jpg"
 searchAliases:

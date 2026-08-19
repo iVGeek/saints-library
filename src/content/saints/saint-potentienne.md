@@ -1,7 +1,7 @@
 ---
 name: "Saint Potentienne"
 honorific: Saint
-title: "Religious"
+title: "Saint Potentienne"
 summary: "7th century nun."
 died: "Spain"
 region: "Spain"

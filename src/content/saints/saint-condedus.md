@@ -1,7 +1,7 @@
 ---
 name: "Saint Condedus"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Condedus"
 summary: "Hermit at Fontaine-de-Saint-Valéry, France. Monk at Fontenelle Abbey. Evangelist who worked from an island in the Seine near Caudebec."
 searchAliases:
   - "Condé"

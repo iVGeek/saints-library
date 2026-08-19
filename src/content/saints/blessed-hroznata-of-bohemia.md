@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hroznata of Bohemia"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Hroznata of Bohemia"
 summary: "Born to the Bohemian nobility. Brother of Saint Bozena of Bohemia. Married layman. Widower, with both his wife and only child dying suddenly. Founded the Premonstratensian abbey at Tapi, Bavaria, Germany and became a monk there. Thrown into a dungeon by robbers, he was left to di"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Hroznata-of-Bohemia.jpg"
 searchAliases:
@@ -20,12 +20,10 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 patronage:
   - "Bohemia"
-martyr: true
+martyr: false
 ---
 
 Born to the Bohemian nobility. Brother of Saint Bozena of Bohemia. Married layman. Widower, with both his wife and only child dying suddenly. Founded the Premonstratensian abbey at Tapi, Bavaria, Germany and became a monk there. Thrown into a dungeon by robbers, he was left to die there when they fled with their loot.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dedë Nikaj"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Dedë Nikaj"
 summary: "Orphaned at age five, he was educated by the Franciscans. Studied in Shkodër, Albania, then Lankowitz and Graz in Austria, then in Rome, Italy. Ordained a priest in Rome on 25 July 1924. Taught at a Franciscan seminary from 1929 to 1932. Novice master from 1932 to 1938. Francisca"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dede-Nikaj.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

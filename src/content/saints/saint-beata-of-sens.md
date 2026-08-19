@@ -1,7 +1,7 @@
 ---
 name: "Saint Beata of Sens"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Beata of Sens"
 summary: "During a persecution of Christians in Spain, he fled to Sens, Gaul, which was no friendlier. Martyr."
 deathYear: 273
 born: "Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

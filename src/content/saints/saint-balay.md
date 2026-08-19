@@ -1,7 +1,7 @@
 ---
 name: "Saint Balay"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Balay"
 summary: "Hermit at Ploermellac, Brittany, France. Spiritual student of Saint Guenole."
 searchAliases:
   - "Bachla"

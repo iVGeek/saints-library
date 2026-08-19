@@ -1,7 +1,7 @@
 ---
 name: "Saint Kieran"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Kieran"
 summary: "Convert to Christianity. Pilgrim to Rome, Italy. Ordained by Saint Patrick. First Bishop of Ossory, Ireland. Founder of Saighir monastery. Sometimes confused with Saint Piran of Cornwall. Several healing wells were named for Kieran."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Kieran.jpg"
 searchAliases:
@@ -38,7 +38,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "Cornish miners"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Coleman"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Edward Coleman"
 summary: "Educated at Cambridge. Convert to Catholicism. Secretary to the duchess of York. Falsely condemned as being part of the Titus Oates Plot. Martyr."
 deathYear: 1678
 born: "Suffolk, England"
@@ -13,9 +13,7 @@ feastDay:
   month: 12
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

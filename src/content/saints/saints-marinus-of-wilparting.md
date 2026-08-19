@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus of Wilparting"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Marinus of Wilparting"
 summary: "Uncle of Anianus of Wilparting. Travelling missionary bishop. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Marinus-and-Arianus-of-Wilparting.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

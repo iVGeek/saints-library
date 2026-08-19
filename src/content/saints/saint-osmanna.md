@@ -1,7 +1,7 @@
 ---
 name: "Saint Osmanna"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious"
+title: "Saint Osmanna"
 summary: "Born to an illustrious family. Benedictine nun. Anchoress near Brieuc, Brittany (in modern France)."
 searchAliases:
   - "Argariarga"

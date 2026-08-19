@@ -1,7 +1,7 @@
 ---
 name: "Saint Paschasius of Rome"
 honorific: Saint
-title: "Monk, Deacon"
+title: "Saint Paschasius of Rome"
 summary: "Deacon in Rome, Italy. Wrote on theology."
 deathYear: 512
 died: "c.512"

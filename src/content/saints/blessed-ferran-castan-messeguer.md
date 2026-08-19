@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ferran Castán Messeguer"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Ferran Castán Messeguer"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

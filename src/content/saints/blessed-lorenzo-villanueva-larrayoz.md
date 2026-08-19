@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Villanueva Larrayoz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Lorenzo Villanueva Larrayoz"
 summary: "Joined the Hospitallers of Saint John of God on 4 March 1908. Worked at the San Rafael asylum hospital in Barcelona, Spain. Martyred in the Spanish Civil War"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Villanueva-Larrayoz.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

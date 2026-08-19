@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Fiesole"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Alexander of Fiesole"
 summary: "Bishop of Fiesole, Italy. Defended the rights and authority of the Church against the kings of Lombardy. When he refused give in to the lay authorities and put their choices in positions of power for political reasons, his opponents ambushed and murdered him."
 image: "http://catholicsaints.info/wp-content/gallery/saint-alexander-of-fiesole/sant-alessandro-di-fiesole.jpg"
 searchAliases:
@@ -15,13 +15,11 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 patronage:
   - "Fiesole, Italy"
-martyr: true
+martyr: false
 ---
 
 Bishop of Fiesole, Italy. Defended the rights and authority of the Church against the kings of Lombardy. When he refused give in to the lay authorities and put their choices in positions of power for political reasons, his opponents ambushed and murdered him.

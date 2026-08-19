@@ -1,7 +1,7 @@
 ---
 name: "Saint Richardis of Andlou"
 honorific: Saint
-title: "Bishop, Religious, Royalty"
+title: "Saint Richardis of Andlou"
 summary: " After nineteen years of marriage, she was accused by Emperor Charles of infidelity, though t Daughter of Kenneth I, the Count of Alsace (in modern France) and a Scottish emigre. Sister of King Boso of Provence. Married Charles the Fat at age 22. Crowned Holy Roman Empress in 881."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Richardis-of-Andlou.jpg"
 searchAliases:
@@ -30,7 +30,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against fire"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hippolytus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hippolytus of Africa"
 summary: "Martyr. No further information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

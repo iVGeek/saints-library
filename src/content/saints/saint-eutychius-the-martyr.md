@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutychius the Martyr"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Eutychius of Spain"
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

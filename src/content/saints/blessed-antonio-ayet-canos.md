@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Ayet Canós"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio Ayet Canós"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ludovico María"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

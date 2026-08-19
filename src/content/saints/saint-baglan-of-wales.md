@@ -1,7 +1,7 @@
 ---
 name: "Saint Baglan of Wales"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Baglan of Wales"
 summary: "Fifth century missionary from Brittany to Britain, especially in Wales. He founded monasteries, including one whose site was chosen via a crozier with healing powers which led him to a tree with “three kinds of fruit”. One of the Breton Missionaries to Britain."
 searchAliases:
   - "Baglan of Armorica"

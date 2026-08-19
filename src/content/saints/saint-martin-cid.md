@@ -1,7 +1,7 @@
 ---
 name: "Saint Martin Cid"
 honorific: Saint
-title: "Monk"
+title: "Saint Martin Cid"
 summary: "Benedictine Cistercian monk. Worked with Saint Bernard of Clairvaux. Founded Val-Paraiso Abbey with brothers sent by Saint Bernard, and served as its first abbot."
 born: "Zamora, Spain"
 birthPlace: "Spain"

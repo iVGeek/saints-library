@@ -1,7 +1,7 @@
 ---
 name: "Saint Gilbert of Sempringham"
 honorific: Saint
-title: "Saint"
+title: "Saint Gilbert of Sempringham"
 summary: "Son of the wealthy Norman knight Jocelin. When Gilbert showed no signs of becoming a soldier, his father exiled him to Paris, France to study. Gilbert returned to England as a master of arts, and opened a school for the children of the poor in Sempringham, paying special attentio"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/SegellSempringham.jpg"
 birthYear: 1083

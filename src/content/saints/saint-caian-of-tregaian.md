@@ -1,7 +1,7 @@
 ---
 name: "Saint Caian of Tregaian"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Caian of Tregaian"
 summary: "Fifth-century son or grandson of King Brychan of Brecknock. A church at Tregaian, Wales is dedicated to him."
 searchAliases:
   - "Gaian"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

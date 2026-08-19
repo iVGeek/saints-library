@@ -1,7 +1,7 @@
 ---
 name: "Venerable Angela Giorgi"
 honorific: Venerable
-title: "Monk, Religious, Pope"
+title: "Venerable Angela Giorgi"
 summary: "Nun in the Sisters Servants of Our Lady of Sorrows of Florence."
 searchAliases:
   - "Maria Eleonora"

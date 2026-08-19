@@ -1,7 +1,7 @@
 ---
 name: "Saint Daria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Daria"
 summary: " Not surprisingly, many legends developed around couple of married martyrs, and others were rewritten to use them as their lead characters. Modern scholarship has dismissed a Married to Saint Chrysanthus. Zealous and public in her Christianity. Martyred under Numerian and Carinus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chrysanthus.jpg"
 deathYear: 283
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

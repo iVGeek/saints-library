@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Chalcedon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Chalcedon"
 summary: "Executioner assigned to torture Saint Euphemia; her faith and prayers converted him to Christianity. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victor-of-Chalcedon.jpg"
 deathYear: 307
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

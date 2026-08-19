@@ -1,7 +1,7 @@
 ---
 name: "Saint Spes of Campi"
 honorific: Saint
-title: "Monk"
+title: "Saint Spes of Campi"
 summary: "Monk. Abbot in Campi, Italy. Totally blind for 40 years, his eyesight was suddenly restored for the last 15 days of his life."
 deathYear: 515
 died: "c.515"

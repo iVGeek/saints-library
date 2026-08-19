@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Vicente Edo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francisco Vicente Edo"
 summary: "Member of the De La Salle Brothers. Martyred in the Spanish Civil War."
 searchAliases:
   - "Félix Adriano"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

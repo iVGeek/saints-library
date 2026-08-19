@@ -1,7 +1,7 @@
 ---
 name: "Blessed Segundo Pérez Arias"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Segundo Pérez Arias"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ildefonso of Armellada"
@@ -17,9 +17,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

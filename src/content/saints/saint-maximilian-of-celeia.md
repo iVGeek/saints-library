@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximilian of Celeia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Missionary"
+title: "Saint Maximilian of Celeia"
 summary: "Born to the nobility, the only child of rich and pious parents. After the death of his parents, Maximilian freed the family slaves and gave away his fortune to the poor. Pilgim to Rome, Italy. Sent as a missionary to Noricum and Pannonia by Pope Saint Sixtus II. First bishop of L"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maximilian-of-Lorch.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Saint Phocas of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Phocas of Antioch"
 summary: "Martyred in the persecutions of Emperor Licinius."
 deathYear: 320
 died: "drowned in his bath c.320 at Antioch"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

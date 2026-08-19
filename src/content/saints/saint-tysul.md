@@ -1,7 +1,7 @@
 ---
 name: "Saint Tysul"
 honorific: Saint
-title: "Saint"
+title: "Saint Tysul"
 summary: "Son of Corun; cousin of Saint David of Wales. Founded a church in Llandysul, Wales; the church and it's ancient altar survive today."
 birthYear: 462
 deathYear: 544
@@ -13,8 +13,7 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/St_Tyssul_01.jpg/960px-St_Tyssul_01.jpg"
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

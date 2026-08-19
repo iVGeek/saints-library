@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth of Melegnano"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Elizabeth of Melegnano"
 summary: "Poor Clare nun in the monastery of Santa Chiara in Mortara, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Clarissas.jpg"
 searchAliases:
@@ -16,10 +16,9 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Poor Clare nun in the monastery of Santa Chiara in Mortara, Italy.

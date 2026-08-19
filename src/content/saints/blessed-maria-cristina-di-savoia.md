@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Cristina di Savoia"
 honorific: Blessed
-title: "Pope, Cardinal, Royalty"
+title: "Blessed Maria Cristina di Savoia"
 summary: "Born a princess, the youngest daughter of King Victor Emmanuel I of Sardinia and Archduchess Maria Teresa of Austria-Este; grand-daughter of Archduke Ferdinand of Austria-Este and Maria Beatrice Ricciarda d'Este. Married to Ferdinand II of the Two Sicilies on 21 November 1832; it"
 image: "http://catholicsaints.info/wp-content/uploads/Maria_Cristina_di_Savoia.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

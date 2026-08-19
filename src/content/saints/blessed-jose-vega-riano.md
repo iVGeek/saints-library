@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Vega Riaño"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed José Vega Riaño"
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
 birthYear: 1904
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

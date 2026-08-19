@@ -1,7 +1,7 @@
 ---
 name: "Saint Aidan of Mayo"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Aidan of Mayo"
 summary: "Eighth-century abbot-bishop of Mayo, Ireland."
 searchAliases:
   - "Aedanus"
@@ -19,10 +19,9 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Eighth-century abbot–bishop of Mayo, Ireland.

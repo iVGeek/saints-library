@@ -1,7 +1,7 @@
 ---
 name: "Saint John of the Goths"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint John of the Goths"
 summary: "Bishop of the Goths in South Russia. Noted defender of religious images, opposing the iconoclasts. Driven from his see by invading Khazars, and never able to return."
 deathYear: 800
 died: "c.800 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosius the Cenobiarch"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Hermit, Royalty"
+title: "Saint Theodosius the Cenobiarch"
 summary: "Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon recognized him as a holy man and leader, and invite"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Theodosius_the_Cenobiarch.jpg"
 searchAliases:
@@ -22,11 +22,10 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "file makers"
-martyr: true
+martyr: false
 ---
 
 Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon recognized him as a holy man and leader, and invited Theodosius onto his pillar for prayer, blessing, and advice. Travelled to Jerusalem where legend says worked with Saint Longinus the Centurian, who would have been nearly 500 years old at the time. Head of a church near Bethlehem.

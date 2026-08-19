@@ -1,7 +1,7 @@
 ---
 name: "Saint Caimin of Lough Derg"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Caimin of Lough Derg"
 summary: "Son of Dima and Cuman; related to the kings of Leinster, Ireland and half-brother of Guare, king of Connaught, Ireland. Little is known of his early life, but he was well educated. Hermit at Inniskeltra (Inish-Keltra), Lough Derg where his reputation for holiness attracted studen"
 searchAliases:
   - "Camin of Inniskeltra"
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fortunatus of Aquileia"
 summary: "Brother of Saint Felice of Aquileia. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Fortunatus of Vincenza"
@@ -16,7 +16,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Chioggia, Italy"

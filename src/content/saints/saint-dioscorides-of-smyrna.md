@@ -1,7 +1,7 @@
 ---
 name: "Saint Dioscorides of Smyrna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dioscorides of Smyrna"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Dioscorides of Myra"
@@ -15,7 +15,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

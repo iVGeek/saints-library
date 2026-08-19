@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Sendra Ivars"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Sendra Ivars"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Sendra-Ivars.jpg"
 birthYear: 1899
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

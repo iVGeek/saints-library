@@ -1,7 +1,7 @@
 ---
 name: "Saint Monenna of Killeavy"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Monenna of Killeavy"
 summary: "Ascetic abbess of Sliabh Cuillin, Ireland."
 searchAliases:
   - "Darerca"

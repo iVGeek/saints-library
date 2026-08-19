@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Noviodunum"
 honorific: Saint
-title: "Martyr"
+title: "Saint Paul of Noviodunum"
 summary: "Martyr."
 searchAliases:
   - "Paolo"
@@ -10,8 +10,7 @@ feastDay:
   month: 5
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

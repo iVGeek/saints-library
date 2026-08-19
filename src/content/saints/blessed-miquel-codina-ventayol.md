@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Codina Ventayol"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Miquel Codina Ventayol"
 summary: "Member of the Claretians, professed on 31 August 1926. Ordained a priest on 26 May 1934. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

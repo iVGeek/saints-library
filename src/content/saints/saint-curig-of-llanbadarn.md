@@ -1,7 +1,7 @@
 ---
 name: "Saint Curig of Llanbadarn"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Curig of Llanbadarn"
 summary: "Bishop of Llanbadarn, Wales. Several Welsh churches are dedicated to him."
 born: "Welsh"
 died: "6th century"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arnold of Gemblours"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Arnold of Gemblours"
 summary: "Benedictine monk at Saint-Nicaise Abbey, Rheims, France. Abbot of Gemblours Abbey in Belgium."
 deathYear: 1155
 died: "1155 of natural causes"

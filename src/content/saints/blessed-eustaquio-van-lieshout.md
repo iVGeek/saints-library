@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eustáquio van Lieshout"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Royalty, Missionary"
+title: "Blessed Eustáquio van Lieshout"
 summary: "Eighth of eleven children in a deeply Catholic farm family. Baptized on the day he was born. A popular, cheerful child, he early felt a call to the priesthood. Neither his family nor his teachers thought he could handle the academic part of the vocation, but he studied in Gemert,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eustáquio-van-Lieshout.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 martyr: false
 ---

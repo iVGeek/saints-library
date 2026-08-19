@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Rome"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 295
 died: "295 in Rome, Italy"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alexander%2C_at_Marcionopolis.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

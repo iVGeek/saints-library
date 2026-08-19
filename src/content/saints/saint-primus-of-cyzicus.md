@@ -1,7 +1,7 @@
 ---
 name: "Saint Primus of Cyzicus"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Primus of Cyzicus"
 summary: "Soldier in the Roman army. Martyr."
 deathYear: 320
 died: "320 at Cyzicus on the Hellespont"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

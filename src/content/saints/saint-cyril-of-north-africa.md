@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril of North Africa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Cyril of North Africa"
 summary: "Bishop. Martyred in North Africa."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

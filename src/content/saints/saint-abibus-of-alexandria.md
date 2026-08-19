@@ -1,7 +1,7 @@
 ---
 name: "Saint Abibus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Abibus of Alexandria"
 summary: "Deacon. Martyred in the persecutions of Decius."
 searchAliases:
   - "Bibus"
@@ -14,7 +14,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

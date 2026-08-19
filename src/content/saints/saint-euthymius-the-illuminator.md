@@ -1,7 +1,7 @@
 ---
 name: "Saint Euthymius the Illuminator"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Euthymius the Illuminator"
 summary: "Son of Saint John the Iberian. Held hostage for a while in Constantinople by the emperor. Helped his father build the Iviron Monastery on Mount Athos for Iberian monks. Abbot of the monastery c.1002 after his father's death. After serving 14 years, he resigned to concentrate on t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Euthymius-the-Illuminator.jpg"
 searchAliases:

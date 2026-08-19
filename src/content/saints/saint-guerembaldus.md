@@ -1,7 +1,7 @@
 ---
 name: "Saint Guerembaldus"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Guerembaldus"
 summary: "Benedictine monk at Hirschau, Germany. Elected to the bishopric of Spire, Germany, but turned it down, citing his own unworthiness."
 deathYear: 965
 died: "965 of natural causes"

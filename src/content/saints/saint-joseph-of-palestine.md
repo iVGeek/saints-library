@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph of Palestine"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Joseph of Palestine"
 summary: "Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel. Secretly a Christian believer, Hillel was baptized on his death bed, and entrusted his holy books to Joseph. As head of the synagogue in Tarsus, his congregation"
 deathYear: 356
 died: "c.356 of natural causes at Palestine"

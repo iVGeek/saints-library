@@ -1,7 +1,7 @@
 ---
 name: "Saint Offa of Essex"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Offa of Essex"
 summary: "King of Essex, England. He gave up the crown to become a monk in Rome, Italy."
 deathYear: 709
 died: "c.709"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

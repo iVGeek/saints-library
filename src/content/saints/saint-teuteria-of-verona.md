@@ -1,7 +1,7 @@
 ---
 name: "Saint Teuteria of Verona"
 honorific: Saint
-title: "Bishop, Hermit, Royalty"
+title: "Saint Teuteria of Verona"
 summary: "Adult convert to Christianty. To escape the attentions of pagan king Oswald, she fled to Italy where she hid with Saint Tosca, and became her spiritual student. Hermitess."
 deathYear: 1161
 born: "7th–8th century England"
@@ -15,7 +15,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Hermit
-  - Royalty
 martyr: false
 ---
 

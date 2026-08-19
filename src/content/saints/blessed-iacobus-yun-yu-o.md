@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Yun Yu-o"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Iacobus Yun Yu-o"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 searchAliases:
   - "Jacob"
@@ -15,9 +15,7 @@ feastDay:
   month: 4
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

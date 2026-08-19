@@ -1,7 +1,7 @@
 ---
 name: "Saint Vitalian of Capua"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Pope, Hermit"
+title: "Saint Vitalian of Capua"
 summary: " The earliest written record we have of his life is a 12th century manuscript found in the church library in Benevento, Italy; its authenticity is questionable, but its story of one of the pivotal m Reluctant 7th century bishop of Caudium (in modern Montesarchio), Campania, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vitaliano-of-Capua.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:
@@ -26,7 +24,7 @@ patronage:
   - "Catanzaro-Squillace, Italy, archdiocese of"
   - "San Vitaliano, Italy"
   - "Sparanise, Italy"
-martyr: true
+martyr: false
 ---
 
 Reluctant 7th century bishop of Caudium (in modern Montesarchio), Campania, Italy.

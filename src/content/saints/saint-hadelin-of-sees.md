@@ -1,7 +1,7 @@
 ---
 name: "Saint Hadelin of Sees"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Hadelin of Sees"
 summary: "Benedictine monk at Saint-Calais, France. Abbot at Saint-Calais. Bishop of Sees, France for 26 years from 884."
 searchAliases:
   - "Hadelin of Seez"

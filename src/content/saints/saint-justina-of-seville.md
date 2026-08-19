@@ -1,7 +1,7 @@
 ---
 name: "Saint Justina of Seville"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Justina of Seville"
 summary: "Potter, and the daughter of a potter. Sister of Saint Rufina. A wealthy customer offered to purchase a large part of their earthenware for a very good price. When the girls learned that the pots would be used in pagan rituals, they smashed them all. Arrested for heresy against th"
 image: "http://catholicsaints.info/wp-content/uploads/Justina-and-Rufina.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

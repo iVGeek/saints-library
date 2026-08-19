@@ -1,7 +1,7 @@
 ---
 name: "Venerable Nicola Mazza"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Nicola Mazza"
 summary: "Spiritual student and close friend of Saint Gaspare Bertoni. Ordained a priest in the diocese of Verona, Italy in 1814. Taught mathematics, physics and history in seminary schools. Founded the Pious Society of Teachers Cooperators of Don Mazza, Pious Society of Don Nicola Mazza i"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Don_Mazza.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

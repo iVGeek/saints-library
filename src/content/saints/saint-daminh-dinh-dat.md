@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Ðinh Ðat"
 honorific: Venerable
-title: "Martyr, Pope, Soldier"
+title: "Saint Ðaminh Ðinh Ðat"
 summary: "Layman in the apostolic vicariate of East Tonkin (in modern Vietnam). A soldier during the persecutions of emperor Minh Mang, he was ordered by the army to renounce Christianity and prove it by trampling a crucifix; he refused and was tortured until he relented and apostasized. R"
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 18
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

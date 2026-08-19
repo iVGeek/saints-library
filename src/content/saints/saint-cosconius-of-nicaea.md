@@ -1,7 +1,7 @@
 ---
 name: "Saint Cosconius of Nicaea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Cosconius of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Cosconi"
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

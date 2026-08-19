@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbara Cho Chung-I"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Barbara Cho Chung-I"
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Bareubara Jo Jeung-I"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -2,7 +2,7 @@
 name: "Saint Paternus of Sens"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mairie%2C_Saint-Pern%2C_France.jpg/960px-Mairie%2C_Saint-Pern%2C_France.jpg"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paternus of Sens"
 summary: "Monk at Cessier, France. Monk at Saint-Pierre-le-Vif near Sens, France. Martyr."
 deathYear: 726
 born: "Brittany (in modern France)"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

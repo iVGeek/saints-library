@@ -1,7 +1,7 @@
 ---
 name: "Saint Sisimmus of Tomis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sisimmus of Tomis"
 summary: "Martyr."
 searchAliases:
   - "Sesinus"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ferran Saperas Aluja"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ferran Saperas Aluja"
 summary: "Member of the Claretians, professed on 15 August 1930. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

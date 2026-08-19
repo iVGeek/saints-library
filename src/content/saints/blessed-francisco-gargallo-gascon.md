@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Gargallo Gascón"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Gargallo Gascón"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Gargallo-Gascón.jpg"
 birthYear: 1872
@@ -16,9 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

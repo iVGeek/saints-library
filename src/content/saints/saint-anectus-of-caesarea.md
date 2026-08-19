@@ -1,7 +1,7 @@
 ---
 name: "Saint Anectus of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anectus of Caesarea"
 summary: "Loudly encouraged Christians to not abandon their faith during the persecutions of Diocletian. Overthrew pagan idols; legend says he simply prayed near them and they collapsed. Martyr."
 searchAliases:
   - "Anicetus"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

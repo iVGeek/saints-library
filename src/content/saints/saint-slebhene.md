@@ -1,7 +1,7 @@
 ---
 name: "Saint Slebhene"
 honorific: Saint
-title: "Monk"
+title: "Saint Slebhene"
 summary: "Monk. Abbot of Iona, Scotland from 752 to 767."
 searchAliases:
   - "Slebhine"

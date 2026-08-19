@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufinus of Capua"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Rufinus of Capua"
 summary: "Fifth-century bishop of Capua, Italy."
 died: "relics enshrined in the cathedral of Capua, Italy"
 deathPlace: "Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyriacus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyriacus of Alexandria"
 summary: "Martyr. No other information has survived."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

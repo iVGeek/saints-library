@@ -1,7 +1,7 @@
 ---
 name: "Saint Domninus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Domninus of Rome"
 summary: "Travelling preacher throughout Italy. Martyr."
 born: "Rome, Italy"
 birthPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

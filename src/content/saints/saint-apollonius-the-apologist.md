@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius the Apologist"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Apollonius the Apologist"
 summary: "Imperial Roman senator and scholar. After studying pagan philosophy and the Scriptures, he converted to Christianity during a period the faith was banned, but little effort was put into persecution. Denounced to the authorities as a Christian by one of his slaves, Apollonius was"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Philemon_and_Apollonius_of_Antinoe_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

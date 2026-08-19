@@ -1,7 +1,7 @@
 ---
 name: "Blessed Teodoro Gómez Cervero"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Teodoro Gómez Cervero"
 summary: "Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

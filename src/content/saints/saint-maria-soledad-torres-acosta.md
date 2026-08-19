@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Soledad Torres Acosta"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Saint Maria Soledad Torres Acosta"
 summary: "Daughter of Francis Torres and Antonia Acosta, who ran a small business. From her youth, Emanuela felt a call to the religious life. When she was old enough to leave home, she applied to the Dominicans, but she was rejected due to poor health. She spent much time and prayer disce"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Soledad-Torres-Acosta1.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: false
 ---

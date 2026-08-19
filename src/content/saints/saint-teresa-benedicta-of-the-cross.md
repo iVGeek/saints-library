@@ -27,7 +27,7 @@ patronage:
   - europe (proclaimed on 1 october 1999 by pope john paul ii)
 symbols:
   - Star of David
-martyr: true
+martyr: false
 lifeEvents:
   - year: "1891"
     event: Born at Cologne.

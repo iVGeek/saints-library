@@ -1,7 +1,7 @@
 ---
 name: "Haggai the Prophet"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Haggai the Prophet"
 summary: "Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding the Temple in Jerusalem."
 image: "http://catholicsaints.info/wp-content/uploads/img-Haggai-the-Prophet.jpg"
 searchAliases:
@@ -17,9 +17,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding the Temple in Jerusalem.

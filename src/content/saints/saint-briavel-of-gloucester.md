@@ -1,7 +1,7 @@
 ---
 name: "Saint Briavel of Gloucester"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Briavel of Gloucester"
 summary: "Sixth-century hermit at Saint Briavals, in modern Gloucestershire, England."
 region: "England"
 feastDay:

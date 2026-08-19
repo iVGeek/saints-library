@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Pak Hu-jae"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Ioannes Pak Hu-jae"
 summary: "Married layman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Yohan Bak Hu-jae"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

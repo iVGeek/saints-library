@@ -1,7 +1,7 @@
 ---
 name: "Blessed Philip of Ratzeburg"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Philip of Ratzeburg"
 summary: "Member of the Premonstratensians. Canon of the monastery in Ratzeburg, Schleswig-Holstein, Germany. Bishop of Ratzeburg."
 searchAliases:
   - "Philipp"

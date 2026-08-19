@@ -1,7 +1,7 @@
 ---
 name: "Saint Alorus of Quimper"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Alorus of Quimper"
 summary: "Fifth century bishop of Quimper in Brittany."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alorus-of-Quimper.jpg"
 searchAliases:

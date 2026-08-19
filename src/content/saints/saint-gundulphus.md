@@ -1,7 +1,7 @@
 ---
 name: "Saint Gundulphus"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gundulphus"
 summary: "Sixth century bishop in Gaul."
 searchAliases:
   - "Gundulfus"

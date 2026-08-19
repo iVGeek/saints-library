@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balthasar Uchibori"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Balthasar Uchibori"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Antonius Uchibori and Blessed Ignatius Uchibori."
 deathYear: 1627
 born: "Fukae, Nagasaki, Japan"
@@ -13,10 +13,8 @@ feastDay:
   month: 2
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Antonius Uchibori and Blessed Ignatius Uchibori.

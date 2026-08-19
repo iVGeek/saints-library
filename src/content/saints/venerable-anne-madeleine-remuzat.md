@@ -1,7 +1,7 @@
 ---
 name: "Venerable Anne Madeleine Remuzat"
 honorific: Venerable
-title: "Bishop, Religious, Pope"
+title: "Venerable Anne Madeleine Remuzat"
 summary: "A pious girl, at her request she entered a convent of the Order of the Visitation in 1704 at the age of eight, but was withdrawn by her parents in 1709. She re-entered in 1711, and made her profession on 23 January 1713. She gave herself over to a deep prayer life, which resulted"
 birthYear: 1696
 deathYear: 1730
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-  - Pope
 martyr: false
 ---
 

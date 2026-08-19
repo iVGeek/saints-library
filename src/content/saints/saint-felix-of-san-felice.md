@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of San Felice"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Felix of San Felice"
 summary: "Sixth-century bishop. Pilgrim to Rome, Italy. Settled in the village of San Felice near Narni, Italy."
 born: "Palestine"
 region: "Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesco Mottola"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Francesco Mottola"
 summary: "The son of Antonio and Concetta Braghó Mottola; his mother committed suicide in 1913 when the Francesco was only 12. He studied in Tropea and Catanzaro, Italy, and was ordained a priest of the diocese of Tropea, Italy on 5 April 1924; as a seminarian, he was known for devotion to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Mottola.jpg"
 birthYear: 1901
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

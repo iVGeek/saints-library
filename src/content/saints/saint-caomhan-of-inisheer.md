@@ -1,7 +1,7 @@
 ---
 name: "Saint Caomhán of Inisheer"
 honorific: Saint
-title: "Monk"
+title: "Saint Caomhán of Inisheer"
 summary: "May have been related to Saint Kevin of Glendalough. Spiritual student of Saint Enda of Aran."
 born: "Ireland"
 died: "6th century"

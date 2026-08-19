@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Morton"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Morton"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 deathYear: 1588
 born: "Bawtry, Yorkshire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Deyniolen the Younger"
 honorific: Saint
-title: "Monk"
+title: "Saint Deyniolen the Younger"
 summary: "Abbot in Bangor Abbey in Wales."
 searchAliases:
   - "Deyniolen of Bangor"

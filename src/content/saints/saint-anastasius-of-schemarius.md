@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Schemarius"
 honorific: Saint
-title: "Martyr, Monk, Confessor"
+title: "Saint Anastasius of Schemarius"
 summary: "Monk in the Caucasus mountains. Spiritual student of Saint Maximus the Confessor. Imprisoned, tortured and martyred."
 deathYear: 662
 died: "662 at the Schemaris fortress, Caucasus mountains"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Confessor
 martyr: true

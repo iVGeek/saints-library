@@ -1,7 +1,7 @@
 ---
 name: "Saint Phaolô Nguyen Van My"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Phaolô Nguyen Van My"
 summary: "Convert. Assisted the Paris Foreign Missions to spread the faith in Vietnam. Martyr."
 searchAliases:
   - "Paul My"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

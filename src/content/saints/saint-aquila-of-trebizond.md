@@ -1,7 +1,7 @@
 ---
 name: "Saint Aquila of Trebizond"
 honorific: Saint
-title: "Martyr"
+title: "Saint Aquila of Trebizond"
 summary: "During the persecutions of Diocletian she fled into the mountains, believing it was safer with the wild animals than people. However, she was caught and executed. Martyr."
 searchAliases:
   - "Akylas"
@@ -12,8 +12,7 @@ feastDay:
   month: 1
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

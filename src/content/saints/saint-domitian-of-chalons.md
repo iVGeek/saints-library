@@ -1,7 +1,7 @@
 ---
 name: "Saint Domitian of Châlons"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Domitian of Châlons"
 summary: "Fourth-century bishop of Châlons-sur-Marne, France."
 region: "France"
 feastDay:

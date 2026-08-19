@@ -1,7 +1,7 @@
 ---
 name: "Saint Doucelin"
 honorific: Saint
-title: "Monk"
+title: "Saint Doucelin"
 summary: "Spiritual student of Saint Martin of Tours. Evangelist."
 region: "France"
 feastDay:

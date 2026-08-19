@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustina of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustina of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

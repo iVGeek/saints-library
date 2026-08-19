@@ -1,7 +1,7 @@
 ---
 name: "Raphael the Archangel"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty"
+title: "Raphael the Archangel"
 summary: "Archangel. One of the three angels mentioned by name in Scripture, and one of the seven that stand before God's throne. Lead character in the deutero-canonical book of Tobit in which he travelled with (and guarded) Tobiah, and cured a man's blindness; hence his connection with tr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Raphael-the-Archangel.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against bodily ills"

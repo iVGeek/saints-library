@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rupert of Ottobeuren"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Rupert of Ottobeuren"
 summary: "Benedictine monk. Abbot of the run down abbey of Ottobeuren. Under his leadership, the house had a resurgence, and both the place and Rupert became known for their piety."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Rupert-Abbot-of-Tuy.jpg"
 born: "latter 12th century"

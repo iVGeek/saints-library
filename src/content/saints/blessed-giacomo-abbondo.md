@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giacomo Abbondo"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Giacomo Abbondo"
 summary: "Second of six children born to Carlo Benedetto Abbondo and Francesca Maria Naya. Giacomo was greatly influenced by his paternal uncle, Father Giovanni Carlo Abbondo. Studied in Tronzano and Vercelli in Italy. Ordained in the diocese of Vercelli on 21 March 1744; he received dispe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Abbondo.jpg"
 birthYear: 1720
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 patronage:
   - "Tronzano, Italy"

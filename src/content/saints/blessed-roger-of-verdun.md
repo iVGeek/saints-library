@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger of Verdun"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Roger of Verdun"
 summary: "Born to the nobility. Courtier to Emperor Lothair III of Süpplingenburg. Having heard Saint Norbert of Xanten preach, Roger gave up the worldly life to become a wandering Premonstratensian preacher. Monk at the Prémontré monastery in Laon, France. In 1135 he was assigned by Bless"
 deathYear: 1138
 born: "late 11th century Germany"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Illuminatus"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Illuminatus"
 summary: "Franciscan monk; spiritual student of Saint Francis of Assisi."
 deathYear: 1230
 died: "c.1230 of natural causes"

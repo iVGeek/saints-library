@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anselm of Rot an der Rot"
 honorific: Blessed
-title: "Monk, Soldier"
+title: "Blessed Anselm of Rot an der Rot"
 summary: "Soldier. Premonstratensian monk. Canon at the monastery of Mönchsrot in Rot an der Rot near Memmingen, Oberschwaben, Baden-Württemberg (in modern Germany). Spiritual student of Blessed Odino of Rot. Founding abbot of the monastery in Steingaden, Weilheim-Schongau, Bavaria (in mod"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anselm-of-Rot.jpg"
 searchAliases:

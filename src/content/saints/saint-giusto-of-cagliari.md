@@ -1,7 +1,7 @@
 ---
 name: "Saint Giusto of Cagliari"
 honorific: Saint
-title: "Martyr"
+title: "Saint Giusto of Cagliari"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg"
 searchAliases:
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Misilmeri, Italy"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Sergius I"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Religious, Deacon, Pope, Cardinal, Royalty, Soldier"
+title: "Pope Saint Sergius I"
 summary: "Son of Syrian immigrants. Educated at Palermo, Italy. Ordained in Rome, Italy. Canon regular of Saint John Lateran. First named cardinal-priest of Saint Susanna by Pope Leo II. Elected pope on 15 December 687, chosen over the priest Theodore and the archdeacon Paschal who was lat"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg/960px-Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg"
 deathYear: 701

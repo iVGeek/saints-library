@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius of Illyria"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Eleutherius of Illyria"
 summary: "Son of Saint Anthia of Illyria; his father died when the boy was very young. Educated by Bishop Dynamius. Bishop of Illyria, Dalmatia (in modern Croatia) at age 20. Arrested for bringing an imperial Roman official to Christianity. Martyred in the persecutions of Hadrian along wit"
 image: "http://catholicsaints.info/wp-content/uploads/Menologion_of_Basil_018.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

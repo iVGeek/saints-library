@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jak Bushati"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Jak Bushati"
 summary: "Studied at the Pontifical Seminary of Shkodrë, Albania. Ordained on 19 May 1915 as a priest of the archdiocese of Shkodrë-Pult, Albania. Imprisoned and tortured to death in the anti-Christian persecutions of the Albanian Communist government. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Jak-Bushati.jpg"
 birthYear: 1890
@@ -16,9 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

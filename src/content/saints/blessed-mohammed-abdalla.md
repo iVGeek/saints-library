@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mohammed Abdalla"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Mohammed Abdalla"
 summary: "Mercedarian friar at the convent of San Lazzaro in Zaragoza, Spain. Known for his personal piety and outlook that saw the hand of God in all things."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mohammed-Abdalla.jpg"
 born: "African"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

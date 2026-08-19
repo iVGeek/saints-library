@@ -1,7 +1,7 @@
 ---
 name: "Saint Salaun of Leseven"
 honorific: Saint
-title: "Monk"
+title: "Saint Salaun of Leseven"
 summary: "A poor man who lived as a beggar in a forest clearing outside Leseven, Brittany, France. He greeted everyone with the expression “Ave Maria!”, and was known to sing Marian hymns in the woods all day. For many years he was considered the village idiot - until people realized that"
 searchAliases:
   - "Salomon"

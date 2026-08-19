@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Soler Munárriz"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Vicente Soler Munárriz"
 summary: "Joined the Augustinian Recollects on 15 May 1883 while studying at the seminary in Tarragona, Spain. Assigned to Manila in the Philippines where he was ordained on 31 May 1890. Missionary to the island of Mindoro, and then on Mamburao an island known as a hideout for criminals wh"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Soler-Munárriz.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Augustinian"
 martyr: true

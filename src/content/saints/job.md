@@ -1,7 +1,7 @@
 ---
 name: "Job"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Job"
 summary: "Old Testament Patriarch. The man “simple and upright and fearing God and avoiding evil” who figures in the canonical Old Testament Book of Job."
 image: "http://catholicsaints.info/wp-content/uploads/img-Job-the-Patriarch.jpg"
 searchAliases:
@@ -12,13 +12,12 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "against abscesses"
   - "against depression"
   - "against ulcers"
-martyr: true
+martyr: false
 ---
 
 Old Testament Patriarch. The man “simple and upright and fearing God and avoiding evil” who figures in the canonical Old Testament Book of Job.

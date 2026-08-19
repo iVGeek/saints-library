@@ -1,7 +1,7 @@
 ---
 name: "Saint Abbondius of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abbondius of Rome"
 summary: "Martyr."
 died: "cemetery of Saint Lawrence, Via Tiburtina, Rome, Italy"
 deathPlace: "Via Tiburtina, Rome, Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 23
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

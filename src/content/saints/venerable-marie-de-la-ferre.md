@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marie de la Ferre"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Marie de la Ferre"
 summary: "Co-founder of the Institute of the Religious Hospitallers of Saint Joseph."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-marie-de-la-ferre/venerable-marie-de-la-ferre-01.jpg"
 birthYear: 1589
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

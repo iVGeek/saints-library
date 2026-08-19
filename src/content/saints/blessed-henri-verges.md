@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henri Vergès"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope"
+title: "Blessed Henri Vergès"
 summary: "Educated from age 12 by the Marist Brothers of the Schools, he studied in Espirá de l'Aglí and Saint-Paul-Trois-Châteaux in France. Enric joined the Marists himself in 1945, and made his perpetual vows on 26 August 1952. Elementary school teacher in Nimes, France in 1947. The com"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Henri-Vergès.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 5
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

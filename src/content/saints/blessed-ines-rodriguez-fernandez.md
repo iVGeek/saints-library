@@ -1,7 +1,7 @@
 ---
 name: "Blessed Inés Rodríguez Fernández"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Inés Rodríguez Fernández"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Inés of Saint Joseph"
@@ -17,9 +17,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

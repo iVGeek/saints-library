@@ -1,7 +1,7 @@
 ---
 name: "Saint Talarican of Sodor"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Talarican of Sodor"
 summary: "Sixth-century Pictish bishop of Sodor, Scotland where several churches were dedicated to him. Zealous evangelist and preacher, he celebrated Mass every day."
 searchAliases:
   - "Talarica"
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Severino Ruiz Hidalgo"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Severino Ruiz Hidalgo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Severino"
@@ -17,9 +17,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

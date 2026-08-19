@@ -1,7 +1,7 @@
 ---
 name: "Blessed Raymond of Toulouse"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Raymond of Toulouse"
 summary: "Son of the Count de Montfort. Cousin of Blessed George of Lauria. While on pilgrimage to the Marian shrine of Montserrat, Raymond decided to join the Mercedarians, and took the habit at the convent of Santa Eulalia in Barcelona, Spain. Zealous preacher. Created cardinal-priest in"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-of-Toulouse.jpg"
 region: "Spain"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

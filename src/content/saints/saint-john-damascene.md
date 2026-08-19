@@ -1,7 +1,7 @@
 ---
 name: "Saint John Damascene"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope, Doctor of the Church"
+title: "Saint John Damascene"
 summary: "Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured Italian monk named Cosmas. Between the Christian"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Damascene.gif"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
 religiousOrder: "Franciscan"
 patronage:
@@ -30,7 +28,7 @@ patronage:
   - "icon painters"
   - "sick children"
   - "theology students"
-martyr: true
+martyr: false
 ---
 
 Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured Italian monk named Cosmas. Between the Christian teaching from the monk, and that of the Muslim schools, John became highly educated in the classical fields (geometry, literature, logic, rhetoric, etc.).

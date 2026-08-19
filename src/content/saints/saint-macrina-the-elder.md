@@ -1,7 +1,7 @@
 ---
 name: "Saint Macrina the Elder"
 honorific: Saint
-title: "Martyr, Monk, Hermit, Confessor"
+title: "Saint Macrina the Elder"
 summary: "Grandmother of Saint Basil the Great, Saint Gregory of Nyssa, Saint Peter of Sebaste, and Saint Macrina the Younger, and apparently raised Basil. Spiritual student of Saint Gregory Thaumaturgus. She and her husband lived in hiding in a forest at Pontus for seven years during the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Macrina-the-Elder.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
   - Confessor
@@ -25,7 +24,7 @@ patronage:
   - "against poverty"
   - "poor people"
   - "widows"
-martyr: true
+martyr: false
 ---
 
 Grandmother of Saint Basil the Great, Saint Gregory of Nyssa, Saint Peter of Sebaste, and Saint Macrina the Younger, and apparently raised Basil. Spiritual student of Saint Gregory Thaumaturgus. She and her husband lived in hiding in a forest at Pontus for seven years during the persecutions of Diocletian, nearly starving several times. Widowed.

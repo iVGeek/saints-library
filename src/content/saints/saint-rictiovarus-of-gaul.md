@@ -1,7 +1,7 @@
 ---
 name: "Saint Rictiovarus of Gaul"
 honorific: Saint
-title: "Martyr"
+title: "Saint Rictiovarus of Gaul"
 summary: "Appointed imperial Roman prefect of Gaul by Emperor Diocletian in the late 3rd century, Rictiovarus was known for his hatred and persecution of Christians, including ordering the deaths of"
 searchAliases: []
 deathYear: 301

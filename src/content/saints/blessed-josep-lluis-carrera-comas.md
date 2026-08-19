@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Lluís Carrera Comas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Lluís Carrera Comas"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Agapi"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

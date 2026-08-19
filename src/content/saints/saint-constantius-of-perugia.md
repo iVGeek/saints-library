@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantius of Perugia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Constantius of Perugia"
 summary: "First bishop of Perugia, Italy at age 30. He evangelized his people, cared for the poor, and lived a simple life that shamed the ruling classes. Imprisoned, tortured and martyred with many of his flock in the persecution of Marcus Aurelius."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Pietro_Perugino_Virgin_Mary_and_Saints.JPG"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

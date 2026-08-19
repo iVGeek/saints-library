@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidore Bakanja"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Isidore Bakanja"
 summary: "Worked as an assistant stone mason for white colonists in what was then the Belgian Congo and later known as Zaire or simply the Congo. Convert, baptized on 6 May 1906 at age 18 after receiving instruction from Trappists missionaries. Rosary in hand, he used any chance to share h"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Isidor_Bakanja.jpg"
 birthYear: 1887
@@ -15,10 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

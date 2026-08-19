@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Rosa Gattorno"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Anna Rosa Gattorno"
 summary: " Married to Gerol One of six children born to the wealthy, pious family of Francesco Benedetta and Adelaide Campanella Benedetta. Baptized the day after her birth, and confirmed at age 12. Educated at home, she was familiar with the politics and anti–clerical arguments of her day."
 image: "http://catholicsaints.info/wp-content/gallery/blessed-anna-rosa-gattorno/blessed-anna-rosa-gattorno-01.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

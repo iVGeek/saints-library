@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucidius of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Lucidius of Verona"
 summary: "Fourth century bishop of Verona, Italy. Famous for a life of prayer and study."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Fourth century bishop of Verona, Italy. Famous for a life of prayer and study.

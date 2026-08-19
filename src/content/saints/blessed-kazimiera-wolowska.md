@@ -1,7 +1,7 @@
 ---
 name: "Blessed Kazimiera Wolowska"
 honorific: Blessed
-title: "Martyr, Virgin, Religious, Pope, Royalty"
+title: "Blessed Kazimiera Wolowska"
 summary: "Member of the Sisters of the Immaculate Conception of the Blessed Virgin taking the name Maria Marta of Jesus. Prioress of the convent in Slonim, Belarus. Fed, sheltered, hid and taught Jews during the Nazi persecutions. Imprisoned and executed for this work. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Kazimiera-Wolowska.jpg"
 searchAliases:
@@ -22,11 +22,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

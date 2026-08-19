@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giles of Laurenzana"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Hermit"
+title: "Blessed Giles of Laurenzana"
 summary: "Raised on a farm at Laurenzana, Naples. Franciscan lay brother. Lived as a hermit in the garden of the Franciscan friary at Laurenzana. Noted for a great love of animals."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giles-of-Laurenzana.jpg"
 searchAliases:
@@ -22,14 +22,12 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 patronage:
   - "Laurenzana, Italy"
-martyr: true
+martyr: false
 ---
 
 Raised on a farm at Laurenzana, Naples. Franciscan lay brother. Lived as a hermit in the garden of the Franciscan friary at Laurenzana. Noted for a great love of animals.

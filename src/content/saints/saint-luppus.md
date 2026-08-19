@@ -1,14 +1,13 @@
 ---
 name: "Saint Luppus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Luppus"
 summary: "Christian slave. Martyr, date and location unknown."
 feastDay:
   month: 8
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

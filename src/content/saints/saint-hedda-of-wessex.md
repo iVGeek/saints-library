@@ -1,7 +1,7 @@
 ---
 name: "Saint Hedda of Wessex"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Hedda of Wessex"
 summary: "Benedictine monk. Abbot at Whitby, Yorkshire, England. Bishop of the Wessex, England region in 676; he served for almost 40 years. Established his see at Dorchester, then Winchester. Adviser to King Ina."
 deathYear: 705
 born: "England"
@@ -14,7 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Winchester, England"

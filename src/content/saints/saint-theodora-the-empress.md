@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodora the Empress"
 honorific: Saint
-title: "Priest, Royalty"
+title: "Saint Theodora the Empress"
 summary: "Empress, married to the brutal and thuggish Emperor Theophilus; mother of Emperor Michael III. Widowed, she immediately put an end to the iconoclast persecutions. She governed the empire for 12 years but was banished when her drunken son took the throne, and spent the last eight"
 image: "http://catholicsaints.info/wp-content/uploads/Theodora-the-Empress.jpg"
 deathYear: 867
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
 martyr: false
 ---
 

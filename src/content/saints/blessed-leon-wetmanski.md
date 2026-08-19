@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leon Wetmański"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Leon Wetmański"
 summary: "Priest. Auxiliary bishop of Plock, Poland, serving with Blessed Antoni Julian Nowowiejski. Father Leon was known for his personal piety, as an enthusiastic pastor, and for a ministry to the poor. He was arrested> with Blessed Antoni in the persecutions of the Gestapo during the N"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Leon-Wetmanski-1.jpg"
 birthYear: 1886
@@ -16,10 +16,8 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

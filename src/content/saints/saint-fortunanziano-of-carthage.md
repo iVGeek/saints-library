@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunanziano of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fortunanziano of Carthage"
 summary: "Lector martyred in the persecutions of Diocletian."
 searchAliases:
   - "Fortunanzio"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

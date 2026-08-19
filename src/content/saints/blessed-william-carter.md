@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Carter"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed William Carter"
 summary: "Married layman. Apprentice to several Catholic printers. Imprisoned and tortured for 18 months for “printing lewd (i.e., Catholic) pamphlets,” possessing books upholding Catholicism, hiding vestments and other equipment in his home. His wife died while he was in jail. Eventually"
 birthYear: 1549
 deathYear: 1584
@@ -14,9 +14,7 @@ feastDay:
   month: 1
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

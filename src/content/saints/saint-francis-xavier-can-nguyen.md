@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis Xavier Can Nguyen"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Francis Xavier Can Nguyen"
 summary: "Layman. Catechist. Worked to help the Paris Foreign Mission Society. Arrested for his faith, he was offered the chance for freedom if he would renounce his faith; he declined. One of the Martyrs of Vietnam."
 searchAliases:
   - "Phanxicô Xaviê Can"
@@ -17,9 +17,7 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

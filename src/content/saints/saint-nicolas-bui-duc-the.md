@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicolas Bùi Ðuc The"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Nicolas Bùi Ðuc The"
 summary: "Lifelong layman in the apostolic vicariate of East Tonkin (in modern Vietnam). During the persecutions of emperor Minh Mang, Nicolas was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr."
 birthYear: 1792
 deathYear: 1839
@@ -14,9 +14,7 @@ feastDay:
   month: 6
   day: 13
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

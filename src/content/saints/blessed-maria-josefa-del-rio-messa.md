@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Josefa del Río Messa"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Josefa del Río Messa"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Josefa-del-Río-Messa.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

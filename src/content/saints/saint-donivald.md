@@ -1,7 +1,7 @@
 ---
 name: "Saint Donivald"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Donivald"
 summary: "Married 8th-century layman. Father of nine daughters who became known as the Nine Maidens. He and they lived as a hermits in Ogilvy, Scotland."
 searchAliases:
   - "Donald"

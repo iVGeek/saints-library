@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Albareda Ramoneda"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Cardinal"
+title: "Blessed Josep Albareda Ramoneda"
 summary: "Older brother of Cardinal Joaquín Anselmo María Albareda. Benedictine (Subiaco Congregation) monk at the abbey of Montserrat. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Albareda-Ramoneda.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

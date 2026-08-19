@@ -1,7 +1,7 @@
 ---
 name: "Saint Aneurin"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Aneurin"
 summary: "Father of Saint Gwinoc. Sixth century Welsh monk in Wales."
 searchAliases:
   - "Gildas"

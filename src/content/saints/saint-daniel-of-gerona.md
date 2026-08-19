@@ -1,7 +1,7 @@
 ---
 name: "Saint Daniel of Gerona"
 honorific: Saint
-title: "Martyr, Hermit"
+title: "Saint Daniel of Gerona"
 summary: "Hermit. Martyr."
 born: "Asia Minor"
 died: "9th century in Spain"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Satyrus"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Satyrus"
 summary: "Destroyed a pagan idol by making the sign of the cross at it. Martyred by the pagans who had worshipped the thing."
 searchAliases:
   - "Saturus"
@@ -15,9 +15,7 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

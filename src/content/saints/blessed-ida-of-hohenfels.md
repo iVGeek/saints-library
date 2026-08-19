@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ida of Hohenfels"
 honorific: Blessed
-title: "Virgin, Religious"
+title: "Blessed Ida of Hohenfels"
 summary: "Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen."
 deathYear: 1195
 died: "c.1195 of natural causes"

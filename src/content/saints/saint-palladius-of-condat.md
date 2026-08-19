@@ -1,7 +1,7 @@
 ---
 name: "Saint Palladius of Condat"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Palladius of Condat"
 summary: "Fifth century monk at Condat (modern Saint-Claude), France. Friend, travelling companion and spiritual student of Saint Romanus of Condat."
 searchAliases:
   - "Palladio"
@@ -13,9 +13,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Fifth century monk at Condat (modern Saint-Claude), France. Friend, travelling companion and spiritual student of Saint Romanus of Condat.

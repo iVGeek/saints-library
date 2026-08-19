@@ -1,7 +1,7 @@
 ---
 name: "Venerable Eleonora Foresti"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Eleonora Foresti"
 summary: "Founder of the Congregation of the Franciscan Sisters Adorers."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Eleonora-Foresti.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

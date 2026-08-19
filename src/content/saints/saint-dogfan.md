@@ -1,7 +1,7 @@
 ---
 name: "Saint Dogfan"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dogfan"
 summary: "Son of the chieftain Saint Brychan of Brycheiniog. Martyr. No other information has survived."
 searchAliases:
   - "Doewan"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Eglwys_Sant_Dogfan%2C_Church_of_St_Dogfan%2C_Llanrhaeadr-ym-Mochnant%2C_Powys_23.JPG/960px-Eglwys_Sant_Dogfan%2C_Church_of_St_Dogfan%2C_Llanrhaeadr-ym-Mochnant%2C_Powys_23.JPG"
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Dominican"
 martyr: true

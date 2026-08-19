@@ -1,7 +1,7 @@
 ---
 name: "Saint Gioan Baotixta Ðinh Van Thành"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Gioan Baotixta Ðinh Van Thành"
 summary: "Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Worked with the Society of Foreign Missionaries. Imprisoned and tortured for their faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce Christianit"
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 4
   day: 28
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

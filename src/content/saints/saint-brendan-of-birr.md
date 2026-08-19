@@ -1,7 +1,7 @@
 ---
 name: "Saint Brendan of Birr"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Brendan of Birr"
 summary: "Friend and brother monk with Saint Brendan the Navigator at Clonard abbey. Spiritual student of Saint Finian. Founded the monastery at Birr in Offaly, central Ireland c.540, and served as its abbot. Friend and advisor of Saint Columba. At Brendan's death, Columba had a vision of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Birr_St._Brendan%27s_Church_St._Brendan_Window_2010_09_10.jpg/960px-Birr_St._Brendan%27s_Church_St._Brendan_Window_2010_09_10.jpg"
 searchAliases:

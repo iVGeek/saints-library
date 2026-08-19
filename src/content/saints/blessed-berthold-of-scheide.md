@@ -1,7 +1,7 @@
 ---
 name: "Blessed Berthold of Scheide"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Hermit, Royalty"
+title: "Blessed Berthold of Scheide"
 summary: "Older brother of Blessed Menrich of Lübeck. Priest. Member of the Premonstratensians. Lay brother at the Scheide monastery near Fröndenberg-on-der-Ruhr, Westphalia (in modern Germany). Hermit at Berg Haslei. There he started speaking out against immorality, standing in the shade"
 searchAliases:
   - "Berthold of Scheda"
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

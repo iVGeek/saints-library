@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus of Alexandria"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 250
 died: "beheaded in 250 at Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

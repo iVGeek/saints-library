@@ -1,7 +1,7 @@
 ---
 name: "Saint Galen of Armenia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Galen of Armenia"
 summary: "Martyred in the persecutions of emperor Hadrian."
 born: "Armenian"
 died: "crucified in the early 2nd century"
@@ -11,7 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

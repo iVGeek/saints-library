@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Salamanca Bujalance"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco Salamanca Bujalance"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Añora community. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1939
@@ -15,9 +15,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

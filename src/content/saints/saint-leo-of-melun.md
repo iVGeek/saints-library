@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Melun"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Leo of Melun"
 summary: "Venerated at Melun, France, but no details of their life have survived."
 region: "France"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Venerated at Melun, France, but no details of their life have survived.

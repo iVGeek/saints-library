@@ -1,7 +1,7 @@
 ---
 name: "Saint Gemellus of Ancyra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gemellus of Ancyra"
 summary: "Martyred in the persecutions of Julian the Apostate."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Menologion_of_Basil_020.jpg/960px-Menologion_of_Basil_020.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

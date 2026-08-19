@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques-François de Lubersac"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Jacques-François de Lubersac"
 summary: "We know nothing about Jacques' life before he came to Paris, France to study civil law. Priest. Secretary to Victoria, daughter of King Louis XV and aunt of King Louis XVI. When the anti-Catholic persecutions of the French Revolution began, Jacques fled to Rome, Italy, but return"
 birthYear: 1729
 deathYear: 1792
@@ -15,10 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Jude Thaddeus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Jude Thaddeus"
 summary: "Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ's body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relative of Jesus Christ, and reported to look a lot like him. May have been a fisherm"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jude-Thaddeus-1.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "desperate situations"

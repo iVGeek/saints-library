@@ -1,7 +1,7 @@
 ---
 name: "Saint Gothalm"
 honorific: Saint
-title: "Monk"
+title: "Saint Gothalm"
 summary: "Monk in Melk, Austria."
 deathYear: 1020
 died: "1020 of natural causes"

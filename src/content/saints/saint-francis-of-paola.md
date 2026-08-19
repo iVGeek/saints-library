@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis of Paola"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit, Royalty, Confessor"
+title: "Saint Francis of Paola"
 summary: "Francis's parents were childless for many years, but following prayers for the intercession of Saint Francis of Assisi, they had three children; Francis was the oldest. Following a pilgrimage in his teens to Rome and Assisi in Italy, he became a hermit in a cave near Paola. Befor"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg/960px-Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"

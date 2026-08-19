@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bertha de Marbais"
 honorific: Blessed
-title: "Bishop, Religious, Royalty"
+title: "Blessed Bertha de Marbais"
 summary: "Born to the nobility, and married to the prince of Molenbaix (part of modern Belgium. Widowed, Bertha felt a call to religion and became a Cistercian nun at Aywières Abbey, in the diocese of Namur, Belgium. Friend of Saint Lutgardis of Aywières. First abbess of the abbey of March"
 searchAliases:
   - "Bertha of Aywières"
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Royalty
 martyr: false
 ---
 

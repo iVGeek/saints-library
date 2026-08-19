@@ -1,7 +1,7 @@
 ---
 name: "Saint Vimin of Holywood"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Vimin of Holywood"
 summary: "Sixth century bishop in Scotland. Founded the monastery of Holywood."
 searchAliases:
   - "Gwynnin"

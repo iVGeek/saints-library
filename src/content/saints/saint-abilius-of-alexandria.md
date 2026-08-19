@@ -1,7 +1,7 @@
 ---
 name: "Saint Abilius of Alexandria"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Abilius of Alexandria"
 summary: "Third bishop of Alexandria, Egypt c.84."
 searchAliases:
   - "Abilio"
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

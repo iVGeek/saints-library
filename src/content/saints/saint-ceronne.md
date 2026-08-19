@@ -1,7 +1,7 @@
 ---
 name: "Saint Céronne"
 honorific: Saint
-title: "Monk"
+title: "Saint Céronne"
 summary: "Raised in a pagan family. Convert, baptized at Bordeaux, France where she became an evangelist."
 deathYear: 490
 born: "Corneilhan, France"

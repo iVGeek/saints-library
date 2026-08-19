@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Pérez González"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Pérez González"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Ramiro of Sobradillo"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

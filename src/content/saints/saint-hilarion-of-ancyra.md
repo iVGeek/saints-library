@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilarion of Ancyra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hilarion of Ancyra"
 summary: "Martyred in the persecutions of Trajan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Proclus-and-Hilarion-of-Ancyra.jpg"
 deathYear: 115
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

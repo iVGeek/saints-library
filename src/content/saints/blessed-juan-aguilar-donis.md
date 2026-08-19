@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Aguilar Donis"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Aguilar Donis"
 summary: "Dominican friar. After studying philosophy and theology in Almagro, Spain. Ordained a priest in 1913, he was assigned to several Dominican houses, including in Almería, Spain. At the outbreak of the Spanish Civil War, he went into hiding to escape the anti-Catholic Communist mili"
 birthYear: 1886
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

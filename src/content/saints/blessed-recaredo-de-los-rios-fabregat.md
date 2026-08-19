@@ -1,7 +1,7 @@
 ---
 name: "Blessed Recaredo de Los Ríos Fabregat"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Recaredo de Los Ríos Fabregat"
 summary: "Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Recaredo-De-Los-Rios-Fabregat.jpg"
 birthYear: 1893
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

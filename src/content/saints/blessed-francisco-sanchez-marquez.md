@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Sánchez Márquez"
 honorific: Blessed
-title: "Bishop, Monk, Pope, Royalty"
+title: "Blessed Francisco Sánchez Márquez"
 summary: "The eldest of four children in a rural peasant family, Francisco was baptized at the age of five days, and grew up in a peasant family, tending the sheep and goats in a small village in southern Spain. He became Capuchin monk in Granada, Spain at age 33 after hearing the preachin"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Sánchez-Márquez.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: false
 ---

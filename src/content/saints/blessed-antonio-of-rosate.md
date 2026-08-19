@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio of Rosate"
 honorific: Blessed
-title: "Martyr, Priest, Missionary"
+title: "Blessed Antonio of Rosate"
 summary: "Franciscan missionary priest assigned to preach Christianity in the area of the Holy Land. He was imprisoned and tortured by Muslims who ordered him to renounce his faith; he refused. Martyr."
 birthYear: 1300
 deathYear: 1369
@@ -14,7 +14,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Missionary
 religiousOrder: "Franciscan"

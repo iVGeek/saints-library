@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bertrand-Antoine de Caupenne"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Bertrand-Antoine de Caupenne"
 summary: "Priest of the diocese of Versailles, France. One of the Martyrs of September."
 birthYear: 1753
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

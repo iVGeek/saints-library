@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisca de Paula de Jesus Isabel"
 honorific: Blessed
-title: "Virgin, Pope, Cardinal"
+title: "Blessed Francisca de Paula de Jesus Isabel"
 summary: "Lay person of the diocese of Campanha, Brazil. Her mother died when the girl was 10, and she gave herself over to the care of the Blessed Virgin Mary. Never learned to read or write, never joined a congregation, but lived an impoverished, celibate life like a modern anchoress in"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-francisca-de-paula-de-jesus-isabel/venerable-francisca-de-paula-de-jesus-isabel.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Pope
   - Cardinal
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholaus of Vaucelles"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Nicholaus of Vaucelles"
 summary: "One of the first members of the Cistercians. Monk. Abbot of the Vaucelles abbey."
 deathYear: 1163
 died: "c.1163"

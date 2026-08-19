@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramona Solans Ballester"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Ramona Solans Ballester"
 summary: "Ramona joined the Capuchin Sisters of the Mother of the Divine Shepherd in April 1893 in the Sants area of Barcelona, Spain, and made her profession on 13 December 1899 in Igualada, Spain. She was known among the Sisters and her students as a cheerful, enthusiastic, hard-working"
 searchAliases:
   - "Sister Andrea"
@@ -17,11 +17,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: true
 ---

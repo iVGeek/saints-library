@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Melitene"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gaius of Melitene"
 summary: "Martyr."
 searchAliases:
   - "Caius"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

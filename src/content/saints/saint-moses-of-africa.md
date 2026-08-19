@@ -1,7 +1,7 @@
 ---
 name: "Saint Moses of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Moses of Africa"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 searchAliases:
   - "Moysetes"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

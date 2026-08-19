@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernardo degli Uberti"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope, Cardinal, Royalty"
+title: "Saint Bernardo degli Uberti"
 summary: "Member of the Florentine nobility. Benedictine Vallombrosan monk. Abbot of San Salvi monastery. General-superior of the Vallombrosans. Created cardinal by Pope Urban II in 1097. Papal legate. Bishop of Parma, Italy in 1106. Exiled twice during disputes with anti-papal forces oppo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernardo-degli-Uberti.jpg"
 searchAliases:
@@ -18,13 +18,11 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
 religiousOrder: "Benedictine"
 patronage:
   - "Parma, Italy"
-martyr: true
+martyr: false
 ---
 
 Member of the Florentine nobility. Benedictine Vallombrosan monk. Abbot of San Salvi monastery. General-superior of the Vallombrosans. Created cardinal by Pope Urban II in 1097. Papal legate. Bishop of Parma, Italy in 1106. Exiled twice during disputes with anti–papal forces opposing Pope Saint Gregory VII, and with those who supported Conrad II as king of Germany, but considered a successful bishop.

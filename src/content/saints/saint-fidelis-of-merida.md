@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidelis of Mérida"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Fidelis of Mérida"
 summary: "Originally from the East, he travelled to Mérida, Spain with a group of merchants, settled there, trained with the bishop of the city, and then succeeded him c.560."
 searchAliases:
   - "Fedele"

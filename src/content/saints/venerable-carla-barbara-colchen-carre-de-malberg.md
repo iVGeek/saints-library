@@ -1,7 +1,7 @@
 ---
 name: "Venerable Carla Barbara Colchen Carré de Malberg"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Carla Barbara Colchen Carré de Malberg"
 summary: "Lifelong lay woman. Married on 2 May 1849. Mother. Helped found the Daughters of Saint Francis de Sales, Salesian Missionaries of Mary Immaculate and the Association of Saint Francis de Sales."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Carla-Barbara-Colchen-Carré-de-Malberg.jpg"
 birthYear: 1829
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: false
 ---

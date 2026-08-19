@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominic of the Holy Rosary"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Dominic of the Holy Rosary"
 summary: "Dominican novice. Marytr."
 searchAliases:
   - "Ioannes Nagata Magoshichiro"
@@ -18,11 +18,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Dominican novice. Marytr.

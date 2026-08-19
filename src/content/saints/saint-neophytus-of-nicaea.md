@@ -1,7 +1,7 @@
 ---
 name: "Saint Neophytus of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Neophytus of Nicaea"
 summary: "Martyred at age 15. No other information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-neophytus.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

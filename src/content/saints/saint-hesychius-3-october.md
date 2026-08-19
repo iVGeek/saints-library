@@ -1,7 +1,7 @@
 ---
 name: "Saint Hesychius"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Hesychius"
 summary: "Spiritual student of Saint Hilarion of Palestine. Hermit in a monastery at Majuma, Palestine. Followed Hilarion from one hermitage to another for years, even tracking him down when Hilarion left without warning in order to seek out solitude; and when the teacher died, Hesychius b"
 searchAliases:
   - "Esichio"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

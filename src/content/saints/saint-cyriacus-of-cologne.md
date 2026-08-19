@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyriacus of Cologne"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Cyriacus of Cologne"
 summary: "Priest. Worked with Pope Pontian. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 born: "England"
@@ -13,10 +13,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

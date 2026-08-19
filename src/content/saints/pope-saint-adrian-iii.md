@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Adrian III"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Pope Saint Adrian III"
 summary: "Pope for approximately one year. Almost nothing is known of his life before his ascension. Adrian opposed the Roman aristocratic faction led by the corrupt bishop Formosus, and arrested the more violent members of the group. He died en route to Worms, Germany where he was going t"
 image: "http://catholicsaints.info/wp-content/gallery/pope-saint-adrian-iii/pope-saint-adrian-iii.jpg"
 deathYear: 885
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Greenwood"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty"
+title: "Blessed William Greenwood"
 summary: "A lay brother in the Carthusian London Charterhouse. Arrested for opposing the policies of King Henry VIII, and remaining loyal to Rome. Martyred with six companions."
 deathYear: 1537
 born: "English"
@@ -13,10 +13,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

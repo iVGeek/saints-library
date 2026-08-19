@@ -1,7 +1,7 @@
 ---
 name: "Saint Claude de la Colombiere"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Claude de la Colombiere"
 summary: "Born to the French nobility, Claude early felt a call to religious life. Educated at Jesuit college in Lyons, France. Priest. Taught humanities at Avignon, France. Continued his studies in Paris, France. Tutor. Preached against Jansenism, advocating dedication to the Sacred Heart"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Claude-de-la-Colombiere.jpg"
 searchAliases:
@@ -19,11 +19,8 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "toy makers"

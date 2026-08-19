@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Saturninus of Rome"
 summary: "Priest in Rome, Italy. With his deacon Saint Sisinius, he was sentenced to hard labor, exiled, tortured and executed for his faith in the persecutions of Decius. Martyr."
 searchAliases:
   - "Saturninus of Carthage"
@@ -16,7 +16,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudentius of Gniezno"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Gaudentius of Gniezno"
 summary: "Born into the Bohemia nobility; younger brother of Saint Adalbert of Prague. Following the massacre of his family by a political rival, Radzim became a monk at the Benedictine abbey of Saint Alessio on the Aventine, Rome, Italy. Priest. Missionary to Prussia with Adalbert, he esc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guiadenzio-of-Gniezno.jpg"
 searchAliases:
@@ -25,13 +25,12 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
   - Missionary
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Born into the Bohemia nobility; younger brother of Saint Adalbert of Prague. Following the massacre of his family by a political rival, Radzim became a monk at the Benedictine abbey of Saint Alessio on the Aventine, Rome, Italy. Priest. Missionary to Prussia with Adalbert, he escaped the anti-Christian massacre in which Adalbert died. Archbishop of Gniezno (in modern Poland) in 1000, appointed by Otto III; he led his flock through end-of-the-world rumours that accompanied the new millenium.

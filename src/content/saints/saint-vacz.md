@@ -1,7 +1,7 @@
 ---
 name: "Saint Vacz"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Vacz"
 summary: "Eleventh century hermit in Visegrád, Hungary."
 region: "Hungary"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Diogene of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Diogene of Antioch"
 summary: "Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -10,8 +10,7 @@ feastDay:
   month: 4
   day: 8
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

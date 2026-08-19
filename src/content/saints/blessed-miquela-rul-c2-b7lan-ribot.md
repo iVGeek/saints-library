@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquela Rul·Làn Ribot"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Miquela Rul·Làn Ribot"
 summary: "Nun. Member of the Franciscan Daughters of Mercy. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Miquela-Rul·Làn-Ribot.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

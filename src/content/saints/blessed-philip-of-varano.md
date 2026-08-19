@@ -1,7 +1,7 @@
 ---
 name: "Blessed Philip of Varano"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Philip of Varano"
 summary: "Benedictine monk in the monastery of Grottafucile in Fabriano, Italy. First spiritual student of Saint Sylvester Gozzolini and member of the Sylvestrines. Priest."
 searchAliases:
   - "Philip of Recanati"

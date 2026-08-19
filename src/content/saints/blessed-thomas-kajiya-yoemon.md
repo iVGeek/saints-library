@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Kajiya Yoemon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Thomas Kajiya Yoemon"
 summary: "Child in the Kyoto, Japan, the son of Blessed Anna Kajiya. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Tanba, Kyoto, Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

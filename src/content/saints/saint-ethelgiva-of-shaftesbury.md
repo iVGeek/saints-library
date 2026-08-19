@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethelgiva of Shaftesbury"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty"
+title: "Saint Ethelgiva of Shaftesbury"
 summary: "Princess, the daughter of King Alfred the Great. Nun. With her father's help, she founded and served as first abbess of Shaftesbury Abbey in Dorset, England."
 searchAliases:
   - "Æthelgifu"
@@ -20,7 +20,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

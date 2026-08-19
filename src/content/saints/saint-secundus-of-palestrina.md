@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundus of Palestrina"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Secundus of Palestrina"
 summary: "Bishop of Palestrina, Italy. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Secondino"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Piacenza"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Antoninus of Piacenza"
 summary: "Soldier. Martyr. A vial of his blood preserved as a relic is known to miraculously liquify. He somehow became associated the Theban Legion, but was martyred in a separate incident."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/43/S._Antonino_di_Piacenza.JPG"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

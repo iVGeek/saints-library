@@ -1,7 +1,7 @@
 ---
 name: "Saint Tiberius of Agde"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tiberius of Agde"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Tiberio"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

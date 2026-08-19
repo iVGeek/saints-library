@@ -1,7 +1,7 @@
 ---
 name: "Saint Theonilla of Aegea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theonilla of Aegea"
 summary: "Pious Christian woman martyred in the persecutions of Pro-consul Lysias."
 deathYear: 285
 died: "drowned in 285 at Aegea, Cilicia (in Asia Minor)"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

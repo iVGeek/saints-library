@@ -1,7 +1,7 @@
 ---
 name: "Saint Odilia"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Religious, Royalty"
+title: "Saint Odilia"
 summary: " In the spring of 1287, she appeared in a vision to John Novelan of Eppa, a lay brother of the Crosier Order in Paris. She told him that God had appointed her patron and protectress of members of the Order of the H Princess. Friend of Saint Ursula; travelled and martyred with her."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Odilia.jpg"
 died: "Cologne, Germany"
@@ -12,11 +12,9 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Religious
-  - Royalty
 patronage:
   - "blind people"
   - "Crosier Fathers"

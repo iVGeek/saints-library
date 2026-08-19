@@ -1,7 +1,7 @@
 ---
 name: "Saint Clair of Epte"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Clair of Epte"
 summary: "Born to the nobility, Clair felt a call to religious life, and lived at home much like a monk. His father arranged a marriage for Clair to a nearby wealthy heiress, and when the young man said he preferred to devote himself to God, the woman tried to seduce him in order to joined"
 searchAliases:
   - "Clair of Beauvais"
@@ -18,7 +18,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit

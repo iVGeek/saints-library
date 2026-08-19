@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger of Todi"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Roger of Todi"
 summary: "Franciscan, receiving the habit from Saint Francis himself in 1236. Spiritual director of Blessed Philippa Mareria's community of Poor Clares at Rieti, Italy."
 searchAliases:
   - "Ruggero"
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

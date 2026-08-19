@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Remón Játiva"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francisco Remón Játiva"
 summary: "Franciscan Conventual friar. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Remón-Játiva.jpg"
 birthYear: 1890
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 31
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

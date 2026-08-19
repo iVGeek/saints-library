@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio María Martín Povea"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio María Martín Povea"
 summary: "Member of the Carmelites of the Ancient Observance. Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -14,11 +14,9 @@ feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
-martyr: true
+martyr: false
 ---
 
 Member of the Carmelites of the Ancient Observance. Spanish Civil War.

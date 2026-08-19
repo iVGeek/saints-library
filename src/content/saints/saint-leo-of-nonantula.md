@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Nonantula"
 honorific: Saint
-title: "Monk"
+title: "Saint Leo of Nonantula"
 summary: "Monk and later abbot of Nonantula Abbey near Modena, Italy."
 deathYear: 1000
 died: "1000"

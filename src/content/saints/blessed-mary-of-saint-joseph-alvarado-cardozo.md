@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary of Saint Joseph Alvarado Cardozo"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Royalty"
+title: "Blessed Mary of Saint Joseph Alvarado Cardozo"
 summary: "Laura made her First Communion, and a private vow of chastity, on the feast of the Immaculate Conception in 1888. In her late teens she set up a catechism school for poor children in her home. A smallpox epidemic broke out in her home town, and Laura worked with the sick in the h"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Saint-Joseph-Alvarado-Cardozo.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Augustinian Recollect Sisters of the Heart of Jesus"

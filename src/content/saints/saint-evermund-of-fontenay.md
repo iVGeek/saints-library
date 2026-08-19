@@ -1,7 +1,7 @@
 ---
 name: "Saint Evermund of Fontenay"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Evermund of Fontenay"
 summary: "Married. Founded several monasteries and convents. His wife then entered one of the convents as a nun, and Evermund became a monk at the Fontenay-Louvet house near Séez, France. Abbot."
 searchAliases:
   - "Ebremund of Fontenay"
@@ -15,10 +15,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Married. Founded several monasteries and convents. His wife then entered one of the convents as a nun, and Evermund became a monk at the Fontenay-Louvet house near Séez, France. Abbot.

@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Alexandria"
 summary: "A large but unknown number of Catholics massacred in several churches during Good Friday services in Alexandria, Egypt by Arian heretics during the persecutions of Constantius and Philagrio."
 deathYear: 342
 died: "Good Friday 342 in Alexandria, Egypt"
@@ -12,9 +12,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 A large but unknown number of Catholics massacred in several churches during Good Friday services in Alexandria, Egypt by Arian heretics during the persecutions of Constantius and Philagrio.

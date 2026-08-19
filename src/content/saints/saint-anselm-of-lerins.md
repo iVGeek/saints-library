@@ -1,7 +1,7 @@
 ---
 name: "Saint Anselm of Lérins"
 honorific: Saint
-title: "Monk"
+title: "Saint Anselm of Lérins"
 summary: "Eighth century abbot of Lérins Abbey in France."
 deathYear: 750
 died: "c.750"

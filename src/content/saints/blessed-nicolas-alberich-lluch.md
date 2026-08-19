@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolás Alberich Lluch"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicolás Alberich Lluch"
 summary: "Member of the Salesians. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Valeriano Luis"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

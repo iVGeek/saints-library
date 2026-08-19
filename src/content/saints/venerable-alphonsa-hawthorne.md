@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alphonsa Hawthorne"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Alphonsa Hawthorne"
 summary: "Daughter of the New England author Nathaniel Hawthorne. Convert to Catholicism. Foundress of the Dominican Sisters of Saint Rose of Lima (Dominican Sisters for the Care of Incurable Cancer)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Mother-Alphonsa-Hawthorne.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Hildegard von Bingen"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Hildegard von Bingen"
 summary: "At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects for healing, and wrote treatises about nat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg"
 searchAliases:
@@ -20,8 +20,7 @@ feastDay:
   month: 9
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "Esperantists; Esperanto users or speakers"
@@ -30,7 +29,7 @@ patronage:
   - "in Germany\n\nBingen am Rhein"
   - "Böckelheim"
   - "Disibodenberg (Diessenberg)"
-martyr: true
+martyr: false
 ---
 
 At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects for healing, and wrote treatises about natural history and the medicinal uses of plants, animals, trees and stones. She is the first musical composer whose biography is known. She founded a vibrant convent, where her musical plays were performed. Interest in this extraordinary woman was initiated by musicologists and historians of science and religion. Unfortunately, Hildegard's visions and music have been hijacked by the New Age movement; New Age music bears some resemblance to Hildegard's ethereal airs. Her story is important to students of medieval history and culture, and an inspirational account of an irresistible spirit and vibrant intellect overcoming social, physical, cultural, gender barriers to achieve timeless transcendence.

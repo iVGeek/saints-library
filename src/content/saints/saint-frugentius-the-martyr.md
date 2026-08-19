@@ -1,7 +1,7 @@
 ---
 name: "Saint Frugentius the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Frugentius the Martyr"
 summary: "Benedictine monk at Fleury, France. Martyr."
 deathYear: 676
 died: "676 on a small island near Corsica, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

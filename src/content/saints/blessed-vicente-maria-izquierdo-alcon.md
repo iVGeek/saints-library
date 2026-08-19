@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente María Izquierdo Alcón"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente María Izquierdo Alcón"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-María-Izquierdo-Alcón.jpg"
 birthYear: 1891
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

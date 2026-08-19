@@ -1,7 +1,7 @@
 ---
 name: "Saint Jeroen of Noordwijk"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty, Missionary"
+title: "Saint Jeroen of Noordwijk"
 summary: "Born to the Scottish nobility, the son of a large land-owner. Known as a pious child who preferred to spend his time in church. Against the wishes of his parents, who wanted him to take over his father's estates, he became a monk in his teens. Priest. Missionary to the area of th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeroen-of-Noordwijk.jpg"
 searchAliases:
@@ -24,10 +24,8 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
   - Missionary
 patronage:
   - "to find lost articles"

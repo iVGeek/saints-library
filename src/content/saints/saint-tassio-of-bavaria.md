@@ -1,7 +1,7 @@
 ---
 name: "Saint Tassio of Bavaria"
 honorific: Saint
-title: "Monk"
+title: "Saint Tassio of Bavaria"
 summary: "Born to the nobility. Duke of Bavaria (in modern Germany). Founded and endowed many monasteries and churches. Retired to live his later days as a monk at Jumièges Abbey in France."
 searchAliases:
   - "Tassio of Jumièges"

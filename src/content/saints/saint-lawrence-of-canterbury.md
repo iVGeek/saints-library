@@ -1,7 +1,7 @@
 ---
 name: "Saint Lawrence of Canterbury"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Lawrence of Canterbury"
 summary: "Benedictine monk. At the order of Pope Saint Gregory the Great, he accompanied Saint Augustine of Canterbury to evangelize England in 597. Upon Augustine's death, Lawrence became archbishop of Canterbury. When the Britons began to abandon Christianity and return to the old pagan"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Laurence-Archbishop.jpg"
 deathYear: 619
@@ -17,8 +17,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

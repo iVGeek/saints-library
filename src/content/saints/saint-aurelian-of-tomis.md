@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurelian of Tomis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aurelian of Tomis"
 summary: "Martyr."
 died: "in Tomis, Scythia Minor (modern Constanta, Romania), date unknown"
 deathPlace: "Scythia Minor (modern Constanta, Romania), date unknown"
@@ -10,7 +10,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

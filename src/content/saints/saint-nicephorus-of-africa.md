@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicephorus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nicephorus of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 searchAliases:
   - "Nikeforus"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

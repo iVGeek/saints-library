@@ -1,7 +1,7 @@
 ---
 name: "Saint Peregrinus of Amiterno"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Peregrinus of Amiterno"
 summary: "Bishop of Amiterno (modern San Vittorino, Italy). Murdered by Arian Lombards for asking for mercy for a condemned prisoner. Martyr."
 searchAliases:
   - "Peregrinus of Aquila"
@@ -20,10 +20,8 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

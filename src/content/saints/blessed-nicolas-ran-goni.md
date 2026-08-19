@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolás Ran Goñi"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicolás Ran Goñi"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Ismael"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

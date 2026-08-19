@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustace of Vilna"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Eustace of Vilna"
 summary: "Young nobleman and chamberlain at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence."
 searchAliases:
   - "Eustachius"
@@ -15,7 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

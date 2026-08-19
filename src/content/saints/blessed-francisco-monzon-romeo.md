@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Monzón Romeo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Monzón Romeo"
 summary: "Dominican priest, professed in the Order on 4 October 1929 in Valencia, Spain. Following additional studies in Valencia and Salamanca, he was ordained a priest on 13 May 1936. Martyred in the Spanish Civil War a few months later."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Monzón-Romeo.jpg"
 birthYear: 1912
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

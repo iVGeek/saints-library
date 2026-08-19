@@ -1,7 +1,7 @@
 ---
 name: "Saint Trojan"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Trojan"
 summary: "His father was Jewish, his mother was Arabic, and Trojan was an adult convert to Christianity. Priest. Student of Saint Vivien. Beloved bishop of Saintes, France."
 searchAliases:
   - "Trojanus"

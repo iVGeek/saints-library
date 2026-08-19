@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Galvez"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Francis Galvez"
 summary: "Joined the Franciscan Friars Minor in 1591. Missionary to Manila, Philippines in 1609. Missionary to Japan in 1612. Forced to return to Manila in 1614 due to the persecutions in Japan. In 1618 he dyed his skin, assumed a disguise, and returned to evangelize Japan. He worked there"
 searchAliases:
   - "Francisco Gálvez Iranzo"
@@ -16,8 +16,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

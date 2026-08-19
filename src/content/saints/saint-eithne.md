@@ -1,7 +1,7 @@
 ---
 name: "Saint Eithne"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Eithne"
 summary: "Daughter of King Leoghaire of Ireland; sister of Saint Fedelemia. She and her sister met Saint Patrick near the fountain of Clebach, received instruction in Christianity, were baptized, received their First Communion, and died in an ecstasy of love. An ancient church was built ov"
 searchAliases:
   - "Ethenea"
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

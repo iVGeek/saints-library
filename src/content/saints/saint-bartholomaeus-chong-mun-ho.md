@@ -1,7 +1,7 @@
 ---
 name: "Saint Bartholomaeus Chong Mun-Ho"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Bartholomaeus Chong Mun-Ho"
 summary: "Layman of the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Bareutollomeo Jeong Mun-Hu"
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

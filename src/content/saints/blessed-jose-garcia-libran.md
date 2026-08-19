@@ -1,7 +1,7 @@
 ---
 name: "Blessed José García Librán"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José García Librán"
 summary: "Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-García-Librán.jpg"
 birthYear: 1909
@@ -16,9 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

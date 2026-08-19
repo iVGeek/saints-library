@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Yuan Gengyin"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Iosephus Yuan Gengyin"
 summary: "Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement and killed for being Christian. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Xianxian.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

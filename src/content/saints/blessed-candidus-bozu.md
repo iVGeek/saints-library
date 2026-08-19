@@ -1,7 +1,7 @@
 ---
 name: "Blessed Candidus “Bozu”"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Candidus “Bozu”"
 summary: "Child in the diocese of Niigata, Japan. Brother-in-law of Blessed Alexis Choemon. Martyr."
 birthYear: 1615
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

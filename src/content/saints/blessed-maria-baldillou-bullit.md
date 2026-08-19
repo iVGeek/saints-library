@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Baldillou Bullit"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Maria Baldillou Bullit"
 summary: "Nun, joining the Sisters of the Pious Schools at age 19, making her profession on 18 April 1927. Teacher and housekeeper of her house in Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

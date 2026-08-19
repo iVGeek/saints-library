@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frances Martel"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Frances Martel"
 summary: "Mercedarian sister. Founded the monastery of the Assumption in Seville, Spain. Known for her personal piety and deep prayer life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frances-Martel.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cirione of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cirione of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

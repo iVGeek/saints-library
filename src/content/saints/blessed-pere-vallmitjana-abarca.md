@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Vallmitjana Abarca"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pere Vallmitjana Abarca"
 summary: "Priest. Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."
 birthYear: 1875
 deathYear: 1937
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

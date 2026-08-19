@@ -1,7 +1,7 @@
 ---
 name: "Saint Ultan of Péronne"
 honorific: Saint
-title: "Priest, Monk, Missionary, Confessor"
+title: "Saint Ultan of Péronne"
 summary: "Brother of Saint Fursey of Péronne and Saint Foillan of Fosses. Fellow monk with them at Burgh Castle near Yarmouth, England. Missionary to Belgium where he served as a priest in the convent of Nivelles and worked with Saint Gertrude. Abbot at Fosses, Belgium. Abbot at Péronne, F"
 searchAliases:
   - "Ultan of Fosses"

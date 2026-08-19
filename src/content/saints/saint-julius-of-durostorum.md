@@ -1,7 +1,7 @@
 ---
 name: "Saint Julius of Durostorum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julius of Durostorum"
 summary: "Martyr."
 searchAliases:
   - "Julius of Dorostoro"
@@ -16,7 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

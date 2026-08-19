@@ -1,7 +1,7 @@
 ---
 name: "Saint Ethian"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Ethian"
 summary: "Bishop of Domhnach-Mor-mie-Laithbhe; we do not know where this would be in modern Ireland."
 searchAliases:
   - "Ethern"
@@ -12,9 +12,8 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Domhnach-Mor-mie-Laithbhe; we do not know where this would be in modern Ireland.

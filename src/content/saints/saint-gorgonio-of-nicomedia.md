@@ -1,7 +1,7 @@
 ---
 name: "Saint Gorgonio of Nicomedia"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Gorgonio of Nicomedia"
 summary: "Army officer and member of the staff in the house of emperor Diocletian. He was exposed as a Christian when he objected to the torture of fellow servant and Catholic, Saint Peter of Nicomedia. This led to his own arrest, torture and execution. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Nicomedia.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

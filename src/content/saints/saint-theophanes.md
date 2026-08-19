@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophanes"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theophanes"
 summary: "Officer in the Byzantine imperial court of Leo the Armenian. He was arrested with three others officers for treason because they opposed Leo's Iconoclasm. The other survived the torture and imprisonment and became monks, but Theophanes did not. Martyr."
 deathYear: 815
 died: "tortured to death in 815"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

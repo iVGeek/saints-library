@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintian"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quintian"
 summary: "One of a group people martyred in Catania, Sicily, date unknown. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

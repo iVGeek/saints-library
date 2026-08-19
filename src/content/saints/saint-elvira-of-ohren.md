@@ -1,7 +1,7 @@
 ---
 name: "Saint Elvira of Ohren"
 honorific: Saint
-title: "Religious"
+title: "Saint Elvira of Ohren"
 summary: "Nun. Abbess of a convent of Ohren in Trier, Germany."
 searchAliases:
   - "Elbirah"

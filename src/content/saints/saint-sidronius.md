@@ -1,7 +1,7 @@
 ---
 name: "Saint Sidronius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sidronius"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

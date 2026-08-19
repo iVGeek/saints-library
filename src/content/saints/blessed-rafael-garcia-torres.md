@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafaél García Torres"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Rafaél García Torres"
 summary: "Layan of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1904
 deathYear: 1938
@@ -14,8 +14,6 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

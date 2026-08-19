@@ -1,7 +1,7 @@
 ---
 name: "Saint Hildebrand of Saint-Gilles"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hildebrand of Saint-Gilles"
 summary: "Cistercian monk. Martyred by Albigensians."
 deathYear: 1209
 died: "1209 at Saint-Gilles, Languedoc, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

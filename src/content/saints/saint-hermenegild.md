@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermenegild"
 honorific: Saint
-title: "Monk"
+title: "Saint Hermenegild"
 summary: "Benedictine monk at Salcedo, diocese of Tui, Spanish Galatia. Helped Saint Rudesind spread the Benedictine Rule throughout northwest Spain."
 deathYear: 953
 born: "Spanish"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudinus of Soissons"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Gaudinus of Soissons"
 summary: "Bishop of Soissons, France in the late 7th and early 8th centuries. Martyred by loan sharks for preaching against them and their business."
 searchAliases:
   - "Gaudin"
@@ -13,7 +13,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

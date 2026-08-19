@@ -1,7 +1,7 @@
 ---
 name: "Saint Sylvanus of Pisidia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sylvanus of Pisidia"
 summary: "Tortured and martyred in the persecutions of Severian."
 died: "beheaded in Pisidia, Asia Minor in the early 4th-century"
 deathPlace: "Asia Minorthe early 4th-century"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

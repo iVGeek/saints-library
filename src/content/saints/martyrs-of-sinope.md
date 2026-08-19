@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Sinope"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Martyrs of Sinope"
 summary: "200 Christian soldiers martyred together for their faith. We don't even have their names."
 died: "Sinope, Pontus, Asia Minor (in modern Turkey)"
 deathPlace: "Pontus, Asia Minor (modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

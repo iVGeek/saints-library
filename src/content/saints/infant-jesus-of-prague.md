@@ -1,7 +1,7 @@
 ---
 name: "Infant Jesus of Prague"
 honorific: Saint
-title: "Virgin, Bishop, Priest"
+title: "Infant Jesus of Prague"
 summary: "The popularity of devotion to the Child Jesus grew in Baroque Spain, possibly caused by the visions of Saint Teresa of Avila. Several Spanish sculptures found their way to Prague (in the modern Czech Republic; they were made of wax, ivory, and bronze, and dressed in garments refl"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_a_sv._Ant_Jezul%C3%A1tko_1.jpg/960px-Kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_a_sv._Ant_Jezul%C3%A1tko_1.jpg"
 region: "Spain"

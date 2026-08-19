@@ -1,7 +1,7 @@
 ---
 name: "Saint Polydore Plasden"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Polydore Plasden"
 summary: "Son of a horn maker. Studied for the priesthood at Rheims, France and the English College in Rome, Italy. Ordained on 7 December 1586, he return to England to minister to covert Catholics during the persecutions of Queen Elizabeth I. Arrested on 2 November 1591 at the home of Sai"
 searchAliases:
   - "Oliver Palmer"
@@ -18,10 +18,7 @@ feastDay:
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Saint-polydore-plasden-and-companions.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

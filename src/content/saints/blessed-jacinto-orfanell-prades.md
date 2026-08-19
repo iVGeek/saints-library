@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto Orfanell-Prades"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Jacinto Orfanell-Prades"
 summary: "Dominican at Barcelona, Spain. Priest. Gifted teacher. Missionary to Japan. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Orfanell-Prades.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

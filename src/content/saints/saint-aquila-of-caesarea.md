@@ -1,7 +1,7 @@
 ---
 name: "Saint Aquila of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aquila of Caesarea"
 summary: "Martyred in the persecutions by Julian the Apostate."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

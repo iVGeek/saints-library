@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Carrasquer Ros"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Miguel Carrasquer Ros"
 summary: "Joined the Hospitallers of Saint John of God in 1917, making his final vows on 19 January 1921. Prior of his house. Martyred in the Spanish Civil War; he died while praying for his murderers. One of the Martyred Hospitallers of Spain."
 searchAliases:
   - "Brother Julian"
@@ -16,10 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

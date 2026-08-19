@@ -1,7 +1,7 @@
 ---
 name: "Saint Dacian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dacian of Rome"
 summary: "Martyr."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

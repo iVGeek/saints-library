@@ -1,7 +1,7 @@
 ---
 name: "Saint Helladius"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Helladius"
 summary: "Lay man martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Helladius.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

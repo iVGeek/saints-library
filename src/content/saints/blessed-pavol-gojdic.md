@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pavol Gojdic"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Pavol Gojdic"
 summary: "Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka, Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he consecrated himself and his work to the Sacred Heart. F"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pavol-Gojdic1.jpg"
 searchAliases:
@@ -19,12 +19,9 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka, Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he consecrated himself and his work to the Sacred Heart. Finishing his studies on 27 August 1911, he was ordained soon after. Worked briefly as assistant parish priest with his father. Prefect of the eparchial seminary, and taught religion in a higher secondary school. Supervised protocol and the archives in the diocesan curia. Assistant parish priest in Sabinov. Director of the episcopal office in 1919.

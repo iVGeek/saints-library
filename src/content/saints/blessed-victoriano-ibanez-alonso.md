@@ -1,7 +1,7 @@
 ---
 name: "Blessed Victoriano Ibañez Alonso"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Victoriano Ibañez Alonso"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1864
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

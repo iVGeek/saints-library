@@ -1,7 +1,7 @@
 ---
 name: "Saint Justus of Trieste"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Justus of Trieste"
 summary: "Citizen of Trieste, Italy known for his penance and charity. Martyred in the persecutions of Diocletian."
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/San_Giusto_%28cropped%29.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Servulus of Rome"
 honorific: Saint
-title: "Priest, Monk, Pope, Confessor"
+title: "Saint Servulus of Rome"
 summary: "Afflicted from birth with a severe palsy that prevented him from ever standing or even sitting unaided. His family carried him to the door of Saint Clement's church in Rome, Italy so he could beg for alms. He kept enough for the most meagre existence, giving the rest to beggars h"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/45/St._Servulus_of_Rome.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "against cerebral palsy"

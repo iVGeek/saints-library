@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iustus Takayama Ukon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Iustus Takayama Ukon"
 summary: "Born to a family of wealthy land owners in feudal Japan. After learning of Christianity from Jesuit missionaries, he converted at age 12. Married, layman, and a samurai. When Shogun Toyotomi Hideyoshi banned Christianity, Takayama refused to give up his faith, lost all his lands,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Iustus-Takayama-Ukon.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: true

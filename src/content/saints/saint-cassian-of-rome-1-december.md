@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cassian of Rome"
 summary: "Roman martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

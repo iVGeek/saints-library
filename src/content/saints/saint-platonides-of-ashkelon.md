@@ -1,7 +1,7 @@
 ---
 name: "Saint Platonides of Ashkelon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Platonides of Ashkelon"
 summary: "Deaconess. Founded a convent at Nisibis, Mesopotamia. Martyred with two others about whom we know nothing."
 deathYear: 308
 died: "308 in Ashkelon (in modern Israel)"
@@ -11,7 +11,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

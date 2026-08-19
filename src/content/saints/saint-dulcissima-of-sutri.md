@@ -1,7 +1,7 @@
 ---
 name: "Saint Dulcissima of Sutri"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Dulcissima of Sutri"
 summary: "Virgin martyr. Nothing else is known about her for sure, but her name has been entwined with the stories of many other martyrs."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dulcissima-of-Sutri.jpg"
 searchAliases:
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
 patronage:
   - "Sutri, Italy, city of"

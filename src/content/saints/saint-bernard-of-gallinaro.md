@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Gallinaro"
 honorific: Saint
-title: "Monk"
+title: "Saint Bernard of Gallinaro"
 summary: "English pilgrim."
 searchAliases:
   - "Bernhard"

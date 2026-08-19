@@ -1,7 +1,7 @@
 ---
 name: "Saint Theresa of Portugal"
 honorific: Saint
-title: "Religious, Pope, Royalty"
+title: "Saint Theresa of Portugal"
 summary: "Born a princess, the oldest daughter of King Sancho I. Married to King Alfonso IX of Leon, Spain; northern Portugal formed part of her dowry. Mother of three children. Several years into the marriage it was dissolved by the Vatican upon the revelation that Theresa and Alfonso wer"
 image: "http://catholicsaints.info/wp-content/uploads/Teresa_de_Portugal.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

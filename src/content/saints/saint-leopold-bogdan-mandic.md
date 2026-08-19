@@ -1,7 +1,7 @@
 ---
 name: "Saint Leopold Bogdan Mandic"
 honorific: Venerable
-title: "Virgin, Bishop, Priest, Pope, Cardinal, Royalty, Missionary, Confessor"
+title: "Saint Leopold Bogdan Mandic"
 summary: "Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and physically weak, his health became worse with age. He had a stammer, suffered abdominal pains, and was gradually deformed by chronic arthritis, making his frame stooped,"
 image: "http://catholicsaints.info/wp-content/gallery/saint-leopold-bogdan-mandic/saint-leopold-bogdan-mandic-01.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

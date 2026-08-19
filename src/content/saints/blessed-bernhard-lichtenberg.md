@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bernhard Lichtenberg"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Bernhard Lichtenberg"
 summary: "Priest in the diocese of Berlin, Germany. He served in the Berlin Cathedral, and was well known in civic circles. An out-spoken critic of the Nazis and their anti-Semitism, Father Berhard organized protests outside the concentration camps, led public prayers for the Jews after th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernhard-Lichtenberg.jpg"
 birthYear: 1875
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

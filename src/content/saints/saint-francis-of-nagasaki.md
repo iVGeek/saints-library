@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis of Nagasaki"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Francis of Nagasaki"
 summary: "Physician. Adult convert to Catholicism by Franciscan missionaries. Even before his conversion he carried a set of rosary beads. Franciscan tertiary. Catechist and preacher. Worked with the sick, treating them for free, and bringing religious teaching to those who were interested"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

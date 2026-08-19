@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pietro Riminucci"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Pietro Riminucci"
 summary: "Franciscan Capuchin friar."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-Riminucci.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

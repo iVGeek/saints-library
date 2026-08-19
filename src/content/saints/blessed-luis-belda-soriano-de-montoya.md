@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Belda Soriano de Montoya"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Luis Belda Soriano de Montoya"
 summary: " Educated as a lawyer, Luis was appointed state' Baptized at the age of two days, he made his First Communion in Madrid, Spain on 27 October 1910. His father was a pious man who helped organize the 22nd International Eucharistic Congress, but died when Luis was only 10 years old."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Belda-Soriano-de-Montoya.jpg"
 birthYear: 1901
@@ -16,10 +16,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

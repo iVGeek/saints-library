@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria of Haarlem"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Maria of Haarlem"
 summary: "Widow. Martyred by Calvinists."
 deathYear: 1572
 died: "1572 in Haarlem, Netherlands"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

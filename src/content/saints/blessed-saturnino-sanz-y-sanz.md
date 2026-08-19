@@ -1,7 +1,7 @@
 ---
 name: "Blessed Saturnino Sanz y Sanz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Saturnino Sanz y Sanz"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Pablo de la Cruz"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

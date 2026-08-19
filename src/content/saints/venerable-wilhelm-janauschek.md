@@ -1,7 +1,7 @@
 ---
 name: "Venerable Wilhelm Janauschek"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Wilhelm Janauschek"
 summary: "Remptorist priest."
 birthYear: 1859
 deathYear: 1926
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Redemptorist"
 martyr: false
 ---

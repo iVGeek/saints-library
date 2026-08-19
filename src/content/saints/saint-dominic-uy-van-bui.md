@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominic Uy Van Bui"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Dominic Uy Van Bui"
 summary: "Catechist. Arrested for his faith, he was ordered to repudiate Christianity; he refused. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 birthYear: 1813
@@ -13,9 +13,7 @@ feastDay:
   month: 12
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

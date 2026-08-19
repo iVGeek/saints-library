@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnes Kim Hyo-ch'u"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Agnes Kim Hyo-ch'u"
 summary: "Young lay woman in the apostolic vicariate of Korea. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

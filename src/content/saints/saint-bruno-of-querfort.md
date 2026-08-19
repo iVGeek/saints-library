@@ -1,7 +1,7 @@
 ---
 name: "Saint Bruno of Querfort"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Missionary"
+title: "Saint Bruno of Querfort"
 summary: "Great-uncle of Saint Bruno of Wurzburg. In 996 he accompanied Emperor Otto III to Rome, Italy where he met Saint Adalbert of Prague. Spiritual student of Saint Romuald and Saint Adalbert of Magdeburg. Wrote a biography of Saint Adalbert, and of the martyred monks known as The Fiv"
 image: "http://catholicsaints.info/wp-content/uploads/Bruno_of_Querfurt.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

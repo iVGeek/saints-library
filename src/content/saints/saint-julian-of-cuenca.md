@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Cuenca"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Hermit, Royalty"
+title: "Saint Julian of Cuenca"
 summary: "Educated at the cathedral school of Burgos, Spain and the University of Palencia, Spain. Taught theology and philosophy at Palencia from 1153 to 1163. Worked on the side making basket and trade goods for extra money, and then would gave away almost everything to the poor. In 1163"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eugenio_Caj%C3%A9s_%281575-1634%29_-_San_Juli%C3%A1n%2C_Bishop_of_Cuenca_-_PC.98_-_Pollok_House.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

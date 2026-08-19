@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Mayol Oliver"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francesc Mayol Oliver"
 summary: "Professed religious brother. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil War."
 birthYear: 1871
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

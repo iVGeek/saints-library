@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elisa Martinez"
 honorific: Blessed
-title: "Bishop, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Elisa Martinez"
 summary: "Elisa early felt a call to religious life, and at the age of 23 joined the Sisters of Our Lady of Charity of the Good Shepherd in Angers, France. She made her first profession on 29 September 1930, taking the name Sister Maria Lucia and was assigned to the house in Chieti, Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Elisa-Martinez.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dénise Leclerc"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope, Royalty, Missionary"
+title: "Blessed Dénise Leclerc"
 summary: "Member of the Missionary Sisters of Our Lady of the Apostles, joining on 4 March 1959, taking the name Sister Bibiane, and making her first vows on 8 March 1961. She was assigned to a maternity ward in Algeria, working with infants and new mothers. In 1964 she was assigned to tea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dénise-Leclerc.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Missionary
 martyr: true
 ---

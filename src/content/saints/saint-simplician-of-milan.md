@@ -1,7 +1,7 @@
 ---
 name: "Saint Simplician of Milan"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Pope"
+title: "Saint Simplician of Milan"
 summary: "Raised in a Christian family. Teacher and catechist. Priest. Instrumental in the conversion of both Saint Alipius of Tagaste and Saint Augustine of Hippo, who remembered his fondly, wrote about him with deep gratitude, calling him the “spiritual father of my soul”, and would subm"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simpliciano-of-Milan.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

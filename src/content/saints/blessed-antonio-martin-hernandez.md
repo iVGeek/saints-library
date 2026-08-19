@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Martín Hernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antonio Martín Hernández"
 summary: "Raised in a pious family, Antonio felt called to the Salesian charism of teaching. After training in Salamanca, Spain and earning his certification as a teacher, he joined the Salesians. Ordained a priest in 1919. Antonio studied to be a Salesian and taught at Campello, Spain, an"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Martin-Hernandez.jpg"
 birthYear: 1885
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Abudemius of Bozcaada"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abudemius of Bozcaada"
 summary: "Tortured and martyred for refusing to eat meat sacrificed to idols during the persecutions of Diocletian."
 searchAliases:
   - "Abudemius of Tenedos"
@@ -14,8 +14,7 @@ feastDay:
   month: 7
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

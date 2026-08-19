@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Matha"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Hermit, Royalty, Soldier, Confessor"
+title: "Saint John of Matha"
 summary: " At the first Mass he celebrated, John received a vision of an angel clothed in white with a red and blue cross on Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._John_of_Matha_discussing_the_Gospel_with_a_Pirate.jpg/960px-St._John_of_Matha_discussing_the_Gospel_with_a_Pirate.jpg"
 birthYear: 1160
@@ -16,8 +16,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Dominican"
@@ -26,7 +24,7 @@ patronage:
   - "–"
   - "in France\n\nFaucon"
   - "Meaux"
-martyr: true
+martyr: false
 ---
 
 Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197.

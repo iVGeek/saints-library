@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Benedict Cottolengo"
 honorific: Saint
-title: "Confessor"
+title: "Saint Joseph Benedict Cottolengo"
 summary: " For several years, Joseph treate Born to a middle class family. Studied at the seminary in Turin, Italy. Ordained in 1811. Parish priest in Bra and Corneliano d'Alba. Doctor of Divinity. Joined the Order of the Corpus Christi in Turin. Canon of the Church of the Trinity in Turin."
 image: "http://catholicsaints.info/wp-content/uploads/img-Giuseppe-Benedetto-Cottolengo.jpg"
 searchAliases:

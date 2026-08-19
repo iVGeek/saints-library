@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fortunato Merino Vegas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Fortunato Merino Vegas"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

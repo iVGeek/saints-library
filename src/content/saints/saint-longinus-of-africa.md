@@ -1,7 +1,7 @@
 ---
 name: "Saint Longinus of Africa"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Longinus of Africa"
 summary: "Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric."
 deathYear: 485
 died: "beheaded c.485"
@@ -11,10 +11,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

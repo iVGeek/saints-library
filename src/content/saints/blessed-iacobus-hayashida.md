@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Hayashida"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Iacobus Hayashida"
 summary: "Convert. Layman. Dominican tertiary. Martyr. One of the 205 Martyrs of Japan."
 searchAliases:
   - "Iacobus Fayaxida"
@@ -15,9 +15,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

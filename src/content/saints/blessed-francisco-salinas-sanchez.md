@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Salinas Sánchez"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco Salinas Sánchez"
 summary: "Layman in the diocese of Almeria, Spain. Franciscan Friars Minor aspirant. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1938
@@ -14,8 +14,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

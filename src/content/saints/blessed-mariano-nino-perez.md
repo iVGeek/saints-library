@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mariano Niño Pérez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Mariano Niño Pérez"
 summary: "Joined the Hospitallers of Saint John of God in 1900, making his vows on 21 June 1904. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Niño-Pérez.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

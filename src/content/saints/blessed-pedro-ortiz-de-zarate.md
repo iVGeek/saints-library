@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Ortiz de Zárate"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Pedro Ortiz de Zárate"
 summary: "Priest in the diocese of Orán, Argentina. Missionary to the Tobas, Mocovíes and Mataguayos people in Argentina. Martyred with a fellow priest and 23 converts by Tobas and Mocovíes members for bringing Christianity."
 birthYear: 1622
 deathYear: 1683
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 religiousOrder: "Jesuit"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph Tien"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Joseph Tien"
 summary: "Priest in the apostolic vicariate of Thanh Hoá (in modern Laos). Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Tien.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

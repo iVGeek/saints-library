@@ -1,7 +1,7 @@
 ---
 name: "Saint Dorotheus of Tyre"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Dorotheus of Tyre"
 summary: "Priest, scholar, and author at Tyre, Lebanon. Driven into exile during the persecutions of Diocletian, but later returned. Bishop of Tyre. Attended the Council of Nicaea in 325. Driven into exile at Odyssopolis, Thrace by Julian the Apostate. There the 107 year old priest was arr"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dorotheus_of_Tyre_%28Menologion_of_Basil_II%29.jpg/960px-Dorotheus_of_Tyre_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

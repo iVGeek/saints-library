@@ -1,7 +1,7 @@
 ---
 name: "Venerable Ignacy Posadzy"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Royalty, Missionary"
+title: "Venerable Ignacy Posadzy"
 summary: "Ordained a priest on 19 February 1921. He developed a ministry to Polish migrants in the period between the world wars, then to the oppressed Polish Christians during the occupations by the Nazis and then the Communists. Co-founded the Society of Christ for Poles Living Abroad (T"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Ignacy_Posadzy.jpg"
 birthYear: 1898
@@ -16,11 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Ordained a priest on 19 February 1921. He developed a ministry to Polish migrants in the period between the world wars, then to the oppressed Polish Christians during the occupations by the Nazis and then the Communists. Co-founded the Society of Christ for Poles Living Abroad (Towarzystwo Chrystusowe dla Polonii Zagranicznej), and served as its Superior-General from 22 August 1932 to 5 July 1968. Founded the Missionary Sisters of Christ the King for Poles Living Abroad (Sióstr Misjonarek Chrystusa Króla dla Polonii Zagranicznej). Father Ignacy served near 63 years in the priesthood.

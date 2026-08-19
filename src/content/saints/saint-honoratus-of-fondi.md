@@ -1,7 +1,7 @@
 ---
 name: "Saint Honoratus of Fondi"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Honoratus of Fondi"
 summary: "Sixth century Benedictine monk. Founder and abbot of the monastery at Fondi, southern Italy. Pope Saint Gregory the Great wrote a brief biography of him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Honoratus-of-Fondi.jpg"
 region: "Italy"
@@ -10,13 +10,11 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Fondi, Italy"
-martyr: true
+martyr: false
 ---
 
 Sixth century Benedictine monk. Founder and abbot of the monastery at Fondi, southern Italy. Pope Saint Gregory the Great wrote a brief biography of him.

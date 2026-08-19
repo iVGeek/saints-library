@@ -1,7 +1,7 @@
 ---
 name: "Saint Didacus of Alcalá"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Hermit, Royalty, Missionary, Confessor"
+title: "Saint Didacus of Alcalá"
 summary: "Didacus loved and felt drawn to the solitary life from his youth, and when still young he became a hermit who supported himself by weaving mats. Franciscan lay-brother at the convent of Arizafa. Though he lacked a formal education, he was sought out for his insights into the Chri"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Francisco_de_Zurbar%C3%A1n_-_Saint_Didacus_of_Alcal%C3%A1.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Saint_Didacus_of_Alcal%C3%A1.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
   - Confessor

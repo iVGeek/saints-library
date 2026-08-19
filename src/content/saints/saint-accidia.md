@@ -1,7 +1,7 @@
 ---
 name: "Saint Accidia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Accidia"
 summary: "Martyred in Africa. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Brónach of Glen-Seichis"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious"
+title: "Saint Brónach of Glen-Seichis"
 summary: "Nun. Abbess of Gleannsechis (Kill-sechis), Ireland."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bronach.jpg"
 searchAliases:

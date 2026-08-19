@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques Ledoyen"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jacques Ledoyen"
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1760
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

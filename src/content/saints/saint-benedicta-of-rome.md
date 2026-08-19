@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedicta of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Benedicta of Rome"
 summary: "Nun in 6th century Rome, Italy. Friend of Saint Galla who had founded their monastery. She received a vision of Saint Peter the Apostle warning her of her death."
 searchAliases:
   - "Benedikta"
@@ -14,11 +14,10 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun in 6th century Rome, Italy. Friend of Saint Galla who had founded their monastery. She received a vision of Saint Peter the Apostle warning her of her death.

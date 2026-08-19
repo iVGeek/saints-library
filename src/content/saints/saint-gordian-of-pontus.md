@@ -1,14 +1,13 @@
 ---
 name: "Saint Gordian of Pontus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gordian of Pontus"
 summary: "Martyred with several unnamed companions."
 feastDay:
   month: 9
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

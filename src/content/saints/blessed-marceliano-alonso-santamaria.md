@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marceliano Alonso Santamaría"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Marceliano Alonso Santamaría"
 summary: "Member of the Claretians, professed on 15 August 1923. Ordained a priest on 21 June 1931. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

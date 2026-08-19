@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodichildis"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Theodichildis"
 summary: "Nun at Faremoutiers, France. First Abbess of Jouarre Abbey, Seine-et-Marne, France."
 searchAliases:
   - "Telchildis"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucretia of Mérida"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Lucretia of Mérida"
 summary: "Consecrated virgin. Martyred in a period of imperial Roman persecution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lucretia-of-Merida.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

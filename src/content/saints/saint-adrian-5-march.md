@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrian of Caesarea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Adrian of Caesarea"
 summary: "Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint Eubulus in the persecutions of governor Firmilian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

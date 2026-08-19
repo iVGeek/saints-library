@@ -1,7 +1,7 @@
 ---
 name: "Venerable Sebastián Elorza Arizmendi"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Sebastián Elorza Arizmendi"
 summary: "Augustinian friar."
 birthYear: 1882
 deathYear: 1942
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: false
 ---

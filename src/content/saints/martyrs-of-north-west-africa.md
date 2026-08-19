@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of North-West Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Martyrs of North-West Africa"
 summary: "Large group of Christians murdered while celebrating Easter Mass during the persecutions of Genseric, the Arian king of the Vandals."
 searchAliases:
   - "Martyrs of Aquae Regiae"
@@ -15,10 +15,8 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Large group of Christians murdered while celebrating Easter Mass during the persecutions of Genseric, the Arian king of the Vandals.

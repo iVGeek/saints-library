@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Battista Pinardi"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Giovanni Battista Pinardi"
 summary: "Studied theology under Blessed Giuseppe Allamano and Blessed Luigi Boccardo. Ordained a priest in the archdiocese of Turin, Italy on 29 June 1903. Parish priest in Carmagnola, Italy and then in Turin. Chosen auxiliary bishop of Turin and titular bishop of Eduoxias on 24 January 1"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Battista-Pinardi.jpg"
 birthYear: 1880
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

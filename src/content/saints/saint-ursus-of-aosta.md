@@ -1,7 +1,7 @@
 ---
 name: "Saint Ursus of Aosta"
 honorific: Saint
-title: "Bishop, Deacon, Royalty"
+title: "Saint Ursus of Aosta"
 summary: "Evangelized the area of Digne, France. Fought Arianism. Archdeacon under Bishop Jucundus of Aosta, Italy. When the Arian Ploziano became bishop of Aosta, Ursus and several other canons relocated to the church of Saint Peter just outside Aosta; the site is now known as Sant' Orso,"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/UrsusofAosta.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Deacon
-  - Royalty
 patronage:
   - "against back pain"
   - "against faintness"

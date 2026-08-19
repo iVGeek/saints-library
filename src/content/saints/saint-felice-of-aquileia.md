@@ -1,7 +1,7 @@
 ---
 name: "Saint Felice of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felice of Aquileia"
 summary: "Brother of Saint Fortunatus of Aquileia. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Felice of Vincenza"
@@ -17,7 +17,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Chioggia, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Franco Gómez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed José Franco Gómez"
 summary: "Joined the Hospitallers of Saint John of God in 1893, making his vows on 7 April 1895. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Canuto"
@@ -16,10 +16,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

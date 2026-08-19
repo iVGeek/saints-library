@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Fermo"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Philip of Fermo"
 summary: "Bishop of Fermo, Italy. Martyred in the persecutions of Aurelian."
 deathYear: 270
 died: "c.270 in Fermo, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

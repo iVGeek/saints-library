@@ -1,7 +1,7 @@
 ---
 name: "Holy Innocents"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Holy Innocents"
 summary: " When Herod realized that he had been deceived by the magi, he became furious. He ordered the massacre of all the boys in Bethlehem and its vicinity two years old and under, in accordance with th The children slaughtered by Herod the Great when he tried to kill the infant Christ."
 image: "http://catholicsaints.info/wp-content/gallery/holy-innocents/holy-innocents-04.jpg"
 searchAliases:
@@ -13,11 +13,9 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against ambition"
@@ -29,7 +27,7 @@ patronage:
   - "choir boys"
   - "foundlings"
   - "students"
-martyr: true
+martyr: false
 ---
 
 The children slaughtered by Herod the Great when he tried to kill the infant Christ.

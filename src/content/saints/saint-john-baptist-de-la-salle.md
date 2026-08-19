@@ -1,7 +1,7 @@
 ---
 name: "Saint John Baptist de La Salle"
 honorific: Saint
-title: "Confessor, Martyr"
+title: "Saint John Baptist de La Salle"
 summary: " Spiritual director of Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Baptiste-de-La-Salle.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Franciscan"
 patronage:
@@ -27,7 +26,7 @@ patronage:
   - "school principals"
   - "teachers (proclaimed on 15 May 1950 by Pope Pius XII)"
   - "Brothers of the Christian Schools"
-martyr: true
+martyr: false
 ---
 
 Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentine of Terni"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Valentine of Terni"
 summary: "Ordained by Saint Felician of Foligno. Consecrated bishop of Terni, Italy by Pope Victor I, c.197. Noted evangelist, miracle worker and healer, he was much loved by his flock. Imprisoned, tortured, and beheaded by order of the prefect Placid Furius during the persecution of Aurel"
 image: "http://catholicsaints.info/wp-content/gallery/saint-valentine-of-terni/saint-valentine-of-terni-01.jpg"
 birthYear: 175
@@ -15,11 +15,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
 patronage:
   - "locations in Italy\n\nAbriola"
   - "Altivole"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander Briant"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Alexander Briant"
 summary: " Returned to Somersetshire, England as a missioner in August 1579. Arrested on Born to a yoeman family, described as a handsome young man, and raised Protestant. Studied in Oxford. Convert to Catholicism. Studied at the English College at Rheims, France. Ordained on 29 March 1578."
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alexander_Briant.jpg"
 birthYear: 1556
@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

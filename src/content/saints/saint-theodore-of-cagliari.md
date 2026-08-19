@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Cagliari"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodore of Cagliari"
 summary: "Martyr."
 deathYear: 300
 died: "c.300 in Sardinia, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

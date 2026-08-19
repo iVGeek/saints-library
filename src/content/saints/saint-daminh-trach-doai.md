@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Trach Ðoài"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Ðaminh Trach Ðoài"
 summary: "Raised a devout Catholic. Dominican tertiary. Priest. Worked in the missions until his arrest in 1842. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ðaminh-Trach-Ðoài.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

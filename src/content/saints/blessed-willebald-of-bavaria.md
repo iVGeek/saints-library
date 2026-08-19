@@ -1,7 +1,7 @@
 ---
 name: "Blessed Willebald of Bavaria"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Willebald of Bavaria"
 summary: "Born to the 13th century German nobility, he fell ill and died on the road in Bavaria while on pilgrimage. Given a Christian burial by local people, his tomb soon became the site of miracles."
 deathYear: 1230
 died: "1230 on the road in Bavaria, Germany of natural causes"

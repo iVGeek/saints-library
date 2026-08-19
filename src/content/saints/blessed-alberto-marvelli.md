@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alberto Marvelli"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Alberto Marvelli"
 summary: "Son of Alfredo and Maria Marvelli. His father was a bank employee, and his mother was very active in Catholic charities. Educated by the Salesians and Catholic Action; Alberto joined Catholic Action at age 12 and was a member the rest of his life. Lay man. Civil engineer. He work"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/AlbertoMarvellii.jpg/960px-AlbertoMarvellii.jpg"
 birthYear: 1918
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

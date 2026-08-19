@@ -1,7 +1,7 @@
 ---
 name: "Many Martyrs of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Many Martyrs of Alexandria"
 summary: "An unknown number of Christians who were martyred together by a mob of worshippers of the Graeco-Egyptian sun god Serapis."
 searchAliases:
   - "Martyrs of Serapis"
@@ -14,7 +14,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

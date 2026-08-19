@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stephen of Africa"
 summary: "Martyred in North Africa. No other information has survived."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

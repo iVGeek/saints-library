@@ -1,7 +1,7 @@
 ---
 name: "Saint Fermus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fermus of Rome"
 summary: "Martyr."
 searchAliases:
   - "Fermo"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Isenger of Verdun"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Isenger of Verdun"
 summary: "Monk at the Anabaric monastery in Ireland. Priest. Ninth-century bishop of Verdun (in modern France)."
 region: "France"
 feastDay:

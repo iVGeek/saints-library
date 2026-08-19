@@ -1,7 +1,7 @@
 ---
 name: "Saint Candida Maria de Jesus Cipitria y Barriola"
 honorific: Venerable
-title: "Pope"
+title: "Saint Candida Maria de Jesus Cipitria y Barriola"
 summary: "Oldest of seven children born to Juan Miguel Cipitria and María Jesús Barriola. The family were weavers, and Juana learned the craft as a child. At age 18 she left home to work as a maid to a family in Burgos, Spain. Juana early felt a call to religious life, and on 8 December 18"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-candida-maria-de-jesus-cipitria-y-barriola/blessed-candida-maria-de-jesus-cipitria-y-barriola-01.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 8
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 patronage:
   - "Daughters of Jesus"
 martyr: false

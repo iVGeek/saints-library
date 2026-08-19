@@ -1,7 +1,7 @@
 ---
 name: "Saint Isicio of Antioch"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Isicio of Antioch"
 summary: "Priest. Martyr."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

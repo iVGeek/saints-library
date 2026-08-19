@@ -1,7 +1,7 @@
 ---
 name: "Saint Diogenes of Milan"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Diogenes of Milan"
 summary: "Martyr."
 searchAliases:
   - "Theotecnus"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Sithney"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Sithney"
 summary: "Emigrated from Britain to Guic-Sezni, Brittany (in modern France) where he founded a monastery. A Breton legend says that God chose Sithney to be the patron of girls seeking husbands; the saint begged off, saying he would never get to rest, that he would rather take care of mad d"
 searchAliases:
   - "Sezin"
@@ -18,7 +18,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Guiss%C3%A9ny_
 vocation:
   - Bishop
   - Monk
-  - Royalty
 patronage:
   - "against hydrophobia"
   - "against rabies"

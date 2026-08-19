@@ -1,7 +1,7 @@
 ---
 name: "Saint Avitus of Vienne"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Avitus of Vienne"
 summary: "Son of Saint Isychius. Brother of Saint Apollinaris of Valence. Bishop of Vienne, France, succeeding his father. Fought Arianism, ransomed captives, and supported papal authority as the mainstay of religious unity. Brought King Saint Sigismund of Burgundy, and was well thought of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Saint_Avit_sculpture.JPG/960px-Saint_Avit_sculpture.JPG"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

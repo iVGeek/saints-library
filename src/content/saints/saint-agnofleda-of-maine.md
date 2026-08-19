@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnofleda of Maine"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Agnofleda of Maine"
 summary: "Nun. Spiritual student of Saint Lonochilus of Maine."
 searchAliases:
   - "Agneflette"

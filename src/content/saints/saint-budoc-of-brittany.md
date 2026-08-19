@@ -1,7 +1,7 @@
 ---
 name: "Saint Budoc of Brittany"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Budoc of Brittany"
 summary: "Born a prince, the son of a king of Brittany; his mother was Azenor, princess of Brest, France. Legend says that his mother was set adrift in a cask, and that Budoc was born at sea with Saint Brigid of Ireland in attendance. Educated in a monastery near Waterford, Ireland. Abbot"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Budoc-Trégarvan-Presquile-de-Crozon.jpg"
 searchAliases:
@@ -30,10 +30,8 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 patronage:
   - "castaways"
   - "fishermen"
@@ -41,7 +39,7 @@ patronage:
   - "—"
   - "Plourin, France"
   - "Plymouth, England"
-martyr: true
+martyr: false
 ---
 
 Born a prince, the son of a king of Brittany; his mother was Azenor, princess of Brest, France. Legend says that his mother was set adrift in a cask, and that Budoc was born at sea with Saint Brigid of Ireland in attendance. Educated in a monastery near Waterford, Ireland. Abbot at Youghal, Ireland. Bishop of Dol, Brittany for 26 years. Several places in Devon and Cornwall in England are named after him.

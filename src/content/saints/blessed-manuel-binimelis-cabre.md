@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Binimelis Cabré"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Manuel Binimelis Cabré"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

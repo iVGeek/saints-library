@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregory Decapolites"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Gregory Decapolites"
 summary: "Ninth century monk. Hermit. Pilgrim. An opponent of the iconoclasts, at whose hands he suffered."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Decapolites.jpg"
 deathYear: 842
@@ -14,10 +14,9 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Ninth century monk. Hermit. Pilgrim. An opponent of the iconoclasts, at whose hands he suffered.

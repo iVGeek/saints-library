@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillaume-Antoine Delfaut"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Guillaume-Antoine Delfaut"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1733
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Stephen"
 summary: "Early martyr venerated in England. No other information has survived."
 region: "England"
 feastDay:
@@ -10,7 +10,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/4/49/StStephen_GiacomoCavedone.jpg"
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

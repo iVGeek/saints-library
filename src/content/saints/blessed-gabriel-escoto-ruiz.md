@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gabriel Escoto Ruiz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gabriel Escoto Ruiz"
 summary: "Carmelites of the Ancient Observance novice. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother José María"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

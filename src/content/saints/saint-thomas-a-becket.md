@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas a Becket"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Royalty, Soldier"
+title: "Saint Thomas a Becket"
 summary: "Of Norman ancestry. Educated at Merton Priory, the University of Paris, in Bologna, Italy, and in Auxerre, France. Civil and canon lawyer. Soldier and officer. Archdeacon of Canterbury, England, ordained in 1154. Friend of King Henry II. Chancellor of England. Ordained on 2 June"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Thomas-a-Becket.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

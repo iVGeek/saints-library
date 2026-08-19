@@ -1,7 +1,7 @@
 ---
 name: "Saint Elaeth the King"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Elaeth the King"
 summary: "Sixth century king in northern Britain. Driven into Wales by the Picts, he surrended authority and became a monk. Spiritual student of Saint Seiriol and Saint Meirion at Anglesey, Wales. Poet, some of whose works have survived to today."
 searchAliases:
   - "Elaeth Frenluuin"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 patronage:
   - "Llaneleth, Anglesea, Wales"
 martyr: false

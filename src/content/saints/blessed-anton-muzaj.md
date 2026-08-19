@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anton Muzaj"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Anton Muzaj"
 summary: "Studied at the Pontifical French Seminary in Shkodrë, Albania, then in 1938 in Rome, Italy at the Congregation Propaganda Fide, and then theology at the Gregorian University. Ordained on 19 March 1944 as a priest in the archdiocese of Shkodrë-Pult, Albania. He returned to Kosovo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Anton-Muzaj.jpg"
 birthYear: 1921
@@ -16,11 +16,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

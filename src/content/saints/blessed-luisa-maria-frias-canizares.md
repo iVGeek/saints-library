@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luisa María Frías Cañizares"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luisa María Frías Cañizares"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luisa-Maria-Frias-Canizares.jpg"
 birthYear: 1896
@@ -15,9 +15,7 @@ feastDay:
   month: 12
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

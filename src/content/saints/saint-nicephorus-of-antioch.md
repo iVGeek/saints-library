@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicephorus of Antioch"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Nicephorus of Antioch"
 summary: "Martyred in the persecutions of Valerian."
 searchAliases:
   - "Niceforus"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Anastasius Hartmann"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Royalty, Missionary"
+title: "Venerable Anastasius Hartmann"
 summary: "Capuchin Franciscan Friar. Educated in Solothurn. Ordained in 1825. Energetic missionary to India beginning in Agra in 1843. Vicar Apostolic of Patna, India (modern diocese of Allahabad) in 1845. Titular Bishop of Derbe on 13 March 1846. Administrator-Apostolic of Bombay, India i"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Anastasius_Hartmann_1850.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

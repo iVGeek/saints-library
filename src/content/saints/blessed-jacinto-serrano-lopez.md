@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto Serrano López"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jacinto Serrano López"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Serrano-Lopez.jpg"
 birthYear: 1901
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marciana"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Marciana"
 summary: "Young Christian girl who was beaten, tortured and handed over to gladiators as a sex toy during the persecutions of Diocletian; she brought one of the gladiators to Christianity. Accused of vandalizing an idol of the goddess Diana, she was thrown to wild animals in the arena. Mar"
 deathYear: 303
 born: "Rusuccuru, Mauritania"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Poggio_Elba_Island_Tuscany.jpg"
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

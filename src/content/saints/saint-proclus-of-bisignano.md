@@ -1,7 +1,7 @@
 ---
 name: "Saint Proclus of Bisignano"
 honorific: Saint
-title: "Monk"
+title: "Saint Proclus of Bisignano"
 summary: "As a young layman, he lived a very ascetic life, spending his days roaming from town to town in order to worship in all the churches he could find. Monk. Known for his extensive learning and knowledge, his wide reading, and his ability to speak on many topics."
 searchAliases:
   - "Prodo"

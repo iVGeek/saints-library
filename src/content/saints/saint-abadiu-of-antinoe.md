@@ -1,7 +1,7 @@
 ---
 name: "Saint Abadiu of Antinoë"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Abadiu of Antinoë"
 summary: "Bishop of Antinoë. Martyred by Arians."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 martyr: true

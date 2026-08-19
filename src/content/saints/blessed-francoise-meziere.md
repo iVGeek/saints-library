@@ -1,7 +1,7 @@
 ---
 name: "Blessed Françoise Mézière"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Françoise Mézière"
 summary: "Lay woman in the diocese of Laval, France. Martyred in the French Revolution."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Martyrs-of-Laval.jpg"
 birthYear: 1745
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

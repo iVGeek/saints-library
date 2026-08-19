@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucia Wang Cheng"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Lucia Wang Cheng"
 summary: "Girl who grew up in an Christian-run orphanage in Wangla, apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lucia-Wang-Cheng.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 28
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

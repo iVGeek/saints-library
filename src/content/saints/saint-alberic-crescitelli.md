@@ -1,7 +1,7 @@
 ---
 name: "Saint Alberic Crescitelli"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Alberic Crescitelli"
 summary: "Seminarian at age twelve. Studied at the Pontifical Seminary for Foreign Missions in Rome. Ordained in 1887. Joined the Milan Foreign Missionary Society, the predecessor of the Pontifical Institute for Foreign Missions (PIME), in 1888. Missionary in the Shensi Province in China n"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/57/Alb%C3%A9ric_Crescitelli.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

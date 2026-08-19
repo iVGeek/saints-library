@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Terracina"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Silvanus of Terracina"
 summary: "Fourth-century bishop of Terracina, Italy."
 region: "Italy"
 feastDay:

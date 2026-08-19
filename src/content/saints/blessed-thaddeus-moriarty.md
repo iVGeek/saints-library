@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thaddeus Moriarty"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Thaddeus Moriarty"
 summary: "Dominican priest. One of the Irish Martyrs."
 deathYear: 1653
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Kisaku"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Ioannes Kisaku"
 summary: "Jesuit novice. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

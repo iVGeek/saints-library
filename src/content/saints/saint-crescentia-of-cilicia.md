@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentia of Cilicia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescentia of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Criscentia"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

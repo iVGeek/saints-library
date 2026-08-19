@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosia the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodosia the Martyr"
 summary: "Martyred by Julian the Apostate."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

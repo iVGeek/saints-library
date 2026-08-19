@@ -1,7 +1,7 @@
 ---
 name: "Saint Giovanni Battista Scalabrini"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Royalty, Missionary"
+title: "Saint Giovanni Battista Scalabrini"
 summary: "Third of eight children in a deeply religious family. Studied philosophy and theology at the seminary at Como, Italy. Ordained on 30 May 1863. Professor and rector of Saint Abundius Seminary. Pastor of Saint Bartholomew's Church in 1870. Bishop of Piacenza, Italy on 30 January 18"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Giovanni_Battista_Scalabrini.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

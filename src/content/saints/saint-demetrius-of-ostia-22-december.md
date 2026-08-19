@@ -1,7 +1,7 @@
 ---
 name: "Saint Demetrius of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Demetrius of Ostia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Demetrio"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

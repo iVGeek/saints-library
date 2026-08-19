@@ -1,7 +1,7 @@
 ---
 name: "Saint Gorgonius of Nicomedia"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Soldier"
+title: "Saint Gorgonius of Nicomedia"
 summary: "Soldier. Favourite and trusted servant in the court of Emperor Diocletian. Convert to Christianity. Tortured and martyred with a group of other Christians during the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgon.jpg"
 searchAliases:
@@ -15,10 +15,8 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Soldier
 martyr: true
 ---

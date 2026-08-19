@@ -1,7 +1,7 @@
 ---
 name: "Saint Huailu Zhang"
 honorific: Venerable
-title: "Martyr, Pope, Royalty"
+title: "Saint Huailu Zhang"
 summary: "Layman catechumen against the wishes of his family; he began taking classes at the local mission in 1900 at age 57. He could not read, and had a terrible time trying to remember the prayers, but his belief was strong. When the Boxer Rebellion began, local criminals began an extor"
 image: "http://catholicsaints.info/wp-content/uploads/Huailu-Zhang.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 7
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

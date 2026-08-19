@@ -1,7 +1,7 @@
 ---
 name: "Saint Ammon of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Ammon of Alexandria"
 summary: "Priest. Martyred by Diocletian."
 born: "Egypt"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

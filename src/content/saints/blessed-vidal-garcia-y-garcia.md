@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vidal García y García"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Vidal García y García"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Jorge Camilo"
@@ -17,9 +17,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

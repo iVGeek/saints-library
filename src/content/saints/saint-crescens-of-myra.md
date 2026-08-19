@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescens of Myra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescens of Myra"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Crescent"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

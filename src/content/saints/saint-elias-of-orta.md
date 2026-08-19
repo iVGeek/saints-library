@@ -1,7 +1,7 @@
 ---
 name: "Saint Elias of Orta"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Elias of Orta"
 summary: "One of the early evangelists on the island of San Giulio in Lake Orta in the Piedmont region of Italy. He may have been a priest, and lived on the island for a while as a hermit."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Elias-of-Orta.jpg"
 searchAliases:

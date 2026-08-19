@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Apamea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gaius of Apamea"
 summary: "Fought the Montanist heresy. Martyred in the persecutions of Marcus Aurelius."
 deathYear: 172
 died: "c.172 at Apamea, Phrygia"
@@ -11,7 +11,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

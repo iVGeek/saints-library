@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicita of Capua"
 honorific: Saint
-title: "Martyr"
+title: "Saint Felicita of Capua"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Felicity"
@@ -13,8 +13,7 @@ feastDay:
   month: 11
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

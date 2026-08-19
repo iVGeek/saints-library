@@ -1,7 +1,7 @@
 ---
 name: "Saint Victoria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Religious, Royalty"
+title: "Saint Victoria"
 summary: "Beautiful Roman Christian noblewoman. Sister of Saint Anatolia. The two sisters were set for arranged marriages to noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old Testament had been married; but Anatolia cited other e"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victoria.jpg"
 deathYear: 250
@@ -13,11 +13,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Religious
-  - Royalty
 patronage:
   - "against earthquakes"
   - "against lightning"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Orontius of Lecce"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Orontius of Lecce"
 summary: "Son of Publius, a Roman imperial treasurer; uncle of Saint Fortunatus. Converted by the shipwrecked Saint Paul the Apostle. Roman imperial treasurer upon his father's death. Denounced as a Christian, he was ordered to sacrifice to idols; he refused. He was arrested, stripped of h"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_oronzo.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 patronage:

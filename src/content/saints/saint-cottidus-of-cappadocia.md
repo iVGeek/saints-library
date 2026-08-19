@@ -1,7 +1,7 @@
 ---
 name: "Saint Cottidus of Cappadocia"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Cottidus of Cappadocia"
 summary: "Deacon. Martyr. No other information has survived."
 died: "in Cappadocia"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

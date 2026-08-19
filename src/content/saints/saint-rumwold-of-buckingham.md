@@ -1,7 +1,7 @@
 ---
 name: "Saint Rumwold of Buckingham"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Rumwold of Buckingham"
 summary: "Son of the Christian queen Saint Cyneburga (Cuneburga), and the pagan King Alchfrid (Aldfrith) of Northumbria. Grandson of Penda, king of Mercia. He lived only three days during which time he repeated several times “I am a Christian”, and asked for Baptism (which he received from"
 searchAliases:
   - "Rumwold of Brackley"
@@ -23,7 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "fishermen of Folkestone, England"

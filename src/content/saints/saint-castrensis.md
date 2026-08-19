@@ -1,7 +1,7 @@
 ---
 name: "Saint Castrensis of Capua"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Castrensis of Capua"
 summary: "Priest. Bishop exiled from Africa to Italy in the 5th century by Arian Vandals. Bishop of Capua, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/P1014548.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
@@ -29,7 +28,7 @@ patronage:
   - "Monreale, city of"
   - "Monreale, archdiocese of"
   - "San Castrese di Sessa Aurunca"
-martyr: true
+martyr: false
 ---
 
 Priest. Bishop exiled from Africa to Italy in the 5th century by Arian Vandals. Bishop of Capua, Italy.

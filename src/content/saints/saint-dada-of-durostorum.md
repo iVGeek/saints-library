@@ -1,7 +1,7 @@
 ---
 name: "Saint Dada of Durostorum"
 honorific: Saint
-title: "Martyr"
+title: "Saint Dada of Durostorum"
 summary: "Martyred in the persecutions of Diocletian. No other information have survived."
 searchAliases:
   - "Dadas"
@@ -12,8 +12,7 @@ feastDay:
   month: 4
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

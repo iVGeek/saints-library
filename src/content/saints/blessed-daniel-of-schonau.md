@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel of Schönau"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Daniel of Schönau"
 summary: "Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in Heidelberg, Germany."
 deathYear: 1218
 born: "12th century Germany"

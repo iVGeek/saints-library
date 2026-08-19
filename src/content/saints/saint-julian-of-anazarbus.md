@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Anazarbus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Julian of Anazarbus"
 summary: "Prominent citizen of senatorial rank. Arrested for his faith during the persecutions of Diocletian, he was tortured then put on display for abuse for a year in cities all over Cilicia, being led around behind a camel. Martyr. Praised by Saint John Chrysostom in a homily during th"
 image: "http://catholicsaints.info/wp-content/uploads/Julian-of-Tarsus.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

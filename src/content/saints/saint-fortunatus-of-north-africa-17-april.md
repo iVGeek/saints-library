@@ -1,15 +1,14 @@
 ---
 name: "Saint Fortunatus of North Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fortunatus of North Africa"
 summary: "Martyr."
 region: "England"
 feastDay:
   month: 4
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

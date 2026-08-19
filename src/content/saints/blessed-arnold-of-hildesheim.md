@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arnold of Hildesheim"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Arnold of Hildesheim"
 summary: "Benedictine monk in 12th century Fulda in modern Germany. Abbot of the monastery of Saint Godehard in Hildesheim, Germany."
 deathYear: 1180
 born: "12th century"

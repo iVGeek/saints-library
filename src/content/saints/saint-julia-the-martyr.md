@@ -1,7 +1,7 @@
 ---
 name: "Saint Julia the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julia the Martyr"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Giulia of Augusta"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

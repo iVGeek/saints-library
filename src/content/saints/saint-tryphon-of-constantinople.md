@@ -1,7 +1,7 @@
 ---
 name: "Saint Tryphon of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tryphon of Constantinople"
 summary: "One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens."
 deathYear: 367
 died: "c.367 in Constantintinople"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/5/56/0419tryphonconstantinople-partial.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

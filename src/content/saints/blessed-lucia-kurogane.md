@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia Kurogane"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Lucia Kurogane"
 summary: "Young daughter of Blessed Thecla Kurogane and Blessed Vincentius Kurogane Ichibiyoe in the diocese of Niigata, Japan. Martyr."
 birthYear: 1628
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

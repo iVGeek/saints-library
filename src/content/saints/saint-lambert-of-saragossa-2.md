@@ -1,7 +1,7 @@
 ---
 name: "Saint Lambert of Saragossa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lambert of Saragossa"
 summary: "Having survived the official persecutions of Diocletian, Lambert was murdered by local pagans who refused to accept any toleration of Christianity. Martyr."
 deathYear: 306
 died: "306 near Saragossa, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

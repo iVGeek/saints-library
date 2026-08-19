@@ -1,7 +1,7 @@
 ---
 name: "Saint Allo of Bobbio"
 honorific: Saint
-title: "Monk"
+title: "Saint Allo of Bobbio"
 summary: "Monk of the Bobbio Abbey. His burial next to Saint Columbanus is evidence of his holiness, but all details of his life have been lost."
 searchAliases:
   - "Allone"

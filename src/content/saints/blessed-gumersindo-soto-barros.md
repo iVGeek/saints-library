@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gumersindo Soto Barros"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gumersindo Soto Barros"
 summary: "Dominican brother, professed on 27 November 1899 in Padrón, Galicia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gumersindo-Soto-Barros.jpg"
 birthYear: 1869
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

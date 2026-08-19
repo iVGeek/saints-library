@@ -2,7 +2,7 @@
 name: "Saint Patricia of Nicomedia"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Patricia_2015-10-23_1730Z.jpg/960px-Patricia_2015-10-23_1730Z.jpg"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Patricia of Nicomedia"
 summary: "Married of Saint Macedonius of Nicomedia and mother of Saint Modesta of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us."
 searchAliases:
   - "Patritia of Nicomedia"
@@ -14,7 +14,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

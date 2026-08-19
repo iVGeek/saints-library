@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luciano Verdejo Acuña"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Luciano Verdejo Acuña"
 summary: "Married layman in the diocese of Almeria, Spain. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1938
@@ -14,8 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

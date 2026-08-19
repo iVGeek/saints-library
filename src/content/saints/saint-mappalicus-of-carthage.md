@@ -1,7 +1,7 @@
 ---
 name: "Saint Mappalicus of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mappalicus of Carthage"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Mappalicius"
@@ -16,7 +16,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Jonquières, France"

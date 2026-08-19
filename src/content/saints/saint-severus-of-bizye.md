@@ -1,7 +1,7 @@
 ---
 name: "Saint Severus of Bizye"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Severus of Bizye"
 summary: "Brought Saint Mennone the Centurian to Christianity. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Severus of Bizia"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

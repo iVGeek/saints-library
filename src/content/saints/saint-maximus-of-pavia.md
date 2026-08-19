@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Pavia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Maximus of Pavia"
 summary: "Bishop of Pavia, Italy. Attended the councils of Rome convened by Pope Saint Symmachus."
 searchAliases:
   - "Maximus II"
@@ -14,11 +14,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Bishop of Pavia, Italy. Attended the councils of Rome convened by Pope Saint Symmachus.

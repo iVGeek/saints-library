@@ -1,7 +1,7 @@
 ---
 name: "Saint Rutilius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rutilius"
 summary: "Rutilius traveled extensively to avoid the persecutions of Decius, sometimes hiding, sometimes bribing officials to leave him alone, but never giving up his faith. He was finally captured, tortured and martyred."
 searchAliases:
   - "Rutilio"
@@ -14,7 +14,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

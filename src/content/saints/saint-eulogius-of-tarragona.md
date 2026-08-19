@@ -1,7 +1,7 @@
 ---
 name: "Saint Eulogius of Tarragona"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Royalty"
+title: "Saint Eulogius of Tarragona"
 summary: "Deacon in Tarragona, Spain, working with Saint Fructuosus and Saint Augurius. Arrested in 259 by the Roman governor Emilian. Martyred in the persecutions of Valerian. Saint Augustine of Hippo wrote in praise of these martyrs."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Augurius-Eulogius-and-Fructuosos.jpg"
 deathYear: 259
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon

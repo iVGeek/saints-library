@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Vallés Anguera"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joan Vallés Anguera"
 summary: "Priest. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

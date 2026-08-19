@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Gomez De Haro"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Gomez De Haro"
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 deathYear: 1936
 born: "in Vera, Almeria Spain"
@@ -14,9 +14,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

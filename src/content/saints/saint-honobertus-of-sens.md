@@ -1,7 +1,7 @@
 ---
 name: "Saint Honobertus of Sens"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Honobertus of Sens"
 summary: "Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738."
 searchAliases:
   - "Aunobertus"
@@ -13,10 +13,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Augusta of Treviso"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Augusta of Treviso"
 summary: "Fifth century daughter of the Teutonic duke of Friuli. Convert to Christianity. Killed by her father with his own hands for her faith."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Reliquie_santa_augusta.jpg/960px-Reliquie_santa_augusta.jpg"
 searchAliases:
@@ -16,14 +16,13 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
 patronage:
   - "Ceneda, Italy"
   - "Serravalle, Italy"
-martyr: true
+martyr: false
 ---
 
 Fifth century daughter of the Teutonic duke of Friuli. Convert to Christianity. Killed by her father with his own hands for her faith.

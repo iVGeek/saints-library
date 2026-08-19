@@ -1,7 +1,7 @@
 ---
 name: "Saint Podius of Florence"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Podius of Florence"
 summary: "Podius studied in Pavia, Italy. Priest. Canon of the cathedral in Florence, Italy.  Seventeenth bishop of Florence, serving from 990 to 1002."
 searchAliases:
   - "Podio Colmelle"

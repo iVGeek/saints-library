@@ -1,7 +1,7 @@
 ---
 name: "Saint Bajulus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Bajulus of Rome"
 summary: "Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Katharina Kasper"
 honorific: Saint
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Saint Maria Katharina Kasper"
 summary: "Third of four children born to Heinrich Kasper and Katharina Fassel, poor but devout peasants; she had four half-sisters from her father's first marriage. A happy, out-going child, Maria was an avid reader with a fondness for both the Bible and The Imitation of Christ by Thomas a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Katharina_Kasper_%281820_-_1898%29.jpg/960px-Katharina_Kasper_%281820_-_1898%29.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Poor Handmaids of Jesus Christ"
 martyr: false

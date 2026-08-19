@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Vilaregut Farré"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joan Vilaregut Farré"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Vilaregut-Farre.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

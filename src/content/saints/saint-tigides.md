@@ -1,7 +1,7 @@
 ---
 name: "Saint Tigides of Gap"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Tigides of Gap"
 summary: "Sixth century bishop of Gap, France."
 searchAliases:
   - "Teridio"

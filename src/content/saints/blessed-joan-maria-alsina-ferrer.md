@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Maria Alsina Ferrer"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Joan Maria Alsina Ferrer"
 summary: "Member of the Claretians, professed on 8 December 1900. Ordained a priest on 22 December 1907. Martyred in the Spanish Civil War."
 birthYear: 1874
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

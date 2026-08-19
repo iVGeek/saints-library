@@ -1,7 +1,7 @@
 ---
 name: "Saint Sator of Velleianum"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sator of Velleianum"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 searchAliases:
   - "Satyrus"
@@ -14,7 +14,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

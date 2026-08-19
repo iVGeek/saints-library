@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tullio Maruzzo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Tullio Maruzzo"
 summary: "Born a twin, with a brother named Lucio. Member of the Order of Friars Minor, making his profession on 15 July 1951. He and his brother Lucio were ordained priests on 21 June 1953. Missionary to Guatemala in 1960 where he fought for the rights of the poor against the wealthy land"
 searchAliases:
   - "Marcello Maruzzo"
@@ -17,8 +17,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

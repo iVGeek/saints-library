@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roland of Chézery"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Roland of Chézery"
 summary: "Benedictine monk at the Abbey of Chézery, diocese of Belley, France. Chosen abbot the house in 1170. Known for his piety, humility and his concern for the spiritual well-bring of his brother monks."
 deathYear: 1200
 died: "1200 at the Abbey of Chézery, diocese of Belley, France of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carolus Jeong Cheol-sang"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Carolus Jeong Cheol-sang"
 summary: "Married layman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

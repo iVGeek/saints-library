@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto García Chicote"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Jacinto García Chicote"
 summary: "Trappist postulant. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

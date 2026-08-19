@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonannus of Roio"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Bonannus of Roio"
 summary: "Benedictine monk of the Celestine Congregation at the monastery of Saint Laurence, Abruzzi, Italy."
 deathYear: 1320
 died: "c.1320 of natural causes"

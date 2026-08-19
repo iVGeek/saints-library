@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Lyon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Stephen of Lyon"
 summary: "Bishop of Lyon, France. Worked to convert the Arian Burgundians to orthodox Christianity."
 searchAliases:
   - "Stefano"

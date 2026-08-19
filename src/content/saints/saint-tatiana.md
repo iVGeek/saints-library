@@ -1,7 +1,7 @@
 ---
 name: "Saint Tatiana"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Tatiana"
 summary: "Nun noted for her ascetic life."
 feastDay:
   month: 1

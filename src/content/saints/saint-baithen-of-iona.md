@@ -1,7 +1,7 @@
 ---
 name: "Saint Baithen of Iona"
 honorific: Saint
-title: "Monk"
+title: "Saint Baithen of Iona"
 summary: "Born to a noble Irish family, the son of Brenaron. Monk. Abbot of Tiree Island, Scotland. Spiritual student of Saint Columba, and part of Columba's mission to Britain in 563; may have been Columba's cousin. When Columba died, Baithen was immediately chosen abbot to replace him an"
 searchAliases:
   - "Baithen Mor"

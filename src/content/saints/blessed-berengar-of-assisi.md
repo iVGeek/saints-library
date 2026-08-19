@@ -1,7 +1,7 @@
 ---
 name: "Blessed Berengar of Assisi"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Berengar of Assisi"
 summary: "Mercedarian preacher in the Spanish cities of Granada, Valencia and Murcia who was noted for his prison ministry. Ransomed 358 Christians who had been enslaved by Saracen invaders."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Berengar-of-Assisi.jpg"
 searchAliases:
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

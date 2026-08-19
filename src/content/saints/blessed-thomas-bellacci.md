@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Bellacci"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Bellacci"
 summary: "Son of a butcher, he led such a wild and dissolute life that parents warned their sons to stay away from him. Accused of a serious crime he had not committed, Thomas wandered the streets until he met a priest who listened to his story, took the lad in, and got him cleared of the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Bellacci.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "butchers"

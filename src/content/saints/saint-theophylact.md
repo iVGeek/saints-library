@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophylact of Nicomedia"
 honorific: Saint
-title: "Bishop, Monk, Confessor"
+title: "Saint Theophylact of Nicomedia"
 summary: "Immigrant to Constantinople. Studied under Saint Tarasius, Patriach of Constantinople. Sent by Tarasius to a monastery on the Bosphorus with Saint Michael the Confessor. Monk. Established hospices for travellers, and worked with the poor, widows, orphans, the mentally ill, the bl"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Archangels_Chapel_in_Rila_Monastery_Saint_Theophilactus_Fresco_in_the_altar_-_1835.jpg"
 searchAliases:

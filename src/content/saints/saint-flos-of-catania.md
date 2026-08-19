@@ -1,7 +1,7 @@
 ---
 name: "Saint Flos of Catania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Flos of Catania"
 summary: "One of a group early martyrs. No other information has survived."
 died: "Catania, Sicily, date unknown"
 deathPlace: "Sicily, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

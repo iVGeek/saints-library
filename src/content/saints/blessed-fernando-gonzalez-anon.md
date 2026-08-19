@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fernando González Añon"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Fernando González Añon"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Fernando-Gonzalez-Anon.jpg"
 birthYear: 1886
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

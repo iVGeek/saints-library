@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gentilis of Toringa"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed Gentilis of Toringa"
 summary: "Born to the Italian nobility. Franciscan Friar Minor. Missionary to the Muslims in Egypt, Persia and Armenia. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gentilis-of-Toringa.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

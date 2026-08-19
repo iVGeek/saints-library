@@ -1,7 +1,7 @@
 ---
 name: "Saint Astricus of Esztergom"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary"
+title: "Saint Astricus of Esztergom"
 summary: "Monk in Rome, Italy, taking the name Astricus. Friend of Saint Adalbert of Prague, and assisted Adalbert on his missionary work in Bohemia. First abbot of Brevnov. Due to anti-Christian persecution in the region, he had to flee to Hungary. Worked as a missionary to the Magyars. S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Astricus-of-Esztergom.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

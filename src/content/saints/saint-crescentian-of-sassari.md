@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentian of Sassari"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescentian of Sassari"
 summary: "Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Crescentianus"
@@ -14,7 +14,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Savinianus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Savinianus of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Sabianianus"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

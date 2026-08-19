@@ -1,7 +1,7 @@
 ---
 name: "Saint Straton of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Straton of Nicomedia"
 summary: "Martyr."
 searchAliases:
   - "Stratone"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

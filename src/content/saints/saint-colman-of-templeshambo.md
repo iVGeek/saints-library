@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Templeshambo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Colman of Templeshambo"
 summary: "Contemporary of Saint Aidan. Monk. Abbot of Templeshambo monastery, the mother church of Enniscorthy and hub of the evangelization efforts in the modern County Wexford, Ireland. There was a nearby holy well whose healing waters, and the ducks that lived there, came to be associat"
 searchAliases:
   - "Colman of Temple Sean Bothe"
@@ -14,9 +14,8 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Contemporary of Saint Aidan. Monk. Abbot of Templeshambo monastery, the mother church of Enniscorthy and hub of the evangelization efforts in the modern County Wexford, Ireland. There was a nearby holy well whose healing waters, and the ducks that lived there, came to be associated with Saint Colman, and legends grew up about them.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudius of Aegea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Claudius of Aegea"
 summary: "Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred."
 deathYear: 285
 died: "crucified in 285 outside the walls of Aegea, Cilicia (in Asia Minor)"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

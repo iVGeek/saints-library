@@ -1,7 +1,7 @@
 ---
 name: "Saint Darius of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Darius of Nicaea"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Dario"
@@ -13,7 +13,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

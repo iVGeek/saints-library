@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermes the Exorcist"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Hermes the Exorcist"
 summary: "Priest. Exorcist. Martyred in the persecution of Marcus Aurelian."
 searchAliases:
   - "Hermes of Rome"
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

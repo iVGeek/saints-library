@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Maria Puigmitjà Rubió"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joan Maria Puigmitjà Rubió"
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."
 birthYear: 1919
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

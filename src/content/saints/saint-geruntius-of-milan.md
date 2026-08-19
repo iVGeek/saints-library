@@ -1,7 +1,7 @@
 ---
 name: "Saint Geruntius of Milan"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Geruntius of Milan"
 summary: "Bishop of Milan, Italy c.465 to c.470."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Geruntius-of-Milan.jpg"
 searchAliases:
@@ -15,10 +15,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Milan, Italy c.465 to c.470.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christian Franco"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Christian Franco"
 summary: "Brother of Blessed Desiderio Franco. Joined the Augustinians in 1362. Monk at the Carbonara convent in Naples, Italy in 1421. Augustinian superior general."
 deathYear: 1432
 born: "Villafranca Piemonte, Italy"

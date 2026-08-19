@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticus of Clermont"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Rusticus of Clermont"
 summary: "Bishop of Clermont, France from 426 to 446."
 searchAliases:
   - "Rotiri"

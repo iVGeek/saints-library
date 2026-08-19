@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Miguel Peñarroya Dolz"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed José Miguel Peñarroya Dolz"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

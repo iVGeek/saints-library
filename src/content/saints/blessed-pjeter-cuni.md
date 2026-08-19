@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pjetër Çuni"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Pjetër Çuni"
 summary: "Studied at the Pontifical Seminary in Shkodrë, Albania, and theology at the Propaganda Fide Congregation in Rome, Italy. Ordained on 23 March 1940 as a priest of the archdiocese of Shkodrë-Pult, Albania. Served in several mountain village parishes. Imprisoned, tortured, and dumpe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Pjeter-Cuni.jpg"
 birthYear: 1914
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

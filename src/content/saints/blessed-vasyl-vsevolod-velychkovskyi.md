@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vasyl Vsevolod Velychkovskyi"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Missionary, Confessor"
+title: "Blessed Vasyl Vsevolod Velychkovskyi"
 summary: "Son of catechists Volodymyr and Anne Theodorowych Velychkovsky. Greek Catholic. Entered the seminary in Lviv, Ukraine in 1920. Ordained on 9 October 1925. Teacher and missionary in the Volyn region of Ukraine. Prior of the monastery at Ternopil, Ukraine in 1942. Arrested for his"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vasyl-Vsevolod-Velychkovskyi.jpg"
 searchAliases:
@@ -20,14 +20,12 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary
   - Confessor
 religiousOrder: "Redemptorist"
-martyr: true
+martyr: false
 ---
 
 Son of catechists Volodymyr and Anne Theodorowych Velychkovsky. Greek Catholic. Entered the seminary in Lviv, Ukraine in 1920. Ordained on 9 October 1925. Teacher and missionary in the Volyn region of Ukraine. Prior of the monastery at Ternopil, Ukraine in 1942. Arrested for his faith at Ternopil in 1945, condemned to death, and sent to Kiev, Ukraine where his sentence was changed to ten years in a forced labour camp. There he ministered to other prisoners.

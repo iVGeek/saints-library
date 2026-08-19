@@ -1,7 +1,7 @@
 ---
 name: "Saint Regulus"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Hermit, Royalty"
+title: "Saint Regulus"
 summary: "Evangelising archbishop in North Africa. Exiled with Saint Cerbonius of Populonia and some other Christians to Italy in the persecutions of Arian Vandals. The group settled in the area of Populonia and Piombino, and Regulus lived as a holy and miracle working hermit. Martyred in"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/960px-Leo_constellation_map.svg.png"
 searchAliases:
@@ -16,11 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "in Italy\n\nMontaione"
   - "San Regolo, Gaiole in Chianti"

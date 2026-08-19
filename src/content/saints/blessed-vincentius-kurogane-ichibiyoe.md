@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vincentius Kurogane Ichibiyoe"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Vincentius Kurogane Ichibiyoe"
 summary: "The son of Blessed Ludovicus Amagasu Uemon. Layman in the diocese of Niigata, Japan. Married to Blessed Thecla Kurogane. Martyr."
 birthYear: 1603
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

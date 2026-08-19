@@ -1,7 +1,7 @@
 ---
 name: "Saint Agostino of Capua"
 honorific: Saint
-title: "Martyr"
+title: "Saint Agostino of Capua"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Augustine"
@@ -13,8 +13,7 @@ feastDay:
   month: 11
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

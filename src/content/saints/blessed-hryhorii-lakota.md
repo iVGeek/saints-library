@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hryhorii Lakota"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Hryhorii Lakota"
 summary: "Greek Catholic. Studied theology at Lviv, Ukraine. Ordained in 1908 at Przemysl (in modern Poland). Doctor of theology at Vienna, Austria in 1911. Professor at the Ukrainian seminary at Przemysl in 1913. Rector of the seminary. Auxiliary bishop of Przemysl, Poland on 16 May 1926."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hryhorii-Lakota.jpg"
 searchAliases:
@@ -21,10 +21,8 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

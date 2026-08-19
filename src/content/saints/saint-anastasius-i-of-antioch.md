@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius I of Antioch"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Anastasius I of Antioch"
 summary: "Patriarch of Antioch in 559. A learned, austere, pious and quiet man who strictly adhered to orthodox Christianity and had a knack for comforting the sick and bereaved. Opposed the heretical ideas on the Eucharist espoused by Emperor Justinian, and in 570 was exiled for 23 years"
 searchAliases:
   - "Anastasius the Elder"

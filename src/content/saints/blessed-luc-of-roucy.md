@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luc of Roucy"
 honorific: Blessed
-title: "Priest, Monk, Hermit"
+title: "Blessed Luc of Roucy"
 summary: "Born to the French nobility; related to Blessed Irmengard. Priest. Dean of Laon, France. Around 1115, Luc retired from worldly things to live as a hermit at Cuissy-et-Geny, France. His reputation of holiness and wisdom attracted would-be students, Count Guntarius founded a monast"
 searchAliases:
   - "Luc Bartholomew"

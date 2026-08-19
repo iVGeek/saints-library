@@ -1,7 +1,7 @@
 ---
 name: "Saint Marina of Omura"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Marina of Omura"
 summary: "Dominican lay tertiary in the archdiocese of Nagasaki, Japan. Martyred in the persecutions of Tokugawa Yemitsu."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Marina-of-Omura.jpg"
 deathYear: 1634
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 11
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

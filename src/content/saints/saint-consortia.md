@@ -1,7 +1,7 @@
 ---
 name: "Saint Consortia"
 honorific: Saint
-title: "Virgin, Monk, Religious, Royalty"
+title: "Saint Consortia"
 summary: "Born into the nobility, daughter of Saint Eucherius of Lyon, and Galla; sister of Saint Veranus of Vence, Saint Salonius of Geneva, and Saint Tullia. Miraculously healed the dying daughter of King Clotaire. In reward, the king endowed a convent in an area of modern France, and Co"
 deathYear: 570
 died: "c.570 of natural causes"
@@ -14,7 +14,6 @@ vocation:
   - Virgin
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

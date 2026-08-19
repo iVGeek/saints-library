@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaudentius of Brescia"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Gaudentius of Brescia"
 summary: "Studied under Saint Philastrius, Bishop of Brescia, Italy. He preached throughout Italy and in the East, respected  wherever he went for his oratory and leading the Christian life. When Philastrius died near the end of the 4th century, the people of Brescia chose Gaudentius as th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaudentius-of-Brescia.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: false
 ---

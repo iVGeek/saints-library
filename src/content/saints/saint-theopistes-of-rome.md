@@ -1,7 +1,7 @@
 ---
 name: "Saint Theopistes of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theopistes of Rome"
 summary: "Married to Saint Eustachius; mother of Saint Agapitus of Rome and Saint Theopistus of Rome. Martyred in the persecutions of Hadrian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Rome-20-September.jpg"
 deathYear: 188
@@ -13,7 +13,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

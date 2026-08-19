@@ -1,7 +1,7 @@
 ---
 name: "Saint Martha of Cologne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Martha of Cologne"
 summary: "Martyr. May have been part of the group that travelled with Saint Ursula."
 died: "Cologne, Germany"
 deathPlace: "Germany"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

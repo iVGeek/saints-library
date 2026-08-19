@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantine II"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Constantine II"
 summary: " Married, and the father of at least one son, and briefly king of Stathcl Born a Scottish prince, the son of King Kenneth II of Strathclyde, Constantine led a life of vice until his conversion, possibly after hearing the evangelizing preaching of Saint Columba and Saint Kentigern."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Constantine-II.jpg"
 searchAliases:
@@ -22,10 +22,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

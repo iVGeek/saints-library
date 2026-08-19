@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderius of Fontenelle"
 honorific: Saint
-title: "Monk"
+title: "Saint Desiderius of Fontenelle"
 summary: "Son of Saint Waningus of Fécamp. Benedictine monk at Fontenelle, Normandy, France."
 deathYear: 700
 died: "c.700 of natural causes"

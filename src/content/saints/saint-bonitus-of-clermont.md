@@ -1,7 +1,7 @@
 ---
 name: "Saint Bonitus of Clermont"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Hermit, Royalty, Confessor"
+title: "Saint Bonitus of Clermont"
 summary: "Chancellor to King Sigebert III of Austrasia. Appointed governor of Marseilles by King Thierry III in 667. Bishop of Clermont, France in 689. He resigned the see when doubts arose about the validity of his election. Bonitus spent his later years as a holy hermit at the Benedictin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bonitus.jpg"
 searchAliases:
@@ -24,14 +24,13 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "Bonito, Italy"
-martyr: true
+martyr: false
 ---
 
 Chancellor to King Sigebert III of Austrasia. Appointed governor of Marseilles by King Thierry III in 667. Bishop of Clermont, France in 689. He resigned the see when doubts arose about the validity of his election. Bonitus spent his later years as a holy hermit at the Benedictine abbey of Manglieu, Clermont. Pilgrim to Rome, Italy.

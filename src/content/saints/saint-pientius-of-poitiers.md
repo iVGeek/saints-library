@@ -1,7 +1,7 @@
 ---
 name: "Saint Pientius of Poitiers"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Pientius of Poitiers"
 summary: "Bishop of Poitiers, France. Helped Saint Radegunde to found her convent."
 searchAliases:
   - "Pien"
@@ -16,9 +16,8 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Poitiers, France. Helped Saint Radegunde to found her convent.

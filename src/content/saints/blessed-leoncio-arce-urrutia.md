@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leoncio Arce Urrutia"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Leoncio Arce Urrutia"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

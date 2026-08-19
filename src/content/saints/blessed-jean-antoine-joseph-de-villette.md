@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Antoine-Joseph de Villette"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Jean-Antoine-Joseph de Villette"
 summary: "Layman in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1731
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

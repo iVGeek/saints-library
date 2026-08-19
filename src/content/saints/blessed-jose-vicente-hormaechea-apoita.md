@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Vicente Hormaechea Apoita"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Vicente Hormaechea Apoita"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Vicente-Hormaechea-Apoita.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

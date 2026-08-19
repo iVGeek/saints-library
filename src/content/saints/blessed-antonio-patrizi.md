@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Patrizi"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Antonio Patrizi"
 summary: "Priest in the Order of Hermits of Saint Augustine in Lecceto, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Giuseppe_Maria_Mazzuoli%2C_il_Beato_Antonio_Patrizi%2C_1755.jpg/960px-Giuseppe_Maria_Mazzuoli%2C_il_Beato_Antonio_Patrizi%2C_1755.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

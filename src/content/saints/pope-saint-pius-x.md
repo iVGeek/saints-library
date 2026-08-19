@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Pius X"
 honorific: Venerable
-title: "Virgin, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Pope Saint Pius X"
 summary: "Son of Giambattista Sarto, a village cobbler, and Margherita Sanson, living an impoverished childhood as one of eight children. Baptized on 3 June 1835. Confirmed on 1 September 1848. He early felt a calling to the priesthood. Studied at the seminary of Padua, Italy, and was know"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/960px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

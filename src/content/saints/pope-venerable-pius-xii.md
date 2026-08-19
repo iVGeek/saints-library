@@ -1,7 +1,7 @@
 ---
 name: "Pope Venerable Pius XII"
 honorific: Venerable
-title: "Martyr, Virgin, Bishop, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Pope Venerable Pius XII"
 summary: "Studied at the Pontifical Gregorian University in Rome. Ordained on 2 April 1899. Staff member of the Sacred Congregation of Extraordinary Ecclesiastical Affairs from 1901 to 1911. From 1904 to 1916 he assisted Cardinal Gasparri in his work to codify canon law. Undersecretary of"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Pius_XII_with_tabard%2C_by_Michael_Pitcairn%2C_1951_%28retouched%29.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Studied at the Pontifical Gregorian University in Rome. Ordained on 2 April 1899. Staff member of the Sacred Congregation of Extraordinary Ecclesiastical Affairs from 1901 to 1911. From 1904 to 1916 he assisted Cardinal Gasparri in his work to codify canon law. Undersecretary of the Congregation of Extraordinary Ecclesiastical Affairs on 7 March 1911; secretary on 1 February 1914. Appointed Apostolic Nuncio in Bavaria and titular archbishop of Sardes by Pope Benedict XV on 20 April 1917. Apostolic Nuncio in Germany on 22 June 1920. Created cardinal–priest on 16 December 1929 by Pope Pius XI. Appointed Secretary of State for Vatican City on 9 February 1930. Archpriest of Saint Peter's basilica on 25 March 1930. Grand Chancellor of the Pontifical Institute of Christian Archeology on 10 March 1932. Papal legate to the 32nd International Eucharistic Congress in Buenos Aires, Argentina on 16 September 1934. Camerlengo of the Holy Roman Church on 1 April 1935. Papal legate to the 34th International Eucharistic Congress in Budapest, Hungary on 12 May 1938. During the years that preceded the Second World War, he arranged concordants with Bavaria, Prussia, Austria and Germany, and made diplomatic visits throughout Europe and the Americas, including an extensive visit to the United States in 1936. On 2 March 1939, Eugenio Pacelli was chosen the 260th pope, the first Secretary of State to be elected since Clement IX in 1667.

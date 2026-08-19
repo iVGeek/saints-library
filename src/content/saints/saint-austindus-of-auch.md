@@ -1,7 +1,7 @@
 ---
 name: "Saint Austindus of Auch"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Austindus of Auch"
 summary: "Benedictine monk at Saint Oren's Abbey, Auch, France. Abbot. Instituted the Cluniac reform at Saint Oren's. Archbishop of Auch in 1041. Helped restore Christian life in his and his suffragan dioceses following the Saracen invasion of Spain. Had to struggle with princes and civil"
 searchAliases:
   - "Ostent"
@@ -18,12 +18,10 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Saint Oren's Abbey, Auch, France. Abbot. Instituted the Cluniac reform at Saint Oren's. Archbishop of Auch in 1041. Helped restore Christian life in his and his suffragan dioceses following the Saracen invasion of Spain. Had to struggle with princes and civil authorities to keep Church rights, prerogatives and property.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Southerne"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed William Southerne"
 summary: "Studied in Lithuania, at the English College at Douai, France, and the College of Saint Alban, Valladolid, Spain. Priest. Returned to England to minister to covert Catholics, mainly in Northumberland. Arrested while celebrating Mass, and condemned to death for the crime of priest"
 birthYear: 1569
 deathYear: 1618
@@ -16,9 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Blessed-william-southerne.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius of Collesano"
 honorific: Saint
-title: "Monk"
+title: "Saint Macarius of Collesano"
 summary: "Monk. Abbot."
 region: "Italy"
 feastDay:

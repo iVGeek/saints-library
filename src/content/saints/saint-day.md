@@ -1,7 +1,7 @@
 ---
 name: "Saint Day"
 honorific: Saint
-title: "Monk"
+title: "Saint Day"
 summary: "A church near Redruth, Cornwall, England is named for him. No information about him has survived."
 searchAliases:
   - "Dye"

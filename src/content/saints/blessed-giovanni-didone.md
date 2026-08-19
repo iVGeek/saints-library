@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Didonè"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Giovanni Didonè"
 summary: "Giovanni grew up in the Paduan countryside, and early felt a call to a religious vocation. He studied at the diocesan seminary in Padua, and joined the Xaverian Missionaries in 1950, making his perpetual vows on 5 November 1954. After studies at Piacenza, Italy, he was ordained a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Didone.jpg"
 birthYear: 1930
@@ -16,8 +16,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

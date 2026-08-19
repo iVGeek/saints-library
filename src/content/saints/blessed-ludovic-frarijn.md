@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludovic Frarijn"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Ludovic Frarijn"
 summary: "Dominican priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ludovic-Frarijn.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

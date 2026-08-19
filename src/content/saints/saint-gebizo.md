@@ -1,7 +1,7 @@
 ---
 name: "Saint Gebizo"
 honorific: Saint
-title: "Monk, Pope, Royalty"
+title: "Saint Gebizo"
 summary: "Benedictine monk at Monte Cassino in 1076. Spiritual student of Saint Desiderius who was later Pope Victor III. Sent to Croatia by Pope Saint Gregory VII to crown King Zwoinimir."
 deathYear: 1087
 born: "at Cologne, Germany"
@@ -14,8 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

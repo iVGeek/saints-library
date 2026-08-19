@@ -1,7 +1,7 @@
 ---
 name: "Saint Lawrence Wang"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Lawrence Wang"
 summary: "Layman catechist in the apostolic vicariate of Guizhou. One of the Martyrs of China"
 searchAliases:
   - "Lawrence Ouang"
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 28
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

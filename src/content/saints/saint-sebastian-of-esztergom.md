@@ -1,7 +1,7 @@
 ---
 name: "Saint Sebastian of Esztergom"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Sebastian of Esztergom"
 summary: "Monk. Archbishop of Esztergom, Hungary in 1002. Worked with Saint Stephen to evangelize the Hungarian people."
 deathYear: 1036
 died: "c.1036"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Woodhouse"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Thomas Woodhouse"
 summary: "Priest in Lincolnshire, England. Forced to resign due state persecution, he became a tutor in Wales. Arrested and sent to Fleet Prison on 14 May 1561 for the crime of celebrating Mass. He lay there for nine years before being tried and convicted for his faith. At some point durin"
 birthYear: 1535
 deathYear: 1573
@@ -16,11 +16,8 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Blessed-thomas-woodhouse.png"
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

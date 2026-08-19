@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Felix of Rome"
 summary: "Martyr."
 searchAliases:
   - "Felix av Via Portuensis"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

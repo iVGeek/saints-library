@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Perpiñá Nácher"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed José Perpiñá Nácher"
 summary: "Layman in the archdiocese of Valencia, Spain. A telegrapher (telegraph operator) on the ship “Buenos Aires”. Lawyer. Secretary of the Union of Rural Police. He used his legal skills for the poor, working for legal aid. Member of Catholic Action. Member of Nocturnal Adoration. A p"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Perpiñá-Nácher.jpg"
 birthYear: 1911
@@ -15,10 +15,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

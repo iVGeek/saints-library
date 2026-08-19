@@ -1,7 +1,7 @@
 ---
 name: "Saint Jaime Hilario Barbal"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Saint Jaime Hilario Barbal"
 summary: "Raised in a pious and hardworking family near the Pyrenees mountains. Entered the seminary at age 12, but when his hearing began to fail in his teens, he was sent home. Joined the Brothers of the Christian Schools at age 19, entering the noviate on 24 February 1917 at Irun, Spain"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jaime-Hilario-Barbal.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

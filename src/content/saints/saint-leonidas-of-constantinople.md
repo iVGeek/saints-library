@@ -1,7 +1,7 @@
 ---
 name: "Saint Leonidas of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Leonidas of Constantinople"
 summary: "Martyr. No other information has survived."
 died: "burned to death in Constantinople, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

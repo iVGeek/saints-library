@@ -1,7 +1,7 @@
 ---
 name: "Blessed Szilárd István Bogdánffy"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Szilárd István Bogdánffy"
 summary: "Son of teachers. Studied philosophy and theology at Peter Pazmany University of Budapest, Hungary. Ordained on 29 June 1934, and assigned to the Saint Therese of Lisieux parish in Oradea (in modern Romania). Taught in Satu Mare and the seminary in Oradea. Bishop of Satu Mare, Rom"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Szilárd-István-Bogdánffy.jpg"
 birthYear: 1911
@@ -16,8 +16,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 martyr: true

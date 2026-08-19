@@ -1,7 +1,7 @@
 ---
 name: "Saint Desiderius of Pozzuoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Desiderius of Pozzuoli"
 summary: "Lector for Saint Januarius of Naples. Imprisoned and martyred in the persecutions of Diocletian."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

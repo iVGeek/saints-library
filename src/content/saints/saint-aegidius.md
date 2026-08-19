@@ -1,7 +1,7 @@
 ---
 name: "Saint Aegidius of Sansepolcro"
 honorific: Saint
-title: "Saint"
+title: "Saint Aegidius of Sansepolcro"
 summary: "With Saint Arcanus he made a pilgrimage to Palestine where they collected relics which they brought back to Italy in the mid- to late-10th century. They founded a Benedictine monastery, which grew into Borgo San Sepulcro (modern Sansepolcro), Italy, to house them."
 searchAliases:
   - "Egidio"
@@ -14,8 +14,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Benedictine"
 martyr: false
 ---

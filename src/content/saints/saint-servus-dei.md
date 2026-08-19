@@ -1,7 +1,7 @@
 ---
 name: "Saint Servus Dei"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Servus Dei"
 summary: "Servant and spiritual student of Saint Rogellus of Cordoba, and murdered by Moors with him for opposing Islam. Martyr."
 searchAliases:
   - "Servodidio"
@@ -17,7 +17,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

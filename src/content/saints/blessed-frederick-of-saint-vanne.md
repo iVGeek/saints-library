@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frederick of Saint-Vanne"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Frederick of Saint-Vanne"
 summary: "Son of Matilda and Count Geoffrey le Barbu of Verdun, France. In 997 he gave his wealth to the bishop of Verdun and made a pilgrimage to the Holy Lands. When he returned he became a Benedictine monk at Saint Vanne abbey. Friend of Blessed Richard of Saint Vanne. Prior of the mona"
 searchAliases:
   - "Frederick of Arras"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jeanne Marie de Maille"
 honorific: Blessed
-title: "Virgin, Pope"
+title: "Blessed Jeanne Marie de Maille"
 summary: "Married for sixteen years to the Baron de Silly, but remained chaste. The Baron was captured in battle; Jeanne sold everything to raise his ransom, but before she could pay it, the Baron escaped with the help of the Virgin Mary. Widowed, she fell into complete homeless poverty, p"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jeanne-Marie-de-Maille.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "abuse victims"

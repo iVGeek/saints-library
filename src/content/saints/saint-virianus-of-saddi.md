@@ -1,7 +1,7 @@
 ---
 name: "Saint Virianus of Saddi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Virianus of Saddi"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Verian"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

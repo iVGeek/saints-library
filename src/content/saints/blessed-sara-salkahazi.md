@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sára Salkaházi"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Sára Salkaházi"
 summary: "Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always join the boys in their games or tug of war”. She"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sara_Salkahazi.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
-martyr: true
+martyr: false
 ---
 
 Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always join the boys in their games or tug of war”. She began writing plays as a teenager, and at the same time developed a deep prayer life. She received a degree and taught elementary school for a year, but gave it up to work as a bookbinder. She began writing again, and was active in the Hungarian literary world. Journalist. Member of the leadership of the National Christian Socialist Party of Czechoslovakia, and editor of the Party newspaper.

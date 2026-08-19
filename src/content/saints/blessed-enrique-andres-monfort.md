@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Andrés Monfort"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Enrique Andrés Monfort"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Benedicto Andrés"
@@ -17,9 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

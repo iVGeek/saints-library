@@ -1,7 +1,7 @@
 ---
 name: "Saint Antony of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antony of Rome"
 summary: "One of 23 Christians martyred in the persecutions of Gallienus. No other information has survived."
 deathYear: 260
 died: "c.260 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

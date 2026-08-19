@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas of Taw"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Thomas of Taw"
 died: "beheaded in Taw, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
 region: "Egypt"
@@ -10,7 +10,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

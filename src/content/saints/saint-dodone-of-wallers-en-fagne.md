@@ -1,7 +1,7 @@
 ---
 name: "Saint Dodone of Wallers-en-Fagne"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Dodone of Wallers-en-Fagne"
 summary: "Eighth-century Benedictine monk at Lobbes Abbey. Spiritual student of Saint Ursmar of Lobbes in Belgium. Abbot of the monastery of Wallers-en-Fagne, Cambrai, Neustria (in modern France). Late in life he retired to live as a hermit in the area of the moden town of Moustiers-en-Fag"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dodone-of-Wallers-en-Fagne.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eudon of Le Puy"
 honorific: Saint
-title: "Monk"
+title: "Saint Eudon of Le Puy"
 summary: "Monk and then abbot in the area of Le Puy, Aquitaine (in modern France); it was initially named Saint Peter in Le Puy, but was later renamed Saint Chaffre au Monastier."
 searchAliases:
   - "Eudon of St-Chaffre"

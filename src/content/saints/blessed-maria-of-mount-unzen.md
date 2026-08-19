@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria of Mount Unzen"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Maria of Mount Unzen"
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1591
 deathYear: 1627
@@ -15,8 +15,6 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

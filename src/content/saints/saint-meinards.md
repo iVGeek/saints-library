@@ -1,7 +1,7 @@
 ---
 name: "Saint Meinard"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Pope, Missionary"
+title: "Saint Meinard"
 summary: "Member of the Canons Regular of Saint Augustine. Priest. Canon at the Segeberg Abbey in Holstein, Germany. Missionary to the Slavs in the latter 12th century, he worked to convert pagan Semigallians, Latgalians, and Livonians. He settled in the area of modern Riga, Latvia in 1184"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Meinards.jpg"
 searchAliases:
@@ -20,16 +20,14 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Augustinian"
 patronage:
   - "Estonia"
   - "Latvia"
-martyr: true
+martyr: false
 ---
 
 Member of the Canons Regular of Saint Augustine. Priest. Canon at the Segeberg Abbey in Holstein, Germany. Missionary to the Slavs in the latter 12th century, he worked to convert pagan Semigallians, Latgalians, and Livonians. He settled in the area of modern Riga, Latvia in 1184 and built a stone church. Consecrated bishop of Ikšķile in 1186, the first bishop in Latvia. His work received support from Pope Clement III.

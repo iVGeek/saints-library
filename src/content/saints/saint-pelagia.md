@@ -1,7 +1,7 @@
 ---
 name: "Saint Pelagia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pelagia"
 summary: "Martyred in the persecutions of Emperor Licinius."
 deathYear: 320
 died: "beheaded in 320 at Nicopolis, Lesser Armenia"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Saint_pelagia.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

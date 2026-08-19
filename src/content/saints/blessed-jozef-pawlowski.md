@@ -1,7 +1,7 @@
 ---
 name: "Blessed Józef Pawlowski"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Józef Pawlowski"
 summary: "Priest in the diocese of Kielce, Poland, and rector of its seminary. Arrested by the Gestapo on 10 February 1941 and deported to the Dachau concentration camp as part of the Nazi persecution of Christians. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jozef-Pawlowski.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Han Won-So"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Iosephus Han Won-So"
 summary: "Layman catechist in the apostolic vicariate of Korea."
 searchAliases:
   - "Yosep Han Weon-Seo"
@@ -17,10 +17,8 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Layman catechist in the apostolic vicariate of Korea.

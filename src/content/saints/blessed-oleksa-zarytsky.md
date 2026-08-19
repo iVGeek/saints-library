@@ -1,7 +1,7 @@
 ---
 name: "Blessed Oleksa Zarytsky"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Oleksa Zarytsky"
 summary: "Greek Catholic. Entered the seminary in Lviv in 1931. Ordained in 1936. Pastor of the Archeparchy of Lviv for the Ukrainians. Imprisoned for his faith in 1948, he was sentenced to ten years in the forced labour camps, and sent to Karahanda. Released in 1957, he was soon arrested"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Oleksa-Zarytsky.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

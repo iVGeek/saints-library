@@ -1,7 +1,7 @@
 ---
 name: "Blessed Natalio Camazón Junquera"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Natalio Camazón Junquera"
 summary: "The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest, joined the Dominicans in Corias, Spain in 1888, and made his profession there on 29 December 1889. Studied theology at San Esteban de Salamanca, was ordained a prie"
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

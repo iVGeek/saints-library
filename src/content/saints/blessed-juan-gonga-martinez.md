@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Gonga Martínez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Gonga Martínez"
 summary: "Layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Gonga-Martinez.jpg"
 birthYear: 1912
@@ -15,9 +15,7 @@ feastDay:
   month: 11
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

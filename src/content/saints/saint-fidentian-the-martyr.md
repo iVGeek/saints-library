@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidentian the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fidentian the Martyr"
 died: "martyred in North Africa"
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

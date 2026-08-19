@@ -1,7 +1,7 @@
 ---
 name: "Saint Evangelius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Evangelius of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Eucarius"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

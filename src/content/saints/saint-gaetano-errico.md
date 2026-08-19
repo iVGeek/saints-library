@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaetano Errico"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Saint Gaetano Errico"
 summary: "Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt a call to the priesthood at age fourteen. He was"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Cayetano_ovalo.jpg"
 birthYear: 1791
@@ -16,13 +16,10 @@ feastDay:
   day: 29
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
-martyr: true
+martyr: false
 ---
 
 Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt a call to the priesthood at age fourteen. He was turned away by the Capuchins and Redemptorists due to his youth. Studied at a diocesan seminary in Naples, Italy from age sixteen, walking the five miles to class each day, and was ordained on 23 September 1815 in Naples.

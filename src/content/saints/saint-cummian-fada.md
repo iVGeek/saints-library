@@ -1,7 +1,7 @@
 ---
 name: "Saint Cummian Fada"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Cummian Fada"
 summary: "Born to the Irish nobility, the son of King Fiachna of West Munster. Columban monk in Clonfert, Ireland. Founded a monastery at the area which became known as Kilcummin in his honour, and served as its abbot. Supported the Roman system of determining the date of Easter, a matter"
 searchAliases:
   - "Cummian the Tall"
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

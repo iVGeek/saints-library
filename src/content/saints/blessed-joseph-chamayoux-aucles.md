@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph Chamayoux Auclés"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joseph Chamayoux Auclés"
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Jacob Samuel"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

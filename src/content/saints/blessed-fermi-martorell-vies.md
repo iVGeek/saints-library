@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fermí Martorell Vies"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Fermí Martorell Vies"
 summary: "Priest. Member of the Sons of the Holy Family, and the treasurer of his community. Teacher at Saint Peter the Apostle school in Reus, Tarragona, Spain. He was arrested on 27 July 1936 during the persecutions of the Spanish Civil War for the crime of being a priest, imprisoned on"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fermí-Martorell-Vies.jpg"
 birthYear: 1879
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

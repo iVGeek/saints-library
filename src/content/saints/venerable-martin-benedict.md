@@ -1,7 +1,7 @@
 ---
 name: "Venerable Martin Benedict"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Venerable Martin Benedict"
 summary: "A physician, Martin practiced at a series of hospitals from his graduation in 1957 until his death nearly 30 years later. After many years of study, and a series of setbacks from serious illness, he joined the Order of Friars Minor Conventual, making his solemn profession in 1979"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Martin-Benedict.jpg"
 birthYear: 1931
@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 A physician, Martin practiced at a series of hospitals from his graduation in 1957 until his death nearly 30 years later. After many years of study, and a series of setbacks from serious illness, he joined the Order of Friars Minor Conventual, making his solemn profession in 1979. Ordained a priest on 14 September 1980. During all this, he continued his medical work, keeping his religious life as secret as possible due to the persecution of the Romanian Communist secret police, spending as much time as possible in prayer, and ministering to the spiritual as well as physical health of his patients.

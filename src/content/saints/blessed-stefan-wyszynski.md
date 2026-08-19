@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stefan Wyszyński"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Stefan Wyszyński"
 summary: "Born to a poor member of the Polish nobility, Stefan's mother died when the boy was nine years old. Ordained a priest of Wloclawek, Kujawy, Kalisze, Poland on 3 August 1924. He received a doctorate in canon law from Catholic University of Lublin, and then taught at the seminary i"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stefan_Wyszy%C5%84ski.jpg/960px-Stefan_Wyszy%C5%84ski.jpg"
 searchAliases:
@@ -19,12 +19,10 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Born to a poor member of the Polish nobility, Stefan's mother died when the boy was nine years old. Ordained a priest of Wloclawek, Kujawy, Kalisze, Poland on 3 August 1924. He received a doctorate in canon law from Catholic University of Lublin, and then taught at the seminary in Wloclawek.

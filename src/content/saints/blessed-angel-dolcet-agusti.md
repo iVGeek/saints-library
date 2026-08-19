@@ -1,7 +1,7 @@
 ---
 name: "Blessed Àngel Dolcet Agustì"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Àngel Dolcet Agustì"
 summary: "Member of the Claretians, professed on 24 September 1930. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

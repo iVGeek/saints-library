@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion of Algiers"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Saint Serapion of Algiers"
 summary: "As a boy he accompanied his father in the Third Crusade, and was at the battle of Acre in 1191. Member of the Order of Our Lady of Ransom, received into the Order by Saint Peter Nolasco at Barcelona, Spain in 1222. Worked with Saint Raymond Nonnatus to free 150 Christian slaves i"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_Serapio%2C_por_Francisco_de_Zurbar%C3%A1n.jpg/960px-San_Serapio%2C_por_Francisco_de_Zurbar%C3%A1n.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 patronage:
   - "against arthritis"

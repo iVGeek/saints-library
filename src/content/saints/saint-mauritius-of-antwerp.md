@@ -1,7 +1,7 @@
 ---
 name: "Saint Mauritius of Antwerp"
 honorific: Saint
-title: "Martyr"
+title: "Saint Mauritius of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Maurus"
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

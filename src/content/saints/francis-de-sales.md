@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 8 December 1774
 vocation:
   - Bishop
-  - Doctor
   - Founder
 patronage:
   - writers

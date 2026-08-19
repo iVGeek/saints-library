@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathopus the Deacon"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Agathopus the Deacon"
 summary: "Deacon. Marytred with Saint Theodulus during the persecution of Maximinian Herculius for refusing to surrender holy books."
 searchAliases:
   - "Agathopus of Thessalonica"
@@ -15,11 +15,10 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Deacon. Marytred with Saint Theodulus during the persecution of Maximinian Herculius for refusing to surrender holy books.

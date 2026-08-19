@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermes of Adrianople"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Hermes of Adrianople"
 summary: "Bishop of Heraclea. During the persecutions of Diocletian, Saint Hermes and Saint Philip were ordered by governor Basso to close their church and turn over all scriptures and other documents, and all altar furnishings. When Hermes explained that he had no authority to do so, the"
 searchAliases:
   - "Ermete"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

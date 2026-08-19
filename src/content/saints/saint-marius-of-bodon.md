@@ -1,7 +1,7 @@
 ---
 name: "Saint Marius of Bodon"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious"
+title: "Saint Marius of Bodon"
 summary: "Monk. Founder of Bodon abbey at La-Val-Benois, diocese of Sisteron, France c.506, and served as its first abbot. Pilgrim to the tomb of Saint Martin of Tours. Pilgrim to the tomb of Saint Dionysius near Paris, France. There he became sick, but was restored to health by an apparit"
 searchAliases:
   - "Maire"

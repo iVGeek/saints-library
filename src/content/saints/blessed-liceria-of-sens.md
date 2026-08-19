@@ -1,7 +1,7 @@
 ---
 name: "Blessed Liceria of Sens"
 honorific: Blessed
-title: "Martyr, Religious"
+title: "Blessed Liceria of Sens"
 summary: "Nun. Martyr. While other traditions have attached to her over the years, we have no real information about her life."
 died: "relics enshrined in the Saint Remigius monastery in the diocese of Sens, France"
 deathPlace: "France"
@@ -11,7 +11,6 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

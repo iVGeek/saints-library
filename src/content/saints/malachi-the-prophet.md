@@ -1,7 +1,7 @@
 ---
 name: "Malachi the Prophet"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Malachi the Prophet"
 summary: "Fifth century B.C., son of Sapha, Tribe of Zabulon. Post-Exilic and last of the Twelve Minor Prophets and the inspired writer of one of the Canonical Books of the Old Testament. No details of his life have survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Malachi-the-Prophet.jpg"
 searchAliases:
@@ -12,10 +12,8 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Fifth century B.C., son of Sapha, Tribe of Zabulon. Post-Exilic and last of the Twelve Minor Prophets and the inspired writer of one of the Canonical Books of the Old Testament. No details of his life have survived.

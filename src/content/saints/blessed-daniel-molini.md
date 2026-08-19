@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel Molini"
 honorific: Blessed
-title: "Monk, Confessor"
+title: "Blessed Daniel Molini"
 summary: "Cistercian monk, abbot and confessor."
 searchAliases:
   - "Daniele"

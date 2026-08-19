@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michele Rua"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Michele Rua"
 summary: "Son of a weapons manufacturer. Attended a Don Bosco Oratory as a boy, and met Saint John. He impressed Don Bosco so much that the future saint sent Michele to college, and made him his assistant in youth work. Priest. Member of the Salesians of Don Bosco. First successor to Saint"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Rua2.JPG"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

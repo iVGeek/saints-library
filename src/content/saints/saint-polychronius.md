@@ -1,7 +1,7 @@
 ---
 name: "Saint Polychronius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Polychronius"
 summary: "Priest. Attended the Council of Nicaea. Opposed Arianism. Murdered at the altar by Arian extremists while he was celebrating Mass. Martyr."
 died: "4th century"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

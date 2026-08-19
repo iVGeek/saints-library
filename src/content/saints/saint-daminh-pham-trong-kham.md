@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Pham Trong Kham"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ðaminh Pham Trong Kham"
 summary: "Married lay Dominicans in the apostolic vicariate of Central Tonkin (modern Vietnam). Tortured and executed in the persecutions of emperor Tu-Duc rather than stomp on a cross as ordered. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 13
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

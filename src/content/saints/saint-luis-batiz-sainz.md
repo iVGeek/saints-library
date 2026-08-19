@@ -1,7 +1,7 @@
 ---
 name: "Saint Luis Batiz Sainz"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Luis Batiz Sainz"
 summary: "Known as a pious child, Luis entered the seminary at Durango, Mexico at age 12. Ordained on 1 January 1894. Seminary spiritual director and parish priest at Chalchihuites, Mexico the rest of his life. Worked with Catholic Action. Started schools for poor children. Taught catechis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Luis-Batiz-Sainz.jpg"
 birthYear: 1870
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

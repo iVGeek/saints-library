@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufus"
 summary: "Martyred with his entire household in the persecutions of Diocletian. No other information has survived."
 deathYear: 304
 born: "imperial Roman citizen"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

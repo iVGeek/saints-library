@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomé Rodríguez Soria"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Bartolomé Rodríguez Soria"
 summary: "Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

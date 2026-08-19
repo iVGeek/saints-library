@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyprian of Toulon"
 honorific: Saint
-title: "Bishop, Priest, Deacon"
+title: "Saint Cyprian of Toulon"
 summary: "Spiritual student of Saint Caesarius of Arles, who made him arch-deacon in the diocese of Arles, France in 505. Ordained a priest in 506. Bishop of Toulon, France in 516, consecrated by Saint Caesarius. Fought Semi-Pelagianism. Wrote a biography of Saint Caesarius of Arles. Broug"
 searchAliases:
   - "Cyprian of Tolone"

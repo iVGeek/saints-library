@@ -1,7 +1,7 @@
 ---
 name: "Saint Gwendoline"
 honorific: Saint
-title: "Monk"
+title: "Saint Gwendoline"
 summary: "No information has survived."
 searchAliases:
   - "Gwedolen"

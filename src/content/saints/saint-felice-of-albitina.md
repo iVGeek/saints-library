@@ -1,7 +1,7 @@
 ---
 name: "Saint Felice of Albitina"
 honorific: Saint
-title: "Martyr"
+title: "Saint Felice of Albitina"
 summary: "Two people with the same name who were part of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr."
 deathYear: 304
 died: "304"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 12
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

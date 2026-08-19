@@ -1,7 +1,7 @@
 ---
 name: "Saint Bonosa of Porto"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Bonosa of Porto"
 summary: "Martyred in the persecutions of Aurelian."
 deathYear: 207
 died: "c.207 in Porto Romano, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

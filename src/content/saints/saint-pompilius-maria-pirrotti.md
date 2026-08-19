@@ -1,7 +1,7 @@
 ---
 name: "Saint Pompilius Maria Pirrotti"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Pompilius Maria Pirrotti"
 summary: "The sixth of eleven children born to Jerome and Donna Pirrotti; his father was a well-known lawyer. In his mid-teens, Domenico felt a call to religious life, and on 2 February 1727 he joined the Piarists, taking the name Pompilio Maria of Saint Nicholas; he made his solemn profes"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pompilius-Maria-Pirrotti.jpg"
 searchAliases:
@@ -20,13 +20,10 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "Campi Salentina, Italy"
-martyr: true
+martyr: false
 ---
 
 The sixth of eleven children born to Jerome and Donna Pirrotti; his father was a well-known lawyer. In his mid-teens, Domenico felt a call to religious life, and on 2 February 1727 he joined the Piarists, taking the name Pompilio Maria of Saint Nicholas; he made his solemn profession on 25 March 1728 in Brindisi, Italy. He studied in Naples, in Chieti, in Melfi, and began his teaching career in Turi, Italy in 1733. Ordained a priest in the archdiocese of Brindisi on 20 March 1734. Known for a great devotion to Mary, to the Sacred Heart, for the austerity of his life, and for his tireless work with young people in central Italy.

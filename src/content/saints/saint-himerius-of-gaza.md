@@ -1,7 +1,7 @@
 ---
 name: "Saint Himerius of Gaza"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Himerius of Gaza"
 died: "beheaded in Gaza, Palestine"
 deathPlace: "Palestine"
 region: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
-martyr: true
+martyr: false
 ---

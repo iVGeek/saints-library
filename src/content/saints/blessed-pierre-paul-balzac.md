@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-Paul Balzac"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Pierre-Paul Balzac"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1750
 deathYear: 1792
@@ -14,10 +14,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

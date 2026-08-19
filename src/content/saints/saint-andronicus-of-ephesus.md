@@ -1,7 +1,7 @@
 ---
 name: "Saint Andronicus of Ephesus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Andronicus of Ephesus"
 summary: "Born to a prominent family in Ephesus. Tried and tortured for the crime of Christianity in Tarsus, Mopsuestia and Anazarbus in Cilicia during the persecutions of Galerius and Diocletian; local Christians at each town made records of the examinations and abuse. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Andronicus-Probus-and-Tarachus.jpg"
 deathYear: 304
@@ -14,7 +14,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

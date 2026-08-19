@@ -1,7 +1,7 @@
 ---
 name: "Saint Mateo Alonso de Leciñana"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Mateo Alonso de Leciñana"
 summary: "Dominican priest. Missionary to the Philippines, and then to Vietnam. Martyr. One of the Martyrs of Vietnam."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mateo-Alonso-de-Lecinana.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 22
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint João da Silveira"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint João da Silveira"
 summary: "Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Livro_do_Armeiro-Mor._Armas_de_Silveira_Chefe_%28f._68%29.jpg/960px-Livro_do_Armeiro-Mor._Armas_de_Silveira_Chefe_%28f._68%29.jpg"
 deathYear: 1645
@@ -12,9 +12,7 @@ feastDay:
   month: 7
   day: 16
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

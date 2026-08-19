@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dedë Maçaj"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Dedë Maçaj"
 summary: "Studied at the Shkodra Pontifical Seminary and then in Rome, Italy. Ordained on 19 March 1944 as a priest in the archdiocese of Shkodrë-Pult, Albania. Under the anti-Catholic Communist regime in Albania, he was ordered into military service, then imprisoned, tortured and executed"
 image: "http://catholicsaints.info/wp-content/uploads/img-Dom-Dede-Macaj.jpg"
 birthYear: 1920
@@ -16,9 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

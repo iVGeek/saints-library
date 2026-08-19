@@ -1,7 +1,7 @@
 ---
 name: "Blessed Erminia of Rheims"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Erminia of Rheims"
 summary: "A holy woman, very poor, humble, and patient. She moved from Picardy to Rheims, lived near a monastery, and became known for her mystical spirituality, and for a series of visions."
 searchAliases:
   - "Ermina"
@@ -15,8 +15,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

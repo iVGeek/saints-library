@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustorgius of Nicomedia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Eustorgius of Nicomedia"
 summary: "Priest in Nicomedia, Asia Minor. Martyred in the persecutions of Diocletian."
 deathYear: 300
 died: "martyred c.300"
@@ -10,7 +10,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

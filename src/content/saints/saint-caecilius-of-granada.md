@@ -1,7 +1,7 @@
 ---
 name: "Saint Caecilius of Granada"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Caecilius of Granada"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain."
 region: "Spain"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 First century spiritual student of the Apostles. One of the first group of missionaries to Spain.

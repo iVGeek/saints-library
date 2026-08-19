@@ -1,7 +1,7 @@
 ---
 name: "Saint Fagildo of Santiago"
 honorific: Saint
-title: "Monk"
+title: "Saint Fagildo of Santiago"
 summary: "Eleventh century Benedictine monk in Spain. Abbot of the monastery of San Martin de Antealtares in Santiago de Compostela, Spain."
 searchAliases:
   - "Fagildus"

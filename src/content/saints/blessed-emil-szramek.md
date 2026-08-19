@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emil Szramek"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Emil Szramek"
 summary: "Priest in the archdiocese of Katowice, Poland, simultaneously serving as pastor of the parish of Saint Mary in Katowice, and chancellor of the diocesan curia. Along with being a strong spiritual leader, Father Emil was an historian, specializing in his native Silesia. He wrote on"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Emil_Szramek.png"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

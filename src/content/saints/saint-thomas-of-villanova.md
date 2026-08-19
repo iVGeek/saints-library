@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas of Villanova"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Thomas of Villanova"
 summary: "Son of Aloazo Tomas Garcia, a miller, and Lucia Martinez. He grew up in Villanova, Spain, and was educated at the University of Alcala. Professor of arts, logic and philosophy at the university from 1514. Joined the Augustinian friars at Salamanca, Spain in 1516. Ordained in 1518"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tom%C3%A1s_de_Villanueva.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Godelieve"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Godelieve"
 summary: "Born to the Flemish nobility, the daughter of Hemfried, Lord of Wierre-Effray. Married to Bertulf of Ghistelles, a Flemish nobleman, who abandoned her before the wedding feast was over. Abused by her in-laws, especially her mother-in-law, Godelieve was variously locked in a cell,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Strangulation_of_Godelieve.jpg/960px-Strangulation_of_Godelieve.jpg"
 searchAliases:
@@ -28,7 +28,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

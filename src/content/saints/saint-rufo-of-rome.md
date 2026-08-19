@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufo of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufo of Rome"
 summary: "Martyr."
 died: "Generosa cemetery, Rome, Italy"
 deathPlace: "Rome, Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

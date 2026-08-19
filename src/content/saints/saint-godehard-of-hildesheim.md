@@ -1,7 +1,7 @@
 ---
 name: "Saint Godehard of Hildesheim"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Godehard of Hildesheim"
 summary: "Godehard was raised around churchmen, his father working for the canons of Niederaltaich Abbey in Bavaria. Ordained a priest, Godehard joined the canons of Niederaltaich, and became their provost. Benedictine monk. He helped reintroduce the Benedictine Rule at Niederaltaich, whic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Godehard-of-Hildesheim.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -41,7 +39,7 @@ patronage:
   - "–"
   - "in Germany\n\nGotha"
   - "Hildesheim, diocese of"
-martyr: true
+martyr: false
 ---
 
 Godehard was raised around churchmen, his father working for the canons of Niederaltaich Abbey in Bavaria. Ordained a priest, Godehard joined the canons of Niederaltaich, and became their provost. Benedictine monk. He helped reintroduce the Benedictine Rule at Niederaltaich, which then sent abbots to Tegernsee, Hersfeld and Kremsmunster to revive the Benedictine Rule. When Godehard served as abbot of Hersfeld Abbey, he built first walls around the city of Gotha, Germany, the church of Saint Margarethen, and some large gardens. Bishop of Hildesheim, Germany in 1022 where he served for the remaining 16 years of his life.

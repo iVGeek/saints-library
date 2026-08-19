@@ -27,7 +27,6 @@ canonizationStatus: Saint
 canonizedDate: 27 December 1726
 vocation:
   - Priest
-  - Doctor
   - Founder
 religiousOrder: Carmelite
 patronage:

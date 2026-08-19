@@ -1,7 +1,7 @@
 ---
 name: "Saint Menas Kallikelados"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit, Soldier"
+title: "Saint Menas Kallikelados"
 summary: "May have been a camel driver in civilian life. Soldier in the imperial Roman army, serving under Firmilian. During the anti-Christian persecutions of Diocletian and Maximian, Menas left the army for his own safety, and so he would not in any way support such a regime. He retired"
 image: "http://catholicsaints.info/wp-content/gallery/saint-menas-kallikelados/saint-menas.jpg"
 searchAliases:
@@ -32,7 +32,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit

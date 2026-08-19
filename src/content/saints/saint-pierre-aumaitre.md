@@ -1,7 +1,7 @@
 ---
 name: "Saint Pierre Aumaître"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Royalty, Missionary"
+title: "Saint Pierre Aumaître"
 summary: "Eldest of five children in a peasant family; his father was a farmer, his mother a seamstress. Pierre was baptized in Verteuil, France on 26 May 1837, confirmed in Aizecq, France on 21 May 1844, and made his first Communion on 2 May 1847. He early felt a call to the priesthood, w"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-Aumaître.jpg"
 birthYear: 1837
@@ -16,8 +16,6 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

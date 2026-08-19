@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosia of Constantinople"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Theodosia of Constantinople"
 summary: "Nun in Constantinople. Martyred by iconoclasts for defending an icon of Christ which emperor Leo the Isaurian had ordered destroyed."
 image: "https://upload.wikimedia.org/wikipedia/commons/8/86/St._Theodosia.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

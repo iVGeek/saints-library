@@ -1,15 +1,14 @@
 ---
 name: "Saint Abatas of Mauritania"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abatas of Mauritania"
 summary: "Martyr."
 died: "Mauritania"
 feastDay:
   month: 3
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

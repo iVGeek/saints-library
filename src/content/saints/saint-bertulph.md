@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertulph of Renty"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Bertulph of Renty"
 summary: "Convert as a young man in Flanders, Belgium. Managed a farm in Renty, France for Count Wambert for several years. Pilgrim to Rome, Italy. Parish priest in Renty. Founded and led a monastery nearby until his death."
 searchAliases:
   - "Berton"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gelduin"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Gelduin"
 summary: "Monk. Abbot of a monastery near Douai, France. Friend of and extensive correspondent with Saint Anselm of Canterbury."
 deathYear: 1123
 died: "1123 of natural causes"

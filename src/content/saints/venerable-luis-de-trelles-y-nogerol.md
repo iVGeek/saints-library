@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luis de Trelles y Nogerol"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Luis de Trelles y Nogerol"
 summary: "Lifelong layman. Studied at the Seminary of Mondoñedo, Spain, and then studied civil law at the University of Santiago de Compostela, Spain. Taught civil law at the University of Santiago de Compostela in 1839. Opened his own law firm in Viveiro, Spain in 1840, then in La Coruña,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-de-Trelles-y-Nogerol.jpg"
 birthYear: 1819
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Meingosus of Weingarten"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Meingosus of Weingarten"
 summary: "Benedictine monk. Abbot of at Weingarten abbey in Swabia (in modern Germany) c.1188."
 searchAliases:
   - "Megingaud"

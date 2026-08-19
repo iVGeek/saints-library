@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gaspar Fisogiro"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gaspar Fisogiro"
 summary: "Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr."
 searchAliases:
   - "Gaspar Ueda Hikojiro"
@@ -15,11 +15,9 @@ feastDay:
   month: 10
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
-martyr: true
+martyr: false
 ---
 
 Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr.

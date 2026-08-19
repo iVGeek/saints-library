@@ -1,7 +1,7 @@
 ---
 name: "Venerable Domenica Bedonni Bernardini"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Domenica Bedonni Bernardini"
 summary: "Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy. Franciscan tertiary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg"
 birthYear: 1889
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

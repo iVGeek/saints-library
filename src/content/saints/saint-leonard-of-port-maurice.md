@@ -1,7 +1,7 @@
 ---
 name: "Saint Leonard of Port Maurice"
 honorific: Saint
-title: "Virgin, Priest, Monk, Pope, Royalty, Missionary, Confessor"
+title: "Saint Leonard of Port Maurice"
 summary: "Son of Domenico Casanova, a sea captain, and Anna Maria Benza. Placed at age thirteen with his uncle Agostino to study for a career as a physician, but the youth decided against medicine, and his uncle disowned him. Studied at the Jesuit College in Rome, Italy. Joined the Riforme"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/S_Leonardo.JPG"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Priest
   - Missionary
   - Confessor

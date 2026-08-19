@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Aranda Espejo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Manuel Aranda Espejo"
 summary: "Seminarian of the diocese of Jaén, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/Manuel-Aranda-Espejo.jpg"
 birthYear: 1916
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

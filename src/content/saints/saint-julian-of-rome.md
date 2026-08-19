@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julian of Rome"
 summary: "One of a group of over 20 martyrs who died together in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Juliana of Rome"
@@ -14,7 +14,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

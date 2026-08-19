@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticola of Arles"
 honorific: Saint
-title: "Religious, Royalty"
+title: "Saint Rusticola of Arles"
 summary: "Born to the nobility and raised in a Christian family. Nun at an early age at an abbey founded by Saint Caesarius of Arles. Abbess in Arles, Provence (in modern France) for almost 60 years. Known for her deep and meditative prayer life, asceticism, and her endless fight to defend"
 searchAliases:
   - "Marcia"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Royalty
 martyr: false
 ---
 

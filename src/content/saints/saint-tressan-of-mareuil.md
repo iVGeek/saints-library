@@ -1,7 +1,7 @@
 ---
 name: "Saint Tressan of Mareuil"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Tressan of Mareuil"
 summary: "One a group of siblings who evangelized sixth century Rheims, France. The names of the others are given as Helan, Germanus, Saint Gibrian, Petran, Franca, Promptia, and Possenna. Swineherd at Rheims. Ordained by Saint Remigius, who helped in their work. Curate of Mareuil-sur-Marn"
 searchAliases:
   - "Tresain"

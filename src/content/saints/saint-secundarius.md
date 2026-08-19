@@ -1,7 +1,7 @@
 ---
 name: "Saint Secundarius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Secundarius"
 summary: "Martyred in one of the early persecutions, date unknown. No other information has survived."
 died: "martyred in Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

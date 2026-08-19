@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Gregory II"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Pope, Royalty, Missionary, Confessor"
+title: "Pope Saint Gregory II"
 summary: "Involved in Church affairs from an early age. Pope Saint Sergius I ordained Gregory a sub-deacon. He served the next four popes as treasurer of the Church, then librarian. Assigned important missions. Accompanied Pope Constantine to Constantinople for discussions with Emperor Jus"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SsigregoryIIpope.jpg/960px-SsigregoryIIpope.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Deacon

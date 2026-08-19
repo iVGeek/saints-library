@@ -1,7 +1,7 @@
 ---
 name: "Saint Terence of Todi"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Terence of Todi"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Terenzio"
@@ -14,7 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Bassano in Teverina, Italy"

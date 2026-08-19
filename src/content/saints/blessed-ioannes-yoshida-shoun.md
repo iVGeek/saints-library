@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Yoshida Shoun"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ioannes Yoshida Shoun"
 summary: "Convert, baptized by Jesuits in the archdiocese of Nagasaki, Japan. Layman member of the Confraternity of the Holy Rosary. Martyr."
 searchAliases:
   - "John Shoun"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

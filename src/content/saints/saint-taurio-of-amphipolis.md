@@ -1,7 +1,7 @@
 ---
 name: "Saint Taurio of Amphipolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Taurio of Amphipolis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Taurion"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

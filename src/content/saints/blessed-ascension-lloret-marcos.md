@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ascensión Lloret Marcos"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Ascensión Lloret Marcos"
 summary: "Sister in the Carmelite Sisters of Charity, entering the novitiate on 6 December 1898. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ascensión-Lloret-Marcos.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

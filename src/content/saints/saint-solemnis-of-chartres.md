@@ -1,7 +1,7 @@
 ---
 name: "Saint Solemnis of Chartres"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Solemnis of Chartres"
 summary: "Brother of Saint Aventinus of Chartres. Bishop of Chartres, France from c.490."
 searchAliases:
   - "Soleine"

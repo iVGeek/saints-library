@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Rita Lópes Pontes de Souza Brito"
 honorific: Venerable
-title: "Religious, Pope, Royalty, Missionary"
+title: "Saint Maria Rita Lópes Pontes de Souza Brito"
 summary: "Nun in the Congregation of the Missionary Sisters of the Immaculate Conception. She founded the first Catholic workers' organization in the state of Bahia, Brazil; she founded a clinic for the poor, a school for working families, a hospital, an orphanage, and care centers for the"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-maria-rita-lopes-pontes-de-souza-brito/venerable-maria-rita-lopes-pontes-de-souza-brito-01.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Lazarist"
 martyr: false

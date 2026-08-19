@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eleuterio Mancho López"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Eleuterio Mancho López"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Eleuterio Roman"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

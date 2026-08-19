@@ -1,7 +1,7 @@
 ---
 name: "Saint Evodius of Rouen"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Evodius of Rouen"
 summary: "Fifth century bishop of Rouen, France."
 region: "France"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ponsiano Ngondwe"
 honorific: Venerable
-title: "Martyr, Pope, Soldier"
+title: "Saint Ponsiano Ngondwe"
 summary: "Nnyonyi Nnyange clan. Soldier. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ponsiano-Ngondwe.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

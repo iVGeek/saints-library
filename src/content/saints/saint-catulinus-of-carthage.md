@@ -1,7 +1,7 @@
 ---
 name: "Saint Catulinus of Carthage"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Catulinus of Carthage"
 summary: "Deacon martyred in the persecutions of Diocletian."
 searchAliases:
   - "Cartholinus"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapius of Cirta"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Agapius of Cirta"
 summary: "Priest. Exiled to North Africa. Martyred in the persecutions of Valerian."
 deathYear: 259
 born: "Spain"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

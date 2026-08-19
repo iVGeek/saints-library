@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Llagostera Bonet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francesc Llagostera Bonet"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Llagostera-Bonet.jpg"
 birthYear: 1883
@@ -16,9 +16,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

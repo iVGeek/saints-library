@@ -2,7 +2,7 @@
 name: "Blessed Alexander Vincioli"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lucernae_Fictiles_Musei_Passerii_%28IA_bib_fict_8687496_1%29.pdf/page1-960px-Lucernae_Fictiles_Musei_Passerii_%28IA_bib_fict_8687496_1%29.pdf.jpg"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Confessor"
+title: "Blessed Alexander Vincioli"
 summary: "Franciscan priest. Confessor to Pope John XXII. Bishop of Nocera, Umbria, Italy."
 deathYear: 1363
 born: "in Perugia, Italy"
@@ -17,7 +17,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Sindulf of Vienne"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sindulf of Vienne"
 summary: "Bishop of Vienne, France. Attended councils in 625 and 630. Encouraged the monastic life in his diocese."
 searchAliases:
   - "Dreiuls"
@@ -19,10 +19,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Vienne, France. Attended councils in 625 and 630. Encouraged the monastic life in his diocese.

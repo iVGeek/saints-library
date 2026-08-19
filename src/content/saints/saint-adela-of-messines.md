@@ -1,7 +1,7 @@
 ---
 name: "Saint Adela of Messines"
 honorific: Saint
-title: "Monk, Religious, Pope, Royalty"
+title: "Saint Adela of Messines"
 summary: "Born a princess, the daughter of King Robert the Pious of France. Sister of Henry I. Married to Count Baldwin IV of Flanders. Mother of Baldwin VI. Mother-in-law of William the Conqueror. Widowed in 1036. Benedictine nun, receiving the veil from Pope Alexander II. She retired to"
 searchAliases:
   - "Adelais"

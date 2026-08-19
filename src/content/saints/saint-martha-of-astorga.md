@@ -1,7 +1,7 @@
 ---
 name: "Saint Martha of Astorga"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Martha of Astorga"
 summary: "Virgin martyr in the persecutions of Decius."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Martha-of-Astorga.jpg"
 deathYear: 250
@@ -13,7 +13,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Luminosa of Pavia"
 honorific: Saint
-title: "Religious"
+title: "Saint Luminosa of Pavia"
 summary: "Fifth century nun in Pavia, Lombardy, Italy."
 died: "buried in the Basilica of San Vincenzo, Pavia, Italy"
 deathPlace: "Pavia, Italy"

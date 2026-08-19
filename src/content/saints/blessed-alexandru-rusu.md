@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alexandru Rusu"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Alexandru Rusu"
 summary: "One of twelve children of a priest in the Saulia Commune, Mures, Romania. Ordained a priest in the Romanian Greek-Catholic Rite on 20 July 1910. Chosen the first bishop of Maramures, Romania on 17 October 1930. Chosen the archbishop of Fagaras and Alba Iulia, Romania in 1946, a m"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Alexandru_Rusu_2019_stamp_of_Romania.jpg"
 birthYear: 1884
@@ -16,10 +16,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marguerite Parigot"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Marguerite Parigot"
 summary: "At age five, Margaret received her first vision of the Child Jesus. At age eleven she made her First Communion, and then later the same day joined the Carmelites. The girl was soon afflicted with convulsions, rigidity in the limbs, and a constant feeling of fear and oppression. D"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Marguerite-Parigot.jpg"
 searchAliases:
@@ -20,8 +20,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques-Joseph Le jardinier desLandes"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jacques-Joseph Le jardinier desLandes"
 summary: "Priest in the diocese of Coutances, France. One of the Martyrs of September."
 birthYear: 1750
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

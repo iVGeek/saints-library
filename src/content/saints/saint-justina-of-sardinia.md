@@ -2,7 +2,7 @@
 name: "Saint Justina of Sardinia"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lisbon_%28Lisboa%29_historic_elevator_Santa_Justa_Luca_Galuzzi_2006.jpg/960px-Lisbon_%28Lisboa%29_historic_elevator_Santa_Justa_Luca_Galuzzi_2006.jpg"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Justina of Sardinia"
 summary: "Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Giustina"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Ales-Terralba, Italy, diocese of"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth Vendramini"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Elizabeth Vendramini"
 summary: "Elizabeth studied with the Augustinian Sisters. At age 22, against the wishes of her family, she became engaged to a young man from Ferrara, Italy; she broke off the engagement just before the wedding. At age 27 she began teaching at an orphanage run by Franciscan tertiaries. Due"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Vendramini.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

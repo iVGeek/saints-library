@@ -1,7 +1,7 @@
 ---
 name: "Venerable Georgine Noirot"
 honorific: Venerable
-title: "Bishop, Religious, Pope"
+title: "Venerable Georgine Noirot"
 summary: "Drawn to religious life from her youth, Georgine joined the Institute of the Daughters of Saint Vincent de Paul at age 18. She studied in Naples, Italy, and then assigned to Imola, Italy in 1852 to work as a teacher and minister to poor and orphaned girls. She made her profession"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Georgine-Noirot.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-  - Pope
 martyr: false
 ---
 

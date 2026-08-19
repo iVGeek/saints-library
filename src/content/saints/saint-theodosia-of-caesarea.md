@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosia of Caesarea"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Theodosia of Caesarea"
 summary: "Martyred in the persecutions of Diocletian; she died with 12 other Christian women, but none of their names have come down to us."
 deathYear: 303
 died: "303 in Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

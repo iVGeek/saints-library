@@ -1,7 +1,7 @@
 ---
 name: "Saint Meneus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Meneus"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Hymenseus"
@@ -10,7 +10,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantine of Laodicea"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Constantine of Laodicea"
 summary: "Bishop of Laodicea in Anatolia (part of modern Turkey) from c.508 to 518."
 region: "Italy"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Laodicea in Anatolia (part of modern Turkey) from c.508 to 518.

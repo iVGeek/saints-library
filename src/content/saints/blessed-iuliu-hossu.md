@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iuliu Hossu"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Iuliu Hossu"
 summary: "The son of Ioan Hossu and Victoria Mariutiu. He studied at the Seminary of Cluj, Romania, the seminary of Budapest, Hungary, the University of Vienna, Austria, and the Pontifical Urbanian Athenaeum “De Propaganda Fide,” Rome, Italy. He earned a doctorate in philosophy in 1906, an"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Iuliu_Hossu.jpg"
 birthYear: 1885
@@ -16,8 +16,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 martyr: true

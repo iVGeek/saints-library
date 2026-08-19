@@ -1,7 +1,7 @@
 ---
 name: "Saint Abran"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Abran"
 summary: "Brother of Saint Tressan, Saint Helan, Saint Germanus, Saint Gibrian, Saint Petran, Saint Franca, Saint Promptia, and Saint Possenna. Lived as a hermit beside the river Marne in France."
 searchAliases:
   - "Abranus"

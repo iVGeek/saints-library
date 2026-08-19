@@ -1,7 +1,7 @@
 ---
 name: "Saint Vulgis of Lobbes"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Vulgis of Lobbes"
 summary: "Benedictine monk. Abbot of Lobbes Abbey, Belgium. Bishop in the Hainault region of Belgium."
 deathYear: 760
 died: "c.760 of natural causes"

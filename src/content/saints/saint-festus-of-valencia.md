@@ -1,7 +1,7 @@
 ---
 name: "Saint Festus of Valencia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Festus of Valencia"
 summary: "Fifth-century bishop of Valencia, Spain. When his city was invaded by barbarians, their leader Chrocus demanded that the people renounce Christianity; they refused, and Chrocus turned his men loose on them. Festus and many of his flock died as martyrs."
 searchAliases:
   - "Sextus"
@@ -12,7 +12,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

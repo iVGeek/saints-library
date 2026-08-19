@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Karłowska"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Maria Karłowska"
 summary: "Born into a large family and pious family, Maria was in her teens when she was orphaned and became an apprentice seamstress in Berlin, Germany. She always had a devotion to the Sacred Heart, and developed a ministry to the sick in the city. Nun. Founder of the Sisters of the Divi"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/B%C5%82._Maria_Angela_Kar%C5%82owska.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

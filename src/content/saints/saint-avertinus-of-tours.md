@@ -1,7 +1,7 @@
 ---
 name: "Saint Avertinus of Tours"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Hermit, Confessor"
+title: "Saint Avertinus of Tours"
 summary: "Deacon who travelled into exile in France with Saint Thomas Becket. Participated in the synod of Tours, France in 1163. After the death of Saint Thomas, Avertinus dedicated himself to the service of the poor and strangers at Vinzai, Touraine, France, and spent his final years as"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Avertinus-of-Tours.jpg"
 searchAliases:
@@ -17,13 +17,12 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Deacon
   - Confessor
 patronage:
   - "against migraines"
-martyr: true
+martyr: false
 ---
 
 Deacon who travelled into exile in France with Saint Thomas Becket. Participated in the synod of Tours, France in 1163. After the death of Saint Thomas, Avertinus dedicated himself to the service of the poor and strangers at Vinzai, Touraine, France, and spent his final years as a hermit.

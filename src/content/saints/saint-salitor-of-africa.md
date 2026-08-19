@@ -1,7 +1,7 @@
 ---
 name: "Saint Salitor of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Salitor of Africa"
 summary: "Martyred in Africa, date unknown. No other information has survivied."
 searchAliases:
   - "Salutaris of Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

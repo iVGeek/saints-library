@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerbold of Bayeux"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gerbold of Bayeux"
 summary: "Benedictine monk at Ebriciacum (in modern France). Founder and abbot of the abbey of Livray, France. Bishop of Bayeux, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gerbold-of-Bayeux.jpg"
 searchAliases:

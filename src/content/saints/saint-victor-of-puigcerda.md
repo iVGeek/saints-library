@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Puigcerda"
 honorific: Saint
-title: "Martyr, Monk, Royalty, Missionary"
+title: "Saint Victor of Puigcerda"
 summary: "Missionary in the Pyrenees, working with Saint Vincent of Puigcerda and Saint Orontius of Puigcerda. Martyr."
 deathYear: 305
 born: "at Cimiez, France"
@@ -14,9 +14,7 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
   - Missionary
 martyr: true
 ---

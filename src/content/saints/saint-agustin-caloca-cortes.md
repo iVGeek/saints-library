@@ -1,7 +1,7 @@
 ---
 name: "Saint Agustin Caloca Cortes"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Agustin Caloca Cortes"
 summary: "Studied at the seminary in Guadalajara, Mexico until it was closed down by anti-clerical government forces. He resumed his studies in the covert Auxiliary Seminary of Our Lady of Guadalajara founded by Saint Cristobal Magallanes. Ordained on 5 August 1923. Prefect of the Auxiliar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agustin-Caloca-Cortes.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 25
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

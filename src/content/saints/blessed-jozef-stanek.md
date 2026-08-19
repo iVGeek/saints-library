@@ -1,7 +1,7 @@
 ---
 name: "Blessed Józef Stanek"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Józef Stanek"
 summary: "Baptized at the age of one day, Jozef was orphaned at age six. He was educated at a Pallottine school in Wadowice, Poland, and in 1935 at age 18, he became a Pallottine novice. Ordained a priest on 7 April 1941, he started his three year ministry in a Poland that was under Nazi o"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jozef-Stanek.jpg"
 birthYear: 1916
@@ -16,10 +16,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Pallottine"
 martyr: true
 ---

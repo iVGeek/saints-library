@@ -1,7 +1,7 @@
 ---
 name: "Blessed Primo Martínez de San Vicente Castillo"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Primo Martínez de San Vicente Castillo"
 summary: "Joined the Hospitallers of Saint John of God in 1885 and making his final vows on 11 October 1887. Superior of the school in Talavera, Spain. Martyred in the Spanish Civil War."
 birthYear: 1869
 deathYear: 1936
@@ -14,10 +14,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

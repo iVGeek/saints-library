@@ -1,7 +1,7 @@
 ---
 name: "Blessed Boniface of Villers"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Boniface of Villers"
 summary: "Cistercian monk. Prior of the abbey in Villers, Belgium."
 deathYear: 1280
 died: "c.1280 of natural causes"

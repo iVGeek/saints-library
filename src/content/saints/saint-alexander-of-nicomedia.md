@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Nicomedia"
 summary: "One of a group of Christians martyred in the persecutions of Diocletian. No other information has survived."
 deathYear: 303
 died: "303 in Nicomedia (in modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

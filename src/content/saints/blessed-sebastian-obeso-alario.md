@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sebastián Obeso Alario"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Sebastián Obeso Alario"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Honorio Sebastián"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

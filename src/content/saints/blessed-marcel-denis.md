@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marcel Denis"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Marcel Denis"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1919
 deathYear: 1961
@@ -15,9 +15,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

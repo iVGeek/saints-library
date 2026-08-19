@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Lorenzo Larragueta Garay"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Lorenzo Larragueta Garay"
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 12
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

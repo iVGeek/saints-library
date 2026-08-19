@@ -1,7 +1,7 @@
 ---
 name: "Saint Orentius of Loret"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Orentius of Loret"
 summary: "Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint Lawrence of Rome. Martyr."
 searchAliases:
   - "Orentius of Huesca"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

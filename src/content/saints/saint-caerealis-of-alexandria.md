@@ -1,7 +1,7 @@
 ---
 name: "Saint Caerealis of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Caerealis of Alexandria"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cerulus"
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

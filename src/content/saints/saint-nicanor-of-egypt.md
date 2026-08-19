@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicanor of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nicanor of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Nicandro"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Poggio di Roio, Aquila, Italy"

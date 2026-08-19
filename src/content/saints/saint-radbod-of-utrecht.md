@@ -1,7 +1,7 @@
 ---
 name: "Saint Radbod of Utrecht"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Radbod of Utrecht"
 summary: "Grandson of the last pagan king of the Frisons of the Netherlands. Raised by his uncle Gunther, bishop of Cologne, Germany, and educated at the convent school there. Part of the court of King Charles the Bald. Benedictine bishop of Utrecht, Netherlands in 900, joining the Benedic"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Radbod-of-Utrecht.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Catholic University, Nijmegan, Netherlands"

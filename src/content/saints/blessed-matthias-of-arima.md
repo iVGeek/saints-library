@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthias of Arima"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Matthias of Arima"
 summary: "Layman catechist who worked with Jesuit missionaries in Japan. Seized and tortured to get information about the missionaries; he told his torturers nothing. Martyr."
 searchAliases:
   - "Matthias of Omura"
@@ -17,9 +17,7 @@ feastDay:
   month: 5
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

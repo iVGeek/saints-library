@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gonçalo Henriques"
 honorific: Blessed
-title: "Martyr, Monk, Deacon, Pope, Missionary"
+title: "Blessed Gonçalo Henriques"
 summary: "Deacon. Jesuit scholar. Friend and companion of Blessed Ignatius de Azevedo. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 searchAliases:
   - "Gundisalvus Hendriquez"
@@ -16,10 +16,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

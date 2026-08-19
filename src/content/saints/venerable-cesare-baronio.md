@@ -1,7 +1,7 @@
 ---
 name: "Venerable Cesare Baronio"
 honorific: Venerable
-title: "Martyr, Priest, Deacon, Pope, Cardinal, Royalty, Confessor"
+title: "Venerable Cesare Baronio"
 summary: "Born to the nobility in Naples, Italy, the son of Camillo Baronio and Porzia Febonia. Educated in Veroli, Italy. Studied law in Naples and Rome, Italy. Doctor of law. Friend and spiritual student of Saint Phillip Neri. Joined Saint Phillip's Congregation of the Oratory in 1557. S"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Cesare-Baronio-1.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
   - Confessor

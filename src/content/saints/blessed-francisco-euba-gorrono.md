@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Euba Gorroño"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Euba Gorroño"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Euba-Gorroño.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

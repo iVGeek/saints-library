@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro Petroni"
 honorific: Blessed
-title: "Priest, Monk"
+title: "Blessed Pietro Petroni"
 summary: "Pietro showed great personal piety as a boy, and in his teens devoted himself to the care of sick people, especially lepers. Following a call to religious life, and against the wishes of his family, Pietro joined the Carthusians at the Maggiani charter house near Florence, Italy"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-Petroni.jpg"
 searchAliases:

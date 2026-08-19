@@ -1,7 +1,7 @@
 ---
 name: "Saint Digna of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Digna of Rome"
 summary: "Consecrated virgin, an early version of a nun. When dragged to court for the crime of Christianity during the persecutions of Valerian, she simply stood in front of the judge and prayed. Martyr."
 deathYear: 259
 died: "c.259 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

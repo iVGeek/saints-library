@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Gnoffi"
 honorific: Blessed
-title: "Virgin, Bishop, Hermit"
+title: "Blessed William Gnoffi"
 summary: "Born to the Sicilian nobility, William early felt a call to religion, possibly in response to briefly giving himself over to the sins of the flesh as a teenager, and at age 15 he fled the family estate to live as a hermit in the caves near the ruins of the monastery of Saints Cos"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-William-Gnoffi.jpg"
 searchAliases:

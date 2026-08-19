@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francisca Pascual Doménech"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Francisca Pascual Doménech"
 summary: "Founded the Franciscan Sisters of the Immaculate in 1876."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisca-Pascual-Domenech.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Afra of Augsburg"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Afra of Augsburg"
 summary: "A prostitute in Augsburg, Germany. During the Diocletian persecutions, c.303, she and her mother Hilaria hid their bishop from the authorities. While in hiding, he brought them to the faith, and Afra devoted herself to working with the poor. Eventually she was ordered to sacrific"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Afra-of-Augsburg-1.jpg"
 deathYear: 304
@@ -15,11 +15,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "Augsburg, Germany, city of"
   - "Augsburg, Germany, diocese of"

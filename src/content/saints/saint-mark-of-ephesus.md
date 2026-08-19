@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark of Ephesus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Mark of Ephesus"
 summary: "Martyr."
 died: "stoned to death near Ephesus, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"
@@ -11,8 +11,7 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SaintMarkRochesterMinnesota.jpg/960px-SaintMarkRochesterMinnesota.jpg"
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

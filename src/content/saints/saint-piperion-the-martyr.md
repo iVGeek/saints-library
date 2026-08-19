@@ -1,7 +1,7 @@
 ---
 name: "Saint Piperion the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Piperion the Martyr"
 summary: "One of a group of 22 martyrs who died together."
 deathYear: 257
 died: "c.257 in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

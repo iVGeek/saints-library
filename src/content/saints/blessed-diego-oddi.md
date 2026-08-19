@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diego Oddi"
 honorific: Blessed
-title: "Pope, Royalty"
+title: "Blessed Diego Oddi"
 summary: "Son of Vicenzo Oddi and Bernardina Pasquali; raised in a poor but pious farm family. He had little education, but learned as much about the faith as he could. About age 20 he felt a call to the religious life, but his family strongly objected. He met Blessed Mariano da Roccacasal"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Oddi.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

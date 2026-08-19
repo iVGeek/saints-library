@@ -1,7 +1,7 @@
 ---
 name: "Saint Basil of Parion"
 honorific: Saint
-title: "Bishop, Religious"
+title: "Saint Basil of Parion"
 summary: "Bishop of Parion, Mysia (an area of modern Turkey) during the reign of Emperor Leo Isaureren. Defended the use of icons and images during the iconoclasm heresy, refused to sign and abide by imperial iconoclast orders, would not have contact with heretics, and prohibited them comi"
 searchAliases:
   - "Basil of Parium"

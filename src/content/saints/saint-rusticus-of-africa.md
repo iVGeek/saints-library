@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rusticus of Africa"
 summary: "One of a group of 21 Christians martyred together in the persecutions of Decius."
 deathYear: 250
 born: "African"
@@ -12,7 +12,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

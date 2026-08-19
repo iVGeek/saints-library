@@ -1,7 +1,7 @@
 ---
 name: "Saint Redempta of Rome"
 honorific: Saint
-title: "Monk"
+title: "Saint Redempta of Rome"
 summary: "Holy ascetic woman who lived near the church of Saint Mary Major in Rome, Italy."
 deathYear: 580
 died: "c.580"

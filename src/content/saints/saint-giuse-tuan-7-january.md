@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Tuân"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Giuse Tuân"
 summary: "Married layman, a father, a family man and a farmer. In the persecutions of Tu Duc, Guise was ordered to trample on a cross to prove he was not a Christian. Instead, he knelt before the cross and began praying. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

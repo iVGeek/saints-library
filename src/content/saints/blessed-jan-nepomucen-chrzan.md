@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan Nepomucen Chrzan"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jan Nepomucen Chrzan"
 summary: "Raised in a family with seven children. Graduated in 1906 at the Royal Grammar School in Ostrow, Poland. Studied at the seminaries in Poznan and Gniezno, Poland. Ordained on 30 January 1910 in the archdiocese of Gniezno, Poland. Arrested by the Nazis on 6 October 1941 as part of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Nepomucen-Chrzan.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

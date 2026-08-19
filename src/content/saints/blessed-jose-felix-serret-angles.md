@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Félix Serret Anglés"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed José Félix Serret Anglés"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pedro Jerónimo"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

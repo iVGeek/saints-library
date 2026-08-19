@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrinus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Cyrinus of Rome"
 summary: "Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Quirinus"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

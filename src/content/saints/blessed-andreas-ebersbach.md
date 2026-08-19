@@ -2,7 +2,7 @@
 name: "Blessed Andreas Ebersbach"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ebersbach_Pfarrhaus.jpg/960px-Ebersbach_Pfarrhaus.jpg"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Andreas Ebersbach"
 summary: "Premonstratensian monk. Canon of the monastery in Teplá, Bohemia (in the modern Czech Republic). Abbot of Teplá in 1599; he served in that office for 30 years. Known for his strict adhereance to the Rule of his Order, and commended by diocesan authorities for his work as a Christ"
 birthYear: 1554
 deathYear: 1629

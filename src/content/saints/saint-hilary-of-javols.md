@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilary of Javols"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Hilary of Javols"
 summary: "Sixth-century bishop of Javols, France."
 region: "France"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Sixth-century bishop of Javols, France.

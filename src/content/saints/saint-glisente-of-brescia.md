@@ -1,7 +1,7 @@
 ---
 name: "Saint Glisente of Brescia"
 honorific: Saint
-title: "Hermit, Soldier"
+title: "Saint Glisente of Brescia"
 summary: "Eighth-century officer in the army of Blessed Charlemagne. Following his defeat of the Lombards in Valle Camonica, Glisente received permission to leave the army and pursue a call to religious life. He spent the rest of his days as a hermit, living in a cave on Mount Berzo near B"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glisente-of-Brescia.jpg"
 searchAliases:

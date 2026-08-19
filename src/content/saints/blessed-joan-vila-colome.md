@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Vilá Colomé"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Joan Vilá Colomé"
 summary: "Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Father Josep of Calella de La Costa"
@@ -17,13 +17,10 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and murdered by Marxists in the Spanish Civil War.

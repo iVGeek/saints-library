@@ -1,7 +1,7 @@
 ---
 name: "Saint Christiana"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Christiana"
 summary: "Anglo-Saxon princess. Nun in Flanders, Belgium."
 searchAliases:
   - "Christine"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Termonde, Belgium"
 martyr: false

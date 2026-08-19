@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles Meehan"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Charles Meehan"
 summary: "Franciscan priest. Martyred in connection with the Titus Oates Plot."
 searchAliases:
   - "Charles Mahoney"
@@ -16,9 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

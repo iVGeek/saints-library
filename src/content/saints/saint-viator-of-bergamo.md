@@ -1,7 +1,7 @@
 ---
 name: "Saint Viator of Bergamo"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Viator of Bergamo"
 summary: "Disciple of the Apostles. Bishop of Bergamo, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg"
 searchAliases:
@@ -14,12 +14,11 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:
   - "catechists"
-martyr: true
+martyr: false
 ---
 
 Disciple of the Apostles. Bishop of Bergamo, Italy.

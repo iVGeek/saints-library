@@ -1,7 +1,7 @@
 ---
 name: "Saint Luxorius of Sardinia"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Luxorius of Sardinia"
 summary: "Christian soldier in the imperial Roman army. Comforted Saint Cisellus and Saint Camerinus after the boys had been sentenced to death. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Luxorius-of-Sardinia.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

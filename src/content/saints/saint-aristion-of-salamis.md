@@ -1,7 +1,7 @@
 ---
 name: "Saint Aristion of Salamis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aristion of Salamis"
 summary: "One of Jesus's 72 disciples. Preached in Cyprus. Martyr."
 died: "burned to death on a funeral pyre at the Battle of Salamis in Cyprus"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Cyprus"

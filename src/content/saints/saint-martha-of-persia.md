@@ -1,7 +1,7 @@
 ---
 name: "Saint Martha of Persia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Martha of Persia"
 summary: "Born to the nobility. Wife of Saint Maris, mother of Saint Audifax and Saint Abachum. Convert. Martyred with her whole family in the persecutions of Aurelian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Via-Cornelia.jpg"
 deathYear: 270
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

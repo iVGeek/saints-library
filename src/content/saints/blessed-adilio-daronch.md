@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adilio Daronch"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Adilio Daronch"
 summary: "Young lay person in the diocese of Frederico Westphalen, Brazil. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Adilio-Daronch.jpg"
 birthYear: 1908
@@ -16,8 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

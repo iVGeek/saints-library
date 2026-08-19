@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adelelmo of Engelberg"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Adelelmo of Engelberg"
 summary: "Benedictine monk at the Saint Blaise of Hirsau monastery in the Black Forest. He led several brother monks to the new abbey of Engelberg nell'Unterwalden in Switzerland; he served there as its first prior and abbot. Spiritual teacher of the founder, Blessed Conrad of Sellenburen."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adelelmo-of-Engelberg.jpg"
 searchAliases:

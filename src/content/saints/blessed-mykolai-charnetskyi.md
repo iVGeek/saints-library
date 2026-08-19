@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mykolai Charnetskyi"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Mykolai Charnetskyi"
 summary: "Greek Catholic. Ordained on 2 October 1909. Received a doctorate in Dogmatic Theology in Rome, Italy. Entered the Redemptorist novitate at Zboysko in 1919, making his vows on 16 September 1920. Spiritual director and professor at the seminary in Stanislaviv (modern Ivano-Frankivs"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mykolai-Charnetskyi.gif"
 searchAliases:
@@ -22,11 +22,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

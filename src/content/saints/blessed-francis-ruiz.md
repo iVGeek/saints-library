@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Ruiz"
 honorific: Blessed
-title: "Martyr, Royalty, Missionary"
+title: "Blessed Francis Ruiz"
 summary: "Mercedarian. Missionary to Chile in 1569. Worked in Ecuador and then in Cusco, Peru, working from the Mercedarian convent there. Martyred by pagan natives while preaching."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Ruiz.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Royalty
   - Missionary
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Cottam"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Deacon, Pope, Missionary"
+title: "Blessed Thomas Cottam"
 summary: "Son of Laurence Cottam and Anne Brewer; raised in a Protestant family. Educated at Brasenose College, Oxford, England, receiving a Master of Arts on 14 July 1572. Master of a grammar school in London, England. Adult convert to Catholicism. Studied at Douai, France, and at Rome, I"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Melchior_k%C3%BCsel-tom%C3%A1s_cottam.jpg"
 deathYear: 1582
@@ -13,8 +13,6 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
   - Missionary

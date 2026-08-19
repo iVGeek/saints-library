@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulinus of Trier"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Missionary"
+title: "Saint Paulinus of Trier"
 summary: "Missionary to Germany where he worked with Saint Maximinus in the area of Trier. Bishop of Trier in 349. Strongly supported Saint Athanasius of Alexandria, which led to him being exiled to Phrygia, Asia Minor by the Arian Emperor Constantius in 355; he was never able to return to"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Denkmal_Paulinus_von_Trier.jpg/960px-Denkmal_Paulinus_von_Trier.jpg"
 deathYear: 358
@@ -15,7 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

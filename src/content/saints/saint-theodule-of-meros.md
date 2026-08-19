@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodule of Meros"
 honorific: Saint
-title: "Martyr"
+title: "Saint Theodule of Meros"
 summary: "Tortured and martyred in the persecutions of emperor Julian the Apostate and governor Almachio."
 searchAliases:
   - "Teodulo"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

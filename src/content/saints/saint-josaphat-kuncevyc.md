@@ -1,7 +1,7 @@
 ---
 name: "Saint Josaphat Kuncevyc"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Royalty"
+title: "Saint Josaphat Kuncevyc"
 summary: "His father was a municipal counselor, and his mother known for her piety. Raised in the Orthodox Ruthenian Church which, on 23 November 1595 in the Union of Brest, united with the Church of Rome. Trained as a merchant's apprentice at Vilna, Lithuania, he was offered partnership i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Josaphat-Kuncevyc-2.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

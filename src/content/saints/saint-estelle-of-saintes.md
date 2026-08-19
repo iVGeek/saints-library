@@ -1,7 +1,7 @@
 ---
 name: "Saint Estelle of Saintes"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Estelle of Saintes"
 summary: "Descended from a powerful family of Druids, and the daughter of a imperial Roman official. A convert to Christianity, baptized by Saint Eutropius of Saintes; when Saint Eutropius was martyred, Estelle saw to his burial. Her father ordered Estelle to renounce her new faith; she re"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Estelle-of-Saintes.jpg"
 searchAliases:
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "girls"

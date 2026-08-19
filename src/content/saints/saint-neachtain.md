@@ -1,7 +1,7 @@
 ---
 name: "Saint Neachtain of Cill-Uinche"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Neachtain of Cill-Uinche"
 summary: "A relative of Saint Patrick. Present at Patrick's death."
 searchAliases:
   - "Neachtain of Fennor"
@@ -14,9 +14,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 A relative of Saint Patrick. Present at Patrick's death.

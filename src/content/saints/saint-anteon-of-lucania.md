@@ -1,7 +1,7 @@
 ---
 name: "Saint Anteon of Lucania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anteon of Lucania"
 summary: "Martyr."
 died: "Lucania (modern Basilicata), Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

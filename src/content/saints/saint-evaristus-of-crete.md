@@ -1,7 +1,7 @@
 ---
 name: "Saint Evaristus of Crete"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Evaristus of Crete"
 summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

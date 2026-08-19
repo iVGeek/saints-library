@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Moyenmoutier"
 honorific: Saint
-title: "Monk"
+title: "Saint John of Moyenmoutier"
 summary: "Twin brother of Saint Benignus. Monk at Moyenmoutier. Spiritual student of Saint Hidulphus."
 deathYear: 707
 died: "707 of natural causes"

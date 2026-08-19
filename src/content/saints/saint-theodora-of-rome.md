@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodora of Rome"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Theodora of Rome"
 summary: "Sister of Saint Hermes of Rome whom she visited and supported when Hermes was in prison. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-of-Rome.jpg"
 deathYear: 125
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

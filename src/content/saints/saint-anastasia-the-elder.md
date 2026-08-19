@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasia the Elder"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Anastasia the Elder"
 summary: "Third-century nun. Spiritual student of Saint Sophia. Tortured, mutilated (breasts, hands and feet cut off and teeth broken out) and executed for her faith during the persecutions of Valerian."
 searchAliases:
   - "Anastasia II"
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

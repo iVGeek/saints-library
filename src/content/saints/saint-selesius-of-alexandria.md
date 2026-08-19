@@ -1,7 +1,7 @@
 ---
 name: "Saint Selesius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Selesius of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Seleucus"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

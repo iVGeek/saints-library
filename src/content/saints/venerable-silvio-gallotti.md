@@ -1,7 +1,7 @@
 ---
 name: "Venerable Silvio Gallotti"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Silvio Gallotti"
 summary: "Priest in the diocese of Novara, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Silvio-Gallotti.jpg"
 birthYear: 1881
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

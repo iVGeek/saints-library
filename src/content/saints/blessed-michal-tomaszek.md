@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michał Tomaszek"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Michał Tomaszek"
 summary: "Franciscan Conventual priest. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Michael-Tomaszek.jpg"
 birthYear: 1960
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

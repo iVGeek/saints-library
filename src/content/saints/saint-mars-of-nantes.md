@@ -1,7 +1,7 @@
 ---
 name: "Saint Mars of Nantes"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Mars of Nantes"
 summary: "Sixth century bishop of Nantes, France."
 region: "France"
 feastDay:

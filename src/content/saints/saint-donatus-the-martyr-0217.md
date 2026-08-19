@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Donatus the Martyr"
 summary: "Evangelist in the area of Iulia Concordia (modern Concodia Saggitaria), Italy who brought many people to the faith, and then died with them during the persecutions Diocletian. One of the Martyrs of Concordia."
 deathYear: 304
 died: "beheaded on 17 February 304 at Porto Gruaro on the banks of the Lemene River outside Iulia Concordia (modern Concodia Saggitaria), Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

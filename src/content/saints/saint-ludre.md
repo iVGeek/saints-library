@@ -1,7 +1,7 @@
 ---
 name: "Saint Ludre"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ludre"
 summary: "Son of Saint Leocadio of Déols. A convert, he died almost immediately after baptism, still wearing the white robes."
 searchAliases:
   - "Lusor"
@@ -14,9 +14,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Son of Saint Leocadio of Déols. A convert, he died almost immediately after baptism, still wearing the white robes.

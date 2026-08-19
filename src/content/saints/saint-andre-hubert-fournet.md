@@ -1,7 +1,7 @@
 ---
 name: "Saint André-Hubert Fournet"
 honorific: Venerable
-title: "Confessor"
+title: "Saint André-Hubert Fournet"
 summary: "Andrew had a strong religious upbringing, nagged by his mother to become a priest. Andrew resisted, and tried to study at Poitiers, but began leading a wild life. Out of school, his mother convinced him to stay with his uncle, a priest. The uncle's good example so moved Andrew th"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Andr%C3%A9-Hubert_Fournet.jpg"
 searchAliases:

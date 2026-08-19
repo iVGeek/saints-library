@@ -1,7 +1,7 @@
 ---
 name: "Saint Photius of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Photius of North Africa"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Focius"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

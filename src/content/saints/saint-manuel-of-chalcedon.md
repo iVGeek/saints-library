@@ -1,7 +1,7 @@
 ---
 name: "Saint Manuel of Chalcedon"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Manuel of Chalcedon"
 summary: "One of three well-educated Christian men who were sent as ambassadors from King Baltan of Persia to the court of emperor Julian the Apostate to negotiate peace between the two states, and an end of Julian's persecutions of Christians. Instead of negotiating, Julian imprisoned the"
 deathYear: 362
 born: "Persian"
@@ -13,9 +13,7 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

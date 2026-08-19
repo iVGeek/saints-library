@@ -1,7 +1,7 @@
 ---
 name: "Saint Jacobus Lacops"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Jacobus Lacops"
 summary: "Norbertine monk at Middelburg, Belgium. In 1566 he apostatized, writing and preaching against the Church. He later repented, rejoined his order, and retired to his abbey to do penance. One of the Gorkum Martyrs."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Jacobus-Lacops.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

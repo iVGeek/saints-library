@@ -1,7 +1,7 @@
 ---
 name: "Saint Corona the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Corona the Martyr"
 summary: "Teenaged wife of an Imperial Roman soldier stationed in Damascus, Syria. Cared for Saint Victor the Martyr when he was arrested for his faith. For this display of her own faith, she was arrested and martyred."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Corona-the-Martyr.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

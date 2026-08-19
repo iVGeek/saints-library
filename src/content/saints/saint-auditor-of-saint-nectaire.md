@@ -1,7 +1,7 @@
 ---
 name: "Saint Auditor of Saint-Nectaire"
 honorific: Saint
-title: "Monk, Pope, Missionary"
+title: "Saint Auditor of Saint-Nectaire"
 summary: "Missionary sent by Pope Saint Fabian to take the faith into Gaul in the 3rd century, centering his work around the modern Auvergne, France. Worked with Saint Austremonius, Saint Gatianus of Tours, Saint Trophimus of Arles, Saint Paul of Narbonne, Saint Martial of Limoges, Saint D"
 searchAliases:
   - "Auditeur"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Missionary
 patronage:
   - "Saint-Nectaire, Puy-de-Dôme, France"

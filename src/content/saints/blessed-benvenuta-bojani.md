@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benvenuta Bojani"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Benvenuta Bojani"
 summary: "Youngest of seven daughters. She refused to play any childhood games that smacked of worldliness or vanity; by age twelve she was voluntarily wearing hair shirts and a rope belt. As she grew, the rope began to cut into her; it had to be removed, but was too embedded to be untied."
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Benvenuta_Boiani.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 10
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

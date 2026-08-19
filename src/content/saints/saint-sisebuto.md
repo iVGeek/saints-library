@@ -1,7 +1,7 @@
 ---
 name: "Saint Sisebuto"
 honorific: Saint
-title: "Monk"
+title: "Saint Sisebuto"
 summary: "Monk. Abbot of the Spanish monastery of Cardena."
 searchAliases:
   - "Sisebut"

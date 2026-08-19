@@ -1,7 +1,7 @@
 ---
 name: "Saint Jenaro Sánchez DelGadillo"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Jenaro Sánchez DelGadillo"
 summary: "Seminarian at Guadalajara, Mexico. Ordained in 1911. Priest at several parishes, including Tecolotlan, Jalisco. Noted for his combination of pastoral work with his parishioners and the sick, and for his organzational and administrative skills. When anti-religious laws were promul"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jenaro-Sanchez-DelGadillo.jpg"
 birthYear: 1886
@@ -16,10 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Vivian of Saintes"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Vivian of Saintes"
 summary: "Bishop of Saintes, France. Protected his people during the Visigoth invasion."
 searchAliases:
   - "Bibiano"

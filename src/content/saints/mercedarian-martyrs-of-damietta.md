@@ -1,7 +1,7 @@
 ---
 name: "Mercedarian Martyrs of Damietta"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Mercedarian Martyrs of Damietta"
 summary: "Three Mercedarian lay knights who worked to ransom Christians enslaved by Muslims. During the 7th Crusade, a plague swept through the Christian army and these knights volunteered to work with the sick. During this work they were captured by Muslims and ordered to convert to Islam"
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Martyrs-of-Damietta.jpg"
 died: "thrown from a tower in the mid-13th century in Damietta, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

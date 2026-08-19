@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Watkinson"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Watkinson"
 summary: "Priest in the apostolic vicariate of England. Only a month after his ordination, he was imprisoned and executed in the persecutions of Queen Elizabeth I for the crime of being a priest. Martyr."
 deathYear: 1602
 born: "in Hemingbrough, North Yorkshire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

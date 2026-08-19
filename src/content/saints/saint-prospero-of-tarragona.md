@@ -1,7 +1,7 @@
 ---
 name: "Saint Prospero of Tarragona"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Deacon, Pope"
+title: "Saint Prospero of Tarragona"
 summary: "Bishop of Tarragona, Spain c.693. In 711, ahead of Muslim invaders, Prospero packed up the cathedral's liturgical books and the relics of Saint Fructuosus of Tarragona and other martyrs, and fled Spain with his cathedral priests, Giustino and Procopio, and cathedral deacons, Marz"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Prospero-of-Tarragona-1.jpg"
 deathYear: 715
@@ -14,11 +14,9 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Camogli, Italy"

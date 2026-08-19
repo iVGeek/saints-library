@@ -1,7 +1,7 @@
 ---
 name: "Saint Smaragdus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Smaragdus of Rome"
 summary: "Martyr."
 died: "at the 7 mile marker, on the Via Ostia, Rome, Italy"
 deathPlace: "on the Via Ostia, Rome, Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

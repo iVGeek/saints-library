@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatho of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agatho of Sicily"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agatone"
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

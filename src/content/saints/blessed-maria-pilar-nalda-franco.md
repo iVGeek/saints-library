@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Pilar Nalda Franco"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed María Pilar Nalda Franco"
 summary: "The daughter of Manuel, a physician, and Josefa, a housewife, Pilar was a member of the Daughters of Mary in her youth, and when old enough, joined the Daughters of Charity. She studied at the Santa Isabel hospital in Jerez de la Frontera, Spain, and entered her novitiate on 6 Oc"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Pilar-Nalda-Franco.jpg"
 birthYear: 1871
@@ -16,10 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

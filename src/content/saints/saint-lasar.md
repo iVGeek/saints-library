@@ -1,7 +1,7 @@
 ---
 name: "Saint Lasar"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Lasar"
 summary: "Sixth century nun in Ireland. Niece of Saint Forchera."
 searchAliases:
   - "Lassar"

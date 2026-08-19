@@ -1,14 +1,13 @@
 ---
 name: "Saint Marinus of Silistria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marinus of Silistria"
 summary: "Martyr."
 feastDay:
   month: 7
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

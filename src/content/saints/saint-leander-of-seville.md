@@ -1,7 +1,7 @@
 ---
 name: "Saint Leander of Seville"
 honorific: Saint
-title: "Confessor"
+title: "Saint Leander of Seville"
 summary: " Converted Saint Hermengild and Prince Reccared, sons of the Arian Visigoth ki Son of Severianus and Theodora, known for their piety. Elder brother of Saint Isidore of Seville, Saint Fulgentius of Ecija, and Saint Florentina of Cartagena. Monk at Seville, Spain. Bishop of Seville."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/San_Leandro.jpg"
 searchAliases:

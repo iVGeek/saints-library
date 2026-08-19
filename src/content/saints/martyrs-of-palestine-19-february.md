@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Palestine"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Palestine"
 summary: "An unknown number of monks and lay people massacred together for their faith by Saracens led by Mundhir III (Alamondir)."
 deathYear: 509
 died: "c.509 in Palestine"
@@ -12,9 +12,8 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eusebius-of-caesarea.jpg"
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 An unknown number of monks and lay people massacred together for their faith by Saracens led by Mundhir III (Alamondir).

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludwik Mzyk"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ludwik Mzyk"
 summary: "The fifth of ten children born in the family of a pious coal miner. Early feeling a call to the priesthood, Ludwyk entered the seminary in Heiligenkreuz in his teens; when there was a break in the classes, he would go home to work in the mines to help support his family. Joined t"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-ludwik-mzyk/blessed-ludwik-mzyk-01.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

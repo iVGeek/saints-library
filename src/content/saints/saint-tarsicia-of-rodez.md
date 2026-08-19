@@ -1,7 +1,7 @@
 ---
 name: "Saint Tarsicia of Rodez"
 honorific: Saint
-title: "Martyr, Religious, Hermit, Royalty"
+title: "Saint Tarsicia of Rodez"
 summary: "Granddaughter of King Clotaire II of the Franks. Sister of Saint Ferreolus of Uzès. Lived as a hermit near Rodez, France."
 searchAliases:
   - "Tarsitia"
@@ -13,11 +13,9 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
   - Hermit
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Granddaughter of King Clotaire II of the Franks. Sister of Saint Ferreolus of Uzès. Lived as a hermit near Rodez, France.

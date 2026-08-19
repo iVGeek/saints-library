@@ -1,7 +1,7 @@
 ---
 name: "Saint Ia"
 honorific: Saint
-title: "Martyr, Virgin, Religious, Missionary"
+title: "Saint Ia"
 summary: "Sister of Saint Ercus (Euny). Spiritual student of Saint Baricus. Missionary to Cornwall with Saint Fingar, Saint Piala and as many as 777 companions. Legend says that to reach Cornwall, she sailed across the Irish Sea on a leaf. Saint Ives, Cornwall is named for her. Martyr."
 searchAliases:
   - "Hia"
@@ -18,7 +18,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Religious
   - Missionary

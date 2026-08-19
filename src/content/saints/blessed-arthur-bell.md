@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arthur Bell"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Arthur Bell"
 summary: "Studied at Saint Omer and at the Royal College of Saint Alban, Valladolid, Spain. Ordained in Salamanca, Spain in 1618. Joined the Franciscans in 1618. Worked in Douai and Gravelines in France, and Brussels, Belgium. He returned to England to minister to covert Catholics in 1634."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arthur-Bell.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Piacenza"
 honorific: Saint
-title: "Monk"
+title: "Saint Victorinus of Piacenza"
 summary: "Monk. Abbot of the San Sabinus monastery in Piacenza, Italy."
 region: "Italy"
 feastDay:

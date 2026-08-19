@@ -1,7 +1,7 @@
 ---
 name: "Blessed Silvestre Perez Laguna"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Silvestre Perez Laguna"
 summary: "Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

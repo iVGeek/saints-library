@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guglielmo de Carraria"
 honorific: Blessed
-title: "Monk, Soldier"
+title: "Blessed Guglielmo de Carraria"
 summary: "Soldier. Mercedarian knight at the convent of Santa Maria d'Esteron in Menorca, Spain. Noted for his austere lifestyle and personal piety."
 searchAliases:
   - "William of Carraria"

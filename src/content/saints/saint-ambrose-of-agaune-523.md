@@ -1,7 +1,7 @@
 ---
 name: "Saint Ambrose of Agaune"
 honorific: Saint
-title: "Monk"
+title: "Saint Ambrose of Agaune"
 summary: "Abbot of the monastery of Agaunum, Switzerland."
 deathYear: 523
 died: "523"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomeo of Simeri"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Monk, Hermit"
+title: "Blessed Bartolomeo of Simeri"
 summary: "The son of Giorgio and Elena, a pious couple who consecrated the boy to God, and insured he had a good education, both religious and secular. As a young man, he left to become a spiritual student of the desert hermit fathers. During this time he received a monk's robe, the tonsur"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeo-of-Simeri.jpg"
 searchAliases:

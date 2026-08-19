@@ -1,7 +1,7 @@
 ---
 name: "Saint Vulflagius of Abbeville"
 honorific: Saint
-title: "Martyr, Priest, Hermit"
+title: "Saint Vulflagius of Abbeville"
 summary: "Priest who lived as a hermit near Abbeville, France. Greatly venerated in Montreuil-sur-Mer, France."
 searchAliases:
   - "Vulfiafius"
@@ -16,10 +16,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Priest who lived as a hermit near Abbeville, France. Greatly venerated in Montreuil-sur-Mer, France.

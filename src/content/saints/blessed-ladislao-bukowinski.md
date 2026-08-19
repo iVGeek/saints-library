@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ladislao Bukowinski"
 honorific: Blessed
-title: "Priest, Pope, Cardinal, Missionary"
+title: "Blessed Ladislao Bukowinski"
 summary: "One of three children born to Jozef Tsypriyan Bukowinski and Vladislav Jadwiga Schipo del Campo, he was baptized at the age of four days. Naturalized Polish citizen. Studied law and theology at Jagiellonian University. Ordained a priest in the diocese of Krakow, Poland on 28 June"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Bukowinski.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: false

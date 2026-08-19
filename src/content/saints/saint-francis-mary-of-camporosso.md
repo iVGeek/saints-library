@@ -1,7 +1,7 @@
 ---
 name: "Saint Francis Mary of Camporosso"
 honorific: Venerable
-title: "Monk, Pope, Royalty"
+title: "Saint Francis Mary of Camporosso"
 summary: "The son of Anselmo Croese and Maria Antonia Garza, Giovanni was baptized at the age of two days. He joined the Order of Friars Minor Capuchin on 14 October 1822, taking the name Francis Mary, and passing his novitiate at the convent of Saint Barnabas outside Genoa, Italy. Known f"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Francis-Mary-of-Camporosso-1.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Camporosso, Italy"

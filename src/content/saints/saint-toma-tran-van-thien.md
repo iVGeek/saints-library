@@ -1,7 +1,7 @@
 ---
 name: "Saint Tôma Tran Van Thien"
 honorific: Venerable
-title: "Martyr, Pope, Missionary"
+title: "Saint Tôma Tran Van Thien"
 summary: "Entered the seminary of the Paris Foreign Missionary Society in the apostolic vicariate of Cochinchina, Vietnam in his late teens. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/saint-toma-tran-van-thien/saint-toma-tran-van-thien-01.jpg"
 birthYear: 1820
@@ -16,8 +16,6 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 martyr: true
 ---

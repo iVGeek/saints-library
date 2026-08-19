@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Eleutherius"
 summary: "Deacon. Tortured and martyred with Saint Denis."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rusticus-and-Saint-Eleuthere.jpg"
 deathYear: 258
@@ -12,7 +12,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gudelia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gudelia"
 summary: "Maiden martyred in the persecutions of Shapur II."
 deathYear: 340
 died: "c.340 at Persia"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alexis Choemon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Alexis Choemon"
 summary: "Married layman in the diocese of Niigata, Japan. Brother-in-law of Blessed Candidus “Bozu”. Martyr."
 birthYear: 1603
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

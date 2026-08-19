@@ -1,7 +1,7 @@
 ---
 name: "Saint Theoctistus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theoctistus"
 summary: "Basilian monk. Founded the Nicholas Abbey at the foot of Monte San Calogero near Cucumo, Sicily, and served as its first abbot."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theoctistus.jpg"
 deathYear: 830
@@ -13,11 +13,10 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Termini Imerese, Italy"
-martyr: true
+martyr: false
 ---
 
 Basilian monk. Founded the Nicholas Abbey at the foot of Monte San Calogero near Cucumo, Sicily, and served as its first abbot.

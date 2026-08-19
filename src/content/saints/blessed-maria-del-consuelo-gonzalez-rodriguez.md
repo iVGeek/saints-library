@@ -1,7 +1,7 @@
 ---
 name: "Blessed María del Consuelo González Rodríguez"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed María del Consuelo González Rodríguez"
 summary: "Sister in the Daughters of the Patronage of Mary. Martyred in the Spanish Civil War."
 searchAliases:
   - "María Josefa"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

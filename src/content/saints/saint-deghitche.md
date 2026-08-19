@@ -1,7 +1,7 @@
 ---
 name: "Saint Deghitche"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Deghitche"
 summary: "Listed on several early Irish calendars and martyrologies, but no information about her has survived."
 searchAliases:
   - "Deghitghi"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

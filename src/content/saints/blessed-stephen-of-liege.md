@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stephen of Liège"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Stephen of Liège"
 summary: "Canon of Saint Denis, Liège, Belgium. Benedictine monk at Saint Vannes monastery, Verdun, France. Founded the monastery of Saint Laurence at Liège, and served as its first abbot."
 deathYear: 1061
 died: "1061 of natural causes"

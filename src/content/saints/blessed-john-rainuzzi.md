@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Rainuzzi"
 honorific: Blessed
-title: "Monk"
+title: "Blessed John Rainuzzi"
 summary: "Benedictine monk at Saint Margaret's monastery at Todi, Italy. Noted for his charity."
 deathYear: 1330
 died: "c.1330"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Casas Ros"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Josep Casas Ros"
 summary: "Cousin of Blessed Josep Casas Juliá. Seminarian in the archdiocese of Barcelona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Casas-Ros.jpg"
 birthYear: 1916
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

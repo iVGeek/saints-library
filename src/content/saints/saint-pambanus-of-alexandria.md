@@ -1,7 +1,7 @@
 ---
 name: "Saint Pambanus of Alexandria"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Pambanus of Alexandria"
 summary: "Spiritual student of Origen. Martyred in the persecutions of Severus."
 deathYear: 206
 died: "c.206 in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

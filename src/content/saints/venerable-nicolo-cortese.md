@@ -1,7 +1,7 @@
 ---
 name: "Venerable Nicolò Cortese"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Venerable Nicolò Cortese"
 summary: "Professed priest in the Friars Minor Conventual."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/PlacidoCortese1933.jpg/960px-PlacidoCortese1933.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Professed priest in the Friars Minor Conventual.

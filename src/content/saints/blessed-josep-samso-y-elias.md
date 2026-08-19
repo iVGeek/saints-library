@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Samsó y Elias"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Josep Samsó y Elias"
 summary: "Josep grew up in the town of Rubí in the area of Barcelona, Spain. He studied at the College of the Marist Brothers, the diocesan seminary of Barcelona, and then the Pontifical Institute of Tarragona, Spain. Ordained a priest in the Archdiocese of Barcelona on 12 March 1910. Secr"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-josep-samso-y-elias/venerable-josep-samso-y-elias-01.jpg"
 birthYear: 1887
@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Marist"
 martyr: true
 ---

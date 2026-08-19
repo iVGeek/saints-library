@@ -1,7 +1,7 @@
 ---
 name: "Saint Asclepius of Limoges"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Asclepius of Limoges"
 summary: "Priest. Bishop of Limoges, France. Founded a Benedictine monastery in Limoges and restored the cloister in Bourges, France."
 searchAliases:
   - "Asclipe"

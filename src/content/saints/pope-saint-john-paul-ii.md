@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint John Paul II"
 honorific: Venerable
-title: "Virgin, Bishop, Priest, Pope, Cardinal, Royalty, Doctor of the Church"
+title: "Pope Saint John Paul II"
 summary: "For many years Karol believed God was calling him to the priesthood, and after surviving two nearly fatal accidents, he responded to the call. He studied secretly during the German occupation of Poland, and was ordained on 1 November 1946. In these years he came to know and pract"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 22
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

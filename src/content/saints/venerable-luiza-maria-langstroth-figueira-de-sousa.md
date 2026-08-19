@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luiza Maria Langstroth Figueira de Sousa"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Luiza Maria Langstroth Figueira de Sousa"
 summary: "Born to the Portuguese nobility, Luiza was raised to use her resources to help the poor. She grew up in a time when the Church was disdained, opposed and suppressed in Portugal, but her faith never waivered. Gathering a group of like-minded people, dedicated to the faith and the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Luiza-Maria-Langstroth-Figueira-de-Sousa.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

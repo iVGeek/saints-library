@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Aymillo"
 honorific: Blessed
-title: "Bishop, Priest"
+title: "Blessed Peter Aymillo"
 summary: "Mercedarian friar. Priest. Bishop."
 died: "Narbonne, France of natural causes"
 deathPlace: "Francenatural causes"

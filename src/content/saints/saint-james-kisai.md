@@ -1,7 +1,7 @@
 ---
 name: "Saint James Kisai"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint James Kisai"
 summary: "Raised Buddhist. Convert to Christianity. Married layman, and father of one son. His wife returned to her Buddhist roots; the two separated, and placed their child with a Christian family. Worked as a layman with the Jesuits in Osaka, Japan, caring for guests in their residence."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Statue_of_Diogo_Kisai.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

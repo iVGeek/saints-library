@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amadeu Amalrich Rasclosa"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Amadeu Amalrich Rasclosa"
 summary: "Member of the Claretians, professed on 15 August 1928. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

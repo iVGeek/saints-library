@@ -1,7 +1,7 @@
 ---
 name: "Saint Graecina of Volterra"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Graecina of Volterra"
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."
 searchAliases:
   - "Gracinea"
@@ -13,7 +13,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
 patronage:
   - "Gracinea of Volterra"

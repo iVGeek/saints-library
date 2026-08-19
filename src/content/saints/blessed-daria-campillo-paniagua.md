@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daría Campillo Paniagua"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Daría Campillo Paniagua"
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
 birthYear: 1873
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

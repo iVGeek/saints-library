@@ -1,7 +1,7 @@
 ---
 name: "Saint Castus of Sinuessa"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Castus of Sinuessa"
 summary: "Bishop in Sinuessa, Campania, Italy, a town since destroyed by earthquake. Martyr."
 deathYear: 305
 died: "305 in Sinuessa, Campania, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

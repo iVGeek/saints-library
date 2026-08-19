@@ -1,7 +1,7 @@
 ---
 name: "Blessed Raymond of Capua"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Raymond of Capua"
 summary: "Studied at the University of Bologna, Italy. Dominican priest. Held assorted offices in various Dominican friaries around Italy including prior of the house in Rome, and lector in Florence and Siena. Spiritual director of, close advisor to, and extensive correspondent with Saint"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Raimondo_-_Legenda_maior_sanctae_Catharinae_Senensis%2C_1477_-_573577.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

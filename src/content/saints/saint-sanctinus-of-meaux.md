@@ -1,7 +1,7 @@
 ---
 name: "Saint Sanctinus of Meaux"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Sanctinus of Meaux"
 summary: "Spiritual student of Saint Denis of Paris. First bishop of Meaux, France."
 deathYear: 300
 died: "c.300"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Marseilles"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty, Soldier"
+title: "Saint Victor of Marseilles"
 summary: "Christian soldier in the imperial Roman army, he was imprisoned in Marseilles, France when he refused to worship pagan gods. While in awaiting execution, he converted other prisoners. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Woudrichem_-_Nooit_Gedagt_-_Victor_van_Marseille.jpg/960px-Woudrichem_-_Nooit_Gedagt_-_Victor_van_Marseille.jpg"
 deathYear: 290
@@ -14,10 +14,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
   - Soldier
 religiousOrder: "Jesuit"
 patronage:

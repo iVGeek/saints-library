@@ -1,7 +1,7 @@
 ---
 name: "Saint Maches"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Maches"
 summary: "Sister of Saint Cadog. Sixth century shepherdess killed by robbers who wished to steal her finest ram. Saint Tathyw built a church on the spot where she was killed in Merthyr Maches and had her body removed to his monastery at Caerwent."
 searchAliases:
   - "Machuta"

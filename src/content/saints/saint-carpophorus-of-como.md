@@ -1,7 +1,7 @@
 ---
 name: "Saint Carpophorus of Como"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Carpophorus of Como"
 summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Carpophorus-of-Como.jpg"
 deathYear: 295
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

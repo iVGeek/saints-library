@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Ioannina"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed John of Ioannina"
 summary: "A tailor by trade, John was murdered by Muslims for refusing to renounce Christianity. Martyr."
 searchAliases:
   - "John of Janina"
@@ -14,8 +14,7 @@ feastDay:
   month: 4
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

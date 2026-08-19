@@ -1,7 +1,7 @@
 ---
 name: "Saint Copra of Egypt"
 honorific: Saint
-title: "Martyr, Monk, Pope, Hermit"
+title: "Saint Copra of Egypt"
 summary: "Desert hermit in Egypt. Helped lead Saint Patermutius to the faith. At age 45 he was arrested in the persecutions of Julian the Apostate for refusing to sacrifice to idols. Through flattery and the offer of riches, Julian convinced Copra to renounce Christianity. Copra was then s"
 searchAliases:
   - "Copres"
@@ -14,9 +14,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Hermit
 martyr: true
 ---

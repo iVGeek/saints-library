@@ -1,7 +1,7 @@
 ---
 name: "Saint Digna of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Digna of Sicily"
 summary: "Martyr. No other information has survived."
 died: "in Sicily"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrilla of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyrilla of Rome"
 summary: "Daughter of Saint Tryphonia of Rome. Known for her charity and almsgiving. Martyred in the persecutions of Claudius II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cyrilla-of-Rome.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

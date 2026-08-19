@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnin"
 honorific: Saint
-title: "Martyr"
+title: "Saint Domnin"
 summary: "A child convert to Christianity, Domnin was imprisoned, tortured and executed for his faith in the persecutions of Riziovarus."
 searchAliases:
   - "Domnin of Avrillé"
@@ -18,8 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Image-Vienne-Cropped.jpg"
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

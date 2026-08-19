@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Silvanus of North Africa"
 summary: "Martyred in North Africa."
 searchAliases:
   - "Sylvanus"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

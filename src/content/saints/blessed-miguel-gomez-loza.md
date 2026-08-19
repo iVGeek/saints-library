@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Gómez Loza"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miguel Gómez Loza"
 summary: "Born to a peasant family, his father died when Miguel was very young. He was a pious boy, promoted the social doctrine of the Church, and was a member of the Catholic Association of Mexican Youth. He was married to María Guadalupe Sánchez Barragán in 1922, and the couple had thre"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Gomez-Loza.jpg"
 birthYear: 1808
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicholas of Flüe"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit, Soldier"
+title: "Saint Nicholas of Flüe"
 summary: "Born to a family of relatively wealthy peasants. Soldier who distinguished himself in combat against the break-away canton of Zurich and eventually reached the rank of captain; reported to have fought with a sword in one hand, a rosary in the other. At age 30 he married Dorothy W"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nicholas-Flue.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
   - Soldier
 patronage:

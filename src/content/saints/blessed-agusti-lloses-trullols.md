@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agustí Llosés Trullols"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Agustí Llosés Trullols"
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
 birthYear: 1906
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Saddi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fortunatus of Saddi"
 summary: "Martyred in the persecutions of Decius."
 died: "at Pieve de' Saddi, Pietralunga, Italy"
 deathPlace: "Pietralunga, Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

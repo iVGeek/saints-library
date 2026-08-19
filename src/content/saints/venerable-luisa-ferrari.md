@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luisa Ferrari"
 honorific: Venerable
-title: "Religious, Pope, Missionary"
+title: "Venerable Luisa Ferrari"
 summary: "Founded the Institute of the Franciscan Missionary Sisters of the Incarnate Word."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Luisa-Ferrari.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

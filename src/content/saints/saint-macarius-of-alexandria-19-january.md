@@ -1,7 +1,7 @@
 ---
 name: "Saint Macarius of Alexandria"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Macarius of Alexandria"
 summary: "Monk. Priest. Bishop. Abbot of a community in the mountains of Scete, Egypt."
 searchAliases:
   - "Macarius the Alexandrian"

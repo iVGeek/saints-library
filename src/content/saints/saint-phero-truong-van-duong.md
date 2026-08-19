@@ -1,7 +1,7 @@
 ---
 name: "Saint Phêrô Truong Van Ðuong"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Phêrô Truong Van Ðuong"
 summary: "Lifelong layman in the apostolic vicariate of West Tonkin. Catechist. One of the Martyrs of Vietnam."
 searchAliases:
   - "Peter Truong Van Duong"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

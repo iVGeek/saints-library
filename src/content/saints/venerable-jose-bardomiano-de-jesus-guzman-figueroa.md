@@ -1,7 +1,7 @@
 ---
 name: "Venerable José Bardomiano de Jesús Guzmán Figueroa"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Venerable José Bardomiano de Jesús Guzmán Figueroa"
 summary: "Priest. Member of the Missionaries of the Holy Spirit. Founded the Eucharistic Missionaries of the Most Holy Trinity."
 searchAliases:
   - "Pablo María"
@@ -17,10 +17,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest. Member of the Missionaries of the Holy Spirit. Founded the Eucharistic Missionaries of the Most Holy Trinity.

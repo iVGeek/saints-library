@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Díez Pérez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Gregorio Díez Pérez"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

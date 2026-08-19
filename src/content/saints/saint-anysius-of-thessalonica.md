@@ -1,7 +1,7 @@
 ---
 name: "Saint Anysius of Thessalonica"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Anysius of Thessalonica"
 summary: "Bishop of Thessalonica, Macedonia in 383, he was involved in the political and religious struggles of the time. Vicar apostolic of Illyricum. Defended Saint John Chrysostom during that saint's exile. Highly regarded by his peers, Saint John Chrysostom, Saint Ambrose of Milan, Pop"
 searchAliases:
   - "Anysius of Salonika"
@@ -15,7 +15,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

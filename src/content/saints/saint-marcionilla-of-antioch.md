@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcionilla of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcionilla of Antioch"
 summary: "Married laywoman. Mother of Saint Celsus of Antioch. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Celsus-and-Saint-Marcionilla.jpg"
 deathYear: 302
@@ -13,7 +13,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

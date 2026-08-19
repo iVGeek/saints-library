@@ -1,7 +1,7 @@
 ---
 name: "Blessed Perfecto Domínguez Monge"
 honorific: Blessed
-title: "Martyr, Virgin, Pope"
+title: "Blessed Perfecto Domínguez Monge"
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Perfecto-Dominguez-Monge.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

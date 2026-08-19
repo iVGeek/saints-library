@@ -1,7 +1,7 @@
 ---
 name: "Saint Conon the Younger"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Conon the Younger"
 summary: "Son of Saint Conon the Elder. A pious youth, he was a lector at age 12. Deacon. He and his father were charged with the treason of being Christian; he freely admitted it. Tortured and martyred."
 searchAliases:
   - "Cuomo the Younger"
@@ -18,7 +18,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

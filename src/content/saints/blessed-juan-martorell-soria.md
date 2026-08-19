@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Martorell Soria"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Martorell Soria"
 summary: "Sacristan in his hometown parish of Saint Anthony the Abbot. Joined the Salesians in 1923. Priest. Imprisoned, tortured and murdered in the persecutions of the Spanish Civil War. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Martorell-Soria.jpg"
 birthYear: 1889
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

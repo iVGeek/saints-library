@@ -1,7 +1,7 @@
 ---
 name: "Saint Roswinda"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Roswinda"
 summary: "Sister of Saint Ottilia. Benedictine nun at Hohenburg, Alsace, France."
 died: "8th century of natural causes"
 region: "France"

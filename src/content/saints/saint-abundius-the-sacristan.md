@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundius the Sacristan"
 honorific: Saint
-title: "Monk, Pope"
+title: "Saint Abundius the Sacristan"
 summary: "Sacristan of the Church of Saint Peter in Rome, Italy. His simple, humble, holy life was an inspiration to all who knew him. Saint Gregory the Great wrote a story of his life."
 searchAliases:
   - "Abonde"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
 martyr: false
 ---
 

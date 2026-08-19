@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius of Cordoba"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Anastasius of Cordoba"
 summary: "Deacon of the church of Saint Acisclus in Cordoba, Spain. Monk at the double monastery of T&aacute;banos. Priest. One of the first three martyrs of Cordoba, killed for their faith by order of the Moorish caliph."
 searchAliases:
   - "Anastasio"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

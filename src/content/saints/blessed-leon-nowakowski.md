@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leon Nowakowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Leon Nowakowski"
 summary: "Priest in the diocese of Wloclawek, Poland. Executed for defending the faith in the face of Nazi persecution. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leon-Nowakowski.jpg"
 birthYear: 1913
@@ -16,9 +16,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Licinius"
 honorific: Blessed
-title: "Martyr, Bishop, Soldier"
+title: "Blessed Licinius"
 summary: "Soldier martyr."
 searchAliases:
   - "Lesé"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg/960px-Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg"
 vocation:
-  - Martyr
   - Bishop
   - Soldier
 martyr: true

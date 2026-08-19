@@ -1,7 +1,7 @@
 ---
 name: "Saint Osio of Córdoba"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Confessor"
+title: "Saint Osio of Córdoba"
 summary: "Bishop of Córdoba, Spain c.295. Managed to survive the persecutions of Maximian. Presided at the First Council of Nicaea in 325. Presided at the Council of Serdicain 343. Prominent advocate for Homoousion Christianity in the Arian controversy. Close advisor to Emperor Constantine"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Osio-of-Cordoba.jpg"
 searchAliases:
@@ -27,11 +27,10 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Bishop of Córdoba, Spain c.295. Managed to survive the persecutions of Maximian. Presided at the First Council of Nicaea in 325. Presided at the Council of Serdicain 343. Prominent advocate for Homoousion Christianity in the Arian controversy. Close advisor to Emperor Constantine the Great.

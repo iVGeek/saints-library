@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maddalena Caterina Morano"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed Maddalena Caterina Morano"
 summary: "Her father and older sister died when Maddalena was 8 years old, and the girl had to work to help support her large family. She managed to work and study, and in 1866 she graduated as an elementary school teacher. She wanted to enter religious life, but her family needed her, and"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magdalena_Morano.jpg"
 birthYear: 1847
@@ -16,12 +16,10 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Salesian"
-martyr: true
+martyr: false
 ---
 
 Her father and older sister died when Maddalena was 8 years old, and the girl had to work to help support her large family. She managed to work and study, and in 1866 she graduated as an elementary school teacher. She wanted to enter religious life, but her family needed her, and she worked for 12 years as a teacher in rural Montaldo, Italy teaching catechism in her parish.

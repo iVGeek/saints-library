@@ -1,7 +1,7 @@
 ---
 name: "Saint Candidus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Candidus of Africa"
 summary: "One of a group of Christians martyred together in Africa, date unknown, exact location unknown."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

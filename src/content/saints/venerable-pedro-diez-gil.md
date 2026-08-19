@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pedro Díez Gil"
 honorific: Venerable
-title: "Virgin, Priest, Pope, Royalty"
+title: "Venerable Pedro Díez Gil"
 summary: "Studied at the Escuelas Pías de Tolosa in Guipúzcoa, Spain, a school run by the Piarists. He joined the Piarists himself in Zaragoza, Spain, making his solemn profession on 25 March 1935. Later in 1935 he began teaching kindergarten in Zaragoza, a position where he would work for"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Pedro-Diez-Gil.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

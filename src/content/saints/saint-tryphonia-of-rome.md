@@ -1,7 +1,7 @@
 ---
 name: "Saint Tryphonia of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Tryphonia of Rome"
 summary: "Mother of Saint Cyrilla of Rome. Third-century widow and martyr."
 searchAliases:
   - "Tryfonia"
@@ -13,9 +13,7 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

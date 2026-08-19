@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Thwing"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Thwing"
 summary: "Studied at Douai, France. Priest, ordained in 1665. Returning to England, he served as chaplain for his cousin, Sir Miles Stapleton, and chaplain to a Yorkshire school. Arrested in 1680, accused of involvement in the Titus Oates Plot. Martyr."
 searchAliases:
   - "Thomas Thweng"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Donough MacCready"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Donough MacCready"
 summary: "Priest in the diocese of Down and Connor, Ireland. One of the Irish Martyrs."
 deathYear: 1608
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

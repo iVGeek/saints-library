@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Motoyama"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Ioannes Motoyama"
 summary: "Member of the royal house of Firando. Relative of Blessed Ioannes Iwanga. Layman. Martyr."
 searchAliases:
   - "John"
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

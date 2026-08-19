@@ -1,7 +1,7 @@
 ---
 name: "Saint Stêphanô Nguyen Van Vinh"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Stêphanô Nguyen Van Vinh"
 summary: "Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned, tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 12
   day: 19
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

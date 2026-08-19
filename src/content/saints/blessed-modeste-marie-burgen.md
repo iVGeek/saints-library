@@ -1,7 +1,7 @@
 ---
 name: "Blessed Modeste-Marie Burgen"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Royalty, Soldier"
+title: "Blessed Modeste-Marie Burgen"
 summary: "Trappist monk at the abbey of Settefonti, Ozzano dell'Emilia, Italy. When it was suppressed as part of the anti-Christian effort at the start of the French Revolution, he fled to the Cistercian Congregation of Casamari where he was received as a new brother, making his simple vow"
 image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
-  - Royalty
   - Soldier
 martyr: true
 ---

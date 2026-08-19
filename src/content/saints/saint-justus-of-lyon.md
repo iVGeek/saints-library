@@ -1,7 +1,7 @@
 ---
 name: "Saint Justus of Lyon"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Hermit, Royalty, Confessor"
+title: "Saint Justus of Lyon"
 summary: " When a violently insane criminal sought sanctuary in the cathedral of Lyon afte Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%C3%89glise_Saint-Just_Lyon_statue.jpg/960px-%C3%89glise_Saint-Just_Lyon_statue.jpg"
 searchAliases:
@@ -18,12 +18,11 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan.

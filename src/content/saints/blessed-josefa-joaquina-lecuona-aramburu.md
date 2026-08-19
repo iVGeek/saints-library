@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josefa Joaquina Lecuona Aramburu"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Josefa Joaquina Lecuona Aramburu"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

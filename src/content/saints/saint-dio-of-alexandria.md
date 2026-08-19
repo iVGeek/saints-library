@@ -1,7 +1,7 @@
 ---
 name: "Saint Dio of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Dio of Alexandria"
 summary: "Priest. Martyred in the Diocletian."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

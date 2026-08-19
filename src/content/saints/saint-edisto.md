@@ -1,7 +1,7 @@
 ---
 name: "Saint Edisto"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Edisto"
 summary: "Born to the imperial Roman nobility. Soldier. Equerry to emperor Nero. Convert, baptized by Saint Peter the Apostle. Betrayed by a servant for the crime of being a Christian during the persecutions of Nero, Edisto was captured by soldiers during a covert Mass with four other cong"
 image: "http://catholicsaints.info/wp-content/uploads/SantEdisto.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 patronage:
   - "Sant Oreste, Italy"

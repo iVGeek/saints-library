@@ -1,7 +1,7 @@
 ---
 name: "Saint Paphnutius of Heracleopolis"
 honorific: Saint
-title: "Monk"
+title: "Saint Paphnutius of Heracleopolis"
 summary: "Spiritual student of Saint Anthony the Great and Saint Paul of Thebes. Monk. Founded the monastery of Hercleopolis Magna in Thebes, Egypt in the 4th century, and served as its first abbot."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Paphnutius-of-Heracleopolis.jpg"
 searchAliases:

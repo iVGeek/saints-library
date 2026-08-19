@@ -1,7 +1,7 @@
 ---
 name: "Blessed Riccardo of Lotaringia"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Riccardo of Lotaringia"
 summary: "Spiritual student of Radolfo in Laon, France. He was so moved by a sermon of Saint Norbert of Xanten that he followed Norbert back to his monastery and joined the new Premonstratensians. Noted for his austere, ascetic life. Assigned by Blessed Hugh of Fosse to be prior of the new"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Riccardo-of-Lotaringia.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 8
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

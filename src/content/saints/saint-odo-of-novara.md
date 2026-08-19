@@ -1,7 +1,7 @@
 ---
 name: "Saint Odo of Novara"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope"
+title: "Saint Odo of Novara"
 summary: "Carthusian monk. Priest. Prior at Geyrach, Slavonia. Following difficulities with his bishop, he resigned his position to become chaplain for several decades to the convent at Tagliacozzo, Italy."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Odon.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

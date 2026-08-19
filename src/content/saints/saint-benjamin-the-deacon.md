@@ -1,7 +1,7 @@
 ---
 name: "Saint Benjamin the Deacon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Royalty"
+title: "Saint Benjamin the Deacon"
 summary: "Deacon. Imprisoned for a year for his faith, he was released on condition that he never speak about Christianity where he could be heard by any of the royal court. Benjamin then became a street preacher, proclaiming the word any place he could find people. For his obstinate evang"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benjamin-the-Deacon.jpg"
 deathYear: 424
@@ -13,11 +13,9 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon
-  - Royalty
 martyr: true
 ---
 

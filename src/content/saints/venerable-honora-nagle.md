@@ -1,7 +1,7 @@
 ---
 name: "Venerable Honora Nagle"
 honorific: Venerable
-title: "Virgin, Religious, Pope"
+title: "Venerable Honora Nagle"
 summary: "The eldest of six children born to a wealthy family during the period of the Irish penal laws which limited denied many freedoms and rights to the Irish. She started a school and became a teacher in Cork, Ireland when teaching for Irish Catholic poor violated the English colonial"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Nano-Nagle.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre Gauguin"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Pierre Gauguin"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1725
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Felician of Lucania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felician of Lucania"
 summary: "Martyr."
 died: "at Lucania, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

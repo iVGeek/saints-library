@@ -1,7 +1,7 @@
 ---
 name: "Saint Barlaam of Novgorod"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Barlaam of Novgorod"
 summary: "Born to a wealthy family. When his parents died, Alexis became a hermit on the Volga River. His reputation for holiness spread and attracted so many students that he founded a monastery for them, became a monk, and took the name Barlaam."
 searchAliases:
   - "Alexis"

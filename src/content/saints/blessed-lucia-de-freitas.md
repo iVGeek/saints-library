@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia de Freitas"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Lucia de Freitas"
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Philip de Freitas. Member of the Secular Franciscans and the Confraternity of the Rosary. Martyred for sheltering missionaries."
 birthYear: 1542
 deathYear: 1622
@@ -14,9 +14,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "martyrs"

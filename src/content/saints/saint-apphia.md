@@ -1,7 +1,7 @@
 ---
 name: "Saint Apphia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Apphia"
 summary: "Married to Saint Philemon. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Apphia.jpg"
 died: "stoned to death in the 1st century at Colossae, Phrygia"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

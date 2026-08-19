@@ -1,7 +1,7 @@
 ---
 name: "Saint Quartilla of Sorrento"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Quartilla of Sorrento"
 summary: "One of a group of three sisters and a brother who were martyred together."
 died: "Sorrento, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

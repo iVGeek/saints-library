@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carmen Rodríguez Banazal"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Carmen Rodríguez Banazal"
 summary: "The daughter of Francisco and Rosa, Carmen was educated in the local city school. In her teens, she became to feel a call to religious life, and joined the Daughters of Charity on 16 August 1897. After training at the Hospital of the Incurrables in Madrid, Spain, Sister Carmen wa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Rodriguez-Banazal.jpg"
 birthYear: 1876
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

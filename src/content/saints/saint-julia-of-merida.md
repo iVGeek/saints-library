@@ -1,7 +1,7 @@
 ---
 name: "Saint Julia of Merida"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julia of Merida"
 summary: "Martyred with Saint Eulalia of Merida in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 at Merida, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

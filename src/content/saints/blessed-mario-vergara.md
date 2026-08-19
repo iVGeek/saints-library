@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mario Vergara"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Mario Vergara"
 summary: "Priest in the Pontifical Institute for Foreign Missions. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mario%26isidoro.jpg"
 birthYear: 1910
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

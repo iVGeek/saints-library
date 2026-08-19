@@ -1,7 +1,7 @@
 ---
 name: "Saint Priscillianus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Priscillianus of Rome"
 summary: "Cleric. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Priscillian"
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

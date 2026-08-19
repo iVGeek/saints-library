@@ -1,7 +1,7 @@
 ---
 name: "Saint Hélier of Jersey"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Hélier of Jersey"
 summary: "Convert. Sixth century cave-dwelling hermit on the island of Jersey near the village that later bore his name. Acquaintance of Saint Marculfus. Martyred by pagans to whom he was preaching."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Helier.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit

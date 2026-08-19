@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Boniface IV"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Royalty"
+title: "Pope Saint Boniface IV"
 summary: " Converted the Roman temple of the old go Son of a physician named John. Student under Saint Gregory the Great. Benedictine monk at the Saint Sebastian Abbey in Rome, Italy. Served as deacon under Saint Gregory the Great; dispenser of alms and patrimonies. Chosen 67th Pope in 608."
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Papa_Bonifacio_IV.png"
 deathYear: 615
@@ -13,8 +13,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

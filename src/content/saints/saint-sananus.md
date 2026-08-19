@@ -1,7 +1,7 @@
 ---
 name: "Saint Sananus"
 honorific: Saint
-title: "Monk"
+title: "Saint Sananus"
 summary: "One of the many 5th-century holy men who immigrated from Ireland to the Brittany coast."
 deathYear: 485
 born: "Ireland"

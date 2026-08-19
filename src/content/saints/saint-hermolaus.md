@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermolaus of Nicomedia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Hermolaus of Nicomedia"
 summary: "Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then the imperial physician. Martyr."
 searchAliases:
   - "Ermolao"
@@ -13,7 +13,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

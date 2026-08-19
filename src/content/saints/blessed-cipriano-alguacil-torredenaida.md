@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cipriano Alguacil Torredenaida"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Cipriano Alguacil Torredenaida"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1884
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

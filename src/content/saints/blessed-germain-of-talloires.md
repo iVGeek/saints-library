@@ -1,7 +1,7 @@
 ---
 name: "Blessed Germain of Talloires"
 honorific: Blessed
-title: "Monk, Pope, Hermit"
+title: "Blessed Germain of Talloires"
 summary: "Brother of Saint Ruph. Studied theology at the University of Paris, France for several years where he worked with and served as tutor to Saint Bernard of Menthon. Benedictine monk at the Abbey of Savigney in the Savoy region of France. WIth several other brother monks, he founded"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Germain-of-Talloires-174x300.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 martyr: false

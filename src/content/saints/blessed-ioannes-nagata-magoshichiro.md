@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Nagata Magoshichiro"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ioannes Nagata Magoshichiro"
 summary: "Dominican friar. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Thessalonica"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica, Greece, date unknown"
 deathPlace: "Greece, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

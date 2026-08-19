@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Navas Rodríguez-Carretero"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Juan Navas Rodríguez-Carretero"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Palma del Río community. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

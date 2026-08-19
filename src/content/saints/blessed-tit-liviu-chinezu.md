@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tit Liviu Chinezu"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Tit Liviu Chinezu"
 summary: "Ordained a priest in the Romanian Greek-Catholic Rite on 31 January 1930. Chosen auxiliary bishop of Fagaras si Alba Iulia, Romania and Titular Bishop of Regiana in 1949 and consecrated in secret. Martyred in the Communist persecutions."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Tit_Liviu_Chinezu_2019_stamp_of_Romania.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

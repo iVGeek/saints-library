@@ -1,7 +1,7 @@
 ---
 name: "Saint Galation"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Galation"
 summary: "Galation, a Christian, converted his wife, Saint Epistemis. They both then retired to monasteries and were later martyred in the persecutions of Decius. It's possible they were fictional, the story of their lives being written as fiction but misunderstood as fact; however, marrie"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Epistemis-and-Saint-Galation.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

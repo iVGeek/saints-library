@@ -1,7 +1,7 @@
 ---
 name: "Saint Patroclus of Colombier"
 honorific: Saint
-title: "Martyr, Priest, Hermit, Missionary"
+title: "Saint Patroclus of Colombier"
 summary: "Missionary priest and hermit in the Berry region of modern France."
 deathYear: 576
 died: "c.576 in Colombier, Berry, France of natural causes"
@@ -12,11 +12,10 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Hermit
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Missionary priest and hermit in the Berry region of modern France.

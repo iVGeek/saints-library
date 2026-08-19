@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphrasius the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Euphrasius the Martyr"
 summary: "Bishop. Martyred by Arian Vandals."
 searchAliases:
   - "Eufrasio"
@@ -12,7 +12,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

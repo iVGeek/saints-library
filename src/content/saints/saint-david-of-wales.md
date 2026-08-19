@@ -1,7 +1,7 @@
 ---
 name: "Saint David of Wales"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary"
+title: "Saint David of Wales"
 summary: "Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of Menevia (western Wales). Grandson of Ceredig, Prince of Cardigan. Uncle of King Arthur. Priest. Studied under Saint Paul Aurelian. Worked with Saint Columbanus, Sa"
 image: "http://catholicsaints.info/wp-content/gallery/saint-david-of-wales/saint-david-of-wales-00.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

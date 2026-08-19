@@ -1,7 +1,7 @@
 ---
 name: "Saint Athanasius of the Caves"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Athanasius of the Caves"
 summary: "Hermit in the caves around Kiev, Ukraine. He was found dead, and his brother monks and hermits prepared to bury him; he suddenly sat back up, returned from the dead. He would not tell the brothers what he had seen, just told them to stay true to their Rule and obey their abbot. K"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Athanasius-of-the-Caves.jpg"
 searchAliases:

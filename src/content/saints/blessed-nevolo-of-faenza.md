@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nevolo of Faenza"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Nevolo of Faenza"
 summary: "Son of a craftsman. Layman cobbler who led a dissolute life in his youth and early married life. However, a serious illness at age 24 caused him to re-evaluate his life; he had a conversion experience, repented his early life, and dedicated himself to God, penance and prayer. He"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nevolo-of-Faenza.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 patronage:

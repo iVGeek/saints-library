@@ -1,7 +1,7 @@
 ---
 name: "Saint Abba"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abba"
 summary: "One of a large group martyred in Africa."
 searchAliases:
   - "Alla"
@@ -10,8 +10,7 @@ feastDay:
   month: 5
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

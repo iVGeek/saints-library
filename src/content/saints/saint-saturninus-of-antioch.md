@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturninus of Antioch"
 summary: "Martyr."
 died: "at Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

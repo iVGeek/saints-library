@@ -1,7 +1,7 @@
 ---
 name: "Venerable Joao de Oliveira Matos Ferreira"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Joao de Oliveira Matos Ferreira"
 summary: "Ordained on 28 March 1903. Auxiliary bishop of Guarda, Portugal, and titular of Aureliopolis in Lydia on 11 December 1922. Founded the Association of the League of the Servants of Jesus."
 birthYear: 1879
 deathYear: 1962
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

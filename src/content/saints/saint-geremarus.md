@@ -1,7 +1,7 @@
 ---
 name: "Saint Geremarus"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Geremarus"
 summary: "Born to the Frankish nobility, he was educated in Beauvais, France. Worked with Saint Eloi. Part of the court of King Dagobert I. Married. Father. Advisor to King Clovis II. With his wife's consent, he retired to the abbey of Pentale on the Seine in France. Abbot at Pentale, but"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Saint-Germer-de-Fly_%2860%29%2C_vestibule_de_la_chapelle%2C_statue_de_saint_Germer.jpg/960px-Saint-Germer-de-Fly_%2860%29%2C_vestibule_de_la_chapelle%2C_statue_de_saint_Germer.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

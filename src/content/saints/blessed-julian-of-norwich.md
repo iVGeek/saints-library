@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julian of Norwich"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Julian of Norwich"
 summary: "Almost nothing is known of her early life; we don't even know if she was from Norwich or chose to move there, and we're not certain her name was Julian before she became an anchoress near the church of Saint Julian. Recluse under the direction of Benedictines in Norwich, England."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Statue_of_Dame_Julian_crop.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioachim Watanabe Jirozaemon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ioachim Watanabe Jirozaemon"
 summary: "Married layman in the diocese of Fukuoka, Japan. Martyr."
 searchAliases:
   - "Joaquín"
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

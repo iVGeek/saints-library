@@ -1,7 +1,7 @@
 ---
 name: "Saint Calocerus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Calocerus of Rome"
 summary: "Brother of Saint Parthenius. Eunuch in the palace of Tryphonia, wife of emperor Decius, in charge of Anatolia, daughter of Roman consul Aemilian. Charged by Decius with embezzlement of Anatolia's money, and with the capital crime of Christianity. Ignoring the financial accusation"
 searchAliases:
   - "Calogero"
@@ -17,7 +17,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

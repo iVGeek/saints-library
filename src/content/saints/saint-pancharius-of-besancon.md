@@ -1,7 +1,7 @@
 ---
 name: "Saint Pancharius of Besançon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Pancharius of Besançon"
 summary: "Bishop of Besançon, France. Much persecuted by the Arian Emperor Constantius."
 deathYear: 356
 died: "c.356"

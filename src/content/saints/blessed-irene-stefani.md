@@ -1,7 +1,7 @@
 ---
 name: "Blessed Irene Stefani"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Irene Stefani"
 summary: "Consolata Missionary Sisters nun, taking the name Irene. Missionary in Kenya where she worked with the sick hospitals, and then the wounded in camps in Kenya and Tanzania during World War I. Taught school at the Gekondi mission from 1920 to 1930."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Irene_Stefani.png"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
   - Missionary
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Conogan of Quimper"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Conogan of Quimper"
 summary: "Bishop of Quimper, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Conogan-of-Quimper.jpg"
 searchAliases:

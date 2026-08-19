@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giuseppe Marcinò"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Giuseppe Marcinò"
 summary: "Capuchin priest."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Nogent-sur-Seine_%2810%29_%C3%89glise_Saint-Laurent_-_Int%C3%A9rieur_-_Tableau_du_P%C3%A8re_Innocent_de_Caltagirone%2C_capucin_%28cropped%29.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Capuchin"
 martyr: false
 ---

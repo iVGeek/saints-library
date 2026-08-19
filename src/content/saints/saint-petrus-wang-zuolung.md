@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Wang Zuolung"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Wang Zuolung"
 summary: "Layman in the apostolic vicariate of Southeastern Zhili, China. Seized by anti-Catholic forces during the Boxer Rebellion, dragged in front of idols and ordered to renounce Christianity; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 7
   day: 6
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucio of Savoy"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Lucio of Savoy"
 summary: "Born to the Savoian nobility in the area of the modern border of France and Italy, Lucio joined the Mercedarians at the convent in Carcassone, France. Assigned to redeem Christians enslaved by Muslims in north Africa, he was captured at sea by Moorish pirates. Lucio spent the nex"
 image: "https://catholicsaints.info/wp-content/uploads/img-blessed-Lucio-of-Savoy.jpg"
 deathYear: 1470
@@ -12,8 +12,7 @@ feastDay:
   month: 5
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

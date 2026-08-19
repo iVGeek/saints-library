@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vincent of Rome"
 summary: "Martyr."
 died: "outside the walls of Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

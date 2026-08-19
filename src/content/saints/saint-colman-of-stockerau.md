@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Stockerau"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Colman of Stockerau"
 summary: "May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the Viennese on suspicion of being a Moravian spy; there was continual fighting between Austria, Moravia and Bohemia, and a stranger who spoke no German was immediately sus"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Stockerau1.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:
@@ -38,7 +36,7 @@ patronage:
   - "Austria"
   - "—"
   - "Melk, Austria"
-martyr: true
+martyr: false
 ---
 
 May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the Viennese on suspicion of being a Moravian spy; there was continual fighting between Austria, Moravia and Bohemia, and a stranger who spoke no German was immediately suspect. With no evidence other than being a stranger, he was convicted of espionage, tortured, and hanged with two thieves.

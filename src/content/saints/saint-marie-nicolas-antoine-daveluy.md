@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie-Nicolas-Antoine Daveluy"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Missionary, Confessor"
+title: "Saint Marie-Nicolas-Antoine Daveluy"
 summary: "Born to a prominent and pious family, his father was a factory owner, city councilman, and government official; Antoine and two of his brothers became priests. He studied at the Saint Sulpice Seminary in Issy-les-Moulineaux, Paris, France in October 1834, and was ordained a pries"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mgr_Daveluy.jpg/960px-Mgr_Daveluy.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary

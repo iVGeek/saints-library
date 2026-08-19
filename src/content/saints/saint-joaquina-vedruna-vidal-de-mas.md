@@ -1,7 +1,7 @@
 ---
 name: "Saint Joaquina Vedruna Vidal de Mas"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Saint Joaquina Vedruna Vidal de Mas"
 summary: "Married to the Spanish nobleman Theodore de Mas in 1799. Mother of nine children. Widowed in 1816. Founded the Institute of the Carmelite Sisters of Charity in 1826. The Institute spread through Catalonia with the mission of caring for the sick, and teaching children. Had a great"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joaquina-Vedruna-Vidal-de-Mas1.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "abuse victims"

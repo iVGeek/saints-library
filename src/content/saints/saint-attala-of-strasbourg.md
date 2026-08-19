@@ -1,7 +1,7 @@
 ---
 name: "Saint Attala of Strasbourg"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Attala of Strasbourg"
 summary: "Niece of Saint Odilia of Alsace. Nun. Abbess at Strasbourg, France for 20 years. Known for her piety, prudence and charity."
 birthYear: 687
 deathYear: 741

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stefano del Lupo"
 honorific: Blessed
-title: "Monk, Pope, Hermit"
+title: "Blessed Stefano del Lupo"
 summary: "Benedictine monk at the San Liberatore monastery in Maiella mountains of Abruzzo Apennines, Italy. Feeling a call to a life of penance, he became a hermit in a cave near the monastery. Legend says that he got the “del Lupo” (“of the Wolf”) nickname when he miraculously tamed an a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Stefano-del-Lupo.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 patronage:

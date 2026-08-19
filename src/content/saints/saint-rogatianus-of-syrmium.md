@@ -1,7 +1,7 @@
 ---
 name: "Saint Rogatianus of Syrmium"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rogatianus of Syrmium"
 summary: "One of a group of 4th century martyrs."
 deathYear: 303
 died: "c.303 at Syrmium, Pannonia (modern Sremska Mitrovica, Serbia)"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

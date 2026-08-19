@@ -1,7 +1,7 @@
 ---
 name: "Saint Valeria of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Valeria of Caesarea"
 summary: "Convert. Martyr."
 died: "Caesarea, Palestine, date unknown"
 deathPlace: "Palestine, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

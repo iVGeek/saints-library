@@ -1,7 +1,7 @@
 ---
 name: "Blessed Artur Tamarit Pinyol"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Artur Tamarit Pinyol"
 summary: "Member of the Claretians, professed on 15 August 1929. Ordained a priest on 19 April 1936. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

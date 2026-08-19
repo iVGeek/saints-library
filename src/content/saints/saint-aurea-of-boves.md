@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurea of Boves"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Aurea of Boves"
 summary: "Nun in Boves, Italy. Abbess of a large convent in Rouen, France."
 born: "Amiens, France"
 died: "8th century"

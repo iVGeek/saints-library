@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Fernández de Henestrosa Boza"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed José Fernández de Henestrosa Boza"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

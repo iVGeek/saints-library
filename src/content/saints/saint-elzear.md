@@ -1,7 +1,7 @@
 ---
 name: "Saint Elzear of Ariano"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Elzear of Ariano"
 summary: "Born to the nobility. Nephew of William of Sabron, abbot of Saint Victor's abbey, Marseilles, France, where Elzear was educated. Franciscan tertiary. Married to Saint Delphina at age 16, with whom he lived chastely the rest of his life. Count of Ariano in Naples, Italy upon his f"
 image: "http://catholicsaints.info/wp-content/uploads/Elzear.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Flavianus of Oulx"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Flavianus of Oulx"
 summary: "Monk of Novalesa Abbey. Martyred by Saracen raiders."
 searchAliases:
   - "Flavianus of Novalesa"
@@ -16,7 +16,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

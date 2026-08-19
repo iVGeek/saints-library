@@ -1,7 +1,7 @@
 ---
 name: "Saint Pontian of Catania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pontian of Catania"
 summary: "One of a group of Christians martyred together, date unknown. No other information has survived."
 died: "Catania, Sicily, Italy"
 deathPlace: "Sicily, Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

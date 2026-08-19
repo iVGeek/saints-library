@@ -1,7 +1,7 @@
 ---
 name: "Saint Gothard the Hermit"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Gothard the Hermit"
 summary: "Hermit in a cell high in the Alps near a mountain range and pass now known as Saint Gothard in his honour."
 searchAliases:
   - "Gotthard"

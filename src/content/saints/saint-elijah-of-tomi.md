@@ -1,7 +1,7 @@
 ---
 name: "Saint Elijah of Tomi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Elijah of Tomi"
 summary: "Martyr."
 searchAliases:
   - "Elias, Heli, Helias, Ilios"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

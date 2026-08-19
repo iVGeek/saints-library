@@ -1,7 +1,7 @@
 ---
 name: "Saint Martin of Tongres"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Martin of Tongres"
 summary: "Bishop of Tongres in modern Belgium. Apostle of the Hesbaye district, in Brabant."
 region: "England"
 feastDay:

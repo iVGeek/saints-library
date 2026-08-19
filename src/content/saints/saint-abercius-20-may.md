@@ -1,7 +1,7 @@
 ---
 name: "Saint Abercius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Abercius"
 summary: "One tradition makes him the son of Alphaeus the Apostle. Martyr."
 died: "exposed naked to a swarm of angry bees in 1st century Greece"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

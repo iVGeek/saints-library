@@ -1,7 +1,7 @@
 ---
 name: "Saint Mirocles of Milan"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Mirocles of Milan"
 summary: "Archbishop of Milan, Italy. Writer. Attended the Council of Rome in 313. One of the originators of the Ambrosian liturgy and chant. His life and works were praised by Saint Ambrose of Milan."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mirocles-of-Milan.jpg"
 searchAliases:

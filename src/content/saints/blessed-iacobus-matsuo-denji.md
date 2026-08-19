@@ -1,7 +1,7 @@
 ---
 name: "Blessed Iacobus Matsuo Denji"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Iacobus Matsuo Denji"
 summary: "Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr."
 searchAliases:
   - "Iacobus Denxi"
@@ -17,9 +17,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Venerando the Centurian"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Venerando the Centurian"
 summary: "Roman centurian. Convert to Christianity. Martyr."
 searchAliases:
   - "Venerable the Centurian"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

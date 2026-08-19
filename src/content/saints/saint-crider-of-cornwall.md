@@ -1,7 +1,7 @@
 ---
 name: "Saint Crider of Cornwall"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Crider of Cornwall"
 summary: "Daughter of an Irish chieftain. Nun. Friend of Saint Canice of Aghaboe."
 searchAliases:
   - "Creda"

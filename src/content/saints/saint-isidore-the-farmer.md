@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore the Farmer"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Isidore the Farmer"
 summary: "Pious farmer. Married to Saint Mary de la Cabeza. Their son died young; they became convinced it was the will of God that they not have children, and they lived together chastely the rest of their lives, doing good works. Accused by fellow workers of shirking his duties by attend"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Isidore-the-Farmer.jpg"
 searchAliases:
@@ -25,11 +25,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against the death of children"
@@ -68,7 +65,7 @@ patronage:
   - "Taverne d'Arbia"
   - "Testa dell'Acqua"
   - "Villanova d'Asti"
-martyr: true
+martyr: false
 ---
 
 Pious farmer. Married to Saint Mary de la Cabeza. Their son died young; they became convinced it was the will of God that they not have children, and they lived together chastely the rest of their lives, doing good works. Accused by fellow workers of shirking his duties by attending Mass each day, taking time out for prayers, etc. Isidore claimed he had no choice but to follow the highest Master. One tale says that when his master came in the morning to chastise him for skipping work for church, he found angels plowing the fields in place of Isidore. Miracles and cures reported at his grave, in which his body remains incorrupt.

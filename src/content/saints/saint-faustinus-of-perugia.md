@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustinus of Perugia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustinus of Perugia"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "beheaded in 250 in Perugia, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

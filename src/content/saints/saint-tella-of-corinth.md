@@ -1,7 +1,7 @@
 ---
 name: "Saint Tella of Corinth"
 honorific: Saint
-title: "Martyr"
+title: "Saint Tella of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Tellas"
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

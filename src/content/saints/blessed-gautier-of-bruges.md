@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gautier of Bruges"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Gautier of Bruges"
 summary: "Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from 1267 to 1269. Franciscan provincial minister f"
 searchAliases:
   - "Guatier Van den Zande"
@@ -27,7 +27,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "against fever"

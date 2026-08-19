@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolò Rusca"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Nicolò Rusca"
 summary: "Studied at the Collegium Helveticum in Milan, Italy from 1580 to 1587. Priest in the diocese of Como, Italy. Worked to revive Catholic practice and theology in the period after the Council of Trent and in the face of expanding Protestantism. Archpriest of Sondrio, Italy. Falsely"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Nicol%C3%B2_Rusca.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

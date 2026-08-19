@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertinus the Younger"
 honorific: Saint
-title: "Monk"
+title: "Saint Bertinus the Younger"
 summary: "Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great."
 deathYear: 699
 died: "c.699 of natural causes"

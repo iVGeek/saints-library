@@ -1,7 +1,7 @@
 ---
 name: "Saint Pappus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pappus"
 summary: "Martyr."
 searchAliases:
   - "Pappo"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Caerealis"
 honorific: Saint
-title: "Martyr, Pope, Soldier"
+title: "Saint Caerealis"
 summary: "Imperial Roman soldier. Married to Saint Sallustia. Convert to Christianity, instructed in the faith by Pope Saint Cornelius. Martyred in the persecutions of Decius."
 searchAliases:
   - "Cerulus"
@@ -16,8 +16,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

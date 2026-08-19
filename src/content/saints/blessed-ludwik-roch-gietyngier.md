@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ludwik Roch Gietyngier"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ludwik Roch Gietyngier"
 summary: "Ordained a priest in 1927 in the archdiocese of Czestochowa, Poland. He was a dedicated teacher, catechist and youth minister. Director of the episcopal Latin school in Wielun, Poland. Priest in the parish of Saint Thecla in Raczyn, Poland. Youth minister and catechist. One of ma"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ludwik-Roch-Gietyngier.jpg"
 birthYear: 1904
@@ -16,9 +16,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

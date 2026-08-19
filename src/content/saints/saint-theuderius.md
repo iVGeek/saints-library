@@ -1,7 +1,7 @@
 ---
 name: "Saint Theuderius"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Theuderius"
 summary: "Monk at Lérins Abbey. Ordained by Saint Caesarius of Arles. In Dauphiné he attracted a group of spiritual students, and founded a monastery for them near Vienne, France. Lived his last 12 years as a hermit, walled up in a cell at the church of Saint Lawrence in Vienne. Miracle wo"
 searchAliases:
   - "Chef d'Arcisse"

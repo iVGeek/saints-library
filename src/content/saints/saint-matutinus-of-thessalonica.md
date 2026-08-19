@@ -1,7 +1,7 @@
 ---
 name: "Saint Matutinus of Thessalonica"
 honorific: Saint
-title: "Martyr"
+title: "Saint Matutinus of Thessalonica"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Maturinus"
@@ -13,8 +13,7 @@ feastDay:
   month: 4
   day: 4
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

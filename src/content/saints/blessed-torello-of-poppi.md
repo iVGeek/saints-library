@@ -1,7 +1,7 @@
 ---
 name: "Blessed Torello of Poppi"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Torello of Poppi"
 summary: "After a wild and misspent youth, Torello lived 60 years as a Vallombrosan oblate hermit in a walled-up cave."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Torello-of-Poppi.jpg"
 birthYear: 1201
@@ -16,7 +16,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 patronage:
   - "Poppi, Italy"

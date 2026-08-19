@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Ricardo Díez Rodríguez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Ricardo Díez Rodríguez"
 summary: "Augustinian Recollect brother. Martyred in the Spanish Civil War."
 searchAliases:
   - "José of the Sacred Heart"
@@ -16,9 +16,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

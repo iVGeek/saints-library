@@ -1,7 +1,7 @@
 ---
 name: "Saint Guisitano of Sardinia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Guisitano of Sardinia"
 summary: "Martyr. No details have survived."
 died: "beheaded on Sardinia"
 region: "Italy"
@@ -9,8 +9,7 @@ feastDay:
   month: 5
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

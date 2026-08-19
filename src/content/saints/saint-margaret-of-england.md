@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret of England"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious"
+title: "Saint Margaret of England"
 summary: "Born to an English mother and Hungarian father. Relative of Saint Thomas of Canterbury. Her mother died while the two were on a lengthy pilgrimage in the holy lands. Margaret then made solo pilgrimages to Montserrat in Spanish Catalonia, and Puy, France. Benedictine Cistercian nu"
 searchAliases:
   - "Margaret the Englishwoman"

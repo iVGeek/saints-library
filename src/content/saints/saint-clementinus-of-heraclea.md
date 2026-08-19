@@ -1,7 +1,7 @@
 ---
 name: "Saint Clementinus of Heraclea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Clementinus of Heraclea"
 summary: "Martyred in Heraclea, Thrace. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

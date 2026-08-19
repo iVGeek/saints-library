@@ -1,7 +1,7 @@
 ---
 name: "Saint Seleucus of Syria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Seleucus of Syria"
 summary: "Martyr. No other information has survived."
 born: "Syrian"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

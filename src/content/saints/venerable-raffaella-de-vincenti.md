@@ -1,7 +1,7 @@
 ---
 name: "Venerable Raffaella de Vincenti"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Raffaella de Vincenti"
 summary: "Founder the Congregation of the Little Workers of the Sacred Heart."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Raffaella-de-Vincenti.jpg"
 searchAliases:
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

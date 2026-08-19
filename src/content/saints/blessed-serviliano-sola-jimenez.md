@@ -1,7 +1,7 @@
 ---
 name: "Blessed Serviliano Solá Jiménez"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Serviliano Solá Jiménez"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luis Beltrán"
@@ -17,9 +17,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

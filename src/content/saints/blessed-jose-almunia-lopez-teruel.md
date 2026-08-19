@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Almunia López-Teruel"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Almunia López-Teruel"
 summary: "Brother of Blessed Alfredo Almunia López-Teruel. After studying at the seminary of San Indalecio de Almería, José was ordained a priest in the diocese of Almería, Spain on 23 June 1893. Parish priest, and supporter of the group Daughters of Mary. He earned a doctorate in theology"
 birthYear: 1870
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

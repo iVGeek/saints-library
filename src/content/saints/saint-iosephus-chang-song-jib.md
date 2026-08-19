@@ -1,7 +1,7 @@
 ---
 name: "Saint Iosephus Chang Song-Jib"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Iosephus Chang Song-Jib"
 summary: "Married layman in the apostolic vicariate of Korea. Pharmacist. Convert. Imprisoned, tortured and left to die in prison for his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 5
   day: 26
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

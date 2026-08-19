@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas Garnet"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Thomas Garnet"
 summary: "Son of Richard Garnet, an Oxford don. Nephew of Henry Garnet, superior of all Jesuits in England, and in charge of the network of covert priests working among the Catholics who had refused to take the oath of Supremacy. Court page to the Count of Arundel as a boy. Because Catholi"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Thomas-garnet.png"
 birthYear: 1574
@@ -16,10 +16,7 @@ feastDay:
   day: 23
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

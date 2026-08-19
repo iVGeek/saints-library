@@ -1,7 +1,7 @@
 ---
 name: "Saint Moses of Balkin"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Moses of Balkin"
 searchAliases:
   - "Moses of Taw"
 died: "beheaded in Taw, Egypt, date unknown"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

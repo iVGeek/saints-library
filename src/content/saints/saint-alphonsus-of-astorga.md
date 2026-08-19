@@ -1,7 +1,7 @@
 ---
 name: "Saint Alphonsus of Astorga"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Alphonsus of Astorga"
 summary: "Ninth century bishop of Astorga, Spain. He eventually retired to live as monk at the monastery of Saint Stephen de Ribas de Sil, Galicia, Spain."
 region: "Spain"
 feastDay:

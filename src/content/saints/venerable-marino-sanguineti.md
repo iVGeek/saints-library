@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marino Sanguineti"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Venerable Marino Sanguineti"
 summary: "Son of Girolamo and Angela Sanguineti. Joined the Discalced Augustinian in 1673, taking the name Carlo Giacinto of Saint Mary. His devotion to Mary was such that his brothers called him a “relative of Our Lady”. Ordained on 20 September 1681. Developed a deep devotion to the Euch"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Marino-Sanguineti.jpg"
 deathYear: 1721
@@ -14,8 +14,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: false
 ---

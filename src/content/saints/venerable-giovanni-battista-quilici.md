@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Battista Quilici"
 honorific: Venerable
-title: "Priest, Pope, Confessor"
+title: "Venerable Giovanni Battista Quilici"
 summary: "His childhood home had an attached potter's work shop. Educated by the Barnabites, Dominicans and the priests of the cathedral of Livorno, Italy. He early felt a call to religious life, but the suppression of the Dominicans by the Napoleonic invasions interrupted his plans, and h"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Don_Giovanni_Battista_Quilici_-_pitt._Giuseppe_Baldini.jpg/960px-Don_Giovanni_Battista_Quilici_-_pitt._Giuseppe_Baldini.jpg"
 birthYear: 1791
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

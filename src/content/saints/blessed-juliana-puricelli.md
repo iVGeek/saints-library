@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juliana Puricelli"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Juliana Puricelli"
 summary: "Augustinian contemplative nun. Friend of Blessed Catherine da Palanza."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juliana-Puricelli.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

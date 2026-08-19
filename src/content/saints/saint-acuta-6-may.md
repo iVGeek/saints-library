@@ -1,7 +1,7 @@
 ---
 name: "Saint Acuta"
 honorific: Saint
-title: "Martyr"
+title: "Saint Acuta"
 summary: "Martyr. No other information has survived."
 died: "Milan, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 5
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

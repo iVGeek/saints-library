@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josefa Bonilla Benavides"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Josefa Bonilla Benavides"
 summary: "Lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

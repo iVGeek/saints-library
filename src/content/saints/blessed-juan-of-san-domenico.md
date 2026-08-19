@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan of San Domenico"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan of San Domenico"
 summary: "Dominican priest. Martyr</a."
 searchAliases:
   - "Juan Martinez y Cid"
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Maur"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maur"
 summary: "Layman. Martyred with eleven others."
 searchAliases:
   - "Maurus"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

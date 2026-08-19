@@ -1,7 +1,7 @@
 ---
 name: "Blessed Domingos Fernandes"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Missionary"
+title: "Blessed Domingos Fernandes"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 birthYear: 1551
 deathYear: 1570
@@ -16,9 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Wiki_Takes_Santana_de_Parna%C3%ADba_%28Jul_2019%29_208.jpg/960px-Wiki_Takes_Santana_de_Parna%C3%ADba_%28Jul_2019%29_208.jpg"
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

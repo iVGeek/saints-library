@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria da Conceição Santos"
 honorific: Venerable
-title: "Religious, Pope, Royalty"
+title: "Venerable Maria da Conceição Santos"
 summary: "Maria grew up in a pious home, served as a catechist in her parish, and was known for her singing and guitar playing. Answering a call to religious life, she joined the Congregation of the Helping Sisters of Our Lady of Pietà in her late 20's, making her first vows on 19 March 19"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-da-Conceicao-Santos.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

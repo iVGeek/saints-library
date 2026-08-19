@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apollonius of Rome"
 summary: "Martyr. No other information has survived."
 died: "tied to a stake and shot with arrows"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

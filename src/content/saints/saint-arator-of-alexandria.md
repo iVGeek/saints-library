@@ -1,7 +1,7 @@
 ---
 name: "Saint Arator of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Arator of Alexandria"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Aristo"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

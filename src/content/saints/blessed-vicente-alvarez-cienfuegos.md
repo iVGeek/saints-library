@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Álvarez Cienfuegos"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente Álvarez Cienfuegos"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1863
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Augustine Fangi"
 honorific: Blessed
-title: "Martyr, Pope, Royalty, Confessor"
+title: "Blessed Augustine Fangi"
 summary: "Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without making an outcry, claming his mind had been on hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Agostinobiella.JPG"
 searchAliases:
@@ -19,12 +19,9 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without making an outcry, claming his mind had been on his prayers. Prior of houses in Biella, Socino in 1464, Vercelli, and Vigevano. Miracle worker, whose incidents include

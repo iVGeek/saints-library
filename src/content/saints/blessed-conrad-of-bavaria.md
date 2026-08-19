@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conrad of Bavaria"
 honorific: Blessed
-title: "Monk, Pope, Confessor"
+title: "Blessed Conrad of Bavaria"
 summary: "Son of Duke Henry IX of Bavaria. Educated at Wiengarten Abbey in Ravensburg, Germany, and in Cologne, Germany. Joined of the Cistercians c.1124. Spiritual student of Saint Bernard of Clairvaux in Cologne in 1147. Pilgrim to the Holy Lands as part of the spiritual Crusade, and die"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saint-Conrad_Cath%C3%A9drale_de_Molfetta.jpg/960px-Saint-Conrad_Cath%C3%A9drale_de_Molfetta.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

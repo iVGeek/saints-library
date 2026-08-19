@@ -1,7 +1,7 @@
 ---
 name: "Saint Flosculus of Orleans"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Flosculus of Orleans"
 summary: "Bishop of Orleans, France."
 searchAliases:
   - "Floscolo"

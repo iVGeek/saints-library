@@ -1,7 +1,7 @@
 ---
 name: "Saint Goeznoveus of Léon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Goeznoveus of Léon"
 summary: "Brother of Saint Maughan. Emigrated to Brittany (part of modern France). Bishop of Léon, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Goeznoveus-of-Léon.jpg"
 searchAliases:

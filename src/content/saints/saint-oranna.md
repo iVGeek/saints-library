@@ -1,7 +1,7 @@
 ---
 name: "Saint Oranna"
 honorific: Saint
-title: "Religious, Royalty"
+title: "Saint Oranna"
 summary: "While there are multiple stories about her origin, including that she was a princess from Ireland, a princess from Scotland, the sister of Saint Wendelin, the daughter of the Duke of Lorraine, and other tales, they all agree that Oranna was deaf, and that she evangelized the area"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Oranna.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Religious
-  - Royalty
 patronage:
   - "against deafness"
   - "against ear problems"

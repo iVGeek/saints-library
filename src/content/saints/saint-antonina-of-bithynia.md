@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonina of Bithynia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antonina of Bithynia"
 summary: "Tortured and martyred for refusing to sacrifice to pagan gods."
 searchAliases:
   - "Antonina of Nicomedia"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

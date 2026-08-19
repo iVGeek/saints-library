@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paul of Caesarea"
 summary: "Martyred in the persecutions of Galerius."
 deathYear: 309
 died: "309 at Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

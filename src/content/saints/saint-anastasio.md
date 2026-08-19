@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasio"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Anastasio"
 summary: "Martyr."
 died: "on the Adriatic coast of modern Croatia"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

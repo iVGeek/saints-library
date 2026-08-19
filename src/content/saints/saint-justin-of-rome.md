@@ -1,7 +1,7 @@
 ---
 name: "Saint Justin of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Justin of Rome"
 summary: "Priest. Martyred for giving Christian burial to the bodies of martyrs."
 deathYear: 259
 died: "259 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertilo of Dijon"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Bertilo of Dijon"
 summary: "Abbot of Saint Benignus Abbey in Dijon, France. Martyred with several of his brother monks."
 searchAliases:
   - "Bertillo"
@@ -11,9 +11,7 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

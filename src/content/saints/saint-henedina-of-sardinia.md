@@ -1,7 +1,7 @@
 ---
 name: "Saint Henedina of Sardinia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Henedina of Sardinia"
 summary: "Martyred in the persecutions of Hadrian."
 searchAliases:
   - "Enedina"
@@ -15,7 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Ales-Terralba, Italy, diocese of"

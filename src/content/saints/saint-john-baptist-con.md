@@ -1,7 +1,7 @@
 ---
 name: "Saint John Baptist Con"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint John Baptist Con"
 summary: "Married layman. Martyr."
 searchAliases:
   - "Gioan Baotixta Còn"
@@ -17,9 +17,7 @@ feastDay:
   month: 11
   day: 8
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

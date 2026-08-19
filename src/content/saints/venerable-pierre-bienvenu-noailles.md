@@ -1,7 +1,7 @@
 ---
 name: "Venerable Pierre-Bienvenu Noailles"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Pierre-Bienvenu Noailles"
 summary: "Priest in the diocese of Bordeaux, France. Founded the Agricultural Sisters of the Holy Family and the Sisters of the Holy Family of Bordeaux."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Pierre-Bienvenu-Noailles.jpg"
 birthYear: 1793
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

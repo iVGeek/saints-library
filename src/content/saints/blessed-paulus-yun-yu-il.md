@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus Yun Yu-il"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Paulus Yun Yu-il"
 summary: "Layman in the apostolic vicariate of Korea, martyred for assisting Blessed Iacobus Chu Mun-mo."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1760
@@ -15,9 +15,7 @@ feastDay:
   month: 6
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

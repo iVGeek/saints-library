@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcia the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcia the Martyr"
 summary: "One of a group of martyrs. No other information has survived."
 died: "martyred in North Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

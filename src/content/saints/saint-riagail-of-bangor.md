@@ -1,7 +1,7 @@
 ---
 name: "Saint Riagail of Bangor"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Riagail of Bangor"
 summary: "Ninth-century monk and then abbot of Bangor Abbey, County Down, Ireland. He led the house during a bleak period of recovery following a series of Viking raids."
 searchAliases:
   - "Ragallach"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

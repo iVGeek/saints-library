@@ -1,7 +1,7 @@
 ---
 name: "Saint Benezet the Bridge Builder"
 honorific: Saint
-title: "Priest, Confessor"
+title: "Saint Benezet the Bridge Builder"
 summary: "Shepherd. During an eclipse he received a vision telling him to build a bridge over the Rhone at Avignon; angels would watch his flocks while he was gone. When the church and civil officials refused to help him, he lifted a huge stone into place, and announced it would be the sta"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Benezet-the-Bridge-Builder-1.jpg"
 searchAliases:

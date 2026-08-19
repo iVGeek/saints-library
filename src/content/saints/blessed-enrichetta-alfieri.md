@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrichetta Alfieri"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Enrichetta Alfieri"
 summary: "From childhood Enrichetta felt a call to religious life, and joined the Sisters of Charity of Saint Joan Antida Thouret on 20 December 1911. She worked as a kindergarten teacher in Vercelli, Italy, but was forced to quit when she developed Pott's disease, a form of tuberculosis o"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Blessed_Enrichetta_Alfieri_%281891-1951%29.jpg"
 searchAliases:
@@ -26,8 +26,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

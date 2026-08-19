@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cassian Vaz Lopez-Neto"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Missionary"
+title: "Blessed Cassian Vaz Lopez-Neto"
 summary: "Capuchin monk at Angers, France. Missionary with Blessed Agathangelus to the Egyptian Copts. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angathangelus-and-Cassianus.jpg"
 birthYear: 1607
@@ -15,9 +15,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Capuchin"
 martyr: true

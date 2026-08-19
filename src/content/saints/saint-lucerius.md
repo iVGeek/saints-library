@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucerius"
 honorific: Saint
-title: "Monk"
+title: "Saint Lucerius"
 summary: "Benedictine monk at Farfa, Italy. Spiritual student of Saint Thomas of Farfa. Second abbot of the house at Maurienne, France from 723 to 740, holding the house together during the wars that tore through the region in the latter 720's."
 searchAliases:
   - "Lucerio"

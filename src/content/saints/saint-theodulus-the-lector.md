@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodulus the Lector"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Theodulus the Lector"
 summary: "Lector. Martyred with Saint Agathopus for refusing to surrender holy books during the persecutions of Emperor Maximian Herculeus."
 searchAliases:
   - "Theodolus of Thessalonica"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 religiousOrder: "Franciscan"

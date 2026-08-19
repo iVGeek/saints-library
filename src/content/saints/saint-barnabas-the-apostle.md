@@ -1,7 +1,7 @@
 ---
 name: "Saint Barnabas the Apostle"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Barnabas the Apostle"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Barnabas-the-Apostle1.jpg"
 searchAliases:
   - "Apostle of Antioch"
@@ -16,11 +16,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against hailstorms"
@@ -34,5 +31,5 @@ patronage:
   - "–"
   - "in Italy\n\nFlorence"
   - "Marino"
-martyr: true
+martyr: false
 ---

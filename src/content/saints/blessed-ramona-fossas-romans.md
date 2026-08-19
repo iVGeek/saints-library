@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramona Fossas Románs"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Ramona Fossas Románs"
 summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
 birthYear: 1881
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

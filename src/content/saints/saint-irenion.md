@@ -1,7 +1,7 @@
 ---
 name: "Saint Irenion"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Irenion"
 summary: "Bishop of Gaza in Palestine."
 searchAliases:
   - "Irenian"
@@ -13,10 +13,9 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Gaza in Palestine.

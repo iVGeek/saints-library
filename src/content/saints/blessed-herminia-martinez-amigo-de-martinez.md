@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herminia Martínez Amigó de Martínez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Herminia Martínez Amigó de Martínez"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Married of Santos Juanes on 24 February 1916. Mother of two daughters, both of whom died in infancy. The couple were financially well off, and devoted themselves and their wealth to charity and service to the poor. Member of Cathol"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Herminia-Martínez-Amigó-de-Martínez.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marciana of Caesarea"
 honorific: Saint
-title: "Martyr, Hermit, Royalty"
+title: "Saint Marciana of Caesarea"
 summary: "Making personal vows, she retired to the city of Caesarea, Mauritania (in modern Algeria) to live is a penitent hermitess. Imprisoned, tortured, threatened with rape, and eventually executed for refusing to worship of statue of the pagan goddess Diana during the persecutions of D"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marciana-of-Caesarea.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
-  - Royalty
 martyr: true
 ---
 

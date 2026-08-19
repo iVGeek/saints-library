@@ -1,7 +1,7 @@
 ---
 name: "Saint Boadin"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Boadin"
 summary: "Benedictine monk, taking the cowl in France. Noted for strict observance of the Benedictine Rule, and for his gentle kindness."
 born: "Irish"
 region: "France"
@@ -12,7 +12,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

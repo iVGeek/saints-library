@@ -1,7 +1,7 @@
 ---
 name: "Saint Columba of Sens"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Columba of Sens"
 summary: "Born to the Spanish nobility. At age 16 she and other Christians fled Spain for Gaul (modern France) to escape the persecutions of Emperor Aurelian. They were located, however, and imprisoned. Legend says that while Columba was in prison, one of the jailers tried to rape her; a b"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hattstatt_SteColombe04.JPG/960px-Hattstatt_SteColombe04.JPG"
 birthYear: 257
@@ -15,7 +15,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

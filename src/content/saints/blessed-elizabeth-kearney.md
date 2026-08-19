@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth Kearney"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Elizabeth Kearney"
 summary: "Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

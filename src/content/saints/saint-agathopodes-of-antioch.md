@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathopodes of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Agathopodes of Antioch"
 summary: "Deacon from Antioch, Syria. Travelled with Saint Ignatius to Rome, Italy, and after his martyrdom brought his relics back to Antioch and wrote about him."
 searchAliases:
   - "Agathopus"
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

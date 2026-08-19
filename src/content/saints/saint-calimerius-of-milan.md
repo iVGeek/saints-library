@@ -1,7 +1,7 @@
 ---
 name: "Saint Calimerius of Milan"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Calimerius of Milan"
 summary: "Educated in Rome, Italy by Pope Saint Telesphorus. Priest. Bishop of Milan, Italy for over 50 years. Evangelized throughout his diocese, making untold converts. Suffered in but survived the persecutions of Marcus Aurelius. Martyred in the persecutions of Commodus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Calimerius-of-Milan.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 martyr: true

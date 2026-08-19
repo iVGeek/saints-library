@@ -1,7 +1,7 @@
 ---
 name: "Blessed Stephana de Quinzanis"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope"
+title: "Blessed Stephana de Quinzanis"
 summary: "Born to pious parents; her father became a Dominican tertiary while Stephana was very young. She was taught her catechism by the stigmatic Blessed Matthew Carrieri who lived at the nearby Dominican convent; though she was too small to understand, he told her that she was to be hi"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Quinzani.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

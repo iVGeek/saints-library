@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sixto Alonso Helva"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Sixto Alonso Helva"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1937
@@ -15,8 +15,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

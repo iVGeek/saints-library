@@ -1,7 +1,7 @@
 ---
 name: "Blessed Louis of Mercy"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Louis of Mercy"
 summary: "Contemplative Mercidarian at the convent of Saint Antolino in Valladolid, Spain. In 1331 he ransomed 207 Christian slaves from Moorish occupied Granada."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-of-Mercy.jpg"
 searchAliases:
@@ -13,8 +13,7 @@ feastDay:
   month: 5
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

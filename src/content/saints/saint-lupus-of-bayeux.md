@@ -1,7 +1,7 @@
 ---
 name: "Saint Lupus of Bayeux"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Lupus of Bayeux"
 summary: "Fifth-century bishop of Bayeux, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Loup-of-Bayeux.jpg"
 region: "Italy"

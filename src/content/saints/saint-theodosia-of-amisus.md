@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosia of Amisus"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Theodosia of Amisus"
 summary: "Christian woman martyred in the persecutions of Diocletian. No other information has survived."
 region: "Turkey"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

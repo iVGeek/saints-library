@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Grijalvo Medel"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blessed José Grijalvo Medel"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Grijalvo-Medel.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

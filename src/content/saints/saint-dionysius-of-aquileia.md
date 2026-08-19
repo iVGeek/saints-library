@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Aquileia"
 summary: "Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian."
 searchAliases:
   - "Denis"
@@ -13,7 +13,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

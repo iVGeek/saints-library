@@ -1,7 +1,7 @@
 ---
 name: "Blessed Karoline Anna Leidenix"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal, Soldier"
+title: "Blessed Karoline Anna Leidenix"
 summary: "Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

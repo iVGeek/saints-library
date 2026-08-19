@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregory of Elvira"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Gregory of Elvira"
 summary: "Bishop of Elvira, Spain in 375. Fought Arianism in his diocese, refusing to compromise with heretics or heresy. Wrote a number of works on the faith and scripture."
 searchAliases:
   - "Gregory Bæticus"
@@ -14,10 +14,9 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Elvira, Spain in 375. Fought Arianism in his diocese, refusing to compromise with heretics or heresy. Wrote a number of works on the faith and scripture.

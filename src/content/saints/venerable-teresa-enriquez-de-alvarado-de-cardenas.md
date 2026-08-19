@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Enríquez de Alvarado de Cárdenas"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Teresa Enríquez de Alvarado de Cárdenas"
 summary: "Born to the nobility, the daughter of Lord Alonso II Enríquez and María de Alvarado y Villagrán; her mother died soon after the girl's birth, and she was raised by her paternal grandmother. She was married to Major Gutierre de Cárdenas, who served in the court of King Ferdinand I"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Enriquez-de-Alvarado-de-Cardenas.jpg"
 birthYear: 1456
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

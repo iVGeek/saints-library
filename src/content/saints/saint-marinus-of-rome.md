@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marinus of Rome"
 summary: "Son of an imperial Roman senator; served as senator himself. For being a Christian during the persecutions of emperor Numerian and the prefect Marcian, he was stripped of office, arrested, stripped of title, property and freedom, made a slave, tortured and executed. He miraculous"
 searchAliases:
   - "Marin"
@@ -14,7 +14,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Maciano, Italy"

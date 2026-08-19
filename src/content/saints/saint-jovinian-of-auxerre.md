@@ -1,7 +1,7 @@
 ---
 name: "Saint Jovinian of Auxerre"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Jovinian of Auxerre"
 summary: "Missionary. Lector of the church at Auxerre, France. Worked with Saint Peregrinus of Auxerre. Martyr."
 searchAliases:
   - "Gioviniano"
@@ -14,7 +14,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 martyr: true

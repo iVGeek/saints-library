@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nikita Budka"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Nikita Budka"
 summary: "Greek-Catholic. Studied theology in Vienna and Innsbruck, Austria, graduating in 1905. Ordained on 25 October 1905. First bishop for Ukrainian Catholics in Canada on 15 July 1912. Auxiliary bishop of Lviv, Ukraine on 14 October 1912. Vicar General of the Metropolitan Curia in Lvi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nikita-Budka.jpg"
 searchAliases:
@@ -20,10 +20,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

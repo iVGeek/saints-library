@@ -1,7 +1,7 @@
 ---
 name: "Saint Amadour the Hermit"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Amadour the Hermit"
 searchAliases:
   - "Amadour of Lucca"
   - "Amadour of Rocamadour"
@@ -15,9 +15,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---

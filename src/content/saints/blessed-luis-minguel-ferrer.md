@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Minguel Ferrer"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope"
+title: "Blessed Luis Minguel Ferrer"
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Luis María of the Virgin of Mercy"
@@ -17,10 +17,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

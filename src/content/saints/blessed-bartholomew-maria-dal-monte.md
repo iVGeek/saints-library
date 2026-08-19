@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartholomew Maria Dal Monte"
 honorific: Blessed
-title: "Priest, Pope, Missionary"
+title: "Blessed Bartholomew Maria Dal Monte"
 summary: "The fifth child born of Orazio Dal Monte and Anna Maria Bassani, he was the first to survive infancy; his mother attributed that to the intercession of Saint Francis of Paola. Bartholomew was confirmed on 26 April 1733 at age six by the future Pope Benedict XIV.  He was educated"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-Maria-dal-Monte.jpg"
 birthYear: 1726
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

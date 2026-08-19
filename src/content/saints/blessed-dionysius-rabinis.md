@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dionysius Rabinis"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Dionysius Rabinis"
 summary: "Mercedarian friar. Wrote a number of works on theology, especially against heresies of his day."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dionysius-Rabinis.jpg"
 searchAliases:
@@ -15,8 +15,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

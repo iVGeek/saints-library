@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfons Tracki"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Alfons Tracki"
 summary: "Born to a family with deep roots in the military. Studied in Bosnia. Priest of the archdiocese of Shkodrë-Pult, Albania in 1920. Organized youth groups, and opened a high school. Fought the local traditions of blood vengance and feuds. Negotiated to free Albanians from the German"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Alfons_Tracki.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

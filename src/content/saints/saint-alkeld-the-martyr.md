@@ -1,7 +1,7 @@
 ---
 name: "Saint Alkeld the Martyr"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Alkeld the Martyr"
 summary: "Martyred by Danes. Two churches in Yorkshire, England are dedicated to her."
 searchAliases:
   - "Athilda"
@@ -12,7 +12,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

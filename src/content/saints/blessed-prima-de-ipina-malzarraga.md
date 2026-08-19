@@ -1,7 +1,7 @@
 ---
 name: "Blessed Prima de Ipiña Malzárraga"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Prima de Ipiña Malzárraga"
 summary: "Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

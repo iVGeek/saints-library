@@ -1,7 +1,7 @@
 ---
 name: "Saint Sacer"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Sacer"
 summary: "Descendant of Roderic, king of Ireland. Founded the monastery of Saggard, Dublin, Ireland, and served as its first abbot."
 searchAliases:
   - "Mo-Sacra"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

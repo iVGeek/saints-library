@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ndue Serreqi"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Ndue Serreqi"
 summary: "Educated by Franciscan friars, he joined the Order as a young man. Seminarian in Brescia, Italy, he was ordained a priest in June 1936, taking the name Father Karl, and serving parishes in the mountain villages of Albania. He was arrested on 9 October 1946 by Communist authoritie"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ndue-Serreqi.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

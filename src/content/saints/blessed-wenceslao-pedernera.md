@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wenceslao Pedernera"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Wenceslao Pedernera"
 summary: "Married layman of the diocese of La Rioja, Argentina. Organized the Movimiento Rural Catolico. Murdered in front of his family."
 birthYear: 1936
 deathYear: 1976
@@ -15,10 +15,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-martyr: true
+martyr: false
 ---
 
 Married layman of the diocese of La Rioja, Argentina. Organized the Movimiento Rural Catolico. Murdered in front of his family.

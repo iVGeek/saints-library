@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Durres"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Germanus of Durres"
 summary: "Italian Christian who fled Italy to escape the persecutions of emperor Hadrian. Arrived in Dyrrachium, Macedonia to find Saint Astius tied to a cross, covered in honey, laid in the sun, and left to be tortured by biting and stinging insects. When he expressed sympathy for Astius,"
 searchAliases:
   - "Germano"
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

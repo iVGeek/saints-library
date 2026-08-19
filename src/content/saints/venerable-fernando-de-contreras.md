@@ -1,7 +1,7 @@
 ---
 name: "Venerable Fernando de Contreras"
 honorific: Venerable
-title: "Priest, Monk, Pope"
+title: "Venerable Fernando de Contreras"
 summary: "Priest in the archdiocese of Seville, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Fernando-de-Contreras.jpg"
 birthYear: 1470
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

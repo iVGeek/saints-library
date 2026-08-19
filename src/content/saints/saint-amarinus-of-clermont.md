@@ -1,7 +1,7 @@
 ---
 name: "Saint Amarinus of Clermont"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Amarinus of Clermont"
 summary: "Benedictine monk. Friend of Saint Praejectus of Clermont. Abbot of a monastery in the archdiocese of Clermont, France. The valley of Saint Amarian in Alsace, France, is named in his honor. Martyr."
 searchAliases:
   - "Marinus"
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Guido Maria Conforti"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Royalty"
+title: "Saint Guido Maria Conforti"
 summary: "As a child he used to have conversations in his parish church with Christ crucified. Entered the seminary in Parma, Italy at age 17. Ordained on 22 September 1888. Professor at the seminary. Vice-rector of the seminary. Vicar of Clergy in the diocese of Parma. Founded the Mission"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Guido_Maria_Conforti.gif"
 birthYear: 1865
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 patronage:
   - "Xaverian Missionaries"
 martyr: false

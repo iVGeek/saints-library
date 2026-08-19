@@ -1,7 +1,7 @@
 ---
 name: "Saint Aelred of Rievaulx"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Royalty, Confessor"
+title: "Saint Aelred of Rievaulx"
 summary: "Son of Eilaf, a priest during a period when English priests were allowed to marry, and keeper of the shrine of Hexham. Master of the household of the court of King David of Scotland. Known for his gentle spirituality and his personal austerity amid the court life. David wanted to"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/De_Speculo_Caritatis.jpeg"
 searchAliases:
@@ -44,7 +44,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
@@ -52,7 +51,7 @@ religiousOrder: "Benedictine"
 patronage:
   - "against kidney disease"
   - "against kidney stones"
-martyr: true
+martyr: false
 ---
 
 Son of Eilaf, a priest during a period when English priests were allowed to marry, and keeper of the shrine of Hexham. Master of the household of the court of King David of Scotland. Known for his gentle spirituality and his personal austerity amid the court life. David wanted to make his friend a bishop, but instead Aelred left Scotland in 1134 to become a Cistercian monk at Rievaulx, Yorkshire, England. Master of novices. First abbot of a Cistercian monastery in Revensby, Lincolnshire, England in 1142. Abbot of Rievaulx in 1147, which made the superior of all Cistercians in England, and kept him much on the road, travelling from house to house, preaching throughout England and Scotland. Peacemaker among the Picts in Galway, ending disputes and revitalizing the faith in the area. He composed sermons and prayers, wrote works on the spiritual and aescetic life, wrote on the lives of King David of Scotland, Saint Ninian and Saint Edward the Confessor, and was considered a living saint by those who knew him.

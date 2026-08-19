@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Bandrés Sánchez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Bandrés Sánchez"
 summary: "Studied at Huesca and Campello, Spain. Joined the Salesians of Don Bosco in 1913, beginning his novitiate at Carabanchel in Barcelona, Spain. Ordained a priest in 1922. Musician and musical director. Taught in Barcelona, Mataro and Sarria. At the start of the Spanish Civil War, h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Bandrés-Sánchez.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

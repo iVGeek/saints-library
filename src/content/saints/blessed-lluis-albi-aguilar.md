@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lluís Albi Aguilar"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Lluís Albi Aguilar"
 summary: "Member of the Claretians, professed in 31 August 1926. Ordained a priest on 26 May 1934. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

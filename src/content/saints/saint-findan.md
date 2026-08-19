@@ -1,7 +1,7 @@
 ---
 name: "Saint Findan of Rheinau"
 honorific: Saint
-title: "Monk, Pope, Hermit"
+title: "Saint Findan of Rheinau"
 summary: "Captured by Norse raiders, who murdered the rest of his family, Findan was forced into slavery in the Orkney Islands. He escaped to Scotland and headed south, becoming a pilgrim to Rome, Italy. Monk at Farfa Abbey, Farfa Sabina, Italy. Monk and hermit in Rheinau Abbey, Rheinau, S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Findanus-von-Rheinau.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

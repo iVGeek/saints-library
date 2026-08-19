@@ -1,7 +1,7 @@
 ---
 name: "Saint Martin of Saujon"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Martin of Saujon"
 summary: "Sixth century priest, monk and abbot in Saujon, Saintes, France."
 searchAliases:
   - "Martino"

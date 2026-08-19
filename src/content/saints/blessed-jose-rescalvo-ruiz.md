@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Rescalvo Ruiz"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Rescalvo Ruiz"
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

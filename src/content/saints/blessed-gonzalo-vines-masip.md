@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gonzalo Viñes Masip"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Gonzalo Viñes Masip"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Vines-Masip.jpg"
 birthYear: 1883
@@ -16,9 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

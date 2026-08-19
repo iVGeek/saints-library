@@ -1,7 +1,7 @@
 ---
 name: "Saint Calamanda of Calaf"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Calamanda of Calaf"
 summary: "Young woman martyred in the persecutions of Diocletian. A number of other stories have been attached to her including that she was one of the companions of Saint Ursula or that her father killed her for refusing an arranged marriage, but these are apparently stories in search of"
 searchAliases:
   - "Calamandra"
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 patronage:
   - "against drought"
   - "Calaf, Spain"

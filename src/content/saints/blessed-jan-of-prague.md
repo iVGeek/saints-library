@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan of Prague"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jan of Prague"
 summary: "Franciscan Friar Minor novice. One of the Martyrs of Prague, killed by a Lutheran mob."
 image: "https://catholicsaints.info/wp-content/uploads/blessed-jan-of-prague.jpg"
 birthYear: 1603
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

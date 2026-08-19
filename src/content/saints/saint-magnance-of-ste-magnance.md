@@ -1,7 +1,7 @@
 ---
 name: "Saint Magnance of Ste-Magnance"
 honorific: Saint
-title: "Saint"
+title: "Saint Magnance of Ste-Magnance"
 summary: "Spiritual student of Saint Germanus of Auxerre."
 searchAliases:
   - "Magnance of Auxerre"
@@ -16,8 +16,7 @@ feastDay:
   month: 11
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "dying children"
 martyr: false

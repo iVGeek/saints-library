@@ -1,7 +1,7 @@
 ---
 name: "Saint Florentius the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Florentius the Martyr"
 summary: "One of a group of nine martyrs who were murdered at the command of Emperor Maximian Herculeus. May have been part of the Theban Legion."
 image: "http://catholicsaints.info/wp-content/uploads/BOMUE7-1.jpg"
 deathYear: 303
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

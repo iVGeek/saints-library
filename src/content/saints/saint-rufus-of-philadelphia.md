@@ -1,7 +1,7 @@
 ---
 name: "Saint Rufus of Philadelphia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rufus of Philadelphia"
 summary: "Martyr. No other information has survived."
 died: "martyred in Philadelphia  (modern Alasehir, Turkey)"
 deathPlace: "Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angelo of Acquapagana"
 honorific: Blessed
-title: "Monk, Religious, Hermit"
+title: "Blessed Angelo of Acquapagana"
 summary: "Monk at Valdicastro, Italy. Hermit, joining the Camaldolese c.1285 at the San Salvatore di Acquapagana hermitage and living in a nearby cave."
 searchAliases:
   - "Angel"

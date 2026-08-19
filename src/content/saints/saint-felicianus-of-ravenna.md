@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicianus of Ravenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felicianus of Ravenna"
 summary: "Martyr. No other information has survived."
 deathYear: 305
 died: "c.305 in Ravenna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dionysius of Alexandria"
 summary: "Martyr."
 died: "drowned in the sea at Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -12,7 +12,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

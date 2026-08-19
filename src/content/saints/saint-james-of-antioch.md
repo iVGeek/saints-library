@@ -1,7 +1,7 @@
 ---
 name: "Saint James of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint James of Antioch"
 summary: "Bishop. Travelled with and martyred with Saint Ursula."
 deathYear: 238
 died: "21 October 238 in Cologne, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

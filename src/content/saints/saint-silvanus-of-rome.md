@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvanus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Silvanus of Rome"
 summary: "Martyr."
 searchAliases:
   - "Sylvanus"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

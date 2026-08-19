@@ -1,7 +1,7 @@
 ---
 name: "Saint Clerus of Antioch"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Clerus of Antioch"
 summary: "Deacon. Repeatedly tortured to give up his faith before being executed. Martyr."
 searchAliases:
   - "Bilicerius"
@@ -18,7 +18,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

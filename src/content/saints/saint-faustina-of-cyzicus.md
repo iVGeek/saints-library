@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustina of Cyzicus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Faustina of Cyzicus"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Faustina-of-Cyzicus.jpg"
 deathYear: 303
@@ -11,8 +11,7 @@ feastDay:
   month: 6
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

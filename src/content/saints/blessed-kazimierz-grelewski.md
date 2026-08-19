@@ -1,7 +1,7 @@
 ---
 name: "Blessed Kazimierz Grelewski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Kazimierz Grelewski"
 summary: "Brother of Blessed Stefan Grelewski. Parish priest, teacher and prefect of schools in the diocese of Radom, Poland. Arrested by the Gestapo on 24 January 1941 and deported to the Dachau concentration camp as part of the Nazi persecution of Christians. He was murdered by a guard w"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Kazimierz-Grelewski.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

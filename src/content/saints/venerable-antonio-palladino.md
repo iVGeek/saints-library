@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonio Palladino"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope"
+title: "Venerable Antonio Palladino"
 summary: "Priest in the diocese of Cerignola-Ascoli Satriano, Italy. Founder of the Dominican Sisters of the Blessed Sacrament."
 birthYear: 1881
 deathYear: 1926
@@ -15,12 +15,10 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 Priest in the diocese of Cerignola-Ascoli Satriano, Italy. Founder of the Dominican Sisters of the Blessed Sacrament.

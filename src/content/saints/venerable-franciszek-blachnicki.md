@@ -1,7 +1,7 @@
 ---
 name: "Venerable Franciszek Blachnicki"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Franciszek Blachnicki"
 summary: "Priest in the diocese of Katowice, Poland."
 birthYear: 1921
 deathYear: 1987
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Franciszek_Blachnicki.jpg"
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

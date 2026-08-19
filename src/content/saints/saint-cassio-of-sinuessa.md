@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassio of Sinuessa"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Missionary"
+title: "Saint Cassio of Sinuessa"
 summary: " Lured to a location near Aquaviva in central Italy with a challenge by pagan priests to prove the power of Christianity over that of idols, Cassio and Saint Casto of Calvi were seized, beaten and then thrown into a fire. When they were unharmed, the pag Priest. Missionary bishop."
 searchAliases:
   - "Cassius"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

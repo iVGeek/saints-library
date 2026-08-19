@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bernarda Heimgartner"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Bernarda Heimgartner"
 summary: "Her father died when Maria Anna was 14. From 1838 to 1840 she worked as a children's nurse in Baden, Aargau, Switzerland. In 1840, feeling the call to religious life, she began studies with the Capuchinesses in Baden, then in 1841 began three years of study with the Ursulines in"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Menzingen-Bernarda.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

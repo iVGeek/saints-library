@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bianca Piccolomini-Clementini"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Bianca Piccolomini-Clementini"
 summary: "Countess. Founder of the Society of Saint Angela Merici."
 image: "http://catholicsaints.info/wp-content/uploads/phoca_thumb_l_9.jpg"
 birthYear: 1875
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

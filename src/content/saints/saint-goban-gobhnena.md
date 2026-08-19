@@ -1,7 +1,7 @@
 ---
 name: "Saint Goban Gobhnena"
 honorific: Saint
-title: "Monk"
+title: "Saint Goban Gobhnena"
 summary: "Sixth-seventh century abbot at Old-Leighlin, County Limerick, Ireland."
 region: "Ireland"
 feastDay:

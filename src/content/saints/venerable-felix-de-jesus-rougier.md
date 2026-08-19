@@ -1,7 +1,7 @@
 ---
 name: "Venerable Félix de Jesús Rougier"
 honorific: Venerable
-title: "Priest, Pope, Missionary"
+title: "Venerable Félix de Jesús Rougier"
 summary: "Ordained at age 27. Missionary to Colombia for six years. Missionary to Mexico in 1902. Founder the Congregation of the Holy Ghost Missionaries on 25 December 1914. Worked to have Mexico formally consecrated to the Holy Spirit on 12 October 1924. Founded the Daughters of the Holy"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Felix_of_Jesus_Rougier%2C_MSpS.jpeg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Missionary
 martyr: false
 ---

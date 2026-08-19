@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Palos Gascón"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ramón Palos Gascón"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Cayetano José"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

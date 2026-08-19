@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolás Tum Castro Quiatan"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicolás Tum Castro Quiatan"
 summary: "Married layman of the diocese of Quiché, Guatemala. A catechist, altar server and acolyte. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolas-Tum-Castro-Quiatan.jpg"
 birthYear: 1945
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

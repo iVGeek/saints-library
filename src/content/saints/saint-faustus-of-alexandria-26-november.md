@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Alexandria"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Faustus of Alexandria"
 summary: "Priest in Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."
 deathYear: 311
 born: "Egyptian"
@@ -13,7 +13,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

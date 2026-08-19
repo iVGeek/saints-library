@@ -1,7 +1,7 @@
 ---
 name: "Saint Chrodegang of Metz"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Chrodegang of Metz"
 summary: "Son of Sigram and Landrada; related to Pepin the Short; brother of Saint Opportuna of Montreuil. Educated at Saint Trond abbey. Secretary to Charles Martel. Chancellor of France. Even while holding such positions, he went about in hair shirts, fasting, praying, and supporting the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chrodegang-of-Metz.jpg"
 searchAliases:
@@ -43,13 +43,11 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Son of Sigram and Landrada; related to Pepin the Short; brother of Saint Opportuna of Montreuil. Educated at Saint Trond abbey. Secretary to Charles Martel. Chancellor of France. Even while holding such positions, he went about in hair shirts, fasting, praying, and supporting the poor. Bishop of Metz, France in 742 even though he was still a layman. Chief minister to Pepin the Short. Ambassador to the Vatican. Mayor of the Palace. Involved in the coronation of Pepin as King of the Franks, the first Carolingian king. Defended Rome and the papacy against the Lombards. Worked to reform the Frankish Church, including educating the clergy, and encouraging them to live in communities based largely on the Benedictine Rule. Founded and restored churches and monasteries. Introduced the Roman liturgy and Gregorian Chant to his see, from which they spread to other parts of Europe. Participated in several councils.

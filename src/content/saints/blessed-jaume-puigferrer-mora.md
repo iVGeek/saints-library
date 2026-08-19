@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Puigferrer Mora"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jaume Puigferrer Mora"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Miquel De Jesus"
@@ -16,9 +16,7 @@ feastDay:
   month: 9
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

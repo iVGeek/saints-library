@@ -1,7 +1,7 @@
 ---
 name: "Blessed Plácido Camino Fernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Plácido Camino Fernández"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Plácido-Camino-Fernández.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isabel Calduch Rovira"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Isabel Calduch Rovira"
 summary: "Franciscan Capuchin Poor Clare nun. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1937
@@ -15,9 +15,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

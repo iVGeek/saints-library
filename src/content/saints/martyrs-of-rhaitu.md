@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Rhaitu"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Rhaitu"
 summary: "43 monks martyred by Blemmyes."
 died: "Raíthu, Egypt, date unknown"
 deathPlace: "Egypt, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

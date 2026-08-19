@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie Amandine"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Saint Marie Amandine"
 summary: "One of seven children in a pious family; three of her siblings went into religious life. Her mother died when Pauline was seven, her father was forced to move to find work, and she was adopted by another pious village family. Franciscan tertiary at age fifteen. Joined the Institu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marie-Amandine.jpg"
 searchAliases:
@@ -19,11 +19,8 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

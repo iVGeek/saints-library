@@ -1,7 +1,7 @@
 ---
 name: "Saint Verus of Vienne"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Verus of Vienne"
 summary: "Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314."
 searchAliases:
   - "Vero"
@@ -13,10 +13,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314.

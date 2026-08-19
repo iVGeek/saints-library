@@ -1,7 +1,7 @@
 ---
 name: "Saint Lycarion of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lycarion of Egypt"
 summary: "Tortured extensively and executed for his faith. Martyr."
 searchAliases:
   - "Licarion"
@@ -14,7 +14,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

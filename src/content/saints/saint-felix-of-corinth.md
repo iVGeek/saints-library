@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Corinth"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Corinth"
 summary: "Martyr."
 died: "Corinth, Greece"
 deathPlace: "Greece"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

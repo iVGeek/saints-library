@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabas the Lector"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sabas the Lector"
 summary: "Goth. Lector in a church in what is now Romania. Captured by heathen Goths, he refused to eat food that had been sacrificed to idols. He and several others were martyed for this."
 image: "http://catholicsaints.info/wp-content/uploads/Sabas-the-Lector.jpg"
 searchAliases:
@@ -22,13 +22,12 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:
   - "lectors"
   - "torture victims"
-martyr: true
+martyr: false
 ---
 
 Goth. Lector in a church in what is now Romania. Captured by heathen Goths, he refused to eat food that had been sacrificed to idols. He and several others were martyed for this.

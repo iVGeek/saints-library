@@ -1,7 +1,7 @@
 ---
 name: "Saint Foillan of Fosses"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Missionary"
+title: "Saint Foillan of Fosses"
 summary: "Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia, England c.630 where they worked as missionaries, and established the monastery of Burgh Castle near Yarmouth. Abbot of the community at Cnoberesburg, Suffolk, England i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Foillan-of-Fosses1.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

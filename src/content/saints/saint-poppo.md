@@ -1,7 +1,7 @@
 ---
 name: "Saint Poppo"
 honorific: Saint
-title: "Priest, Monk, Religious, Soldier"
+title: "Saint Poppo"
 summary: "Born to the Belgian nobility, the son of Tizekinus and Adalwif, Poppo was two months premature and required much care from his grandmother. His was a pious family; when Poppo was grown, his mother became a nun. Career soldier. Pilgrim to the Holy Lands in 1000, and then to Rome,"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Poppo-Abbot.jpg"
 searchAliases:

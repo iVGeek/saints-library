@@ -1,7 +1,7 @@
 ---
 name: "Saint Paschasius of Salamanca"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Paschasius of Salamanca"
 summary: "Brother of Saint Eutychianus of Salamanca and Saint Paulillus of Salamanca. Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first banished from court, then, when he continue to use the Nicene Creed, was imprisoned, tortu"
 deathYear: 437
 born: "at Salamanca, Spain"
@@ -13,9 +13,7 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

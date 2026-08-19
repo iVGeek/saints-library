@@ -1,7 +1,7 @@
 ---
 name: "Saint Nepor of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nepor of Africa"
 summary: "Martyred in Africa, date unknown."
 searchAliases:
   - "Nepos"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

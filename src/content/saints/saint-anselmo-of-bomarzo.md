@@ -1,7 +1,7 @@
 ---
 name: "Saint Anselmo of Bomarzo"
 honorific: Saint
-title: "Bishop, Hermit, Royalty"
+title: "Saint Anselmo of Bomarzo"
 summary: "Born to a wealthy, pious family who encouraged Anselmo from an early age to study the Bible. When the last of his family died, the young man gave away his wealth to the poor, and retired to live as a studious hermit. However, as he was the most learned and pious man they knew, he"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Anselmo-of-Bomarzo.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Hermit
-  - Royalty
 patronage:
   - "Bomarzo, Italy"
 martyr: false

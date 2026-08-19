@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Terracina"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Terracina"
 summary: "Martyr. No other information has survived."
 died: "1st century in Terracina, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

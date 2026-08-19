@@ -1,7 +1,7 @@
 ---
 name: "Saint Albinus of Angers"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Albinus of Angers"
 summary: "Born to a noble family of Brittany. Pious child. Monk from his mid-20's into his 60's at Timcillac, which later renamed itself Saint Aubin's in his honour. Abbot for 25 years, beginning in 504. Bishop of the diocese of Angers, France from c.529. His episcopacy was known for his c"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Saint_Aubin_assistant_au_IIIe_concile_d%27Orl%C3%A9ans.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
@@ -30,7 +29,7 @@ patronage:
   - "–"
   - "Angers, France"
   - "Saint-Aubin, Belgium"
-martyr: true
+martyr: false
 ---
 
 Born to a noble family of Brittany. Pious child. Monk from his mid-20's into his 60's at Timcillac, which later renamed itself Saint Aubin's in his honour. Abbot for 25 years, beginning in 504. Bishop of the diocese of Angers, France from c.529. His episcopacy was known for his charity to the poor, widows and orphans, for his ransoming of slaves from their owners, his personal holiness, and the miracles he worked.

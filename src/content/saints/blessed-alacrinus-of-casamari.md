@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alacrinus of Casamari"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Alacrinus of Casamari"
 summary: "Benedictine Cistercian monk. Prior at Casamari, Veroli, Italy. Papal legate to Germany for Pope Innocent III and Pope Honorius III. Bishop."
 searchAliases:
   - "Alacrino"
@@ -15,7 +15,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

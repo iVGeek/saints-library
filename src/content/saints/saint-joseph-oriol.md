@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Oriol"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Soldier, Missionary, Confessor"
+title: "Saint Joseph Oriol"
 summary: "Born poor. Studied at the University of Barcelona. Awarded a doctorate of theology on 1 August 1674. Ordained 30 May 1676. Pilgrim to Rome, Italy in 1686. Pope Innocent XI granted him a benefice at Santa Maria del Pino (Our Lady of the Pines), Barcelona, Spain, a parish he served"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Statue_of_Saint_Joseph_Oriol_-_Santa_Maria_del_Mar_-_Barcelona_2014.jpg/960px-Statue_of_Saint_Joseph_Oriol_-_Santa_Maria_del_Mar_-_Barcelona_2014.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
   - Confessor

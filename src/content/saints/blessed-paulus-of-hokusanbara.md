@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus of Hokusanbara"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Paulus of Hokusanbara"
 summary: "A child in the diocese of Niigata, Japan, the son of Blessed Paulus Sanjuro and Blessed Rufina Banzai, martyred with his parents."
 birthYear: 1624
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

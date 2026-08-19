@@ -1,7 +1,7 @@
 ---
 name: "Saint Fachtna"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Saint Fachtna"
 summary: "Priest. Bishop of Nuachongbhail Reid Bairend (possibly modern Nuachaval, County Longford, Ireland)."
 region: "Ireland"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Priest. Bishop of Nuachongbhail Reid Bairend (possibly modern Nuachaval, County Longford, Ireland).

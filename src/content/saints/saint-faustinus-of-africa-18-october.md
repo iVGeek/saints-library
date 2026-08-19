@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustinus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustinus of Africa"
 searchAliases:
   - "Faustina"
 deathYear: 300
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

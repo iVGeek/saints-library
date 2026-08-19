@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miro of Canzo"
 honorific: Blessed
-title: "Martyr, Hermit"
+title: "Blessed Miro of Canzo"
 summary: "As a young man, Miro gave all that he owned to the poor and retired to live as a hermit around Lake Como, first near Canzo, then near Sorigo. He may have joined the Franciscan tertiaries, but records are scant and vary. For generations the people around the lake knew him for his"
 birthYear: 1306
 deathYear: 1381
@@ -15,10 +15,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Hermit
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 As a young man, Miro gave all that he owned to the poor and retired to live as a hermit around Lake Como, first near Canzo, then near Sorigo. He may have joined the Franciscan tertiaries, but records are scant and vary. For generations the people around the lake knew him for his piety and wisdom.

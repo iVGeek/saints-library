@@ -1,7 +1,7 @@
 ---
 name: "Saint Ludmila of Bohemia"
 honorific: Saint
-title: "Martyr, Monk, Hermit, Royalty"
+title: "Saint Ludmila of Bohemia"
 summary: "Daughter of a Slavic prince. Duchess of Bohemia, married to Boriwoi, first Christian Duke of Bohemia; the two were baptized by Saint Methodius in 871. They built the first Christian church in Bohemia, and tried to force Christianity on their subjects; they failed. Widow. Grandmot"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/StLudmilaWindowCedarRapidsSep2001.jpg"
 searchAliases:
@@ -17,10 +17,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "against in-law problems"
   - "Christian educators"
@@ -33,7 +31,7 @@ patronage:
   - "Czech Republic"
   - "–"
   - "Prague, Czech Republic, city of"
-martyr: true
+martyr: false
 ---
 
 Daughter of a Slavic prince. Duchess of Bohemia, married to Boriwoi, first Christian Duke of Bohemia; the two were baptized by Saint Methodius in 871. They built the first Christian church in Bohemia, and tried to force Christianity on their subjects; they failed. Widow. Grandmother and tutor of Saint Wenceslaus of Bohemia. Gave a proper burial to Saint Ivan. Her daughter-in-law, Drahomira, jealous of the influence which Ludmilla wielded over her grandson, Wenceslaus, had her murdered.

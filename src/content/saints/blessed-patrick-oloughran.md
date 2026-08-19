@@ -1,7 +1,7 @@
 ---
 name: "Blessed Patrick O'Loughran"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Patrick O'Loughran"
 summary: "Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs."
 searchAliases:
   - "Pádraig Ó Lochráin"
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

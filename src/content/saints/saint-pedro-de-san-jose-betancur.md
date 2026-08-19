@@ -1,7 +1,7 @@
 ---
 name: "Saint Pedro de San José Betancur"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Saint Pedro de San José Betancur"
 summary: "Born a poor shepherd, Pedro devoted his time with the flocks to prayer. At age thirty-one, he journeyed to Guatemala City in hopes of a job away from the sheep. Befriended by the Jesuits and Franciscans of the area, he enrolled in the Jesuit College of San Borgia in hopes of beco"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-San-Jose-Betancur-1.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "Bethlemite Congregations"

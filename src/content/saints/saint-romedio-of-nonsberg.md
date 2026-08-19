@@ -1,7 +1,7 @@
 ---
 name: "Saint Romedio of Nonsberg"
 honorific: Saint
-title: "Martyr, Pope, Hermit"
+title: "Saint Romedio of Nonsberg"
 summary: "Born to the nobility, the family of the Counts of Thaur in modern Austria. He learned to read using the Bible and stories of the saints. As an adult, he gave away his fortune to support churches in the Tyrol, turned a family castle into a monastery, and then went on pilgrimage to"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Romedio-of-Nonsberg-1.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Hermit
 patronage:
   - "against accidents"
@@ -35,7 +33,7 @@ patronage:
   - "prisoners"
   - "theology students"
   - "travellers"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility, the family of the Counts of Thaur in modern Austria. He learned to read using the Bible and stories of the saints. As an adult, he gave away his fortune to support churches in the Tyrol, turned a family castle into a monastery, and then went on pilgrimage to the tombs of the Apostles; legend says that a bear killed his horse, and in remorse, the bear carried him for the rest of the trip. Cave hermit at Sanzeno on Nonsberg near Salzburg.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Collellmir Sentíes"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Manuel Collellmir Sentíes"
 summary: "Franciscan Capuchin friar, joining on 29 August 1935. He didn't live to make his solemn profession as he was murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Jordi of Santa Pau"
@@ -17,11 +17,9 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, joining on 29 August 1935. He didn't live to make his solemn profession as he was murdered by Marxists in the Spanish Civil War.

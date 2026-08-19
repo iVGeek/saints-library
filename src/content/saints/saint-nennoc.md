@@ -1,7 +1,7 @@
 ---
 name: "Saint Nennoc"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Nennoc"
 summary: "Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more convents in Brittany."
 searchAliases:
   - "Gwengustle"

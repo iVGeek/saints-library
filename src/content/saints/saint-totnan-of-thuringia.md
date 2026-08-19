@@ -1,7 +1,7 @@
 ---
 name: "Saint Totnan of Thuringia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon"
+title: "Saint Totnan of Thuringia"
 summary: "Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg"
 deathYear: 689
@@ -12,7 +12,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

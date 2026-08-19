@@ -1,7 +1,7 @@
 ---
 name: "Saint Ephrem of Syria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Deacon, Pope, Hermit, Doctor of the Church, Confessor"
+title: "Saint Ephrem of Syria"
 summary: "May have been the son of a pagan priest. Brought to the faith by Saint James of Nisibis, and baptized at age 18. Helped to evangelize Nisibis, Mesopotamia. May have attended the Council of Nicaea in 325. Deacon. Preacher. Had a great devotion to the Blessed Virgin Mary. In 363 Ni"
 image: "http://catholicsaints.info/wp-content/gallery/saint-ephrem-of-syria/saint-ephrem-of-syria-01.jpg"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
   - Confessor
@@ -34,7 +32,7 @@ religiousOrder: "Franciscan"
 patronage:
   - "spiritual directors"
   - "spiritual leaders"
-martyr: true
+martyr: false
 ---
 
 May have been the son of a pagan priest. Brought to the faith by Saint James of Nisibis, and baptized at age 18. Helped to evangelize Nisibis, Mesopotamia. May have attended the Council of Nicaea in 325. Deacon. Preacher. Had a great devotion to the Blessed Virgin Mary. In 363 Nisibis was ceded to Persia; a great persecution of Christians began, and Eprem led an exodus of the faithful to Edessa. Founded a theological school in Edessa. Wrote homilies, hymns and poetry. Helped introduce the use of hymns in public worship. Fought Gnosticism and Arianism by his writings, including poems and hymns. Proclaimed a Doctor of the Church in 1920.

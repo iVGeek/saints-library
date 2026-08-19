@@ -1,7 +1,7 @@
 ---
 name: "Saint Thomas of Farfa"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Thomas of Farfa"
 summary: "Benedictine monk. Pilgrim to the Holy Land. Lived as a hermit near Farfa Abbey, Italy. Friend of the duke of Spoleto, Italy. Restored Farfa Abbey with the financial aid of the duke. Abbot."
 image: "http://catholicsaints.info/wp-content/uploads/img-Thomas-of-Maurienne.jpg"
 deathYear: 720

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elizabeth of the Trinity"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Saint Elizabeth of the Trinity"
 summary: "Daughter of Captain Joseph Catez and Marie Catez. Her father died when the girl was seven, leaving her mother to raise Elizabeth and her sister Marguerite. Noted as a lively, popular girl, extremely stubborn, given to fits of rage, with great reverence for God, and an early attra"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Visage_d%27Elisabeth_de_la_Trinit%C3%A9.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "against bodily ills"

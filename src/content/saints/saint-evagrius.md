@@ -1,7 +1,7 @@
 ---
 name: "Saint Evagrius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Evagrius"
 summary: "Martyr. No other information has survived."
 died: "Tomi (modern Constanta, Romania)"
 deathPlace: "Romania)"
@@ -10,7 +10,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

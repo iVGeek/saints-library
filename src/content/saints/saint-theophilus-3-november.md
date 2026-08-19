@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theophilus"
 summary: "Martyred in the persecutions of Decius."
 deathYear: 250
 died: "250 at Caesarea, Cappadocia"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

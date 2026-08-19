@@ -1,7 +1,7 @@
 ---
 name: "Blessed Melecio Pardo Llorente"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Melecio Pardo Llorente"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Melecio-Pardo-Llorente.jpg"
 birthYear: 1913
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed François Dardan"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Confessor"
+title: "Blessed François Dardan"
 summary: "Ordained a priest in the archdiocese of Paris, France on 5 June 1762. He taught at and served as director of the the Larressore seminary for about ten years. Minister and confessor to students of the college of Saint Barbara in Paris for over twenty years. In 1790 he received a r"
 birthYear: 1733
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Carmelite"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Mozio of Constantinople"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Mozio of Constantinople"
 summary: "Born to a wealthy imperial Roman family. Priest. Ordered by governor Laodicio to make a sacrifice to the god Bacchus, Mozio refused; he was tortured by was not harmed by it and still refused to make the sacrifice. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mozio-of-Constantinople.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

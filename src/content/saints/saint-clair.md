@@ -1,7 +1,7 @@
 ---
 name: "Saint Clair of Tours"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Clair of Tours"
 summary: "Wealthy citizen of Tours, France; he gave up his wealth and position to become a monk at Marmoutier Abbey in Tours. Spiritual student of Saint Martin of Tours. Friend of Saint Sulpicius Severus and Saint Paulinus of Nola. Priest. Lived his later years as a hermit near the abbey."
 searchAliases:
   - "Clarus"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elias the Younger"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Elias the Younger"
 summary: "Monk in the tradition of the Eastern Fathers. Escaping the persecutions of invading Muslim Saracens, Elias fled to Jerusalem where he received the monastic habit from the Patriarch of Jerusalem, taking the name Elias. He spent three years in a monastery in Sinai, then travelled t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elias-the-Younger.jpg"
 searchAliases:
@@ -22,11 +22,9 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Monk in the tradition of the Eastern Fathers. Escaping the persecutions of invading Muslim Saracens, Elias fled to Jerusalem where he received the monastic habit from the Patriarch of Jerusalem, taking the name Elias. He spent three years in a monastery in Sinai, then travelled to Alexandria, Egypt, to Persia, to Antioch, and finally back to Palestine. In 878, he moved to Calabria in Sicily in 859, and there spent an austere life devoted to prayer. In 884 he founded a monastery in the nearby Salinas area, and was well known as a spiritual teacher. He made a pilgrimage to Rome, Italy, and was on a pilgrimage to Constantinople when he died.

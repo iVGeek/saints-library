@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco de Paula Roda Díaz"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francisco de Paula Roda Díaz"
 summary: "Layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1915
 deathYear: 1936
@@ -13,9 +13,7 @@ feastDay:
   month: 9
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

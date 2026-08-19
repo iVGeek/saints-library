@@ -1,7 +1,7 @@
 ---
 name: "Saint Abban of Kill-Abban"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Abban of Kill-Abban"
 summary: "Contemporary of Saint Patrick. Founded Kill-Abban abbey in Leinster, Ireland, and served as its first abbot. Founded the convent for Saint Gobnait of Ballyvourney, Ireland."
 searchAliases:
   - "Abban of Magheranoidhe"

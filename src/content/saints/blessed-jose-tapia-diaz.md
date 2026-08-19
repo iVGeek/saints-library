@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Tapia Díaz de Villachica"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed José Tapia Díaz de Villachica"
 summary: "Young layman in the diocese of Almería, Spain, he was the son of merchants and early began working as a clerk to learn the family trade. Member of Catholic Action. Martyred in the Spanish Civil War for refusing to renounce his faith."
 birthYear: 1913
 deathYear: 1936
@@ -15,10 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

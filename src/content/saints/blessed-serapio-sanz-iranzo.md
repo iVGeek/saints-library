@@ -1,7 +1,7 @@
 ---
 name: "Blessed Serapio Sanz Iranzo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Serapio Sanz Iranzo"
 summary: "Mercedarian brother. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Serapio-Sanz-Iranzo.jpg"
 birthYear: 1879
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

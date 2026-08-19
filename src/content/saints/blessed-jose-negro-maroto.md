@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Negro Maroto"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed José Negro Maroto"
 summary: "Dominican friar, priest and missionary to Japan. Provincial vicar of Dominican missions to Japan. Noted for his fluent Japanese. Founded convents in Meaco and Ozaca. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom. At the scene of his ex"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Negro-Maroto.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

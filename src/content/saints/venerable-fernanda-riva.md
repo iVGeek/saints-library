@@ -1,7 +1,7 @@
 ---
 name: "Venerable Fernanda Riva"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Fernanda Riva"
 summary: "Canossian nun."
 birthYear: 1920
 deathYear: 1956
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Ven_Fernanda_Riva.png"
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marguerite Bays"
 honorific: Venerable
-title: "Virgin, Priest, Pope"
+title: "Saint Marguerite Bays"
 summary: "The second of seven children born to Pierre-Antoine Bays and Josephine Morel, she grew up in a pious farm family. Lifelong lay woman in the archdiocese of Lausanne, Switzerland, she supported herself as a dress maker and seamstress. She never married, but devoted herself and her"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Marguerite_Bays.jpg"
 birthYear: 1815
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

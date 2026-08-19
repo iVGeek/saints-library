@@ -1,7 +1,7 @@
 ---
 name: "Saint Auxentius of Bithynia"
 honorific: Saint
-title: "Priest, Monk, Religious, Hermit, Soldier"
+title: "Saint Auxentius of Bithynia"
 summary: "Career soldier and equestrian guard of Emperor Theodosius the Younger, he was known to preach to his fellow guards. He eventually left the service to become a hermit on Mount Oxia near Constantinople. Accused and cleared of Eutychianistic heresy. Archimandrite in Bithynia. Active"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Auxentius%2C_monk_of_Bithynia_%28Menologion_of_Basil_II%29.jpeg/960px-Auxentius%2C_monk_of_Bithynia_%28Menologion_of_Basil_II%29.jpeg"
 searchAliases:

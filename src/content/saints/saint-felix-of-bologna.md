@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Bologna"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Deacon"
+title: "Saint Felix of Bologna"
 summary: "Spiritual student of and deacon for Saint Ambrose of Milan. Bishop of Bologna, Italy c.397."
 searchAliases:
   - "Felice"
@@ -13,11 +13,10 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Deacon
-martyr: true
+martyr: false
 ---
 
 Spiritual student of and deacon for Saint Ambrose of Milan. Bishop of Bologna, Italy c.397.

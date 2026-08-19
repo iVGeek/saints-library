@@ -1,7 +1,7 @@
 ---
 name: "Saint John the Baptist"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty, Soldier"
+title: "Saint John the Baptist"
 summary: "Cousin of Jesus Christ. Son of Zachary, a priest of the order of Abia whose job in the temple was to burn incense; and of Elizabeth, a descendent of Aaron. As Zachary was ministering in the Temple, an angel brought him news that Elizabeth would bear a child filled with the Holy S"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg/960px-Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
   - Soldier
 religiousOrder: "Jesuit"
 patronage:

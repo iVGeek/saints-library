@@ -1,7 +1,7 @@
 ---
 name: "Saint Menna of Sannio"
 honorific: Saint
-title: "Pope, Hermit, Royalty"
+title: "Saint Menna of Sannio"
 summary: "Holy hermit who lived in a cave in the Sannio mountains in the region of modern Molise, Italy. Pope Saint Gregory the Great wrote of his virtues, and his pious wisdom led the local people to consider him a saint immediately upon his death."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Menna-of-Sannio.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Hermit
-  - Royalty
 patronage:
   - "mothers"
   - "Vitulano, Italy (traditional, and chosen solemnly on 10 April 1705)"

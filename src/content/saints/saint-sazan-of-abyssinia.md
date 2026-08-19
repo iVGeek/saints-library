@@ -1,7 +1,7 @@
 ---
 name: "Saint Sazan of Abyssinia"
 honorific: Saint
-title: "Monk"
+title: "Saint Sazan of Abyssinia"
 summary: "Brother of Saint Aizan; friend of Saint Athanasius of Alexandria. Chieftain in Abyssinia (modern Ethiopia). Worked to spread Christianity in Africa."
 region: "Egypt"
 feastDay:

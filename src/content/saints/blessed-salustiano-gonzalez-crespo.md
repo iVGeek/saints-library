@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salustiano González Crespo"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Salustiano González Crespo"
 summary: "Vincentian monk. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salustiano-González-Crespo.jpg"
 birthYear: 1871
@@ -16,9 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

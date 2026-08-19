@@ -1,7 +1,7 @@
 ---
 name: "Saint Blaesilla"
 honorific: Saint
-title: "Saint"
+title: "Saint Blaesilla"
 summary: "Daughter of Saint Paula. Friend and spiritual student of Saint Jerome. Married in her teens to Furius, son of Titiana; widowed after only seven months, after which she consecrated herself to God. Student of Hebrew."
 searchAliases:
   - "Blesilla"
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "brides"
   - "widows"

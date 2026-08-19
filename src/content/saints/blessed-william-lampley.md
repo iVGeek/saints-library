@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Lampley"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed William Lampley"
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
 deathYear: 1588
 born: "in Gloucester, Gloucestershire, England"
@@ -14,9 +14,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/WJLampley.jpg"
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

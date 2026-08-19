@@ -1,7 +1,7 @@
 ---
 name: "Saint Phaebadius of Agen"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Phaebadius of Agen"
 summary: "Priest. Fouth century bishop of Agen, France. Presided over several Councils including Rimini in 359, Valence in 374, and Zaragoza in 380. Friend of Saint Hilary of Poitiers with whom he waged a successful fight against Arianism in Gaul; his only surviving writing is Contra Arian"
 searchAliases:
   - "Faebadius"

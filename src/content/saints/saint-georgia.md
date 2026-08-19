@@ -1,7 +1,7 @@
 ---
 name: "Saint Georgia"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Georgia"
 summary: "Nun. Anchoress near Clermont, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Georgia.jpg"
 searchAliases:

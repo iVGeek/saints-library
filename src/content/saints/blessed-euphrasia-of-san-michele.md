@@ -1,7 +1,7 @@
 ---
 name: "Blessed Euphrasia of San Michele"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Euphrasia of San Michele"
 summary: "Franciscan Poor Clare nun. Reforming abbess of the Poor Clare monastery in Lisbon, Portugal."
 searchAliases:
   - "Eufrasia"

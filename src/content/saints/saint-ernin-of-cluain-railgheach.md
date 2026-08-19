@@ -1,7 +1,7 @@
 ---
 name: "Saint Ernin of Cluain-railgheach"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Ernin of Cluain-railgheach"
 summary: "Sixth-century bishop who worked in Ireland with Saint Columba."
 region: "Ireland"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Sixth-century bishop who worked in Ireland with Saint Columba.

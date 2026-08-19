@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eloy Francisco Felipe Delgado Pastor"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Eloy Francisco Felipe Delgado Pastor"
 summary: "Joined the Hospitallers of Saint John of God in 1929, taking the name Juan de la Cruz, and making his final vows on 8 December 1932. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Juan de la Cruz"
@@ -16,10 +16,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

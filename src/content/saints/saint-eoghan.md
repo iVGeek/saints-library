@@ -1,7 +1,7 @@
 ---
 name: "Saint Éoghan of Ardstraw"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Éoghan of Ardstraw"
 summary: "As a boy he was captured and enslaved by pirates, first to Britain, then to Brittany. Friend of Saint Tighernach. As an adult he escaped from the pirates, returned to Ireland, and became a monk. Abbot of Kilnamanagh Abbey, County Wicklow for 15 years. Retired to live as a hermit"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene.jpg"
 searchAliases:

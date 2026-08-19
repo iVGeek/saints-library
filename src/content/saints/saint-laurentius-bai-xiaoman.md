@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurentius Bai Xiaoman"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Laurentius Bai Xiaoman"
 summary: "Born to a poor family, and orphaned as a young boy. Layman. Day labourer in Guangxi, China, and then in the village of Yaoshan. Married in his early 30's, he was the father of one daughter, and was known as a kind and honest man. Convert, joining the Church c.1855 and taking the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Laurentius-Bai-Xiaoman.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 25
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

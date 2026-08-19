@@ -1,7 +1,7 @@
 ---
 name: "Saint Gebhard of Constance"
 honorific: Saint
-title: "Virgin, Bishop, Pope"
+title: "Saint Gebhard of Constance"
 summary: "Bishop of Constance (Konstantz), Germany from 979 till his death. Founded the Benedictine abbey of Peterhausen in 983."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Merazhofen_Pfarrkirche_Chorgest%C3%BChl_rechts_Gebhard.jpg/960px-Merazhofen_Pfarrkirche_Chorgest%C3%BChl_rechts_Gebhard.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Virgin
   - Bishop
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Constance, Germany, city of"

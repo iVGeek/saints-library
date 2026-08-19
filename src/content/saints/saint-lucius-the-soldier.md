@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius the Soldier"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Lucius the Soldier"
 summary: "One of a group of fifty Christian soldiers martyred as a group during the persecutions of Emperor Claudius II Gothicus."
 deathYear: 269
 died: "martyred in 269 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

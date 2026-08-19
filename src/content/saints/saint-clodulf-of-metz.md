@@ -1,7 +1,7 @@
 ---
 name: "Saint Clodulf of Metz"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Clodulf of Metz"
 summary: "Son of Saint Arnulf of Metz. Courtier. Bishop of Metz, France in 656 where he served for 40 years."
 searchAliases:
   - "Chlodulf"
@@ -22,14 +22,13 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
   - Confessor
 patronage:
   - "Metz, France"
-martyr: true
+martyr: false
 ---
 
 Son of Saint Arnulf of Metz. Courtier. Bishop of Metz, France in 656 where he served for 40 years.

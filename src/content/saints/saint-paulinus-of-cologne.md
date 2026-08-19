@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulinus of Cologne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paulinus of Cologne"
 summary: "Martyr."
 died: "relics enshrined in Cologne, Germany"
 deathPlace: "Germany"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

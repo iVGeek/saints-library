@@ -1,7 +1,7 @@
 ---
 name: "Saint Liberatus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Liberatus of Rome"
 summary: "Martyr. Venerated in Rome. No other information as survived."
 searchAliases:
   - "Liberale"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

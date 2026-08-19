@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Solá Peix"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Francesc Solá Peix"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1900
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Janina Kierocinska"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Janina Kierocinska"
 summary: "Founded the Congregation of the Carmelite Sisters of the Child Jesus."
 searchAliases:
   - "Maria Teresa of Saint Joseph"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

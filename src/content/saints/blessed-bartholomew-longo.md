@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartholomew Longo"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Religious, Pope, Royalty, Soldier"
+title: "Blessed Bartholomew Longo"
 summary: "Son of a physician, Longo was born financially well off, and received a good education, both secular and Christian, and attended a Piarist school until age sixteen. Raised in a pious family; they prayed the Rosary together each night. An excellent student, Barolo was skilled in l"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-Longo1.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Dominican"

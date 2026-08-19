@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonaventure of Barcelona"
 honorific: Blessed
-title: "Pope, Royalty"
+title: "Blessed Bonaventure of Barcelona"
 summary: "The only child in a farm family, Francisco married at age 18, but became a widower just sixteen months later. He then followed a call to religious life, and Franciscan friar at the convent of Sant Miquel d'Escornalbou, making his religious profession on 14 July 1641 and taking th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Barcelona.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   month: 9
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "Riudoms, Spain"

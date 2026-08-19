@@ -1,7 +1,7 @@
 ---
 name: "Saint Lleudadd of Bardsey"
 honorific: Saint
-title: "Monk"
+title: "Saint Lleudadd of Bardsey"
 summary: "Monk. Abbot of Bardsey, Gwynedd, Wales. Worked with Saint Cadfan in Brittany."
 searchAliases:
   - "Lleudadd of Enli"

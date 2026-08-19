@@ -1,7 +1,7 @@
 ---
 name: "Saint Philomenus of Ancyra"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philomenus of Ancyra"
 summary: "Baker. Martyred in the persecutions of Emperor Aurelian,"
 searchAliases:
   - "Filomenus"
@@ -14,7 +14,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

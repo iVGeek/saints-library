@@ -1,7 +1,7 @@
 ---
 name: "Saint Dichu"
 honorific: Saint
-title: "Monk"
+title: "Saint Dichu"
 summary: "Son of an Ulster chieftain, he was a swineherd in his youth. Saint Patrick's first convert in Ireland. Gave Patrick the ground at Saul for his first Irish church."
 searchAliases:
   - "Dictinus"

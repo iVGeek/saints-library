@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Santiago y Santiago"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Manuel Santiago y Santiago"
 summary: "Member of the Dominicans. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 12
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

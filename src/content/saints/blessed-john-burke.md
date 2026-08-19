@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Burke"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed John Burke"
 summary: "Layman in the diocese of Limerick, Ireland. One of the Irish Martyrs."
 deathYear: 1606
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

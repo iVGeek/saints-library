@@ -1,7 +1,7 @@
 ---
 name: "Saint Isaac of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Isaac of Cordoba"
 summary: "Though Christian, his knowledge of Arabic allowed him to acquire the position of notary in the Moorish government of the day. He resigned to become a monk at Tabanos. Pulled into public religious debate at Cordoba, Spain, he denounced Mohammed, and was martyred."
 searchAliases:
   - "Isacco"
@@ -17,7 +17,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

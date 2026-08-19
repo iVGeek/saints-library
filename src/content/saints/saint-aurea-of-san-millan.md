@@ -1,7 +1,7 @@
 ---
 name: "Saint Áurea of San Millán"
 honorific: Saint
-title: "Virgin, Religious, Hermit"
+title: "Saint Áurea of San Millán"
 summary: "Daughter of Saint Amunia, she grew up a Christian child in a village invaded by Moors. She was devoted to Saint Agatha, Saint Eulalia of Merida, and Saint Cecilia. Benedictine nun and hermit at San Millán de la Cogolla, La Rioja, Spanish Navarre. Received a vision from Agatha, Sa"
 searchAliases:
   - "Oria"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Manuel Felices Pardo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Juan Manuel Felices Pardo"
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1893
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

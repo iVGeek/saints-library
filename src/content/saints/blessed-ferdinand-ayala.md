@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ferdinand Ayala"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Ferdinand Ayala"
 summary: "Augustinian priest in 1603. Missionary to Mexico. Missionary to Japan. Augustinian vicar provincial in 1605. Worked with Blessed Alphonsus Navarette. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinand-Ayala.jpg"
 searchAliases:
@@ -22,9 +22,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

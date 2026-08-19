@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernardo Tolomei"
 honorific: Saint
-title: "Virgin, Priest, Monk, Pope, Hermit, Soldier"
+title: "Saint Bernardo Tolomei"
 summary: "Giovannni early changed his name to Bernard from admiration for Bernard of Clairvaux. Educated by his Dominican uncle. His father prevented Bernard from entering religious life. Lawyer. Theologian. Soldier. Politician and government official. Struck blind, Bernardo recovered his"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cesare_gennari_il_beato_bernardo_tolomei_by_Stefano_Bolognini.JPG/960px-Cesare_gennari_il_beato_bernardo_tolomei_by_Stefano_Bolognini.JPG"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Priest
 religiousOrder: "Dominican"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ismael of Menevia"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Ismael of Menevia"
 summary: "Sixth century son of Budic, prince of Cornouaille, Brittany (in modern France), who was forced into exile at Dyfed, Wales. Budic later returned to Brittany, but his three sons preferred Wales where they all became holy men. Ismael was the spiritual student of Saint Teilo of Lland"
 searchAliases:
   - "Osmail"
@@ -14,7 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

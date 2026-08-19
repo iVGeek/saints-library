@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapetus of Ruthenia"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Agapetus of Ruthenia"
 summary: "Monk in Ruthenia (in modern Ukraine). Physician who did not charge for his services."
 searchAliases:
   - "Agapitus"

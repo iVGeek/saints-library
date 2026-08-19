@@ -1,7 +1,7 @@
 ---
 name: "Blessed Constantino Carbonell Sempere"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Constantino Carbonell Sempere"
 summary: "Joined the Jesuits in 1886. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Constantino-Carbonell-Sempere.jpg"
 birthYear: 1866
@@ -16,9 +16,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

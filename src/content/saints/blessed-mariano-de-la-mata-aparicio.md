@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mariano de la Mata Aparicio"
 honorific: Blessed
-title: "Priest, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Mariano de la Mata Aparicio"
 summary: "One of eight children born to Martina and Manuel de la Mata Aparicio. Studied in Valladolid, Spain. Joined the Augustinians on 9 September 1921, taking his solemn vows on 23 January 1927. Studied in Pisuerga, Spain and then at the monastery of Saint Maria La Vid in Burgos, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-la-Mata-Aparicio.jpg"
 birthYear: 1905
@@ -17,9 +17,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
   - Missionary
 religiousOrder: "Augustinian"
 martyr: false

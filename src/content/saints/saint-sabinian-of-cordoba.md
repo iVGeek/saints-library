@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinian of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sabinian of Cordoba"
 summary: "Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
 searchAliases:
   - "Sabiniano"
@@ -17,7 +17,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

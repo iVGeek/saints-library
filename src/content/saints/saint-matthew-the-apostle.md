@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthew the Apostle"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Matthew the Apostle"
 summary: "Son of Alphaeus, he lived at Capenaum on Lake Genesareth. He was a Roman tax collector, a position equated with collaboration with the enemy by those from whom he collected taxes. Jesus' contemporaries were surprised to see the Christ with a traitor, but Jesus explained that he h"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Codexaureus_17.jpg"
 searchAliases:
@@ -14,11 +14,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "accountants (traditional, and proclaimed for those in Italy on 6 August 1954 by Pope Pius XII)"
@@ -49,7 +46,7 @@ patronage:
   - "San Marco in Lamis"
   - "Trepunti"
   - "Villa d'Ogna"
-martyr: true
+martyr: false
 ---
 
 Son of Alphaeus, he lived at Capenaum on Lake Genesareth. He was a Roman tax collector, a position equated with collaboration with the enemy by those from whom he collected taxes. Jesus' contemporaries were surprised to see the Christ with a traitor, but Jesus explained that he had come “not to call the just, but sinners.”

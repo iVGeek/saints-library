@@ -1,7 +1,7 @@
 ---
 name: "Saint Marinus of Besalu"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Marinus of Besalu"
 summary: "Bishop at the monastery of Saint Peter in Besalu, Catalonia, Spain."
 deathYear: 800
 died: "c.800"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Zurita Mestanza"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Antonio Zurita Mestanza"
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936
@@ -14,8 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

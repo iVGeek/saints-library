@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicetas of Novgorod"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Nicetas of Novgorod"
 summary: "Monk at the Monastery of the Caves. Hermit. Tormented by demons in his solitude, he returned to the monastery. Bishop of Novgorod in 1095. Known as a miracle worker."
 born: "in Kiev, Ukraine"
 birthPlace: "Ukraine"

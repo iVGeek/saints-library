@@ -1,7 +1,7 @@
 ---
 name: "Blessed Honorio Hernández Martín"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Honorio Hernández Martín"
 summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1905
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

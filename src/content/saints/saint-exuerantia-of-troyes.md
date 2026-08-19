@@ -1,7 +1,7 @@
 ---
 name: "Saint Exuerantia of Troyes"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Exuerantia of Troyes"
 summary: "Nun. Her relics are venerated in Troyes, France. No other information has survived."
 searchAliases:
   - "Esperance"
@@ -16,11 +16,10 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun. Her relics are venerated in Troyes, France. No other information has survived.

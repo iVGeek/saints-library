@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mamerto Esquiú y Medina"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Royalty"
+title: "Blessed Mamerto Esquiú y Medina"
 summary: "The son of Santiago Esquiú and María de las Nieves Medina. Mamerto was early called to religious life, and would wear a brown Franciscan habit as a child. When old enough, he joined the Franciscan Observant Friars Minor, making his profession on 14 July 1842. Ordained a priest on"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mamerto-Esquiu.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "bone diseases"

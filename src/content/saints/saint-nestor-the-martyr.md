@@ -1,7 +1,7 @@
 ---
 name: "Saint Nestor the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Nestor the Martyr"
 summary: "Fourth century missionary, possibly bishop, who evangelized in Cyprus. Martyr."
 searchAliases:
   - "Nestore"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

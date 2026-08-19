@@ -1,7 +1,7 @@
 ---
 name: "Venerable Manuel Borràs Ferré"
 honorific: Venerable
-title: "Martyr, Bishop, Pope"
+title: "Venerable Manuel Borràs Ferré"
 summary: "Auxiliary bishop of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1880
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
-  - Pope
 martyr: true
 ---
 

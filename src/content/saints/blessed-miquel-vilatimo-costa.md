@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Vilatimó Costa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miquel Vilatimó Costa"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

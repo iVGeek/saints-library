@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juliana of Mont Cornillon"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Juliana of Mont Cornillon"
 summary: "Orphaned at age 5. She and her sister Agnes were raised by the nuns at the convent of Mount Cornillon. Juliana read the works of Saint Augustine and Saint Bernard while she was still very young. Augustinian nun at Liege, Belgium in 1206. Worked with the sick, and in the convent's"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juliana-of-Mont-Cornillon.jpg"
 searchAliases:

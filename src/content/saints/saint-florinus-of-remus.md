@@ -1,7 +1,7 @@
 ---
 name: "Saint Florinus of Remüs"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Florinus of Remüs"
 summary: "Legend says that his father was a Saxon, his mother a Jew who converted to Christianity; the two met while they were both on pilgrimage to Rome, Italy, they married, and then settled in the Val Venosta in the Italian Tyrol region. Educated by Father Alexander at the parish of Sai"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cathedral_of_St._Florin%2C_Vaduz_.jpg/960px-Cathedral_of_St._Florin%2C_Vaduz_.jpg"
 searchAliases:

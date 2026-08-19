@@ -1,7 +1,7 @@
 ---
 name: "Saint Priscus of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Priscus of Rome"
 summary: "Priest. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Crispinus"
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

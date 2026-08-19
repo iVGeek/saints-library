@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Miguel Sánchez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Manuel Miguel Sánchez"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Sinfronio"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Palaser"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Palaser"
 summary: "Seminarian at Rheims, France, and at Valladolid, Spain. Ordained in 1596. Returned to England to minister to covert Catholics in the north. Arrested almost immediately, but managed to escape. Arrested again, he was condemned for the crime of priesthood. Marytr."
 searchAliases:
   - "Thomas Palasor"
@@ -19,10 +19,8 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Seminarian at Rheims, France, and at Valladolid, Spain. Ordained in 1596. Returned to England to minister to covert Catholics in the north. Arrested almost immediately, but managed to escape. Arrested again, he was condemned for the crime of priesthood. Marytr.

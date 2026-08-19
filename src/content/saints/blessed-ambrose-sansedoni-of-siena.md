@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ambrose Sansedoni of Siena"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Pope"
+title: "Blessed Ambrose Sansedoni of Siena"
 summary: "The son of a book illuminator, he was born so badly deformed that his mother gave him off to the care of a nurse. The nurse claimed that the only time the child was peaceful was in the local Dominican church, especially when near the altar of relics. Legend says that one day in c"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Beato_Ambrogio_Sansedoni_%28cropped%29.jpg/330px-Beato_Ambrogio_Sansedoni_%28cropped%29.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 patronage:
   - "affianced couples"

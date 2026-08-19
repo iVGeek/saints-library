@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincenzo Grossi"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Saint Vincenzo Grossi"
 summary: "One of seven children born to Baldassare Grossi and Maddalena Capellini. Ordained in the diocese of Lodi, Italy on 22 May 1869. Parish priest of Vicobellignano, Italy. Noted for this simple austere life style, and the humour and trust in Christ that he brought to it. Founded the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vincenzo-Grossi.jpg"
 birthYear: 1845
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

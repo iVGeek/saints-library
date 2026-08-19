@@ -1,7 +1,7 @@
 ---
 name: "Blessed Beatrix of Este the Elder"
 honorific: Blessed
-title: "Virgin, Religious, Pope"
+title: "Blessed Beatrix of Este the Elder"
 summary: "Born to the dynastic house of Este. Aunt of Blessed Beatrix of Este the Younger. Nun in the convent of Santa Margherita at Solarolo, Italy. Feeling a need for more seclusion, she took over a deserted monastery at Gemmola, Italy, and founded a new convent where she apparently spen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrix-of-Este-the-Elder.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Marcello Labor"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier"
+title: "Venerable Marcello Labor"
 summary: " Medica Born to Jewish parents. From his early youth he loved to write, keeping diaries and endlessly corresponding. Attended the University of Vienna. Married to Elsa Reiss in 1912. Graduated as a physician in 1914. Joined the Catholic Church on 23 December 1914. Father of three."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Marcello-Labor.gif"
 birthYear: 1890
@@ -16,12 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Born to Jewish parents. From his early youth he loved to write, keeping diaries and endlessly corresponding. Attended the University of Vienna. Married to Elsa Reiss in 1912. Graduated as a physician in 1914. Joined the Catholic Church on 23 December 1914. Father of three.

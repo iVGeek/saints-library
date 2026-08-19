@@ -1,7 +1,7 @@
 ---
 name: "Saint Guirillus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Guirillus of Africa"
 summary: "Martyr. No other information has survived."
 died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

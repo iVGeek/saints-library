@@ -1,7 +1,7 @@
 ---
 name: "Blessed Severinus Boethius"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Severinus Boethius"
 summary: "Descendant of a Roman consular family. His father was chosen as consul in 487, but died soon after, leaving Severinus an orphan. Educated by a pious, aristocratic friend of the family, Quintus Aurelius Memmius Symmachus. Fluent in Greek, he probably studied in Athens, Greece or A"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Severinus-Boethius.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

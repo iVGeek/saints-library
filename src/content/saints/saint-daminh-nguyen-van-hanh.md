@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Nguyen Van Hanh"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Ðaminh Nguyen Van Hanh"
 summary: "Dominican priest. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

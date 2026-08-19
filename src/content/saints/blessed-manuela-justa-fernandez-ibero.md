@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuela Justa Fernández Ibero"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Manuela Justa Fernández Ibero"
 summary: "Joined the Capuchin Tertiary Sisters of the Holy Family in 1887, making her perpetual vows in 1896. Served as general councilor to the Order from 1902 to 1936; at times she also served as superior of one or another house. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuela-Justa-Fernández-Ibero.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: true
 ---

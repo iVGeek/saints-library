@@ -1,7 +1,7 @@
 ---
 name: "Saint Maiulo of Hadrumetum"
 honorific: Saint
-title: "Martyr"
+title: "Saint Maiulo of Hadrumetum"
 summary: "Martyr."
 searchAliases:
   - "Maiolo"
@@ -12,8 +12,7 @@ feastDay:
   month: 5
   day: 11
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

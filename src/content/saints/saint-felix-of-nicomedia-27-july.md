@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Nicomedia"
 summary: "Martyr. No other information has survived."
 died: "Nicomedia, Asia Minor"
 deathPlace: "Asia Minor"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

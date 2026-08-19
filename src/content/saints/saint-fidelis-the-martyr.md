@@ -1,7 +1,7 @@
 ---
 name: "Saint Fidelis the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Fidelis the Martyr"
 summary: "Martyr. No other information has survived."
 died: "North Africa"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

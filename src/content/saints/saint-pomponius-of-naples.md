@@ -1,7 +1,7 @@
 ---
 name: "Saint Pomponius of Naples"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Pomponius of Naples"
 summary: "Bishop of Naples, Italy from 508 to 536. Fierce opponent of Arianism."
 searchAliases:
   - "Pomponio"
@@ -13,10 +13,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Naples, Italy from 508 to 536. Fierce opponent of Arianism.

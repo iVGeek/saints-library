@@ -1,7 +1,7 @@
 ---
 name: "Saint Cordula"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cordula"
 summary: "One of the companions of Saint Ursula. When she saw the tortures being inflicted on her friends, she hid, but the next day, ashamed of her cowardice, she came out of hiding and proclaimed her Christianity. Martyr, the last of the group."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cordula.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

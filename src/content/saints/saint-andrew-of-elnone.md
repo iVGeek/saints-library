@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew of Elnone"
 honorific: Saint
-title: "Monk"
+title: "Saint Andrew of Elnone"
 summary: "Monk. Spiritual student of Saint Amandus of Maastricht at Elnone-en-Pevele, France. Abbot there."
 deathYear: 690
 died: "c.690"

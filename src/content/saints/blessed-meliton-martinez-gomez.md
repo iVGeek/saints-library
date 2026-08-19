@@ -1,7 +1,7 @@
 ---
 name: "Blessed Melitón Martínez Gomez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Melitón Martínez Gomez"
 summary: "Ordained a priest in the diocese of Guadix, Spain on 1 June 1901. Martyred in the Spanish Civil War."
 birthYear: 1878
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

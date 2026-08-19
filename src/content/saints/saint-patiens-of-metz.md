@@ -1,7 +1,7 @@
 ---
 name: "Saint Patiens of Metz"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Patiens of Metz"
 summary: "Fourth bishop of Metz, France in the second century."
 searchAliases:
   - "Paziente"
@@ -11,12 +11,11 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:
   - "Metz, France"
-martyr: true
+martyr: false
 ---
 
 Fourth bishop of Metz, France in the second century.

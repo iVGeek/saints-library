@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Palermo"
 honorific: Saint
-title: "Martyr"
+title: "Martyrs of Palermo"
 summary: "34 Christians who were imprisoned, whipped, tortured, and finally executed for refusing to worship idols during the persecutions of Diocletian and Aurelian, prefect of Sicily. No details about them have survived."
 deathYear: 310
 died: "beheaded in 310 outside Palermo, Italy"
@@ -11,8 +11,7 @@ feastDay:
   month: 5
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

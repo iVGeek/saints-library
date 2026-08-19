@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Hormisdas"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Pope Saint Hormisdas"
 summary: " Best known for the written work Formula of Hormisdas, a succinct confession of the faith, acceptance of which ended the Monophysite schism of Acacius in the Eastern church. Married, and father of the future Pope Saint Silverius. Widower. Pope."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tafel_paepste.jpg/960px-Tafel_paepste.jpg"
 deathYear: 523
@@ -15,11 +15,9 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Married, and father of the future Pope Saint Silverius. Widower. Pope.

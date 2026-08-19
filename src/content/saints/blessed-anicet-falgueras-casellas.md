@@ -2,7 +2,7 @@
 name: "Blessed Anicet Falgueras Casellas"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jochs_Florals_de_Barcelona_en_1907.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1907.djvu.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Anicet Falgueras Casellas"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Anselm"
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gens of Le Beaucet"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Gens of Le Beaucet"
 summary: "Hermit at Le Beaucet, France in the early 12th century, drawn to the life of a holy solitary in his teens. His father gave him two cows, and he lived from their milk, from the garden that they plowed, and by trading milk and vegetables to other people. He was known for severe pen"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gens.jpg"
 searchAliases:

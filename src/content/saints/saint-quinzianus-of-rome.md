@@ -1,7 +1,7 @@
 ---
 name: "Saint Quinzianus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Quinzianus of Rome"
 summary: "Martyr. No other information has survived."
 died: "buried in the catacombs in Rome, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Capuchin"
 martyr: true
 ---

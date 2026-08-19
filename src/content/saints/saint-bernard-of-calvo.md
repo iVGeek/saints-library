@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernard of Calvo"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Bernard of Calvo"
 summary: "Educated in Manso Calvo, Spain and Lleida, Spain. Benedictine Cistercian monk. Worked with Saint Raymond of Penyafort. Canon of the Tarragona cathedral and vicar-general in Tarragona, Spain. Appointed by Pope Gregory IX to combat the Waldenses in 1232 on the border of France. Bis"
 searchAliases:
   - "Bernard of Calbo"
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Virgin Mary"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Deacon, Pope, Cardinal, Royalty, Soldier"
+title: "Blessed Virgin Mary"
 summary: "Mother of Jesus. Spouse of the Holy Spirit. Betrothed of Saint Joseph"
 image: "http://catholicsaints.info/wp-content/uploads/img-BVM.jpg"
 born: "unknown, perhaps 20BC"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Deacon
 religiousOrder: "Franciscan"

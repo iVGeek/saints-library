@@ -1,7 +1,7 @@
 ---
 name: "Saint Caritone of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Caritone of Rome"
 summary: "One of a group of spiritual students of Saint Justin Martyr who died with him and about whom we know nothing else."
 searchAliases:
   - "Chariton"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Brigida of Jesus"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Brigida of Jesus"
 summary: "Sixth of eleven children born to a deeply religious family. Married to Matthew Zancano of Cremona, Italy on 14 October 1633. Widowed on 11 November 1637. Spiritual student of the Jesuits in Piacenza, Italy. Foundress of the Institute of the Ursuline Sisters of Mary Immaculate."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Brigida-of-Jesus.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Jesuit"
 patronage:
   - "Ursuline Sisters of Mary Immaculate"

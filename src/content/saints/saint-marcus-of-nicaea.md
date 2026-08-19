@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcus of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcus of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Mark"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

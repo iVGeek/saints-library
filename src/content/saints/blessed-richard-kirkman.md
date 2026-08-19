@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Kirkman"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Richard Kirkman"
 summary: "Studied at Douai, France; ordained in Rheims, France in 1579. Returned to England to minister to covert Catholics. Tutor for Richard Dymake's family in Scrivelsby. Arrested near Wakefield in 1582 for the treason of not accepting the Queen as head of the Church. Martyr."
 deathYear: 1582
 born: "Addingham, Yorkshire, England"
@@ -14,11 +14,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

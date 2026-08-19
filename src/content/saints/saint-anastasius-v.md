@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius V"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Anastasius V"
 summary: "Priest. Martyr."
 died: "in Sicily"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Magí Albaigés Escoda"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Magí Albaigés Escoda"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

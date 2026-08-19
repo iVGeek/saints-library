@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salvatore Lilli"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty, Missionary"
+title: "Blessed Salvatore Lilli"
 summary: "Son of Vincenzo and Annunziata Lilli. Joined the Franciscans in 1870, making his vows on 6 August 1871. Studied at the Franciscan seminary in the Holy Lands. Ordained in Bethlehem on 6 April 1878. Missionary in Jerusalem for two years. Missionary to Marasco, Armenia in 1880. In a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Salvatore_Lilli.jpg/960px-Salvatore_Lilli.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Franciscan"

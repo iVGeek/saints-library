@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Oldcorne"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Edward Oldcorne"
 summary: "Jesuit priest, ordained in Rome, Italy, and received into the Society in 1587. Worked in the English mission in Worcestershire for 16 years. Father Edward developed throat cancer, but kept preaching through the pain. He made a pilgrimage to the shrine of Saint Winifred of Wales i"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Edward_Oldcorne_1608.jpg"
 birthYear: 1561
@@ -16,10 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

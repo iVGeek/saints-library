@@ -1,7 +1,7 @@
 ---
 name: "Saint Primitive of Gabi"
 honorific: Saint
-title: "Martyr"
+title: "Saint Primitive of Gabi"
 summary: "Martyr."
 searchAliases:
   - "Primitivo"
@@ -12,8 +12,7 @@ feastDay:
   month: 4
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

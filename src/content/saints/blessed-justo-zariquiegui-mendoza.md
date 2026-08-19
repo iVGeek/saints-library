@@ -1,7 +1,7 @@
 ---
 name: "Blessed Justo Zariquiegui Mendoza"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Justo Zariquiegui Mendoza"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers), joining in 1901. Taught in several schools in the Spanish cities of Santander, Sanlucar de Barrameda, Cadiz, Jerez, Madrid, and then Almeria in 1930. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Zariquiegui-Mendoza.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 31
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

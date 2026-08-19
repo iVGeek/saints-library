@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herman of Schönstein"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Herman of Schönstein"
 summary: "Benedictine monk at Pfäfers abbey in Saint Gallen, Switzerland. Abbot of the monastery of Mariemberg in Tyrol in 1203. Murdered by the official Ulrico Matsh for defending the rights of the abbey."
 searchAliases:
   - "Herman of Pfäfers"
@@ -16,10 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk at Pfäfers abbey in Saint Gallen, Switzerland. Abbot of the monastery of Mariemberg in Tyrol in 1203. Murdered by the official Ulrico Matsh for defending the rights of the abbey.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Austremonius"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Confessor"
+title: "Saint Austremonius"
 summary: "May have been the first bishop of Clermont, France. Contemporary of the three bishops of Aquitaine who attended the Council of Arles in 314."
 image: "http://catholicsaints.info/wp-content/gallery/saint-austremonius/saint-austremonius.jpg"
 searchAliases:

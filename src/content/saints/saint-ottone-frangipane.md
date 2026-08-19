@@ -1,7 +1,7 @@
 ---
 name: "Saint Ottone Frangipane"
 honorific: Saint
-title: "Monk, Pope, Hermit, Soldier"
+title: "Saint Ottone Frangipane"
 summary: "Born to the Italian nobility, he became a knight and fought in defense in the pope in the area of Frascati, Italy. Captured on the field, he was imprisoned in a tower until he prayed for the intercession Saint Leonard of Noblac and received miraculous assistance in escape. Pilgri"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg/960px-Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
   - Soldier
 religiousOrder: "Benedictine"

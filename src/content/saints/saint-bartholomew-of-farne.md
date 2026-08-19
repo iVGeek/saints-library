@@ -1,7 +1,7 @@
 ---
 name: "Saint Bartholomew of Farne"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Royalty, Missionary"
+title: "Saint Bartholomew of Farne"
 summary: "Descendant of Scandanavian immigrants to England. Because of the teasing he endured as a child, he changed his name from Tostig to William. A dissolute youth, he eventually left home to wander in Europe, possibly to avoid settling down in an arranged marriage. He experienced a co"
 searchAliases:
   - "Bartholomew of Durham"

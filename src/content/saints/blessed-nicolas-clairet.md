@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolas Clairet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Nicolas Clairet"
 summary: "Priest in the archdiocese of Paris, France. He served as hospital chaplain with a special ministry to the terminally ill. In the French Revolution, he refused to take the oath of loyalty to the civil government. One of the Martyrs of September."
 searchAliases:
   - "Nicolas Cléret"
@@ -17,9 +17,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

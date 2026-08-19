@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertille"
 honorific: Saint
-title: "Priest, Monk, Religious, Royalty"
+title: "Saint Bertille"
 summary: "French noble in the reign of King Dagobert I. Friend and spiritual student of Saint Ouen of Rouen. Bertille wanted to enter religious life, but delayed and worried, thinking her parents would oppose her choice; they did not. Benedictine nun at the convent at Jouarre, Brie, France"
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-bertille-abbess.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ vocation:
   - Priest
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

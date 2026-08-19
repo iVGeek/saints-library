@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary Hermina Grivot"
 honorific: Venerable
-title: "Martyr, Religious, Pope, Royalty, Missionary"
+title: "Saint Mary Hermina Grivot"
 summary: "Daughter of a cooper and a housekeeper. Irma was an active, affectionate, sensitive, intelligent but sickly child, and her education stopped at the elementary level. She felt drawn to religious life, but her family opposed it, She worked as a tutor to make her own way, and in 189"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Hermina-Grivot.jpg"
 searchAliases:
@@ -21,10 +21,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

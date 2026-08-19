@@ -1,7 +1,7 @@
 ---
 name: "Blessed José del Amo y del Amo"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed José del Amo y del Amo"
 summary: "Member of the Missionaries of the Sacred Heart, making his profession at age 16 in 1932. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-del-Amo-y-del-Amo.jpg"
 birthYear: 1916
@@ -16,10 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

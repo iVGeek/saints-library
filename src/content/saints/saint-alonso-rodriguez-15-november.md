@@ -1,7 +1,7 @@
 ---
 name: "Saint Alonso Rodriguez"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Alonso Rodriguez"
 summary: "Jesuit, ordained in 1624. Missionary to Paraguay and Brazil. With Saint Rocco Gonzalez and Saint Juan de Castillo, he co-founded the “reduction” of the Assumption on the Ijuhi River. In 1628 they established the All Saints mission in Caaro, Brazil. Killed 15 days into his mission"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alonso_Rodr%C3%ADguez.jpg/960px-Alonso_Rodr%C3%ADguez.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus of Bourges"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcellus of Bourges"
 summary: "Martyr. No other information as survived."
 deathYear: 274
 died: "beheaded in 274 in Bourges, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

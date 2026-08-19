@@ -1,7 +1,7 @@
 ---
 name: "Saint Hegesippus of Jerusalem"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Hegesippus of Jerusalem"
 summary: "Born Jewish, he became an adult convert to Christianity. Hegesippus lived twenty years in Rome, Italy where he researched the early Church, but in later years he retired to Jerusalem. He was the first to trace and record the succession of the bishops of Rome from Saint Peter to h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hegesippus-of-Jerusalem.jpg"
 deathYear: 180

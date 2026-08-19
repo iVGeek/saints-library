@@ -1,7 +1,7 @@
 ---
 name: "Saint Sapor of Persia"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Sapor of Persia"
 summary: "Relative of King Shapur II who had him executed for his faith. Martyr."
 searchAliases:
   - "Shapor"
@@ -11,9 +11,7 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

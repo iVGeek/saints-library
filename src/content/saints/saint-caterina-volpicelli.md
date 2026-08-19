@@ -1,7 +1,7 @@
 ---
 name: "Saint Caterina Volpicelli"
 honorific: Venerable
-title: "Pope, Royalty, Missionary"
+title: "Saint Caterina Volpicelli"
 summary: "Born into an upper middle-class family, Caterina was well educated at the Royal Educational Institute of San Marcellino. Initially concerned with making a name for herself in society, in her teens Caterina felt drawn more and more to the spiritual life. Friend and spiritual stude"
 image: "http://catholicsaints.info/wp-content/gallery/saint-caterina-volpicelli/saint-caterina-volpicelli-01.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

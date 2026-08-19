@@ -1,7 +1,7 @@
 ---
 name: "Saint Audentius of Milan"
 honorific: Saint
-title: "Saint"
+title: "Saint Audentius of Milan"
 summary: "Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of Orta, he was so taken by Julius' obvious holiness that he gave him moral, spiritual and financial support in his evangelization work."
 searchAliases:
   - "Audenzio"
@@ -12,8 +12,7 @@ feastDay:
   month: 11
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Pettenasco, Italy"
 martyr: false

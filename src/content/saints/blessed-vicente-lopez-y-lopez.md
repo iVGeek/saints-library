@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente López y López"
 honorific: Blessed
-title: "Martyr, Virgin, Pope"
+title: "Blessed Vicente López y López"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Virginio Pedro"
@@ -17,9 +17,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
-  - Pope
 martyr: true
 ---
 

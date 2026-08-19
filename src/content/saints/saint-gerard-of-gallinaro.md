@@ -1,7 +1,7 @@
 ---
 name: "Saint Gerard of Gallinaro"
 honorific: Saint
-title: "Monk"
+title: "Saint Gerard of Gallinaro"
 summary: "English pilgrim."
 region: "Italy"
 feastDay:

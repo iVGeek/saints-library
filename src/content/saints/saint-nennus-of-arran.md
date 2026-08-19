@@ -1,7 +1,7 @@
 ---
 name: "Saint Nennus of Arran"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Nennus of Arran"
 summary: "Seventh-century abbot of monasteries on the Isle of Arran and the Isle of Bute in Ireland."
 searchAliases:
   - "Nenus"

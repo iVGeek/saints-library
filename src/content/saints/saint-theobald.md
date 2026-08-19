@@ -1,7 +1,7 @@
 ---
 name: "Saint Theobald"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Hermit, Confessor"
+title: "Saint Theobald"
 summary: "Born to the French nobility, the son of Count Arnold of Champagne. In his youth, he was led to great sanctity by reading the lives of the saints, especially about the hermits and cenobites in the desert of Thebaid. Pilgrim to several holy sites including Santiage de Compostella,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theobald.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -34,7 +32,7 @@ patronage:
   - "–"
   - "Badia Polesine, Italy"
   - "Sossano, Italy"
-martyr: true
+martyr: false
 ---
 
 Born to the French nobility, the son of Count Arnold of Champagne. In his youth, he was led to great sanctity by reading the lives of the saints, especially about the hermits and cenobites in the desert of Thebaid. Pilgrim to several holy sites including Santiage de Compostella, Spain and Rome, Italy. Hermit at Sussy in the Trier. Leader of a group of hermits near Venice, Italy, so many that the local ordained him so he could minister the sacraments to them. Camaldolese monk. Miracle worker.

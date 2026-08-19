@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Luciani"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Luciani"
 summary: "Member of the Sisters of the Passion of Jesus Christ."
 searchAliases:
   - "Sister Maria Addolorata of the Sacred Side"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

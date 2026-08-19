@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatha Yi"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Agatha Yi"
 summary: "Young single lay woman martyred in the persecutions in Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1824
@@ -15,9 +15,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

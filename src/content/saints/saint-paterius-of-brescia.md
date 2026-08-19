@@ -1,7 +1,7 @@
 ---
 name: "Saint Paterius of Brescia"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Paterius of Brescia"
 summary: "Monk. Friend and spiritual student of Pope Saint Gregory the Great. Bishop of Brescia, Italy. Prolific writer."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paterius-of-Brescia.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 martyr: false
 ---
 

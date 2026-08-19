@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josefa Ruano García"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Josefa Ruano García"
 summary: "Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister Josefa of Saint John Of God"
@@ -17,9 +17,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

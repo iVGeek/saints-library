@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortchern of Trim"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Hermit"
+title: "Saint Fortchern of Trim"
 summary: "The son of a pagan chieftain, he was converted to Christianity by Saint Loman of Trim. Sixth century bishop of Trim, Ireland. Hermit."
 searchAliases:
   - "Forkernus"
@@ -11,7 +11,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Hermit
@@ -19,7 +18,7 @@ patronage:
   - "bell-founders"
   - "–"
   - "Trim, Ireland"
-martyr: true
+martyr: false
 ---
 
 The son of a pagan chieftain, he was converted to Christianity by Saint Loman of Trim. Sixth century bishop of Trim, Ireland. Hermit.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ninfa of Palermo"
 honorific: Saint
-title: "Martyr"
+title: "Saint Ninfa of Palermo"
 summary: "The daughter of Aureliano, imperial Roman prefect of Palermo, Ninfa was raised in a pagan household. She was brought to Christianity by hearing the preaching of Saint Mamillian of Palermo, and was baptized by him. She and other Christians were imprisoned for their faith by the au"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Nympha-of-Palermo.jpg"
 searchAliases:
@@ -18,8 +18,7 @@ feastDay:
   month: 11
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "against drought"
   - "Palermo, Italy (chosen by people of Palermo on 5 June 1606)"

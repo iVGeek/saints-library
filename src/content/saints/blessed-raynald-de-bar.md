@@ -1,7 +1,7 @@
 ---
 name: "Blessed Raynald de Bar"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Raynald de Bar"
 summary: "Cistercian monk at Clairvaux Abbey in France. Abbot of Citeaux Abbey in 1133. Compiled the first collection of Cistercian statutes."
 deathYear: 1151
 died: "1151 of natural causes"

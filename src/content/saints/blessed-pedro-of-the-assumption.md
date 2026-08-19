@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro of the Assumption"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Pedro of the Assumption"
 summary: "Franciscan Friars Minor (Alcantarines) missionary priest. Martyr."
 searchAliases:
   - "Pedro of Cuerva"
@@ -19,9 +19,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

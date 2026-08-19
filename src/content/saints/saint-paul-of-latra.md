@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul of Latra"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Paul of Latra"
 summary: "10th century hermit in Greece. Spiritual teacher and director for many Eastern monks."
 searchAliases:
   - "Paulus of Latrus"

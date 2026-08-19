@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cosmas Takeya Sozaburo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Cosmas Takeya Sozaburo"
 summary: "Layman member of the Confraternity of the Holy Rosary in the archdiocese of Nagasaki, Japan. Married to Blessed Agnes Takeya; father of Franciscus Takeya. Martyr."
 deathYear: 1619
 born: "in Korea"
@@ -13,9 +13,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

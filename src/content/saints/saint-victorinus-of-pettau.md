@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Pettau"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Victorinus of Pettau"
 summary: "Wrote a number of well-known and scholarly commentaries on the Old and New Testament; only scraps of the writings about Genesis and Revelations have survived. His works were greatly admired by Saint Jerome, and are believed to be the first writings in Latin by a Christian on the"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Victorinus_%28cropped%29.jpg"
 searchAliases:
@@ -21,11 +21,9 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

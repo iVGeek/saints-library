@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Soli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Soli"
 summary: "Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

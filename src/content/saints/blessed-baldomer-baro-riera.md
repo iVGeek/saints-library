@@ -1,7 +1,7 @@
 ---
 name: "Blessed Baldomer Baró Riera"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Baldomer Baró Riera"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Aquilli"
@@ -17,9 +17,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

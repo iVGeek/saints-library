@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Saint Dionysius"
 honorific: Saint
-title: "Martyr, Priest, Royalty"
+title: "Saint Peter of Saint Dionysius"
 summary: "Mercedarian priest. In 1247, he and Blessed Bernard de Prades were sent to Tunis, Tunisia to ransom Christians held in slavery and prison by the Moors under King Mohammed Alicur. They rescued 209 Christians. Bernard led them back to Spain, and planned to return with more money to"
 searchAliases:
   - "Pietro di San Dionigi"
@@ -15,9 +15,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Royalty
 martyr: true
 ---
 

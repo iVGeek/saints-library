@@ -1,7 +1,7 @@
 ---
 name: "Saint Dioscurus of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Dioscurus of Egypt"
 summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian."
 deathYear: 283
 died: "burned alive in 283 in Diospolis (modern Hu), Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

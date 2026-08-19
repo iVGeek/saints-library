@@ -1,7 +1,7 @@
 ---
 name: "Saint Malrubius of Merns"
 honorific: Saint
-title: "Martyr, Priest, Monk, Hermit"
+title: "Saint Malrubius of Merns"
 summary: "Hermit in Merns, Kincardineshire, Scotland. Martyred by Norwegian invaders."
 deathYear: 1040
 died: "c.1040"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Hermit

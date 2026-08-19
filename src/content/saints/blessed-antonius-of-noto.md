@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius of Noto"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Antonius of Noto"
 summary: "Franciscan friar at the monastery in Noto, Italy. All other information about him was lost when the monastery was destroyed by earthquake in 1693."
 searchAliases:
   - "Antonio"

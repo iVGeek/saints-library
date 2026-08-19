@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Warcop"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Thomas Warcop"
 summary: "Landed gentleman in Yorkshire, England. Arrested and executed for the crime of giving shelter to Blessed William Andleby, a priest. Martyr."
 deathYear: 1594
 born: "England"
@@ -13,9 +13,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

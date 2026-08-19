@@ -1,7 +1,7 @@
 ---
 name: "Saint Monessa"
 honorific: Saint
-title: "Virgin, Monk"
+title: "Saint Monessa"
 summary: "Daughter of an Irish chieftain. Virgin convert of Saint Patrick. She died immediately upon being baptised."
 deathYear: 456
 born: "5th century Irish"

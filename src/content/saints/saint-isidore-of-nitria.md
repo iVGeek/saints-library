@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Nitria"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Isidore of Nitria"
 summary: "Fourth century bishop of Nitria (modern AL Barnuji) in the Egyptian desert. Welcomed Saint Jerome to Egypt."
 searchAliases:
   - "Isidore of Egypt"

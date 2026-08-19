@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Quintas Durán"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Luis Quintas Durán"
 summary: "Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Quintas-Duran.jpg"
 birthYear: 1918
@@ -14,8 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

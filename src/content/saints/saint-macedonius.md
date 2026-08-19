@@ -1,7 +1,7 @@
 ---
 name: "Saint Macedonius"
 honorific: Saint
-title: "Monk"
+title: "Saint Macedonius"
 summary: "Patriarch of Constantinople. Exiled by Arians for defending the decisions of the Council of Chalcedon."
 deathYear: 516
 died: "516 of natural causes"

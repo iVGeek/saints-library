@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander of Trier"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Alexander of Trier"
 summary: "Martyred in the persecutions of Diocletian."
 died: "3rd century in Trier, Germany"
 deathPlace: "Germany"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

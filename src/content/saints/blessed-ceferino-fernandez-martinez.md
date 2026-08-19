@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ceferino Fernández Martínez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty, Missionary"
+title: "Blessed Ceferino Fernández Martínez"
 summary: "Ceferino began studying at the Colegio de Almagro in 1908, and later that year joined the Dominicans, taking the name Brother Luís María. Missionary friar to Cuba, and then Mexico, and was then assigned to Almería, Spain. On 22 July 1936, at the outbreak of the Spanish Civil War,"
 searchAliases:
   - "Brother Luís María"
@@ -17,9 +17,6 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

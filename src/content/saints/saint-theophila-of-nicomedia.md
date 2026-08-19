@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophila of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Theophila of Nicomedia"
 summary: "Nun. Martyred in the persecutions of Diocletian. One of the 20,000 Martyrs of Nicomedia."
 searchAliases:
   - "Theofile"
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

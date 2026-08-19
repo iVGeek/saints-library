@@ -1,7 +1,7 @@
 ---
 name: "Blessed Evencio Castellanos López"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Evencio Castellanos López"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Javier Eliseo"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

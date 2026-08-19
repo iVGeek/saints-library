@@ -1,7 +1,7 @@
 ---
 name: "Blessed Archangel of Treviglio"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Archangel of Treviglio"
 summary: "Franciscan friar and preacher who served over 40 years in the convent of Santa Maria delle Grazie in the area outside Milan, Italy."
 searchAliases:
   - "Arcangelo"
@@ -12,10 +12,9 @@ feastDay:
   month: 2
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan friar and preacher who served over 40 years in the convent of Santa Maria delle Grazie in the area outside Milan, Italy.

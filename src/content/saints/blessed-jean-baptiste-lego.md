@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste Lego"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Baptiste Lego"
 summary: "Brother of Blessed René Lego. Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution for refusing to swear the oath imposed on the clergy by the secular Revolutionary government."
 birthYear: 1766
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Zhao Guoshi"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Maria Zhao Guoshi"
 summary: "Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of Saint Rosa Zhao and Saint Maria Zhao. During the persecutions of the Boxer Rebellion, the three of them hid in a well to avoid being raped. They were found, dragged out, and killed for being Chri"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dentlin of Soignies"
 honorific: Saint
-title: "Monk, Confessor"
+title: "Saint Dentlin of Soignies"
 summary: "Son of Saint Vincent Madelgarus and Saint Waldetrudis; brother of Saint Landric, Saint Madalbarta and Saint Aldetrudis. Nephew of Saint Aldegund. An extraordinarily pious child, he is considered a confessor of the faith. A church in Cleves, Germany, was named for him."
 image: "https://catholicsaints.info/wp-content/uploads/99512.jpg"
 searchAliases:

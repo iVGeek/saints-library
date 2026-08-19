@@ -1,7 +1,7 @@
 ---
 name: "Saint Rogatian of Carthage"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Rogatian of Carthage"
 summary: "Priest. Martyr."
 searchAliases:
   - "Rogaziano"
@@ -13,7 +13,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

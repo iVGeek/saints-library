@@ -1,7 +1,7 @@
 ---
 name: "Saint Gajola of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gajola of Africa"
 summary: "Martyr."
 searchAliases:
   - "Cajola"
@@ -15,8 +15,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

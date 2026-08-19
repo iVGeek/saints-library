@@ -1,7 +1,7 @@
 ---
 name: "Saint Bitheus"
 honorific: Saint
-title: "Monk"
+title: "Saint Bitheus"
 summary: "Sixth-century monk in Wales. Travelled with and helped Saint Finian of Clonard in his work in Ireland."
 region: "Ireland"
 feastDay:

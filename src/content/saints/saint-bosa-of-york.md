@@ -1,7 +1,7 @@
 ---
 name: "Saint Bosa of York"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Bosa of York"
 summary: "Benedictine monk at Whitby, England, under Saint Hilda of Whitby. Bishop of Deira (modern York), the southern half of Northumbria, now Yorkshire, in 678. Appointed to the see by Saint Theodore of Canterbury when Saint Wilfrid of York was driven out by King Egfrid. Bishop again in"
 searchAliases:
   - "Boso"
@@ -15,7 +15,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

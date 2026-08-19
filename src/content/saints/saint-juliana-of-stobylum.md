@@ -1,7 +1,7 @@
 ---
 name: "Saint Juliana of Stobylum"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Juliana of Stobylum"
 summary: "Martyr."
 died: "Strobylum, Asia Minor"
 deathPlace: "Asia Minor"
@@ -10,7 +10,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

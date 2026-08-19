@@ -1,7 +1,7 @@
 ---
 name: "Saint Palladius of Antioch"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Palladius of Antioch"
 summary: "Hermit in the desert near Antioch, Syria. Friend of Saint Simeon."
 deathYear: 390
 died: "390 of natural causes"

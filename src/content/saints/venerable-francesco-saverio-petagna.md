@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francesco Saverio Petagna"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Francesco Saverio Petagna"
 summary: "Ordained in 19 December 1835. Bishop of Castellamare di Stabia, Italy on 11 January 1850. Council Father of Vatican Council I. Founded the Congregation of the Religious Sisters of the Sacred Hearts of Jesus and Mary."
 birthYear: 1812
 deathYear: 1878
@@ -18,7 +18,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 martyr: false
 ---
 

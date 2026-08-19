@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Pilar Solsona Lambán"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable María Pilar Solsona Lambán"
 summary: "Nun in the Institute of the Daughters of Mary, Religious of the Pious Schools."
 searchAliases:
   - "María Pilar of the Sacred Heart"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

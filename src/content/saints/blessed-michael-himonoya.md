@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Himonoya"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Michaël Himonoya"
 summary: "Married lay man. Father of Blessed Paul Himonoya. Convert. Member of the Lay Dominican tertiary. Ordered by authorities to renounce his faith; he refused. Martyr."
 deathYear: 1628
 born: "Japanese"
@@ -13,9 +13,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

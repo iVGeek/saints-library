@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guala of Brescia"
 honorific: Blessed
-title: "Bishop, Priest, Pope"
+title: "Blessed Guala of Brescia"
 summary: "One of the first disciples in Italy of Saint Dominic de Guzman. First Dominican prior in Brescia, Italy, and of Bologna, Italy. Bishop of Brescia in 1228. Due to civil unrest, he resigned the bishopric in 1242 and retired to the Vallumbrosans of San Sepolcro d'Astino, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guala-of-Brescia.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

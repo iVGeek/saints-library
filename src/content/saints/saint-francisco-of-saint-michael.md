@@ -1,7 +1,7 @@
 ---
 name: "Saint Francisco of Saint Michael"
 honorific: Saint
-title: "Martyr, Pope, Missionary"
+title: "Saint Francisco of Saint Michael"
 summary: "Franciscan lay brother, joining the Order in 1566. Missionary to Phillipines and Japan. Arrested in Osaka with Saint Peter Baptist in 1596. One of the Martyrs of Nagasaki."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

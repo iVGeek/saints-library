@@ -1,7 +1,7 @@
 ---
 name: "Saint Liberalis of Treviso"
 honorific: Saint
-title: "Priest, Monk, Hermit, Soldier"
+title: "Saint Liberalis of Treviso"
 summary: "Priest. Worked to convert Arians to orthodox Christianity, and was much abused by the Arians because of it. Late in life he retired to live as a hermit on a small island."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Duomo_%28Treviso%29_-_interior_-_Cappella_Malchiostro_-_San_Liberale_-_Pomponio_Amalteo.jpg/960px-Duomo_%28Treviso%29_-_interior_-_Cappella_Malchiostro_-_San_Liberale_-_Pomponio_Amalteo.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michaël Nakashima Saburoemon"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Michaël Nakashima Saburoemon"
 summary: "Jesuit. Martyred for hiding and assisting priests and missionaries."
 birthYear: 1583
 deathYear: 1628
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

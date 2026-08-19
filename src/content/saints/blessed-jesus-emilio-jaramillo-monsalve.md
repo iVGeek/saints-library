@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Emilio Jaramillo Monsalve"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Blessed Jesús Emilio Jaramillo Monsalve"
 summary: "The son of Alberto Jaramillo, a craftsman, and Cecilia Monsalve, a housewife, Jesús was baptized at the age of one day. In the minor seminary, he joined the Misioneros Javerianos de Yarumal (Xaverian Missionaries of Yarumal). Ordained a priest on 1 September 1940. He served as pa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Emilio-Jaramillo-Monsalve.jpg"
 birthYear: 1916
@@ -16,11 +16,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

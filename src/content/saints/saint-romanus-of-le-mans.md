@@ -1,7 +1,7 @@
 ---
 name: "Saint Romanus of Le Mans"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Romanus of Le Mans"
 summary: "Summoned across the Alps to LeMans by his uncle, Saint Julian, missionary bishop of the area, who ordained him. Missionary to the area around the river Gironde. Noted for being backward, shy, introverted, and a lousy preacher, he still made converts one after another, healing, ex"
 searchAliases:
   - "Romanus of Blaye"

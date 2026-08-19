@@ -1,7 +1,7 @@
 ---
 name: "Blessed Prudencio Guerequiz Guezuraga"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Prudencio Guerequiz Guezuraga"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Prudencio-de-la-Cruz.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

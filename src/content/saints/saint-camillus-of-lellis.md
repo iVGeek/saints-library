@@ -1,7 +1,7 @@
 ---
 name: "Saint Camillus of Lellis"
 honorific: Saint
-title: "Martyr"
+title: "Saint Camillus of Lellis"
 summary: "Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large individual, perhaps as tall as 6'6″ (2 metres"
 image: "http://catholicsaints.info/wp-content/gallery/saint-camillus-of-lellis/saint-camillus-of-lellis-01.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Jesuit"
 patronage:
@@ -32,7 +31,7 @@ patronage:
   - "nurses (proclaimed on 28 August 1930 by Pope Pius XII)"
   - "sick people (proclaimed on 22 June 1886 by Pope Leo XIII)"
   - "Bucchianico, Italy"
-martyr: true
+martyr: false
 ---
 
 Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large individual, perhaps as tall as 6'6″ (2 metres), and powerfully built, but he suffered all his life from abscesses on his feet. A gambling addict, he lost so much he had to take a job working construction on a building belonging to the Capuchins; they converted him.

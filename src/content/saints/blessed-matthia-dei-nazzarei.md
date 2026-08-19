@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthia dei Nazzarei"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Matthia dei Nazzarei"
 summary: "Born to the nobility, the only child of Count Gualtiero Nazarei and his wife Sibilla, from her youth Matthia preferred a simple life and rejected all the pomp of court life. When her father threatened her with an arranged marriage, she fled to the convent of Santa Maddalena at Me"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matthia-dei-Nazzarei.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Anatolius of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Anatolius of Alexandria"
 summary: "Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply r"
 searchAliases:
   - "Anatolius of Laodicea"
@@ -17,10 +17,9 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply religious man. Ignorance horrified him, and part of his work with the poor was to educate them. Held a number of government posts in Alexandria.

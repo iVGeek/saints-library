@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Maria Teresa Scherer"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Anna Maria Teresa Scherer"
 summary: "The fourth of seven children, Katharina's father died when the girl was only seven years old. Her mother determined that she could only support herself and three of the children, so the others, including Katharina, were raised by her extended family. As a young woman, she felt a"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Anna-Maria-Teresa-Scherer.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Sisters of Mercy of the Holy Cross of Ingenbohl"
 martyr: false

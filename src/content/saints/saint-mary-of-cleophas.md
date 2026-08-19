@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary of Cleophas"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Mary of Cleophas"
 summary: "Mother of Saint James the Lesser. Sister of Our Lady. Present at the Crucifixion, and went to Christ's tomb on Easter morning. All else that we know about her is legend."
 image: "http://catholicsaints.info/wp-content/uploads/Mary-of-Cleophas.jpg"
 searchAliases:

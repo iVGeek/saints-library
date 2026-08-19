@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel Dajani"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Daniel Dajani"
 summary: "Feeling an early call to the priesthood, Daniel entered the Pontifical Seminary in Scutari, Albania at age 12. He joined the Jesuits in Gorizia, Albania on 8 July 1926, and made his final profession on 2 February 1942. He studied philosophy in Chieri, Italy from 1931 to 1933, and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Daniel-Dajani.jpg"
 birthYear: 1906
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: true

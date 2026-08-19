@@ -1,7 +1,7 @@
 ---
 name: "Saint Epigmenius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Epigmenius of Rome"
 summary: "Priest in Rome, Italy. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Epigmène"
@@ -14,7 +14,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

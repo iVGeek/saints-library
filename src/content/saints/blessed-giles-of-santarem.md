@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giles of Santarém"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Soldier"
+title: "Blessed Giles of Santarém"
 summary: "Son of Rodrigo Pelayo Valladaris, governor of Coimbra, Portugal and councillor to King Sancho I. Though his family encouraged him to entered the priesthood, and his royal connections provided him with several benefices and prebends, Gil had no interest. He studied medicine and ne"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/52/S%C3%A3o_Frei_Gil_%28Semin%C3%A1rio_Maior_de_Viseu%29.png"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Dominican"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agustì Ibarra Angüela"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Agustì Ibarra Angüela"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Agustì-Ibarra-Angüela.jpg"
 birthYear: 1911
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Connat"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Connat"
 summary: "Nun and abbess of Saint Brigid's convent in Kildare, Ireland."
 searchAliases:
   - "Comnata"

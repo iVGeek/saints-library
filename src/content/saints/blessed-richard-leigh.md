@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Leigh"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Richard Leigh"
 summary: "Educated at Rheims and Rome. Ordained at Rome in February 1586. Returned to England as a home missioner in 1586. Arrested in London in 1586 for his faith, and exiled. Undaunted, he returned, and was arrested in 1588 and imprisoned in the Tower of London in June. Convicted down th"
 searchAliases:
   - "Richard Garth"
@@ -18,10 +18,8 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

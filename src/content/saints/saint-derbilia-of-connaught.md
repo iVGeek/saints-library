@@ -1,16 +1,14 @@
 ---
 name: "Saint Derbilia of Connaught"
 honorific: Saint
-title: "Martyr, Royalty"
+title: "Saint Derbilia of Connaught"
 summary: "5th century daughter of Cormac, and part of the family of kings of Fiachra, Ireland. Martyr."
 region: "Ireland"
 feastDay:
   month: 10
   day: 25
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Royalty
+vocation: []
 martyr: true
 ---
 

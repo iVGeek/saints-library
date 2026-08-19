@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lukarda of Oberweimar"
 honorific: Blessed
-title: "Virgin, Religious"
+title: "Blessed Lukarda of Oberweimar"
 summary: "Cistercian nun at the Oberweimar abbey near Weimar, Thuringia (in modern Germany), joining at the age of 12. In poor health herself, Lukarda was assigned to the infirmary where she became known for her endlessly patient care for the sick, and eventually as a miraculous healer. Sh"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lukarda-of-Oberweimar.jpg"
 searchAliases:

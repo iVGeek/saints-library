@@ -1,7 +1,7 @@
 ---
 name: "Saint James of Tarentaise"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Soldier, Missionary"
+title: "Saint James of Tarentaise"
 summary: "Soldier in the imperial Persian army. Convert to Christianity. Monk. Spiritual student of Saint Honoratus at Lérins in France. Missionary to the Savoy region. First bishop of Moûtiers, France in 426. Known as a miracle worker."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-James-of-Tarantaise.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Soldier
@@ -28,7 +27,7 @@ vocation:
 patronage:
   - "in France\n\nChambéry"
   - "Savoy"
-martyr: true
+martyr: false
 ---
 
 Soldier in the imperial Persian army. Convert to Christianity. Monk. Spiritual student of Saint Honoratus at Lérins in France. Missionary to the Savoy region. First bishop of Moûtiers, France in 426. Known as a miracle worker.

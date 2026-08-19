@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dalmau Llebaría Torné"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Dalmau Llebaría Torné"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Dalmau-Llebaría-Torné.jpg"
 birthYear: 1877
@@ -16,9 +16,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

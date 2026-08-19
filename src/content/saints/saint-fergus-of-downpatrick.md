@@ -1,7 +1,7 @@
 ---
 name: "Saint Fergus of Downpatrick"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Fergus of Downpatrick"
 summary: "Born to Irish royalty, a descendant of king Coelbadh. Sixth century bishop of Downpatrick, Ireland."
 searchAliases:
   - "Fergus McAengus"
@@ -15,11 +15,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Born to Irish royalty, a descendant of king Coelbadh. Sixth century bishop of Downpatrick, Ireland.

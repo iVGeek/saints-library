@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio González Alonso"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Antonio González Alonso"
 summary: "The son of Severino, Antonio became a lifelong layman in the diocese of Oviedo, Spain. At one point he tried to joined the Dominicans, like his brother, but contracted tuberculosis and was forced to return home. There he became involved in Eucharistic adoration, and began studyin"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Gonzalez-Alonso.jpg"
 birthYear: 1912
@@ -16,9 +16,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

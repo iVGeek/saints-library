@@ -1,7 +1,7 @@
 ---
 name: "Saint Calocerus of Brescia"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Calocerus of Brescia"
 summary: "Officer in the army of Emperor Hadrian. Convert. Martyr. Connected in old writings with Saint Faustinus and Saint Jovita."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Brescia.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Georges-Edme René"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Georges-Edme René"
 summary: "Son of a lawyer. Priest in the archdiocese of Sens, France. Canon of Vezelay, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution for refusing to take the oath of loyalty to the government"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

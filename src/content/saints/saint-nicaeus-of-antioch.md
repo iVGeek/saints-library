@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicaeus of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nicaeus of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

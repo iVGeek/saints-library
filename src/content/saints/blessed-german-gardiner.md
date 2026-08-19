@@ -1,7 +1,7 @@
 ---
 name: "Blessed German Gardiner"
 honorific: Blessed
-title: "Martyr, Bishop, Monk, Pope, Royalty"
+title: "Blessed German Gardiner"
 summary: "Educated at the University of Cambridge, England. Secretary to the bishop of Winchester, England. Martyred with Blessed John Larke for refusing to recognize the spiritual supremacy of the King of England."
 searchAliases:
   - "Jermyn Gardiner"
@@ -14,11 +14,8 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

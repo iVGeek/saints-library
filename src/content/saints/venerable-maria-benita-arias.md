@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Benita Arias"
 honorific: Venerable
-title: "Pope"
+title: "Venerable María Benita Arias"
 summary: "For 30 years she used her own home to care for orphaned and abandoned children. Founded the Handmaids of Jesus in the Blessed Sacrament on 21 November 1876."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Benita-Arias.jpg"
 birthYear: 1822
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

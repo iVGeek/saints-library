@@ -1,7 +1,7 @@
 ---
 name: "Saint Simplicio of Autun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Simplicio of Autun"
 summary: "Born to the Frankish nobility. Married. Bishop of Autun, Gaul (in modern France)."
 searchAliases:
   - "Simplicius"

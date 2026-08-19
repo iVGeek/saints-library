@@ -1,7 +1,7 @@
 ---
 name: "Saint Tudclyd"
 honorific: Saint
-title: "Virgin, Monk, Religious"
+title: "Saint Tudclyd"
 summary: "Nun. A church in Dyfed, Wales is named for her."
 searchAliases:
   - "Tudy"

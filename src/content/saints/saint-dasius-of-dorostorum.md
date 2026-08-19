@@ -1,7 +1,7 @@
 ---
 name: "Saint Dasius of Dorostorum"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty, Soldier"
+title: "Saint Dasius of Dorostorum"
 summary: " Some stories say that he was not a bishop but a Christian soldier who kept his faith to himself as a w Bishop at Dorostorum (modern Silistra, Bulgaria). Fought against the immorality involved in the Saturnalia and other pagan festivals. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Dasius of Silistria"
@@ -15,10 +15,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
   - Soldier
 martyr: true
 ---

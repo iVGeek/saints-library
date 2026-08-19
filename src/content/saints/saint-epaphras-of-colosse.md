@@ -1,7 +1,7 @@
 ---
 name: "Saint Epaphras of Colosse"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Epaphras of Colosse"
 summary: "First century missionary to Colossae, Laodicea And Hierapolis. Bishop of Colossae. Martyr. Saint Paul mentions him."
 searchAliases:
   - "Epafra"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

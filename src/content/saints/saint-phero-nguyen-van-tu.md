@@ -1,7 +1,7 @@
 ---
 name: "Saint Phêrô Nguyen Van Tu"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Phêrô Nguyen Van Tu"
 summary: "Dominican priest. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/saint-phero-nguyen-van-tu/saint-phero-nguyen-van-tu-01.jpg"
 birthYear: 1796
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

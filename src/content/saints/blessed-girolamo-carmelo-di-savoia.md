@@ -1,7 +1,7 @@
 ---
 name: "Blessed Girolamo Carmelo di Savoia"
 honorific: Blessed
-title: "Virgin, Bishop, Soldier"
+title: "Blessed Girolamo Carmelo di Savoia"
 summary: "Born to the nobility, a member of the family of the Dukes of Savoy. Soldier. Joined the Mercedarians in Barcelona, Spain on 25 March 1542. Received visions of the Blessed Virgin Mary to whom he was extremely devoted. Wrote in defense of the dogma of the Immaculate Conception. Som"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Girolamo-Carmelo-di-Savoia.jpg"
 searchAliases:

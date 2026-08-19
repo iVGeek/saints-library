@@ -1,7 +1,7 @@
 ---
 name: "Blessed James of Certaldo"
 honorific: Blessed
-title: "Priest, Monk, Soldier"
+title: "Blessed James of Certaldo"
 summary: "Son of a knight of Volterra (in modern Italy). Camaldolese Benedictine monk for over sixty years at the abbey of Saint Clement and Saint Justus at Volterra, forty of which he served as parish priest at the abbey church. His father and brother became lay-brothers of the same abbey"
 searchAliases:
   - "Jacopo Guidi"

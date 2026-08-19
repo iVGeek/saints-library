@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Canterbury"
 honorific: Saint
-title: "Priest, Monk, Pope, Confessor"
+title: "Saint Peter of Canterbury"
 summary: "Benedictine monk at Saint Andrew's monastery in Rome, Italy. Chosen by Pope Gregory the Great to work with Saint Augustine of Canterbury and others as missionaries to England in 596. First abbot of the monastery of Saint Peter and Paul at Canterbury, England in 602. Died en route"
 deathYear: 607
 died: "drowned c.607 at Ambleteu, near Boulogne, France"
@@ -14,7 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Benedictine"
 martyr: false

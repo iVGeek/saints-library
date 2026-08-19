@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Ciresola"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Giovanni Ciresola"
 summary: "Priest of the diocese of Verona, Italy. Founded the Congregation of the Poor Handmaids of the Precious Blood, Cenacle of Charity."
 birthYear: 1902
 deathYear: 1987
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Itala Mela"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Itala Mela"
 summary: "Lay woman in the diocese of La Spezia, Italy, the daughter of primary school teachers of indifferent faith. Itala herself fell completely away from the Church following her brother's death. However, she later had a conversion experience, returned to the Church, and felt a call to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Itala-Mela.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: false

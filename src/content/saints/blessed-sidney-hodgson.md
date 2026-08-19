@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sidney Hodgson"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Sidney Hodgson"
 summary: "Layman. Convert. Martyred for assisting priests during a period of English history when Catholicism was outlawed."
 deathYear: 1591
 born: "English"
@@ -13,9 +13,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

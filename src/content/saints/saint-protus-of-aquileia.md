@@ -1,7 +1,7 @@
 ---
 name: "Saint Protus of Aquileia"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Protus of Aquileia"
 summary: "Tutor and catechist to Saints Cantius, Cantian and Cantianilla of Aquileia. To escape the persecutions of Diocletian, he moved with the family to Aquileia, Italy. However, the authorities there quickly ordered them to sacrifice to idols; they refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Protus-of-Aquileia.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

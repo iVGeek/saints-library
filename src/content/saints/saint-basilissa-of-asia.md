@@ -1,14 +1,13 @@
 ---
 name: "Saint Basilissa of Asia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Basilissa of Asia"
 summary: "Married to a man named Felicius. Martyred, date unknown."
 feastDay:
   month: 3
   day: 12
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

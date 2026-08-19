@@ -1,15 +1,14 @@
 ---
 name: "Saint Blasius of Armentarius"
 honorific: Saint
-title: "Saint"
+title: "Saint Blasius of Armentarius"
 summary: "Third century shepherd in the area of Armentarius, Cappadocia (an area of modern Turkey) whose reputation for piety led to his arrest and extensive torture during a persecution of Christians in the area. He survived it, and died years later, his example having brought many to the"
 region: "Turkey"
 feastDay:
   month: 2
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

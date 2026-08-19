@@ -1,7 +1,7 @@
 ---
 name: "Blessed Crispulo Moyano Linares"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Crispulo Moyano Linares"
 summary: "Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Carmelo María"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Malchus of Waterford"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Malchus of Waterford"
 summary: "Benedictine monk at Winchester, England. First bishop of Waterford, Ireland consecrated by Saint Anselm of Canterbury in 1096. Preceptor of Saint Malachy O'More."
 born: "Ireland"
 region: "Ireland"

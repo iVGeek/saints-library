@@ -2,7 +2,7 @@
 name: "Saint Eugenius of Africa"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hotel_San_Eugenio_del_Cuareim_-_4_estrellas.jpg"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Royalty"
+title: "Saint Eugenius of Africa"
 summary: "Bishop in north Africa who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric."
 searchAliases:
   - "Eugenia"
@@ -14,10 +14,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Royalty
 martyr: true
 ---
 

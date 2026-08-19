@@ -1,7 +1,7 @@
 ---
 name: "Saint Godone di Novalesa"
 honorific: Saint
-title: "Monk"
+title: "Saint Godone di Novalesa"
 summary: "Eighth-century monk. First abbot of the San Novalesa Abbey of Susa Valley, France."
 region: "France"
 feastDay:

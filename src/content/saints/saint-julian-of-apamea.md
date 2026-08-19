@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Apamea"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Julian of Apamea"
 summary: "Third century bishop of Apamea, Syria. Worked against the Montanist and Kata-Phrygian heresies."
 region: "England"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Third century bishop of Apamea, Syria. Worked against the Montanist and Kata-Phrygian heresies.

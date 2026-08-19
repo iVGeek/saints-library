@@ -1,7 +1,7 @@
 ---
 name: "Saint Alphaeus"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Alphaeus"
 summary: "Father of Saint James the Less, as mentioned in Matthew 10:3 (….James, the son of Alphaeus….). Confessor of the faith. No other information about him has survived."
 searchAliases:
   - "Cleophas"

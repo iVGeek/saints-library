@@ -1,7 +1,7 @@
 ---
 name: "Saint Placidus of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Placidus of Sicily"
 summary: "Martyr."
 searchAliases:
   - "Placid"
@@ -13,7 +13,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

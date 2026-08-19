@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Xaintes"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Vincent of Xaintes"
 summary: "First bishop of Dax, France. Worked with Saint Laetus of Dax. Martyr."
 searchAliases:
   - "Vincent of Dax"
@@ -15,7 +15,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

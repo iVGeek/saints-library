@@ -1,7 +1,7 @@
 ---
 name: "Saint Xantippa"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Xantippa"
 summary: "Spiritual student of the Apostles."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Xanthippe-and-Polyxene.jpg"
 died: "late 1st century in Spain</a"
@@ -11,10 +11,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Spiritual student of the Apostles.

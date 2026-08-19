@@ -1,7 +1,7 @@
 ---
 name: "Saint Rambert"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rambert"
 summary: "Member of the royal court in Austrasia. Murdered by the tyrant Ebroin; he has always been honoured as a martyr."
 searchAliases:
   - "Ragnebert"
@@ -19,7 +19,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

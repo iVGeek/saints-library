@@ -1,7 +1,7 @@
 ---
 name: "Blessed Úrsula Medes Ferris"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Úrsula Medes Ferris"
 summary: "Cistercian nun in the Congregation of Saint Bernard of Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ursula-Medes-Ferris.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

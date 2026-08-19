@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of North Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Saturninus of North Africa"
 summary: "One of a group of 365 Christians who were martyred together in the persecutions of the Vandal king Genseric."
 deathYear: 450
 died: "450 in North Africa"
@@ -11,9 +11,7 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

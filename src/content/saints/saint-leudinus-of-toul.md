@@ -1,7 +1,7 @@
 ---
 name: "Saint Leudinus of Toul"
 honorific: Saint
-title: "Bishop, Monk, Religious"
+title: "Saint Leudinus of Toul"
 summary: "Born to the nobility, the son of Duke Gundoin of Alsace and Saratrude of the Etichonids; brother of Saint Salaberga. Married to a pious woman named Odile. He and his wife each felt a call to religious life; Odile became a nun, Leudinus a Benedictine monk at Laon, France. Founded"
 searchAliases:
   - "Leudinus Bodo"

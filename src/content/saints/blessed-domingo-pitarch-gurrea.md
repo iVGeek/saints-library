@@ -1,7 +1,7 @@
 ---
 name: "Blessed Domingo Pitarch Gurrea"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Domingo Pitarch Gurrea"
 summary: "Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred as a novice in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
 birthYear: 1909
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

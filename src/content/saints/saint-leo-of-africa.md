@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Leo of Africa"
 summary: "One of a group of thirteen African martyrs. No other information has survived."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

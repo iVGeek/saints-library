@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pau Gracia Sánchez"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Pau Gracia Sánchez"
 summary: "A pious youth, Pau joined the Salesians, entering the novitiate at Carabanchel Also, Madrid, Spain, and making his solemn profession as a coadjutor brother on 25 July 1920. He worked for 16 years as a teacher, and was known for his love of prayer in solitude. Marytred in the anti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Gracia-Sánchez.jpg"
 birthYear: 1892
@@ -15,12 +15,9 @@ feastDay:
   month: 12
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
-martyr: true
+martyr: false
 ---
 
 A pious youth, Pau joined the Salesians, entering the novitiate at Carabanchel Also, Madrid, Spain, and making his solemn profession as a coadjutor brother on 25 July 1920. He worked for 16 years as a teacher, and was known for his love of prayer in solitude. Marytred in the anti–Catholic persecutions of the Spanish Civil War.

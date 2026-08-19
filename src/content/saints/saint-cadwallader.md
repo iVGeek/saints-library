@@ -1,7 +1,7 @@
 ---
 name: "Saint Cadwallader"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Cadwallader"
 summary: "A pious king in Wales."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cadwallader.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Imbenia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Imbenia"
 summary: "Pious young woman martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Imbenia.jpg"
 deathYear: 300
@@ -12,8 +12,7 @@ feastDay:
   month: 1
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Cuglieri, Italy"
 martyr: true

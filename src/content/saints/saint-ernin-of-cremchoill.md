@@ -1,7 +1,7 @@
 ---
 name: "Saint Ernin of Cremchoill"
 honorific: Saint
-title: "Martyr"
+title: "Saint Ernin of Cremchoill"
 summary: "This person is listed in the Tallagh and Donegal Martyrologies, but no details about them have survived."
 searchAliases:
   - "Ernin of Cranfield"
@@ -10,8 +10,7 @@ feastDay:
   month: 5
   day: 31
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

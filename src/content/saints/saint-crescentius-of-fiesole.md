@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescentius of Fiesole"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescentius of Fiesole"
 summary: "Martyred in the persecutions of emperor Domitian."
 died: "c.90 near Fiesole, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

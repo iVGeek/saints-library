@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Grimaltos Monllor"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ramón Grimaltos Monllor"
 summary: "Jesuit brother in 1890. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Grimaltos-Monllor.jpg"
 birthYear: 1861
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonio Margil"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty, Missionary"
+title: "Venerable Antonio Margil"
 summary: "Son of Juan Margil and Esperanza Ros; he had two sisters. Joined the Franciscans at La Corona de Cristo, Valencia, Spain on 22 April 1673. Regularly referred to himself with the nickname La Misma Nada (Nothingness Itself). Ordained at age 25. Missionary to New Spain in 1683, stat"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fray_Antonio_Margil_de_Jes%C3%BAs%2C_escultura_de_Alberto_P%C3%A9rez_Soria.jpg/960px-Fray_Antonio_Margil_de_Jes%C3%BAs%2C_escultura_de_Alberto_P%C3%A9rez_Soria.jpg"
 searchAliases:
@@ -26,8 +26,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

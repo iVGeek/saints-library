@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Aquileia"
 summary: "Layman in Aquileia, Italy. Martyred in the persecutions of Numerian."
 deathYear: 284
 died: "beheaded c.284"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Blanco Álvarez"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Luis Blanco Álvarez"
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

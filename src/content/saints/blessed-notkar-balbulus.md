@@ -1,7 +1,7 @@
 ---
 name: "Blessed Notkar Balbulus"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Notkar Balbulus"
 summary: "Benedictine monk. Priest. Poet. Musician. Teacher. Writer. Historian. Hagiographer; wrote a martyrology, a collection of legends, and a metrical biography of Saint Gall. Friend of Saint Tutilo."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Notkar-Balbulus-1.jpg"
 searchAliases:
@@ -21,10 +21,8 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "musicians"

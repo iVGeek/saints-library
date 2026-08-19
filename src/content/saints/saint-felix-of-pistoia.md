@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Pistoia"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Felix of Pistoia"
 summary: "Ninth-century hermit in Pistoia, Italy."
 searchAliases:
   - "Felix of Pistoja"

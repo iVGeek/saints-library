@@ -2,7 +2,7 @@
 name: "Blessed Alberto Berdini of Sarteano"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Blessed_albert_berdini.png"
 honorific: Blessed
-title: "Pope, Royalty"
+title: "Blessed Alberto Berdini of Sarteano"
 summary: "Albert joined the Minor Conventuals in 1405, but feeling a call to evangelism and more disciplined life, he became an Observant Friar Minor in 1415. A noted preacher, students of rhetoric would show up to listen to him just to study his speaking style. Worked with Saint Bernardin"
 searchAliases:
   - "Alberto Berdini"
@@ -20,9 +20,7 @@ feastDay:
   month: 8
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 martyr: false
 ---
 

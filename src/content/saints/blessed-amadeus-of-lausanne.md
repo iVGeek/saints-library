@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amadeus of Lausanne"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Monk, Pope, Royalty"
+title: "Blessed Amadeus of Lausanne"
 summary: "Son of Blessed Amadeus of Clermont. Member of the royal family of Franconia. Educated at the monasteries at Bonnevaux and Cluny in France. Courtier in the household of King Henry V of Savoy and Burgundy. Cistercian monk at Clairvaux Abbey in 1124 under the direction of Saint Bern"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Amadeus_von_lausanne.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

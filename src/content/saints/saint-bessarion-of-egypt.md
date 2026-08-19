@@ -1,7 +1,7 @@
 ---
 name: "Saint Bessarion of Egypt"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Bessarion of Egypt"
 summary: "Fourth-century beggar pilgrim to holy places who finally settled to live as a hermit in the desert of Skete in Egypt."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Fourth-century beggar pilgrim to holy places who finally settled to live as a hermit in the desert of Skete in Egypt.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude Beguignot"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Claude Beguignot"
 summary: "Carthusian priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Claude-Beguignot.jpg"
 birthYear: 1736
@@ -16,9 +16,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

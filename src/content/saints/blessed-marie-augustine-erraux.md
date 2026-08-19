@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Augustine Erraux"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Marie-Augustine Erraux"
 summary: "Brigittine nun who joined the Ursulines who the Brigittines were forced out of France. One of a group of religious sisters murdered together in the anti-Christian excesses of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Brigittine nun who joined the Ursulines who the Brigittines were forced out of France. One of a group of religious sisters murdered together in the anti–Christian excesses of the French Revolution.

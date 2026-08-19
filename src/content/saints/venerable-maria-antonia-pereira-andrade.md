@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Antonia Pereira Andrade"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable María Antonia Pereira Andrade"
 summary: "Discaled Carmelite nun."
 searchAliases:
   - "Sister María Antonia of Jesus"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-Robert Regnet"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Pierre-Robert Regnet"
 summary: "Pierre began studying at the Collège d'Harcourt (modern Lycée Saint-Louis) in Paris, France in 1774, earning doctorates in literature and philosophy on 13 August 1782, and then a law license in 1787. Priest in the archdiocese of Paris, France. Tutor to Baron Thirry of Ville-d'Avr"
 birthYear: 1755
 deathYear: 1792
@@ -15,10 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

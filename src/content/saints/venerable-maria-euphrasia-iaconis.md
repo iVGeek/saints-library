@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Euphrasia Iaconis"
 honorific: Venerable
-title: "Bishop, Religious, Pope, Royalty"
+title: "Venerable Maria Euphrasia Iaconis"
 summary: "The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother Maria Fabiano, founded the Charity Sisters, Daughters of the Immaculate Conception; Sofia joined the Sisters on 16 July 1886, taking the name Sister Euphrasia. S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Euphrasia-Iaconis.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

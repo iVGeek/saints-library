@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Cervilla Luis"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ramón Cervilla Luis"
 summary: "Ordained a priest of the archdiocese of Granada, Spain on 1 March 1890. Martyred in the Spanish Civil War; he died forgiving his killers."
 birthYear: 1865
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

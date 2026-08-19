@@ -1,7 +1,7 @@
 ---
 name: "Saint Perpetua"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Perpetua"
 summary: "Lay-woman born to a noble pagan family. Convert to Christianity. Wife and mother. Martyred with her maid, friend, and fellow convert Saint Felicitas. In centuries past, their story was so popular that Saint Augustine of Hippo warned against giving it the weight of Scripture."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Perpetua.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Jesuit"
 patronage:

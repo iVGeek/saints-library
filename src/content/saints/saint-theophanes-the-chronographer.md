@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophanes the Chronographer"
 honorific: Saint
-title: "Priest, Monk, Religious, Confessor"
+title: "Saint Theophanes the Chronographer"
 summary: "Educated at the Byzantine imperial court. Married layman. Both he and his wife entered religious life. Founded two monasteries. Abbot at Mount Migniana abbey. Wrote a Chronography, a sort of abstract of history from 284 to 813. Arrested, tortured, and exiled to Samothrace by Leo"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theophanes-the-Chronicler.jpg"
 searchAliases:

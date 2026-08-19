@@ -1,7 +1,7 @@
 ---
 name: "Saint Philibert of Toledo"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philibert of Toledo"
 summary: "Martyr."
 searchAliases:
   - "Filibert"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Laurensô Nguyen Van Huong"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Laurensô Nguyen Van Huong"
 summary: "Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during the persecutions of Emperor Tu-Duc; he was ordered to trample a cross; he refused. Flogged and executed. Martyr."
 searchAliases:
   - "Lawrence"
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

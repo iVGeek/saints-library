@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermogenes of Syracuse"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hermogenes of Syracuse"
 summary: "Martyr."
 searchAliases:
   - "Ermogene"
@@ -13,7 +13,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

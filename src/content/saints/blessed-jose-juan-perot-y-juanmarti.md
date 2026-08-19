@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Juan Perot y Juanmarti"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Juan Perot y Juanmarti"
 summary: "The son of Antonio Perot and Celestina Juanmartí, the family moved from France to Spain when José was still a young boy. He studied in the seminary of the diocese of Urgell, Spain, and was ordained a priest on 28 March 1903. Father José served as coadjutor in several parishes, an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Juan-Perot-y-Juanmarti.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

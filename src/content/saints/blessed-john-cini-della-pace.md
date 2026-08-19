@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanni Cini della Pace"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Cardinal, Hermit, Royalty, Soldier"
+title: "Blessed Giovanni Cini della Pace"
 summary: "A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8 October 1296 attack on Archbishop Teodorico Ranieri of Pisa. While serving his time, Giovanni had a conversion experience, and when he was released he became a Fra"
 searchAliases:
   - "Giovanni the Soldier"
@@ -23,7 +23,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Franciscan"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicenta Chávez Orozco"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Cardinal, Royalty, Soldier"
+title: "Blessed Vicenta Chávez Orozco"
 summary: "Youngest of four children, Vicenta was a pious girl, known for her devotion to the Infant Jesus, for making little altars and asking other children to pray with her. She grew up in Mexicaltzingo, a neighborhood inhabited by poor and unskilled workers. Her parish priest, Father Ag"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicenta-Chavez-Orozco.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 martyr: false

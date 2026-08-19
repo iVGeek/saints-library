@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean Ménard"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Jean Ménard"
 summary: "Married layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1736
 deathYear: 1794
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

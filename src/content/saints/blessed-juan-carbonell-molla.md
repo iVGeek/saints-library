@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Carbonell Molla"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Carbonell Molla"
 summary: "Son of a physician; brother of Blessed Elías Carbonell Molla. Studied at the seminaries at Orihuela and Valencia, Spain. Ordained in 1898. Co-adjutor of El Savador. Exceptional organist. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Carbonell-Molla.jpg"
 birthYear: 1874
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

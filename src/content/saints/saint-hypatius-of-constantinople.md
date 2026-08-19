@@ -1,7 +1,7 @@
 ---
 name: "Saint Hypatius of Constantinople"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Hypatius of Constantinople"
 summary: "Monk. Priest. Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian."
 searchAliases:
   - "Ipazio"
@@ -15,7 +15,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Saint Louthiern"
 honorific: Saint
-title: "Monk"
+title: "Saint Louthiern"
 summary: "No information has survived."
 searchAliases:
   - "Ludowanus"

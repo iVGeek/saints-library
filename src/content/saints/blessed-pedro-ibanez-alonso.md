@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Ibáñez Alonso"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pedro Ibáñez Alonso"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

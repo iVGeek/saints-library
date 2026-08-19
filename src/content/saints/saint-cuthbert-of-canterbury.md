@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuthbert of Canterbury"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cuthbert of Canterbury"
 summary: "Born to the nobility. Monk and then abbot at Lyminge Abbey in Kent, England. Bishop of Hereford, England c.736. Archbishop of Canterbury, England c.740."
 deathYear: 761
 died: "761 of natural causes"

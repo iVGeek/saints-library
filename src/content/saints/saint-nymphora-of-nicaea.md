@@ -1,7 +1,7 @@
 ---
 name: "Saint Nymphora of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Nymphora of Nicaea"
 summary: "Martyr."
 searchAliases:
   - "Nymphodora"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

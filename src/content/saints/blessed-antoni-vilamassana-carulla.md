@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Vilamassana Carulla"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antoni Vilamassana Carulla"
 summary: "Claretian brother. Martyred in the Spanish Civil War."
 birthYear: 1860
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

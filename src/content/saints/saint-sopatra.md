@@ -1,7 +1,7 @@
 ---
 name: "Saint Sopatra"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Sopatra"
 summary: "Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople."
 region: "England"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peleus of Tyre"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Peleus of Tyre"
 summary: "Bishop in Egypt. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Tyre, Phoenicia (modern Sur, Lebanon)"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

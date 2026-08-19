@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maurus of North Africa"
 summary: "Raised in a Christian family in North Africa. Immigrant to Rome, Italy. Martyred in the persecutions of Emperor Numerian."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

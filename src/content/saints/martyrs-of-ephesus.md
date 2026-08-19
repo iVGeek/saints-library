@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Ephesus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Ephesus"
 summary: "Forty-two monks martyred at a monastery in Ephesus (modern Turkey) during the persecutions of the Iconoclast Byzantine Emperor Constantine V. Their names have not come down to us."
 searchAliases:
   - "Ephesus Martyrs"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

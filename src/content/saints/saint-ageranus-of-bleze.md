@@ -1,7 +1,7 @@
 ---
 name: "Saint Ageranus of Bèze"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ageranus of Bèze"
 summary: "Benedictine monk. Martyred defending the altar at the monastery of Bèze, Côte-d'Or, France against Norman invaders."
 searchAliases:
   - "Ayran"
@@ -15,7 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

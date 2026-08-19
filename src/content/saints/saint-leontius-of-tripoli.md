@@ -1,7 +1,7 @@
 ---
 name: "Saint Leontius of Tripoli"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Leontius of Tripoli"
 summary: "Imperial Roman legionairy who was imprisoned, tortured and executed for his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Rafaela Rodríguez Xuarez de la Guardia"
 honorific: Venerable
-title: "Martyr, Religious, Pope"
+title: "Venerable María Rafaela Rodríguez Xuarez de la Guardia"
 summary: "Nun. Member of the Congregation of Sisters of the Divine Love."
 searchAliases:
   - "María Rocío of Jesus Crucified"
@@ -17,10 +17,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Nun. Member of the Congregation of Sisters of the Divine Love.

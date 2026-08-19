@@ -1,7 +1,7 @@
 ---
 name: "Saint Sulian"
 honorific: Saint
-title: "Monk"
+title: "Saint Sulian"
 summary: "Founded the monastery of Luxulyan in Cornwall, England, and served as its first abbot."
 searchAliases:
   - "Silin"

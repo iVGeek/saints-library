@@ -1,7 +1,7 @@
 ---
 name: "Saint Privatus of Phrygia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Privatus of Phrygia"
 summary: "Martyred in Phrygia, Asia Minor. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

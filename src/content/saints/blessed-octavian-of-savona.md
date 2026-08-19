@@ -1,7 +1,7 @@
 ---
 name: "Blessed Octavian of Savona"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Octavian of Savona"
 summary: "Brother of Pope Saint Callistus II. Educated by Benedictines. Benedictine monk at Saint Peter's abbey at Pavia, Italy. Bishop of Savona, Italy in 1129."
 searchAliases:
   - "Ottaviano"
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

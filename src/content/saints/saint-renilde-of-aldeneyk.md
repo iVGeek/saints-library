@@ -1,7 +1,7 @@
 ---
 name: "Saint Renilde of Aldeneyk"
 honorific: Saint
-title: "Religious"
+title: "Saint Renilde of Aldeneyk"
 summary: "Nun. Abbess of the Aldeneyk monastery at Tongeren, Brabant, Austrasia (in modern Belgium)."
 searchAliases:
   - "Renula"

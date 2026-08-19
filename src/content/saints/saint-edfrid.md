@@ -1,7 +1,7 @@
 ---
 name: "Saint Edfrid"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Edfrid"
 summary: "Priest in Northumbria, England. Evangelized in Mercia. Founded a monastery in Leominster, England."
 searchAliases:
   - "Eadfrid"

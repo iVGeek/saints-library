@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ralph Milner"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Ralph Milner"
 summary: "Poor, uneducated but pious farmer, husband and father of eight children in 16th century England. Raised an Anglican, he converted to Catholicism. He was arrested on the day of his First Communion for the crime of converting. He was such a model prisoner that the jailers gave him"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ralph-Milner.jpg"
 searchAliases:
@@ -20,11 +20,8 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

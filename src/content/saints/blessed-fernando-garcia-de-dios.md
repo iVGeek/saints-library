@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fernando García de Dios"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Fernando García de Dios"
 summary: "Fernando was the son of Louis and Francisca, doormen of the Augustinian mothers of San Felices, and in his teens studied with the Dominicans in Almagro, Spain, concentrating on literature. He seemed to have a vocation to the priesthood, but in his late teens developed vision prob"
 birthYear: 1916
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

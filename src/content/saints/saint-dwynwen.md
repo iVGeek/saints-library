@@ -1,7 +1,7 @@
 ---
 name: "Saint Dwynwen"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Dwynwen"
 summary: "Beautiful, pious and virtuous daughter of the 5th century Welsh king, Brychan of Brecknock. A certain Maelon fell in love with her, and wished to marry her. Though Dwynwen returned his love, her heart was set on becoming a nun, and she rejected him. She dreamt she was given a swe"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Llamddelw_fawr_am_%C5%B4yl_Santes_Dwynwen_Aberystwyth_2026.png"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "lovers (especially Welsh)"
   - "sick animals"

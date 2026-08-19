@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Laura Mainetti"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Maria Laura Mainetti"
 summary: "Baptized in Villatico di Colico on 22 August 1939 at the age of 2 days. Sisters of the Cross nun, entering the novitiate in Rome, Italy on 22 August 1957 and taking the name Sister Maria Laura. Her ministry was to children and young people both as a class room teacher and spiritu"
 image: "http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/maria-laura-mainetti.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

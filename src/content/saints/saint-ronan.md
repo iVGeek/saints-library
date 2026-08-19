@@ -1,7 +1,7 @@
 ---
 name: "Saint Ronan of Cornwall"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Ronan of Cornwall"
 summary: "An early missionary bishop, ordained by Saint Patrick, who preached in Cornwall, England, and in Brittany, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ronan-of-Cornwall1.jpg"
 searchAliases:

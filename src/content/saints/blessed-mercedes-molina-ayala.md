@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mercedes de Jesús Molina y Ayala"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Mercedes de Jesús Molina y Ayala"
 summary: "Nun in 1873. Founded the Institute of the Sisters of Saint Mariana of Jesus (Marianitas Sisters) to care for and educate orphans and poor girls, and to help prostitutes escape the life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mercedes-Molina-Ayala.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

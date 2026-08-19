@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyra of Beroea"
 honorific: Saint
-title: "Monk"
+title: "Saint Cyra of Beroea"
 summary: "Pious woman who lived a life of extreme asceticism walled up in a small house just outside of Beroea, Syria."
 deathYear: 455
 died: "c.455"

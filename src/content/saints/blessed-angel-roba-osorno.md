@@ -2,7 +2,7 @@
 name: "Blessed Ángel Roba Osorno"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Julieta_y_Romeo_-_drama_tr%C3%A1gico_en_cuatro_actos_y_en_verso_%28IA_julietayromeodra00daca%29.pdf/page1-960px-Julieta_y_Romeo_-_drama_tr%C3%A1gico_en_cuatro_actos_y_en_verso_%28IA_julietayromeodra00daca%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ángel Roba Osorno"
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Licarión"
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Marist"
 martyr: true
 ---

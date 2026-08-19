@@ -1,7 +1,7 @@
 ---
 name: "Saint Palmatius of Trier"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Palmatius of Trier"
 summary: "Martyred with a group of Christians in the persecutions of Maximian Herculeus."
 deathYear: 287
 died: "c.287 in Trier, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

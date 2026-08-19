@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphebius of Naples"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Euphebius of Naples"
 summary: "4th century bishop of Naples, Italy."
 searchAliases:
   - "Efébo"
@@ -11,10 +11,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 4th century bishop of Naples, Italy.

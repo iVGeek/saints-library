@@ -1,7 +1,7 @@
 ---
 name: "Saint Pompeius of Pavia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Pompeius of Pavia"
 summary: "Bishop of Pavia, Italy. Some records indicate his martyrdom, others not."
 deathYear: 290
 died: "c.290"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Curonotus of Iconium"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Curonotus of Iconium"
 summary: "Priest. Bishop of Iconium, Asia Minor. Imprisoned, dragged through the streets and executed in the persecutions of Valerian and the governor Perinnio."
 searchAliases:
   - "Curomotus"
@@ -15,7 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

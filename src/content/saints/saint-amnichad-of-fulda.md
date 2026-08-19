@@ -1,7 +1,7 @@
 ---
 name: "Saint Amnichad of Fulda"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Amnichad of Fulda"
 summary: "Migrated to Germany to become a monk, and then became a hermit at Fulda."
 searchAliases:
   - "Anmchadh"

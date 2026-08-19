@@ -1,7 +1,7 @@
 ---
 name: "Saint Andreas Wang Tianqing"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Andreas Wang Tianqing"
 summary: "Nine year old boy in Machiazhuang, China. On 21 July 1900, an armed group associated with the anti-Christian, anti-Western Boxer Rebellion entered his village, burned the church, gathered all the Christians, and ordered them to renounce Christianity; many did, usually as a way to"
 image: "http://catholicsaints.info/wp-content/uploads/martyrs-of-Zhili.png"
 birthYear: 1891
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

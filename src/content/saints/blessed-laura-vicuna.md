@@ -1,7 +1,7 @@
 ---
 name: "Blessed Laura Vicuña"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope, Soldier, Confessor"
+title: "Blessed Laura Vicuña"
 summary: "Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved across the Andes to raise the girl in Las Laj"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Laura_Vicu%C3%B1a_2.jpg"
 birthYear: 1891
@@ -16,8 +16,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -29,7 +27,7 @@ patronage:
   - "Argentina"
   - "incest victims"
   - "martyrs"
-martyr: true
+martyr: false
 ---
 
 Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved across the Andes to raise the girl in Las Lajas, Argentina. Laura's father was killed soon after, and to survive, Mercedes became the mistress and common-law wife of a man named Manuel Mora.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adela Mardosewicz"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Blessed Adela Mardosewicz"
 summary: "Studied to be a teacher. Joined the Sisters of Nazareth on 14 September 1910, taking the name Maria Stella of the Most Blessed Sacrament. School principal, and her house's accountant and sacristan. She moved to Nowogródek in 1926, and served as superior of her community during Wo"
 image: "http://catholicsaints.info/wp-content/uploads/img-blessed-maria-stella-of-the-most-blessed-sacrament.jpg"
 searchAliases:
@@ -19,11 +19,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

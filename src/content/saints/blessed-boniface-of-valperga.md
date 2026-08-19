@@ -1,7 +1,7 @@
 ---
 name: "Blessed Boniface of Valperga"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed Boniface of Valperga"
 summary: "Born to the Italian nobility, a member of the family of the Counts of Valperga, the son of Matthew and Anna Levi Villars. He received a good Christian education at home, and from his uncle Arduino, the bishop of Turin, Italy. Benedictine monk at the abbey of Fruttuaria (modern Sa"
 searchAliases:
   - "Boniface of Aosta"
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

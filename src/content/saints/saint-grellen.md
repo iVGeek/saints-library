@@ -1,7 +1,7 @@
 ---
 name: "Saint Grellen"
 honorific: Saint
-title: "Priest, Royalty, Missionary"
+title: "Saint Grellen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg"
 searchAliases:
   - "Grellan"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
   - Missionary
 martyr: false
 ---

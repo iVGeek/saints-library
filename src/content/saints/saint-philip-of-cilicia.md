@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Cilicia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philip of Cilicia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philippus"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

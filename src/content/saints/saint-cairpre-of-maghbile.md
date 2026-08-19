@@ -1,7 +1,7 @@
 ---
 name: "Saint Cairpre of Maghbile"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Cairpre of Maghbile"
 summary: "Early Irish bishop."
 region: "Ireland"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Early Irish bishop.

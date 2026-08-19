@@ -1,7 +1,7 @@
 ---
 name: "Saint Filoromus of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Filoromus of Alexandria"
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius for objecting to the harsh treatment of Saint Phileas of Alexandria."
 searchAliases:
   - "Philoromus"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Antonella Bordoni"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Maria Antonella Bordoni"
 summary: "Lay woman. Dominican tertiary. Founded the Lay Fraternity of the Little Daughters of the Mother of God."
 birthYear: 1916
 deathYear: 1978
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: false
 ---

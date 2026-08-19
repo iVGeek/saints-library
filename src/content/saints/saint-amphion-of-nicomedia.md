@@ -1,7 +1,7 @@
 ---
 name: "Saint Amphion of Nicomedia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Amphion of Nicomedia"
 summary: "Priest during the reign of Valerius Maximianus Galerius. Earliest known bishop of Epiphania, Cilicia (in modern Turkey) in 325. Attended the Council of Nicaea. Bishop of Nicomedia; opposed the Arians who were just starting to spread in the area. Writer whose works were recommende"
 searchAliases:
   - "Amphion of Cilicia"
@@ -13,11 +13,10 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest during the reign of Valerius Maximianus Galerius. Earliest known bishop of Epiphania, Cilicia (in modern Turkey) in 325. Attended the Council of Nicaea. Bishop of Nicomedia; opposed the Arians who were just starting to spread in the area. Writer whose works were recommended by Saint Athanasius of Alexandria for their defense of the faith. Suffered in the persecutions of Diocletian.

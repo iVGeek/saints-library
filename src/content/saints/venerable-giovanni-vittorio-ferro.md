@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giovanni Vittorio Ferro"
 honorific: Venerable
-title: "Bishop, Priest, Pope"
+title: "Venerable Giovanni Vittorio Ferro"
 summary: "The son of Giovanni Battista Ferro, a shoemaker, and Carlotta Borio, Giovanni studied in Milan, Turin and Rome, Italy. He joined the Order of Regular Clerics of Somasca on 5 August 1912, and made his solemn profession on 14 March 1924 in Genoa, Italy. Ordained a priest on 11 Apri"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Vittorio-Ferro.jpg"
 birthYear: 1901
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
 martyr: false
 ---
 

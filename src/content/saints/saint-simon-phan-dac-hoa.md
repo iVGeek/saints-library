@@ -1,7 +1,7 @@
 ---
 name: "Saint Simon Phan Ðac Hòa"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Simon Phan Ðac Hòa"
 summary: "Married, father, family man, physician and mayor who worked with local charities and the missionaries working in the apostolic vicariate of Cochinchina (modern Vietnam). Imprisoned, flogged and executed for his faith in the persecutions of Minh Mang."
 birthYear: 1787
 deathYear: 1840
@@ -15,10 +15,7 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

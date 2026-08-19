@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramon Oromí Sullà"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Ramon Oromí Sullà"
 summary: "Priest. Member of the Sons of the Holy Family; worked as secretary for his Institute. Publisher of their magazine. Wrote the first biography of Saint Josep Manyanet-y-Vives. Catechist and spiritual director for young people, working closely with those with a call to religious lif"
 birthYear: 1875
 deathYear: 1937
@@ -15,10 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

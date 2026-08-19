@@ -1,7 +1,7 @@
 ---
 name: "Saint Straton"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Straton"
 summary: "Martyr."
 died: "tied to two bent trees then released so he was torn in half"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

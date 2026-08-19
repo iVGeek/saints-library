@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Ventura Solsona"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Ventura Solsona"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Ventura-Solsona.jpg"
 birthYear: 1875
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

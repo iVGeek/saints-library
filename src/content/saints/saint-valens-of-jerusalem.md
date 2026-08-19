@@ -1,7 +1,7 @@
 ---
 name: "Saint Valens of Jerusalem"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Valens of Jerusalem"
 summary: "Deacon in Jerusalem. Imprisoned and sentenced to forced labour in the mines of Cilicia. Martyr."
 deathYear: 309
 died: "309 in Cilicia, Asia Minor (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

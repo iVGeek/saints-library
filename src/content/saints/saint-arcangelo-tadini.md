@@ -1,7 +1,7 @@
 ---
 name: "Saint Arcangelo Tadini"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Arcangelo Tadini"
 summary: "As a young adult, Arcangelo had an accident that left him with a lifelong limp. He entered the seminary in Brescia, Italy at age 18. Ordained in 1870, but illness forced him to spend his first year of priesthood with his family. Curate in the mountain village of Lodrino from 1871"
 image: "http://catholicsaints.info/wp-content/gallery/saint-arcangelo-tadini/saint-arcangelo-tadini-01.jpg"
 birthYear: 1846
@@ -18,8 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Worker Sisters of the Holy House of Nazareth"
 martyr: false

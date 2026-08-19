@@ -1,7 +1,7 @@
 ---
 name: "Saint Ruadhán of Lorrha"
 honorific: Saint
-title: "Priest, Monk, Royalty, Confessor"
+title: "Saint Ruadhán of Lorrha"
 summary: "Related to the royal family of Munster (part of modern Ireland. Studied under Saint Finian of Clonard. Founded the monastery of Lorrha c.545, and served as its first abbot. His brother monks produced the Stowe Missal, and his abbot's bell is preserved in the British Museum. Ruadh"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/01_St._Ruadhan%2C_James_Watson_%26_Co.%2C_Youghal_Stained_Glass%2C_at_St._Ruadhan_Church_in_Lorrha.png/960px-01_St._Ruadhan%2C_James_Watson_%26_Co.%2C_Youghal_Stained_Glass%2C_at_St._Ruadhan_Church_in_Lorrha.png"
 searchAliases:
@@ -26,7 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Confessor
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Zosimus of Umbria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Zosimus of Umbria"
 summary: "Martyred in the persecutions of Trajan."
 searchAliases:
   - "Zosimus of Spoleto"
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

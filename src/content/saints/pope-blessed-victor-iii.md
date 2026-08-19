@@ -1,7 +1,7 @@
 ---
 name: "Pope Blessed Victor III"
 honorific: Blessed
-title: "Monk, Pope, Cardinal, Royalty"
+title: "Pope Blessed Victor III"
 summary: "Son of Prince Landolfo V of Benevento, Italy. He felt an early call to religious life, but as he was the only son, his family opposed his vocation. He fled an arranged marriage, was brought back by force, and escaped again; his family finally gave in. Monk at San Sophia monastery"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Victor_III._-_Desiderius_of_Montecassino.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

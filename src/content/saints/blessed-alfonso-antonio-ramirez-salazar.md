@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfonso Antonio Ramírez Salazar"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Alfonso Antonio Ramírez Salazar"
 summary: "Joined the Hospitallers of Saint John of God in 1932. Martyred in the Spanish Civil War. One of the Martyred Colombians of Barcelona."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Antonio-Ramírez-Salazar.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

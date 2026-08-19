@@ -1,7 +1,7 @@
 ---
 name: "Saint Johannes Ri"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Johannes Ri"
 summary: "Lay man. Martyr. A letter he wrote from prison has survived."
 searchAliases:
   - "John Rider"
@@ -14,9 +14,7 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Columba Gang Wan-suk"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Columba Gang Wan-suk"
 summary: "Lay woman catechist and martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Columba-Gang-Wan-suk.jpg"
 birthYear: 1761
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

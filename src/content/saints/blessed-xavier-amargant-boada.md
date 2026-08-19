@@ -1,7 +1,7 @@
 ---
 name: "Blessed Xavier Amargant Boada"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Xavier Amargant Boada"
 summary: "Member of the Claretians, professed on 27 September 1932. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

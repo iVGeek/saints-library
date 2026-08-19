@@ -1,7 +1,7 @@
 ---
 name: "Saint Winifred of Wales"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Winifred of Wales"
 summary: "Daughter to Trevith, a member of the Welsh landed class and advisor to the king. Spiritual student of her maternal uncle Saint Beuno Gasulsych. Physically beautiful, she made a private vow of chastity, becoming a bride of Christ. Murdered when she rejected the amorous advances of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Winifred.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 patronage:
   - "incest victims"
@@ -32,7 +31,7 @@ patronage:
   - "–"
   - "in England\n\nShrewsbury, city of"
   - "Shrewsbury, diocese of"
-martyr: true
+martyr: false
 ---
 
 Daughter to Trevith, a member of the Welsh landed class and advisor to the king. Spiritual student of her maternal uncle Saint Beuno Gasulsych. Physically beautiful, she made a private vow of chastity, becoming a bride of Christ. Murdered when she rejected the amorous advances of a chieftain named Caradog of Hawarden; she had escaped from him, and was seeking shelter in a church when he caught and killed her. Legend says that where her head fell, a well sprang up which became a place of pilgrimage, and whose waters were reported to heal leprosy, skin diseases, and other ailments. Saint Beuno raised her back to life; he cursed Caradog who was promptly swallowed by the earth. Winifred became a nun, and later abbess at Cwytherin, Deubighshire, Wales.

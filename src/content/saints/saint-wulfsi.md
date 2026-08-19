@@ -1,7 +1,7 @@
 ---
 name: "Saint Wulfsi"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Wulfsi"
 summary: "Eleventh-century hermit in the west of England. Spiritual advisor to Saint Wolstan of Worcester."
 searchAliases:
   - "Wulsi"

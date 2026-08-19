@@ -1,7 +1,7 @@
 ---
 name: "Saint Ludovico Pavoni"
 honorific: Saint
-title: "Bishop, Priest, Pope, Royalty"
+title: "Saint Ludovico Pavoni"
 summary: " Rector of Saint Barnabas church in 1818 where soon after he f Trained in theology by the Dominican Father Carlo Ferrari, future bishop of Brescia, Italy. Ordained in 1807. Founded an Oratory for Christian education of poor boys in Brescia. Secretary to bishop Gabrio Nava in 1812."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ludovico-Pavoni.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Sons of Mary Immaculate"

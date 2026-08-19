@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pascual Ferrer Botella"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pascual Ferrer Botella"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Ferrer-Botella.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

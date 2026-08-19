@@ -1,7 +1,7 @@
 ---
 name: "Blessed Romanus Motoyama Myotaro"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Romanus Motoyama Myotaro"
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. One of a group of eleven Christians martyred together for their faith during a period of official persecution in Japan."
 searchAliases:
   - "Romanus of Omura"
@@ -16,9 +16,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

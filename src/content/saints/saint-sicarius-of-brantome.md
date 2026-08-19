@@ -1,7 +1,7 @@
 ---
 name: "Saint Sicarius of Brantôme"
 honorific: Saint
-title: "Martyr, Priest, Royalty"
+title: "Saint Sicarius of Brantôme"
 summary: "One of the Holy Innocents who died by order of King Herod."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Montagrier_%C3%A9glise_vitrail_%283%29.JPG/960px-Montagrier_%C3%A9glise_vitrail_%283%29.JPG"
 searchAliases:
@@ -17,13 +17,11 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Brantôme, France"
-martyr: true
+martyr: false
 ---
 
 One of the Holy Innocents who died by order of King Herod.

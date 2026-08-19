@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Middleton"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Middleton"
 summary: "Jesuit priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1571
 deathYear: 1601
@@ -16,10 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Robert_Middleton_in_Bonanza_%281960%29.jpg/960px-Robert_Middleton_in_Bonanza_%281960%29.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

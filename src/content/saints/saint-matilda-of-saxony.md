@@ -1,7 +1,7 @@
 ---
 name: "Saint Matilda of Saxony"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Religious, Royalty"
+title: "Saint Matilda of Saxony"
 summary: "Daughter of Count Dietrich of Westphalia and Reinhild of Denmark; she was raised by her grandmother, abbess of the Eufurt. In 913, Matilda left the abbey, and married King Henry the Fowler of Saxony (Henry I), who had received an annulment from a previous marriage. Queen of Germa"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Matilda-of-Saxony.jpg"
 searchAliases:
@@ -23,11 +23,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "death of children"
@@ -38,7 +36,7 @@ patronage:
   - "queens"
   - "second marriages"
   - "widows"
-martyr: true
+martyr: false
 ---
 
 Daughter of Count Dietrich of Westphalia and Reinhild of Denmark; she was raised by her grandmother, abbess of the Eufurt. In 913, Matilda left the abbey, and married King Henry the Fowler of Saxony (Henry I), who had received an annulment from a previous marriage. Queen of Germany. Mother of Otto, Holy Roman Emperor; Henry the Quarrelsome, Duke of Bavaria; Saint Bruno the Great, Archbishop of Cologne, Germany; Gerberga, wife of King Louis IV of France; Hedwig, mother of Hugh Capet. Founded several Benedictine abbeys. Well known throughout the realm for her generosity, she taught the ignorant, comforted the sick, and visited prisoners. Betrayed by Otto after Henry's death when he falsely accused her of financial mismanagement.

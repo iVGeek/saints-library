@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius II of Pavia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Anastasius II of Pavia"
 summary: "A follower of the Arian heresy, he converted to orthodox Christianity and eventually became bishop of Pavia, Italy in 668."
 deathYear: 680
 died: "680"

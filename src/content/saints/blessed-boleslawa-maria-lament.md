@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bolesława Maria Lament"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty, Missionary"
+title: "Blessed Bolesława Maria Lament"
 summary: "Eldest of eight children born to Martin Lament and Lucia Cyganowska; three of her siblings died in childhood, deeply scarring young Boleslava. Trained in Warsaw, Poland as a seamstress, she returned to her hometown to open a tailor's shop with her sister Stanislava. In 1884 Boles"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Boleslawa-Maria-Lament.jpg"
 birthYear: 1862
@@ -18,8 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

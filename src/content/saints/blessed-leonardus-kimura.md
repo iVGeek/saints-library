@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leonardus Kimura"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Blessed Leonardus Kimura"
 summary: "His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist. Travelled with Jesuit priests on missionary trips. J"
 searchAliases:
   - "Leonard Chimura"
@@ -18,10 +18,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

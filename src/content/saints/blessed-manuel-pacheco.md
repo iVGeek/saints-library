@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Pacheco"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Missionary"
+title: "Blessed Manuel Pacheco"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 deathYear: 1570
 born: "Ceuta, Spain"
@@ -14,9 +14,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

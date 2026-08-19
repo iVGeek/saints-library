@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto García Riesco"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jacinto García Riesco"
 summary: "Dominican cleric. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

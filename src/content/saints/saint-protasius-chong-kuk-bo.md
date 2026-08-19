@@ -1,7 +1,7 @@
 ---
 name: "Saint Protasius Chong Kuk-bo"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Protasius Chong Kuk-bo"
 summary: "Married layman in the apostolic vicariate of Korea. At one point he abandoned Christianity, but recovered his faith, was imprisoned, tortured and eventually executed for refusing to renounce it again. Martyr."
 searchAliases:
   - "Jeong Guk-Bo"
@@ -18,9 +18,7 @@ feastDay:
   month: 5
   day: 20
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

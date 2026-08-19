@@ -1,7 +1,7 @@
 ---
 name: "Saint Aurelia of Macerata"
 honorific: Saint
-title: "Monk"
+title: "Saint Aurelia of Macerata"
 summary: "Pilgrim to Palestine and then to Rome, Italy. Abused for her faith by pagans in Capua, Italy, but managed to escape under cover of a thunderstorm."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelia.jpg"
 died: "Macerata, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agapius of Caesarea"
 summary: "Martyred in the persecutions of Diocletian."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

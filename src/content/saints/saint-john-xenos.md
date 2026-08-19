@@ -1,7 +1,7 @@
 ---
 name: "Saint John Xenos"
 honorific: Saint
-title: "Monk"
+title: "Saint John Xenos"
 summary: "Introduced the monastic life to the island for Crete."
 region: "Italy"
 feastDay:

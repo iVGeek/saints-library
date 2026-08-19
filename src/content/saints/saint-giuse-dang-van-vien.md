@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Ðang Van Viên"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Giuse Ðang Van Viên"
 summary: "Priest in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

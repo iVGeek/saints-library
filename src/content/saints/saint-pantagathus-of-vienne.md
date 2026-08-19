@@ -1,7 +1,7 @@
 ---
 name: "Saint Pantagathus of Vienne"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Pantagathus of Vienne"
 summary: "Born to the nobility. Well-educated, he served as a diplomat and courtier to King Clovis I. Priest. Bishop of Vienne, France c.536. Attended the Council of Orléans."
 searchAliases:
   - "Pantagathe of Vienne"
@@ -18,7 +18,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

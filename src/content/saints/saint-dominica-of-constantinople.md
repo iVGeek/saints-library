@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominica of Constantinople"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Dominica of Constantinople"
 summary: "Raised in a pious family, when she was grown Dominica slipped away from her home and took ship to Alexandria, Egypt. There she lived with four pagan women, whom she converted to Christianity, and then lived the rest of her days as a prayerful, ascetic recluse. Reported to have th"
 searchAliases:
   - "Dominica of Carthage"

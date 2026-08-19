@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Guerra Andrés"
 honorific: Blessed
-title: "Martyr, Pope, Missionary"
+title: "Blessed José Guerra Andrés"
 summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Missionary
 martyr: true
 ---

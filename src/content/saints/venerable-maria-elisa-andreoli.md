@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Elisa Andreoli"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Elisa Andreoli"
 summary: "Founder of the Congregation of the Reparatrix Sisters, Servants of Mary (Serve di Maria Riparatrici)."
 birthYear: 1861
 deathYear: 1935
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

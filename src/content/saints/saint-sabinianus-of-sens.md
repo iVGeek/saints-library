@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinianus of Sens"
 honorific: Saint
-title: "Martyr"
+title: "Saint Sabinianus of Sens"
 summary: "Shepherd. Martyr."
 died: "Sens, France"
 deathPlace: "France"
@@ -10,8 +10,7 @@ feastDay:
   month: 10
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

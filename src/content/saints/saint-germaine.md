@@ -1,7 +1,7 @@
 ---
 name: "Saint Germaine"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Germaine"
 summary: "Young lay woman who was drawn to religious life, refused a marriage, and fled from her family's home to escape it. She was found near Laon in France and killed for her refusal. Martyr."
 born: "4th century Ireland"
 died: "4th century near Laon, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
 martyr: true
 ---

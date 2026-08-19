@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabas of Sinai"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sabas of Sinai"
 summary: "Martyred with 37 companions in one of a series of massacres the early 4th century by pagan Arabs in the Red Sea area."
 deathYear: 309
 died: "309 on Mount Sinai"
@@ -10,7 +10,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

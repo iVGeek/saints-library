@@ -1,7 +1,7 @@
 ---
 name: "Saint Augustinô Nguyen Van Moi"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Augustinô Nguyen Van Moi"
 summary: "Lay Dominican in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam."
 birthYear: 1806
 deathYear: 1839
@@ -14,9 +14,7 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

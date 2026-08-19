@@ -1,7 +1,7 @@
 ---
 name: "Saint Nazaria Ignacia March y Mesa"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Soldier, Missionary"
+title: "Saint Nazaria Ignacia March y Mesa"
 summary: "Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were baptized on the day they were born, Nazaria mad"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazaria-Ignacia-March-Mesa.jpg"
 searchAliases:
@@ -19,14 +19,12 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Jesuit"
 patronage:
   - "Missionary Crusaders of the Church"
-martyr: true
+martyr: false
 ---
 
 Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were baptized on the day they were born, Nazaria made her First Communion on 21 November 1898 and made a personal vow of consecration to God. Unlike many children who are drawn to religious life at an early age, her family was indifferent to the faith, and grew so tired of her of her devotions that they once “grounded” her from going to Mass. By the time she was confirmed on 15 March 1902, which was celebrated by Blessed Marcelo Spínola y Maestre, her family had grown used to her piety, and allowed her to join the Franciscan Third Order and more actively practice her faith. She succeeded in getting several of them to return to the Church.

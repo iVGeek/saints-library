@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Fuentes Ballesteros"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Fuentes Ballesteros"
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
 birthYear: 1885
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

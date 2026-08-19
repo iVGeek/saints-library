@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Dulce Rodrigues dos Santos"
 honorific: Venerable
-title: "Religious, Pope, Missionary"
+title: "Venerable Maria Dulce Rodrigues dos Santos"
 summary: "Founded the Pequenas Missionárias de Maria Imaculada (Little Missionary Sisters of Mary Immaculate)."
 searchAliases:
   - "Teresa of the Eucharistic Jesus"
@@ -19,7 +19,6 @@ canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Maria_Teresa_de_Jesus_Eucar%C3%ADstico.jpg/960px-Maria_Teresa_de_Jesus_Eucar%C3%ADstico.jpg"
 vocation:
   - Religious
-  - Pope
   - Missionary
 martyr: false
 ---

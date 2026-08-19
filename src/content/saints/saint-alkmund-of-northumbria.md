@@ -1,7 +1,7 @@
 ---
 name: "Saint Alkmund of Northumbria"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Alkmund of Northumbria"
 summary: "Born a prince, the son of the Northumbrian King Alcred. King of Northumbria after the murders of his father and his brother Osred. Known for his charity to the poor and orphaned. Exiled to the area of Pictish Scotland and later murdered by agents of the usurping king Eardwulf of"
 image: "http://catholicsaints.info/wp-content/uploads/Alkmund.jpg"
 searchAliases:
@@ -23,14 +23,12 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 patronage:
   - "in England\n\nDerby"
   - "Lilleshall"
-martyr: true
+martyr: false
 ---
 
 Born a prince, the son of the Northumbrian King Alcred. King of Northumbria after the murders of his father and his brother Osred. Known for his charity to the poor and orphaned. Exiled to the area of Pictish Scotland and later murdered by agents of the usurping king Eardwulf of Northumbria. There are six churches in England dedicated to him.

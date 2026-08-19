@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantine of Cornwall"
 honorific: Saint
-title: "Martyr, Royalty, Missionary"
+title: "Saint Constantine of Cornwall"
 summary: "Born a Cornish prince, the son of King Paternus. After a life of vice, Constantine had a conversion experience, repented his sins, and studied the faith in Wales and Ireland. Missionary to the Scottish Picts. Worked with Saint Columbanus. Abbot of a monastery at Govan. Two places"
 deathYear: 587
 died: "murdered by thieves c.587 who cut off his right arm and allowed him to bleed to death"
@@ -11,8 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Royalty
   - Missionary
 martyr: true
 ---

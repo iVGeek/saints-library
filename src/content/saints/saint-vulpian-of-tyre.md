@@ -1,7 +1,7 @@
 ---
 name: "Saint Vulpian of Tyre"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vulpian of Tyre"
 summary: "Martyred in the persecutions of Diocletian and Maximian Galerius."
 searchAliases:
   - "Ulfianus"
@@ -19,7 +19,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ausonius of Angoulême"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Ausonius of Angoulême"
 summary: "Third century spiritual student of Saint Martial of Limoges. First Bishop of Angoulême, France."
 searchAliases:
   - "Ausonio"
@@ -11,11 +11,10 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Angoulême, France, diocese of"
-martyr: true
+martyr: false
 ---
 
 Third century spiritual student of Saint Martial of Limoges. First Bishop of Angoulême, France.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Santiago Aparicio López"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Santiago Aparicio López"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

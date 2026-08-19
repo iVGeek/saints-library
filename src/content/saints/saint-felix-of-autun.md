@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Autun"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felix of Autun"
 summary: "Rich, second-century merchant in Autun, France. Convert. Assisted and supported missionaries in his region. Martyr."
 deathYear: 179
 died: "179"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

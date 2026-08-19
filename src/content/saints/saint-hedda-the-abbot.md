@@ -1,7 +1,7 @@
 ---
 name: "Saint Hedda the Abbot"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hedda the Abbot"
 summary: "Benedictine abbot. He and 84 of his brother monks were martyred by invading pagan Danes."
 searchAliases:
   - "Haeddi"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

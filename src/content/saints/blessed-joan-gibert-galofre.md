@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Gibert Galofré"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joan Gibert Galofré"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Gibert-Galofré.jpg"
 birthYear: 1880
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

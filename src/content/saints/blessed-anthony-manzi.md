@@ -2,7 +2,7 @@
 name: "Blessed Anthony Manzi"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mexico_topo.jpg/960px-Mexico_topo.jpg"
 honorific: Blessed
-title: "Religious, Hermit"
+title: "Blessed Anthony Manzi"
 summary: "Born to a wealthy, pious family; two of his sisters became nuns. As soon as he had legal control of his fortune, Anthony gave it away to the poor; he was shunned by his family and friends, even his sisters the sisters. He wandered across Europe, a pilgrim from shrine to shrine, a"
 searchAliases:
   - "Anthony Manzoni"

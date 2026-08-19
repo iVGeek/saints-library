@@ -1,7 +1,7 @@
 ---
 name: "Saint Wando of Fontenelle"
 honorific: Saint
-title: "Monk"
+title: "Saint Wando of Fontenelle"
 summary: "Benedictine monk. Abbot of Fontenelle, France. Due to a false accusation, he was exiled to Troyes, France; reinstated when his innocence was proven."
 searchAliases:
   - "Wando von Fontenelle"

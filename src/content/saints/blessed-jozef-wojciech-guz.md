@@ -1,7 +1,7 @@
 ---
 name: "Blessed Józef Wojciech Guz"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Soldier, Confessor"
+title: "Blessed Józef Wojciech Guz"
 summary: "After high school Jozef tried to join the Jesuits, but was turned down. On 25 August 1908 be joined the Franciscans, taking the name Innocenty. Studied philosophy and theology in Krakow, Poland. Ordained on 2 June 1914. Parish priest in a number of cities, and worked with Saint M"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Wojciech-Guz.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Jesuit"

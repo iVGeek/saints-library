@@ -1,7 +1,7 @@
 ---
 name: "Saint Heraclius of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Heraclius of Carthage"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 deathYear: 263
 born: "African"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

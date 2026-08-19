@@ -1,7 +1,7 @@
 ---
 name: "Saint Zacchaeus of Palestine"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Zacchaeus of Palestine"
 summary: "Tortured and martyred in the persecutions of Diocletian."
 deathYear: 302
 died: "beheaded c.302 in Palestine"
@@ -11,7 +11,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

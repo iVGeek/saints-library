@@ -1,7 +1,7 @@
 ---
 name: "Saint Abbo II of Metz"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Abbo II of Metz"
 summary: "Bishop of Metz, France from 697 to 707."
 searchAliases:
   - "Abo"

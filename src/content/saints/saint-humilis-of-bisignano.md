@@ -1,7 +1,7 @@
 ---
 name: "Saint Humilis of Bisignano"
 honorific: Venerable
-title: "Pope"
+title: "Saint Humilis of Bisignano"
 summary: "Franciscan lay-brother. So renowned for his sanctity, he was summoned to Rome to be counselor to Pope Gregory XV and Pope Urban VIII."
 image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Umile_bisignano.jpg"
 searchAliases:
@@ -18,8 +18,7 @@ feastDay:
   month: 11
   day: 26
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "Bisignano, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Paregorius of Patara"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Paregorius of Patara"
 summary: "Martyr. No other information has survived."
 deathYear: 260
 died: "260 at Patara, Lycia"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

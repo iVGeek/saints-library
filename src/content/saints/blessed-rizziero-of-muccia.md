@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rizziero of Muccia"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Rizziero of Muccia"
 summary: "Born to the the wealthy nobility and a law student in Bologna, Italy, he gave up the worldly life in 1222 to be a spiritual student of Saint Francis of Assisi, and one of the first Franciscan friars. Priest. Close friend and advisor to Saint Francis, and was present at Saint Fran"
 searchAliases:
   - "Ricerio"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Donato Rodríguez García"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Donato Rodríguez García"
 summary: "Young layman in the archdiocese of Burgos, Spain. Martyred in the Spanish Civil War. One of the Martyrs of Suances."
 birthYear: 1911
 deathYear: 1937
@@ -15,8 +15,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

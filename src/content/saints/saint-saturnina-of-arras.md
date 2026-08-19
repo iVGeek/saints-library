@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturnina of Arras"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Saturnina of Arras"
 summary: "Virgin-martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

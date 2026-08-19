@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ida of Argensolles"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Ida of Argensolles"
 summary: "Benedictine nun at Saint Leonard's, Liege, Belgium. Abbess of the Cistercian Argensolles Abbey, diocese of Soissons, France."
 deathYear: 1226
 died: "1226 of natural causes"

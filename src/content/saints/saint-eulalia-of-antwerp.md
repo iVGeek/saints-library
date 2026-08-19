@@ -1,7 +1,7 @@
 ---
 name: "Saint Eulalia of Antwerp"
 honorific: Saint
-title: "Martyr"
+title: "Saint Eulalia of Antwerp"
 summary: "Martyr."
 died: "in Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -10,8 +10,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

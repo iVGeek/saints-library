@@ -1,7 +1,7 @@
 ---
 name: "Blessed Justo Ramón Piedrafita"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Justo Ramón Piedrafita"
 summary: "Married layman in the archdiocese of Madrid, Spain. Member of the Association of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

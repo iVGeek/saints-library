@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julio Esteve Flors"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Julio Esteve Flors"
 summary: "One of nine children born to Vicente Esteve and Donna Josefa Flors, Julio was baptized at the age of one day. He joined the Capuchins on 15 September 1913, taking the name Buenaventura, and making his final profession on 18 September 1918. After studying at the Gregorian Universi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Julio-Esteve-Flors.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: true
 ---

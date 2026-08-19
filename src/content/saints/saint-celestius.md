@@ -1,7 +1,7 @@
 ---
 name: "Saint Celestius"
 honorific: Saint
-title: "Martyr"
+title: "Saint Celestius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Coelestius"
@@ -9,8 +9,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

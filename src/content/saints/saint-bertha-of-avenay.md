@@ -1,7 +1,7 @@
 ---
 name: "Saint Bertha of Avenay"
 honorific: Saint
-title: "Martyr, Virgin, Religious"
+title: "Saint Bertha of Avenay"
 summary: "Married to Saint Gundebert of Gumber. When Gundebert retired to a monastery in Ireland, Bertha became Benedictine nun. Founder and abbess of the convent at Avenay in the diocese of Châlons-sur-Marne, France. When a drought hit the region, a vision of Saint Peter the Apostle led h"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bertha-of-Avenay.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Religious
 religiousOrder: "Benedictine"

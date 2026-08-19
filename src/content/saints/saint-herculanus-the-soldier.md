@@ -1,7 +1,7 @@
 ---
 name: "Saint Herculanus the Soldier"
 honorific: Saint
-title: "Martyr, Monk, Pope, Soldier"
+title: "Saint Herculanus the Soldier"
 summary: "Second century imperial Roman soldier. Converted by Pope Saint Alexander I, and martyred soon after."
 region: "Italy"
 feastDay:
@@ -9,9 +9,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Soldier
 martyr: true
 ---

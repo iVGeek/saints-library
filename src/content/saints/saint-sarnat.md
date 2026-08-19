@@ -1,7 +1,7 @@
 ---
 name: "Saint Sarnat"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Sarnat"
 summary: "Daughter of Maelan. Nun. Abbess."
 born: "Irish"
 region: "Ireland"
@@ -10,9 +10,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Daughter of Maelan. Nun. Abbess.

@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Tarsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Tarsus"
 summary: "A group of 20 martyrs who were killed together during the persecutions of Diocletian."
 died: "martyred in Tarsus (in modern Turkey)"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

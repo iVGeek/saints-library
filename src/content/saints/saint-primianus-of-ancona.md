@@ -1,7 +1,7 @@
 ---
 name: "Saint Primianus of Ancona"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Primianus of Ancona"
 summary: "In 1376, a pious woman in Ancona, Italy, name Cecola, had a dream in which Saint Primianus appeared to her; he was dressed as a bishop and explained that he had been martyred for the faith over 1,000 years earlier, that his body had been taken from a pagan area to Ancona by sailo"
 searchAliases:
   - "Primiano"
@@ -15,7 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

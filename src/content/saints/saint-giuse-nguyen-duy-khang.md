@@ -1,7 +1,7 @@
 ---
 name: "Saint Giuse Nguyen Duy Khang"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Giuse Nguyen Duy Khang"
 summary: "Dominican tertiary. Catechist. Servant to Saint Jerome Hermosilla. Tried to help Saint Jerome escape from prison. Captured, he was lashed, tortured, and martyred in the persecutions of Tu-Duc."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giuse-Nguyen-Duy-Khang.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 12
   day: 6
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

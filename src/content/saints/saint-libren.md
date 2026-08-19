@@ -1,7 +1,7 @@
 ---
 name: "Saint Librén"
 honorific: Saint
-title: "Martyr"
+title: "Saint Librén"
 summary: "No certain information about this man has survived, but he is listed in very early martyrologies."
 deathYear: 610
 born: "latter 6th-century Ireland"
@@ -11,8 +11,7 @@ feastDay:
   month: 3
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

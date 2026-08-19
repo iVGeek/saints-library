@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martín Donamaría Valencia"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Martín Donamaría Valencia"
 summary: "Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Rosendo"
@@ -17,8 +17,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

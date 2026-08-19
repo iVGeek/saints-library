@@ -1,7 +1,7 @@
 ---
 name: "Saint Valéry of Leucone"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Valéry of Leucone"
 summary: "Monk at Luxeuil Abbey. Founded the monastery of Leuconay, France. The town of Saint-Valery-sur-Somme was named for him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Valery-of-Leucone.jpg"
 searchAliases:

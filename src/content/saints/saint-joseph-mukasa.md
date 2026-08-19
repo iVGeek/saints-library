@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Mukasa"
 honorific: Venerable
-title: "Martyr, Bishop, Pope, Royalty, Missionary"
+title: "Saint Joseph Mukasa"
 summary: "Kayozi clan. Major-domo to King Mwanga of Uganda, and captain of the king's pages. Convert, joining on 15 November 1885. Rebuked the 18 year old king for his dissolute lifestyle, his drinking, his advances to the male court pages, and the martyrdom of Anglican missionary bishop J"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda.jpg"
 searchAliases:
@@ -23,10 +23,7 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

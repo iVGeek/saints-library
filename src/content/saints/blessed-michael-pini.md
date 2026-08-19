@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michael Pini"
 honorific: Blessed
-title: "Priest, Hermit"
+title: "Blessed Michael Pini"
 summary: "Favored courtier to Lorenzo de' Medici. Camaldolese hermit in 1502. After his ordination, Michael was walled up in his hermitage where he spent his remaining twenty years. Had the gift of prophecy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-Pini.jpg"
 birthYear: 1445

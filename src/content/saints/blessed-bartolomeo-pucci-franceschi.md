@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartolomeo Pucci-Franceschi"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Bartolomeo Pucci-Franceschi"
 summary: "Born to the wealthy Tuscan nobility. Married and the father of four. Noted for his charity to the poor, especially in times of famine. In 1290, when his children were grown, Bartolomeo left his wealth and family to become a Franciscan friar at the convent of San Francisco in Mont"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeo-Pucci-Franceschi.jpg"
 deathYear: 1330
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

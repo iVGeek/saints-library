@@ -1,7 +1,7 @@
 ---
 name: "Saint István Pongrácz"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Soldier, Missionary"
+title: "Saint István Pongrácz"
 summary: "Jesuit priest. Missionary near Košice, Hungary (in modern Slovakia). Arrested by Calvinist troops in 1619, tortured and executed for loyalty to Catholicism. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-István-Pongrácz.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 8
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Soldier
   - Missionary
 religiousOrder: "Jesuit"

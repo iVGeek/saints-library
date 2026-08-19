@@ -1,7 +1,7 @@
 ---
 name: "Saint Rupert of Salzburg"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary, Confessor"
+title: "Saint Rupert of Salzburg"
 summary: "Relative of Saint Ermentrude. Benedictine. Bishop of Worms, Germany. Evangelist to southern Germany. In 696 Theodo, Duke of Bavaria, gave him the ruined town of Iuvavum, which Rupert rebuilt. There he founded the monastery of Saint Peter, serving as its first abbot, and a Benedic"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Rupert-Salzburg.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary
@@ -38,7 +37,7 @@ patronage:
   - "Klosterneuburg"
   - "Salzburg, city of"
   - "Salzburg, province of"
-martyr: true
+martyr: false
 ---
 
 Relative of Saint Ermentrude. Benedictine. Bishop of Worms, Germany. Evangelist to southern Germany. In 696 Theodo, Duke of Bavaria, gave him the ruined town of Iuvavum, which Rupert rebuilt. There he founded the monastery of Saint Peter, serving as its first abbot, and a Benedictine convent. Worked with Saint Chuniald, Saint Vitalis of Salzburg, and Saint Gislar. To support the houses and his missionary work, he promoted the mining of salt, which led to the renaming of the place as Salzburg (salt mountain). Bishop of Salzburg. Considered a confessor of the faith.

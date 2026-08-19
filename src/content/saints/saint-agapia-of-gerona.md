@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapia of Gerona"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agapia of Gerona"
 summary: "Martyr. No other details have survived."
 searchAliases:
   - "Appia"
@@ -13,7 +13,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

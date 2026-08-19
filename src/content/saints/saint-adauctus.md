@@ -1,7 +1,7 @@
 ---
 name: "Saint Adauctus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Adauctus"
 summary: "Layman. Father of Saint Callisthene. Martyred in the persecutions of Emperor Maximinus."
 deathYear: 312
 born: "at Ephesus"
@@ -12,7 +12,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

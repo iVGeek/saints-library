@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Mases Boncompte"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jaume Mases Boncompte"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Lambert Carles"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 16
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

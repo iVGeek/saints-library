@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Serrano Pastor"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed José Serrano Pastor"
 summary: "Member of the Claretians, professed on 15 August 1915. Ordained a priest on 25 May 1923. Martyred in the Spanish Civil War."
 birthYear: 1899
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

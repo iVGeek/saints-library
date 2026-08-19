@@ -1,7 +1,7 @@
 ---
 name: "Saint Fiorenzo of Algeria"
 honorific: Saint
-title: "Martyr, Bishop, Royalty"
+title: "Saint Fiorenzo of Algeria"
 summary: "Fifth century bishop in north Africa. Leader of a Council called to express clear defense of the Catholic faith during a period of pagan resurgence and Arian heresy. Envoy from the Council to emperor Honorius and emperor Theodosius. Exiled to the Mediterranean island of Corsica i"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fiorenzo-of-Algeria.jpg"
 deathYear: 485
@@ -12,9 +12,7 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
 martyr: true
 ---
 

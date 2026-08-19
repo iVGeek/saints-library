@@ -1,7 +1,7 @@
 ---
 name: "Saint Success of Carthage"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Success of Carthage"
 summary: "Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius."
 deathYear: 259
 died: "259 in Carthage, North Africa (modern Tunis, Tunisia)"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

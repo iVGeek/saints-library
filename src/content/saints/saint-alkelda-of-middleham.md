@@ -1,7 +1,7 @@
 ---
 name: "Saint Alkelda of Middleham"
 honorific: Saint
-title: "Martyr, Monk, Religious, Royalty"
+title: "Saint Alkelda of Middleham"
 summary: "Saxon princess. Nun. Martyred by Viking raiders. A holy well near her place of death is reported to have healing properties."
 searchAliases:
   - "Alkeld"
@@ -15,10 +15,8 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-  - Royalty
 patronage:
   - "Yorkshire, England"
 martyr: true

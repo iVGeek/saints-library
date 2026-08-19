@@ -26,7 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Bishop
-  - Doctor
 religiousOrder: Benedictine
 patronage:
   - religious-life

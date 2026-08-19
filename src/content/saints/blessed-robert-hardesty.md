@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Hardesty"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Robert Hardesty"
 summary: "Layman, martyred for the crime of hiding and supporting the work of Blessed William Spenser."
 deathYear: 1589
 born: "Yorkshire, England"
@@ -13,9 +13,7 @@ feastDay:
   month: 9
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

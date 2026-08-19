@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignatius Choe In-cheol"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ignatius Choe In-cheol"
 summary: "Brother of Blessed Matthias Choe In-gil. Layman convert and martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 deathYear: 1801
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

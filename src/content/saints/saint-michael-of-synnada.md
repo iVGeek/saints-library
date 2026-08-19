@@ -1,7 +1,7 @@
 ---
 name: "Saint Michael of Synnada"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Michael of Synnada"
 summary: "Moved to Constantinople as a young man where he became a student of Saint Tarasius of Constantinople. Friend of Saint Theophylact of Nicomedia. Monk in a monastery on the Bosporus. Recalled to Constantinople by student of Saint Tarasius who ordained him. Bishop of Synnada, Phrygi"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Rila_Mon._-_Fresco_mir._icon_026_Michael_of_Synnada.jpg"
 searchAliases:
@@ -16,12 +16,10 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Moved to Constantinople as a young man where he became a student of Saint Tarasius of Constantinople. Friend of Saint Theophylact of Nicomedia. Monk in a monastery on the Bosporus. Recalled to Constantinople by student of Saint Tarasius who ordained him. Bishop of Synnada, Phrygia (in modern Turkey) in 787. Part of the Second Council of Nicaea in 787. Imperial diplomat to caliph Harun al-Rashid in 806, to Pope Saint Leo III in 811, and Blessed Charlemagne in 812. Exiled in 814 and imprisoned in 815 by emperor Leo V for defending the use of icons.

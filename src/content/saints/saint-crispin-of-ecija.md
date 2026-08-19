@@ -1,7 +1,7 @@
 ---
 name: "Saint Crispin of Ecija"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Crispin of Ecija"
 summary: "Fourth century bishop of Ecija, Andalusia, Spain. Martyred in the persecutions of Maximian Herculeus. Has a special office in the old Mozarabic Breviary and Missal."
 died: "beheaded in the early 4th century in Ecija, Andalusia, Spain"
 deathPlace: "Andalusia, Spain"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

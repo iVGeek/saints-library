@@ -1,7 +1,7 @@
 ---
 name: "Saint Evetius of Nicomedia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Evetius of Nicomedia"
 summary: "When a copy of Diocletian's edict against Christianity was posted in public, Evetius vandalized it. Martyr."
 searchAliases:
   - "Euhetis"
@@ -15,8 +15,7 @@ feastDay:
   month: 2
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

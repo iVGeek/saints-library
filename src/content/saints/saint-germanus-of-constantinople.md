@@ -1,7 +1,7 @@
 ---
 name: "Saint Germanus of Constantinople"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope"
+title: "Saint Germanus of Constantinople"
 summary: "Son of a Senator Justinian of Constantinople. Priest. Bishop of Cyzicus. Attended the Synod of Constantinople in 712, and may have briefly agreed to the teaching of the Monothelite heresy supported by the emperor. Patriarch of Constantinople in 715. Opposed the Monothelites and t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Germanus-of-Constantinople-2.jpg"
 searchAliases:
@@ -16,12 +16,10 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Son of a Senator Justinian of Constantinople. Priest. Bishop of Cyzicus. Attended the Synod of Constantinople in 712, and may have briefly agreed to the teaching of the Monothelite heresy supported by the emperor. Patriarch of Constantinople in 715. Opposed the Monothelites and then the iconoclasts and their mentor, emperor Leo the Isaurian. Forced to resign his position in 730 and sent into exile. Several of his writings, including homilies and hymns, have survived.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodotus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodotus"
 summary: "Martyr."
 died: "beheaded"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

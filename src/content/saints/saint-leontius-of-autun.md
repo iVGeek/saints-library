@@ -1,7 +1,7 @@
 ---
 name: "Saint Leontius of Autun"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Leontius of Autun"
 summary: "Fifth century bishop of Autun (Augustodunum), Gaul (in modern France)."
 searchAliases:
   - "Legontius"
@@ -16,9 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Fifth century bishop of Autun (Augustodunum), Gaul (in modern France).

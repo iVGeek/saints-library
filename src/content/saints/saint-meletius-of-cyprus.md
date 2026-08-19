@@ -1,7 +1,7 @@
 ---
 name: "Saint Meletius of Cyprus"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Meletius of Cyprus"
 summary: "Bishop in Cyprus. Martyr. No other information has survied."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

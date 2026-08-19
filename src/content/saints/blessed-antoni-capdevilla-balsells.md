@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Capdevilla Balsells"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antoni Capdevilla Balsells"
 summary: "Claretian brother. Martyred in the Spanish Civil War."
 birthYear: 1894
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

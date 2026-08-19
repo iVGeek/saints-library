@@ -1,7 +1,7 @@
 ---
 name: "Blessed Irmengard"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Irmengard"
 summary: "Princess, one of eight children of King Louis the German and Hemma. Great-granddaughter of Charlemagne. Benedictine nun. Abbess of a house in Buchau, Germany. Abbess of a house in Chiemsee, Germany in 857."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Irmengard.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against infertility"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Zhang Huan"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Zhang Huan"
 summary: "Seminarian in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Ruowang"
@@ -13,9 +13,7 @@ feastDay:
   month: 7
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Sentianum"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Felix of Sentianum"
 summary: "Martyred in the persecutions of Maximian Herculeaus."
 deathYear: 303
 died: "c.303 at Sentianum, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

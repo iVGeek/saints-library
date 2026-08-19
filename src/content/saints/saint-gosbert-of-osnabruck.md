@@ -1,7 +1,7 @@
 ---
 name: "Saint Gosbert of Osnabruck"
 honorific: Saint
-title: "Bishop, Missionary"
+title: "Saint Gosbert of Osnabruck"
 summary: "Spiritual student of Saint Anskar. Worked as a missionary with Saint Nithard. Bishop of Osnabruck, Germany from where he supported more missionary work in Sweden."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gosbert-of-Osnabruck.jpg"
 searchAliases:

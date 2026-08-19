@@ -1,7 +1,7 @@
 ---
 name: "Saint Donata of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Donata of Africa"
 summary: "Martyr."
 died: "in Africa, date and location unknown"
 deathPlace: "date and location unknown"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

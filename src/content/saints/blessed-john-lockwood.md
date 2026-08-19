@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Lockwood"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Lockwood"
 summary: "Studied for the priesthood in Rome, Italy during the persecution of Catholics in England. Ordained in 1597. Worked covertly in England until his arrest in 1642. Martyr."
 searchAliases:
   - "John Lascellas"
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Abraham of Kratia"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Abraham of Kratia"
 summary: "Monk in at Emesa (modern Hims, Syria). His community was destroyed and the brothers dispersed by pagan nomad raids when Abraham was in his early 20's. He moved to Constantinople (modern Istanbul, Turkey) where c.500 he was made abbot at Gratia, Bithynia at age 26. He served for t"
 birthYear: 474
 deathYear: 558

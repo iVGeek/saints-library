@@ -1,7 +1,7 @@
 ---
 name: "Blessed Barbara of Bavaria"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Barbara of Bavaria"
 summary: "Born to the nobility, the daughter of Duke Albert of Bavaria (in modern Germany). She became a Poor Clare nun in Munich, Germany."
 deathYear: 1473
 born: "15th century Bavaria (in modern Germany)"

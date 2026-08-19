@@ -1,7 +1,7 @@
 ---
 name: "Saint Amandus of Worms"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Amandus of Worms"
 summary: "Fourth century bishop of Worms, Germany."
 region: "Germany"
 feastDay:

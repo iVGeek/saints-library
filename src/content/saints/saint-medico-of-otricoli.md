@@ -1,7 +1,7 @@
 ---
 name: "Saint Medico of Otricoli"
 honorific: Saint
-title: "Martyr"
+title: "Saint Medico of Otricoli"
 summary: "Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Medico-of-Otricoli.jpg"
 searchAliases:
@@ -11,8 +11,7 @@ feastDay:
   month: 6
   day: 26
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

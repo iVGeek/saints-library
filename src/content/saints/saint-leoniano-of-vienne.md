@@ -1,7 +1,7 @@
 ---
 name: "Saint Leoniano of Vienne"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Leoniano of Vienne"
 summary: "Captured by barbarians and dragged from Pannonia to Autun, France. When he achieved freedom, he became a monk then abbot there. Abbot in Vienne, France where he led a large group of monks and nuns for over 40 years."
 searchAliases:
   - "Leonine"

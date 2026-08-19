@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Farriol Sabaté"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Joan Farriol Sabaté"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1868
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

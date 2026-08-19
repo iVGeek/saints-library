@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacinto Gutiérrez Terciado"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Jacinto Gutiérrez Terciado"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Diego of Guadilla"
@@ -17,9 +17,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie de la Dive veuve du Verdier de la Sorinière"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marie de la Dive veuve du Verdier de la Sorinière"
 summary: "Married lay woman of the diocese of Angers, France. Widow. Martyred in the persecutions of the French Revolution."
 birthYear: 1723
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 1
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

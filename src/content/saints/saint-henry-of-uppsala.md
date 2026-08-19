@@ -1,7 +1,7 @@
 ---
 name: "Saint Henry of Uppsala"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Cardinal, Royalty, Soldier"
+title: "Saint Henry of Uppsala"
 summary: "While working in Rome, Italy, Henry was sent to evangelize Scandinavia, travelling with papal legate Cardinal Nicholas Breakspear, the future Pope Adrian IV. Bishop of Uppsala in 1148. Evangelized Sweden and Norway. Friend of King Saint Eric of Sweden, and accompanied him into ba"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Henry-of-Uppsala.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:

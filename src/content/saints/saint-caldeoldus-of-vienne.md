@@ -1,7 +1,7 @@
 ---
 name: "Saint Caldeoldus of Vienne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Caldeoldus of Vienne"
 summary: "Archbishop of Vienne, France from 653 to 664. Promoted monasticism in his diocese."
 searchAliases:
   - "Cadeold"

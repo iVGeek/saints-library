@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedict of Szkalka"
 honorific: Saint
-title: "Monk, Pope, Hermit, Royalty"
+title: "Saint Benedict of Szkalka"
 summary: "Benedictine monk at the Saint Hippolyte monastery on Mount Zobor outside Nitra in modern Slovakia, taking the name Benedict. Spiritual student of Saint Andrew Zorard. With his abbot's permission, Benedict withdrew from communal life to live nearby as a hermit. Noted for his ascet"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Szkalka.jpg"
 deathYear: 1012
@@ -15,9 +15,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "diocese of Tarnów, Poland"

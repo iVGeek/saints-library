@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sancha of Majorca"
 honorific: Blessed
-title: "Religious, Royalty"
+title: "Blessed Sancha of Majorca"
 summary: "Born a princess, the daughter of King James II of Majorca and Queen Esclaramunda de Foix. She married Robert of Anjou on 21 June 1304; they had no children. She became queen of Naples on 5 May 1309 when Robert inherited the crown, and built the Saint Clare convent there. Widowed"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Sancha-of-Majorca.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

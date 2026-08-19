@@ -1,7 +1,7 @@
 ---
 name: "Saint Magdalveus of Verdun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Magdalveus of Verdun"
 summary: "Benedictine Monk at Saint Vannes. Bishop of Verdun, France c.736."
 searchAliases:
   - "Madalveus"

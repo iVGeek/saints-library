@@ -1,7 +1,7 @@
 ---
 name: "Saint Amatus of Nusco"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Amatus of Nusco"
 summary: "Born to a wealthy family. First bishop of Nusco, Italy in 1048. He restored and built churches, and helped found the Benedictine monastery of Santa Maria in nearby Fondigliano, Italy, a house that lasted 400 years."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sant%27Amato_da_Nusco.jpg/960px-Sant%27Amato_da_Nusco.jpg"
 searchAliases:

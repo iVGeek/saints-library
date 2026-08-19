@@ -1,7 +1,7 @@
 ---
 name: "Saint Cremete"
 honorific: Saint
-title: "Monk, Hermit, Royalty"
+title: "Saint Cremete"
 summary: "Hermit in an ruined hermitage between Mount Etna and the Placa Forest during a period when Sicily was under Saracen domination. When the island returned to Christian control in the late 11th century, Cremete got support from Prince Ruggero I to rebuild and re-staff a ruined monas"
 searchAliases:
   - "Clemente"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

@@ -26,7 +26,6 @@ liturgicalRank: Memorial
 canonizationStatus: Saint
 vocation:
   - Virgin
-  - Martyr
 patronage:
   - eyesight
   - chastity
@@ -39,7 +38,7 @@ symbols:
   - Lamp or candle
   - Palm of martyrdom
   - Sword
-martyr: true
+martyr: false
 lifeEvents:
   - year: "c. 283"
     event: Born at Syracuse in Sicily, of a noble and devout Christian family.

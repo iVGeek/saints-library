@@ -1,7 +1,7 @@
 ---
 name: "Saint Salvinus of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Salvinus of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Salvino"
@@ -13,10 +13,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Verona, Italy.

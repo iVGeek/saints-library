@@ -1,7 +1,7 @@
 ---
 name: "Saint Eugene of Toledo"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Eugene of Toledo"
 summary: "Third century missionary who worked with Saint Dionysius of Paris. Martyr."
 searchAliases:
   - "Eugenius"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henri-Hippolyte Ermès"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Henri-Hippolyte Ermès"
 summary: "Studied under the Sulpicians. Awarded a degree in literature in 1775. Ordained in the archdiocese of Paris, France in 1776. Taught philosophy for two years at the seminary of Saint Irenaeus in Lyons, France. Wrote several short works against priests taking the oath of allegience"
 birthYear: 1752
 deathYear: 1792
@@ -15,10 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

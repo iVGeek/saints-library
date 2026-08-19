@@ -1,7 +1,7 @@
 ---
 name: "Saint Torquatus of Guadix"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Torquatus of Guadix"
 summary: "First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Bishop of Guadix."
 searchAliases:
   - "Torquato"
@@ -12,13 +12,12 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 religiousOrder: "Jesuit"
 patronage:
   - "Guadix, Spain"
-martyr: true
+martyr: false
 ---
 
 First century spiritual student of the Apostles. One of the first group of missionaries to Spain. Bishop of Guadix.

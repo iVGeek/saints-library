@@ -1,7 +1,7 @@
 ---
 name: "Blessed John de Montmirail"
 honorific: Blessed
-title: "Priest, Monk, Pope, Royalty, Soldier"
+title: "Blessed John de Montmirail"
 summary: "French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by his mother, and secular science by his schools. Soldier. Friend of Philip Augustus, later King of France. Married to Helvide de Dampierre, and father of several chi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-de-Montmirail.jpg"
 searchAliases:
@@ -17,8 +17,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
   - Soldier
 martyr: false
 ---

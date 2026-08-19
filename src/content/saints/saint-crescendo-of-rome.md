@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescendo of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crescendo of Rome"
 summary: "Martyr."
 searchAliases:
   - "Crescentio"
@@ -13,7 +13,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

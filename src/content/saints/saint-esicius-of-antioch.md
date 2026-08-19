@@ -1,7 +1,7 @@
 ---
 name: "Saint Esicius of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Esicius of Antioch"
 summary: "Martyr."
 searchAliases:
   - "Isicius"
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

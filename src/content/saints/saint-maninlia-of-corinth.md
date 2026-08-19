@@ -1,7 +1,7 @@
 ---
 name: "Saint Maninlia of Corinth"
 honorific: Saint
-title: "Martyr"
+title: "Saint Maninlia of Corinth"
 summary: "Martyr."
 searchAliases:
   - "Marnintia"
@@ -12,8 +12,7 @@ feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

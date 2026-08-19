@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonavita of Lugo"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Bonavita of Lugo"
 summary: "Layman blacksmith, wheelwright and locksmith. Franciscan tertiary. Known for his deep prayer life and charitable works."
 searchAliases:
   - "Bonavita the Blacskmith"
@@ -13,8 +13,7 @@ feastDay:
   month: 3
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

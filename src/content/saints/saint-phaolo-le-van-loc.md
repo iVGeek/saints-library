@@ -1,7 +1,7 @@
 ---
 name: "Saint Phaolô Lê Van Loc"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Phaolô Lê Van Loc"
 summary: "Priest in the apostolic vicariate of West Cochinchina (modern Vietnam). Martyred in the persecutions of emperor Tu Ðuc."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

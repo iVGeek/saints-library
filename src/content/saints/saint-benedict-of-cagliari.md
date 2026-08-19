@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedict of Cagliari"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Benedict of Cagliari"
 summary: "Benedictine monk at Cagliari, Sardinia. Bishop of Dolia, Sardinia for five years. Shortly before his death he resigned his see, and spent his last days as a prayerful recluse at the basilica abbey."
 searchAliases:
   - "Benedict of Dolia"

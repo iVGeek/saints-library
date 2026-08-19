@@ -1,7 +1,7 @@
 ---
 name: "Saint Maelmuire O'Gorman"
 honorific: Saint
-title: "Monk"
+title: "Saint Maelmuire O'Gorman"
 summary: "Abbot of Knock, Louth, Ireland. Noted as a poet."
 searchAliases:
   - "Marianus O'Gorman"

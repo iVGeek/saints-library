@@ -1,7 +1,7 @@
 ---
 name: "Saint Exuperius of Ravenna"
 honorific: Saint
-title: "Bishop, Royalty"
+title: "Saint Exuperius of Ravenna"
 summary: "Bishop of Ravenna, Italy. He ruled his diocese in the period when Flavius Odoacer became king of Italy, which marked the end of the western Roman Empire."
 searchAliases:
   - "Exuperyus"
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Nundinus of Rome"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Nundinus of Rome"
 summary: "One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

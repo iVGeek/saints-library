@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cecilia Eusepi"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Cecilia Eusepi"
 summary: "Youngest of eleven children, Cecilia was baptized at the age of 9 days, and her father died when she was 2 months old. On 6 January 1915 the family moved to a small farm near Nepi, Italy, and came under the care of a maternal uncle. Cecilia received Confirmation on 27 May 1917, a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cecilia_Eusepi.jpg/960px-Cecilia_Eusepi.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Missionary
 martyr: false

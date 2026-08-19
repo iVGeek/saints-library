@@ -1,7 +1,7 @@
 ---
 name: "Saint Melitus of Pontus"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Melitus of Pontus"
 summary: "Late 3rd-century bishop in Pontus (in modern Turkey); known as an eloquent speaker. He was frequently abused for his faith during the persecutions of Diocletian, but there are no records of him being a martyr."
 searchAliases:
   - "Meletus"
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

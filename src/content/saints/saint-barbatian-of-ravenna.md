@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbatian of Ravenna"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Barbatian of Ravenna"
 summary: "Fifth century priest at Antioch (in modern Turkey). While in Rome, Italy on a mission he was befriended by Empress Placidia Augusta who built a monastery for him at nearby Ravenna, Italy. He worked there are superior, and as a counselor to the throne."
 searchAliases:
   - "Barbaziano"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

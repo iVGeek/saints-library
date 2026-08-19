@@ -1,7 +1,7 @@
 ---
 name: "Saint Witesindo of Cordoba"
 honorific: Saint
-title: "Martyr"
+title: "Saint Witesindo of Cordoba"
 summary: "The only information about the man's personal life to come down to us is that to save himself from the persecution of the Muslim Moor conquerors of Spain, Witesindo renounced his Christianity in public, but continued to practice it in private. One day he was moved to publicly ann"
 searchAliases:
   - "Vitesindo"
@@ -13,8 +13,7 @@ feastDay:
   month: 5
   day: 15
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

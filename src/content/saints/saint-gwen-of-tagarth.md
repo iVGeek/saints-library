@@ -1,7 +1,7 @@
 ---
 name: "Saint Gwen of Tagarth"
 honorific: Saint
-title: "Martyr, Royalty"
+title: "Saint Gwen of Tagarth"
 summary: "Daughter of Saint Brychan of Brycheiniog. Married lay woman. Widow. Evangelized northern Wales. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gwen-of-Tagarth.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   month: 10
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Royalty
+vocation: []
 martyr: true
 ---
 

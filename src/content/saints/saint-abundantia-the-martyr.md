@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundantia the Martyr"
 honorific: Saint
-title: "Martyr"
+title: "Saint Abundantia the Martyr"
 summary: "Widow of Spoleto, Italy. Gave Christian burial to martyrs in the area, including Saint Gregory of Spoleto. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/gallery/saint-abundantia-the-martyr/santa-abbondanza-di-spoleto.jpg"
 searchAliases:
@@ -16,8 +16,7 @@ feastDay:
   month: 1
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

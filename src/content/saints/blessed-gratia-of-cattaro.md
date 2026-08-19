@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gratia of Cattaro"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Gratia of Cattaro"
 summary: "Son of a poor fisherman. Adriatic fisherman and farmer in his youth. Sailor. In 1468, while on a trip to Venice, Italy he heard a sermon by Blessed Simon of Camerino; he was so moved that he gave up his worldly life and became an Augustinian lay brother at the monastery of Monte"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-gratia-of-cattaro/blessed-gratia-of-cattaro.jpg"
 searchAliases:
@@ -20,8 +20,7 @@ feastDay:
   month: 11
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: false
 ---

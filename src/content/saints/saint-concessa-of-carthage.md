@@ -1,7 +1,7 @@
 ---
 name: "Saint Concessa of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Concessa of Carthage"
 summary: "Martyr venerated in Carthage, North Africa."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

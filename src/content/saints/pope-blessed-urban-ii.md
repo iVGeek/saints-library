@@ -1,7 +1,7 @@
 ---
 name: "Pope Blessed Urban II"
 honorific: Blessed
-title: "Bishop, Monk, Pope, Cardinal, Royalty"
+title: "Pope Blessed Urban II"
 summary: "Studied at Rheims, France. Monk and prior at Cluny. Assistant to Pope Saint Gregory VII, and helped in his reforms. Bishop of Ostia, Italy. Cardinal. Papal legate to Germany. As pope, he continued the reforms in the face of opposition by Holy Roman Emperor Henry IV and his anti-p"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Urbano_II_in_consacrazione_de_l%27altare_del_monastero_di_Cluny_%28detail%29_%28crop%29.png"
 searchAliases:
@@ -22,9 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

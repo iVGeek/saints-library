@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicenta Jordá Martí"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Vicenta Jordá Martí"
 summary: "Nun in the Order of Minim Nuns in the Archdiocese of Barcelona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicenta-Jordá-Martí.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

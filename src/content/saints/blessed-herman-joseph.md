@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herman Joseph"
 honorific: Blessed
-title: "Confessor"
+title: "Blessed Herman Joseph"
 summary: "Son of Saint Hildegund. Had a great devotion to Mary from an early age, and as a child would spend his free time in prayer at the nearby church of Saint Mary. Mystic whose otherwordly experiences made him famous throughout the areas of modern Germany. Premonstratensian monk at St"
 image: "http://catholicsaints.info/wp-content/uploads/Joseph-Hermann.jpg"
 searchAliases:

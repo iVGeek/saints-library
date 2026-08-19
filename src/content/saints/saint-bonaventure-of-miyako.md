@@ -1,7 +1,7 @@
 ---
 name: "Saint Bonaventure of Miyako"
 honorific: Saint
-title: "Martyr, Pope, Royalty"
+title: "Saint Bonaventure of Miyako"
 summary: "Baptized as an infant, his mother died when he was a baby, and his step-mother sent him to be raised in a Buddhist monastery. When he was judged old enough, he was told about his background. To learn more, he visited the Franciscan convent at Kyoto. There he found a peace he had"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Camillus Costanzo"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Blessed Camillus Costanzo"
 summary: "Jesuit priest. Missionary to Japan. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Costanzo_Camillus_1.jpg/960px-Costanzo_Camillus_1.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

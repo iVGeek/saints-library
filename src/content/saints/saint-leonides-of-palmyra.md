@@ -1,7 +1,7 @@
 ---
 name: "Saint Leonides of Palmyra"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Leonides of Palmyra"
 summary: "Sister of Saint Libya of Palmyra. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Leonis"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

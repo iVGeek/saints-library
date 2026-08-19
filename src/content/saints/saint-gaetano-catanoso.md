@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaetano Catanoso"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Saint Gaetano Catanoso"
 summary: "Born to a wealthy, pious family. Ordained on 20 September 1902, he served as a parish priest. Established a Confraternity of the Holy Face in his parish, which spread through a newsletter launched in 1920. Founded the Poor Clerics to encourage priestly vocations. Transferred to S"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Catanoso.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "Reggio Calabria, Italy (given on 10 March 2010)"

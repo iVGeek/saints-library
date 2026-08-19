@@ -1,7 +1,7 @@
 ---
 name: "Saint David Lewis"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint David Lewis"
 summary: "His mother, Margaret Prichard, was Catholic, but his father, Morgan Lewis, was a Protestant school headmaster; David, the youngest of nine children, was raised Protestant. He was reconciled to Catholicism in Paris, France at age 16. Studied at the English College in Rome, Italy f"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-Lewis.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 27
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

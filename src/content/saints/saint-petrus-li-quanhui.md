@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Li Quanhui"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Li Quanhui"
 summary: "Married layman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 30
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

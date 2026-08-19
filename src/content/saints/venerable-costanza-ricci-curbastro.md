@@ -1,7 +1,7 @@
 ---
 name: "Venerable Costanza Ricci Curbastro"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Costanza Ricci Curbastro"
 summary: "Born to the Italian nobility, a family noted for their charity to the poor. Sister at the monastery of Corpus Domini of Forlì, Italy. In 1888 she left the Sisters to devote herself to the care of impoverished, marginalized girls. Founded the Congregation of the Handmaids of the S"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Costanza-Ricci-Curbastro.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

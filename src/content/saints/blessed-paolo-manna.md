@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paolo Manna"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Missionary"
+title: "Blessed Paolo Manna"
 summary: " Missionary to Toungoo, East Fifth of six children. Educated at Avellino and Naples in Italy. Studied philosophy at the Gregorian University in Rome, Italy. Seminarian at the Theology Seminary of the Institute for Foreign Missions at Milan, Italy. Ordained on 19 May 1894 at Milan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Manna.jpg"
 birthYear: 1872
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Missionary
 martyr: false
 ---

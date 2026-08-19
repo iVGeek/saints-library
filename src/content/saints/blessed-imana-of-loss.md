@@ -1,7 +1,7 @@
 ---
 name: "Blessed Imana of Loss"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Imana of Loss"
 summary: "Cistercian Benedictine nun. Abbess at Salzinnes, Namur, France. Abbess at Flines, diocese of Cambrai, France."
 searchAliases:
   - "Himmanna"

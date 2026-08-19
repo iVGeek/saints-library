@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafael Contreras Leva"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Rafael Contreras Leva"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Baena community. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

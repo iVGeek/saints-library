@@ -1,7 +1,7 @@
 ---
 name: "Saint Seraphia the Martyr"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Royalty"
+title: "Saint Seraphia the Martyr"
 summary: "When Seraphia was very young, her family fled from Syria to Italy to escape the persecutions of Hadrian. Orphaned as a young woman, she had many offers of marriage, but was drawn to a religious life; she sold all her possessions, gave the money to the poor, and then sold herself"
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-seraphia-virgin-and-martyr.jpg"
 searchAliases:
@@ -15,10 +15,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
-  - Royalty
 martyr: true
 ---
 

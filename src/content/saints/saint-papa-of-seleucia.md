@@ -1,7 +1,7 @@
 ---
 name: "Saint Papa of Seleucia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Papa of Seleucia"
 summary: "Martyr."
 searchAliases:
   - "Papa of Lycaonia"
@@ -16,7 +16,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

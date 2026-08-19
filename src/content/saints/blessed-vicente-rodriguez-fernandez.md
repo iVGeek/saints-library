@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Rodríguez Fernández"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vicente Rodríguez Fernández"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1897
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

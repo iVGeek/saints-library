@@ -1,7 +1,7 @@
 ---
 name: "Saint Hypatius of Chalcedon"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Hypatius of Chalcedon"
 summary: "Monk. Following a vision, he became a hermit at age 19 in Thrace, then Constantinople, and then Chalcedon, Bithynia with a friend and fellow hermit named Jason. Abbot at Chalcedon. Fierce opponent of Nestorianism. Sheltered Saint Alexander Akimetes and others at his hermitage nea"
 searchAliases:
   - "Hypatius of Bithynia"

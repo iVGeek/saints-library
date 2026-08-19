@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Vidal Sanuy"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francesc Vidal Sanuy"
 summary: "Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War."
 birthYear: 1867
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Rocco Giocondo Pasquale Spoletini"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Rocco Giocondo Pasquale Spoletini"
 summary: "Born to a peasant family. Attracted to Franciscan spirituality, in 1888, at age 18, Rocco joined the Order of Friars Minor, taking the name Fra Giuseppe; he made his solemn profession on 13 March 1892. Ordained a priest in Palestrina, Italy on 22 September 1894. He served in the"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Rocco-Giocondo-Pasquale-Spoletini.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Carbonell Miquel"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Tomás Carbonell Miquel"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Carbonell-Miquel.jpg"
 birthYear: 1888
@@ -16,9 +16,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

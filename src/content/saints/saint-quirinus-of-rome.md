@@ -1,7 +1,7 @@
 ---
 name: "Saint Quirinus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quirinus of Rome"
 summary: "Friend of Saint Marius and Saint Martha. Martyred in the persecutions of Claudius II."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Quirinus-of-Rome-1.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

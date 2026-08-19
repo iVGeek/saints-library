@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcella of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Marcella of Rome"
 summary: "Wealthy married imperial Roman noble woman. Widowed young after only seven months of marriage. Declined a wedding proposal from the consul Cerealis. Organized a group of religious women at her mansion on the Aventine Hill, one of which was Saint Lea of Rome. They were under the s"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marcella_of_Rome.jpg"
 birthYear: 325
@@ -16,7 +16,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

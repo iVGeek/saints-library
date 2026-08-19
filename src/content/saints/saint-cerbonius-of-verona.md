@@ -1,7 +1,7 @@
 ---
 name: "Saint Cerbonius  of Verona"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cerbonius  of Verona"
 summary: "Bishop of Verona, Italy."
 searchAliases:
   - "Cerbonio"

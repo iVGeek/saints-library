@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ruperto García Arce"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ruperto García Arce"
 searchAliases:
   - "Brother Florencio Miguel"
 birthYear: 1908
@@ -15,8 +15,6 @@ feastDay:
   month: 7
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-martyr: true
+vocation: []
+martyr: false
 ---

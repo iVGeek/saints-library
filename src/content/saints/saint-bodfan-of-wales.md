@@ -1,7 +1,7 @@
 ---
 name: "Saint Bodfan of Wales"
 honorific: Saint
-title: "Monk"
+title: "Saint Bodfan of Wales"
 summary: "Seventh century monk at Beaumaris, Wales."
 searchAliases:
   - "Bobouan"

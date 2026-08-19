@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jordan of Pisa"
 honorific: Blessed
-title: "Priest, Pope, Confessor"
+title: "Blessed Jordan of Pisa"
 summary: "Joined the Dominicans at Pisa, Italy in 1280. Educated at the University of Paris, France. Lector at Sainta Maria Novella church in Florence, Italy in 1305. Noted preacher in and around Florence. Founded the Confraternity of the Holy Redeemer at Pisa. Professor of theology at Sai"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pantheologia%2C_ms_van_Kruisherenklooster_Maastricht_1470_%28UB_Groningen%2C_ms._18%29_-_1.jpg/960px-Pantheologia%2C_ms_van_Kruisherenklooster_Maastricht_1470_%28UB_Groningen%2C_ms._18%29_-_1.jpg"
 birthYear: 1255
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

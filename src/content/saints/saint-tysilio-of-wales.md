@@ -1,7 +1,7 @@
 ---
 name: "Saint Tysilio of Wales"
 honorific: Saint
-title: "Monk, Royalty"
+title: "Saint Tysilio of Wales"
 summary: "Born to the Welsh royalty, the son of prince Brochwel Ysgythrog. Monk, and then abbot in Meifod, Montgomeryshire, Wales. The nearby town of Llandysilio, Wales is named for him. He founded several churches throughout Wales. May have moved to Brittany, but records are unclear."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tysilio-of-Wales.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Royalty
 martyr: false
 ---
 

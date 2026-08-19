@@ -1,7 +1,7 @@
 ---
 name: "Saint Rose Venerini"
 honorific: Venerable
-title: "Virgin, Priest, Religious, Pope, Cardinal"
+title: "Saint Rose Venerini"
 summary: " She invited neighbourhood women to pray the rosary in her home, and formed a sort of s Daughter of Godfrey Venerini, physician in Viterbo, Italy. Following the death of her fiance, she entered a convent; following the death of her father, she returned home to care for her mother."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rosa_Venerini.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Saint Filatus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Filatus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Philatus"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

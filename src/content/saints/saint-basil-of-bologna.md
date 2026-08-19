@@ -1,7 +1,7 @@
 ---
 name: "Saint Basil of Bologna"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope"
+title: "Saint Basil of Bologna"
 summary: "Priest. Bishop of Bologna, Italy for twenty years in the 4th century, appointed by Pope Saint Sylvester."
 deathYear: 335
 died: "335 of natural causes"
@@ -14,7 +14,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 martyr: false
 ---
 

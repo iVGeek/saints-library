@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Prats Gibert"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Joan Prats Gibert"
 summary: "Member of the Claretians, professed on 15 August 1921. Ordained a priest on 22 December 1928. Martyred in the Spanish Civil War."
 birthYear: 1903
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

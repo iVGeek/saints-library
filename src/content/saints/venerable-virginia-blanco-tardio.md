@@ -1,7 +1,7 @@
 ---
 name: "Venerable Virginia Blanco Tardío"
 honorific: Venerable
-title: "Virgin, Religious, Pope"
+title: "Venerable Virginia Blanco Tardío"
 summary: "Second of four daughters of Louis Pius White Unzueta and Daria Late Quiroga. Taught catechism to children in her parish. Earned a Bachelor of Humanities at the College of the Handmaids of the Sacred Heart of Jesus; Professor of Catechetics at age 32 with a deep knowledge of the B"
 birthYear: 1916
 deathYear: 1990
@@ -17,7 +17,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
-  - Pope
 martyr: false
 ---
 

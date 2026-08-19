@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Tuscany"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint John of Tuscany"
 summary: "Martyred with Saint Festus. Honoured in Tuscany, Italy. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

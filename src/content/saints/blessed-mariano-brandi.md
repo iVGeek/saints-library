@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mariano Brandi"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Mariano Brandi"
 summary: "Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons."
 deathYear: 1525
 born: "latter 15th century, possibly in Florence, Italy"
@@ -12,10 +12,9 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons.

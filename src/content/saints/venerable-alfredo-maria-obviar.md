@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alfredo Maria Obviar"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Missionary"
+title: "Venerable Alfredo Maria Obviar"
 summary: "Educated at the Jesuit College of Saint Francis Xavier in Manila, Philippines. Ordained a priest in the diocese of Lipa, Philippines on 15 March 1919. Parish priest at Malvar, Batangas, Philippines and the cathedral parish of Lipa from 1927 to 1944 during which he established sev"
 image: "http://catholicsaints.info/wp-content/uploads/img-Bishop-Alfredo-Maria-Obviar.jpg"
 birthYear: 1889
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

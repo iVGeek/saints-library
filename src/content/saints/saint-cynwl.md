@@ -1,7 +1,7 @@
 ---
 name: "Saint Cynwl"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Cynwl"
 summary: "Brother of Saint Deiniol. Bishop of Bangor, Wales. Known for his ascetic life, there are several churches dedicated to him."
 died: "6th century"
 region: "England"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Benito de Jesus"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Benito de Jesus"
 summary: "Member of the Brothers of the Christian Schools, entering the novitate on 7 August 1926. One of the Martyrs of Tur&oacute;n killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benito-de-Jesus.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 10
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

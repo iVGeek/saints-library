@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Thibiuca"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Felix of Thibiuca"
 summary: "Bishop of Thibiuca in North Africa. Martyred in the persecutions of Diolcetian for refusing to surrender sacred books for destruction."
 searchAliases:
   - "Felix Africanus"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

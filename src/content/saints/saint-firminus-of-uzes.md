@@ -1,7 +1,7 @@
 ---
 name: "Saint Firminus of Uzès"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Firminus of Uzès"
 summary: "Educated by his uncle, the bishop of Uzès, France. Spiritual student of Saint Caesarius of Arles. Bishop of Uzès himself at age 22. Writer. Assisted at several synods including the Council of Orleans in 541 and 549, and the Council of Paris in 551."
 searchAliases:
   - "Fermin"

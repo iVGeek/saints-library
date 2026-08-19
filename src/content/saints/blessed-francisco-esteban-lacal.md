@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Esteban Lacal"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Francisco Esteban Lacal"
 summary: "Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

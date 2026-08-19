@@ -1,7 +1,7 @@
 ---
 name: "Saint Cominus of Catania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cominus of Catania"
 summary: "Martyr."
 died: "in Catania, Sicily"
 deathPlace: "Sicily"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

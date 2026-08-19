@@ -1,7 +1,7 @@
 ---
 name: "Saint Benno of Meissen"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary"
+title: "Saint Benno of Meissen"
 summary: "Born to the Saxon nobility, the son of Blessed Bezela of Goda; as an adult he was heavily involved in the power politics of his day. Educated in the abbey of Saint Michael, Hildesheim, Germany. Priest. Canon at the imperial chapel at Gozlar, Hanover. Chaplain to Emperor Henry III"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Johann_Michael_Rottmayr_001.jpg/960px-Johann_Michael_Rottmayr_001.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

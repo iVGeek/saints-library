@@ -1,7 +1,7 @@
 ---
 name: "Saint Firminus of Amiens"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Firminus of Amiens"
 summary: "Son of a Roman senator. Converted to Christianity by Saint Saturninus. Ordained by Saint Honestus at Toulouse, France. Missionary to France. First bishop of Amiens at age 24. Martyred at age 31."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Firminus-of-Amiens.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

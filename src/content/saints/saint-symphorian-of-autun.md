@@ -1,7 +1,7 @@
 ---
 name: "Saint Symphorian of Autun"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Symphorian of Autun"
 summary: "Born to the imperial Roman nobility, the son of Senator Faustus and Blessed Augusta. Covert Christian. As a young man he studied at Autun, Gaul (in modern France). There he was arrested by provincial governor Heraclius for not worshipping the pagan goddess Cybele, he asked for to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Symphorian-of-Autun.jpg"
 deathYear: 178
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

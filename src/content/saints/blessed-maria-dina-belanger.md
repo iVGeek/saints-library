@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Dina Bélanger"
 honorific: Blessed
-title: "Virgin, Religious, Pope, Royalty"
+title: "Blessed Maria Dina Bélanger"
 summary: "Born to Olivier Octave Bélanger and Séraphia Matte, Dina, as her family called her, was baptized when just a few hours old. Her parents had a little boy, Joseph-Simeon-Gustave, when Dina was 17 months old, but her brother died at three months, the girl grew up an only child. Her"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Dina-Bélanger.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

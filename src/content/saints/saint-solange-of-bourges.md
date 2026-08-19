@@ -1,7 +1,7 @@
 ---
 name: "Saint Solange of Bourges"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Solange of Bourges"
 summary: "Born to a family of poor vine dressers. Young virgin shepherdess who took a personal vow of chastity, devoting herself to God alone. When she said her prayers in the field, a star shone over her head. Reported to have the gift of healing, especially of animals. She was murdered b"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_de_Saint_Solange.JPG/960px-Statue_de_Saint_Solange.JPG"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 patronage:

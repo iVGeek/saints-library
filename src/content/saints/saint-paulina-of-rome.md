@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulina of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Paulina of Rome"
 summary: "Daughter of Saint Artemius of Rome and Saint Candida of Rome.  Convert, brought to the faith by Saint Peter the Exorcist and baptised by Saint Marcellinus. Martyr."
 searchAliases:
   - "Paolina"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Marcellinus_Petrus.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

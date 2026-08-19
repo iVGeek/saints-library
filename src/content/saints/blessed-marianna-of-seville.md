@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marianna of Seville"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Marianna of Seville"
 summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg"
 region: "Spain"

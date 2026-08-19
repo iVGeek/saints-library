@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominic Vernagalli"
 honorific: Blessed
-title: "Priest, Monk, Pope, Hermit"
+title: "Blessed Dominic Vernagalli"
 summary: "Born to a wealthy family, Dominic was early drawn to religious and monastic life. He joined the Camaldolese Hermits of Mount Corona at the San Michele monastery in Borgo, Italy in 1200. He was ordained a priest in 1204, and continued to live the harsh, ascetic life of a hermit. M"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dominic-Vernagalli.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

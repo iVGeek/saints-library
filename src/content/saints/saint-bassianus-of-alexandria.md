@@ -1,7 +1,7 @@
 ---
 name: "Saint Bassianus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Bassianus of Alexandria"
 summary: "Lector. Martyr."
 searchAliases:
   - "Bassian"
@@ -13,7 +13,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

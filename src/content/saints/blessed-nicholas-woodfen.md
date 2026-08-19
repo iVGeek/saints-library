@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholas Woodfen"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Confessor"
+title: "Blessed Nicholas Woodfen"
 summary: "Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court, all the while living in Fleet Street under the name Woodfen and dressing like a lawyer. He was eventually imprisoned, tortured and executed for the crime of being"
 searchAliases:
   - "Nicholas Wheeler"
@@ -18,9 +18,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 martyr: true
 ---

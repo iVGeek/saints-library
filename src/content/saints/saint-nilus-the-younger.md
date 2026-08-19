@@ -1,7 +1,7 @@
 ---
 name: "Saint Nilus the Younger"
 honorific: Saint
-title: "Priest, Monk, Pope, Hermit"
+title: "Saint Nilus the Younger"
 summary: "Son of Greek immigrants to Italy. He led a wild and mis-spent youth, eventually finding work as a treasury official. Believed to have been married, and certainly the father of one daughter. In quick succession, his wife died, his daughter died, and Nilus suffered a life-threateni"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/San_Nicodemo_-_Ritratto_San_Nilo.jpg/960px-San_Nicodemo_-_Ritratto_San_Nilo.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 patronage:
   - "in Italy\n\nCorigliano-Rossano"

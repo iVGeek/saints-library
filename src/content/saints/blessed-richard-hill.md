@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Hill"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Richard Hill"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1565
 deathYear: 1590
@@ -15,10 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

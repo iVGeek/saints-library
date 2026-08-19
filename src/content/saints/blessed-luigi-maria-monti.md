@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigi Maria Monti"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Luigi Maria Monti"
 summary: "Eighth of eleven children. His father died when Luigi was twelve years old. To support the family he made wooden craft items. After hours he gathered other devout craftsmen and farmers at his shop to form the prayer group The Company of the Sacred Heart of Jesus; the locals calle"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Padreluigimariamonti.png/960px-Padreluigimariamonti.png"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: false
 ---

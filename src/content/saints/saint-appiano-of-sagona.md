@@ -1,7 +1,7 @@
 ---
 name: "Saint Appiano of Sagona"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Appiano of Sagona"
 summary: "Early bishop of Sagona, Corsica (part of modern France). Martyr."
 searchAliases:
   - "Appiano of Sagone"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

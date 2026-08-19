@@ -1,7 +1,7 @@
 ---
 name: "Saint Faendelach of Armagh"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Faendelach of Armagh"
 summary: "Son of Maenach. Monk. Abbot. Archbishop of Armagh, Ireland from 768 to 771 when he resigned to end controversy in the archdiocese over the bishopric."
 searchAliases:
   - "Faindelach"
@@ -13,10 +13,9 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Son of Maenach. Monk. Abbot. Archbishop of Armagh, Ireland from 768 to 771 when he resigned to end controversy in the archdiocese over the bishopric.

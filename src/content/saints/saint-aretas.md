@@ -1,7 +1,7 @@
 ---
 name: "Saint Aretas of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aretas of Rome"
 summary: "Martyred with 504 other Christians whose names have not come down to us."
 searchAliases:
   - "Arethas"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

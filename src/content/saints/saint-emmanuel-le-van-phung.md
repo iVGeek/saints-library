@@ -1,7 +1,7 @@
 ---
 name: "Saint Emmanuel Lê Van Phung"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Emmanuel Lê Van Phung"
 summary: "Married layman of the diocese of Long Xuyên, Vietnam. Imprisoned for seven months and then executed in the persecutions of Emperor Tu-Duc. Martyr."
 searchAliases:
   - "Emanuele"
@@ -17,9 +17,7 @@ feastDay:
   month: 7
   day: 31
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

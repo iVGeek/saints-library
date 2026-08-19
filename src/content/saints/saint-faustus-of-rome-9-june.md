@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus of Rome"
 summary: "Martyred in the persecutions of emperor Julian the Apostate."
 deathYear: 362
 died: "c.362 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

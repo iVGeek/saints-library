@@ -1,7 +1,7 @@
 ---
 name: "Saint Crispin II of Pavia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Crispin II of Pavia"
 summary: "Fifth century bishop of Pavia, Lombardy, Italy. Supported the acts of the Council of Milan."
 deathYear: 465
 died: "465 in Pavia, Italy of natural causes"

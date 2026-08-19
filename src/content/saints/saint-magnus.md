@@ -1,7 +1,7 @@
 ---
 name: "Saint Magnus of Orderzo"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Magnus of Orderzo"
 summary: "Bishop of Orderzo, Treviso, Italy. Transferred his see to Heraclea (modern Citta Nuova) in 638 due to Lombard invasion."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-of-Orderzo-1.jpg"
 searchAliases:

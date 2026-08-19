@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sylvie-Agnès de Romillon"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Sylvie-Agnès de Romillon"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

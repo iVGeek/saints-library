@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marcos Pérez Andrés"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marcos Pérez Andrés"
 summary: "Augustinian friar. Martyred in the Spanish Civil War."
 birthYear: 1917
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: true
 ---

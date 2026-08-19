@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hosanna of Cattaro"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Hosanna of Cattaro"
 summary: "Born to Greek Orthodox parents, and baptized in that tradition. She was a shepherdess in her youth, spending her solitary hours in prayer, and began to have visions of the Christ child. When she was 12 years old, the visions were followed by an odd desire to travel to the town of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hosanna-of-Cattaro-1.jpg"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "Kotor, Montenegro"

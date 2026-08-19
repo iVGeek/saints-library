@@ -1,7 +1,7 @@
 ---
 name: "Saint Classicus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Classicus of North Africa"
 summary: "Martyr in North Africa. No other information has survived."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

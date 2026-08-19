@@ -1,7 +1,7 @@
 ---
 name: "Saint Edith of Wilton"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Royalty"
+title: "Saint Edith of Wilton"
 summary: "Daughter of King Edgar the Peaceable and Saint Wilfrida. Raised in the abbey in Wilton, England, which she never left. Educated at the royal court, learning to read, write, illuminate manuscripts, sew and embroider. Benedictine nun from age 15. Offered the position of abbess at t"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Edith_of_Wilton.jpg"
 searchAliases:
@@ -19,12 +19,11 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Benedictine"
 patronage:
   - "Kemsing, England"
-martyr: true
+martyr: false
 ---
 
 Daughter of King Edgar the Peaceable and Saint Wilfrida. Raised in the abbey in Wilton, England, which she never left. Educated at the royal court, learning to read, write, illuminate manuscripts, sew and embroider. Benedictine nun from age 15. Offered the position of abbess at three houses, and her father's throne, but she refused them all. Built the Saint Denis Church at Wilton. Had a gift for communicating with wild animals. Saint Dunstan nursed her during her fatal illness, having received a vision of her passing.

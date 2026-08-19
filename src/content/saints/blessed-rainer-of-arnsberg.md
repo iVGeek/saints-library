@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rainer of Arnsberg"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Rainer of Arnsberg"
 summary: "Premonstratensian monk. Canon of the monastery of Mariënweerd at Utrecht, Netherlands."
 deathYear: 1184
 born: "early 12th century Netherlands"

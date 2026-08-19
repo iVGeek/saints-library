@@ -1,7 +1,7 @@
 ---
 name: "Saint Astolfus of Mainz"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Astolfus of Mainz"
 summary: "Monk in Wissemburg, Germany. Early 9th century bishop of Mainz, Germany. Ordained Blessed Rabanus Maurus as a priest."
 searchAliases:
   - "Astolfo"
@@ -16,11 +16,10 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk in Wissemburg, Germany. Early 9th century bishop of Mainz, Germany. Ordained Blessed Rabanus Maurus as a priest.

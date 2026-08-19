@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catherine of Pallanza"
 honorific: Blessed
-title: "Virgin, Pope, Hermit"
+title: "Blessed Catherine of Pallanza"
 summary: "Catherine's entire family died of plague when the girl was very young, and she was adopted by a woman in Milan, Italy. At age 14 she felt a call to devote herself to the service of God, and lived 15 years with a group of women hermits in the mountains near Varese, Italy. Noted fo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-of-Pallanza.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Pope
   - Hermit
 religiousOrder: "Augustinian"
 martyr: false

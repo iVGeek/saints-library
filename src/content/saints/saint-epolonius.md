@@ -1,7 +1,7 @@
 ---
 name: "Saint Epolonius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Epolonius"
 summary: "Spiritual student of Saint Babylas. Martyred in the persecutions of Decius."
 searchAliases:
   - "Epolono"
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

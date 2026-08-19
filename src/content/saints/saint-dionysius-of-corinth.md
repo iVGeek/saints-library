@@ -1,7 +1,7 @@
 ---
 name: "Saint Dionysius of Corinth"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Dionysius of Corinth"
 summary: "Second century bishop of Corinth, Greece. Some of his correspondence, including testimony about the martyrdom of Saint Peter and Saint Paul, and correspondence with popes of the era, have survived. Fought the Marcionites and other heresies of his time."
 searchAliases:
   - "Denis"
@@ -13,8 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dionysius_Of_Corinth%2C_St.png"
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor

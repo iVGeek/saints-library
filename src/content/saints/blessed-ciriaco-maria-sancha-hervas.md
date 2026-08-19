@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ciriaco María Sancha Hervás"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Cardinal"
+title: "Blessed Ciriaco María Sancha Hervás"
 summary: "Ordained on 27 June 1858. Auxiliary Bishop of Toledo, Spain, and Titular Bishop of Areopolis on 28 January 1876. Bishop of Avila, Spain on 27 March 1882. Bishop of Madrid, Spain on 10 April 1886. Archbishop of Valencia, Spain on 6 October 1892. Elevated to Cardinal-Priest of San"
 image: "http://catholicsaints.info/wp-content/gallery/venerable-ciriaco-maria-sancha-hervas/venerable-ciriaco-maria-sancha-hervas-01.jpg"
 birthYear: 1833
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

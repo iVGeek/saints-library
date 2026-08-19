@@ -1,7 +1,7 @@
 ---
 name: "Saint Fructos of Segovia"
 honorific: Saint
-title: "Martyr, Religious, Hermit"
+title: "Saint Fructos of Segovia"
 summary: "Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by invading Moors, Fructos fled and lived out his life as a hermit."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fructos-of-Segovia.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
   - Hermit
 patronage:

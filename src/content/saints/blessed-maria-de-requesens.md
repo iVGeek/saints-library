@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria de Requesens"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Maria de Requesens"
 summary: "Born to the Catalan nobility, she gave away her fortune to the poor and became one of the first Mercedarians. Worked in the convent hospital of Saint Eulalia in Barcelona, Spain. Noted for her personal piety and as a miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-de-Requesens.jpg"
 deathYear: 1345

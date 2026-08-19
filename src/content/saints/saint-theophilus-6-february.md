@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theophilus"
 summary: "Martyr. No other information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

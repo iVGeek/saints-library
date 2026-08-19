@@ -1,7 +1,7 @@
 ---
 name: "Blessed Encarnación Gil Valls"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Encarnación Gil Valls"
 summary: "Lay woman in the archdiocese of Valencia, Spain. Baptized on the day of her birth, she was confirmed at age 5 and made her first Communion at 11, all in her parish church of Santa Maria. She considered religious life, but realized a vocation of helping her brother who as a parish"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Encarnación-Gil-Valls.jpg"
 birthYear: 1888
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

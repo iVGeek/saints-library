@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ricard Farré Masip"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ricard Farré Masip"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Eduard of the Child Jesus"
@@ -17,9 +17,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

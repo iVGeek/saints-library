@@ -1,7 +1,7 @@
 ---
 name: "Saint Odrian of Waterford"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Odrian of Waterford"
 summary: "Abbot at Meath, Ireland. Early bishop of Waterford, Ireland. Friend of Saint Columba and travelled with him to Scotland to become a monk at Iona Abbey."
 searchAliases:
   - "Odrian of Iona"

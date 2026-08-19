@@ -1,7 +1,7 @@
 ---
 name: "Saint Gallicanus of Embrun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gallicanus of Embrun"
 summary: "Fifth bishop of Embrun, France."
 deathYear: 540
 died: "c.540"

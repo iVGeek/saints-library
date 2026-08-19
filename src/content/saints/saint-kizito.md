@@ -1,7 +1,7 @@
 ---
 name: "Saint Kizito"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Kizito"
 summary: "Mmamba clan. Convert. Youngest of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/St._Kizito_being_baptised_by_St._Charles_Lwanga_at_Munyonyo.jpg"
 birthYear: 1872
@@ -15,9 +15,7 @@ feastDay:
   month: 6
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

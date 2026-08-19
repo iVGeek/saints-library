@@ -1,7 +1,7 @@
 ---
 name: "Saint Lull"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary, Confessor"
+title: "Saint Lull"
 summary: "Related to Saint Boniface. Monk at Malmesbury Abbey in England. Missionary to Germany with Boniface who ordained him a priest with a mission of training new priests. Bishop of Mainz, Germany. After the death of Boniface, Lull took charge of the missionary work. Founded several mo"
 image: "http://catholicsaints.info/wp-content/uploads/Lullus_statue_hersfeld.jpg"
 searchAliases:
@@ -17,12 +17,11 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Related to Saint Boniface. Monk at Malmesbury Abbey in England. Missionary to Germany with Boniface who ordained him a priest with a mission of training new priests. Bishop of Mainz, Germany. After the death of Boniface, Lull took charge of the missionary work. Founded several monasteries in the region.

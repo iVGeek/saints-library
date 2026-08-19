@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Francisca Espejo y Martos"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Francisca Espejo y Martos"
 summary: "Trinitarian nun. One of the Martyrs of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Espejo-y-Martos.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

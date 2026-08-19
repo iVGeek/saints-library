@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Iona"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Iona"
 summary: "Thirty-eight monks martyred in Iona, Ireland. Their names have not come down to us."
 searchAliases:
   - "Iona Martyrs"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

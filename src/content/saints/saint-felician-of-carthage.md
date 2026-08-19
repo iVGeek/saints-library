@@ -1,7 +1,7 @@
 ---
 name: "Saint Felician of Carthage"
 honorific: Saint
-title: "Martyr"
+title: "Saint Felician of Carthage"
 summary: "Martyr."
 searchAliases:
   - "Feliciano"
@@ -12,8 +12,7 @@ feastDay:
   month: 10
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacopone da Todi"
 honorific: Blessed
-title: "Virgin, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Jacopone da Todi"
 summary: "Italian noble from the Benedetti family of Todi. Successful lawyer at Bologna, Italy. Married to Vanna di Guidone in 1267; she considered Jacomo too worldly, and did penance for him. In 1268, Jacomo insisted she attend a public tournament against her wishes; the stands in which s"
 image: "https://catholicsaints.info/wp-content/uploads/img-Jacopone-da-Todi.jpg"
 searchAliases:
@@ -27,9 +27,7 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "Todi, Italy"

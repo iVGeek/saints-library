@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonia of Cologne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antonia of Cologne"
 summary: "One of the companions of Saint Ursula. Martyr."
 searchAliases:
   - "Antonina"
@@ -10,7 +10,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

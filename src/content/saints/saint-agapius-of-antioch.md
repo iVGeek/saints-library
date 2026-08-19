@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapius of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Agapius of Antioch"
 summary: "Spiritual student of Saint Babylas of Antioch. Martyr."
 deathYear: 284
 died: "284 in Sicily"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gibitrudis"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Gibitrudis"
 summary: "Nun at Faremoutiers-en-Brie, France. Spiritual student of Saint Fara."
 deathYear: 655
 died: "c.655"

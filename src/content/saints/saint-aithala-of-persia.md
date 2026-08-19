@@ -1,7 +1,7 @@
 ---
 name: "Saint Aithala of Persia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aithala of Persia"
 summary: "Martyr."
 searchAliases:
   - "Aithelas"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

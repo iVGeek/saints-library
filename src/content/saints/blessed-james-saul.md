@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Saul"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed James Saul"
 summary: "Franciscan Friar Minor monk. One of the Irish Martyrs."
 deathYear: 1647
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

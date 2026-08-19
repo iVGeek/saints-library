@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paul Dochier"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope"
+title: "Blessed Paul Dochier"
 summary: "A physician, he joined the Trappists in 1941 but continued to practice medicine throughout World War II, treating anyone who needed it, and never charging. He moved to Algeria in 1947 where he continued his free medical practice. Asthma sufferer. In 1959 he was kidnapped by membe"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Dochier.jpg"
 searchAliases:
@@ -19,8 +19,7 @@ feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "against respiratory, breathing and/or lung problems"
 martyr: true

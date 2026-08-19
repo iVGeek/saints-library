@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste Triquerie"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jean-Baptiste Triquerie"
 summary: "Franciscan Conventual priest. Martyred in the French Revolution."
 birthYear: 1737
 deathYear: 1794
@@ -15,10 +15,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

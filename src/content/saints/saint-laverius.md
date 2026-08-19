@@ -1,7 +1,7 @@
 ---
 name: "Saint Laverius"
 honorific: Saint
-title: "Martyr, Royalty, Soldier"
+title: "Saint Laverius"
 summary: "Son of Achille, Laverius was raised in a pagan family. Served as a soldier in the imperial Roman army. A convert to Christianity, he began preaching in the streets of Teggiano, Italy. By order of the prefect Agrippa, Laverius was arrested, tortured, put on display for public abus"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Laverius.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Royalty
   - Soldier
 patronage:
   - "Acerenza, Italy"

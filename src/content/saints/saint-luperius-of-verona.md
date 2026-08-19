@@ -1,7 +1,7 @@
 ---
 name: "Saint Luperius of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Luperius of Verona"
 summary: "Bishop of Verona, Italy."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Verona, Italy.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Sante of Cori"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Sante of Cori"
 summary: "Joined the Augustinians in Cori, Italy. Prior of his house. Priest. Noted preacher, always centered on Scripture."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sante-of-Cori.jpg"
 deathYear: 1392
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

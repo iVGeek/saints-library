@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emérico Martín Rubio"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Emérico Martín Rubio"
 summary: "Trappist novice. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

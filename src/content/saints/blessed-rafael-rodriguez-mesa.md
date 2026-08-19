@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rafael Rodríguez Mesa"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Rafael Rodríguez Mesa"
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

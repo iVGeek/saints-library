@@ -1,7 +1,7 @@
 ---
 name: "Venerable Raimundo Calcagno"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Raimundo Calcagno"
 summary: "Member of the Congregation of the Oratory of Saint Philip Neri. Priest."
 birthYear: 1888
 deathYear: 1964
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

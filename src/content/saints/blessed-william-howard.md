@@ -1,7 +1,7 @@
 ---
 name: "Blessed William Howard"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed William Howard"
 summary: "Son of Thomas, earl of Arundel, England. Grandson of Saint Philip Howard. Raised Catholic in England in a time when the faith was being persecuted. Married Mary Stafford in 1637. Viscount of Stafford in England. Baron Stafford in 1640. Exiled in 1642 for political reasons, and li"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Howard.jpg"
 birthYear: 1614
@@ -15,9 +15,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

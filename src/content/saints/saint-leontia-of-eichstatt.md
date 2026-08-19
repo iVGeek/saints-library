@@ -1,7 +1,7 @@
 ---
 name: "Saint Leontia of Eichstätt"
 honorific: Saint
-title: "Martyr"
+title: "Saint Leontia of Eichstätt"
 summary: "Martyr."
 died: "in Rome, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

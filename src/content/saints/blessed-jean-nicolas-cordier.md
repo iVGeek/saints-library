@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Nicolas Cordier"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Nicolas Cordier"
 summary: "Jean-Nicolas joined the Jesuits in Nancy, France on 28 September 1728. Priest. After studying at the University of Pont-à-Mousson, he taught philosophy at colleges in Dijon, Auxerre, Autun, Stasbourg, and Pont-à-Mousson. Prefect of studies in Reims in 1757. Superior of the house"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

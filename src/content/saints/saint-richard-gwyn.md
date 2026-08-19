@@ -1,7 +1,7 @@
 ---
 name: "Saint Richard Gwyn"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Richard Gwyn"
 summary: "Cambridge educated. Teacher. Renounced Protestantism, and converted. Imprisoned and martyred for his profession of faith. While in jail, he wrote religious poetry in Welsh. One of the Forty Martyrs of England and Wales"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Richard_Gwyn.jpg/960px-Richard_Gwyn.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 17
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 patronage:
   - "large families"
   - "parents of large families"

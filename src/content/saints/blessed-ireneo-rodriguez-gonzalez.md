@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ireneo Rodríguez González"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ireneo Rodríguez González"
 summary: "Vincentian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ireneo-Rodríguez-González.jpg"
 birthYear: 1879
@@ -16,9 +16,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

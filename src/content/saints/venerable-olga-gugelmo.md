@@ -1,7 +1,7 @@
 ---
 name: "Venerable Olga Gugelmo"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Olga Gugelmo"
 summary: "Her father died when Olga was very young. She was educated by the Christian Brothers, and known as an excellent student. Member of the Congregation of the Daughters of the Church. She became an enthusiast and beloved school teacher and catechist. Hers was not a life of miracles,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Olga-Gugelmo.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

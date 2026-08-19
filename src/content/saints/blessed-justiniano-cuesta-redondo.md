@@ -1,7 +1,7 @@
 ---
 name: "Blessed Justiniano Cuesta Redondo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Justiniano Cuesta Redondo"
 summary: "Passionist priest martyred in the Spanish Civil War."
 searchAliases:
   - "Justiniano of Saint Gabriel of Our Lady of Sorrows"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

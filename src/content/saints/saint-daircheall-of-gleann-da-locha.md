@@ -1,7 +1,7 @@
 ---
 name: "Saint Daircheall of Gleann-da-locha"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Daircheall of Gleann-da-locha"
 summary: "Early Irish bishop."
 region: "Ireland"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Early Irish bishop.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Severa of Saint Gemma"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Severa of Saint Gemma"
 summary: "Sister of Saint Modoald of Trier. Nun. First Abbess of Saint Gemma convent in Villeneuve, France; it was later renamed Sainte-Sevère in her honour."
 deathYear: 680
 died: "c.680"

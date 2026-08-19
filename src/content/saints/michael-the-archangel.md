@@ -22,9 +22,7 @@ feastDay:
   day: 29
 liturgicalRank: Feast
 canonizationStatus: Saint
-vocation:
-  - Archangel
-  - Guardian of the Church
+vocation: []
 patronage:
   - soldiers
   - police

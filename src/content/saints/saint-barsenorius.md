@@ -1,7 +1,7 @@
 ---
 name: "Saint Barsenorius"
 honorific: Saint
-title: "Monk"
+title: "Saint Barsenorius"
 summary: "Monk. Spiritual student of Saint Leutfridus. Abbot of La-Croix-Saint-Leuffroi Abbey in France."
 died: "7th century"
 region: "France"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Aemilian of Trevi"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Aemilian of Trevi"
 summary: "Fourth-century bishop of Trevi, Italy. Tortured and martyred in the persecutions of Diocletian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Aemilian-of-Trebi.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

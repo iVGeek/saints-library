@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Hita Miranda"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jesús Hita Miranda"
 summary: "Member of the Society of Mary (Marianists). Martyred in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Hita-Miranda.jpg"
 birthYear: 1909
@@ -15,9 +15,7 @@ feastDay:
   month: 9
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

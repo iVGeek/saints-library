@@ -1,14 +1,13 @@
 ---
 name: "Saint Agrippinus of Pannonia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agrippinus of Pannonia"
 summary: "Fourth century martyr. No other information has survived."
 feastDay:
   month: 7
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

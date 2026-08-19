@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Elena Bettini"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Maria Elena Bettini"
 summary: "Founder of the Daughters of Divine Providence."
 image: "http://catholicsaints.info/wp-content/gallery/venerable-maria-elena-bettini/venerable-maria-elena-bettini-01.jpg"
 birthYear: 1814
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

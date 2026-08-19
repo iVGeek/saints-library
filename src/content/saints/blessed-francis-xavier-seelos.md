@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Xavier Seelos"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Royalty, Soldier, Missionary"
+title: "Blessed Francis Xavier Seelos"
 summary: "One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his first Communion on 2 April 1830. The boy wanted to b"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Blessed_Francis_Xavier_Seelos.jpg"
 searchAliases:
@@ -20,15 +20,13 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Missionary
 religiousOrder: "Franciscan"
 patronage:
   - "against cancer"
-martyr: true
+martyr: false
 ---
 
 One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his first Communion on 2 April 1830. The boy wanted to be a priest from an early age, and often claimed he would be another Francis Xavier.

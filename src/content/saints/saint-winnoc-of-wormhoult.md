@@ -1,7 +1,7 @@
 ---
 name: "Saint Winnoc of Wormhoult"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Saint Winnoc of Wormhoult"
 summary: "Born to the nobility, possibly a prince, and some sources say his father was Saint Judicael. Raised and educated in Brittany, his family running there to escape the Saxons. Monk. Founded Saint Winnow's church in Cornwall, England. Monk at Sithiu (in modern Saint Omer, France) und"
 image: "http://catholicsaints.info/wp-content/uploads/img-WinnocofFlanders.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against fever"

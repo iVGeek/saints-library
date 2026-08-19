@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Africa"
 honorific: Saint
-title: "Martyr, Monk, Royalty"
+title: "Saint Marcian of Africa"
 summary: "Martyred by the Arian Vandal king Hunneric."
 searchAliases:
   - "Marcianus"
@@ -15,9 +15,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
 martyr: true
 ---
 

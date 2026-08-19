@@ -1,7 +1,7 @@
 ---
 name: "Saint Euphemia of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Euphemia of Constantinople"
 summary: "One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens."
 deathYear: 367
 died: "c.367 in Constantintinople"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

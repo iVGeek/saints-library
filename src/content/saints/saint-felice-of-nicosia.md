@@ -1,7 +1,7 @@
 ---
 name: "Saint Felice of Nicosia"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Saint Felice of Nicosia"
 summary: "Son of a shoemaker, he learned his father's trade. Pious, hard working youth. Orphan. At age 19 he tried to enter a Capuchin convent, but was turned away; he tried again; and again; and again. After eight years of pleading, he was admitted on 19 October 1743, taking the name Feli"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felice-of-Nicosia.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: false
 ---

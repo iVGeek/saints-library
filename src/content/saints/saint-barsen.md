@@ -1,7 +1,7 @@
 ---
 name: "Saint Barsen"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Hermit"
+title: "Saint Barsen"
 summary: "Hermit in northern Mesopotamia. Bishop of Edessa, Syria in 361. For his firm defense of orthodox Christianity, he was exiled to Egypt by the Arian Emperor Valens in 373. Sent to the Phoenician island of Aruad, he brought most of the residents and clergy back to the orthodox faith"
 searchAliases:
   - "Barso"
@@ -15,11 +15,10 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Hermit in northern Mesopotamia. Bishop of Edessa, Syria in 361. For his firm defense of orthodox Christianity, he was exiled to Egypt by the Arian Emperor Valens in 373. Sent to the Phoenician island of Aruad, he brought most of the residents and clergy back to the orthodox faith, and was so successful that Valens had him exiled to farther and more isolated locations in Egypt.

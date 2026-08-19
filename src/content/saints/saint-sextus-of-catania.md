@@ -1,7 +1,7 @@
 ---
 name: "Saint Sextus of Catania"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sextus of Catania"
 summary: "Martyr. No other information has survived."
 died: "martyred at Catania, Sicily, date unknown"
 deathPlace: "Sicily, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

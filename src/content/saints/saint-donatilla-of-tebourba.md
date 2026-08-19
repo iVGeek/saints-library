@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatilla of Tebourba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Donatilla of Tebourba"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "304 at Tebourba in North Africa"
@@ -11,7 +11,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

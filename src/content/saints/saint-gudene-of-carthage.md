@@ -1,7 +1,7 @@
 ---
 name: "Saint Gudene of Carthage"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gudene of Carthage"
 summary: "Tortured, imprisoned for a long period and finally executed in the persecutions of proconsul Rufino. Martyr."
 searchAliases:
   - "Guddene"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 27
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

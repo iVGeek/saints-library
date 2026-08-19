@@ -1,7 +1,7 @@
 ---
 name: "Blessed Noël Tenaud"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Noël Tenaud"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1904
 deathYear: 1961
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Buitrago Morales"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pedro Buitrago Morales"
 summary: "Priest in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Buitrago-Morales.jpg"
 birthYear: 1883
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

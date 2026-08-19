@@ -1,7 +1,7 @@
 ---
 name: "Saint Strato of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Strato of Alexandria"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Straton"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

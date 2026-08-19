@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonia of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antonia of Nicomedia"
 summary: "Imprisoned for two years, repeatedly tortured and eventually executed for her faith during the persecutions of governor Priscillian."
 died: "burned to death in Nicomedia (in modern Turkey)"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

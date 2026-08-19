@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vidal Ruiz Vallejo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Vidal Ruiz Vallejo"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

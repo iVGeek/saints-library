@@ -1,7 +1,7 @@
 ---
 name: "Blessed Paulus Nishihori Shikibu"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Paulus Nishihori Shikibu"
 summary: "Married layman in the diocese of Niigata, Japan. Martyr."
 birthYear: 1598
 deathYear: 1629
@@ -15,8 +15,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

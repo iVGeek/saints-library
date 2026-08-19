@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agustín García Calvo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Agustín García Calvo"
 summary: "Educated by the Salesians in his home town, when Augustin felt a call to religious life, he became a Salesian brother in Campello, Spain. He studied in Sarria, outside Barcellona, Spain, and made his profession in August 1923. He was assigned to houses in Valencia, Spain, and in"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Agustin_Garcia_Calvo.jpg"
 birthYear: 1905
@@ -15,9 +15,7 @@ feastDay:
   month: 12
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

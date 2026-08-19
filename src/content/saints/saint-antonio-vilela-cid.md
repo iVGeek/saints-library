@@ -1,7 +1,7 @@
 ---
 name: "Saint Antônio Vilela Cid"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Antônio Vilela Cid"
 summary: "Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645
@@ -12,9 +12,7 @@ feastDay:
   month: 7
   day: 16
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

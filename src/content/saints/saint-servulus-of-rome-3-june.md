@@ -1,7 +1,7 @@
 ---
 name: "Saint Servulus of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Servulus of Rome"
 summary: "Martyr. No other details have survived."
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,8 +11,7 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/4/45/St._Servulus_of_Rome.jpg"
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

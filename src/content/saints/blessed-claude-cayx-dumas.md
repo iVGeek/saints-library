@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude Cayx-Dumas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Claude Cayx-Dumas"
 summary: "Jesuit priest. One of the Martyrs of September."
 birthYear: 1724
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Honorius of Brescia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Hermit"
+title: "Saint Honorius of Brescia"
 summary: "Hermit near Brescia, Italy. Bishop of Brescia c.577."
 deathYear: 586
 died: "c.586"
@@ -11,13 +11,12 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Hermit
 patronage:
   - "against migraines"
-martyr: true
+martyr: false
 ---
 
 Hermit near Brescia, Italy. Bishop of Brescia c.577.

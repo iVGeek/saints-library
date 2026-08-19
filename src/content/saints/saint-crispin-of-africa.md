@@ -1,7 +1,7 @@
 ---
 name: "Saint Crispin of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Crispin of Africa"
 summary: "Martyred in North Africa. No other information has survived."
 searchAliases:
   - "Crispinus"
@@ -11,7 +11,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

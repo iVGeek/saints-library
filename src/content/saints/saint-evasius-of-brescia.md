@@ -1,7 +1,7 @@
 ---
 name: "Saint Evasius of Brescia"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Evasius of Brescia"
 summary: "Early, possibly first bishop of Brescia, Italy."
 region: "Italy"
 feastDay:

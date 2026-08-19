@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Claire du Bac"
 honorific: Blessed
-title: "Martyr, Monk, Religious, Pope, Royalty"
+title: "Blessed Marie-Claire du Bac"
 summary: "Ursuline nun. Martyred in the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 7
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

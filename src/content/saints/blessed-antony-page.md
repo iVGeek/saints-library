@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antony Page"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Antony Page"
 summary: "Studied at Douai, France. Ordained in 1591. Returned to England to minister to covert Catholics in the persecutions of Queen Elizabeth I. Arrested and martyred for the crime of priesthood."
 searchAliases:
   - "Anthony"
@@ -18,10 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

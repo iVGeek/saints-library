@@ -1,7 +1,7 @@
 ---
 name: "Saint Sisoes the Great"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Sisoes the Great"
 summary: "Monk at the desert monastery of Scetis in Egypt. In 357, believing the monastery was over-crowded, he became a hermit on Mount Colzim; he chose it because it had been the mountain of Saint Anthony the Abbot; he stayed there for 70 years. Miracle worker."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Varlaam5.png"
 searchAliases:

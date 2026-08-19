@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelard of Cysoing"
 honorific: Saint
-title: "Monk"
+title: "Saint Adelard of Cysoing"
 summary: "Son of Everardo, founder of Cysoing Abbey. Monk at Cysoing in the late 9th century."
 region: "Italy"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Sophia of Rome"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Sophia of Rome"
 summary: "Young woman martyred in the persecutions of Diocletian."
 searchAliases:
   - "Kalte Sophia"
@@ -19,9 +19,7 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Eschau_StTrophime_75_%28square_crop%29.JPG/960px-Eschau_StTrophime_75_%28square_crop%29.JPG"
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 patronage:
   - "against late frosts"
   - "for the growth of crops"

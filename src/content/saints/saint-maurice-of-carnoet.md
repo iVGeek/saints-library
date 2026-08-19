@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurice of Carnoet"
 honorific: Saint
-title: "Monk"
+title: "Saint Maurice of Carnoet"
 summary: "Studied at the University of Paris. Cistercian monk at Langonette Monastery in France in 1144. Abbot of the house in 1176. Founding abbot of Carnoet Abbey in Brittany. When the woods around the house were threatened by aggressive wolves, Maurice reminded his brothers that wolves"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Locronan_Statue_de_saint_Maurice.JPG/960px-Locronan_Statue_de_saint_Maurice.JPG"
 searchAliases:

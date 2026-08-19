@@ -1,7 +1,7 @@
 ---
 name: "Venerable Juan de San Pedro Ustárro"
 honorific: Venerable
-title: "Priest, Pope, Missionary"
+title: "Venerable Juan de San Pedro Ustárro"
 summary: "Born to a Jewish family that had converted to Catholicism. Juan studied at the University of Alcalá de Henares from 1579 to 1582 when he became a Discalced Carmelite novice; he made his profession on 30 January 1583. He continued his studies in Alcalá, Spain, in Genoa, Italy, and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-de-San-Pedro-Ustarro.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Carmelite"
 martyr: false

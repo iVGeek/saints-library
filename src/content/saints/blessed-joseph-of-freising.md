@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph of Freising"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Joseph of Freising"
 summary: "Benedictine monk. Founded the monastery of Saint Zeno at Isen, Bavaria, Germany in 752. Bishop of Freising (near Munich), Germany in 764."
 deathYear: 764
 died: "764 of natural causes"

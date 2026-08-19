@@ -1,7 +1,7 @@
 ---
 name: "Blessed Simon Rinalducci"
 honorific: Blessed
-title: "Pope"
+title: "Blessed Simon Rinalducci"
 summary: "Augustinian friar in 1280. Noted for his theological studies. Lector. Prior of several houses. Famous preacher. Augustinian provincial prior in Umbria, Italy. During a general chapter conference in 1318 he was unjustly accused of some serious charges; he kept silence rather than"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Simon-Rinalducci.jpg"
 searchAliases:
@@ -17,8 +17,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
 martyr: false
 ---

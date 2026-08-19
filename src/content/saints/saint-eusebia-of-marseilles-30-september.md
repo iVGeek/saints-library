@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusebia of Marseilles"
 honorific: Saint
-title: "Religious"
+title: "Saint Eusebia of Marseilles"
 summary: "Nun in Marseilles, Provence, France."
 deathYear: 497
 died: "c.497 of natural causes"

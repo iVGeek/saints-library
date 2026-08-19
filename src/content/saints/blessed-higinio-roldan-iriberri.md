@@ -1,7 +1,7 @@
 ---
 name: "Blessed Higinio Roldán Iriberri"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Higinio Roldán Iriberri"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1895
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

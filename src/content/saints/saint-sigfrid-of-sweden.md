@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigfrid of Sweden"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Royalty"
+title: "Saint Sigfrid of Sweden"
 summary: "Priest at York and/or Glastonbury in England. Monk. Evangelized in Norway, Sweden, Denmark. Brought King Olaf of Sweden to the faith. While Sigfrid was away on a mission, his three nephews (Saint Winaman, Saint Unaman, and Saint Sunaman), who had come to help with the work in Swe"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sankt_Sigfrid_i_V%C3%A4xj%C3%B6.JPG"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 patronage:

@@ -2,7 +2,7 @@
 name: "Saint Mahanes the Persian"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mahane_Yehuda_Market_ap_035.jpg/960px-Mahane_Yehuda_Market_ap_035.jpg"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Mahanes the Persian"
 summary: "Convert. Denounced for suspected treasonous collaboration with Roman authorities and Christianity in general, he was arrested in 339. Tried before King Shapur II, they were given the chance to save themselves by denouncing their faith; they declined. Martyr."
 deathYear: 339
 born: "4th century Persian"
@@ -13,11 +13,9 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

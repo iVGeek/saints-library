@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of the Grating"
 honorific: Blessed
-title: "Bishop, Monk, Pope"
+title: "Blessed John of the Grating"
 summary: "Benedictine Cistercian monk at Clairvaux Abbey, professing his vows under Saint Bernard. Abbot at Guingamp, France. Founder and abbot of monasteries at Buzay and Bégard in Brittany (in modern France). Noted as an able administrator, always fair and just with his brother monks. Bi"
 searchAliases:
   - "Giovanni della Graticola"
@@ -20,7 +20,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rennes_%2835%2
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

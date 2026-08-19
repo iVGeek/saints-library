@@ -1,7 +1,7 @@
 ---
 name: "Saint Filagon of Italy"
 honorific: Saint
-title: "Martyr"
+title: "Saint Filagon of Italy"
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."
 searchAliases:
   - "Filagonia"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

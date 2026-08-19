@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leonid Feodorov"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Deacon, Pope, Royalty"
+title: "Blessed Leonid Feodorov"
 summary: " Studied Russian Orthodox family and upbringing. His father died when Leonid was very young, and he was raised by his mother, Liubova Dimitrievna. He started his studies in the Orthodox seminary in 1901, but in 1902 he left, travelled to Rome, Italy, and converted to Catholicism."
 image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Romza_Russicum.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Deacon
 martyr: true

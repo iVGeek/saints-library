@@ -1,7 +1,7 @@
 ---
 name: "Saint Thorfinn"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Thorfinn"
 summary: "Cistercian monk at the abbey of Tautra. Canon of the Cathedral of Nidaros (modern Trondheim, Norway) by 1277 when he was a witness of the Agreement of Tönsberg. Bishop. Exiled by King Eric for supporting the Archbishop of Nidaros in a dispute over state interference in Church mat"
 searchAliases:
   - "Torfinn"
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

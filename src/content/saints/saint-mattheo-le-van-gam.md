@@ -1,7 +1,7 @@
 ---
 name: "Saint Matthêô Lê Van Gam"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Soldier"
+title: "Saint Matthêô Lê Van Gam"
 summary: "Eldest son in a pious Christian family. Matthew briefly studied at the seminary at Lai Thieu in the apostolic vicariate of Cochinchina (modern Vietnam), but being the first-born, family obligations caused him to return home. He married to a local girl, and was the father of four,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Matthêô-Lê-Van-Gam.jpg"
 birthYear: 1813
@@ -16,10 +16,8 @@ feastDay:
   day: 11
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
   - Soldier
 martyr: true
 ---

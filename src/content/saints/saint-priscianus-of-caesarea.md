@@ -1,7 +1,7 @@
 ---
 name: "Saint Priscianus of Caesarea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Priscianus of Caesarea"
 summary: "Brother of Saint Carponius of Caesarea, Saint Evaristus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Priscian"
@@ -14,7 +14,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

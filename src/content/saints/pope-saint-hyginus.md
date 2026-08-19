@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Hyginus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Pope Saint Hyginus"
 summary: "Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with with a series of heretic sects and preachers regularly popping up."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/HyginosI.jpg/960px-HyginosI.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with with a series of heretic sects and preachers regularly popping up.

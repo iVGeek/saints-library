@@ -1,7 +1,7 @@
 ---
 name: "Saint Photius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Photius"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Fotios"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

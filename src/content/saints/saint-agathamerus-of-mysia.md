@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathamerus of Mysia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Agathamerus of Mysia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Agatha"
@@ -11,8 +11,7 @@ feastDay:
   month: 4
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

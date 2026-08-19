@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste Malo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Jean-Baptiste Malo"
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
 birthYear: 1889
 deathYear: 1954
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

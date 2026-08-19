@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Clara of the Child Jesus"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Maria Clara of the Child Jesus"
 summary: "Joined the Capuchin Tertiaries of Our Lady of the Conception in 1869, taking the name Sister Maria Clara of the Child Jesus. Founded the Congregation of the Franciscan Hospitallers of the Immaculate Conception; they were approved by the Vatican on 27 March 1876."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Irm%C3%A3_Maria_Clara.png"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "World Youth Day 2023"

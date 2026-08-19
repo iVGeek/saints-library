@@ -1,7 +1,7 @@
 ---
 name: "Saint Jonas"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Jonas"
 summary: "Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian."
 searchAliases:
   - "Yon"
@@ -13,10 +13,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian.

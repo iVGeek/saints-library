@@ -1,7 +1,7 @@
 ---
 name: "Blessed Damiano Grassi of Rivoli"
 honorific: Blessed
-title: "Martyr, Confessor"
+title: "Blessed Damiano Grassi of Rivoli"
 summary: "Spurred by the martyrdom of Blessed Antonius Neyrot in 1460, Damiano joined the Dominicans, ready to accept martyrdom in his own turn. Graduated from the University of Paris in 1500. Appointed to the Dominican general chapter in Pavia, Italy, a position with extensive adminsitrat"
 searchAliases:
   - "Damian"
@@ -17,7 +17,6 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Dominican"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gaius of Alexandria"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Caius"
@@ -14,7 +14,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

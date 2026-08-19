@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maurice Tornay"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Royalty, Missionary"
+title: "Blessed Maurice Tornay"
 summary: "Seventh of eight children born to Jean-Joseph Tornay and Faustina Dossier, and likely named for Saint Maurice of the Theban Legion who had been martyred in the area. He was baptised at 13 days old, made his First Communion at age 7, and during his youth he walked a hour each way"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mauricetornayagaunien.jpg/960px-Mauricetornayagaunien.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 martyr: true

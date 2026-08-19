@@ -1,7 +1,7 @@
 ---
 name: "Saint Phaolô Vu Van Duong"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Phaolô Vu Van Duong"
 summary: "Married layman and father in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of emperor Tu-Duc, he was ordered to step on a crucifix to show his contempt for Christianity; he refused. Imprisoned, tortured and executed. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

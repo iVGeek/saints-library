@@ -1,7 +1,7 @@
 ---
 name: "Saint Clether"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Clether"
 summary: "Hermit on the banks of the river Never, then in the Inny valley in North Cornwall, England in an area now named for him."
 searchAliases:
   - "Cleer"

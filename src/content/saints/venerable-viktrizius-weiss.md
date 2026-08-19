@@ -1,7 +1,7 @@
 ---
 name: "Venerable Viktrizius Weiss"
 honorific: Venerable
-title: "Priest, Pope, Royalty"
+title: "Venerable Viktrizius Weiss"
 summary: "After studies at the diocesan seminary in Freising, Germany, he was ordained to the priesthood on 29 June 1866. He served as coadjutor at Schwabing, Germany, and prefect of the seminary of Freising. Father Anton earned a doctorate in theology in 1871, and feeling a call to religi"
 image: "https://catholicsaints.info/wp-content/uploads/img-Father-Viktrizius-Weiss.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

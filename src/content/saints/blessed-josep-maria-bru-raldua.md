@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Maria Bru Ralduá"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Maria Bru Ralduá"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 birthYear: 1870
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

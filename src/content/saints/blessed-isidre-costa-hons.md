@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidre Costa Hons"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Isidre Costa Hons"
 summary: "Member of the Claretians, professed on 16 May 1931. Martyred in the Spanish Civil War."
 birthYear: 1909
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

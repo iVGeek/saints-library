@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Verona"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint John of Verona"
 summary: "Seventh century bishop of Verona, Italy. Noted for his ministry to the poor."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Seventh century bishop of Verona, Italy. Noted for his ministry to the poor.

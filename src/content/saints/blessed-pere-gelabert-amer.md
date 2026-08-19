@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Gelabert Amer"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pere Gelabert Amer"
 summary: "Jesuit brother in 1907. Served his community in Gandia, Spain as an electrician and mechanic. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Gelabert-Amer.jpg"
 birthYear: 1887
@@ -15,9 +15,7 @@ feastDay:
   month: 8
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

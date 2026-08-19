@@ -2,7 +2,7 @@
 name: "Saint Augusta of Alexandria"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Troas_Therme_2.JPG/960px-Troas_Therme_2.JPG"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Augusta of Alexandria"
 summary: "Martyr."
 died: "Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

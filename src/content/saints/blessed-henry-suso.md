@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry Suso"
 honorific: Blessed
-title: "Priest, Monk, Pope, Confessor"
+title: "Blessed Henry Suso"
 summary: "Born to the German nobility. Joined the Dominicans at age 13. Known as a mystic. Served as prior at several houses. Theological student of Meister Eckhart in Cologne, Germany from 1322 to 1325. Taught in Constance, Switzerland. Spent years imprisoned in a dungeon due to slander a"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heinrich_Suso_Gem%C3%A4lde_1601.jpg/960px-Heinrich_Suso_Gem%C3%A4lde_1601.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

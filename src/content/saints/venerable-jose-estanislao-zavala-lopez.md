@@ -1,7 +1,7 @@
 ---
 name: "Venerable José Estanislao Zavala López"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable José Estanislao Zavala López"
 summary: "Augustinian priest."
 searchAliases:
   - "Father Miguel Francisco"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

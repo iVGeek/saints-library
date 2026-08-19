@@ -1,7 +1,7 @@
 ---
 name: "Saint Buonfiglio Monaldi"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Buonfiglio Monaldi"
 summary: "One of the Seven Founders of the Servants of Mary. The eldest of the Founders. First superior of the Servites, serving until 1256."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Buonfiglio-Monaldi.jpg"
 searchAliases:
@@ -17,11 +17,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
-martyr: true
+martyr: false
 ---
 
 One of the Seven Founders of the Servants of Mary. The eldest of the Founders. First superior of the Servites, serving until 1256.

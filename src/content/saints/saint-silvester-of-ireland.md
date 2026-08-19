@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvester of Ireland"
 honorific: Saint
-title: "Martyr, Bishop, Royalty"
+title: "Saint Silvester of Ireland"
 summary: "Evangelizing bishop in Ireland, working with Saint Palladius of Ireland."
 searchAliases:
   - "Silvestro"
@@ -15,13 +15,11 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
 patronage:
   - "in Ireland\n\nBrannockstown"
   - "Malahide"
-martyr: true
+martyr: false
 ---
 
 Evangelizing bishop in Ireland, working with Saint Palladius of Ireland.

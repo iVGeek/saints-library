@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luca Passi"
 honorific: Blessed
-title: "Priest, Religious, Pope, Cardinal"
+title: "Blessed Luca Passi"
 summary: "Born to the Venetian nobility. Ordained on 13 March 1813. Priest in the archdiocese of Venice, Italy. Founded the Institute of the Teaching Sisters of Saint Dorothy. Founded the Pious Society of Saint Dorothy."
 image: "http://catholicsaints.info/wp-content/uploads/Venerable-Luca-Passi.jpg"
 birthYear: 1789
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

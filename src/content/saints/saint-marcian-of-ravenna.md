@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Ravenna"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Marcian of Ravenna"
 summary: "Bishop of Ravenna, Italy in 112."
 searchAliases:
   - "Mariano"
@@ -13,10 +13,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Ravenna, Italy in 112.

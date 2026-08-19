@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julián Rodríguez Sánchez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Julián Rodríguez Sánchez"
 summary: "Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-Rodriguez-Sanchez.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilius of Ravenna"
 honorific: Saint
-title: "Martyr"
+title: "Saint Emilius of Ravenna"
 summary: "Martyr."
 searchAliases:
   - "Emelus"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

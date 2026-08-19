@@ -1,7 +1,7 @@
 ---
 name: "Saint Romanos the Melodist"
 honorific: Saint
-title: "Deacon, Pope"
+title: "Saint Romanos the Melodist"
 summary: "Convert to Christianity from Judaism. Deacon, serving at the Church of the Resurection in Beirut, Lebanon, and at Constantinople. Wrote hundreds of hymns in simple language, appealing to the hearts of the faithful. Of the thousand or so that he wrote, only 60 to 80 survive - but"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/1649._%D0%9F%D0%B0%D0%BA%D1%80%D0%BE%D1%9E.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Deacon
-  - Pope
 patronage:
   - "cantors"
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juliana Kubitzki"
 honorific: Blessed
-title: "Martyr, Virgin, Monk, Religious, Pope, Royalty, Soldier"
+title: "Blessed Juliana Kubitzki"
 summary: "The fifth of six children born to Wilhelm and Katarzyna née Bieniek, Juliana was baptized at the age of 5 days. She was raised in a pious family; her brother Piotr became a monk. Juliana joined the Sisters of Saint Elizabeth on 15 September 1929, taking the name Sister Maria Edel"
 searchAliases:
   - "Sister Maria Edelburgis"
@@ -16,8 +16,7 @@ feastDay:
   month: 2
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

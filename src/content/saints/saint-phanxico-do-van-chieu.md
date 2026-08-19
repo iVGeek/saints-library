@@ -1,7 +1,7 @@
 ---
 name: "Saint Phanxicô Ðo Van Chieu"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Missionary"
+title: "Saint Phanxicô Ðo Van Chieu"
 summary: "Raised in a Christian family. Layman catechist in the apostolic vicariate of East Tonkin (modern Vietnam). Devoted himself to helping missionary priests. Aide to bishop Saint Dominic Henares de Zafra Cubero, with whom he was arrested and murdered in the persecutions of emperor Mi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Phanxicô-Ðo-Van-Chieu.jpg"
 searchAliases:
@@ -19,12 +19,10 @@ feastDay:
   day: 25
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Raised in a Christian family. Layman catechist in the apostolic vicariate of East Tonkin (modern Vietnam). Devoted himself to helping missionary priests. Aide to bishop Saint Dominic Henares de Zafra Cubero, with whom he was arrested and murdered in the persecutions of emperor Minh Mang.

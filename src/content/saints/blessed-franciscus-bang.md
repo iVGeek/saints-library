@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciscus Bang"
 honorific: Blessed
-title: "Martyr, Pope, Soldier"
+title: "Blessed Franciscus Bang"
 summary: "Military officer in the Korean army. Layman martyr in the apostolic vicariate of Korea."
 deathYear: 1799
 born: "Myeoncheon, Chungcheong-do, South Korea"
@@ -14,8 +14,6 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Soldier
 martyr: true
 ---

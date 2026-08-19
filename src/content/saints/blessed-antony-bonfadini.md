@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antony Bonfadini"
 honorific: Blessed
-title: "Pope, Missionary"
+title: "Blessed Antony Bonfadini"
 summary: "Franciscan Friar Minor. Noted preacher in Italy. Missionary to the Holy Land."
 birthYear: 1400
 deathYear: 1482
@@ -15,7 +15,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

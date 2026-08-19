@@ -2,7 +2,7 @@
 name: "Saint Kebius"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cybi_Felyn_-_geograph.org.uk_-_404564.jpg"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Kebius"
 summary: "Fourth century travelling bishop. Ordained by Saint Hilary of Poitiers. Evangelized Cornwall."
 searchAliases:
   - "Keby"

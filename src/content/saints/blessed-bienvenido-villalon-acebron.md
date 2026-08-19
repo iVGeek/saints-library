@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bienvenido Villalón Acebrón"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Bienvenido Villalón Acebrón"
 summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers). Director of Saint Joseph College. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bienvenido-Villalón-Acebrón.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

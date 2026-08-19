@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enric Morante Chic"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Enric Morante Chic"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enric-Morante-Chic.jpg"
 birthYear: 1896
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

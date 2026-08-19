@@ -1,7 +1,7 @@
 ---
 name: "Saint Ulfo of Troyes"
 honorific: Saint
-title: "Martyr"
+title: "Saint Ulfo of Troyes"
 summary: "Martyr."
 searchAliases:
   - "Hugh"
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "Saint-Oulph, France"
 martyr: true

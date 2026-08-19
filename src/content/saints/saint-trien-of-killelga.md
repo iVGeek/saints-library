@@ -1,7 +1,7 @@
 ---
 name: "Saint Trien of Killelga"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Trien of Killelga"
 summary: "Son of Ded mc Luchtae of Cell Elge. Spiritual student of Saint Patrick. Missionary abbot of the monastery in Killelga, Ireland."
 searchAliases:
   - "Treanus"
@@ -16,10 +16,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Son of Ded mc Luchtae of Cell Elge. Spiritual student of Saint Patrick. Missionary abbot of the monastery in Killelga, Ireland.

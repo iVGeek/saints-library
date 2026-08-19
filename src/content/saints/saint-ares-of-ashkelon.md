@@ -1,7 +1,7 @@
 ---
 name: "Saint Ares of Ashkelon"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ares of Ashkelon"
 deathYear: 308
 died: "burned at the stake at the gates of Ashkelon c.308"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

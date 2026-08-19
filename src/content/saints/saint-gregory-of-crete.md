@@ -1,7 +1,7 @@
 ---
 name: "Saint Gregory of Crete"
 honorific: Saint
-title: "Monk, Confessor"
+title: "Saint Gregory of Crete"
 summary: "Grew up a shepherd on the island of Crete. He lived as a prayerful pilgrim beggar in Jerusalem and the Holy Lands for 12 years where he was regularly abused for his faith by the area Muslims. He then made a pilgrimage to the tombs of the Apostles in Rome, Italy, and stayed to ent"
 searchAliases:
   - "Gregory of Akritas"

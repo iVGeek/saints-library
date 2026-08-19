@@ -1,7 +1,7 @@
 ---
 name: "Saint Athenodorus of Mesopotamia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Athenodorus of Mesopotamia"
 summary: "Tortured and martyred in the persecutions of Eleusis and Diocletian."
 searchAliases:
   - "Atenodoro"
@@ -15,7 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

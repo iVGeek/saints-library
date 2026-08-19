@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anne-Joseph Leroux"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Anne-Joseph Leroux"
 summary: "Ursuline nun at Valenciennes, France, taking the name Josephine. When the convents were suppressed in the French Revolution, she fled to Mons in Hainault (in modern Belgium. She returned to Valenciennes in 1793. She and many of her sisters were arrested and executed for the crime"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes.jpg"
 searchAliases:
@@ -21,10 +21,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

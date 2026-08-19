@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Barsabas"
 honorific: Saint
-title: "Martyr, Priest, Monk, Confessor"
+title: "Saint Joseph Barsabas"
 summary: "A disciple of Jesus. Mentioned in Acts as the other candidate for the 12th Apostle's position, the one vacated by Judas Iscariot. The lot fell to Saint Matthias."
 searchAliases:
   - "Barsabbas"
@@ -17,11 +17,10 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Confessor
-martyr: true
+martyr: false
 ---
 
 A disciple of Jesus. Mentioned in Acts as the other candidate for the 12th Apostle's position, the one vacated by Judas Iscariot. The lot fell to Saint Matthias.

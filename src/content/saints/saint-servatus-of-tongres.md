@@ -1,7 +1,7 @@
 ---
 name: "Saint Servatus of Tongres"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty"
+title: "Saint Servatus of Tongres"
 summary: "Bishop of Tongres (in the modern Belgium) for 37 years. Welcomed Saint Athanasius of Alexandria during his exile by the Arians. Worked to remove heretical bishop of Cologne, Germany in 346. Active at the Council of Rimini in 359. Prophesied the mid-5th century invasion of Gaul by"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Servatus-of-Tongres-1.jpg"
 searchAliases:
@@ -19,11 +19,9 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "against foot problems"
@@ -37,7 +35,7 @@ patronage:
   - "for success"
   - "in Belgium\n\nDiepenbeek"
   - "Tongeren"
-martyr: true
+martyr: false
 ---
 
 Bishop of Tongres (in the modern Belgium) for 37 years. Welcomed Saint Athanasius of Alexandria during his exile by the Arians. Worked to remove heretical bishop of Cologne, Germany in 346. Active at the Council of Rimini in 359. Prophesied the mid-5th century invasion of Gaul by the Huns.

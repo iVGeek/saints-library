@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gundisalvus Fusai Chozo"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Gundisalvus Fusai Chozo"
 summary: "Held high office in the Japanese imperial court. Convert to Christianity. After baptism, he quit his position to work for Jesuit missionaries. Imprisoned in Omura, and while in prison he joined the Jesuits, received into the society by Blessed Charles Spinola. Martyr."
 birthYear: 1582
 deathYear: 1622
@@ -15,9 +15,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

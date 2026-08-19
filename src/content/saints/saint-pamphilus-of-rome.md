@@ -1,7 +1,7 @@
 ---
 name: "Saint Pamphilus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pamphilus of Rome"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Panfilo"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

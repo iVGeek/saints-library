@@ -1,7 +1,7 @@
 ---
 name: "Blessed Berengar of Saint-Papoul"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Berengar of Saint-Papoul"
 summary: "Benedictine monk at the monastery of Saint-Papoul, Toulouse, France. A model of the monastic life, and miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Berenger.jpg"
 searchAliases:

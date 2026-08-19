@@ -1,7 +1,7 @@
 ---
 name: "Saint Apronian the Executioner"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apronian the Executioner"
 summary: "Executioner for imperial Rome. He was a witness at the trial of Saint Sisinnius who was charged with Christianity in the persecutions of Diocletian. Sisinnius' statement of his faith converted Apronian. He was martyred soon after."
 deathYear: 304
 died: "beheaded c.304 at Ancona, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

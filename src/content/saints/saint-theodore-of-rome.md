@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodore of Rome"
 summary: "Martyr. No other information has survived."
 died: "2nd century Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

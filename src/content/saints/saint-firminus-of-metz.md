@@ -1,7 +1,7 @@
 ---
 name: "Saint Firminus of Metz"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Firminus of Metz"
 summary: "Bishop of Metz, France for eight years."
 searchAliases:
   - "Fermin"

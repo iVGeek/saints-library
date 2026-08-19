@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Vilar Espona"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pere Vilar Espona"
 summary: "Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Vilar-Espona.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Benedictine"
 martyr: true
 ---

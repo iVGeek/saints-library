@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Pons Ramis"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miquel Pons Ramis"
 summary: "Priest. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

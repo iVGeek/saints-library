@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martinus In Eon-min"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Martinus In Eon-min"
 summary: "Layman convert. Martyred in the Jeongsa Persecution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

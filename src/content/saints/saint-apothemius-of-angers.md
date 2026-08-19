@@ -1,7 +1,7 @@
 ---
 name: "Saint Apothemius of Angers"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Apothemius of Angers"
 summary: "Hermit. Spritual student of Saint Martin of Tours. Priest. Bishop of Angers, France c.380."
 searchAliases:
   - "Apotemius"

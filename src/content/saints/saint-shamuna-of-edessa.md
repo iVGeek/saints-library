@@ -1,7 +1,7 @@
 ---
 name: "Saint Shamuna of Edessa"
 honorific: Saint
-title: "Martyr, Monk, Confessor"
+title: "Saint Shamuna of Edessa"
 summary: "Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Shamuna-of-Edessa.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Confessor
 martyr: true

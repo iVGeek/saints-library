@@ -1,7 +1,7 @@
 ---
 name: "Saint Maria Bertilla Boscardin"
 honorific: Venerable
-title: "Religious, Pope, Royalty, Soldier"
+title: "Saint Maria Bertilla Boscardin"
 summary: "Born to a poor peasant family headed by Angelo Boscardin who, by his own account, was a violently abusive drunk. Anna had little education, was simple and innocent, and was considered mentally slow; referred to as the goose (as in, “silly as a….”). Worked as a house servant in he"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Santa_Bertilla_Cropped.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
   - Soldier
 religiousOrder: "Franciscan"
 martyr: false

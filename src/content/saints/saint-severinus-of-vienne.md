@@ -1,7 +1,7 @@
 ---
 name: "Saint Severinus of Vienne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Severinus of Vienne"
 summary: "Martyred in the persecutions of Marcus Aurelius."
 deathYear: 170
 died: "martyred in 170 in Vienne, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Tathai"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Tathai"
 summary: "Nephew of Saint Samson of Dol. Hermit in Glamorgan, Wales. Founded the monastery at Llantathan (Saint Athan), Gwent. Founded the monastery school at Caerwent. Reputed miracle worker, he was noted gentleness, love of the country, for his generosity to travellers and the poor."
 searchAliases:
   - "Athaeus"

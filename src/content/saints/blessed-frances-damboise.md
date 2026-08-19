@@ -1,7 +1,7 @@
 ---
 name: "Blessed Frances d'Amboise"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Frances d'Amboise"
 summary: "Daughter of Louis d'Amboise, Viscount de Thouars, she grew up in the courts of Brittany. Duchess of Brittany, being married to Peter II, Duke of Britanny at age 15; she was betrothed to him at age four. It was not a happy marriage, and Peter sometimes abused her, but Frances soft"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frances-dAmboise.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Zanfredini"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Hermit"
+title: "Blessed Francisco Zanfredini"
 summary: "Orphaned when he was very young; when he came of age, Francisco gave away all that he had, became a Franciscan tertiary, and lived as a hermit at Montegranaro, Italy. Spiritual student of Blessed Pietro di Foligno. He built chapels in Pesaro and Montegranaro, and a convent on Col"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Zanfredini.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

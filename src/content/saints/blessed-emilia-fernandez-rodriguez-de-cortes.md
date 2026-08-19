@@ -1,7 +1,7 @@
 ---
 name: "Blessed Emilia Fernández Rodríguez de Cortés"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Emilia Fernández Rodríguez de Cortés"
 summary: "Married lay woman in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Emilia-Fernandez-Rodriguez-de-Cortes.jpg"
 birthYear: 1914
@@ -16,8 +16,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

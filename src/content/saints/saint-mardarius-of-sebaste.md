@@ -1,7 +1,7 @@
 ---
 name: "Saint Mardarius of Sebaste"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mardarius of Sebaste"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 302
 died: "c.302 at Sebaste, Armenia (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

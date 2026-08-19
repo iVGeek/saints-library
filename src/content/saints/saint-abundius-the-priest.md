@@ -1,7 +1,7 @@
 ---
 name: "Saint Abundius the Priest"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Abundius the Priest"
 summary: "Priest in Rome, Italy. Arrested with Saint Abundantius for refusing to sacrifice to Hercules. Tortured at Mammertine prison, and condemned to death for their Christianity. On the way to execution the two passed Senator Marcian who was grieving over his son John who had just died."
 deathYear: 304
 died: "beheaded c.304 at Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

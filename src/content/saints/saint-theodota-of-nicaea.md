@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodota of Nicaea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodota of Nicaea"
 summary: "Martyr."
 deathYear: 230
 died: "c.230 in Nicaea"
@@ -10,7 +10,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

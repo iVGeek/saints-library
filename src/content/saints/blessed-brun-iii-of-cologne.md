@@ -1,7 +1,7 @@
 ---
 name: "Blessed Brun III of Cologne"
 honorific: Blessed
-title: "Bishop, Priest, Monk"
+title: "Blessed Brun III of Cologne"
 summary: "Born to the nobility, the son of Adolf II, the Count of Berg, and of Irmengarde von Dießen-Schwarzenberg; brother of Archbishop Friedrich II of Berg; nephew of Archbishop Bruno II of Berg; uncle of Archbishop Engelbert I of Berg. Priest. Provost of the Association of the Saint Ge"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Brun-III-of-Cologne.jpg"
 searchAliases:

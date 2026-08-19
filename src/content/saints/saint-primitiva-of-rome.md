@@ -1,7 +1,7 @@
 ---
 name: "Saint Primitiva of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Primitiva of Rome"
 summary: "Martyr."
 searchAliases:
   - "Primitia"
@@ -14,7 +14,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

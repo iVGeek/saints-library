@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatho of Thessalonica"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Agatho of Thessalonica"
 summary: "Convicted of possessing the Scriptures despite a prohibition issued in 303 by Emperor Diocletian. He was ordered to sacrifice to pagan gods; he refused. Martyr."
 searchAliases:
   - "Agathon"
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

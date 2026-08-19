@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christopher of Romagna"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Missionary"
+title: "Blessed Christopher of Romagna"
 summary: "Priest. About age 40 he left his parish ministry to become one of the early Franciscan Friars Minor, working with Saint Francis of Assisi himself. Ministered to lepers. Missionary to heretic Albigensians in France. Founded several Franciscan monasteries beginning in Cahors, Guyen"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christopher-of-Romagna.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

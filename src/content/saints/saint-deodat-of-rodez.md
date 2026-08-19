@@ -1,7 +1,7 @@
 ---
 name: "Saint Déodat of Rodez"
 honorific: Saint
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Déodat of Rodez"
 summary: "Franciscan friar. Priest. Missionary to Palestine in 1384. Martyred by the Muslim authorities."
 searchAliases:
   - "Deodato Aribert da Ruticinio"
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

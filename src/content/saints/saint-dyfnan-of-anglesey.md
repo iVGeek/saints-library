@@ -1,7 +1,7 @@
 ---
 name: "Saint Dyfnan of Anglesey"
 honorific: Saint
-title: "Monk"
+title: "Saint Dyfnan of Anglesey"
 summary: "Founded a church in Anglesey, Wales."
 born: "Wales"
 died: "5th century"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Evellius of Pisa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Evellius of Pisa"
 summary: "Imperial advisor to emperor Nero. Converted to Christianity after witnessing the courage and faith of martyrs. He left the imperial court and fled Rome, but was captured and executed. Martyr."
 searchAliases:
   - "Evelio"
@@ -16,7 +16,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

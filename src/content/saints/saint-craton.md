@@ -1,7 +1,7 @@
 ---
 name: "Saint Craton"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Craton"
 summary: "Professor of rhetoric and philosophy. Convert, brought to the faith by Saint Valentine of Terni. Martyred with his wife and family, none of whose names have survived."
 deathYear: 273
 died: "c.273 in Rome, Italy"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cratons_West_Gondwana.svg/960px-Cratons_West_Gondwana.svg.png"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

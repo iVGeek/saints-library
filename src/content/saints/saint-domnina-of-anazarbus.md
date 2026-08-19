@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnina of Anazarbus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Domnina of Anazarbus"
 summary: "Young Christian woman tortured and martyred in the persecutions of Lysias."
 searchAliases:
   - "Donnina"
@@ -15,7 +15,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Menologion_of_Basil_027.jpg/960px-Menologion_of_Basil_027.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

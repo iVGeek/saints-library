@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anunciación Peña Rodríguez"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Anunciación Peña Rodríguez"
 summary: "Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Anunciacion-Pena-Rodriguez.jpg"
 birthYear: 1900
@@ -16,9 +16,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicolás Factor-Estaña"
 honorific: Saint
-title: "Pope"
+title: "Saint Nicolás Factor-Estaña"
 summary: "The son of a tailor, Nicholas joined the Franciscans in 1537 and became a well-known, highly admired and sought after itinerant preacher throughout the region of Valencia, Spain. Noted for scourging himself savagely before each sermon. Mystic and visionary. Legend says that when"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Factor.jpg"
 searchAliases:
@@ -19,8 +19,7 @@ feastDay:
   month: 12
   day: 23
 canonizationStatus: Saint
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

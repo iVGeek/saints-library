@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Ignacio Gordón de la Serna"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed José Ignacio Gordón de la Serna"
 summary: "Member of the Claretians, professed on 20 May 1923. Ordained a priest on 22 September 1929. Martyred in the Spanish Civil War."
 birthYear: 1902
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

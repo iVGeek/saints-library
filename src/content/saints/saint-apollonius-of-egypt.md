@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apollonius of Egypt"
 summary: "Martyred in the persecutions of Galerius Maximian."
 searchAliases:
   - "Apollonio"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

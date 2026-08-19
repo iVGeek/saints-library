@@ -1,7 +1,7 @@
 ---
 name: "Saint Troas"
 honorific: Saint
-title: "Martyr"
+title: "Saint Troas"
 summary: "Martyred in the persecutions of Decius. Saint Gregory the Wonderworker wrote about him."
 searchAliases:
   - "Troade"
@@ -14,8 +14,7 @@ feastDay:
   month: 3
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

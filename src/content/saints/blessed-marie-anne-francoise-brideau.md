@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marie-Anne-Françoise Brideau"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Marie-Anne-Françoise Brideau"
 summary: "Sub-prioress of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic excesses of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

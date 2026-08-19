@@ -1,7 +1,7 @@
 ---
 name: "Saint Senator of Albano"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Senator of Albano"
 summary: "Martyr."
 searchAliases:
   - "Senatore"
@@ -11,7 +11,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Albano, Italy, diocese of"

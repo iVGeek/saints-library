@@ -1,7 +1,7 @@
 ---
 name: "Saint Maura of Picardy"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maura of Picardy"
 summary: "Martyred while on pilgrimage to Rome, Italy."
 born: "Scotland"
 died: "Picardy, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

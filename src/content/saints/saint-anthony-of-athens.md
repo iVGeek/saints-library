@@ -1,7 +1,7 @@
 ---
 name: "Saint Anthony of Athens"
 honorific: Saint
-title: "Martyr"
+title: "Saint Anthony of Athens"
 summary: "A slave purchased by a series of Muslims, each of which tried (and failed) to convert him from Christianity. One of them finally falsely denounced him as having converted to Islam and then back to Christianity, which was a capital offense. Martyr."
 searchAliases:
   - "Antonius"
@@ -13,8 +13,7 @@ feastDay:
   month: 2
   day: 5
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

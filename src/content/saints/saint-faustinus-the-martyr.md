@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustinus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustinus the Martyr"
 summary: "The only one of a group of 45 Christian martyrs whose name has come down to us."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

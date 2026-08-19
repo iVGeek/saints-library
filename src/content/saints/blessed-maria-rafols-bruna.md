@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Rafols-Bruna"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed María Rafols-Bruna"
 summary: "Born to a working class family. After completing her education at a boarding school in Barcelona, Spain, she joined a group of twelve young women under the direction of Father Juan Bonal, who administered Our Lady of Grace Hospital in Zaragoza, Spain. The small community was dedi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Rafols-Bruna.jpg"
 deathYear: 1853
@@ -15,8 +15,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eparchius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eparchius of Caesarea"
 summary: "Martyred by Julian the Apostate."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

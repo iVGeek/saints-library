@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Discalceat"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed John Discalceat"
 summary: "Stone mason. Franciscan. Priest. Pastor of Saint Gregoire, Rennes, France, where he attended to his duties barefooted. Had a special ministry to the sick and the poor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Discalceat.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

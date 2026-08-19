@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernadine Realino"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Bernadine Realino"
 summary: "Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone, Italy. Superintendent of the fiefs of the marquis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-Realino.jpg"
 searchAliases:
@@ -19,16 +19,14 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 patronage:
   - "Carpi, Italy, city of (proclaimed on 25 March 1949 by Pope Leo XII)"
   - "Carpi, Italy, diocese of"
   - "Lecce, Italy (proclaimed on 15 December 1947 by Pope Pius XII)"
-martyr: true
+martyr: false
 ---
 
 Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone, Italy. Superintendent of the fiefs of the marquis of Naples, Italy.

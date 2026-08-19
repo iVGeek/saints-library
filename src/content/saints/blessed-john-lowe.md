@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Lowe"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed John Lowe"
 summary: "Priest for the apostolic vicariate of England. Martyr."
 birthYear: 1553
 born: "c.1553 in London, England"
@@ -12,9 +12,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

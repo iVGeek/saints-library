@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Blanco Guadilla"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Vicente Blanco Guadilla"
 summary: "Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1882
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

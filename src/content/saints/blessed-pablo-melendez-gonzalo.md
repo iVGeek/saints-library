@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pablo Meléndez Gonzalo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pablo Meléndez Gonzalo"
 summary: "Married layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 birthYear: 1876
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 12
   day: 24
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

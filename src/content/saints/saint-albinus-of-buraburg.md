@@ -1,7 +1,7 @@
 ---
 name: "Saint Albinus of Büraburg"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Albinus of Büraburg"
 summary: "Benedictine monk. Missionary to Germany with Saint Boniface. Only bishop of Buraburg, (part of the modern Archdiocese of Mainz, Germany) in 741."
 searchAliases:
   - "Albino"

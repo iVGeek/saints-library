@@ -1,7 +1,7 @@
 ---
 name: "Saint Canonica"
 honorific: Saint
-title: "Hermit, Royalty"
+title: "Saint Canonica"
 summary: "Daughter of a prince of Constantinople. Hermitess in the desert of Jordan."
 region: "Italy"
 feastDay:
@@ -10,7 +10,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Hermit
-  - Royalty
 martyr: false
 ---
 

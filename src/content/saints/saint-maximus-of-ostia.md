@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Ostia"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Maximus of Ostia"
 summary: "Priest. One of a group martyred in the persecutions of Alexander Severus."
 deathYear: 235
 died: "c.235"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

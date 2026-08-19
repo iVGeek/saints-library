@@ -1,7 +1,7 @@
 ---
 name: "Venerable María Josefa Recio Martín"
 honorific: Venerable
-title: "Religious"
+title: "Venerable María Josefa Recio Martín"
 summary: "Nun. Founded the Congregation of the Hospitaller Sisters of the Sacred Heart of Jesus."
 searchAliases:
   - "María Josefa of the Blessed Sacrament"

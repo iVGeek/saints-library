@@ -1,7 +1,7 @@
 ---
 name: "Saint Besa of Egypt"
 honorific: Saint
-title: "Monk"
+title: "Saint Besa of Egypt"
 summary: "Fifth century abbot in Egypt."
 searchAliases:
   - "Wissa"

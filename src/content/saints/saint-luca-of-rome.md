@@ -1,7 +1,7 @@
 ---
 name: "Saint Luca of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Luca of Rome"
 summary: "Martyr."
 searchAliases:
   - "Lucius"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

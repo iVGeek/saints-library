@@ -1,7 +1,7 @@
 ---
 name: "Saint Peregrinus of Rome"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Peregrinus of Rome"
 summary: "Martyred in the persecutions of Emperor Commodus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peregrinus-of-Rome.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 patronage:
   - "Altavilla Irpina, Italy"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Emesa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Emesa"
 summary: "Group of Christian women tortured and executed for their faith in the persecutions of the Arab chieftain Mady."
 died: "Emesa (modern Homs, Syria)"
 deathPlace: "Syria)"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

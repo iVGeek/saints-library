@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vikentij Bosilkov"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Vikentij Bosilkov"
 summary: "Passionist priest, ordained on 25 July 1926. Bishop of Nikopol, Bulgaria on 26 July 1947. Imprisoned and tortured for his faith and for refusing to denouce affiliation with the Vatican by the Communist government in 1948. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vikentij-Bosilkov.jpg"
 searchAliases:
@@ -21,10 +21,8 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

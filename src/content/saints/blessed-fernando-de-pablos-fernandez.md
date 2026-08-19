@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fernando de Pablos Fernández"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Fernando de Pablos Fernández"
 summary: "Teacher in a public school. Dominican lay brother, making his profession at Almagro, Spain in 1904. After serving in several places, he was assigned to Almería, Spain where he was a sacristan. On 21 July 1936, at the outbreak of the Spanish Civil War, he fled the anti-Catholic Co"
 birthYear: 1876
 deathYear: 1936
@@ -14,10 +14,7 @@ feastDay:
   month: 9
   day: 26
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

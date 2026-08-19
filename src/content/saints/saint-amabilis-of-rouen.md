@@ -1,7 +1,7 @@
 ---
 name: "Saint Amabilis of Rouen"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Amabilis of Rouen"
 summary: "Born to the English nobility. Nun at Saint-Amand in Rouen, France."
 deathYear: 634
 died: "c.634 of natural causes"

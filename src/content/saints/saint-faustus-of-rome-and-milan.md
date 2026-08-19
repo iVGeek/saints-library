@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus of Rome and Milan"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus of Rome and Milan"
 summary: "Martyr."
 searchAliases:
   - "Fausto"
@@ -13,7 +13,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

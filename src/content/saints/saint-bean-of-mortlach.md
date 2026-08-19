@@ -1,7 +1,7 @@
 ---
 name: "Saint Bean of Mortlach"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope"
+title: "Saint Bean of Mortlach"
 summary: "Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland."
 searchAliases:
   - "Bean of Aberdeen"
@@ -19,11 +19,9 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland.

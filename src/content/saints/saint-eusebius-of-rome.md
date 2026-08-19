@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusebius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Saint Eusebius of Rome"
 summary: "Imperial Roman patrician. Priest. Pope Liberius subscribed to the Arian formula of Sirmium; when he was permitted by the Emperor Constantius to return to Rome, Eusebius, an ardent defender of the Nicene Creed, publicly denounced them both. He was imprisoned, and died seven months"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eusebius-of-Rome.jpg"
 deathYear: 357
@@ -13,12 +13,10 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Imperial Roman patrician. Priest. Pope Liberius subscribed to the Arian formula of Sirmium; when he was permitted by the Emperor Constantius to return to Rome, Eusebius, an ardent defender of the Nicene Creed, publicly denounced them both. He was imprisoned, and died seven months later. Confessor.

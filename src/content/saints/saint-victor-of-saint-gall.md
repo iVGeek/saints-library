@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Saint Gall"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Victor of Saint Gall"
 summary: "Monk at Saint Gall in Switzerland. Hermit in the Vosges, France."
 deathYear: 995
 died: "995 in Vosges, France"

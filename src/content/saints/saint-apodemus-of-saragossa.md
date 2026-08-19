@@ -1,7 +1,7 @@
 ---
 name: "Saint Apodemus of Saragossa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Apodemus of Saragossa"
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean."
 searchAliases:
   - "Apodemius"
@@ -14,7 +14,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

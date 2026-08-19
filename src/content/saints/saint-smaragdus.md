@@ -1,7 +1,7 @@
 ---
 name: "Saint Smaragdus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Smaragdus"
 summary: "Ministered to the Christian slaves who worked to build and staff the baths of Diocletian. Tortured and martyred with a group of 19 other Christians in the persecutions of Diocletian and Maximian Herculeus."
 searchAliases:
   - "Smaragdo"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/7/76/RomaForoRomanoColonnaFoca2.JPG"
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

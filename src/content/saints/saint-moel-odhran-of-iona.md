@@ -1,7 +1,7 @@
 ---
 name: "Saint Moel-Odhran of Iona"
 honorific: Saint
-title: "Monk"
+title: "Saint Moel-Odhran of Iona"
 summary: "7th century monk of Iona, Scotland."
 searchAliases:
   - "Maelodran"

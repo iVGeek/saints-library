@@ -1,7 +1,7 @@
 ---
 name: "Saint Tôma Khuông"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Tôma Khuông"
 summary: "Born to the Tonkinese nobility, he was raised in a Christian home. Priest in the apostolic vicariate of Central Tonkin (modern Vietnam). Member of the Dominican Fraternity of Priests, and a tertiary. Imprisoned several times in the persecutions of Minh-Manh, but released. Arreste"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tôma-Khuông.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

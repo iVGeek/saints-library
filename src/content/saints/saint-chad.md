@@ -1,7 +1,7 @@
 ---
 name: "Saint Chad of Mercia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Missionary, Confessor"
+title: "Saint Chad of Mercia"
 summary: " Not long after Chad became abbot, Saint Wilfrid of York was chosen Bishop Brother of Saint Cedd and Saint Cynibild. Missionary monk to Ireland with Saint Egbert. Ordained in 653. Studied Latin and astronomy. Abbot at Lastingham monastery, Yorkshire, England; abbot to Saint Owen."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Saint_Chad%27s_Church%2C_Wrecsam%2C_Cymru%2C_Wales_71_%28cropped%29.jpg/960px-Saint_Chad%27s_Church%2C_Wrecsam%2C_Cymru%2C_Wales_71_%28cropped%29.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

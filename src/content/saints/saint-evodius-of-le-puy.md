@@ -1,7 +1,7 @@
 ---
 name: "Saint Evodius of Le Puy"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Evodius of Le Puy"
 summary: "Bishop of Le Puy, France."
 deathYear: 560
 died: "c.560"

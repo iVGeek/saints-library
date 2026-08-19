@@ -1,7 +1,7 @@
 ---
 name: "Saint Hermione"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Hermione"
 summary: "One of the daughters of Saint Philip the Deacon who is mentioned in the Acts of the Apostles. Had the gift of prophecy. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermione.jpg"
 deathYear: 117
@@ -12,7 +12,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

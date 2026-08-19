@@ -1,7 +1,7 @@
 ---
 name: "Saint Lambert of Maastricht"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Lambert of Maastricht"
 summary: "Born to the nobility, the son of Aper and Herisplindis, he received a good, religious oriented education. Student of Saint Landoaldus and Saint Theodardus. Priest. Bishop of Maastricht, Netherlands in 670. Forced for political reasons into exile from Maastricht from 674 to 681. M"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Diptyque_de_Palude%2C_Martyre_de_saint_Lambert.jpg/960px-Diptyque_de_Palude%2C_Martyre_de_saint_Lambert.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

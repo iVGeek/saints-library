@@ -1,7 +1,7 @@
 ---
 name: "Blessed James Benefatti"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Confessor"
+title: "Blessed James Benefatti"
 summary: "Dominican at Mantua, Italy in 1290. Doctor of theology. Priest. Friend and brother friar with Nicholas Boccasino who later became Pope Benedict XI, and for whom James held several support offices including papal legate. Bishop of Mantua in 1303. Noted for his devotion to the poor"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-James-Benefatti.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

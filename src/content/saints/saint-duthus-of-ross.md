@@ -1,7 +1,7 @@
 ---
 name: "Saint Duthus of Ross"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Duthus of Ross"
 summary: "Educated in Ireland. Bishop of Ross, Scotland."
 searchAliases:
   - "Chief Confessor of Ireland and Scotland"
@@ -24,7 +24,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 patronage:
   - "Tain, Scotland"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balduino of Rieti"
 honorific: Blessed
-title: "Monk, Pope, Cardinal"
+title: "Blessed Balduino of Rieti"
 summary: "Born to a pious noble family, the son of Berardo X, Count of Marsi; his brother Rainaold became abbot of Montecassino Abbey, and created cardinal by Pope Innocent II in 1138. Benedictine Cistercian monk at Clairvaux Abbey. Spiritual student of Saint Bernard of Clairvaux. Abbot of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Baudoin-of-Rieti.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: false

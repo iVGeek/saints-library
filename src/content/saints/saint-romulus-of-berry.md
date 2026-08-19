@@ -1,7 +1,7 @@
 ---
 name: "Saint Romulus of Berry"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Romulus of Berry"
 summary: "Priest. Founded a monastery in Berry, France."
 deathYear: 700
 died: "c.700 of natural causes"

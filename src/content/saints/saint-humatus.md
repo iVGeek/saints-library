@@ -1,14 +1,13 @@
 ---
 name: "Saint Humatus"
 honorific: Saint
-title: "Martyr"
+title: "Saint Humatus"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

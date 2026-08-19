@@ -1,7 +1,7 @@
 ---
 name: "Blessed Armand-Anne-Auguste-Antonin-Sicaire Chapt de Rastignac"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Armand-Anne-Auguste-Antonin-Sicaire Chapt de Rastignac"
 summary: "Priest in the diocese of Orléans, France. One of the Martyrs of September."
 birthYear: 1727
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

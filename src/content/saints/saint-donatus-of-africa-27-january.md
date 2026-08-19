@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Donatus of Africa"
 summary: "Martyr. No other reliable information has survived."
 died: "in Africa"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

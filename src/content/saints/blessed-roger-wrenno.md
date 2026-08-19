@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roger Wrenno"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Confessor"
+title: "Blessed Roger Wrenno"
 summary: "Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."
 searchAliases:
   - "Ruggero"
@@ -17,9 +17,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 martyr: true
 ---

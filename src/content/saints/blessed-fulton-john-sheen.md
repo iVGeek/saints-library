@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fulton John Sheen"
 honorific: Blessed
-title: "Virgin, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Fulton John Sheen"
 summary: "Oldest of four sons born to Newton and Delia Sheen. Suffered from tuberculosis as an infant. Ordained on 20 September 1919 in the Diocese of Peoria, Illinois. Earned a doctorate in philosophy at Catholic University in Leuven, Belgium in 1923, and won the Cardinal Mercier award fo"
 image: "http://catholicsaints.info/wp-content/uploads/Venerable-Fulton-John-Sheen.jpg"
 birthYear: 1895
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Bishop
   - Priest
 martyr: false

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Silao"
 honorific: Blessed
-title: "Bishop, Priest, Monk, Pope"
+title: "Blessed Silao"
 summary: "Born to the Irish nobility. Priest. Benedictine monk. Abbot. Bishop. Having encountered opposition from a local lord, Silao went to Rome, Italy to appeal for support from Pope Gregory VII, but died on the road on the return trip."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Parroquia_de_Santiago_Ap%C3%B3stol_-_Silao%2C_Guanajuato.jpg/960px-Parroquia_de_Santiago_Ap%C3%B3stol_-_Silao%2C_Guanajuato.jpg"
 born: "early 11th century Ireland"
@@ -16,7 +16,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

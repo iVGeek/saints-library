@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luciano Hernández Ramírez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luciano Hernández Ramírez"
 summary: "Priest. Dominican. Martyred in the Spanish Civil War."
 searchAliases:
   - "Reginaldo"
@@ -17,9 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

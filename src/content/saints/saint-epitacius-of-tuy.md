@@ -1,7 +1,7 @@
 ---
 name: "Saint Epitacius of Tuy"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Epitacius of Tuy"
 summary: "First bishop of Tuy, Galatia (in modern Spain)."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Epitacius-of-Tuy.jpg"
 searchAliases:
@@ -13,10 +13,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 First bishop of Tuy, Galatia (in modern Spain).

@@ -1,7 +1,7 @@
 ---
 name: "Saint Philippus Zhang Zhihe"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Philippus Zhang Zhihe"
 summary: "Seminarian in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer Rebellion."
 searchAliases:
   - "Fili"
@@ -13,9 +13,7 @@ feastDay:
   month: 7
   day: 9
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

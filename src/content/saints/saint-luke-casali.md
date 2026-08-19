@@ -1,7 +1,7 @@
 ---
 name: "Saint Luke Casali"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Luke Casali"
 summary: " Lucas eventually, for unknown reasons, went blind. One day while they were travelling to Nicosia, one his monks tried to play a trick on the blind Educated by the abbot of the monastery of Saint Philip at Agira, Sicily, Italy. Monk at Agira. Priest. Reluctant abbot of his house."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Luke-Casali.jpg"
 searchAliases:

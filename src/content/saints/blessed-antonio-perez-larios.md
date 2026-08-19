@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Pérez Lários"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Cardinal"
+title: "Blessed Antonio Pérez Lários"
 summary: "Layman. Martyred in the anti-Catholic persecutions of the Mexican Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Perez-Larios.jpg"
 birthYear: 1883
@@ -16,9 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Cardinal
 martyr: true
 ---

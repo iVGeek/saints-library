@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Gerona"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Felix of Gerona"
 summary: "Deacon. Martyr."
 deathYear: 307
 died: "c.307 in Gerona, Catalonia, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 patronage:

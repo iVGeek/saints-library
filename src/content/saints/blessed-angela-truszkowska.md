@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angela Truszkowska"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Angela Truszkowska"
 summary: "Eldest daughter of Joseph and Josephine Truszkowski, Polish nobles. Well educated, Sophia was a pious, and lively youth with a frail constitution. She relocated to Warsaw, Poland in 1837, and attended the Academy of Madame Guerin. Due to respiratory illness, she and her tutor Ana"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/de/B%C5%82._Maria_Angela_Truszkowska.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against sickness"

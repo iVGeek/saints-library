@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Firmus"
 summary: "Scourged and executed in the persecutions of Emperor Maximian Herculeus. Martyr."
 deathYear: 290
 died: "beheaded c.290"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

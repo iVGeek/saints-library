@@ -1,7 +1,7 @@
 ---
 name: "Blessed Helen Enselmini"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Helen Enselmini"
 summary: "Became a Poor Clare nun at age 12, receiving the veil from Saint Francis of Assisi himself at Arcella. Had the gift of inedia, living solely off the Eucharist for months. Her health suffered in adulthood, and she was both blind and mute by her death."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-Enselmini.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Thomas Leroy"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Thomas Leroy"
 summary: "Priest of the diocese of Meaux, France. One of the Martyrs of September."
 birthYear: 1738
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

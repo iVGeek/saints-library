@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernadette of Lourdes"
 honorific: Venerable
-title: "Martyr"
+title: "Saint Bernadette of Lourdes"
 summary: "Oldest of six children born to Francois and Louise Casterot, and grew up very poor. Hired out as a servant from age 12 to 14. Shepherdess. On 11 February 1858, around the time of her first Communion, she received a vision of the Virgin; her own account of it is in the Readings se"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadette-of-Lourdes.jpg"
 searchAliases:
@@ -23,8 +23,7 @@ feastDay:
   month: 4
   day: 16
 canonizationStatus: Venerable
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "against bodily ills"
@@ -37,7 +36,7 @@ patronage:
   - "shepherdesses"
   - "shepherds"
   - "sick people"
-martyr: true
+martyr: false
 ---
 
 Oldest of six children born to Francois and Louise Casterot, and grew up very poor. Hired out as a servant from age 12 to 14. Shepherdess. On 11 February 1858, around the time of her first Communion, she received a vision of the Virgin; her own account of it is in the Readings section below. She received seventeen more in the next five months, and was led to a spring of healing waters. She moved into a house with the Sisters of Nevers at Lourdes where she lived, worked, and learned to read and write. The sisters cared for the sick and indigent, and at age 22 they admitted Bernadette into their order since she was both. Always sick herself, and often mistreated by her superiors, she died with a prayer for Mary's aid. Since the appearances of Mary to young Bernadette in 1858, more than 200 million people have visited the shrine of Lourdes.

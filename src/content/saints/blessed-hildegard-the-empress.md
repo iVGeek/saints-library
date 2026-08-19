@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hildegard the Empress"
 honorific: Blessed
-title: "Monk, Religious, Royalty"
+title: "Blessed Hildegard the Empress"
 summary: "Daughter of the Duke of Swabia, Germany. Married Emperor Charlemagne in 771. Empress. Mother of nine during her twelve years of married life. Friend and supporter of many monks and nuns including Saint Lioba of Bischofsheim. Founded Kempten abbey."
 searchAliases:
   - "Hildegard of Swabia"
@@ -21,7 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Religious
-  - Royalty
 martyr: false
 ---
 

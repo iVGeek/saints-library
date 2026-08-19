@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Cornelius"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope"
+title: "Pope Saint Cornelius"
 summary: " Worked to maintain unity in a time of schism and apostasy. Fought Novatianism and called a synod of bishops to confirm hi Bishop. Reluctant 21st pope, elected after a year-and-a-half period during which the persecutions were so bad that papal ascension was a quick death sentence."
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg"
 deathYear: 253
@@ -12,8 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Sebastian Pelczar"
 honorific: Venerable
-title: "Virgin, Bishop, Priest, Religious, Pope, Royalty"
+title: "Saint Joseph Sebastian Pelczar"
 summary: " Transferred to Rome in 1866, he studied at the Collegium Romanum (Gregorian University) and the Institute of Saint Apollinaris (La Raised in a pious family. Studied in Rzesz&oacute;w, and entered the seminary at Przemysl in 1860. Ordained on 17 July 1864. Parish priest at Sambor."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Sebastian-Pelczar.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques-Gabriel Galais"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jacques-Gabriel Galais"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1754
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Ou"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Peter Ou"
 summary: "Born to a non-Christian family. Known from his youth for his sense of justice, his quick defense of the poor and oppressed; his outspoken nature actually frightened people in his traditionalist region. A husband and self-made businessman, he owned and ran a large hotel. One of th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Ou.gif"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   month: 11
   day: 7
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

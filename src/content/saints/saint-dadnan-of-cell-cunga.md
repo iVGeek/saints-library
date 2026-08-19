@@ -1,7 +1,7 @@
 ---
 name: "Saint Dadnan of Cell Cunga"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Dadnan of Cell Cunga"
 summary: "Bishop mentioned in the Tallaght martyrology; no other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felícitas Cendoya Araquistain"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Felícitas Cendoya Araquistain"
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
 searchAliases:
   - "Sister María Cecilia"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

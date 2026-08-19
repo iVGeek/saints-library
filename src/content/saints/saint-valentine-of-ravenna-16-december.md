@@ -1,7 +1,7 @@
 ---
 name: "Saint Valentine of Ravenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Valentine of Ravenna"
 summary: "Martyr. No other information has survived."
 deathYear: 305
 died: "c.305 at Ravenna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

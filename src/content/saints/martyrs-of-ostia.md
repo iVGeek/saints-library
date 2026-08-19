@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Ostia"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Martyrs of Ostia"
 summary: "A group of criminals who were brought to the faith by Pope Saint Alexander I while he was in prison with them. Martyrs."
 searchAliases:
   - "Martyrs of Rome"
@@ -14,9 +14,7 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

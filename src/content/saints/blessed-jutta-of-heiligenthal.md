@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jutta of Heiligenthal"
 honorific: Blessed
-title: "Monk, Religious"
+title: "Blessed Jutta of Heiligenthal"
 summary: "Benedictine Cistercian nun. Founded a convent in Heiligenthal, Germany in 1222, and served as its first abbess for 16 years."
 searchAliases:
   - "Julitta of Heiligenthal"

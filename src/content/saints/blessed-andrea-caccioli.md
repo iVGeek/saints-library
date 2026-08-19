@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrea Caccioli"
 honorific: Blessed
-title: "Priest, Pope, Hermit"
+title: "Blessed Andrea Caccioli"
 summary: "Ordained a priest in the diocese of Spoleto, Italy in 1216. He met and became one of the early spiritual students of Saint Francis of Assisi in 1219. Father Andrea was the first priest to join the Franciscans; he received the habit from Francis in 1223, was at the Saint's deathbe"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Blessed_andrea_caccioli.png"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 patronage:

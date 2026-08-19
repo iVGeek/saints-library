@@ -1,7 +1,7 @@
 ---
 name: "Saint Cornelius McConchailleach"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cornelius McConchailleach"
 summary: "Joined the Augustinians at Armagh, Ireland in 1140. Abbot in 1151. Archbishop of Armagh in 1174. Pilgrim to Rome, Italy; died on his way home."
 searchAliases:
   - "Cornelius Mac Conchailleadh"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Photinus of Marmora"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Photinus of Marmora"
 summary: "Tortured and martyred in the persecutions of Diocletian."
 searchAliases:
   - "Fotinus"
@@ -14,7 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

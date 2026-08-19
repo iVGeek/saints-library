@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmus of Nicea"
 honorific: Saint
-title: "Martyr"
+title: "Saint Firmus of Nicea"
 summary: "Martyr."
 died: "Nicea, Asia Minor (Turkey)"
 deathPlace: "Asia Minor (Turkey)"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

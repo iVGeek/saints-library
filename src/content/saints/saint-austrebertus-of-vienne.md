@@ -1,7 +1,7 @@
 ---
 name: "Saint Austrebertus of Vienne"
 honorific: Saint
-title: "Bishop, Missionary"
+title: "Saint Austrebertus of Vienne"
 summary: "Bishop of Vienne, France from 726 till 742. Supported the missionary work of Saint Boniface."
 deathYear: 742
 died: "742"

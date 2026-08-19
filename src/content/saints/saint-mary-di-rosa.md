@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary di Rosa"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Religious, Pope"
+title: "Saint Mary di Rosa"
 summary: "One of nine children born to the industrialist Clement di Rosa and Countess Camilla Albani and Clement di Rosa. Her father owned a large spinning mill, and Mary grew up in a happy and pious family. Educated by Visitandine nuns. Mary's mother died when the girl was seventeen, and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-di-Rosa-1.jpg"
 searchAliases:
@@ -23,12 +23,10 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 One of nine children born to the industrialist Clement di Rosa and Countess Camilla Albani and Clement di Rosa. Her father owned a large spinning mill, and Mary grew up in a happy and pious family. Educated by Visitandine nuns. Mary's mother died when the girl was seventeen, and she left school to help manage her father's estate. Her heart set on a religious life, she turned down many suitors. She worked with young girls in her community, those who worked in her father's mills, and the sick in local hospital, including endless work during the cholera epidemic of 1836. Founded a home dedicated to the spiritual needs of young girls, and a school for deaf children. In 1840 she became the superior of the Handmaids of Charity, nuns who cared for the sick, and she took the name Mary Crucifixa. The community received their bishop's approval in 1843, papal approval in 1850, and Mary led them until her death.

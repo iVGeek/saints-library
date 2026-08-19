@@ -1,7 +1,7 @@
 ---
 name: "Esther the Queen"
 honorific: Saint
-title: "Priest, Royalty"
+title: "Esther the Queen"
 summary: "Queen of Persia and wife of Assuerus, who is identified with Xerxes (485-465 B.C.). She was a daughter of Abihail of the tribe of Benjamin, her Jewish name being Edissa. She had been adopted by her father's brother, Mardochai, and her beauty caused Assuerus to choose her as his q"
 image: "http://catholicsaints.info/wp-content/uploads/img-Esther.jpg"
 region: "England"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
 martyr: false
 ---
 

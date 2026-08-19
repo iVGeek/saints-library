@@ -1,7 +1,7 @@
 ---
 name: "Saint Fiorenzo of Populonia"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Fiorenzo of Populonia"
 summary: "Priest. Bishop of Populonia, Italy. Known as a man of deep faith, piety and devotion. He welcomed Christians fleeing from Arian Vandals in north Africa, including Saint Regulus, bishop of the group, and Saint Cerbonius of Populonia, who succeeded Fiorenzo as bishop."
 deathYear: 554
 died: "554 in or near Populonia, Italy of natural causes"

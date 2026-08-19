@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Pascual Carda Saporta"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed José Pascual Carda Saporta"
 summary: "Ordained on 12 August 1918. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Prefect of the seminary in Zaragoza, Spain and then of Tarragona, Spain. Parish priest in Mexico for two years, expelled in the anti-Catholic revolt. Spiritual director of seminaries"
 birthYear: 1893
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

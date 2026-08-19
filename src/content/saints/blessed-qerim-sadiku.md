@@ -1,7 +1,7 @@
 ---
 name: "Blessed Qerim Sadiku"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Qerim Sadiku"
 summary: "Qerim served in the Albanian gendarmerie in the reign of Zog I, rising to the rank of lieutenant. During World War II, he ran a shop and avoided politics. He married Marije Vata in September 1944. After the war, when the Communists took over Albania, Querim was known to be anti-C"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Qerim-Sadiku.jpg"
 birthYear: 1919
@@ -16,10 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

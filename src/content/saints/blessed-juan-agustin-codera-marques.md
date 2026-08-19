@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Agustín Codera Marqués"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Juan Agustín Codera Marqués"
 summary: "Baptized at the age of 1 day. Member of the Salesians of Don Bosco, taking his vows on 24 July 1919 in Carabanchel Alto, Madrid, Spain. Worked as a nurse. Arrested several times in the persecutions of the Spanish Civil War, he was finally grabbed while on his way to visit the sic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Agustín-Codera-Marqués.jpg"
 birthYear: 1883
@@ -15,10 +15,7 @@ feastDay:
   month: 9
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

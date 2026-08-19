@@ -1,7 +1,7 @@
 ---
 name: "Saint Vitalis of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vitalis of Africa"
 summary: "Martyred in Africa. No other information has survived."
 region: "Africa"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

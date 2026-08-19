@@ -1,7 +1,7 @@
 ---
 name: "Saint Euthymius of Perugia"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Euthymius of Perugia"
 summary: "Married layman. Father of Saint Crescentius. During the persecutions of Diocletian he and his family fled Rome to Perugia, Italy."
 searchAliases:
   - "Eutimio"

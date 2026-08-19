@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonietta Farani"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Venerable Antonietta Farani"
 summary: "Daughter of the vice-consul of Italy in Brazil, she grew up watching her family fortunes dwindle following the death of her father and financial irregularities by her uncles. Seeing her lack of position in the world as a way to follow a call to religion, Maria joined the Passioni"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonietta-Farani.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

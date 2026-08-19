@@ -1,7 +1,7 @@
 ---
 name: "Saint Gabriel Gowdel"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gabriel Gowdel"
 summary: "Son of Peter and Anastasia Gowdel who were pious Orthodox Christians. Gabriel was noted for his piety and prayer from a very early age. He was a murder victim, and was considered a martyr. His attacker buried the body in a wooded area near the village where stray dogs guarded it"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gabriel-Gowdel.jpg"
 searchAliases:
@@ -22,8 +22,7 @@ feastDay:
   month: 5
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "children"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Jean-Théophane Vénard"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Pope, Missionary"
+title: "Saint Jean-Théophane Vénard"
 summary: "Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was the bishop of Poitiers, France. Studied at the College of Doue-la-Fontaine, Montmorillon, Poitiers, and the Paris Seminary for Foreign Missions. Ordained on 5 Ju"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Théophane-Vénard.jpg"
 birthYear: 1829
@@ -16,10 +16,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Rafaela Jesus Hostia"
 honorific: Venerable
-title: "Religious, Pope, Royalty"
+title: "Venerable Maria Rafaela Jesus Hostia"
 summary: "Joined the Capuchin Poor Clare nuns on 15 May 1941, taking the name Rafaela María de Jesús Hostia. Beginning in 1949, she served for years as mistress of novices. Elected abbess of her house in 1960, she served the remaining 28 years of her life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Rafaela-Jesus-Hostia.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: false
 ---

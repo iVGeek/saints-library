@@ -1,7 +1,7 @@
 ---
 name: "Saint Porphyrius of Gaza"
 honorific: Saint
-title: "Bishop, Priest, Monk, Deacon, Hermit, Confessor"
+title: "Saint Porphyrius of Gaza"
 summary: "Born to wealth. Hermit in the desert of Skete, Egypt. Hermit in Palestine on the bank of the Jordan River. Ordained as a priest in Jerusalem. Reluctant bishop of Gaza, he took to this assignment with great zeal and devotion. He converted almost all of his diocese, and nearly elim"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Porphyry-Bishop.jpg"
 searchAliases:

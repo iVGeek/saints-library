@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marianna Biernacka"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Marianna Biernacka"
 summary: "Lifelong lay woman in the diocese of Lomza, Poland. She had little education; she may have been able to read a little, but she could not write. Raised in the Orthodox church, she converted to Catholicism at age 17. Married to Ludwik Biernacki, a farmer, at age 20. Mother of six,"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Marianna_Biernacka.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 13
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Casto of Calvi"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Missionary"
+title: "Saint Casto of Calvi"
 summary: " Lured to a location near Aquaviva in central Italy with a challenge by pagan priests to prove the power of Christianity over that of idols, Casto and Saint Cassio of Sinuessa were seized, beaten and then thrown into a fire. Wh Priest. Missionary bishop. Miracle worker and healer."
 searchAliases:
   - "Castus"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Missionary

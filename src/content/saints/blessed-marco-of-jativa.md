@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marco of Jativa"
 honorific: Blessed
-title: "Soldier"
+title: "Blessed Marco of Jativa"
 summary: "Soldier, knight and officer. Mercedarian friar at the convent of San Matteo, Jativa, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marco-of-Jativa.jpg"
 region: "Spain"

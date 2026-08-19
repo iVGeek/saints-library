@@ -1,7 +1,7 @@
 ---
 name: "Venerable József Mindszenty"
 honorific: Venerable
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Venerable József Mindszenty"
 summary: "Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught religion in Zalaegerszeg, Hungary. Founded the newspaper Zalamegyei Újság (Zala County Newspaper) in 1918, helped found the Catholic People's Party, and was arres"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/J%C3%B3zsef_Mindszenty.jpg/960px-J%C3%B3zsef_Mindszenty.jpg"
 searchAliases:
@@ -20,11 +20,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught religion in Zalaegerszeg, Hungary. Founded the newspaper Zalamegyei Újság (Zala County Newspaper) in 1918, helped found the Catholic People's Party, and was arrested on 9 February 1919, all due to his opposition to Communism. In October 1919, he was assigned to Zalaegerszeg where he served 25 years as a parish priest. There he spoke and wrote in defense of the faith, and against the influence of Communism and the state; when anti–Communist forces became too radical and violent, Father József helped found the National Policy Service to oppose them. He opposed the repression of the Jews in the area, and publicly supported the area rabbi. Awarded the title of papal prelate by Pope Pius XI in 1937.

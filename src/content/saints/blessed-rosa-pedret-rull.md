@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rosa Pedret Rull"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Rosa Pedret Rull"
 summary: "Joined the Carmelite Sisters of Charity on 4 March 1886, making her perpetual vows in 1891. Assigned to Cullera, Spain where she became the eldest member and a motherly figure to all the younger sisters. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Rosa.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: true
 ---

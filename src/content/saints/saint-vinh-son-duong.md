@@ -1,7 +1,7 @@
 ---
 name: "Saint Vinh-Son Duong"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Vinh-Son Duong"
 summary: "Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 6
   day: 6
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

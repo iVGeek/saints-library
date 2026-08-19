@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Bruno"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Francis Bruno"
 summary: "Franciscan. A pious mystic, he received several visions, including one of Paradise. Known as a miracle worker."
 searchAliases:
   - "Francesco"
@@ -15,8 +15,7 @@ feastDay:
   month: 3
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

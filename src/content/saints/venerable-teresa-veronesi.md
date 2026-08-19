@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Veronesi"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Teresa Veronesi"
 summary: "Professed religious in the Little Sisters of the Mother of Sorrows where she served 41 years as teacher and catechist."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Veronesi.jpg"
 birthYear: 1870
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

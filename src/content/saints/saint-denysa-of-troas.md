@@ -1,7 +1,7 @@
 ---
 name: "Saint Denysa of Troas"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Denysa of Troas"
 summary: "A Christian girl ordered to sacrifice to pagan idols during the persecutions of Decius. She refused and was given over to a house of prostitution to be raped into submission. She fought against her “customers” until exhausted at which point her guardian angel appeared and frighte"
 searchAliases:
   - "Dionisia"
@@ -14,7 +14,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

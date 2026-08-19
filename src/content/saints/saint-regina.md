@@ -1,7 +1,7 @@
 ---
 name: "Saint Regina"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Regina"
 summary: "Daughter of a pagan aristocrat named Clement. A convert to Christianity, she was driven from her family's home because of her faith, and lived as a poor, prayerful shepherdess. Imprisoned, tortured and martyred when she refused an arranged marriage to the Roman proconsul Olybrius"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Regina-1.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

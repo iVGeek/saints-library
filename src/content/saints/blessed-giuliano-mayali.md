@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuliano Mayali"
 honorific: Blessed
-title: "Monk, Pope, Hermit, Royalty"
+title: "Blessed Giuliano Mayali"
 summary: "Feeling a call to the contemplative religious life of a hermit, Giuliano became a Benedictine monk at Santa Maria delle Ciambre near Monreale, Italy in 1417, and gave over all his wealth and possession to the house. However, he was soon called from a hermit's life to one of publi"
 searchAliases:
   - "Giuliano of Palermo"
@@ -19,9 +19,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

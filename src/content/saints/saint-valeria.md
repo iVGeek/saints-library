@@ -1,7 +1,7 @@
 ---
 name: "Saint Valeria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Valeria"
 summary: "Roman martyr whose cultus was very popular in France during the time of Saint Eligius."
 region: "France"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

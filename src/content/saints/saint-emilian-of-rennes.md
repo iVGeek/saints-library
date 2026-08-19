@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilian of Rennes"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Emilian of Rennes"
 summary: "Hermit in Rennes, Brittany, France."
 region: "France"
 feastDay:

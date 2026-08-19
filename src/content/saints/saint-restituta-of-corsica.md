@@ -1,7 +1,7 @@
 ---
 name: "Saint Restituta of Corsica"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Restituta of Corsica"
 summary: " The oldest sources say that Restituta fled persecution in north Africa with five male companions (possibly the Martyrs of Noli). She evangelized We have two stories about this martyr, one medieval with limited information, the second later in composition, and much more colourful."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Restituta-of-Corsica.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 patronage:

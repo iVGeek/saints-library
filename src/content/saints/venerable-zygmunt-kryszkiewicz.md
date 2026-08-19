@@ -1,7 +1,7 @@
 ---
 name: "Venerable Zygmunt Kryszkiewicz"
 honorific: Venerable
-title: "Priest, Pope, Royalty, Confessor"
+title: "Venerable Zygmunt Kryszkiewicz"
 summary: "Born to a family of seven children, Zygmunt was baptized at the age of 6 days. Feeling a call to religion, he joined the Passionist in 1933 at age 18, making his solemn profession on 11 November 1937. While studying in Poland and in Rome, Italy, Zygmunt began experiencing severe"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Zygmunt-Kryszkiewicz.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: false
 ---

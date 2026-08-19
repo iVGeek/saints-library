@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret of Hungary"
 honorific: Saint
-title: "Virgin, Priest, Monk, Pope, Royalty"
+title: "Saint Margaret of Hungary"
 summary: "Daughter of King Bela IV of Hungary and Marie Laskaris; grand-daughter of the Byzantine emperor. When Hungary was freed from the Tatars, her parents had pledged their next child to God. To keep this promise, Margaret was placed in a Dominican convent at Veszprem, Hungary at age 3"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Margaret-of-Hungary-1.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ vocation:
   - Virgin
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "against flood"

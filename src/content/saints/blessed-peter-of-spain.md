@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter of Spain"
 honorific: Blessed
-title: "Martyr, Soldier"
+title: "Blessed Peter of Spain"
 summary: "Mercedarian tertiary and knight. Known as a man of great learning and personal piety. Led a Christian army into Algiers to oppose the Saracens. Martyr."
 deathYear: 1418
 died: "cut to pieces near Trovandosi, Algeria in 1418"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Summulae_logicales.jpg"
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

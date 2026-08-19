@@ -1,7 +1,7 @@
 ---
 name: "Saint Andrew Corsini"
 honorific: Saint
-title: "Bishop, Monk, Pope, Confessor"
+title: "Saint Andrew Corsini"
 summary: "Following a wild and misspent youth, Andrew became a Carmelite at Florence, Italy in 1318. Studied at Paris and Avignon, France. Prior. Provincial of Tuscany, Italy in 1348. Bishop of Fiesole, Italy on 13 October 1349. Had the gifts of prophecy and miracles. Noted peacemaker betw"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_Reni_039.jpg/960px-Guido_Reni_039.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Carmelite"
 patronage:

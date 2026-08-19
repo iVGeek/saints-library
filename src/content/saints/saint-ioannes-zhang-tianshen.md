@@ -1,7 +1,7 @@
 ---
 name: "Saint Ioannes Zhang Tianshen"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Ioannes Zhang Tianshen"
 summary: "Married layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr."
 searchAliases:
   - "John Zhang Tianshen\nRuowang"
@@ -16,9 +16,7 @@ feastDay:
   month: 2
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

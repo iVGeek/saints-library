@@ -1,7 +1,7 @@
 ---
 name: "Saint Agathonica of Carthage"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Agathonica of Carthage"
 summary: "Nun. Martyr."
 died: "in Carthage in North Africa"
 region: "Africa"
@@ -10,7 +10,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

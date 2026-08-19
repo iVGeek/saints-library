@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Teresa Gabrieli"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Teresa Gabrieli"
 summary: "Co-founded the Sisters of the Poor, Palazzolo Institute."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Gabrieli.jpg"
 birthYear: 1837
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

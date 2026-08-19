@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco García Pareja"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francisco García Pareja"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Bujalance community. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

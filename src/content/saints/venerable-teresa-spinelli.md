@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Spinelli"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Teresa Spinelli"
 summary: "Founder of the Congregation of the Augustinian Sisters Servants of Jesus and Mary."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Spinelli.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

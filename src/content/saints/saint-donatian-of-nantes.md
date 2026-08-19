@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatian of Nantes"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Donatian of Nantes"
 summary: "Brother of Saint Rogatian of Nantes. Arrested, torture, mutilated, and finally martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saints-Donatian-and-Rogatian-Martyrs.jpg"
 deathYear: 299
@@ -13,7 +13,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Severian of Scythopolis"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Soldier"
+title: "Saint Severian of Scythopolis"
 summary: "Bishop of Scythopolis (in modern north-east Israel). Murdered by a band of soldiers led by a heretical Eutychian monk. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/pls-severianus.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

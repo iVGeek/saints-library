@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eliseo Maneus Besalduch"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Eliseo Maneus Besalduch"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Eliseo María"
@@ -17,9 +17,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

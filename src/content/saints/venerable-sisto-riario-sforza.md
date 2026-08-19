@@ -1,7 +1,7 @@
 ---
 name: "Venerable Sisto Riario Sforza"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Cardinal"
+title: "Venerable Sisto Riario Sforza"
 summary: "Born to the nobility of Naples, Italy, the son Giovanni Antonio Riario Sforza and Maria Gaetana Cattaneo della Volta. Ordained on 1 September 1833. Privy chamberlain to the pope. Chosen bishop of Aversa, Italy on 12 April 1845. Private secretary to Pope Gregory XVI. Chosen Archbi"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cardinale_Sisto_Riario_Sforza.jpg"
 birthYear: 1810
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

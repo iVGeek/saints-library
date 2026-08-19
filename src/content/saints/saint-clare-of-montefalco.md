@@ -1,7 +1,7 @@
 ---
 name: "Saint Clare of Montefalco"
 honorific: Saint
-title: "Confessor"
+title: "Saint Clare of Montefalco"
 summary: "Claimed by both the Franciscans and Augustinians. Pious from childhood, and devoted to Christ's Passion and the Cross. Franciscan tertiary. Joined with her blood sisters and some friends to form a new Franciscan house, Holy Cross Convent in Montefalco, Italy, with Clare's sister"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Saint_Clare_of_Montefalco.jpg"
 searchAliases:

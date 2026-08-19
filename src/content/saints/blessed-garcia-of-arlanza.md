@@ -1,7 +1,7 @@
 ---
 name: "Blessed Garcia of Arlanza"
 honorific: Blessed
-title: "Monk, Royalty, Soldier"
+title: "Blessed Garcia of Arlanza"
 summary: "Soldier. Monk. Abbot of Arlanza monastery, Burgos, Spain in 1039. Friend and counsellor of King Ferdinand I of Castile."
 deathYear: 1073
 born: "at Quintanilla, Old Castile (in modern Spain)"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Monk
-  - Royalty
   - Soldier
 martyr: false
 ---

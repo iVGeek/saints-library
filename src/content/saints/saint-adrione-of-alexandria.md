@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrione of Alexandria"
 honorific: Saint
-title: "Martyr"
+title: "Saint Adrione of Alexandria"
 summary: "Martyr."
 searchAliases:
   - "Adrian"
@@ -16,8 +16,7 @@ feastDay:
   month: 5
   day: 17
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

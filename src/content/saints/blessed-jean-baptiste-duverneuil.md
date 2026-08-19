@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Baptiste Duverneuil"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jean-Baptiste Duverneuil"
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the French Revolution. One of the Martyrs of the Hulks of Rochefort."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

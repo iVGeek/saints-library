@@ -1,7 +1,7 @@
 ---
 name: "Blessed Honorino Carracedo Ramos"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Honorino Carracedo Ramos"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 searchAliases:
   - "Honorino of Our Lady of Sorrows"
@@ -16,9 +16,7 @@ feastDay:
   month: 10
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

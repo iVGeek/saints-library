@@ -1,7 +1,7 @@
 ---
 name: "Saint Quintian of Rhodez"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Quintian of Rhodez"
 summary: "Bishop of Rhodez, France."
 searchAliases:
   - "Quinctian"
@@ -11,10 +11,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Rhodez, France.

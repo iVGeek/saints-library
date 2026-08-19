@@ -1,7 +1,7 @@
 ---
 name: "Blessed Costanza Starace"
 honorific: Blessed
-title: "Martyr, Bishop, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Costanza Starace"
 summary: "Consecrated as a baby to Our Lady of Sorrows. Attended a boarding school run by the Daughters of Charity in Castellammare di Stabia, Italy. Costanza was attracted to the religious life, but for health reasons she returned to her parents and was taught by a tutor who also helped h"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Maria_Maddalena_Starace.png"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Consecrated as a baby to Our Lady of Sorrows. Attended a boarding school run by the Daughters of Charity in Castellammare di Stabia, Italy. Costanza was attracted to the religious life, but for health reasons she returned to her parents and was taught by a tutor who also helped her start a regular prayer life. In her teens she tried to enter religious life twice, but her poor health caused her to return to her parents each time. She became a Servite tertiary, making her final profession on 18 June 1867, taking the name Sister Mary Magdalene of the Passion. Her bishop placed her in charge of the Pious Union of the Daughters of Mary, and she taught catechism to young people.

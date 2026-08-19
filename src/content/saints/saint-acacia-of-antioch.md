@@ -1,7 +1,7 @@
 ---
 name: "Saint Acacia of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Acacia of Antioch"
 summary: "One of a group of 250 Christians martyred together in Antioch."
 searchAliases:
   - "Acatia"
@@ -13,8 +13,7 @@ feastDay:
   month: 3
   day: 29
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

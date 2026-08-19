@@ -1,7 +1,7 @@
 ---
 name: "Saint Martinô Ta Ðuc Thinh"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Martinô Ta Ðuc Thinh"
 summary: "Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Martyred in the persecutions of Emperor Thieu Tri."
 birthYear: 1760
 deathYear: 1840
@@ -15,9 +15,7 @@ feastDay:
   day: 8
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

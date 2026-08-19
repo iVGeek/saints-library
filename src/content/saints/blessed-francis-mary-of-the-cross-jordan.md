@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis Mary of the Cross Jordan"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Francis Mary of the Cross Jordan"
 summary: "Johann grew up in a poor family, and in his youth he worked as a wandering laborer and house painter. As he travelled, he realized how many people were falling away from the Church due to the German government's restrictions known as Kulturkampf. This led him to feel a call to re"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Franziskus_Maria_vom_Kreuze_Jordan_Ammann.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "against bone disease"
   - "Apostolic Teaching Society"

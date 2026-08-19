@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartholomew de Vir"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Bartholomew de Vir"
 summary: "Bishop of Laon, France from 1113 to 1151. Helped Saint Norbert of Xanten with the founding of the Premonstratensians. Built the Cistercian abbey at Foigny, France in 1121; late in life he retired from his bishopric to spend his remaining years as a prayerful monk."
 searchAliases:
   - "Bartholomew of Laon"

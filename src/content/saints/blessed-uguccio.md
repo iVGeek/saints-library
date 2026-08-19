@@ -1,7 +1,7 @@
 ---
 name: "Blessed Uguccio"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Uguccio"
 summary: "No information."
 died: "Mount Senario near Florence, Italy while at prayer"
 deathPlace: "Italy while at prayer"
@@ -11,9 +11,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 No information.

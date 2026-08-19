@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luigi Rocchi"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Luigi Rocchi"
 summary: "Layman in the diocese of Macerata-Tolentino-Recanati-Cingoli-Treia, Italy."
 birthYear: 1932
 deathYear: 1979
@@ -14,8 +14,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 martyr: false
 ---
 

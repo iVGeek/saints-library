@@ -1,7 +1,7 @@
 ---
 name: "Saint Flaminia of Davayat"
 honorific: Saint
-title: "Martyr"
+title: "Saint Flaminia of Davayat"
 summary: "Martyr."
 searchAliases:
   - "Flamina"
@@ -15,8 +15,7 @@ feastDay:
   month: 5
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "against eye diseases"
 martyr: true

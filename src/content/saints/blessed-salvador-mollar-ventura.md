@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salvador Mollar Ventura"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Salvador Mollar Ventura"
 summary: "Franciscan Friar Minor. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Mollar-Ventura.jpg"
 birthYear: 1896
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

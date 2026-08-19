@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Arner Margalef"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed José Arner Margalef"
 summary: "Member of the Claretians, professed on 8 September 1908. Ordained a priest on 17 July 1916. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

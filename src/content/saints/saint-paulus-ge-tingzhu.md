@@ -1,7 +1,7 @@
 ---
 name: "Saint Paulus Ge Tingzhu"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Paulus Ge Tingzhu"
 summary: "Lifelong lay man in the apostolic vicariate of Southeastern Zhili, China. Farmer. Leader of the local Christians in his village. Tortured and murdered in the persecutions of the Boxer Rebellion for refusing to renounce his faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 8
   day: 8
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

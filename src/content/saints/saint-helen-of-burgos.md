@@ -1,7 +1,7 @@
 ---
 name: "Saint Helen of Burgos"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Helen of Burgos"
 summary: "Nun. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Centola-and-Saint-Helen-of-Burgos.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

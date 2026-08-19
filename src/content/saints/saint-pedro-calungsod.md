@@ -1,7 +1,7 @@
 ---
 name: "Saint Pedro Calungsod"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Saint Pedro Calungsod"
 summary: "Educated by the Jesuits in the Visayas, a section of the Philippines. Pedro could read, write and speak Visayan, Spanish, and Chamorro, paint, draw, sing, and worked as a carpenter. Teenage catechist who worked with Spanish Jesuit missionaries to the violent Chamarros in the Ladr"
 image: "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Pedro_Calungsod_stained_glass_%28cropped%29.jpg/960px-Pedro_Calungsod_stained_glass_%28cropped%29.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 2
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

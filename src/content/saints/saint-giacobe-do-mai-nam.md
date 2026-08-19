@@ -1,7 +1,7 @@
 ---
 name: "Saint Giacôbê Ðo Mai Nam"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Giacôbê Ðo Mai Nam"
 summary: "Priest in the apostolic vicariate of West Tonkin. Worked with the Society of Foreign Missions of Paris. One of the Martyrs of Vietnam."
 searchAliases:
   - "James Nam"
@@ -17,9 +17,7 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

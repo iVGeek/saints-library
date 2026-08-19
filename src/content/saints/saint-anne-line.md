@@ -1,7 +1,7 @@
 ---
 name: "Saint Anne Line"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Confessor"
+title: "Saint Anne Line"
 summary: "Born the daughter of a wealthy and ardent Calvinist. When she and her brother converted to Catholicism, they were disowned and disinherited. Anne married another convert, Roger Line, who was soon arrested for attending Mass, then exiled to Flanders, Belgium where he died in 1594."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/St_Anne_Line.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 27
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 patronage:
   - "childless people"

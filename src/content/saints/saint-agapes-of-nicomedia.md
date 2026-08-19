@@ -1,7 +1,7 @@
 ---
 name: "Saint Agapes of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Agapes of Nicomedia"
 searchAliases:
   - "Agathia"
 deathYear: 303
@@ -13,8 +13,7 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
-martyr: true
+martyr: false
 ---

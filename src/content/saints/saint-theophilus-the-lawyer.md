@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus the Lawyer"
 honorific: Saint
-title: "Martyr"
+title: "Saint Theophilus the Lawyer"
 summary: "Pagan lawyer brought to the faith through a miracle received through the intervention of Saint Dorothy of Caesarea. Martyr."
 searchAliases:
   - "Theophilus Scholasticus"
@@ -14,8 +14,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

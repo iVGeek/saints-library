@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Kanty"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Saint John of Kanty"
 summary: " Falsely accused and ousted by university rivals, at age 41 he was assigned as parish priest at Olkusz, Bohemia. He took his position seriously, and wa Polish country lad. Brilliant student at the University of Cracow, Poland. Priest. Professor of theology at University of Cracow."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Kanty1.jpg"
 searchAliases:
@@ -22,10 +22,8 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

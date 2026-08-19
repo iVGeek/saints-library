@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Cletus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Pope Saint Cletus"
 summary: "Convert, brought to the faith by Saint Peter the Apostle, who ordained him. Third pope. He ordained an undetermined number of priests during his reign, but almost nothing else is known about him. Martyred in the persecutions of Domitian. May have been the Cletus that Saint August"
 image: "http://catholicsaints.info/wp-content/uploads/M-Cletus-3.jpg"
 searchAliases:
@@ -16,10 +16,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Florus of Pannonia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florus of Pannonia"
 summary: "Martyr. No other information has survived."
 died: "4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"
 deathPlace: "Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"
@@ -11,7 +11,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

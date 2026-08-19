@@ -1,7 +1,7 @@
 ---
 name: "Saint Siviard"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Siviard"
 summary: "Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot himself, and wrote a biography of Saint Calais, the founder of the monastery."
 searchAliases:
   - "Siviardo"
@@ -14,11 +14,10 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot himself, and wrote a biography of Saint Calais, the founder of the monastery.

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mariam Vattalil"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Cardinal, Royalty, Missionary"
+title: "Blessed Mariam Vattalil"
 summary: "The second child of Paily and Eliswa of Vattalil, Mariam was baptized in the church of Saint Thomas at the age of 7 days. She joined the Franciscan Clarist Congregation, taking the name Rani Maria, and making her solemn vows on 22 May 1980. Missionary in the diocese of Bijnor, Ut"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Vattalil.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Missionary
 religiousOrder: "Franciscan"

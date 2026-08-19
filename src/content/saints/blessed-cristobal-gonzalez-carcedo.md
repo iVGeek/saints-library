@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cristóbal González Carcedo"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Cristóbal González Carcedo"
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Lazarist"
 martyr: true

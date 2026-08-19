@@ -2,7 +2,7 @@
 name: "Blessed Anastasio González Rodríguez"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Las_bodas_de_Col%C3%A1s_-_disparate_c%C3%B3mico_en_tres_actos_y_en_prosa_%28IA_lasbodasdecolsdi00garc_0%29.pdf/page1-960px-Las_bodas_de_Col%C3%A1s_-_disparate_c%C3%B3mico_en_tres_actos_y_en_prosa_%28IA_lasbodasdecolsdi00garc_0%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Anastasio González Rodríguez"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1914
 deathYear: 1936
@@ -16,8 +16,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

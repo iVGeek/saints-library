@@ -1,7 +1,7 @@
 ---
 name: "Saint Theofrid of Corbie"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Theofrid of Corbie"
 summary: "Benedictine monk at Luxeuil Abbey. Abbot of Corbie Abbey. Bishop."
 searchAliases:
   - "Theofroy"

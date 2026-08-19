@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Newport"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Richard Newport"
 summary: "Studied in Douai, France and Rome, Italy, and ordained in 1597. Returning to England, he minister to covert Catholics in London for several years. He was imprisoned and exiled twice for the crime of being a priest, returning each time before being arrested and condemned to death."
 searchAliases:
   - "Richard Smith"
@@ -16,11 +16,8 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Anderton"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Anderton"
 summary: "Graduated from Brasenose College, Oxford in 1578, and continued his studies abroad. Converted to Catholicism, and entered the English College at Rheims, France in 1580. Ordained at Rheims with his friend and co-worker Blessed William Marsden. Sailed for England as a home missione"
 birthYear: 1560
 deathYear: 1586
@@ -16,10 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Blessed-robert-anderton.png"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

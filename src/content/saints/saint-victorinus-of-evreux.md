@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Evreux"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Missionary"
+title: "Saint Victorinus of Evreux"
 summary: "Brother of Saint Maximus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr."
 deathYear: 384
 died: "c.384 bear Evreaux, France"
@@ -12,10 +12,8 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Missionary
 martyr: true
 ---

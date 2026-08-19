@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wladyslaw Goral"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope"
+title: "Blessed Wladyslaw Goral"
 summary: "Ordained on 18 December 1920. Auxiliary bishop of Lublin, Poland and titular bishop of Meloë in Isauria on 10 August 1938. He was a man known for his devotion to the Church, and for his ascetic life in a modern setting. During the Nazi invasion in World War II, he was arrested by"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wladyslaw-Goral.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
 martyr: true
 ---
 

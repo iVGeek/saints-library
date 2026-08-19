@@ -2,7 +2,7 @@
 name: "Saint Buo of Ireland"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Great_Britain_Snowy.jpg/960px-Great_Britain_Snowy.jpg"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Buo of Ireland"
 summary: "Monk. Missionary to the Norwegians on Iceland and the Faroe Islands."
 deathYear: 900
 born: "Irish"

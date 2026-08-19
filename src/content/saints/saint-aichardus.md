@@ -1,7 +1,7 @@
 ---
 name: "Saint Aichardus of Jumièges"
 honorific: Saint
-title: "Priest, Monk, Royalty, Soldier, Confessor"
+title: "Saint Aichardus of Jumièges"
 summary: "Son of a military officer in the court of King Clotaire II. Educated at a monastery in Poitiers, France. Destined by his father for the military, Aichardus felt a call to the religious life. His mother convinced the rest of the family to give him a choice, and he became a monk at"
 searchAliases:
   - "Achard"
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
   - Soldier
   - Confessor
 religiousOrder: "Benedictine"

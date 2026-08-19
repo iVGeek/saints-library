@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro of Treia"
 honorific: Blessed
-title: "Virgin, Pope"
+title: "Blessed Pietro of Treia"
 summary: "Born to the wealthy nobility, from an early age Pietro had a devotion to the Archangel Gabriel and was drawn to religious life. As a young man, he turned his back on his wealth and the world, being first a Celestine, and then joining the Franciscan Friars Minor. He spent his life"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-of-Treia.jpg"
 birthYear: 1214
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

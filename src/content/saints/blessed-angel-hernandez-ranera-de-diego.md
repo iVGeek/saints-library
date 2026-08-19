@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ángel Hernández-Ranera De Diego"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Blessed Ángel Hernández-Ranera De Diego"
 summary: "Second of four children born to Felix and Manuela, a poor but pious family; Ángel was baptized at the age of one day. While an altar-boy, he began serving as sacristan at the Conceptionist monastery in Pastrana, Spain. Studied with Franciscans from 1890 to 1892. Joined the Franci"
 birthYear: 1887
 deathYear: 1936
@@ -15,10 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

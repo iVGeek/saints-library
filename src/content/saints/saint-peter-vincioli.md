@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Vincioli"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Peter Vincioli"
 summary: "Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its construction and the construction or re-building of other structures in his diocese."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Vincioli.jpg"
 searchAliases:

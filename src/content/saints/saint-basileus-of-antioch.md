@@ -1,7 +1,7 @@
 ---
 name: "Saint Basileus of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Basileus of Antioch"
 summary: "Bishop. Martyr."
 died: "at Antioch, Syria"
 deathPlace: "Syria"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

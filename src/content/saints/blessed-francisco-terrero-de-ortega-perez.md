@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Terrero de Ortega Pérez"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Francisco Terrero de Ortega Pérez"
 summary: "Augustinian priest. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Augustinian"
 martyr: true
 ---

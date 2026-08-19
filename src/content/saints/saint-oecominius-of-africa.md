@@ -1,14 +1,13 @@
 ---
 name: "Saint Oecominius of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Oecominius of Africa"
 summary: "Martyr. No other details have survived."
 feastDay:
   month: 2
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

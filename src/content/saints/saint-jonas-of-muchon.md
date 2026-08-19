@@ -1,7 +1,7 @@
 ---
 name: "Saint Jonas of Muchon"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Jonas of Muchon"
 summary: "Fourth century monk at Demeskenyanos, Egypt. Spiritual student of Saint Pachomius of Tabenna. A gardener by day, a rope plaiter by night, he worked for his monastic community for 84 years."
 searchAliases:
   - "Jonas of Demeskenyanos"

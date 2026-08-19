@@ -1,7 +1,7 @@
 ---
 name: "Saint Dula the Slave"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Soldier"
+title: "Saint Dula the Slave"
 summary: "Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”."
 region: "England"
 feastDay:
@@ -9,11 +9,10 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”.

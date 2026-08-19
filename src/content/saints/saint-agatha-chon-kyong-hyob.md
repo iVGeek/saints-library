@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatha Chon Kyong-Hyob"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Agatha Chon Kyong-Hyob"
 summary: "Lay woman. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diodoro López Hernando"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Diodoro López Hernando"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Diodoro-Lopez-Hernando.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 7
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

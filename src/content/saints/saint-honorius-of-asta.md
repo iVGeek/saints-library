@@ -1,7 +1,7 @@
 ---
 name: "Saint Honorius of Asta"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Honorius of Asta"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 300
 born: "Spanish"
@@ -13,7 +13,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

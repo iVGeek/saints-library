@@ -1,7 +1,7 @@
 ---
 name: "Blessed Delphine of Glandèves"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Delphine of Glandèves"
 summary: "Born to the French nobility, the daughter of the Lord of Puimichel, France. Orphaned in infancy, she was raised by her aunt, the abbess of the convent of Saint Catherine in Sorbo. Franciscan tertiary. Married to Saint Elzear, Count of Sabran, when the two were in their mid-teens;"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ansouis_5.jpg/960px-Ansouis_5.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "brides"

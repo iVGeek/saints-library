@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jerónimo Alonso Fernández"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Jerónimo Alonso Fernández"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Javier Benito"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

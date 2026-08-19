@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary Magdalene of Carpi"
 honorific: Blessed
-title: "Virgin, Religious"
+title: "Blessed Mary Magdalene of Carpi"
 summary: "Nun who served as alms-beggar for her house in Carpi, Italy."
 deathYear: 1546
 born: "Austria"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Raymond of Penyafort"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Raymond of Penyafort"
 summary: "Born to the Aragonian nobility. Educated at the cathedral school in Barcelona, Spain. Philosophy teacher around age 20. Priest. Graduated law school in Bologna, Italy. Joined the Dominicans in 1218. Summoned to Rome, Italy in 1230 by Pope Gregory IX. Assigned to collect all offic"
 image: "http://catholicsaints.info/wp-content/gallery/saint-raymond-of-penyafort/saint-raymond-of-penyafort-01.jpg"
 searchAliases:
@@ -24,8 +24,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -40,7 +38,7 @@ patronage:
   - "in Spain\n\nBarcelona"
   - "Majorca"
   - "Navarre"
-martyr: true
+martyr: false
 ---
 
 Born to the Aragonian nobility. Educated at the cathedral school in Barcelona, Spain. Philosophy teacher around age 20. Priest. Graduated law school in Bologna, Italy. Joined the Dominicans in 1218. Summoned to Rome, Italy in 1230 by Pope Gregory IX. Assigned to collect all official letters of the popes since 1150. Raymond gathered and published five volumes, and helped write Church law.

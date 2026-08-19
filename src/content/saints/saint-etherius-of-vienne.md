@@ -1,7 +1,7 @@
 ---
 name: "Saint Etherius of Vienne"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Etherius of Vienne"
 summary: "Seventh-century bishop of Vienne, France."
 searchAliases:
   - "Aetherius"
@@ -15,10 +15,9 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Seventh-century bishop of Vienne, France.

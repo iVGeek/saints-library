@@ -1,7 +1,7 @@
 ---
 name: "Saint Gwinoc"
 honorific: Saint
-title: "Monk"
+title: "Saint Gwinoc"
 summary: "Son of Saint Aneurin. Sixth century Welsh monk and poet."
 region: "Italy"
 feastDay:

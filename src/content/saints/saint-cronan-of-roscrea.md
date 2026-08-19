@@ -1,7 +1,7 @@
 ---
 name: "Saint Cronan of Roscrea"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Cronan of Roscrea"
 summary: "Spent his youth in Connaught, Ireland but returned to his native district, c.610. Founded several monasteries including in Roscrea where he served as the house's first abbot, and established a famous school."
 searchAliases:
   - "Croman"

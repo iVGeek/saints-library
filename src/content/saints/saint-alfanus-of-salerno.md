@@ -1,7 +1,7 @@
 ---
 name: "Saint Alfanus of Salerno"
 honorific: Saint
-title: "Bishop, Monk, Pope"
+title: "Saint Alfanus of Salerno"
 summary: "Benedictine monk at Monte Cassino Abbey. Archbishop of Salerno, Italy. Assisted Pope Saint Gregory VII on his death-bed."
 deathYear: 1085
 died: "1085"
@@ -13,7 +13,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

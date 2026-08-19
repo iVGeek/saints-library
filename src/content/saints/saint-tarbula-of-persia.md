@@ -1,7 +1,7 @@
 ---
 name: "Saint Tarbula of Persia"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious, Royalty"
+title: "Saint Tarbula of Persia"
 summary: "Sister of Saint Simeon. Accused of witchcraft because of her Christianity. Martyred in the persecutions of King Sapor II of Persia."
 searchAliases:
   - "Pherbutha"
@@ -15,11 +15,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious
-  - Royalty
 martyr: true
 ---
 

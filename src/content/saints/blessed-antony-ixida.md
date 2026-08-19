@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antony Ixida"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Antony Ixida"
 summary: "Evangelizing Jesuit priest noted for his education and eloquence. Martyr."
 searchAliases:
   - "Antony Ishida"
@@ -19,10 +19,8 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

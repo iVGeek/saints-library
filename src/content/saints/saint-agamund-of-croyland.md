@@ -1,7 +1,7 @@
 ---
 name: "Saint Agamund of Croyland"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Agamund of Croyland"
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death."
 searchAliases:
   - "Agamund of Crowland"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

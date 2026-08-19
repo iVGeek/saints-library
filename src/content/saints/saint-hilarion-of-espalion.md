@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilarion of Espalion"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Saint Hilarion of Espalion"
 summary: "Born to the Gallic nobility, he was known as a pious child. Priest in Lévinhac, France. He would often pass through an area of Muslim occupation, cross the River Lot, and celebrate Mass in the town of Perse. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hilarion-of-Espalion.jpg"
 searchAliases:
@@ -21,11 +21,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

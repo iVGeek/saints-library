@@ -1,7 +1,7 @@
 ---
 name: "Saint Privatus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Privatus of Africa"
 summary: "Martyr. No other information has survived."
 died: "somewhere in Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

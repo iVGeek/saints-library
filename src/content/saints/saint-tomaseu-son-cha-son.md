@@ -1,7 +1,7 @@
 ---
 name: "Saint Tomaseu Son Cha-son"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Tomaseu Son Cha-son"
 summary: "Korean layman who worked with Catholic missionaries to spread Christianity in his country. Martyr."
 searchAliases:
   - "Tomaseu Son Ja-Seon"
@@ -17,9 +17,7 @@ feastDay:
   month: 5
   day: 18
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

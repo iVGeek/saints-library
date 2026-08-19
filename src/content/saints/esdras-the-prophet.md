@@ -1,7 +1,7 @@
 ---
 name: "Esdras the Prophet"
 honorific: Saint
-title: "Priest, Monk, Royalty"
+title: "Esdras the Prophet"
 summary: "Priest and scribe who left Babylon in the 7th year of Artaxerxes (458 B.C.) with a caravan of 1,800 Jewish exiles, to return to Jerusalem. The Persian king had given Esdras a letter ordering the satraps beyond the Euphrates to aid him to enforce observance of the Mosaic Law in Ju"
 image: "http://catholicsaints.info/wp-content/uploads/img-Esdras-the-Prophet.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Royalty
 martyr: false
 ---
 

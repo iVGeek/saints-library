@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Martí Coll"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Josep Martí Coll"
 summary: "Franciscan Capuchin lay brother, making his first profession on 8 November 1923, and his solemn profession on 9 November 1927. He was ordered by his superiors to leave the convent in Sarriá, Barcelona, Spain, but was soon located by the anti-Christian forces, and murdered by Marx"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Marti-Coll.jpg"
 searchAliases:
@@ -18,12 +18,9 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin lay brother, making his first profession on 8 November 1923, and his solemn profession on 9 November 1927. He was ordered by his superiors to leave the convent in Sarriá, Barcelona, Spain, but was soon located by the anti–Christian forces, and murdered by Marxists in the Spanish Civil War.

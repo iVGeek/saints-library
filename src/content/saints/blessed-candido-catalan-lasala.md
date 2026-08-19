@@ -1,7 +1,7 @@
 ---
 name: "Blessed Cándido Catalán Lasala"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Cándido Catalán Lasala"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Candido-Catalan-Lasala.jpg"
 birthYear: 1916
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

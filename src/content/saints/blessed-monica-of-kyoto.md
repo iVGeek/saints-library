@@ -1,7 +1,7 @@
 ---
 name: "Blessed Monica of Kyoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Monica of Kyoto"
 summary: "Daughter of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, Murdered at the age of 4."
 birthYear: 1615
 deathYear: 1619
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

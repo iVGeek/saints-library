@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pascuala Gallén Martí"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Pascuala Gallén Martí"
 summary: "Born to a pious family - she and her three sisters all became nuns. Pascuala joined the Sisters of the Pious Schools at San Martin of Provensals on 30 August 1892. Taught for seven years at the College of Olesa of Montserrat, and then was assigned to Valencia, Spain. Martyred in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

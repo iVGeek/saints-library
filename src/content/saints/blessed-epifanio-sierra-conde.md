@@ -1,7 +1,7 @@
 ---
 name: "Blessed Epifanio Sierra Conde"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Epifanio Sierra Conde"
 summary: "Passionist brother, joining on 17 September 1934 and making his profession on 23 October 1935. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Epifanio-Sierra-Conde.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

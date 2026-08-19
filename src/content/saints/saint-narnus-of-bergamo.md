@@ -1,7 +1,7 @@
 ---
 name: "Saint Narnus of Bergamo"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Narnus of Bergamo"
 summary: "First bishop of Bergamo, Italy."
 searchAliases:
   - "Narno"

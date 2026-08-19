@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellinus the Martyr"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcellinus the Martyr"
 summary: "Brother of Saint Agrarius the Martyr. Imperial Roman representative in North Africa. When he opposed the Donatism heresy, he was murdered by Donatists. Martyr."
 searchAliases:
   - "Marcellinus of Carthage"
@@ -14,7 +14,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

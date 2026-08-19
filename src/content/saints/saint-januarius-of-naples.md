@@ -1,7 +1,7 @@
 ---
 name: "Saint Januarius of Naples"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Deacon, Pope, Royalty"
+title: "Saint Januarius of Naples"
 summary: " His blood was preserved, and dried. Since at least 1389, on his feast day, and on the Satuday before the first Sunday in May, Fourth century bishop of Benevento, Italy during the persecutions of Diocletian. Arrested while visiting imprisoned deacons, and then martyred with them."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Januarius-of-Naples1.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Deacon

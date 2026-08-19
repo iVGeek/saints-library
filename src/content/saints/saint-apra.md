@@ -1,7 +1,7 @@
 ---
 name: "Saint Apra"
 honorific: Saint
-title: "Martyr"
+title: "Saint Apra"
 summary: "Child martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 1
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

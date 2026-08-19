@@ -1,7 +1,7 @@
 ---
 name: "Venerable Joaquina María Mercedes Barceló Pagés"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Joaquina María Mercedes Barceló Pagés"
 summary: "Nun. Co-founder of the Congregation of the Augustinian Sisters of Our Lady of Consolation."
 searchAliases:
   - "Sister Consuelo"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

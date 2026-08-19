@@ -1,7 +1,7 @@
 ---
 name: "Saint Pastor of Orleans"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Pastor of Orleans"
 summary: "Sixth century bishop of Orléans, France."
 region: "France"
 feastDay:

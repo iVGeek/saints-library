@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Allegri"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Maria Allegri"
 summary: "Member of the Sisters Established in the Charity of the Good Shepherd. She was devoted to the contemplative life, the Eucharist, Mary, and a life of penance. A mystic, she had the gift of prophecy, received visions and the stigmata, and was a counsellor and spiritual teacher to m"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Allegri.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

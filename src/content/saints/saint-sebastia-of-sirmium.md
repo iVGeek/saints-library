@@ -1,7 +1,7 @@
 ---
 name: "Saint Sebastia of Sirmium"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sebastia of Sirmium"
 summary: "Martyred with 31 companions, most of whose names have not come down to us. No other information has survived."
 searchAliases:
   - "Sabbatia"
@@ -12,7 +12,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

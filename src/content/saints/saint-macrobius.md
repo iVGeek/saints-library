@@ -1,7 +1,7 @@
 ---
 name: "Saint Macrobius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Macrobius"
 summary: "Martyed in the persecution of emperor Licinius."
 deathYear: 311
 born: "Cappadocia (in modern Turkey)"
@@ -13,9 +13,8 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Plotin.jpg"
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Martyed in the persecution of emperor Licinius.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutizio of Ferento"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Royalty, Soldier"
+title: "Saint Eutizio of Ferento"
 summary: " Legend says that one day Eutizio was walking around Ferento and saw Young priest who, after celebrating Mass in honor of the recently martyred Saint Gracilian and Saint Felicissima, was arrested by imperial soldiers, tortured and executed in the persecutions of Aurelian. Martyr."
 searchAliases:
   - "Eutizio of Ferentium"
@@ -17,10 +17,8 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Royalty
   - Soldier
 religiousOrder: "Benedictine"
 patronage:

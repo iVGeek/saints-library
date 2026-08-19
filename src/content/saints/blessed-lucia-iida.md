@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia Iida"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Lucia Iida"
 summary: "Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Ignatius Iida Soemon. Martyr."
 deathYear: 1629
 born: "Nukayama, Yonezawa, Yamagata, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

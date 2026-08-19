@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles-Regis-Mathieu de la Calmette de Valfons"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Charles-Regis-Mathieu de la Calmette de Valfons"
 summary: "Count of Valfons. Layman in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1747
 deathYear: 1792
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

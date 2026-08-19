@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mary of Jesus of Berriz"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Mary of Jesus of Berriz"
 summary: "Pious Mercedarian nun at the monastery of Vera Cruz, Berriz, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Berriz.jpg"
 region: "Spain"

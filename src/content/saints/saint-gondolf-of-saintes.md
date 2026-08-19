@@ -1,7 +1,7 @@
 ---
 name: "Saint Gondolf of Saintes"
 honorific: Saint
-title: "Martyr"
+title: "Saint Gondolf of Saintes"
 summary: "Layman servant of Saint Grimoald of Saintes. Martyred by pagan Frisian invaders."
 deathYear: 700
 died: "c.700 outside a chapel in Saintes (in modern Halle), Belgium"
@@ -11,8 +11,7 @@ feastDay:
   month: 7
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

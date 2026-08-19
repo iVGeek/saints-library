@@ -1,7 +1,7 @@
 ---
 name: "Saint Tryphon of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Tryphon of Alexandria"
 summary: "Name of two of 12 Christian companions marytred together. No other information has survived."
 searchAliases:
   - "Tryfon"
@@ -15,9 +15,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Name of two of 12 Christian companions marytred together. No other information has survived.

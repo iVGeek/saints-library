@@ -1,7 +1,7 @@
 ---
 name: "Saint Nestulus of Gaza"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious"
+title: "Saint Nestulus of Gaza"
 summary: "Brother of Saint Eusebius and Zeno. Seized, dragged through the street, beaten and murdered by a pagan mob celebrating the renunciation of Christianity by Julian the Apostate. Martyr."
 searchAliases:
   - "Nestor"
@@ -14,7 +14,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious

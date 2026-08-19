@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gabriel Albiol Plou"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gabriel Albiol Plou"
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Justí Gabriel"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

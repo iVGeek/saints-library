@@ -1,7 +1,7 @@
 ---
 name: "Saint Attala of Taormina"
 honorific: Saint
-title: "Monk"
+title: "Saint Attala of Taormina"
 summary: "Benedictine monk and then abbot of a monastery in Taormina, Sicily."
 searchAliases:
   - "Attalus of Taormina"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Abraham of Harran"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit"
+title: "Saint Abraham of Harran"
 summary: "Syrian hermit. Hoping to bring the faith to a village at Mount Lebanon, he set up shop as a fruit seller; the people were willing to buy his fruit, but abused him when he started to preach. He converted them by borrowing money to pay their taxes, which kept them out of prison, fi"
 searchAliases:
   - "Abraames of Harran"

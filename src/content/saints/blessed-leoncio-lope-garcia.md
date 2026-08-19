@@ -1,7 +1,7 @@
 ---
 name: "Blessed Leoncio Lope García"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Leoncio Lope García"
 summary: "Augustinian friar."
 birthYear: 1902
 deathYear: 1936
@@ -14,11 +14,9 @@ feastDay:
   month: 10
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Augustinian"
-martyr: true
+martyr: false
 ---
 
 Augustinian friar.

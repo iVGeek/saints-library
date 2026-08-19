@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ginés Garre Egea"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Ginés Garre Egea"
 summary: "Carmelites of the Ancient Observance novice. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Elias Maria"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Leontius of Aegea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Leontius of Aegea"
 summary: "Martyred with Saints Cosmas and Damian in the persecutions of Diocletian."
 deathYear: 303
 died: "tortured and beheaded c.303 in Aegea, Cilicia (modern Ayas, Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

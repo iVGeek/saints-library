@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco García Balanza"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Francisco García Balanza"
 summary: "Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

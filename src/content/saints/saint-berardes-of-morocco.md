@@ -1,7 +1,7 @@
 ---
 name: "Saint Berardes of Morocco"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Berardes of Morocco"
 summary: "Born to the Italian nobility. Franciscan monk accepted into the order by Saint Francis of Assisi himself in 1213. Priest. Preacher. Spoke Arabic. Leader of a party (with Peter, Otho, Accursius, and Adjutus) sent by Saint Francis to preach to Muslims in Morocco. Upon arrival, they"
 image: "http://catholicsaints.info/wp-content/uploads/Berard-of-Morocco.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

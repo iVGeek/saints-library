@@ -1,7 +1,7 @@
 ---
 name: "Saint Rustica of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rustica of Rome"
 summary: "One of a group of Roman women martyred in an  early persecution, date unknown."
 died: "relics enshrined in the catacombs of Via Salaria, Rome, Italy"
 deathPlace: "Rome, Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Egelnoth the Good"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Egelnoth the Good"
 summary: "Monk at Glastonbury Abbey. Archbishop of Canterbury, England in 1020. Advisor to King Cnut of England. Noted scholar."
 searchAliases:
   - "Egelnoth of Canterbury"
@@ -17,7 +17,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

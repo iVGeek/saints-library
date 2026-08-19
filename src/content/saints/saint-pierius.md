@@ -1,7 +1,7 @@
 ---
 name: "Saint Pierius"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Pierius"
 summary: "Priest. Wrote a number of treatises on philosophy and theology. Director of the Catechetical School of Alexandria, Egypt. Noted preacher and teacher and scholar praised by Eusebius of Caesarea and Saint Jerome."
 searchAliases:
   - "Pierio"
@@ -15,10 +15,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. Wrote a number of treatises on philosophy and theology. Director of the Catechetical School of Alexandria, Egypt. Noted preacher and teacher and scholar praised by Eusebius of Caesarea and Saint Jerome.

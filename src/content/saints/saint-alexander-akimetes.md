@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexander Akimetes"
 honorific: Saint
-title: "Bishop, Monk, Hermit, Soldier, Missionary"
+title: "Saint Alexander Akimetes"
 summary: "Born to the nobility. Studied in Constantinople. Soldier and officer in the imperial army for four years. Adult convert to Christianity who read himself into the faith, and took his example from the words of Christ to the young rich man - he sold all his goods and became a hermit"
 searchAliases:
   - "Alexandros"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Polychronius of Babylon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Polychronius of Babylon"
 summary: "Bishop of Babylon. Martyr. No other reliable information has survived."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

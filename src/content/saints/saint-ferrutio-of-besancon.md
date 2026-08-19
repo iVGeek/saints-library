@@ -1,7 +1,7 @@
 ---
 name: "Saint Ferrutio of Besançon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Ferrutio of Besançon"
 summary: "Brother of Saint Ferreolus of Besançon. Deacon. Sent by Saint Irenaeus of Lyons to evangelize the area of Besançon, France; he worked there for 30 years. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferrutio-and-Saint-Ferreolus-of-Besancon.jpg"
 deathYear: 212
@@ -14,7 +14,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

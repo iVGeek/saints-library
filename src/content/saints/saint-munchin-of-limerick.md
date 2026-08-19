@@ -1,7 +1,7 @@
 ---
 name: "Saint Munchin of Limerick"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Munchin of Limerick"
 summary: "First bishop of Limerick (Luimneach), occupying the see in the 7th century. A prince gave him the island, possibly in exchange for Munchin giving up a claim to the throne. Established the school at Mungret and served as abbot to its 1,500 monks."
 searchAliases:
   - "Munchin of Luimneach"
@@ -23,7 +23,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 patronage:
   - "Limerick, Ireland, city of"
   - "Limerick, Ireland, diocese of"

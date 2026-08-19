@@ -1,7 +1,7 @@
 ---
 name: "Saint Primitiva"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Primitiva"
 summary: "An early martyr in Rome, Italy. No other information has survived."
 searchAliases:
   - "Primitivus"
@@ -11,7 +11,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

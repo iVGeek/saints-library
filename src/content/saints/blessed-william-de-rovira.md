@@ -1,7 +1,7 @@
 ---
 name: "Blessed William de Rovira"
 honorific: Blessed
-title: "Monk"
+title: "Blessed William de Rovira"
 summary: "Mercedarian monk at the monastery of Saint Thomas the Apostle in Tortosa, Spain. Noted for his zealous faith and observance of the Rule of his Order, and his deep prayer life."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-de-Rovira.jpg"
 region: "Spain"

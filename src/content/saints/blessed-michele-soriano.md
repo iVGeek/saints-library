@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michele Soriano"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Michele Soriano"
 summary: "Mercedarian friar at the convent of Santa Maria degli Angeli in El Puig, Spain, known for his extreme piety, penance and asceticism."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Michele-Soriano.jpg"
 deathYear: 1604
@@ -11,8 +11,7 @@ feastDay:
   month: 8
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

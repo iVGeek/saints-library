@@ -1,7 +1,7 @@
 ---
 name: "Saint Brigid of Fiesole"
 honorific: Saint
-title: "Virgin, Monk, Religious, Hermit"
+title: "Saint Brigid of Fiesole"
 summary: "Sister of Saint Andrew of Fiesole. Hermitess in the Apennines mountains of Italy. Legend says that when her brother was dying, angels carried her to his deathbed for a final visit."
 searchAliases:
   - "Brigid the Younger"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed János Brenner"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Blessed János Brenner"
 summary: "As a child, János attended schools run by Cistercians until the schools were nationalized by the post-World War II communist government. He felt drawn to the Cistercians, and entered as a novice in Zirc, Hungary in 1950, taking the name Brother Anasztáz. But a few months later th"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Budapest%2C_csepeli_Brenner_J%C3%A1nos-szobor_2022_02.jpg/960px-Budapest%2C_csepeli_Brenner_J%C3%A1nos-szobor_2022_02.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 martyr: true

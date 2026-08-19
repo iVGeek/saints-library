@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Sanz y Sanz"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Manuel Sanz y Sanz"
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 searchAliases:
   - "Gumersindo"
@@ -17,9 +17,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

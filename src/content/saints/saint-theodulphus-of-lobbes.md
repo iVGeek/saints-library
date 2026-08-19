@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodulphus of Lobbes"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Theodulphus of Lobbes"
 summary: "Benedictine monk. Abbot of Lobbes Abbey in Belgium. Bishop of Lobbes."
 searchAliases:
   - "Teodolfo"
@@ -14,11 +14,10 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 religiousOrder: "Benedictine"
-martyr: true
+martyr: false
 ---
 
 Benedictine monk. Abbot of Lobbes Abbey in Belgium. Bishop of Lobbes.

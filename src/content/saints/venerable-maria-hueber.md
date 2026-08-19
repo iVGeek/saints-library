@@ -1,7 +1,7 @@
 ---
 name: "Venerable Maria Hueber"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Maria Hueber"
 summary: "Youngest of five children of Nikolaus Hueber and Anna Tapp. After her father died in combat, Maria was placed with a noble neighbors who helped keep the family from starving. Maria was known as a pious girl, more interested in prayer than play. She worked as a maid at several hou"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Maria_Hueber.jpg"
 birthYear: 1653
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

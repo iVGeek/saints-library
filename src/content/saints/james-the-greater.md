@@ -26,9 +26,7 @@ feastDay:
   day: 25
 liturgicalRank: Feast
 canonizationStatus: Saint
-vocation:
-  - Apostle
-  - Martyr
+vocation: []
 patronage:
   - travelers
   - workers

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gundisalvus of Silos"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Gundisalvus of Silos"
 summary: "Benedictine monk at Silos, Old Castile (Spain) under Saint Dominic of Silos."
 searchAliases:
   - "Gonzalo"

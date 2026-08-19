@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lluís Lladó Teixidor"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Lluís Lladó Teixidor"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

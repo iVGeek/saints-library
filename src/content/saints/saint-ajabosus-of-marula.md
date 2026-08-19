@@ -1,7 +1,7 @@
 ---
 name: "Saint Ajabosus of Marula"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ajabosus of Marula"
 summary: "Martyr."
 searchAliases:
   - "Ajobosus"
@@ -12,7 +12,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

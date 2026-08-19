@@ -1,7 +1,7 @@
 ---
 name: "Blessed Helinand of Pronleroy"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Helinand of Pronleroy"
 summary: "Court singer and troubadour. Convert. Benedictine Cistercian monk at Froidmont, France."
 searchAliases:
   - "Elinand"

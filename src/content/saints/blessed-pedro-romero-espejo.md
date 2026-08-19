@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pedro Romero Espejo"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pedro Romero Espejo"
 summary: "After studying at the Redemptorist in El Espino, Pedro joined the Order himself, and made his profession on 24 September 1880. Ordained a priest in the diocese of Cuenca, Spain on 29 February 1896. As he was a very shy person, Father Pedro devoted himself to a life of prayer and"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Romero-Espejo.jpg"
 birthYear: 1871
@@ -16,9 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Redemptorist"
 martyr: true
 ---

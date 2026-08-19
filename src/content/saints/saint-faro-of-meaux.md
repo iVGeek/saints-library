@@ -1,7 +1,7 @@
 ---
 name: "Saint Faro of Meaux"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Faro of Meaux"
 summary: "Son of Count Agneric. Brother of Saint Cagnoald and Saint Burgundofara. Grew up in the court of King Theodebert II of Austrasia. Married layman. Part of the court of King Clotaire II. When he was 35 years old, he and his wife agreed to separate. Faro became a monk at Meaux, Franc"
 searchAliases:
   - "Burgundofaro"
@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 martyr: false
 ---

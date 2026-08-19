@@ -1,7 +1,7 @@
 ---
 name: "Saint Proculus of Illyria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Proculus of Illyria"
 summary: "Sculptor. Stone-cutter who worked to build Christian churches. Martyr."
 searchAliases:
   - "Prochus"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

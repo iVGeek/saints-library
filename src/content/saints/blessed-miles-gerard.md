@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miles Gerard"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Miles Gerard"
 summary: "Studied at the English Seminary in Rheims, France. Priest, returning to England to minister to covert Catholics during a period of persecution by Queen Elizabeth I. Martyr."
 deathYear: 1590
 born: "Ince, Lancashire, England"
@@ -14,10 +14,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

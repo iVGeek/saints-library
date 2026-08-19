@@ -1,7 +1,7 @@
 ---
 name: "Saint Zacharias the Angelic"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Zacharias the Angelic"
 summary: "Hermit and monk on Mount Mercury, Lucania, Italy."
 searchAliases:
   - "Zacharias of Mount Mercury"

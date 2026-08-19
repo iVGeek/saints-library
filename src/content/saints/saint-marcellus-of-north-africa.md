@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus of North Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Marcellus of North Africa"
 summary: "Martyr. No other information has survived."
 died: "North Africa, date unknown"
 deathPlace: "date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

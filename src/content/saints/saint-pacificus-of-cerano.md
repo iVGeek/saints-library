@@ -1,7 +1,7 @@
 ---
 name: "Saint Pacificus of Cerano"
 honorific: Saint
-title: "Priest, Pope"
+title: "Saint Pacificus of Cerano"
 summary: "Pacificus was orphaned very young. Educated at the Benedictine monastery in Novara, Italy. Joined the Franciscan Friars Minor in 1445. Received a doctorate from the Sorbonne in Paris, France, and was considered one of the most learned men of his day. Ordained in 1452. Preached mi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pacificus-of-Cerano.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "Cerano, Italy"

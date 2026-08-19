@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel of Himmerod"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Daniel of Himmerod"
 summary: "Cistercian monk. No other information has survived."
 searchAliases:
   - "Daniel Himmerod the Younger"

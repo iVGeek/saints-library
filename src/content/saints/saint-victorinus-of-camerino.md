@@ -1,7 +1,7 @@
 ---
 name: "Saint Victorinus of Camerino"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Pope, Hermit"
+title: "Saint Victorinus of Camerino"
 summary: "Brother of Saint Severinus of Septempeda. The two brothers distributed their wealth to the poor in their area, then retired to live as hermits on Montenero. Ordered by Pope Vigilius to become Bishop of Camerino, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victorinus-of-Camerino.jpg"
 deathYear: 543
@@ -12,12 +12,10 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-  - Pope
   - Hermit
-martyr: true
+martyr: false
 ---
 
 Brother of Saint Severinus of Septempeda. The two brothers distributed their wealth to the poor in their area, then retired to live as hermits on Montenero. Ordered by Pope Vigilius to become Bishop of Camerino, Italy.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Bonosus of Trier"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Bonosus of Trier"
 summary: "Priest. Imprisoned c.353 for supporting his bishop, Saint Paulinus, and orthodox Christianity in the face of Arians. Bishop of Trier, Gaul (in modern Germany) in 358; he continued to fight Arianism."
 searchAliases:
   - "Bonosio"

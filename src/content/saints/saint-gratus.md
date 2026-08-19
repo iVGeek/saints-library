@@ -1,7 +1,7 @@
 ---
 name: "Saint Gratus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gratus"
 summary: "One of twelve Africans martyred in the persecutions of Diocletian."
 deathYear: 302
 died: "302 at Thagura, Numidia, North Africa"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/A_Roman_Emperor_AD41_detail.jpg/960px-A_Roman_Emperor_AD41_detail.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

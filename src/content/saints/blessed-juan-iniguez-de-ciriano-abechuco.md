@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Iñiguez de Ciriano Abechuco"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Juan Iñiguez de Ciriano Abechuco"
 summary: "Picpus priest. Martyred in the Spanish Civil War."
 searchAliases:
   - "Father Isidro"
@@ -17,9 +17,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

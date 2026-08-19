@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrinus of Antwerp"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyrinus of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Cirino"
@@ -13,7 +13,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Jesuit"
 martyr: true

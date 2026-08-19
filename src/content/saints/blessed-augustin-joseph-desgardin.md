@@ -1,7 +1,7 @@
 ---
 name: "Blessed Augustin-Joseph Desgardin"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Augustin-Joseph Desgardin"
 summary: "Trappist monk at Sept-Fons abbey. When it was suppressed in September 1791 by the anti-Christian forces of the French Revolution, he and his brother monks re-located to the abandoned Capuchin convent in Montluçon, France. In February 1793 the government suppressed that house and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Capuchin"
 martyr: true
 ---

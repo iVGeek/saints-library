@@ -1,7 +1,7 @@
 ---
 name: "Saint Ennatha of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Ennatha of Caesarea"
 summary: "Young Christian woman who was scourged and martyred in the persecutions of Diocletian and Galerius."
 deathYear: 297
 died: "burned alive in 297 at Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

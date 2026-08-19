@@ -23,10 +23,7 @@ feastDay:
 feastDayLabel: Solemnity of Saints Peter and Paul
 liturgicalRank: Solemnity
 canonizationStatus: Saint
-vocation:
-  - Apostle
-  - Pope
-  - Martyr
+vocation: []
 patronage:
   - the-church
   - fishermen

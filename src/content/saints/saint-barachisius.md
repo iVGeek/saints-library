@@ -1,7 +1,7 @@
 ---
 name: "Saint Barachisius"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Barachisius"
 summary: "Monk. Went with Saint Jonas of Hubaham, his brother and fellow monk, to Hubaham, Persia, to minister to Chistians imprisoned for their faith during the reign of King Sapor II. They were arrested, beaten, tortured, and martyred for this service, and for refusing to worship the sun"
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Jonas-Barachisius-and-Their-Companions-Martyrs.jpg"
 searchAliases:
@@ -16,10 +16,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joscius Roseus"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Joscius Roseus"
 summary: "Benedictine monk at Saint Bertin Abbey, diocese of Arras, France. Renowned for his devotion to Our Lady."
 searchAliases:
   - "Joscius of Saint Bertin"

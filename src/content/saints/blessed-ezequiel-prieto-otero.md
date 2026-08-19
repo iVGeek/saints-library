@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ezequiél Prieto Otero"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Ezequiél Prieto Otero"
 summary: "Feeling a call to a religious vocation, Ezequiél joined the Franciscan Capuchins on 2 February 1907, taking the name Eusebius; he made his profession as a lay brother on 2 February 1908. He was sent to a Franciscan house in Cuba in 1919 where he served as a carpenter and catechis"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ezequiel-Prieto-Otero.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

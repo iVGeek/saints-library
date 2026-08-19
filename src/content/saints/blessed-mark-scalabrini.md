@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mark Scalabrini"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Mark Scalabrini"
 summary: "Born to the nobility. Joined the Dominicans in Modena, Italy. Priest. Noted preacher throughout central and northern Italy. Prior of the Dominican monastery in Pesaro, Italy. Miracle worker."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-Scalabrini.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elerius"
 honorific: Saint
-title: "Monk"
+title: "Saint Elerius"
 summary: "Sixth century abbot of a monastery in northern Wales."
 region: "England"
 feastDay:

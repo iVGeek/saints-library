@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Lucius of Caesarea"
 summary: "Martyr. No other information has survived."
 died: "Caesarea, Cappadocia, date unknown"
 deathPlace: "Cappadocia, date unknown"
@@ -10,7 +10,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

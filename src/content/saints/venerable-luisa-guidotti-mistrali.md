@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luisa Guidotti Mistrali"
 honorific: Venerable
-title: "Pope, Missionary"
+title: "Venerable Luisa Guidotti Mistrali"
 summary: "Born to the Italian nobility, the eldest of three children born to Camillo Guidotti and Anna Mistrali; her mother died when Luisa was in her teens. Member of Catholic Action. Physician with a speciality in radiology. Consecrated member of the Women's Medical Missionary Associatio"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Luisa-Guidotti-Mistrali.jpg"
 birthYear: 1932
@@ -16,7 +16,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Missionary
 martyr: false
 ---

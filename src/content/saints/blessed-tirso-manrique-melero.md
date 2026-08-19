@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tirso Manrique Melero"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Tirso Manrique Melero"
 summary: "After studying with Jesuits at the seminary in Tarazona, Spain, Tirso was ordained a priest on 1 April 1911. He then joined the Dominicans, making his profession on 29 September 1929. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tirso-Manrique-Melero.jpg"
 birthYear: 1877
@@ -16,10 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Ludlam"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Robert Ludlam"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1551
 deathYear: 1588
@@ -16,10 +16,7 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Padley_Chapel%2C_Robert_Ludlam_praying.jpg/500px-Padley_Chapel%2C_Robert_Ludlam_praying.jpg"
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

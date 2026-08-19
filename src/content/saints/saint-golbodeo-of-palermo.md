@@ -1,7 +1,7 @@
 ---
 name: "Saint Golbodeo of Palermo"
 honorific: Saint
-title: "Martyr, Pope, Royalty"
+title: "Saint Golbodeo of Palermo"
 summary: "Imprisoned for his faith in North Africa in the persecutions by the Arian King Genseric. Escaping, he fled by sea to Sardinia and then to the islands in the Tuscan region of Italy. Spiritual student of Saint Mamillian of Palermo."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Golbodeo-of-Palermo.jpg"
 died: "Giglio Island, Italy"
@@ -11,11 +11,8 @@ feastDay:
   month: 12
   day: 9
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Imprisoned for his faith in North Africa in the persecutions by the Arian King Genseric. Escaping, he fled by sea to Sardinia and then to the islands in the Tuscan region of Italy. Spiritual student of Saint Mamillian of Palermo.

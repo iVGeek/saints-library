@@ -1,7 +1,7 @@
 ---
 name: "Saint Censurius of Auxerre"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Censurius of Auxerre"
 summary: "Bishop of Auxerre, France from 448 until his death; he served 38 years."
 searchAliases:
   - "Censurio"
@@ -13,10 +13,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Auxerre, France from 448 until his death; he served 38 years.

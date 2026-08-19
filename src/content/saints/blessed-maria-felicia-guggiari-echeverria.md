@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Felicia Guggiari Echeverria"
 honorific: Blessed
-title: "Virgin, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed María Felicia Guggiari Echeverria"
 summary: "Eldest of seven children born to Ramón Guggiari and María Arminda Echeverría, she was baptized on 28 February 1929, and made her First Communion on 8 December 1937. Against her parent's wishes, María joined Catholic Action in 1941, serving as a children's catechist and working wi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Felicia-Guggiari-Echeverria.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
 religiousOrder: "Carmelite"
 martyr: false

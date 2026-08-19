@@ -1,7 +1,7 @@
 ---
 name: "Saint Socrates of Pergen"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Socrates of Pergen"
 summary: "Roman soldier. Martyred in the persecutions of Emperor Elagabalus."
 deathYear: 220
 died: "crucified c.220 at Pergen, Pamphylia, Asia Minor (in modern Turkey)"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

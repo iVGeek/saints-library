@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ramón Vargas González"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Ramón Vargas González"
 summary: "The son of a physician, Ramón's family moved to Guadalajara, Mexico when the boy was nine years old. Member of the Catholic Youth Association of Mexico. Noted for his ministry to the poor. Imprisoned and executed in the Mexican Revolution."
 birthYear: 1905
 deathYear: 1927
@@ -14,10 +14,7 @@ feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

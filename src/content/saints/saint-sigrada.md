@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigrada"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Sigrada"
 summary: "Married. Mother of Saint Leodegarius and Saint Warinus. Widow. Nun at the convent in Soissons, France. Lived to see the martyrdom of her sons."
 deathYear: 678
 died: "c.678"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

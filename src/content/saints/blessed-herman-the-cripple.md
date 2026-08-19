@@ -1,7 +1,7 @@
 ---
 name: "Blessed Herman the Cripple"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Pope, Royalty, Confessor"
+title: "Blessed Herman the Cripple"
 summary: "Born with a cleft palate, cerebral palsy, and spina bifida to a farm family. His parents cared for him until the age of seven, but in 1020 they gave him over to the abbey of Reichenau Island in Lake Constance in southern Germany; he spent the rest of his life there. He became a B"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Herman-the-Cripple.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Benedictine"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francis of Fabriano"
 honorific: Blessed
-title: "Priest, Pope, Missionary"
+title: "Blessed Francis of Fabriano"
 summary: "Born to a wealthy family, the son of Compagno Venimbeni, a physician, and Margaret di Federico. Studied humanities and philosophy, then joined the Franciscans in 1267, at age 16; he spent part of his novitiate studying under the companions of Saint Francis of Assisi. Friar. Pries"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Venimbeni.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: false

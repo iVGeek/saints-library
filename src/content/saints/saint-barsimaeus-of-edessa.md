@@ -1,7 +1,7 @@
 ---
 name: "Saint Barsimaeus of Edessa"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Barsimaeus of Edessa"
 summary: "Evangelizing bishop of Edessa, Syria. Martyred in the persecutions of President Lysias and Emperor Trajan."
 searchAliases:
   - "Barsamja"
@@ -22,7 +22,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

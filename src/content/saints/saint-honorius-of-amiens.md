@@ -1,7 +1,7 @@
 ---
 name: "Saint Honorius of Amiens"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Honorius of Amiens"
 summary: "Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens, France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the time of his selection as bishop. Re-discovere"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Honorius-of-Amiens.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Confessor
@@ -39,7 +38,7 @@ patronage:
   - "pastry chefs"
   - "–"
   - "Amiens, France"
-martyr: true
+martyr: false
 ---
 
 Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens, France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the time of his selection as bishop. Re-discovered the relics of Saint Victoricus of Amiens, Saint Fuscian of Amiens, and Saint Gentian of Amiens, which had been lost for 300 years.

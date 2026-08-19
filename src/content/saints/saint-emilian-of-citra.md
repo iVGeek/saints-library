@@ -1,7 +1,7 @@
 ---
 name: "Saint Emilian of Citra"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Emilian of Citra"
 summary: "Soldier. Martyr. No other information has survived."
 searchAliases:
   - "Aemilian"
@@ -14,7 +14,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

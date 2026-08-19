@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescens of Galatia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Missionary"
+title: "Saint Crescens of Galatia"
 summary: "First century disciple of the Apostles. Companion of Saint Paul the Apostle during his second Roman captivity; he left to go to Galatia (2nd Timothy 4:10). Bishop in Galatia. Some traditions say he was a missionary to Dauphine in Gaul, and founded the diocese of Mentz, Germany. M"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Crescens.jpg"
 deathYear: 100
@@ -12,7 +12,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Missionary

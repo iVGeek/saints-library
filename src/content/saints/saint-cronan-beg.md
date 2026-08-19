@@ -1,7 +1,7 @@
 ---
 name: "Saint Cronan Beg"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cronan Beg"
 summary: "Bishop of Aendrum, County Down, Ireland. Involved in the 640 controversy about the proper dating of Easter."
 died: "7th century"
 region: "Ireland"

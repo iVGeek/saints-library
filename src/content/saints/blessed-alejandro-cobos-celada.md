@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alejandro Cobos Celada"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Alejandro Cobos Celada"
 summary: "Joined the Hospitallers of Saint John of God at age 14, making his final nows 12 November 1905. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alejandro-Cobos-Celada.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

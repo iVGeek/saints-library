@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vicente Angulo García"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Vicente Angulo García"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Adalberto Juan"
@@ -16,9 +16,7 @@ feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

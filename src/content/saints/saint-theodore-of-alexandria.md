@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodore of Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Theodore of Alexandria"
 summary: "Patriarch of Alexandria, Egypt. Martyr."
 deathYear: 609
 died: "beheaded c.609 in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

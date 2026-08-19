@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antony Brorby"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Venerable Antony Brorby"
 summary: "Franciscan Friar Minor. Priest. Lecturer at Magdalen College, Oxford, England. Fluent in Greek and Hebrew, he was a noted scholar and preacher. Imprisoned, tortured and eventually murdered in the persecutions of King Henry VIII for preaching against the king's lifestyle."
 searchAliases:
   - "Antony Brorbey"
@@ -16,12 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Friar Minor. Priest. Lecturer at Magdalen College, Oxford, England. Fluent in Greek and Hebrew, he was a noted scholar and preacher. Imprisoned, tortured and eventually murdered in the persecutions of King Henry VIII for preaching against the king's lifestyle.

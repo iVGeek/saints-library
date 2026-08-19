@@ -1,7 +1,7 @@
 ---
 name: "Blessed Henry Heath"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty, Confessor"
+title: "Blessed Henry Heath"
 summary: "Raised in a Protestant family, Henry became a minister in the Church of England. Convert to Catholicism. Joined the Franciscan Friars Minor Recollects, taking the name Paul of Saint Magdalene. Priest. Imprisoned, tortured and eventually executed in the persecutions of King Charle"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Henry-Heath.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Amaranthus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Amaranthus"
 summary: "Third century martyr."
 searchAliases:
   - "Amaranto"
@@ -14,7 +14,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

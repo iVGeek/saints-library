@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Klinik"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Edward Klinik"
 summary: "Young layman in the archdiocese of Poznan, Poland; his sister became an Ursuline nun. Educated by Salesians in Oswiecim, Poland. Construction worker. A serious and mature young man, he had a great devotion to Eucharistic adoration and the teachings of Saint John Bosco. Martyred i"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Klinik.jpg"
 birthYear: 1919
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

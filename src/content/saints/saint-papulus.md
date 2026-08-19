@@ -1,7 +1,7 @@
 ---
 name: "Saint Papulus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Papulus"
 summary: "Priest. Worked with Saint Saturninus of Toulouse in France. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Papoul"
@@ -15,7 +15,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

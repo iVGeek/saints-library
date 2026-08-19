@@ -1,7 +1,7 @@
 ---
 name: "Saint Fortunatus of Smyrna"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Fortunatus of Smyrna"
 summary: "Deacon. Martyr. No other information has suvived."
 died: "at Smyrna (modern Izmir, Turkey)"
 deathPlace: "Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Catherick"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Edward Catherick"
 summary: "Studied at Douai, France. Priest. Returned to England in 1635 to minister to covert Catholics during a period of persecution by King Charles I. Martyr."
 searchAliases:
   - "Edmund"
@@ -16,10 +16,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

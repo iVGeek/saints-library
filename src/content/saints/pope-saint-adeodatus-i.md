@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Adeodatus I"
 honorific: Saint
-title: "Monk, Deacon, Pope"
+title: "Pope Saint Adeodatus I"
 summary: "Son of Stephen, a subdeacon. Pope. Supported the clergy who were being repressed by the politics of the day, trying to work their vocations during rebellions in Ravenna and Naples in Italy. Worked among victims of leprosy and an earthquake in his diocese. Said to have been the fi"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/SCeau_Deusdedit_pape_17108.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-  - Pope
 religiousOrder: "Benedictine"
 martyr: false
 ---

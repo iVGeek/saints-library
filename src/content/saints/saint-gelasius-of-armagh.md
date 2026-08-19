@@ -1,7 +1,7 @@
 ---
 name: "Saint Gelasius of Armagh"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gelasius of Armagh"
 summary: "Son of the Irish poet Diarmaid. Abbot in Derry, Ireland for 16 years. Archbishop of Armagh, Ireland in 1138; he served for 36  years. First Irish bishop to receive the pallium. Rebuilt the cathedral of Armagh. As the primate bishop of Ireland, Gelasius travelled widely, preaching"
 searchAliases:
   - "Giolla Iosa"

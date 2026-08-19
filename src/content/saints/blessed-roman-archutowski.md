@@ -1,7 +1,7 @@
 ---
 name: "Blessed Roman Archutowski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Roman Archutowski"
 summary: "Priest in the archdiocese of Warsaw, Poland. Exceptional teacher and rector of the seminary in Warsaw. Imprisoned and tortured at the Majdanek concentration camp by the Gestapo during the Nazi occupation of Poland in World War II. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Roman-Archutowski.jpg"
 birthYear: 1882
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

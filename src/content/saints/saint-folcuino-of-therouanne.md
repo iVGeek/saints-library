@@ -1,7 +1,7 @@
 ---
 name: "Saint Folcuino of Therouanne"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Folcuino of Therouanne"
 summary: "Bishop in the area of Thérouanne, northern France for 39 years."
 searchAliases:
   - "Folquin"
@@ -14,9 +14,8 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop in the area of Thérouanne, northern France for 39 years.

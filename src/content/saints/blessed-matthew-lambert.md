@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthew Lambert"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Matthew Lambert"
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a baker. One of the Irish Martyrs."
 searchAliases:
   - "Maitiú Laimpeart"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 5
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

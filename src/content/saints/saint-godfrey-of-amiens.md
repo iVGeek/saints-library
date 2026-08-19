@@ -1,7 +1,7 @@
 ---
 name: "Saint Godfrey of Amiens"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Royalty, Confessor"
+title: "Saint Godfrey of Amiens"
 summary: "Son of Frodon, a solid citizen in a small town. Raised from age 5 in the Benedictine abbey of Mont-Saint-Quentin where his godfather was abbot Godefroid, and where he immediately donned a Benedictine habit and lived as a tiny monk. He became a Benedictine monk when he came of age"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Heiliger_Gottfried.jpg"
 searchAliases:

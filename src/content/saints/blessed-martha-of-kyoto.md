@@ -1,7 +1,7 @@
 ---
 name: "Blessed Martha of Kyoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Martha of Kyoto"
 summary: "Married lay woman in the diocese of Kyoto, Japan. Mother of Blessed Benedictus of Kyoto. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Kawachi (in modern Osaka), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

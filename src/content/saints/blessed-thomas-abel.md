@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Abel"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Thomas Abel"
 summary: "Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of Aragon, wife of King Henry VIII. He delivered the letter of Emperor Charles V that sought the permission and blessing of Pope Julius II for the marriage of Henry and C"
 searchAliases:
   - "Thomas Able"
@@ -16,8 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Piscus of Greece"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Piscus of Greece"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Cipiscus"
@@ -11,7 +11,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

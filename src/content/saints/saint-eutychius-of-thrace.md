@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius of Thrace"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Eutychius of Thrace"
 summary: "Bishop of Perinthus, Thrace (in modern Turkey). Martyr."
 searchAliases:
   - "Eutychius of Perinthus"
@@ -11,7 +11,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

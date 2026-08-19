@@ -1,7 +1,7 @@
 ---
 name: "Saint Tôma Ðinh Viet Du"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Tôma Ðinh Viet Du"
 summary: "Dominican priest. Tortured and martyred in the persecutions of Minh Mang."
 image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

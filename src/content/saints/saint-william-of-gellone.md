@@ -1,7 +1,7 @@
 ---
 name: "Saint William of Gellone"
 honorific: Saint
-title: "Monk, Pope, Hermit, Soldier"
+title: "Saint William of Gellone"
 summary: "Born to the nobility, the son of Aldana and Count Thierry of Toulouse. Career soldier. Member of the court of Blessed Charlemagne. Duke of Aquitaine. Led forces against the Saracens in southern France. In retirement he built a monastery at Gellone, France, and became a Benedictin"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Guercino_Guglielmo_d%27Aquitania.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
   - Soldier
 religiousOrder: "Benedictine"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor the Martyr"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Victor the Martyr"
 summary: "Imperial Roman soldier stationed in Damascus, Syria. Arrested, tortured, blinded and martyred for his faith. While in prison, he was nursed by Saint Corona of Damascus."
 image: "http://catholicsaints.info/wp-content/gallery/saint-victor-and-saint-corona/saint-victor-the-martyr.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

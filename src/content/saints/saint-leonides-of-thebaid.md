@@ -1,14 +1,13 @@
 ---
 name: "Saint Leonides of Thebaid"
 honorific: Saint
-title: "Martyr"
+title: "Saint Leonides of Thebaid"
 summary: "Martyred with a group of fellow Christians in the persecutions of Diocletian."
 feastDay:
   month: 1
   day: 28
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

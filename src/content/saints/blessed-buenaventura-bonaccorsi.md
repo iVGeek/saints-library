@@ -1,7 +1,7 @@
 ---
 name: "Blessed Buenaventura Bonaccorsi"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Buenaventura Bonaccorsi"
 summary: "Buenaventura was given a conversion experience after hearing Saint Philip Benizi preach in Pistoia, Italy. Joined the Servites and worked as a peace-maker between the warring factions and city-states of Italy."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-Bonaccorsi.jpg"
 searchAliases:
@@ -14,9 +14,8 @@ feastDay:
   month: 12
   day: 14
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---
 
 Buenaventura was given a conversion experience after hearing Saint Philip Benizi preach in Pistoia, Italy. Joined the Servites and worked as a peace-maker between the warring factions and city-states of Italy.

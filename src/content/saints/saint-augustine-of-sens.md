@@ -1,7 +1,7 @@
 ---
 name: "Saint Augustine of Sens"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Augustine of Sens"
 summary: "Brother of Saint Benedicta of Sens and Saint Sanctian of Sens. During the persecution of Christians in Spain by Aurelian, she fled to Sens, Gaul (in modern France), which was no friendlier. Martyr."
 deathYear: 273
 born: "Spain"
@@ -13,7 +13,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

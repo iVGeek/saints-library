@@ -1,7 +1,7 @@
 ---
 name: "Saint Heimrad"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Heimrad"
 summary: "Priest. Made several pilgrimages to holy sites. He was so unworldly, his mind so much on spiritual matters that many of the people he met thought he was a lunatic. After years of travel, he decided to settle as a Benedictine monk. After some time in the community, he retired to b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Heimrad.jpg"
 searchAliases:

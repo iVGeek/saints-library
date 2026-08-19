@@ -1,7 +1,7 @@
 ---
 name: "Saint Astius of Durazzo"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Astius of Durazzo"
 summary: "Bishop of Durazzo (in modern Albania). He was martyred in the persecutions of Trajan as part of a sacrifice to the pagan god Dionysus."
 searchAliases:
   - "Asteio"
@@ -16,7 +16,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

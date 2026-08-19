@@ -1,7 +1,7 @@
 ---
 name: "Saint Irenaeus of Chiusi"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Irenaeus of Chiusi"
 summary: "Deacon. Tortured and martyred with Saint Mustiola for ministering to Christian prisoners, and giving proper burial to martyrs."
 searchAliases:
   - "Ireneo"
@@ -14,7 +14,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 patronage:

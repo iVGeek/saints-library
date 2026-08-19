@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustina of Como"
 honorific: Saint
-title: "Religious"
+title: "Saint Faustina of Como"
 summary: "Sister of Saint Liberata of Como. Founder of Santa Margarita convent in Como, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-Faustina-of-Como.jpg"
 deathYear: 580

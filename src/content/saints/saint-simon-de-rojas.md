@@ -1,7 +1,7 @@
 ---
 name: "Saint Simón de Rojas"
 honorific: Venerable
-title: "Virgin, Priest, Pope, Royalty, Confessor"
+title: "Saint Simón de Rojas"
 summary: "A pious child, his first words, at age 14 months, were reported to be Ave Maria. From his youth and throughout his life he loved to visit Marian shrines. Joined the Trinitarians in Valladolid, Spain at age 12, and made his religious profession on 28 October 1572. He studied at th"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/SimondeRojasOSS.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: false
 ---

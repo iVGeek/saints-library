@@ -1,7 +1,7 @@
 ---
 name: "Saint Stephen of Cardeña"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Stephen of Cardeña"
 summary: "Monk. Abbot of the Castilian monastery of Cardeña in the archdiocese of Burgos, Spain where he led over 200 brother monks. Martyred by Saracens."
 deathYear: 872
 died: "872"
@@ -11,7 +11,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

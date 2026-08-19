@@ -1,7 +1,7 @@
 ---
 name: "Saint Quirinus of Tivoli"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Quirinus of Tivoli"
 summary: "Martyr. No reliable information has survived."
 died: "Tivoli, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

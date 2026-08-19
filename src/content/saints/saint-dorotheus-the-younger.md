@@ -1,7 +1,7 @@
 ---
 name: "Saint Dorotheus the Younger"
 honorific: Saint
-title: "Monk"
+title: "Saint Dorotheus the Younger"
 summary: "Monk at Samsun, Turkey on the Black Sea. Following the command of a mysterious stranger, he founded a monastery at Khiliokomoas, and served as its first abbot. Long-suffering spiritual teacher of Saint Dositheus of Gaza."
 searchAliases:
   - "Dorotheus of Khiliokomos"

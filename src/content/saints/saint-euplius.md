@@ -1,7 +1,7 @@
 ---
 name: "Saint Euplius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Euplius"
 summary: "Martyr."
 died: "rolled in a cowhide and laid out in the sun to be crushed as it shrank"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

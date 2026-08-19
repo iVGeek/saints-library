@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Ankyra"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Julian of Ankyra"
 summary: "Priest. Martyed in the persecution of emperor Licinius."
 searchAliases:
   - "Julian of Galatia"
@@ -14,10 +14,9 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. Martyed in the persecution of emperor Licinius.

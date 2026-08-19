@@ -1,7 +1,7 @@
 ---
 name: "Saint Midan of Anglesey"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary, Confessor"
+title: "Saint Midan of Anglesey"
 summary: "Spiritual student of Saint Kentigern. Priest. Confessor of the Penmon monastery where he worked with Saint Seiriol. Built churches on Welsh island of Anglesy. Missionary bishop in the area of Midmar in Aberdeenshire, Scotland."
 searchAliases:
   - "Idan"

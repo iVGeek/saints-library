@@ -1,7 +1,7 @@
 ---
 name: "Saint Donnan of Eigg"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint Donnan of Eigg"
 summary: "Monk of Iona Abbey with Saint Columba of Iona. Founded a monastery on the Island of Eigg off the west coast of Scotland. He and 52 brother monks were massacred by pagan raiders."
 image: "http://catholicsaints.info/wp-content/uploads/img-Sain-Donnan-of-Eigg.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Monk of Iona Abbey with Saint Columba of Iona. Founded a monastery on the Island of Eigg off the west coast of Scotland. He and 52 brother monks were massacred by pagan raiders.

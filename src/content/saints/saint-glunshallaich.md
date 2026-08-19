@@ -1,7 +1,7 @@
 ---
 name: "Saint Glunshallaich"
 honorific: Saint
-title: "Monk"
+title: "Saint Glunshallaich"
 summary: "Seventh century convert, led to the faith by Saint Kevin of Glendalough; noted for a life of penance."
 searchAliases:
   - "Glunshalaich"

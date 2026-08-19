@@ -1,7 +1,7 @@
 ---
 name: "Blessed Facundo Escanciano Tejerina"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Facundo Escanciano Tejerina"
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."
 searchAliases:
   - "Aurelio of Ocejo"
@@ -17,9 +17,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

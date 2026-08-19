@@ -1,7 +1,7 @@
 ---
 name: "Blessed George Halley"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed George Halley"
 summary: "Carmelite, taking the name Angelus of Saint Joseph. One of the Irish Martyrs."
 searchAliases:
   - "Angelus of Saint Joseph"
@@ -14,10 +14,7 @@ feastDay:
   month: 8
   day: 15
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

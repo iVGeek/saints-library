@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rudolph"
 honorific: Blessed
-title: "Bishop, Monk"
+title: "Blessed Rudolph"
 summary: "Vallombrosan monk. Spiritual student of Saint John Gualbert. Abbot general."
 deathYear: 1076
 died: "1076 of natural causes"

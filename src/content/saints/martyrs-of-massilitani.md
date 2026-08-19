@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Massilitani"
 honorific: Saint
-title: "Martyr"
+title: "Martyrs of Massilitani"
 summary: "A group of Christians martyred together in northern Africa. Saint Augustine of Hippo wrote about them."
 searchAliases:
   - "Martyrs of Massili"
@@ -12,8 +12,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

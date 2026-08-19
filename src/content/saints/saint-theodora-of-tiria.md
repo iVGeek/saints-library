@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodora of Tiria"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Theodora of Tiria"
 summary: "Imprisoned, tortured and executed in her late teens for encouraging other martyrs to not give up their faith. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-of-Tiria.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

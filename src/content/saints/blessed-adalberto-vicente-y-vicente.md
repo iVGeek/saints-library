@@ -2,7 +2,7 @@
 name: "Blessed Adalberto Vicente y Vicente"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Memorias_y_revista_de_la_Sociedad_Cient%C3%ADfica_%22Antonio_Alzate.%22_%28IA_memoriasyrevista3233soci%29.pdf/page1-500px-Memorias_y_revista_de_la_Sociedad_Cient%C3%ADfica_%22Antonio_Alzate.%22_%28IA_memoriasyrevista3233soci%29.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Adalberto Vicente y Vicente"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Adalberto María"
@@ -17,9 +17,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

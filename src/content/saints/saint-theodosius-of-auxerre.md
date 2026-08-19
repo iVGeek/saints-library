@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosius of Auxerre"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Theodosius of Auxerre"
 summary: "Bishop of Auxerre, France c.507 to 516. Attended the Council of Orleans in 511."
 deathYear: 516
 died: "516"

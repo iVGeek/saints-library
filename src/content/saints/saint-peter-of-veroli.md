@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Veroli"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Peter of Veroli"
 summary: "Hermit near Veroli, Italy."
 born: "Spain"
 died: "near Veroli, Italy of natural causes"

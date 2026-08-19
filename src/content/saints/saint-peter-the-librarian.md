@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter the Librarian"
 honorific: Saint
-title: "Martyr"
+title: "Saint Peter the Librarian"
 summary: "Martyr."
 searchAliases:
   - "Peter Palatine"
@@ -13,8 +13,7 @@ feastDay:
   month: 2
   day: 24
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

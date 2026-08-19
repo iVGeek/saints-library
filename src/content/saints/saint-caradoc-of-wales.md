@@ -1,7 +1,7 @@
 ---
 name: "Saint Caradoc of Wales"
 honorific: Saint
-title: "Priest, Monk, Hermit, Royalty"
+title: "Saint Caradoc of Wales"
 summary: "Born to a wealthy family, Caradoc spent part of his youth as a harp player in the court of King Rhys ap Twedwr of South Wales. He fell out of royal favour when he lost one of the king's greyhounds. Deciding to start a new life, Caradoc broke the tip of his spear to turn it into a"
 searchAliases:
   - "Caradoc of Llandaff"
@@ -23,7 +23,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 patronage:
   - "Llandaff, Wales"
 martyr: false

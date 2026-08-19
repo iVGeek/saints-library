@@ -1,7 +1,7 @@
 ---
 name: "Saint Adeltrude of Aurillac"
 honorific: Saint
-title: "Saint"
+title: "Saint Adeltrude of Aurillac"
 summary: "A countess, married to Count Gerard of Aurillac. Mother of Saint Gerald of Aurillac."
 searchAliases:
   - "Adaltrude of Aurillac"
@@ -14,8 +14,7 @@ feastDay:
   month: 11
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

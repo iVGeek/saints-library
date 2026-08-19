@@ -1,7 +1,7 @@
 ---
 name: "Blessed Adam of Guglionesi"
 honorific: Blessed
-title: "Priest, Monk, Hermit, Royalty"
+title: "Blessed Adam of Guglionesi"
 summary: "Benedictine monk. Abbot of the monastery of Santa Maria to the Italian Tremiti Islands. Attended the council of Melfi on 21 August 1059. Worked to unify the people of southern Italy as a way reduce into-city warring. Retired in 1071 to spend his remaining months as a prayerful he"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adam-of-Guglionesi.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ vocation:
   - Priest
   - Monk
   - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Guglionesi, Italy"

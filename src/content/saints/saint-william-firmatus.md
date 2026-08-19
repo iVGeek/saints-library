@@ -1,7 +1,7 @@
 ---
 name: "Saint William Firmatus"
 honorific: Saint
-title: "Hermit, Royalty"
+title: "Saint William Firmatus"
 summary: "Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to the poor and spent the rest of his life on pilgrimages and as a hermit at Savigny and Mantilly. Known for his closeness to nature, his love of wildlife, and the"
 searchAliases:
   - "William Firmatus of Tours"
@@ -16,7 +16,6 @@ canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cr%C3%A2ne_de_saint_Guillaume_Firmat%2C_coll%C3%A9giale_Saint-%C3%89vroult%2C_Mortain%2C_France.jpg/960px-Cr%C3%A2ne_de_saint_Guillaume_Firmat%2C_coll%C3%A9giale_Saint-%C3%89vroult%2C_Mortain%2C_France.jpg"
 vocation:
   - Hermit
-  - Royalty
 patronage:
   - "against headache"
   - "–"

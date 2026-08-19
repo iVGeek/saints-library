@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michele Orsucci"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Michele Orsucci"
 summary: "Dominican priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

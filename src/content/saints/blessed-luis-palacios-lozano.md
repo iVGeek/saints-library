@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Palacios Lozano"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis Palacios Lozano"
 summary: "Benedictine priest in the Subiaco Congregation. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Palacios-Lozano.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

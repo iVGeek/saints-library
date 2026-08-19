@@ -1,7 +1,7 @@
 ---
 name: "Saint Mugagga"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Mugagga"
 summary: "Ngo clan. Raised and educated by the royal clothmaker of Uganda. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 6
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

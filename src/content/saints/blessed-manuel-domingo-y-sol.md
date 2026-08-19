@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Domingo y Sol"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Confessor"
+title: "Blessed Manuel Domingo y Sol"
 summary: "One of twelve children in his family, Manuel entered the diocesan seminary in Tortosa, Spain at age 15. Ordained a priest in the diocese of Tortosa on 9 July 1860. He served at different times as parish priest, catechist, seminary teacher, spiritual director, preacher, mission di"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mosen_sol.jpg"
 birthYear: 1836
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: false
 ---

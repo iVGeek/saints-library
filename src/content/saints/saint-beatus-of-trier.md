@@ -1,7 +1,7 @@
 ---
 name: "Saint Beatus of Trier"
 honorific: Saint
-title: "Priest, Hermit"
+title: "Saint Beatus of Trier"
 summary: "Sixth century priest and hermit."
 searchAliases:
   - "Béat"

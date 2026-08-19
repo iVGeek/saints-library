@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius of Constantinople"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Eleutherius of Constantinople"
 summary: "Bishop in Constantinople. Martyr."
 searchAliases:
   - "Eleuterio"
@@ -12,7 +12,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Emmingen of Saxony"
 honorific: Saint
-title: "Martyr, Monk, Missionary"
+title: "Saint Emmingen of Saxony"
 summary: "Missionary who worked with Saint Willehad of Bremen. Martyr."
 deathYear: 782
 died: "30 November 782 at River Weser, Lawer Saxony, Germany"
@@ -12,7 +12,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Missionary
 martyr: true

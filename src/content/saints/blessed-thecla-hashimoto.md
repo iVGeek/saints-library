@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thecla Hashimoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Thecla Hashimoto"
 summary: "Lay woman, married to Blessed Ioannes Hashimoto Tahyoe; mother of four. One of the Martyrs of Kyoto."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg"
 deathYear: 1619
@@ -14,9 +14,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

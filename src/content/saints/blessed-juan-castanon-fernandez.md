@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Castañón Fernández"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Juan Castañón Fernández"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1916
 deathYear: 1934
@@ -15,8 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

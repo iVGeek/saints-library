@@ -1,7 +1,7 @@
 ---
 name: "Saint Glycerius of Antioch"
 honorific: Saint
-title: "Martyr, Deacon"
+title: "Saint Glycerius of Antioch"
 summary: "Deacon. Tortured and martyred for his faith."
 searchAliases:
   - "Glicerio"
@@ -15,7 +15,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Deacon
 martyr: true
 ---

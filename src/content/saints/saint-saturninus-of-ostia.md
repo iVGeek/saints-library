@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Ostia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Saturninus of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"
@@ -10,8 +10,7 @@ feastDay:
   month: 8
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

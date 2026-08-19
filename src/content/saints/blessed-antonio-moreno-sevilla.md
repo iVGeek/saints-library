@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Moreno Sevilla"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Antonio Moreno Sevilla"
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
 birthYear: 1889
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

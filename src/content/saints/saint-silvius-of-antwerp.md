@@ -1,7 +1,7 @@
 ---
 name: "Saint Silvius of Antwerp"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Silvius of Antwerp"
 summary: "Martyr."
 searchAliases:
   - "Silvio"
@@ -13,7 +13,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Jesuit"
 martyr: true

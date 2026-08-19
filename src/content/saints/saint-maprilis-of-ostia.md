@@ -1,7 +1,7 @@
 ---
 name: "Saint Maprilis of Ostia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maprilis of Ostia"
 summary: "Martyr honoured in Ostia, Italy."
 deathYear: 300
 died: "c.300"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

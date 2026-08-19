@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alejandro Más Ginester"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Alejandro Más Ginester"
 summary: "Youngest of four children of Francisco Más and Vicenta Ginestar. Joined the Franciscan Capuchins on 1 August 1893 at the convent of Saint Mary Magdalen in Massamagrell, Spain, and made his perpetual vows on 8 August 1897. Priest, ordained on 22 December 1900 in Ollería, Spain. Wo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alejandro-Más-Ginester.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

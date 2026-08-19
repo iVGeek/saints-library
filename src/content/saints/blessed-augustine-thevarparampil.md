@@ -1,7 +1,7 @@
 ---
 name: "Blessed Augustine Thevarparampil"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Augustine Thevarparampil"
 summary: "Priest in the eparchy of Palai, India, ordained on 17 December 1921. Worked the the “untouchable” caste in India, bringing them to the faith, and giving them some basic education to improve their lot in this world."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustine-Thevarparampil.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

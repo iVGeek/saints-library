@@ -1,7 +1,7 @@
 ---
 name: "Blessed Franciszek Stryjas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Franciszek Stryjas"
 summary: "The son of farmers, Franciszek was a married layman and father in the diocese of Kalisz, Poland; he and Józefa Kobylka were married in 1901, lived in Kuczowola, Poland, and had seven children. When Józefa died of natural causes, Franciszek married Józefa Nosal and moved to Takomy"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Stryjas.jpg"
 birthYear: 1882
@@ -16,9 +16,7 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

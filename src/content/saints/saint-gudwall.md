@@ -1,7 +1,7 @@
 ---
 name: "Saint Gudwall"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Gudwall"
 summary: "Monk. Abbot of a monastery on the isle of Plecit. Bishop. Founder of monasteries in Devon and Cornwall in England, and in Brittany, France."
 searchAliases:
   - "Curval"

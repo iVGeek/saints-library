@@ -1,7 +1,7 @@
 ---
 name: "Saint Maddalena of Canossa"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Royalty"
+title: "Saint Maddalena of Canossa"
 summary: "One of five children born to a wealthy and famous family, her father died and mother abandoned them all to a governess when Maddalen was five years old. Nun, studying in the Carmel of Trent, Italy and then Conegliano, Italy. Developed a ministery to the poor in Verona, Italy base"
 image: "http://catholicsaints.info/wp-content/uploads/Magdalena-Gabriela-Canossa.jpg"
 searchAliases:
@@ -19,13 +19,10 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 One of five children born to a wealthy and famous family, her father died and mother abandoned them all to a governess when Maddalen was five years old. Nun, studying in the Carmel of Trent, Italy and then Conegliano, Italy. Developed a ministery to the poor in Verona, Italy based in the Canossa Castle of her family. Founder of the Canossian Daughters of Charity and the Canossian Sons of Charity with a mission of providing free education to poor children. By the end of the 20th century there were more than 2,600 Canossians working around the world.

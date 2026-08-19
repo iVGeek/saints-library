@@ -1,7 +1,7 @@
 ---
 name: "Blessed Hyacinthe-Augustine-Gabrielle Bourla"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Hyacinthe-Augustine-Gabrielle Bourla"
 summary: "One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Blasius of Oreto"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Blasius of Oreto"
 summary: "Bishop of Oreto, Spain. Martyred in the persecutions of Nero."
 searchAliases:
   - "Blasius of Cisuentes"
@@ -13,7 +13,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

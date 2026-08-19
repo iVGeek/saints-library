@@ -1,7 +1,7 @@
 ---
 name: "Saint Ermenilda of Ely"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Ermenilda of Ely"
 summary: "Born a princess, the daughter of King Erconbert of Kent, and Saint Sexburga of Ely. Ermenilda was a pious youth with a strong prayer life. Married to the pagan Wulfhere, King of Mercia whom she converted by setting a good example. Queen. Mother of Saint Werburga of Chester and Ki"
 searchAliases:
   - "Eormenhild"
@@ -20,7 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

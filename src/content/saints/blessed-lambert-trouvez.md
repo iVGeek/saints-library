@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lambert Trouvez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Lambert Trouvez"
 summary: "Richard worked as a tailor in Brussels, Belgium until he gave into a call to religious life and became a Franciscan Friars Minor (Observants) lay brother. Missionary to Mexico, then to the Philippines. Ordained a priest in Cebu, Philippines. Assigned to Japan in 1613 where he wor"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lambert-Trouvez.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

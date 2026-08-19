@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lorenzo Santolaria Ester"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Cardinal"
+title: "Blessed Lorenzo Santolaria Ester"
 summary: "Benedictine monk in the Solesmes Congregation. Martyred in the Spanish Civil War."
 birthYear: 1872
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

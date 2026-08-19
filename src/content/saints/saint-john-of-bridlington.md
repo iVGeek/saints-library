@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Bridlington"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint John of Bridlington"
 summary: "Studied at Oxford, England from age 17. Augustinian Canon Regular at age 19. Held several posts in Saint Mary's abbey in Bridlington, England. Reluctant prior of Saint Mary's for 17 years beginning in 1362. Highly recommended the study of the Gospel of Saint John as a source for"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Bridlington-1.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Augustinian"
@@ -29,7 +27,7 @@ patronage:
   - "women in difficult labour"
   - "–"
   - "Bridlington, England"
-martyr: true
+martyr: false
 ---
 
 Studied at Oxford, England from age 17. Augustinian Canon Regular at age 19. Held several posts in Saint Mary's abbey in Bridlington, England. Reluctant prior of Saint Mary's for 17 years beginning in 1362. Highly recommended the study of the Gospel of Saint John as a source for information and inspiration on the Gospel life.

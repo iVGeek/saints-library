@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eliseo Moradillo García"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Eliseo Moradillo García"
 summary: "Baptized at the age of six days, Eliseo and his family moved often in his childhood as his father worked for the railroad and was constantly transferred. Friend of Blessed Camila Díez Blanco and Blessed Gregorio Díez Blanco. He was in their home on 15 February detained and later"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eliseo-Moradillo-García.jpg"
 birthYear: 1906
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

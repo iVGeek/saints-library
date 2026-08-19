@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Pamiers"
 honorific: Saint
-title: "Martyr, Priest, Monk, Missionary"
+title: "Saint Antoninus of Pamiers"
 summary: "First century convert to Christianity. Pilgim to Rome, Italy. Priest. Missionary to Aquitania, an area of modern France, which led to his title Apostle of the Rouergue. Miracle worker."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/L%C3%A9gende_de_Saint-antonin-cath%C3%A9drale_de_Pamiers.jpg/960px-L%C3%A9gende_de_Saint-antonin-cath%C3%A9drale_de_Pamiers.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Missionary
@@ -25,7 +24,7 @@ patronage:
   - "Medina del Campo, Spain"
   - "Palencia, Spain"
   - "Pamiers, France"
-martyr: true
+martyr: false
 ---
 
 First century convert to Christianity. Pilgim to Rome, Italy. Priest. Missionary to Aquitania, an area of modern France, which led to his title Apostle of the Rouergue. Miracle worker.

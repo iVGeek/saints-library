@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felipe Ripoll Morata"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Soldier"
+title: "Blessed Felipe Ripoll Morata"
 summary: "Born to a poor but devout family. Priest in the diocese of Teruel, Spain. Professor and spiritual director at the diocesan seminary, and later served as rector. When the Republican Army overran Teruel in 1938, Father Felipe stayed with his people, kept faith with his bishop, and"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Ripoll-Morata.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Soldier
 martyr: true
 ---

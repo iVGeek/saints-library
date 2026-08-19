@@ -1,7 +1,7 @@
 ---
 name: "Saint Egelred of Crowland"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Egelred of Crowland"
 summary: "Monk at Crowland Abbey in England. Martyred by pagan Danish invaders."
 deathYear: 869
 died: "c.869"
@@ -11,7 +11,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Vinzenz Fuhl"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Vinzenz Fuhl"
 summary: "Augustinian priest."
 searchAliases:
   - "Father Clemens"
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Augustinian"
 martyr: false
 ---

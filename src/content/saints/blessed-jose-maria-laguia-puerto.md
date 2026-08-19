@@ -1,7 +1,7 @@
 ---
 name: "Blessed José María Laguía Puerto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José María Laguía Puerto"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1888
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

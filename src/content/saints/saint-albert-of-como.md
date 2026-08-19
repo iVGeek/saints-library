@@ -1,7 +1,7 @@
 ---
 name: "Saint Albert of Como"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Albert of Como"
 summary: "Hermit at Rho, Italy. Benedictine monk at San Carpofero monastery in Como, Italy. Abbot of his house. Bishop of Como."
 searchAliases:
   - "Aribert"

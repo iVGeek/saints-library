@@ -1,7 +1,7 @@
 ---
 name: "Saint Arator of Verdun"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Arator of Verdun"
 summary: "Fourth bishop of Verdun, France."
 deathYear: 460
 died: "c.460"

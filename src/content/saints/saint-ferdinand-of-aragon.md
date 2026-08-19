@@ -1,7 +1,7 @@
 ---
 name: "Saint Ferdinand of Aragon"
 honorific: Saint
-title: "Bishop, Hermit, Royalty"
+title: "Saint Ferdinand of Aragon"
 summary: "Born to the royal family of Aragon, Spain, and the rulers of the two Sicilies, the fourth child of King Sancho III and Elvisa, Countess of Castile. Ferdinand was early drawn to religious and contemplative life. Hermit in the forest near Caiazzo, Italy where he became renowned in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-of-Aragon.jpg"
 searchAliases:
@@ -22,7 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Hermit
-  - Royalty
 patronage:
   - "Alife-Caiazzo, Italy, diocese of"
   - "Alvignano, Italy"

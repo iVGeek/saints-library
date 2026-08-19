@@ -1,7 +1,7 @@
 ---
 name: "Saint Mac Cainne"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Mac Cainne"
 summary: "Bishop of Ath-da-laarg or Áth-dá-loarc (records vary) in Ireland."
 searchAliases:
   - "Mac Coinne"
@@ -11,9 +11,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Ath-da-laarg or Áth-dá-loarc (records vary) in Ireland.

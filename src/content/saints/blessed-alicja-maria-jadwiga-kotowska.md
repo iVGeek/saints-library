@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alicja Maria Jadwiga Kotowska"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Alicja Maria Jadwiga Kotowska"
 summary: "Nun, member of the Sisters of the Resurrection. Superior of her house and director of training for her sisters. One of the 108 Polish Martyrs of World War II."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alicja-Maria-Jadwiga-Kotowska.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

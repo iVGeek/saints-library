@@ -1,7 +1,7 @@
 ---
 name: "Saint Eleutherius of Rocca d'Arce"
 honorific: Saint
-title: "Monk"
+title: "Saint Eleutherius of Rocca d'Arce"
 summary: "Brother of Saint Grimwald and Saint Fulk. Died while on pilgrimage."
 searchAliases:
   - "Eleutherius the Pilgrim"

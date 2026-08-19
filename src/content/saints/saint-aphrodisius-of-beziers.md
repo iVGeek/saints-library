@@ -1,7 +1,7 @@
 ---
 name: "Saint Aphrodisius of Béziers"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Aphrodisius of Béziers"
 summary: "Government official in his native Egypt, and an adult convert to Christianity. First bishop of Béziers in Narbonense Gaul (in modern France), consecrated by Saint Paul of Narbonne, and serving in the mid-3rd-century."
 searchAliases:
   - "Afrodise"
@@ -19,12 +19,11 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "against epilepsy in children"
   - "Béziers, France"
-martyr: true
+martyr: false
 ---
 
 Government official in his native Egypt, and an adult convert to Christianity. First bishop of Béziers in Narbonense Gaul (in modern France), consecrated by Saint Paul of Narbonne, and serving in the mid-3rd-century.

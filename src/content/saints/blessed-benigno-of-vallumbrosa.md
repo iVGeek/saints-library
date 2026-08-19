@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benigno of Vallumbrosa"
 honorific: Blessed
-title: "Priest, Monk, Pope, Hermit"
+title: "Blessed Benigno of Vallumbrosa"
 summary: "May have been related to Saint John Gualbert. Young priest probably ordained in the region of Florence, Italy. He seems to have had a failure at clerical discipline; his biographer wrote that Benigno “fell into sin”. To re-examine his life and call to vocation, he made a pilgrima"
 searchAliases:
   - "Benigno Benizzi"
@@ -22,7 +22,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-  - Pope
   - Hermit
 religiousOrder: "Benedictine"
 martyr: false

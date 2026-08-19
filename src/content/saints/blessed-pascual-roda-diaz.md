@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pascuál Roda Díaz"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Pascuál Roda Díaz"
 summary: "Layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1937
@@ -14,8 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

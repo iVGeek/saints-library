@@ -1,7 +1,7 @@
 ---
 name: "Blessed Victoriano Fernández Reinoso"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Victoriano Fernández Reinoso"
 summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

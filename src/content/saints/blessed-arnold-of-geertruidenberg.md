@@ -1,7 +1,7 @@
 ---
 name: "Blessed Arnold of Geertruidenberg"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Arnold of Geertruidenberg"
 summary: "Carthusian monk in Capella, Belgium."
 searchAliases:
   - "Arnoldus"

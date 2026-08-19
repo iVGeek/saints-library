@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicodemus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Nicodemus"
 summary: "Member of the Sanhedrin in Israel during the life of Jesus. He was a secret disciple of Christ, meeting him by night to avoid the wrath of the other members of the Sanhedrin, and eventually spoke out to that body to remind them that Jesus had a right to a hearing. With Saint Jose"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Brooklyn_Museum_-_Nicodemus_%28Nicod%C3%A8me%29_-_James_Tissot_-_overall.jpg/960px-Brooklyn_Museum_-_Nicodemus_%28Nicod%C3%A8me%29_-_James_Tissot_-_overall.jpg"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

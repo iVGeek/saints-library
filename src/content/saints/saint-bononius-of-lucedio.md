@@ -1,7 +1,7 @@
 ---
 name: "Saint Bononius of Lucedio"
 honorific: Saint
-title: "Bishop, Monk, Hermit"
+title: "Saint Bononius of Lucedio"
 summary: "Benedictine monk at the Abbey of San Esteban in , Italy. Hermit near Cairo, Egypt, and then on Mount Sinai; even the Islamic authorities recognized that he was a holy man, and left him alone. Abbot of Lucedio Abbey near Trino, Italy at the request of Bishop Peter of Vercelli, Ita"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bononius-of-Lucedio.jpg"
 searchAliases:

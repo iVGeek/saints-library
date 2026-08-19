@@ -1,7 +1,7 @@
 ---
 name: "Saint Magdalena Yi Yong-Dok"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Magdalena Yi Yong-Dok"
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Magdallena Yi Yeong-Deok"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

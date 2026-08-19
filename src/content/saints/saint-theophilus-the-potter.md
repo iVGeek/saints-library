@@ -1,7 +1,7 @@
 ---
 name: "Saint Theophilus the Potter"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theophilus the Potter"
 summary: "Potter. Martyred in the persecutions of Decius."
 searchAliases:
   - "Theophilos"
@@ -13,7 +13,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Caecilian of Saragossa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Caecilian of Saragossa"
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean."
 searchAliases:
   - "Cecilian"
@@ -14,7 +14,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

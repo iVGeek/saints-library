@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pascual Penades Jornet"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pascual Penades Jornet"
 summary: "Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Penades-Jornet.jpg"
 birthYear: 1894
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

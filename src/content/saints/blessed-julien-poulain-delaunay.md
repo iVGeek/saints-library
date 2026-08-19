@@ -1,7 +1,7 @@
 ---
 name: "Blessed Julien Poulain Delaunay"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Julien Poulain Delaunay"
 summary: "Priest in the archdiocese of Rennes, France. One of the Martyrs of September."
 birthYear: 1744
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

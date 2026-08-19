@@ -1,7 +1,7 @@
 ---
 name: "Saint Abrunculus of Trier"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Abrunculus of Trier"
 summary: "Bishop of Trier, Germany from c.511 to c.525. Known for his ascetic life, turning away from worldly things for the spiritual."
 searchAliases:
   - "Abruncolo"
@@ -18,11 +18,10 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Bruchsal, Germany"
-martyr: true
+martyr: false
 ---
 
 Bishop of Trier, Germany from c.511 to c.525. Known for his ascetic life, turning away from worldly things for the spiritual.

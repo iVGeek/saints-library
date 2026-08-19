@@ -1,7 +1,7 @@
 ---
 name: "Saint Ina of Wessex"
 honorific: Saint
-title: "Martyr, Monk, Royalty, Soldier"
+title: "Saint Ina of Wessex"
 summary: "King of Wessex (in modern England) from 688 to 726. Known as a great warrior, lawgiver and justice, he restored Glastonbury Abbey. Married to Saint Ethelburga of Wessex who helped shift his focus from earthly to spiritual concerns. In 726, Ina abdicated his throne, he and Ethelbu"
 searchAliases:
   - "Ine"
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
   - Soldier
 martyr: true
 ---

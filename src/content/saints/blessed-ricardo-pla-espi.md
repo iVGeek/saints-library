@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ricardo Pla Espí"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ricardo Pla Espí"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1898
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

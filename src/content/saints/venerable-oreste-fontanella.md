@@ -1,7 +1,7 @@
 ---
 name: "Venerable Oreste Fontanella"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Oreste Fontanella"
 summary: "Priest in the diocese of Biella, Italy."
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Oreste-Fontanella.jpg"
 birthYear: 1883
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

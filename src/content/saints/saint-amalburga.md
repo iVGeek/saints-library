@@ -1,7 +1,7 @@
 ---
 name: "Saint Amalburga of Maubeuge"
 honorific: Saint
-title: "Monk"
+title: "Saint Amalburga of Maubeuge"
 summary: "Seventh century relative of Saint Pepin of Landen. Married young to Count Witger. Mother of Saint Gudula of Brussels, Saint Emebert, and Saint Reineldis, all of whom she taught herself, including religion. When the youngest was grown, both Amalburga and her husband retired to Ben"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Amalberga.jpg"
 searchAliases:

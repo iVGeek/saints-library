@@ -1,7 +1,7 @@
 ---
 name: "Habakkuk the Prophet"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Habakkuk the Prophet"
 summary: "Seventh century BC Old Testament prophet in Judea during the time of the captivity."
 image: "http://catholicsaints.info/wp-content/uploads/img-Habakkuk-the-Prophet.jpg"
 searchAliases:
@@ -14,9 +14,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Seventh century BC Old Testament prophet in Judea during the time of the captivity.

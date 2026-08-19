@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerius of Langres"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Valerius of Langres"
 summary: "Deacon in the early Church in the area of Langres, France. Worked with Saint Desiderius of Langres. Martyred by area pagans."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Valerius-of-Langres.jpg"
 deathYear: 411
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

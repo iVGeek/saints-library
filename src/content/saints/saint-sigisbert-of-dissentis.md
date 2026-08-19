@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigisbert of Dissentis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sigisbert of Dissentis"
 summary: "Founded Dissentis Abbey in Switzerland. Friend of Saint Placid of Dissentis."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sigisbert-of-Disentis.jpg"
 searchAliases:
@@ -12,12 +12,11 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "in Switzerland\n\nChur"
   - "Dissentis"
-martyr: true
+martyr: false
 ---
 
 Founded Dissentis Abbey in Switzerland. Friend of Saint Placid of Dissentis.

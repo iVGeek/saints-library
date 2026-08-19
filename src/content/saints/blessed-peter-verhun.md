@@ -1,7 +1,7 @@
 ---
 name: "Blessed Peter Verhun"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Peter Verhun"
 summary: "Greek Catholic. Doctor of philosophy. Ordained on 30 October 1927. Priest for Ukrainian Catholics at Berlin, Germany. Apostolic Visitor to Germany. Arrested for his faith in June 1945, and exiled to Siberia. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Verhun.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

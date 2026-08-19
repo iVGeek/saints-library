@@ -1,7 +1,7 @@
 ---
 name: "Blessed Federico López y López"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Pope, Royalty, Confessor"
+title: "Blessed Federico López y López"
 summary: "Worked at a number of jobs and positions as a young adult, all the while feeling a call to religious life. In 1906 he finally said yes, and joined the Franciscan Friars Minor Conventual at their convent in Granollers, Spain. Studied at the Franciscan seminary in Granollers, and t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Federico-López-y-López.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"

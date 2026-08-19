@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lluís Estruch Vives"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Lluís Estruch Vives"
 summary: "Franciscan Capuchin friar, making his first profession on 9 September 1934. He never made his solemn profession as he was murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Eudald of Igualada"
@@ -17,12 +17,9 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, making his first profession on 9 September 1934. He never made his solemn profession as he was murdered by Marxists in the Spanish Civil War.

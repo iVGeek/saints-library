@@ -1,7 +1,7 @@
 ---
 name: "Blessed Zef Marksen"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Zef Marksen"
 summary: "Studied in Vienna, Austria, and ordained in Munich, Germany on 21 June 1936 as a priest for the diocese of Lezhë, Albania. Arrested in Shijak, Albania in February 1945 for remaining Catholic following the Communist take over. Sentenced to prison where he was eventually murdered."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Zef-Marksen.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

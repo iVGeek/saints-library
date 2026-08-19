@@ -1,7 +1,7 @@
 ---
 name: "Saint Plegmund of Canterbury"
 honorific: Saint
-title: "Bishop, Monk, Hermit, Royalty"
+title: "Saint Plegmund of Canterbury"
 summary: "Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the attacks of pagan Danes. The hermitage at Plemstall, Plegmundstow, was named after him."
 deathYear: 923
 born: "Cheshire, England"
@@ -16,7 +16,6 @@ vocation:
   - Bishop
   - Monk
   - Hermit
-  - Royalty
 martyr: false
 ---
 

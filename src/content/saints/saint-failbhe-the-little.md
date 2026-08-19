@@ -1,7 +1,7 @@
 ---
 name: "Saint Failbhe the Little"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Failbhe the Little"
 summary: "Abbot of Iona Abbey for seven years."
 searchAliases:
   - "Failbhe of Iona"
@@ -15,9 +15,8 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Abbot of Iona Abbey for seven years.

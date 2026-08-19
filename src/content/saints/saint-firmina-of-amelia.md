@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmina of Amelia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Firmina of Amelia"
 summary: "Maiden martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Firmina-of-Amelia.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Amelia, Italy"

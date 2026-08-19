@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonius Anazawa Han'emon"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Antonius Anazawa Han'emon"
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Crescentia Anazawa. Martyr."
 deathYear: 1629
 born: "Yonezawa, Yamagata, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

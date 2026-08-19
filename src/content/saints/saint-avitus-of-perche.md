@@ -1,7 +1,7 @@
 ---
 name: "Saint Avitus of Perche"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Avitus of Perche"
 summary: "Monk at the Menat monastery in Auvergne, France. Abbot of the Micy monastery near Orléans, France. Hermit in area of Perche, France. His reputation for holiness led to would-be spiritual students to gather around his shack. Eventually there were so many that they were led to buil"
 searchAliases:
   - "Avitus of Micy"

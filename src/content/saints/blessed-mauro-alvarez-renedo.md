@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mauro Álvarez Renedo"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Mauro Álvarez Renedo"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Luciano"
@@ -17,9 +17,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tiburcio Arnáiz Muñoz"
 honorific: Blessed
-title: "Priest, Pope, Cardinal"
+title: "Blessed Tiburcio Arnáiz Muñoz"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tiburcio_Arnaiz.jpg"
 birthYear: 1865
 deathYear: 1926
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Jesuit"
 martyr: false

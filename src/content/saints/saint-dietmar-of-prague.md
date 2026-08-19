@@ -1,7 +1,7 @@
 ---
 name: "Saint Dietmar of Prague"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Dietmar of Prague"
 summary: "Benedictine monk, possibly at double monastery in Prague, Bohemia (in modern Czech Republic). Chosen first bishop of Prague on 23 March 973 where he served for the rest of his life. Ordained Saint Adalbert of Prague to the priesthood."
 searchAliases:
   - "Detmar"

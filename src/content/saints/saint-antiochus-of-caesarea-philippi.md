@@ -1,7 +1,7 @@
 ---
 name: "Saint Antiochus of Caesarea Philippi"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Antiochus of Caesarea Philippi"
 summary: "Soldier. Tribune in the imperial Roman army. Martyred with other soldiers."
 died: "Caesarea Philippi"
 region: "England"
@@ -10,7 +10,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

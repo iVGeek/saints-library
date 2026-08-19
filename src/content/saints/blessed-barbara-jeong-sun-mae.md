@@ -1,7 +1,7 @@
 ---
 name: "Blessed Barbara Jeong Sun-Mae"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Barbara Jeong Sun-Mae"
 summary: "Lay woman martyr in the apostolic vicariate of Korea. Convert to Catholicism. Moving to Seoul, she founded a group of other Christian lay women who wanted to live in community. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1777
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

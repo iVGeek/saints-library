@@ -1,7 +1,7 @@
 ---
 name: "Blessed Matthias of Nagasaki"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Matthias of Nagasaki"
 summary: "Layman catechism in the archdiocese of Nagasaki, Japan. Martyr."
 birthYear: 1572
 deathYear: 1620
@@ -14,9 +14,7 @@ feastDay:
   month: 5
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

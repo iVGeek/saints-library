@@ -1,7 +1,7 @@
 ---
 name: "Saint Ranulf of Arras"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Ranulf of Arras"
 summary: "Father of Saint Hadulph. Martyr."
 searchAliases:
   - "Ragnulf"
@@ -15,7 +15,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

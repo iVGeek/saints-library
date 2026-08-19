@@ -1,7 +1,7 @@
 ---
 name: "Saint Attracta of Killaraght"
 honorific: Saint
-title: "Virgin, Priest, Monk"
+title: "Saint Attracta of Killaraght"
 summary: "Daughter of an Irish noble. Drawn from an early age to a religious vocation, which was opposed by her family. Made her religious vows to Saint Patrick at Coolavin, Ireland. Worked with Patrick for the conversion of Ireland. Anchoress at Drumconnell, County Roscommon. At Killaragh"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Attracta-of-Killaraght.jpg"
 searchAliases:

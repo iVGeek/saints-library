@@ -1,7 +1,7 @@
 ---
 name: "Saint Pausilippus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Pausilippus"
 summary: "Martyred in the persecutions of Emperor Hadrian."
 deathYear: 130
 died: "martyred c.130"
@@ -10,7 +10,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Victor of Merida"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Victor of Merida"
 summary: "Martyr."
 deathYear: 304
 died: "304 in Merida, Estremadura, Spain"
@@ -12,7 +12,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

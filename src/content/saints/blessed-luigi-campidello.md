@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luigi Campidello"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed Luigi Campidello"
 summary: "Fourth of six children of Joseph and Filomena Belpani. Known as a good student and an extremely pious child. Taught catechism to other children. Member of the Passionists, taking the name Pio, and making his vows on 30 April 1884. Noted for his piety and his devotion to the Eucha"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luigi-Campidello.jpg"
 searchAliases:
@@ -19,8 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

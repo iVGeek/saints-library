@@ -1,7 +1,7 @@
 ---
 name: "Saint Chaeremon of Nilopolis"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Chaeremon of Nilopolis"
 summary: "Bishop of Nilopolis, Egypt, a small island in the middle of the River Nile south of Memphis. He was a very old man when the persecutions of Decius began in 250. To escape, Charemon fled into the desert and was never seen again. Considered a martyr as he died due to fleeing persec"
 searchAliases:
   - "Chaerymon of Nilopolis"
@@ -13,7 +13,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Orsola Maria Rivata"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable Orsola Maria Rivata"
 summary: "Nun. First superior general of the Sister Disciples of the Divine Master."
 searchAliases:
   - "Maria Scolastica of Divine Providence"
@@ -18,7 +18,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

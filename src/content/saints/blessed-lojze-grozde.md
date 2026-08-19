@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lojze Grozde"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Lojze Grozde"
 summary: "As he was born out of wedlock, his mother had him baptized him on the day of his birth, but she, his biological father, and his and step-father all refused to raise the boy, and from age four he was grew up by his maternal grandparents and an aunt. They all poor peasants, but pio"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lojze-Grozde_MK.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

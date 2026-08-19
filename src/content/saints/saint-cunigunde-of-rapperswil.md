@@ -1,7 +1,7 @@
 ---
 name: "Saint Cunigunde of Rapperswil"
 honorific: Saint
-title: "Martyr"
+title: "Saint Cunigunde of Rapperswil"
 summary: "Companion of Saint Ursula. Martyr."
 died: "Rapperswil, Switzerland"
 deathPlace: "Switzerland"
@@ -9,8 +9,7 @@ feastDay:
   month: 6
   day: 16
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

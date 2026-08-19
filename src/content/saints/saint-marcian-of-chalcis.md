@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcian of Chalcis"
 honorific: Saint
-title: "Priest, Monk, Hermit, Soldier, Confessor"
+title: "Saint Marcian of Chalcis"
 summary: "Born to the nobility. Soldier, commander and member of the imperial court. He abandoned the worldly life to become a desert hermit at Chalcis near Antioch. His reputation for holiness attracted so many students that he founded a monastery for them. Miracle worker; when he wished"
 searchAliases:
   - "Marcian of Syria"

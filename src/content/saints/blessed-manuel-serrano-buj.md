@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Serrano Buj"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Manuel Serrano Buj"
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Eduardo Maria"
@@ -17,9 +17,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

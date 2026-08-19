@@ -1,7 +1,7 @@
 ---
 name: "Blessed Asunción Pascual Nieto"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Asunción Pascual Nieto"
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

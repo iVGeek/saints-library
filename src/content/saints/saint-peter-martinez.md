@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Martinez"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Peter Martinez"
 summary: "Benedictine monk at the monastery of Saint Mary of Mozonzo c.950. Abbot of Saint Martin of Antealares in Compostela, Spain. Archbishop of Saintiago de Compostela c.986. A leader in the Spanish Reconquista when the Moors were driven from Spain. May have been one of the composers o"
 searchAliases:
   - "Peter of Mozonzo"

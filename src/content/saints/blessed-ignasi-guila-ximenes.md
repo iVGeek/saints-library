@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ignasi Guilà Ximenes"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ignasi Guilà Ximenes"
 summary: "Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignasi-Guilà-Ximenes.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

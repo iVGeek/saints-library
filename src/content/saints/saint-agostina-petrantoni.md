@@ -1,7 +1,7 @@
 ---
 name: "Saint Agostina Petrantoni"
 honorific: Venerable
-title: "Martyr, Religious, Pope, Royalty"
+title: "Saint Agostina Petrantoni"
 summary: "Born to a small farm family, the daughter of Francesco Pietrantoni and Caterina Costantini. Nurse at the Holy Spirit Hospital, near the Vatican, in Rome in 1886. She joined the Sisters of Charity, a congregation dedicated to service to the sick, in 1887, taking the name Agostina."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agostina-Petrantoni-1.jpg"
 searchAliases:
@@ -22,16 +22,13 @@ feastDay:
   day: 13
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "abuse victims"
   - "against impoverishment"
   - "against poverty"
   - "martyrs"
-martyr: true
+martyr: false
 ---
 
 Born to a small farm family, the daughter of Francesco Pietrantoni and Caterina Costantini. Nurse at the Holy Spirit Hospital, near the Vatican, in Rome in 1886. She joined the Sisters of Charity, a congregation dedicated to service to the sick, in 1887, taking the name Agostina. Worked with the critically ill and contagious, catching typhus and malaria in the process. After she caught tuberculosis, she worked in the  TB ward where a patient stabbed her to death during a rape attempt; she died praying that he be forgiven.

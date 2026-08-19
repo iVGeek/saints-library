@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Vergara Echevarria"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José Vergara Echevarria"
 summary: "Member of the Missionaries of the Sacred Heart. Ordained a priest in 1934. Trained and taught new members of the Missionaries. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Vergara-Echevarria.jpg"
 birthYear: 1908
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

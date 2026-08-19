@@ -1,7 +1,7 @@
 ---
 name: "Saint Faustus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Faustus"
 summary: "Martyred in the persecutions of Decius. No other information has survived."
 deathYear: 250
 died: "crucified and then shot with arrows in 250; he hung there for five days before he died"
@@ -11,7 +11,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

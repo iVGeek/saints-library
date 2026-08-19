@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antoni Serra Hortal"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antoni Serra Hortal"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Adolf Jaume"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

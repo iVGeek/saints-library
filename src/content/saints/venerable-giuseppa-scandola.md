@@ -1,7 +1,7 @@
 ---
 name: "Venerable Giuseppa Scandola"
 honorific: Venerable
-title: "Religious, Pope, Missionary"
+title: "Venerable Giuseppa Scandola"
 summary: "Nun in the Comboni Missionary Sisters. Missionary in what is today the southern Sudan."
 searchAliases:
   - "Maria Teresa Scandola"
@@ -19,7 +19,6 @@ canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Maria_Giuseppa_Scandola.png"
 vocation:
   - Religious
-  - Pope
   - Missionary
 martyr: false
 ---

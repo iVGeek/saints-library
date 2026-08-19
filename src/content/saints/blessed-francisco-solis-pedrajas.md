@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco Solís Pedrajas"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Francisco Solís Pedrajas"
 summary: "Born to a poor and pious family. Ordained a priest in the diocese of Jaén, Spain on 22 December 1900. Served six years in the parish of Santiago Apóstol in Valdepeñas de Jaén, Spain while earning a degree in theology. Known in all his postings as “a learned, zealous and pious pas"
 image: "http://catholicsaints.info/wp-content/uploads/Francisco-Solis-prior.jpg"
 birthYear: 1877
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

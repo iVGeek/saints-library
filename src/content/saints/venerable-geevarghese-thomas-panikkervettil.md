@@ -1,7 +1,7 @@
 ---
 name: "Venerable Geevarghese Thomas Panikkervettil"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Deacon, Pope"
+title: "Venerable Geevarghese Thomas Panikkervettil"
 summary: "Son of Thomas Panicker and Annamma Panicker. Attending Madras Christian College as an ordained deacon in the Malankara Orthodox Syrian Church, he earned degrees in economics and Indian history. Ordained a priest on 15 August 1908. Founded the Order of the Imitation of Christ (als"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Geevarghese-Thomas-Panikkervettil.jpg"
 searchAliases:
@@ -26,7 +26,6 @@ vocation:
   - Priest
   - Religious
   - Deacon
-  - Pope
 martyr: false
 ---
 

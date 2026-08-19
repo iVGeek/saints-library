@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucius of Sigum"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Lucius of Sigum"
 summary: "Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr."
 searchAliases:
   - "Lucio"
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

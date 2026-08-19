@@ -1,7 +1,7 @@
 ---
 name: "Blessed Amadeus of Portugal"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Pope, Hermit, Royalty"
+title: "Blessed Amadeus of Portugal"
 summary: "Born to the Portugese nobility, the youngest of eleven children of Rui Gomes, the Count of Viana, and Isabel de Menezes; brother of Saint Beatrice da Silva Meneses. Courtier to Empress Eleonaora of Portugal. Married briefly. Monk at the Hieronymite monastery of Santa María de Gua"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vera_Beati_Amadei_Effigies_%28Historiarum_Seraphicae_Religionis%2C_1586%29%2C_cropped.png"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Priest
 religiousOrder: "Franciscan"
 patronage:

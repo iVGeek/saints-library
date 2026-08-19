@@ -1,7 +1,7 @@
 ---
 name: "Venerable Francisco Camacho"
 honorific: Venerable
-title: "Pope, Soldier"
+title: "Venerable Francisco Camacho"
 summary: "Francisco grew up on a farm. He joined the army at age 20 and fought against the French at the siege of Lleida, Spain. He was transferred to Colombia where he became seriously ill; was treated by the Hospitallers of Saint John of God where he learned of the Order and its work. Up"
 searchAliases:
   - "Francisco Rodríguez-Camacho Vivas"
@@ -17,7 +17,6 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Soldier
 martyr: false
 ---

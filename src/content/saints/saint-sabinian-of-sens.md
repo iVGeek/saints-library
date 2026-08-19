@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinian of Sens"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sabinian of Sens"
 summary: "First bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates, this is clearly impossible."
 searchAliases:
   - "Sabinianus"
@@ -14,7 +14,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 patronage:

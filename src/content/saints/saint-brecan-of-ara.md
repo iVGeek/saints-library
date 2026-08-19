@@ -1,7 +1,7 @@
 ---
 name: "Saint Brecan of Ara"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Brecan of Ara"
 summary: "Bishop."
 region: "Ireland"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop.

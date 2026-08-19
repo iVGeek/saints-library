@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Luis Hernández Medina"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Luis Hernández Medina"
 summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: true
 ---

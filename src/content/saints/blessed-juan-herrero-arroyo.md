@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juan Herrero Arroyo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Juan Herrero Arroyo"
 summary: "Dominican friar. Martyred in the Spanish Civil War."
 birthYear: 1859
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

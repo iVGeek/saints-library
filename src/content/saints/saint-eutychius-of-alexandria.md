@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychius of Alexandria"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Eutychius of Alexandria"
 summary: "Sub-deacon in Alexandria, Egypt and leader of a group of Christians who supported Saint Athanasius of Alexandria and opposed Arianism. Arrested, scourged and condemned to slavery in the mines for adhering to orthodox Christianity. Martyr."
 searchAliases:
   - "Eutichio"
@@ -13,7 +13,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

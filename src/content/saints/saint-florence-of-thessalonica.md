@@ -1,7 +1,7 @@
 ---
 name: "Saint Florence of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Florence of Thessalonica"
 summary: "Tortured and martyred in the persecutions of Emperor Maximinus Daza."
 searchAliases:
   - "Fiorenzo"
@@ -13,7 +13,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

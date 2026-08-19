@@ -1,7 +1,7 @@
 ---
 name: "Saint Gilbert de Moray"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Gilbert de Moray"
 summary: "Son of Duke William de Moravia. Bishop of Caithness, Scotland for 20 years, during which he built the cathedral there. Fierce proponent of Scottish independence, often opposing the archbishop of York, England in matters that he thought would reduce that independence."
 searchAliases:
   - "Gilbert of Caithness"

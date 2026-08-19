@@ -1,7 +1,7 @@
 ---
 name: "Saint Cagnoald of Laon"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Cagnoald of Laon"
 summary: "Brother of Saint Faro of Meaux and Saint Burgundofara. Monk at Luxeuil, France. Spiritual student of Saint Columbanus with whom he travelled to Bobbio, Italy where they founded a monastery. Sixth bishop of Laon, France."
 searchAliases:
   - "Cagnou"

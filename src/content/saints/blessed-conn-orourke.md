@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conn O'Rourke"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Conn O'Rourke"
 summary: "Franciscan Friar Minor Observant and priest, based at the monastery of Breifine. Arrested in the persecutions of Queen Elizabeth I and ordered to swear loyalty to Elizabeth as head of the Church; he refused. Martyr."
 searchAliases:
   - "Conn Ó Ruairc"
@@ -20,10 +20,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

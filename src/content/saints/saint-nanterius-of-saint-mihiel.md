@@ -1,7 +1,7 @@
 ---
 name: "Saint Nanterius of Saint-Mihiel"
 honorific: Saint
-title: "Monk"
+title: "Saint Nanterius of Saint-Mihiel"
 summary: "Monk. Abbot of Saint-Mihiel Abbey in Lorraine, France."
 searchAliases:
   - "Nantier"

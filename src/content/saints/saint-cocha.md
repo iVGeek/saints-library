@@ -1,7 +1,7 @@
 ---
 name: "Saint Cocha"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Cocha"
 summary: "Sixth-century abbess of Ross-Benchuir, Ireland."
 searchAliases:
   - "Coecha"

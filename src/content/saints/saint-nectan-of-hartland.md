@@ -1,7 +1,7 @@
 ---
 name: "Saint Nectan of Hartland"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Nectan of Hartland"
 summary: "Sixth-century hermit in Hartland, Devon, England."
 searchAliases:
   - "Nighton"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian of Sora"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Julian of Sora"
 summary: "Arrested, tortured, and executed in the persecutions of Antoninus Pius. While he was in custody, a pagan temple collapsed, destroying the statue in it; Julian was immediately accused of magic and of having caused the destruction, and was immediately executed."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julian-of-Sora.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "in Italy\n\nAccettura"

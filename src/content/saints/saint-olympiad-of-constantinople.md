@@ -1,7 +1,7 @@
 ---
 name: "Saint Olympiad of Constantinople"
 honorific: Saint
-title: "Monk, Deacon"
+title: "Saint Olympiad of Constantinople"
 summary: "Friend of Saint Gregory of Nyssa and Gregory the Theologian. Married to the Prefect of Constantinople. Widowed after 20 months of marriage, she turned down further offers of marriage. Deaconess. Used her fortune to found a hospital and orphanage, and to support the women's religi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Olympiad-of-Constantinople.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Margaret Bosco"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Margaret Bosco"
 summary: "Married to Francis Bosco. Mother of Joseph and Saint John Bosco. Widowed in 1817 at age 29. Took care of her sons, her mother-in-law, and her brother-in-law. In 1846, at age 58, she moved to Turin, Italy where she spent her last ten years helping Saint John in his work with poor"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Margaret-Bosco.jpg"
 searchAliases:
@@ -19,8 +19,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Salesian"
 martyr: false
 ---

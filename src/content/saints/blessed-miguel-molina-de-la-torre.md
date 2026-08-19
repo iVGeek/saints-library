@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Molina de La Torre"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miguel Molina de La Torre"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1887
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

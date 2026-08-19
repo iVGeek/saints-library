@@ -1,7 +1,7 @@
 ---
 name: "Venerable Teresa Valse Pantellini"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Venerable Teresa Valse Pantellini"
 summary: "The middle of three children born to a wealthy family; her father, Giuseppi, owned a chain of hotels in Egypt, and her mother, Giuseppina Viglini, was from an Italian upper class family. Teresa's mother insured the girl received an excellent education, spent time in prayer, and u"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Valse-Pantellini.jpg"
 birthYear: 1878
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

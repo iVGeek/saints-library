@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Caixal"
 honorific: Blessed
-title: "Bishop, Royalty"
+title: "Blessed Antonio Caixal"
 summary: "Well-educated Mercedarian friar. Chosen 15th Master-General of the Mercedarians in 1405, he worked to build up the interior life of its members, and the financial resources they used to ransom Christians from slavery in Muslim countries. Served as diplomat for the King of Aragon."
 deathYear: 1417
 died: "25 May 1417 in Constance, Switzerland of natural causes"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Royalty
 martyr: false
 ---
 

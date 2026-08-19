@@ -1,7 +1,7 @@
 ---
 name: "Saint Micae Hô Ðình Hy"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Micae Hô Ðình Hy"
 summary: "A mandarin (official of the imperial court) and supervisor of the royal silk factories, Micae was a covert Christian who served as catechist. He was betrayed, his faith exposed, he refused to renounce Christianity, and so was tortured and executed. Martyr."
 searchAliases:
   - "Michael Ho Dinh Hy"
@@ -16,9 +16,7 @@ feastDay:
   month: 5
   day: 22
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

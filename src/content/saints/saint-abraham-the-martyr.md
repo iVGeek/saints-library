@@ -1,7 +1,7 @@
 ---
 name: "Saint Abraham the Martyr"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Abraham the Martyr"
 summary: "Bishop. Martyr."
 deathYear: 348
 died: "348"
@@ -10,7 +10,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

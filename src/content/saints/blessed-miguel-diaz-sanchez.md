@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miguel Díaz Sánchez"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Miguel Díaz Sánchez"
 summary: "Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War."
 birthYear: 1879
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

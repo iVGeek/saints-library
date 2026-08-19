@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbea of Edessa"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Barbea of Edessa"
 summary: "Sister of Saint Sarbelius. Convert, brought to the faith by Saint Barsimeus of Edessa. Tortured and executed in the persecutions of Emperor Trajan. Martyr."
 deathYear: 101
 born: "Syria"
@@ -13,7 +13,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

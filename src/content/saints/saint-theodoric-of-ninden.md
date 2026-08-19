@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodoric of Ninden"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Theodoric of Ninden"
 summary: "Bishop of Ninden, Germany. One of the Martyrs of Ebsdorf."
 deathYear: 880
 born: "9th century"
@@ -13,7 +13,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 martyr: true
 ---

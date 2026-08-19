@@ -1,7 +1,7 @@
 ---
 name: "Saint Aria of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aria of Rome"
 summary: "Martyr."
 died: "Rome, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

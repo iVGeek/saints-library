@@ -1,7 +1,7 @@
 ---
 name: "Saint Celestine"
 honorific: Saint
-title: "Martyr"
+title: "Saint Celestine"
 summary: "Martyr."
 searchAliases:
   - "Celestino"
@@ -12,8 +12,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

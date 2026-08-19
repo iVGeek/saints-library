@@ -1,7 +1,7 @@
 ---
 name: "Saint Maura of Ravenna"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maura of Ravenna"
 summary: "Nurse to Saint Fusca of Ravenna. Martyred in the persecutions of Decius."
 deathYear: 250
 died: "c.250 in Ravenna, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "in Italy\n\nFrisanco"

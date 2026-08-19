@@ -1,7 +1,7 @@
 ---
 name: "Saint Elena of Laurino"
 honorific: Saint
-title: "Martyr, Hermit, Royalty"
+title: "Saint Elena of Laurino"
 summary: "Born to a poor family, as a young woman Elena felt a call to religious life. She was hounded by slander from the local people, fled from her home town and became a hermitess in a cave in nearby Pruno, Italy. Though she felt shunned by the local people, her faith led her to a mini"
 searchAliases:
   - "Eliena"
@@ -19,12 +19,10 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Hermit
-  - Royalty
 patronage:
   - "Laurino, Italy"
-martyr: true
+martyr: false
 ---
 
 Born to a poor family, as a young woman Elena felt a call to religious life. She was hounded by slander from the local people, fled from her home town and became a hermitess in a cave in nearby Pruno, Italy. Though she felt shunned by the local people, her faith led her to a ministry to the sick, and a life as an anchoress.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Serenus of Hyesmas"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Serenus of Hyesmas"
 summary: "Born to the Italian nobility. Monk. Hermit near the River Sarthe in France."
 born: "Spoleto, Italy"
 birthPlace: "Italy"

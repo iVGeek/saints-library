@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Díaz y Díaz"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Tomás Díaz y Díaz"
 summary: "Franciscan Capuchin friar. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Bonaventura of Arroyo-Cerezo"
@@ -17,11 +17,9 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar. Murdered by Marxists in the Spanish Civil War.

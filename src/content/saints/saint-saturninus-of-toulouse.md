@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Toulouse"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Missionary"
+title: "Saint Saturninus of Toulouse"
 summary: "Born to the third century Roman nobility. Missionary to Gaul, the Pyrenees, and the Iberian peninsula. Worked with Saint Papoul. He converted many, including the farmer now known as Saint Honestus who joined him as a missionary. Imprisoned in Carcassone by the prefect Rufinus, Sa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Saturninus-of-Toulouse-1.jpg"
 searchAliases:
@@ -27,7 +27,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
@@ -64,7 +63,7 @@ patronage:
   - "Toulouse, France"
   - "Vauban, Burgundy, France"
   - "Weissenau, Germany"
-martyr: true
+martyr: false
 ---
 
 Born to the third century Roman nobility. Missionary to Gaul, the Pyrenees, and the Iberian peninsula. Worked with Saint Papoul. He converted many, including the farmer now known as Saint Honestus who joined him as a missionary. Imprisoned in Carcassone by the prefect Rufinus, Saturninus and his group were freed by an angel. He became the first bishop of Toulouse (in modern France), where he teamed with Saint Martial to perform miraculous healings. Converted and baptized Saint Firminus of Amiens.

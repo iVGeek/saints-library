@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc de Paula Soteras Culla"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Francesc de Paula Soteras Culla"
 summary: "Franciscan Capuchin, professed on 13 April 1923. Ordained a priest on 1 February 1925. Murdered by Marxists in the Spanish Civil War when he admitted to being a friar."
 searchAliases:
   - "Father Rafael Maria of Mataró"
@@ -17,12 +17,10 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin, professed on 13 April 1923. Ordained a priest on 1 February 1925. Murdered by Marxists in the Spanish Civil War when he admitted to being a friar.

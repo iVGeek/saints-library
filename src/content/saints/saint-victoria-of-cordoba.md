@@ -1,7 +1,7 @@
 ---
 name: "Saint Victoria of Cordoba"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Victoria of Cordoba"
 summary: "Sister of Saint Acisclus. Martyred in the persecutions of Diocletian. After their deaths, their home was turned into a church. They have an office in the Mozabic Liturgy, and devotion to them is widespread throughout Spain and France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victoria-of-Cordoba.jpg"
 deathYear: 304
@@ -14,7 +14,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 patronage:

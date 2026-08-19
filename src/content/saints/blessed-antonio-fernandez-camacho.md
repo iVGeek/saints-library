@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Fernández Camacho"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Antonio Fernández Camacho"
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
 birthYear: 1892
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Salesian"
 martyr: true
 ---

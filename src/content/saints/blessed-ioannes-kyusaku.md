@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ioannes Kyusaku"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Ioannes Kyusaku"
 summary: "Layman in the diocese of Kyoto, Japan. Married to Blessed Magdalena Kyusaku. Father of Blessed Regina Kyusaku. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "in Kyoto (Miyako), Japan"
@@ -14,9 +14,7 @@ feastDay:
   day: 6
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

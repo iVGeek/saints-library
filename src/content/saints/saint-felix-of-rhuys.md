@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Rhuys"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Felix of Rhuys"
 summary: "Born to a wealthy family, Felix withdrew from the world to live as a hermit on Ouessant Island, France. Benedictine monk at Saint Benoit sur Loire monastery, Fleury-sur-Loire, France after fleeing there to escape Norman invaders. In 1008 he was assigned to restore the great Rhuys"
 birthYear: 970
 deathYear: 1038

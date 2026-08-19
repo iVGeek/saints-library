@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie-Eugénie de Jésus"
 honorific: Venerable
-title: "Priest, Religious, Pope"
+title: "Saint Marie-Eugénie de Jésus"
 summary: "Raised in an educated and intellectual family with no faith, but who apparently went through some of the motions since she received her first Communion on Christmas 1829 at age twelve. She had a conversion experience, came to the faith, and felt a call to religious life by hearin"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Marie_Eug%C3%A9nie_de_J%C3%A9sus_Milleret_de_Brou.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

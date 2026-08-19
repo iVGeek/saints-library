@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Gaspard Cratz"
 honorific: Blessed
-title: "Martyr, Priest, Royalty, Missionary"
+title: "Blessed John Gaspard Cratz"
 summary: "Spent several years as a young adult travelling around Europe. Employee of the Dutch East India Company in 1727. Joined the Jesuits at Macao in 1730. Missionary to the kingdom of Tonkin (modern Vietnam). Ordained in 1734. Arrested in March 1736. Tortured and martyred for his work"
 searchAliases:
   - "Johann Kaspar Kratz"
@@ -17,9 +17,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

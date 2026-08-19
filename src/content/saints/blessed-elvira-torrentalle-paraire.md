@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elvira Torrentallé Paraire"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Elvira Torrentallé Paraire"
 summary: "Joined the Carmelite Sisters of Charity at Vic, Spain on 9 September 1906. She served as superior of her community when they were martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Elvira.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

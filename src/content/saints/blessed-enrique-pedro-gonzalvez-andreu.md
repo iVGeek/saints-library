@@ -1,7 +1,7 @@
 ---
 name: "Blessed Enrique Pedro Gonzálvez Andreu"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Enrique Pedro Gonzálvez Andreu"
 summary: "Layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."
 birthYear: 1910
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

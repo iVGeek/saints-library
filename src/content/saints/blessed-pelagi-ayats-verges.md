@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pelagi Ayats Vergés"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Pelagi Ayats Vergés"
 summary: "Franciscan Capuchin friar, joining on 25 August 1931; he was never able to make his solemn profession, being murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Miquel of Bianya"
@@ -17,11 +17,9 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan Capuchin friar, joining on 25 August 1931; he was never able to make his solemn profession, being murdered by Marxists in the Spanish Civil War.

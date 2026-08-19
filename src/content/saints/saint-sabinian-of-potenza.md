@@ -1,7 +1,7 @@
 ---
 name: "Saint Sabinian of Potenza"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Sabinian of Potenza"
 summary: "Martyred in the persecutions of Maximian."
 deathYear: 303
 died: "beheaded in 303 at Potenza, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Felim O'Hara"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Felim O'Hara"
 summary: "Franciscan. One of the Irish Martyrs."
 deathYear: 1582
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

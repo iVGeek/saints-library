@@ -1,7 +1,7 @@
 ---
 name: "Saint Wilgils"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Wilgils"
 summary: "Father of Saint Willibrord of Echternach. Retired to live as a hermit on the banks of the River Humber in northeast England."
 searchAliases:
   - "Wilgis"

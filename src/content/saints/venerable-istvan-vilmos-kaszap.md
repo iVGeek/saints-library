@@ -1,7 +1,7 @@
 ---
 name: "Venerable István Vilmos Kaszap"
 honorific: Venerable
-title: "Pope"
+title: "Venerable István Vilmos Kaszap"
 summary: "István was the middle of five children born to the pious family of Lajos Kaszap and Róza Vinkler. In his youth he was an excellent student, a champion gymnast, and an active member of the Boy Scouts. István was drawn to religious life, and entered the Jesuit novitiate on 31 July"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Istvan-Vilmos-Kaszap.jpg"
 birthYear: 1916
@@ -15,8 +15,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: false
 ---

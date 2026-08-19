@@ -1,7 +1,7 @@
 ---
 name: "Saint Philemon of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Philemon of Rome"
 summary: "Preached across Italy. Martyr."
 born: "Rome, Italy"
 birthPlace: "Italy"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 21
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

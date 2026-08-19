@@ -1,7 +1,7 @@
 ---
 name: "Blessed Savina Petrilli"
 honorific: Blessed
-title: "Religious, Pope"
+title: "Blessed Savina Petrilli"
 summary: "Second daughter of Celso and Matilde Venturini. At age 10 she read a life of Saint Catherine of Siena, and immediately developed a devotion to her. Savina made her First Communion at age 12. Joined the Congregation of the Daughters of Mary at age 15 and was in was chosen presiden"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Beata_Savina_Petrilli_%28cropped%29.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

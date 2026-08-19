@@ -1,7 +1,7 @@
 ---
 name: "Saint Trophimus of Ephesus"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Trophimus of Ephesus"
 summary: "Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the temple stated a riot."
 born: "Ephesus"
 region: "Holy Land"

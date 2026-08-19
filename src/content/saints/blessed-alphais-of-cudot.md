@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alphais of Cudot"
 honorific: Blessed
-title: "Pope, Royalty"
+title: "Blessed Alphais of Cudot"
 summary: "Born to a poor peasant family. Bed-ridden with leprosy while still very young; in later life she first lost the use of her arms and legs, then lost the limbs themselves. Became known for holiness and penance. Had the gift of inedia, subsisting solely on Holy Communion. A church w"
 image: "http://catholicsaints.info/wp-content/uploads/Alphais-of-Cudot.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 11
   day: 3
 canonizationStatus: Blessed
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 patronage:
   - "against sickness"
   - "disabled people"

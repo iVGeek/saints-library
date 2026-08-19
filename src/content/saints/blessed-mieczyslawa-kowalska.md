@@ -1,7 +1,7 @@
 ---
 name: "Blessed Mieczyslawa Kowalska"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Royalty"
+title: "Blessed Mieczyslawa Kowalska"
 summary: "Maria grew up in a family of socialists. Joined the Capuchin Poor Clare nuns at the convent of Przasnysz, Poland on 12 August 1923, taking the name Maria Teresa of the Child Jesus; she made her perpetual vows in 26 June 1928. Arrested by invading Germans with her sister nuns on 2"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mieczyslawa-Kowalska.jpg"
 searchAliases:
@@ -19,10 +19,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: true
 ---

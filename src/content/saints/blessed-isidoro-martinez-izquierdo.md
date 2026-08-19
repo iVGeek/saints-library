@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isidoro Martínez Izquierdo"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Isidoro Martínez Izquierdo"
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1918
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

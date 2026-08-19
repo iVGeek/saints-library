@@ -1,7 +1,7 @@
 ---
 name: "Saint Marcellus of Spoleto"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Marcellus of Spoleto"
 summary: "Deacon. One of a group of Christians martyred together in the persecutions of Diocletian."
 deathYear: 303
 died: "303 at Spoleto, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

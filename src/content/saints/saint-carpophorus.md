@@ -1,7 +1,7 @@
 ---
 name: "Saint Carpophorus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Carpophorus"
 summary: "Priest. Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Carpoforo"
@@ -14,7 +14,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

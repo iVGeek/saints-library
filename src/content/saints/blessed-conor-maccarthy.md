@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conor MacCarthy"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Conor MacCarthy"
 summary: "Priest in the diocese of Kerry, Ireland. One of the Irish Martyrs."
 deathYear: 1653
 born: "Irish"
@@ -13,9 +13,7 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

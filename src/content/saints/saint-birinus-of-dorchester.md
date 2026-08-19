@@ -1,7 +1,7 @@
 ---
 name: "Saint Birinus of Dorchester"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Missionary, Confessor"
+title: "Saint Birinus of Dorchester"
 summary: "Ordained in Rome, Italy. Bishop in Genoa, Italy. Sent by Pope Honorius I as a missionary to Britain in 634. Preached with the pagan West Saxons where he had great success, converting King Cynegils and many of his subjects. Bishop of Dorchester, England. Founded many churches in t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Birinus-of-Dorchester.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Missionary

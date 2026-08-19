@@ -1,7 +1,7 @@
 ---
 name: "Venerable Louis Tijssen"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Louis Tijssen"
 summary: "Priest in the diocese of Roermond, Netherlands."
 birthYear: 1865
 deathYear: 1929
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 martyr: false
 ---
 

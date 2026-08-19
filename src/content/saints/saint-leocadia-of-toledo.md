@@ -1,7 +1,7 @@
 ---
 name: "Saint Leocadia of Toledo"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk"
+title: "Saint Leocadia of Toledo"
 summary: "Slave. Beaten and imprisoned for refusing to denounce her faith during the Diocletian persecutions. Scheduled for torture and either apostasy or martyrdom, she learned of the abuse being suffered by the 13 year old Saint Eulalia of Merida. Leocadia prayed for God to remove her fr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leocadia-of-Toledo.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

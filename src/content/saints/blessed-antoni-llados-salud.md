@@ -2,7 +2,7 @@
 name: "Blessed Antoni Lladós Salud"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf/page1-960px-Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf.jpg"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Antoni Lladós Salud"
 summary: "Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
 searchAliases:
   - "Raimundo"
@@ -18,9 +18,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Benedictine"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Elian ap Erbin"
 honorific: Saint
-title: "Monk"
+title: "Saint Elian ap Erbin"
 summary: "No information has survived."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elian-ap-Erbin.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Urbano Lanaspa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis Urbano Lanaspa"
 summary: "Dominican priest, professed in the Order on 30 October 1899. He earned degrees in physics and theology, and taught for several years in Valencia, Spain. He wrote and served as editor several theology journals, was a much sought after preacher, and worked to alleviate some of the"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Urbano-Lanaspa.jpg"
 birthYear: 1882
@@ -16,9 +16,7 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

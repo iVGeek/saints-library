@@ -1,7 +1,7 @@
 ---
 name: "Saint Cronan of Lismore"
 honorific: Saint
-title: "Monk"
+title: "Saint Cronan of Lismore"
 summary: "Monk. Abbot of Lismore Abbey."
 deathYear: 717
 died: "717 of natural causes"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Renatus of Angers"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Renatus of Angers"
 summary: "Bishop of Angers, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg"
 searchAliases:

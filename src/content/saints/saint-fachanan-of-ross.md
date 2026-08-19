@@ -1,7 +1,7 @@
 ---
 name: "Saint Fachanan of Ross"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Fachanan of Ross"
 summary: "Monk. Abbot. Founded a monastery and school in the Rosscarbery area which became a celebrated seat of learning and gained an international reputation for study of sacred scripture. Priest. First bishop of Ross, Ireland."
 searchAliases:
   - "Fachtna"

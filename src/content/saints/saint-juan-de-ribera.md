@@ -1,7 +1,7 @@
 ---
 name: "Saint Juan de Ribera"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Royalty"
+title: "Saint Juan de Ribera"
 summary: "Son of Peter de Ribera, a devout Christian who was also the Duke of Alcal&aacute;, Spain, and viceroy of Naples, Italy. Educated at the University of Salamanca. Ordained in 1557. Professor of theology at the University of Salamanca. Highly regarded by Pope Pius V and King Philip"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/El_patriarca_San_Juan_de_Ribera_%28Museo_del_Prado%29.jpg/960px-El_patriarca_San_Juan_de_Ribera_%28Museo_del_Prado%29.jpg"
 searchAliases:
@@ -21,8 +21,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 martyr: false
 ---
 

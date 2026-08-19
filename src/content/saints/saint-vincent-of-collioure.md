@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent of Collioure"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Vincent of Collioure"
 summary: "Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Collioure, Languedoc (in modern France)"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

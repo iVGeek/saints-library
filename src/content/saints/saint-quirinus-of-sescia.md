@@ -1,7 +1,7 @@
 ---
 name: "Saint Quirinus of Sescia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Quirinus of Sescia"
 summary: "Bishop of Sescia (modern Sisak), Croatia. During the persecution of Galerius, he was ordered to sacrifice to pagan gods; he declined. Imprisoned, severely beaten, and martyred. While in prison he converted his jailer, Marcellus."
 image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Quirinus_of_Siscia.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

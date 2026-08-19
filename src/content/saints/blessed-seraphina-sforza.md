@@ -1,7 +1,7 @@
 ---
 name: "Blessed Seraphina Sforza"
 honorific: Blessed
-title: "Priest, Religious, Pope, Royalty"
+title: "Blessed Seraphina Sforza"
 summary: "Daughter of Cattarina Colonna amd Count Guido Antonio of Montefeltro of Urbino. Orphaned as a child, she grew up in the Roman villa of her uncle, Prince Colonna. Married to Duke Alexander Sforza, Lord of Pesaro, Italy at age 16 in 1448. After several happy years together, Alexand"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sveva_da_Montefeltro_%28fifteenth-century_panel_painting%29.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

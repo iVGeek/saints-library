@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio Orrego Fuentes"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Antonio Orrego Fuentes"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Orrego-Fuentes.jpg"
 birthYear: 1915
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

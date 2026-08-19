@@ -1,7 +1,7 @@
 ---
 name: "Saint Rutilus of Sabaria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rutilus of Sabaria"
 summary: "One of a group of martyrs, and the only one whose name has come down to us."
 died: "martyred in Sabaria, Pannonia (in modern Hungary)"
 deathPlace: "Pannonia (modern Hungary)"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

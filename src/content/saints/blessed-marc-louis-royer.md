@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marc-Louis Royer"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Marc-Louis Royer"
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."
 birthYear: 1720
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

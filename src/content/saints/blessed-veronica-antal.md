@@ -1,7 +1,7 @@
 ---
 name: "Blessed Veronica Antal"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Veronica Antal"
 summary: "The eldest of four children in her family, Veronica was taught Christianity by her pious grandmother. When she was old enough, the girl would walk five miles each day to Halaucesti, Romania for daily Mass at the closest church to her home. Veronica was drawn to religious life, bu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Veronica-Antal.jpg"
 birthYear: 1935
@@ -16,9 +16,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Baptista Urgell Coma"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Joan Baptista Urgell Coma"
 summary: "Monk. Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Benet Joan"
@@ -17,9 +17,7 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

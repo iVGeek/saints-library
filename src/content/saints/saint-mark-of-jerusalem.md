@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark of Jerusalem"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Mark of Jerusalem"
 summary: "First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr."
 deathYear: 156
 died: "156"
@@ -11,7 +11,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk

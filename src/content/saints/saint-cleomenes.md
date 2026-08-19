@@ -1,7 +1,7 @@
 ---
 name: "Saint Cleomenes"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Cleomenes"
 summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
 searchAliases:
   - "Leomenes"
@@ -13,7 +13,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

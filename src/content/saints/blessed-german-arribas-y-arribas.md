@@ -1,7 +1,7 @@
 ---
 name: "Blessed Germán Arribas y Arribas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Germán Arribas y Arribas"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Ángel Gregorio"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

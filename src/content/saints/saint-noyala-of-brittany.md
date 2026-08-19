@@ -1,7 +1,7 @@
 ---
 name: "Saint Noyala of Brittany"
 honorific: Saint
-title: "Martyr, Virgin, Monk, Religious"
+title: "Saint Noyala of Brittany"
 summary: "Nun. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Noyala-of-Brittany.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
   - Religious

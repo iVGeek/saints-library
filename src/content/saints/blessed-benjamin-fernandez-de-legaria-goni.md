@@ -1,7 +1,7 @@
 ---
 name: "Blessed Benjamín Fernández de Legaria Goñi"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Benjamín Fernández de Legaria Goñi"
 summary: "The son of Tomas, a farmer, and Fermina, a school teacher for over 50 years. He began studying at a junior seminary when he was ten years old, and throughout his school years was known as an excellent student. In 1915 he became a novice in the Picpus Fathers at the San Miguel del"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Benjamín-Fernández-de-Legaria-Goñi.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

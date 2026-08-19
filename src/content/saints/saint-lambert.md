@@ -1,7 +1,7 @@
 ---
 name: "Saint Lambert"
 honorific: Saint
-title: "Monk"
+title: "Saint Lambert"
 summary: "Spiritual student of Saint Gislenus in Belgium and France."
 deathYear: 680
 died: "c.680"

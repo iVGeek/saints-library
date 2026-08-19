@@ -1,7 +1,7 @@
 ---
 name: "Venerable Petar Barbaric"
 honorific: Venerable
-title: "Pope"
+title: "Venerable Petar Barbaric"
 summary: "Jesuit novice."
 birthYear: 1874
 born: "19 May 1874 in Šiljevišta, Klobuk, Ljubuški, Bosnia and Herzegovina"
@@ -11,8 +11,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Venerable
-vocation:
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: false
 ---

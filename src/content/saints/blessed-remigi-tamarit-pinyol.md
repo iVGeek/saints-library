@@ -1,7 +1,7 @@
 ---
 name: "Blessed Remigi Tamarit Pinyol"
 honorific: Blessed
-title: "Martyr, Bishop, Pope, Cardinal"
+title: "Blessed Remigi Tamarit Pinyol"
 summary: "Member of the Claretians, professed on 15 August 1927. Martyred in the Spanish Civil War."
 birthYear: 1911
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
   - Cardinal
 martyr: true
 ---

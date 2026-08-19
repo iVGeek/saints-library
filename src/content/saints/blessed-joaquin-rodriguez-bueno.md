@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joaquin Rodríguez Bueno"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Joaquin Rodríguez Bueno"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Ireneo Jacinto"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Pelusium"
 honorific: Saint
-title: "Priest, Monk, Hermit"
+title: "Saint Isidore of Pelusium"
 summary: "Hermit. Monk. Abbot. Theologian. Priest. In his desert monastic life, he tried to imitate the life and mission of Saint John the Baptist. A prolific correspondent, he wrote over 10,000 known letters, many with advice, encouragement and theological thought; over 2,000 have survive"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Isidore_of_Pelusium.jpg"
 searchAliases:

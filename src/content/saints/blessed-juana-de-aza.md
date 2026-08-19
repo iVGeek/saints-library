@@ -1,7 +1,7 @@
 ---
 name: "Blessed Juana de Aza"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Juana de Aza"
 summary: "Born to the Castilian nobility, the daughter of Felix de Caleruega, constable of Castile. Lay woman noted for her physical and spiritual beauty. Married to Felix de Guzman, governor of Calaruega, Burgos, Spain c.1165. Mother of four. Her oldest son, Venerable Anthony, became a pr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-de-Aza.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Archmimus of Africa"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Archmimus of Africa"
 summary: "Marytred in the persecutions of the Vandal king Genseric."
 died: "North Africa"
 region: "Italy"
@@ -10,11 +10,9 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 Marytred in the persecutions of the Vandal king Genseric.

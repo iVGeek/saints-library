@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatian of Châlons-sur-Marne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Donatian of Châlons-sur-Marne"
 summary: "Fourth-century bishop of Châlons-sur-Marne, France. One of the signatories of the documents of the Council of Sardica in 343."
 died: "4th century"
 region: "France"

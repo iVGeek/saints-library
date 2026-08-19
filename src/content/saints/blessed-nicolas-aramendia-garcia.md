@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicolás Aramendía García"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicolás Aramendía García"
 summary: "Joined the Hospitallers of Saint John of God in 1893. Served as superior of his community. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolás-Aramendía-García.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

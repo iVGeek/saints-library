@@ -1,7 +1,7 @@
 ---
 name: "Saint Antholian of Auvergne"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antholian of Auvergne"
 summary: "Martyred in the persecutions of Valerian and Gallienus."
 searchAliases:
   - "Antoliano"
@@ -15,7 +15,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

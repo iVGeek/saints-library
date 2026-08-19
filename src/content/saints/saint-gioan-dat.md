@@ -1,7 +1,7 @@
 ---
 name: "Saint Gioan Ðat"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Pope"
+title: "Saint Gioan Ðat"
 summary: "Parish priest in the apostolic vicariate of West Tonkin, ordained in 1798. Arrested for his faith soon after.  One of the Martyrs of Vietnam."
 searchAliases:
   - "Giovanni"
@@ -19,10 +19,8 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

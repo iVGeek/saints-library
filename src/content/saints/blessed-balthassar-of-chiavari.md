@@ -1,7 +1,7 @@
 ---
 name: "Blessed Balthassar of Chiavari"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed Balthassar of Chiavari"
 summary: "Born to the Italian nobility. Franciscan Friar Minor (Observant). Doctor of theology. Priest. Guardian of Chiavari, Genoa, Italy. Preacher with Blessed Bernardine of Feltre. Gout forced him to retire from travelling, and he lived in a cell in the convent of Biansco, Italy, celebr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Balthassar-of-Chiavari-1.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

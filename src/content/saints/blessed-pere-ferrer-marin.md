@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pere Ferrer Marín"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pere Ferrer Marín"
 summary: "Professed religious in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Pere Maria"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

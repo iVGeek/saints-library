@@ -1,7 +1,7 @@
 ---
 name: "Saint Pedro Bautista Blásquez y Blásquez"
 honorific: Saint
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Pedro Bautista Blásquez y Blásquez"
 summary: "Born to the Castillian nobility, Pedro studied at the University of Salamanca and then joined the Franciscans in 1542. Ordained a priest, he taught philosophy and theology, and served as superior of several Franciscan communities. Feeling a call to missionary work, in 1580 he was"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-Bautista-Blasquez-y-Blasquez.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

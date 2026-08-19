@@ -1,7 +1,7 @@
 ---
 name: "Saint Ermin of Lobbes"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Ermin of Lobbes"
 summary: "Studied at the Cathedral School of Laon, France. Priest. Monk at the Benedictine abbey at Lobbes, Belgium. Spiritual student of Saint Ursmar. Bishop of Lobbes in 711. Second abbot of Lobbes in 718. Supported missionaries, known for wisdom and personal holiness, and the gift of pr"
 searchAliases:
   - "Erminus"
@@ -25,14 +25,13 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coll%C3%A9giale_Saint-Ursmer_%28Lobbes%29_-_Crypte_04_%28cropped%29.JPG/960px-Coll%C3%A9giale_Saint-Ursmer_%28Lobbes%29_-_Crypte_04_%28cropped%29.JPG"
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
 religiousOrder: "Benedictine"
 patronage:
   - "Lobbes, Belgium"
-martyr: true
+martyr: false
 ---
 
 Studied at the Cathedral School of Laon, France. Priest. Monk at the Benedictine abbey at Lobbes, Belgium. Spiritual student of Saint Ursmar. Bishop of Lobbes in 711. Second abbot of Lobbes in 718. Supported missionaries, known for wisdom and personal holiness, and the gift of prophecy.

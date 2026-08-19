@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giulia Crostarosa"
 honorific: Blessed
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Blessed Giulia Crostarosa"
 summary: "Tenth of twelve children in her family. At age 20, she and her sister entered the Carmelite monastery of Marigliano, Italy. When it was suppressed five years later, she moved to a monastery at Scala, Italy, taking the name Sister Maria Celeste. On 25 April 1725, while still a nov"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Maria_Crostarosa.JPG"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

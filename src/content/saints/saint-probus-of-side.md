@@ -1,7 +1,7 @@
 ---
 name: "Saint Probus of Side"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Probus of Side"
 summary: "Tried and tortured for the crime of Christianity in Tarsus, Mopsuestia and Anazarbus in Cilicia during the persecutions of Galerius and Diocletian; local Christians at each town made records of the examinations and abuse. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Andronicus-Probus-and-Tarachus.jpg"
 deathYear: 304
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 religiousOrder: "Jesuit"

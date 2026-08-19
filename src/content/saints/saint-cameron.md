@@ -1,7 +1,7 @@
 ---
 name: "Saint Cameron"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cameron"
 summary: "Martyr. No other information has survived."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

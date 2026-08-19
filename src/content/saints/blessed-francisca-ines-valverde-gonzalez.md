@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisca Inés Valverde González"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Francisca Inés Valverde González"
 summary: "Nun. Member of the Calasanzian Institute, Daughters of the Divine Shepherdess. Superior of the convent-school in Martos, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisca-Inés-Valverde-González.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

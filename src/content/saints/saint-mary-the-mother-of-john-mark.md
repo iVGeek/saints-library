@@ -1,7 +1,7 @@
 ---
 name: "Saint Mary the Mother of John Mark"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mary the Mother of John Mark"
 summary: "Mother of Saint Mark the Evangelist. Mentioned in Acts 12:12 when a meeting of the Church was held at her home."
 region: "England"
 feastDay:
@@ -9,9 +9,8 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Mother of Saint Mark the Evangelist. Mentioned in Acts 12:12 when a meeting of the Church was held at her home.

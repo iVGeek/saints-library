@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ogasawara Shiro"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Ogasawara Shiro"
 summary: "Lifelong layman in the diocese of Fukuoka, Japan. Son of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya Luisa. Martyr."
 deathYear: 1636
 born: "Kokura, Buzen, Fukuoka, Japan"
@@ -14,8 +14,6 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

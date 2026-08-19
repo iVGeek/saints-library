@@ -1,7 +1,7 @@
 ---
 name: "Venerable Michel le Nobletz"
 honorific: Venerable
-title: "Priest, Religious, Pope, Hermit, Royalty"
+title: "Venerable Michel le Nobletz"
 summary: "One of eleven children born to a family in the minor French nobility, the son of Hervé Le Nobletz and Françoise de Lesvern; his father was a royal notary. Michel studied at small local schools, then at the Jesuit college in Agen, France, and at the Sorbonne, then spent a year liv"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Michel-le-Nobletz.jpg"
 searchAliases:
@@ -23,9 +23,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
   - Hermit
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

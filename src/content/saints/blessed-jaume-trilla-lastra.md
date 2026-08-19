@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jaume Trilla Lastra"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jaume Trilla Lastra"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Feliu Josep"
@@ -16,9 +16,7 @@ feastDay:
   month: 3
   day: 19
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

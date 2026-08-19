@@ -1,7 +1,7 @@
 ---
 name: "Saint Irenaeus of Thessalonica"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Irenaeus of Thessalonica"
 summary: "Martyred in the persecution of Diocletian."
 deathYear: 303
 died: "burned at the stake c.303 at Thessalonica"
@@ -10,7 +10,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

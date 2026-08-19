@@ -1,7 +1,7 @@
 ---
 name: "Blessed Daniel Karmasz"
 honorific: Blessed
-title: "Martyr, Pope, Soldier"
+title: "Blessed Daniel Karmasz"
 summary: "Married layman from Legi, Poland. One of the Marytrs of Podlasie."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
 birthYear: 1826
@@ -16,10 +16,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Soldier
-martyr: true
+martyr: false
 ---
 
 Married layman from Legi, Poland. One of the Marytrs of Podlasie.

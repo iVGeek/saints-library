@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Seville"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Seville"
 summary: "Martyr. Venerated in Seville, Spain. Many legends and tall tales grew up around him to fill in the empty parts of his biography, but none are reliable."
 region: "Spain"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

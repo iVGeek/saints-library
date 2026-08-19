@@ -1,7 +1,7 @@
 ---
 name: "Saint Finian of Kinnitty"
 honorific: Saint
-title: "Monk"
+title: "Saint Finian of Kinnitty"
 summary: "Spiritual student of Saint Brendan the Navigator. Founded a monastery at Kinnitty, County Offaly, Ireland."
 searchAliases:
   - "Finian Cam"

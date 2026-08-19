@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul Chong Hasang"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Pope, Royalty"
+title: "Saint Paul Chong Hasang"
 summary: "Son of Yak Jong Church who was martyred in 1801 in the persecution of Shin-Yu, an attack on the faith that killed all the clergy in the country. Son of Saint Yu Cecilia; brother of Saint Jung Hye. Paul, though a layman, reunited the scattered Christians, and encouraged them to ke"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paul-Chong-Hasang-1.jpg"
 birthYear: 1795
@@ -14,11 +14,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

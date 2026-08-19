@@ -1,7 +1,7 @@
 ---
 name: "Blessed Andrew Dotti"
 honorific: Blessed
-title: "Priest, Pope, Soldier, Confessor"
+title: "Blessed Andrew Dotti"
 summary: "Born to the nobility, the brother of Count Dotto Dotti. A career soldier, he rose to the rank of captain of archers in the army of Philippe the Fair. Though he grew up a courtier and lived as a soldiers, Andrew was always drawn to religious life. In 1278, after hearing a sermon b"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/AndreaDotti.jpg/330px-AndreaDotti.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
   - Soldier
   - Confessor
 martyr: false

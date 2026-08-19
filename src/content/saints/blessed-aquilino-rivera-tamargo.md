@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aquilino Rivera Tamargo"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Aquilino Rivera Tamargo"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

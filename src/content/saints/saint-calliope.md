@@ -1,7 +1,7 @@
 ---
 name: "Saint Calliope"
 honorific: Saint
-title: "Martyr, Virgin"
+title: "Saint Calliope"
 summary: "Third century martyr. No other information has survived."
 searchAliases:
   - "Calliopa"
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Fresco_of_the_muse_Calliope%2C_from_the_Villa_Moregine.jpg/960px-Fresco_of_the_muse_Calliope%2C_from_the_Villa_Moregine.jpg"
 vocation:
-  - Martyr
   - Virgin
 martyr: true
 ---

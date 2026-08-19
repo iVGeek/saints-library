@@ -1,7 +1,7 @@
 ---
 name: "Saint Hidulphus of Hainault"
 honorific: Saint
-title: "Monk"
+title: "Saint Hidulphus of Hainault"
 summary: "Count of Hainault in modern Belgium. Courtier at the royal palace of Austrasia. Married to Saint Agia. Helped found Lobbes Abbey which, with Agia's blessing, he entered as a Benedictine monk."
 searchAliases:
   - "Hidulphus of Lobbes"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luc Sy"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed Luc Sy"
 summary: "Married layman school teacher and catechist in the apostolic vicariate of Vientiane (in modern Laos). Martyr."
 birthYear: 1938
 deathYear: 1970
@@ -15,8 +15,6 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Edmund of East Anglia"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Royalty, Soldier"
+title: "Saint Edmund of East Anglia"
 summary: "King of East Anglia at age 14, crowned on Christmas Day 855 by Bishop Saint Humbert of Elmham. Edmund was a model ruler, concerned with justice for his people and his own spirituality; he spent a year sequestered at Hunstanton learning the Psalter by heart. Following one of a ser"
 image: "http://catholicsaints.info/wp-content/gallery/saint-edmund-of-east-anglia/saint-edmund-of-east-anglia-00.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
 religiousOrder: "Benedictine"

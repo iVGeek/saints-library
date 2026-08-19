@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Escobar García"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Missionary"
+title: "Blessed Gregorio Escobar García"
 summary: "Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
 birthYear: 1912
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 martyr: true
 ---

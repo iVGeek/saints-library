@@ -1,7 +1,7 @@
 ---
 name: "Saint Mewrog"
 honorific: Saint
-title: "Monk"
+title: "Saint Mewrog"
 summary: "A saint from Denbighshire, Wales. No other information has survived."
 region: "England"
 feastDay:

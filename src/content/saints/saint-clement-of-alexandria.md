@@ -1,7 +1,7 @@
 ---
 name: "Saint Clement of Alexandria"
 honorific: Saint
-title: "Bishop, Priest, Pope, Royalty, Confessor"
+title: "Saint Clement of Alexandria"
 summary: "Teacher at the Catechetical School in Alexandria, Egypt. He trained the famous theologian and teacher Origen. Writer and confessor of the faith. During the persecutions of 202, Clement fled to Caesarea, Cappadocia where he governed the diocese during the imprisonment of his stude"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clement_alexandrin.jpg/960px-Clement_alexandrin.jpg"
 searchAliases:
@@ -18,8 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Confessor
 martyr: false
 ---

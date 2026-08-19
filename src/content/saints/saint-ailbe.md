@@ -1,7 +1,7 @@
 ---
 name: "Saint Ailbe of Emly"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty, Confessor"
+title: "Saint Ailbe of Emly"
 summary: "Disciple of Saint Patrick. Effective evangelist throughout Ireland with the support of King Aengus of Munster. Noted for his charity and his excellent preaching. Little else is known for sure, but many stories and much speculation have attached to Ailbhe. He may have been the fir"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ailbe-of-Emly.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
   - Confessor
 patronage:
   - "wolves"

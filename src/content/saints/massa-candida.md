@@ -1,7 +1,7 @@
 ---
 name: "Massa Candida"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Massa Candida"
 summary: "Three hundred 3rd century Christians at Carthage who were ordered to burn incense to Jupiter or face death by fire. Martyrs. Saint Augustine of Hippo and the poet Prudentius wrote about them."
 searchAliases:
   - "Martyrs of Utica"
@@ -15,7 +15,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

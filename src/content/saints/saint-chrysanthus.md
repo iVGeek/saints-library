@@ -1,7 +1,7 @@
 ---
 name: "Saint Chrysanthus"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Chrysanthus"
 summary: " Not surprisingly, many legends developed around a couple of married martyrs, and others were re-written to use them as their lead characters. Modern scholarship h Married to Saint Daria. Zealous and public in his Christianity. Martyred in the persecutions of Numerian and Carinus."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chrysanthus.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

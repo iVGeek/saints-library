@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margarita Josefa Noguera Manubens"
 honorific: Blessed
-title: "Martyr, Religious, Pope, Cardinal"
+title: "Blessed Margarita Josefa Noguera Manubens"
 summary: "Baptized at the age of one day. As she grew, Margarita felt a call to religious life, and in 1896 became a novice in the Capuchin Sisters of the Mother of the Divine Shepherd; she made her solemn profession in 1903. She served as a teacher, known to her students as a excellent, p"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Margarita-Josefa-Noguera-Manubens.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

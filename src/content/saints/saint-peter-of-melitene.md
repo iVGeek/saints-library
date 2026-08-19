@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Melitene"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Peter of Melitene"
 summary: "Deacon. Martyr."
 died: "Melitene, Armenia"
 deathPlace: "Armenia"
@@ -11,7 +11,6 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

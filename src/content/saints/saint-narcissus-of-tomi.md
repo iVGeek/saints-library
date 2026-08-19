@@ -1,7 +1,7 @@
 ---
 name: "Saint Narcissus of Tomi"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Narcissus of Tomi"
 summary: "Brother of Saint Argeus and Saint Marcellinus. Soldier in the army of Emperor Licinius. Martyred with his brothers."
 deathYear: 320
 died: "beheaded in 320 at Tomi, Exinius Pontus, Moesia (modern Constanta, Romania)"
@@ -12,7 +12,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

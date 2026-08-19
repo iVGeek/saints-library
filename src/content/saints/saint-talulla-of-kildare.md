@@ -1,7 +1,7 @@
 ---
 name: "Saint Talulla of Kildare"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Talulla of Kildare"
 summary: "Nun. Abbess of Cell Dara monastery (in modern Kildare, Ireland)."
 searchAliases:
   - "Tulilatha"
@@ -13,9 +13,8 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
-martyr: true
+martyr: false
 ---
 
 Nun. Abbess of Cell Dara monastery (in modern Kildare, Ireland).

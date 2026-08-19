@@ -1,7 +1,7 @@
 ---
 name: "Niño de Atocha"
 honorific: Saint
-title: "Saint"
+title: "Niño de Atocha"
 summary: "During the 13th century Moorish invasions of Spain, the town of Atocha was lost in a battle during which many Christians were taken prisoner. The Moors would not allow adults to bring food or water to the prisoners, and the villagers prayed for the protection of their lost sons."
 image: "http://catholicsaints.info/wp-content/uploads/img-Nino-de-Atocha.jpg"
 searchAliases:
@@ -11,8 +11,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "children"
   - "pilgrims"

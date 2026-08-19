@@ -1,7 +1,7 @@
 ---
 name: "Saint Donatian of Cirta"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Donatian of Cirta"
 summary: "Martyr. No other information has survived."
 died: "Cirta, Numidia (in modern Algeria)"
 deathPlace: "Numidia (modern Algeria)"
@@ -10,7 +10,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

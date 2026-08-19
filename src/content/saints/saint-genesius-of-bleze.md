@@ -1,7 +1,7 @@
 ---
 name: "Saint Genesius of Bèze"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Genesius of Bèze"
 summary: "Benedictine monk. Martyred defending the altar at the monastery Bèze, C&ocirc;te-d'Or, France against Norman invaders."
 deathYear: 888
 died: "888 at Bèze, C&ocirc;te-d'Or, France"
@@ -12,7 +12,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 religiousOrder: "Benedictine"
 martyr: true

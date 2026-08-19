@@ -1,7 +1,7 @@
 ---
 name: "Saint Ferdinand III of Castille"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Ferdinand III of Castille"
 summary: "Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX. King of Castile in 1217 at age 18. King of Leon in 1230. King of Palencia, Valladolid, and Burgos. Married to Princess Beatrice, daughter of Philip of Swabia, King"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-III-of-Castille.jpg"
 birthYear: 1198
@@ -16,7 +16,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jorge Vargas González"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Jorge Vargas González"
 summary: "The son of a physician, Jorge's family moved to Guadalajara, Mexico when the boy was fifteen years old. As a young man he worked for the local hydroelectric company. Martyred in the Mexican Revolution."
 birthYear: 1899
 deathYear: 1927
@@ -14,9 +14,7 @@ feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

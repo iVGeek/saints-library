@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Antherus"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope"
+title: "Pope Saint Antherus"
 summary: "Son of Romulus. His family seems to have originally been from Greece. Priest in Rome, Italy, and served as 19th Pope for about six weeks. He started the Vatican library to preserve documents concerning the early martyrs, and founded a cemetery on the Appian Way for the poor. Mart"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Antero.jpg"
 searchAliases:
@@ -19,10 +19,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 patronage:
   - "Casalbuono, Italy"
   - "Giaveno, Italy"

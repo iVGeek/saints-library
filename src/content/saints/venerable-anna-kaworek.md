@@ -1,7 +1,7 @@
 ---
 name: "Venerable Anna Kaworek"
 honorific: Venerable
-title: "Religious, Pope, Royalty"
+title: "Venerable Anna Kaworek"
 summary: "Third of eight children born to Franciszek Kaworek and Franciszka of Langer. After graduating school, Anna worked on the family farm, but was drawn to religious life, and joined the Salesians on 25 February 1894. In 1897 she founded a school for orphaned girls, but when the Sales"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Anna-Kaworek.jpg"
 birthYear: 1872
@@ -17,8 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: false
 ---

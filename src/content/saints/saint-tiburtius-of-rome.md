@@ -1,7 +1,7 @@
 ---
 name: "Saint Tiburtius of Rome"
 honorific: Saint
-title: "Martyr, Priest, Monk, Pope, Confessor"
+title: "Saint Tiburtius of Rome"
 summary: "Son of Saint Chromatius the Prefect. Martyr. Pope Saint Damasus wrote about him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tiburcio.jpg"
 searchAliases:
@@ -16,10 +16,8 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
   - Confessor
 martyr: true
 ---

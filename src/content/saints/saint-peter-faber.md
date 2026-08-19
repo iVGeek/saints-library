@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Faber"
 honorific: Saint
-title: "Priest, Monk, Pope"
+title: "Saint Peter Faber"
 summary: "Born to a farm family, he was a shepherd in his youth. Taught catechism to other children. Entered Saint-Barbe College, Paris, France in 1525. Friend of Saint Francis Xavier and Saint Ignatius Loyola. Ordained in 1534. Joined Ignatius' early band of Jesuits on 15 August 1534. Ass"
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pierre_Favre%281%29.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

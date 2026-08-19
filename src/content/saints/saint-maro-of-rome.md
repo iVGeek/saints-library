@@ -1,7 +1,7 @@
 ---
 name: "Saint Maro of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Maro of Rome"
 summary: "Friend of Saint Flavia Domitilla, whom they accompanied in exile to the island of Ponza. Martyred in the persecutions of Trajan."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maro-of-Rome.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Civitanova Marche, Italy"

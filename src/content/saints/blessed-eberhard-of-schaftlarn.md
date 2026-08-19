@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eberhard of Schäftlarn"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Eberhard of Schäftlarn"
 summary: "Premonstratensian canon. Prior of the Premonstratensian monastery in Schäftlarn, Bavaria (in modern Germany) in 1153. He was known as a humble and modest man who took generous care of his fellow canons and the faithful pilgrims who passed through the city."
 birthYear: 1100
 deathYear: 1160
@@ -13,8 +13,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

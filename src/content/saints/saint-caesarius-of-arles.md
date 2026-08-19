@@ -1,7 +1,7 @@
 ---
 name: "Saint Caesarius of Arles"
 honorific: Saint
-title: "Confessor"
+title: "Saint Caesarius of Arles"
 summary: "Brother of Saint Caesaria of Arles. Entered the monastery at L&eacute;rins at age 18, and worked as his house's cellarer. His devotion to duty earned him the enmity of some of his brother monks who were too interested in the house wines. Illness forced him to leave the monastery,"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Arles%2CSt_C%C3%A9saire27%2Cchoeur7%2CSt_C%C3%A9saire_%28cropped%29.jpg/960px-Arles%2CSt_C%C3%A9saire27%2Cchoeur7%2CSt_C%C3%A9saire_%28cropped%29.jpg"
 searchAliases:

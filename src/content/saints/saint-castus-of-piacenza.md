@@ -1,7 +1,7 @@
 ---
 name: "Saint Castus of Piacenza"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Castus of Piacenza"
 summary: "Martyr."
 searchAliases:
   - "Casto"
@@ -13,7 +13,6 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

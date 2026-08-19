@@ -1,7 +1,7 @@
 ---
 name: "Saint Irene of Egypt"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Irene of Egypt"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Irene.jpg"
 deathYear: 200
@@ -12,7 +12,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

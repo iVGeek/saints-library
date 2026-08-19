@@ -1,7 +1,7 @@
 ---
 name: "Saint Magnus of Füssen"
 honorific: Saint
-title: "Bishop, Priest, Monk, Missionary"
+title: "Saint Magnus of Füssen"
 summary: "Priest. Benedictine. Spiritual student of Saint Columban and Saint Gall at Arbon (part of modern Switzerland). Superior of his house following the death of Saint Gall. At the request of the bishop of Augsberg, Bavaria, he evangelized in Eptaticus in the eastern part of Allg&auml;"
 image: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Saint_Magnus_of_F%C3%BCssen.jpg/960px-Saint_Magnus_of_F%C3%BCssen.jpg"
 searchAliases:

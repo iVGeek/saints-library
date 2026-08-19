@@ -1,7 +1,7 @@
 ---
 name: "Venerable Angelo Ramazzotti"
 honorific: Venerable
-title: "Bishop, Priest, Pope, Cardinal"
+title: "Venerable Angelo Ramazzotti"
 summary: "Received a doctorate in civil law. Priest, ordained on 13 June 1829. Member of the Order of the Oblate Missionaries of Rho in Milan, Italy. Bishop of Pavia, Italy on 11 November 1849. Patriarch of Venice, Italy on 15 March 1858. Founded the Pontifical Institute for Foreign Missio"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Angelo_Ramazzotti.jpg"
 birthYear: 1800
@@ -18,7 +18,6 @@ canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: false
 ---

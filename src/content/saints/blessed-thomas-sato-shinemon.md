@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Sato Shin'emon"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Thomas Sato Shin'emon"
 summary: "Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr."
 searchAliases:
   - "Ou Jinyemon"
@@ -15,9 +15,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

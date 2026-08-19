@@ -1,15 +1,14 @@
 ---
 name: "Saint Melosa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Melosa"
 summary: "Martyr. No other information has survived."
 died: "Thessalonica"
 feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

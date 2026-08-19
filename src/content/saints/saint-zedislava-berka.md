@@ -1,7 +1,7 @@
 ---
 name: "Saint Zedislava Berka"
 honorific: Saint
-title: "Pope, Royalty"
+title: "Saint Zedislava Berka"
 summary: "Born to the Bohemian nobility. Married laywoman, and mother of four. Hers was not a happy marriage, and her largesse to the poor put her in frequent conflict with her husband. Dominican tertiary. Founded the Dominican priory of Saint Lawrence near her castle where she received Co"
 image: "http://catholicsaints.info/wp-content/uploads/Zedislava-Berka.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Pope
-  - Royalty
+vocation: []
 religiousOrder: "Dominican"
 patronage:
   - "difficult marriages"

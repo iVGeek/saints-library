@@ -1,7 +1,7 @@
 ---
 name: "Saint Erth of Cornwall"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Erth of Cornwall"
 summary: "Brother of Saint Uny and Saint Ia. Evangelist in Cornwall where the village of Saint Erth is named for him."
 searchAliases:
   - "Erth of Slane"
@@ -19,9 +19,8 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Brother of Saint Uny and Saint Ia. Evangelist in Cornwall where the village of Saint Erth is named for him.

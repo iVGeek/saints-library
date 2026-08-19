@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul the Hermit"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Hermit"
+title: "Saint Paul the Hermit"
 summary: "Paul grew up in an upper-class, Christian family. He was well educated, fluent in Greek and Egyptian. His parents died when the boy was 15. When the persecutions of Decius began a few years later, Paul fled into the desert to escape both them, and the machinations of his brother"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paul-the-First-Hermit.jpg"
 searchAliases:
@@ -23,7 +23,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Religious
@@ -36,7 +35,7 @@ patronage:
   - "weavers"
   - "–"
   - "Order of Saint Paul the First Hermit"
-martyr: true
+martyr: false
 ---
 
 Paul grew up in an upper-class, Christian family. He was well educated, fluent in Greek and Egyptian. His parents died when the boy was 15. When the persecutions of Decius began a few years later, Paul fled into the desert to escape both them, and the machinations of his brother Peter and other family members who wanted his property. He lived as a desert hermit in a cave the remainder of his 113 year life, surviving off fruit and water, wearing leaves or nothing, spending his time in prayer; legend says a raven kept him supplied with bread. Late in life he came to know, and was buried by Saint Anthony the Abbot. His biography was written by Saint Jerome.

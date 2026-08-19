@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicasius Janssen van Heeze"
 honorific: Saint
-title: "Martyr, Priest, Pope"
+title: "Saint Nicasius Janssen van Heeze"
 summary: "Franciscan priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
 image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
 birthYear: 1522
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

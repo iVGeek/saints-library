@@ -1,7 +1,7 @@
 ---
 name: "Saint Christa of Sicily"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Christa of Sicily"
 summary: "Martyr. No other information has survived."
 died: "Sicily, Italy, date unknown"
 deathPlace: "Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

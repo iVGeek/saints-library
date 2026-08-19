@@ -1,7 +1,7 @@
 ---
 name: "Saint Wilfrid the Younger"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Wilfrid the Younger"
 summary: "Monk at Beverley Abbey. Spiritual student of Saint John of Beverley. Abbot of Beverley. Late in life he retired to live as a monk at Ripon Abbey."
 searchAliases:
   - "Wilfrith"

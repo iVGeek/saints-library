@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Moesia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gaius of Moesia"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Caius"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

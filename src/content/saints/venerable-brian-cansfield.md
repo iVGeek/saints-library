@@ -2,7 +2,7 @@
 name: "Venerable Brian Cansfield"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Records_of_the_English_Province_of_the_Society_of_Jesus_-_historic_facts_illustrative_of_the_labours_and_sufferings_of_its_members_in_the_sixteenth_and_seventeenth_centuries_%28IA_recordsofenglish00fole%29.pdf/page1-500px-thumbnail.pdf.jpg"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Venerable Brian Cansfield"
 summary: " In 1618 he received permissio Raised Protestant, Brian joined the Catholic Church at age 16. He studied at the English College at Saint-Omer in Flanders, Belgium then at the Venerable English College in Rome, Italy. Returning to Flanders, Brian joined the Jesuits in 1604. Priest."
 searchAliases:
   - "Christopher Benson"
@@ -16,10 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

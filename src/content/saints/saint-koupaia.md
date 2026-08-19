@@ -1,7 +1,7 @@
 ---
 name: "Saint Koupaïa"
 honorific: Saint
-title: "Hermit, Royalty"
+title: "Saint Koupaïa"
 summary: "Born a princess, the daughter of King Eusebius and Saint Landouenne, and learned her faith at her mother's knee. She immigrated from the British Isles to Brittany in France c.500 to marry King Hoel I, and become queen of Armorique in Brittany. The couple and their court were forc"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Koupaia.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Hermit
-  - Royalty
 martyr: false
 ---
 

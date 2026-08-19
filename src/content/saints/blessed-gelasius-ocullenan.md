@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gelasius O'Cullenan"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Gelasius O'Cullenan"
 summary: "Cistercian priest. One of the Irish Martyrs."
 deathYear: 1580
 born: "Irish"
@@ -13,10 +13,8 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius the Persian"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Royalty, Soldier"
+title: "Saint Anastasius the Persian"
 summary: "Pagan magician. Soldier in the army of Persian king Khusrow II during the campaign that brought the Holy Cross from Jerusalem to Persia. Magundat was so impressed by the obvious power of the relic, and the devotion and sanctity of the Christians who flocked to it, that he convert"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-the-Persian.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 religiousOrder: "Carmelite"
 patronage:

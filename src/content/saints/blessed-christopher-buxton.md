@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christopher Buxton"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Christopher Buxton"
 summary: "School and spiritual student of Blessed Nicholas Garlick in Tideswell, England. He began studying for the priesthood in Reims, France in 1582, and then at the English College in Rome, Italy in 1584. He was ordained a priest on 26 October 1586. In September 1587 he returned to Eng"
 image: "http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg"
 birthYear: 1562
@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

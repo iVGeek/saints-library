@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Antioch"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Isidore of Antioch"
 summary: "Bishop of Zaragoza, Spain. Martyred, possibly by Arians."
 searchAliases:
   - "Isidonus"
@@ -14,7 +14,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

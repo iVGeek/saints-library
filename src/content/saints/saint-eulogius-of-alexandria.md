@@ -1,7 +1,7 @@
 ---
 name: "Saint Eulogius of Alexandria"
 honorific: Saint
-title: "Monk, Confessor"
+title: "Saint Eulogius of Alexandria"
 summary: "Monk as a young man. Well educated in the literature and science of his day, was a Biblical scholar, and studied the writings of the great pastors. Opposed the Eutychian and Monophysite heresies. Patriarch of Alexandria, Egypt in 579, serving for 28 years. His correspondence with"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eulogius_of_Alexandria_%28Menologion_of_Basil_II%29.jpg/960px-Eulogius_of_Alexandria_%28Menologion_of_Basil_II%29.jpg"
 searchAliases:

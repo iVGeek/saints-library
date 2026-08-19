@@ -1,7 +1,7 @@
 ---
 name: "Saint Celeste of Metz"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Celeste of Metz"
 summary: "Priest. Evangelist in the area of Metz, France. Second bishop of Metz."
 searchAliases:
   - "Celestio"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia Toemon"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Lucia Toemon"
 summary: "Lay woman in the diocese of Kyoto, Japan. Married to Blessed Thomas Toemon. One of the Martyrs of Kyoto."
 deathYear: 1619
 born: "Owari (in modern Aichi), Japan"
@@ -13,9 +13,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

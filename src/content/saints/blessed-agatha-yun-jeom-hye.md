@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agatha Yun Jeom-Hye"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Agatha Yun Jeom-Hye"
 summary: "Lay woman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg"
 deathYear: 1801
@@ -14,9 +14,7 @@ feastDay:
   month: 7
   day: 4
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

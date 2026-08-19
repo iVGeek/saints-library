@@ -1,7 +1,7 @@
 ---
 name: "Saint Maximus of Cravagliana"
 honorific: Saint
-title: "Martyr"
+title: "Saint Maximus of Cravagliana"
 summary: "Martyr."
 searchAliases:
   - "Massimo"
@@ -11,8 +11,7 @@ feastDay:
   month: 6
   day: 13
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

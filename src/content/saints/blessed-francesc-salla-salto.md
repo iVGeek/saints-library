@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francesc Salla Saltó"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Francesc Salla Saltó"
 summary: "Monk. Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Pere Magí"
@@ -17,9 +17,7 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

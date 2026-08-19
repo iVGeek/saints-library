@@ -1,7 +1,7 @@
 ---
 name: "Blessed Eufrasio de Celis Santos"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Eufrasio de Celis Santos"
 summary: "Passionist cleric martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-de-Celis-Santos.png"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 23
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

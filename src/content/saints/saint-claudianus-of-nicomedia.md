@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudianus of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Claudianus of Nicomedia"
 summary: "Third-century layman, married to Saint Bassa of Nicomedia. Martyr."
 searchAliases:
   - "Claudian"
@@ -11,7 +11,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

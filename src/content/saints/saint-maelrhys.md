@@ -1,7 +1,7 @@
 ---
 name: "Saint Maelrhys"
 honorific: Saint
-title: "Monk"
+title: "Saint Maelrhys"
 summary: "Lived on the isle of Bardsey. Venerated in northern Wales where an ancient stone church is dedicated to him."
 born: "6th century Brittany (part of modern France)"
 region: "France"

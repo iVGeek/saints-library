@@ -1,7 +1,7 @@
 ---
 name: "Saint Sebastianus Nam I-Gwan"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Sebastianus Nam I-Gwan"
 summary: "Layman catechist in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

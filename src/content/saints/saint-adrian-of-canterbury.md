@@ -1,7 +1,7 @@
 ---
 name: "Saint Adrian of Canterbury"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Adrian of Canterbury"
 summary: " Twice offered In the mid-640's, his family fled to Naples, Italy ahead of Arab invasion. Benedictine monk when quite young. Abbot of Hiridanum, Isle of Nisida, Bay of Naples. Aquainted with Emperor Constans II, who later introduced him to Pope Saint Vitalian. Advisor to Vitalian."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-Abbot.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Bishop
   - Priest
   - Confessor

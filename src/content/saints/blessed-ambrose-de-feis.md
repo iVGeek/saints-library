@@ -2,7 +2,7 @@
 name: "Blessed Ambrose de Feis"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Par%C3%A9_-_Works%2C_1649.djvu/page1-960px-Par%C3%A9_-_Works%2C_1649.djvu.jpg"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Ambrose de Feis"
 summary: "Born to a wealthy family in the Italian nobility. Cistercian monk, joining at the Charterhouse of Chiusa Pesio, Italy; he was known for his devotion to the strict monastic life. Prosecutor of the Cistercians."
 searchAliases:
   - "Ambrogio"

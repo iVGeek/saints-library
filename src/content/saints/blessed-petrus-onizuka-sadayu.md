@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Onizuka Sadayu"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Onizuka Sadayu"
 summary: "Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him."
 searchAliases:
   - "Peter Onizuko"
@@ -15,9 +15,7 @@ feastDay:
   month: 11
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

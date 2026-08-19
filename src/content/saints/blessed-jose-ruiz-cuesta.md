@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Ruiz Cuesta"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Ruiz Cuesta"
 summary: "Postulant in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

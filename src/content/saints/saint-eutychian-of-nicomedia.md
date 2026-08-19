@@ -1,7 +1,7 @@
 ---
 name: "Saint Eutychian of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Eutychian of Nicomedia"
 summary: "Martyr."
 searchAliases:
   - "Eutichiano"
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

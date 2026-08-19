@@ -1,7 +1,7 @@
 ---
 name: "Saint Giocondiano"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Giocondiano"
 summary: "Martyr."
 died: "Africa, date and exact location unknown"
 deathPlace: "date and exact location unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

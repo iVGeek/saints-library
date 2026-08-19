@@ -1,7 +1,7 @@
 ---
 name: "Blessed Engelmar Unzeitig"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Blessed Engelmar Unzeitig"
 summary: "Professed priest in the Congregation of Missionaries of Mariannhill, ordained in 1939 and taking the name Engelmar. Parish priest in Glöckelberg, Czech Republic. Arrested by the Gestapo on 21 April 1941 for the crime of being a priest and preaching against the teachings of the Na"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Engelmar_Hubert_Unzeitig_%281911-1945%29.jpg"
 searchAliases:
@@ -18,11 +18,9 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 Professed priest in the Congregation of Missionaries of Mariannhill, ordained in 1939 and taking the name Engelmar. Parish priest in Glöckelberg, Czech Republic. Arrested by the Gestapo on 21 April 1941 for the crime of being a priest and preaching against the teachings of the Nazis, he was sent to the Dachau concentration camp where he ministered to other prisoners. He learned Russian so he could minister to prisoners from Eastern Europe. He volunteered to tend to prisoners suffering from typhoid and died of the disease himself.

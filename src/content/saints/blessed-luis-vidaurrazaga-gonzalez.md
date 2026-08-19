@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis Vidaurrázaga González"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Monk, Pope, Cardinal"
+title: "Blessed Luis Vidaurrázaga González"
 summary: "Benedictine monk, Solesmes Congregation. Priest. Noted spiritual director. Devoted to Gregorian chants. He went into hiding during the Spanish Civil War, but was betrayed, arrested by anti-Catholic forces and executed. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Vidaurrázaga-González.jpg"
 birthYear: 1901
@@ -16,8 +16,6 @@ feastDay:
   day: 31
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Benedictine"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Thomas Hashimoto"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Thomas Hashimoto"
 summary: "Son of Blessed Ioannes Hashimoto Tahyoe and Blessed Thecla Hashimoto. One of the Martyrs of Kyoto."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg"
 birthYear: 1607
@@ -15,9 +15,7 @@ feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joan Ayats Plantalech"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Joan Ayats Plantalech"
 summary: "Baptized on the day of his birth. Franciscan Capuchin friar, making his solemn profession on 26 June 1904. Murdered by Marxists in the Spanish Civil War."
 searchAliases:
   - "Brother Eloi of Bianya"
@@ -17,12 +17,9 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Baptized on the day of his birth. Franciscan Capuchin friar, making his solemn profession on 26 June 1904. Murdered by Marxists in the Spanish Civil War.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Sofronius of Cyprus"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Sofronius of Cyprus"
 summary: "May have been a 6th century bishop on Cyprus, but the records of the period are all lost and all we know for certain is that his name has remained on the calendar."
 searchAliases:
   - "Sofronio"

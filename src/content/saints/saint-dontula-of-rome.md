@@ -1,7 +1,7 @@
 ---
 name: "Saint Dontula of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Dontula of Rome"
 summary: "One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived."
 searchAliases:
   - "Donatula"
@@ -10,8 +10,7 @@ feastDay:
   month: 6
   day: 2
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

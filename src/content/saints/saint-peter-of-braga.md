@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Braga"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Peter of Braga"
 summary: "First bishop of Braga, Portugal. Martyr"
 region: "Portugal"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

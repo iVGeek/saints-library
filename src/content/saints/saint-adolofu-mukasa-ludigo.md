@@ -1,7 +1,7 @@
 ---
 name: "Saint Adolofu Mukasa Ludigo"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Adolofu Mukasa Ludigo"
 summary: "Herdsman. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adolofu-Mukasa-Ludigo.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   month: 6
   day: 3
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph Oriol Isern Massó"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Joseph Oriol Isern Massó"
 summary: "Joseph joined the Missionaries of the Sacred Heart at age 20. Ordained a priest in 1933  and assigned to Canet de Mar, Spain. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Oriol-Isern-Masso.jpg"
 birthYear: 1909
@@ -16,9 +16,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

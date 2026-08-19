@@ -1,7 +1,7 @@
 ---
 name: "Saint Clement of Metz"
 honorific: Saint
-title: "Bishop, Royalty, Missionary"
+title: "Saint Clement of Metz"
 summary: " Legend says that when Clement arrived in Metz, the area was besieged by the Graoully, a large, poison-breathed serpent that lived in a local Roman amphitheatre with an army of sna Bishop of Metz, France; tradition says he was sent there as a missionary by Saint Peter the Apostle."
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/GraoullyAugusteMigette.jpg"
 region: "France"
@@ -11,7 +11,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Bishop
-  - Royalty
   - Missionary
 martyr: false
 ---

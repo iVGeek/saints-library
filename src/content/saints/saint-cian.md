@@ -1,7 +1,7 @@
 ---
 name: "Saint Cian of Wales"
 honorific: Saint
-title: "Priest, Monk, Hermit, Soldier"
+title: "Saint Cian of Wales"
 summary: "Sixth century soldier. Hermit in Wales. Servant to Saint Peris."
 born: "Welsh"
 feastDay:

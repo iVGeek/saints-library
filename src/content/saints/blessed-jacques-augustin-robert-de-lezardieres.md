@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques-Augustin Robert de Lézardières"
 honorific: Blessed
-title: "Martyr, Monk, Deacon, Pope"
+title: "Blessed Jacques-Augustin Robert de Lézardières"
 summary: "Deacon of the diocese of Luçon, France. One of the Martyrs of September."
 birthYear: 1768
 deathYear: 1792
@@ -15,10 +15,8 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
   - Deacon
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

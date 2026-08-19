@@ -1,7 +1,7 @@
 ---
 name: "Saint Sigebert III of Austrasia"
 honorific: Saint
-title: "Priest, Royalty, Confessor"
+title: "Saint Sigebert III of Austrasia"
 summary: "Born a prince the eldest son of King Dagobert I. Brother of King Clovis II. Baptized by Saint Amand of Maastricht at Orléans, France. Educated by Blessed Pepin of Landen. His father died in 638 which made the boy king of Austrasia. In 640 he tried to add Thuringia to his kingdom,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sigebert-III-of-Austrasia.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
   - Confessor
 patronage:
   - "Nancy, France"

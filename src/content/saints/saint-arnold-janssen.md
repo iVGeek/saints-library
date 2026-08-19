@@ -1,7 +1,7 @@
 ---
 name: "Saint Arnold Janssen"
 honorific: Venerable
-title: "Martyr, Priest, Religious, Pope, Missionary"
+title: "Saint Arnold Janssen"
 summary: "Arnold felt an early call to the priesthood, and was ordained in August 1861. Well educated, he taught science and catechism for twelve years. Chaplain and director of the Ursuline convent at Kempen in 1873. Director of the diocesan Apostleship of Prayer in 1874. Editor of a jour"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Arnold_Janssen.jpg"
 birthYear: 1837
@@ -16,12 +16,10 @@ feastDay:
   day: 15
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Arnold felt an early call to the priesthood, and was ordained in August 1861. Well educated, he taught science and catechism for twelve years. Chaplain and director of the Ursuline convent at Kempen in 1873. Director of the diocesan Apostleship of Prayer in 1874. Editor of a journal about missionary work in 1873.

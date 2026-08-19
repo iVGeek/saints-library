@@ -1,7 +1,7 @@
 ---
 name: "Saint Sanctian of Sens"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Sanctian of Sens"
 summary: "Brother of Saint Augustine of Sens and Saint Benedicta of Sens. During the persecution of Christians in Spain by Aurelian, he fled to Sens, Gaul (in modern France), which was no friendlier. Martyr."
 deathYear: 273
 born: "Spain"
@@ -13,7 +13,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

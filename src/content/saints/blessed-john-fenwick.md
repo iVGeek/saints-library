@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Fenwick"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed John Fenwick"
 summary: "Born to a Protestant family who disowned him when he converted to Catholicism. Educated at Jesuit College in Saint-Omer, France, and then at Liege, Belgium. Entered the Jesuit in 1656, making his profession in 1676. Priest. Worked at the college of Saint-Omer. Returned to England"
 image: "http://catholicsaints.info/wp-content/uploads/John-Fenwick.jpg"
 searchAliases:
@@ -18,11 +18,8 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

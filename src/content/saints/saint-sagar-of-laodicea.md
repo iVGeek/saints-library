@@ -2,7 +2,7 @@
 name: "Saint Sagar of Laodicea"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aanand_sagar_Shegaon.jpg/960px-Aanand_sagar_Shegaon.jpg"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sagar of Laodicea"
 summary: "Legend says that he was a spiritual student of Saint Paul the Apostle, but the dates are wrong for that. Bishop of Laodicea, Phrygia (in modern Turkey). Martyred in the persecutions of Marcus Aurelius."
 searchAliases:
   - "Sagara"
@@ -16,7 +16,6 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Aureus of Mainz"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Religious"
+title: "Saint Aureus of Mainz"
 summary: "Brother of Saint Justina of Mainz. Bishop of Mainz, Germany. When the Huns attacked Mainz, Aureus fled briefly into exile, but returned. While celebrating Mass in the cathedral, he, his sister and everyone else there were massacred during the Liturgy of the Eucharist. Martyr."
 searchAliases:
   - "Aureo"
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Aureus_von_Mainz.png"
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Religious

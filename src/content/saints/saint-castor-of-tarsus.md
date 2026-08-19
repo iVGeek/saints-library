@@ -1,7 +1,7 @@
 ---
 name: "Saint Castor of Tarsus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Castor of Tarsus"
 summary: "Martyred in one of the early persecutions in Asia Minor."
 died: "at Tarsus, Cilicia, Asia Minor"
 deathPlace: "Cilicia, Asia Minor"
@@ -11,7 +11,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

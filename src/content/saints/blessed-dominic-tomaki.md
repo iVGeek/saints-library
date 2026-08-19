@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dominic Tomaki"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Dominic Tomaki"
 summary: "Son of Blessed John Tomaki. Martyred with his family."
 searchAliases:
   - "Dominic Tomachi"
@@ -18,9 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

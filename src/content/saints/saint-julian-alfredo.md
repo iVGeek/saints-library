@@ -1,7 +1,7 @@
 ---
 name: "Saint Julián Alfredo"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Julián Alfredo"
 summary: "Member of the Brothers of the Christian Schools, entering the novitate on 4 February 1926. One of the Martyrs of Tur&oacute;n killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julián-Alfredo.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 10
   day: 9
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

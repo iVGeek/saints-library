@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gaspar Koteda"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Gaspar Koteda"
 summary: "Young layman catechist in the archdiocese of Nagasaki, Japan. Dominican tertiary. Martyr."
 birthYear: 1601
 deathYear: 1622
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 11
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Dominican"
 martyr: true
 ---

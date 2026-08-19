@@ -1,7 +1,7 @@
 ---
 name: "Saint Auctus of Amphipolis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Auctus of Amphipolis"
 summary: "Martyr. No other information has survived."
 died: "Amphipolis, Macedonia"
 deathPlace: "Macedonia"
@@ -11,7 +11,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

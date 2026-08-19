@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Burden"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Edward Burden"
 summary: "Seminarian in Rheims, France. Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1540
 deathYear: 1588
@@ -15,11 +15,8 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

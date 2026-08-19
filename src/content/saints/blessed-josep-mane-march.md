@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Mañé March"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Josep Mañé March"
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Mañé-March.jpg"
 birthYear: 1876
@@ -16,9 +16,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Agobard of Lyon"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Agobard of Lyon"
 summary: "Refugee to France in his youth, escaping the Moorish invasions of Spain. Priest at Lyon, France. Archbishop of Lyons in 813. Deeply involved in the politics of his day, he was exiled from 835 to 838. Wrote works on theology and the liturgy."
 birthYear: 769
 deathYear: 840

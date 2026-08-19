@@ -1,7 +1,7 @@
 ---
 name: "Blessed Conrad of Toul"
 honorific: Blessed
-title: "Virgin, Bishop, Pope"
+title: "Blessed Conrad of Toul"
 summary: "Conrad joined the Franciscan Friars Minor in 1245. He became a friend and spiritual student of fellow Franciscan and future Pope Nicholas III for whom he took several missions. Chosen bishop of Toul, Lorraine (in modern France) on 4 October 1279 where he served for 16 years. His"
 searchAliases:
   - "Conrad II of Tübingen"
@@ -20,7 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Bishop
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

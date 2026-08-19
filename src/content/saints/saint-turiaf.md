@@ -1,7 +1,7 @@
 ---
 name: "Saint Turiaf of Dol"
 honorific: Saint
-title: "Bishop, Priest, Monk"
+title: "Saint Turiaf of Dol"
 summary: "Born to the 8th century French nobility. Monk. Abbot. Priest, ordained by Saint Sampson. Bishop of Dol, Brittany, France."
 searchAliases:
   - "Thivisiau"

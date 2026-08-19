@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marina of Spoleto"
 honorific: Blessed
-title: "Virgin, Royalty"
+title: "Blessed Marina of Spoleto"
 summary: "Member of the Canonesses Regular of Saint Augustine, taking the name Marina in honour of Mary, Star of the Sea. Founded the monastery of San Matteo in 1265, a house devoted to strict observation of the Augustinian rule. Led a life dedicated to prayer."
 searchAliases:
   - "Marina Vallarina"
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Royalty
 religiousOrder: "Augustinian"
 martyr: false
 ---

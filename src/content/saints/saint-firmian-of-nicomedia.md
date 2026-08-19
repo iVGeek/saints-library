@@ -1,7 +1,7 @@
 ---
 name: "Saint Firmian of Nicomedia"
 honorific: Saint
-title: "Martyr"
+title: "Saint Firmian of Nicomedia"
 summary: "Martyr."
 died: "Nicomedia, Bitynia, Asia Minor (near modern Izmet, Turkey)"
 deathPlace: "Bitynia, Asia Minor (near modern Izmet, Turkey)"
@@ -10,8 +10,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

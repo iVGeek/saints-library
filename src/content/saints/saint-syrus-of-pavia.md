@@ -1,7 +1,7 @@
 ---
 name: "Saint Syrus of Pavia"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Deacon"
+title: "Saint Syrus of Pavia"
 summary: "Evangelized and served as first bishop of Pavia, Italy in the 1st century; tradition says that he was appointed by the Apostles, and an old legend says that he was the boy with five loaves who appears in the Gospels. Worked with Saint Juventius of Pavia. Fought Arianism."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/San_giovanni_domnarum5.jpg/960px-San_giovanni_domnarum5.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Deacon
@@ -42,7 +41,7 @@ patronage:
   - "San Siro, Milano"
   - "Soresina"
   - "Sospiro"
-martyr: true
+martyr: false
 ---
 
 Evangelized and served as first bishop of Pavia, Italy in the 1st century; tradition says that he was appointed by the Apostles, and an old legend says that he was the boy with five loaves who appears in the Gospels. Worked with Saint Juventius of Pavia. Fought Arianism.

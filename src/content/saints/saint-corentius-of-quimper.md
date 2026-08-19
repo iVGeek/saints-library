@@ -1,7 +1,7 @@
 ---
 name: "Saint Corentius of Quimper"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Confessor"
+title: "Saint Corentius of Quimper"
 summary: " Legend says that when a hermit, he fed on a fish that would regenerate after Coren Son of a British chieftain. Hermit at Plomodiern in Brittany. First bishop of Cornouaille, (modern Quimper), France, consecrated by Saint Martin. Signed the decrees of the Council of Angers in 453."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Corentius-of-Quimper1.jpg"
 searchAliases:

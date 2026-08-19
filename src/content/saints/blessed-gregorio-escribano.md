@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Escribano"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Gregorio Escribano"
 summary: "Jesuit and co-adjutor with Blessed Ignatius de Azevedo. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 searchAliases:
   - "Gregory Escrivano"
@@ -16,9 +16,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

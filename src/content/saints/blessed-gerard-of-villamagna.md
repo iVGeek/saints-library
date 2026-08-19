@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gerard of Villamagna"
 honorific: Blessed
-title: "Pope, Hermit, Soldier"
+title: "Blessed Gerard of Villamagna"
 summary: "Esquire to a knight. As a Crusader he was captured, later ransomed, and then returned to Italy. Franciscan tertiary. Lived the rest of his life as a hermit noted for his piety."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Bicci_di_Lorenzo_-_Blessed_Gerard_of_Villamagna_-_WGA2163.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
   - Soldier
 religiousOrder: "Franciscan"

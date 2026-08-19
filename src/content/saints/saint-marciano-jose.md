@@ -1,7 +1,7 @@
 ---
 name: "Saint Marciano José"
 honorific: Venerable
-title: "Martyr, Monk, Pope"
+title: "Saint Marciano José"
 summary: "Member of the Brothers of the Christian Schools, entering the novitate on 20 September 1916. One of the Martyrs of Tur&oacute;n killed in the persecutions of the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marciano-Jose.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 9
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Monk
-  - Pope
 martyr: true
 ---
 

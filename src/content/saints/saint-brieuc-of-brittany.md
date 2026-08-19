@@ -1,7 +1,7 @@
 ---
 name: "Saint Brieuc of Brittany"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Brieuc of Brittany"
 summary: "Born and raised a pagan in a family of the Welsh nobility, but converted to Christianity as a young adult. Educated in France by Saint Germanus of Auxerre. Priest; a column of fire was reported seen near him at his ordination. He then returned to the British Isles as an evangelis"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Brieuc-of-Brittany1.jpg"
 searchAliases:

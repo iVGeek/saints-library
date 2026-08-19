@@ -1,7 +1,7 @@
 ---
 name: "Saint Valerian of Abbenza"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Valerian of Abbenza"
 summary: "Bishop of Abbenza in North Africa. Arian Vandals demanded that he turn over his sacred vessels to them; he refused and so was exiled with a public order that no one was permitted to give him shelter. Martyr."
 birthYear: 377
 deathYear: 457
@@ -13,7 +13,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

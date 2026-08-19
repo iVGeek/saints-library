@@ -1,7 +1,7 @@
 ---
 name: "Saint Henry Morse"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Confessor"
+title: "Saint Henry Morse"
 summary: "Convert. Studied for the priesthood in Rome, Italy. Joined the Jesuits in 1626. Worked as a covert priest in London, England. Worked with plague victims in 1636, catching the plague himself - and recovering from it. Betrayed to the authorities by an informer, he was briefly impri"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/05/Saint-henry-morse.png"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 religiousOrder: "Jesuit"
 martyr: true

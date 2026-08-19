@@ -1,7 +1,7 @@
 ---
 name: "Saint Angela of Foligno"
 honorific: Saint
-title: "Priest, Pope"
+title: "Saint Angela of Foligno"
 summary: "Born to a wealthy non-Christian family. She married young, and was the mother of several children. Angela lived a wild, adulterous, and sacrilegious life for a while, but following a vision received in 1285, she had a conversion. After the death of her mother, husband, and childr"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Angela_of_Foligno_1.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "against sexual temptation"

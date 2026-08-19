@@ -1,7 +1,7 @@
 ---
 name: "Saint Mlada of Prague"
 honorific: Saint
-title: "Religious"
+title: "Saint Mlada of Prague"
 summary: "Daughter of Duke Boleslav of Czechia. Founded the convent of Saint George in Prague (in the modern Czech Republic)."
 searchAliases:
   - "Mary of Prague"

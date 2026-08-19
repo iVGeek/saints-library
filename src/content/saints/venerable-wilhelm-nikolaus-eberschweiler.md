@@ -1,7 +1,7 @@
 ---
 name: "Venerable Wilhelm Nikolaus Eberschweiler"
 honorific: Venerable
-title: "Priest, Pope"
+title: "Venerable Wilhelm Nikolaus Eberschweiler"
 summary: "Wilhelm was raised in a pious family; he and three of his brothers all joined the Jesuits. Wilhelm began his novitiate in 1858, and made his solemn profession in 1872. Ordained a priest of 1868. For nearly 50 years he served as novice master and rector of novices in Prussia, Engl"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Wilhelm-Eberschweiler.jpg"
 birthYear: 1837
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

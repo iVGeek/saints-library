@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul Suzuki"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Paul Suzuki"
 summary: "Convert, baptized by the Jesuits in 1584. Franciscan tertiary. Catechist. In charge of Saint Joseph's hospital in Kyoto, Japan. One of the Martyrs of Nagasaki. He preached from the cross in his last minutes."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
 birthYear: 1563
@@ -15,9 +15,7 @@ feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

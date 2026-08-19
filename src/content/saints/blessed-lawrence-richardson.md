@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lawrence Richardson"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Lawrence Richardson"
 summary: "Son of Richard Johnson, Lawrence was born to an ancient landed family known for its piety. Educated at Brasenose College, Oxford. Convert to Catholicism. Seminarian at Douai, France in 1573. Ordained on 23 March 1577. He returned to Lancashire, England in 1578 to minister to cove"
 searchAliases:
   - "Lawrence Johnson"
@@ -17,10 +17,8 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

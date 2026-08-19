@@ -1,7 +1,7 @@
 ---
 name: "Saint Antoninus of Rome"
 honorific: Saint
-title: "Monk"
+title: "Saint Antoninus of Rome"
 summary: "Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his previous life."
 deathYear: 186
 died: "186"

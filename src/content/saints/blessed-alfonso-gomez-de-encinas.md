@@ -1,7 +1,7 @@
 ---
 name: "Blessed Alfonso Gomez de Encinas"
 honorific: Blessed
-title: "Martyr, Priest, Missionary"
+title: "Blessed Alfonso Gomez de Encinas"
 summary: "Joined the Mercedarians in Valladolis, Spain. Studied at the University of Salamanca, Spain. Priest. Vicar of the Mercedarian College in Salamanca in 1600. Travelled to Mexico in 1609 to serve as a preacher, missionary and secretary to Venerable Antonio de Mendoza. Missionary on"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Gomez-de-Encinas.jpg"
 birthYear: 1565
@@ -16,7 +16,6 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Missionary
 martyr: true

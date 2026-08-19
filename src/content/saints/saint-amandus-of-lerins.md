@@ -1,7 +1,7 @@
 ---
 name: "Saint Amandus of Lérins"
 honorific: Saint
-title: "Monk"
+title: "Saint Amandus of Lérins"
 summary: "Abbot of Lérins Abbey in 676."
 searchAliases:
   - "Amand of Lérins"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Baudacarius of Bobbio"
 honorific: Saint
-title: "Monk"
+title: "Saint Baudacarius of Bobbio"
 summary: "Benedictine monk in Bobbio, Italy. In charge of the monastery's vineyard and 30 brothers assigned to help him. Legend says that once he ran nearly out of food to feed them, but prayed for help and was able to feed them all from a single cooked duck."
 searchAliases:
   - "Baudacharius"

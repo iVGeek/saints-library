@@ -25,7 +25,6 @@ liturgicalRank: Optional Memorial
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Martyr
 patronage:
   - couples
   - beekeepers

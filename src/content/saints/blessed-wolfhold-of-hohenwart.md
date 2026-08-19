@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wolfhold of Hohenwart"
 honorific: Blessed
-title: "Priest, Confessor"
+title: "Blessed Wolfhold of Hohenwart"
 summary: " Around the year 1492, a tailor named Stephen who li Priest. Confessor to Hohenwart Abbey. He was known to spend nights in the monastery church; legend says that the church doors would open for him on their own when he arrived, and close when he left, an action ascribed to angels."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Wolfhold-of-Hohenwart.jpg"
 region: "Germany"

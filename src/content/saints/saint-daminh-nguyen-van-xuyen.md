@@ -1,7 +1,7 @@
 ---
 name: "Saint Ðaminh Nguyen Van Xuyên"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Ðaminh Nguyen Van Xuyên"
 summary: "Dominican priest. Worked in the Dominican missions in Vietnam. One of the Martyrs of Vietnam."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Daminh-Nguyen-Van-Xuyen.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

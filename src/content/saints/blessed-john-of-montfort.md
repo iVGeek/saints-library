@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Montfort"
 honorific: Blessed
-title: "Soldier"
+title: "Blessed John of Montfort"
 summary: "Benedictine Knight Templar of Jerusalem. Wounded in combat with the Saracens, he was taken to Cyprus where he never fully recovered."
 region: "Holy Land"
 feastDay:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Spyridon of Cyprus"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Deacon, Royalty, Confessor"
+title: "Saint Spyridon of Cyprus"
 summary: " Bishop of Tremithus, Cyprus. Spiritual teacher of Saint Tryphillius of Leucosia. Fought Arianism. During th Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Spyridon-of-Cyprus.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Deacon
@@ -38,7 +37,7 @@ patronage:
   - "Corfu, Greece"
   - "Kephalonia, Greece"
   - "Zakynthos, Greece"
-martyr: true
+martyr: false
 ---
 
 Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel.

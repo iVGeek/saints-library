@@ -1,7 +1,7 @@
 ---
 name: "Saint Serapion the Scholastic"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Confessor"
+title: "Saint Serapion the Scholastic"
 summary: " Bishop of Thmuis, near Diospolis in the Nile delta of Egyptian monk. Ran the famous catechetical school of Alexandria, Egypt. Resigned to spend more time in prayer and penitence. Spiritual student of Saint Anthony the Abbot in the desert. Friend of Saint Athanasius of Alexandria."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Serapion-the-Scholastic.jpg"
 searchAliases:
@@ -16,12 +16,11 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
   - Confessor
-martyr: true
+martyr: false
 ---
 
 Egyptian monk. Ran the famous catechetical school of Alexandria, Egypt. Resigned to spend more time in prayer and penitence. Spiritual student of Saint Anthony the Abbot in the desert. Friend of Saint Athanasius of Alexandria.

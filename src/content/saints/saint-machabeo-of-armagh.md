@@ -1,7 +1,7 @@
 ---
 name: "Saint Machabeo of Armagh"
 honorific: Saint
-title: "Monk"
+title: "Saint Machabeo of Armagh"
 summary: "Abbot of the monastery of Saint Peter and Saint Paul in Armagh, Ireland for over 30 years."
 searchAliases:
   - "Gilda-Marchaibeo"

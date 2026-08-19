@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gonzalo de Ubeda"
 honorific: Blessed
-title: "Bishop, Priest"
+title: "Blessed Gonzalo de Ubeda"
 summary: "Priest. Auxiliary bishop of Granada, Spain. Mercedarian Commander. Moved his house to Granada c.1500 and build a church and convent there."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Ubeda.jpg"
 searchAliases:

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Vázquez Alfalla"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Manuel Vázquez Alfalla"
 summary: "Ordained a priest of the archdiocese of Granada, Spain on 17 December 1892; an excellent student, he completed six years of seminary work in five. He served in various offices in the Spanish towns of Motril, Salobreña, and Lobres where he was known for working with local charitie"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Vazquez-Alfalla.jpg"
 birthYear: 1863
@@ -16,10 +16,7 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

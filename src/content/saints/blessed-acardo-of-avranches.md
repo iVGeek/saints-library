@@ -2,7 +2,7 @@
 name: "Blessed Acardo of Avranches"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gisant_Achard_de_Saint-Victor.JPG/960px-Gisant_Achard_de_Saint-Victor.JPG"
 honorific: Blessed
-title: "Bishop, Monk, Royalty"
+title: "Blessed Acardo of Avranches"
 summary: "Born to the Norman nobility. Educated by the canons of Bridlington, diocese of York, England. Studied in Paris, France. Monk of the monastery of Saint Victor in Paris. Abbot of the house in 1155. Chosen bishop of Séez, France in 1157, but was opposed by King Henry II of England,"
 searchAliases:
   - "Acardo of San Vittore"
@@ -19,7 +19,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

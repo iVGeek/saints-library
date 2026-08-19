@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christian Chessel"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Christian Chessel"
 summary: "Graduated with a degree in engineering in 1981. Worked as a volunteer in Ivory Coast for two years. Joined the Missionaries of Africa in 1985, taking his vows on 26 November 1991 in Rome, Italy. Ordained a priest on 28 June 1992. In November 1994, Father Christian travelled to th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-Chessel.jpg"
 birthYear: 1958
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

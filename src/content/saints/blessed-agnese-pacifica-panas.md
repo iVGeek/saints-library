@@ -1,7 +1,7 @@
 ---
 name: "Blessed Agnese Pacifica Panas"
 honorific: Blessed
-title: "Religious, Pope, Cardinal"
+title: "Blessed Agnese Pacifica Panas"
 summary: "Capuchin Poor Clare nun."
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Agnese-Pacifica-Panas.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Cardinal
 religiousOrder: "Capuchin"
 martyr: false

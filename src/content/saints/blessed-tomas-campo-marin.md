@@ -1,7 +1,7 @@
 ---
 name: "Blessed Tomás Campo Marín"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Tomás Campo Marín"
 summary: "Mercedarian priest. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Campo-Marín.jpg"
 birthYear: 1879
@@ -16,9 +16,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

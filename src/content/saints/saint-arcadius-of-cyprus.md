@@ -1,7 +1,7 @@
 ---
 name: "Saint Arcadius of Cyprus"
 honorific: Saint
-title: "Bishop, Monk, Missionary"
+title: "Saint Arcadius of Cyprus"
 summary: "Fourth century missionary, possibly a bishop, who worked for the conversion of people on the island of Cyprus."
 searchAliases:
   - "Arcadio"

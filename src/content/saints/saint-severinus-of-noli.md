@@ -1,7 +1,7 @@
 ---
 name: "Saint Severinus of Noli"
 honorific: Saint
-title: "Martyr, Soldier"
+title: "Saint Severinus of Noli"
 summary: "Soldier. Martyr. A late legend makes him an escaped member of the Theban Legend, but that's doubtful."
 born: "Noli, Italy"
 died: "Corsica, France"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Soldier
 martyr: true
 ---

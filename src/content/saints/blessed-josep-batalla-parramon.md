@@ -1,7 +1,7 @@
 ---
 name: "Blessed Josep Batalla Parramon"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Josep Batalla Parramon"
 summary: "Joined the Salesians, making his solemn vows on 7 December 1894. Ordained in 1900. Teacher. Expelled from his teaching duties at the start of the Spanish Civil War, he worked with those wounded in the conflict until murdered by the anti-Christian forces for the crime of being a p"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Batalla-Parramon.jpg"
 birthYear: 1873
@@ -16,10 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

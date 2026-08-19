@@ -1,7 +1,7 @@
 ---
 name: "Blessed Françoise Bonneau"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Françoise Bonneau"
 summary: "Lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 birthYear: 1763
 deathYear: 1794
@@ -14,9 +14,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

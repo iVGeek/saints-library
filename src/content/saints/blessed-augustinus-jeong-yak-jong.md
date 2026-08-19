@@ -1,7 +1,7 @@
 ---
 name: "Blessed Augustinus Jeong Yak-jong"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Augustinus Jeong Yak-jong"
 summary: "Married layman and father. A convert to Catholicism within two years of the first missionaries arriving in the country, he brought all his family into the faith. He wrote a two-volume catechism in Korean. Imprisoned, tortured and executed in the early days of the Shinyu Persecuti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 birthYear: 1760
@@ -16,9 +16,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

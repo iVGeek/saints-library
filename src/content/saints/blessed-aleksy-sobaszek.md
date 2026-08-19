@@ -1,7 +1,7 @@
 ---
 name: "Blessed Aleksy Sobaszek"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Aleksy Sobaszek"
 summary: "After graduating high school in Ostrów, Poland, he studied in Freising, Germany, Poznań, Poland, and Gniezno, Poland, Aleksy was ordained a priest in 1919. He served as parish priest and sometimes teacher in the Polish cities of Wągrowiec, Słupy, Trzemeszno, Siedlemin, and Gniezn"
 image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Blessed_Aleksy_Sobaszek_photographed_c._1935.jpg"
 birthYear: 1895
@@ -16,9 +16,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

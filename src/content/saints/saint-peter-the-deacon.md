@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter the Deacon"
 honorific: Saint
-title: "Monk, Deacon, Pope"
+title: "Saint Peter the Deacon"
 summary: "Benedictine monk, sub-deacon in Sicily, deacon in Rome. Friend, spiritual student and secretary to Pope Saint Gregory the Great; Gregory dictated four books of the Dialogues to Peter."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Peter_the_Deacon.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-  - Pope
 religiousOrder: "Benedictine"
 patronage:
   - "Salassola, Italy"

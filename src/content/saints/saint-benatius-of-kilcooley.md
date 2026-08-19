@@ -1,7 +1,7 @@
 ---
 name: "Saint Benatius of Kilcooley"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Benatius of Kilcooley"
 summary: "Mentioned in early Irish martyrologies, but no details about him have survived."
 region: "Ireland"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 patronage:
   - "Kilcooley (Cill-Chuile; Kill-Chuile), County Roscommon, Ireland"

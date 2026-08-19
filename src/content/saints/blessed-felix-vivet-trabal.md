@@ -1,7 +1,7 @@
 ---
 name: "Blessed Fèlix Vivet Trabal"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Fèlix Vivet Trabal"
 summary: "Son of a building contractor. Studied in Rocafort, Barcelona, Spain and Campello, Alicante, Spain. Salesian brother, making his vows in 1928 in Sarrla, Spain. Studied theology at the Gregorian University in Rome, Italy. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Fèlix-Vivet-Trabal.jpg"
 birthYear: 1911
@@ -16,10 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Salesian"
 martyr: true
 ---

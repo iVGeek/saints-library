@@ -1,7 +1,7 @@
 ---
 name: "Saint Heliodorus of Mesopotamia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Heliodorus of Mesopotamia"
 summary: "Bishop in Mesopotamia. Martyred in the persecution of Shapur II."
 deathYear: 355
 died: "c.355"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Archelaus of Mesopotamia"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Archelaus of Mesopotamia"
 summary: "Bishop of Chacar (Kashkar; Cascus; Charchar) Mesopotamia. Fought Manichaeism. His writings on the heresy were valued by Saint Jerome."
 region: "Italy"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Bishop of Chacar (Kashkar; Cascus; Charchar) Mesopotamia. Fought Manichaeism. His writings on the heresy were valued by Saint Jerome.

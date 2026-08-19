@@ -1,7 +1,7 @@
 ---
 name: "Blessed Victoire Rasoamanarivo"
 honorific: Blessed
-title: "Priest, Pope, Royalty, Soldier"
+title: "Blessed Victoire Rasoamanarivo"
 summary: "Daughter of Rainiandriantsilavo and Rambahinoro. Raised by her paternal uncle, Rainimaharavo, the commander-in-chief of the Malagasy army, the girl grew up in the animist faith of her ancestors. She began attending a Catholic school at age 13 and was immediately drawn to the fait"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Victoire_Rasoamanarivo.jpg"
 birthYear: 1848
@@ -14,8 +14,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
   - Soldier
 martyr: false
 ---

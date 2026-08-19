@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jean-Marie du Lau d'Alleman"
 honorific: Blessed
-title: "Martyr, Bishop, Pope"
+title: "Blessed Jean-Marie du Lau d'Alleman"
 summary: "Born to the French nobility. Member of the French parliment. Archbishop of Arles, France. One of the Martyrs of September."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-du-Lau-dAlleman.jpg"
 birthYear: 1738
@@ -16,9 +16,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

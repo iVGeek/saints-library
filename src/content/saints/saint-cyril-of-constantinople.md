@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril of Constantinople"
 honorific: Saint
-title: "Priest, Pope"
+title: "Saint Cyril of Constantinople"
 summary: "Priest. Teacher. Prior. Known to have had a great devotion to Our Lady. Delegate from emperor to the papal court. Worked for the union of the Greek and Latin Churches. When he became persecuted by the Patriarch of Constantinople, he retired to Mount Carmel and became a Carmelite."
 birthYear: 1126
 deathYear: 1224
@@ -14,7 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

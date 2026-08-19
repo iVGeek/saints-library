@@ -1,7 +1,7 @@
 ---
 name: "Saint Lambertus of Freising"
 honorific: Saint
-title: "Virgin, Bishop"
+title: "Saint Lambertus of Freising"
 summary: " With little documentation about his life, legends became attached to him, such as performing holy fasts while still an infant, or his ability to cloak th Bishop of Freising, Bavaria, Germany from 955 to 957, serving during a period of political turmoil and invasion by Hungarians."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lambertus-of-Freising.jpg"
 searchAliases:

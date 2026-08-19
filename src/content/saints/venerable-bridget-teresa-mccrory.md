@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bridget Teresa McCrory"
 honorific: Venerable
-title: "Religious, Pope, Cardinal, Royalty"
+title: "Venerable Bridget Teresa McCrory"
 summary: "Bridget's family migrated to Scotland when she was seven, and she grew up there. Joined the Little Sisters of the Poor at age 19, making her novitiate in La Tour, France. Assgined to work in the United States. Superior of a home of the Little Sisters in the Bronx, New York in 192"
 image: "http://catholicsaints.info/wp-content/uploads/Venerable-Bridget-Teresa-McCrory.jpg"
 searchAliases:
@@ -19,9 +19,7 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
   - Cardinal
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

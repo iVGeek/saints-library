@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bonifacio of Siena"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Bonifacio of Siena"
 summary: "Franciscan friar."
 searchAliases:
   - "Bonafino"
@@ -15,10 +15,9 @@ feastDay:
   month: 2
   day: 8
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 Franciscan friar.

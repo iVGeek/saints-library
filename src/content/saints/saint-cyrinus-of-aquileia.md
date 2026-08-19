@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyrinus of Aquileia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Cyrinus of Aquileia"
 summary: "One of a group of approximately 200 Christians martyred together. His is the only name that has come down to us, and we have no further details about him."
 searchAliases:
   - "Cirino"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

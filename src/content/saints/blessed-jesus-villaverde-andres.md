@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jesús Villaverde Andrés"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Jesús Villaverde Andrés"
 summary: "Dominican priest. Martyred in the Spanish Civil War."
 birthYear: 1877
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Dominican"
 martyr: true
 ---

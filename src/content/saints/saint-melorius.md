@@ -1,7 +1,7 @@
 ---
 name: "Saint Melorius"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Melorius"
 summary: "Venerated in Amesbury, Wiltshire, England and in Quimper, Brittany, France."
 searchAliases:
   - "Meilleur"
@@ -20,9 +20,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Venerated in Amesbury, Wiltshire, England and in Quimper, Brittany, France.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodotus of Heraclea"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Theodotus of Heraclea"
 summary: "Priest. Martyr."
 died: "Heraclea, Thrace"
 deathPlace: "Thrace"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

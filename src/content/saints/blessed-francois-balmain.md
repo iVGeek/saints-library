@@ -1,7 +1,7 @@
 ---
 name: "Blessed François Balmain"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed François Balmain"
 summary: "Jesuit priest. Teacher in Pont-à-Mousson, France. Chaplain for the Daughters of the Cross in Paris, France. One of the Martyrs of September killed in the anti-Christian excesses of the French Revolution."
 birthYear: 1733
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Nonna"
 honorific: Saint
-title: "Monk"
+title: "Saint Nonna"
 summary: "Daughter of Filtazius, she was raised in a Christian home. Married and converted Saint Gregory of Nazianzen the Elder. Mother of Saint Gregory Nazianzen, Saint Caesarius of Nazianzen, and Saint Gorgonia. She outlived her husband and the latter two children."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nonna.jpg"
 searchAliases:

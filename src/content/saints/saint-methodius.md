@@ -1,7 +1,7 @@
 ---
 name: "Saint Methodius"
 honorific: Saint
-title: "Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Methodius"
 summary: "Brother of Saint Cyril. Born to the Greek nobility. Studied at the University of Constantinople, and taught philosophy there. Priest. Sent with Cyril by the emperor in 861 to convert the Jewish Khazars of Russia, a mission that was successful, and which allowed him to learn the K"
 image: "http://catholicsaints.info/wp-content/uploads/img-Cyril-and-Methodius.jpg"
 searchAliases:
@@ -24,7 +24,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

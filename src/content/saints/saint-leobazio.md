@@ -1,7 +1,7 @@
 ---
 name: "Saint Leobazio"
 honorific: Saint
-title: "Monk"
+title: "Saint Leobazio"
 summary: "Fifth-century monk. Spiritual student of Saint Urso. Abbot of Saint Orso Sénevière abbey in Lugdunense, Gaul (in modern France)."
 searchAliases:
   - "Leobato"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Barbarinus"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Barbarinus"
 summary: "Priest. Martyr. No other information has survived."
 searchAliases:
   - "Barbarunus"
@@ -10,7 +10,6 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

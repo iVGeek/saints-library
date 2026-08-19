@@ -1,7 +1,7 @@
 ---
 name: "Saint Crementius of Zaragoza"
 honorific: Saint
-title: "Martyr"
+title: "Saint Crementius of Zaragoza"
 summary: "Martyr."
 searchAliases:
   - "Cremenzio"
@@ -13,8 +13,7 @@ feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

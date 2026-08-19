@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gabriel-Joseph-Roger Longueville"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Gabriel-Joseph-Roger Longueville"
 summary: "Priest of the diocese of Viviers, France. Fidei Donum missionary in the diocese of La Rioja, Argentina. Martyr."
 birthYear: 1931
 deathYear: 1976
@@ -15,9 +15,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

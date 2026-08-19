@@ -1,7 +1,7 @@
 ---
 name: "Saint Petrus Ch'oe Ch'ang-Hub"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Petrus Ch'oe Ch'ang-Hub"
 summary: "Married lay woman and catechist in the apostolic vicariate of Korea. Martyr."
 searchAliases:
   - "Peteurol Choe Chang-Heub"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 29
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

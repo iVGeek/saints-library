@@ -1,7 +1,7 @@
 ---
 name: "Saint Felicitas of Padua"
 honorific: Saint
-title: "Virgin, Religious"
+title: "Saint Felicitas of Padua"
 summary: "Nun in Padua, Italy."
 died: "9th century"
 region: "Italy"

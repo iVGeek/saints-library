@@ -1,7 +1,7 @@
 ---
 name: "Saint Miniato of Florence"
 honorific: Saint
-title: "Martyr, Monk, Royalty, Soldier"
+title: "Saint Miniato of Florence"
 summary: "Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in Florence, Italy. Martyred in the persecutions of Decius. An abbey outside the Florence city walls is named for him."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Miniato-of-Florence.jpg"
 searchAliases:
@@ -15,9 +15,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Royalty
   - Soldier
 patronage:
   - "Florence, Italy"

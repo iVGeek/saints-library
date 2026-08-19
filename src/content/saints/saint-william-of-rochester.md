@@ -1,7 +1,7 @@
 ---
 name: "Saint William of Rochester"
 honorific: Saint
-title: "Martyr, Monk, Pope"
+title: "Saint William of Rochester"
 summary: "William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring especially for poor and neglected children. He worked as a baker, and gave every tenth loaf to the poor. He attended Mass daily, and one morning on his way to chur"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Rochster.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-  - Pope
 patronage:
   - "adopted children"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christian of Landais"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Christian of Landais"
 summary: "As a young man, Christian retired from the world to live as a penitent hermit near the village of Gastines, France. After a few years, he came to believe that the lack of rules in a hermit's life left him open to temptation, and c.1130 he became a monk at the recently founded Cis"
 searchAliases:
   - "Cristiano"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Maria Anna Blondin"
 honorific: Blessed
-title: "Bishop, Priest, Religious, Pope, Royalty"
+title: "Blessed Maria Anna Blondin"
 summary: "Born to a pious, French-Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate into adulthood, as were the other members of her family and most of her acquaintances. Domestic servant for a village merchant, and then in the convent of the Si"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Blondin.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
-  - Royalty
 martyr: false
 ---
 

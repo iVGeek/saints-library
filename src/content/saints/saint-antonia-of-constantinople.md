@@ -1,7 +1,7 @@
 ---
 name: "Saint Antonia of Constantinople"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Antonia of Constantinople"
 summary: "Christian maiden who was tortured and martyred in the persecutions of Diocletian and Galerius."
 died: "burned at the stake in the late 3rd century in Constantinople"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Tortgith of Barking"
 honorific: Saint
-title: "Monk, Religious, Royalty"
+title: "Saint Tortgith of Barking"
 summary: "Benedictine nun at the abbey of Barking, England. Novice-mistress during the time when Saint Ethelburga was her abbess."
 searchAliases:
   - "Theoregitha"
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

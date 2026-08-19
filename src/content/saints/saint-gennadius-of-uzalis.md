@@ -1,7 +1,7 @@
 ---
 name: "Saint Gennadius of Uzalis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Gennadius of Uzalis"
 summary: "Martyr. No other information has survived."
 searchAliases:
   - "Gennadio"
@@ -12,7 +12,6 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

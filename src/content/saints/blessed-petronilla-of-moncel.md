@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petronilla of Moncel"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Petronilla of Moncel"
 summary: "Born to the family of the Counts of Troyes, France, Petronilla served as the first abbess of a Poor Clare monastery in Moncel, Burgundy (in modern France)."
 searchAliases:
   - "Petronilla of Troyes"

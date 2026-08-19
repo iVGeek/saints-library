@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lucia de Freitas"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Lucia de Freitas"
 summary: "Layman of the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans and Confraternity of the Rosary. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
 image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
 birthYear: 1542
@@ -14,9 +14,7 @@ feastDay:
   month: 9
   day: 10
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

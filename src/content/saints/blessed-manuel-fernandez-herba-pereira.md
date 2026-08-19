@@ -1,7 +1,7 @@
 ---
 name: "Blessed Manuel Fernández-Herba Pereira"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Manuel Fernández-Herba Pereira"
 summary: "Educated at Piarist schools in Celanova, Spain, and at the seminary in Tuy, Spain; he was noted for his aptitude in the hard sciences. He joined the Dominicans in Padrón, Spain on 20 November 1895, and then studied and served in Cuevas de Vera, Spain, and Caracas, Venezuela where"
 birthYear: 1878
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Dominican"
 martyr: true

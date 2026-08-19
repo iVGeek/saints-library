@@ -1,7 +1,7 @@
 ---
 name: "Saint Vincent Liêm"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Missionary"
+title: "Saint Vincent Liêm"
 summary: "Born to the Tonkinese nobility. Studied in the Philippines. Joined the Dominicans in 1753, making his solemn profession in 1754. Ordained in 1758. Returned to Tonkin in January 1759 where he served as missionary and evangelist. Imprisoned for preaching Christianity, he preached t"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vincent-Liêm.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

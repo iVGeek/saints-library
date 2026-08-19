@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicanor the Deacon"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon, Missionary"
+title: "Saint Nicanor the Deacon"
 summary: "Chosen by the Apostles as one of the seven deacons and minister of charities in Jerusalem. Missionary to Cyprus. Martyr."
 image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nicanor_the_Deacon_by_Fedor_Zubov_%281685%2C_Smolensky_cathedral_of_Novodevichiy_convent%29.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

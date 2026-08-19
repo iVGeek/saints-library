@@ -1,7 +1,7 @@
 ---
 name: "Blessed Elizabeth of Saint Francis"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Elizabeth of Saint Francis"
 summary: "Born to pious Portugese noble family. Poor Clare nun at Saint Clare Vila do Conde, diocese of Braga, Portutal."
 deathYear: 1534
 born: "Coimbra, Portugal"

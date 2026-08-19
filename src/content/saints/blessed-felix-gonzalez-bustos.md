@@ -1,7 +1,7 @@
 ---
 name: "Blessed Félix González Bustos"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Félix González Bustos"
 summary: "Priest in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Félix-González-Bustos.jpg"
 birthYear: 1903
@@ -16,9 +16,7 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

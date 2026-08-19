@@ -1,7 +1,7 @@
 ---
 name: "Saint Cassian of Todi"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Cassian of Todi"
 summary: "Fourth-century convert, brought to the faith by Saint Pontian of Todi. Bishop of Todi, Italy. Martyred in the persecutions of Maximian Herculeus."
 died: "relics in Todi, Italy"
 deathPlace: "Italy"
@@ -11,7 +11,6 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

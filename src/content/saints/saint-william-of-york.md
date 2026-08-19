@@ -1,7 +1,7 @@
 ---
 name: "Saint William of York"
 honorific: Saint
-title: "Martyr"
+title: "Saint William of York"
 summary: " Archbishop of York in 1140. His selection was challenged by reformers, especially a group of Ciste Son of Count Herbert, treasurer to King Henry I, and Emma, half-sister to King William. Treasurer of the church in York, England while still young. Priest. Chaplain to King Stephen."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-William-of-York.jpg"
 searchAliases:
@@ -16,12 +16,11 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "York, England"
-martyr: true
+martyr: false
 ---
 
 Son of Count Herbert, treasurer to King Henry I, and Emma, half-sister to King William. Treasurer of the church in York, England while still young. Priest. Chaplain to King Stephen.

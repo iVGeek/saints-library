@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Masyla"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Martyrs of Masyla"
 summary: "Group of Christians martyred in Masyla in northwest Africa."
 searchAliases:
   - "Massylitan Martyrs"
@@ -11,7 +11,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Henry Walpole"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty, Soldier, Confessor"
+title: "Saint Henry Walpole"
 summary: "Educated at Norwich, Cambridge and Gray's Inn, London, England. Adult convert to Catholicism. Studied for the priesthood at Rheims, France in 1582, and English College, Rome, Italy in 1583. Joined the Jesuits in 1584. Ordained on 15 December 1588 at Paris, France. Chaplain to the"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Henry_Walpole.jpg"
 birthYear: 1558
@@ -16,8 +16,6 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Jesuit"

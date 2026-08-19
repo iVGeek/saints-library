@@ -1,7 +1,7 @@
 ---
 name: "Blessed Lambert Péloguin of Vence"
 honorific: Blessed
-title: "Bishop, Monk, Hermit"
+title: "Blessed Lambert Péloguin of Vence"
 summary: "His mother died in childbirth. Raised by the Benedictine monks of Lérins Abbey from age 12, Lambert entered the Order at age 14. Reluctant bishop of Vence, France in 1114; he did not want to give up his life in the monastery, but accepted and served for 40 years. He built hospita"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lambert-Péloguin-of-Vence.jpg"
 searchAliases:

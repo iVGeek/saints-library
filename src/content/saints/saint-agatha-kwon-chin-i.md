@@ -1,7 +1,7 @@
 ---
 name: "Saint Agatha Kwon Chin-I"
 honorific: Venerable
-title: "Martyr, Pope"
+title: "Saint Agatha Kwon Chin-I"
 summary: "Married lay woman. One of the Martyrs of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 1
   day: 31
 canonizationStatus: Venerable
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

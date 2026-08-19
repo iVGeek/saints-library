@@ -1,7 +1,7 @@
 ---
 name: "Blessed Geremia Oghlou Boghos"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Geremia Oghlou Boghos"
 summary: "Franciscan. One of the Martyrs of Armenia."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
 born: "Armenian"
@@ -10,9 +10,7 @@ feastDay:
   month: 11
   day: 22
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Franciscan"
 martyr: true
 ---

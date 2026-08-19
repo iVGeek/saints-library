@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margaret of Louvain"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Margaret of Louvain"
 summary: "Born to a poor family, in her late teens Margaret began working as a maid at the Sint Joris, an inn in Louvain, Belgium owned by her uncle Aubert. Aubert and his wife eventually sold the inn, each planning to enter religious life; Margaret planned to become a Cistercian nun. On t"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/PM_141429_B_Leuven.jpg"
 searchAliases:
@@ -23,11 +23,10 @@ feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 patronage:
   - "martyrs"
-martyr: true
+martyr: false
 ---
 
 Born to a poor family, in her late teens Margaret began working as a maid at the Sint Joris, an inn in Louvain, Belgium owned by her uncle Aubert. Aubert and his wife eventually sold the inn, each planning to enter religious life; Margaret planned to become a Cistercian nun. On their last night in the inn, thieves broke in and killed the erstwhile owners while Margaret was out. She came home as the killers were leaving, and she was murdered, too. Devotion developed after miracles occurred near her original grave site beside the river.

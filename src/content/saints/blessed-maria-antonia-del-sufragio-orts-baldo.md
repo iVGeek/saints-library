@@ -1,7 +1,7 @@
 ---
 name: "Blessed María Antonia del Sufragio Orts Baldó"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed María Antonia del Sufragio Orts Baldó"
 summary: "Professed religious in the Sisters of the Christian Doctrine, entering on 5 April 1922. She served as local superior and novice mistress. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

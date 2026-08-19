@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bertold of Mount Carmel"
 honorific: Blessed
-title: "Hermit, Soldier"
+title: "Blessed Bertold of Mount Carmel"
 summary: "Soldier who fought in the Crusades and was in Antioch during its siege by Saracens. Following a vision of Christ, Bertold gave up the military life and became a hermit on Mount Carmel, trying to live like Elijah the Prophet. His reputation for holiness spread, other hermits were"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bertold-of-Mount-Carmel.jpg"
 searchAliases:

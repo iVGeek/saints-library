@@ -1,7 +1,7 @@
 ---
 name: "Blessed Olinto Marella"
 honorific: Blessed
-title: "Bishop, Priest, Pope, Cardinal, Royalty"
+title: "Blessed Olinto Marella"
 summary: "One of three children of a wealthy physician who died when Olinto was only ten years old. Educated by his uncle, Archbishop Giuseppe Marella of Pallestrina, Italy. Studied in Rome, Italy, and was a class-mate of the future Pope John XXIII. Ordained on 17 December 1904. Taught sem"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Olinto_Marella.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Pope
   - Cardinal
-  - Royalty
 martyr: false
 ---
 

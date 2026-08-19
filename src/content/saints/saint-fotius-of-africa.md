@@ -1,7 +1,7 @@
 ---
 name: "Saint Fotius of Africa"
 honorific: Saint
-title: "Martyr"
+title: "Saint Fotius of Africa"
 summary: "Martyr."
 searchAliases:
   - "Focius"
@@ -13,8 +13,7 @@ feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

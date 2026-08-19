@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Pentecost in Alexandria"
 honorific: Saint
-title: "Martyr, Bishop, Priest"
+title: "Martyrs of Pentecost in Alexandria"
 summary: "An unspecified number of Christian clerics and lay people who, on Pentecost in 338, were rounded up by order of the Arian bishop and emperor Constantius, and were either killed or exiled for refusing to accept Arian teachings."
 deathYear: 339
 died: "339 in Alexandria, Egypt"
@@ -12,10 +12,9 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
-martyr: true
+martyr: false
 ---
 
 An unspecified number of Christian clerics and lay people who, on Pentecost in 338, were rounded up by order of the Arian bishop and emperor Constantius, and were either killed or exiled for refusing to accept Arian teachings.

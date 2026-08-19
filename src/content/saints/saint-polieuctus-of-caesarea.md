@@ -1,7 +1,7 @@
 ---
 name: "Saint Polieuctus of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Polieuctus of Caesarea"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Polieuctus-of-Caesarea.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

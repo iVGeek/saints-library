@@ -1,7 +1,7 @@
 ---
 name: "Blessed José González Pérez"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed José González Pérez"
 summary: "Priest in the diocese of Córdoba, Spain, serving in the Villanueva community. Martyred in the Spanish Civil War."
 birthYear: 1901
 deathYear: 1936
@@ -15,9 +15,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

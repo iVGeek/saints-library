@@ -1,7 +1,7 @@
 ---
 name: "Saint Marie Rivier"
 honorific: Venerable
-title: "Virgin, Priest, Religious, Pope, Royalty"
+title: "Saint Marie Rivier"
 summary: "At the age of sixteen months, Marie broke her hip in a fall that left her crippled. Her mother, refusing to give up, carried the child to a local Pieta statue each day to pray. On 8 September 1774, having seen her mother spend hours in prayer, Marie was suddenly able to walk. How"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vitrail_Marie_Rivier.jpg/960px-Vitrail_Marie_Rivier.jpg"
 searchAliases:
@@ -23,8 +23,6 @@ vocation:
   - Virgin
   - Priest
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "against rickets"

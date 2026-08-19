@@ -1,7 +1,7 @@
 ---
 name: "Saint Paternus of Avranches"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Confessor"
+title: "Saint Paternus of Avranches"
 summary: "Son of Patranus. Monk at Ansion, France. Hermit near Coutances, France. Bishop of Avranches, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paternus-of-Avranches.jpg"
 searchAliases:

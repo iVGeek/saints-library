@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodorus of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodorus of Africa"
 summary: "Martyred in Africa. No other information has survived."
 searchAliases:
   - "Teodorus"
@@ -11,7 +11,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

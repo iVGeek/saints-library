@@ -1,7 +1,7 @@
 ---
 name: "Blessed José Gorastazu Labayen"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed José Gorastazu Labayen"
 summary: "Married layman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War."
 birthYear: 1907
 deathYear: 1936
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Acculus of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Acculus of Alexandria"
 summary: "Martyr."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 27
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

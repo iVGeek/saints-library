@@ -1,7 +1,7 @@
 ---
 name: "Blessed Guillermo Rubio Alonso"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Guillermo Rubio Alonso"
 summary: "Joined the Hospitallers of Saint John of God in 1894. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillermo-Rubio-Alonso.jpg"
 searchAliases:
@@ -17,9 +17,7 @@ feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

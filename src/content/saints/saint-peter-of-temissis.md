@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter of Temissis"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Peter of Temissis"
 summary: "In a Muslim controlled area, Peter was ordered to kiss the Koran; he refused. Martyr."
 deathYear: 1776
 born: "Pelopon, Greece"
@@ -14,7 +14,6 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

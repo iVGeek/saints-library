@@ -1,7 +1,7 @@
 ---
 name: "Saint Crescens of Tivoli"
 honorific: Saint
-title: "Martyr, Priest"
+title: "Saint Crescens of Tivoli"
 summary: "Child of Saint Symphorosa of Tivoli. Martyred in the persecutions of Hadrian."
 died: "martyred in Tivoli, Italy in the early 2nd century"
 deathPlace: "Italythe early 2nd century"
@@ -11,7 +11,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
 martyr: true
 ---

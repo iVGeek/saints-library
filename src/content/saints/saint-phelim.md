@@ -1,7 +1,7 @@
 ---
 name: "Saint Phelim"
 honorific: Saint
-title: "Bishop, Priest, Monk, Hermit, Confessor"
+title: "Saint Phelim"
 summary: "Sixth century spiritual student of Saint Columba. Hermit. His reputation for holiness attracted would-be students who founded the city of Kilmore, Ireland around his cell. First bishop of Kilmore."
 searchAliases:
   - "Fedhlimidh"

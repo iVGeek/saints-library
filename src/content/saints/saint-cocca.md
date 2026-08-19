@@ -1,7 +1,7 @@
 ---
 name: "Saint Cocca"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Cocca"
 summary: "The name of Kilcock, a town under his patronage, is derived from the phrase Cocca's cell, so he was presumably a monk or hermit. No other information has survived."
 searchAliases:
   - "Cox"

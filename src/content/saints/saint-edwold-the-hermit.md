@@ -1,7 +1,7 @@
 ---
 name: "Saint Edwold the Hermit"
 honorific: Saint
-title: "Martyr, Monk, Hermit"
+title: "Saint Edwold the Hermit"
 summary: "May have been the brother of Saint Edmund the Martyr. Ninth-century hermit at Cerne, Doresetshire, England, having moved there from East Anglia to avoid Danish raiders. Legend says that he lived on nothing but bread and water, and was known as a miracle worker."
 searchAliases:
   - "Edwold of East Anglia"
@@ -18,7 +18,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Hermit
 martyr: true

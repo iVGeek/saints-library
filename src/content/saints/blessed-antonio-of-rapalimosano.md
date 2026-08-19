@@ -1,7 +1,7 @@
 ---
 name: "Blessed Antonio of Rapalimosano"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Antonio of Rapalimosano"
 summary: "Franciscan lay brother. Known for the gift of healing."
 deathYear: 1514
 born: "latter 15th century in Campobasso, Italy"
@@ -13,8 +13,7 @@ feastDay:
   month: 6
   day: 27
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

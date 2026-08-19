@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Metz"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Felix of Metz"
 summary: "Third bishop of Metz, France; served for over 40 years in the 2nd century."
 searchAliases:
   - "Felice"

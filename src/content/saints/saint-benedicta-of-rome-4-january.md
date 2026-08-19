@@ -1,7 +1,7 @@
 ---
 name: "Saint Benedicta of Rome"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Benedicta of Rome"
 summary: "Nun. Martyred in the persecutions of Julian the Apostate."
 searchAliases:
   - "Benedikta"
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

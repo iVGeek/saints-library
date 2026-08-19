@@ -1,7 +1,7 @@
 ---
 name: "Saint Seleucus of Alexandria"
 honorific: Saint
-title: "Martyr"
+title: "Saint Seleucus of Alexandria"
 summary: "Student of Saint Pamphilus of Alexandria; fellow student with Saint Porphyrius of Alexandria. Seleucus applauded how strong and calm Saint Porphyrius remained under torture; this exposed him as a Christian, and he was martyred."
 deathYear: 309
 born: "Cappadocia"
@@ -12,8 +12,7 @@ feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

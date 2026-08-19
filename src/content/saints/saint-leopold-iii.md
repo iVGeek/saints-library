@@ -1,7 +1,7 @@
 ---
 name: "Saint Leopold III"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Pope, Royalty, Confessor"
+title: "Saint Leopold III"
 summary: "Grandson of Emperor Henry III. Grandfather of Frederick Barbarossa. Educated by bishop Altman of Passau, Germany. At age 23 he succeeded his father as margrave (military governor) of Austria. Married to Agnes, widowed daughter of Emperor Henry IV. She brought two children into th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leopold-III-of-Austria.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -40,7 +38,7 @@ patronage:
   - "Mariazell"
   - "Melk"
   - "Upper Austria"
-martyr: true
+martyr: false
 ---
 
 Grandson of Emperor Henry III. Grandfather of Frederick Barbarossa. Educated by bishop Altman of Passau, Germany. At age 23 he succeeded his father as margrave (military governor) of Austria. Married to Agnes, widowed daughter of Emperor Henry IV. She brought two children into the marriage, and they had eighteenof their own, eleven of whom survived. Father of Otto of Freising, who wrote Leopold's biography, and of Duke Henry II of Austria, and step-father to King Conrad III of Germany. Founded Benedictine, Cistercian and Augustinian houses in 1106, and others later in life; houses in Heiligenkreuz, Klosterneuburg, and Mariazell still exist. Defeated the Hungarians to defend his homeland. Arranged the Concordat of Worms in 1122, an agreement that ended the battle over royal versus ecclesiastical investiture. Refused the throne of the Holy Roman Emperor in 1125. Active in support of the First Crusade.

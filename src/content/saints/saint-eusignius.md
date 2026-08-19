@@ -1,7 +1,7 @@
 ---
 name: "Saint Eusignius"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Eusignius"
 summary: "Career soldier in the army of Constantius Chlorus. When Julian the Apostate renounced Christianity, he ordered all his subjects to make a sacrifice to idols. Eusignius refused. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eusignius.jpg"
 deathYear: 362
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

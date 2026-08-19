@@ -1,7 +1,7 @@
 ---
 name: "Saint Apollonius the Priest"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Apollonius the Priest"
 summary: "Fourth-century priest. Martyred with five unnamed Christians in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Apollonius-the-Priest.jpg"
 died: "drowned in Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

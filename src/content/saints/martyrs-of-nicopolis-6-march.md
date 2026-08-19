@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Nicopolis"
 honorific: Saint
-title: "Martyr"
+title: "Martyrs of Nicopolis"
 summary: "A group of Christians martyred together. No details about them have survived except the names - Alexander, Carisius (aka Catsius), Claudian (2 with this name), Diodorus, Jocundus, Mercurius, Nikephoros, Papias, Saturninus, and Viktor."
 searchAliases:
   - "Martyrs of Nikopolis"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 6
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

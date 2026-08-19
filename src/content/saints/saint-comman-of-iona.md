@@ -1,7 +1,7 @@
 ---
 name: "Saint Comman of Iona"
 honorific: Saint
-title: "Monk"
+title: "Saint Comman of Iona"
 summary: "Brother of Saint Cumine the White. Monk of Iona Abbey. Kilchoman, Islay Island, Scotland is named for him."
 deathYear: 688
 born: "Irish"

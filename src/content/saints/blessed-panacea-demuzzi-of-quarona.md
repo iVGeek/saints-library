@@ -1,7 +1,7 @@
 ---
 name: "Blessed Panacea de'Muzzi of Quarona"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Monk, Pope"
+title: "Blessed Panacea de'Muzzi of Quarona"
 summary: "Panacea's mother died when the girl was an infant. When she was old enough, Panacea worked as shepherdess. Her father re-married, but her step-mother, Margherita di Locarno Sesia, quickly developed a hatred of the girl, partly because she would not work as ordered, and partially"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Panacea-deMuzzi-of-Quarona.jpg"
 searchAliases:
@@ -20,16 +20,14 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk
-  - Pope
 patronage:
   - "Ghemme, Novara, Italy"
   - "shepherdesses"
   - "shepherds"
-martyr: true
+martyr: false
 ---
 
 Panacea's mother died when the girl was an infant. When she was old enough, Panacea worked as shepherdess. Her father re-married, but her step-mother, Margherita di Locarno Sesia, quickly developed a hatred of the girl, partly because she would not work as ordered, and partially because Panacea was a pious little girl and Margherita hated religion. The conflict culminated when Margherita murdered Panacea while the girl was at prayer.

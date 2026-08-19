@@ -1,7 +1,7 @@
 ---
 name: "Blessed John Morosini"
 honorific: Blessed
-title: "Monk"
+title: "Blessed John Morosini"
 summary: "Benedictine monk at Cux&aacute;, Catalonian Pyranees. Founded the monastery of San Giorgio Maggiiore in Venice, Italy c.982, and served as its first abbot."
 deathYear: 1012
 born: "at Venice, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Rusticus of Antioch"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Rusticus of Antioch"
 summary: "Martyr. No other information has survived."
 died: "Antioch (Antakya, Turkey)"
 deathPlace: "Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

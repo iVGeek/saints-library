@@ -1,7 +1,7 @@
 ---
 name: "Saint Gal of Clermont"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Gal of Clermont"
 summary: "Bishop of Clermont, France from 640 to 650."
 region: "France"
 feastDay:

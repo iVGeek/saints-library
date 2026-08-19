@@ -1,7 +1,7 @@
 ---
 name: "Saint Ultan of Crayke"
 honorific: Saint
-title: "Priest, Monk"
+title: "Saint Ultan of Crayke"
 summary: "Priest at the monastery of Saint Peter in Crayke, Yorkshire, England. Known as a master of book illumination."
 born: "Ireland"
 died: "8th century"

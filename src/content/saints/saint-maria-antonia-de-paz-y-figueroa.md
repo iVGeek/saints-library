@@ -1,7 +1,7 @@
 ---
 name: "Saint María Antonia de Paz y Figueroa"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope, Cardinal, Royalty"
+title: "Saint María Antonia de Paz y Figueroa"
 summary: "Raised in a pious family, Maria early felt a call to religious life, but as there were no cloistered religious congregations in the region at the time, she simply donned a black robe and moved in with some other women who felt the same call. Under the spiritual direction of Jesui"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mar%C3%ADa_Antonia_de_Paz_y_Figueroa.png"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Pope
   - Bishop
   - Priest
 religiousOrder: "Jesuit"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacobinus de Canepaci"
 honorific: Blessed
-title: "Virgin, Pope"
+title: "Blessed Jacobinus de Canepaci"
 summary: "Born poor. Carmelite lay-brother at Vercelli, Italy. Alms-beggar for his house. Noted for his great piety and devotion to the Blessed Virgin."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacobinus-de-Canepaci.jpg"
 searchAliases:
@@ -21,7 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Virgin
-  - Pope
 religiousOrder: "Carmelite"
 martyr: false
 ---

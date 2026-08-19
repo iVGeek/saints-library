@@ -1,7 +1,7 @@
 ---
 name: "Saint Felix of Cantalice"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope, Hermit, Confessor"
+title: "Saint Felix of Cantalice"
 summary: " Having little education, Felix had a friend read him th Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rubens_Felice_da_Cantalice.JPG/960px-Rubens_Felice_da_Cantalice.JPG"
 searchAliases:
@@ -23,14 +23,12 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "Cantalice, Italy"
-martyr: true
+martyr: false
 ---
 
 Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer.

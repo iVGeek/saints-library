@@ -1,7 +1,7 @@
 ---
 name: "Saint Domninus the Physician"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Domninus the Physician"
 summary: "Physician condemned to work the mines during the persecutions of Maximian. Martyr."
 searchAliases:
   - "Donnino"
@@ -13,7 +13,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

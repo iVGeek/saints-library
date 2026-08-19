@@ -1,7 +1,7 @@
 ---
 name: "Blessed Volodymyr Ivanovych Pryima"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Volodymyr Ivanovych Pryima"
 summary: "Greek Catholic. Layman, married and a father. Cantor and choir director at Stradch. Martyred with Blessed Mykola Konrad while returning from a sick call."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Volodymyr-Ivanovych-Pryima.jpg"
 birthYear: 1906
@@ -16,9 +16,7 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

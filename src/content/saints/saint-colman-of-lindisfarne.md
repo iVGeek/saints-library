@@ -1,7 +1,7 @@
 ---
 name: "Saint Colman of Lindisfarne"
 honorific: Saint
-title: "Bishop, Monk, Royalty"
+title: "Saint Colman of Lindisfarne"
 summary: "Spiritual student and disciple of Saint Columba. Monk at Iona. Bishop of Lindisfarne, England in 661. Friend of king Oswy of Northumbria. Defended Celtic church practices against Saint Eilfrid and Saint Agilbert at the Synod of Whitby, and when King Oswy insisted on the use of La"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Lindisfarne.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-  - Royalty
 martyr: false
 ---
 

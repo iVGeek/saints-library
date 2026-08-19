@@ -1,7 +1,7 @@
 ---
 name: "Saint Diocles of Istria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Diocles of Istria"
 summary: "Early martyr in the Istria peninsula."
 region: "England"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

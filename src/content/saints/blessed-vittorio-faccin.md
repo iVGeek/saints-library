@@ -1,7 +1,7 @@
 ---
 name: "Blessed Vittorio Faccin"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal, Royalty"
+title: "Blessed Vittorio Faccin"
 summary: "Vittorio grew up in the countryside of Modena, Italy. He joined the Xaverian Missionaries in 1950 at age 16, making his solemn profession as a lay brother on 8 December 1962. Assigned to Baraka, Fizi, Sud-Kivu, Democratic Republic of Congo in December 1959, working with the sick"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Vittorio-Faccin.jpg"
 birthYear: 1934
@@ -16,10 +16,7 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
-  - Royalty
 martyr: true
 ---
 

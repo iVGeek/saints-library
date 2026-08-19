@@ -1,7 +1,7 @@
 ---
 name: "Saint Ailvin of Armorica"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Ailvin of Armorica"
 summary: "Sixth century hermit in Armorica, France. One of the Breton Missionaries to Britain."
 searchAliases:
   - "Ilvinus"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Catherine de Solaguti"
 honorific: Blessed
-title: "Religious"
+title: "Blessed Catherine de Solaguti"
 summary: "Mercedarian nun at the convent of Jesus and Mary in Orozco, Spain."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-de-Solaguti.jpg"
 region: "Spain"

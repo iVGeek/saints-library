@@ -1,7 +1,7 @@
 ---
 name: "Saint Saturninus of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Saturninus of Caesarea"
 summary: "Martyr."
 died: "Caesarea, Cappadocia (in modern Turkey)"
 deathPlace: "Cappadocia (modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

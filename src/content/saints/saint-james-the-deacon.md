@@ -1,7 +1,7 @@
 ---
 name: "Saint James the Deacon"
 honorific: Saint
-title: "Monk, Deacon, Missionary"
+title: "Saint James the Deacon"
 summary: "Benedictine monk. Deacon. Missionary with Saint Paulinus of York to Northumbria, England."
 region: "Italy"
 feastDay:

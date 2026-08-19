@@ -1,7 +1,7 @@
 ---
 name: "Saint Ulric of Augsburg"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Pope, Confessor"
+title: "Saint Ulric of Augsburg"
 summary: "Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to his uncle Blessed Adalbero, bishop of Augsbu"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ulric-of-Augsburg.jpg"
 searchAliases:
@@ -25,8 +25,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Priest
   - Confessor
@@ -52,7 +50,7 @@ patronage:
   - "Klosterneuburg, Austria"
   - "Ovasta, Ovaro, Italy"
   - "Paderborn, Germany, archdiocese of"
-martyr: true
+martyr: false
 ---
 
 Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to his uncle Blessed Adalbero, bishop of Augsburg. Priest. Bishop of Augsburg on 28 December 923.

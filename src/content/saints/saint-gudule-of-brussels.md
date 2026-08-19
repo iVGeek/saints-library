@@ -1,7 +1,7 @@
 ---
 name: "Saint Gudule of Brussels"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious"
+title: "Saint Gudule of Brussels"
 summary: "Daughter of Count Witger and Saint Amalburga; great-niece of Emperor Pepin; sister of Saint Pharaildis of Ghent, Saint Reineldis, and Saint Emebert of Cambrai. Niece and student of Saint Gertrude of Nivelle, who trained her in the religious life. The girl then returned to live at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gudule-of-Brussels.jpg"
 searchAliases:

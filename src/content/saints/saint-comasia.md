@@ -1,7 +1,7 @@
 ---
 name: "Saint Comasia"
 honorific: Saint
-title: "Martyr, Pope, Cardinal"
+title: "Saint Comasia"
 summary: "Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Comasia.jpg"
 died: "3rd century Rome, Italy"
@@ -12,8 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 patronage:
   - "against drought"

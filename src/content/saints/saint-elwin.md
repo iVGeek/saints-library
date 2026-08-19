@@ -1,7 +1,7 @@
 ---
 name: "Saint Elwin"
 honorific: Saint
-title: "Monk, Missionary"
+title: "Saint Elwin"
 summary: "Missionary who worked with Saint Breaca in Cornwall."
 searchAliases:
   - "Allan"

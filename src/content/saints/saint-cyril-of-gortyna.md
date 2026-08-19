@@ -1,7 +1,7 @@
 ---
 name: "Saint Cyril of Gortyna"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Cyril of Gortyna"
 summary: "Elderly bishop of Gortyna, Crete. Tortured and martyred in the persecutions of Decius."
 deathYear: 250
 died: "beheaded in 250"
@@ -10,7 +10,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

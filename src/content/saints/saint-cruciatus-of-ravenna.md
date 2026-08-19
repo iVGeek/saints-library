@@ -1,7 +1,7 @@
 ---
 name: "Saint Cruciatus of Ravenna"
 honorific: Saint
-title: "Martyr"
+title: "Saint Cruciatus of Ravenna"
 summary: "Martyr."
 searchAliases:
   - "Martharus"
@@ -13,8 +13,7 @@ feastDay:
   month: 6
   day: 18
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

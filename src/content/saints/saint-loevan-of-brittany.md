@@ -1,7 +1,7 @@
 ---
 name: "Saint Loëvan of Brittany"
 honorific: Saint
-title: "Monk"
+title: "Saint Loëvan of Brittany"
 summary: "Monk and then abbot of the monastery of Saint Tudwals of Tréguier in Brittany (in modern France) c.528 to c.564 from where he evangalized the region."
 searchAliases:
   - "Laouénan"

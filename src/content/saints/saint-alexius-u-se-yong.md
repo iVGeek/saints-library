@@ -1,7 +1,7 @@
 ---
 name: "Saint Alexius U Se-Yong"
 honorific: Venerable
-title: "Martyr, Bishop, Pope"
+title: "Saint Alexius U Se-Yong"
 summary: "Young layman, born to the wealthy nobility in the apostolic vicariate of Korea. Having become interested in Christianity, he met with Saint Siméon-François Berneux, and Saint Marcus Chong Ui-Bae served as his catechist. Convert. His family was strongly opposed to Christianity, an"
 image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
 searchAliases:
@@ -21,9 +21,7 @@ feastDay:
   day: 11
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Bishop
-  - Pope
 martyr: true
 ---
 

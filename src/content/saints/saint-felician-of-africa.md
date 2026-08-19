@@ -1,7 +1,7 @@
 ---
 name: "Saint Felician of Africa"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Felician of Africa"
 summary: "Marytred with 125 companions. No other information has survived."
 born: "African"
 region: "England"
@@ -10,9 +10,8 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Marytred with 125 companions. No other information has survived.

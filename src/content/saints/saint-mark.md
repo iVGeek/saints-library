@@ -1,7 +1,7 @@
 ---
 name: "Saint Mark"
 honorific: Saint
-title: "Martyr, Priest, Monk, Deacon"
+title: "Saint Mark"
 summary: "Son of Saint Tranquillinus of Rome who raised him a pagan before his own conversion. Twin brother of Saint Marcellian. Convert to Christianity. May have been a deacon. Imprisoned for his faith during the persecutions of Maximian Herculeus. Visited in prison by Saint Sebastian who"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Marcus-and-Marcellianus-Martyrs.jpg"
 searchAliases:
@@ -14,7 +14,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Deacon

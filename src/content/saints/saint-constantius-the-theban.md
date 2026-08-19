@@ -1,7 +1,7 @@
 ---
 name: "Saint Constantius the Theban"
 honorific: Saint
-title: "Martyr, Bishop, Royalty, Soldier"
+title: "Saint Constantius the Theban"
 summary: "Traditionally a soldier, a member of the Theban Legion who survived the massacre and gave a Christian burial to his brother Legionnaires who were martyred. He then dedicated himself to spreading the faith in Italy, working from Villar San Costanzo. Martyr."
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Constantius-the-Theban.jpg"
 searchAliases:
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
   - Soldier
 patronage:
   - "in Italy\n\nSaluzzo, Italy, city of"

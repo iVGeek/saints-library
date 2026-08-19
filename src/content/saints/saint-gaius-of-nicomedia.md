@@ -1,7 +1,7 @@
 ---
 name: "Saint Gaius of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Gaius of Nicomedia"
 summary: "Officer in the Roman emperor's palace. Martyred with 27 companions."
 searchAliases:
   - "Caius"
@@ -15,7 +15,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

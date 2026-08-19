@@ -1,7 +1,7 @@
 ---
 name: "Saint Honorius of Buzançais"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Honorius of Buzançais"
 summary: "Wealthy layman cattle merchant noted for his love of life and his charity. When he returned from a trip, he found his servants had robbed him. As he was explaining the sinfulness of this action, they killed him. Because he was killed while reproving sinners for their crimes, he i"
 searchAliases:
   - "Honorius of Buzançay"
@@ -19,9 +19,7 @@ feastDay:
   month: 1
   day: 9
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

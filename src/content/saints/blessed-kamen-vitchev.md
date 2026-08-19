@@ -1,7 +1,7 @@
 ---
 name: "Blessed Kamen Vitchev"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Kamen Vitchev"
 summary: "Born to a pious, orthodox Eastern Rite family, Peter was educated in Strem (in modern Austria) and Adrianopolis (modern Edirne, Turkey). He joined the Congregation of the Assumption on 8 September 1910 in Gemp, taking the name Kamen. Professor at the College of Saint Augustine in"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Monument_to_Kamen_Vitchev.jpg"
 searchAliases:
@@ -17,10 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Caramnan"
 honorific: Saint
-title: "Martyr"
+title: "Saint Caramnan"
 summary: "No information has survived."
 searchAliases:
   - "Carmnan"
@@ -10,9 +10,8 @@ feastDay:
   month: 7
   day: 20
 canonizationStatus: Saint
-vocation:
-  - Martyr
-martyr: true
+vocation: []
+martyr: false
 ---
 
 No information has survived.

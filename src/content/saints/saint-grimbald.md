@@ -1,7 +1,7 @@
 ---
 name: "Saint Grimbald"
 honorific: Saint
-title: "Bishop, Priest, Monk, Royalty"
+title: "Saint Grimbald"
 summary: "Benedictine monk, and prior of Saint Bertin monastery. Alfred of England was impressed with the man's holiness, and when he ascended the throne, Alfred asked Grimbald to come to England to share his knowledge and holiness. Grimbald arrived in England around 885, and impressed man"
 deathYear: 901
 born: "9th century Flanders, Belgium"
@@ -16,7 +16,6 @@ vocation:
   - Bishop
   - Priest
   - Monk
-  - Royalty
 religiousOrder: "Benedictine"
 martyr: false
 ---

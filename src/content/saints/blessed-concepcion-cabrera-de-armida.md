@@ -1,7 +1,7 @@
 ---
 name: "Blessed Concepcion Cabrera de Armida"
 honorific: Blessed
-title: "Bishop, Religious, Pope, Cardinal"
+title: "Blessed Concepcion Cabrera de Armida"
 summary: "Born during the Mexican Civil War, she grew up during the Revolution and the religious persecutions that were a part of it. Lay woman, married 22 years to the same man. Mother of nine children. Widowed at age 39. Grandmother. Founder of the Obra de la Cruz (Work of the Cross) whi"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Concepcion-Cabrera-de-Armida.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-  - Pope
   - Cardinal
 martyr: false
 ---

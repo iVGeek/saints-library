@@ -1,7 +1,7 @@
 ---
 name: "Saint Lucas Alonso Gorda"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Missionary"
+title: "Saint Lucas Alonso Gorda"
 summary: "Dominican missionary priest. Martyr."
 searchAliases:
   - "Father Lucas of the Holy Spirit"
@@ -19,9 +19,7 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

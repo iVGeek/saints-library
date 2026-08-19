@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isaac Carrascal Moso"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Isaac Carrascal Moso"
 summary: "Member of the Claretians, professed on 15 August 1915. Ordained a priest on 26 May 1923. Martyred in the Spanish Civil War."
 birthYear: 1896
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

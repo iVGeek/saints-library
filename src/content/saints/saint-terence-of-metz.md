@@ -1,7 +1,7 @@
 ---
 name: "Saint Terence of Metz"
 honorific: Saint
-title: "Bishop, Priest"
+title: "Saint Terence of Metz"
 summary: "Priest. 17th bishop of Metz, France. A noted scholar, he fought for orthodox doctines."
 searchAliases:
   - "Terentius"

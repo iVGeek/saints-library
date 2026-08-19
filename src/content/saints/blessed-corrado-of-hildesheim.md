@@ -1,7 +1,7 @@
 ---
 name: "Blessed Corrado of Hildesheim"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Corrado of Hildesheim"
 summary: "Franciscan friar in 13th century Prussia remembered for his virtuous life and as a miracle worker."
 searchAliases:
   - "Conrad"
@@ -15,8 +15,7 @@ feastDay:
   month: 12
   day: 20
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 martyr: false
 ---

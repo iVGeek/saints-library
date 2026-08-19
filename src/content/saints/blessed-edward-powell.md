@@ -1,7 +1,7 @@
 ---
 name: "Blessed Edward Powell"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope, Royalty"
+title: "Blessed Edward Powell"
 summary: "Educated at Oxford; Fellow of Oriel in 1495. Doctor of Divinity in 1506. Rector of Bleadon, Somerset, England. Priest. Prebendary of Centum Solidorum in Lincoln, England, of Carlton-cum-Thurlby in 1505, of Sutton-in-Marisco in 1525, and of other parishes. Canon of Salisbury. Auth"
 searchAliases:
   - "Edward Powel"
@@ -16,11 +16,8 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
-  - Royalty
 martyr: true
 ---
 

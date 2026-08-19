@@ -1,7 +1,7 @@
 ---
 name: "Saint Zoticus of Constantinople"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Zoticus of Constantinople"
 summary: "Wealthy noble Roman citizen. He first surrendered his position to become a priest, and then gave away his worldly wealth to the poor and lived to work for his parishioners. When Emperor Constantine the Great transferred the capital of his empire from Rome to Constantinople, Zotic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zoticus-of-Constantinople.jpg"
 searchAliases:
@@ -16,7 +16,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

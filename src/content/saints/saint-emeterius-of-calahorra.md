@@ -1,7 +1,7 @@
 ---
 name: "Saint Emeterius of Calahorra"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Emeterius of Calahorra"
 summary: "Soldier in Imperial Roman army in Spain. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emeterius-of-Calahorra.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

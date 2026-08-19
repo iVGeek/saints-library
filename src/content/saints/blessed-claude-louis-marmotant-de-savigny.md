@@ -1,7 +1,7 @@
 ---
 name: "Blessed Claude-Louis Marmotant de Savigny"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Claude-Louis Marmotant de Savigny"
 summary: "Priest of the diocese of Meaux, France. One of the Martyrs of September."
 birthYear: 1748
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

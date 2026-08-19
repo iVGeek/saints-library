@@ -1,7 +1,7 @@
 ---
 name: "Blessed Filippa Mareri"
 honorific: Blessed
-title: "Religious, Pope, Hermit"
+title: "Blessed Filippa Mareri"
 summary: "After having met Saint Francis of Assisi in her parents' home, she became a hermit on a mountain above Mareri, Italy. Poor Clare nun. Founded a Franciscan convent in Rieti, Italy with the help of Blessed Roger of Todi. Abbess."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Filippa-Mareri-1.jpg"
 searchAliases:
@@ -19,7 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
   - Hermit
 religiousOrder: "Franciscan"
 martyr: false

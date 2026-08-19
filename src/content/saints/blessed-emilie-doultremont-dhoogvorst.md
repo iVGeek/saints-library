@@ -1,7 +1,7 @@
 ---
 name: "Blessed Émilie d'Oultremont d'Hoogvorst"
 honorific: Blessed
-title: "Religious, Pope, Royalty"
+title: "Blessed Émilie d'Oultremont d'Hoogvorst"
 summary: "Born to the nobility, the daughter of Count d'Emile Oultremont de Wégimont a de Warfusée, a diplomat who represented King Leopold I to the Vatican. From childhood Émilie had a great devotion to the Eucharist and the Sacred Heart of Jesus; she later developed a great admiration of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-dOultremont-dHoogvorst.jpg"
 searchAliases:
@@ -22,8 +22,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: false
 ---

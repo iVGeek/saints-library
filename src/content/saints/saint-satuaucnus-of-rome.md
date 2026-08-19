@@ -1,7 +1,7 @@
 ---
 name: "Saint Satuaucnus of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Satuaucnus of Rome"
 died: "Rome, Italy, date unknown"
 deathPlace: "Italy, date unknown"
 region: "Italy"
@@ -10,7 +10,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

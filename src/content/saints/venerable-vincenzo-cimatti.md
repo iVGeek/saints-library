@@ -1,7 +1,7 @@
 ---
 name: "Venerable Vincenzo Cimatti"
 honorific: Venerable
-title: "Bishop, Priest, Religious, Pope"
+title: "Venerable Vincenzo Cimatti"
 summary: "Raised in a pious family; his brother became a priest, his sister a nun. His father died when Vincenzo was three years old. He studied at the Salesian Oratory near his home, concentrating on science, philosophy and music, and joined the Salesians himself at age 16. Priest. Leader"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Cimatti.jpg"
 birthYear: 1871
@@ -19,7 +19,6 @@ vocation:
   - Bishop
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Salesian"
 martyr: false
 ---

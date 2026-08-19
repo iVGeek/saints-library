@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Chirivas Lacamba"
 honorific: Blessed
-title: "Martyr, Pope, Royalty"
+title: "Blessed Gregorio Chirivas Lacamba"
 summary: "Claretians co-adjutor brother, making his profession in 1897, and serving his community as sacristan and tailor. Martyred in the Spanish Civil War."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Chirivas-Lacamba.jpg"
 birthYear: 1880
@@ -15,10 +15,7 @@ feastDay:
   month: 8
   day: 12
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
-  - Royalty
+vocation: []
 martyr: true
 ---
 

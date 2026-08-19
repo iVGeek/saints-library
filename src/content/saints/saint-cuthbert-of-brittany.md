@@ -1,7 +1,7 @@
 ---
 name: "Saint Cuthbert of Brittany"
 honorific: Saint
-title: "Saint"
+title: "Saint Cuthbert of Brittany"
 summary: "No information has survived."
 searchAliases:
   - "Cuthbertus"
@@ -12,8 +12,7 @@ feastDay:
   month: 3
   day: 19
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 martyr: false
 ---
 

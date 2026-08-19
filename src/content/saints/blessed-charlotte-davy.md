@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charlotte Davy"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Charlotte Davy"
 summary: "Lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
 searchAliases:
   - "Carole Davy"
@@ -16,9 +16,7 @@ feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

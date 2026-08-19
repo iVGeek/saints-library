@@ -1,7 +1,7 @@
 ---
 name: "Saint Cera of Kilkeary"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Cera of Kilkeary"
 summary: "Nun. Spiritual student of Saint Fintan Minnu. Abbess of a monastery at Tehelly, Ireland. Founder and abbess of a house near Nenagh, County Tipperary. Ireland. Kilkeary, Ireland is named in her honour."
 searchAliases:
   - "Cail"

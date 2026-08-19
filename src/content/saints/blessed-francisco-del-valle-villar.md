@@ -1,7 +1,7 @@
 ---
 name: "Blessed Francisco del Valle Villar"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Francisco del Valle Villar"
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Leon Justino"
@@ -16,9 +16,7 @@ feastDay:
   month: 12
   day: 2
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

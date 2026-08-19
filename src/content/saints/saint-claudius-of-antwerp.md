@@ -1,7 +1,7 @@
 ---
 name: "Saint Claudius of Antwerp"
 honorific: Saint
-title: "Martyr, Pope"
+title: "Saint Claudius of Antwerp"
 summary: "Martyr. We have no other information about his life."
 searchAliases:
   - "Claudio"
@@ -12,9 +12,7 @@ feastDay:
   month: 5
   day: 14
 canonizationStatus: Saint
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Jesuit"
 martyr: true
 ---

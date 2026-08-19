@@ -1,7 +1,7 @@
 ---
 name: "Blessed Anna Kolesárová"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Soldier"
+title: "Blessed Anna Kolesárová"
 summary: "Daughter of Ján “Hruška” Kolesár and  Anna (née Kušnírová), she was born into a pious farming family and baptized at the age of one day. Anna's mother died when the girl was ten years old, and she did her best to run the household for her father and brother, Michal. When Russian"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Anna_Koles%C3%A1rov%C3%A1.png"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Soldier
 martyr: true

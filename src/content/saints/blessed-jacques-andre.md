@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jacques André"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Pope"
+title: "Blessed Jacques André"
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."
 birthYear: 1743
 deathYear: 1794
@@ -16,10 +16,8 @@ feastDay:
 canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Jacques_Andr%C3%A9_en_mai_1946.jpg"
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Pope
 martyr: true
 ---
 

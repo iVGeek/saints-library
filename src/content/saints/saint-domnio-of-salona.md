@@ -1,7 +1,7 @@
 ---
 name: "Saint Domnio of Salona"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Soldier, Missionary"
+title: "Saint Domnio of Salona"
 summary: "One of the 72 disciples sent by Christ in His early ministry. Travelled to Rome, Italy with Saint Peter the Apostle. Missionary to Dalmatia. First bishop of Salona. Martyr with eight soldiers he had brought to the Faith."
 searchAliases:
   - "Domnione"
@@ -15,7 +15,6 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
   - Soldier

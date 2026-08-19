@@ -1,7 +1,7 @@
 ---
 name: "Blessed Abelardo García Palacios"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Abelardo García Palacios"
 summary: "Claretian cleric. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Abelardo-Garcia-Palacios.jpg"
 birthYear: 1913
@@ -15,9 +15,7 @@ feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

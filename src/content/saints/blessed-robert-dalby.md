@@ -1,7 +1,7 @@
 ---
 name: "Blessed Robert Dalby"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Confessor"
+title: "Blessed Robert Dalby"
 summary: "Protestant minister. Convert to Catholicism. Studied in Douai and Rheims in France. Ordained in 1588, he returned to England to minister to covert Catholics. Arrested for the crime of priesthood in 1589, he was martyred with Blessed John Amias."
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Blessed-john-amias-and-robert-dalby.png"
 deathYear: 1589
@@ -15,9 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Confessor
 martyr: true
 ---

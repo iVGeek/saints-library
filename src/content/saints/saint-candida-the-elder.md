@@ -1,7 +1,7 @@
 ---
 name: "Saint Candida the Elder"
 honorific: Saint
-title: "Monk"
+title: "Saint Candida the Elder"
 summary: "An elderly woman in Naples, Italy who was healed of an illness by Saint Peter the Apostle. She converted and was baptized by Peter. She, in turn, brought Saint Aspren of Naples to the faith."
 died: "78 of natural causes"
 region: "Italy"

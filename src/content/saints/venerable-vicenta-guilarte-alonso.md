@@ -1,7 +1,7 @@
 ---
 name: "Venerable Vicenta Guilarte Alonso"
 honorific: Venerable
-title: "Priest, Religious, Pope, Missionary"
+title: "Venerable Vicenta Guilarte Alonso"
 summary: "Baptized at the age of two days, Vicenta early felt a call to religious life. She started her notiviate on 25 October 1901 in Salmanca, Spain, and made her solemn profession in the Daughters of Jesus on 8 December 1909. She and five sister Daughters left Spain on 30 September 191"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Vicenta-Guilarte-Alonso.jpg"
 birthYear: 1879
@@ -15,7 +15,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
   - Missionary
 martyr: false
 ---

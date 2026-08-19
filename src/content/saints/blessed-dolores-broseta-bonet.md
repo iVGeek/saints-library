@@ -1,7 +1,7 @@
 ---
 name: "Blessed Dolores Broseta Bonet"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Dolores Broseta Bonet"
 summary: "One of six children born to Joaquín and María, a laboring family; two of her siblings died as small children. She was educated by the Daughters of Charity, was a member of the Daughters of Mary of the Miraculous Medal, and in her late teens began to feel a call to religious life."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dolores-Broseta-Bonet.jpg"
 birthYear: 1892
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

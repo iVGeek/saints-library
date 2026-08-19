@@ -1,7 +1,7 @@
 ---
 name: "Saint Elfgete of Croyland"
 honorific: Saint
-title: "Martyr, Monk, Deacon"
+title: "Saint Elfgete of Croyland"
 summary: "Monk at Croyland Abbey. Deacon. Martyred by pagan Danes."
 searchAliases:
   - "Elfgete of Crowland"
@@ -14,7 +14,6 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Deacon
 martyr: true

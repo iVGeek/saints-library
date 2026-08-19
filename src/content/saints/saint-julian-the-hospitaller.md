@@ -1,7 +1,7 @@
 ---
 name: "Saint Julian the Hospitaller"
 honorific: Saint
-title: "Royalty, Soldier"
+title: "Saint Julian the Hospitaller"
 summary: "Noble layman; friend and counselor to the king, he was married to a wealthy widow. A stag he was hunting predicted he would kill his own parents. Julian moved far away to avoid his parents, but they found him, and came to make a surprise visit. His wife gave them her and Julian's"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Saintjulianghirlandaio.JPG"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Royalty
   - Soldier
 patronage:
   - "boatmen"

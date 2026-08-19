@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carlos de Dios Murias"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Carlos de Dios Murias"
 summary: "Carlos studied civil engineering until he gave in to a call to religious life and the priesthood. Member of the Order of Friars Minor Conventual. Ordained a priest in the diocese of La Rioja, Argentina by Blessed Enrique Angelelli on 17 December 1972. Member of the Third World Mo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-de-Dios-Murias.jpg"
 birthYear: 1945
@@ -16,9 +16,7 @@ feastDay:
   day: 18
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

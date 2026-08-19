@@ -1,7 +1,7 @@
 ---
 name: "Saint Philip of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Philip of Alexandria"
 summary: "Martyr."
 died: "early 4th-century in Alexandria, Egypt"
 deathPlace: "Egypt"
@@ -11,7 +11,6 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pierre-Michel Guérin"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Pierre-Michel Guérin"
 summary: "Sulpician priest. One of the Martyrs of September."
 birthYear: 1759
 deathYear: 1792
@@ -15,9 +15,7 @@ feastDay:
   day: 2
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Carmelite"
 martyr: true
 ---

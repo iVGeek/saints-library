@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Edessa"
 honorific: Saint
-title: "Monk"
+title: "Saint John of Edessa"
 summary: "Monk at Edessa, Syria. Longtime friend of Saint Simeon Salus."
 born: "6th century Syrian"
 region: "Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Dathus of Ravenna"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk"
+title: "Saint Dathus of Ravenna"
 summary: "Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove miraculously appeared over his head during the deliberations."
 searchAliases:
   - "Dato"
@@ -15,11 +15,10 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove miraculously appeared over his head during the deliberations.

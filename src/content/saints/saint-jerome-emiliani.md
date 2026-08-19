@@ -1,7 +1,7 @@
 ---
 name: "Saint Jerome Emiliani"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty, Soldier, Confessor"
+title: "Saint Jerome Emiliani"
 summary: "Born wealthy, the son of Angelo and Eleanor Mauroceni Emiliani. His father died when Jerome was a teenager, and he ran away from home at age 15. After a dissolute youth, he became a soldier in Venice, Italy in 1506. Commanded the League of Cambrai forces at the fortress of Castel"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Emiliani-1.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Pope
   - Priest
   - Confessor
 religiousOrder: "Franciscan"

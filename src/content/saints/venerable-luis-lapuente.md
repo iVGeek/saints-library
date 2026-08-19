@@ -1,7 +1,7 @@
 ---
 name: "Venerable Luis Lapuente"
 honorific: Venerable
-title: "Priest, Monk, Pope"
+title: "Venerable Luis Lapuente"
 summary: "Studied at the Dominican university of San Gregorio. Jesuit. Ordained in 1580. Taught philosophy at the University of Salamanca in Spain. An excellent administrator and novice master, he was forced to withdraw from active positions due to poor health. Worked in Villagarcia during"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-Lapuente.jpg"
 searchAliases:
@@ -25,7 +25,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-  - Pope
 religiousOrder: "Jesuit"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodemir of Cordoba"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Theodemir of Cordoba"
 summary: "Monk in Moorish-controlled Andalusia. Martyred in the persecutions of Abderrahman II."
 searchAliases:
   - "Teodemiro"
@@ -14,7 +14,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

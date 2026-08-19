@@ -1,7 +1,7 @@
 ---
 name: "Saint Leo of the Agro Verano"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Leo of the Agro Verano"
 summary: "Married. Adult convert to Christianity. Bishop. Martyred by Arians."
 died: "Agro Verano, Rome, Italy, date unknown"
 deathPlace: "Rome, Italy, date unknown"
@@ -11,7 +11,6 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
 martyr: true

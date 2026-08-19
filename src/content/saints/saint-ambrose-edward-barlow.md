@@ -1,7 +1,7 @@
 ---
 name: "Saint Ambrose Edward Barlow"
 honorific: Venerable
-title: "Martyr, Priest, Pope"
+title: "Saint Ambrose Edward Barlow"
 summary: "Fourth son of Sir Alexander Barlow and Mary Brereton. Baptized Catholic on 30 November 1585, he was raised as a Protestant, but as an adult he returned to Catholicism. Educated at the College of Saint Gregory, Douai, France, and the Royal College of Saint Alban in Valladolid, Spa"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ambrose-Edward-Barlow.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
 religiousOrder: "Benedictine"
 martyr: true
 ---

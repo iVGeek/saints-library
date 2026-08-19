@@ -1,7 +1,7 @@
 ---
 name: "Saint Offa of Benevento"
 honorific: Saint
-title: "Monk, Religious"
+title: "Saint Offa of Benevento"
 summary: "Benedictine nun and abbess at Saint Peter's convent, Benevento, Italy."
 deathYear: 1070
 died: "c.1070 of natural causes"

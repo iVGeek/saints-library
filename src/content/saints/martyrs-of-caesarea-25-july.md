@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Caesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Caesarea"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Caesarea.jpg"
 deathYear: 309
 died: "309 in Caesarea, Palestine"
@@ -12,7 +12,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---

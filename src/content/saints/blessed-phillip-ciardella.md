@@ -1,7 +1,7 @@
 ---
 name: "Blessed Phillip Ciardella"
 honorific: Blessed
-title: "Saint"
+title: "Blessed Phillip Ciardella"
 summary: "Francsican friar."
 searchAliases:
   - "Phillip of Castelli"
@@ -12,8 +12,7 @@ feastDay:
   month: 4
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Saint
+vocation: []
 religiousOrder: "Franciscan"
 patronage:
   - "Montecalcino, Italy"

@@ -1,7 +1,7 @@
 ---
 name: "Saint Eustachius"
 honorific: Saint
-title: "Martyr, Priest, Monk, Soldier"
+title: "Saint Eustachius"
 summary: "Pagan Roman general in the army of the emperor Trajan. Converted to Christianity following a hunting trip during which he saw a glowing cross between the antlers of a stag, after which he received a prophecy that he would suffer for Christ. He was baptized with his wife, Saint Th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eustachius1.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
   - Soldier

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Marino Blanes Giner"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed Marino Blanes Giner"
 summary: "Baptized on the day of his birth and confirmed on 8 August 1902, all in his parish church of Santa Maria in the archdiocese of Valencia, Spain. A lifelong layman, he worked at a bank, served as a catechist, and was married to Julia Jordá Llovet on 26 September 1913. Father of fiv"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marino-Blanes-Giner.jpg"
 birthYear: 1888
@@ -16,10 +16,8 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Franciscan"
 martyr: true
 ---

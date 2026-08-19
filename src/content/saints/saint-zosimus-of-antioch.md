@@ -1,14 +1,13 @@
 ---
 name: "Saint Zosimus of Antioch"
 honorific: Saint
-title: "Martyr"
+title: "Saint Zosimus of Antioch"
 summary: "Martyr. No other information has survived."
 feastDay:
   month: 6
   day: 1
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Ida of Herzfeld"
 honorific: Saint
-title: "Priest, Monk, Pope, Royalty"
+title: "Saint Ida of Herzfeld"
 summary: "Great-granddaughter of Charlemagne, and grew up in his court. Married to Lord Egbert by arrangement of the emperor. Mother of one son, Warin, who became a monk at Corvey. Widowed very young in 811, she spent the rest of her life single, working for the poor. Reported to have fill"
 image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Ida_von_Herzfeld.jpg"
 deathYear: 813
@@ -14,8 +14,6 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-  - Pope
-  - Royalty
 patronage:
   - "brides"
   - "widows"

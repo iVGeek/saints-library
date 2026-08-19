@@ -1,7 +1,7 @@
 ---
 name: "Saint Niceta"
 honorific: Saint
-title: "Martyr, Monk, Religious"
+title: "Saint Niceta"
 summary: "Sister of Saint Aquilina. Third-century convert, brought to the faith by Saint Christopher. Martyr."
 region: "Italy"
 feastDay:
@@ -9,7 +9,6 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Religious
 martyr: true

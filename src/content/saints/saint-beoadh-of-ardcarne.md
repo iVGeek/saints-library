@@ -1,7 +1,7 @@
 ---
 name: "Saint Beoadh of Ardcarne"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Beoadh of Ardcarne"
 summary: "Sixth-century bishop of Ardcarne, Roscommon, Ireland."
 searchAliases:
   - "Beoadh of Roscommon"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicholas Garlick"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Royalty"
+title: "Blessed Nicholas Garlick"
 summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
 birthYear: 1555
 deathYear: 1588
@@ -15,10 +15,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 martyr: true
 ---
 

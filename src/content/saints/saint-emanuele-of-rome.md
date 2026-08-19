@@ -1,7 +1,7 @@
 ---
 name: "Saint Emanuele of Rome"
 honorific: Saint
-title: "Martyr"
+title: "Saint Emanuele of Rome"
 summary: "Martyr."
 died: "Rome, Italy in the early days of the Church"
 deathPlace: "Italythe early days of the Church"
@@ -10,8 +10,7 @@ feastDay:
   month: 5
   day: 30
 canonizationStatus: Saint
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

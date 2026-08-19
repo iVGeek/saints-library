@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bertrand of Grand-Selve"
 honorific: Blessed
-title: "Monk"
+title: "Blessed Bertrand of Grand-Selve"
 summary: "Monk known for daily Gospel study and meditation; he was known to have heavenly visions during Mass. Noted preacher who travelled to southern France to work against the Albigensian heretics; the Albigensians forced him to flee to Italy for two years for his own safety. Reforming"
 searchAliases:
   - "Bertrando"

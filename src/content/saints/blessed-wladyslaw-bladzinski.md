@@ -1,7 +1,7 @@
 ---
 name: "Blessed Wladyslaw Bladzinski"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Wladyslaw Bladzinski"
 summary: "Priest. Member of the Congregation of Saint Michael the Archangel. During the Nazi persecutions of World War II he was imprisoned in a concentration camp, set to forced labour in a stone quarry, and eventually murdered. Martyr."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Wladyslaw-Bladzinski.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Peter Verona"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Pope, Soldier"
+title: "Saint Peter Verona"
 summary: "Son of Catharist heretics. Educated in a Catholic school and at the University of Bologna, Italy. Embraced orthodox Catholicism upon hearing the teaching of Saint Dominic. Became a Dominican at age 16, received into the Order by Saint Dominic. Prior of the Dominican house in Como"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-of-Verona-01.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Priest
 religiousOrder: "Dominican"
 patronage:
@@ -34,7 +32,7 @@ patronage:
   - "Castelleone di Suasa"
   - "Verona, city of"
   - "Verona, diocese of"
-martyr: true
+martyr: false
 ---
 
 Son of Catharist heretics. Educated in a Catholic school and at the University of Bologna, Italy. Embraced orthodox Catholicism upon hearing the teaching of Saint Dominic. Became a Dominican at age 16, received into the Order by Saint Dominic. Prior of the Dominican house in Como, Italy. Priest. Noted and inspiring preacher in the Lombard region, he spoke often against the Catharists. Called a “Second Paul” because he turned from heresy and tried to convert his former confreres. Inquisitor for northern Italy c.1234, appointed by Pope Gregory IX. Assigned to preach against Manichaeanism, he evangelized throughout Italy. Murdered by Catharists on the road. Miracle worker.

@@ -1,7 +1,7 @@
 ---
 name: "Venerable Bernardo Maria Clausi"
 honorific: Venerable
-title: "Priest, Pope, Soldier"
+title: "Venerable Bernardo Maria Clausi"
 summary: "Born to the Italian nobility, Bernard joined the Order of Minims at age 15, but the monastery was soon closed by the anti-Catholic forces of the French Revolution. He was drafted into the military but continued to live his faith as well as he could. Back in civilian life, he fini"
 image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Bernardo-Maria-Clausi.jpg"
 birthYear: 1789
@@ -17,7 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Priest
-  - Pope
   - Soldier
 martyr: false
 ---

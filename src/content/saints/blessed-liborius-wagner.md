@@ -1,7 +1,7 @@
 ---
 name: "Blessed Liborius Wagner"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope"
+title: "Blessed Liborius Wagner"
 summary: "Raised a Protestant, he studied in Mühlhausen, Leipzig, Gotha and Strasbourg, then in 1621 began studying with Jesuits in Würzburg, Germany where he converted to Catholicism. Ordained on 29 March 1625, Liborius served as chaplain in Hardheim, Germany, then as parish priest at Alt"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Liborius_Wagner.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Jesuit"
 martyr: true
 ---

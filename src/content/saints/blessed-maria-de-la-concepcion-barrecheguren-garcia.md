@@ -1,7 +1,7 @@
 ---
 name: "Blessed María de la Concepción Barrecheguren García"
 honorific: Blessed
-title: "Priest, Pope"
+title: "Blessed María de la Concepción Barrecheguren García"
 summary: "Young lay woman of the archdiocese of Granada, Spain. Baptized at the age of 11 days. Her father, Venerable Francisco Barrecheguren Montagut, handled her religious education, and Conchita grew up very pious with a devotion to the Rosary, the Way of the Cross and Eucharistic adora"
 image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-de-la-Concepcion-Barrecheguren-Garcia.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
 religiousOrder: "Redemptorist"
 martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Saint Montanus of Carthage"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Montanus of Carthage"
 summary: "Disciple of Saint Cyprian of Carthage. When revolt erupted in Carthage in 259, during a period of persecution by Valerian, the procurator Solon blamed it on the Christians, and began suppressing them. Arrested, tortured, and martyred with Saint Julian of Carthage, Saint Lucius of"
 deathYear: 259
 born: "African"
@@ -12,7 +12,6 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 martyr: true

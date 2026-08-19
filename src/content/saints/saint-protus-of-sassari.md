@@ -1,7 +1,7 @@
 ---
 name: "Saint Protus of Sassari"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Protus of Sassari"
 summary: "Priest in Sardinia. Martyred in the persecutions of Diocletian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Proto-Gavino-e-Gianuario.jpg"
 searchAliases:
@@ -15,7 +15,6 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
 patronage:

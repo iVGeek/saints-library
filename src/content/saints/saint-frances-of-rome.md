@@ -1,7 +1,7 @@
 ---
 name: "Saint Frances of Rome"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Deacon, Pope"
+title: "Saint Frances of Rome"
 summary: " Benedictine. Foundress of the Oblates of the Tor de' Specchi (Collatine Born to the aristocracy, the daughter of Paul Bussa and Jacobella de' Roffredeschi. Married at age twelve to Lorenzo de' Ponziani; her marriage lasted 40 years. Mother of three in 1400, 1404, and 1407. Widow."
 image: "https://upload.wikimedia.org/wikipedia/commons/7/71/AntoniazzoRomano.jpg"
 searchAliases:

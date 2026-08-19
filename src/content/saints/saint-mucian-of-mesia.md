@@ -1,7 +1,7 @@
 ---
 name: "Saint Mucian of Mesia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Mucian of Mesia"
 summary: "Martyr of the early Church for refusing to sacrifice to idols."
 searchAliases:
   - "Mocian"
@@ -12,7 +12,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

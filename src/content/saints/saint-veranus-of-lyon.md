@@ -1,7 +1,7 @@
 ---
 name: "Saint Veranus of Lyon"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Veranus of Lyon"
 summary: "Fifth century bishop of Lyon, France."
 region: "France"
 feastDay:
@@ -9,10 +9,9 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Fifth century bishop of Lyon, France.

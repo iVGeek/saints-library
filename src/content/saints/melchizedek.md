@@ -1,7 +1,7 @@
 ---
 name: "Melchizedek the Patriarch"
 honorific: Saint
-title: "Priest, Royalty"
+title: "Melchizedek the Patriarch"
 summary: "King of Salem, most probably Jerusalem, and a priest of the Most High God. He came to meet Abram after his victory over Chodorlahomor and his allies (Genesis 14), and on this occasion brought forth bread and wine, blessed Abram, thanked God for the victory, and received tithes of"
 image: "http://catholicsaints.info/wp-content/uploads/img-Melchizedek.jpg"
 searchAliases:
@@ -13,7 +13,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Royalty
 martyr: false
 ---
 

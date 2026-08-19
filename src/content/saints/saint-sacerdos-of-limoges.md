@@ -1,7 +1,7 @@
 ---
 name: "Saint Sacerdos of Limoges"
 honorific: Saint
-title: "Martyr, Bishop, Monk"
+title: "Saint Sacerdos of Limoges"
 summary: "Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France."
 searchAliases:
   - "Sacerdos of Calviac"
@@ -22,10 +22,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France.

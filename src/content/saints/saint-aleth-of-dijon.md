@@ -1,7 +1,7 @@
 ---
 name: "Saint Aleth of Dijon"
 honorific: Saint
-title: "Saint"
+title: "Saint Aleth of Dijon"
 summary: "Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux, Saint Humbeline of Jully, Blessed Gerard, and other holy children. She and her husband had a devotion to and built a chapel for Saint Ambrosinian of Armenia."
 searchAliases:
   - "Aleth of Montbard"
@@ -27,8 +27,7 @@ feastDay:
   month: 4
   day: 4
 canonizationStatus: Saint
-vocation:
-  - Saint
+vocation: []
 patronage:
   - "Dijon, France"
 martyr: false

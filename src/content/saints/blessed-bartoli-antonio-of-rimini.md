@@ -1,7 +1,7 @@
 ---
 name: "Blessed Bartoli Antonio of Rimini"
 honorific: Blessed
-title: "Martyr"
+title: "Blessed Bartoli Antonio of Rimini"
 summary: "A spiritual student of Saint Bernardino of Siena, Anthony became a Franciscan friar and travelled throughout Italy, known as an eloquent and effective preacher. Vicar of the Observant Franciscans in province of Umbria, Italy."
 searchAliases:
   - "Antonio of Rimini"
@@ -12,10 +12,9 @@ feastDay:
   month: 9
   day: 21
 canonizationStatus: Blessed
-vocation:
-  - Martyr
+vocation: []
 religiousOrder: "Franciscan"
-martyr: true
+martyr: false
 ---
 
 A spiritual student of Saint Bernardino of Siena, Anthony became a Franciscan friar and travelled throughout Italy, known as an eloquent and effective preacher. Vicar of the Observant Franciscans in province of Umbria, Italy.

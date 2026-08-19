@@ -1,7 +1,7 @@
 ---
 name: "Blessed Florencio Pérez Moral"
 honorific: Blessed
-title: "Martyr, Monk, Pope"
+title: "Blessed Florencio Pérez Moral"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
 searchAliases:
   - "Evencio"
@@ -17,9 +17,7 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

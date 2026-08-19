@@ -1,7 +1,7 @@
 ---
 name: "Saint Exanthus of Como"
 honorific: Saint
-title: "Martyr, Monk, Soldier"
+title: "Saint Exanthus of Como"
 summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian."
 deathYear: 295
 died: "c.295 on the north side of Lake Como, near Samolaco, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
   - Soldier
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Petrus Gim Jeong-Duk"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Petrus Gim Jeong-Duk"
 summary: "Layman martyr in the apostolic vicariate of Korea."
 image: "http://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg"
 deathYear: 1801
@@ -14,9 +14,7 @@ feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jeanne-Reine Prin"
 honorific: Blessed
-title: "Martyr, Religious, Pope"
+title: "Blessed Jeanne-Reine Prin"
 summary: "One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg"
 searchAliases:
@@ -20,9 +20,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Religious
-  - Pope
 martyr: true
 ---
 

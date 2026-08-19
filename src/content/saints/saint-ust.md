@@ -1,7 +1,7 @@
 ---
 name: "Saint Ust"
 honorific: Saint
-title: "Monk, Hermit"
+title: "Saint Ust"
 summary: "Hermit. The town of Saint Just near Penzance, Cornwall, England is named after him."
 searchAliases:
   - "Just"

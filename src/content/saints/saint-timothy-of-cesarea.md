@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy of Cesarea"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Timothy of Cesarea"
 summary: "Martyred in the persecutions of Maximian."
 died: "in the arena at Caesarea Maritima, Palestine"
 deathPlace: "Palestine"
@@ -11,7 +11,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

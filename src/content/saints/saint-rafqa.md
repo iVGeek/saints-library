@@ -1,7 +1,7 @@
 ---
 name: "Saint Rafqa"
 honorific: Venerable
-title: "Priest, Religious, Pope, Royalty"
+title: "Saint Rafqa"
 summary: "Daughter and only child of Mourad Saber Shabaq al-Rayes and Rafqa Gemayel. Her mother died when Rafka was six. She and her step-mother never got along. The girl worked as a maid from age 11 to 15, announcing at age 14 that she felt a call to religious life. Her father objected, b"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rafqa.jpg"
 searchAliases:
@@ -35,8 +35,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
-  - Royalty
 patronage:
   - "against bodily ills"
   - "against sickness"

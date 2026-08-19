@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret of Hulme"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Margaret of Hulme"
 summary: "Martyr."
 searchAliases:
   - "Margaret of Hoveton"
@@ -17,7 +17,6 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

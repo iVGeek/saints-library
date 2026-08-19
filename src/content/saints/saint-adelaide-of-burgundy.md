@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelaide of Burgundy"
 honorific: Saint
-title: "Saint"
+title: "Saint Adelaide of Burgundy"
 summary: "Born a princess, the daughter of King Rudolf II (Rupert II) of Upper Burgundy. Promised at age two in an arranged marriage as part of a treaty between Rudolf and Hugh of Provence. Married at age 16 to Lothair of Italy, who eventually became king of Italy. Widowed in 950 while sti"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adelaide-of-Burgundy.jpg"
 searchAliases:

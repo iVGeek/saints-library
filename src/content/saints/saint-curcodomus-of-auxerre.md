@@ -1,7 +1,7 @@
 ---
 name: "Saint Curcodomus of Auxerre"
 honorific: Saint
-title: "Martyr, Bishop, Monk, Deacon, Pope, Missionary"
+title: "Saint Curcodomus of Auxerre"
 summary: "Third century deacon in Rome, Italy. Missionary to Auxerre, Gaul (modern France), sent by Pope Sixtus II to assist the area's first bishop, Saint Peregrinus of Auxerre."
 region: "Italy"
 feastDay:
@@ -9,12 +9,10 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
-  - Pope
   - Bishop
   - Deacon
   - Missionary
-martyr: true
+martyr: false
 ---
 
 Third century deacon in Rome, Italy. Missionary to Auxerre, Gaul (modern France), sent by Pope Sixtus II to assist the area's first bishop, Saint Peregrinus of Auxerre.

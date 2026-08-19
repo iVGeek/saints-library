@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pablo Díaz de Zárate y Ortiz de Zárate"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Pablo Díaz de Zárate y Ortiz de Zárate"
 summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
 searchAliases:
   - "Norberto José"
@@ -16,9 +16,7 @@ feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 martyr: true
 ---
 

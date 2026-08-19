@@ -1,7 +1,7 @@
 ---
 name: "Venerable María del Refugio Aguilar Torres de Cancino"
 honorific: Venerable
-title: "Religious, Pope"
+title: "Venerable María del Refugio Aguilar Torres de Cancino"
 summary: "Married. Widow. Nun. Founded the Mercedarian Sisters of the Blessed Sacrament."
 birthYear: 1866
 deathYear: 1937
@@ -16,7 +16,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Religious
-  - Pope
 martyr: false
 ---
 

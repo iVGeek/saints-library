@@ -1,7 +1,7 @@
 ---
 name: "Saint Etherius of Nicomedia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Etherius of Nicomedia"
 summary: "Martyred in the persecutions of Diocletian."
 searchAliases:
   - "Aetherius of Nicomedia"
@@ -13,7 +13,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

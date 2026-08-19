@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Ebsdorf"
 honorific: Saint
-title: "Martyr, Bishop, Royalty, Soldier"
+title: "Martyrs of Ebsdorf"
 searchAliases:
   - "Ebsdorf Martyrs"
 deathYear: 880
@@ -13,9 +13,7 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-  - Royalty
   - Soldier
-martyr: true
+martyr: false
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Florentino Asensio Barroso"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Confessor"
+title: "Blessed Florentino Asensio Barroso"
 summary: "Born to a poor but devout family. Ordained on 1 June 1901 in Valladolid, Spain. Graduated as a doctor of theology from the Pontifical University of Valladolid, and then taught there. Priest at the metropolitan cathedral of Valladolid; many of his homilies have survived. Spiritual"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Florentino-Asensio-Barroso-1.jpg"
 searchAliases:
@@ -18,10 +18,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Confessor
 martyr: true
 ---

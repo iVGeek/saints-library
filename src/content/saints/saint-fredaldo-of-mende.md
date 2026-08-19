@@ -1,7 +1,7 @@
 ---
 name: "Saint Fredaldo of Mende"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Fredaldo of Mende"
 summary: "Ninth-century bishop of Mende, Aquitaine (in modern France). Worked to eradicate idolatry in the region. Martyr."
 searchAliases:
   - "Fredardo"
@@ -13,7 +13,6 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
 patronage:
   - "Chapelle Saint-Frézal-de-la-Canourgue, La Canourgue, France"

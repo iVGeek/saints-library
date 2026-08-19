@@ -1,7 +1,7 @@
 ---
 name: "Blessed Gregorio Díez Blanco"
 honorific: Blessed
-title: "Martyr, Priest, Religious, Pope, Cardinal"
+title: "Blessed Gregorio Díez Blanco"
 summary: "Baptized on the day he was born, and Confirmed in 1903. As a young man, he moved to Barcelona, Spain and worked for a tram company. Married to Paulina Díez Anidobro, and the father of four. Paulina died on 24 March 1930, and Gregorio's sister, Blessed Camila Díez Blanco, moved in"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Díez-Blanco.jpg"
 birthYear: 1899
@@ -16,10 +16,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
   - Religious
-  - Pope
   - Cardinal
 martyr: true
 ---

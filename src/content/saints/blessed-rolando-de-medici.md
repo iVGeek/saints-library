@@ -1,7 +1,7 @@
 ---
 name: "Blessed Rolando de Medici"
 honorific: Blessed
-title: "Pope, Hermit"
+title: "Blessed Rolando de Medici"
 summary: "Born to the famous de Medici family. At around age 30, he retired from the world to live as a hermit in the Alpine forests."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rolando-de-Medici.jpg"
 searchAliases:
@@ -17,7 +17,6 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Pope
   - Hermit
 martyr: false
 ---

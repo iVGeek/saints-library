@@ -1,7 +1,7 @@
 ---
 name: "Saint Anthony Mary Zaccaria"
 honorific: Saint
-title: "Confessor, Martyr"
+title: "Saint Anthony Mary Zaccaria"
 summary: "Born to a patrician family. His father Lazzaro died when Anthony was two, and his mother, Antonia Pescorali, widowed at age 18, devoted herself to her son. He studied medicine at Padua, Italy, receiving his doctorate at age 22. Work as a physicians to the poor in Cremona, Italy,"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Zaccaria.jpg"
 searchAliases:
@@ -19,12 +19,11 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "Angelic Sisters of Saint Paul"
-martyr: true
+martyr: false
 ---
 
 Born to a patrician family. His father Lazzaro died when Anthony was two, and his mother, Antonia Pescorali, widowed at age 18, devoted herself to her son. He studied medicine at Padua, Italy, receiving his doctorate at age 22. Work as a physicians to the poor in Cremona, Italy, he felt called to the religious life. He bequeathed his inheritance to his mother, worked as a catechist, and was ordained at age 26; legend says that angels were seen around the altar at his first Mass.

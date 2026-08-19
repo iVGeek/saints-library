@@ -1,7 +1,7 @@
 ---
 name: "Saint Aristo of Carthage"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Aristo of Carthage"
 summary: "Martyred in the persecutions of Decius."
 searchAliases:
   - "Aristone"
@@ -14,7 +14,6 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

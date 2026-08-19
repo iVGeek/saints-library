@@ -1,7 +1,7 @@
 ---
 name: "Saint Evantius of Autun"
 honorific: Saint
-title: "Martyr, Bishop"
+title: "Saint Evantius of Autun"
 summary: "Bishop of Autun, France c.400."
 searchAliases:
   - "Evancius"
@@ -13,9 +13,8 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Bishop
-martyr: true
+martyr: false
 ---
 
 Bishop of Autun, France c.400.

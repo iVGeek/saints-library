@@ -1,7 +1,7 @@
 ---
 name: "Saint Guinoc"
 honorific: Saint
-title: "Bishop, Priest, Monk, Confessor"
+title: "Saint Guinoc"
 summary: "Bishop in Scotland. Commemorated in the Aberdeen Breviary."
 searchAliases:
   - "Guinoch"

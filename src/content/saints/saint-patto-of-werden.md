@@ -1,7 +1,7 @@
 ---
 name: "Saint Patto of Werden"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Patto of Werden"
 summary: "Abbot of a monastery in Saxony. Bishop of Werden, Germany."
 searchAliases:
   - "Pacificus"

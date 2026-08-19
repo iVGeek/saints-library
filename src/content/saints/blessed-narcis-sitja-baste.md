@@ -1,7 +1,7 @@
 ---
 name: "Blessed Narcís Sitjà Basté"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Narcís Sitjà Basté"
 summary: "Priest. Member of the Sons of the Holy Family. Novice master and general counsel of Saint Jose Manyanet and the Sons. Teacher and spiritual advisor, noted for his ascetic lifestyle, personal piety, ability as a preacher and devotion to the Holy Family. Poet. Martyred in the anti-"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Narcís-Sitjà-Basté.jpg"
 birthYear: 1867
@@ -16,9 +16,7 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

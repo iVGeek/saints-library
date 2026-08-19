@@ -1,7 +1,7 @@
 ---
 name: "Saint Laetus of Orléans"
 honorific: Saint
-title: "Martyr, Priest, Monk"
+title: "Saint Laetus of Orléans"
 summary: "Monk from age 12. Priest. Spiritual advisor to Saint Leonard of Noblac."
 searchAliases:
   - "Lie"
@@ -21,10 +21,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-martyr: true
+martyr: false
 ---
 
 Monk from age 12. Priest. Spiritual advisor to Saint Leonard of Noblac.

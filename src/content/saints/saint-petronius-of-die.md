@@ -1,7 +1,7 @@
 ---
 name: "Saint Petronius of Die"
 honorific: Saint
-title: "Bishop, Monk"
+title: "Saint Petronius of Die"
 summary: "Son of an imperial Roman senator from the area around modern Avignon, France. Monk at Lerins Abbey. Bishop of Die, France c.456."
 searchAliases:
   - "Petronius of Avignon"

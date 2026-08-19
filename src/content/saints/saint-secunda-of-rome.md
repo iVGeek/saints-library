@@ -1,7 +1,7 @@
 ---
 name: "Saint Secunda of Rome"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious"
+title: "Saint Secunda of Rome"
 summary: "Nun. Martyred in the persecutions of Valerian."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg"
 deathYear: 257
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Priest
   - Monk

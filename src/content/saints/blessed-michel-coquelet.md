@@ -1,7 +1,7 @@
 ---
 name: "Blessed Michel Coquelet"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal, Missionary"
+title: "Blessed Michel Coquelet"
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."
 birthYear: 1931
 deathYear: 1961
@@ -15,9 +15,7 @@ feastDay:
   day: 20
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
   - Missionary
 martyr: true

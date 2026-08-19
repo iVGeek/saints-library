@@ -1,7 +1,7 @@
 ---
 name: "Saint Hilary of Mytilene"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Hilary of Mytilene"
 summary: "Martyred with several fellow Christians in the persecutions of Diocletian."
 deathYear: 300
 born: "Armenia"
@@ -13,7 +13,6 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Pietro Spagnoli"
 honorific: Blessed
-title: "Monk, Hermit"
+title: "Blessed Pietro Spagnoli"
 summary: "Pietro became a Gerolamini (Hermits of Saint Jerome) monk as a young man, lived most of his adult life in the Gerolamini house of Montebello, Italy, and later retired from communal life to live as a hermit near Urbino, Italy. He was known as a very pious man, and devotion develop"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-Spagnoli.jpg"
 deathYear: 1415

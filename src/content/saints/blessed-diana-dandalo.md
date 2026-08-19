@@ -1,7 +1,7 @@
 ---
 name: "Blessed Diana d'Andalo"
 honorific: Blessed
-title: "Priest, Religious, Pope"
+title: "Blessed Diana d'Andalo"
 summary: "Born to a wealthy and politically connected land owner. We know nothing of her childhood, but was known as a beautiful, intelligent and happy young woman. Influenced by the preaching of Blessed Reginald, she joined the Dominicans, and was received into the Order by Saint Dominic"
 image: "http://catholicsaints.info/wp-content/gallery/blessed-diana-dandalo/blessed-diana-dandalo.jpg"
 birthYear: 1201
@@ -18,7 +18,6 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-  - Pope
 religiousOrder: "Dominican"
 martyr: false
 ---

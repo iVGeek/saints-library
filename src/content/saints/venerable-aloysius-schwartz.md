@@ -1,7 +1,7 @@
 ---
 name: "Venerable Aloysius Schwartz"
 honorific: Venerable
-title: "Priest, Religious, Pope, Missionary"
+title: "Venerable Aloysius Schwartz"
 summary: "One of seven children, locals remember him as a boy who loved to swim, play sports, worked at a drug store soda counter, and would walk a mile each morning to serve as altar boy at Mass. Diocesan priest, ordained in 1957. Missionary to Korea. Founded the Sisters of Mary in 1964 i"
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/%EC%95%8C%EB%A1%9C%EC%9D%B4%EC%8B%9C%EC%98%A4_%EC%8A%88%EC%9B%94%EC%B8%A0_%28cropped%29.jpg"
 searchAliases:
@@ -20,7 +20,6 @@ canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-  - Pope
   - Missionary
 martyr: false
 ---

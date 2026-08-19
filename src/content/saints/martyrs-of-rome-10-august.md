@@ -1,7 +1,7 @@
 ---
 name: "Martyrs of Rome"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Martyrs of Rome"
 summary: "Group of 165 Christians martyred in the persecutions of Aurelian."
 deathYear: 274
 died: "274 in Rome, Italy"
@@ -12,7 +12,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

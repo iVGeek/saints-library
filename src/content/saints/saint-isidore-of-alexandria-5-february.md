@@ -1,7 +1,7 @@
 ---
 name: "Saint Isidore of Alexandria"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Isidore of Alexandria"
 summary: "Martyr. No other information has survived."
 born: "Egyptian"
 died: "Alexandria, Egypt"
@@ -12,7 +12,6 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

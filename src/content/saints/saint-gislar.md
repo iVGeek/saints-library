@@ -1,7 +1,7 @@
 ---
 name: "Saint Gislar"
 honorific: Saint
-title: "Priest, Monk, Missionary"
+title: "Saint Gislar"
 summary: "Seventh-century missionary priest in the region of Bavaria in modern Germany and Austria. Worked with Saint Rupert of Salzburg."
 searchAliases:
   - "Gisilario"

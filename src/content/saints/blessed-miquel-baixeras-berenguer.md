@@ -1,7 +1,7 @@
 ---
 name: "Blessed Miquel Baixeras Berenguer"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Pope, Cardinal"
+title: "Blessed Miquel Baixeras Berenguer"
 summary: "Member of the Claretians, professed on 15 August 1924. Ordained a priest on 21 June 1931. Martyred in the Spanish Civil War."
 birthYear: 1908
 deathYear: 1936
@@ -15,10 +15,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Bishop
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

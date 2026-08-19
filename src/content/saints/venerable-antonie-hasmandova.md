@@ -1,7 +1,7 @@
 ---
 name: "Venerable Antonie Hasmandová"
 honorific: Venerable
-title: "Martyr, Religious, Pope"
+title: "Venerable Antonie Hasmandová"
 summary: "Nun in the Congregation of the Sisters of Mercy of Saint Charles Borromeo. The Communist regime in power in Czechoslovakia at the time imprisoned her for her active faith from 1952 to 1960. Superior-General of her Congregation from 1970 until her death."
 searchAliases:
   - "Marie Vojtecha"
@@ -17,10 +17,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Religious
-  - Pope
-martyr: true
+martyr: false
 ---
 
 Nun in the Congregation of the Sisters of Mercy of Saint Charles Borromeo. The Communist regime in power in Czechoslovakia at the time imprisoned her for her active faith from 1952 to 1960. Superior-General of her Congregation from 1970 until her death.

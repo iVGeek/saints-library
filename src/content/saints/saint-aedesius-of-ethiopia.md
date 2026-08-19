@@ -1,7 +1,7 @@
 ---
 name: "Saint Aedesius of Ethiopia"
 honorific: Saint
-title: "Priest, Missionary"
+title: "Saint Aedesius of Ethiopia"
 summary: "Brother of Saint Frumentius, he became a missionary to Ethiopia with him in the early 4th century. He served as cup-bearer and then treasurer to the emperor, and to Frumentius. Later in life he returned to Tyre and was ordained a priest."
 searchAliases:
   - "Aedesius of Tyre"

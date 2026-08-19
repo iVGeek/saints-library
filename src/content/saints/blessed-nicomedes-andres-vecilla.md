@@ -1,7 +1,7 @@
 ---
 name: "Blessed Nicomedes Andrés Vecilla"
 honorific: Blessed
-title: "Martyr, Pope"
+title: "Blessed Nicomedes Andrés Vecilla"
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
 searchAliases:
   - "Brother Bartolomé Fanti María"
@@ -16,9 +16,7 @@ feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
-vocation:
-  - Martyr
-  - Pope
+vocation: []
 religiousOrder: "Carmelite"
 martyr: true
 ---

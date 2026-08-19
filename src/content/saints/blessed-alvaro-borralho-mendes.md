@@ -1,7 +1,7 @@
 ---
 name: "Blessed Álvaro Borralho Mendes"
 honorific: Blessed
-title: "Martyr, Monk, Pope, Missionary"
+title: "Blessed Álvaro Borralho Mendes"
 summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
 deathYear: 1570
@@ -15,9 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

@@ -1,7 +1,7 @@
 ---
 name: "Saint Regintrudis of Nonnberg"
 honorific: Saint
-title: "Religious"
+title: "Saint Regintrudis of Nonnberg"
 summary: "Nun. Abbess of Nonnberg Abbey near Salzburg, Austria."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Regintrudis-of-Nonnberg.jpg"
 searchAliases:

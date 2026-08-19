@@ -1,7 +1,7 @@
 ---
 name: "Saint Nicholas Owen"
 honorific: Venerable
-title: "Martyr, Priest, Pope, Royalty"
+title: "Saint Nicholas Owen"
 summary: "Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and mason. Two of his brothers became priests, another a printer of underground Catholic books, and Nicholas used his building skills to save the lives of priests and he"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Owen.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 22
 canonizationStatus: Venerable
 vocation:
-  - Martyr
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Jesuit"
 martyr: true
 ---

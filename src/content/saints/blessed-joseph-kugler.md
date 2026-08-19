@@ -1,7 +1,7 @@
 ---
 name: "Blessed Joseph Kugler"
 honorific: Blessed
-title: "Bishop, Pope, Royalty"
+title: "Blessed Joseph Kugler"
 summary: "As a young man he was apprenticed as an iron worker, but an injury ended that career. He joined the Order of the Hospitallers of Saint John of God at Reichenbach, Germany in 1893, making his profession in 1898. He served 20 years in several Hospitaller convent hospitals, often as"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Beato_Eustachius_Kugler.jpg/960px-Beato_Eustachius_Kugler.jpg"
 searchAliases:
@@ -20,8 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Bishop
-  - Pope
-  - Royalty
 martyr: false
 ---
 

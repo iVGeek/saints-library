@@ -1,7 +1,7 @@
 ---
 name: "Saint Anastasius the Apocrisarius"
 honorific: Saint
-title: "Priest, Monk, Confessor"
+title: "Saint Anastasius the Apocrisarius"
 summary: "Monk. Priest. Apocrisarius (special diplomatic envoy) in Rome. Accompanied Saint Maximus the Confessor into exile."
 deathYear: 666
 died: "666 near the Tzager fortress in the Caucasus mountains"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed José De Vega Pedraza"
 honorific: Blessed
-title: "Martyr, Pope, Cardinal"
+title: "Blessed José De Vega Pedraza"
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."
 birthYear: 1913
 deathYear: 1936
@@ -15,8 +15,6 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Martyr
-  - Pope
   - Cardinal
 religiousOrder: "Franciscan"
 martyr: true

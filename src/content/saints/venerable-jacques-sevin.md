@@ -1,7 +1,7 @@
 ---
 name: "Venerable Jacques Sevin"
 honorific: Venerable
-title: "Priest, Religious"
+title: "Venerable Jacques Sevin"
 summary: "Jesuit priest. Founded the Congregation of the Sisters of the Holy Cross of Jerusalem. Founded the Catholic Scouts of France."
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/P%C3%A8re_Jacques_Sevin_%281929%29.png"
 birthYear: 1882

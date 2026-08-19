@@ -1,7 +1,7 @@
 ---
 name: "Blessed Battista de Bonafede"
 honorific: Blessed
-title: "Martyr, Monk"
+title: "Blessed Battista de Bonafede"
 summary: "Mercedarian friar at the Sant'Anne convent in Palermo, Sicily. Imprisoned and tortured in Africa by Muslims for preaching Christianity. Eventually ransomed by brother Mercedarians, and retired to the Sant'Anne convent."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Battista-de-Bonafede.jpg"
 died: "Sant'Anne convent in Palermo, Sicily of natural causes"
@@ -12,9 +12,8 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Monk
-martyr: true
+martyr: false
 ---
 
 Mercedarian friar at the Sant'Anne convent in Palermo, Sicily. Imprisoned and tortured in Africa by Muslims for preaching Christianity. Eventually ransomed by brother Mercedarians, and retired to the Sant'Anne convent.

@@ -1,7 +1,7 @@
 ---
 name: "Saint Theodosius of Oria"
 honorific: Saint
-title: "Bishop, Monk, Pope, Hermit"
+title: "Saint Theodosius of Oria"
 summary: "Educated in Oria, Brindisi, Italy by Eastern hermits and monks. Young imperial courtier in Constantinople, Bishop of Oria in the latter 9th century. Held a synod of bishops in Oria in 881. Served as peace-maker between the Byzantines and the Lombards, and had both Latin and Greek"
 searchAliases:
   - "Teodosio de Oria"
@@ -14,7 +14,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Theodosius_of_
 vocation:
   - Bishop
   - Monk
-  - Pope
   - Hermit
 martyr: false
 ---

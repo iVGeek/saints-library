@@ -1,7 +1,7 @@
 ---
 name: "Saint Democritus"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Democritus"
 summary: "Martyr. No other reliable information has survived."
 region: "Italy"
 feastDay:
@@ -10,7 +10,6 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Unknown_greek_pushkin.jpg"
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

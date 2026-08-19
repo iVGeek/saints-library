@@ -1,7 +1,7 @@
 ---
 name: "Blessed Luis de Erdoiza Zamalloa"
 honorific: Blessed
-title: "Martyr, Priest, Pope"
+title: "Blessed Luis de Erdoiza Zamalloa"
 summary: "Trinitarian priest. Martyred in the Spanish Civil War."
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-de-Erdoiza-Zamalloa.jpg"
 searchAliases:
@@ -18,9 +18,7 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
 martyr: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Blessed John of Salerno"
 honorific: Blessed
-title: "Priest, Pope, Royalty"
+title: "Blessed John of Salerno"
 summary: "Related to Norman princes. Educated at Bologna, Italy. Physically small, he was noted by all for his leadership and organizational skills. Dominican friar, receiving the habit from Saint Dominic in 1219 while still in university. With twelve brother Dominicans, he founded a friar"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Salerno.jpg"
 birthYear: 1190
@@ -16,8 +16,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Priest
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 martyr: false
 ---

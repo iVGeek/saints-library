@@ -1,7 +1,7 @@
 ---
 name: "Blessed Jan Franciszek Macha"
 honorific: Blessed
-title: "Martyr, Priest, Pope, Cardinal"
+title: "Blessed Jan Franciszek Macha"
 summary: "One of four children born to Pawel Macha and Anna Cofalka. Jan felt a call to a priestly vocation, but was turned down by the seminary on first application in 1933. He studied law for a few months, but was accepted to seminary in 1934. Ordained a priest of the archdiocese of Kato"
 image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/JanMacha1940.JPG"
 birthYear: 1914
@@ -16,9 +16,7 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Martyr
   - Priest
-  - Pope
   - Cardinal
 martyr: true
 ---

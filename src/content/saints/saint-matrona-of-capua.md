@@ -1,7 +1,7 @@
 ---
 name: "Saint Matrona of Capua"
 honorific: Saint
-title: "Religious"
+title: "Saint Matrona of Capua"
 summary: "Nun in Capua, Italy."
 region: "Italy"
 feastDay:

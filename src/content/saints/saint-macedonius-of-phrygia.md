@@ -1,7 +1,7 @@
 ---
 name: "Saint Macedonius of Phrygia"
 honorific: Saint
-title: "Martyr, Monk"
+title: "Saint Macedonius of Phrygia"
 summary: "Martyred for destroying pagan idols."
 deathYear: 362
 died: "burned to death in 362 in Phrygia (modern Turkey)"
@@ -11,7 +11,6 @@ feastDay:
   day: 12
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Monk
 martyr: true
 ---

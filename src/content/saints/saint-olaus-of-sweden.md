@@ -1,7 +1,7 @@
 ---
 name: "Saint Olaus of Sweden"
 honorific: Saint
-title: "Martyr, Priest, Monk, Royalty"
+title: "Saint Olaus of Sweden"
 summary: "King of Sweden. Convert, brought to the faith by Saint Anscharius. During a time of famine, he was sacrificed to the old pagan gods because he would not offer such sacrifices himself as priest-king."
 searchAliases:
   - "Olaf"
@@ -13,11 +13,9 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Priest
   - Monk
-  - Royalty
-martyr: true
+martyr: false
 ---
 
 King of Sweden. Convert, brought to the faith by Saint Anscharius. During a time of famine, he was sacrificed to the old pagan gods because he would not offer such sacrifices himself as priest-king.

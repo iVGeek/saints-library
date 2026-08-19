@@ -1,7 +1,7 @@
 ---
 name: "Saint Mariana of Britonia"
 honorific: Saint
-title: "Martyr, Religious"
+title: "Saint Mariana of Britonia"
 summary: "Martyred nun."
 searchAliases:
   - "Marina"
@@ -13,7 +13,6 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Religious
 martyr: true
 ---

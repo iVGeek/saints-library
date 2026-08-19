@@ -1,7 +1,7 @@
 ---
 name: "Saint Rhipsime"
 honorific: Saint
-title: "Martyr, Virgin, Monk"
+title: "Saint Rhipsime"
 summary: "Virgin martyr, executed with a group of fellow Christian in Armenia. She and her fellow victims are honored as the first Christian martyrs of Armenia. Many highly fanciful tales have grown up to fill in the blanks in her life story."
 image: "http://catholicsaints.info/wp-content/uploads/St._Hripseme.jpg"
 searchAliases:
@@ -18,7 +18,6 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Martyr
   - Virgin
   - Monk
 martyr: true

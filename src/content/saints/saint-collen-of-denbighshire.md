@@ -1,7 +1,7 @@
 ---
 name: "Saint Collen of Denbighshire"
 honorific: Saint
-title: "Monk, Pope, Hermit, Royalty"
+title: "Saint Collen of Denbighshire"
 summary: "Monk in Wales, Brittany and Cornwall. Believed to have travelled to Rome, Italy. Lived as a hermit in a small cave near Glastonbury Abbey. Abbot of a monastery in Wales. The Welsh town of Llangollen (Collen's enclosure), Clwd is named for him, indicating that it formed around his"
 searchAliases:
   - "Colan"
@@ -15,9 +15,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Monk
-  - Pope
   - Hermit
-  - Royalty
 martyr: false
 ---
 

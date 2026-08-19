@@ -1,5 +1,6 @@
 ---
 name: "Saint Augulus"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aule_Alm_4.jpg/960px-Aule_Alm_4.jpg"
 honorific: Saint
 title: "Martyr, Bishop, Monk"
 summary: "Bishop. Martyr."

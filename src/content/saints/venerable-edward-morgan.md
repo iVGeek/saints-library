@@ -1,5 +1,6 @@
 ---
 name: "Venerable Edward Morgan"
+image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ted_Morgan_%28boxer%29.jpg"
 honorific: Venerable
 title: "Martyr, Priest"
 summary: "Son of William. Studied at Saint Omer in France, in Rome, Italy, and in Valladolid and Madrid in Spain. Jesuit novice in 1609, but apparently never made his final vows. Ordained in Salamanca, Spain. Returned to the British Isles in 1621 to minister to covert Catholics. Imprisoned"

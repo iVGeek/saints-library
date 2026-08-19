@@ -1,5 +1,6 @@
 ---
 name: "Saint Sisenandus"
+image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sisenado-rey-visigodo.png"
 honorific: Saint
 title: "Martyr, Deacon"
 summary: "Deacon in the church of Saint Acisclus in Cordoba, Spain. Martyred in the persecutions of Abderrahman II."

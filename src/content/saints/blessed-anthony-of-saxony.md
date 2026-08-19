@@ -1,5 +1,6 @@
 ---
 name: "Blessed Anthony of Saxony"
+image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Anton-sachsen.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Monk, Royalty, Missionary"
 summary: "Franciscan friar and priest. Missionary to Bulgaria. Betrayed by a heretic monk, he and several of his religious brothers were martyred by schismatic Greeks on the order of King Bazarath."

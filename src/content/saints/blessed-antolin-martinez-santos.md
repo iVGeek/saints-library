@@ -1,5 +1,6 @@
 ---
 name: "Blessed Antolín Martínez Santos"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iglesia_de_San_Antoni%C3%B1o_de_Toques.jpg/960px-Iglesia_de_San_Antoni%C3%B1o_de_Toques.jpg"
 honorific: Blessed
 title: "Martyr, Pope"
 summary: "Dominican novice. Martyred in the Spanish Civil War."

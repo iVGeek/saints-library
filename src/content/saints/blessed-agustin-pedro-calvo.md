@@ -1,5 +1,6 @@
 ---
 name: "Blessed Agustín Pedro Calvo"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rafael_Calvo_y_su_repertorio_-_Santiago_Estrada.pdf/page1-500px-Rafael_Calvo_y_su_repertorio_-_Santiago_Estrada.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Pope"
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."

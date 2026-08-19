@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alberto Pandoni"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sarcofago_in_marmo_dorato_del_vescovo_alberto_pandoni%2C_xv_secolo_01.jpg/960px-Sarcofago_in_marmo_dorato_del_vescovo_alberto_pandoni%2C_xv_secolo_01.jpg"
 honorific: Blessed
 title: "Bishop, Priest, Hermit"
 summary: "Member of the Augustinian Hermits. Diocesan priest in Brescia, Italy. Bishop of Piacenza, Italy on 14 March 1244. During his 13 years of service there, he founded a university. Bishop of Ferrara, Italy in 1257 where he served for the remaining 17 years of his life. He wrote again"

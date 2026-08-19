@@ -1,5 +1,6 @@
 ---
 name: "Blessed Amicino of Lodi"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Francesco_Malaguzzi_Valeri_-_Pittori_lombardi_del_Quattrocento%2C_Milano_1902.djvu/page1-960px-Francesco_Malaguzzi_Valeri_-_Pittori_lombardi_del_Quattrocento%2C_Milano_1902.djvu.jpg"
 honorific: Blessed
 title: "Martyr"
 summary: "Franciscan friar. He is listed in old martyrologies, but all details of his life have been lost."

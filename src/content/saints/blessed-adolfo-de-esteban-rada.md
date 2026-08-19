@@ -1,5 +1,6 @@
 ---
 name: "Blessed Adolfo de Esteban Rada"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Razon_del_nombre_de_las_plazas%2C_parques_y_calles_-_Adolfo_P._Carranza.pdf/page1-500px-Razon_del_nombre_de_las_plazas%2C_parques_y_calles_-_Adolfo_P._Carranza.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Bishop, Pope, Cardinal"
 summary: "Member of the Claretians, professed on 1 October 1928 in Vic, Spain. Martyred in the Spanish Civil War."

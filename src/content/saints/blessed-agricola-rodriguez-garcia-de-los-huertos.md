@@ -1,5 +1,6 @@
 ---
 name: "Blessed Agrícola Rodríguez García de Los Huertos"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Placa_conmemorativa_%284_de_julio_de_2015%2C_Mora%29.jpg/960px-Placa_conmemorativa_%284_de_julio_de_2015%2C_Mora%29.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope"
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."

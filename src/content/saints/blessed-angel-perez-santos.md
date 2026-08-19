@@ -1,5 +1,6 @@
 ---
 name: "Blessed Ángel Pérez Santos"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Buenos_Aires_-_Pasaje_Enrique_Santos_Disc%C3%A9polo_-_HDR.jpg/960px-Buenos_Aires_-_Pasaje_Enrique_Santos_Disc%C3%A9polo_-_HDR.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

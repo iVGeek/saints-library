@@ -1,5 +1,6 @@
 ---
 name: "Saint Kennera"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_St_Kennera_Parish_Kirk_at_Kirkinner%2C_Galloway.jpg/960px-The_St_Kennera_Parish_Kirk_at_Kirkinner%2C_Galloway.jpg"
 honorific: Saint
 title: "Monk, Religious, Hermit"
 summary: "Educated with Saint Ursula and Saint Regulus of Patras. Nun. Recluse at Kirk-Kinner, Galloway, Scotland."

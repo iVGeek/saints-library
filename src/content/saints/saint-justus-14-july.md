@@ -1,5 +1,6 @@
 ---
 name: "Saint Justus of Rome"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/1850_Justus_Perthes_Map_of_Italy_-_Geographicus_-_Italy-perthes-50.jpg/960px-1850_Justus_Perthes_Map_of_Italy_-_Geographicus_-_Italy-perthes-50.jpg"
 honorific: Saint
 title: "Martyr, Monk, Soldier"
 summary: "Soldier. Martyr."

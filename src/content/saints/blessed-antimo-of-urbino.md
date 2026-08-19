@@ -1,5 +1,6 @@
 ---
 name: "Blessed Antimo of Urbino"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Istoria_d%27Italia_%28IA_gri_33125009341369%29.pdf/page1-500px-Istoria_d%27Italia_%28IA_gri_33125009341369%29.pdf.jpg"
 honorific: Blessed
 title: "Hermit"
 summary: "Twin brother of Blessed Giovanni of Urbino. Franciscan tertiary. Hermit. Known for his life of penance, and as a miracle worker."

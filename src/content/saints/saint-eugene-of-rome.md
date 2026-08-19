@@ -1,5 +1,6 @@
 ---
 name: "Saint Eugene of Rome"
+image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Siliqua_Eugenius-_trier_RIC_0106d.jpg"
 honorific: Saint
 title: "Martyr, Monk"
 summary: "Martyr. No other information has survived."

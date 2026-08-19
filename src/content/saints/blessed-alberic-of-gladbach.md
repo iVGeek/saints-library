@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alberic of Gladbach"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Geo._Cooling_%26_Sons_materials_%28IA_GeoCoolingSonsm00GeoCI%29.pdf/page1-960px-Geo._Cooling_%26_Sons_materials_%28IA_GeoCoolingSonsm00GeoCI%29.pdf.jpg"
 honorific: Blessed
 title: "Monk, Soldier"
 summary: "Tenth century soldier. Knight. Falsely accused of a crime, he was blinded as punishment. Pilgrim. Benedictine monk at Gladbach, Germany."

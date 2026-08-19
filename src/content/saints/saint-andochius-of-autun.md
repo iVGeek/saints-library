@@ -1,5 +1,6 @@
 ---
 name: "Saint Andochius of Autun"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Saint_Andoche_Saint_Thyrse_gr_Alleaume.jpg/960px-Saint_Andoche_Saint_Thyrse_gr_Alleaume.jpg"
 honorific: Saint
 title: "Martyr, Priest, Monk, Missionary"
 summary: "Second-century priest in Smyrna. Missionary in the area of Autun in Gaul (modern France), assigned by Saint Polycarp. Martyr."

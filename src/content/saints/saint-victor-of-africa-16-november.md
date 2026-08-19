@@ -1,5 +1,6 @@
 ---
 name: "Saint Victor of Africa"
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pope_Victor_I.jpg"
 honorific: Saint
 title: "Martyr, Monk"
 summary: "Martyr."

@@ -1,5 +1,6 @@
 ---
 name: "Blessed Andrew Lorenzo"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bernini_1627.jpg/960px-Bernini_1627.jpg"
 honorific: Blessed
 title: "Saint"
 summary: "Franciscan friar who was a model of religious life, and who had the gift of prophecy."

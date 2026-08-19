@@ -1,5 +1,6 @@
 ---
 name: "Blessed Mariano Suárez Fernández"
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mariano_Fernandez_GNAZZO.jpg"
 honorific: Blessed
 title: "Martyr, Pope, Cardinal"
 summary: "Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War."

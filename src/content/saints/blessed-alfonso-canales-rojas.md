@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alfonso Canales Rojas"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jaime_Alfonso%2C_el_Barbudo%2C_novela_hist%C3%B3rica_%28IA_jaimealfonsoelba00parr%29.pdf/page1-500px-Jaime_Alfonso%2C_el_Barbudo%2C_novela_hist%C3%B3rica_%28IA_jaimealfonsoelba00parr%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Cardinal, Royalty"
 summary: "Priest of the diocese of Córdoba, Spain, working in the comjunities of Almodóvar del Río and Pedro Abad. Martyred in the Spanish Civil War."

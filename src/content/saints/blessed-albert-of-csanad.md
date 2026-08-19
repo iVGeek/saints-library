@@ -1,5 +1,6 @@
 ---
 name: "Blessed Albert of Csanád"
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Arad-Csan%C3%A1d_vas%C3%BAtvonal_%C3%A9p%C3%ADt%C3%A9se_%281909%29.jpg"
 honorific: Blessed
 title: "Hermit"
 summary: "Member of the Ordo Fratrum Sancti Pauli Primi Eremita (Order of Friars of Saint Paul the First Hermit) in 15th century Hungary. Noted speaker. Wrote poetry in Latin."

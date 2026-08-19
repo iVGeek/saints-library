@@ -1,5 +1,6 @@
 ---
 name: "Blessed Aldericus of Füssenich"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/F%C3%BCssenich%2C_Aldericuskapelle_002x.jpg/960px-F%C3%BCssenich%2C_Aldericuskapelle_002x.jpg"
 honorific: Blessed
 title: "Royalty"
 summary: "Legend says that Alderich was a member of the French royal family and came into the region of modern Germany while on pilgrimage to Romeand Cologne. He became a Premonstratensian lay brother at the Saint Nicholas monastery in Füssenich, Germany where he looked after the pigs and"

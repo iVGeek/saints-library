@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alfonso Gallardo Moreno"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ensayo_de_una_biblioteca_espa%C3%B1ola_de_libros_raros_y_curiosos_%28IA_aez4356.0003.001.umich.edu%29.pdf/page1-500px-Ensayo_de_una_biblioteca_espa%C3%B1ola_de_libros_raros_y_curiosos_%28IA_aez4356.0003.001.umich.edu%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Cardinal"
 summary: "Priest of the diocese of Córdoba, Spain, serving as assistant pastor in the Puente Genil community. Martyred in the Spanish Civil War."

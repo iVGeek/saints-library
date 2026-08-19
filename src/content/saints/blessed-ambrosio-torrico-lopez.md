@@ -1,5 +1,6 @@
 ---
 name: "Blessed Ambrosio Torrico López"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Memorias_de_la_Real_Academia_de_la_Historia_-_Tomo_VI.djvu/page1-960px-Memorias_de_la_Real_Academia_de_la_Historia_-_Tomo_VI.djvu.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Cardinal"
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Hinojosa community. Martyred in the Spanish Civil War."

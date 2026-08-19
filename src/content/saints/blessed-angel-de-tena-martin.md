@@ -1,5 +1,6 @@
 ---
 name: "Blessed Ángel de Tena Martín"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/1892-05-08%2C_Blanco_y_Negro%2C_Los_de_casa%2C_Cilla.jpg/960px-1892-05-08%2C_Blanco_y_Negro%2C_Los_de_casa%2C_Cilla.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Cardinal"
 summary: "Priest in the diocese of Córdoba, Spain, serving as assistant pastor in the Hinojosa community. Martyred in the Spanish Civil War."

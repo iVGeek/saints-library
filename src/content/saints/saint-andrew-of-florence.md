@@ -1,5 +1,6 @@
 ---
 name: "Saint Andrew of Florence"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stained_glass_with_St._Andrew_in_Pazzi_Chapel._Basilica_Santa_Croce_in_Florence%2C_Italy.jpg/960px-Stained_glass_with_St._Andrew_in_Pazzi_Chapel._Basilica_Santa_Croce_in_Florence%2C_Italy.jpg"
 honorific: Saint
 title: "Bishop, Monk"
 summary: "Bishop of Florence, Italy. So successful at evangelizing his diocese that he eliminated all paganism."

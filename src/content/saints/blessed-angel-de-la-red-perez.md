@@ -1,5 +1,6 @@
 ---
 name: "Blessed Ángel de la Red Pérez"
+image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Andrea_Abigail_Perez_de_Novoa_at_Santo_Domingo_Ministerial_Forum_%2851956958076%29_%28cropped%29.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope"
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."

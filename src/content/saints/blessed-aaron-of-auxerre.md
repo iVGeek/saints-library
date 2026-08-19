@@ -1,5 +1,6 @@
 ---
 name: "Blessed Aaron of Auxerre"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aaron_Kwok%27s_concert_20111222.jpg/960px-Aaron_Kwok%27s_concert_20111222.jpg"
 honorific: Blessed
 title: "Bishop, Priest"
 summary: "Ninth-century bishop of Auxerre, France."

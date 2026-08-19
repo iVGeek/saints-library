@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alexander of Lugo"
+image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alexander_Romanovsky.png"
 honorific: Blessed
 title: "Martyr, Bishop, Priest"
 summary: "Alexander joined the Dominicans in Lugo, Italy in 1612, then studied in Faenza, Naples, and the convent of Our Lady of the Arch. Priest, assigned to Bologna, Italy soon after ordination. He worked himself so hard, in pulpit and with the needy, that he ruined his health and had to"

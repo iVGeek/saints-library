@@ -1,5 +1,6 @@
 ---
 name: "Blessed Adela"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adela_reaumurella_Luc_Viatour.jpg/960px-Adela_reaumurella_Luc_Viatour.jpg"
 honorific: Blessed
 title: "Saint"
 summary: "Born to the nobility in the family of the dukes of Austrasia. Mother of Saint Trudo."

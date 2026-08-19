@@ -1,5 +1,6 @@
 ---
 name: "Blessed Agatha of Kyoto"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Religions_of_the_World_Vol_1.djvu/page1-960px-The_Religions_of_the_World_Vol_1.djvu.jpg"
 honorific: Blessed
 title: "Martyr, Pope"
 summary: "Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."

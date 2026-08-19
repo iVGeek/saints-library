@@ -1,5 +1,6 @@
 ---
 name: "Blessed Aniceto Pablos Carvajal"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Calendario_manual_y_guia_de_forasteros_de_M%C3%A9xico%2C_para_el_a%C3%B1o_de_1797_%28IA_b29313934%29.pdf/page1-500px-Calendario_manual_y_guia_de_forasteros_de_M%C3%A9xico%2C_para_el_a%C3%B1o_de_1797_%28IA_b29313934%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Monk, Pope"
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."

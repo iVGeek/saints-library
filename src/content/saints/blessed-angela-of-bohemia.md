@@ -1,5 +1,6 @@
 ---
 name: "Blessed Angela of Bohemia"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%C3%82ngela_Vieira.jpg/960px-%C3%82ngela_Vieira.jpg"
 honorific: Blessed
 title: "Hermit"
 summary: "Hermitess."

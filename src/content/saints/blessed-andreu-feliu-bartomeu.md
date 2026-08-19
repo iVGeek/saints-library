@@ -1,5 +1,6 @@
 ---
 name: "Blessed Andreu Felíu Bartomeu"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jochs_Florals_de_Barcelona_en_1889.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1889.djvu.jpg"
 honorific: Blessed
 title: "Martyr, Pope"
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."

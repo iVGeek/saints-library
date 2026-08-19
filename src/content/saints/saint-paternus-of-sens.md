@@ -1,5 +1,6 @@
 ---
 name: "Saint Paternus of Sens"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mairie%2C_Saint-Pern%2C_France.jpg/960px-Mairie%2C_Saint-Pern%2C_France.jpg"
 honorific: Saint
 title: "Martyr, Monk"
 summary: "Monk at Cessier, France. Monk at Saint-Pierre-le-Vif near Sens, France. Martyr."

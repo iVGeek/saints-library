@@ -1,5 +1,6 @@
 ---
 name: "Saint Aurea of Amiens"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_catalogue_of_the_..._library_of_Martin_Folkes_esq._president_of_the_Royal_society_..._lately_deceased_%28IA_b30545675%29.pdf/page1-960px-A_catalogue_of_the_..._library_of_Martin_Folkes_esq._president_of_the_Royal_society_..._lately_deceased_%28IA_b30545675%29.pdf.jpg"
 honorific: Saint
 title: "Religious, Hermit"
 summary: "Eighth century hermitess, nun, and abbess of the monastery of Saint-Martial in Amiens, Gaul (in modern France). Friend of Saint Ulfia who also lived in the hermitage at Boves, France."

@@ -1,5 +1,6 @@
 ---
 name: "Saint Simplicius of Rome"
+image: "https://upload.wikimedia.org/wikipedia/commons/d/df/SimpliciusFaustinusmartyrdom.jpg"
 honorific: Saint
 title: "Martyr, Priest, Monk, Religious"
 summary: "Brother of Saint Beatrice of Rome. Martyred in the persecutions of Diocletian."

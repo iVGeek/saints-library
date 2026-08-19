@@ -1,5 +1,6 @@
 ---
 name: "Blessed Albert of Genoa"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Charles_II_by_Honore_Pelle%2C_Genoa%2C_signed_and_dated_1684%2C_marble_-_Victoria_and_Albert_Museum_-_London%2C_England_-_DSC05817.jpg/960px-Charles_II_by_Honore_Pelle%2C_Genoa%2C_signed_and_dated_1684%2C_marble_-_Victoria_and_Albert_Museum_-_London%2C_England_-_DSC05817.jpg"
 honorific: Blessed
 title: "Monk, Pope, Hermit"
 summary: "Albert probably spent his childhood as a shepherd. Drawn to religious life, he became a Benedictine lay brother and then a professed monk, living occasionally in solitude. He joined the Cistercian reform in 1129 at the Sant Andrea monastery in the village of Sestri Ponente outsid"

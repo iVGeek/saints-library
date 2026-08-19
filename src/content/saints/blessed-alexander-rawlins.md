@@ -1,5 +1,6 @@
 ---
 name: "Blessed Alexander Rawlins"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Speech_of_Major_Gen%27l_John_A._Rawlins%2C_chief_of_staff%2C_U._S._A.%3B_General_Grant%27s_views_in_harmony_with_Congress_%28IA_speechofmajorgen00rawl%29.pdf/page1-500px-Speech_of_Major_Gen%27l_John_A._Rawlins%2C_chief_of_staff%2C_U._S._A.%3B_General_Grant%27s_views_in_harmony_with_Congress_%28IA_speechofmajorgen00rawl%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Royalty"
 summary: "Jailed twice in England for being such a fervent and out-spoken Catholic. Seminarian in Rheims, France in 1589. Ordained in Rheims in 1590, and then returned to England to minister to covert Catholics. Worked with Saint Henry Walpole and Saint Edmund Gennings. Imprisoned, torture"

@@ -1,5 +1,6 @@
 ---
 name: "Blessed Adalbert III of Salzburg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG/960px-Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG"
 honorific: Blessed
 title: "Bishop, Priest, Monk, Deacon, Pope, Royalty"
 summary: "Son of King Ladislas II of Bohemia and Gertrude of Austria; grand-son of Emperor Henry IV. Norbertine monk. Canon of the Stahov monastery. Deacon. Archbishop of Salzburg, Austria in 1168. The position included secular power as well as ecclesiastical, and Adalbert began exercising"

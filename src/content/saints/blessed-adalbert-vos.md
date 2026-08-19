@@ -1,5 +1,6 @@
 ---
 name: "Blessed Adalbert Vos"
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d6/Szt-adalbert.jpg"
 honorific: Blessed
 title: "Monk"
 summary: "Adalbert joined the Premonstratensians in 1650. Canon of the monastery in Tongerlo (in modern Belgium), and later served as zirkator, a monk to supervises the observance of monastic discipline. Chaplain of the house in Alphen. Novice master at Tongerlo from 1662 to 1682. In all t"

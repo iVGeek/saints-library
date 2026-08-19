@@ -1,5 +1,6 @@
 ---
 name: "Blessed Ángel Cantador González"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_Cristo_de_la_vega_-_zarzuela_en_tres_actos_y_siete_cuadros%2C_en_verso..._%28IA_elcristodelavega00vill%29.pdf/page1-500px-El_Cristo_de_la_vega_-_zarzuela_en_tres_actos_y_siete_cuadros%2C_en_verso..._%28IA_elcristodelavega00vill%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Pope, Cardinal"
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

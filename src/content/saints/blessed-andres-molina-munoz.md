@@ -1,5 +1,6 @@
 ---
 name: "Blessed Andrés Molina Muñoz"
+image: "https://upload.wikimedia.org/wikipedia/commons/4/40/Primera_foto_oficial_del_Gabinete_Ministerial_de_Michelle_Bachelet.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope, Cardinal"
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."

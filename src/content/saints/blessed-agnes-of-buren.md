@@ -1,5 +1,6 @@
 ---
 name: "Blessed Agnes of Büren"
+image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Agnes_of_Babenberg.JPG"
 honorific: Blessed
 title: "Martyr, Priest, Monk, Religious"
 summary: "Agnes was raised in a pious family; her father became a Benedictine monk and priest. She became a Cistercian nun at the monastery of Gnadenthal in Hünfelden, Hesse, Germany, and was chosen abbess of the house in 1400."

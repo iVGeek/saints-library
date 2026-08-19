@@ -1,5 +1,6 @@
 ---
 name: "Saint Justus of Campania"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stielers_Handatlas_1891_26.jpg/960px-Stielers_Handatlas_1891_26.jpg"
 honorific: Saint
 title: "Martyr, Monk"
 summary: "Marytred in the persecutions of Diocletian. No other information has survived."

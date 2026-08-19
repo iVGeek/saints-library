@@ -1,5 +1,6 @@
 ---
 name: "Saint Augustine of Nicomedia"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Augustine_of_Canterbury_%28IA_augustinecanterb00cutt%29.pdf/page1-500px-Augustine_of_Canterbury_%28IA_augustinecanterb00cutt%29.pdf.jpg"
 honorific: Saint
 title: "Martyr, Monk"
 summary: "Brother of Saint Flavius of Nicomedia and Saint Augustus of Nicomedia. Martyred in the persecutions of Diocletian."

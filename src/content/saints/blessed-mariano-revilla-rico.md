@@ -1,5 +1,6 @@
 ---
 name: "Blessed Mariano Revilla Rico"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/El_Que_nace_para_rico_-_juguete_c%C3%B3mico_en_un_acto_y_en_verso_%28IA_elquenacepararic3511mele%29.pdf/page1-500px-El_Que_nace_para_rico_-_juguete_c%C3%B3mico_en_un_acto_y_en_verso_%28IA_elquenacepararic3511mele%29.pdf.jpg"
 honorific: Blessed
 title: "Martyr, Priest, Pope"
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

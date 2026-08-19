@@ -1,5 +1,6 @@
 ---
 name: "Blessed Albert of Siena"
+image: "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png"
 honorific: Blessed
 title: "Hermit"
 summary: "Pilgrim to Rome, Venice, Pugulia and Mount Gargano in Italy, Compostella in Spain, and the Holy Lands. Camaldolese hermit. Beginning on 6 January 1156, he became a spiritual student of Blessed William of Maleval and lived an extremely ascetic life; he ate little, slept on the gro"

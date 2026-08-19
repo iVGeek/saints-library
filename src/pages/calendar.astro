@@ -1,4 +1,4 @@
-﻿---
+---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import SectionHeading from '../components/SectionHeading.astro';
@@ -8,26 +8,51 @@ import { slug } from '../utils/slugs';
 
 const saints = await getCollection('saints');
 
-// feast key "m/d" -> saints
-const byDay = new Map<string, { id: string; name: string; rank?: string }[]>();
+const RANK_ORDER: Record<string, number> = {
+  Solemnity: 0,
+  Feast: 1,
+  Memorial: 2,
+  'Optional Memorial': 3,
+  Commemoration: 4,
+};
+
+interface DaySaint {
+  id: string;
+  name: string;
+  rank?: string;
+  status: string;
+  martyr: boolean;
+}
+
+const byDay = new Map<string, DaySaint[]>();
 for (const s of saints) {
   const key = `${s.data.feastDay.month}-${s.data.feastDay.day}`;
   const list = byDay.get(key) ?? [];
-  list.push({ id: s.id, name: s.data.name, rank: s.data.liturgicalRank });
+  list.push({
+    id: s.id,
+    name: s.data.name,
+    rank: s.data.liturgicalRank,
+    status: s.data.canonizationStatus,
+    martyr: s.data.martyr,
+  });
   byDay.set(key, list);
 }
 
+for (const list of byDay.values()) {
+  list.sort((a, b) => (RANK_ORDER[a.rank ?? 'Commemoration'] ?? 5) - (RANK_ORDER[b.rank ?? 'Commemoration'] ?? 5));
+}
+
+const PREVIEW_COUNT = 6;
+
 const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 const daysInMonth = (y: number, m: number) => new Date(y, m, 0).getDate();
-
-// Build a static calendar for the current year (updated on rebuild).
 const now = new Date();
 const year = now.getFullYear();
 const today = { m: now.getMonth() + 1, d: now.getDate() };
 
 interface Cell {
   day: number;
-  saints: { id: string; name: string; rank?: string }[];
+  saints: DaySaint[];
 }
 interface Month {
   month: number;
@@ -66,10 +91,10 @@ const rankTone: Record<string, string> = {
     <SectionHeading
       label="The Church's year"
       title="Liturgical Calendar"
-      sub="The sanctoral cycle keeps a saint's feast at nearly every turn of the year. Select a day to enter the life of its saints."
+      sub="The sanctoral cycle keeps a saint's feast at nearly every turn of the year. Browse by status or tap a day to see its saints."
     />
 
-    <div class="mt-8 flex flex-wrap items-center gap-3">
+    <div class="mt-8 flex flex-wrap items-center gap-4">
       <p class="label">Rank</p>
       {Object.entries(rankTone).map(([rank, tone]) => (
         <span class="flex items-center gap-2 font-body text-sm text-ink-600">
@@ -79,41 +104,76 @@ const rankTone: Record<string, string> = {
       ))}
     </div>
 
-    <div class="mt-10 grid gap-8 lg:grid-cols-2">
+    <div class="mt-6 flex flex-wrap items-center gap-3">
+      <span class="label">Show:</span>
+      <button data-cal-filter="all" class="cal-btn active" type="button">All</button>
+      <button data-cal-filter="Saint" class="cal-btn" type="button">Saints</button>
+      <button data-cal-filter="Blessed" class="cal-btn" type="button">Blessed</button>
+      <button data-cal-filter="Venerable" class="cal-btn" type="button">Venerable</button>
+      <button data-cal-filter="martyr" class="cal-btn" type="button">Martyrs</button>
+    </div>
+
+    <div class="mt-8 grid gap-8 lg:grid-cols-2">
       {months.map((month) => (
         <section class="rounded-lg border border-gold-600/30 bg-ivory/80 p-4">
           <h2 class="mb-4 text-center font-display text-xl font-semibold text-navy-900">{month.name} {year}</h2>
           <div class="grid grid-cols-7 gap-1 text-center">
             {WEEKDAYS.map((w) => (
-              <span data-wk={w} class="label !text-[10px] py-1">{w}</span>
+              <span class="label !text-[10px] py-1">{w}</span>
             ))}
             {month.cells.map((cell) =>
               cell ? (
                 <div
                   class:list={[
-                    'relative min-h-[3.4rem] rounded border p-1 text-left transition-colors',
+                    'cal-cell relative rounded border p-1 text-left transition-colors overflow-hidden',
                     cell.day === today.d && month.month === today.m
                       ? 'border-gold-600 bg-gold-600/15 ring-1 ring-gold-500'
                       : 'border-gold-600/20 bg-parchment-100/60 hover:border-gold-500',
                   ]}
                   title={cell.saints.length ? cell.saints.map((s) => s.name).join(', ') : undefined}
                 >
-                  <span class:list={['absolute right-1 top-1 font-display text-sm font-semibold', cell.day === today.d && month.month === today.m ? 'text-burgundy-700' : 'text-ink-500']}>
+                  <span class:list={['absolute right-1 top-1 font-display text-sm font-semibold z-10', cell.day === today.d && month.month === today.m ? 'text-burgundy-700' : 'text-ink-500']}>
                     {cell.day}
                   </span>
                   <div class="mt-5 space-y-0.5 pr-2">
-                    {cell.saints.map((s) => (
+                    {cell.saints.slice(0, PREVIEW_COUNT).map((s) => (
                       <a
                         href={`/saints/${slug(s.id)}`}
-                        class={[
-                          'block truncate rounded px-1 py-0.5 font-body text-[11px] leading-tight transition-colors hover:brightness-110',
+                        class:list={[
+                          'cal-link block truncate rounded px-1 py-0.5 font-body text-[11px] leading-tight transition-colors hover:brightness-110',
                           s.rank ? rankTone[s.rank] ?? 'bg-navy-600/80 text-ivory' : 'bg-navy-600/80 text-ivory',
-                        ].join(' ')}
+                        ]}
+                        data-status={s.status}
+                        data-martyr={String(s.martyr)}
                       >
                         {s.name}
                       </a>
                     ))}
+                    {cell.saints.length > PREVIEW_COUNT && (
+                      <button
+                        type="button"
+                        class="cal-expand w-full rounded bg-gold-600/15 px-1 py-0.5 text-center font-body text-[10px] font-semibold text-gold-700 transition-colors hover:bg-gold-600/25"
+                      >
+                        +{cell.saints.length - PREVIEW_COUNT} more
+                      </button>
+                    )}
+                    <div class="cal-hidden-links" style="display:none">
+                      {cell.saints.slice(PREVIEW_COUNT).map((s) => (
+                        <a
+                          href={`/saints/${slug(s.id)}`}
+                          class:list={[
+                            'cal-link block truncate rounded px-1 py-0.5 font-body text-[11px] leading-tight transition-colors hover:brightness-110',
+                            s.rank ? rankTone[s.rank] ?? 'bg-navy-600/80 text-ivory' : 'bg-navy-600/80 text-ivory',
+                          ]}
+                          data-status={s.status}
+                          data-martyr={String(s.martyr)}
+                        >
+                          {s.name}
+                        </a>
+                      ))}
+                    </div>
                   </div>
+                  <p class="cal-none hidden mt-1 px-1 text-center font-body text-[10px] text-ink-400 italic">None</p>
                 </div>
               ) : (
                 <span class="min-h-[3.4rem]" aria-hidden="true" />
@@ -123,6 +183,126 @@ const rankTone: Record<string, string> = {
         </section>
       ))}
     </div>
+
+    <div class="mt-10 text-center">
+      <p class="font-body text-ink-500">
+        <span class="font-semibold text-navy-900">{saints.length.toLocaleString()}</span> saints across the liturgical year.
+        <a href="/saints" class="text-burgundy-700 underline transition-colors hover:text-burgundy-800">Browse the full directory →</a>
+      </p>
+    </div>
   </div>
 </BaseLayout>
 
+<style>
+  .cal-btn {
+    border-radius: 9999px;
+    border: 1px solid rgba(180, 140, 60, 0.3);
+    background: #fdf8f0;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.875rem;
+    color: #4a3f35;
+    transition: all 0.15s;
+    cursor: pointer;
+  }
+  .cal-btn:hover {
+    border-color: #b48c3c;
+    color: #1a1520;
+  }
+  .cal-btn.active {
+    border-color: #b48c3c;
+    background: #b48c3c;
+    color: #fdf8f0;
+  }
+</style>
+
+<script is:inline>
+(function () {
+  var btns = document.querySelectorAll('.cal-btn');
+  var cells = document.querySelectorAll('.cal-cell');
+  var activeFilter = 'all';
+
+  btns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      btns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeFilter = btn.getAttribute('data-cal-filter');
+      applyFilter();
+    });
+  });
+
+  cells.forEach(function (cell) {
+    var expandBtn = cell.querySelector('.cal-expand');
+    if (expandBtn) {
+      expandBtn.addEventListener('click', function () {
+        var hiddenDiv = cell.querySelector('.cal-hidden-links');
+        if (hiddenDiv) {
+          var isExpanded = expandBtn.textContent.indexOf('less') > -1;
+          if (isExpanded) {
+            var links = hiddenDiv.querySelectorAll('.cal-link');
+            links.forEach(function (l) { l.style.display = 'none'; });
+            expandBtn.textContent = '+' + links.length + ' more';
+          } else {
+            var links = hiddenDiv.querySelectorAll('.cal-link');
+            links.forEach(function (l) { l.style.display = ''; });
+            expandBtn.textContent = 'Show less';
+          }
+        }
+      });
+    }
+  });
+
+  function applyFilter() {
+    cells.forEach(function (cell) {
+      var links = cell.querySelectorAll('.cal-link');
+      var noneMsg = cell.querySelector('.cal-none');
+      var expandBtn = cell.querySelector('.cal-expand');
+      var visibleCount = 0;
+
+      links.forEach(function (link) {
+        var status = link.getAttribute('data-status');
+        var martyr = link.getAttribute('data-martyr');
+        var show = false;
+
+        if (activeFilter === 'all') {
+          show = true;
+        } else if (activeFilter === 'martyr') {
+          show = martyr === 'true';
+        } else {
+          show = status === activeFilter;
+        }
+
+        link.style.display = show ? '' : 'none';
+        if (show) visibleCount++;
+      });
+
+      if (expandBtn) {
+        var previewCount = 0;
+        var hiddenLinks = cell.querySelector('.cal-hidden-links');
+        var previewLinks = [];
+        var extraLinks = hiddenLinks ? hiddenLinks.querySelectorAll('.cal-link') : [];
+
+        links.forEach(function (l) {
+          if (l.parentElement && !l.parentElement.classList.contains('cal-hidden-links')) {
+            if (l.style.display !== 'none') previewCount++;
+          }
+        });
+
+        var totalVisible = previewCount + Array.from(extraLinks).filter(function (l) { return l.style.display !== 'none'; }).length;
+
+        if (totalVisible <= 6) {
+          expandBtn.style.display = 'none';
+          extraLinks.forEach(function (l) { l.style.display = l.style.display === 'none' ? 'none' : 'none'; });
+        } else {
+          expandBtn.style.display = '';
+          expandBtn.textContent = '+' + (totalVisible - 6) + ' more';
+          extraLinks.forEach(function (l) { l.style.display = 'none'; });
+        }
+      }
+
+      if (noneMsg) {
+        noneMsg.style.display = visibleCount === 0 ? '' : 'none';
+      }
+    });
+  }
+})();
+</script>

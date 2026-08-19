@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import SaintCard from '../../components/SaintCard.astro';
+import { getCollection } from 'astro:content';
+
+const saints = await getCollection('saints');
+const martyrs = saints
+  .filter((s) => s.data.martyr)
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const feastDateOf = (s: (typeof saints)[number]) =>
+  `${String(s.data.feastDay.month).padStart(2, '0')}-${String(s.data.feastDay.day).padStart(2, '0')}`;
+---
+
+<BaseLayout
+  title="Martyrs — The Communion of Saints"
+  description={`Browse all ${martyrs.length} martyrs in the digital library. Those who gave their lives for the faith.`}
+  canonicalPath="/saints/martyrs"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Directory', href: '/saints' }, { label: 'Martyrs' }]} />
+    <SectionHeading
+      label="Martyrs"
+      title={`${martyrs.length} Martyrs`}
+      sub="Those who bore the ultimate witness, laying down their lives for the faith. Their blood became the seed of the Church."
+    />
+
+    <div class="mt-8 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+      {martyrs.map((s) => (
+        <div data-date={feastDateOf(s)}>
+          <SaintCard saint={s} />
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

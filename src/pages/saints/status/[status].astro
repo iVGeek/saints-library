@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import SectionHeading from '../../../components/SectionHeading.astro';
+import SaintCard from '../../../components/SaintCard.astro';
+import { getCollection } from 'astro:content';
+
+export function getStaticPaths() {
+  return [
+    { params: { status: 'saint' }, props: { status: 'Saint', label: 'Saints', sub: 'Those canonized by the Church and worthy of universal veneration and public liturgical cult.' } },
+    { params: { status: 'blessed' }, props: { status: 'Blessed', label: 'Blessed', sub: 'Those beatified by the Church, honored in a particular diocese, region, or religious family, one step from canonization.' } },
+    { params: { status: 'venerable' }, props: { status: 'Venerable', label: 'Venerable', sub: 'Those declared by the Pope to have lived a life of heroic virtue, the final stage before beatification.' } },
+  ];
+}
+
+const { status, label, sub } = Astro.props;
+const saints = await getCollection('saints');
+const filtered = saints
+  .filter((s) => s.data.canonizationStatus === status)
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const feastDateOf = (s: (typeof saints)[number]) =>
+  `${String(s.data.feastDay.month).padStart(2, '0')}-${String(s.data.feastDay.day).padStart(2, '0')}`;
+---
+
+<BaseLayout
+  title={`${label} — The Communion of Saints`}
+  description={`Browse all ${filtered.length} ${label.toLowerCase()} in the digital library. ${sub}`}
+  canonicalPath={`/saints/status/${status.toLowerCase()}`}
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Directory', href: '/saints' }, { label }]} />
+    <SectionHeading
+      label={label}
+      title={`${filtered.length} ${label}`}
+      sub={sub}
+    />
+
+    <div class="mt-8 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+      {filtered.map((s) => (
+        <div data-date={feastDateOf(s)}>
+          <SaintCard saint={s} />
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

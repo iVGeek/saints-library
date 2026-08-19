@@ -1,0 +1,25 @@
+---
+name: "Saint Jacobus Lacops"
+honorific: Saint
+title: "Martyr, Monk, Pope"
+summary: "Norbertine monk at Middelburg, Belgium. In 1566 he apostatized, writing and preaching against the Church. He later repented, rejoined his order, and retired to his abbey to do penance. One of the Gorkum Martyrs."
+image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Jacobus-Lacops.jpg"
+searchAliases:
+  - "James Lacop"
+  - "Jaak Lacops"
+deathYear: 1572
+died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
+deathPlace: "Zuid-Holland, Netherlands"
+region: "England"
+feastDay:
+  month: 7
+  day: 9
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+  - Pope
+martyr: true
+---
+
+Norbertine monk at Middelburg, Belgium. In 1566 he apostatized, writing and preaching against the Church. He later repented, rejoined his order, and retired to his abbey to do penance. One of the Gorkum Martyrs.

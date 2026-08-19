@@ -1,0 +1,27 @@
+---
+name: "Blessed Eloy Rodríguez Gutiérrez"
+honorific: Blessed
+title: "Martyr, Monk, Pope"
+summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+searchAliases:
+  - "Eloy José"
+birthYear: 1899
+deathYear: 1936
+born: "9 September 1899 in Torrepadre, Burgos, Spain"
+died: "5 October 1936 in Castellón, Spain"
+birthPlace: "Burgos, Spain"
+deathPlace: "Spain"
+region: "Spain"
+feastDay:
+  month: 10
+  day: 5
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Monk
+  - Pope
+religiousOrder: "Marist"
+martyr: true
+---
+
+Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

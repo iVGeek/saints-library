@@ -3,7 +3,7 @@ name: Saint Anthony Daniel
 honorific: Saint
 title: St. Anthony Daniel
 summary: "Joined the Jesuits in Rome, Italy on 1 October 1621. Ordained in 1629. Missionary to Canada in 1632, stationed at Cape Breton and Bias-d’or Lakes. Missionary to the Huron at Ihonatiria from July 1634 ..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antoine_Daniel.jpg/960px-Antoine_Daniel.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antoine_Daniel.jpg/960px-Antoine_Daniel.jpg"
 imageAlt: Portrait of Saint Anthony Daniel
 imageCredit: Wikimedia Commons
 searchAliases:

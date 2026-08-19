@@ -1,0 +1,37 @@
+---
+name: "Saint Victor of Marseilles"
+honorific: Saint
+title: "Martyr, Priest, Monk, Royalty, Soldier"
+summary: "Christian soldier in the imperial Roman army, he was imprisoned in Marseilles, France when he refused to worship pagan gods. While in awaiting execution, he converted other prisoners. Martyr."
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Woudrichem_-_Nooit_Gedagt_-_Victor_van_Marseille.jpg/960px-Woudrichem_-_Nooit_Gedagt_-_Victor_van_Marseille.jpg"
+deathYear: 290
+born: "mid-3rd century in Upper Egypt"
+died: "beheaded in 290 with three prisoners in Marseilles, France he had converted"
+deathPlace: "France he had converted"
+region: "Italy"
+feastDay:
+  month: 7
+  day: 21
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Royalty
+  - Soldier
+religiousOrder: "Jesuit"
+patronage:
+  - "against lightning"
+  - "sick children"
+  - "torture victims"
+  - "–"
+  - "cabinetmakers"
+  - "millers"
+  - "wine makers"
+  - "—"
+  - "Marseilles, France"
+  - "Davoli, Italy"
+martyr: true
+---
+
+Christian soldier in the imperial Roman army, he was imprisoned in Marseilles, France when he refused to worship pagan gods. While in awaiting execution, he converted other prisoners. Martyr.

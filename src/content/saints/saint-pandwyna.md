@@ -1,0 +1,18 @@
+---
+name: "Saint Pandwyna"
+honorific: Saint
+title: "Monk, Religious"
+summary: "Nun. The church in Eltisley, England is dedicated to her."
+born: "Irish"
+region: "Ireland"
+feastDay:
+  month: 8
+  day: 26
+canonizationStatus: Saint
+vocation:
+  - Monk
+  - Religious
+martyr: false
+---
+
+Nun. The church in Eltisley, England is dedicated to her.

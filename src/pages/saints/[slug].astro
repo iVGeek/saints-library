@@ -17,10 +17,11 @@ import { SITE } from '../../data/site';
 
 export async function getStaticPaths() {
   const saints = await getCollection('saints');
-  return saints.map((s) => ({ params: { slug: slug(s.id) }, props: { saint: s } }));
+  const slugMap = new Map(saints.map((s) => [slug(s.id), { name: s.data.name }]));
+  return saints.map((s) => ({ params: { slug: slug(s.id) }, props: { saint: s, slugMap } }));
 }
 
-const { saint } = Astro.props;
+const { saint, slugMap } = Astro.props;
 const { Content } = await render(saint);
 const { data } = saint;
 
@@ -256,7 +257,7 @@ const personJsonLd = {
       <section class="mt-20" id="related">
         <SectionHeading label="The company of heaven" title="Related saints" sub="Companions, teachers, spiritual children, and friends in glory." />
         <div class="mt-8">
-          <RelatedSaints related={data.relatedSaints} />
+          <RelatedSaints related={data.relatedSaints} slugMap={slugMap} />
         </div>
       </section>
     )}

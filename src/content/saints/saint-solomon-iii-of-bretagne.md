@@ -1,0 +1,24 @@
+---
+name: "Saint Solomon III of Bretagne"
+honorific: Saint
+title: "Martyr, Monk, Royalty, Soldier"
+summary: "King of Brittany (in modern France). Military leader who fought both Franks and Northmen; the Bretons count him among their national heroes. He repented for the crimes of his youth and when he was murdered, he was proclaimed a martyr."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Solomon-III-of-Bretagne.jpg"
+searchAliases:
+  - "Solomon III of Brittany\nSelyf of…"
+deathYear: 874
+died: "25 June 874"
+region: "France"
+feastDay:
+  month: 6
+  day: 25
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+  - Royalty
+  - Soldier
+martyr: true
+---
+
+King of Brittany (in modern France). Military leader who fought both Franks and Northmen; the Bretons count him among their national heroes. He repented for the crimes of his youth and when he was murdered, he was proclaimed a martyr.

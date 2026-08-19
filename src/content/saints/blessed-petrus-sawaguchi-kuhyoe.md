@@ -1,0 +1,28 @@
+---
+name: "Blessed Petrus Sawaguchi Kuhyoe"
+honorific: Blessed
+title: "Martyr, Monk, Pope"
+summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
+image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
+searchAliases:
+  - "Pedro Terai Kuhioye"
+birthYear: 1602
+deathYear: 1630
+born: "1602 in Oshu, Iwate, Japan"
+died: "beheaded on 28 October 1630 in Omura, Nagasaki, Japan"
+birthPlace: "Iwate, Japan"
+deathPlace: "Nagasaki, Japan"
+region: "England"
+feastDay:
+  month: 9
+  day: 28
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Monk
+  - Pope
+religiousOrder: "Augustinian"
+martyr: true
+---
+
+Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr.

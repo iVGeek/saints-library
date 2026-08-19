@@ -3,7 +3,7 @@ name: Saint Alexander Sauli
 honorific: Saint
 title: St. Alexander Sauli
 summary: "Priest. Clerk Regular of the Congregation of Saint Paul (Barnabite). Taught philosophy and theology at the University of Pavia, Italy. Superior-General of the Barnabites in 1565. Bishop of Aleria, Cor..."
-image: https://upload.wikimedia.org/wikipedia/commons/5/5b/St_Alexander_Sauli.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5b/St_Alexander_Sauli.jpg"
 imageAlt: Portrait of Saint Alexander Sauli
 imageCredit: Wikimedia Commons
 searchAliases:

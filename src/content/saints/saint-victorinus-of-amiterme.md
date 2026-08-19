@@ -1,0 +1,20 @@
+---
+name: "Saint Victorinus of Amiterme"
+honorific: Saint
+title: "Martyr, Bishop, Monk"
+summary: "Sixth-century bishop of Amiterme, Italy (outskirts of Rome). Martyr."
+died: "hanged upside down near Rome, Italy; he lasted three days"
+deathPlace: "Italy; he lasted three days"
+region: "Italy"
+feastDay:
+  month: 9
+  day: 5
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+martyr: true
+---
+
+Sixth-century bishop of Amiterme, Italy (outskirts of Rome). Martyr.

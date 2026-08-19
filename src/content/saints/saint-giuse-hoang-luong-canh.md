@@ -1,0 +1,28 @@
+---
+name: "Saint Giuse Hoàng Luong Canh"
+honorific: Venerable
+title: "Martyr, Pope"
+summary: "Lifelong layman in the apostolic vicariate of East Tonkin. Physician. Catechist and Dominican tertiary. One of the Martyrs of Vietnam."
+image: "http://catholicsaints.info/wp-content/gallery/saint-joseph-canh/saint-joseph-canh-01.jpg"
+searchAliases:
+  - "Joseph Canh"
+  - "Joseph Canh Luang Hoang"
+birthYear: 1763
+deathYear: 1838
+born: "c.1763 in Làng Van, Bac Giang, Vietnam"
+died: "beheaded on 5 September 1838 in Bac Ninh Tai, Vietnam"
+birthPlace: "Bac Giang, Vietnam"
+deathPlace: "Vietnam"
+region: "England"
+feastDay:
+  month: 9
+  day: 5
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Pope
+religiousOrder: "Dominican"
+martyr: true
+---
+
+Lifelong layman in the apostolic vicariate of East Tonkin. Physician. Catechist and Dominican tertiary. One of the Martyrs of Vietnam.

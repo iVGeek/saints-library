@@ -1,0 +1,24 @@
+---
+name: "Saint Parthenius of Lampsacus"
+honorific: Saint
+title: "Bishop, Royalty"
+summary: "Fourth-century bishop of Lampsacus in the Hellespont region of modern Turkey. Known for his preaching, evangelizing and his great example of Christian life that led many to the faith."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Parthenius-of-Lampsacus.jpg"
+searchAliases:
+  - "Partenius"
+  - "Patendo"
+region: "England"
+feastDay:
+  month: 2
+  day: 7
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Royalty
+patronage:
+  - "against mad dogs"
+  - "fishermen"
+martyr: false
+---
+
+Fourth-century bishop of Lampsacus in the Hellespont region of modern Turkey. Known for his preaching, evangelizing and his great example of Christian life that led many to the faith.

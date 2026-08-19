@@ -1,0 +1,24 @@
+---
+name: "Saint Theodore of Pavia"
+honorific: Saint
+title: "Martyr, Bishop, Monk, Royalty"
+summary: "Little known of his early life. Bishop of Pavia from 743 to 778. Outspoken critic of Arianism, which caused his repeated exile by Lombard Arian kings."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-of-Pavia.jpg"
+deathYear: 778
+died: "778 of natural causes"
+region: "Italy"
+feastDay:
+  month: 5
+  day: 20
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+  - Royalty
+patronage:
+  - "Pavia, Italy"
+martyr: true
+---
+
+Little known of his early life. Bishop of Pavia from 743 to 778. Outspoken critic of Arianism, which caused his repeated exile by Lombard Arian kings.

@@ -1,0 +1,24 @@
+---
+name: "Blessed Ursula Nishi"
+honorific: Blessed
+title: "Martyr, Pope, Cardinal"
+summary: "Lay woman of the archdiocese of Nagasaki, Japan. Married to Blessed Gaspar Nishi Genka; mother of Blessed Ioannes Nishi Mataishi. Martyr."
+birthYear: 1555
+deathYear: 1609
+born: "c.1555 in Ikitsuki, Nagasaki, Japan"
+died: "14 November 1609 in Ikitsuki, Nagasaki, Japan"
+birthPlace: "Nagasaki, Japan"
+deathPlace: "Nagasaki, Japan"
+region: "England"
+feastDay:
+  month: 11
+  day: 14
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+  - Cardinal
+martyr: true
+---
+
+Lay woman of the archdiocese of Nagasaki, Japan. Married to Blessed Gaspar Nishi Genka; mother of Blessed Ioannes Nishi Mataishi. Martyr.

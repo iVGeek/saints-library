@@ -1,0 +1,18 @@
+---
+name: "Saint Constantius of Cologne"
+honorific: Saint
+title: "Martyr"
+summary: "Martyr."
+died: "Rome, Italy, date unknown"
+deathPlace: "Italy, date unknown"
+region: "Italy"
+feastDay:
+  month: 3
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Martyr
+martyr: true
+---
+
+Martyr.

@@ -1,0 +1,22 @@
+---
+name: "Saint Eustachio of Naples"
+honorific: Saint
+title: "Martyr, Bishop, Pope"
+summary: "Mid-3rd-century bishop of Naples, Italy."
+searchAliases:
+  - "Eustasio"
+  - "Eustatius"
+died: "mid-3rd-century of natural causes"
+region: "Italy"
+feastDay:
+  month: 3
+  day: 29
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Pope
+martyr: true
+---
+
+Mid-3rd-century bishop of Naples, Italy.

@@ -1,0 +1,24 @@
+---
+name: "Saint Maximian of Syracuse"
+honorific: Saint
+title: "Martyr, Bishop, Monk, Pope"
+summary: "Monk at the monastery of Saint Andrew, Coelian Hill, Rome, Italy. Brother monk with Pope Saint Gregory the Great. Papal ambassador to Contantinople. Bishop of Syracuse, Sicily."
+searchAliases:
+  - "Massimiano"
+deathYear: 594
+born: "Sicily"
+died: "594 of natural causes"
+region: "Italy"
+feastDay:
+  month: 6
+  day: 9
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+  - Pope
+martyr: true
+---
+
+Monk at the monastery of Saint Andrew, Coelian Hill, Rome, Italy. Brother monk with Pope Saint Gregory the Great. Papal ambassador to Contantinople. Bishop of Syracuse, Sicily.

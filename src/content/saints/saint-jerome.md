@@ -3,7 +3,7 @@ name: Saint Jerome
 honorific: Saint
 title: St. Jerome
 summary: "Born to a rich pagan family, Jerome led a wild and misspent youth. Studied in Rome, Italy, and became a lawyer. He converted and joined the Church in theory, and was baptised in 365, but it was only w..."
-image: https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/MatthiasStom-SaintJerome-Nantes.jpg"
 imageAlt: Portrait of Saint Jerome
 imageCredit: Wikimedia Commons
 searchAliases:

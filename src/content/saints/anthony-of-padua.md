@@ -22,6 +22,7 @@ feastDay:
   day: 13
 liturgicalRank: Memorial
 canonizationStatus: Saint
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg"
 beatifiedDate: 30 May 1232
 canonizedDate: 30 May 1232
 vocation:
@@ -46,10 +47,9 @@ symbols:
   - Bread
   - Tongue
 martyr: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/330px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg
 imageAlt: A 15th-century fresco of Saint Anthony of Padua by Benozzo Gozzoli
 imageCredit: Benozzo Gozzoli, fresco, Santa Maria in Aracoeli, Rome — public domain (Wikimedia Commons)
-imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint_Anthony_of_Padua,_fresco_Benozzo_Gozzoli,_Church_Santa_Maria_in_Aracoeli,_Rome,_Italy.jpg
+imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Saint_Anthony_of_Padua,_fresco_Benozzo_Gozzoli,_Church_Santa_Maria_in_Aracoeli,_Rome,_Italy.jpg"
 lifeEvents:
   - year: "1195"
     event: Born Fernando de Bulhões in Lisbon, Portugal, to a noble family.

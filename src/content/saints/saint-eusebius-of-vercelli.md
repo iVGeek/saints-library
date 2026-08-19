@@ -3,7 +3,7 @@ name: Saint Eusebius of Vercelli
 honorific: Saint
 title: St. Eusebius of Vercelli
 summary: "Born to a pious family – his father died a martyrs when the Eusebius was small, he was baptized in Rome, Italy by Pope Saint Eusebius, his mother, Saint Restituta, died a martyr in her old age, and hi..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sebastiano_Ricci_049.jpg/330px-Sebastiano_Ricci_049.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sebastiano_Ricci_049.jpg/960px-Sebastiano_Ricci_049.jpg"
 imageAlt: Portrait of Saint Eusebius of Vercelli
 imageCredit: Wikimedia Commons
 searchAliases:

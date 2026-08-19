@@ -1,0 +1,15 @@
+---
+name: "Saint Odran"
+honorific: Saint
+title: "Monk"
+summary: "Brother of Saint Medran. Disciple of Saint Kieran of Saghir. Monk and then abbot of the monastery at Muskerry"
+feastDay:
+  month: 7
+  day: 7
+canonizationStatus: Saint
+vocation:
+  - Monk
+martyr: false
+---
+
+Brother of Saint Medran. Disciple of Saint Kieran of Saghir. Monk and then abbot of the monastery at Muskerry

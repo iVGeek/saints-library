@@ -1,0 +1,21 @@
+---
+name: "Saint Abibus of Samosata"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Convert. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata."
+searchAliases:
+  - "Abibas"
+deathYear: 297
+died: "crucified in 297 at Samosata (an area in modern Turkey)"
+region: "England"
+feastDay:
+  month: 12
+  day: 9
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Convert. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata.

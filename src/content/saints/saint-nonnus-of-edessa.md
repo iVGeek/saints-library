@@ -1,0 +1,25 @@
+---
+name: "Saint Nonnus of Edessa"
+honorific: Saint
+title: "Martyr, Bishop, Monk, Deacon"
+summary: "Deacon. Monk at the monastery of Tabenna in upper Egypt. Bishop of Edessa, Mesopotamia. Attended the Council of Chalcedon in 451. It was through his prayers that Saint Pelagia the Penitent was converted to Christianity."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nonnus.jpg"
+searchAliases:
+  - "Nennos"
+  - "Ninos"
+  - "Nono"
+  - "Nonnos"
+region: "England"
+feastDay:
+  month: 12
+  day: 2
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+  - Deacon
+martyr: true
+---
+
+Deacon. Monk at the monastery of Tabenna in upper Egypt. Bishop of Edessa, Mesopotamia. Attended the Council of Chalcedon in 451. It was through his prayers that Saint Pelagia the Penitent was converted to Christianity.

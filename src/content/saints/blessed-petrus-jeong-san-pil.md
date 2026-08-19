@@ -1,0 +1,22 @@
+---
+name: "Blessed Petrus Jeong San-pil"
+honorific: Blessed
+title: "Martyr, Pope"
+summary: "Layman martyr in the apostolic vicariate of Korea."
+deathYear: 1799
+born: "Deoksan, Chungcheong-do, South Korea"
+died: "1799 in Deoksan, Chungcheong-do, South Korea"
+birthPlace: "Chungcheong-do, South Korea"
+deathPlace: "Chungcheong-do, South Korea"
+region: "Korea"
+feastDay:
+  month: 9
+  day: 20
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+martyr: true
+---
+
+Layman martyr in the apostolic vicariate of Korea.

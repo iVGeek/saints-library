@@ -3,7 +3,7 @@ name: Saint Cyprian of Carthage
 honorific: Saint
 title: St. Cyprian of Carthage
 summary: "Born to wealthy pagan parents. Taught rhetoric and literature. Adult convert in 246, taught the faith by Saint Caecilius of Carthage. Ordained in 247. Bishop of Carthage in 249. During the persecution..."
-image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprian_von_Karthago2.jpg"
 imageAlt: Portrait of Saint Cyprian of Carthage
 imageCredit: Wikimedia Commons
 searchAliases:

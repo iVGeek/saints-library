@@ -3,7 +3,7 @@ name: Saint Maria Goretti
 honorific: Saint
 title: St. Maria Goretti
 summary: "Beautiful, pious farm girl, one of six children of Luigi Goretti and Assunta Carlini. In 1896 the family moved to Ferriere di Conca. Soon after, Maria’s father died of malaria, and the family was forc..."
-image: https://upload.wikimedia.org/wikipedia/commons/3/38/Maria_Goretti.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Maria_Goretti.jpg"
 imageAlt: Portrait of Saint Maria Goretti
 imageCredit: Wikimedia Commons
 birthYear: 1890

@@ -1,0 +1,22 @@
+---
+name: "Saint Brogan of Mothil"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Sixth or seventh century scribe and bishop of Mothil, Waterford, Ireland. May have been the nephew of Saint Patrick, and may have served as his secretary."
+searchAliases:
+  - "Bearchan"
+  - "Bracan"
+  - "Broccan"
+  - "Brochan"
+region: "Ireland"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Sixth or seventh century scribe and bishop of Mothil, Waterford, Ireland. May have been the nephew of Saint Patrick, and may have served as his secretary.

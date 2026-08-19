@@ -3,7 +3,7 @@ name: Saint Kevin of Glendalough
 honorific: Saint
 title: St. Kevin of Glendalough
 summary: "Son of Coemlog and Coemell, Leinster nobility. Baptized by Saint Cronan of Roscrea, and educated by Saint Petroc of Cornwall from age seven. Lived with monks from age 12. Studied for the priesthood in..."
-image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Kevin-black.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kevin-black.jpg"
 imageAlt: Portrait of Saint Kevin of Glendalough
 imageCredit: Wikimedia Commons
 searchAliases:

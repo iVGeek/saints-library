@@ -1,0 +1,24 @@
+---
+name: "Blessed Tomás Valera González"
+honorific: Blessed
+title: "Martyr, Pope, Cardinal"
+summary: "Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+birthYear: 1918
+deathYear: 1938
+born: "7 October 1918 in Sorbas, Almeria Spain"
+died: "20 May 1938 in Turón, Granada Spain"
+birthPlace: "Almeria Spain"
+deathPlace: "Granada Spain"
+region: "Spain"
+feastDay:
+  month: 5
+  day: 20
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+  - Cardinal
+martyr: true
+---
+
+Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War.

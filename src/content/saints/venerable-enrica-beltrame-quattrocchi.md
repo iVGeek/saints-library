@@ -1,0 +1,26 @@
+---
+name: "Venerable Enrica Beltrame Quattrocchi"
+honorific: Venerable
+title: "Pope"
+summary: "Lay woman in the vicariage of Rome, Italy."
+image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrica-Beltrame-Quattrocchi.jpg"
+searchAliases:
+  - "Enrichetta"
+  - "Mestolino di Dio"
+birthYear: 1914
+deathYear: 2012
+born: "6 April 1914 in Rome, Italy"
+died: "16 June 2012 in Rome, Italy of natural causes"
+birthPlace: "Italy"
+deathPlace: "Italynatural causes"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Venerable
+vocation:
+  - Pope
+martyr: false
+---
+
+Lay woman in the vicariage of Rome, Italy.

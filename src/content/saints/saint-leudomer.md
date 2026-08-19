@@ -1,0 +1,21 @@
+---
+name: "Saint Leudomer"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Bishop of Chartres, France."
+searchAliases:
+  - "Lomer"
+deathYear: 585
+died: "c.585 of natural causes"
+region: "France"
+feastDay:
+  month: 10
+  day: 2
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Bishop of Chartres, France.

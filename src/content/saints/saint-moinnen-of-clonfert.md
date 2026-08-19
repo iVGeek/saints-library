@@ -1,0 +1,23 @@
+---
+name: "Saint Moinnen of Clonfert"
+honorific: Saint
+title: "Martyr, Bishop"
+summary: "Sixth century bishop of Clonfert, County Galway, Ireland."
+searchAliases:
+  - "Maoineann"
+  - "Moenu"
+  - "Monendabbis"
+deathYear: 571
+died: "c.571"
+region: "Ireland"
+feastDay:
+  month: 3
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+martyr: true
+---
+
+Sixth century bishop of Clonfert, County Galway, Ireland.

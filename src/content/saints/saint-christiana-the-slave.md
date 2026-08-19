@@ -1,0 +1,17 @@
+---
+name: "Saint Christiana the Slave"
+honorific: Saint
+title: "Martyr, Priest, Monk"
+summary: "Fourth century Christian maiden kidnapped and enslaved by the pagan Iberi around the Caspian and Black Sea; her real name is lost to us, and she was called Christiana because she refused to give up her faith. Having performed miracles by praying, Christiana converted members of t"
+feastDay:
+  month: 12
+  day: 15
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+martyr: true
+---
+
+Fourth century Christian maiden kidnapped and enslaved by the pagan Iberi around the Caspian and Black Sea; her real name is lost to us, and she was called Christiana because she refused to give up her faith. Having performed miracles by praying, Christiana converted members of the Iberi royal family who sent to Emperor Constantine for priests and missionaries to convert their people.

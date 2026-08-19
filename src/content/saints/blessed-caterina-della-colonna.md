@@ -1,0 +1,21 @@
+---
+name: "Blessed Caterina della Colonna"
+honorific: Blessed
+title: "Religious"
+summary: "Poor Clare nun, professed at the Santa Chiara of Belalcázar convent in Cordoba, Spain where she served as novice mistress for many years."
+searchAliases:
+  - "Catherine of Column"
+deathYear: 1575
+died: "c.1575 of natural causes"
+region: "Spain"
+feastDay:
+  month: 6
+  day: 17
+canonizationStatus: Blessed
+vocation:
+  - Religious
+religiousOrder: "Franciscan"
+martyr: false
+---
+
+Poor Clare nun, professed at the Santa Chiara of Belalcázar convent in Cordoba, Spain where she served as novice mistress for many years.

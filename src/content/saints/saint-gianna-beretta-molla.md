@@ -3,7 +3,7 @@ name: Saint Gianna Beretta Molla
 honorific: Saint
 title: St. Gianna Beretta Molla
 summary: "Tenth of thirteen children born to Alberto and Maria Beretta, she was a pious girl raised in a pious family; one sister became a Canossian missionary nun, and two brothers, including Venerable Enrico ..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gianna_Beretta_Molla.jpg/330px-Gianna_Beretta_Molla.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gianna_Beretta_Molla.jpg"
 imageAlt: Portrait of Saint Gianna Beretta Molla
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -1,0 +1,20 @@
+---
+name: "Saint Felix of Hadrumetum"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "One of a group of 26 martyrs killed by Vandals."
+deathYear: 434
+died: "c.434 at Hadrumetum (modern Sousse, Tunisia)"
+deathPlace: "Tunisia)"
+region: "England"
+feastDay:
+  month: 2
+  day: 21
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+One of a group of 26 martyrs killed by Vandals.

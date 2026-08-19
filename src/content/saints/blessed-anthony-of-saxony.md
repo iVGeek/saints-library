@@ -1,0 +1,23 @@
+---
+name: "Blessed Anthony of Saxony"
+honorific: Blessed
+title: "Martyr, Priest, Monk, Royalty, Missionary"
+summary: "Franciscan friar and priest. Missionary to Bulgaria. Betrayed by a heretic monk, he and several of his religious brothers were martyred by schismatic Greeks on the order of King Bazarath."
+deathYear: 1369
+died: "1369 at Vidin (in modern Bulgaria)"
+region: "England"
+feastDay:
+  month: 2
+  day: 12
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Royalty
+  - Missionary
+religiousOrder: "Franciscan"
+martyr: true
+---
+
+Franciscan friar and priest. Missionary to Bulgaria. Betrayed by a heretic monk, he and several of his religious brothers were martyred by schismatic Greeks on the order of King Bazarath.

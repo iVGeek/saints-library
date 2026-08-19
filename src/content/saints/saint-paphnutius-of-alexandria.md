@@ -1,0 +1,19 @@
+---
+name: "Saint Paphnutius of Alexandria"
+honorific: Saint
+title: "Priest, Monk"
+summary: "Father of Saint Euphrosyne of Alexandria. Later in life he became a monk and then abbot."
+deathYear: 480
+died: "480 of natural causes"
+region: "England"
+feastDay:
+  month: 9
+  day: 25
+canonizationStatus: Saint
+vocation:
+  - Priest
+  - Monk
+martyr: false
+---
+
+Father of Saint Euphrosyne of Alexandria. Later in life he became a monk and then abbot.

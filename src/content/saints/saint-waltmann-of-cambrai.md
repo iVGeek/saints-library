@@ -1,0 +1,20 @@
+---
+name: "Saint Waltmann of Cambrai"
+honorific: Saint
+title: "Saint"
+summary: "Accompanied Saint Norbert of Xanten to Cambrai, France to preach against heresy. Remained as abbot of Saint Michael's at Antwerp, Belgium."
+searchAliases:
+  - "Waltmann of Antwerp"
+deathYear: 1138
+died: "1138 of natural causes"
+region: "France"
+feastDay:
+  month: 4
+  day: 15
+canonizationStatus: Saint
+vocation:
+  - Saint
+martyr: false
+---
+
+Accompanied Saint Norbert of Xanten to Cambrai, France to preach against heresy. Remained as abbot of Saint Michael's at Antwerp, Belgium.

@@ -3,7 +3,7 @@ name: Saint Gregory of Nyssa
 honorific: Saint
 title: St. Gregory of Nyssa
 summary: "Younger brother of Saint Basil the Great. Friend of Saint Gregory of Nanzienzen. Educated in Athens, Greece. Influenced by the works of Origen and Plato. Married to Theosebeia, who may have been a dea..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gregory_of_Nyssa.jpg/330px-Gregory_of_Nyssa.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Gregory_of_Nyssa.jpg"
 imageAlt: Portrait of Saint Gregory of Nyssa
 imageCredit: Wikimedia Commons
 birthPlace: "Caesarea"

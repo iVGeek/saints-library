@@ -1,0 +1,29 @@
+---
+name: "Saint Marianna Giuliani"
+honorific: Venerable
+title: "Martyr, Religious, Pope, Missionary"
+summary: "Nun. Member of the Franciscan Missionaries of Mary. Missionary to China. Martyred in the Boxer Rebellion."
+image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg"
+searchAliases:
+  - "Sister Maria of Peace"
+birthYear: 1875
+deathYear: 1900
+born: "12 December 1875 in L'Aquila, Italy"
+died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"
+birthPlace: "Italy"
+deathPlace: "Shanxi, China"
+region: "Italy"
+feastDay:
+  month: 7
+  day: 8
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Religious
+  - Pope
+  - Missionary
+religiousOrder: "Franciscan"
+martyr: true
+---
+
+Nun. Member of the Franciscan Missionaries of Mary. Missionary to China. Martyred in the Boxer Rebellion.

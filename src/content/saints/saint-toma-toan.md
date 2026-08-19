@@ -1,0 +1,27 @@
+---
+name: "Saint Tôma Toán"
+honorific: Venerable
+title: "Martyr, Pope"
+summary: "Layman in the apostolic vicariate of East Tonkin, Vietnam. Member of the lay Dominicans. Catechist and head of Mission Linh Trung. Arrested, tortured and left to die of hunger and thirst in the persecutions of Emperor Minh Mang. Martyr."
+searchAliases:
+  - "Tommaso Toan"
+  - "Thomas Toan"
+birthYear: 1764
+deathYear: 1840
+born: "c.1764 in Can Phán, Nam Ðinh, Vietnam"
+died: "starved to death on 27 June 1840 in prison in Nam Ðinh, Vietnam"
+birthPlace: "Nam Ðinh, Vietnam"
+deathPlace: "Vietnam"
+region: "England"
+feastDay:
+  month: 6
+  day: 27
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Pope
+religiousOrder: "Dominican"
+martyr: true
+---
+
+Layman in the apostolic vicariate of East Tonkin, Vietnam. Member of the lay Dominicans. Catechist and head of Mission Linh Trung. Arrested, tortured and left to die of hunger and thirst in the persecutions of Emperor Minh Mang. Martyr.

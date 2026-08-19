@@ -1,0 +1,19 @@
+---
+name: "Blessed Hilsindis"
+honorific: Blessed
+title: "Religious"
+summary: "Daughter of the Duke of Lorraine. Married lay woman. Widow. Founded a convent at Thorn (now in the Netherlands), and joined it as a Benedictine nun. Abbess at Thorn."
+deathYear: 1028
+died: "1028 of natural causes"
+region: "France"
+feastDay:
+  month: 5
+  day: 4
+canonizationStatus: Blessed
+vocation:
+  - Religious
+religiousOrder: "Benedictine"
+martyr: false
+---
+
+Daughter of the Duke of Lorraine. Married lay woman. Widow. Founded a convent at Thorn (now in the Netherlands), and joined it as a Benedictine nun. Abbess at Thorn.

@@ -3,7 +3,7 @@ name: Saint John Baptist Con
 honorific: Saint
 title: St. John Baptist Con
 summary: "Married layman. Martyr."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg/330px-Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg/330px-Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg"
 imageAlt: Portrait of Saint John Baptist Con
 imageCredit: Wikimedia Commons
 searchAliases:

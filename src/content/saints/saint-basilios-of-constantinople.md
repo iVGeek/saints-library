@@ -1,0 +1,22 @@
+---
+name: "Saint Basilios of Constantinople"
+honorific: Saint
+title: "Monk, Confessor"
+summary: "Opposed the 8th-century iconoclast decrees of Leo the Isaurian, and preserved icons and images in his care. Beaten and imprisoned for this work, he was finally released after Leo's death."
+searchAliases:
+  - "Basilios the Confessor"
+  - "Basil…."
+deathYear: 825
+died: "c.825 of natural causes"
+region: "England"
+feastDay:
+  month: 2
+  day: 27
+canonizationStatus: Saint
+vocation:
+  - Monk
+  - Confessor
+martyr: false
+---
+
+Opposed the 8th-century iconoclast decrees of Leo the Isaurian, and preserved icons and images in his care. Beaten and imprisoned for this work, he was finally released after Leo's death.

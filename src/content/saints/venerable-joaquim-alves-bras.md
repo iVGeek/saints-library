@@ -1,0 +1,24 @@
+---
+name: "Venerable Joaquim Alves Brás"
+honorific: Venerable
+title: "Priest, Pope"
+summary: "Priest in the patriarchate of Lisbon, Portugal. Founded the Secular Institute of the Cooperators of the Family. Founded Work of Saint Zita."
+image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Alves-Brás.jpg"
+birthYear: 1889
+deathYear: 1966
+born: "20 March 1889 in Casegas-Covilhã, Castelo Branco, Portugal"
+died: "13 March 1966 in Lisbon, Portugal of natural causes"
+birthPlace: "Castelo Branco, Portugal"
+deathPlace: "Portugalnatural causes"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Venerable
+vocation:
+  - Priest
+  - Pope
+martyr: false
+---
+
+Priest in the patriarchate of Lisbon, Portugal. Founded the Secular Institute of the Cooperators of the Family. Founded Work of Saint Zita.

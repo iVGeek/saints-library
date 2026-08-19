@@ -1,0 +1,26 @@
+---
+name: "Saint Lawrence of Novara"
+honorific: Saint
+title: "Martyr, Priest, Monk"
+summary: "Priest. Friend and assistant to Saint Gaudentius of Novara. Martyred with a group of children he was instructing in Christianity."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-of-Novara.jpg"
+searchAliases:
+  - "Laurence"
+  - "Lorenzo"
+deathYear: 397
+born: "west of Novara, Italy; possibly Spain or France"
+died: "martyred c.397"
+birthPlace: "Italy; possibly Spaor France"
+region: "Italy"
+feastDay:
+  month: 4
+  day: 30
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+martyr: true
+---
+
+Priest. Friend and assistant to Saint Gaudentius of Novara. Martyred with a group of children he was instructing in Christianity.

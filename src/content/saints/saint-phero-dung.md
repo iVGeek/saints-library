@@ -1,0 +1,26 @@
+---
+name: "Saint Phêrô Dung"
+honorific: Venerable
+title: "Martyr, Pope"
+summary: "Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr."
+image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+searchAliases:
+  - "Peter"
+birthYear: 1800
+deathYear: 1862
+born: "c.1800 in Ðông Hào, Thái Bình, Vietnam"
+died: "burned at the stake on 6 June 1862 in Nam Ðinh, Vietnam"
+birthPlace: "Thái Bình, Vietnam"
+deathPlace: "Vietnam"
+region: "England"
+feastDay:
+  month: 6
+  day: 6
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Pope
+martyr: true
+---
+
+Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr.

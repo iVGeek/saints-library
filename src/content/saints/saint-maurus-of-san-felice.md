@@ -1,0 +1,18 @@
+---
+name: "Saint Maurus of San Felice"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Sixth-century bishop. Pilgrim to Rome, Italy. Settle in the village of San Felice near Narni, Italy."
+born: "Palestine"
+region: "Italy"
+feastDay:
+  month: 6
+  day: 16
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Sixth-century bishop. Pilgrim to Rome, Italy. Settle in the village of San Felice near Narni, Italy.

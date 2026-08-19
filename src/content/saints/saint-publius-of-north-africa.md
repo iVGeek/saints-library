@@ -1,0 +1,19 @@
+---
+name: "Saint Publius of North Africa"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Martyr. No other information has survived."
+died: "martyred in North Africa, date unknown"
+deathPlace: "date unknown"
+region: "Africa"
+feastDay:
+  month: 11
+  day: 2
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Martyr. No other information has survived.

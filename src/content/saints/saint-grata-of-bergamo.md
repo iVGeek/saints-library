@@ -1,0 +1,24 @@
+---
+name: "Saint Grata of Bergamo"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Widowed lay woman who zealously pursued a mission of giving Christian burial for martyrs. This included the body of Saint Alexander of Bergamo; as she carried his severed head, lilies sprang from the earth from every spot where a drop of his blood fell. She is reputed to have bui"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1750_Tiepolo_Die_Heiligen_der_Familie_Crotta_anagoria.JPG/960px-1750_Tiepolo_Die_Heiligen_der_Familie_Crotta_anagoria.JPG"
+deathYear: 307
+died: "c.307 in Bergamo, Italy"
+deathPlace: "Italy"
+region: "Italy"
+feastDay:
+  month: 5
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+patronage:
+  - "in Italy\n\nBergamo"
+  - "Grassobbio"
+martyr: true
+---
+
+Widowed lay woman who zealously pursued a mission of giving Christian burial for martyrs. This included the body of Saint Alexander of Bergamo; as she carried his severed head, lilies sprang from the earth from every spot where a drop of his blood fell. She is reputed to have built three churches and a hospital for the poor in Bergamo, Italy.

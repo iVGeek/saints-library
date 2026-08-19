@@ -1,0 +1,24 @@
+---
+name: "Blessed Iacobus of Hiji"
+honorific: Blessed
+title: "Martyr, Pope, Cardinal"
+summary: "Young son of Blessed Balthasar Kagayama Hanzaemon in the diocese of Fukuoka, Japan. Martyr."
+birthYear: 1615
+deathYear: 1619
+born: "c.1615 in Hiji, Oita, Japan"
+died: "15 October 1619 in Hiji, Oita, Japan"
+birthPlace: "Oita, Japan"
+deathPlace: "Oita, Japan"
+region: "England"
+feastDay:
+  month: 10
+  day: 15
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+  - Cardinal
+martyr: true
+---
+
+Young son of Blessed Balthasar Kagayama Hanzaemon in the diocese of Fukuoka, Japan. Martyr.

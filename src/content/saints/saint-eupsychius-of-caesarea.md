@@ -1,0 +1,20 @@
+---
+name: "Saint Eupsychius of Caesarea"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Martyred in the persecutions of the Roman emperor Hadrian."
+deathYear: 130
+died: "c.130 at Caesarea, Cappadocia"
+deathPlace: "Cappadocia"
+region: "England"
+feastDay:
+  month: 9
+  day: 7
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Martyred in the persecutions of the Roman emperor Hadrian.

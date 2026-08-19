@@ -1,0 +1,21 @@
+---
+name: "Saint Adrian of Maastricht"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Monk in Maastricht, Netherlands. Spiritual student of Saint Landoald of Maastricht. Murdered by robbers while begging alms for his community. Venerated as a martyr for dying in the service of his brothers."
+searchAliases:
+  - "Hadrian"
+deathYear: 668
+died: "c.668"
+region: "England"
+feastDay:
+  month: 3
+  day: 19
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Monk in Maastricht, Netherlands. Spiritual student of Saint Landoald of Maastricht. Murdered by robbers while begging alms for his community. Venerated as a martyr for dying in the service of his brothers.

@@ -1,0 +1,23 @@
+---
+name: "Blessed Gregory of Besians"
+honorific: Blessed
+title: "Pope"
+summary: "Spanish Dominican. With Blessed Dominic, he preached in the villages of the Somontano, near Barbastro, near the Spanish Pyrenees. While travelling from one village to another, they were caught in strong thunderstorm; they sought refuge under and overhanging rock, which was loosen"
+deathYear: 1300
+born: "Spain"
+died: "crushed by a boulder in 1300 at Perarrúa, Spain"
+deathPlace: "Spain"
+region: "Spain"
+feastDay:
+  month: 4
+  day: 26
+canonizationStatus: Blessed
+vocation:
+  - Pope
+religiousOrder: "Dominican"
+patronage:
+  - "Besians, Spain"
+martyr: false
+---
+
+Spanish Dominican. With Blessed Dominic, he preached in the villages of the Somontano, near Barbastro, near the Spanish Pyrenees. While travelling from one village to another, they were caught in strong thunderstorm; they sought refuge under and overhanging rock, which was loosened by the rain, and fell on them.

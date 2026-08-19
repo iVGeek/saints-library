@@ -1,0 +1,16 @@
+---
+name: "Saint Eutropius of Adrianopolis"
+honorific: Saint
+title: "Bishop"
+summary: "Bishop of Adrianopolis, Paphlagonia, Asia Minor (modern Edirne, Turkey). Stories about him are confused, but all agree that he opposed Arianism and was persecuted by Arians."
+region: "Turkey"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Bishop
+martyr: false
+---
+
+Bishop of Adrianopolis, Paphlagonia, Asia Minor (modern Edirne, Turkey). Stories about him are confused, but all agree that he opposed Arianism and was persecuted by Arians.

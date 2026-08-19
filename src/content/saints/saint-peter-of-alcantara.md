@@ -3,7 +3,7 @@ name: Saint Peter of Alcántara
 honorific: Saint
 title: St. Peter of Alcántara
 summary: "Son of Peter Garavita, governor of the palace; his mother was a member of the noble family of Sanabia. Peter studied grammar and philosophy at Alcantara, and both civil and canon law at Salamanca Univ..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Clevelandart_2009.81.jpg/330px-Clevelandart_2009.81.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Clevelandart_2009.81.jpg/960px-Clevelandart_2009.81.jpg"
 imageAlt: Portrait of Saint Peter of Alcántara
 imageCredit: Wikimedia Commons
 searchAliases:

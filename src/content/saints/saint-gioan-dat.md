@@ -1,0 +1,29 @@
+---
+name: "Saint Gioan Ðat"
+honorific: Venerable
+title: "Martyr, Priest, Monk, Pope"
+summary: "Parish priest in the apostolic vicariate of West Tonkin, ordained in 1798. Arrested for his faith soon after.  One of the Martyrs of Vietnam."
+searchAliases:
+  - "Giovanni"
+  - "Johannes"
+  - "John"
+birthYear: 1765
+deathYear: 1798
+born: "c.1765 in Ðong Chuoi, Thanh Hóa, Vietnam"
+died: "28 October 1798 in Cho Ra, Thanh Hóa, Vietnam"
+birthPlace: "Thanh Hóa, Vietnam"
+deathPlace: "Thanh Hóa, Vietnam"
+region: "France"
+feastDay:
+  month: 10
+  day: 28
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Pope
+martyr: true
+---
+
+Parish priest in the apostolic vicariate of West Tonkin, ordained in 1798. Arrested for his faith soon after.  One of the Martyrs of Vietnam.

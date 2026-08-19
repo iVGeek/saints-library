@@ -3,7 +3,7 @@ name: Saint Charles Lwanga
 honorific: Saint
 title: St. Charles Lwanga
 summary: "Ngabi clan. Servant of King Mwanga of Uganda. Convert, joining the Church in June 1885. One of the Martyrs of Uganda who died in the Mwangan persecutions."
-image: https://upload.wikimedia.org/wikipedia/commons/f/f0/Karoli_Lwanga_and_his_followers.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Karoli_Lwanga_and_his_followers.jpg"
 imageAlt: Portrait of Saint Charles Lwanga
 imageCredit: Wikimedia Commons
 searchAliases:

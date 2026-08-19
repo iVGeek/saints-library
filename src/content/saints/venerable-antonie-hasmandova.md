@@ -1,0 +1,26 @@
+---
+name: "Venerable Antonie Hasmandová"
+honorific: Venerable
+title: "Martyr, Religious, Pope"
+summary: "Nun in the Congregation of the Sisters of Mercy of Saint Charles Borromeo. The Communist regime in power in Czechoslovakia at the time imprisoned her for her active faith from 1952 to 1960. Superior-General of her Congregation from 1970 until her death."
+searchAliases:
+  - "Marie Vojtecha"
+birthYear: 1914
+deathYear: 1988
+born: "25 March 1914 in Huštenovice, Uherské Hradište, Czech Republic"
+died: "21 January 1988 in Znojmo-Hradište, Znojmo, Czech Republic of natural causes"
+birthPlace: "Uherské Hradište, Czech Republic"
+deathPlace: "Znojmo, Czech Republicnatural causes"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Religious
+  - Pope
+martyr: true
+---
+
+Nun in the Congregation of the Sisters of Mercy of Saint Charles Borromeo. The Communist regime in power in Czechoslovakia at the time imprisoned her for her active faith from 1952 to 1960. Superior-General of her Congregation from 1970 until her death.

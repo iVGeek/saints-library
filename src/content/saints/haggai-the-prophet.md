@@ -1,0 +1,25 @@
+---
+name: "Haggai the Prophet"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding the Temple in Jerusalem."
+image: "http://catholicsaints.info/wp-content/uploads/img-Haggai-the-Prophet.jpg"
+searchAliases:
+  - "Aggaeus"
+  - "Aggeus"
+  - "Hággáy"
+  - "Haggaios"
+deathYear: 516
+died: "c.516 BC"
+region: "Italy"
+feastDay:
+  month: 12
+  day: 16
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding the Temple in Jerusalem.

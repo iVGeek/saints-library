@@ -1,0 +1,24 @@
+---
+name: "Saint Quadratus of Anatolia"
+honorific: Saint
+title: "Martyr, Bishop, Monk"
+summary: "Bishop in Anatolia (in modern Turkey). Martyred with 42 companions in the persecutions of Diocletian."
+searchAliases:
+  - "Codrato"
+  - "Codratus"
+deathYear: 304
+died: "c.304 in Anatolia, Asia Minor (modern Turkey)"
+deathPlace: "Asia Minor (modern Turkey)"
+region: "England"
+feastDay:
+  month: 3
+  day: 26
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+martyr: true
+---
+
+Bishop in Anatolia (in modern Turkey). Martyred with 42 companions in the persecutions of Diocletian.

@@ -1,0 +1,21 @@
+---
+name: "Saint Abakerazum"
+honorific: Saint
+title: "Martyr, Priest"
+summary: "A robber who converted to Christianity, gave up his old life, and was martyred for his faith."
+searchAliases:
+  - "Kirdjun"
+died: "at Alexandria, Egypt"
+deathPlace: "Egypt"
+region: "Egypt"
+feastDay:
+  month: 7
+  day: 19
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+martyr: true
+---
+
+A robber who converted to Christianity, gave up his old life, and was martyred for his faith.

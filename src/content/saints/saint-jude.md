@@ -3,7 +3,7 @@ name: Saint Jude Thaddeus
 honorific: Saint
 title: St. Jude Thaddeus
 summary: "Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ’s body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relati..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/330px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/330px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg"
 imageAlt: Portrait of Saint Jude Thaddeus
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -1,0 +1,24 @@
+---
+name: "Saint Agatha Yi"
+honorific: Venerable
+title: "Martyr, Pope"
+summary: "Young single lay woman martyred in the persecutions in Korea."
+image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
+birthYear: 1824
+deathYear: 1840
+born: "1824 in Seoul, South Korea"
+died: "9 January 1840 in Seoul Prison, South Korea"
+birthPlace: "South Korea"
+deathPlace: "South Korea"
+region: "England"
+feastDay:
+  month: 1
+  day: 9
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Pope
+martyr: true
+---
+
+Young single lay woman martyred in the persecutions in Korea.

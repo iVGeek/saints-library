@@ -1,0 +1,19 @@
+---
+name: "Saint Ceollach"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland."
+born: "Ireland"
+died: "7th century in Ireland"
+region: "Ireland"
+feastDay:
+  month: 10
+  day: 6
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland.

@@ -3,7 +3,7 @@ name: Saint Daniel Comboni
 honorific: Saint
 title: St. Daniel Comboni
 summary: "Educated at Father Mazza’s Institute in Verona, Italy, studying theology, medicine, and several languages. Ordained on 31 December 1854 in the diocese of Verona, Italy by Blessed John Nepomuk von Tsch..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daniele_Comboni.jpg/330px-Daniele_Comboni.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daniele_Comboni.jpg/330px-Daniele_Comboni.jpg"
 imageAlt: Portrait of Saint Daniel Comboni
 imageCredit: Wikimedia Commons
 birthYear: 1831

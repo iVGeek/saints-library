@@ -1,0 +1,22 @@
+---
+name: "Saint Antoninus of Milan"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Archbishop of Milan, Italy."
+searchAliases:
+  - "Antonino"
+  - "Fontana"
+deathYear: 660
+died: "660 of natural causes"
+region: "Italy"
+feastDay:
+  month: 10
+  day: 31
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Archbishop of Milan, Italy.

@@ -1,0 +1,17 @@
+---
+name: "Saint Erembert I of Kremsmünster"
+honorific: Saint
+title: "Monk"
+summary: "Benedictine monk. Abbot of Kremsmünster in Austria in 1050."
+region: "Austria"
+feastDay:
+  month: 6
+  day: 24
+canonizationStatus: Saint
+vocation:
+  - Monk
+religiousOrder: "Benedictine"
+martyr: false
+---
+
+Benedictine monk. Abbot of Kremsmünster in Austria in 1050.

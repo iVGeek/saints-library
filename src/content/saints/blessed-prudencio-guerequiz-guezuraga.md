@@ -1,0 +1,27 @@
+---
+name: "Blessed Prudencio Guerequiz Guezuraga"
+honorific: Blessed
+title: "Martyr, Priest, Pope"
+summary: "Trinitarian priest. Martyred in the Spanish Civil War."
+image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Prudencio-de-la-Cruz.jpg"
+searchAliases:
+  - "Father Prudencio of the Cross"
+birthYear: 1883
+deathYear: 1936
+born: "28 April 1883 in Rigoitia, Vizcaya, Spain"
+died: "26 July 1936 in Villanueva del Arzobispo, Jaén, Spain"
+birthPlace: "Vizcaya, Spain"
+deathPlace: "Jaén, Spain"
+region: "Spain"
+feastDay:
+  month: 7
+  day: 31
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+martyr: true
+---
+
+Trinitarian priest. Martyred in the Spanish Civil War.

@@ -3,7 +3,7 @@ name: Saint Guy of Anderlecht
 honorific: Saint
 title: St. Guy of Anderlecht
 summary: "Born in poverty, he was trained in religion by pious parents. For many years he embraced poverty as God’s will for him, and spent his time caring for the poor and sick. When he worked the fields, an a..."
-image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Saintguidon.JPG
+image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Saintguidon.JPG"
 imageAlt: Portrait of Saint Guy of Anderlecht
 imageCredit: Wikimedia Commons
 searchAliases:

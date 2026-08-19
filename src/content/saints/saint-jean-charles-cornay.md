@@ -1,0 +1,33 @@
+---
+name: "Saint Jean-Charles Cornay"
+honorific: Venerable
+title: "Martyr, Priest, Pope, Royalty, Missionary"
+summary: "Priest. Member of the Paris Society of Foreign Missions. Missionary to Vietnam, working in Annam. Accused of theft after weapons were planted on his land to discredit him, he was actually arrested for his faith at Ban-ho. He was kept in chains in a cage for three months, routinel"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jean-Charles_Cornay.jpg/960px-Jean-Charles_Cornay.jpg"
+searchAliases:
+  - "Charles Cornay"
+  - "Giancarlo Cornay"
+  - "John Charles Cornay"
+  - "John Cornay"
+  - "Johannes Karl Cornay"
+birthYear: 1809
+deathYear: 1837
+born: "27 February 1809 at Loudun, diocese of Poitiers, Vienne, France"
+died: "beheaded and his body hacked to pieces on 20 September 1837 at Son Tây, Ha Tây, Vietnam"
+birthPlace: "diocesePoitiers, Vienne, France"
+deathPlace: "Ha Tây, Vietnam"
+region: "France"
+feastDay:
+  month: 9
+  day: 20
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+  - Royalty
+  - Missionary
+martyr: true
+---
+
+Priest. Member of the Paris Society of Foreign Missions. Missionary to Vietnam, working in Annam. Accused of theft after weapons were planted on his land to discredit him, he was actually arrested for his faith at Ban-ho. He was kept in chains in a cage for three months, routinely beaten, and when interrogated was told to sing his answers as he was known for his beautiful voice. One of the Martyrs of Vietnam.

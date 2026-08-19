@@ -3,7 +3,7 @@ name: Saint Helena of Constantinople
 honorific: Saint
 title: St. Helena of Constantinople
 summary: "Converted to Christianity late in life. Married Constantius Chlorus, co-regent of the western Roman empire. Mother of Constantine the Great. Her husband put her aside for a second marriage with better..."
-image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Helena.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Helena.jpg"
 imageAlt: Portrait of Saint Helena of Constantinople
 imageCredit: Wikimedia Commons
 searchAliases:

@@ -1,0 +1,18 @@
+---
+name: "Saint Modanic"
+honorific: Saint
+title: "Bishop, Monk"
+summary: "Eighth century bishop, possibly at Aberdeen, Scotland. No other information has survived."
+born: "Scottish"
+region: "England"
+feastDay:
+  month: 11
+  day: 14
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Monk
+martyr: false
+---
+
+Eighth century bishop, possibly at Aberdeen, Scotland. No other information has survived.

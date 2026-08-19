@@ -1,0 +1,24 @@
+---
+name: "Saint Basilides of Rome"
+honorific: Saint
+title: "Martyr, Priest, Monk, Soldier"
+summary: "Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian."
+deathYear: 304
+died: "304 outside Rome, Italy"
+deathPlace: "Italy"
+region: "Italy"
+feastDay:
+  month: 6
+  day: 12
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Soldier
+patronage:
+  - "Arzengio, Pontremoli, Italy"
+martyr: true
+---
+
+Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian.

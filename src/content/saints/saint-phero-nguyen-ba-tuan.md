@@ -1,0 +1,25 @@
+---
+name: "Saint Phêrô Nguyen Bá Tuan"
+honorific: Venerable
+title: "Martyr, Priest, Pope"
+summary: "Priest in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam."
+image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+birthYear: 1766
+deathYear: 1838
+born: "1766 in Ngoc Ðông, Hung Yên, Vietnam"
+died: "martyred on 15 July 1838 in Nam Ðinh, Vietnam"
+birthPlace: "Hung Yên, Vietnam"
+deathPlace: "Vietnam"
+region: "Italy"
+feastDay:
+  month: 7
+  day: 15
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+martyr: true
+---
+
+Priest in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam.

@@ -1,0 +1,20 @@
+---
+name: "Saint Berenice"
+honorific: Saint
+title: "Martyr, Monk, Religious"
+summary: "Daughter of Saint Domnina; sister of Saint Prosdoce. Martyred in the persecutions of Diocletian."
+deathYear: 303
+died: "c.303 in Syria"
+region: "Syria"
+feastDay:
+  month: 10
+  day: 4
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+  - Religious
+martyr: true
+---
+
+Daughter of Saint Domnina; sister of Saint Prosdoce. Martyred in the persecutions of Diocletian.

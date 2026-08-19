@@ -1,0 +1,23 @@
+---
+name: "Saint Timothy the Deacon"
+honorific: Saint
+title: "Martyr, Monk, Deacon"
+summary: "Deacon. Martyred in the persecutions of Decius."
+searchAliases:
+  - "Timothy of Africa"
+  - "Timoteus…."
+deathYear: 250
+died: "burned alive c.250 in North Africa"
+region: "Africa"
+feastDay:
+  month: 12
+  day: 19
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+  - Deacon
+martyr: true
+---
+
+Deacon. Martyred in the persecutions of Decius.

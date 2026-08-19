@@ -40,10 +40,10 @@ symbols:
   - Celtic cross
   - Mitre
 martyr: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg/330px-Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg/330px-Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg"
 imageAlt: A stained-glass window of Saint Patrick, Junction City, Ohio
 imageCredit: Stained glass, St. Patrick Catholic Church, Junction City, Ohio — CC BY-SA 4.0 (Wikimedia Commons)
-imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint_Patrick_Catholic_Church_(Junction_City,_Ohio)_-_stained_glass,_Saint_Patrick_-_detail.jpg
+imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Saint_Patrick_Catholic_Church_(Junction_City,_Ohio)_-_stained_glass,_Saint_Patrick_-_detail.jpg"
 lifeEvents:
   - year: "c. 387"
     event: Born in Roman Britain to a Christian family; his father a deacon, his grandfather a priest.

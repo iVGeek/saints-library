@@ -1,0 +1,27 @@
+---
+name: "Blessed Juan Francisco Barahona Martín"
+honorific: Blessed
+title: "Martyr, Priest, Pope"
+summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
+searchAliases:
+  - "Alejandro of Sobradillo"
+birthYear: 1902
+deathYear: 1936
+born: "10 January 1902 in Sobradillo, Salamanca, Spain"
+died: "15 August 1936 in Madrid, Spain"
+birthPlace: "Salamanca, Spain"
+deathPlace: "Spain"
+region: "Spain"
+feastDay:
+  month: 8
+  day: 15
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+religiousOrder: "Franciscan"
+martyr: true
+---
+
+Franciscan Capuchin priest. Martyred in the Spanish Civil War.

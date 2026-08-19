@@ -1,0 +1,25 @@
+---
+name: "Saint Justino Orona-Madrigal"
+honorific: Venerable
+title: "Martyr, Priest, Pope"
+summary: "Priest in the archdiocese of Guadalajara, Mexico. Founded the Hermanas Clarisas del Sagrado Corazón. Martyred in the Mexican Revolution."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Justino-Orona-Madrigal.jpg"
+birthYear: 1877
+deathYear: 1928
+born: "14 April 1877 in Cuyucapán, Atoyac, Jalisco, Mexico"
+died: "1 July 1928 in Las Cruces, Cuquío, Jalisco, Mexico"
+birthPlace: "Atoyac, Jalisco, Mexico"
+deathPlace: "Cuquío, Jalisco, Mexico"
+region: "England"
+feastDay:
+  month: 7
+  day: 1
+canonizationStatus: Venerable
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+martyr: true
+---
+
+Priest in the archdiocese of Guadalajara, Mexico. Founded the Hermanas Clarisas del Sagrado Corazón. Martyred in the Mexican Revolution.

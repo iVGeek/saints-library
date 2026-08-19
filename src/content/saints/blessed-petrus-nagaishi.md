@@ -1,0 +1,23 @@
+---
+name: "Blessed Petrus Nagaishi"
+honorific: Blessed
+title: "Martyr, Pope"
+summary: "Child in the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom."
+image: "http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg"
+birthYear: 1615
+deathYear: 1622
+born: "1615 in Nagasaki,"
+died: "beheaded on 10 September 1622 in Nishizaka, Nagasaki, Japan"
+deathPlace: "Nagasaki, Japan"
+region: "England"
+feastDay:
+  month: 9
+  day: 10
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+martyr: true
+---
+
+Child in the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom.

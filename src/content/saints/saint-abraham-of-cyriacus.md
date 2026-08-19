@@ -1,0 +1,27 @@
+---
+name: "Saint Abraham of Cyriacus"
+honorific: Saint
+title: "Priest, Hermit, Royalty"
+summary: "While seeking to learn from hermits, Abraham was captured by bandits in Egypt, he was imprisoned and enslaved by them for five years before he could escape. Making his way to Europe, he lived as a hermit near Clermont, Gaul (modern France). Priest. Abbot of Saint Cyriacus abbey."
+searchAliases:
+  - "Abraham of St-Cirgue"
+  - "Abramo"
+deathYear: 480
+born: "on the banks of the River Euphrates in Mesopotamia (in modern Iraq)"
+died: "c.480 in Arvernia, Aquitaine (in modern France of natural causes"
+deathPlace: "Aquitaine (modern France of natural causes"
+region: "France"
+feastDay:
+  month: 6
+  day: 15
+canonizationStatus: Saint
+vocation:
+  - Priest
+  - Hermit
+  - Royalty
+patronage:
+  - "against fever"
+martyr: false
+---
+
+While seeking to learn from hermits, Abraham was captured by bandits in Egypt, he was imprisoned and enslaved by them for five years before he could escape. Making his way to Europe, he lived as a hermit near Clermont, Gaul (modern France). Priest. Abbot of Saint Cyriacus abbey.

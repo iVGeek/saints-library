@@ -3,7 +3,7 @@ name: Saint Francis Trung Von Tran
 honorific: Saint
 title: St. Francis Trung Von Tran
 summary: "Convert. Layman. Soldier in the Vietnamese army, holding the rank of corporal. Arrested for his faith and ordered to renounce Christianity; he refused. One of the Martyrs of Vietnam."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/M%E1%BB%99_Tr%C6%B0%C6%A1ng_B%E1%BB%ADu_Di%E1%BB%87p.jpg/960px-M%E1%BB%99_Tr%C6%B0%C6%A1ng_B%E1%BB%ADu_Di%E1%BB%87p.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/M%E1%BB%99_Tr%C6%B0%C6%A1ng_B%E1%BB%ADu_Di%E1%BB%87p.jpg/960px-M%E1%BB%99_Tr%C6%B0%C6%A1ng_B%E1%BB%ADu_Di%E1%BB%87p.jpg"
 imageAlt: Portrait of Saint Francis Trung Von Tran
 imageCredit: Wikimedia Commons
 searchAliases:

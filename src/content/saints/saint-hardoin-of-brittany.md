@@ -1,0 +1,42 @@
+---
+name: "Saint Hardoin of Brittany"
+honorific: Saint
+title: "Bishop, Priest, Monk, Hermit"
+summary: "Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend of Saint Herve."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hardoin-of-Brittany.jpg"
+searchAliases:
+  - "Hardoin of St-Paul-de-Leon"
+  - "Hardouin…"
+  - "Harduinus…"
+  - "Hoardon…"
+  - "Hoardonus…"
+  - "Hoarzon…"
+  - "Hoarzonus…"
+  - "Hoiarn-don…"
+  - "Hoierdonus…"
+  - "Holeardonus…"
+  - "Hordeonius…"
+  - "Houardon…"
+  - "Huardo…"
+  - "Ouardon…"
+  - "Wardon…"
+deathYear: 650
+born: "British Isles"
+died: "c.650"
+region: "France"
+feastDay:
+  month: 11
+  day: 29
+canonizationStatus: Saint
+vocation:
+  - Bishop
+  - Priest
+  - Monk
+  - Hermit
+patronage:
+  - "Landerneau, France"
+  - "sailors"
+martyr: false
+---
+
+Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend of Saint Herve.

@@ -1,0 +1,25 @@
+---
+name: "Blessed François-Louis Méallet de Fargues"
+honorific: Blessed
+title: "Martyr, Priest, Pope"
+summary: "Born to the French nobility. Priest in the diocese of Clermont, France. One of the Martyrs of September."
+birthYear: 1764
+deathYear: 1792
+born: "7 July 1764 in Vitrac, Puy-de-Dôme, France"
+died: "2 September 1792 at the Hôtel des Carmes, Paris, France"
+birthPlace: "Puy-de-Dôme, France"
+deathPlace: "Paris, France"
+region: "France"
+feastDay:
+  month: 9
+  day: 2
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+religiousOrder: "Carmelite"
+martyr: true
+---
+
+Born to the French nobility. Priest in the diocese of Clermont, France. One of the Martyrs of September.

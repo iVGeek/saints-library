@@ -1,0 +1,32 @@
+---
+name: "Saint Emerentiana"
+honorific: Saint
+title: "Martyr, Virgin, Priest, Monk, Religious"
+summary: "Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her sister's martyrdom, she was confronted by an angry mob of pagans. Emerentiana professed her Christianity and her relationship to Agnes. Martyr."
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Museum_Emerentiana_stoned.jpg/960px-British_Museum_Emerentiana_stoned.jpg"
+searchAliases:
+  - "Emerentia"
+  - "Emerenziana"
+deathYear: 304
+born: "Roman"
+died: "stoned to death c.304 at Rome, Italy"
+deathPlace: "Italy"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 23
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Virgin
+  - Priest
+  - Monk
+  - Religious
+patronage:
+  - "against abdominal pains"
+  - "against colic"
+  - "against stomach ache"
+martyr: true
+---
+
+Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her sister's martyrdom, she was confronted by an angry mob of pagans. Emerentiana professed her Christianity and her relationship to Agnes. Martyr.

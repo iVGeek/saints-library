@@ -1,0 +1,22 @@
+---
+name: "Blessed David Sutton"
+honorific: Blessed
+title: "Martyr, Monk, Pope"
+summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
+deathYear: 1581
+born: "Irish"
+died: "13 November 1581 in Dublin, Ireland"
+deathPlace: "Ireland"
+region: "Italy"
+feastDay:
+  month: 11
+  day: 13
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Monk
+  - Pope
+martyr: true
+---
+
+Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.

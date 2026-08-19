@@ -3,7 +3,7 @@ name: Saint Joachim
 honorific: Saint
 title: St. Joachim
 summary: "Husband of Saint Anne, elderly father of the Blessed Virgin Mary. Grandfather of Jesus Christ. Probably well off. Tradition says that while he was away from home, he and Anne each received a message f..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/San_Joaqu%C3%ADn%2C_de_Juan_Sim%C3%B3n_Guti%C3%A9rrez_%28Museo_de_Bellas_Artes_de_Sevilla%29.jpg/330px-San_Joaqu%C3%ADn%2C_de_Juan_Sim%C3%B3n_Guti%C3%A9rrez_%28Museo_de_Bellas_Artes_de_Sevilla%29.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/San_Joaqu%C3%ADn%2C_de_Juan_Sim%C3%B3n_Guti%C3%A9rrez_%28Museo_de_Bellas_Artes_de_Sevilla%29.jpg"
 imageAlt: Portrait of Saint Joachim
 imageCredit: Wikimedia Commons
 searchAliases:

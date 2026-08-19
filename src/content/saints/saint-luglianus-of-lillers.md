@@ -1,0 +1,40 @@
+---
+name: "Saint Luglianus of Lillers"
+honorific: Saint
+title: "Martyr, Bishop, Priest, Monk, Hermit, Royalty"
+summary: "Brother of Saint Luglius. A lifelong layman, and possible hermit, he is often depicted as a king due to some old legends indicating the brothers were members of the royal family. In 696 the brothers joined a party making a pilgrimage to the Holy Land. When their ship got stranded"
+searchAliases:
+  - "Luglianus of Ferfay"
+  - "Luglien…"
+born: "latter 7th century Ireland"
+died: "beheaded in the early 8th century at Ferfay, France"
+deathPlace: "France"
+region: "France"
+feastDay:
+  month: 10
+  day: 23
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Priest
+  - Monk
+  - Hermit
+  - Royalty
+religiousOrder: "Benedictine"
+patronage:
+  - "against bad harvests (in Lillers and Montdidier, France)"
+  - "against fever"
+  - "against fire"
+  - "against plague"
+  - "against thunder"
+  - "against rain"
+  - "for rain"
+  - "–"
+  - "in France\n\nFerfay"
+  - "Lillers"
+  - "Mondidier"
+martyr: true
+---
+
+Brother of Saint Luglius. A lifelong layman, and possible hermit, he is often depicted as a king due to some old legends indicating the brothers were members of the royal family. In 696 the brothers joined a party making a pilgrimage to the Holy Land. When their ship got stranded in Boulogne-sur-Mer, France, the two began preaching the faith through the region, including the diocese of Thérouanne. Martyr. Many legends became attached to them both of their former lives in Ireland, and the miracles that resulted into their intercession.

@@ -1,0 +1,23 @@
+---
+name: "Saint Arnulf of Mainz"
+honorific: Saint
+title: "Martyr, Bishop, Monk"
+summary: "Studied in Paris, France. Chamberlain to the archbishop of Mainz, Germany. archbishop of Mainz, Germany in 1153. Martyr."
+searchAliases:
+  - "Arnold von Selenhofen"
+deathYear: 1160
+died: "martyred in 1160 at the cloister of Saint Jacob, Mainz, Germany"
+deathPlace: "Mainz, Germany"
+region: "France"
+feastDay:
+  month: 7
+  day: 1
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Bishop
+  - Monk
+martyr: true
+---
+
+Studied in Paris, France. Chamberlain to the archbishop of Mainz, Germany. archbishop of Mainz, Germany in 1153. Martyr.

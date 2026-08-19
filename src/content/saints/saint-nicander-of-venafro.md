@@ -1,0 +1,27 @@
+---
+name: "Saint Nicander of Venafro"
+honorific: Saint
+title: "Martyr, Priest, Monk, Soldier"
+summary: "Soldier in the imperial Romany army. Married to Saint Daria of Venafro. Convert to Christianity. Martyred in the persecutions of Maximian."
+image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg"
+deathYear: 303
+died: "beheaded c.303 in Venafro, Italy"
+deathPlace: "Italy"
+region: "Italy"
+feastDay:
+  month: 6
+  day: 17
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Soldier
+religiousOrder: "Jesuit"
+patronage:
+  - "in Italy\n\nTremensuoli"
+  - "Venafro"
+martyr: true
+---
+
+Soldier in the imperial Romany army. Married to Saint Daria of Venafro. Convert to Christianity. Martyred in the persecutions of Maximian.

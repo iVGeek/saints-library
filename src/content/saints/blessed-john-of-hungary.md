@@ -1,0 +1,20 @@
+---
+name: "Blessed John of Hungary"
+honorific: Blessed
+title: "Saint"
+summary: "First Franciscan to work in Hungary."
+deathYear: 1287
+born: "French"
+died: "1287 of natural causes"
+region: "France"
+feastDay:
+  month: 2
+  day: 23
+canonizationStatus: Blessed
+vocation:
+  - Saint
+religiousOrder: "Franciscan"
+martyr: false
+---
+
+First Franciscan to work in Hungary.

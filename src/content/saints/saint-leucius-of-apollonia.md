@@ -1,0 +1,20 @@
+---
+name: "Saint Leucius of Apollonia"
+honorific: Saint
+title: "Martyr, Priest"
+summary: "Martyred in the persecutions of Decius. No other information has survived."
+deathYear: 251
+died: "251 at Apollonia, Phrygia (modern Turkey)"
+deathPlace: "Phrygia (modern Turkey)"
+region: "England"
+feastDay:
+  month: 1
+  day: 28
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+martyr: true
+---
+
+Martyred in the persecutions of Decius. No other information has survived.

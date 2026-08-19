@@ -1,0 +1,28 @@
+---
+name: "Saint Engelmaro"
+honorific: Saint
+title: "Martyr, Hermit"
+summary: "Born to a poor peasant family. Hermit in the forest near Passau, Germany. As his reputation for piety and wisdom spread, the people of the region came to him for advice. Murdered by a man who was envious of Engelmaro's popularity."
+deathYear: 1100
+born: "Bavaria, Germany"
+died: "night of 13 to 14 January 1100 near Passau, Germany"
+birthPlace: "Germany"
+deathPlace: "Germany"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 14
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Hermit
+patronage:
+  - "cattle"
+  - "for good weather"
+  - "harvests"
+  - "livestock"
+  - "peasants"
+martyr: true
+---
+
+Born to a poor peasant family. Hermit in the forest near Passau, Germany. As his reputation for piety and wisdom spread, the people of the region came to him for advice. Murdered by a man who was envious of Engelmaro's popularity.

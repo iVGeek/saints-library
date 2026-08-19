@@ -22,6 +22,7 @@ feastDay:
   day: 4
 liturgicalRank: Memorial
 canonizationStatus: Saint
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/960px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg"
 beatifiedDate: 16 July 1228
 canonizedDate: 16 July 1228
 vocation:
@@ -47,10 +48,9 @@ symbols:
   - Stigmata
   - Canticle
 martyr: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/330px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg
 imageAlt: A Cimabue fresco fragment depicting Saint Francis of Assisi
 imageCredit: Cimabue (c. 1240–1302), fresco fragment, Assisi — public domain (Wikimedia Commons)
-imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cimabue_Saint_Francis_Fragment.jpg
+imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Cimabue_Saint_Francis_Fragment.jpg"
 lifeEvents:
   - year: "1181"
     event: Born in Assisi to Pietro Bernardone, a wealthy cloth merchant, and his wife Pica.

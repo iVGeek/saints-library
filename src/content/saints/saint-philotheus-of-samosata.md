@@ -1,0 +1,19 @@
+---
+name: "Saint Philotheus of Samosata"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Local magistrate. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata."
+deathYear: 297
+died: "crucified in 297 at Samosata (an area of modern Turkey)"
+region: "Turkey"
+feastDay:
+  month: 12
+  day: 9
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Local magistrate. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the Persians. One of the Martyrs of Samosata.

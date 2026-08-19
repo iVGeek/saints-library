@@ -1,0 +1,99 @@
+---
+name: "Saint George"
+honorific: Saint
+title: "Martyr, Priest, Monk, Pope, Royalty, Soldier"
+summary: " Several stories have been attached to Saint George, the best known of which is the Golden Legend. In it, a dragon lived in a lake near Silena, Libya. Whole armies had gone up against this fierce creature, and had gone down in painful Soldier. Martyr. That's all we know for sure."
+image: "http://catholicsaints.info/wp-content/uploads/img-Saint-George-and-the-Dragon.jpg"
+searchAliases:
+  - "Jirí"
+  - "Jordi"
+  - "Victory Bringer"
+  - "Zorzo"
+deathYear: 304
+died: "tortured and beheaded c.304 at Lydda, Palestine"
+deathPlace: "Palestine"
+region: "Italy"
+feastDay:
+  month: 4
+  day: 23
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Priest
+  - Monk
+  - Pope
+  - Royalty
+  - Soldier
+religiousOrder: "Franciscan"
+patronage:
+  - "against herpes"
+  - "against leprosy"
+  - "against plague"
+  - "against skin diseases"
+  - "against skin rashes"
+  - "against syphilis"
+  - "lepers"
+  - "agricultural workers"
+  - "archers"
+  - "armourers"
+  - "arms manufacturers"
+  - "boxers"
+  - "butchers"
+  - "castle chapels"
+  - "cavalry in general"
+  - "cavalry, French"
+  - "cavalry, Italian (proclaimed by Pope Pius XII on 23 April 1956)"
+  - "chivalry"
+  - "equestrians"
+  - "farmers"
+  - "field hands"
+  - "field workers"
+  - "fighters"
+  - "halberdiers"
+  - "horsemen"
+  - "horses"
+  - "husbandmen"
+  - "knights"
+  - "pugilists"
+  - "riders"
+  - "saddle makers"
+  - "saddlers"
+  - "sheep"
+  - "shepherds"
+  - "soldiers"
+  - "wrestlers"
+  - "Association of the Knights of Italy (proclaimed on 11 August 1937 by Pope Pius XI)"
+  - "Boy Scouts"
+  - "Bulgarian Armed Forces"
+  - "Crusaders"
+  - "Order of the Garter"
+  - "Palestinian Christians"
+  - "Romanian Army"
+  - "Teutonic Knights"
+  - "Worshipful Company of Armourers and Brasiers"
+  - "Canada"
+  - "England (proclaimed by Pope Benedict XIV)"
+  - "Ethiopia"
+  - "Georgia"
+  - "Germany"
+  - "Greece"
+  - "Lithuania"
+  - "Malta"
+  - "Montenegro"
+  - "Portugal"
+  - "Serbia"
+  - "Cappadocia"
+  - "Catalonia"
+  - "Palestine"
+  - "–"
+  - "Limburg, Germany, diocese of"
+  - "Saskatoon, Saskatchewan, eparchy of"
+  - "–"
+  - "in Belgium\n\nHenrichapelle"
+  - "Sint-Joris-Winge"
+martyr: true
+---
+
+Soldier. Martyr. That's all we know for sure.
+Several stories have been attached to Saint George, the best known of which is the Golden Legend. In it, a dragon lived in a lake near Silena, Libya. Whole armies had gone up against this fierce creature, and had gone down in painful defeat. The monster ate two sheep each day; when mutton was scarce, lots were drawn in local villages, and maidens were substituted for sheep. Into this country came Saint George. Hearing the story on a day when a princess was to be eaten, he crossed himself, rode to battle against the serpent, and killed it with a single blow with his lance. George then held forth with a magnificent sermon, and converted the locals. Given a large reward by the king, George distributed it to the poor, then rode away.
+Due to his chivalrous behavior (protecting women, fighting evil, dependence on faith and might of arms, largesse to the poor), devotion to Saint George became popular in the Europe after the 10th century. In the 15th century his feast day was as popular and important as Christmas. Many of his areas of patronage have to do with life as a knight on horseback. The celebrated Knights of the Garter are actually Knights of the Order of Saint George. The shrine built for his relics at Lydda, Palestine was a popular point of pilgrimage for centuries. One of the Fourteen Holy Helpers.

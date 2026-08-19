@@ -1,0 +1,25 @@
+---
+name: "Blessed Edward Grzymala"
+honorific: Blessed
+title: "Martyr, Priest, Pope"
+summary: "Priest in the diocese of Wloclawek, Poland. Imprisoned and murdered in the Nazi persecutions. Martyr."
+image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Grzymala.jpg"
+birthYear: 1906
+deathYear: 1942
+born: "19 September 1906 in Kolodziaz, Podlaskie, Poland"
+died: "gassed on 10 August 1942 at the prison camp at Dachau, Oberbayern, Germany"
+birthPlace: "Podlaskie, Poland"
+deathPlace: "Oberbayern, Germany"
+region: "Germany"
+feastDay:
+  month: 8
+  day: 10
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+martyr: true
+---
+
+Priest in the diocese of Wloclawek, Poland. Imprisoned and murdered in the Nazi persecutions. Martyr.

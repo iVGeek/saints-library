@@ -1,0 +1,25 @@
+---
+name: "Blessed Miquel Rovira Font"
+honorific: Blessed
+title: "Martyr, Bishop, Pope, Cardinal"
+summary: "Member of the Claretians, professed on 2 April 1881. Martyred in the Spanish Civil War."
+birthYear: 1863
+deathYear: 1936
+born: "22 May 1863 in Vic, Barcelona, Spain"
+died: "18 October 1936 in Cervera, Lleida, Spain"
+birthPlace: "Barcelona, Spain"
+deathPlace: "Lleida, Spain"
+region: "Spain"
+feastDay:
+  month: 10
+  day: 18
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Bishop
+  - Pope
+  - Cardinal
+martyr: true
+---
+
+Member of the Claretians, professed on 2 April 1881. Martyred in the Spanish Civil War.

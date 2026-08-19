@@ -3,7 +3,7 @@ name: Saint Charles Garnier
 honorific: Saint
 title: St. Charles Garnier
 summary: "Son of the wealthy Jean G and Anne de Garault. A studious lad whose health was never strong, he early felt a call to religious life. Studied classics, philosophy and theology at the Jesuit college of ..."
-image: https://upload.wikimedia.org/wikipedia/commons/4/43/North_American_Martyrs.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/North_American_Martyrs.jpg"
 imageAlt: Portrait of Saint Charles Garnier
 imageCredit: Wikimedia Commons
 birthYear: 1606

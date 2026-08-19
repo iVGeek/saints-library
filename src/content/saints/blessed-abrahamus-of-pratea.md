@@ -1,0 +1,16 @@
+---
+name: "Blessed Abrahamus of Pratea"
+honorific: Blessed
+title: "Monk"
+summary: "Cistercian monk. Abbot of the monastery of “Pratea” (probably the monastery of Saint Peter of Pradelle in Languedoc, France). Known for his dignity, gentleness and purity of heart."
+region: "France"
+feastDay:
+  month: 6
+  day: 15
+canonizationStatus: Blessed
+vocation:
+  - Monk
+martyr: false
+---
+
+Cistercian monk. Abbot of the monastery of “Pratea” (probably the monastery of Saint Peter of Pradelle in Languedoc, France). Known for his dignity, gentleness and purity of heart.

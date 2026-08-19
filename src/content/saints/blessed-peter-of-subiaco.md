@@ -1,0 +1,18 @@
+---
+name: "Blessed Peter of Subiaco"
+honorific: Blessed
+title: "Martyr, Monk"
+summary: "Benedictine monk. Abbot of the monastery of Subiaco, Italy. Blinded and imprisoned by the baron of Monticello for defending the rights of his abbey. He died in prison, and is considered a martyr."
+region: "Italy"
+feastDay:
+  month: 12
+  day: 31
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Monk
+religiousOrder: "Benedictine"
+martyr: true
+---
+
+Benedictine monk. Abbot of the monastery of Subiaco, Italy. Blinded and imprisoned by the baron of Monticello for defending the rights of his abbey. He died in prison, and is considered a martyr.

@@ -1,0 +1,20 @@
+---
+name: "Saint Ludolf"
+honorific: Saint
+title: "Monk"
+summary: "Monk. Abbot of New Corvey Abbey in Westphalia, Germany from 971 to 983."
+searchAliases:
+  - "Ludolph"
+deathYear: 983
+died: "983"
+region: "Germany"
+feastDay:
+  month: 8
+  day: 13
+canonizationStatus: Saint
+vocation:
+  - Monk
+martyr: false
+---
+
+Monk. Abbot of New Corvey Abbey in Westphalia, Germany from 971 to 983.

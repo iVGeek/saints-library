@@ -1,0 +1,22 @@
+---
+name: "Saint Rutilius"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Rutilius traveled extensively to avoid the persecutions of Decius, sometimes hiding, sometimes bribing officials to leave him alone, but never giving up his faith. He was finally captured, tortured and martyred."
+searchAliases:
+  - "Rutilio"
+deathYear: 250
+born: "North Africa"
+died: "burned at the stake in 250 in a small town in northern Africa"
+region: "Italy"
+feastDay:
+  month: 8
+  day: 2
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Rutilius traveled extensively to avoid the persecutions of Decius, sometimes hiding, sometimes bribing officials to leave him alone, but never giving up his faith. He was finally captured, tortured and martyred.

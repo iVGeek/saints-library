@@ -3,7 +3,7 @@ name: Saint Katharine Drexel
 honorific: Saint
 title: St. Katharine Drexel
 summary: "Daughter of the extremely wealthy railroad entrepreneurs and philanthropists Francis Anthony and Emma (Bouvier) Drexel. She was taught from an early age to use her wealth for the benefit of others; he..."
-image: https://upload.wikimedia.org/wikipedia/en/f/f9/Katherine-drexel.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BensalemPA_DrexelShrineEntrance.jpg/960px-BensalemPA_DrexelShrineEntrance.jpg"
 imageAlt: Portrait of Saint Katharine Drexel
 imageCredit: Wikimedia Commons
 searchAliases:

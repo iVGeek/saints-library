@@ -1,0 +1,20 @@
+---
+name: "Saint Aitheachan of Colpe"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Sixth century. While listed in multiple martyrologies, no details about him have surived."
+searchAliases:
+  - "Aitheachan of Inbher Colpthai"
+  - "Athcain of…"
+region: "England"
+feastDay:
+  month: 6
+  day: 16
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Sixth century. While listed in multiple martyrologies, no details about him have surived.

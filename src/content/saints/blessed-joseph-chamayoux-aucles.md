@@ -1,0 +1,26 @@
+---
+name: "Blessed Joseph Chamayoux Auclés"
+honorific: Blessed
+title: "Martyr, Pope"
+summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."
+searchAliases:
+  - "Brother Jacob Samuel"
+birthYear: 1884
+deathYear: 1936
+born: "21 April 1884 in Pomardelle, Tarn, France"
+died: "18 August 1936 in Cortingles, Urgel, Lleida, Spain"
+birthPlace: "Tarn, France"
+deathPlace: "Urgel, Lleida, Spain"
+region: "France"
+feastDay:
+  month: 8
+  day: 18
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+religiousOrder: "Salesian"
+martyr: true
+---
+
+Member of the Salesians. Teacher. Martyred in the Spanish Civil War.

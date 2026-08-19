@@ -1,0 +1,24 @@
+---
+name: "Blessed Antolín Martínez Santos"
+honorific: Blessed
+title: "Martyr, Pope"
+summary: "Dominican novice. Martyred in the Spanish Civil War."
+birthYear: 1914
+deathYear: 1936
+born: "9 November 1914 in Campo de Criptana, Ciudad Real, Spain"
+died: "27 July 1936 in Alcázar de San Juan, Ciudad Real, Spain"
+birthPlace: "Ciudad Real, Spain"
+deathPlace: "Ciudad Real, Spain"
+region: "Spain"
+feastDay:
+  month: 7
+  day: 27
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Pope
+religiousOrder: "Dominican"
+martyr: true
+---
+
+Dominican novice. Martyred in the Spanish Civil War.

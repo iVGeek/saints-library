@@ -1,0 +1,16 @@
+---
+name: "Saint Fionnchu of Bangor"
+honorific: Saint
+title: "Monk"
+summary: "Sixth century abbot at Bangor, Ireland."
+region: "Ireland"
+feastDay:
+  month: 11
+  day: 28
+canonizationStatus: Saint
+vocation:
+  - Monk
+martyr: false
+---
+
+Sixth century abbot at Bangor, Ireland.

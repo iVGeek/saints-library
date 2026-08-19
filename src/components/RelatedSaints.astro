@@ -1,19 +1,15 @@
 ---
-import { getCollection } from 'astro:content';
-import { slug } from '../utils/slugs';
-
 interface Props {
   related: { name: string; slug: string; relation?: string }[];
+  slugMap?: Map<string, { name: string }>;
 }
 
-const { related } = Astro.props;
+const { related, slugMap } = Astro.props;
 
-const all = await getCollection('saints');
-const bySlug = new Map(all.map((s) => [slug(s.id), s]));
 const links = related
   .map((r) => {
-    const saint = bySlug.get(r.slug);
-    return saint ? { ...r, href: `/saints/${r.slug}` } : null;
+    const exists = slugMap ? slugMap.has(r.slug) : true;
+    return exists ? { ...r, href: `/saints/${r.slug}` } : null;
   })
   .filter(Boolean) as { name: string; relation?: string; href: string }[];
 ---

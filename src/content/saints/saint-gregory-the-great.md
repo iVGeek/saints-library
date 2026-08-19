@@ -3,7 +3,7 @@ name: Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Be
 honorific: Saint
 title: St. Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict
 summary: "Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict "
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/330px-Gregory_the_Great_with_the_Holy_Spirit.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg/330px-Gregory_the_Great_with_the_Holy_Spirit.jpg"
 imageAlt: Portrait of Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict
 imageCredit: Wikimedia Commons
 centuries: [16]

@@ -22,6 +22,7 @@ feastDay:
   day: 11
 liturgicalRank: Memorial
 canonizationStatus: Saint
+image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
 vocation:
   - Monk
   - Abbot
@@ -42,10 +43,9 @@ symbols:
   - Raven
   - Black habit
 martyr: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg/330px-Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg
 imageAlt: Giovanni Bellini's triptych panel of Saint Benedict of Nursia
 imageCredit: Giovanni Bellini, Frari Basilica, Venice — public domain (Wikimedia Commons)
-imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frari_(Venice)_-_Sacristy_-_triptych_by_Giovanni_Bellini_-_Saint_Benedict_of_Nursia_and_Saint_Mark.jpg
+imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Frari_(Venice)_-_Sacristy_-_triptych_by_Giovanni_Bellini_-_Saint_Benedict_of_Nursia_and_Saint_Mark.jpg"
 lifeEvents:
   - year: "c. 480"
     event: Born at Nursia (Norcia) in central Italy to a noble family.

@@ -1,0 +1,20 @@
+---
+name: "Saint Numerius of Nicomedia"
+honorific: Saint
+title: "Martyr, Monk"
+summary: "Martyred in the persecutions of the Arian Emperor Constantius."
+deathYear: 349
+died: "349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"
+deathPlace: "Asia Minor (modern Izmit, Turkey)"
+region: "Turkey"
+feastDay:
+  month: 11
+  day: 26
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+martyr: true
+---
+
+Martyred in the persecutions of the Arian Emperor Constantius.

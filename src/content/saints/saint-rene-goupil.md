@@ -3,7 +3,7 @@ name: Saint Rene Goupil
 honorific: Saint
 title: St. Rene Goupil
 summary: "Entered the Jesuit noviate in Paris, France, but his deafness prevented his joining the order. He studied medicine, and in 1639 offered to work as a medic for the Jesuit missionaries in America. Missi..."
-image: https://upload.wikimedia.org/wikipedia/commons/4/43/North_American_Martyrs.jpg
+image: "https://upload.wikimedia.org/wikipedia/commons/4/43/North_American_Martyrs.jpg"
 imageAlt: Portrait of Saint Rene Goupil
 imageCredit: Wikimedia Commons
 searchAliases:

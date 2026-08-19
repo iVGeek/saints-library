@@ -24,6 +24,7 @@ feastDay:
   day: 1
 liturgicalRank: Memorial
 canonizationStatus: Saint
+image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg"
 beatifiedDate: 29 April 1923
 canonizedDate: 17 May 1925
 vocation:
@@ -44,10 +45,9 @@ symbols:
   - Bouquet of roses
   - Carmelite habit
 martyr: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Teresa-de-Lisieux.jpg/330px-Teresa-de-Lisieux.jpg
 imageAlt: The 1895 photograph of Saint Thérèse of the Child Jesus holding a crucifix and a spray of roses
 imageCredit: Photograph of Thérèse Martin, Lisieux, Easter 1895 — public domain (Wikimedia Commons)
-imageCreditUrl: https://commons.wikimedia.org/wiki/File:Teresa-de-Lisieux.jpg
+imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Teresa-de-Lisieux.jpg"
 lifeEvents:
   - year: "2 Jan 1873"
     event: Born in Alençon, France, the youngest of nine children of Louis and Zélie Martin, both of whom are now themselves canonized saints.

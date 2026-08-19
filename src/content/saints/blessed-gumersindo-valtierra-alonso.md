@@ -1,0 +1,26 @@
+---
+name: "Blessed Gumersindo Valtierra Alonso"
+honorific: Blessed
+title: "Martyr, Bishop, Priest, Pope, Cardinal"
+summary: "Member of the Claretians, professed on 15 August 1894 in Cervera, Spain. Ordained a priest in Lleida, Spain on 19 September 1908. Martyred in the Spanish Civil War."
+birthYear: 1874
+deathYear: 1936
+born: "13 January 1874 in San Martín de Humada, Burgos, Spain"
+died: "shot on 26 July 1936 in Barcelona, Spain"
+birthPlace: "Burgos, Spain"
+deathPlace: "Spain"
+region: "Spain"
+feastDay:
+  month: 7
+  day: 26
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Bishop
+  - Priest
+  - Pope
+  - Cardinal
+martyr: true
+---
+
+Member of the Claretians, professed on 15 August 1894 in Cervera, Spain. Ordained a priest in Lleida, Spain on 19 September 1908. Martyred in the Spanish Civil War.

@@ -1,0 +1,23 @@
+---
+name: "Blessed Peter Wright"
+honorific: Blessed
+title: "Martyr, Priest, Pope, Soldier"
+summary: "Born to a Protestant family, Peter converted to Catholicism. Worked in a country lawyer's office for ten years. He enlisted in the army, was assigned to the Netherlands, but deserted after a month. Studied in at the Jesuit seminary in Ghent, Belgium, and in Rome, Italy. Priest. J"
+deathYear: 1651
+died: "hanged on 19 May (Whit Monday) 1651 at Tyburn, London, England"
+deathPlace: "London, England"
+region: "Italy"
+feastDay:
+  month: 5
+  day: 19
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Priest
+  - Pope
+  - Soldier
+religiousOrder: "Jesuit"
+martyr: true
+---
+
+Born to a Protestant family, Peter converted to Catholicism. Worked in a country lawyer's office for ten years. He enlisted in the army, was assigned to the Netherlands, but deserted after a month. Studied in at the Jesuit seminary in Ghent, Belgium, and in Rome, Italy. Priest. Joined the Jesuits in 1629 at Watten, Belgium and held posts at Liege, Belgium and Saint-Omer. Chaplain to English soldiers in Flanders, Belgium. He returned to England with Sir Henry Gage in the spring of 1644, and served as chaplain to the Royalist army during the English Civil War. Chaplain to the Marquis of Winchester. Arrested for his faith in London, England on Candlemas Day 1651 during the post-war oppression of Catholicism by Oliver Cromwell; he was lodged at Newgate prison. Martyred before 20,000 spectators.

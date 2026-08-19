@@ -1,0 +1,25 @@
+---
+name: "Saint Gwynllyw"
+honorific: Saint
+title: "Priest, Monk, Hermit"
+summary: "Chieftain and layman. Proposed marriage to Saint Gladys, the daughter of Brychan of Brecknock. When Brychan refused, he kidnapped her, and the two started a violent life on the run. Father of Saint Cadoc of Llancarvan who eventually convinced Gwynllyw and Gladys to give up their"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/S._Gwynllyw_%285292115%29.jpg/960px-S._Gwynllyw_%285292115%29.jpg"
+searchAliases:
+  - "Woollos"
+  - "Gundleus"
+  - "Woolo"
+  - "Gundleius"
+  - "Winleus"
+region: "England"
+feastDay:
+  month: 3
+  day: 29
+canonizationStatus: Saint
+vocation:
+  - Priest
+  - Monk
+  - Hermit
+martyr: false
+---
+
+Chieftain and layman. Proposed marriage to Saint Gladys, the daughter of Brychan of Brecknock. When Brychan refused, he kidnapped her, and the two started a violent life on the run. Father of Saint Cadoc of Llancarvan who eventually convinced Gwynllyw and Gladys to give up their violent ways, and follow a religious calling. Monk at Newport, Monmouthshire, Wales. Late in life he became a hermit in rural Wales. An Anglican cathedral is dedicated to him in Newport, Gwent, Wales.

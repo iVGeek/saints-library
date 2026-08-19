@@ -1,0 +1,22 @@
+---
+name: "Amos the Prophet"
+honorific: Saint
+title: "Martyr, Monk, Religious, Royalty"
+summary: "Eighth-century BC shepherd at Koa near Bethlehem. Of himself he said, “I am not a prophet, nor the son of a prophet; but I am a herdsman plucking wild figs.” One of the Old Testament Minor Prophets, the book of Amos is one long denunciation of evildoers."
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Amos-prophet.jpg/330px-Amos-prophet.jpg"
+died: "scourged, and then an iron spike driven through his temples"
+deathPlace: "and then an iron spike driven through his temples"
+region: "England"
+feastDay:
+  month: 6
+  day: 15
+canonizationStatus: Saint
+vocation:
+  - Martyr
+  - Monk
+  - Religious
+  - Royalty
+martyr: true
+---
+
+Eighth-century BC shepherd at Koa near Bethlehem. Of himself he said, “I am not a prophet, nor the son of a prophet; but I am a herdsman plucking wild figs.” One of the Old Testament Minor Prophets, the book of Amos is one long denunciation of evildoers.

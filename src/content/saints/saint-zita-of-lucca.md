@@ -3,7 +3,7 @@ name: Saint Zita of Lucca
 honorific: Saint
 title: St. Zita of Lucca
 summary: "Born to a very poor but pious family. At age twelve she became a domestic servant for the wealthy Fainelli family in Lucca, Italy, a position she kept all her life; she looked at it as a way to serve ..."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lille_Hospice_comt_Vuez_Ste_Zite.JPG/330px-Lille_Hospice_comt_Vuez_Ste_Zite.JPG
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lille_Hospice_comt_Vuez_Ste_Zite.JPG/330px-Lille_Hospice_comt_Vuez_Ste_Zite.JPG"
 imageAlt: Portrait of Saint Zita of Lucca
 imageCredit: Wikimedia Commons
 searchAliases:

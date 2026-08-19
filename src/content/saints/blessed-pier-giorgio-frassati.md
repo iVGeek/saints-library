@@ -1,0 +1,36 @@
+---
+name: "Blessed Pier Giorgio Frassati"
+honorific: Blessed
+title: "Martyr, Virgin, Bishop, Priest, Religious, Pope, Cardinal, Royalty"
+summary: "Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an agnostic, the founder and editor of the liberal newspaper La Stampa, and became the Italian ambassador to Germany. A pious youth, average student, outstanding athle"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PierGiorgioFrassati-Pr%C3%A9sentation.jpg/960px-PierGiorgioFrassati-Pr%C3%A9sentation.jpg"
+searchAliases:
+  - "Man of the Eight Beatitudes"
+  - "Girolamo"
+birthYear: 1901
+deathYear: 1925
+born: "6 April 1901 in Turin, Italy"
+died: "4 July 1925 in Turin, Italy of poliomylelitis"
+birthPlace: "Italy"
+deathPlace: "Italypoliomylelitis"
+region: "Italy"
+feastDay:
+  month: 1
+  day: 1
+canonizationStatus: Blessed
+vocation:
+  - Martyr
+  - Virgin
+  - Bishop
+  - Priest
+  - Religious
+  - Pope
+  - Cardinal
+  - Royalty
+religiousOrder: "Dominican"
+patronage:
+  - "World Youth Day 2023"
+martyr: true
+---
+
+Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an agnostic, the founder and editor of the liberal newspaper La Stampa, and became the Italian ambassador to Germany. A pious youth, average student, outstanding athlete and mountain climber, he was extremely popular with his peers, known by the nickname “Terror” due to his practical jokes. He was tutored at home for years with his younger sister Luciana. He studied minerology in an engineering program after graduating high school. He worked often with Catholic groups like Apostleship of Prayer and the Company of the Most Blessed Sacrament that ministered to the poor and promoted Eucharistic adoration, Marian devotion, and personal chastity. He became involved in political groups like the Young Catholic Workers Congress, the Popular Party, the Catholic Student Federation, Catholic Action and Milites Mariae that supported the poor, opposed Fascism and worked for the Church's social teachings. Enrolled as a Dominican tertiary on 28 May 1922, taking the name Girolamo (Jerome). Especially devoted to the teachings of Saint Catherine of Siena and Saint Thomas Aquinas. He spent his fortune on the needy and visited the sick; during this ministry he contracted the disease that killed him.

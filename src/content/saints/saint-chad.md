@@ -23,8 +23,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

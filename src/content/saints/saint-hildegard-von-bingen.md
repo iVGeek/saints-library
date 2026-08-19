@@ -1,7 +1,7 @@
 ---
 name: "Saint Hildegard von Bingen"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Religious, Pope, Royalty, Doctor of the Church"
+title: "Martyr, Virgin"
 summary: "At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects for healing, and wrote treatises about nat"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg"
 searchAliases:
@@ -22,14 +22,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "Esperantists; Esperanto users or speakers"

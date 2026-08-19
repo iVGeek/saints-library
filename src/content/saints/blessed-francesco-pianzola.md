@@ -19,11 +19,8 @@ feastDay:
   day: 4
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Religious
   - Pope
-  - Cardinal
-  - Royalty
+  - Priest
   - Missionary
 martyr: false
 ---

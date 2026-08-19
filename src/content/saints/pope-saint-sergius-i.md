@@ -15,16 +15,7 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
 martyr: false
 ---
 

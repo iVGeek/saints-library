@@ -21,9 +21,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 patronage:
   - "in France\n\nBourges"
   - "Lyon"

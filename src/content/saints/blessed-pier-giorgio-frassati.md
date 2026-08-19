@@ -20,13 +20,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "World Youth Day 2023"

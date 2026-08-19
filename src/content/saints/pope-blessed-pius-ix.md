@@ -17,13 +17,9 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
 patronage:
   - "Bavarian Congregation"
 martyr: false

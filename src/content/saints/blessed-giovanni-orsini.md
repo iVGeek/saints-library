@@ -15,12 +15,9 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
 martyr: false
 ---
 

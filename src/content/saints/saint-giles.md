@@ -17,11 +17,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "abandoned people; against abandonment"

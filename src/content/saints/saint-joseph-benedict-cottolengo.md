@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph Benedict Cottolengo"
 honorific: Saint
-title: "Priest, Monk, Religious, Pope, Hermit, Royalty"
+title: "Confessor"
 summary: " For several years, Joseph treate Born to a middle class family. Studied at the seminary in Turin, Italy. Ordained in 1811. Parish priest in Bra and Corneliano d'Alba. Doctor of Divinity. Joined the Order of the Corpus Christi in Turin. Canon of the Church of the Trinity in Turin."
 image: "http://catholicsaints.info/wp-content/uploads/img-Giuseppe-Benedetto-Cottolengo.jpg"
 searchAliases:
@@ -20,12 +20,7 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 martyr: false
 ---

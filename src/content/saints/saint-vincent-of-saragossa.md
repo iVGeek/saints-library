@@ -23,10 +23,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
   - Deacon
 religiousOrder: "Jesuit"
 patronage:

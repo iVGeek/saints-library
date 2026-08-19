@@ -25,11 +25,8 @@ feastDay:
   day: 25
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Benedictine"
 martyr: false

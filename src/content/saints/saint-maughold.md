@@ -32,8 +32,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Saint_Maughold
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Missionary
   - Confessor
 patronage:

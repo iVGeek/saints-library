@@ -1,7 +1,7 @@
 ---
 name: "Blessed Charles Decker"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Religious, Pope, Royalty"
+title: "Martyr"
 summary: "Member of the Missionaries of Africa, making his vows on 21 July 1949. Ordained a priest on 8 April 1950. Father Charles studied Arabic in Tunis, then Berber in Tizi-Ouzou, and then ran a youth hostel. Director of the El Kalima Centre in Brussels, Belgium, a centre devoted to int"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Charles-Decker.jpg"
 birthYear: 1924
@@ -17,11 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 martyr: true
 ---
 

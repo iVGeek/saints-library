@@ -20,8 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Missionary
   - Confessor
 patronage:

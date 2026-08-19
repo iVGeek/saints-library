@@ -20,10 +20,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Benedictine"
 martyr: true

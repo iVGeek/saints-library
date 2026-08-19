@@ -1,7 +1,7 @@
 ---
 name: "Blessed Richard Thirkeld"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Martyr"
 summary: "Educated at Queen's College, Oxford, 1564 - 1565. Studied at Douai and Rheims, France. Ordained on 18 April 1579 at an age somewhat older than his confreres. Returned to England on 23 May 1579 as a home missioner around York. Confessor to Saint Margaret Clitherow. Arrested on Ann"
 searchAliases:
   - "Richard Thirkild"
@@ -18,11 +18,6 @@ canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Blessed-richard-thirkeld.png"
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 martyr: true
 ---

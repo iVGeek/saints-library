@@ -22,10 +22,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

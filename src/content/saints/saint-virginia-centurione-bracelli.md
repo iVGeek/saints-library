@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Royalty
+  - Priest
 patronage:
   - "Sisters of Our Lady of Refuge in Mount Calvary"
 martyr: true

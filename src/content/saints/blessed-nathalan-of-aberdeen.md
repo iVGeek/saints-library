@@ -15,9 +15,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
   - Confessor
 martyr: false
 ---

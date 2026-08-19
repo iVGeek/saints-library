@@ -24,11 +24,8 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

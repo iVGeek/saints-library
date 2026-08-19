@@ -24,10 +24,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
 patronage:
   - "file makers"
 martyr: true

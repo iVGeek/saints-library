@@ -1,7 +1,7 @@
 ---
 name: "Blessed Margaret of Louvain"
 honorific: Blessed
-title: "Martyr, Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Martyr"
 summary: "Born to a poor family, in her late teens Margaret began working as a maid at the Sint Joris, an inn in Louvain, Belgium owned by her uncle Aubert. Aubert and his wife eventually sold the inn, each planning to enter religious life; Margaret planned to become a Cistercian nun. On t"
 image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/PM_141429_B_Leuven.jpg"
 searchAliases:
@@ -25,12 +25,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 patronage:
   - "martyrs"
 martyr: true

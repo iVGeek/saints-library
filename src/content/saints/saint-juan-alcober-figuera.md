@@ -19,10 +19,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Dominican"
 martyr: true

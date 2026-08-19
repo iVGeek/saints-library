@@ -21,11 +21,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Soldier
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "catechists"

@@ -20,10 +20,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Religious
   - Pope
+  - Priest
   - Confessor
 religiousOrder: "Dominican"
 martyr: true

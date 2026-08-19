@@ -18,12 +18,9 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
-  - Royalty
   - Missionary
   - Confessor
 patronage:

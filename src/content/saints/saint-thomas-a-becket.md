@@ -20,13 +20,10 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Franciscan"
 patronage:
   - "brewers"

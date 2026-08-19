@@ -15,9 +15,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 martyr: false
 ---
 

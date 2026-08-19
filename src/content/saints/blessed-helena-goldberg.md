@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 martyr: true
 ---
 

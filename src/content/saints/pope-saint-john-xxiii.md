@@ -18,13 +18,9 @@ feastDay:
   day: 11
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
 religiousOrder: "Franciscan"
 patronage:
   - "papal delegates"

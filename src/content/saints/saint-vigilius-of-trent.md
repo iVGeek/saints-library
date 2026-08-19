@@ -17,10 +17,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Missionary
 patronage:
   - "locations in Italy\n\nBolzano-Bressanone, diocese of"

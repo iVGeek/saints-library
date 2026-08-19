@@ -17,12 +17,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
-  - Soldier
+  - Priest
   - Confessor
 religiousOrder: "Dominican"
 patronage:

@@ -19,9 +19,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Monk
-  - Religious
-  - Pope
 religiousOrder: "Marist"
 martyr: true
 ---

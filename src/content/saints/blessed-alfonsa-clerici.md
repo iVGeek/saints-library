@@ -16,10 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Blessed
 vocation:
-  - Bishop
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 martyr: false
 ---
 

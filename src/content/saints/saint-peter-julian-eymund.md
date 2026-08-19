@@ -20,12 +20,7 @@ feastDay:
   day: 2
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
 religiousOrder: "Franciscan"
 martyr: false
 ---

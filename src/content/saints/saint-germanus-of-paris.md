@@ -20,11 +20,9 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "choristers"

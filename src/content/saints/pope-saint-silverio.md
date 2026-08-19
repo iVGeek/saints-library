@@ -19,11 +19,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Deacon
   - Pope
-  - Royalty
+  - Priest
+  - Deacon
 patronage:
   - "Ponza, Italy"
   - "Valprato Soana, Italy"

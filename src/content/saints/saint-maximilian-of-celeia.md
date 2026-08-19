@@ -22,10 +22,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Missionary
 patronage:
   - "Habsburg family (chosen in the 15th century)"

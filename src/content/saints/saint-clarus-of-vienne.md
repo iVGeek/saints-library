@@ -19,9 +19,7 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "tailors"

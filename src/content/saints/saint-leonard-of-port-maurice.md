@@ -19,11 +19,8 @@ feastDay:
   day: 26
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

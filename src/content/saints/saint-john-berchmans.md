@@ -18,11 +18,8 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

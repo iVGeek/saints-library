@@ -24,12 +24,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Hermit
-  - Royalty
 patronage:
   - "archdiocese of Gniezno, Poland (given by Pope Paul VI)"
 martyr: false

@@ -15,8 +15,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
   - Confessor
 martyr: true
 ---

@@ -13,12 +13,9 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Soldier
 martyr: false
 ---
 

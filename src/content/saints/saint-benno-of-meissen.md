@@ -19,11 +19,9 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Missionary
 patronage:
   - "anglers, fishermen"

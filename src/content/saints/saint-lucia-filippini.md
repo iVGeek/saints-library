@@ -18,10 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Cardinal
+  - Confessor
 patronage:
   - "Religious Teachers Filippini"
 martyr: false

@@ -25,11 +25,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Missionary
 patronage:
   - "Denmark"

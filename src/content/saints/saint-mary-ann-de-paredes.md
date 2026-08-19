@@ -23,11 +23,7 @@ feastDay:
   day: 26
 canonizationStatus: Venerable
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "against bodily ills"

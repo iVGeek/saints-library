@@ -1,7 +1,7 @@
 ---
 name: "Saint Mildred of Thanet"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Confessor"
 summary: "Daughter of Merewalh, King of Mercia, and Saint Ermenburga of Thanet. Sister of Saint Milburga and Saint Mildgytha. Educated at the convent school of Chelles, near Paris, France. Rejected an offer of marriage, and entered the convent of Minster on the Isle of Thanet, a house whic"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mildred-of-Thanet-1.jpg"
 searchAliases:
@@ -15,12 +15,7 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "Canterbury, England"

@@ -27,11 +27,9 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

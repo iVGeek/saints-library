@@ -20,12 +20,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: true
 ---

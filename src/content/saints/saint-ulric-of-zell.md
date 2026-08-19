@@ -16,12 +16,10 @@ feastDay:
   day: 14
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 martyr: false

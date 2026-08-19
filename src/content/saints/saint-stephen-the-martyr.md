@@ -14,14 +14,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Franciscan"
 patronage:
   - "against headaches"

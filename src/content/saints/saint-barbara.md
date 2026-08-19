@@ -15,11 +15,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
 patronage:
   - "against death by artillery"
   - "against explosions"

@@ -24,9 +24,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 patronage:
   - "against dropsy"
   - "against edema"

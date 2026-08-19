@@ -19,12 +19,9 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "cattle"

@@ -27,11 +27,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
 patronage:
   - "against fever"
   - "dauphins of France"

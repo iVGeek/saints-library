@@ -22,12 +22,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
 patronage:
   - "Daughters of the Sacred Heart of Jesus of Guadalajara"
   - "nurses"

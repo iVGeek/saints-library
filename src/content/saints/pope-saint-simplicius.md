@@ -13,10 +13,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Angelo Carletti"
 honorific: Blessed
-title: "Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Confessor"
 summary: "Born to the Italian nobility, Antonio studied law at Bologna, Italy, and practised in the Monferrato region of Italy. Elected senator, he abandoned the office and his practice to become a Franciscan monk at Santa Maria del Monte in Genoa, Italy, taking the name Brother Angelo, se"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelo-Carletti.jpg"
 searchAliases:
@@ -20,11 +20,6 @@ feastDay:
   day: 11
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

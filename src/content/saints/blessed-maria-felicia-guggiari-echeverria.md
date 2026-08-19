@@ -20,12 +20,8 @@ feastDay:
   day: 28
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Cardinal
-  - Royalty
+  - Priest
 religiousOrder: "Carmelite"
 martyr: false
 ---

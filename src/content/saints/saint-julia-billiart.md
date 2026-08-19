@@ -1,7 +1,7 @@
 ---
 name: "Saint Julia Billiart"
 honorific: Venerable
-title: "Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Sixth of seven children of peasant farmers Jean-Fran&ccedil;ois Billiart and Marie-Louise-Antoinette Debraine. She was poorly educated, but knew her catechism by heart at age 7, and used to explain it to other children. At age 14 she took a private vow of chastity, and gave her l"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julia-Billiart.jpg"
 searchAliases:
@@ -20,10 +20,7 @@ feastDay:
   day: 8
 canonizationStatus: Venerable
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "against poverty"

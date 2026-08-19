@@ -29,9 +29,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
   - Missionary
   - Confessor
 patronage:

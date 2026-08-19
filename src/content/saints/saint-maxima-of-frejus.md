@@ -15,11 +15,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Monk
-  - Religious
-  - Cardinal
-  - Hermit
 patronage:
   - "Fréjus, France (proclaimed on 27 November 1675)"
 martyr: true

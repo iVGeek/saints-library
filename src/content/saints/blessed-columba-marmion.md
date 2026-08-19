@@ -1,7 +1,7 @@
 ---
 name: "Blessed Columba Marmion"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty, Missionary"
+title: "Missionary"
 summary: " He dreamed of becoming a miss Son of an Irish father, William Marmion, and French mother, Herminie Cordier. He entered the seminary in Dublin, Ireland  in 1874, and studied at the College for the Propagation of the Faith in Rome, Italy from 1876. Ordained in Rome on 16 June 1881."
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Columba_Marmion_%281858-1923%29.jpg"
 searchAliases:
@@ -19,12 +19,6 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 martyr: false

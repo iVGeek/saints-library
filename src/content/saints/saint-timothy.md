@@ -1,7 +1,7 @@
 ---
 name: "Saint Timothy"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Pope, Missionary"
+title: "Missionary, Martyr"
 summary: "His father was a Greek gentile, his mother Eunice was Jewish. Converted to Christianity by Saint Paul the Apostle around the year 47, he became a partner, assistant and close friend of Paul. Missionary. Head of the Church in Ephesus. Recipient of two canonical letters from Saint"
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Saint_Timothy.jpg"
 searchAliases:
@@ -14,11 +14,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

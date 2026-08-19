@@ -15,10 +15,7 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Soldier
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "Poor Clares"

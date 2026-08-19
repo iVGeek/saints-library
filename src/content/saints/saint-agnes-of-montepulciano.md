@@ -1,7 +1,7 @@
 ---
 name: "Saint Agnes of Montepulciano"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Martyr"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sant%27Agnese_Segni%2C_1507%2C_01_%28cropped%29.jpg/960px-Sant%27Agnese_Segni%2C_1507%2C_01_%28cropped%29.jpg"
 birthYear: 1268
 deathYear: 1317
@@ -16,12 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "Montepulciano, Italy"

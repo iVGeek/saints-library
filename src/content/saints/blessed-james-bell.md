@@ -17,10 +17,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 martyr: true

@@ -26,12 +26,7 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "Oxford, England"

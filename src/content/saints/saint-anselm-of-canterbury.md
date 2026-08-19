@@ -21,12 +21,9 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
-  - Doctor of the Church
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

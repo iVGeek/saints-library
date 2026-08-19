@@ -1,7 +1,7 @@
 ---
 name: "Saint Mechtilde of Helfta"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Born to a pious, powerful Thuringian noble family; her older sister was a nun. Convent-educated from age seven, Mechtilde became a nun at Rodersdorf, Switzerland. She moved to the Helfta monastery in 1258 where her sister served as abbess. Teacher and choir director at the conven"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mechtilde-of-Helfta1.jpg"
 searchAliases:
@@ -27,11 +27,7 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Dominican"
 patronage:
   - "against blindess (one well-known miracle was healing the blindness of a nun)"

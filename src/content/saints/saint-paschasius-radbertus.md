@@ -19,11 +19,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Hermit
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

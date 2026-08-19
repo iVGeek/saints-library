@@ -19,12 +19,10 @@ feastDay:
   day: 11
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Benedictine"

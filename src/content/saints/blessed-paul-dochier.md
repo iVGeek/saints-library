@@ -21,9 +21,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Monk
-  - Religious
-  - Pope
 patronage:
   - "against respiratory, breathing and/or lung problems"
 martyr: true

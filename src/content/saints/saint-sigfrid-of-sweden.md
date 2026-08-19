@@ -23,11 +23,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
 patronage:
   - "Sweden\nGlastonbury, England"
   - "Götaland, Sweden"

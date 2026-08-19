@@ -20,9 +20,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
   - Confessor
 patronage:
   - "in Spain\n\nAragon"

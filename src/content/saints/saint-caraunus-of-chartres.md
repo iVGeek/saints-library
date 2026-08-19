@@ -21,7 +21,6 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-  - Hermit
   - Missionary
 martyr: true
 ---

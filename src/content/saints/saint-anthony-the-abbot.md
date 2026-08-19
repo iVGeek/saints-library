@@ -28,10 +28,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against eczema"

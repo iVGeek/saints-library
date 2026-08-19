@@ -18,10 +18,8 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Priest
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

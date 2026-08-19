@@ -20,10 +20,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

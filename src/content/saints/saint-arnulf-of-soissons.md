@@ -25,10 +25,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
-  - Soldier
 religiousOrder: "Benedictine"
 patronage:
   - "brewers"

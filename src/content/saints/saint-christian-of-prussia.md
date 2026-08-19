@@ -13,11 +13,9 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Soldier
   - Missionary
 religiousOrder: "Benedictine"
 martyr: false

@@ -19,13 +19,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
-  - Doctor of the Church
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

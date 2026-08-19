@@ -19,12 +19,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Virgin
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Soldier
 religiousOrder: "Benedictine"
 martyr: false
 ---

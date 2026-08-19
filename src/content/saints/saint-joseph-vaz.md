@@ -19,11 +19,9 @@ feastDay:
   day: 16
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

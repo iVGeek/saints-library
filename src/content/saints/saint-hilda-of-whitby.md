@@ -18,12 +18,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "Whitby, England"

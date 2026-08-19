@@ -24,11 +24,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

@@ -19,10 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Royalty
   - Confessor
 patronage:
   - "Fiesole, Italy"

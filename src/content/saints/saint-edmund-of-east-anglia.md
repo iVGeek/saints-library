@@ -22,9 +22,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 religiousOrder: "Benedictine"
 patronage:
   - "against plague"

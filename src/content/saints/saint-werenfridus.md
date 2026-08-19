@@ -21,8 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Hermit
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

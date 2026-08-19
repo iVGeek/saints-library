@@ -24,10 +24,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
-  - Soldier
   - Confessor
 patronage:
   - "against hernia"

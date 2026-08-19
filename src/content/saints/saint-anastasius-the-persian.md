@@ -18,10 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Religious
-  - Royalty
-  - Soldier
 religiousOrder: "Carmelite"
 patronage:
   - "against headaches"

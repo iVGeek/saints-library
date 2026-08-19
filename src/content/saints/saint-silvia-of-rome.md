@@ -18,9 +18,7 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 patronage:
   - "pregnant women"
 martyr: false

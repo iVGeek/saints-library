@@ -18,12 +18,8 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Priest
   - Pope
-  - Cardinal
-  - Hermit
-  - Royalty
-  - Soldier
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "Franciscan Hospitallers of Jesus of Nazareth"

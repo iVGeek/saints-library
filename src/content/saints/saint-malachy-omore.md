@@ -1,7 +1,7 @@
 ---
 name: "Saint Malachy O'More"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Confessor"
 summary: "Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered religious life. Ordained at age 25. Studied under Saint Malchus. Preacher and clerical reformer. Instituted celibacy regulations and other disciplines on the Irish cl"
 image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-malachi-bishop.jpg"
 searchAliases:
@@ -24,12 +24,6 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "Ireland"

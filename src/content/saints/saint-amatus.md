@@ -23,11 +23,9 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

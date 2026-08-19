@@ -23,10 +23,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Soldier
+  - Priest
   - Missionary
 martyr: true
 ---

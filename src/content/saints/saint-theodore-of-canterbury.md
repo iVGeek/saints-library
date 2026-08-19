@@ -17,10 +17,9 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Missionary
   - Confessor
 martyr: false

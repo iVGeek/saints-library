@@ -22,9 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "Diocese of Orléans, France"

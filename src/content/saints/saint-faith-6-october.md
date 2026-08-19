@@ -20,11 +20,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 patronage:
   - "pilgrims"
   - "prisoners"

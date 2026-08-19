@@ -47,9 +47,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

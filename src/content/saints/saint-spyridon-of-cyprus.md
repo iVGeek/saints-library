@@ -28,10 +28,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Royalty
   - Confessor
 patronage:
   - "against flood"

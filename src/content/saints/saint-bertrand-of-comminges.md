@@ -13,13 +13,10 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Augustinian"
 patronage:
   - "Saint-Bertrand-de-Comminges, France"

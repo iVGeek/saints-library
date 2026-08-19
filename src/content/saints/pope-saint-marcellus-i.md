@@ -1,7 +1,7 @@
 ---
 name: "Pope Saint Marcellus I"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Pope"
+title: "Martyr"
 summary: "Nothing of his life before the papacy has survived the centuries. Pope at the end of the persecutions of Diocletian; the persecutions had so disrupted the Church that there had been a gap of over a year with no Pope. Faced reconsituting the clergy which had been decimated and who"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Roma-sanmarcelloalcorso2.jpg/960px-Roma-sanmarcelloalcorso2.jpg"
 searchAliases:
@@ -16,10 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
 patronage:
   - "horses"
   - "stablemen"

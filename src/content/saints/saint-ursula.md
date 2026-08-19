@@ -13,11 +13,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "drapers"

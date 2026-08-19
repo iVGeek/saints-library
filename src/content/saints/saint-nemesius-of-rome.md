@@ -16,11 +16,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Deacon
   - Pope
-  - Soldier
+  - Priest
+  - Deacon
 martyr: true
 ---
 

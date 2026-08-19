@@ -1,7 +1,7 @@
 ---
 name: "Venerable Alfred Gregori"
 honorific: Venerable
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Member of the Sylvestrine Congregation of the Order of Saint Benedict, taking the name Ildebrando. Monk. Priest. Abbot-general of his Order. Founded the Congregation of the Benedictine Reparatrix Sisters of the Holy Face."
 searchAliases:
   - "Padre Ildebrando"
@@ -18,11 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Benedictine"
 martyr: false
 ---

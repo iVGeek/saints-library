@@ -16,12 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 martyr: false
 ---
 

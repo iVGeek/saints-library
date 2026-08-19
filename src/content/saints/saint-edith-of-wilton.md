@@ -20,11 +20,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Kemsing, England"

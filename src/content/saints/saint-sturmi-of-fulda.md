@@ -20,12 +20,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 martyr: true

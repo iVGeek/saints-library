@@ -16,11 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Bishop
-  - Monk
-  - Religious
-  - Pope
 martyr: true
 ---
 

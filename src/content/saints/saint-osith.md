@@ -21,11 +21,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 martyr: true
 ---
 

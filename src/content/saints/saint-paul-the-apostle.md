@@ -1,7 +1,7 @@
 ---
 name: "Saint Paul the Apostle"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Pope, Royalty, Soldier, Missionary"
+title: "Martyr"
 summary: "Jewish Talmudic student. Pharisee. Tent-maker by trade. Saul the Jew hated and persecuted Christians as heretical, even assisting at the stoning of Saint Stephen the Martyr. On his way to Damascus, Syria, to arrest another group of faithful, he was knocked to the ground, struck b"
 image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg"
 searchAliases:
@@ -20,13 +20,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

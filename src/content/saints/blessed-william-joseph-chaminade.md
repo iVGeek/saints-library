@@ -18,11 +18,8 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Royalty
+  - Priest
   - Missionary
 patronage:
   - "Sodalities of Our Lady"

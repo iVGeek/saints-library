@@ -20,9 +20,6 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Cardinal
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 martyr: false

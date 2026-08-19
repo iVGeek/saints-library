@@ -22,11 +22,9 @@ feastDay:
   day: 22
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "Plumelin, Brittany, France"

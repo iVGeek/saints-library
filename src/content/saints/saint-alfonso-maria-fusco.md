@@ -16,12 +16,9 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
   - Confessor
 patronage:
   - "Congregation of the Baptistine Sisters of the Nazarene"

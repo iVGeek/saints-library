@@ -16,8 +16,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
   - Confessor
 patronage:
   - "hotel keepers"

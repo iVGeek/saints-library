@@ -1,7 +1,7 @@
 ---
 name: "Saint John Eudes"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty, Missionary"
+title: "Missionary"
 summary: "Farmer's son who attended the Jesuit college at Caen, France at age 14. Joined the Congregation of the Oratory of France. Studied at Paris and Aubervilliers in France. Priest. Ministered to plague victims. Missionary and preacher, working well over 100 missions. Worked against Ja"
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/JeanEudes.png"
 searchAliases:
@@ -18,12 +18,6 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

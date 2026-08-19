@@ -19,11 +19,8 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Hermit
+  - Priest
   - Confessor
 religiousOrder: "Dominican"
 patronage:

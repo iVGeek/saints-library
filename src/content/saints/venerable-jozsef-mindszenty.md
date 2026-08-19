@@ -21,11 +21,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Royalty
 martyr: true
 ---
 

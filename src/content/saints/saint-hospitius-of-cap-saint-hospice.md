@@ -21,9 +21,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Soldier
 martyr: true
 ---
 

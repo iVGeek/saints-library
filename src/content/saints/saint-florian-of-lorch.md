@@ -16,11 +16,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Bishop
 religiousOrder: "Augustinian"
 patronage:
   - "against battle"

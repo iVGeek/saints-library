@@ -18,10 +18,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Bishop
-  - Monk
-  - Religious
-  - Hermit
-  - Soldier
 patronage:
   - "against eye ailments"
   - "children"

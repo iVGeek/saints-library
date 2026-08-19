@@ -20,12 +20,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
 patronage:
   - "learning"
   - "–"

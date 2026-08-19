@@ -20,13 +20,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Hermit
-  - Royalty
   - Confessor
 religiousOrder: "Dominican"
 martyr: false

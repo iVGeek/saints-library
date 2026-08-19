@@ -22,11 +22,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Capuchin"

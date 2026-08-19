@@ -26,10 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
-  - Soldier
 patronage:
   - "bachelors"
   - "falsely accused people"

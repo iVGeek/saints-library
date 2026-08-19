@@ -17,10 +17,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Missionary
 patronage:
   - "in Italy\n\nFoligno, city of"

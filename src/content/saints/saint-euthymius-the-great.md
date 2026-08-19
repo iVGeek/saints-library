@@ -18,9 +18,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
 martyr: true
 ---
 

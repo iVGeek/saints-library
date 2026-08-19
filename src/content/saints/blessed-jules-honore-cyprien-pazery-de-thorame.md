@@ -17,11 +17,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Soldier
 religiousOrder: "Carmelite"
 martyr: true
 ---

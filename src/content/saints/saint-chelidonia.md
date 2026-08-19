@@ -17,10 +17,7 @@ feastDay:
   day: 13
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "Subiaco, Italy"

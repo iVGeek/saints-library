@@ -21,13 +21,10 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Cardinal
-  - Soldier
   - Confessor
 patronage:
   - "musicians"

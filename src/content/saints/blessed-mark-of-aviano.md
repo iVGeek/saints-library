@@ -22,11 +22,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

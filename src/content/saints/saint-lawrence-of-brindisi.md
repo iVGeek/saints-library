@@ -22,11 +22,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Doctor of the Church
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "Brindisi, Italy, city of"

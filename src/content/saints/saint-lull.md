@@ -20,7 +20,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Missionary
   - Confessor
 martyr: true

@@ -17,11 +17,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
   - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
+  - Priest
 patronage:
   - "World Youth Day 2019"
 martyr: true

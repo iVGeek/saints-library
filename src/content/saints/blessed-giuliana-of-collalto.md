@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giuliana of Collalto"
 honorific: Blessed
-title: "Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Born to the Italian nobility, the daughter of Count Rambaldo VI and Countess Giovanna of Sant'Angelo of Mantua. She received a Christian education, and at age 12, she entered the Benedictine convent of Santa Margherita di Salarola near Calaone, Italy. There she became a friend of"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Beata_Giuliana_di_Collalto_litography.png/960px-Beata_Giuliana_di_Collalto_litography.png"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "against headaches"

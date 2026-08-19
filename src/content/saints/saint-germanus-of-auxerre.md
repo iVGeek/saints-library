@@ -19,12 +19,10 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "Auxerre, France"

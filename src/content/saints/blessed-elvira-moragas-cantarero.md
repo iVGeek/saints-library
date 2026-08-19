@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
 religiousOrder: "Carmelite"
 patronage:
   - "pharmacists"

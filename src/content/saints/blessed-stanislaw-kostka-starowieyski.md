@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
   - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
+  - Priest
 patronage:
   - "Catholic Action in Poland"
 martyr: true

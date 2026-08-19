@@ -23,12 +23,9 @@ feastDay:
   day: 30
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

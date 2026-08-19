@@ -18,9 +18,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against bad harvests (in Lillers and Montdidier, France)"

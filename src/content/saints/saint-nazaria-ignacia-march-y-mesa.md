@@ -20,10 +20,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Soldier
+  - Priest
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

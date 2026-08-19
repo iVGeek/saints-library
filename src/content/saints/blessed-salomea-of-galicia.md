@@ -1,7 +1,7 @@
 ---
 name: "Blessed Salomea of Galicia"
 honorific: Blessed
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Born to the nobility, the daughter of Lescon V, Duke of Cracow, and Sandomir. At the age of three years, she was given in a political marriage to Colomon, a prince of Hungary, and the brother of Saint Elizabeth of Hungary. Widowed, Salomea followed a call to religious life; she b"
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Salomea-of-Galicia.jpg"
 searchAliases:
@@ -19,11 +19,7 @@ feastDay:
   day: 17
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -23,13 +23,9 @@ feastDay:
   day: 5
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Dominican"
 martyr: false
 ---

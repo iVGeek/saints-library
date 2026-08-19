@@ -1,7 +1,7 @@
 ---
 name: "Saint Germaine Cousin"
 honorific: Saint
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Daughter of Laurent Cousin, a farm worker, and Marie Laroche. Her mother died while Germaine was an infant. A sickly child, Germaine suffered from scrofula, and her right hand was deformed. Ignored by her father and abused by her step-family, she was often forced to sleep in the"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eglise_Sainte-Germaine_Statue_par_Alexandre_Falgui%C3%A8re_1877.jpg/960px-Eglise_Sainte-Germaine_Statue_par_Alexandre_Falgui%C3%A8re_1877.jpg"
 searchAliases:
@@ -19,11 +19,7 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "abandoned people"

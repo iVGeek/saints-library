@@ -19,10 +19,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

@@ -21,10 +21,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
-  - Soldier
   - Confessor
 patronage:
   - "brewers"

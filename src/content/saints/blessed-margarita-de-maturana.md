@@ -21,10 +21,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Religious
   - Pope
-  - Cardinal
-  - Royalty
   - Missionary
 religiousOrder: "Carmelite"
 patronage:

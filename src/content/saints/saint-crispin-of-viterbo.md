@@ -23,13 +23,9 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 martyr: false
 ---

@@ -16,12 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

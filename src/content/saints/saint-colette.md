@@ -1,7 +1,7 @@
 ---
 name: "Saint Colette"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Pope, Hermit, Royalty"
+title: "Martyr"
 summary: "Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to join the Beguines and Benedictines, but fai"
 image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Colette_-_photo_Henri_Manuel.jpg"
 searchAliases:
@@ -24,13 +24,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against eye disorders"

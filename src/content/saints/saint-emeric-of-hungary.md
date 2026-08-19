@@ -21,11 +21,8 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Confessor
 patronage:
   - "Budapest, Hungary"

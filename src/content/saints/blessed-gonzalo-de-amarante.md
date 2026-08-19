@@ -23,11 +23,8 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Dominican"
 patronage:

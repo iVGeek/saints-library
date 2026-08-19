@@ -18,9 +18,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
 patronage:
   - "Viviers, France"
   - "for rain (in Viviers)"

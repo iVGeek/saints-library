@@ -16,12 +16,9 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Hermit
 religiousOrder: "Benedictine"
 martyr: false
 ---

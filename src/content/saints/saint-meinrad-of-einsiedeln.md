@@ -24,11 +24,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "Einsiedeln, Switzerland"

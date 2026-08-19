@@ -23,10 +23,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
-  - Soldier
   - Confessor
 patronage:
   - "against eye disease"

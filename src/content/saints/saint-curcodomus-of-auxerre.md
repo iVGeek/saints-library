@@ -10,10 +10,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Monk
-  - Deacon
   - Pope
+  - Bishop
+  - Deacon
   - Missionary
 martyr: true
 ---

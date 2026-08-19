@@ -15,11 +15,10 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
   - Confessor
 patronage:
   - "in Italy\n\nFlorence, archdiocese of"

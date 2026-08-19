@@ -21,9 +21,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
   - Missionary
   - Confessor
 religiousOrder: "Redemptorist"

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Christian de Chergé"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Religious, Pope, Royalty, Soldier, Missionary"
+title: "Martyr"
 summary: "Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th Artillery Regiment of Africa, and Charles spent part of his childhood in Algeria before the family returned to France. He studied at the Carmelite Sainte-Marie de"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-de-Chergé.jpg"
 searchAliases:
@@ -20,12 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
   - Missionary
 religiousOrder: "Carmelite"
 martyr: true

@@ -18,13 +18,9 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
 religiousOrder: "Carmelite"
 patronage:
   - "Daughters of Mary Immaculate"

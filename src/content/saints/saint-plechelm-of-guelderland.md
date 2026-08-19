@@ -22,7 +22,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Missionary
   - Confessor
 religiousOrder: "Benedictine"

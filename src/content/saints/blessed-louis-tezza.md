@@ -20,10 +20,9 @@ feastDay:
   day: 26
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
   - Missionary
   - Confessor
 martyr: false

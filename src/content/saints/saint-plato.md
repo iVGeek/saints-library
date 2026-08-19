@@ -19,10 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
-  - Soldier
 religiousOrder: "Franciscan"
 martyr: false
 ---

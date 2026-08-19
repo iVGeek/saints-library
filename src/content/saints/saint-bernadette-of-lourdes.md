@@ -1,7 +1,7 @@
 ---
 name: "Saint Bernadette of Lourdes"
 honorific: Venerable
-title: "Martyr, Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Martyr"
 summary: "Oldest of six children born to Francois and Louise Casterot, and grew up very poor. Hired out as a servant from age 12 to 14. Shepherdess. On 11 February 1858, around the time of her first Communion, she received a vision of the Virgin; her own account of it is in the Readings se"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadette-of-Lourdes.jpg"
 searchAliases:
@@ -25,12 +25,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against bodily ills"

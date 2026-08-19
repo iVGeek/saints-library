@@ -18,9 +18,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 patronage:
   - "against fever"
   - "against malaria"

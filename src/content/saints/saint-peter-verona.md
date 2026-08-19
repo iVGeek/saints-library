@@ -21,11 +21,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Soldier
+  - Priest
 religiousOrder: "Dominican"
 patronage:
   - "brewers"

@@ -20,11 +20,8 @@ feastDay:
   day: 30
 canonizationStatus: Saint
 vocation:
-  - Virgin
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

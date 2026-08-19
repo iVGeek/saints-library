@@ -32,9 +32,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

@@ -1,7 +1,7 @@
 ---
 name: "Saint Edburgh of Bicester"
 honorific: Saint
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Born a princess, the daughter of the pagan King Penda of Mercia; sister of Saint Cuneburga and Saint Edith of Aylesbury; aunt of Saint Osith. Nun under Saint Cuneburga's convent at Castor, Northamptonshire, England. Nun at a small monastery she built on land at Aylesbury, Bucking"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Edburgh-of-Bicester.jpg"
 searchAliases:
@@ -21,11 +21,7 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Augustinian"
 martyr: false
 ---

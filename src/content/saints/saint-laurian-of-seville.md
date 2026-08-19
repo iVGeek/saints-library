@@ -20,9 +20,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
 patronage:
   - "Bornos, Spain"
 martyr: true

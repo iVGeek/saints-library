@@ -19,11 +19,7 @@ feastDay:
   day: 13
 canonizationStatus: Blessed
 vocation:
-  - Virgin
   - Bishop
-  - Monk
-  - Religious
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

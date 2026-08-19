@@ -21,13 +21,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "Gauls"

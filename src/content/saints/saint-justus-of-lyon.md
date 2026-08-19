@@ -21,10 +21,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Hermit
-  - Royalty
   - Confessor
 martyr: true
 ---

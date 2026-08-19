@@ -1,7 +1,7 @@
 ---
 name: "Saint Maurice"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Pope, Soldier"
+title: "Martyr"
 summary: "Layman. Soldier. Officer in a legion of Christian soldiers from Upper Egypt during the reign of Emperor Maximian Herculeus. His legion, as many as 6600 men, was massacred en masse by their own side when they refused to participate in pagan sacrifices prior to battle. One of the M"
 image: "https://upload.wikimedia.org/wikipedia/commons/8/86/StMaurice2.jpg"
 searchAliases:
@@ -18,11 +18,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Soldier
 religiousOrder: "Benedictine"
 patronage:
   - "against cramps"

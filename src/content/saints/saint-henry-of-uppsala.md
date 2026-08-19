@@ -20,13 +20,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
 patronage:
   - "against storms"
   - "Finland (proclaimed on 24 February 1961 by Pope John XXIII)"

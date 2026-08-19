@@ -26,12 +26,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

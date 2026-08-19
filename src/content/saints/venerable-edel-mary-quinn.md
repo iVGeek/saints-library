@@ -16,11 +16,8 @@ feastDay:
   day: 1
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
   - Pope
-  - Cardinal
-  - Royalty
+  - Priest
   - Missionary
 patronage:
   - "against bodily ills"

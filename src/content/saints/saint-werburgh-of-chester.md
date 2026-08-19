@@ -19,11 +19,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 patronage:
   - "in England\n\nChester"
   - "Ely"

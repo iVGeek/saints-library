@@ -1,7 +1,7 @@
 ---
 name: "Saint Michael Garicoïts"
 honorific: Venerable
-title: "Bishop, Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "The eldest son of Pyrenean peasants, Arnold and Gratianne Garicoïts. His family sheltered priests escaping the persecutions of the French Revolution. As a boy Michael worked as a shepherd on neighboring farms. He early felt a call to the priesthood, but his family was too poor to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Michael-Garicoits.jpg"
 birthYear: 1797
@@ -16,11 +16,7 @@ feastDay:
   day: 14
 canonizationStatus: Venerable
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 martyr: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Saint Anthony Mary Gianelli"
 honorific: Venerable
-title: "Bishop, Priest, Monk, Religious, Pope, Missionary"
+title: "Missionary"
 summary: "Son of Mary and James Gianelli, Anthony grew up in a poor, pious family in a small farming village. His mother taught catechism, and his father was known as a generous peace-maker in the town. Anthony was such a promising student that the owner of his family farm paid for his sem"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Gianelli.jpg"
 searchAliases:
@@ -17,11 +17,6 @@ feastDay:
   day: 7
 canonizationStatus: Venerable
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
   - Missionary
 patronage:
   - "Bobbio, Italy (proclaimed on 7 December 1963 by Pope Paul VI)"

@@ -20,12 +20,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Jesuit"
 patronage:
   - "Armagh, Ireland, archdiocese of"

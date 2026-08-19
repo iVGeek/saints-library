@@ -21,11 +21,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Bishop
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Bishop
 religiousOrder: "Benedictine"
 martyr: true
 ---

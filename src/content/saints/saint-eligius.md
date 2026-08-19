@@ -29,9 +29,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 patronage:
   - "against boils"
   - "against enteritis"

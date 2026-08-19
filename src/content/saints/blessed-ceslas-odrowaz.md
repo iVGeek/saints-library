@@ -24,11 +24,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Confessor
 religiousOrder: "Dominican"
 patronage:

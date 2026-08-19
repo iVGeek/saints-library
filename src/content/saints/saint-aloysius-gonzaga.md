@@ -20,11 +20,8 @@ feastDay:
   day: 21
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

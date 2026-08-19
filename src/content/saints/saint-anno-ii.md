@@ -21,11 +21,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Soldier
   - Confessor
 patronage:
   - "in Germany\n\nCologne"

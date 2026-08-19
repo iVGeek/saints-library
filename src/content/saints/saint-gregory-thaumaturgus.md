@@ -24,13 +24,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
-  - Soldier
   - Confessor
 religiousOrder: "Dominican"
 patronage:

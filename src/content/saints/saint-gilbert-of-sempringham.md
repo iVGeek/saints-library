@@ -1,7 +1,7 @@
 ---
 name: "Saint Gilbert of Sempringham"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Pope, Royalty, Soldier"
+title: "Saint"
 summary: "Son of the wealthy Norman knight Jocelin. When Gilbert showed no signs of becoming a soldier, his father exiled him to Paris, France to study. Gilbert returned to England as a master of arts, and opened a school for the children of the poor in Sempringham, paying special attentio"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/SegellSempringham.jpg"
 birthYear: 1083
@@ -16,13 +16,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "handicapped people"

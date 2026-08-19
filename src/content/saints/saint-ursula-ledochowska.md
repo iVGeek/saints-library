@@ -20,11 +20,8 @@ feastDay:
   day: 29
 canonizationStatus: Venerable
 vocation:
-  - Priest
-  - Religious
   - Pope
-  - Cardinal
-  - Royalty
+  - Priest
   - Missionary
 martyr: false
 ---

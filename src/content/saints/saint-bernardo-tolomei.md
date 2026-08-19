@@ -20,12 +20,8 @@ feastDay:
   day: 20
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Soldier
+  - Priest
 religiousOrder: "Dominican"
 patronage:
   - "olive growers or farmers"

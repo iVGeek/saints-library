@@ -20,12 +20,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Religious
-  - Deacon
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
+  - Deacon
   - Confessor
 religiousOrder: "Dominican"
 martyr: true

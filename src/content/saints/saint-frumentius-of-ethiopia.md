@@ -24,8 +24,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Confessor
 patronage:
   - "Abyssinia"

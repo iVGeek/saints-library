@@ -26,10 +26,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
-  - Soldier
   - Missionary
 martyr: false
 ---

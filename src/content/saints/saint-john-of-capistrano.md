@@ -23,12 +23,9 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Deacon
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
+  - Deacon
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

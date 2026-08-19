@@ -16,12 +16,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
 patronage:
   - "in Italy\n\nBarisciano"
   - "Basciano"

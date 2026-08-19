@@ -20,13 +20,9 @@ feastDay:
   day: 22
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Royalty
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "mountaineers"

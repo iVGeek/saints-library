@@ -1,7 +1,7 @@
 ---
 name: "Saint Albert of Jerusalem"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Pope, Hermit, Royalty"
+title: "Martyr"
 summary: "Born to a wealthy and prominent noble Italian family. Well educated, especially in theology and law. Ordained, he served as canon to Holy Cross Abbey in Mortara, Italy. Abbey prior. Bishop of Bobbio, Italy in 1184. Bishop of Vercelli, Italy. Mediated disputes between Pope Clement"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Albert-of-Jerusalem.jpg"
 searchAliases:
@@ -21,13 +21,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
-  - Royalty
 religiousOrder: "Carmelite"
 patronage:
   - "in Italy\n\nBobbio"

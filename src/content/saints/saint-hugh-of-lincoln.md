@@ -18,12 +18,10 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "sick children"

@@ -22,11 +22,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
 patronage:
   - "against autism"
   - "against demonic possession"

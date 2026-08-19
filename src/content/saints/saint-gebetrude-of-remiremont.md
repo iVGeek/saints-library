@@ -13,9 +13,7 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Benedictine"
 martyr: false
 ---

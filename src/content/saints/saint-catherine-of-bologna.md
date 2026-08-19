@@ -1,7 +1,7 @@
 ---
 name: "Saint Catherine of Bologna"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Born to the nobility of Bologna, Italy, the daughter of a diplomat. Tradition says her father received a vision telling him of her birth. Maid of honour to the daughter of a marquis, receiving the same training and education as her mistress. Franciscan tertiary at age 14. Poor Cl"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saint_Catherine_of_Bologna_with_Three_Donors_by_the_Master_of_the_Baroncelli_Portraits.jpg/960px-Saint_Catherine_of_Bologna_with_Three_Donors_by_the_Master_of_the_Baroncelli_Portraits.jpg"
 searchAliases:
@@ -20,11 +20,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "against temptations"

@@ -21,9 +21,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Soldier
 patronage:
   - "against mosquitoes"
   - "against stinging flies"

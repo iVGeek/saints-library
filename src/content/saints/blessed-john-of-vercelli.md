@@ -19,12 +19,9 @@ feastDay:
   day: 30
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
 religiousOrder: "Dominican"
 patronage:
   - "Holy Name Society"

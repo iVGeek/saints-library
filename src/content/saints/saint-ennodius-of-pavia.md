@@ -17,12 +17,7 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
   - Confessor
 martyr: false
 ---

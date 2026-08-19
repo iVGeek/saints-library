@@ -26,8 +26,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Benedictine"
 martyr: true

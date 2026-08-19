@@ -1,7 +1,7 @@
 ---
 name: "Pope Blessed Urban V"
 honorific: Blessed
-title: "Martyr, Bishop, Priest, Monk, Religious, Pope, Cardinal, Soldier"
+title: "Martyr"
 summary: "Born to the nobility, one of four children of Guillaume de Grimoard, Lord of Bellegarde, and of Amphélise de Montferrand; his brother later became a cardinal and papal legate. Guillaume became a Benedictine monk at the priory of Chirac, France in 1327. Priest, ordained at the Chi"
 image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Simone_dei_crocifissi%2C_urbano_V%2C_1375_ca.%2C_forse_dalla_cattedrale_di_s._pietro_01_%28cropped%29.jpg"
 searchAliases:
@@ -20,13 +20,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Cardinal
-  - Soldier
 religiousOrder: "Franciscan"
 martyr: true
 ---

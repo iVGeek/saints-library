@@ -15,10 +15,8 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
   - Confessor
 patronage:

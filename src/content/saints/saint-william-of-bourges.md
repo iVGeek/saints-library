@@ -21,15 +21,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
-  - Hermit
-  - Royalty
-  - Soldier
   - Confessor
 martyr: true
 ---

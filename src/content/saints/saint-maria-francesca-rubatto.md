@@ -21,12 +21,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Capuchin"
 martyr: true
 ---

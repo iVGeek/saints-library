@@ -32,9 +32,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "against blight"

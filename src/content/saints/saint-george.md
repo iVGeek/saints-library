@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "against herpes"

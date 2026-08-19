@@ -21,12 +21,9 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
   - Confessor
 patronage:
   - "Bergamo, Italy, diocese of"

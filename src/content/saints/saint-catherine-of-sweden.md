@@ -1,7 +1,7 @@
 ---
 name: "Saint Catherine of Sweden"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Confessor"
 summary: "Fourth of the eight children of Saint Bridget of Sweden and Ulf Gudmarsson. Educated at the convent of Riseberg. Married by arrangement at age 13 to the pious German noble Eggart von K&uuml;rnen. Soon after their marriage, both she and her husband took vows of chastity and contin"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-of-Sweden.jpg"
 searchAliases:
@@ -19,12 +19,7 @@ feastDay:
   day: 24
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 patronage:
   - "against abortions"
   - "against miscarriages"

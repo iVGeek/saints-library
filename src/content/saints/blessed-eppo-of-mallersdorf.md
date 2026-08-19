@@ -14,9 +14,7 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Benedictine"
 martyr: false
 ---

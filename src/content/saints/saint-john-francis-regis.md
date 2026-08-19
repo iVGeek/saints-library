@@ -1,7 +1,7 @@
 ---
 name: "Saint John Francis Regis"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Pope, Royalty, Missionary, Confessor"
+title: "Missionary"
 summary: "Son of a wealthy merchant. Educated at the Jesuit college at Beziers, and at Cahors, Le Puy, Auch, and Tournon. Joined the Jesuits at age 18. Preacher. Catechist who was so good that children he taught helped bring their parents back to the Church. Ordained at age 34. Worked with"
 image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/San_Juan_Francisco_de_Regis.jpg"
 searchAliases:
@@ -21,12 +21,6 @@ feastDay:
   day: 31
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

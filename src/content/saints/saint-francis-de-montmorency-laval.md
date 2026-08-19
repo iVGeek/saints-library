@@ -18,12 +18,10 @@ feastDay:
   day: 6
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
   - Deacon
-  - Pope
-  - Hermit
-  - Soldier
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

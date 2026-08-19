@@ -21,12 +21,9 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "first communicants"

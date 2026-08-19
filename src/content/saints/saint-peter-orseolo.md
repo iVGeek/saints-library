@@ -19,11 +19,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
 religiousOrder: "Benedictine"
 patronage:
   - "Doges of Venice"

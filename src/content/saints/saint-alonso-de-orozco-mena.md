@@ -19,11 +19,8 @@ feastDay:
   day: 19
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
 religiousOrder: "Augustinian"
 martyr: false

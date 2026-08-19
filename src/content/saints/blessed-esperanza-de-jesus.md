@@ -22,12 +22,9 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
 patronage:
   - "Handmaids of Merciful Love"
   - "Sons of Merciful Love"

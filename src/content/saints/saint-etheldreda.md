@@ -25,12 +25,8 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Virgin
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 patronage:
   - "neck ailments"
   - "throat ailments"

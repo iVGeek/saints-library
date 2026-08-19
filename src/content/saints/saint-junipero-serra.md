@@ -20,10 +20,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 patronage:

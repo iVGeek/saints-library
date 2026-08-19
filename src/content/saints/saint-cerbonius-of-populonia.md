@@ -21,13 +21,9 @@ feastDay:
   day: 10
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
-  - Royalty
-  - Soldier
 patronage:
   - "in Italy\n\nBaratti, Piombino"
   - "Massa Marittima"

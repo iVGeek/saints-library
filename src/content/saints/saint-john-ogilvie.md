@@ -17,11 +17,8 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

@@ -24,10 +24,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
-  - Soldier
   - Missionary
 patronage:
   - "against coughs"

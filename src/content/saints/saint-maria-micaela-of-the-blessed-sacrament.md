@@ -21,11 +21,6 @@ feastDay:
   day: 24
 canonizationStatus: Blessed
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
   - Confessor
 martyr: false
 ---

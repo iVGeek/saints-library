@@ -1,7 +1,7 @@
 ---
 name: "Saint Jane of Valois"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Confessor"
 summary: "Born a princess, the daughter of King Louis XI of France and Charlotte of Savoy. Cousin of Blessed Louise of Savoy. Deformed at birth and sickly through her life, she early developed a devotion to Our Lady, and the praying of the Angelus. Married at age 9 for political reasons to"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joanna-de-Valois.jpg"
 searchAliases:
@@ -24,12 +24,7 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 martyr: false
 ---

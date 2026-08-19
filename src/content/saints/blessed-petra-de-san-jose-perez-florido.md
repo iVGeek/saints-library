@@ -23,11 +23,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
 patronage:
   - "Mothers of the Abandoned"
 martyr: true

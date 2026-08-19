@@ -25,10 +25,7 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
   - Deacon
-  - Royalty
-  - Soldier
 patronage:
   - "against evil spirits"
   - "Crusaders"

@@ -26,11 +26,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against job-related stress"

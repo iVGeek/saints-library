@@ -22,11 +22,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
-  - Soldier
 religiousOrder: "Benedictine"
 patronage:
   - "Croyland, England"

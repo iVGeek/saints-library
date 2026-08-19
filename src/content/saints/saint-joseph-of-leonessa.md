@@ -20,10 +20,8 @@ feastDay:
   day: 4
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

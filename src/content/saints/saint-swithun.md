@@ -21,8 +21,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Confessor
 patronage:
   - "against drought"

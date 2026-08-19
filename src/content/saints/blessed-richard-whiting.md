@@ -16,11 +16,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Cardinal
-  - Royalty
+  - Priest
 religiousOrder: "Benedictine"
 martyr: true
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Blessed Giovanna Maria Bonomo"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Confessor"
 summary: "Eldest of four children of Giovanni Bonomo, a wealthy merchant, and Virginia Ceschi di Santa Croce. Legend says that she began to speak at age 10 months - and her first words were to talk her father out of some sinful act he was considering; by age 5 she could speak Latin without"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/P28.232-01_Asiago._Monumento_della_beata_Giovanna_Maria_Bonomo_intatto_tra_le_macerie.jpg/960px-P28.232-01_Asiago._Monumento_della_beata_Giovanna_Maria_Bonomo_intatto_tra_le_macerie.jpg"
 searchAliases:
@@ -18,12 +18,7 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "Asiago, Italy"

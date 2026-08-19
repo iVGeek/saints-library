@@ -16,9 +16,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
 patronage:
   - "Tarragona, Spain"
 martyr: true

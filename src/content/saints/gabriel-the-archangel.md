@@ -1,7 +1,7 @@
 ---
 name: "Gabriel the Archangel"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Archangel"
 summary: "Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible."
 image: "http://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg"
 searchAliases: []

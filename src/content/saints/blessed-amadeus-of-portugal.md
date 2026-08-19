@@ -21,12 +21,8 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "against fever (water from a spring at his monastery was reported to heal fever patients)"

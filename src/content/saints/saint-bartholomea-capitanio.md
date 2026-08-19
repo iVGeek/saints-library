@@ -17,11 +17,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Virgin
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Lovere, Italy"
 martyr: true

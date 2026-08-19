@@ -1,7 +1,7 @@
 ---
 name: "Blessed Ulrika Fransiska Nisch"
 honorific: Blessed
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Oldest of eleven children born to Ulrich Nisch, who cleaned stables, and Klothilde Dettenrieder, a servant in a village inn. The couple was so poor that their families and the local authorities refused to allow their marriage; they forced the issue with the birth of Fransiska. Th"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ulrika-Fransiska-Nisch.jpg"
 searchAliases:
@@ -19,11 +19,7 @@ feastDay:
   day: 8
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 martyr: false
 ---
 

@@ -18,11 +18,10 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
   - Missionary
   - Confessor
 patronage:

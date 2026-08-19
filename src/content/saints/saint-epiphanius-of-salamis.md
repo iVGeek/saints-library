@@ -23,12 +23,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Doctor of the Church
   - Confessor
 martyr: true
 ---

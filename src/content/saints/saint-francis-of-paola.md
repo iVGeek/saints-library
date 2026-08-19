@@ -21,11 +21,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

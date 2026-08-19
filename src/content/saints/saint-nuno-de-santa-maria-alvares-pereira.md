@@ -20,12 +20,8 @@ feastDay:
   day: 1
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 religiousOrder: "Carmelite"
 patronage:
   - "Lisbon, Portugal, patriarchate of"

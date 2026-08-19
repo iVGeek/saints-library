@@ -26,11 +26,9 @@ feastDay:
   day: 6
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "Æbelholt Abbey"

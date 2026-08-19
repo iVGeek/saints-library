@@ -20,12 +20,10 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
 religiousOrder: "Franciscan"
 patronage:
   - "against volcanic eruptions (especially of Vesuvius)"

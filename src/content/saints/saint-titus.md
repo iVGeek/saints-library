@@ -1,7 +1,7 @@
 ---
 name: "Saint Titus"
 honorific: Saint
-title: "Martyr, Bishop, Priest, Monk, Religious, Pope, Confessor"
+title: "Confessor, Martyr"
 summary: "Disciple of Saint Paul the Apostle. Recipient of a canonical letter from Saint Paul. First bishop of the Church in Crete."
 image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Fresco_of_Saint_Titos.jpg"
 searchAliases:
@@ -16,11 +16,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

@@ -16,13 +16,9 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Cardinal
+  - Priest
   - Missionary
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "preachers"

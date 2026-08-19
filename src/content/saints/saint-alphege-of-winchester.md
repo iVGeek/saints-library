@@ -30,11 +30,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
 patronage:
   - "kidnap victims"
   - "in England\n\nCanterbury, city of"

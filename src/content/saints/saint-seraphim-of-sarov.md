@@ -18,12 +18,8 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
+  - Priest
 martyr: false
 ---
 

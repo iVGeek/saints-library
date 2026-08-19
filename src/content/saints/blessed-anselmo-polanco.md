@@ -20,10 +20,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Soldier
   - Missionary
 religiousOrder: "Augustinian"
 martyr: true

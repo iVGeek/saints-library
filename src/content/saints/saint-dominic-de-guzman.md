@@ -1,7 +1,7 @@
 ---
 name: "Saint Dominic de Guzman"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Religious, Pope, Confessor"
+title: "Confessor"
 summary: "Born of wealthy Spanish nobility. Son of Blessed Joan of Aza. Joan had difficulty conceiving, and prayed at the shrine of Saint Dominic of Silos who had a tradition of patronage of that problem; when she became pregnant she named the child Dominic in honour of the Saint. While pr"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-de-Guzman.jpg"
 searchAliases:
@@ -19,12 +19,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

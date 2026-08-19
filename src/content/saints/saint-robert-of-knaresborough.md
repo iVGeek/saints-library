@@ -28,11 +28,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Priest
-  - Monk
   - Deacon
-  - Hermit
-  - Royalty
-  - Soldier
 patronage:
   - "in England\n\nKnaresborough"
   - "Newminster"

@@ -17,12 +17,9 @@ feastDay:
   day: 27
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
 patronage:
   - "Cluny, France"
   - "Lausanne, Switzerland"

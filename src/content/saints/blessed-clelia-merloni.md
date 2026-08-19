@@ -16,12 +16,9 @@ feastDay:
   day: 21
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
 patronage:
   - "Apostles of the Sacred Heart of Jesus"
 martyr: false

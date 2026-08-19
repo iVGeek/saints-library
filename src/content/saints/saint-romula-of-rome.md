@@ -11,10 +11,7 @@ feastDay:
   day: 23
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
+  - Confessor
 patronage:
   - "against bodily ills"
   - "against sickness"

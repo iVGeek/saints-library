@@ -23,8 +23,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Hermit
   - Confessor
 religiousOrder: "Franciscan"
 martyr: true

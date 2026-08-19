@@ -16,12 +16,8 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 religiousOrder: "Jesuit"
 martyr: false
 ---

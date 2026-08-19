@@ -20,11 +20,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Monk
   - Deacon
-  - Royalty
-  - Soldier
 martyr: true
 ---
 

@@ -32,11 +32,9 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
   - Missionary
 patronage:
   - "against livestock diseases"

@@ -19,12 +19,9 @@ feastDay:
   day: 3
 canonizationStatus: Blessed
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Sherbrooke, Canada, archdiocese of"
 martyr: false

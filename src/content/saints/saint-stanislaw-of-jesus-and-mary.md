@@ -24,13 +24,8 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
   - Pope
-  - Cardinal
-  - Hermit
-  - Royalty
-  - Soldier
+  - Priest
 patronage:
   - "Marian Fathers of the Immaculate Conception of the Most Blessed Virgin Mary"
 martyr: false

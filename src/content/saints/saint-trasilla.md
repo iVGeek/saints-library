@@ -1,7 +1,7 @@
 ---
 name: "Saint Trasilla"
 honorific: Saint
-title: "Martyr, Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Martyr"
 summary: "Sister of Saint Sylvia of Rome and Saint Emiliana. Aunt of Pope Saint Gregory the Great. Lived as a religious sister without joining any order, taking private vows. Received a vision of Pope Saint Felix III, an ancestor, who encouraged her to leave this vale of tears; she died a"
 image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg"
 searchAliases:
@@ -19,12 +19,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
 patronage:
   - "single laywomen"
 martyr: true

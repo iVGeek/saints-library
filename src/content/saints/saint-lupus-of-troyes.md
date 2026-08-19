@@ -21,9 +21,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Royalty
   - Confessor
 patronage:
   - "against demon possession"

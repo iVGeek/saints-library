@@ -18,13 +18,10 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
   - Deacon
-  - Pope
-  - Cardinal
-  - Hermit
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "Bavarian Congregation"

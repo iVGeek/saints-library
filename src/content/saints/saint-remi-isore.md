@@ -1,7 +1,7 @@
 ---
 name: "Saint Rémi Isoré"
 honorific: Venerable
-title: "Martyr, Priest, Monk, Religious, Pope, Missionary"
+title: "Missionary, Martyr"
 summary: "Eldest son in a pious family. His father taught primary school, one brother became a priest, one sister joined the Daughters of Saint Vincent de Paul. Remigious felt a call to the priesthood from an early age. Entered Saint Francis School in 1865 at age 13, and the seminary at Ca"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rémi-Isoré.jpg"
 searchAliases:
@@ -19,10 +19,6 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

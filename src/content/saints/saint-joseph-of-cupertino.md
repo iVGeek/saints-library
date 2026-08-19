@@ -1,7 +1,7 @@
 ---
 name: "Saint Joseph of Cupertino"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Confessor"
 summary: "Joseph's father, Felice Desa was a poor carpenter who died before the boy was born. Creditors drove his mother, Francesca Panara, from her home, and Joseph was born in a stable. Starting at age eight, he received ecstatic visions that left him gaping and staring into space. He ha"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A_Miracle_of_Saint_Joseph_of_Cupertino_%281603%E2%80%931663%29_MET_DP-12357-001_%28cropped%29.jpg/960px-A_Miracle_of_Saint_Joseph_of_Cupertino_%281603%E2%80%931663%29_MET_DP-12357-001_%28cropped%29.jpg"
 searchAliases:
@@ -22,12 +22,6 @@ feastDay:
   day: 18
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

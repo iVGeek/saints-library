@@ -20,11 +20,9 @@ feastDay:
   day: 12
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Soldier
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

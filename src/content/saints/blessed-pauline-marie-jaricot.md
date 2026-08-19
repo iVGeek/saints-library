@@ -18,11 +18,8 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Bishop
   - Pope
-  - Cardinal
-  - Royalty
+  - Bishop
   - Missionary
 patronage:
   - "against impoverishment"

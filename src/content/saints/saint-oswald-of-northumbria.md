@@ -19,9 +19,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
-  - Soldier
 patronage:
   - "harvesters"
   - "soldiers"

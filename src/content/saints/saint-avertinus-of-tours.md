@@ -19,9 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
   - Deacon
-  - Hermit
   - Confessor
 patronage:
   - "against migraines"

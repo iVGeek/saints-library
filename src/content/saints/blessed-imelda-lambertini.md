@@ -16,10 +16,7 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Dominican"
 patronage:
   - "first communicants (named by Pope Saint Pius X)"

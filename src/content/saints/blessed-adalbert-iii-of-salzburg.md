@@ -15,12 +15,10 @@ feastDay:
   day: 23
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Royalty
 martyr: false
 ---
 

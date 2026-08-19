@@ -16,12 +16,9 @@ feastDay:
   day: 21
 canonizationStatus: Venerable
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
   - Missionary
 religiousOrder: "Carmelite"
 patronage:

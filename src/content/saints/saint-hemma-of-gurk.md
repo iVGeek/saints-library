@@ -1,7 +1,7 @@
 ---
 name: "Saint Hemma of Gurk"
 honorific: Saint
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: " Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Retrato_de_una_dama_con_la_Orden_del_Cisne%2C_an%C3%B3nimo_alem%C3%A1n.jpg/960px-Retrato_de_una_dama_con_la_Orden_del_Cisne%2C_an%C3%B3nimo_alem%C3%A1n.jpg"
 searchAliases:
@@ -19,11 +19,7 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "against eye problems"

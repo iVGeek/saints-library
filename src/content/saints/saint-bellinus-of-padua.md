@@ -19,11 +19,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
 patronage:
   - "Adria, Italy, city of"
   - "Adria, Italy, diocese of"

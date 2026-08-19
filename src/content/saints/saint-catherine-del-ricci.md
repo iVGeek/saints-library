@@ -1,7 +1,7 @@
 ---
 name: "Saint Catherine del Ricci"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Cardinal, Royalty"
+title: "Confessor"
 summary: "Born to the patrician class. Her mother died when Catherine was an infant; she was raised by her godmother, but considered the Blessed Virgin Mary to be her true mother, and developed a great devotion to her. As a child, Catherine could speak to her guardian angel, and the angel"
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-dei-Ricci.jpg"
 searchAliases:
@@ -21,13 +21,7 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
+  - Confessor
 religiousOrder: "Dominican"
 patronage:
   - "against illness"

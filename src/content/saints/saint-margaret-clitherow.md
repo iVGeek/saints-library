@@ -1,7 +1,7 @@
 ---
 name: "Saint Margaret Clitherow"
 honorific: Saint
-title: "Martyr, Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Martyr"
 summary: "Daughter of Thomas and Jane Middleton, a candle maker and the Sheriff of York for two years. Raised Anglican. Married to John Clitherow, wealthy butcher and chamberlain of the city of York, on 8 July 1571. Converted to Catholicism around 1574. Imprisoned several times for her con"
 image: "https://upload.wikimedia.org/wikipedia/commons/6/67/St._Margaret_Clitherow_JS.jpg"
 searchAliases:
@@ -25,11 +25,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "businesswomen"

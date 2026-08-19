@@ -26,10 +26,6 @@ canonizationStatus: Saint
 vocation:
   - Martyr
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
 patronage:
   - "against eye disease"
   - "against festering wounds"

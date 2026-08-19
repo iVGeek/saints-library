@@ -1,7 +1,7 @@
 ---
 name: "Saint Adelaide of Guelders"
 honorific: Saint
-title: "Virgin, Bishop, Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Daughter of Megingoz (Megengose), Count of Guelders. Joined the Ursuline convent at Cologne, Germany. Benedictine nun. Abbess of Villich, Germany. Abbess of Our Lady of the Capitol at Cologne. Both houses had been founded by her father. She insisted that the sisters in her houses"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adelaide-of-Guelders-1.jpg"
 searchAliases:
@@ -24,12 +24,7 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Benedictine"
 patronage:
   - "against eye diseases"

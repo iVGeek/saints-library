@@ -14,11 +14,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Deacon
   - Pope
-  - Royalty
+  - Priest
+  - Deacon
 patronage:
   - "Fiano Romano, Italy"
 martyr: true

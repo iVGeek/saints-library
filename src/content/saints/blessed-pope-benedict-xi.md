@@ -18,12 +18,9 @@ feastDay:
   day: 7
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
   - Confessor
 religiousOrder: "Dominican"
 patronage:

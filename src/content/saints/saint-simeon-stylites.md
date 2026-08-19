@@ -19,10 +19,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Religious
-  - Hermit
-  - Royalty
   - Confessor
 patronage:
   - "shepherds"

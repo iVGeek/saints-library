@@ -21,11 +21,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Confessor
 religiousOrder: "Jesuit"
 martyr: true

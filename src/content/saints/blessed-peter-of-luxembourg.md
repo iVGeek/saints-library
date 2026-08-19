@@ -19,14 +19,10 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Cardinal
-  - Soldier
   - Confessor
 patronage:
   - "against fatigue"

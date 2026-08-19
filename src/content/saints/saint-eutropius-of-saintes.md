@@ -15,10 +15,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Monk
   - Pope
-  - Hermit
+  - Bishop
   - Missionary
 martyr: true
 ---

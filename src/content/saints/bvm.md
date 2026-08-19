@@ -13,14 +13,9 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Religious
-  - Deacon
   - Pope
-  - Cardinal
-  - Royalty
-  - Soldier
+  - Priest
+  - Deacon
 religiousOrder: "Franciscan"
 patronage:
   - "archdiocese of Accra, Ghana"

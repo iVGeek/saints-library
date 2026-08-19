@@ -21,11 +21,9 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Royalty
-  - Soldier
   - Missionary
 religiousOrder: "Franciscan"
 patronage:

@@ -20,11 +20,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Deacon
   - Pope
-  - Royalty
+  - Priest
+  - Deacon
   - Confessor
 religiousOrder: "Jesuit"
 martyr: true

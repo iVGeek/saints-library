@@ -1,7 +1,7 @@
 ---
 name: "Saint John of Ávila"
 honorific: Venerable
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty, Missionary, Doctor of the Church"
+title: "Missionary"
 summary: "Born to a wealthy Castilian family with Jewish ancestry. Studied law at the University of Salamanca from age 14, and felt a call to religious life. Studied theology and philosophy at Alcala, Spain at age 17. Lawyer. Following the death of his parents, he liquidated most of his la"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg/960px-Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg"
 searchAliases:
@@ -16,14 +16,7 @@ feastDay:
   day: 10
 canonizationStatus: Venerable
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "clergy in general"

@@ -19,11 +19,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Bishop
-  - Monk
   - Pope
-  - Cardinal
-  - Royalty
+  - Bishop
 religiousOrder: "Benedictine"
 patronage:
   - "Parma, Italy"

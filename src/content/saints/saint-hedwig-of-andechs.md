@@ -1,7 +1,7 @@
 ---
 name: "Saint Hedwig of Andechs"
 honorific: Saint
-title: "Priest, Monk, Religious, Pope, Royalty"
+title: "Saint"
 summary: "Daughter of Berthold IV, Duke of Merania. Aunt of Saint Elizabeth of Hungary. Married Prince Henry I the Bearded of Silesia and Poland in 1186 at age 12. Mother of seven, including Saint Gertrude of Trebnitz. Cared for the sick both personally and by founding hospitals. Widow. Up"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hedwig-of-Andechs.jpg"
 searchAliases:
@@ -24,11 +24,7 @@ feastDay:
   day: 16
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 patronage:
   - "against jealousy"
   - "brides"

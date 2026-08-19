@@ -13,12 +13,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
 religiousOrder: "Augustinian"
 patronage:
   - "England"

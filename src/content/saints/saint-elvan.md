@@ -17,11 +17,9 @@ canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/St_Germans_Church_3.jpg/960px-St_Germans_Church_3.jpg"
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Missionary
 martyr: true
 ---

@@ -20,9 +20,6 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
-  - Hermit
-  - Royalty
   - Missionary
 religiousOrder: "Benedictine"
 martyr: false

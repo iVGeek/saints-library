@@ -16,11 +16,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Soldier
+  - Priest
 patronage:
   - "Italian prison guards (proclaimed on 2 September 1948 by Pope Pius XII)"
 martyr: true

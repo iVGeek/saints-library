@@ -17,11 +17,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
-  - Soldier
+  - Priest
 religiousOrder: "Dominican"
 martyr: true
 ---

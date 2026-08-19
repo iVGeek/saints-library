@@ -20,10 +20,7 @@ feastDay:
   day: 2
 canonizationStatus: Saint
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 martyr: false
 ---

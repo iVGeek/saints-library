@@ -18,12 +18,9 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "protection of crops"

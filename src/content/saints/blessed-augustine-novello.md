@@ -21,12 +21,8 @@ feastDay:
   day: 19
 canonizationStatus: Blessed
 vocation:
-  - Bishop
-  - Monk
   - Pope
-  - Hermit
-  - Royalty
-  - Soldier
+  - Bishop
   - Confessor
 religiousOrder: "Augustinian"
 patronage:

@@ -21,11 +21,9 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 martyr: false

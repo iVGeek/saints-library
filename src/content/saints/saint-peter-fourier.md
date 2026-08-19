@@ -20,11 +20,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
 religiousOrder: "Augustinian"
 martyr: true
 ---

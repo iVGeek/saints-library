@@ -18,8 +18,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Missionary
 patronage:
   - "porters"

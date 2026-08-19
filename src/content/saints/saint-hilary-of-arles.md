@@ -21,8 +21,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Royalty
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

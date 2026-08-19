@@ -19,13 +19,10 @@ feastDay:
   day: 28
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Hermit
-  - Royalty
 patronage:
   - "basket makers"
   - "for rain"

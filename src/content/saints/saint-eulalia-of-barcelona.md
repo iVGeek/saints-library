@@ -32,11 +32,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 religiousOrder: "Jesuit"
 patronage:
   - "against drought"

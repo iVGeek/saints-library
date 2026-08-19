@@ -16,9 +16,6 @@ canonizationStatus: Blessed
 image: "https://upload.wikimedia.org/wikipedia/commons/4/48/Pedro_Nunes.png"
 vocation:
   - Martyr
-  - Monk
-  - Religious
-  - Pope
   - Missionary
 religiousOrder: "Jesuit"
 martyr: true

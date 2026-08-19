@@ -16,12 +16,10 @@ feastDay:
   day: 9
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
   - Deacon
-  - Pope
-  - Royalty
 religiousOrder: "Carmelite"
 martyr: false
 ---

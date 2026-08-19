@@ -18,11 +18,9 @@ feastDay:
   day: 5
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "Vienne, France"

@@ -21,12 +21,10 @@ feastDay:
   day: 29
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
-  - Soldier
   - Confessor
 religiousOrder: "Benedictine"
 patronage:

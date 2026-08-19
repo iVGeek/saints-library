@@ -18,12 +18,9 @@ feastDay:
   day: 28
 canonizationStatus: Venerable
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Royalty
 patronage:
   - "Sister Servants of the Most Sacred Heart of Jesus"
 martyr: false

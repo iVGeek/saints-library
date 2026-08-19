@@ -23,13 +23,9 @@ feastDay:
   day: 12
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Pope
-  - Cardinal
-  - Hermit
-  - Royalty
-  - Soldier
 religiousOrder: "Franciscan"
 martyr: false
 ---

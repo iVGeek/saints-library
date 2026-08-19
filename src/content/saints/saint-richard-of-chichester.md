@@ -23,11 +23,9 @@ feastDay:
   day: 3
 canonizationStatus: Saint
 vocation:
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

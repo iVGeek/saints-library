@@ -17,11 +17,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
 religiousOrder: "Benedictine"
 patronage:
   - "in Italy\n\nFabriano"

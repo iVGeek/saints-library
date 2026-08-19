@@ -15,11 +15,7 @@ feastDay:
   day: 15
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 martyr: false
 ---
 

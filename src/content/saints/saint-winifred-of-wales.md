@@ -25,11 +25,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 patronage:
   - "incest victims"
   - "martyrs"

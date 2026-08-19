@@ -24,8 +24,6 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
   - Confessor
 patronage:
   - "against epilepsy"

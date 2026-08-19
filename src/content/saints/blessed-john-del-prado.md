@@ -18,10 +18,8 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Missionary
 religiousOrder: "Franciscan"
 martyr: true

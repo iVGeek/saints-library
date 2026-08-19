@@ -16,10 +16,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
   - Pope
-  - Soldier
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 martyr: true

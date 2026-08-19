@@ -1,7 +1,7 @@
 ---
 name: "Saint Robert Bellarmine"
 honorific: Venerable
-title: "Bishop, Priest, Monk, Religious, Pope, Cardinal, Royalty, Doctor of the Church, Confessor"
+title: "Confessor"
 summary: "Third of ten children of Vincenzo Bellarmine and Cinzia Cervini, a family of impoverished nobles. His mother, a niece of Pope Marcellus II, was dedicated to almsgiving, prayer, meditation, fasting, and mortification. Robert suffered assorted health problems all his life. Educated"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg/960px-Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg"
 searchAliases:
@@ -20,14 +20,6 @@ feastDay:
   day: 17
 canonizationStatus: Venerable
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
-  - Doctor of the Church
   - Confessor
 religiousOrder: "Jesuit"
 patronage:

@@ -17,11 +17,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

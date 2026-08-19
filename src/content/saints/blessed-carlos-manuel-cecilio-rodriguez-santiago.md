@@ -1,7 +1,7 @@
 ---
 name: "Blessed Carlos Manuel Cecilio Rodriguez Santiago"
 honorific: Blessed
-title: "Martyr, Priest, Monk, Religious, Pope, Royalty, Soldier"
+title: "Martyr"
 summary: "Second of five children born to Manuel Baudilio Rodriguez and Herminia Santiago; theirs was a pious family as one of his sisters is a Carmelite nun, one brother a Benedictine monk, the first Puerto Rican to be an abbot. When Carlos was six years old, the family store and home wer"
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-Manuel-Cecilio-Rodriguez-Santiago.jpg"
 birthYear: 1918
@@ -17,12 +17,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
 religiousOrder: "Benedictine"
 martyr: true
 ---

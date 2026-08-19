@@ -18,12 +18,6 @@ feastDay:
 canonizationStatus: Blessed
 vocation:
   - Martyr
-  - Virgin
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
-  - Soldier
 martyr: true
 ---
 

@@ -17,11 +17,9 @@ feastDay:
   day: 17
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "in France\n\nAuvergne"

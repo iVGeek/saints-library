@@ -23,13 +23,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
-  - Royalty
-  - Soldier
   - Missionary
   - Confessor
 religiousOrder: "Jesuit"

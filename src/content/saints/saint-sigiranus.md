@@ -21,9 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
   - Confessor
 martyr: false
 ---

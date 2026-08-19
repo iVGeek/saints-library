@@ -16,12 +16,9 @@ feastDay:
   day: 1
 canonizationStatus: Blessed
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
   - Missionary
 religiousOrder: "Jesuit"
 martyr: false

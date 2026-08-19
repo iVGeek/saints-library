@@ -20,11 +20,9 @@ feastDay:
   day: 7
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "against respiratory, breathing and/or lung problems"

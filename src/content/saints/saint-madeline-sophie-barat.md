@@ -1,7 +1,7 @@
 ---
 name: "Saint Madeline Sophie Barat"
 honorific: Venerable
-title: "Priest, Monk, Religious, Pope"
+title: "Confessor"
 summary: "Daughter of Jacques Barat, a cooper who worked with the vineyards for whom he supplied barrels. Naturally bright, she was educated by her older brother Louis, a monk. As Madeline grew older, her brother feared she would be exposed to too much of the world, and so brought her to P"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Madeline-Sophie-Barat1.jpg"
 searchAliases:
@@ -18,10 +18,7 @@ feastDay:
   day: 25
 canonizationStatus: Venerable
 vocation:
-  - Priest
-  - Monk
-  - Religious
-  - Pope
+  - Confessor
 religiousOrder: "Franciscan"
 martyr: false
 ---

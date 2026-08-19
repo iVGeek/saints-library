@@ -24,10 +24,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Royalty
 martyr: true
 ---
 

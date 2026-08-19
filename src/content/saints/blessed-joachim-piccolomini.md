@@ -19,11 +19,8 @@ feastDay:
   day: 16
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 patronage:
   - "against epilepsy"

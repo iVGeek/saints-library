@@ -18,14 +18,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Cardinal
-  - Royalty
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "against intestinal problems"

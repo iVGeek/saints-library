@@ -20,12 +20,7 @@ feastDay:
   day: 9
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
   - Deacon
-  - Pope
 religiousOrder: "Franciscan"
 patronage:
   - "against plague"

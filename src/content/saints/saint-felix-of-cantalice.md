@@ -24,11 +24,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Hermit
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

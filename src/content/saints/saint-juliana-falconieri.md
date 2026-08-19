@@ -1,7 +1,7 @@
 ---
 name: "Saint Juliana Falconieri"
 honorific: Saint
-title: "Virgin, Priest, Monk, Religious, Pope, Cardinal, Royalty"
+title: "Confessor"
 summary: "Only child of a wealthy Florentine noble family of Chiarissimo and Riguirdata Falconieri. Niece of Saint Alexis Falconieri. Her father died Juliana was very young, and her uncle Alexis had a great influence on her. Given to chronic gastric problems throughout her life. Legend say"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg/960px-Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg"
 searchAliases:
@@ -18,13 +18,7 @@ feastDay:
   day: 19
 canonizationStatus: Saint
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Cardinal
-  - Royalty
+  - Confessor
 religiousOrder: "Marist"
 patronage:
   - "against sickness"

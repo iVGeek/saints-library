@@ -15,11 +15,8 @@ feastDay:
   day: 10
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Religious
   - Pope
-  - Cardinal
+  - Priest
   - Missionary
 religiousOrder: "Lazarist"
 patronage:

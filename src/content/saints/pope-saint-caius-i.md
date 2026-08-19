@@ -17,11 +17,10 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Pope
 patronage:
   - "Venice, Italy"
 martyr: true

@@ -17,11 +17,9 @@ feastDay:
 canonizationStatus: Venerable
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Religious
-  - Pope
-  - Cardinal
 religiousOrder: "Franciscan"
 patronage:
   - "Caritas Internationalis (chosen 17 May 2015)"

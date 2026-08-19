@@ -14,11 +14,7 @@ feastDay:
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Margate_lg.jpg"
 vocation:
-  - Bishop
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
+  - Confessor
 martyr: false
 ---
 

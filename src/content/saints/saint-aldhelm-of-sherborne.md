@@ -18,12 +18,9 @@ feastDay:
   day: 25
 canonizationStatus: Saint
 vocation:
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "librarians"

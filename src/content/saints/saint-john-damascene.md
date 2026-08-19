@@ -22,11 +22,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Priest
-  - Monk
   - Pope
-  - Doctor of the Church
+  - Priest
 religiousOrder: "Franciscan"
 patronage:
   - "pharmacists"

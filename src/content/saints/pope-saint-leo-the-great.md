@@ -19,12 +19,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Royalty
-  - Doctor of the Church
 religiousOrder: "Franciscan"
 patronage:
   - "choristers"

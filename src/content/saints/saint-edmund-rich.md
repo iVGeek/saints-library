@@ -1,7 +1,7 @@
 ---
 name: "Saint Edmund Rich"
 honorific: Saint
-title: "Martyr, Virgin, Bishop, Priest, Monk, Religious, Pope, Royalty, Confessor"
+title: "Martyr, Virgin"
 summary: "Born to a wealthy and pious family, the son of Reinald and Mabel Rich; his father retired to become a monk, his two sisters became nuns. Studied at Oxford, England, and Paris, France. At Oxford he received a vision of the Child Christ. Priest. Professor of art, mathematics, philo"
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Edmund-Rich.jpg"
 searchAliases:
@@ -22,13 +22,6 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Confessor
 patronage:
   - "in England\n\nAbingdon"

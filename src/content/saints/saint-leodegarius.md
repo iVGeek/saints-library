@@ -21,9 +21,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Royalty
 religiousOrder: "Benedictine"
 patronage:
   - "against blindness"

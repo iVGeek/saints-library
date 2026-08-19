@@ -21,10 +21,7 @@ feastDay:
   day: 29
 canonizationStatus: Blessed
 vocation:
-  - Monk
-  - Religious
-  - Pope
-  - Hermit
+  - Confessor
 martyr: false
 ---
 

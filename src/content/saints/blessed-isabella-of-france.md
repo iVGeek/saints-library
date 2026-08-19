@@ -1,7 +1,7 @@
 ---
 name: "Blessed Isabella of France"
 honorific: Blessed
-title: "Virgin, Priest, Monk, Religious, Pope, Royalty"
+title: "Confessor"
 summary: "Born a princess, the daughter of King Louis VIII of France and Blanche of Castile; sister of Saint Louis IX; aunt of Saint Louis of Tolouse. Declined a marriage offer from the German emperor in order to found a Poor Clare convent at Longchamps near Paris, France where she lived a"
 image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Isabella_of_France_by_Froissart.png"
 searchAliases:
@@ -17,12 +17,7 @@ feastDay:
   day: 22
 canonizationStatus: Blessed
 vocation:
-  - Virgin
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
+  - Confessor
 religiousOrder: "Franciscan"
 patronage:
   - "sick people"

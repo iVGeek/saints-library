@@ -18,12 +18,9 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
-  - Hermit
 patronage:
   - "Catanzaro, Italy, city of"
   - "Catanzaro-Squillace, Italy, archdiocese of"

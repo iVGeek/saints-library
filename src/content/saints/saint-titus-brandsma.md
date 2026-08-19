@@ -20,10 +20,8 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Priest
-  - Religious
   - Pope
-  - Royalty
+  - Priest
   - Confessor
 religiousOrder: "Franciscan"
 patronage:

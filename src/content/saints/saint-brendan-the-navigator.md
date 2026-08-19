@@ -26,11 +26,7 @@ feastDay:
 canonizationStatus: Saint
 vocation:
   - Martyr
-  - Virgin
   - Priest
-  - Monk
-  - Religious
-  - Royalty
 patronage:
   - "boatmen, mariners, sailors, watermen"
   - "navigators"

@@ -19,9 +19,7 @@ vocation:
   - Martyr
   - Bishop
   - Priest
-  - Monk
   - Deacon
-  - Soldier
 patronage:
   - "in Italy\n\nLucca, archdiocese of"
   - "Lucca, city of"

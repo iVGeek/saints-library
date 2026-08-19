@@ -14,10 +14,9 @@ canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dionysius_Of_Corinth%2C_St.png"
 vocation:
   - Martyr
+  - Pope
   - Bishop
   - Priest
-  - Monk
-  - Pope
   - Confessor
 martyr: true
 ---

@@ -19,10 +19,8 @@ feastDay:
   day: 15
 canonizationStatus: Blessed
 vocation:
-  - Priest
-  - Religious
   - Pope
-  - Royalty
+  - Priest
   - Missionary
   - Confessor
 religiousOrder: "Franciscan"

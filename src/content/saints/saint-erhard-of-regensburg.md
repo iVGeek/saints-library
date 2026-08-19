@@ -1,7 +1,7 @@
 ---
 name: "Saint Erhard of Regensburg"
 honorific: Saint
-title: "Bishop, Priest, Monk, Religious, Pope, Royalty, Missionary, Confessor"
+title: "Missionary"
 summary: "Bishop of Ardagh, Ireland. Missionary to Bavaria, Germany working mainly around modern Regensburg. Assisted the archbishop of Trier, Germany. Bishop of Regensburg. Miracle worker. Baptized Saint Odilia of Alsace, which cured her congenital blindness. After his death a group of wo"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Uta-Codex_-_Heiliger_Erhard.jpg/960px-Uta-Codex_-_Heiliger_Erhard.jpg"
 searchAliases:
@@ -30,12 +30,6 @@ feastDay:
   day: 8
 canonizationStatus: Saint
 vocation:
-  - Bishop
-  - Priest
-  - Monk
-  - Religious
-  - Pope
-  - Royalty
   - Missionary
   - Confessor
 patronage:

@@ -225,7 +225,7 @@ const personJsonLd = {
         )}
 
         <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
-          <p class="label mb-3">Century{data.centuries.length > 1 ? 's' : ''}</p>
+          <p class="label mb-3">{data.centuries.length > 1 ? 'Centuries' : 'Century'}</p>
           <p class="font-heading text-xl text-navy-900">{data.centuries.map((c) => centuryLabel(c)).join(', ')}</p>
         </div>
       </aside>

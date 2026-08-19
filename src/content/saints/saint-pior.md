@@ -8,7 +8,7 @@ died: "395 of natural causes"
 region: "England"
 feastDay:
   month: 1
-  day: 17
+  day: 1
 canonizationStatus: Saint
 vocation:
   - Monk

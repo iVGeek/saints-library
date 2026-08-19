@@ -11,8 +11,8 @@ died: "buried at Glastonbury, England"
 deathPlace: "England"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 24
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/St_Germans_Church_3.jpg/960px-St_Germans_Church_3.jpg"
 vocation:

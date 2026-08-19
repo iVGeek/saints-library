@@ -7,8 +7,8 @@ deathYear: 630
 died: "c.630 of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 16
 canonizationStatus: Saint
 vocation:
   - Priest

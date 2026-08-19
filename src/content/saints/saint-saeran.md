@@ -8,7 +8,7 @@ born: "Wales"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 13
+  day: 1
 canonizationStatus: Saint
 vocation:
   - Bishop

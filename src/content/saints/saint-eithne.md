@@ -12,8 +12,8 @@ deathYear: 433
 died: "c.433"
 region: "Ireland"
 feastDay:
-  month: 1
-  day: 11
+  month: 8
+  day: 4
 canonizationStatus: Saint
 vocation:
   - Monk

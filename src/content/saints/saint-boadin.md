@@ -6,8 +6,8 @@ summary: "Benedictine monk, taking the cowl in France. Noted for strict observan
 born: "Irish"
 region: "France"
 feastDay:
-  month: 1
-  day: 11
+  month: 6
+  day: 10
 canonizationStatus: Saint
 vocation:
   - Monk

@@ -17,7 +17,7 @@ died: "c.777 of natural causes"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 19
+  day: 1
 canonizationStatus: Saint
 vocation:
   - Priest

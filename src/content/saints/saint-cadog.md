@@ -4,8 +4,8 @@ honorific: Saint
 title: "Saint Cadog"
 summary: "Fifth-century. No other information has survived."
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 13
 canonizationStatus: Saint
 vocation:
   - Monk

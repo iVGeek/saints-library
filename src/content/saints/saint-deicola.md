@@ -22,8 +22,8 @@ birthPlace: "Ireland"
 deathPlace: "Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 18
+  month: 12
+  day: 19
 canonizationStatus: Saint
 vocation:
   - Priest

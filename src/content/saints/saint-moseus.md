@@ -8,7 +8,7 @@ died: "burned to death in 250"
 region: "England"
 feastDay:
   month: 1
-  day: 18
+  day: 1
 canonizationStatus: Saint
 vocation:
   - Monk

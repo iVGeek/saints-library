@@ -13,8 +13,8 @@ searchAliases:
   - "Britte"
 region: "England"
 feastDay:
-  month: 1
-  day: 15
+  month: 6
+  day: 1
 canonizationStatus: Saint
 vocation:
   - Monk

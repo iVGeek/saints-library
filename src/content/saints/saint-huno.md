@@ -10,8 +10,8 @@ died: "c.690 near Chatteris, England"
 deathPlace: "England"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 9
 canonizationStatus: Saint
 vocation:
   - Priest

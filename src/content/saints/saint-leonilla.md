@@ -8,7 +8,7 @@ deathPlace: "France"
 region: "France"
 feastDay:
   month: 1
-  day: 17
+  day: 28
 canonizationStatus: Saint
 vocation:
   - Priest

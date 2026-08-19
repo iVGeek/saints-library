@@ -8,7 +8,7 @@ born: "c.1792 in Kiên Trung, Nam Ðinh, Vietnam"
 died: "12 June 1839 in Thua Thiên, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 13

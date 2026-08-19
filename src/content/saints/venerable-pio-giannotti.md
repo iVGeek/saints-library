@@ -12,7 +12,7 @@ born: "5 November 1898 in Bozzano, Massarosa, Lucca, Italy"
 died: "31 May 1997 in Recife, Pernambuco, Brazil from a stroke"
 birthPlace: "Massarosa, Lucca, Italy"
 deathPlace: "Pernambuco, Brazila stroke"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 10
   day: 30

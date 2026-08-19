@@ -12,7 +12,7 @@ born: "at Vienne, Dauphiny, Gaul (modern France)"
 died: "beheaded near Briounde, Gaul (in modern France)"
 birthPlace: "Dauphiny, Gaul (modern France)"
 deathPlace: "Gaul (modern France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 28

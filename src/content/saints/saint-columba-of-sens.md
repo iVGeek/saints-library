@@ -8,7 +8,7 @@ deathYear: 273
 born: "c.257 in Spain"
 died: "beheaded in 273 at Sens, France near a fountain named d'Azon"
 deathPlace: "France near a fountanamed d'Azon"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 31

@@ -12,7 +12,7 @@ born: "21 August 1881 in Ostrava (a.k.a. Witkowice), Ostravský kraj, Poland (in
 died: "tortured to death on 2 October 1942 in Ivano-Frankivs’k (a.k.a. Stanislawów), Ukraine"
 birthPlace: "Ostravský kraj, Poland (the modern Czech Republic)"
 deathPlace: "Ukraine"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 2

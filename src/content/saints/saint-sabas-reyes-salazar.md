@@ -11,7 +11,7 @@ born: "5 December 1883 in Cocula, Jalisco, Mexico"
 died: "shot at 9pm on 13 April 1927 in a cemetery outside Tototlan, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 4
   day: 13

@@ -9,7 +9,7 @@ born: "11 November 1606 in Langres, Haute-Marne, France"
 died: "18 June 1673 in Montreal, Québec, Canada of natural causes"
 birthPlace: "Haute-Marne, France"
 deathPlace: "Québec, Canadanatural causes"
-region: "France"
+region: "Canada"
 feastDay:
   month: 1
   day: 1

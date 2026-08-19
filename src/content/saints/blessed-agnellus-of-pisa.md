@@ -11,7 +11,7 @@ born: "c.1195 in Pisa, Italy"
 died: "7 May 1236 at Oxford, England of dysentery"
 birthPlace: "Italy"
 deathPlace: "Englanddysentery"
-region: "Italy"
+region: "England"
 feastDay:
   month: 3
   day: 13

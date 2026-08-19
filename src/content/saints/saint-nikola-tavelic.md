@@ -12,7 +12,7 @@ deathYear: 1391
 born: "c.1340 in Šibenik, Šibensko-Kninska, Croatia"
 died: "burned alive on 14 November 1391 near the Jaffa Gate in Jerusalem"
 birthPlace: "Šibensko-Kninska, Croatia"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 14

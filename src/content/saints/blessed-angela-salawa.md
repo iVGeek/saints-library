@@ -11,7 +11,7 @@ born: "9 September 1881 in Siepraw, Malopolskie, Poland"
 died: "12 March 1922 in Kraków, Malopolskie, Poland of natural causes"
 birthPlace: "Malopolskie, Poland"
 deathPlace: "Malopolskie, Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 3
   day: 12

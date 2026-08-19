@@ -7,7 +7,7 @@ searchAliases:
   - "Antoninus of Apamea"
 died: "4th century in Apamea, Syria"
 deathPlace: "Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 9
   day: 2

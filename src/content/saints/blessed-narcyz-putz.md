@@ -11,7 +11,7 @@ born: "28 October 1877 in Sieraków, Wielkopolskie, Poland"
 died: "5 December 1942 in the Dachau concentration camp, Oberbayern, Germany from disease and general abuse"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germanydisease and general abuse"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 5

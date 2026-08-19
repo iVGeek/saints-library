@@ -12,7 +12,7 @@ born: "28 January 1923 in Mansué, Treviso, Italy"
 died: "shot at point blank range on 14 June 1980 in the church of San Juan Bautista in San Juan Nonualco, Zacatecoluca, El Salvador"
 birthPlace: "Treviso, Italy"
 deathPlace: "Zacatecoluca, El Salvador"
-region: "Italy"
+region: "China"
 feastDay:
   month: 6
   day: 14

@@ -11,7 +11,7 @@ born: "18 April 1867 in Lezáun, Pamplona, Spain"
 died: "8 September 1936 in Barcelona, Spain"
 birthPlace: "Pamplona, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 8

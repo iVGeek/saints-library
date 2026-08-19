@@ -12,7 +12,7 @@ born: "c.1126 in Cologne, Germany"
 died: "9 February 1184 in Želiv, Czech Republic"
 birthPlace: "Germany"
 deathPlace: "Czech Republic"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 2
   day: 9

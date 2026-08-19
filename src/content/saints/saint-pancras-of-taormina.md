@@ -12,7 +12,7 @@ born: "Antioch, Cilicia (modern Adana, Turkey)"
 died: "stoned to death in Taormina, Sicily"
 birthPlace: "Cilicia (modern Adana, Turkey)"
 deathPlace: "Sicily"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 8

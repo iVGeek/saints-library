@@ -9,7 +9,7 @@ born: "29 October 1832 at Nobol, Guayas, Ecuador"
 died: "8 December 1869 at Lima, Peru of natural causes"
 birthPlace: "Guayas, Ecuador"
 deathPlace: "Perunatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 12
   day: 8

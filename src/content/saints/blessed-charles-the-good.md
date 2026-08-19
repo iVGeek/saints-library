@@ -11,7 +11,7 @@ deathYear: 1127
 born: "1083"
 died: "beheaded on 2 March 1127 at Bruges, Belgium"
 deathPlace: "Belgium"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 3
   day: 2

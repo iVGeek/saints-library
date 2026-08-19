@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1620
 died: "covered in flammable material and set on fire on 17 March 1620 at Olomouc, Moravia (in the modern Czech Republic)"
 deathPlace: "Moravia (the modern Czech Republic)"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 17

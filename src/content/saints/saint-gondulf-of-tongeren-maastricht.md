@@ -22,7 +22,7 @@ born: "c.524 in Maastricht, Netherlands"
 died: "early 7th century at Maastricht, Netherlands of natural causes"
 birthPlace: "Netherlands"
 deathPlace: "Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 16

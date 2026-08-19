@@ -11,7 +11,7 @@ born: "c.1590 in Omi, Japan"
 died: "beheaded on 1 June 1617 on a rock near Omura, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 6
   day: 1

@@ -5,7 +5,7 @@ summary: "Summoned by authorities to answer a charge of Christianity in the pers
 deathYear: 249
 died: "scourged, dragged through the city by a camel and burned to death in 249 at Alexandria, Egypt"
 deathPlace: "dragged through the city by a camel and burned to death249 at Alexandria, Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 27

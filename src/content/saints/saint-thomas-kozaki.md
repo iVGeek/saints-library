@@ -12,7 +12,7 @@ born: "c.1582 at Ise, Japan"
 died: "crucified on 5 February 1597 at Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

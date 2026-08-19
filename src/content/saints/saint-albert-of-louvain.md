@@ -14,7 +14,7 @@ deathYear: 1192
 born: "c.1166 in Brabant (in modern Belgium)"
 died: "stabbed on 21 November 1192 on the road outside Rheims, France"
 deathPlace: "France"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 11
   day: 24

@@ -7,7 +7,7 @@ born: "Achonry district of Connaught, Ireland"
 died: "c.657 in the monastery in Derenish, County Laois, Ireland of natural causes"
 birthPlace: "Ireland"
 deathPlace: "County Laois, Irelandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 12
   day: 24

@@ -9,7 +9,7 @@ born: "4 August 1886 in Kowal, Kujawsko-Pomorskie, Poland"
 died: "29 March 1942 in the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 29

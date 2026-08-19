@@ -11,7 +11,7 @@ born: "Irenopolis, Isaurian Decapolis"
 died: "c.835 on the prison island of Aphousia (modern Avsa, Balikesir, Turkey) of natural causes"
 birthPlace: "Isaurian Decapolis"
 deathPlace: "Balikesir, Turkey)natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 27

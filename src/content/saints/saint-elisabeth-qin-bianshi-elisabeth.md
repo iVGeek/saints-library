@@ -11,7 +11,7 @@ born: "c.1846 in Nanpeiluo, Renqiu, Hebei, China"
 died: "19 July 1900 in Liucun, Renqiu, Hebei, China"
 birthPlace: "Renqiu, Hebei, China"
 deathPlace: "Renqiu, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 19

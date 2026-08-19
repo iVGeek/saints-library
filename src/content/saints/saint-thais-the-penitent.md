@@ -8,7 +8,7 @@ searchAliases:
   - "Thaisia"
 deathYear: 348
 died: "c.348 in Egypt of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 10
   day: 8

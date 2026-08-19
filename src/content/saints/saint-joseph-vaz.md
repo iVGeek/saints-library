@@ -12,7 +12,7 @@ born: "21 April 1651 at Benaulim, Salcette, Goa, India"
 died: "late night 17 January 1711 at Kandy, Sri Lanka of natural causes"
 birthPlace: "Salcette, Goa, India"
 deathPlace: "Sri Lankanatural causes"
-region: "Portugal"
+region: "India"
 feastDay:
   month: 1
   day: 16

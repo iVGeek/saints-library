@@ -12,7 +12,7 @@ born: "8 August 1921 in Szigliget, Veszprém, Hungary"
 died: "shot on 23 March 1945 in Litér, Veszprém, Hungary"
 birthPlace: "Veszprém, Hungary"
 deathPlace: "Veszprém, Hungary"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 3
   day: 23

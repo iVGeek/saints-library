@@ -7,7 +7,7 @@ searchAliases:
   - "Acathius"
 deathYear: 421
 died: "c.421 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 9

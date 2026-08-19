@@ -9,7 +9,7 @@ born: "24 January 1896 in Shkodrë, Albania"
 died: "24 January 1947 in Shelqet, Shkodrë, Albania"
 birthPlace: "Albania"
 deathPlace: "Shkodrë, Albania"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 24

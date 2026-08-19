@@ -12,7 +12,7 @@ born: "19 February 1833 in Myllendonk Castle, Mönchengladbach, Düsseldorf, Ger
 died: "25 December 1907 in Rome, Italy of natural causes"
 birthPlace: "Mönchengladbach, Düsseldorf, Germany"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 12
   day: 25

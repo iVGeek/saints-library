@@ -12,7 +12,7 @@ birthYear: 1331
 deathYear: 1381
 born: "1331 in Sweden"
 died: "24 March 1381 of natural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 3
   day: 24

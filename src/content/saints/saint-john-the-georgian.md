@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1002
 born: "at Georgia near the Black Sea"
 died: "c.1002 at Mount Athos"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 12

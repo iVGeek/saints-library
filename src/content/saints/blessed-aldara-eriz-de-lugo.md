@@ -12,7 +12,7 @@ deathYear: 941
 born: "c.880 in Portomarín, Lugo, Galicia (in modern Spain)"
 died: "20 December 941 of natural causes"
 birthPlace: "Lugo, Galicia (modern Spain)"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 12
   day: 20

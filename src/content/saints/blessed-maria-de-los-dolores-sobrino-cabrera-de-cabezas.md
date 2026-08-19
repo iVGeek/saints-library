@@ -8,7 +8,7 @@ born: "19 April 1868 in Constanina, Sevilla, Spain"
 died: "shot on 23 July 1936 in the parish church in Constanina, Sevilla, Spain"
 birthPlace: "Sevilla, Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 23

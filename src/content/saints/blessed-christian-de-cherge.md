@@ -12,7 +12,7 @@ born: "18 January 1937 in Colmar, Haut-Rhin, France"
 died: "21 May 1996 near Médéa, Algeria"
 birthPlace: "Haut-Rhin, France"
 deathPlace: "Algeria"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 21

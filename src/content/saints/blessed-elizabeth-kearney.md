@@ -6,7 +6,7 @@ deathYear: 1647
 born: "Irish"
 died: "13 September 1647 in Cashel, Tipperary, Ireland"
 deathPlace: "Tipperary, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 9
   day: 13

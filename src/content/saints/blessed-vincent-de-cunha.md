@@ -5,7 +5,7 @@ summary: "Jesuit. Missionary to the kingdom of Tonkin (modern Vietnam). Arrested
 deathYear: 1737
 born: "Portuguese"
 died: "beheaded in 1737 in Tonkin (modern Vietnam)"
-region: "Portugal"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 12

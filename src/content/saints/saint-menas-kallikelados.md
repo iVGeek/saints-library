@@ -25,7 +25,7 @@ deathYear: 300
 born: "Egyptian"
 died: "beheaded c.300 at Cotyaes, Phrygia"
 deathPlace: "Phrygia"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 11
   day: 11

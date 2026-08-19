@@ -8,7 +8,7 @@ deathYear: 864
 born: "Cordoba, Spain"
 died: "boiled in lead in 864"
 birthPlace: "Spain"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 10
   day: 19

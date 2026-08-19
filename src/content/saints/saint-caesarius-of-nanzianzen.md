@@ -7,7 +7,7 @@ birthYear: 329
 deathYear: 369
 born: "c.329 in Arianzus"
 died: "c.369 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 25

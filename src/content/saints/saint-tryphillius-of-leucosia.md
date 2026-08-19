@@ -11,7 +11,7 @@ deathYear: 370
 born: "Rome, Italy"
 died: "370 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 6
   day: 13

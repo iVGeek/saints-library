@@ -11,7 +11,7 @@ born: "30 April 1772 at Joinville, Val-de-Marne, France"
 died: "30 October 1858 at Tournai, Hainaut, Belgium of natural causes"
 birthPlace: "Val-de-Marne, France"
 deathPlace: "Hainaut, Belgiumnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 1

@@ -17,7 +17,7 @@ born: "c.1428 in Sizun, Brittany, France"
 died: "8 September 1475 in Zwolle, Netherlands of natural causes"
 birthPlace: "Brittany, France"
 deathPlace: "Netherlandsnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 9
   day: 8

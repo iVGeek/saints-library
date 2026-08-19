@@ -9,7 +9,7 @@ born: "1565 at Stoke Edith, Herefordshire, England"
 died: "hanged, drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England"
 birthPlace: "Herefordshire, England"
 deathPlace: "drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 7
   day: 26

@@ -9,7 +9,7 @@ born: "23 November 1872 in Azanuy, Huesca, Spain"
 died: "shot on 29 July 1936 in Puente de San José, Valencia, Spain"
 birthPlace: "Huesca, Spain"
 deathPlace: "Valencia, Spain"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 7
   day: 29

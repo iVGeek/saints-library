@@ -12,7 +12,7 @@ born: "19 February 1885 in Saludes, León, Spain"
 died: "14 August 1936 in Jove, Asturias, Spain"
 birthPlace: "León, Spain"
 deathPlace: "Asturias, Spain"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 8
   day: 14

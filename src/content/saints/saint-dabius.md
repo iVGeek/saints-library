@@ -6,7 +6,7 @@ searchAliases:
   - "Bavins"
   - "Davius"
 born: "Irish"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 7
   day: 22

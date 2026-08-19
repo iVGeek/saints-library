@@ -11,7 +11,7 @@ born: "5 December 1593 at Mühlhausen, Unstrut-Hainich, Thuringia, Germany"
 died: "beaten to death with swords and firearms on 9 December 1631 on the River Main, Schonungen, Schweinfurt, Germany"
 birthPlace: "Unstrut-Hainich, Thuringia, Germany"
 deathPlace: "Schonungen, Schweinfurt, Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 12
   day: 9

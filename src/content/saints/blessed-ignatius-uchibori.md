@@ -8,7 +8,7 @@ born: "c.1622 in Fukae, Nagasaki, Japan"
 died: "21 February 1627 in Shimabara, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 21

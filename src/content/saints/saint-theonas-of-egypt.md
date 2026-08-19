@@ -5,7 +5,7 @@ summary: "Monk at Theibaid, Egypt and el-Bahnasa, Egypt."
 image: "http://catholicsaints.info/wp-content/uploads/img-saint-theonas-of-egypt.jpg"
 deathYear: 395
 died: "395"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 4

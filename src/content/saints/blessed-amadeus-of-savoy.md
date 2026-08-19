@@ -12,7 +12,7 @@ born: "1 February 1435 in Thonon-les-Bains, France"
 died: "30 March 1472 at Vercelli, Italy of natural causes"
 birthPlace: "France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 30

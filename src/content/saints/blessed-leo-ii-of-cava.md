@@ -7,7 +7,7 @@ deathYear: 1295
 born: "1239"
 died: "19 August 1295 at the Cava dei Tirreni monastery in Campania, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 19

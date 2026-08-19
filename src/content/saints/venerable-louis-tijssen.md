@@ -8,7 +8,7 @@ born: "2 November 1865 in Wessem, Limburg, Netherlands"
 died: "20 February 1929 in Sittard, Limburg, Netherlands"
 birthPlace: "Limburg, Netherlands"
 deathPlace: "Limburg, Netherlands"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 1
   day: 1

@@ -12,7 +12,7 @@ born: "20 February 1890 in Caudete, Albacete, Spain"
 died: "shot on 2 October 1936 in Rotglá i Corbera, Játiva, Valencia, Spain"
 birthPlace: "Albacete, Spain"
 deathPlace: "Játiva, Valencia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 1

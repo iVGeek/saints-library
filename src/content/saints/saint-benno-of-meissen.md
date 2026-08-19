@@ -12,7 +12,7 @@ deathYear: 1106
 born: "1010 at Hildesheim, Germany"
 died: "16 June 1106 of natural causes"
 birthPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 16

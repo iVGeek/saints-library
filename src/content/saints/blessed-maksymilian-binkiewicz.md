@@ -11,7 +11,7 @@ born: "21 February 1908 in Zarnowiec, Slaskie, Poland"
 died: "died from torture on 24 June 1942 in the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Slaskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 24

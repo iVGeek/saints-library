@@ -9,7 +9,7 @@ born: "27 August 1720 in Salomino, Duchy of Milan (in modern Italy)"
 died: "9 Febuary 1788 in Tronzano, Ducky of Milan, Italy of natural causes"
 birthPlace: "DuchyMilan (in modern Italy)"
 deathPlace: "DuckyMilan, Italy of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 21

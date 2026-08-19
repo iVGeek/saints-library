@@ -9,7 +9,7 @@ born: "at Trondhjem, Norway"
 died: "8 January 1285 at the Cistercian monastery at TerDoest, near Bruges, Belgium of natural causes"
 birthPlace: "Norway"
 deathPlace: "near Bruges, Belgiumnatural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 8

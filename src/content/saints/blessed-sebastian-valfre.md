@@ -11,7 +11,7 @@ born: "9 March 1629 in Verduno, Duchy of Savoy (in modern Italy"
 died: "30 January 1711 in Turin, Duchy of Savoy (in modern Italy of natural causes"
 birthPlace: "DuchySavoy (in modern Italy"
 deathPlace: "DuchySavoy (in modern Italy of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 30

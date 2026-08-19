@@ -11,7 +11,7 @@ born: "5 July 1901 in La Seu d'Urgell, Alt Urgell, Lleida, Spain"
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "Alt Urgell, Lleida, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 13

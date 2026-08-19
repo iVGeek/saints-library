@@ -12,7 +12,7 @@ born: "3 July 1899 in Dwikozy, Swietokrzyskie, Poland"
 died: "starved to death on 9 May 1941 in the camp hospital of Dachau, Oberbayern, Germany"
 birthPlace: "Swietokrzyskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 9

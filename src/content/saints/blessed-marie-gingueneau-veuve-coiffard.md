@@ -7,7 +7,7 @@ deathYear: 1794
 born: "c.1739 in France"
 died: "16 April 1794 in Avrillé, Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

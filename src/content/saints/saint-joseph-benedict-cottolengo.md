@@ -13,7 +13,7 @@ born: "3 May 1786 at Bra, Cuneo, Piedmont region, Italy"
 died: "30 April 1842 of typhus at Chieri, Turin, Italy"
 birthPlace: "Cuneo, Piedmont region, Italy"
 deathPlace: "Turin, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 30

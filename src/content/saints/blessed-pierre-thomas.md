@@ -8,7 +8,7 @@ born: "13 December 1729 in Mesnil-Rainfray, Manche, France"
 died: "21 January 1794 in Laval, Mayenne, France"
 birthPlace: "Manche, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 21

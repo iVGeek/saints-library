@@ -15,7 +15,7 @@ born: "14 November 1745 in Boulogne-ser-Mer, Pas-de-Calais, France as Nicholas"
 died: "2 September 1792 at the garden of the Hôtel des Carmes Carmelite convent at Paris, France"
 birthPlace: "Pas-de-Calais, France as Nicholas"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 2

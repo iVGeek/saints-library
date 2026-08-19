@@ -11,7 +11,7 @@ born: "1222 in Provence, France"
 died: "25 June 1291 at the Benedictine abbey of Amesbury, England of natural causes"
 birthPlace: "France"
 deathPlace: "Englandnatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 2
   day: 21

@@ -12,7 +12,7 @@ born: "30 October 1940 in Leno, Brescia, Italy"
 died: "16 June 1996 in the San Francesco Clinic in Bergamo, Italy of uterine cancer"
 birthPlace: "Brescia, Italy"
 deathPlace: "Italyuterine cancer"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 18

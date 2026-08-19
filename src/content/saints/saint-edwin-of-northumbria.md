@@ -16,7 +16,7 @@ born: "585 at Deira, South Northumbria, England"
 died: "633 in battle with pagan Welsh and Mercians at Hatfield Chase, England"
 birthPlace: "South Northumbria, England"
 deathPlace: "England"
-region: "France"
+region: "England"
 feastDay:
   month: 10
   day: 12

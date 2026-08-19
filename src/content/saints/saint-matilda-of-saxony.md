@@ -16,7 +16,7 @@ born: "c.895 at Engern, Westphalia, Germany"
 died: "14 March 968 at Quedlinburg, Germany of natural causes"
 birthPlace: "Westphalia, Germany"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 3
   day: 14

@@ -5,7 +5,7 @@ summary: "Mercedarian lay brother at the convent of the Holy Spirit in Lima, Per
 deathYear: 1721
 died: "1721 in Lima, Peru of natural causes"
 deathPlace: "Perunatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 7
   day: 17

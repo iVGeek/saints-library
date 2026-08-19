@@ -16,7 +16,7 @@ deathYear: 774
 born: "717 at Brabant, Belgium"
 died: "774 of natural causes"
 birthPlace: "Belgium"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 10
   day: 11

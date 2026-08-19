@@ -9,7 +9,7 @@ born: "6 January 1868 in Samborzec, Poland"
 died: "tortured to death on 1 October 1942 at the Dachau concentration camp, Bavaria, Germany"
 birthPlace: "Poland"
 deathPlace: "Bavaria, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 10
   day: 1

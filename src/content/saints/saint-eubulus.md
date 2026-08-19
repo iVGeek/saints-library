@@ -5,7 +5,7 @@ summary: "Travelled from Batanaea to Caesarea in Palestine to visit and minister
 image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg"
 deathYear: 308
 died: "7 March 308"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 7

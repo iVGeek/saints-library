@@ -13,7 +13,7 @@ searchAliases:
 born: "5th century in County Sligo, Ireland"
 died: "6th century in Ireland of natural causes"
 birthPlace: "Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 8
   day: 11

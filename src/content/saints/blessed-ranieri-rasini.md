@@ -18,7 +18,7 @@ born: "c.1250 in Sansepolcro, Umbria, Italy"
 died: "1 November 1304 in Sansepolcro, Umbria, Italy of natural causes"
 birthPlace: "Umbria, Italy"
 deathPlace: "Umbria, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 1

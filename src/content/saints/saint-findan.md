@@ -11,7 +11,7 @@ born: "Leinster, Ireland"
 died: "879 at the Rheinau Abbey, Rheinau, Switzerland of natural causes"
 birthPlace: "Ireland"
 deathPlace: "Rheinau, Switzerlandnatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 11
   day: 15

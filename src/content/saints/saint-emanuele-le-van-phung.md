@@ -11,7 +11,7 @@ born: "c.1796 in Ðau Nuoc, Cù Lao Giêng, Vietnam"
 died: "beheaded on 13 July 1859 in Châu Ðoc, An Giang, Vietnam"
 birthPlace: "Cù Lao Giêng, Vietnam"
 deathPlace: "An Giang, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 13

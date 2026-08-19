@@ -12,7 +12,7 @@ born: "c.1837 in Chentuncun, Jiaohe, Hebei, China"
 died: "beaten to death on 30 June 1900 in Chentuncun, Jiaohe, Hebei, China"
 birthPlace: "Jiaohe, Hebei, China"
 deathPlace: "Jiaohe, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 30

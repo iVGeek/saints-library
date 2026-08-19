@@ -11,7 +11,7 @@ born: "14 October 1845 at Yarumal, diocese of Antioqu&iacute;a, Colombia"
 died: "13 July 1926 at Angostura, Antioquia, Colombia of severe urinary system infections"
 birthPlace: "dioceseAntioqu&iacute;a, Colombia"
 deathPlace: "Antioquia, Colombiasevere urinary system infections"
-region: "Italy"
+region: "Colombia"
 feastDay:
   month: 7
   day: 13

@@ -9,7 +9,7 @@ born: "20 November 1788 in Havana, Cuba"
 died: "25 February 1853 in Saint Augustine, Florida"
 birthPlace: "Cuba"
 deathPlace: "Florida"
-region: "France"
+region: "Caribbean"
 feastDay:
   month: 12
   day: 21

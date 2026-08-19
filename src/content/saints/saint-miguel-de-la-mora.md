@@ -11,7 +11,7 @@ born: "19 June 1874 at Tecalitl&aacute;n, Jalisco, Mexico"
 died: "shot by firing squad around noon on 7 August 1927 at Cardonna, Colima, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Colima, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 8
   day: 7

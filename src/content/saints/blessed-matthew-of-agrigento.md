@@ -12,7 +12,7 @@ born: "1377 on the Via Arco di San Francesco di Paola in Rabbato, Agrigento, Ita
 died: "7 January 1450 in the Franciscan monastery of Santa Maria di Gesù, Palermo, Sicily (in modern Italy) of natural causes"
 birthPlace: "Agrigento, Italy"
 deathPlace: "Palermo, Sicily (modern Italy) of natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 7

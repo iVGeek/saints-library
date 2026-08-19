@@ -7,7 +7,7 @@ deathYear: 460
 born: "in Decom, Provence (modern Châteauredon, France)"
 died: "460 of natural causes"
 birthPlace: "Provence (modern Châteauredon, France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 27

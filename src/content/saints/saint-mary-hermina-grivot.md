@@ -14,7 +14,7 @@ born: "28 April 1866 in Beaune, France"
 died: "beheaded on 9 July 1900 at Taiyuanfu, China"
 birthPlace: "France"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 9

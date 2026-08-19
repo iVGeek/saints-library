@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Married to Saint Paul of Damascus; mother of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death in a persecution by Roman authorities."
 died: "tortured to death in Damascus, Syria, date unknown"
 deathPlace: "Syria, date unknown"
-region: "England"
+region: "Syria"
 feastDay:
   month: 1
   day: 1

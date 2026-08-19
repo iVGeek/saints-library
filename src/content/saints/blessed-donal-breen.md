@@ -6,7 +6,7 @@ deathYear: 1655
 born: "Irish"
 died: "14 April 1655 in Wexford, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 4
   day: 14

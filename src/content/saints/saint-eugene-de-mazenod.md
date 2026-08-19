@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1861
 died: "21 May 1861 at Marseille, France of cancer"
 deathPlace: "Francecancer"
-region: "Italy"
+region: "Canada"
 feastDay:
   month: 5
   day: 21

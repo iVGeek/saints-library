@@ -14,7 +14,7 @@ born: "9 September 1814 in Niederbronn-les-Baines, Bas-Rhin, France during the B
 died: "31 July 1867 in Niederbronn-les-Baines, Bas-Rhin, France during the Second French Empire of natural causes"
 birthPlace: "Bas-Rhin, France during the Bourbon Restoration"
 deathPlace: "Bas-Rhin, France during the Second French Empirenatural causes"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 7
   day: 31

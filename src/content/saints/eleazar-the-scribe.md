@@ -5,7 +5,7 @@ summary: "An elderly scribe in the Hellenistic period who was ordered to eat por
 image: "https://catholicsaints.info/wp-content/uploads/img-Eleazar-the-Scribe.jpg"
 died: "2nd century BC in Antioch, Syria"
 deathPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 1

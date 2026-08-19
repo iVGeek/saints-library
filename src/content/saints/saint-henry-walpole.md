@@ -9,7 +9,7 @@ born: "1558 at Docking, Norfolk, England"
 died: "hanged, drawn, and quartered on 7 April 1595 at York, England"
 birthPlace: "Norfolk, England"
 deathPlace: "drawn, and quartered on 7 April 1595 at York, England"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 4
   day: 7

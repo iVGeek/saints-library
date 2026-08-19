@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Parthenius-of-La
 searchAliases:
   - "Partenius"
   - "Patendo"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 7

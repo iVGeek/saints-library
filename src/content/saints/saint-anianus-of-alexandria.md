@@ -7,7 +7,7 @@ searchAliases:
   - "Anian"
   - "Annianus"
 died: "c.86"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 25

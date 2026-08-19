@@ -13,7 +13,7 @@ born: "27 November 1765 at Sancy-le-Long, diocese of Besan&ccedil;on, France"
 died: "24 August 1826 at Naples, Italy of natural causes"
 birthPlace: "dioceseBesan&ccedil;on, France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 24

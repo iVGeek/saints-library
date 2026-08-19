@@ -9,7 +9,7 @@ born: "c.1539 in Covilhã, Castelo Branco, Portugal"
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "Castelo Branco, Portugal"
 deathPlace: "Canary Islands"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 15

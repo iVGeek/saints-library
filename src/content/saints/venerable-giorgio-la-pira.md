@@ -11,7 +11,7 @@ born: "9 January 1904 in Pozzallo, Sicily, Italy"
 died: "5 November 1977 in Florence, Italy of natural causes"
 birthPlace: "Sicily, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 1

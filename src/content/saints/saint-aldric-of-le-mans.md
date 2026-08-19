@@ -13,7 +13,7 @@ deathYear: 857
 born: "21 June 800"
 died: "24 March 857 at Le Mans, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 1
   day: 7

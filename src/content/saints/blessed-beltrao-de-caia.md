@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1242
 died: "1242 outside Tavira, Faro, Portugal"
 deathPlace: "Faro, Portugal"
-region: "Portugal"
+region: "Chile"
 feastDay:
   month: 6
   day: 11

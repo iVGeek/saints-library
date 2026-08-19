@@ -5,7 +5,7 @@ summary: "Patriarch of Antioch. Exiled by the Emperor Anastasius supporting the 
 deathYear: 512
 died: "512 at Petra, Arabia"
 deathPlace: "Arabia"
-region: "Syria"
+region: "Turkey"
 feastDay:
   month: 7
   day: 4

@@ -17,7 +17,7 @@ deathYear: 827
 born: "c.752"
 died: "2 January 827 at Corbie Abbey, Picardy, France following a brief illness"
 deathPlace: "Picardy, France following a brief illness"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 2

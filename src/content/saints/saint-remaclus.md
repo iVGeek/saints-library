@@ -16,7 +16,7 @@ born: "early 7th century Aquitaine, France"
 died: "c.663 at Stavelot Abbey, Belgium of natural causes"
 birthPlace: "France"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 9
   day: 3

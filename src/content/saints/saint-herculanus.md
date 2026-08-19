@@ -8,7 +8,7 @@ searchAliases:
   - "Herculan"
 deathYear: 549
 died: "beheaded 549 by Ostro-Gothic soldiers"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 11
   day: 7

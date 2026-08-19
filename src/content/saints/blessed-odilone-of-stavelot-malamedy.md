@@ -8,7 +8,7 @@ searchAliases:
   - "Odilo…"
 deathYear: 954
 died: "3 October 954 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 3

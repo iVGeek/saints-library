@@ -12,7 +12,7 @@ born: "3 January 1912 in Zdzary, Mazowieckie, Poland"
 died: "gassed on 12 August 1942 in the death chambers of Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Mazowieckie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 12

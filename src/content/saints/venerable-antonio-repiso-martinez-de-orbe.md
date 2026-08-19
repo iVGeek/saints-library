@@ -11,7 +11,7 @@ born: "8 February 1856 in Venta de Córdoba, Estado de México, Mexico"
 died: "27 July 1929 in Mexico City, Mexico of extensive skin cancer"
 birthPlace: "Estado de México, Mexico"
 deathPlace: "Mexicoextensive skin cancer"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 3
   day: 20

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Twelfth century bishop of Liège, Belgium. Known for repressing simony, nepotism, and the usurpation of Church authority by German imperial authorities."
 deathYear: 1172
 died: "1172 of natural causes"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 5
   day: 27

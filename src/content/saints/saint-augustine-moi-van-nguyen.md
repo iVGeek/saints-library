@@ -10,7 +10,7 @@ deathYear: 1839
 born: "c.1806 in Phú Trang, Nam Ðinh, Vietnamese"
 died: "strangled in 1839"
 birthPlace: "Nam Ðinh, Vietnamese"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 19

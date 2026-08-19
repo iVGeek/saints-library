@@ -6,7 +6,7 @@ searchAliases:
   - "Anastasius the Elder"
 deathYear: 599
 died: "599"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 21

@@ -20,7 +20,7 @@ born: "1295 at Montpellier, France"
 died: "1327 at Montpellier or Angleria, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 16

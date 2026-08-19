@@ -9,7 +9,7 @@ born: "8 May 1895 in El Paso, Illinois"
 died: "9 December 1979 in New York, New York of heart disease"
 birthPlace: "Illinois"
 deathPlace: "New Yorkheart disease"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 9
   day: 20

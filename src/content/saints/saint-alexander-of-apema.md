@@ -6,7 +6,7 @@ deathYear: 172
 born: "in Eumenes, Phrygia"
 died: "c.172"
 birthPlace: "Phrygia"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 10

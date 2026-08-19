@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 206
 died: "boiled slowly to death in pitch c.206 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 28

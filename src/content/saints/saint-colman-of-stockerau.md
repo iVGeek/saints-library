@@ -14,7 +14,7 @@ born: "in the British Isles, exact location undetermined"
 died: "hanged in October 1012 at Stockerau, Austria"
 birthPlace: "exact location undetermined"
 deathPlace: "Austria"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 17

@@ -12,7 +12,7 @@ born: "1400 or 1409 (records vary) in Chiari, Brescia, Italy as Cozzando"
 died: "1503 or 1510 in Pesaro, Italy of natural causes"
 birthPlace: "Brescia, Italy as Cozzando"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 21

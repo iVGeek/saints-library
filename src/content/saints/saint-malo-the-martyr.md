@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 287
 died: "c.287 at Aaunum, an area of modern Switzerland"
 deathPlace: "an areamodern Switzerland"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 10
   day: 10

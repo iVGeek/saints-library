@@ -11,7 +11,7 @@ born: "c.1764 in Can Phán, Nam Ðinh, Vietnam"
 died: "starved to death on 27 June 1840 in prison in Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 27

@@ -11,7 +11,7 @@ born: "c.350 at Caesarea, Palestine"
 died: "c.398 at Athens, Greece"
 birthPlace: "Palestine"
 deathPlace: "Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 2
   day: 13

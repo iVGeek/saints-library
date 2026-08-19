@@ -9,7 +9,7 @@ born: "18 July 1923 in Córdoba, Argentina"
 died: "beaten to death in the road 4 August 1976 at Punta de los Llanos, Sañogasta, Chilecito, La Rioja, Argentina"
 birthPlace: "Argentina"
 deathPlace: "Sañogasta, Chilecito, La Rioja, Argentina"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 8
   day: 4

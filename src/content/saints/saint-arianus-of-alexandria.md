@@ -6,7 +6,7 @@ searchAliases:
   - "Ariannus"
   - "Arrianus"
 died: "drowned at sea"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 8

@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 307
 died: "c.307 at Gerona, Catalonia, Spain"
 deathPlace: "Catalonia, Spain"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 29

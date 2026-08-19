@@ -7,7 +7,7 @@ searchAliases:
   - "Simeon"
 deathYear: 106
 died: "crucified in 106"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 2
   day: 18

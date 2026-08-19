@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1252
 died: "1 January 1252 at Jablonné, Ceská Lípa, Liberecký kraj (modern Czech Republic) of natural causes"
 deathPlace: "Ceská Lípa, Liberecký kraj (modern Czech Republic)natural causes"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 1

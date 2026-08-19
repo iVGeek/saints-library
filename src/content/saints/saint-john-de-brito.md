@@ -14,7 +14,7 @@ born: "1 March 1647 at Lisbon, Portugal"
 died: "dismembered and beheaded 4 February 1693 at Oreiour, India"
 birthPlace: "Portugal"
 deathPlace: "India"
-region: "Portugal"
+region: "Brazil"
 feastDay:
   month: 2
   day: 4

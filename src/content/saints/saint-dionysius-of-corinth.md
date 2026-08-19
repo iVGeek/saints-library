@@ -5,7 +5,7 @@ summary: "Second century bishop of Corinth, Greece. Some of his correspondence, 
 searchAliases:
   - "Denis"
   - "Dionigi"
-region: "England"
+region: "Greece"
 feastDay:
   month: 4
   day: 8

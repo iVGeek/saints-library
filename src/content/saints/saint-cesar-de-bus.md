@@ -13,7 +13,7 @@ born: "3 February 1544 in Cavillon, Vaucluse, France"
 died: "Easter Sunday, 15 April 1607 in Avignon, Vaucluse, France of natural causes"
 birthPlace: "Vaucluse, France"
 deathPlace: "15 April 1607Avignon, Vaucluse, France of natural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 4
   day: 15

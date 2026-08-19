@@ -9,7 +9,7 @@ born: "21 August 1881 in Lleida, Spain"
 died: "7 October 1957 in Granada, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 11
   day: 27

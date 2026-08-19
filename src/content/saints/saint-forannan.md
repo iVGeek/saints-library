@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Forannan.jpg"
 deathYear: 982
 born: "Ireland"
 died: "982 of natural causes"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 4
   day: 30

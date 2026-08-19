@@ -12,7 +12,7 @@ born: "c.1843 in Hoàng Xá, Bac Ninh, Vietnam"
 died: "beheaded on 1 June 1862 in Hoàng Xá, Bac Ninh, Vietnam"
 birthPlace: "Bac Ninh, Vietnam"
 deathPlace: "Bac Ninh, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 1

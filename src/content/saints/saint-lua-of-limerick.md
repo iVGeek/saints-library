@@ -11,7 +11,7 @@ deathYear: 609
 born: "554 in Limerick, Ireland"
 died: "c.609"
 birthPlace: "Ireland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 8
   day: 4

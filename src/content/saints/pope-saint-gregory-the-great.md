@@ -15,7 +15,7 @@ born: "c.540 at Rome, Italy"
 died: "12 March 604 at Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 3

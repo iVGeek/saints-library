@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1239
 died: "1239 in Magdeburg, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 11
   day: 24

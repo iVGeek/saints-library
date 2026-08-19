@@ -9,7 +9,7 @@ born: "c.1891 in Weixian, Hebei, China"
 died: "beheaded on 22 July 1900 in Machiazhuang, Weixian, Hebei, China"
 birthPlace: "Hebei, China"
 deathPlace: "Weixian, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 22

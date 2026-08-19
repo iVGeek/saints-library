@@ -13,7 +13,7 @@ birthYear: 685
 deathYear: 746
 born: "685 in France"
 died: "25 April 746 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 27

@@ -10,7 +10,7 @@ deathYear: 1857
 born: "26 October 1818 at Santa Eulalia, Spain"
 died: "martyred on 20 July 1857 in Viet Nam"
 birthPlace: "Spain"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 7
   day: 20

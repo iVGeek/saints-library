@@ -12,7 +12,7 @@ born: "10 January 1889 at Arcos de Santa María Nº 41 (Augusto Figueroa), Madri
 died: "6 July 1943 in the Rivadavia Hospital, Buenos Aires, Argentina of complications from pneumonia and tuberculosis"
 birthPlace: "Madrid, Spain"
 deathPlace: "Buenos Aires, Argentinacomplications from pneumonia and tuberculosis"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 7
   day: 6

@@ -12,7 +12,7 @@ born: "23 January 1876 in Stuttgart, Germany"
 died: "1 November 1945 in the church of Saint Michael in Munich, Bavaria, Germany of a stroke  while preaching during morning Mass"
 birthPlace: "Germany"
 deathPlace: "Bavaria, Germanya stroke  while preaching during morning Mass"
-region: "France"
+region: "Poland"
 feastDay:
   month: 11
   day: 1

@@ -9,7 +9,7 @@ born: "12 April 1827 in Campanha, Minas Gerais, Brazil"
 died: "23 September 1905 in Três Pontas, Minas Gerais, Brazil"
 birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Minas Gerais, Brazil"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 9
   day: 23

@@ -10,7 +10,7 @@ born: "Northumbria, England"
 died: "torn limb from limb c.695 at Aplerbeck, Westphalia\nbody thrown into the River Rhine, but they were miraculously moved 40 miles upstream to a place where friends were camping, and then were recovered"
 birthPlace: "England"
 deathPlace: "Westphalia\nbody thrown into the River Rhine, but they were miraculously moved 40 miles upstream to a place where friends were camping, and then were recovered"
-region: "Germany"
+region: "Ireland"
 feastDay:
   month: 10
   day: 3

@@ -7,7 +7,7 @@ birthYear: 1085
 deathYear: 1015
 born: "c.1085 BC at Bethlehem"
 died: "c.1015 BC at Jerusalem"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 29

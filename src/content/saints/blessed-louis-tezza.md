@@ -13,7 +13,7 @@ born: "1 November 1841 at Conegliano, Italy"
 died: "23 September 1923 at Lima, Peru"
 birthPlace: "Italy"
 deathPlace: "Peru"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 9
   day: 26

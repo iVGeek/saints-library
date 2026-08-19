@@ -15,7 +15,7 @@ born: "c.656 at Maastricht, Netherlands"
 died: "30 May 727 at Fura (modern Tervueren), Brabant, Belgium of natural causes"
 birthPlace: "Netherlands"
 deathPlace: "Brabant, Belgiumnatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 11
   day: 3

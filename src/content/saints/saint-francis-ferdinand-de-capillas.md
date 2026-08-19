@@ -9,7 +9,7 @@ born: "11 August 1607 in Baquerín de Campos, Palencia, Old Castile, Spain"
 died: "beheaded on 15 January 1648 in Fu'an, Fujian, China"
 birthPlace: "Palencia, Old Castile, Spain"
 deathPlace: "Fujian, China"
-region: "France"
+region: "China"
 feastDay:
   month: 1
   day: 15

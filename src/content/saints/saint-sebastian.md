@@ -7,7 +7,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Sebastian_
 imageAlt: Portrait of Saint Sebastian
 imageCredit: Wikimedia Commons
 birthPlace: "Rome"
-region: Rome
+region: "Italy"
 centuries: [16]
 feastDay:
   month: 1

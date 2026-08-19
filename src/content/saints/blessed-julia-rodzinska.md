@@ -16,7 +16,7 @@ born: "16 March 1899 in Nawojowa, Malopolskie, Poland"
 died: "20 February 1945 in a Nazi prison camp in Sztutowo (a.k.a. Stutthof), Pomorskie, occupied Poland of typhus"
 birthPlace: "Malopolskie, Poland"
 deathPlace: "Pomorskie, occupied Polandtyphus"
-region: "France"
+region: "Poland"
 feastDay:
   month: 2
   day: 20

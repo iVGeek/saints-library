@@ -10,7 +10,7 @@ born: "1578 at Prades, Tarragona, Spain"
 died: "beheaded on 16 August 1618 in Kyoto, Japan"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 8
   day: 16

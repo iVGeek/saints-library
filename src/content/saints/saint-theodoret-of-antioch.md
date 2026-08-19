@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 362
 died: "beheaded in 362 in Antioch, Syria (modern Antakya, Turkey)"
 deathPlace: "Syria (modern Antakya, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 23

@@ -11,7 +11,7 @@ born: "14 May 1872 in Villaverla, Vicenza, Italy"
 died: "22 December 1961 in Florence, Italy of a respiratory disorder"
 birthPlace: "Vicenza, Italy"
 deathPlace: "Italya respiratory disorder"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 25

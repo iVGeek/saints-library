@@ -11,7 +11,7 @@ deathYear: 743
 born: "at Orleans, France"
 died: "20 February 743 at the monastery of Sint-Tuiden in Belgium of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 20

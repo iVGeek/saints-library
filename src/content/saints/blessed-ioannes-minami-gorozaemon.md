@@ -8,7 +8,7 @@ born: "c.1568 in Yamato, Kagoshima, Japan"
 died: "8 December 1603 in Kumamoto, Japan"
 birthPlace: "Kagoshima, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 12
   day: 8

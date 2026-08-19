@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1260
 died: "1260 at Sandomierz, Poland"
 deathPlace: "Poland"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 6
   day: 2

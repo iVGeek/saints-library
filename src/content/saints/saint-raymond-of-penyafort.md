@@ -17,7 +17,7 @@ born: "1175 at Peñafort, Catalonia, Spain"
 died: "6 January 1275 at Barcelona, Spain of natural causes"
 birthPlace: "Catalonia, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 7

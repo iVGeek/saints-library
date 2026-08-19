@@ -8,7 +8,7 @@ born: "18 March 1931 in Margillac de Étables, Ardèche, France"
 died: "18 July 1976 in Chamical, La Rioja, Argentina"
 birthPlace: "Ardèche, France"
 deathPlace: "La Rioja, Argentina"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 7
   day: 18

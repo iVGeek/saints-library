@@ -11,7 +11,7 @@ born: "13 April 1888 in Rogliano, Cosenza, Italy"
 died: "31 December 1969 in Montalto Uffugo, Cosenza, Italy of natural causes"
 birthPlace: "Cosenza, Italy"
 deathPlace: "Cosenza, Italynatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 7
   day: 14

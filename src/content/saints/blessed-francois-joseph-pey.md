@@ -9,7 +9,7 @@ born: "1759 in Solliès-Pont, Var, France"
 died: "stabbed with sabers and beaten with shovels at 11:30pm on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France"
 birthPlace: "Var, France"
 deathPlace: "Paris, France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 9
   day: 2

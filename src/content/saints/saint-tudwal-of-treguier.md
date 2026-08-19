@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 564
 born: "6th century Welsh"
 died: "c.564"
-region: "France"
+region: "Spain"
 feastDay:
   month: 11
   day: 30

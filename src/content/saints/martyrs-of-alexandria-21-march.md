@@ -5,7 +5,7 @@ summary: "A large but unknown number of Catholics massacred in several churches 
 deathYear: 342
 died: "Good Friday 342 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 3
   day: 21

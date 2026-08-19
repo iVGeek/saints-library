@@ -13,7 +13,7 @@ born: "c.796 in Edinburgh, Scotland"
 died: "26 January 840 in Bühl, Klettgau, Bavaria (in modern Baden-Württemberg, Germany)"
 birthPlace: "Scotland"
 deathPlace: "Klettgau, Bavaria (modern Baden-Württemberg, Germany)"
-region: "France"
+region: "Germany"
 feastDay:
   month: 1
   day: 26

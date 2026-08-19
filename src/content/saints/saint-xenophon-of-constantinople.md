@@ -7,7 +7,7 @@ searchAliases:
   - "Csenofonte"
   - "Senofonte"
 died: "5th century Jerusalem"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 26

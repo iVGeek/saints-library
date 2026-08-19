@@ -14,7 +14,7 @@ born: "9 August 1845 Mont-Saint-Gregoire, Monteregie Region near Montreal, Quebe
 died: "6 January 1937 of 'gastric catarrh' in the infirmary of Our Lady of Hope convent, Saint-Laurent, Montreal, Quebec, Canada"
 birthPlace: "Monteregie Region near Montreal, Quebec, Canada as Alfred Bessette"
 deathPlace: "Saint-Laurent, Montreal, Quebec, Canada"
-region: "Italy"
+region: "Canada"
 feastDay:
   month: 1
   day: 6

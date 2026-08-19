@@ -10,7 +10,7 @@ deathYear: 250
 born: "Egyptian"
 died: "impaled on a sharp pole c.250 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 1

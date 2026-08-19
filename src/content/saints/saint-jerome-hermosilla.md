@@ -12,7 +12,7 @@ born: "30 September 1800 at Santo Domingo de la Calzada, Old Castile, Spain"
 died: "tortured and beheaded on 1 November 1861 Hai Duong, Vietnam"
 birthPlace: "Old Castile, Spain"
 deathPlace: "Vietnam"
-region: "Italy"
+region: "Philippines"
 feastDay:
   month: 11
   day: 1

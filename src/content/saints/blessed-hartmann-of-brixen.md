@@ -12,7 +12,7 @@ deathYear: 1164
 born: "c.1090 at Oberpolling, Bavaria, Germany"
 died: "1164 of natural causes"
 birthPlace: "Bavaria, Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 23

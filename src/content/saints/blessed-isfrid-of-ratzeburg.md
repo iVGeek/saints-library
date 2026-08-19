@@ -11,7 +11,7 @@ deathYear: 1204
 born: "c.1115 in Germany"
 died: "15 June 1204 at Ratzeburg, Holstein, Germany of natural causes"
 deathPlace: "Holstein, Germanynatural causes"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 6
   day: 15

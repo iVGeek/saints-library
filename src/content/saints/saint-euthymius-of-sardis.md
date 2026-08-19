@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 840
 born: "mid-8th century"
 died: "scourged to death c.840"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 11

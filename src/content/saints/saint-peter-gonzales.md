@@ -17,7 +17,7 @@ born: "1190 at Astorga, Spain"
 died: "15 April 1246 at Saintiago de Compostela, Tui, Spain"
 birthPlace: "Spain"
 deathPlace: "Tui, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 4
   day: 14

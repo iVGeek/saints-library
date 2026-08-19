@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 510
 born: "5th century Scotland"
 died: "510 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 11
   day: 9

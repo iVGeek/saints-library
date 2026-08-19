@@ -6,7 +6,7 @@ searchAliases:
   - "Edaene"
   - "Etaoin"
 born: "Irish"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 7
   day: 5

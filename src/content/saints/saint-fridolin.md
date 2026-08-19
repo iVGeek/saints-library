@@ -13,7 +13,7 @@ deathYear: 540
 born: "Irish"
 died: "c.540 at Säckingen, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 6

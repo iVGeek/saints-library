@@ -11,7 +11,7 @@ born: "16 April 1900 in Santa Ana de Guadalupe, Jalostotitlán parish, San Juan 
 died: "shot in the back around 5am on Saturday 25 February 1928 in his rectory in Agua Caliente, Jalisco, Mexico"
 birthPlace: "Jalostotitlán parish, San Juan de los Lagos diocese, Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 2
   day: 25

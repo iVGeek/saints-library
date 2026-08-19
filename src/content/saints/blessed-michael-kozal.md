@@ -11,7 +11,7 @@ born: "27 September 1893 at Ligota, Wielkopolskie, Poland"
 died: "martyred on 26 January 1943 in the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 1
   day: 26

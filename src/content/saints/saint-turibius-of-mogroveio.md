@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 1606
 died: "23 May 1606 at Santa, Peru of natural causes"
 deathPlace: "Perunatural causes"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 3
   day: 23

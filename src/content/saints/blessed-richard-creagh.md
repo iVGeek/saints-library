@@ -8,7 +8,7 @@ born: "1523 in Limerick, Ireland"
 died: "possibly poisoned (evidence inconclusive) on 14 October 1586 in the Tower of London, England"
 birthPlace: "Ireland"
 deathPlace: "England"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 10
   day: 14

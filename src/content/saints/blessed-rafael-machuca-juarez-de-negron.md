@@ -8,7 +8,7 @@ born: "30 April 1881 in Estepa, Sevilla, Spain"
 died: "31 August 1936 in Málaga, Spain"
 birthPlace: "Sevilla, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 31

@@ -15,7 +15,7 @@ born: "6 February 1347 at Groß Montau, Prussia, one of the states of the Teuton
 died: "25 January 1394 at Marienwerder, Kwidzyn, Prussia (in modern Poland) of natural causes"
 birthPlace: "Prussia, onethe states of the Teutonic Knights (modern Matowy Wielkie, Poland)"
 deathPlace: "Kwidzyn, Prussia (modern Poland) of natural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 6
   day: 25

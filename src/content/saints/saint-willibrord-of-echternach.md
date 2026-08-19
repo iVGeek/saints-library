@@ -14,7 +14,7 @@ deathYear: 739
 born: "658 at Northumbria, England"
 died: "7 November 739 of natural causes in one of the monasteries he founded"
 birthPlace: "England"
-region: "Ireland"
+region: "Netherlands"
 feastDay:
   month: 11
   day: 7

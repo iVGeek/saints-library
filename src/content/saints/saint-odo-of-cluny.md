@@ -11,7 +11,7 @@ born: "c.879 at Le Mans, France"
 died: "18 November 942 in Tours, France of natural causes while travelling to Rome, Italy"
 birthPlace: "France"
 deathPlace: "Francenatural causes while travelling to Rome, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 18

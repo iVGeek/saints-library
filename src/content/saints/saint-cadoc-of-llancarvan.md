@@ -18,7 +18,7 @@ deathYear: 580
 born: "6th century Welsh"
 died: "killed by Saxons c.580 while serving at Mass near Weedon, Northamptonshire, England"
 deathPlace: "Northamptonshire, England"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 9
   day: 21

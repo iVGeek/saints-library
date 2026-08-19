@@ -14,7 +14,7 @@ born: 1st century BC
 died: c. 1st century AD
 birthPlace: Nazareth, Holy Land
 deathPlace: Nazareth, Holy Land
-region: Holy Land
+region: "Egypt"
 centuries: [1]
 feastDay:
   month: 3

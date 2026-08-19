@@ -6,7 +6,7 @@ searchAliases:
   - "Agatho of Egypt"
   - "Agathon…"
   - "Agatone…"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 10
   day: 21

@@ -8,7 +8,7 @@ born: "1729 in La Forge, Chalais, diocese of Limoges, Dordogne, France"
 died: "2 September 1792 at the Hôtel des Carmes, Paris, France"
 birthPlace: "Chalais, dioceseLimoges, Dordogne, France"
 deathPlace: "Paris, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 2

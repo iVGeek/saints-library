@@ -9,7 +9,7 @@ born: "10 October 1945 in San Carlos Minas, Córdoba, Argentina"
 died: "shot on 18 July 1976 in Chamical, La Rioja, Argentina"
 birthPlace: "Córdoba, Argentina"
 deathPlace: "La Rioja, Argentina"
-region: "England"
+region: "Argentina"
 feastDay:
   month: 7
   day: 18

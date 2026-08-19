@@ -16,7 +16,7 @@ deathYear: 1250
 born: "c.1216"
 died: "beheaded on 10 August 1250 in a boat just off shore near Gottorf Castle in Schlei (in modern Schleswig-Holstein, Germany)"
 deathPlace: "Germany)"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 8
   day: 10

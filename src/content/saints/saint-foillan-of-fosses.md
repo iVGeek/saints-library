@@ -15,7 +15,7 @@ deathYear: 655
 born: "7th century Ireland"
 died: "murdered 31 October 655 in the forest near Nivelles, Belgium"
 deathPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 16

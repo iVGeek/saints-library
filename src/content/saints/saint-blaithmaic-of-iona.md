@@ -10,7 +10,7 @@ deathYear: 823
 born: "Ireland"
 died: "823 on the altar steps at Iona Abbey, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 15

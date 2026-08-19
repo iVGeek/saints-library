@@ -7,7 +7,7 @@ searchAliases:
   - "Hilarus"
   - "Hilarius"
 born: "on Sardinia"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 2
   day: 28

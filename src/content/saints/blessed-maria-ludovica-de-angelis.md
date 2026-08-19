@@ -11,7 +11,7 @@ born: "24 October 1880 at San Gregorio, Italy as Antonina"
 died: "25 February 1962 at La Plata, Argentina of abdominal cancer"
 birthPlace: "Italy as Antonina"
 deathPlace: "Argentinaabdominal cancer"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 2
   day: 25

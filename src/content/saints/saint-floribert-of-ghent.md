@@ -8,7 +8,7 @@ searchAliases:
   - "Florbertus"
 deathYear: 660
 died: "c.660"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 11
   day: 1

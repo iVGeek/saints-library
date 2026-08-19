@@ -11,7 +11,7 @@ born: "15 June 1876 in Samarate, Varese, Italy"
 died: "19 May 1924 in Tucunduba, Pará, Brazil of complications from leprosy"
 birthPlace: "Varese, Italy"
 deathPlace: "Pará, Brazilcomplications from leprosy"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 6
   day: 23

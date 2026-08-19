@@ -9,7 +9,7 @@ born: "20 December 1909 in Le Loroux, Ille-et-Vilaine, France"
 died: "shot in the head while driving on Saturday 5 July 1969 on the road near Hat I-Et, Bolikhamxay, Laos"
 birthPlace: "Ille-et-Vilaine, France"
 deathPlace: "Bolikhamxay, Laos"
-region: "France"
+region: "Japan"
 feastDay:
   month: 7
   day: 5

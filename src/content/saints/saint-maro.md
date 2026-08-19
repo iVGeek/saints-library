@@ -12,7 +12,7 @@ birthYear: 350
 deathYear: 433
 born: "350 in Syria"
 died: "433 of natural causes"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 2
   day: 9

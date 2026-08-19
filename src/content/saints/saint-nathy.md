@@ -17,7 +17,7 @@ searchAliases:
   - "Nateus"
 born: "at Luighne, Sligo, Ireland"
 birthPlace: "Sligo, Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 8
   day: 9

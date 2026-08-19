@@ -11,7 +11,7 @@ born: "c.1587 in Kibe, Oita, Japan"
 died: "run through with a spear on 4 July 1639 in Tokyo, Japan"
 birthPlace: "Oita, Japan"
 deathPlace: "Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 7
   day: 4

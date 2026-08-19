@@ -7,7 +7,7 @@ searchAliases:
   - "Macario"
 died: "in Valdesaz, Guadalajara, diocese of Toledo, Spain of natural causes"
 deathPlace: "Guadalajara, dioceseToledo, Spain of natural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 1
   day: 15

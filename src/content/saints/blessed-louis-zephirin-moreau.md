@@ -9,7 +9,7 @@ born: "1 April 1824 in B&eacute;cancour, Quebec, Canada"
 died: "24 May 1901 in Saint-Hyacinthe, Quebec, Canada"
 birthPlace: "Quebec, Canada"
 deathPlace: "Quebec, Canada"
-region: "England"
+region: "Canada"
 feastDay:
   month: 5
   day: 24

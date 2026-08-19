@@ -11,7 +11,7 @@ born: "749 in Alvimare, diocese of Rouen, Seine-Maritime, Gaul (in modern France
 died: "12 July 811 at Fontenelle, France of natural causes"
 birthPlace: "dioceseRouen, Seine-Maritime, Gaul (in modern France)"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 12

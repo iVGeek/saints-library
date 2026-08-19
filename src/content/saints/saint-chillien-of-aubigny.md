@@ -10,7 +10,7 @@ searchAliases:
 born: "Ireland"
 died: "in the 7th century in Artois, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 13

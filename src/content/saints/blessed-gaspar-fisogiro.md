@@ -9,7 +9,7 @@ deathYear: 1617
 born: "Japan"
 died: "1 October 1617 at Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 1

@@ -9,7 +9,7 @@ born: "22 May 1974 in Volta Redonda, Rio de Janeiro, Brazil"
 died: "in a surfing accident on 1 May 2009 at Recreio dos Bandeirantes beach in Rio de Janeiro, Brazil"
 birthPlace: "Rio de Janeiro, Brazil"
 deathPlace: "Brazil"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

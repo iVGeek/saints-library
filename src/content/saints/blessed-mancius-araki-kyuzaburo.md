@@ -10,7 +10,7 @@ born: "c.1590 in Kuchinotsu, Japan"
 died: "8 July 1626 in Shimabara, Japan of tuberculosis"
 birthPlace: "Japan"
 deathPlace: "Japantuberculosis"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 8

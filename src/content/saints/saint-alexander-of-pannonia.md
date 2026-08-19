@@ -2,7 +2,7 @@
 name: "Saint Alexander of Pannonia"
 honorific: Saint
 summary: "Third-century imperial Roman soldier and Christian stationed in Hungary. Martyred in the persecutions of Emperor Maximian Herculeus."
-region: "England"
+region: "Hungary"
 feastDay:
   month: 3
   day: 27

@@ -12,7 +12,7 @@ born: "1808 in Hardine, Batrun, Ash Shamal, Lebanon"
 died: "14 December 1858 in Kfifan, Batrun, Ash Shamal, Lebanon"
 birthPlace: "Batrun, Ash Shamal, Lebanon"
 deathPlace: "Batrun, Ash Shamal, Lebanon"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 12
   day: 14

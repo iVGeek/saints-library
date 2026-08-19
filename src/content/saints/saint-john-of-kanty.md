@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 1473
 died: "24 December 1473 at Cracow, Poland, of natural causes"
 deathPlace: "Poland,natural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 12
   day: 23

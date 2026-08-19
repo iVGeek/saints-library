@@ -8,7 +8,7 @@ born: "c.1568 at Woodside, England"
 died: "hanged on 19 August 1598 at Carlisle, England"
 birthPlace: "England"
 deathPlace: "England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 3
   day: 31

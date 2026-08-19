@@ -8,7 +8,7 @@ birthYear: 1544
 deathYear: 1614
 born: "1544 in the Netherlands"
 died: "31 May 1614 of natural causes"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 5
   day: 31

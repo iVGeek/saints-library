@@ -9,7 +9,7 @@ born: "14 September 1904 in Tenczyn, Lubien, Myslenice, Poland"
 died: "shot twice in the early morning hours of 12 May 1946 near Ploki, Trzebinia, Chrzanów, Poland"
 birthPlace: "Lubien, Myslenice, Poland"
 deathPlace: "Trzebinia, Chrzanów, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 12

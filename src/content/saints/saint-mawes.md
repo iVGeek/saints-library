@@ -19,7 +19,7 @@ searchAliases:
   - "Modez"
 born: "Wales"
 died: "6th century of natural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 11
   day: 18

@@ -23,7 +23,7 @@ born: "16 September 1844 at Sezanne, France as Leonia Aviat"
 died: "10 January 1914 at Perugia, Italy of natural causes"
 birthPlace: "France as Leonia Aviat"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 9
   day: 17

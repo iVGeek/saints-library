@@ -7,7 +7,7 @@ deathYear: 1737
 born: "1708 at Arouca, Portugal"
 died: "beheaded in 1737 in Tonkin (modern Vietnam)"
 birthPlace: "Portugal"
-region: "Portugal"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 12

@@ -8,7 +8,7 @@ born: "10 November 1727 in Loiron, Mayenne, France"
 died: "21 January 1794 in Laval, Mayenne, France"
 birthPlace: "Mayenne, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 21

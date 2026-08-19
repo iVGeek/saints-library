@@ -8,7 +8,7 @@ searchAliases:
   - "Barbasceminus"
 deathYear: 346
 died: "beheaded in 346 in Persia"
-region: "England"
+region: "Greece"
 feastDay:
   month: 1
   day: 14

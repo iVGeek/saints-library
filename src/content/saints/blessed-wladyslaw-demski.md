@@ -12,7 +12,7 @@ born: "5 August 1884 in Sztum, Pomorskie, Poland"
 died: "tortured to death on 28 May 1940 in the concentration camp at Sachsenhausen-Oranienburg, Oberhavel, Germany"
 birthPlace: "Pomorskie, Poland"
 deathPlace: "Oberhavel, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 28

@@ -11,7 +11,7 @@ born: "20 August 1911 in Neumünster, Schleswig–Holstein, Germany"
 died: "guillotined on 10 November 1943 in Hamburg, Germany"
 birthPlace: "Schleswig–Holstein, Germany"
 deathPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 10

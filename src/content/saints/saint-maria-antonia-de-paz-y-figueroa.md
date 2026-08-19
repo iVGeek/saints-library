@@ -13,7 +13,7 @@ born: "1730 in Silípica, Santiago del Estero, Argentina"
 died: "6 – 7 March 1799 in the retreat house in Buenos Aires, Argentina of natural causes"
 birthPlace: "Santiago del Estero, Argentina"
 deathPlace: "Argentinanatural causes"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 3
   day: 7

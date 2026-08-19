@@ -9,7 +9,7 @@ birthYear: 350
 deathYear: 412
 born: "c.350"
 died: "c.412"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 11

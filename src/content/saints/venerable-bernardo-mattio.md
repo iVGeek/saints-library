@@ -9,7 +9,7 @@ born: "2 January 1845 in Saluzzo, Cuneo, Italy"
 died: "Holy Saturday 11 April 1914 in Dronero, Cuneo, Italy of natural causes"
 birthPlace: "Cuneo, Italy"
 deathPlace: "Cuneo, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

@@ -9,7 +9,7 @@ born: "6 September 1892 in Murguía, Álava, Spain"
 died: "shot on 6 December 1936 in Guadalajara, Spain"
 birthPlace: "Álava, Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 12
   day: 6

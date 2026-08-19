@@ -15,7 +15,7 @@ searchAliases:
   - "Fer-da-Liethe"
 deathYear: 840
 died: "c.840 in Ireland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 4
   day: 6

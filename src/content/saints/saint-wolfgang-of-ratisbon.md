@@ -12,7 +12,7 @@ born: "924 in Swabia, Germany"
 died: "31 October 994 at Pupping, Linz (modern Austria) of natural causes"
 birthPlace: "Germany"
 deathPlace: "Linz (modern Austria)natural causes"
-region: "Germany"
+region: "Hungary"
 feastDay:
   month: 10
   day: 31

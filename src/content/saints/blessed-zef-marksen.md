@@ -11,7 +11,7 @@ born: "5 August 1906 in Worringen, Cologne, Germany"
 died: "shot on 16 November 1946 in the high security prison in Tiranë, Albania"
 birthPlace: "Cologne, Germany"
 deathPlace: "Albania"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 11
   day: 16

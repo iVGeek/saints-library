@@ -8,7 +8,7 @@ searchAliases:
   - "Jerome Lou-Tin-Mei"
   - "Lu Tingmei Hieronymus"
   - "Yeilou"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 28

@@ -9,7 +9,7 @@ born: "14 April 1853 in Milan, Italy"
 died: "6 February 1913 in Rivolta d'Adda, Cremona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Cremona, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 6

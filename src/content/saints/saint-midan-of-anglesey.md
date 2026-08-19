@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 610
 born: "Welsh"
 died: "c.610 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 9
   day: 30

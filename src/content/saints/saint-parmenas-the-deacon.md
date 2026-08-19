@@ -6,7 +6,7 @@ searchAliases:
   - "Parmena"
 died: "98 in Philippi, Macedonia"
 deathPlace: "Macedonia"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 28

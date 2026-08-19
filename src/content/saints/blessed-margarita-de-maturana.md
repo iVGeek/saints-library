@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 1934
 died: "12:15 am on 23 July 1934 at Donostia-San Sebastian, Berriz, Vizcaya, Spain of stomach cancer"
 deathPlace: "Berriz, Vizcaya, Spaof stomach cancer"
-region: "Spain"
+region: "China"
 feastDay:
   month: 7
   day: 23

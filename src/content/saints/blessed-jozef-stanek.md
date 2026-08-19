@@ -9,7 +9,7 @@ born: "4 December 1916 in Lapsze Nizne, Poland"
 died: "hanged on 23 September 1944 in a ruined factory in the Solec district of Czerniaków, Poland"
 birthPlace: "Poland"
 deathPlace: "Poland"
-region: "Ireland"
+region: "Poland"
 feastDay:
   month: 9
   day: 23

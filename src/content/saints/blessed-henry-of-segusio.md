@@ -9,7 +9,7 @@ born: "Susa, Italy"
 died: "25 October 1271 in Lyons, France of natural causes"
 birthPlace: "Italy"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 25

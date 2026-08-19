@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 767
 born: "Ireland"
 died: "767"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 2

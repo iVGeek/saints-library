@@ -13,7 +13,7 @@ born: "1433 in Bologna, Papal States (in modern Italy)"
 died: "9 November 1485 in Bologna, Papal States (in modern Italy) of natural causes"
 birthPlace: "Papal States (modern Italy)"
 deathPlace: "Papal States (modern Italy) of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 9

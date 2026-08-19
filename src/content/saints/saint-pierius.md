@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 309
 died: "309 – 310 in Rome, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 11
   day: 4

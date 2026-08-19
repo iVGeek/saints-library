@@ -9,7 +9,7 @@ born: "12 April 1908 in Concepción, Archdiocese of Medellin, Antioquia, Colombi
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "ArchdioceseMedellin, Antioquia, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

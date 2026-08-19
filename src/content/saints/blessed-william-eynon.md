@@ -9,7 +9,7 @@ deathYear: 1539
 born: "English"
 died: "hanged on 15 November 1539 at the entrance of the abbey in Reading, Berkshire, England"
 deathPlace: "Berkshire, England"
-region: "France"
+region: "England"
 feastDay:
   month: 11
   day: 15

@@ -16,7 +16,7 @@ searchAliases:
 deathYear: 900
 died: "murdered on 17 June 900 near Compiègne, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 17

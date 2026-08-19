@@ -17,7 +17,7 @@ born: "1556 at York, England as Margaret Middleton"
 died: "pressed to death on Good Friday, 25 March 1586 at York, England"
 birthPlace: "England as Margaret Middleton"
 deathPlace: "25 March 1586 at York, England"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 3
   day: 25

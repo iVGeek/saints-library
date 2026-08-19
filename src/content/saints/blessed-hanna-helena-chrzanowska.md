@@ -9,7 +9,7 @@ born: "7 October 1902 in Warsaw, Poland"
 died: "29 April 1973 in Kraków, Poland of cancer"
 birthPlace: "Poland"
 deathPlace: "Polandcancer"
-region: "France"
+region: "Poland"
 feastDay:
   month: 4
   day: 29

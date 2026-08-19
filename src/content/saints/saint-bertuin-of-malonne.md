@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 698
 born: "England"
 died: "c.698"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 11
   day: 11

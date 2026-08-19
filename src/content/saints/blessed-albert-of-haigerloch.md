@@ -12,7 +12,7 @@ born: "1239 in Haigerloch, Hohenzollern (Germany)"
 died: "26 November 1311 at Oberaltaich, Bavaria, Germany of natural causes"
 birthPlace: "Hohenzollern (Germany)"
 deathPlace: "Bavaria, Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 26

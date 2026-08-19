@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/178-7866_IMG_-_Grego
 deathYear: 741
 born: "in Syria"
 died: "28 November 741 of natural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 12
   day: 10

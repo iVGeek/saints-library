@@ -11,7 +11,7 @@ born: "1628 at Durham, England as John Caldwell"
 died: "hanged, drawn, and quartered on 20 June 1679 at Tyburn, London, England"
 birthPlace: "England as John Caldwell"
 deathPlace: "drawn, and quartered on 20 June 1679 at Tyburn, London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 20

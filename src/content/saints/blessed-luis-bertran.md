@@ -11,7 +11,7 @@ born: "1596 in Barcelona, Spain"
 died: "burned to death in 29 July 1627 at Omura, Nagasaki, Japan"
 birthPlace: "Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 7
   day: 29

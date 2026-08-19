@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 250
 died: "martyred in 250 in Galatia, Asia Minor (part of modern Turkey)"
 deathPlace: "Asia Minor (partmodern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 22

@@ -18,7 +18,7 @@ born: "25 March 1867 at Hadynkivtsi, Ternopil District, Ukraine"
 died: "17 January 1947 in NKVD prison in Kiev, Ukraine"
 birthPlace: "Ternopil District, Ukraine"
 deathPlace: "Ukraine"
-region: "England"
+region: "Austria"
 feastDay:
   month: 12
   day: 28

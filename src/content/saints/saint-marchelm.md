@@ -16,7 +16,7 @@ deathYear: 762
 born: "England"
 died: "c.762 in Oldenzaal, Netherlands"
 deathPlace: "Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 14

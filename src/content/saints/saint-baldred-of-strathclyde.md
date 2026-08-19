@@ -10,7 +10,7 @@ deathYear: 607
 born: "c.543 in Ireland"
 died: "c.607 at Aldhame, Haddingtonshire, Scotland of natural causes"
 deathPlace: "Haddingtonshire, Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 6

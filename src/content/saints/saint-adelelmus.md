@@ -19,7 +19,7 @@ born: "11th century at Laudun, Poitou, France"
 died: "c.1100 at Burgos, Castilla la Vieja, Spain of natural causes"
 birthPlace: "Poitou, France"
 deathPlace: "Castilla la Vieja, Spaof natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 30

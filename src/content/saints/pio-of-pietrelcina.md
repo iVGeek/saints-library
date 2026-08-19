@@ -18,7 +18,7 @@ born: 25 May 1887
 died: 23 September 1968
 birthPlace: Pietrelcina, Italy
 deathPlace: San Giovanni Rotondo, Italy
-region: Italy
+region: "France"
 centuries: [20]
 feastDay:
   month: 9

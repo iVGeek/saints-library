@@ -12,7 +12,7 @@ born: "24 November 1844 in Mellrichstadt, Rhön-Grabfeld, Germany"
 died: "6 March 1911 in Castel Sant’Elia, Viterbo, Italy of natural causes"
 birthPlace: "Rhön-Grabfeld, Germany"
 deathPlace: "Viterbo, Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 1

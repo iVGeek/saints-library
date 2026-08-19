@@ -9,7 +9,7 @@ born: "17 February 1841 in Chambéry, Savoie, France"
 died: "25 March 1910 in Chambéry, Savoie, France"
 birthPlace: "Savoie, France"
 deathPlace: "Savoie, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 25

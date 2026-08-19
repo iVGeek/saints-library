@@ -10,7 +10,7 @@ deathYear: 1051
 born: "in Armenia"
 died: "3 June 1051 in Lucca, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 3

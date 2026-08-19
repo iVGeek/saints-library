@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France."
 born: "Scottish"
 died: "9th century"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 2
   day: 3

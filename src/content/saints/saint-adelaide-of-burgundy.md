@@ -10,7 +10,7 @@ searchAliases:
 birthYear: 931
 born: "c.931 in the kingdom of Burgundy, Holy Roman Empire (modern Burgundy, France)"
 birthPlace: "Holy Roman Empire (modern Burgundy, France)"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 16

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 205
 died: "beheaded c.205 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 30

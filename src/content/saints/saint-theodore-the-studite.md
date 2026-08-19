@@ -13,7 +13,7 @@ deathYear: 826
 born: "759 in Greece"
 died: "11 November 826 on the peninsula of Tryphon, near the Akrita promontory in Asia Minor"
 deathPlace: "near the Akrita promontoryAsia Minor"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 11

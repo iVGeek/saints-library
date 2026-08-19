@@ -8,7 +8,7 @@ born: "28 September 1936 in Los Jagüeles, La Calera, San Luis, Argentina"
 died: "25 July 1976 in Sañogasta, Chilecito, La Rioja, Argentina"
 birthPlace: "La Calera, San Luis, Argentina"
 deathPlace: "Chilecito, La Rioja, Argentina"
-region: "England"
+region: "Argentina"
 feastDay:
   month: 7
   day: 25

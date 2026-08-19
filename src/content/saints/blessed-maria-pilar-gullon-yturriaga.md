@@ -9,7 +9,7 @@ born: "29 May 1911 in Madrid, Spain"
 died: "shot around noon of 28 October 1936 in a field near Pola de Somiedo, Asturias, Spain"
 birthPlace: "Spain"
 deathPlace: "Asturias, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 28

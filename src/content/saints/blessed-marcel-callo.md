@@ -13,7 +13,7 @@ born: "6 December 1921 in Rennes, Ille-et-Vilaine, France"
 died: "19 March 1945 in Mauthausen, Upper Austria, Austria of tuberculosis and dysentery"
 birthPlace: "Ille-et-Vilaine, France"
 deathPlace: "Upper Austria, Austriatuberculosis and dysentery"
-region: "France"
+region: "Austria"
 feastDay:
   month: 3
   day: 19

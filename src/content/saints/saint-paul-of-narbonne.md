@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France."
 deathYear: 250
 died: "c.250 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 22

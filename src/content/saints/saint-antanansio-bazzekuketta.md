@@ -10,7 +10,7 @@ born: "at Buganda, Uganda"
 died: "hacked to pieces on 27 May 1886 at Nakivubo, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 27

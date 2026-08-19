@@ -10,7 +10,7 @@ deathYear: 625
 born: "Ireland"
 died: "c.625 at Annandale, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 1

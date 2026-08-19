@@ -6,7 +6,7 @@ searchAliases:
   - "Girolamo of Montpelier"
 born: "Mondovì, Italy"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 15

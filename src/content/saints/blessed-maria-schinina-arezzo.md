@@ -11,7 +11,7 @@ born: "10 April 1844 in Ragusa, Sicily, Italy"
 died: "11 June 1910 in Ragusa, Sicily, Italy of natural causes"
 birthPlace: "Sicily, Italy"
 deathPlace: "Sicily, Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 6
   day: 11

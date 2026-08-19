@@ -9,7 +9,7 @@ deathYear: 705
 born: "in Lorraine, France"
 died: "c.705 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 4

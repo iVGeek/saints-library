@@ -9,7 +9,7 @@ born: "3 March 1886 in Villareal, Castellón, Spain"
 died: "shot and stabbed in the chest with a bayonet on 8 September 1936 on the road outside Castellón, Spain"
 birthPlace: "Castellón, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 9
   day: 8

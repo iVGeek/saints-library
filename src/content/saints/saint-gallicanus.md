@@ -5,7 +5,7 @@ summary: "Ranking officer in the imperial army of Constantine the Great. Roman c
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gallicanus.jpg"
 deathYear: 362
 died: "c.362"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 25

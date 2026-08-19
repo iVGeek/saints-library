@@ -13,7 +13,7 @@ born: "23 March 1796 in Marigane, France"
 died: "beheaded on 21 September 1839 at Saenamt'o, Korea"
 birthPlace: "France"
 deathPlace: "Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 9
   day: 21

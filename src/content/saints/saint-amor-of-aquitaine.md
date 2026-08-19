@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Amor-of-Aquitain
 searchAliases:
   - "Amour of Aquitaine"
 born: "Aquitaine (part of modern France)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 8

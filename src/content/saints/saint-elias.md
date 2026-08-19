@@ -5,7 +5,7 @@ summary: "Monk. Abbot of the Saint Martin the Great Abbey in Ireland in 1020. Ab
 deathYear: 1042
 born: "Ireland"
 died: "1042"
-region: "Germany"
+region: "Ireland"
 feastDay:
   month: 4
   day: 16

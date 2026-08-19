@@ -11,7 +11,7 @@ born: "at Florence, Italy"
 died: "4 December 1133 in Parma, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 4

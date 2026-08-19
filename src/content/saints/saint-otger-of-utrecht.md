@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 746
 born: "England"
 died: "c.746 of natural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 5
   day: 8

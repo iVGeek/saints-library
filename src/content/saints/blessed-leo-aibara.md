@@ -6,7 +6,7 @@ deathYear: 1628
 born: "Japan"
 died: "8 September 1628 in Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

@@ -6,7 +6,7 @@ searchAliases:
   - "Dinothus"
   - "Dunawd"
   - "Dunod"
-region: "Italy"
+region: "England"
 feastDay:
   month: 9
   day: 7

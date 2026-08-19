@@ -17,7 +17,7 @@ born: "29 July 1865 in Prylbychi, Lviv, Ukraine"
 died: "1 November 1944 in Lviv, L’viv’ska oblast, Ukraine of natural causes"
 birthPlace: "Lviv, Ukraine"
 deathPlace: "L’viv’ska oblast, Ukrainenatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 8
   day: 13

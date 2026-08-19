@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Titular saint of Kill-Luicain parish, County Roscommon, Ireland. No details have survived."
 searchAliases:
   - "Luicain"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 7
   day: 27

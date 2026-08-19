@@ -5,7 +5,7 @@ summary: "Mercedarian priest. Missionary in area of modern Peru, Argentina and P
 image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Christopher-de-Albarran.jpg"
 deathYear: 1566
 died: "shot with arrows in 1566"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 6
   day: 24

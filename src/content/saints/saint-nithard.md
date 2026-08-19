@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Benedictine monk at New Corbie Abbey, Saxony (in modern Germany). Worked with Saint Ansgar, preaching to pagans in Scandinavia. Martyred by pagan Swedes."
 deathYear: 845
 died: "845"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 4

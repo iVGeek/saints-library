@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 916
 died: "17 July 916 in Ohrid, Macedonia of natural causes"
 deathPlace: "Macedonianatural causes"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 17

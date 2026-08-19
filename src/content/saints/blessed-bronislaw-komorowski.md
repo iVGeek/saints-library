@@ -11,7 +11,7 @@ born: "25 May 1889 in Barlozno, Pomorskie, Poland"
 died: "shot on Good Friday 22 March 1940 in a field outside the Stutthof concentration camp near Sztutowo, Pomorskie, Poland"
 birthPlace: "Pomorskie, Poland"
 deathPlace: "Pomorskie, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 3
   day: 22

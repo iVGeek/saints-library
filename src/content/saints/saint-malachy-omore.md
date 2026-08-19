@@ -17,7 +17,7 @@ born: "1094 at Armagh, Ireland"
 died: "2 November 1148 at Clairvaux Abbey, France of natural causes"
 birthPlace: "Ireland"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 11
   day: 3

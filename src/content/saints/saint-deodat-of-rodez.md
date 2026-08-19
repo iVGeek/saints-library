@@ -8,7 +8,7 @@ deathYear: 1391
 born: "Rodez, Aveyron, France"
 died: "burned alive on 14 November 1391 near the Jaffa Gate in Jerusalem"
 birthPlace: "Aveyron, France"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 14

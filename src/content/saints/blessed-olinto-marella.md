@@ -11,7 +11,7 @@ born: "14 June 1882 in Pallestrina, Italy"
 died: "6 September 1969 in San Lazzaro di Savena, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 6

@@ -9,7 +9,7 @@ born: "16 February 1883 in Corteno Golgi, Brescia, Italy"
 died: "25 August 1969 in a plane crash in Sucúa, Morona-Santiago, Ecuador"
 birthPlace: "Brescia, Italy"
 deathPlace: "Morona-Santiago, Ecuador"
-region: "Italy"
+region: "Ecuador"
 feastDay:
   month: 8
   day: 25

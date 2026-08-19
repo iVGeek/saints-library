@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 390
 died: "c.390 at Barcelona, Spain of natural causes"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 3
   day: 9

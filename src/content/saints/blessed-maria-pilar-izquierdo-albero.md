@@ -9,7 +9,7 @@ born: "27 July 1906 in Zaragoza, Spain"
 died: "27 August 1945 in San Sebastian, Guipúzcoa, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Guipúzcoa, Spaof natural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 27

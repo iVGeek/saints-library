@@ -14,7 +14,7 @@ born: "27 January 1564 in Calahorra, La Rioja, Spain"
 died: "28 May 1615 at the San Silvestro convent in Monte Compatri, Rome, Italy of natural causes"
 birthPlace: "La Rioja, Spain"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 30

@@ -12,7 +12,7 @@ deathYear: 1229
 born: "1164 in Piacenza, Italy"
 died: "16 December 1229 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 26

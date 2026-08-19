@@ -11,7 +11,7 @@ born: "at Rome, Italy"
 died: "18 August 440 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 3
   day: 28

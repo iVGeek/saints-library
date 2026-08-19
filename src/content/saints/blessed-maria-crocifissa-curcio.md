@@ -11,7 +11,7 @@ born: "30 January 1877 in Ispica, diocese of Noto, Sicily"
 died: "4 July 1957 in Santa Marinella, diocese of Porto Santa Rufina, Italy of natural causes"
 birthPlace: "dioceseNoto, Sicily"
 deathPlace: "diocesePorto Santa Rufina, Italy of natural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 4

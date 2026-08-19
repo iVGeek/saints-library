@@ -6,7 +6,7 @@ deathYear: 1583
 born: "Irish"
 died: "martryed on 14 June 1583 in Dublin, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 14

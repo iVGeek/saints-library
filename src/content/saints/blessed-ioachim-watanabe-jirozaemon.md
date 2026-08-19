@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1551
 born: "c.1551 in Yatsushiro, Kumamoto, Japan"
 birthPlace: "Kumamoto, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 26

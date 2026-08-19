@@ -9,7 +9,7 @@ born: "26 December 1924 in Antwerp, Belgium"
 died: "27 December 1994 in Tizi-Ouzou, Algeria"
 birthPlace: "Belgium"
 deathPlace: "Algeria"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 27

@@ -9,7 +9,7 @@ born: "24 April 1863 in Loosdorf, Melk, Austria"
 died: "6 July 1922 in Rome, Italy of tuberculosis"
 birthPlace: "Melk, Austria"
 deathPlace: "Italytuberculosis"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 7
   day: 6

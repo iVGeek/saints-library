@@ -5,7 +5,7 @@ summary: "Monk at Saint Andrew's abbey. Spiritual student of Saint Adrian, bisho
 deathYear: 874
 died: "murdered in 874 in the area of the Firth of Forth, Scotland"
 deathPlace: "Scotland"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 1

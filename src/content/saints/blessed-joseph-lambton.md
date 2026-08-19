@@ -8,7 +8,7 @@ born: "1568 in Malton, North Yorkshire, England"
 died: "hanged, drawn and quartered on 24 July 1592 in Newcastle, Tyne and Wear, England"
 birthPlace: "North Yorkshire, England"
 deathPlace: "drawn and quartered on 24 July 1592Newcastle, Tyne and Wear, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 24

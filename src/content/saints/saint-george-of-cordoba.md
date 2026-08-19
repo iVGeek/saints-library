@@ -5,7 +5,7 @@ summary: "Monk from Palestine. Deacon. Arrested and condemned to death during th
 deathYear: 822
 died: "c.822 at Cordoba, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 27

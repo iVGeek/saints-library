@@ -11,7 +11,7 @@ deathYear: 1935
 born: "4 November 1879 at Saint Petersburg, Russia"
 died: "7 March 1935 of “natural causes”"
 birthPlace: "Russia"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 7

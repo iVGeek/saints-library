@@ -15,7 +15,7 @@ born: "at Glastonbury, England"
 died: "c.1045 at Vaexjoe, Sweden"
 birthPlace: "England"
 deathPlace: "Sweden"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 15

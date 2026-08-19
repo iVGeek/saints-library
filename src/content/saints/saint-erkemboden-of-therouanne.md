@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 714
 born: "Ireland"
 died: "714 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 4
   day: 12

@@ -9,7 +9,7 @@ born: "7 June 1817 in Venice, Italy"
 died: "9 July 1897 in Venice, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 7
   day: 9

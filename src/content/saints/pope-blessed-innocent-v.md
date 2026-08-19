@@ -12,7 +12,7 @@ born: "c.1225 at Tarentaise, Burgundy, France as Petrus a Tarentasia"
 died: "22 June 1276 at Rome, Italy of natural causes"
 birthPlace: "Burgundy, France as Petrus a Tarentasia"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 22

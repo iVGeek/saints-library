@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 560
 born: "Italian"
 died: "c.560 in Spain of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 12

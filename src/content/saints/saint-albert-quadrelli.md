@@ -12,7 +12,7 @@ born: "Rivolta d'Adda, diocese of Cremona, Italy"
 died: "1179 at Lodi, Italy of natural causes"
 birthPlace: "dioceseCremona, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 4

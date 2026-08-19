@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 304
 died: "tortured and beheaded c.304 at Lydda, Palestine"
 deathPlace: "Palestine"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 4
   day: 23

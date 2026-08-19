@@ -13,7 +13,7 @@ born: "1548 at Miyako, Japan"
 died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nishizaka, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nishizaka, Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

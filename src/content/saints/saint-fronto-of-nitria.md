@@ -8,7 +8,7 @@ searchAliases:
   - "Frontonio"
   - "Frontom"
 died: "late 2nd century Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 4
   day: 14

@@ -17,7 +17,7 @@ born: "1185 at Lanka Castle, Kamien Slaski, Opole, Upper Silesia (in modern Pola
 died: "15 August 1257 at Krakow, Poland of natural causes"
 birthPlace: "Kamien Slaski, Opole, Upper Silesia (modern Poland)"
 deathPlace: "Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 8
   day: 17

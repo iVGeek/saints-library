@@ -14,7 +14,7 @@ born: "1582 in Kyudetsu, Nagasaki, Japan"
 died: "17 August 1633 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 8
   day: 17

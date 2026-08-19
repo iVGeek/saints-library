@@ -14,7 +14,7 @@ born: "23 January 1747 at Cambrai, Nord, France as Ann-Joseph Leroux"
 died: "guillotined on 23 October 1794 in Valenciennes, Nord, France"
 birthPlace: "Nord, France as Ann-Joseph Leroux"
 deathPlace: "Nord, France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 23

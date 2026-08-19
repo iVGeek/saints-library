@@ -6,7 +6,7 @@ searchAliases:
   - "Macarius the Alexandrian"
 deathYear: 390
 died: "c.390"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 19

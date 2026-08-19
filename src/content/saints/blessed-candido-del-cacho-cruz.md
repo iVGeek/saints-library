@@ -8,7 +8,7 @@ born: "3 October 1886 in Fuenteovejuna, Córdoba, Spain"
 died: "21 September 1936  in Granja de Torrehermosa, Badajoz, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Badajoz, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 21

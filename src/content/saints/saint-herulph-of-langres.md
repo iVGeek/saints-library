@@ -7,7 +7,7 @@ searchAliases:
   - "Hariolfus…"
 deathYear: 785
 died: "785 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 8
   day: 13

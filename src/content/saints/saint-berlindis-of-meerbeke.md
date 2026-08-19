@@ -11,7 +11,7 @@ deathYear: 702
 born: "at Meerbeke, Belgium"
 died: "702 of natural causes"
 birthPlace: "Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 2
   day: 3

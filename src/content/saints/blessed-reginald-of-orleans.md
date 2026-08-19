@@ -12,7 +12,7 @@ born: "c.1180 in Orléans, France"
 died: "early February 1220 in Paris, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

@@ -5,7 +5,7 @@ summary: "Old Testament prophet. He announced to Achad, King of Israel, who unde
 image: "http://catholicsaints.info/wp-content/uploads/img-Elijah-the-Prophet.jpg"
 searchAliases:
   - "Elias the Prophet"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 7
   day: 20

@@ -12,7 +12,7 @@ born: "7 October 1803 in Marcoux, Basses-Alpes, France"
 died: "beaten with a bastinado and beheaded on 21 September 1839 at Saenamteo, Seoul, South Korea"
 birthPlace: "Basses-Alpes, France"
 deathPlace: "Seoul, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 9
   day: 21

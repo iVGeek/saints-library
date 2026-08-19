@@ -10,7 +10,7 @@ searchAliases:
   - "Colga…"
 deathYear: 796
 died: "c.796 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 2
   day: 20

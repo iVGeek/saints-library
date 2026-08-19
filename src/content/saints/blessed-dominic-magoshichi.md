@@ -11,7 +11,7 @@ born: "Hyuga, Miyazaki, Japan"
 died: "burned alive on 12 September 1622 at Omura, Japan"
 birthPlace: "Miyazaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 12

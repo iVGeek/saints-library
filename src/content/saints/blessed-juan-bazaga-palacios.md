@@ -9,7 +9,7 @@ born: "8 December 1904 in Benamargosa, Granada, Spain"
 died: "11 August 1936 in Málaga, Spain"
 birthPlace: "Granada, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 11

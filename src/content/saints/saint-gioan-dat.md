@@ -12,7 +12,7 @@ born: "c.1765 in Ðong Chuoi, Thanh Hóa, Vietnam"
 died: "28 October 1798 in Cho Ra, Thanh Hóa, Vietnam"
 birthPlace: "Thanh Hóa, Vietnam"
 deathPlace: "Thanh Hóa, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 10
   day: 28

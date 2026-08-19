@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 308
 died: "beheaded on 5 March 308 at Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 5

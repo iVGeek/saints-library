@@ -9,7 +9,7 @@ born: "21 September 1827 in Ramsau, Zell am See, Salzburg, Austria"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Zell am See, Salzburg, Austria"
 deathPlace: "Syria"
-region: "England"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

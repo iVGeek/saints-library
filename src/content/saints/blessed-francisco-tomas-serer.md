@@ -9,7 +9,7 @@ born: "10 October 1911 in Alcalalí, Alicante, Spain"
 died: "shot on 2 August 1936 against the wall of the Prince of Asturias Reformatory in Madrid, Spain"
 birthPlace: "Alicante, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 2

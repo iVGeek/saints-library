@@ -11,7 +11,7 @@ born: "at Buganda, Uganda"
 died: "stabbed with a spear and torn apart by wild dogs on 31 May 1886 at Mityana, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 31

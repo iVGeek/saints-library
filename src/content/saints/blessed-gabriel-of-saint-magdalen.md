@@ -10,7 +10,7 @@ born: "Sonseca, Toledo, Spain"
 died: "scalded in boiling water and then burned alive on 3 September 1632 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Toledo, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 3

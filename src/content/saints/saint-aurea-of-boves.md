@@ -5,7 +5,7 @@ summary: "Nun in Boves, Italy. Abbess of a large convent in Rouen, France."
 born: "Amiens, France"
 died: "8th century"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 6

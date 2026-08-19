@@ -9,7 +9,7 @@ searchAliases:
 born: "Ireland"
 died: "6th century in Aosta, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

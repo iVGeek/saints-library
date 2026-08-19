@@ -12,7 +12,7 @@ born: "1805 in Taraekkol, Hongjugun, Ch'ungch'ong, South Korea"
 died: "in the early morning of 12 September 1839 in prison in Seoul, South Korea from injuries received during a series of beatings"
 birthPlace: "Hongjugun, Ch'ungch'ong, South Korea"
 deathPlace: "South Koreainjuries received during a series of beatings"
-region: "France"
+region: "Korea"
 feastDay:
   month: 9
   day: 12

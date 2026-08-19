@@ -17,7 +17,7 @@ born: "2 March 1585 at Ribera del Fresno, Estramadura, Spain"
 died: "16 September 1645 in Lima, Peru of natural causes"
 birthPlace: "Estramadura, Spain"
 deathPlace: "Perunatural causes"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 9
   day: 16

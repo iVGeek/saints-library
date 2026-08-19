@@ -11,7 +11,7 @@ born: "9 January 1902 at Barbastro, Spain"
 died: "26 June 1975 of natural causes in his office in Rome, Italy"
 birthPlace: "Spain"
 deathPlace: "Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 26

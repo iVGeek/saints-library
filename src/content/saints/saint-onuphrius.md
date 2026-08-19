@@ -13,7 +13,7 @@ searchAliases:
   - "Onouphrius…"
 deathYear: 400
 died: "c.400"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 12

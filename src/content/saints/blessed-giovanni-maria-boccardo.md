@@ -11,7 +11,7 @@ born: "20 November 1848 in Ca'Bianca, Moncalieri, Turin, Italy"
 died: "30 December 1913 in Moncalieri, Turin, Italy of natural causes"
 birthPlace: "Moncalieri, Turin, Italy"
 deathPlace: "Turin, Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 12
   day: 30

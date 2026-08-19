@@ -12,7 +12,7 @@ born: "27 May 1912 in Terni, Italy"
 died: "14 January 1956 in Terni, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

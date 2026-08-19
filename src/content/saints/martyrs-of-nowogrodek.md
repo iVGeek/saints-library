@@ -6,7 +6,7 @@ searchAliases: []
 deathYear: 1943
 died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts’, in Nazi occupied Belarus"
 deathPlace: "Hrodzyenskaya voblasts’,Nazi occupied Belarus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 8
   day: 1

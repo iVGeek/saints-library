@@ -12,7 +12,7 @@ born: "1576 at Asunción, Paraguay"
 died: "martyred on 15 November 1628 at Caaro, Brazil, just as he finished celebrating Mass"
 birthPlace: "Paraguay"
 deathPlace: "Brazil, just as he finished celebrating Mass"
-region: "Spain"
+region: "India"
 feastDay:
   month: 11
   day: 15

@@ -7,7 +7,7 @@ deathYear: 1875
 born: "13 May 1787 in Portugal"
 died: "7 July 1875 in Mariana, Minas Gerais, Brazil of natural causes"
 deathPlace: "Minas Gerais, Brazilnatural causes"
-region: "Portugal"
+region: "Brazil"
 feastDay:
   month: 3
   day: 7

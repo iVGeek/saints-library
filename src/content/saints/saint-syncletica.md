@@ -5,7 +5,7 @@ summary: "Wealthy Alexandrian lady who abandoned her riches and lived till age 8
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Syncletica.jpg"
 searchAliases:
   - "Sincletica"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 5

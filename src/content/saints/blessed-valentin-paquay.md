@@ -15,7 +15,7 @@ born: "17 November 1828 in Tongres, Limburg, Belgium as Louis Paquay"
 died: "1 January 1905 in Hasselt, Limburg, Belgium of natural causes"
 birthPlace: "Limburg, Belgium as Louis Paquay"
 deathPlace: "Limburg, Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 10
   day: 4

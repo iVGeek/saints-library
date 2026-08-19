@@ -12,7 +12,7 @@ born: "Sunday 18 July 1880 in a military camp in the diocese of Bourges, France 
 died: "9 November 1906 at Dijon, Côte-d’Or, France of Addison's disease, a hormone disorder whose side effects are painful and exhausting"
 birthPlace: "France as Elizabeth Catez"
 deathPlace: "Côte-d’Or, FranceAddison's disease, a hormone disorder whose side effects are painful and exhausting"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 8

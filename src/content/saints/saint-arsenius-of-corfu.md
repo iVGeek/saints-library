@@ -7,7 +7,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Arsenius-of-Corf
 deathYear: 959
 born: "Constantinople"
 died: "959 of natural causes"
-region: "England"
+region: "Greece"
 feastDay:
   month: 1
   day: 19

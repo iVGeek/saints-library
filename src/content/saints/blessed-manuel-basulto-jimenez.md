@@ -9,7 +9,7 @@ born: "17 May 1860 in Adanero, Ávila, Spain"
 died: "shot on a prisoner transport train on 12 August 1936 in Vallecas, Madrid, Spain"
 birthPlace: "Ávila, Spain"
 deathPlace: "Madrid, Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 12

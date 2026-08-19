@@ -6,7 +6,7 @@ searchAliases:
   - "Ephesus Martyrs"
 deathYear: 762
 died: "martyred c.762"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 12

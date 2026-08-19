@@ -11,7 +11,7 @@ born: "18 October 1000 in Nabburg, Germany"
 died: "18 October 1059 in Halberstadt, Germany"
 birthPlace: "Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 18

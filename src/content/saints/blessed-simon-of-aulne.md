@@ -6,7 +6,7 @@ birthYear: 1144
 deathYear: 1228
 born: "c.1144 in the area of modern Belgium"
 died: "6 November 1228 of natural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 11
   day: 6

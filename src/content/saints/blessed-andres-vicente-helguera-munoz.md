@@ -9,7 +9,7 @@ born: "27 October 1879 in Belalcázar, Córdoba, Spain"
 died: "22 August 1936 in Castuera, Badajoz, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Badajoz, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 22

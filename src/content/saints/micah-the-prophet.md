@@ -8,7 +8,7 @@ searchAliases:
   - "Michaes"
   - "Micheas"
 died: "8th century BC"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 21

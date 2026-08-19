@@ -9,7 +9,7 @@ born: "11 May 1867 in Andorra, Teruel, Spain"
 died: "shot on 15 September 1936 in Andorra, Teruel, Spain"
 birthPlace: "Teruel, Spain"
 deathPlace: "Teruel, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 15

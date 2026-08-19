@@ -11,7 +11,7 @@ born: "16 May 1876 at Strusiv, Ternopil District, Ukraine"
 died: "tortured and murdered by NKVD agents on 26 June 1941 in the forest outside Stradch, Yavoriv, L’vivs’ka oblast’, Ukraine"
 birthPlace: "Ternopil District, Ukraine"
 deathPlace: "Yavoriv, L’vivs’ka oblast’, Ukraine"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 26

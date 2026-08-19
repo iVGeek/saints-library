@@ -8,7 +8,7 @@ born: "20 September 1745 in Thouars, Deux-Sèvres, France"
 died: "martyred on 1 February 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Deux-Sèvres, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

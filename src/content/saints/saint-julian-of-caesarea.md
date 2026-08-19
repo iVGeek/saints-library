@@ -5,7 +5,7 @@ summary: "Catechumen at Caesarea, Palestine. Arrested for venerating the martyre
 deathYear: 309
 died: "burned to death in 309 at Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 2
   day: 17

@@ -10,7 +10,7 @@ born: "1540 in Amarante, Portugal"
 died: "27 January 1618 in Callao, Peru of natural causes"
 birthPlace: "Portugal"
 deathPlace: "Perunatural causes"
-region: "Portugal"
+region: "Peru"
 feastDay:
   month: 1
   day: 27

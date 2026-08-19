@@ -12,7 +12,7 @@ born: "c.1881 in Du, Shenzhou, Hebei, China"
 died: "buried alive 29 June 1900 in Du, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 29

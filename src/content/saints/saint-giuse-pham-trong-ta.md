@@ -11,7 +11,7 @@ born: "c.1800 in Quan Cong, Nam Ðinh, Vietnam"
 died: "13 January 1859 in Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 13

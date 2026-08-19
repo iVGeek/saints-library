@@ -9,7 +9,7 @@ born: "13 November 1920 in Berlin, Germany"
 died: "guillotined on 24 August 1942 in Dresden, Germany"
 birthPlace: "Germany"
 deathPlace: "Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 24

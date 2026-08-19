@@ -7,7 +7,7 @@ birthYear: 955
 deathYear: 1045
 born: "955"
 died: "1045 of natural causes"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 10
   day: 9

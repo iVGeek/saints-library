@@ -11,7 +11,7 @@ born: "1527 in ‘s-Hertogenbosch, Noord-Brabant, Netherlands"
 died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
 birthPlace: "Noord-Brabant, Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 9

@@ -13,7 +13,7 @@ deathYear: 657
 born: "Toledo, Spain"
 died: "13 November 657 of natural causes"
 birthPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 11
   day: 13

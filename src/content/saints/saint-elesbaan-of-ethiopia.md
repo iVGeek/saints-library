@@ -19,7 +19,7 @@ searchAliases:
   - "Kaleb…"
 deathYear: 555
 died: "c.555"
-region: "England"
+region: "Africa"
 feastDay:
   month: 10
   day: 27

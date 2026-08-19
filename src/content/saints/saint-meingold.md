@@ -7,7 +7,7 @@ searchAliases:
   - "Meingaud"
 deathYear: 892
 died: "murdered in 892"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 2
   day: 8

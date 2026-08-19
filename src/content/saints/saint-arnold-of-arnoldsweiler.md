@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 800
 died: "c.800 in Ginnizweiler, (modern Düren-Arnoldsweiler), Germany of natural causes"
 deathPlace: "(modern Düren-Arnoldsweiler), Germanynatural causes"
-region: "France"
+region: "Chile"
 feastDay:
   month: 7
   day: 18

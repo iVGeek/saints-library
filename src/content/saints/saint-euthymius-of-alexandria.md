@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Deacon in Alexandria, Egypt. Imprisoned for his faith, he eventually died of mistreatment. Martyr."
 searchAliases:
   - "Eutimio"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 5
   day: 5

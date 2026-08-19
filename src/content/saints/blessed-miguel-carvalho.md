@@ -10,7 +10,7 @@ born: "1579 in Braga, Portugal"
 died: "burned alive on 25 August 1624 in Omura, Nagasaki, Japan"
 birthPlace: "Portugal"
 deathPlace: "Nagasaki, Japan"
-region: "Portugal"
+region: "Japan"
 feastDay:
   month: 8
   day: 25

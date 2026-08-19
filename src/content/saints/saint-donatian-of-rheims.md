@@ -12,7 +12,7 @@ deathYear: 390
 born: "4th century in Rome, Italy"
 died: "390 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 14

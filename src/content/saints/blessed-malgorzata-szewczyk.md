@@ -13,7 +13,7 @@ born: "c.1828 in Szepetówka, Khmelnytskyi, Russian empire (in modern Ukraine)"
 died: "5 June 1905 in the convent in Nieszawa, Aleksandrów, Poland of natural causes"
 birthPlace: "Khmelnytskyi, Russian empire (modern Ukraine)"
 deathPlace: "Aleksandrów, Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 6
   day: 5

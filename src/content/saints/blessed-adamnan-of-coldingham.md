@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 680
 born: "Ireland"
 died: "c.680 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 31

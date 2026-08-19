@@ -6,7 +6,7 @@ searchAliases:
   - "Elisabeth de Wans"
 deathYear: 1250
 died: "1250 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 1

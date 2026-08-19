@@ -5,7 +5,7 @@ title: "Bishop"
 summary: "Patriarch of Constantinople. Deposed and exiled by emperor Leo VI when he opposed the emperor's fourth marriage, which was prohibited by the laws of the Eastern Church."
 searchAliases:
   - "Nicholas of Constantinople"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 15

@@ -9,7 +9,7 @@ born: "23 July 1931 in Santiago de Chile, Chile"
 died: "15 July 1964 in Milwaukee, Wisconsin of stomach cancer"
 birthPlace: "Chile"
 deathPlace: "Wisconsof stomach cancer"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 5
   day: 29

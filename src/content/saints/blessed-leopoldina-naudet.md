@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Leopoldina_Naudet.jp
 birthYear: 1773
 born: "31 May 1773 in Florence, Italy"
 birthPlace: "Italy"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 11
   day: 9

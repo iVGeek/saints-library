@@ -5,7 +5,7 @@ summary: "Bishop of Arethusa, Mount Lebanon. Attended the 351 synod at Sirmium w
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mark-of-Arethusa.jpg"
 deathYear: 362
 died: "martyred in 362 during the persecution of Julian the Apostate"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 3
   day: 29

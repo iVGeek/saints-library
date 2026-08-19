@@ -10,7 +10,7 @@ born: "25 March 1914 in Huštenovice, Uherské Hradište, Czech Republic"
 died: "21 January 1988 in Znojmo-Hradište, Znojmo, Czech Republic of natural causes"
 birthPlace: "Uherské Hradište, Czech Republic"
 deathPlace: "Znojmo, Czech Republicnatural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 1

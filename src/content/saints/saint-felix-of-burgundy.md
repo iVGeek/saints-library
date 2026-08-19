@@ -12,7 +12,7 @@ deathYear: 647
 born: "late 6th century in Burgundy, France"
 died: "8 March 647 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "England"
 feastDay:
   month: 3
   day: 8

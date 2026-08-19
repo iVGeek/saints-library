@@ -6,7 +6,7 @@ searchAliases:
   - "Beda"
 deathYear: 883
 died: "10 April 883"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 10

@@ -9,7 +9,7 @@ born: "22 June 1898 in Cislago, Varese, Italy"
 died: "29 September 1954 in Lecco, Italy of a heart attack"
 birthPlace: "Varese, Italy"
 deathPlace: "Italya heart attack"
-region: "Italy"
+region: "China"
 feastDay:
   month: 9
   day: 29

@@ -5,7 +5,7 @@ summary: "Jewish dynasty which began with the rebellion of Mathathias and his fi
 image: "http://catholicsaints.info/wp-content/uploads/img-Holy-Maccabees.jpg"
 searchAliases:
   - "The Machabees"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 1

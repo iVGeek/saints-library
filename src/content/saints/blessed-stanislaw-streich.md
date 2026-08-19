@@ -9,7 +9,7 @@ born: "27 August 1902 in Bydgoszcz, Poland"
 died: "shot multiple times on 27 February 1938 at the altar of the church of Saint John Bosco in Lubon, Poznan, Poland"
 birthPlace: "Poland"
 deathPlace: "Poznan, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 2
   day: 27

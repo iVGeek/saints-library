@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 430
 died: "c.430 in Autun, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 1

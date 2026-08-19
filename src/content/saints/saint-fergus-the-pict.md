@@ -11,7 +11,7 @@ deathYear: 730
 born: "Pictish Scotland"
 died: "c.730 at Glamis, Forfarshire, Scotland of natural causes"
 deathPlace: "Forfarshire, Scotlandnatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 11
   day: 27

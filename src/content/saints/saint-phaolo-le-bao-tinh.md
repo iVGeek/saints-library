@@ -9,7 +9,7 @@ born: "c.1793 in Trinh Hà, Thanh Hoá, Vietnam"
 died: "beheaded on 6 April 1857 in Bay Mau, Hanoi, Vietnam"
 birthPlace: "Thanh Hoá, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 4
   day: 6

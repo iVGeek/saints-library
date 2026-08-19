@@ -16,7 +16,7 @@ born: "15 March 1760 at Triora, Imperia, Italy as Francesco Maria Lantrua"
 died: "tied to a cross and then strangled to death on 7 February 1816 at Ch'angsha Fu, Hunan, China"
 birthPlace: "Imperia, Italy as Francesco Maria Lantrua"
 deathPlace: "Hunan, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 2
   day: 7

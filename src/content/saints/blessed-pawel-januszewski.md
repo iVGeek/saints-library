@@ -11,7 +11,7 @@ born: "11 June 1907 in Krajenki, Kujawsko-Pomorskie, Poland as Pawel Januszewski
 died: "25 March 1945 in prisoner cabin 25 in the Dachau concentration camp, Oberbayern, Germany of typhus"
 birthPlace: "Kujawsko-Pomorskie, Poland as Pawel Januszewski"
 deathPlace: "Oberbayern, Germanytyphus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 25

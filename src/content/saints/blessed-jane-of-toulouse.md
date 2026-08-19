@@ -11,7 +11,7 @@ deathYear: 1286
 born: "at Toulouse, France"
 died: "1286 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 31

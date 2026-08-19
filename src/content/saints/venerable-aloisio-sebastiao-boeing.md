@@ -9,7 +9,7 @@ born: "24 December 1913 in Vargem do Cedro, São Martinho, Santa Catarina, Brazi
 died: "17 April 2006 in the Fraternidade Mariana do Coração de Jesus house in Jaraguá do Sul, Santa Catarina, Brazil of natural causes"
 birthPlace: "São Martinho, Santa Catarina, Brazil"
 deathPlace: "Santa Catarina, Brazilnatural causes"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 1
   day: 16

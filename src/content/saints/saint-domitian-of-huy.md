@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Huy_051027_%28
 deathYear: 560
 born: "6th century in Gaul"
 died: "560"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 5
   day: 7

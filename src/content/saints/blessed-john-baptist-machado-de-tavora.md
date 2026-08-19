@@ -8,7 +8,7 @@ born: "1580 at Terceira, Portuguese Azores"
 died: "beheaded on 22 May 1617 at Nagasaki, Japan"
 birthPlace: "Portuguese Azores"
 deathPlace: "Japan"
-region: "Portugal"
+region: "Japan"
 feastDay:
   month: 5
   day: 22

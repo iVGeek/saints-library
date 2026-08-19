@@ -10,7 +10,7 @@ born: "5 October 1764 in La Flèche, Sarthe, France"
 died: "beheaded on 1 January 1794 at Angers, Maine-et-Loire, France"
 birthPlace: "Sarthe, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

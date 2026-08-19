@@ -9,7 +9,7 @@ born: "14 September 1595 in Belmonte, Cuenca, Spain"
 died: "stoned and beaten to death with axes on 17 November 1628 in the forest outside Ijuí, Rio Grande do Sul, Paraguay (in modern Brazil)"
 birthPlace: "Cuenca, Spain"
 deathPlace: "Rio Grande do Sul, Paraguay (modern Brazil)"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 11
   day: 17

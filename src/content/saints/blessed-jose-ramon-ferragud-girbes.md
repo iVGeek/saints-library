@@ -9,7 +9,7 @@ born: "10 October 1887 in Algemesí, Valencia, Spain"
 died: "shot on 24 September 1936 in Alzira, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 24

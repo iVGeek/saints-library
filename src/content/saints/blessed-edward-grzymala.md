@@ -9,7 +9,7 @@ born: "19 September 1906 in Kolodziaz, Podlaskie, Poland"
 died: "gassed on 10 August 1942 at the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 10

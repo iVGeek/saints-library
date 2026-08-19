@@ -12,7 +12,7 @@ born: "27 December 1737 at Zaragoza, Spain"
 died: "15 November 1811 in Rome, Italy of his life long fight with tuberculosis"
 birthPlace: "Spain"
 deathPlace: "Italyhis life long fight with tuberculosis"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 15

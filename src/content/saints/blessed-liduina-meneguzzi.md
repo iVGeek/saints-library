@@ -15,7 +15,7 @@ born: "12 September 1901 in Abano Terme, Padua, Italy as Elisa Angela Meneguzzi"
 died: "2 December 1941 of cancer in Dire-Dawa, Ethiopia"
 birthPlace: "Padua, Italy as Elisa Angela Meneguzzi"
 deathPlace: "Ethiopia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 12
   day: 1

@@ -11,7 +11,7 @@ searchAliases:
   - "Xenia"
 born: "5th century Rome, Italy"
 birthPlace: "Italy"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 24

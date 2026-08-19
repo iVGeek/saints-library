@@ -7,7 +7,7 @@ born: "Ceuta, Spain"
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "Spain"
 deathPlace: "Canary Islands"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 15

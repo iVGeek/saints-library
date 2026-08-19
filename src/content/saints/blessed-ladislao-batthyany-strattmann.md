@@ -12,7 +12,7 @@ born: "20 October 1870 in Dunakiliti, Hungary"
 died: "22 January 1931 at Vienna, Austria of bladder cancer"
 birthPlace: "Hungary"
 deathPlace: "Austriabladder cancer"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 1
   day: 22

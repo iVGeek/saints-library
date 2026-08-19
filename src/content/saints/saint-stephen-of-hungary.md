@@ -13,7 +13,7 @@ born: "969 at Esztergom, Hungary"
 died: "15 August 1038 at Szekesfehervar, Hungary"
 birthPlace: "Hungary"
 deathPlace: "Hungary"
-region: "Ireland"
+region: "Hungary"
 feastDay:
   month: 8
   day: 16

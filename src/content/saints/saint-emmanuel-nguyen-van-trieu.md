@@ -11,7 +11,7 @@ born: "c.1756 in The Ðúc, Phu Xuân (now Hue), Vietnam"
 died: "17 September 1798 in Bãi Dâu, Saigon (now Ho Chi Minh City), Vietnam"
 birthPlace: "Phu Xuân (now Hue), Vietnam"
 deathPlace: "Saigon (now Ho Chi Minh City), Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 9
   day: 17

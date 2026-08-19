@@ -13,7 +13,7 @@ born: "21 April 1898 in Genoa, Italy as Gianni Bonzi"
 died: "9 February 1969 at Villa Piuma in Genoa, Italy of heart condition"
 birthPlace: "Italy as Gianni Bonzi"
 deathPlace: "Italyheart condition"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 10

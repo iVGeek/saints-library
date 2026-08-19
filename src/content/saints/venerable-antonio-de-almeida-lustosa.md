@@ -9,7 +9,7 @@ born: "11 February 1886 in São João del Rei, Minas Gerais, Brazil"
 died: "14 August 1974 in Carpina, Pernambuco, Brazil of natural causes"
 birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Pernambuco, Brazilnatural causes"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 1
   day: 28

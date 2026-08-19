@@ -9,7 +9,7 @@ born: "19 December 1889 in Wysmierzyce, Mazowieckie, Poland"
 died: "gassed on 14 October 1942 in the gas chambers of the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Mazowieckie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 10
   day: 14

@@ -9,7 +9,7 @@ born: "17 May 1932 in Parma, Italy"
 died: "shot on 6 July 1979 at a roadblock in Mutoko, Mashonaland East, Zimbabwe"
 birthPlace: "Italy"
 deathPlace: "Mashonaland East, Zimbabwe"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 10

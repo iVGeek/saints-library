@@ -11,7 +11,7 @@ born: "4th century, possibly in the Aquitaine region of modern France"
 died: "c.400 in Karden, Moselle (in modern Germany) of natural causes"
 birthPlace: "possiblythe Aquitaine region of modern France"
 deathPlace: "Moselle (modern Germany) of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 13

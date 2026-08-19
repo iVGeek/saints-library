@@ -13,7 +13,7 @@ born: "c.1637 at Dimples Hall, Lancashire, England"
 died: "hanged, drawn, and quartered on 19 July 1679 at Barrows Hill, Boughton, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 19 July 1679 at Barrows Hill, Boughton, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 19

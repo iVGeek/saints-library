@@ -16,7 +16,7 @@ searchAliases:
 deathYear: 588
 born: "in Ireland"
 died: "18 March 588 of natural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 3
   day: 18

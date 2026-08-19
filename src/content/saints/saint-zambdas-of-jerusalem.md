@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Jerusalem in the late 3rd and early 4th century. Legend says he is the one who brought the Theban Legion to Christianity. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 of natural causes"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 2
   day: 19

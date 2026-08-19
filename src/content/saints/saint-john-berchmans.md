@@ -11,7 +11,7 @@ born: "13 March 1599 at Driest, Brabant, Belgium"
 died: "12 August 1621 at Rome, Italy"
 birthPlace: "Brabant, Belgium"
 deathPlace: "Italy"
-region: "Italy"
+region: "China"
 feastDay:
   month: 8
   day: 13

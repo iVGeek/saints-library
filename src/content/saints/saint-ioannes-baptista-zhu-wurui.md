@@ -12,7 +12,7 @@ born: "c.1883 in Zhujiahe, Jingxian, Hebei, China"
 died: "dismembered and beaten to death with an ax on 19 July 1900 in Lujiazhuang, Jingxia, Hebei, China"
 birthPlace: "Jingxian, Hebei, China"
 deathPlace: "Jingxia, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 19

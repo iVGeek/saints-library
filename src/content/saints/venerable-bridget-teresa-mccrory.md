@@ -11,7 +11,7 @@ born: "21 January 1893 in Mountjoy, Tyrone, Northern Ireland"
 died: "21 January 1984 in Germantown, New York of natural causes"
 birthPlace: "Tyrone, Northern Ireland"
 deathPlace: "New Yorknatural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 1
   day: 1

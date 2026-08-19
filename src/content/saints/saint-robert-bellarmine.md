@@ -13,7 +13,7 @@ born: "4 October 1542 at Montepulciano, Tuscany, Italy as Roberto Francesco Romo
 died: "in the morning of 17 September 1621 at Rome, Italy of natural causes"
 birthPlace: "Tuscany, Italy as Roberto Francesco Romolo"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 9
   day: 17

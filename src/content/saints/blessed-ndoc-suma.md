@@ -9,7 +9,7 @@ born: "31 July 1887 in Nënshat, Lezhë, Albania"
 died: "22 April 1958 in Shkodrë, Albania"
 birthPlace: "Lezhë, Albania"
 deathPlace: "Albania"
-region: "England"
+region: "Austria"
 feastDay:
   month: 4
   day: 22

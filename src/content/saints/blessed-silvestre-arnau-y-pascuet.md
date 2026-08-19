@@ -9,7 +9,7 @@ born: "30 May 1911 in G&ograve;sol, Bergued&agrave;, Barcelona, Spain"
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "Bergued&agrave;, Barcelona, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 13

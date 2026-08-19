@@ -7,7 +7,7 @@ deathYear: 340
 born: "British Isles"
 died: "strangled to death on 28 October 340 in Rhenen, Netherlands"
 deathPlace: "Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 12

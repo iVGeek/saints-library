@@ -12,7 +12,7 @@ born: "10 June 1896 in Poniemon, Podlaskie, Poland"
 died: "2 May 1941 in Oswiecim (Auschwitz), Malopolskie, Poland"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "Malopolskie, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 2

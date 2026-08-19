@@ -9,7 +9,7 @@ born: "1766 in Ngoc Ðông, Hung Yên, Vietnam"
 died: "martyred on 15 July 1838 in Nam Ðinh, Vietnam"
 birthPlace: "Hung Yên, Vietnam"
 deathPlace: "Vietnam"
-region: "Italy"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 15

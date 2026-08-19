@@ -15,7 +15,7 @@ born: "634 in Northumbria, England"
 died: "709 at Oundle, Northhamptonshire, England"
 birthPlace: "England"
 deathPlace: "Northhamptonshire, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 24

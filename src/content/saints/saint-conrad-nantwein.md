@@ -18,7 +18,7 @@ born: "13th century in Bavaria, Germany"
 died: "burned at the stake on 7 August 1286 at Wolfratshausen, Germany"
 birthPlace: "Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 7

@@ -7,7 +7,7 @@ birthYear: 720
 deathYear: 802
 born: "720 in Bavaria (in modern Germany)"
 died: "c.802 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 17

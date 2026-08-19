@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Vitalis.jpg"
 deathYear: 625
 died: "he was struck in the head in 625 with a knife by a pimp who saw him leaving a brothel and wanted Vitalis to quit interfering with business in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 11

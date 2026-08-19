@@ -9,7 +9,7 @@ born: "626 at Landen, Belgium"
 died: "17 March 659 at Nivelles, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 3
   day: 17

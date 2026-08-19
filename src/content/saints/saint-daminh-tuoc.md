@@ -11,7 +11,7 @@ born: "c.1775 in Trung Lao, Nam Ðinh, Vietnam"
 died: "2 April 1839 in prison in Nam Ðinh, Vietnam as a result of the abuse he had received there"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam as a resultthe abuse he had received there"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 4
   day: 2

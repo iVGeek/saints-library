@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1145
 died: "1145 at Notre-Dame d'Orval Abbey near Villers-devant-Orval, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 8

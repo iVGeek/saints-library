@@ -10,7 +10,7 @@ deathYear: 1183
 born: "1085"
 died: "24 May 1183 in Carlisle, Scotland of natural causes"
 deathPlace: "Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 5
   day: 24

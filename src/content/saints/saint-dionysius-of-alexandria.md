@@ -11,7 +11,7 @@ deathYear: 265
 born: "c.190 in Alexandria, Egypt"
 died: "265 of natural causes"
 birthPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 8

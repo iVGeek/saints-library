@@ -11,7 +11,7 @@ born: "20 December 1877 in Tarazona, Zaragoza, Spain as Jacoba Martínez García
 died: "shot and stabbed on the street by Communists on 24 July 1936 in Guadalajara, Spain"
 birthPlace: "Zaragoza, Spaas Jacoba Martínez García"
 deathPlace: "Spain"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 7
   day: 24

@@ -8,7 +8,7 @@ searchAliases:
   - "Barses"
 deathYear: 379
 died: "March 379 somewhere in Egypt of natural causes"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 10
   day: 15

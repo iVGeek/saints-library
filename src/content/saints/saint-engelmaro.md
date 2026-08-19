@@ -7,7 +7,7 @@ born: "Bavaria, Germany"
 died: "night of 13 to 14 January 1100 near Passau, Germany"
 birthPlace: "Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 14

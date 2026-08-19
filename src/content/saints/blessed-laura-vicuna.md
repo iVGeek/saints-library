@@ -9,7 +9,7 @@ born: "5 April 1891 in at Santiago, Chile"
 died: "22 January 1904 at Junín de los Andes, Neuquén, Argentina"
 birthPlace: "Chile"
 deathPlace: "Neuquén, Argentina"
-region: "England"
+region: "Argentina"
 feastDay:
   month: 1
   day: 22

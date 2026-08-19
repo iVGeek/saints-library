@@ -13,7 +13,7 @@ born: "1126 in Bingen, Germany"
 died: "18 June 1164 at Bingen, Germany of natural causes"
 birthPlace: "Germany"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 6
   day: 18

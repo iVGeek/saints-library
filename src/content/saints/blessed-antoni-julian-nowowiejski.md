@@ -11,7 +11,7 @@ born: "11 February 1858 in Lubien, Poland"
 died: "died of starvation and abuse on 28 May 1941 at Dzialdowo death camp, occupied Poland"
 birthPlace: "Poland"
 deathPlace: "occupied Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 28

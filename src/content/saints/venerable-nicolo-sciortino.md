@@ -12,7 +12,7 @@ born: "10 September 1705 in Burgio, Agrigento, Italy as Nicolò"
 died: "16 June 1772 in his cell in the Capuchin convent in Palermo, Sicily, Italy of natural causes"
 birthPlace: "Agrigento, Italy as Nicolò"
 deathPlace: "Sicily, Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 4
   day: 24

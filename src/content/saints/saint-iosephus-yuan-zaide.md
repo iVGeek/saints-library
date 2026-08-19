@@ -14,7 +14,7 @@ born: "c.1766 in Peng Co., Sichuan, China"
 died: "strangled on 24 June 1817 in Chengdu, Sichuan, China"
 birthPlace: "Sichuan, China"
 deathPlace: "Sichuan, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 24

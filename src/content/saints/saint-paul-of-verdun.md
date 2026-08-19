@@ -7,7 +7,7 @@ searchAliases:
   - "Paulus"
 deathYear: 649
 died: "c.649"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 8

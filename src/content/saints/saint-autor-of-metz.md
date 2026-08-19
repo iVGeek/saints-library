@@ -10,7 +10,7 @@ searchAliases:
   - "Autore"
 deathYear: 830
 died: "relics enshrined in the monastery of Marmoutier in 830"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 9

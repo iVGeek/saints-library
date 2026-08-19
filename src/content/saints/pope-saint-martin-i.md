@@ -8,7 +8,7 @@ born: "at Todi, Tuscany, Italy"
 died: "655 at Cherson, Crimea (in modern Ukraine) from starvation"
 birthPlace: "Tuscany, Italy"
 deathPlace: "Crimea (modern Ukraine) from starvation"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 4
   day: 13

@@ -12,7 +12,7 @@ searchAliases:
 born: "France"
 died: "7th century in Soignies, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 17

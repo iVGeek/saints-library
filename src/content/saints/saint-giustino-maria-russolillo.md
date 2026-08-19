@@ -11,7 +11,7 @@ born: "18 January 1891 in Pianura, Naples, Italy"
 died: "2 August 1955 in Pianura, Naples, Italy of leukemia"
 birthPlace: "Naples, Italy"
 deathPlace: "Naples, Italyleukemia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 2

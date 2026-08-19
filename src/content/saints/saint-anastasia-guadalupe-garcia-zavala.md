@@ -13,7 +13,7 @@ born: "27 April 1878 in Zapopan, Jalisco, Mexico"
 died: "24 June 1963 in Guadalajara, Jalisco, Mexico of natural causes"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexiconatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 6
   day: 24

@@ -13,7 +13,7 @@ born: "1234 in Ascoli Piceno, March of Ancona, Italy"
 died: "19 April 1289 in Ascoli Piceno, Italy of natural causes"
 birthPlace: "MarchAncona, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 4
   day: 19

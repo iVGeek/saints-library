@@ -5,7 +5,7 @@ summary: "Born to a Protestant family, Peter converted to Catholicism. Worked in
 deathYear: 1651
 died: "hanged on 19 May (Whit Monday) 1651 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 5
   day: 19

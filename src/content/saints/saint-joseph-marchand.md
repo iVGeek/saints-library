@@ -9,7 +9,7 @@ born: "17 August 1803 at Passavant, Doubs, diocese of Besancon, France"
 died: "flesh ripped from his body with red hot tongs on 30 November 1835 at Tho Ðuc, Saigon, Vietnam"
 birthPlace: "Doubs, dioceseBesancon, France"
 deathPlace: "Saigon, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 30

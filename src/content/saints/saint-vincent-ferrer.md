@@ -10,7 +10,7 @@ deathYear: 1419
 born: "23 January 1350 in Valencia (part of modern Spain)"
 died: "5 April 1419 at Vannes, Brittany, France of natural causes"
 deathPlace: "Brittany, Francenatural causes"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 4
   day: 5

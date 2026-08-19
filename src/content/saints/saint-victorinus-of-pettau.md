@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 303
 born: "3rd century Greece"
 died: "303 or 304 (records vary)"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 11
   day: 2

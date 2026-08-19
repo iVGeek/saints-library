@@ -16,7 +16,7 @@ born: "1580 at Volodymyr, Lithuania (modern Ukraine) as John Kunsevyc"
 died: "struck in the head with a halberd, shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus"
 birthPlace: "Lithuania (modern Ukraine) as John Kunsevyc"
 deathPlace: "shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 11
   day: 12

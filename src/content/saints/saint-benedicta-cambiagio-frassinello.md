@@ -13,7 +13,7 @@ born: "2 October 1791 at Langasco, Campomorone, Italy as Benedetta Cambiagio"
 died: "21 March 1858 at Ronco Scrivia, Italy of natural causes"
 birthPlace: "Campomorone, Italy as Benedetta Cambiagio"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 21

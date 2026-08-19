@@ -14,7 +14,7 @@ born: "7th century Northumbria, England"
 died: "6 October, c.704, exact year unknown, of natural causes"
 birthPlace: "England"
 deathPlace: "c.704, exact year unknown,natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 10
   day: 6

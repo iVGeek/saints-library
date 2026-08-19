@@ -10,7 +10,7 @@ deathYear: 269
 born: "early 3rd century Neo-Caesarea, Cappadocia"
 died: "c.269"
 birthPlace: "Cappadocia"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 7

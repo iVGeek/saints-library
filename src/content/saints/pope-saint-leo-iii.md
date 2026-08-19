@@ -9,7 +9,7 @@ deathYear: 816
 born: "at Rome, Italy"
 died: "12 June 816"
 birthPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 12

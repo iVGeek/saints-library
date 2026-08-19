@@ -9,7 +9,7 @@ born: "25 July 1821 in Germersheim, Rhineland Palatinate (modern Germany)"
 died: "27 January 1862 in Pirmasens, Rhineland Palatinate (modern Germany) of natural causes"
 birthPlace: "Rhineland Palatinate (modern Germany)"
 deathPlace: "Rhineland Palatinate (modern Germany)natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 1
   day: 27

@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 432
 died: "432 at Fordun, Scotland of natural causes"
 deathPlace: "Scotlandnatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 7
   day: 6

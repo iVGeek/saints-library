@@ -9,7 +9,7 @@ born: "10 July 1910 in Mozdzanów, Wielkopolskie, Poland as Janina Szymkowiak"
 died: "29 August 1942 in Poznan, Wielkopolskie, Poland of tuberculosis of the pharynx"
 birthPlace: "Wielkopolskie, Poland as Janina Szymkowiak"
 deathPlace: "Wielkopolskie, Polandtuberculosis of the pharynx"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 29

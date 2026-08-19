@@ -19,7 +19,7 @@ born: 1st century
 died: c. 65
 birthPlace: Galilee, Israel
 deathPlace: Beirut, Lebanon
-region: Holy Land
+region: "Lebanon"
 centuries: [1]
 feastDay:
   month: 10

@@ -12,7 +12,7 @@ deathYear: 1268
 born: "13th century Galicia (in modern Poland)"
 died: "17 November 1268 near Cracow, Poland of natural causes"
 deathPlace: "Polandnatural causes"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 11
   day: 17

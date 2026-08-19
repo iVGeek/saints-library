@@ -9,7 +9,7 @@ born: "30 June 1884 in Lagoa Santa, Minas Gerais, Brazil"
 died: "21 December 1980 at the São João de Deus Hospital in Divinópolis, Minas Gerais, Brazil of natural causes"
 birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Minas Gerais, Brazilnatural causes"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 3
   day: 20

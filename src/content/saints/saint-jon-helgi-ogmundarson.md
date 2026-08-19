@@ -10,7 +10,7 @@ birthYear: 1052
 deathYear: 1121
 born: "1052"
 died: "1121 of natural causes"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 3
   day: 8

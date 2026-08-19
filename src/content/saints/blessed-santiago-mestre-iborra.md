@@ -11,7 +11,7 @@ born: "10 April 1909 in Rafelbuñol, Valencia, Spain"
 died: "28 September 1936 in Rafelbuñol, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 9
   day: 29

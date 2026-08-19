@@ -9,7 +9,7 @@ born: "21 September 1883 in Józefka, Sláskie, Poland"
 died: "gassed on 19 May 1942 in the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Sláskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 19

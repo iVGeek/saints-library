@@ -7,7 +7,7 @@ searchAliases:
   - "Barsanofio"
 deathYear: 540
 died: "c.540"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 4
   day: 11

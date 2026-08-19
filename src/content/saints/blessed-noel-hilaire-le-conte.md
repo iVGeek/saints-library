@@ -9,7 +9,7 @@ born: "3 October 1765 in Chartres, Eure-et-Loir, France"
 died: "17 August 1794 aboard the prison ship Deux-Associés, in Rochefort, Charente-Maritime, France"
 birthPlace: "Eure-et-Loir, France"
 deathPlace: "Rochefort, Charente-Maritime, France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 17

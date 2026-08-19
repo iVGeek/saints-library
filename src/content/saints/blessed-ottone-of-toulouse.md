@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1493
 died: "poisoned in prison in Constantinople (modern Istanbul, Turkey) in 1493"
 deathPlace: "Turkey)1493"
-region: "France"
+region: "Turkey"
 feastDay:
   month: 12
   day: 22

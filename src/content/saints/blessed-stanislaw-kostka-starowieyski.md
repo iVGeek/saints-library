@@ -11,7 +11,7 @@ born: "11 May 1895 in Ustrobna, Podkarpackie, Poland"
 died: "13 April 1941 in Dachau, Oberbayern, Germany"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 6
   day: 4

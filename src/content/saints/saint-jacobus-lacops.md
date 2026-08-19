@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1572
 died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 7
   day: 9

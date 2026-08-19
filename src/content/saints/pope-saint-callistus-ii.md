@@ -13,7 +13,7 @@ born: "c.1065 Quingey, France"
 died: "13 December 1124 in Rome, Italy of natural causes"
 birthPlace: "France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 12

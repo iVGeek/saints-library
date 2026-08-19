@@ -12,7 +12,7 @@ born: "11 December 1882 in Sant Pere de Riudebitlles, Barcelona, Spain"
 died: "shot on the night of 27 July 1936 in Manresa, Barcelona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 27

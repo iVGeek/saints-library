@@ -14,7 +14,7 @@ born: "17 November 1631 at Aviano, Italy as Carlo Domenico Cristofori"
 died: "13 August 1699 of cancer in Vienna, Austria"
 birthPlace: "Italy as Carlo Domenico Cristofori"
 deathPlace: "Austria"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 8
   day: 13

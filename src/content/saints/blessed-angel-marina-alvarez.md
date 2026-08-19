@@ -9,7 +9,7 @@ born: "28 March 1890 in Barruelo de los Carabeos, Santander, Spain"
 died: "14 August 1936 in El Picado, Almagro, Ciudad Real, Spain"
 birthPlace: "Santander, Spain"
 deathPlace: "Almagro, Ciudad Real, Spain"
-region: "Spain"
+region: "Venezuela"
 feastDay:
   month: 8
   day: 14

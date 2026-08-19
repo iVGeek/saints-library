@@ -12,7 +12,7 @@ born: "7 September 1885 in Onzillon, Haute-Loire, France"
 died: "16 April 1966 in San Juan, Puerto Rico of natural causes"
 birthPlace: "Haute-Loire, France"
 deathPlace: "Puerto Riconatural causes"
-region: "France"
+region: "Caribbean"
 feastDay:
   month: 1
   day: 1

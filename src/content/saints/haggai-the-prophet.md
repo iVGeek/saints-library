@@ -10,7 +10,7 @@ searchAliases:
   - "Haggaios"
 deathYear: 516
 died: "c.516 BC"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 16

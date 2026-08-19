@@ -8,7 +8,7 @@ searchAliases:
   - "Flaviano…"
 deathYear: 449
 died: "449"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 2
   day: 17

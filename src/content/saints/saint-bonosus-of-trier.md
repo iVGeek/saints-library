@@ -7,7 +7,7 @@ searchAliases:
   - "Bonoso"
 deathYear: 373
 died: "c.373 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 17

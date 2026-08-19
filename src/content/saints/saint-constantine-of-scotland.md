@@ -4,7 +4,7 @@ honorific: Saint
 summary: "King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr."
 deathYear: 874
 died: "874"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 4
   day: 2

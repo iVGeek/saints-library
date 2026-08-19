@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1236
 born: "12th century Germany"
 died: "10 December 1236 of natural causes"
-region: "Germany"
+region: "Hungary"
 feastDay:
   month: 12
   day: 10

@@ -16,7 +16,7 @@ born: "1811 at Albissola Marina, Liguria, diocese of Savona, Italy as Benedetta 
 died: "7 December 1888 at Savona, Italy of natural causes"
 birthPlace: "Liguria, dioceseSavona, Italy as Benedetta Rossello"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 12
   day: 7

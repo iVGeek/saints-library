@@ -15,7 +15,7 @@ born: "8 June 1809 in La Braja di Piovà, Asti, Italy as Lorenzo Antonio Massaia
 died: "4.30 am on 6 August 1889 in San Giorgio a Cremano, Naples, Italy of cardio-circulatory collapse"
 birthPlace: "Asti, Italy as Lorenzo Antonio Massaia"
 deathPlace: "Naples, Italycardio-circulatory collapse"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 9
   day: 8

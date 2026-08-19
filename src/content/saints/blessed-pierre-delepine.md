@@ -8,7 +8,7 @@ born: "24 May 1732 in Marigné, Maine-et-Loire, France"
 died: "martyred on 16 April 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

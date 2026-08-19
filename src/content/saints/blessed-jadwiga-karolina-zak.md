@@ -12,7 +12,7 @@ born: "27 December 1892 in Oswiecim, Malopolskie, Poland as Jadwiga Karolina Zak
 died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts’, in Nazi occupied Belarus"
 birthPlace: "Malopolskie, Poland as Jadwiga Karolina Zak"
 deathPlace: "Hrodzyenskaya voblasts’,Nazi occupied Belarus"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 1

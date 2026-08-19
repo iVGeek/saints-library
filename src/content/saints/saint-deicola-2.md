@@ -5,7 +5,7 @@ summary: "Seventh-century evangelist in the Norfolk and Sussex regions of Englan
 searchAliases:
   - "Dicul"
 born: "Ireland"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 4
   day: 18

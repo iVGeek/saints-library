@@ -12,7 +12,7 @@ born: "Lisbon, Portugal or Cordova, Spain (sources vary)"
 died: "c.1430 at Escalaceli near Cordova, Spain of natural causes, and buried there"
 birthPlace: "Portugal or Cordova, Spa(sources vary)"
 deathPlace: "Spaof natural causes, and buried there"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 2
   day: 19

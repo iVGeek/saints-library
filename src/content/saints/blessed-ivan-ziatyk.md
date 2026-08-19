@@ -13,7 +13,7 @@ born: "26 December 1899 at Odrekhiv, in present day Poland"
 died: "Easter Sunday, 17 May 1952 from injuries received in a beating three days earlier at Ozerlah, Irkhutsk, Russia"
 birthPlace: "present day Poland"
 deathPlace: "17 May 1952injuries received in a beating three days earlier at Ozerlah, Irkhutsk, Russia"
-region: "Ireland"
+region: "Poland"
 feastDay:
   month: 5
   day: 17

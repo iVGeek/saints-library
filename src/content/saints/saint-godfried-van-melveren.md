@@ -11,7 +11,7 @@ born: "1512 in Melveren, Sint-Truiden, Limburg, Netherlands"
 died: "hanged on 9 July 1572 at Brielle, Zuid-Holland, Netherlands"
 birthPlace: "Sint-Truiden, Limburg, Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 9

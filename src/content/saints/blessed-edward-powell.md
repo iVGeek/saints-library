@@ -9,7 +9,7 @@ deathYear: 1540
 born: "1478 in Wales"
 died: "hanged, drawn, and quartered on 30 July 1540 at Smithfield, London, England"
 deathPlace: "drawn, and quartered on 30 July 1540 at Smithfield, London, England"
-region: "France"
+region: "England"
 feastDay:
   month: 7
   day: 30

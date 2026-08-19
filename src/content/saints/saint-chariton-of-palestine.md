@@ -10,7 +10,7 @@ deathYear: 350
 born: "Iconium, Lycaonia, Asia Minor"
 died: "c.350 of natural causes at an advanced age"
 birthPlace: "Lycaonia, Asia Minor"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 9
   day: 28

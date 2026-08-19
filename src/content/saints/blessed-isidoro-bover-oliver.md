@@ -9,7 +9,7 @@ born: "2 May 1890 in Vinaroz, Castellón, Spain"
 died: "2 October 1936 in Castellón, Spain"
 birthPlace: "Castellón, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 10
   day: 2

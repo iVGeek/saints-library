@@ -11,7 +11,7 @@ born: "c.1821 in Doãn Trung, Thái Bình, Vietnam"
 died: "burned at the stake on 6 June 1862 in Nam Ðinh, Vietnam"
 birthPlace: "Thái Bình, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 6

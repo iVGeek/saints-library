@@ -14,7 +14,7 @@ born: "c.1440 in Como, Italy"
 died: "Good Friday and Feast of the Annunciation, 25 March 1513 in the  Santa Maria in Valverde convent in Forlì, Emilia-Romagna,Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "25 March 1513the  Santa Maria in Valverde convent in Forlì, Emilia-Romagna, Italy of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 25

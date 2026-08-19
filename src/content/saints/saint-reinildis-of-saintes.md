@@ -17,7 +17,7 @@ born: "c.630 in her father's house in Kontich, Belgium"
 died: "beheaded c.700 outside a chapel in Saintes (in modern Halle), Belgium"
 birthPlace: "Belgium"
 deathPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 16

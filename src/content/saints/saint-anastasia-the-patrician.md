@@ -11,7 +11,7 @@ searchAliases:
   - "Anastasius…."
 deathYear: 507
 died: "c.507 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 10

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1870
 died: "24 October 1870 in a Cistercian monastery at Fontfroide, Narbonne, France"
 deathPlace: "Narbonne, France"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 10
   day: 24

@@ -9,7 +9,7 @@ searchAliases:
   - "Trolla"
   - "Trollhaena"
 born: "Colossse in Asia Minor"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 10
   day: 8

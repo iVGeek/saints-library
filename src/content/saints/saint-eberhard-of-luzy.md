@@ -7,7 +7,7 @@ searchAliases:
 born: "8th century Italy"
 died: "Luzy, Haute-Marne, France of natural causes"
 deathPlace: "Haute-Marne, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 15

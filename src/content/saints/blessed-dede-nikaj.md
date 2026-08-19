@@ -13,7 +13,7 @@ born: "19 July 1900 in Shkodër, Albania"
 died: "shot on 11 March 1948 in Shkodër, Albania"
 birthPlace: "Albania"
 deathPlace: "Albania"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 3
   day: 11

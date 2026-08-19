@@ -18,7 +18,7 @@ searchAliases:
 deathYear: 660
 born: "late 6th-century in the Dauphiné region of modern France"
 died: "660 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 3

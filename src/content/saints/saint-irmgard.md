@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1100
 died: "c.1100 in Cologne, Lotaringia (in modern Germany of natural causes"
 deathPlace: "Lotaringia (modern Germany of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 9
   day: 4

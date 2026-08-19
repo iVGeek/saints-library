@@ -7,7 +7,7 @@ deathYear: 491
 born: "Alexandria, Egypt"
 died: "491 of natural causes"
 birthPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 9
   day: 11

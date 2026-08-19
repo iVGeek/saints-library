@@ -5,7 +5,7 @@ summary: "Priest and scribe who left Babylon in the 7th year of Artaxerxes (458 
 image: "http://catholicsaints.info/wp-content/uploads/img-Esdras-the-Prophet.jpg"
 searchAliases:
   - "Ezra"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 13

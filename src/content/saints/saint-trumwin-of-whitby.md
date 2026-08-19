@@ -12,7 +12,7 @@ searchAliases:
   - "Trumuini…"
 deathYear: 704
 died: "c.704 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 2
   day: 10

@@ -9,7 +9,7 @@ born: "21 April 1904 at Hrabské, Prešovský kraj, eastern Slovakia"
 died: "23 July 1976 at Prešov, Prešovský kraj, Slovakia"
 birthPlace: "Prešovský kraj, eastern Slovakia"
 deathPlace: "Prešovský kraj, Slovakia"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 23

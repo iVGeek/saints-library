@@ -9,7 +9,7 @@ born: "6 October 1552 in Macerata, Italy"
 died: "11 May 1610 in Beijing, China"
 birthPlace: "Italy"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 1

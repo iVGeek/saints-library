@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 306
 died: "c.306 at Ancyra, Galatia"
 deathPlace: "Galatia"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 22

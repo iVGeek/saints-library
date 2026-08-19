@@ -11,7 +11,7 @@ born: "17 November 1910 in Czyczkowy, Kujawsko-Pomorskie, Poland"
 died: "beaten to death by a guard on 16 October 1941 in the prison camp at Oswiecim (Auschwitz), Malopolskie, occupied Poland"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Malopolskie, occupied Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 16

@@ -15,7 +15,7 @@ searchAliases:
 birthYear: 701
 born: "c.701 at Wessex, England"
 birthPlace: "England"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 18

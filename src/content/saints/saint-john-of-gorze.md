@@ -10,7 +10,7 @@ deathYear: 974
 born: "c.900 at Vandières, Meurthe-et-Moselle, France"
 died: "7 March 974 of natural causes"
 birthPlace: "Meurthe-et-Moselle, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 27

@@ -11,7 +11,7 @@ deathYear: 656
 born: "631"
 died: "1 February 656 at Metz, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 1

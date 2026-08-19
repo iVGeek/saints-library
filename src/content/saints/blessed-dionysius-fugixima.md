@@ -11,7 +11,7 @@ born: "at Aitzu, Arima, Japan"
 died: "burned alive on 1 November 1622 at Shimabara, Nagasaki, Japan"
 birthPlace: "Arima, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 1

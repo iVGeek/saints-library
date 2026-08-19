@@ -9,7 +9,7 @@ deathYear: 860
 born: "8th century on the Island of Aegina, Greece"
 died: "14 August 860 at Timia of natural causes"
 birthPlace: "Greece"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 18

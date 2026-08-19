@@ -9,7 +9,7 @@ born: "3 February 1913 in Milan, Italy"
 died: "8 December 1972 in Campo Grande, Mato Grosso do Sul, Brazil of a heart attack"
 birthPlace: "Italy"
 deathPlace: "Mato Grosso do Sul, Brazila heart attack"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

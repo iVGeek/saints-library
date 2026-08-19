@@ -11,7 +11,7 @@ born: "26 June 1847 at Aosta, Italy"
 died: "18 December 1916 at Borgaro Torinese, Turin, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Turin, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 18

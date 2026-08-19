@@ -7,7 +7,7 @@ born: "Cuneo, Italy"
 died: "11 February 1322 in Valencia, Spain"
 birthPlace: "Italy"
 deathPlace: "Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 11

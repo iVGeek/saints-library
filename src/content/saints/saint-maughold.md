@@ -22,7 +22,7 @@ searchAliases:
   - "Morgan"
 deathYear: 488
 died: "c.488"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 4
   day: 27

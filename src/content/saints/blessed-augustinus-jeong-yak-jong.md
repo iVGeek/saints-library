@@ -9,7 +9,7 @@ born: "1760 in Gwangju, Gyeonggi-do, South Korea"
 died: "beheaded on 8 April 1801 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 4
   day: 8

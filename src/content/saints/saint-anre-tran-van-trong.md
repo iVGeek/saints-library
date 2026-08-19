@@ -10,7 +10,7 @@ born: "c.1808 in Kim Long, Thùa Thiên, Vietnam"
 died: "beheaded on 28 November 1835 in An Hòa, Quang Nam, Vietnam"
 birthPlace: "Thùa Thiên, Vietnam"
 deathPlace: "Quang Nam, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 28

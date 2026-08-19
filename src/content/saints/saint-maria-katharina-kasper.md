@@ -13,7 +13,7 @@ born: "26 May 1820 in Dernbach, Westerwaldkreis, Germany"
 died: "2 February 1898 in Dernbach, Westerwaldkreis, Germany of complications following a heart attack on 27 January 1898"
 birthPlace: "Westerwaldkreis, Germany"
 deathPlace: "Westerwaldkreis, Germanycomplications following a heart attack on 27 January 1898"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 2
   day: 2

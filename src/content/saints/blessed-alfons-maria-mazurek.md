@@ -14,7 +14,7 @@ born: "1 March 1891 at Baranówka, Lubelskie, Poland as Józef Mazurek"
 died: "beaten then shot on 28 August 1944 in Nawojowa Góra, Malopolskie, Poland"
 birthPlace: "Lubelskie, Poland as Józef Mazurek"
 deathPlace: "Malopolskie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 8
   day: 28

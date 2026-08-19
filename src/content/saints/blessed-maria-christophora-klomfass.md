@@ -12,7 +12,7 @@ born: "19 August 1903 in Raszag (a.k.a. Raschung), Biskupiec, Poland as Marta"
 died: "stabbed repeatedly with a bayonet on 22 January 1945 in Olsztyn (a.k.a. Allenstein), Poland"
 birthPlace: "Biskupiec, Poland as Marta"
 deathPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 22

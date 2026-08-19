@@ -15,7 +15,7 @@ born: "Rennes, France"
 died: "c.730 at Parma, Italy of natural causes"
 birthPlace: "France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 22

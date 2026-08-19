@@ -9,7 +9,7 @@ deathYear: 1127
 born: "11th century at Hiltensweiler, Germany"
 died: "some time after 1127"
 birthPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 5
   day: 1

@@ -16,7 +16,7 @@ born: "1488 at Fuentellana, Castile, Spain"
 died: "8 September 1555 at Valencia, Spain of angina pectoris"
 birthPlace: "Castile, Spain"
 deathPlace: "Spaof angina pectoris"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 8

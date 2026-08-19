@@ -9,7 +9,7 @@ born: "1803 in Gwangju, Gyeonggi-do, South Korea"
 died: "strangled in 20 September 1846 in Seoul Prison, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 20

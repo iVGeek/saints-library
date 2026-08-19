@@ -10,7 +10,7 @@ deathYear: 420
 born: "Thessalonica, Greece"
 died: "420 of natural causes"
 birthPlace: "Greece"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 26

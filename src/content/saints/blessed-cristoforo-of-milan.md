@@ -10,7 +10,7 @@ born: "15th century Milan, Italy"
 died: "Good Friday, 15 April 1530 at the Franciscan convent in Ciudad Rodrigo, Salamanca, Spain of natural causes"
 birthPlace: "Italy"
 deathPlace: "15 April 1530 at the Franciscan conventCiudad Rodrigo, Salamanca, Spain of natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 15

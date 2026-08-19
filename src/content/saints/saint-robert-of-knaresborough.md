@@ -20,7 +20,7 @@ born: "c.1160 in York, England"
 died: "24 September 1218 in Knaresborough, Yorkshire, England of natural causes"
 birthPlace: "England"
 deathPlace: "Yorkshire, Englandnatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 9
   day: 24

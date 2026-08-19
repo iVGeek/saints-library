@@ -9,7 +9,7 @@ born: "26 May 1900 in Ruppach, diocese of Limburg, Westerwald, Germany"
 died: "22 February 1945 in cell block 17 of the Dachau concentration camp, Germany of typhoid he had contracted while caring for fellow prisoners"
 birthPlace: "dioceseLimburg, Westerwald, Germany"
 deathPlace: "Germanytyphoid he had contracted while caring for fellow prisoners"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 2
   day: 22

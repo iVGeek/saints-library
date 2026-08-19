@@ -7,7 +7,7 @@ searchAliases:
   - "D&eacute;agl&aacute;n"
 born: "5th century at Desi, Waterford, Ireland"
 birthPlace: "Waterford, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 24

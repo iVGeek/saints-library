@@ -13,7 +13,7 @@ born: "8 September 1570 in Lucca, Tuscany (in modern Italy)"
 died: "at 2.30am on 17 October 1647 at the Piarist motherhouse in Rome, Italy of natural causes"
 birthPlace: "Tuscany (modern Italy)"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 10
   day: 17

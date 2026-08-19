@@ -9,7 +9,7 @@ born: "19 September 1886 at Zapop&aacute;n, diocese of Guadalajara, Jalisco, Mex
 died: "hanged from a mesquite tree on 17 January 1927 at Tecolotlan, Jalisco, Mexico"
 birthPlace: "dioceseGuadalajara, Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 1
   day: 17

@@ -12,7 +12,7 @@ born: "14 November 1601 at Ri, Normandy, France"
 died: "19 August 1680 at Caen, Normandy, France"
 birthPlace: "Normandy, France"
 deathPlace: "Normandy, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 19

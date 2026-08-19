@@ -9,7 +9,7 @@ born: "11 June 1716 in Paris, France"
 died: "21 January 1794 in Laval, Mayenne, France"
 birthPlace: "France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 21

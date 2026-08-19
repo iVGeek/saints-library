@@ -9,7 +9,7 @@ born: "12 March 1893 in Enguera, Valencia, Spain"
 died: "29 December 1936 in Picadero de Paterna, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 12
   day: 29

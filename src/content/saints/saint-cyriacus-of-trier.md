@@ -15,7 +15,7 @@ searchAliases:
 born: "3rd century Poitiers, France"
 died: "4th century of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 6

@@ -9,7 +9,7 @@ born: "c.1400 at Cracow, Poland"
 died: "8 February 1471 at Cracow, Poland of natural causes"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 2
   day: 8

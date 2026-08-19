@@ -11,7 +11,7 @@ birthYear: 760
 deathYear: 705
 born: "c.760 BC"
 died: "stoned to death c.705 BC at age 55 in Egypt"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 1

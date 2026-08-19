@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 392
 died: "c.392 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 3
   day: 17

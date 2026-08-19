@@ -12,7 +12,7 @@ born: "c.980 in Friesach, Kärnten, Austria"
 died: "29 June 1045 in Gurk, Kärnten, Austria of natural causes"
 birthPlace: "Kärnten, Austria"
 deathPlace: "Kärnten, Austrianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 6
   day: 29

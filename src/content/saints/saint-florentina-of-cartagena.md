@@ -10,7 +10,7 @@ deathYear: 636
 born: "Cartagena, Spain"
 died: "c.636 of natural causes"
 birthPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 28

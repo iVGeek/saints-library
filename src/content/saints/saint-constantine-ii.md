@@ -15,7 +15,7 @@ searchAliases:
   - "Custennin"
 deathYear: 874
 died: "bled to death in 874 in a cave near Crail after his right arm was cut off by Danish pirates"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 11

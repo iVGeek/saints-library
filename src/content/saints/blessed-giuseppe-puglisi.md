@@ -11,7 +11,7 @@ born: "15 September 1937 in Brancaccio, Palermo, Italy"
 died: "15 September 1993 at piazzale Anita Garibaldi 3, Palermo, Italy"
 birthPlace: "Palermo, Italy"
 deathPlace: "Palermo, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 21

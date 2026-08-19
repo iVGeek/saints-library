@@ -8,7 +8,7 @@ searchAliases:
   - "Abel of Lobbes"
 born: "in the British Isles, most likely in Ireland"
 birthPlace: "most likelyIreland"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 5

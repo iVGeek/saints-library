@@ -12,7 +12,7 @@ born: "13 June 1849 in Trigolo, Cremona, Kingdom of Lombardy-Venetia (modern Ita
 died: "10 December 1909 in his convent cell in Bergamo, Kingdom of Italy of a brain aneurysm"
 birthPlace: "Cremona, KingdomLombardy-Venetia (modern Italy)"
 deathPlace: "KingdomItaly of a brain aneurysm"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 10

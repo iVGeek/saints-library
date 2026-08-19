@@ -9,7 +9,7 @@ searchAliases:
   - "Autige of Langres"
 died: "in Saint-Anthot, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 14

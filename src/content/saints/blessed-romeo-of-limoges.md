@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1380
 died: "1380 at Lucca, Italy of plague while on pilgrimage"
 deathPlace: "Italyplague while on pilgrimage"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 5

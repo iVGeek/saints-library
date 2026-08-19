@@ -13,7 +13,7 @@ born: "16 December 1865 in Vigolo Vattaro, Trent, Italy as Amabile Lucia Visinta
 died: "9 July 1942 at Ipiranga, Brazil of diabetic complications"
 birthPlace: "Trent, Italy as Amabile Lucia Visintainer"
 deathPlace: "Brazildiabetic complications"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 7
   day: 9

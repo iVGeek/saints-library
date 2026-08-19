@@ -12,7 +12,7 @@ born: "15 February 1830 in Susa, Piedmont, Italy"
 died: "3 May 1903 in Susa, Piedmont, Italy"
 birthPlace: "Piedmont, Italy"
 deathPlace: "Piedmont, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 3

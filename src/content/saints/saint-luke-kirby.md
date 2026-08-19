@@ -7,7 +7,7 @@ deathYear: 1582
 born: "c.1549 in northern England"
 died: "hanged, drawn and quartered on 30 May 1582 at Tyburn, London, England"
 deathPlace: "drawn and quartered on 30 May 1582 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 30

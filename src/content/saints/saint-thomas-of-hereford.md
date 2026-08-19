@@ -15,7 +15,7 @@ born: "c.1218 in Hambledon, Buckinghamshire, England"
 died: "25 August 1282 in Ferento, Montefiascone, Italy of natural causes"
 birthPlace: "Buckinghamshire, England"
 deathPlace: "Montefiascone, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 25

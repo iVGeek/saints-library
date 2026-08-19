@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 693
 born: "Ireland"
 died: "c.693"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 7

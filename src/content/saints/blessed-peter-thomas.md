@@ -11,7 +11,7 @@ born: "c.1305 in southern Perigord, France"
 died: "1366 at Famagorta, Cyprus from wounds received in a military action in Alexandria, Egypt in 1365"
 birthPlace: "France"
 deathPlace: "Cypruswounds received in a military action in Alexandria, Egypt in 1365"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 1
   day: 6

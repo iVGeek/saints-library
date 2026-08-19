@@ -11,7 +11,7 @@ born: "15 October 1873 in Fiume Veneto, Pordenone, Italy"
 died: "30 January 1935 in Venice, Italy of natural causes"
 birthPlace: "Pordenone, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

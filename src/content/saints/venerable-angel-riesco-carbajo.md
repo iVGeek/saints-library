@@ -9,7 +9,7 @@ born: "9 July 1902 in Bercianos de Vidriales, Zamora, Spain"
 died: "2 July 1972 in La Bañeza, León, Spain of a heart attack"
 birthPlace: "Zamora, Spain"
 deathPlace: "León, Spaof a heart attack"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 7
   day: 25

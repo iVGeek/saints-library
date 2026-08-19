@@ -12,7 +12,7 @@ born: "8 March 1890 in Lwów, Poland (modern L’viv, L’vivs’ka oblast’, U
 died: "from trauma resulting from having a charged fire hose stuffed down his throat on 6 June 1940 in the prison camp at Sachsenhausen-Oranienburg, Oberhavel, Germany"
 birthPlace: "Poland (modern L’viv, L’vivs’ka oblast’, Ukraine)"
 deathPlace: "Oberhavel, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 6
   day: 6

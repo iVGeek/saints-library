@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 618
 died: "stabbed to death by sword on Easter Sunday in 618 on Eigg Island, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 4
   day: 17

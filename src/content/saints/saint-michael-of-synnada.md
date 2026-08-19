@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 826
 died: "826 in Eudokiadu, Turkey of natural causes"
 deathPlace: "Turkeynatural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 23

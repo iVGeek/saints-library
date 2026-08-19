@@ -10,7 +10,7 @@ deathYear: 734
 born: "Ireland"
 died: "c.734 on Inch Cailleach, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 7

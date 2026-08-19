@@ -6,7 +6,7 @@ searchAliases:
   - "Enfrid"
 deathYear: 1192
 died: "27 March 1192 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 27

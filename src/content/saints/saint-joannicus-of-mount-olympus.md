@@ -12,7 +12,7 @@ searchAliases:
   - "Ioninicus…."
 birthYear: 754
 born: "c.754 at Bithynia (in modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 3

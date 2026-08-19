@@ -11,7 +11,7 @@ born: "1803 in Icheon, Gyeonggi-do, South Korea"
 died: "25 November 1838 in Seoul Prison, South Korea of abuse received in prison"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "South Koreaabuse received in prison"
-region: "England"
+region: "Korea"
 feastDay:
   month: 11
   day: 25

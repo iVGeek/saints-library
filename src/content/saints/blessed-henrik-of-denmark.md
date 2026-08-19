@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1415
 died: "13 March 1415 at the Hospital of Saints Cosmas and Damian in Perugia, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 3
   day: 13

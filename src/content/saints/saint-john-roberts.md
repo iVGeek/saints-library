@@ -9,7 +9,7 @@ born: "1577 at Trawsfynydd, Merionethshire, Gwynedd, northern Wales"
 died: "hanged, drawn, and quartered on 10 December 1610 at Tyburn, London, England"
 birthPlace: "Merionethshire, Gwynedd, northern Wales"
 deathPlace: "drawn, and quartered on 10 December 1610 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 10

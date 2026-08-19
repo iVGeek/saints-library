@@ -20,7 +20,7 @@ deathYear: 718
 born: "probably in France"
 died: "718 in Salzburg, Austria"
 deathPlace: "Austria"
-region: "France"
+region: "Austria"
 feastDay:
   month: 3
   day: 27

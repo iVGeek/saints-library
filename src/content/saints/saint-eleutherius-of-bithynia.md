@@ -9,7 +9,7 @@ searchAliases:
   - "Eleuterio of…"
 deathYear: 305
 died: "beheaded c.305 in Bithynia"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 8
   day: 4

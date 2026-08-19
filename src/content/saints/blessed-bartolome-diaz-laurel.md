@@ -8,7 +8,7 @@ born: "1599 in “El Pozo de la Nación”, Acapulco, Guerrero, Mexico"
 died: "17 August 1627 in Nagasaki, Japan"
 birthPlace: "Acapulco, Guerrero, Mexico"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 17

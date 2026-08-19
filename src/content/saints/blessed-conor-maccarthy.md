@@ -6,7 +6,7 @@ deathYear: 1653
 born: "Irish"
 died: "5 June 1653 in Killarney, Kerry, Ireland"
 deathPlace: "Kerry, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 5

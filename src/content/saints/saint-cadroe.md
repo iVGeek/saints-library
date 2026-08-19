@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 976
 born: "Scottish"
 died: "976 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 3
   day: 6

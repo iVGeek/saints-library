@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Apollinaris-Sync
 searchAliases:
   - "Apollinaria"
   - "Dorotheus"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 5

@@ -8,7 +8,7 @@ born: "c.1590 in Arie, Nagasaki, Japan"
 died: "17 May 1627 on Mount Unzen, near Shimabara, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "near Shimabara, Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 5
   day: 17

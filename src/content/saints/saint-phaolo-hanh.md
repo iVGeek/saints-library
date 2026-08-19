@@ -11,7 +11,7 @@ born: "c.1826 in Cho Quán, Gia Ðinh, Vietnam"
 died: "beheaded on 28 May 1859 at Saigon (modern Ho Chi Minh City), Vietnam"
 birthPlace: "Gia Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 28

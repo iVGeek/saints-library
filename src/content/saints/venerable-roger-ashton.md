@@ -7,7 +7,7 @@ born: "Croston, Lancashire, England"
 died: "hanged, drawn, and quartered on 23 June 1592 at Tyburn, London, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 23 June 1592 at Tyburn, London, England"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 29

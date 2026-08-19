@@ -14,7 +14,7 @@ born: "1 February 1875 in Ghazir, Kesrwan, Jabal Lubnan, Lebanon"
 died: "26 June 1954 in Beirut, Lebanon of natural causes while holding a cross"
 birthPlace: "Kesrwan, Jabal Lubnan, Lebanon"
 deathPlace: "Lebanonnatural causes while holding a cross"
-region: "England"
+region: "Syria"
 feastDay:
   month: 6
   day: 26

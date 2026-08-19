@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 206
 died: "c.206 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 28

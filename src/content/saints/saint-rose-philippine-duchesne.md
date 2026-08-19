@@ -12,7 +12,7 @@ born: "29 August 1769 at Grenoble, France"
 died: "18 November 1852 at Saint Charles, Missouri of natural causes"
 birthPlace: "France"
 deathPlace: "Missourinatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 18

@@ -10,7 +10,7 @@ deathYear: 1876
 born: "3 January 1819 at Aachen, Germany"
 died: "14 December 1876 at Aachen Germany of natural causes"
 birthPlace: "Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 14

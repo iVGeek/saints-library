@@ -6,7 +6,7 @@ searchAliases:
   - "Lucerio"
 deathYear: 740
 died: "740 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 10

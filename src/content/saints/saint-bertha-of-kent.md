@@ -12,7 +12,7 @@ deathYear: 612
 born: "539 in modern France"
 died: "612 Canterbury, Kent, England of natural causes"
 deathPlace: "Kent, Englandnatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 5
   day: 1

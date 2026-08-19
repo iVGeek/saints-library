@@ -11,7 +11,7 @@ deathYear: 713
 born: "c.640"
 died: "713 in Lobbes, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 18

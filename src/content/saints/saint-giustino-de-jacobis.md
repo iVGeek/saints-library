@@ -12,7 +12,7 @@ born: "9 October 1800 at San Fele, Luciana, Italy"
 died: "31 July 1860 on the side of a road near Halai of a tropical fever in the valley of Alghedien Zula, Semenawi Keih Bahri, Eritrea while on a missionary trip"
 birthPlace: "Luciana, Italy"
 deathPlace: "Semenawi Keih Bahri, Eritrea while on a missionary trip"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 7
   day: 31

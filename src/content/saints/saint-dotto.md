@@ -2,7 +2,7 @@
 name: "Saint Dotto"
 honorific: Saint
 summary: "Sixth century abbot of a monastery in the Orkney Islands, Scotland."
-region: "England"
+region: "Scotland"
 feastDay:
   month: 4
   day: 9

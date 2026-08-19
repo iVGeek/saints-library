@@ -11,7 +11,7 @@ born: "19 January 1813 in Giuliano di Roma, Italy"
 died: "6 May 1887 in Cairo, Egypt of natural causes"
 birthPlace: "Italy"
 deathPlace: "Egyptnatural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 5
   day: 6

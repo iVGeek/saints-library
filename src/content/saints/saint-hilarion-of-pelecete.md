@@ -5,7 +5,7 @@ summary: "Eighth-century hegumen (abbot) of the Pelecete Abbey on Mount Olympus,
 image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Hilarion-of-Pelecete.jpg"
 searchAliases:
   - "Ilarione"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 28

@@ -11,7 +11,7 @@ born: "27 July 1911 in Casca, Rio Grande do Sul, Brazil"
 died: "31 May 1972 in Flores da Cunha, Rio Grande do Sul, Brazil of a stroke"
 birthPlace: "Rio Grande do Sul, Brazil"
 deathPlace: "Rio Grande do Sul, Brazila stroke"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 2
   day: 2

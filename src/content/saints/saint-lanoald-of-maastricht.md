@@ -15,7 +15,7 @@ deathYear: 668
 born: "Lombardy, Italy"
 died: "c.668"
 birthPlace: "Italy"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 3
   day: 19

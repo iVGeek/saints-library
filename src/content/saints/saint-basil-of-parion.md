@@ -7,7 +7,7 @@ searchAliases:
   - "Basilios"
   - "Basileios"
   - "Basilio"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 4
   day: 12

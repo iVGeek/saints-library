@@ -12,7 +12,7 @@ born: "c.1884 in Daji, Wuqiao, Hebei, China"
 died: "28 June 1900 in Wangla, Dongguang, Hebei, China"
 birthPlace: "Wuqiao, Hebei, China"
 deathPlace: "Dongguang, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 28

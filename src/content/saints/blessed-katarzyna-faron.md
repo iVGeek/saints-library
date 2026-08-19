@@ -14,7 +14,7 @@ born: "24 April 1913 in Zabrzez, Malopolskie, Poland"
 died: "Easter morning, 9 April 1944 in Auschwitz concentration camp, Oswiecim, Malopolskie, Nazi-occupied Poland"
 birthPlace: "Malopolskie, Poland"
 deathPlace: "9 April 1944Auschwitz concentration camp, Oswiecim, Malopolskie, Nazi-occupied Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 4
   day: 9

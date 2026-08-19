@@ -10,7 +10,7 @@ born: "Venice, Italy"
 died: "c.1085 near Pamiers, Gaul (in modern France) of natural causes"
 birthPlace: "Italy"
 deathPlace: "Gaul (modern France) of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 16

@@ -9,7 +9,7 @@ born: "7 September 1876 at La Fert&eacute;-Saint-Cyr, Diocese of Blois, France"
 died: "28 February 1936 of natural causes at Paris, France of natural causes"
 birthPlace: "DioceseBlois, France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 28

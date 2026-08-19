@@ -9,7 +9,7 @@ born: "11 February 1880 in Teius, Alba, Romania"
 died: "4 August 1959 in Bucharest, Romania"
 birthPlace: "Alba, Romania"
 deathPlace: "Romania"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 8
   day: 4

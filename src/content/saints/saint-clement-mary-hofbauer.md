@@ -16,7 +16,7 @@ born: "26 December 1751 at Tasswitz, Moravia (in the modern Czech Republic) as J
 died: "15 March 1820 at Vienna, Austria of natural causes"
 birthPlace: "Moravia (the modern Czech Republic) as John Dvor&aacute;k"
 deathPlace: "Austrianatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 15

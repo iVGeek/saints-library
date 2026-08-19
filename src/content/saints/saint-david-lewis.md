@@ -11,7 +11,7 @@ born: "1616 in Abergavenny, Monmouthshire, Wales"
 died: "hanged, drawn and quartered on 22 August 1679 in Usk, Monmouthshire, Wales"
 birthPlace: "Monmouthshire, Wales"
 deathPlace: "drawn and quartered on 22 August 1679Usk, Monmouthshire, Wales"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 27

@@ -9,7 +9,7 @@ born: "27 January 1730 in Cutting, Meurthe, France"
 died: "8 February 1793 in Trier, Rhineland Palatinate (modern Germany) of typhoid fever"
 birthPlace: "Meurthe, France"
 deathPlace: "Rhineland Palatinate (modern Germany)typhoid fever"
-region: "France"
+region: "China"
 feastDay:
   month: 5
   day: 4

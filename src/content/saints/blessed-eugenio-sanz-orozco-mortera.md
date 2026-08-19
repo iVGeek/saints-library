@@ -11,7 +11,7 @@ born: "5 September 1880 in Manila, Philippines"
 died: "17 August 1936 in Montaña barracks, Madrid, Spain"
 birthPlace: "Philippines"
 deathPlace: "Madrid, Spain"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 8
   day: 17

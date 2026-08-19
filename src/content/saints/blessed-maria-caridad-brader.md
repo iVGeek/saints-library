@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 1943
 died: "27 February 1943 in Pasto, Colombia of natural causes"
 deathPlace: "Colombianatural causes"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 2
   day: 27

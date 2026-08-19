@@ -7,7 +7,7 @@ born: "Usui, Chiba, Japan"
 died: "4 December 1623 Edo (Tokyo), Japan"
 birthPlace: "Chiba, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 12
   day: 4

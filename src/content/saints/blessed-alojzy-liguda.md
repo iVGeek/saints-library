@@ -9,7 +9,7 @@ born: "23 January 1898 in Winów, Opolskie, Poland"
 died: "drowned on 8 December 1942 in the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Opolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "China"
 feastDay:
   month: 12
   day: 8

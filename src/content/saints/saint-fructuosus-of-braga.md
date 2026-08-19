@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sao_Frutuoso.J
 deathYear: 665
 born: "early 7th century Spain"
 died: "16 April 665"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 4
   day: 16

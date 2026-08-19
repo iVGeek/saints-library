@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1186
 died: "1 January 1186 in Cîteaux, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 1
   day: 1

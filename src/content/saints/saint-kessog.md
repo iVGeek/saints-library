@@ -19,7 +19,7 @@ deathYear: 560
 born: "at Cashel, Tipperary, Ireland"
 died: "c.560 of natural causes"
 birthPlace: "Tipperary, Ireland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 10

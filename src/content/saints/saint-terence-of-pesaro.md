@@ -11,7 +11,7 @@ deathYear: 247
 born: "c.210 in Pannonia (modern Hungary)"
 died: "24 September 247 at Pesaro, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 9
   day: 24

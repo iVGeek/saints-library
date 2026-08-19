@@ -19,7 +19,7 @@ deathYear: 356
 born: "251 at Heracleus, Egypt"
 died: "356 at Mount Colzim of natural causes"
 birthPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 17

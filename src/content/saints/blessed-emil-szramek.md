@@ -11,7 +11,7 @@ born: "29 September 1887 in Tworków, Slaskie, Poland"
 died: "13 January 1942 in the bath house of the prison camp of Dachau, Oberbayern, Germany by having a series of ice-cold streams of water dumped on him till he died of shock and exposure"
 birthPlace: "Slaskie, Poland"
 deathPlace: "Oberbayern, Germany by having a seriesice-cold streams of water dumped on him till he died of shock and exposure"
-region: "France"
+region: "Poland"
 feastDay:
   month: 4
   day: 8

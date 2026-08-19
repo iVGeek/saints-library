@@ -7,7 +7,7 @@ deathYear: 1773
 born: "28 July 1687 in Bildstein, Austria"
 died: "2 July 1773 of natural causes"
 birthPlace: "Austria"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 2

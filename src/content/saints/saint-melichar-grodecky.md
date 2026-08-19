@@ -13,7 +13,7 @@ born: "c.1584 in Ceský Tešín, Karviná, Czech Republic"
 died: "7 September 1619 in Košice, Košický kraj, Hungary (now in Slovakia)"
 birthPlace: "Karviná, Czech Republic"
 deathPlace: "Košický kraj, Hungary (nowSlovakia)"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 9
   day: 7

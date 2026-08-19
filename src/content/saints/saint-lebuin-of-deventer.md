@@ -16,7 +16,7 @@ deathYear: 773
 born: "in England"
 died: "c.773 at Deventer, Netherlands"
 deathPlace: "Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 11
   day: 12

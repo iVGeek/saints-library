@@ -13,7 +13,7 @@ born: "at Pannonia, Hungary"
 died: "thrown off a cliff to drown in 875 on the Isle of May, Scotland"
 birthPlace: "Hungary"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 4

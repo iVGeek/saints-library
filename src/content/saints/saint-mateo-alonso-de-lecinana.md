@@ -14,7 +14,7 @@ born: "26 November 1702 in Nava del Rey, Valladolid, Spain"
 died: "beheaded on 22 January 1745 in Thang Long, Hanoi, Vietnam"
 birthPlace: "Valladolid, Spain"
 deathPlace: "Hanoi, Vietnam"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 1
   day: 22

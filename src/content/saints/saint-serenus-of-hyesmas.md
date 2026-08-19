@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Born to the Italian nobility. Monk. Hermit near the River Sarthe in France."
 born: "Spoleto, Italy"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 7

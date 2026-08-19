@@ -19,7 +19,7 @@ born: "1224 in Buda, Hungary"
 died: "24 July 1292 in the convent at Stary Sacz, Malopolskie, Poland of natural causes"
 birthPlace: "Hungary"
 deathPlace: "Malopolskie, Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 7
   day: 24

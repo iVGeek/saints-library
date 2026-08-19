@@ -12,7 +12,7 @@ born: "c.1530 in Emly, County Tipperary, Ireland"
 died: "hanged on 20 June 1584 at Hoggen Green, (modern College Green) Dublin, Ireland"
 birthPlace: "County Tipperary, Ireland"
 deathPlace: "(modern College Green) Dublin, Ireland"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 6
   day: 20

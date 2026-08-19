@@ -7,7 +7,7 @@ searchAliases:
   - "Zaccheus"
 deathYear: 116
 died: "116"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 23

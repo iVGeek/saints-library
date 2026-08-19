@@ -9,7 +9,7 @@ born: "25 March 1889 in Abbadia di Osimo, Ancona, Italy"
 died: "19 August 1983 in Ibenga, Masaiti, Zambia of natural causes"
 birthPlace: "Ancona, Italy"
 deathPlace: "Masaiti, Zambianatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 4
   day: 23

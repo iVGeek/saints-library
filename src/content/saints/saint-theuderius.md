@@ -11,7 +11,7 @@ born: "6th century at Arcisia, Dauphiné, France"
 died: "c.575 at the Church of Saint Lawrence, Vienne, France"
 birthPlace: "Dauphiné, France"
 deathPlace: "Vienne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 29

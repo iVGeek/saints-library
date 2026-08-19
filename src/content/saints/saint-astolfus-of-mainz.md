@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 826
 died: "28 January 826 in Mainz, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 5

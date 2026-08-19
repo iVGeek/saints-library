@@ -16,7 +16,7 @@ born: "20 March 1841 in Mellet, Hainaut, Belgium as Louis Wiaux"
 died: "30 January 1917 at Malonne, Namur, Belgium of natural causes"
 birthPlace: "Hainaut, Belgium as Louis Wiaux"
 deathPlace: "Namur, Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 1
   day: 30

@@ -14,7 +14,7 @@ born: "Northumbria, England"
 died: "26 October 664 at Lastingham, Yorkshire, England of plague"
 birthPlace: "England"
 deathPlace: "Yorkshire, Englandplague"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 10
   day: 26

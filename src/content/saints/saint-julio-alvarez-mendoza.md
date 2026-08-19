@@ -9,7 +9,7 @@ born: "20 December 1866 in Guadalajara, Jalisco, Mexico"
 died: "shot on 30 March 1927 at San Julian, Jalisco, Mexico<"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico<"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 3
   day: 30

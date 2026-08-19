@@ -12,7 +12,7 @@ born: "20 February 1931 in Albuquerque, New Mexico"
 died: "struck by a vehicle while pushing his broke-down car out of the road on 6 October 1991 in Yuba, California while on his way to a pro-life Rosary in Gridley, California"
 birthPlace: "New Mexico"
 deathPlace: "California while on his way to a pro-life RosaryGridley, California"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 5
   day: 24

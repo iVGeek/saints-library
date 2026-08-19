@@ -8,7 +8,7 @@ born: "c.1626 in Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"
 died: "12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan"
 birthPlace: "Yonezawa, Yamagata, Japan"
 deathPlace: "Yonezawa, Yamagata, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 1
   day: 12

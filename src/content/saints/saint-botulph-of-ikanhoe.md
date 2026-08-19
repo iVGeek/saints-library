@@ -12,7 +12,7 @@ birthYear: 610
 deathYear: 680
 born: "c.610 in East Anglia (part of modern England)"
 died: "17 June 680 of natural causes following a lengthy illness"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 17

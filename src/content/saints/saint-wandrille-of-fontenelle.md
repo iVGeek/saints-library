@@ -13,7 +13,7 @@ deathYear: 668
 born: "c.600 near Verdun, Austrasia (in modern France)"
 died: "668 of natural causes"
 birthPlace: "Austrasia (modern France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 22

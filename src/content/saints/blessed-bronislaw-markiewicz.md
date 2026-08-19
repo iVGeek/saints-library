@@ -9,7 +9,7 @@ born: "13 July 1842 at Pruchnik, archdiocese of Przemysl dei Latini, Poland"
 died: "29 January 1912 at Miejsce Piastowe, Poland of complications related to tuberculosis"
 birthPlace: "archdiocesePrzemysl dei Latini, Poland"
 deathPlace: "Polandcomplications related to tuberculosis"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 1
   day: 29

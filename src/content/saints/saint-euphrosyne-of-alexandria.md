@@ -8,7 +8,7 @@ searchAliases:
   - "Smaragdus"
 deathYear: 470
 died: "470 of natural causes"
-region: "France"
+region: "Egypt"
 feastDay:
   month: 1
   day: 1

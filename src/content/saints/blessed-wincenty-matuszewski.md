@@ -9,7 +9,7 @@ born: "3 March 1869 in Chruscienska Wola, Lódzkie, Poland"
 died: "23 May 1940 in Witowo, Kujawsko-Pomorskie, Poland"
 birthPlace: "Lódzkie, Poland"
 deathPlace: "Kujawsko-Pomorskie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 23

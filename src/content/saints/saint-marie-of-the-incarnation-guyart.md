@@ -17,7 +17,7 @@ born: "28 October 1599 at Tours, France"
 died: "30 April 1672 of hepatitis in Quebec, Canada"
 birthPlace: "France"
 deathPlace: "Canada"
-region: "France"
+region: "Canada"
 feastDay:
   month: 4
   day: 30

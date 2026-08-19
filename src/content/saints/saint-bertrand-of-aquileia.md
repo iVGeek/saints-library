@@ -11,7 +11,7 @@ deathYear: 1350
 born: "c.1260 at Saint Geniès, Quercy, Aquitaine, France"
 died: "6 June 1350 at San Giogio Richionvelda"
 birthPlace: "Quercy, Aquitaine, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 6

@@ -9,7 +9,7 @@ born: "28 June 1797 in Knežja Vas, Trebnje, Slovenia"
 died: "19 January 1868 in Marquette, Michigan of natural causes"
 birthPlace: "Trebnje, Slovenia"
 deathPlace: "Michigannatural causes"
-region: "England"
+region: "Austria"
 feastDay:
   month: 9
   day: 21

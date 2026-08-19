@@ -8,7 +8,7 @@ searchAliases:
   - "Caio"
 deathYear: 172
 died: "martyred c.172"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 10

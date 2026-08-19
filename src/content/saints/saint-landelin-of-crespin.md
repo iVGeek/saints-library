@@ -14,7 +14,7 @@ deathYear: 686
 born: "c.625 near Bapaume, France"
 died: "686 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 15

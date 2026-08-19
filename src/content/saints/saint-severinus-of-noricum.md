@@ -13,7 +13,7 @@ deathYear: 482
 born: "c.410 in North Africa"
 died: "8 January 482 at Favianae, Noricum (in modern Austria) of pleurisy"
 deathPlace: "Noricum (modern Austria) of pleurisy"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 8

@@ -17,7 +17,7 @@ born: "1 September 1391 at Monteprandone, March of Ancona, Italy as Dominic Gang
 died: "28 November 1476 at Naples, Italy"
 birthPlace: "MarchAncona, Italy as Dominic Gangala"
 deathPlace: "Italy"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 11
   day: 28

@@ -8,7 +8,7 @@ born: "24 March 1921 in Rybnik, Poland"
 died: "27 February 1987 in Carlsberg, Bad Dürkheim, Germany"
 birthPlace: "Poland"
 deathPlace: "Bad Dürkheim, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 1
   day: 1

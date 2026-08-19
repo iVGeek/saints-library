@@ -20,7 +20,7 @@ born: "Patras, Greece"
 died: "dragged to death by a bull c.257 in Toulouse, France"
 birthPlace: "Greece"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 29

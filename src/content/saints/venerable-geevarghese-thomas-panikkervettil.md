@@ -15,7 +15,7 @@ born: "21 September 1882 in Mavelikara, Alappuzha, India"
 died: "15 July 1953 in Thiruvananthapuram, India of natural causes"
 birthPlace: "Alappuzha, India"
 deathPlace: "Indianatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 8
   day: 15

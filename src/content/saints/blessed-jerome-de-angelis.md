@@ -12,7 +12,7 @@ born: "1568 in Enna, Sicily, Italy"
 died: "burned to death on 4 December 1623 in Edo (modern Tokyo), Japan"
 birthPlace: "Sicily, Italy"
 deathPlace: "Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 12
   day: 4

@@ -13,7 +13,7 @@ deathYear: 1176
 born: "Ireland"
 died: "1176 in Canbery, Savoy, France of natural causes"
 deathPlace: "Savoy, Francenatural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 4

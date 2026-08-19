@@ -10,7 +10,7 @@ searchAliases:
 born: "9th century in Scotland"
 died: "at Irvine, Scotland"
 deathPlace: "Scotland"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 8
   day: 18

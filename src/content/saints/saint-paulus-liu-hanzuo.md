@@ -12,7 +12,7 @@ born: "c.1778 in Lezhi, Sichuan, China"
 died: "strangled to death on 13 February 1818 in Chengdu, Sichuan, China"
 birthPlace: "Sichuan, China"
 deathPlace: "Sichuan, China"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 13

@@ -11,7 +11,7 @@ born: "26 October 1828 at Turin, Italy"
 died: "30 March 1900 of natural causes in Turin, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 30

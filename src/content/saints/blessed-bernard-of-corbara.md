@@ -7,7 +7,7 @@ born: "Corbara, Orvieto, Italy"
 died: "mid-13th-century Barcelona, Spain of natural causes"
 birthPlace: "Orvieto, Italy"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 2
   day: 2

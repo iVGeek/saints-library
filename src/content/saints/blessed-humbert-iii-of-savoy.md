@@ -9,7 +9,7 @@ born: "1136 at Avigliana, Italy"
 died: "1189 at Chambéry, France"
 birthPlace: "Italy"
 deathPlace: "France"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 3
   day: 4

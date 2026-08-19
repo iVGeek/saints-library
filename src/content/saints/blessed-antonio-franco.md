@@ -9,7 +9,7 @@ born: "26 September 1585 in Naples, Italy"
 died: "2 September 1626 in Santa Lucia del Mela, Messina, Italy"
 birthPlace: "Italy"
 deathPlace: "Messina, Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 2

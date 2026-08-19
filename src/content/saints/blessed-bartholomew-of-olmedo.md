@@ -5,7 +5,7 @@ summary: "Mercedarian priest. The first missionary priest in Mexico, arriving in
 image: "http://catholicsaints.info/wp-content/uploads/Bartholomew-of-Olmedo.jpg"
 deathYear: 1524
 died: "November 1524 in Mexico"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 2
   day: 11

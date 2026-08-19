@@ -9,7 +9,7 @@ born: "1556 at Somersetshire, England"
 died: "hanged, drawn, and quartered on 1 December 1581 at Tyburn, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 1 December 1581 at Tyburn, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

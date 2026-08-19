@@ -7,7 +7,7 @@ deathYear: 1245
 born: "in Bologna, Italy"
 died: "1245 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 20

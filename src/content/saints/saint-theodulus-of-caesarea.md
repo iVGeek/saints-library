@@ -5,7 +5,7 @@ summary: "Member of the household of the governor of Palestine. When the governo
 deathYear: 309
 died: "crucified in 309 at Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 2
   day: 17

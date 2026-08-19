@@ -7,7 +7,7 @@ born: "at London, England"
 died: "hanged, drawn, and quartered on 8 January 1593 at Newcastle-on-Tyne, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 8 January 1593 at Newcastle-on-Tyne, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 8

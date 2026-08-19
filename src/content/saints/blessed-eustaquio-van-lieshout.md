@@ -13,7 +13,7 @@ born: "3 November 1890 at Aarle-Rixtel, North Brabant, Netherlands as Humberto v
 died: "30 August 1943 at Belo Horizonte, Brazil of typhoid fever"
 birthPlace: "North Brabant, Netherlands as Humberto van Lieshout"
 deathPlace: "Braziltyphoid fever"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 8
   day: 30

@@ -5,7 +5,7 @@ summary: "Evangelist sent from Rome to Gaul c.250. Worked with Saint Saturninus 
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Saint-trophime.jpg/960px-Saint-trophime.jpg"
 deathYear: 280
 died: "c.280"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 29

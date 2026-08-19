@@ -10,7 +10,7 @@ deathYear: 1325
 born: "c.1265 at Gualdo Tadino, Nocera, Italy"
 died: "15 January 1325 of natural causes"
 birthPlace: "Nocera, Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 15

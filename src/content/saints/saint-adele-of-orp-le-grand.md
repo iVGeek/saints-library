@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 670
 born: "early 7th century in Gaul"
 died: "c.670 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 30

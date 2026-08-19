@@ -11,7 +11,7 @@ born: "16 December 1896 in Banja Luka, Bosnia and Herzegovina"
 died: "10 May 1928 in Zagreb, Croatia of natural causes"
 birthPlace: "Bosnia and Herzegovina"
 deathPlace: "Croatianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 5
   day: 10

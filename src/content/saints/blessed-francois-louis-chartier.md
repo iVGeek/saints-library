@@ -10,7 +10,7 @@ born: "6 June 1752 in Marigné, Maine-et-Loire, France"
 died: "martyred on 22 March 1794 at Angers, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 22

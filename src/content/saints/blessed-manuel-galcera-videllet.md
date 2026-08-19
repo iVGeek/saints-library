@@ -9,7 +9,7 @@ born: "1 June 1901 in Caseras, Tarragona, Spain"
 died: "3 September 1936 in Ibros, Jaén, Spain"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Jaén, Spain"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 9
   day: 3

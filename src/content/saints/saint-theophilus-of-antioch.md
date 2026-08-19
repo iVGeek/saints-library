@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 184
 born: "2nd century in the vicinity of the Tigris and Euphrates rivers"
 died: "c.184 in Antioch of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 13

@@ -9,7 +9,7 @@ born: "6 January 1910 in Swierczyni, Wielkopolskie, Poland"
 died: "23 May 1940 in Witowo, Kujawsko-Pomorskie, Poland"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Kujawsko-Pomorskie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 23

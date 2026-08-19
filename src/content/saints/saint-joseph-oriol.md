@@ -14,7 +14,7 @@ born: "23 November 1650 at Barcelona, Spain"
 died: "23 March 1702 at Barcelona, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 23

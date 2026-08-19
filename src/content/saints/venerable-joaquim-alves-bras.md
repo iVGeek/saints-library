@@ -9,7 +9,7 @@ born: "20 March 1889 in Casegas-Covilhã, Castelo Branco, Portugal"
 died: "13 March 1966 in Lisbon, Portugal of natural causes"
 birthPlace: "Castelo Branco, Portugal"
 deathPlace: "Portugalnatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 1
   day: 1

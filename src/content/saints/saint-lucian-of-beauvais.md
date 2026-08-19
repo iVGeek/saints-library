@@ -11,7 +11,7 @@ born: "Rome, Italy"
 died: "290 at Beauvais, France"
 birthPlace: "Italy"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 8

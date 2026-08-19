@@ -19,7 +19,7 @@ born: 1st century
 died: c. 44
 birthPlace: Bethsaida, Israel
 deathPlace: Jerusalem, Israel
-region: Holy Land
+region: "Chile"
 centuries: [1]
 feastDay:
   month: 7

@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 110
 died: "beaten to death c.110 on Sulci, Sardinia (part of modern Italy)"
 deathPlace: "Sardinia (partmodern Italy)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 13

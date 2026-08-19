@@ -25,7 +25,7 @@ born: "c.420 at Dyfed, Cardiganshire, Wales"
 died: "c.510 at Saint-Brieuc-des-Vaux, France of natural causes"
 birthPlace: "Cardiganshire, Wales"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 5
   day: 1

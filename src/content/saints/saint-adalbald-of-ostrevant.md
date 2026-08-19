@@ -14,7 +14,7 @@ deathYear: 651
 born: "at Flanders, Belgium"
 died: "murdered c.651 by an in-law while on the road to Gascony"
 birthPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 2

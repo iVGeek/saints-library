@@ -11,7 +11,7 @@ deathYear: 638
 born: "Damascus, Syria"
 died: "c.638; sources disagree on cause and location"
 birthPlace: "Syria"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 11

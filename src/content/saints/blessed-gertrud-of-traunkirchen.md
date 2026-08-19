@@ -6,7 +6,7 @@ searchAliases:
   - "Gertrude"
 deathYear: 1050
 died: "c.1050 of natural causes"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 1
   day: 6

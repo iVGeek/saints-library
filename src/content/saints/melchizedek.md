@@ -5,7 +5,7 @@ summary: "King of Salem, most probably Jerusalem, and a priest of the Most High 
 image: "http://catholicsaints.info/wp-content/uploads/img-Melchizedek.jpg"
 searchAliases:
   - "Melchisedech"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 26

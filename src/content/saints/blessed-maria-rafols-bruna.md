@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Rafols-
 deathYear: 1853
 died: "30 August 1853 in Zaragoza, Spain of natural causes"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 30

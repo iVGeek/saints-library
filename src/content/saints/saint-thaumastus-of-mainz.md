@@ -7,7 +7,7 @@ searchAliases:
   - "Theomastus of…"
 died: "5th century Poitiers, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 1
   day: 1

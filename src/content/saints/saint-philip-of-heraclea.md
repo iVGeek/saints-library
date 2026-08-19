@@ -5,7 +5,7 @@ summary: "Bishop of Heraclea (modern Marmara Ereğlisi, Turkey). Arrested with s
 deathYear: 304
 died: "burned at the stake in 304 in Adrianople (modern Edirne, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 22

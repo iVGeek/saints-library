@@ -8,7 +8,7 @@ born: "at Montacute, Somerset, England"
 died: "hanged, drawn, and quartered on 12 February 1584 at Tyburn, London, England"
 birthPlace: "Somerset, England"
 deathPlace: "drawn, and quartered on 12 February 1584 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 12

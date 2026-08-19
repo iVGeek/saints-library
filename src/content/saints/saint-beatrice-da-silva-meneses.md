@@ -13,7 +13,7 @@ born: "1424 at in Campo Maior, Portalegre, Portugal"
 died: "17 August 1492 in Toledo, Spain of natural causes"
 birthPlace: "Portalegre, Portugal"
 deathPlace: "Spaof natural causes"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 8
   day: 17

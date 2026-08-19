@@ -13,7 +13,7 @@ deathYear: 135
 born: "Sicily"
 died: "135 in Braga, Portugal"
 deathPlace: "Portugal"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 6
   day: 3

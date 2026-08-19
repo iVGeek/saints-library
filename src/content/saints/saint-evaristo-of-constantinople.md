@@ -11,7 +11,7 @@ deathYear: 897
 born: "17 April 819 in Galatia, Asia Minor as Sergio"
 died: "24 December 897 at the monastery in Constantinople of natural causes"
 birthPlace: "Asia Minor as Sergio"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 26

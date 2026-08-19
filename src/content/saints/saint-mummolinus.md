@@ -12,7 +12,7 @@ deathYear: 686
 born: "at Constance, Scotland"
 died: "c.686 of natural causes"
 birthPlace: "Scotland"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 16

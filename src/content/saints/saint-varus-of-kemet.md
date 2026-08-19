@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 307
 died: "hanged from a tree on 19 October 307 in Kemet, Upper Egypt"
 deathPlace: "Upper Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 10
   day: 19

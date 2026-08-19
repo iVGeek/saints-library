@@ -12,7 +12,7 @@ born: "29 January 1954 in Pulluvazhy, Ernakulam, India"
 died: "stabbed and beaten to death on a bus on 25 February 1995 near Udainagar, Bagli, Dewas, India by Samandar Singh"
 birthPlace: "Ernakulam, India"
 deathPlace: "Bagli, Dewas, India by Samandar Singh"
-region: "England"
+region: "India"
 feastDay:
   month: 2
   day: 25

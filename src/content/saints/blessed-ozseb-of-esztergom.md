@@ -14,7 +14,7 @@ born: "c.1200 in Esztergom, Komárom-Esztergom, Hungary"
 died: "20 January 1270 in Szentkereszt (modern Pilisszentkereszt), Pest, Hungary of natural causes"
 birthPlace: "Komárom-Esztergom, Hungary"
 deathPlace: "Pest, Hungarynatural causes"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 1
   day: 20

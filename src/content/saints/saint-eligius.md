@@ -19,7 +19,7 @@ searchAliases:
 deathYear: 660
 died: "1 December 660 at Noyon, France of high fever"
 deathPlace: "Francehigh fever"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 12
   day: 1

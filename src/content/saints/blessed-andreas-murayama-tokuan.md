@@ -10,7 +10,7 @@ born: "Nagasaki, Japan"
 died: "burned alive on 18 November 1619 before a crowd of 20,000 at Nishizaka, Nagaski, Japan"
 birthPlace: "Japan"
 deathPlace: "000 at Nishizaka, Nagaski, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 18

@@ -11,7 +11,7 @@ searchAliases:
   - "Lebai Sleeha"
 died: "beaten to death with a club, then beheaded post-mortem in 1st century Persia"
 deathPlace: "then beheaded post-mortem1st century Persia"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 10
   day: 28

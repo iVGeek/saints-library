@@ -13,7 +13,7 @@ born: "456 at Tournai, western Belgium"
 died: "beaten in 532 while leaving his church in Tournai, western Belgium; he survived a couple of days, but died directly from these injuries"
 birthPlace: "western Belgium"
 deathPlace: "western Belgium; he survived a coupledays, but died directly from these injuries"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 2
   day: 20

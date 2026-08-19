@@ -15,7 +15,7 @@ born: "1017 at Provins, Brie, France"
 died: "30 June 1066 in Sossano, Italy of natural causes"
 birthPlace: "Brie, France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 30

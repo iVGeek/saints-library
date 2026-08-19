@@ -10,7 +10,7 @@ deathYear: 1611
 born: "c.1541 in the Netherlands"
 died: "head hacked open with a broadsword and then beaten with maces on Shrove Tuesday 15 February 1611 in the kitchen of the convent of Church of Our Lady of the Snows in Prague, Czech Republic"
 deathPlace: "Czech Republic"
-region: "England"
+region: "Austria"
 feastDay:
   month: 2
   day: 15

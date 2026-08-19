@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1927
 died: "shot on 6 February 1927 on the outskirts of Durango City, Durango, Mexico"
 deathPlace: "Durango, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 2
   day: 6

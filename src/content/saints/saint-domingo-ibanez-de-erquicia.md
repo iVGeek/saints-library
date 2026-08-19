@@ -9,7 +9,7 @@ born: "February 1589 in Régil, Guipúzcoa, Spain"
 died: "14 August 1633 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 8
   day: 14

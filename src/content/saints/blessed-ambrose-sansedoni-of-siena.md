@@ -12,7 +12,7 @@ born: "16 April 1220 at Siena, Italy"
 died: "20 March 1287 at Siena, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 20

@@ -9,7 +9,7 @@ born: "9 September 1888 in Donmatias, Antioquia, Colombia"
 died: "29 September 1971 in Medellín, Antioquía, Colombia of natural causes"
 birthPlace: "Antioquia, Colombia"
 deathPlace: "Antioquía, Colombianatural causes"
-region: "France"
+region: "Colombia"
 feastDay:
   month: 11
   day: 29

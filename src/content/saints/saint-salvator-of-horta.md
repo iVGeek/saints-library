@@ -13,7 +13,7 @@ born: "1520 at Santa Columba, Gerona, Spain"
 died: "18 March 1567 at friary at Cagliari, Sardinia, Italy of natural causes"
 birthPlace: "Gerona, Spain"
 deathPlace: "Sardinia, Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 3
   day: 18

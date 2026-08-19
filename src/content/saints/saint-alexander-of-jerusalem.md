@@ -7,7 +7,7 @@ searchAliases:
   - "Alexander of Cappadocia"
 deathYear: 251
 died: "martyred in 251 at Ceasarea"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 18

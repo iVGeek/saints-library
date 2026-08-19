@@ -12,7 +12,7 @@ searchAliases:
 born: "Austria"
 died: "Salzburg, Austria of natural causes"
 deathPlace: "Austrianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 15

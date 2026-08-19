@@ -20,7 +20,7 @@ born: "c.542 at Menevia (now Saint David's), Wales"
 died: "c.601 at Mynyw, Wales of natural causes"
 birthPlace: "Wales"
 deathPlace: "Walesnatural causes"
-region: "Ireland"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 1

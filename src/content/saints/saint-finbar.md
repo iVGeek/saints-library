@@ -19,7 +19,7 @@ born: "c.550 at Connaught, Ireland as Lochan"
 died: "25 September 623 at Cloyne, Ireland of natural causes"
 birthPlace: "Ireland as Lochan"
 deathPlace: "Irelandnatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 9
   day: 25

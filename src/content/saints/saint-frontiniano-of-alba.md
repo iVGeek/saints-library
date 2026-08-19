@@ -10,7 +10,7 @@ born: "Carcassone, France"
 died: "beheaded on 23 October 311 on the road outside the city walls of Alba Pompeia, Piedmont, Italy near the city cemetery"
 birthPlace: "France"
 deathPlace: "Piedmont, Italy near the city cemetery"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 6

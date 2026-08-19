@@ -8,7 +8,7 @@ searchAliases:
   - "Capitone"
 deathYear: 300
 died: "22 December 300 in the Chersonese region of Greece of natural causes"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 4

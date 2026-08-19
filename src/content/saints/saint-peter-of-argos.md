@@ -7,7 +7,7 @@ searchAliases:
   - "Pietro di Argo"
 deathYear: 922
 died: "c.922"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 5
   day: 3

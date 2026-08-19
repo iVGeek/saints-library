@@ -12,7 +12,7 @@ born: "1808 in Cheongsan, Chungcheong-do, South Korea"
 died: "strangled on 23 January 1840 in prison at Seoul, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 23

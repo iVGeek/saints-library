@@ -19,7 +19,7 @@ born: c. 270
 died: 6 December 343
 birthPlace: Patara, Turkey
 deathPlace: Myra, Turkey
-region: Turkey
+region: "Scandinavia"
 centuries: [3, 4]
 feastDay:
   month: 12

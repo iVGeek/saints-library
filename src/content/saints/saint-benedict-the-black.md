@@ -15,7 +15,7 @@ deathYear: 1589
 born: "1526 at Messina, Italy on the estate of Chevalier de Lanza a San Fratello"
 died: "1589 of natural causes"
 birthPlace: "Italy on the estateChevalier de Lanza a San Fratello"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 4

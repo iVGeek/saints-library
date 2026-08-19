@@ -11,7 +11,7 @@ born: "c.1878 in Zhaojia, Wuqiao, Hebei, China"
 died: "late July 1900 in Zhaojia, Wuqiao, Hebei, China"
 birthPlace: "Wuqiao, Hebei, China"
 deathPlace: "Wuqiao, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 1
   day: 1

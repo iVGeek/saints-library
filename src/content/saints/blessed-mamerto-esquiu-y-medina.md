@@ -11,7 +11,7 @@ born: "11 May 1826 in San José de Piedra Blanca, Catamarca, Argentina"
 died: "3pm on 10 January 1883 in El Suncho, Córdoba, Argentina of natural causes"
 birthPlace: "Catamarca, Argentina"
 deathPlace: "Córdoba, Argentinanatural causes"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 7
   day: 14

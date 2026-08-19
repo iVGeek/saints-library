@@ -6,7 +6,7 @@ deathYear: 1472
 born: "early 15th century Hainaut, Belgium"
 died: "1472 of natural causes"
 birthPlace: "Belgium"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 12
   day: 26

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1142
 died: "25 June 1142 at Guglietto, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 6
   day: 25

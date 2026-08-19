@@ -5,7 +5,7 @@ summary: "Oswald's parents came from Denmark to England before his birth. The bo
 image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Oswald_and_Eadnoth.jpg"
 deathYear: 992
 died: "29 February 992 of natural causes"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 28

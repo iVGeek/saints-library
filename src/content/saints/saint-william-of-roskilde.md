@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Biskop_Vilhelm
 deathYear: 1067
 born: "Anglo-Saxon"
 died: "1067 of natural causes"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 9
   day: 2

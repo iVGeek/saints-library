@@ -11,7 +11,7 @@ born: "10 June 1789 in Castle of Trenquelléon, Feugarolles, Lot-et-Garonne, Fra
 died: "10 January 1828 in Agen, Lot-et-Garonne, France of natural causes"
 birthPlace: "Feugarolles, Lot-et-Garonne, France"
 deathPlace: "Lot-et-Garonne, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 6

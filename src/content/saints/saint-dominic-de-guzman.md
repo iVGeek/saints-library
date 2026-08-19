@@ -12,7 +12,7 @@ born: "1170 at Calaruega, Burgos, Old Castile"
 died: "noon 6 August 1221 at Bologna, Italy"
 birthPlace: "Burgos, Old Castile"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 8

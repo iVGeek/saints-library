@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Patriarch of Antioch in 190, serving for over 20 years. Theological writer."
 deathYear: 211
 died: "211 of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 10
   day: 30

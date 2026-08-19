@@ -9,7 +9,7 @@ born: "30 August 1810 at Le Vigan, Gard, France"
 died: "21 November 1880 at Nimes, Gard, France of natural causes"
 birthPlace: "Gard, France"
 deathPlace: "Gard, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

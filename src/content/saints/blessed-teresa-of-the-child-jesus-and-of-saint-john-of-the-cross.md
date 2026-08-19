@@ -11,7 +11,7 @@ born: "5 March 1909 in Mochales, Guadalajara, Spain"
 died: "shot and stabbed on the street by Communists on 24 July 1936 in Guadalajara, Spain"
 birthPlace: "Guadalajara, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 7
   day: 24

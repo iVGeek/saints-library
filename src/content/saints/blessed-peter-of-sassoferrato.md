@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Sasso
 deathYear: 1231
 died: "beheaded in 1231 in Valencia, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 8
   day: 29

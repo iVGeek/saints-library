@@ -9,7 +9,7 @@ born: "27 July 1916 in Portici, Naples, Italy"
 died: "31 August 1983 in Milan, Italy of cancer of the skin, lungs and liver"
 birthPlace: "Naples, Italy"
 deathPlace: "Italycancer of the skin, lungs and liver"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

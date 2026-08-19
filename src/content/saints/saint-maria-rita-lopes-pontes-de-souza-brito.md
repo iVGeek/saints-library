@@ -13,7 +13,7 @@ born: "26 May 1914 in Salvador, Bahia, Brazil"
 died: "13 March 1992 in Salvador, Bahia, Brazil of natural causes"
 birthPlace: "Bahia, Brazil"
 deathPlace: "Bahia, Brazilnatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 5
   day: 22

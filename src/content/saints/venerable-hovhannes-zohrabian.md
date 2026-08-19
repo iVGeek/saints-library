@@ -15,7 +15,7 @@ born: "25 June 1881 in Erzurum, Türkiye"
 died: "20 September 1972 in Rome, Italy of natural causes"
 birthPlace: "Türkiye"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 12

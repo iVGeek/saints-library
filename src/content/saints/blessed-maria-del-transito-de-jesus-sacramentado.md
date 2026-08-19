@@ -14,7 +14,7 @@ born: "15 August 1821 on the estate of Santa Leocadia, now Carlos Paz, Cordoba, 
 died: "25 August 1885 at San Vicente, Cordoba, Argentina of natural causes"
 birthPlace: "now Carlos Paz, Cordoba, Argentina as Maria Cabanillas"
 deathPlace: "Cordoba, Argentinanatural causes"
-region: "England"
+region: "Argentina"
 feastDay:
   month: 8
   day: 25

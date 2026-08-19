@@ -11,7 +11,7 @@ born: "1502 in Gorinchem, Zuid-Holland, Netherlands"
 died: "hanged on 9 July 1572 at Brielle, Zuid-Holland, Netherlands"
 birthPlace: "Zuid-Holland, Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 9

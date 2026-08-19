@@ -7,7 +7,7 @@ searchAliases:
   - "Baradatus"
 deathYear: 460
 died: "c.460"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 22

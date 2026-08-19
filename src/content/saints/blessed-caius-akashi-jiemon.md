@@ -6,7 +6,7 @@ deathYear: 1627
 born: "Korea"
 died: "16 August 1627 in Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 27

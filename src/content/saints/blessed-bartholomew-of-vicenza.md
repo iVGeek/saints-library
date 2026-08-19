@@ -13,7 +13,7 @@ born: "c.1200 at Vicenza, Italy"
 died: "1270 in Vicenza, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 10
   day: 27

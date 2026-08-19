@@ -13,7 +13,7 @@ born: "22 June 1792 at Viterbo, Italy"
 died: "3pm 27 August 1849 at Reading, Berkshire, England of a heart attack"
 birthPlace: "Italy"
 deathPlace: "Berkshire, Englanda heart attack"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 8
   day: 27

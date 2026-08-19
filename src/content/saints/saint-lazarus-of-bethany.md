@@ -9,7 +9,7 @@ searchAliases:
   - "Lazare…"
 died: "beheaded in the 1st century in a cave near Marseilles, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 29

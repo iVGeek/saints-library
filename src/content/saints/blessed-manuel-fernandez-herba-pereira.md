@@ -8,7 +8,7 @@ born: "30 September 1878 in Lisbon, Portugal"
 died: "14 August 1936 in El Picado, Almagro, Ciudad Real, Spain"
 birthPlace: "Portugal"
 deathPlace: "Almagro, Ciudad Real, Spain"
-region: "France"
+region: "Venezuela"
 feastDay:
   month: 8
   day: 14

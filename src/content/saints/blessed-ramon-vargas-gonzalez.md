@@ -8,7 +8,7 @@ born: "22 January 1905 in Ahualulco de Mercado, Jalisco, Mexico"
 died: "shot by a firing squad on 1 April 1927 in the prison court yard in Guadalajara, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 4
   day: 1

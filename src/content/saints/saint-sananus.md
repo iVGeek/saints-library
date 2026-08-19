@@ -6,7 +6,7 @@ deathYear: 485
 born: "Ireland"
 died: "485 in Plouzané, Brittany, France"
 deathPlace: "Brittany, France"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 6

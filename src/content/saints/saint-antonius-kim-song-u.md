@@ -11,7 +11,7 @@ born: "1795 in Gusan, Gyeonggi-do (in modern South Korea)"
 died: "strangled on 29 April 1841 in prison at Tangkogae, Seoul (in modern South Korea)"
 birthPlace: "Gyeonggi-do (modern South Korea)"
 deathPlace: "Seoul (modern South Korea)"
-region: "England"
+region: "Korea"
 feastDay:
   month: 4
   day: 29

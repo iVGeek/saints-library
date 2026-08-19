@@ -9,7 +9,7 @@ born: "c.1498 at Tealing, Essex, England"
 died: "hanged in chains from the battlements of York, England on 11 May 1537"
 birthPlace: "Essex, England"
 deathPlace: "England on 11 May 1537"
-region: "Spain"
+region: "England"
 feastDay:
   month: 5
   day: 11

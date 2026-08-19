@@ -12,7 +12,7 @@ born: "11 September 1890 in Milan, Italy"
 died: "26 July 1945 in Centonara d’Artò, Verbano-Cusio-Ossola, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Verbano-Cusio-Ossola, Italynatural causes"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 7
   day: 26

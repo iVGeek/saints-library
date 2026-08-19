@@ -7,7 +7,7 @@ deathYear: 885
 born: "826 in Catania, Sicily"
 died: "c.885 of natural causes"
 birthPlace: "Sicily"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 1
   day: 31

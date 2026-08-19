@@ -10,7 +10,7 @@ deathYear: 540
 born: "Albano, Italy"
 died: "c.540"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 27

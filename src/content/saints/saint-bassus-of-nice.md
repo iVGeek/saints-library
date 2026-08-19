@@ -8,7 +8,7 @@ searchAliases:
   - "Basso"
 deathYear: 250
 died: "nailed by two large metal brads to a board c.250"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 5

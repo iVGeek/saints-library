@@ -8,7 +8,7 @@ born: "Damascus, Syria"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Syria"
 deathPlace: "Syria"
-region: "England"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

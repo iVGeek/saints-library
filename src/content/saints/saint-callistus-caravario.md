@@ -12,7 +12,7 @@ born: "18 June 1903 in Cuorgné, Italy"
 died: "shot on 25 February 1930 off the coast of Shiuchow, China"
 birthPlace: "Italy"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 2
   day: 25

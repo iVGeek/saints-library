@@ -8,7 +8,7 @@ deathYear: 415
 born: "c.330 at Vercelli, Italy"
 died: "415 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 29

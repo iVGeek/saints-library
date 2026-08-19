@@ -9,7 +9,7 @@ born: "1748 at Grenoble, France"
 died: "slowly strangled to death with a rope while tied on a cross on 18 February 1820 at Au-tshung-fu, China"
 birthPlace: "France"
 deathPlace: "China"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 18

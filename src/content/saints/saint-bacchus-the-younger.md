@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 786
 born: "Palestine"
 died: "beheaded c.786"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 15

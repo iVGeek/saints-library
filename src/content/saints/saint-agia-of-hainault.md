@@ -11,7 +11,7 @@ searchAliases:
   - "Aye…"
 deathYear: 711
 died: "c.711 of natural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 4
   day: 18

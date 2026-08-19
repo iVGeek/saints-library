@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Abbot of Saint Peter's Abbey in Perugia, Italy."
 deathYear: 1026
 died: "1026"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 9
   day: 16

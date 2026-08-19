@@ -11,7 +11,7 @@ born: "c.1403 in Mascioni, Campotosto, Italy"
 died: "18 April 1479 at the Augustinian monastery of Montereale, Italy of natural causes"
 birthPlace: "Campotosto, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 12

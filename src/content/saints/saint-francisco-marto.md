@@ -11,7 +11,7 @@ born: "11 June 1908 at Aljustrel, Portugal"
 died: "4 April 1919 at Aljustrel, Portugal of influenza"
 birthPlace: "Portugal"
 deathPlace: "Portugalinfluenza"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 4
   day: 4

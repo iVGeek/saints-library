@@ -47,7 +47,7 @@ born: "c.462 at Plou-Fragan, Brittany, France"
 died: "3 March 530 of natural causes at Tibidi, Brittany, France"
 birthPlace: "Brittany, France"
 deathPlace: "Brittany, France"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 3

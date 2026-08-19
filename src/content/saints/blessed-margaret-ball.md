@@ -14,7 +14,7 @@ born: "c.1515 in Skreen, Meath, Ireland"
 died: "1584 in Dublin Castle, Dublin, Ireland of general abuse and neglect"
 birthPlace: "Meath, Ireland"
 deathPlace: "Dublin, Irelandgeneral abuse and neglect"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 20

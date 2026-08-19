@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Beatus-of-Laon.
 searchAliases:
   - "Beatus of Vendôme"
 born: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 9

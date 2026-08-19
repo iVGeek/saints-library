@@ -10,7 +10,7 @@ deathYear: 1583
 born: "1551 in Portugal"
 died: "struck with an axe on 25 July 1583 at the village of Cuncolim, district of Salsette, territory of Goa, India"
 deathPlace: "districtSalsette, territory of Goa, India"
-region: "Portugal"
+region: "India"
 feastDay:
   month: 7
   day: 25

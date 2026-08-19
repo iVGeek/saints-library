@@ -6,7 +6,7 @@ born: "4th century in Antioch, Syria"
 died: "4th century in Antioch, Syria of natural causes"
 birthPlace: "Syria"
 deathPlace: "Syrianatural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 10
   day: 9

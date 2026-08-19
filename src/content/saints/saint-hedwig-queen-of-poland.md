@@ -18,7 +18,7 @@ born: "18 February 1374 in Buda (in modern Budapest, Hungary)"
 died: "17 July 1399 in Kraków, Malopolskie, Poland during child birth"
 birthPlace: "Hungary)"
 deathPlace: "Malopolskie, Poland during child birth"
-region: "Ireland"
+region: "Poland"
 feastDay:
   month: 7
   day: 17

@@ -14,7 +14,7 @@ born: "21 June 1002 at Eguisheim, Alsace, France as Bruno of Eguisheim-Dagsburg"
 died: "19 April 1054 in Saint Peter's Basilica, Rome, Italy of natural causes"
 birthPlace: "Alsace, France as BrunoEguisheim-Dagsburg"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 4
   day: 19

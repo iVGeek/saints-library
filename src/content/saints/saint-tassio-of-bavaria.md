@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 794
 died: "c.794 in Lorsch, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 12
   day: 13

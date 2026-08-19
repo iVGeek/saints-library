@@ -17,7 +17,7 @@ deathYear: 550
 born: "in Brittany (in modern France)"
 died: "c.550 at Landevennec, Brittany (in modern France) of natural causes"
 deathPlace: "Brittany (modern France) of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 11
   day: 3

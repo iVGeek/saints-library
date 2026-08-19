@@ -11,7 +11,7 @@ birthYear: 670
 deathYear: 753
 born: "c.670 at South Aragon (part of modern Spain)"
 died: "3 November 753 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 3

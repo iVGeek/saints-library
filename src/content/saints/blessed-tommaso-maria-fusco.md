@@ -10,7 +10,7 @@ deathYear: 1891
 born: "1 December 1831 at Pagani, Salerno, parish of San Felice e Corpo di Cristo, diocese of Nocera-Sarno, Italy"
 died: "24 February 1891 of a chronic liver disease"
 birthPlace: "Salerno, parishSan Felice e Corpo di Cristo, diocese of Nocera-Sarno, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 24

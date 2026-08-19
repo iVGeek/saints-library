@@ -9,7 +9,7 @@ born: "late 15th century Milan, Italy"
 died: "21 April 1459 at the Monteluco Franciscan convent near Spoleto, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 4
   day: 21

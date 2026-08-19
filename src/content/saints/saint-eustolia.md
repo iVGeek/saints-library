@@ -2,7 +2,7 @@
 name: "Saint Eustolia"
 honorific: Saint
 summary: "Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople."
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 9

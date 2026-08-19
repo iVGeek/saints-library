@@ -8,7 +8,7 @@ born: "24 April 1732 in Châteaugontier, Mayenne France"
 died: "1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Mayenne France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

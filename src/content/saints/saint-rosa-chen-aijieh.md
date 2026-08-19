@@ -13,7 +13,7 @@ born: "c.1878 in Feng, Jizhou, Hebei, China"
 died: "stabbed with spears on 5 July 1900 in Cao, Ningjing, Hebei, China"
 birthPlace: "Jizhou, Hebei, China"
 deathPlace: "Ningjing, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 5

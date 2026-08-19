@@ -5,7 +5,7 @@ summary: "Distinguished Roman soldier. Converted to Christianity while travellin
 deathYear: 250
 died: "martyred c.250 in Sicily, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 23

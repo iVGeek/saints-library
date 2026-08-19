@@ -12,7 +12,7 @@ born: "19 September 1879 in Biskupice, Warminsko-Mazurskie, Poland"
 died: "19 March 1942 at the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Warminsko-Mazurskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 19

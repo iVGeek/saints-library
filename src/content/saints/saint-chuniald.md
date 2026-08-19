@@ -10,7 +10,7 @@ born: "Ireland, Scotland, France or Germany (records vary quite a bit)"
 died: "c.718 at Salzburg, Austria of natural causes"
 birthPlace: "Scotland, France or Germany (records vary quite a bit)"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Austria"
 feastDay:
   month: 9
   day: 28

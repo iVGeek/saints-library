@@ -15,7 +15,7 @@ born: "c.615 in Northumbria, England"
 died: "25 August 683 at Coldingham, Berwickshire, Scotland of natural causes"
 birthPlace: "England"
 deathPlace: "Berwickshire, Scotlandnatural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 8
   day: 25

@@ -9,7 +9,7 @@ born: "22 November 1918 at Caguas, Puerto Rico"
 died: "13 July 1963 of cancer at Caguas, Puerto Rico"
 birthPlace: "Puerto Rico"
 deathPlace: "Puerto Rico"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 7
   day: 13

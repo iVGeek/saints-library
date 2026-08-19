@@ -7,7 +7,7 @@ born: "Yonezawa, Yamagata, Japan"
 died: "12 January 1629 in Minamihara, Yonezawa, Yamagata, Japan"
 birthPlace: "Yamagata, Japan"
 deathPlace: "Yonezawa, Yamagata, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 1
   day: 12

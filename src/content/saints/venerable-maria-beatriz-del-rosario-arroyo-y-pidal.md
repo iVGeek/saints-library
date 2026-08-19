@@ -12,7 +12,7 @@ born: "17 February 1884 in Molo, Iloilo, Philippines"
 died: "14 June 1957 in Molo, Iloilo, Philippines of heart failure"
 birthPlace: "Iloilo, Philippines"
 deathPlace: "Iloilo, Philippinesheart failure"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 1
   day: 3

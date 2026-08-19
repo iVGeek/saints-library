@@ -10,7 +10,7 @@ deathYear: 837
 born: "773 near Ephesus, Asia Minor (modern Turkey) as Theophylact"
 died: "1 January 837 at Atroa of natural causes while his brother monks were singing the night office"
 birthPlace: "Asia Minor (modern Turkey) as Theophylact"
-region: "France"
+region: "Greece"
 feastDay:
   month: 1
   day: 1

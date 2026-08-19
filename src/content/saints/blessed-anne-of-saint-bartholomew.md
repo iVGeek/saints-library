@@ -13,7 +13,7 @@ born: "1 October 1549 at Almendral, Spain as Anne Garcia"
 died: "7 June 1626 at Antwerp, Belgium of natural causes"
 birthPlace: "Spaas Anne Garcia"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 7

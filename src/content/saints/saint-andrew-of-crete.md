@@ -12,7 +12,7 @@ deathYear: 740
 born: "c.660 at Damascus, Syria"
 died: "c.740 in Crete of natural causes"
 birthPlace: "Syria"
-region: "Ireland"
+region: "Turkey"
 feastDay:
   month: 7
   day: 4

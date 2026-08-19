@@ -13,7 +13,7 @@ birthYear: 1100
 deathYear: 1160
 born: "c.1100 in England"
 died: "3 August 1160 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 8
   day: 3

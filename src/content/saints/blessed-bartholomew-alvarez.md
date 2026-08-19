@@ -6,7 +6,7 @@ deathYear: 1737
 born: "near Braganza, Portugual"
 died: "beheaded in 1737 in Tonkin (modern Vietnam)"
 birthPlace: "Portugual"
-region: "Portugal"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 12

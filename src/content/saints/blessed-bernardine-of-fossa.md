@@ -15,7 +15,7 @@ born: "1420 in Fossa, Aquila, Italy as Giovanni Amici"
 died: "27 November 1503 in the Franciscan convent in L'Aquila, Italy of natural causes"
 birthPlace: "Aquila, Italy as Giovanni Amici"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 11
   day: 27

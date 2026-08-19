@@ -9,7 +9,7 @@ born: "11 April 1912 in the parish of Saint James in Nembra, Asturias, diocese o
 died: "mutilated, beaten, and thrown into a well to drown on 11 September 1936 near Los Areneros, Oviedo, Asturias, Spain"
 birthPlace: "Asturias, dioceseOviedo, Spain"
 deathPlace: "beaten, and thrown into a well to drown on 11 September 1936 near Los Areneros, Oviedo, Asturias, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 11

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Damascus, Syria when the region was conquered by Muslims. He continued to preach Christianity. Imprisoned, tortured, blinded, crucified and executed. Martyr."
 deathYear: 750
 died: "beheaded in 750 in Syria"
-region: "England"
+region: "Syria"
 feastDay:
   month: 10
   day: 4

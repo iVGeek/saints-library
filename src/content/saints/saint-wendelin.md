@@ -12,7 +12,7 @@ deathYear: 617
 born: "554 in Scotland"
 died: "617 at Tholey, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 10
   day: 21

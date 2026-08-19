@@ -9,7 +9,7 @@ born: "16 August 1904 in Zarki, Slaskie, Poland"
 died: "tortured and abused to death on 30 September 1941 in the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Slaskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 11
   day: 30

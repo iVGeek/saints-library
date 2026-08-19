@@ -6,7 +6,7 @@ searchAliases:
   - "Waltmann of Antwerp"
 deathYear: 1138
 died: "1138 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 15

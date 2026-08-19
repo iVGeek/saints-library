@@ -8,7 +8,7 @@ born: "31 August 1760 in Saint-Lambert-du-Lattay, Maine-et-Loire, France"
 died: "martyred on 1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

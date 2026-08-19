@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Sa
 deathYear: 859
 died: "scourged and beheaded 11 March 859 at Cordoba, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 3
   day: 11

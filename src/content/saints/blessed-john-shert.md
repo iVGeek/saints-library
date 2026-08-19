@@ -7,7 +7,7 @@ born: "at Shert Hall, near Macclesfield, Cheshire, England"
 died: "hanged, drawn, and quartered on 28 May 1582 at Tyburn, London, England"
 birthPlace: "near Macclesfield, Cheshire, England"
 deathPlace: "drawn, and quartered on 28 May 1582 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 28

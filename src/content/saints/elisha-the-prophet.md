@@ -10,7 +10,7 @@ searchAliases:
   - "Eliseus"
   - "Elisja"
 died: "8th-century BC"
-region: "England"
+region: "Syria"
 feastDay:
   month: 6
   day: 14

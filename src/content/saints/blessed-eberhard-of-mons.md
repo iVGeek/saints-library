@@ -10,7 +10,7 @@ searchAliases:
   - "Évrard…"
 deathYear: 1150
 died: "c.1150 of natural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 3
   day: 20

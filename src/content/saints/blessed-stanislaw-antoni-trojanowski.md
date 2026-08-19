@@ -14,7 +14,7 @@ born: "29 July 1908 in Sadlowo, Mazowieckie, diocese of Plock, Poland"
 died: "28 February 1942 in the death camp hospital at Oswiecim (Auschwitz), Malopolskie, Nazi-occupied Poland of pneumonia"
 birthPlace: "Mazowieckie, diocesePlock, Poland"
 deathPlace: "Malopolskie, Nazi-occupied Polandpneumonia"
-region: "England"
+region: "Poland"
 feastDay:
   month: 2
   day: 28

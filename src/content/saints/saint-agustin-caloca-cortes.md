@@ -12,7 +12,7 @@ born: "5 May 1898 at Teul, Zecatecas, Mexico"
 died: "shot on 25 May 1927 at Colotitlan, Jalisco, Mexico"
 birthPlace: "Zecatecas, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 5
   day: 25

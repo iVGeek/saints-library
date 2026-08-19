@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-of-Burts
 deathYear: 999
 died: "999 at Burtscheid, Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 11
   day: 4

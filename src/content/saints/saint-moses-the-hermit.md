@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 372
 born: "3rd century Arabia"
 died: "c.372 of natural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 1
   day: 1

@@ -19,7 +19,7 @@ deathYear: 784
 born: "8th century Ireland"
 died: "784 at Salzburg, Austria of natural causes"
 deathPlace: "Austrianatural causes"
-region: "Ireland"
+region: "Austria"
 feastDay:
   month: 11
   day: 27

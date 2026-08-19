@@ -7,7 +7,7 @@ searchAliases:
   - "Levi"
   - "Apostle of Ethiopia"
   - "Matthew the Evangelist"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 9
   day: 21

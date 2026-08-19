@@ -7,7 +7,7 @@ searchAliases:
   - "Francesca"
 died: "buried in the church of the monastery of the Assumption in Seville, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 6
   day: 23

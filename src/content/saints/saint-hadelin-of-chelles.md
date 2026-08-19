@@ -12,7 +12,7 @@ deathYear: 690
 born: "at Gascony (in modern France)"
 died: "c.690 at the monastery of Celles, Namour, Belgium of natural causes"
 deathPlace: "Namour, Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 3

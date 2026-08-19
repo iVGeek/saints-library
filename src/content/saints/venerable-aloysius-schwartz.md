@@ -11,7 +11,7 @@ born: "18 September 1930 in Washington, District of Columbia, USA"
 died: "16 March 1992 in Manila, Philippines of Amyotrophic lateral sclerosis (Lou Gehrig's disease)"
 birthPlace: "DistrictColumbia, USA"
 deathPlace: "PhilippinesAmyotrophic lateral sclerosis (Lou Gehrig's disease)"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 1

@@ -12,7 +12,7 @@ born: "early 11th century in County Donegal, Ireland"
 died: "10 February 1088 at Ratisbon (Regensburg), Germany"
 birthPlace: "Ireland"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 9

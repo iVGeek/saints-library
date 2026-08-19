@@ -16,7 +16,7 @@ deathYear: 1837
 born: "6 January 1786 at Rome, Italy"
 died: "28 December 1837 of cholera"
 birthPlace: "Italy"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 2

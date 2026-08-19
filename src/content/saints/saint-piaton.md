@@ -12,7 +12,7 @@ born: "at Benevento, Italy"
 died: "skull split by a soldier  c.286 at Tournai, Belgium"
 birthPlace: "Italy"
 deathPlace: "Belgium"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 10
   day: 1

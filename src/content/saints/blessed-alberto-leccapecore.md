@@ -7,7 +7,7 @@ deathYear: 1154
 born: "Corsica (part of modern France)"
 died: "1154 in Paris, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 17

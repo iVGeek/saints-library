@@ -7,7 +7,7 @@ searchAliases:
   - "Domiziano…"
 deathYear: 473
 died: "27 January 473 of natural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 27

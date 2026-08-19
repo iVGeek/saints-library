@@ -9,7 +9,7 @@ born: "10 November 1851 in Jalmolonga, Mexico"
 died: "20 September 1904 at Puebla de los Angeles, Mexico of natural causes"
 birthPlace: "Mexico"
 deathPlace: "Mexiconatural causes"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 9
   day: 20

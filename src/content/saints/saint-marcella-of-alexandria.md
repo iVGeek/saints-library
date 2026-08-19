@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Potamiaena-the-E
 deathYear: 206
 died: "burned to death c.206 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 28

@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1926
 died: "shot by firing squad on 15 August 1926 in the mountains near Chalchihuites, Zacatecas, Mexico"
 deathPlace: "Zacatecas, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 8
   day: 15

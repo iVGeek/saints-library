@@ -7,7 +7,7 @@ born: "Nimes, France"
 died: "270 at Pamplona, Spain"
 birthPlace: "France"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 11
   day: 28

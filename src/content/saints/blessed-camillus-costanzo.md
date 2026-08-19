@@ -11,7 +11,7 @@ born: "1571 in Bovalino, Reggio Calabria, Italy"
 died: "burned to death on 15 September 1622 in Tabira, Nagasaki, Japan"
 birthPlace: "Reggio Calabria, Italy"
 deathPlace: "Nagasaki, Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 9
   day: 15

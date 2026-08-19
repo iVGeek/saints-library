@@ -11,7 +11,7 @@ born: "1 May 1898 in Stoczek, Lubelskie, Poland"
 died: "April 1945 in Sachsenhausen-Oranienburg, Oberhavel, Germany of unspecified diseases following years of neglect"
 birthPlace: "Lubelskie, Poland"
 deathPlace: "Oberhavel, Germanyunspecified diseases following years of neglect"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 4
   day: 26

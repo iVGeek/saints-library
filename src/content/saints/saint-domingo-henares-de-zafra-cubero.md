@@ -12,7 +12,7 @@ born: "19 December 1765 at Baena, Córdoba, Spain"
 died: "beheaded on 25 June 1838 in Nam Ðinh, Vietnam"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Vietnam"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 6
   day: 25

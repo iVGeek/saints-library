@@ -7,7 +7,7 @@ deathYear: 1266
 born: "c.1200 in the Zambujal region of Portugal"
 died: "3 September 1266 in Ourem, Portugal of natural causes"
 deathPlace: "Portugalnatural causes"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 9
   day: 3

@@ -13,7 +13,7 @@ birthYear: 565
 deathYear: 620
 born: "c.565 in Ireland"
 died: "c.620 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 9
   day: 15

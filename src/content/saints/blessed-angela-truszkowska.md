@@ -13,7 +13,7 @@ deathYear: 1899
 born: "16 May 1825 at Kalisz, Poland as Sophia Camille Truszkowska"
 died: "12.45am 10 October 1899 of natural causes"
 birthPlace: "Poland as Sophia Camille Truszkowska"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 10

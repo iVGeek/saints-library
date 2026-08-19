@@ -9,7 +9,7 @@ born: "28 July 1902 in Olmeda del Rey, Cuenca, Spain"
 died: "shot on 16 August 1936 in Boca de Balondillo, Fuente el Fresno, Ciudad Real, Spain"
 birthPlace: "Cuenca, Spain"
 deathPlace: "Fuente el Fresno, Ciudad Real, Spain"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 11
   day: 6

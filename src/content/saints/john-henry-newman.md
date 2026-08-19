@@ -18,7 +18,7 @@ born: 21 February 1801
 died: 11 August 1890
 birthPlace: London, England
 deathPlace: Edgbaston, England
-region: England
+region: "Ireland"
 centuries: [19]
 feastDay:
   month: 10

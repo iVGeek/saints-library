@@ -15,7 +15,7 @@ born: "2 May 1896 at Haji Velyki, Ternopil District, Ukraine"
 died: "boiled to death in a cauldron on 29 June 1941 in Drohobych prison, Ukrainian Galicia"
 birthPlace: "Ternopil District, Ukraine"
 deathPlace: "Ukrainian Galicia"
-region: "England"
+region: "Austria"
 feastDay:
   month: 6
   day: 28

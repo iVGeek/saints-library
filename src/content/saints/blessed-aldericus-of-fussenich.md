@@ -12,7 +12,7 @@ born: "c.1180, possibly in the area of modern France"
 died: "c.1200 in Füssenich, Germany of natural causes"
 birthPlace: "possiblythe area of modern France"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 6

@@ -12,7 +12,7 @@ born: "c.3 at Tarsus, Cilicia (modern Turkey) as Saul"
 died: "beheaded c.65 at Rome, Italy"
 birthPlace: "Cilicia (modern Turkey) as Saul"
 deathPlace: "Italy"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 1
   day: 25

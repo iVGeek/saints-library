@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1838
 died: "beheaded on 1 August 1838 in Ba Tòa, Nam Ðinh, Vietnam"
 deathPlace: "Nam Ðinh, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 8
   day: 1

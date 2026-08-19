@@ -10,7 +10,7 @@ born: "at Busoga, Uganda"
 died: "hacked to pieces on 27 May 1886 at Old Kampala, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 30

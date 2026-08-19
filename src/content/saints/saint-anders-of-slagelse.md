@@ -6,7 +6,7 @@ deathYear: 1205
 born: "12th-century Slagelse, Denmark"
 died: "c.1205 of natural causes"
 birthPlace: "Denmark"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 11
   day: 30

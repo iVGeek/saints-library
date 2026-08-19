@@ -10,7 +10,7 @@ deathYear: 800
 born: "English"
 died: "800 at Regensburg, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Ireland"
 feastDay:
   month: 1
   day: 8

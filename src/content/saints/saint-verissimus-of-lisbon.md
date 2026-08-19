@@ -5,7 +5,7 @@ summary: "Martyred with his sisters Saint Julia of Lisbon and Saint Maxima of Li
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Verissimus-of-Lisbon.jpg"
 deathYear: 304
 died: "c.304"
-region: "England"
+region: "Portugal"
 feastDay:
   month: 10
   day: 1

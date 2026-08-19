@@ -9,7 +9,7 @@ born: "10 March 1854 in Pollença, Mallorca, Islas Baleares, Spain"
 died: "16 October 1922 in Mallorca, Islas Baleares, Spain of natural causes while preaching in the Discalced Carmelite church"
 birthPlace: "Mallorca, Islas Baleares, Spain"
 deathPlace: "Islas Baleares, Spaof natural causes while preaching in the Discalced Carmelite church"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 24

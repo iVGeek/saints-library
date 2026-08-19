@@ -11,7 +11,7 @@ born: "1 March 1824 at Saint Christot-en-Jarret, Loire, France"
 died: "beheaded on 1 May 1852 at Tonkin, Indo-China (modern Vietnam)"
 birthPlace: "Loire, France"
 deathPlace: "Indo-China (modern Vietnam)"
-region: "France"
+region: "China"
 feastDay:
   month: 5
   day: 1

@@ -11,7 +11,7 @@ born: "2 March 1876 in Rome, Italy as Eugenio Pacelli"
 died: "9 October 1958 at Castelgandolfo, Vatican City of natural causes"
 birthPlace: "Italy as Eugenio Pacelli"
 deathPlace: "Vatican Citynatural causes"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 4
   day: 2

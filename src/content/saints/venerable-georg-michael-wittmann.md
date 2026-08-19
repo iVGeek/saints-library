@@ -9,7 +9,7 @@ born: "22 January 1760 in Finkenhammer, Oberpfalz, Bavaria, Germany"
 died: "8 March 1833 in Regensburg, Bavaria, Germany of natural causes"
 birthPlace: "Oberpfalz, Bavaria, Germany"
 deathPlace: "Bavaria, Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 12
   day: 21

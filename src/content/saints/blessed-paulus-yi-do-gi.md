@@ -9,7 +9,7 @@ born: "1743 in Cheongyang, Chungcheong-do, South Korea"
 died: "24 July 1798 in Jeongsan, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 7
   day: 24

@@ -11,7 +11,7 @@ born: "4 October 1839 at Montereggio di Mulazzo, Massa, Italy"
 died: "9 July 1900 in Taiyuan, Shanxi, China"
 birthPlace: "Massa, Italy"
 deathPlace: "Shanxi, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 9

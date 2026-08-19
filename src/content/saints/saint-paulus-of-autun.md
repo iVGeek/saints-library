@@ -9,7 +9,7 @@ deathYear: 273
 born: "3rd century Italy"
 died: "beheaded c.273 in Autun, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 1

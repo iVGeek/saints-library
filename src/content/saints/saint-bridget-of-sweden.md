@@ -14,7 +14,7 @@ searchAliases:
 birthYear: 1302
 born: "1302"
 birthPlace: "Rome"
-region: Rome
+region: "Scandinavia"
 centuries: [14]
 feastDay:
   month: 7

@@ -9,7 +9,7 @@ born: "1562 in Tideswell, Derbyshire, England"
 died: "hanged, drawn and quartered 1 October 1588 in Canterbury, Kent, England"
 birthPlace: "Derbyshire, England"
 deathPlace: "drawn and quartered 1 October 1588Canterbury, Kent, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 1

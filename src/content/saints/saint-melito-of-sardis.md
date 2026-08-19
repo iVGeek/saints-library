@@ -10,7 +10,7 @@ searchAliases:
   - "Melitus…"
 deathYear: 180
 died: "c.180 of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 4
   day: 1

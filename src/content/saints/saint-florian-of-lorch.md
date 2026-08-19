@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 304
 died: "scourged, flayed alive, a stone tied to his neck, and dumped into a river c.304"
 deathPlace: "flayed alive, a stone tied to his neck, and dumped into a river c.304"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 5
   day: 4

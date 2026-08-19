@@ -11,7 +11,7 @@ born: "10 September 1670 in Biumo Inferiore, Varese, Italy"
 died: "stoned to death by a mob on 3 March 1716 in Gondar, Ethiopia"
 birthPlace: "Varese, Italy"
 deathPlace: "Ethiopia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 3
   day: 3

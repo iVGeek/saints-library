@@ -9,7 +9,7 @@ born: "3 March 1914 in Carcar, Cebu, Philippines"
 died: "27 September 1988 in Magtalisay, San Fernando, Cebu, Philippines in a traffic accident"
 birthPlace: "Cebu, Philippines"
 deathPlace: "San Fernando, Cebu, Philippinesa traffic accident"
-region: "Italy"
+region: "Philippines"
 feastDay:
   month: 12
   day: 14

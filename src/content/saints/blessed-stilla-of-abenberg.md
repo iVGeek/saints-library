@@ -8,7 +8,7 @@ born: "early 12th century in Abenberg, diocese of Eichstätt, Bavaria (in modern
 died: "c.1145 in Abenberg, diocese of Eichstätt, Bavaria (in modern Germany) of natural causes"
 birthPlace: "dioceseEichstätt, Bavaria (in modern Germany)"
 deathPlace: "dioceseEichstätt, Bavaria (in modern Germany) of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 19

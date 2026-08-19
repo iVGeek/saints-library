@@ -11,7 +11,7 @@ born: "25 March 1905 in Galatina, Lecce, Italy"
 died: "8 February 1991 in Rome, Italy of natural causes"
 birthPlace: "Lecce, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 8

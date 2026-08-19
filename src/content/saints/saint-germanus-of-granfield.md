@@ -12,7 +12,7 @@ deathYear: 677
 born: "Trier, Germany"
 died: "c.677"
 birthPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 21

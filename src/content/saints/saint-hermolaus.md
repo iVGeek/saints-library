@@ -6,7 +6,7 @@ searchAliases:
   - "Ermolao"
 deathYear: 305
 died: "c.305"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 27

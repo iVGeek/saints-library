@@ -9,7 +9,7 @@ born: "9 December 1901 in Béjar, Salamanca, Spain"
 died: "22 December 1933 in Béjar, Salamanca, Spain of natural causes"
 birthPlace: "Salamanca, Spain"
 deathPlace: "Salamanca, Spaof natural causes"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 1
   day: 1

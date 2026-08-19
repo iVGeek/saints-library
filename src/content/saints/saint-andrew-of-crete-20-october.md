@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 763
 born: "Crete"
 died: "tortured and flogged to death c.763 in Constantinople"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 20

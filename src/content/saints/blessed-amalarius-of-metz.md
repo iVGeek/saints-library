@@ -13,7 +13,7 @@ deathYear: 853
 born: "775 in Metz, Kingdom of the Franks (in modern France)"
 died: "c.853"
 birthPlace: "Kingdomthe Franks (in modern France)"
-region: "France"
+region: "Germany"
 feastDay:
   month: 5
   day: 10

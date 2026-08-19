@@ -7,7 +7,7 @@ searchAliases:
   - "Disciple of the Apostles"
   - "Quadratus of Athens"
 died: "2nd century"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 5
   day: 26

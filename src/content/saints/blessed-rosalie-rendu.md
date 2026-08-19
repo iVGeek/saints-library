@@ -11,7 +11,7 @@ born: "9 September 1786 at Confort, Gex, France as Jeanne Marie Rendu"
 died: "7 February 1856 at Paris, France of natural causes"
 birthPlace: "Gex, France as Jeanne Marie Rendu"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 7

@@ -6,7 +6,7 @@ searchAliases:
   - "Melantius"
 deathYear: 385
 died: "385"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 16

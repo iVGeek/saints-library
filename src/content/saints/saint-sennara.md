@@ -5,7 +5,7 @@ summary: "Born a princess, the daughter of Count Even of Brest (in modern wester
 searchAliases:
   - "Azenora"
   - "Eleanor"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 5
   day: 6

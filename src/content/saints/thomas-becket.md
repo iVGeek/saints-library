@@ -17,7 +17,7 @@ born: 21 December 1118
 died: 29 December 1170
 birthPlace: London, England
 deathPlace: Canterbury, England
-region: England
+region: "France"
 centuries: [12]
 feastDay:
   month: 12

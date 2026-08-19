@@ -10,7 +10,7 @@ deathYear: 1928
 born: "21 September 1882 at San Pedro, Yuriria, Guanajuato, Mexico as Mateo Elias Nieves"
 died: "shot by soldiers under the command of Captain Manuel Marquez Cervantes on 10 March 1928"
 birthPlace: "Yuriria, Guanajuato, Mexico as Mateo Elias Nieves"
-region: "France"
+region: "Canada"
 feastDay:
   month: 3
   day: 10

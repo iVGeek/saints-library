@@ -13,7 +13,7 @@ born: "17 November 1869 at Prylbychi, Lviv District, Ukraine"
 died: "1 May 1951 in the prison at Volodymyr-Volynskyi, Ukraine"
 birthPlace: "Lviv District, Ukraine"
 deathPlace: "Ukraine"
-region: "England"
+region: "Austria"
 feastDay:
   month: 5
   day: 1

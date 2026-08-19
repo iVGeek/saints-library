@@ -12,7 +12,7 @@ born: "c.1552 in Haibara-cho, Nara, Japan"
 died: "3 February 1615 in Manila, Philippines of natural causes"
 birthPlace: "Nara, Japan"
 deathPlace: "Philippinesnatural causes"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 3

@@ -10,7 +10,7 @@ born: "3 October 1840 in Hurryhur, Mysore, Karnataka, India"
 died: "18 October 1916 in Câmara de Lobos, Funchal Madeira, Portugal of natural causes"
 birthPlace: "Mysore, Karnataka, India"
 deathPlace: "Funchal Madeira, Portugalnatural causes"
-region: "France"
+region: "India"
 feastDay:
   month: 1
   day: 15

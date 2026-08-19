@@ -7,7 +7,7 @@ searchAliases:
   - "Dio the Wonderworker"
   - "Dios…"
 born: "Antioch"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 19

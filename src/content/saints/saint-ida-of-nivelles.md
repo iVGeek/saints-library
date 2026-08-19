@@ -14,7 +14,7 @@ deathYear: 652
 born: "592"
 died: "8 May 652 in Nivelles, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 5
   day: 8

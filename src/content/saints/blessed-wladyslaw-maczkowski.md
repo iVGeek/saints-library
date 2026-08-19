@@ -11,7 +11,7 @@ born: "24 June 1911 in Ociaz, Wielkopolskie, Poland"
 died: "20 August 1942 in the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 20

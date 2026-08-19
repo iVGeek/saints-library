@@ -6,7 +6,7 @@ searchAliases:
   - "Seven Daughters of Fergus of Tigh-inghen-Ferghusa"
   - "Seven Sisters of Tir-na-Fiachra Aine"
   - "Sette figlie di Fergus"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 5
   day: 24

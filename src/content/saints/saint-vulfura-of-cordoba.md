@@ -6,7 +6,7 @@ deathYear: 937
 born: "Gaul (modern France)"
 died: "937 in Cordoba, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 5
   day: 13

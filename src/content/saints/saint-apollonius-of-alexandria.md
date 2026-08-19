@@ -5,7 +5,7 @@ summary: "Priest in Alexandria, Egypt. Martyred with five companions in the pers
 deathYear: 250
 died: "c.250 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 10

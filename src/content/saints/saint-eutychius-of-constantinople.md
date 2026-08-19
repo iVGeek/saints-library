@@ -11,7 +11,7 @@ born: "c.512 in Theion, Phrygia"
 died: "6 April 582 in Constantinople (modern Istanbul, Turkey) of natural causes"
 birthPlace: "Phrygia"
 deathPlace: "Turkey)natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 6

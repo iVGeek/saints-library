@@ -12,7 +12,7 @@ searchAliases:
 birthYear: 1865
 born: "1865"
 birthPlace: "Rome"
-region: Rome
+region: "Africa"
 centuries: [19]
 feastDay:
   month: 6

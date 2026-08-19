@@ -6,7 +6,7 @@ deathYear: 1026
 born: "Hesse, Germany"
 died: "1026"
 birthPlace: "Germany"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 8
   day: 20

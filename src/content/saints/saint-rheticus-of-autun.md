@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 334
 born: "Gallo-Roman"
 died: "334 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 15

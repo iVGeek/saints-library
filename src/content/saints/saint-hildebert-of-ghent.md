@@ -6,7 +6,7 @@ searchAliases:
   - "Emebert"
 deathYear: 752
 died: "752"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 4
   day: 4

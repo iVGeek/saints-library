@@ -6,7 +6,7 @@ deathYear: 1249
 born: "late 12th century"
 died: "1249 in Lisbon, Portugal of natural causes"
 deathPlace: "Portugalnatural causes"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 2
   day: 26

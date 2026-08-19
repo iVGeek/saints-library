@@ -12,7 +12,7 @@ born: "22 May 1901 in Baños del Valdeapados, Burgos, Spain"
 died: "shot on 25 July 1936 in Motril, Granada, Spain"
 birthPlace: "Burgos, Spain"
 deathPlace: "Granada, Spain"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 25

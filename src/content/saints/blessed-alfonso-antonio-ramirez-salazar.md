@@ -11,7 +11,7 @@ born: "2 September 1913 in La Ceja, Antioquia, Colombia"
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "Antioquia, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

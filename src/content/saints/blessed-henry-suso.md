@@ -16,7 +16,7 @@ born: "21 March 1295 at Uberlingen, Germany as Heinrich von Berg"
 died: "25 January 1366 at Ulm, Germany of natural cause"
 birthPlace: "Germany as Heinrich von Berg"
 deathPlace: "Germanynatural cause"
-region: "Spain"
+region: "Germany"
 feastDay:
   month: 1
   day: 25

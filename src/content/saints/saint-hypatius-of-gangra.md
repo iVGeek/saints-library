@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 325
 died: "stoned to death c.325 at Gangra, Paphlagonia (modern Çankiri, Turkey)"
 deathPlace: "Paphlagonia (modern Çankiri, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 14

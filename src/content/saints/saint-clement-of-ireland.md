@@ -10,7 +10,7 @@ deathYear: 818
 born: "c.750 in Ireland"
 died: "20 March 818 in Auxerre, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 20

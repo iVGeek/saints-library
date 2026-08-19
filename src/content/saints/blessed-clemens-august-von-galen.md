@@ -11,7 +11,7 @@ born: "16 March 1878 at Dinklage Castle, Lower Saxony, Germany"
 died: "22 March 1946 at Münster, North Rhine-Westphalia, Germany of natural causes"
 birthPlace: "Lower Saxony, Germany"
 deathPlace: "North Rhine-Westphalia, Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 22

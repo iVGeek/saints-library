@@ -15,7 +15,7 @@ deathYear: 1177
 born: "c.1120 in Lombardy (in modern northern Italy)"
 died: "1177 in the Abbey of Notre-Dame d'Igny, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 8

@@ -9,7 +9,7 @@ deathYear: 408
 born: "Constantinople"
 died: "408 at Nicomedia, Bithynia (in modern Turkey)"
 deathPlace: "Bithynia (modern Turkey)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 25

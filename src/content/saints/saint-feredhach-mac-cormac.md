@@ -6,7 +6,7 @@ searchAliases:
   - "Feredacius"
 deathYear: 880
 died: "c.880"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 5
   day: 31

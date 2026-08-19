@@ -10,7 +10,7 @@ born: "c.1500 in Kilmallock, Limerick, Ireland"
 died: "20 April 1585 in Clonmel, Ireland"
 birthPlace: "Limerick, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 4
   day: 20

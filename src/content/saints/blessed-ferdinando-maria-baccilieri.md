@@ -8,7 +8,7 @@ deathYear: 1893
 born: "14 May 1821 in Campodoso (modern Modena), Italy"
 died: "13 July 1893 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Korea"
 feastDay:
   month: 7
   day: 13

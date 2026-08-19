@@ -7,7 +7,7 @@ birthYear: 1795
 deathYear: 1839
 born: "1795 in Korea"
 died: "22 September 1839"
-region: "Italy"
+region: "Korea"
 feastDay:
   month: 9
   day: 20

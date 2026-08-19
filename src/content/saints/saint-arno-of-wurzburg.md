@@ -6,7 +6,7 @@ deathYear: 892
 born: "9th century"
 died: "13 July 892 at Chemnitz, Saxony (in modern Germany)"
 deathPlace: "Saxony (modern Germany)"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 13

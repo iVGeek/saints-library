@@ -5,7 +5,7 @@ summary: "Educated in Jerusalem. Monk. Hermit. Priest. Noted for his learning an
 deathYear: 450
 born: "Jerusalem"
 died: "c.450 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 3
   day: 28

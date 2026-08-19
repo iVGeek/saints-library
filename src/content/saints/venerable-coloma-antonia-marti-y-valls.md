@@ -12,7 +12,7 @@ born: "26 June 1860 in Badalona, diocese of Barcelona, Spain"
 died: "4 June 1899 in Badalona, Barcelona, Spain of endocarditis, an inflammation of part of the heart"
 birthPlace: "dioceseBarcelona, Spain"
 deathPlace: "Barcelona, Spaof endocarditis, an inflammation of part of the heart"
-region: "France"
+region: "Spain"
 feastDay:
   month: 10
   day: 2

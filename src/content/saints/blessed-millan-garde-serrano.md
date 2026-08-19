@@ -9,7 +9,7 @@ born: "22 December 1876 in Vara de Rey, Cuenca, Spain"
 died: "7 July 1938 in Cuenca, Spain"
 birthPlace: "Cuenca, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 7
   day: 7

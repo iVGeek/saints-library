@@ -9,7 +9,7 @@ born: "5 October 1901 in Ahuetita de Abajo, Teocaltiche, Jalisco, Mexico"
 died: "shot at dawn on 1 July 1928 in Las Cruces, Cuquío, Jalisco, Mexico"
 birthPlace: "Teocaltiche, Jalisco, Mexico"
 deathPlace: "Cuquío, Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 7
   day: 1

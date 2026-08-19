@@ -11,7 +11,7 @@ deathYear: 1231
 born: "c.1155 at Genoa, Italy"
 died: "1231 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 25

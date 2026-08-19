@@ -9,7 +9,7 @@ born: "c.510 Dalaradia, near Magheramorne, County Antrim, Ireland"
 died: "601 at Bangor Abbey, Ireland of natural causes"
 birthPlace: "near Magheramorne, County Antrim, Ireland"
 deathPlace: "Irelandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 5
   day: 10

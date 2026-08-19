@@ -13,7 +13,7 @@ born: "1090 at Cologne, Germany"
 died: "1150 at Gallese, Umbria, Italy of natural causes"
 birthPlace: "Germany"
 deathPlace: "Umbria, Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 8

@@ -9,7 +9,7 @@ born: "27 January 1888 in Ontinyent, Valencia, Spain"
 died: "shot on the night of 24 September 1936 at the port of L'Ollería, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 24

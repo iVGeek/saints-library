@@ -8,7 +8,7 @@ born: "1690 at Epirus, Greece"
 died: "beheaded in 1720 in Constantinople (modern Istanbul, Turkey)"
 birthPlace: "Greece"
 deathPlace: "Turkey)"
-region: "Greece"
+region: "Turkey"
 feastDay:
   month: 1
   day: 25

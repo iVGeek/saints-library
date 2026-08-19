@@ -12,7 +12,7 @@ born: "1542 in San Esteban del Valle, Avila, Castille (in modern Spain)"
 died: "crucified on 5 February 1597 on a hill in Nagasaki, Japan"
 birthPlace: "Avila, Castille (modern Spain)"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

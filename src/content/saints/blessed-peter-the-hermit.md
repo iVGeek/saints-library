@@ -10,7 +10,7 @@ born: "c.1050 at Amiens, France"
 died: "1115 at the Neufmoustier monastery in Huy, Belgium of natural causes"
 birthPlace: "France"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 8

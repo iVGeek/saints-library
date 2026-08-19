@@ -11,7 +11,7 @@ born: "20 May 1907 in Sankt Radegund, Ober&ouml;sterreich, Austria"
 died: "beheaded on 9 August 1943 in Brandenburg an der Havel, Brandenburg, Germany"
 birthPlace: "Ober&ouml;sterreich, Austria"
 deathPlace: "Brandenburg, Germany"
-region: "France"
+region: "Austria"
 feastDay:
   month: 8
   day: 9

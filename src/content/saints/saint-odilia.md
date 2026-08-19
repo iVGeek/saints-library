@@ -5,7 +5,7 @@ summary: " In the spring of 1287, she appeared in a vision to John Novelan of Ep
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Odilia.jpg"
 died: "Cologne, Germany"
 deathPlace: "Germany"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 13

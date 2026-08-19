@@ -13,7 +13,7 @@ deathYear: 650
 born: "c.580 in Gaul (modern France)"
 died: "c.650 at Rebais, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 8
   day: 30

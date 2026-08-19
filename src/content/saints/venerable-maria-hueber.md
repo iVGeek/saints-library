@@ -9,7 +9,7 @@ born: "22 May 1653 in Bressanone, Bolzano, Italy"
 died: "31 July 1705 in Bressanone, Bolzano, Italy of natural causes"
 birthPlace: "Bolzano, Italy"
 deathPlace: "Bolzano, Italynatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 1

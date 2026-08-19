@@ -9,7 +9,7 @@ born: "23 December 1840 in Mexico City, Mexico"
 died: "26 April 1898 in Tacuba, Mexico City, Mexico of natural causes"
 birthPlace: "Mexico"
 deathPlace: "Mexico City, Mexiconatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 6
   day: 11

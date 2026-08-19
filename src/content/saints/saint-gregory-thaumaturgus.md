@@ -16,7 +16,7 @@ born: "c.213 at Pontus, Asia Minor (in modern Turkey) as Theodorus"
 died: "c.270 at Pontus, Asia Minor (in modern Turkey) of natural causes"
 birthPlace: "Asia Minor (modern Turkey) as Theodorus"
 deathPlace: "Asia Minor (modern Turkey) of natural causes"
-region: "Italy"
+region: "Australia"
 feastDay:
   month: 11
   day: 17

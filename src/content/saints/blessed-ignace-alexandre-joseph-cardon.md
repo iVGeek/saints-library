@@ -11,7 +11,7 @@ born: "Cambrai, Nord, France"
 died: "14 May 1799 in Casamari Abbey, Veroli, Frosinone, Italy of injuries sustained on 13 May"
 birthPlace: "Nord, France"
 deathPlace: "Veroli, Frosinone, Italyinjuries sustained on 13 May"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 16

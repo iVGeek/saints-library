@@ -12,7 +12,7 @@ deathYear: 404
 born: "5 May 347 at Rome, Italy"
 died: "404 at Bethlehem of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 26

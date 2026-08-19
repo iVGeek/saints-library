@@ -7,7 +7,7 @@ searchAliases:
   - "Bertha of Val d'Or"
 deathYear: 685
 died: "c.685"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 5
   day: 1

@@ -13,7 +13,7 @@ born: "10 July 1883 in Düppennweiler, Saar, Germany"
 died: "18 May 1918 in Trier, Germany of tuberculosis"
 birthPlace: "Saar, Germany"
 deathPlace: "Germanytuberculosis"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 18

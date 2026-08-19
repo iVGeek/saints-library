@@ -12,7 +12,7 @@ born: "c.1572 in Lincolnshire, England"
 died: "hanged, drawn, and quartered on 27 February 1601 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 27 February 1601 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 27

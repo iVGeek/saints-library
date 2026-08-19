@@ -9,7 +9,7 @@ born: "c.1813 in Gò Công, Biên Hòa, Vietnam"
 died: "beheaded on 11 May 1847 in Cho Ðui, Dong Nai, Vietnam; it took three blows to kill him"
 birthPlace: "Biên Hòa, Vietnam"
 deathPlace: "Dong Nai, Vietnam; it took three blows to kill him"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 11

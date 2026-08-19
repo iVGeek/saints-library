@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Hermit near Antioch, Syria."
 deathYear: 782
 died: "782 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 18

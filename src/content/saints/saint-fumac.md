@@ -5,7 +5,7 @@ honorific: Saint
 summary: "First Christian missionary in Banffshire, Scotland. A healing well there is named for him."
 searchAliases:
   - "Fumach"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 5
   day: 3

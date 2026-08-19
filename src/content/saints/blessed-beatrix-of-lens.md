@@ -6,7 +6,7 @@ deathYear: 1216
 born: "Lens, diocese of Arras, France"
 died: "after 1216 of natural causes"
 birthPlace: "dioceseArras, France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 19

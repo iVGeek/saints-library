@@ -8,7 +8,7 @@ searchAliases:
   - "Ruadhan"
 born: "Kilmaronen, Lennox, Scotland"
 birthPlace: "Lennox, Scotland"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 2
   day: 7

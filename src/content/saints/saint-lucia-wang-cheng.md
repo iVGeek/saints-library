@@ -12,7 +12,7 @@ born: "c.1882 in Laochuntan, Ningjing, Hebei, China"
 died: "28 June 1900 in Wangla, Dongguang, Hebei, China"
 birthPlace: "Ningjing, Hebei, China"
 deathPlace: "Dongguang, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 28

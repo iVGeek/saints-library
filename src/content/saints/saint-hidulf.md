@@ -14,7 +14,7 @@ deathYear: 707
 born: "Regensburg, Germany"
 died: "707"
 birthPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 11

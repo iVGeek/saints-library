@@ -17,7 +17,7 @@ born: "962 in the family castle on San Giuglio Island, Lake Orta, Novara, Piedmo
 died: "1 January 1031 at Fecamp monastery, Normandy, France of natural causes"
 birthPlace: "Lake Orta, Novara, Piedmont, northern Italy"
 deathPlace: "Normandy, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

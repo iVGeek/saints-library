@@ -10,7 +10,7 @@ born: "1588 in Tuy, Pontevedra, Spain"
 died: "burned to death on 8 September 1628 at Nagasaki, Japan"
 birthPlace: "Pontevedra, Spain"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

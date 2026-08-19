@@ -10,7 +10,7 @@ searchAliases:
   - "Imago thaumaturga Beatae Virginis Mariae Immaculatae Conceptae"
   - "Matka Boska Czestochowska"
   - "One Who Shows the Way"
-region: "England"
+region: "Poland"
 feastDay:
   month: 8
   day: 26

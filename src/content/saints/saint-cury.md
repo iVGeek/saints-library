@@ -8,7 +8,7 @@ deathYear: 401
 born: "Brittany, France"
 died: "401 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "England"
 feastDay:
   month: 12
   day: 12

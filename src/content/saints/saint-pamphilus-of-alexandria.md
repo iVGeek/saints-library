@@ -5,7 +5,7 @@ summary: "Studied in Berytus, Phoenicia and in Alexandria, Egypt. Careful studen
 image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Pamphilus-of-Alexandria.jpg"
 born: "Berytus, Phoenicia"
 birthPlace: "Phoenicia"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 1

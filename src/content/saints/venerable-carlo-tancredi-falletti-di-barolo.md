@@ -11,7 +11,7 @@ born: "26 October 1782 on the family estate in Turin, Italy"
 died: "4 September 1838 in Chiari, Brescia, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Brescia, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 18

@@ -13,7 +13,7 @@ born: "c.1010 in Lambach an der Traun, Austria"
 died: "6 October 1090 at the abbey at Lambach, Austria of natural causes"
 birthPlace: "Austria"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Austria"
 feastDay:
   month: 10
   day: 6

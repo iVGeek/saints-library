@@ -15,7 +15,7 @@ deathYear: 1381
 born: "1293 near Brussels, Belgium"
 died: "2 December 1381 at Groenendael of natural causes"
 birthPlace: "Belgium"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 12
   day: 2

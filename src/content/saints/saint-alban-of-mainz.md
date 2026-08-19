@@ -12,7 +12,7 @@ deathYear: 400
 born: "Greek or Albanian (sources vary)"
 died: "c.400 by pagan Vandals at Hanum, Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 21

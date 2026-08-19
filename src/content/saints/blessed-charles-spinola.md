@@ -11,7 +11,7 @@ born: "c.1565 at Madrid, Spain"
 died: "slowly burned to death on 10 September 1622 at Nagasaki, Japan"
 birthPlace: "Spain"
 deathPlace: "Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 9
   day: 11

@@ -9,7 +9,7 @@ born: "1 December 1904 in Chirivel, Almería, Spain"
 died: "23 August 1936 in Chirivel, Almería, Spain"
 birthPlace: "Almería, Spain"
 deathPlace: "Almería, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 23

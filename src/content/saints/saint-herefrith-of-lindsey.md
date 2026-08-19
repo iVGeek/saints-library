@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Lindsey, England. Martyred by Danes."
 deathYear: 869
 died: "c.869"
-region: "France"
+region: "England"
 feastDay:
   month: 2
   day: 27

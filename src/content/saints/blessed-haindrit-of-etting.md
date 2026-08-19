@@ -11,7 +11,7 @@ searchAliases:
   - "Ireneus"
 died: "buried at Oetting (modern Etting) in Ingolstadt, Germany"
 deathPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 9
   day: 3

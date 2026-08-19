@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 430
 born: "4th century Byzantium"
 died: "c.430 of natural causes"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 12

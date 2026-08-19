@@ -11,7 +11,7 @@ born: "27 March 1909 in Pobiedziska, Wielkopolskie, Poland"
 died: "25 January 1945 at the Dachau concentration camp, Oberbayern, Germany of typhus"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germanytyphus"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 25

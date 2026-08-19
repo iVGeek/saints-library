@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Con
 searchAliases:
   - "Maria"
 died: "5th century Jerusalem"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 26

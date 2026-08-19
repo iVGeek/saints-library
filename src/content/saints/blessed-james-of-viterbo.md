@@ -14,7 +14,7 @@ deathYear: 1308
 born: "c.1255 in Viterbo, Italy as James Capocci"
 died: "1308 of natural causes"
 birthPlace: "Italy as James Capocci"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 12

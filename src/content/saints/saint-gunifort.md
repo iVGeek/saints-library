@@ -13,7 +13,7 @@ deathYear: 303
 born: "in the British Isles"
 died: "c.303 in Pavia, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 22

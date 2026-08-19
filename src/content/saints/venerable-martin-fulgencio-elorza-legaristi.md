@@ -11,7 +11,7 @@ born: "30 December 1899 in Elgueta, Guipúzcoa, Spain"
 died: "30 December 1966 in Lima, Peru of a heart attack"
 birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Perua heart attack"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 6
   day: 12

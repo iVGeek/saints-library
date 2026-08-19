@@ -9,7 +9,7 @@ born: "8 October 1840 in Langon, Gironde, France"
 died: "tortured, blinded by having quicklime thrown in his eyes, and then beheaded on 7 March 1866 on a beach beside the Han River in Saenamteo, Seoul, South Korea"
 birthPlace: "Gironde, France"
 deathPlace: "blinded by having quicklime thrownhis eyes, and then beheaded on 7 March 1866 on a beach beside the Han River in Saenamteo, Seoul, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 3
   day: 7

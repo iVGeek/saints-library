@@ -13,7 +13,7 @@ born: "22 February 1698 at Voltaggio, diocese of Genoa, Italy"
 died: "23 May 1764 at Trinita dei Pellegrini, Italy of multiple strokes"
 birthPlace: "dioceseGenoa, Italy"
 deathPlace: "Italymultiple strokes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 23

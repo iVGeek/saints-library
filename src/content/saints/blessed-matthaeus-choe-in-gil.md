@@ -9,7 +9,7 @@ born: "1764 in Seoul, South Korea"
 died: "28 June 1795 in Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 6
   day: 28

@@ -11,7 +11,7 @@ born: "1694 at Gerona, Spain"
 died: "strangled to death on 25 October 1748 in Fu-tsheu prison, Fo-kien province, China;\neven the executioners noted that the faces of the victims looked peaceful and radiant"
 birthPlace: "Spain"
 deathPlace: "Fo-kien province, China;\neven the executioners noted that the facesthe victims looked peaceful and radiant"
-region: "Spain"
+region: "China"
 feastDay:
   month: 10
   day: 28

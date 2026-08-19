@@ -18,7 +18,7 @@ born: "1225 in Zande, Ostend, Belgium"
 died: "21 January 1307 in Poitiers, France of natural causes"
 birthPlace: "Ostend, Belgium"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 1
   day: 21

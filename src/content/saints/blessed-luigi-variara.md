@@ -10,7 +10,7 @@ deathYear: 1923
 born: "15 January 1875 at Viarigi (Asti), Italy"
 died: "1 February 1923 in Colombia of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Colombia"
 feastDay:
   month: 2
   day: 1

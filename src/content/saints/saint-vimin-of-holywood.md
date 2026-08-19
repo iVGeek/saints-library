@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 615
 born: "Scotland"
 died: "c.615"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 1
   day: 21

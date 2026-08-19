@@ -15,7 +15,7 @@ born: 1st century BC
 died: c. AD 64–67
 birthPlace: Bethsaida, Holy Land
 deathPlace: Rome, Italy
-region: Holy Land
+region: "Italy"
 centuries: [1]
 feastDay:
   month: 6

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1274
 died: "15 July 1274 at Lyon, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 15

@@ -15,7 +15,7 @@ deathYear: 529
 born: "423 at Garissus, Cappadocia (modern Turkey)"
 died: "529 at Cathismus of natural causes"
 birthPlace: "Cappadocia (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 11

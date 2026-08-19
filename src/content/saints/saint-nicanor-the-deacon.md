@@ -8,7 +8,7 @@ searchAliases:
   - "Nicanore…"
   - "Nikanor…"
 died: "c.76"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 28

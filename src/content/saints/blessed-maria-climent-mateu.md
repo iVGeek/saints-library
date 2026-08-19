@@ -9,7 +9,7 @@ born: "30 May 1887 in Xàtiva, Valencia, Spain"
 died: "stabbed to death on 20 August 1936 in Picadero de Paterna, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 20

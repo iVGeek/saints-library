@@ -9,7 +9,7 @@ born: "Easter Sunday, 16 April 1825 in Lyon, Rhône, France"
 died: "2 October 1879 in Lyon, Rhône, France of natural causes"
 birthPlace: "16 April 1825Lyon, Rhône, France"
 deathPlace: "Rhône, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 2

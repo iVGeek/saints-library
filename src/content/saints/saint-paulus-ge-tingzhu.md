@@ -12,7 +12,7 @@ born: "c.1839 in Xiaotun, Shenzhou, Hebei, China"
 died: "tied to a tree and chunks of his body cut off till he died of blood loss and shock on 8 August 1900 in Xiaotun, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 8
   day: 8

@@ -9,7 +9,7 @@ deathYear: 1179
 born: "c.1100 in Florence, Italy"
 died: "11 December 1179 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 11

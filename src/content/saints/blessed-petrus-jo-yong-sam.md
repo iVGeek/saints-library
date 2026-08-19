@@ -9,7 +9,7 @@ born: "Yanggeon, Gyeonggi-do, South Korea"
 died: "27 March 1801 in Cheongju, Chungcheong-do, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 3
   day: 27

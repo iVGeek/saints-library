@@ -9,7 +9,7 @@ born: "14 December 1702 in Tortosa, Spain"
 died: "beheaded on 22 January 1745 in Thang Long, Hanoi, Vietnam"
 birthPlace: "Spain"
 deathPlace: "Hanoi, Vietnam"
-region: "France"
+region: "Philippines"
 feastDay:
   month: 1
   day: 22

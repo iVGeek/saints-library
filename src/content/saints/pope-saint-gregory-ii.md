@@ -12,7 +12,7 @@ born: "669 at Rome, Italy"
 died: "11 February 731 at Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 11

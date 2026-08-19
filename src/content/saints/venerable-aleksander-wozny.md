@@ -9,7 +9,7 @@ born: "25 June 1910 in Uzarzewo, Swarzedz, Poznan, Poland"
 died: "21 August 1983 in Poznan, Poland of natural causes"
 birthPlace: "Swarzedz, Poznan, Poland"
 deathPlace: "Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 6
   day: 10

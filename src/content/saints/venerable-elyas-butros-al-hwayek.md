@@ -15,7 +15,7 @@ born: "4 December 1843 in Helta, Batroun, Lebanon"
 died: "24 December 1931 in Bkerké, Kserwan, Lebanon of natural causes"
 birthPlace: "Batroun, Lebanon"
 deathPlace: "Kserwan, Lebanonnatural causes"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 1
   day: 6

@@ -18,7 +18,7 @@ born: "570 in Regensburg, Germany"
 died: "22 January 627 in Monza, Italy"
 birthPlace: "Germany"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 22

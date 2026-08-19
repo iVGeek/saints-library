@@ -9,7 +9,7 @@ born: "9 July 1882 in Nagórzany, Podkarpackie, Poland"
 died: "20 May 1942 on the road from the Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 4
   day: 20

@@ -13,7 +13,7 @@ born: "c.1602 in Omura, Nagasaki, Japan"
 died: "hanged upside down on 6 November 1637 in Hill of Martyrs, Nishizaka, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nishizaka, Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 6

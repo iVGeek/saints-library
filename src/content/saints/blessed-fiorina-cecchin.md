@@ -10,7 +10,7 @@ deathYear: 1925
 born: "3 April 1877 in Cittadella, Padua, Italy"
 died: "13 November 1925 on board a ship on the Red Sea between Egypt and Saudi Arabia of natural causes"
 birthPlace: "Padua, Italy"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 13

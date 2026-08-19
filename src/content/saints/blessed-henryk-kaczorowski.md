@@ -9,7 +9,7 @@ born: "10 July 1888 in Bierzwiennej, Wielkopolskie, Poland"
 died: "gassed on 6 May 1942 in the concentration camp at Dachau, Bavaria, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Bavaria, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 5
   day: 6

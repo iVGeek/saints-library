@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 669
 born: "in eastern Scotland"
 died: "669"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 12
   day: 24

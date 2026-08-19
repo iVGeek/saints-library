@@ -7,7 +7,7 @@ searchAliases:
   - "Copretes"
 deathYear: 363
 died: "beheaded c.363 in Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 7
   day: 9

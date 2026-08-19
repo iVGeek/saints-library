@@ -12,7 +12,7 @@ born: "25 November 1774 at Trent, Italy as Aloysius Bellesini"
 died: "2 February 1840 of cholera and an infection that developed from a cut on his leg received by an accidental fall while visiting the sick at Genazzano, Italy"
 birthPlace: "Italy as Aloysius Bellesini"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 2

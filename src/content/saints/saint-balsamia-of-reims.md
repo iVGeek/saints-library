@@ -9,7 +9,7 @@ born: "Rome, Italy"
 died: "5th century Cerny-en-Laonnois near Laon, France, traditionally on 16 November, exact year unknown"
 birthPlace: "Italy"
 deathPlace: "France, traditionally on 16 November, exact year unknown"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 27

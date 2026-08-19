@@ -8,7 +8,7 @@ born: "c.1622 in San Salvador, Jujuy, Argentina"
 died: "27 October 1683 in Zenta Valley, Salta, Argentina"
 birthPlace: "Jujuy, Argentina"
 deathPlace: "Salta, Argentina"
-region: "England"
+region: "Argentina"
 feastDay:
   month: 10
   day: 27

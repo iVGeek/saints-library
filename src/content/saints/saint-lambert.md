@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Spiritual student of Saint Gislenus in Belgium and France."
 deathYear: 680
 died: "c.680"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 9

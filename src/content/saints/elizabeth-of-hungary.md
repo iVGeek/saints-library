@@ -17,7 +17,7 @@ born: 7 July 1207
 died: 17 November 1231
 birthPlace: Pressburg, Hungary
 deathPlace: Marburg, Germany
-region: Germany
+region: "Hungary"
 centuries: [13]
 feastDay:
   month: 11

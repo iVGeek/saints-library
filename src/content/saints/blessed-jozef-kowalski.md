@@ -11,7 +11,7 @@ deathYear: 1942
 born: "13 March 1911 at Siedliska, Podkarpackie, Poland"
 died: "drowned in a cesspool on 3 July 1942 at the Auschwitz concentration camp in Nazi-occupied Poland"
 birthPlace: "Podkarpackie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 7
   day: 4

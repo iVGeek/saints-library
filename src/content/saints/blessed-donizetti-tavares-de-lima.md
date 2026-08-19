@@ -9,7 +9,7 @@ born: "3 January 1882 in Cássia, Brazil"
 died: "at 11.15am on 16 June 1961 in at the parish hall in Tambaú, Brazil of natural causes"
 birthPlace: "Brazil"
 deathPlace: "Brazilnatural causes"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 6
   day: 16

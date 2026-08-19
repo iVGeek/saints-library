@@ -9,7 +9,7 @@ born: "14 May 1820 in Le Havre-de-Grâce, Seine Maritime, France"
 died: "27 June 1885 in Moulins, Allier, France of natural causes"
 birthPlace: "Seine Maritime, France"
 deathPlace: "Allier, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 27

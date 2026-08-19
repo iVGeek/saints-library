@@ -7,7 +7,7 @@ born: "in Horton, Yorkshire, England"
 died: "22 August 1582 in York, North Yorkshire, England"
 birthPlace: "Yorkshire, England"
 deathPlace: "North Yorkshire, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 22

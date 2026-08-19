@@ -7,7 +7,7 @@ searchAliases:
 born: "7th century England"
 died: "Flanders, Belgium"
 deathPlace: "Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 7
   day: 24

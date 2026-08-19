@@ -18,7 +18,7 @@ born: 7 April 1506
 died: 3 December 1552
 birthPlace: Xavier, Spain
 deathPlace: Shangchuan Island, China
-region: Spain
+region: "Japan"
 centuries: [16]
 feastDay:
   month: 12

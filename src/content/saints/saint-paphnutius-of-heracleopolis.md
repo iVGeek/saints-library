@@ -9,7 +9,7 @@ searchAliases:
   - "Paphnutios"
 deathYear: 380
 died: "c.380"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 11
   day: 29

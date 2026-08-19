@@ -28,7 +28,7 @@ deathYear: 304
 born: "North Africa"
 died: "beheaded in 304 near Barcelona, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 25

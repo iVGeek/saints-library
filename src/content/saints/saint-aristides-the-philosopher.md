@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aristides-the-Ph
 searchAliases:
   - "Aristides of Athens"
   - "Aristide Marciano"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 8
   day: 31

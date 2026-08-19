@@ -10,7 +10,7 @@ born: "c.1781 in Ðông Biên, Thanh Hóa, Vietnam"
 died: "beheaded on 12 August 1838 in Bay Mau, Hanoi, Vietnam"
 birthPlace: "Thanh Hóa, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 8
   day: 12

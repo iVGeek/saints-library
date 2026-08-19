@@ -11,7 +11,7 @@ born: "25 August 1811 in San Sebastián de La Gomera, Santa Cruz de Tenerife, Sp
 died: "23 April 1878 in Seville, Spain of natural causes"
 birthPlace: "Santa Cruz de Tenerife, Spain"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 1

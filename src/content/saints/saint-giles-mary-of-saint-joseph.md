@@ -18,7 +18,7 @@ born: "16 November 1729 at Taranto, Apulia, Italy as Francis Pontillo"
 died: "7 February 1812 at Naples, Italy of natural causes while at prayer"
 birthPlace: "Apulia, Italy as Francis Pontillo"
 deathPlace: "Italynatural causes while at prayer"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 7

@@ -6,7 +6,7 @@ searchAliases:
   - "Abraames of Harran"
 deathYear: 422
 died: "c.422 of apparent natural causes at Constantinople while visiting the emperor"
-region: "England"
+region: "Syria"
 feastDay:
   month: 2
   day: 14

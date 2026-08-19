@@ -8,7 +8,7 @@ searchAliases:
   - "Veho"
   - "Vougar"
   - "Vougas"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 6
   day: 15

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Ordained by Saint Cyril, Patriarch of Alexandria. Leader of the orthodox Christians in Alexandria. Appointed archpriest of Alexandria by Dioscorus, Patriarch of Alexandria. When Dioscorus began supporting heretical theologians, Proterus opposed him. When Dioscorus was denounced b"
 deathYear: 457
 died: "stabbed to death on 28 January 457"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 28

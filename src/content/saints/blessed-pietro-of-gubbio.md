@@ -10,7 +10,7 @@ born: "early 13th century in Gubbio, Umbria, Italy"
 died: "between 1306 and 1322 in Gubbio, Umbria, Italy of natural causes"
 birthPlace: "Umbria, Italy"
 deathPlace: "Umbria, Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 3
   day: 23

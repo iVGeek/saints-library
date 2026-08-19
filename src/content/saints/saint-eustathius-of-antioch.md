@@ -15,7 +15,7 @@ born: "c.270 at Sida, Pamphylia (in modern Turkey)"
 died: "c.337 at Philippi, Macedonia of natural causes"
 birthPlace: "Pamphylia (modern Turkey)"
 deathPlace: "Macedonianatural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 21

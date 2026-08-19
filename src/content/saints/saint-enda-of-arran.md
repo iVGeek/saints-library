@@ -14,7 +14,7 @@ deathYear: 530
 born: "Meath, Ireland"
 died: "c.530 of natural causes"
 birthPlace: "Ireland"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 3
   day: 21

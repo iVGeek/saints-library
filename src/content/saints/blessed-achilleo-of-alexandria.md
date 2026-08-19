@@ -7,7 +7,7 @@ searchAliases:
   - "Achilla"
 deathYear: 312
 died: "13 June 312 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 13

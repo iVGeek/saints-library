@@ -8,7 +8,7 @@ born: "c.1582 in Usuki, Japan"
 died: "27 November 1619 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 27

@@ -11,7 +11,7 @@ born: "c.1818 in Ngoc Cuc, Nam Ðinh, Vietnam"
 died: "beheaded on 16 June 1862 in Làng Cóc, Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Nam Ðinh, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 16

@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 660
 born: "may have been a Roman citizen"
 died: "c.660"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 14

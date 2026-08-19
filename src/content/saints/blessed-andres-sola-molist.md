@@ -9,7 +9,7 @@ born: "7 October 1895 in Taradell, Barcelona, Spain"
 died: "shot on 25 April 1927 in Rancho de San Joaquín, Jalisco, Mexico"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Jalisco, Mexico"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 4
   day: 25

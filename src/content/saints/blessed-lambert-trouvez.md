@@ -11,7 +11,7 @@ born: "1585 in Ham-Sur-Heure, Hainaut, Belgium"
 died: "burned alive on 10 September 1622 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Hainaut, Belgium"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 10

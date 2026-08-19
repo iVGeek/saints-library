@@ -12,7 +12,7 @@ born: "3 August 1901 in Zuzela, Ostrów Mazowiecka, Russian Empire (in modern Po
 died: "28 May 1981 in Warsaw, Poland of abdominal cancer"
 birthPlace: "Ostrów Mazowiecka, Russian Empire (modern Poland)"
 deathPlace: "Polandabdominal cancer"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 28

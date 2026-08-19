@@ -7,7 +7,7 @@ searchAliases:
   - "Addeus"
   - "Thaddeus"
 died: "early 2nd century"
-region: "England"
+region: "Syria"
 feastDay:
   month: 8
   day: 5

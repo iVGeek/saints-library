@@ -15,7 +15,7 @@ born: "13 April 1871 at Lugine, Lithuania"
 died: "27 January 1927 of appendicitis at Kaunas, Lithuania"
 birthPlace: "Lithuania"
 deathPlace: "Lithuania"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 27

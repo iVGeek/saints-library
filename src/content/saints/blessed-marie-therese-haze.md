@@ -14,7 +14,7 @@ born: "27 February 1782 in Liège, Belgium as Jeanne"
 died: "7 January 1876 in Liège, Belgium of natural causes"
 birthPlace: "Belgium as Jeanne"
 deathPlace: "Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 1
   day: 7

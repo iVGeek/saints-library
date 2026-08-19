@@ -7,7 +7,7 @@ searchAliases:
   - "Eigil"
 deathYear: 871
 died: "871 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 6
   day: 28

@@ -11,7 +11,7 @@ deathYear: 1156
 born: "1092 in Auvergne, France"
 died: "25 December 1156 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 25

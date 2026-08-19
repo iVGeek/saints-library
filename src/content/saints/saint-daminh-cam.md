@@ -10,7 +10,7 @@ born: "Cam Chuong, Bac Ninh, Vietnam"
 died: "beheaded on 11 March 1859 in Hung Yên, Vietnam"
 birthPlace: "Bac Ninh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 3
   day: 11

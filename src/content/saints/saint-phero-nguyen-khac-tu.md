@@ -12,7 +12,7 @@ born: "c.1808 in Ninh Bình, Gia Long, Vietnam"
 died: "strangled to death on 10 July 1840 at Ðong Hoi, Quang Bình, Vietnam"
 birthPlace: "Gia Long, Vietnam"
 deathPlace: "Quang Bình, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 10

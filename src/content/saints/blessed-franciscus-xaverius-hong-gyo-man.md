@@ -10,7 +10,7 @@ born: "1738 in Seoul, South Korea"
 died: "8 April 1801 at the Small West Gate, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 4
   day: 8

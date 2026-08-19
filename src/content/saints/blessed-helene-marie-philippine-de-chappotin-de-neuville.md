@@ -12,7 +12,7 @@ born: "21 May 1839 in Nantes, Loire-Atlantique, France"
 died: "15 November 1904 in San Remo, Imperia, Italy of natural causes"
 birthPlace: "Loire-Atlantique, France"
 deathPlace: "Imperia, Italynatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 11
   day: 15

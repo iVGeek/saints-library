@@ -11,7 +11,7 @@ searchAliases:
   - "Shallita"
 deathYear: 363
 died: "beheaded in 363 in Antioch"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 20

@@ -16,7 +16,7 @@ born: "11 March 1841 at Milan, Italy as Angelo Ercole Menni Figini"
 died: "24 April 1914 at Dinan, France of natural causes"
 birthPlace: "Italy as Angelo Ercole Menni Figini"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 4
   day: 24

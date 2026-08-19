@@ -6,7 +6,7 @@ deathYear: 669
 born: "Spoleto, Italy"
 died: "c.669 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 7

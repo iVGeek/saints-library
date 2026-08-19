@@ -17,7 +17,7 @@ born: "c.970 at Worms, Germany"
 died: "16 March 1021 at Cologne, Germany of natural causes"
 birthPlace: "Germany"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 16

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1242
 born: "latter 12th century Friesland (in the modern Netherlands)"
 died: "22 June 1242 of natural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 2

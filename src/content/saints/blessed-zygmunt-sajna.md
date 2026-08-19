@@ -11,7 +11,7 @@ born: "20 January 1897 in Zurawlówka, Podlaskie, Poland"
 died: "shot on 17 September 1940 in in the woods outside Palmiry, Mazowieckie, Poland"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "Mazowieckie, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 9
   day: 17

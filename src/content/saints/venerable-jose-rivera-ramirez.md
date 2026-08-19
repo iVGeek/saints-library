@@ -9,7 +9,7 @@ born: "17 December 1925 at the Plaza de Santa Isabel in Toledo, Spain"
 died: "25 March 1991 in Toledo, Spain following a heart attack"
 birthPlace: "Spain"
 deathPlace: "Spafollowing a heart attack"
-region: "France"
+region: "Spain"
 feastDay:
   month: 4
   day: 4

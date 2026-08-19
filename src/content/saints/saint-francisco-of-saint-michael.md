@@ -12,7 +12,7 @@ born: "c.1544 at La Parilla, Spain (near Valladolid)"
 died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan"
 birthPlace: "Spa(near Valladolid)"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

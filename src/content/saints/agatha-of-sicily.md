@@ -17,7 +17,7 @@ born: c. 231
 died: c. 251
 birthPlace: Catania, Sicily, Italy
 deathPlace: Catania, Sicily, Italy
-region: Italy
+region: "Italy"
 centuries: [3]
 feastDay:
   month: 2

@@ -11,7 +11,7 @@ deathYear: 1600
 born: "20 January 1502 in La Gudiña, Orense, Spain"
 died: "25 February 1600 of natural causes"
 birthPlace: "Orense, Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 2
   day: 25

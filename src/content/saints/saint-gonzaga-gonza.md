@@ -8,7 +8,7 @@ born: "at Busoga, Uganda"
 died: "beheaded on 27 May 1886 at Lubowa, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 27

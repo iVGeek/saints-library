@@ -9,7 +9,7 @@ born: "24 June 1600 in Fitero, Navarra, Aragon (in modern Spain)"
 died: "1 October 1659 in Osma, Soria, Spain of natural causes"
 birthPlace: "Navarra, Aragon (modern Spain)"
 deathPlace: "Soria, Spaof natural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 10
   day: 1

@@ -9,7 +9,7 @@ deathYear: 850
 born: "9th century Constantinople as Christopher"
 died: "18 August 850 on the island of Aphusia, Bithynia of natural causes"
 deathPlace: "Bithynianatural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 18

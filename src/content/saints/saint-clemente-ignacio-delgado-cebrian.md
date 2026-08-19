@@ -15,7 +15,7 @@ born: "23 November 1761 in Villafeliche, Zaragoza, Spain"
 died: "12 July 1838 in Nam Ðinh, Vietnam of general abuse"
 birthPlace: "Zaragoza, Spain"
 deathPlace: "Vietnamgeneral abuse"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 7
   day: 12

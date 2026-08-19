@@ -18,7 +18,7 @@ born: "c.960 at Castle Libice near Pardubice, Bohemia (in modern Czech Republic 
 died: "c.1004 in Gniezno, Bohemia (in modern Poland) of natural causes"
 birthPlace: "Bohemia (modern Czech Republic as Radzim"
 deathPlace: "Bohemia (modern Poland) of natural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 10
   day: 11

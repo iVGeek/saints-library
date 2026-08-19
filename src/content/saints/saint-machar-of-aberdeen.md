@@ -12,7 +12,7 @@ deathYear: 540
 born: "Irish"
 died: "c.540 on the island of Maleo, Scotland of natural causes"
 deathPlace: "Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 11
   day: 12

@@ -9,7 +9,7 @@ born: "16 May 1905 in Dover, New Hampshire, United States"
 died: "28 February 1972 in Ho Chi Minh City (Saigon), Vietnam of natural causes"
 birthPlace: "New Hampshire, United States"
 deathPlace: "Vietnamnatural causes"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 1

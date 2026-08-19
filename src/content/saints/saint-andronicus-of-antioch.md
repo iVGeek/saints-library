@@ -5,7 +5,7 @@ summary: "Ninth-century layman in Antioch, Syria. Married to Saint Athanasia of 
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Andronicus-of-Antioch.jpg"
 searchAliases:
   - "Andronicus of Egypt"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 10
   day: 9

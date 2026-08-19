@@ -8,7 +8,7 @@ searchAliases:
   - "Tarkin"
   - "Talaric"
   - "Talaricanus"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 10
   day: 30

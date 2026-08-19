@@ -9,7 +9,7 @@ born: "8 February 1893 in Gomecha, Vitoria, Spain"
 died: "31 July 1936 in Cuenca, Spain"
 birthPlace: "Vitoria, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 7
   day: 31

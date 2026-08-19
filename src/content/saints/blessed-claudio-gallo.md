@@ -6,7 +6,7 @@ summary: "Mercedarian. Patriarch of Antioch. Staunch defender of freedom for ecc
 image: "http://catholicsaints.info/wp-content/uploads/Claudio-Gallo.jpg"
 deathYear: 1304
 died: "1304 of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 3
   day: 27

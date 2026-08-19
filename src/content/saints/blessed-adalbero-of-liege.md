@@ -11,7 +11,7 @@ birthYear: 1070
 deathYear: 1128
 born: "1070"
 died: "1 January 1128 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 1

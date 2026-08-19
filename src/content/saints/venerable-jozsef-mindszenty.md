@@ -13,7 +13,7 @@ born: "29 March 1892 in Csehimindszent, Vas County, Hungary"
 died: "6 May 1975 in Vienna, Austria of natural causes"
 birthPlace: "Vas County, Hungary"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 6
   day: 12

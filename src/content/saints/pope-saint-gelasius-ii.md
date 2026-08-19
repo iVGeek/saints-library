@@ -11,7 +11,7 @@ born: "c.1058 at Gaeta, Italy as Giovanni de Gaeta"
 died: "29 January 1119 at Cluny, France of pleurisy"
 birthPlace: "Italy as Giovanni de Gaeta"
 deathPlace: "Francepleurisy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 29

@@ -11,7 +11,7 @@ born: "c.1802 in Ke Sài, Hanoi, Vietnam"
 died: "beheaded on 27 April 1856 in Ninh Bình, Vietnam"
 birthPlace: "Hanoi, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 4
   day: 27

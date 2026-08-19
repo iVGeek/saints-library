@@ -8,7 +8,7 @@ born: "27 July 1869  in Pedroche, Córdoba, Spain"
 died: "19 August 1936 in Villa del Río, Córdoba, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Córdoba, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 19

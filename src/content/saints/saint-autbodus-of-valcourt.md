@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 690
 born: "Ireland"
 died: "690"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 11
   day: 20

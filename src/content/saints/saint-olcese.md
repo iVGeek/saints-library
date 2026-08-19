@@ -8,7 +8,7 @@ searchAliases:
   - "Ursicinus"
 died: "early 5th century in Sant'Olcese, Liguria, Italy of natural causes"
 deathPlace: "Liguria, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 22

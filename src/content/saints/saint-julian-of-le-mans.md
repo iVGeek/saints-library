@@ -5,7 +5,7 @@ summary: "Born to the Roman nobility. First bishop of Cenomanum (modern Le Mans,
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Mans_-_St_Julien_SGW_%28large_version%29.jpg/960px-Le_Mans_-_St_Julien_SGW_%28large_version%29.jpg"
 died: "3rd century at Sarthe, Gaul (modern Sant-Marceaux, France) of natural causes"
 deathPlace: "Gaul (modern Sant-Marceaux, France)natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 27

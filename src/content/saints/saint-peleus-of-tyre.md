@@ -5,7 +5,7 @@ summary: "Bishop in Egypt. Martyred in the persecutions of Diocletian."
 deathYear: 304
 died: "c.304 in Tyre, Phoenicia (modern Sur, Lebanon)"
 deathPlace: "Phoenicia (modern Sur, Lebanon)"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 20

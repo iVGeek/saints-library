@@ -12,7 +12,7 @@ deathYear: 1010
 born: "c.940 in the Brabant region"
 died: "3 May 1010 in Amersfoort, Netherlands of natural causes"
 deathPlace: "Netherlandsnatural causes"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 5
   day: 3

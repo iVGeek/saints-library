@@ -12,7 +12,7 @@ born: "24 April 1902 in Krasnystaw, Lubelskie, Poland"
 died: "shot on 30 January 1943 next to his parish church in Gdeszyn, Poland"
 birthPlace: "Lubelskie, Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 30

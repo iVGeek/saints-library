@@ -12,7 +12,7 @@ searchAliases:
   - "Tropez"
 died: "beheaded c.65 at Pisa, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 29

@@ -8,7 +8,7 @@ born: "c.1771 in Ke Biên, Thanh Hóa, Vietnam"
 died: "tortured and beheaded on 8 November 1840 Bay Mau, Hanoi, Vietnam"
 birthPlace: "Thanh Hóa, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 8

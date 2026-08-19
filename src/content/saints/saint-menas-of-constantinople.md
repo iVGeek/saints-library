@@ -12,7 +12,7 @@ born: "Alexandria, Egypt"
 died: "August 552 in Constantinople (modern Istanbul, Turkey) of natural causes"
 birthPlace: "Egypt"
 deathPlace: "Turkey)natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 25

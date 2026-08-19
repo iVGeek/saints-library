@@ -10,7 +10,7 @@ deathYear: 1942
 born: "20 April 1903 at Dabrowice, L&oacute;dzkie, Poland as Wojciech Nierychlewski"
 died: "tortured to death on 9 February 1942 at the Auschwitz concentration camp in Nazi-occupied Poland"
 birthPlace: "L&oacute;dzkie, Poland as Wojciech Nierychlewski"
-region: "England"
+region: "Poland"
 feastDay:
   month: 2
   day: 7

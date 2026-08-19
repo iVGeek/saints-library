@@ -9,7 +9,7 @@ born: "19 November 1761 in Soucelles, Maine-et-Loire, France"
 died: "beheaded on 24 August 1794 at Angers, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 24

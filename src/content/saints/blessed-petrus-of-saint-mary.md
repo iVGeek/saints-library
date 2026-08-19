@@ -11,7 +11,7 @@ born: "1610 in Omura, Nagasaki, Japan"
 died: "burned to death in 29 July 1627 at Omura, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 29

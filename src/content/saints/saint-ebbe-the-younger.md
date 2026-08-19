@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 870
 died: "burned to death on 2 April 870 at Coldingham monastery, Berwickshire, Scotland"
 deathPlace: "Berwickshire, Scotland"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 4
   day: 2

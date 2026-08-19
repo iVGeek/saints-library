@@ -12,7 +12,7 @@ born: "4 October 1178 in Coimbra, Portugal"
 died: "18 June 1250 at Lorvão Abbey, Portugal of natural causes"
 birthPlace: "Portugal"
 deathPlace: "Portugalnatural causes"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 6
   day: 17

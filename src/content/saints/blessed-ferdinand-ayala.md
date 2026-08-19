@@ -15,7 +15,7 @@ born: "1575 in Ballesteros de Calatrava, Ciudad Real, Spain"
 died: "beheaded on 1 June 1617 in Koguchi, Omura, Nagasaki, Japan"
 birthPlace: "Ciudad Real, Spain"
 deathPlace: "Omura, Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 6
   day: 1

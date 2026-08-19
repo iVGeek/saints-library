@@ -11,7 +11,7 @@ born: "25 March 1881 at Piller, Tyrol, Austria"
 died: "30 May 1940 at Buchenwald, Thuringia, Germany"
 birthPlace: "Tyrol, Austria"
 deathPlace: "Thuringia, Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 5
   day: 30

@@ -7,7 +7,7 @@ birthYear: 342
 deathYear: 410
 born: "c.342"
 died: "c.410 of natural causes"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 6
   day: 8

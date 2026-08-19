@@ -12,7 +12,7 @@ born: "19 June 1835 in Saint-Symphorien-de-Laye, Loire, France as Suzanne Aubert
 died: "1 October 1926 in Wellington, New Zealand of natural causes"
 birthPlace: "Loire, France as Suzanne Aubert"
 deathPlace: "New Zealandnatural causes"
-region: "France"
+region: "New Zealand"
 feastDay:
   month: 1
   day: 1

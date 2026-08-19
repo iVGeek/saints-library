@@ -21,7 +21,7 @@ searchAliases:
   - "Érentrude"
 deathYear: 718
 died: "c.718 of natural causes"
-region: "England"
+region: "Austria"
 feastDay:
   month: 6
   day: 30

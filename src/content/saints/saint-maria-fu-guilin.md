@@ -11,7 +11,7 @@ born: "c.1863 in Luopo, Shenzhou, Hebei, China"
 died: "beheaded on 20 July 1900 in  Dailucun, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 20

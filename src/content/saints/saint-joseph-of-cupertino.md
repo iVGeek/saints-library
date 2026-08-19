@@ -15,7 +15,7 @@ born: "17 June 1603 at Cupertino, diocese of Nardo, near Brindisi in the kingdom
 died: "18 September 1663 at Ossimo, Italy of a rapidly developed but severe fever"
 birthPlace: "dioceseNardo, near Brindisi in the kingdom of Naples, Italy as Joseph Desa"
 deathPlace: "Italya rapidly developed but severe fever"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 18

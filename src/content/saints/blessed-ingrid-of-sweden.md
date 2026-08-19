@@ -11,7 +11,7 @@ born: "13th century in Skänninge, Sweden"
 died: "1282 in Skänninge, Sweden of natural causes"
 birthPlace: "Sweden"
 deathPlace: "Swedennatural causes"
-region: "Spain"
+region: "Scandinavia"
 feastDay:
   month: 9
   day: 2

@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 247
 born: "Egyptian"
 died: "c.247 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 12
   day: 4

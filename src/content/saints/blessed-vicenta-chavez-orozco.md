@@ -12,7 +12,7 @@ born: "6 February 1867 at Cotija, Michoacan, Mexico as Vicenta Chavez Orozco"
 died: "30 July 1949 at Holy Trinity Hospital, Guadalajara, Mexico of natural causes"
 birthPlace: "Michoacan, Mexico as Vicenta Chavez Orozco"
 deathPlace: "Guadalajara, Mexiconatural causes"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 7
   day: 30

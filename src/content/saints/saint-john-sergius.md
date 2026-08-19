@@ -6,7 +6,7 @@ searchAliases:
   - "John of Mar Sabas"
 deathYear: 796
 died: "martyred in 796"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 20

@@ -9,7 +9,7 @@ born: "15 July 1863 in Motril, Granada, Spain"
 died: "shot on 25 July 1936 in Motril, Granada, Spain"
 birthPlace: "Granada, Spain"
 deathPlace: "Granada, Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 7
   day: 25

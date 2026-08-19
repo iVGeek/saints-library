@@ -9,7 +9,7 @@ born: "31 December 1905 in La Puebla de Valdavia, Palencia, Spain"
 died: "5 April 1983 in São Paulo, Brazil of cancer"
 birthPlace: "Palencia, Spain"
 deathPlace: "Brazilcancer"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 4
   day: 5

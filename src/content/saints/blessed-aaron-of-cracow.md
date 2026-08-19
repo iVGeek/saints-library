@@ -6,7 +6,7 @@ summary: "Benedictine monk at Cluny Abbey, France. Spiritual student of Saint Od
 deathYear: 1059
 born: "France"
 died: "15 May 1059 of natural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 10
   day: 9

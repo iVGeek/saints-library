@@ -5,7 +5,7 @@ summary: "Mercedarian friar in Fuentes, Spain. Missionary, sailing to Cuba with 
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Solorzano.jpg"
 deathYear: 1500
 died: "c.1500 in Cuba"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 7
   day: 24

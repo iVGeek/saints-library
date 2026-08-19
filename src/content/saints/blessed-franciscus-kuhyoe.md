@@ -7,7 +7,7 @@ born: "Nagasaki, Japan"
 died: "16 August 1627 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 27

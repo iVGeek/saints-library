@@ -12,7 +12,7 @@ born: "1 May 1888 in Vic, Barcelona, Spain"
 died: "8 September 1936 on a road outside Múnter, Barcelona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 8

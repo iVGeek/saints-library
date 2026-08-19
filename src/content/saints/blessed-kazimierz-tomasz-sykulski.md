@@ -9,7 +9,7 @@ born: "29 December 1882 in Końskie, Świętokrzyskie, Poland"
 died: "shot on 11 December 1942 in Oświęcim (a.k.a. Auschwitz), Małopolskie, Nazi-occupied Poland"
 birthPlace: "Świętokrzyskie, Poland"
 deathPlace: "Małopolskie, Nazi-occupied Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 1

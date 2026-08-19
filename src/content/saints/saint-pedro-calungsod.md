@@ -11,7 +11,7 @@ born: "c.1654 in Ginatilan, Cebu, Philippines"
 died: "hacked to death with a catana on 2 April 1672 at Tomhom, Guam"
 birthPlace: "Cebu, Philippines"
 deathPlace: "Guam"
-region: "Italy"
+region: "Philippines"
 feastDay:
   month: 4
   day: 2

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 249
 died: "scourged, dragged throough the city by a camel and burned to death in 249 at Alexandria, Egypt"
 deathPlace: "dragged throough the city by a camel and burned to death249 at Alexandria, Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 27

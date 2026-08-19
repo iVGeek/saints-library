@@ -11,7 +11,7 @@ born: "c.1560 in Little Limber, Lincolnshire, England"
 died: "hanged on 20 February 1592 at Saint Paul's Churchyard, London, England on a gibbet erected next to the shop of the man who's confession he was accused of hearing"
 birthPlace: "Lincolnshire, England"
 deathPlace: "London, England on a gibbet erected next to the shopthe man who's confession he was accused of hearing"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 21

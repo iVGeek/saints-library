@@ -15,7 +15,7 @@ deathYear: 314
 born: "near Cardiff, Wales"
 died: "11 November 314 of natural causes"
 birthPlace: "Wales"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 22

@@ -12,7 +12,7 @@ born: "12 February 1880 at Valletta, Malta"
 died: "evening of 26 July 1962 of natural causes at Santa Venera, Malta"
 birthPlace: "Malta"
 deathPlace: "Malta"
-region: "France"
+region: "Africa"
 feastDay:
   month: 7
   day: 26

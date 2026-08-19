@@ -5,7 +5,7 @@ summary: "Bishop of Prusa, Bithynia (part of modern Turkey). Opposed the iconocl
 searchAliases:
   - "Paul of Pelusium"
   - "Paul of Plousias"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 7

@@ -12,7 +12,7 @@ born: "1128 at Castledermot, County Kildare, Ireland"
 died: "14 November 1180 at Eu, diocese of Rouen, Normandy, France of natural causes"
 birthPlace: "County Kildare, Ireland"
 deathPlace: "dioceseRouen, Normandy, France of natural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 11
   day: 14

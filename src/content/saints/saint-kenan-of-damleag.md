@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 489
 born: "Irish"
 died: "24 November 489 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 11
   day: 24

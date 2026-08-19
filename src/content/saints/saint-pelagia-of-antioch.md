@@ -5,7 +5,7 @@ summary: "Disciple of Saint Lucian of Antioch. When soldiers arrived to arrest h
 deathYear: 311
 born: "late 3rd century in Antioch"
 died: "c.311 by jumping off a roof"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 9

@@ -11,7 +11,7 @@ born: "c.1570 in Sandwich, Kent, England"
 died: "hanged, drawn, and quartered on 27 February 1601 at Tyburn, London, England"
 birthPlace: "Kent, England"
 deathPlace: "drawn, and quartered on 27 February 1601 at Tyburn, London, England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 2
   day: 27

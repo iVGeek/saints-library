@@ -12,7 +12,7 @@ born: "1551 at Sisto, Portugal"
 died: "in 1620 from a stroke caused by abusive conditions in Suzota prison, Omura, Japan"
 birthPlace: "Portugal"
 deathPlace: "Omura, Japan"
-region: "Portugal"
+region: "Japan"
 feastDay:
   month: 1
   day: 7

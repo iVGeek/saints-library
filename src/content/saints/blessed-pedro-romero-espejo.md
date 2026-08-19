@@ -9,7 +9,7 @@ born: "28 April 1871 in Pancorbo, Burgos, Spain"
 died: "4 July 1938 in prison in Cuenca, Spain of dysentery"
 birthPlace: "Burgos, Spain"
 deathPlace: "Spaof dysentery"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 4

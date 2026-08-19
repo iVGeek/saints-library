@@ -14,7 +14,7 @@ deathYear: 1031
 born: "1007 in Veszprém, Hungary"
 died: "killed by a boar while hunting on 2 September 1031 in Hungary"
 birthPlace: "Hungary"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 11
   day: 4

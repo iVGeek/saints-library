@@ -12,7 +12,7 @@ born: "1210 in Piacenza, Italy as Theobald Visconti"
 died: "10 January 1276 at Arezzo, Italy of a fever"
 birthPlace: "Italy as Theobald Visconti"
 deathPlace: "Italya fever"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 3
   day: 19

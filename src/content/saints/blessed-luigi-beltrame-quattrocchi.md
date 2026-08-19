@@ -8,7 +8,7 @@ deathYear: 1951
 born: "12 January 1880 at Catania, Italy"
 died: "9 November 1951 of a heart attack"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 9

@@ -9,7 +9,7 @@ born: "15 June 1476 in Venice, Italy"
 died: "25 June 1528 in the hermitage of San Silvestro de Monte Soratte, Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 25

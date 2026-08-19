@@ -8,7 +8,7 @@ born: "c.1763 in Saint-Léger-en-Anjou (a.k.a. Saint-Léger-sous-Cholet), Maine-
 died: "martyred on 1 February 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

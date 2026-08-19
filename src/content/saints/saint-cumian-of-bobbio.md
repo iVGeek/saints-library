@@ -7,7 +7,7 @@ searchAliases:
   - "Cummin"
   - "Cummianus"
 born: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 9

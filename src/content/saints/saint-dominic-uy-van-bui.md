@@ -7,7 +7,7 @@ birthYear: 1813
 deathYear: 1839
 born: "1813 in Vietnam"
 died: "strangled to death in 1839 in Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 19

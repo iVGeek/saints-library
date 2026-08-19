@@ -9,7 +9,7 @@ deathYear: 982
 born: "10th century Saxony (in modern Germany)"
 died: "2 January 982 in Prague, Bohemia (in modern Czech Republic)"
 deathPlace: "Bohemia (modern Czech Republic)"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 2

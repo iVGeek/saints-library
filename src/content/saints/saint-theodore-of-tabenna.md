@@ -13,7 +13,7 @@ deathYear: 368
 born: "c.314 in Isna, Egypt"
 died: "27 April 368 of natural causes"
 birthPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 27

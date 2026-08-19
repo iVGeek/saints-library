@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1022
 died: "1022 in Tonnerre, Burgundy, France of natural causes"
 deathPlace: "Burgundy, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 27

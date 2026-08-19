@@ -14,7 +14,7 @@ born: "c.1193 at Penna San Giovanni, diocese of Fermo, Italy"
 died: "3 April 1271 at Recanati, Italy"
 birthPlace: "dioceseFermo, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 3

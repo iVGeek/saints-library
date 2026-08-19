@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giusto-Santgel
 born: "France"
 died: "Mercedarian convent of Saint Anthony the Abbot, Tarragona, Spain"
 deathPlace: "Tarragona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 5
   day: 10

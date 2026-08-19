@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1317
 died: "6 February 1317 in Skara, Sweden of natural causes"
 deathPlace: "Swedennatural causes"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 6

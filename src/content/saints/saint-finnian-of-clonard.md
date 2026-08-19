@@ -13,7 +13,7 @@ born: "c.470 at Myshall, County Carlow, Ireland"
 died: "c.549 to 552 at Clonard, Meath, Ireland of plague"
 birthPlace: "County Carlow, Ireland"
 deathPlace: "Meath, Irelandplague"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 12
   day: 12

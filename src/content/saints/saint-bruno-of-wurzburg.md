@@ -5,7 +5,7 @@ summary: "Son of Duke Conrad of Carinthia and the Baroness Matilda. Nephew of Po
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Wurzburg.jpg"
 deathYear: 1045
 died: "26 May 1045 in Persenberg (Bosenburg) (in modern Austria) when a building collapsed"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 27

@@ -12,7 +12,7 @@ born: "17 October 1500 at Oropesa, Toledo, Spain"
 died: "19 September 1591 in the College of the Incarnation, Madrid, Spain of natural causes"
 birthPlace: "Toledo, Spain"
 deathPlace: "Madrid, Spaof natural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 9
   day: 19

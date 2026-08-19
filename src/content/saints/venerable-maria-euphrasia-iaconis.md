@@ -13,7 +13,7 @@ born: "18 November 1867 in Casino di Calabria (modern Castelsilano), Italy"
 died: "2 August 1916 at the Pirovano Hospital in Buenos Aires, Argentina from cancer"
 birthPlace: "Italy"
 deathPlace: "Argentinacancer"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 7
   day: 16

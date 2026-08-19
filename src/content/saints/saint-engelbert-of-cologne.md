@@ -10,7 +10,7 @@ deathYear: 1225
 born: "c.1185 at Berg in modern Germany"
 died: "stabbed to death on the evening of 7 November 1225 near Schwelm, Germany"
 deathPlace: "Germany"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 11
   day: 7

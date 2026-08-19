@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/66/San_Gregorio_Maria_G
 deathYear: 1900
 died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"
 deathPlace: "Shanxi, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 9

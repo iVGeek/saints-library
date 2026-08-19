@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1082
 died: "c.1082 in Rome, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 30

@@ -9,7 +9,7 @@ born: "26 January 1882 in Popów, Szczytniki, Kalisz, Poland"
 died: "tortured to death on 31 July 1944 in Kalisz, Poland"
 birthPlace: "Szczytniki, Kalisz, Poland"
 deathPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 7
   day: 31

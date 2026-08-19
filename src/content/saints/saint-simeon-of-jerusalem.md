@@ -8,7 +8,7 @@ searchAliases:
   - "Simon"
 deathYear: 107
 died: "crucified c.107"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 4
   day: 27

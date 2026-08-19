@@ -12,7 +12,7 @@ born: "c.1543 in Milan, Italy as Camillo"
 died: "15 January 1627 in Vienna, Austria of natural causes"
 birthPlace: "Italy as Camillo"
 deathPlace: "Austrianatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 1
   day: 15

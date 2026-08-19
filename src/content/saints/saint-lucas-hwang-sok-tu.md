@@ -12,7 +12,7 @@ born: "1813 in Yonp'ung, Ch'ungch'ong, South Korea"
 died: "beheaded on 30 March 1866 in Galmaemot, Boryeong, Chungcheong-do, South Korea"
 birthPlace: "Ch'ungch'ong, South Korea"
 deathPlace: "Boryeong, Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 3
   day: 30

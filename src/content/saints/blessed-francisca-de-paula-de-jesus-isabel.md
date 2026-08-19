@@ -12,7 +12,7 @@ born: "1810 in São João del Rei, Minas Gerais, Brazil"
 died: "14 June 1895 in Baependi, Minas Gerais, Brazil of natural causes"
 birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Minas Gerais, Brazilnatural causes"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 6
   day: 14

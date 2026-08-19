@@ -6,7 +6,7 @@ searchAliases:
   - "Timone"
 died: "crucified in Corinth, Greece"
 deathPlace: "Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 4
   day: 19

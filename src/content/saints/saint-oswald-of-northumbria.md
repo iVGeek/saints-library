@@ -9,7 +9,7 @@ born: "c.605 in Northumbria, England"
 died: "killed in battle with invading pagan Welsh and Mercian forces on 5 August 642 at Maserfield, Shropshire, England, and thus often listed as a martyr"
 birthPlace: "England"
 deathPlace: "Shropshire, England, and thus often listed as a martyr"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 8
   day: 5

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 772
 died: "19 January 772 in Rouen, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 19

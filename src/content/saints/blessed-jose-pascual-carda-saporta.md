@@ -8,7 +8,7 @@ born: "29 October 1893 in Villareal, Castellón, Spain"
 died: "4 September 1936 in Oropesa, Castellón, Spain"
 birthPlace: "Castellón, Spain"
 deathPlace: "Castellón, Spain"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 9
   day: 4

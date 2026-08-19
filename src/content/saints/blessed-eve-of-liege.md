@@ -15,7 +15,7 @@ born: "c.1205 in Liège, Belgium"
 died: "1265 in Liège, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 3
   day: 14

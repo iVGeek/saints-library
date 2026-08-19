@@ -11,7 +11,7 @@ born: "20 February 1926 in Madrid, Spain"
 died: "31 October 1998 in Seville, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 10
   day: 31

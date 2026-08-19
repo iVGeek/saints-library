@@ -15,7 +15,7 @@ born: "25 November 1593 in the family castle at Belet, Dordogne, France"
 died: "31 December 1659 at Mercues, Lot, France of natural causes"
 birthPlace: "Dordogne, France"
 deathPlace: "Lot, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 31

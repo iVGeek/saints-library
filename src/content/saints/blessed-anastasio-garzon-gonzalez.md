@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anastasio-Garz
 birthYear: 1908
 born: "7 September 1908 in Madrigal de las Altas Torres, Ávila, Spain"
 birthPlace: "Ávila, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 11
   day: 9

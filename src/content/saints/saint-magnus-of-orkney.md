@@ -14,7 +14,7 @@ born: "c.1075 in the Orkney Islands, Scotland"
 died: "struck in the head with an axe in 1115 at Egilsay Island, Scotland"
 birthPlace: "Scotland"
 deathPlace: "Scotland"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 4
   day: 16

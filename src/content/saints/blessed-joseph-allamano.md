@@ -11,7 +11,7 @@ born: "21 January 1851 at Castelnuova, Asti, Italy"
 died: "16 February 1926 at Turin, Italy of natural causes"
 birthPlace: "Asti, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 2
   day: 16

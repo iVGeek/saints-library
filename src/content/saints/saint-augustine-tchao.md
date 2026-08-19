@@ -13,7 +13,7 @@ born: "c.1746 at Wuchuan, Guizhou, China"
 died: "27 January 1815 due to poor conditions in prison at Chengdu, Sichuan, China"
 birthPlace: "Guizhou, China"
 deathPlace: "Sichuan, China"
-region: "Ireland"
+region: "China"
 feastDay:
   month: 3
   day: 21

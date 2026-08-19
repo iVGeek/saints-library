@@ -6,7 +6,7 @@ searchAliases:
   - "Evagrio"
   - "Euagrius"
   - "Evagrios"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 6

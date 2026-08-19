@@ -6,7 +6,7 @@ searchAliases:
   - "Modestus of Salzburg"
 deathYear: 722
 died: "c.722 of natural causes"
-region: "England"
+region: "Austria"
 feastDay:
   month: 2
   day: 5

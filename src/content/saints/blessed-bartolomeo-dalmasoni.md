@@ -8,7 +8,7 @@ born: "in Ponte San Pietro, Bergamo, Italy"
 died: "beaten to death on Shrove Tuesday 15 February 1611 at the Church of Our Lady of the Snows in Prague, Czech Republic"
 birthPlace: "Bergamo, Italy"
 deathPlace: "Czech Republic"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 2
   day: 15

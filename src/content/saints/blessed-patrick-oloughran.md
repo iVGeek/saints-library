@@ -11,7 +11,7 @@ born: "c.1577 in Ulster, Armagh, Ireland"
 died: "1 February 1611 in Dublin, Ireland"
 birthPlace: "Armagh, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 2
   day: 1

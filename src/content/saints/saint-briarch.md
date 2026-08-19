@@ -14,7 +14,7 @@ deathYear: 627
 born: "Irish"
 died: "627 in Bourbiac, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 17

@@ -9,7 +9,7 @@ born: "13 March 1874 in Gandía, Valencia, Spain"
 died: "shot on 14 August 1936 on the road outside in Picassent, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 14

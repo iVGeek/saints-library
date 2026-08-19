@@ -8,7 +8,7 @@ deathYear: 280
 born: "mid-3rd century in Seleucia, Syria"
 died: "c.280 of natural causes"
 birthPlace: "Syria"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 8
   day: 22

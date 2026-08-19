@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 480
 born: "Cornwall (in modern England)"
 died: "5 March 480 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 5

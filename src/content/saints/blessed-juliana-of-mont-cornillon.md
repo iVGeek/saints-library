@@ -11,7 +11,7 @@ deathYear: 1258
 born: "1192 at Retinnes, Flanders, Belgium"
 died: "5 April 1258 of natural causes"
 birthPlace: "Flanders, Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 5

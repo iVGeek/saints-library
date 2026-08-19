@@ -9,7 +9,7 @@ born: "c.1577 at Allerton, Lancashire, England"
 died: "hanged, drawn, and quartered on 5 December 1612 at Tyburn, London, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 5 December 1612 at Tyburn, London, England"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 12
   day: 5

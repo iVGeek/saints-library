@@ -9,7 +9,7 @@ born: "4 January 1845 at Milan, Italy"
 died: "30 December 1900 at Genoa, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 12
   day: 30

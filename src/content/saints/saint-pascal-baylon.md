@@ -11,7 +11,7 @@ born: "24 May 1540 (feast of Pentecost) at Torre Hermosa, Aragon, (modern Spain)
 died: "15 May 1592 (feast of Pentecost) at Villa Reale, Spain of natural causes"
 birthPlace: "Aragon, (modern Spain)"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 17

@@ -11,7 +11,7 @@ searchAliases:
   - "Symeon…"
 born: "Edessa, Syria"
 birthPlace: "Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 7
   day: 21

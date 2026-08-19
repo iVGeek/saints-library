@@ -9,7 +9,7 @@ born: "23 April 1883 in Illar, Almería, Spain"
 died: "24 August 1936 in Puente de los Calvos, Ráglos, Almería, Spain"
 birthPlace: "Almería, Spain"
 deathPlace: "Ráglos, Almería, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 24

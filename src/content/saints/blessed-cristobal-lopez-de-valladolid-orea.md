@@ -11,7 +11,7 @@ born: "25 July 1638 at 8 Calle Baños, Mérida, Badajoz, Spain"
 died: "21 July 1690 in Córdoba, Spain of cholera"
 birthPlace: "Mérida, Badajoz, Spain"
 deathPlace: "Spaof cholera"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 7
   day: 24

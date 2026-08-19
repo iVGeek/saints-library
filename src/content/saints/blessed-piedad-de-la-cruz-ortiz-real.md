@@ -12,7 +12,7 @@ born: "12 November 1842 in Bocairente, Valencia, Spain as Tomasa Ortiz Real"
 died: "26 February 1916 in Alcantrarilla, Murcia, Spain of natural causes"
 birthPlace: "Valencia, Spaas Tomasa Ortiz Real"
 deathPlace: "Murcia, Spaof natural causes"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 2
   day: 26

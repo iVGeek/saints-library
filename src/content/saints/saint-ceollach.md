@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland."
 born: "Ireland"
 died: "7th century in Ireland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 10
   day: 6

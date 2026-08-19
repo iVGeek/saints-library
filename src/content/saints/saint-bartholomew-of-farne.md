@@ -11,7 +11,7 @@ born: "12th century at Whitby, Northumbria, England as Tostig"
 died: "1193 at Farne, England of natural causes"
 birthPlace: "Northumbria, England as Tostig"
 deathPlace: "Englandnatural causes"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 6
   day: 24

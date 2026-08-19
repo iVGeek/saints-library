@@ -9,7 +9,7 @@ deathYear: 217
 born: "probably at Athens, Greece, as Titus Flavius Clemens"
 died: "217 of natural causes"
 birthPlace: "Greece, as Titus Flavius Clemens"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 12
   day: 4

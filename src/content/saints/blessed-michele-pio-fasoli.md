@@ -11,7 +11,7 @@ born: "3 May 1676 in Zerbo, Pavia, Italy"
 died: "stoned to death by a mob on 3 March 1716 in Gondar, Ethiopia"
 birthPlace: "Pavia, Italy"
 deathPlace: "Ethiopia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 3
   day: 3

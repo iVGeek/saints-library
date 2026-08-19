@@ -11,7 +11,7 @@ born: "c.1802 in Yuyang, Guizhou, China"
 died: "beheaded on 28 January 1858 in Maokou, Langdai Co., Guizhou, China"
 birthPlace: "Guizhou, China"
 deathPlace: "Langdai Co., Guizhou, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 28

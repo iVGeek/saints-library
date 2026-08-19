@@ -15,7 +15,7 @@ born: "c.296 at Edessa, Osrhoene, Mesopotamia (in modern Syria)"
 died: "c.366 at Edessa, Osrhoene, Mesopotamia (in modern Syria) of natural causes"
 birthPlace: "Osrhoene, Mesopotamia (modern Syria)"
 deathPlace: "Osrhoene, Mesopotamia (modern Syria) of natural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 10
   day: 29

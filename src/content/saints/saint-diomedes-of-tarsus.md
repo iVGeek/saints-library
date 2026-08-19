@@ -12,7 +12,7 @@ born: "Tarsus, Cilicia"
 died: "beheaded c.305 at Nicaea, Bithynia"
 birthPlace: "Cilicia"
 deathPlace: "Bithynia"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 9

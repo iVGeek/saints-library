@@ -6,7 +6,7 @@ deathYear: 1627
 born: "Japan"
 died: "burned to death in 29 July 1627 at Omura, Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 29

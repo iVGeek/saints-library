@@ -13,7 +13,7 @@ born: "5 May 1864 at Belle-Isle en Terre, France as Jeanne-Marie Kerguin"
 died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"
 birthPlace: "France as Jeanne-Marie Kerguin"
 deathPlace: "Shanxi, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 9

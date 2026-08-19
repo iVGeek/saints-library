@@ -10,7 +10,7 @@ born: "1590 in Hirado, Nagasaki, Japan"
 died: "17 November 1634 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 17

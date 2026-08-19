@@ -9,7 +9,7 @@ born: "21 February 1887 in Chulilla, Valencia, Spain"
 died: "shot in the early morning of 14 August 1936 in El Saler, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 14

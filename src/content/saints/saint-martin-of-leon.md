@@ -11,7 +11,7 @@ born: "in León, Old Castile, Spain"
 died: "12 January 1203 at León, Spain of natural causes"
 birthPlace: "Old Castile, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 12

@@ -13,7 +13,7 @@ born: "18 May 1920 as Karol Wojtyla at Wadowice, Poland"
 died: "2 April 2005 at Rome, Italy of natural causes"
 birthPlace: "Poland"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 10
   day: 22

@@ -12,7 +12,7 @@ born: "c.1764 in Trà Lu, Nam Ðinh, Vietnam"
 died: "beheaded on 30 June 1838 in Hai Duong, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "France"
+region: "Philippines"
 feastDay:
   month: 6
   day: 30

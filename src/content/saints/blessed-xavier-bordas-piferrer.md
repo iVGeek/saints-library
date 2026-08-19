@@ -9,7 +9,7 @@ born: "4 September 1914 in San Pol de Mar, Barcelona, Spain"
 died: "shot on 23 July 1936 in Sarria, Barcelona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 24

@@ -26,7 +26,7 @@ born: "29 June 1832 at Himlaya, Lebanon as Boutrossieh Ar-Rayes"
 died: "23 March 1914 at the Convent of Saint Joseph, Grabta, Lebanon of natural causes"
 birthPlace: "Lebanon as Boutrossieh Ar-Rayes"
 deathPlace: "Grabta, Lebanonnatural causes"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 3
   day: 23

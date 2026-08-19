@@ -12,7 +12,7 @@ born: "8 December 1832 in Orléans, Loiret, France as Henri Cormier Bracquemond"
 died: "12:30pm on 17 December 1916 at the priory of the Basilica of San Clemente in Rome, Italy of natural causes"
 birthPlace: "Loiret, France as Henri Cormier Bracquemond"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 21

@@ -11,7 +11,7 @@ born: "12 November 1862 in Castelletto di Brenzone, Italy"
 died: "2 February 1934 in Castelletto di Brenzone, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 2
   day: 2

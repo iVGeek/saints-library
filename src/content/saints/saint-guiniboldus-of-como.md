@@ -11,7 +11,7 @@ deathYear: 303
 born: "British Isles"
 died: "beheaded c.303 in Como, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 13

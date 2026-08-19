@@ -12,7 +12,7 @@ born: "23 June 1835 in Lucca, Italy"
 died: "11 April 1914 in Lucca, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 4
   day: 11

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645
 died: "hacked to death on 16 July 1645 in Cunhaú, Rio Grande do Norte, Brazil"
 deathPlace: "Rio Grande do Norte, Brazil"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 16

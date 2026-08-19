@@ -8,7 +8,7 @@ searchAliases:
   - "Shepherd"
 deathYear: 450
 died: "c.450 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 8
   day: 27

@@ -18,7 +18,7 @@ born: "c.1088 in the castle at Hemeln on the Weser, Lower Saxony, Germany"
 died: "12 December 1154 at Neumunster, Lorraine, France of natural causes"
 birthPlace: "Lower Saxony, Germany"
 deathPlace: "Lorraine, Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 12
   day: 12

@@ -17,7 +17,7 @@ born: "623 in Auvergne, France"
 died: "c.710 in Lyon, France of natural causes while on the road returning to Clermont, France from Rome, Italy"
 birthPlace: "France"
 deathPlace: "Francenatural causes while on the road returning to Clermont, France from Rome, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 15

@@ -11,7 +11,7 @@ born: "27 February 1859 at Teocaltiche, Jalisco, Mexico"
 died: "shot on 21 April 1927 in a cemetery near Yahualican, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 4
   day: 21

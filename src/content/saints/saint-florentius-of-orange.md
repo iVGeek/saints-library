@@ -12,7 +12,7 @@ born: "Tours, France"
 died: "c.526 in Orange, Provence, Gaul (in modern France)"
 birthPlace: "France"
 deathPlace: "Provence, Gaul (modern France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 17

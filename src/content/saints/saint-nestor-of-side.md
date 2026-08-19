@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 250
 died: "crucified in 250 in Perge, Pamphylia (in modern Turkey)"
 deathPlace: "Pamphylia (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 25

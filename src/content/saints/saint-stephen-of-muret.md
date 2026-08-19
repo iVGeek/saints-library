@@ -12,7 +12,7 @@ deathYear: 1124
 born: "c.1046 at Thiers, Auvergne, France"
 died: "8 February 1124 of natural causes"
 birthPlace: "Auvergne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 8

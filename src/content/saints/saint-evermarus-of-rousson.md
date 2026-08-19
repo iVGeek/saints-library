@@ -12,7 +12,7 @@ deathYear: 700
 born: "Friesland (in the modern Netherlands)"
 died: "c.700 on the road outside Rutten (Rousson), Belgium"
 deathPlace: "Belgium"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 5
   day: 1

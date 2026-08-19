@@ -5,7 +5,7 @@ summary: "During the 13th century Moorish invasions of Spain, the town of Atocha
 image: "http://catholicsaints.info/wp-content/uploads/img-Nino-de-Atocha.jpg"
 searchAliases:
   - "Child of Atocha\nInfant of Atocha"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 1
   day: 1

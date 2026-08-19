@@ -16,7 +16,7 @@ deathYear: 775
 born: "Ireland or England"
 died: "martyred c.775 near Mechelen, Flanders, Belgium"
 deathPlace: "Flanders, Belgium"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 6
   day: 24

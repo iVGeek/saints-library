@@ -11,7 +11,7 @@ born: "Bordeaux, France"
 died: "c.403 in Cologne, Germany of natural causes"
 birthPlace: "France"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 23

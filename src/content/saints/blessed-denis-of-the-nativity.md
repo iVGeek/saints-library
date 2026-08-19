@@ -11,7 +11,7 @@ deathYear: 1638
 born: "1600 at Honfleur, France as Pierre Berthelot"
 died: "tortured to death on 29 November 1638 on the Malay archipelago"
 birthPlace: "France as Pierre Berthelot"
-region: "France"
+region: "India"
 feastDay:
   month: 11
   day: 29

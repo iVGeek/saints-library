@@ -11,7 +11,7 @@ deathYear: 651
 born: "Irish"
 died: "31 August 651 at Bamburg, England of natural causes"
 deathPlace: "Englandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 8
   day: 31

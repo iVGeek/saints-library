@@ -5,7 +5,7 @@ honorific: Saint
 summary: "Bishop of Laodicea (in modern Turkey). Part of the Council of Nicaea in 325. Supported orthodox Christianity against Arianism."
 deathYear: 334
 died: "334 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 2

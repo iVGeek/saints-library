@@ -13,7 +13,7 @@ born: "29 August 1534 at Gorkum, the Netherlands"
 died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
 birthPlace: "the Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 7
   day: 9

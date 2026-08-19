@@ -12,7 +12,7 @@ born: "1600 at Sutton, Lancashire, England"
 died: "hanged, drawn, and quartered on 12 December 1642 at Tyburn, London, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 12 December 1642 at Tyburn, London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 22

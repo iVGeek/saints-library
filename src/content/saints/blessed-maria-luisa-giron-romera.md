@@ -11,7 +11,7 @@ born: "25 August 1887 in Bujalance, Córdoba, Spain"
 died: "8 August 1936 in El Saler, Valencia, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Valencia, Spain"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 8
   day: 8

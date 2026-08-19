@@ -11,7 +11,7 @@ born: "c.1783 in Ðong Chuoi, Ninh Bình, Vietnam"
 died: "beheaded 28 April 1840 in Ninh Bình, Vietnam"
 birthPlace: "Ninh Bình, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 4
   day: 28

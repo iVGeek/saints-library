@@ -12,7 +12,7 @@ born: "c.1875 in Nangong, Jizhou, Hebei, China"
 died: "14 July 1900 in Nangong, Jizhou, Hebei, China"
 birthPlace: "Jizhou, Hebei, China"
 deathPlace: "Jizhou, Hebei, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 14

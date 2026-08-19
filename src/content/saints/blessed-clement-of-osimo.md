@@ -12,7 +12,7 @@ born: "1235 in Osimo or San Elpidio (sources vary), Italy"
 died: "8 April 1291 in Orvieto, Tuscany, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Tuscany, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 8

@@ -10,7 +10,7 @@ searchAliases:
   - "Isidore of Tabenna"
 deathYear: 365
 died: "c.365 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 5
   day: 1

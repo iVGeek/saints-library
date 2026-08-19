@@ -13,7 +13,7 @@ born: "1030 in Aragon, Spain"
 died: "27 June 1082 in Alvignano, Italy of a fever"
 birthPlace: "Spain"
 deathPlace: "Italya fever"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 27

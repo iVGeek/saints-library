@@ -11,7 +11,7 @@ born: "September 1903 in Igboezum, Aguleri, Nigeria as Iwemmaduegbunam"
 died: "20 January 1964 at the Royal Infirmary, Leicester, England"
 birthPlace: "Aguleri, Nigeria as Iwemmaduegbunam"
 deathPlace: "Leicester, England"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 1
   day: 20

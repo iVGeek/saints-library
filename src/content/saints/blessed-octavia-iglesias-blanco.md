@@ -9,7 +9,7 @@ born: "30 November, 1894 in Astorga, León, Spain"
 died: "shot around noon of 28 October 1936 in a field near Pola de Somiedo, Asturias, Spain"
 birthPlace: "1894Astorga, León, Spain"
 deathPlace: "Asturias, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 28

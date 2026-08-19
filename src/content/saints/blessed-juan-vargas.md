@@ -5,7 +5,7 @@ summary: "Mercedarian missionary to the Americas, arriving in Peru in 1537. Avid
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Juan_Vargas_official_photo.jpg/960px-Juan_Vargas_official_photo.jpg"
 born: "early 16th century Spain"
 died: "mid-16th century Peru"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 4
   day: 29

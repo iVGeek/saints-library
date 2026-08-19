@@ -5,7 +5,7 @@ summary: "Brother of Saint Sazan; friend of Saint Athanasius of Alexandria. Chie
 searchAliases:
   - "Aizan of Ethiopia"
   - "Abreha…"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 10
   day: 1

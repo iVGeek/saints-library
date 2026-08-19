@@ -14,7 +14,7 @@ born: "776 at Mainz, Germany"
 died: "4 February 856 at Winkel, Germany of natural causes"
 birthPlace: "Germany"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 2
   day: 4

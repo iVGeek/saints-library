@@ -12,7 +12,7 @@ searchAliases:
   - "Tomaso"
 died: "stabbed with a spear c.72 in while in prayer on a hill in Mylapur, India"
 deathPlace: "India"
-region: "Italy"
+region: "India"
 feastDay:
   month: 7
   day: 3

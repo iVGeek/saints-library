@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 1035
 born: "in Bohemia as Radla"
 died: "c.1035 of natural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 11
   day: 12

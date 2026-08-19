@@ -9,7 +9,7 @@ born: "1855 in Zaczopki, Podlasie, Poland"
 died: "shot on 24 January 1874 by Russian soldiers in Podlasie, Poland"
 birthPlace: "Podlasie, Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 24

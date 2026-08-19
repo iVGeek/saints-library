@@ -11,7 +11,7 @@ born: "23 June 1817 in Plancy-l'Abbaye, Aube, France"
 died: "2 February 1908 in Plancy-l'Abbaye, Aube, France"
 birthPlace: "Aube, France"
 deathPlace: "Aube, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 2

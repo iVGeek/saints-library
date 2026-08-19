@@ -37,7 +37,7 @@ born: "1110 at Hexham, England"
 died: "12 January 1167 at Rievaulx Abbey, Yorkshire, England of kidney disease"
 birthPlace: "England"
 deathPlace: "Yorkshire, Englandkidney disease"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 12

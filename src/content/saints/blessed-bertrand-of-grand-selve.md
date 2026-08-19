@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1149
 died: "11 July 1149 in the monastery of Grandselve, Toulouse, France"
 deathPlace: "Toulouse, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 11

@@ -9,7 +9,7 @@ born: "15 August 1880 in Castagnole Piemonte, Turin, Italy"
 died: "2 August 1962 in Turin, Italy of natural causes"
 birthPlace: "Turin, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 29

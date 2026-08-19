@@ -13,7 +13,7 @@ born: "25 February 1877 at Seville, Spain"
 died: "4 January 1940 in Madrid, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 4

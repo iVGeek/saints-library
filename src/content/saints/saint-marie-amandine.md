@@ -12,7 +12,7 @@ born: "28 December 1872 in Herk-la-Ville, Belgium as Pauline Jeuris"
 died: "beheaded on 9 July 1900 at Taiyuanfu, China"
 birthPlace: "Belgium as Pauline Jeuris"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 9

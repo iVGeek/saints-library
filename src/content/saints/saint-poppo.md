@@ -12,7 +12,7 @@ born: "978 at Flanders, Belgium"
 died: "25 January 1048 at Marchiennes, France of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 1
   day: 25

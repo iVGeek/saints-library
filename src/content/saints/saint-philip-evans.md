@@ -9,7 +9,7 @@ born: "1645 in Monmouth, Monmouthshire, Wales"
 died: "hanged, drawn, and quartered 22 July 1679 on Gallows Field in Cardiff, Wales"
 birthPlace: "Monmouthshire, Wales"
 deathPlace: "drawn, and quartered 22 July 1679 on Gallows FieldCardiff, Wales"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 7
   day: 22

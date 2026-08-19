@@ -8,7 +8,7 @@ searchAliases:
   - "David"
 deathYear: 1010
 died: "stabbed in the throat between 1010 and 1015 (sources vary)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 24

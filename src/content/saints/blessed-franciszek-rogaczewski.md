@@ -13,7 +13,7 @@ born: "23 December 1892 in Lipinkach, Kujawsko-Pomorskie, Poland"
 died: "shot on 11 January 1940 near Gdansk, Poland"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 9
   day: 11

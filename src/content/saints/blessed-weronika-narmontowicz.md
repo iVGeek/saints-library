@@ -11,7 +11,7 @@ born: "18 December 1916 in Vercjaliski, Hrodzyenskaya voblasts', Poland (in mode
 died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts', in Nazi occupied Belarus"
 birthPlace: "Hrodzyenskaya voblasts', Poland (modern Belarus)"
 deathPlace: "Hrodzyenskaya voblasts',Nazi occupied Belarus"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 1

@@ -6,7 +6,7 @@ deathYear: 1391
 born: "Narbonne, Aude, France"
 died: "burned alive on 14 November 1391 near the Jaffa Gate in Jerusalem"
 birthPlace: "Aude, France"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 14

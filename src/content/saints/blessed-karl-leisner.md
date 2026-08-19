@@ -9,7 +9,7 @@ born: "28 February 1915 at Rees, North Rhine-Westphalia, Germany"
 died: "12 August 1945 at Planneg, Bavaria, Germany of tuberculosis"
 birthPlace: "North Rhine-Westphalia, Germany"
 deathPlace: "Bavaria, Germanytuberculosis"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 12

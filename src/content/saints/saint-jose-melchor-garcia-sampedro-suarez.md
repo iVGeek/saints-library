@@ -11,7 +11,7 @@ born: "26 April 1821 in  in Cortes, Quirós, Asturias, Spain"
 died: "cut to pieces on 28 July 1858 in Nam Ðinh, Vietnam"
 birthPlace: "Quirós, Asturias, Spain"
 deathPlace: "Vietnam"
-region: "Spain"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 28

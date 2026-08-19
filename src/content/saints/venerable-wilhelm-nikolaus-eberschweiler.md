@@ -9,7 +9,7 @@ born: "5 December 1837 in Püttlingen, Saarbrücken, Germany"
 died: "23 December 1921 in Exaten, Baexem, Limburg, Netherlands of natural causes"
 birthPlace: "Saarbrücken, Germany"
 deathPlace: "Baexem, Limburg, Netherlandsnatural causes"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 1
   day: 1

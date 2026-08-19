@@ -8,7 +8,7 @@ born: "Porto, Portugal"
 died: "16 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "Portugal"
 deathPlace: "Canary Islands"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 16

@@ -9,7 +9,7 @@ born: "18 August 1886 in Enfesta, Santa Cristina de Fecha, La Coruña, Spain"
 died: "3 March 1963 in La Coruña, Spain of natural causes"
 birthPlace: "Santa Cristina de Fecha, La Coruña, Spain"
 deathPlace: "Spaof natural causes"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 1
   day: 1

@@ -8,7 +8,7 @@ born: "26 April 1750 in Cléré-sur-Layon, Maine-et-Loire, France"
 died: "16 April 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

@@ -9,7 +9,7 @@ born: "8 July 1899 in Zapotlán el Grande, diocese of Ciudad Guzmán, Jalisco, M
 died: "hanged from a tree on the morning of 5 October 1928 in front of the house where he had been celebrating Mass in Tepatitlán, Jalisco, Mexico"
 birthPlace: "dioceseCiudad Guzmán, Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 10
   day: 5

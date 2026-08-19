@@ -6,7 +6,7 @@ searchAliases:
   - "Simeon Metaphrastes"
 deathYear: 1000
 died: "c.1000 of natural causes"
-region: "Byzantium"
+region: "Egypt"
 feastDay:
   month: 11
   day: 28

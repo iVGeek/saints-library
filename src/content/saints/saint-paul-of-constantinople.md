@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 350
 died: "strangled to death in 350 in Cukusus, Armenia"
 deathPlace: "Armenia"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 6

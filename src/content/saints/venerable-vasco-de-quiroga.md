@@ -11,7 +11,7 @@ born: "c.1477 in Madrigal de las Altas Torres, Ávila, Spain"
 died: "14 May 1565 in Pátzcuaro, Michoacán, Mexico of natural causes while on a pastoral visit"
 birthPlace: "Ávila, Spain"
 deathPlace: "Michoacán, Mexiconatural causes while on a pastoral visit"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 8
   day: 18

@@ -10,7 +10,7 @@ deathYear: 755
 born: "707"
 died: "755 at a monastery in Vienne, France"
 deathPlace: "France"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 8
   day: 17

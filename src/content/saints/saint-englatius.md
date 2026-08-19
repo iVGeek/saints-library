@@ -7,7 +7,7 @@ searchAliases:
   - "Tanglen"
 deathYear: 966
 died: "966"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 11
   day: 3

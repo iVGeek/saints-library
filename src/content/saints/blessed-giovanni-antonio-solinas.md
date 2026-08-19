@@ -10,7 +10,7 @@ born: "15 February 1643 in Oliena, Nuoro, Italy"
 died: "27 October 1683 in Zenta Valley, Salta, Argentina"
 birthPlace: "Nuoro, Italy"
 deathPlace: "Salta, Argentina"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 10
   day: 27

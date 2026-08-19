@@ -13,7 +13,7 @@ born: "c.1042 in Lagery, France as Odo (or Otho or Eudes) of Lagery"
 died: "29 July 1099 in Rome, Italy of natural causes"
 birthPlace: "France as Odo (or Otho or Eudes)Lagery"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 29

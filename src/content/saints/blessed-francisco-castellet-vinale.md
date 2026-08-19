@@ -12,7 +12,7 @@ born: "17 October 1592 in Esparraguera, Barcelona, Spain"
 died: "burned alive on 8 September 1628 in Nagasaki, Japan"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

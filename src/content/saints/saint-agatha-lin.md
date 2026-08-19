@@ -14,7 +14,7 @@ born: "c.1817 at Qinglong, Guizhou, China"
 died: "beheaded 28 January 1858 at Mao-ken, Langdai, Guizhou, China"
 birthPlace: "Guizhou, China"
 deathPlace: "Langdai, Guizhou, China"
-region: "England"
+region: "China"
 feastDay:
   month: 1
   day: 28

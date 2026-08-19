@@ -10,7 +10,7 @@ searchAliases:
   - "Quildomarca"
 deathYear: 682
 died: "c.682 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 19

@@ -12,7 +12,7 @@ born: "c.1425 in Giedraiciai (Giedrojcie), Moletu rajonas, Lithuania"
 died: "4 May 1485 in Kraków, Malopolskie, Poland of natural causes"
 birthPlace: "Moletu rajonas, Lithuania"
 deathPlace: "Malopolskie, Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 4

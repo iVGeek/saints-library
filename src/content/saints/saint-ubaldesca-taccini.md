@@ -9,7 +9,7 @@ born: "1136 in Calcinaia, Pisa, Italy"
 died: "feast of the Holy Trinity, 28 May 1206 in Pisa, Italy of natural causes"
 birthPlace: "Pisa, Italy"
 deathPlace: "28 May 1206Pisa, Italy of natural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 28

@@ -11,7 +11,7 @@ born: "935 at Cologne, Germany"
 died: "23 April 994 in Toul, France"
 birthPlace: "Germany"
 deathPlace: "France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 4
   day: 23

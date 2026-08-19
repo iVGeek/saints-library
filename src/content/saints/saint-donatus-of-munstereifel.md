@@ -8,7 +8,7 @@ deathYear: 180
 born: "c.140 of Rome, Italy"
 died: "c.180"
 birthPlace: "Italy"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 30

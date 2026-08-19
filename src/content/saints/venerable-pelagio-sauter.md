@@ -9,7 +9,7 @@ born: "9 November 1878 in Hausen am Tann, Zollernalbkreis, Germany"
 died: "23 November 1961 in Campinas, Goiânia, Brazil of natural causes"
 birthPlace: "Zollernalbkreis, Germany"
 deathPlace: "Goiânia, Brazilnatural causes"
-region: "Germany"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

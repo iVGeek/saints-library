@@ -19,7 +19,7 @@ deathYear: 432
 born: "c.360 at Cumbria, Britain"
 died: "c.432 of natural causes"
 birthPlace: "Britain"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 9
   day: 16

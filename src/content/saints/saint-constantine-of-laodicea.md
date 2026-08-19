@@ -2,7 +2,7 @@
 name: "Saint Constantine of Laodicea"
 honorific: Saint
 summary: "Bishop of Laodicea in Anatolia (part of modern Turkey) from c.508 to 518."
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 6
   day: 26

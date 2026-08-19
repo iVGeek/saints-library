@@ -11,7 +11,7 @@ born: "1 November 1845 at Sanok, Podkarpackie, Poland"
 died: "1 January 1920 at Lviv, L’vivs’ka oblast’, Ukraine"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "L’vivs’ka oblast’, Ukraine"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 1
   day: 1

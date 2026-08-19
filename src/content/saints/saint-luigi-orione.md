@@ -11,7 +11,7 @@ born: "23 June 1872 at Pontecurone, Allessandria, Italy"
 died: "12 March 1940 at San Remo, Imperia, Italy from heart disease"
 birthPlace: "Allessandria, Italy"
 deathPlace: "Imperia, Italyheart disease"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 3
   day: 12

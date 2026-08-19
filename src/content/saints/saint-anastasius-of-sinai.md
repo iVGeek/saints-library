@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 700
 born: "first half of the 7th century in Cyprus"
 died: "c.700"
-region: "England"
+region: "Syria"
 feastDay:
   month: 4
   day: 21

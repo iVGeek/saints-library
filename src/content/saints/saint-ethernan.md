@@ -7,7 +7,7 @@ searchAliases:
   - "Iphernan"
 born: "6th century Scotland"
 died: "6th century Scotland of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 12
   day: 3

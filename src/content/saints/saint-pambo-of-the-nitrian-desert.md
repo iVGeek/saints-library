@@ -8,7 +8,7 @@ searchAliases:
   - "Pemwah"
 deathYear: 375
 died: "c.375 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 7
   day: 18

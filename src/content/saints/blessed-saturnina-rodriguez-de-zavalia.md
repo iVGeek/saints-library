@@ -15,7 +15,7 @@ born: "27 November 1823 in Córdoba, Argentina as Saturnina Rodriguez"
 died: "about 8:00 a.m. on 5 April 1896 in Córdoba, Argentina of natural causes"
 birthPlace: "Argentina as Saturnina Rodriguez"
 deathPlace: "Argentinanatural causes"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 4
   day: 5

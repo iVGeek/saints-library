@@ -10,7 +10,7 @@ born: "29 March 1900 in Edinburgh, Scotland"
 died: "24 November 1925 in Warley, Essex, England of tuberculosis"
 birthPlace: "Scotland"
 deathPlace: "Essex, Englandtuberculosis"
-region: "France"
+region: "England"
 feastDay:
   month: 1
   day: 1

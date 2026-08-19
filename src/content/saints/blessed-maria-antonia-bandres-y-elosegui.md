@@ -11,7 +11,7 @@ born: "6 March 1898 in Tolosa, Guipúzcoa, Spain"
 died: "27 April 1919 in Salamanca, Spain of natural causes while singing a Marian hymn"
 birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Spaof natural causes while singing a Marian hymn"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 27

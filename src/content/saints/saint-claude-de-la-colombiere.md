@@ -12,7 +12,7 @@ born: "2 February 1641 at Saint-Symphorien d’Ozon, Rhône, France"
 died: "15 February 1682 at Paray-le-Monial, Saône-et-Loire, France of hemoptysis (coughing up blood)"
 birthPlace: "Rhône, France"
 deathPlace: "Saône-et-Loire, Francehemoptysis (coughing up blood)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 15

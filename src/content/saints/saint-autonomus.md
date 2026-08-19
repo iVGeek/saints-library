@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 300
 born: "Italian"
 died: "martyred c.300 in Asia Minor"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 9
   day: 12

@@ -8,7 +8,7 @@ searchAliases:
   - "Ninos"
   - "Nono"
   - "Nonnos"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 12
   day: 2

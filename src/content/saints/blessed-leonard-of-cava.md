@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1255
 died: "1255 at La Cava Abbey, Campania, Italy"
 deathPlace: "Campania, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 18

@@ -12,7 +12,7 @@ born: "1204 at Portella, diocese of Urgel, Catalonia, Spain"
 died: "31 August 1240 at Cardona, Spain of a fever"
 birthPlace: "dioceseUrgel, Catalonia, Spain"
 deathPlace: "Spaof a fever"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 31

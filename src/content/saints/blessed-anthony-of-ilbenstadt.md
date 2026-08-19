@@ -7,7 +7,7 @@ deathYear: 1149
 born: "c.1100 in Nivelles, Brabant (in modern Belgium)"
 died: "15 January c.1149 of natural causes"
 birthPlace: "Brabant (modern Belgium)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 13

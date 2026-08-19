@@ -12,7 +12,7 @@ born: "22 November 1822 at Mittelbronn, Moselle, France"
 died: "beheaded on 1 May 1852 at Son-tai, Tonkin, Vietnam"
 birthPlace: "Moselle, France"
 deathPlace: "Tonkin, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 1

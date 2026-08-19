@@ -12,7 +12,7 @@ born: "c.1580 in Villarejo de Salvanés, Madrid, Spain"
 died: "burned alive on 10 September 1622 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Madrid, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 10

@@ -18,7 +18,7 @@ deathYear: 1050
 born: "930 at Salerno, Italy"
 died: "Holy Thursday 1050"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 12

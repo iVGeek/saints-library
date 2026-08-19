@@ -10,7 +10,7 @@ deathYear: 1878
 born: "13 May 1792 in Senigallia, Italy as Giovanni Maria Mastai Ferretti"
 died: "7 February 1878 in Vatican City of natural causes"
 birthPlace: "Italy as Giovanni Maria Mastai Ferretti"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 2
   day: 7

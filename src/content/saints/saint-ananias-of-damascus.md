@@ -7,7 +7,7 @@ searchAliases:
   - "Anania"
 died: "1st century in Eleutheropolis, a now-ruined village in Palestine"
 deathPlace: "a now-ruined villagePalestine"
-region: "England"
+region: "Syria"
 feastDay:
   month: 1
   day: 25

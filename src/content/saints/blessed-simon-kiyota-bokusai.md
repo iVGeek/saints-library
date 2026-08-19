@@ -5,7 +5,7 @@ summary: "Layman catechist in the diocese of Fukuoka, Japan. Married to Blessed 
 birthYear: 1559
 born: "1559 in Kiyota, Japan"
 birthPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 16

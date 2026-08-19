@@ -15,7 +15,7 @@ born: "c.1600 in Carleton, Lancashire, England"
 died: "hanged, drawn, and quartered on 7 August 1646 in Lancaster, Lancashire, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 7 August 1646Lancaster, Lancashire, England"
-region: "Spain"
+region: "Scotland"
 feastDay:
   month: 8
   day: 7

@@ -9,7 +9,7 @@ born: "13 January 1891 at Guadalupe, Zacatecas, Mexico"
 died: "shot by firing squad on 23 November 1927 in Mexico City, Mexico"
 birthPlace: "Zacatecas, Mexico"
 deathPlace: "Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 11
   day: 23

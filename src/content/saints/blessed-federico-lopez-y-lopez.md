@@ -13,7 +13,7 @@ born: "16 November 1878 in Secorum, Huesca, Spain"
 died: "shot in the evening of 3 August 1936 in Samalús, Barcelona, Spain"
 birthPlace: "Huesca, Spain"
 deathPlace: "Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 3

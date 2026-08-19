@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 877
 born: "Ireland"
 died: "c.877 in Italy of natural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 8
   day: 22

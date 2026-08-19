@@ -36,7 +36,7 @@ born: "c.714 at Hesbaye, Brabant, near Liege, Belgium"
 died: "6 March 776 at Metz, France"
 birthPlace: "Brabant, near Liege, Belgium"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 6

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Benedictine monk. Abbot of the monastery of Stavelot-Malmedy, Belgium."
 deathYear: 690
 died: "c.690 of natural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 10
   day: 28

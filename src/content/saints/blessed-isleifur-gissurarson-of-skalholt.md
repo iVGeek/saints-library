@@ -6,7 +6,7 @@ birthYear: 1006
 deathYear: 1080
 born: "c.1006 in Iceland"
 died: "5 July 1080 in Iceland of natural causes"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 3
   day: 3

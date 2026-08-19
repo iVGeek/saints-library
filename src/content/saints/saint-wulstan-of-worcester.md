@@ -12,7 +12,7 @@ deathYear: 1095
 born: "c.1009 at Icentum, Warwickshire, England"
 died: "1095 of natural causes"
 birthPlace: "Warwickshire, England"
-region: "France"
+region: "England"
 feastDay:
   month: 1
   day: 20

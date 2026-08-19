@@ -14,7 +14,7 @@ born: "c.350 in Aegina, Greece"
 died: "391 in Gozzano, Italy of natural causes"
 birthPlace: "Greece"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 1
   day: 7

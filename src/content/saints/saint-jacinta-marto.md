@@ -9,7 +9,7 @@ born: "11 March 1910 at Aljustrel, Santarém, Portugal"
 died: "20 February 1920 in Lisbon, Portugal of natural causes"
 birthPlace: "Santarém, Portugal"
 deathPlace: "Portugalnatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 2
   day: 20

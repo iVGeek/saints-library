@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 283
 born: "Phrygia (in modern Turkey)"
 died: "c.283 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 2

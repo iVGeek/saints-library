@@ -13,7 +13,7 @@ deathYear: 558
 born: "8 January 454 at Nicopolis, Armenia"
 died: "8 January 558 in Jerusalem of natural causes"
 birthPlace: "Armenia"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 7

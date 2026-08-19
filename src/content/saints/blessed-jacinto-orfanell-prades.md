@@ -12,7 +12,7 @@ born: "8 November 1578 in La Jana, Castellón, Spain"
 died: "burned alive on 10 September 1622 at Nishizaka, Nagasaki, Japan"
 birthPlace: "Castellón, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 10

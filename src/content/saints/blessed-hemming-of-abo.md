@@ -6,7 +6,7 @@ deathYear: 1366
 born: "late 13th century in Balinge parish, north of Uppsala, Sweden"
 died: "21 May 1366 of natural causes"
 birthPlace: "northUppsala, Sweden"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 5
   day: 21

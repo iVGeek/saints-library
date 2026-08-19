@@ -9,7 +9,7 @@ born: "18 December 1890 in Temse, Belgium"
 died: "10 June 1924 at Moerzeke, Belgium of a stroke"
 birthPlace: "Belgium"
 deathPlace: "Belgiuma stroke"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 10

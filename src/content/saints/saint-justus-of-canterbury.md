@@ -7,7 +7,7 @@ deathYear: 627
 born: "Rome, Italy"
 died: "627 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "England"
 feastDay:
   month: 11
   day: 10

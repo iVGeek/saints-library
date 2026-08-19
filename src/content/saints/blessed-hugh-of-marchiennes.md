@@ -6,7 +6,7 @@ deathYear: 1158
 born: "at Tournai, Belgium"
 died: "1158"
 birthPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 11

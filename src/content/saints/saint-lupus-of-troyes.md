@@ -12,7 +12,7 @@ deathYear: 478
 born: "384 in Toul, France"
 died: "478"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 29

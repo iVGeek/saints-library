@@ -13,7 +13,7 @@ born: "1384 in Rome, Italy as Francesca Bussa de’ Leoni"
 died: "1440 in Rome, Italy"
 birthPlace: "Italy as Francesca Bussa de’ Leoni"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 9

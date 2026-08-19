@@ -11,7 +11,7 @@ born: "latter 12th century Belvedere Marittimo, Kingdom of Sicily (modern Italy)
 died: "beheaded in October 1227 in Mauritania Tingitana, Almohad Empire (modern Ceuta, Spain)"
 birthPlace: "KingdomSicily (modern Italy)"
 deathPlace: "Almohad Empire (modern Ceuta, Spain)"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 10

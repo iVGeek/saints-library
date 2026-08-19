@@ -13,7 +13,7 @@ born: "1802 in Munan, Seoul, South Korea"
 died: "beheaded on24 May 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Seoul, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 24

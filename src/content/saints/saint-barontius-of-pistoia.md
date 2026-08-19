@@ -9,7 +9,7 @@ searchAliases:
   - "Baronzio"
 deathYear: 725
 died: "c.725"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 26

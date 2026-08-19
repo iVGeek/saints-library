@@ -14,7 +14,7 @@ born: "20 November 1869 at Lviv, Ukraine as Mykhailyna Hordashevska"
 died: "7 April 1919 of tuberculosis of the bone in Krystynopil, Ukraine"
 birthPlace: "Ukraine as Mykhailyna Hordashevska"
 deathPlace: "Ukraine"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 3
   day: 25

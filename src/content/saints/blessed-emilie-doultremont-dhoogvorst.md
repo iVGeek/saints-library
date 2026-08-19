@@ -14,7 +14,7 @@ born: "11 October 1818 in Wegimont  near Liège, Belgium"
 died: "22 February 1878 at the home of her son Adrien in Florence, Italy of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 2
   day: 22

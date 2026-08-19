@@ -12,7 +12,7 @@ born: "11 March 1915 in Slupsk, Zachodniopomorskie, Poland"
 died: "starved to death on 27 November 1942 the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Zachodniopomorskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 11
   day: 27

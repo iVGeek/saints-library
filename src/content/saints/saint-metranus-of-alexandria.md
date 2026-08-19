@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 250
 died: "stoned to death c.250 outside the city walls of Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 31

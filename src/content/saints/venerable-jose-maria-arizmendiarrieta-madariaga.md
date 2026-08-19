@@ -11,7 +11,7 @@ born: "22 April 1915 in Markina-Xemein, Vizcaya, Spain"
 died: "29 November 1976 in Arrasate-Mondragón, Guipúzcoa, Spain of natural causes"
 birthPlace: "Vizcaya, Spain"
 deathPlace: "Guipúzcoa, Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 1

@@ -9,7 +9,7 @@ born: "7 August 1877 in Urroz de Santesteban, Navarra, Spain"
 died: "shot in head multiple times on 10 August 1936 in Cuenca, Spain"
 birthPlace: "Navarra, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 10

@@ -9,7 +9,7 @@ born: "26 February 1908 in Zduny, Lódzkie, Poland"
 died: "gassed on 10 August 1942 at the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Lódzkie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 8
   day: 10

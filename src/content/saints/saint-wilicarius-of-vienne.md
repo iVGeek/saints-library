@@ -6,7 +6,7 @@ searchAliases:
   - "Wilicaire"
 deathYear: 765
 died: "765 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 13

@@ -12,7 +12,7 @@ born: "20 February 1808 in Beynat, Corrèze, diocese of Tulle, France"
 died: "beheaded on 24 November 1838 at Ðong Hoi, Quang Bình, Vietnam"
 birthPlace: "Corrèze, dioceseTulle, France"
 deathPlace: "Quang Bình, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 24

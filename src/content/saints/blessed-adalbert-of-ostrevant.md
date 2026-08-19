@@ -5,7 +5,7 @@ honorific: Blessed
 summary: "Born to the wealthy 8th century nobility, Adalbert was the Count of Ostrevant in the region of modern northern France along the border with Belgium, and served in the Frankish royal court. Married to Blessed Reine of Denain, and the father of ten daughters, including Blessed Rage"
 deathYear: 790
 died: "22 April c.790"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 22

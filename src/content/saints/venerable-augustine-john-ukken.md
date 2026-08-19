@@ -9,7 +9,7 @@ born: "19 December 1880 in in Parappur, Thrissur, India"
 died: "13 October 1956 in Chowannur, Thrissur, India of natural causes"
 birthPlace: "Thrissur, India"
 deathPlace: "Thrissur, Indianatural causes"
-region: "France"
+region: "India"
 feastDay:
   month: 12
   day: 21

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Otto-of-Morocco.
 deathYear: 1220
 died: "16 January 1220 in Morocco by being scourged till his ribs appeared bare, having burning oil and vinegar poured into the wounds, body rolled on sharp stones and potsherds, then his heads split by a sword"
 deathPlace: "having burning oil and vinegar poured into the wounds, body rolled on sharp stones and potsherds, then his heads split by a sword"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 1
   day: 16

@@ -9,7 +9,7 @@ born: "9 August 1915 in Anconetta, Vicenza, Italy"
 died: "in a traffic accident on 14 September 1972 in Brescia, Italy"
 birthPlace: "Vicenza, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 26

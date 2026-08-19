@@ -12,7 +12,7 @@ born: "1902 in Warsaw, Poland"
 died: "the night of 25 July 1941 in the prison camp at Dzialdowo, Warminsko-Mazurskie, Poland"
 birthPlace: "Poland"
 deathPlace: "Warminsko-Mazurskie, Poland"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 7
   day: 25

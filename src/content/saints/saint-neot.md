@@ -7,7 +7,7 @@ searchAliases:
   - "the Pygmy Saint"
 deathYear: 877
 died: "877 of natural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 7
   day: 31

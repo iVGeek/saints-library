@@ -9,7 +9,7 @@ born: "21 July 1919 in Bochum, Wielkopolskie, Poland"
 died: "guillotined on 24 August 1942 in Dresden, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 24

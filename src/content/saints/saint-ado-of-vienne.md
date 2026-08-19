@@ -12,7 +12,7 @@ born: "Sens, France"
 died: "875 in Vienne, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 16

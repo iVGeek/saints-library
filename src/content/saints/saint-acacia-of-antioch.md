@@ -7,7 +7,7 @@ searchAliases:
   - "Achatia"
   - "Achatio"
   - "Achartio"
-region: "Syria"
+region: "Turkey"
 feastDay:
   month: 3
   day: 29

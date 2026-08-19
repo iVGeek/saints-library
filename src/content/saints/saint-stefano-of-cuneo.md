@@ -7,7 +7,7 @@ deathYear: 1391
 born: "Cuneo, Italy"
 died: "burned alive on 14 November 1391 near the Jaffa Gate in Jerusalem"
 birthPlace: "Italy"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 14

@@ -10,7 +10,7 @@ born: "at Owari, Japan"
 died: "crucified on 5 February 1597 at Nishizaka, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

@@ -5,7 +5,7 @@ summary: "Layman farmer. He came into Rome, Italy on a day when a new pope was t
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Saints_Fabian_and_Sebastian_-_Giovanni_di_Paolo.png/960px-Saints_Fabian_and_Sebastian_-_Giovanni_di_Paolo.png"
 deathYear: 250
 died: "c.250"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 20

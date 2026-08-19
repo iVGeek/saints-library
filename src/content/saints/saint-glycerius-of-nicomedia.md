@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glycerius-of-Nic
 deathYear: 303
 died: "burned at the stake in 303 in Nicomedia, Bithynia (modern Izmit, Turkey)"
 deathPlace: "Bithynia (modern Izmit, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 21

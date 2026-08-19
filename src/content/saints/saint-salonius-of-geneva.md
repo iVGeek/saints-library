@@ -8,7 +8,7 @@ birthYear: 400
 born: "c.400"
 died: "mid-5th century in Geneva, Switzerland of natural causes"
 deathPlace: "Switzerlandnatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 28

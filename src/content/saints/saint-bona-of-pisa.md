@@ -9,7 +9,7 @@ born: "c.1156 at Pisa, Italy"
 died: "c.1207 at Pisa, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 5
   day: 29

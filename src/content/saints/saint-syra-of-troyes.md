@@ -8,7 +8,7 @@ searchAliases:
 born: "Ireland"
 died: "7th-century Troyes, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 6
   day: 8

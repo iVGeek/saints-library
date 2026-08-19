@@ -19,7 +19,7 @@ born: "827 at Thessalonica, Greece as Constantin"
 died: "14 February 869 at Rome, Italy of natural causes"
 birthPlace: "Greece as Constantin"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 2
   day: 14

@@ -5,7 +5,7 @@ summary: "Chamberlain in the palace of Diocletian in Nicomedia (in modern Turkey
 searchAliases:
   - "Peter Cubicolario"
   - "Peter Cubicularius"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 12

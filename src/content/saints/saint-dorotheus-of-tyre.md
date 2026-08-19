@@ -9,7 +9,7 @@ birthYear: 255
 deathYear: 362
 born: "c.255"
 died: "martyred c.362"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 6
   day: 5

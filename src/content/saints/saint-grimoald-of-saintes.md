@@ -5,7 +5,7 @@ summary: "Deacon in Saintes, Belgium. Martyred by pagan Frisian invaders."
 deathYear: 700
 died: "c.700 outside a chapel in Saintes (in modern Halle), Belgium"
 deathPlace: "Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 7
   day: 16

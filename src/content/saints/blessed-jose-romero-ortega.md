@@ -8,7 +8,7 @@ born: "2 April 1875 in Almeria, Spain"
 died: "shot on 28 August 1936 in Huércal, Almeria, Spain"
 birthPlace: "Spain"
 deathPlace: "Almeria, Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 28

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/Basil-of-Ancyra.jpg"
 deathYear: 364
 died: "mauled by wild beasts in 364 in the area at Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 22

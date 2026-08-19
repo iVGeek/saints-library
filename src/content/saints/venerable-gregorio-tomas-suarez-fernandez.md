@@ -11,7 +11,7 @@ born: "30 March 1915 in La Cortina, Spain"
 died: "23 April 1949 at the San Estaban convent in Salamanca, Spain of tuberculosis"
 birthPlace: "Spain"
 deathPlace: "Spaof tuberculosis"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 15

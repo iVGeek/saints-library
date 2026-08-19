@@ -11,7 +11,7 @@ born: "19 March 1818 in L'Assomption, Québec, Canada"
 died: "5 April 1876 in Ottawa, Ontario, Canada of natural causes"
 birthPlace: "Québec, Canada"
 deathPlace: "Ontario, Canadanatural causes"
-region: "England"
+region: "Canada"
 feastDay:
   month: 1
   day: 1

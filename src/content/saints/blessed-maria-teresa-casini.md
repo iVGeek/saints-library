@@ -11,7 +11,7 @@ born: "27 October 1864 in Frascati, Italy"
 died: "around 5am on 3 April 1937 at Oblate monastery on the via del Casaletto in Grottaferrata, Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 4
   day: 3

@@ -16,7 +16,7 @@ born: "31 October 1618 at Quito, Ecuador"
 died: "26 May 1645 at Quito, Ecuador"
 birthPlace: "Ecuador"
 deathPlace: "Ecuador"
-region: "Spain"
+region: "Ecuador"
 feastDay:
   month: 5
   day: 26

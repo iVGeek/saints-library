@@ -9,7 +9,7 @@ born: "22 January 1913 in Chelmza, Poland"
 died: "23 February 1945 of typhus at the Dachau concentration camp, Germany"
 birthPlace: "Poland"
 deathPlace: "Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 2
   day: 23

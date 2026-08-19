@@ -9,7 +9,7 @@ deathYear: 1007
 born: "Perugia, Italy"
 died: "1007"
 birthPlace: "Italy"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 7
   day: 10

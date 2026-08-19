@@ -8,7 +8,7 @@ searchAliases:
   - "Agripanus"
 died: "beheaded at Chiniac, Vivarais, Aquitaine (modern Saint-Agrève, France)"
 deathPlace: "Vivarais, Aquitaine (modern Saint-Agrève, France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

@@ -2,7 +2,7 @@
 name: "Saint Erastus"
 honorific: Saint
 summary: "Treasurer of the city of Corinth, Greece. Convert, brought to the faith by Saint Paul the Apostle. Assisted Paul, especially around Corinth. Bishop of Philippi, Macedonia. Martyr."
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 7
   day: 26

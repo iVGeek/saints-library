@@ -5,7 +5,7 @@ summary: "Hermit in the area of Caesarea in Palestine. During a period of persec
 deathYear: 260
 died: "260 in Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 28

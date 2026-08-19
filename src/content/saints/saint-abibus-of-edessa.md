@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 322
 died: "burned at the stake in Edessa, Syria in 322"
 deathPlace: "Syria322"
-region: "England"
+region: "Syria"
 feastDay:
   month: 9
   day: 2

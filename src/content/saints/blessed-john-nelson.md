@@ -8,7 +8,7 @@ born: "1534 at Skelton, Yorkshire, England"
 died: "hanged, drawn, and quartered on 3 February 1578 at Tyburn, London England"
 birthPlace: "Yorkshire, England"
 deathPlace: "drawn, and quartered on 3 February 1578 at Tyburn, London England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 3

@@ -16,7 +16,7 @@ born: "c.1197 at Droitwich, Worcestershire, England as Richard de Wych"
 died: "3 April 1253 at Dover, Kent, England of natural causes"
 birthPlace: "Worcestershire, England as Richard de Wych"
 deathPlace: "Kent, Englandnatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 3

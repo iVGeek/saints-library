@@ -14,7 +14,7 @@ born: "22 July 1559 at Brindisi, Italy as Julius Caesar Rossi"
 died: "22 July 1619 at Lisbon, Portugal of natural causes"
 birthPlace: "Italy as Julius Caesar Rossi"
 deathPlace: "Portugalnatural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 21

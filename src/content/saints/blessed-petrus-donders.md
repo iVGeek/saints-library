@@ -12,7 +12,7 @@ born: "27 October 1805 at Tilburg, North Brabant, Netherlands"
 died: "14 January 1887 at Batavia, Saramacca, Surinam of natural causes"
 birthPlace: "North Brabant, Netherlands"
 deathPlace: "Saramacca, Surinamnatural causes"
-region: "Ireland"
+region: "India"
 feastDay:
   month: 6
   day: 5

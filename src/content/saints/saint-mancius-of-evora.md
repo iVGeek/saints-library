@@ -6,7 +6,7 @@ born: "5th century Rome, Italy"
 died: "5th century Evora, Portugal"
 birthPlace: "Italy"
 deathPlace: "Portugal"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 3
   day: 15

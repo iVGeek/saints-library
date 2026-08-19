@@ -15,7 +15,7 @@ born: "c.1234 at Palma, Majorca, Spain"
 died: "some writers indicate he was martyred by stoning in Tunis c.1315, but there is no evidence for it"
 birthPlace: "Majorca, Spain"
 deathPlace: "but there is no evidence for it"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 30

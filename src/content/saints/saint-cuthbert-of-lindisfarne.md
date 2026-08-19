@@ -11,7 +11,7 @@ deathYear: 687
 born: "634 somewhere in the British Isles"
 died: "20 March 687 at Lindesfarne, England of natural causes"
 deathPlace: "Englandnatural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 3
   day: 20

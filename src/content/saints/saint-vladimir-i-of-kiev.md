@@ -13,7 +13,7 @@ deathYear: 1015
 born: "956 at Kiev as Vladimir Svyatoslavich"
 died: "15 July 1015 at Berestova, near Kiev"
 deathPlace: "near Kiev"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 7
   day: 15

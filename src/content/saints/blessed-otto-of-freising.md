@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1158
 died: "22 September 1158 at the Cistercian monastery of Morimond, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 9
   day: 22

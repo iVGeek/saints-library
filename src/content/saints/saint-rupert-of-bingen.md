@@ -10,7 +10,7 @@ born: "c.712 near Mainz, Rhineland-Palatinate (in modern Germany)"
 died: "c.732 near Bingen, Rhineland-Palatinate (in modern Germay) of a fever"
 birthPlace: "Rhineland-Palatinate (modern Germany)"
 deathPlace: "Rhineland-Palatinate (modern Germay) of a fever"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 15

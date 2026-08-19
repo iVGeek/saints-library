@@ -10,7 +10,7 @@ born: "at Harpham, Yorkshire, England"
 died: "7 May 721 at Inderawood Abbey, England of natural causes"
 birthPlace: "Yorkshire, England"
 deathPlace: "Englandnatural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 5
   day: 7

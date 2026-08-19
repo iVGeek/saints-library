@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 396
 born: "early 4th century Gaul (modern France)"
 died: "396 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 4
   day: 9

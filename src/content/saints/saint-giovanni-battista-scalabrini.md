@@ -13,7 +13,7 @@ born: "8 July 1839 at Fino Mornasco, Como, Italy"
 died: "dawn on the feast of the Ascension of the Lord, 1 June 1905 in Piacenza, Italy of natural causes"
 birthPlace: "Como, Italy"
 deathPlace: "1 June 1905Piacenza, Italy of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 1

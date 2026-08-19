@@ -9,7 +9,7 @@ born: "15 July 1871 in Faenza, Ravenna, Italy"
 died: "6 October 1965 in Tokyo, Japan following complications from a stroke suffered while celebrating Mass in 1957"
 birthPlace: "Ravenna, Italy"
 deathPlace: "Japan following complicationsa stroke suffered while celebrating Mass in 1957"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 1
   day: 1

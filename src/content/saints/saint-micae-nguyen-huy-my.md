@@ -8,7 +8,7 @@ born: "c.1804 in Ke Vinh, Hanoi, Vietnam"
 died: "12 August 1838 in Bay Mau, Hanoi, Vietnam"
 birthPlace: "Hanoi, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "Italy"
+region: "Vietnam"
 feastDay:
   month: 8
   day: 12

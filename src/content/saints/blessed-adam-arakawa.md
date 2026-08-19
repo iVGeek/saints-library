@@ -9,7 +9,7 @@ born: "c.1551 in Arima, Hyogo, Japan"
 died: "5 June 1614 in  Shiki, Amakusa, Nagasaki, Japan"
 birthPlace: "Hyogo, Japan"
 deathPlace: "Amakusa, Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 6
   day: 5

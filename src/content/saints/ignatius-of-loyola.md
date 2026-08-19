@@ -17,7 +17,7 @@ born: 23 October 1491
 died: 31 July 1556
 birthPlace: Loyola, Spain
 deathPlace: Rome, Italy
-region: Spain
+region: "France"
 centuries: [15, 16]
 feastDay:
   month: 7

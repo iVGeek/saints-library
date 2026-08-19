@@ -9,7 +9,7 @@ born: "16 September 1799 at Onion, Haute-Savoie, France"
 died: "strangled to death on 21 September 1838 in Nhan Bieu, Quang Tri, Tonkin, Indo-China (modern Vietnam)"
 birthPlace: "Haute-Savoie, France"
 deathPlace: "Quang Tri, Tonkin, Indo-China (modern Vietnam)"
-region: "France"
+region: "China"
 feastDay:
   month: 9
   day: 21

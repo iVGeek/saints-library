@@ -11,7 +11,7 @@ born: "16 September 1942 in Markowa, Lancut, Poland"
 died: "shot in the early morning of 24 March 1944 outside their residence in Markowa, Lancut, Poland"
 birthPlace: "Lancut, Poland"
 deathPlace: "Lancut, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 3
   day: 24

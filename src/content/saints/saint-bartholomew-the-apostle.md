@@ -11,7 +11,7 @@ searchAliases:
 born: "Galilee"
 died: "flayed alive at Albanopolis, Armenia"
 deathPlace: "Armenia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 24

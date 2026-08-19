@@ -12,7 +12,7 @@ birthYear: 403
 deathYear: 460
 born: "c.403 at Aquitaine (in modern France)"
 died: "c.460 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 25

@@ -10,7 +10,7 @@ born: "c.1773 in Bang Son, Hà Ðông, Ha Tay, Vietnam"
 died: "beheaded on 11 October 1833 in Quan Ban, Vietnam"
 birthPlace: "Hà Ðông, Ha Tay, Vietnam"
 deathPlace: "Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 10
   day: 11

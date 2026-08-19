@@ -15,7 +15,7 @@ born: "Florence, Italy"
 died: "11 November 1089 in Albano, Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 8

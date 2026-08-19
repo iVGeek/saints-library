@@ -9,7 +9,7 @@ born: "19 April 1879 in Lima, Peru"
 died: "1 March 1958 in Cachapoyas, Amazonas, Peru of natural causes"
 birthPlace: "Peru"
 deathPlace: "Amazonas, Perunatural causes"
-region: "England"
+region: "Peru"
 feastDay:
   month: 1
   day: 27

@@ -2,7 +2,7 @@
 name: "Martyrs of Saint Sabas"
 honorific: Saint
 summary: "A group of 44 monks, whose names have not come down to us, who were massacred by Moors at the monastery of Saint Sabas in Palestine."
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 16

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "First bishop of Constantinople, ordained by Saint Andrew the Apostle. Greeted by Saint Paul the Apostle in the Epistle to the Romans."
 searchAliases:
   - "Stachis"
-region: "United States"
+region: "Turkey"
 feastDay:
   month: 10
   day: 31

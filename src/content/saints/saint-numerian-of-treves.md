@@ -9,7 +9,7 @@ deathYear: 666
 born: "Treves (modern Trier, Germany)"
 died: "c.666 of natural causes"
 birthPlace: "Germany)"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 5

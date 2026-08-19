@@ -8,7 +8,7 @@ born: "at Coltley, South Maperton, Dorset, England"
 died: "hanged, drawn, and quartered on 12 February 1584 at Tyburn, London, England"
 birthPlace: "South Maperton, Dorset, England"
 deathPlace: "drawn, and quartered on 12 February 1584 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 12

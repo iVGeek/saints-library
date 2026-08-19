@@ -11,7 +11,7 @@ born: "Massa Marittima, Tuscany, Italy"
 died: "17 April 1240 in Orvieto, Italy"
 birthPlace: "Tuscany, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 17

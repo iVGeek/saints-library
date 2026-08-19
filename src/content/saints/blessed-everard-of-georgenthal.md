@@ -10,7 +10,7 @@ searchAliases:
   - "Eberhard…"
 deathYear: 1145
 died: "between 1145 and 1152 (records vary) of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 22

@@ -8,7 +8,7 @@ born: "18 June 1874 in Belalcázar, Córdoba, Spain"
 died: "14 August 1936 in Belalcázar, Córdoba, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Córdoba, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 14

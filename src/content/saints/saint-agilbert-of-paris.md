@@ -8,7 +8,7 @@ deathYear: 685
 born: "near Soissons, France)"
 died: "c.685 of natural causes"
 birthPlace: "France)"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 10
   day: 11

@@ -10,7 +10,7 @@ deathYear: 1166
 born: "1086 at Gonfeo, Spain"
 died: "1166 of natural causes"
 birthPlace: "Spain"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 2
   day: 18

@@ -9,7 +9,7 @@ born: "1 December 1914 in Lanjarón, Granada, Spain"
 died: "shot on 21 July 1936 in Lanjarón, Granada, Spain"
 birthPlace: "Granada, Spain"
 deathPlace: "Granada, Spain"
-region: "Spain"
+region: "Belgium"
 feastDay:
   month: 7
   day: 21

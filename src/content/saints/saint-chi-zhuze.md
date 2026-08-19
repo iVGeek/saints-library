@@ -11,7 +11,7 @@ born: "c.1882 in Dezhaoin, Shenzhou, Hebei, China"
 died: "torn to pieces during June-July 1900 (records unclear) in Dechao, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 20

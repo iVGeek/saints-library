@@ -10,7 +10,7 @@ born: "Auvergne, France"
 died: "c.1073 in Benevento, Italy of natural causes"
 birthPlace: "France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 23

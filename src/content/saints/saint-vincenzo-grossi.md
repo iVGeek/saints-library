@@ -9,7 +9,7 @@ born: "9 March 1845 in Pizzighettone, Cremona, Italy"
 died: "7 November 1917 in Vicobellignano, Cremona, Italy of natural causes"
 birthPlace: "Cremona, Italy"
 deathPlace: "Cremona, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 7

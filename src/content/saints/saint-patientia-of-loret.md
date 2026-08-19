@@ -8,7 +8,7 @@ searchAliases:
   - "Patience of…."
 deathYear: 240
 died: "c.240"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 1

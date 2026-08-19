@@ -14,7 +14,7 @@ born: "early 15th century Fabriano, Marches of Ancona, Italy"
 died: "c.1481 at Ascoli Piceno, Italy of natural causes"
 birthPlace: "MarchesAncona, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 2
   day: 24

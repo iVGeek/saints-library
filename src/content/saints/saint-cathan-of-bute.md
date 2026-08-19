@@ -9,7 +9,7 @@ searchAliases:
 born: "Ireland"
 died: "tomb at Tamlacht, Ireland\nrelics at Tamlacht and on the Isle of Bute, Scotland"
 deathPlace: "Ireland\nrelics at Tamlacht and on the IsleBute, Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 5
   day: 17

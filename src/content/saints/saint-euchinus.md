@@ -6,7 +6,7 @@ summary: "Bishop who evangelized the pagan Picts in Scotland."
 deathYear: 534
 born: "5th century Ireland"
 died: "c.534 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 8
   day: 28

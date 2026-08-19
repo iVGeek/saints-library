@@ -14,7 +14,7 @@ born: "30 March 1774 at Lyon, France as Claudine Thevenet"
 died: "3 February 1837 at Lyon, France of natural causes"
 birthPlace: "France as Claudine Thevenet"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "India"
 feastDay:
   month: 2
   day: 3

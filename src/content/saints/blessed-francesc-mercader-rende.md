@@ -9,7 +9,7 @@ born: "25 March 1881 in Roda de Barà, Tarragona, Spain"
 died: "4 August 1936 in Barberà de la Conca, Tarragona, Spain"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Tarragona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 4

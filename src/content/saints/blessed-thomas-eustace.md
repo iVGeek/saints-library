@@ -6,7 +6,7 @@ deathYear: 1581
 born: "Irish"
 died: "martryed on 13 November 1581 in Dublin, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 11
   day: 13

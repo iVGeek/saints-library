@@ -11,7 +11,7 @@ born: "5 May 1804 in San Martín de Ollas, Burgos, Spain"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Burgos, Spain"
 deathPlace: "Syria"
-region: "Spain"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

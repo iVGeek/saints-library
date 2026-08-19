@@ -11,7 +11,7 @@ born: "26 February 1707 in Contursi Terme, Salerno, Italy"
 died: "16 February 1788 in Naples, Italy of natural causes"
 birthPlace: "Salerno, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 16

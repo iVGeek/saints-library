@@ -9,7 +9,7 @@ born: "17 August 1895 in Przygodzice, Wielkopolskie, Poland"
 died: "1 August 1942 at the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 1

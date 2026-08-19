@@ -13,7 +13,7 @@ born: "Nantes, Brittany, France"
 died: "beheaded in 725 near Autun, France"
 birthPlace: "Brittany, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 27

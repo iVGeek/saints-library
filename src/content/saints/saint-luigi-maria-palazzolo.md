@@ -11,7 +11,7 @@ born: "10 December 1827 in Bergamo, Kingdom of Lombardy-Venetia (in modern Italy
 died: "in the early hours of 15 June 1886 in Bergamo, Italy of natural causes"
 birthPlace: "KingdomLombardy-Venetia (in modern Italy)"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 6
   day: 15

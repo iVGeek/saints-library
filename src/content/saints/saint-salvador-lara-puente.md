@@ -11,7 +11,7 @@ born: "13 August 1905 in Berlín, Durango, Mexico"
 died: "shot on 15 August 1926 at Chalchihuites, Zacatecas, Mexico"
 birthPlace: "Durango, Mexico"
 deathPlace: "Zacatecas, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 8
   day: 15

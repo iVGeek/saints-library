@@ -5,7 +5,7 @@ summary: "Born to the 7th century English nobility. Brother of Saint Gerald. Wor
 searchAliases:
   - "Balanus"
   - "Balloin"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 9
   day: 7

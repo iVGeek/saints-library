@@ -11,7 +11,7 @@ born: "1805 in Si-heung, Gyeonggi-do, South Korea"
 died: "27 May 1839 in prison in Seoul, South Korea of plague"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "South Koreaplague"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 27

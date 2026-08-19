@@ -9,7 +9,7 @@ born: "18 September 1881 in Mora, Toledo, Spain"
 died: "shot on 23 July 1936 in the Paseo del Tránsito in Toledo, Spain"
 birthPlace: "Toledo, Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 23

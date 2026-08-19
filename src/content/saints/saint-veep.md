@@ -23,7 +23,7 @@ searchAliases:
 born: "6th century in northern England"
 died: "6th century in Cornwall, England"
 deathPlace: "England"
-region: "France"
+region: "England"
 feastDay:
   month: 7
   day: 1

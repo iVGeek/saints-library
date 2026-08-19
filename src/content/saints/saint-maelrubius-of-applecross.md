@@ -19,7 +19,7 @@ born: "642 in County Derry, Ireland"
 died: "martyred on 21 April 722 near Teampull, Scotland"
 birthPlace: "Ireland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 4
   day: 21

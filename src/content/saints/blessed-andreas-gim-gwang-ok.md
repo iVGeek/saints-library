@@ -9,7 +9,7 @@ born: "c.1841 in Yesan, Chungcheong-do, South Korea"
 died: "25 August 1801 in Yesan, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 8
   day: 25

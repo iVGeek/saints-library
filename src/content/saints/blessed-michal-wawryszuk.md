@@ -9,7 +9,7 @@ born: "1853 in Derlo, Podlasie, Poland"
 died: "shot on 17 January 1874 by Russian soldiers in Pratulin, Podlasie, Poland"
 birthPlace: "Podlasie, Poland"
 deathPlace: "Podlasie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 17

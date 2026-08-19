@@ -11,7 +11,7 @@ born: "12 December 1779 at Joigny, France"
 died: "25 May 1865 at Paris, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 25

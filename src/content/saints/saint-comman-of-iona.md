@@ -5,7 +5,7 @@ summary: "Brother of Saint Cumine the White. Monk of Iona Abbey. Kilchoman, Isla
 deathYear: 688
 born: "Irish"
 died: "688 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 18

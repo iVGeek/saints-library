@@ -12,7 +12,7 @@ born: "5 September 1843 in Savigliano, Italy"
 died: "8 February 1906 in Savona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 8

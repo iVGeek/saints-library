@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 752
 died: "c.752 at Saint-Ambroise-sur-Arnon, Berry, France"
 deathPlace: "Berry, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 16

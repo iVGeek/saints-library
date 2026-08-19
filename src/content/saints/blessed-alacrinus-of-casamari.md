@@ -6,7 +6,7 @@ searchAliases:
   - "Alacrino"
 deathYear: 1216
 died: "1216 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 5

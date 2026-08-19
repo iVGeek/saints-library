@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Abbot of Moissac, France. Bishop of Albi, Italy."
 deathYear: 700
 died: "c.700"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 7

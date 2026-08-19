@@ -9,7 +9,7 @@ born: "13 February 1875 in Sayula, Jalisco, diocese of Ciudad Guzmán, Mexico"
 died: "hanged from a mango tree at dawn on 28 October 1927 in the public square in Ejutla, Jalisco, Mexico"
 birthPlace: "Jalisco, dioceseCiudad Guzmán, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 10
   day: 28

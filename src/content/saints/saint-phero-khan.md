@@ -9,7 +9,7 @@ born: "c.1780 in Hòa Hue, Nghe An, Vietnam"
 died: "beheaded on 12 July 1842 in Hà Tinh, Vietnam"
 birthPlace: "Nghe An, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 12

@@ -13,7 +13,7 @@ born: "1796 in Seoul, South Korea"
 died: "beaten to death on 30 January 1840 in Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 30

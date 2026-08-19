@@ -14,7 +14,7 @@ searchAliases:
 birthYear: 1000
 born: "c.1000 in Tain, Scotland"
 birthPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 8

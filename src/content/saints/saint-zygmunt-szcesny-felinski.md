@@ -16,7 +16,7 @@ born: "1 November 1822 in Voyutin (Wojutyn), Poland (in modern Ukraine)"
 died: "17 September 1895 in Kraków, Malopolskie, Poland of natural causes"
 birthPlace: "Poland (modern Ukraine)"
 deathPlace: "Malopolskie, Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 9
   day: 17

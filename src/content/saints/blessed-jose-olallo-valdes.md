@@ -11,7 +11,7 @@ born: "12 February 1820 in Havana, Cuba"
 died: "7 March 1889 in Camagüey, Cuba of natural causes"
 birthPlace: "Cuba"
 deathPlace: "Cubanatural causes"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 3
   day: 7

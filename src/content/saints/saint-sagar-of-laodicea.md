@@ -9,7 +9,7 @@ searchAliases:
   - "Sagaro"
 deathYear: 175
 died: "175"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 6

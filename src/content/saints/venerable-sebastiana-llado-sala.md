@@ -11,7 +11,7 @@ born: "2 January 1814 in Campos, Mallorca, Islas Baleares, Spain"
 died: "8 March 1899 in Campos, Mallorca, Islas Baleares, Spain of natural causes"
 birthPlace: "Mallorca, Islas Baleares, Spain"
 deathPlace: "Mallorca, Islas Baleares, Spaof natural causes"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 1
   day: 1

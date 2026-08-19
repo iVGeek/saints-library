@@ -9,7 +9,7 @@ born: "8 April 1837 in Aizecq, Charente, France"
 died: "beheaded on 30 March 1866 in Galmaemot, Boryeong, Chungcheong-do, South Korea"
 birthPlace: "Charente, France"
 deathPlace: "Boryeong, Chungcheong-do, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 3
   day: 30

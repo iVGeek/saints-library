@@ -9,7 +9,7 @@ born: "3 April 1908 in Chilecito, La Rioja, Argentina"
 died: "19 August 1936 in Albufera de Adra, Almeria, Spain"
 birthPlace: "La Rioja, Argentina"
 deathPlace: "Almeria, Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 8
   day: 19

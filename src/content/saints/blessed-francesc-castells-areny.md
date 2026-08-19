@@ -11,7 +11,7 @@ born: "31 July 1876 in Pobla de Segur, Pallars Juss&agrave;, Lleida, Spain"
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "Pallars Juss&agrave;, Lleida, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 13

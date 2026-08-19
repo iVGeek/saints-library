@@ -6,7 +6,7 @@ deathYear: 1221
 born: "12th century in the area of modern Belgium"
 died: "fractured his skull when he fell off a ladder while putting up a ladder for an Ascension procession in 1221 at the Saint Cornelius monastery in Ninove (in modern Flanders, Belgium)"
 deathPlace: "Belgium)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 9

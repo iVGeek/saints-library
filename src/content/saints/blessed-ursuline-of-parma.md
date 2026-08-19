@@ -15,7 +15,7 @@ born: "1375 in Parma, Italy"
 died: "7 April 1410 in Verona, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 7

@@ -13,7 +13,7 @@ born: "14 February 1827 at Elorrio, diocese of Vitoria, Spain"
 died: "tortured and beheaded on 1 November 1861 Hai Duong, Vietnam"
 birthPlace: "dioceseVitoria, Spain"
 deathPlace: "Vietnam"
-region: "Italy"
+region: "Philippines"
 feastDay:
   month: 11
   day: 1

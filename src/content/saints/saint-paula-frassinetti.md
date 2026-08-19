@@ -10,7 +10,7 @@ deathYear: 1882
 born: "3 March 1809 at Genoa, Italy"
 died: "11 June 1882 of pneumonia following a series of strokes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 6
   day: 11

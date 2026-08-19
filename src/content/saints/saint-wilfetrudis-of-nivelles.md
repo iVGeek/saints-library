@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Niece of Saint Gertrude of Nivelles. Abbess of the abbey in Nivelles, Belgium."
 deathYear: 670
 died: "c.670"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 11
   day: 23

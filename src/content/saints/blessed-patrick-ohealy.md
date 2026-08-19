@@ -11,7 +11,7 @@ born: "c.1543 in Dromahaire, Leitrim, Ireland"
 died: "hanged on 31 August 1579 outside the gates of Kilmallock, Limerick, Ireland"
 birthPlace: "Leitrim, Ireland"
 deathPlace: "Limerick, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 8
   day: 13

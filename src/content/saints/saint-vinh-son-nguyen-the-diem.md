@@ -10,7 +10,7 @@ born: "c.1761 in An Dô, Quang Tri, Vietnam"
 died: "martyred on 24 November 1838 in Ðong Hoi, Quang Bình, Vietnam"
 birthPlace: "Quang Tri, Vietnam"
 deathPlace: "Quang Bình, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 24

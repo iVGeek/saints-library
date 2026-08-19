@@ -8,7 +8,7 @@ born: "c.1787 in Mai Vinh, Thua Thiên, Vietnam"
 died: "beheaded on 12 December 1840 in An Hòa, Quang Nam, Vietnam"
 birthPlace: "Thua Thiên, Vietnam"
 deathPlace: "Quang Nam, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 12

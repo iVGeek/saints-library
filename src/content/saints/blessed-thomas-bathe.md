@@ -6,7 +6,7 @@ deathYear: 1649
 born: "Irish"
 died: "martyred on 11 September 1649 in Drogheda, Louth, Ireland"
 deathPlace: "Louth, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 9
   day: 11

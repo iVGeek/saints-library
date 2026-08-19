@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 392
 died: "c.392 in Agen, Aquitaine (in modern France) of natural causes"
 deathPlace: "Aquitaine (modern France) of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 25

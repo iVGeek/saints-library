@@ -9,7 +9,7 @@ deathYear: 1276
 born: "c.1200 in Perugia, Italy"
 died: "c.1276 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 9
   day: 15

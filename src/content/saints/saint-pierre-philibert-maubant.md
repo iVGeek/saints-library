@@ -11,7 +11,7 @@ born: "20 September 1803 at Vassy, Calvados, France"
 died: "beheaded on 21 September 1839 in Saenamteo, Seoul, South Korea"
 birthPlace: "Calvados, France"
 deathPlace: "Seoul, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 9
   day: 21

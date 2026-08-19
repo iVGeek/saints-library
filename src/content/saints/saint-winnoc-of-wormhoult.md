@@ -18,7 +18,7 @@ deathYear: 716
 born: "7th century Wales"
 died: "6 November 716 or 717 at Wormhoult, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 11
   day: 6

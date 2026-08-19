@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 362
 died: "362 in Heliopolis, Phoenicia"
 deathPlace: "Phoenicia"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 28

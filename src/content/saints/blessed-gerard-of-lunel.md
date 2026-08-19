@@ -14,7 +14,7 @@ deathYear: 1298
 born: "1275 in southern France"
 died: "1298 at Montesanto, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 25

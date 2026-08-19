@@ -7,7 +7,7 @@ born: "Heworth, England"
 died: "hanged on 26 July 1600 at Lancaster, England"
 birthPlace: "England"
 deathPlace: "England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 26

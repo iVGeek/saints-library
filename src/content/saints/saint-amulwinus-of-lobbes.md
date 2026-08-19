@@ -7,7 +7,7 @@ searchAliases:
   - "Amolvinus"
 deathYear: 770
 died: "c.770"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 2
   day: 7

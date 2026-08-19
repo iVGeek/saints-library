@@ -5,7 +5,7 @@ title: "Bishop"
 summary: "13th bishop of Jerusalem at the time of emperor Hadrian."
 searchAliases:
   - "Efrem"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 12

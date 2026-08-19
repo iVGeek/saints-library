@@ -7,7 +7,7 @@ searchAliases:
 born: "Ireland"
 died: "buried on the island of Iona Abbey, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 10
   day: 13

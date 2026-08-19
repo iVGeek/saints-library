@@ -10,7 +10,7 @@ born: "at Miyako, Japan"
 died: "burned alive on 18 November 1619 at Nishizaka, Nagaski, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagaski, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 18

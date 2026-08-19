@@ -9,7 +9,7 @@ born: "12 September 1888 in Adra, Almeria Spain"
 died: "1 January 1937 in Albufera de Adra, Almeria Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Almeria Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 1

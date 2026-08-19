@@ -11,7 +11,7 @@ born: "April 1127 in the province of Valois, France as Hugh"
 died: "4 November 1212 at the Cerfroi monastery, Picardy, France of natural causes"
 birthPlace: "France as Hugh"
 deathPlace: "Picardy, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 4

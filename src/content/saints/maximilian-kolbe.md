@@ -17,7 +17,7 @@ born: 8 January 1894
 died: 14 August 1941
 birthPlace: Zduńska Wola, Poland
 deathPlace: Auschwitz, Poland
-region: Poland
+region: "Japan"
 centuries: [20]
 feastDay:
   month: 8

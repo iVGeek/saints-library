@@ -17,7 +17,7 @@ born: 1st century
 died: c. 65
 birthPlace: Galilee, Israel
 deathPlace: Persia or Britain
-region: Holy Land
+region: "Egypt"
 centuries: [1]
 feastDay:
   month: 10

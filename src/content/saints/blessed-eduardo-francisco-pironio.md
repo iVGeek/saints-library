@@ -9,7 +9,7 @@ born: "3 December 1920 in Nueve de Julio, Buenos Aires, Argentina"
 died: "5 February 1998 in Rome, Italy of bone cancer"
 birthPlace: "Buenos Aires, Argentina"
 deathPlace: "Italybone cancer"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 2
   day: 5

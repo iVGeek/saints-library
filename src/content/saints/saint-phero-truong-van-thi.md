@@ -12,7 +12,7 @@ born: "c.1763 in Ke So, Hanoi, Vietnam"
 died: "beheaded on 21 December 1839 in Ô Cau Giay, Hanoi, Vietnam"
 birthPlace: "Hanoi, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 21

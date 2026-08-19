@@ -14,7 +14,7 @@ deathYear: 1028
 born: "in Iberia, Georgia"
 died: "13 May 1028 from injuries sustained when he fell from a mule while travelling"
 birthPlace: "Georgia"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 13

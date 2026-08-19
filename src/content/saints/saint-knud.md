@@ -16,7 +16,7 @@ deathYear: 1086
 born: "c.1043"
 died: "murdered in 1086 in the church of Saint Alban on the island of F&uuml;nen, Denmark"
 deathPlace: "Denmark"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 7
   day: 10

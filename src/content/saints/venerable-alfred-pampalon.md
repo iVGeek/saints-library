@@ -11,7 +11,7 @@ born: "24 November 1867 in the parish of Notre-Dame de Lévis, Lévis, Québec, 
 died: "30 September 1896 in the infirmary of the shrine of Sainte-Anne-de-Beaupré, Québec, Canada of tuberculosis"
 birthPlace: "Lévis, Québec, Canada"
 deathPlace: "Québec, Canadatuberculosis"
-region: "France"
+region: "Canada"
 feastDay:
   month: 10
   day: 4

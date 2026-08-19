@@ -19,7 +19,7 @@ born: "c.287 in Gagae, Asia Minor"
 died: "drowned in April 306 in Caesarea, Palestine by having stones tied him and then being thrown into the sea"
 birthPlace: "Asia Minor"
 deathPlace: "Palestine by having stones tied him and then being thrown into the sea"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 2

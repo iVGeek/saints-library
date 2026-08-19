@@ -9,7 +9,7 @@ born: "25 July 1923 in Ronago, Como, Italy"
 died: "at 1:50pm on 27 March 1987 at the Comboni Mission in Lira, Uganda of renal failure"
 birthPlace: "Como, Italy"
 deathPlace: "Ugandarenal failure"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 3
   day: 27

@@ -6,7 +6,7 @@ searchAliases:
   - "Orsiesius"
 deathYear: 380
 died: "380 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 15

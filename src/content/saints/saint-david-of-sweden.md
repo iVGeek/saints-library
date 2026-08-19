@@ -5,7 +5,7 @@ summary: "Born to the 10th-century English nobility. Benedictine monk. Abbot of 
 searchAliases:
   - "David of Vasteras"
 born: "English"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 7
   day: 15

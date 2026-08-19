@@ -7,7 +7,7 @@ searchAliases:
   - "Mnason"
   - "Nason"
 died: "torn apart by wild animals"
-region: "England"
+region: "Greece"
 feastDay:
   month: 7
   day: 12

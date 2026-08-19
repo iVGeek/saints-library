@@ -9,7 +9,7 @@ born: "29 March 1825 in Alessandria, Italy"
 died: "27 March 1888 in Turin, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 27

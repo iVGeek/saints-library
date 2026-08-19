@@ -10,7 +10,7 @@ born: "c.1798 in Ke Non, Hà Nam, Vietnam"
 died: "strangled to death in Son Tây, Ha Tay, Vietnam on 18 December 1838"
 birthPlace: "Hà Nam, Vietnam"
 deathPlace: "Ha Tay, Vietnam on 18 December 1838"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 18

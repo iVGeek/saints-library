@@ -11,7 +11,7 @@ born: "10 June 1880 in Tarímbaro, Michoacán, Mexico"
 died: "shot three times on 5 February 1928 in Valtierrilla, Guanajuato, Mexico"
 birthPlace: "Michoacán, Mexico"
 deathPlace: "Guanajuato, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 2
   day: 5

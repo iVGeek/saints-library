@@ -6,7 +6,7 @@ searchAliases:
   - "Julian of Syria"
 deathYear: 370
 died: "c.370 of natural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 6
   day: 9

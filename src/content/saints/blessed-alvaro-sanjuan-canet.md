@@ -9,7 +9,7 @@ born: "26 April 1908 in Alcocer de Planes, Alicante, Spain"
 died: "during the night of 1 to 2 October 1936 in on the side of the road outside Villena, Alicante, Spain"
 birthPlace: "Alicante, Spain"
 deathPlace: "Alicante, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 1

@@ -9,7 +9,7 @@ born: "13 November 1627 in Burgos, Spain"
 died: "2 April 1672 in Tumon, Guam"
 birthPlace: "Spain"
 deathPlace: "Guam"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 4
   day: 2

@@ -11,7 +11,7 @@ born: "19 April 1875 in Lubiesz, Tuczno, Walcz, Poland"
 died: "shot 24 March 1945 in at the monstery of the Sisters of Saint Elizabeth in Nysa (Neisse Oberneuland), Poland"
 birthPlace: "Tuczno, Walcz, Poland"
 deathPlace: "Poland"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 3
   day: 24

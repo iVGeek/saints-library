@@ -14,7 +14,7 @@ born: "1285 at Ansouis, Provence, France"
 died: "27 September 1323 in Paris, France of natural causes"
 birthPlace: "Provence, France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 27

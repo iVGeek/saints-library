@@ -13,7 +13,7 @@ deathYear: 1095
 born: "11th century"
 died: "c.1095 at Passau, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Hungary"
 feastDay:
   month: 5
   day: 7

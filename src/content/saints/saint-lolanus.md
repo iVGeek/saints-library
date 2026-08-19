@@ -6,7 +6,7 @@ searchAliases:
   - "Lolan"
 deathYear: 1034
 died: "c.1034"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 9
   day: 22

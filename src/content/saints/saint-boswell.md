@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 661
 born: "Northumbrian (in modern England)"
 died: "661 of the yellow plague"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 2
   day: 23

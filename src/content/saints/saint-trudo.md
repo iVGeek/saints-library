@@ -17,7 +17,7 @@ deathYear: 695
 born: "7th century in Hasbein (Hasbeye), Brabant province"
 died: "c.695 of natural causes"
 birthPlace: "Brabant province"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 11
   day: 23

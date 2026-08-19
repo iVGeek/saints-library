@@ -12,7 +12,7 @@ born: "11 September 1784 at Brescia, Italy"
 died: "Palm Sunday, 1 April 1849 at Saianco, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "1 April 1849 at Saianco, Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 4
   day: 1

@@ -9,7 +9,7 @@ born: "21 November 1829 at Saint-Loup, diocese of Poitiers, France"
 died: "beheaded on 2 February 1861 at Ô Cau Giay, Hanoi, Tonkin (in modern Vietnam)"
 birthPlace: "diocesePoitiers, France"
 deathPlace: "Hanoi, Tonk(in modern Vietnam)"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 2
   day: 2

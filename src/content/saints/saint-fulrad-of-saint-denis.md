@@ -10,7 +10,7 @@ deathYear: 784
 born: "710 in Alsace, France"
 died: "16 July 784 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 16

@@ -8,7 +8,7 @@ born: "in Bavaria, Germany"
 died: "stabbed to death in 650 at Milan, Italy"
 birthPlace: "Germany"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 29

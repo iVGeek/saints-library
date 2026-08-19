@@ -15,7 +15,7 @@ born: "28 February 1895 at Sam Phran, Nakhon Pathom, Thailand"
 died: "12 January 1944 of tuberculosis at Bangkok, Thailand"
 birthPlace: "Nakhon Pathom, Thailand"
 deathPlace: "Thailand"
-region: "Italy"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 12

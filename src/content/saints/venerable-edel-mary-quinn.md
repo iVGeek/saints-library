@@ -9,7 +9,7 @@ born: "14 September 1907 at Kanturk, County Cork, Ireland"
 died: "14 May 1944 in Nairobi, Kenya of tuberculosis"
 birthPlace: "County Cork, Ireland"
 deathPlace: "Kenyatuberculosis"
-region: "Ireland"
+region: "Africa"
 feastDay:
   month: 1
   day: 1

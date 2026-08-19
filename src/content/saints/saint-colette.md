@@ -16,7 +16,7 @@ born: "13 January 1381 at Corbie, Picardy, France as Nicolette Boilet, named in 
 died: "6 March 1447 at Ghent, Belgium of natural causes"
 birthPlace: "Picardy, France as Nicolette Boilet, namedhonor of Saint Nicholas of Myra"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 3
   day: 6

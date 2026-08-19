@@ -8,7 +8,7 @@ born: "1784 in Yanggeun, Gyeonggi, South Korea"
 died: "3 August 1819 in Seoul, South Korea"
 birthPlace: "Gyeonggi, South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 8
   day: 3

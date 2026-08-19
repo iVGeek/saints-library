@@ -12,7 +12,7 @@ born: "25 May 1550 at Bocchiavico, Abruzzi, kingdom of Naples, Italy"
 died: "14 July 1614 at Genoa, Italy of natural causes"
 birthPlace: "Abruzzi, kingdomNaples, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 14

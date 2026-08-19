@@ -5,7 +5,7 @@ summary: "Cleric at Heraclea near Constantinople. Arrested and abused with other
 deathYear: 304
 died: "burned at the stake in 304 at Adrianopolis (modern Edirne, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 22

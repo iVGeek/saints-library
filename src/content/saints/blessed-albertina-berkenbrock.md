@@ -12,7 +12,7 @@ born: "11 April 1919 in S&atilde;o Luís, Imaru&iacute;, Santa Catarina, Brazil"
 died: "stabbed in the heart with a pen knife during a rape attempt on 15 June 1931 in S&atilde;o Luís, Imaru&iacute;, Santa Catarina, Brazil"
 birthPlace: "Imaru&iacute;, Santa Catarina, Brazil"
 deathPlace: "Imaru&iacute;, Santa Catarina, Brazil"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 6
   day: 15

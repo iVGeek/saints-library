@@ -7,7 +7,7 @@ deathYear: 1257
 born: "Portalegre, Portugal"
 died: "hanged from the mast of the ship and shot with arrows in 1257"
 birthPlace: "Portugal"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 4
   day: 12

@@ -9,7 +9,7 @@ born: "San Román, Aguiar de Sousa, Porto, Portugal"
 died: "burned alive on 18 November 1619 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Aguiar de Sousa, Porto, Portugal"
 deathPlace: "Nagasaki, Japan"
-region: "Portugal"
+region: "Japan"
 feastDay:
   month: 11
   day: 18

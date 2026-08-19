@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1007
 born: "Scottish"
 died: "1007 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 25

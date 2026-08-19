@@ -6,7 +6,7 @@ searchAliases:
   - "Zaccaria"
 deathYear: 1249
 died: "c.1249"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 3

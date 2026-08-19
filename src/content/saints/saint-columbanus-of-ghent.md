@@ -5,7 +5,7 @@ summary: "Abbot of an Irish community. Following a series of Viking raids, he le
 deathYear: 959
 born: "Ireland"
 died: "15 February 959"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 2
   day: 2

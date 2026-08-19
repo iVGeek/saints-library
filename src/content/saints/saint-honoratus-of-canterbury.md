@@ -10,7 +10,7 @@ born: "at Rome, Italy"
 died: "653 at Canterbury, England of natural causes"
 birthPlace: "Italy"
 deathPlace: "Englandnatural causes"
-region: "Italy"
+region: "England"
 feastDay:
   month: 9
   day: 30

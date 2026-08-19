@@ -12,7 +12,7 @@ born: "8th century Northumbria, England"
 died: "c.780 in Westeroort, Netherlands of natural causes"
 birthPlace: "England"
 deathPlace: "Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 8
   day: 14

@@ -7,7 +7,7 @@ searchAliases:
   - "Bertran"
   - "Ebertram"
 died: "7th century of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 24

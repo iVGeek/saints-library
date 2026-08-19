@@ -10,7 +10,7 @@ searchAliases:
   - "Erico IX, King of Sweden"
 deathYear: 1161
 died: "beheaded on 18 May 1161 as he left Mass"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 5
   day: 18

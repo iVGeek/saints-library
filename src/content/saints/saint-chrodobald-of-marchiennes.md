@@ -11,7 +11,7 @@ searchAliases:
   - "Rodebald"
 born: "Gaul (modern France)"
 died: "7th century"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 12

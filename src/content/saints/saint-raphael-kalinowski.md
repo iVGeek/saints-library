@@ -15,7 +15,7 @@ born: "1 September 1835 at Vilna, Russian Poland (modern Vilnius, Lithuania) as 
 died: "15 November 1907 at Wadowice, Malopolskie, Poland of natural causes"
 birthPlace: "Russian Poland (modern Vilnius, Lithuania) as Joseph Kalinowski"
 deathPlace: "Malopolskie, Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 11
   day: 15

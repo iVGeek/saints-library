@@ -8,7 +8,7 @@ deathYear: 1909
 born: "c.1887 at northeast Republic of the Congo"
 died: "15 August 1909 in Busira, Équateur, Democratic Republic of Congo"
 deathPlace: "Équateur, Democratic RepublicCongo"
-region: "England"
+region: "Africa"
 feastDay:
   month: 8
   day: 15

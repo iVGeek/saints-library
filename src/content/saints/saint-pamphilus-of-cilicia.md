@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 309
 died: "16 February 309 in Cilicia, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 16

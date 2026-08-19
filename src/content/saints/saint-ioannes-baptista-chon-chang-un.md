@@ -13,7 +13,7 @@ born: "1811 in Seoul, South Korea"
 died: "9 March 1866 in In-Ko-Ri, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 3
   day: 9

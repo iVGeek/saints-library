@@ -12,7 +12,7 @@ born: "1090 at Fontaines-les-Dijon, Burgundy, France"
 died: "20 August 1153 at Clairvaux Abbey, Ville-sous-la-Ferté, Aube, France"
 birthPlace: "Burgundy, France"
 deathPlace: "Ville-sous-la-Ferté, Aube, France"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 20

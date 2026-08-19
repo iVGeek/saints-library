@@ -13,7 +13,7 @@ deathYear: 1158
 born: "c.1100 in the diocese of Beauvais, France"
 died: "1 December 1158 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

@@ -14,7 +14,7 @@ born: "17 January 1565 at Madrid, Spain as Mariana Navarra de Guevara"
 died: "17 April 1624 of natural causes at Madrid, Spain"
 birthPlace: "Spaas Mariana Navarra de Guevara"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 17

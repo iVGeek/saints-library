@@ -16,7 +16,7 @@ searchAliases:
 deathYear: 475
 died: "7 January 475 at Mais, Tyrol, Austria of natural causes"
 deathPlace: "Tyrol, Austrianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 7

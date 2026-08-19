@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 680
 born: "Greece"
 died: "c.680 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 9

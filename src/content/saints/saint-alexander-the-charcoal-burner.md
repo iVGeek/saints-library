@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 275
 born: "Greek"
 died: "burned alive c.275 at Comana (in modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 11

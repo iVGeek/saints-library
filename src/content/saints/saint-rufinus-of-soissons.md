@@ -5,7 +5,7 @@ summary: "Lived at Soissons, Gaul (in modern France). May have been a missionary
 deathYear: 287
 died: "beheaded c.287 at Bazoches, Gaul (modern France)"
 deathPlace: "Gaul (modern France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 14

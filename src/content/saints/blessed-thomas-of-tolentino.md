@@ -9,7 +9,7 @@ born: "c.1260 in Tolentino, Italy"
 died: "beheaded in 1322 at Thana, Hindustan (in modern India)"
 birthPlace: "Italy"
 deathPlace: "Hindustan (modern India)"
-region: "Italy"
+region: "India"
 feastDay:
   month: 4
   day: 9

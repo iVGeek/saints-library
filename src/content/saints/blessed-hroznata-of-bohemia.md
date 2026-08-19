@@ -13,7 +13,7 @@ born: "c.1160 in Hroznetin, Karlovarský kraj, Czech Republic"
 died: "starved to death on 14 July 1217 in Stáry Kynsperk, Karlovarský kraj, Czech Republic"
 birthPlace: "Karlovarský kraj, Czech Republic"
 deathPlace: "Karlovarský kraj, Czech Republic"
-region: "Germany"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 14

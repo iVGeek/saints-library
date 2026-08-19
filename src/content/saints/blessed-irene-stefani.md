@@ -12,7 +12,7 @@ born: "22 August 1891 in Anfo, Brescia, Italy as Aurelia Mercede Stefani"
 died: "31 October 1930 in Gikondi, Mukurweini, Nyeri, Kenya of bubonic plague caught while working with the sick"
 birthPlace: "Brescia, Italy as Aurelia Mercede Stefani"
 deathPlace: "Mukurweini, Nyeri, Kenyabubonic plague caught while working with the sick"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 10
   day: 31

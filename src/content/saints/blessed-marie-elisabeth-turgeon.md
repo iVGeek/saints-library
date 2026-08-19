@@ -9,7 +9,7 @@ born: "7 February 1840 in Beaumont, Quebec, Canada"
 died: "17 August 1881 in Rimouski, Quebec, Canada of natural causes"
 birthPlace: "Quebec, Canada"
 deathPlace: "Quebec, Canadanatural causes"
-region: "England"
+region: "Canada"
 feastDay:
   month: 8
   day: 17

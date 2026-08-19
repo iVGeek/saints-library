@@ -8,7 +8,7 @@ born: "c.1565 in Takatsuki, Osaka, Japan"
 died: "14 October 1619 in Kokura, Fukuoka, Japan"
 birthPlace: "Osaka, Japan"
 deathPlace: "Fukuoka, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 14

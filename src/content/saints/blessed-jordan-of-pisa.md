@@ -9,7 +9,7 @@ born: "c.1255 at Pisa, Italy"
 died: "19 August 1311 at Piacenza, Italy of natural causes while on his way to teach in Paris, France"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes while on his way to teach in Paris, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 19

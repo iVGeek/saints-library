@@ -9,7 +9,7 @@ born: "21 September 1881 in Purchena, Almeria Spain"
 died: "26 August 1936 in Cuestas de Belinchón, Cuenca Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Cuenca Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 26

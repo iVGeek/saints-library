@@ -13,7 +13,7 @@ searchAliases:
 birthYear: 1850
 born: "1 March 1850 at Pedro Abad, Cordoba, Spain"
 birthPlace: "Cordoba, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 6

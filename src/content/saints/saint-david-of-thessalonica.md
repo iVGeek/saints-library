@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 540
 born: "5th-century Mesopotamia"
 died: "540 of natural causes"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 6
   day: 26

@@ -15,7 +15,7 @@ born: "c.710 in Wessex, England as Truthgeba (= God's gift)"
 died: "28 September 782 in Schornsheim, Germany of natural causes"
 birthPlace: "England as Truthgeba (= God's gift)"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 9
   day: 28

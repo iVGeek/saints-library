@@ -5,7 +5,7 @@ summary: "Bishop in Constantinople. Martyr."
 searchAliases:
   - "Eleuterio"
   - "Eleuthere"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 2
   day: 20

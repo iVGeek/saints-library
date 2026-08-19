@@ -9,7 +9,7 @@ searchAliases:
   - "Aroldo"
 deathYear: 980
 died: "980 in Denmark"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 11
   day: 1

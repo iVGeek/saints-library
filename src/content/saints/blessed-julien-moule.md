@@ -8,7 +8,7 @@ born: "29 March 1716 in Le Mans, Sathe, France"
 died: "21 January 1794 in Laval, Mayenne, France"
 birthPlace: "Sathe, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 21

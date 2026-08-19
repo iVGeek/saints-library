@@ -6,7 +6,7 @@ searchAliases:
   - "Hadrian"
 deathYear: 668
 died: "c.668"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 3
   day: 19

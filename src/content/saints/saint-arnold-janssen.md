@@ -9,7 +9,7 @@ born: "5 November 1837 at Goch, North Rhein-Westphalia, Germany"
 died: "15 January 1909 in Steyl, Netherlands of natural causes"
 birthPlace: "North Rhein-Westphalia, Germany"
 deathPlace: "Netherlandsnatural causes"
-region: "Germany"
+region: "Japan"
 feastDay:
   month: 1
   day: 15

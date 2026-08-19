@@ -10,7 +10,7 @@ searchAliases:
   - "Fatius"
   - "Fazio"
   - "Fazius"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 18

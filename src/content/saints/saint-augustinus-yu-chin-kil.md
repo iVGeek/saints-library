@@ -14,7 +14,7 @@ born: "1791 in Jo Dong, Seoul, South Korea"
 died: "beheaded on 22 September 1839 in Seoul, Korea"
 birthPlace: "Seoul, South Korea"
 deathPlace: "Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 22

@@ -6,7 +6,7 @@ born: "Thebes, Egypt"
 died: "drowned in the river Nile with a stone around his neck at Antinoe, Thebaid, Egypt"
 birthPlace: "Egypt"
 deathPlace: "Thebaid, Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 20

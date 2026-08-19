@@ -7,7 +7,7 @@ searchAliases:
   - "Deodato"
 deathYear: 525
 died: "c.525 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 24

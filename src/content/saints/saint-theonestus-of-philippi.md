@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 425
 died: "425 in Altino, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 30

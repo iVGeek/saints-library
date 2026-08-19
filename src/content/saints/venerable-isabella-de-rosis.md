@@ -9,7 +9,7 @@ born: "9 June 1842 in Rossano Calabro, Cosenza, Italy"
 died: "11 August 1911 in Naples, Italy of natural causes"
 birthPlace: "Cosenza, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 24

@@ -9,7 +9,7 @@ born: "17 May 1899 in Pont de Claverol, Pallars Juss&agrave;, Lleida, Spain"
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "Pallars Juss&agrave;, Lleida, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 13

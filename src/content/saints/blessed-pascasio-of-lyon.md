@@ -5,7 +5,7 @@ title: "Bishop"
 summary: "Mercedarian friar. Bishop of Lycaonia, Asia Minor."
 searchAliases:
   - "Pascasio of Lycaonia"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 19

@@ -12,7 +12,7 @@ born: "2 August 1681 in Agnone, Isernia, kingdom of Sicily (in modern Italy) as 
 died: "25 July 1752 in Bovino, Foggia, Italy of an extremely high fever"
 birthPlace: "Isernia, kingdomSicily (in modern Italy) as Angelo Nicola Lucci"
 deathPlace: "Foggia, Italyan extremely high fever"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 25

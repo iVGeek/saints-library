@@ -5,7 +5,7 @@ summary: "One of seven children born to Modesto Pérez and Beatriz Mayo; his was
 birthYear: 1907
 born: "19 November 1907 in Santa Marina del Rey, diocese of Astorga, León, Spain"
 birthPlace: "dioceseAstorga, León, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 24

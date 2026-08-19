@@ -12,7 +12,7 @@ searchAliases:
   - "The Good Angel"
 deathYear: 251
 died: "c.251 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 17

@@ -12,7 +12,7 @@ born: "6 May 972 at Albach, Hildesheim, Bavaria, Germany"
 died: "13 July 1024 at Pfalz Grona, near Göttingen, Saxony (in modern Germany) of natural causes"
 birthPlace: "Hildesheim, Bavaria, Germany"
 deathPlace: "near Göttingen, Saxony (modern Germany) of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 13

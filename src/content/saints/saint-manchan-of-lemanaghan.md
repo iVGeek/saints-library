@@ -10,7 +10,7 @@ searchAliases:
   - "Manchianus…"
 deathYear: 664
 died: "664 of plague"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 1
   day: 24

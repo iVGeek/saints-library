@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 594
 died: "c.594 at Treravel, Padstow, Cornwall (in modern England) of natural causes while on the road"
 deathPlace: "Padstow, Cornwall (modern England) of natural causes while on the road"
-region: "Italy"
+region: "India"
 feastDay:
   month: 6
   day: 4

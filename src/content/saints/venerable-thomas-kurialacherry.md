@@ -9,7 +9,7 @@ born: "14 January 1873 in Champakulam, Kerala, India"
 died: "2 June 1925 in Rome, Italy of natural causes"
 birthPlace: "Kerala, India"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 5
   day: 27

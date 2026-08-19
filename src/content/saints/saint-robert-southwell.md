@@ -9,7 +9,7 @@ born: "1561 in Horsham Saint Faith, Norfolk, England"
 died: "hanged, drawn and quartered on 21 February 1595 in Tyburn, London, England"
 birthPlace: "Norfolk, England"
 deathPlace: "drawn and quartered on 21 February 1595Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 21

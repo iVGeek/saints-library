@@ -5,7 +5,7 @@ summary: "Prophet, son of Buzi, exiled to Babylon about 598 BC. He began to prop
 image: "https://catholicsaints.info/wp-content/uploads/img-Ezekiel-the-Prophet-1.jpg"
 searchAliases:
   - "Ezechiel"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 23

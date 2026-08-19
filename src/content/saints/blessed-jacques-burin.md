@@ -8,7 +8,7 @@ born: "6 January 1756 in Champfleur, Sarthe, France"
 died: "17 October 1794 in Laval, Mayenne, France"
 birthPlace: "Sarthe, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 17

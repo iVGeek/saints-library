@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 630
 born: "Irish"
 died: "c.630 in Scotland of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 9
   day: 28

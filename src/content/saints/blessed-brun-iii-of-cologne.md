@@ -12,7 +12,7 @@ deathYear: 1200
 born: "c.1140 in the region of modern Germany"
 died: "24 April 1200 in Altenberg, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 4
   day: 24

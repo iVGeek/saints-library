@@ -9,7 +9,7 @@ born: "29 August 1889 in Lipa, Batangas, Philippines"
 died: "1 October 1978 in Tayabas, Quezon, Philippines of natural causes"
 birthPlace: "Batangas, Philippines"
 deathPlace: "Quezon, Philippinesnatural causes"
-region: "France"
+region: "Philippines"
 feastDay:
   month: 3
   day: 15

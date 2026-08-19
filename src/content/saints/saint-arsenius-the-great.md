@@ -12,7 +12,7 @@ deathYear: 449
 born: "354 in the Roman Empire"
 died: "c.449 at Tro&euml; near Memphis, Egypt of natural causes"
 deathPlace: "Egyptnatural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 7
   day: 19

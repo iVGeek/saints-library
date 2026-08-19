@@ -11,7 +11,7 @@ born: "25 March 1715 at Naples, Italy"
 died: "6 October 1791 at Naples, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 6

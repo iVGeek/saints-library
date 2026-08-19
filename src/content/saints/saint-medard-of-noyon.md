@@ -12,7 +12,7 @@ born: "c.456 at Salency, Picardy, France"
 died: "8 June 545 at Noyon, France of natural causes"
 birthPlace: "Picardy, France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 6
   day: 8

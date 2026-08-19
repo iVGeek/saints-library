@@ -12,7 +12,7 @@ born: "10 May 1799 in Montperreux, Doubs, France"
 died: "strangled to death on 17 October 1833 in Bãi Dâu, Saigon, Vietnam"
 birthPlace: "Doubs, France"
 deathPlace: "Saigon, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 10
   day: 17

@@ -9,7 +9,7 @@ born: "30 March 1880 in Czarna Sedziszowska, Podkarpackie, Poland"
 died: "12 October 1942 in Oswiecim (Auschwitz), Malopolskie, occupied Poland"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "Malopolskie, occupied Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 12

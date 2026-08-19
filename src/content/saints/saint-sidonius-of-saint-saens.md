@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 684
 born: "7th century Ireland"
 died: "c.684 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 15

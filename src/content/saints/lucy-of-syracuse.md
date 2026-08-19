@@ -17,7 +17,7 @@ born: c. 283
 died: 13 December 304
 birthPlace: Syracuse, Italy
 deathPlace: Syracuse, Italy
-region: Italy
+region: "Scandinavia"
 centuries: [3, 4]
 feastDay:
   month: 12

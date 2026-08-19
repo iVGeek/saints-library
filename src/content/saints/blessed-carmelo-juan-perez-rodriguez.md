@@ -9,7 +9,7 @@ born: "11 February 1908 in Vimianzo, La Coruña, Spain"
 died: "shot on 1 October 1936 in Madrid, Spain"
 birthPlace: "La Coruña, Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 1

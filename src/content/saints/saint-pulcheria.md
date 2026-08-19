@@ -9,7 +9,7 @@ birthYear: 399
 deathYear: 453
 born: "19 January 399"
 died: "July 453 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 9
   day: 10

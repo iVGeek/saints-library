@@ -12,7 +12,7 @@ born: "6 April 1901 in Turin, Italy"
 died: "4 July 1925 in Turin, Italy of poliomylelitis"
 birthPlace: "Italy"
 deathPlace: "Italypoliomylelitis"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 4

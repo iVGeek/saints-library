@@ -11,7 +11,7 @@ born: "4 April 1867 in Malón, Zaragoza, Spain"
 died: "shot on 15 August 1936 at the cemetery in Motril, Granada, Spain"
 birthPlace: "Zaragoza, Spain"
 deathPlace: "Granada, Spain"
-region: "France"
+region: "Philippines"
 feastDay:
   month: 8
   day: 15

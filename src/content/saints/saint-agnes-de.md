@@ -12,7 +12,7 @@ born: "c.1781 at Ba Den, Tranh Hóa, Vietnam"
 died: "12 July 1841 in prison at Ninh Binh, Vietnam"
 birthPlace: "Tranh Hóa, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 12

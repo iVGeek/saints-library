@@ -11,7 +11,7 @@ born: "928 at Rivo alto, Province of Udine, Venice, Italy"
 died: "10 January 987 at Saint-Michel-de-Cuxa Abbey, Pyrenees mountains, France of natural causes"
 birthPlace: "ProvinceUdine, Venice, Italy"
 deathPlace: "Pyrenees mountains, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 12

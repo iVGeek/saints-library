@@ -16,7 +16,7 @@ born: "c.time-line-650 in Hamme, Brabant (in modern Belgium)"
 died: "8 January 712 at Hamme, Brabant (Belgium) of natural causes"
 birthPlace: "Brabant (modern Belgium)"
 deathPlace: "Brabant (Belgium)natural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 1
   day: 8

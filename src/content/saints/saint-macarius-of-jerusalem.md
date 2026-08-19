@@ -5,7 +5,7 @@ summary: "Bishop of Jerusalem in 314. Fought Arianism. Participated in and signe
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chiesa_di_San_Polo_%28Venice%29_-_Oratorio_del_Crocifisso_-_Saints_Helena_and_Macarius_by_Giandomenico_Tiepolo.jpg/960px-Chiesa_di_San_Polo_%28Venice%29_-_Oratorio_del_Crocifisso_-_Saints_Helena_and_Macarius_by_Giandomenico_Tiepolo.jpg"
 searchAliases:
   - "Macario"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 10

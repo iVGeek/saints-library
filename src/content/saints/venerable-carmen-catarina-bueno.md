@@ -13,7 +13,7 @@ born: "25 November 1898 in Itu, São Paulo, Brazil of natural causes"
 died: "13 July 1966 in Taubaté, São Paulo, Brazil"
 birthPlace: "São Paulo, Brazilnatural causes"
 deathPlace: "São Paulo, Brazil"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 4
   day: 21

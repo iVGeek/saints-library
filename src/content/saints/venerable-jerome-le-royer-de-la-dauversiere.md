@@ -9,7 +9,7 @@ born: "18 May 1597 in La Flèche, Sarthe, France"
 died: "6 November 1659 in La Rochelle, Charente-Maritime, France of natural causes"
 birthPlace: "Sarthe, France"
 deathPlace: "Charente-Maritime, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

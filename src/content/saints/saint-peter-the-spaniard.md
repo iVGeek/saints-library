@@ -3,7 +3,7 @@ name: "Saint Peter the Spaniard"
 honorific: Saint
 title: "Hermit"
 summary: "Pilgrim from Spain to Rome. Settled to live as a hermit in Babuco, Italy."
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 3
   day: 11

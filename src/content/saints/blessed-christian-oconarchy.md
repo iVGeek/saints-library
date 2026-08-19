@@ -11,7 +11,7 @@ born: "c.1100 at Bangor, County Down, Ireland"
 died: "1186 at Odorney Abbey, Abbeydorney, Ireland of natural causes"
 birthPlace: "County Down, Ireland"
 deathPlace: "Abbeydorney, Irelandnatural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 18

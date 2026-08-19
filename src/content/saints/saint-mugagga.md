@@ -10,7 +10,7 @@ born: "at Buganda, Ugandan"
 died: "burned alive on 3 June 1886 at Namugongo, Uganda"
 birthPlace: "Ugandan"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 6
   day: 3

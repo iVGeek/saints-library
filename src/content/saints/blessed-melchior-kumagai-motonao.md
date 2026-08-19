@@ -8,7 +8,7 @@ born: "c.1554 in Miiri, Aki, Kochi, Japan"
 died: "16 August 1605 in Hagi, Yamaguchi, Japan"
 birthPlace: "Aki, Kochi, Japan"
 deathPlace: "Yamaguchi, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 16

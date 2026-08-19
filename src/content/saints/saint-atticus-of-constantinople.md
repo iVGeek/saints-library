@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Atticus supported the Macedonian heresy (i.e., the Holy Spirit is not God), opposed Saint John Chrysostom, and worked against him at the Council of Oak in 405. When John was exiled from Constantinople, Atticus assumed the bishopric in 406. He eventually realized his error, repent"
 deathYear: 425
 died: "10 October 425 in Constantinople of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 8

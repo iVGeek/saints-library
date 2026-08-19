@@ -12,7 +12,7 @@ searchAliases:
   - "Louis d'Aleman"
 deathYear: 1450
 died: "16 September 1450"
-region: "France"
+region: "Germany"
 feastDay:
   month: 9
   day: 16

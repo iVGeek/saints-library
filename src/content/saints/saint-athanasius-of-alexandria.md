@@ -18,7 +18,7 @@ born: "c.295 at Alexandria, Egypt"
 died: "2 May 373 at Alexandria, Egypt of natural causes"
 birthPlace: "Egypt"
 deathPlace: "Egyptnatural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 5
   day: 2

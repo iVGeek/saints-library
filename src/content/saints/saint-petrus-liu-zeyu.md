@@ -12,7 +12,7 @@ born: "c.1843 in Zhujiaxie, Shenzhou, Hebei, China"
 died: "beheaded on 17 July 1900 in Zhujiaxie, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 17

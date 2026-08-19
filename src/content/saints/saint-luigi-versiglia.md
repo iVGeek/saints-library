@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1873
 born: "5 June 1873 in Oliva Gessi, Padua, Lombardy, Italy"
 birthPlace: "Padua, Lombardy, Italy"
-region: "Italy"
+region: "China"
 feastDay:
   month: 2
   day: 25

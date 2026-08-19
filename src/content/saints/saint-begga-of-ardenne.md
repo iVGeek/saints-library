@@ -5,7 +5,7 @@ summary: "Born to the nobility, the daughter of Saint Pepin of Landen, mayor of 
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Begga-of-Andenne.jpg"
 deathYear: 693
 died: "693 at Andenne on the Meuse River in modern Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 17

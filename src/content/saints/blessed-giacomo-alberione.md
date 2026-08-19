@@ -11,7 +11,7 @@ born: "4 April 1884 in San Lorenzo di Fossano, Cuneo, Italy"
 died: "6:26pm on 26 November 1971 in the Generalate House, Rome, Italy of natural causes"
 birthPlace: "Cuneo, Italy"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 26

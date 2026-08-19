@@ -14,7 +14,7 @@ birthYear: 619
 deathYear: 700
 born: "c.619 in Ireland"
 died: "8 July or 8 September (records vary) 700 of natural causes"
-region: "Germany"
+region: "Ireland"
 feastDay:
   month: 9
   day: 8

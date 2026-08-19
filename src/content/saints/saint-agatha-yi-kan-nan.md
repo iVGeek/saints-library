@@ -11,7 +11,7 @@ born: "1814 in Seoul, South Korea"
 died: "20 September 1846 in Seoul Prison, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 20

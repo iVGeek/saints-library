@@ -9,7 +9,7 @@ born: "30 June 1881 in Oaxaca, Mexico"
 died: "21 November 1974 in Toluca, Mexico of natural causes"
 birthPlace: "Mexico"
 deathPlace: "Mexiconatural causes"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 1
   day: 1

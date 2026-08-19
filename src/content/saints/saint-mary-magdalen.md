@@ -9,7 +9,7 @@ searchAliases:
   - "Mary Magdalene"
   - "the Sinner"
 died: "the Greek Church says\n\nshe died in Ephesus of natural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 22

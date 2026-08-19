@@ -8,7 +8,7 @@ born: "c.1585 in Ikitsuki, Nagasaki, Japan"
 died: "14 November 1609 in Ikitsuki, Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 14

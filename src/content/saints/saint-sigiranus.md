@@ -12,7 +12,7 @@ searchAliases:
   - "Siran"
 deathYear: 655
 died: "c.655 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 4

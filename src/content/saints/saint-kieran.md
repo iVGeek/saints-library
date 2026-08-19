@@ -28,7 +28,7 @@ deathYear: 530
 born: "Corca-Laighde (modern Cape Clear), Ireland"
 died: "c.530 of natural causes"
 birthPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 3
   day: 5

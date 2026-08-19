@@ -11,7 +11,7 @@ born: "6 October 1811 at Saint Antoine-sur-Richelieu, Quebec, Canada as Eulalie 
 died: "6 October 1849 at Longueiul, Quebec, Canada of natural causes"
 birthPlace: "Quebec, Canada as Eulalie Durocher"
 deathPlace: "Quebec, Canadanatural causes"
-region: "England"
+region: "Canada"
 feastDay:
   month: 10
   day: 6

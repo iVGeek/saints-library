@@ -12,7 +12,7 @@ born: "16 October 1840 at Vinebre, Tarragona, Spain"
 died: "27 January 1896 at Gilet, Valencia, Spain of a stroke"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Valencia, Spaof a stroke"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 1
   day: 27

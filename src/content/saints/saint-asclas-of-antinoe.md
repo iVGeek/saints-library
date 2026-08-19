@@ -7,7 +7,7 @@ born: "Thebaid, Egypt"
 died: "drowned in the River Nile at Antinoe, Egypt c.287"
 birthPlace: "Egypt"
 deathPlace: "Egypt c.287"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 23

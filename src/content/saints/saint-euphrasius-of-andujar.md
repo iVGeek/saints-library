@@ -11,7 +11,7 @@ searchAliases:
   - "Apostle of Spain"
 died: "1st century in Illiturgis, Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 15

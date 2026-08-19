@@ -8,7 +8,7 @@ born: "31 December 1901 in Algodonales, Cádiz, Spain"
 died: "22 August 1936 in El Saucejo, Sevilla, Spain"
 birthPlace: "Cádiz, Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 22

@@ -21,7 +21,7 @@ deathYear: 740
 born: "Ireland"
 died: "c.740 at Deurne, near Antwerp, Brabant (in modern Belgium)"
 deathPlace: "near Antwerp, Brabant (modern Belgium)"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 7
   day: 17

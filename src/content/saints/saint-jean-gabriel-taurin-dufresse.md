@@ -9,7 +9,7 @@ born: "8 December 1750 at Ville-de-Lezoux, diocese of Clermont, Puy-de-Dôme, Fr
 died: "beheaded in 14 September 1815 at Chengdu, Sichuan, China"
 birthPlace: "dioceseClermont, Puy-de-Dôme, France"
 deathPlace: "Sichuan, China"
-region: "France"
+region: "China"
 feastDay:
   month: 9
   day: 14

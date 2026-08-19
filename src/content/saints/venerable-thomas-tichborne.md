@@ -8,7 +8,7 @@ born: "1567 in Hartley, Hampshire, England"
 died: "hanged, drawn and quartered on 20 April 1602 at Tyburn, London, England"
 birthPlace: "Hampshire, England"
 deathPlace: "drawn and quartered on 20 April 1602 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

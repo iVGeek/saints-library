@@ -9,7 +9,7 @@ born: "3 March 1933 in Cornale di Pradalunga, Bergamo, Italy"
 died: "shot on 28 November 1964 in Baraka, Fizi, Sud-Kivu, Democratic Republic of Congo while praying over the body of Blessed Vittorio Faccin"
 birthPlace: "Bergamo, Italy"
 deathPlace: "Fizi, Sud-Kivu, Democratic RepublicCongo while praying over the body of Blessed Vittorio Faccin"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 28

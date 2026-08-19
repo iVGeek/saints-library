@@ -15,7 +15,7 @@ born: "30 September 1893 in Santomera, Murcia, Spain as Josefa Alhama Valera"
 died: "8 February 1983 in Collevalenza, Perugia, Italy"
 birthPlace: "Murcia, Spaas Josefa Alhama Valera"
 deathPlace: "Perugia, Italy"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 2
   day: 8

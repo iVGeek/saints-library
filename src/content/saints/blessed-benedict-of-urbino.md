@@ -13,7 +13,7 @@ born: "13 September 1560 in Urbino, Duchy of Urbino, Papal States (part of moder
 died: "30 April 1625 in Fossombrone, Pesaro-Urbino, Italy of complications following surgery"
 birthPlace: "DuchyUrbino, Papal States (part of modern Italy) as Marco Passionei"
 deathPlace: "Pesaro-Urbino, Italycomplications following surgery"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 4
   day: 30

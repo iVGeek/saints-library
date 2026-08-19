@@ -9,7 +9,7 @@ deathYear: 1245
 born: "12th century Poland"
 died: "17 April 1245 at the Dominican convent at Oppeln, Silesia of natural causes"
 deathPlace: "Silesianatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 4
   day: 17

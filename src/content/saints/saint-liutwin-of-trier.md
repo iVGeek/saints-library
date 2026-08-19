@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 713
 born: "Austrasia (eastern modern France)"
 died: "c.713"
-region: "France"
+region: "Germany"
 feastDay:
   month: 9
   day: 29

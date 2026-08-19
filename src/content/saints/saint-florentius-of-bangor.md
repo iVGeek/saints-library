@@ -7,7 +7,7 @@ searchAliases:
   - "Florence"
 born: "Irish"
 died: "7th century"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 12
   day: 15

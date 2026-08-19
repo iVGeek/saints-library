@@ -12,7 +12,7 @@ born: "17 December 1859 in Meilhaud, Puy-de-Dôme, France"
 died: "10 January 1938 in Mexico City, Mexico"
 birthPlace: "Puy-de-Dôme, France"
 deathPlace: "Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 12
   day: 25

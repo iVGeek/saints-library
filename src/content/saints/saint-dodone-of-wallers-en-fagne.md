@@ -11,7 +11,7 @@ born: "Vaux, Lomme (near Laon, France)"
 died: "c.750 in Moustiers-en-Fagne, France of natural causes"
 birthPlace: "Lomme (near Laon, France)"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 29

@@ -16,7 +16,7 @@ deathYear: 800
 born: "774 in northern England"
 died: "martyred in c.800 in Mercia (in modern Shropshire, England)"
 deathPlace: "England)"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 19

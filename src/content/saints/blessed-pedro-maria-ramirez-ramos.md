@@ -9,7 +9,7 @@ born: "23 October 1899 in La Plata, Huila, Colombia"
 died: "hanged and beaten with a machete at about 4:00pm on 10 April 1948 in the town square of Armero, Tolima, Colombia"
 birthPlace: "Huila, Colombia"
 deathPlace: "Tolima, Colombia"
-region: "France"
+region: "Colombia"
 feastDay:
   month: 4
   day: 10

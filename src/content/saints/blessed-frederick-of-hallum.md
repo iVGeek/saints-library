@@ -10,7 +10,7 @@ deathYear: 1175
 born: "Hallum, Frisia (in modern Netherlands)"
 died: "3 March 1175 in Frisia (modern Netherlands) of natural causes"
 birthPlace: "Frisia (modern Netherlands)"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 3
   day: 3

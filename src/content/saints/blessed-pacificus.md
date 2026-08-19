@@ -11,7 +11,7 @@ born: "c.1162 in the Marches of Ancona, Italy"
 died: "c.1234 at the convent of Lens, Pas-de-Calais, France of natural causes"
 birthPlace: "Italy"
 deathPlace: "Pas-de-Calais, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 10

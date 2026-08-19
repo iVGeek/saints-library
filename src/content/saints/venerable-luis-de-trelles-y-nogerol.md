@@ -9,7 +9,7 @@ born: "20 August 1819 in Viveiro, Lugo, Spain"
 died: "1 July 1891 in Zamora, Spain of natural causes"
 birthPlace: "Lugo, Spain"
 deathPlace: "Spaof natural causes"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 3
   day: 19

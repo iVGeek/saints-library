@@ -18,7 +18,7 @@ birthYear: 270
 deathYear: 348
 born: "270 on Cyprus"
 died: "c.348 of natural causes"
-region: "Spain"
+region: "Italy"
 feastDay:
   month: 12
   day: 12

@@ -7,7 +7,7 @@ searchAliases:
   - "Alexandros"
 deathYear: 305
 died: "beheaded c.305 in Macedonia"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 14

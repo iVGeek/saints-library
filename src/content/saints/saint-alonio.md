@@ -7,7 +7,7 @@ searchAliases:
   - "Halonium"
 born: "late 4th century"
 died: "5th century"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 4

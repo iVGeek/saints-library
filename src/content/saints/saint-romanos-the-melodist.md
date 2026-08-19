@@ -17,7 +17,7 @@ birthYear: 490
 deathYear: 556
 born: "c.490 in Syria"
 died: "c.556 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 1

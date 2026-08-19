@@ -10,7 +10,7 @@ searchAliases:
   - "Theopontus"
 deathYear: 284
 died: "284"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 3

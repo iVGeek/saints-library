@@ -6,7 +6,7 @@ searchAliases:
   - "Hadelinus of Lobbes"
 deathYear: 686
 died: "c.686 of natural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 6
   day: 15

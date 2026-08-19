@@ -11,7 +11,7 @@ birthYear: 680
 deathYear: 756
 born: "c.680 in Ireland"
 died: "756 of natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 3
   day: 6

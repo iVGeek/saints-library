@@ -11,7 +11,7 @@ born: "1839 in Deoksan, Chungcheong-do, Korea"
 died: "18 May 1866 in Gongju Prison, Chungcheong-do, Korea"
 birthPlace: "Chungcheong-do, Korea"
 deathPlace: "Chungcheong-do, Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 18

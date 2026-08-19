@@ -9,7 +9,7 @@ born: "9 April 1906 in Rzeszów, Podkarpackie, Poland"
 died: "Easter day, 31 March 1945 in the gas chambers of the concentration camp in Ravensbrück, Fürstenberg, Oberhavel, Germany"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "31 March 1945the gas chambers of the concentration camp in Ravensbrück, Fürstenberg, Oberhavel, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 3
   day: 31

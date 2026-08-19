@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 310
 died: "beheaded c.310 in Comana, Pontus (in modern Turkey)"
 deathPlace: "Pontus (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 22

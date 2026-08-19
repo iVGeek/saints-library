@@ -9,7 +9,7 @@ deathYear: 616
 born: "6th to 7th century Carthaginian"
 died: "beaten and crucified c.616–620 at Cape Corso, Corsica"
 deathPlace: "Corsica"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 5
   day: 22

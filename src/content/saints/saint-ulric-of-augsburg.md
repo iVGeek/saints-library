@@ -18,7 +18,7 @@ born: "890 at Kyburg, Zurich, Switzerland"
 died: "4 July 973 at Augsburg, Germany of natural causes"
 birthPlace: "Zurich, Switzerland"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 4

@@ -15,7 +15,7 @@ born: "c.920 on Aegina, Greece"
 died: "c.950 near Corinth, Greece of natural causes"
 birthPlace: "Greece"
 deathPlace: "Greecenatural causes"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 1
   day: 1

@@ -11,7 +11,7 @@ deathYear: 1022
 born: "c.960 at Utrecht, Netherlands"
 died: "20 November 1022 of natural causes"
 birthPlace: "Netherlands"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 20

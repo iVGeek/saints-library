@@ -13,7 +13,7 @@ searchAliases:
   - "Ilidius"
 deathYear: 385
 died: "5 June 385 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 6
   day: 5

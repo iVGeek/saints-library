@@ -11,7 +11,7 @@ born: "3 February 1896 in Vinalesa, Valencia, Spain"
 died: "shot on 28 August 1936 in Vinalesa, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 28

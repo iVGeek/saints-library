@@ -9,7 +9,7 @@ born: "25 January 1904 in Rambla de Oria, Almería, Spain"
 died: "shot on 27 July 1936 in Guadalajara, Spain, standing with his arms outstretched, holding a crucifix, and praying"
 birthPlace: "Almería, Spain"
 deathPlace: "Spain, standing with his arms outstretched, holding a crucifix, and praying"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 27

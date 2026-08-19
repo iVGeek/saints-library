@@ -6,7 +6,7 @@ deathYear: 1267
 born: "early 13th century in area of the modern Netherlands"
 died: "11 October 1267 at the Premontres mother-house in Laon, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 9
   day: 5

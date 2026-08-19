@@ -17,7 +17,7 @@ deathYear: 856
 born: "late 8th century Scotland"
 died: "beheaded on 17 August 856 in Noordwijk, Netherlands"
 deathPlace: "Netherlands"
-region: "Scotland"
+region: "Netherlands"
 feastDay:
   month: 8
   day: 17

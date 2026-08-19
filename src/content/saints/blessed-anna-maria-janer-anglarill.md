@@ -9,7 +9,7 @@ born: "18 December 1800 in Cervera, Lleida, Spain"
 died: "11 January 1885 in Talarn, Lleida, Spain"
 birthPlace: "Lleida, Spain"
 deathPlace: "Lleida, Spain"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 6
   day: 29

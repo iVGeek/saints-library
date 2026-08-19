@@ -16,7 +16,7 @@ born: "307 in Genoa, Italy"
 died: "beheaded c.356 near Langres, France"
 birthPlace: "Italy"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 23

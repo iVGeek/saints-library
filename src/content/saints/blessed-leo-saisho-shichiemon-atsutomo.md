@@ -8,7 +8,7 @@ born: "c.1569 in Jonai, Miyakonojo, Miyazaki, Japan"
 died: "beheaded on 17 November 1608 at a crossroads (he requested it since it was in the shape of a cross) in Sendai, Kagoshima, Japan"
 birthPlace: "Miyakonojo, Miyazaki, Japan"
 deathPlace: "Kagoshima, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 17

@@ -11,7 +11,7 @@ born: "28 September 1801 in Bergamo, Italy"
 died: "5 May 1857  in Somasca, Bergamo, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Bergamo, Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 5
   day: 5

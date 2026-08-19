@@ -12,7 +12,7 @@ born: "20 January 1832 in Stoke Rochford, Lincolnshire, England as Frances Marga
 died: "9 June 1900 in the convent across from Saint Patrick's cathedral, Soho Square, London, England of natural causes"
 birthPlace: "Lincolnshire, England as Frances Margaret Taylor"
 deathPlace: "Soho Square, London, Englandnatural causes"
-region: "France"
+region: "Africa"
 feastDay:
   month: 1
   day: 1

@@ -9,7 +9,7 @@ born: "26 July 1871 in Burgos, Spain"
 died: "15 January 1937 near Suances, Cantabria, Spain"
 birthPlace: "Spain"
 deathPlace: "Cantabria, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 15

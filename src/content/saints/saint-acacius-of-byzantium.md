@@ -17,7 +17,7 @@ deathYear: 303
 born: "Cappadocian"
 died: "tortured, scourged, and beheaded c.303 in Constantinople"
 deathPlace: "scourged, and beheaded c.303Constantinople"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 5
   day: 8

@@ -10,7 +10,7 @@ born: "Bettisfield, Hanmer, Flintshire, Wales"
 died: "hanged on 26 April 1642 at Tyburn, London, England"
 birthPlace: "Hanmer, Flintshire, Wales"
 deathPlace: "London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

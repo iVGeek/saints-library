@@ -11,7 +11,7 @@ born: "28 October 1510 at Gandia, Valencia, Spain"
 died: "30 September 1572 at Ferrara, Italy"
 birthPlace: "Valencia, Spain"
 deathPlace: "Italy"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 9
   day: 30

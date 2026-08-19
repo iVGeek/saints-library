@@ -16,7 +16,7 @@ birthYear: 960
 deathYear: 1038
 born: "c.960 in Bavaria (in modern Germany)"
 died: "4 May 1038 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 5

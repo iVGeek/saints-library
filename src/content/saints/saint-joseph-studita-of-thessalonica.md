@@ -9,7 +9,7 @@ searchAliases:
   - "Joseph the Studite"
 deathYear: 832
 died: "Thessaly of hunger and thirst in 832"
-region: "England"
+region: "Greece"
 feastDay:
   month: 7
   day: 15

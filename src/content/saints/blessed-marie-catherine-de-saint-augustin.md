@@ -14,7 +14,7 @@ born: "3 May 1632 in Saint-Sauveur-le-Vicomte, Normandy, France"
 died: "8 May 1668 in the Hôtel-Dieu de Québec, Québec City, New France (modern Canada) of natural causes"
 birthPlace: "Normandy, France"
 deathPlace: "Québec City, New France (modern Canada)natural causes"
-region: "France"
+region: "Canada"
 feastDay:
   month: 5
   day: 8

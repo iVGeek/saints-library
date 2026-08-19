@@ -8,7 +8,7 @@ born: "Venice, Italy"
 died: "1025 at Monte Cassino, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 5

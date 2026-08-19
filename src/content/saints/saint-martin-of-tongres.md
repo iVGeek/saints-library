@@ -2,7 +2,7 @@
 name: "Saint Martin of Tongres"
 honorific: Saint
 summary: "Bishop of Tongres in modern Belgium. Apostle of the Hesbaye district, in Brabant."
-region: "England"
+region: "Belgium"
 feastDay:
   month: 6
   day: 21

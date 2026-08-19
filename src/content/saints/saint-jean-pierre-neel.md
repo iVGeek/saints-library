@@ -12,7 +12,7 @@ born: "18 October 1832 in Soleymieux, Sainte-Catherine-sur-Riviere, France"
 died: "dragged by his hair by a horse, then beheaded at Kuy-tsheu (Kai-chou), China on 18 February 1862"
 birthPlace: "Sainte-Catherine-sur-Riviere, France"
 deathPlace: "then beheaded at Kuy-tsheu (Kai-chou), China on 18 February 1862"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 18

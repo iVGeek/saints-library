@@ -9,7 +9,7 @@ born: "26 April 1877 at Cotija, Michoacan, Mexico"
 died: "6 June 1938 in Mexico City, Mexico of natural causes"
 birthPlace: "Michoacan, Mexico"
 deathPlace: "Mexiconatural causes"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 6
   day: 6

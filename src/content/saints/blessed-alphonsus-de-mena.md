@@ -12,7 +12,7 @@ born: "3 February 1568 in La Rioja, Logroño, Spain"
 died: "burned alive on 10 September 1622 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Logroño, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 6
   day: 1

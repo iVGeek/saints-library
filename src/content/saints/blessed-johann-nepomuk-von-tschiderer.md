@@ -12,7 +12,7 @@ born: "15 April 1777 at Bolzano, diocese of Trent, Italy"
 died: "3 December 1860 at Trent, Italy of natural causes"
 birthPlace: "dioceseTrent, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 3

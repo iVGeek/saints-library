@@ -13,7 +13,7 @@ born: "c.1567 at Guipuzcoa, Spain"
 died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan"
 birthPlace: "Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

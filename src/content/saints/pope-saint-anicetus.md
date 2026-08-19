@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Wolnzach%2C_St
 deathYear: 166
 born: "in Syria"
 died: "166 of natural causes"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 4
   day: 20

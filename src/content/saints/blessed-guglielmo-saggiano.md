@@ -10,7 +10,7 @@ born: "Ancona, Italy"
 died: "burned at the stake in Algiers, Algeria in 1270"
 birthPlace: "Italy"
 deathPlace: "Algeria1270"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 5

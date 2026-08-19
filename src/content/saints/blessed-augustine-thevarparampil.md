@@ -12,7 +12,7 @@ born: "1 April 1891 in Ramapuram, Kerala, India"
 died: "16 October 1973 in Ramapuram, Kerala, India of natural causes"
 birthPlace: "Kerala, India"
 deathPlace: "Kerala, Indianatural causes"
-region: "England"
+region: "India"
 feastDay:
   month: 10
   day: 16

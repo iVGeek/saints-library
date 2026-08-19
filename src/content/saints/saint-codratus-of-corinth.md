@@ -6,7 +6,7 @@ searchAliases:
   - "Chuadratus"
 born: "Greek"
 died: "thrown to wild animals"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 10

@@ -12,7 +12,7 @@ born: "20 December 1676 at Porto Maurizio, Italy on the Riviera di Ponente as Pa
 died: "11:00pm 26 November 1751 at the monastery of Saint Bonaventura, Rome, Italy"
 birthPlace: "Italy on the Riviera di Ponente as Paul Jerome Casanova"
 deathPlace: "Rome, Italy"
-region: "Italy"
+region: "China"
 feastDay:
   month: 11
   day: 26

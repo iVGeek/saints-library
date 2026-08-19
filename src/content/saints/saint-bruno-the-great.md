@@ -13,7 +13,7 @@ deathYear: 965
 born: "925"
 died: "11 October 965 at Rheims, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 10
   day: 11

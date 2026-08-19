@@ -8,7 +8,7 @@ born: "8 February 1751 in Angers, Maine-et-Loire, France"
 died: "28 March 1794 in Angers, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 28

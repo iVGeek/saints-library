@@ -8,7 +8,7 @@ searchAliases:
   - "Mond"
 deathYear: 962
 died: "c.962"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 4
   day: 15

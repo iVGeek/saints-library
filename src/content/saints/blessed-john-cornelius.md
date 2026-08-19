@@ -11,7 +11,7 @@ born: "1557 at Bodmin, Lanherne, Cornwall, England on the estate of Sir John Aru
 died: "hanged and hacked to pieces on 4 July 1594 at Dorchester, Oxfordshire, England"
 birthPlace: "Lanherne, Cornwall, England on the estateSir John Arundell"
 deathPlace: "Oxfordshire, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 4

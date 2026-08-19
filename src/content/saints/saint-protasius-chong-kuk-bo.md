@@ -12,7 +12,7 @@ born: "1799 in Songdo, Gyeonggi-do, South Korea"
 died: "20 May 1839 in Seoul Prison, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 20

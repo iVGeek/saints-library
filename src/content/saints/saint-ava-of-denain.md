@@ -7,7 +7,7 @@ searchAliases:
   - "Avia…"
 deathYear: 845
 died: "c.845"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 4
   day: 29

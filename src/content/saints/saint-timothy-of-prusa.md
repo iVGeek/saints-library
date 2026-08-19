@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate."
 deathYear: 362
 died: "362"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 10

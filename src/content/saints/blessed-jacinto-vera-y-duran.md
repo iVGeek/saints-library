@@ -9,7 +9,7 @@ born: "3 July 1813 onboard a ship on the Atlantic Ocean off Ilha de Santa Catari
 died: "6 May 1881 in Montevideo, Uruguay of natural causes"
 birthPlace: "Florianópolis, Brazil"
 deathPlace: "Uruguaynatural causes"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 5
   day: 6

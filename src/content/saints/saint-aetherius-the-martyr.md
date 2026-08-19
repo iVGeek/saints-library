@@ -7,7 +7,7 @@ searchAliases:
   - "Etereo"
   - "Ethereus"
   - "Etherius"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 4

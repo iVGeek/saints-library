@@ -13,7 +13,7 @@ born: "7 May 1684 on the Clain River in Poitiers, Vienne, France as Marie-Louise
 died: "28 April 1759 in Saint-Laurent-sur-Sèvre, Vendée, France of natural causes"
 birthPlace: "Vienne, France as Marie-Louise Trichet"
 deathPlace: "Vendée, Francenatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 4
   day: 28

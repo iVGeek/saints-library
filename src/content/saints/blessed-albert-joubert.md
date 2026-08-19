@@ -9,7 +9,7 @@ born: "21 November 1908 in Saint Louis de Mrumbi-Moba, Tanganyika, Belgian Congo
 died: "shot on 28 November 1964 in Fizi, Sud-Kivu, Democratic Republic of Congo"
 birthPlace: "Tanganyika, Belgian Congo (modern Democratic RepublicCongo)"
 deathPlace: "Sud-Kivu, Democratic RepublicCongo"
-region: "France"
+region: "Africa"
 feastDay:
   month: 11
   day: 28

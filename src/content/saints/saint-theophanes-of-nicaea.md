@@ -9,7 +9,7 @@ searchAliases:
 birthYear: 775
 born: "c.775 at Kerak, Moab (Trans-Jordan)"
 birthPlace: "Moab (Trans-Jordan)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 27

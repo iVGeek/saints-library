@@ -9,7 +9,7 @@ born: "1 March 1653 at San Severino, Italy"
 died: "24 September 1721 at San Severino, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 24

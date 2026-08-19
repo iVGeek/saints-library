@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 514
 born: "Irish"
 died: "514 of natural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 9
   day: 3

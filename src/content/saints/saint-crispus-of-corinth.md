@@ -5,7 +5,7 @@ summary: "Convert, baptized by Saint Paul the Apostle. Leader of the synagogue i
 searchAliases:
   - "Crispus of Aegina"
   - "Crispo…"
-region: "England"
+region: "Greece"
 feastDay:
   month: 10
   day: 4

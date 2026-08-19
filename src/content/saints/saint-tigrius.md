@@ -6,7 +6,7 @@ searchAliases:
   - "Tygrius"
 deathYear: 405
 died: "c.405 in Asia Minor of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 12

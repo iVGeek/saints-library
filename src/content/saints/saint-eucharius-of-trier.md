@@ -5,7 +5,7 @@ summary: " Legend says that he was one of the 72 disciples of Christ, and that h
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eucharius-of-Trier.jpg"
 died: "relics in the crypt in the Basilica of Saint Matthias, Trier, Germany, and in Lisbon, Portugal"
 deathPlace: "Trier, Germany, andLisbon, Portugal"
-region: "Portugal"
+region: "Germany"
 feastDay:
   month: 12
   day: 8

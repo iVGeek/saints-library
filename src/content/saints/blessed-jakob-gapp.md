@@ -12,7 +12,7 @@ born: "26 July 1897 at Wattens, Tyrol, Austria"
 died: "guillotined at 7.08pm 13 August 1943 at Plotzensee Prison, Berlin, Germany"
 birthPlace: "Tyrol, Austria"
 deathPlace: "Berlin, Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 8
   day: 13

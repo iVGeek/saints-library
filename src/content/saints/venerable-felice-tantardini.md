@@ -11,7 +11,7 @@ born: "28 June 1898 in Introbio, Como, Italy"
 died: "23 March 1991 in Taunggyi, Shan, Myanmar of natural causes"
 birthPlace: "Como, Italy"
 deathPlace: "Shan, Myanmarnatural causes"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 1
   day: 1

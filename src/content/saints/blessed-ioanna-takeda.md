@@ -8,7 +8,7 @@ born: "c.1548 in Ise, Mie, Japan"
 died: "9 December 1603 in Yatsushiro, Kumamoto, Japan"
 birthPlace: "Mie, Japan"
 deathPlace: "Kumamoto, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 12
   day: 9

@@ -5,7 +5,7 @@ summary: "7th century monk of Iona, Scotland."
 searchAliases:
   - "Maelodran"
   - "Mailodranus"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 5
   day: 28

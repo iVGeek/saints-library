@@ -11,7 +11,7 @@ born: "2 August 1840 in Bogotá, Colombia"
 died: "28 June 1927 in Bogotá, Colombia of natural causes"
 birthPlace: "Colombia"
 deathPlace: "Colombianatural causes"
-region: "Italy"
+region: "Colombia"
 feastDay:
   month: 5
   day: 27

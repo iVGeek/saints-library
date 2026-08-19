@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 450
 born: "at Phrygia"
 died: "c.450 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 17

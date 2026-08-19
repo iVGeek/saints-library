@@ -8,7 +8,7 @@ born: "23 January 1864 in the Santa Maria de Congostinas parish in Linares del P
 died: "21 October 1936 in Nembra, Asturias, Spain"
 birthPlace: "Asturias, dioceseOviedo, Spain"
 deathPlace: "Asturias, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 10
   day: 21

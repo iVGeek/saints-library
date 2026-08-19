@@ -9,7 +9,7 @@ born: "13 May 1920 in Cabrunici, Svetvincenat, Istarska, Croatia"
 died: "stabbed in the neck on 24 August 1947 in Lanišce, Istarska, Croatia by a group of Communist sympathizers"
 birthPlace: "Svetvincenat, Istarska, Croatia"
 deathPlace: "Istarska, Croatia by a groupCommunist sympathizers"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 24

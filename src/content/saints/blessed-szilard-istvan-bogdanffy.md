@@ -9,7 +9,7 @@ born: "21 February 1911 in Crna Bara, Coka, Hungary (in modern Serbia)"
 died: "3 October 1953 in Nagyenyed (Aiud), Alba, Romania of pneumonia"
 birthPlace: "Coka, Hungary (modern Serbia)"
 deathPlace: "Alba, Romaniapneumonia"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 10
   day: 3

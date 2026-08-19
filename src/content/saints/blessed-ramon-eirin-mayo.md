@@ -9,7 +9,7 @@ born: "26 August 1911 in La Coruña, Spain"
 died: "shot on 15 December 1936 in Madrid, Spain"
 birthPlace: "Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 15

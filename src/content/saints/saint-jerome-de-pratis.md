@@ -9,7 +9,7 @@ deathYear: 1431
 born: "Aragon, Spain"
 died: "tied to a tree and shot with arrows by Moors in Tunis in 1431"
 birthPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 1

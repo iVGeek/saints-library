@@ -10,7 +10,7 @@ birthYear: 360
 deathYear: 433
 born: "c.360"
 died: "433 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 23

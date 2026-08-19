@@ -9,7 +9,7 @@ born: "24 April 1896 in Hecho, Huesca, Spain"
 died: "tortured to death on 3 August 1936 in a prison cell at the headquarters of the Unified Marxist Workers Party in Barcelona, Spain"
 birthPlace: "Huesca, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 3

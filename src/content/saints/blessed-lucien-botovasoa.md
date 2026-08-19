@@ -9,7 +9,7 @@ born: "1908 in Vohipeno, Madagascar"
 died: "beheaded with a sword between 10pm and midnight on 14 April 1947 on the banks of the Mattanana River near Ambohimanarivo, Manakara, Madagascar"
 birthPlace: "Madagascar"
 deathPlace: "Manakara, Madagascar"
-region: "France"
+region: "Italy"
 feastDay:
   month: 4
   day: 14

@@ -17,7 +17,7 @@ born: "1285 at Villanova, Friuli, Italy as Odoric Mattiussi"
 died: "14 January 1331 at Udine, Italy of natural causes"
 birthPlace: "Friuli, Italy as Odoric Mattiussi"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 14

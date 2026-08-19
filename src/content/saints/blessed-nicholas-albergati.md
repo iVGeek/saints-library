@@ -12,7 +12,7 @@ born: "1373 at Bologna, Italy"
 died: "9 May 1443 at Siena, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 10

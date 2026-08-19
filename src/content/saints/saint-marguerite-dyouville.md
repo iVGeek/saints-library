@@ -13,7 +13,7 @@ born: "15 October 1701 at Varennes, Quebec, Canada"
 died: "23 December 1771 in the General Hospital, Montreal, Quebec, Canada of natural causes"
 birthPlace: "Quebec, Canada"
 deathPlace: "Montreal, Quebec, Canadanatural causes"
-region: "France"
+region: "Canada"
 feastDay:
   month: 12
   day: 23

@@ -8,7 +8,7 @@ searchAliases:
   - "Haymo"
 deathYear: 853
 died: "27 March 853 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 27

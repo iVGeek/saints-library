@@ -11,7 +11,7 @@ born: "c.1796 in Ðau Nuoc (modern Tan My), Cho Moi, An Giang, Vietnam"
 died: "beheaded on 31 July 1859 in Châu Ðoc, An Giang, Vietnam"
 birthPlace: "Cho Moi, An Giang, Vietnam"
 deathPlace: "An Giang, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 31

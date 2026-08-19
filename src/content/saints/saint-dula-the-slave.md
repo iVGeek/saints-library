@@ -2,7 +2,7 @@
 name: "Saint Dula the Slave"
 honorific: Saint
 summary: "Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”."
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 25

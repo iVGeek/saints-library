@@ -14,7 +14,7 @@ born: "1024 at Semur, Brionnais, diocese of Autun, France as Hugues de Semur"
 died: "28 April 1109 at Cluny Abbey, France"
 birthPlace: "Brionnais, dioceseAutun, France as Hugues de Semur"
 deathPlace: "France"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 4
   day: 29

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-of-Te
 deathYear: 553
 born: "Syrian"
 died: "c.553"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 8
   day: 17

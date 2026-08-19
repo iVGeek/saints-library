@@ -9,7 +9,7 @@ born: "27 April 1945 in Barcelona, Spain"
 died: "shot on 4 June 1980 in Xeixojbitz, Quiché, Guatemala"
 birthPlace: "Spain"
 deathPlace: "Quiché, Guatemala"
-region: "France"
+region: "Spain"
 feastDay:
   month: 6
   day: 4

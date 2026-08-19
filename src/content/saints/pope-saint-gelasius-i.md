@@ -8,7 +8,7 @@ born: "at Rome, Italy"
 died: "21 November 496 at Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 11
   day: 21

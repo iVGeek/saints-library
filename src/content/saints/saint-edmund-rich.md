@@ -14,7 +14,7 @@ born: "20 November 1175 at Abingdon, Berkshire, England"
 died: "16 November 1240 at Soissy, Burgundy, France of natural causes"
 birthPlace: "Berkshire, England"
 deathPlace: "Burgundy, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 16

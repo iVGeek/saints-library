@@ -11,7 +11,7 @@ born: "early 7th century near Reims, Gaul (modern France)"
 died: "1 September 673 at the abbey of San Pietro di Hautvillers of natural causes, and was buried there"
 birthPlace: "Gaul (modern France)"
 deathPlace: "and was buried there"
-region: "France"
+region: "Austria"
 feastDay:
   month: 9
   day: 1

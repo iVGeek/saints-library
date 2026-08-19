@@ -12,7 +12,7 @@ born: "2 August 1900 in Balduina di San Urbano, Padua, Italy"
 died: "about 11pm on 21 July 1948 in Lourdes, Hautes-Pyrénées, France of natural causes"
 birthPlace: "Padua, Italy"
 deathPlace: "Hautes-Pyrénées, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 13

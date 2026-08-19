@@ -12,7 +12,7 @@ deathYear: 338
 born: "Syrian"
 died: "c.338 at Nisibis, Mesopotamia (modern Nusaybin, Turkey) of natural causes"
 deathPlace: "Mesopotamia (modern Nusaybin, Turkey)natural causes"
-region: "Germany"
+region: "Turkey"
 feastDay:
   month: 7
   day: 15

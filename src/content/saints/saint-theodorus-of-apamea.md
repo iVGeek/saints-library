@@ -13,7 +13,7 @@ born: "c.775 at Kerak, Moab (Trans-Jordan)"
 died: "c.841 at Apamea, Bithynia from the privations of prison life"
 birthPlace: "Moab (Trans-Jordan)"
 deathPlace: "Bithyniathe privations of prison life"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 27

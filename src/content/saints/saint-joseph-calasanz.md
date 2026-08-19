@@ -14,7 +14,7 @@ born: "11 September 1556 at Peralta, Barbastro, Aragon, Spain in his father's ca
 died: "25 August 1648 at Rome, Italy of natural causes"
 birthPlace: "Barbastro, Aragon, Spain his father's castle"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 25

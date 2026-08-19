@@ -9,7 +9,7 @@ born: "30 November 1614 in Strand, London, England"
 died: "beheaded on 29 December 1680 on Tower Hill, London, England"
 birthPlace: "London, England"
 deathPlace: "London, England"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 12
   day: 29

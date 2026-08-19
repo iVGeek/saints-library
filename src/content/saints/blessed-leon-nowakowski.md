@@ -9,7 +9,7 @@ born: "28 June 1913 in Byton (Cuiavia), Kujawsko-Pomorskie, Poland"
 died: "shot on the night of 31 October 1939 in Piotrków Kujawski, Kujawsko-Pomorskie, Poland"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Kujawsko-Pomorskie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 31

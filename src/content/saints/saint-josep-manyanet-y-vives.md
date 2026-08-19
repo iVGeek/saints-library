@@ -9,7 +9,7 @@ born: "7 January 1833 in Trempe, Catalonia, Spain"
 died: "17 December 1901 in San Andr&eacute;d de Palomar, Spain of natural causes"
 birthPlace: "Catalonia, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 17

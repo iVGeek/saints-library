@@ -11,7 +11,7 @@ born: "1888 in Lipsk, Podlaskie, Poland as Marianna Czokala"
 died: "shot by firing squad on 13 June 1943 in Naumovichi (a.k.a. Naumowicze), Hrodzyenskaya voblasts’, Belarus"
 birthPlace: "Podlaskie, Poland as Marianna Czokala"
 deathPlace: "Hrodzyenskaya voblasts’, Belarus"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 6
   day: 13

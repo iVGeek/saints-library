@@ -13,7 +13,7 @@ deathYear: 1195
 born: "Limoges, France as Bartholomew Avogadro"
 died: "c.1195"
 birthPlace: "France as Bartholomew Avogadro"
-region: "France"
+region: "Turkey"
 feastDay:
   month: 3
   day: 29

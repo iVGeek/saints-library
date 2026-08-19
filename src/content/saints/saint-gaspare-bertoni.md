@@ -13,7 +13,7 @@ born: "9 October 1777 in Verona, Italy"
 died: "Sunday 12 June 1853 in Verona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 12

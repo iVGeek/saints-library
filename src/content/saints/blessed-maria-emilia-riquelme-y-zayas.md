@@ -8,7 +8,7 @@ deathYear: 1940
 born: "5 August 1847 in Granada, Spain"
 died: "10 December 1940 in Granada Spain of natural causes"
 birthPlace: "Spain"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 12
   day: 10

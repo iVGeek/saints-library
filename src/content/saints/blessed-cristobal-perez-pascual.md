@@ -8,7 +8,7 @@ born: "9 December 1887 in Alájar, Huelva, Spain"
 died: "5 August 1936 in prison in Cazalla de la Sierra, Sevilla, Spain"
 birthPlace: "Huelva, Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 5

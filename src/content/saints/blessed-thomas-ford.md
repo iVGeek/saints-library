@@ -10,7 +10,7 @@ born: "Devon, Devonshire, England"
 died: "hanged on 28 May 1582 in Tyburn, London, England"
 birthPlace: "Devonshire, England"
 deathPlace: "London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 28

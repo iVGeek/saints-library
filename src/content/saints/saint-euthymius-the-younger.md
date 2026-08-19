@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 886
 born: "Galatia"
 died: "15 October 886 of natural causes"
-region: "England"
+region: "Greece"
 feastDay:
   month: 10
   day: 15

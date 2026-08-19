@@ -12,7 +12,7 @@ born: "1045 in Provence, France"
 died: "1079 in Marseilles, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 19

@@ -13,7 +13,7 @@ searchAliases:
   - "Trust…"
 born: "6th century Scotland"
 died: "7th century of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 7
   day: 11

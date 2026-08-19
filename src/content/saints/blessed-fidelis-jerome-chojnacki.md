@@ -14,7 +14,7 @@ born: "1 November 1906 at Lodz, Poland as Jerome Spurinska"
 died: "9 July 1942 at the Dachau concentration camp, Bavaria, Germany due to lengthy and assorted abuse"
 birthPlace: "Poland as Jerome Spurinska"
 deathPlace: "Bavaria, Germany due to lengthy and assorted abuse"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 7
   day: 9

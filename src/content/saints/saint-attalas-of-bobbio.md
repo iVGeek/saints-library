@@ -11,7 +11,7 @@ deathYear: 627
 born: "in Burgundy, France"
 died: "627 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 10

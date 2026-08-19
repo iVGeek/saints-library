@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 303
 died: "burned at the stake in 303 in Caesarea, Cappadocia (in modern Turkey)"
 deathPlace: "Cappadocia (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 30

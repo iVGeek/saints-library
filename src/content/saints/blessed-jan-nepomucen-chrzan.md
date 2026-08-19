@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1885
 born: "25 April 1885 in Gostyczyna, Wielkopolskie, Poland"
 birthPlace: "Wielkopolskie, Poland"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 7
   day: 1

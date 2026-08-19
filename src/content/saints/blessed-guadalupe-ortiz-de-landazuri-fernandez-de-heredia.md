@@ -11,7 +11,7 @@ born: "12 December 1916 in Madrid, Spain"
 died: "6:30am on 16 July 1975 in Pamplona, Navarra, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Navarra, Spaof natural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 7
   day: 16

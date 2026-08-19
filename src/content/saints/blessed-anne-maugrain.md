@@ -9,7 +9,7 @@ born: "12 April 1760 in Rochefort-sur-Loire, Maine-et-Loire, France"
 died: "16 April 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

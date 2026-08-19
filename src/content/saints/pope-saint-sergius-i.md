@@ -8,7 +8,7 @@ born: "at Palermo, Sicily"
 died: "7 September 701 of natural causes in Rome, Italy"
 birthPlace: "Sicily"
 deathPlace: "Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 9
   day: 8

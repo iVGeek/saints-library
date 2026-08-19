@@ -12,7 +12,7 @@ born: "6 April 1909 in Slona, Malopolskie, diocese of Tarnow, Poland"
 died: "23 July 1942 in the Dachau prison camp, Oberbayern, Germany"
 birthPlace: "Malopolskie, dioceseTarnow, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 7
   day: 23

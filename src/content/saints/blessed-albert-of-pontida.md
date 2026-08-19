@@ -12,7 +12,7 @@ born: "11th century Pontida, Italy"
 died: "2 September or 12 September in 1095, 1096 or 1099 (records vary) of natural causes"
 birthPlace: "Italy"
 deathPlace: "1096 or 1099 (records vary)natural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 9
   day: 2

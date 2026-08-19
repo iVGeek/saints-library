@@ -13,7 +13,7 @@ born: "19 December 1768 at Montpezat-sous-Bauzon, Ardèche, France"
 died: "3 February 1838 in Bourg-Saint-Andéol, Ardèche, France of natural causes"
 birthPlace: "Ardèche, France"
 deathPlace: "Ardèche, Francenatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 2
   day: 3

@@ -9,7 +9,7 @@ searchAliases:
   - "John Mary Mzec"
 born: "at Buganda, Uganda"
 birthPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 1
   day: 27

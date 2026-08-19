@@ -7,7 +7,7 @@ deathYear: 447
 born: "Constantinople (modern Istanbul, Turkey)"
 died: "24 October 447 in the area of modern Turkey of natural causes"
 birthPlace: "Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 24

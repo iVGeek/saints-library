@@ -22,7 +22,7 @@ born: "1138 in Bouvignes-sur-Meuse (modern Dinant), Namur (in modern Belgium)"
 died: "hit with a boat oar by his nephew Fauchon in June 1199 on the river Meuse near Onhaye, Brabant (in modern Belgium)"
 birthPlace: "Namur (modern Belgium)"
 deathPlace: "Brabant (modern Belgium)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 6
   day: 23

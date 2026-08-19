@@ -11,7 +11,7 @@ born: "25 November 1881 at Sotto il Monte, diocese of Bergamo, Italy as Angelo G
 died: "7:50pm on 3 June 1963 at Rome, Italy of stomach cancer"
 birthPlace: "dioceseBergamo, Italy as Angelo Giuseppe Roncalli"
 deathPlace: "Italystomach cancer"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 11

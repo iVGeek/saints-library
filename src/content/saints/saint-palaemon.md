@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 325
 died: "325 at Tabennisi, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 25

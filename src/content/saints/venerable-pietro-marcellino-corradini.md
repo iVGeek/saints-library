@@ -9,7 +9,7 @@ born: "2 June 1658 in Sezze, Italy"
 died: "8 February 1743 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 6
   day: 10

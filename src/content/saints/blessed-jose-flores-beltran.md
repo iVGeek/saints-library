@@ -7,7 +7,7 @@ born: "in Mojacar, Almeria Spain"
 died: "30 August 1936 in La Ballabona, Antas, Almeria Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Antas, Almeria Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 30

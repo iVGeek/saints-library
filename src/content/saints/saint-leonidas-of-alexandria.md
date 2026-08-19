@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 202
 died: "beheaded in 202 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 22

@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 751
 died: "murdered c.751 in Cologne, Austrasia (in modern Germany)"
 deathPlace: "Austrasia (modern Germany)"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 3
   day: 31

@@ -11,7 +11,7 @@ born: "15 May 1825 in Montevarchi, Arezzo, Italy as Maria Scrilli"
 died: "14 November 1889 in Florence, Italy of natural causes"
 birthPlace: "Arezzo, Italy as Maria Scrilli"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 11
   day: 14

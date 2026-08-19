@@ -9,7 +9,7 @@ born: "24 December 1898 in Ferizoviç, Ottoman Empire (modern Ferizaj (Uroševac
 died: "20 October 1971 in Fushe, Krujë, Albania"
 birthPlace: "Ottoman Empire (modern Ferizaj (Uroševac), Kosovo, Serbia)"
 deathPlace: "Krujë, Albania"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 10
   day: 20

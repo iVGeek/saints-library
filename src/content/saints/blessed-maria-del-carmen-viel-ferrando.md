@@ -9,7 +9,7 @@ born: "27 November 1893 in Sueca, Valencia, Spain"
 died: "5 November 1936 in El Saler, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 11
   day: 5

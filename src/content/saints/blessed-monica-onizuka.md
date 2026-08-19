@@ -8,7 +8,7 @@ born: "c.1602 in Arie, Nagasaki, Japan"
 died: "12 July 1626 in Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 12

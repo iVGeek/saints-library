@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop in Jutland, Denmark. Martyred by local pagans."
 deathYear: 980
 died: "martyred in 980 in Denmark"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 3

@@ -11,7 +11,7 @@ deathYear: 760
 born: "in Ireland"
 died: "c.760 in Bavaria, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 2
   day: 9

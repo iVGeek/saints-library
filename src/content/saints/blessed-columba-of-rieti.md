@@ -12,7 +12,7 @@ born: "2 February 1467 at Rieti, Umbria, Italy as Angelella Guardagnoli"
 died: "20 May 1501 at Perguia, Italy of natural causes"
 birthPlace: "Umbria, Italy as Angelella Guardagnoli"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 5
   day: 20

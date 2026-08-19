@@ -7,7 +7,7 @@ searchAliases:
   - "Orosia"
 deathYear: 714
 died: "714"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 25

@@ -11,7 +11,7 @@ deathYear: 1597
 born: "Japan"
 died: "crucified on 5 February 1597 at Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

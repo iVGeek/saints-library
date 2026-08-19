@@ -11,7 +11,7 @@ born: "9 April 1870 in Calatayud, Zaragoza, Spain"
 died: "shot on 26 July 1936 in the atrium of the Divine Shepherdess parish church in Motril, Granada, Spain"
 birthPlace: "Zaragoza, Spain"
 deathPlace: "Granada, Spain"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 7
   day: 26

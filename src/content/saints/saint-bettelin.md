@@ -13,7 +13,7 @@ searchAliases:
   - "Beorhthelm"
   - "Bertoline"
 died: "8th century of natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 9
   day: 9

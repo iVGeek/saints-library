@@ -12,7 +12,7 @@ born: "c.1802 in Ngoc Cuc, Nam Ðinh, Vietnam"
 died: "burned at the stake on 17 June 1862 in Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 17

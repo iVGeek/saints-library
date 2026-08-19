@@ -5,7 +5,7 @@ summary: "Monk at Constantinople. Spiritual student of Saint Gregory Decapolitus
 searchAliases:
   - "Giovanni…"
 died: "mid-9th century"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 4
   day: 18

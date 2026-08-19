@@ -9,7 +9,7 @@ born: "27 November 1866 in Alfornón, Granada, Spain"
 died: "9 August 1936 in the cemetery of Loja, Granada, Spain"
 birthPlace: "Granada, Spain"
 deathPlace: "Granada, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 9

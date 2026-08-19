@@ -11,7 +11,7 @@ born: "17 January 1880 in Albocácer, Castellón, Spain"
 died: "13 August 1936 in Albocácer, Castellón, Spain"
 birthPlace: "Castellón, Spain"
 deathPlace: "Castellón, Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 13

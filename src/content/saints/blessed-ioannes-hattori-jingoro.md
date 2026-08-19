@@ -8,7 +8,7 @@ born: "c.1570 in Muro, Nara, Japan"
 died: "11 January 1609 in Yatsushiro, Kumamoto, Japan"
 birthPlace: "Nara, Japan"
 deathPlace: "Kumamoto, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 1
   day: 11

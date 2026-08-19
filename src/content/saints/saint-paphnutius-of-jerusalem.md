@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Priest in Jerusalem. Martyr."
 died: "Jerusalem, date unknown"
 deathPlace: "date unknown"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 4
   day: 19

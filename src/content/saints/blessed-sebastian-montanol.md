@@ -6,7 +6,7 @@ deathYear: 1616
 born: "Spanish"
 died: "murdered in 1616 in Zacateca, Mexico"
 deathPlace: "Mexico"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 12
   day: 10

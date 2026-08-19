@@ -11,7 +11,7 @@ born: "30 July 1857 in Verny, Moselle, France"
 died: "20 July 1900 in church in Zhujiahe, Jingxian, Hebei, China"
 birthPlace: "Moselle, France"
 deathPlace: "Jingxian, Hebei, China"
-region: "France"
+region: "China"
 feastDay:
   month: 7
   day: 20

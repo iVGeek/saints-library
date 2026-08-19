@@ -10,7 +10,7 @@ born: "8th century in Northumbria, England"
 died: "789 in Bremen, Germany of natural causes"
 birthPlace: "England"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 11
   day: 8

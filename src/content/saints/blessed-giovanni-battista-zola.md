@@ -11,7 +11,7 @@ born: "1 November 1575 in Brescia, Italy"
 died: "burned alive on 20 June 1626 in Nagasaki, Japan"
 birthPlace: "Italy"
 deathPlace: "Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 6
   day: 20

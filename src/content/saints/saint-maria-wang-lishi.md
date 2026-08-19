@@ -12,7 +12,7 @@ born: "c.1851 in Fancun, Weixian, Hebei, China"
 died: "22 July 1900 in Daning, Weixian, Hebei, China"
 birthPlace: "Weixian, Hebei, China"
 deathPlace: "Weixian, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 22

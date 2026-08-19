@@ -8,7 +8,7 @@ born: "in Omura, Nagasaki, Japan"
 died: "burned alive on 11 November 1634 in Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 11

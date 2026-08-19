@@ -9,7 +9,7 @@ born: "1435 in Mogliano, Macerata, Italy"
 died: "during the night of 24 to 25 July 1490 near Fermo, Italy after a brief illness"
 birthPlace: "Macerata, Italy"
 deathPlace: "Italy after a brief illness"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 7
   day: 25

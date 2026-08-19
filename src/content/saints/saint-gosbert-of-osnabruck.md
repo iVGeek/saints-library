@@ -13,7 +13,7 @@ searchAliases:
   - "Gozberto"
 deathYear: 874
 died: "2 February 874 of natural causes"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 13

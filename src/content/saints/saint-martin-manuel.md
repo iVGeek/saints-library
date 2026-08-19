@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Priest in Siure, Portugal. Captured by Saracens. Martyr."
 born: "in Auranca, Portugal"
 birthPlace: "Portugal"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 1
   day: 31

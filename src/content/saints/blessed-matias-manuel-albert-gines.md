@@ -9,7 +9,7 @@ born: "3 October 1867 in Calanda, Teruel, Spain"
 died: "late night 29 July 1936 in Calanda, Teruel, Spain"
 birthPlace: "Teruel, Spain"
 deathPlace: "Teruel, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 29

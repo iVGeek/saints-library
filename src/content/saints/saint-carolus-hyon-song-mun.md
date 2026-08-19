@@ -11,7 +11,7 @@ born: "1797 in Seoul, South Korea"
 died: "beheaded on 19 September 1846 in Saenamteo, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 19

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 286
 died: "tortured and beheaded c.286 at Rome, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 25

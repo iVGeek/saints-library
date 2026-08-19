@@ -12,7 +12,7 @@ born: "26 November 1790 in Menton, Bouches-du-Rhône, Italy (part of modern Fran
 died: "20 May 1839 in Vico, Haute-Corse, France of natural causes, exhausted by his labors"
 birthPlace: "Bouches-du-Rhône, Italy (partmodern France)"
 deathPlace: "Haute-Corse, Francenatural causes, exhausted by his labors"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 17

@@ -9,7 +9,7 @@ born: "1268 in Antioch, Syria"
 died: "27 March 1348 at Annecy, Savoy (part of modern France)"
 birthPlace: "Syria"
 deathPlace: "Savoy (partmodern France)"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 30

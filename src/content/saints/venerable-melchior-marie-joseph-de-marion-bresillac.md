@@ -9,7 +9,7 @@ born: "2 December 1813 in Castelnaudary, Aude, France"
 died: "25 June 1859 in Freetown, Sierra Leone of natural causes"
 birthPlace: "Aude, France"
 deathPlace: "Sierra Leonenatural causes"
-region: "France"
+region: "India"
 feastDay:
   month: 12
   day: 22

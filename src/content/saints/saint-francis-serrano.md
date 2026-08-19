@@ -11,7 +11,7 @@ born: "4 December 1695 in Huéneja, Granada, Spain"
 died: "strangled to death on 25 October 1748 in Fuzhou, Fujian, China"
 birthPlace: "Granada, Spain"
 deathPlace: "Fujian, China"
-region: "Spain"
+region: "China"
 feastDay:
   month: 10
   day: 28

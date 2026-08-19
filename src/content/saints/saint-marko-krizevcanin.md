@@ -15,7 +15,7 @@ born: "c.1589 in Križevci, Koprivnicko-Križevacka, Croatia"
 died: "7 September 1619 in Košice, Košický kraj, Hungary (now in Slovakia)"
 birthPlace: "Koprivnicko-Križevacka, Croatia"
 deathPlace: "Košický kraj, Hungary (nowSlovakia)"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 9
   day: 7

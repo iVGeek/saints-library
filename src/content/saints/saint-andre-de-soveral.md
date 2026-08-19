@@ -9,7 +9,7 @@ born: "1572 in São Vicente, São Paulo, Brazil"
 died: "hacked to death on 16 July 1645 in Cunhaú, Rio Grande do Norte, Brazil"
 birthPlace: "São Paulo, Brazil"
 deathPlace: "Rio Grande do Norte, Brazil"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 16

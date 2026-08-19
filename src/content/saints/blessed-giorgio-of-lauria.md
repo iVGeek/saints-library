@@ -10,7 +10,7 @@ born: "Lauria, Potenza, Italy"
 died: "1339 at the convent of Santa Maria of El Puig, Spain of natural causes"
 birthPlace: "Potenza, Italy"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 14

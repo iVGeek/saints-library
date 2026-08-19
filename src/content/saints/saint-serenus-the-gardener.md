@@ -17,7 +17,7 @@ deathYear: 303
 born: "Greece"
 died: "beheaded 23 February 303 at Sirmium, Pannonia (modern Hungary)"
 deathPlace: "Pannonia (modern Hungary)"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 2
   day: 23

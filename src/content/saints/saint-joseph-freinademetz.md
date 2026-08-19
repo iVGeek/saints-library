@@ -15,7 +15,7 @@ born: "15 April 1852 in Pedraces in Val Gadena, the Tyrolean Alps, Italy"
 died: "28 January 1908 in Taikia, China of tuberculosis and typhus"
 birthPlace: "the Tyrolean Alps, Italy"
 deathPlace: "Chinatuberculosis and typhus"
-region: "Italy"
+region: "China"
 feastDay:
   month: 1
   day: 28

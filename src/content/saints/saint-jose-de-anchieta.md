@@ -14,7 +14,7 @@ born: "19 March 1534 at San Cristobal de la Laguna, Tenerife, Canary Islands, Sp
 died: "9 June 1597 at Reritigba (Anchieta), Brazil of natural causes"
 birthPlace: "Tenerife, Canary Islands, Spain"
 deathPlace: "Brazilnatural causes"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 6
   day: 9

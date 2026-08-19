@@ -9,7 +9,7 @@ born: "22 May 1851 in Benov, Prerov, Czech Republic"
 died: "29 September 1923 in Olomouc, Czech Republic"
 birthPlace: "Prerov, Czech Republic"
 deathPlace: "Czech Republic"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 5

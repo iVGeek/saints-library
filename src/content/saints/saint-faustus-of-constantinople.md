@@ -8,7 +8,7 @@ born: "5th century Constantinople (modern Istanbul, Turkey)"
 died: "5th century Constantinople (modern Istanbul, Turkey)"
 birthPlace: "Turkey)"
 deathPlace: "Turkey)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 8
   day: 3

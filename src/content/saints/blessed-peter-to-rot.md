@@ -9,7 +9,7 @@ born: "1912 in Rakunai, East New Britain (part of modern Papua New Guinea)"
 died: "poisoned and suffocated on 7 July 1945 in a Japanese concentration camp at Rakunai, East New Britain (part of modern Papua New Guinea)"
 birthPlace: "East New Brita(part of modern Papua New Guinea)"
 deathPlace: "East New Brita(part of modern Papua New Guinea)"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 7

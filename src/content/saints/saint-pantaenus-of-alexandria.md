@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 190
 born: "Sicily"
 died: "c.190"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 7
   day: 7

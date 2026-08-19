@@ -14,7 +14,7 @@ born: "5 June 1686 in Santhià, Vercelli, Italy as Maurice Belvisotti"
 died: "22 September 1770 of natural causes in Turin, Italy"
 birthPlace: "Vercelli, Italy as Maurice Belvisotti"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 22

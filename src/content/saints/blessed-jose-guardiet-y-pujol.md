@@ -9,7 +9,7 @@ born: "21 June 1879 in Manlleu, Barcelona, Spain"
 died: "shot by firing squad on 3 August 1936 on the L’Arrabassada highway, Barcelona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 3

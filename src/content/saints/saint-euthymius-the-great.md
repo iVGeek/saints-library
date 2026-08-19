@@ -8,7 +8,7 @@ deathYear: 473
 born: "378 at Melitine, Armenia (modern Malatya, Turkey)"
 died: "20 January 473 of natural causes"
 birthPlace: "Armenia (modern Malatya, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 20

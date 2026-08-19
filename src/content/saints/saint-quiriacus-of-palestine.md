@@ -7,7 +7,7 @@ searchAliases:
   - "Quiriaco"
 born: "Greece"
 died: "6th century"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 9
   day: 29

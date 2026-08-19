@@ -5,7 +5,7 @@ summary: "A group of 4th-century parishioners in Alexandria, Egypt. During the c
 deathYear: 356
 died: "356 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "France"
+region: "Syria"
 feastDay:
   month: 1
   day: 28

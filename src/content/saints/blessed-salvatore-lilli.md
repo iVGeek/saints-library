@@ -11,7 +11,7 @@ born: "19 June 1853 at Cappadocia, Aquila, Italy"
 died: "stabbed with a lance on 22 November 1895 near the Zihun River in Mujuk-Dersi, Armenia (in modern Turkey)"
 birthPlace: "Aquila, Italy"
 deathPlace: "Armenia (modern Turkey)"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 11
   day: 22

@@ -13,7 +13,7 @@ born: "1330 at Capua, Italy as Raymond delle Vigne"
 died: "5 October 1399 at Nuremberg, Germany of natural causes"
 birthPlace: "Italy as Raymond delle Vigne"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 5

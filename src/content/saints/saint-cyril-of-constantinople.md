@@ -6,7 +6,7 @@ birthYear: 1126
 deathYear: 1224
 born: "1126 at Constantinople"
 died: "1224 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 6

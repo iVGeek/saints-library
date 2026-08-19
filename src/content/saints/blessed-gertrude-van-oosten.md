@@ -15,7 +15,7 @@ born: "c.1310 in Voorburch, Netherlands"
 died: "6 January 1358 in Delft, Netherlands of natural causes"
 birthPlace: "Netherlands"
 deathPlace: "Netherlandsnatural causes"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 1
   day: 6

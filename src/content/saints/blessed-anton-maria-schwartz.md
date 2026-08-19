@@ -9,7 +9,7 @@ born: "28 February 1852 in Baden, Vienna, Austria"
 died: "15 September 1929 in Vienna, Austria of natural causes"
 birthPlace: "Vienna, Austria"
 deathPlace: "Austrianatural causes"
-region: "England"
+region: "Austria"
 feastDay:
   month: 9
   day: 15

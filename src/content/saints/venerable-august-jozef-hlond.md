@@ -9,7 +9,7 @@ born: "5 July 1881 in Brzeczkowice, Germany (modern Myslowice, Poland)"
 died: "22 October 1948 in Warsaw, Poland of natural causes"
 birthPlace: "Germany (modern Myslowice, Poland)"
 deathPlace: "Polandnatural causes"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 9
   day: 23

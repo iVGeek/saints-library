@@ -12,7 +12,7 @@ birthYear: 474
 deathYear: 550
 born: "c.474 in Wales"
 died: "c.550 of natural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 11
   day: 18

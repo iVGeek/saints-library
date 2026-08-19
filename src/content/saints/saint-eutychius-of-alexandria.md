@@ -6,7 +6,7 @@ searchAliases:
   - "Eutichio"
 deathYear: 356
 died: "from abuse and exhaustion while on the road to the mines in Egypt in 356"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 26

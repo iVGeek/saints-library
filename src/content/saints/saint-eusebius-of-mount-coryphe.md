@@ -3,7 +3,7 @@ name: "Saint Eusebius of Mount Coryphe"
 honorific: Saint
 title: "Hermit"
 summary: "Fourth-century hermit on Mount Coryphe near Antioch, Syria."
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 23

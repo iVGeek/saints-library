@@ -13,7 +13,7 @@ born: "28 August 1916 in Milan, Italy as Enrico"
 died: "10 August 2001 in Bergamo, Italy of complications from a stroke"
 birthPlace: "Italy as Enrico"
 deathPlace: "Italycomplications from a stroke"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 3
   day: 13

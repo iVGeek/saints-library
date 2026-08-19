@@ -6,7 +6,7 @@ searchAliases:
   - "Anysius of Salonika"
 deathYear: 410
 died: "c.410"
-region: "England"
+region: "Italy"
 feastDay:
   month: 12
   day: 30

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1024
 born: "Austrian"
 died: "1024 of natural causes"
-region: "England"
+region: "Austria"
 feastDay:
   month: 2
   day: 5

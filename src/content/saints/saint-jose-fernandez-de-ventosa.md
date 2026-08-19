@@ -11,7 +11,7 @@ born: "3 September 1775 at Ventosa de la Cueva, Ávila, Spain"
 died: "beheaded on 24 July 1838 in Nam Ðinh, Vietnam"
 birthPlace: "Ávila, Spain"
 deathPlace: "Vietnam"
-region: "Spain"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 24

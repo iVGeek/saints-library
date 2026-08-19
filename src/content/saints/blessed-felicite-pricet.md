@@ -8,7 +8,7 @@ born: "c.1745 in Châtillon-sur-Sèvre, Maine-et-Loire, France"
 died: "18 January 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 18

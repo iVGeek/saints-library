@@ -10,7 +10,7 @@ born: "3rd century, probably at Rome, Italy into the family Anicii"
 died: "c.250 near Lake Bolsena, Tuscany, Italy"
 birthPlace: "probably at Rome, Italy into the family Anicii"
 deathPlace: "Tuscany, Italy"
-region: "Italy"
+region: "Lebanon"
 feastDay:
   month: 7
   day: 24

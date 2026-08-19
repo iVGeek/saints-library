@@ -14,7 +14,7 @@ born: "19 November 1838 in Ghyvelde, Nord, France"
 died: "4 August 1916 in the Franciscan Infirmary in Montreal, Quebec, Canada of stomach cancer"
 birthPlace: "Nord, France"
 deathPlace: "Quebec, Canadastomach cancer"
-region: "France"
+region: "Canada"
 feastDay:
   month: 8
   day: 4

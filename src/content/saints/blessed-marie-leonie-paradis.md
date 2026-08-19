@@ -12,7 +12,7 @@ born: "12 May 1840 in L'Acadie, Quebec, Canada as Alodie-Virginie Paradis"
 died: "3 May 1912 in Sherbrooke, Quebec, Canada"
 birthPlace: "Quebec, Canada as Alodie-Virginie Paradis"
 deathPlace: "Quebec, Canada"
-region: "England"
+region: "India"
 feastDay:
   month: 5
   day: 3

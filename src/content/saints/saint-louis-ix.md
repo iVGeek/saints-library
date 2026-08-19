@@ -11,7 +11,7 @@ deathYear: 1270
 born: "25 April 1214 at Poissy, France"
 died: "25 August 1270 at Tunis (in modern Tunisia) of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 25

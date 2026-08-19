@@ -13,7 +13,7 @@ born: "439 at Pavia, Italy"
 died: "496 at Burgundy, France of a fever"
 birthPlace: "Italy"
 deathPlace: "Francea fever"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 21

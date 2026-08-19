@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 978
 born: "Saxony (part of modern Germany)"
 died: "16 April 978 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 4
   day: 19

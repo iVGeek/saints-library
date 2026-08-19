@@ -10,7 +10,7 @@ deathYear: 1093
 born: "c.1045 in Hungary"
 died: "16 November 1093 at Edinburgh Castle, Scotland, four days after her husband and son died in defense of the castle"
 deathPlace: "Scotland, four days after her husband and son dieddefense of the castle"
-region: "Ireland"
+region: "Hungary"
 feastDay:
   month: 11
   day: 16

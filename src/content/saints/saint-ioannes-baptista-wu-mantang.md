@@ -12,7 +12,7 @@ born: "c.1883 in Xihetou, Shenzhou, Hebei, China"
 died: "29 June 1900 in Xiaoluyi, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 29

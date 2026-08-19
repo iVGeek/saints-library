@@ -12,7 +12,7 @@ born: "22 April 1905 in Chorzów, Slaskie, Poland"
 died: "shot in the back of the head on 23 February 1942 in Poznan, Wielkopolskie, Poland"
 birthPlace: "Slaskie, Poland"
 deathPlace: "Wielkopolskie, Poland"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 2
   day: 23

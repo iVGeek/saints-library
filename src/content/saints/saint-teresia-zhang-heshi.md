@@ -12,7 +12,7 @@ born: "c.1864 in Yuan, Ningjing, Hebei, China"
 died: "stabbed with a spear on 16 July 1900 in Zhangjiaji, Ningjing, Hebei, China"
 birthPlace: "Ningjing, Hebei, China"
 deathPlace: "Ningjing, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 16

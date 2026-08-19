@@ -14,7 +14,7 @@ born: "c.1440 in Gielniów, Poland"
 died: "4 May 1505 in Warsaw, Poland of natural causes soon after levitating while in reflection on the Passion on Good Friday"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes soon after levitating while in reflection on the Passion on Good Friday"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 4

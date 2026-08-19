@@ -11,7 +11,7 @@ born: "4 September 1865 in Karlowo, Kujawsko-Pomorskie, Poland"
 died: "24 March 1935 in Pniewite, Kujawsko-Pomorskie, Poland of natural causes"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Kujawsko-Pomorskie, Polandnatural causes"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 3
   day: 24

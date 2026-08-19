@@ -8,7 +8,7 @@ born: "c.1531 in Pedrógão Grande, Leiria, Portugal"
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "Leiria, Portugal"
 deathPlace: "Canary Islands"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 15

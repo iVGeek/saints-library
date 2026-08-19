@@ -11,7 +11,7 @@ born: "17 January 1815 in Mainyang, Sichuan, China"
 died: "beheaded on 19 January 1862 by Kaiyang, Guizhou, China"
 birthPlace: "Sichuan, China"
 deathPlace: "Guizhou, China"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 19

@@ -14,7 +14,7 @@ born: "Rome, Italy"
 died: "tortured and beheaded in 287 at Augusta Veromanduorum, Gaul (now Saint-Quentin, France)"
 birthPlace: "Italy"
 deathPlace: "Gaul (now Saint-Quentin, France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 31

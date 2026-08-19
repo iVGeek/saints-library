@@ -16,7 +16,7 @@ born: "1386 at Capistrano, Italy"
 died: "23 October 1456 at Villach, Hungary of natural causes"
 birthPlace: "Italy"
 deathPlace: "Hungarynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 10
   day: 23

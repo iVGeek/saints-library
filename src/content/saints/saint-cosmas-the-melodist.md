@@ -10,7 +10,7 @@ birthYear: 706
 deathYear: 760
 born: "706 in Jerusalem"
 died: "760"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 15

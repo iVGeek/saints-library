@@ -10,7 +10,7 @@ deathYear: 1077
 born: "1052"
 died: "1077 near Chartres, France natural causes"
 deathPlace: "France natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 27

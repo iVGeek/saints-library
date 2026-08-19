@@ -13,7 +13,7 @@ born: "25 April 1875 in Choroni, Venezuela as Laura Evangelista"
 died: "2 April 1967 in Maracay, Aragua, Venezuela of a blood clot"
 birthPlace: "Venezuela as Laura Evangelista"
 deathPlace: "Aragua, Venezuelaa blood clot"
-region: "Italy"
+region: "Venezuela"
 feastDay:
   month: 4
   day: 2

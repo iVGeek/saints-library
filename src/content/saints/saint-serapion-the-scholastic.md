@@ -9,7 +9,7 @@ searchAliases:
   - "Serapion the Scholar"
 deathYear: 365
 died: "c.365–370 of natural causes while in exile in Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 3
   day: 21

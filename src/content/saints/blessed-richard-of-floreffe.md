@@ -5,7 +5,7 @@ summary: "One of the first Premonstratensian canons, joining at the Prémontré 
 deathYear: 1129
 born: "latter 11th century France"
 died: "1129 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 9

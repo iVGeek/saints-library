@@ -2,7 +2,7 @@
 name: "Blessed Benignus of Breslau"
 honorific: Blessed
 summary: "Thirteenth-century Cistercian monk at Breslau, Silesia, Poland. Martyred with many of his brother monks for protecting litugical vessels from invading Tartars."
-region: "England"
+region: "Poland"
 feastDay:
   month: 6
   day: 20

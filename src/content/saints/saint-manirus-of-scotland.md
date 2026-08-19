@@ -11,7 +11,7 @@ birthYear: 700
 deathYear: 824
 born: "c.700 in Scotland"
 died: "824 in Scotland of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 12
   day: 19

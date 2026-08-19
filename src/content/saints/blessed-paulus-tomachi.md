@@ -10,7 +10,7 @@ born: "1621 in Omura, Nagasaki, Japan"
 died: "beheaded on 8 September 1628 in Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

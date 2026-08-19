@@ -11,7 +11,7 @@ searchAliases:
   - "Symprecht"
 deathYear: 809
 died: "c.809 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 13

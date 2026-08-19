@@ -19,7 +19,7 @@ born: "c.584 at Poitou, France"
 died: "c.679 in the monastery at Elnone-en-Pevele (modern Saint-Amand-les-Eaux), France"
 birthPlace: "France"
 deathPlace: "France"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 2
   day: 6

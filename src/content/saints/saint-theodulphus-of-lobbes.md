@@ -7,7 +7,7 @@ searchAliases:
   - "Thiou"
 deathYear: 776
 died: "776 of natural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 6
   day: 24

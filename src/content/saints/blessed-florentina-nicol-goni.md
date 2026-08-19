@@ -13,7 +13,7 @@ born: "14 March 1868 in Tafalla, Navarre, Spain as Florentina Nicol Goni"
 died: "24 February 1940 in Pamplona, Navarre, Spain of natural causes"
 birthPlace: "Navarre, Spaas Florentina Nicol Goni"
 deathPlace: "Navarre, Spaof natural causes"
-region: "Spain"
+region: "Peru"
 feastDay:
   month: 2
   day: 24

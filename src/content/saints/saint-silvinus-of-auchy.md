@@ -11,7 +11,7 @@ born: "near Toulouse, France"
 died: "15 February 718 at the abbey of Auchy-les-Moines, Artois, France of natural causes"
 birthPlace: "France"
 deathPlace: "Artois, Francenatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 2
   day: 17

@@ -13,7 +13,7 @@ deathYear: 917
 born: "c.850 in the Gascony Lomagne region of France"
 died: "917 at Deventer, the Netherlands of natural causes"
 deathPlace: "the Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 11
   day: 29

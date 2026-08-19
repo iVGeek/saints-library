@@ -14,7 +14,7 @@ born: "10 March 1549 at Montilla, diocese of Cordova, Andalusia, Spain"
 died: "14 July 1610 at Lima, Peru of natural causes"
 birthPlace: "dioceseCordova, Andalusia, Spain"
 deathPlace: "Perunatural causes"
-region: "France"
+region: "Peru"
 feastDay:
   month: 7
   day: 14

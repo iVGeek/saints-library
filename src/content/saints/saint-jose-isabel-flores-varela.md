@@ -9,7 +9,7 @@ born: "28 November 1866 at Teul, Zacatecas, Mexico"
 died: "throat cut between 1am and 2am on 21 June 1927 in a cemetery near Zapotlanejo, Jalisco, Mexico"
 birthPlace: "Zacatecas, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 6
   day: 21

@@ -13,7 +13,7 @@ born: "13 January 1913 in Rapa-Baran, Nemencine, Vilniaus rajonas, Lithuania as 
 died: "10 April 1942 of pneumonia in the camp infirmary of Dachau, Oberbayern, Germany"
 birthPlace: "Nemencine, Vilniaus rajonas, Lithuania as Piotr Zukowski"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 4
   day: 10

@@ -11,7 +11,7 @@ born: "30 June 1863 at Altavilla, Benevento, Italy"
 died: "beheaded on 21 July 1900 in Ningkiang, China"
 birthPlace: "Benevento, Italy"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 21

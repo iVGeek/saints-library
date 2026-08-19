@@ -9,7 +9,7 @@ born: "26 October 1864 in Isnotú, Trujillo, Venezuela"
 died: "hit by a car on 29 June 1919 in Caracas, Venezuela while delivering medications he had purchased for an elderly patient"
 birthPlace: "Trujillo, Venezuela"
 deathPlace: "Venezuela while delivering medications he had purchased for an elderly patient"
-region: "Italy"
+region: "Venezuela"
 feastDay:
   month: 10
   day: 26

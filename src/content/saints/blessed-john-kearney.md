@@ -10,7 +10,7 @@ born: "1619 in Cashel, Tipperary, Ireland"
 died: "hanged on 11 March 1653 in Clonmel, Ireland"
 birthPlace: "Tipperary, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 3
   day: 11

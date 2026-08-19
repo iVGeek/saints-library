@@ -16,7 +16,7 @@ born: "9 February 1274 at Nocera, Italy"
 died: "19 August 1297 at Brignolles, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 8
   day: 19

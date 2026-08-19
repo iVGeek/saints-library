@@ -11,7 +11,7 @@ born: "11 May 1899 in Kassa, Hungary (modern Košice, Slovakia)"
 died: "shot on 27 December 1944 by members of the Arrow Cross Party on the banks of the River Danube in Budapest, Hungary"
 birthPlace: "Hungary (modern Košice, Slovakia)"
 deathPlace: "Hungary"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 12
   day: 27

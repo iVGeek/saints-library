@@ -14,7 +14,7 @@ born: "in Brabant, Belgium"
 died: "690 Maubeuge Abbey, Maubeuge, France of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Maubeuge, Francenatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 10

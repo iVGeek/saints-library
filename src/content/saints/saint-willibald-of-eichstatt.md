@@ -10,7 +10,7 @@ deathYear: 781
 born: "21 October 700 in Wessex, England"
 died: "7 July 781 of natural causes"
 birthPlace: "England"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 7

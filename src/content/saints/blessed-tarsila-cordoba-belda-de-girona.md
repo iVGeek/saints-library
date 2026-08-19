@@ -9,7 +9,7 @@ born: "8 May 1861 in Sollana, Valencia, Spain"
 died: "shot at dawn on 17 October 1936 against the wall of the cemetery in Algemesí, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 10
   day: 17

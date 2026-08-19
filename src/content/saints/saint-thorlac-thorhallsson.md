@@ -11,7 +11,7 @@ deathYear: 1193
 born: "1133 at Iceland"
 died: "23 December 1193 at Skalholt, Iceland of natural causes"
 deathPlace: "Icelandnatural causes"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 12
   day: 23

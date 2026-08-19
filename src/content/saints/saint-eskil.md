@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 1131
 born: "in England"
 died: "stoned to death on Good Friday 1131"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 6
   day: 12

@@ -12,7 +12,7 @@ born: "3 May 1861 in Mouscron, Hainault, Belgium as Flora Bracaval"
 died: "26 January 1935 in Arienzo, Caserta, Italy of natural causes"
 birthPlace: "Hainault, Belgium as Flora Bracaval"
 deathPlace: "Caserta, Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

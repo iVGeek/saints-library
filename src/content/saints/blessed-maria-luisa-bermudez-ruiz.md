@@ -9,7 +9,7 @@ born: "10 October 1893 in Subugueira, Coruña, Spain"
 died: "shot with a machinegun at dawn of 18 August 1936 in a lemon grove near the Benavites cemetery near Almenara, Valencia, Spain"
 birthPlace: "Coruña, Spain"
 deathPlace: "Valencia, Spain"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 8
   day: 18

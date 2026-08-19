@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-of-Narbo
 born: "in Spain of French immigrant parents"
 died: "interred near the main altar of the church at the convent of El Puig, Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 5
   day: 14

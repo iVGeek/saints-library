@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 170
 died: "170 at Smyrna (modern Izmir, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 27

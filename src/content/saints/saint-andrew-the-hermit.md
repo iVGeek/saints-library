@@ -5,7 +5,7 @@ summary: "Camaldolese hermit in Moravia and Hungary. Martyr."
 deathYear: 1020
 born: "Poland"
 died: "1020"
-region: "Poland"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 16

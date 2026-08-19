@@ -9,7 +9,7 @@ born: "11 July 1891 in Serrone, Frosinone, Italy"
 died: "18 July 1982 in Anzio Colonia, Rome, Italy of natural causes"
 birthPlace: "Frosinone, Italy"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 9
   day: 29

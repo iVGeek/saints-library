@@ -9,7 +9,7 @@ born: "21 January 1891 in Shiroka, Shkodrë, Albania"
 died: "tortured to death on 30 April 1948 in Shkodrë, Albania"
 birthPlace: "Shkodrë, Albania"
 deathPlace: "Albania"
-region: "England"
+region: "Austria"
 feastDay:
   month: 4
   day: 30

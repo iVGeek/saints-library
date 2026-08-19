@@ -11,7 +11,7 @@ born: "at Bunyoro, Uganda"
 died: "beheaded in 26 May 1886 at Munyonyo, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 26

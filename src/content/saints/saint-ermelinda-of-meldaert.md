@@ -12,7 +12,7 @@ born: "c.510 in Lovenjoel, Belgium"
 died: "c.590 in Meldaert, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 10
   day: 29

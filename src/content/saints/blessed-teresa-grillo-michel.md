@@ -12,7 +12,7 @@ born: "25 September 1855 in Spinetta Marengo, Alessandria, Italy as Maddalena Pa
 died: "25 January 1944 in Alessandria, Italy of natural causes"
 birthPlace: "Alessandria, Italy as Maddalena Parvopassau"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 25

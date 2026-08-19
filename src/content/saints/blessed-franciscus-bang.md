@@ -7,7 +7,7 @@ born: "Myeoncheon, Chungcheong-do, South Korea"
 died: "21 January 1799 in Hongju, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 21

@@ -5,7 +5,7 @@ summary: "Physcian. Priest in Sidon. Martyred in the persecutions of Diocletian.
 deathYear: 310
 died: "310 in Antioch (modern Antakya, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 2
   day: 20

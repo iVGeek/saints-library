@@ -11,7 +11,7 @@ born: "16 March 1840 in Santa Rosa de Río Primero, Córdoba, Argentina"
 died: "26 January 1914 in Villa del Tránsito, Córdoba, Argentina of leprosy"
 birthPlace: "Córdoba, Argentina"
 deathPlace: "Córdoba, Argentinaleprosy"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 1
   day: 26

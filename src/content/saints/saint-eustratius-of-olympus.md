@@ -5,7 +5,7 @@ summary: "Abbot of the Abgar Abby on Mount Olympus in Bithynia (modern Turkey)."
 searchAliases:
   - "Eustrate"
   - "Eustrazio"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 9

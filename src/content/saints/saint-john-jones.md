@@ -19,7 +19,7 @@ born: "1559 in Clynog-Fawr, Carnarvonshire, Wales"
 died: "hanged, drawn, and quartered in the early morning of 12 July 1598 at Southwark, London, England"
 birthPlace: "Carnarvonshire, Wales"
 deathPlace: "drawn, and quarteredthe early morning of 12 July 1598 at Southwark, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 12

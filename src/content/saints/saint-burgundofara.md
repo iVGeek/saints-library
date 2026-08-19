@@ -13,7 +13,7 @@ born: "595 in Burgundy, France"
 died: "643 or 655 or 657 near Meaux, France (records vary) of natural causes"
 birthPlace: "France"
 deathPlace: "France (records vary)natural causes"
-region: "Italy"
+region: "England"
 feastDay:
   month: 12
   day: 7

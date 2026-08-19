@@ -12,7 +12,7 @@ born: "1522 at Werden, the Netherlands"
 died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
 birthPlace: "the Netherlands"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 9

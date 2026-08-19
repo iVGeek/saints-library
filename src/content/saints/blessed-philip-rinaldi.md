@@ -12,7 +12,7 @@ born: "28 May 1856 at Lu, Monferrato, Piedmont, Italy"
 died: "5 December 1931 of natural causes in Turin, Italy"
 birthPlace: "Monferrato, Piedmont, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 5

@@ -7,7 +7,7 @@ searchAliases:
   - "Eugenio"
 deathYear: 300
 died: "6 March 300 in the Chersonese region of Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 4

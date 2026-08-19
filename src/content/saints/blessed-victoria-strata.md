@@ -15,7 +15,7 @@ deathYear: 1617
 born: "1562 at Genoa, Italy as Victoria Fornari"
 died: "15 December 1617 of natural causes"
 birthPlace: "Italy as Victoria Fornari"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 15

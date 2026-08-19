@@ -10,7 +10,7 @@ born: "c.1769 in Myeoncheon, Chungcheong-do, South Korea"
 died: "hanged on 3 April 1799 in Hongju, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 4
   day: 3

@@ -9,7 +9,7 @@ born: "2 January 1892 in Hatvan, Heves, Hungary"
 died: "4 March 1951 in Kistarcsa, Gödölloi, Hungary"
 birthPlace: "Heves, Hungary"
 deathPlace: "Gödölloi, Hungary"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 3
   day: 4

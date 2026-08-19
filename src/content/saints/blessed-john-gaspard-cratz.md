@@ -10,7 +10,7 @@ deathYear: 1737
 born: "15 September 1698 at Golzheim, Düren, Germany"
 died: "beheaded in 1737 in Tonkin (modern Vietnam)"
 birthPlace: "Düren, Germany"
-region: "Germany"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 12

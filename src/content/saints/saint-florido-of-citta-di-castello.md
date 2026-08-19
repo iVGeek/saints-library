@@ -12,7 +12,7 @@ born: "520 at Tiferno Tiber (modern Città di Castello), Italy"
 died: "13 November 599 at Pieve de 'Saddi, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 11
   day: 13

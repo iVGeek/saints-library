@@ -13,7 +13,7 @@ searchAliases:
   - "Milius"
   - "Sabellius"
 died: "c.98"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 22

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1959
 died: "23 March 1959 in a Communist prison camp at Leopoldov, Trnavský kraj, Slovakia of pneumonia"
 deathPlace: "Trnavský kraj, Slovakiapneumonia"
-region: "France"
+region: "Czech Republic"
 feastDay:
   month: 3
   day: 23

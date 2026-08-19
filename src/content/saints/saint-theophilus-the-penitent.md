@@ -5,7 +5,7 @@ summary: "Archdeacon and treasurer of the church in Adana, Cilicia (in modern Tu
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theophilus-the-Penitent.jpg"
 deathYear: 538
 died: "c.538"
-region: "France"
+region: "Turkey"
 feastDay:
   month: 2
   day: 4

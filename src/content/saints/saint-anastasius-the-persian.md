@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 628
 born: "in Persia as Magundat"
 died: "strangled and beheaded in 628 in Persia"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 22

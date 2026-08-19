@@ -11,7 +11,7 @@ born: "at Matelica, Italy"
 died: "beheaded on 1340 at Toringa (Tauris), Persia"
 birthPlace: "Italy"
 deathPlace: "Persia"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 9
   day: 5

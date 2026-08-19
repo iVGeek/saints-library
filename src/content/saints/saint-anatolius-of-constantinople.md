@@ -5,7 +5,7 @@ summary: "Patriarch of Constantinople from 449 to 458. Known for his simple, aus
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anatolius-of-Constantinople.jpg"
 deathYear: 458
 died: "458 of unknown circumstances"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 3

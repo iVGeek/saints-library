@@ -9,7 +9,7 @@ born: "15 March 1869 in Ponts, Diocese of Urgel, Noguera, Lleida, Spain"
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "DioceseUrgel, Noguera, Lleida, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 13

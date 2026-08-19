@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 304
 died: "c.304 in Anatolia, Asia Minor (modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 26

@@ -12,7 +12,7 @@ born: "at Borgo San Sepolcro (modern Sansepolcro), Italy"
 died: "c.1306 at Borgo San Sepolcro (modern Sansepolcro), Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "England"
 feastDay:
   month: 2
   day: 15

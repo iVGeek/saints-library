@@ -11,7 +11,7 @@ born: "30 December 1873 in Pirrera, Lipari, Messina, Italy"
 died: "21 February 1956 in Rome, Italy of natural causes"
 birthPlace: "Lipari, Messina, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 22

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Julian-and-Saint
 born: "Syrian"
 died: "Antioch, Syria of natural causes"
 deathPlace: "Syrianatural causes"
-region: "Spain"
+region: "Turkey"
 feastDay:
   month: 1
   day: 9

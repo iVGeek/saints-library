@@ -12,7 +12,7 @@ deathYear: 566
 born: "latter 5th century at Auvergne, France"
 died: "c.566 of natural causes"
 birthPlace: "France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 1

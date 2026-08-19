@@ -7,7 +7,7 @@ born: "at Bermondsey, Southwark, England"
 died: "hanged, drawn, and quartered on 8 August 1570 at Saint Paul's churchyard, London, England"
 birthPlace: "Southwark, England"
 deathPlace: "drawn, and quartered on 8 August 1570 at Saint Paul's churchyard, London, England"
-region: "France"
+region: "England"
 feastDay:
   month: 8
   day: 8

@@ -12,7 +12,7 @@ born: "c.1100 at Trier, Germany"
 died: "murdered in Oberwang, Austria in 15 January 1145"
 birthPlace: "Germany"
 deathPlace: "Austria15 January 1145"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 1
   day: 16

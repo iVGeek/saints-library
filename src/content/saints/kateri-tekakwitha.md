@@ -18,7 +18,7 @@ born: "1656"
 died: 17 April 1680
 birthPlace: Auriesville, New York, United States
 deathPlace: Kahnawake, Canada
-region: United States
+region: "Italy"
 centuries: [17]
 feastDay:
   month: 4

@@ -8,7 +8,7 @@ deathYear: 1247
 born: "France"
 died: "beheaded outside the city walls of Tunis, Tunisia in 1247"
 deathPlace: "Tunisia1247"
-region: "France"
+region: "Spain"
 feastDay:
   month: 2
   day: 6

@@ -11,7 +11,7 @@ born: "10 March 1790 in Verona, Italy"
 died: "2 August 1865 in Verona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

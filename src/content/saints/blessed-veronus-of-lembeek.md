@@ -7,7 +7,7 @@ searchAliases:
   - "Verono"
 deathYear: 863
 died: "c.863"
-region: "Belgium"
+region: "Germany"
 feastDay:
   month: 3
   day: 30

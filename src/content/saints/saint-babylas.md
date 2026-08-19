@@ -8,7 +8,7 @@ searchAliases:
   - "Babilas"
 deathYear: 260
 died: "of abuse and mistreatment in prisons c.260"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 24

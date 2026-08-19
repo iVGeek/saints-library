@@ -7,7 +7,7 @@ searchAliases:
 birthYear: 1745
 born: "12 August 1745 in Saint-Pierre de Chemillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 27

@@ -13,7 +13,7 @@ born: "1768 at Longping in Guizhou Province, China"
 died: "strangled to death on 7 November 1814 at Tsen-y-Fou, Su-Tchuen province, China"
 birthPlace: "China"
 deathPlace: "Su-Tchuen province, China"
-region: "England"
+region: "China"
 feastDay:
   month: 11
   day: 7

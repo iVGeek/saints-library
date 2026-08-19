@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 379
 died: "hit with a thrown roof tile at Dolikha, Syria in 379"
 deathPlace: "Syria379"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 22

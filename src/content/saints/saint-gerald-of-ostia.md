@@ -9,7 +9,7 @@ searchAliases:
   - "Gherardo"
 deathYear: 1077
 died: "1077"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 6

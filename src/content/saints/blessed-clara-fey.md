@@ -11,7 +11,7 @@ born: "11 April 1815 in Aachen, North Rhein-Westphalia, Germany"
 died: "8 May 1894 in Simpelveld, Limburg, Netherlands of natural causes"
 birthPlace: "North Rhein-Westphalia, Germany"
 deathPlace: "Limburg, Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 5
   day: 8

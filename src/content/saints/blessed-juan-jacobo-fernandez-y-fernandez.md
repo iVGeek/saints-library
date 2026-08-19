@@ -9,7 +9,7 @@ born: "25 July 1808 in Moire, Carballeda, Orense, Spain"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Carballeda, Orense, Spain"
 deathPlace: "Syria"
-region: "Spain"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

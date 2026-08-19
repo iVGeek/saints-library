@@ -18,7 +18,7 @@ born: 13 November 354
 died: 28 August 430
 birthPlace: Thagaste, North Africa
 deathPlace: Hippo, North Africa
-region: North Africa
+region: "Africa"
 centuries: [4, 5]
 feastDay:
   month: 8

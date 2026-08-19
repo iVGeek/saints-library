@@ -3,7 +3,7 @@ name: "Saint Lupus of Bayeux"
 honorific: Saint
 summary: "Fifth-century bishop of Bayeux, France."
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Loup-of-Bayeux.jpg"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 25

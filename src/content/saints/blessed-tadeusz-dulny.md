@@ -14,7 +14,7 @@ born: "8 August 1914 in Kszczonowice, Swietokrzyskie, Poland"
 died: "7 August 1942 in Dachau, Oberbayern, Germany of starvation"
 birthPlace: "Swietokrzyskie, Poland"
 deathPlace: "Oberbayern, Germanystarvation"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 6

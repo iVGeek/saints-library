@@ -12,7 +12,7 @@ born: "30 September 1629 at Loughenew, County Meath, Ireland"
 died: "hanged, drawn, and quartered on 1 July 1681 at Tyburn, England"
 birthPlace: "County Meath, Ireland"
 deathPlace: "drawn, and quartered on 1 July 1681 at Tyburn, England"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 1

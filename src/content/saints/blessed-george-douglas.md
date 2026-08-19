@@ -7,7 +7,7 @@ born: "Edinburgh, Scotland"
 died: "hanged, drawn, and quartered on 9 September 1587 in York, North Yorkshire, England"
 birthPlace: "Scotland"
 deathPlace: "drawn, and quartered on 9 September 1587York, North Yorkshire, England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 9
   day: 9

@@ -11,7 +11,7 @@ born: "3 May 1481 in Villa de Azana (modern Numancia de la Sagra), Spain"
 died: "3 May 1534 in Cubas de la Sagra, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 1
   day: 1

@@ -9,7 +9,7 @@ born: "15 February 1869 in Fiñana, Almeria Spain"
 died: "18 September 1936 in Cuesta de la Reina, Nacimiento, Almeria Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Nacimiento, Almeria Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 18

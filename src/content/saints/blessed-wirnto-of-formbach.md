@@ -11,7 +11,7 @@ deathYear: 1127
 born: "11th century"
 died: "10 March 1127 at Formbach, Bavaria, Germany of natural causes"
 deathPlace: "Bavaria, Germanynatural causes"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 3
   day: 10

@@ -7,7 +7,7 @@ born: "Castellammare di Stabia, Naples (in modern Italy)"
 died: "cut in two with a saw in 1364 in Gaza, Palestine"
 birthPlace: "Naples (modern Italy)"
 deathPlace: "Palestine"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 8

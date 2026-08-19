@@ -12,7 +12,7 @@ born: "14 March 1843 at La Capelle, diocese of Soissons, Nords, France"
 died: "12 August 1925 in Brussels, Belgium of natural causes"
 birthPlace: "dioceseSoissons, Nords, France"
 deathPlace: "Belgiumnatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 19

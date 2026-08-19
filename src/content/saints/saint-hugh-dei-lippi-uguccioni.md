@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1282
 died: "3 May 1282 at Mount Senario, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 17

@@ -27,7 +27,7 @@ searchAliases:
   - "Brolade"
   - "Broladre"
 died: "6th century of natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 1
   day: 19

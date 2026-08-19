@@ -8,7 +8,7 @@ searchAliases:
 born: "latter 7th century Ireland"
 died: "beheaded in the early 8th century at Ferfay, France"
 deathPlace: "France"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 10
   day: 23

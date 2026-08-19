@@ -6,7 +6,7 @@ deathYear: 1245
 born: "late 12th century Prussia (in modern Germany)"
 died: "4 December 1245 in Sulejow, Poland of natural causes"
 deathPlace: "Polandnatural causes"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 12
   day: 4

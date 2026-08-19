@@ -9,7 +9,7 @@ born: "26 November 1789 in San Sisto dei Valdesi, San Vincenzo La Costa, Cosenza
 died: "20 December 1849 in Paola, Cosenza, Italy of natural causes"
 birthPlace: "San Vincenzo La Costa, Cosenza, Italy"
 deathPlace: "Cosenza, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

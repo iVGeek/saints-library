@@ -16,7 +16,7 @@ born: "23 February 1891 in Borgo Vercelli, Vercelli, Italy"
 died: "23 November 1951 in Milan, Italy of natural causes"
 birthPlace: "Vercelli, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 11
   day: 23

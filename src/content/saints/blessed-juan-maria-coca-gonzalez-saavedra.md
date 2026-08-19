@@ -8,7 +8,7 @@ born: "24 December 1884 in Mairena del Alcor, Sevilla, Spain"
 died: "shot on 1 August 1936 in the municipal cemetery in Lora del Río, Sevilla, Spain"
 birthPlace: "Sevilla, Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 1

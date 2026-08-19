@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Trinidad-
 birthYear: 1887
 born: "4 June 1887 in Dolores Hidalgo, Guanajuato, Mexico"
 birthPlace: "Guanajuato, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 4
   day: 25

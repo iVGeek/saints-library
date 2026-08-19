@@ -10,7 +10,7 @@ born: "Rome, Italy"
 died: "beheaded c.261 in Bouhy, France"
 birthPlace: "Italy"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 16

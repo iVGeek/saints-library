@@ -10,7 +10,7 @@ born: "Rome, Italy"
 died: "thrown to wild animals but died from the effects of torture before they got to her, c.177 at Heraclea, Propontis (near modern Marmara Ereğlisi, Turkey)"
 birthPlace: "Italy"
 deathPlace: "c.177 at Heraclea, Propontis (near modern Marmara Ereğlisi, Turkey)"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 5
   day: 13

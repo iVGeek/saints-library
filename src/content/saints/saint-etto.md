@@ -8,7 +8,7 @@ deathYear: 654
 born: "c.590 in Ireland"
 died: "10 July 654 in Fusciau, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 7
   day: 10

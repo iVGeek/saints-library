@@ -12,7 +12,7 @@ deathYear: 405
 born: "330; Ethiopian ancestry"
 died: "murdered 405 by Berbers at Petra, Skete, Egypt"
 deathPlace: "Skete, Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 8
   day: 28

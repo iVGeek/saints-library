@@ -12,7 +12,7 @@ born: "c.1564 in Sassari, Italy"
 died: "flayed alive on 25 January 1603 in Algiers, Algeria"
 birthPlace: "Italy"
 deathPlace: "Algeria"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 25

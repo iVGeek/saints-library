@@ -17,7 +17,7 @@ searchAliases:
 deathYear: 635
 born: "Ireland"
 died: "c.635 of natural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 10
   day: 21

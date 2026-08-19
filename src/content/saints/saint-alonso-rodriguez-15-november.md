@@ -12,7 +12,7 @@ born: "14 September 1595 in Belmonte, Cuenca, Spain"
 died: "hacked to death with a hatchet on 15 November 1628 at Caaro, Brazil"
 birthPlace: "Cuenca, Spain"
 deathPlace: "Brazil"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 11
   day: 15

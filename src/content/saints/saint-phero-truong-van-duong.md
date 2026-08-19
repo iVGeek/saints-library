@@ -10,7 +10,7 @@ born: "c.1808 in Ke So, Hà Nam,  Vietnam"
 died: "martyred on 18 December 1838 in Son Tây, Ha Tay, Vietnam"
 birthPlace: "Hà Nam, Vietnam"
 deathPlace: "Ha Tay, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 18

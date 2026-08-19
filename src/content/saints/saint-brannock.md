@@ -9,7 +9,7 @@ searchAliases:
 born: "6th century Welsh"
 died: "buried at the monastery he founded at Braunton, Devonshire, England"
 deathPlace: "Devonshire, England"
-region: "France"
+region: "England"
 feastDay:
   month: 1
   day: 7

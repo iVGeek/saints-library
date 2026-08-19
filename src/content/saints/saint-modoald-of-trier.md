@@ -15,7 +15,7 @@ born: "Aquitaine, France"
 died: "640 in Trier, Germany of natural causes"
 birthPlace: "France"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 5
   day: 12

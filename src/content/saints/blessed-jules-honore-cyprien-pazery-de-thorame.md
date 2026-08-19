@@ -9,7 +9,7 @@ born: "16 September 1763 in Aix-en-Provence, Bouches-du-Rhône, France"
 died: "2 September 1792 at the Hôtel des Carmes, Paris, France"
 birthPlace: "Bouches-du-Rhône, France"
 deathPlace: "Paris, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 2

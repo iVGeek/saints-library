@@ -9,7 +9,7 @@ born: "1487 at Essex, England"
 died: "hanged, drawn, and quartered on 4 May 1535 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 4 May 1535 at Tyburn, London, England"
-region: "France"
+region: "England"
 feastDay:
   month: 5
   day: 4

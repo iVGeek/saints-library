@@ -9,7 +9,7 @@ born: "28 May 1902 in Zurgena, Almeria Spain"
 died: "1 September 1936 in Pozo de la Lagarta, Tabernas, Almeria Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Tabernas, Almeria Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 1

@@ -13,7 +13,7 @@ born: "c.1842 in Shuanzhong, Jizhou, Hebei, China"
 died: "6 July 1900 in Shuanzhong, Jizhou, Hebei, China"
 birthPlace: "Jizhou, Hebei, China"
 deathPlace: "Jizhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 6

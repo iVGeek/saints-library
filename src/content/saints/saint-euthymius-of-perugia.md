@@ -6,7 +6,7 @@ searchAliases:
   - "Eutimio"
 died: "4th century in Perugia, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 8
   day: 29

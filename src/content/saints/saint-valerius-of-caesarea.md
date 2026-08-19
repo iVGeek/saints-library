@@ -5,7 +5,7 @@ summary: "Archdeacon of Jerusalem. Martyred in the persecutions of Galerius."
 deathYear: 309
 died: "309 at Caesarea, Palestine"
 deathPlace: "Palestine"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 6
   day: 1

@@ -8,7 +8,7 @@ born: "in Sydonia, Crete"
 died: "863 at Studius monastery, Constantinople of natural causes"
 birthPlace: "Crete"
 deathPlace: "Constantinoplenatural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 4

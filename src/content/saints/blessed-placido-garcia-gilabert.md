@@ -9,7 +9,7 @@ born: "1 January 1895 in Benitachell, diocese of Valencia, Alicante, Spain as Mi
 died: "at dawn on 8 September 1936 in Castellón, Spain"
 birthPlace: "dioceseValencia, Alicante, Spain as Miguel"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 16

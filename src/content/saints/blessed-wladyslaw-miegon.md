@@ -12,7 +12,7 @@ born: "30 September 1892 in Samborzec, Swietokrzyskie, Poland"
 died: "15 September 1942 in the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Swietokrzyskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 9
   day: 15

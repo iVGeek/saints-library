@@ -13,7 +13,7 @@ born: "20 October 1836 in Guyonvelle, Haute-Marne, France"
 died: "beheaded on 30 March 1866 in Galmaemot, Boryeong, Chungcheong-do, South Korea"
 birthPlace: "Haute-Marne, France"
 deathPlace: "Boryeong, Chungcheong-do, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 3
   day: 30

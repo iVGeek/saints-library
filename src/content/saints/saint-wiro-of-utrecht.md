@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 753
 born: "British Isles (location varies from source to source)"
 died: "c.753 of natural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 5
   day: 8

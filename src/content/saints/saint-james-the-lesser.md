@@ -12,7 +12,7 @@ searchAliases:
   - "James, the brother of the Lord"
 died: "c.62 at Jerusalem by being thrown from a pinnacle of the Temple, then stoned and beaten with clubs, including fuller's mallets, while praying for his attackers"
 deathPlace: "then stoned and beaten with clubs, including fuller's mallets, while praying for his attackers"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 5
   day: 3

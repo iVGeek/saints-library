@@ -12,7 +12,7 @@ born: "21 December 1118 at London, England"
 died: "murdered on 29 December 1170 in the Cathedral at Canterbury, England"
 birthPlace: "England"
 deathPlace: "England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 29

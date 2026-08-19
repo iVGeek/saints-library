@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1590
 died: "hanged, drawn and quartered on 4 March 1590 in Fleet Street, London, England"
 deathPlace: "drawn and quartered on 4 March 1590Fleet Street, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 4

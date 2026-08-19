@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 304
 died: "put to the sword c.304 in Ancyra, Galatia (in modern Turkey)"
 deathPlace: "Galatia (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 18

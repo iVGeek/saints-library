@@ -8,7 +8,7 @@ born: "Gascony, France"
 died: "358 in Phrygia, Asia Minor (in modern Turkey)"
 birthPlace: "France"
 deathPlace: "Asia Minor (modern Turkey)"
-region: "France"
+region: "Germany"
 feastDay:
   month: 8
   day: 31

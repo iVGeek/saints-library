@@ -21,7 +21,7 @@ searchAliases:
 born: "in the village of Epibates, Thrace (modern Selimpaşa, Turkey), north shore of the Sea of Marmara"
 died: "at Katikratia of natural causes"
 birthPlace: "Thrace (modern Selimpaşa, Turkey), north shorethe Sea of Marmara"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 10
   day: 14

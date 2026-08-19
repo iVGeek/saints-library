@@ -9,7 +9,7 @@ born: "19 September 1888 in Alcoi, Alicante, Spain"
 died: "shot soon after 9am on 8 September 1936 in Alcoi, Alicante, Spain"
 birthPlace: "Alicante, Spain"
 deathPlace: "Alicante, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 8

@@ -11,7 +11,7 @@ born: "1240 at Treviso, Italy as Niccolo Boccasini"
 died: "7 July 1304 at Perugia, Italy of natural causes"
 birthPlace: "Italy as Niccolo Boccasini"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 7

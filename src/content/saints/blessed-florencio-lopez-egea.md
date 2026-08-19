@@ -9,7 +9,7 @@ born: "27 August 1883 in Tahal, Almeria Spain"
 died: "early morning hours of 17 August 1936 in La Higuerra del Conejo, Turre, Almeria Spain"
 birthPlace: "Almeria Spain"
 deathPlace: "Turre, Almeria Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 8
   day: 17

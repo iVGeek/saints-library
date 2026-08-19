@@ -9,7 +9,7 @@ born: "14 September 1947 in Okopy, Podlaskie, Poland"
 died: "kidnapped on 19 October 1984 by the Sluzba Bezpieczenstwa (Security Service of the Ministry of Internal Affairs), the Communist Polish secret police"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "the Communist Polish secret police"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 10
   day: 19

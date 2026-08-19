@@ -7,7 +7,7 @@ searchAliases:
   - "Ginés de la Xara"
   - "Ginés el Franco"
   - "Genesius Sciarensis"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 25

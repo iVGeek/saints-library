@@ -11,7 +11,7 @@ born: "c.1404 in Milan, Italy"
 died: "22 November 1486 in Lodi, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 22

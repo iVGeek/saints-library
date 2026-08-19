@@ -12,7 +12,7 @@ deathYear: 303
 born: "Armenia"
 died: "top of his head cut off and left to bleed to death in the street in Flanders, Belgium in 303"
 deathPlace: "Belgium303"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 7

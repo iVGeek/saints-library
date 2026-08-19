@@ -9,7 +9,7 @@ born: "30 December 1848 in Velez Rubio, Almer&iacute;a, Spain"
 died: "10 January 1918 in Madrid, Spain of natural causes"
 birthPlace: "Almer&iacute;a, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 9
   day: 24

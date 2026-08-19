@@ -5,7 +5,7 @@ summary: "Mercedarian friar. Bishop of Granada, Spain. Participated in the Counc
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Mercador.jpg"
 deathYear: 1450
 died: "beheaded c.1450"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 8

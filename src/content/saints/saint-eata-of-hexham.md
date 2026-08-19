@@ -6,7 +6,7 @@ searchAliases:
   - "Eata of Lindisfarne"
 deathYear: 686
 died: "c.686"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 10
   day: 26

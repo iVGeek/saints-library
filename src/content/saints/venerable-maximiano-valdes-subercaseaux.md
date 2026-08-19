@@ -10,7 +10,7 @@ born: "23 September 1908 in San Miguel, Santiago, Chile"
 died: "4 January 1982 in Pucón, Cautín, Chile"
 birthPlace: "Santiago, Chile"
 deathPlace: "Cautín, Chile"
-region: "England"
+region: "Chile"
 feastDay:
   month: 3
   day: 17

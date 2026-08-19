@@ -20,7 +20,7 @@ deathYear: 1010
 born: "c.980 in Opatowiec, Poland"
 died: "c.1010 of natural causes"
 birthPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 7
   day: 17

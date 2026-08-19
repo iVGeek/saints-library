@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/B%C3%A9n%C3%A9
 searchAliases:
   - "Narciso"
 born: "99"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 10
   day: 29

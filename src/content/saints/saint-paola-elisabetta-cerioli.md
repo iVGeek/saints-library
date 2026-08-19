@@ -15,7 +15,7 @@ born: "28 January 1816 in Soncino, Cremona, Italy as Constanse Honorata Cerioli"
 died: "24 December 1865 in Comonte di Seriate, Bergamo, Italy of natural causes"
 birthPlace: "Cremona, Italy as Constanse Honorata Cerioli"
 deathPlace: "Bergamo, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 24

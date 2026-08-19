@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1911
 died: "23 February 1911 in Rome, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 2
   day: 23

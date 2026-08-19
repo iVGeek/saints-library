@@ -11,7 +11,7 @@ born: "12 October 1880 at Boretto, Reggio Emilia, in northern Italy"
 died: "15 March 1951 of cancer at Bahia Blanca, Argentina"
 birthPlace: "Reggio Emilia,northern Italy"
 deathPlace: "Argentina"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 3
   day: 15

@@ -9,7 +9,7 @@ deathYear: 1093
 born: "c.1020 at Ratisbon, Germany"
 died: "1093 of natural causes"
 birthPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 14

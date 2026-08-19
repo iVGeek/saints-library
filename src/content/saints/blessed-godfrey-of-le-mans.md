@@ -5,7 +5,7 @@ summary: "Bishop of Le Mans, France in 1234. Founded the Charterhouse of Parc d'
 deathYear: 1255
 died: "1255 at Anagni, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 3

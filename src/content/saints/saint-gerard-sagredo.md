@@ -16,7 +16,7 @@ born: "23 April 980 in Venice, Italy"
 died: "stabbed to death with a lance on 24 September 1046 at Buda, Hungary"
 birthPlace: "Italy"
 deathPlace: "Hungary"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 9
   day: 24

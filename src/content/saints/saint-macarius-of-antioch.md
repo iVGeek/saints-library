@@ -15,7 +15,7 @@ born: "at Antioch, Pisidia"
 died: "1012 at monastery of Saint Bavo, Ghent, Belgium of the plague"
 birthPlace: "Pisidia"
 deathPlace: "Ghent, Belgiumthe plague"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 10

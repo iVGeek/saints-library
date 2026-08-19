@@ -12,7 +12,7 @@ born: "3rd century, of Arabic descent"
 died: "tortured and beheaded c.303 in Aegea, Cilicia (modern Ayas, Turkey)"
 birthPlace: "Arabic descent"
 deathPlace: "Cilicia (modern Ayas, Turkey)"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 9
   day: 26

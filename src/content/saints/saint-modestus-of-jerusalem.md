@@ -7,7 +7,7 @@ deathYear: 630
 born: "Sebasteia, Cappadocia (in modern Turkey)"
 died: "17 December 630 of natural causes"
 birthPlace: "Cappadocia (modern Turkey)"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 12
   day: 17

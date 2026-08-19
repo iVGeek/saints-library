@@ -9,7 +9,7 @@ born: "24 September 1869 in Rieti, Italy"
 died: "31 May 1941 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 6

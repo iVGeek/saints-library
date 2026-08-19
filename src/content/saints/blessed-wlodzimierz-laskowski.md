@@ -11,7 +11,7 @@ born: "30 January 1886 in Rogozno, Wielkopolskie, Poland"
 died: "beaten and kicked to death by a guard on 7 August 1940 in the concentration camp in Gusen, Langenstein, Austria"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Langenstein, Austria"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 8

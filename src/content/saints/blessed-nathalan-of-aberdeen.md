@@ -6,7 +6,7 @@ deathYear: 678
 born: "near Aberdeen, Scotland"
 died: "c.678"
 birthPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 8

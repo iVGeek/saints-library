@@ -9,7 +9,7 @@ searchAliases:
   - "Amma Talida"
   - "Diamant"
 died: "4th century in Egypt of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 5

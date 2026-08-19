@@ -13,7 +13,7 @@ deathYear: 1186
 born: "1105"
 died: "c.1186 at Sebourg, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

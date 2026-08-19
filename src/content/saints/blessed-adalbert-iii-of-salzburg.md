@@ -8,7 +8,7 @@ deathYear: 1200
 born: "1145 in Bohemia"
 died: "8 April 1200 in Salzburg, Austria of natural causes"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Czech Republic"
 feastDay:
   month: 4
   day: 23

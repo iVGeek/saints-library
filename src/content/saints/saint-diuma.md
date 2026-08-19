@@ -5,7 +5,7 @@ summary: "Missionary and evangelizing bishop in Mercia, England. The modern town
 deathYear: 658
 born: "Ireland"
 died: "658"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 12
   day: 7

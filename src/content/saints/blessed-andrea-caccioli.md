@@ -12,7 +12,7 @@ born: "30 November 1194 in Spello, Umbria, Papal States (in modern Italy)"
 died: "3 June 1254 in Spello, Umbria, Papal States (in modern Italy) of natural causes"
 birthPlace: "Umbria, Papal States (modern Italy)"
 deathPlace: "Umbria, Papal States (modern Italy) of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 3

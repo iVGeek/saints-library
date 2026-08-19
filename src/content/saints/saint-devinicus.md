@@ -8,7 +8,7 @@ searchAliases:
   - "Teavneck"
 born: "northern Scotland"
 died: "6th century"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 11
   day: 13

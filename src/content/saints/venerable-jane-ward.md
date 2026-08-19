@@ -11,7 +11,7 @@ born: "23 January 1585 in Mulwith, Yorkshire, England"
 died: "30 January 1645 in Hewarth, Yorkshire, England"
 birthPlace: "Yorkshire, England"
 deathPlace: "Yorkshire, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

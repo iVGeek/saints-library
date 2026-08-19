@@ -11,7 +11,7 @@ born: "c.1780 in Ke Bói, Hà Nam, Vietnam"
 died: "25 May 1857 in Son Tây, Ha Tay, Vietnam"
 birthPlace: "Hà Nam, Vietnam"
 deathPlace: "Ha Tay, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 25

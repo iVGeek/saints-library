@@ -8,7 +8,7 @@ born: "22 August 1721 in Saint-Mars-des-Prés, Vendée France"
 died: "10 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Vendée France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 10

@@ -15,7 +15,7 @@ deathYear: 1173
 born: "1110 at Polotsk, Belarus as Pradslava"
 died: "1173 at the monastery of Mar Saba near Jerusalem of natural causes"
 birthPlace: "Belarus as Pradslava"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 23

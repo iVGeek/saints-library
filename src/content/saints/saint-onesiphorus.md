@@ -8,7 +8,7 @@ searchAliases:
   - "Onesiforo"
 died: "torn apart by wild horses in Parium on the shores of the Hellespont (near modern Kemer, Turkey)"
 deathPlace: "Turkey)"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 6

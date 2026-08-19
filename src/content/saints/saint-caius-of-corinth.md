@@ -6,7 +6,7 @@ searchAliases:
   - "Caius of Thessalonica"
   - "Caio…"
   - "Gaius…"
-region: "England"
+region: "Greece"
 feastDay:
   month: 10
   day: 4

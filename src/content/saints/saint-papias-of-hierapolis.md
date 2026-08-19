@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png"
 searchAliases:
   - "Papia di Gerapoli"
 died: "early 2nd century"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 22

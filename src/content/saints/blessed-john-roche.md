@@ -9,7 +9,7 @@ deathYear: 1588
 born: "Irish"
 died: "hanged 1588 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 8
   day: 30

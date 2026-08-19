@@ -12,7 +12,7 @@ born: "1941 in Wamba, Orientale, Democratic Republic of Congo"
 died: "beaten to death on 1 December 1964 in Isiro, Orientale, Democratic Republic of Congo"
 birthPlace: "Orientale, Democratic RepublicCongo"
 deathPlace: "Orientale, Democratic RepublicCongo"
-region: "England"
+region: "Africa"
 feastDay:
   month: 12
   day: 1

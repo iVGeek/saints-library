@@ -12,7 +12,7 @@ born: "12 March 1808 in La Valla-en-Gier, Rhône, France as Gabriel Rivat"
 died: "2 January 1881 in Saint-Chamond, Loire, France of natural causes"
 birthPlace: "Rhône, France as Gabriel Rivat"
 deathPlace: "Loire, Francenatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 1

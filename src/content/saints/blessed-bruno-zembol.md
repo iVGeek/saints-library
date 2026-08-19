@@ -13,7 +13,7 @@ born: "7 September 1905 in Letownia, Malopolskie, Poland as Jan Zembol"
 died: "beaten to death on 21 August 1942 in the Dachau concentration camp, Oberbayern, Bavaria, Germany"
 birthPlace: "Malopolskie, Poland as Jan Zembol"
 deathPlace: "Oberbayern, Bavaria, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 21

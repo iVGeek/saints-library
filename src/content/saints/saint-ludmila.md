@@ -10,7 +10,7 @@ deathYear: 921
 born: "860 at Mielnik (in modern Poland)"
 died: "strangled by hired assassins at Tetin, Czech Republic on 15 September 921 on orders of her daughter-in-law due to her influence over Saint Wenceslaus"
 deathPlace: "Czech Republic on 15 September 921 on ordersher daughter-in-law due to her influence over Saint Wenceslaus"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 9
   day: 16

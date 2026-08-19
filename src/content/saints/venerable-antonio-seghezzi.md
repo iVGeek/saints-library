@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Seg
 deathYear: 1945
 died: "21 May 1945 at KZ Dachau, Obebayern, Germany of tuberculosis"
 deathPlace: "Obebayern, Germanytuberculosis"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 10
   day: 27

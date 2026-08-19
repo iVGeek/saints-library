@@ -9,7 +9,7 @@ born: "5 August 1897 in Alberique, Valencia, Spain"
 died: "shot on 15 October 1936 in the “dog bridge” area of Llosa de Ranes, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 15

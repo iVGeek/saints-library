@@ -11,7 +11,7 @@ deathYear: 1867
 born: "21 March 1797 in Annay la-Côte, Burgundy, France as Jean Bernard Rousseau"
 died: "13 April 1867 on Reunion Island of natural causes"
 birthPlace: "Burgundy, France as Jean Bernard Rousseau"
-region: "France"
+region: "India"
 feastDay:
   month: 4
   day: 13

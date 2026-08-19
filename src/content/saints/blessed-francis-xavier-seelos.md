@@ -13,7 +13,7 @@ born: "11 January 1819 at F&uuml;ssen, Bavaria, Germany"
 died: "4 October 1867 in New Orleans, Louisiana of yellow fever"
 birthPlace: "Bavaria, Germany"
 deathPlace: "Louisianayellow fever"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 5

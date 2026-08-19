@@ -11,7 +11,7 @@ born: "2 October 1894 in Shllak, Shkodër, Albania"
 died: "2 December 1947 in Shkodër, Albania"
 birthPlace: "Shkodër, Albania"
 deathPlace: "Albania"
-region: "France"
+region: "Austria"
 feastDay:
   month: 12
   day: 2

@@ -10,7 +10,7 @@ born: "17 July 1892 in Saint Luke, Holborn, London, England"
 died: "19 March 1941 in Stockholm, Sweden of cancer"
 birthPlace: "Holborn, London, England"
 deathPlace: "Swedencancer"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 1

@@ -10,7 +10,7 @@ born: "c.1756 at Phú Ða, Vietnam"
 died: "beheaded on 5 June 1840 in Hanoi, Vietnam"
 birthPlace: "Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 5

@@ -14,7 +14,7 @@ searchAliases:
   - "Father Cyrus"
 died: "beheaded in Canope, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 31

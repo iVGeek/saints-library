@@ -16,7 +16,7 @@ born: "907 at Prague, Bohemia (in Czech Republic)"
 died: "28 September 929 at Brandýs nad Labem-Stará Boleslav, Bohemia (in Czech Republic)"
 birthPlace: "Bohemia (Czech Republic)"
 deathPlace: "Bohemia (Czech Republic)"
-region: "Ireland"
+region: "Czech Republic"
 feastDay:
   month: 9
   day: 28

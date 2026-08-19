@@ -9,7 +9,7 @@ born: "30 January 1885 in Milas, Bistrita-Nasaud, archdiocese of Fagaras e Alba 
 died: "9 a.m. on 28 May 1970 at Coletina Hospital in Bucharest, Romania"
 birthPlace: "Bistrita-Nasaud, archdioceseFagaras e Alba Julia, Romania"
 deathPlace: "Romania"
-region: "Italy"
+region: "Hungary"
 feastDay:
   month: 5
   day: 28

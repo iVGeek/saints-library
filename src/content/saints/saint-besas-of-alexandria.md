@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 250
 died: "killed by a mob in 250 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 27

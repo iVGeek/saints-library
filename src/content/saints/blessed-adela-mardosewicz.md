@@ -12,7 +12,7 @@ born: "14 December 1888 in Kachanoviche, Nesvizh (a.k.a. Ciasnówka, Nieswiez), 
 died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts’, in Nazi occupied Belarus"
 birthPlace: "Nesvizh (a.k.a. Ciasnówka, Nieswiez), Minskaya voblasts’, Poland (nowBelarus) as Adela Mardosewicz"
 deathPlace: "Hrodzyenskaya voblasts’,Nazi occupied Belarus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 8
   day: 1

@@ -11,7 +11,7 @@ searchAliases:
   - "Simon the Zealot"
   - "Simon Zealotes"
 died: "Abyssinians claim he was crucified in Samaria"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 28

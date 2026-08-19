@@ -9,7 +9,7 @@ born: "29 March 1803 in Borjas, Gandía, Valencia, Spain"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Gandía, Valencia, Spain"
 deathPlace: "Syria"
-region: "Spain"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

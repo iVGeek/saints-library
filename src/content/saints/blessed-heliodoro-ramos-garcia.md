@@ -9,7 +9,7 @@ born: "29 October 1915 in Monleras, Salamanca, Spain"
 died: "shot on the evening of 6 December 1936 in Guadalajara, Spain"
 birthPlace: "Salamanca, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 12
   day: 6

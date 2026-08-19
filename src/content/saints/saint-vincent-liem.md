@@ -13,7 +13,7 @@ born: "c.1732 in Trà Lu, Nam Ðinh, Vietnam"
 died: "beheaded on 7 November 1773 in Ðong Mo, Ha Tay, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Ha Tay, Vietnam"
-region: "England"
+region: "Philippines"
 feastDay:
   month: 11
   day: 7

@@ -9,7 +9,7 @@ born: "22 December 1826 in Przedmiescie-Pratulin, Podlasie, Poland"
 died: "shot on 24 January 1874 by Russian soldiers in Podlasie, Poland"
 birthPlace: "Podlasie, Poland"
 deathPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 24

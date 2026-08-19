@@ -8,7 +8,7 @@ searchAliases:
   - "Alexandre…"
 deathYear: 1175
 died: "28 July 1175 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 29

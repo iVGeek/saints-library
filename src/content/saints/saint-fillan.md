@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 777
 born: "Ireland"
 died: "c.777 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 1

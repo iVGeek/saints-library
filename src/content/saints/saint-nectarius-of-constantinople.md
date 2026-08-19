@@ -6,7 +6,7 @@ deathYear: 397
 born: "Tarsus, Cilicia (in modern Turkey)"
 died: "17 September 397 of natural causes"
 birthPlace: "Cilicia (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 11

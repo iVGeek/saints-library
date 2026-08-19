@@ -20,7 +20,7 @@ born: "16 October 1829 in Biala Podlaska, Poland as Wenceslaus Kozminski"
 died: "16 December 1916 in Nowe Miasto nad Pilica, Grójec, Poland of natural causes"
 birthPlace: "Poland as Wenceslaus Kozminski"
 deathPlace: "Grójec, Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 12
   day: 16

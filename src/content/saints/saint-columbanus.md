@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 615
 died: "21 November 615 in a cave at Bobbio, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 11
   day: 23

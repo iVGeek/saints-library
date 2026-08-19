@@ -12,7 +12,7 @@ searchAliases:
   - "Monulfus"
 died: "early 7th century at Maastricht, Netherlands of natural causes"
 deathPlace: "Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 16

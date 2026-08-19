@@ -14,7 +14,7 @@ born: "29 June 1906 in Curitiba, Paraná, Brazil"
 died: "7 May 1963 in São Paulo, Brazil of a brain tumor"
 birthPlace: "Paraná, Brazil"
 deathPlace: "Brazila brain tumor"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

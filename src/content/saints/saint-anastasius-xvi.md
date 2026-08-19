@@ -8,7 +8,7 @@ searchAliases:
   - "Anastasius of Saint Sabas"
 deathYear: 797
 died: "797"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 20

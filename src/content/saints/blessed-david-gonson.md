@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1541
 died: "hanged, drawn and quartered on 12 July 1541 in Southwark, London, England"
 deathPlace: "drawn and quartered on 12 July 1541Southwark, London, England"
-region: "France"
+region: "England"
 feastDay:
   month: 7
   day: 12

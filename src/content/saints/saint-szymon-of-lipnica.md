@@ -14,7 +14,7 @@ born: "c.1437 in Lipnica Murowana, Malopolskie, Poland"
 died: "18 July 1482 in Kraków, Malopolskie, Poland during a plague epidemic"
 birthPlace: "Malopolskie, Poland"
 deathPlace: "Malopolskie, Poland during a plague epidemic"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 7
   day: 18

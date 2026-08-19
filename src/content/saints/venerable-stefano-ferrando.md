@@ -9,7 +9,7 @@ born: "28 September 1895 in Rossiglione, Genoa, Italy"
 died: "20 June 1978 in Genova-Quarto, Genoa, Italy of natural causes"
 birthPlace: "Genoa, Italy"
 deathPlace: "Genoa, Italynatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 3
   day: 18

@@ -14,7 +14,7 @@ deathYear: 1043
 born: "c.1020"
 died: "shot with an arrow c.1043 at Drammen, Drammen kommune, Buskerud fylke, Norway"
 deathPlace: "Drammen kommune, Buskerud fylke, Norway"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 5
   day: 15

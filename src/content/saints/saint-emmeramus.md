@@ -11,7 +11,7 @@ deathYear: 690
 born: "Poitiers, France"
 died: "killed c.690"
 birthPlace: "France"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 9
   day: 22

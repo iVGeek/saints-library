@@ -24,7 +24,7 @@ searchAliases:
 deathYear: 686
 born: "7th century Irish"
 died: "c.686 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 1
   day: 8

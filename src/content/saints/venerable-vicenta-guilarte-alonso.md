@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Vicenta-Gui
 birthYear: 1879
 born: "21 January 1879 in Rojas de Bureba, Burgos, Spain"
 birthPlace: "Burgos, Spain"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 10
   day: 25

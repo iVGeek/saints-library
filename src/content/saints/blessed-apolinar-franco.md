@@ -11,7 +11,7 @@ born: "1575 in Aguilar del Campo, Palencia, Spain"
 died: "burned alive on 12 September 1622 at Omura, Nagasaki, Japan"
 birthPlace: "Palencia, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 12

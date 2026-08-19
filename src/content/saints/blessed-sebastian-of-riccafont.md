@@ -4,7 +4,7 @@ honorific: Blessed
 title: "Missionary"
 summary: "Mercedarian missionary to India. He converted many and founded several Mercedarian houses."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastian-of-Riccafont.jpg"
-region: "Italy"
+region: "India"
 feastDay:
   month: 4
   day: 23

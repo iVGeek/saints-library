@@ -9,7 +9,7 @@ born: "23 April 1813 in Milan, Italy"
 died: "8 September 1853 in Marseilles, Bouches-du-Rhône, France of natural causes"
 birthPlace: "Italy"
 deathPlace: "Bouches-du-Rhône, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 8

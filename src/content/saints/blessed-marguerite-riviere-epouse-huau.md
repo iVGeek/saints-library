@@ -8,7 +8,7 @@ born: "20 August 1756 in La Ferrière-de-Flée, Maine-et-Loire, France"
 died: "1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

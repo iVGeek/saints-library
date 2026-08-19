@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 397
 born: "Cappadocia"
 died: "397 in Austria"
-region: "England"
+region: "Austria"
 feastDay:
   month: 5
   day: 29

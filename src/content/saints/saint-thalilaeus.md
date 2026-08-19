@@ -6,7 +6,7 @@ searchAliases:
   - "Epiklautos ( = weeping much, as he was known to cry when moved)"
   - "Thalelaeus"
 born: "Cilicia (modern Turkey)"
-region: "England"
+region: "Syria"
 feastDay:
   month: 2
   day: 27

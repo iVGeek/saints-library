@@ -12,7 +12,7 @@ deathYear: 1150
 born: "late 11th century in Vico, Liguria, Piedmont, Italy"
 died: "1150 of natural causes"
 birthPlace: "Liguria, Piedmont, Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 1

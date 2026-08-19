@@ -12,7 +12,7 @@ born: "16 April 1881 at Buenavista de Valdavia, Palencia, Spain"
 died: "shot on 7 February 1939 at “Can Tretze” of Pont de Molins, Gerona, Spain"
 birthPlace: "Palencia, Spain"
 deathPlace: "Gerona, Spain"
-region: "Spain"
+region: "China"
 feastDay:
   month: 2
   day: 7

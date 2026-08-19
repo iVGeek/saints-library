@@ -15,7 +15,7 @@ born: "23 April 1712 in Nattalam, Tamil Nadu, India"
 died: "shot by firing squad 14 January 1752 in Aralvaimozhi, Tamil Nadu, India"
 birthPlace: "Tamil Nadu, India"
 deathPlace: "Tamil Nadu, India"
-region: "France"
+region: "India"
 feastDay:
   month: 5
   day: 14

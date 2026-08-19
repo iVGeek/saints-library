@@ -17,7 +17,7 @@ born: "c.1096 at Roskilde, Denmark"
 died: "murdered in 1131 by his cousins Magnus Nielsen and Henry Skadelaar in the forest of Haraldsted near Ringsted in Zeeland, Denmark"
 birthPlace: "Denmark"
 deathPlace: "Denmark"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 7

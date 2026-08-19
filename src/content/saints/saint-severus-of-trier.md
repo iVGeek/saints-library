@@ -5,7 +5,7 @@ summary: "Spiritual student of Saint Germanus of Auxerre and Saint Lupos of Troy
 deathYear: 455
 born: "France"
 died: "c.455"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 15

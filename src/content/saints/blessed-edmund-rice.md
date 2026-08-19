@@ -12,7 +12,7 @@ born: "1 June 1762 in Westcourt, Callan, County Kilkenny, Ireland"
 died: "29 August 1844 at Mount Sion, Waterford, Ireland of natural causes"
 birthPlace: "Callan, County Kilkenny, Ireland"
 deathPlace: "Waterford, Irelandnatural causes"
-region: "Ireland"
+region: "Australia"
 feastDay:
   month: 8
   day: 29

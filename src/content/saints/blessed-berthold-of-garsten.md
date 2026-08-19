@@ -11,7 +11,7 @@ deathYear: 1142
 born: "c.1060"
 died: "27 July 1142 in Garsten, Upper Austria, Austria of natural causes"
 deathPlace: "Upper Austria, Austrianatural causes"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 7
   day: 27

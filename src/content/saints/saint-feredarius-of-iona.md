@@ -5,7 +5,7 @@ summary: "Monk. Abbot of Iona in Scotland in 863."
 deathYear: 863
 born: "Ireland"
 died: "c.863"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 5
   day: 18

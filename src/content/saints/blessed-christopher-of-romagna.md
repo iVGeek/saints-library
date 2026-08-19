@@ -13,7 +13,7 @@ born: "c.1172 in Romandiola, Italy"
 died: "31 October 1272 in Cahors, France of natural causes"
 birthPlace: "Italy"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 31

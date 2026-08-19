@@ -9,7 +9,7 @@ searchAliases:
   - "Chainoaldus"
 deathYear: 633
 died: "633"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 6

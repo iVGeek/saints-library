@@ -10,7 +10,7 @@ searchAliases:
 birthYear: 1866
 born: "9 April 1866 in La Fate, France as Anne-Francoise Moreau"
 birthPlace: "France as Anne-Francoise Moreau"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 8

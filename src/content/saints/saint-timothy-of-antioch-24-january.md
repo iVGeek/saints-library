@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Spiritual student of Saint Babylas of Antioch. Martyr."
 deathYear: 284
 died: "284 in Sicily"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 24

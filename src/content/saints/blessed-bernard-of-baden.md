@@ -14,7 +14,7 @@ born: "c.1428 in Hohenbaden Castle, Baden-Baden, Baden-Württemberg,"
 died: "15 July 1458 in Moncalieri, Italy of natural causes"
 birthPlace: "Baden-Baden, Baden-Württemberg,"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 15

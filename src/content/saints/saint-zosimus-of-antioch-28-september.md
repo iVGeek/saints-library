@@ -5,7 +5,7 @@ summary: "Layman. One of the Martyrs of Antioch."
 deathYear: 303
 died: "c.303 at Antioch, Pisidia (in modern Turkey)"
 deathPlace: "Pisidia (modern Turkey)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 9
   day: 28

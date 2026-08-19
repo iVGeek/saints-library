@@ -9,7 +9,7 @@ born: "1732 in Hongju, Chungcheong-do, South Korea"
 died: "28 January 1793 in Jeonju, Jeolla-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Jeolla-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 28

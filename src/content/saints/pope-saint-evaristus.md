@@ -10,7 +10,7 @@ searchAliases:
   - "Ewaryst"
 deathYear: 107
 died: "c.107"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 10
   day: 27

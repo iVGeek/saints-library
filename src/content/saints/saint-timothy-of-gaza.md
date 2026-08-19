@@ -5,7 +5,7 @@ summary: "Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Timothy-of-Gaza.jpg"
 deathYear: 304
 died: "burned alive in 304"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 19

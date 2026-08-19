@@ -13,7 +13,7 @@ born: "13 July 1900 at Santiago, Chile as Juanita Fernandez Solar"
 died: "12 April 1920 at the Carmelite convent at Los Andes, Chile of typhus"
 birthPlace: "Chile as Juanita Fernandez Solar"
 deathPlace: "Chiletyphus"
-region: "Ireland"
+region: "Chile"
 feastDay:
   month: 4
   day: 12

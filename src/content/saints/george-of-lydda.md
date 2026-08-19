@@ -17,7 +17,7 @@ born: c. 275
 died: c. 303
 birthPlace: Cappadocia, Turkey
 deathPlace: Lydda, Israel
-region: Holy Land
+region: "England"
 centuries: [3]
 feastDay:
   month: 4

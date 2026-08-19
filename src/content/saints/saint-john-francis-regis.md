@@ -15,7 +15,7 @@ born: "31 January 1597 at Font-Couverte, Narbonne, Languedoc, France"
 died: "31 December 1640 of pneumonia while preaching a mission at La Louvesc, Dauphine, France"
 birthPlace: "Narbonne, Languedoc, France"
 deathPlace: "Dauphine, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 31

@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1645
 died: "3 August 1645 in Yorkshire, England from the abuse received in prison"
 deathPlace: "Englandthe abuse received in prison"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 12
   day: 1

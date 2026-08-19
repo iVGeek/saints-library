@@ -14,7 +14,7 @@ deathYear: 885
 born: "826 at Thessalonica, Greece"
 died: "6 April 885 at Moravia (modern Czech Republic)"
 birthPlace: "Greece"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 2
   day: 14

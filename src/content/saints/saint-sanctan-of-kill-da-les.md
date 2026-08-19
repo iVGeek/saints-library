@@ -5,7 +5,7 @@ summary: "Son of King Sawyl Penuchel and Dechter. Sixth-century bishop of Kill-d
 searchAliases:
   - "Sanctain"
 born: "northern Britain"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 5
   day: 9

@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 824
 born: "Bithynia (in modern Turkey)"
 died: "824 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 3

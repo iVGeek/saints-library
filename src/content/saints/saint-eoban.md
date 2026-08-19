@@ -9,7 +9,7 @@ deathYear: 754
 born: "Ireland"
 died: "5 June 754 at Dokkum, Freisland (modern Netherlands)"
 deathPlace: "Freisland (modern Netherlands)"
-region: "Ireland"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 5

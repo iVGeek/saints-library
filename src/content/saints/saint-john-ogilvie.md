@@ -9,7 +9,7 @@ born: "1579 at Drum, Grampian, Scotland"
 died: "hanged 10 March 1615 at Glasgow, Scotland"
 birthPlace: "Grampian, Scotland"
 deathPlace: "Scotland"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 3
   day: 10

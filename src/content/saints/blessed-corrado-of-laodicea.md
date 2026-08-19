@@ -6,7 +6,7 @@ summary: "Mercedarian friar. Bishop of Laodicea, Syria. Zealous evangelist. Mira
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Corrado-of-Laodicea.jpg"
 searchAliases:
   - "Conrad"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 8
   day: 5

@@ -13,7 +13,7 @@ born: "1786 in Seoul, South Korea"
 died: "27 May 1839 in Seoul Prison, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 26

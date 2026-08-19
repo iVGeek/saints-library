@@ -10,7 +10,7 @@ searchAliases:
   - "Dionysius of…"
 deathYear: 258
 died: "beheaded c.258 at Montmarte (= mount of martyrs)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 9

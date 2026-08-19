@@ -11,7 +11,7 @@ born: "18 July 1863 in Cieszki, Lubowidz, Zuromin, Poland"
 died: "7 February 1916 in Kraków, Poland"
 birthPlace: "Lubowidz, Zuromin, Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 2
   day: 7

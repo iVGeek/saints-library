@@ -8,7 +8,7 @@ deathYear: 1936
 born: "29 January 1901 in Almeria Spain"
 died: "15 August 1936 on the beach of La Garrofa, Almeria, Spain"
 deathPlace: "Almeria, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 15

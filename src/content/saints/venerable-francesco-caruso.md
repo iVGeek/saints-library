@@ -11,7 +11,7 @@ born: "7 December 1879 in Gasperina, Catanzaro, Italy as Francesco Antonio Nicol
 died: "18 October 1951 in Gasperina, Catanzaro, Italy of natural causes"
 birthPlace: "Catanzaro, Italy as Francesco Antonio Nicola"
 deathPlace: "Catanzaro, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 18

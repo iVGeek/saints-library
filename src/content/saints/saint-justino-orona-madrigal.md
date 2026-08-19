@@ -9,7 +9,7 @@ born: "14 April 1877 in Cuyucapán, Atoyac, Jalisco, Mexico"
 died: "1 July 1928 in Las Cruces, Cuquío, Jalisco, Mexico"
 birthPlace: "Atoyac, Jalisco, Mexico"
 deathPlace: "Cuquío, Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 7
   day: 1

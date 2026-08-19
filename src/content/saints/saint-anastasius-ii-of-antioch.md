@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 609
 born: "6th century"
 died: "609"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 21

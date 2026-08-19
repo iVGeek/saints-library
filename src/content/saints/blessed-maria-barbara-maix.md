@@ -11,7 +11,7 @@ born: "27 June 1818 in Vienna, Austria"
 died: "17 March 1873 in Catumbi, Rio de Janeiro, Brazil of natural causes"
 birthPlace: "Austria"
 deathPlace: "Rio de Janeiro, Brazilnatural causes"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 3
   day: 17

@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 1157
 born: "French"
 died: "10 February 1157 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 10

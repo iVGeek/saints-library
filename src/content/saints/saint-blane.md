@@ -12,7 +12,7 @@ born: "6th century at Isle of Bute, Scotland"
 died: "c.590 at Kingarth, Isle of Bute, Scotland of natural causes"
 birthPlace: "Scotland"
 deathPlace: "IsleBute, Scotland of natural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 8
   day: 10

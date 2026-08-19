@@ -15,7 +15,7 @@ born: c. 1181
 died: 3 October 1226
 birthPlace: Assisi, Italy
 deathPlace: Assisi, Italy
-region: Italy
+region: "Peru"
 centuries: [12, 13]
 feastDay:
   month: 10

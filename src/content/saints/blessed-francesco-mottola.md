@@ -9,7 +9,7 @@ born: "3 January 1901 in Tropea, Vibo Valentia, Italy"
 died: "29 June 1969 in Tropea, Vibo Valentia, Italy of natural causes"
 birthPlace: "Vibo Valentia, Italy"
 deathPlace: "Vibo Valentia, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 29

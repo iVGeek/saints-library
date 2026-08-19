@@ -12,7 +12,7 @@ born: "17 July 1888 at Ruské Peklany, Prešov, Slovak Republic as Peter Gojdic"
 died: "17 July 1960 in the prison hospital at Leopoldov, Hlohovec, Slovak Republic of illness and maltreatment received in prison"
 birthPlace: "Prešov, Slovak Republic as Peter Gojdic"
 deathPlace: "Hlohovec, Slovak Republicillness and maltreatment received in prison"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 7
   day: 17

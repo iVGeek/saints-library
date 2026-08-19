@@ -12,7 +12,7 @@ born: "5 March 1848 at Casalmedinho, Ribafeita, diocese of Viseu, Portugal"
 died: "6 January 1913 in Casalmedinho, Ribafeita, diocese of Viseu, Portugal of natural causes"
 birthPlace: "Ribafeita, dioceseViseu, Portugal"
 deathPlace: "Ribafeita, dioceseViseu, Portugal of natural causes"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 1
   day: 6

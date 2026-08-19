@@ -12,7 +12,7 @@ born: "23 February 1881 at Oegeklooster, Friesland, Netherlands as Anno Sjoera B
 died: "martyred on 26 July 1942 by lethal injection in the concentration camp at Dachau, Bavaria, Germany"
 birthPlace: "Friesland, Netherlands as Anno Sjoera Brandsma"
 deathPlace: "Bavaria, Germany"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 26

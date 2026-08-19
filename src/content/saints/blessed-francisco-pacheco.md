@@ -12,7 +12,7 @@ born: "1566 in Ponte de Lima, Braga, Portugal"
 died: "burned at the stake on 20 June 1626 in Nagasaki, Japan"
 birthPlace: "Braga, Portugal"
 deathPlace: "Japan"
-region: "France"
+region: "Japan"
 feastDay:
   month: 6
   day: 20

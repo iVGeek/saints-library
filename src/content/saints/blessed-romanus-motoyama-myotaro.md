@@ -9,7 +9,7 @@ born: "Omura, Nagasaki, Japan"
 died: "27 November 1619 in Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 27

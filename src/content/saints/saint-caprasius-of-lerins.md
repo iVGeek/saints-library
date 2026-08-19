@@ -8,7 +8,7 @@ searchAliases:
   - "Caprasio"
 deathYear: 430
 died: "430 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 1

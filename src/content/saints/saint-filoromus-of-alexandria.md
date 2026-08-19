@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 311
 died: "c.311 in Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 2
   day: 4

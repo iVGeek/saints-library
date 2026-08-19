@@ -12,7 +12,7 @@ born: "11 March 1814 in Casoria, Naples, Italy as Arcangelo Palmentieri"
 died: "30 March 1885 in Naples, Italy of natural causes"
 birthPlace: "Naples, Italy as Arcangelo Palmentieri"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 3
   day: 30

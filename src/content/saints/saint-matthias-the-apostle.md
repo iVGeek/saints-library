@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Apostle. As he could bear witness to the Resurrection of Jesus, he was chosen to replace Judas Iscariot. Preached the Gospel for more than 30 years in Judea, Cappadocia, Egypt and Ethiopia. Remembered for preaching the need for mortification of the flesh with regard to all its se"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubens_apostle_Matthias_grt.jpg/960px-Rubens_apostle_Matthias_grt.jpg"
 died: "stoned to death at Colchis in 80"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 14

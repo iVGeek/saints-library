@@ -12,7 +12,7 @@ born: "c.1594 in Kuchinotsu, Japan"
 died: "beheaded on 12 July 1626 at Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 12

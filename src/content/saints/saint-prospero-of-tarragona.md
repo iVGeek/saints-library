@@ -7,7 +7,7 @@ deathYear: 715
 born: "Spain"
 died: "c.715 in Tarragona, Spain of natural causes"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 2

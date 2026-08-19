@@ -11,7 +11,7 @@ born: "29 August 1851 in Siena, Italy"
 died: "5:20pm on 18 April 1923 in Siena, Italy of cancer"
 birthPlace: "Italy"
 deathPlace: "Italycancer"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 4
   day: 18

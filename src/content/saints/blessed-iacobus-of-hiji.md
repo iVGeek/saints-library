@@ -8,7 +8,7 @@ born: "c.1615 in Hiji, Oita, Japan"
 died: "15 October 1619 in Hiji, Oita, Japan"
 birthPlace: "Oita, Japan"
 deathPlace: "Oita, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 15

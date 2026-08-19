@@ -16,7 +16,7 @@ deathYear: 740
 born: "in Northumbria, England"
 died: "c.740 of natural causes"
 birthPlace: "England"
-region: "Ireland"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 25

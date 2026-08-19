@@ -9,7 +9,7 @@ born: "1 October 1554 in Brecht, Belgium"
 died: "15 January 1623 in Louvain, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 1
   day: 1

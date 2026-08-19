@@ -9,7 +9,7 @@ born: "22 February 1899 in Taxco, Guerrero, Mexico"
 died: "shot in the head by a firing squad on 12 November 1927 in Tulimán, Guerrero, Mexico"
 birthPlace: "Guerrero, Mexico"
 deathPlace: "Guerrero, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 11
   day: 12

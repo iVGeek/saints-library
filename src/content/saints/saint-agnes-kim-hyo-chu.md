@@ -11,7 +11,7 @@ born: "1816 in Pamseom, Seoul, South Korea"
 died: "beheaded on 3 September 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Seoul, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 3

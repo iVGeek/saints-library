@@ -15,7 +15,7 @@ born: "1620 Chingle Hall near Preston, Lancashire, England"
 died: "hanged, drawn, and quartered on 22 August 1679 near Redhill, Corcester, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 22 August 1679 near Redhill, Corcester, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 22

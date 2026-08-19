@@ -12,7 +12,7 @@ born: "20 March 1532 at Seville, Spain"
 died: "6 January 1611 at the College of Corpus Christi, Valencia, Spain following a long illness"
 birthPlace: "Spain"
 deathPlace: "Valencia, Spafollowing a long illness"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 6

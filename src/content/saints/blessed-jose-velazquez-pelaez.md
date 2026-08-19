@@ -10,7 +10,7 @@ born: "9 July 1909 in Jardín, diocese of Jericó, Antioquia, Colombia"
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "dioceseJericó, Antioquia, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

@@ -16,7 +16,7 @@ born: "31 July 1796 at Noirmoutier, Vendée, France as Rose Virginie Pelletier"
 died: "24 April 1868 at Angers, Maine-et-Loire, France of natural causes"
 birthPlace: "Vendée, France as Rose Virginie Pelletier"
 deathPlace: "Maine-et-Loire, Francenatural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 4
   day: 24

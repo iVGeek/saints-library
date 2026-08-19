@@ -12,7 +12,7 @@ deathYear: 475
 born: "Lycia, Asia Minor"
 died: "c.475 of natural causes"
 birthPlace: "Asia Minor"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 3
   day: 5

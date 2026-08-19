@@ -14,7 +14,7 @@ born: "c.488 at Corca Bhaisin, County Clare, Ireland"
 died: "8 March 544 on Inish Cathaig, Ireland of natural causes"
 birthPlace: "County Clare, Ireland"
 deathPlace: "Irelandnatural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 3
   day: 8

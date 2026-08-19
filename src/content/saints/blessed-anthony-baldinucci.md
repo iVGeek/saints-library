@@ -8,7 +8,7 @@ deathYear: 1717
 born: "19 June 1665 in Florence, Italy"
 died: "6 November 1717 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 7

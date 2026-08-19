@@ -10,7 +10,7 @@ deathYear: 389
 born: "Cyprus"
 died: "389 in Apamea, Syria"
 deathPlace: "Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 8
   day: 14

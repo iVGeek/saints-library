@@ -11,7 +11,7 @@ born: "8 April 1756 in Saint-Mars-sur-la-Futaie, Mayenne, France"
 died: "guillotined on 13 March 1794 in Laval, Mayenne, France"
 birthPlace: "Mayenne, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 13

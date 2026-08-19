@@ -9,7 +9,7 @@ searchAliases:
   - "Theon"
 deathYear: 300
 died: "28 December 300 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 12
   day: 28

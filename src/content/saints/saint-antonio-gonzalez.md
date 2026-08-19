@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-Gonzále
 birthYear: 1593
 born: "1593 in León, Spain"
 birthPlace: "Spain"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 24

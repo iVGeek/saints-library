@@ -9,7 +9,7 @@ born: "4 July 1542 at Madrid, Spain"
 died: "20 July 1596 near Mexico City, Mexico of natural causes"
 birthPlace: "Spain"
 deathPlace: "Mexiconatural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 7
   day: 20

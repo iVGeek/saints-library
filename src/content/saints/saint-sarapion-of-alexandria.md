@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 300
 died: "drowned c.300 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 9
   day: 12

@@ -6,7 +6,7 @@ searchAliases:
   - "Atanasio"
 deathYear: 462
 died: "beheaded in 462"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 5

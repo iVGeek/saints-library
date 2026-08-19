@@ -9,7 +9,7 @@ born: "9 February 1899 in San Cristobál de Priero, Oviedo, Spain"
 died: "shot in the early morning hours of 31 August 1936 in the cemetery Aravaca, Madrid, Spain"
 birthPlace: "Oviedo, Spain"
 deathPlace: "Madrid, Spain"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 8
   day: 31

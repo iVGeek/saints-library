@@ -8,7 +8,7 @@ born: "c.1533 at Saint-Jean-Pied-de-Port, Pyrénées-Atlantiques (in modern Fran
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "Pyrénées-Atlantiques (modern France)"
 deathPlace: "Canary Islands"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 7
   day: 15

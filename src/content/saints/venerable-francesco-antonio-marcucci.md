@@ -9,7 +9,7 @@ born: "27 November 1717 in Force, Ascoli Piceno, Italy"
 died: "12 July 1798 in Montalto delle Marche, Ascoli Piceno, Italy of natural causes"
 birthPlace: "Ascoli Piceno, Italy"
 deathPlace: "Ascoli Piceno, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 25

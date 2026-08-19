@@ -9,7 +9,7 @@ deathYear: 978
 born: "Irish"
 died: "978 near Dinant, Belgium of natural causes"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 21

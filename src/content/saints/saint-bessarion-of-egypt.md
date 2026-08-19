@@ -2,7 +2,7 @@
 name: "Saint Bessarion of Egypt"
 honorific: Saint
 summary: "Fourth-century beggar pilgrim to holy places who finally settled to live as a hermit in the desert of Skete in Egypt."
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 6

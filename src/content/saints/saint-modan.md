@@ -8,7 +8,7 @@ searchAliases:
 born: "Ireland"
 died: "6th century at Dumbarton, Scotland of natural causes"
 deathPlace: "Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 2
   day: 4

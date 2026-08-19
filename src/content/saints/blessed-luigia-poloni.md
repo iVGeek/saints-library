@@ -11,7 +11,7 @@ born: "26 January 1802 in Verona, Italy"
 died: "11 November 1855 in Verona, Italy of cancer"
 birthPlace: "Italy"
 deathPlace: "Italycancer"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 11

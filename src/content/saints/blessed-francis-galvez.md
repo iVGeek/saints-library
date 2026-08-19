@@ -9,7 +9,7 @@ born: "at Utiel, New Castile, Spain"
 died: "burned to death on 4 December 1623 in Edo (modern Tokyo), Japan"
 birthPlace: "New Castile, Spain"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 12
   day: 4

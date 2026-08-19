@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 377
 born: "Mesopotamian"
 died: "377 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 17

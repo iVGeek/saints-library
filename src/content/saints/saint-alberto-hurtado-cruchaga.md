@@ -9,7 +9,7 @@ born: "22 January 1901 at Vina del Mar, Chile"
 died: "18 August 1952 at Santiago, Chile of pancreatic cancer"
 birthPlace: "Chile"
 deathPlace: "Chilepancreatic cancer"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 8
   day: 18

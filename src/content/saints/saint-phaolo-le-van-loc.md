@@ -11,7 +11,7 @@ born: "c.1830 in An Nhon, Gia Ðinh, Vietnam"
 died: "beheaded on 13 February 1859 at the city gates of Gia Ðinh, Vietnam"
 birthPlace: "Gia Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 2
   day: 13

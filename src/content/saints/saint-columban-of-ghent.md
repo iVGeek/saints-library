@@ -6,7 +6,7 @@ deathYear: 959
 born: "possibly Ireland"
 died: "959 at the Saint Bavon abbey in Ghent, Belgium"
 deathPlace: "Belgium"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 2
   day: 15

@@ -16,7 +16,7 @@ born: "1860 at Buganda, Uganda"
 died: "beheaded on 15 November 1885 at Nakivubo, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 15

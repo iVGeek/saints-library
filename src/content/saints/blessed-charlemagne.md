@@ -14,7 +14,7 @@ birthYear: 742
 deathYear: 814
 born: "2 April 742 Aix-la-Chapelle (in modern Germany"
 died: "28 January 814 at Aachen (in modern Germany) of natural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 28

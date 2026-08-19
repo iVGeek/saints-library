@@ -12,7 +12,7 @@ born: "11 August 1903 in Caracas, Venezuela"
 died: "9 May 1977 in Caracas, Venezuela of influenza"
 birthPlace: "Venezuela"
 deathPlace: "Venezuelainfluenza"
-region: "France"
+region: "Colombia"
 feastDay:
   month: 5
   day: 9

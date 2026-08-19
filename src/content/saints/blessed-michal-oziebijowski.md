@@ -9,7 +9,7 @@ born: "28 September 1900 in Izdebno Koscielne, Grodzisk Mazowiecki, Poland"
 died: "of starvation and abuse on 31 July 1942 at Dachau concentration camp in Oberbayern, Germany"
 birthPlace: "Grodzisk Mazowiecki, Poland"
 deathPlace: "Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 7
   day: 31

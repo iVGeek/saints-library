@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 563
 died: "c.563 at Iona Abbey, Scotland"
 deathPlace: "Scotland"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 10
   day: 27

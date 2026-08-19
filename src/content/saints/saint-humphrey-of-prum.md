@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 871
 born: "on the banks of the Meuse River"
 died: "871"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 8

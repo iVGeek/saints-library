@@ -5,7 +5,7 @@ summary: "Mercedarian friar at the convent of Santa Maria in Tolosa, Spain. Rans
 born: "French"
 died: "at the convent of Santa Maria in Tolosa, Spain of natural causes"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 5
   day: 24

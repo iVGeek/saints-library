@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Martyred in one of the early persecutions in Asia Minor."
 died: "at Tarsus, Cilicia, Asia Minor"
 deathPlace: "Cilicia, Asia Minor"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 27

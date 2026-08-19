@@ -12,7 +12,7 @@ born: "25 March 1825 at Lille, France"
 died: "7 February 1871 at Paris, France of cancer"
 birthPlace: "France"
 deathPlace: "Francecancer"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 7

@@ -7,7 +7,7 @@ birthYear: 1227
 deathYear: 1297
 born: "1227"
 died: "13 August 1297 of natural causes"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 8
   day: 13

@@ -12,7 +12,7 @@ born: "c.516 at Scotland, possibly at Clydeside"
 died: "c.570 at Houat, Brittany (in modern France)"
 birthPlace: "possibly at Clydeside"
 deathPlace: "Brittany (modern France)"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 1
   day: 29

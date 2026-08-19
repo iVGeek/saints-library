@@ -10,7 +10,7 @@ birthYear: 829
 deathYear: 901
 born: "829 near Constantinople"
 died: "12 February 901 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 12

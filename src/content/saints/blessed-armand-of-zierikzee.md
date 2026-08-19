@@ -7,7 +7,7 @@ deathYear: 1524
 born: "mid-15th century on Schouwen-Duiveland Island, Zeeland, Netherlands"
 died: "either 1524 or 1534 (records vary) in the Franciscan convent of Louvain (in modern Belgium) of natural causes"
 birthPlace: "Zeeland, Netherlands"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 6
   day: 8

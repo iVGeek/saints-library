@@ -7,7 +7,7 @@ born: "in Shropshire, England"
 died: "hanged, drawn and quartered on 28 May 1582 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn and quartered on 28 May 1582 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 28

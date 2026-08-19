@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elzbieta-Roza
 birthYear: 1876
 born: "22 October 1876 in Biala Cerkiew, Ukraine as Róza Czacka"
 birthPlace: "Ukraine as Róza Czacka"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 15

@@ -8,7 +8,7 @@ born: "28 October 1895 in Alájar, Huelva, Spain"
 died: "23 July 1936 in hospital in Huelva, Spain of blood loss after he was shot in the back"
 birthPlace: "Huelva, Spain"
 deathPlace: "Spaof blood loss after he was shot in the back"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 23

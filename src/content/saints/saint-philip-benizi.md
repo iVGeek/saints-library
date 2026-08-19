@@ -14,7 +14,7 @@ born: "15 August (Feast of the Assumption) 1233 at  district of Oltrarno, Floren
 died: "22 August (Octave of the Assumption) 1285 at Todi, Italy"
 birthPlace: "Florence, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 22

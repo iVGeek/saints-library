@@ -10,7 +10,7 @@ deathYear: 776
 born: "703 at Trier, Germany"
 died: "776 of natural causes"
 birthPlace: "Germany"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 8
   day: 25

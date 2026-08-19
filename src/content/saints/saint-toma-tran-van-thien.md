@@ -9,7 +9,7 @@ born: "c.1820 in Trung Quán, Quang Bình, Vietnam"
 died: "beaten and strangled on 21 September 1838 in Nhan Bieu, Quang Tri, Vietnam"
 birthPlace: "Quang Bình, Vietnam"
 deathPlace: "Quang Tri, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 9
   day: 21

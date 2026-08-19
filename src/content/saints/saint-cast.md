@@ -8,7 +8,7 @@ searchAliases:
   - "Kast"
 birthYear: 522
 born: "c.522 in Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 5

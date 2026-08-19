@@ -13,7 +13,7 @@ born: "4 February 1811 at La Mure, France"
 died: "1 August 1868 at La Mure, Isère, France following a stroke"
 birthPlace: "France"
 deathPlace: "Isère, France following a stroke"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 2

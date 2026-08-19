@@ -9,7 +9,7 @@ born: "28 July 1875 in Suchým Lesie, Pecice, Mazowieckie, Poland"
 died: "16 May 1942 in the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Pecice, Mazowieckie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 16

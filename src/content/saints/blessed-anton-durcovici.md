@@ -9,7 +9,7 @@ born: "17 May 1888 in Bad Deutsch-Altenburg, Horn, Austria"
 died: "21 December 1951 in Sighetu Marmatiei, Maramures, Romania of abuse while in prison"
 birthPlace: "Horn, Austria"
 deathPlace: "Maramures, Romaniaabuse while in prison"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 21

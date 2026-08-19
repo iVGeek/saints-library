@@ -11,7 +11,7 @@ born: "8 February 1906 in Stara Huta, Swiecie, Kujawsko-Pomorskie, diocese of Pe
 died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts', in Nazi occupied Belarus"
 birthPlace: "Swiecie, Kujawsko-Pomorskie, diocesePelplin, Poland"
 deathPlace: "Hrodzyenskaya voblasts',Nazi occupied Belarus"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 1

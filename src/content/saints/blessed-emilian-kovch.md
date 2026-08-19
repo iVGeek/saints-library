@@ -12,7 +12,7 @@ born: "20 August 1884 near Kosiv, Ivano-Frankivs’ka oblast, Ukraine"
 died: "gassed and burned on 25 March 1944 in the ovens of the Nazi death camp at Majdanek, Lubelskie, Poland"
 birthPlace: "Ivano-Frankivs’ka oblast, Ukraine"
 deathPlace: "Lubelskie, Poland"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 25

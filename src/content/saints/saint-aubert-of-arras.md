@@ -13,7 +13,7 @@ searchAliases:
   - "Obrecht…"
 deathYear: 669
 died: "c.669 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 13

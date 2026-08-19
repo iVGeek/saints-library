@@ -10,7 +10,7 @@ born: "3 December 1862 in Benavides de Orbigo, León, Spain"
 died: "25 July 1936 in Talavera de la Reina, Toledo, Spain"
 birthPlace: "León, Spain"
 deathPlace: "Toledo, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 25

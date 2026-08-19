@@ -9,7 +9,7 @@ born: "18 January 1914 in Chrozów, Poland"
 died: "guillotined at 12.15am on 3 December 1942 in Katowice, Poland"
 birthPlace: "Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 3

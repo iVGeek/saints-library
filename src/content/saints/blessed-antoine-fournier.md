@@ -11,7 +11,7 @@ born: "26 January 1736 in La Poitevinière, Maine-et-Loire, France"
 died: "shot on 12 January 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 12

@@ -8,7 +8,7 @@ born: "early 16th century in Barletta, Italy"
 died: "13 May 1580 San Thomé, East India of natural causes"
 birthPlace: "Italy"
 deathPlace: "East Indianatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 2
   day: 12

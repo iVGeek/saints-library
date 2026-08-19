@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 998
 born: "Armenia as Nicetas"
 died: "998 of natural causes"
-region: "England"
+region: "Greece"
 feastDay:
   month: 11
   day: 26

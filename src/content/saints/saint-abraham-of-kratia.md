@@ -7,7 +7,7 @@ deathYear: 558
 born: "c.474 at Emesa, Syria"
 died: "c.558 in Palestine"
 birthPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 6

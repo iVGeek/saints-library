@@ -13,7 +13,7 @@ born: "11 September 1849 in Imér, Trent, Italy"
 died: "24 March 1911 in Faicchio, Benevento, Italy"
 birthPlace: "Trent, Italy"
 deathPlace: "Benevento, Italy"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 3
   day: 24

@@ -13,7 +13,7 @@ born: "c.628 in Northumbria, England as Benet Biscop"
 died: "12 January 690 of natural causes at Wearmouth, England"
 birthPlace: "England as Benet Biscop"
 deathPlace: "England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 12

@@ -6,7 +6,7 @@ searchAliases:
   - "Marciano"
 deathYear: 480
 died: "c.480"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 10

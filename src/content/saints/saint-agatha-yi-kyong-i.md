@@ -11,7 +11,7 @@ born: "1814 near Seoul, South Korea"
 died: "31 January 1840 in Dangkogae, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 31

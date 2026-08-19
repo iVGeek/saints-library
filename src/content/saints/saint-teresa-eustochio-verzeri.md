@@ -11,7 +11,7 @@ born: "31 July 1801 at Bergamo, Lombardy, Italy as Ignazia Verzeri"
 died: "3 March 1852 at Brescia, Italy of natural causes"
 birthPlace: "Lombardy, Italy as Ignazia Verzeri"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 3
   day: 3

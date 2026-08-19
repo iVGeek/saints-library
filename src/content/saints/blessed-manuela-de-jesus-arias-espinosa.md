@@ -12,7 +12,7 @@ born: "7 July 1904 in Ixtlán del Rio, Nayarit, Mexico"
 died: "22 July 1981 in Rome, Italy of natural causes"
 birthPlace: "Nayarit, Mexico"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 7
   day: 22

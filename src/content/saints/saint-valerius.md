@@ -7,7 +7,7 @@ searchAliases:
   - "Beriher"
 deathYear: 680
 died: "c.680"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 9

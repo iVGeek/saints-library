@@ -3,7 +3,7 @@ name: "Saint Acepsimas"
 honorific: Saint
 summary: "Fifth century hermit. Lived 60 years in a cave near Cyrohas, Syria. Ordained when a very old man, shortly before his death."
 died: "5th century in Syria of natural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 11
   day: 3

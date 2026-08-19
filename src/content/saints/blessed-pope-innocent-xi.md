@@ -11,7 +11,7 @@ born: "19 May 1611 at Como, Italy as Benedetto Odescalchi"
 died: "12 August 1689 at Rome, Italy of natural causes"
 birthPlace: "Italy as Benedetto Odescalchi"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 12

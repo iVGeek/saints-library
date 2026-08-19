@@ -8,7 +8,7 @@ deathYear: 1167
 born: "c.1095 at Flanders, Belgium"
 died: "1167"
 birthPlace: "Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 4
   day: 18

@@ -8,7 +8,7 @@ born: "c.1560 in Osbaldeston, Lancashire, England</a."
 died: "hanged, drawn and quartered on 16 November 1594 at York, North Yorkshire, England"
 birthPlace: "Lancashire, England</a."
 deathPlace: "drawn and quartered on 16 November 1594 at York, North Yorkshire, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 16

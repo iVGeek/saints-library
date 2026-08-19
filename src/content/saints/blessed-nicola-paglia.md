@@ -14,7 +14,7 @@ born: "1197 in Giovinazzo, Bari, Italy"
 died: "1256 at the Dominican monastery in Perugia, Umbia, Italy of natural causes"
 birthPlace: "Bari, Italy"
 deathPlace: "Umbia, Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 2
   day: 16

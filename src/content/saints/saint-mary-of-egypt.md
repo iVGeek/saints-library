@@ -10,7 +10,7 @@ birthYear: 344
 deathYear: 421
 born: "c.344 in Egypt"
 died: "c.421 in the desert near the River Jordan of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 4
   day: 1

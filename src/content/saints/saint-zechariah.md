@@ -9,7 +9,7 @@ searchAliases:
   - "Zachary"
   - "Zakariya"
 died: "one tradition says he was murdered in the Temple when he refused to tell Herod where his son John could be found"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 9
   day: 23

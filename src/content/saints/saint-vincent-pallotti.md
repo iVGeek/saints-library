@@ -9,7 +9,7 @@ born: "21 April 1795 in Rome, Italy"
 died: "22 January 1850 in Rome, Italy from a severe cold"
 birthPlace: "Italy"
 deathPlace: "Italya severe cold"
-region: "Italy"
+region: "England"
 feastDay:
   month: 1
   day: 22

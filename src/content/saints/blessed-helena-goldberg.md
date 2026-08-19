@@ -11,7 +11,7 @@ born: "6 July 1882 in Dluzek, Nowy Targ, Poland"
 died: "shot on 2 May 1945 in Krzydlina Wielka, Wolów, Poland"
 birthPlace: "Nowy Targ, Poland"
 deathPlace: "Wolów, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 2

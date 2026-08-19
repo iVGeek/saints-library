@@ -9,7 +9,7 @@ born: "8 July 1924 in Raffadali, Agrigento, Italy"
 died: "27 December 1964 at Erira, Orientale (modern Democratic Republic of Congo) after having been attacked by Simba rebels on 11 December 1964"
 birthPlace: "Agrigento, Italy"
 deathPlace: "Orientale (modern Democratic RepublicCongo) after having been attacked by Simba rebels on 11 December 1964"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 12
   day: 27

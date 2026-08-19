@@ -9,7 +9,7 @@ born: "Nagasaki, Japan"
 died: "burned alive on 28 July 1633 on Nishizaka hill in Nagasaki, Japan, wrapped in a banner proclaiming his crime of Christianity"
 birthPlace: "Japan"
 deathPlace: "Japan, wrappeda banner proclaiming his crime of Christianity"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 28

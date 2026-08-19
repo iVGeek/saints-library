@@ -11,7 +11,7 @@ born: "26 November 1800 in Ponikva pri Žalcu, Savinjska, Slovenia"
 died: "24 September 1862 in Maribor, Podravska, Slovenia of natural causes"
 birthPlace: "Savinjska, Slovenia"
 deathPlace: "Podravska, Slovenianatural causes"
-region: "France"
+region: "Austria"
 feastDay:
   month: 9
   day: 24

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aemilian-of-Cyzi
 searchAliases:
   - "Emilian"
   - "Emiliano"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 8
   day: 8

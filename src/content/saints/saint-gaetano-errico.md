@@ -9,7 +9,7 @@ born: "19 October 1791 in Secondigliano, Naples, Italy"
 died: "10am 29 October 1860 in Secondigliano, Naples, Italy of natural causes"
 birthPlace: "Naples, Italy"
 deathPlace: "Naples, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 29

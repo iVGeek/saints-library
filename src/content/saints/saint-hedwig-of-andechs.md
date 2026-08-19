@@ -17,7 +17,7 @@ born: "1174 in Castle Andechs, Bavaria (part of modern Germany)"
 died: "15 October 1243 at at Trzebnica, Silesia (part of modern Poland)"
 birthPlace: "Bavaria (partmodern Germany)"
 deathPlace: "Silesia (partmodern Poland)"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 10
   day: 16

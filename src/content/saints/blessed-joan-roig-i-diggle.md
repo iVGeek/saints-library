@@ -9,7 +9,7 @@ born: "12 May 1917 in Barcelona, Spain"
 died: "shot multiple times over the night of 11 to 12 September 1936 in the cemetery of Sant Coloma de Gramenet, Barcelona, Spain"
 birthPlace: "Spain"
 deathPlace: "Barcelona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 11

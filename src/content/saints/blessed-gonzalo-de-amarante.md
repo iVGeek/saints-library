@@ -16,7 +16,7 @@ born: "1187 at Arriconha, Tagilde, Vizela, diocese of Braga, Portugal"
 died: "10 January 1259 at Amarante, Portugal of natural causes"
 birthPlace: "Tagilde, Vizela, dioceseBraga, Portugal"
 deathPlace: "Portugalnatural causes"
-region: "Portugal"
+region: "Brazil"
 feastDay:
   month: 1
   day: 10

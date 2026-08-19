@@ -12,7 +12,7 @@ born: "3 May 1888 at Mascota, Jalisco, Mexico"
 died: "hanged on 26 June 1927 at Quila, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 6
   day: 26

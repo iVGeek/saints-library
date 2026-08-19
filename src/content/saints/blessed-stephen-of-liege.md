@@ -4,7 +4,7 @@ honorific: Blessed
 summary: "Canon of Saint Denis, Liège, Belgium. Benedictine monk at Saint Vannes monastery, Verdun, France. Founded the monastery of Saint Laurence at Liège, and served as its first abbot."
 deathYear: 1061
 died: "1061 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 13

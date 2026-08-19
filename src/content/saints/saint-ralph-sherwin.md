@@ -9,7 +9,7 @@ born: "c.1550 at Rodsley, Derbyshire, England"
 died: "hanged, drawn, and quartered on 1 December 1581 at Tyburn, London, England"
 birthPlace: "Derbyshire, England"
 deathPlace: "drawn, and quartered on 1 December 1581 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

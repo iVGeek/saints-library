@@ -12,7 +12,7 @@ born: "24 January 1540 at London, England"
 died: "hanged, drawn, and quartered on 1 December 1581 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 1 December 1581 at Tyburn, London, England"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 12
   day: 1

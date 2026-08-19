@@ -12,7 +12,7 @@ born: "c.1850 in Dongertou, Yongnian, Hebei, China"
 died: "8 July 1900 in Dongertou, Yongnian, Hebei, China"
 birthPlace: "Yongnian, Hebei, China"
 deathPlace: "Yongnian, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 8

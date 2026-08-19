@@ -9,7 +9,7 @@ born: "30 March 1865 at Ravadese, Parma, Italy"
 died: "5 November 1931 in Parma, Italy of natural causes"
 birthPlace: "Parma, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "China"
 feastDay:
   month: 11
   day: 5

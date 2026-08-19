@@ -7,7 +7,7 @@ searchAliases:
   - "Giona…"
 born: "latter 8th century in the area of Moabitide near the Dead Sea"
 died: "early 9th century at the Grand Laura of San Sabas in the Kidron Valley in Palestine of natural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 9
   day: 21

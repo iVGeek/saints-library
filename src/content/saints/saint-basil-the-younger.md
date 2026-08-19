@@ -5,7 +5,7 @@ summary: "Hermit near Constantinople. Being a foreigner, and being odd in his ap
 deathYear: 952
 died: "952 near Constantinople (modern Istanbul, Turkey) of natural causes"
 deathPlace: "Turkey)natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 26

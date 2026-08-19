@@ -14,7 +14,7 @@ born: "1385 in Sarteano, Tuscany, Italy"
 died: "15 August 1450 in Milan, Italy of natural causes"
 birthPlace: "Tuscany, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 15

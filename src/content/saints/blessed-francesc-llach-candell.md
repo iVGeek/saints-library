@@ -9,7 +9,7 @@ born: "7 December 1889 in Torelló, Barcelona, Spain"
 died: "25 August 1936 in Vila-rodona, Tarragona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Tarragona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 25

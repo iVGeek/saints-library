@@ -9,7 +9,7 @@ born: "30 May 1905 in Manresa, Barcelona, Spain"
 died: "31 August 1950 in his clinic in Barcelona, Spain of lymphoblastic lymphosarcoma"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Spaof lymphoblastic lymphosarcoma"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 31

@@ -9,7 +9,7 @@ born: "16 November 1917 in Dushkul, Mali Shëngjinit, Lezhë, Albania"
 died: "shot on 12 May 1959 in Shkodrë, Albania"
 birthPlace: "Mali Shëngjinit, Lezhë, Albania"
 deathPlace: "Albania"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 12

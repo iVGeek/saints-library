@@ -9,7 +9,7 @@ born: "21 May 1903 in Poznan, Wielkopolskie, Poland"
 died: "shot on Good Friday 22 March 1940 in a field outside the Stutthof concentration camp near Sztutowo, Pomorskie, Poland"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Pomorskie, Poland"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 3
   day: 22

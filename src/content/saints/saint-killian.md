@@ -19,7 +19,7 @@ deathYear: 689
 born: "c.640 in Mullagh, County Cavan, Ireland"
 died: "beheaded on 8 July 689"
 birthPlace: "County Cavan, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 8

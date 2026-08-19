@@ -5,7 +5,7 @@ summary: "Bishop of Scara West Gothland, Sweden for 38 years."
 deathYear: 1317
 born: "Sweden"
 died: "6 February 1317 of natural causes"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 5
   day: 9

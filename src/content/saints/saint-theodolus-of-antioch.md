@@ -5,7 +5,7 @@ summary: "Priest in Antioch, Syria. No other information has survived."
 searchAliases:
   - "Theodore"
   - "Theodoricus"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 23

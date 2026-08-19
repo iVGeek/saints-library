@@ -5,7 +5,7 @@ summary: "Chaplain to King Saint Louis IX. Accompanied the king on Crusade. Bish
 searchAliases:
   - "Egidio"
   - "Gilles"
-region: "Belgium"
+region: "Egypt"
 feastDay:
   month: 4
   day: 23

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1569
 died: "10 May 1569 at Montilla, Provincia de Córdoba, Andalucia, Spain of natural causes"
 deathPlace: "Provincia de Córdoba, Andalucia, Spaof natural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 5
   day: 10

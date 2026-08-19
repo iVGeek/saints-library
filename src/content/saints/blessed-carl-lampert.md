@@ -9,7 +9,7 @@ born: "9 January 1894 in Göfis, Feldkirch, Austria"
 died: "guillotined on 13 November 1944 in Halle an der Saale, Germany"
 birthPlace: "Feldkirch, Austria"
 deathPlace: "Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 11
   day: 13

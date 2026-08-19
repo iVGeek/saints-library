@@ -11,7 +11,7 @@ born: "16 August 1870 in Civitella (modern Bellegra), Rome, Italy"
 died: "Easter Sunday, 25 March 1951 in the convent of San Francesco a Ripa in Rome, Italy of natural causes"
 birthPlace: "Rome, Italy"
 deathPlace: "25 March 1951the convent of San Francesco a Ripa in Rome, Italy of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 13

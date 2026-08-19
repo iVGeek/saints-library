@@ -5,7 +5,7 @@ summary: "First century leader of the synagogue at Corinth. Convert, led to the 
 searchAliases:
   - "Sosthenes of Corinth"
   - "Sostene…"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 11
   day: 28

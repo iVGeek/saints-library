@@ -25,7 +25,7 @@ deathYear: 760
 born: "Burgundy, France"
 died: "760"
 birthPlace: "France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 11

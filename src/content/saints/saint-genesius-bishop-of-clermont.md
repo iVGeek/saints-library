@@ -7,7 +7,7 @@ searchAliases:
   - "Genet"
 deathYear: 662
 died: "662 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 3

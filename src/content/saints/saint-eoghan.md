@@ -14,7 +14,7 @@ deathYear: 618
 born: "6th century in Leinster, Ireland"
 died: "c.618 of natural causes"
 birthPlace: "Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 8
   day: 23

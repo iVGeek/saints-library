@@ -9,7 +9,7 @@ born: "9 December 1846 in Guzów, Poland"
 died: "10 September 1933 in Warsaw, Poland of natural causes"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 1
   day: 1

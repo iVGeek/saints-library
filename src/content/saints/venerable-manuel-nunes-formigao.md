@@ -9,7 +9,7 @@ born: "1 January 1883 in Tomar, Coimbra, Portugal"
 died: "30 January 1958 in Fátima, Coimbra, Portugal of natural causes"
 birthPlace: "Coimbra, Portugal"
 deathPlace: "Coimbra, Portugalnatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 6
   day: 6

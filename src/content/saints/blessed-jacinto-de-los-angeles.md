@@ -9,7 +9,7 @@ born: "c.1660 – 1663 in San Francisco Cajonos, Oaxaca, Mexico"
 died: "hacked to death by a mob on the evening of 15 September 1700 in San Francisco Cajonos, Oaxaca, Mexico"
 birthPlace: "Oaxaca, Mexico"
 deathPlace: "Oaxaca, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 9
   day: 15

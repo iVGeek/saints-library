@@ -9,7 +9,7 @@ born: "26 March 1805 in Côte-des-Neiges, Montréal, Canada"
 died: "at 2:15am on Easter morning, Sunday 9 April 1871 in Québec, Canada of cancer"
 birthPlace: "Montréal, Canada"
 deathPlace: "Sunday 9 April 1871Québec, Canada of cancer"
-region: "Japan"
+region: "Africa"
 feastDay:
   month: 5
   day: 6

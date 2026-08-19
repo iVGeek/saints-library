@@ -8,7 +8,7 @@ born: "c.1591 in Fukae, Japan"
 died: "12 July 1626 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 12

@@ -11,7 +11,7 @@ born: "c.1853 in Hui, Zaoqiang, Hebei, China"
 died: "end of July 1900 in Dayin, Zaoqiang, Hebei, China"
 birthPlace: "Zaoqiang, Hebei, China"
 deathPlace: "Zaoqiang, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 30

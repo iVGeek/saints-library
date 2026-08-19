@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1071
 died: "1071 in Ypres, Flanders, Belgium"
 deathPlace: "Flanders, Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 9
   day: 8

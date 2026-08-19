@@ -11,7 +11,7 @@ born: "15 March 1841 in San Lorendo di Trevi, Perugia, Italy"
 died: "5 January 1935 in Spoleto, Perugia, Italy of natural causes"
 birthPlace: "Perugia, Italy"
 deathPlace: "Perugia, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 5

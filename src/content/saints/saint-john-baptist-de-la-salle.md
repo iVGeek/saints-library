@@ -11,7 +11,7 @@ born: "30 April 1651 at Rheims, France"
 died: "7 April 1719 at Saint-Yon, Rouen, France of natural causes"
 birthPlace: "France"
 deathPlace: "Rouen, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 7

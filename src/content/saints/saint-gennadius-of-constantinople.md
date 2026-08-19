@@ -2,7 +2,7 @@
 name: "Saint Gennadius of Constantinople"
 honorific: Saint
 summary: "Priest, bishop and Patriarch of Constantinople from 458 to 471. Known for his learning, his biblical scholarship, and as a great speaker. Fought heresies of the period, and simony. Legend says he would not ordain a new priest until the candidate could recite the Psalms by heart."
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 8
   day: 25

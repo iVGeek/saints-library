@@ -9,7 +9,7 @@ born: "27 August 1881 in San Miguel el Alto, Jalisco, Mexico"
 died: "4 July 1967 in Tepatitlán, Jalisco, Mexico of natural causes"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexiconatural causes"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 8
   day: 2

@@ -6,7 +6,7 @@ searchAliases:
   - "Fagildus"
 deathYear: 1086
 died: "1086 of natural causes"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 7
   day: 25

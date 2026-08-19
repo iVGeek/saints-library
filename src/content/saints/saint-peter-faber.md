@@ -16,7 +16,7 @@ born: "13 April 1506 at Villaret, Savoy"
 died: "1 August 1546 at Rome, Italy of natural causes"
 birthPlace: "Savoy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 8
   day: 1

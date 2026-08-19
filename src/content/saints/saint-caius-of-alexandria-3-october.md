@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 257
 died: "in 257 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 3

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 310
 died: "torn by iron hooks in 310 in Antioch (modern Antakya, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Lebanon"
 feastDay:
   month: 2
   day: 20

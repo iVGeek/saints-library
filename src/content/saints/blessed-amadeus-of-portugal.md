@@ -14,7 +14,7 @@ deathYear: 1482
 born: "1420 in Morocco as João de Menezes da Silva"
 died: "10 August 1482 in Milan, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Portugal"
 feastDay:
   month: 8
   day: 10

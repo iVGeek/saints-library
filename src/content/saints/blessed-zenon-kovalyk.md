@@ -14,7 +14,7 @@ born: "18 August 1903 at Ivakhiv,  Ternopil’s’ka oblast’, Ukraine"
 died: "crucified against a wall by Communists in June 1941 at Bryhidky prison, Zamarstynivska Street, Lviv, L’vivs’ka oblast’, Ukraine"
 birthPlace: "Ternopil’s’ka oblast’, Ukraine"
 deathPlace: "Zamarstynivska Street, Lviv, L’vivs’ka oblast’, Ukraine"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 6
   day: 30

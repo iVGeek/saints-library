@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Celsus-and-Saint
 deathYear: 302
 died: "c.302 at Antioch, Syria"
 deathPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 9

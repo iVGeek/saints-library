@@ -6,7 +6,7 @@ searchAliases:
   - "Herodion"
 deathYear: 136
 died: "c.136"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 17

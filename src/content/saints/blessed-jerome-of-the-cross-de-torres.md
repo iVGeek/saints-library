@@ -13,7 +13,7 @@ born: "Nagasaki, Japanese"
 died: "scalded in boiling water and then burned alive on 3 September 1632 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Japanese"
 deathPlace: "Nagasaki, Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 9
   day: 3

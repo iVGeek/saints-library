@@ -14,7 +14,7 @@ born: "c.1590 in Sérignan, Languedoc, France"
 died: "29 September 1637 at Nishizaka, Nagasaki, Japan"
 birthPlace: "Languedoc, France"
 deathPlace: "Nagasaki, Japan"
-region: "France"
+region: "Japan"
 feastDay:
   month: 9
   day: 29

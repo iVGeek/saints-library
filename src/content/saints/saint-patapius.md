@@ -11,7 +11,7 @@ searchAliases:
   - "Patapio…"
 born: "Egypt"
 died: "7th century of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 8

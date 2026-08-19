@@ -11,7 +11,7 @@ born: "c.1225 in Saludécio, Rimini, Italy"
 died: "8 May 1292 in Saludécio, Rimini, Italy of natural causes"
 birthPlace: "Rimini, Italy"
 deathPlace: "Rimini, Italynatural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 5
   day: 8

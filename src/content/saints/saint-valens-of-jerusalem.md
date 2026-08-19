@@ -5,7 +5,7 @@ summary: "Deacon in Jerusalem. Imprisoned and sentenced to forced labour in the 
 deathYear: 309
 died: "309 in Cilicia, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 2
   day: 16

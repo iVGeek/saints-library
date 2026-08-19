@@ -13,7 +13,7 @@ born: "c.950 in Flanders, Belgium"
 died: "21 April 1021 in Liège, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 4
   day: 21

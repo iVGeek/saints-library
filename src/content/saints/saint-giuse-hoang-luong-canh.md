@@ -12,7 +12,7 @@ born: "c.1763 in Làng Van, Bac Giang, Vietnam"
 died: "beheaded on 5 September 1838 in Bac Ninh Tai, Vietnam"
 birthPlace: "Bac Giang, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 9
   day: 5

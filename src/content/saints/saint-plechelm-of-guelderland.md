@@ -12,7 +12,7 @@ deathYear: 730
 born: "Anglo-Saxon from Northumbria, England"
 died: "c.730 while preaching"
 birthPlace: "England"
-region: "Italy"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 15

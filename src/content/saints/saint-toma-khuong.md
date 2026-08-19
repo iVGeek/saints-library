@@ -11,7 +11,7 @@ born: "c.1789 in Nam Hòa, Hung Yên, Tonquín (modern Vietnam)"
 died: "beheaded with an ax on 30 January 1860 in prison in Hung Yên, Vietnam while kneeling before a cross he had been ordered to stomp on"
 birthPlace: "Hung Yên, Tonquín (modern Vietnam)"
 deathPlace: "Vietnam while kneeling before a cross he had been ordered to stomp on"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 1
   day: 30

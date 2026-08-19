@@ -8,7 +8,7 @@ born: "c.1530 in Ulster, Armagh, Ireland"
 died: "hanged on 1 February 1611 in Dublin, Ireland"
 birthPlace: "Armagh, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 2
   day: 1

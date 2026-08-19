@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 510
 died: "17 January 510 at the monastery of Saint-Maurice, La Roquette, Montmeyan, France of natural causes"
 deathPlace: "La Roquette, Montmeyan, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 17

@@ -9,7 +9,7 @@ deathYear: 1075
 born: "11th century"
 died: "1075 near Nora, Uppsala region of Sweden"
 deathPlace: "Uppsala regionSweden"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 6
   day: 2

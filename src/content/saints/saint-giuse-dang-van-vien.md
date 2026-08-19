@@ -11,7 +11,7 @@ born: "c.1787 in Tiên Chu, Hung Yên, Vietnam"
 died: "beheaded on 21 August 1838 in Bay Mau, Hanoi, Vietnam"
 birthPlace: "Hung Yên, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 8
   day: 21

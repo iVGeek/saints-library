@@ -9,7 +9,7 @@ born: "5 June 1889 in Moreda, Granada, Spain"
 died: "7 March 1937 in Sierra Nevada, Granada, Spain"
 birthPlace: "Granada, Spain"
 deathPlace: "Granada, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 3
   day: 7

@@ -13,7 +13,7 @@ searchAliases:
   - "Tikhon…"
 deathYear: 425
 died: "c.425"
-region: "England"
+region: "Peru"
 feastDay:
   month: 6
   day: 16

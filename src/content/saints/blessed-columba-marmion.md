@@ -13,7 +13,7 @@ born: "1 April (Holy Thursday) 1858 at 57 Queen Street, Dublin, Ireland as Josep
 died: "30 January 1923 at Maredsous Abbey, Denée, Namur, Belgium of influenza"
 birthPlace: "Dublin, Ireland as Joseph Aloysius Marmion"
 deathPlace: "Denée, Namur, Belgiuminfluenza"
-region: "Italy"
+region: "Australia"
 feastDay:
   month: 1
   day: 30

@@ -6,7 +6,7 @@ searchAliases:
   - "Sabinus of Al-Ashmunayn"
   - "Sabinus of Hermopolis"
   - "Sabino of…."
-region: "England"
+region: "Egypt"
 feastDay:
   month: 3
   day: 13

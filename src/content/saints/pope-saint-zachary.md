@@ -9,7 +9,7 @@ deathYear: 752
 born: "at Calabria, Italy"
 died: "22 March 752 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 15

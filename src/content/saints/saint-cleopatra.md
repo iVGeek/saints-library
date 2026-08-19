@@ -7,7 +7,7 @@ deathYear: 327
 born: "latter 3rd century Edra in Lower Galilee in Palestine"
 died: "c.327 in Daraa, Syria of natural causes"
 deathPlace: "Syrianatural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 10
   day: 19

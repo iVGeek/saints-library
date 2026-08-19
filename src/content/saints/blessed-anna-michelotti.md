@@ -12,7 +12,7 @@ born: "29 August 1843 in Annecy, Haute-Savoie, kingdom of Sardinia (part of mode
 died: "1 February 1888 in Turin, Italy of natural causes"
 birthPlace: "Haute-Savoie, kingdomSardinia (part of modern France)"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

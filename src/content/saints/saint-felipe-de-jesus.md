@@ -12,7 +12,7 @@ deathYear: 1597
 born: "1575 in Mexico as Philip de al Casas"
 died: "crucified on 5 February 1597 at Nagasaki, Japan"
 deathPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

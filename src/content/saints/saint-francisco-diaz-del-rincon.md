@@ -9,7 +9,7 @@ born: "2 October 1713 in Ecija, Seville, Spain"
 died: "tortured and strangled to death on the evening of 28 October 1748 in prison at Fu-tsheu, China"
 birthPlace: "Seville, Spain"
 deathPlace: "China"
-region: "Spain"
+region: "China"
 feastDay:
   month: 10
   day: 28

@@ -14,7 +14,7 @@ born: "c.1170 in Caleruega, Castile (in modern Burgos, Spain)"
 died: "1234 in the monastery of San Pedro de Gumeil, Izan, Castile (in modern Burgos, Spain) of natural causes"
 birthPlace: "Castile (modern Burgos, Spain)"
 deathPlace: "Izan, Castile (modern Burgos, Spain) of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 30

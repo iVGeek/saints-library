@@ -11,7 +11,7 @@ born: "1790 in Seoul, South Korea"
 died: "26 September 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 26

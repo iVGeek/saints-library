@@ -19,7 +19,7 @@ born: 16 August 1815
 died: 31 January 1888
 birthPlace: Becchi, Castelnuovo d'Asti, Italy
 deathPlace: Turin, Italy
-region: Italy
+region: "Argentina"
 centuries: [19]
 feastDay:
   month: 1

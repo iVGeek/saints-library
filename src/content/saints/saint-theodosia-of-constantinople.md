@@ -10,7 +10,7 @@ deathYear: 729
 born: "7th century"
 died: "in 729 by having a ram's horn hammered through her neck at the Forum Bovis in Constantinople (modern Istanbul, Turkey)"
 deathPlace: "Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 7
   day: 18

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Monk. Abbot of Stavelot-Malmédy Abbey in Belgium."
 deathYear: 768
 died: "c.768"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 10
   day: 28

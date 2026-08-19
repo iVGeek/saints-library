@@ -11,7 +11,7 @@ birthYear: 1280
 deathYear: 1367
 born: "1280"
 died: "18 November 1367 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 1

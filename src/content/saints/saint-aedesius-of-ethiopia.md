@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 380
 born: "Tyre"
 died: "380"
-region: "England"
+region: "Africa"
 feastDay:
   month: 10
   day: 27

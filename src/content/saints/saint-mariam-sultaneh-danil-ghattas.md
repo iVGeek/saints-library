@@ -12,7 +12,7 @@ deathYear: 1927
 born: "4 October 1843 in Jerusalem"
 died: "25 March 1927 at Ain Karim, Jerusalem"
 deathPlace: "Jerusalem"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 25

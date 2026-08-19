@@ -10,7 +10,7 @@ born: "26 August 1886 in Villanueva de la Nía, Santander, Spain"
 died: "shot on 26 September 1936 at the gates of the cemetery in Pozo Cantavieja, Tahal, Almería, Spain"
 birthPlace: "Santander, Spain"
 deathPlace: "Tahal, Almería, Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 9
   day: 26

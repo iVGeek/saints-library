@@ -11,7 +11,7 @@ deathYear: 862
 born: "c.800 at Wessex, England"
 died: "2 July 862 of natural causes"
 birthPlace: "England"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 7
   day: 2

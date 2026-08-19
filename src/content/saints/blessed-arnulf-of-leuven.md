@@ -16,7 +16,7 @@ born: "early 13th century in Leuven, Belgium"
 died: "1276 the abbey at Villers-la-Ville, Brabant (in modern Belgium) of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Brabant (modern Belgium) of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 2

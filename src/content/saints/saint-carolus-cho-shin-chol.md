@@ -12,7 +12,7 @@ born: "1795 in Hoeyang, Gangwon-do, South Korea"
 died: "beheaded on 26 September 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Gangwon-do, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 26

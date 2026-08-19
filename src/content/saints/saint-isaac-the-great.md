@@ -9,7 +9,7 @@ birthYear: 350
 deathYear: 440
 born: "350"
 died: "440 at Ashtishat of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 9
   day: 8

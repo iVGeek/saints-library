@@ -13,7 +13,7 @@ born: "1608 in Cork, Ireland"
 died: "hanged on 2 May 1654 in Clonmel, Ireland"
 birthPlace: "Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 5
   day: 2

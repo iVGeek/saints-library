@@ -11,7 +11,7 @@ born: "4 January 1675 in Konnersreuth, Bavaria, Germany"
 died: "stoned to death by a mob on 3 March 1716 in Gondar, Ethiopia"
 birthPlace: "Bavaria, Germany"
 deathPlace: "Ethiopia"
-region: "Germany"
+region: "Africa"
 feastDay:
   month: 3
   day: 3

@@ -6,7 +6,7 @@ searchAliases:
   - "Hildegrin of Werden"
 deathYear: 827
 died: "c.827 of natural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 19

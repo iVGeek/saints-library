@@ -7,7 +7,7 @@ born: "Menthorpe, North Yorkshire, England"
 died: "hanged, drawn, and quartered on 11 March 1616 at York, England"
 birthPlace: "North Yorkshire, England"
 deathPlace: "drawn, and quartered on 11 March 1616 at York, England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 3
   day: 11

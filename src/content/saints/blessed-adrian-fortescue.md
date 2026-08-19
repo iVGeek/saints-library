@@ -9,7 +9,7 @@ born: "1476 in Punsborne, Hertfordshire, England"
 died: "beheaded on 9 July 1539 on Tower Hill, London, England"
 birthPlace: "Hertfordshire, England"
 deathPlace: "London, England"
-region: "Italy"
+region: "England"
 feastDay:
   month: 7
   day: 9

@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 681
 born: "7th century Ireland"
 died: "681 of natural causes"
-region: "Ireland"
+region: "Scandinavia"
 feastDay:
   month: 9
   day: 6

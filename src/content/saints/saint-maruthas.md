@@ -9,7 +9,7 @@ searchAliases:
   - "Maruf"
 deathYear: 415
 died: "c.415"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 12
   day: 4

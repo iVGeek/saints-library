@@ -17,7 +17,7 @@ born: "20 August 1845 at Igoalomia (Aigolonija), Poland as Adam Hilary Bernard C
 died: "25 December 1916 at Krakow, Poland, of natural causes"
 birthPlace: "Poland as Adam Hilary Bernard Chmielowski"
 deathPlace: "Poland,natural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 6
   day: 17

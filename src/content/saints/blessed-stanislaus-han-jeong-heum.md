@@ -9,7 +9,7 @@ born: "1756 in Gimje, Jeolla-do, South Korea"
 died: "26 August 1801 in GIMje, Jeolla-do, South Korea"
 birthPlace: "Jeolla-do, South Korea"
 deathPlace: "Jeolla-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 8
   day: 26

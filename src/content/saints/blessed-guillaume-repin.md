@@ -12,7 +12,7 @@ born: "26 August 1709 at Thouarcé, Maine-et-Loire, France"
 died: "2 January 1794 at Angers, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 2

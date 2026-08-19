@@ -13,7 +13,7 @@ born: "c.1821 in Shuicheng, Guizhou, China as Loulong"
 died: "beheaded on 25 February 1856 in Su-Lik-Hien, Kwang-Si province, China"
 birthPlace: "Guizhou, China as Loulong"
 deathPlace: "Kwang-Si province, China"
-region: "England"
+region: "China"
 feastDay:
   month: 2
   day: 25

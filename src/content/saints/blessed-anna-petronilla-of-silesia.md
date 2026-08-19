@@ -5,7 +5,7 @@ summary: "Poor Clare nun and then abbess at the convent in Znojmo, Moravia. She 
 deathYear: 1465
 died: "2 August 1465 in Znojmo, Moravia of natural causes"
 deathPlace: "Moravianatural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 8
   day: 2

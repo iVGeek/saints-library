@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Christina-of-Tyr
 born: "at Tyre"
 died: "a fire was lit under her, raged out of control, killed hundreds of pagan bystanders, but Christina escaped unscathed"
 deathPlace: "raged outcontrol, killed hundreds of pagan bystanders, but Christina escaped unscathed"
-region: "England"
+region: "Greece"
 feastDay:
   month: 7
   day: 24

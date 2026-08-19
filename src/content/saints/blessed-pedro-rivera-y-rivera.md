@@ -11,7 +11,7 @@ born: "3 September 1912 at Villacreces, diocese of Leon, Spain as Candido Rivera
 died: "shot on 6 September 1936 on L'Arrabassada highway, Barcelona, Spain"
 birthPlace: "dioceseLeon, Spain as Candido Rivera-Rivera"
 deathPlace: "Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 1

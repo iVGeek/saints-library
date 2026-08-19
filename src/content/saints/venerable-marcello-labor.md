@@ -9,7 +9,7 @@ born: "8 July 1890 in Trieste, Italy as Marcello Loewy"
 died: "29 September 1954 in Trieste, Italy of a heart attack"
 birthPlace: "Italy as Marcello Loewy"
 deathPlace: "Italya heart attack"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 23

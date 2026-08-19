@@ -7,7 +7,7 @@ deathYear: 1622
 born: "Nagasaki,"
 died: "beheaded on 10 September 1622 in Nishizaka, Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 10

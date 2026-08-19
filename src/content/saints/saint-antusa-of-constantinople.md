@@ -9,7 +9,7 @@ birthYear: 750
 deathYear: 801
 born: "c.750 in Constantinople"
 died: "801 in Constantinople of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 18

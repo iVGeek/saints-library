@@ -9,7 +9,7 @@ born: "7 November 1854 at Cuenca, Azuay, Ecuador"
 died: "9 February 1910 of pneumonia at Premia del Mar, Spain, and buried there"
 birthPlace: "Azuay, Ecuador"
 deathPlace: "Spain, and buried there"
-region: "France"
+region: "Ecuador"
 feastDay:
   month: 2
   day: 9

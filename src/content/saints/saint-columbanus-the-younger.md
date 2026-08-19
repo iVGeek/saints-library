@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 616
 born: "mid 6th century Ireland"
 died: "c.616"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 21

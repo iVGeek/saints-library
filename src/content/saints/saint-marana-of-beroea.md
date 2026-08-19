@@ -5,7 +5,7 @@ summary: "Pious woman who lived a life of extreme asceticism walled up in a smal
 deathYear: 455
 died: "c.455 in Beroea, Syria of natural causes"
 deathPlace: "Syrianatural causes"
-region: "England"
+region: "Syria"
 feastDay:
   month: 2
   day: 28

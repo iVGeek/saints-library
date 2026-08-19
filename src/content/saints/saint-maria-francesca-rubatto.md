@@ -13,7 +13,7 @@ deathYear: 1904
 born: "14 February 1844 at Carmagnola, Turin, Italy as Anna Maria Rubatto"
 died: "6 August 1904 of natural causes in Uruguay"
 birthPlace: "Turin, Italy as Anna Maria Rubatto"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 8
   day: 6

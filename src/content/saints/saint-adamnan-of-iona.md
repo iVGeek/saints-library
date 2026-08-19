@@ -30,7 +30,7 @@ deathYear: 704
 born: "c.628 in Drumhome, County Donegal, Ireland"
 died: "23 September 704 at Iona Abbey"
 birthPlace: "County Donegal, Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 9
   day: 23

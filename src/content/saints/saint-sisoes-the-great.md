@@ -14,7 +14,7 @@ deathYear: 430
 born: "Egypt"
 died: "c.430 in Clisma, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 7
   day: 6

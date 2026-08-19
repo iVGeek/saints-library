@@ -11,7 +11,7 @@ deathYear: 1067
 born: "c.1000 in the diocese of Rheims, France"
 died: "9 August 1067 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 8
   day: 9

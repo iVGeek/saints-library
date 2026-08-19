@@ -11,7 +11,7 @@ deathYear: 1095
 born: "at Corbie, France"
 died: "1095 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

@@ -5,7 +5,7 @@ honorific: Blessed
 summary: "12th century Camaldolese monk at the monastery of San Severo in Perugia, Italy."
 searchAliases:
   - "Antonio"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 6
   day: 15

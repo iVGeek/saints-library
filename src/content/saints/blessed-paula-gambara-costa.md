@@ -11,7 +11,7 @@ born: "3 March 1463 in Verola Alghise (modern Verolanuova), Brescia, Duchy of Mi
 died: "24 January 1515 in Binaco, Duchy of Milan (in modern Lombardy, Italy) of a fever"
 birthPlace: "Brescia, DuchyMilan (in modern Lombardy, Italy)"
 deathPlace: "DuchyMilan (in modern Lombardy, Italy) of a fever"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 24

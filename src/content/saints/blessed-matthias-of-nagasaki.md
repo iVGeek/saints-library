@@ -8,7 +8,7 @@ born: "c.1572 in Kazusagoko, Japan"
 died: "27 May 1620 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 5
   day: 27

@@ -9,7 +9,7 @@ born: "7 January 1934 in Villaverla, Vicenza, Italy"
 died: "shot on 28 November 1964 by Abedi Masanga in Baraka, Fizi, Sud-Kivu, Democratic Republic of Congo"
 birthPlace: "Vicenza, Italy"
 deathPlace: "Fizi, Sud-Kivu, Democratic RepublicCongo"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 28

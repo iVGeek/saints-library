@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
 searchAliases:
   - "Mars"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 4
   day: 2

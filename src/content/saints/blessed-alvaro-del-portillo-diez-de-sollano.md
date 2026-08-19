@@ -9,7 +9,7 @@ born: "11 March 1914 in Madrid, Spain"
 died: "23 March 1994 in Rome, Italy of natural causes"
 birthPlace: "Spain"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 12

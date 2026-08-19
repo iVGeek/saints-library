@@ -8,7 +8,7 @@ searchAliases:
   - "Basilius"
 deathYear: 299
 died: "6 March 299 in the Chersonese region of Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 4

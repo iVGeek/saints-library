@@ -9,7 +9,7 @@ born: "27 October 1873 in Manzanera, Teruel, Spain"
 died: "shot and beaten with rifle butts on 3 August 1936 on El Saler beach near Valencia, Spain"
 birthPlace: "Teruel, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Philippines"
 feastDay:
   month: 8
   day: 3

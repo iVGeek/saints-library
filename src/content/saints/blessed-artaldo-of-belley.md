@@ -15,7 +15,7 @@ deathYear: 1206
 born: "c.1101 in Sothonod castle, Ain, France"
 died: "6 October 1206 at Arvières monastery of natural causes"
 birthPlace: "Ain, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 6

@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 673
 born: "Ireland"
 died: "673"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 5
   day: 17

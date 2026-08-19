@@ -9,7 +9,7 @@ deathYear: 1495
 born: "Bologna, Italy"
 died: "beheaded on 4 September 1495"
 birthPlace: "Italy"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 9
   day: 4

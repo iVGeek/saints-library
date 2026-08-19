@@ -11,7 +11,7 @@ born: "8 August 1876 in Konthuruthy, Kochi, Ernakulam, India"
 died: "5 October 1929 in Chunangamvely, Aluva, Ernakulam, India of typhoid"
 birthPlace: "Kochi, Ernakulam, India"
 deathPlace: "Aluva, Ernakulam, Indiatyphoid"
-region: "France"
+region: "Peru"
 feastDay:
   month: 12
   day: 21

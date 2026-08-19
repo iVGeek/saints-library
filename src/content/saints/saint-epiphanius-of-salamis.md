@@ -15,7 +15,7 @@ deathYear: 403
 born: "315 at Besanduk, near Eleutheropolis, Judea"
 died: "403 at sea of natural causes"
 birthPlace: "near Eleutheropolis, Judea"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 5
   day: 12

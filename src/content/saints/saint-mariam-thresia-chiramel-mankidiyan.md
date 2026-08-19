@@ -11,7 +11,7 @@ born: "26 April 1876 at Trichur, Kerala, India"
 died: "8 June 1926 in Kuzhikattussery, Thissur, Kerala, India of natural causes"
 birthPlace: "Kerala, India"
 deathPlace: "Thissur, Kerala, Indianatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 6
   day: 8

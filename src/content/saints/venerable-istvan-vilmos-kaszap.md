@@ -9,7 +9,7 @@ born: "25 March 1916 in Székesfehérvár, Fejér, Hungary"
 died: "17 December 1935 in Székesfehérvár, Fejér, Hungary of pleurisy"
 birthPlace: "Fejér, Hungary"
 deathPlace: "Fejér, Hungarypleurisy"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 7
   day: 31

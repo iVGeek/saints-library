@@ -7,7 +7,7 @@ searchAliases:
   - "Mellitus of London"
 deathYear: 624
 died: "24 April 624 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 24

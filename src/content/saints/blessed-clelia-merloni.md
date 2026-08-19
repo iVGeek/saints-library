@@ -9,7 +9,7 @@ born: "10 March 1861 in Forli, Italy"
 died: "21 November 1930 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 21

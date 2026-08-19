@@ -15,7 +15,7 @@ deathYear: 625
 born: "at Trier, Germany"
 died: "c.625 of natural causes"
 birthPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 8
   day: 11

@@ -9,7 +9,7 @@ born: "2 November 1887 in Sant Salvador de Tol&oacute;, Pallars Juss&agrave;, Ll
 died: "shot on 13 August 1936 at the gate of the cemetery at Sal&agrave;s de Pallars, Pallars Juss&agrave;, Lleida, Spain"
 birthPlace: "Pallars Juss&agrave;, Lleida, Spain"
 deathPlace: "Pallars Juss&agrave;, Lleida, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 13

@@ -15,7 +15,7 @@ born: "27 February 1809 at Loudun, diocese of Poitiers, Vienne, France"
 died: "beheaded and his body hacked to pieces on 20 September 1837 at Son Tây, Ha Tây, Vietnam"
 birthPlace: "diocesePoitiers, Vienne, France"
 deathPlace: "Ha Tây, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 9
   day: 20

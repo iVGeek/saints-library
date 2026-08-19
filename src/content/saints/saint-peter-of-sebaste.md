@@ -8,7 +8,7 @@ born: "c.340 in Caesarea, Cappadocia"
 died: "c.391 in Sebaste, Armenia (in modern Turkey) of natural causes"
 birthPlace: "Cappadocia"
 deathPlace: "Armenia (modern Turkey) of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 26

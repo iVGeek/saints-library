@@ -9,7 +9,7 @@ born: "Pergamos, Asia Minor"
 died: "956 at Latros, Bithynia, Asia Minor of natural causes"
 birthPlace: "Asia Minor"
 deathPlace: "Bithynia, Asia Minornatural causes"
-region: "England"
+region: "Greece"
 feastDay:
   month: 12
   day: 15

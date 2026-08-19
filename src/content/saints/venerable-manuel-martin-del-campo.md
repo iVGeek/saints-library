@@ -9,7 +9,7 @@ born: "14 December 1917 in Lagos de Moreno, Jalisco, Mexico"
 died: "13 August 1996 in Xalapa, Veracruz, Mexico of natural causes"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Veracruz, Mexiconatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 12
   day: 21

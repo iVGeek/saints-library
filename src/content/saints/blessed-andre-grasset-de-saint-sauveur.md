@@ -9,7 +9,7 @@ born: "5 April 1758 in Montréal, Quebec, Canada"
 died: "martyred on 2 September 1792 at the Hôtel des Carmes, Paris, France"
 birthPlace: "Quebec, Canada"
 deathPlace: "Paris, France"
-region: "France"
+region: "Canada"
 feastDay:
   month: 9
   day: 2

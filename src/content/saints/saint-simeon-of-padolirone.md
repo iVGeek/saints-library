@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-of-Padoli
 deathYear: 1016
 born: "Armenia"
 died: "1016"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 26

@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 855
 born: "Brabant (in modern Belgium)"
 died: "c.855 of natural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 6
   day: 12

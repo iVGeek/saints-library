@@ -12,7 +12,7 @@ born: "1788 in Gyeonggi-do, South Korea"
 died: "20 January 1840 in prison in Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 20

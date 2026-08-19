@@ -12,7 +12,7 @@ born: "2 October 1881 in Shkodrë, Albania"
 died: "shot on 11 March 1948 in Shkodrë, Albania"
 birthPlace: "Albania"
 deathPlace: "Albania"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 3
   day: 11

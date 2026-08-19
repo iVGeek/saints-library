@@ -9,7 +9,7 @@ deathYear: 1141
 born: "1084 near Furness, Belgium"
 died: "31 December 1141 of natural causes"
 birthPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 31

@@ -9,7 +9,7 @@ born: "4 July 1803 in Gramat, Lot, France"
 died: "9 September 1861 at Gramat, Lot, France"
 birthPlace: "Lot, France"
 deathPlace: "Lot, France"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 9
   day: 9

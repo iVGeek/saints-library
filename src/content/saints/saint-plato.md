@@ -10,7 +10,7 @@ birthYear: 734
 deathYear: 813
 born: "c.734"
 died: "19 March 813 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 4
   day: 4

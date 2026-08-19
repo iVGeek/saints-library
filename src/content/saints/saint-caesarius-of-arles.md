@@ -11,7 +11,7 @@ born: "470 at Ch&acirc;lons, Burgundy, Gaul (modern France)"
 died: "27 August 543 at Saint John's convent, Arles, Gaul (modern France)"
 birthPlace: "Burgundy, Gaul (modern France)"
 deathPlace: "Arles, Gaul (modern France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 27

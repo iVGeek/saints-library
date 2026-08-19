@@ -11,7 +11,7 @@ born: "c.1835 in Trung Linh, Nam Ðinh, Vietnam"
 died: "beheaded on 2 June 1862 in An Triêm, Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Nam Ðinh, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 2

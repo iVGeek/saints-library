@@ -11,7 +11,7 @@ born: "23 April 1879 in Albocácer, Diocese of Tortosa, Castellón, Spain"
 died: "30 August 1936 on the road outside Villafamés, Castellón, Spain"
 birthPlace: "DioceseTortosa, Castellón, Spain"
 deathPlace: "Castellón, Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 30

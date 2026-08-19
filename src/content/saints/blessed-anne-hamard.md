@@ -10,7 +10,7 @@ born: "c.1742 in Saint-Clément, Maine-et-Loire, France"
 died: "1 February 1794 at Angers, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

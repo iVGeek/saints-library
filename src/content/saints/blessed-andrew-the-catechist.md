@@ -12,7 +12,7 @@ born: "1625 at Ran Ran, Phú Yên (in modern Viet Nam)"
 died: "hanged 26 July 1644 at Kè Khàm, Quang Nam (in modern Viet Nam)"
 birthPlace: "Phú Yên (modern Viet Nam)"
 deathPlace: "Quang Nam (modern Viet Nam)"
-region: "Italy"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 26

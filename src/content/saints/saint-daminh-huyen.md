@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1862
 died: "burned alive on 5 June 1862 in Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 5

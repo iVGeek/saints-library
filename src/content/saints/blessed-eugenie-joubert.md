@@ -9,7 +9,7 @@ born: "11 February 1876 in Yssingeaux, Haute-Loire, France"
 died: "2 July 1904 in Liège, Belgium of tuberculosis"
 birthPlace: "Haute-Loire, France"
 deathPlace: "Belgiumtuberculosis"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 7
   day: 2

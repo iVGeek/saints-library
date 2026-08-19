@@ -12,7 +12,7 @@ born: "c.1797 at Trung Le, Liên Thùy, Nam Ðinh, Vietnam"
 died: "beheaded on 25 June 1838 in Nam Ðinh, Vietnam"
 birthPlace: "Liên Thùy, Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 25

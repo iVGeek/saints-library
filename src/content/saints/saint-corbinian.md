@@ -11,7 +11,7 @@ deathYear: 730
 born: "670 at Ch&acirc;tres, France as Waldegiso"
 died: "730 of natural causes"
 birthPlace: "France as Waldegiso"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 9
   day: 8

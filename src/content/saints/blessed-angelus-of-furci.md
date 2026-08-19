@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelus-of-Fur
 deathYear: 1327
 died: "6 February 1327 at the Augustinian convent in Naples, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 6

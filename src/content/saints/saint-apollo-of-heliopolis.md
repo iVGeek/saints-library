@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 395
 born: "early 4th century Egypt"
 died: "395 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 25

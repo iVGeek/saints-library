@@ -9,7 +9,7 @@ born: "1385 at Ancona, Italy"
 died: "12 November 1456 in Ancona, Piceno, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Piceno, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 9

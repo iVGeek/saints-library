@@ -6,7 +6,7 @@ searchAliases:
   - "Angel of Peace"
 deathYear: 337
 died: "337 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 13

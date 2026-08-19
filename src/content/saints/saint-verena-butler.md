@@ -12,7 +12,7 @@ born: "28 May 1848 in Auw, Aargau, Switzerland"
 died: "19 May 1924 in Cartagena, Bolívar, Colombia of natural causes"
 birthPlace: "Aargau, Switzerland"
 deathPlace: "Bolívar, Colombianatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 5
   day: 19

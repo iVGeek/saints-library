@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 521
 born: "Scotland"
 died: "521"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 12
   day: 7

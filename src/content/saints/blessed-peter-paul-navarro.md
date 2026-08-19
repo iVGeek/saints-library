@@ -11,7 +11,7 @@ born: "1560 at Laino Borgo, Cosenza, Italy"
 died: "burned alive on 1 November 1622 at Ximabara, Nagasaki, Japan"
 birthPlace: "Cosenza, Italy"
 deathPlace: "Nagasaki, Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 11
   day: 1

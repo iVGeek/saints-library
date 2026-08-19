@@ -12,7 +12,7 @@ born: "18 December 1773 in T&uuml;bingen, Baden-Württemberg (modern Germany)"
 died: "15 December 1856 at Verona, Italy of natural causes"
 birthPlace: "Baden-Württemberg (modern Germany)"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 15

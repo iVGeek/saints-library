@@ -7,7 +7,7 @@ searchAliases:
   - "Colmoco"
 deathYear: 1010
 died: "c.1010"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 6
   day: 6

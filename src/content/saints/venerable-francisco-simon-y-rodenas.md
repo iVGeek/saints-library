@@ -10,7 +10,7 @@ born: "2 October 1849 in La Aparida, Orihuela, Alicante, Spain"
 died: "22 August 1914 in Masamagrell, Valencia, Spain of natural causes"
 birthPlace: "Orihuela, Alicante, Spain"
 deathPlace: "Valencia, Spaof natural causes"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 7
   day: 5

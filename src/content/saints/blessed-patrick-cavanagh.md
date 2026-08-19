@@ -10,7 +10,7 @@ born: "in Wexford, Ireland"
 died: "hanged, drawn and quartered on 5 July 1581 in Wexford, Ireland"
 birthPlace: "Ireland"
 deathPlace: "drawn and quartered on 5 July 1581Wexford, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 5

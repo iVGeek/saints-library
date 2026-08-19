@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Patriarch of Antioch in 280."
 deathYear: 300
 died: "c.300 of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 22

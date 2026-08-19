@@ -13,7 +13,7 @@ born: "1205 at Prague, Bohemia (modern Czech Republic)"
 died: "6 March 1282 at Saint Saviour convent, Prague, Bohemia of natural causes"
 birthPlace: "Bohemia (modern Czech Republic)"
 deathPlace: "Prague, Bohemianatural causes"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 3
   day: 2

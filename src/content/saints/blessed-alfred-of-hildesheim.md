@@ -11,7 +11,7 @@ deathYear: 874
 born: "early 9th century in Cologne, Germany"
 died: "15 August 874 of natural causes"
 birthPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 8
   day: 15

@@ -9,7 +9,7 @@ born: "31 January 1673 at Montfort-La-Cane, Brittany, France"
 died: "28 April 1716 at Saint-Laurent-sur-Sovre, France of natural causes"
 birthPlace: "Brittany, France"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 28

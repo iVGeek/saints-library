@@ -9,7 +9,7 @@ born: "25 August 1745 in Mézangers, Mayenne, France"
 died: "5 February 1794 in Laval, Mayenne, France"
 birthPlace: "Mayenne, France"
 deathPlace: "Mayenne, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 5

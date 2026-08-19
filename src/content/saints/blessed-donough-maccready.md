@@ -6,7 +6,7 @@ deathYear: 1608
 born: "Irish"
 died: "1608 in Coleraine, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 6
   day: 20

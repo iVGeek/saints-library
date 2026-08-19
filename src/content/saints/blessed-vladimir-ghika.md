@@ -12,7 +12,7 @@ born: "25 December 1873 in Constantinople (modern Istanbul, Turkey)"
 died: "16 May 1954 in Jilava, Bucharest, Romania from years of torture, starvation and general abuse"
 birthPlace: "Turkey)"
 deathPlace: "Bucharest, Romaniayears of torture, starvation and general abuse"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 16

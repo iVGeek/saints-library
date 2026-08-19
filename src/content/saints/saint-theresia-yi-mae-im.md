@@ -11,7 +11,7 @@ born: "1788 in Pongch’on, Seoul, South Korea"
 died: "20 July 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Seoul, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 7
   day: 20

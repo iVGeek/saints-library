@@ -10,7 +10,7 @@ born: "15 June 1913 in La Union, Diocese of Garzón, Huilá, Colombia"
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "DioceseGarzón, Huilá, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

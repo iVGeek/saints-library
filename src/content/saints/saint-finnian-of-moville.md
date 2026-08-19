@@ -13,7 +13,7 @@ deathYear: 589
 born: "c.495 at Ulster, Ireland"
 died: "589 of natural causes"
 birthPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 9
   day: 10

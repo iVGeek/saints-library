@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/Sergebac-left.jpg"
 deathYear: 303
 died: "beheaded c.303 at Resapha, Syria"
 deathPlace: "Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 10
   day: 7

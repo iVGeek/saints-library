@@ -9,7 +9,7 @@ born: "c.1185 in Celano, L'Aquila, Italy"
 died: "4 October 1260 at the Poor Clare convent in Val de’Varri, Rieti, Italy of natural causes"
 birthPlace: "L'Aquila, Italy"
 deathPlace: "Rieti, Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 4

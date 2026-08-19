@@ -12,7 +12,7 @@ born: "7 July 1902 in São Romão do Corgo, Braga, Portugal"
 died: "early morning of 4 July 1932 in Foz do Douro, Porto, Portugal of spinal tuberculosis"
 birthPlace: "Braga, Portugal"
 deathPlace: "Porto, Portugalspinal tuberculosis"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 16

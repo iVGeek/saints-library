@@ -11,7 +11,7 @@ searchAliases:
   - "Federico…"
 deathYear: 838
 died: "stabbed to death during Mass on 18 July 838"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 18

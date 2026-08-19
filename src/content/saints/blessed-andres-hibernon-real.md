@@ -9,7 +9,7 @@ birthYear: 1534
 born: "1534 in Alcantarilla, near Murcia, Spain"
 died: "predicted the date of his death four years before the fact"
 birthPlace: "near Murcia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 4
   day: 18

@@ -14,7 +14,7 @@ born: "1400 at Seville, Spain"
 died: "12 November 1463 at Alcala, Castile, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Castile, Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 11
   day: 12

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Nephew of Saint Sigfrid. Monk. Missionary to Sweden with Sigfrid. Martyred by pagans."
 deathYear: 1040
 died: "c.1040 in Sweden"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 15

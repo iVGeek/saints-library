@@ -12,7 +12,7 @@ born: "1085 at Nuremberg, Germany"
 died: "22 June 1164 at the Cistercian monastery of Rein, Austria of natural causes"
 birthPlace: "Germany"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Austria"
 feastDay:
   month: 1
   day: 1

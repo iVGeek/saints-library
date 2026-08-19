@@ -6,7 +6,7 @@ searchAliases:
   - "Evancius"
   - "Evance"
 born: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 13

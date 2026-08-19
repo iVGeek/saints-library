@@ -11,7 +11,7 @@ born: "26 April 1898 in Paris, France as Élisabeth Marie Magdeleine Hutin"
 died: "6 November 1989 in Rome, Italy of natural causes"
 birthPlace: "France as Élisabeth Marie Magdeleine Hutin"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

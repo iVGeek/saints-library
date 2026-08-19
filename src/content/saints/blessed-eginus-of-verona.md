@@ -8,7 +8,7 @@ birthYear: 730
 deathYear: 802
 born: "c.730"
 died: "27 February 802 on Reichenau Island (in modern Germany) of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 1
   day: 1

@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ephrem-the-Mart
 searchAliases:
   - "Efrem"
 died: "6 March  in the Chersonese region of Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 3
   day: 4

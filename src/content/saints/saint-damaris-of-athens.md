@@ -6,7 +6,7 @@ searchAliases:
   - "Damaride"
 born: "Athens, Greece"
 birthPlace: "Greece"
-region: "England"
+region: "Greece"
 feastDay:
   month: 10
   day: 4

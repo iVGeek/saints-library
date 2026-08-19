@@ -14,7 +14,7 @@ born: "24 July 1242 at Stommeln, duchy of Juilliers (part of modern Germany)"
 died: "6 November 1312 in an alms house in Cologne, Germany of natural causes"
 birthPlace: "duchyJuilliers (part of modern Germany)"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 6

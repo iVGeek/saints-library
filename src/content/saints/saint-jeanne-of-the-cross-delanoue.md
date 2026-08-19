@@ -14,7 +14,7 @@ born: "18 June 1666 at Samur, Anjou, France as Jeanne Delanoue"
 died: "17 August 1736 at Fencet, France of natural causes"
 birthPlace: "Anjou, France as Jeanne Delanoue"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 17

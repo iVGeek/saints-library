@@ -14,7 +14,7 @@ born: "c.615 at Strepy les Binches, Hainault, Belgium"
 died: "14 July 677 at Soignies, Belgium of natural causes"
 birthPlace: "Hainault, Belgium"
 deathPlace: "Belgiumnatural causes"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 7
   day: 14

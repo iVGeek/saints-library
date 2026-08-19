@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 620
 born: "Cyprus"
 died: "c.620 of natural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 8

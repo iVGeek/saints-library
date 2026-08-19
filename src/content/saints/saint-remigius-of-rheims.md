@@ -16,7 +16,7 @@ birthYear: 438
 deathYear: 533
 born: "c.438"
 died: "13 January 533 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 24

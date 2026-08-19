@@ -12,7 +12,7 @@ born: "1216 in Ferrara, Italy"
 died: "16 April 1249 in Broni, Pavia, diocese of Tortona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Pavia, dioceseTortona, Italy of natural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 4
   day: 16

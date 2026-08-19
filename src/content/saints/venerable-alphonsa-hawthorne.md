@@ -13,7 +13,7 @@ born: "20 May 1851 in Lenox, Massachusetts as Rose Hawthorne"
 died: "9 July 1926 in Hawthorne, New York of natural causes"
 birthPlace: "Massachusetts as Rose Hawthorne"
 deathPlace: "New Yorknatural causes"
-region: "England"
+region: "Peru"
 feastDay:
   month: 1
   day: 1

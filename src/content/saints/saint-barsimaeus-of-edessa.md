@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 114
 died: "114 in Edessa, Syria"
 deathPlace: "Syria"
-region: "England"
+region: "Syria"
 feastDay:
   month: 1
   day: 30

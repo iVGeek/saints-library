@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Abbot at Dunkeld, Scotland. Bishop of Dunblane, Scotland. Several churches are named for him, and he was venerated with a solemn office in the old Scottish rite."
 born: "Scottish"
 died: "9th century of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 11
   day: 8

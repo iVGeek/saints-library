@@ -9,7 +9,7 @@ deathYear: 326
 born: "3rd century in northern Egypt"
 died: "February 326 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 26

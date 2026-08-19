@@ -6,7 +6,7 @@ birthYear: 1865
 deathYear: 1936
 born: "15 July 1865 in Cuenca Spain"
 died: "shot on 12 August 1936 in the bullfighting ring in Cuenca Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 8
   day: 12

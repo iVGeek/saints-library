@@ -11,7 +11,7 @@ born: "27 July 1907 in Shkodrë, Albania"
 died: "shot by a machine-gun squad at 6am on 4 March 1946 at the cemetery in Shkodrë, Albania"
 birthPlace: "Albania"
 deathPlace: "Albania"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 3
   day: 4

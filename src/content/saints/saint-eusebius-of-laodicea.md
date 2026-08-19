@@ -9,7 +9,7 @@ deathYear: 269
 born: "3rd century Egypt"
 died: "269 in Laodicea, Syria (modern Latakia, Syria) of natural causes"
 deathPlace: "Syria (modern Latakia, Syria)natural causes"
-region: "Syria"
+region: "Turkey"
 feastDay:
   month: 7
   day: 3

@@ -10,7 +10,7 @@ deathYear: 1029
 born: "c.960 in Italy"
 died: "10 April 1029 in Chartres, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 10

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/gallery/saint-hilarion-of-gaza/sai
 birthYear: 291
 born: "c.291 at Gaza, Palestine"
 birthPlace: "Palestine"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 21

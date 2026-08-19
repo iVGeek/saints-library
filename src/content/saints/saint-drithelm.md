@@ -11,7 +11,7 @@ born: "Northumbria, England"
 died: "c.700 at Melrose, Scotland of natural causes"
 birthPlace: "England"
 deathPlace: "Scotlandnatural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 8
   day: 17

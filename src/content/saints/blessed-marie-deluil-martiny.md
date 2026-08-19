@@ -13,7 +13,7 @@ born: "28 May 1841 in Marseille, Bouches-du-Rhône, France as Marie-Caroline-Phi
 died: "shot twice at point-blank range with a revolver, damaging her carotid artery, on Ash Wednesday, 27 February 1884 in La Servianne, Marseille, Bouches-du-Rhône, France"
 birthPlace: "Bouches-du-Rhône, France as Marie-Caroline-Philomène Deluil-Martiny"
 deathPlace: "damaging her carotid artery, on Ash Wednesday, 27 February 1884La Servianne, Marseille, Bouches-du-Rhône, France"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 2
   day: 27

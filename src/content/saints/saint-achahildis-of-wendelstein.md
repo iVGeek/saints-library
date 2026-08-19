@@ -10,7 +10,7 @@ searchAliases:
   - "Reinilda of Luxemburg"
 deathYear: 970
 died: "c.970 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 29

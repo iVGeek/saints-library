@@ -12,7 +12,7 @@ born: "3 March 1876 at Pakoshivka, Lemkiv District, Ukraine"
 died: "martyred on 17 November 1947 in prison in Kiev, Ukraine"
 birthPlace: "Lemkiv District, Ukraine"
 deathPlace: "Ukraine"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 11
   day: 17

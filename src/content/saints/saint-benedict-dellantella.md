@@ -9,7 +9,7 @@ searchAliases:
   - "Manetto"
 deathYear: 1268
 died: "20 August 1268 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 17

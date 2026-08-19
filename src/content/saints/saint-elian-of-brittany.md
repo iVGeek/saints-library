@@ -6,7 +6,7 @@ searchAliases:
   - "Allan"
   - "Eilan"
 born: "in Brittany (in modern France)"
-region: "France"
+region: "England"
 feastDay:
   month: 1
   day: 13

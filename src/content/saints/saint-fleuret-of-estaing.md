@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 621
 died: "c.621 in Estaing (modern Aveyron), France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 1

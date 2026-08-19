@@ -11,7 +11,7 @@ deathYear: 888
 born: "near Bruges, Flanders, Belgium"
 died: "888 of natural causes"
 birthPlace: "Flanders, Belgium"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 6
   day: 11

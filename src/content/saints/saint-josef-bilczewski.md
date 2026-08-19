@@ -14,7 +14,7 @@ born: "26 April 1860 at Wilamowice, Austria (modern Ukraine)"
 died: "20 March 1923 at Lviv, Ukraine of pernicious anemia"
 birthPlace: "Austria (modern Ukraine)"
 deathPlace: "Ukrainepernicious anemia"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 20

@@ -11,7 +11,7 @@ born: "2 July 1896 in Oliva, Valencia, Spain"
 died: "shot at dawn on 6 September 1936 in Gata de Gorgos, Alicante, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Alicante, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 6

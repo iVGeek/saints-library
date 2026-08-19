@@ -5,7 +5,7 @@ summary: "First Franciscan to work in Hungary."
 deathYear: 1287
 born: "French"
 died: "1287 of natural causes"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 2
   day: 23

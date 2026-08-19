@@ -14,7 +14,7 @@ born: "1845 in Seoheung, Hwanghae-do, North Korea"
 died: "11 March 1866 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Hwanghae-do, North Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 3
   day: 11

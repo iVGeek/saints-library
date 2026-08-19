@@ -9,7 +9,7 @@ born: "29 January 1881 at Guadalajara, Jalisco, Mexico"
 died: "shot by firing squad on 30 January 1915 at Guadalajara, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 1
   day: 30

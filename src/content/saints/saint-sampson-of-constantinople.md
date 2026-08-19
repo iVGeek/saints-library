@@ -10,7 +10,7 @@ searchAliases:
   - "Father of the Poor"
 deathYear: 530
 died: "c.530 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 27

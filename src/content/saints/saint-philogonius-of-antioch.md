@@ -7,7 +7,7 @@ searchAliases:
   - "Filogonius"
   - "Philogonus"
   - "Philogonios"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 20

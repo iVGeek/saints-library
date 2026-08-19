@@ -5,7 +5,7 @@ summary: "Thirteenth century pilgrim from Cologne, Germany who was murdered by r
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gerold-of-Cologne.jpg"
 deathYear: 1241
 died: "1241"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 10
   day: 7

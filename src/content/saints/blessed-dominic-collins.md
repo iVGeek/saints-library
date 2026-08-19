@@ -11,7 +11,7 @@ born: "c.1566 in Youghal, Cork, Ireland"
 died: "31 October 1602 in Youghal, Cork, Ireland"
 birthPlace: "Cork, Ireland"
 deathPlace: "Cork, Ireland"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 10
   day: 31

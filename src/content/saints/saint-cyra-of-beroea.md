@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Pious woman who lived a life of extreme asceticism walled up in a small house just outside of Beroea, Syria."
 deathYear: 455
 died: "c.455"
-region: "England"
+region: "Syria"
 feastDay:
   month: 2
   day: 28

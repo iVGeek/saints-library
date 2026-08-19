@@ -7,7 +7,7 @@ birthYear: 383
 deathYear: 439
 born: "c.383"
 died: "late December 439 at Jerusalem of natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 12
   day: 31

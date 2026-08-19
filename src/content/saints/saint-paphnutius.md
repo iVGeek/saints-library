@@ -9,7 +9,7 @@ searchAliases:
   - "Pafnucius…"
   - "Pafnuzio…"
   - "Paphnucius…"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 9
   day: 11

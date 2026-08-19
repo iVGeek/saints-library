@@ -11,7 +11,7 @@ born: "c.1551 at Minaya, Catalonia (in modern Spain)"
 died: "hacked to death by scimitars and spears on 25 July 1583 on Salsette near Goa, Italy"
 birthPlace: "Catalonia (modern Spain)"
 deathPlace: "Italy"
-region: "Italy"
+region: "India"
 feastDay:
   month: 7
   day: 25

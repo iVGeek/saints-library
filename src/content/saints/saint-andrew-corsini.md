@@ -13,7 +13,7 @@ born: "1302 at Florence, Italy"
 died: "6 January 1374 at Fiesole, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 6

@@ -13,7 +13,7 @@ born: "6 January 1814 at La Rochelle-Normande, France"
 died: "beheaded on 29 February 1856 in Su-Lik-Hien, Kwang-Si province, China"
 birthPlace: "France"
 deathPlace: "Kwang-Si province, China"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 28

@@ -5,7 +5,7 @@ summary: "Trinitarian priest assigned to care for and try to free Christians imp
 deathYear: 1282
 born: "13th century Ireland"
 died: "burned alive on 1 November 1282 in Egypt"
-region: "Ireland"
+region: "Egypt"
 feastDay:
   month: 11
   day: 1

@@ -11,7 +11,7 @@ born: "1369 in Lorraine, France"
 died: "1387 at the Carthusian monastery, Villeneuve, France of a fever"
 birthPlace: "France"
 deathPlace: "Villeneuve, Francea fever"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 2

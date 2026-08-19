@@ -11,7 +11,7 @@ born: "9 April 1848 at Alfaro, Tarazona, Spain"
 died: "19 August 1906 at Montegudo, Navarra, Spain of cancer of the palatte"
 birthPlace: "Tarazona, Spain"
 deathPlace: "Navarra, Spaof cancer of the palatte"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 19

@@ -11,7 +11,7 @@ born: "22 March 1851 in Torri del Benaco, Verona, Italy"
 died: "22 January 1922 in Castelletto del Garda, Verona, Italy of natural causes"
 birthPlace: "Verona, Italy"
 deathPlace: "Verona, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 22

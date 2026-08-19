@@ -12,7 +12,7 @@ born: "c.1600 at Binondo, Manila, Philippines"
 died: "29-30 September 1637 at Nagasaki, Japan by being crushed over a period of three days while hanging upside down"
 birthPlace: "Manila, Philippines"
 deathPlace: "Japan by being crushed over a periodthree days while hanging upside down"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 28

@@ -13,7 +13,7 @@ born: "c.1812 in Zunyi, Guizhou, China"
 died: "tortured and beheaded on 29 July 1861 in Qingyian, Guiyang, Guizhou, China"
 birthPlace: "Guizhou, China"
 deathPlace: "Guiyang, Guizhou, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 29

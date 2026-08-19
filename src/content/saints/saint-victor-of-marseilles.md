@@ -7,7 +7,7 @@ deathYear: 290
 born: "mid-3rd century in Upper Egypt"
 died: "beheaded in 290 with three prisoners in Marseilles, France he had converted"
 deathPlace: "France he had converted"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 21

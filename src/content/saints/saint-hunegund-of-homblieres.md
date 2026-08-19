@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Hunegund was drawn to religious life, but was compelled to marry against her wishes. She convinced her future husband to accompany her on a pilgrimage to Rome, Italy, and then got him to agree that she should become a Benedictine nun, receiving the veil from Pope Saint Vitalian."
 deathYear: 690
 died: "c.690"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 25

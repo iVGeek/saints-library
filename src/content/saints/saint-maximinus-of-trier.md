@@ -11,7 +11,7 @@ deathYear: 349
 born: "at Silly near Poitiers, France"
 died: "12 September 349 or 29 May 352 (records vary)"
 birthPlace: "France"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 29

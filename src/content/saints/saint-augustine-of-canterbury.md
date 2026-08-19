@@ -12,7 +12,7 @@ born: "at Rome, Italy"
 died: "26 May 605 in Canterbury, England of natural causes"
 birthPlace: "Italy"
 deathPlace: "Englandnatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 27

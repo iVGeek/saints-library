@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1231
 born: "French"
 died: "1231 of natural causes"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 9
   day: 2

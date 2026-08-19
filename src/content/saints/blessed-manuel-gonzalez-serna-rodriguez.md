@@ -8,7 +8,7 @@ born: "9 May 1880 in Sevilla, Spain"
 died: "23 July 1936 in the sacristy of his parish church in Constanina, Sevilla, Spain"
 birthPlace: "Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 23

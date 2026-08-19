@@ -24,7 +24,7 @@ searchAliases:
   - "Óláfr Haraldsson"
 deathYear: 1030
 died: "killed in battle at Stiklestadt on 29 July 1030 while trying to recover his throne"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 7
   day: 29

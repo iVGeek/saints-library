@@ -8,7 +8,7 @@ born: "Campania, Italy"
 died: "27 July 432 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 7
   day: 27

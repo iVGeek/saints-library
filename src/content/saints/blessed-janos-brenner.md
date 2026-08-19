@@ -13,7 +13,7 @@ born: "17 December 1931 in Szombathely, Vas, Hungary"
 died: "stabbed 32 times during the night of 14–15 December 1957 in a wooded area of Zsida, Szengotthárd, Vas, Hungary"
 birthPlace: "Vas, Hungary"
 deathPlace: "Szengotthárd, Vas, Hungary"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 12
   day: 14

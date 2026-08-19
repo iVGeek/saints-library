@@ -11,7 +11,7 @@ deathYear: 1188
 born: "12th century Norway"
 died: "1188 in Nidaros, (modern Trondheim), Norway of natural causes"
 deathPlace: "(modern Trondheim), Norwaynatural causes"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 26

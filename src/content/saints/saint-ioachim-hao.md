@@ -14,7 +14,7 @@ born: "c.1782 in Zhazuo, Xiuewen, Guizhou, China"
 died: "strangled on 9 July 1839 at Guiyang, Guizhou, China"
 birthPlace: "Xiuewen, Guizhou, China"
 deathPlace: "Guizhou, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 9

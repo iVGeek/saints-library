@@ -7,7 +7,7 @@ searchAliases:
   - "Gherardino Sostenes"
   - "Gherardino Sostegno"
   - "Gerardino…."
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 17

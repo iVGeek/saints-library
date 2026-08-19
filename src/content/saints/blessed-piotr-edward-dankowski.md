@@ -11,7 +11,7 @@ born: "21 June 1908 in Jordanów, Malopolskie, Poland"
 died: "Good Friday, 3 April 1942 in Oswiecim (Auschwitz), Malopolskie, Poland"
 birthPlace: "Malopolskie, Poland"
 deathPlace: "3 April 1942Oswiecim (Auschwitz), Malopolskie, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 4
   day: 3

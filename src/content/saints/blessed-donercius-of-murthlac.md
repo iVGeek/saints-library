@@ -8,7 +8,7 @@ searchAliases:
   - "Donort"
 deathYear: 1098
 died: "1098 of natural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 8
   day: 20

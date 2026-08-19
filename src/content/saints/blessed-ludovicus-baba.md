@@ -6,7 +6,7 @@ deathYear: 1624
 born: "Japan"
 died: "burned alive on 25 August 1624 in Omura, Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 25

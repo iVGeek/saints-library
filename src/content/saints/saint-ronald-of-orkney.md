@@ -11,7 +11,7 @@ deathYear: 1158
 born: "1100 in Norway"
 died: "20 August 1158 in Caithness, Scotland"
 deathPlace: "Scotland"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 1

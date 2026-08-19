@@ -10,7 +10,7 @@ deathYear: 431
 born: "c.354 at Burdigala, Gaul (modern Bordeaux, France)"
 died: "22 June 431 of natural causes"
 birthPlace: "Gaul (modern Bordeaux, France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 22

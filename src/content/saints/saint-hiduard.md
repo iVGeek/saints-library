@@ -10,7 +10,7 @@ searchAliases:
   - "Ilduardo"
 deathYear: 750
 died: "c.750"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 9
   day: 7

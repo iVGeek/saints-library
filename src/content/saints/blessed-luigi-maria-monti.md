@@ -12,7 +12,7 @@ born: "24 July 1825 at Bovisio Masciago, diocese of Milian, Italy"
 died: "1 October 1900 in Saronno, Varese, Italy of natural causes"
 birthPlace: "dioceseMilian, Italy"
 deathPlace: "Varese, Italynatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 10
   day: 1

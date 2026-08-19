@@ -11,7 +11,7 @@ born: "22 February 1872 in El Gigante, Huila, Colombia"
 died: "3 July 1950 in Bogotá, Colombia of natural causes"
 birthPlace: "Huila, Colombia"
 deathPlace: "Colombianatural causes"
-region: "Italy"
+region: "Colombia"
 feastDay:
   month: 12
   day: 19

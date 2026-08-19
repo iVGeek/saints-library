@@ -10,7 +10,7 @@ deathYear: 440
 born: "c.347 in Rome, Italy"
 died: "440 at the Saint Rambert de Joux Abbey of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 1

@@ -11,7 +11,7 @@ born: "1442 at Aragon, Spain"
 died: "17 September 1485 in the cathedral of Saragossa, Spain"
 birthPlace: "Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 9
   day: 17

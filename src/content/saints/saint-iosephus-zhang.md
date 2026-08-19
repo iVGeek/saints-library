@@ -10,7 +10,7 @@ searchAliases:
 birthYear: 1831
 born: "c.1831 in Ba, Sichuan, China"
 birthPlace: "Sichuan, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 29

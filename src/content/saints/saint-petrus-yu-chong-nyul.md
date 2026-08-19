@@ -12,7 +12,7 @@ born: "1837 in Taphyen, Yulli county, near Pyongyang, North Korea"
 died: "beaten to death on the evening of 17 February 1866 in prison in Pyongyang, North Korea"
 birthPlace: "Yulli county, near Pyongyang, North Korea"
 deathPlace: "North Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 2
   day: 17

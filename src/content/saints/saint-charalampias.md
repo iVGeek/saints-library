@@ -20,7 +20,7 @@ searchAliases:
 deathYear: 203
 died: "203 in Magnesia, Asia Minor (in modern Turkey)"
 deathPlace: "Asia Minor (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 10

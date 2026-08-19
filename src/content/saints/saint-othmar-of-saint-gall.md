@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 759
 died: "16 November 759 at Werd-on-the-Rhine, near Echnez, Switzerland"
 deathPlace: "near Echnez, Switzerland"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 16

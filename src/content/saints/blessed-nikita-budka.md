@@ -13,7 +13,7 @@ born: "7 June 1877 in Dobomirka, Zbarazh District, Poland (modern Ukraine)"
 died: "1 October 1949 in a Soviet concentration camp in Karaganda, Kazakhstan"
 birthPlace: "Zbarazh District, Poland (modern Ukraine)"
 deathPlace: "Kazakhstan"
-region: "England"
+region: "Canada"
 feastDay:
   month: 9
   day: 28

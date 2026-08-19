@@ -9,7 +9,7 @@ born: "18 January 1885 in Wloclawek, Kujawsko-Pomorskie, Poland"
 died: "gassed on 12 August 1942 in the death chambers of Dachau concentration camp, Oberbayern, Germany"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 12

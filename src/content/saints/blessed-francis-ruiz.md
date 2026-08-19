@@ -11,7 +11,7 @@ born: "1546 in Rioja, Spain"
 died: "1590 in Santa Cruz de la Sierra, Tucman, Peru"
 birthPlace: "Spain"
 deathPlace: "Tucman, Peru"
-region: "France"
+region: "Peru"
 feastDay:
   month: 12
   day: 29

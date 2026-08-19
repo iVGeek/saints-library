@@ -9,7 +9,7 @@ born: "3 November 1912 in Varallo Pombia, Italy"
 died: "beaten in the head with a large rock, stabbed and then shot on the night of 26 February 1945 at Vallone dei Colombetti near Castiglione Ossola, Italy"
 birthPlace: "Italy"
 deathPlace: "stabbed and then shot on the night26 February 1945 at Vallone dei Colombetti near Castiglione Ossola, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 26

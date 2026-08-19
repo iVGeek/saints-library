@@ -9,7 +9,7 @@ deathYear: 1597
 born: "Japanese"
 died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

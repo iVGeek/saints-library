@@ -10,7 +10,7 @@ deathYear: 981
 born: "c.910 at Lorraine region"
 died: "20 June 981 at Merseburg, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 6
   day: 20

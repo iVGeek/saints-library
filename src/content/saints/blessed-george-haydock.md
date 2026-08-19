@@ -9,7 +9,7 @@ born: "c.1557 in Cottam Hall, Lancashire, England"
 died: "hanged, drawn and quartered on 12 February 1584 in Tyburn, London, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn and quartered on 12 February 1584Tyburn, London, England"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 2
   day: 12

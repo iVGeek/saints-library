@@ -8,7 +8,7 @@ born: "30 March 1872 in Almeria, Spain"
 died: "shot, blinded and burned on 28 August 1936 in Huércal, Almeria, Spain"
 birthPlace: "Spain"
 deathPlace: "blinded and burned on 28 August 1936Huércal, Almeria, Spain"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 28

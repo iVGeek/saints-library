@@ -14,7 +14,7 @@ deathYear: 1065
 born: "Thuringia (in modern Germany)"
 died: "24 June c.1065 in Jutland, Denmark of natural causes"
 deathPlace: "Denmarknatural causes"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 6
   day: 24

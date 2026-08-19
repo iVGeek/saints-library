@@ -5,7 +5,7 @@ summary: "First century bishop of Patras, Greece. He may have been one of the â€
 searchAliases:
   - "Herodian of Patras"
   - "Rhodion of Patras"
-region: "England"
+region: "Greece"
 feastDay:
   month: 4
   day: 8

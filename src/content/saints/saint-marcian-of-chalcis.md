@@ -11,7 +11,7 @@ deathYear: 387
 born: "Cyrrhus, Syria"
 died: "c.387 of natural causes"
 birthPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 2

@@ -5,7 +5,7 @@ summary: "Three Mercedarian lay knights who worked to ransom Christians enslaved
 image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Martyrs-of-Damietta.jpg"
 died: "thrown from a tower in the mid-13th century in Damietta, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 6
   day: 11

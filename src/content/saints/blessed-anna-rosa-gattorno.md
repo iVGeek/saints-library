@@ -11,7 +11,7 @@ born: "14 October 1831 at Genoa, Italy as Rose Maria Benedetta"
 died: "9am on 6 May 1900 at Rome, Italy of influenza"
 birthPlace: "Italy as Rose Maria Benedetta"
 deathPlace: "Italyinfluenza"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 5
   day: 6

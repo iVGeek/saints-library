@@ -10,7 +10,7 @@ birthYear: 799
 deathYear: 877
 born: "c.799 in Constantinople as Nicetas"
 died: "23 October 877 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 23

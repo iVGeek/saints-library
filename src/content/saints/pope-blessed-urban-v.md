@@ -12,7 +12,7 @@ born: "1310 Grizac Castle, Languedoc, France as Guillaume de Grimoard"
 died: "19 December 1370 at Avignon, Papal States (in modern France) of natural causes"
 birthPlace: "Languedoc, France as Guillaume de Grimoard"
 deathPlace: "Papal States (modern France) of natural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 12
   day: 19

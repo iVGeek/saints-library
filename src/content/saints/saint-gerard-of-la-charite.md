@@ -6,7 +6,7 @@ searchAliases:
   - "Gerhard of La-Charité"
 deathYear: 1109
 died: "1109 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 6

@@ -13,7 +13,7 @@ born: "c.1844 in Beiwangtou, Shenzhou, Hebei, China"
 died: "3 July 1900 in Beiwangtou, Shenzhou, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 3

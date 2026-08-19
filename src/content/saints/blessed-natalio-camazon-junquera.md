@@ -8,7 +8,7 @@ born: "1 December 1873 in Castromocho, Palencia, Spain"
 died: "14 August 1936 in El Picado, Almagro, Ciudad Real, Spain"
 birthPlace: "Palencia, Spain"
 deathPlace: "Almagro, Ciudad Real, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 14

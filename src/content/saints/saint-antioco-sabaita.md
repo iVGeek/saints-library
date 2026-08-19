@@ -6,7 +6,7 @@ deathYear: 630
 born: "Medosaga, Ankara, Galatia"
 died: "630"
 birthPlace: "Ankara, Galatia"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 22

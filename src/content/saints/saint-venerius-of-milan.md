@@ -7,7 +7,7 @@ searchAliases:
   - "Venerio"
 deathYear: 409
 died: "409 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 6

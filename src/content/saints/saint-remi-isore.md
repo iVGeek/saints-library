@@ -11,7 +11,7 @@ born: "22 January 1852 in Bambeque, France"
 died: "19 June 1900 in Wuyi, Hebei, China while praying at the altar"
 birthPlace: "France"
 deathPlace: "Hebei, China while praying at the altar"
-region: "France"
+region: "China"
 feastDay:
   month: 6
   day: 19

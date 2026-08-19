@@ -8,7 +8,7 @@ born: "Nagasaki, Japan"
 died: "burned alive on 2 October 1622 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 2

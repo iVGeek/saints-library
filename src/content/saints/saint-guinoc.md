@@ -9,7 +9,7 @@ searchAliases:
   - "Winnoc"
 deathYear: 838
 died: "c.838"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 4
   day: 13

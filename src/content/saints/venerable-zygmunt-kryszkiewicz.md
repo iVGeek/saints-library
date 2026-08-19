@@ -14,7 +14,7 @@ born: "2 May 1915 in Mlawa, Poland"
 died: "7 July 1945 in the hospital in Przasnysz, Poland of typhus"
 birthPlace: "Poland"
 deathPlace: "Polandtyphus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 11
   day: 11

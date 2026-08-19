@@ -11,7 +11,7 @@ deathYear: 404
 born: "Egyptian"
 died: "c.404 in Geris, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 6

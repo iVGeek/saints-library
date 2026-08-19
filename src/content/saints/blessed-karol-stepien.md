@@ -12,7 +12,7 @@ born: "21 October 1910 in Lódz, Lódzkie, Poland"
 died: "shot in the head on 19 July 1943 in a barn outside Borovikovshchina (Borowikowszczyzna), Minskaya voblasts', Belarus"
 birthPlace: "Lódzkie, Poland"
 deathPlace: "Minskaya voblasts', Belarus"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 7
   day: 19

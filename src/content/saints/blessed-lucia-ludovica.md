@@ -11,7 +11,7 @@ born: "c.1548 in Nagasaki, Japan"
 died: "8 September 1628 in Omura, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

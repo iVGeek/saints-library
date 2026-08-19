@@ -8,7 +8,7 @@ searchAliases:
 born: "Ireland"
 died: "near Bourges, France of natural causes while returning from Rome, Italy"
 deathPlace: "Francenatural causes while returning from Rome, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 12

@@ -12,7 +12,7 @@ born: "c.1550 in Dublin, Ireland"
 died: "30 January 1621 in Dublin, Ireland"
 birthPlace: "Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 1
   day: 30

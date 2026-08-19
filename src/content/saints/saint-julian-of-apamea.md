@@ -2,7 +2,7 @@
 name: "Saint Julian of Apamea"
 honorific: Saint
 summary: "Third century bishop of Apamea, Syria. Worked against the Montanist and Kata-Phrygian heresies."
-region: "England"
+region: "Syria"
 feastDay:
   month: 12
   day: 9

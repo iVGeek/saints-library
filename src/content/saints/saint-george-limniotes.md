@@ -7,7 +7,7 @@ birthYear: 635
 deathYear: 730
 born: "c.635"
 died: "mutilated and burned to death c.730"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 8
   day: 24

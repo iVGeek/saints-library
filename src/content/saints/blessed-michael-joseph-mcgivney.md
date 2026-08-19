@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Michael-Jose
 birthYear: 1852
 born: "12 August 1852 in Waterbury, Connecticut"
 birthPlace: "Connecticut"
-region: "France"
+region: "Canada"
 feastDay:
   month: 8
   day: 13

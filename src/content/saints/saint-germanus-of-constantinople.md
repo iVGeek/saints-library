@@ -9,7 +9,7 @@ birthYear: 640
 deathYear: 733
 born: "c.640 in Constantinople"
 died: "12 May 733 at Platonium of natural causes"
-region: "Germany"
+region: "Turkey"
 feastDay:
   month: 5
   day: 12

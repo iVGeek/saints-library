@@ -11,7 +11,7 @@ born: "c.1080 at Tournai, Belgium"
 died: "c.1155 at Igny, France of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 19

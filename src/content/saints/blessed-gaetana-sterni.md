@@ -10,7 +10,7 @@ deathYear: 1889
 born: "26 June 1827 at Cassola, Vicenza, Italy"
 died: "26 November 1889 of natural causes"
 birthPlace: "Vicenza, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 26

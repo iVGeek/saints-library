@@ -11,7 +11,7 @@ born: "14 November 1812 in Cagliari, Italy as Maria Cristina Carlotta Giuseppina
 died: "31 January 1836 in Naples, Italy of complications from childbirth"
 birthPlace: "Italy as Maria Cristina Carlotta Giuseppina Gaetana Elisa"
 deathPlace: "Italycomplications from childbirth"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 31

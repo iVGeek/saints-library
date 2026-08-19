@@ -12,7 +12,7 @@ deathYear: 405
 born: "4th century Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey)"
 died: "c.405 of natural causes"
 birthPlace: "Bithynia, Asia Minor (modern Izmit, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 27

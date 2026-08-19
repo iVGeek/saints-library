@@ -12,7 +12,7 @@ deathYear: 585
 born: "Argyllshire, Dalriada (in modern Scotland)"
 died: "c.585 of natural causes"
 birthPlace: "Dalriada (modern Scotland)"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 6
   day: 7

@@ -10,7 +10,7 @@ born: "1783 in Seoul, South Korea"
 died: "beheaded on 29 December 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 12
   day: 29

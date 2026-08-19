@@ -11,7 +11,7 @@ born: "1848 in Sinchang, Chungcheong-do, South Korea"
 died: "beaten to death on 23 December 1866 in Supjeong-i, Jeongju, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Jeongju, Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 12
   day: 23

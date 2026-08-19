@@ -12,7 +12,7 @@ born: "at Cahors, Gascony (in modern France)"
 died: "5 December 1109 at Bornos, Portugal of natural causes"
 birthPlace: "Gascony (modern France)"
 deathPlace: "Portugalnatural causes"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 12
   day: 5

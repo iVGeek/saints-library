@@ -15,7 +15,7 @@ deathYear: 1139
 born: "1060 in Swabia (part of modern Germany)"
 died: "30 June 1139 in Bamberg, Franconia (in modern Germany)"
 deathPlace: "Franconia (modern Germany)"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 6
   day: 30

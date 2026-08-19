@@ -5,7 +5,7 @@ summary: "Seventh-century priest. Monk at Iona Abbey. Missionary to Northumbria 
 searchAliases:
   - "Coman"
 born: "Ireland"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 3
   day: 12

@@ -17,7 +17,7 @@ born: c. 1225
 died: 7 March 1274
 birthPlace: Roccasecca, Italy
 deathPlace: Fossanova, Italy
-region: Italy
+region: "Germany"
 centuries: [13]
 feastDay:
   month: 1

@@ -11,7 +11,7 @@ born: "29 September 1873 in Veliki Lipovec, Žužemberk, Slovenia"
 died: "3 February 1939 in Ljubljana, Slovenia of a brain cancer"
 birthPlace: "Žužemberk, Slovenia"
 deathPlace: "Sloveniaa brain cancer"
-region: "Hungary"
+region: "India"
 feastDay:
   month: 6
   day: 23

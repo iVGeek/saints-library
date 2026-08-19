@@ -9,7 +9,7 @@ born: "21 January 1905 in Slawin, Wielkopolskie, Poland"
 died: "18 September 1942 in the Dachau concentration camp, Oberbayern, Germany of starvation, disease, abuse and neglect"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germanystarvation, disease, abuse and neglect"
-region: "France"
+region: "Poland"
 feastDay:
   month: 9
   day: 18

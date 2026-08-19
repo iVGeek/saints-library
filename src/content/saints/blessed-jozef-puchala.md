@@ -13,7 +13,7 @@ born: "18 March 1911 in Kosina, Podkarpackie, Poland"
 died: "burned to death on 19 July 1943 in a barn outside Borovikovshchina  (a.k.a. Borowikowszczyzna), Minskaya voblasts', Belarus that was set on fire by Nazi forces"
 birthPlace: "Podkarpackie, Poland"
 deathPlace: "Minskaya voblasts', Belarus that was set on fire by Nazi forces"
-region: "France"
+region: "Poland"
 feastDay:
   month: 7
   day: 19

@@ -9,7 +9,7 @@ deathYear: 560
 born: "Ireland, possibly in the area of Kildare"
 died: "c.560"
 birthPlace: "possiblythe area of Kildare"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 3
   day: 8

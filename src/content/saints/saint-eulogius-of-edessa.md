@@ -2,7 +2,7 @@
 name: "Saint Eulogius of Edessa"
 honorific: Saint
 summary: "Priest in Edessa, Syria. When a Arian bishop was imposed on the area by Emperor Valens, Eulogius refused to renouce orthodox Christianity and was exiled to Thebaid, Egypt where he worked for the conversion of local pagans. When Valens died, Eulogius returned to Edessa to serve as"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 5

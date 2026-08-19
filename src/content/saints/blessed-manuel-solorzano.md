@@ -8,7 +8,7 @@ born: "c.1905 in Suchitoto, Cuscatlán, El Salvador"
 died: "shot around 5pm on Saturday 12 March 1977 on the road between Aguilares and El Paisnal, San Salvador, El Salvador"
 birthPlace: "Cuscatlán, El Salvador"
 deathPlace: "San Salvador, El Salvador"
-region: "England"
+region: "Chile"
 feastDay:
   month: 3
   day: 12

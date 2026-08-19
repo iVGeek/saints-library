@@ -7,7 +7,7 @@ searchAliases:
   - "Henry of Utrecht"
 deathYear: 1225
 died: "1225"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 10
   day: 23

@@ -8,7 +8,7 @@ born: "15 May 1893 in the Santa Maria de Murias parish in Murias, Asturias, Spai
 died: "21 October 1936 in Nembra, Asturias, Spain"
 birthPlace: "Asturias, Spain"
 deathPlace: "Asturias, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 10
   day: 21

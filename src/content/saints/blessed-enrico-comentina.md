@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1345
 died: "beheaded on 17 January 1345 in Smyrna, Turkey"
 deathPlace: "Turkey"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 17

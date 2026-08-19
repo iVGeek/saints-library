@@ -11,7 +11,7 @@ born: "1819 in Seoul, South Korea"
 died: "beheaded on 1 February 1840 in Dangkogae, Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 2
   day: 1

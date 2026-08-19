@@ -10,7 +10,7 @@ born: "Alexandria, Egypt"
 died: "283 at Laodicea, Syria of natural causes"
 birthPlace: "Egypt"
 deathPlace: "Syrianatural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 3

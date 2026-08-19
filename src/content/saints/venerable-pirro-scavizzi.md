@@ -9,7 +9,7 @@ born: "31 March 1884 in Gubbio, Perugia, Italy"
 died: "9 September 1964 in Rome, Italy of natural causes"
 birthPlace: "Perugia, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 7

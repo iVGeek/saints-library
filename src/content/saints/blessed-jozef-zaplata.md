@@ -11,7 +11,7 @@ born: "5 March 1904 in Jerka, Wielkopolskie, Poland"
 died: "19 February 1945 at the Nazi concentration camp Dachau, Oberbayern, Germany of typhus and abuse"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germanytyphus and abuse"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 2
   day: 19

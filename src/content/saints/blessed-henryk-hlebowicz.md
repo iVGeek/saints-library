@@ -9,7 +9,7 @@ born: "1 June 1904 in Grodno, Hrodzyenskaya voblasts', Belarus"
 died: "shot on 9 November 1941 in Borisov (Borysów), Minskaya voblasts', Belarus"
 birthPlace: "Hrodzyenskaya voblasts', Belarus"
 deathPlace: "Minskaya voblasts', Belarus"
-region: "England"
+region: "Poland"
 feastDay:
   month: 11
   day: 9

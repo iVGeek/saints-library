@@ -11,7 +11,7 @@ born: "7 January 1916 at Bellagio, Como, Italy"
 died: "beaten to death by a guard on 12 January 1945 at Hersbruck, Nürnberger Land, Germany"
 birthPlace: "Como, Italy"
 deathPlace: "Nürnberger Land, Germany"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 9
   day: 9

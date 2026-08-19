@@ -5,7 +5,7 @@ summary: "Benedictine monk. Abbot of the monastery of Saint Claudius, Léon, Spa
 deathYear: 630
 born: "Spanish"
 died: "beheaded on 11 March 630"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 3
   day: 11

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Perinthus, Thrace (in modern Turkey). Martyr."
 searchAliases:
   - "Eutychius of Perinthus"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 9
   day: 29

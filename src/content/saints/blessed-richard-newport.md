@@ -9,7 +9,7 @@ born: "Ashby Saint Legers, Northamptonshire, England"
 died: "hanged, drawn and quartered on 30 May 1612 at Tyburn, London, England"
 birthPlace: "Northamptonshire, England"
 deathPlace: "drawn and quartered on 30 May 1612 at Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 30

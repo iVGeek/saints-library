@@ -6,7 +6,7 @@ searchAliases:
   - "Began"
   - "Beggan"
   - "Becain"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 4
   day: 5

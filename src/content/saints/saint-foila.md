@@ -6,7 +6,7 @@ searchAliases:
   - "Faile"
   - "Fallena"
   - "Follenna"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 3

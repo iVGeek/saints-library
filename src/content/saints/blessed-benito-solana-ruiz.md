@@ -11,7 +11,7 @@ born: "17 February 1882 in Cintruénigo, Navarra, Spain"
 died: "shot on 25 July 1936 in Urdá, Toledo, Spain"
 birthPlace: "Navarra, Spain"
 deathPlace: "Toledo, Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 7
   day: 25

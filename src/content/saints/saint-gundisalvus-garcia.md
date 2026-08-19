@@ -14,7 +14,7 @@ born: "1556 at Bassein, Maharashtra, India"
 died: "crucified on 5 February 1597 at Nagasaki, Japan"
 birthPlace: "Maharashtra, India"
 deathPlace: "Japan"
-region: "Portugal"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

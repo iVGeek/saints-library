@@ -12,7 +12,7 @@ born: "31 August 1910 in Rosière, Valais, Switzerland"
 died: "shot by Tibetan guards on 11 August 1949 in To-Thong, Tibet"
 birthPlace: "Valais, Switzerland"
 deathPlace: "Tibet"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 8
   day: 11

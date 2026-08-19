@@ -9,7 +9,7 @@ searchAliases:
   - "William of Thwayt"
 deathYear: 1154
 died: "June 1154"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 6
   day: 8

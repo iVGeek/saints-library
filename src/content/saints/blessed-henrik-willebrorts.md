@@ -9,7 +9,7 @@ deathYear: 1570
 born: "16th century Eindhoven, Noord-Brabant, Netherlands"
 died: "27 February 1570"
 birthPlace: "Noord-Brabant, Netherlands"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 27

@@ -9,7 +9,7 @@ born: "15 June 1892 in Chihuáhua City, Chihuáhua, Mexico"
 died: "11 February 1937 in Chihuáhua City, Chihuáhua, Mexico from a gunshot in the forehead the day before"
 birthPlace: "Chihuáhua, Mexico"
 deathPlace: "Chihuáhua, Mexicoa gunshot in the forehead the day before"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 2
   day: 11

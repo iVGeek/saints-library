@@ -11,7 +11,7 @@ born: "26 March 1895 in El Carmelo, El Santuario, Antioquía, Colombia"
 died: "23 March 1971 in Medellín, Antioquía, Colombia of cancer"
 birthPlace: "El Santuario, Antioquía, Colombia"
 deathPlace: "Antioquía, Colombiacancer"
-region: "France"
+region: "Colombia"
 feastDay:
   month: 3
   day: 11

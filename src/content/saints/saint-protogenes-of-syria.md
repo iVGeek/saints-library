@@ -7,7 +7,7 @@ searchAliases:
   - "Protogene…"
 born: "4th century Edessa, Syria"
 birthPlace: "Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 5
   day: 6

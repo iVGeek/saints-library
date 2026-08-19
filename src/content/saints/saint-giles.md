@@ -9,7 +9,7 @@ deathYear: 710
 born: "at Athens, Greece"
 died: "between 710 and 724 in France of natural causes"
 birthPlace: "Greece"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 9
   day: 1

@@ -11,7 +11,7 @@ born: "14 January 1835 on the Isle of San Fernando, diocese of Cadiz, Spain as M
 died: "20 January 1906 at Seville, Spain of natural causes"
 birthPlace: "dioceseCadiz, Spain as Marcelo Rafael Jos&eacute; Mar&iacute;a de los Dolores Hilario"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 29

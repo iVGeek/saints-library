@@ -11,7 +11,7 @@ born: "16 March 1818 in the parish of Saint-Leu, Amiens, Somme, France"
 died: "beheaded on Good Friday, 30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea"
 birthPlace: "Amiens, Somme, France"
 deathPlace: "30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea"
-region: "France"
+region: "Japan"
 feastDay:
   month: 3
   day: 30

@@ -12,7 +12,7 @@ deathYear: 460
 born: "Irish"
 died: "beheaded c.460 at Hayle, Cornwall, England"
 deathPlace: "Cornwall, England"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 23

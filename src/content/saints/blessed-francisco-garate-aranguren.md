@@ -11,7 +11,7 @@ born: "3 February 1857 in Azpeitia, Guipúzcoa, Spain"
 died: "at 7:00am on 9 September 1929 in Deusto, Bilbao, Vizcaya, Spain of complications involving a block urethra"
 birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Bilbao, Vizcaya, Spaof complications involving a block urethra"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 9

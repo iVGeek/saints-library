@@ -6,7 +6,7 @@ searchAliases:
   - "Gerome"
   - "Germoe"
   - "Germanus Mac Guill"
-region: "Italy"
+region: "England"
 feastDay:
   month: 6
   day: 24

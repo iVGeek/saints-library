@@ -5,7 +5,7 @@ summary: "Deacon under Saint Dionysius of Alexandria. Exiled to Libya in the per
 deathYear: 257
 died: "in 257 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 3

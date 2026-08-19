@@ -5,7 +5,7 @@ summary: " The Order of Saint Lazarus was founded in the 12th century to provide
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lazarus-the-Beggar.jpg"
 searchAliases:
   - "Lazaro"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 6
   day: 21

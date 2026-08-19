@@ -12,7 +12,7 @@ born: "Bavaria, Germany"
 died: "5th century at the monastery in Saumur, France of natural causes, reportedly at age 123"
 birthPlace: "Germany"
 deathPlace: "Francenatural causes, reportedly at age 123"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 22

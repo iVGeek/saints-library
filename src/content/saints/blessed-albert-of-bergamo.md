@@ -11,7 +11,7 @@ born: "at Villa d'Ogna, Italy"
 died: "7 May 1279 in Cremona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 5
   day: 7

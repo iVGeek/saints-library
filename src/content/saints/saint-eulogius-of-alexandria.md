@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 607
 born: "Syrian"
 died: "c.607 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 13

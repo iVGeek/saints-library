@@ -12,7 +12,7 @@ searchAliases:
   - "Clar…"
 died: "beheaded in the early 2nd century in Lectoure, France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 1

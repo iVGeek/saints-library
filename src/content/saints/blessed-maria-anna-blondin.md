@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1890
 died: "2 January 1890 at Lachine, Quebec, Canada of natural causes"
 deathPlace: "Quebec, Canadanatural causes"
-region: "France"
+region: "Canada"
 feastDay:
   month: 1
   day: 2

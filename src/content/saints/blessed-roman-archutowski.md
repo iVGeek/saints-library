@@ -9,7 +9,7 @@ born: "5 August 1882 in Karolin, Mazowieckie, Poland"
 died: "Palm Sunday, 18 April 1943 in Majdanek, Lubelskie, Poland from starvation and disease"
 birthPlace: "Mazowieckie, Poland"
 deathPlace: "18 April 1943Majdanek, Lubelskie, Poland from starvation and disease"
-region: "England"
+region: "Poland"
 feastDay:
   month: 4
   day: 18

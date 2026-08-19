@@ -9,7 +9,7 @@ born: "10 September 1907 in Kluczewo, Wielkopolskie, Poland"
 died: "1 January 1943 in the concentration camp at Dachau, Oberbayern, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 1
   day: 1

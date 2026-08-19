@@ -12,7 +12,7 @@ born: "1 October 1606 at Saint-Georges-de-Reitembault, France"
 died: "8pm on 28 January 1683 at Plévin, France of natural causes"
 birthPlace: "France"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Canada"
 feastDay:
   month: 1
   day: 28

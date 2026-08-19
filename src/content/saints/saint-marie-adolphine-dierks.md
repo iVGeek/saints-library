@@ -13,7 +13,7 @@ born: "8 March 1866 in Ossendrecht, Noord Brabant, Netherlands as Anne-Catherine
 died: "beheaded on 9 July 1900 at Taiyuanfu, China"
 birthPlace: "Noord Brabant, Netherlands as Anne-Catherine Dierks"
 deathPlace: "China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 8

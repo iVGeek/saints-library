@@ -9,7 +9,7 @@ born: "2 September 1892 in Shkodrë, Albania"
 died: "shot on 5 March 1945 in Tiranë, Albania"
 birthPlace: "Albania"
 deathPlace: "Albania"
-region: "England"
+region: "Austria"
 feastDay:
   month: 3
   day: 5

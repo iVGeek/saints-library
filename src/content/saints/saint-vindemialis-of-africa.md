@@ -8,7 +8,7 @@ searchAliases:
   - "Vindemial"
 deathYear: 485
 died: "beheaded c.485"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 2

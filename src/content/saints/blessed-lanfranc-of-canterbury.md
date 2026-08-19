@@ -9,7 +9,7 @@ born: "c.1005 in Pavia, Italy"
 died: "24 May 1089 in Canterbury, England of natural causes"
 birthPlace: "Italy"
 deathPlace: "Englandnatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 5
   day: 28

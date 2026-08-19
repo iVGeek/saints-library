@@ -9,7 +9,7 @@ born: "9 October 1880 in Vitoria, Spain"
 died: "shot on 31 August 1936 in Aravaca, Madrid, Spain"
 birthPlace: "Spain"
 deathPlace: "Madrid, Spain"
-region: "Spain"
+region: "Caribbean"
 feastDay:
   month: 8
   day: 31

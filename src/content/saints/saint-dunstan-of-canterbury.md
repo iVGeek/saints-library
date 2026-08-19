@@ -9,7 +9,7 @@ born: "909 at Baltonsborough, Glastonbury, England"
 died: "19 May 988 at Canterbury, England of natural causes"
 birthPlace: "Glastonbury, England"
 deathPlace: "Englandnatural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 5
   day: 19

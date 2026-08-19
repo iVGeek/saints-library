@@ -14,7 +14,7 @@ deathYear: 383
 born: "early 4th century, Tyre (modern Sur, Lebanon)"
 died: "c.383 in Ethiopia of natural causes"
 birthPlace: "Tyre (modern Sur, Lebanon)"
-region: "England"
+region: "Africa"
 feastDay:
   month: 7
   day: 20

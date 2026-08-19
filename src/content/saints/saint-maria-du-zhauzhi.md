@@ -12,7 +12,7 @@ born: "c.1849 in Qifengzhuang, Shenzhou, Hebei, China"
 died: "28 June 1900 in Wangjiatian, Hengshui City, Hebei, China"
 birthPlace: "Shenzhou, Hebei, China"
 deathPlace: "Hengshui City, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 28

@@ -5,7 +5,7 @@ summary: "On 25 December 1597 an expedition of colonists, with two Jesuit and tw
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg"
 deathYear: 1645
 died: "1645"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 10
   day: 3

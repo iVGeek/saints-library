@@ -7,7 +7,7 @@ searchAliases:
   - "Metodio"
 deathYear: 311
 died: "c.311 at Chalcis (in modern Greece)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 6
   day: 20

@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 962
 born: "in the Lorraine region of France"
 died: "962 at Gorze Abbey in France of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 23

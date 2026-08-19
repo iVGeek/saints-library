@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Bishop of Alexandria, Egypt. Ordained Arius, the founder of the Arian heresy. Attacked by Meletianists for his orthodox Christianity."
 deathYear: 313
 died: "313 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 11
   day: 7

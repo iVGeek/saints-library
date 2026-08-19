@@ -15,7 +15,7 @@ deathYear: 447
 born: "c.375 in Gaul (modern France, possibly the area of Auxerre"
 died: "27 November 447 of natural causes"
 birthPlace: "possibly the areaAuxerre"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 11
   day: 27

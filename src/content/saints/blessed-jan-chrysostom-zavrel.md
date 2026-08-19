@@ -12,7 +12,7 @@ born: "1725 in Chodov, Prague (in modern Czech Republic)"
 died: "13 May 1799 in Casamari Abbey, Veroli, Frosinone, Italy"
 birthPlace: "Prague (modern Czech Republic)"
 deathPlace: "Veroli, Frosinone, Italy"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 5
   day: 16

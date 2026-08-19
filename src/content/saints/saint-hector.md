@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Martyred in the persecutions of Diocletian, possibly in Greece. No other information has survived."
 searchAliases:
   - "Ettore"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 6
   day: 20

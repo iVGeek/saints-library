@@ -15,7 +15,7 @@ born: "7 December 1845 in  Valle de Abdalajís, Málaga, Spain as Ana Josefa Per
 died: "16 August 1906 in Barcelona, Spain of complications arising from diabetes"
 birthPlace: "Málaga, Spaas Ana Josefa Perez Florido"
 deathPlace: "Spaof complications arising from diabetes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 8
   day: 16

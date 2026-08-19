@@ -8,7 +8,7 @@ searchAliases:
   - "Thomas Dangi"
   - "Thomas Danki"
 born: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

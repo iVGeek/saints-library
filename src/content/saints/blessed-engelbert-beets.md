@@ -8,7 +8,7 @@ born: "c.1539 in Hoeleden, Brabant, Flanders (in modern Belgium)"
 died: "1579 in Sint-Truiden, Limburg, Flanders (in modern Belgium)"
 birthPlace: "Brabant, Flanders (modern Belgium)"
 deathPlace: "Limburg, Flanders (modern Belgium)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 7

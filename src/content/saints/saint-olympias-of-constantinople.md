@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 408
 born: "at Constantinople"
 died: "25 July 408 at Nicomedia following a long illness"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 17

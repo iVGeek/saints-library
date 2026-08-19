@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 750
 died: "c.750 in Tongres, Brabant, Astrasia (in modern Belgium) of natural causes"
 deathPlace: "Brabant, Astrasia (modern Belgium) of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 6

@@ -6,7 +6,7 @@ summary: "Daughter of Pepin II. Married to a pagan. Mother of Saint Rupert of Bi
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bertha_von_Bingen.jpg"
 searchAliases:
   - "Berta"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 15

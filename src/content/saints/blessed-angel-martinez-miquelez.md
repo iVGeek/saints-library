@@ -9,7 +9,7 @@ born: "4am on 2 March 1907 in Funes, Navarra, Spain"
 died: "shot on 20 July 1936 in Casa de Campo, Madrid, Spain"
 birthPlace: "Navarra, Spain"
 deathPlace: "Madrid, Spain"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 7
   day: 20

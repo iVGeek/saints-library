@@ -11,7 +11,7 @@ born: "20 January 1907 in Dwikozy, Swietokrzyskie, Poland"
 died: "hanged on 9 January 1942 in the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Swietokrzyskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 9

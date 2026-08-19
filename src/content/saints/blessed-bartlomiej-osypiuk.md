@@ -9,7 +9,7 @@ born: "3 September 1843 in Bohukaly, Podlasie, Poland"
 died: "shot on 14 January 1874 by Russian soldiers in Podlasie, Poland"
 birthPlace: "Podlasie, Poland"
 deathPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 24

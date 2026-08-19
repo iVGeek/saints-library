@@ -10,7 +10,7 @@ born: "c.1544 at Dufton, Westmoreland, England"
 died: "hanged, drawn, and quartered on 24 July 1594 at Dryburn near Durham, England"
 birthPlace: "Westmoreland, England"
 deathPlace: "drawn, and quartered on 24 July 1594 at Dryburn near Durham, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 24

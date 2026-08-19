@@ -9,7 +9,7 @@ born: "9 July 1877 in Marmolejo, Jaén, Spain"
 died: "shot at dawn on 3 April 1937 in the parish cemetery of Mancha Real, Jaén, Spain"
 birthPlace: "Jaén, Spain"
 deathPlace: "Jaén, Spain"
-region: "France"
+region: "Chile"
 feastDay:
   month: 4
   day: 3

@@ -9,7 +9,7 @@ deathYear: 1359
 born: "c.1299"
 died: "17 January 1359 in Racibórz, Poland of natural causes"
 deathPlace: "Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 1
   day: 17

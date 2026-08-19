@@ -11,7 +11,7 @@ born: "22 December 1877 in Santa Margarida de Vallors, Girona, Spain"
 died: "shot in the head on the morning of 5 August 1936 in a cemetery in Lleida, Spain"
 birthPlace: "Girona, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 5

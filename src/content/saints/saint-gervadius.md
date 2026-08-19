@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 934
 born: "Irish"
 died: "c.934"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 11
   day: 8

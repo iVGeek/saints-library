@@ -9,7 +9,7 @@ born: "1628 in Melton Mowbray, Leicestershire, England"
 died: "hanged, drawn, and quartered on 20 June 1679 at Tyburn, London, England"
 birthPlace: "Leicestershire, England"
 deathPlace: "drawn, and quartered on 20 June 1679 at Tyburn, London, England"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 6
   day: 20

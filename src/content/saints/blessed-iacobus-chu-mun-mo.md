@@ -14,7 +14,7 @@ born: "1752 in Suzhou, Jiangsu, China"
 died: "beheaded on 31 May 1801 by the Han River in Saenamteo, Seoul, South Korea"
 birthPlace: "Jiangsu, China"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 31

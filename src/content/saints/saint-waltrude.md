@@ -14,7 +14,7 @@ searchAliases:
   - "Waudru"
 deathYear: 686
 died: "9 April 686 of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 9

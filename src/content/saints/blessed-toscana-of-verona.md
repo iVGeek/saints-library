@@ -8,7 +8,7 @@ deathYear: 1343
 born: "c.1290 at Zevio, Verona, Italy"
 died: "14 July 1343 of natural causes"
 birthPlace: "Verona, Italy"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 7
   day: 14

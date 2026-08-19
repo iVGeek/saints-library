@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 250
 died: "beheaded in 250 at Melitene, Armenia (modern Malatya, Turkey)"
 deathPlace: "Armenia (modern Malatya, Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 7

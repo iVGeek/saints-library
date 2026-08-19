@@ -11,7 +11,7 @@ born: "23 March 1897 in Shkodrë, Albania"
 died: "16 April 1950 at the Great Prison in Shkodrë, Albania of cancer"
 birthPlace: "Albania"
 deathPlace: "Albaniacancer"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 4
   day: 16

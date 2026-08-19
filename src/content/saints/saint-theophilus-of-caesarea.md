@@ -5,7 +5,7 @@ summary: "Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect th
 image: "http://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg"
 deathYear: 195
 died: "c.195 of natural causes"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 3
   day: 5

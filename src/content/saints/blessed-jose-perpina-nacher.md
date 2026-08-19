@@ -9,7 +9,7 @@ born: "22 February 1911 in Sueca, Valencia, Spain"
 died: "29 December 1936 in Picadero de Paterna, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 12
   day: 29

@@ -13,7 +13,7 @@ born: "12 November 1842 in Roszkowa Wola Castle, Rzeczyca, Poland"
 died: "21 November 1902 in Rome, Italy of peritonitis"
 birthPlace: "Rzeczyca, Poland"
 deathPlace: "Italyperitonitis"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 11
   day: 21

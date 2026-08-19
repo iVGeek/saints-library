@@ -10,7 +10,7 @@ deathYear: 584
 born: "512 in Rome, Italy"
 died: "15 January 584 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 15

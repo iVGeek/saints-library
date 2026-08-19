@@ -7,7 +7,7 @@ searchAliases:
   - "Corona of Damascus"
 deathYear: 165
 died: "c.165 in Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 5
   day: 14

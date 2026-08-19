@@ -9,7 +9,7 @@ born: "1 November 1888 in Juszewszczyzna, Ashmyany, Poland"
 died: "15 February 1975 in Bialystock, Poland of natural causes"
 birthPlace: "Ashmyany, Poland"
 deathPlace: "Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 2
   day: 15

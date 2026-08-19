@@ -8,7 +8,7 @@ deathYear: 379
 born: "c.327 at Caesarea, Cappadocia (in modern Turkey)"
 died: "379 at Pontus (in modern Turkey) of natural causes"
 birthPlace: "Cappadocia (modern Turkey)"
-region: "Ireland"
+region: "Turkey"
 feastDay:
   month: 7
   day: 19

@@ -14,7 +14,7 @@ born: "c.1040 in Bavaria, Germany"
 died: "1102 at Corozain, Palestine"
 birthPlace: "Germany"
 deathPlace: "Palestine"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 9
   day: 28

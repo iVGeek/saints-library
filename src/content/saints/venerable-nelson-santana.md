@@ -11,7 +11,7 @@ born: "31 July 1955 in Ibitinga, São Paulo, Brazil"
 died: "24 December 1964 in Araraquara, São Paulo, Brazil"
 birthPlace: "São Paulo, Brazil"
 deathPlace: "São Paulo, Brazil"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

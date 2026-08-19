@@ -14,7 +14,7 @@ born: "16 May 1619 at Villaflores, Tenerife Island, Canary Islands, Spain"
 died: "25 April 1667 at Guatemala City, Guatemala of natural causes"
 birthPlace: "Tenerife Island, Canary Islands, Spain"
 deathPlace: "Guatemalanatural causes"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 4
   day: 25

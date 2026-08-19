@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 305
 died: "burned to death between sheets of red hot metal c.305 in Kynopolis, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 5
   day: 18

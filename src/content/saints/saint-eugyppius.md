@@ -5,7 +5,7 @@ summary: "Ordained in Rome, Italy. Worked with Saint Severinus in Noricum (part 
 deathYear: 511
 born: "North Africa"
 died: "c.511"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 1
   day: 15

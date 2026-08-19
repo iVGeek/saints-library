@@ -11,7 +11,7 @@ born: "early 4th century Melitene, Lower Armenia (modern Malatya, Turkey)"
 died: "381 at Constantinople (modern Istanbul, Turkey) of natural causes"
 birthPlace: "Lower Armenia (modern Malatya, Turkey)"
 deathPlace: "Turkey)natural causes"
-region: "Ireland"
+region: "Turkey"
 feastDay:
   month: 2
   day: 12

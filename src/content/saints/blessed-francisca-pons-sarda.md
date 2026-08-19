@@ -10,7 +10,7 @@ born: "18 July 1880 in Espluga de Francoli, Tarragona, Spain"
 died: "shot on 31 July 1936 at the L'Arrabassada highway, Barcelona, Spain"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "Spain"
+region: "Argentina"
 feastDay:
   month: 7
   day: 31

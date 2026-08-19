@@ -13,7 +13,7 @@ born: "21 September 1571 in Logroño, Spain"
 died: "beheaded on 1 June 1617 in Koguchi, Omura, Nagasaki, Japan"
 birthPlace: "Spain"
 deathPlace: "Omura, Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 6
   day: 1

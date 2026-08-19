@@ -13,7 +13,7 @@ born: "14 April 1861 in San Jorge, Castellón, Spain"
 died: "shot on 11 February 1937 at the Hospitaller community just outside the city of Valencia, Spain"
 birthPlace: "Castellón, Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 2
   day: 11

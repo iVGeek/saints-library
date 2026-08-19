@@ -10,7 +10,7 @@ deathYear: 676
 born: "c.605 at Connaught, Ireland"
 died: "8 August 676 at Inishboffin abbey of natural causes"
 birthPlace: "Ireland"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 2
   day: 18

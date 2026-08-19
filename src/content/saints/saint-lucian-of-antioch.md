@@ -19,7 +19,7 @@ born: "mid-3rd century at Samosata, Syria"
 died: "tortured, starved, and run through with a sword in 312 at Nicomedia, Bithynia (modern Izmid, Turkey)"
 birthPlace: "Syria"
 deathPlace: "starved, and run through with a sword312 at Nicomedia, Bithynia (modern Izmid, Turkey)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 7

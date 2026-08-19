@@ -7,7 +7,7 @@ born: "Corinth, Greece"
 died: "beheaded in 283 in Diospolis (modern Hu), Egypt"
 birthPlace: "Greece"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 25

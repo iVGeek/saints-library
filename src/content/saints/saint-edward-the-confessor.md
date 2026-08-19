@@ -5,7 +5,7 @@ summary: "Born a prince, the son of King Ethelred II and Queen Emma; half-brothe
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/960px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg"
 deathYear: 1066
 died: "5 January 1066 of natural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 5

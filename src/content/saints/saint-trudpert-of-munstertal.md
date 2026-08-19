@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 644
 died: "c.644 at Münstertal, Germany"
 deathPlace: "Germany"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 4
   day: 26

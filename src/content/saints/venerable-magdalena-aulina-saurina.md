@@ -9,7 +9,7 @@ born: "12 December 1897 in Banyoles, Girona, Spain"
 died: "15 May 1956 in Barcelona, Spain of natural causes"
 birthPlace: "Girona, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Caribbean"
 feastDay:
   month: 1
   day: 1

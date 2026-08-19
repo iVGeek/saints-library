@@ -13,7 +13,7 @@ born: "4 June 1655 in Cori, Latina, Italy as Francesco Antonio Placidi"
 died: "11 January 1729 at Bellegra, Rome, Italy of natural causes"
 birthPlace: "Latina, Italy as Francesco Antonio Placidi"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 11

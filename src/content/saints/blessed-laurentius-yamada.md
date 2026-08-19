@@ -7,7 +7,7 @@ deathYear: 1628
 born: "1625 in Japan"
 died: "beheaded on 8 September 1628 in Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 8

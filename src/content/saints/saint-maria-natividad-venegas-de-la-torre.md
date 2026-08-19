@@ -14,7 +14,7 @@ born: "8 September 1868 in La Tapona, Zapotlanejo, Jalisco, Mexico"
 died: "30 July 1959 in Guadalajara, Jalisco, Mexico of natural causes"
 birthPlace: "Zapotlanejo, Jalisco, Mexico"
 deathPlace: "Jalisco, Mexiconatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 7
   day: 30

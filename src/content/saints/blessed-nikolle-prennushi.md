@@ -11,7 +11,7 @@ born: "4 September 1885 in Shkodrë, Albania"
 died: "20 March 1949 in prison in Durrës, Albania of abuse and repeated torture"
 birthPlace: "Albania"
 deathPlace: "Albaniaabuse and repeated torture"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 3
   day: 20

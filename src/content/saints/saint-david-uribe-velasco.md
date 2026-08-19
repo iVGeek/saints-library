@@ -11,7 +11,7 @@ born: "29 December 1888 at Buenavista de Cuellar, Guerrero, Mexico"
 died: "shot in the back of the head on 12 April 1927 near San Jose Videl, Morelia, Mexico"
 birthPlace: "Guerrero, Mexico"
 deathPlace: "Morelia, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 4
   day: 12

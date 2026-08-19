@@ -12,7 +12,7 @@ born: "28 March 1811 at Prachititz, Bohemia (Czech Republic)"
 died: "5 January 1860 of a stroke at 13th and Vine Streets, Philadephia, Pennsylvania"
 birthPlace: "Bohemia (Czech Republic)"
 deathPlace: "Philadephia, Pennsylvania"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 5

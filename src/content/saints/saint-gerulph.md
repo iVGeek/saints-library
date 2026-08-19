@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 746
 died: "746 in Tronchiennes (Drogen), Flanders, Belgium"
 deathPlace: "Flanders, Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 9
   day: 21

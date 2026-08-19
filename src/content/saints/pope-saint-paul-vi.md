@@ -11,7 +11,7 @@ born: "26 September 1897 at Concesio, Lombardy, Italy as Giovanni Battista Monti
 died: "6 August 1978 at Castelgandolfo, Rome, Italy of natural causes"
 birthPlace: "Lombardy, Italy as Giovanni Battista Montini"
 deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 5
   day: 29

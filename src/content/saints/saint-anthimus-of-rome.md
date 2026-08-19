@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sant%27Antimo_
 deathYear: 303
 died: "beheaded in 303 on the Via Salaria outside Rome, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 11

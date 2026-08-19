@@ -9,7 +9,7 @@ born: "9 March 1876 in Seville, Spain"
 died: "13 October 1936 in Barcelona, Spain"
 birthPlace: "Spain"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 11

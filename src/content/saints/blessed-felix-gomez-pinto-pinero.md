@@ -9,7 +9,7 @@ born: "18 May 1870 in La Torre de Esteban Hambrán, Toledo, Spain"
 died: "shot with a shotgun on 7 September 1936 on the road near Hueva, Guadalajara, Spain"
 birthPlace: "Toledo, Spain"
 deathPlace: "Guadalajara, Spain"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 9
   day: 7

@@ -8,7 +8,7 @@ born: "c.630 at Blois, France"
 died: "murdered c.676 on Capri, Italy"
 birthPlace: "France"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 13

@@ -9,7 +9,7 @@ deathYear: 1641
 born: "c.1560 in England as William Webster"
 died: "hanged, drawn, and quartered on 26 July 1641 at Tyburn, London, England"
 deathPlace: "drawn, and quartered on 26 July 1641 at Tyburn, London, England"
-region: "Spain"
+region: "Belgium"
 feastDay:
   month: 7
   day: 26

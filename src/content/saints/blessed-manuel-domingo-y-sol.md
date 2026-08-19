@@ -9,7 +9,7 @@ born: "1 April 1836 in Tortosa, Tarragona, Spain"
 died: "25 January 1909 in Tortosa, Spain of natural causes"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 25

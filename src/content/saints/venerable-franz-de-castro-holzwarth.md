@@ -9,7 +9,7 @@ born: "18 May 1942 in Barra do Piraí, Rio de Janeiro, Brazil"
 died: "shot on 14 February 1981 in Jacareí, São Paulo, Brazil of natural causes"
 birthPlace: "Rio de Janeiro, Brazil"
 deathPlace: "São Paulo, Brazilnatural causes"
-region: "England"
+region: "Brazil"
 feastDay:
   month: 1
   day: 1

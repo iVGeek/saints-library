@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 1241
 died: "5 August 1241 in the Sanctuary of La Verna, near Chiusi della Verna, Italy of natural causes"
 deathPlace: "near Chiusi della Verna, Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 5

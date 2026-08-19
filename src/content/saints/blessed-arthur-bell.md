@@ -11,7 +11,7 @@ born: "13 January 1590 in Temple Broughton, Worcestershire, England"
 died: "hanged, drawn, and quartered on 11 December 1643 at Tyburn, London, England"
 birthPlace: "Worcestershire, England"
 deathPlace: "drawn, and quartered on 11 December 1643 at Tyburn, London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 12
   day: 11

@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 341
 died: "in 341 in Alexandria, Egypt from injuries sustained from a beating with clubs"
 deathPlace: "Egyptinjuries sustained from a beating with clubs"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 5
   day: 18

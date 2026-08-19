@@ -11,7 +11,7 @@ born: "c.378 at Auxerre, France"
 died: "31 July 448 at Ravenna, Italy of natural causes"
 birthPlace: "France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 31

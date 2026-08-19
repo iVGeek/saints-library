@@ -11,7 +11,7 @@ born: "c.1813 in Phú Trang, Nam Ðanh, Vietnam"
 died: "strangled to death on 19 December 1839 in Co Me, Bac Ninh, Vietnam"
 birthPlace: "Nam Ðanh, Vietnam"
 deathPlace: "Bac Ninh, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 12
   day: 19

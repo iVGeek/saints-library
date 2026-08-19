@@ -6,7 +6,7 @@ born: "latter 4th century in Alexandria, Egypt"
 died: "late 4th century in Alexandria, Egypt of natural causes"
 birthPlace: "Egypt"
 deathPlace: "Egyptnatural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 2
   day: 14

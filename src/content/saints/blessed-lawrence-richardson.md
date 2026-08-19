@@ -10,7 +10,7 @@ born: "Great Crosby, County Lancaster, England"
 died: "hanged on 30 May 1582 at Tyburn, London, England"
 birthPlace: "County Lancaster, England"
 deathPlace: "London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 30

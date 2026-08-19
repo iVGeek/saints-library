@@ -11,7 +11,7 @@ born: "1103 in Oisy, Flanders, Belgium"
 died: "c.1170 at Grand-Brigard Abbey, Brabant, Belgium of natural causes"
 birthPlace: "Flanders, Belgium"
 deathPlace: "Brabant, Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 12
   day: 17

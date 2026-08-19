@@ -11,7 +11,7 @@ born: "1590 in Verín, Orense, Spain"
 died: "burned alive on 25 August 1624 in Omura, Nagasaki, Japan"
 birthPlace: "Orense, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 8
   day: 25

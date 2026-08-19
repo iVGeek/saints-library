@@ -11,7 +11,7 @@ born: "12 May 1889 in Grafing bei München, Ebersberg, Germany"
 died: "shot on 24 March 1945 in Nysa (Neisse Oberneuland), Poland"
 birthPlace: "Ebersberg, Germany"
 deathPlace: "Poland"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 3
   day: 24

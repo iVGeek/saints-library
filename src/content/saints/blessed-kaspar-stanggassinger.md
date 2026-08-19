@@ -12,7 +12,7 @@ born: "12 January 1871 in Berchtesgaden, Berchtesgadener Land, Germany"
 died: "26 September 1899 in Gars am Inn, Mühldorf, Germany of acute peritonitis"
 birthPlace: "Berchtesgadener Land, Germany"
 deathPlace: "Mühldorf, Germanyacute peritonitis"
-region: "Germany"
+region: "Brazil"
 feastDay:
   month: 9
   day: 26

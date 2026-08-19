@@ -7,7 +7,7 @@ searchAliases:
   - "Costanzo of Perugia"
 deathYear: 170
 died: "beheaded in 170"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 1
   day: 29

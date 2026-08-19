@@ -12,7 +12,7 @@ searchAliases:
 born: "Ireland"
 died: "beheaded in Gheel, Belgium"
 deathPlace: "Belgium"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 5
   day: 15

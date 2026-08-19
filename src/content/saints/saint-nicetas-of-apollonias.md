@@ -5,7 +5,7 @@ summary: "Bishop of Apollonias in Bithynia (in modern Turkey). Persecuted and ex
 searchAliases:
   - "Nicetas of Bithynia"
   - "Niceta"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 20

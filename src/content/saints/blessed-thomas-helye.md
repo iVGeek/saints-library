@@ -8,7 +8,7 @@ born: "early 13th century in Biville, Normandy, France"
 died: "19 October 1257 in Biville, Normandy, France of natural causes"
 birthPlace: "Normandy, France"
 deathPlace: "Normandy, Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 19

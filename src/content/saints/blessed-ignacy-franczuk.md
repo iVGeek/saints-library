@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1824
 born: "1824 in Derlo, Podlasie, Poland"
 birthPlace: "Podlasie, Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 24

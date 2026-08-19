@@ -7,7 +7,7 @@ deathYear: 1537
 born: "English"
 died: "hanged in chains on 11 May 1537 from the battlements of York, England"
 deathPlace: "England"
-region: "Spain"
+region: "England"
 feastDay:
   month: 5
   day: 11

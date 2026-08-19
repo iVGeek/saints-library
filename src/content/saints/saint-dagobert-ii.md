@@ -8,7 +8,7 @@ deathYear: 679
 born: "c.650"
 died: "23 December 679 at Lorraine, France in a hunting accident by Ebroin, mayor of the palace"
 deathPlace: "Francea hunting accident by Ebroin, mayor of the palace"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 12
   day: 23

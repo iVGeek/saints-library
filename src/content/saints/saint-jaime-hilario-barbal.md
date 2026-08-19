@@ -13,7 +13,7 @@ born: "2 January 1898 at Enviny, Lerida, diocese of La Seu d'Urgell, northern Sp
 died: "shot to death on 18 January 1937 at the Mount of Olives cemetery near Tarragona, Spain"
 birthPlace: "Lerida, dioceseLa Seu d'Urgell, northern Spain as Manuel Barbal Cosan"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 28

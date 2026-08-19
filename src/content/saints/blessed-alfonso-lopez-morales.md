@@ -9,7 +9,7 @@ born: "23 January 1871 in El Viso de los Pedroches, Córdoba, Spain"
 died: "17 August 1936 in Santa Eufemia, Córdoba, Spain"
 birthPlace: "Córdoba, Spain"
 deathPlace: "Córdoba, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 17

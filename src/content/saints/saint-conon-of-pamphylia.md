@@ -14,7 +14,7 @@ searchAliases:
 deathYear: 251
 died: "nails were driven through his ankles and he was forced to run ahead of a chariot until he collapsed and it ran over him, c.251 at Pamphylia (part of modern Turkey)"
 deathPlace: "c.251 at Pamphylia (partmodern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 5

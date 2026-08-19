@@ -14,7 +14,7 @@ searchAliases:
   - "Paphnutios…"
 born: "Egypt"
 died: "authorities tied a stone around his neck and threw him into a river; he floated to shore on the stone"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 7
   day: 20

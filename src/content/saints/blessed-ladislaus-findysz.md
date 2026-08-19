@@ -11,7 +11,7 @@ born: "13 December 1907 in Kroscienko Nizne, near Krosno, Poland"
 died: "morning of 21 August 1964 of cancer of the esophagus in the presbytery of Nowy Zmigr&oacute;d, Poland"
 birthPlace: "near Krosno, Poland"
 deathPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 8
   day: 21

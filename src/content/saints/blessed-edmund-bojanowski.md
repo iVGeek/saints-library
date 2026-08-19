@@ -12,7 +12,7 @@ born: "14 November 1814 in Grabonog, Poland"
 died: "7 August 1871 in Gorka Duchowna, Poland of natural causes"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 7

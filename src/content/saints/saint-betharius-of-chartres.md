@@ -10,7 +10,7 @@ deathYear: 623
 born: "Rome, Italy"
 died: "c.623 of natural causes"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 2

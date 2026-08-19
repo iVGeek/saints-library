@@ -9,7 +9,7 @@ born: "25 December 1907 in Ontinyent, Valencia, Spain"
 died: "shot on 11 August 1936 in Agullent, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 11

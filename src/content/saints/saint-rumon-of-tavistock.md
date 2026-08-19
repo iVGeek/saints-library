@@ -6,7 +6,7 @@ searchAliases:
   - "Ronan"
   - "Roman"
 died: "6th century of natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 8
   day: 30

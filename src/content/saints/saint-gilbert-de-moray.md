@@ -6,7 +6,7 @@ searchAliases:
   - "Gilbert of Caithness"
 deathYear: 1245
 died: "1245 of natural causes"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 4
   day: 1

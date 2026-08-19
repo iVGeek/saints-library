@@ -10,7 +10,7 @@ born: "9 February 1905 in Dabrówka Dolna, Pokój, Namyslów, Poland"
 died: "beaten and then shot several times on 20 February 1945 in Zary, Poland"
 birthPlace: "Pokój, Namyslów, Poland"
 deathPlace: "Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 2
   day: 20

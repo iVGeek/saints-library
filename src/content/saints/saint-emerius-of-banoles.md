@@ -7,7 +7,7 @@ searchAliases:
   - "Memerius"
 born: "France"
 died: "8th century of natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 27

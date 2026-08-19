@@ -11,7 +11,7 @@ born: "30 August 1873 in Fossa, L'Aquila, Italy as Angelo Giacomantonio"
 died: "wrapped in a sheet soaked in oil and then burned to death on 4 July 1900 in Hengzhou, Hunan, China"
 birthPlace: "L'Aquila, Italy as Angelo Giacomantonio"
 deathPlace: "Hunan, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 4

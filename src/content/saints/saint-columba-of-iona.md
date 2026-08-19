@@ -22,7 +22,7 @@ born: "7 December 521 at Garten, County Donegal, Ireland"
 died: "9 June 597 at Iona, Scotland, and buried there"
 birthPlace: "County Donegal, Ireland"
 deathPlace: "Scotland, and buried there"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 6
   day: 9

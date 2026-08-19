@@ -14,7 +14,7 @@ born: "1 May 1894 in Brno, Czechoslovakia (modern Czech Republic) as Helena Kafk
 died: "beheaded on 30 March 1943 at Vienna, Austria"
 birthPlace: "Czechoslovakia (modern Czech Republic) as Helena Kafka"
 deathPlace: "Austria"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 3
   day: 30

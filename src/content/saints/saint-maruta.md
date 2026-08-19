@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maruta.jpg"
 searchAliases:
   - "Maruta of Martyropolis"
   - "Maruthas…"
-region: "England"
+region: "Syria"
 feastDay:
   month: 2
   day: 16

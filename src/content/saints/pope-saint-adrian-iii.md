@@ -8,7 +8,7 @@ born: "at Teano, Italy, or Rome, Italy (records vary)"
 died: "summer 885 near Modena, Italy of natural causes"
 birthPlace: "Italy, or Rome, Italy (records vary)"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 8

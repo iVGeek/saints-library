@@ -9,7 +9,7 @@ born: "4 January 1915 in Vajnory, Bratislavský, Slovakia"
 died: "8 January 1969 in Bratislava, Slovakia of heart failure"
 birthPlace: "Bratislavský, Slovakia"
 deathPlace: "Slovakiaheart failure"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 8

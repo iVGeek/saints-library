@@ -11,7 +11,7 @@ born: "22 June 1880 in Ohanes, Almería, Spain"
 died: "shot on 30 August 1936 just outside Barranco de El Chisme, Almería, Spain"
 birthPlace: "Almería, Spain"
 deathPlace: "Almería, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 30

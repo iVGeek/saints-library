@@ -16,7 +16,7 @@ born: "c.1340 at Nepomuk, Bohemia (in modern Czech Republic) as John Wolflin"
 died: "burned, then tied to a wheel and thrown off a bridge into the Moldau River (in the modern Czech Republic) to drown on 20 March 1393"
 birthPlace: "Bohemia (modern Czech Republic) as John Wolflin"
 deathPlace: "then tied to a wheel and thrown off a bridge into the Moldau River (the modern Czech Republic) to drown on 20 March 1393"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 3
   day: 20

@@ -8,7 +8,7 @@ born: "5 February 1731 in Saint-Gemmes-d’Andigné, Maine-et-Loire, France"
 died: "martyred on 16 April 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 16

@@ -6,7 +6,7 @@ searchAliases:
   - "Mahon"
 born: "6th century in Scotland"
 died: "6th century of natural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 9
   day: 18

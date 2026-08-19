@@ -7,7 +7,7 @@ born: "12th century Rome, Italy"
 died: "hit in the head with a hammer by Patarine heretic kidnappers on 21 May 1199 in a hut just outside Orvieto, Italy; other kidnappers stabbed his body numerous times with knives and swords"
 birthPlace: "Italy"
 deathPlace: "Italy; other kidnappers stabbed his body numerous times with knives and swords"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 21

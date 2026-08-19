@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 249
 died: "burned to death c.249 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 2
   day: 9

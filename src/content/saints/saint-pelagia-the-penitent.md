@@ -7,7 +7,7 @@ searchAliases:
   - "Pelagia of Antioch"
   - "The Beardless Hermit"
   - "Marina"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 10
   day: 8

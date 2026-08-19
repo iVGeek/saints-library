@@ -17,7 +17,7 @@ deathYear: 1237
 born: "c.1190 at Padberg Castle, diocese of Paderborn, Westphalia, old Saxony (in modern Germany)"
 died: "drowned in 1237 in a shipwreck off the coast of Syria while on a pilgrimage to the Holy Land"
 birthPlace: "diocesePaderborn, Westphalia, old Saxony (in modern Germany)"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 13

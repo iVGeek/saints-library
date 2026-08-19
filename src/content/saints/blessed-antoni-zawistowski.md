@@ -9,7 +9,7 @@ born: "10 November 1882 in Strumiany, Wielkopolskie, Poland"
 died: "4 June 1942 in the Dachau concentration camp, Oberbayern, Germany of overwork, abuse and neglect"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germanyoverwork, abuse and neglect"
-region: "France"
+region: "Poland"
 feastDay:
   month: 6
   day: 4

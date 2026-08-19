@@ -11,7 +11,7 @@ born: "8 May 1898 at Brezaric, Krasic, Croatia as Alojzije Viktor Stepinac"
 died: "10 February 1960 at Krasic, Croatia"
 birthPlace: "Krasic, Croatia as Alojzije Viktor Stepinac"
 deathPlace: "Croatia"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 2
   day: 10

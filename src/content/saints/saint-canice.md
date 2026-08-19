@@ -18,7 +18,7 @@ born: "c.525 in Glengiven, County Derry, northern Ireland"
 died: "c.599 at Aghaboe, Laois, Ireland of natural causes"
 birthPlace: "County Derry, northern Ireland"
 deathPlace: "Laois, Irelandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 10
   day: 11

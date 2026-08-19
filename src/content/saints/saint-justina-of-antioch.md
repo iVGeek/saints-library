@@ -8,7 +8,7 @@ searchAliases:
   - "Justina of Nicomedia"
 deathYear: 304
 died: "beheaded in Nicomedia in 304"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 9
   day: 26

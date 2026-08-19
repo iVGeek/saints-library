@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 606
 died: "c.606 near Biandrate, Piedmont, Italy of natural causes"
 deathPlace: "Piedmont, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 2

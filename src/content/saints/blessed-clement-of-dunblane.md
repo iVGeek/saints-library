@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Clement-of-Dun
 searchAliases:
   - "Clement of Scotland"
 born: "Scottish"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 3
   day: 19

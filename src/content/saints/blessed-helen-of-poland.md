@@ -18,7 +18,7 @@ deathYear: 1298
 born: "c.1235 in Hungary as Jolenta"
 died: "11 June 1298 at Gnesen, Poland of natural causes"
 deathPlace: "Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 6
   day: 11

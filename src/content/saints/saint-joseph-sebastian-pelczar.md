@@ -11,7 +11,7 @@ born: "17 January 1842 at Korczyn bei Krosno, Poland"
 died: "28 March 1924 at Przemysl, Poland"
 birthPlace: "Poland"
 deathPlace: "Poland"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 28

@@ -9,7 +9,7 @@ born: "at Logroño, La Rioja, Old Castile (modern Spain)"
 died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
 birthPlace: "La Rioja, Old Castile (modern Spain)"
 deathPlace: "Canary Islands"
-region: "Spain"
+region: "Brazil"
 feastDay:
   month: 7
   day: 15

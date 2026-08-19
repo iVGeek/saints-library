@@ -11,7 +11,7 @@ born: "c.1881 in Zhujiahe, Jingxian, Hebei, China"
 died: "beheaded on 20 July 1900 in Loujiazhuang, Jingxian, Hebei, China"
 birthPlace: "Jingxian, Hebei, China"
 deathPlace: "Jingxian, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 20

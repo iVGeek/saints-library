@@ -14,7 +14,7 @@ born: "17 August 1887 in Persenbeug Castle, Melk, Lower Austria"
 died: "1 April 1922 at Funchal, Madeira, Portugal of pneumonia"
 birthPlace: "Melk, Lower Austria"
 deathPlace: "Madeira, Portugalpneumonia"
-region: "Portugal"
+region: "Hungary"
 feastDay:
   month: 10
   day: 21

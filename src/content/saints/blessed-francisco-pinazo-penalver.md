@@ -9,7 +9,7 @@ born: "26 August 1802 in Chopo, Alpuente, Valencia, Spain"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Alpuente, Valencia, Spain"
 deathPlace: "Syria"
-region: "Spain"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

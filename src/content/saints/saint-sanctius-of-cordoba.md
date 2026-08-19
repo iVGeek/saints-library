@@ -11,7 +11,7 @@ born: "in Albi, France"
 died: "impaled in 851 at Córdoba, Spain"
 birthPlace: "France"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 6
   day: 5

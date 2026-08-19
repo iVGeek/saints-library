@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1143
 died: "27 June 1143 atMallersdorf, Bavaria, Germany of natural causes"
 deathPlace: "Bavaria, Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 27

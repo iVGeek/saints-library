@@ -12,7 +12,7 @@ born: "c.423 in Lugdunum, Gaul (modern Lyon, France)"
 died: "c.480 at Clermont, France"
 birthPlace: "Gaul (modern Lyon, France)"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 8
   day: 21

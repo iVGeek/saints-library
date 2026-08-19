@@ -9,7 +9,7 @@ born: "23 June 1160 at Faucon, Provence, France"
 died: "12 December 1223 at Rome, Italy of natural causes"
 birthPlace: "Provence, France"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 17

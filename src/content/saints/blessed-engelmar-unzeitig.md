@@ -11,7 +11,7 @@ deathYear: 1945
 born: "1 March 1911 in Czech Republic as Hubert Unzeitig"
 died: "2 March 1945 in Dachau, Oberbayern, Germany of typhoid fever"
 deathPlace: "Oberbayern, Germanytyphoid fever"
-region: "France"
+region: "Czech Republic"
 feastDay:
   month: 3
   day: 2

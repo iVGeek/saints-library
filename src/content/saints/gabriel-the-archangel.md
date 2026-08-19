@@ -6,7 +6,7 @@ summary: "Archangel and messenger of God. One of the three angels mentioned by n
 image: "http://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg"
 searchAliases: []
 died: "hasn't"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 9
   day: 29

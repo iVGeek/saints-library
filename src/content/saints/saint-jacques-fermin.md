@@ -5,7 +5,7 @@ summary: "Joined the Jesuits in 1646. Priest. Missionary in Canada, working with
 birthYear: 1628
 born: "12 March 1628 at Rheims, France"
 birthPlace: "France"
-region: "France"
+region: "Canada"
 feastDay:
   month: 7
   day: 2

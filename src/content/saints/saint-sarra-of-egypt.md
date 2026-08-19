@@ -2,7 +2,7 @@
 name: "Saint Sarra of Egypt"
 honorific: Saint
 summary: "Fifth-century desert hermitess in Egypt known for her piety, discipline and extremely ascetic life."
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 7
   day: 13

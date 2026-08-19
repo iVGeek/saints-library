@@ -6,7 +6,7 @@ searchAliases:
   - "Reginhard"
 deathYear: 1168
 died: "c.1168"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 3
   day: 7

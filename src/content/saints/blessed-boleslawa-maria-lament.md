@@ -9,7 +9,7 @@ born: "3 July 1862 in Lowicz, Lódzkie, Poland"
 died: "29 January 1946 in Bialystok, Podlaskie, Poland of natural causes"
 birthPlace: "Lódzkie, Poland"
 deathPlace: "Podlaskie, Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 1
   day: 29

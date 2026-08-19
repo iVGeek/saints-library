@@ -5,7 +5,7 @@ summary: "First bishop of Constantinople. Fought Arianism and turned away the wr
 image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alexander.john.paul.jpg"
 deathYear: 340
 died: "340"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 8
   day: 28

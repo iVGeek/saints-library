@@ -13,7 +13,7 @@ birthYear: 640
 deathYear: 705
 born: "c.640 in eastern Europe"
 died: "c.705 of natural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 2
   day: 5

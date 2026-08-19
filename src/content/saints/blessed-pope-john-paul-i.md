@@ -11,7 +11,7 @@ born: "17 October 1912 in Forno di Canale (modern Canale d'Agordo), Italy as Alb
 died: "28 September 1978 in Rome, Italy of a heart attack"
 birthPlace: "Italy as Albino Luciani"
 deathPlace: "Italya heart attack"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 2

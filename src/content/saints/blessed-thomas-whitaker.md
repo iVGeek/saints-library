@@ -10,7 +10,7 @@ born: "c.1612 in Burnley, Lancashire, England"
 died: "hanged, drawn, and quartered on 7 August 1646 in Lancaster, England"
 birthPlace: "Lancashire, England"
 deathPlace: "drawn, and quartered on 7 August 1646Lancaster, England"
-region: "Spain"
+region: "Scotland"
 feastDay:
   month: 8
   day: 7

@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1046
 died: "poisoned in 1046 in Lyon, France"
 deathPlace: "France"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 4

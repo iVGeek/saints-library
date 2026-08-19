@@ -9,7 +9,7 @@ born: "14 September 1896 in Wojslawice, Lubelskie, Poland"
 died: "gassed on 14 October 1942 in the gas chambers of the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Lubelskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 10
   day: 14

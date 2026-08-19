@@ -9,7 +9,7 @@ searchAliases:
   - "Gilli"
 deathYear: 1145
 died: "c.1145 of natural causes"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 2
   day: 4

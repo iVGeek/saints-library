@@ -12,7 +12,7 @@ born: "c.635 in Libya Cyrenaica, North Africa as Hadrian"
 died: "9 January 710 of natural causes at Canterbury, England, and buried there"
 birthPlace: "North Africa as Hadrian"
 deathPlace: "England, and buried there"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 9

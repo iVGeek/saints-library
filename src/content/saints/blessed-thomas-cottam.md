@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Melchior_k%C3%BCsel-
 deathYear: 1582
 died: "hanged on 30 May 1582 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "Italy"
+region: "India"
 feastDay:
   month: 5
   day: 30

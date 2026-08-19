@@ -2,7 +2,7 @@
 name: "Saint Amphilochius of Iconium"
 honorific: Saint
 summary: "Successful 4th-century lawyer who gave up the worldly life to live as a hermit. Bishop of Iconium. Worked with Saint Basil to govern the Church in Cappadocia. Friend of Saint Gregory of Nazianzen who wrote highly of him. Attended the Council of Constantinople in 381. Worked with"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 11
   day: 22

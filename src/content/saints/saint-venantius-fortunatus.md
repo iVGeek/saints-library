@@ -11,7 +11,7 @@ born: "c.535 at Treviso, Italy"
 died: "c.605 at Poitiers, Gaul (in modern France) of natural causes"
 birthPlace: "Italy"
 deathPlace: "Gaul (modern France) of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 14

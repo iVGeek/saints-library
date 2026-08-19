@@ -12,7 +12,7 @@ born: "c.1165 in Aylesford, County Kent, England"
 died: "16 May 1265 in the Carmelite monastery at Bordeaux, France of natural causes while on a visit"
 birthPlace: "County Kent, England"
 deathPlace: "Francenatural causes while on a visit"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 16

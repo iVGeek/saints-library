@@ -9,7 +9,7 @@ born: "24 May 1874 in Shkodër, Albania"
 died: "5 November 1951 in Durrës prison, Shkodër, Albania"
 birthPlace: "Albania"
 deathPlace: "Shkodër, Albania"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 5

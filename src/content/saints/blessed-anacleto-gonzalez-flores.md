@@ -11,7 +11,7 @@ born: "13 July 1888 in Tepatitlán, Jalisco, Mexico"
 died: "shot by a firing squad on 1 April 1927 in Guadalajara, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 4
   day: 1

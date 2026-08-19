@@ -11,7 +11,7 @@ born: "3 March 1896 in Dorénaz, Saint-Maurice, Valais, Switzerland"
 died: "7 June 1974 in Rome, Italy of natural causes"
 birthPlace: "Saint-Maurice, Valais, Switzerland"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

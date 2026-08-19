@@ -12,7 +12,7 @@ deathYear: 384
 born: "Armenian"
 died: "13 March 384 at Tongres, Belgium of fever"
 deathPlace: "Belgiumfever"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 5
   day: 13

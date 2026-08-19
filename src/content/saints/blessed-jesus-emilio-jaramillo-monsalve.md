@@ -9,7 +9,7 @@ born: "16 February 1916 in Santo Domingo, Antioquia, Colombia"
 died: "shot twice in the head on 3 October 1989 near Fortul, Arauca, Colombia"
 birthPlace: "Antioquia, Colombia"
 deathPlace: "Arauca, Colombia"
-region: "France"
+region: "Colombia"
 feastDay:
   month: 10
   day: 3

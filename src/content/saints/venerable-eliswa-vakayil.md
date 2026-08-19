@@ -11,7 +11,7 @@ born: "15 October 1831 in Ochanthuruth, Ernakulam, Kerala, India"
 died: "18 July 1913 in Varapuzha, Ernakulam, Kerala, India of natural causes"
 birthPlace: "Ernakulam, Kerala, India"
 deathPlace: "Ernakulam, Kerala, Indianatural causes"
-region: "England"
+region: "India"
 feastDay:
   month: 4
   day: 21

@@ -25,7 +25,7 @@ born: "c.518 at Culross, Fife, Scotland"
 died: "13 January 603 in Glasgow, Scotland of natural causes"
 birthPlace: "Fife, Scotland"
 deathPlace: "Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 13

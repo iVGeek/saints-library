@@ -16,7 +16,7 @@ deathYear: 1116
 born: "France"
 died: "11 April 1116 in Calabria, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 11

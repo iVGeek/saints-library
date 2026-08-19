@@ -11,7 +11,7 @@ born: "12 December 1875 in L'Aquila, Italy"
 died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"
 birthPlace: "Italy"
 deathPlace: "Shanxi, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 8

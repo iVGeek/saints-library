@@ -13,7 +13,7 @@ born: "17 April 1620 at Troyes, Aube, France"
 died: "12 January 1700 at Montreal, Quebec, Canada of fever"
 birthPlace: "Aube, France"
 deathPlace: "Quebec, Canadafever"
-region: "Italy"
+region: "Canada"
 feastDay:
   month: 1
   day: 12

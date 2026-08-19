@@ -11,7 +11,7 @@ born: "31 December 1887 in Sotodosos, Guadalajara, Spain"
 died: "between 6 and 8 November 1936 in Paracuellos de Jarama, Madrid, Spain"
 birthPlace: "Guadalajara, Spain"
 deathPlace: "Madrid, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 11
   day: 8

@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/gallery/holy-innocents/holy-innoce
 searchAliases:
   - "Childermas"
   - "Children's Mass"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 28

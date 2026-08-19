@@ -6,7 +6,7 @@ searchAliases:
   - "Asterio"
 deathYear: 364
 died: "c.364 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 10

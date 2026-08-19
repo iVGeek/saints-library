@@ -9,7 +9,7 @@ born: "c.1828 in Anping, Hebei, China"
 died: "beheaded on 11 July 1900 in Liugongying, Shenzhou, Hebei, China"
 birthPlace: "Hebei, China"
 deathPlace: "Shenzhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 11

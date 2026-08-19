@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 473
 born: "at Syria"
 died: "14 February 473 at Mount Skopas of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 14

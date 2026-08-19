@@ -5,7 +5,7 @@ summary: "Born wealthy but preferred the life of a poor hermit. Monk and then ab
 deathYear: 818
 born: "Constantinople"
 died: "c.818"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 22

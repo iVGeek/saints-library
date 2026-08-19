@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Son of Saint Xenophon and Saint Mary of Constantinople; brother of Saint John. His family was part of the wealthy governing class of 5th century imperial Constantinople, but were known for their simple, Christian lives. While travelling to Beirut, Phoenicia with his brother to at"
 image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Constantinople.jpg"
 died: "5th century Jerusalem"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 26

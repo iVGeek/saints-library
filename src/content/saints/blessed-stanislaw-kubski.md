@@ -9,7 +9,7 @@ born: "13 August 1876 in Ksiaz, Wielkopolskie, Poland"
 died: "18 May 1942 in the gas chambers of Dachau, Oberbayern, Germany"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "France"
+region: "Poland"
 feastDay:
   month: 5
   day: 18

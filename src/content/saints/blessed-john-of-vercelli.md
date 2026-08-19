@@ -12,7 +12,7 @@ born: "1205 at Mosso Santa Maria, Italy as John Garbella"
 died: "30 November 1283 at Montpelier, France of natural causes"
 birthPlace: "Italy as John Garbella"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 30

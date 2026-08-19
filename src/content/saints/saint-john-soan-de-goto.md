@@ -11,7 +11,7 @@ searchAliases:
 birthYear: 1578
 born: "c.1578 in the Goto Islands, Japan"
 birthPlace: "Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

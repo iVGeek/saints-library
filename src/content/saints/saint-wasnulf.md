@@ -11,7 +11,7 @@ deathYear: 651
 born: "Scotland"
 died: "c.651 in Condé-sur-l'Escaut in Hainaut, Austrasian (in modern France)"
 deathPlace: "Austrasian (modern France)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 1

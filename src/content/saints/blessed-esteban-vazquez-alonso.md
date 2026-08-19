@@ -9,7 +9,7 @@ born: "27 June 1915 in Carrizo de la Ribera, León, Spain"
 died: "shot on 6 December 1936 in Guadalajara, Spain"
 birthPlace: "León, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 12
   day: 6

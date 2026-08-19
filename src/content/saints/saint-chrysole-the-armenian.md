@@ -9,7 +9,7 @@ deathYear: 300
 born: "Armenian"
 died: "c.300 in Flanders, Belgium"
 deathPlace: "Belgium"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 7

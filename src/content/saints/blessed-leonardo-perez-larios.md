@@ -9,7 +9,7 @@ born: "28 November 1883 in Lagos de Moreno, Jalisco, Mexico"
 died: "25 April 1927 in San Joaquín, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 4
   day: 25

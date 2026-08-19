@@ -13,7 +13,7 @@ deathYear: 1289
 born: "c.1225 near Sankt Florian, Austria"
 died: "11 December 1289"
 birthPlace: "Austria"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 12
   day: 11

@@ -17,7 +17,7 @@ born: "1207 at Louvain, Brabant, Belgium"
 died: "throat cut on 2 September 1225 at Louvain, Brabant, Belgium"
 birthPlace: "Brabant, Belgium"
 deathPlace: "Brabant, Belgium"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 9
   day: 2

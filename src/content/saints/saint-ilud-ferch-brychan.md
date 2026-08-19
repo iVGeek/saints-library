@@ -9,7 +9,7 @@ searchAliases:
   - "Llud"
 birthYear: 464
 born: "464"
-region: "France"
+region: "England"
 feastDay:
   month: 6
   day: 29

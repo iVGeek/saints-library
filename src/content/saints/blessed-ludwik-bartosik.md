@@ -13,7 +13,7 @@ born: "21 August 1909 in Kokanin, Wielkopolskie, Poland"
 died: "tortured to death during the night of 12 to 13 December 1941 in Oświęcim (a.k.a. Auschwitz), Małopolskie, Nazi-occupied Poland"
 birthPlace: "Wielkopolskie, Poland"
 deathPlace: "Małopolskie, Nazi-occupied Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 12

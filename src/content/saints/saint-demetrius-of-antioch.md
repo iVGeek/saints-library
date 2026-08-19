@@ -5,7 +5,7 @@ summary: "Bishop of Antioch. Exiled and martyred with 22 companions by king Shap
 deathYear: 260
 died: "c.260 at Antioch, Syria"
 deathPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 10

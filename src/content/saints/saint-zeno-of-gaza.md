@@ -8,7 +8,7 @@ searchAliases:
   - "Zenon"
 deathYear: 400
 died: "c.400 of natural causes"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 26

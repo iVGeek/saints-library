@@ -8,7 +8,7 @@ searchAliases:
   - "Nikephoros"
 birthYear: 758
 born: "758 in Constantinople"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 2

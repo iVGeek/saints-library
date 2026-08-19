@@ -11,7 +11,7 @@ born: "16 August 1907 in Diamantina, Minas Gerais, Brazil"
 died: "16 October 1981 in Belo Horizonte, Minas Gerais, Brazil of natural causes"
 birthPlace: "Minas Gerais, Brazil"
 deathPlace: "Minas Gerais, Brazilnatural causes"
-region: "France"
+region: "Brazil"
 feastDay:
   month: 3
   day: 19

@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1544
 died: "martyred on 7 March 1544 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "Germany"
+region: "England"
 feastDay:
   month: 3
   day: 7

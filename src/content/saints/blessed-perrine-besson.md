@@ -9,7 +9,7 @@ born: "c.1742 in Essarts, Vendée France"
 died: "martyred on 1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Vendée France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

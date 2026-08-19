@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 1336
 died: "4 July 1336 at Estremoz, Portugal of fever"
 deathPlace: "Portugalfever"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 7
   day: 4

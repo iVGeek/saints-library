@@ -8,7 +8,7 @@ born: "1 October 1887 in Pastrana, Guadalajara, Spain"
 died: "shot on 16 August 1936 in Boca de Balondillo, Fuente el Fresno, Ciudad Real, Spain"
 birthPlace: "Guadalajara, Spain"
 deathPlace: "Fuente el Fresno, Ciudad Real, Spain"
-region: "Spain"
+region: "Philippines"
 feastDay:
   month: 8
   day: 16

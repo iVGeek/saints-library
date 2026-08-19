@@ -7,7 +7,7 @@ deathYear: 1570
 born: "later 15th century in 's-Hertogenbosch, Noord-Brabant (in the modern Netherlands)"
 died: "8 January 1570 of natural causes"
 birthPlace: "Noord-Brabant (the modern Netherlands)"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 8

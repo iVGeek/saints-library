@@ -13,7 +13,7 @@ deathYear: 1113
 born: "1040 in Ardennes, France"
 died: "13 April 1113 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 13

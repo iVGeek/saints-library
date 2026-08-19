@@ -15,7 +15,7 @@ born: "27 March 1864 at Pozzaglia Sabina, Rieti, Italy as Livia Petrantoni"
 died: "stabbed to death on 13 November 1894 in Rome, Italy by Giuseppe Romanelli"
 birthPlace: "Rieti, Italy as Livia Petrantoni"
 deathPlace: "Italy by Giuseppe Romanelli"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 13

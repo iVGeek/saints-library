@@ -6,7 +6,7 @@ deathYear: 1606
 born: "Irish"
 died: "20 December 1606 in Limerick, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 12
   day: 20

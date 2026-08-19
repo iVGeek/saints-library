@@ -6,7 +6,7 @@ searchAliases:
   - "Chaerymon of Nilopolis"
 deathYear: 250
 died: "c.250 of of unknown causes while in exile"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 12
   day: 22

@@ -14,7 +14,7 @@ born: "c.1175 in Assisi, Italy"
 died: "between 1243 and 1246 in Assisi, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 10

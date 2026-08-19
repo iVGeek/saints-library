@@ -9,7 +9,7 @@ born: "22 September 1910 in Salno, Kujawsko-Pomorskie, Poland"
 died: "23 August 1944 in Dachau, Oberbayern, Germany from reaction to pseudo-scientific medical experiments"
 birthPlace: "Kujawsko-Pomorskie, Poland"
 deathPlace: "Oberbayern, Germanyreaction to pseudo-scientific medical experiments"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 8
   day: 23

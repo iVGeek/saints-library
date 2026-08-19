@@ -23,7 +23,7 @@ birthYear: 535
 deathYear: 585
 born: "c.535 in Brittany (part of modern France)"
 died: "c.585"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 12
   day: 9

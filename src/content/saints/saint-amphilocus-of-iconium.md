@@ -13,7 +13,7 @@ deathYear: 400
 born: "339 in Cappadocia, Asia Minor (in modern Turkey)"
 died: "400 in Konya (in modern Turkey) of natural causes"
 birthPlace: "Asia Minor (modern Turkey)"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 11
   day: 23

@@ -11,7 +11,7 @@ born: "1767 in Seoul, South Korea"
 died: "beaten to death on 28 June 1795 in Seoul, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 6
   day: 28

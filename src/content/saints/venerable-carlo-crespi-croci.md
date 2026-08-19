@@ -11,7 +11,7 @@ born: "29 May 1891 in Legnano, Milan, Italy"
 died: "30 April 1982 in Cuenca, Azuay, Ecuador of natural causes"
 birthPlace: "Milan, Italy"
 deathPlace: "Azuay, Ecuadornatural causes"
-region: "Italy"
+region: "Ecuador"
 feastDay:
   month: 1
   day: 1

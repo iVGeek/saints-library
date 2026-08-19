@@ -12,7 +12,7 @@ born: "4 November 1891 in Madrid, Spain"
 died: "11 December 1974 in La Aldehuela monastery, Madrid province, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Madrid province, Spaof natural causes"
-region: "Italy"
+region: "India"
 feastDay:
   month: 12
   day: 11

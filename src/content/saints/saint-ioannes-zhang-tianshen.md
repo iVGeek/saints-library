@@ -10,7 +10,7 @@ born: "c.1805 in Jiashanlong, Kaiyang City, Guizhou, China"
 died: "beheaded on 18 February 1862 at Kaiyang, Guizhou, China"
 birthPlace: "Kaiyang City, Guizhou, China"
 deathPlace: "Guizhou, China"
-region: "England"
+region: "China"
 feastDay:
   month: 2
   day: 18

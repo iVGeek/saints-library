@@ -16,7 +16,7 @@ born: "3rd century, probably in Rome, Italy"
 died: "20 December 301 at Tours, France"
 birthPlace: "probablyRome, Italy"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 18

@@ -11,7 +11,7 @@ born: "12 August 1890 in Proszowice, Swietokrzyskie, Poland"
 died: "hanged on 9 January 1942 in the prison camp at Dachau, Oberbayern, Germany"
 birthPlace: "Swietokrzyskie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 1
   day: 9

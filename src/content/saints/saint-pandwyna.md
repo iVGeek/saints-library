@@ -3,7 +3,7 @@ name: "Saint Pandwyna"
 honorific: Saint
 summary: "Nun. The church in Eltisley, England is dedicated to her."
 born: "Irish"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 8
   day: 26

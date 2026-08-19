@@ -14,7 +14,7 @@ born: "1033 at Aosta, Piedmont, Italy"
 died: "Holy Wednesday 21 April 1109 at Canterbury, Kent, England"
 birthPlace: "Piedmont, Italy"
 deathPlace: "Kent, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 21

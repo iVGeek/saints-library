@@ -12,7 +12,7 @@ born: "1 November 1885 in Lomza, Podlaskie, Poland"
 died: "20 December 1940 in the prison camp in Sachsenhausen-Oranienburg, Oberhavel, Germany"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "Oberhavel, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 12
   day: 20

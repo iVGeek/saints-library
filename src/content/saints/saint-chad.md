@@ -13,7 +13,7 @@ born: "c.620 in Northumbria, England"
 died: "2 March 672 at Lichfield, England of natural causes after a brief illness, probably the plague"
 birthPlace: "England"
 deathPlace: "Englandnatural causes after a brief illness, probably the plague"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 2

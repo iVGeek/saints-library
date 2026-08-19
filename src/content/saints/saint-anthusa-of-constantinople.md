@@ -5,7 +5,7 @@ summary: "Eighth-century nun. Tortured and exiled from Constantinople for refusi
 searchAliases:
   - "Antusa"
 born: "Greek"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 7
   day: 27

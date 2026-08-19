@@ -19,7 +19,7 @@ born: "1105 Veitsburg, Baden-Württemberg (in modern Germany"
 died: "1154 at the Santa Maria ad Cryptam Benedictine monastery near Modugno, Italy of natural causes"
 birthPlace: "Baden-Württemberg (modern Germany"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 17

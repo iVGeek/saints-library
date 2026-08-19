@@ -13,7 +13,7 @@ born: "1356 at Florence, Italy"
 died: "10 June 1419 of a fever at Buda, Hungary"
 birthPlace: "Italy"
 deathPlace: "Hungary"
-region: "Italy"
+region: "Czech Republic"
 feastDay:
   month: 6
   day: 10

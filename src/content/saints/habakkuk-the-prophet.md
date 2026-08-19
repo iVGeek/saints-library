@@ -7,7 +7,7 @@ searchAliases:
   - "Avvakoum"
   - "Habacuc"
   - "Habakkuk"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 12
   day: 2

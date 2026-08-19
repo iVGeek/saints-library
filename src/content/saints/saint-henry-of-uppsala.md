@@ -12,7 +12,7 @@ deathYear: 1156
 born: "English"
 died: "struck with an axe c.1156 at Nousis, Finland"
 deathPlace: "Finland"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 20

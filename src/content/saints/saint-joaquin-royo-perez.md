@@ -10,7 +10,7 @@ deathYear: 1748
 born: "1691 at Teruel Spain"
 died: "tortured and strangled to death on the evening of 28 October 1748 in prison at Fu-tsheu, China"
 deathPlace: "China"
-region: "France"
+region: "China"
 feastDay:
   month: 10
   day: 28

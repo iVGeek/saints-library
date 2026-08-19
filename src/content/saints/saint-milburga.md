@@ -14,7 +14,7 @@ deathYear: 715
 born: "7th century England"
 died: "715 at the Much Wenlock Abbey, Shropshire, England of natural causes"
 deathPlace: "Shropshire, Englandnatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 2
   day: 23

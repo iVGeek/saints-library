@@ -2,7 +2,7 @@
 name: "Saint Candres of Maastricht"
 honorific: Saint
 summary: "Fifth century regional bishop. Evangelized the territory of Maastricht, Netherlands."
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 12
   day: 1

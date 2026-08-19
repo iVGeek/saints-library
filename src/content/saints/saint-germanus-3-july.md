@@ -11,7 +11,7 @@ searchAliases:
   - "Jarman…"
 deathYear: 474
 died: "c.474 of natural causes"
-region: "Germany"
+region: "Ireland"
 feastDay:
   month: 7
   day: 3

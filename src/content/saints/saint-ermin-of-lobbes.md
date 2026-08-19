@@ -17,7 +17,7 @@ born: "Herly, Laon region of France"
 died: "25 April 737 in Lobbes, Hainaut, Belgium of natural causes"
 birthPlace: "Laon regionFrance"
 deathPlace: "Hainaut, Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 4
   day: 25

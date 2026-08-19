@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 1012
 born: "Scotland"
 died: "c.1012"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 12
   day: 16

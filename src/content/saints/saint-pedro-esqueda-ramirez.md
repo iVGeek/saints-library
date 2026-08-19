@@ -9,7 +9,7 @@ born: "29 April 1887 in San Juan de los Lagos, Jalisco, diocese of San Juan de l
 died: "shot three times on 22 November 1927 in Teocaltitán, Jalisco, Mexico"
 birthPlace: "Jalisco, dioceseSan Juan de los Lagos, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 11
   day: 22

@@ -8,7 +8,7 @@ born: "9 February 1901 in Kraków, Poland"
 died: "15 March 1947 in Kraków, Poland of natural causes"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 1
   day: 1

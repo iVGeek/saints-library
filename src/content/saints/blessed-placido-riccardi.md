@@ -12,7 +12,7 @@ born: "24 June 1844 in Trevi, Umbria, Italy as Tommaso Riccardi"
 died: "25 March 1915 in Rome, Italy of natural causes"
 birthPlace: "Umbria, Italy as Tommaso Riccardi"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 3
   day: 25

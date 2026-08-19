@@ -8,7 +8,7 @@ searchAliases:
   - "Melezio"
 deathYear: 295
 died: "c.295"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 4

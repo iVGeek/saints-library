@@ -13,7 +13,7 @@ born: "c.130 in Smyrna, Asia Minor (modern Izmir, Turkey)"
 died: "martyred in 202 in Lyons, France"
 birthPlace: "Asia Minor (modern Izmir, Turkey)"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 28

@@ -5,7 +5,7 @@ summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of N
 deathYear: 283
 died: "grilled over a fire until nearly dead, then chopped to pieces in 283 in Diospolis (modern Hu), Egypt"
 deathPlace: "then chopped to pieces283 in Diospolis (modern Hu), Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 25

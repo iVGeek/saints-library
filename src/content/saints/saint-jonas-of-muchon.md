@@ -5,7 +5,7 @@ summary: "Fourth century monk at Demeskenyanos, Egypt. Spiritual student of Sain
 searchAliases:
   - "Jonas of Demeskenyanos"
   - "Jonas the Gardener"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 2
   day: 11

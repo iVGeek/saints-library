@@ -16,7 +16,7 @@ born: "30 September 1911 at Rudnyky, Lviv District, Ukraine as Levkadia Harasymi
 died: "28 August 1952 of tuberculosis and overwork at Kharsk, Tomsk Region, Siberia, Russia"
 birthPlace: "Lviv District, Ukraine as Levkadia Harasymiv"
 deathPlace: "Tomsk Region, Siberia, Russia"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 8
   day: 26

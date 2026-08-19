@@ -10,7 +10,7 @@ deathYear: 1931
 born: "20 July 1866 in Korzeni&oacute;wka, Poland"
 died: "7 September 1931 of natural causes"
 birthPlace: "Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 9
   day: 7

@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1528
 born: "1528 in Baeza, Andalusia, Spain"
 birthPlace: "Andalusia, Spain"
-region: "France"
+region: "Peru"
 feastDay:
   month: 1
   day: 1

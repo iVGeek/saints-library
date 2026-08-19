@@ -7,7 +7,7 @@ born: "Villamayor de Treviño, Burgos, Spain"
 died: "29 January 1156 in San Miguel de Villamayor de Treviño, Spain of natural causes"
 birthPlace: "Burgos, Spain"
 deathPlace: "Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 29

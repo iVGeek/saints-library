@@ -8,7 +8,7 @@ born: "11 May 1766 in La Trinité-d’Angers, Maine-et-Loire, France"
 died: "5 January 1794 in Angers, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 5

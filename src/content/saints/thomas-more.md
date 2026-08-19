@@ -17,7 +17,7 @@ born: 7 February 1478
 died: 6 July 1535
 birthPlace: London, England
 deathPlace: London, England
-region: England
+region: "Italy"
 centuries: [16]
 feastDay:
   month: 6

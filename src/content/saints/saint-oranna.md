@@ -9,7 +9,7 @@ searchAliases:
   - "Oranne"
   - "Othranna"
 died: "6th century of natural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 9
   day: 15

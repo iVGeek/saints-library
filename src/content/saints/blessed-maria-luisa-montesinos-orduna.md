@@ -9,7 +9,7 @@ born: "3 May 1901 in Valencia, Spain"
 died: "28 January 1937 in Picassent, Valencia, Spain"
 birthPlace: "Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 28

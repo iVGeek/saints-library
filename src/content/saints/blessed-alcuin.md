@@ -16,7 +16,7 @@ born: "c.730 at York, England"
 died: "19 May 804 at Tours, France of natural causes"
 birthPlace: "England"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "England"
 feastDay:
   month: 5
   day: 19

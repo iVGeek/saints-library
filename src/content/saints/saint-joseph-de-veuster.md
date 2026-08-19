@@ -14,7 +14,7 @@ born: "3 January 1840 on the family farm at Tremeloo, Belgium as Joseph de Veust
 died: "15 April 1889 at Molokai, Hawaii from leprosy"
 birthPlace: "Belgium as Joseph de Veuster"
 deathPlace: "Hawaiileprosy"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 10

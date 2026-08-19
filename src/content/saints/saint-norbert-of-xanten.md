@@ -12,7 +12,7 @@ born: "c.1080 at Xanten, Germany"
 died: "6 June 1134 at Magdeburg, Germany"
 birthPlace: "Germany"
 deathPlace: "Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 6
   day: 6

@@ -9,7 +9,7 @@ born: "2 November 1801 in Vignate, Milan, Italy"
 died: "11 August 1879 in Milan, Italy of natural causes"
 birthPlace: "Milan, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Mexico"
 feastDay:
   month: 5
   day: 28

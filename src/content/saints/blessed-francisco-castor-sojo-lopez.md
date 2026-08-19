@@ -9,7 +9,7 @@ born: "28 March 1881 in Madrigalejo, Cáceres, Spain"
 died: "late night to early morning of 12 September to 13 September 1936 just outside Ciudad Real, Spain"
 birthPlace: "Cáceres, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 13

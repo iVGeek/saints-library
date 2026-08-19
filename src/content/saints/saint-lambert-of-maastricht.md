@@ -14,7 +14,7 @@ born: "c.635 at Maastricht, Netherlands"
 died: "stabbed through the heart by a javelin c.700 at the chapel of Saint Cosmas and Saint Damian, Li&egrave;ge, Belgium while celebrating Mass"
 birthPlace: "Netherlands"
 deathPlace: "Li&egrave;ge, Belgium while celebrating Mass"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 9
   day: 17

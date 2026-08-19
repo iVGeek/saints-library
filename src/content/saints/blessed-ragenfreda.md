@@ -11,7 +11,7 @@ searchAliases:
   - "Reginfreda"
   - "Renfrida"
   - "Renfroie"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 10
   day: 8

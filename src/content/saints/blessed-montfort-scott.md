@@ -10,7 +10,7 @@ born: "c.1550 in Suffolk, England"
 died: "2 July 1591 in Fleet Street, London, England"
 birthPlace: "England"
 deathPlace: "London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 1

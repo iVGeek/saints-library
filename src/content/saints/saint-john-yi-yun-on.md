@@ -13,7 +13,7 @@ born: "1823 in Hongju, Chungcheong-do, South Korea"
 died: "beheaded on 21 January 1867 in Daegu, Gyrongsangbuk-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Gyrongsangbuk-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 21

@@ -14,7 +14,7 @@ born: "27 March 1416 at Paola, Calabria, Kingdom of Italy (part of modern Italy)
 died: "2 April 1507 (Good Friday) at Plessis, France of natural causes"
 birthPlace: "Calabria, KingdomItaly (part of modern Italy)"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 2

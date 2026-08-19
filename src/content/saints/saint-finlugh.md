@@ -11,7 +11,7 @@ searchAliases:
   - "Finlay"
 born: "Irish"
 died: "6th century in Ireland of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 3

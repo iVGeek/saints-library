@@ -11,7 +11,7 @@ born: "11 October 1868 in Calamocha, Teruel, Spain"
 died: "shot on 25 July 1936 in Monzón, Huesca, Spain"
 birthPlace: "Teruel, Spain"
 deathPlace: "Huesca, Spain"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 7
   day: 25

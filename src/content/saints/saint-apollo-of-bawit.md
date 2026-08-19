@@ -7,7 +7,7 @@ birthYear: 316
 deathYear: 395
 born: "316 in Egypt"
 died: "395 of natural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 10
   day: 22

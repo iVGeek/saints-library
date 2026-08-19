@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 661
 born: "in Ireland"
 died: "9 February 661 in Ireland"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 2
   day: 17

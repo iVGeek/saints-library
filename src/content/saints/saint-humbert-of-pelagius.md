@@ -11,7 +11,7 @@ deathYear: 680
 born: "early 7th century at Mezieres-sur-Oise, France"
 died: "c.680"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 3
   day: 25

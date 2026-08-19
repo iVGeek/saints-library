@@ -7,7 +7,7 @@ deathYear: 313
 born: "Syrian"
 died: "9 January 313 in Antioch, Syria"
 deathPlace: "Syria"
-region: "Spain"
+region: "Turkey"
 feastDay:
   month: 1
   day: 9

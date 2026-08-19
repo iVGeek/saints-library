@@ -11,7 +11,7 @@ born: "21 April 1931 in Trescore Balneario, Bergamo, Italy"
 died: "6 May 1995 in Kikwit, Kwilu, Democratic Republic of Congo of Ebola"
 birthPlace: "Bergamo, Italy"
 deathPlace: "Kwilu, Democratic RepublicCongo of Ebola"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 9
   day: 8

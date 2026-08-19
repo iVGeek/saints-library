@@ -9,7 +9,7 @@ born: "25 April 1802 in Malines, Antwerp, Belgium"
 died: "7 March 1877 in Malines, Antwerp, Belgium of natural causes"
 birthPlace: "Antwerp, Belgium"
 deathPlace: "Antwerp, Belgiumnatural causes"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 1
   day: 1

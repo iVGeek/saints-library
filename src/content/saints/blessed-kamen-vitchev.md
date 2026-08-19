@@ -10,7 +10,7 @@ deathYear: 1952
 born: "23 May 1893 at Strem, diocese of Tracia, Burgas region, Bulgaria"
 died: "shot 11.30pm on 11 November 1952 by a Bulgarian Communist firing squad"
 birthPlace: "dioceseTracia, Burgas region, Bulgaria"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 11
   day: 13

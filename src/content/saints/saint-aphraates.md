@@ -10,7 +10,7 @@ deathYear: 378
 born: "Persia"
 died: "c.378 near Antioch, Syria (in modern Turkey)"
 deathPlace: "Syria (modern Turkey)"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 1
   day: 29

@@ -14,7 +14,7 @@ born: "c.747 at Languedoc, France as Witiza"
 died: "11 February 821 at Cornelimunster, Aachen, Germany of natural causes"
 birthPlace: "France as Witiza"
 deathPlace: "Aachen, Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 2
   day: 12

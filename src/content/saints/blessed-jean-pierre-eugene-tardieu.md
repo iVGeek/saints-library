@@ -13,7 +13,7 @@ born: "18 November 1814 in Chasseradès, Lozère, France"
 died: "shot on 26 May 1871 in Paris, France"
 birthPlace: "Lozère, France"
 deathPlace: "France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 26

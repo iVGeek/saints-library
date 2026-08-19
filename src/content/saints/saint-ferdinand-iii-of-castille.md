@@ -9,7 +9,7 @@ born: "1198 near Salamanca, Spain"
 died: "30 May 1252 at Seville, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Spaof natural causes"
-region: "Spain"
+region: "Germany"
 feastDay:
   month: 5
   day: 30

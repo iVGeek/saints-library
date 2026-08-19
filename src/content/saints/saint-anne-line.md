@@ -12,7 +12,7 @@ born: "c.1565 at Dunmow, Essex, England as Anne Higham"
 died: "hanged on 27 February 1601 at Tyburn, London, England"
 birthPlace: "Essex, England as Anne Higham"
 deathPlace: "London, England"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 2
   day: 27

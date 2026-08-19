@@ -15,7 +15,7 @@ searchAliases:
   - "John the Theologian"
 deathYear: 101
 died: "c.101 at Ephesus (in modern Turkey)"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 12
   day: 27

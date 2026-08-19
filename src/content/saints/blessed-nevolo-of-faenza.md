@@ -13,7 +13,7 @@ born: "13th century Faenza, Italy"
 died: "27 July 1280 in Faenza, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 7
   day: 27

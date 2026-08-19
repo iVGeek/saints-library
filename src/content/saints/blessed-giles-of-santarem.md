@@ -17,7 +17,7 @@ born: "c.1185 at Vaozela, Portugal"
 died: "14 May 1265 in Santarem, Portugal of natural causes"
 birthPlace: "Portugal"
 deathPlace: "Portugalnatural causes"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 5
   day: 14

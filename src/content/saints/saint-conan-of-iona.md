@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 648
 born: "Ireland"
 died: "c.648 on the Isle of Man of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 1
   day: 26

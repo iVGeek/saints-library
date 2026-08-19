@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1230
 died: "1230 at the abbey of Mariëngaarde, Friesland of natural causes"
 deathPlace: "Frieslandnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 11
   day: 14

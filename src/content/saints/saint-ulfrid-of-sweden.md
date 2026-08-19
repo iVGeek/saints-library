@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 1028
 born: "10th century England"
 died: "18 January 1028 by Norse pagans"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 1
   day: 18

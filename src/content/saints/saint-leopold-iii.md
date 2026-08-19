@@ -15,7 +15,7 @@ born: "1073 at Melk, Lower Austria, Austria"
 died: "1136 at the abbey of Klosternburg, Niederosterrich, Austria of natural causes"
 birthPlace: "Lower Austria, Austria"
 deathPlace: "Niederosterrich, Austrianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 11
   day: 15

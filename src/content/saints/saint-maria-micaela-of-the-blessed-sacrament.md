@@ -14,7 +14,7 @@ born: "1 January 1809 in Madrid, Spain"
 died: "24 August 1865 in Valencia, Spain of cholera"
 birthPlace: "Spain"
 deathPlace: "Spaof cholera"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 8
   day: 24

@@ -13,7 +13,7 @@ born: "1 June 1903 in Stanislaviv, Ukraine"
 died: "30 June 1973 at Winnepeg, Manitoba, Canada of natural causes"
 birthPlace: "Ukraine"
 deathPlace: "Manitoba, Canadanatural causes"
-region: "Italy"
+region: "Canada"
 feastDay:
   month: 6
   day: 30

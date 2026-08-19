@@ -5,7 +5,7 @@ summary: "Spiritual student of Saint Remaclus at Malmédy-Stavelot, Belgium. Abb
 image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Theodard_Maastricht.JPG"
 deathYear: 670
 died: "c.670"
-region: "Germany"
+region: "Belgium"
 feastDay:
   month: 9
   day: 10

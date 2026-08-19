@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 936
 died: "936 in Birka, Sweden"
 deathPlace: "Sweden"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 9
   day: 17

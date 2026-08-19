@@ -17,7 +17,7 @@ born: "18 May 1631 in Podegrodzie, Malopolskie, Poland as  Jan Papczyński"
 died: "17 September 1701 in Góra Kalwaria, Mazowieckie, Poland of natural causes"
 birthPlace: "Malopolskie, Poland as  Jan Papczyński"
 deathPlace: "Mazowieckie, Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 9
   day: 17

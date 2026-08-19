@@ -13,7 +13,7 @@ born: "17 April 1865 at Loosdoor, Austria as Julia"
 died: "29 May 1939 in the Gray Ursuline convent, Via del Casalet, Rome, Italy of natural causes"
 birthPlace: "Austria as Julia"
 deathPlace: "Via del Casalet, Rome, Italynatural causes"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 29

@@ -12,7 +12,7 @@ birthYear: 970
 deathYear: 1009
 born: "c.970 at Querfort (in modern Germany) as Bruno"
 died: "beheaded by pagan Prussians in 1009"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 3
   day: 9

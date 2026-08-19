@@ -9,7 +9,7 @@ searchAliases:
   - "Ewan…"
 deathYear: 520
 died: "c.520 of natural causes"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 5
   day: 13

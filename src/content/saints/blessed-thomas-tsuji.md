@@ -13,7 +13,7 @@ born: "c.1571 in Sonogi, Nagasaki, Japan"
 died: "burned at the stake on 7 September 1627 at Nagasaki, Japan"
 birthPlace: "Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 7

@@ -6,7 +6,7 @@ deathYear: 1322
 born: "Italian"
 died: "beheaded by Muslims in 1322 at Thama, Hindustan"
 deathPlace: "Hindustan"
-region: "Italy"
+region: "China"
 feastDay:
   month: 4
   day: 9

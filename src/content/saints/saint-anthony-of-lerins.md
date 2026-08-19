@@ -11,7 +11,7 @@ born: "c.468 at Valeria, Lower Pannonia (in modern Hungary)"
 died: "c.520 at Lerins, Provence, France of natural causes"
 birthPlace: "Lower Pannonia (modern Hungary)"
 deathPlace: "Provence, Francenatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 28

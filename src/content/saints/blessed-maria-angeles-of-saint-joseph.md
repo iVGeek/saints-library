@@ -11,7 +11,7 @@ born: "6 March 1905 in Getafe, Madrid, Spain"
 died: "shot and stabbed on the street by Communists on 24 July 1936 in Guadalajara, Spain"
 birthPlace: "Madrid, Spain"
 deathPlace: "Spain"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 7
   day: 24

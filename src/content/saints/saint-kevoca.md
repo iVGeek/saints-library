@@ -8,7 +8,7 @@ searchAliases:
   - "Mochoemoc"
   - "Quivoca"
   - "Quivox"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 13

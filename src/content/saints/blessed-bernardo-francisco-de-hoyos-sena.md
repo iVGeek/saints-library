@@ -9,7 +9,7 @@ born: "21 August, 1711 in Torrelobatón, Valladolid, Spain"
 died: "29 November 1735 at the Colegio de San Ignacio, Valladolid, Spain of typhus"
 birthPlace: "1711Torrelobatón, Valladolid, Spain"
 deathPlace: "Valladolid, Spaof typhus"
-region: "France"
+region: "Spain"
 feastDay:
   month: 11
   day: 29

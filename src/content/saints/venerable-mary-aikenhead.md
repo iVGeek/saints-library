@@ -9,7 +9,7 @@ born: "19 January 1787 in Cork, Ireland"
 died: "22 July 1858 in Harold's Cross, Dublin, Ireland of natural causes"
 birthPlace: "Ireland"
 deathPlace: "Dublin, Irelandnatural causes"
-region: "Ireland"
+region: "Africa"
 feastDay:
   month: 1
   day: 1

@@ -9,7 +9,7 @@ born: "3 June 1908 in Terrasa, Barcelona, Spain"
 died: "early morning of 30 July 1936 on the highway outside Blanes, Girona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Girona, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 7
   day: 30

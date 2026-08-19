@@ -9,7 +9,7 @@ born: "18 March 1880 in Magdalena, Jalisco, Mexico"
 died: "shot on 3 April 1927 in the cemetery in Mezquitán, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 4
   day: 3

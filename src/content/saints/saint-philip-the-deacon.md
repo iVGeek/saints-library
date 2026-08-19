@@ -10,7 +10,7 @@ born: "at Caesarea, Palestine"
 died: "c.58 at Caesarea, Palestine"
 birthPlace: "Palestine"
 deathPlace: "Palestine"
-region: "France"
+region: "Africa"
 feastDay:
   month: 10
   day: 11

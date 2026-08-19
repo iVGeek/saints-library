@@ -10,7 +10,7 @@ born: "at Fredelacum, Gaul (modern Pamiers, France)"
 died: "stabbed in the area of his neck in Vallis Nobilis, Gaul (modern Saint-Antonin-Noble-Val, France)"
 birthPlace: "Gaul (modern Pamiers, France)"
 deathPlace: "Gaul (modern Saint-Antonin-Noble-Val, France)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 2

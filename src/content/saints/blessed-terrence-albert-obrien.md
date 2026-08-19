@@ -12,7 +12,7 @@ born: "1601 in Tuogh (Tower Hill), Limerick, Ireland"
 died: "30 October 1651 in Limerick, Ireland"
 birthPlace: "Limerick, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 10
   day: 30

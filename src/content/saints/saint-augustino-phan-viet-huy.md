@@ -11,7 +11,7 @@ born: "c.1795 in Ha Linh, Nam Ðinh, Vietnam"
 died: "sawn in half on 12 June 1839 in Thua Thiên, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 13

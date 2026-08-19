@@ -9,7 +9,7 @@ born: "15 November 1750 in Gondrexange, Moselle France"
 died: "1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Moselle France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

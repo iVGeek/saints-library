@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 370
 died: "c.370 in Kobern, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 10
   day: 13

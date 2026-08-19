@@ -14,7 +14,7 @@ born: "31 January 1883 at Holodivka, Lviv District, Ukraine"
 died: "12 November 1950 at Abez, Vorkuta, Russia"
 birthPlace: "Lviv District, Ukraine"
 deathPlace: "Vorkuta, Russia"
-region: "England"
+region: "Poland"
 feastDay:
   month: 11
   day: 5

@@ -11,7 +11,7 @@ born: "c.1798 at Kim-Long, Thùa Thiên, Vietnam"
 died: "beheaded on 26 May 1861 near Ðong Hoi, Quang Bình, Vietnam"
 birthPlace: "Thùa Thiên, Vietnam"
 deathPlace: "Quang Bình, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 26

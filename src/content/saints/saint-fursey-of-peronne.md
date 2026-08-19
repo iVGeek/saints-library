@@ -18,7 +18,7 @@ born: "c.567 at Munster, Ireland"
 died: "648 at Mezerolles, France"
 birthPlace: "Ireland"
 deathPlace: "France"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 1
   day: 16

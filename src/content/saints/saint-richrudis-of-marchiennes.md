@@ -13,7 +13,7 @@ born: "612 in Gascony, France"
 died: "12 May 687 in Marchiennes, Belgium of natural causes"
 birthPlace: "France"
 deathPlace: "Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 12

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Friend of Herod Antipas. Manahen was one of those who laid hands on Saint Paul and Saint Barnabas, and sent the two Apostles on the first of Paul's missionary journeys. May have been Saint Luke's source for information on King Herod and family. Likely one of the founders of the C"
 searchAliases:
   - "Manaen"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 24

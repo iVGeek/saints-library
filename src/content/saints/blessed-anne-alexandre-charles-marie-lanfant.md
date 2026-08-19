@@ -11,7 +11,7 @@ born: "9 September 1726 in Lyons, Rhône, France"
 died: "beheaded on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France"
 birthPlace: "Rhône, France"
 deathPlace: "Paris, France"
-region: "France"
+region: "Austria"
 feastDay:
   month: 9
   day: 2

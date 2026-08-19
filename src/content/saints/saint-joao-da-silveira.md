@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Livro_do_Armei
 deathYear: 1645
 died: "hacked to death on 3 October 1645 in Uruaçu, Rio Grande do Norte, Brazil"
 deathPlace: "Rio Grande do Norte, Brazil"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 7
   day: 16

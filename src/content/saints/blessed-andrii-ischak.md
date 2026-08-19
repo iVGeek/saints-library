@@ -14,7 +14,7 @@ born: "20 September 1887 at Mykolayiv, Lviv District, Ukraine"
 died: "murdered by Soviet soldiers on 26 June 1941 at Sykhiv, Ukraine"
 birthPlace: "Lviv District, Ukraine"
 deathPlace: "Ukraine"
-region: "England"
+region: "Austria"
 feastDay:
   month: 6
   day: 26

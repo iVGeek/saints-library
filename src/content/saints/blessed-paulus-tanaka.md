@@ -8,7 +8,7 @@ born: "Tosa, Shikoku,"
 died: "burned alive on 10 September 1622 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Shikoku,"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 10

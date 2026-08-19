@@ -11,7 +11,7 @@ born: "9 January 1872 in Santa Maria Maddalena, Occhiobello, Rovigo, Italy as Cl
 died: "beheaded on 9 July 1900 at Taiyuanfu, Shanxi, China"
 birthPlace: "Occhiobello, Rovigo, Italy as Clelia Nanette"
 deathPlace: "Shanxi, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 8

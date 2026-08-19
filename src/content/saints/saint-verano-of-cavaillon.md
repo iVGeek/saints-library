@@ -14,7 +14,7 @@ born: "Vaucluse, France"
 died: "in 589 in Arles, France of plague"
 birthPlace: "France"
 deathPlace: "Franceplague"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 19

@@ -10,7 +10,7 @@ deathYear: 1624
 born: "1571 in Korea"
 died: "burned alive on 15 November 1624 in Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 11
   day: 15

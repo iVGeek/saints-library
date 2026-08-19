@@ -14,7 +14,7 @@ born: "c.1350 in Galacia, Poland"
 died: "20 October 1409 at Lviv, Poland (in modern Ukraine) of natural causes"
 birthPlace: "Poland"
 deathPlace: "Poland (modern Ukraine) of natural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 10
   day: 20

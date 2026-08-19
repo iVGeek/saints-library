@@ -5,7 +5,7 @@ summary: "Benedictine monk. Hermit in Galacia, Spain. Monk at Toronca, Portugal,
 deathYear: 1164
 born: "Spain"
 died: "c.1164 of natural causes"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 12
   day: 23

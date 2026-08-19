@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 739
 born: "Irish"
 died: "739 of natural causes"
-region: "Ireland"
+region: "Austria"
 feastDay:
   month: 12
   day: 18

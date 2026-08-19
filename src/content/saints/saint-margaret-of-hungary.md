@@ -11,7 +11,7 @@ deathYear: 1271
 born: "1242"
 died: "18 January 1271 at Budapest, Hungary"
 deathPlace: "Hungary"
-region: "France"
+region: "Czech Republic"
 feastDay:
   month: 1
   day: 18

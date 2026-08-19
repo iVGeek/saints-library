@@ -9,7 +9,7 @@ deathYear: 783
 born: "c.723 in Mais (modern Meran), South Tyrol, Italy"
 died: "4 May 783 of natural causes"
 birthPlace: "South Tyrol, Italy"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 4

@@ -9,7 +9,7 @@ born: "20 June 1889 in Montodine, Cremona, Italy"
 died: "17 June 1963 in Ponteranica, Bergamo, Italy of natural causes"
 birthPlace: "Cremona, Italy"
 deathPlace: "Bergamo, Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 1

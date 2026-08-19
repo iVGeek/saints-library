@@ -9,7 +9,7 @@ born: "30 July 1869 in La Sementera, Totatiche, Jalisco, Mexico"
 died: "shot on 25 May 1927 at Colotlán, Jalisco, Mexico"
 birthPlace: "Totatiche, Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 5
   day: 25

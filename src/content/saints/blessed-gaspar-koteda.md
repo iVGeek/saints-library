@@ -8,7 +8,7 @@ born: "1601 in Nagasaki, Japan"
 died: "beheaded on 11 September 1622 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 11

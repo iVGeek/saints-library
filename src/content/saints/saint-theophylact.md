@@ -11,7 +11,7 @@ deathYear: 845
 born: "8th century Asian"
 died: "845 in prison in Coria, Asia Minor, of natural causes"
 deathPlace: "Asia Minor,natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 3
   day: 8

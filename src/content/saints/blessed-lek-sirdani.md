@@ -9,7 +9,7 @@ born: "1 March 1891 in Bogë, Shkodrë, Albania"
 died: "26 December 1948 in Koplek, Shkodrë, Albania"
 birthPlace: "Shkodrë, Albania"
 deathPlace: "Shkodrë, Albania"
-region: "France"
+region: "Austria"
 feastDay:
   month: 12
   day: 26

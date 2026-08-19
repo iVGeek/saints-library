@@ -5,7 +5,7 @@ summary: "Ten Christians murdered together by Arabs after their seizure of Antio
 deathYear: 637
 died: "637 in Antioch, Syria"
 deathPlace: "Syria"
-region: "Poland"
+region: "Turkey"
 feastDay:
   month: 11
   day: 6

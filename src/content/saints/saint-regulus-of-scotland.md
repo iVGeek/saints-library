@@ -8,7 +8,7 @@ searchAliases:
   - "Riaghail…"
   - "Riaghai…"
   - "Rule…"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 3
   day: 30

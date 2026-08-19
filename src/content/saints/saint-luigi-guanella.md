@@ -15,7 +15,7 @@ born: "9 December 1842 in Fraciscio di Campodolcino, Sondrio, diocese of Como, I
 died: "24 October 1915 in Como, Italy of complications from a stroke he suffered on 27 September 1915"
 birthPlace: "Sondrio, dioceseComo, Italy"
 deathPlace: "Italycomplications from a stroke he suffered on 27 September 1915"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 24

@@ -21,7 +21,7 @@ deathYear: 1878
 born: "5 January 1846 at Abellin, Galilee, Palestine as Mary Baouardy"
 died: "26 August 1878 at Bethlehem of gangrene following an injury received at the construction site of the Bethlehem monastery"
 birthPlace: "Galilee, Palestine as Mary Baouardy"
-region: "Italy"
+region: "India"
 feastDay:
   month: 8
   day: 26

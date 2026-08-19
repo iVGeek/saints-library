@@ -9,7 +9,7 @@ born: "7 June 1892 in Alcalá de Guadaíra, Sevilla, Spain"
 died: "shot on 17 July 1936 in front of his home in Sevilla, Spain"
 birthPlace: "Sevilla, Spain"
 deathPlace: "Spain"
-region: "France"
+region: "Chile"
 feastDay:
   month: 7
   day: 17

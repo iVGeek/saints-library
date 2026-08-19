@@ -12,7 +12,7 @@ born: "5 November 1887 in Abadiano, Vizcaya, Spain"
 died: "28 May 1957 at the Christian Medical College Hospital in Vellore, Tamil Nadu, India of natural causes"
 birthPlace: "Vizcaya, Spain"
 deathPlace: "Tamil Nadu, Indianatural causes"
-region: "Spain"
+region: "India"
 feastDay:
   month: 9
   day: 14

@@ -14,7 +14,7 @@ deathYear: 699
 born: "in Franche-Comté, France"
 died: "c.699"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 6

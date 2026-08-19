@@ -9,7 +9,7 @@ born: "18 March 1930 in Rosà, Vicenza, Italy"
 died: "shot on 28 November 1964 in Fizi, Sud-Kivu, Democratic Republic of Congo"
 birthPlace: "Vicenza, Italy"
 deathPlace: "Sud-Kivu, Democratic RepublicCongo"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 11
   day: 28

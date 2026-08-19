@@ -6,7 +6,7 @@ deathYear: 884
 born: "Ireland"
 died: "hit with a scythe in 884 in  Viktorsberg, Vorarlberg, (in modern Austria)"
 deathPlace: "Vorarlberg, (modern Austria)"
-region: "Ireland"
+region: "Austria"
 feastDay:
   month: 1
   day: 31

@@ -15,7 +15,7 @@ birthYear: 536
 deathYear: 599
 born: "536 in Ireland"
 died: "c.599 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 6
   day: 9

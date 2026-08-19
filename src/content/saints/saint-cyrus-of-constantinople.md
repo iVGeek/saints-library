@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 714
 died: "714 in Constantinople (modern Istanbul, Turkey) of natural causes"
 deathPlace: "Turkey)natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 7

@@ -11,7 +11,7 @@ born: "28 March 1907 in Aljustrel, Santarém, Portugal"
 died: "13 February 2005 in the Carmelite convent in Coimbra, Portugal of natural causes"
 birthPlace: "Santarém, Portugal"
 deathPlace: "Portugalnatural causes"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 1
   day: 1

@@ -11,7 +11,7 @@ born: "c.1803 in Phú Nhai, Nam Ðinh, Vietnam"
 died: "strangled on 18 July 1839 in Nam Ðinh, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 18

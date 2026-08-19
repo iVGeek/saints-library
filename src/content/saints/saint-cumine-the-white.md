@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 669
 born: "Ireland"
 died: "669 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 2
   day: 24

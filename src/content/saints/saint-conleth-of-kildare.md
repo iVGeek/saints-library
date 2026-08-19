@@ -21,7 +21,7 @@ deathYear: 519
 born: "c.450 in Ireland"
 died: "attacked by wolves on 3 May 519 in the forests of Leinster, Ireland"
 deathPlace: "Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 5
   day: 3

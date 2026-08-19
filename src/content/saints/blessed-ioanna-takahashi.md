@@ -8,7 +8,7 @@ born: "Arima, Hyogo, Japan"
 died: "7 October 1613 in Arima, Hyogo, Japan"
 birthPlace: "Hyogo, Japan"
 deathPlace: "Hyogo, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 7

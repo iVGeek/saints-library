@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1586
 died: "hanged, drawn and quartered on 2 April 1586 at Tyburn, London, England"
 deathPlace: "drawn and quartered on 2 April 1586 at Tyburn, London, England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 4
   day: 20

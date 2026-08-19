@@ -6,7 +6,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Saint_Goar.png"
 deathYear: 575
 born: "in Aquitaine (part of modern France)"
 died: "c.575"
-region: "France"
+region: "India"
 feastDay:
   month: 7
   day: 6

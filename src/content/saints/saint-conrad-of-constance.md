@@ -8,7 +8,7 @@ searchAliases:
   - "Corrado di Costanza"
 deathYear: 975
 died: "975 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 11
   day: 26

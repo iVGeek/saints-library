@@ -7,7 +7,7 @@ born: "at Bethsaida, Palestine"
 died: "stoned to death while tied to a cross c.80 at Hierapolis, Phrygia (near modern Pamukkale, Turkey)"
 birthPlace: "Palestine"
 deathPlace: "Phrygia (near modern Pamukkale, Turkey)"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 5
   day: 3

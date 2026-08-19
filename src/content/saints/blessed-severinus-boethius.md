@@ -13,7 +13,7 @@ born: "475–480 at Rome, Italy as Anicius Manlius Torquatus Severinus Boethius"
 died: "524–525 at Pavia, Italy"
 birthPlace: "Italy as Anicius Manlius Torquatus Severinus Boethius"
 deathPlace: "Italy"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 10
   day: 23

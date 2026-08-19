@@ -9,7 +9,7 @@ born: "24 February 1840 in Châttonay, Isère, France"
 died: "16 October 1908 in Grave, Noord-Brabant, Netherlands of natural causes"
 birthPlace: "Isère, France"
 deathPlace: "Noord-Brabant, Netherlandsnatural causes"
-region: "France"
+region: "Netherlands"
 feastDay:
   month: 1
   day: 1

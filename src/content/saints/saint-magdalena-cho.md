@@ -12,7 +12,7 @@ born: "1807 in Seoul, South Korea"
 died: "beheaded September 1839 in Seoul Prison, South Korea"
 birthPlace: "South Korea"
 deathPlace: "South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 9
   day: 26

@@ -12,7 +12,7 @@ born: "1636 in Lincolnshire, England"
 died: "hanged in 24 January 1679 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "London, England"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 24

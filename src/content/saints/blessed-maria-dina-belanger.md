@@ -15,7 +15,7 @@ born: "30 April 1897 in the parish of Notre-Dame-de-Jacques-Cartier, part of the
 died: "4 September 1929 in the Jésus-Marie convent, Sillery, Québec, Canada of tuberculosis while contemplating an image of the Eucharistic Heart of Jesus"
 birthPlace: "partthe Saint-Roch district of Québec, Canada"
 deathPlace: "Sillery, Québec, Canadatuberculosis while contemplating an image of the Eucharistic Heart of Jesus"
-region: "Italy"
+region: "England"
 feastDay:
   month: 9
   day: 4

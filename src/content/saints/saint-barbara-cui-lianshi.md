@@ -12,7 +12,7 @@ born: "c.1849 in  Xiaotian, Hejian County, Hebei, China"
 died: "15 June 1900 in Liushuitao, Hejian County, Hebei, China"
 birthPlace: "Hejian County, Hebei, China"
 deathPlace: "Hejian County, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 6
   day: 15

@@ -12,7 +12,7 @@ born: "16 November 1826 in Soccavo, Naples, Italy"
 died: "at 9am on 3 September 1886 at the Franciscan Sisters Adorers of the Holy Cross at Via Nuova Padre Ludovico 28, Casoria, Naples, Italy of natural causes after a long and debilitating illness"
 birthPlace: "Naples, Italy"
 deathPlace: "Casoria, Naples, Italynatural causes after a long and debilitating illness"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 5

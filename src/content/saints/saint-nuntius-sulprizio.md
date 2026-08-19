@@ -12,7 +12,7 @@ born: "13 April 1817 at Pescosansonesco, Pescara, Abruzzi, Italy"
 died: "5 May 1836 in Naples, Italy"
 birthPlace: "Pescara, Abruzzi, Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 5

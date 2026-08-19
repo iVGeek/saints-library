@@ -8,7 +8,7 @@ searchAliases:
   - "Philip Minh"
 deathYear: 1853
 died: "beheaded on 3 July 1853 at Ðinh Khao (Vietnam)"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 3

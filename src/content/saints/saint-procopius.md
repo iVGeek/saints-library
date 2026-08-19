@@ -11,7 +11,7 @@ born: "c.980 at Kourim, Chotoun, Bohemia"
 died: "25 March 1053 at Sazava, Bohemia of natural causes"
 birthPlace: "Chotoun, Bohemia"
 deathPlace: "Bohemianatural causes"
-region: "England"
+region: "Czech Republic"
 feastDay:
   month: 3
   day: 25

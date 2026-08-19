@@ -7,7 +7,7 @@ searchAliases:
   - "Théogène"
 deathYear: 320
 died: "drowned in 320 at Cyzicus on the Hellespont"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 3

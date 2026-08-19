@@ -8,7 +8,7 @@ born: "1751 in Jinsan, Jeolla-do, South Korea"
 died: "8 December 1791 in Jeonju, Jeolla-do, South Korea"
 birthPlace: "Jeolla-do, South Korea"
 deathPlace: "Jeolla-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 12
   day: 8

@@ -19,7 +19,7 @@ deathYear: 713
 born: "c.647"
 died: "1 March 713 near Düsseldorf-Kaiserswerth, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 3
   day: 1

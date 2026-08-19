@@ -12,7 +12,7 @@ born: "8 December 1813 at Kerpend, Germany"
 died: "4 December 1865 at Cologne, Germany of natural causes"
 birthPlace: "Germany"
 deathPlace: "Germanynatural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 12
   day: 4

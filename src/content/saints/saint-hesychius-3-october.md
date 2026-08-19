@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 380
 died: "c.380 at Majuma, Palestine of natural causes"
 deathPlace: "Palestinenatural causes"
-region: "England"
+region: "Holy Land"
 feastDay:
   month: 10
   day: 3

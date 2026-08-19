@@ -7,7 +7,7 @@ birthYear: 810
 deathYear: 823
 born: "c.810"
 died: "22 October 823 at Monte Cassino Abbey in Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 22

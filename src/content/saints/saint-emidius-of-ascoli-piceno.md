@@ -11,7 +11,7 @@ searchAliases:
 deathYear: 303
 born: "German"
 died: "beheaded c.303"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 8
   day: 5

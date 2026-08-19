@@ -4,7 +4,7 @@ honorific: Blessed
 title: "Bishop"
 summary: "Mercedarian friar. Pious and enthusiastic archbishop of Athens, Greece."
 image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Blasi.jpg"
-region: "Italy"
+region: "Greece"
 feastDay:
   month: 4
   day: 5

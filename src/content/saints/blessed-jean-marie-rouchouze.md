@@ -13,7 +13,7 @@ born: "14 December 1810 in Saint-Julien-en-Jarez, Loire, France"
 died: "shot on 26 May 1871 in Paris, France"
 birthPlace: "Loire, France"
 deathPlace: "France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 26

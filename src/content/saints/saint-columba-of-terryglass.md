@@ -12,7 +12,7 @@ deathYear: 552
 born: "at Leinster, Ireland"
 died: "13 December 552 of plague"
 birthPlace: "Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 12
   day: 12

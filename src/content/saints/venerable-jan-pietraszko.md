@@ -8,7 +8,7 @@ born: "7 August 1911 in Buczkowice, Bielsko, Poland"
 died: "2 March 1988 in Kraków, Poland of natural causes"
 birthPlace: "Bielsko, Poland"
 deathPlace: "Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 4
   day: 5

@@ -11,7 +11,7 @@ deathYear: 1160
 born: "12th century Vastergotland, Sweden"
 died: "murdered c.1160"
 birthPlace: "Sweden"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 7
   day: 31

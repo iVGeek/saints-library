@@ -9,7 +9,7 @@ born: "9 March 1955 in Florence, Italy"
 died: "8 January 1974 in Rome, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 1

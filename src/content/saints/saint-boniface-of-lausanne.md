@@ -13,7 +13,7 @@ born: "1183 in Brussels, Belgium"
 died: "1260 at La Cambre Abbey, Brussels, Belgium of natural causes"
 birthPlace: "Belgium"
 deathPlace: "Brussels, Belgiumnatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 2
   day: 19

@@ -8,7 +8,7 @@ born: "17 April 1747 in La Flèche, Sarthe, France"
 died: "14 October 1794 at Angers, Maine-et-Loire, France"
 birthPlace: "Sarthe, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 10
   day: 14

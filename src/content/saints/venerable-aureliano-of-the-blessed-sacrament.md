@@ -12,7 +12,7 @@ born: "27 June 1887 in Artunduaga de Basauri, Spain as Pedro Landeta y Azcueta"
 died: "16 November 1963 in Alwaye, India of natural causes"
 birthPlace: "Spaas Pedro Landeta y Azcueta"
 deathPlace: "Indianatural causes"
-region: "Spain"
+region: "India"
 feastDay:
   month: 1
   day: 1

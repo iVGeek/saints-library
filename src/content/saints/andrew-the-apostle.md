@@ -17,7 +17,7 @@ born: 1st century
 died: c. 60
 birthPlace: Bethsaida, Israel
 deathPlace: Patras, Greece
-region: Holy Land
+region: "Holy Land"
 centuries: [1]
 feastDay:
   month: 11

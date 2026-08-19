@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 1160
 died: "martyred in 1160 at the cloister of Saint Jacob, Mainz, Germany"
 deathPlace: "Mainz, Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 1

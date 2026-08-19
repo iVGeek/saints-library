@@ -14,7 +14,7 @@ deathYear: 749
 born: "676 at Damascus, Syria"
 died: "749 of natural causes"
 birthPlace: "Syria"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 4

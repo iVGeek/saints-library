@@ -7,7 +7,7 @@ born: "in a small village near Tiermas, Spain"
 died: "10th century in Leyre, Navarre, Spain of natural causes"
 birthPlace: "Spain"
 deathPlace: "Navarre, Spaof natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 3

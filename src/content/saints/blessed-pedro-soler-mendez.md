@@ -9,7 +9,7 @@ born: "28 April 1827 in Lorca, Murcia, Spain"
 died: "cut to pieces on 9-10 July 1860 in Damascus, Syria"
 birthPlace: "Murcia, Spain"
 deathPlace: "Syria"
-region: "Spain"
+region: "Syria"
 feastDay:
   month: 7
   day: 10

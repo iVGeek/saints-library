@@ -12,7 +12,7 @@ born: "22 December 1904 in Berdychiv, Zhytomyr, Ukraine"
 died: "3 December 1974 in Karaganda, Kazakhstan of natural causes"
 birthPlace: "Zhytomyr, Ukraine"
 deathPlace: "Kazakhstannatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 3

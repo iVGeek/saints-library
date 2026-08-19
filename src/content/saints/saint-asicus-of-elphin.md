@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 490
 died: "c.490 of natural causes at Racoon, Donegal, Ireland"
 deathPlace: "Donegal, Ireland"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 4
   day: 27

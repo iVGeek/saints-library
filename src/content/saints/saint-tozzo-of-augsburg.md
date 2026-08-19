@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 778
 died: "16 January 778 of natural causes, probably in Augsburg, Germany"
 deathPlace: "probablyAugsburg, Germany"
-region: "France"
+region: "Germany"
 feastDay:
   month: 1
   day: 16

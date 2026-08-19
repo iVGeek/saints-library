@@ -11,7 +11,7 @@ born: "1792 in Kwang-chon, Gangweon-do, South Korea"
 died: "beheaded on 24 May 1839 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Gangweon-do, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 5
   day: 24

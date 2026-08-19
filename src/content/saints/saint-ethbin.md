@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 600
 born: "British Isles"
 died: "c.600"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 10
   day: 19

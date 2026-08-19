@@ -9,7 +9,7 @@ born: "11 November 1903 in Seville, Spain"
 died: "shot in the early morning of 12 August 1936 in near an abandoned mine near Hornachuelos, Córdoba, Spain"
 birthPlace: "Spain"
 deathPlace: "Córdoba, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 12

@@ -9,7 +9,7 @@ born: "24 February 1912 in La Serna, Palencia, diocese of Leon, Spain"
 died: "shot on 27 July 1936 in Can Moncada, Llisá de Munt, Barcelona, Spain"
 birthPlace: "Palencia, dioceseLeon, Spain"
 deathPlace: "Llisá de Munt, Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 27

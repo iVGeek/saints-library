@@ -6,7 +6,7 @@ deathYear: 1622
 born: "Korea"
 died: "beheaded on 19 August 1622 at Nagasaki, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 8
   day: 19

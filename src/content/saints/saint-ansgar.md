@@ -22,7 +22,7 @@ born: "801 at Amiens, Picardy, France"
 died: "3 February 865 at Bremen, Germany"
 birthPlace: "Picardy, France"
 deathPlace: "Germany"
-region: "France"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 3

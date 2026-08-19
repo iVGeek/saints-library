@@ -14,7 +14,7 @@ born: "c.1060 in Meriot, Sherborne, England"
 died: "28 March 1134 at Citeaux, France of natural causes"
 birthPlace: "Sherborne, England"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "Scotland"
 feastDay:
   month: 3
   day: 28

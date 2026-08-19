@@ -9,7 +9,7 @@ born: "7 February 1907 in La Vecilla, León, Spain"
 died: "29 August 1936 in Quart de Poblet, L’Horta, Valencia, Spain"
 birthPlace: "León, Spain"
 deathPlace: "L’Horta, Valencia, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 29

@@ -13,7 +13,7 @@ born: "1817 in Chungju, Chungcheong-do, South Korea"
 died: "7 March 1866 at the Small West Gate, Seoul, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "France"
+region: "Korea"
 feastDay:
   month: 3
   day: 7

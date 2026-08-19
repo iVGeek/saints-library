@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 258
 born: "Iconium in Asia Minor"
 died: "beheaded c.258 in Asia Minor"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 9
   day: 12

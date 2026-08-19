@@ -12,7 +12,7 @@ born: "1 March 1930 in Saint-Maixent, Deux-Sèvres, France"
 died: "21 May 1996 near Médéa, Algeria"
 birthPlace: "Deux-Sèvres, France"
 deathPlace: "Algeria"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 21

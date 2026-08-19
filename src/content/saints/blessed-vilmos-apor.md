@@ -13,7 +13,7 @@ born: "29 February 1892 at Segesv&aacute;r, Transylvania, Hungary"
 died: "shot on 2 April 1945 at Gy&otilde;r, Hungary"
 birthPlace: "Transylvania, Hungary"
 deathPlace: "Hungary"
-region: "France"
+region: "Hungary"
 feastDay:
   month: 4
   day: 2

@@ -7,7 +7,7 @@ born: "Kokura, Buzen, Fukuoka, Japan"
 died: "30 January 1636 in Kumamoto, Japan"
 birthPlace: "Buzen, Fukuoka, Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 1
   day: 30

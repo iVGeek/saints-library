@@ -10,7 +10,7 @@ searchAliases:
   - Justin the Philosopher
   - Justin of Nablus
 birthPlace: "Rome"
-region: Rome
+region: "Italy"
 centuries: [16]
 feastDay:
   month: 6

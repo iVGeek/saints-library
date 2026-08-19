@@ -9,7 +9,7 @@ born: "14 October 1885 in Mokotów, Mazowieckie, Poland"
 died: "gassed on 10 October 1942 in the chambers of Dachau, Oberbayern, Germany"
 birthPlace: "Mazowieckie, Poland"
 deathPlace: "Oberbayern, Germany"
-region: "Germany"
+region: "Poland"
 feastDay:
   month: 10
   day: 10

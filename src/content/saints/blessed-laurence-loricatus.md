@@ -8,7 +8,7 @@ born: "c.1190 in Apulio, Italy"
 died: "1243 at Subiaco, Italy"
 birthPlace: "Italy"
 deathPlace: "Italy"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 8
   day: 16

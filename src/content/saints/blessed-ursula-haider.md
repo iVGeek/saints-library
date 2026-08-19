@@ -12,7 +12,7 @@ born: "1413 in Leutkirch, Allgäu, Swabia (in modern Baden-Württemberg, Germany
 died: "20 January 1498 in Villingen (in modern Baden-Württemberg, Germany) of natural causes"
 birthPlace: "Allgäu, Swabia (modern Baden-Württemberg, Germany)"
 deathPlace: "Germany)natural causes"
-region: "Germany"
+region: "Austria"
 feastDay:
   month: 1
   day: 20

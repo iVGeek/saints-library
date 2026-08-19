@@ -10,7 +10,7 @@ searchAliases:
 deathYear: 1140
 born: "latter 11th century France"
 died: "1140 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 6

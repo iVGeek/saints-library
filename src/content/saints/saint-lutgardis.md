@@ -22,7 +22,7 @@ born: "1182 at Tongres, Limburg, Belgium"
 died: "16 June 1246 at Aywieres (modern Awirs), Belgium of natural causes, just as night office began on the Saturday night following Feast of the Holy Trinity"
 birthPlace: "Limburg, Belgium"
 deathPlace: "Belgiumnatural causes, just as night office began on the Saturday night following Feast of the Holy Trinity"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 6
   day: 16

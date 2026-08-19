@@ -10,7 +10,7 @@ born: "mid-15th century Turin, Italy"
 died: "4 July\n1515 in Piombino, Italy of natural causes while travelling from the Dominican General Chapter in Naples, Italy"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes while travelling from the Dominican General Chapter in Naples, Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 7
   day: 4

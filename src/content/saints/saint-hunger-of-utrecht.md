@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 866
 died: "866 at Prum, Germany of natural causes"
 deathPlace: "Germanynatural causes"
-region: "Germany"
+region: "Netherlands"
 feastDay:
   month: 12
   day: 22

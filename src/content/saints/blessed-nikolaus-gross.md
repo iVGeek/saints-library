@@ -9,7 +9,7 @@ born: "30 September 1898 at Niederwenigern, Ruhr region, Germany"
 died: "executed 15 January 1945 at the Berlin-Plotzensee, Germany prison"
 birthPlace: "Ruhr region, Germany"
 deathPlace: "Germany prison"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 7
   day: 20

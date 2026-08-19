@@ -12,7 +12,7 @@ born: "5 July 1898 in Torralba de Río, Navarra, Spain"
 died: "shot on 11 August 1936 in El Escorial, Madrid, Spain"
 birthPlace: "Navarra, Spain"
 deathPlace: "Madrid, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 11

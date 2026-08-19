@@ -11,7 +11,7 @@ born: "30 April 1623 in Montigny-sur-Avre, Normandy, France"
 died: "6 May 1708 in Quebec, Canada of natural causes"
 birthPlace: "Normandy, France"
 deathPlace: "Canadanatural causes"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 5
   day: 6

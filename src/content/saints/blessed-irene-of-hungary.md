@@ -12,7 +12,7 @@ deathYear: 1134
 born: "1088 in Esztergom, Hungary as Piroska"
 died: "13 August 1134 in Byzantium (Constantinople) of natural causes"
 birthPlace: "Hungary as Piroska"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 8
   day: 13

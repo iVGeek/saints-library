@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 580
 born: "northern Ireland"
 died: "580 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 3
   day: 12

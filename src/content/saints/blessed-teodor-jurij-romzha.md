@@ -9,7 +9,7 @@ born: "14 April 1911 at Velykyj Bychkiv, Transcarpathia, Ukraine"
 died: "poisoned in his hospital bed on 1 November 1947 at Mukachiv, Ukraine"
 birthPlace: "Transcarpathia, Ukraine"
 deathPlace: "Ukraine"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 11
   day: 1

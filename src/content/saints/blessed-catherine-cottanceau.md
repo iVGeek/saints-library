@@ -8,7 +8,7 @@ born: "c.1733 in Bressuire, Deux-Sèvres, France"
 died: "1 February 1794 at Avrillé, Maine-et-Loire, France"
 birthPlace: "Deux-Sèvres, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

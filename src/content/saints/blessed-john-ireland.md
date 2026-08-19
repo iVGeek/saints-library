@@ -5,7 +5,7 @@ summary: "Priest. Chaplain to Blessed John Larke and Saint Thomas More. Rector a
 deathYear: 1544
 died: "7 March 1544 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "Germany"
+region: "England"
 feastDay:
   month: 3
   day: 7

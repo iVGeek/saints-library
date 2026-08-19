@@ -13,7 +13,7 @@ born: "c.1424 at Cerano, Novara, Lombardy, Italy"
 died: "14 June 1482 in Sassari, Sardinia, Italy of natural causes"
 birthPlace: "Novara, Lombardy, Italy"
 deathPlace: "Sardinia, Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 4

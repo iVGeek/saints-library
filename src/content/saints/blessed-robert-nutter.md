@@ -12,7 +12,7 @@ born: "c.1557 at Burnley Lanes, Lancashire, England"
 died: "hanged on 26 July 1600 at Lancaster, England"
 birthPlace: "Lancashire, England"
 deathPlace: "England"
-region: "France"
+region: "Portugal"
 feastDay:
   month: 7
   day: 26

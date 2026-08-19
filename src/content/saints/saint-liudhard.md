@@ -8,7 +8,7 @@ deathYear: 600
 born: "France"
 died: "c.600 in Canterbury, England"
 deathPlace: "England"
-region: "France"
+region: "England"
 feastDay:
   month: 2
   day: 24

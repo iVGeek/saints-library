@@ -8,7 +8,7 @@ born: "c.1568 in Kyoto (a.k.a. Miyako), Japan"
 died: "9 December 1603 in Yatsushiro, Kumamoto, Japan"
 birthPlace: "Japan"
 deathPlace: "Kumamoto, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 12
   day: 9

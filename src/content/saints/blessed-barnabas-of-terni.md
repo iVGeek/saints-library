@@ -9,7 +9,7 @@ deathYear: 1475
 born: "Italy"
 died: "c.1475 at the Carceri hermitage on Monte Subiaco, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Peru"
 feastDay:
   month: 2
   day: 17

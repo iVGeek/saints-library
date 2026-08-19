@@ -11,7 +11,7 @@ born: "c.1575 in Saga, Japan"
 died: "burned alive in 1626 at Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 7
   day: 12

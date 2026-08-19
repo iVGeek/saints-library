@@ -10,7 +10,7 @@ born: "at Buganda, Uganda"
 died: "beheaded and dismembered on 26 May 1886 at Ttakajjunge, Uganda"
 birthPlace: "Uganda"
 deathPlace: "Uganda"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 5
   day: 26

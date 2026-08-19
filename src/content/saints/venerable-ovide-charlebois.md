@@ -11,7 +11,7 @@ born: "17 February 1862 in Oka, Québec, Canada as William-Ovide"
 died: "20 November 1933 in Le Pas, Manitoba, Canada of natural causes"
 birthPlace: "Québec, Canada as William-Ovide"
 deathPlace: "Manitoba, Canadanatural causes"
-region: "England"
+region: "Canada"
 feastDay:
   month: 7
   day: 17

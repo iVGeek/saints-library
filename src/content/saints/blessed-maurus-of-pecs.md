@@ -16,7 +16,7 @@ born: "c.1000, probably in the territory of modern Hungary"
 died: "c.1075 in Pécs, Hungary of natural causes"
 birthPlace: "probablythe territory of modern Hungary"
 deathPlace: "Hungarynatural causes"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 10
   day: 25

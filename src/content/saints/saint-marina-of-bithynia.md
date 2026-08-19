@@ -5,7 +5,7 @@ summary: "Hermitess in 8th century Bithynia (in modern Turkey), wearing a monk's
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marina-Marino.jpg"
 deathYear: 750
 died: "c.750 of natural causes"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 6
   day: 18

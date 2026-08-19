@@ -9,7 +9,7 @@ searchAliases:
   - "Silvain"
   - "Silvano"
 died: "latter 1st century Macedonia"
-region: "France"
+region: "Turkey"
 feastDay:
   month: 7
   day: 13

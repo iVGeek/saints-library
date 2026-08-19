@@ -15,7 +15,7 @@ born: "at Heusca, Aragon (in modern Spain)"
 died: "304 at Valencia, Spain"
 birthPlace: "Aragon (modern Spain)"
 deathPlace: "Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 22

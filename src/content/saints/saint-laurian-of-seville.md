@@ -10,7 +10,7 @@ deathYear: 546
 born: "in Hungary"
 died: "beheaded on 4 July 546 at Bourges, France"
 deathPlace: "France"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 7
   day: 4

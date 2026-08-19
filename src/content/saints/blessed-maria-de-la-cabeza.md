@@ -10,7 +10,7 @@ deathYear: 1175
 born: "at Uceda, Guadalajara, Spain"
 died: "c.1175"
 birthPlace: "Guadalajara, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 9
   day: 9

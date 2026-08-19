@@ -11,7 +11,7 @@ born: "9 May 1837 at Mornese, Acqui, Italy"
 died: "14 May 1881 in Nizza Monferrato, Asti Italy of natural causes"
 birthPlace: "Acqui, Italy"
 deathPlace: "Asti Italynatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 14

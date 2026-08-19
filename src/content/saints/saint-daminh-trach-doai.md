@@ -11,7 +11,7 @@ born: "c.1792 at Ngoai Voi, Nam Ðinh, Vietnam"
 died: "beheaded on 18 September 1840 at Bay Mau, Hanoi, Vietnam"
 birthPlace: "Nam Ðinh, Vietnam"
 deathPlace: "Hanoi, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 9
   day: 18

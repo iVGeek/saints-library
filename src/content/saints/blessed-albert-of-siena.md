@@ -8,7 +8,7 @@ deathYear: 1181
 born: "Monte-alceto, Siena, Tuscany, Italy"
 died: "c.1181 of natural causes"
 birthPlace: "Siena, Tuscany, Italy"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 7

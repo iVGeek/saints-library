@@ -9,7 +9,7 @@ born: "10 April 1886 in Zuromin, Mazowieckie, Poland"
 died: "10 October 1941 in the prison camp at Dzialdowo, Warminsko-Mazurskie, in Nazi-occupied Poland"
 birthPlace: "Mazowieckie, Poland"
 deathPlace: "Warminsko-Mazurskie,Nazi-occupied Poland"
-region: "England"
+region: "Poland"
 feastDay:
   month: 10
   day: 10

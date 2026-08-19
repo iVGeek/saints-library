@@ -3,7 +3,7 @@ name: "Saint Feock"
 honorific: Saint
 summary: "There is a church named for her in Cornwall, England. No other information has survived."
 born: "may have been Irish"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 2
   day: 2

@@ -8,7 +8,7 @@ born: "c.1600 in Yamanashi, Japan"
 died: "16 February 1624 in Hiroshima, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 16

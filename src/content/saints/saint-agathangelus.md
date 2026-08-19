@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/ConsulterElementNum.jpg"
 deathYear: 309
 born: "Roman"
 died: "martyred in 309 in Ancyra (in modern Turkey)"
-region: "France"
+region: "Turkey"
 feastDay:
   month: 1
   day: 23

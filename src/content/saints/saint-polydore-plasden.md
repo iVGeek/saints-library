@@ -10,7 +10,7 @@ born: "1563 in London, England"
 died: "hanged, drawn and quartered on 10 December 1591 in Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn and quartered on 10 December 1591Tyburn, London, England"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 10

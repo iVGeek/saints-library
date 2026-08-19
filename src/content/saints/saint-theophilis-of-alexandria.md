@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 249
 died: "beheaded in 249 at Alexandria, Egypt"
 deathPlace: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 6
   day: 1

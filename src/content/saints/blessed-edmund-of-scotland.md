@@ -5,7 +5,7 @@ summary: "Born a prince, the son of Saint Margaret of Scotland and King Malcoem 
 deathYear: 1100
 died: "1100 at the monastery of Montague in Somerset, England of natural causes"
 deathPlace: "Englandnatural causes"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 10
   day: 3

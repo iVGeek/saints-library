@@ -15,7 +15,7 @@ deathYear: 633
 born: "in the British Isles"
 died: "martyred 12 November 633 near Alost, Brabant, Belgium"
 deathPlace: "Brabant, Belgium"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 11
   day: 12

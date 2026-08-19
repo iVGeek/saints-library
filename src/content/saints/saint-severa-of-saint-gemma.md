@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Sister of Saint Modoald of Trier. Nun. First Abbess of Saint Gemma convent in Villeneuve, France; it was later renamed Sainte-Sevère in her honour."
 deathYear: 680
 died: "c.680"
-region: "France"
+region: "Germany"
 feastDay:
   month: 7
   day: 20

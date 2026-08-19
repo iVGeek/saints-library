@@ -9,7 +9,7 @@ searchAliases:
   - "Hydulphus…"
 deathYear: 707
 died: "c.707"
-region: "England"
+region: "Belgium"
 feastDay:
   month: 6
   day: 23

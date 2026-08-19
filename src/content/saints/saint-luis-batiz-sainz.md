@@ -9,7 +9,7 @@ born: "13 September 1870 at San Miguel del Mezquital, Mexico"
 died: "shot on 15 August 1926 at Chalchihuites, Zacatecas, Mexico"
 birthPlace: "Mexico"
 deathPlace: "Zacatecas, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 8
   day: 15

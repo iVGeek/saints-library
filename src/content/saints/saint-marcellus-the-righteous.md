@@ -12,7 +12,7 @@ born: "5th century at Apamea, Syria"
 died: "c.485 at Constantinople (Istanbul, Turkey)"
 birthPlace: "Syria"
 deathPlace: "Turkey)"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 29

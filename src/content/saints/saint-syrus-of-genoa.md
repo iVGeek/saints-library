@@ -7,7 +7,7 @@ searchAliases:
   - "Siro"
 deathYear: 380
 died: "c.380 of natural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 29

@@ -11,7 +11,7 @@ born: "1 October 1823 in Constantinople (modern Istanbul, Turkey) as Sophie Leev
 died: "16 November 1906 in Pau, Pyrénées-Atlantique, France of natural causes"
 birthPlace: "Turkey) as Sophie Leeves"
 deathPlace: "Pyrénées-Atlantique, Francenatural causes"
-region: "France"
+region: "India"
 feastDay:
   month: 2
   day: 2

@@ -11,7 +11,7 @@ born: "c.1567 at Monterey, Spanish Galacia"
 died: "crucified on 5 February 1597 at Nishizaka, Nagasaki, Japan"
 birthPlace: "Spanish Galacia"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

@@ -9,7 +9,7 @@ born: "1573 in Villar del Rio, Soria, Spain"
 died: "3 December 1636 in Córdoba, Spain of natural causes"
 birthPlace: "Soria, Spain"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 4
   day: 19

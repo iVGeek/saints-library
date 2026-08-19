@@ -11,7 +11,7 @@ born: "1471 at Oxford, England"
 died: "hanged and burned to death on 22 May 1538 at Smithfield, England"
 birthPlace: "England"
 deathPlace: "England"
-region: "Spain"
+region: "England"
 feastDay:
   month: 5
   day: 22

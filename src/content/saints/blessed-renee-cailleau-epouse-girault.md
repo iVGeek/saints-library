@@ -8,7 +8,7 @@ born: "6 July 1752 in Saint-Aubin-de-Luigné, Maine-et-Loire, France"
 died: "1 February 1794 in Avrillé, Maine-et-Loire, France"
 birthPlace: "Maine-et-Loire, France"
 deathPlace: "Maine-et-Loire, France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 2
   day: 1

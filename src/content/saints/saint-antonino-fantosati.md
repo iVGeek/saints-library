@@ -14,7 +14,7 @@ born: "16 October 1842 at Santa Maria della Valle,  Umbria, Italy"
 died: "7 July 1900 in Hengzhou, Hunan, China"
 birthPlace: "Umbria, Italy"
 deathPlace: "Hunan, China"
-region: "Italy"
+region: "China"
 feastDay:
   month: 7
   day: 7

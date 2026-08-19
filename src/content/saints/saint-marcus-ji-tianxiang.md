@@ -12,7 +12,7 @@ born: "c.1834 in Yazhuangtou, Jizhou, Hebei, China"
 died: "beheaded on 7 July 1900 in Yazhuangtou, Jizhou, Hebei, China"
 birthPlace: "Jizhou, Hebei, China"
 deathPlace: "Jizhou, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 7

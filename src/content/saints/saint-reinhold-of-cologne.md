@@ -15,7 +15,7 @@ searchAliases:
 deathYear: 960
 died: "beaten to death with hammers by stone masons in 960 at Cologne, Germany"
 deathPlace: "Germany"
-region: "Spain"
+region: "Germany"
 feastDay:
   month: 1
   day: 7

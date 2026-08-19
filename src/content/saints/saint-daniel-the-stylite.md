@@ -10,7 +10,7 @@ deathYear: 493
 born: "409 at Maratha, Syria"
 died: "493 near Constantinople of natural causes"
 birthPlace: "Syria"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 12
   day: 11

@@ -8,7 +8,7 @@ searchAliases:
 birthYear: 1800
 born: "19 February 1800 at Montreal, Canada"
 birthPlace: "Canada"
-region: "France"
+region: "Argentina"
 feastDay:
   month: 9
   day: 23

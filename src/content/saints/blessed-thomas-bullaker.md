@@ -9,7 +9,7 @@ searchAliases:
 deathYear: 1642
 died: "hanged, drawn, and quartered on 12 October 1642 at Tyburn, London England"
 deathPlace: "drawn, and quartered on 12 October 1642 at Tyburn, London England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 10
   day: 12

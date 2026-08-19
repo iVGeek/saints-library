@@ -8,7 +8,7 @@ searchAliases:
 born: "latter 3rd century Banawän, Egypt"
 died: "beheaded in the early 4th century"
 birthPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 7
   day: 19

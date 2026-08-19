@@ -9,7 +9,7 @@ born: "19 February 1888 in Verona, Italy"
 died: "27 June 1969 in Verona, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 8
   day: 8

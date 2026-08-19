@@ -8,7 +8,7 @@ born: "c.1549 at London, England"
 died: "hanged, drawn, and quartered on 11 January 1584 at Tyburn, London, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 11 January 1584 at Tyburn, London, England"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 1
   day: 11

@@ -9,7 +9,7 @@ born: "18 February 1904 in Pietravairano, Caserta, Italy"
 died: "16 October 1955 in San Marco Argentano, Cosenza, Italy of lung cancer"
 birthPlace: "Caserta, Italy"
 deathPlace: "Cosenza, Italylung cancer"
-region: "Italy"
+region: "France"
 feastDay:
   month: 6
   day: 11

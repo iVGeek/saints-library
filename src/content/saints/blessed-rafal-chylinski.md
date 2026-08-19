@@ -11,7 +11,7 @@ born: "8 January 1694 at Buk, Poznan, Poland as Melchior Chylinski"
 died: "2 December 1741 at Łagiewniki, Łodźkie, Poland"
 birthPlace: "Poznan, Poland as Melchior Chylinski"
 deathPlace: "Łodźkie, Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 12
   day: 2

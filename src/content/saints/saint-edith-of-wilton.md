@@ -12,7 +12,7 @@ searchAliases:
 deathYear: 984
 died: "15 September 984, a date foretold by Saint Dunstan of Canterbury, of natural causes"
 deathPlace: "a date foretold by Saint DunstanCanterbury, of natural causes"
-region: "Spain"
+region: "England"
 feastDay:
   month: 9
   day: 16

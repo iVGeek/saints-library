@@ -12,7 +12,7 @@ born: "c.1906 in Batombé, Edéa, Littoral, Cameroon"
 died: "13 August 1975 in Edéa, Littoral, Cameroon"
 birthPlace: "Edéa, Littoral, Cameroon"
 deathPlace: "Littoral, Cameroon"
-region: "France"
+region: "Africa"
 feastDay:
   month: 8
   day: 14

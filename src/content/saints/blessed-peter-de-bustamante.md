@@ -6,7 +6,7 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-de-Busta
 deathYear: 1350
 died: "1350 at Aghadoa, Ireland"
 deathPlace: "Ireland"
-region: "Spain"
+region: "Ireland"
 feastDay:
   month: 6
   day: 14

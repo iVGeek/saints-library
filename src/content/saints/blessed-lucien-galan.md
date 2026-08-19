@@ -11,7 +11,7 @@ born: "9 December 1921 in Golinhac, Aveyron, France"
 died: "shot on 12 May 1968 on the highway in Houey Makchan, Paksong, Champasak, Laos"
 birthPlace: "Aveyron, France"
 deathPlace: "Paksong, Champasak, Laos"
-region: "France"
+region: "China"
 feastDay:
   month: 5
   day: 12

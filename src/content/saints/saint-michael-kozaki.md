@@ -12,7 +12,7 @@ born: "c.1551 at Ise, Mie, Japan"
 died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan"
 birthPlace: "Mie, Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 6

@@ -13,7 +13,7 @@ born: "1739 in the “Freguezia” of Santo Antonio da Vila de Guarantingueta, B
 died: "23 December 1822 at the Recolhimento da Luz, Sao Paulo, Brazil of natural causes"
 birthPlace: "Brazil"
 deathPlace: "Sao Paulo, Brazilnatural causes"
-region: "Italy"
+region: "Brazil"
 feastDay:
   month: 12
   day: 23

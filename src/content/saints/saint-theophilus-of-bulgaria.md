@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 750
 born: "in Bulgaria"
 died: "c.750 of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 10
   day: 2

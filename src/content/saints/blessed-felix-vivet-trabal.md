@@ -9,7 +9,7 @@ born: "23 January 1911 in San Feliu de Torelló, Barcelona, Spain"
 died: "shot on 25 August 1936 on the side of the road with his father and brother outside Esplugues, Barcelona, Spain"
 birthPlace: "Barcelona, Spain"
 deathPlace: "Barcelona, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 26

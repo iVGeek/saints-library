@@ -5,7 +5,7 @@ summary: "Fourth-century bishop of Ancyra in Galatia, Asia Minor. Martyred in th
 image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Clement-of-Ankyra.jpg"
 deathYear: 303
 died: "303"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 23

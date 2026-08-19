@@ -13,7 +13,7 @@ deathYear: 532
 born: "439 at Motalala, Cappadocia"
 died: "532 of natural causes"
 birthPlace: "Cappadocia"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 12
   day: 5

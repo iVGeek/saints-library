@@ -7,7 +7,7 @@ born: "latter 14th century in Siena, Italy"
 died: "29 January 1415 in Siena, Italy of natural causes"
 birthPlace: "Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 1
   day: 29

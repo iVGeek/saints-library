@@ -6,7 +6,7 @@ image: "https://catholicsaints.info/wp-content/uploads/img-blessed-Lucio-of-Savo
 deathYear: 1470
 died: "beheaded on 5 May 1470 in Constantinople (modern Istanbul, Turkey)"
 deathPlace: "Turkey)"
-region: "Italy"
+region: "France"
 feastDay:
   month: 5
   day: 5

@@ -9,7 +9,7 @@ born: "22 May 1847 in Rosheim, Bas Rhin, diocese of Strasbourg, France"
 died: "19 June 1900 in Wuyi, Hebei, China while praying at the altar"
 birthPlace: "Bas Rhin, dioceseStrasbourg, France"
 deathPlace: "Hebei, China while praying at the altar"
-region: "France"
+region: "China"
 feastDay:
   month: 6
   day: 19

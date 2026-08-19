@@ -11,7 +11,7 @@ born: "1532 in Weelde, Antwerpen, Belgium"
 died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
 birthPlace: "Antwerpen, Belgium"
 deathPlace: "Zuid-Holland, Netherlands"
-region: "England"
+region: "Netherlands"
 feastDay:
   month: 7
   day: 9

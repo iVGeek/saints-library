@@ -10,7 +10,7 @@ born: "3 October 1629 in Jerez de la Frontera, Cádiz, Spain"
 died: "23 December 1698 in Lima, Peru of natural causes"
 birthPlace: "Cádiz, Spain"
 deathPlace: "Perunatural causes"
-region: "France"
+region: "Peru"
 feastDay:
   month: 1
   day: 1

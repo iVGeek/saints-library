@@ -9,7 +9,7 @@ deathYear: 430
 born: "Milan, Italy"
 died: "c.430"
 birthPlace: "Italy"
-region: "Italy"
+region: "France"
 feastDay:
   month: 9
   day: 13

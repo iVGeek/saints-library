@@ -24,7 +24,7 @@ deathYear: 592
 born: "c.530 in northern Ireland"
 died: "25 June 592 in Rosemarkie, Scotland of natural causes"
 deathPlace: "Scotlandnatural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 6
   day: 25

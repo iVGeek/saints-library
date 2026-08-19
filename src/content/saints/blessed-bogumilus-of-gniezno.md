@@ -17,7 +17,7 @@ born: "c.1135 bear Dobrow, Poland"
 died: "c.1182 near Uniedow, Poland of natural causes"
 birthPlace: "Poland"
 deathPlace: "Polandnatural causes"
-region: "France"
+region: "Poland"
 feastDay:
   month: 6
   day: 10

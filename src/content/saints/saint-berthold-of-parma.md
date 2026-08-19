@@ -9,7 +9,7 @@ deathYear: 1101
 born: "Parma, Italy"
 died: "c.1101"
 birthPlace: "Italy"
-region: "Italy"
+region: "England"
 feastDay:
   month: 10
   day: 21

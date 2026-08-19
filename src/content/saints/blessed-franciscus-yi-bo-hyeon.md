@@ -11,7 +11,7 @@ born: "1773 in Deoksan, Chungcheong-do, South Korea"
 died: "beaten to death on 9 January 1800 in Haemi, Chungcheong-do, South Korea"
 birthPlace: "Chungcheong-do, South Korea"
 deathPlace: "Chungcheong-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 1
   day: 9

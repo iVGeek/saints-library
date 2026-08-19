@@ -20,7 +20,7 @@ born: "province of Sudermannland, Sweden"
 died: "1120 on the island of Rogö in Lake Mälaren, Sweden"
 birthPlace: "Sweden"
 deathPlace: "Sweden"
-region: "England"
+region: "Scandinavia"
 feastDay:
   month: 7
   day: 28

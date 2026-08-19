@@ -12,7 +12,7 @@ deathYear: 1227
 born: "c.1175"
 died: "30 September 1227 in Bari, Italy of natural causes"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 9
   day: 30

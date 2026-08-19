@@ -4,7 +4,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/7/74/Cyriacus_vs_Bosch_gi
 honorific: Saint
 summary: "One of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were many converts, the men were attacked in various places around the country. The governor of the region had them all arrested, brought to him, and ordered them to make p"
 born: "Egypt"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 1
   day: 18

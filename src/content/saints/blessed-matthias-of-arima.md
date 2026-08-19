@@ -11,7 +11,7 @@ born: "c.1572 in Kazusagoko, Japan"
 died: "tortured to death in May 1620 in Omura, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 5
   day: 22

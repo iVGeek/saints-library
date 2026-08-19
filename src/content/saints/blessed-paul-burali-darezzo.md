@@ -12,7 +12,7 @@ born: "1511 in Itri, diocese of Gaeta, Italy as Scipione"
 died: "17 June 1578 at Torre del Greco, on the side of Mount Vesuvius, kingdom of Naples, Italy of natural causes"
 birthPlace: "dioceseGaeta, Italy as Scipione"
 deathPlace: "on the sideMount Vesuvius, kingdom of Naples, Italy of natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 17

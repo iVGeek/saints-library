@@ -7,7 +7,7 @@ searchAliases:
   - "Builder Bishop (nickname referring to the number of construction projects)"
 deathYear: 1036
 died: "1036 of natural causes"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 6
   day: 5

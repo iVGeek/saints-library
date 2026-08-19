@@ -3,7 +3,7 @@ name: "Saint Archebran"
 honorific: Saint
 summary: "Lived in Cornwall, England. No other information is available."
 born: "Irish"
-region: "Ireland"
+region: "England"
 feastDay:
   month: 1
   day: 28

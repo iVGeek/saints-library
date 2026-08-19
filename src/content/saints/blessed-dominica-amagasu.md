@@ -8,7 +8,7 @@ born: "c.1606 in Wakamatsu, Yonezawa, Yamagata, Japan"
 died: "12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan"
 birthPlace: "Yonezawa, Yamagata, Japan"
 deathPlace: "Yonezawa, Yamagata, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 1
   day: 12

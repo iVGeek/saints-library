@@ -12,7 +12,7 @@ born: "10 March 1577 in Vitoria, Spain"
 died: "burned alive on 12 September 1622 at Omura, Nagasaki, Japan"
 birthPlace: "Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 12

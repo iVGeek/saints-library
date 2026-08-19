@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 752
 born: "Irish"
 died: "752 of natural causes"
-region: "Ireland"
+region: "Scotland"
 feastDay:
   month: 7
   day: 3

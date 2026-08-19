@@ -12,7 +12,7 @@ born: "c.776 at Mitylene, island of Lesbos, Greece"
 died: "816 in Chersonese (near modern Sevastopol, Ukraine) of natural causes while in exile"
 birthPlace: "islandLesbos, Greece"
 deathPlace: "Ukraine)natural causes while in exile"
-region: "England"
+region: "Greece"
 feastDay:
   month: 4
   day: 7

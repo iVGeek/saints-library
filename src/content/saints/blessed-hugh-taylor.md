@@ -8,7 +8,7 @@ born: "c.1559 at Durham, England"
 died: "hanged, drawn, and quartered on 26 November 1585 at York, Yorkshire, England"
 birthPlace: "England"
 deathPlace: "drawn, and quartered on 26 November 1585 at York, Yorkshire, England"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 11
   day: 26

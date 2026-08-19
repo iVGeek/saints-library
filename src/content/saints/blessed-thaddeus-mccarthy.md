@@ -13,7 +13,7 @@ born: "c.1455 in County Cork, Ireland"
 died: "25 October 1492 in a pilgrim's hostel at Ivrea, Italy of natural causes"
 birthPlace: "Ireland"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 10
   day: 25

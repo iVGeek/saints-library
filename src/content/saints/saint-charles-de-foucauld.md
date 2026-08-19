@@ -13,7 +13,7 @@ born: "15 September 1858 in Strasbourg, France as Charles Eugenie de Foucauld"
 died: "shot in the head on 1 December 1916 at  Tamanrasset, Algeria by a 15 year old Beduoin bandit"
 birthPlace: "France as Charles Eugenie de Foucauld"
 deathPlace: "Algeria by a 15 year old Beduobandit"
-region: "Italy"
+region: "France"
 feastDay:
   month: 12
   day: 1

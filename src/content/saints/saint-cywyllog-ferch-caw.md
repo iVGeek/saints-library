@@ -5,7 +5,7 @@ summary: "Born a princess, the daughter of Saint Caw, King of Arecluta, a distri
 searchAliases:
   - "Cwyllog"
   - "Cywellog"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 1
   day: 7

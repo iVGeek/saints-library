@@ -9,7 +9,7 @@ born: "1565 in Cuellar, Segovia, Spain"
 died: "gutted 13 June 1624 on Puma Island, Ecuador"
 birthPlace: "Segovia, Spain"
 deathPlace: "Ecuador"
-region: "Spain"
+region: "Mexico"
 feastDay:
   month: 6
   day: 13

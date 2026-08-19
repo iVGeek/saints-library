@@ -13,7 +13,7 @@ born: "1 November 1598 in San Stefano Quisquina, Agrigento, Italy"
 died: "17 November 1634 in Nishizaka, Nagasaki, Japan"
 birthPlace: "Agrigento, Italy"
 deathPlace: "Nagasaki, Japan"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 11
   day: 17

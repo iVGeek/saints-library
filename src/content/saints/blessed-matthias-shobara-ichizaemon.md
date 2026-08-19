@@ -8,7 +8,7 @@ born: "c.1587 in Aki (part of modern Hiroshima), Japan"
 died: "17 February 1624 in Hiroshima, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 2
   day: 17

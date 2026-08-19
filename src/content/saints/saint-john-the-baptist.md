@@ -12,7 +12,7 @@ searchAliases:
   - "Juan Bautista"
   - "Yochanan ben Zecharyah"
 died: "beheaded c.30 at Machaerus"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 6
   day: 24

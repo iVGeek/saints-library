@@ -12,7 +12,7 @@ born: "3 September 1680 in Ascó, Tarragona, Spain"
 died: "beheaded on 26 May 1747 in Fuzhou, Fujian, China"
 birthPlace: "Tarragona, Spain"
 deathPlace: "Fujian, China"
-region: "Spain"
+region: "China"
 feastDay:
   month: 5
   day: 26

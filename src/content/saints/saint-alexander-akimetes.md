@@ -7,7 +7,7 @@ searchAliases:
 deathYear: 403
 born: "4th century on one of the Aegean Islands of Greece"
 died: "403 in Gomon of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 2
   day: 23

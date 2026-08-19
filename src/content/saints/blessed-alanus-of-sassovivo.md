@@ -5,7 +5,7 @@ summary: "Benedictine monk in late 13th century Austria. Pilgrim to Rome, Italy 
 deathYear: 1313
 born: "13th century Austria"
 died: "1313 of natural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 7
   day: 18

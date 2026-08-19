@@ -9,7 +9,7 @@ born: "19 April 1866 in Castañedo, Valdés, Asturias, Spain"
 died: "shot by firing squad on 12 August 1936 in Fuencarral, Madrid, Spain"
 birthPlace: "Valdés, Asturias, Spain"
 deathPlace: "Madrid, Spain"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 8
   day: 12

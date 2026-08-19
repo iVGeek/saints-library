@@ -11,7 +11,7 @@ deathYear: 740
 born: "at Northumbria, England"
 died: "c.740"
 birthPlace: "England"
-region: "England"
+region: "Scotland"
 feastDay:
   month: 2
   day: 12

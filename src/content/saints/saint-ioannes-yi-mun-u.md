@@ -13,7 +13,7 @@ born: "1810 in Inchon, Gyeonggi-do, South Korea"
 died: "beheaded on 1 February 1840 in Dangkogae, Seoul, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "Seoul, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 2
   day: 1

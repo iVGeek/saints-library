@@ -5,7 +5,7 @@ summary: "Parish priest. Rector of Saint Ethelburga's, Bishopgate, London, Engla
 deathYear: 1544
 died: "7 March 1544 at Tyburn, London, England"
 deathPlace: "London, England"
-region: "France"
+region: "Ireland"
 feastDay:
   month: 3
   day: 7

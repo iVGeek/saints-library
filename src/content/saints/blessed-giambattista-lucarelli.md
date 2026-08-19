@@ -11,7 +11,7 @@ born: "1540 Montelevecchie, (modern Belvedere Fogliense), Tavullia, Pesaro, Ital
 died: "1604 in a Franciscan convent in Naples, Italy of natural causes"
 birthPlace: "(modern Belvedere Fogliense), Tavullia, Pesaro, Italy"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 10
   day: 7

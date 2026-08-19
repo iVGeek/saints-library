@@ -5,7 +5,7 @@ summary: "Spiritual student of Saint Egbert in Ireland. Spent two years as a mis
 deathYear: 690
 born: "England"
 died: "690 in Ireland"
-region: "Ireland"
+region: "Netherlands"
 feastDay:
   month: 4
   day: 12

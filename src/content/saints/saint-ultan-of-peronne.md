@@ -8,7 +8,7 @@ searchAliases:
   - "Outain…"
 born: "Ireland"
 died: "7th century"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 5
   day: 2

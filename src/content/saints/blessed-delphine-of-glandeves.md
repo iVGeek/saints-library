@@ -13,7 +13,7 @@ born: "c.1282 at Chateau-Puimichel in Languedoc (modern Puy-en-Velay, France)"
 died: "26 November 1360 in Apt, France of natural causes"
 birthPlace: "France)"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 26

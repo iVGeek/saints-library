@@ -14,7 +14,7 @@ born: "27 September 1433 in Kazimierz, Lubelskie, Poland as Louis Soltys"
 died: "3 May 1489 in Kazimierz, Lubelskie, Poland of natural causes"
 birthPlace: "Lubelskie, Poland as Louis Soltys"
 deathPlace: "Lubelskie, Polandnatural causes"
-region: "England"
+region: "Poland"
 feastDay:
   month: 5
   day: 3

@@ -11,7 +11,7 @@ born: "7 April 1811 in Partenen, Vorarlberg, Austria"
 died: "29 November 1884 in Linz, Oberösterreich, Austria of natural causes"
 birthPlace: "Vorarlberg, Austria"
 deathPlace: "Oberösterreich, Austrianatural causes"
-region: "Italy"
+region: "Austria"
 feastDay:
   month: 4
   day: 12

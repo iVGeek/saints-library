@@ -9,7 +9,7 @@ born: "14 December 1908 in Naolinco, Veracruz, Mexico"
 died: "shot 25 July 1931 in his parish church in Puerto de Veracruz, Veracruz, Mexico"
 birthPlace: "Veracruz, Mexico"
 deathPlace: "Veracruz, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 7
   day: 25

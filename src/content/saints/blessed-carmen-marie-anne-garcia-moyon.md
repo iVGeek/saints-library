@@ -9,7 +9,7 @@ born: "13 September 1888 in Nantes, Loire-Atlantique, France"
 died: "burned alive on 30 January 1937 in Torrent, Valencia, Spain"
 birthPlace: "Loire-Atlantique, France"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 1
   day: 30

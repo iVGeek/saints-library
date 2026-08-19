@@ -9,7 +9,7 @@ born: "February 1598 Oñate, Guipúzcoa, Spain"
 died: "29 September 1637 at Nishizaka, Nagasaki, Japan"
 birthPlace: "Guipúzcoa, Spain"
 deathPlace: "Nagasaki, Japan"
-region: "Spain"
+region: "Japan"
 feastDay:
   month: 9
   day: 29

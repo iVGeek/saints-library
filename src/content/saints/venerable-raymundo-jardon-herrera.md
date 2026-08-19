@@ -9,7 +9,7 @@ born: "21 January 1887 in Tenancingo, Estado de México, Mexico"
 died: "6 January 1934 in Monterrey, Nuevo León, Mexico of natural causes"
 birthPlace: "Estado de México, Mexico"
 deathPlace: "Nuevo León, Mexiconatural causes"
-region: "England"
+region: "Mexico"
 feastDay:
   month: 1
   day: 1

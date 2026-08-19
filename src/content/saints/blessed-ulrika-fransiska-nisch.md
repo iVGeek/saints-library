@@ -12,7 +12,7 @@ born: "18 September 1882 in Oberdorg-Mittelbiberach, Germany as Fransiska Detten
 died: "8 May 1913 at the Saint Elizabeth hospital in the House of Hegne, Baden-Baden, Germany of tuberculosis"
 birthPlace: "Germany as Fransiska Dettenrieder, named for a great-grandmother"
 deathPlace: "Baden-Baden, Germanytuberculosis"
-region: "Italy"
+region: "Germany"
 feastDay:
   month: 5
   day: 8

@@ -9,7 +9,7 @@ deathYear: 1571
 born: "1504 in northern England"
 died: "hanged, drawn, and quartered on 1 June 1571 at Tyburn, England"
 deathPlace: "drawn, and quartered on 1 June 1571 at Tyburn, England"
-region: "Spain"
+region: "Belgium"
 feastDay:
   month: 6
   day: 1

@@ -4,7 +4,7 @@ honorific: Saint
 summary: "Patriarch of Alexandria, Egypt in 188; he served for 43 years. Supported the catechetical school of Alexandria, appointing Origen as director of the school in 203; he later exiled Origen for being ordained without permission."
 deathYear: 231
 died: "231 of natural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 10
   day: 9

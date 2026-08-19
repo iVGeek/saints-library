@@ -10,7 +10,7 @@ birthYear: 920
 deathYear: 1003
 born: "c.920 at Trebizond as Abraham"
 died: "c.1003 when the arch of a church under construction fell on him and five of his monks"
-region: "England"
+region: "Greece"
 feastDay:
   month: 7
   day: 5

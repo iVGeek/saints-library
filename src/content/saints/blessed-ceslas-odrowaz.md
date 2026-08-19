@@ -17,7 +17,7 @@ born: "c.1180 at Cracow, Upper Silesia (modern Poland)"
 died: "15 July 1242 at Wroclaw, Poland of natural causes"
 birthPlace: "Upper Silesia (modern Poland)"
 deathPlace: "Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 7
   day: 15

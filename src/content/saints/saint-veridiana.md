@@ -12,7 +12,7 @@ born: "1182 at Castelfiorentino, Florence, Italy"
 died: "1242 at Florence, Italy while at prayer"
 birthPlace: "Florence, Italy"
 deathPlace: "Italy while at prayer"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 2
   day: 1

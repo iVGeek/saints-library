@@ -8,7 +8,7 @@ searchAliases:
   - "Benen of…."
 deathYear: 467
 died: "467 of natural causes"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 11
   day: 9

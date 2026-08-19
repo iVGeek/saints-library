@@ -5,7 +5,7 @@ summary: "While on a journey from Syria to Egypt to learn from the desert monks,
 deathYear: 472
 born: "5th century Syria"
 died: "472 of natural causes"
-region: "France"
+region: "Syria"
 feastDay:
   month: 6
   day: 18

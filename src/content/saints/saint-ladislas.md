@@ -14,7 +14,7 @@ deathYear: 1095
 born: "1040 in Hungary"
 died: "1095 in Neutra, Hungary (in modern Slovakia)"
 deathPlace: "Hungary (modern Slovakia)"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 6
   day: 27

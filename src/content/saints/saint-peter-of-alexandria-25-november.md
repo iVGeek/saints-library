@@ -8,7 +8,7 @@ born: "at Alexandria, Egypt"
 died: "martyred in 311 at Alexandria, Egypt"
 birthPlace: "Egypt"
 deathPlace: "Egypt"
-region: "France"
+region: "Egypt"
 feastDay:
   month: 11
   day: 25

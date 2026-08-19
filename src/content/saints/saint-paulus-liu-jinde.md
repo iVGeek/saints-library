@@ -12,7 +12,7 @@ born: "c.1821 in Lanziqiao, Hengshui, Hebei, China"
 died: "13 July 1900 in Lanziqiao, Hengshui, Hebei, China"
 birthPlace: "Hengshui, Hebei, China"
 deathPlace: "Hengshui, Hebei, China"
-region: "England"
+region: "China"
 feastDay:
   month: 7
   day: 13

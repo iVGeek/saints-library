@@ -9,7 +9,7 @@ born: "28 June 1889 at Manises, Valencia, Spain"
 died: "shot on 14 February 1937 in Manises, Valencia, Spain"
 birthPlace: "Valencia, Spain"
 deathPlace: "Valencia, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 2
   day: 14

@@ -11,7 +11,7 @@ born: "7 April 1909 in Paipa, Boyacá, Colombia"
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "Boyacá, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

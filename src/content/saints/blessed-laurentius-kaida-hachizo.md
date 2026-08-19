@@ -11,7 +11,7 @@ born: "1602 in Nagasaki, Japan"
 died: "beheaded on 28 October 1630 in Omura, Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Nagasaki, Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 28

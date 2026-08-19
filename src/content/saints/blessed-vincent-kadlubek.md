@@ -14,7 +14,7 @@ born: "1160 at Karnow, Duchy of Sandomir, Poland"
 died: "8 March 1223 at Jedrzejow, Poland of natural causes"
 birthPlace: "DuchySandomir, Poland"
 deathPlace: "Polandnatural causes"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 3
   day: 8

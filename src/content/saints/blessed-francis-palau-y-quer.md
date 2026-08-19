@@ -13,7 +13,7 @@ born: "29 December 1811 at Aythona, Lerida, Spain"
 died: "20 March 1872 at Tarragona, Spain of natural causes"
 birthPlace: "Lerida, Spain"
 deathPlace: "Spaof natural causes"
-region: "France"
+region: "Spain"
 feastDay:
   month: 3
   day: 20

@@ -11,7 +11,7 @@ born: "8 February 1802 in Le Bélieu, Doubs, France"
 died: "14 November 1861 in an elephant stable in Bình Ðinh, Vietnam"
 birthPlace: "Doubs, France"
 deathPlace: "Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 14

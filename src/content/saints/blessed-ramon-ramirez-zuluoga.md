@@ -10,7 +10,7 @@ born: "13 February 1909 in Sonsón, Archdiocese of Medellin, Antioquia, Colombia
 died: "9 August 1936 in Barcelona, Spain"
 birthPlace: "ArchdioceseMedellin, Antioquia, Colombia"
 deathPlace: "Spain"
-region: "Spain"
+region: "Colombia"
 feastDay:
   month: 8
   day: 9

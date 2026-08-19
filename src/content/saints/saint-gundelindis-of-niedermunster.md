@@ -10,7 +10,7 @@ searchAliases:
   - "Wandelindis"
 deathYear: 750
 died: "c.750"
-region: "France"
+region: "Germany"
 feastDay:
   month: 3
   day: 28

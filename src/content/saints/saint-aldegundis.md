@@ -24,7 +24,7 @@ born: "c.633 at Hainault, Belgium"
 died: "30 January 684, probably of breast cancer, at Maubeuge Abbey, France"
 birthPlace: "Belgium"
 deathPlace: "probablybreast cancer, at Maubeuge Abbey, France"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 1
   day: 30

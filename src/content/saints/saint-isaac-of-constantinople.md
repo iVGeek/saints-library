@@ -7,7 +7,7 @@ searchAliases:
   - "Isaac of Dalmatia"
 deathYear: 383
 died: "30 May 383 at Constantinople of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 5
   day: 30

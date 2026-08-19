@@ -9,7 +9,7 @@ searchAliases:
   - "Beatrijs…"
 deathYear: 1268
 died: "29 August 1268 at the convent of Our Lady of Nazareth of natural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 29

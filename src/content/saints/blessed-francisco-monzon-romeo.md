@@ -9,7 +9,7 @@ born: "29 March 1912 in Híjar, Teruel, Spain"
 died: "28 August 1936 in Híjar, Teruel, Spain"
 birthPlace: "Teruel, Spain"
 deathPlace: "Teruel, Spain"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 8
   day: 29

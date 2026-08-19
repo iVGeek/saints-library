@@ -4,7 +4,7 @@ honorific: Saint
 summary: "May have been Irish royalty. Hermit at Oostkerk, Flanders, Belgium."
 born: "Eighth century Ireland"
 died: "in Belgium of natural causes"
-region: "Ireland"
+region: "Belgium"
 feastDay:
   month: 7
   day: 3

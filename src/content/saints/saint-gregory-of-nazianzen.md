@@ -12,7 +12,7 @@ deathYear: 390
 born: "330 at Arianzus, Cappadocia, Asia Minor"
 died: "25 January 390 of natural causes"
 birthPlace: "Cappadocia, Asia Minor"
-region: "Italy"
+region: "Turkey"
 feastDay:
   month: 1
   day: 2

@@ -8,7 +8,7 @@ searchAliases:
   - "Daniele"
 deathYear: 565
 died: "c.565 of natural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 9
   day: 11

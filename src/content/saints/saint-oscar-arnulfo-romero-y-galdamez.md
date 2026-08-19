@@ -9,7 +9,7 @@ born: "15 August 1917 in Ciudad Barrios, San Miguel, El Salvador"
 died: "shot by a government-affiliated death squad on the morning of 24 March 1980 in the chapel of La Divina Providencia Hospital in San Salvador, El Salvador while celebrating Mass"
 birthPlace: "San Miguel, El Salvador"
 deathPlace: "El Salvador while celebrating Mass"
-region: "Italy"
+region: "Chile"
 feastDay:
   month: 3
   day: 24

@@ -9,7 +9,7 @@ born: "26 July 1857 in Acri, Cosenza, Italy"
 died: "13 January 1931 in Acri, Cosenza, Italy of bronchitis"
 birthPlace: "Cosenza, Italy"
 deathPlace: "Cosenza, Italybronchitis"
-region: "Italy"
+region: "Argentina"
 feastDay:
   month: 12
   day: 17

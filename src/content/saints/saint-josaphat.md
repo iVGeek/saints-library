@@ -8,7 +8,7 @@ searchAliases:
   - "Iasaph"
   - "Joasaph"
   - "Yudasaf"
-region: "England"
+region: "India"
 feastDay:
   month: 11
   day: 27

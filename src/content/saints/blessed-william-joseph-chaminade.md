@@ -11,7 +11,7 @@ born: "8 April 1761 at Perigeux, France"
 died: "22 January 1850 of natural causes in Bordeaux, France"
 birthPlace: "France"
 deathPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 1
   day: 22

@@ -5,7 +5,7 @@ summary: "Priest in Alexandria, Egypt. When Saint Dionysius of Alexandria was ex
 deathYear: 285
 died: "c.285 in Alexandria, Egypt of natural causes"
 deathPlace: "Egyptnatural causes"
-region: "England"
+region: "Egypt"
 feastDay:
   month: 4
   day: 9

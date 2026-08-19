@@ -13,7 +13,7 @@ searchAliases:
 deathYear: 444
 died: "444 at Tours, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "Italy"
+region: "France"
 feastDay:
   month: 11
   day: 13

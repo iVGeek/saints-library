@@ -9,7 +9,7 @@ born: "21 September 1818 in Bornay, Jura, diocese of St-Claude, France"
 died: "beheaded on 3 November 1860 in Son Tây, Ha Tay, Vietnam"
 birthPlace: "Jura, dioceseSt-Claude, France"
 deathPlace: "Ha Tay, Vietnam"
-region: "France"
+region: "Vietnam"
 feastDay:
   month: 11
   day: 3

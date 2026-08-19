@@ -12,7 +12,7 @@ born: "13 November 1743 in Xàtiva, Valencia, Spain"
 died: "beheaded on 7 November 1773 in Ðong Mo, Ha Tay, Vietnam"
 birthPlace: "Valencia, Spain"
 deathPlace: "Ha Tay, Vietnam"
-region: "Spain"
+region: "China"
 feastDay:
   month: 11
   day: 7

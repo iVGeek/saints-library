@@ -12,7 +12,7 @@ born: "c.1020 at Paderborn, Westphalia, Germany"
 died: "1091 at Gottweig, Austria of natural causes"
 birthPlace: "Westphalia, Germany"
 deathPlace: "Austrianatural causes"
-region: "France"
+region: "Austria"
 feastDay:
   month: 8
   day: 8

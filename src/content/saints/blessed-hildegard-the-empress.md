@@ -12,7 +12,7 @@ deathYear: 783
 born: "c.754 in Swabia (modern Germany)"
 died: "783 at Thionville, France of natural causes"
 deathPlace: "Francenatural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 4
   day: 30

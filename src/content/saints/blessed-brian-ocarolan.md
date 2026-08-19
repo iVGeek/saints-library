@@ -6,7 +6,7 @@ deathYear: 1606
 born: "Irish"
 died: "martyred on 24 March 1606 near Trim, Meath, Ireland"
 deathPlace: "Meath, Ireland"
-region: "Italy"
+region: "Ireland"
 feastDay:
   month: 3
   day: 24

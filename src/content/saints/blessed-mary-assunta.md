@@ -11,7 +11,7 @@ deathYear: 1905
 born: "20 August 1878 as Assunta Maria Liberta"
 died: "7 April 1905 at Tong-Eul-Keou, China of typhus"
 deathPlace: "Chinatyphus"
-region: "Italy"
+region: "China"
 feastDay:
   month: 4
   day: 7

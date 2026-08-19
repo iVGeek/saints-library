@@ -19,7 +19,7 @@ deathYear: 545
 born: "Wales"
 died: "c.545 on the Isle of Bardsey, Wales of natural causes"
 deathPlace: "Walesnatural causes"
-region: "Germany"
+region: "England"
 feastDay:
   month: 11
   day: 14

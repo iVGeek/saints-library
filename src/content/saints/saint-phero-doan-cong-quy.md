@@ -10,7 +10,7 @@ born: "c.1826 in Hung Ðinh, Thuan An, Bình Duong, Vietnam"
 died: "beheaded on 31 July 1859 in Châu Ðoc, An Giang, Vietnam"
 birthPlace: "Thuan An, Bình Duong, Vietnam"
 deathPlace: "An Giang, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 7
   day: 31

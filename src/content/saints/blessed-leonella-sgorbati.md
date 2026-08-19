@@ -11,7 +11,7 @@ born: "9 December 1940 at Gazzola, Piacenza, Italy as Rosa Maria Sgorbati"
 died: "shot just after 12:30pm on 17 September 2006 outside her children's hospital in Mogadishu, Somalia"
 birthPlace: "Piacenza, Italy as Rosa Maria Sgorbati"
 deathPlace: "Somalia"
-region: "Italy"
+region: "Africa"
 feastDay:
   month: 9
   day: 17

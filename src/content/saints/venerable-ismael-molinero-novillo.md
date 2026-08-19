@@ -11,7 +11,7 @@ born: "1 May 1917 in Tomelloso, Spain"
 died: "5 May 1938 in the camp hospital of the San Gregorio prison camp in San Juan de Mozarrifar, Zaragoza, Spain of pneumonia"
 birthPlace: "Spain"
 deathPlace: "Zaragoza, Spaof pneumonia"
-region: "France"
+region: "Spain"
 feastDay:
   month: 6
   day: 11

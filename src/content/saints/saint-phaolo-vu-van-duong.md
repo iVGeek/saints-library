@@ -11,7 +11,7 @@ born: "c.1792 in Vuc Ðuong, Hung Yên, Vietnam"
 died: "beheaded on 3 June 1862 in Nam Ðinh, Vietnam"
 birthPlace: "Hung Yên, Vietnam"
 deathPlace: "Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 6
   day: 3

@@ -13,7 +13,7 @@ born: "17 August 1897 in San Martín, Buenos Aires, Argentina"
 died: "20 May 1932 in Vallenar, Atacama, Argentina of natural causes"
 birthPlace: "Buenos Aires, Argentina"
 deathPlace: "Atacama, Argentinanatural causes"
-region: "Spain"
+region: "Chile"
 feastDay:
   month: 5
   day: 20

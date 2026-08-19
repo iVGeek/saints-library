@@ -10,7 +10,7 @@ deathYear: 1011
 born: "at Schoningen, Germany"
 died: "23 February 1011 of natural causes"
 birthPlace: "Germany"
-region: "Germany"
+region: "Scandinavia"
 feastDay:
   month: 2
   day: 23

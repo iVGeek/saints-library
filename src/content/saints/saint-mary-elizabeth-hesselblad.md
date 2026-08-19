@@ -11,7 +11,7 @@ born: "4 June 1870 at Faglavik, Alvsborg province, Sweden"
 died: "24 April 1957 in Rome, Italy of natural causes"
 birthPlace: "Alvsborg province, Sweden"
 deathPlace: "Italynatural causes"
-region: "Italy"
+region: "Scandinavia"
 feastDay:
   month: 4
   day: 24

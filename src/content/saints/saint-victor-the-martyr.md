@@ -9,7 +9,7 @@ searchAliases:
   - "Victorinus…"
 deathYear: 165
 died: "beheaded c.165 in Syria"
-region: "Italy"
+region: "Syria"
 feastDay:
   month: 5
   day: 14

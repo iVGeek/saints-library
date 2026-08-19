@@ -8,7 +8,7 @@ searchAliases:
 deathYear: 774
 born: "8th century in northern Gaul (in modern France)"
 died: "774 in Villers-Poterie (in modern Belgium) of natural causes"
-region: "France"
+region: "Scotland"
 feastDay:
   month: 5
   day: 13

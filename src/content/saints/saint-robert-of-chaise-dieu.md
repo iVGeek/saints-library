@@ -10,7 +10,7 @@ deathYear: 1067
 born: "11th century at Auvergne, France"
 died: "17 April 1067 of natural causes"
 birthPlace: "France"
-region: "Italy"
+region: "France"
 feastDay:
   month: 4
   day: 17

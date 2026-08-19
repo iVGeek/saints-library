@@ -11,7 +11,7 @@ searchAliases:
   - "Adolana"
 deathYear: 735
 died: "24 December 735 of natural causes"
-region: "France"
+region: "Germany"
 feastDay:
   month: 12
   day: 24

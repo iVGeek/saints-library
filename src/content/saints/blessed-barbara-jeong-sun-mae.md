@@ -9,7 +9,7 @@ born: "1777 in Yeoju, Gyeonggi-do, South Korea"
 died: "3 – 4 July 1801 in Yeoju, Gyeonggi-do, South Korea"
 birthPlace: "Gyeonggi-do, South Korea"
 deathPlace: "Gyeonggi-do, South Korea"
-region: "England"
+region: "Korea"
 feastDay:
   month: 7
   day: 3

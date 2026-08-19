@@ -6,7 +6,7 @@ searchAliases:
   - "Amphion of Cilicia"
   - "Amphion of Epiphania"
 died: "early 4th century of natural causes"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 6
   day: 12

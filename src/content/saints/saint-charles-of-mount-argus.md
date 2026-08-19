@@ -21,7 +21,7 @@ born: "11 December 1821 in Munstergeleen, Limburg, Netherlands as Joannes Andrea
 died: "5 January 1893 at Mount Argus, Ireland from an infected leg wound received in a carriage accident"
 birthPlace: "Limburg, Netherlands as Joannes Andreas Houben"
 deathPlace: "Irelandan infected leg wound received in a carriage accident"
-region: "Italy"
+region: "Belgium"
 feastDay:
   month: 1
   day: 5

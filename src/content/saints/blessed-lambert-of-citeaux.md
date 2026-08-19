@@ -5,7 +5,7 @@ summary: "Eleventh-century Cistercian monk in Morimond Abbey, Parnoy-en-Bassigny
 deathYear: 1163
 died: "1163 in Morimond Abbey, Parnoy-en-Bassigny, France of natural causes"
 deathPlace: "Parnoy-en-Bassigny, Francenatural causes"
-region: "France"
+region: "Belgium"
 feastDay:
   month: 7
   day: 12

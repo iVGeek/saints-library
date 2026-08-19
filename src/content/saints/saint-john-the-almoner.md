@@ -16,7 +16,7 @@ born: "c.550 at Amathus, Cyprus"
 died: "c.616 at Amathus, Cyprus of natural causes"
 birthPlace: "Cyprus"
 deathPlace: "Cyprusnatural causes"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 11
   day: 11

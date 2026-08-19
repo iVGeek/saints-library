@@ -12,7 +12,7 @@ born: "c.1583 in Vintu de Jos, Alba, Hungary (now in Romania)"
 died: "8 September 1619 in Košice, Košický kraj, Hungary (now in Slovakia)"
 birthPlace: "Alba, Hungary (nowRomania)"
 deathPlace: "Košický kraj, Hungary (nowSlovakia)"
-region: "England"
+region: "Hungary"
 feastDay:
   month: 9
   day: 8

@@ -12,7 +12,7 @@ born: "2 August 1858 in Paris, France"
 died: "evening of 8 April,  1893 in Alassio, Savona, Italy of tuberculosis"
 birthPlace: "France"
 deathPlace: "1893Alassio, Savona, Italy of tuberculosis"
-region: "Italy"
+region: "Poland"
 feastDay:
   month: 4
   day: 8

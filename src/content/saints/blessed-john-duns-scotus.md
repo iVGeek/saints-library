@@ -13,7 +13,7 @@ born: "1266 at Duns, Berwick, Scotland"
 died: "8 November 1308 of natural causes at Cologne, North Rhine-Westphalia (in modern Germany)"
 birthPlace: "Berwick, Scotland"
 deathPlace: "North Rhine-Westphalia (modern Germany)"
-region: "France"
+region: "Germany"
 feastDay:
   month: 11
   day: 8

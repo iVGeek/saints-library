@@ -15,7 +15,7 @@ deathYear: 580
 born: "515–520 at Pannonia"
 died: "580 at Braga, Portugal of natural causes"
 deathPlace: "Portugalnatural causes"
-region: "Spain"
+region: "Portugal"
 feastDay:
   month: 3
   day: 20

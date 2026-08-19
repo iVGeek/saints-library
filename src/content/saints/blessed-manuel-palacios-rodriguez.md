@@ -8,7 +8,7 @@ born: "16 August 1877 in Aracena, Sevilla, Spain"
 died: "5 August 1936 in the courtyard of the prison in Cazalla de la Sierra, Sevilla, Spain"
 birthPlace: "Sevilla, Spain"
 deathPlace: "Sevilla, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 5

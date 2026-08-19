@@ -9,7 +9,7 @@ born: "16 May 1902 in Ripalta Guerina, Cremona, Italy"
 died: "shot on 7 February 1953 in Donoku, Taungngu, Bago, Myanmar"
 birthPlace: "Cremona, Italy"
 deathPlace: "Taungngu, Bago, Myanmar"
-region: "Italy"
+region: "Japan"
 feastDay:
   month: 2
   day: 7

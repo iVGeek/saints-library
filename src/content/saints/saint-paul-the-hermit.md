@@ -16,7 +16,7 @@ deathYear: 342
 born: "c.230 at Lower Thebes, Egypt"
 died: "5 January 342 of natural causes"
 birthPlace: "Egypt"
-region: "Italy"
+region: "Egypt"
 feastDay:
   month: 1
   day: 10

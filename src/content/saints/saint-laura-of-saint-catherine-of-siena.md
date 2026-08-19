@@ -12,7 +12,7 @@ born: "26 May 1874 in Jerico, Antioquía, Colombia as Laura Montoya y Upegui"
 died: "21 October 1949 in Medell&iacute;n, Colombia of natural causes"
 birthPlace: "Antioquía, Colombia as Laura Montoya y Upegui"
 deathPlace: "Colombianatural causes"
-region: "England"
+region: "Colombia"
 feastDay:
   month: 10
   day: 21

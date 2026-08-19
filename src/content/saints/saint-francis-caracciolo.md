@@ -12,7 +12,7 @@ born: "13 October 1563 at his family's castle at Villa Santa Maria, Abruzzi, Ita
 died: "4 June 1608 at Agnone, Italy of a fever"
 birthPlace: "Abruzzi, Italy as Ascanio Pisquizio"
 deathPlace: "Italya fever"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 6
   day: 4

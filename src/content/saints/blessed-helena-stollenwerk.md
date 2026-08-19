@@ -14,7 +14,7 @@ born: "28 November 1852 in Rollensbroich, Archdiocese of Cologne, Rhineland Pala
 died: "3 February 1900 in Steyl, Venlo, Limburg, Netherlands of tubercular meningitis"
 birthPlace: "ArchdioceseCologne, Rhineland Palatinate, Germany as Anna Helena Stollenwerk"
 deathPlace: "Venlo, Limburg, Netherlandstubercular meningitis"
-region: "France"
+region: "China"
 feastDay:
   month: 2
   day: 3

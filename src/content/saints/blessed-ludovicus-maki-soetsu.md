@@ -9,7 +9,7 @@ born: "Nagasaki, Japan"
 died: "burned alive on 7 September 1627 in Nagasaki, Japan"
 birthPlace: "Japan"
 deathPlace: "Japan"
-region: "England"
+region: "Japan"
 feastDay:
   month: 9
   day: 7

@@ -9,7 +9,7 @@ born: "9 September 1880 in Borowskie Olki, Podlaskie, Poland"
 died: "shot on 15 July 1943 at Bielsk Podlaski, Podlaskie, occupied Poland"
 birthPlace: "Podlaskie, Poland"
 deathPlace: "Podlaskie, occupied Poland"
-region: "France"
+region: "Poland"
 feastDay:
   month: 7
   day: 15

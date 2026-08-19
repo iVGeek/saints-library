@@ -8,7 +8,7 @@ searchAliases:
   - "Agabos"
 born: "in Antioch"
 died: "in 1st century Antioch"
-region: "France"
+region: "Holy Land"
 feastDay:
   month: 4
   day: 8

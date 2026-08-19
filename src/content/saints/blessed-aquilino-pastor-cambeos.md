@@ -11,7 +11,7 @@ born: "4 January 1911 in Zarza de Granadilla, Cáceres, Spain"
 died: "29 August 1936 in Ubeda, Jaén, Spain"
 birthPlace: "Cáceres, Spain"
 deathPlace: "Jaén, Spain"
-region: "France"
+region: "Spain"
 feastDay:
   month: 8
   day: 29

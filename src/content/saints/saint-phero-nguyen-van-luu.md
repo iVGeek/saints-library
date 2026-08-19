@@ -11,7 +11,7 @@ born: "c.1812 in Gò Vap, Gia Ðinh, Vietnam"
 died: "7 April 1861 in My Tho, Tien Giang, Vietnam"
 birthPlace: "Gia Ðinh, Vietnam"
 deathPlace: "Tien Giang, Vietnam"
-region: "England"
+region: "Vietnam"
 feastDay:
   month: 4
   day: 7

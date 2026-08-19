@@ -10,7 +10,7 @@ born: "2 August 1630 in Ehden, Jabal Lubnan, Lebanon"
 died: "3 May 1704 in Kannoubine (a.k.a. Qannubine), Kesrouan, Jabal Lubnan, Lebanon"
 birthPlace: "Jabal Lubnan, Lebanon"
 deathPlace: "Kesrouan, Jabal Lubnan, Lebanon"
-region: "England"
+region: "Turkey"
 feastDay:
   month: 1
   day: 1

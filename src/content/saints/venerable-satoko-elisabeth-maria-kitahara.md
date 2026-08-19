@@ -12,7 +12,7 @@ born: "22 August 1929 in Tokyo, Japan"
 died: "23 January 1958 in Tokyo, Japan of natural causes"
 birthPlace: "Japan"
 deathPlace: "Japannatural causes"
-region: "England"
+region: "Japan"
 feastDay:
   month: 10
   day: 30

@@ -9,7 +9,7 @@ born: "24 August 1902 in Arandas, Jalisco, Mexico"
 died: "shot by firing squad at 3pm on 9 February 1928 in Arandas, Jalisco, Mexico"
 birthPlace: "Jalisco, Mexico"
 deathPlace: "Jalisco, Mexico"
-region: "France"
+region: "Mexico"
 feastDay:
   month: 2
   day: 9

@@ -9,7 +9,7 @@ searchAliases:
 birthYear: 1100
 born: "c.1100 in Spain"
 died: "late 12th century of natural causes"
-region: "Italy"
+region: "Spain"
 feastDay:
   month: 11
   day: 20

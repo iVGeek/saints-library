@@ -4,11 +4,25 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import SectionHeading from '../../components/SectionHeading.astro';
 import SaintCard from '../../components/SaintCard.astro';
 import { getCollection } from 'astro:content';
+import { MONTHS } from '../../data/calendar';
+import { PATRONAGE_CATEGORIES } from '../../data/patronage';
+import { VOCATIONS, REGIONS, RELIGIOUS_ORDERS, centuryLabel } from '../../data/facets';
 
 const saints = await getCollection('saints');
 const martyrs = saints
   .filter((s) => s.data.martyr)
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const centuriesUsed = Array.from(new Set(martyrs.flatMap((s) => s.data.centuries))).sort((a, b) => a - b);
+const vocationsUsed = Array.from(new Set(martyrs.flatMap((s) => s.data.vocation))).sort();
+const regionsUsed = Array.from(new Set(martyrs.map((s) => s.data.region).filter((x): x is string => Boolean(x)))).sort();
+const ordersUsed = Array.from(new Set(martyrs.map((s) => s.data.religiousOrder).filter((x): x is string => Boolean(x)))).sort();
+const patronagesUsed = Array.from(new Set(martyrs.flatMap((s) => s.data.patronage))).sort();
+
+const vocations = Array.from(new Set([...VOCATIONS, ...vocationsUsed])).sort((a, b) => a.localeCompare(b));
+const regions = Array.from(new Set([...REGIONS, ...regionsUsed])).sort((a, b) => a.localeCompare(b));
+const orders = Array.from(new Set([...RELIGIOUS_ORDERS, ...ordersUsed])).sort((a, b) => a.localeCompare(b));
+const patronageOptions = PATRONAGE_CATEGORIES.filter((c) => patronagesUsed.includes(c.key));
 
 const feastDateOf = (s: (typeof saints)[number]) =>
   `${String(s.data.feastDay.month).padStart(2, '0')}-${String(s.data.feastDay.day).padStart(2, '0')}`;
@@ -28,12 +42,392 @@ const feastDateOf = (s: (typeof saints)[number]) =>
       sub="Those who bore the ultimate witness, laying down their lives for the faith. Their blood became the seed of the Church."
     />
 
-    <div class="mt-8 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
-      {martyrs.map((s) => (
-        <div data-date={feastDateOf(s)}>
-          <SaintCard saint={s} />
+    <div class="mt-8 grid gap-8 lg:grid-cols-[280px_1fr]">
+      <aside aria-label="Filter martyrs" class="relative">
+        <button id="filter-toggle" type="button" class="btn btn-dark w-full lg:hidden" aria-expanded="false">
+          Filters
+          <span id="filter-count" class="hidden rounded-full bg-gold-600 px-2 text-sm"></span>
+        </button>
+
+        <div id="filter-panel" class="hidden mt-4 rounded-lg border border-gold-600/30 bg-ivory/80 p-5 lg:block lg:sticky lg:top-6 lg:mt-0">
+          <div class="flex items-center justify-between">
+            <h2 class="font-display text-lg font-semibold text-navy-900">Filter</h2>
+            <button id="clear-all" type="button" class="font-heading text-sm text-burgundy-700 underline decoration-gold-600 underline-offset-2 hover:text-burgundy-600">
+              Clear all
+            </button>
+          </div>
+          <div class="gold-rule my-4" />
+
+          <details class="group" open>
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Feast month
+            </summary>
+            <div class="mt-3 grid grid-cols-2 gap-1">
+              {MONTHS.map((m, i) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="month" value={String(i + 1)} class="h-4 w-4 accent-[#a87f2e]" />
+                  {m}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Patronage
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {patronageOptions.map((c) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="patronage" value={c.key} class="h-4 w-4 accent-[#a87f2e]" />
+                  {c.label}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Vocation
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {vocations.map((v) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="vocation" value={v} class="h-4 w-4 accent-[#a87f2e]" />
+                  {v}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Region
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {regions.map((r) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="region" value={r} class="h-4 w-4 accent-[#a87f2e]" />
+                  {r}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Century
+            </summary>
+            <div class="mt-3 grid grid-cols-3 gap-1">
+              {centuriesUsed.map((c) => (
+                <label class="flex cursor-pointer items-center gap-1.5 font-body text-ink-700">
+                  <input type="checkbox" data-filter="century" value={String(c)} class="h-4 w-4 accent-[#a87f2e]" />
+                  {centuryLabel(c)}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Religious order
+            </summary>
+            <div class="mt-3 max-h-64 space-y-1 overflow-y-auto pr-2">
+              {orders.map((o) => (
+                <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                  <input type="checkbox" data-filter="order" value={o} class="h-4 w-4 accent-[#a87f2e]" />
+                  {o}
+                </label>
+              ))}
+            </div>
+          </details>
+
+          <details class="group mt-4">
+            <summary class="cursor-pointer list-none font-display text-sm font-semibold uppercase tracking-[0.2em] text-gold-700">
+              Canonization status
+            </summary>
+            <div class="mt-3 space-y-1">
+              <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                <input type="checkbox" data-filter="status" value="Saint" class="h-4 w-4 accent-[#a87f2e]" />
+                Saint
+              </label>
+              <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                <input type="checkbox" data-filter="status" value="Blessed" class="h-4 w-4 accent-[#a87f2e]" />
+                Blessed
+              </label>
+              <label class="flex cursor-pointer items-center gap-2 font-body text-ink-700">
+                <input type="checkbox" data-filter="status" value="Venerable" class="h-4 w-4 accent-[#a87f2e]" />
+                Venerable
+              </label>
+            </div>
+          </details>
         </div>
-      ))}
+      </aside>
+
+      <section aria-label="Results">
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-center">
+          <div class="relative flex-1">
+            <svg viewBox="0 0 24 24" class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gold-600" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" />
+              <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+            </svg>
+            <input
+              id="dir-search"
+              type="search"
+              placeholder="Search by name, patron, or cause…"
+              class="w-full rounded-sm border border-gold-600/40 bg-ivory px-10 py-2.5 font-body text-lg text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none"
+              autocomplete="off"
+            />
+          </div>
+          <label class="flex items-center gap-2 font-body text-ink-600">
+            Sort
+            <select id="dir-sort" class="rounded-sm border border-gold-600/40 bg-ivory px-3 py-2.5 font-body text-ink-800">
+              <option value="name">Name A–Z</option>
+              <option value="feast">Feast day</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="active-filters" class="mt-4 flex flex-wrap items-center gap-2" aria-live="polite"></div>
+
+        <p id="result-count" class="mt-4 font-body text-ink-600" aria-live="polite"></p>
+
+        <div id="saint-grid" class="mt-4 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+          {martyrs.map((s) => (
+            <div
+              class="saint-item"
+              data-month={String(s.data.feastDay.month)}
+              data-patronage={s.data.patronage.join(' ')}
+              data-vocation={s.data.vocation.join(' ')}
+              data-region={(s.data.region ?? '').toLowerCase()}
+              data-century={s.data.centuries.join(' ')}
+              data-order={(s.data.religiousOrder ?? '').toLowerCase()}
+              data-status={s.data.canonizationStatus}
+              data-date={feastDateOf(s)}
+              data-search={[s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? '']
+                .join(' ')
+                .toLowerCase()}
+            >
+              <SaintCard saint={s} />
+            </div>
+          ))}
+        </div>
+        <div id="empty-state" hidden class="mt-10 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
+          <p class="font-heading text-2xl italic text-ink-700">No martyrs match these filters.</p>
+          <p class="mt-2 font-body text-ink-500">
+            Try removing a filter, or search for a need like <em>travelers</em> or <em>lost items</em>.
+          </p>
+          <button id="empty-clear" type="button" class="btn btn-gold mt-5">Clear all filters</button>
+        </div>
+
+        <nav id="pagination" class="mt-8 flex items-center justify-center gap-2" aria-label="Page navigation"></nav>
+      </section>
     </div>
   </div>
 </BaseLayout>
+
+<script is:inline>
+  (function () {
+    var PAGE_SIZE = 50;
+    var grid = document.getElementById('saint-grid');
+    var items = Array.from(grid.querySelectorAll('.saint-item'));
+    var search = document.getElementById('dir-search');
+    var sortEl = document.getElementById('dir-sort');
+    var countEl = document.getElementById('result-count');
+    var activeEl = document.getElementById('active-filters');
+    var emptyState = document.getElementById('empty-state');
+    var emptyClear = document.getElementById('empty-clear');
+    var clearAll = document.getElementById('clear-all');
+    var filterToggle = document.getElementById('filter-toggle');
+    var filterPanel = document.getElementById('filter-panel');
+    var filterCount = document.getElementById('filter-count');
+    var paginationEl = document.getElementById('pagination');
+
+    var filters = {};
+    var currentPage = 1;
+    var visibleItems = [];
+
+    var inputs = Array.from(document.querySelectorAll('input[data-filter]'));
+    inputs.forEach(function (input) {
+      var group = input.dataset.filter;
+      input.addEventListener('change', function () {
+        if (!filters[group]) filters[group] = new Set();
+        var value = input.value;
+        if (input.checked) {
+          filters[group].clear();
+          inputs.forEach(function (other) {
+            if (other !== input && other.dataset.filter === group) other.checked = false;
+          });
+        }
+        if (input.checked) filters[group].add(value);
+        else filters[group].delete(value);
+        if (filters[group].size === 0) delete filters[group];
+        currentPage = 1;
+        applyFilters();
+      });
+    });
+
+    function matches(item) {
+      for (var group in filters) {
+        var attr = item.dataset[group] || '';
+        var list = attr.split(/\s+/).filter(Boolean);
+        var values = filters[group];
+        var hit = false;
+        var arr = Array.from(values);
+        for (var i = 0; i < arr.length; i++) {
+          var v = arr[i];
+          if (group === 'month' || group === 'century') {
+            if (list.indexOf(v) !== -1) { hit = true; break; }
+          } else {
+            var normalized = list.map(function (x) { return x.toLowerCase(); });
+            if (normalized.indexOf(v.toLowerCase()) !== -1) { hit = true; break; }
+          }
+        }
+        if (!hit) return false;
+      }
+      var q = search.value.trim().toLowerCase();
+      if (q) {
+        var hay = (item.dataset.search || '').toLowerCase();
+        if (hay.indexOf(q) === -1) return false;
+      }
+      return true;
+    }
+
+    function applyFilters() {
+      visibleItems = [];
+      items.forEach(function (item) {
+        var show = matches(item);
+        item.hidden = !show;
+        if (show) visibleItems.push(item);
+      });
+
+      var totalPages = Math.max(1, Math.ceil(visibleItems.length / PAGE_SIZE));
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      var start = (currentPage - 1) * PAGE_SIZE;
+      var end = start + PAGE_SIZE;
+
+      items.forEach(function (item) {
+        if (!item.hidden) {
+          var idx = visibleItems.indexOf(item);
+          item.hidden = idx < start || idx >= end;
+        }
+      });
+
+      countEl.textContent = 'Showing ' + (start + 1) + '\u2013' + Math.min(end, visibleItems.length) + ' of ' + visibleItems.length + ' martyrs';
+      emptyState.hidden = visibleItems.length !== 0;
+
+      activeEl.innerHTML = '';
+      var total = 0;
+      for (var g in filters) total += filters[g].size;
+      filterCount.textContent = total > 0 ? String(total) : '';
+      filterCount.classList.toggle('hidden', total === 0);
+
+      for (var group in filters) {
+        filters[group].forEach(function (v) {
+          var chip = document.createElement('button');
+          chip.type = 'button';
+          chip.className = 'chip chip-active';
+          chip.innerHTML = escapeHtml(v) + ' <span aria-hidden="true">\u2715</span>';
+          chip.addEventListener('click', function () {
+            filters[group].delete(v);
+            if (filters[group].size === 0) delete filters[group];
+            inputs.forEach(function (input) {
+              if (input.dataset.filter === group && input.value === v) input.checked = false;
+            });
+            currentPage = 1;
+            applyFilters();
+          });
+          activeEl.appendChild(chip);
+        });
+      }
+
+      renderPagination(totalPages);
+      sortItems();
+    }
+
+    function renderPagination(totalPages) {
+      paginationEl.innerHTML = '';
+      if (totalPages <= 1) return;
+
+      function addBtn(label, page, disabled, active) {
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.textContent = label;
+        btn.className = 'px-3 py-2 font-heading text-sm rounded border transition-colors ' +
+          (active ? 'bg-gold-600 text-ivory border-gold-600' : 'border-gold-600/40 text-ink-700 hover:bg-gold-600/10');
+        btn.disabled = disabled;
+        if (!disabled && !active) {
+          btn.addEventListener('click', function () {
+            currentPage = page;
+            applyFilters();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          });
+        }
+        paginationEl.appendChild(btn);
+      }
+
+      addBtn('\u2190 Prev', currentPage - 1, currentPage === 1, false);
+      var maxVisible = 7;
+      var startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
+      var endPage = Math.min(totalPages, startPage + maxVisible - 1);
+      if (endPage - startPage < maxVisible - 1) startPage = Math.max(1, endPage - maxVisible + 1);
+      if (startPage > 1) {
+        addBtn('1', 1, false, false);
+        if (startPage > 2) { var d = document.createElement('span'); d.textContent = '...'; d.className = 'px-2 text-ink-400'; paginationEl.appendChild(d); }
+      }
+      for (var i = startPage; i <= endPage; i++) addBtn(String(i), i, false, i === currentPage);
+      if (endPage < totalPages) {
+        if (endPage < totalPages - 1) { var d2 = document.createElement('span'); d2.textContent = '...'; d2.className = 'px-2 text-ink-400'; paginationEl.appendChild(d2); }
+        addBtn(String(totalPages), totalPages, false, false);
+      }
+      addBtn('Next \u2192', currentPage + 1, currentPage === totalPages, false);
+    }
+
+    function sortItems() {
+      var mode = sortEl.value;
+      visibleItems.sort(function (a, b) {
+        if (mode === 'feast') return (a.dataset.date || '').localeCompare(b.dataset.date || '');
+        return (a.dataset.search || '').localeCompare(b.dataset.search || '');
+      });
+      var start = (currentPage - 1) * PAGE_SIZE;
+      var end = start + PAGE_SIZE;
+      visibleItems.forEach(function (item, idx) {
+        if (idx >= start && idx < end) grid.appendChild(item);
+      });
+    }
+
+    function escapeHtml(s) {
+      return s.replace(/[&<>"']/g, function (c) {
+        return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c];
+      });
+    }
+
+    function clearAllFilters() {
+      for (var k in filters) delete filters[k];
+      inputs.forEach(function (input) { input.checked = false; });
+      search.value = '';
+      currentPage = 1;
+      applyFilters();
+    }
+
+    search.addEventListener('input', function () {
+      var q = search.value.trim().toLowerCase();
+      if (q) filters['_search'] = new Set([q]);
+      else delete filters['_search'];
+      currentPage = 1;
+      applyFilters();
+    });
+
+    sortEl.addEventListener('change', function () { sortItems(); });
+
+    if (filterToggle) filterToggle.addEventListener('click', function () {
+      var open = filterPanel.classList.toggle('hidden');
+      filterToggle.setAttribute('aria-expanded', String(!open));
+    });
+    if (clearAll) clearAll.addEventListener('click', clearAllFilters);
+    if (emptyClear) emptyClear.addEventListener('click', clearAllFilters);
+
+    applyFilters();
+  })();
+</script>

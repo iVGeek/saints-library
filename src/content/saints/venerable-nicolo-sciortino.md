@@ -16,6 +16,7 @@ region: "Africa"
 feastDay:
   month: 4
   day: 24
+centuries: [18]
 canonizationStatus: Venerable
 vocation:
   - Priest

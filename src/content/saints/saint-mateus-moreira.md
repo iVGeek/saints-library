@@ -10,6 +10,7 @@ region: "Brazil"
 feastDay:
   month: 10
   day: 3
+centuries: [17]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

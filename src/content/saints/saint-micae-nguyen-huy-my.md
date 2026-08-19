@@ -12,6 +12,7 @@ region: "Vietnam"
 feastDay:
   month: 8
   day: 12
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

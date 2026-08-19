@@ -11,6 +11,7 @@ deathPlace: "Hanoi, Vietnam"
 feastDay:
   month: 11
   day: 20
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

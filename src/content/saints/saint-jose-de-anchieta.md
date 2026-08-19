@@ -18,6 +18,7 @@ region: "Brazil"
 feastDay:
   month: 6
   day: 9
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Virgin

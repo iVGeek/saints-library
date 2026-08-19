@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { formatFeast } from '../data/calendar';
+import { centuryLabel } from '../data/facets';
 
 interface Props {
   saint: CollectionEntry<'saints'>;
@@ -16,7 +17,7 @@ if (data.birthPlace) facts.push({ label: 'Birthplace', value: data.birthPlace })
 if (data.deathPlace) facts.push({ label: 'Deathplace', value: data.deathPlace });
 if (data.region) facts.push({ label: 'Region', value: data.region });
 if (data.centuries.length) {
-  const c = data.centuries.map((n) => `${n}th`).join(', ');
+  const c = data.centuries.map((n) => centuryLabel(n)).join(', ');
   facts.push({ label: 'Century', value: c });
 }
 facts.push({ label: 'Feast Day', value: formatFeast(data.feastDay) });

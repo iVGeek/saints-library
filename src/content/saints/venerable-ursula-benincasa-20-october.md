@@ -15,6 +15,7 @@ region: "Italy"
 feastDay:
   month: 2
   day: 2
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -11,6 +11,7 @@ region: "Brazil"
 feastDay:
   month: 3
   day: 7
+centuries: [18, 19]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Dom_Ant%C3%B4nio_Ferreira_Vi%C3%A7oso.jpg/960px-Dom_Ant%C3%B4nio_Ferreira_Vi%C3%A7oso.jpg"
 vocation:

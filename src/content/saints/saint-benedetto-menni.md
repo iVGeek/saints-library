@@ -20,6 +20,7 @@ region: "Portugal"
 feastDay:
   month: 4
   day: 24
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Priest

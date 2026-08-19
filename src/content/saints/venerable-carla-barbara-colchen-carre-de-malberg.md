@@ -13,6 +13,7 @@ region: "France"
 feastDay:
   month: 5
   day: 2
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Salesian"

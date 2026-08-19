@@ -13,6 +13,7 @@ region: "England"
 feastDay:
   month: 7
   day: 22
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Religious

@@ -14,6 +14,7 @@ region: "Africa"
 feastDay:
   month: 5
   day: 27
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

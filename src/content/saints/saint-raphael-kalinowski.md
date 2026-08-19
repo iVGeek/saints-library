@@ -19,6 +19,7 @@ region: "Poland"
 feastDay:
   month: 11
   day: 15
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Priest

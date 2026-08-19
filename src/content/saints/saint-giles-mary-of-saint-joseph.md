@@ -22,6 +22,7 @@ region: "France"
 feastDay:
   month: 2
   day: 7
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Virgin

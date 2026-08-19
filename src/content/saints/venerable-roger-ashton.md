@@ -11,6 +11,7 @@ region: "Spain"
 feastDay:
   month: 1
   day: 29
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Soldier

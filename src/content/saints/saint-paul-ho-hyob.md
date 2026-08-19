@@ -17,6 +17,7 @@ region: "Korea"
 feastDay:
   month: 1
   day: 30
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Soldier

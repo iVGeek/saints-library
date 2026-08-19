@@ -13,6 +13,7 @@ region: "Belgium"
 feastDay:
   month: 3
   day: 10
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -15,6 +15,7 @@ region: "Vietnam"
 feastDay:
   month: 9
   day: 17
+centuries: [18]
 canonizationStatus: Venerable
 vocation:
   - Priest

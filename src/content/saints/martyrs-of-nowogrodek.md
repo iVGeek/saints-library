@@ -10,6 +10,7 @@ region: "Poland"
 feastDay:
   month: 8
   day: 1
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

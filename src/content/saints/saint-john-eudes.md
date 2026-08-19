@@ -16,6 +16,7 @@ region: "France"
 feastDay:
   month: 8
   day: 19
+centuries: [17]
 canonizationStatus: Venerable
 vocation:
   - Missionary

@@ -15,6 +15,7 @@ region: "Korea"
 feastDay:
   month: 3
   day: 7
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Bishop

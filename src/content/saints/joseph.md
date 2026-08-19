@@ -80,6 +80,16 @@ prayers:
       work conscientiously, in the spirit of repentance and of love, and to see in our work the
       cooperation with Jesus and Mary which you knew so well in Nazareth. Make our work a
       prayer, our homes a church, and our families a foretaste of heaven. Amen.
+  - name: "Novena to Saint Joseph"
+    kind: "Novena — nine-day prayer for work, families, and the dying"
+    text: >-
+      O glorious Saint Joseph, faithful guardian of Jesus and chaste spouse of Mary, you were chosen
+      by the Eternal Father to be the foster father of His only Son. I beseech you, by the love
+      which you did bear to Jesus and Mary, to help me in my present need. O Saint Joseph, model of
+      all who work, obtain for me the grace to work conscientiously, in the spirit of repentance
+      and of love, and to see in my work the cooperation with Jesus and Mary which you knew so well
+      in Nazareth. O Saint Joseph, I place my petition in your powerful hands. Intercede for me
+      before the throne of God, that I may receive the favor I earnestly seek. Amen.
 relatedSaints:
   - name: Mary Magdalene
     slug: mary-magdalene

@@ -17,6 +17,7 @@ region: "Italy"
 feastDay:
   month: 1
   day: 1
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Salesian"

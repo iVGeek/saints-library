@@ -17,6 +17,7 @@ region: "Korea"
 feastDay:
   month: 5
   day: 26
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

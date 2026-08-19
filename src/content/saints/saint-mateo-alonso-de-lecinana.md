@@ -18,6 +18,7 @@ region: "Philippines"
 feastDay:
   month: 1
   day: 22
+centuries: [18]
 canonizationStatus: Venerable
 vocation:
   - Priest

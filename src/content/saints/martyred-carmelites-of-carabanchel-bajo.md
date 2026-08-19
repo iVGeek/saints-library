@@ -9,6 +9,7 @@ region: "Spain"
 feastDay:
   month: 8
   day: 18
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Carmelite"

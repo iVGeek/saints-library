@@ -16,6 +16,7 @@ region: "England"
 feastDay:
   month: 8
   day: 1
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Priest

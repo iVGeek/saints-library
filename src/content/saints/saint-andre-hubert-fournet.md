@@ -16,6 +16,7 @@ region: "France"
 feastDay:
   month: 5
   day: 13
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Confessor

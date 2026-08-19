@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import PrayerCards from '../../components/PrayerCards.astro';
+import { getCollection } from 'astro:content';
+import { slug } from '../../utils/slugs';
+
+const saints = await getCollection('saints');
+
+interface NovenaEntry {
+  name: string;
+  slug: string;
+  prayers: { name: string; kind?: string; text: string; source?: string }[];
+  honorific: string;
+  patronage: string[];
+  region: string;
+}
+
+const novenaEntries: NovenaEntry[] = [];
+
+for (const s of saints) {
+  const novenaPrayers = s.data.prayers.filter((p) => /novena/i.test(p.name) || /novena/i.test(p.kind ?? ''));
+  if (novenaPrayers.length > 0) {
+    novenaEntries.push({
+      name: s.data.name,
+      slug: slug(s.id),
+      prayers: novenaPrayers,
+      honorific: s.data.honorific,
+      patronage: s.data.patronage,
+      region: s.data.region,
+    });
+  }
+}
+
+novenaEntries.sort((a, b) => a.name.localeCompare(b.name));
+
+const totalNovenas = novenaEntries.length;
+---
+
+<BaseLayout
+  title="Novenas"
+  description="Nine-day novenas to the saints — prayers of urgent petition, healing, hope, and intercession in times of need."
+  canonicalPath="/prayers/novenas"
+  bodyClass="parchment-bg"
+>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Prayers', href: '/prayers' }, { label: 'Novenas' }]} />
+    <SectionHeading
+      title="Novenas to the Saints"
+      label="Nine days of prayer"
+      sub={`Search for a novena by saint name — e.g. "St. Expeditus" or "St. Rita" — and find the traditional nine-day prayer for your intention.`}
+    />
+
+    <div class="relative mt-8 max-w-xl">
+      <svg viewBox="0 0 24 24" class="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gold-600" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" />
+        <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+      </svg>
+      <input
+        id="novena-search"
+        type="search"
+        placeholder={`Search ${totalNovenas} novenas by saint name or patronage…`}
+        class="w-full rounded-sm border border-gold-600/40 bg-ivory px-10 py-2.5 font-body text-lg text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none"
+        autofocus
+      />
+    </div>
+
+    <p class="mt-3 font-heading text-sm text-ink-500">{totalNovenas} novenas available</p>
+
+    <div class="mt-10 space-y-14">
+      {novenaEntries.map((entry) => (
+        <section
+          class="reveal"
+          data-novena-group
+          data-search={`${entry.name} ${entry.honorific} ${entry.patronage.join(' ')} ${entry.region} ${entry.prayers.map((p) => p.name).join(' ')} ${entry.prayers.map((p) => p.text).join(' ')}`.toLowerCase()}
+        >
+          <div class="flex flex-wrap items-baseline justify-between gap-2 border-b-2 border-gold-600/40 pb-3">
+            <div class="flex items-baseline gap-3">
+              <h2 class="font-display text-2xl font-semibold text-navy-900">
+                {entry.name}
+              </h2>
+              <span class="label !text-[11px]">{entry.honorific}</span>
+            </div>
+            <a href={`/saints/${entry.slug}#prayers`} class="font-heading text-gold-700 underline decoration-gold-600/50 underline-offset-4 hover:text-burgundy-700">
+              Full profile →
+            </a>
+          </div>
+          <div class="mt-6">
+            <PrayerCards prayers={entry.prayers} />
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <div id="novena-empty" hidden class="mt-10 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
+      <p class="font-heading text-2xl italic text-ink-700">No novenas found for that search.</p>
+      <p class="mt-2 font-body text-ink-500">Try searching a saint's name or a patronage.</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  const input = document.getElementById('novena-search') as HTMLInputElement;
+  const groups = Array.from(document.querySelectorAll<HTMLElement>('[data-novena-group]'));
+  const empty = document.getElementById('novena-empty')!;
+
+  input.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    let any = false;
+    groups.forEach((g) => {
+      const hit = !q || (g.dataset.search ?? '').includes(q);
+      g.hidden = !hit;
+      if (hit) any = true;
+    });
+    empty.hidden = any;
+  });
+</script>

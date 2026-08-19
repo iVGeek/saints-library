@@ -12,6 +12,7 @@ region: "Poland"
 feastDay:
   month: 4
   day: 5
+centuries: [20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Jan_Pietraszko_c.1946.jpg"
 vocation:

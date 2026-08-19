@@ -10,6 +10,7 @@ region: "Japan"
 feastDay:
   month: 9
   day: 24
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Priest

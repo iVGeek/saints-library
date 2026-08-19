@@ -17,6 +17,7 @@ region: "Argentina"
 feastDay:
   month: 7
   day: 16
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

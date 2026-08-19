@@ -81,6 +81,16 @@ prayers:
       Obtain for us courage to hear His voice in our own hearts, fidelity to our convictions,
       and trust in God when we are mocked or condemned. As you were brave in the face of your
       enemies, make us brave in the face of our fears. Amen.
+  - name: "Novena to Saint Joan of Arc"
+    kind: "Novena — nine-day prayer for courage and conviction"
+    text: >-
+      O Saint Joan of Arc, humble peasant girl whom God chose to lead the armies of France,
+      intercede for me before the throne of God. You who heard the voices of Saints Michael,
+      Catherine, and Margaret with unwavering faith, help me to hear and follow God's call in my
+      own life. You who showed extraordinary courage in the face of impossible odds, grant me the
+      strength to face my own battles with faith and determination. O Saint Joan, patron of
+      soldiers and of France, pray for me that I may have the courage to do God's will in all
+      things. Amen.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

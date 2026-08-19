@@ -14,6 +14,7 @@ region: "India"
 feastDay:
   month: 1
   day: 15
+centuries: [19, 20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Mary_Jane_Wilson.jpg"
 vocation:

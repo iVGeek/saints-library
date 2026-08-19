@@ -13,6 +13,7 @@ region: "Philippines"
 feastDay:
   month: 12
   day: 14
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -13,6 +13,7 @@ region: "France"
 feastDay:
   month: 7
   day: 10
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

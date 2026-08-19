@@ -15,6 +15,7 @@ region: "Spain"
 feastDay:
   month: 8
   day: 9
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation: []
 patronage:

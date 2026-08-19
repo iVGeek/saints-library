@@ -14,6 +14,7 @@ region: "Mexico"
 feastDay:
   month: 5
   day: 10
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Missionary

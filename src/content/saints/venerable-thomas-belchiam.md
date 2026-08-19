@@ -7,6 +7,7 @@ died: "starved to death on 3 August 1537 in prison"
 feastDay:
   month: 1
   day: 1
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Monk

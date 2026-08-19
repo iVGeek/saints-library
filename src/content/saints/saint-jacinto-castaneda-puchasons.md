@@ -16,6 +16,7 @@ region: "China"
 feastDay:
   month: 11
   day: 7
+centuries: [18]
 canonizationStatus: Venerable
 vocation:
   - Priest

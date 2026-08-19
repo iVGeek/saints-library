@@ -15,6 +15,7 @@ region: "Brazil"
 feastDay:
   month: 2
   day: 2
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Capuchin"

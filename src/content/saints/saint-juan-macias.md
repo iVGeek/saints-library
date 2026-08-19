@@ -21,6 +21,7 @@ region: "Peru"
 feastDay:
   month: 9
   day: 16
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

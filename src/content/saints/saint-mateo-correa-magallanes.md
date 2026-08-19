@@ -12,6 +12,7 @@ region: "Mexico"
 feastDay:
   month: 2
   day: 6
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -16,6 +16,7 @@ region: "Colombia"
 feastDay:
   month: 10
   day: 21
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Religious

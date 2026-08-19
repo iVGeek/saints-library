@@ -15,6 +15,7 @@ region: "Korea"
 feastDay:
   month: 7
   day: 20
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Monk

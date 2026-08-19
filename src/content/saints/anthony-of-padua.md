@@ -84,6 +84,15 @@ prayers:
       only this earthly thing, but also the peace of heart that comes from trusting in God's
       providence. Through your intercession, may I recover what I seek, and may I seek above all
       the treasures of heaven. Amen.
+  - name: "Novena to Saint Anthony"
+    kind: "Novena — nine-day prayer for lost things and learning"
+    text: >-
+      O glorious Saint Anthony, wonder worker and friend of all who invoke you, I come to seek your
+      powerful intercession in my need. As the Christ Child rested in your arms, so I place my
+      petition in your hands. You who found what was lost — lost articles, lost souls, lost hope —
+      help me to find what I seek. May God, through your intercession, grant me the grace I so
+      earnestly seek. Blessed Anthony, ark of wisdom and patron of the poor, I trust in your help
+      now and always. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

@@ -9,16 +9,14 @@ deathYear: 1700
 born: "at Ur, Chaldea as Abram"
 died: "c.1700 BC of natural causes"
 birthPlace: "Chaldea as Abram"
-region: "Italy"
+region: "Holy Land"
 feastDay:
   month: 10
   day: 9
+centuries: [21]
 canonizationStatus: Saint
 vocation:
-  - Priest
-  - Monk
-  - Religious
-religiousOrder: "Jesuit"
+  - Lay
 martyr: false
 ---
 

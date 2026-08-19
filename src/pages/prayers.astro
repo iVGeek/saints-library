@@ -38,7 +38,14 @@ const totalPrayers = withPrayers.reduce((n, s) => n + s.data.prayers.length, 0);
       />
     </div>
 
-    <div class="mt-10 space-y-14">
+    <div class="mt-6 flex flex-wrap items-center gap-3">
+      <a href="/prayers/novenas" class="btn btn-dark">
+        Browse Novenas
+      </a>
+      <p class="font-body text-ink-500">— search all novenas by saint name or patronage</p>
+    </div>
+
+    <div class="mt-8 space-y-14">
       {withPrayers.map((s) => (
         <section class="reveal" data-prayer-group data-search={`${s.data.name} ${s.data.prayers.map((p) => p.name).join(' ')} ${s.data.prayers.map((p) => p.text).join(' ')}`.toLowerCase()}>
           <div class="flex flex-wrap items-baseline justify-between gap-2 border-b-2 border-gold-600/40 pb-3">

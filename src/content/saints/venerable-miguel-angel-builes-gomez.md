@@ -13,6 +13,7 @@ region: "Colombia"
 feastDay:
   month: 11
   day: 29
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -16,6 +16,7 @@ region: "England"
 feastDay:
   month: 5
   day: 25
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

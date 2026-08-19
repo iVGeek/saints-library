@@ -16,6 +16,7 @@ region: "Lebanon"
 feastDay:
   month: 12
   day: 14
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Priest

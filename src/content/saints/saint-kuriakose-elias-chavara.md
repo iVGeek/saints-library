@@ -17,6 +17,7 @@ region: "England"
 feastDay:
   month: 1
   day: 3
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Virgin

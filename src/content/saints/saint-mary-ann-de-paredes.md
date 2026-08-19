@@ -20,6 +20,7 @@ region: "Ecuador"
 feastDay:
   month: 5
   day: 26
+centuries: [17]
 canonizationStatus: Venerable
 vocation:
   - Confessor

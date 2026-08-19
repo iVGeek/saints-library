@@ -12,6 +12,7 @@ region: "China"
 feastDay:
   month: 7
   day: 9
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Monk

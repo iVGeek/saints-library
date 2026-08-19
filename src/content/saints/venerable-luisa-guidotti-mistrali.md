@@ -13,6 +13,7 @@ region: "Africa"
 feastDay:
   month: 8
   day: 10
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Missionary

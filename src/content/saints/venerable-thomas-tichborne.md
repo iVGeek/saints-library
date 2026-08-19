@@ -12,6 +12,7 @@ region: "France"
 feastDay:
   month: 12
   day: 1
+centuries: [16, 17]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Venerable-nicholas-and-thomas-tichborne.png"
 vocation:

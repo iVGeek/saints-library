@@ -16,6 +16,7 @@ region: "Spain"
 feastDay:
   month: 3
   day: 25
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Virgin

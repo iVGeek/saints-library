@@ -13,6 +13,7 @@ region: "Germany"
 feastDay:
   month: 10
   day: 5
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Priest

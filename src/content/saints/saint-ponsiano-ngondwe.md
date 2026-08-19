@@ -14,6 +14,7 @@ region: "Africa"
 feastDay:
   month: 5
   day: 26
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Soldier

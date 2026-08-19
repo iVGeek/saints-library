@@ -21,6 +21,7 @@ region: "Spain"
 feastDay:
   month: 4
   day: 22
+centuries: [17, 18]
 canonizationStatus: Venerable
 vocation:
   - Priest

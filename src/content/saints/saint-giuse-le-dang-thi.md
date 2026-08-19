@@ -14,6 +14,7 @@ region: "England"
 feastDay:
   month: 10
   day: 24
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Soldier

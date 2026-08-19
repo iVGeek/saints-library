@@ -34,6 +34,11 @@ patronage:
   - "Cartigliano, Italy"
   - "Saint Petersburg, Florida, diocese of"
 martyr: true
+prayers:
+  - name: "Novena to Saint Jude"
+    kind: "Novena — nine-day prayer for desperate causes"
+    text: >-
+      Most holy Apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally as the patron of hope. Please intercede on my behalf. Make use of that particular privilege given to you to bring hope, comfort, and help where they are needed most. Come to my assistance in this great need that I may receive the consolation and help of heaven as I work with my challenges. I praise God with you and all the saints forever. I promise, blessed Saint Jude, to be ever mindful of this great favor, to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen.
 ---
 
 Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ's body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relative of Jesus Christ, and reported to look a lot like him. May have been a fisherman. Apostle.

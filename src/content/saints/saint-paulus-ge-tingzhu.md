@@ -16,6 +16,7 @@ region: "China"
 feastDay:
   month: 8
   day: 8
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

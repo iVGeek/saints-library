@@ -12,6 +12,7 @@ region: "France"
 feastDay:
   month: 12
   day: 10
+centuries: [16]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Saint-polydore-plasden-and-companions.png"
 vocation:

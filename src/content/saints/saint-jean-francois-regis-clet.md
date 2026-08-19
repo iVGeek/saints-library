@@ -13,6 +13,7 @@ region: "China"
 feastDay:
   month: 2
   day: 18
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Missionary

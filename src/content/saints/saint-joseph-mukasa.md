@@ -20,6 +20,7 @@ region: "Africa"
 feastDay:
   month: 11
   day: 15
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Bishop

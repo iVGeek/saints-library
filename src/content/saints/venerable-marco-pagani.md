@@ -16,6 +16,7 @@ region: "Italy"
 feastDay:
   month: 12
   day: 20
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Priest

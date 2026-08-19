@@ -17,6 +17,7 @@ region: "France"
 feastDay:
   month: 8
   day: 2
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Deacon

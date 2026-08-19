@@ -13,6 +13,7 @@ region: "Ireland"
 feastDay:
   month: 1
   day: 1
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Monk

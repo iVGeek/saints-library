@@ -27,6 +27,7 @@ region: "Peru"
 feastDay:
   month: 9
   day: 17
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Priest

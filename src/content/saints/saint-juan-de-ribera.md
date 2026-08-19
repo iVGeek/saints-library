@@ -16,6 +16,7 @@ region: "Spain"
 feastDay:
   month: 1
   day: 6
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -14,6 +14,7 @@ region: "Vietnam"
 feastDay:
   month: 11
   day: 28
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Soldier

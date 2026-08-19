@@ -18,6 +18,7 @@ region: "France"
 feastDay:
   month: 8
   day: 13
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 patronage:

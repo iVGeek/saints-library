@@ -13,6 +13,7 @@ region: "Hungary"
 feastDay:
   month: 7
   day: 31
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Jesuit"

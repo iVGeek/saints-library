@@ -17,6 +17,7 @@ region: "Hungary"
 feastDay:
   month: 6
   day: 12
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

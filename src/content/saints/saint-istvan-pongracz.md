@@ -16,6 +16,7 @@ region: "Hungary"
 feastDay:
   month: 9
   day: 8
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Priest

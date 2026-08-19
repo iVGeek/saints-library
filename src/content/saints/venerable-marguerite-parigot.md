@@ -18,6 +18,7 @@ region: "France"
 feastDay:
   month: 3
   day: 24
+centuries: [17]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Carmelite"

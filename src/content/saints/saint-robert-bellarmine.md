@@ -17,6 +17,7 @@ region: "Belgium"
 feastDay:
   month: 9
   day: 17
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Confessor

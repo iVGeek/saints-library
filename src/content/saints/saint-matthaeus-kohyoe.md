@@ -17,6 +17,7 @@ region: "England"
 feastDay:
   month: 10
   day: 19
+centuries: [17]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

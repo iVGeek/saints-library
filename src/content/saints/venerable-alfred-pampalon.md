@@ -15,6 +15,7 @@ region: "Canada"
 feastDay:
   month: 10
   day: 4
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Virgin

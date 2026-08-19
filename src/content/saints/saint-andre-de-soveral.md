@@ -13,6 +13,7 @@ region: "Brazil"
 feastDay:
   month: 7
   day: 16
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Priest

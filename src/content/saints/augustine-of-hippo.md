@@ -31,7 +31,6 @@ vocation:
   - Preacher
 patronage:
   - students
-  - students
   - brewers
   - printers
   - conversion

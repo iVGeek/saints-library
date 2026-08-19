@@ -13,6 +13,7 @@ region: "Peru"
 feastDay:
   month: 12
   day: 8
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Religious

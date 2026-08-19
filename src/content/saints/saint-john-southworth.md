@@ -13,6 +13,7 @@ region: "France"
 feastDay:
   month: 6
   day: 28
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -17,6 +17,7 @@ region: "Ireland"
 feastDay:
   month: 12
   day: 24
+centuries: [18]
 canonizationStatus: Venerable
 vocation:
   - Virgin

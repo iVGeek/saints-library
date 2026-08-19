@@ -12,6 +12,7 @@ region: "France"
 feastDay:
   month: 1
   day: 1
+centuries: [8]
 canonizationStatus: Venerable
 vocation:
   - Bishop

@@ -13,6 +13,7 @@ region: "Ecuador"
 feastDay:
   month: 2
   day: 9
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation: []
 martyr: false

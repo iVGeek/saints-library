@@ -16,6 +16,7 @@ region: "Brazil"
 feastDay:
   month: 10
   day: 30
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

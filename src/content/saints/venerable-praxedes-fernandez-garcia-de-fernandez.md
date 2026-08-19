@@ -9,6 +9,7 @@ region: "Spain"
 feastDay:
   month: 1
   day: 1
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

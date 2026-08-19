@@ -13,6 +13,7 @@ region: "Portugal"
 feastDay:
   month: 2
   day: 20
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Franciscan"

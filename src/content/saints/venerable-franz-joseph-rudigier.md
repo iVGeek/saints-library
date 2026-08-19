@@ -15,6 +15,7 @@ region: "Austria"
 feastDay:
   month: 4
   day: 12
+centuries: [19]
 canonizationStatus: Venerable
 vocation:
   - Bishop

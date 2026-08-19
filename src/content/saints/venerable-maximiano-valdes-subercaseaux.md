@@ -14,6 +14,7 @@ region: "Chile"
 feastDay:
   month: 3
   day: 17
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

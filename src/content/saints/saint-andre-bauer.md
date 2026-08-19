@@ -9,6 +9,7 @@ region: "Italy"
 feastDay:
   month: 7
   day: 9
+centuries: [19]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Andre_Bauer_%2854670856441%29_%28cropped%29.jpg/960px-Andre_Bauer_%2854670856441%29_%28cropped%29.jpg"
 vocation:

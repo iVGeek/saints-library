@@ -13,6 +13,7 @@ import { getCollection, render } from 'astro:content';
 import { formatFeast, nextFeastDate, daysUntil, monthName } from '../../data/calendar';
 import { imageSrc } from '../../utils/images';
 import { slug } from '../../utils/slugs';
+import { centuryLabel } from '../../data/facets';
 import { SITE } from '../../data/site';
 
 export async function getStaticPaths() {
@@ -225,7 +226,7 @@ const personJsonLd = {
 
         <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
           <p class="label mb-3">Century{data.centuries.length > 1 ? 's' : ''}</p>
-          <p class="font-heading text-xl text-navy-900">{data.centuries.map((c) => `${c}th`).join(', ')}</p>
+          <p class="font-heading text-xl text-navy-900">{data.centuries.map((c) => centuryLabel(c)).join(', ')}</p>
         </div>
       </aside>
     </div>

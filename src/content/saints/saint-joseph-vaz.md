@@ -16,6 +16,7 @@ region: "India"
 feastDay:
   month: 1
   day: 16
+centuries: [17, 18]
 canonizationStatus: Venerable
 vocation:
   - Bishop

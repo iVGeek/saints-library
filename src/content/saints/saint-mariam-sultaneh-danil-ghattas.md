@@ -16,6 +16,7 @@ region: "Holy Land"
 feastDay:
   month: 3
   day: 25
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Virgin

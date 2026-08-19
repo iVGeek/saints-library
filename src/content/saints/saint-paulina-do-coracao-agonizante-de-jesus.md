@@ -17,6 +17,7 @@ region: "Africa"
 feastDay:
   month: 7
   day: 9
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -11,6 +11,7 @@ deathPlace: "Vietnam"
 feastDay:
   month: 6
   day: 12
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation: []
 martyr: true

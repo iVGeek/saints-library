@@ -12,6 +12,7 @@ region: "Italy"
 feastDay:
   month: 1
   day: 1
+centuries: [20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Ven_Fernanda_Riva.png"
 vocation:

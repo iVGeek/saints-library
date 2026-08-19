@@ -15,6 +15,7 @@ region: "Colombia"
 feastDay:
   month: 3
   day: 11
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Virgin

@@ -12,6 +12,7 @@ region: "Italy"
 feastDay:
   month: 1
   day: 1
+centuries: [17]
 canonizationStatus: Venerable
 vocation:
   - Confessor

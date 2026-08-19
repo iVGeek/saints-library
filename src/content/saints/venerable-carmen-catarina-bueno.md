@@ -17,6 +17,7 @@ region: "Brazil"
 feastDay:
   month: 4
   day: 21
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Carmelite"

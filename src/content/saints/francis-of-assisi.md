@@ -15,7 +15,7 @@ born: c. 1181
 died: 3 October 1226
 birthPlace: Assisi, Italy
 deathPlace: Assisi, Italy
-region: "Peru"
+region: "Italy"
 centuries: [12, 13]
 feastDay:
   month: 10
@@ -31,7 +31,6 @@ vocation:
   - Mystic
 religiousOrder: Franciscan
 patronage:
-  - animals
   - animals
   - merchants
   - poor
@@ -103,6 +102,15 @@ prayers:
       useful, humble, precious, and chaste... Praised be You, my Lord, through our Sister Mother
       Earth, who sustains and governs us, and who produces various fruits with colored flowers and
       herbs. Praise and bless my Lord, and give thanks and serve Him with great humility. Amen.
+  - name: "Novena to Saint Francis"
+    kind: "Novena — nine-day prayer for peace and poverty of spirit"
+    text: >-
+      O glorious Saint Francis, you who embraced Lady Poverty and became the mirror of Christ's own
+      poverty and humility, intercede for me before the throne of God. I ask you to pray for me in
+      my need. You who received the sacred stigmata, the wounds of Christ in your own body, help me
+      to unite my own sufferings with those of our Lord. O Holy Father Francis, friend of the poor,
+      friend of all creation, obtain for me from God the grace I so earnestly seek. May I, like you,
+      find true joy in serving God and neighbor. Amen.
 relatedSaints:
   - name: Clare of Assisi
     slug: clare-of-assisi

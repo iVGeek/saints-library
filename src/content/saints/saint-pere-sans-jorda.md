@@ -16,6 +16,7 @@ region: "China"
 feastDay:
   month: 5
   day: 26
+centuries: [17, 18]
 canonizationStatus: Venerable
 vocation:
   - Bishop

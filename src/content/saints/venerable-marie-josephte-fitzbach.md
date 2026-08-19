@@ -15,6 +15,7 @@ region: "Canada"
 feastDay:
   month: 4
   day: 17
+centuries: [19]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Marie-Josephte_Fitzbach.jpg"
 vocation:

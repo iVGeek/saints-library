@@ -16,6 +16,7 @@ region: "Italy"
 feastDay:
   month: 12
   day: 6
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

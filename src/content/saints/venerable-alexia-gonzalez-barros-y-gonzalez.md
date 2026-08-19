@@ -13,6 +13,7 @@ region: "Italy"
 feastDay:
   month: 5
   day: 8
+centuries: [20]
 canonizationStatus: Venerable
 vocation: []
 martyr: false

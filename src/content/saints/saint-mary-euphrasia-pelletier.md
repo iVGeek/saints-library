@@ -20,6 +20,7 @@ region: "Chile"
 feastDay:
   month: 4
   day: 24
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Virgin

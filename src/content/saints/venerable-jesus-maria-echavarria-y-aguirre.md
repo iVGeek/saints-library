@@ -12,6 +12,7 @@ region: "Mexico"
 feastDay:
   month: 10
   day: 18
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

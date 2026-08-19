@@ -12,6 +12,7 @@ region: "Germany"
 feastDay:
   month: 1
   day: 1
+centuries: [19, 20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Emilie_Engel_%28ca_1915%29.jpg"
 vocation:

@@ -16,6 +16,7 @@ region: "Vietnam"
 feastDay:
   month: 9
   day: 5
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

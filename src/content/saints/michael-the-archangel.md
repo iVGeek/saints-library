@@ -72,6 +72,16 @@ prayers:
       and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the
       heavenly host, by the power of God, thrust into hell Satan and all the evil spirits who
       prowl about the world seeking the ruin of souls. Amen.
+  - name: "Novena to Saint Michael the Archangel"
+    kind: "Novena — nine-day prayer for protection"
+    text: >-
+      O glorious Prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls,
+      vanquisher of rebel spirits, servant in the house of the Divine King and our admirable
+      conductor, you who shine with excellence and superhuman virtue, deliver us from all evil, who
+      turn to you with confidence. O powerful Prince Saint Michael, I come before you to ask for your
+      intercession in this great need. Through your divine power, scatter the forces of evil and
+      protect me from their snares. By the authority God has given you, help me in this urgent
+      matter and bring it to a speedy and favorable resolution. Amen.
 relatedSaints:
   - name: Joseph
     slug: joseph

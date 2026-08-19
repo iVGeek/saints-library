@@ -14,6 +14,7 @@ region: "Brazil"
 feastDay:
   month: 1
   day: 1
+centuries: [20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Maria_Teresa_de_Jesus_Eucar%C3%ADstico.jpg/960px-Maria_Teresa_de_Jesus_Eucar%C3%ADstico.jpg"
 vocation:

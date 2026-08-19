@@ -15,6 +15,7 @@ region: "Portugal"
 feastDay:
   month: 10
   day: 31
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Religious

@@ -18,6 +18,7 @@ region: "India"
 feastDay:
   month: 2
   day: 3
+centuries: [18, 19]
 canonizationStatus: Venerable
 vocation:
   - Priest

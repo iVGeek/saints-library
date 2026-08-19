@@ -11,6 +11,7 @@ region: "Ireland"
 feastDay:
   month: 1
   day: 1
+centuries: [16]
 canonizationStatus: Venerable
 vocation:
   - Priest

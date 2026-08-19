@@ -14,6 +14,7 @@ region: "France"
 feastDay:
   month: 7
   day: 24
+centuries: [16]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saint-john-boste.png"
 vocation:

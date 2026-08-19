@@ -15,6 +15,7 @@ region: "Canada"
 feastDay:
   month: 7
   day: 17
+centuries: [19, 20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

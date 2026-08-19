@@ -15,6 +15,7 @@ region: "Spain"
 feastDay:
   month: 12
   day: 25
+centuries: [11, 12]
 canonizationStatus: Venerable
 vocation:
   - Confessor

@@ -12,6 +12,7 @@ region: "Japan"
 feastDay:
   month: 11
   day: 11
+centuries: [17]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Dominican"

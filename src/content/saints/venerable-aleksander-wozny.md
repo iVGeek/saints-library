@@ -13,6 +13,7 @@ region: "Poland"
 feastDay:
   month: 6
   day: 10
+centuries: [20]
 canonizationStatus: Venerable
 vocation:
   - Bishop

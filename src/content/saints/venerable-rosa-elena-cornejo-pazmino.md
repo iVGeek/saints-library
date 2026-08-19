@@ -13,6 +13,7 @@ deathPlace: "Ecuador"
 feastDay:
   month: 1
   day: 1
+centuries: [19, 20]
 canonizationStatus: Venerable
 image: "https://upload.wikimedia.org/wikipedia/commons/9/97/Maria_Francisca_de_las_Llages_Cornejo.jpg"
 vocation:

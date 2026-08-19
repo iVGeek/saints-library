@@ -16,6 +16,7 @@ region: "Italy"
 feastDay:
   month: 11
   day: 26
+centuries: [16, 17]
 canonizationStatus: Venerable
 vocation: []
 religiousOrder: "Franciscan"

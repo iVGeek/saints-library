@@ -12,6 +12,7 @@ deathPlace: "Argentinanatural causes"
 feastDay:
   month: 11
   day: 21
+centuries: [19]
 canonizationStatus: Venerable
 vocation: []
 martyr: false

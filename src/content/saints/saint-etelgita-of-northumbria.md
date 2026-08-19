@@ -10,8 +10,8 @@ died: "relics enshrined in the cathedral in Durham, England by the 9th century"
 deathPlace: "England by the 9th century"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 8
 canonizationStatus: Saint
 vocation:
   - Religious

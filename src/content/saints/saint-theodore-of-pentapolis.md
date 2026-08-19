@@ -7,8 +7,8 @@ deathYear: 310
 died: "c.310"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 26
 canonizationStatus: Saint
 vocation:
   - Martyr

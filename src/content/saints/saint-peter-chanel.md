@@ -14,8 +14,8 @@ birthPlace: "Ain, France as Peter Louis Mary Chanel"
 deathPlace: "Uvea, Fortuna Island, New Hebrides"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 28
 canonizationStatus: Venerable
 vocation:
   - Martyr

@@ -19,7 +19,7 @@ deathPlace: "Ireland"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 1
+  day: 29
 canonizationStatus: Saint
 vocation:
   - Martyr

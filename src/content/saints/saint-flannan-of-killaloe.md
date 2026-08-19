@@ -7,8 +7,8 @@ born: "7th century in Thomond, Ireland"
 birthPlace: "Ireland"
 region: "Ireland"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 18
 canonizationStatus: Saint
 vocation:
   - Bishop

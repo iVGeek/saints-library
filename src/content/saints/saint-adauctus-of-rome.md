@@ -11,8 +11,8 @@ died: "beheaded c.303 in Rome, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 30
 canonizationStatus: Saint
 vocation:
   - Martyr

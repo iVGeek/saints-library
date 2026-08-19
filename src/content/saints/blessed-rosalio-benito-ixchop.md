@@ -12,8 +12,8 @@ birthPlace: "Chinique, Guatemala"
 deathPlace: "Chinique, Quiché, Guatemala"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 22
 canonizationStatus: Blessed
 vocation:
   - Martyr

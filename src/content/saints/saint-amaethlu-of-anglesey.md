@@ -10,8 +10,8 @@ searchAliases:
   - "Maethlin…"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 26
 canonizationStatus: Saint
 vocation:
   - Monk

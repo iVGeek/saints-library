@@ -9,8 +9,8 @@ died: "tortured to death in 304 in prison at Albitina, North Africa"
 deathPlace: "North Africa"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 12
 canonizationStatus: Saint
 vocation:
   - Martyr

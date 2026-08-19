@@ -13,7 +13,7 @@ deathPlace: "Italya fever"
 region: "Italy"
 feastDay:
   month: 1
-  day: 1
+  day: 22
 canonizationStatus: Saint
 vocation:
   - Saint

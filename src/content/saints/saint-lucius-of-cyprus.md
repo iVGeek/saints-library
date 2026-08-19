@@ -7,8 +7,8 @@ deathYear: 311
 died: "311 on Cyprus"
 region: "Africa"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 20
 canonizationStatus: Saint
 vocation:
   - Martyr

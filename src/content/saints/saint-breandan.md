@@ -11,7 +11,7 @@ born: "5th century Irish"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 1
+  day: 11
 canonizationStatus: Saint
 vocation:
   - Monk

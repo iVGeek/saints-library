@@ -9,8 +9,8 @@ deathYear: 115
 died: "115"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 24
 canonizationStatus: Saint
 vocation:
   - Martyr

@@ -16,8 +16,8 @@ birthPlace: "North Brabant, Netherlands as Humberto van Lieshout"
 deathPlace: "Braziltyphoid fever"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 30
 canonizationStatus: Blessed
 vocation:
   - Bishop

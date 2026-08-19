@@ -9,8 +9,8 @@ died: "drowned in 283 at Rome, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 3
 canonizationStatus: Saint
 vocation:
   - Martyr

@@ -14,8 +14,8 @@ deathYear: 474
 died: "c.474 of natural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 3
 canonizationStatus: Saint
 vocation:
   - Bishop

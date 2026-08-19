@@ -8,7 +8,7 @@ died: "c.702 of natural causes"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 1
+  day: 23
 canonizationStatus: Saint
 vocation:
   - Bishop

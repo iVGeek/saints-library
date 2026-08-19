@@ -7,8 +7,8 @@ died: "unknown location in Africa, date unknown"
 deathPlace: "date unknown"
 region: "Africa"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 26
 canonizationStatus: Saint
 vocation:
   - Martyr

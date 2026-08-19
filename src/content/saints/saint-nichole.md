@@ -5,7 +5,7 @@ title: "Monk, Religious"
 summary: "Abbess of the convent at Almenêches Abbey, France."
 region: "France"
 feastDay:
-  month: 1
+  month: 11
   day: 1
 canonizationStatus: Saint
 vocation:

@@ -14,8 +14,8 @@ birthPlace: "Huesca, Spain"
 deathPlace: "Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 8
 canonizationStatus: Blessed
 vocation:
   - Martyr

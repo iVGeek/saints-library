@@ -12,8 +12,8 @@ birthPlace: "Kosovo, Serbia"
 deathPlace: "Albania as a resultthe injuries sustained during torture"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 19
 canonizationStatus: Blessed
 vocation:
   - Martyr

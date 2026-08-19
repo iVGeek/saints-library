@@ -7,8 +7,8 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Salome-of-Nieder
 died: "9th century of natural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 29
 canonizationStatus: Saint
 vocation:
   - Monk

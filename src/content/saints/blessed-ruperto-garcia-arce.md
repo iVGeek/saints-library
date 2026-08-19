@@ -12,8 +12,8 @@ birthPlace: "Burgos, Spain"
 deathPlace: "Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 10
 canonizationStatus: Blessed
 vocation:
   - Martyr

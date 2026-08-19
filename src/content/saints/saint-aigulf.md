@@ -11,8 +11,8 @@ birthPlace: "France"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 13
 canonizationStatus: Saint
 vocation:
   - Martyr

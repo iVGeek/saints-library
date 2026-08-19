@@ -10,7 +10,7 @@ born: "c.1000 BC"
 died: "c.950 BC"
 region: "Spain"
 feastDay:
-  month: 1
+  month: 9
   day: 1
 canonizationStatus: Saint
 vocation:

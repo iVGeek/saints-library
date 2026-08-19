@@ -15,8 +15,8 @@ deathYear: 711
 died: "c.711 of natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 20
 canonizationStatus: Saint
 vocation:
   - Bishop

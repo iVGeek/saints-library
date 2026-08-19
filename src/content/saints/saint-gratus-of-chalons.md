@@ -7,8 +7,8 @@ deathYear: 652
 died: "c.652 of natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 8
 canonizationStatus: Saint
 vocation:
   - Bishop

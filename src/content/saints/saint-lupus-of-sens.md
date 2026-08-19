@@ -17,7 +17,7 @@ birthPlace: "Gaul (modern France) as Wolf"
 deathPlace: "Yonne, Francenatural causes"
 region: "France"
 feastDay:
-  month: 1
+  month: 9
   day: 1
 canonizationStatus: Saint
 vocation:

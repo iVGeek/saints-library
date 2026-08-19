@@ -9,8 +9,8 @@ deathYear: 680
 died: "c.680 of natural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 4
 canonizationStatus: Saint
 vocation:
   - Monk

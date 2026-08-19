@@ -7,8 +7,8 @@ born: "Greek"
 died: "thrown to wild animals"
 region: "Greece"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 10
 canonizationStatus: Saint
 vocation:
   - Martyr

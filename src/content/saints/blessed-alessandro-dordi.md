@@ -12,8 +12,8 @@ birthPlace: "Bergamo, Italy"
 deathPlace: "Ancash, Peru"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 25
 canonizationStatus: Blessed
 vocation:
   - Martyr

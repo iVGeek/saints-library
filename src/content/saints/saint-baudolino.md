@@ -10,8 +10,8 @@ born: "c.700"
 died: "c.740 of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 10
 canonizationStatus: Saint
 vocation:
   - Bishop

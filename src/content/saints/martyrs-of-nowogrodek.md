@@ -9,7 +9,7 @@ died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about thre
 deathPlace: "Hrodzyenskaya voblasts’,Nazi occupied Belarus"
 region: "Italy"
 feastDay:
-  month: 1
+  month: 8
   day: 1
 canonizationStatus: Venerable
 vocation: []

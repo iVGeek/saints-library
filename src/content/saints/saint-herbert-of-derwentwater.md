@@ -7,8 +7,8 @@ deathYear: 687
 died: "20 March 687 of natural causes"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 20
 canonizationStatus: Saint
 vocation:
   - Bishop

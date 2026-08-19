@@ -10,8 +10,8 @@ died: "beheaded in 165 at Rome, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 23
 canonizationStatus: Saint
 vocation: []
 religiousOrder: "Capuchin"

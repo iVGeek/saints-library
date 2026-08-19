@@ -12,8 +12,8 @@ died: "6th century at a monastery at Carhaix, Brittany (in modern France)"
 deathPlace: "Brittany (modern France)"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 5
 canonizationStatus: Saint
 vocation:
   - Martyr

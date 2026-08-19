@@ -12,8 +12,8 @@ died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan
 deathPlace: "Nagasaki, Japan"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 6
 canonizationStatus: Saint
 vocation:
   - Martyr

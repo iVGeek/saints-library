@@ -8,8 +8,8 @@ died: "beheaded on 10 September 1622 at Nagasaki, Japan"
 deathPlace: "Japan"
 region: "Japan"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 10
 canonizationStatus: Blessed
 vocation:
   - Martyr

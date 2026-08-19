@@ -11,8 +11,8 @@ deathYear: 640
 died: "640 of natural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 27
 canonizationStatus: Saint
 vocation:
   - Bishop

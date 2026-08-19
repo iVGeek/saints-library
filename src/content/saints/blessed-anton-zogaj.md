@@ -12,8 +12,8 @@ birthPlace: "Mirditë, Albania"
 deathPlace: "Albania"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 31
 canonizationStatus: Blessed
 vocation:
   - Martyr

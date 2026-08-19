@@ -8,8 +8,8 @@ died: "c.304 in Lydda, Palestine"
 deathPlace: "Palestine"
 region: "Holy Land"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 24
 canonizationStatus: Saint
 vocation:
   - Martyr

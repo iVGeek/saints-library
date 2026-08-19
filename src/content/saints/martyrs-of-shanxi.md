@@ -8,8 +8,8 @@ died: "beheaded on 9 July 1900 at Taiyuanfu, China"
 deathPlace: "China"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 8
 canonizationStatus: Saint
 vocation: []
 religiousOrder: "Franciscan"

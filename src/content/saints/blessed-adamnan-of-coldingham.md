@@ -11,7 +11,7 @@ died: "c.680 of natural causes"
 region: "Ireland"
 feastDay:
   month: 1
-  day: 1
+  day: 31
 canonizationStatus: Blessed
 vocation:
   - Priest

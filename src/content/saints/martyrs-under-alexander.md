@@ -7,7 +7,7 @@ deathYear: 219
 died: "219"
 region: "Italy"
 feastDay:
-  month: 1
+  month: 3
   day: 1
 canonizationStatus: Saint
 vocation:

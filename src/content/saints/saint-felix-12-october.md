@@ -7,8 +7,8 @@ deathYear: 484
 died: "484"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 12
 canonizationStatus: Saint
 vocation:
   - Martyr

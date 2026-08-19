@@ -11,8 +11,8 @@ died: "beheaded in 854 at Cordoba, Spain"
 deathPlace: "Spain"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 11
 canonizationStatus: Saint
 vocation:
   - Martyr

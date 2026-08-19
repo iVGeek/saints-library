@@ -14,7 +14,7 @@ born: "at Heliopolis in Coele-Syria"
 died: "beheaded in the 2nd century"
 region: "England"
 feastDay:
-  month: 1
+  month: 3
   day: 1
 canonizationStatus: Saint
 vocation:

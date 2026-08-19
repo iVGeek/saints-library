@@ -11,8 +11,8 @@ birthPlace: "Dordogne, France"
 deathPlace: "Paris, France"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 9
+  day: 2
 canonizationStatus: Blessed
 vocation:
   - Martyr

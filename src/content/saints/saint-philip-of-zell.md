@@ -7,8 +7,8 @@ deathYear: 770
 died: "c.770 of natural causes"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 3
 canonizationStatus: Saint
 vocation:
   - Monk

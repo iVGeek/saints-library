@@ -12,8 +12,8 @@ birthPlace: "Seine-Maritime, France"
 deathPlace: "Rochefort, Charente-Maritime, France"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 15
 canonizationStatus: Blessed
 vocation:
   - Martyr

@@ -7,8 +7,8 @@ image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Brychan-of-Brych
 searchAliases: []
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 4
+  day: 6
 canonizationStatus: Saint
 vocation: []
 martyr: false

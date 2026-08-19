@@ -10,8 +10,8 @@ died: "nailed to a wall in mock crucifixion c.286 in Thebais, Egypt; it took him
 deathPlace: "Egypt; it took him nine days to dieshock, blood loss, and dehydration"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 5
+  day: 3
 canonizationStatus: Saint
 vocation:
   - Martyr

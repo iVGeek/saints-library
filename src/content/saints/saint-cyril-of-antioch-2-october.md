@@ -7,8 +7,8 @@ died: "in Antioch, Syria"
 deathPlace: "Syria"
 region: "Syria"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 2
 canonizationStatus: Saint
 vocation:
   - Martyr

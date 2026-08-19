@@ -18,8 +18,8 @@ died: "c.556 to c.575 (sources vary) of natural causes"
 birthPlace: "Brittany, France or unknown locationWales (sources vary)"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 17
 canonizationStatus: Saint
 vocation:
   - Priest

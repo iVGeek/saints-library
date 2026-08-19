@@ -17,8 +17,8 @@ died: "c.618 of natural causes"
 birthPlace: "Ireland"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 23
 canonizationStatus: Saint
 vocation:
   - Bishop

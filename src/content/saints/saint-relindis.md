@@ -6,8 +6,8 @@ summary: "Daughter of Count Adelard. Sister of Saint Herlindis. Friend of Saint 
 deathYear: 750
 died: "c.750 of natural causes"
 feastDay:
-  month: 1
-  day: 1
+  month: 10
+  day: 12
 canonizationStatus: Saint
 vocation:
   - Priest

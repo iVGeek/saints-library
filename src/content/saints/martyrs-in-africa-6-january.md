@@ -8,7 +8,7 @@ died: "burned to death c.210"
 region: "Africa"
 feastDay:
   month: 1
-  day: 1
+  day: 6
 canonizationStatus: Saint
 vocation:
   - Martyr

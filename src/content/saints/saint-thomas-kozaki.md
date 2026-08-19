@@ -15,8 +15,8 @@ birthPlace: "Japan"
 deathPlace: "Japan"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 2
+  day: 6
 canonizationStatus: Saint
 vocation:
   - Martyr

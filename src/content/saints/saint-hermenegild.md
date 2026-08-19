@@ -8,8 +8,8 @@ born: "Spanish"
 died: "953"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 5
 canonizationStatus: Saint
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg/960px-Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg"
 vocation:

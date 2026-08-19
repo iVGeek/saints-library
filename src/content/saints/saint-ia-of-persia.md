@@ -9,8 +9,8 @@ died: "tortured, flogged and beheaded in 360 in Persia"
 deathPlace: "flogged and beheaded360 in Persia"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 4
 canonizationStatus: Saint
 vocation:
   - Martyr

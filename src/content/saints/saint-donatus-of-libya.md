@@ -4,8 +4,8 @@ honorific: Saint
 title: "Bishop, Monk"
 summary: "Bishop in Libya."
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 4
 canonizationStatus: Saint
 vocation:
   - Bishop

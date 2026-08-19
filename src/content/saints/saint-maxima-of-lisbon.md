@@ -7,7 +7,7 @@ deathYear: 304
 died: "c.304"
 region: "England"
 feastDay:
-  month: 1
+  month: 10
   day: 1
 canonizationStatus: Saint
 vocation:

@@ -10,8 +10,8 @@ died: "crucified c.300 at Laodicea, Syria"
 deathPlace: "Syria"
 region: "England"
 feastDay:
-  month: 1
-  day: 1
+  month: 3
+  day: 11
 canonizationStatus: Saint
 vocation:
   - Martyr

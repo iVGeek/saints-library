@@ -21,8 +21,8 @@ died: "Anglesy Island, Wales of natural causes"
 deathPlace: "Walesnatural causes"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 11
+  day: 29
 canonizationStatus: Saint
 vocation:
   - Priest

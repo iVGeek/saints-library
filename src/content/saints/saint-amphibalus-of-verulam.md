@@ -8,8 +8,8 @@ deathYear: 304
 died: "c.304"
 region: "France"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 24
 canonizationStatus: Saint
 vocation:
   - Martyr

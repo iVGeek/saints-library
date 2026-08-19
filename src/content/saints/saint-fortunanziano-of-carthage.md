@@ -8,8 +8,8 @@ searchAliases:
 died: "relics at the basilica of Fausta at Carthage"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 15
 canonizationStatus: Saint
 vocation:
   - Martyr

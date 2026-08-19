@@ -11,7 +11,7 @@ deathPlace: "Spain"
 region: "France"
 feastDay:
   month: 1
-  day: 1
+  day: 22
 canonizationStatus: Saint
 vocation:
   - Martyr

@@ -10,8 +10,8 @@ searchAliases:
   - "Brochan"
 region: "Ireland"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 8
 canonizationStatus: Saint
 vocation:
   - Bishop

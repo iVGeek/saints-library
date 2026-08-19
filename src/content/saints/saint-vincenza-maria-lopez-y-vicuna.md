@@ -14,8 +14,8 @@ birthPlace: "Navarre, Spain"
 deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 26
 canonizationStatus: Venerable
 vocation:
   - Pope

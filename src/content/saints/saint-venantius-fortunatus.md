@@ -14,8 +14,8 @@ birthPlace: "Italy"
 deathPlace: "Gaul (modern France) of natural causes"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 14
 canonizationStatus: Saint
 vocation:
   - Martyr

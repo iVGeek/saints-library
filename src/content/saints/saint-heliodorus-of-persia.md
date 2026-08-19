@@ -7,8 +7,8 @@ deathYear: 362
 born: "Persia"
 died: "362"
 feastDay:
-  month: 1
-  day: 1
+  month: 8
+  day: 20
 canonizationStatus: Saint
 vocation:
   - Martyr

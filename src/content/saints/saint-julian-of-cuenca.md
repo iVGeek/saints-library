@@ -16,7 +16,7 @@ deathPlace: "Spaof natural causes"
 region: "Spain"
 feastDay:
   month: 1
-  day: 1
+  day: 28
 canonizationStatus: Saint
 vocation:
   - Bishop

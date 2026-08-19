@@ -7,8 +7,8 @@ deathYear: 297
 died: "crucified in 297 at Samosata (an area of modern Turkey)"
 region: "Turkey"
 feastDay:
-  month: 1
-  day: 1
+  month: 12
+  day: 9
 canonizationStatus: Saint
 vocation:
   - Martyr

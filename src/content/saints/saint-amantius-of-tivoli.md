@@ -8,8 +8,8 @@ died: "clubbed to death c.120 at Tivoli, Italy"
 deathPlace: "Italy"
 region: "Italy"
 feastDay:
-  month: 1
-  day: 1
+  month: 6
+  day: 10
 canonizationStatus: Saint
 vocation:
   - Martyr

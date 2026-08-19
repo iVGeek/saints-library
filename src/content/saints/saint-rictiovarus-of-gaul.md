@@ -8,8 +8,8 @@ deathYear: 301
 died: "c.301"
 region: "Germany"
 feastDay:
-  month: 1
-  day: 1
+  month: 7
+  day: 6
 canonizationStatus: Saint
 vocation: []
 martyr: true

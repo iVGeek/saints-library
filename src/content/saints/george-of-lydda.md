@@ -61,6 +61,19 @@ prayers:
       your faith, be our defender in the battles of daily life. Guard our soldiers and all who
       serve the common good; protect our families and our nations; and obtain for us the courage
       to resist whatever would enslave the soul. Amen.
+  - name: "Novena to Saint George"
+    kind: "Novena — nine-day prayer for courage and victory"
+    text: >-
+      O glorious Saint George, soldier of Christ and dragon-slayer, I turn to you in this
+      novena seeking your powerful intercession. You who faced the forces of evil without
+      flinching and overcame them by the sign of the cross, obtain for me the courage to
+      confront every trial and temptation in my life. Defend me against the dragon of sin, of
+      doubt, and of fear that seeks to devour my soul. Protect soldiers and all who serve the
+      common good, guard our families and our nations, and obtain for us the victory of good
+      over evil. You who chose death rather than deny your Lord, strengthen my faith so that I
+      may never be ashamed of the Gospel. O Saint George, whose banner bears the red cross of
+      Christ's sacrifice, may I carry that cross with honor through every battle of life and
+      arrive at the heavenly kingdom where Christ reigns triumphant. Amen.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

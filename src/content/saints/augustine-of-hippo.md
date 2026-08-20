@@ -76,6 +76,18 @@ prayers:
       Late have I loved You, O Beauty ever ancient, ever new — late have I loved You! You were
       within me, and I was outside, and there I sought You. Draw us to Yourself, that we may
       love You; and in loving You, find our rest at last. Amen.
+  - name: "Novena to Saint Augustine of Hippo"
+    kind: "Novena — nine-day prayer for conversion and wisdom"
+    text: >-
+      O Saint Augustine, Doctor of Grace and patron of seekers, I turn to you in this novena
+      with a restless heart that longs for God. You who searched the world for happiness and
+      found it only in the arms of Christ, obtain for me the grace to recognize that true
+      peace is found in God alone. You who wrote that our hearts are restless until they rest
+      in Him, calm my anxieties and draw me closer to the fountain of living water. Intercede
+      for all who are wandering far from the faith, especially those I love. Grant me the
+      wisdom to study Your Word, the humility to confess my sins, and the courage to begin
+      again whenever I fall. O Augustine, whose mother Monica's tears brought you home, let
+      those tears water the soil of my own conversion and that of my family. Amen.
 relatedSaints:
   - name: Patrick of Ireland
     slug: patrick-of-ireland

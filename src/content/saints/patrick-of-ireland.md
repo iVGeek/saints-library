@@ -81,6 +81,19 @@ prayers:
       the moon, the splendor of fire, the flashing of lightning, the swiftness of wind, the
       depth of the sea, the stability of the earth, and the firmness of rock. I arise through
       the strength of heaven. Amen.
+  - name: "Novena to Saint Patrick"
+    kind: "Novena — nine-day prayer for mission and faith"
+    text: >-
+      O glorious Saint Patrick, apostle of Ireland and faithful bishop, I turn to you in this
+      novena with a heart longing for God. You who were once a slave and became a spiritual
+      father to a nation, obtain for me the grace to see God's hand in every circumstance of
+      my life, even in suffering and hardship. You who carried the faith across the sea to a
+      pagan land, inflame my heart with missionary zeal that I may bring the light of Christ
+      to those around me. Through the power of the Holy Trinity, which you taught with the
+      shamrock, break the chains of sin and evil that bind me and those I love. Watch over all
+      who labor for the faith in dangerous places, and protect me from every spiritual harm.
+      O Saint Patrick, who arose through the strength of heaven, intercede for me that I may
+      arise each day in faith, hope, and love. Amen.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

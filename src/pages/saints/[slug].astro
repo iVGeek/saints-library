@@ -32,6 +32,16 @@ const pageImage = imageSrc(data.image, 1200);
 
 const pageSlug = slug(saint.id);
 
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: 'Directory', item: `${SITE.url}/saints` },
+    { '@type': 'ListItem', position: 3, name: data.name },
+  ],
+};
+
 const patronKeys = data.patronage.map((p) => ({ key: p, label: p.replace(/-/g, ' ') }));
 
 const personJsonLd = {
@@ -58,9 +68,11 @@ const personJsonLd = {
   description={data.summary}
   canonicalPath={`/saints/${pageSlug}`}
   image={pageImage ?? undefined}
+  ogType="profile"
   jsonLd={personJsonLd}
   bodyClass="parchment-bg"
 >
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)}></script>
   <!-- ===== HERO ===== -->
   <section class="navy-bg border-b border-gold-600/30">
     <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">

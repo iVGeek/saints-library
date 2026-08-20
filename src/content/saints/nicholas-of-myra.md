@@ -68,6 +68,19 @@ prayers:
       heaven saw it, teach us to give without counting the cost. Watch over children and all who
       travel the seas, defend the poor as you defended the three sisters, and kindle in us the
       same hidden generosity that made you the friend of Christ. Amen.
+  - name: "Novena to Saint Nicholas of Myra"
+    kind: "Novena — nine-day prayer for generosity and protection"
+    text: >-
+      O wonderworking Saint Nicholas, bishop of Myra and friend of the poor, I come before
+      you in this novena with a heart in need. You who gave secret gifts to three daughters
+      to save them from shame, teach me the joy of generous giving. Watch over children
+      everywhere, protect sailors on stormy seas, and guard all travelers on their way. Obtain
+      for me the grace to be openhanded with those in need, to give without seeking
+      recognition, and to trust that God will provide for all my wants. You who defended the
+      innocent before the judgment seat, be my advocate in the trials I face. As the merchants
+      and the poor alike found in you a protector, may I find in your intercession the help I
+      need before the throne of God. O Saint Nicholas, who turned gold into grace, turn my
+      heart toward charity and my life toward holiness. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

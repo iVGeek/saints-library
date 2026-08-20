@@ -90,6 +90,19 @@ prayers:
       O Lord, teach me to seek You in all things and to find You in all things. Give me wisdom
       to discern your will in the choices before me, courage to follow what You show me, and
       freedom to love You above all things. Amen.
+  - name: "Novena to Saint Ignatius of Loyola"
+    kind: "Novena — nine-day prayer for discernment"
+    text: >-
+      O Saint Ignatius of Loyola, soldier of Christ and founder of the Society of Jesus,
+      I turn to you in this novena seeking the gift of discernment. You who found God in all
+      things, teach me to seek His will in the ordinary moments of my life. You who wrote the
+      Spiritual Exercises to lead souls to perfect freedom, guide me through the interior
+      movements of grace and temptation. Grant me the wisdom to know God's plan for me, the
+      courage to follow it without hesitation, and the freedom to surrender all that I have and
+      am to His loving hands. Like you, who hung your sword before the altar of Our Lady at
+      Montserrat, may I lay down my own will and take up the mission God has prepared for me.
+      O Ignatius, obtain for me the grace of generous discipleship and the consolation of
+      knowing that in all things, God's greater glory may be served. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

@@ -346,6 +346,24 @@
   50% { opacity: 1; }
 }
 
+/* ——— Focus-visible outlines ——— */
+:focus-visible {
+  outline: 2px solid var(--color-gold-500, #c9a84c);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-gold-500, #c9a84c);
+  outline-offset: 2px;
+}
+
+/* Remove default outline for mouse users */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;

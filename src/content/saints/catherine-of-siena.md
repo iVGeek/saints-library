@@ -80,6 +80,19 @@ prayers:
       O eternal God, You are the fire that ever burns without consuming, the love that sustains
       the heart without wearying it. Fill us with Your grace, that we may know ourselves as You
       know us, love ourselves as You love us, and serve You with our whole being. Amen.
+  - name: "Novena to Saint Catherine of Siena"
+    kind: "Novena — nine-day prayer for courage and service"
+    text: >-
+      O Saint Catherine of Siena, virgin, mystic, and Doctor of the Church, I come before
+      you in this novena filled with admiration for your holy boldness. You who set all Italy
+      ablaze with the fire of divine love, inflame my heart with the same holy zeal. Obtain
+      for me the courage to speak the truth with charity, to defend the faith with wisdom, and
+      to serve God without reservation. You who counseled popes and brought the papacy back
+      to Rome, intercede for the leaders of the Church and for all in authority. Grant me the
+      grace to embrace the cross with joy, to serve the sick and the poor with tenderness, and
+      to unite my sufferings with those of Christ for the salvation of souls. O Catherine, who
+      saw the world as a garden watered by the blood of Christ, obtain for me the fire of your
+      love and the strength of your faith. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

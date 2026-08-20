@@ -80,6 +80,19 @@ prayers:
       listen with the ear of the heart, and to live in stability, humility, and charity. Guard
       our homes from evil and our souls from temptation, that we may serve God faithfully all
       the days of our lives. Amen.
+  - name: "Novena to Saint Benedict of Nursia"
+    kind: "Novena — nine-day prayer for education and spiritual protection"
+    text: >-
+      Glorious Patriarch Saint Benedict, father of Western monasticism and faithful servant
+      of God, I come before you with confidence in this novena to ask for your powerful
+      intercession. You who listened to God with the ear of your heart, teach me to hear His
+      voice in the noise of this world. You who wrote a Rule of balance and humility, guide my
+      steps along the path of prayer and work. Grant me the grace to seek God above all things,
+      to find Him in my daily labor, and to live in stability of heart when trials assail me.
+      Protect me from the snares of evil, from the poison of sin, and from every danger to body
+      and soul. Obtain for me the blessings I now place before the throne of God through your
+      holy intercession. May your Rule light my way, may your examples strengthen my resolve,
+      and may I one day join you in praising God eternally in the heavenly monastery. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

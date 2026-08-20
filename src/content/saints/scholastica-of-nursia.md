@@ -59,6 +59,19 @@ prayers:
       teach us to pray with a love that cannot be refused. Obtain for us constancy in the
       religious life and in every vocation, unity among those who serve God, and the grace to
       prefer the voice of the Lord to every other. Amen.
+  - name: "Novena to Saint Scholastica"
+    kind: "Novena — nine-day prayer for religious life"
+    text: >-
+      O Saint Scholastica, twin sister of Saint Benedict and foundress of monastic life for
+      women, I turn to you in this novena with a heart that seeks God. You who prayed with
+      such power that a storm arose to keep your brother at your side, teach me to pray with
+      a love that cannot be refused. Obtain for me constancy in the spiritual life, even when
+      prayer feels dry and God seems distant. Watch over all religious communities, especially
+      those who follow the Rule of Saint Benedict, and grant them fidelity to their vocation.
+      You who preferred the voice of the Lord to every human rule, help me to listen for God's
+      call in my own life and to respond with generous obedience. O Saint Scholastica, who saw
+      your brother's soul rise to heaven like a dove, obtain for me the grace to persevere in
+      prayer until I see God face to face. Amen.
 relatedSaints:
   - name: Benedict of Nursia
     slug: benedict-of-nursia

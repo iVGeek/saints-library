@@ -18,6 +18,20 @@ vocation:
 patronage:
   - "Volterra, Italy, diocese of"
 martyr: true
+prayers:
+  - name: "Novena to Saint Linus"
+    kind: "Novena — nine-day prayer for the Church and its leaders"
+    text: >-
+      O Saint Linus, first successor of Saint Peter and shepherd of the early Church, I turn
+      to you in this novena asking for your intercession. You who received the burden of the
+      papacy in the very first days of the Christian community, intercede for the pope and all
+      the bishops who now guide the Church. Grant them wisdom, courage, and holiness in their
+      sacred office. Protect the Church from every attack of error and division, and keep her
+      faithful to the teaching of the apostles. You who were chosen by the Apostle Paul and
+      appointed by Saint Peter himself, obtain for me the grace to be obedient to the teaching
+      of the Church and to support her leaders with my prayers and sacrifices. O Saint Linus,
+      martyr and defender of the faith, watch over the successors of the apostles and preserve
+      the unity of the Church until the end of time. Amen.
 ---
 
 Second Pope, and the first to be chosen in Rome, Italy. According to Irenaeus, he is the Linus mentioned by Saint Paul in 2 Timothy 4. His name is mentioned in the prayer “Communicantes” in the Canon of the Mass. Traditionally honoured as a martyr, though there is no certain documentation of this. Nothing else is known of his life, and ancient documents about his papacy have proven to be inaccurate or apocryphal.

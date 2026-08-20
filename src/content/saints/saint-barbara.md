@@ -77,6 +77,21 @@ patronage:
   - "–"
   - "in Belgium\n\nVillers-la-Bonne-Eau"
 martyr: false
+prayers:
+  - name: "Novena to Saint Barbara"
+    kind: "Novena — nine-day prayer for protection from sudden death"
+    text: >-
+      O glorious Saint Barbara, virgin and martyr, I turn to you in this novena for protection
+      and deliverance. You who stood firm in the faith within the walls of your tower, obtain
+      for me the grace to remain steadfast in the faith no matter what trials surround me.
+      Protect me from sudden and unprovided death, from danger by fire and lightning, and from
+      every harm of body and soul. You who were betrayed by your own father yet forgave him,
+      teach me to trust in God's justice even when those closest to me cause me suffering.
+      Watch over all who work in danger, miners, soldiers, firefighters, and those who handle
+      explosives, and bring them home safely. Through your intercession, may I receive the
+      sacraments before I die, and may I face my final hour with the courage you showed at
+      your martyrdom. O Saint Barbara, tower of strength and shield against every danger,
+      be near me now and always. Amen.
 ---
 
 A beautiful maiden imprisoned in a high tower by her father Dioscorus for disobedience. While there, she was tutored by philosphers, orators and poets. From them she learned to think, and decided that polytheism was nonsense. With the help of Origen and Valentinian, she converted to Christianity.

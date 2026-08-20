@@ -70,6 +70,20 @@ prayers:
       every creature as a gift of God, obtain for us a heart of service. Help us to see the
       dignity of every person and to break down the walls of prejudice. May our humble daily
       work, offered to God, become a prayer and a healing for the world. Amen.
+  - name: "Novena to Saint Martin de Porres"
+    kind: "Novena — nine-day prayer for racial harmony and charity"
+    text: >-
+      O humble Saint Martin de Porres, who served God by sweeping the floors of the Dominican
+      priory and washing the wounds of the poor, I come before you in this novena with a heart
+      that longs for charity. You who saw the image of Christ in every suffering person, obtain
+      for me a heart that breaks for what breaks the heart of God. Help me to serve the poor
+      and the marginalized with tenderness and without looking for recognition. You who broke
+      down the walls of prejudice by your humble love, intercede for the healing of racial
+      divisions in our world. Obtain for me the grace to see every human being as a child of
+      God, created in His image and worthy of dignity. May your broom remind me that no act of
+      service is too small, and may your example teach me that true greatness lies in making
+      oneself small before God and neighbor. Through your intercession, may God's love overcome
+      all hatred and division. Amen.
 relatedSaints:
   - name: Rose of Lima
     slug: rose-of-lima

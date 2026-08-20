@@ -82,6 +82,20 @@ prayers:
       measure, and to do great things for God with little things well done. Renew in us the
       courage to reform ourselves first, that our lives may be a testimony to the God who
       suffices. Amen.
+  - name: "Novena to Saint Teresa of Ávila"
+    kind: "Novena — nine-day prayer for healing and inner peace"
+    text: >-
+      O glorious Saint Teresa of Ávila, Doctor of the Church and teacher of prayer, I turn
+      to you in this novena with a humble and trusting heart. You who entered the interior
+      castle of the soul and found the King of glory dwelling within, teach me the path of
+      prayer that leads to perfect union with God. I ask for your intercession in my time of
+      suffering: heal my body if it be God's will, and always heal my soul of the diseases of
+      impatience, fear, and worldly attachment. You who rode mule carts across Spain in
+      tireless service, grant me courage to face my illnesses with patience and offering.
+      Obtain for me the grace to find God in all things, even in pain, and to trust that
+      nothing disturbs me, nothing frightens me, for all things are passing and God never
+      changes. Through your powerful intercession, may I find peace of heart and the healing
+      that God desires for me. Amen.
 relatedSaints:
   - name: John of the Cross
     slug: john-of-the-cross

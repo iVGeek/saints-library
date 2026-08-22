@@ -2,11 +2,11 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import SectionHeading from '../../../components/SectionHeading.astro';
-import SaintCard from '../../../components/SaintCard.astro';
 import { getCollection } from 'astro:content';
 import { MONTHS } from '../../../data/calendar';
 import { PATRONAGE_CATEGORIES } from '../../../data/patronage';
 import { VOCATIONS, REGIONS, RELIGIOUS_ORDERS, centuryLabel } from '../../../data/facets';
+import { imageSrc } from '../../../utils/images';
 
 export function getStaticPaths() {
   return [
@@ -33,8 +33,24 @@ const regions = Array.from(new Set([...REGIONS, ...regionsUsed])).sort((a, b) =>
 const orders = Array.from(new Set([...RELIGIOUS_ORDERS, ...ordersUsed])).sort((a, b) => a.localeCompare(b));
 const patronageOptions = PATRONAGE_CATEGORIES.filter((c) => patronagesUsed.includes(c.key));
 
-const feastDateOf = (s: (typeof saints)[number]) =>
-  `${String(s.data.feastDay.month).padStart(2, '0')}-${String(s.data.feastDay.day).padStart(2, '0')}`;
+const statusJSON = JSON.stringify(filtered.map((s) => ({
+  n: s.data.name,
+  s: s.id.replace(/\.md$/, ''),
+  i: imageSrc(s.data.image, 600) ?? '',
+  t: s.data.title ?? '',
+  a: s.data.imageAlt ?? '',
+  m: s.data.feastDay.month,
+  d: s.data.feastDay.day,
+  p: s.data.patronage,
+  v: s.data.vocation,
+  r: s.data.region ?? '',
+  c: s.data.centuries,
+  o: (s.data.religiousOrder ?? '').toLowerCase(),
+  st: s.data.canonizationStatus,
+  mr: s.data.martyr,
+  sy: s.data.symbols[0] ?? '',
+  sh: [s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? ''].join(' ').toLowerCase(),
+})));
 ---
 
 <BaseLayout
@@ -197,26 +213,7 @@ const feastDateOf = (s: (typeof saints)[number]) =>
 
         <p id="result-count" class="mt-4 font-body text-ink-600" aria-live="polite"></p>
 
-        <div id="saint-grid" class="mt-4 grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
-          {filtered.map((s) => (
-            <div
-              class="saint-item"
-              data-month={String(s.data.feastDay.month)}
-              data-patronage={s.data.patronage.join(' ')}
-              data-vocation={s.data.vocation.join(' ')}
-              data-region={(s.data.region ?? '').toLowerCase()}
-              data-century={s.data.centuries.join(' ')}
-              data-order={(s.data.religiousOrder ?? '').toLowerCase()}
-              data-martyr={String(s.data.martyr)}
-              data-date={feastDateOf(s)}
-              data-search={[s.data.name, ...s.data.searchAliases, ...s.data.patronage, ...s.data.causes, s.data.summary ?? '']
-                .join(' ')
-                .toLowerCase()}
-            >
-              <SaintCard saint={s} />
-            </div>
-          ))}
-        </div>
+        <div id="saint-grid" class="mt-4 grid gap-5 sm:grid-cols-2 xl:grid-cols-3"></div>
         <div id="empty-state" hidden class="mt-10 rounded-lg border border-gold-600/30 bg-ivory/80 p-10 text-center">
           <p class="font-heading text-2xl italic text-ink-700">No saints match these filters.</p>
           <p class="mt-2 font-body text-ink-500">
@@ -231,208 +228,6 @@ const feastDateOf = (s: (typeof saints)[number]) =>
   </div>
 </BaseLayout>
 
-<script is:inline>
-  (function () {
-    var PAGE_SIZE = 50;
-    var grid = document.getElementById('saint-grid');
-    var items = Array.from(grid.querySelectorAll('.saint-item'));
-    var search = document.getElementById('dir-search');
-    var sortEl = document.getElementById('dir-sort');
-    var countEl = document.getElementById('result-count');
-    var activeEl = document.getElementById('active-filters');
-    var emptyState = document.getElementById('empty-state');
-    var emptyClear = document.getElementById('empty-clear');
-    var clearAll = document.getElementById('clear-all');
-    var filterToggle = document.getElementById('filter-toggle');
-    var filterPanel = document.getElementById('filter-panel');
-    var filterCount = document.getElementById('filter-count');
-    var paginationEl = document.getElementById('pagination');
+<script type="application/json" id="saints-data" set:html={statusJSON} />
+<script is:inline src="/directory-app.js"></script>
 
-    var filters = {};
-    var currentPage = 1;
-    var visibleItems = [];
-
-    var inputs = Array.from(document.querySelectorAll('input[data-filter]'));
-    inputs.forEach(function (input) {
-      var group = input.dataset.filter;
-      input.addEventListener('change', function () {
-        if (!filters[group]) filters[group] = new Set();
-        var value = input.value;
-        if (group !== 'martyr' && input.checked) {
-          filters[group].clear();
-          inputs.forEach(function (other) {
-            if (other !== input && other.dataset.filter === group) other.checked = false;
-          });
-        }
-        if (input.checked) filters[group].add(value);
-        else filters[group].delete(value);
-        if (filters[group].size === 0) delete filters[group];
-        currentPage = 1;
-        applyFilters();
-      });
-    });
-
-    function matches(item) {
-      for (var group in filters) {
-        var attr = item.dataset[group] || '';
-        var list = attr.split(/\s+/).filter(Boolean);
-        var values = filters[group];
-        var hit = false;
-        var arr = Array.from(values);
-        for (var i = 0; i < arr.length; i++) {
-          var v = arr[i];
-          if (group === 'month' || group === 'century' || group === 'martyr') {
-            if (list.indexOf(v) !== -1) { hit = true; break; }
-          } else {
-            var normalized = list.map(function (x) { return x.toLowerCase(); });
-            if (normalized.indexOf(v.toLowerCase()) !== -1) { hit = true; break; }
-          }
-        }
-        if (!hit) return false;
-      }
-      var q = search.value.trim().toLowerCase();
-      if (q) {
-        var hay = (item.dataset.search || '').toLowerCase();
-        if (hay.indexOf(q) === -1) return false;
-      }
-      return true;
-    }
-
-    function applyFilters() {
-      visibleItems = [];
-      items.forEach(function (item) {
-        var show = matches(item);
-        item.hidden = !show;
-        if (show) visibleItems.push(item);
-      });
-
-      var totalPages = Math.max(1, Math.ceil(visibleItems.length / PAGE_SIZE));
-      if (currentPage > totalPages) currentPage = totalPages;
-
-      var start = (currentPage - 1) * PAGE_SIZE;
-      var end = start + PAGE_SIZE;
-
-      items.forEach(function (item) {
-        if (!item.hidden) {
-          var idx = visibleItems.indexOf(item);
-          item.hidden = idx < start || idx >= end;
-        }
-      });
-
-      countEl.textContent = 'Showing ' + (start + 1) + '\u2013' + Math.min(end, visibleItems.length) + ' of ' + visibleItems.length + ' saints';
-      emptyState.hidden = visibleItems.length !== 0;
-
-      activeEl.innerHTML = '';
-      var total = 0;
-      for (var g in filters) total += filters[g].size;
-      filterCount.textContent = total > 0 ? String(total) : '';
-      filterCount.classList.toggle('hidden', total === 0);
-
-      for (var group in filters) {
-        filters[group].forEach(function (v) {
-          var chip = document.createElement('button');
-          chip.type = 'button';
-          chip.className = 'chip chip-active';
-          chip.innerHTML = escapeHtml(v) + ' <span aria-hidden="true">\u2715</span>';
-          chip.addEventListener('click', function () {
-            filters[group].delete(v);
-            if (filters[group].size === 0) delete filters[group];
-            inputs.forEach(function (input) {
-              if (input.dataset.filter === group && input.value === v) input.checked = false;
-            });
-            currentPage = 1;
-            applyFilters();
-          });
-          activeEl.appendChild(chip);
-        });
-      }
-
-      renderPagination(totalPages);
-      sortItems();
-    }
-
-    function renderPagination(totalPages) {
-      paginationEl.innerHTML = '';
-      if (totalPages <= 1) return;
-
-      function addBtn(label, page, disabled, active) {
-        var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.textContent = label;
-        btn.className = 'px-3 py-2 font-heading text-sm rounded border transition-colors ' +
-          (active ? 'bg-gold-600 text-ivory border-gold-600' : 'border-gold-600/40 text-ink-700 hover:bg-gold-600/10');
-        btn.disabled = disabled;
-        if (!disabled && !active) {
-          btn.addEventListener('click', function () {
-            currentPage = page;
-            applyFilters();
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-          });
-        }
-        paginationEl.appendChild(btn);
-      }
-
-      addBtn('\u2190 Prev', currentPage - 1, currentPage === 1, false);
-      var maxVisible = 7;
-      var startPage = Math.max(1, currentPage - Math.floor(maxVisible / 2));
-      var endPage = Math.min(totalPages, startPage + maxVisible - 1);
-      if (endPage - startPage < maxVisible - 1) startPage = Math.max(1, endPage - maxVisible + 1);
-      if (startPage > 1) {
-        addBtn('1', 1, false, false);
-        if (startPage > 2) { var d = document.createElement('span'); d.textContent = '...'; d.className = 'px-2 text-ink-400'; paginationEl.appendChild(d); }
-      }
-      for (var i = startPage; i <= endPage; i++) addBtn(String(i), i, false, i === currentPage);
-      if (endPage < totalPages) {
-        if (endPage < totalPages - 1) { var d2 = document.createElement('span'); d2.textContent = '...'; d2.className = 'px-2 text-ink-400'; paginationEl.appendChild(d2); }
-        addBtn(String(totalPages), totalPages, false, false);
-      }
-      addBtn('Next \u2192', currentPage + 1, currentPage === totalPages, false);
-    }
-
-    function sortItems() {
-      var mode = sortEl.value;
-      visibleItems.sort(function (a, b) {
-        if (mode === 'feast') return (a.dataset.date || '').localeCompare(b.dataset.date || '');
-        return (a.dataset.search || '').localeCompare(b.dataset.search || '');
-      });
-      var start = (currentPage - 1) * PAGE_SIZE;
-      var end = start + PAGE_SIZE;
-      visibleItems.forEach(function (item, idx) {
-        if (idx >= start && idx < end) grid.appendChild(item);
-      });
-    }
-
-    function escapeHtml(s) {
-      return s.replace(/[&<>"']/g, function (c) {
-        return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c];
-      });
-    }
-
-    function clearAllFilters() {
-      for (var k in filters) delete filters[k];
-      inputs.forEach(function (input) { input.checked = false; });
-      search.value = '';
-      currentPage = 1;
-      applyFilters();
-    }
-
-    search.addEventListener('input', function () {
-      var q = search.value.trim().toLowerCase();
-      if (q) filters['_search'] = new Set([q]);
-      else delete filters['_search'];
-      currentPage = 1;
-      applyFilters();
-    });
-
-    sortEl.addEventListener('change', function () { sortItems(); });
-
-    if (filterToggle) filterToggle.addEventListener('click', function () {
-      var open = filterPanel.classList.toggle('hidden');
-      filterToggle.setAttribute('aria-expanded', String(!open));
-    });
-    if (clearAll) clearAll.addEventListener('click', clearAllFilters);
-    if (emptyClear) emptyClear.addEventListener('click', clearAllFilters);
-
-    applyFilters();
-  })();
-</script>

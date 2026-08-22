@@ -1,17 +1,11 @@
 ---
 interface Props {
   related: { name: string; slug: string; relation?: string }[];
-  slugMap?: Map<string, { name: string }>;
 }
 
-const { related, slugMap } = Astro.props;
+const { related } = Astro.props;
 
-const links = related
-  .map((r) => {
-    const exists = slugMap ? slugMap.has(r.slug) : true;
-    return exists ? { ...r, href: `/saints/${r.slug}` } : null;
-  })
-  .filter(Boolean) as { name: string; relation?: string; href: string }[];
+const links = related.map((r) => ({ ...r, href: `/saints/${r.slug}` }));
 ---
 
 <nav aria-label="Related saints">

@@ -1,22 +1,28 @@
 ---
-name: "Saint George Preca"
+name: Saint George Preca
 honorific: Venerable
-summary: "Seventh in a Christian family of nine children, the son of Vincent Preco and Nathalie Ceravolo. His father was a merchant and health inspector. George was a sickly child. Studied at the Lyceum and Major Seminary on Malta. A severe respiratory ailment in seminary nearly killed him"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_of_Saint_George_Preca_at_Montekristo_Estates%2C_Hal_Farrug%2C_Luqa_%28cropped%29.jpeg/960px-Statue_of_Saint_George_Preca_at_Montekristo_Estates%2C_Hal_Farrug%2C_Luqa_%28cropped%29.jpeg"
+summary: >-
+  Seventh in a Christian family of nine children, the son of Vincent Preco and Nathalie Ceravolo. His father was a
+  merchant and health inspector. George was a sickly child. Studied at the Lyceum and Major Seminary on Malta. A severe
+  respiratory ailment in seminary nearly killed him
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Saint_George_Preca_at_Montekristo_Estates%252C_Hal_Farrug%252C_Luqa_%2528cropped%2529.jpeg?width=600
 searchAliases:
-  - "Ġorġ Preca"
-  - "Jorge Preca"
+  - Ġorġ Preca
+  - Jorge Preca
 birthYear: 1880
 deathYear: 1962
-born: "12 February 1880 at Valletta, Malta"
-died: "evening of 26 July 1962 of natural causes at Santa Venera, Malta"
-birthPlace: "Malta"
-deathPlace: "Malta"
-region: "Africa"
+born: 12 February 1880 at Valletta, Malta
+died: evening of 26 July 1962 of natural causes at Santa Venera, Malta
+birthPlace: Malta
+deathPlace: Malta
+region: Africa
 feastDay:
   month: 7
   day: 26
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop

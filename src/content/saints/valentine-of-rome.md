@@ -2,8 +2,10 @@
 name: Valentine of Rome
 honorific: Saint
 title: Priest, Martyr
-summary: A Roman priest who died for Christ under the persecution of the emperor Claudius, whose feast day became the Church's own blessing of engaged love.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matija_Brada%C5%A1ka_-_Sv._Valentin.jpg/330px-Matija_Brada%C5%A1ka_-_Sv._Valentin.jpg
+summary: >-
+  A Roman priest who died for Christ under the persecution of the emperor Claudius, whose feast day became the Church's
+  own blessing of engaged love.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Matija_Brada%25C5%25A1ka_-_Sv._Valentin.jpg?width=600
 imageAlt: Portrait of Valentine of Rome
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,8 @@ died: c. 269
 birthPlace: Rome, Italy
 deathPlace: Rome, Italy
 region: Italy
-centuries: [3]
+centuries:
+  - 3
 feastDay:
   month: 2
   day: 14
@@ -39,26 +42,26 @@ symbols:
   - Palm of martyrdom
 martyr: true
 lifeEvents:
-  - year: "3rd century"
+  - year: 3rd century
     event: Priest of Rome, honored for holiness and for the sealing of Christian marriages.
-  - year: "c. 269"
+  - year: c. 269
     event: Martyred under the emperor Claudius Gothicus; buried on the Via Flaminia.
-  - year: "4th century"
+  - year: 4th century
     event: A basilica is raised over his tomb by Pope Julius I.
-  - year: "496"
+  - year: '496'
     event: Pope Gelasius I places his feast on February 14, noting that his deeds are known to God though hidden from men.
 quotes:
   - text: >-
-      All that is true, all that is honorable, all that is just, all that is pure, all that is lovely — think on these things.
+      All that is true, all that is honorable, all that is just, all that is pure, all that is lovely — think on these
+      things.
     source: The Epistle to the Philippians, read at Masses of the martyrs (4:8)
 prayers:
   - name: Prayer for Engaged and Married Couples
     kind: Prayer for those preparing for or living the married life
     text: >-
-      O Saint Valentine, priest and martyr, who gave your life for the Gospel, watch over all
-      who love. Bless engaged couples as they prepare for the sacrament of marriage; strengthen
-      husbands and wives in fidelity and patience; and remind the world that every true love
-      rests in the love of God. Amen.
+      O Saint Valentine, priest and martyr, who gave your life for the Gospel, watch over all who love. Bless engaged
+      couples as they prepare for the sacrament of marriage; strengthen husbands and wives in fidelity and patience; and
+      remind the world that every true love rests in the love of God. Amen.
 sources:
   - Catholic Encyclopedia (1913), "St. Valentine"
   - Saint Gelasius I, decree on the liturgical year (496)

@@ -2,8 +2,11 @@
 name: John of the Cross
 honorific: Saint
 title: Doctor of the Church
-summary: Carmelite poet and mystic who suffered prison to reform his order — master of the "dark night of the soul" who taught that God is found in the loss of everything else.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg/330px-Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg
+summary: >-
+  Carmelite poet and mystic who suffered prison to reform his order — master of the "dark night of the soul" who taught
+  that God is found in the loss of everything else.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Zurbar%25C3%25A1n_%2528atribuido%2529-John_of_the_Cross-1656.jpg?width=600
 imageAlt: Portrait of John of the Cross
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +21,8 @@ died: 14 December 1591
 birthPlace: Fontiveros, Spain
 deathPlace: Úbeda, Spain
 region: Spain
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 12
   day: 14
@@ -43,41 +47,38 @@ symbols:
   - Dark night and moon
 martyr: false
 lifeEvents:
-  - year: "24 June 1542"
+  - year: 24 June 1542
     event: Born at Fontiveros near Ávila, the third son of a ruined weaver family.
-  - year: "1563"
+  - year: '1563'
     event: Professes as a Carmelite at Medina del Campo.
-  - year: "1567"
+  - year: '1567'
     event: Meets Teresa of Ávila, who recruits him to her reform of the Carmelite order.
-  - year: "1568"
+  - year: '1568'
     event: Opens the first house of the Discalced Carmelites at Duruelo.
-  - year: "1577"
+  - year: '1577'
     event: Kidnapped by the unreformed Carmelites and imprisoned at Toledo, where he composes the Spiritual Canticle.
-  - year: "1578"
+  - year: '1578'
     event: Escapes from prison through a window and flees to safety.
-  - year: "1578–1591"
+  - year: 1578–1591
     event: Writes The Ascent of Mount Carmel, The Dark Night, and The Living Flame of Love.
-  - year: "14 December 1591"
+  - year: 14 December 1591
     event: Dies at Úbeda after months of harsh illness.
-  - year: "27 December 1726"
+  - year: 27 December 1726
     event: Canonized by Pope Benedict XIII.
-  - year: "1926"
+  - year: '1926'
     event: Declared a Doctor of the Church by Pope Pius XI.
 quotes:
-  - text: >-
-      In the dark night of the soul, bright flows the river of God.
+  - text: In the dark night of the soul, bright flows the river of God.
     source: Saint John of the Cross, The Dark Night
-  - text: >-
-      In the evening of life we shall be judged on love alone.
+  - text: In the evening of life we shall be judged on love alone.
     source: Attributed to Saint John of the Cross
 prayers:
   - name: Prayer to Saint John of the Cross
     kind: Prayer in times of spiritual darkness
     text: >-
-      O Saint John of the Cross, who found God in the night when all other lights went out,
-      teach us to trust when faith is dark and the heart is dry. Lead us through the deep waters
-      of our own emptiness to the hidden flame of Your love, that losing all things we may find
-      the one thing necessary, Jesus Christ. Amen.
+      O Saint John of the Cross, who found God in the night when all other lights went out, teach us to trust when faith
+      is dark and the heart is dry. Lead us through the deep waters of our own emptiness to the hidden flame of Your
+      love, that losing all things we may find the one thing necessary, Jesus Christ. Amen.
 relatedSaints:
   - name: Teresa of Ávila
     slug: teresa-of-avila

@@ -1,15 +1,15 @@
 ---
-name: "Saint Pelagia of Tarsus"
+name: Saint Pelagia of Tarsus
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 300
-died: "burned to death in a bronze ox at Tarsus c.300"
-region: "England"
+died: burned to death in a bronze ox at Tarsus c.300
+region: England
 feastDay:
   month: 5
   day: 4
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pelagia_of_Tarsus_%28Menologion_of_Basil_II%29.jpg/960px-Pelagia_of_Tarsus_%28Menologion_of_Basil_II%29.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pelagia_of_Tarsus_%2528Menologion_of_Basil_II%2529.jpg?width=600
 vocation:
   - Monk
 martyr: true

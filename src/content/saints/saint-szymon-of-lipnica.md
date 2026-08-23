@@ -1,20 +1,23 @@
 ---
-name: "Saint Szymon of Lipnica"
+name: Saint Szymon of Lipnica
 honorific: Saint
-summary: "Born to a poor and pious family, the son of Grzegorz and Anna. In 1454, at age 17 he moved from his small town to Kraków to study at the Uniwersytetu Jagiellonskiego. While there, he heard a sermon by Saint John Capistran which led him to consider a call to religious life and the"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Szymon_z_Lipnicy_%28sculpture%29.jpg/960px-Szymon_z_Lipnicy_%28sculpture%29.jpg"
+summary: >-
+  Born to a poor and pious family, the son of Grzegorz and Anna. In 1454, at age 17 he moved from his small town to
+  Kraków to study at the Uniwersytetu Jagiellonskiego. While there, he heard a sermon by Saint John Capistran which led
+  him to consider a call to religious life and the
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Szymon_z_Lipnicy_%2528sculpture%2529.jpg?width=600
 searchAliases:
-  - "Szymon of Lipnicza"
-  - "Szymon of Lipnices"
-  - "Szymon z Lipnicy"
-  - "Simon…"
+  - Szymon of Lipnicza
+  - Szymon of Lipnices
+  - Szymon z Lipnicy
+  - Simon…
 birthYear: 1437
 deathYear: 1482
-born: "c.1437 in Lipnica Murowana, Malopolskie, Poland"
-died: "18 July 1482 in Kraków, Malopolskie, Poland during a plague epidemic"
-birthPlace: "Malopolskie, Poland"
-deathPlace: "Malopolskie, Poland during a plague epidemic"
-region: "Poland"
+born: c.1437 in Lipnica Murowana, Malopolskie, Poland
+died: 18 July 1482 in Kraków, Malopolskie, Poland during a plague epidemic
+birthPlace: Malopolskie, Poland
+deathPlace: Malopolskie, Poland during a plague epidemic
+region: Poland
 feastDay:
   month: 7
   day: 18
@@ -22,9 +25,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Kraków, Poland"
+  - Kraków, Poland
 martyr: false
 ---
 

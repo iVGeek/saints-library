@@ -1,15 +1,18 @@
 ---
-name: "Saint Julia of Corsica"
+name: Saint Julia of Corsica
 honorific: Saint
-summary: "Born to the Carthaginian Christian nobility. Captured by invading Vandals in 616, and sold into slavery to a pagan Syrian merchant named Eusebius. When the slave ship landed at Cape Corso, Corsica, a pagan festival was in progress, and Julia was ordered to join in; some versions"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Meaux_Vitrail_1867_30808_2.jpg/960px-Meaux_Vitrail_1867_30808_2.jpg"
+summary: >-
+  Born to the Carthaginian Christian nobility. Captured by invading Vandals in 616, and sold into slavery to a pagan
+  Syrian merchant named Eusebius. When the slave ship landed at Cape Corso, Corsica, a pagan festival was in progress,
+  and Julia was ordered to join in; some versions
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Meaux_Vitrail_1867_30808_2.jpg?width=600
 searchAliases:
-  - "Julia of Carthage"
+  - Julia of Carthage
 deathYear: 616
-born: "6th to 7th century Carthaginian"
-died: "beaten and crucified c.616–620 at Cape Corso, Corsica"
-deathPlace: "Corsica"
-region: "Syria"
+born: 6th to 7th century Carthaginian
+died: beaten and crucified c.616–620 at Cape Corso, Corsica
+deathPlace: Corsica
+region: Syria
 feastDay:
   month: 5
   day: 22
@@ -17,13 +20,13 @@ canonizationStatus: Saint
 vocation:
   - Virgin
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "torture victims"
-  - "Corsica, France"
-  - "Brescia, Italy"
-  - "Leghorn, Italy"
-  - "Livorno, Italy"
+  - torture victims
+  - Corsica, France
+  - Brescia, Italy
+  - Leghorn, Italy
+  - Livorno, Italy
 martyr: true
 ---
 

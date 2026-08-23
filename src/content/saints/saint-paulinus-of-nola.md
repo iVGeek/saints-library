@@ -1,16 +1,16 @@
 ---
-name: "Saint Paulinus of Nola"
+name: Saint Paulinus of Nola
 honorific: Saint
-summary: " Distinguished lawyer. Held several public offices in the Empire, then retired from public ministry with his wife, Therasia, first to Borde Friend of Saint Augustine of Hippo and Saint Nicetas of Remesiana, and mentioned for his holiness by at least six of his contemporary saints."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg/960px-Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg"
+summary: ' Distinguished lawyer. Held several public offices in the Empire, then retired from public ministry with his wife, Therasia, first to Borde Friend of Saint Augustine of Hippo and Saint Nicetas of Remesiana, and mentioned for his holiness by at least six of his contemporary saints.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg?width=600
 searchAliases:
-  - "Meropius Pontius Anicius Paulinus"
+  - Meropius Pontius Anicius Paulinus
 birthYear: 354
 deathYear: 431
-born: "c.354 at Burdigala, Gaul (modern Bordeaux, France)"
-died: "22 June 431 of natural causes"
-birthPlace: "Gaul (modern Bordeaux, France)"
-region: "France"
+born: c.354 at Burdigala, Gaul (modern Bordeaux, France)
+died: 22 June 431 of natural causes
+birthPlace: Gaul (modern Bordeaux, France)
+region: France
 feastDay:
   month: 6
   day: 22
@@ -20,12 +20,15 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in Italy\n\nNola, city of"
-  - "Nola, diocese of"
-  - "Senigallia, diocese of"
-  - "Sutera"
+  - |-
+    in Italy
+
+    Nola, city of
+  - Nola, diocese of
+  - Senigallia, diocese of
+  - Sutera
 martyr: false
 ---
 

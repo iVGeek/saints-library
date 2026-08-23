@@ -1,19 +1,22 @@
 ---
-name: "Saint Theodore the Studite"
+name: Saint Theodore the Studite
 honorific: Saint
-summary: "Monk at the monastery of Saccudion, Asia Minor in 781. Ordained c.787. Abbot of the Saccudion monastery in 794. Abbot of the Stoudios monastery outside Constantinople in 799, which caused him to be the spiritual teacher of many wise and holy men. His writings include the first re"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Studite.jpg/960px-Studite.jpg"
+summary: >-
+  Monk at the monastery of Saccudion, Asia Minor in 781. Ordained c.787. Abbot of the Saccudion monastery in 794. Abbot
+  of the Stoudios monastery outside Constantinople in 799, which caused him to be the spiritual teacher of many wise and
+  holy men. His writings include the first re
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Studite.jpg?width=600
 searchAliases:
-  - "Theodore of Stoudios"
-  - "Theodore of Studion"
-  - "Theodore of Studium"
-  - "Theodorus Studita"
+  - Theodore of Stoudios
+  - Theodore of Studion
+  - Theodore of Studium
+  - Theodorus Studita
 birthYear: 759
 deathYear: 826
-born: "759 in Greece"
-died: "11 November 826 on the peninsula of Tryphon, near the Akrita promontory in Asia Minor"
-deathPlace: "near the Akrita promontoryAsia Minor"
-region: "Turkey"
+born: 759 in Greece
+died: 11 November 826 on the peninsula of Tryphon, near the Akrita promontory in Asia Minor
+deathPlace: near the Akrita promontoryAsia Minor
+region: Turkey
 feastDay:
   month: 11
   day: 11

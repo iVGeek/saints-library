@@ -1,12 +1,12 @@
 ---
-name: "Saint William of Roskilde"
+name: Saint William of Roskilde
 honorific: Saint
-summary: " Bishop of Roskilde, Zeeland. He decreed that a person who had shed blood unjustly could not rec Priest. Court chaplain to King Canute of England and Denmark. During a trip to Denmark, William saw a crying need for Christian missionaries, and he worked there the rest of his life."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Biskop_Vilhelm_-_1073_%28Roskilde_Domkirke%29.JPG/960px-Biskop_Vilhelm_-_1073_%28Roskilde_Domkirke%29.JPG"
+summary: ' Bishop of Roskilde, Zeeland. He decreed that a person who had shed blood unjustly could not rec Priest. Court chaplain to King Canute of England and Denmark. During a trip to Denmark, William saw a crying need for Christian missionaries, and he worked there the rest of his life.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Biskop_Vilhelm_-_1073_%2528Roskilde_Domkirke%2529.JPG?width=600
 deathYear: 1067
-born: "Anglo-Saxon"
-died: "1067 of natural causes"
-region: "Scandinavia"
+born: Anglo-Saxon
+died: 1067 of natural causes
+region: Scandinavia
 feastDay:
   month: 9
   day: 2

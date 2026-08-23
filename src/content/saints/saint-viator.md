@@ -1,25 +1,28 @@
 ---
-name: "Saint Viator"
+name: Saint Viator
 honorific: Saint
-summary: "Benedictine monk at the Saint-Mesmin Abbey (also known as Micy Abbey) in the early sixth-century near Orleans, France. Friend and brother monk of Saint Avitus. Spiritual student of Saint Maximinus. Feeling the need for solitude, he left the abbey to live as a hermit near Sologne-"
+summary: >-
+  Benedictine monk at the Saint-Mesmin Abbey (also known as Micy Abbey) in the early sixth-century near Orleans, France.
+  Friend and brother monk of Saint Avitus. Spiritual student of Saint Maximinus. Feeling the need for solitude, he left
+  the abbey to live as a hermit near Sologne-
 searchAliases:
-  - "Viâtre"
-  - "Viatore"
-died: "6th-century in La Trimouille, Sologne, France of natural causes"
-deathPlace: "Sologne, Francenatural causes"
-region: "France"
+  - Viâtre
+  - Viatore
+died: 6th-century in La Trimouille, Sologne, France of natural causes
+deathPlace: Sologne, Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 5
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/20200225-Viator%2C_Almer%C3%ADa_003.jpg/960px-20200225-Viator%2C_Almer%C3%ADa_003.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/20200225-Viator%252C_Almer%25C3%25ADa_003.jpg?width=600
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against marsh fevers"
-  - "Saint-Viâtre, France"
+  - against marsh fevers
+  - Saint-Viâtre, France
 martyr: false
 ---
 

@@ -1,17 +1,21 @@
 ---
-name: "Saint Seraphim of Sarov"
+name: Saint Seraphim of Sarov
 honorific: Saint
-summary: "Son of a builder, he had a middle-class upbringing. Monk at Sarov in 1777, taking the name Seraphim. Studious as a boy, he was able to apply himself there as the monks of Sarov spent much of the day studying Scripture and the early Church writings. Severely ill and bed-ridden fro"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Seraphim_of_Sarov_%28after_1903%2C_priv.coll%29.jpg/960px-Seraphim_of_Sarov_%28after_1903%2C_priv.coll%29.jpg"
+summary: >-
+  Son of a builder, he had a middle-class upbringing. Monk at Sarov in 1777, taking the name Seraphim. Studious as a
+  boy, he was able to apply himself there as the monks of Sarov spent much of the day studying Scripture and the early
+  Church writings. Severely ill and bed-ridden fro
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Seraphim_of_Sarov_%2528after_1903%252C_priv.coll%2529.jpg?width=600
 searchAliases:
-  - "Prokhor Moshnin"
+  - Prokhor Moshnin
 birthYear: 1759
 deathYear: 1833
-born: "1759 at Kursk, Russia as Prokhor Moshnin"
-died: "2 January 1833 at the monsatery at Sarov, Russia of natural causes"
-birthPlace: "Russia as Prokhor Moshnin"
-deathPlace: "Russianatural causes"
-region: "England"
+born: 1759 at Kursk, Russia as Prokhor Moshnin
+died: 2 January 1833 at the monsatery at Sarov, Russia of natural causes
+birthPlace: Russia as Prokhor Moshnin
+deathPlace: Russianatural causes
+region: England
 feastDay:
   month: 1
   day: 2

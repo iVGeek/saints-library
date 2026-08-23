@@ -1,30 +1,38 @@
 ---
-name: "Saint Alonso Rodriguez"
+name: Saint Alonso Rodriguez
 honorific: Venerable
-summary: "Third of eleven children in the family of the wealthy wool merchant Diego Rodriguez. Met Blessed Peter Faber when he was 10; the Father Faber prepared the boy for his First Communion. At age 14, Alonso was sent to study with Jesuits, Alonso's father died within a year, and he ret"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alonso_Rodr%C3%ADguez.jpg/960px-Alonso_Rodr%C3%ADguez.jpg"
+summary: >-
+  Third of eleven children in the family of the wealthy wool merchant Diego Rodriguez. Met Blessed Peter Faber when he
+  was 10; the Father Faber prepared the boy for his First Communion. At age 14, Alonso was sent to study with Jesuits,
+  Alonso's father died within a year, and he ret
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Alonso_Rodr%25C3%25ADguez.jpg?width=600
 searchAliases:
-  - "Alphonsus Rodriguez"
+  - Alphonsus Rodriguez
 birthYear: 1532
 deathYear: 1617
-born: "25 July 1532 at Segovia, Spain"
-died: "31 October 1617 at Palma, Mallorca, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Mallorca, Spaof natural causes"
-region: "Spain"
+born: 25 July 1532 at Segovia, Spain
+died: 31 October 1617 at Palma, Mallorca, Spain of natural causes
+birthPlace: Spain
+deathPlace: Mallorca, Spaof natural causes
+region: Spain
 feastDay:
   month: 10
   day: 31
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Missionary
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "in Spain\n\nMajorca, city of"
-  - "Majorca, island of"
-  - "Segovia"
+  - |-
+    in Spain
+
+    Majorca, city of
+  - Majorca, island of
+  - Segovia
 martyr: false
 ---
 

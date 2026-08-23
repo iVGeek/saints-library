@@ -1,13 +1,15 @@
 ---
-name: "Saint Simon of Cyrene"
+name: Saint Simon of Cyrene
 honorific: Saint
-summary: "First century convert. Father of Saint Rufus. Helped Christ carry the cross on the way to Calvary. Missionary to France. First bishop of Avignon, France. Martyr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Limours_Saint-Pierre_303.JPG/960px-Limours_Saint-Pierre_303.JPG"
+summary: >-
+  First century convert. Father of Saint Rufus. Helped Christ carry the cross on the way to Calvary. Missionary to
+  France. First bishop of Avignon, France. Martyr.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Limours_Saint-Pierre_303.JPG?width=600
 searchAliases:
-  - "Simon the Cyrenian"
+  - Simon the Cyrenian
 deathYear: 100
-died: "crucified c.100"
-region: "France"
+died: crucified c.100
+region: France
 feastDay:
   month: 12
   day: 1

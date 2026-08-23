@@ -1,17 +1,20 @@
 ---
-name: "Saint Virginia Centurione Bracelli"
+name: Saint Virginia Centurione Bracelli
 honorific: Saint
-summary: "Daughter of Giorgio Centurione, and imposing and controlling individual who became the Doge of Genoa, and Lelia Spinola. Raised in a pious family, she felt drawn to religious life as a child. However, due to family position she agree to an arranged marriage to Gasparo Grimaldi Br"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Virgina_Centurione_Pittura_Busto.jpg/960px-Virgina_Centurione_Pittura_Busto.jpg"
+summary: >-
+  Daughter of Giorgio Centurione, and imposing and controlling individual who became the Doge of Genoa, and Lelia
+  Spinola. Raised in a pious family, she felt drawn to religious life as a child. However, due to family position she
+  agree to an arranged marriage to Gasparo Grimaldi Br
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Virgina_Centurione_Pittura_Busto.jpg?width=600
 searchAliases:
-  - "Virginae Centurione Bracelli"
+  - Virginae Centurione Bracelli
 birthYear: 1587
 deathYear: 1651
-born: "2 April 1587 in Genoa, Italy"
-died: "15 December 1651 in Genoa, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 2 April 1587 in Genoa, Italy
+died: 15 December 1651 in Genoa, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 12
   day: 15
@@ -19,7 +22,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - "Sisters of Our Lady of Refuge in Mount Calvary"
+  - Sisters of Our Lady of Refuge in Mount Calvary
 martyr: false
 ---
 

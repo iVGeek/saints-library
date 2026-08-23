@@ -1,17 +1,17 @@
 ---
-name: "Saint Licinius"
+name: Saint Licinius
 honorific: Saint
-summary: "Born to the French nobility. Monk. Bishop of Angers, France in 586, consecrated by Saint Gregory of Tours."
+summary: Born to the French nobility. Monk. Bishop of Angers, France in 586, consecrated by Saint Gregory of Tours.
 searchAliases:
-  - "Lesin"
+  - Lesin
 deathYear: 616
-died: "c.616"
-region: "France"
+died: c.616
+region: France
 feastDay:
   month: 11
   day: 1
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg/960px-Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Bust_of_Licinius%252C_Kunsthistorisches_Museum.jpg?width=600
 vocation:
   - Bishop
   - Monk

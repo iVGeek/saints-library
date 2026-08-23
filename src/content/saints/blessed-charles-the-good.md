@@ -1,17 +1,20 @@
 ---
-name: "Blessed Charles the Good"
+name: Blessed Charles the Good
 honorific: Blessed
-summary: "Born a prince, the son of King Saint Canute of Denmark and Adela of Flanders. After his father's murder, he was raised in the court of his maternal grandfather, Robert de Frison, Count of Flanders (part of modern Belgium. Fought in the Second Crusade. Succeeded Robert II as count"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sint-Salvatorskathedraal_-_Bruges_-_IMG_4774.JPG/960px-Sint-Salvatorskathedraal_-_Bruges_-_IMG_4774.JPG"
+summary: >-
+  Born a prince, the son of King Saint Canute of Denmark and Adela of Flanders. After his father's murder, he was raised
+  in the court of his maternal grandfather, Robert de Frison, Count of Flanders (part of modern Belgium. Fought in the
+  Second Crusade. Succeeded Robert II as count
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sint-Salvatorskathedraal_-_Bruges_-_IMG_4774.JPG?width=600
 searchAliases:
-  - "Charles of Flanders"
-  - "Charles I of Flandre"
+  - Charles of Flanders
+  - Charles I of Flandre
 birthYear: 1083
 deathYear: 1127
-born: "1083"
-died: "beheaded on 2 March 1127 at Bruges, Belgium"
-deathPlace: "Belgium"
-region: "Scandinavia"
+born: '1083'
+died: beheaded on 2 March 1127 at Bruges, Belgium
+deathPlace: Belgium
+region: Scandinavia
 feastDay:
   month: 3
   day: 2
@@ -19,13 +22,13 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "counts"
-  - "Crusaders"
-  - "–"
-  - "Bruges, Belgium, city of"
-  - "Bruges, Belgium, diocese of"
+  - counts
+  - Crusaders
+  - –
+  - Bruges, Belgium, city of
+  - Bruges, Belgium, diocese of
 martyr: true
 ---
 

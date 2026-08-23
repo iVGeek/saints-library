@@ -1,21 +1,25 @@
 ---
-name: "Saint Salvius of Amiens"
+name: Saint Salvius of Amiens
 honorific: Saint
-summary: "Probably born to a wealthy family as he had much time to study in his youth; through these studies Salvius became dedicated to theology, and was drawn to religious life. He became a monk, and later abbot, at the monastery of Our Lady in Montreuil-sur-Mer, France. Ninth bishop of"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Villers-Pol_%28Nord%2CFr%29_%C3%A9glise_Saint-Martin%2C_statue_St.Saulve.JPG/960px-Villers-Pol_%28Nord%2CFr%29_%C3%A9glise_Saint-Martin%2C_statue_St.Saulve.JPG"
+summary: >-
+  Probably born to a wealthy family as he had much time to study in his youth; through these studies Salvius became
+  dedicated to theology, and was drawn to religious life. He became a monk, and later abbot, at the monastery of Our
+  Lady in Montreuil-sur-Mer, France. Ninth bishop of
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Villers-Pol_%2528Nord%252CFr%2529_%25C3%25A9glise_Saint-Martin%252C_statue_St.Saulve.JPG?width=600
 searchAliases:
-  - "Salin"
-  - "Salinius"
-  - "Salve"
-  - "Salvinus"
-  - "Salvio"
-  - "Sauflieu"
-  - "Saulve"
-  - "Sauve"
-  - "Sauvre"
+  - Salin
+  - Salinius
+  - Salve
+  - Salvinus
+  - Salvio
+  - Sauflieu
+  - Saulve
+  - Sauve
+  - Sauvre
 deathYear: 625
-died: "c.625 of natural causes"
-region: "France"
+died: c.625 of natural causes
+region: France
 feastDay:
   month: 1
   day: 11
@@ -25,8 +29,11 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "in France\n\nAmiens"
-  - "Montreuil-sur-Mer"
+  - |-
+    in France
+
+    Amiens
+  - Montreuil-sur-Mer
 martyr: false
 ---
 

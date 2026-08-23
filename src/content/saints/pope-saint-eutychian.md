@@ -1,14 +1,17 @@
 ---
-name: "Pope Saint Eutychian"
+name: Pope Saint Eutychian
 honorific: Saint
-summary: "He was the 27th pope, but very little is known about him. Legend says he buried 324 martyrs with his own hands, but he reigned in a quiet period of no state persecution, so this is questionable. Another legend credits him with developing the blessings of fields and crops, but thi"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sarzana-cattedrale-facciata3.jpg/960px-Sarzana-cattedrale-facciata3.jpg"
+summary: >-
+  He was the 27th pope, but very little is known about him. Legend says he buried 324 martyrs with his own hands, but he
+  reigned in a quiet period of no state persecution, so this is questionable. Another legend credits him with developing
+  the blessings of fields and crops, but thi
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sarzana-cattedrale-facciata3.jpg?width=600
 searchAliases:
-  - "Eutychianus"
+  - Eutychianus
 deathYear: 283
-born: "Etruria or Tuscany (both in modern Italy)"
-died: "7 December 283"
-region: "Italy"
+born: Etruria or Tuscany (both in modern Italy)
+died: 7 December 283
+region: Italy
 feastDay:
   month: 12
   day: 8

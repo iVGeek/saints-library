@@ -1,15 +1,18 @@
 ---
-name: "Blessed Giuseppe Benedetto Dusmet"
+name: Blessed Giuseppe Benedetto Dusmet
 honorific: Blessed
-summary: "Born to the Sicilian nobility, the son of Marquis Luigi Dusmet. Educated at the abbey of San Martino delle Scales when he was five years old. Benedictine monk, making his formal vows on 13 August 1840 at the abbey of Monte Cassino. Teacher of philosophy and theology in Benedictin"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Giuseppedusmet.JPG/960px-Giuseppedusmet.JPG"
+summary: >-
+  Born to the Sicilian nobility, the son of Marquis Luigi Dusmet. Educated at the abbey of San Martino delle Scales when
+  he was five years old. Benedictine monk, making his formal vows on 13 August 1840 at the abbey of Monte Cassino.
+  Teacher of philosophy and theology in Benedictin
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppedusmet.JPG?width=600
 birthYear: 1818
 deathYear: 1894
-born: "15 August 1818 at Palermo, Sicily"
-died: "4 April 1894 at Catania, Sicily of natural causes"
-birthPlace: "Sicily"
-deathPlace: "Sicilynatural causes"
-region: "Italy"
+born: 15 August 1818 at Palermo, Sicily
+died: 4 April 1894 at Catania, Sicily of natural causes
+birthPlace: Sicily
+deathPlace: Sicilynatural causes
+region: Italy
 feastDay:
   month: 4
   day: 4
@@ -17,7 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

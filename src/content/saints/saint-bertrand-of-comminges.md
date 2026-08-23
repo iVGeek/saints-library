@@ -1,12 +1,16 @@
 ---
-name: "Saint Bertrand of Comminges"
+name: Saint Bertrand of Comminges
 honorific: Saint
-summary: "Son of a military officer. His family exepected a military life for Bertrand, but he was drawn to religion, joined the canons of Toulouse, and became an archdeacon. Bishop of Comminges, France c.1075, a position he served for nearly 50 years; this area is part of the modern dioce"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Saint-Bertrand-de-Comminges_cath%C3%A9drale_tombeau_peintures_%28cropped%29.JPG/960px-Saint-Bertrand-de-Comminges_cath%C3%A9drale_tombeau_peintures_%28cropped%29.JPG"
+summary: >-
+  Son of a military officer. His family exepected a military life for Bertrand, but he was drawn to religion, joined the
+  canons of Toulouse, and became an archdeacon. Bishop of Comminges, France c.1075, a position he served for nearly 50
+  years; this area is part of the modern dioce
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Bertrand-de-Comminges_cath%25C3%25A9drale_tombeau_peintures_%2528cropped%2529.JPG?width=600
 deathYear: 1123
-born: "11th century France"
-died: "1123 of natural causes"
-region: "France"
+born: 11th century France
+died: 1123 of natural causes
+region: France
 feastDay:
   month: 10
   day: 16
@@ -15,9 +19,9 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Saint-Bertrand-de-Comminges, France"
+  - Saint-Bertrand-de-Comminges, France
 martyr: false
 ---
 

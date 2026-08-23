@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint Felix IV"
+name: Pope Saint Felix IV
 honorific: Saint
-summary: "Son of Castorius; nothing else is known of his early life. Chosen 54th pope at the insistence of Theodoric, king of the Goths. Secured confirmation of the exemption of clerics from civil law, obtained structures for use as churches, and generally used his favored status with Theo"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mosaic_of_Felix_IV_in_Santi_Cosma_e_Damiano%2C_Rome%2C_Italy.jpg/960px-Mosaic_of_Felix_IV_in_Santi_Cosma_e_Damiano%2C_Rome%2C_Italy.jpg"
+summary: >-
+  Son of Castorius; nothing else is known of his early life. Chosen 54th pope at the insistence of Theodoric, king of
+  the Goths. Secured confirmation of the exemption of clerics from civil law, obtained structures for use as churches,
+  and generally used his favored status with Theo
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Felix_IV_in_Santi_Cosma_e_Damiano%252C_Rome%252C_Italy.jpg?width=600
 deathYear: 530
-born: "Samnium, Italy"
-died: "September 530 in Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: Samnium, Italy
+died: September 530 in Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 12

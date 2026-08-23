@@ -1,17 +1,20 @@
 ---
-name: "Saint Pirmin"
+name: Saint Pirmin
 honorific: Saint
-summary: "Possibly of Visigoth ancestry. Monk, following a mixed rule with strong influences from Irish monasticism. When the Saracens invaded Spain, he fled to the Rhineland (in modern Germany) where established or restored several abbeys. He rebuilt Dissentis Abbey after its destruction."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hornbacher_Sakramentar_fol._8v.jpg/960px-Hornbacher_Sakramentar_fol._8v.jpg"
+summary: >-
+  Possibly of Visigoth ancestry. Monk, following a mixed rule with strong influences from Irish monasticism. When the
+  Saracens invaded Spain, he fled to the Rhineland (in modern Germany) where established or restored several abbeys. He
+  rebuilt Dissentis Abbey after its destruction.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Hornbacher_Sakramentar_fol._8v.jpg?width=600
 searchAliases:
-  - "Pirminio"
-  - "Pirminius"
-  - "Pirmino"
+  - Pirminio
+  - Pirminius
+  - Pirmino
 birthYear: 670
 deathYear: 753
-born: "c.670 at South Aragon (part of modern Spain)"
-died: "3 November 753 of natural causes"
-region: "Germany"
+born: c.670 at South Aragon (part of modern Spain)
+died: 3 November 753 of natural causes
+region: Germany
 feastDay:
   month: 11
   day: 3
@@ -20,16 +23,19 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "against eye problems"
-  - "against plague"
-  - "against poisoning"
-  - "against rheumatism"
-  - "against snake bite"
-  - "against vermin"
-  - "for happy birth"
-  - "livestock"
-  - "–"
-  - "in Austria\n\nInnsbruck"
+  - against eye problems
+  - against plague
+  - against poisoning
+  - against rheumatism
+  - against snake bite
+  - against vermin
+  - for happy birth
+  - livestock
+  - –
+  - |-
+    in Austria
+
+    Innsbruck
 martyr: false
 ---
 

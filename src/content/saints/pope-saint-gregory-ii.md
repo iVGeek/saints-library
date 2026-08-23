@@ -1,18 +1,21 @@
 ---
-name: "Pope Saint Gregory II"
+name: Pope Saint Gregory II
 honorific: Saint
-summary: "Involved in Church affairs from an early age. Pope Saint Sergius I ordained Gregory a sub-deacon. He served the next four popes as treasurer of the Church, then librarian. Assigned important missions. Accompanied Pope Constantine to Constantinople for discussions with Emperor Jus"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SsigregoryIIpope.jpg/960px-SsigregoryIIpope.jpg"
+summary: >-
+  Involved in Church affairs from an early age. Pope Saint Sergius I ordained Gregory a sub-deacon. He served the next
+  four popes as treasurer of the Church, then librarian. Assigned important missions. Accompanied Pope Constantine to
+  Constantinople for discussions with Emperor Jus
+image: https://commons.wikimedia.org/wiki/Special:FilePath/SsigregoryIIpope.jpg?width=600
 searchAliases:
-  - "Gregory the Younger"
-  - "Gregory Junior"
+  - Gregory the Younger
+  - Gregory Junior
 birthYear: 669
 deathYear: 731
-born: "669 at Rome, Italy"
-died: "11 February 731 at Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Germany"
+born: 669 at Rome, Italy
+died: 11 February 731 at Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Germany
 feastDay:
   month: 2
   day: 11
@@ -23,7 +26,7 @@ vocation:
   - Deacon
   - Missionary
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

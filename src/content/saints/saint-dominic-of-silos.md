@@ -1,18 +1,22 @@
 ---
-name: "Saint Dominic of Silos"
+name: Saint Dominic of Silos
 honorific: Saint
-summary: "Born to a peasant family, he worked as a shepherd in his youth. Benedictine monk at San Mill&aacute;n de Cogolla monastery. Priest. Novice master. Prior of the house. Ordered by King Garcia III of Navarre to give him the monastery's lands, Dominic refused, and with two of his bro"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg/960px-Santo_Domingo_de_Silos_entronizado_como_obispo%2C_por_Bartolom%C3%A9_Bermejo.jpg"
+summary: >-
+  Born to a peasant family, he worked as a shepherd in his youth. Benedictine monk at San Mill&aacute;n de Cogolla
+  monastery. Priest. Novice master. Prior of the house. Ordered by King Garcia III of Navarre to give him the
+  monastery's lands, Dominic refused, and with two of his bro
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Santo_Domingo_de_Silos_entronizado_como_obispo%252C_por_Bartolom%25C3%25A9_Bermejo.jpg?width=600
 searchAliases:
-  - "Dominic of Sylo"
-  - "Domingo"
+  - Dominic of Sylo
+  - Domingo
 birthYear: 1000
 deathYear: 1073
-born: "1000 in Cañas (modern Rioja), Navarre, Spain"
-died: "10 December 1073 in Silos, Spain of natural causes"
-birthPlace: "Navarre, Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 1000 in Cañas (modern Rioja), Navarre, Spain
+died: 10 December 1073 in Silos, Spain of natural causes
+birthPlace: Navarre, Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 12
   day: 20
@@ -21,16 +25,16 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against hydrophobia"
-  - "against insects"
-  - "against mad dogs"
-  - "against rabies"
-  - "captives"
-  - "pregnant women"
-  - "prisoners"
-  - "shepherds"
+  - against hydrophobia
+  - against insects
+  - against mad dogs
+  - against rabies
+  - captives
+  - pregnant women
+  - prisoners
+  - shepherds
 martyr: false
 ---
 

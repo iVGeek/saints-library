@@ -1,17 +1,21 @@
 ---
-name: "Blessed Pope Benedict XI"
+name: Blessed Pope Benedict XI
 honorific: Blessed
-summary: "Joined the Dominicans when a young man. Ninth Master-General of his Order in 1296. Arranged an armistice between Philip IV of France and Edward I of England. Created Cardinal-Bishop of Ostia, Italy by Pope Boniface VIII. Papal legate. Defended Pope Boniface VIII against William o"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lorenzo_maitani_%28attr.%29%2C_monumento_di_benedetto_XI%2C_1305_circa%2C_05%28rotated%29%28cropped%29.jpg/960px-Lorenzo_maitani_%28attr.%29%2C_monumento_di_benedetto_XI%2C_1305_circa%2C_05%28rotated%29%28cropped%29.jpg"
+summary: >-
+  Joined the Dominicans when a young man. Ninth Master-General of his Order in 1296. Arranged an armistice between
+  Philip IV of France and Edward I of England. Created Cardinal-Bishop of Ostia, Italy by Pope Boniface VIII. Papal
+  legate. Defended Pope Boniface VIII against William o
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_maitani_%2528attr.%2529%252C_monumento_di_benedetto_XI%252C_1305_circa%252C_05%2528rotated%2529%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Niccolò Boccasini"
+  - Niccolò Boccasini
 birthYear: 1240
 deathYear: 1304
-born: "1240 at Treviso, Italy as Niccolo Boccasini"
-died: "7 July 1304 at Perugia, Italy of natural causes"
-birthPlace: "Italy as Niccolo Boccasini"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 1240 at Treviso, Italy as Niccolo Boccasini
+died: 7 July 1304 at Perugia, Italy of natural causes
+birthPlace: Italy as Niccolo Boccasini
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 7
   day: 7
@@ -20,9 +24,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Perugia, Italy"
+  - Perugia, Italy
 martyr: false
 ---
 

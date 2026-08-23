@@ -1,15 +1,18 @@
 ---
-name: "Blessed Berardo dei Marsi"
+name: Blessed Berardo dei Marsi
 honorific: Blessed
-summary: "Born to the Italian nobilty, the son of Count Berardo and Countess Theodosia of Carsoli, Italy; great-uncle of Saint Rosalia. At age seven he was sent to study with the canons of the cathedral of Santa Sabina dei Marsi. Studied at Monte Cassino Abbey from 1095 through 1102. Chose"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Berardo_dei_Marsi_busto_Celano_%28cropped%29.jpg/960px-Berardo_dei_Marsi_busto_Celano_%28cropped%29.jpg"
+summary: >-
+  Born to the Italian nobilty, the son of Count Berardo and Countess Theodosia of Carsoli, Italy; great-uncle of Saint
+  Rosalia. At age seven he was sent to study with the canons of the cathedral of Santa Sabina dei Marsi. Studied at
+  Monte Cassino Abbey from 1095 through 1102. Chose
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Berardo_dei_Marsi_busto_Celano_%2528cropped%2529.jpg?width=600
 birthYear: 1079
 deathYear: 1130
-born: "1079 in Colli di Monte Bove, Italy"
-died: "3 November 1130 in San Benedetto dei Marsi, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1079 in Colli di Monte Bove, Italy
+died: 3 November 1130 in San Benedetto dei Marsi, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 3
@@ -18,7 +21,7 @@ vocation:
   - Bishop
   - Cardinal
 patronage:
-  - "Avezzano, Italy, diocese of"
+  - Avezzano, Italy, diocese of
 martyr: false
 ---
 

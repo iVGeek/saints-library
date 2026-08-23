@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint Siricius"
+name: Pope Saint Siricius
 honorific: Saint
-summary: "Son of Tiburtius. Lector. Deacon. Friend of Saint Ambrose of Milan. Unanimously elected 38th pope in 384. He was opposed by the anti-pope Ursinus, but the pretender could not get any support, and nothing came of it. Expanded papal power and authority, decreeing that any papal doc"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png/960px-Pormenor_do_Ret%C3%A1bulo_de_Santa_Auta_%28Papa_Cir%C3%ADaco_Aben%C3%A7oa_Santa_Auta_e_o_Pr%C3%ADncipe_Conan%29%2C_Museu_Nacional_de_Arte_Antiga.png"
+summary: >-
+  Son of Tiburtius. Lector. Deacon. Friend of Saint Ambrose of Milan. Unanimously elected 38th pope in 384. He was
+  opposed by the anti-pope Ursinus, but the pretender could not get any support, and nothing came of it. Expanded papal
+  power and authority, decreeing that any papal doc
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Pormenor_do_Ret%25C3%25A1bulo_de_Santa_Auta_%2528Papa_Cir%25C3%25ADaco_Aben%25C3%25A7oa_Santa_Auta_e_o_Pr%25C3%25ADncipe_Conan%2529%252C_Museu_Nacional_de_Arte_Antiga.png?width=600
 birthYear: 334
 deathYear: 399
-born: "c.334 at Rome, Italy"
-died: "26 November 399 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: c.334 at Rome, Italy
+died: 26 November 399 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 26

@@ -1,22 +1,22 @@
 ---
-name: "Saint Herbot"
+name: Saint Herbot
 honorific: Saint
-summary: " &bull; Herbot's reputation for holiness and his skill as a preacher attracted many would-be spiritual students, including the men of nearby villages. Hermit in the forests in the region of Berrien and Huelgoat in Brittany about whom little history but many legends have survived."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Saint_Herbot_%28Pleyben%29.JPG/960px-Saint_Herbot_%28Pleyben%29.JPG"
+summary: ' &bull; Herbot''s reputation for holiness and his skill as a preacher attracted many would-be spiritual students, including the men of nearby villages. Hermit in the forests in the region of Berrien and Huelgoat in Brittany about whom little history but many legends have survived.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Herbot_%2528Pleyben%2529.JPG?width=600
 searchAliases:
-  - "Erbaud"
-  - "Haribald"
-  - "Herbaudi"
-  - "Herbaut"
-  - "Herblon"
-  - "Herbod"
-  - "Herboth"
-  - "Herbuald"
-  - "Hermelan"
-born: "unknown Celtic area of Great Britain"
-died: "buried in the village of Saint-Herbot (part of modern Plonévez-du-Faou), France"
-deathPlace: "France"
-region: "France"
+  - Erbaud
+  - Haribald
+  - Herbaudi
+  - Herbaut
+  - Herblon
+  - Herbod
+  - Herboth
+  - Herbuald
+  - Hermelan
+born: unknown Celtic area of Great Britain
+died: buried in the village of Saint-Herbot (part of modern Plonévez-du-Faou), France
+deathPlace: France
+region: France
 feastDay:
   month: 6
   day: 17
@@ -24,12 +24,15 @@ canonizationStatus: Saint
 vocation:
   - Hermit
 patronage:
-  - "cattle"
-  - "horned animals"
-  - "–"
-  - "in France\n\nBrittany"
-  - "Finistère"
-  - "Plonévez-du-Faou"
+  - cattle
+  - horned animals
+  - –
+  - |-
+    in France
+
+    Brittany
+  - Finistère
+  - Plonévez-du-Faou
 martyr: false
 ---
 

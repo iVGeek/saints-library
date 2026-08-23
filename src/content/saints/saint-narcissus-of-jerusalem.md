@@ -1,12 +1,16 @@
 ---
-name: "Saint Narcissus of Jerusalem"
+name: Saint Narcissus of Jerusalem
 honorific: Saint
-summary: "Bishop of Jerusalem, consecrated c.180 when he was already an old man. Late in life, he was accused of a crime. None of the Christians in his diocese believed it, but Narcissus did not believe he should serve after being under such a cloud, and he became a desert hermit. After a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg/960px-B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg"
+summary: >-
+  Bishop of Jerusalem, consecrated c.180 when he was already an old man. Late in life, he was accused of a crime. None
+  of the Christians in his diocese believed it, but Narcissus did not believe he should serve after being under such a
+  cloud, and he became a desert hermit. After a
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/B%25C3%25A9n%25C3%25A9vent-l%25E2%2580%2599Abbaye_Saint-Barth%25C3%25A9l%25C3%25A9my_Vitrail_Narcissus_of_Jerusalem_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Narciso"
-born: "99"
-region: "Holy Land"
+  - Narciso
+born: '99'
+region: Holy Land
 feastDay:
   month: 10
   day: 29
@@ -16,9 +20,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against insect bites"
+  - against insect bites
 martyr: false
 ---
 

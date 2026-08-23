@@ -1,21 +1,25 @@
 ---
-name: "Saint Joseph Marello"
+name: Saint Joseph Marello
 honorific: Venerable
-summary: "Son of Vincenzo and Anna Maria Marello. His mother died when Joseph was very young, and the family moved from Turin to Santi Martino Alfieri. Entered the seminary at age 12. Contracted typhus at age 19; promised Our Lady that if he survived, he would continue his studies to be or"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Giuseppe_Marello_01.jpg/960px-Giuseppe_Marello_01.jpg"
+summary: >-
+  Son of Vincenzo and Anna Maria Marello. His mother died when Joseph was very young, and the family moved from Turin to
+  Santi Martino Alfieri. Entered the seminary at age 12. Contracted typhus at age 19; promised Our Lady that if he
+  survived, he would continue his studies to be or
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Marello_01.jpg?width=600
 searchAliases:
-  - "Giuseppe Marello"
+  - Giuseppe Marello
 birthYear: 1844
 deathYear: 1895
-born: "26 December 1844 at Turin, Italy"
-died: "30 May 1895 of cerebral hemorrhage at Savona, Italy"
-birthPlace: "Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: 26 December 1844 at Turin, Italy
+died: 30 May 1895 of cerebral hemorrhage at Savona, Italy
+birthPlace: Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 30
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin

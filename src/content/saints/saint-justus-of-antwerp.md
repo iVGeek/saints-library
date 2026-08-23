@@ -1,18 +1,18 @@
 ---
-name: "Saint Justus of Antwerp"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg/960px-Gent%2C_Justus_van_-_Aristotle_-_c._1476.jpg"
+name: Saint Justus of Antwerp
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Gent%252C_Justus_van_-_Aristotle_-_c._1476.jpg?width=600
 honorific: Saint
-summary: "Martyr."
-died: "2nd century Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyr.
+died: 2nd century Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 1
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
 ---
 

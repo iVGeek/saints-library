@@ -1,14 +1,19 @@
 ---
-name: "Saint Lucius of Chur"
+name: Saint Lucius of Chur
 honorific: Saint
-summary: "Second century king or chieftain in the British Isles. Wrote to Pope Saint Eleuterus c.180 to ask for missionaries. Bede says that evangelists were sent, and had great success in the south and west of Britain and Wales. Helped found the dioceses of London, England, and Llandaff,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/St._Maria_und_Michael_Altarblatt_Hochaltar.jpg/960px-St._Maria_und_Michael_Altarblatt_Hochaltar.jpg"
+summary: >-
+  Second century king or chieftain in the British Isles. Wrote to Pope Saint Eleuterus c.180 to ask for missionaries.
+  Bede says that evangelists were sent, and had great success in the south and west of Britain and Wales. Helped found
+  the dioceses of London, England, and Llandaff,
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St._Maria_und_Michael_Altarblatt_Hochaltar.jpg?width=600
 searchAliases:
-  - "Lucius Curiensis\nLuzi…"
-  - "Luzius…"
+  - |-
+    Lucius Curiensis
+    Luzi…
+  - Luzius…
 deathYear: 200
-died: "c.200 of natural events"
-region: "England"
+died: c.200 of natural events
+region: England
 feastDay:
   month: 12
   day: 3
@@ -18,12 +23,12 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - "Liechtenstein"
-  - "–"
-  - "Chur, Switzerland, city of"
-  - "Chur, Switzerland, diocese of"
-  - "Llandaff, Wales"
-  - "Vaduz, Liechtenstein, diocese of"
+  - Liechtenstein
+  - –
+  - Chur, Switzerland, city of
+  - Chur, Switzerland, diocese of
+  - Llandaff, Wales
+  - Vaduz, Liechtenstein, diocese of
 martyr: false
 ---
 

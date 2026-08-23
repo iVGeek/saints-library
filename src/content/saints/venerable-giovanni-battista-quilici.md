@@ -1,24 +1,30 @@
 ---
-name: "Venerable Giovanni Battista Quilici"
+name: Venerable Giovanni Battista Quilici
 honorific: Venerable
-summary: "His childhood home had an attached potter's work shop. Educated by the Barnabites, Dominicans and the priests of the cathedral of Livorno, Italy. He early felt a call to religious life, but the suppression of the Dominicans by the Napoleonic invasions interrupted his plans, and h"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Don_Giovanni_Battista_Quilici_-_pitt._Giuseppe_Baldini.jpg/960px-Don_Giovanni_Battista_Quilici_-_pitt._Giuseppe_Baldini.jpg"
+summary: >-
+  His childhood home had an attached potter's work shop. Educated by the Barnabites, Dominicans and the priests of the
+  cathedral of Livorno, Italy. He early felt a call to religious life, but the suppression of the Dominicans by the
+  Napoleonic invasions interrupted his plans, and h
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Don_Giovanni_Battista_Quilici_-_pitt._Giuseppe_Baldini.jpg?width=600
 birthYear: 1791
 deathYear: 1844
-born: "26 April 1791 in Livorno, Italy"
-died: "feast of Corpus Christi, 10 June1844 in Livorno, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "10 June1844Livorno, Italy of natural causes"
-region: "Italy"
+born: 26 April 1791 in Livorno, Italy
+died: feast of Corpus Christi, 10 June1844 in Livorno, Italy of natural causes
+birthPlace: Italy
+deathPlace: 10 June1844Livorno, Italy of natural causes
+region: Italy
 feastDay:
   month: 4
   day: 13
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
 ---
 

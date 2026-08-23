@@ -2,8 +2,10 @@
 name: Agnes of Rome
 honorific: Saint
 title: Virgin, Martyr
-summary: A Roman girl of thirteen who chose martyrdom rather than deny Christ — one of the most beloved virgin martyrs of the early Church, remembered in the canon of the Mass.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2872-saint-agnes-domenichino.jpg/330px-2872-saint-agnes-domenichino.jpg
+summary: >-
+  A Roman girl of thirteen who chose martyrdom rather than deny Christ — one of the most beloved virgin martyrs of the
+  early Church, remembered in the canon of the Mass.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/2872-saint-agnes-domenichino.jpg?width=600
 imageAlt: Portrait of Agnes of Rome
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,9 @@ died: c. 304
 birthPlace: Rome, Italy
 deathPlace: Rome, Italy
 region: Italy
-centuries: [3, 4]
+centuries:
+  - 3
+  - 4
 feastDay:
   month: 1
   day: 21
@@ -42,33 +46,30 @@ symbols:
   - White robe
 martyr: true
 lifeEvents:
-  - year: "c. 291"
+  - year: c. 291
     event: Born in Rome to a Christian family of the patrician class.
-  - year: "c. 303–304"
+  - year: c. 303–304
     event: During the persecution of Diocletian, refuses marriage and the demands of the proconsul.
-  - year: "c. 304"
+  - year: c. 304
     event: Condemned; the sword takes her life at about thirteen years of age.
-  - year: "304–313"
+  - year: 304–313
     event: Buried on the Via Nomentana; venerated at her tomb from the earliest days of the peace of the Church.
-  - year: "c. 350"
+  - year: c. 350
     event: Constantina, daughter of Constantine, builds the basilica over her tomb.
-  - year: "Tradition"
+  - year: Tradition
     event: Each 21 January, lambs are blessed at her basilica; their wool is woven into the pallia of new archbishops.
 quotes:
-  - text: >-
-      I am espoused to Him whom the angels serve, whose beauty the sun and moon admire.
+  - text: I am espoused to Him whom the angels serve, whose beauty the sun and moon admire.
     source: Attributed to Saint Agnes at her trial
-  - text: >-
-      Christ made my soul beautiful with His own jewels, and set His seal upon my brow.
+  - text: Christ made my soul beautiful with His own jewels, and set His seal upon my brow.
     source: Attributed to Saint Agnes
 prayers:
   - name: Prayer to Saint Agnes
     kind: Traditional prayer of purity
     text: >-
-      O Saint Agnes, virgin and martyr, you gave your life for love of the Lamb. Obtain for us
-      courage to be faithful to Christ in all things, purity of heart and body, and the joy of
-      those who suffer for His name. As you shine with the brilliance of a lamb, may our lives
-      reflect the light of the Lamb of God. Amen.
+      O Saint Agnes, virgin and martyr, you gave your life for love of the Lamb. Obtain for us courage to be faithful to
+      Christ in all things, purity of heart and body, and the joy of those who suffer for His name. As you shine with
+      the brilliance of a lamb, may our lives reflect the light of the Lamb of God. Amen.
 relatedSaints:
   - name: Joan of Arc
     slug: joan-of-arc

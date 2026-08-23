@@ -1,15 +1,18 @@
 ---
-name: "Blessed Maria Repetto"
+name: Blessed Maria Repetto
 honorific: Blessed
-summary: "Daughter of a notary, and the oldest of eleven children. It was a pious family - three of her sisters became nuns, one brother a priest. Maria joined the Daughters of Our Lady of Refuge (Brignolines) in Genoa, Italy on 7 May 1829, making her final vows in 1831. Seamstress and emb"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Voltaggio_5.JPG/960px-Voltaggio_5.JPG"
+summary: >-
+  Daughter of a notary, and the oldest of eleven children. It was a pious family - three of her sisters became nuns, one
+  brother a priest. Maria joined the Daughters of Our Lady of Refuge (Brignolines) in Genoa, Italy on 7 May 1829, making
+  her final vows in 1831. Seamstress and emb
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Voltaggio_5.JPG?width=600
 birthYear: 1807
 deathYear: 1890
-born: "1 November 1807 at Voltaggio, Italy"
-died: "6 January 1890 at Genoa, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1 November 1807 at Voltaggio, Italy
+died: 6 January 1890 at Genoa, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 5

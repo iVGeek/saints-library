@@ -2,8 +2,11 @@
 name: Saint Brigid of Ireland
 honorific: Saint
 title: St. Brigid of Ireland
-summary: "Daughter of Dubtach, pagan Scottish king of Leinster, and Brocca, a Christian Pictish slave who had been baptized by Saint Patrick. Just before Brigid’s birth, her mother was sold to a Druid landowner..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg/330px-Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg"
+summary: >-
+  Daughter of Dubtach, pagan Scottish king of Leinster, and Brocca, a Christian Pictish slave who had been baptized by
+  Saint Patrick. Just before Brigid’s birth, her mother was sold to a Druid landowner...
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg?width=600
 imageAlt: Portrait of Saint Brigid of Ireland
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -12,9 +15,10 @@ searchAliases:
   - Brigid of the Isles
   - Bride&#8230;
 birthYear: 1185
-born: "1185"
-birthPlace: "Kildare"
-centuries: [12]
+born: '1185'
+birthPlace: Kildare
+centuries:
+  - 12
 feastDay:
   month: 2
   day: 1
@@ -34,7 +38,7 @@ symbols:
   - holding a cross with a flame over her head
 martyr: false
 lifeEvents:
-  - year: "1185"
+  - year: '1185'
     event: Born at Kildare.
 ---
 

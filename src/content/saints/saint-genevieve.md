@@ -2,16 +2,19 @@
 name: Saint Genevieve
 honorific: Saint
 title: St. Genevieve
-summary: "When she was seven years old, Genevieve met Saint Germanus of Auxerre on his way to England. Germain befriended her because of her insistence on wanting to live her life for God, and prophesied her fu..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/StGenevieve.jpg/960px-StGenevieve.jpg"
+summary: >-
+  When she was seven years old, Genevieve met Saint Germanus of Auxerre on his way to England. Germain befriended her
+  because of her insistence on wanting to live her life for God, and prophesied her fu...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/StGenevieve.jpg?width=600
 imageAlt: Portrait of Saint Genevieve
 imageCredit: Wikimedia Commons
 searchAliases:
   - Genovefa
 birthYear: 1871
-born: "1871"
-birthPlace: "Paris"
-centuries: [19]
+born: '1871'
+birthPlace: Paris
+centuries:
+  - 19
 feastDay:
   month: 1
   day: 3
@@ -31,7 +34,7 @@ symbols:
   - cattle
 martyr: false
 lifeEvents:
-  - year: "1871"
+  - year: '1871'
     event: Born at Paris.
 ---
 

@@ -1,18 +1,22 @@
 ---
-name: "Saint Thomas the Apostle"
+name: Saint Thomas the Apostle
 honorific: Saint
-summary: "Apostle. He was ready to die with Jesus when Christ went to Jerusalem, but is best remembered for doubting the Resurrection until allowed to touch Christ's wounds. Preached in Parthia, Persia and India, though he was so reluctant to start the mission that he had to be taken into"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg/960px-Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg"
+summary: >-
+  Apostle. He was ready to die with Jesus when Christ went to Jerusalem, but is best remembered for doubting the
+  Resurrection until allowed to touch Christ's wounds. Preached in Parthia, Persia and India, though he was so reluctant
+  to start the mission that he had to be taken into
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%252C_Italy.jpg?width=600
 searchAliases:
-  - "Apostle of India"
-  - "Didymus"
-  - "Doubting Thomas"
-  - "Judas Thomas"
-  - "the Twin"
-  - "Tomaso"
-died: "stabbed with a spear c.72 in while in prayer on a hill in Mylapur, India"
-deathPlace: "India"
-region: "India"
+  - Apostle of India
+  - Didymus
+  - Doubting Thomas
+  - Judas Thomas
+  - the Twin
+  - Tomaso
+died: stabbed with a spear c.72 in while in prayer on a hill in Mylapur, India
+deathPlace: India
+region: India
 feastDay:
   month: 7
   day: 3
@@ -20,34 +24,39 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against blindness"
-  - "against doubt"
-  - "architects"
-  - "artists"
-  - "blind people"
-  - "builders"
-  - "construction workers"
-  - "geometricians"
-  - "masons"
-  - "people in doubt"
-  - "stone masons"
-  - "stonecutters"
-  - "surveyors"
-  - "theologians\n–"
-  - "Ceylon"
-  - "East Indies"
-  - "India"
-  - "Indonesia"
-  - "Malaysia"
-  - "Pakistan"
-  - "Singapore"
-  - "Sri Lanka"
-  - "Saint Thomas the Apostle of Melbourne, Syro-Malabar diocese of"
-  - "in India\n\nBathery, India, diocese of"
-  - "Belthangady, diocese of"
-  - "Kottapuram, diocese of"
+  - against blindness
+  - against doubt
+  - architects
+  - artists
+  - blind people
+  - builders
+  - construction workers
+  - geometricians
+  - masons
+  - people in doubt
+  - stone masons
+  - stonecutters
+  - surveyors
+  - |-
+    theologians
+    –
+  - Ceylon
+  - East Indies
+  - India
+  - Indonesia
+  - Malaysia
+  - Pakistan
+  - Singapore
+  - Sri Lanka
+  - Saint Thomas the Apostle of Melbourne, Syro-Malabar diocese of
+  - |-
+    in India
+
+    Bathery, India, diocese of
+  - Belthangady, diocese of
+  - Kottapuram, diocese of
 martyr: true
 ---
 

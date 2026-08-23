@@ -1,13 +1,13 @@
 ---
-name: "Saint Socrates"
+name: Saint Socrates
 honorific: Saint
-summary: "Early martyr venerated in England. No other information has survived."
-region: "England"
+summary: Early martyr venerated in England. No other information has survived.
+region: England
 feastDay:
   month: 9
   day: 17
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/960px-Socrates_Louvre.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Socrates_Louvre.jpg?width=600
 vocation:
   - Priest
   - Monk

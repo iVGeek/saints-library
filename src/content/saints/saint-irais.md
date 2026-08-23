@@ -1,19 +1,19 @@
 ---
-name: "Saint Irais"
+name: Saint Irais
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Herais"
-  - "Rhais"
+  - Herais
+  - Rhais
 deathYear: 300
-born: "Egyptian"
-died: "beheaded c.300"
-region: "England"
+born: Egyptian
+died: beheaded c.300
+region: England
 feastDay:
   month: 9
   day: 22
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Irais_%C3%A9glise_1.JPG/960px-Irais_%C3%A9glise_1.JPG"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Irais_%25C3%25A9glise_1.JPG?width=600
 vocation:
   - Monk
 martyr: true

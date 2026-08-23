@@ -1,25 +1,31 @@
 ---
-name: "Pope Saint Marcellus I"
+name: Pope Saint Marcellus I
 honorific: Saint
-summary: "Nothing of his life before the papacy has survived the centuries. Pope at the end of the persecutions of Diocletian; the persecutions had so disrupted the Church that there had been a gap of over a year with no Pope. Faced reconsituting the clergy which had been decimated and who"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Roma-sanmarcelloalcorso2.jpg/960px-Roma-sanmarcelloalcorso2.jpg"
+summary: >-
+  Nothing of his life before the papacy has survived the centuries. Pope at the end of the persecutions of Diocletian;
+  the persecutions had so disrupted the Church that there had been a gap of over a year with no Pope. Faced
+  reconsituting the clergy which had been decimated and who
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Roma-sanmarcelloalcorso2.jpg?width=600
 searchAliases:
-  - "Marcel"
-  - "Marcelo"
+  - Marcel
+  - Marcelo
 deathYear: 309
-died: "309"
-region: "Italy"
+died: '309'
+region: Italy
 feastDay:
   month: 1
   day: 16
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "horses"
-  - "stablemen"
-  - "–"
-  - "in Italy\n\nAnversa degli Abruzzi"
-  - "Montemarzo di Asti"
+  - horses
+  - stablemen
+  - –
+  - |-
+    in Italy
+
+    Anversa degli Abruzzi
+  - Montemarzo di Asti
 martyr: true
 ---
 

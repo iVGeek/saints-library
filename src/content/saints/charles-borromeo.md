@@ -2,8 +2,10 @@
 name: Charles Borromeo
 honorific: Saint
 title: Cardinal, Bishop
-summary: Archbishop of Milan and engine of the Catholic Reformation — the cardinal who wrote catechisms, built seminaries, and reorganized a whole diocese on foot.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/330px-Carlo_Borromeo.jpg
+summary: >-
+  Archbishop of Milan and engine of the Catholic Reformation — the cardinal who wrote catechisms, built seminaries, and
+  reorganized a whole diocese on foot.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Borromeo.jpg?width=600
 imageAlt: Portrait of Charles Borromeo
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,8 @@ died: 3 November 1584
 birthPlace: Arona, Italy
 deathPlace: Milan, Italy
 region: Italy
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 11
   day: 4
@@ -40,32 +43,34 @@ symbols:
   - Pastoral staff
 martyr: false
 lifeEvents:
-  - year: "2 October 1538"
+  - year: 2 October 1538
     event: Born at Arona, son of a noble Milanese family.
-  - year: "1559"
+  - year: '1559'
     event: Called to Rome by his uncle, Pope Pius IV, and made a cardinal at twenty-two.
-  - year: "1560"
-    event: Appointed archbishop of Milan and secretary of state; plays a central role in the final sessions of the Council of Trent.
-  - year: "1564–1584"
+  - year: '1560'
+    event: >-
+      Appointed archbishop of Milan and secretary of state; plays a central role in the final sessions of the Council of
+      Trent.
+  - year: 1564–1584
     event: Returns to Milan to govern his diocese; reforms clergy, founds seminaries, writes the catechisms.
-  - year: "1576"
+  - year: '1576'
     event: During the plague of Milan, organizes the care of the dying and spends himself among the sick.
-  - year: "3 November 1584"
+  - year: 3 November 1584
     event: Dies at Milan at forty-six.
-  - year: "1 November 1610"
+  - year: 1 November 1610
     event: Canonized by Pope Paul V.
 quotes:
   - text: >-
-      Be sure that you first preach by the way you live. If you do not, people will notice that you preach one thing and live another.
+      Be sure that you first preach by the way you live. If you do not, people will notice that you preach one thing and
+      live another.
     source: From the pastoral letters of Saint Charles Borromeo
 prayers:
   - name: Prayer to Saint Charles Borromeo
     kind: Prayer for bishops, priests, and catechists
     text: >-
-      O Saint Charles Borromeo, model pastor of the Church, teach those who shepherd your people
-      to lead first by their lives. Strengthen bishops, priests, and catechists in zeal and
-      humility; give seminarians the courage to answer; and renew in every parish the fervor
-      you brought to Milan. Amen.
+      O Saint Charles Borromeo, model pastor of the Church, teach those who shepherd your people to lead first by their
+      lives. Strengthen bishops, priests, and catechists in zeal and humility; give seminarians the courage to answer;
+      and renew in every parish the fervor you brought to Milan. Amen.
 relatedSaints:
   - name: Ambrose of Milan
     slug: ambrose-of-milan

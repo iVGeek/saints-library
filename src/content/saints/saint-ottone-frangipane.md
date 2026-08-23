@@ -1,19 +1,23 @@
 ---
-name: "Saint Ottone Frangipane"
+name: Saint Ottone Frangipane
 honorific: Saint
-summary: "Born to the Italian nobility, he became a knight and fought in defense in the pope in the area of Frascati, Italy. Captured on the field, he was imprisoned in a tower until he prayed for the intercession Saint Leonard of Noblac and received miraculous assistance in escape. Pilgri"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg/960px-Memorie_di_S._Ottone_Eremita%2C_protettor_principale_della_citt%C3%A0_e_diocesi_di_Ariano_%281780%29_%2814777069002%29.jpg"
+summary: >-
+  Born to the Italian nobility, he became a knight and fought in defense in the pope in the area of Frascati, Italy.
+  Captured on the field, he was imprisoned in a tower until he prayed for the intercession Saint Leonard of Noblac and
+  received miraculous assistance in escape. Pilgri
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Memorie_di_S._Ottone_Eremita%252C_protettor_principale_della_citt%25C3%25A0_e_diocesi_di_Ariano_%25281780%2529_%252814777069002%2529.jpg?width=600
 searchAliases:
-  - "Oddone"
-  - "Oto"
-  - "Otto"
+  - Oddone
+  - Oto
+  - Otto
 birthYear: 1040
 deathYear: 1127
-born: "1040 in Rome, Italy"
-died: "23 March 1127 in Ariano Irpino, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1040 in Rome, Italy
+died: 23 March 1127 in Ariano Irpino, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 3
   day: 23
@@ -22,11 +26,11 @@ vocation:
   - Monk
   - Hermit
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Ariano Irpino, Italy, city of"
-  - "Ariano Irpino-Lacedonia, Italy, diocese of"
-  - "Castelbottaccio, Italy"
+  - Ariano Irpino, Italy, city of
+  - Ariano Irpino-Lacedonia, Italy, diocese of
+  - Castelbottaccio, Italy
 martyr: false
 ---
 

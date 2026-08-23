@@ -1,11 +1,14 @@
 ---
-name: "Our Lady of Walsingham"
+name: Our Lady of Walsingham
 honorific: Saint
-summary: "In 1061 Lady Richeldis de Faverches, lady of the manor near the village of Walsingham, Norfolk, England, was taken in spirit to Nazareth. There Our Lady asked her to build a replica, in Norfolk, of the Holy House where she had been born, grew up, and received the Annunciation of"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Our_Lady_of_Walsingham_III.JPG/960px-Our_Lady_of_Walsingham_III.JPG"
+summary: >-
+  In 1061 Lady Richeldis de Faverches, lady of the manor near the village of Walsingham, Norfolk, England, was taken in
+  spirit to Nazareth. There Our Lady asked her to build a replica, in Norfolk, of the Holy House where she had been
+  born, grew up, and received the Annunciation of
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Our_Lady_of_Walsingham_III.JPG?width=600
 searchAliases:
-  - "Virgin by the Sea"
-region: "England"
+  - Virgin by the Sea
+region: England
 feastDay:
   month: 9
   day: 24
@@ -13,12 +16,15 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "England"
-  - "–"
-  - "in England\n\nEast Anglia"
-  - "East Anglia, diocese of"
+  - England
+  - –
+  - |-
+    in England
+
+    East Anglia
+  - East Anglia, diocese of
 martyr: true
 ---
 

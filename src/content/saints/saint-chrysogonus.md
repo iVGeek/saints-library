@@ -1,15 +1,19 @@
 ---
-name: "Saint Chrysogonus"
+name: Saint Chrysogonus
 honorific: Saint
-summary: "Priest. Functionary of the vicarius Urbis. Christian teacher of Saint Anastasia of Sirmium, the daughter of the Roman noble Praetextatus. Thrown into prison during the persecution of Diocletian, he comforted Anastasia by his letters. Martyred under Diocletian."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/San_Trovaso_%28Venice%29_-_San_Cris%C3%B3gono_a_caballo_-_Michele_Giambono.jpg/960px-San_Trovaso_%28Venice%29_-_San_Cris%C3%B3gono_a_caballo_-_Michele_Giambono.jpg"
+summary: >-
+  Priest. Functionary of the vicarius Urbis. Christian teacher of Saint Anastasia of Sirmium, the daughter of the Roman
+  noble Praetextatus. Thrown into prison during the persecution of Diocletian, he comforted Anastasia by his letters.
+  Martyred under Diocletian.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/San_Trovaso_%2528Venice%2529_-_San_Cris%25C3%25B3gono_a_caballo_-_Michele_Giambono.jpg?width=600
 searchAliases:
-  - "Crisogono"
-  - "Grisogono"
+  - Crisogono
+  - Grisogono
 deathYear: 304
-died: "beheaded on 23 November 304 at Aquileia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded on 23 November 304 at Aquileia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 24
@@ -18,7 +22,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Venice, Italy"
+  - Venice, Italy
 martyr: true
 ---
 

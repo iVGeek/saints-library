@@ -2,8 +2,10 @@
 name: Augustine of Hippo
 honorific: Saint
 title: Bishop, Doctor of the Church
-summary: The restless heart of North Africa who found in God the answer to his search; bishop of Hippo, the most influential theologian of the Western Church.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/330px-Saint_Augustine_by_Philippe_de_Champaigne.jpg
+summary: >-
+  The restless heart of North Africa who found in God the answer to his search; bishop of Hippo, the most influential
+  theologian of the Western Church.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Augustine_by_Philippe_de_Champaigne.jpg?width=600
 imageAlt: Portrait of Augustine of Hippo
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,8 +20,10 @@ born: 13 November 354
 died: 28 August 430
 birthPlace: Thagaste, North Africa
 deathPlace: Hippo, North Africa
-region: "Africa"
-centuries: [4, 5]
+region: Africa
+centuries:
+  - 4
+  - 5
 feastDay:
   month: 8
   day: 28
@@ -45,49 +49,44 @@ symbols:
   - Child with a seashell
 martyr: false
 lifeEvents:
-  - year: "354"
+  - year: '354'
     event: Born at Thagaste (Souk Ahras, Algeria), son of the pagan Patricius and the Christian Monica.
-  - year: "370–383"
+  - year: 370–383
     event: Studies rhetoric at Carthage and Rome; lives a life of intellectual and moral restlessness.
-  - year: "387"
+  - year: '387'
     event: Baptized by Saint Ambrose at Milan on Easter night; his mother Monica dies shortly after.
-  - year: "388–391"
+  - year: 388–391
     event: Returns to Africa, is ordained a priest at Hippo, and becomes bishop in 395.
-  - year: "395–430"
+  - year: 395–430
     event: Thirty-five years of preaching, writing, and defending the faith against the heresies of his age.
-  - year: "28 August 430"
+  - year: 28 August 430
     event: Dies at Hippo while the Vandals besiege the city.
-  - year: "1298"
+  - year: '1298'
     event: Declared a Doctor of the Church by Pope Boniface VIII.
 quotes:
-  - text: >-
-      You have made us for Yourself, O Lord, and our heart is restless until it rests in You.
+  - text: You have made us for Yourself, O Lord, and our heart is restless until it rests in You.
     source: Confessions, Book 1
-  - text: >-
-      Love, and do what you will.
+  - text: Love, and do what you will.
     source: Homilies on the First Epistle of John
-  - text: >-
-      Late have I loved You, O Beauty ever ancient, ever new — late have I loved You.
+  - text: Late have I loved You, O Beauty ever ancient, ever new — late have I loved You.
     source: Confessions, Book 10
 prayers:
   - name: Prayer of Saint Augustine
     kind: Traditional prayer of desire for God
     text: >-
-      Late have I loved You, O Beauty ever ancient, ever new — late have I loved You! You were
-      within me, and I was outside, and there I sought You. Draw us to Yourself, that we may
-      love You; and in loving You, find our rest at last. Amen.
-  - name: "Novena to Saint Augustine of Hippo"
-    kind: "Novena — nine-day prayer for conversion and wisdom"
+      Late have I loved You, O Beauty ever ancient, ever new — late have I loved You! You were within me, and I was
+      outside, and there I sought You. Draw us to Yourself, that we may love You; and in loving You, find our rest at
+      last. Amen.
+  - name: Novena to Saint Augustine of Hippo
+    kind: Novena — nine-day prayer for conversion and wisdom
     text: >-
-      O Saint Augustine, Doctor of Grace and patron of seekers, I turn to you in this novena
-      with a restless heart that longs for God. You who searched the world for happiness and
-      found it only in the arms of Christ, obtain for me the grace to recognize that true
-      peace is found in God alone. You who wrote that our hearts are restless until they rest
-      in Him, calm my anxieties and draw me closer to the fountain of living water. Intercede
-      for all who are wandering far from the faith, especially those I love. Grant me the
-      wisdom to study Your Word, the humility to confess my sins, and the courage to begin
-      again whenever I fall. O Augustine, whose mother Monica's tears brought you home, let
-      those tears water the soil of my own conversion and that of my family. Amen.
+      O Saint Augustine, Doctor of Grace and patron of seekers, I turn to you in this novena with a restless heart that
+      longs for God. You who searched the world for happiness and found it only in the arms of Christ, obtain for me the
+      grace to recognize that true peace is found in God alone. You who wrote that our hearts are restless until they
+      rest in Him, calm my anxieties and draw me closer to the fountain of living water. Intercede for all who are
+      wandering far from the faith, especially those I love. Grant me the wisdom to study Your Word, the humility to
+      confess my sins, and the courage to begin again whenever I fall. O Augustine, whose mother Monica's tears brought
+      you home, let those tears water the soil of my own conversion and that of my family. Amen.
 relatedSaints:
   - name: Patrick of Ireland
     slug: patrick-of-ireland

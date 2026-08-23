@@ -1,20 +1,20 @@
 ---
-name: "Saint Sandila"
+name: Saint Sandila
 honorific: Saint
-summary: "Martyred by Moors."
+summary: Martyred by Moors.
 searchAliases:
-  - "Sandalus"
-  - "Sandolus"
-  - "Sandulf"
+  - Sandalus
+  - Sandolus
+  - Sandulf
 deathYear: 855
-died: "c.855 in Cordoba, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: c.855 in Cordoba, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 3
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sandila_block_map.png/960px-Sandila_block_map.png"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sandila_block_map.png?width=600
 vocation:
   - Monk
 martyr: true

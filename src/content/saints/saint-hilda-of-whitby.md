@@ -1,16 +1,20 @@
 ---
-name: "Saint Hilda of Whitby"
+name: Saint Hilda of Whitby
 honorific: Saint
-summary: "Daughter of Hereric and Breguswith. Sister of Saint Hereswitha. Grand-niece of King Saint Edwin of Northumbria. Baptized in 627 at age thirteen by Saint Paulinus of York. Lived as a single lay woman until age 33 when she became a Benedictine nun at the monastery of Chelles in Fra"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG/330px-St_Hilda_%28Stained_glass%2C_Chester_Cathedral%29_%28cropped%29.JPG"
+summary: >-
+  Daughter of Hereric and Breguswith. Sister of Saint Hereswitha. Grand-niece of King Saint Edwin of Northumbria.
+  Baptized in 627 at age thirteen by Saint Paulinus of York. Lived as a single lay woman until age 33 when she became a
+  Benedictine nun at the monastery of Chelles in Fra
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/St_Hilda_%2528Stained_glass%252C_Chester_Cathedral%2529_%2528cropped%2529.JPG?width=600
 searchAliases:
-  - "Hild of Whitby"
+  - Hild of Whitby
 birthYear: 614
 deathYear: 680
-born: "614 at Northumbria, England"
-died: "680 of natural causes"
-birthPlace: "England"
-region: "France"
+born: 614 at Northumbria, England
+died: 680 of natural causes
+birthPlace: England
+region: France
 feastDay:
   month: 11
   day: 17
@@ -18,9 +22,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Whitby, England"
+  - Whitby, England
 martyr: false
 ---
 

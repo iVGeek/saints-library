@@ -1,30 +1,34 @@
 ---
-name: "Saint Bernardo Tolomei"
+name: Saint Bernardo Tolomei
 honorific: Saint
-summary: "Giovannni early changed his name to Bernard from admiration for Bernard of Clairvaux. Educated by his Dominican uncle. His father prevented Bernard from entering religious life. Lawyer. Theologian. Soldier. Politician and government official. Struck blind, Bernardo recovered his"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cesare_gennari_il_beato_bernardo_tolomei_by_Stefano_Bolognini.JPG/960px-Cesare_gennari_il_beato_bernardo_tolomei_by_Stefano_Bolognini.JPG"
+summary: >-
+  Giovannni early changed his name to Bernard from admiration for Bernard of Clairvaux. Educated by his Dominican uncle.
+  His father prevented Bernard from entering religious life. Lawyer. Theologian. Soldier. Politician and government
+  official. Struck blind, Bernardo recovered his
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Cesare_gennari_il_beato_bernardo_tolomei_by_Stefano_Bolognini.JPG?width=600
 searchAliases:
-  - "Bernard Ptolomei"
-  - "Bernard Tolomeo"
-  - "Giovanni Tolomeo"
+  - Bernard Ptolomei
+  - Bernard Tolomeo
+  - Giovanni Tolomeo
 birthYear: 1272
 deathYear: 1348
-born: "10 May 1272 at Siena, Tuscany as Giovanni Tolomei"
-died: "20 August 1348 in Siena, Italy of natural causes"
-birthPlace: "Tuscany as Giovanni Tolomei"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 10 May 1272 at Siena, Tuscany as Giovanni Tolomei
+died: 20 August 1348 in Siena, Italy of natural causes
+birthPlace: Tuscany as Giovanni Tolomei
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 20
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "olive growers or farmers"
-  - "Olivetans"
-  - "Siena, Italy"
+  - olive growers or farmers
+  - Olivetans
+  - Siena, Italy
 martyr: false
 ---
 

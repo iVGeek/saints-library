@@ -1,20 +1,23 @@
 ---
-name: "Saint Francis of Paola"
+name: Saint Francis of Paola
 honorific: Saint
-summary: "Francis's parents were childless for many years, but following prayers for the intercession of Saint Francis of Assisi, they had three children; Francis was the oldest. Following a pilgrimage in his teens to Rome and Assisi in Italy, he became a hermit in a cave near Paola. Befor"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg/960px-Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg"
+summary: >-
+  Francis's parents were childless for many years, but following prayers for the intercession of Saint Francis of
+  Assisi, they had three children; Francis was the oldest. Following a pilgrimage in his teens to Rome and Assisi in
+  Italy, he became a hermit in a cave near Paola. Befor
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Francis_of_Paola_by_Giovanni_Domenico_Tiepolo.jpg?width=600
 searchAliases:
-  - "Franciscus de Paula"
-  - "Francis the Fire Handler"
-  - "Francesco di Paola"
-  - "Francisco de Paula"
+  - Franciscus de Paula
+  - Francis the Fire Handler
+  - Francesco di Paola
+  - Francisco de Paula
 birthYear: 1416
 deathYear: 1507
-born: "27 March 1416 at Paola, Calabria, Kingdom of Italy (part of modern Italy)"
-died: "2 April 1507 (Good Friday) at Plessis, France of natural causes"
-birthPlace: "Calabria, KingdomItaly (part of modern Italy)"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 27 March 1416 at Paola, Calabria, Kingdom of Italy (part of modern Italy)
+died: 2 April 1507 (Good Friday) at Plessis, France of natural causes
+birthPlace: Calabria, KingdomItaly (part of modern Italy)
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 2
@@ -22,27 +25,30 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against fire"
-  - "against plague"
-  - "against sterility"
-  - "–"
-  - "boatmen"
-  - "fishermen"
-  - "hermits"
-  - "lifeguards"
-  - "mariners"
-  - "naval officers"
-  - "sailors"
-  - "travellers"
-  - "watermen"
-  - "—"
-  - "in Brazil\n\nMonte Santo de Minas"
-  - "Ouro Fino"
-  - "Pelotas"
-  - "Poço Fundo"
-  - "São Francisco de Paula"
+  - against fire
+  - against plague
+  - against sterility
+  - –
+  - boatmen
+  - fishermen
+  - hermits
+  - lifeguards
+  - mariners
+  - naval officers
+  - sailors
+  - travellers
+  - watermen
+  - —
+  - |-
+    in Brazil
+
+    Monte Santo de Minas
+  - Ouro Fino
+  - Pelotas
+  - Poço Fundo
+  - São Francisco de Paula
 martyr: false
 ---
 

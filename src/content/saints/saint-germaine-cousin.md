@@ -1,50 +1,57 @@
 ---
-name: "Saint Germaine Cousin"
+name: Saint Germaine Cousin
 honorific: Saint
-summary: "Daughter of Laurent Cousin, a farm worker, and Marie Laroche. Her mother died while Germaine was an infant. A sickly child, Germaine suffered from scrofula, and her right hand was deformed. Ignored by her father and abused by her step-family, she was often forced to sleep in the"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Eglise_Sainte-Germaine_Statue_par_Alexandre_Falgui%C3%A8re_1877.jpg/960px-Eglise_Sainte-Germaine_Statue_par_Alexandre_Falgui%C3%A8re_1877.jpg"
+summary: >-
+  Daughter of Laurent Cousin, a farm worker, and Marie Laroche. Her mother died while Germaine was an infant. A sickly
+  child, Germaine suffered from scrofula, and her right hand was deformed. Ignored by her father and abused by her
+  step-family, she was often forced to sleep in the
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Eglise_Sainte-Germaine_Statue_par_Alexandre_Falgui%25C3%25A8re_1877.jpg?width=600
 searchAliases:
-  - "Germaine of Pibrac"
-  - "Germana…"
+  - Germaine of Pibrac
+  - Germana…
 birthYear: 1579
 deathYear: 1601
-born: "1579 at Pibrac, France"
-died: "15 June 1601 in her parents' home in Pibrac, France, apparently of natural causes"
-birthPlace: "France"
-deathPlace: "France, apparentlynatural causes"
-region: "France"
+born: 1579 at Pibrac, France
+died: 15 June 1601 in her parents' home in Pibrac, France, apparently of natural causes
+birthPlace: France
+deathPlace: France, apparentlynatural causes
+region: France
 feastDay:
   month: 6
   day: 15
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "abandoned people"
-  - "abuse victims"
-  - "against bodily ills"
-  - "against illness"
-  - "against impoverishment"
-  - "against poverty"
-  - "against sickness"
-  - "child abuse victims"
-  - "disabled people"
-  - "girls from rural areas"
-  - "handicapped people"
-  - "loss of parents"
-  - "peasant girls"
-  - "physically challenged people"
-  - "poor people"
-  - "shepherdesses"
-  - "sick people"
-  - "unattractive people"
-  - "victims of abuse"
-  - "victims of child abuse"
-  - "young country girls"
-  - "–"
-  - "in France\n\nToulouse"
-  - "Pibrac"
+  - abandoned people
+  - abuse victims
+  - against bodily ills
+  - against illness
+  - against impoverishment
+  - against poverty
+  - against sickness
+  - child abuse victims
+  - disabled people
+  - girls from rural areas
+  - handicapped people
+  - loss of parents
+  - peasant girls
+  - physically challenged people
+  - poor people
+  - shepherdesses
+  - sick people
+  - unattractive people
+  - victims of abuse
+  - victims of child abuse
+  - young country girls
+  - –
+  - |-
+    in France
+
+    Toulouse
+  - Pibrac
 martyr: false
 ---
 

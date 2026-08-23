@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint Sixtus I"
+name: Pope Saint Sixtus I
 honorific: Saint
-summary: "Little known about his life before he was chosen seventh pope in 116. He concerned himself with the liturgy, and instituted elements still in use today. He decreed that only priests may touch the sacred vessels, that bishops returning from the Apostolic See to their dioceses must"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Celat%2C_chiesa_di_San_Rocco_-_Affreschi_della_sagrestia_01_-_San_Sisto%28cropped%29.jpg/960px-Celat%2C_chiesa_di_San_Rocco_-_Affreschi_della_sagrestia_01_-_San_Sisto%28cropped%29.jpg"
+summary: >-
+  Little known about his life before he was chosen seventh pope in 116. He concerned himself with the liturgy, and
+  instituted elements still in use today. He decreed that only priests may touch the sacred vessels, that bishops
+  returning from the Apostolic See to their dioceses must
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Celat%252C_chiesa_di_San_Rocco_-_Affreschi_della_sagrestia_01_-_San_Sisto%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Sisto I"
-  - "Xystus I"
-born: "Rome, Italy"
-birthPlace: "Italy"
-region: "Italy"
+  - Sisto I
+  - Xystus I
+born: Rome, Italy
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 3
@@ -17,13 +21,13 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Alife-Caiazzo, Italy, diocese of"
-  - "Anagni-Alatri, Italy, diocese of"
-  - "—"
-  - "Alatri, Italy"
-  - "Alife, Italy"
+  - Alife-Caiazzo, Italy, diocese of
+  - Anagni-Alatri, Italy, diocese of
+  - —
+  - Alatri, Italy
+  - Alife, Italy
 martyr: true
 ---
 

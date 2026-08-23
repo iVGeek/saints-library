@@ -1,17 +1,20 @@
 ---
-name: "Saint Martin of Vertou"
+name: Saint Martin of Vertou
 honorific: Saint
-summary: "Born wealthy, to a family well-known in his region. Ordained a deacon by Saint Felix. Noted for his lack of skill as a preacher. Hermit in the Dumen forest at Brittany. There his obvious sanctity attracted so many followers that he was forced found Vertou abbey near Nantes, Franc"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Blason_ville_fr_Vertou_%28Loire-Atlantique%29.svg/960px-Blason_ville_fr_Vertou_%28Loire-Atlantique%29.svg.png"
+summary: >-
+  Born wealthy, to a family well-known in his region. Ordained a deacon by Saint Felix. Noted for his lack of skill as a
+  preacher. Hermit in the Dumen forest at Brittany. There his obvious sanctity attracted so many followers that he was
+  forced found Vertou abbey near Nantes, Franc
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Vertou_%2528Loire-Atlantique%2529.svg?width=600
 searchAliases:
-  - "Apostle of the Herbauges"
+  - Apostle of the Herbauges
 birthYear: 527
 deathYear: 601
-born: "527 at Nantes, France"
-died: "601 at Durieu, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 527 at Nantes, France
+died: 601 at Durieu, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 10
   day: 24

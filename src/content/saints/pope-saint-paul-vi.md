@@ -1,27 +1,32 @@
 ---
-name: "Pope Saint Paul VI"
+name: Pope Saint Paul VI
 honorific: Venerable
-summary: "Son of a prominent newspaper editor. Ordained in Brescia, Italy on 29 May 1920, he continued his studies in Rome, Italy, and became part of the Vatican secretariat of state in 1922. One of two pro-secretaries to Pope Pius XII. Archbishop of Milan from 1954 to 1963 where he worked"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg/960px-Pope_Paul_VI_1969_Portrait_%284x5_cropped%29.jpg"
+summary: >-
+  Son of a prominent newspaper editor. Ordained in Brescia, Italy on 29 May 1920, he continued his studies in Rome,
+  Italy, and became part of the Vatican secretariat of state in 1922. One of two pro-secretaries to Pope Pius XII.
+  Archbishop of Milan from 1954 to 1963 where he worked
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pope_Paul_VI_1969_Portrait_%25284x5_cropped%2529.jpg?width=600
 searchAliases:
-  - "Giovanni Battista Montini"
+  - Giovanni Battista Montini
 birthYear: 1897
 deathYear: 1978
-born: "26 September 1897 at Concesio, Lombardy, Italy as Giovanni Battista Montini"
-died: "6 August 1978 at Castelgandolfo, Rome, Italy of natural causes"
-birthPlace: "Lombardy, Italy as Giovanni Battista Montini"
-deathPlace: "Rome, Italynatural causes"
-region: "India"
+born: 26 September 1897 at Concesio, Lombardy, Italy as Giovanni Battista Montini
+died: 6 August 1978 at Castelgandolfo, Rome, Italy of natural causes
+birthPlace: Lombardy, Italy as Giovanni Battista Montini
+deathPlace: Rome, Italynatural causes
+region: India
 feastDay:
   month: 5
   day: 29
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

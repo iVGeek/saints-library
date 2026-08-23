@@ -1,19 +1,24 @@
 ---
-name: "Saint Rafael Guízar y Valencia"
+name: Saint Rafael Guízar y Valencia
 honorific: Venerable
-summary: "One of eleven children born to Prudenzio Guizar and Natividad Valencia, wealthy and pious land owners. Ordained in 1901. Conducted missions throughout Mexico. Founded the Congregation of Missionaries of Our Lady of Hope in 1903. Apostolic missionary in 1905. Spiritual director in"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rafael_Gu%C3%ADzar_y_Valencia_%28cropped%29.jpg/960px-Rafael_Gu%C3%ADzar_y_Valencia_%28cropped%29.jpg"
+summary: >-
+  One of eleven children born to Prudenzio Guizar and Natividad Valencia, wealthy and pious land owners. Ordained in
+  1901. Conducted missions throughout Mexico. Founded the Congregation of Missionaries of Our Lady of Hope in 1903.
+  Apostolic missionary in 1905. Spiritual director in
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Rafael_Gu%25C3%25ADzar_y_Valencia_%2528cropped%2529.jpg?width=600
 birthYear: 1877
 deathYear: 1938
-born: "26 April 1877 at Cotija, Michoacan, Mexico"
-died: "6 June 1938 in Mexico City, Mexico of natural causes"
-birthPlace: "Michoacan, Mexico"
-deathPlace: "Mexiconatural causes"
-region: "Mexico"
+born: 26 April 1877 at Cotija, Michoacan, Mexico
+died: 6 June 1938 in Mexico City, Mexico of natural causes
+birthPlace: Michoacan, Mexico
+deathPlace: Mexiconatural causes
+region: Mexico
 feastDay:
   month: 6
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop

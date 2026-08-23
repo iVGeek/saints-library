@@ -1,19 +1,23 @@
 ---
-name: "Saint Joseph of Leonessa"
+name: Saint Joseph of Leonessa
 honorific: Saint
-summary: "Third of eight children born to John Desideri, a wool merchant, and Serafina Paolini. His parents died when the boy was 12 years old, and he was raised and educated by his uncle Battista Desideri, a teacher in Viterbo, Italy. Desideri arranged a marriage for Eufranio with a local"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Giambattista_Tiepolo_-_I_santi_Fedele_da_Sigmaringen_e_Giuseppe_da_Leonessa_%28Parma_ca.1752%29.jpg/960px-Giambattista_Tiepolo_-_I_santi_Fedele_da_Sigmaringen_e_Giuseppe_da_Leonessa_%28Parma_ca.1752%29.jpg"
+summary: >-
+  Third of eight children born to John Desideri, a wool merchant, and Serafina Paolini. His parents died when the boy
+  was 12 years old, and he was raised and educated by his uncle Battista Desideri, a teacher in Viterbo, Italy. Desideri
+  arranged a marriage for Eufranio with a local
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Giambattista_Tiepolo_-_I_santi_Fedele_da_Sigmaringen_e_Giuseppe_da_Leonessa_%2528Parma_ca.1752%2529.jpg?width=600
 searchAliases:
-  - "Eufranio Desiderio"
-  - "Joseph Desideri"
-  - "Joseph of Leonissa"
+  - Eufranio Desiderio
+  - Joseph Desideri
+  - Joseph of Leonissa
 birthYear: 1556
 deathYear: 1612
-born: "8 January 1556 at Leonessa, Umbria, Italy as Eufranio Desiderio"
-died: "Saturday 4 February 1612 at Umbria, Italy of cancer and post-operative problems from surgery for that cancer"
-birthPlace: "Umbria, Italy as Eufranio Desiderio"
-deathPlace: "Italycancer and post-operative problems from surgery for that cancer"
-region: "Italy"
+born: 8 January 1556 at Leonessa, Umbria, Italy as Eufranio Desiderio
+died: Saturday 4 February 1612 at Umbria, Italy of cancer and post-operative problems from surgery for that cancer
+birthPlace: Umbria, Italy as Eufranio Desiderio
+deathPlace: Italycancer and post-operative problems from surgery for that cancer
+region: Italy
 feastDay:
   month: 2
   day: 4
@@ -22,9 +26,9 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Leonessa, Italy"
+  - Leonessa, Italy
 martyr: false
 ---
 

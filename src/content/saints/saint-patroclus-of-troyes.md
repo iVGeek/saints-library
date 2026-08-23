@@ -1,25 +1,28 @@
 ---
-name: "Saint Patroclus of Troyes"
+name: Saint Patroclus of Troyes
 honorific: Saint
-summary: "Wealthy Christian of Troyes, Gaul, noted for his charity. Evangelist; he converted his successor, Saint Sabinian of Troyes. Arrested for his faith during the persecutions of Emperor Marcus Aurelius. Roman officials tried to drown him in the River Seine, but he managed to briefly"
+summary: >-
+  Wealthy Christian of Troyes, Gaul, noted for his charity. Evangelist; he converted his successor, Saint Sabinian of
+  Troyes. Arrested for his faith during the persecutions of Emperor Marcus Aurelius. Roman officials tried to drown him
+  in the River Seine, but he managed to briefly
 searchAliases:
-  - "Parre"
-  - "Parres"
-  - "Patroccus"
-  - "Patroklus"
+  - Parre
+  - Parres
+  - Patroccus
+  - Patroklus
 deathYear: 259
-died: "beheaded in 259"
-region: "France"
+died: beheaded in 259
+region: France
 feastDay:
   month: 1
   day: 21
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Soest_-_St-Patrokli-Dom_17_ies.jpg/960px-Soest_-_St-Patrokli-Dom_17_ies.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Soest_-_St-Patrokli-Dom_17_ies.jpg?width=600
 vocation:
   - Monk
 patronage:
-  - "Soest, Germany"
-  - "Troyes, France"
+  - Soest, Germany
+  - Troyes, France
 martyr: true
 ---
 

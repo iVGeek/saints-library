@@ -2,8 +2,10 @@
 name: Thomas Aquinas
 honorific: Saint
 title: Doctor of the Church
-summary: The Angelic Doctor — Dominican friar, philosopher, and theologian whose Summa Theologiae set reason and faith in harmony and became the crown of medieval learning.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/960px-St-thomas-aquinasFXD.jpg
+summary: >-
+  The Angelic Doctor — Dominican friar, philosopher, and theologian whose Summa Theologiae set reason and faith in
+  harmony and became the crown of medieval learning.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St-thomas-aquinasFXD.jpg?width=600
 imageAlt: Portrait of Thomas Aquinas
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,14 +19,15 @@ born: c. 1225
 died: 7 March 1274
 birthPlace: Roccasecca, Italy
 deathPlace: Fossanova, Italy
-region: "Germany"
-centuries: [13]
+region: Germany
+centuries:
+  - 13
 feastDay:
   month: 1
   day: 28
 liturgicalRank: Memorial
 canonizationStatus: Saint
-canonizedDate: "1323"
+canonizedDate: '1323'
 vocation:
   - Priest
   - Founder
@@ -43,39 +46,39 @@ symbols:
   - Book
 martyr: false
 lifeEvents:
-  - year: "c. 1225"
+  - year: c. 1225
     event: Born at Roccasecca, youngest son of a noble Neapolitan family.
-  - year: "1239–1244"
+  - year: 1239–1244
     event: Studies at the University of Naples, where he encounters the Dominicans and the new philosophy of Aristotle.
-  - year: "1244"
+  - year: '1244'
     event: Joins the Order of Preachers against his family's wishes; his brothers kidnap him, but he perseveres.
-  - year: "1245–1252"
+  - year: 1245–1252
     event: Studies in Paris and Cologne under Saint Albert the Great, who calls him the "dumb ox."
-  - year: "1256"
+  - year: '1256'
     event: Becomes a master of theology at the University of Paris.
-  - year: "1265–1273"
+  - year: 1265–1273
     event: Writes the Summa Theologiae, the great compendium of Catholic doctrine.
-  - year: "1274"
+  - year: '1274'
     event: Dies at the Cistercian abbey of Fossanova while traveling to the Council of Lyons.
-  - year: "1323"
+  - year: '1323'
     event: Canonized by Pope John XXII.
-  - year: "1567"
+  - year: '1567'
     event: Declared a Doctor of the Church by Pope Pius V.
 quotes:
-  - text: >-
-      To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.
+  - text: To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.
     source: Attributed to Saint Thomas Aquinas
   - text: >-
-      Grant, O Lord my God, that I may never fall away in success or in failure; that I may not be proud in prosperity nor dejected in adversity.
+      Grant, O Lord my God, that I may never fall away in success or in failure; that I may not be proud in prosperity
+      nor dejected in adversity.
     source: The prayer of Saint Thomas before the image of the Crucified
 prayers:
   - name: Prayer Before Study
     kind: Traditional prayer of students
     text: >-
-      Come, Holy Spirit, divine Creator, true source of light and fountain of wisdom! Pour forth
-      Your brilliance upon my dense intellect, dissipate the darkness which covers me — that of
-      sin and of ignorance. Grant me a penetrating mind to understand, a retentive memory,
-      method and ease in learning, and grace in expressing what I have learned. Amen.
+      Come, Holy Spirit, divine Creator, true source of light and fountain of wisdom! Pour forth Your brilliance upon my
+      dense intellect, dissipate the darkness which covers me — that of sin and of ignorance. Grant me a penetrating
+      mind to understand, a retentive memory, method and ease in learning, and grace in expressing what I have learned.
+      Amen.
 relatedSaints:
   - name: Albert the Great
     slug: albert-the-great

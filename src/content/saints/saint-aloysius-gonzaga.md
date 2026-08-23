@@ -1,19 +1,22 @@
 ---
-name: "Saint Aloysius Gonzaga"
+name: Saint Aloysius Gonzaga
 honorific: Saint
-summary: "Born to the Italian nobility who grew up in a castle, the son of Ferdinand Gonzaga, a prince in the Holy Roman Emperor and a compulsive gambler. Cousin of Saint Rudolph Acquaviva. Trained from age four as a soldier and courtier. Served as a page in the Spanish court. He suffered"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Vocation_of_Saint_Aloysius_Gonzaga.PNG/960px-The_Vocation_of_Saint_Aloysius_Gonzaga.PNG"
+summary: >-
+  Born to the Italian nobility who grew up in a castle, the son of Ferdinand Gonzaga, a prince in the Holy Roman Emperor
+  and a compulsive gambler. Cousin of Saint Rudolph Acquaviva. Trained from age four as a soldier and courtier. Served
+  as a page in the Spanish court. He suffered
+image: https://commons.wikimedia.org/wiki/Special:FilePath/The_Vocation_of_Saint_Aloysius_Gonzaga.PNG?width=600
 searchAliases:
-  - "Aluigi Gonzaga"
-  - "Lewis Gonzaga"
-  - "Luigi Gonzaga"
+  - Aluigi Gonzaga
+  - Lewis Gonzaga
+  - Luigi Gonzaga
 birthYear: 1568
 deathYear: 1591
-born: "9 March 1568 in the family castle of Castiglione delle Stivieri in Montua, Lombardy, Italy"
-died: "20-21 June 1591 at Rome, Italy of plague, fever, and desire to see God"
-birthPlace: "Lombardy, Italy"
-deathPlace: "Italyplague, fever, and desire to see God"
-region: "Italy"
+born: 9 March 1568 in the family castle of Castiglione delle Stivieri in Montua, Lombardy, Italy
+died: 20-21 June 1591 at Rome, Italy of plague, fever, and desire to see God
+birthPlace: Lombardy, Italy
+deathPlace: Italyplague, fever, and desire to see God
+region: Italy
 feastDay:
   month: 6
   day: 21
@@ -21,27 +24,30 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against sore eyes"
-  - "AIDS care-givers"
-  - "AIDS patients"
-  - "bodily purity"
-  - "boys"
-  - "Catholic youth"
-  - "Jesuit students"
-  - "relief from pestilence"
-  - "students"
-  - "teenage children"
-  - "teenagers"
-  - "young people (proclaimed on 21 June 1729 by Pope Benedict XIII, and in 1926 by Pope Pius XI)"
-  - "—"
-  - "Saint Aloysius College, Mangalore, India"
-  - "Stoneyhurst College, Lancashire, England"
-  - "–"
-  - "in Italy\n\nCastiglione delle Stiviere"
-  - "Muina, Ovaro"
-  - "Valmonte"
+  - against sore eyes
+  - AIDS care-givers
+  - AIDS patients
+  - bodily purity
+  - boys
+  - Catholic youth
+  - Jesuit students
+  - relief from pestilence
+  - students
+  - teenage children
+  - teenagers
+  - young people (proclaimed on 21 June 1729 by Pope Benedict XIII, and in 1926 by Pope Pius XI)
+  - —
+  - Saint Aloysius College, Mangalore, India
+  - Stoneyhurst College, Lancashire, England
+  - –
+  - |-
+    in Italy
+
+    Castiglione delle Stiviere
+  - Muina, Ovaro
+  - Valmonte
 martyr: false
 ---
 

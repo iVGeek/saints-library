@@ -1,19 +1,25 @@
 ---
-name: "Venerable Jean-Baptiste Berthier"
+name: Venerable Jean-Baptiste Berthier
 honorific: Venerable
-summary: "The eldest son in a pious peasant farm family, Jean early felt a call to the priesthood, and began studying at the minor seminary in Grenoble, France at age 13. He was an excellent student, was ordained a priest in 1862, and then joined the Missionaries of Our Lady of La Salette,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jean_Baptiste_Berthier%2C_by_French_school_of_the_18th_century.jpg/960px-Jean_Baptiste_Berthier%2C_by_French_school_of_the_18th_century.jpg"
+summary: >-
+  The eldest son in a pious peasant farm family, Jean early felt a call to the priesthood, and began studying at the
+  minor seminary in Grenoble, France at age 13. He was an excellent student, was ordained a priest in 1862, and then
+  joined the Missionaries of Our Lady of La Salette,
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Baptiste_Berthier%252C_by_French_school_of_the_18th_century.jpg?width=600
 birthYear: 1840
 deathYear: 1908
-born: "24 February 1840 in Châttonay, Isère, France"
-died: "16 October 1908 in Grave, Noord-Brabant, Netherlands of natural causes"
-birthPlace: "Isère, France"
-deathPlace: "Noord-Brabant, Netherlandsnatural causes"
-region: "Netherlands"
+born: 24 February 1840 in Châttonay, Isère, France
+died: 16 October 1908 in Grave, Noord-Brabant, Netherlands of natural causes
+birthPlace: Isère, France
+deathPlace: Noord-Brabant, Netherlandsnatural causes
+region: Netherlands
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest

@@ -1,23 +1,23 @@
 ---
-name: "Saint Serenus the Gardener"
+name: Saint Serenus the Gardener
 honorific: Saint
-summary: " One day he found a woman and her daughters walking in the garden around noon. He recommended Serenus abandoned his home and people to live as a hermit in Sirmiun, Pannonia (modern Hungary) where he directed his thought to prayer, his labour to working a garden of fruit and herbs."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Billom_%C3%89glise_Saint-Cerneuf_Vitrail_087.jpg/960px-Billom_%C3%89glise_Saint-Cerneuf_Vitrail_087.jpg"
+summary: ' One day he found a woman and her daughters walking in the garden around noon. He recommended Serenus abandoned his home and people to live as a hermit in Sirmiun, Pannonia (modern Hungary) where he directed his thought to prayer, his labour to working a garden of fruit and herbs.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Billom_%25C3%2589glise_Saint-Cerneuf_Vitrail_087.jpg?width=600
 searchAliases:
-  - "Serenus of Billom"
-  - "Serenus of Sirmio"
-  - "Serenus of Sirmium"
-  - "Cerneuf…"
-  - "Sereno…"
-  - "Serenusa…"
-  - "Sireno…"
-  - "Sinero…"
-  - "Sirenatus…"
+  - Serenus of Billom
+  - Serenus of Sirmio
+  - Serenus of Sirmium
+  - Cerneuf…
+  - Sereno…
+  - Serenusa…
+  - Sireno…
+  - Sinero…
+  - Sirenatus…
 deathYear: 303
-born: "Greece"
-died: "beheaded 23 February 303 at Sirmium, Pannonia (modern Hungary)"
-deathPlace: "Pannonia (modern Hungary)"
-region: "Hungary"
+born: Greece
+died: beheaded 23 February 303 at Sirmium, Pannonia (modern Hungary)
+deathPlace: Pannonia (modern Hungary)
+region: Hungary
 feastDay:
   month: 2
   day: 23
@@ -25,9 +25,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - "bachelors"
-  - "falsely accused people"
-  - "gardeners"
+  - bachelors
+  - falsely accused people
+  - gardeners
 martyr: false
 ---
 

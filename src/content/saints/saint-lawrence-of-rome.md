@@ -2,8 +2,10 @@
 name: Saint Lawrence of Rome
 honorific: Saint
 title: St. Lawrence of Rome
-summary: "Third-century archdeacon of Rome, distributor of alms, and “keeper of the treasures of the church” in a time when Christianity was outlawed. On 6 August 258, by decree of Emperor Valerian, Pope Saint ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lawrence-before-Valerianus.jpg/330px-Lawrence-before-Valerianus.jpg"
+summary: >-
+  Third-century archdeacon of Rome, distributor of alms, and “keeper of the treasures of the church” in a time when
+  Christianity was outlawed. On 6 August 258, by decree of Emperor Valerian, Pope Saint ...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Lawrence-before-Valerianus.jpg?width=600
 imageAlt: Portrait of Saint Lawrence of Rome
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,8 +13,9 @@ searchAliases:
   - Laurent
   - Laurentius
   - Lorenço
-birthPlace: "Huesca"
-centuries: [16]
+birthPlace: Huesca
+centuries:
+  - 16
 feastDay:
   month: 8
   day: 10

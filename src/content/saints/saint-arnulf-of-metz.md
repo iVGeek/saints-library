@@ -1,17 +1,20 @@
 ---
-name: "Saint Arnulf of Metz"
+name: Saint Arnulf of Metz
 honorific: Saint
-summary: "Courtier and advisor of Austrasian King Theodebert II. Soldier. Married the Lady Doda. Father. From his son Ansegisel and Saint Begga of Ardenne came the Carolingian kings of France. Widower. In 610, when Arnulf was about to become a monk at Lérins, he was appointed bishop of Met"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Saint_Arnould.jpg/960px-Saint_Arnould.jpg"
+summary: >-
+  Courtier and advisor of Austrasian King Theodebert II. Soldier. Married the Lady Doda. Father. From his son Ansegisel
+  and Saint Begga of Ardenne came the Carolingian kings of France. Widower. In 610, when Arnulf was about to become a
+  monk at Lérins, he was appointed bishop of Met
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Arnould.jpg?width=600
 searchAliases:
-  - "Arnolfo"
-  - "Arnold"
-  - "Arnoul"
+  - Arnolfo
+  - Arnold
+  - Arnoul
 birthYear: 580
 deathYear: 640
-born: "c.580"
-died: "16 August 640"
-region: "France"
+born: c.580
+died: 16 August 640
+region: France
 feastDay:
   month: 7
   day: 18
@@ -21,10 +24,13 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "brewers"
-  - "–"
-  - "in France\n\nMetz"
-  - "Remiremont"
+  - brewers
+  - –
+  - |-
+    in France
+
+    Metz
+  - Remiremont
 martyr: false
 ---
 

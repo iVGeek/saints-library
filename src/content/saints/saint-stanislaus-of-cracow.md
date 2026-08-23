@@ -2,16 +2,19 @@
 name: Saint Stanislaus of Cracow
 honorific: Saint
 title: St. Stanislaus of Cracow
-summary: "Born to the Polish nobility, son of Belislaus and Bogna, and raised in a pious family. Educated at Gnesen, Poland, and may have studied at Paris, France. When his parents died, Stanislaus distributed ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Krakow_-_Altar_of_3_millenia.jpg/960px-Krakow_-_Altar_of_3_millenia.jpg"
+summary: >-
+  Born to the Polish nobility, son of Belislaus and Bogna, and raised in a pious family. Educated at Gnesen, Poland, and
+  may have studied at Paris, France. When his parents died, Stanislaus distributed ...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Krakow_-_Altar_of_3_millenia.jpg?width=600
 imageAlt: Portrait of Saint Stanislaus of Cracow
 imageCredit: Wikimedia Commons
 searchAliases:
   - Stanislaus Szczepanowsky
 birthYear: 1030
-born: "1030"
-birthPlace: "Assisi"
-centuries: [11]
+born: '1030'
+birthPlace: Assisi
+centuries:
+  - 11
 feastDay:
   month: 4
   day: 11
@@ -30,7 +33,7 @@ symbols:
   - bishop with a sword
 martyr: true
 lifeEvents:
-  - year: "1030"
+  - year: '1030'
     event: Born at Assisi.
 ---
 

@@ -1,18 +1,20 @@
 ---
-name: "Saint Wilgils"
+name: Saint Wilgils
 honorific: Saint
-summary: "Father of Saint Willibrord of Echternach. Retired to live as a hermit on the banks of the River Humber in northeast England."
+summary: >-
+  Father of Saint Willibrord of Echternach. Retired to live as a hermit on the banks of the River Humber in northeast
+  England.
 searchAliases:
-  - "Wilgis"
-  - "Hilgis"
-born: "Northumbria, England"
-birthPlace: "England"
-region: "England"
+  - Wilgis
+  - Hilgis
+born: Northumbria, England
+birthPlace: England
+region: England
 feastDay:
   month: 1
   day: 31
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Willibrord-echternach.jpg/960px-Willibrord-echternach.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Willibrord-echternach.jpg?width=600
 vocation:
   - Priest
   - Monk

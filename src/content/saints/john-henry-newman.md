@@ -2,8 +2,11 @@
 name: John Henry Newman
 honorific: Saint
 title: Cardinal, Priest, Theologian
-summary: An Oxford scholar and Anglican divine who followed truth into the Catholic Church, became a cardinal, and was declared a saint — a doctor of the conscience.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/John_Henry_Newman_1887_Portrait_Photograph_%283x4_cropped%29.jpg/330px-John_Henry_Newman_1887_Portrait_Photograph_%283x4_cropped%29.jpg
+summary: >-
+  An Oxford scholar and Anglican divine who followed truth into the Catholic Church, became a cardinal, and was declared
+  a saint — a doctor of the conscience.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/John_Henry_Newman_1887_Portrait_Photograph_%25283x4_cropped%2529.jpg?width=600
 imageAlt: Portrait of John Henry Newman
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,8 +21,9 @@ born: 21 February 1801
 died: 11 August 1890
 birthPlace: London, England
 deathPlace: Edgbaston, England
-region: "Ireland"
-centuries: [19]
+region: Ireland
+centuries:
+  - 19
 feastDay:
   month: 10
   day: 9
@@ -38,7 +42,7 @@ patronage:
   - students
   - students
 causes:
-  - "The great defender of conscience: 'Conscience is the aboriginal Vicar of Christ'"
+  - 'The great defender of conscience: ''Conscience is the aboriginal Vicar of Christ'''
 symbols:
   - Book
   - Cardinal's hat
@@ -46,52 +50,47 @@ symbols:
   - Quill
 martyr: false
 lifeEvents:
-  - year: "1801"
+  - year: '1801'
     event: Born in London, the eldest of six children of a banker.
-  - year: "1816–1825"
+  - year: 1816–1825
     event: Undergoes a profound conversion; fellow and tutor of Oriel College, Oxford.
-  - year: "1833"
+  - year: '1833'
     event: Preaches "The Pillar of the Cloud" ("Lead, Kindly Light") on the Mediterranean.
-  - year: "1833–1841"
+  - year: 1833–1841
     event: Leads the Oxford Movement, calling the Church of England to its apostolic roots.
-  - year: "1845"
+  - year: '1845'
     event: Received into the Catholic Church at Littlemore on 9 October.
-  - year: "1847"
+  - year: '1847'
     event: Ordained a Catholic priest in Rome; joins the Oratory of Saint Philip Neri.
-  - year: "1851–1858"
+  - year: 1851–1858
     event: Rector of the new Catholic University in Dublin; publishes The Idea of a University.
-  - year: "1864"
+  - year: '1864'
     event: Answers Charles Kingsley's charges with the Apologia Pro Vita Sua.
-  - year: "1879"
+  - year: '1879'
     event: Created a cardinal by Pope Leo XIII.
-  - year: "11 August 1890"
+  - year: 11 August 1890
     event: Dies at the Birmingham Oratory; buried beside his friend Ambrose St. John.
-  - year: "2019"
+  - year: '2019'
     event: Canonized by Pope Francis in Saint Peter's Square.
 quotes:
-  - text: >-
-      Lead, kindly Light, amid the encircling gloom — lead Thou me on!
-    source: "The Pillar of the Cloud (1833)"
-  - text: >-
-      Ten thousand difficulties do not make one doubt.
+  - text: Lead, kindly Light, amid the encircling gloom — lead Thou me on!
+    source: The Pillar of the Cloud (1833)
+  - text: Ten thousand difficulties do not make one doubt.
     source: Apologia Pro Vita Sua (1864)
-  - text: >-
-      Conscience is the aboriginal Vicar of Christ.
+  - text: Conscience is the aboriginal Vicar of Christ.
     source: Letter to the Duke of Norfolk (1875)
 prayers:
   - name: Lead, Kindly Light (excerpt)
     kind: Hymn and prayer composed by Newman in 1833
     text: >-
-      Lead, kindly Light, amid the encircling gloom, lead Thou me on! The night is dark, and I
-      am far from home; lead Thou me on! Keep Thou my feet; I do not ask to see the distant
-      scene — one step enough for me. Amen.
+      Lead, kindly Light, amid the encircling gloom, lead Thou me on! The night is dark, and I am far from home; lead
+      Thou me on! Keep Thou my feet; I do not ask to see the distant scene — one step enough for me. Amen.
   - name: Prayer of Saint John Henry Newman
     kind: Traditional prayer of trust in God's plan
     text: >-
-      O my God, I believe in You, I hope in You, I love You, and I desire to love You with my
-      whole heart. Help me to grow in the knowledge of Your truth and in fidelity to my
-      conscience. Lead me by Your kindly light through every darkness, until I rest in You
-      forever. Amen.
+      O my God, I believe in You, I hope in You, I love You, and I desire to love You with my whole heart. Help me to
+      grow in the knowledge of Your truth and in fidelity to my conscience. Lead me by Your kindly light through every
+      darkness, until I rest in You forever. Amen.
 relatedSaints:
   - name: Therese of Lisieux
     slug: therese-of-lisieux

@@ -1,18 +1,21 @@
 ---
-name: "Blessed Stefan Wyszyński"
+name: Blessed Stefan Wyszyński
 honorific: Blessed
-summary: "Born to a poor member of the Polish nobility, Stefan's mother died when the boy was nine years old. Ordained a priest of Wloclawek, Kujawy, Kalisze, Poland on 3 August 1924. He received a doctorate in canon law from Catholic University of Lublin, and then taught at the seminary i"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stefan_Wyszy%C5%84ski.jpg/960px-Stefan_Wyszy%C5%84ski.jpg"
+summary: >-
+  Born to a poor member of the Polish nobility, Stefan's mother died when the boy was nine years old. Ordained a priest
+  of Wloclawek, Kujawy, Kalisze, Poland on 3 August 1924. He received a doctorate in canon law from Catholic University
+  of Lublin, and then taught at the seminary i
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Wyszy%25C5%2584ski.jpg?width=600
 searchAliases:
-  - "Primate of the Millennium"
-  - "Radwan II (nickname used during World War II)"
+  - Primate of the Millennium
+  - Radwan II (nickname used during World War II)
 birthYear: 1901
 deathYear: 1981
-born: "3 August 1901 in Zuzela, Ostrów Mazowiecka, Russian Empire (in modern Poland)"
-died: "28 May 1981 in Warsaw, Poland of abdominal cancer"
-birthPlace: "Ostrów Mazowiecka, Russian Empire (modern Poland)"
-deathPlace: "Polandabdominal cancer"
-region: "Poland"
+born: 3 August 1901 in Zuzela, Ostrów Mazowiecka, Russian Empire (in modern Poland)
+died: 28 May 1981 in Warsaw, Poland of abdominal cancer
+birthPlace: Ostrów Mazowiecka, Russian Empire (modern Poland)
+deathPlace: Polandabdominal cancer
+region: Poland
 feastDay:
   month: 5
   day: 28

@@ -2,14 +2,17 @@
 name: Saint Daniel Comboni
 honorific: Saint
 title: St. Daniel Comboni
-summary: "Educated at Father Mazza’s Institute in Verona, Italy, studying theology, medicine, and several languages. Ordained on 31 December 1854 in the diocese of Verona, Italy by Blessed John Nepomuk von Tsch..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daniele_Comboni.jpg/330px-Daniele_Comboni.jpg"
+summary: >-
+  Educated at Father Mazza’s Institute in Verona, Italy, studying theology, medicine, and several languages. Ordained on
+  31 December 1854 in the diocese of Verona, Italy by Blessed John Nepomuk von Tsch...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Daniele_Comboni.jpg?width=600
 imageAlt: Portrait of Saint Daniel Comboni
 imageCredit: Wikimedia Commons
 birthYear: 1831
-born: "1831"
-birthPlace: "Limone sul Garda"
-centuries: [19]
+born: '1831'
+birthPlace: Limone sul Garda
+centuries:
+  - 19
 feastDay:
   month: 10
   day: 10
@@ -23,7 +26,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents:
-  - year: "1831"
+  - year: '1831'
     event: Born at Limone sul Garda.
 ---
 

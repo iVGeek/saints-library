@@ -1,17 +1,20 @@
 ---
-name: "Saint Calminius"
+name: Saint Calminius
 honorific: Saint
-summary: "A duke in the region of Aquitaine (in modern France), and count of Auvergne, Calminius was married to Saint Namadia of Marsat, and spent his early adulthood as a soldier. He felt a call to religious life, however, and founded the Saint-Chaffre du Monastier oratory in Villars, Fra"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Calminius_Namadia_Mozac_2007_06_30.jpg/960px-Calminius_Namadia_Mozac_2007_06_30.jpg"
+summary: >-
+  A duke in the region of Aquitaine (in modern France), and count of Auvergne, Calminius was married to Saint Namadia of
+  Marsat, and spent his early adulthood as a soldier. He felt a call to religious life, however, and founded the
+  Saint-Chaffre du Monastier oratory in Villars, Fra
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Calminius_Namadia_Mozac_2007_06_30.jpg?width=600
 searchAliases:
-  - "Calmilius"
-  - "Calmin"
-  - "Calminio"
-  - "Calmery"
-  - "Carmery"
+  - Calmilius
+  - Calmin
+  - Calminio
+  - Calmery
+  - Carmery
 deathYear: 690
-died: "c.690 of natural causes"
-region: "France"
+died: c.690 of natural causes
+region: France
 feastDay:
   month: 8
   day: 19
@@ -20,7 +23,7 @@ vocation:
   - Monk
   - Hermit
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

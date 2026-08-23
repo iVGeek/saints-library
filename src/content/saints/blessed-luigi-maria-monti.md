@@ -1,25 +1,28 @@
 ---
-name: "Blessed Luigi Maria Monti"
+name: Blessed Luigi Maria Monti
 honorific: Blessed
-summary: "Eighth of eleven children. His father died when Luigi was twelve years old. To support the family he made wooden craft items. After hours he gathered other devout craftsmen and farmers at his shop to form the prayer group The Company of the Sacred Heart of Jesus; the locals calle"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Padreluigimariamonti.png/960px-Padreluigimariamonti.png"
+summary: >-
+  Eighth of eleven children. His father died when Luigi was twelve years old. To support the family he made wooden craft
+  items. After hours he gathered other devout craftsmen and farmers at his shop to form the prayer group The Company of
+  the Sacred Heart of Jesus; the locals calle
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Padreluigimariamonti.png?width=600
 searchAliases:
-  - "Aloisius Maria Monti"
-  - "Aloysius Maria Monti"
+  - Aloisius Maria Monti
+  - Aloysius Maria Monti
 birthYear: 1825
 deathYear: 1900
-born: "24 July 1825 at Bovisio Masciago, diocese of Milian, Italy"
-died: "1 October 1900 in Saronno, Varese, Italy of natural causes"
-birthPlace: "dioceseMilian, Italy"
-deathPlace: "Varese, Italynatural causes"
-region: "Austria"
+born: 24 July 1825 at Bovisio Masciago, diocese of Milian, Italy
+died: 1 October 1900 in Saronno, Varese, Italy of natural causes
+birthPlace: dioceseMilian, Italy
+deathPlace: Varese, Italynatural causes
+region: Austria
 feastDay:
   month: 10
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: false
 ---
 

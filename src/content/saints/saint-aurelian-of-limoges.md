@@ -1,22 +1,22 @@
 ---
-name: "Saint Aurelian of Limoges"
+name: Saint Aurelian of Limoges
 honorific: Saint
-summary: " One legend says that Aurelian was a pagan priest who opposed the Christian evangelism of Saint Martial. Struck by lightning for his opposition, Aurelian died, but was brou Spiritual student of Saint Martial of Limoges. Priest. Second bishop of Limoges, France, succeeding Martial."
+summary: ' One legend says that Aurelian was a pagan priest who opposed the Christian evangelism of Saint Martial. Struck by lightning for his opposition, Aurelian died, but was brou Spiritual student of Saint Martial of Limoges. Priest. Second bishop of Limoges, France, succeeding Martial.'
 searchAliases:
-  - "Aurélien Cotta"
-died: "relics re-discovered in the Saint-Cessateur parish church outside the walls of Limoges, France"
-deathPlace: "France"
-region: "France"
+  - Aurélien Cotta
+died: relics re-discovered in the Saint-Cessateur parish church outside the walls of Limoges, France
+deathPlace: France
+region: France
 feastDay:
   month: 5
   day: 10
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Chapelle_Saint-Aur%C3%A9lien.JPG/960px-Chapelle_Saint-Aur%C3%A9lien.JPG"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Chapelle_Saint-Aur%25C3%25A9lien.JPG?width=600
 vocation:
   - Bishop
   - Priest
 patronage:
-  - "butchers of Limoges, France"
+  - butchers of Limoges, France
 martyr: false
 ---
 

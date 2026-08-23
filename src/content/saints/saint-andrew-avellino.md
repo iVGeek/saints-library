@@ -1,16 +1,17 @@
 ---
-name: "Saint Andrew Avellino"
+name: Saint Andrew Avellino
 honorific: Saint
-summary: " Lawyer at the ecclesiastical court at Naples, Italy. During a heated courtroom argument on behalf of a friend, he supported his position with a lie; in that setting, he Studied humanities and philosophy at Venice, Italy. Doctor of civil and ecclesiastical law. Ordained at age 26."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2318_-_Milano_-_Dett._facciata_S._Antonio_Abate_-_S._Andrea_Avellino_-_Foto_Giovanni_Dall%27Orto_20-May-2007.jpg/960px-2318_-_Milano_-_Dett._facciata_S._Antonio_Abate_-_S._Andrea_Avellino_-_Foto_Giovanni_Dall%27Orto_20-May-2007.jpg"
+summary: ' Lawyer at the ecclesiastical court at Naples, Italy. During a heated courtroom argument on behalf of a friend, he supported his position with a lie; in that setting, he Studied humanities and philosophy at Venice, Italy. Doctor of civil and ecclesiastical law. Ordained at age 26.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/2318_-_Milano_-_Dett._facciata_S._Antonio_Abate_-_S._Andrea_Avellino_-_Foto_Giovanni_Dall%2527Orto_20-May-2007.jpg?width=600
 searchAliases:
-  - "Andrea Avellino"
-  - "Lancelotto"
-  - "Lorenzo Avellino"
+  - Andrea Avellino
+  - Lancelotto
+  - Lorenzo Avellino
 birthYear: 1521
-born: "1521 at Castronuovo, Sicily as Lorenzo (called Lancelotto by his mother)"
-birthPlace: "Sicily as Lorenzo (called Lancelotto by his mother)"
-region: "Italy"
+born: 1521 at Castronuovo, Sicily as Lorenzo (called Lancelotto by his mother)
+birthPlace: Sicily as Lorenzo (called Lancelotto by his mother)
+region: Italy
 feastDay:
   month: 11
   day: 10
@@ -19,18 +20,18 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against apoplexy; apoplexics"
-  - "against paralysis; paralyzed people"
-  - "against strokes; stroke victims"
-  - "against sudden death"
-  - "for a holy death"
-  - "stroke victims"
-  - "—"
-  - "Badolato, Italy"
-  - "Naples, Italy"
-  - "Sicily, Italy"
+  - against apoplexy; apoplexics
+  - against paralysis; paralyzed people
+  - against strokes; stroke victims
+  - against sudden death
+  - for a holy death
+  - stroke victims
+  - —
+  - Badolato, Italy
+  - Naples, Italy
+  - Sicily, Italy
 martyr: true
 ---
 

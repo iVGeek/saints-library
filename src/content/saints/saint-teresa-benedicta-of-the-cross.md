@@ -2,17 +2,20 @@
 name: Saint Teresa Benedicta of the Cross
 honorific: Saint
 title: St. Teresa Benedicta of the Cross
-summary: "Youngest of seven children in a Jewish family. Edith lost interest and faith in Judaism by age 13. Brilliant student and philosopher with an interest in phenomenology. Studied at the University of Göt..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Edith_Stein_%28ca._1938-1939%29.jpg/330px-Edith_Stein_%28ca._1938-1939%29.jpg"
+summary: >-
+  Youngest of seven children in a Jewish family. Edith lost interest and faith in Judaism by age 13. Brilliant student
+  and philosopher with an interest in phenomenology. Studied at the University of Göt...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Edith_Stein_%2528ca._1938-1939%2529.jpg?width=600
 imageAlt: Portrait of Saint Teresa Benedicta of the Cross
 imageCredit: Wikimedia Commons
 searchAliases:
   - Edith Stein
   - Teresia Benedicta
 birthYear: 1891
-born: "1891"
-birthPlace: "Cologne"
-centuries: [19]
+born: '1891'
+birthPlace: Cologne
+centuries:
+  - 19
 feastDay:
   month: 8
   day: 9
@@ -29,7 +32,7 @@ symbols:
   - Star of David
 martyr: false
 lifeEvents:
-  - year: "1891"
+  - year: '1891'
     event: Born at Cologne.
 ---
 

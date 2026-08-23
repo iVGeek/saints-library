@@ -1,14 +1,17 @@
 ---
-name: "Saint Robert of Newminster"
+name: Saint Robert of Newminster
 honorific: Saint
-summary: "Studied at the University of Paris. Wrote a commentary on the Psalms, but it has been lost. Parish priest at Gargrave, England, and later a Benedictine monk at Whitby, England. With his abbot's permission, he joined the founders of the Cistercian monastery of Fountains Abbey in 1"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Stiftskirche_Baumgartenberg_Kanzel06.jpg/960px-Stiftskirche_Baumgartenberg_Kanzel06.jpg"
+summary: >-
+  Studied at the University of Paris. Wrote a commentary on the Psalms, but it has been lost. Parish priest at Gargrave,
+  England, and later a Benedictine monk at Whitby, England. With his abbot's permission, he joined the founders of the
+  Cistercian monastery of Fountains Abbey in 1
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Stiftskirche_Baumgartenberg_Kanzel06.jpg?width=600
 birthYear: 1100
 deathYear: 1159
-born: "c.1100 at Gargrave, Craven district, Yorkshire county, England"
-died: "7 June 1159 at Newminster England of natural causes"
-birthPlace: "Craven district, Yorkshire county, England"
-region: "France"
+born: c.1100 at Gargrave, Craven district, Yorkshire county, England
+died: 7 June 1159 at Newminster England of natural causes
+birthPlace: Craven district, Yorkshire county, England
+region: France
 feastDay:
   month: 6
   day: 7
@@ -16,7 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

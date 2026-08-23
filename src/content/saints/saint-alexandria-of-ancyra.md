@@ -1,11 +1,11 @@
 ---
-name: "Saint Alexandria of Ancyra"
+name: Saint Alexandria of Ancyra
 honorific: Saint
-summary: "Nun martyred in the persecutions of Diocletian."
+summary: Nun martyred in the persecutions of Diocletian.
 deathYear: 304
-died: "drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)"
-deathPlace: "Galatia (modern Turkey)"
-region: "England"
+died: drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)
+deathPlace: Galatia (modern Turkey)
+region: England
 feastDay:
   month: 5
   day: 18
@@ -16,6 +16,10 @@ vocation:
   - Monk
   - Religious
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Alexandria of Ancyra
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Eastern%20Orthodox%20saints%20(A%E2%80%93G)
 ---
 
 Nun martyred in the persecutions of Diocletian.

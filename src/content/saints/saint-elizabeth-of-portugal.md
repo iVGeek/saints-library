@@ -1,45 +1,49 @@
 ---
-name: "Saint Elizabeth of Portugal"
+name: Saint Elizabeth of Portugal
 honorific: Saint
-summary: "Princess. Daughter of King Pedro III of Aragon and Constantia; great-granddaughter of Emperor Frederick II. Great-niece of Saint Elizabeth of Hungary, for whom she was named. She had a pious upbringing with daily liturgy and praying of the hours, regular religious instruction and"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png/960px-Ret%C3%A1bulo_da_Rainha_Santa_Isabel%2C_s%C3%A9culo_XVI_%28Museu_Nacional_de_Machado_de_Castro%29.png"
+summary: >-
+  Princess. Daughter of King Pedro III of Aragon and Constantia; great-granddaughter of Emperor Frederick II.
+  Great-niece of Saint Elizabeth of Hungary, for whom she was named. She had a pious upbringing with daily liturgy and
+  praying of the hours, regular religious instruction and
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Ret%25C3%25A1bulo_da_Rainha_Santa_Isabel%252C_s%25C3%25A9culo_XVI_%2528Museu_Nacional_de_Machado_de_Castro%2529.png?width=600
 searchAliases:
-  - "Elisabet of Portugal"
-  - "Elizabeth of Aragon"
-  - "Isabel of Portugal"
-  - "Isabella of Portugal"
-  - "The Peacemaker"
+  - Elisabet of Portugal
+  - Elizabeth of Aragon
+  - Isabel of Portugal
+  - Isabella of Portugal
+  - The Peacemaker
 deathYear: 1336
-died: "4 July 1336 at Estremoz, Portugal of fever"
-deathPlace: "Portugalfever"
-region: "Hungary"
+died: 4 July 1336 at Estremoz, Portugal of fever
+deathPlace: Portugalfever
+region: Hungary
 feastDay:
   month: 7
   day: 4
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against jealousy"
-  - "brides"
-  - "charitable societies"
-  - "charitable workers"
-  - "charity workers"
-  - "charities"
-  - "Coimbra, Portugal"
-  - "difficult marriages"
-  - "falsely accused people"
-  - "healing family rifts"
-  - "invoked in time of war"
-  - "peace"
-  - "queens"
-  - "tertiaries"
-  - "victims of adultery"
-  - "victims of jealousy"
-  - "victims of unfaithfulness"
-  - "widows"
-  - "–"
-  - "Saragossa, Spain"
+  - against jealousy
+  - brides
+  - charitable societies
+  - charitable workers
+  - charity workers
+  - charities
+  - Coimbra, Portugal
+  - difficult marriages
+  - falsely accused people
+  - healing family rifts
+  - invoked in time of war
+  - peace
+  - queens
+  - tertiaries
+  - victims of adultery
+  - victims of jealousy
+  - victims of unfaithfulness
+  - widows
+  - –
+  - Saragossa, Spain
 martyr: false
 ---
 

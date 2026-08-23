@@ -1,30 +1,34 @@
 ---
-name: "Saint Charles of Sezze"
+name: Saint Charles of Sezze
 honorific: Venerable
-summary: "Born to a poor but pious rural family, he worked as a shepherd as a child. His family encouraged his vocation to the priesthood, but Charles was a terrible student, barely able to read or write, and had no hope of success in seminary. Franciscan lay brother at age 22 at Naziano,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Antonio_Sicurezza_saint_Charles_from_Sezze.jpg/960px-Antonio_Sicurezza_saint_Charles_from_Sezze.jpg"
+summary: >-
+  Born to a poor but pious rural family, he worked as a shepherd as a child. His family encouraged his vocation to the
+  priesthood, but Charles was a terrible student, barely able to read or write, and had no hope of success in seminary.
+  Franciscan lay brother at age 22 at Naziano,
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Sicurezza_saint_Charles_from_Sezze.jpg?width=600
 searchAliases:
-  - "Carlo of Sezze"
-  - "Giancarlo Marchioni"
-  - "John Charles Marchioni"
-  - "Karl av Sezze"
-  - "Karl von Sezze"
+  - Carlo of Sezze
+  - Giancarlo Marchioni
+  - John Charles Marchioni
+  - Karl av Sezze
+  - Karl von Sezze
 birthYear: 1613
 deathYear: 1670
-born: "19 October 1613 at Sezze, Roman Campagna, Italy as John Charles Marchioni"
-died: "6 January 1670 at San Francesco a Ripa, Rome, Italy of natural causes"
-birthPlace: "Roman Campagna, Italy as John Charles Marchioni"
-deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+born: 19 October 1613 at Sezze, Roman Campagna, Italy as John Charles Marchioni
+died: 6 January 1670 at San Francesco a Ripa, Rome, Italy of natural causes
+birthPlace: Roman Campagna, Italy as John Charles Marchioni
+deathPlace: Rome, Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 6
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

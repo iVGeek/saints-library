@@ -1,18 +1,21 @@
 ---
-name: "Saint Solange of Bourges"
+name: Saint Solange of Bourges
 honorific: Saint
-summary: "Born to a family of poor vine dressers. Young virgin shepherdess who took a personal vow of chastity, devoting herself to God alone. When she said her prayers in the field, a star shone over her head. Reported to have the gift of healing, especially of animals. She was murdered b"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_de_Saint_Solange.JPG/960px-Statue_de_Saint_Solange.JPG"
+summary: >-
+  Born to a family of poor vine dressers. Young virgin shepherdess who took a personal vow of chastity, devoting herself
+  to God alone. When she said her prayers in the field, a star shone over her head. Reported to have the gift of
+  healing, especially of animals. She was murdered b
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Statue_de_Saint_Solange.JPG?width=600
 searchAliases:
-  - "Solange of Berry"
-  - "Solange of Bourges of Genevieve du Berry"
-  - "Solangia…"
+  - Solange of Berry
+  - Solange of Bourges of Genevieve du Berry
+  - Solangia…
 birthYear: 863
 deathYear: 880
-born: "863 at Villemont near Bourges, France"
-died: "stabbed with a hunting knife c.880 at Champ de Sainte Solange"
-birthPlace: "France"
-region: "France"
+born: 863 at Villemont near Bourges, France
+died: stabbed with a hunting knife c.880 at Champ de Sainte Solange
+birthPlace: France
+region: France
 feastDay:
   month: 5
   day: 10
@@ -21,16 +24,16 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - "children"
-  - "drought relief"
-  - "for rain"
-  - "rape victims"
-  - "shepherdesses"
-  - "shepherds"
-  - "–"
-  - "Berry, France"
-  - "Bourges, France, archdiocese of"
-  - "Bourges, France, city of"
+  - children
+  - drought relief
+  - for rain
+  - rape victims
+  - shepherdesses
+  - shepherds
+  - –
+  - Berry, France
+  - Bourges, France, archdiocese of
+  - Bourges, France, city of
 martyr: true
 ---
 

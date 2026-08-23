@@ -1,22 +1,25 @@
 ---
-name: "Saint Anders of Slagelse"
+name: Saint Anders of Slagelse
 honorific: Saint
-summary: "Early 13th-century priest at Saint Peter's Church, Slagalse, Denmark. While on pilgrimage in the Holy Lands he received a vision of a man on a white horse who miraculously transported him home so that he could celebrate Easter with his parishioners. The rider then transported him"
+summary: >-
+  Early 13th-century priest at Saint Peter's Church, Slagalse, Denmark. While on pilgrimage in the Holy Lands he
+  received a vision of a man on a white horse who miraculously transported him home so that he could celebrate Easter
+  with his parishioners. The rider then transported him
 deathYear: 1205
-born: "12th-century Slagelse, Denmark"
-died: "c.1205 of natural causes"
-birthPlace: "Denmark"
-region: "Scandinavia"
+born: 12th-century Slagelse, Denmark
+died: c.1205 of natural causes
+birthPlace: Denmark
+region: Scandinavia
 feastDay:
   month: 11
   day: 30
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hellig_Anders_Kors_ved_ved_Slagelse_1864.jpg/960px-Hellig_Anders_Kors_ved_ved_Slagelse_1864.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Hellig_Anders_Kors_ved_ved_Slagelse_1864.jpg?width=600
 vocation:
   - Priest
   - Monk
 patronage:
-  - "Slagelse, Denmark"
+  - Slagelse, Denmark
 martyr: false
 ---
 

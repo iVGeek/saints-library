@@ -2,8 +2,10 @@
 name: Mary MacKillop
 honorific: Saint
 title: Virgin, Religious
-summary: The Australian pioneer nun who founded the Sisters of Saint Joseph to serve the poor in the outback — excommunicated unjustly, vindicated, and made Australia's first saint.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mary_MacKillop.jpg/330px-Mary_MacKillop.jpg
+summary: >-
+  The Australian pioneer nun who founded the Sisters of Saint Joseph to serve the poor in the outback — excommunicated
+  unjustly, vindicated, and made Australia's first saint.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Mary_MacKillop.jpg?width=600
 imageAlt: Portrait of Mary MacKillop
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,9 @@ died: 8 August 1909
 birthPlace: Fitzroy, Australia
 deathPlace: Sydney, Australia
 region: Australia
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 feastDay:
   month: 8
   day: 8
@@ -43,35 +47,34 @@ symbols:
   - Crucifix
 martyr: false
 lifeEvents:
-  - year: "15 January 1842"
+  - year: 15 January 1842
     event: Born at Fitzroy, Melbourne, first of eight children of Scottish immigrants Alexander and Flora MacKillop.
-  - year: "1866"
+  - year: '1866'
     event: With Father Julian Woods, founds the Congregation of the Sisters of Saint Joseph of the Sacred Heart.
-  - year: "1871"
-    event: Excommunicated by the bishop of Adelaide over a misunderstanding of the order's government — unjustly, and she accepts it in silence.
-  - year: "1872"
+  - year: '1871'
+    event: >-
+      Excommunicated by the bishop of Adelaide over a misunderstanding of the order's government — unjustly, and she
+      accepts it in silence.
+  - year: '1872'
     event: Excommunication lifted; she is restored to her community.
-  - year: "1890s"
+  - year: 1890s
     event: Builds the order into a great network of schools and charitable works across Australia and New Zealand.
-  - year: "8 August 1909"
+  - year: 8 August 1909
     event: Dies at Sydney after years of illness.
-  - year: "17 October 2010"
+  - year: 17 October 2010
     event: Canonized by Pope Benedict XVI at Rome, the first Australian saint.
 quotes:
-  - text: >-
-      Remember that whatever we have in this life is not ours, and that whatever we do for the poor we do for God.
+  - text: Remember that whatever we have in this life is not ours, and that whatever we do for the poor we do for God.
     source: Attributed to Saint Mary MacKillop
-  - text: >-
-      We must teach not only by our words but by our example, and our lives must be a pattern for others.
+  - text: We must teach not only by our words but by our example, and our lives must be a pattern for others.
     source: From the writings of Saint Mary MacKillop
 prayers:
   - name: Prayer to Saint Mary MacKillop
     kind: Prayer for educators and for the poor of the outback
     text: >-
-      O Saint Mary MacKillop, who crossed a continent to teach the poorest children and to
-      comfort the farthest settlements, bless all teachers and all who work for the poor. Give
-      them your courage to endure misunderstanding, your humility to be silent, and your love
-      that never counted the distance. Amen.
+      O Saint Mary MacKillop, who crossed a continent to teach the poorest children and to comfort the farthest
+      settlements, bless all teachers and all who work for the poor. Give them your courage to endure misunderstanding,
+      your humility to be silent, and your love that never counted the distance. Amen.
 relatedSaints:
   - name: Mother Teresa of Calcutta
     slug: teresa-of-calcutta

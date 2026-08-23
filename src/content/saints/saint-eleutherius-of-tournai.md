@@ -1,19 +1,25 @@
 ---
-name: "Saint Eleutherius of Tournai"
+name: Saint Eleutherius of Tournai
 honorific: Saint
-summary: "Born to the Gallo-Roman nobility, the son of Blanda and Serenus, a family that converted to Christianity after hearing the preaching of Saint Plato; his father donated the land on which the cathedral of Notre-Dame of Tournai was built. Eletutherius was a friend of, and student wi"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/St_Eleutherius_of_Tournai_Baptizing_Converts_%28detail%29%2C_workshop_of_Arnold_of_Nijmegen%2C_Flemish%2C_c._1500-1525_-_Nelson-Atkins_Museum_of_Art_-_DSC08491.JPG/960px-St_Eleutherius_of_Tournai_Baptizing_Converts_%28detail%29%2C_workshop_of_Arnold_of_Nijmegen%2C_Flemish%2C_c._1500-1525_-_Nelson-Atkins_Museum_of_Art_-_DSC08491.JPG"
+summary: >-
+  Born to the Gallo-Roman nobility, the son of Blanda and Serenus, a family that converted to Christianity after hearing
+  the preaching of Saint Plato; his father donated the land on which the cathedral of Notre-Dame of Tournai was built.
+  Eletutherius was a friend of, and student wi
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/St_Eleutherius_of_Tournai_Baptizing_Converts_%2528detail%2529%252C_workshop_of_Arnold_of_Nijmegen%252C_Flemish%252C_c._1500-1525_-_Nelson-Atkins_Museum_of_Art_-_DSC08491.JPG?width=600
 searchAliases:
-  - "Eleuthere"
-  - "Eleuterio"
-  - "Lehire"
+  - Eleuthere
+  - Eleuterio
+  - Lehire
 birthYear: 456
 deathYear: 532
-born: "456 at Tournai, western Belgium"
-died: "beaten in 532 while leaving his church in Tournai, western Belgium; he survived a couple of days, but died directly from these injuries"
-birthPlace: "western Belgium"
-deathPlace: "western Belgium; he survived a coupledays, but died directly from these injuries"
-region: "Belgium"
+born: 456 at Tournai, western Belgium
+died: >-
+  beaten in 532 while leaving his church in Tournai, western Belgium; he survived a couple of days, but died directly
+  from these injuries
+birthPlace: western Belgium
+deathPlace: western Belgium; he survived a coupledays, but died directly from these injuries
+region: Belgium
 feastDay:
   month: 2
   day: 20

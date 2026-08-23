@@ -2,8 +2,10 @@
 name: Polycarp of Smyrna
 honorific: Saint
 title: Bishop, Martyr
-summary: Disciple of the Apostle John, bishop of Smyrna, and one of the last living links to the apostolic age — burned at the stake at eighty-six with a prayer of thanksgiving on his lips.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Polycarp_of_Smyrna2.jpg/330px-Polycarp_of_Smyrna2.jpg
+summary: >-
+  Disciple of the Apostle John, bishop of Smyrna, and one of the last living links to the apostolic age — burned at the
+  stake at eighty-six with a prayer of thanksgiving on his lips.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Polycarp_of_Smyrna2.jpg?width=600
 imageAlt: Portrait of Polycarp of Smyrna
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,8 @@ died: c. 155
 birthPlace: Smyrna, Turkey
 deathPlace: Smyrna, Turkey
 region: Turkey
-centuries: [2]
+centuries:
+  - 2
 feastDay:
   month: 2
   day: 23
@@ -37,33 +40,34 @@ symbols:
   - Palm of martyrdom
 martyr: true
 lifeEvents:
-  - year: "c. 69"
+  - year: c. 69
     event: Born in Asia Minor; formed in the faith by those who had known the apostles.
-  - year: "c. 110s"
+  - year: c. 110s
     event: Becomes bishop of Smyrna; a letter of Ignatius of Antioch salutes him as a man of deep faith.
-  - year: "c. 110–155"
+  - year: c. 110–155
     event: Writes his Epistle to the Philippians, a jewel of early Christian literature.
-  - year: "c. 155"
+  - year: c. 155
     event: Arrested during a persecution; refuses to curse Christ, saying "Eighty-six years I have served Him."
-  - year: "c. 155"
-    event: Burned at the stake in the stadium at Smyrna; the fire, tradition says, would not touch him, and he was finished by the sword.
-  - year: "c. 155"
+  - year: c. 155
+    event: >-
+      Burned at the stake in the stadium at Smyrna; the fire, tradition says, would not touch him, and he was finished
+      by the sword.
+  - year: c. 155
     event: His disciples write the Martyrdom of Polycarp, one of the earliest Christian martyr accounts.
 quotes:
-  - text: >-
-      Eighty-six years I have served Him, and He has done me no wrong. How can I blaspheme my King and my Savior?
+  - text: Eighty-six years I have served Him, and He has done me no wrong. How can I blaspheme my King and my Savior?
     source: Saint Polycarp before the proconsul
   - text: >-
-      I praise You for all things, I bless You, I glorify You, through the eternal and heavenly High Priest, Jesus Christ, Your beloved Son.
+      I praise You for all things, I bless You, I glorify You, through the eternal and heavenly High Priest, Jesus
+      Christ, Your beloved Son.
     source: The prayer of Saint Polycarp at the stake
 prayers:
   - name: Prayer to Saint Polycarp
     kind: Prayer for fidelity in old age and in trial
     text: >-
-      O Saint Polycarp, who served Christ faithfully to the age of eighty-six and gave Him your
-      life at the stake, strengthen us to hold fast to the faith you received from the apostles.
-      When the world asks us to deny our King, give us your courage; when our strength fails,
-      give us your constancy. Amen.
+      O Saint Polycarp, who served Christ faithfully to the age of eighty-six and gave Him your life at the stake,
+      strengthen us to hold fast to the faith you received from the apostles. When the world asks us to deny our King,
+      give us your courage; when our strength fails, give us your constancy. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

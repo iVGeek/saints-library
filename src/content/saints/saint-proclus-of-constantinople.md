@@ -1,13 +1,17 @@
 ---
-name: "Saint Proclus of Constantinople"
+name: Saint Proclus of Constantinople
 honorific: Saint
-summary: "Lector while still a student. Secretary to and spiritual student of Saint John Chrysostom. Priest. Chosen archbishop of Cyzicus, but the people of that city saw him as being under the control of Constantinople, and refused to accept him. Noted preacher in Constantinople. When Nes"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Proclus_of_Constantinople_%28Menologion_of_Basil_II%29.jpg/960px-Proclus_of_Constantinople_%28Menologion_of_Basil_II%29.jpg"
+summary: >-
+  Lector while still a student. Secretary to and spiritual student of Saint John Chrysostom. Priest. Chosen archbishop
+  of Cyzicus, but the people of that city saw him as being under the control of Constantinople, and refused to accept
+  him. Noted preacher in Constantinople. When Nes
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Proclus_of_Constantinople_%2528Menologion_of_Basil_II%2529.jpg?width=600
 deathYear: 447
-born: "Constantinople (modern Istanbul, Turkey)"
-died: "24 October 447 in the area of modern Turkey of natural causes"
-birthPlace: "Turkey)"
-region: "Turkey"
+born: Constantinople (modern Istanbul, Turkey)
+died: 24 October 447 in the area of modern Turkey of natural causes
+birthPlace: Turkey)
+region: Turkey
 feastDay:
   month: 10
   day: 24

@@ -2,8 +2,10 @@
 name: Maximilian Kolbe
 honorific: Saint
 title: Priest, Martyr
-summary: The Franciscan friar of the Immaculate who offered his life for a stranger in Auschwitz and died a martyr of charity — apostle of Mary and of the media.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fr.Maximilian_Kolbe_in_1936.jpg/330px-Fr.Maximilian_Kolbe_in_1936.jpg
+summary: >-
+  The Franciscan friar of the Immaculate who offered his life for a stranger in Auschwitz and died a martyr of charity —
+  apostle of Mary and of the media.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Fr.Maximilian_Kolbe_in_1936.jpg?width=600
 imageAlt: Portrait of Maximilian Kolbe
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +19,9 @@ born: 8 January 1894
 died: 14 August 1941
 birthPlace: Zduńska Wola, Poland
 deathPlace: Auschwitz, Poland
-region: "Japan"
-centuries: [20]
+region: Japan
+centuries:
+  - 20
 feastDay:
   month: 8
   day: 14
@@ -43,39 +46,40 @@ symbols:
   - Needle of an injection
 martyr: true
 lifeEvents:
-  - year: "8 January 1894"
-    event: Born at Zduńska Wola in Poland; as a boy he sees a vision of Mary offering him a crown of purity and a crown of martyrdom.
-  - year: "1910"
+  - year: 8 January 1894
+    event: >-
+      Born at Zduńska Wola in Poland; as a boy he sees a vision of Mary offering him a crown of purity and a crown of
+      martyrdom.
+  - year: '1910'
     event: Enters the Franciscans, taking the name Maximilian Maria.
-  - year: "1919"
+  - year: '1919'
     event: Returns from studies in Rome, where he had founded the Militia Immaculata.
-  - year: "1927"
+  - year: '1927'
     event: Founds the great monastery-city of Niepokalanów, "City of the Immaculate."
-  - year: "1930–1936"
+  - year: 1930–1936
     event: Missionary in Japan, founding a Franciscan center at Nagasaki that survives the atomic blast.
-  - year: "1939"
+  - year: '1939'
     event: Poland is invaded; Niepokalanów becomes a refuge for thousands of refugees, then a prison.
-  - year: "1941"
+  - year: '1941'
     event: Arrested by the Gestapo and sent to Auschwitz.
-  - year: "14 August 1941"
+  - year: 14 August 1941
     event: Offers his life for Franciszek Gajowniczek; dies by lethal injection, and the following day his body is burned.
-  - year: "10 October 1982"
+  - year: 10 October 1982
     event: Canonized by Pope John Paul II, who names him "patron of our difficult century."
 quotes:
   - text: >-
-      No one in the world can change Truth. What we can do and should do is to seek truth and to serve it when we have found it.
+      No one in the world can change Truth. What we can do and should do is to seek truth and to serve it when we have
+      found it.
     source: Saint Maximilian Kolbe
-  - text: >-
-      I will offer my life for the man who is married and has a family.
+  - text: I will offer my life for the man who is married and has a family.
     source: Saint Maximilian Kolbe, at Auschwitz, to the camp commandant
 prayers:
   - name: Prayer to Saint Maximilian Kolbe
     kind: Prayer for prisoners and for the courage to give
     text: >-
-      O Saint Maximilian Kolbe, martyr of charity, who gave your life in the death camp for a man
-      you did not know, obtain for us a love that gives without counting. Comfort all prisoners
-      and all who suffer for the truth; defend the unborn; and make us, like you, warriors of
-      Mary in the world's darkest places. Amen.
+      O Saint Maximilian Kolbe, martyr of charity, who gave your life in the death camp for a man you did not know,
+      obtain for us a love that gives without counting. Comfort all prisoners and all who suffer for the truth; defend
+      the unborn; and make us, like you, warriors of Mary in the world's darkest places. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

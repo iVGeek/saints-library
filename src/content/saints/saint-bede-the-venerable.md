@@ -2,17 +2,20 @@
 name: Saint Bede the Venerable
 honorific: Saint
 title: St. Bede the Venerable
-summary: "Born around the time England was finally completely Christianized, Bede was raised from age seven in the abbey of Saints Peter and Paul at Wearmouth-Jarrow, and lived there the rest of his life. Bened..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/E-codices_bke-0047_001v_medium_%28cropped%29.jpg/330px-E-codices_bke-0047_001v_medium_%28cropped%29.jpg"
+summary: >-
+  Born around the time England was finally completely Christianized, Bede was raised from age seven in the abbey of
+  Saints Peter and Paul at Wearmouth-Jarrow, and lived there the rest of his life. Bened...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/E-codices_bke-0047_001v_medium_%2528cropped%2529.jpg?width=600
 imageAlt: Portrait of Saint Bede the Venerable
 imageCredit: Wikimedia Commons
 searchAliases:
   - Venerable Bede
   - Father of English History
 birthYear: 1899
-born: "1899"
-birthPlace: "Wearmouth"
-centuries: [19]
+born: '1899'
+birthPlace: Wearmouth
+centuries:
+  - 19
 feastDay:
   month: 5
   day: 25
@@ -31,7 +34,7 @@ symbols:
   - old monk with a book and pen
 martyr: false
 lifeEvents:
-  - year: "1899"
+  - year: '1899'
     event: Born at Wearmouth.
 ---
 

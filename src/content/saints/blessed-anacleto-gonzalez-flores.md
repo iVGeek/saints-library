@@ -1,17 +1,20 @@
 ---
-name: "Blessed Anacleto González Flores"
+name: Blessed Anacleto González Flores
 honorific: Blessed
-summary: "Second of twelve children born to Valentín González Sanitiz and Maria Flores Navaho. He entered seminary, was an excellent student, but realized that he did not have a call to the priesthood and dropped out. Lawyer in the archdiocese of Guadalajara, Mexico. Married to María Conce"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Anacleto_Gonz%C3%A1lez_Flores.jpg/960px-Anacleto_Gonz%C3%A1lez_Flores.jpg"
+summary: >-
+  Second of twelve children born to Valentín González Sanitiz and Maria Flores Navaho. He entered seminary, was an
+  excellent student, but realized that he did not have a call to the priesthood and dropped out. Lawyer in the
+  archdiocese of Guadalajara, Mexico. Married to María Conce
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Anacleto_Gonz%25C3%25A1lez_Flores.jpg?width=600
 searchAliases:
-  - "Anaclete Gonzales Flores"
+  - Anaclete Gonzales Flores
 birthYear: 1888
 deathYear: 1927
-born: "13 July 1888 in Tepatitlán, Jalisco, Mexico"
-died: "shot by a firing squad on 1 April 1927 in Guadalajara, Jalisco, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 13 July 1888 in Tepatitlán, Jalisco, Mexico
+died: shot by a firing squad on 1 April 1927 in Guadalajara, Jalisco, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 4
   day: 1
@@ -19,7 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
 ---
 

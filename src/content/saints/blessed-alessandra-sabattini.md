@@ -1,17 +1,20 @@
 ---
-name: "Blessed Alessandra Sabattini"
+name: Blessed Alessandra Sabattini
 honorific: Blessed
-summary: "A lifelong lay woman in the diocese of Rimini, Italy, she was the daughter of Giuseppi and Agnese Bonin Sabattini and had one brother. A pious girl, Alessandra made her First Communion on 3 May 1970, was Confirmed on 16 April 1972, and joined the Associazione Comunita Papal Giova"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sandra_Sabattini.jpg/330px-Sandra_Sabattini.jpg"
+summary: >-
+  A lifelong lay woman in the diocese of Rimini, Italy, she was the daughter of Giuseppi and Agnese Bonin Sabattini and
+  had one brother. A pious girl, Alessandra made her First Communion on 3 May 1970, was Confirmed on 16 April 1972, and
+  joined the Associazione Comunita Papal Giova
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sandra_Sabattini.jpg?width=600
 searchAliases:
-  - "Sandra"
+  - Sandra
 birthYear: 1961
 deathYear: 1984
-born: "19 August 1961 in Riccione, Italy"
-died: "2 May 1984 in Bologna, Italy of head injuries sustained when hit by a motor vehicle on 29 April 1984"
-birthPlace: "Italy"
-deathPlace: "Italyhead injuries sustained when hit by a motor vehicle on 29 April 1984"
-region: "Italy"
+born: 19 August 1961 in Riccione, Italy
+died: 2 May 1984 in Bologna, Italy of head injuries sustained when hit by a motor vehicle on 29 April 1984
+birthPlace: Italy
+deathPlace: Italyhead injuries sustained when hit by a motor vehicle on 29 April 1984
+region: Italy
 feastDay:
   month: 5
   day: 2

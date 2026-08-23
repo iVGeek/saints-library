@@ -1,18 +1,21 @@
 ---
-name: "Saint Benno of Meissen"
+name: Saint Benno of Meissen
 honorific: Saint
-summary: "Born to the Saxon nobility, the son of Blessed Bezela of Goda; as an adult he was heavily involved in the power politics of his day. Educated in the abbey of Saint Michael, Hildesheim, Germany. Priest. Canon at the imperial chapel at Gozlar, Hanover. Chaplain to Emperor Henry III"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Johann_Michael_Rottmayr_001.jpg/960px-Johann_Michael_Rottmayr_001.jpg"
+summary: >-
+  Born to the Saxon nobility, the son of Blessed Bezela of Goda; as an adult he was heavily involved in the power
+  politics of his day. Educated in the abbey of Saint Michael, Hildesheim, Germany. Priest. Canon at the imperial chapel
+  at Gozlar, Hanover. Chaplain to Emperor Henry III
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Michael_Rottmayr_001.jpg?width=600
 searchAliases:
-  - "Benno von Woldenburg"
-  - "Benedict…"
-  - "Bennone…"
+  - Benno von Woldenburg
+  - Benedict…
+  - Bennone…
 birthYear: 1010
 deathYear: 1106
-born: "1010 at Hildesheim, Germany"
-died: "16 June 1106 of natural causes"
-birthPlace: "Germany"
-region: "Germany"
+born: 1010 at Hildesheim, Germany
+died: 16 June 1106 of natural causes
+birthPlace: Germany
+region: Germany
 feastDay:
   month: 6
   day: 16
@@ -22,12 +25,15 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - "anglers, fishermen"
-  - "weavers"
-  - "–"
-  - "in Germany\n\nBavaria"
-  - "Dresden-Meissen, diocese of"
-  - "Munich"
+  - anglers, fishermen
+  - weavers
+  - –
+  - |-
+    in Germany
+
+    Bavaria
+  - Dresden-Meissen, diocese of
+  - Munich
 martyr: false
 ---
 

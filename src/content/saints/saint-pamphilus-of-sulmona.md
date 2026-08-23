@@ -1,11 +1,14 @@
 ---
-name: "Saint Pamphilus of Sulmona"
+name: Saint Pamphilus of Sulmona
 honorific: Saint
-summary: "Seventh century bishop of Sulmona and Corfinium with his see in Abruzzi, Italy. Fed the poor, educated the people, and set an example of piety. Had a custom of celebrating Mass after singing the midnight Office; he followed that by distributing alms, praying through the night, an"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Statua_di_San_Panfilo.jpg/960px-Statua_di_San_Panfilo.jpg"
+summary: >-
+  Seventh century bishop of Sulmona and Corfinium with his see in Abruzzi, Italy. Fed the poor, educated the people, and
+  set an example of piety. Had a custom of celebrating Mass after singing the midnight Office; he followed that by
+  distributing alms, praying through the night, an
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Statua_di_San_Panfilo.jpg?width=600
 searchAliases:
-  - "Panfilo"
-region: "Italy"
+  - Panfilo
+region: Italy
 feastDay:
   month: 4
   day: 28
@@ -15,8 +18,8 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Scerni, Italy"
-  - "Sulmona-Valva, Italy, diocese of"
+  - Scerni, Italy
+  - Sulmona-Valva, Italy, diocese of
 martyr: false
 ---
 

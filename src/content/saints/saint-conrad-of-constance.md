@@ -1,14 +1,17 @@
 ---
-name: "Saint Conrad of Constance"
+name: Saint Conrad of Constance
 honorific: Saint
-summary: "Second son of Count Heinrich von Altdorf, part of the Guelf family. Educated at the cathedral school at Constance, Germany (in modern Switzerland). Priest. Provost of the cathedral. Bishop of Constance from 934 to 975. Made three pilgrimages to the Holy Lands. Accompanied Emperor"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Konrad_Kupferscheibe.jpg/960px-Konrad_Kupferscheibe.jpg"
+summary: >-
+  Second son of Count Heinrich von Altdorf, part of the Guelf family. Educated at the cathedral school at Constance,
+  Germany (in modern Switzerland). Priest. Provost of the cathedral. Bishop of Constance from 934 to 975. Made three
+  pilgrimages to the Holy Lands. Accompanied Emperor
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Konrad_Kupferscheibe.jpg?width=600
 searchAliases:
-  - "Konrad of Konstanz"
-  - "Corrado di Costanza"
+  - Konrad of Konstanz
+  - Corrado di Costanza
 deathYear: 975
-died: "975 of natural causes"
-region: "Germany"
+died: 975 of natural causes
+region: Germany
 feastDay:
   month: 11
   day: 26
@@ -19,9 +22,9 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Constance, Germany, city of"
-  - "Constance, Germany, diocese of"
-  - "Freiburg im Breisgau, Germany, archdiocese of"
+  - Constance, Germany, city of
+  - Constance, Germany, diocese of
+  - Freiburg im Breisgau, Germany, archdiocese of
 martyr: false
 ---
 

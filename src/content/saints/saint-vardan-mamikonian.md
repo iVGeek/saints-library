@@ -1,18 +1,22 @@
 ---
-name: "Saint Vardan Mamikonian"
+name: Saint Vardan Mamikonian
 honorific: Saint
-summary: "Born a prince, the son of Hamazasp and Dustr; his maternal grandfather was Isaac, the Armenian katholikos or leader of the regional Church, who saw to the religious training of young Vardan. A career soldier, Vardan became supreme commander of the armies of Armenia in 432. Marrie"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg/960px-Illustrated_Armenia_and_the_Armenians_%281908%29_%2814803073943%29.jpg"
+summary: >-
+  Born a prince, the son of Hamazasp and Dustr; his maternal grandfather was Isaac, the Armenian katholikos or leader of
+  the regional Church, who saw to the religious training of young Vardan. A career soldier, Vardan became supreme
+  commander of the armies of Armenia in 432. Marrie
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Illustrated_Armenia_and_the_Armenians_%25281908%2529_%252814803073943%2529.jpg?width=600
 searchAliases:
-  - "Vartan"
-  - "Wardā"
+  - Vartan
+  - Wardā
 birthYear: 387
 deathYear: 451
-born: "387 in Artashat, Taron, Armenia</a"
-died: "26 May 451 in combat on the Avarayr Plain, Vaspurakan, Greater Armenia"
-birthPlace: "Taron, Armenia</a"
-deathPlace: "Vaspurakan, Greater Armenia"
-region: "England"
+born: 387 in Artashat, Taron, Armenia</a
+died: 26 May 451 in combat on the Avarayr Plain, Vaspurakan, Greater Armenia
+birthPlace: Taron, Armenia</a
+deathPlace: Vaspurakan, Greater Armenia
+region: England
 feastDay:
   month: 8
   day: 5
@@ -21,7 +25,7 @@ vocation:
   - Priest
   - Soldier
 patronage:
-  - "Knights of Vartan"
+  - Knights of Vartan
 martyr: true
 ---
 

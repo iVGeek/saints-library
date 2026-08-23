@@ -2,8 +2,11 @@
 name: Saint Wenceslaus of Bohemia
 honorific: Saint
 title: St. Wenceslaus of Bohemia
-summary: "Son of Vratislav I, Duke of Bohemia, whose family had been converted by Saint Cyril and Saint Methodius, and Drahomira, daughter of a pagan chief; she was baptized on her wedding day, but who apparent..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Wolfenb%C3%BCttelsk%C3%BD_kodex_%E2%80%93_Gumpoldova_legenda_%E2%80%93_18v_cr.jpg/330px-Wolfenb%C3%BCttelsk%C3%BD_kodex_%E2%80%93_Gumpoldova_legenda_%E2%80%93_18v_cr.jpg"
+summary: >-
+  Son of Vratislav I, Duke of Bohemia, whose family had been converted by Saint Cyril and Saint Methodius, and
+  Drahomira, daughter of a pagan chief; she was baptized on her wedding day, but who apparent...
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Wolfenb%25C3%25BCttelsk%25C3%25BD_kodex_%25E2%2580%2593_Gumpoldova_legenda_%25E2%2580%2593_18v_cr.jpg?width=600
 imageAlt: Portrait of Saint Wenceslaus of Bohemia
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,8 +14,9 @@ searchAliases:
   - Vaclav
   - Václav
   - Venceslao
-birthPlace: "Prague"
-centuries: [16]
+birthPlace: Prague
+centuries:
+  - 16
 feastDay:
   month: 9
   day: 28

@@ -1,29 +1,33 @@
 ---
-name: "Saint Oliver Plunkett"
+name: Saint Oliver Plunkett
 honorific: Venerable
-summary: "Oliver was born to the Irish nobility, part of a family who supported King Charles I and the fight for Irish national freedom from England. Growing up, he was greatly influenced by his uncle Patrick, a Cistercian monk who later became bishop of the Irish dioceses of Ardagh and Me"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Oliver_Plunket_by_Edward_Luttrell.jpg/960px-Oliver_Plunket_by_Edward_Luttrell.jpg"
+summary: >-
+  Oliver was born to the Irish nobility, part of a family who supported King Charles I and the fight for Irish national
+  freedom from England. Growing up, he was greatly influenced by his uncle Patrick, a Cistercian monk who later became
+  bishop of the Irish dioceses of Ardagh and Me
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Oliver_Plunket_by_Edward_Luttrell.jpg?width=600
 searchAliases:
-  - "Oileabhéar Pluincéad"
-  - "Oliver Plunket"
+  - Oileabhéar Pluincéad
+  - Oliver Plunket
 birthYear: 1629
 deathYear: 1681
-born: "30 September 1629 at Loughenew, County Meath, Ireland"
-died: "hanged, drawn, and quartered on 1 July 1681 at Tyburn, England"
-birthPlace: "County Meath, Ireland"
-deathPlace: "drawn, and quartered on 1 July 1681 at Tyburn, England"
-region: "Ireland"
+born: 30 September 1629 at Loughenew, County Meath, Ireland
+died: hanged, drawn, and quartered on 1 July 1681 at Tyburn, England
+birthPlace: County Meath, Ireland
+deathPlace: drawn, and quartered on 1 July 1681 at Tyburn, England
+region: Ireland
 feastDay:
   month: 7
   day: 1
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Armagh, Ireland, archdiocese of"
+  - Armagh, Ireland, archdiocese of
 martyr: true
 ---
 

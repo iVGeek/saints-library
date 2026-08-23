@@ -1,25 +1,29 @@
 ---
-name: "Saint Josemaría Escrivá"
+name: Saint Josemaría Escrivá
 honorific: Venerable
-summary: "One of six children born to Jose and Dolores Escriva; three of his siblings died in infancy. His father was a small businessman, and when his business failed in 1915, the family moved to Logroño, Spain. As a young man, Josemaria saw the bare footprints left in the snow by a monk;"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Josemaria_Escriva.jpg/960px-Josemaria_Escriva.jpg"
+summary: >-
+  One of six children born to Jose and Dolores Escriva; three of his siblings died in infancy. His father was a small
+  businessman, and when his business failed in 1915, the family moved to Logroño, Spain. As a young man, Josemaria saw
+  the bare footprints left in the snow by a monk;
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Josemaria_Escriva.jpg?width=600
 searchAliases:
-  - "Josemaria Escriva de Balaguer"
+  - Josemaria Escriva de Balaguer
 birthYear: 1902
 deathYear: 1975
-born: "9 January 1902 at Barbastro, Spain"
-died: "26 June 1975 of natural causes in his office in Rome, Italy"
-birthPlace: "Spain"
-deathPlace: "Italy"
-region: "Spain"
+born: 9 January 1902 at Barbastro, Spain
+died: 26 June 1975 of natural causes in his office in Rome, Italy
+birthPlace: Spain
+deathPlace: Italy
+region: Spain
 feastDay:
   month: 6
   day: 26
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Confessor
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
 ---
 

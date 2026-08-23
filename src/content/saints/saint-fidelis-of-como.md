@@ -1,13 +1,13 @@
 ---
-name: "Saint Fidelis of Como"
+name: Saint Fidelis of Como
 honorific: Saint
-summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian Herculeus."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/S_Fedele_Verscio_120115.jpg/960px-S_Fedele_Verscio_120115.jpg"
+summary: Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian Herculeus.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/S_Fedele_Verscio_120115.jpg?width=600
 searchAliases:
-  - "Fedele"
+  - Fedele
 deathYear: 304
-died: "c.304"
-region: "Italy"
+died: c.304
+region: Italy
 feastDay:
   month: 10
   day: 28
@@ -16,11 +16,14 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "in Italy\n\nArona"
-  - "Castelnuovo Magra"
-  - "Mello"
-  - "Palazzolo sull'Oglio"
-  - "Plesio"
+  - |-
+    in Italy
+
+    Arona
+  - Castelnuovo Magra
+  - Mello
+  - Palazzolo sull'Oglio
+  - Plesio
 martyr: true
 ---
 

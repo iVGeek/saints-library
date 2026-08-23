@@ -1,21 +1,25 @@
 ---
-name: "Saint Otto of Bamberg"
+name: Saint Otto of Bamberg
 honorific: Saint
-summary: "Born to the Swabian nobility. Priest. Part of the household of Duke Ladislas of Poland. Entered the service of Emperor Henry IV in 1090. Chancellor in 1101. When Henry broke with Rome over the dispute of the investiture of bishops by Rome as opposed to local authorities, Otto was"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pr%C3%BCfening_Klosterkirche_-_Romanische_Fresken_3b_Otto_von_Bamberg.jpg/960px-Pr%C3%BCfening_Klosterkirche_-_Romanische_Fresken_3b_Otto_von_Bamberg.jpg"
+summary: >-
+  Born to the Swabian nobility. Priest. Part of the household of Duke Ladislas of Poland. Entered the service of Emperor
+  Henry IV in 1090. Chancellor in 1101. When Henry broke with Rome over the dispute of the investiture of bishops by
+  Rome as opposed to local authorities, Otto was
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Pr%25C3%25BCfening_Klosterkirche_-_Romanische_Fresken_3b_Otto_von_Bamberg.jpg?width=600
 searchAliases:
-  - "Apostle of Pomerania"
-  - "Father of Monks"
-  - "Odo"
-  - "Othello"
-  - "Otho"
-  - "Ottone"
+  - Apostle of Pomerania
+  - Father of Monks
+  - Odo
+  - Othello
+  - Otho
+  - Ottone
 birthYear: 1060
 deathYear: 1139
-born: "1060 in Swabia (part of modern Germany)"
-died: "30 June 1139 in Bamberg, Franconia (in modern Germany)"
-deathPlace: "Franconia (modern Germany)"
-region: "Poland"
+born: 1060 in Swabia (part of modern Germany)
+died: 30 June 1139 in Bamberg, Franconia (in modern Germany)
+deathPlace: Franconia (modern Germany)
+region: Poland
 feastDay:
   month: 6
   day: 30
@@ -25,12 +29,15 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against hydrophobia"
-  - "against mad dogs"
-  - "against rabies"
-  - "–"
-  - "in Germany\n\nBamberg, archdiocese of"
-  - "Bamberg, city of"
+  - against hydrophobia
+  - against mad dogs
+  - against rabies
+  - –
+  - |-
+    in Germany
+
+    Bamberg, archdiocese of
+  - Bamberg, city of
 martyr: false
 ---
 

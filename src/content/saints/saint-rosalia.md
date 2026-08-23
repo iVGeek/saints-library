@@ -1,17 +1,20 @@
 ---
-name: "Saint Rosalia"
+name: Saint Rosalia
 honorific: Saint
-summary: "Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne. Raised around the royal Sicilian court. From her youth, Rosalia knew she was called to dedicate her life to God. When grown, she moved to cave near her parent's home,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthonis_van_Dyck_084.jpg/960px-Anthonis_van_Dyck_084.jpg"
+summary: >-
+  Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne.
+  Raised around the royal Sicilian court. From her youth, Rosalia knew she was called to dedicate her life to God. When
+  grown, she moved to cave near her parent's home,
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Anthonis_van_Dyck_084.jpg?width=600
 searchAliases:
-  - "La Santuzza (the little saint)"
+  - La Santuzza (the little saint)
 birthYear: 1130
 deathYear: 1160
-born: "c.1130 at Palermo, Sicily"
-died: "c.1160 Mount Pellegrino, Italy, apparently of natural causes"
-birthPlace: "Sicily"
-deathPlace: "Italy, apparentlynatural causes"
-region: "Italy"
+born: c.1130 at Palermo, Sicily
+died: c.1160 Mount Pellegrino, Italy, apparently of natural causes
+birthPlace: Sicily
+deathPlace: Italy, apparentlynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 4
@@ -21,22 +24,25 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "locations in Italy\n\nBaucina"
-  - "Benetutti"
-  - "Bivona"
-  - "Caltagirone, diocese of"
-  - "Campofelice di Roccella"
-  - "Delia"
-  - "Isola delle Femine"
-  - "Lentiscosa"
-  - "Palermo, archdiocese of"
-  - "Palermo, city of"
-  - "Pegli"
-  - "Racalmuto"
-  - "San Mango Cilento"
-  - "Santo Stefano Quisquina"
-  - "Sicily"
-  - "Vicari"
+  - |-
+    locations in Italy
+
+    Baucina
+  - Benetutti
+  - Bivona
+  - Caltagirone, diocese of
+  - Campofelice di Roccella
+  - Delia
+  - Isola delle Femine
+  - Lentiscosa
+  - Palermo, archdiocese of
+  - Palermo, city of
+  - Pegli
+  - Racalmuto
+  - San Mango Cilento
+  - Santo Stefano Quisquina
+  - Sicily
+  - Vicari
 martyr: false
 ---
 

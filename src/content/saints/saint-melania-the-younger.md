@@ -1,13 +1,17 @@
 ---
-name: "Saint Melania the Younger"
+name: Saint Melania the Younger
 honorific: Saint
-summary: "Wealthy Roman patrician noble; granddaughter of Saint Melania the Elder. Married against her will to Valerius Pinianus (Saint Pinian) at age 13. After the death of their two children, both of whom died young, and to escape Visigoth invasion, the couple fled to Tagaste in North Af"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Melania_the_Younger%2C_nun_of_Rome_%28Menologion_of_Basil_II%29.jpg/960px-Melania_the_Younger%2C_nun_of_Rome_%28Menologion_of_Basil_II%29.jpg"
+summary: >-
+  Wealthy Roman patrician noble; granddaughter of Saint Melania the Elder. Married against her will to Valerius Pinianus
+  (Saint Pinian) at age 13. After the death of their two children, both of whom died young, and to escape Visigoth
+  invasion, the couple fled to Tagaste in North Af
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Melania_the_Younger%252C_nun_of_Rome_%2528Menologion_of_Basil_II%2529.jpg?width=600
 birthYear: 383
 deathYear: 439
-born: "c.383"
-died: "late December 439 at Jerusalem of natural causes"
-region: "Spain"
+born: c.383
+died: late December 439 at Jerusalem of natural causes
+region: Spain
 feastDay:
   month: 12
   day: 31
@@ -18,8 +22,8 @@ vocation:
   - Cardinal
   - Hermit
 patronage:
-  - "against the death of children"
-  - "exiles"
+  - against the death of children
+  - exiles
 martyr: false
 ---
 

@@ -2,8 +2,10 @@
 name: Cecilia of Rome
 honorific: Saint
 title: Virgin, Martyr
-summary: A Roman noblewoman of the third century who sang to God in her heart at her wedding feast and died for her faith — patroness of music, and the saint whose name still rings through the world's concert halls.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Guercino_-_St._Cecilia_-_Google_Art_Project.jpg/330px-Guercino_-_St._Cecilia_-_Google_Art_Project.jpg
+summary: >-
+  A Roman noblewoman of the third century who sang to God in her heart at her wedding feast and died for her faith —
+  patroness of music, and the saint whose name still rings through the world's concert halls.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Guercino_-_St._Cecilia_-_Google_Art_Project.jpg?width=600
 imageAlt: Portrait of Cecilia of Rome
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,8 @@ died: c. 230
 birthPlace: Rome, Italy
 deathPlace: Rome, Italy
 region: Italy
-centuries: [3]
+centuries:
+  - 3
 feastDay:
   month: 11
   day: 22
@@ -37,41 +40,45 @@ symbols:
   - Sword
 martyr: true
 lifeEvents:
-  - year: "3rd century"
+  - year: 3rd century
     event: Born in Rome to a noble Christian family; consecrated to God in her youth.
-  - year: "c. 220s"
-    event: Married against her will to Valerian; by her persuasion he and his brother are converted and baptized by Pope Urban.
-  - year: "c. 230"
-    event: Martyred in the persecution of Alexander Severus; tradition says she was struck by the sword and lingered three days.
-  - year: "c. 821"
+  - year: c. 220s
+    event: >-
+      Married against her will to Valerian; by her persuasion he and his brother are converted and baptized by Pope
+      Urban.
+  - year: c. 230
+    event: >-
+      Martyred in the persecution of Alexander Severus; tradition says she was struck by the sword and lingered three
+      days.
+  - year: c. 821
     event: Pope Paschal I translates her relics to the church built over her house in Trastevere.
-  - year: "1599"
-    event: Her tomb is opened; her body is found incorrupt, and the sculptor Maderno is allowed to view her as she is remembered in art.
+  - year: '1599'
+    event: >-
+      Her tomb is opened; her body is found incorrupt, and the sculptor Maderno is allowed to view her as she is
+      remembered in art.
 quotes:
   - text: >-
-      While the organs played, Cecilia sang in her heart to the Lord, saying: Let my heart be undefiled, that I be not confounded.
+      While the organs played, Cecilia sang in her heart to the Lord, saying: Let my heart be undefiled, that I be not
+      confounded.
     source: The Acts of Saint Cecilia
 prayers:
   - name: Prayer to Saint Cecilia
     kind: Prayer for musicians and for purity of heart
     text: >-
-      O Saint Cecilia, whose heart sang to the Lord while the world made music, obtain for us a
-      harmony of soul. Bless all musicians and singers, that their art may lift hearts to God;
-      keep pure the songs of our hearts; and give us courage to praise God even in suffering.
-      Amen.
-  - name: "Novena to Saint Cecilia"
-    kind: "Novena — nine-day prayer for music and worship"
+      O Saint Cecilia, whose heart sang to the Lord while the world made music, obtain for us a harmony of soul. Bless
+      all musicians and singers, that their art may lift hearts to God; keep pure the songs of our hearts; and give us
+      courage to praise God even in suffering. Amen.
+  - name: Novena to Saint Cecilia
+    kind: Novena — nine-day prayer for music and worship
     text: >-
-      O glorious Saint Cecilia, virgin and martyr, patroness of musicians, I turn to you in
-      this novena with a heart that longs to praise God. You who sang to the Lord in your
-      heart while the world made music around you, teach me to offer every song, every talent,
-      and every breath as a hymn of praise. Bless all musicians, singers, and composers, that
-      their art may lift the hearts of the faithful to God. Obtain for me the grace to make a
-      joyful noise unto the Lord in all that I do, whether in music or in the silent music of a
-      virtuous life. You who remained faithful to Christ even unto martyrdom, keep me steadfast
-      in faith and pure in heart. O Saint Cecilia, whose love for God was a melody that death
-      could not silence, may my life become a song of praise that resounds for eternity in the
-      courts of heaven. Amen.
+      O glorious Saint Cecilia, virgin and martyr, patroness of musicians, I turn to you in this novena with a heart
+      that longs to praise God. You who sang to the Lord in your heart while the world made music around you, teach me
+      to offer every song, every talent, and every breath as a hymn of praise. Bless all musicians, singers, and
+      composers, that their art may lift the hearts of the faithful to God. Obtain for me the grace to make a joyful
+      noise unto the Lord in all that I do, whether in music or in the silent music of a virtuous life. You who remained
+      faithful to Christ even unto martyrdom, keep me steadfast in faith and pure in heart. O Saint Cecilia, whose love
+      for God was a melody that death could not silence, may my life become a song of praise that resounds for eternity
+      in the courts of heaven. Amen.
 relatedSaints:
   - name: Agnes of Rome
     slug: agnes-of-rome

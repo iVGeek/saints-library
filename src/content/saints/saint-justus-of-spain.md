@@ -1,11 +1,12 @@
 ---
-name: "Saint Justus of Spain"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Justus_Sustermans_-_Eleonora_Gonzaga_%281598-1655%29%2C_wife_of_Ferdinand_II%2C_in_wedding_dress.jpg/960px-Justus_Sustermans_-_Eleonora_Gonzaga_%281598-1655%29%2C_wife_of_Ferdinand_II%2C_in_wedding_dress.jpg"
+name: Saint Justus of Spain
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Justus_Sustermans_-_Eleonora_Gonzaga_%25281598-1655%2529%252C_wife_of_Ferdinand_II%252C_in_wedding_dress.jpg?width=600
 honorific: Saint
-summary: "Martyr. No other information has survived"
+summary: Martyr. No other information has survived
 deathYear: 283
-died: "283 in Spain"
-region: "Spain"
+died: 283 in Spain
+region: Spain
 feastDay:
   month: 12
   day: 14

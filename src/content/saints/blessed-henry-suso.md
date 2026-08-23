@@ -1,22 +1,25 @@
 ---
-name: "Blessed Henry Suso"
+name: Blessed Henry Suso
 honorific: Blessed
-summary: "Born to the German nobility. Joined the Dominicans at age 13. Known as a mystic. Served as prior at several houses. Theological student of Meister Eckhart in Cologne, Germany from 1322 to 1325. Taught in Constance, Switzerland. Spent years imprisoned in a dungeon due to slander a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Heinrich_Suso_Gem%C3%A4lde_1601.jpg/960px-Heinrich_Suso_Gem%C3%A4lde_1601.jpg"
+summary: >-
+  Born to the German nobility. Joined the Dominicans at age 13. Known as a mystic. Served as prior at several houses.
+  Theological student of Meister Eckhart in Cologne, Germany from 1322 to 1325. Taught in Constance, Switzerland. Spent
+  years imprisoned in a dungeon due to slander a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Suso_Gem%25C3%25A4lde_1601.jpg?width=600
 searchAliases:
-  - "Amandus"
-  - "Heinrich Seuse"
-  - "Heinrich von Berg"
-  - "Henrik Seuse"
-  - "Henry Susone"
-  - "Servant of the Eternal Wisdom"
+  - Amandus
+  - Heinrich Seuse
+  - Heinrich von Berg
+  - Henrik Seuse
+  - Henry Susone
+  - Servant of the Eternal Wisdom
 birthYear: 1295
 deathYear: 1366
-born: "21 March 1295 at Uberlingen, Germany as Heinrich von Berg"
-died: "25 January 1366 at Ulm, Germany of natural cause"
-birthPlace: "Germany as Heinrich von Berg"
-deathPlace: "Germanynatural cause"
-region: "Germany"
+born: 21 March 1295 at Uberlingen, Germany as Heinrich von Berg
+died: 25 January 1366 at Ulm, Germany of natural cause
+birthPlace: Germany as Heinrich von Berg
+deathPlace: Germanynatural cause
+region: Germany
 feastDay:
   month: 1
   day: 25
@@ -25,7 +28,7 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
 ---
 

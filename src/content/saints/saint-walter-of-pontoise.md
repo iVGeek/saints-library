@@ -1,24 +1,29 @@
 ---
-name: "Saint Walter of Pontoise"
+name: Saint Walter of Pontoise
 honorific: Saint
-summary: "Well educated in general, and a professor of philosophy and rhetoric. Joined the Benedictines at Rebais-en-Brie to escape the world and the temptations presented by success in his field. Against his will he was made abbot of Pontoise Abbey by King Philip I; Walter reminded the ki"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG/960px-Pontoise_Cath%C3%A9drale_Saint-Maclou110296.JPG"
+summary: >-
+  Well educated in general, and a professor of philosophy and rhetoric. Joined the Benedictines at Rebais-en-Brie to
+  escape the world and the temptations presented by success in his field. Against his will he was made abbot of Pontoise
+  Abbey by King Philip I; Walter reminded the ki
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pontoise_Cath%25C3%25A9drale_Saint-Maclou110296.JPG?width=600
 searchAliases:
-  - "Walter of Pontnoise"
-  - "Walter of Rebais"
-  - "Walter of Saint-Martin de Pontoise\nGaucher"
-  - "Gaultier"
-  - "Gautier"
-  - "Gualterio"
-  - "Gualtiero"
-  - "Walther"
+  - Walter of Pontnoise
+  - Walter of Rebais
+  - |-
+    Walter of Saint-Martin de Pontoise
+    Gaucher
+  - Gaultier
+  - Gautier
+  - Gualterio
+  - Gualtiero
+  - Walther
 birthYear: 1030
 deathYear: 1099
-born: "c.1030 in Andainville, Picardy, France"
-died: "Good Friday, 8 April 1099 of natural causes"
-birthPlace: "Picardy, France"
-deathPlace: "8 April 1099natural causes"
-region: "Italy"
+born: c.1030 in Andainville, Picardy, France
+died: Good Friday, 8 April 1099 of natural causes
+birthPlace: Picardy, France
+deathPlace: 8 April 1099natural causes
+region: Italy
 feastDay:
   month: 3
   day: 23
@@ -26,15 +31,15 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against job-related stress"
-  - "prisoners"
-  - "prisoners of war"
-  - "vine dressers"
-  - "vintners"
-  - "—"
-  - "Pontoise, France"
+  - against job-related stress
+  - prisoners
+  - prisoners of war
+  - vine dressers
+  - vintners
+  - —
+  - Pontoise, France
 martyr: false
 ---
 

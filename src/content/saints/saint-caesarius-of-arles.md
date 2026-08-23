@@ -1,17 +1,21 @@
 ---
-name: "Saint Caesarius of Arles"
+name: Saint Caesarius of Arles
 honorific: Saint
-summary: "Brother of Saint Caesaria of Arles. Entered the monastery at L&eacute;rins at age 18, and worked as his house's cellarer. His devotion to duty earned him the enmity of some of his brother monks who were too interested in the house wines. Illness forced him to leave the monastery,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Arles%2CSt_C%C3%A9saire27%2Cchoeur7%2CSt_C%C3%A9saire_%28cropped%29.jpg/960px-Arles%2CSt_C%C3%A9saire27%2Cchoeur7%2CSt_C%C3%A9saire_%28cropped%29.jpg"
+summary: >-
+  Brother of Saint Caesaria of Arles. Entered the monastery at L&eacute;rins at age 18, and worked as his house's
+  cellarer. His devotion to duty earned him the enmity of some of his brother monks who were too interested in the house
+  wines. Illness forced him to leave the monastery,
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Arles%252CSt_C%25C3%25A9saire27%252Cchoeur7%252CSt_C%25C3%25A9saire_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Césaire"
+  - Césaire
 birthYear: 470
 deathYear: 543
-born: "470 at Ch&acirc;lons, Burgundy, Gaul (modern France)"
-died: "27 August 543 at Saint John's convent, Arles, Gaul (modern France)"
-birthPlace: "Burgundy, Gaul (modern France)"
-deathPlace: "Arles, Gaul (modern France)"
-region: "France"
+born: 470 at Ch&acirc;lons, Burgundy, Gaul (modern France)
+died: 27 August 543 at Saint John's convent, Arles, Gaul (modern France)
+birthPlace: Burgundy, Gaul (modern France)
+deathPlace: Arles, Gaul (modern France)
+region: France
 feastDay:
   month: 8
   day: 27
@@ -19,11 +23,11 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - "against fire"
-  - "–"
-  - "Aix-Arles, France, archdiocese of"
-  - "Arles, France"
-  - "Chalon-sur-Saône"
+  - against fire
+  - –
+  - Aix-Arles, France, archdiocese of
+  - Arles, France
+  - Chalon-sur-Saône
 martyr: false
 ---
 

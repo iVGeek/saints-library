@@ -1,15 +1,16 @@
 ---
-name: "Saint John of Matha"
+name: Saint John of Matha
 honorific: Saint
-summary: " At the first Mass he celebrated, John received a vision of an angel clothed in white with a red and blue cross on Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St._John_of_Matha_discussing_the_Gospel_with_a_Pirate.jpg/960px-St._John_of_Matha_discussing_the_Gospel_with_a_Pirate.jpg"
+summary: ' At the first Mass he celebrated, John received a vision of an angel clothed in white with a red and blue cross on Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/St._John_of_Matha_discussing_the_Gospel_with_a_Pirate.jpg?width=600
 birthYear: 1160
 deathYear: 1223
-born: "23 June 1160 at Faucon, Provence, France"
-died: "12 December 1223 at Rome, Italy of natural causes"
-birthPlace: "Provence, France"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 23 June 1160 at Faucon, Provence, France
+died: 12 December 1223 at Rome, Italy of natural causes
+birthPlace: Provence, France
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 12
   day: 17
@@ -17,12 +18,15 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "captives; prisoners"
-  - "–"
-  - "in France\n\nFaucon"
-  - "Meaux"
+  - captives; prisoners
+  - –
+  - |-
+    in France
+
+    Faucon
+  - Meaux
 martyr: false
 ---
 

@@ -1,17 +1,21 @@
 ---
-name: "Blessed Pope John Paul I"
+name: Blessed Pope John Paul I
 honorific: Blessed
-summary: "Son of Giovanni Luciani and Bortola Tancon, poor working folks; he was baptized the same day at home by the midwife as he was in danger of death. Albino entered the seminary at Feltre, Italy in October 1923, and the Gregorian seminary at Belluno, Italy in October 1928. Deacon on"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/960px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg"
+summary: >-
+  Son of Giovanni Luciani and Bortola Tancon, poor working folks; he was baptized the same day at home by the midwife as
+  he was in danger of death. Albino entered the seminary at Feltre, Italy in October 1923, and the Gregorian seminary at
+  Belluno, Italy in October 1928. Deacon on
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Paus_Johannes_Paulus_I_%2528Bestanddeelnr_929-9074%2529_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Albino Luciani"
+  - Albino Luciani
 birthYear: 1912
 deathYear: 1978
-born: "17 October 1912 in Forno di Canale (modern Canale d'Agordo), Italy as Albino Luciani"
-died: "28 September 1978 in Rome, Italy of a heart attack"
-birthPlace: "Italy as Albino Luciani"
-deathPlace: "Italya heart attack"
-region: "France"
+born: 17 October 1912 in Forno di Canale (modern Canale d'Agordo), Italy as Albino Luciani
+died: 28 September 1978 in Rome, Italy of a heart attack
+birthPlace: Italy as Albino Luciani
+deathPlace: Italya heart attack
+region: France
 feastDay:
   month: 2
   day: 2

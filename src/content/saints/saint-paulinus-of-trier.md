@@ -1,14 +1,17 @@
 ---
-name: "Saint Paulinus of Trier"
+name: Saint Paulinus of Trier
 honorific: Saint
-summary: "Missionary to Germany where he worked with Saint Maximinus in the area of Trier. Bishop of Trier in 349. Strongly supported Saint Athanasius of Alexandria, which led to him being exiled to Phrygia, Asia Minor by the Arian Emperor Constantius in 355; he was never able to return to"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Denkmal_Paulinus_von_Trier.jpg/960px-Denkmal_Paulinus_von_Trier.jpg"
+summary: >-
+  Missionary to Germany where he worked with Saint Maximinus in the area of Trier. Bishop of Trier in 349. Strongly
+  supported Saint Athanasius of Alexandria, which led to him being exiled to Phrygia, Asia Minor by the Arian Emperor
+  Constantius in 355; he was never able to return to
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Denkmal_Paulinus_von_Trier.jpg?width=600
 deathYear: 358
-born: "Gascony, France"
-died: "358 in Phrygia, Asia Minor (in modern Turkey)"
-birthPlace: "France"
-deathPlace: "Asia Minor (modern Turkey)"
-region: "Germany"
+born: Gascony, France
+died: 358 in Phrygia, Asia Minor (in modern Turkey)
+birthPlace: France
+deathPlace: Asia Minor (modern Turkey)
+region: Germany
 feastDay:
   month: 8
   day: 31

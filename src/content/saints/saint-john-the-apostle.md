@@ -1,21 +1,24 @@
 ---
-name: "Saint John the Apostle"
+name: Saint John the Apostle
 honorific: Saint
-summary: "Son of Zebedee and Salome. Fisherman. Brother of Saint James the Greater, and called one of the Sons of Thunder. Disciple of Saint John the Baptist. Friend of Saint Peter the Apostle. Called by Jesus during the first year of His ministry, and traveled everywhere with Him, becomin"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rubens_apostel_johannes_grt.jpg/960px-Rubens_apostel_johannes_grt.jpg"
+summary: >-
+  Son of Zebedee and Salome. Fisherman. Brother of Saint James the Greater, and called one of the Sons of Thunder.
+  Disciple of Saint John the Baptist. Friend of Saint Peter the Apostle. Called by Jesus during the first year of His
+  ministry, and traveled everywhere with Him, becomin
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Rubens_apostel_johannes_grt.jpg?width=600
 searchAliases:
-  - "Apostle of Charity"
-  - "Beloved Apostle"
-  - "Beloved Disciple"
-  - "Giovanni Evangelista"
-  - "John the Beloved"
-  - "John the Divine"
-  - "John the Evangelist"
-  - "John the Gospeller"
-  - "John the Theologian"
+  - Apostle of Charity
+  - Beloved Apostle
+  - Beloved Disciple
+  - Giovanni Evangelista
+  - John the Beloved
+  - John the Divine
+  - John the Evangelist
+  - John the Gospeller
+  - John the Theologian
 deathYear: 101
-died: "c.101 at Ephesus (in modern Turkey)"
-region: "Poland"
+died: c.101 at Ephesus (in modern Turkey)
+region: Poland
 feastDay:
   month: 12
   day: 27
@@ -23,68 +26,71 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against burns"
-  - "against epilepsy"
-  - "against foot problems"
-  - "against hailstorms"
-  - "against poisoning"
-  - "burn victims"
-  - "—"
-  - "arms manufacturers"
-  - "art dealers"
-  - "artists"
-  - "authors"
-  - "basket makers"
-  - "bookbinders"
-  - "booksellers"
-  - "publishers"
-  - "butchers"
-  - "candle makers"
-  - "compositors"
-  - "editors"
-  - "engravers"
-  - "friendships"
-  - "glaziers"
-  - "government officials"
-  - "harvests"
-  - "lithographers"
-  - "notaries"
-  - "oil refiners"
-  - "painters"
-  - "papermakers"
-  - "printers"
-  - "saddle makers"
-  - "scholars"
-  - "sculptors"
-  - "stationers"
-  - "tanners"
-  - "theologians"
-  - "typesetters"
-  - "vintners"
-  - "writers"
-  - "Arezzo-Cortona-Sansepolcro, Italy, diocese of"
-  - "Boise, Idaho, diocese of"
-  - "Cleveland, Ohio, diocese of"
-  - "Saint-Jean – Longueuil, Québec, diocese of"
-  - "Salford, England, diocese of"
-  - "Sansepolcro, Italy, diocese of"
-  - "Eger, Hungary, archdiocese of"
-  - "Milwaukee, Wisconsin, archdiocese of"
-  - "Asia Minor (proclaimed on 26 October 1914 by Pope Benedict XV)"
-  - "Turkey"
-  - "–"
-  - "in Italy\n\nBorgo Santo Sepolcro"
-  - "Brandizzo"
-  - "Castel Focognano"
-  - "Lurago d'Erba"
-  - "Motta San Giovanni"
-  - "Paterno, Basilicata"
-  - "Ricò, Meldola"
-  - "Sansepolcro"
-  - "Umbria"
-  - "Vivaro"
+  - against burns
+  - against epilepsy
+  - against foot problems
+  - against hailstorms
+  - against poisoning
+  - burn victims
+  - —
+  - arms manufacturers
+  - art dealers
+  - artists
+  - authors
+  - basket makers
+  - bookbinders
+  - booksellers
+  - publishers
+  - butchers
+  - candle makers
+  - compositors
+  - editors
+  - engravers
+  - friendships
+  - glaziers
+  - government officials
+  - harvests
+  - lithographers
+  - notaries
+  - oil refiners
+  - painters
+  - papermakers
+  - printers
+  - saddle makers
+  - scholars
+  - sculptors
+  - stationers
+  - tanners
+  - theologians
+  - typesetters
+  - vintners
+  - writers
+  - Arezzo-Cortona-Sansepolcro, Italy, diocese of
+  - Boise, Idaho, diocese of
+  - Cleveland, Ohio, diocese of
+  - Saint-Jean – Longueuil, Québec, diocese of
+  - Salford, England, diocese of
+  - Sansepolcro, Italy, diocese of
+  - Eger, Hungary, archdiocese of
+  - Milwaukee, Wisconsin, archdiocese of
+  - Asia Minor (proclaimed on 26 October 1914 by Pope Benedict XV)
+  - Turkey
+  - –
+  - |-
+    in Italy
+
+    Borgo Santo Sepolcro
+  - Brandizzo
+  - Castel Focognano
+  - Lurago d'Erba
+  - Motta San Giovanni
+  - Paterno, Basilicata
+  - Ricò, Meldola
+  - Sansepolcro
+  - Umbria
+  - Vivaro
 martyr: true
 ---
 

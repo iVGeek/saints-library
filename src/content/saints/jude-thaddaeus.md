@@ -2,8 +2,11 @@
 name: Jude Thaddaeus
 honorific: Saint
 title: Apostle, Martyr
-summary: The apostle of the hopeless — patron of impossible causes and desperate situations, whose name is invoked by the whole world in its darkest hours.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/330px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg
+summary: >-
+  The apostle of the hopeless — patron of impossible causes and desperate situations, whose name is invoked by the whole
+  world in its darkest hours.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Anthonis_van_Dyck%252C_Kunsthistorisches_Museum_Wien%252C_Gem%25C3%25A4ldegalerie_-_Apostel_Judas_Thadd%25C3%25A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg?width=600
 imageAlt: Portrait of Jude Thaddaeus
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,8 +22,9 @@ born: 1st century
 died: c. 65
 birthPlace: Galilee, Israel
 deathPlace: Beirut, Lebanon
-region: "Lebanon"
-centuries: [1]
+region: Lebanon
+centuries:
+  - 1
 feastDay:
   month: 10
   day: 28
@@ -41,33 +45,35 @@ symbols:
   - Ship
 martyr: true
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born in Galilee; tradition holds he was a brother or kinsman of James and of the Lord.
-  - year: "c. AD 27–33"
+  - year: c. AD 27–33
     event: >-
-      Chosen among the Twelve; at the Last Supper he asks Jesus why He will manifest Himself
-      only to them, receiving the great answer: "If anyone loves Me, he will keep My word."
-  - year: "AD 30s–60s"
+      Chosen among the Twelve; at the Last Supper he asks Jesus why He will manifest Himself only to them, receiving the
+      great answer: "If anyone loves Me, he will keep My word."
+  - year: AD 30s–60s
     event: Preaches in Judea, Samaria, Mesopotamia, and Persia with the apostle Simon.
-  - year: "c. AD 60s"
+  - year: c. AD 60s
     event: Writes the Letter of Jude, a brief defense of the faith.
-  - year: "c. 65"
+  - year: c. 65
     event: Martyred in Persia or Beirut, traditionally with a club or halberd.
-  - year: "18th century"
-    event: As hope for relief in desperate cases grows among the faithful, he becomes widely invoked as the patron of impossible causes.
+  - year: 18th century
+    event: >-
+      As hope for relief in desperate cases grows among the faithful, he becomes widely invoked as the patron of
+      impossible causes.
 quotes:
   - text: >-
-      But you, beloved, build yourselves up in your most holy faith and pray in the Holy Spirit; keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ.
+      But you, beloved, build yourselves up in your most holy faith and pray in the Holy Spirit; keep yourselves in the
+      love of God, waiting for the mercy of our Lord Jesus Christ.
     source: The Letter of Jude 20–21
 prayers:
   - name: Prayer to Saint Jude
     kind: Prayer for desperate and impossible causes
     text: >-
-      O most holy apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors
-      and invokes you universally as the patron of hopeless cases, of things despaired of. Pray
-      for me, who am so miserable; make use of that great privilege of yours to bring visible
-      and speedy help where help is almost despaired of. Show me that the merciful God has heard
-      my prayer; let me never cease to praise Him for your wonderful help. Amen.
+      O most holy apostle, Saint Jude, faithful servant and friend of Jesus, the Church honors and invokes you
+      universally as the patron of hopeless cases, of things despaired of. Pray for me, who am so miserable; make use of
+      that great privilege of yours to bring visible and speedy help where help is almost despaired of. Show me that the
+      merciful God has heard my prayer; let me never cease to praise Him for your wonderful help. Amen.
 relatedSaints:
   - name: Simon the Zealot
     slug: simon-the-zealot

@@ -1,14 +1,17 @@
 ---
-name: "Saint Pammachius"
+name: Saint Pammachius
 honorific: Saint
-summary: "Pious and learned Roman senator and proconsul; member of the noble Fuii family. Studied rhetoric with Saint Jerome. Married to Paulina, one of the daughters of Saint Paula, in 385. Widower in 397, Paulina dying in childbirth. Following Paulina's death, Pammachius devoted his weal"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pammachius_Ss_Giovanni_e_Paolo.JPG/960px-Pammachius_Ss_Giovanni_e_Paolo.JPG"
+summary: >-
+  Pious and learned Roman senator and proconsul; member of the noble Fuii family. Studied rhetoric with Saint Jerome.
+  Married to Paulina, one of the daughters of Saint Paula, in 385. Widower in 397, Paulina dying in childbirth.
+  Following Paulina's death, Pammachius devoted his weal
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pammachius_Ss_Giovanni_e_Paolo.JPG?width=600
 birthYear: 340
 deathYear: 410
-born: "340"
-died: "410 at Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: '340'
+died: 410 at Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 30

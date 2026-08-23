@@ -1,15 +1,20 @@
 ---
-name: "Blessed Giuseppe Rossi"
+name: Blessed Giuseppe Rossi
 honorific: Blessed
-summary: "Born the second son of a poor family. After studying at the seminary in the diocese of Novara, Italy, Giuseppe was ordained a priest on 29 June 1937. Parish priest at the church of San Gottardo in the small mountain town of Castiglione Ossola, Italy in 1939. He served there throu"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Giuseppe_Rossi01_%28cropped%29.jpg/960px-Giuseppe_Rossi01_%28cropped%29.jpg"
+summary: >-
+  Born the second son of a poor family. After studying at the seminary in the diocese of Novara, Italy, Giuseppe was
+  ordained a priest on 29 June 1937. Parish priest at the church of San Gottardo in the small mountain town of
+  Castiglione Ossola, Italy in 1939. He served there throu
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Rossi01_%2528cropped%2529.jpg?width=600
 birthYear: 1912
 deathYear: 1945
-born: "3 November 1912 in Varallo Pombia, Italy"
-died: "beaten in the head with a large rock, stabbed and then shot on the night of 26 February 1945 at Vallone dei Colombetti near Castiglione Ossola, Italy"
-birthPlace: "Italy"
-deathPlace: "stabbed and then shot on the night26 February 1945 at Vallone dei Colombetti near Castiglione Ossola, Italy"
-region: "France"
+born: 3 November 1912 in Varallo Pombia, Italy
+died: >-
+  beaten in the head with a large rock, stabbed and then shot on the night of 26 February 1945 at Vallone dei Colombetti
+  near Castiglione Ossola, Italy
+birthPlace: Italy
+deathPlace: stabbed and then shot on the night26 February 1945 at Vallone dei Colombetti near Castiglione Ossola, Italy
+region: France
 feastDay:
   month: 2
   day: 26

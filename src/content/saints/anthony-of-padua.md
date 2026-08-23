@@ -16,13 +16,16 @@ died: 13 June 1231
 birthPlace: Lisbon, Portugal
 deathPlace: Padua, Italy
 region: Portugal
-centuries: [12, 13]
+centuries:
+  - 12
+  - 13
 feastDay:
   month: 6
   day: 13
 liturgicalRank: Memorial
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg/960px-Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg"
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Zurbar%25C3%25A1n_-_Sto_Antonio_de_Padua.jpg?width=600
 beatifiedDate: 30 May 1232
 canonizedDate: 30 May 1232
 vocation:
@@ -48,51 +51,50 @@ symbols:
 martyr: false
 imageAlt: A 15th-century fresco of Saint Anthony of Padua by Benozzo Gozzoli
 imageCredit: Benozzo Gozzoli, fresco, Santa Maria in Aracoeli, Rome — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Saint_Anthony_of_Padua,_fresco_Benozzo_Gozzoli,_Church_Santa_Maria_in_Aracoeli,_Rome,_Italy.jpg"
+imageCreditUrl: >-
+  https://commons.wikimedia.org/wiki/File:Saint_Anthony_of_Padua,_fresco_Benozzo_Gozzoli,_Church_Santa_Maria_in_Aracoeli,_Rome,_Italy.jpg
 lifeEvents:
-  - year: "1195"
+  - year: '1195'
     event: Born Fernando de Bulhões in Lisbon, Portugal, to a noble family.
-  - year: "1210"
+  - year: '1210'
     event: Enters the Augustinian canons of the Order of Saint Augustine at São Vicente in Lisbon.
-  - year: "1220"
+  - year: '1220'
     event: Moved by the relics of Franciscan martyrs brought to Coimbra, joins the Friars Minor, taking the name Anthony.
-  - year: "1221"
+  - year: '1221'
     event: Meets Saint Francis at the general chapter; becomes a preacher and teacher of theology.
-  - year: "1227"
+  - year: '1227'
     event: Begins preaching throughout northern Italy and southern France against heresy.
-  - year: "1228–1231"
+  - year: 1228–1231
     event: Preaches in Padua with extraordinary effect; renowned for miracles and for defending the poor.
-  - year: "13 June 1231"
+  - year: 13 June 1231
     event: Dies at the age of thirty-five near Padua.
-  - year: "1232"
+  - year: '1232'
     event: Canonized by Pope Gregory IX within a year of his death.
-  - year: "1946"
+  - year: '1946'
     event: Proclaimed a Doctor of the Church by Pope Pius XII.
 quotes:
   - text: >-
-      The saints are like the stars in God's sky, shining as long as they live; after their death they shine even more brightly in the lives of those who imitate them.
+      The saints are like the stars in God's sky, shining as long as they live; after their death they shine even more
+      brightly in the lives of those who imitate them.
     source: Attributed to Saint Anthony
-  - text: >-
-      Actions speak louder than words; let your words teach and your actions speak.
+  - text: Actions speak louder than words; let your words teach and your actions speak.
     source: Attributed to Saint Anthony
 prayers:
   - name: Prayer for Lost Items
     kind: Traditional prayer to Saint Anthony
     text: >-
-      Good Saint Anthony, you always sought God's will and your heart was ever open to those in
-      need. I ask your help in finding what I have lost: (mention the object). Help me to find not
-      only this earthly thing, but also the peace of heart that comes from trusting in God's
-      providence. Through your intercession, may I recover what I seek, and may I seek above all
-      the treasures of heaven. Amen.
-  - name: "Novena to Saint Anthony"
-    kind: "Novena — nine-day prayer for lost things and learning"
+      Good Saint Anthony, you always sought God's will and your heart was ever open to those in need. I ask your help in
+      finding what I have lost: (mention the object). Help me to find not only this earthly thing, but also the peace of
+      heart that comes from trusting in God's providence. Through your intercession, may I recover what I seek, and may
+      I seek above all the treasures of heaven. Amen.
+  - name: Novena to Saint Anthony
+    kind: Novena — nine-day prayer for lost things and learning
     text: >-
-      O glorious Saint Anthony, wonder worker and friend of all who invoke you, I come to seek your
-      powerful intercession in my need. As the Christ Child rested in your arms, so I place my
-      petition in your hands. You who found what was lost — lost articles, lost souls, lost hope —
-      help me to find what I seek. May God, through your intercession, grant me the grace I so
-      earnestly seek. Blessed Anthony, ark of wisdom and patron of the poor, I trust in your help
-      now and always. Amen.
+      O glorious Saint Anthony, wonder worker and friend of all who invoke you, I come to seek your powerful
+      intercession in my need. As the Christ Child rested in your arms, so I place my petition in your hands. You who
+      found what was lost — lost articles, lost souls, lost hope — help me to find what I seek. May God, through your
+      intercession, grant me the grace I so earnestly seek. Blessed Anthony, ark of wisdom and patron of the poor, I
+      trust in your help now and always. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

@@ -1,38 +1,42 @@
 ---
-name: "Saint Mechtildis of Edelstetten"
+name: Saint Mechtildis of Edelstetten
 honorific: Saint
-summary: "Born to the nobility, the daughter of Count Berthold and Sophie of Andechs; sister of Blessed Euphemia of Altomünster. Raised in a Benedictine convent at Diessen, Germany that had been founded by her parents. When she became Benedictine nun herself, her obvious virtue led to her"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Marienm%C3%BCnster_Die%C3%9Fen_Langhausfresko_detail_2.jpg/960px-Marienm%C3%BCnster_Die%C3%9Fen_Langhausfresko_detail_2.jpg"
+summary: >-
+  Born to the nobility, the daughter of Count Berthold and Sophie of Andechs; sister of Blessed Euphemia of Altomünster.
+  Raised in a Benedictine convent at Diessen, Germany that had been founded by her parents. When she became Benedictine
+  nun herself, her obvious virtue led to her
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Marienm%25C3%25BCnster_Die%25C3%259Fen_Langhausfresko_detail_2.jpg?width=600
 searchAliases:
-  - "Mechthildis of Diessen"
-  - "Mechthildis of Ammersee"
-  - "Mechthildis of Andechs"
-  - "Mechthildis von Dießen"
-  - "Mathildis of…"
-  - "Matilda of…"
-  - "Matilde of…"
-  - "Mechtild of…"
-  - "Mechtilde of…"
-  - "Meta of…"
+  - Mechthildis of Diessen
+  - Mechthildis of Ammersee
+  - Mechthildis of Andechs
+  - Mechthildis von Dießen
+  - Mathildis of…
+  - Matilda of…
+  - Matilde of…
+  - Mechtild of…
+  - Mechtilde of…
+  - Meta of…
 birthYear: 1125
 deathYear: 1160
-born: "1125 in Bavaria, Germany"
-died: "31 May 1160 at Diessen, Bavaria, Germany of natural causes"
-birthPlace: "Germany"
-deathPlace: "Bavaria, Germanynatural causes"
-region: "Germany"
+born: 1125 in Bavaria, Germany
+died: 31 May 1160 at Diessen, Bavaria, Germany of natural causes
+birthPlace: Germany
+deathPlace: Bavaria, Germanynatural causes
+region: Germany
 feastDay:
   month: 5
   day: 31
 canonizationStatus: Saint
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against eye diseases"
-  - "against headaches"
-  - "against lightning"
-  - "against thunder"
+  - against eye diseases
+  - against headaches
+  - against lightning
+  - against thunder
 martyr: false
 ---
 

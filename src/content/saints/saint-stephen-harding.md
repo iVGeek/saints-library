@@ -1,30 +1,35 @@
 ---
-name: "Saint Stephen Harding"
+name: Saint Stephen Harding
 honorific: Saint
-summary: "Born to the English nobility. After a somewhat mis-spent youth, he was drawn to religious life and entered the Benedictine Sherborne Abbey. Following the Norman conquest of England in 1066, Stephen left the monastic life, moved to Scotland and then to Paris, France to study. Pilg"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG/960px-Sv._Stevan_Harding%2C_Stevanovska_cirkev.JPG"
+summary: >-
+  Born to the English nobility. After a somewhat mis-spent youth, he was drawn to religious life and entered the
+  Benedictine Sherborne Abbey. Following the Norman conquest of England in 1066, Stephen left the monastic life, moved
+  to Scotland and then to Paris, France to study. Pilg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sv._Stevan_Harding%252C_Stevanovska_cirkev.JPG?width=600
 searchAliases:
-  - "Stephen of Citeaux"
-  - "Esteban…\nEtienne…"
-  - "Stefano…"
-  - "Stevan…"
+  - Stephen of Citeaux
+  - |-
+    Esteban…
+    Etienne…
+  - Stefano…
+  - Stevan…
 birthYear: 1060
 deathYear: 1134
-born: "c.1060 in Meriot, Sherborne, England"
-died: "28 March 1134 at Citeaux, France of natural causes"
-birthPlace: "Sherborne, England"
-deathPlace: "Francenatural causes"
-region: "Scotland"
+born: c.1060 in Meriot, Sherborne, England
+died: 28 March 1134 at Citeaux, France of natural causes
+birthPlace: Sherborne, England
+deathPlace: Francenatural causes
+region: Scotland
 feastDay:
   month: 3
   day: 28
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Cîteaux Abbey"
-  - "Sherborne, Dorset, England"
+  - Cîteaux Abbey
+  - Sherborne, Dorset, England
 martyr: false
 ---
 

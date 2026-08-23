@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint John I"
+name: Pope Saint John I
 honorific: Saint
-summary: "Priest in Rome. Elected 53rd pope in 523. Italy's ruler, Theodoric the Goth, was an Arian, and for a while he let Catholics alone, but in later life he became suspicious of everyone, imagining conspiracies and attempts to seize his throne. He tried to involve Pope John in his pol"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg/960px-Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg"
+summary: >-
+  Priest in Rome. Elected 53rd pope in 523. Italy's ruler, Theodoric the Goth, was an Arian, and for a while he let
+  Catholics alone, but in later life he became suspicious of everyone, imagining conspiracies and attempts to seize his
+  throne. He tried to involve Pope John in his pol
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Busto_relic%25C3%25A1rio_do_Papa_S%25C3%25A3o_Jo%25C3%25A3o_I.jpg?width=600
 deathYear: 526
-born: "in Populonia, Tuscany, Italy"
-died: "18 May 526 of thirst and starvation in prison in Ravenna, Italy"
-birthPlace: "Tuscany, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: in Populonia, Tuscany, Italy
+died: 18 May 526 of thirst and starvation in prison in Ravenna, Italy
+birthPlace: Tuscany, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 18
@@ -17,9 +21,9 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Ravenna, Italy"
+  - Ravenna, Italy
 martyr: false
 ---
 

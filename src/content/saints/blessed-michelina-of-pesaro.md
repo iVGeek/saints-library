@@ -1,19 +1,22 @@
 ---
-name: "Blessed Michelina of Pesaro"
+name: Blessed Michelina of Pesaro
 honorific: Blessed
-summary: "Born to the wealthy Italian nobility, at age twelve Michelina was given in an arranged marriage to Duke Malatesta, the lord of Pesaro, Italy. Mother of one. She was widowed in 1320, and her son died soon after. Her chambermaid, confidant and friend, Blessed Soriana, helped her de"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Federico_barocci%2C_beata_michelina_1.jpg/960px-Federico_barocci%2C_beata_michelina_1.jpg"
+summary: >-
+  Born to the wealthy Italian nobility, at age twelve Michelina was given in an arranged marriage to Duke Malatesta, the
+  lord of Pesaro, Italy. Mother of one. She was widowed in 1320, and her son died soon after. Her chambermaid, confidant
+  and friend, Blessed Soriana, helped her de
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Federico_barocci%252C_beata_michelina_1.jpg?width=600
 searchAliases:
-  - "Michelina Metelli"
-  - "Metelli Malatesta"
-  - "Michalina…"
+  - Michelina Metelli
+  - Metelli Malatesta
+  - Michalina…
 birthYear: 1300
 deathYear: 1356
-born: "1300 at Pesaro, Urbino, Italy"
-died: "19 June 1356 in Pesaro, Italy of natural causes"
-birthPlace: "Urbino, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1300 at Pesaro, Urbino, Italy
+died: 19 June 1356 in Pesaro, Italy of natural causes
+birthPlace: Urbino, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 19
@@ -21,15 +24,15 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against death of children"
-  - "against mental illness; of mentally ill people"
-  - "in-law problems"
-  - "widows"
-  - "–"
-  - "Confraternita dell'Annunziata (Confraternity of the Annunciation)"
-  - "Pesaro, Italy"
+  - against death of children
+  - against mental illness; of mentally ill people
+  - in-law problems
+  - widows
+  - –
+  - Confraternita dell'Annunziata (Confraternity of the Annunciation)
+  - Pesaro, Italy
 martyr: false
 ---
 

@@ -2,8 +2,10 @@
 name: Kateri Tekakwitha
 honorific: Saint
 title: Virgin, Religious
-summary: The "Lily of the Mohawks" — a young Native American woman of colonial New York who kept her faith through persecution and gave her whole life to God, first Native American saint of the Church.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CatherinaeTekakwithaVirginis1690.jpg/330px-CatherinaeTekakwithaVirginis1690.jpg
+summary: >-
+  The "Lily of the Mohawks" — a young Native American woman of colonial New York who kept her faith through persecution
+  and gave her whole life to God, first Native American saint of the Church.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/CatherinaeTekakwithaVirginis1690.jpg?width=600
 imageAlt: Portrait of Kateri Tekakwitha
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -14,12 +16,13 @@ searchAliases:
   - Tekakwitha
 birthYear: 1656
 deathYear: 1680
-born: "1656"
+born: '1656'
 died: 17 April 1680
 birthPlace: Auriesville, New York, United States
 deathPlace: Kahnawake, Canada
-region: "Italy"
-centuries: [17]
+region: Italy
+centuries:
+  - 17
 feastDay:
   month: 4
   day: 17
@@ -44,32 +47,32 @@ symbols:
   - Deer (her clan animal)
 martyr: false
 lifeEvents:
-  - year: "1656"
-    event: Born at Ossernenon (now Auriesville, New York), daughter of a Mohawk chief and an Algonquin Christian mother, Kahenta.
-  - year: "1660"
+  - year: '1656'
+    event: >-
+      Born at Ossernenon (now Auriesville, New York), daughter of a Mohawk chief and an Algonquin Christian mother,
+      Kahenta.
+  - year: '1660'
     event: Smallpox sweeps her village; she survives scarred and nearly blind, but both parents and her infant brother die.
-  - year: "1670"
+  - year: '1670'
     event: Baptized by a Jesuit missionary, taking the name Catherine (Kateri in Mohawk).
-  - year: "1676"
+  - year: '1676'
     event: Flees to Kahnawake, the Christian Mohawk settlement on the St. Lawrence, after persecution at home.
-  - year: "1677"
+  - year: '1677'
     event: Makes a vow of perpetual virginity, choosing Christ as her spouse.
-  - year: "17 April 1680"
+  - year: 17 April 1680
     event: Dies at Kahnawake at twenty-four; witnesses say her face, scarred by smallpox, became radiant at death.
-  - year: "21 October 2012"
+  - year: 21 October 2012
     event: Canonized by Pope Benedict XVI, the first Native American saint.
 quotes:
-  - text: >-
-      I have consecrated myself entirely to Jesus, son of Mary, I have chosen Him for the only husband of my heart.
+  - text: I have consecrated myself entirely to Jesus, son of Mary, I have chosen Him for the only husband of my heart.
     source: Words of Saint Kateri before her vow of virginity
 prayers:
   - name: Prayer to Saint Kateri Tekakwitha
     kind: Prayer for indigenous peoples and for purity of heart
     text: >-
-      O Saint Kateri, Lily of the Mohawks, who gave your whole heart to Jesus in the forests of
-      the north, pray for the indigenous peoples of the Americas, that their dignity be honored
-      and their faith made strong. Teach us to love creation as you loved it, and to keep our
-      hearts pure for God alone. Amen.
+      O Saint Kateri, Lily of the Mohawks, who gave your whole heart to Jesus in the forests of the north, pray for the
+      indigenous peoples of the Americas, that their dignity be honored and their faith made strong. Teach us to love
+      creation as you loved it, and to keep our hearts pure for God alone. Amen.
 relatedSaints:
   - name: Juan Diego
     slug: juan-diego

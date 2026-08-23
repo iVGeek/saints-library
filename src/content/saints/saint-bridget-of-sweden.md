@@ -2,8 +2,11 @@
 name: Saint Bridget of Sweden
 honorific: Saint
 title: St. Bridget of Sweden
-summary: "Daughter of Birger Persson, the governor and provincial judge of Uppland, and of Ingeborg Bengtsdotter. Her father was one of the greatest landowners in the country, her mother was known widely for he..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png/960px-Heliga_Birgitta_p%C3%A5_ett_altarsk%C3%A5p_i_Salems_kyrka_retouched.png"
+summary: >-
+  Daughter of Birger Persson, the governor and provincial judge of Uppland, and of Ingeborg Bengtsdotter. Her father was
+  one of the greatest landowners in the country, her mother was known widely for he...
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Heliga_Birgitta_p%25C3%25A5_ett_altarsk%25C3%25A5p_i_Salems_kyrka_retouched.png?width=600
 imageAlt: Portrait of Saint Bridget of Sweden
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -12,10 +15,11 @@ searchAliases:
   - Birgit&#8230;
   - Birgitta&#8230;
 birthYear: 1302
-born: "1302"
-birthPlace: "Rome"
-region: "Scandinavia"
-centuries: [14]
+born: '1302'
+birthPlace: Rome
+region: Scandinavia
+centuries:
+  - 14
 feastDay:
   month: 7
   day: 23
@@ -33,7 +37,7 @@ symbols:
   - head and cross
 martyr: false
 lifeEvents:
-  - year: "1302"
+  - year: '1302'
     event: Born at Rome.
 ---
 

@@ -1,22 +1,25 @@
 ---
-name: "Blessed Alexandrina Maria da Costa"
+name: Blessed Alexandrina Maria da Costa
 honorific: Blessed
-summary: "Lay woman from the diocese of Braga, Portugal, she went to school in Povoa do Varzim and learned relgion from her pious mother on the family farm. At age 14 Alexandrina jumped from a window to escape a rapist; she was injured in the fall, by 19 was paralyzed and bed-ridden for th"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alexandrina_de_Balazar.jpg/330px-Alexandrina_de_Balazar.jpg"
+summary: >-
+  Lay woman from the diocese of Braga, Portugal, she went to school in Povoa do Varzim and learned relgion from her
+  pious mother on the family farm. At age 14 Alexandrina jumped from a window to escape a rapist; she was injured in the
+  fall, by 19 was paralyzed and bed-ridden for th
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Alexandrina_de_Balazar.jpg?width=600
 birthYear: 1904
 deathYear: 1955
-born: "30 March 1904 at Balasar, Oporto, Portugal"
-died: "13 October 1955 at Balasar, Oporto, Portugal of natural causes"
-birthPlace: "Oporto, Portugal"
-deathPlace: "Oporto, Portugalnatural causes"
-region: "Portugal"
+born: 30 March 1904 at Balasar, Oporto, Portugal
+died: 13 October 1955 at Balasar, Oporto, Portugal of natural causes
+birthPlace: Oporto, Portugal
+deathPlace: Oporto, Portugalnatural causes
+region: Portugal
 feastDay:
   month: 10
   day: 13
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
 ---
 

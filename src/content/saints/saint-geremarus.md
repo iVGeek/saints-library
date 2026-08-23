@@ -1,18 +1,22 @@
 ---
-name: "Saint Geremarus"
+name: Saint Geremarus
 honorific: Saint
-summary: "Born to the Frankish nobility, he was educated in Beauvais, France. Worked with Saint Eloi. Part of the court of King Dagobert I. Married. Father. Advisor to King Clovis II. With his wife's consent, he retired to the abbey of Pentale on the Seine in France. Abbot at Pentale, but"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Saint-Germer-de-Fly_%2860%29%2C_vestibule_de_la_chapelle%2C_statue_de_saint_Germer.jpg/960px-Saint-Germer-de-Fly_%2860%29%2C_vestibule_de_la_chapelle%2C_statue_de_saint_Germer.jpg"
+summary: >-
+  Born to the Frankish nobility, he was educated in Beauvais, France. Worked with Saint Eloi. Part of the court of King
+  Dagobert I. Married. Father. Advisor to King Clovis II. With his wife's consent, he retired to the abbey of Pentale on
+  the Seine in France. Abbot at Pentale, but
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Germer-de-Fly_%252860%2529%252C_vestibule_de_la_chapelle%252C_statue_de_saint_Germer.jpg?width=600
 searchAliases:
-  - "Germer"
-  - "Geremar"
-  - "Geremaro"
+  - Germer
+  - Geremar
+  - Geremaro
 deathYear: 658
-born: "7th century at Beauvais, France"
-died: "c.658 at Flay Abbey, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 7th century at Beauvais, France
+died: c.658 at Flay Abbey, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 12
   day: 30

@@ -1,12 +1,15 @@
 ---
-name: "Saint Fructuosus of Braga"
+name: Saint Fructuosus of Braga
 honorific: Saint
-summary: "Son of a Gothic general, and member of a noble military family. Studied at the seminary in Palencia. From an early age, Fructuosus felt a call to the religious life. Orphaned when young. When he came of age, Fructuosus gave away his family fortune to the poor, bought the freedom"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sao_Frutuoso.JPG/960px-Sao_Frutuoso.JPG"
+summary: >-
+  Son of a Gothic general, and member of a noble military family. Studied at the seminary in Palencia. From an early
+  age, Fructuosus felt a call to the religious life. Orphaned when young. When he came of age, Fructuosus gave away his
+  family fortune to the poor, bought the freedom
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sao_Frutuoso.JPG?width=600
 deathYear: 665
-born: "early 7th century Spain"
-died: "16 April 665"
-region: "Portugal"
+born: early 7th century Spain
+died: 16 April 665
+region: Portugal
 feastDay:
   month: 4
   day: 16
@@ -15,9 +18,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Braga, Portugal"
+  - Braga, Portugal
 martyr: false
 ---
 

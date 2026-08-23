@@ -1,16 +1,19 @@
 ---
-name: "Saint Burchard of Würzburg"
+name: Saint Burchard of Würzburg
 honorific: Saint
-summary: "Born wealthy, he felt early called to the Church and working with the poor. Inspired by Saint Boniface, he became a missionary in the area of modern Germany. First bishop of Würzburg, Franconia, consecrated by Saint Boniface in 741 and confirmed by Pope Saint Zachary in 743. Unde"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BurckarduswholeBW.jpg/960px-BurckarduswholeBW.jpg"
+summary: >-
+  Born wealthy, he felt early called to the Church and working with the poor. Inspired by Saint Boniface, he became a
+  missionary in the area of modern Germany. First bishop of Würzburg, Franconia, consecrated by Saint Boniface in 741
+  and confirmed by Pope Saint Zachary in 743. Unde
+image: https://commons.wikimedia.org/wiki/Special:FilePath/BurckarduswholeBW.jpg?width=600
 searchAliases:
-  - "Burchardus"
-  - "Burkard"
-  - "Burkhard"
+  - Burchardus
+  - Burkard
+  - Burkhard
 deathYear: 754
-born: "in England"
-died: "754 in Germany of natural causes"
-region: "Germany"
+born: in England
+died: 754 in Germany of natural causes
+region: Germany
 feastDay:
   month: 2
   day: 2
@@ -21,7 +24,7 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - "Würzburg, Germany"
+  - Würzburg, Germany
 martyr: false
 ---
 

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Cecilia Eusepi"
+name: Blessed Cecilia Eusepi
 honorific: Blessed
-summary: "Youngest of eleven children, Cecilia was baptized at the age of 9 days, and her father died when she was 2 months old. On 6 January 1915 the family moved to a small farm near Nepi, Italy, and came under the care of a maternal uncle. Cecilia received Confirmation on 27 May 1917, a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cecilia_Eusepi.jpg/960px-Cecilia_Eusepi.jpg"
+summary: >-
+  Youngest of eleven children, Cecilia was baptized at the age of 9 days, and her father died when she was 2 months old.
+  On 6 January 1915 the family moved to a small farm near Nepi, Italy, and came under the care of a maternal uncle.
+  Cecilia received Confirmation on 27 May 1917, a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Cecilia_Eusepi.jpg?width=600
 searchAliases:
-  - "Maria Angela"
+  - Maria Angela
 birthYear: 1910
 deathYear: 1928
-born: "17 February 1910 in Monte Romano, Viterbo, Italy"
-died: "1 October 1928 in Nepi, Viterbo, Italy of tuberculosis"
-birthPlace: "Viterbo, Italy"
-deathPlace: "Viterbo, Italytuberculosis"
-region: "Italy"
+born: 17 February 1910 in Monte Romano, Viterbo, Italy
+died: 1 October 1928 in Nepi, Viterbo, Italy of tuberculosis
+birthPlace: Viterbo, Italy
+deathPlace: Viterbo, Italytuberculosis
+region: Italy
 feastDay:
   month: 10
   day: 1

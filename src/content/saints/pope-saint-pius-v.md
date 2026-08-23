@@ -1,20 +1,23 @@
 ---
-name: "Pope Saint Pius V"
+name: Pope Saint Pius V
 honorific: Saint
-summary: "Born to impoverished Italian nobility, the son of Paolo Ghislieri and Domenica Augeria. Worked as a shepherd as a boy. Received an excellent training in piety and holiness, including a scholastic education from a Dominican friar; he joined the Order himself in 1518, taking the na"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bartolomeo_Passarotti_-_Pius_V.jpg/960px-Bartolomeo_Passarotti_-_Pius_V.jpg"
+summary: >-
+  Born to impoverished Italian nobility, the son of Paolo Ghislieri and Domenica Augeria. Worked as a shepherd as a boy.
+  Received an excellent training in piety and holiness, including a scholastic education from a Dominican friar; he
+  joined the Order himself in 1518, taking the na
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Bartolomeo_Passarotti_-_Pius_V.jpg?width=600
 searchAliases:
-  - "Antonio Ghisleri"
-  - "Giovanni Michele Ghisleri"
-  - "Michael Ghisleri"
-  - "Michele Ghislieri"
+  - Antonio Ghisleri
+  - Giovanni Michele Ghisleri
+  - Michael Ghisleri
+  - Michele Ghislieri
 birthYear: 1504
 deathYear: 1572
-born: "17 January 1504 at Bosco, diocese of Alessandria, Lombardy, Italy as Antonio Ghisleri"
-died: "1 May 1572 in Rome, Italy, apparently of a renal disorder caused by kidney stones"
-birthPlace: "dioceseAlessandria, Lombardy, Italy as Antonio Ghisleri"
-deathPlace: "Italy, apparentlya renal disorder caused by kidney stones"
-region: "Italy"
+born: 17 January 1504 at Bosco, diocese of Alessandria, Lombardy, Italy as Antonio Ghisleri
+died: 1 May 1572 in Rome, Italy, apparently of a renal disorder caused by kidney stones
+birthPlace: dioceseAlessandria, Lombardy, Italy as Antonio Ghisleri
+deathPlace: Italy, apparentlya renal disorder caused by kidney stones
+region: Italy
 feastDay:
   month: 4
   day: 30
@@ -23,12 +26,15 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in Italy\n\nAlessandria, diocese of"
-  - "Bosco Marengo"
-  - "Cattolica"
-  - "Pennabilli"
+  - |-
+    in Italy
+
+    Alessandria, diocese of
+  - Bosco Marengo
+  - Cattolica
+  - Pennabilli
 martyr: false
 ---
 

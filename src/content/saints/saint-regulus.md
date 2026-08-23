@@ -1,15 +1,18 @@
 ---
-name: "Saint Regulus"
+name: Saint Regulus
 honorific: Saint
-summary: "Evangelising archbishop in North Africa. Exiled with Saint Cerbonius of Populonia and some other Christians to Italy in the persecutions of Arian Vandals. The group settled in the area of Populonia and Piombino, and Regulus lived as a holy and miracle working hermit. Martyred in"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Leo_constellation_map.svg/960px-Leo_constellation_map.svg.png"
+summary: >-
+  Evangelising archbishop in North Africa. Exiled with Saint Cerbonius of Populonia and some other Christians to Italy
+  in the persecutions of Arian Vandals. The group settled in the area of Populonia and Piombino, and Regulus lived as a
+  holy and miracle working hermit. Martyred in
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Leo_constellation_map.svg?width=600
 searchAliases:
-  - "Regolo"
+  - Regolo
 deathYear: 545
-born: "North Africa"
-died: "beheaded c.545 in the area of Piombino, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: North Africa
+died: beheaded c.545 in the area of Piombino, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 1
@@ -19,11 +22,14 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "in Italy\n\nMontaione"
-  - "San Regolo, Gaiole in Chianti"
-  - "Vagli Sotto"
-  - "–"
-  - "Metropolitan Chapter of the Cathedral of Saint Martin in Lucca"
+  - |-
+    in Italy
+
+    Montaione
+  - San Regolo, Gaiole in Chianti
+  - Vagli Sotto
+  - –
+  - Metropolitan Chapter of the Cathedral of Saint Martin in Lucca
 martyr: true
 ---
 

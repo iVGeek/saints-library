@@ -1,20 +1,20 @@
 ---
-name: "Saint Benedict of Poland"
+name: Saint Benedict of Poland
 honorific: Saint
-summary: "One of four brothers who became hermits, Benedictine monks and saints."
+summary: One of four brothers who became hermits, Benedictine monks and saints.
 deathYear: 1008
-born: "Poland"
-died: "1008 of natural causes"
-region: "Poland"
+born: Poland
+died: 1008 of natural causes
+region: Poland
 feastDay:
   month: 7
   day: 9
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Benedykt_Polak-tablica.JPG/960px-Benedykt_Polak-tablica.JPG"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Benedykt_Polak-tablica.JPG?width=600
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

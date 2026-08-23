@@ -2,8 +2,11 @@
 name: Francis de Sales
 honorific: Saint
 title: Bishop, Doctor of the Church
-summary: The gentle bishop of Geneva who won back the Protestants with patience and wrote theIntroduction to the Devout Life — patron of writers, journalists, and of those who seek God in ordinary life.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg/330px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Saint_Fran%C3%A7ois_de_Sales%2C_%C3%A9v%C3%AAque_de_Gen%C3%A8ve_%28bgw19_0375%29_%28cropped%29.jpg
+summary: >-
+  The gentle bishop of Geneva who won back the Protestants with patience and wrote theIntroduction to the Devout Life —
+  patron of writers, journalists, and of those who seek God in ordinary life.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Ch%25C3%25A2teau_de_Bussy-Rabutin_-_Saint_Fran%25C3%25A7ois_de_Sales%252C_%25C3%25A9v%25C3%25AAque_de_Gen%25C3%25A8ve_%2528bgw19_0375%2529_%2528cropped%2529.jpg?width=600
 imageAlt: Portrait of Francis de Sales
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +21,8 @@ died: 28 December 1622
 birthPlace: Thorens, Savoy
 deathPlace: Lyon, France
 region: France
-centuries: [17]
+centuries:
+  - 17
 feastDay:
   month: 1
   day: 24
@@ -42,37 +46,34 @@ symbols:
   - Bishop's mitre
 martyr: false
 lifeEvents:
-  - year: "21 August 1567"
+  - year: 21 August 1567
     event: Born at Thorens in Savoy, the eldest of twelve children.
-  - year: "1593"
+  - year: '1593'
     event: Ordained priest and sent to the Chablais to reconvert the Protestant population.
-  - year: "1602"
+  - year: '1602'
     event: Made bishop of Geneva, the seat of Calvinism.
-  - year: "1610"
+  - year: '1610'
     event: Founds the Visitation Order with Saint Jane Frances de Chantal.
-  - year: "1609–1622"
+  - year: 1609–1622
     event: Writes Introduction to the Devout Life and Treatise on the Love of God.
-  - year: "28 December 1622"
+  - year: 28 December 1622
     event: Dies at Lyon while traveling to France.
-  - year: "8 December 1774"
+  - year: 8 December 1774
     event: Canonized by Pope Clement XIV.
-  - year: "1923"
+  - year: '1923'
     event: Declared a Doctor of the Church by Pope Pius XI.
 quotes:
-  - text: >-
-      The path to heaven is not a lonely one, for every person who walks it carries others with them.
+  - text: The path to heaven is not a lonely one, for every person who walks it carries others with them.
     source: Attributed to Saint Francis de Sales
-  - text: >-
-      Be who God meant you to be, and you will set the world on fire.
+  - text: Be who God meant you to be, and you will set the world on fire.
     source: Often attributed to Saint Francis de Sales
 prayers:
   - name: Prayer to Saint Francis de Sales
     kind: Prayer for writers and for those who seek holiness in daily life
     text: >-
-      O Saint Francis de Sales, gentle pastor of Geneva, teach us that holiness is not for monks
-      alone but for all who love God in the ordinary moments of life. Bless writers and
-      journalists; give them truth, clarity, and charity; and guide all who read your gentle
-      words to the God who loves them. Amen.
+      O Saint Francis de Sales, gentle pastor of Geneva, teach us that holiness is not for monks alone but for all who
+      love God in the ordinary moments of life. Bless writers and journalists; give them truth, clarity, and charity;
+      and guide all who read your gentle words to the God who loves them. Amen.
 relatedSaints:
   - name: John Bosco
     slug: john-bosco

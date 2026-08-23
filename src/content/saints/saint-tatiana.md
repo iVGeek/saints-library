@@ -1,12 +1,12 @@
 ---
-name: "Saint Tatiana"
+name: Saint Tatiana
 honorific: Saint
-summary: "Nun noted for her ascetic life."
+summary: Nun noted for her ascetic life.
 feastDay:
   month: 1
   day: 5
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Onegin_and_Tatyana.jpg/960px-Onegin_and_Tatyana.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Onegin_and_Tatyana.jpg?width=600
 vocation:
   - Monk
   - Religious

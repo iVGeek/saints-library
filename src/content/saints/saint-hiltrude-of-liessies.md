@@ -1,13 +1,14 @@
 ---
-name: "Saint Hiltrude of Liessies"
+name: Saint Hiltrude of Liessies
 honorific: Saint
-summary: "Recluse near Liessies, France under the spiritual direction of her brother Gundrad, abbot of the nearby monastery."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Heilige_Hiltrude_S._Hiltrvdis_Virgo_%28titel_op_object%29%2C_RP-P-OB-6798.jpg/960px-Heilige_Hiltrude_S._Hiltrvdis_Virgo_%28titel_op_object%29%2C_RP-P-OB-6798.jpg"
+summary: Recluse near Liessies, France under the spiritual direction of her brother Gundrad, abbot of the nearby monastery.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Heilige_Hiltrude_S._Hiltrvdis_Virgo_%2528titel_op_object%2529%252C_RP-P-OB-6798.jpg?width=600
 searchAliases:
-  - "Iltrude"
+  - Iltrude
 deathYear: 790
-died: "c.790 of natural causes"
-region: "France"
+died: c.790 of natural causes
+region: France
 feastDay:
   month: 9
   day: 27

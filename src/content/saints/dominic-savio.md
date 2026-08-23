@@ -2,8 +2,10 @@
 name: Dominic Savio
 honorific: Saint
 title: Religious, Youth
-summary: The teenage student of Don Bosco whose holiness stunned his teacher — patron of young altar servers, of schoolboys, and of all who want to be saints before they are old.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Life_of_Dominic_Savio_%28page_6_crop%29.jpg/330px-Life_of_Dominic_Savio_%28page_6_crop%29.jpg
+summary: >-
+  The teenage student of Don Bosco whose holiness stunned his teacher — patron of young altar servers, of schoolboys,
+  and of all who want to be saints before they are old.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Life_of_Dominic_Savio_%2528page_6_crop%2529.jpg?width=600
 imageAlt: Portrait of Dominic Savio
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,8 @@ died: 9 March 1857
 birthPlace: San Giovanni di Riva, Italy
 deathPlace: Mondonio, Italy
 region: Italy
-centuries: [19]
+centuries:
+  - 19
 feastDay:
   month: 5
   day: 6
@@ -39,34 +42,30 @@ symbols:
   - Lily
 martyr: false
 lifeEvents:
-  - year: "2 April 1842"
+  - year: 2 April 1842
     event: Born at San Giovanni di Riva in Piedmont, Italy.
-  - year: "1849"
+  - year: '1849'
     event: First Holy Communion at age seven; from that day he keeps a record of his spiritual resolutions.
-  - year: "1854"
+  - year: '1854'
     event: Enters the school of Don John Bosco at Turin; joins the Oratory of Saint Francis de Sales.
-  - year: "1856"
+  - year: '1856'
     event: His health fails; Don Bosco sends him to recover in the country.
-  - year: "9 March 1857"
-    event: >-
-      Dies at Mondonio at fourteen, with the words: "What a wonderful thing heaven is!"
-  - year: "12 June 1954"
+  - year: 9 March 1857
+    event: 'Dies at Mondonio at fourteen, with the words: "What a wonderful thing heaven is!"'
+  - year: 12 June 1954
     event: Canonized by Pope Pius XII, the youngest non-martyr saint in Church history.
 quotes:
-  - text: >-
-      I was born for something great: to be a saint.
+  - text: 'I was born for something great: to be a saint.'
     source: The words of Saint Dominic Savio as a child
-  - text: >-
-      Death, but not sin.
+  - text: Death, but not sin.
     source: The motto of Saint Dominic Savio
 prayers:
   - name: Prayer to Saint Dominic Savio
     kind: Prayer for young people and for those who educate them
     text: >-
-      O Saint Dominic Savio, who became a saint before you were old, obtain for all young people
-      the grace to love God early and to choose no sin at any cost. Inspire teachers and mentors
-      with the joy of guiding the young, and make us all, at whatever age, as brave as you were.
-      Amen.
+      O Saint Dominic Savio, who became a saint before you were old, obtain for all young people the grace to love God
+      early and to choose no sin at any cost. Inspire teachers and mentors with the joy of guiding the young, and make
+      us all, at whatever age, as brave as you were. Amen.
 relatedSaints:
   - name: John Bosco
     slug: john-bosco

@@ -1,14 +1,18 @@
 ---
-name: "Saint Eulogius of Alexandria"
+name: Saint Eulogius of Alexandria
 honorific: Saint
-summary: "Monk as a young man. Well educated in the literature and science of his day, was a Biblical scholar, and studied the writings of the great pastors. Opposed the Eutychian and Monophysite heresies. Patriarch of Alexandria, Egypt in 579, serving for 28 years. His correspondence with"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eulogius_of_Alexandria_%28Menologion_of_Basil_II%29.jpg/960px-Eulogius_of_Alexandria_%28Menologion_of_Basil_II%29.jpg"
+summary: >-
+  Monk as a young man. Well educated in the literature and science of his day, was a Biblical scholar, and studied the
+  writings of the great pastors. Opposed the Eutychian and Monophysite heresies. Patriarch of Alexandria, Egypt in 579,
+  serving for 28 years. His correspondence with
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Eulogius_of_Alexandria_%2528Menologion_of_Basil_II%2529.jpg?width=600
 searchAliases:
-  - "Eulogio"
+  - Eulogio
 deathYear: 607
-born: "Syrian"
-died: "c.607 of natural causes"
-region: "Egypt"
+born: Syrian
+died: c.607 of natural causes
+region: Egypt
 feastDay:
   month: 6
   day: 13

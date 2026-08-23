@@ -1,34 +1,40 @@
 ---
-name: "Saint Gertrude the Great"
+name: Saint Gertrude the Great
 honorific: Saint
-summary: "We don't know who her parents were or what became of them, and she may have been an orphan. Gertrude was raised in the Benedictine abbey of Saint Mary of Helfta, Eisleben, Saxony from age five. An extremely bright and dedicated student, she excelled in literature and philosophy,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg/960px-Santa_Giustina_%28Padua%29_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg"
+summary: >-
+  We don't know who her parents were or what became of them, and she may have been an orphan. Gertrude was raised in the
+  Benedictine abbey of Saint Mary of Helfta, Eisleben, Saxony from age five. An extremely bright and dedicated student,
+  she excelled in literature and philosophy,
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Giustina_%2528Padua%2529_-_Ecstasy_of_St._Gertrude_by_Pietro_Liberi.jpg?width=600
 searchAliases:
-  - "Gertrude of Helfta"
-  - "Gertrudis Helfta"
-  - "Gertud von Helfta"
-  - "Geltrude"
-  - "Gertrudis la Grande"
-  - "Gertrude Magna"
-  - "Geltrude…"
+  - Gertrude of Helfta
+  - Gertrudis Helfta
+  - Gertud von Helfta
+  - Geltrude
+  - Gertrudis la Grande
+  - Gertrude Magna
+  - Geltrude…
 birthYear: 1256
 deathYear: 1302
-born: "6 January 1256 at Eisleben, Thuringia (part of modern Germany)"
-died: "on a Wednesday of Easter season, 17 November 1302 at the convent of Saint Mary’s of Helfta, Saxony (part of modern Germany) of natural causes"
-birthPlace: "Thuringia (partmodern Germany)"
-deathPlace: "17 November 1302 at the conventSaint Mary’s of Helfta, Saxony (part of modern Germany) of natural causes"
-region: "Italy"
+born: 6 January 1256 at Eisleben, Thuringia (part of modern Germany)
+died: >-
+  on a Wednesday of Easter season, 17 November 1302 at the convent of Saint Mary’s of Helfta, Saxony (part of modern
+  Germany) of natural causes
+birthPlace: Thuringia (partmodern Germany)
+deathPlace: 17 November 1302 at the conventSaint Mary’s of Helfta, Saxony (part of modern Germany) of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 16
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "nuns"
-  - "—"
-  - "Magdeburg, Germany, diocese of"
-  - "Naples, Italy"
+  - nuns
+  - —
+  - Magdeburg, Germany, diocese of
+  - Naples, Italy
 martyr: false
 ---
 

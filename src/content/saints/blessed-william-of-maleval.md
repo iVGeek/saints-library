@@ -1,21 +1,25 @@
 ---
-name: "Blessed William of Maleval"
+name: Blessed William of Maleval
 honorific: Blessed
-summary: "William lived a wild and dissolute life as a soldier in his youth. However, at some point he began to take his religion seriously, left the military life, and made pilgrimages to the Holy Lands. He became superior of an abbey at Pisa, Italy in 1153. He failed in this position, ho"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Antonio_nasini%2C_san_guglielmo%2C_1690-1710_ca._01.jpg/960px-Antonio_nasini%2C_san_guglielmo%2C_1690-1710_ca._01.jpg"
+summary: >-
+  William lived a wild and dissolute life as a soldier in his youth. However, at some point he began to take his
+  religion seriously, left the military life, and made pilgrimages to the Holy Lands. He became superior of an abbey at
+  Pisa, Italy in 1153. He failed in this position, ho
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_nasini%252C_san_guglielmo%252C_1690-1710_ca._01.jpg?width=600
 searchAliases:
-  - "William of Guyenne"
-  - "William of Malval"
-  - "William of Malvalla"
-  - "William of Poitiers"
-  - "William the Great"
-  - "William the Hermit"
-  - "Gulielmus…."
-  - "Wilhelmus…."
+  - William of Guyenne
+  - William of Malval
+  - William of Malvalla
+  - William of Poitiers
+  - William the Great
+  - William the Hermit
+  - Gulielmus….
+  - Wilhelmus….
 deathYear: 1157
-born: "French"
-died: "10 February 1157 of natural causes"
-region: "Germany"
+born: French
+died: 10 February 1157 of natural causes
+region: Germany
 feastDay:
   month: 2
   day: 10
@@ -25,16 +29,18 @@ vocation:
   - Monk
   - Hermit
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "arms manufacturers"
-  - "armourers"
-  - "blacksmiths"
-  - "tinsmiths"
-  - "—"
-  - "Castiglione della Pescaia, Italy"
-  - "Laoag, Philippines, diocese of"
-  - "San Fernando La Union, Philippines, diocese of\nSiena, Italy"
+  - arms manufacturers
+  - armourers
+  - blacksmiths
+  - tinsmiths
+  - —
+  - Castiglione della Pescaia, Italy
+  - Laoag, Philippines, diocese of
+  - |-
+    San Fernando La Union, Philippines, diocese of
+    Siena, Italy
 martyr: false
 ---
 

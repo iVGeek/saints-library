@@ -1,15 +1,18 @@
 ---
-name: "Saint Argymirus of Cordoba"
+name: Saint Argymirus of Cordoba
 honorific: Saint
-summary: "Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a Christian. Monk. Soon after his profession he responded to inquiries by renouncing Islam and declaring his loyalty to Christ. Martyr."
+summary: >-
+  Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a
+  Christian. Monk. Soon after his profession he responded to inquiries by renouncing Islam and declaring his loyalty to
+  Christ. Martyr.
 searchAliases:
-  - "Argimiro"
-  - "Argimirus"
+  - Argimiro
+  - Argimirus
 deathYear: 856
-born: "Cabra, Spain"
-died: "beheaded in 856"
-birthPlace: "Spain"
-region: "Spain"
+born: Cabra, Spain
+died: beheaded in 856
+birthPlace: Spain
+region: Spain
 feastDay:
   month: 6
   day: 28
@@ -17,8 +20,12 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Córdoba, Spain"
+  - Córdoba, Spain
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Argymirus of Cordoba
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20C%C3%B3rdoba
 ---
 
 Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a Christian. Monk. Soon after his profession he responded to inquiries by renouncing Islam and declaring his loyalty to Christ. Martyr.

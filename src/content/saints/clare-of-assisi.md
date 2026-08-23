@@ -2,8 +2,10 @@
 name: Clare of Assisi
 honorific: Saint
 title: Abbess, Foundress of the Poor Clares
-summary: The noblewoman of Assisi who left her home to follow Francis in absolute poverty; abbess of San Damiano and spiritual mother of the Poor Clares.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/SDamiano-Clara.jpg/330px-SDamiano-Clara.jpg
+summary: >-
+  The noblewoman of Assisi who left her home to follow Francis in absolute poverty; abbess of San Damiano and spiritual
+  mother of the Poor Clares.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/SDamiano-Clara.jpg?width=600
 imageAlt: Portrait of Clare of Assisi
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,9 @@ died: 11 August 1253
 birthPlace: Assisi, Italy
 deathPlace: Assisi, Italy
 region: Italy
-centuries: [12, 13]
+centuries:
+  - 12
+  - 13
 feastDay:
   month: 8
   day: 11
@@ -46,36 +50,34 @@ symbols:
   - Poor Clare habit
 martyr: false
 lifeEvents:
-  - year: "1194"
+  - year: '1194'
     event: Born at Assisi, eldest child of the noble Favarone family.
-  - year: "Palm Sunday 1212"
+  - year: Palm Sunday 1212
     event: Leaves her father's house by night; Francis cuts her hair and clothes her in a rough habit.
-  - year: "1212–1215"
+  - year: 1212–1215
     event: Places her sisters in the church of San Damiano; becomes abbess at the age of twenty-one.
-  - year: "1240"
+  - year: '1240'
     event: Repels invading soldiers of Frederick II by holding up the Blessed Sacrament at the convent walls.
-  - year: "1244–1247"
+  - year: 1244–1247
     event: Writes her Rule, the first rule for women approved by the papacy without compromise.
-  - year: "11 August 1253"
+  - year: 11 August 1253
     event: Dies at San Damiano, holding the cross, her sisters recounting her words of comfort.
-  - year: "1255"
+  - year: '1255'
     event: Canonized by Pope Alexander IV within two years of her death.
 quotes:
   - text: >-
-      Place your mind before the mirror of eternity! Place your soul in the brilliance of glory!
-      Place your heart in the figure of the divine substance.
+      Place your mind before the mirror of eternity! Place your soul in the brilliance of glory! Place your heart in the
+      figure of the divine substance.
     source: Third Letter of Saint Clare to Blessed Agnes of Prague
-  - text: >-
-      Go secure of your vocation, serving the Holy Spirit and awaiting nothing else from this life.
+  - text: Go secure of your vocation, serving the Holy Spirit and awaiting nothing else from this life.
     source: Testament of Saint Clare
 prayers:
   - name: Prayer of Saint Clare
     kind: Traditional prayer of trust
     text: >-
-      O Saint Clare, you left all things to follow Christ in poverty and trust. Obtain for us the
-      grace to live by faith, to be content with little, and to fix our eyes on Jesus in the
-      Blessed Sacrament. As you were brave in the face of danger, make us brave in the face of
-      our fears. Amen.
+      O Saint Clare, you left all things to follow Christ in poverty and trust. Obtain for us the grace to live by
+      faith, to be content with little, and to fix our eyes on Jesus in the Blessed Sacrament. As you were brave in the
+      face of danger, make us brave in the face of our fears. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

@@ -2,16 +2,19 @@
 name: Saint Peter of Alcántara
 honorific: Saint
 title: St. Peter of Alcántara
-summary: "Son of Peter Garavita, governor of the palace; his mother was a member of the noble family of Sanabia. Peter studied grammar and philosophy at Alcantara, and both civil and canon law at Salamanca Univ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Clevelandart_2009.81.jpg/960px-Clevelandart_2009.81.jpg"
+summary: >-
+  Son of Peter Garavita, governor of the palace; his mother was a member of the noble family of Sanabia. Peter studied
+  grammar and philosophy at Alcantara, and both civil and canon law at Salamanca Univ...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Clevelandart_2009.81.jpg?width=600
 imageAlt: Portrait of Saint Peter of Alcántara
 imageCredit: Wikimedia Commons
 searchAliases:
   - Juan de Garavito y Vilela de Sanabria
 birthYear: 1499
-born: "1499"
-birthPlace: "Estremadura"
-centuries: [15]
+born: '1499'
+birthPlace: Estremadura
+centuries:
+  - 15
 feastDay:
   month: 10
   day: 18
@@ -29,7 +32,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents:
-  - year: "1499"
+  - year: '1499'
     event: Born at Estremadura.
 ---
 

@@ -1,19 +1,20 @@
 ---
-name: "Saint John Gualbert"
+name: Saint John Gualbert
 honorific: Saint
-summary: " Aga Florentine nobility; part of the Visdomini family. His brother Hugh was murdered; John tracked down the killer, finding him on a Good Friday. John received a vision of Christ on the Cross, which he took as a sign to pardon the killer, and convert to Christianity. He did both."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Santa_Trinita%2C_Neri_di_bicci%2C_San_giovanni_gualberto_%28dettaglio%292.jpg/960px-Santa_Trinita%2C_Neri_di_bicci%2C_San_giovanni_gualberto_%28dettaglio%292.jpg"
+summary: ' Aga Florentine nobility; part of the Visdomini family. His brother Hugh was murdered; John tracked down the killer, finding him on a Good Friday. John received a vision of Christ on the Cross, which he took as a sign to pardon the killer, and convert to Christianity. He did both.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Trinita%252C_Neri_di_bicci%252C_San_giovanni_gualberto_%2528dettaglio%25292.jpg?width=600
 searchAliases:
-  - "Giovanni Gualberto"
-  - "John Gualberto"
-  - "John Gualbertus"
+  - Giovanni Gualberto
+  - John Gualberto
+  - John Gualbertus
 birthYear: 985
 deathYear: 1073
-born: "c.985 at Florence, Italy"
-died: "1073 at Passignano near Florence, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.985 at Florence, Italy
+died: 1073 at Passignano near Florence, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 12
@@ -21,13 +22,19 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "forest workers, foresters (the first Vallombrosan abbey was built in a forest, and its chapel became a place of worship for the many foresters who worked in the area; the tradition spread from the specific forest to such workers in general)"
-  - "parks, park services"
-  - "–"
-  - "in Italy\n\nFlorence"
-  - "Vallombrosa"
+  - >-
+    forest workers, foresters (the first Vallombrosan abbey was built in a forest, and its chapel became a place of
+    worship for the many foresters who worked in the area; the tradition spread from the specific forest to such workers
+    in general)
+  - parks, park services
+  - –
+  - |-
+    in Italy
+
+    Florence
+  - Vallombrosa
 martyr: false
 ---
 

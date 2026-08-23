@@ -1,13 +1,16 @@
 ---
-name: "Blessed Peter of Castelnau"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tombeau_de_Pierre_de_Castelnau.jpg/960px-Tombeau_de_Pierre_de_Castelnau.jpg"
+name: Blessed Peter of Castelnau
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Tombeau_de_Pierre_de_Castelnau.jpg?width=600
 honorific: Blessed
-summary: "Known in lay and religious life for his intelligence, piety, and devotion. Archdeacon of Maguelone in 1199. Cistercian monk at Fontfroide c.1202. Papal legate and inquisitor in 1203 under Pope Innocent III. Assigned to work with the heretic Albigensians, to bring them back to the"
+summary: >-
+  Known in lay and religious life for his intelligence, piety, and devotion. Archdeacon of Maguelone in 1199. Cistercian
+  monk at Fontfroide c.1202. Papal legate and inquisitor in 1203 under Pope Innocent III. Assigned to work with the
+  heretic Albigensians, to bring them back to the
 deathYear: 1208
-born: "near Montpellier, France"
-died: "stabbed with a lance in 1208 near Saint Gilles Abbey by Albigensian heretics"
-birthPlace: "France"
-region: "France"
+born: near Montpellier, France
+died: stabbed with a lance in 1208 near Saint Gilles Abbey by Albigensian heretics
+birthPlace: France
+region: France
 feastDay:
   month: 1
   day: 15

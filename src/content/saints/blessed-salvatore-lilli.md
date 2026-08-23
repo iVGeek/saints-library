@@ -1,17 +1,20 @@
 ---
-name: "Blessed Salvatore Lilli"
+name: Blessed Salvatore Lilli
 honorific: Blessed
-summary: "Son of Vincenzo and Annunziata Lilli. Joined the Franciscans in 1870, making his vows on 6 August 1871. Studied at the Franciscan seminary in the Holy Lands. Ordained in Bethlehem on 6 April 1878. Missionary in Jerusalem for two years. Missionary to Marasco, Armenia in 1880. In a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Salvatore_Lilli.jpg/960px-Salvatore_Lilli.jpg"
+summary: >-
+  Son of Vincenzo and Annunziata Lilli. Joined the Franciscans in 1870, making his vows on 6 August 1871. Studied at the
+  Franciscan seminary in the Holy Lands. Ordained in Bethlehem on 6 April 1878. Missionary in Jerusalem for two years.
+  Missionary to Marasco, Armenia in 1880. In a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Salvatore_Lilli.jpg?width=600
 searchAliases:
-  - "Salvatore of Cappadocia"
+  - Salvatore of Cappadocia
 birthYear: 1853
 deathYear: 1895
-born: "19 June 1853 at Cappadocia, Aquila, Italy"
-died: "stabbed with a lance on 22 November 1895 near the Zihun River in Mujuk-Dersi, Armenia (in modern Turkey)"
-birthPlace: "Aquila, Italy"
-deathPlace: "Armenia (modern Turkey)"
-region: "Holy Land"
+born: 19 June 1853 at Cappadocia, Aquila, Italy
+died: stabbed with a lance on 22 November 1895 near the Zihun River in Mujuk-Dersi, Armenia (in modern Turkey)
+birthPlace: Aquila, Italy
+deathPlace: Armenia (modern Turkey)
+region: Holy Land
 feastDay:
   month: 11
   day: 22
@@ -19,7 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
 ---
 

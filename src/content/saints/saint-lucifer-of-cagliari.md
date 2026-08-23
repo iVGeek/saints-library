@@ -1,14 +1,18 @@
 ---
-name: "Saint Lucifer of Cagliari"
+name: Saint Lucifer of Cagliari
 honorific: Saint
-summary: "Priest. Bishop of Cagliari, Italy. Fierce opponent of Arianism and defender of the faith as expressed in the Nicene Creed for which he was exiled by emperor Constantius. Bishop Lucifer was so opposed to the Arians that he refused to have anything to do with any of them, for which"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cagliari%2C_duomo%2C_interno%2C_santuario_dei_martiri_%28cripta%29%2C_cappella_sx_di_san_saturnino%2C_nicchiette_03_lucifero_di_cagliari.jpg/960px-Cagliari%2C_duomo%2C_interno%2C_santuario_dei_martiri_%28cripta%29%2C_cappella_sx_di_san_saturnino%2C_nicchiette_03_lucifero_di_cagliari.jpg"
+summary: >-
+  Priest. Bishop of Cagliari, Italy. Fierce opponent of Arianism and defender of the faith as expressed in the Nicene
+  Creed for which he was exiled by emperor Constantius. Bishop Lucifer was so opposed to the Arians that he refused to
+  have anything to do with any of them, for which
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Cagliari%252C_duomo%252C_interno%252C_santuario_dei_martiri_%2528cripta%2529%252C_cappella_sx_di_san_saturnino%252C_nicchiette_03_lucifero_di_cagliari.jpg?width=600
 searchAliases:
-  - "Lucifero"
+  - Lucifero
 deathYear: 370
-died: "370 in Cagliari, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 370 in Cagliari, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 20

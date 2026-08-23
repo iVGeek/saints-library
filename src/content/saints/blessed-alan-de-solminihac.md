@@ -1,21 +1,24 @@
 ---
-name: "Blessed Alan de Solminihac"
+name: Blessed Alan de Solminihac
 honorific: Blessed
-summary: "Born to a noble, pious and patriotic family, Alan wanted to join the Knights of Malta, to serve God while in the military. Instead, however, he became an Augustinian Regular at Chancelade Abbey, P&eacute;rigueux, France at age twenty. Superior of the abbey in 1623. He worked to r"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alain_de_Solminihac_%281593-1659%29.jpg/330px-Alain_de_Solminihac_%281593-1659%29.jpg"
+summary: >-
+  Born to a noble, pious and patriotic family, Alan wanted to join the Knights of Malta, to serve God while in the
+  military. Instead, however, he became an Augustinian Regular at Chancelade Abbey, P&eacute;rigueux, France at age
+  twenty. Superior of the abbey in 1623. He worked to r
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Alain_de_Solminihac_%25281593-1659%2529.jpg?width=600
 searchAliases:
-  - "Alain de Solminihac"
-  - "Alamus de Solminihac"
-  - "Alan av Solminihac"
-  - "Alan of Solminihac"
-  - "Alanus av Solminihac"
+  - Alain de Solminihac
+  - Alamus de Solminihac
+  - Alan av Solminihac
+  - Alan of Solminihac
+  - Alanus av Solminihac
 birthYear: 1593
 deathYear: 1659
-born: "25 November 1593 in the family castle at Belet, Dordogne, France"
-died: "31 December 1659 at Mercues, Lot, France of natural causes"
-birthPlace: "Dordogne, France"
-deathPlace: "Lot, Francenatural causes"
-region: "France"
+born: 25 November 1593 in the family castle at Belet, Dordogne, France
+died: 31 December 1659 at Mercues, Lot, France of natural causes
+birthPlace: Dordogne, France
+deathPlace: Lot, Francenatural causes
+region: France
 feastDay:
   month: 12
   day: 31
@@ -23,7 +26,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Soldier
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
 ---
 

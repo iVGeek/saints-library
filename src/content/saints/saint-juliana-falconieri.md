@@ -1,27 +1,31 @@
 ---
-name: "Saint Juliana Falconieri"
+name: Saint Juliana Falconieri
 honorific: Saint
-summary: "Only child of a wealthy Florentine noble family of Chiarissimo and Riguirdata Falconieri. Niece of Saint Alexis Falconieri. Her father died Juliana was very young, and her uncle Alexis had a great influence on her. Given to chronic gastric problems throughout her life. Legend say"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg/960px-Santa_Maria_dei_Servi_%28Padua%29_-_Altare_dell%27Addolorata_-_Santa_Giuliana_Falconieri.jpg"
+summary: >-
+  Only child of a wealthy Florentine noble family of Chiarissimo and Riguirdata Falconieri. Niece of Saint Alexis
+  Falconieri. Her father died Juliana was very young, and her uncle Alexis had a great influence on her. Given to
+  chronic gastric problems throughout her life. Legend say
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_dei_Servi_%2528Padua%2529_-_Altare_dell%2527Addolorata_-_Santa_Giuliana_Falconieri.jpg?width=600
 searchAliases:
-  - "Giuliana Falconieri"
+  - Giuliana Falconieri
 birthYear: 1270
 deathYear: 1341
-born: "1270 at Florence, Italy"
-died: "12 June 1341 at Florence, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1270 at Florence, Italy
+died: 12 June 1341 at Florence, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 19
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Marist"
+religiousOrder: Marist
 patronage:
-  - "against sickness"
-  - "sick people"
+  - against sickness
+  - sick people
 martyr: false
 ---
 

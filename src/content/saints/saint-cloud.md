@@ -1,18 +1,21 @@
 ---
-name: "Saint Cloud"
+name: Saint Cloud
 honorific: Saint
-summary: "Born to French royalty, son of King Clodomir and Clotilde, and grandson of King Clovis and Saint Clotilda. His father died in battle when his children were still quite young. The king's sons were raised in Paris, France by their grandmother, Saint Clotilda, until an ambitious unc"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/960px-ISS-40_Thunderheads_near_Borneo.jpg"
+summary: >-
+  Born to French royalty, son of King Clodomir and Clotilde, and grandson of King Clovis and Saint Clotilda. His father
+  died in battle when his children were still quite young. The king's sons were raised in Paris, France by their
+  grandmother, Saint Clotilda, until an ambitious unc
+image: https://commons.wikimedia.org/wiki/Special:FilePath/ISS-40_Thunderheads_near_Borneo.jpg?width=600
 searchAliases:
-  - "Clodoald"
-  - "Clodoaldo"
-  - "Clodoaldus"
-  - "Claud"
+  - Clodoald
+  - Clodoaldo
+  - Clodoaldus
+  - Claud
 birthYear: 522
 deathYear: 560
-born: "522 in Gaul (modern France)"
-died: "560 in France of natural causes"
-region: "France"
+born: 522 in Gaul (modern France)
+died: 560 in France of natural causes
+region: France
 feastDay:
   month: 9
   day: 7
@@ -23,8 +26,8 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - "nail makers"
-  - "Saint Cloud, Minnesota, diocese of"
+  - nail makers
+  - Saint Cloud, Minnesota, diocese of
 martyr: false
 ---
 

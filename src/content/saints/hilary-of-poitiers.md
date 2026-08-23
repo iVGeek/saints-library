@@ -2,8 +2,10 @@
 name: Hilary of Poitiers
 honorific: Saint
 title: Bishop, Doctor of the Church
-summary: The "Athanasius of the West" — bishop of Poitiers who defended the divinity of Christ against Arianism and was exiled for his faith.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hilaryofpoitiers.jpg/330px-Hilaryofpoitiers.jpg
+summary: >-
+  The "Athanasius of the West" — bishop of Poitiers who defended the divinity of Christ against Arianism and was exiled
+  for his faith.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Hilaryofpoitiers.jpg?width=600
 imageAlt: Portrait of Hilary of Poitiers
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,8 @@ died: 13 January 367
 birthPlace: Poitiers, France
 deathPlace: Poitiers, France
 region: France
-centuries: [4]
+centuries:
+  - 4
 feastDay:
   month: 1
   day: 13
@@ -40,30 +43,30 @@ symbols:
   - Honeybee (the "honey-voiced" doctor)
 martyr: false
 lifeEvents:
-  - year: "c. 310"
+  - year: c. 310
     event: Born at Poitiers to a pagan family; converted to the faith.
-  - year: "c. 350"
+  - year: c. 350
     event: Elected bishop of Poitiers, where he had been a catechist.
-  - year: "356"
+  - year: '356'
     event: Writes his great work On the Trinity, defending the divinity of Christ against Arianism.
-  - year: "356–360"
+  - year: 356–360
     event: Exiled to Phrygia (modern Turkey) by the Arian emperor Constantius for opposing the Council of Rimini.
-  - year: "360–367"
+  - year: 360–367
     event: Returns to Poitiers and governs his diocese until his death.
-  - year: "13 January 367"
+  - year: 13 January 367
     event: Dies at Poitiers.
 quotes:
   - text: >-
-      We must not believe that the Father and Son are two gods, but one God, because the Son is of the substance of the Father.
+      We must not believe that the Father and Son are two gods, but one God, because the Son is of the substance of the
+      Father.
     source: From the writings of Saint Hilary of Poitiers
 prayers:
   - name: Prayer to Saint Hilary
     kind: Prayer for the defense of the faith and for teachers
     text: >-
-      O Saint Hilary, doctor of the Trinity and defender of the Nicene faith, strengthen the
-      Church against every error. Give teachers clarity of mind, students patience, and all the
-      faithful the courage to profess the true faith, even when the world calls it foolish.
-      Amen.
+      O Saint Hilary, doctor of the Trinity and defender of the Nicene faith, strengthen the Church against every error.
+      Give teachers clarity of mind, students patience, and all the faithful the courage to profess the true faith, even
+      when the world calls it foolish. Amen.
 relatedSaints:
   - name: Martin of Tours
     slug: martin-of-tours

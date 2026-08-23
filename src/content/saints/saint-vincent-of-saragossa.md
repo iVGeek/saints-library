@@ -1,21 +1,25 @@
 ---
-name: "Saint Vincent of Saragossa"
+name: Saint Vincent of Saragossa
 honorific: Saint
-summary: "Friend of Saint Valerius of Saragossa in Spain, and served as his deacon. Imprisoned and tortured in Valencia, Spain for his faith during the persecutions of Diocletian; part of his time was spent being burned on a gridiron. While in prison, he converted his jailer. Was finally o"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vicente_de_Zaragoza_by_Tom%C3%A1s_Giner%2C_1462%E2%80%931466.jpg/960px-Vicente_de_Zaragoza_by_Tom%C3%A1s_Giner%2C_1462%E2%80%931466.jpg"
+summary: >-
+  Friend of Saint Valerius of Saragossa in Spain, and served as his deacon. Imprisoned and tortured in Valencia, Spain
+  for his faith during the persecutions of Diocletian; part of his time was spent being burned on a gridiron. While in
+  prison, he converted his jailer. Was finally o
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Vicente_de_Zaragoza_by_Tom%25C3%25A1s_Giner%252C_1462%25E2%2580%25931466.jpg?width=600
 searchAliases:
-  - "Vincent of Zaragoza"
-  - "Vincent the Deacon"
-  - "Vincent Tourante"
-  - "Vincent of Aragon"
-  - "Vincent of Huesca"
-  - "Vincent of Valencia"
+  - Vincent of Zaragoza
+  - Vincent the Deacon
+  - Vincent Tourante
+  - Vincent of Aragon
+  - Vincent of Huesca
+  - Vincent of Valencia
 deathYear: 304
-born: "at Heusca, Aragon (in modern Spain)"
-died: "304 at Valencia, Spain"
-birthPlace: "Aragon (modern Spain)"
-deathPlace: "Spain"
-region: "Spain"
+born: at Heusca, Aragon (in modern Spain)
+died: 304 at Valencia, Spain
+birthPlace: Aragon (modern Spain)
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 1
   day: 22
@@ -23,21 +27,24 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Deacon
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "bakers"
-  - "sailors, mariners"
-  - "school girls"
-  - "tile makers"
-  - "vine dressers"
-  - "vinegar makers"
-  - "vintners"
-  - "wine growers"
-  - "wine makers"
-  - "Portugal"
-  - "World Youth Day 2023"
-  - "in France\n\nSaint-Malo"
-  - "Viviers"
+  - bakers
+  - sailors, mariners
+  - school girls
+  - tile makers
+  - vine dressers
+  - vinegar makers
+  - vintners
+  - wine growers
+  - wine makers
+  - Portugal
+  - World Youth Day 2023
+  - |-
+    in France
+
+    Saint-Malo
+  - Viviers
 martyr: true
 ---
 

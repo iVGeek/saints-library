@@ -1,15 +1,19 @@
 ---
-name: "Saint Philibert of Jumièges"
+name: Saint Philibert of Jumièges
 honorific: Saint
-summary: "The only son of a member of the court of King Dagobert I. Educated by Saint Ouen of Rouen. Monk of Rébais Abbey at age 20. Abbot of Rébais. He spent some time travelling to various monasteries, studying their Rules, constitutions and methods of mangement. Founded Jumièges Abbey o"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Abbatiale_de_Saint-Philbert-de-Grand-Lieu_%28statue_SP1%29.jpg/960px-Abbatiale_de_Saint-Philbert-de-Grand-Lieu_%28statue_SP1%29.jpg"
+summary: >-
+  The only son of a member of the court of King Dagobert I. Educated by Saint Ouen of Rouen. Monk of Rébais Abbey at age
+  20. Abbot of Rébais. He spent some time travelling to various monasteries, studying their Rules, constitutions and
+  methods of mangement. Founded Jumièges Abbey o
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Abbatiale_de_Saint-Philbert-de-Grand-Lieu_%2528statue_SP1%2529.jpg?width=600
 birthYear: 608
 deathYear: 684
-born: "c.608 in Gascony, France"
-died: "684 on the island of Héri, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: c.608 in Gascony, France
+died: 684 on the island of Héri, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 20
@@ -18,8 +22,11 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "in France\n\nNoirmoutier"
-  - "Quinçay"
+  - |-
+    in France
+
+    Noirmoutier
+  - Quinçay
 martyr: false
 ---
 

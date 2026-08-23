@@ -1,11 +1,14 @@
 ---
-name: "Saint Luke the Evangelist"
+name: Saint Luke the Evangelist
 honorific: Saint
-summary: "Born to pagan Greek parents, and possibly a slave. One of the earliest converts to Christianity. Physician, studying in Antioch and Tarsus. Probably travelled as a ship's doctor; many charitable societies of physicians are named for him. Legend has that he was also a painter who"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apostle_Luke.jpg/960px-Apostle_Luke.jpg"
-born: "at Antioch"
-died: "c.74 in Greece"
-region: "Italy"
+summary: >-
+  Born to pagan Greek parents, and possibly a slave. One of the earliest converts to Christianity. Physician, studying
+  in Antioch and Tarsus. Probably travelled as a ship's doctor; many charitable societies of physicians are named for
+  him. Legend has that he was also a painter who
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Apostle_Luke.jpg?width=600
+born: at Antioch
+died: c.74 in Greece
+region: Italy
 feastDay:
   month: 10
   day: 18
@@ -15,35 +18,35 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "artists"
-  - "bachelors"
-  - "bookbinders"
-  - "brewers"
-  - "butchers"
-  - "doctors"
-  - "glass makers"
-  - "glassworkers"
-  - "glaziers"
-  - "gold workers"
-  - "goldsmiths"
-  - "lacemakers"
-  - "lace workers"
-  - "notaries"
-  - "painters"
-  - "physicians"
-  - "sculptors"
-  - "stained glass workers"
-  - "surgeons"
-  - "unmarried men"
-  - "Worshipful Company of Butchers"
-  - "Worshipful Company of Painters"
-  - "—"
-  - "Capena, Italy"
-  - "Hermersdorf, Germany"
-  - "Petrovac, Bosnia and Herzegovina"
-  - "Stagno, Collesalvetti, Italy"
+  - artists
+  - bachelors
+  - bookbinders
+  - brewers
+  - butchers
+  - doctors
+  - glass makers
+  - glassworkers
+  - glaziers
+  - gold workers
+  - goldsmiths
+  - lacemakers
+  - lace workers
+  - notaries
+  - painters
+  - physicians
+  - sculptors
+  - stained glass workers
+  - surgeons
+  - unmarried men
+  - Worshipful Company of Butchers
+  - Worshipful Company of Painters
+  - —
+  - Capena, Italy
+  - Hermersdorf, Germany
+  - Petrovac, Bosnia and Herzegovina
+  - Stagno, Collesalvetti, Italy
 martyr: false
 ---
 

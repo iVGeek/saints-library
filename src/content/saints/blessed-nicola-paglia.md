@@ -1,20 +1,23 @@
 ---
-name: "Blessed Nicola Paglia"
+name: Blessed Nicola Paglia
 honorific: Blessed
-summary: "Born to the Italian nobility, in his youth Nicola received a vision of an angel who warned him not to eat meat as he would one day join a religious order that had a permanent rule of abstinence. He was a university student in Bologna, Italy when he heard the preaching of Saint Do"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nicola_paglia.jpg/960px-Nicola_paglia.jpg"
+summary: >-
+  Born to the Italian nobility, in his youth Nicola received a vision of an angel who warned him not to eat meat as he
+  would one day join a religious order that had a permanent rule of abstinence. He was a university student in Bologna,
+  Italy when he heard the preaching of Saint Do
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_paglia.jpg?width=600
 searchAliases:
-  - "Nicola Palea"
-  - "Nicola the Prior"
-  - "Nicola of Giovinazzo"
-  - "Nicholas…"
+  - Nicola Palea
+  - Nicola the Prior
+  - Nicola of Giovinazzo
+  - Nicholas…
 birthYear: 1197
 deathYear: 1256
-born: "1197 in Giovinazzo, Bari, Italy"
-died: "1256 at the Dominican monastery in Perugia, Umbia, Italy of natural causes"
-birthPlace: "Bari, Italy"
-deathPlace: "Umbia, Italynatural causes"
-region: "Peru"
+born: 1197 in Giovinazzo, Bari, Italy
+died: 1256 at the Dominican monastery in Perugia, Umbia, Italy of natural causes
+birthPlace: Bari, Italy
+deathPlace: Umbia, Italynatural causes
+region: Peru
 feastDay:
   month: 2
   day: 16
@@ -23,9 +26,9 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Perugia, Italy"
+  - Perugia, Italy
 martyr: false
 ---
 

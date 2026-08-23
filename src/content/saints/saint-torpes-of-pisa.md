@@ -1,18 +1,20 @@
 ---
-name: "Saint Torpes of Pisa"
+name: Saint Torpes of Pisa
 honorific: Saint
-summary: "Martyred in the persecutions of Nero. Nothing else is known for sure, though that never slowed early writers who created lengthy biographies of him. Saint-Tropez, France is named for him."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Blason_ville_fr_Saint-Tropez2_%28Var%29.svg/960px-Blason_ville_fr_Saint-Tropez2_%28Var%29.svg.png"
+summary: >-
+  Martyred in the persecutions of Nero. Nothing else is known for sure, though that never slowed early writers who
+  created lengthy biographies of him. Saint-Tropez, France is named for him.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Saint-Tropez2_%2528Var%2529.svg?width=600
 searchAliases:
-  - "Torpete"
-  - "Torpetius"
-  - "Torpè"
-  - "Torpès"
-  - "Tropesius"
-  - "Tropez"
-died: "beheaded c.65 at Pisa, Italy"
-deathPlace: "Italy"
-region: "France"
+  - Torpete
+  - Torpetius
+  - Torpè
+  - Torpès
+  - Tropesius
+  - Tropez
+died: beheaded c.65 at Pisa, Italy
+deathPlace: Italy
+region: France
 feastDay:
   month: 4
   day: 29
@@ -20,9 +22,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "mariners"
-  - "Pisa, Italy"
-  - "Saint-Tropez, France"
+  - mariners
+  - Pisa, Italy
+  - Saint-Tropez, France
 martyr: true
 ---
 

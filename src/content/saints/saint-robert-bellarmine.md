@@ -1,36 +1,42 @@
 ---
-name: "Saint Robert Bellarmine"
+name: Saint Robert Bellarmine
 honorific: Venerable
-summary: "Third of ten children of Vincenzo Bellarmine and Cinzia Cervini, a family of impoverished nobles. His mother, a niece of Pope Marcellus II, was dedicated to almsgiving, prayer, meditation, fasting, and mortification. Robert suffered assorted health problems all his life. Educated"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg/960px-Portret_van_kardinaal_Robertus_Bellarminus%2C_onbekend%2C_schilderij%2C_Museum_Plantin-Moretus_%28Antwerpen%29_-_MPM_V_IV_110_%28cropped%29.jpg"
+summary: >-
+  Third of ten children of Vincenzo Bellarmine and Cinzia Cervini, a family of impoverished nobles. His mother, a niece
+  of Pope Marcellus II, was dedicated to almsgiving, prayer, meditation, fasting, and mortification. Robert suffered
+  assorted health problems all his life. Educated
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Portret_van_kardinaal_Robertus_Bellarminus%252C_onbekend%252C_schilderij%252C_Museum_Plantin-Moretus_%2528Antwerpen%2529_-_MPM_V_IV_110_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Robert Francis Romulus Bellarmine"
-  - "Roberto Bellarmino"
-  - "Roberto Francesco Romolo Cardinale Bellarmino"
+  - Robert Francis Romulus Bellarmine
+  - Roberto Bellarmino
+  - Roberto Francesco Romolo Cardinale Bellarmino
 birthYear: 1542
 deathYear: 1621
-born: "4 October 1542 at Montepulciano, Tuscany, Italy as Roberto Francesco Romolo"
-died: "in the morning of 17 September 1621 at Rome, Italy of natural causes"
-birthPlace: "Tuscany, Italy as Roberto Francesco Romolo"
-deathPlace: "Italynatural causes"
-region: "Belgium"
+born: 4 October 1542 at Montepulciano, Tuscany, Italy as Roberto Francesco Romolo
+died: in the morning of 17 September 1621 at Rome, Italy of natural causes
+birthPlace: Tuscany, Italy as Roberto Francesco Romolo
+deathPlace: Italynatural causes
+region: Belgium
 feastDay:
   month: 9
   day: 17
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "canon lawyers"
-  - "canonists"
-  - "catechism writers"
-  - "catechists"
-  - "catechumens"
-  - "–"
-  - "Capua, Italy, archdiocese of"
-  - "Cincinnati, Ohio, archdiocese of"
+  - canon lawyers
+  - canonists
+  - catechism writers
+  - catechists
+  - catechumens
+  - –
+  - Capua, Italy, archdiocese of
+  - Cincinnati, Ohio, archdiocese of
 martyr: false
 ---
 

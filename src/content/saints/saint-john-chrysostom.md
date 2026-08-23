@@ -2,8 +2,10 @@
 name: Saint John Chrysostom
 honorific: Saint
 title: St. John Chrysostom
-summary: "John’s father died when he was young, and he was raised by a very pious mother. Well educated; studied rhetoric under Libanius, one of the most famous orators of his day. Monk. Preacher and priest for..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Johnchrysostom.jpg/960px-Johnchrysostom.jpg"
+summary: >-
+  John’s father died when he was young, and he was raised by a very pious mother. Well educated; studied rhetoric under
+  Libanius, one of the most famous orators of his day. Monk. Preacher and priest for...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Johnchrysostom.jpg?width=600
 imageAlt: Portrait of Saint John Chrysostom
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -12,9 +14,10 @@ searchAliases:
   - Giovanni Crisostomo
   - John Chrysostum
 birthYear: 1908
-born: "1908"
-birthPlace: "Antioch"
-centuries: [20]
+born: '1908'
+birthPlace: Antioch
+centuries:
+  - 20
 feastDay:
   month: 9
   day: 13
@@ -34,7 +37,7 @@ symbols:
   - pen
 martyr: false
 lifeEvents:
-  - year: "1908"
+  - year: '1908'
     event: Born at Antioch.
 ---
 

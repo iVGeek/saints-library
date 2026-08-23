@@ -1,20 +1,23 @@
 ---
-name: "Blessed Charlemagne"
+name: Blessed Charlemagne
 honorific: Blessed
-summary: "Born a prince, the eldest son of Bertha and Pepin the Short, Mayor of the Palace under King Childeric III and then King of the Franks in 751. Married, and father of Louis the Pious. King of the Franks in 768. As “Roman Patrician” Charles was obligated to defend the temporal right"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/960px-Charlemagne_denier_Mayence_812_814.jpg"
+summary: >-
+  Born a prince, the eldest son of Bertha and Pepin the Short, Mayor of the Palace under King Childeric III and then
+  King of the Franks in 751. Married, and father of Louis the Pious. King of the Franks in 768. As “Roman Patrician”
+  Charles was obligated to defend the temporal right
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne_denier_Mayence_812_814.jpg?width=600
 searchAliases:
-  - "Carlomagno"
-  - "Carlus Magnus"
-  - "Carolus Magnus"
-  - "Charles the Great"
-  - "Charles, King of the Franks"
-  - "Karl der Grosse"
+  - Carlomagno
+  - Carlus Magnus
+  - Carolus Magnus
+  - Charles the Great
+  - Charles, King of the Franks
+  - Karl der Grosse
 birthYear: 742
 deathYear: 814
-born: "2 April 742 Aix-la-Chapelle (in modern Germany"
-died: "28 January 814 at Aachen (in modern Germany) of natural causes"
-region: "Scandinavia"
+born: 2 April 742 Aix-la-Chapelle (in modern Germany
+died: 28 January 814 at Aachen (in modern Germany) of natural causes
+region: Scandinavia
 feastDay:
   month: 1
   day: 28
@@ -24,10 +27,10 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "brokers"
-  - "tin founders"
-  - "University of Paris"
-  - "Aachen, Germany"
+  - brokers
+  - tin founders
+  - University of Paris
+  - Aachen, Germany
 martyr: false
 ---
 

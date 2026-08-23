@@ -2,8 +2,10 @@
 name: Elizabeth of Hungary
 honorific: Saint
 title: Laywoman
-summary: A young queen who traded her crown for the poor — the most beloved woman of the Middle Ages, who built hospitals with her own hands and died in Franciscan poverty.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Simone_Martini_046.jpg/330px-Simone_Martini_046.jpg
+summary: >-
+  A young queen who traded her crown for the poor — the most beloved woman of the Middle Ages, who built hospitals with
+  her own hands and died in Franciscan poverty.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Simone_Martini_046.jpg?width=600
 imageAlt: Portrait of Elizabeth of Hungary
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,14 +19,15 @@ born: 7 July 1207
 died: 17 November 1231
 birthPlace: Pressburg, Hungary
 deathPlace: Marburg, Germany
-region: "Hungary"
-centuries: [13]
+region: Hungary
+centuries:
+  - 13
 feastDay:
   month: 11
   day: 17
 liturgicalRank: Memorial
 canonizationStatus: Saint
-canonizedDate: "1235"
+canonizedDate: '1235'
 vocation:
   - Lay
   - Widow
@@ -43,32 +46,30 @@ symbols:
   - Alms apron
 martyr: false
 lifeEvents:
-  - year: "7 July 1207"
+  - year: 7 July 1207
     event: Born in Pressburg, daughter of King Andrew II of Hungary.
-  - year: "1221"
+  - year: '1221'
     event: Married at fourteen to Louis IV, Landgrave of Thuringia, in a marriage of genuine love.
-  - year: "1220s"
+  - year: 1220s
     event: Founded a hospital at the foot of the Wartburg castle, where she nursed the sick with her own hands.
-  - year: "11 September 1227"
+  - year: 11 September 1227
     event: Her husband Louis dies of plague on the way to the Crusade; she is driven from the castle with her children.
-  - year: "1228"
+  - year: '1228'
     event: Takes the habit of the Third Order of Saint Francis and builds a hospital at Marburg.
-  - year: "17 November 1231"
+  - year: 17 November 1231
     event: Dies at Marburg, worn out by austerity and charity, at only twenty-four.
-  - year: "1235"
+  - year: '1235'
     event: Canonized by Pope Gregory IX; the miracle attributed to her tomb makes Marburg a great shrine.
 quotes:
-  - text: >-
-      The love of the poor is the love of God. No one should go away from me sad.
+  - text: The love of the poor is the love of God. No one should go away from me sad.
     source: Attributed to Saint Elizabeth of Hungary
 prayers:
   - name: Prayer to Saint Elizabeth of Hungary
     kind: Prayer for the poor and for those in charitable works
     text: >-
-      O Saint Elizabeth, queen who became the servant of the poor, teach us that no crown is
-      worth more than the face of Christ in the needy. Give those who work with the poor your
-      gentle courage, and grant that we may see in every person the Lord you served in the
-      hospitals and marketplaces of your kingdom. Amen.
+      O Saint Elizabeth, queen who became the servant of the poor, teach us that no crown is worth more than the face of
+      Christ in the needy. Give those who work with the poor your gentle courage, and grant that we may see in every
+      person the Lord you served in the hospitals and marketplaces of your kingdom. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

@@ -1,16 +1,20 @@
 ---
-name: "Saint Theotonius of Coimbra"
+name: Saint Theotonius of Coimbra
 honorific: Saint
-summary: "Nephew of the bishop of Coimbra, Portugal. Educated at the University of Coimbra. Parish priest, assigned to Viseu, Portugal. His powerful and outspoken preaching against vice gained him a great reputation, the animosity of the ruling class, and the affection of the king and quee"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/S%C3%A3o_Teot%C3%B3nio_%28s%C3%A9c._XV%29_-_Nuno_Gon%C3%A7alves_%28Museu_Nacional_de_Arte_Antiga%29.png/960px-S%C3%A3o_Teot%C3%B3nio_%28s%C3%A9c._XV%29_-_Nuno_Gon%C3%A7alves_%28Museu_Nacional_de_Arte_Antiga%29.png"
+summary: >-
+  Nephew of the bishop of Coimbra, Portugal. Educated at the University of Coimbra. Parish priest, assigned to Viseu,
+  Portugal. His powerful and outspoken preaching against vice gained him a great reputation, the animosity of the ruling
+  class, and the affection of the king and quee
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/S%25C3%25A3o_Teot%25C3%25B3nio_%2528s%25C3%25A9c._XV%2529_-_Nuno_Gon%25C3%25A7alves_%2528Museu_Nacional_de_Arte_Antiga%2529.png?width=600
 searchAliases:
-  - "Teotonio"
+  - Teotonio
 birthYear: 1086
 deathYear: 1166
-born: "1086 at Gonfeo, Spain"
-died: "1166 of natural causes"
-birthPlace: "Spain"
-region: "Portugal"
+born: 1086 at Gonfeo, Spain
+died: 1166 of natural causes
+birthPlace: Spain
+region: Portugal
 feastDay:
   month: 2
   day: 18
@@ -19,11 +23,11 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Coimbra, Portugal, diocese of"
-  - "Viseu, Portugal, city of"
-  - "Viseu, Portugal, diocese of"
+  - Coimbra, Portugal, diocese of
+  - Viseu, Portugal, city of
+  - Viseu, Portugal, diocese of
 martyr: false
 ---
 

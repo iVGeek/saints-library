@@ -1,21 +1,25 @@
 ---
-name: "Saint Marie-Nicolas-Antoine Daveluy"
+name: Saint Marie-Nicolas-Antoine Daveluy
 honorific: Venerable
-summary: "Born to a prominent and pious family, his father was a factory owner, city councilman, and government official; Antoine and two of his brothers became priests. He studied at the Saint Sulpice Seminary in Issy-les-Moulineaux, Paris, France in October 1834, and was ordained a pries"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mgr_Daveluy.jpg/960px-Mgr_Daveluy.jpg"
+summary: >-
+  Born to a prominent and pious family, his father was a factory owner, city councilman, and government official;
+  Antoine and two of his brothers became priests. He studied at the Saint Sulpice Seminary in Issy-les-Moulineaux,
+  Paris, France in October 1834, and was ordained a pries
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Mgr_Daveluy.jpg?width=600
 searchAliases:
-  - "Antonio Daveluy"
+  - Antonio Daveluy
 birthYear: 1818
 deathYear: 1866
-born: "16 March 1818 in the parish of Saint-Leu, Amiens, Somme, France"
-died: "beheaded on Good Friday, 30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea"
-birthPlace: "Amiens, Somme, France"
-deathPlace: "30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea"
-region: "Japan"
+born: 16 March 1818 in the parish of Saint-Leu, Amiens, Somme, France
+died: beheaded on Good Friday, 30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea
+birthPlace: Amiens, Somme, France
+deathPlace: 30 March 1866 at the Galmaemot naval base, Boryeong, Chungcheong-do, South Korea
+region: Japan
 feastDay:
   month: 3
   day: 30
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop

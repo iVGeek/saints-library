@@ -1,13 +1,13 @@
 ---
-name: "Saint Imperia"
+name: Saint Imperia
 honorific: Saint
-summary: "Honoured in Mauprévoir, France, but no information about her has survived."
-region: "France"
+summary: Honoured in Mauprévoir, France, but no information about her has survived.
+region: France
 feastDay:
   month: 9
   day: 6
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Porto_Maurizio_Imperia%2C_Ligurien.jpg/960px-Porto_Maurizio_Imperia%2C_Ligurien.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Porto_Maurizio_Imperia%252C_Ligurien.jpg?width=600
 vocation: []
 martyr: false
 ---

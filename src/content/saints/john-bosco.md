@@ -2,12 +2,12 @@
 name: John Bosco
 honorific: Saint
 title: Priest, Founder
-summary: >-
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg/330px-Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg
+summary: ''
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Don_Bosco_%2540_Torino%252C_1880_%2528original%2529.jpg?width=600
 imageAlt: Portrait of John Bosco
-imageCredit: Wikimedia Commons
-  "Don Bosco" — the apostle of Turin's street boys, founder of the Salesians, whose
-  kindness, playgrounds, and dreams of heaven changed the education of the young forever.
+imageCredit: >-
+  Wikimedia Commons "Don Bosco" — the apostle of Turin's street boys, founder of the Salesians, whose kindness,
+  playgrounds, and dreams of heaven changed the education of the young forever.
 searchAliases:
   - St. John Bosco
   - Don Bosco
@@ -19,14 +19,15 @@ born: 16 August 1815
 died: 31 January 1888
 birthPlace: Becchi, Castelnuovo d'Asti, Italy
 deathPlace: Turin, Italy
-region: "Argentina"
-centuries: [19]
+region: Argentina
+centuries:
+  - 19
 feastDay:
   month: 1
   day: 31
 liturgicalRank: Memorial
 canonizationStatus: Saint
-canonizedDate: "1934"
+canonizedDate: '1934'
 vocation:
   - Priest
   - Founder
@@ -45,39 +46,36 @@ symbols:
   - Dream
 martyr: false
 lifeEvents:
-  - year: "16 August 1815"
+  - year: 16 August 1815
     event: Born in the hamlet of Becchi, son of poor farmers; his father dies when he is two.
-  - year: "1835"
+  - year: '1835'
     event: Enters the seminary at Chieri, paying his way by study and odd jobs.
-  - year: "1841"
+  - year: '1841'
     event: Ordained priest in Turin; begins to gather the street boys of the city.
-  - year: "1846"
+  - year: '1846'
     event: Opens the first oratory near the Valdocco district; the work of the oratories grows through the 1850s.
-  - year: "1859"
+  - year: '1859'
     event: Founds the Society of Saint Francis de Sales — the Salesians.
-  - year: "1872"
+  - year: '1872'
     event: With Saint Maria Mazzarello, founds the Daughters of Mary Help of Christians for girls.
-  - year: "1880s"
+  - year: 1880s
     event: Sends missionaries to Argentina; publishes hundreds of popular books and catechetical works.
-  - year: "31 January 1888"
+  - year: 31 January 1888
     event: Dies in Turin; his "good night" words to his boys are remembered as his farewell sermon.
-  - year: "1934"
+  - year: '1934'
     event: Canonized by Pope Pius XI.
 quotes:
-  - text: >-
-      It is not enough to love the young; they must know that they are loved.
+  - text: It is not enough to love the young; they must know that they are loved.
     source: Saint John Bosco
-  - text: >-
-      Give me souls; take away the rest.
+  - text: Give me souls; take away the rest.
     source: Motto of Saint John Bosco
 prayers:
   - name: Prayer to Saint John Bosco
     kind: Prayer for young people and educators
     text: >-
-      O Saint John Bosco, father and teacher of the young, who saw in every boy and girl a soul
-      worth saving, guide the children of our time. Bless their parents and teachers; give them
-      hearts that know they are loved. Keep the young safe from harm, and draw them, through
-      work, study, and prayer, to the joy of heaven. Amen.
+      O Saint John Bosco, father and teacher of the young, who saw in every boy and girl a soul worth saving, guide the
+      children of our time. Bless their parents and teachers; give them hearts that know they are loved. Keep the young
+      safe from harm, and draw them, through work, study, and prayer, to the joy of heaven. Amen.
 relatedSaints:
   - name: Dominic Savio
     slug: dominic-savio

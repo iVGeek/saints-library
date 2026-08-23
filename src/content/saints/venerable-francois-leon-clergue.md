@@ -1,26 +1,31 @@
 ---
-name: "Venerable François-Léon Clergue"
+name: Venerable François-Léon Clergue
 honorific: Venerable
-summary: "The oldest of three children born to Jean-Louis-François-Frédéric Clergue, a law clerk, and Rose Amilhau, he was baptized when he was only a few minutes old. He was known as a pious and stubborn child who planned from age 6 to become a priest. He began studying at a junior semina"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marie-Antoine_de_Lavaur.jpg/960px-Marie-Antoine_de_Lavaur.jpg"
+summary: >-
+  The oldest of three children born to Jean-Louis-François-Frédéric Clergue, a law clerk, and Rose Amilhau, he was
+  baptized when he was only a few minutes old. He was known as a pious and stubborn child who planned from age 6 to
+  become a priest. He began studying at a junior semina
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Antoine_de_Lavaur.jpg?width=600
 searchAliases:
-  - "Marie-Antoine de Lavaur"
-  - "Apostle of the South (of France)"
+  - Marie-Antoine de Lavaur
+  - Apostle of the South (of France)
 birthYear: 1825
 deathYear: 1907
-born: "23 December 1825 in Lavaur, Tarn, France"
-died: "8 February 1907 in Toulouse, Tarn, France of a fever"
-birthPlace: "Tarn, France"
-deathPlace: "Tarn, Francea fever"
-region: "France"
+born: 23 December 1825 in Lavaur, Tarn, France
+died: 8 February 1907 in Toulouse, Tarn, France of a fever
+birthPlace: Tarn, France
+deathPlace: Tarn, Francea fever
+region: France
 feastDay:
   month: 9
   day: 21
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

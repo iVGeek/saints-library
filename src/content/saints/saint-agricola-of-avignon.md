@@ -1,17 +1,20 @@
 ---
-name: "Saint Agricola of Avignon"
+name: Saint Agricola of Avignon
 honorific: Saint
-summary: "Son of Saint Magnus of Avignon, a Gallo-Roman senator who became a monk and then bishop. Agricola moved to Lerins, France, his father's see, at age 14. Monk there at age 16. Ordained in Lerins. Co-bishop of Avignon with his father in 660. Bishop in 670. Built a church and Benedic"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Avignon_Saint_Agricol_50648.JPG/960px-Avignon_Saint_Agricol_50648.JPG"
+summary: >-
+  Son of Saint Magnus of Avignon, a Gallo-Roman senator who became a monk and then bishop. Agricola moved to Lerins,
+  France, his father's see, at age 14. Monk there at age 16. Ordained in Lerins. Co-bishop of Avignon with his father in
+  660. Bishop in 670. Built a church and Benedic
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Avignon_Saint_Agricol_50648.JPG?width=600
 searchAliases:
-  - "Agricolus of Bologna"
-  - "Agricol of…"
-  - "Agricolus of…"
+  - Agricolus of Bologna
+  - Agricol of…
+  - Agricolus of…
 birthYear: 625
 deathYear: 700
-born: "c.625"
-died: "c.700 of natural causes"
-region: "France"
+born: c.625
+died: c.700 of natural causes
+region: France
 feastDay:
   month: 9
   day: 2
@@ -20,16 +23,16 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against misfortune"
-  - "against plague epidemics"
-  - "for rain"
-  - "for good weather"
-  - "storks"
-  - "—"
-  - "Avignon, France, city of (proclaimed in 1647)"
-  - "Avignon, France, archdiocese of"
+  - against misfortune
+  - against plague epidemics
+  - for rain
+  - for good weather
+  - storks
+  - —
+  - Avignon, France, city of (proclaimed in 1647)
+  - Avignon, France, archdiocese of
 martyr: false
 ---
 

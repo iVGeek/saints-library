@@ -1,15 +1,18 @@
 ---
-name: "Blessed Edvige Carboni"
+name: Blessed Edvige Carboni
 honorific: Blessed
-summary: "The second child of Giovanni Battista Carboni and Maria Domenica Pinna, Edvige had to leave school at the 4th grade. She felt drawn to the religious life, but stayed at her parents' home to care for her chronically ill mother; she spent all her free time there in prayer. On 14 Ju"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edvige_Carboni.jpg/960px-Edvige_Carboni.jpg"
+summary: >-
+  The second child of Giovanni Battista Carboni and Maria Domenica Pinna, Edvige had to leave school at the 4th grade.
+  She felt drawn to the religious life, but stayed at her parents' home to care for her chronically ill mother; she
+  spent all her free time there in prayer. On 14 Ju
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Edvige_Carboni.jpg?width=600
 birthYear: 1880
 deathYear: 1952
-born: "late night of 2 May 1880 in Pozzomaggiore, Sassari, Italy"
-died: "10:30pm on 17 February 1952 in Rome, Italy of angina pectoris"
-birthPlace: "Sassari, Italy"
-deathPlace: "Italyangina pectoris"
-region: "Italy"
+born: late night of 2 May 1880 in Pozzomaggiore, Sassari, Italy
+died: 10:30pm on 17 February 1952 in Rome, Italy of angina pectoris
+birthPlace: Sassari, Italy
+deathPlace: Italyangina pectoris
+region: Italy
 feastDay:
   month: 2
   day: 17

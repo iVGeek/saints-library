@@ -1,15 +1,18 @@
 ---
-name: "Blessed Antoine Chevrier"
+name: Blessed Antoine Chevrier
 honorific: Blessed
-summary: "An only child in a family of workers in the silk industry, Antoine was baptized at the age of 2 days. He made his First Communion in 1837, and in 1840, at age 14, he considered becoming a priest - and had such a sense of happiness at the idea that he knew he had a calling to the"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chevrier2.jpg/960px-Chevrier2.jpg"
+summary: >-
+  An only child in a family of workers in the silk industry, Antoine was baptized at the age of 2 days. He made his
+  First Communion in 1837, and in 1840, at age 14, he considered becoming a priest - and had such a sense of happiness
+  at the idea that he knew he had a calling to the
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Chevrier2.jpg?width=600
 birthYear: 1825
 deathYear: 1879
-born: "Easter Sunday, 16 April 1825 in Lyon, Rhône, France"
-died: "2 October 1879 in Lyon, Rhône, France of natural causes"
-birthPlace: "16 April 1825Lyon, Rhône, France"
-deathPlace: "Rhône, Francenatural causes"
-region: "France"
+born: Easter Sunday, 16 April 1825 in Lyon, Rhône, France
+died: 2 October 1879 in Lyon, Rhône, France of natural causes
+birthPlace: 16 April 1825Lyon, Rhône, France
+deathPlace: Rhône, Francenatural causes
+region: France
 feastDay:
   month: 10
   day: 2
@@ -17,10 +20,10 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Sisters of Prado"
-  - "Institute of the Priests of Prado"
+  - Sisters of Prado
+  - Institute of the Priests of Prado
 martyr: false
 ---
 

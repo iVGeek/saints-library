@@ -1,20 +1,23 @@
 ---
-name: "Saint Anselm of Canterbury"
+name: Saint Anselm of Canterbury
 honorific: Saint
-summary: "Born to the Italian nobility. After a childhood devoted to piety and study, at age 15 Anselm wanted to enter religious life, but his father Gondulf prevented it, and Anselm became rather worldly for several years. Upon the death of his mother, Ermenberge, Anselm argued with his f"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Anselm_of_Canterbury%2C_seal.svg/960px-Anselm_of_Canterbury%2C_seal.svg.png"
+summary: >-
+  Born to the Italian nobility. After a childhood devoted to piety and study, at age 15 Anselm wanted to enter religious
+  life, but his father Gondulf prevented it, and Anselm became rather worldly for several years. Upon the death of his
+  mother, Ermenberge, Anselm argued with his f
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Anselm_of_Canterbury%252C_seal.svg?width=600
 searchAliases:
-  - "Anselm of Aosta"
-  - "Anselmo d'Aosta"
-  - "Anselmo of Canterbury"
-  - "Doctor of Scholasticism"
+  - Anselm of Aosta
+  - Anselmo d'Aosta
+  - Anselmo of Canterbury
+  - Doctor of Scholasticism
 birthYear: 1033
 deathYear: 1109
-born: "1033 at Aosta, Piedmont, Italy"
-died: "Holy Wednesday 21 April 1109 at Canterbury, Kent, England"
-birthPlace: "Piedmont, Italy"
-deathPlace: "Kent, England"
-region: "France"
+born: 1033 at Aosta, Piedmont, Italy
+died: Holy Wednesday 21 April 1109 at Canterbury, Kent, England
+birthPlace: Piedmont, Italy
+deathPlace: Kent, England
+region: France
 feastDay:
   month: 4
   day: 21
@@ -23,11 +26,14 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Canterbury, England"
-  - "in Italy\n\nAosta"
-  - "Turin"
+  - Canterbury, England
+  - |-
+    in Italy
+
+    Aosta
+  - Turin
 martyr: false
 ---
 

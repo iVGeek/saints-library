@@ -2,8 +2,7 @@
 name: Simon the Zealot
 honorific: Saint
 title: Apostle, Martyr
-
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rubens_apostel_simon.jpg/330px-Rubens_apostel_simon.jpg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Rubens_apostel_simon.jpg?width=600
 imageAlt: Portrait of Simon the Zealot
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +16,9 @@ born: 1st century
 died: c. 65
 birthPlace: Galilee, Israel
 deathPlace: Persia or Britain
-region: "Egypt"
-centuries: [1]
+region: Egypt
+centuries:
+  - 1
 feastDay:
   month: 10
   day: 28
@@ -37,26 +37,24 @@ symbols:
   - Fish
 martyr: true
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born in Galilee; tradition holds he was a member of the Zealot movement.
-  - year: "c. AD 27–33"
+  - year: c. AD 27–33
     event: Called by Christ to be one of the Twelve; present at the Last Supper and Pentecost.
-  - year: "AD 30s–60s"
+  - year: AD 30s–60s
     event: Preaches the Gospel in Egypt, North Africa, Persia, and possibly Britain.
-  - year: "c. 65"
+  - year: c. 65
     event: Martyred in Persia (or Britain), traditionally with a saw.
 quotes:
-  - text: >-
-      We have found the Messiah.
+  - text: We have found the Messiah.
     source: Words attributed to the apostles, per the Gospel of John 1:41
 prayers:
   - name: Prayer to Saint Simon
     kind: Prayer for workers and for the courage to follow Christ
     text: >-
-      O Saint Simon, apostle and martyr, who left the fires of earthly revolution for the quiet
-      fire of the Gospel, teach us to put our passion at the service of Christ. Bless all who
-      labor with their hands, and grant that we may find in the work of the Church the cause
-      worthier than any sword. Amen.
+      O Saint Simon, apostle and martyr, who left the fires of earthly revolution for the quiet fire of the Gospel,
+      teach us to put our passion at the service of Christ. Bless all who labor with their hands, and grant that we may
+      find in the work of the Church the cause worthier than any sword. Amen.
 relatedSaints:
   - name: Jude Thaddaeus
     slug: jude-thaddaeus

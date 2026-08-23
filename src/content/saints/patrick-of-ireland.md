@@ -2,7 +2,9 @@
 name: Patrick of Ireland
 honorific: Saint
 title: Bishop, Apostle of Ireland
-summary: The missionary bishop who carried the faith to Ireland in the fifth century; patron saint of Ireland, famed for driving the snakes out of the land.
+summary: >-
+  The missionary bishop who carried the faith to Ireland in the fifth century; patron saint of Ireland, famed for
+  driving the snakes out of the land.
 searchAliases:
   - St. Patrick
   - San Patricio
@@ -15,7 +17,9 @@ died: 17 March c. 461
 birthPlace: Roman Britain
 deathPlace: Saul, Ireland
 region: Ireland
-centuries: [4, 5]
+centuries:
+  - 4
+  - 5
 feastDay:
   month: 3
   day: 17
@@ -40,59 +44,59 @@ symbols:
   - Celtic cross
   - Mitre
 martyr: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg/330px-Our_Lady%27s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg"
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Our_Lady%2527s_Island_Church_of_the_Assumption_East_Aisle_Window_Saint_Patrick_2010_09_26.jpg?width=600
 imageAlt: A stained-glass window of Saint Patrick, Junction City, Ohio
 imageCredit: Stained glass, St. Patrick Catholic Church, Junction City, Ohio — CC BY-SA 4.0 (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Saint_Patrick_Catholic_Church_(Junction_City,_Ohio)_-_stained_glass,_Saint_Patrick_-_detail.jpg"
+imageCreditUrl: >-
+  https://commons.wikimedia.org/wiki/File:Saint_Patrick_Catholic_Church_(Junction_City,_Ohio)_-_stained_glass,_Saint_Patrick_-_detail.jpg
 lifeEvents:
-  - year: "c. 387"
+  - year: c. 387
     event: Born in Roman Britain to a Christian family; his father a deacon, his grandfather a priest.
-  - year: "c. 405"
+  - year: c. 405
     event: Captured by Irish raiders at sixteen and sold into slavery in Ireland; herds sheep for six years.
-  - year: "c. 408"
+  - year: c. 408
     event: Escapes after a dream urges him to the coast; returns home after a voyage of hardship.
-  - year: "c. 409–432"
+  - year: c. 409–432
     event: Studies in Gaul and is ordained; a vision of the Irish calling him back ("the voice of the Irish").
-  - year: "c. 432"
+  - year: c. 432
     event: Returns to Ireland as a bishop, beginning thirty years of missionary labor.
-  - year: "c. 433"
-    event: Confronts the high king's druids at the Easter fire of Slane; tradition tells of the shamrock used to teach the Trinity.
-  - year: "c. 461"
+  - year: c. 433
+    event: >-
+      Confronts the high king's druids at the Easter fire of Slane; tradition tells of the shamrock used to teach the
+      Trinity.
+  - year: c. 461
     event: Dies on 17 March at Saul, where he had founded his first church.
 quotes:
-  - text: >-
-      I arose today through the strength of heaven... Christ with me, Christ before me, Christ behind me, Christ in me.
+  - text: I arose today through the strength of heaven... Christ with me, Christ before me, Christ behind me, Christ in me.
     source: The Breastplate of Saint Patrick (traditional prayer)
   - text: >-
-      Before I was humbled I was like a stone lying in deep mire; and He that is mighty came and in His mercy lifted me up.
+      Before I was humbled I was like a stone lying in deep mire; and He that is mighty came and in His mercy lifted me
+      up.
     source: The Confession of Saint Patrick
 prayers:
   - name: The Breastplate of Saint Patrick (excerpt)
     kind: Traditional prayer of protection
     text: >-
-      Christ be with me, Christ within me, Christ behind me, Christ before me, Christ beside
-      me, Christ to win me, Christ to comfort and restore me, Christ beneath me, Christ above
-      me, Christ in quiet, Christ in danger, Christ in hearts of all that love me, Christ in
-      mouth of friend and stranger. Amen.
+      Christ be with me, Christ within me, Christ behind me, Christ before me, Christ beside me, Christ to win me,
+      Christ to comfort and restore me, Christ beneath me, Christ above me, Christ in quiet, Christ in danger, Christ in
+      hearts of all that love me, Christ in mouth of friend and stranger. Amen.
   - name: Prayer of Saint Patrick
     kind: Traditional prayer of trust
     text: >-
-      I bind to myself today the power of the heavens, the light of the sun, the brightness of
-      the moon, the splendor of fire, the flashing of lightning, the swiftness of wind, the
-      depth of the sea, the stability of the earth, and the firmness of rock. I arise through
-      the strength of heaven. Amen.
-  - name: "Novena to Saint Patrick"
-    kind: "Novena — nine-day prayer for mission and faith"
+      I bind to myself today the power of the heavens, the light of the sun, the brightness of the moon, the splendor of
+      fire, the flashing of lightning, the swiftness of wind, the depth of the sea, the stability of the earth, and the
+      firmness of rock. I arise through the strength of heaven. Amen.
+  - name: Novena to Saint Patrick
+    kind: Novena — nine-day prayer for mission and faith
     text: >-
-      O glorious Saint Patrick, apostle of Ireland and faithful bishop, I turn to you in this
-      novena with a heart longing for God. You who were once a slave and became a spiritual
-      father to a nation, obtain for me the grace to see God's hand in every circumstance of
-      my life, even in suffering and hardship. You who carried the faith across the sea to a
-      pagan land, inflame my heart with missionary zeal that I may bring the light of Christ
-      to those around me. Through the power of the Holy Trinity, which you taught with the
-      shamrock, break the chains of sin and evil that bind me and those I love. Watch over all
-      who labor for the faith in dangerous places, and protect me from every spiritual harm.
-      O Saint Patrick, who arose through the strength of heaven, intercede for me that I may
+      O glorious Saint Patrick, apostle of Ireland and faithful bishop, I turn to you in this novena with a heart
+      longing for God. You who were once a slave and became a spiritual father to a nation, obtain for me the grace to
+      see God's hand in every circumstance of my life, even in suffering and hardship. You who carried the faith across
+      the sea to a pagan land, inflame my heart with missionary zeal that I may bring the light of Christ to those
+      around me. Through the power of the Holy Trinity, which you taught with the shamrock, break the chains of sin and
+      evil that bind me and those I love. Watch over all who labor for the faith in dangerous places, and protect me
+      from every spiritual harm. O Saint Patrick, who arose through the strength of heaven, intercede for me that I may
       arise each day in faith, hope, and love. Amen.
 relatedSaints:
   - name: Michael the Archangel

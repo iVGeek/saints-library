@@ -1,17 +1,20 @@
 ---
-name: "Saint Frederick of Utrecht"
+name: Saint Frederick of Utrecht
 honorific: Saint
-summary: "Grandson of King Radbon of the Frisians. Educated by the priests at Utrecht, Netherlands. Priest, known for his learning and personal piety. Catechist and instructor to converts. Bishop of Utrecht in 825. Frederick worked to reform his clergy, regularize Church practice in his di"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Frederik_Bloemaert_-_S._Fredericus.jpg/960px-Frederik_Bloemaert_-_S._Fredericus.jpg"
+summary: >-
+  Grandson of King Radbon of the Frisians. Educated by the priests at Utrecht, Netherlands. Priest, known for his
+  learning and personal piety. Catechist and instructor to converts. Bishop of Utrecht in 825. Frederick worked to
+  reform his clergy, regularize Church practice in his di
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Frederik_Bloemaert_-_S._Fredericus.jpg?width=600
 searchAliases:
-  - "Frederick of the Netherlands"
-  - "Fredericus…"
-  - "Fridrich…"
-  - "Frederic…"
-  - "Federico…"
+  - Frederick of the Netherlands
+  - Fredericus…
+  - Fridrich…
+  - Frederic…
+  - Federico…
 deathYear: 838
-died: "stabbed to death during Mass on 18 July 838"
-region: "Netherlands"
+died: stabbed to death during Mass on 18 July 838
+region: Netherlands
 feastDay:
   month: 7
   day: 18
@@ -21,8 +24,11 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "in the Netherlands\n\nMaastricht"
-  - "Utrecht"
+  - |-
+    in the Netherlands
+
+    Maastricht
+  - Utrecht
 martyr: true
 ---
 

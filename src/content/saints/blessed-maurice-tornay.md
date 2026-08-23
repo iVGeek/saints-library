@@ -1,18 +1,21 @@
 ---
-name: "Blessed Maurice Tornay"
+name: Blessed Maurice Tornay
 honorific: Blessed
-summary: "Seventh of eight children born to Jean-Joseph Tornay and Faustina Dossier, and likely named for Saint Maurice of the Theban Legion who had been martyred in the area. He was baptised at 13 days old, made his First Communion at age 7, and during his youth he walked a hour each way"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mauricetornayagaunien.jpg/960px-Mauricetornayagaunien.jpg"
+summary: >-
+  Seventh of eight children born to Jean-Joseph Tornay and Faustina Dossier, and likely named for Saint Maurice of the
+  Theban Legion who had been martyred in the area. He was baptised at 13 days old, made his First Communion at age 7,
+  and during his youth he walked a hour each way
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Mauricetornayagaunien.jpg?width=600
 searchAliases:
-  - "Mauritius"
-  - "Mauricio"
+  - Mauritius
+  - Mauricio
 birthYear: 1910
 deathYear: 1949
-born: "31 August 1910 in Rosière, Valais, Switzerland"
-died: "shot by Tibetan guards on 11 August 1949 in To-Thong, Tibet"
-birthPlace: "Valais, Switzerland"
-deathPlace: "Tibet"
-region: "Japan"
+born: 31 August 1910 in Rosière, Valais, Switzerland
+died: shot by Tibetan guards on 11 August 1949 in To-Thong, Tibet
+birthPlace: Valais, Switzerland
+deathPlace: Tibet
+region: Japan
 feastDay:
   month: 8
   day: 11

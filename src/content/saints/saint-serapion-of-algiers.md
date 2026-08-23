@@ -1,18 +1,21 @@
 ---
-name: "Saint Serapion of Algiers"
+name: Saint Serapion of Algiers
 honorific: Saint
-summary: "As a boy he accompanied his father in the Third Crusade, and was at the battle of Acre in 1191. Member of the Order of Our Lady of Ransom, received into the Order by Saint Peter Nolasco at Barcelona, Spain in 1222. Worked with Saint Raymond Nonnatus to free 150 Christian slaves i"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/San_Serapio%2C_por_Francisco_de_Zurbar%C3%A1n.jpg/960px-San_Serapio%2C_por_Francisco_de_Zurbar%C3%A1n.jpg"
+summary: >-
+  As a boy he accompanied his father in the Third Crusade, and was at the battle of Acre in 1191. Member of the Order of
+  Our Lady of Ransom, received into the Order by Saint Peter Nolasco at Barcelona, Spain in 1222. Worked with Saint
+  Raymond Nonnatus to free 150 Christian slaves i
+image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Serapio%252C_por_Francisco_de_Zurbar%25C3%25A1n.jpg?width=600
 searchAliases:
-  - "Serapion of England"
-  - "Serapio of…."
+  - Serapion of England
+  - Serapio of….
 birthYear: 1179
 deathYear: 1240
-born: "c.1179 in London, England"
-died: "crucified, stabbed and dismembered alive in Algeria in 1240"
-birthPlace: "England"
-deathPlace: "stabbed and dismembered aliveAlgeria in 1240"
-region: "Spain"
+born: c.1179 in London, England
+died: crucified, stabbed and dismembered alive in Algeria in 1240
+birthPlace: England
+deathPlace: stabbed and dismembered aliveAlgeria in 1240
+region: Spain
 feastDay:
   month: 11
   day: 14
@@ -22,9 +25,9 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - "against arthritis"
-  - "Azul, Argentina, diocese of"
-  - "sick people"
+  - against arthritis
+  - Azul, Argentina, diocese of
+  - sick people
 martyr: true
 ---
 

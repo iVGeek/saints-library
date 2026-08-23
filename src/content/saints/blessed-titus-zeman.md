@@ -1,15 +1,18 @@
 ---
-name: "Blessed Titus Zeman"
+name: Blessed Titus Zeman
 honorific: Blessed
-summary: "Joined the Salesians of Don Bosco in 1931, and made his solemn vows on 7 March 1938. Ordained a priest in 1940. Chaplain, school council member and chemistry teacher. Helped Salesians in Czechoslovakia escape to Italy after Communists banned religious orders on 13 April 1950 and"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vajnory_kostol_09_%28cropped%29.jpg/960px-Vajnory_kostol_09_%28cropped%29.jpg"
+summary: >-
+  Joined the Salesians of Don Bosco in 1931, and made his solemn vows on 7 March 1938. Ordained a priest in 1940.
+  Chaplain, school council member and chemistry teacher. Helped Salesians in Czechoslovakia escape to Italy after
+  Communists banned religious orders on 13 April 1950 and
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Vajnory_kostol_09_%2528cropped%2529.jpg?width=600
 birthYear: 1915
 deathYear: 1969
-born: "4 January 1915 in Vajnory, Bratislavský, Slovakia"
-died: "8 January 1969 in Bratislava, Slovakia of heart failure"
-birthPlace: "Bratislavský, Slovakia"
-deathPlace: "Slovakiaheart failure"
-region: "Czech Republic"
+born: 4 January 1915 in Vajnory, Bratislavský, Slovakia
+died: 8 January 1969 in Bratislava, Slovakia of heart failure
+birthPlace: Bratislavský, Slovakia
+deathPlace: Slovakiaheart failure
+region: Czech Republic
 feastDay:
   month: 1
   day: 8
@@ -17,7 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: true
 ---
 

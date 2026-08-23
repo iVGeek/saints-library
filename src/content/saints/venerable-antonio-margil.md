@@ -1,33 +1,39 @@
 ---
-name: "Venerable Antonio Margil"
+name: Venerable Antonio Margil
 honorific: Venerable
-summary: "Son of Juan Margil and Esperanza Ros; he had two sisters. Joined the Franciscans at La Corona de Cristo, Valencia, Spain on 22 April 1673. Regularly referred to himself with the nickname La Misma Nada (Nothingness Itself). Ordained at age 25. Missionary to New Spain in 1683, stat"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Fray_Antonio_Margil_de_Jes%C3%BAs%2C_escultura_de_Alberto_P%C3%A9rez_Soria.jpg/960px-Fray_Antonio_Margil_de_Jes%C3%BAs%2C_escultura_de_Alberto_P%C3%A9rez_Soria.jpg"
+summary: >-
+  Son of Juan Margil and Esperanza Ros; he had two sisters. Joined the Franciscans at La Corona de Cristo, Valencia,
+  Spain on 22 April 1673. Regularly referred to himself with the nickname La Misma Nada (Nothingness Itself). Ordained
+  at age 25. Missionary to New Spain in 1683, stat
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Fray_Antonio_Margil_de_Jes%25C3%25BAs%252C_escultura_de_Alberto_P%25C3%25A9rez_Soria.jpg?width=600
 searchAliases:
-  - "Antonio Margil de Jes&uacute;s"
-  - "Antonio Margil Ros"
-  - "Apostle of Guatemala"
-  - "Apostle of New Spain"
-  - "Apostle of Texas"
-  - "La Misma Nada"
-  - "Nothingness Itself"
+  - Antonio Margil de Jes&uacute;s
+  - Antonio Margil Ros
+  - Apostle of Guatemala
+  - Apostle of New Spain
+  - Apostle of Texas
+  - La Misma Nada
+  - Nothingness Itself
 birthYear: 1657
 deathYear: 1726
-born: "18 August 1657 at Valencia, Spain"
-died: "6 August 1726 in Convento Grande de San Francisco, Mexico of natural causes"
-birthPlace: "Spain"
-deathPlace: "Mexiconatural causes"
-region: "Spain"
+born: 18 August 1657 at Valencia, Spain
+died: 6 August 1726 in Convento Grande de San Francisco, Mexico of natural causes
+birthPlace: Spain
+deathPlace: Mexiconatural causes
+region: Spain
 feastDay:
   month: 4
   day: 22
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

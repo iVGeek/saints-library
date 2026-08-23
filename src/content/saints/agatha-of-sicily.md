@@ -2,8 +2,11 @@
 name: Agatha of Sicily
 honorific: Saint
 title: Virgin, Martyr
-summary: The Sicilian virgin who refused a Roman governor's lust and died in chains — patroness of breast cancer patients, invoked against fire and earthquakes.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg/330px-Sant%27agata%2C_VII-inizio_VIII_secolo_ca.%2C_forse_da_s.m._antiqua_%28roma%2C_coll._priv.%29.jpg
+summary: >-
+  The Sicilian virgin who refused a Roman governor's lust and died in chains — patroness of breast cancer patients,
+  invoked against fire and earthquakes.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Sant%2527agata%252C_VII-inizio_VIII_secolo_ca.%252C_forse_da_s.m._antiqua_%2528roma%252C_coll._priv.%2529.jpg?width=600
 imageAlt: Portrait of Agatha of Sicily
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +20,9 @@ born: c. 231
 died: c. 251
 birthPlace: Catania, Sicily, Italy
 deathPlace: Catania, Sicily, Italy
-region: "Italy"
-centuries: [3]
+region: Italy
+centuries:
+  - 3
 feastDay:
   month: 2
   day: 5
@@ -39,26 +43,28 @@ symbols:
   - Veil
 martyr: true
 lifeEvents:
-  - year: "c. 231"
+  - year: c. 231
     event: Born of a noble family at Catania in Sicily.
-  - year: "c. 250"
+  - year: c. 250
     event: The Roman prefect Quintianus desires her; she refuses him, professing her virginity for Christ.
-  - year: "c. 251"
-    event: After torture and the cutting of her breasts, she is martyred in prison; an earthquake interrupts the torture, and her tormentors are terrified.
-  - year: "4th century"
-    event: Her cult spreads through the West; Saint Lucy named her among the virgin martyrs of the West in the Canon of the Mass.
+  - year: c. 251
+    event: >-
+      After torture and the cutting of her breasts, she is martyred in prison; an earthquake interrupts the torture, and
+      her tormentors are terrified.
+  - year: 4th century
+    event: >-
+      Her cult spreads through the West; Saint Lucy named her among the virgin martyrs of the West in the Canon of the
+      Mass.
 quotes:
-  - text: >-
-      Torture my body, and you will not gain my soul.
+  - text: Torture my body, and you will not gain my soul.
     source: The words of Saint Agatha to the proconsul Quintianus
 prayers:
   - name: Prayer to Saint Agatha
     kind: Prayer for those with breast cancer and for all who suffer
     text: >-
-      O Saint Agatha, who endured every cruelty for the love of Christ and was preserved by His
-      hand, protect all who suffer with cancer and all who care for them. Comfort those who
-      undergo surgery and treatment; grant them your courage and the healing of God, and
-      intercede before the Lord for their restoration. Amen.
+      O Saint Agatha, who endured every cruelty for the love of Christ and was preserved by His hand, protect all who
+      suffer with cancer and all who care for them. Comfort those who undergo surgery and treatment; grant them your
+      courage and the healing of God, and intercede before the Lord for their restoration. Amen.
 relatedSaints:
   - name: Agnes of Rome
     slug: agnes-of-rome

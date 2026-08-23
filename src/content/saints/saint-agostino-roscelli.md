@@ -1,19 +1,23 @@
 ---
-name: "Saint Agostino Roscelli"
+name: Saint Agostino Roscelli
 honorific: Venerable
-summary: "Born to a poor farming family, Agostino spent his youth as a mountain shepherd, using his solitary time for prayer. During a parish mission in May 1835, he realized a call to the priesthood, a calling he attacked with prayer which led to financial aid that allowed him to study at"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bargone-dipinto_Agostino_Roscelli.jpg/960px-Bargone-dipinto_Agostino_Roscelli.jpg"
+summary: >-
+  Born to a poor farming family, Agostino spent his youth as a mountain shepherd, using his solitary time for prayer.
+  During a parish mission in May 1835, he realized a call to the priesthood, a calling he attacked with prayer which led
+  to financial aid that allowed him to study at
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Bargone-dipinto_Agostino_Roscelli.jpg?width=600
 searchAliases:
-  - "Augustine Roscelli"
-  - "Augustin Roscelli"
+  - Augustine Roscelli
+  - Augustin Roscelli
 deathYear: 1902
-died: "7 May 1902 at Genoa, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 7 May 1902 at Genoa, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 7
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest

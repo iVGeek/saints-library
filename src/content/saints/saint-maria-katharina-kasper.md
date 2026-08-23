@@ -1,19 +1,22 @@
 ---
-name: "Saint Maria Katharina Kasper"
+name: Saint Maria Katharina Kasper
 honorific: Saint
-summary: "Third of four children born to Heinrich Kasper and Katharina Fassel, poor but devout peasants; she had four half-sisters from her father's first marriage. A happy, out-going child, Maria was an avid reader with a fondness for both the Bible and The Imitation of Christ by Thomas a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Katharina_Kasper_%281820_-_1898%29.jpg/960px-Katharina_Kasper_%281820_-_1898%29.jpg"
+summary: >-
+  Third of four children born to Heinrich Kasper and Katharina Fassel, poor but devout peasants; she had four
+  half-sisters from her father's first marriage. A happy, out-going child, Maria was an avid reader with a fondness for
+  both the Bible and The Imitation of Christ by Thomas a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Katharina_Kasper_%25281820_-_1898%2529.jpg?width=600
 searchAliases:
-  - "Catalina Kasper"
-  - "Catherine Kasper"
-  - "Maria Caterina Kasper"
+  - Catalina Kasper
+  - Catherine Kasper
+  - Maria Caterina Kasper
 birthYear: 1820
 deathYear: 1898
-born: "26 May 1820 in Dernbach, Westerwaldkreis, Germany"
-died: "2 February 1898 in Dernbach, Westerwaldkreis, Germany of complications following a heart attack on 27 January 1898"
-birthPlace: "Westerwaldkreis, Germany"
-deathPlace: "Westerwaldkreis, Germanycomplications following a heart attack on 27 January 1898"
-region: "Mexico"
+born: 26 May 1820 in Dernbach, Westerwaldkreis, Germany
+died: 2 February 1898 in Dernbach, Westerwaldkreis, Germany of complications following a heart attack on 27 January 1898
+birthPlace: Westerwaldkreis, Germany
+deathPlace: Westerwaldkreis, Germanycomplications following a heart attack on 27 January 1898
+region: Mexico
 feastDay:
   month: 2
   day: 2
@@ -23,7 +26,7 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "Poor Handmaids of Jesus Christ"
+  - Poor Handmaids of Jesus Christ
 martyr: false
 ---
 

@@ -2,8 +2,10 @@
 name: Scholastica of Nursia
 honorific: Saint
 title: Virgin
-summary: Twin sister of Saint Benedict and foundress of monastic life for women in the West, whose love was stronger than any rule — remembered for the storm that kept her brother with her on her last night on earth.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kleinmariazell_-_Altar_Scholastica_2.jpg/330px-Kleinmariazell_-_Altar_Scholastica_2.jpg
+summary: >-
+  Twin sister of Saint Benedict and foundress of monastic life for women in the West, whose love was stronger than any
+  rule — remembered for the storm that kept her brother with her on her last night on earth.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Kleinmariazell_-_Altar_Scholastica_2.jpg?width=600
 imageAlt: Portrait of Scholastica of Nursia
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,7 +19,9 @@ died: c. 543
 birthPlace: Nursia, Italy
 deathPlace: Monte Cassino, Italy
 region: Italy
-centuries: [5, 6]
+centuries:
+  - 5
+  - 6
 feastDay:
   month: 2
   day: 10
@@ -39,38 +43,38 @@ symbols:
   - Storm clouds
 martyr: false
 lifeEvents:
-  - year: "c. 480"
+  - year: c. 480
     event: Born at Nursia, twin sister of Benedict, the future patriarch of Western monasticism.
-  - year: "c. 520s"
-    event: Takes up the monastic life, founding a community of religious women at Plombariola, near her brother's monastery at Monte Cassino.
-  - year: "c. 543"
-    event: At her last meeting with Benedict, she prays and a sudden storm prevents him from leaving; she dies three days later.
-  - year: "Tradition"
+  - year: c. 520s
+    event: >-
+      Takes up the monastic life, founding a community of religious women at Plombariola, near her brother's monastery
+      at Monte Cassino.
+  - year: c. 543
+    event: >-
+      At her last meeting with Benedict, she prays and a sudden storm prevents him from leaving; she dies three days
+      later.
+  - year: Tradition
     event: Benedict sees her soul ascend to heaven in the form of a dove.
 quotes:
-  - text: >-
-      I asked you a favor and you would not listen to me; so I asked my Lord and he has heard me.
+  - text: I asked you a favor and you would not listen to me; so I asked my Lord and he has heard me.
     source: Saint Scholastica to Saint Benedict, per Saint Gregory the Great
 prayers:
   - name: Prayer to Saint Scholastica
     kind: Prayer for prayerfulness and family
     text: >-
-      O Saint Scholastica, who overcame even your holy brother by the strength of your love,
-      teach us to pray with a love that cannot be refused. Obtain for us constancy in the
-      religious life and in every vocation, unity among those who serve God, and the grace to
-      prefer the voice of the Lord to every other. Amen.
-  - name: "Novena to Saint Scholastica"
-    kind: "Novena — nine-day prayer for religious life"
+      O Saint Scholastica, who overcame even your holy brother by the strength of your love, teach us to pray with a
+      love that cannot be refused. Obtain for us constancy in the religious life and in every vocation, unity among
+      those who serve God, and the grace to prefer the voice of the Lord to every other. Amen.
+  - name: Novena to Saint Scholastica
+    kind: Novena — nine-day prayer for religious life
     text: >-
-      O Saint Scholastica, twin sister of Saint Benedict and foundress of monastic life for
-      women, I turn to you in this novena with a heart that seeks God. You who prayed with
-      such power that a storm arose to keep your brother at your side, teach me to pray with
-      a love that cannot be refused. Obtain for me constancy in the spiritual life, even when
-      prayer feels dry and God seems distant. Watch over all religious communities, especially
-      those who follow the Rule of Saint Benedict, and grant them fidelity to their vocation.
-      You who preferred the voice of the Lord to every human rule, help me to listen for God's
-      call in my own life and to respond with generous obedience. O Saint Scholastica, who saw
-      your brother's soul rise to heaven like a dove, obtain for me the grace to persevere in
+      O Saint Scholastica, twin sister of Saint Benedict and foundress of monastic life for women, I turn to you in this
+      novena with a heart that seeks God. You who prayed with such power that a storm arose to keep your brother at your
+      side, teach me to pray with a love that cannot be refused. Obtain for me constancy in the spiritual life, even
+      when prayer feels dry and God seems distant. Watch over all religious communities, especially those who follow the
+      Rule of Saint Benedict, and grant them fidelity to their vocation. You who preferred the voice of the Lord to
+      every human rule, help me to listen for God's call in my own life and to respond with generous obedience. O Saint
+      Scholastica, who saw your brother's soul rise to heaven like a dove, obtain for me the grace to persevere in
       prayer until I see God face to face. Amen.
 relatedSaints:
   - name: Benedict of Nursia

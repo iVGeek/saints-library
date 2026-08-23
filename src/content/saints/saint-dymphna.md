@@ -1,17 +1,20 @@
 ---
-name: "Saint Dymphna"
+name: Saint Dymphna
 honorific: Saint
-summary: "Daughter of a pagan Irish chieftain named Damon, and a beautiful devoted Christian woman whose name has not come down to us. Her mother died when Dymphna was a teenager. Her father searched the Western world for a woman to replace his wife, but none could. Returning home, he saw"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg/960px-Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg"
+summary: >-
+  Daughter of a pagan Irish chieftain named Damon, and a beautiful devoted Christian woman whose name has not come down
+  to us. Her mother died when Dymphna was a teenager. Her father searched the Western world for a woman to replace his
+  wife, but none could. Returning home, he saw
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg?width=600
 searchAliases:
-  - "Dympna"
-  - "Dimpna"
-  - "Dympne"
-  - "Dymphne"
-born: "Ireland"
-died: "beheaded in Gheel, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+  - Dympna
+  - Dimpna
+  - Dympne
+  - Dymphne
+born: Ireland
+died: beheaded in Gheel, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 5
   day: 30
@@ -19,33 +22,35 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against sleepwalking"
-  - "against epilepsy"
-  - "against insanity"
-  - "against mental disorders"
-  - "against mental illness"
-  - "epileptics"
-  - "family happiness"
-  - "incest victims"
-  - "loss of parents"
-  - "martyrs"
-  - "mental asylums"
-  - "mental health caregivers"
-  - "mental health professionals"
-  - "mental hospitals"
-  - "mentally ill people"
-  - "nervous disorders"
-  - "neurological disorders"
-  - "possessed people"
-  - "princesses"
-  - "psychiatrists"
-  - "rape victims"
-  - "runaways"
-  - "sleepwalkers"
-  - "therapists\n–"
-  - "Antwerp, Belgium"
+  - against sleepwalking
+  - against epilepsy
+  - against insanity
+  - against mental disorders
+  - against mental illness
+  - epileptics
+  - family happiness
+  - incest victims
+  - loss of parents
+  - martyrs
+  - mental asylums
+  - mental health caregivers
+  - mental health professionals
+  - mental hospitals
+  - mentally ill people
+  - nervous disorders
+  - neurological disorders
+  - possessed people
+  - princesses
+  - psychiatrists
+  - rape victims
+  - runaways
+  - sleepwalkers
+  - |-
+    therapists
+    –
+  - Antwerp, Belgium
 martyr: true
 ---
 

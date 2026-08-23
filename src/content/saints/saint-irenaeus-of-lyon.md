@@ -2,8 +2,10 @@
 name: Saint Irenaeus of Lyons
 honorific: Saint
 title: St. Irenaeus of Lyons
-summary: "Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and wrote against Gnosticism, basing his arguments on the works of Saint John the Apostle..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/960px-Saint_irenee_saint_irenee.jpg"
+summary: >-
+  Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and
+  wrote against Gnosticism, basing his arguments on the works of Saint John the Apostle...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_irenee_saint_irenee.jpg?width=600
 imageAlt: Portrait of Saint Irenaeus of Lyons
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,8 +13,9 @@ searchAliases:
   - Doctor unitatis
   - Doctor of Unity
 birthYear: 1562
-born: "1562"
-centuries: [16]
+born: '1562'
+centuries:
+  - 16
 feastDay:
   month: 6
   day: 28
@@ -29,7 +32,7 @@ symbols:
   - Cross
 martyr: true
 lifeEvents:
-  - year: "1562"
+  - year: '1562'
     event: Born.
 ---
 

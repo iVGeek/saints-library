@@ -1,24 +1,29 @@
 ---
-name: "Venerable Anne de Xainctonge"
+name: Venerable Anne de Xainctonge
 honorific: Venerable
-summary: "Born to the wealthy French nobility, the eldest daughter of Jean de Xainctonge, a member of the Dijon Parliament, and of Lady Marguerite Collard. Watching boys being educated at a local Jesuit college led Anne to feel a call to found a similar uncloistered order of sisters dedica"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Xainctonge_Gem%C3%A4lde2.jpg/960px-Xainctonge_Gem%C3%A4lde2.jpg"
+summary: >-
+  Born to the wealthy French nobility, the eldest daughter of Jean de Xainctonge, a member of the Dijon Parliament, and
+  of Lady Marguerite Collard. Watching boys being educated at a local Jesuit college led Anne to feel a call to found a
+  similar uncloistered order of sisters dedica
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Xainctonge_Gem%25C3%25A4lde2.jpg?width=600
 birthYear: 1567
 deathYear: 1621
-born: "21 – 22 November 1567 in Dijon, Côte-d’Or, France"
-died: "8 June 1621 in Dôle, Jura, France"
-birthPlace: "Côte-d’Or, France"
-deathPlace: "Jura, France"
-region: "France"
+born: 21 – 22 November 1567 in Dijon, Côte-d’Or, France
+died: 8 June 1621 in Dôle, Jura, France
+birthPlace: Côte-d’Or, France
+deathPlace: Jura, France
+region: France
 feastDay:
   month: 6
   day: 16
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
 ---
 

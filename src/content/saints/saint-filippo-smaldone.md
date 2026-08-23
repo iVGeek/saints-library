@@ -1,25 +1,30 @@
 ---
-name: "Saint Filippo Smaldone"
+name: Saint Filippo Smaldone
 honorific: Venerable
-summary: "While in seminary he worked extensively with deaf-mutes in Naples, Italy. Ordained in 1871. While working with plague victims, he contracted the disease himself, but was miraculously cured through the intervention of Our Lady of Pompei. At one point, depressed over the frustratio"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/San_Filippo_Smaldone.jpg/960px-San_Filippo_Smaldone.jpg"
+summary: >-
+  While in seminary he worked extensively with deaf-mutes in Naples, Italy. Ordained in 1871. While working with plague
+  victims, he contracted the disease himself, but was miraculously cured through the intervention of Our Lady of Pompei.
+  At one point, depressed over the frustratio
+image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Filippo_Smaldone.jpg?width=600
 birthYear: 1848
 deathYear: 1923
-born: "27 July 1848 in Naples, Italy"
-died: "4 June 1923 in Lecce, Italy from a combination of diabetes and a heart condition"
-birthPlace: "Italy"
-deathPlace: "Italya combination of diabetes and a heart condition"
-region: "Italy"
+born: 27 July 1848 in Naples, Italy
+died: 4 June 1923 in Lecce, Italy from a combination of diabetes and a heart condition
+birthPlace: Italy
+deathPlace: Italya combination of diabetes and a heart condition
+region: Italy
 feastDay:
   month: 6
   day: 4
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Confessor
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
 ---
 

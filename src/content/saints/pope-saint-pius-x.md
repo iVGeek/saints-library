@@ -1,46 +1,55 @@
 ---
-name: "Pope Saint Pius X"
+name: Pope Saint Pius X
 honorific: Venerable
-summary: "Son of Giambattista Sarto, a village cobbler, and Margherita Sanson, living an impoverished childhood as one of eight children. Baptized on 3 June 1835. Confirmed on 1 September 1848. He early felt a calling to the priesthood. Studied at the seminary of Padua, Italy, and was know"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg/960px-Pius_X%2C_by_Ernest_Walter_Histed_%28retouched%29.jpg"
+summary: >-
+  Son of Giambattista Sarto, a village cobbler, and Margherita Sanson, living an impoverished childhood as one of eight
+  children. Baptized on 3 June 1835. Confirmed on 1 September 1848. He early felt a calling to the priesthood. Studied
+  at the seminary of Padua, Italy, and was know
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Pius_X%252C_by_Ernest_Walter_Histed_%2528retouched%2529.jpg?width=600
 searchAliases:
-  - "Giuseppe Melchior Sarto"
-  - "Giuseppe Melchiorre Sarto"
-  - "Giuseppe Sarto"
-  - "Joseph Sarto"
-  - "Pope of the Blessed Sacrament"
+  - Giuseppe Melchior Sarto
+  - Giuseppe Melchiorre Sarto
+  - Giuseppe Sarto
+  - Joseph Sarto
+  - Pope of the Blessed Sacrament
 birthYear: 1835
 deathYear: 1914
-born: "2 June 1835 at Riese, diocese of Treviso, Venice, Austria (now Italy) as Giuseppe Melchiorre Sarto"
-died: "21 August 1914 at Vatican City from natural causes aggravated by worries over the beginning of World War I"
-birthPlace: "dioceseTreviso, Venice, Austria (now Italy) as Giuseppe Melchiorre Sarto"
-region: "Italy"
+born: 2 June 1835 at Riese, diocese of Treviso, Venice, Austria (now Italy) as Giuseppe Melchiorre Sarto
+died: 21 August 1914 at Vatican City from natural causes aggravated by worries over the beginning of World War I
+birthPlace: dioceseTreviso, Venice, Austria (now Italy) as Giuseppe Melchiorre Sarto
+region: Italy
 feastDay:
   month: 8
   day: 21
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "first communicants"
-  - "pilgrims"
-  - "–"
-  - "Aracaju, Brazil, archdiocese of"
-  - "Atlanta, Georgia, archdiocese of"
-  - "Des Moines, Iowa, diocese of"
-  - "Great Falls-Billings, Montana, diocese of"
-  - "Kottoyam, India, archdiocese of"
-  - "San Angelo, Texas, diocese of"
-  - "Springfield-Cape Girardeau, Missouri, diocese of"
-  - "Treviso, Italy, diocese of"
-  - "Zamboanga, Philippines, archdiocese of"
-  - "–"
-  - "Santa Lucija, Malta"
-  - "in Italy\n\nPiragineti"
-  - "Venice"
+  - first communicants
+  - pilgrims
+  - –
+  - Aracaju, Brazil, archdiocese of
+  - Atlanta, Georgia, archdiocese of
+  - Des Moines, Iowa, diocese of
+  - Great Falls-Billings, Montana, diocese of
+  - Kottoyam, India, archdiocese of
+  - San Angelo, Texas, diocese of
+  - Springfield-Cape Girardeau, Missouri, diocese of
+  - Treviso, Italy, diocese of
+  - Zamboanga, Philippines, archdiocese of
+  - –
+  - Santa Lucija, Malta
+  - |-
+    in Italy
+
+    Piragineti
+  - Venice
 martyr: false
 ---
 

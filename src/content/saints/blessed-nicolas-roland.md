@@ -1,15 +1,18 @@
 ---
-name: "Blessed Nicolas Roland"
+name: Blessed Nicolas Roland
 honorific: Blessed
-summary: "Raised in a pious family. Educated by Jesuits. Canon of Rheims, France while still a seminarian. Priest. Noted preacher. Assigned as parish priest in Rouen, France. Returned to Rheims with the plan to start schools for poor girls; he took a run-down orphanage and turned it into a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nicolas_Roland.jpg/960px-Nicolas_Roland.jpg"
+summary: >-
+  Raised in a pious family. Educated by Jesuits. Canon of Rheims, France while still a seminarian. Priest. Noted
+  preacher. Assigned as parish priest in Rouen, France. Returned to Rheims with the plan to start schools for poor
+  girls; he took a run-down orphanage and turned it into a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Roland.jpg?width=600
 birthYear: 1642
 deathYear: 1678
-born: "8 December 1642 in Rheims, Marne, France"
-died: "27 April 1678 in Rheims, Marne, France of natural causes"
-birthPlace: "Marne, France"
-deathPlace: "Marne, Francenatural causes"
-region: "France"
+born: 8 December 1642 in Rheims, Marne, France
+died: 27 April 1678 in Rheims, Marne, France of natural causes
+birthPlace: Marne, France
+deathPlace: Marne, Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 27
@@ -17,9 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Sisters of the Infant Jesus"
+  - Sisters of the Infant Jesus
 martyr: false
 ---
 

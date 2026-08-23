@@ -1,15 +1,18 @@
 ---
-name: "Saint John Maron"
+name: Saint John Maron
 honorific: Saint
-summary: "Son of Agathon, the governor of Sarum, and Anohamia, grandson of prince Alidipas, and a member of the Frankish royal family which governed Antioch. Educated in Antioch and the monastery of Saint Maron, studying mathematics, sciences, philosophy, theology, linguistics and scriptur"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/StJohnMaron.jpg/960px-StJohnMaron.jpg"
+summary: >-
+  Son of Agathon, the governor of Sarum, and Anohamia, grandson of prince Alidipas, and a member of the Frankish royal
+  family which governed Antioch. Educated in Antioch and the monastery of Saint Maron, studying mathematics, sciences,
+  philosophy, theology, linguistics and scriptur
+image: https://commons.wikimedia.org/wiki/Special:FilePath/StJohnMaron.jpg?width=600
 searchAliases:
-  - "John the Sarumite"
+  - John the Sarumite
 deathYear: 707
-born: "7th century in Sarum"
-died: "707 at Kefer-Hay, Lebanon of natural causes"
-deathPlace: "Lebanonnatural causes"
-region: "Italy"
+born: 7th century in Sarum
+died: 707 at Kefer-Hay, Lebanon of natural causes
+deathPlace: Lebanonnatural causes
+region: Italy
 feastDay:
   month: 3
   day: 2

@@ -2,8 +2,10 @@
 name: Damien of Molokai
 honorific: Saint
 title: Priest, Religious
-summary: The Belgian missionary who went to live among the lepers of Molokai when no one else would — and became one of them, a saint whose charity embraced the excluded.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Father_Damien%2C_photograph_by_William_Brigham.jpg/330px-Father_Damien%2C_photograph_by_William_Brigham.jpg
+summary: >-
+  The Belgian missionary who went to live among the lepers of Molokai when no one else would — and became one of them, a
+  saint whose charity embraced the excluded.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Father_Damien%252C_photograph_by_William_Brigham.jpg?width=600
 imageAlt: Portrait of Damien of Molokai
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,7 +21,8 @@ died: 15 April 1889
 birthPlace: Tremelo, Belgium
 deathPlace: Kalaupapa, Hawaii, USA
 region: Belgium
-centuries: [19]
+centuries:
+  - 19
 feastDay:
   month: 5
   day: 10
@@ -36,7 +39,7 @@ patronage:
   - missions
   - oppressed
 causes:
-  - "Apostle of the lepers of Molokai"
+  - Apostle of the lepers of Molokai
   - Patron of those with leprosy, of outcasts, and of those with HIV and AIDS
 symbols:
   - Leper's cane
@@ -45,37 +48,36 @@ symbols:
   - Sacred Hearts habit
 martyr: false
 lifeEvents:
-  - year: "3 January 1840"
+  - year: 3 January 1840
     event: Born Joseph de Veuster at Tremelo, Belgium, of a farming family.
-  - year: "1860"
-    event: Enters the Congregation of the Sacred Hearts, taking the name Damien; two years later he sails for the Hawaiian missions.
-  - year: "1864"
+  - year: '1860'
+    event: >-
+      Enters the Congregation of the Sacred Hearts, taking the name Damien; two years later he sails for the Hawaiian
+      missions.
+  - year: '1864'
     event: Ordained priest at Honolulu.
-  - year: "10 May 1873"
+  - year: 10 May 1873
     event: Arrives at Kalaupapa on Molokai, the leper settlement, volunteering to serve the outcasts no priest would serve.
-  - year: "1873–1889"
+  - year: 1873–1889
     event: Builds the settlement's churches, hospitals, and houses; becomes father, nurse, and grave-digger to his people.
-  - year: "1884"
+  - year: '1884'
     event: Diagnosed with leprosy himself.
-  - year: "15 April 1889"
+  - year: 15 April 1889
     event: Dies at Kalaupapa at forty-nine, buried in the place he loved.
-  - year: "11 October 2009"
+  - year: 11 October 2009
     event: Canonized by Pope Benedict XVI.
 quotes:
-  - text: >-
-      I make myself a leper with the lepers to gain all to Jesus Christ.
+  - text: I make myself a leper with the lepers to gain all to Jesus Christ.
     source: Words of Saint Damien of Molokai
-  - text: >-
-      We must be good to those who are not grateful to us.
+  - text: We must be good to those who are not grateful to us.
     source: Attributed to Saint Damien of Molokai
 prayers:
   - name: Prayer to Saint Damien of Molokai
     kind: Prayer for the sick, the excluded, and those who serve them
     text: >-
-      O Saint Damien of Molokai, who went to the lepers when no one else would go and loved them
-      until you became one of them, give us hearts that go to the excluded. Bless the sick and
-      the outcast; strengthen all who serve them; and let us never count the cost of charity.
-      Amen.
+      O Saint Damien of Molokai, who went to the lepers when no one else would go and loved them until you became one of
+      them, give us hearts that go to the excluded. Bless the sick and the outcast; strengthen all who serve them; and
+      let us never count the cost of charity. Amen.
 relatedSaints:
   - name: Mother Teresa of Calcutta
     slug: teresa-of-calcutta

@@ -2,15 +2,18 @@
 name: Saint Catherine of Alexandria
 honorific: Saint
 title: St. Catherine of Alexandria
-summary: "Apocryphal. Born to the nobility. Learned in science and oratory. Converted to Christianity after receiving a vision. When she was 18 years old, during the persecution of Maximinus, she offered to deb..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saint_Catherine_of_Alexandria_%28Caravaggio%29.jpg/960px-Saint_Catherine_of_Alexandria_%28Caravaggio%29.jpg"
+summary: >-
+  Apocryphal. Born to the nobility. Learned in science and oratory. Converted to Christianity after receiving a vision.
+  When she was 18 years old, during the persecution of Maximinus, she offered to deb...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Catherine_of_Alexandria_%2528Caravaggio%2529.jpg?width=600
 imageAlt: Portrait of Saint Catherine of Alexandria
 imageCredit: Wikimedia Commons
 searchAliases:
   - Katherine of Alexandria
   - Ekaterina of Alexandria
   - Katharina von Alexandrien
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 11
   day: 25

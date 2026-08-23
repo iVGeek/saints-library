@@ -1,30 +1,33 @@
 ---
-name: "Blessed Matteo da Bascio"
+name: Blessed Matteo da Bascio
 honorific: Blessed
-title: "Priest"
-summary: "Matteo joined the Observant branch of the Franciscans at the Montefiorentino convent near Frontino, Italy. Ordained a priest in 1525. Feeling a call to the earliest of Franciscan rigor of life, he obtained permission to dress and live in complete poverty, imitating as best he cou"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Padre-Matteo-de-Bascio.gif/960px-Padre-Matteo-de-Bascio.gif"
+title: Priest
+summary: >-
+  Matteo joined the Observant branch of the Franciscans at the Montefiorentino convent near Frontino, Italy. Ordained a
+  priest in 1525. Feeling a call to the earliest of Franciscan rigor of life, he obtained permission to dress and live
+  in complete poverty, imitating as best he cou
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Padre-Matteo-de-Bascio.gif?width=600
 searchAliases:
-  - "Matteo Serafini"
-  - "Matteo of Bassi"
-  - "Matteo Bassi Serafini"
-  - "Matthew…"
-  - "Mateo…"
-  - "Matthieu…"
+  - Matteo Serafini
+  - Matteo of Bassi
+  - Matteo Bassi Serafini
+  - Matthew…
+  - Mateo…
+  - Matthieu…
 birthYear: 1495
 deathYear: 1552
-born: "1495 in Molino di Bascio, diocese of Montefeltro, Duchy of Urbino (in modern Italy)"
-died: "1552 in the church of San Moisè in Venice, Italy of natural causes"
-birthPlace: "dioceseMontefeltro, Duchy of Urbino (in modern Italy)"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1495 in Molino di Bascio, diocese of Montefeltro, Duchy of Urbino (in modern Italy)
+died: 1552 in the church of San Moisè in Venice, Italy of natural causes
+birthPlace: dioceseMontefeltro, Duchy of Urbino (in modern Italy)
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 6
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

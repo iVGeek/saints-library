@@ -1,13 +1,13 @@
 ---
-name: "Saint Abibus of Alexandria"
+name: Saint Abibus of Alexandria
 honorific: Saint
-summary: "Deacon. Martyred in the persecutions of Decius."
+summary: Deacon. Martyred in the persecutions of Decius.
 searchAliases:
-  - "Bibus"
+  - Bibus
 deathYear: 250
-died: "c.250 in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: c.250 in Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 9
   day: 6
@@ -16,6 +16,10 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/da/Saint_Catherine_of_Alexandria_%28Caravaggio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Abibus of Alexandria
+imageCreditUrl: https://en.wikipedia.org/wiki/Catherine%20of%20Alexandria
 ---
 
 Deacon. Martyred in the persecutions of Decius.

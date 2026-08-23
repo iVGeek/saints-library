@@ -2,16 +2,19 @@
 name: Saint Katharine Drexel
 honorific: Saint
 title: St. Katharine Drexel
-summary: "Daughter of the extremely wealthy railroad entrepreneurs and philanthropists Francis Anthony and Emma (Bouvier) Drexel. She was taught from an early age to use her wealth for the benefit of others; he..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BensalemPA_DrexelShrineEntrance.jpg/960px-BensalemPA_DrexelShrineEntrance.jpg"
+summary: >-
+  Daughter of the extremely wealthy railroad entrepreneurs and philanthropists Francis Anthony and Emma (Bouvier)
+  Drexel. She was taught from an early age to use her wealth for the benefit of others; he...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/BensalemPA_DrexelShrineEntrance.jpg?width=600
 imageAlt: Portrait of Saint Katharine Drexel
 imageCredit: Wikimedia Commons
 searchAliases:
   - Catherine Marie Drexel
 birthYear: 1858
-born: "1858"
-birthPlace: "Philadelphia"
-centuries: [19]
+born: '1858'
+birthPlace: Philadelphia
+centuries:
+  - 19
 feastDay:
   month: 3
   day: 3
@@ -25,7 +28,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents:
-  - year: "1858"
+  - year: '1858'
     event: Born at Philadelphia.
 ---
 

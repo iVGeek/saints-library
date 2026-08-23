@@ -1,16 +1,19 @@
 ---
-name: "Saint Emerentiana"
+name: Saint Emerentiana
 honorific: Saint
-summary: "Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her sister's martyrdom, she was confronted by an angry mob of pagans. Emerentiana professed her Christianity and her relationship to Agnes. Martyr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Museum_Emerentiana_stoned.jpg/960px-British_Museum_Emerentiana_stoned.jpg"
+summary: >-
+  Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her
+  sister's martyrdom, she was confronted by an angry mob of pagans. Emerentiana professed her Christianity and her
+  relationship to Agnes. Martyr.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/British_Museum_Emerentiana_stoned.jpg?width=600
 searchAliases:
-  - "Emerentia"
-  - "Emerenziana"
+  - Emerentia
+  - Emerenziana
 deathYear: 304
-born: "Roman"
-died: "stoned to death c.304 at Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: Roman
+died: stoned to death c.304 at Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 23
@@ -21,9 +24,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "against abdominal pains"
-  - "against colic"
-  - "against stomach ache"
+  - against abdominal pains
+  - against colic
+  - against stomach ache
 martyr: true
 ---
 

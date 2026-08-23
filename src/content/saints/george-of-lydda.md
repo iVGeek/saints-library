@@ -2,8 +2,10 @@
 name: George of Lydda
 honorific: Saint
 title: Martyr
-summary: A Roman soldier of Cappadocia who gave his life for Christ and became the most famous of the military martyrs — patron of England, of soldiers, and of riders.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Novgorod_George.jpg/960px-Novgorod_George.jpg
+summary: >-
+  A Roman soldier of Cappadocia who gave his life for Christ and became the most famous of the military martyrs — patron
+  of England, of soldiers, and of riders.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Novgorod_George.jpg?width=600
 imageAlt: Portrait of George of Lydda
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +19,9 @@ born: c. 275
 died: c. 303
 birthPlace: Cappadocia, Turkey
 deathPlace: Lydda, Israel
-region: "England"
-centuries: [3]
+region: England
+centuries:
+  - 3
 feastDay:
   month: 4
   day: 23
@@ -39,41 +42,37 @@ symbols:
   - Mounted knight
 martyr: true
 lifeEvents:
-  - year: "c. 275"
+  - year: c. 275
     event: Born in Cappadocia, according to tradition, to a Christian family of noble rank.
-  - year: "3rd century"
+  - year: 3rd century
     event: Serves as a Roman soldier, honored for bravery in the imperial army.
-  - year: "c. 303"
+  - year: c. 303
     event: Martyred at Lydda during the persecution of Diocletian for refusing to renounce Christ.
-  - year: "4th century"
+  - year: 4th century
     event: A church is built over his tomb at Lydda (Lod); his cult spreads through the Eastern Church.
-  - year: "Middle Ages"
+  - year: Middle Ages
     event: Becomes the warrior-saint of Christendom; adopted as patron of England and of the Order of the Garter.
 quotes:
-  - text: >-
-      Christ is my captain; I will not lay down my arms while I breathe.
+  - text: Christ is my captain; I will not lay down my arms while I breathe.
     source: Attributed to Saint George
 prayers:
   - name: Prayer to Saint George
     kind: Prayer for courage and for the nations under his patronage
     text: >-
-      O Saint George, valiant soldier of Christ, who faced the dragon of evil and overcame it by
-      your faith, be our defender in the battles of daily life. Guard our soldiers and all who
-      serve the common good; protect our families and our nations; and obtain for us the courage
-      to resist whatever would enslave the soul. Amen.
-  - name: "Novena to Saint George"
-    kind: "Novena — nine-day prayer for courage and victory"
+      O Saint George, valiant soldier of Christ, who faced the dragon of evil and overcame it by your faith, be our
+      defender in the battles of daily life. Guard our soldiers and all who serve the common good; protect our families
+      and our nations; and obtain for us the courage to resist whatever would enslave the soul. Amen.
+  - name: Novena to Saint George
+    kind: Novena — nine-day prayer for courage and victory
     text: >-
-      O glorious Saint George, soldier of Christ and dragon-slayer, I turn to you in this
-      novena seeking your powerful intercession. You who faced the forces of evil without
-      flinching and overcame them by the sign of the cross, obtain for me the courage to
-      confront every trial and temptation in my life. Defend me against the dragon of sin, of
-      doubt, and of fear that seeks to devour my soul. Protect soldiers and all who serve the
-      common good, guard our families and our nations, and obtain for us the victory of good
-      over evil. You who chose death rather than deny your Lord, strengthen my faith so that I
-      may never be ashamed of the Gospel. O Saint George, whose banner bears the red cross of
-      Christ's sacrifice, may I carry that cross with honor through every battle of life and
-      arrive at the heavenly kingdom where Christ reigns triumphant. Amen.
+      O glorious Saint George, soldier of Christ and dragon-slayer, I turn to you in this novena seeking your powerful
+      intercession. You who faced the forces of evil without flinching and overcame them by the sign of the cross,
+      obtain for me the courage to confront every trial and temptation in my life. Defend me against the dragon of sin,
+      of doubt, and of fear that seeks to devour my soul. Protect soldiers and all who serve the common good, guard our
+      families and our nations, and obtain for us the victory of good over evil. You who chose death rather than deny
+      your Lord, strengthen my faith so that I may never be ashamed of the Gospel. O Saint George, whose banner bears
+      the red cross of Christ's sacrifice, may I carry that cross with honor through every battle of life and arrive at
+      the heavenly kingdom where Christ reigns triumphant. Amen.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

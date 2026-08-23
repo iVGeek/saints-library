@@ -2,8 +2,10 @@
 name: Faustina Kowalska
 honorific: Saint
 title: Religious, Mystic
-summary: The Polish nun chosen to carry the message of Divine Mercy — she recorded in her diary the words of Jesus, "I desire mercy," and spread the devotion the whole world now prays.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Maria_Faustyna_Kowalska.jpg/330px-Maria_Faustyna_Kowalska.jpg
+summary: >-
+  The Polish nun chosen to carry the message of Divine Mercy — she recorded in her diary the words of Jesus, "I desire
+  mercy," and spread the devotion the whole world now prays.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Maria_Faustyna_Kowalska.jpg?width=600
 imageAlt: Portrait of Faustina Kowalska
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,7 +21,8 @@ died: 5 October 1938
 birthPlace: Głogowiec, Poland
 deathPlace: Kraków, Poland
 region: Poland
-centuries: [20]
+centuries:
+  - 20
 feastDay:
   month: 10
   day: 5
@@ -43,43 +46,41 @@ symbols:
   - Religious habit
 martyr: false
 lifeEvents:
-  - year: "25 August 1905"
+  - year: 25 August 1905
     event: Born Helena Kowalska at Głogowiec, third of ten children of a poor farming family.
-  - year: "1925"
+  - year: '1925'
     event: Enters the Congregation of the Sisters of Our Lady of Mercy in Warsaw, taking the name Faustina.
-  - year: "22 February 1931"
-    event: In a vision at Płock, Jesus shows her the Image of Divine Mercy with the rays of blood and water, and asks for its veneration.
-  - year: "1934–1938"
+  - year: 22 February 1931
     event: >-
-      Writes her Diary at Kraków, recording the messages of Jesus: "I desire mercy," and the
-      Chaplet of Divine Mercy.
-  - year: "5 October 1938"
+      In a vision at Płock, Jesus shows her the Image of Divine Mercy with the rays of blood and water, and asks for its
+      veneration.
+  - year: 1934–1938
+    event: 'Writes her Diary at Kraków, recording the messages of Jesus: "I desire mercy," and the Chaplet of Divine Mercy.'
+  - year: 5 October 1938
     event: Dies of tuberculosis at Kraków, at thirty-three.
-  - year: "1993"
+  - year: '1993'
     event: Beatified by Pope John Paul II.
-  - year: "30 April 2000"
+  - year: 30 April 2000
     event: Canonized; on the same day, the Second Sunday of Easter is named Divine Mercy Sunday.
 quotes:
-  - text: >-
-      I desire mercy, which is the greatest attribute of God.
+  - text: I desire mercy, which is the greatest attribute of God.
     source: Words of Jesus to Saint Faustina, Diary 301
-  - text: >-
-      Jesus, I trust in You.
+  - text: Jesus, I trust in You.
     source: The prayer of the Divine Mercy
 prayers:
   - name: The Chaplet of Divine Mercy
     kind: Prayer entrusted to Saint Faustina
     text: >-
-      Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved
-      Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.
-      For the sake of His sorrowful Passion, have mercy on us and on the whole world. Holy God,
-      Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world. Amen.
+      Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus
+      Christ, in atonement for our sins and those of the whole world. For the sake of His sorrowful Passion, have mercy
+      on us and on the whole world. Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole
+      world. Amen.
 relatedSaints:
   - name: Pio of Pietrelcina
     slug: pio-of-pietrelcina
     relation: A fellow apostle of God's mercy in the twentieth century
 sources:
-  - "Saint Faustina Kowalska, Diary: Divine Mercy in My Soul"
+  - 'Saint Faustina Kowalska, Diary: Divine Mercy in My Soul'
   - Pope John Paul II, homily at her canonization (2000)
   - USCCB, General Roman Calendar entry for October 5
 ---

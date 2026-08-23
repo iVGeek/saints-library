@@ -2,17 +2,20 @@
 name: Saint Théodore Guérin
 honorific: Saint
 title: St. Théodore Guérin
-summary: "Daughter of Laurent and Isabelle Gu&eacute;rin. Joined the Sisters of Providence at Ruill&eacute;-sur-Loir, France on 18 August 1823, taking the name Sister Saint Theodore, and making her final vows o..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Saint_Mother_Theodore_Guerin.jpg/960px-Saint_Mother_Theodore_Guerin.jpg"
+summary: >-
+  Daughter of Laurent and Isabelle Gu&eacute;rin. Joined the Sisters of Providence at Ruill&eacute;-sur-Loir, France on
+  18 August 1823, taking the name Sister Saint Theodore, and making her final vows o...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Mother_Theodore_Guerin.jpg?width=600
 imageAlt: Portrait of Saint Théodore Guérin
 imageCredit: Wikimedia Commons
 searchAliases:
   - Mother Theodore
   - Anne-Th&eacute;r&egrave;se Gu&eacute;rin
 birthYear: 1798
-born: "1798"
-birthPlace: "Etables-sur-Mer"
-centuries: [18]
+born: '1798'
+birthPlace: Etables-sur-Mer
+centuries:
+  - 18
 feastDay:
   month: 10
   day: 3
@@ -26,7 +29,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents:
-  - year: "1798"
+  - year: '1798'
     event: Born at Etables-sur-Mer.
 ---
 

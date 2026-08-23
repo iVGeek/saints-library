@@ -1,14 +1,15 @@
 ---
-name: "Saint Modwenna"
+name: Saint Modwenna
 honorific: Saint
-summary: "Princess who renounced her wealth and position to become a nun. Renowned for her sanctity and miracles."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Washlands_-_Burton_upon_Trent_-_Saint_Modwen_statue_%2826371925914%29.jpg/960px-The_Washlands_-_Burton_upon_Trent_-_Saint_Modwen_statue_%2826371925914%29.jpg"
+summary: Princess who renounced her wealth and position to become a nun. Renowned for her sanctity and miracles.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/The_Washlands_-_Burton_upon_Trent_-_Saint_Modwen_statue_%252826371925914%2529.jpg?width=600
 searchAliases:
-  - "Edna"
-  - "Modwen"
-  - "Modwens"
-born: "9th century Irish"
-region: "Ireland"
+  - Edna
+  - Modwen
+  - Modwens
+born: 9th century Irish
+region: Ireland
 feastDay:
   month: 7
   day: 5
@@ -19,7 +20,7 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Polesworth, England"
+  - Polesworth, England
 martyr: false
 ---
 

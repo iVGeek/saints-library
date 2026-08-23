@@ -1,31 +1,38 @@
 ---
-name: "Saint André Bessette"
+name: Saint André Bessette
 honorific: Venerable
-summary: "Son of a woodcutter, and eighth of twelve children. His father died in a work-related accident, his mother of tuberculosis, and he was adopted at age twelve by a farmer uncle who insisted he work for his keep. Over the years Andre worked as a farmhand, shoemaker, baker, blacksmit"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Andr%C3%A9_Bessette.jpg/960px-Saint_Andr%C3%A9_Bessette.jpg"
+summary: >-
+  Son of a woodcutter, and eighth of twelve children. His father died in a work-related accident, his mother of
+  tuberculosis, and he was adopted at age twelve by a farmer uncle who insisted he work for his keep. Over the years
+  Andre worked as a farmhand, shoemaker, baker, blacksmit
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Andr%25C3%25A9_Bessette.jpg?width=600
 searchAliases:
-  - "Alfred"
-  - "Alfredo"
-  - "Andreas"
-  - "Frère André"
+  - Alfred
+  - Alfredo
+  - Andreas
+  - Frère André
 birthYear: 1845
 deathYear: 1937
-born: "9 August 1845 Mont-Saint-Gregoire, Monteregie Region near Montreal, Quebec, Canada as Alfred Bessette"
-died: "6 January 1937 of 'gastric catarrh' in the infirmary of Our Lady of Hope convent, Saint-Laurent, Montreal, Quebec, Canada"
-birthPlace: "Monteregie Region near Montreal, Quebec, Canada as Alfred Bessette"
-deathPlace: "Saint-Laurent, Montreal, Quebec, Canada"
-region: "Canada"
+born: 9 August 1845 Mont-Saint-Gregoire, Monteregie Region near Montreal, Quebec, Canada as Alfred Bessette
+died: >-
+  6 January 1937 of 'gastric catarrh' in the infirmary of Our Lady of Hope convent, Saint-Laurent, Montreal, Quebec,
+  Canada
+birthPlace: Monteregie Region near Montreal, Quebec, Canada as Alfred Bessette
+deathPlace: Saint-Laurent, Montreal, Quebec, Canada
+region: Canada
 feastDay:
   month: 1
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "family caregivers in Canada"
+  - family caregivers in Canada
 martyr: false
 ---
 

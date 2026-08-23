@@ -1,24 +1,27 @@
 ---
-name: "Saint Gall"
+name: Saint Gall
 honorific: Saint
-summary: "Younger brother of Saint Deicola. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Bible scholar. Priest. One of the twelve who accompanied Saint Columbanus to France and helped found Luxeuil Abbey. He followed Columbanus into exile in 610 and then to Aust"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andricus_lignicola_-_Cola-nut_Gall.JPG/960px-Andricus_lignicola_-_Cola-nut_Gall.JPG"
+summary: >-
+  Younger brother of Saint Deicola. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Bible
+  scholar. Priest. One of the twelve who accompanied Saint Columbanus to France and helped found Luxeuil Abbey. He
+  followed Columbanus into exile in 610 and then to Aust
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Andricus_lignicola_-_Cola-nut_Gall.JPG?width=600
 searchAliases:
-  - "Callo"
-  - "Chelleh"
-  - "Gaaech"
-  - "Gallen"
-  - "Gallo"
-  - "Gallonus"
-  - "Gallunus"
-  - "Gallus"
-  - "Gilianus"
+  - Callo
+  - Chelleh
+  - Gaaech
+  - Gallen
+  - Gallo
+  - Gallonus
+  - Gallunus
+  - Gallus
+  - Gilianus
 birthYear: 545
 deathYear: 630
-born: "c.545 in Ireland"
-died: "c.630 at Bregenz, Switzerland"
-deathPlace: "Switzerland"
-region: "France"
+born: c.545 in Ireland
+died: c.630 at Bregenz, Switzerland
+deathPlace: Switzerland
+region: France
 feastDay:
   month: 10
   day: 16
@@ -28,14 +31,14 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - "birds"
-  - "geese"
-  - "poultry"
-  - "–"
-  - "Sweden"
-  - "Switzerland"
-  - "–"
-  - "St Gallen, Switzerland"
+  - birds
+  - geese
+  - poultry
+  - –
+  - Sweden
+  - Switzerland
+  - –
+  - St Gallen, Switzerland
 martyr: false
 ---
 

@@ -1,13 +1,15 @@
 ---
-name: "Martyrs of Campania"
+name: Martyrs of Campania
 honorific: Saint
-summary: "Approximately 400 northern Italian Christians martyred for their faith by pagan Lombards. Their story was recorded by Pope Saint Gregory the Great, who reports that they people spent their final days supporting each other with prayer."
+summary: >-
+  Approximately 400 northern Italian Christians martyred for their faith by pagan Lombards. Their story was recorded by
+  Pope Saint Gregory the Great, who reports that they people spent their final days supporting each other with prayer.
 searchAliases:
-  - "Martyrs under the Lombards"
+  - Martyrs under the Lombards
 deathYear: 579
-died: "c.579 in Campania, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.579 in Campania, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 2
@@ -16,6 +18,10 @@ vocation:
   - Priest
   - Monk
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Martyrs of Campania
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Vitus
 ---
 
 Approximately 400 northern Italian Christians martyred for their faith by pagan Lombards. Their story was recorded by Pope Saint Gregory the Great, who reports that they people spent their final days supporting each other with prayer.

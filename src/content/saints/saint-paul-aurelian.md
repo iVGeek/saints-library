@@ -1,21 +1,24 @@
 ---
-name: "Saint Paul Aurelian"
+name: Saint Paul Aurelian
 honorific: Saint
-summary: "Born a Romano-Briton prince, the son of Perphius, a Welsh chieftain. Educated at Llantwit Major with Saint David of Wales, Saint Samson of York, Saint Gildas the Wise and Saint Illtyd. Hermit. To escape being made a bishop, he and 12 companions established a monastery at Porz-Pol"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Etole_de_Saint_Paul_Aur%C3%A9lien.jpg/960px-Etole_de_Saint_Paul_Aur%C3%A9lien.jpg"
+summary: >-
+  Born a Romano-Briton prince, the son of Perphius, a Welsh chieftain. Educated at Llantwit Major with Saint David of
+  Wales, Saint Samson of York, Saint Gildas the Wise and Saint Illtyd. Hermit. To escape being made a bishop, he and 12
+  companions established a monastery at Porz-Pol
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Etole_de_Saint_Paul_Aur%25C3%25A9lien.jpg?width=600
 searchAliases:
-  - "Paul of Léon"
-  - "Paol Aorelian"
-  - "Paulinus Aurelianus"
-  - "Paul Aurelian of Léon"
-  - "Pol Aurelian"
-  - "Pol de Léon"
+  - Paul of Léon
+  - Paol Aorelian
+  - Paulinus Aurelianus
+  - Paul Aurelian of Léon
+  - Pol Aurelian
+  - Pol de Léon
 deathYear: 572
-born: "Glamorgan, Wales"
-died: "572 on Île de Batz, France"
-birthPlace: "Wales"
-deathPlace: "France"
-region: "France"
+born: Glamorgan, Wales
+died: 572 on Île de Batz, France
+birthPlace: Wales
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 12
@@ -24,12 +27,15 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Caldey Island, Wales"
-  - "in France\n\nFinisterre"
-  - "Lampaul-Guimiliau"
-  - "Saint-Pol-de-Léon"
+  - Caldey Island, Wales
+  - |-
+    in France
+
+    Finisterre
+  - Lampaul-Guimiliau
+  - Saint-Pol-de-Léon
 martyr: false
 ---
 

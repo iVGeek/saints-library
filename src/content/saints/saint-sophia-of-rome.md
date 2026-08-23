@@ -1,29 +1,29 @@
 ---
-name: "Saint Sophia of Rome"
+name: Saint Sophia of Rome
 honorific: Saint
-summary: "Young woman martyred in the persecutions of Diocletian."
+summary: Young woman martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Kalte Sophia"
-  - "Cold Sophia"
-  - "Wet Sophia"
-  - "Sophie…"
-  - "Sofia…"
-  - "Zofia…"
+  - Kalte Sophia
+  - Cold Sophia
+  - Wet Sophia
+  - Sophie…
+  - Sofia…
+  - Zofia…
 deathYear: 304
-died: "c.304 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.304 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 15
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Eschau_StTrophime_75_%28square_crop%29.JPG/960px-Eschau_StTrophime_75_%28square_crop%29.JPG"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Eschau_StTrophime_75_%2528square_crop%2529.JPG?width=600
 vocation: []
 patronage:
-  - "against late frosts"
-  - "for the growth of crops"
-  - "—"
-  - "Albanella, Italy"
+  - against late frosts
+  - for the growth of crops
+  - —
+  - Albanella, Italy
 martyr: true
 ---
 

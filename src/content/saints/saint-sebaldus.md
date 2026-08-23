@@ -1,16 +1,16 @@
 ---
-name: "Saint Sebaldus"
+name: Saint Sebaldus
 honorific: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg/960px-Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg?width=600
 searchAliases:
-  - "Sebald"
-  - "Sebaldo"
-  - "Sinibaldo"
-  - "Siward"
+  - Sebald
+  - Sebaldo
+  - Sinibaldo
+  - Siward
 deathYear: 770
-born: "probably in England"
-died: "c.770"
-region: "Germany"
+born: probably in England
+died: c.770
+region: Germany
 feastDay:
   month: 8
   day: 19
@@ -20,8 +20,8 @@ vocation:
   - Hermit
   - Missionary
 patronage:
-  - "against cold weather"
-  - "Bavaria, Germany"
-  - "Nuremberg, Germany"
+  - against cold weather
+  - Bavaria, Germany
+  - Nuremberg, Germany
 martyr: false
 ---

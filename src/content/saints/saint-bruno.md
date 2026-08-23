@@ -2,14 +2,17 @@
 name: Saint Bruno
 honorific: Saint
 title: St. Bruno
-summary: "Educated in Paris and the seminary of Rheims, France, Bruno was ordained a priest c.1055, and began to teach theology; one of his students later became Pope Blessed Urban II. Father Bruno presided ove..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nicolas_Mignard-Saint_Bruno.jpg/330px-Nicolas_Mignard-Saint_Bruno.jpg"
+summary: >-
+  Educated in Paris and the seminary of Rheims, France, Bruno was ordained a priest c.1055, and began to teach theology;
+  one of his students later became Pope Blessed Urban II. Father Bruno presided ove...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Mignard-Saint_Bruno.jpg?width=600
 imageAlt: Portrait of Saint Bruno
 imageCredit: Wikimedia Commons
 birthYear: 1030
-born: "1030"
-birthPlace: "Cologne"
-centuries: [11]
+born: '1030'
+birthPlace: Cologne
+centuries:
+  - 11
 feastDay:
   month: 10
   day: 6
@@ -27,7 +30,7 @@ symbols:
   - cross in hand
 martyr: false
 lifeEvents:
-  - year: "1030"
+  - year: '1030'
     event: Born at Cologne.
 ---
 

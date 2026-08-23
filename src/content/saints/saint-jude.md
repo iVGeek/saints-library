@@ -2,8 +2,11 @@
 name: Saint Jude Thaddeus
 honorific: Saint
 title: St. Jude Thaddeus
-summary: "Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ’s body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relati..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg/330px-Anthonis_van_Dyck%2C_Kunsthistorisches_Museum_Wien%2C_Gem%C3%A4ldegalerie_-_Apostel_Judas_Thadd%C3%A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg"
+summary: >-
+  Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ’s body after
+  death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relati...
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Anthonis_van_Dyck%252C_Kunsthistorisches_Museum_Wien%252C_Gem%25C3%25A4ldegalerie_-_Apostel_Judas_Thadd%25C3%25A4us_-_GG_6809_-_Kunsthistorisches_Museum.jpg?width=600
 imageAlt: Portrait of Saint Jude Thaddeus
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,7 +14,8 @@ searchAliases:
   - Judas Thaddaeus
   - Lebbaeus
   - Jude, brother of Jesus
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 10
   day: 28

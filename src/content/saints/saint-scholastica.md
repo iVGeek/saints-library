@@ -2,11 +2,11 @@
 name: Saint Scholastica
 honorific: Saint
 title: St. Scholastica
-
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kleinmariazell_-_Altar_Scholastica_2.jpg/960px-Kleinmariazell_-_Altar_Scholastica_2.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Kleinmariazell_-_Altar_Scholastica_2.jpg?width=600
 imageAlt: Portrait of Saint Scholastica
 imageCredit: Wikimedia Commons
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 2
   day: 10

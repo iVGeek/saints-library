@@ -1,24 +1,27 @@
 ---
-name: "Blessed Dominic Collins"
+name: Blessed Dominic Collins
 honorific: Blessed
-summary: "Son of John and Felicity Collins. Dominic embarked on a military career, and rose to the rank of Captain. However, following a trip to Santiago del Compostela in Spain, he resigned his commission to become a Jesuit novice and lay brother. Assigned to Ireland in 1601. Arrested on"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Martyr_window%2C_Youghal.jpg/960px-Martyr_window%2C_Youghal.jpg"
+summary: >-
+  Son of John and Felicity Collins. Dominic embarked on a military career, and rose to the rank of Captain. However,
+  following a trip to Santiago del Compostela in Spain, he resigned his commission to become a Jesuit novice and lay
+  brother. Assigned to Ireland in 1601. Arrested on
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Martyr_window%252C_Youghal.jpg?width=600
 searchAliases:
-  - "Doiminic Ó Coileáin"
+  - Doiminic Ó Coileáin
 birthYear: 1566
 deathYear: 1602
-born: "c.1566 in Youghal, Cork, Ireland"
-died: "31 October 1602 in Youghal, Cork, Ireland"
-birthPlace: "Cork, Ireland"
-deathPlace: "Cork, Ireland"
-region: "Chile"
+born: c.1566 in Youghal, Cork, Ireland
+died: 31 October 1602 in Youghal, Cork, Ireland
+birthPlace: Cork, Ireland
+deathPlace: Cork, Ireland
+region: Chile
 feastDay:
   month: 10
   day: 31
 canonizationStatus: Blessed
 vocation:
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
 ---
 

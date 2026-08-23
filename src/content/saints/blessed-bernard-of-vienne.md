@@ -1,18 +1,21 @@
 ---
-name: "Blessed Bernard of Vienne"
+name: Blessed Bernard of Vienne
 honorific: Blessed
-summary: "Born to the French nobility. Military officer in the army of Blessed Charlemagne. Upon the death of his parents, he retired from the military, divided his property into three parts (one for the Church, one for the poor, one for his children), bought the monastery in Ambronay, and"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Statue_de_Saint-Barnard_%C3%A0_Ambronay.JPG/960px-Statue_de_Saint-Barnard_%C3%A0_Ambronay.JPG"
+summary: >-
+  Born to the French nobility. Military officer in the army of Blessed Charlemagne. Upon the death of his parents, he
+  retired from the military, divided his property into three parts (one for the Church, one for the poor, one for his
+  children), bought the monastery in Ambronay, and
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Statue_de_Saint-Barnard_%25C3%25A0_Ambronay.JPG?width=600
 searchAliases:
-  - "Barnard"
-  - "Barnardo"
+  - Barnard
+  - Barnardo
 birthYear: 778
 deathYear: 842
-born: "778 near Lyons, France"
-died: "23 January 842 at Vienne, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 778 near Lyons, France
+died: 23 January 842 at Vienne, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 22
@@ -21,11 +24,11 @@ vocation:
   - Bishop
   - Soldier
 patronage:
-  - "agricultural workers"
-  - "farm workers"
-  - "farmers"
-  - "field hands"
-  - "husbandmen"
+  - agricultural workers
+  - farm workers
+  - farmers
+  - field hands
+  - husbandmen
 martyr: false
 ---
 

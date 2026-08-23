@@ -2,8 +2,10 @@
 name: Francis Xavier
 honorific: Saint
 title: Priest, Missionary
-summary: The apostle of the Indies and Japan — co-founder of the Society of Jesus who carried the Gospel across the oceans in three years of preaching from Goa to the edge of China.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franciscus_de_Xabier.jpg/330px-Franciscus_de_Xabier.jpg
+summary: >-
+  The apostle of the Indies and Japan — co-founder of the Society of Jesus who carried the Gospel across the oceans in
+  three years of preaching from Goa to the edge of China.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Franciscus_de_Xabier.jpg?width=600
 imageAlt: Portrait of Francis Xavier
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,8 +20,9 @@ born: 7 April 1506
 died: 3 December 1552
 birthPlace: Xavier, Spain
 deathPlace: Shangchuan Island, China
-region: "Japan"
-centuries: [16]
+region: Japan
+centuries:
+  - 16
 feastDay:
   month: 12
   day: 3
@@ -46,37 +49,37 @@ symbols:
   - Lily
 martyr: false
 lifeEvents:
-  - year: "7 April 1506"
+  - year: 7 April 1506
     event: Born at the Castle of Xavier in Navarre, Spain.
-  - year: "1525"
-    event: Enters the University of Paris, where he meets Ignatius of Loyola and becomes one of the founding companions of the Society of Jesus.
-  - year: "1534"
+  - year: '1525'
+    event: >-
+      Enters the University of Paris, where he meets Ignatius of Loyola and becomes one of the founding companions of
+      the Society of Jesus.
+  - year: '1534'
     event: Takes first Jesuit vows at Montmartre.
-  - year: "6 May 1542"
+  - year: 6 May 1542
     event: Lands in Goa, India, and begins his great mission to the East.
-  - year: "1542–1545"
+  - year: 1542–1545
     event: Preaches across southern India, converting thousands; founds churches in Travancore, Ceylon, and Malacca.
-  - year: "1549–1551"
+  - year: 1549–1551
     event: Reaches Japan, learning the language and beginning the first Christian community there.
-  - year: "1552"
+  - year: '1552'
     event: Attempts to enter China; dies on Shangchuan Island, alone, waiting for passage.
-  - year: "12 March 1622"
+  - year: 12 March 1622
     event: Canonized with Ignatius of Loyola and Teresa of Ávila.
 quotes:
-  - text: >-
-      It is not the actual physical exertion that counts toward one's development, but the fire of determination.
+  - text: It is not the actual physical exertion that counts toward one's development, but the fire of determination.
     source: Attributed to Saint Francis Xavier
-  - text: >-
-      Give me the child until he is seven, and I will give you the man.
+  - text: Give me the child until he is seven, and I will give you the man.
     source: Often attributed to Saint Francis Xavier, reflecting his mission to the young
 prayers:
   - name: Prayer to Saint Francis Xavier
     kind: Prayer for missions and for those far from home
     text: >-
-      O Saint Francis Xavier, apostle of the Indies and of Japan, who left behind comfort and
-      home to carry Christ to the ends of the earth, inflame the Church with your missionary
-      fire. Send laborers into the harvest; open the hearts of those who have never heard the
-      Gospel; and bring all nations into the unity of Christ, for whom you gave your life. Amen.
+      O Saint Francis Xavier, apostle of the Indies and of Japan, who left behind comfort and home to carry Christ to
+      the ends of the earth, inflame the Church with your missionary fire. Send laborers into the harvest; open the
+      hearts of those who have never heard the Gospel; and bring all nations into the unity of Christ, for whom you gave
+      your life. Amen.
 relatedSaints:
   - name: Ignatius of Loyola
     slug: ignatius-of-loyola

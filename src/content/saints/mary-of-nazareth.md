@@ -2,8 +2,10 @@
 name: Mary of Nazareth
 honorific: Our Lady
 title: Blessed Virgin, Mother of God
-summary: The handmaid of the Lord — she who said yes to God in the Annunciation, bore Christ in her womb, stood at the cross, and was taken up into heaven.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Madonna_Advocata.png/330px-Madonna_Advocata.png
+summary: >-
+  The handmaid of the Lord — she who said yes to God in the Annunciation, bore Christ in her womb, stood at the cross,
+  and was taken up into heaven.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Madonna_Advocata.png?width=600
 imageAlt: Portrait of Mary of Nazareth
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -21,7 +23,8 @@ died: c. AD 58
 birthPlace: Nazareth, Israel
 deathPlace: Jerusalem, Israel
 region: Holy Land
-centuries: [1]
+centuries:
+  - 1
 feastDay:
   month: 9
   day: 8
@@ -44,41 +47,37 @@ symbols:
   - Child Jesus
 martyr: false
 lifeEvents:
-  - year: "-18"
+  - year: '-18'
     event: Born in Nazareth, of the house of David.
-  - year: "c. 6 BC"
+  - year: c. 6 BC
     event: >-
-      The Annunciation: the angel Gabriel appears and she conceives by the power of the Holy
-      Spirit; she visits Elizabeth.
-  - year: "c. 5 BC"
+      The Annunciation: the angel Gabriel appears and she conceives by the power of the Holy Spirit; she visits
+      Elizabeth.
+  - year: c. 5 BC
     event: The Nativity of Jesus in Bethlehem.
-  - year: "c. AD 27–30"
+  - year: c. AD 27–30
     event: Present at the wedding at Cana; present at the cross where Jesus entrusts her to John.
-  - year: "c. AD 30"
+  - year: c. AD 30
     event: At Pentecost, she is with the apostles in the upper room when the Holy Spirit descends.
-  - year: "c. AD 58"
-    event: >-
-      The Dormition and Assumption: Mary falls asleep and is taken up body and soul into heaven.
+  - year: c. AD 58
+    event: 'The Dormition and Assumption: Mary falls asleep and is taken up body and soul into heaven.'
 quotes:
-  - text: >-
-      I am the handmaid of the Lord. Let it be done to me according to your word.
+  - text: I am the handmaid of the Lord. Let it be done to me according to your word.
     source: The Blessed Virgin at the Annunciation, Luke 1:38
-  - text: >-
-      All generations will call me blessed, for He who is mighty has done great things for me.
+  - text: All generations will call me blessed, for He who is mighty has done great things for me.
     source: The Magnificat, Luke 1:48–49
 prayers:
   - name: Hail Mary
     kind: The Church's most common prayer to the Blessed Virgin
     text: >-
-      Hail Mary, full of grace; the Lord is with thee: blessed art thou among women, and blessed
-      is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and
-      at the hour of our death. Amen.
+      Hail Mary, full of grace; the Lord is with thee: blessed art thou among women, and blessed is the fruit of thy
+      womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.
   - name: The Magnificat
     kind: Mary's canticle of praise, Luke 1:46–55
     text: >-
-      My soul proclaims the greatness of the Lord; my spirit rejoices in God my Savior, for He
-      has looked upon the lowliness of His handmaid. All generations will call me blessed, for
-      He who is mighty has done great things for me. Amen.
+      My soul proclaims the greatness of the Lord; my spirit rejoices in God my Savior, for He has looked upon the
+      lowliness of His handmaid. All generations will call me blessed, for He who is mighty has done great things for
+      me. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

@@ -1,20 +1,24 @@
 ---
-name: "Saint Joseph Oriol"
+name: Saint Joseph Oriol
 honorific: Saint
-summary: "Born poor. Studied at the University of Barcelona. Awarded a doctorate of theology on 1 August 1674. Ordained 30 May 1676. Pilgrim to Rome, Italy in 1686. Pope Innocent XI granted him a benefice at Santa Maria del Pino (Our Lady of the Pines), Barcelona, Spain, a parish he served"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Statue_of_Saint_Joseph_Oriol_-_Santa_Maria_del_Mar_-_Barcelona_2014.jpg/960px-Statue_of_Saint_Joseph_Oriol_-_Santa_Maria_del_Mar_-_Barcelona_2014.jpg"
+summary: >-
+  Born poor. Studied at the University of Barcelona. Awarded a doctorate of theology on 1 August 1674. Ordained 30 May
+  1676. Pilgrim to Rome, Italy in 1686. Pope Innocent XI granted him a benefice at Santa Maria del Pino (Our Lady of the
+  Pines), Barcelona, Spain, a parish he served
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Saint_Joseph_Oriol_-_Santa_Maria_del_Mar_-_Barcelona_2014.jpg?width=600
 searchAliases:
-  - "Jos&eacute; Orioli"
-  - "Josep Oriol Bogunyà"
-  - "Thaumaturgus of Barcelona"
-  - "Wonder Worker of Barcelona"
+  - Jos&eacute; Orioli
+  - Josep Oriol Bogunyà
+  - Thaumaturgus of Barcelona
+  - Wonder Worker of Barcelona
 birthYear: 1650
 deathYear: 1702
-born: "23 November 1650 at Barcelona, Spain"
-died: "23 March 1702 at Barcelona, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "France"
+born: 23 November 1650 at Barcelona, Spain
+died: 23 March 1702 at Barcelona, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: France
 feastDay:
   month: 3
   day: 23

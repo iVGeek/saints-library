@@ -1,18 +1,21 @@
 ---
-name: "Blessed Ambrose Sansedoni of Siena"
+name: Blessed Ambrose Sansedoni of Siena
 honorific: Blessed
-summary: "The son of a book illuminator, he was born so badly deformed that his mother gave him off to the care of a nurse. The nurse claimed that the only time the child was peaceful was in the local Dominican church, especially when near the altar of relics. Legend says that one day in c"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Beato_Ambrogio_Sansedoni_%28cropped%29.jpg/330px-Beato_Ambrogio_Sansedoni_%28cropped%29.jpg"
+summary: >-
+  The son of a book illuminator, he was born so badly deformed that his mother gave him off to the care of a nurse. The
+  nurse claimed that the only time the child was peaceful was in the local Dominican church, especially when near the
+  altar of relics. Legend says that one day in c
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Beato_Ambrogio_Sansedoni_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Ambrogio Sansedoni"
-  - "Ambrose Sansedone"
+  - Ambrogio Sansedoni
+  - Ambrose Sansedone
 birthYear: 1220
 deathYear: 1287
-born: "16 April 1220 at Siena, Italy"
-died: "20 March 1287 at Siena, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Germany"
+born: 16 April 1220 at Siena, Italy
+died: 20 March 1287 at Siena, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Germany
 feastDay:
   month: 3
   day: 20
@@ -21,12 +24,12 @@ vocation:
   - Virgin
   - Priest
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "affianced couples"
-  - "betrothed couples"
-  - "engaged couples"
-  - "Siena, Italy"
+  - affianced couples
+  - betrothed couples
+  - engaged couples
+  - Siena, Italy
 martyr: false
 ---
 

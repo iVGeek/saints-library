@@ -1,13 +1,14 @@
 ---
-name: "Saint Romulus of Fiesole"
+name: Saint Romulus of Fiesole
 honorific: Saint
-summary: " Later popular fictions describe Converted by Saint Peter the Apostle, he preached throughout central Italy, and served as first bishop of Fiesole, Italy. Martyred with Carissimus, Dulcissimus, and Crescentius by order of governor Repertian in the persecutions of Emperor Domitian."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nicodemo_ferrucci_%28attr.%29%2C_storie_di_san_romolo_di_fiesole%2C_1590-1600_ca._01.jpg/960px-Nicodemo_ferrucci_%28attr.%29%2C_storie_di_san_romolo_di_fiesole%2C_1590-1600_ca._01.jpg"
+summary: ' Later popular fictions describe Converted by Saint Peter the Apostle, he preached throughout central Italy, and served as first bishop of Fiesole, Italy. Martyred with Carissimus, Dulcissimus, and Crescentius by order of governor Repertian in the persecutions of Emperor Domitian.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Nicodemo_ferrucci_%2528attr.%2529%252C_storie_di_san_romolo_di_fiesole%252C_1590-1600_ca._01.jpg?width=600
 searchAliases:
-  - "Romolo"
-  - "Romulo"
-died: "martyred c.90"
-region: "Italy"
+  - Romolo
+  - Romulo
+died: martyred c.90
+region: Italy
 feastDay:
   month: 7
   day: 6
@@ -17,8 +18,8 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Fiesole, Italy"
-  - "Figline and Incisa Valdarno, Italy"
+  - Fiesole, Italy
+  - Figline and Incisa Valdarno, Italy
 martyr: true
 ---
 

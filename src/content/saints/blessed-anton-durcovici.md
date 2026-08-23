@@ -1,15 +1,18 @@
 ---
-name: "Blessed Anton Durcovici"
+name: Blessed Anton Durcovici
 honorific: Blessed
-summary: "His father died when Anton was small; he, his mother and his brother moved to Iasi, Romania in 1895. He studied in Iasi and Bucarest in Romania, and in Rome, Italy earning multiple degrees including two doctorates. Priest in the diocese of Bucarest, Romania, ordained on 24 Septem"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vescovo_Anton_Durcovici.jpg/960px-Vescovo_Anton_Durcovici.jpg"
+summary: >-
+  His father died when Anton was small; he, his mother and his brother moved to Iasi, Romania in 1895. He studied in
+  Iasi and Bucarest in Romania, and in Rome, Italy earning multiple degrees including two doctorates. Priest in the
+  diocese of Bucarest, Romania, ordained on 24 Septem
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Vescovo_Anton_Durcovici.jpg?width=600
 birthYear: 1888
 deathYear: 1951
-born: "17 May 1888 in Bad Deutsch-Altenburg, Horn, Austria"
-died: "21 December 1951 in Sighetu Marmatiei, Maramures, Romania of abuse while in prison"
-birthPlace: "Horn, Austria"
-deathPlace: "Maramures, Romaniaabuse while in prison"
-region: "Austria"
+born: 17 May 1888 in Bad Deutsch-Altenburg, Horn, Austria
+died: 21 December 1951 in Sighetu Marmatiei, Maramures, Romania of abuse while in prison
+birthPlace: Horn, Austria
+deathPlace: Maramures, Romaniaabuse while in prison
+region: Austria
 feastDay:
   month: 12
   day: 21

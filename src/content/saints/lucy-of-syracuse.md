@@ -2,8 +2,11 @@
 name: Lucy of Syracuse
 honorific: Saint
 title: Virgin, Martyr
-summary: The virgin martyr of Syracuse whose name means "light" — she gave her wealth to the poor and her life to Christ, and she carries a lamp for all who suffer in darkness.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/330px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg
+summary: >-
+  The virgin martyr of Syracuse whose name means "light" — she gave her wealth to the poor and her life to Christ, and
+  she carries a lamp for all who suffer in darkness.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Niccol%25C3%25B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg?width=600
 imageAlt: Portrait of Lucy of Syracuse
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +20,10 @@ born: c. 283
 died: 13 December 304
 birthPlace: Syracuse, Italy
 deathPlace: Syracuse, Italy
-region: "Scandinavia"
-centuries: [3, 4]
+region: Scandinavia
+centuries:
+  - 3
+  - 4
 feastDay:
   month: 12
   day: 13
@@ -40,25 +45,26 @@ symbols:
   - Sword
 martyr: false
 lifeEvents:
-  - year: "c. 283"
+  - year: c. 283
     event: Born at Syracuse in Sicily, of a noble and devout Christian family.
-  - year: "c. 300"
-    event: Vows her virginity to Christ; when her mother's illness is cured at the tomb of Saint Agatha, she gives her dowry to the poor.
-  - year: "c. 303–304"
+  - year: c. 300
+    event: >-
+      Vows her virginity to Christ; when her mother's illness is cured at the tomb of Saint Agatha, she gives her dowry
+      to the poor.
+  - year: c. 303–304
     event: Denounced as a Christian by the suitor she rejected, she is martyred in the persecution of Diocletian.
-  - year: "4th century"
+  - year: 4th century
     event: Her cult spreads through Italy; her name (from the Latin lux) becomes the symbol of light in darkness.
 quotes:
-  - text: >-
-      I praise you, O Christ, my God, and offer you all that I have — my life, my goods, my whole self.
+  - text: I praise you, O Christ, my God, and offer you all that I have — my life, my goods, my whole self.
     source: Attributed to Saint Lucy in the Acts of her martyrdom
 prayers:
   - name: Prayer to Saint Lucy
     kind: Prayer for those with eye problems and for all who walk in darkness
     text: >-
-      O Saint Lucy, virgin martyr whose name means light, pray for all whose eyes grow dim, and
-      for all who cannot see the way. Give them your courage, your purity, and your joy, and lead
-      them to the true Light who never sets, Jesus Christ our Lord. Amen.
+      O Saint Lucy, virgin martyr whose name means light, pray for all whose eyes grow dim, and for all who cannot see
+      the way. Give them your courage, your purity, and your joy, and lead them to the true Light who never sets, Jesus
+      Christ our Lord. Amen.
 relatedSaints:
   - name: Agnes of Rome
     slug: agnes-of-rome

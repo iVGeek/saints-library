@@ -1,19 +1,23 @@
 ---
-name: "Saint Tychicus"
+name: Saint Tychicus
 honorific: Saint
-summary: "Spiritual student of Saint Paul the Apostle who delivered several of the letters to early churches; many became part of the New Testament. He is described by Paul in the Epistle to the Ephesians as “beloved brother and faithful servant in the Lord”, and is believed to have been a"
+summary: >-
+  Spiritual student of Saint Paul the Apostle who delivered several of the letters to early churches; many became part
+  of the New Testament. He is described by Paul in the Epistle to the Ephesians as “beloved brother and faithful servant
+  in the Lord”, and is believed to have been a
 searchAliases:
-  - "Tychichus"
-  - "Tychikos"
-  - "Tichico"
-born: "Asia Minor"
-died: "1st century"
-region: "England"
+  - Tychichus
+  - Tychikos
+  - Tichico
+born: Asia Minor
+died: 1st century
+region: England
 feastDay:
   month: 4
   day: 29
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sosthenes%2C_Apollo%2C_Cephas%2C_Tychicus%2C_Epaphroditus%2C_C%C3%A6sar_and_Onesiphorus_of_70_disciples_%28Menologion_of_Basil_II%29.jpg/960px-Sosthenes%2C_Apollo%2C_Cephas%2C_Tychicus%2C_Epaphroditus%2C_C%C3%A6sar_and_Onesiphorus_of_70_disciples_%28Menologion_of_Basil_II%29.jpg"
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Sosthenes%252C_Apollo%252C_Cephas%252C_Tychicus%252C_Epaphroditus%252C_C%25C3%25A6sar_and_Onesiphorus_of_70_disciples_%2528Menologion_of_Basil_II%2529.jpg?width=600
 vocation:
   - Bishop
   - Monk

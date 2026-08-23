@@ -1,18 +1,21 @@
 ---
-name: "Saint Titus Brandsma"
+name: Saint Titus Brandsma
 honorific: Saint
-summary: "A pious youth from a pious family, three of Titus's four sisters were nuns, and a brother became a Franciscan priest. Had the nickname Shorty. Good student who felt an early call to the priesthood. Entered a Franciscan minor seminary from ages 11 to 17, but health problems, prima"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TitusBrandsma.jpg/960px-TitusBrandsma.jpg"
+summary: >-
+  A pious youth from a pious family, three of Titus's four sisters were nuns, and a brother became a Franciscan priest.
+  Had the nickname Shorty. Good student who felt an early call to the priesthood. Entered a Franciscan minor seminary
+  from ages 11 to 17, but health problems, prima
+image: https://commons.wikimedia.org/wiki/Special:FilePath/TitusBrandsma.jpg?width=600
 searchAliases:
-  - "Anno Sjoera Brandsma"
-  - "Shorty"
+  - Anno Sjoera Brandsma
+  - Shorty
 birthYear: 1881
 deathYear: 1942
-born: "23 February 1881 at Oegeklooster, Friesland, Netherlands as Anno Sjoera Brandsma"
-died: "martyred on 26 July 1942 by lethal injection in the concentration camp at Dachau, Bavaria, Germany"
-birthPlace: "Friesland, Netherlands as Anno Sjoera Brandsma"
-deathPlace: "Bavaria, Germany"
-region: "Netherlands"
+born: 23 February 1881 at Oegeklooster, Friesland, Netherlands as Anno Sjoera Brandsma
+died: martyred on 26 July 1942 by lethal injection in the concentration camp at Dachau, Bavaria, Germany
+birthPlace: Friesland, Netherlands as Anno Sjoera Brandsma
+deathPlace: Bavaria, Germany
+region: Netherlands
 feastDay:
   month: 7
   day: 26
@@ -20,11 +23,11 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against cancer"
-  - "–"
-  - "Philippine Province of the Order of Carmelites"
+  - against cancer
+  - –
+  - Philippine Province of the Order of Carmelites
 martyr: true
 ---
 

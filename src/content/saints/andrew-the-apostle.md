@@ -2,8 +2,10 @@
 name: Andrew the Apostle
 honorific: Saint
 title: Apostle, Martyr
-summary: The first-called of the apostles, the fisherman who brought his brother Peter to Christ — apostle of Greece and of the East, crucified on the X-shaped cross that bears his name.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rubens_apostel_andreas_grt.jpg/330px-Rubens_apostel_andreas_grt.jpg
+summary: >-
+  The first-called of the apostles, the fisherman who brought his brother Peter to Christ — apostle of Greece and of the
+  East, crucified on the X-shaped cross that bears his name.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Rubens_apostel_andreas_grt.jpg?width=600
 imageAlt: Portrait of Andrew the Apostle
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +19,9 @@ born: 1st century
 died: c. 60
 birthPlace: Bethsaida, Israel
 deathPlace: Patras, Greece
-region: "Holy Land"
-centuries: [1]
+region: Holy Land
+centuries:
+  - 1
 feastDay:
   month: 11
   day: 30
@@ -38,29 +41,32 @@ symbols:
   - Anchor
 martyr: false
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born at Bethsaida, a fisherman on the Sea of Galilee and a disciple of John the Baptist.
-  - year: "c. AD 27"
-    event: At John's word, follows Jesus and brings his brother Simon Peter to Him; called to the apostolate with Peter and the sons of Zebedee.
-  - year: "AD 30–60"
+  - year: c. AD 27
+    event: >-
+      At John's word, follows Jesus and brings his brother Simon Peter to Him; called to the apostolate with Peter and
+      the sons of Zebedee.
+  - year: AD 30–60
     event: After Pentecost, preaches the Gospel in Scythia and Greece, founding churches and baptizing converts.
-  - year: "c. 60"
-    event: Martyred at Patras on a cross; he asks that it be set on a diagonal, unworthy, he says, to die on the same shape as his Lord.
+  - year: c. 60
+    event: >-
+      Martyred at Patras on a cross; he asks that it be set on a diagonal, unworthy, he says, to die on the same shape
+      as his Lord.
 quotes:
-  - text: >-
-      We have found the Messiah. We have found the Christ.
+  - text: We have found the Messiah. We have found the Christ.
     source: Saint Andrew to his brother Peter, per the Gospel of John (1:41)
   - text: >-
-      O good Cross, made beautiful by the body of my Lord, so long desired, so lovingly prepared, take me from among men and give me back to my Master.
+      O good Cross, made beautiful by the body of my Lord, so long desired, so lovingly prepared, take me from among men
+      and give me back to my Master.
     source: Attributed to Saint Andrew at his martyrdom
 prayers:
   - name: Prayer to Saint Andrew the Apostle
     kind: Prayer for evangelization and for the fishermen
     text: >-
-      O Saint Andrew, first-called of the apostles, you heard the voice of the Master and brought
-      your brother to Him. Give us ears to hear the call of Christ, and tongues to bring others
-      to Him. Watch over fishermen, sailors, and all who work on the seas, and obtain for us the
-      grace to follow Jesus even to the cross. Amen.
+      O Saint Andrew, first-called of the apostles, you heard the voice of the Master and brought your brother to Him.
+      Give us ears to hear the call of Christ, and tongues to bring others to Him. Watch over fishermen, sailors, and
+      all who work on the seas, and obtain for us the grace to follow Jesus even to the cross. Amen.
 relatedSaints:
   - name: Peter the Apostle
     slug: peter-the-apostle

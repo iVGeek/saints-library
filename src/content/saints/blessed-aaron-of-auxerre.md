@@ -1,12 +1,12 @@
 ---
-name: "Blessed Aaron of Auxerre"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aaron_Kwok%27s_concert_20111222.jpg/960px-Aaron_Kwok%27s_concert_20111222.jpg"
+name: Blessed Aaron of Auxerre
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Kwok%2527s_concert_20111222.jpg?width=600
 honorific: Blessed
-summary: "Ninth-century bishop of Auxerre, France."
+summary: Ninth-century bishop of Auxerre, France.
 deathYear: 807
-died: "c.807 in Auxerre, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: c.807 in Auxerre, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 9
   day: 28

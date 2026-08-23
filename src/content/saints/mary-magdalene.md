@@ -2,7 +2,9 @@
 name: Mary Magdalene
 honorific: Saint
 title: Apostle to the Apostles
-summary: The faithful disciple who stood at the cross and first proclaimed the Risen Christ — called the "Apostle to the Apostles" in the Church's tradition.
+summary: >-
+  The faithful disciple who stood at the cross and first proclaimed the Risen Christ — called the "Apostle to the
+  Apostles" in the Church's tradition.
 searchAliases:
   - St. Mary Magdalene
   - Maria Magdalena
@@ -15,13 +17,15 @@ died: 1st century AD
 birthPlace: Magdala, Holy Land
 deathPlace: Ephesus or southern France (tradition)
 region: Holy Land
-centuries: [1]
+centuries:
+  - 1
 feastDay:
   month: 7
   day: 22
 liturgicalRank: Feast
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg/960px-TINTORETTO_-_Magdalena_penitente_%28Musei_Capitolini%2C_Roma%2C_1598-1602%29_-_copia.jpg"
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/TINTORETTO_-_Magdalena_penitente_%2528Musei_Capitolini%252C_Roma%252C_1598-1602%2529_-_copia.jpg?width=600
 vocation: []
 patronage:
   - conversion
@@ -31,7 +35,7 @@ patronage:
   - hairdressers
   - women
 causes:
-  - "Apostle to the Apostles (title affirmed by Pope Francis, 2016)"
+  - Apostle to the Apostles (title affirmed by Pope Francis, 2016)
 symbols:
   - Alabaster jar
   - Long hair
@@ -40,37 +44,34 @@ symbols:
 martyr: false
 imageAlt: Titian's Penitent Magdalene, painted c. 1561–65
 imageCredit: Titian, Penitent Magdalene (c. 1561–65), Hermitage Museum — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Titian_-_Penitent_Magdalene_(Hermitage).jpg"
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Titian_-_Penitent_Magdalene_(Hermitage).jpg
 lifeEvents:
-  - year: "1st century AD"
+  - year: 1st century AD
     event: Born in Magdala, a fishing town on the Sea of Galilee.
-  - year: "Luke 8:2"
+  - year: Luke 8:2
     event: Delivered from seven demons by Jesus; becomes one of his faithful companions.
-  - year: "Luke 7:36–50"
+  - year: Luke 7:36–50
     event: Anoints Jesus' feet with perfume and tears, forgiven for her great love.
-  - year: "John 19:25"
+  - year: John 19:25
     event: Stands at the foot of the cross beside the Mother of Jesus.
-  - year: "John 20:1–18"
+  - year: John 20:1–18
     event: First to visit the empty tomb; the Risen Christ calls her by name and sends her to the apostles.
-  - year: "Tradition"
+  - year: Tradition
     event: Later honored as an evangelist to the Church; relics venerated in Provence, France.
-  - year: "2016"
+  - year: '2016'
     event: Pope Francis raises her memorial to a feast, honoring her as "Apostle to the Apostles."
 quotes:
-  - text: >-
-      They have taken my Lord away, and I do not know where they have put him.
+  - text: They have taken my Lord away, and I do not know where they have put him.
     source: John 20:13
-  - text: >-
-      Jesus said to her, "Mary!" She turned and said to him, "Rabbouni!" — Teacher.
+  - text: Jesus said to her, "Mary!" She turned and said to him, "Rabbouni!" — Teacher.
     source: John 20:16
 prayers:
   - name: Prayer of Saint Mary Magdalene
     kind: Prayer of faithful love after Christ
     text: >-
-      O Lord, as Mary Magdalene searched for you at the tomb and found you calling her by name,
-      so may we seek you in our darkness and hear your voice in our lives. Give us her devoted
-      love, her courage to stand at the cross, and her joy to announce your resurrection.
-      Amen.
+      O Lord, as Mary Magdalene searched for you at the tomb and found you calling her by name, so may we seek you in
+      our darkness and hear your voice in our lives. Give us her devoted love, her courage to stand at the cross, and
+      her joy to announce your resurrection. Amen.
 relatedSaints:
   - name: Peter the Apostle
     slug: peter-the-apostle
@@ -79,7 +80,7 @@ relatedSaints:
     slug: therese-of-lisieux
     relation: Thérèse chose her as a heavenly friend and model of love
 sources:
-  - "The Holy Gospels: Luke 7–8; John 19–20; Mark 16"
+  - 'The Holy Gospels: Luke 7–8; John 19–20; Mark 16'
   - Saint Thomas Aquinas, commentary on the woman who anointed Christ
   - Congregation for Divine Worship, decree of 3 June 2016 (feast of Mary Magdalene)
   - USCCB, General Roman Calendar entry for July 22

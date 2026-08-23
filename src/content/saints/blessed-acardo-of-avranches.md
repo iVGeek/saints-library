@@ -1,16 +1,19 @@
 ---
-name: "Blessed Acardo of Avranches"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gisant_Achard_de_Saint-Victor.JPG/960px-Gisant_Achard_de_Saint-Victor.JPG"
+name: Blessed Acardo of Avranches
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Gisant_Achard_de_Saint-Victor.JPG?width=600
 honorific: Blessed
-summary: "Born to the Norman nobility. Educated by the canons of Bridlington, diocese of York, England. Studied in Paris, France. Monk of the monastery of Saint Victor in Paris. Abbot of the house in 1155. Chosen bishop of Séez, France in 1157, but was opposed by King Henry II of England,"
+summary: >-
+  Born to the Norman nobility. Educated by the canons of Bridlington, diocese of York, England. Studied in Paris,
+  France. Monk of the monastery of Saint Victor in Paris. Abbot of the house in 1155. Chosen bishop of Séez, France in
+  1157, but was opposed by King Henry II of England,
 searchAliases:
-  - "Acardo of San Vittore"
-  - "Achard…"
+  - Acardo of San Vittore
+  - Achard…
 deathYear: 1172
-born: "early 12th century in either Normandy, France or Norman-occupied England"
-died: "1172 of natural causes"
-birthPlace: "France or Norman-occupied England"
-region: "France"
+born: early 12th century in either Normandy, France or Norman-occupied England
+died: 1172 of natural causes
+birthPlace: France or Norman-occupied England
+region: France
 feastDay:
   month: 4
   day: 29

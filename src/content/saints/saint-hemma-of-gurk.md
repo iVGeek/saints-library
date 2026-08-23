@@ -1,32 +1,33 @@
 ---
-name: "Saint Hemma of Gurk"
+name: Saint Hemma of Gurk
 honorific: Saint
-summary: " Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Retrato_de_una_dama_con_la_Orden_del_Cisne%2C_an%C3%B3nimo_alem%C3%A1n.jpg/960px-Retrato_de_una_dama_con_la_Orden_del_Cisne%2C_an%C3%B3nimo_alem%C3%A1n.jpg"
+summary: ' Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_una_dama_con_la_Orden_del_Cisne%252C_an%25C3%25B3nimo_alem%25C3%25A1n.jpg?width=600
 searchAliases:
-  - "Emma"
-  - "Gemma"
+  - Emma
+  - Gemma
 birthYear: 980
 deathYear: 1045
-born: "c.980 in Friesach, Kärnten, Austria"
-died: "29 June 1045 in Gurk, Kärnten, Austria of natural causes"
-birthPlace: "Kärnten, Austria"
-deathPlace: "Kärnten, Austrianatural causes"
-region: "Austria"
+born: c.980 in Friesach, Kärnten, Austria
+died: 29 June 1045 in Gurk, Kärnten, Austria of natural causes
+birthPlace: Kärnten, Austria
+deathPlace: Kärnten, Austrianatural causes
+region: Austria
 feastDay:
   month: 6
   day: 29
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against eye problems"
-  - "from disease"
-  - "for a happy birth"
-  - "–"
-  - "Carinthia, Austria"
-  - "Gurk, Austria, diocese of"
+  - against eye problems
+  - from disease
+  - for a happy birth
+  - –
+  - Carinthia, Austria
+  - Gurk, Austria, diocese of
 martyr: false
 ---
 

@@ -1,12 +1,12 @@
 ---
-name: "Saint Abudemius"
+name: Saint Abudemius
 honorific: Saint
-summary: "Tortured and martyred in the persecutions of Diocletian."
-born: "Tenedos Island, Turkey in the Agean Sea"
-died: "early 4th century Tenedos Island, Turkey in the Agean Sea"
-birthPlace: "Turkeythe Agean Sea"
-deathPlace: "Turkeythe Agean Sea"
-region: "Turkey"
+summary: Tortured and martyred in the persecutions of Diocletian.
+born: Tenedos Island, Turkey in the Agean Sea
+died: early 4th century Tenedos Island, Turkey in the Agean Sea
+birthPlace: Turkeythe Agean Sea
+deathPlace: Turkeythe Agean Sea
+region: Turkey
 feastDay:
   month: 7
   day: 15
@@ -14,6 +14,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Abudemius
+imageCreditUrl: https://en.wikipedia.org/wiki/July%2015%20(Eastern%20Orthodox%20liturgics)
 ---
 
 Tortured and martyred in the persecutions of Diocletian.

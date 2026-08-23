@@ -1,29 +1,35 @@
 ---
-name: "Pope Saint John XXIII"
+name: Pope Saint John XXIII
 honorific: Venerable
-summary: "Born to an Italian peasant family. Educated at Bergamo and the Pontifical Roman Seminary. Ordained on 10 August 1904. Secretary to the bishop of Bergamo, Italy from 1904 to 1914, during which he wrote the basis for his five-volume biography of Saint Charles Borromeo. Served in Wo"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg/960px-Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg"
+summary: >-
+  Born to an Italian peasant family. Educated at Bergamo and the Pontifical Roman Seminary. Ordained on 10 August 1904.
+  Secretary to the bishop of Bergamo, Italy from 1904 to 1914, during which he wrote the basis for his five-volume
+  biography of Saint Charles Borromeo. Served in Wo
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Ioannes_XXIII%252C_by_De_Agostini%252C_1958%25E2%2580%25931963.jpg?width=600
 searchAliases:
-  - "Angelo Giuseppe Roncalli"
+  - Angelo Giuseppe Roncalli
 birthYear: 1881
 deathYear: 1963
-born: "25 November 1881 at Sotto il Monte, diocese of Bergamo, Italy as Angelo Giuseppe Roncalli"
-died: "7:50pm on 3 June 1963 at Rome, Italy of stomach cancer"
-birthPlace: "dioceseBergamo, Italy as Angelo Giuseppe Roncalli"
-deathPlace: "Italystomach cancer"
-region: "France"
+born: 25 November 1881 at Sotto il Monte, diocese of Bergamo, Italy as Angelo Giuseppe Roncalli
+died: 7:50pm on 3 June 1963 at Rome, Italy of stomach cancer
+birthPlace: dioceseBergamo, Italy as Angelo Giuseppe Roncalli
+deathPlace: Italystomach cancer
+region: France
 feastDay:
   month: 10
   day: 11
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "papal delegates"
-  - "Italian army and soldiers (proclaimed on 12 September 2017)"
+  - papal delegates
+  - Italian army and soldiers (proclaimed on 12 September 2017)
 martyr: false
 ---
 

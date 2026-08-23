@@ -1,16 +1,19 @@
 ---
-name: "Saint Plato"
+name: Saint Plato
 honorific: Saint
-summary: "Plato's wealthy parents died of disease before he was 13. Raised and educated by an uncle who was a treasurer, and Plato soon handled much of his uncle's business. Excellent student. Pious from youth, he turned away from the world of the royal court, freed his slaves, sold his es"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/960px-Plato_Silanion_Musei_Capitolini_MC1377.png"
+summary: >-
+  Plato's wealthy parents died of disease before he was 13. Raised and educated by an uncle who was a treasurer, and
+  Plato soon handled much of his uncle's business. Excellent student. Pious from youth, he turned away from the world of
+  the royal court, freed his slaves, sold his es
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Plato_Silanion_Musei_Capitolini_MC1377.png?width=600
 searchAliases:
-  - "Platon"
-  - "Platone"
+  - Platon
+  - Platone
 birthYear: 734
 deathYear: 813
-born: "c.734"
-died: "19 March 813 of natural causes"
-region: "Turkey"
+born: c.734
+died: 19 March 813 of natural causes
+region: Turkey
 feastDay:
   month: 4
   day: 4
@@ -18,7 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

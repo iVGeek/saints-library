@@ -1,19 +1,22 @@
 ---
-name: "Saint Nilus the Younger"
+name: Saint Nilus the Younger
 honorific: Saint
-summary: "Son of Greek immigrants to Italy. He led a wild and mis-spent youth, eventually finding work as a treasury official. Believed to have been married, and certainly the father of one daughter. In quick succession, his wife died, his daughter died, and Nilus suffered a life-threateni"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/San_Nicodemo_-_Ritratto_San_Nilo.jpg/960px-San_Nicodemo_-_Ritratto_San_Nilo.jpg"
+summary: >-
+  Son of Greek immigrants to Italy. He led a wild and mis-spent youth, eventually finding work as a treasury official.
+  Believed to have been married, and certainly the father of one daughter. In quick succession, his wife died, his
+  daughter died, and Nilus suffered a life-threateni
+image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Nicodemo_-_Ritratto_San_Nilo.jpg?width=600
 searchAliases:
-  - "Nilus of Calabria"
-  - "Nilus of Rossano"
-  - "Nilo…."
+  - Nilus of Calabria
+  - Nilus of Rossano
+  - Nilo….
 birthYear: 910
 deathYear: 1005
-born: "910 at Rossano, Calabria, Italy"
-died: "27 December 1005 at Grottaferrata, Frascati, Italy of natural causes"
-birthPlace: "Calabria, Italy"
-deathPlace: "Frascati, Italynatural causes"
-region: "Italy"
+born: 910 at Rossano, Calabria, Italy
+died: 27 December 1005 at Grottaferrata, Frascati, Italy of natural causes
+birthPlace: Calabria, Italy
+deathPlace: Frascati, Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 26
@@ -23,9 +26,12 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "in Italy\n\nCorigliano-Rossano"
-  - "Grottaferrata"
-  - "Rossano"
+  - |-
+    in Italy
+
+    Corigliano-Rossano
+  - Grottaferrata
+  - Rossano
 martyr: false
 ---
 

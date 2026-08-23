@@ -1,11 +1,15 @@
 ---
-name: "Saint Macarius of Jerusalem"
+name: Saint Macarius of Jerusalem
 honorific: Saint
-summary: "Bishop of Jerusalem in 314. Fought Arianism. Participated in and signed the documents of the Council of Nicaea, and helped formulate the Nicene Creed. When Saint Helena discovered a collection of crosses, one of which was the True Cross, Macarius suggested identifying the real on"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chiesa_di_San_Polo_%28Venice%29_-_Oratorio_del_Crocifisso_-_Saints_Helena_and_Macarius_by_Giandomenico_Tiepolo.jpg/960px-Chiesa_di_San_Polo_%28Venice%29_-_Oratorio_del_Crocifisso_-_Saints_Helena_and_Macarius_by_Giandomenico_Tiepolo.jpg"
+summary: >-
+  Bishop of Jerusalem in 314. Fought Arianism. Participated in and signed the documents of the Council of Nicaea, and
+  helped formulate the Nicene Creed. When Saint Helena discovered a collection of crosses, one of which was the True
+  Cross, Macarius suggested identifying the real on
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Chiesa_di_San_Polo_%2528Venice%2529_-_Oratorio_del_Crocifisso_-_Saints_Helena_and_Macarius_by_Giandomenico_Tiepolo.jpg?width=600
 searchAliases:
-  - "Macario"
-region: "Holy Land"
+  - Macario
+region: Holy Land
 feastDay:
   month: 3
   day: 10

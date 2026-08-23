@@ -2,7 +2,9 @@
 name: Joseph
 honorific: Saint
 title: Spouse of the Blessed Virgin Mary
-summary: The silent guardian of the Holy Family — foster father of Jesus, spouse of Mary, and patron of workers, fathers, and a happy death.
+summary: >-
+  The silent guardian of the Holy Family — foster father of Jesus, spouse of Mary, and patron of workers, fathers, and a
+  happy death.
 searchAliases:
   - St. Joseph
   - San Giuseppe
@@ -14,15 +16,16 @@ born: 1st century BC
 died: c. 1st century AD
 birthPlace: Nazareth, Holy Land
 deathPlace: Nazareth, Holy Land
-region: "Egypt"
-centuries: [1]
+region: Egypt
+centuries:
+  - 1
 feastDay:
   month: 3
   day: 19
 feastDayLabel: Solemnity of Saint Joseph, Spouse of the Blessed Virgin Mary; also celebrated as Saint Joseph the Worker on May 1
 liturgicalRank: Solemnity
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Peter_von_Cornelius_002.jpg/960px-Peter_von_Cornelius_002.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Peter_von_Cornelius_002.jpg?width=600
 vocation: []
 patronage:
   - fathers
@@ -42,54 +45,51 @@ symbols:
 martyr: false
 imageAlt: Guido Reni's painting of Saint Joseph holding the Christ Child
 imageCredit: Guido Reni (1635–1640), oil on canvas — public domain (Google Art Project via Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg"
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Saint_Joseph_and_the_Christ_Child_-_Google_Art_Project.jpg
 lifeEvents:
-  - year: "1st century BC"
+  - year: 1st century BC
     event: Born in Nazareth, descended, according to the gospels, from the house of David.
-  - year: "c. AD 1"
+  - year: c. AD 1
     event: Betrothed to Mary; upon learning she is with child, resolves quietly to divorce her.
-  - year: "c. AD 1"
-    event: >-
-      The angel appears in a dream: "Joseph, son of David, do not fear to take Mary your wife."
-  - year: "c. AD 1"
+  - year: c. AD 1
+    event: 'The angel appears in a dream: "Joseph, son of David, do not fear to take Mary your wife."'
+  - year: c. AD 1
     event: Takes Mary as his wife and names the child Jesus, receiving him as his own son.
-  - year: "c. AD 3–4"
+  - year: c. AD 3–4
     event: Leads the Holy Family in flight to Egypt to escape Herod's massacre of the innocents.
-  - year: "c. AD 7–8"
+  - year: c. AD 7–8
     event: Returns to Nazareth after the death of Herod; teaches the boy Jesus the carpenter's trade.
-  - year: "c. AD 12"
+  - year: c. AD 12
     event: Journeys with Mary and the twelve-year-old Jesus to the Passover in Jerusalem.
-  - year: "1st century AD"
+  - year: 1st century AD
     event: Dies in the presence of Jesus and Mary — patron of a happy death.
 quotes:
   - text: >-
-      Joseph, son of David, do not be afraid to take Mary your wife into your home, for it is through the Holy Spirit that this child has been conceived in her.
+      Joseph, son of David, do not be afraid to take Mary your wife into your home, for it is through the Holy Spirit
+      that this child has been conceived in her.
     source: Matthew 1:20
 prayers:
   - name: Prayer to Saint Joseph
     kind: Traditional prayer from the Church's treasury
     text: >-
-      O Saint Joseph, guardian of Jesus and spouse of Mary, you labored to protect the Holy
-      Family in every trial. Watch over our families and our work. Give us your silent strength,
-      your humble trust, and your faithful love. Obtain for us the grace of a holy life and a
-      peaceful death in the arms of Jesus and Mary. Amen.
+      O Saint Joseph, guardian of Jesus and spouse of Mary, you labored to protect the Holy Family in every trial. Watch
+      over our families and our work. Give us your silent strength, your humble trust, and your faithful love. Obtain
+      for us the grace of a holy life and a peaceful death in the arms of Jesus and Mary. Amen.
   - name: To Saint Joseph for Workers
     kind: Prayer for the Feast of Saint Joseph the Worker (May 1)
     text: >-
-      Glorious Saint Joseph, model of all who are devoted to labor, obtain for us the grace to
-      work conscientiously, in the spirit of repentance and of love, and to see in our work the
-      cooperation with Jesus and Mary which you knew so well in Nazareth. Make our work a
-      prayer, our homes a church, and our families a foretaste of heaven. Amen.
-  - name: "Novena to Saint Joseph"
-    kind: "Novena — nine-day prayer for work, families, and the dying"
+      Glorious Saint Joseph, model of all who are devoted to labor, obtain for us the grace to work conscientiously, in
+      the spirit of repentance and of love, and to see in our work the cooperation with Jesus and Mary which you knew so
+      well in Nazareth. Make our work a prayer, our homes a church, and our families a foretaste of heaven. Amen.
+  - name: Novena to Saint Joseph
+    kind: Novena — nine-day prayer for work, families, and the dying
     text: >-
-      O glorious Saint Joseph, faithful guardian of Jesus and chaste spouse of Mary, you were chosen
-      by the Eternal Father to be the foster father of His only Son. I beseech you, by the love
-      which you did bear to Jesus and Mary, to help me in my present need. O Saint Joseph, model of
-      all who work, obtain for me the grace to work conscientiously, in the spirit of repentance
-      and of love, and to see in my work the cooperation with Jesus and Mary which you knew so well
-      in Nazareth. O Saint Joseph, I place my petition in your powerful hands. Intercede for me
-      before the throne of God, that I may receive the favor I earnestly seek. Amen.
+      O glorious Saint Joseph, faithful guardian of Jesus and chaste spouse of Mary, you were chosen by the Eternal
+      Father to be the foster father of His only Son. I beseech you, by the love which you did bear to Jesus and Mary,
+      to help me in my present need. O Saint Joseph, model of all who work, obtain for me the grace to work
+      conscientiously, in the spirit of repentance and of love, and to see in my work the cooperation with Jesus and
+      Mary which you knew so well in Nazareth. O Saint Joseph, I place my petition in your powerful hands. Intercede for
+      me before the throne of God, that I may receive the favor I earnestly seek. Amen.
 relatedSaints:
   - name: Mary Magdalene
     slug: mary-magdalene

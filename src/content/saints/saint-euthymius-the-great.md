@@ -1,14 +1,18 @@
 ---
-name: "Saint Euthymius the Great"
+name: Saint Euthymius the Great
 honorific: Saint
-summary: "May have been an orphan as he was educated at the home of the Bishop Orteus of Melitine, Armenia (modern Malatya, Turkey). Saint Polyeuctus of Melitine was a friend of his family, and one of Euthymius' spiritual directors. Ordained c.396. Monk. Bishop's deputy for monasteries in"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg/960px-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B9_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9.jpg"
+summary: >-
+  May have been an orphan as he was educated at the home of the Bishop Orteus of Melitine, Armenia (modern Malatya,
+  Turkey). Saint Polyeuctus of Melitine was a friend of his family, and one of Euthymius' spiritual directors. Ordained
+  c.396. Monk. Bishop's deputy for monasteries in
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/%25D0%2595%25D0%25B2%25D1%2584%25D0%25B8%25D0%25BC%25D0%25B8%25D0%25B9_%25D0%2592%25D0%25B5%25D0%25BB%25D0%25B8%25D0%25BA%25D0%25B8%25D0%25B9.jpg?width=600
 birthYear: 378
 deathYear: 473
-born: "378 at Melitine, Armenia (modern Malatya, Turkey)"
-died: "20 January 473 of natural causes"
-birthPlace: "Armenia (modern Malatya, Turkey)"
-region: "Turkey"
+born: 378 at Melitine, Armenia (modern Malatya, Turkey)
+died: 20 January 473 of natural causes
+birthPlace: Armenia (modern Malatya, Turkey)
+region: Turkey
 feastDay:
   month: 1
   day: 20

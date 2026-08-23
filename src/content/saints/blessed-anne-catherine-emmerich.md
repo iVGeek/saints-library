@@ -1,17 +1,20 @@
 ---
-name: "Blessed Anne Catherine Emmerich"
+name: Blessed Anne Catherine Emmerich
 honorific: Blessed
-summary: "Born to poor but pious peasants. She was a very pious child who suffered with poor health, but who received visions and prophesies; they were so common that she thought all children could see the Child Jesus and the souls in Purgatory. She was able to diagnose illness and recomme"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Anna_Katharina_Emmerick_-_Gabriel_von_Max_1885.jpg/960px-Anna_Katharina_Emmerick_-_Gabriel_von_Max_1885.jpg"
+summary: >-
+  Born to poor but pious peasants. She was a very pious child who suffered with poor health, but who received visions
+  and prophesies; they were so common that she thought all children could see the Child Jesus and the souls in
+  Purgatory. She was able to diagnose illness and recomme
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Katharina_Emmerick_-_Gabriel_von_Max_1885.jpg?width=600
 searchAliases:
-  - "Anne Catherine Emmerick"
+  - Anne Catherine Emmerick
 birthYear: 1774
 deathYear: 1824
-born: "8 September 1774 at Flamsche, diocese of Munster, Westphalia, Germany"
-died: "9 February 1824 at Dülmen, Germany"
-birthPlace: "dioceseMunster, Westphalia, Germany"
-deathPlace: "Germany"
-region: "Germany"
+born: 8 September 1774 at Flamsche, diocese of Munster, Westphalia, Germany
+died: 9 February 1824 at Dülmen, Germany
+birthPlace: dioceseMunster, Westphalia, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 2
   day: 9
@@ -20,7 +23,7 @@ vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
 ---
 

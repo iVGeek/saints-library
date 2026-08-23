@@ -1,32 +1,37 @@
 ---
-name: "Saint Clement Mary Hofbauer"
+name: Saint Clement Mary Hofbauer
 honorific: Venerable
-summary: "Ninth child of a butcher who changed the family name from the Moravian Dvor&aacute;k to the Germanic Hofbauer. His father died when Clement was six years old. The young man felt a call to the priesthood, but his family was too poor to afford his education. Apprentice and journeym"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wien_Maria_am_Gestade_Hofbauer-Relief_Detail.jpg/960px-Wien_Maria_am_Gestade_Hofbauer-Relief_Detail.jpg"
+summary: >-
+  Ninth child of a butcher who changed the family name from the Moravian Dvor&aacute;k to the Germanic Hofbauer. His
+  father died when Clement was six years old. The young man felt a call to the priesthood, but his family was too poor
+  to afford his education. Apprentice and journeym
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Wien_Maria_am_Gestade_Hofbauer-Relief_Detail.jpg?width=600
 searchAliases:
-  - "Apostle of Vienna"
-  - "Clemens Mary Hofbauer"
-  - "Johannes Hofbauer"
-  - "John Dvor&aacute;k"
-  - "Klemens Maria"
-  - "Second Founder of the Redemptorists"
+  - Apostle of Vienna
+  - Clemens Mary Hofbauer
+  - Johannes Hofbauer
+  - John Dvor&aacute;k
+  - Klemens Maria
+  - Second Founder of the Redemptorists
 birthYear: 1751
 deathYear: 1820
-born: "26 December 1751 at Tasswitz, Moravia (in the modern Czech Republic) as John Dvor&aacute;k"
-died: "15 March 1820 at Vienna, Austria of natural causes"
-birthPlace: "Moravia (the modern Czech Republic) as John Dvor&aacute;k"
-deathPlace: "Austrianatural causes"
-region: "Poland"
+born: 26 December 1751 at Tasswitz, Moravia (in the modern Czech Republic) as John Dvor&aacute;k
+died: 15 March 1820 at Vienna, Austria of natural causes
+birthPlace: Moravia (the modern Czech Republic) as John Dvor&aacute;k
+deathPlace: Austrianatural causes
+region: Poland
 feastDay:
   month: 3
   day: 15
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

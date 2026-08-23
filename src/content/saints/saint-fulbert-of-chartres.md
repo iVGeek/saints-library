@@ -1,16 +1,20 @@
 ---
-name: "Saint Fulbert of Chartres"
+name: Saint Fulbert of Chartres
 honorific: Saint
-summary: "Grew up around Rome, Italy, and known as a promising student. Studied the Benedictine abbey in Rheims, France. A favourite student of the future Pope Sylvester II, he was brought to Rome as an advisor to Sylvester. Upon the pope's death, Fulbert returned to France where he served"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg/960px-Chartres_%2828%29_Cath%C3%A9drale_Notre-Dame_-_Tour_du_ch%C5%93ur_-_%C3%89v%C3%AAque_de_Chartres_07.jpg"
+summary: >-
+  Grew up around Rome, Italy, and known as a promising student. Studied the Benedictine abbey in Rheims, France. A
+  favourite student of the future Pope Sylvester II, he was brought to Rome as an advisor to Sylvester. Upon the pope's
+  death, Fulbert returned to France where he served
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Chartres_%252828%2529_Cath%25C3%25A9drale_Notre-Dame_-_Tour_du_ch%25C5%2593ur_-_%25C3%2589v%25C3%25AAque_de_Chartres_07.jpg?width=600
 searchAliases:
-  - "Fulbertus of Chartres"
+  - Fulbertus of Chartres
 birthYear: 960
 deathYear: 1029
-born: "c.960 in Italy"
-died: "10 April 1029 in Chartres, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+born: c.960 in Italy
+died: 10 April 1029 in Chartres, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 10
@@ -19,9 +23,9 @@ vocation:
   - Virgin
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Chartres, France"
+  - Chartres, France
 martyr: false
 ---
 

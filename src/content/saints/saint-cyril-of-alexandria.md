@@ -2,12 +2,15 @@
 name: Saint Cyril of Alexandria
 honorific: Saint
 title: St. Cyril of Alexandria
-summary: "Nephew of Theophilus the Patriarch. Monk. Priest. Bishop and patriarch of Alexandria, Egypt on 18 October 412. Suppressed the Novatians. Worked at the Council of Ephesus. Fought against Nestorius who ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Chora-Kirche_2013-03-21zh_%28cropped%29.jpg/960px-Chora-Kirche_2013-03-21zh_%28cropped%29.jpg"
+summary: >-
+  Nephew of Theophilus the Patriarch. Monk. Priest. Bishop and patriarch of Alexandria, Egypt on 18 October 412.
+  Suppressed the Novatians. Worked at the Council of Ephesus. Fought against Nestorius who ...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Chora-Kirche_2013-03-21zh_%2528cropped%2529.jpg?width=600
 imageAlt: Portrait of Saint Cyril of Alexandria
 imageCredit: Wikimedia Commons
-birthPlace: "Alexandria"
-centuries: [16]
+birthPlace: Alexandria
+centuries:
+  - 16
 feastDay:
   month: 6
   day: 27

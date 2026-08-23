@@ -1,19 +1,22 @@
 ---
-name: "Blessed Dominic Barberi"
+name: Blessed Dominic Barberi
 honorific: Blessed
-summary: "Born to a poor farm family, orphaned by age eight, and raised by an aunt and uncle on a farm in Merlano, Italy. An uneducated shepherd boy, he spent his time with the flocks in prayer. Met many Passionist priests exiled from France during the repressions of Napoleon. During praye"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dominic_Barberi_painting.jpg/960px-Dominic_Barberi_painting.jpg"
+summary: >-
+  Born to a poor farm family, orphaned by age eight, and raised by an aunt and uncle on a farm in Merlano, Italy. An
+  uneducated shepherd boy, he spent his time with the flocks in prayer. Met many Passionist priests exiled from France
+  during the repressions of Napoleon. During praye
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Dominic_Barberi_painting.jpg?width=600
 searchAliases:
-  - "Dominic of the Mother of God"
-  - "Apostle to England"
-  - "Domenico della Madre di Dio Barberi"
+  - Dominic of the Mother of God
+  - Apostle to England
+  - Domenico della Madre di Dio Barberi
 birthYear: 1792
 deathYear: 1849
-born: "22 June 1792 at Viterbo, Italy"
-died: "3pm 27 August 1849 at Reading, Berkshire, England of a heart attack"
-birthPlace: "Italy"
-deathPlace: "Berkshire, Englanda heart attack"
-region: "Belgium"
+born: 22 June 1792 at Viterbo, Italy
+died: 3pm 27 August 1849 at Reading, Berkshire, England of a heart attack
+birthPlace: Italy
+deathPlace: Berkshire, Englanda heart attack
+region: Belgium
 feastDay:
   month: 8
   day: 27

@@ -1,17 +1,20 @@
 ---
-name: "Saint Romuald"
+name: Saint Romuald
 honorific: Saint
-summary: "Italian nobility who spent a wild youth. Acting as second, he witnessed his father kill another man in a duel, and Romuald sought to atone for the crime by becoming a Benedictine monk at Classe, Italy. Abbot from 996 to 999. A wanderer by nature, he established several hermitage"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fra_Angelico_032.jpg/960px-Fra_Angelico_032.jpg"
+summary: >-
+  Italian nobility who spent a wild youth. Acting as second, he witnessed his father kill another man in a duel, and
+  Romuald sought to atone for the crime by becoming a Benedictine monk at Classe, Italy. Abbot from 996 to 999. A
+  wanderer by nature, he established several hermitage
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_032.jpg?width=600
 searchAliases:
-  - "Romualdo"
+  - Romualdo
 birthYear: 951
 deathYear: 1027
-born: "c.951 at Ravenna, Italy"
-died: "19 June 1027 at Val-di-Castro, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.951 at Ravenna, Italy
+died: 19 June 1027 at Val-di-Castro, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 19
@@ -21,11 +24,14 @@ vocation:
   - Monk
   - Hermit
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in Italy\n\nCamaldoli"
-  - "Fabriano"
-  - "Sansepolcro"
+  - |-
+    in Italy
+
+    Camaldoli
+  - Fabriano
+  - Sansepolcro
 martyr: false
 ---
 

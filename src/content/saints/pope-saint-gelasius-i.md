@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint Gelasius I"
+name: Pope Saint Gelasius I
 honorific: Saint
-summary: "Son of an African immigrant named Valerius. Priest. Pope. Known for his learning, charity, and sense of justice. Opposed the Acacian and Manichaean heresies. Came into conflict with the Patriarch of Constantinople over supremacy in Alexandria, Egypt and Antioch. Suppressed many o"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter%2C_Star%C3%A9_Brno%2C_Gelasius_I.jpg/960px-Augustini%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter%2C_Star%C3%A9_Brno%2C_Gelasius_I.jpg"
+summary: >-
+  Son of an African immigrant named Valerius. Priest. Pope. Known for his learning, charity, and sense of justice.
+  Opposed the Acacian and Manichaean heresies. Came into conflict with the Patriarch of Constantinople over supremacy in
+  Alexandria, Egypt and Antioch. Suppressed many o
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Augustini%25C3%25A1nsk%25C3%25BD_kl%25C3%25A1%25C5%25A1ter%252C_Star%25C3%25A9_Brno%252C_Gelasius_I.jpg?width=600
 deathYear: 496
-born: "at Rome, Italy"
-died: "21 November 496 at Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Turkey"
+born: at Rome, Italy
+died: 21 November 496 at Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Turkey
 feastDay:
   month: 11
   day: 21

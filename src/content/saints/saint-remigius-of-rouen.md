@@ -1,16 +1,19 @@
 ---
-name: "Saint Remigius of Rouen"
+name: Saint Remigius of Rouen
 honorific: Saint
-summary: "Son of Charles Martel. Archbishop of Rouen, France in 755. He served as ambassador to the court of King Desiderio of the Lombards with a commission to negotiate the return of Church lands. Remigius worked for the use of the Roman rite in the Gallic Church in general, and the Greg"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saint_remi.jpg/960px-Saint_remi.jpg"
+summary: >-
+  Son of Charles Martel. Archbishop of Rouen, France in 755. He served as ambassador to the court of King Desiderio of
+  the Lombards with a commission to negotiate the return of Church lands. Remigius worked for the use of the Roman rite
+  in the Gallic Church in general, and the Greg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_remi.jpg?width=600
 searchAliases:
-  - "Remigio"
-  - "Remedius"
-  - "Remi"
+  - Remigio
+  - Remedius
+  - Remi
 deathYear: 772
-died: "19 January 772 in Rouen, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: 19 January 772 in Rouen, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 19
@@ -18,7 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - "Cavasso Nuovo, Italy"
+  - Cavasso Nuovo, Italy
 martyr: false
 ---
 

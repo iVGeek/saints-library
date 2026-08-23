@@ -1,25 +1,32 @@
 ---
-name: "Saint William Firmatus"
+name: Saint William Firmatus
 honorific: Saint
-summary: "Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to the poor and spent the rest of his life on pilgrimages and as a hermit at Savigny and Mantilly. Known for his closeness to nature, his love of wildlife, and the"
+summary: >-
+  Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to
+  the poor and spent the rest of his life on pilgrimages and as a hermit at Savigny and Mantilly. Known for his
+  closeness to nature, his love of wildlife, and the
 searchAliases:
-  - "William Firmatus of Tours"
-  - "Guglielmo Firmato"
+  - William Firmatus of Tours
+  - Guglielmo Firmato
 deathYear: 1103
-died: "1103 of natural causes"
-region: "France"
+died: 1103 of natural causes
+region: France
 feastDay:
   month: 4
   day: 24
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cr%C3%A2ne_de_saint_Guillaume_Firmat%2C_coll%C3%A9giale_Saint-%C3%89vroult%2C_Mortain%2C_France.jpg/960px-Cr%C3%A2ne_de_saint_Guillaume_Firmat%2C_coll%C3%A9giale_Saint-%C3%89vroult%2C_Mortain%2C_France.jpg"
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Cr%25C3%25A2ne_de_saint_Guillaume_Firmat%252C_coll%25C3%25A9giale_Saint-%25C3%2589vroult%252C_Mortain%252C_France.jpg?width=600
 vocation:
   - Hermit
 patronage:
-  - "against headache"
-  - "–"
-  - "in France\n\nMantilly"
-  - "Savigny, Manche"
+  - against headache
+  - –
+  - |-
+    in France
+
+    Mantilly
+  - Savigny, Manche
 martyr: false
 ---
 

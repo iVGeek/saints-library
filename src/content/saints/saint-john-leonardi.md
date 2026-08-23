@@ -1,29 +1,34 @@
 ---
-name: "Saint John Leonardi"
+name: Saint John Leonardi
 honorific: Venerable
-summary: "Worked as a pharmacist's apprentice while studying for the priesthood. After ordination on 22 December 1572, he worked with prisoners and the sick. His example attracted some young laymen to assist him, most of whom became priests themselves. This group formed Clerks Regular of t"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SaintJeanLeonardi02.jpg/960px-SaintJeanLeonardi02.jpg"
+summary: >-
+  Worked as a pharmacist's apprentice while studying for the priesthood. After ordination on 22 December 1572, he worked
+  with prisoners and the sick. His example attracted some young laymen to assist him, most of whom became priests
+  themselves. This group formed Clerks Regular of t
+image: https://commons.wikimedia.org/wiki/Special:FilePath/SaintJeanLeonardi02.jpg?width=600
 searchAliases:
-  - "Giovanni Leonardi"
-  - "Jean Leonardi"
+  - Giovanni Leonardi
+  - Jean Leonardi
 birthYear: 1541
 deathYear: 1609
-born: "1541 at Diecimo, Lucca, Italy"
-died: "8 October 1609 at Rome, Italy of natural causes"
-birthPlace: "Lucca, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1541 at Diecimo, Lucca, Italy
+died: 8 October 1609 at Rome, Italy of natural causes
+birthPlace: Lucca, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 9
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "pharmacists (proclaimed on 8 August 2006 by Pope Benedict XVI)"
+  - pharmacists (proclaimed on 8 August 2006 by Pope Benedict XVI)
 martyr: false
 ---
 

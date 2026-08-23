@@ -1,16 +1,16 @@
 ---
-name: "Blessed Anselmo"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Anselmo%2C_Nebraska_community_building.JPG/960px-Anselmo%2C_Nebraska_community_building.JPG"
+name: Blessed Anselmo
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Anselmo%252C_Nebraska_community_building.JPG?width=600
 honorific: Blessed
-summary: "Twelfth century Camaldolese hermit."
-region: "Italy"
+summary: Twelfth century Camaldolese hermit.
+region: Italy
 feastDay:
   month: 1
   day: 7
 canonizationStatus: Blessed
 vocation:
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

@@ -1,20 +1,24 @@
 ---
-name: "Saint Benedict of Aniane"
+name: Saint Benedict of Aniane
 honorific: Saint
-summary: "Born a Visigoth, the son of Aigul, Count of Maguelone. Educated at the court of Pepin. Courtier and cup-bearer to King Pepin and Blessed Charlemagne. Part of the 773 campaign of Charlemagne. Narrowly escaped drowning in the Tesin near Pavia, Italy while trying to save his brother"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aniane_%28H%C3%A9rault%2C_Fr%29_%C3%A9glise%2Cstatue_St._Beno%C3%AEt_d%27Aniane.JPG/960px-Aniane_%28H%C3%A9rault%2C_Fr%29_%C3%A9glise%2Cstatue_St._Beno%C3%AEt_d%27Aniane.JPG"
+summary: >-
+  Born a Visigoth, the son of Aigul, Count of Maguelone. Educated at the court of Pepin. Courtier and cup-bearer to King
+  Pepin and Blessed Charlemagne. Part of the 773 campaign of Charlemagne. Narrowly escaped drowning in the Tesin near
+  Pavia, Italy while trying to save his brother
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Aniane_%2528H%25C3%25A9rault%252C_Fr%2529_%25C3%25A9glise%252Cstatue_St._Beno%25C3%25AEt_d%2527Aniane.JPG?width=600
 searchAliases:
-  - "Benedict of Anian"
-  - "Euticius"
-  - "Witiza"
-  - "the Second Benedict"
+  - Benedict of Anian
+  - Euticius
+  - Witiza
+  - the Second Benedict
 birthYear: 747
 deathYear: 821
-born: "c.747 at Languedoc, France as Witiza"
-died: "11 February 821 at Cornelimunster, Aachen, Germany of natural causes"
-birthPlace: "France as Witiza"
-deathPlace: "Aachen, Germanynatural causes"
-region: "Germany"
+born: c.747 at Languedoc, France as Witiza
+died: 11 February 821 at Cornelimunster, Aachen, Germany of natural causes
+birthPlace: France as Witiza
+deathPlace: Aachen, Germanynatural causes
+region: Germany
 feastDay:
   month: 2
   day: 12
@@ -24,10 +28,13 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "in France\n\nAniane"
-  - "Dijon"
+  - |-
+    in France
+
+    Aniane
+  - Dijon
 martyr: false
 ---
 

@@ -1,23 +1,28 @@
 ---
-name: "Venerable József Mindszenty"
+name: Venerable József Mindszenty
 honorific: Venerable
-summary: "Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught religion in Zalaegerszeg, Hungary. Founded the newspaper Zalamegyei Újság (Zala County Newspaper) in 1918, helped found the Catholic People's Party, and was arres"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/J%C3%B3zsef_Mindszenty.jpg/960px-J%C3%B3zsef_Mindszenty.jpg"
+summary: >-
+  Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught
+  religion in Zalaegerszeg, Hungary. Founded the newspaper Zalamegyei Újság (Zala County Newspaper) in 1918, helped
+  found the Catholic People's Party, and was arres
+image: https://commons.wikimedia.org/wiki/Special:FilePath/J%25C3%25B3zsef_Mindszenty.jpg?width=600
 searchAliases:
-  - "József Pehm"
-  - "Mindszenty József"
-  - "Pehm József"
+  - József Pehm
+  - Mindszenty József
+  - Pehm József
 birthYear: 1892
 deathYear: 1975
-born: "29 March 1892 in Csehimindszent, Vas County, Hungary"
-died: "6 May 1975 in Vienna, Austria of natural causes"
-birthPlace: "Vas County, Hungary"
-deathPlace: "Austrianatural causes"
-region: "Hungary"
+born: 29 March 1892 in Csehimindszent, Vas County, Hungary
+died: 6 May 1975 in Vienna, Austria of natural causes
+birthPlace: Vas County, Hungary
+deathPlace: Austrianatural causes
+region: Hungary
 feastDay:
   month: 6
   day: 12
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop

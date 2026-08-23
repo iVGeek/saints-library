@@ -1,35 +1,42 @@
 ---
-name: "Saint Aleth of Dijon"
+name: Saint Aleth of Dijon
 honorific: Saint
-summary: "Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux, Saint Humbeline of Jully, Blessed Gerard, and other holy children. She and her husband had a devotion to and built a chapel for Saint Ambrosinian of Armenia."
+summary: >-
+  Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux,
+  Saint Humbeline of Jully, Blessed Gerard, and other holy children. She and her husband had a devotion to and built a
+  chapel for Saint Ambrosinian of Armenia.
 searchAliases:
-  - "Aleth of Montbard"
-  - "Aleth of Zélie"
-  - "Adelaide…"
-  - "Adèle…"
-  - "Alaysia…"
-  - "Aleidis…"
-  - "Aletta…"
-  - "Alette…"
-  - "Aleydis…"
-  - "Alice…"
-  - "Alix…"
-  - "Aliz…"
-  - "Alyette…"
-  - "Alèthe…"
-  - "Elisabeth…"
-  - "Ethle…"
+  - Aleth of Montbard
+  - Aleth of Zélie
+  - Adelaide…
+  - Adèle…
+  - Alaysia…
+  - Aleidis…
+  - Aletta…
+  - Alette…
+  - Aleydis…
+  - Alice…
+  - Alix…
+  - Aliz…
+  - Alyette…
+  - Alèthe…
+  - Elisabeth…
+  - Ethle…
 deathYear: 1105
-died: "1105"
-region: "France"
+died: '1105'
+region: France
 feastDay:
   month: 4
   day: 4
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Dijon, France"
+  - Dijon, France
 martyr: false
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/cf/SaintMaloCath%C3%A9drale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Aleth of Dijon
+imageCreditUrl: https://en.wikipedia.org/wiki/Ancient%20Diocese%20of%20Saint-Malo
 ---
 
 Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux, Saint Humbeline of Jully, Blessed Gerard, and other holy children. She and her husband had a devotion to and built a chapel for Saint Ambrosinian of Armenia.

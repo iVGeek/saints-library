@@ -1,20 +1,25 @@
 ---
-name: "Saint Lambert of Maastricht"
+name: Saint Lambert of Maastricht
 honorific: Saint
-summary: "Born to the nobility, the son of Aper and Herisplindis, he received a good, religious oriented education. Student of Saint Landoaldus and Saint Theodardus. Priest. Bishop of Maastricht, Netherlands in 670. Forced for political reasons into exile from Maastricht from 674 to 681. M"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Diptyque_de_Palude%2C_Martyre_de_saint_Lambert.jpg/960px-Diptyque_de_Palude%2C_Martyre_de_saint_Lambert.jpg"
+summary: >-
+  Born to the nobility, the son of Aper and Herisplindis, he received a good, religious oriented education. Student of
+  Saint Landoaldus and Saint Theodardus. Priest. Bishop of Maastricht, Netherlands in 670. Forced for political reasons
+  into exile from Maastricht from 674 to 681. M
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Diptyque_de_Palude%252C_Martyre_de_saint_Lambert.jpg?width=600
 searchAliases:
-  - "Lambert of Liege"
-  - "Lamberto…"
-  - "Lambertus…"
-  - "Landebertus…"
+  - Lambert of Liege
+  - Lamberto…
+  - Lambertus…
+  - Landebertus…
 birthYear: 635
 deathYear: 700
-born: "c.635 at Maastricht, Netherlands"
-died: "stabbed through the heart by a javelin c.700 at the chapel of Saint Cosmas and Saint Damian, Li&egrave;ge, Belgium while celebrating Mass"
-birthPlace: "Netherlands"
-deathPlace: "Li&egrave;ge, Belgium while celebrating Mass"
-region: "Netherlands"
+born: c.635 at Maastricht, Netherlands
+died: >-
+  stabbed through the heart by a javelin c.700 at the chapel of Saint Cosmas and Saint Damian, Li&egrave;ge, Belgium
+  while celebrating Mass
+birthPlace: Netherlands
+deathPlace: Li&egrave;ge, Belgium while celebrating Mass
+region: Netherlands
 feastDay:
   month: 9
   day: 17
@@ -25,16 +30,19 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - "against epilepsy"
-  - "children"
-  - "dentists"
-  - "physicians"
-  - "surgeons"
-  - "truss makers"
-  - "–"
-  - "in Belgium\n\nLiège, diocese of"
-  - "Émines"
-  - "Montegnée"
+  - against epilepsy
+  - children
+  - dentists
+  - physicians
+  - surgeons
+  - truss makers
+  - –
+  - |-
+    in Belgium
+
+    Liège, diocese of
+  - Émines
+  - Montegnée
 martyr: true
 ---
 

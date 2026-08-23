@@ -1,17 +1,21 @@
 ---
-name: "Blessed Cyprian Michael Iwene Tansi"
+name: Blessed Cyprian Michael Iwene Tansi
 honorific: Blessed
-summary: "Son of Tabansi of Igboezunu-Aguleri and Ejikwevi of Nteje; one of five children. Though his parents were non-Christian, they sent the boy to live with and be educated by a Christian uncle. He was baptised on 7 January 1912, and given the name Michael. Studied at Onitsha and Agule"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Blessed_Cyprian_Michael_Iwene_Tansi_by_Leicester_Thomas.jpg/960px-Blessed_Cyprian_Michael_Iwene_Tansi_by_Leicester_Thomas.jpg"
+summary: >-
+  Son of Tabansi of Igboezunu-Aguleri and Ejikwevi of Nteje; one of five children. Though his parents were
+  non-Christian, they sent the boy to live with and be educated by a Christian uncle. He was baptised on 7 January 1912,
+  and given the name Michael. Studied at Onitsha and Agule
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Blessed_Cyprian_Michael_Iwene_Tansi_by_Leicester_Thomas.jpg?width=600
 searchAliases:
-  - "Iwemmaduegbunam"
+  - Iwemmaduegbunam
 birthYear: 1903
 deathYear: 1964
-born: "September 1903 in Igboezum, Aguleri, Nigeria as Iwemmaduegbunam"
-died: "20 January 1964 at the Royal Infirmary, Leicester, England"
-birthPlace: "Aguleri, Nigeria as Iwemmaduegbunam"
-deathPlace: "Leicester, England"
-region: "Africa"
+born: September 1903 in Igboezum, Aguleri, Nigeria as Iwemmaduegbunam
+died: 20 January 1964 at the Royal Infirmary, Leicester, England
+birthPlace: Aguleri, Nigeria as Iwemmaduegbunam
+deathPlace: Leicester, England
+region: Africa
 feastDay:
   month: 1
   day: 20
@@ -19,7 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

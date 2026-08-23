@@ -1,17 +1,20 @@
 ---
-name: "Saint Francis Borgia"
+name: Saint Francis Borgia
 honorific: Saint
-summary: "Born to the nobility, the great-grandson of Pope Alexander VI; grandson of King Ferdinand of Aragon; son of Duke Juan Borgia. Raised in the court of King Charles V and educated at Saragossa, Spain. Married Eleanor de Castro in 1529, and the father of eight children. Accompanied C"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/San_Francisco_de_Borja.jpg/960px-San_Francisco_de_Borja.jpg"
+summary: >-
+  Born to the nobility, the great-grandson of Pope Alexander VI; grandson of King Ferdinand of Aragon; son of Duke Juan
+  Borgia. Raised in the court of King Charles V and educated at Saragossa, Spain. Married Eleanor de Castro in 1529, and
+  the father of eight children. Accompanied C
+image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Francisco_de_Borja.jpg?width=600
 searchAliases:
-  - "Francisco de Borja y Aragon"
+  - Francisco de Borja y Aragon
 birthYear: 1510
 deathYear: 1572
-born: "28 October 1510 at Gandia, Valencia, Spain"
-died: "30 September 1572 at Ferrara, Italy"
-birthPlace: "Valencia, Spain"
-deathPlace: "Italy"
-region: "Peru"
+born: 28 October 1510 at Gandia, Valencia, Spain
+died: 30 September 1572 at Ferrara, Italy
+birthPlace: Valencia, Spain
+deathPlace: Italy
+region: Peru
 feastDay:
   month: 9
   day: 30
@@ -20,11 +23,11 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against earthquakes (proclaimed for Portugal on 24 March 1756 by Pope Benedict XIV)"
-  - "Portugal (proclaimed on 13 June 1934 by Pope Pius XI)"
-  - "Rota, Marianas"
+  - against earthquakes (proclaimed for Portugal on 24 March 1756 by Pope Benedict XIV)
+  - Portugal (proclaimed on 13 June 1934 by Pope Pius XI)
+  - Rota, Marianas
 martyr: false
 ---
 

@@ -1,18 +1,21 @@
 ---
-name: "Blessed Dermot O'Hurley"
+name: Blessed Dermot O'Hurley
 honorific: Blessed
-summary: "Born to a wealthy family, the son of William O'Brien O'Hurley and Honoria. Studied at the University of Leuven, Belgium where he obtained his law degree. Dean of the law school at Leuven for 15 years. Taught in Rheims, France for 4 years. Chosen archbishop of Cashel, Ireland by P"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Plaque_to_martyr_bishop.jpg/960px-Plaque_to_martyr_bishop.jpg"
+summary: >-
+  Born to a wealthy family, the son of William O'Brien O'Hurley and Honoria. Studied at the University of Leuven,
+  Belgium where he obtained his law degree. Dean of the law school at Leuven for 15 years. Taught in Rheims, France for
+  4 years. Chosen archbishop of Cashel, Ireland by P
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Plaque_to_martyr_bishop.jpg?width=600
 searchAliases:
-  - "Dermit"
-  - "Diarmaid Ó Hiarlatha"
+  - Dermit
+  - Diarmaid Ó Hiarlatha
 birthYear: 1530
 deathYear: 1584
-born: "c.1530 in Emly, County Tipperary, Ireland"
-died: "hanged on 20 June 1584 at Hoggen Green, (modern College Green) Dublin, Ireland"
-birthPlace: "County Tipperary, Ireland"
-deathPlace: "(modern College Green) Dublin, Ireland"
-region: "Belgium"
+born: c.1530 in Emly, County Tipperary, Ireland
+died: hanged on 20 June 1584 at Hoggen Green, (modern College Green) Dublin, Ireland
+birthPlace: County Tipperary, Ireland
+deathPlace: (modern College Green) Dublin, Ireland
+region: Belgium
 feastDay:
   month: 6
   day: 20

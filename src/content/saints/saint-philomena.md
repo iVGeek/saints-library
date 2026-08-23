@@ -2,8 +2,10 @@
 name: Saint Philomena
 honorific: Saint
 title: St. Philomena
-summary: "Little is known of her life, and the information was have was received by private revelation from her. Martyred at about age 14 in the early days of the Church. In 1802 the remains of a young woman we..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tela_di_Santa_Filomena.jpg/960px-Tela_di_Santa_Filomena.jpg"
+summary: >-
+  Little is known of her life, and the information was have was received by private revelation from her. Martyred at
+  about age 14 in the early days of the Church. In 1802 the remains of a young woman we...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Tela_di_Santa_Filomena.jpg?width=600
 imageAlt: Portrait of Saint Philomena
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,7 +13,8 @@ searchAliases:
   - Filumena
   - Philumena
   - Philomene
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 8
   day: 11

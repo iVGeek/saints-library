@@ -1,16 +1,19 @@
 ---
-name: "Pope Blessed Pius IX"
+name: Pope Blessed Pius IX
 honorific: Blessed
-summary: "Son of Gerolamo Ferretti and Caterina Solazzi, local nobles, the family's ninth child. Frail, intelligent and pious boy who suffered from epilepsy when young. Educated at the Piarist College, Volterra, Italy from 1802 to 1809. Studied in Rome from 1809 to 1810 due to political di"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg/960px-Pius_IX%2C_by_Adolphe_Braun%2C_1875.jpg"
+summary: >-
+  Son of Gerolamo Ferretti and Caterina Solazzi, local nobles, the family's ninth child. Frail, intelligent and pious
+  boy who suffered from epilepsy when young. Educated at the Piarist College, Volterra, Italy from 1802 to 1809. Studied
+  in Rome from 1809 to 1810 due to political di
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pius_IX%252C_by_Adolphe_Braun%252C_1875.jpg?width=600
 searchAliases:
-  - "Giovanni Maria Mastai-Ferretti"
+  - Giovanni Maria Mastai-Ferretti
 birthYear: 1792
 deathYear: 1878
-born: "13 May 1792 in Senigallia, Italy as Giovanni Maria Mastai Ferretti"
-died: "7 February 1878 in Vatican City of natural causes"
-birthPlace: "Italy as Giovanni Maria Mastai Ferretti"
-region: "Chile"
+born: 13 May 1792 in Senigallia, Italy as Giovanni Maria Mastai Ferretti
+died: 7 February 1878 in Vatican City of natural causes
+birthPlace: Italy as Giovanni Maria Mastai Ferretti
+region: Chile
 feastDay:
   month: 2
   day: 7
@@ -19,7 +22,7 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "Bavarian Congregation"
+  - Bavarian Congregation
 martyr: false
 ---
 

@@ -1,11 +1,14 @@
 ---
-name: "Saint Edward the Confessor"
+name: Saint Edward the Confessor
 honorific: Saint
-summary: "Born a prince, the son of King Ethelred II and Queen Emma; half-brother to King Edmund Ironside and King Hardicanute. When his father was unseated by Danish invasion. Edward and his brother were sent to Denmark to be quietly killed, but the officer in charge took pity on the boys"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/960px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg"
+summary: >-
+  Born a prince, the son of King Ethelred II and Queen Emma; half-brother to King Edmund Ironside and King Hardicanute.
+  When his father was unseated by Danish invasion. Edward and his brother were sent to Denmark to be quietly killed, but
+  the officer in charge took pity on the boys
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux_Tapestry_scene1_EDWARD_REX.jpg?width=600
 deathYear: 1066
-died: "5 January 1066 of natural causes"
-region: "Scandinavia"
+died: 5 January 1066 of natural causes
+region: Scandinavia
 feastDay:
   month: 1
   day: 5
@@ -15,14 +18,14 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "difficult marriages"
-  - "English royal family"
-  - "kings"
-  - "separated spouses"
-  - "—"
-  - "Sestriere, Italy"
-  - "England (former tradition)"
-  - "Westminster, England, archdiocese of"
+  - difficult marriages
+  - English royal family
+  - kings
+  - separated spouses
+  - —
+  - Sestriere, Italy
+  - England (former tradition)
+  - Westminster, England, archdiocese of
 martyr: false
 ---
 

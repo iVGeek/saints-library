@@ -1,17 +1,18 @@
 ---
-name: "Saint Swithun"
+name: Saint Swithun
 honorific: Saint
-summary: " His patr Raised in an abbey. Priest. Chaplain to Egbert, King of the West Saxons. Tutor to prince Ethelwolf. Bishop of Winchester, England. Miracles associated with his relics. His shrine was destroyed during the Reformation. Almost 60 ancient British churches were named for him."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg/960px-St_Swithun%2C_Benedictional_of_%C3%86thelwold%2C_London%2C_BL%2C_Ms_Add._19598%2C_Fol_90V.jpg"
+summary: ' His patr Raised in an abbey. Priest. Chaplain to Egbert, King of the West Saxons. Tutor to prince Ethelwolf. Bishop of Winchester, England. Miracles associated with his relics. His shrine was destroyed during the Reformation. Almost 60 ancient British churches were named for him.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/St_Swithun%252C_Benedictional_of_%25C3%2586thelwold%252C_London%252C_BL%252C_Ms_Add._19598%252C_Fol_90V.jpg?width=600
 searchAliases:
-  - "Swithin"
-  - "Svithin"
+  - Swithin
+  - Svithin
 birthYear: 800
 deathYear: 862
-born: "c.800 at Wessex, England"
-died: "2 July 862 of natural causes"
-birthPlace: "England"
-region: "England"
+born: c.800 at Wessex, England
+died: 2 July 862 of natural causes
+birthPlace: England
+region: England
 feastDay:
   month: 7
   day: 2
@@ -21,9 +22,9 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against drought"
-  - "Stavenger, England"
-  - "Winchester, England"
+  - against drought
+  - Stavenger, England
+  - Winchester, England
 martyr: false
 ---
 

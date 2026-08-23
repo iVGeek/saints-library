@@ -1,18 +1,21 @@
 ---
-name: "Saint John the Baptist"
+name: Saint John the Baptist
 honorific: Saint
-summary: "Cousin of Jesus Christ. Son of Zachary, a priest of the order of Abia whose job in the temple was to burn incense; and of Elizabeth, a descendent of Aaron. As Zachary was ministering in the Temple, an angel brought him news that Elizabeth would bear a child filled with the Holy S"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg/960px-Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg"
+summary: >-
+  Cousin of Jesus Christ. Son of Zachary, a priest of the order of Abia whose job in the temple was to burn incense; and
+  of Elizabeth, a descendent of Aaron. As Zachary was ministering in the Temple, an angel brought him news that
+  Elizabeth would bear a child filled with the Holy S
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Accademia_-_St_John_the_Baptist_by_Titian_Cat314.jpg?width=600
 searchAliases:
-  - "Iohannes Baptista"
-  - "Joannes Baptista"
-  - "John the Baptizer"
-  - "John the Forerunner"
-  - "John, son of Zachary"
-  - "Juan Bautista"
-  - "Yochanan ben Zecharyah"
-died: "beheaded c.30 at Machaerus"
-region: "Holy Land"
+  - Iohannes Baptista
+  - Joannes Baptista
+  - John the Baptizer
+  - John the Forerunner
+  - John, son of Zachary
+  - Juan Bautista
+  - Yochanan ben Zecharyah
+died: beheaded c.30 at Machaerus
+region: Holy Land
 feastDay:
   month: 6
   day: 24
@@ -21,63 +24,66 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against convulsions"
-  - "against epilepsy"
-  - "against migraines"
-  - "convulsive children"
-  - "epileptics"
-  - "–"
-  - "bird dealers"
-  - "cutlers"
-  - "cutters"
-  - "farriers"
-  - "health spas"
-  - "innkeepers"
-  - "monks"
-  - "printers"
-  - "tailors"
-  - "tanners"
-  - "wool carders or combers"
-  - "–"
-  - "against hail"
-  - "against hailstorms"
-  - "against spasms"
-  - "Baptism"
-  - "baptisteries"
-  - "converts"
-  - "death row prisoners"
-  - "French Canadians"
-  - "lambs"
-  - "monastic life"
-  - "motorways, highways, roads"
-  - "prisoners"
-  - "singers"
-  - "–"
-  - "Jordan"
-  - "Puerto Rico"
-  - "–"
-  - "Almenara, Brazil, diocese of"
-  - "Auchi, Nigeria, diocese of"
-  - "Belley-Ars, France, diocese of"
-  - "Charleston, South Carolina, diocese of"
-  - "Dodge City, Kansas, diocese of"
-  - "Genoa, Italy, archdiocese of"
-  - "Gurk, Austria, diocese of"
-  - "Montepulciano-Chiusi-Pienza, Italy, diocese of"
-  - "Ndalatando, Angola, diocese of"
-  - "Nicolet, Québec, diocese of"
-  - "Paterson, New Jersey, diocese of"
-  - "Portland, Maine, diocese of"
-  - "Ragusa, Italy, diocese of"
-  - "Saint John's, Newfoundland, diocese of"
-  - "Savannah, Georgia, diocese of"
-  - "Sora-Cassino-Aquino-Pontecorvo, Italy, diocese of"
-  - "–"
-  - "in Belgium\n\nHerve"
-  - "Molenbeek-Saint-Jean"
-  - "Welkenraedt"
+  - against convulsions
+  - against epilepsy
+  - against migraines
+  - convulsive children
+  - epileptics
+  - –
+  - bird dealers
+  - cutlers
+  - cutters
+  - farriers
+  - health spas
+  - innkeepers
+  - monks
+  - printers
+  - tailors
+  - tanners
+  - wool carders or combers
+  - –
+  - against hail
+  - against hailstorms
+  - against spasms
+  - Baptism
+  - baptisteries
+  - converts
+  - death row prisoners
+  - French Canadians
+  - lambs
+  - monastic life
+  - motorways, highways, roads
+  - prisoners
+  - singers
+  - –
+  - Jordan
+  - Puerto Rico
+  - –
+  - Almenara, Brazil, diocese of
+  - Auchi, Nigeria, diocese of
+  - Belley-Ars, France, diocese of
+  - Charleston, South Carolina, diocese of
+  - Dodge City, Kansas, diocese of
+  - Genoa, Italy, archdiocese of
+  - Gurk, Austria, diocese of
+  - Montepulciano-Chiusi-Pienza, Italy, diocese of
+  - Ndalatando, Angola, diocese of
+  - Nicolet, Québec, diocese of
+  - Paterson, New Jersey, diocese of
+  - Portland, Maine, diocese of
+  - Ragusa, Italy, diocese of
+  - Saint John's, Newfoundland, diocese of
+  - Savannah, Georgia, diocese of
+  - Sora-Cassino-Aquino-Pontecorvo, Italy, diocese of
+  - –
+  - |-
+    in Belgium
+
+    Herve
+  - Molenbeek-Saint-Jean
+  - Welkenraedt
 martyr: true
 ---
 

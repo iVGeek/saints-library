@@ -1,28 +1,32 @@
 ---
-name: "Saint Bernard of Corleone"
+name: Saint Bernard of Corleone
 honorific: Venerable
-summary: "Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a man named Canino in a duel, he sought sanctuary from the law in the church of the Capuchin Friars Minor in Palermo. While hiding there, he had a true conversion,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fortunat_Bergant_-_Sv._Bernard_Korleonski.jpg/960px-Fortunat_Bergant_-_Sv._Bernard_Korleonski.jpg"
+summary: >-
+  Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a
+  man named Canino in a duel, he sought sanctuary from the law in the church of the Capuchin Friars Minor in Palermo.
+  While hiding there, he had a true conversion,
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Fortunat_Bergant_-_Sv._Bernard_Korleonski.jpg?width=600
 searchAliases:
-  - "Bernardo de Corleone"
-  - "Brother Bernardo"
-  - "Filippo Latino"
-  - "Philipi Latini"
+  - Bernardo de Corleone
+  - Brother Bernardo
+  - Filippo Latino
+  - Philipi Latini
 birthYear: 1605
 deathYear: 1667
-born: "6 February 1605 at Corleone, Palermo, Sicily as Filippo Latino"
-died: "12 January 1667 at Palermo, Sicily"
-birthPlace: "Palermo, Sicily as Filippo Latino"
-deathPlace: "Sicily"
-region: "Italy"
+born: 6 February 1605 at Corleone, Palermo, Sicily as Filippo Latino
+died: 12 January 1667 at Palermo, Sicily
+birthPlace: Palermo, Sicily as Filippo Latino
+deathPlace: Sicily
+region: Italy
 feastDay:
   month: 1
   day: 12
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Monk
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: false
 ---
 

@@ -1,14 +1,14 @@
 ---
-name: "Saint Felicitas of Padua"
+name: Saint Felicitas of Padua
 honorific: Saint
-summary: "Nun in Padua, Italy."
-died: "9th century"
-region: "Italy"
+summary: Nun in Padua, Italy.
+died: 9th century
+region: Italy
 feastDay:
   month: 3
   day: 26
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbazia_di_Santa_Giustina.jpg/960px-Abbazia_di_Santa_Giustina.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Abbazia_di_Santa_Giustina.jpg?width=600
 vocation:
   - Virgin
   - Religious

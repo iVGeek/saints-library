@@ -1,22 +1,22 @@
 ---
-name: "Saint Felix of Cantalice"
+name: Saint Felix of Cantalice
 honorific: Saint
-summary: " Having little education, Felix had a friend read him th Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Rubens_Felice_da_Cantalice.JPG/960px-Rubens_Felice_da_Cantalice.JPG"
+summary: ' Having little education, Felix had a friend read him th Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Rubens_Felice_da_Cantalice.JPG?width=600
 searchAliases:
-  - "Ass of the Capuchins (his own nickname for himself)"
-  - "Brother Deo Gratias (“Deo Gratias” was his habitual greeting)"
-  - "Felix of Catalicio"
-  - "Felix of Cantalica"
-  - "Felice Porri"
-  - "Feliks z Cantalice"
+  - Ass of the Capuchins (his own nickname for himself)
+  - Brother Deo Gratias (“Deo Gratias” was his habitual greeting)
+  - Felix of Catalicio
+  - Felix of Cantalica
+  - Felice Porri
+  - Feliks z Cantalice
 birthYear: 1515
 deathYear: 1587
-born: "18 May 1515 at Cantalice, Abruzzi, Italy"
-died: "18 May 1587 at Rome, Italy of natural causes"
-birthPlace: "Abruzzi, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 18 May 1515 at Cantalice, Abruzzi, Italy
+died: 18 May 1587 at Rome, Italy of natural causes
+birthPlace: Abruzzi, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 18
@@ -24,9 +24,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Cantalice, Italy"
+  - Cantalice, Italy
 martyr: false
 ---
 

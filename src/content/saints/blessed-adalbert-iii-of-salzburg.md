@@ -1,14 +1,17 @@
 ---
-name: "Blessed Adalbert III of Salzburg"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG/960px-Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG"
+name: Blessed Adalbert III of Salzburg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG?width=600
 honorific: Blessed
-summary: "Son of King Ladislas II of Bohemia and Gertrude of Austria; grand-son of Emperor Henry IV. Norbertine monk. Canon of the Stahov monastery. Deacon. Archbishop of Salzburg, Austria in 1168. The position included secular power as well as ecclesiastical, and Adalbert began exercising"
+summary: >-
+  Son of King Ladislas II of Bohemia and Gertrude of Austria; grand-son of Emperor Henry IV. Norbertine monk. Canon of
+  the Stahov monastery. Deacon. Archbishop of Salzburg, Austria in 1168. The position included secular power as well as
+  ecclesiastical, and Adalbert began exercising
 birthYear: 1145
 deathYear: 1200
-born: "1145 in Bohemia"
-died: "8 April 1200 in Salzburg, Austria of natural causes"
-deathPlace: "Austrianatural causes"
-region: "Czech Republic"
+born: 1145 in Bohemia
+died: 8 April 1200 in Salzburg, Austria of natural causes
+deathPlace: Austrianatural causes
+region: Czech Republic
 feastDay:
   month: 4
   day: 23

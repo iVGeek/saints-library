@@ -1,19 +1,23 @@
 ---
-name: "Saint Fiacre"
+name: Saint Fiacre
 honorific: Saint
-summary: "Brother of Saint Syra of Troyes. Raised in an Irish monastery, which in the 7th century were great repositories of learning, including the use of healing herbs, a skill studied by Fiacre. His knowledge and holiness caused followers to flock to him, which destroyed the holy isolat"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg/960px-Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg"
+summary: >-
+  Brother of Saint Syra of Troyes. Raised in an Irish monastery, which in the 7th century were great repositories of
+  learning, including the use of healing herbs, a skill studied by Fiacre. His knowledge and holiness caused followers
+  to flock to him, which destroyed the holy isolat
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Eglise_Notre-Dame_Bar-le-Duc_Vitrail_Saint_Fiacre_30_04_2012.jpg?width=600
 searchAliases:
-  - "Fefvre"
-  - "Fevre"
-  - "Fiachrach"
-  - "Fiacrius"
-  - "Fiaker"
-  - "Fiachra"
-  - "Fiacrio"
+  - Fefvre
+  - Fevre
+  - Fiachrach
+  - Fiacrius
+  - Fiaker
+  - Fiachra
+  - Fiacrio
 deathYear: 670
-died: "18 August 670 of natural causes"
-region: "France"
+died: 18 August 670 of natural causes
+region: France
 feastDay:
   month: 8
   day: 30
@@ -22,38 +26,38 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against barrenness"
-  - "against blindness"
-  - "against colic"
-  - "against fever"
-  - "against fistula"
-  - "against haemorrhoids or piles"
-  - "against headache"
-  - "against sterility"
-  - "against syphilis"
-  - "against venereal disease"
-  - "sick people"
-  - "–"
-  - "box makers"
-  - "brass workers"
-  - "cab drivers"
-  - "coppersmiths"
-  - "florists"
-  - "gardeners"
-  - "hat makers, cap makers"
-  - "harvests"
-  - "hosiers"
-  - "lead workers"
-  - "needle makers"
-  - "pewterers, pewtersmiths"
-  - "potters"
-  - "taxi drivers"
-  - "tile makers"
-  - "trellis makers"
-  - "–"
-  - "Saint-Fiacre, Seine-et-Marne, France"
+  - against barrenness
+  - against blindness
+  - against colic
+  - against fever
+  - against fistula
+  - against haemorrhoids or piles
+  - against headache
+  - against sterility
+  - against syphilis
+  - against venereal disease
+  - sick people
+  - –
+  - box makers
+  - brass workers
+  - cab drivers
+  - coppersmiths
+  - florists
+  - gardeners
+  - hat makers, cap makers
+  - harvests
+  - hosiers
+  - lead workers
+  - needle makers
+  - pewterers, pewtersmiths
+  - potters
+  - taxi drivers
+  - tile makers
+  - trellis makers
+  - –
+  - Saint-Fiacre, Seine-et-Marne, France
 martyr: false
 ---
 

@@ -2,14 +2,17 @@
 name: Saint Paul Miki
 honorific: Saint
 title: St. Paul Miki
-summary: "Born wealthy, the son of the military leader Miki Handayu. Paul felt a call to religous life from his youth. Jesuit in 1580, educated at the Jesuit college at Azuchi and Takatsuki. Successful evangeli..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bamberg_St_Martin_Figur_Paul_Miki.jpg/960px-Bamberg_St_Martin_Figur_Paul_Miki.jpg"
+summary: >-
+  Born wealthy, the son of the military leader Miki Handayu. Paul felt a call to religous life from his youth. Jesuit in
+  1580, educated at the Jesuit college at Azuchi and Takatsuki. Successful evangeli...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Bamberg_St_Martin_Figur_Paul_Miki.jpg?width=600
 imageAlt: Portrait of Saint Paul Miki
 imageCredit: Wikimedia Commons
 birthYear: 1562
-born: "1562"
-birthPlace: "Tsunokuni"
-centuries: [16]
+born: '1562'
+birthPlace: Tsunokuni
+centuries:
+  - 16
 feastDay:
   month: 2
   day: 6
@@ -23,7 +26,7 @@ symbols:
   - Cross
 martyr: true
 lifeEvents:
-  - year: "1562"
+  - year: '1562'
     event: Born at Tsunokuni.
 ---
 

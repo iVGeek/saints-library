@@ -1,25 +1,28 @@
 ---
-name: "Blessed Veronica of Milan"
+name: Blessed Veronica of Milan
 honorific: Blessed
-summary: "Grew up in a poor peasant family in a small village, doing chores and working the fields. She had no formal education, and tried unsuccessfully to teach herself to read at night. She began to have religious ecstasies, visions of the life of Christ, and was taught her catechism by"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Beata_Veronica.jpg/960px-Beata_Veronica.jpg"
+summary: >-
+  Grew up in a poor peasant family in a small village, doing chores and working the fields. She had no formal education,
+  and tried unsuccessfully to teach herself to read at night. She began to have religious ecstasies, visions of the life
+  of Christ, and was taught her catechism by
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Beata_Veronica.jpg?width=600
 searchAliases:
-  - "Veronica of Binasco"
+  - Veronica of Binasco
 birthYear: 1445
 deathYear: 1497
-born: "c.1445 at Binasco, Italy, a small village near Milan"
-died: "13 January 1497 in Milan, Italy of natural causes"
-birthPlace: "Italy, a small village near Milan"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.1445 at Binasco, Italy, a small village near Milan
+died: 13 January 1497 in Milan, Italy of natural causes
+birthPlace: Italy, a small village near Milan
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 13
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Binasco, Italy"
+  - Binasco, Italy
 martyr: false
 ---
 

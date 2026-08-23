@@ -1,18 +1,18 @@
 ---
-name: "Saint Palladius of Saintes"
+name: Saint Palladius of Saintes
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Saintes, France in 570."
+title: Bishop
+summary: Bishop of Saintes, France in 570.
 searchAliases:
-  - "Palladio"
+  - Palladio
 deathYear: 590
-died: "c.590"
-region: "France"
+died: c.590
+region: France
 feastDay:
   month: 10
   day: 7
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pallais_de_Saintes_%28cropped%29.JPG/960px-Pallais_de_Saintes_%28cropped%29.JPG"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pallais_de_Saintes_%2528cropped%2529.JPG?width=600
 vocation:
   - Bishop
 martyr: false

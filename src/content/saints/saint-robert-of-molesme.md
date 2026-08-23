@@ -1,16 +1,19 @@
 ---
-name: "Saint Robert of Molesme"
+name: Saint Robert of Molesme
 honorific: Saint
-summary: "Born to the French nobility. Benedictine monk in 1044. Prior of Moutiers-la-Celle Abbey. Abbot of Saint-Michel-de-Tonnerre, but considered it to have lax standards. Prior of Saint-Ayeul Abbey. In 1075, in an attempt to return to a simpler form of Benedictine life requested by a g"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG/960px-Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG"
+summary: >-
+  Born to the French nobility. Benedictine monk in 1044. Prior of Moutiers-la-Celle Abbey. Abbot of
+  Saint-Michel-de-Tonnerre, but considered it to have lax standards. Prior of Saint-Ayeul Abbey. In 1075, in an attempt
+  to return to a simpler form of Benedictine life requested by a g
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Robert_de_Molesme_statue_XVIe_point_peint_08345.JPG?width=600
 searchAliases:
-  - "Robert of Cîteaux"
+  - Robert of Cîteaux
 birthYear: 1027
 deathYear: 1110
-born: "1027 near Troyes, Champagne (in modern France)"
-died: "21 March 1110 of natural causes"
-birthPlace: "Champagne (modern France)"
-region: "France"
+born: 1027 near Troyes, Champagne (in modern France)
+died: 21 March 1110 of natural causes
+birthPlace: Champagne (modern France)
+region: France
 feastDay:
   month: 4
   day: 17
@@ -19,9 +22,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Cîteaux Abbey"
+  - Cîteaux Abbey
 martyr: false
 ---
 

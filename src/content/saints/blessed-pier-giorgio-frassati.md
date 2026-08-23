@@ -1,18 +1,21 @@
 ---
-name: "Blessed Pier Giorgio Frassati"
+name: Blessed Pier Giorgio Frassati
 honorific: Blessed
-summary: "Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an agnostic, the founder and editor of the liberal newspaper La Stampa, and became the Italian ambassador to Germany. A pious youth, average student, outstanding athle"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PierGiorgioFrassati-Pr%C3%A9sentation.jpg/960px-PierGiorgioFrassati-Pr%C3%A9sentation.jpg"
+summary: >-
+  Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an
+  agnostic, the founder and editor of the liberal newspaper La Stampa, and became the Italian ambassador to Germany. A
+  pious youth, average student, outstanding athle
+image: https://commons.wikimedia.org/wiki/Special:FilePath/PierGiorgioFrassati-Pr%25C3%25A9sentation.jpg?width=600
 searchAliases:
-  - "Man of the Eight Beatitudes"
-  - "Girolamo"
+  - Man of the Eight Beatitudes
+  - Girolamo
 birthYear: 1901
 deathYear: 1925
-born: "6 April 1901 in Turin, Italy"
-died: "4 July 1925 in Turin, Italy of poliomylelitis"
-birthPlace: "Italy"
-deathPlace: "Italypoliomylelitis"
-region: "Germany"
+born: 6 April 1901 in Turin, Italy
+died: 4 July 1925 in Turin, Italy of poliomylelitis
+birthPlace: Italy
+deathPlace: Italypoliomylelitis
+region: Germany
 feastDay:
   month: 7
   day: 4
@@ -20,9 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "World Youth Day 2023"
+  - World Youth Day 2023
 martyr: false
 ---
 

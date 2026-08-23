@@ -1,21 +1,25 @@
 ---
-name: "Blessed Mafalda of Portugal"
+name: Blessed Mafalda of Portugal
 honorific: Blessed
-summary: "Born a princess, the daughter of King Sancho I of Portugal. Sister of Saint Theresa of Portugal and Saint Sancha of Portugal. Portugal was involved in a war to reclaim the Iberian peninsula from the Moors, and to seal an alliance with the neighboring kingdom of Castile, a marriag"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/D._Mafalda_de_Portugal%2C_Rainha_de_Castela_-_The_Portuguese_Genealogy_%28Genealogia_dos_Reis_de_Portugal%29.png/960px-D._Mafalda_de_Portugal%2C_Rainha_de_Castela_-_The_Portuguese_Genealogy_%28Genealogia_dos_Reis_de_Portugal%29.png"
+summary: >-
+  Born a princess, the daughter of King Sancho I of Portugal. Sister of Saint Theresa of Portugal and Saint Sancha of
+  Portugal. Portugal was involved in a war to reclaim the Iberian peninsula from the Moors, and to seal an alliance with
+  the neighboring kingdom of Castile, a marriag
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/D._Mafalda_de_Portugal%252C_Rainha_de_Castela_-_The_Portuguese_Genealogy_%2528Genealogia_dos_Reis_de_Portugal%2529.png?width=600
 birthYear: 1184
 deathYear: 1257
-born: "1184 in Portugal"
-died: "2 May 1257 in Arouca, Portugal"
-deathPlace: "Portugal"
-region: "Portugal"
+born: 1184 in Portugal
+died: 2 May 1257 in Arouca, Portugal
+deathPlace: Portugal
+region: Portugal
 feastDay:
   month: 5
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

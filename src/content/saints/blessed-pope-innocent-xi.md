@@ -1,17 +1,21 @@
 ---
-name: "Blessed Pope Innocent XI"
+name: Blessed Pope Innocent XI
 honorific: Blessed
-summary: "Born to a pious patrician family; his brother became bishop of Novara, Italy. Benedetto felt an early call to the priesthood. Educated by Jesuits at Como, Italy. Apprentice at his family's bank in Genoa, Italy when he was fifteen. Studied law at Rome and Naples in Italy, and rece"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jacob_Ferdinand_Voet_Portrait_of_Innocenzo_XI_Odescalchi.jpeg/960px-Jacob_Ferdinand_Voet_Portrait_of_Innocenzo_XI_Odescalchi.jpeg"
+summary: >-
+  Born to a pious patrician family; his brother became bishop of Novara, Italy. Benedetto felt an early call to the
+  priesthood. Educated by Jesuits at Como, Italy. Apprentice at his family's bank in Genoa, Italy when he was fifteen.
+  Studied law at Rome and Naples in Italy, and rece
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Ferdinand_Voet_Portrait_of_Innocenzo_XI_Odescalchi.jpeg?width=600
 searchAliases:
-  - "Benedetto Odescalchi"
+  - Benedetto Odescalchi
 birthYear: 1611
 deathYear: 1689
-born: "19 May 1611 at Como, Italy as Benedetto Odescalchi"
-died: "12 August 1689 at Rome, Italy of natural causes"
-birthPlace: "Italy as Benedetto Odescalchi"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 19 May 1611 at Como, Italy as Benedetto Odescalchi
+died: 12 August 1689 at Rome, Italy of natural causes
+birthPlace: Italy as Benedetto Odescalchi
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 8
   day: 12
@@ -20,9 +24,9 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Bavarian Congregation"
+  - Bavarian Congregation
 martyr: false
 ---
 

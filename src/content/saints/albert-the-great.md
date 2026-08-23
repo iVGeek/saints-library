@@ -2,8 +2,10 @@
 name: Albert the Great
 honorific: Saint
 title: Doctor of the Church
-summary: The "Universal Doctor" — Dominican master, bishop, and the medieval West's greatest student of nature, who taught that science and faith belong to the same God.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vicente_salvador_gomez-san_alberto.jpg/330px-Vicente_salvador_gomez-san_alberto.jpg
+summary: >-
+  The "Universal Doctor" — Dominican master, bishop, and the medieval West's greatest student of nature, who taught that
+  science and faith belong to the same God.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Vicente_salvador_gomez-san_alberto.jpg?width=600
 imageAlt: Portrait of Albert the Great
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,13 +20,14 @@ died: 15 November 1280
 birthPlace: Lauingen, Germany
 deathPlace: Cologne, Germany
 region: Germany
-centuries: [13]
+centuries:
+  - 13
 feastDay:
   month: 11
   day: 15
 liturgicalRank: Optional Memorial
 canonizationStatus: Saint
-canonizedDate: "1931"
+canonizedDate: '1931'
 vocation:
   - Bishop
   - Founder
@@ -43,36 +46,36 @@ symbols:
   - Dominican habit
 martyr: false
 lifeEvents:
-  - year: "c. 1206"
+  - year: c. 1206
     event: Born at Lauingen in Swabia, of the noble Bollstädt family.
-  - year: "1223"
+  - year: '1223'
     event: Studies at Padua, where he joins the young Order of Preachers.
-  - year: "1240s"
+  - year: 1240s
     event: Teaches at Cologne; among his students is Thomas Aquinas, whom he nicknames the "dumb ox."
-  - year: "1248"
+  - year: '1248'
     event: Opens the Studium Generale at Cologne, which becomes the great school of Dominican learning.
-  - year: "1250s–1260s"
+  - year: 1250s–1260s
     event: Writes commentaries on nearly every book of Aristotle, on the Bible, and on the natural world.
-  - year: "1260–1262"
+  - year: 1260–1262
     event: Made bishop of Regensburg, against his will, before returning to teaching.
-  - year: "1274"
+  - year: '1274'
     event: Preaches the crusade for the Council of Lyons.
-  - year: "15 November 1280"
+  - year: 15 November 1280
     event: Dies at Cologne, where his tomb remains.
-  - year: "1931"
+  - year: '1931'
     event: Canonized and declared a Doctor of the Church by Pope Pius XI.
 quotes:
   - text: >-
-      The aim of natural science is not simply to accept the statements of others, but to investigate the causes that are at work in nature.
+      The aim of natural science is not simply to accept the statements of others, but to investigate the causes that
+      are at work in nature.
     source: From the writings of Saint Albert the Great
 prayers:
   - name: Prayer to Saint Albert the Great
     kind: Prayer for students and scientists
     text: >-
-      O Saint Albert the Great, who sought the truth in nature and in faith without ever
-      separating them, guide all who study the world you loved. Give students diligence,
-      teachers patience, and scientists the humility to read creation as a book written by the
-      hand of God, who is the source of every truth. Amen.
+      O Saint Albert the Great, who sought the truth in nature and in faith without ever separating them, guide all who
+      study the world you loved. Give students diligence, teachers patience, and scientists the humility to read
+      creation as a book written by the hand of God, who is the source of every truth. Amen.
 relatedSaints:
   - name: Thomas Aquinas
     slug: thomas-aquinas

@@ -2,8 +2,10 @@
 name: James the Greater
 honorific: Saint
 title: Apostle, Martyr
-summary: The son of Zebedee, brother of John, first of the apostles to be martyred — the apostle of Spain whose shrine at Compostela drew the whole medieval world on pilgrimage.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg/330px-Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg
+summary: >-
+  The son of Zebedee, brother of John, first of the apostles to be martyred — the apostle of Spain whose shrine at
+  Compostela drew the whole medieval world on pilgrimage.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg?width=600
 imageAlt: Portrait of James the Greater
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,8 +21,9 @@ born: 1st century
 died: c. 44
 birthPlace: Bethsaida, Israel
 deathPlace: Jerusalem, Israel
-region: "Chile"
-centuries: [1]
+region: Chile
+centuries:
+  - 1
 feastDay:
   month: 7
   day: 25
@@ -41,28 +44,26 @@ symbols:
   - Horse
 martyr: true
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born at Bethsaida, son of Zebedee and Salome, brother of John.
-  - year: "c. AD 27"
+  - year: c. AD 27
     event: Called with his brother from the fishing boat to follow Christ.
-  - year: "c. AD 27–33"
+  - year: c. AD 27–33
     event: Present at the Transfiguration and in the garden of Gethsemane with Peter and John.
-  - year: "c. 44"
+  - year: c. 44
     event: Martyred in Jerusalem by Herod Agrippa I — the first of the apostles to die for Christ.
-  - year: "c. 830"
+  - year: c. 830
     event: The supposed discovery of his relics at Compostela in Spain makes the city a great pilgrimage shrine.
 quotes:
-  - text: >-
-      Can you drink the cup that I am going to drink? We can.
+  - text: Can you drink the cup that I am going to drink? We can.
     source: James and John to Jesus, per the Gospel of Matthew 20:22
 prayers:
   - name: Prayer to Saint James the Greater
     kind: Prayer for pilgrims and for those on the way
     text: >-
-      O Saint James, apostle and pilgrim, who walked with Christ and died for Him, guide all who
-      journey in faith. Keep safe those who travel by land, sea, and air; strengthen the weary;
-      and bring us all at last to the place for which we set out — the kingdom of heaven, where
-      Christ lives and reigns with the Father and the Holy Spirit. Amen.
+      O Saint James, apostle and pilgrim, who walked with Christ and died for Him, guide all who journey in faith. Keep
+      safe those who travel by land, sea, and air; strengthen the weary; and bring us all at last to the place for which
+      we set out — the kingdom of heaven, where Christ lives and reigns with the Father and the Holy Spirit. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

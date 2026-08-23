@@ -1,18 +1,18 @@
 ---
-name: "Saint Osmund"
+name: Saint Osmund
 honorific: Saint
-summary: " Following the Battle of Hastings, he was made royal chaplain and Earl of Son of Henry, count of Seez, Normandy, France. He received a good education, and became count of Seez in his own turn. Companion of William the Conqueror, and part of the force that invaded England in 1066."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saint_Osmund_colored_statue.jpg/960px-Saint_Osmund_colored_statue.jpg"
+summary: ' Following the Battle of Hastings, he was made royal chaplain and Earl of Son of Henry, count of Seez, Normandy, France. He received a good education, and became count of Seez in his own turn. Companion of William the Conqueror, and part of the force that invaded England in 1066.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Osmund_colored_statue.jpg?width=600
 searchAliases:
-  - "Edimund"
-  - "Edmund"
-  - "Osimund"
+  - Edimund
+  - Edmund
+  - Osimund
 deathYear: 1099
-born: "at Seez, Normandy, France"
-died: "4 December 1099 at Salisbury, England of natural causes"
-birthPlace: "Normandy, France"
-deathPlace: "Englandnatural causes"
-region: "France"
+born: at Seez, Normandy, France
+died: 4 December 1099 at Salisbury, England of natural causes
+birthPlace: Normandy, France
+deathPlace: Englandnatural causes
+region: France
 feastDay:
   month: 12
   day: 4
@@ -22,15 +22,15 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against insanity"
-  - "against mental illness"
-  - "against paralysis"
-  - "against ruptures"
-  - "against toothache"
-  - "mentally ill people"
-  - "paralysed people"
-  - "–"
-  - "Salisbury, England"
+  - against insanity
+  - against mental illness
+  - against paralysis
+  - against ruptures
+  - against toothache
+  - mentally ill people
+  - paralysed people
+  - –
+  - Salisbury, England
 martyr: false
 ---
 

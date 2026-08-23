@@ -1,15 +1,20 @@
 ---
-name: "Blessed Joan Roig i Diggle"
+name: Blessed Joan Roig i Diggle
 honorific: Blessed
-summary: "Born to a poor family, the son of Ramón Roig Fuente and Maud Diggle Puckering. Educated by the La Salle Brothers, and then the Piarists. Student of Blessed Ignasi Casanovas Perramón and Blessed Francisco Carceller Galindo. To find work, his family moved to El Masnou, Spain, and w"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Joan-roig-bn-recortado-980x1095.jpg/960px-Joan-roig-bn-recortado-980x1095.jpg"
+summary: >-
+  Born to a poor family, the son of Ramón Roig Fuente and Maud Diggle Puckering. Educated by the La Salle Brothers, and
+  then the Piarists. Student of Blessed Ignasi Casanovas Perramón and Blessed Francisco Carceller Galindo. To find work,
+  his family moved to El Masnou, Spain, and w
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Joan-roig-bn-recortado-980x1095.jpg?width=600
 birthYear: 1917
 deathYear: 1936
-born: "12 May 1917 in Barcelona, Spain"
-died: "shot multiple times over the night of 11 to 12 September 1936 in the cemetery of Sant Coloma de Gramenet, Barcelona, Spain"
-birthPlace: "Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 12 May 1917 in Barcelona, Spain
+died: >-
+  shot multiple times over the night of 11 to 12 September 1936 in the cemetery of Sant Coloma de Gramenet, Barcelona,
+  Spain
+birthPlace: Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 9
   day: 11

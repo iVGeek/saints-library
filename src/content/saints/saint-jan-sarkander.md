@@ -1,24 +1,28 @@
 ---
-name: "Saint Jan Sarkander"
+name: Saint Jan Sarkander
 honorific: Venerable
-summary: "Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of the Protestant Reformation. His father died when Jan was still young, and the family moved to Pribor. He married, but his wife died when they were young, and they"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jan_Sarkander%2C_Macerata_1855.jpg/960px-Jan_Sarkander%2C_Macerata_1855.jpg"
+summary: >-
+  Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of
+  the Protestant Reformation. His father died when Jan was still young, and the family moved to Pribor. He married, but
+  his wife died when they were young, and they
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Sarkander%252C_Macerata_1855.jpg?width=600
 searchAliases:
-  - "John Sarkander"
-  - "Johannes Sarkander"
-  - "Martyr of the Confessional"
+  - John Sarkander
+  - Johannes Sarkander
+  - Martyr of the Confessional
 deathYear: 1620
-died: "covered in flammable material and set on fire on 17 March 1620 at Olomouc, Moravia (in the modern Czech Republic)"
-deathPlace: "Moravia (the modern Czech Republic)"
-region: "Poland"
+died: covered in flammable material and set on fire on 17 March 1620 at Olomouc, Moravia (in the modern Czech Republic)
+deathPlace: Moravia (the modern Czech Republic)
+region: Poland
 feastDay:
   month: 3
   day: 17
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
 ---
 

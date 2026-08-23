@@ -1,17 +1,19 @@
 ---
-name: "Saint Theodore the Sacristan"
+name: Saint Theodore the Sacristan
 honorific: Saint
-summary: "Sixth century sacristan for the Church of Saint Peter in Rome, Italy. Saint Gregory the Great wrote that Theodore often saw angels."
-region: "Italy"
+summary: >-
+  Sixth century sacristan for the Church of Saint Peter in Rome, Italy. Saint Gregory the Great wrote that Theodore
+  often saw angels.
+region: Italy
 feastDay:
   month: 12
   day: 26
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pope-peter_pprubens.jpg/960px-Pope-peter_pprubens.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pope-peter_pprubens.jpg?width=600
 vocation:
   - Monk
 patronage:
-  - "sacristans"
+  - sacristans
 martyr: false
 ---
 

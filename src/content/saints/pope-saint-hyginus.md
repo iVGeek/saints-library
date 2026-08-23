@@ -1,18 +1,20 @@
 ---
-name: "Pope Saint Hyginus"
+name: Pope Saint Hyginus
 honorific: Saint
-summary: "Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with with a series of heretic sects and preachers regularly popping up."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/HyginosI.jpg/960px-HyginosI.jpg"
+summary: >-
+  Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with
+  with a series of heretic sects and preachers regularly popping up.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/HyginosI.jpg?width=600
 searchAliases:
-  - "Higinio"
-  - "Hygin"
-  - "Igino"
+  - Higinio
+  - Hygin
+  - Igino
 deathYear: 142
-born: "Athens, Greece"
-died: "142 in Rome, Italy"
-birthPlace: "Greece"
-deathPlace: "Italy"
-region: "Italy"
+born: Athens, Greece
+died: 142 in Rome, Italy
+birthPlace: Greece
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 11

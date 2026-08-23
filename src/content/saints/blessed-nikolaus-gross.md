@@ -1,15 +1,18 @@
 ---
-name: "Blessed Nikolaus Gross"
+name: Blessed Nikolaus Gross
 honorific: Blessed
-summary: "Miner. Father of seven. Member of the Christian miners' labour union at age 19, and secretary at 22. Member of the Zentrum Christian Party at age 20. Worked on Westdeutschen Arbeiterzeitung, (West German Workers' Newspaper), the newspaper of the Catholic Workers' Movement, at age"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nikolaus_Gro%C3%9F_Ikone_sel.gesprochen_2001.JPG/960px-Nikolaus_Gro%C3%9F_Ikone_sel.gesprochen_2001.JPG"
+summary: >-
+  Miner. Father of seven. Member of the Christian miners' labour union at age 19, and secretary at 22. Member of the
+  Zentrum Christian Party at age 20. Worked on Westdeutschen Arbeiterzeitung, (West German Workers' Newspaper), the
+  newspaper of the Catholic Workers' Movement, at age
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus_Gro%25C3%259F_Ikone_sel.gesprochen_2001.JPG?width=600
 birthYear: 1898
 deathYear: 1945
-born: "30 September 1898 at Niederwenigern, Ruhr region, Germany"
-died: "executed 15 January 1945 at the Berlin-Plotzensee, Germany prison"
-birthPlace: "Ruhr region, Germany"
-deathPlace: "Germany prison"
-region: "Germany"
+born: 30 September 1898 at Niederwenigern, Ruhr region, Germany
+died: executed 15 January 1945 at the Berlin-Plotzensee, Germany prison
+birthPlace: Ruhr region, Germany
+deathPlace: Germany prison
+region: Germany
 feastDay:
   month: 7
   day: 20

@@ -1,15 +1,18 @@
 ---
-name: "Blessed Basil Hopko"
+name: Blessed Basil Hopko
 honorific: Blessed
-summary: "Son of Anna Petrenko and Basil Hopko, poor, landless peasants. His father died when the boy was just a year old, and when he was four his mother emigrated to the United States to look for work. Educated in Hungary, graduating with honors in 1923. Trained at the Eparchial Seminary"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vasil_Hopko_Osek_1967.jpg/960px-Vasil_Hopko_Osek_1967.jpg"
+summary: >-
+  Son of Anna Petrenko and Basil Hopko, poor, landless peasants. His father died when the boy was just a year old, and
+  when he was four his mother emigrated to the United States to look for work. Educated in Hungary, graduating with
+  honors in 1923. Trained at the Eparchial Seminary
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Vasil_Hopko_Osek_1967.jpg?width=600
 birthYear: 1904
 deathYear: 1976
-born: "21 April 1904 at Hrabské, Prešovský kraj, eastern Slovakia"
-died: "23 July 1976 at Prešov, Prešovský kraj, Slovakia"
-birthPlace: "Prešovský kraj, eastern Slovakia"
-deathPlace: "Prešovský kraj, Slovakia"
-region: "Czech Republic"
+born: 21 April 1904 at Hrabské, Prešovský kraj, eastern Slovakia
+died: 23 July 1976 at Prešov, Prešovský kraj, Slovakia
+birthPlace: Prešovský kraj, eastern Slovakia
+deathPlace: Prešovský kraj, Slovakia
+region: Czech Republic
 feastDay:
   month: 7
   day: 23

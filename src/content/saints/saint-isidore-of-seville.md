@@ -1,18 +1,21 @@
 ---
-name: "Saint Isidore of Seville"
+name: Saint Isidore of Seville
 honorific: Saint
-summary: "Son of Severianus and Theodora, people known for their piety. Brother of Saint Fulgentius of Ecija, Saint Florentina of Cartagena, and Saint Leander of Seville, who raised him after their father's death. Initially a poor student, he gave the problem over to God and became one of"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Isidor_von_Sevilla.jpeg/960px-Isidor_von_Sevilla.jpeg"
+summary: >-
+  Son of Severianus and Theodora, people known for their piety. Brother of Saint Fulgentius of Ecija, Saint Florentina
+  of Cartagena, and Saint Leander of Seville, who raised him after their father's death. Initially a poor student, he
+  gave the problem over to God and became one of
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Isidor_von_Sevilla.jpeg?width=600
 searchAliases:
-  - "Isidore the Bishop"
-  - "Schoolmaster of the Middle Ages"
+  - Isidore the Bishop
+  - Schoolmaster of the Middle Ages
 birthYear: 560
 deathYear: 636
-born: "c.560 at Cartagena, Spain"
-died: "4 April 636 at Seville, Spain"
-birthPlace: "Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: c.560 at Cartagena, Spain
+died: 4 April 636 at Seville, Spain
+birthPlace: Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 4
   day: 4
@@ -21,16 +24,16 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "computer technicians"
-  - "computer users"
-  - "computers"
-  - "the Internet"
-  - "schoolchildren"
-  - "students"
-  - "–"
-  - "Cartagena, Spain"
+  - computer technicians
+  - computer users
+  - computers
+  - the Internet
+  - schoolchildren
+  - students
+  - –
+  - Cartagena, Spain
 martyr: false
 ---
 

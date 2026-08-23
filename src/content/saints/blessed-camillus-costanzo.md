@@ -1,17 +1,17 @@
 ---
-name: "Blessed Camillus Costanzo"
+name: Blessed Camillus Costanzo
 honorific: Blessed
-summary: "Jesuit priest. Missionary to Japan. Martyr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Costanzo_Camillus_1.jpg/960px-Costanzo_Camillus_1.jpg"
+summary: Jesuit priest. Missionary to Japan. Martyr.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Costanzo_Camillus_1.jpg?width=600
 searchAliases:
-  - "Giovanni Battista Costanzo"
+  - Giovanni Battista Costanzo
 birthYear: 1571
 deathYear: 1622
-born: "1571 in Bovalino, Reggio Calabria, Italy"
-died: "burned to death on 15 September 1622 in Tabira, Nagasaki, Japan"
-birthPlace: "Reggio Calabria, Italy"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: 1571 in Bovalino, Reggio Calabria, Italy
+died: burned to death on 15 September 1622 in Tabira, Nagasaki, Japan
+birthPlace: Reggio Calabria, Italy
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 9
   day: 15
@@ -20,7 +20,7 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
 ---
 

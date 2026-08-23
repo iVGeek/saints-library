@@ -1,15 +1,18 @@
 ---
-name: "Blessed Antoni Zawistowski"
+name: Blessed Antoni Zawistowski
 honorific: Blessed
-summary: "After high school, Antoni studied at the Metropolitan Seminary in Lublin, Poland, and the Theological Academy in Saint Petersburg, Russia. Ordained a priest for the archdiocese of Lublin in 1906. Father Antoni returned to Lublin where he served as vicar of the cathedral parish, p"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ZawistowskiAntoni.jpg/960px-ZawistowskiAntoni.jpg"
+summary: >-
+  After high school, Antoni studied at the Metropolitan Seminary in Lublin, Poland, and the Theological Academy in Saint
+  Petersburg, Russia. Ordained a priest for the archdiocese of Lublin in 1906. Father Antoni returned to Lublin where he
+  served as vicar of the cathedral parish, p
+image: https://commons.wikimedia.org/wiki/Special:FilePath/ZawistowskiAntoni.jpg?width=600
 birthYear: 1882
 deathYear: 1942
-born: "10 November 1882 in Strumiany, Wielkopolskie, Poland"
-died: "4 June 1942 in the Dachau concentration camp, Oberbayern, Germany of overwork, abuse and neglect"
-birthPlace: "Wielkopolskie, Poland"
-deathPlace: "Oberbayern, Germanyoverwork, abuse and neglect"
-region: "Poland"
+born: 10 November 1882 in Strumiany, Wielkopolskie, Poland
+died: 4 June 1942 in the Dachau concentration camp, Oberbayern, Germany of overwork, abuse and neglect
+birthPlace: Wielkopolskie, Poland
+deathPlace: Oberbayern, Germanyoverwork, abuse and neglect
+region: Poland
 feastDay:
   month: 6
   day: 4
@@ -17,7 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 patronage:
-  - "Metropolitan Seminary in Lublin, Poland"
+  - Metropolitan Seminary in Lublin, Poland
 martyr: true
 ---
 

@@ -1,19 +1,20 @@
 ---
-name: "Saint Chad of Mercia"
+name: Saint Chad of Mercia
 honorific: Saint
-summary: " Not long after Chad became abbot, Saint Wilfrid of York was chosen Bishop Brother of Saint Cedd and Saint Cynibild. Missionary monk to Ireland with Saint Egbert. Ordained in 653. Studied Latin and astronomy. Abbot at Lastingham monastery, Yorkshire, England; abbot to Saint Owen."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Saint_Chad%27s_Church%2C_Wrecsam%2C_Cymru%2C_Wales_71_%28cropped%29.jpg/960px-Saint_Chad%27s_Church%2C_Wrecsam%2C_Cymru%2C_Wales_71_%28cropped%29.jpg"
+summary: ' Not long after Chad became abbot, Saint Wilfrid of York was chosen Bishop Brother of Saint Cedd and Saint Cynibild. Missionary monk to Ireland with Saint Egbert. Ordained in 653. Studied Latin and astronomy. Abbot at Lastingham monastery, Yorkshire, England; abbot to Saint Owen.'
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Chad%2527s_Church%252C_Wrecsam%252C_Cymru%252C_Wales_71_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Chad of Lichfield"
-  - "Ceadda of…."
-  - "Apostle of Mercia"
+  - Chad of Lichfield
+  - Ceadda of….
+  - Apostle of Mercia
 birthYear: 620
 deathYear: 672
-born: "c.620 in Northumbria, England"
-died: "2 March 672 at Lichfield, England of natural causes after a brief illness, probably the plague"
-birthPlace: "England"
-deathPlace: "Englandnatural causes after a brief illness, probably the plague"
-region: "Ireland"
+born: c.620 in Northumbria, England
+died: 2 March 672 at Lichfield, England of natural causes after a brief illness, probably the plague
+birthPlace: England
+deathPlace: Englandnatural causes after a brief illness, probably the plague
+region: Ireland
 feastDay:
   month: 3
   day: 2
@@ -23,11 +24,14 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in England\n\nBirmingham, archdiocese of"
-  - "Lichfield, city of"
-  - "Lichfield, diocese of"
+  - |-
+    in England
+
+    Birmingham, archdiocese of
+  - Lichfield, city of
+  - Lichfield, diocese of
 martyr: true
 ---
 

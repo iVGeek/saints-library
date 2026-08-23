@@ -1,12 +1,15 @@
 ---
-name: "Saint Alena of Brussels"
+name: Saint Alena of Brussels
 honorific: Saint
-summary: "Daughter of a pagan chieftain in an area in modern Belgium. Secret convert to Christianity. One night she slipped out to hear Mass at the chapel in Vorst, Belgium. Her father found out, and ordered guards to follow her; they winessed her walk across the river Senne to reach the c"
+summary: >-
+  Daughter of a pagan chieftain in an area in modern Belgium. Secret convert to Christianity. One night she slipped out
+  to hear Mass at the chapel in Vorst, Belgium. Her father found out, and ordered guards to follow her; they winessed
+  her walk across the river Senne to reach the c
 deathYear: 640
-born: "7th century near Brussels Belgium"
-died: "c.640 in Vorst, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+born: 7th century near Brussels Belgium
+died: c.640 in Vorst, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 6
   day: 24
@@ -16,12 +19,19 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against eye trouble"
-  - "against toothache"
-  - "–"
-  - "in Belgium\n\nBrussels"
-  - "Vorst"
+  - against eye trouble
+  - against toothache
+  - –
+  - |-
+    in Belgium
+
+    Brussels
+  - Vorst
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Alena_van_Dilbeek_%28tg-uact-793%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Alena of Brussels
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Alena
 ---
 
 Daughter of a pagan chieftain in an area in modern Belgium. Secret convert to Christianity. One night she slipped out to hear Mass at the chapel in Vorst, Belgium. Her father found out, and ordered guards to follow her; they winessed her walk across the river Senne to reach the chapel. When the guards reported back to the king, he decided that the Christians had bewitched the girl, and ordered the guards to bring her back. She refused, fought with the guards, and during the struggle one of her arms was cut or torn off. Martyr. An angel appeared and took the arm to the chapel where it was placed before the altar. Alena's parents were shocked, but her fierce faith led them to examine Christianity, and they converted. The chapel with her relics became a popular place of pilgrimage.

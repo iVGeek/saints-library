@@ -1,21 +1,24 @@
 ---
-name: "Saint Sava"
+name: Saint Sava
 honorific: Saint
-summary: "Prince of Serbia, the son of King Stephen I Nemanya. He took the name Sava (Sabas) when he became a monk at Mount Athos. His father later surrendered his crown and became a monk, too, and together they founded the monastery at Chilanari as a house for Serbs. Sava returned home in"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sava_River_and_Gazela_Bridge_%28Belgrade%29.jpg/960px-Sava_River_and_Gazela_Bridge_%28Belgrade%29.jpg"
+summary: >-
+  Prince of Serbia, the son of King Stephen I Nemanya. He took the name Sava (Sabas) when he became a monk at Mount
+  Athos. His father later surrendered his crown and became a monk, too, and together they founded the monastery at
+  Chilanari as a house for Serbs. Sava returned home in
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sava_River_and_Gazela_Bridge_%2528Belgrade%2529.jpg?width=600
 searchAliases:
-  - "Rastko Nemanjic"
-  - "Sava the Serbian"
-  - "Saba"
-  - "Sabas"
-  - "Sabbas"
-  - "Savas"
+  - Rastko Nemanjic
+  - Sava the Serbian
+  - Saba
+  - Sabas
+  - Sabbas
+  - Savas
 birthYear: 1176
 deathYear: 1235
-born: "1176 as Rastko Nemanjic"
-died: "14 January 1235 at Tirnovo, Bulgaria of natural causes"
-deathPlace: "Bulgarianatural causes"
-region: "England"
+born: 1176 as Rastko Nemanjic
+died: 14 January 1235 at Tirnovo, Bulgaria of natural causes
+deathPlace: Bulgarianatural causes
+region: England
 feastDay:
   month: 1
   day: 14
@@ -25,8 +28,8 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Serbia"
-  - "Serbs"
+  - Serbia
+  - Serbs
 martyr: false
 ---
 

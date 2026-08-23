@@ -2,8 +2,11 @@
 name: Nicholas of Myra
 honorific: Saint
 title: Bishop
-summary: The wonder-working bishop of Myra whose secret generosity became the legend of Santa Claus — defender of the poor, of sailors, and of children.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jaroslav_%C4%8Cerm%C3%A1k_%281831_-_1878%29_-_Sv._Mikul%C3%A1%C5%A1_%28cropped%29.jpg/330px-Jaroslav_%C4%8Cerm%C3%A1k_%281831_-_1878%29_-_Sv._Mikul%C3%A1%C5%A1_%28cropped%29.jpg
+summary: >-
+  The wonder-working bishop of Myra whose secret generosity became the legend of Santa Claus — defender of the poor, of
+  sailors, and of children.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Jaroslav_%25C4%258Cerm%25C3%25A1k_%25281831_-_1878%2529_-_Sv._Mikul%25C3%25A1%25C5%25A1_%2528cropped%2529.jpg?width=600
 imageAlt: Portrait of Nicholas of Myra
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,8 +22,10 @@ born: c. 270
 died: 6 December 343
 birthPlace: Patara, Turkey
 deathPlace: Myra, Turkey
-region: "Scandinavia"
-centuries: [3, 4]
+region: Scandinavia
+centuries:
+  - 3
+  - 4
 feastDay:
   month: 12
   day: 6
@@ -44,43 +49,39 @@ symbols:
   - Bishop's mitre and staff
 martyr: false
 lifeEvents:
-  - year: "c. 270"
+  - year: c. 270
     event: Born at Patara in Lycia (modern Turkey), of wealthy Christian parents.
-  - year: "c. 300"
+  - year: c. 300
     event: Made bishop of Myra; attends the Council of Nicaea in 325.
-  - year: "Early 4th century"
+  - year: Early 4th century
     event: Gives secret gifts to the poor, most famously three bags of gold to a destitute father for his daughters' dowries.
-  - year: "c. 325"
+  - year: c. 325
     event: Defends the divinity of Christ against Arianism; legend says he struck the heretic Arius at the council.
-  - year: "6 December 343"
+  - year: 6 December 343
     event: Dies at Myra.
-  - year: "1087"
+  - year: '1087'
     event: His relics are translated to Bari, Italy, where pilgrims still venerate them.
 quotes:
-  - text: >-
-      He is blessed who gives to the poor, for what he gives to them he gives to Christ.
+  - text: He is blessed who gives to the poor, for what he gives to them he gives to Christ.
     source: Attributed to Saint Nicholas of Myra
 prayers:
   - name: Prayer to Saint Nicholas
     kind: Prayer for children, sailors, and the generous
     text: >-
-      O Saint Nicholas, bishop of Myra and wonderworker, who hid your charity so that only
-      heaven saw it, teach us to give without counting the cost. Watch over children and all who
-      travel the seas, defend the poor as you defended the three sisters, and kindle in us the
-      same hidden generosity that made you the friend of Christ. Amen.
-  - name: "Novena to Saint Nicholas of Myra"
-    kind: "Novena — nine-day prayer for generosity and protection"
+      O Saint Nicholas, bishop of Myra and wonderworker, who hid your charity so that only heaven saw it, teach us to
+      give without counting the cost. Watch over children and all who travel the seas, defend the poor as you defended
+      the three sisters, and kindle in us the same hidden generosity that made you the friend of Christ. Amen.
+  - name: Novena to Saint Nicholas of Myra
+    kind: Novena — nine-day prayer for generosity and protection
     text: >-
-      O wonderworking Saint Nicholas, bishop of Myra and friend of the poor, I come before
-      you in this novena with a heart in need. You who gave secret gifts to three daughters
-      to save them from shame, teach me the joy of generous giving. Watch over children
-      everywhere, protect sailors on stormy seas, and guard all travelers on their way. Obtain
-      for me the grace to be openhanded with those in need, to give without seeking
-      recognition, and to trust that God will provide for all my wants. You who defended the
-      innocent before the judgment seat, be my advocate in the trials I face. As the merchants
-      and the poor alike found in you a protector, may I find in your intercession the help I
-      need before the throne of God. O Saint Nicholas, who turned gold into grace, turn my
-      heart toward charity and my life toward holiness. Amen.
+      O wonderworking Saint Nicholas, bishop of Myra and friend of the poor, I come before you in this novena with a
+      heart in need. You who gave secret gifts to three daughters to save them from shame, teach me the joy of generous
+      giving. Watch over children everywhere, protect sailors on stormy seas, and guard all travelers on their way.
+      Obtain for me the grace to be openhanded with those in need, to give without seeking recognition, and to trust
+      that God will provide for all my wants. You who defended the innocent before the judgment seat, be my advocate in
+      the trials I face. As the merchants and the poor alike found in you a protector, may I find in your intercession
+      the help I need before the throne of God. O Saint Nicholas, who turned gold into grace, turn my heart toward
+      charity and my life toward holiness. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

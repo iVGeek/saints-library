@@ -1,14 +1,18 @@
 ---
-name: "Pope Saint Sergius I"
+name: Pope Saint Sergius I
 honorific: Saint
-summary: "Son of Syrian immigrants. Educated at Palermo, Italy. Ordained in Rome, Italy. Canon regular of Saint John Lateran. First named cardinal-priest of Saint Susanna by Pope Leo II. Elected pope on 15 December 687, chosen over the priest Theodore and the archdeacon Paschal who was lat"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg/960px-Workshop_of_Rogier_van_der_Weyden_%28Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg"
+summary: >-
+  Son of Syrian immigrants. Educated at Palermo, Italy. Ordained in Rome, Italy. Canon regular of Saint John Lateran.
+  First named cardinal-priest of Saint Susanna by Pope Leo II. Elected pope on 15 December 687, chosen over the priest
+  Theodore and the archdeacon Paschal who was lat
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Workshop_of_Rogier_van_der_Weyden_%2528Netherlandish_-_The_Dream_of_Pope_Sergius_-_Google_Art_Project.jpg?width=600
 deathYear: 701
-born: "at Palermo, Sicily"
-died: "7 September 701 of natural causes in Rome, Italy"
-birthPlace: "Sicily"
-deathPlace: "Italy"
-region: "Germany"
+born: at Palermo, Sicily
+died: 7 September 701 of natural causes in Rome, Italy
+birthPlace: Sicily
+deathPlace: Italy
+region: Germany
 feastDay:
   month: 9
   day: 8

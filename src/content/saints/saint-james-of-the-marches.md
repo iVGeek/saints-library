@@ -1,23 +1,26 @@
 ---
-name: "Saint James of the Marches"
+name: Saint James of the Marches
 honorific: Saint
-summary: "Born poor. Doctor of Civil Law. Franciscan monk at age 22. Studied with Saint John of Capistrano. Disciple of Saint Bernadine of Siena. Tutor. Judge of sorcerers. Ordained in 1423. Preacher and evangelist throughout Central and Northern Europe, preaching every day for 40 years. B"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Francisco_de_Zurbaran_James_of_the_Marches.JPG/960px-Francisco_de_Zurbaran_James_of_the_Marches.JPG"
+summary: >-
+  Born poor. Doctor of Civil Law. Franciscan monk at age 22. Studied with Saint John of Capistrano. Disciple of Saint
+  Bernadine of Siena. Tutor. Judge of sorcerers. Ordained in 1423. Preacher and evangelist throughout Central and
+  Northern Europe, preaching every day for 40 years. B
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Zurbaran_James_of_the_Marches.JPG?width=600
 searchAliases:
-  - "Dominic Gangala"
-  - "Giacomo della Marca"
-  - "Jacopo Gangala"
-  - "James della Marca"
-  - "James Gangala"
-  - "James of La Marca of Ancona"
-  - "James of Picenum"
+  - Dominic Gangala
+  - Giacomo della Marca
+  - Jacopo Gangala
+  - James della Marca
+  - James Gangala
+  - James of La Marca of Ancona
+  - James of Picenum
 birthYear: 1391
 deathYear: 1476
-born: "1 September 1391 at Monteprandone, March of Ancona, Italy as Dominic Gangala"
-died: "28 November 1476 at Naples, Italy"
-birthPlace: "MarchAncona, Italy as Dominic Gangala"
-deathPlace: "Italy"
-region: "Czech Republic"
+born: 1 September 1391 at Monteprandone, March of Ancona, Italy as Dominic Gangala
+died: 28 November 1476 at Naples, Italy
+birthPlace: MarchAncona, Italy as Dominic Gangala
+deathPlace: Italy
+region: Czech Republic
 feastDay:
   month: 11
   day: 28
@@ -26,11 +29,14 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in Italy\n\nAncona"
-  - "Monteprandone"
-  - "Naples"
+  - |-
+    in Italy
+
+    Ancona
+  - Monteprandone
+  - Naples
 martyr: false
 ---
 

@@ -2,8 +2,10 @@
 name: Martin of Tours
 honorific: Saint
 title: Bishop
-summary: The soldier who shared his cloak with a beggar and saw Christ in his rags — later the great bishop of Gaul, remembered as the first "confessor" of the Western Church.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Simone_Martini_040.jpg/330px-Simone_Martini_040.jpg
+summary: >-
+  The soldier who shared his cloak with a beggar and saw Christ in his rags — later the great bishop of Gaul, remembered
+  as the first "confessor" of the Western Church.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Simone_Martini_040.jpg?width=600
 imageAlt: Portrait of Martin of Tours
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,8 @@ died: 8 November 397
 birthPlace: Pannonia, Hungary
 deathPlace: Candes, France
 region: France
-centuries: [4]
+centuries:
+  - 4
 feastDay:
   month: 11
   day: 11
@@ -41,32 +44,30 @@ symbols:
   - Bishop's staff
 martyr: false
 lifeEvents:
-  - year: "c. 316"
+  - year: c. 316
     event: Born in Pannonia (modern Hungary), son of a Roman officer.
-  - year: "c. 334"
+  - year: c. 334
     event: As a cavalryman at Amiens, divides his cloak with a beggar and that night sees Christ in a dream.
-  - year: "c. 356"
+  - year: c. 356
     event: Leaves the army, saying he is a soldier of Christ; receives baptism and travels to Gaul to join Saint Hilary.
-  - year: "c. 361"
+  - year: c. 361
     event: Founds a hermitage at Ligugé, the first monastery of Gaul.
-  - year: "371"
+  - year: '371'
     event: Proclaimed bishop of Tours almost against his will, dragged from his hermitage.
-  - year: "371–397"
+  - year: 371–397
     event: Builds the monastery of Marmoutier and evangelizes the countryside of Gaul for more than twenty-five years.
-  - year: "8 November 397"
+  - year: 8 November 397
     event: Dies at Candes; buried at Tours on 11 November, the day kept as his feast.
 quotes:
-  - text: >-
-      Lord, if I am still necessary for your people, I do not refuse the work: your will be done.
+  - text: 'Lord, if I am still necessary for your people, I do not refuse the work: your will be done.'
     source: The prayer of Saint Martin in his final illness
 prayers:
   - name: Prayer to Saint Martin of Tours
     kind: Prayer for generosity and for soldiers
     text: >-
-      O Saint Martin, who gave half your cloak to Christ in the person of a beggar, teach us to
-      see the Lord in the poor. Give soldiers and all who serve courage without cruelty, and
-      make us generous in sharing what we have, that we may one day stand with you before the
-      King of kings. Amen.
+      O Saint Martin, who gave half your cloak to Christ in the person of a beggar, teach us to see the Lord in the
+      poor. Give soldiers and all who serve courage without cruelty, and make us generous in sharing what we have, that
+      we may one day stand with you before the King of kings. Amen.
 relatedSaints:
   - name: George of Lydda
     slug: george-of-lydda

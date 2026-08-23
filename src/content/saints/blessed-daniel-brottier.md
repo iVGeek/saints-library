@@ -1,15 +1,15 @@
 ---
-name: "Blessed Daniel Brottier"
+name: Blessed Daniel Brottier
 honorific: Blessed
-summary: " At the request of Bishop Jalabert, he conducted a Ordained in 1899. Taught at the college of Pontlevoy, France. Entered the Congregation of the Holy Ghost at Orly, France in 1902. Missionary to Saint-Louis, Senegal in 1903. His health suffered, and he returned to France in 1911."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Daniel_Brottier_in_WWI_as_chaplain.jpg/960px-Daniel_Brottier_in_WWI_as_chaplain.jpg"
+summary: ' At the request of Bishop Jalabert, he conducted a Ordained in 1899. Taught at the college of Pontlevoy, France. Entered the Congregation of the Holy Ghost at Orly, France in 1902. Missionary to Saint-Louis, Senegal in 1903. His health suffered, and he returned to France in 1911.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Brottier_in_WWI_as_chaplain.jpg?width=600
 birthYear: 1876
 deathYear: 1936
-born: "7 September 1876 at La Fert&eacute;-Saint-Cyr, Diocese of Blois, France"
-died: "28 February 1936 of natural causes at Paris, France of natural causes"
-birthPlace: "DioceseBlois, France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 7 September 1876 at La Fert&eacute;-Saint-Cyr, Diocese of Blois, France
+died: 28 February 1936 of natural causes at Paris, France of natural causes
+birthPlace: DioceseBlois, France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 2
   day: 28
@@ -19,7 +19,7 @@ vocation:
   - Priest
   - Cardinal
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
 ---
 

@@ -1,19 +1,22 @@
 ---
-name: "Blessed Delphine of Glandèves"
+name: Blessed Delphine of Glandèves
 honorific: Blessed
-summary: "Born to the French nobility, the daughter of the Lord of Puimichel, France. Orphaned in infancy, she was raised by her aunt, the abbess of the convent of Saint Catherine in Sorbo. Franciscan tertiary. Married to Saint Elzear, Count of Sabran, when the two were in their mid-teens;"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ansouis_5.jpg/960px-Ansouis_5.jpg"
+summary: >-
+  Born to the French nobility, the daughter of the Lord of Puimichel, France. Orphaned in infancy, she was raised by her
+  aunt, the abbess of the convent of Saint Catherine in Sorbo. Franciscan tertiary. Married to Saint Elzear, Count of
+  Sabran, when the two were in their mid-teens;
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Ansouis_5.jpg?width=600
 searchAliases:
-  - "Delphine of Signa"
-  - "Delfina…"
-  - "Delphina…"
+  - Delphine of Signa
+  - Delfina…
+  - Delphina…
 birthYear: 1282
 deathYear: 1360
-born: "c.1282 at Chateau-Puimichel in Languedoc (modern Puy-en-Velay, France)"
-died: "26 November 1360 in Apt, France of natural causes"
-birthPlace: "France)"
-deathPlace: "Francenatural causes"
-region: "France"
+born: c.1282 at Chateau-Puimichel in Languedoc (modern Puy-en-Velay, France)
+died: 26 November 1360 in Apt, France of natural causes
+birthPlace: France)
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 11
   day: 26
@@ -21,14 +24,17 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "brides"
-  - "tertiaries"
-  - "–"
-  - "Le Puy-en-Velay, France"
-  - "in Italy\n\nAriano Irpino-Lacedonia, diocese of"
-  - "Naples"
+  - brides
+  - tertiaries
+  - –
+  - Le Puy-en-Velay, France
+  - |-
+    in Italy
+
+    Ariano Irpino-Lacedonia, diocese of
+  - Naples
 martyr: false
 ---
 

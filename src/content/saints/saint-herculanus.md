@@ -1,14 +1,14 @@
 ---
-name: "Saint Herculanus of Perugia"
+name: Saint Herculanus of Perugia
 honorific: Saint
-summary: "Bishop of Perugia, Italy. Martyred under orders of Ostro-Gothic leader Totila."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pietro_Perugino_cat48h.jpg/960px-Pietro_Perugino_cat48h.jpg"
+summary: Bishop of Perugia, Italy. Martyred under orders of Ostro-Gothic leader Totila.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_Perugino_cat48h.jpg?width=600
 searchAliases:
-  - "Ercolano"
-  - "Herculan"
+  - Ercolano
+  - Herculan
 deathYear: 549
-died: "beheaded 549 by Ostro-Gothic soldiers"
-region: "Peru"
+died: beheaded 549 by Ostro-Gothic soldiers
+region: Peru
 feastDay:
   month: 11
   day: 7
@@ -18,7 +18,7 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Perugia, Italy"
+  - Perugia, Italy
 martyr: true
 ---
 

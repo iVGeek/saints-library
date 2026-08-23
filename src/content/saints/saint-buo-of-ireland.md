@@ -1,12 +1,12 @@
 ---
-name: "Saint Buo of Ireland"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Great_Britain_Snowy.jpg/960px-Great_Britain_Snowy.jpg"
+name: Saint Buo of Ireland
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Great_Britain_Snowy.jpg?width=600
 honorific: Saint
-summary: "Monk. Missionary to the Norwegians on Iceland and the Faroe Islands."
+summary: Monk. Missionary to the Norwegians on Iceland and the Faroe Islands.
 deathYear: 900
-born: "Irish"
-died: "c.900 of natural causes"
-region: "Scandinavia"
+born: Irish
+died: c.900 of natural causes
+region: Scandinavia
 feastDay:
   month: 2
   day: 5

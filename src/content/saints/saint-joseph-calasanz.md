@@ -1,20 +1,24 @@
 ---
-name: "Saint Joseph Calasanz"
+name: Saint Joseph Calasanz
 honorific: Saint
-summary: "Youngest of five children born to Don Pedro Calasanz and Donna Maria Gastonia. His mother and a brother died while he was still in school. Studied at Estadilla, at the University of Lereda, at Valencia, and at Alcala de Henares. Obtained degrees in canon law and theology. His fat"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/San_Jos%C3%A9_de_Calasanz_%28Museo_del_Prado%29.jpg/960px-San_Jos%C3%A9_de_Calasanz_%28Museo_del_Prado%29.jpg"
+summary: >-
+  Youngest of five children born to Don Pedro Calasanz and Donna Maria Gastonia. His mother and a brother died while he
+  was still in school. Studied at Estadilla, at the University of Lereda, at Valencia, and at Alcala de Henares.
+  Obtained degrees in canon law and theology. His fat
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/San_Jos%25C3%25A9_de_Calasanz_%2528Museo_del_Prado%2529.jpg?width=600
 searchAliases:
-  - "Joseph Calasanctius"
-  - "Joseph of Our Lady"
-  - "Joseph Calsanza"
-  - "José de Calasanz"
+  - Joseph Calasanctius
+  - Joseph of Our Lady
+  - Joseph Calsanza
+  - José de Calasanz
 birthYear: 1556
 deathYear: 1648
-born: "11 September 1556 at Peralta, Barbastro, Aragon, Spain in his father's castle"
-died: "25 August 1648 at Rome, Italy of natural causes"
-birthPlace: "Barbastro, Aragon, Spain his father's castle"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 11 September 1556 at Peralta, Barbastro, Aragon, Spain in his father's castle
+died: 25 August 1648 at Rome, Italy of natural causes
+birthPlace: Barbastro, Aragon, Spain his father's castle
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 8
   day: 25
@@ -23,16 +27,16 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Catholic schools (proclaimed on 13 August 1948 by Pope Pius XII)"
-  - "colleges"
-  - "Congregation of Christian Workers of Saint Joseph Calasanz"
-  - "schoolchildren"
-  - "schools"
-  - "schools for the poor"
-  - "students"
-  - "universities"
+  - Catholic schools (proclaimed on 13 August 1948 by Pope Pius XII)
+  - colleges
+  - Congregation of Christian Workers of Saint Joseph Calasanz
+  - schoolchildren
+  - schools
+  - schools for the poor
+  - students
+  - universities
 martyr: false
 ---
 

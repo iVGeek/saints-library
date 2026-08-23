@@ -2,8 +2,10 @@
 name: Pio of Pietrelcina
 honorific: Saint
 title: Priest, Stigmatist
-summary: The Capuchin friar of San Giovanni Rotondo whose wounds of Christ, long confessions, and miracles drew the world to his confessional — Padre Pio, a sign of the Cross in our own century.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Padre_Pio_portraitFXD.jpg/330px-Padre_Pio_portraitFXD.jpg
+summary: >-
+  The Capuchin friar of San Giovanni Rotondo whose wounds of Christ, long confessions, and miracles drew the world to
+  his confessional — Padre Pio, a sign of the Cross in our own century.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Padre_Pio_portraitFXD.jpg?width=600
 imageAlt: Portrait of Pio of Pietrelcina
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,8 +20,9 @@ born: 25 May 1887
 died: 23 September 1968
 birthPlace: Pietrelcina, Italy
 deathPlace: San Giovanni Rotondo, Italy
-region: "France"
-centuries: [20]
+region: France
+centuries:
+  - 20
 feastDay:
   month: 9
   day: 23
@@ -44,36 +47,36 @@ symbols:
   - Rosary
 martyr: false
 lifeEvents:
-  - year: "25 May 1887"
+  - year: 25 May 1887
     event: Born Francesco Forgione at Pietrelcina in southern Italy.
-  - year: "1903"
+  - year: '1903'
     event: Enters the Capuchin Franciscans at Morcone; takes the name Pio.
-  - year: "1910"
+  - year: '1910'
     event: Ordained priest.
-  - year: "20 September 1918"
+  - year: 20 September 1918
     event: Receives the stigmata, the wounds of Christ, at San Giovanni Rotondo; they remain for fifty years.
-  - year: "1920s–1960s"
-    event: Spends his life hearing confessions for many hours a day; pilgrims fill San Giovanni Rotondo from around the world.
-  - year: "1956"
+  - year: 1920s–1960s
+    event: >-
+      Spends his life hearing confessions for many hours a day; pilgrims fill San Giovanni Rotondo from around the
+      world.
+  - year: '1956'
     event: Opens the Casa Sollievo della Sofferenza, the "House for the Relief of Suffering," a great hospital.
-  - year: "23 September 1968"
+  - year: 23 September 1968
     event: Dies at San Giovanni Rotondo; the stigmata have vanished from his hands.
-  - year: "16 June 2002"
+  - year: 16 June 2002
     event: Canonized by Pope John Paul II.
 quotes:
-  - text: >-
-      Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.
+  - text: Pray, hope, and don't worry. Worry is useless. God is merciful and will hear your prayer.
     source: Attributed to Saint Pio of Pietrelcina
-  - text: >-
-      The spiritual life is a life of the whole soul at every moment, in every action, in every place.
+  - text: The spiritual life is a life of the whole soul at every moment, in every action, in every place.
     source: Attributed to Saint Pio of Pietrelcina
 prayers:
   - name: Prayer to Padre Pio
     kind: Prayer in anxiety and for the sick
     text: >-
-      O Saint Pio of Pietrelcina, who bore the wounds of Christ and yet was full of joy, teach us
-      to pray, to hope, and not to worry. Comfort the sick and anxious; give us peace in the
-      confessional; and let us live each moment aware of the presence of God, as you did. Amen.
+      O Saint Pio of Pietrelcina, who bore the wounds of Christ and yet was full of joy, teach us to pray, to hope, and
+      not to worry. Comfort the sick and anxious; give us peace in the confessional; and let us live each moment aware
+      of the presence of God, as you did. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

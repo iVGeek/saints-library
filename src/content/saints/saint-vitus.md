@@ -1,17 +1,20 @@
 ---
-name: "Saint Vitus"
+name: Saint Vitus
 honorific: Saint
-summary: "Legend says that Vitus was the son of a pagan Sicilian senator named Hylas. The boy was converted to Christianity at age twelve by his tutor, Saint Modestus, and his nurse Saint Crescentia. His father showed his objection to the conversion by having all three arrested and scourge"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg/960px-St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg"
+summary: >-
+  Legend says that Vitus was the son of a pagan Sicilian senator named Hylas. The boy was converted to Christianity at
+  age twelve by his tutor, Saint Modestus, and his nurse Saint Crescentia. His father showed his objection to the
+  conversion by having all three arrested and scourge
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St_Veit_G%25C3%25B6lsen_Pfarrkirche_Fenster02.jpg?width=600
 searchAliases:
-  - "Guy"
-  - "Veit"
-  - "Vith"
-  - "Vito"
+  - Guy
+  - Veit
+  - Vith
+  - Vito
 deathYear: 303
-died: "boiled in oil c.303 in Lucania, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: boiled in oil c.303 in Lucania, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 6
   day: 15
@@ -20,36 +23,39 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against animal attacks"
-  - "against dog bites"
-  - "against epilepsy"
-  - "against lightning"
-  - "against oversleeping"
-  - "against rabies"
-  - "against rheumatic chorea"
-  - "against Saint Vitus Dance"
-  - "against snake bites"
-  - "against storms"
-  - "against wild beasts"
-  - "—"
-  - "actors"
-  - "comedians"
-  - "comediennes"
-  - "coppersmiths"
-  - "dancers"
-  - "dogs"
-  - "domestic animals"
-  - "epileptics"
-  - "young people"
-  - "—"
-  - "Bohemia"
-  - "Czech Republic"
-  - "Serbia"
-  - "—"
-  - "Sankt Veit im Pongau, Austria"
-  - "St Vith, Belgium"
-  - "in Croatia\n\nRijeka, city of"
-  - "Rijeka, diocese of"
+  - against animal attacks
+  - against dog bites
+  - against epilepsy
+  - against lightning
+  - against oversleeping
+  - against rabies
+  - against rheumatic chorea
+  - against Saint Vitus Dance
+  - against snake bites
+  - against storms
+  - against wild beasts
+  - —
+  - actors
+  - comedians
+  - comediennes
+  - coppersmiths
+  - dancers
+  - dogs
+  - domestic animals
+  - epileptics
+  - young people
+  - —
+  - Bohemia
+  - Czech Republic
+  - Serbia
+  - —
+  - Sankt Veit im Pongau, Austria
+  - St Vith, Belgium
+  - |-
+    in Croatia
+
+    Rijeka, city of
+  - Rijeka, diocese of
 martyr: false
 ---
 

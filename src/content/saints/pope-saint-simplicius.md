@@ -1,11 +1,14 @@
 ---
-name: "Pope Saint Simplicius"
+name: Pope Saint Simplicius
 honorific: Saint
-summary: "Son of Castinus. Held the pontificate during the end of the Roman Empire. He defended the Council of Chalcedon against the Monophysites heresy of the Eastern empire. Worked for the Italian people against barbarian invaders. Built four large churches in Rome, and brought some orde"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/St._Simplicius%2C_Pope_Met_DP890865.jpg/960px-St._Simplicius%2C_Pope_Met_DP890865.jpg"
-born: "at Tivoli, Italy"
-birthPlace: "Italy"
-region: "Italy"
+summary: >-
+  Son of Castinus. Held the pontificate during the end of the Roman Empire. He defended the Council of Chalcedon against
+  the Monophysites heresy of the Eastern empire. Worked for the Italian people against barbarian invaders. Built four
+  large churches in Rome, and brought some orde
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St._Simplicius%252C_Pope_Met_DP890865.jpg?width=600
+born: at Tivoli, Italy
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 10

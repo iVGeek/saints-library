@@ -1,37 +1,42 @@
 ---
-name: "Saint Conrad of Parzham"
+name: Saint Conrad of Parzham
 honorific: Venerable
-summary: "Youngest of nine children born to a farming family in a region recovering from the Napoleonic wars. His mother died when he was 14. Devoted from an early age to solitary prayer and peacemaking, he was a familiar site at all the churches and shrines in his region, often waiting at"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bad_Endorf_Antwort_Wallfahrtskirche_Mari%C3%A4_Himmelfahrt_Philipp-_und_Jakob-Altar_Altarblatt_Hl._Bruder_Konrad_Nahansicht_2017_10_07.jpg/960px-Bad_Endorf_Antwort_Wallfahrtskirche_Mari%C3%A4_Himmelfahrt_Philipp-_und_Jakob-Altar_Altarblatt_Hl._Bruder_Konrad_Nahansicht_2017_10_07.jpg"
+summary: >-
+  Youngest of nine children born to a farming family in a region recovering from the Napoleonic wars. His mother died
+  when he was 14. Devoted from an early age to solitary prayer and peacemaking, he was a familiar site at all the
+  churches and shrines in his region, often waiting at
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Bad_Endorf_Antwort_Wallfahrtskirche_Mari%25C3%25A4_Himmelfahrt_Philipp-_und_Jakob-Altar_Altarblatt_Hl._Bruder_Konrad_Nahansicht_2017_10_07.jpg?width=600
 searchAliases:
-  - "Conrad Birndorfer"
-  - "Hansel Birndorfer"
-  - "Johann Birndorfer"
-  - "Johannes Birndorfer"
-  - "John Birndorfer"
-  - "Corrado Giovanni Evangelista Birndorfer da Parzham"
-  - "Konrad…"
+  - Conrad Birndorfer
+  - Hansel Birndorfer
+  - Johann Birndorfer
+  - Johannes Birndorfer
+  - John Birndorfer
+  - Corrado Giovanni Evangelista Birndorfer da Parzham
+  - Konrad…
 birthYear: 1818
 deathYear: 1894
-born: "22 December 1818 at Parzham, Bavaria, Germany as Johann Birndorfer"
-died: "21 April 1894 in Altötting, Bavaria, Germany of natural causes"
-birthPlace: "Bavaria, Germany as Johann Birndorfer"
-deathPlace: "Bavaria, Germanynatural causes"
-region: "Germany"
+born: 22 December 1818 at Parzham, Bavaria, Germany as Johann Birndorfer
+died: 21 April 1894 in Altötting, Bavaria, Germany of natural causes
+birthPlace: Bavaria, Germany as Johann Birndorfer
+deathPlace: Bavaria, Germanynatural causes
+region: Germany
 feastDay:
   month: 4
   day: 21
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Capuchin-Franciscan Province of Mid-America"
-  - "Catholic Student Association"
-  - "doorkeepers"
-  - "Passau, Germany, diocese of (since 1984)"
+  - Capuchin-Franciscan Province of Mid-America
+  - Catholic Student Association
+  - doorkeepers
+  - Passau, Germany, diocese of (since 1984)
 martyr: false
 ---
 

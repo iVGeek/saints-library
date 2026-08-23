@@ -1,18 +1,23 @@
 ---
-name: "Blessed Stephen Bellesini"
+name: Blessed Stephen Bellesini
 honorific: Blessed
-summary: "Born to the Italian nobility. Became Augustinian in 1790 at age 16 at the monastery of Saint Mark in Venice, Italy, taking the name Stephen; he made his profession on 31 May 1794. Studied in Rome and Bologna in Italy. During the French Revolution troops shut down religious houses"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beato_Stefano_Bellesini.JPG/960px-Beato_Stefano_Bellesini.JPG"
+summary: >-
+  Born to the Italian nobility. Became Augustinian in 1790 at age 16 at the monastery of Saint Mark in Venice, Italy,
+  taking the name Stephen; he made his profession on 31 May 1794. Studied in Rome and Bologna in Italy. During the
+  French Revolution troops shut down religious houses
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Beato_Stefano_Bellesini.JPG?width=600
 searchAliases:
-  - "Aloysius Bellesini"
-  - "Stefano Bellesini"
+  - Aloysius Bellesini
+  - Stefano Bellesini
 birthYear: 1774
 deathYear: 1840
-born: "25 November 1774 at Trent, Italy as Aloysius Bellesini"
-died: "2 February 1840 of cholera and an infection that developed from a cut on his leg received by an accidental fall while visiting the sick at Genazzano, Italy"
-birthPlace: "Italy as Aloysius Bellesini"
-deathPlace: "Italy"
-region: "France"
+born: 25 November 1774 at Trent, Italy as Aloysius Bellesini
+died: >-
+  2 February 1840 of cholera and an infection that developed from a cut on his leg received by an accidental fall while
+  visiting the sick at Genazzano, Italy
+birthPlace: Italy as Aloysius Bellesini
+deathPlace: Italy
+region: France
 feastDay:
   month: 2
   day: 2
@@ -20,7 +25,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Soldier
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
 ---
 

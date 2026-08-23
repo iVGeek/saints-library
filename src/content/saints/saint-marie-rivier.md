@@ -1,31 +1,36 @@
 ---
-name: "Saint Marie Rivier"
+name: Saint Marie Rivier
 honorific: Venerable
-summary: "At the age of sixteen months, Marie broke her hip in a fall that left her crippled. Her mother, refusing to give up, carried the child to a local Pieta statue each day to pray. On 8 September 1774, having seen her mother spend hours in prayer, Marie was suddenly able to walk. How"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vitrail_Marie_Rivier.jpg/960px-Vitrail_Marie_Rivier.jpg"
+summary: >-
+  At the age of sixteen months, Marie broke her hip in a fall that left her crippled. Her mother, refusing to give up,
+  carried the child to a local Pieta statue each day to pray. On 8 September 1774, having seen her mother spend hours in
+  prayer, Marie was suddenly able to walk. How
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Vitrail_Marie_Rivier.jpg?width=600
 searchAliases:
-  - "Marinette Rivier"
-  - "Anne-Marie Rivier"
-  - "Marie-Anne Rivier"
+  - Marinette Rivier
+  - Anne-Marie Rivier
+  - Marie-Anne Rivier
 birthYear: 1768
 deathYear: 1838
-born: "19 December 1768 at Montpezat-sous-Bauzon, Ardèche, France"
-died: "3 February 1838 in Bourg-Saint-Andéol, Ardèche, France of natural causes"
-birthPlace: "Ardèche, France"
-deathPlace: "Ardèche, Francenatural causes"
-region: "Africa"
+born: 19 December 1768 at Montpezat-sous-Bauzon, Ardèche, France
+died: 3 February 1838 in Bourg-Saint-Andéol, Ardèche, France of natural causes
+birthPlace: Ardèche, France
+deathPlace: Ardèche, Francenatural causes
+region: Africa
 feastDay:
   month: 2
   day: 3
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against rickets"
+  - against rickets
 martyr: false
 ---
 

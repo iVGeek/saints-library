@@ -1,15 +1,19 @@
 ---
-name: "Blessed Domenico Lentini"
+name: Blessed Domenico Lentini
 honorific: Blessed
-summary: "Youngest of five children in a poor but pious family. By age 14 he felt a call to the priesthood, studied at the seminary in Salerno, Italy and was ordained in the diocese of Tursi-Lagonegro, Italy in 1794. He was assigned to his hometown of Lauria, Italy and worked there the res"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Blessed_Domenico_Lentini_-_Addolorata_-_Maratea_-_Italy_2015.JPG/960px-Blessed_Domenico_Lentini_-_Addolorata_-_Maratea_-_Italy_2015.JPG"
+summary: >-
+  Youngest of five children in a poor but pious family. By age 14 he felt a call to the priesthood, studied at the
+  seminary in Salerno, Italy and was ordained in the diocese of Tursi-Lagonegro, Italy in 1794. He was assigned to his
+  hometown of Lauria, Italy and worked there the res
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Blessed_Domenico_Lentini_-_Addolorata_-_Maratea_-_Italy_2015.JPG?width=600
 birthYear: 1770
 deathYear: 1828
-born: "20 November 1770 at Lauria, Potenza, Italy"
-died: "25 February 1828 at Lauria, Potenza, Italy of natural causes"
-birthPlace: "Potenza, Italy"
-deathPlace: "Potenza, Italynatural causes"
-region: "Italy"
+born: 20 November 1770 at Lauria, Potenza, Italy
+died: 25 February 1828 at Lauria, Potenza, Italy of natural causes
+birthPlace: Potenza, Italy
+deathPlace: Potenza, Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 25
@@ -17,7 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 patronage:
-  - "Lauria, Italy"
+  - Lauria, Italy
 martyr: false
 ---
 

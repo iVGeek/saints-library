@@ -1,17 +1,21 @@
 ---
-name: "Blessed Franz Jägerstätter"
+name: Blessed Franz Jägerstätter
 honorific: Blessed
-summary: "Born to Rosalia Huber and Franz Bachmeier, servants too poor to get married. His father died in World War I when the boy was less than ten years old; his mother then married local famer Heinrich J&auml;gerst&auml;tter who adopted Franz. Franz had little formal education, but his"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Franz_J%C3%A4gerst%C3%A4tter_ID_photo_%284x5_cropped%29.jpg/960px-Franz_J%C3%A4gerst%C3%A4tter_ID_photo_%284x5_cropped%29.jpg"
+summary: >-
+  Born to Rosalia Huber and Franz Bachmeier, servants too poor to get married. His father died in World War I when the
+  boy was less than ten years old; his mother then married local famer Heinrich J&auml;gerst&auml;tter who adopted
+  Franz. Franz had little formal education, but his
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Franz_J%25C3%25A4gerst%25C3%25A4tter_ID_photo_%25284x5_cropped%2529.jpg?width=600
 searchAliases:
-  - "Franz Jaegerstaetter"
+  - Franz Jaegerstaetter
 birthYear: 1907
 deathYear: 1943
-born: "20 May 1907 in Sankt Radegund, Ober&ouml;sterreich, Austria"
-died: "beheaded on 9 August 1943 in Brandenburg an der Havel, Brandenburg, Germany"
-birthPlace: "Ober&ouml;sterreich, Austria"
-deathPlace: "Brandenburg, Germany"
-region: "Austria"
+born: 20 May 1907 in Sankt Radegund, Ober&ouml;sterreich, Austria
+died: beheaded on 9 August 1943 in Brandenburg an der Havel, Brandenburg, Germany
+birthPlace: Ober&ouml;sterreich, Austria
+deathPlace: Brandenburg, Germany
+region: Austria
 feastDay:
   month: 8
   day: 9
@@ -19,7 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Soldier
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
 ---
 

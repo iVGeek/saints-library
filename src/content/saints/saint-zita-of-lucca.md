@@ -2,8 +2,10 @@
 name: Saint Zita of Lucca
 honorific: Saint
 title: St. Zita of Lucca
-summary: "Born to a very poor but pious family. At age twelve she became a domestic servant for the wealthy Fainelli family in Lucca, Italy, a position she kept all her life; she looked at it as a way to serve ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lille_Hospice_comt_Vuez_Ste_Zite.JPG/330px-Lille_Hospice_comt_Vuez_Ste_Zite.JPG"
+summary: >-
+  Born to a very poor but pious family. At age twelve she became a domestic servant for the wealthy Fainelli family in
+  Lucca, Italy, a position she kept all her life; she looked at it as a way to serve ...
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Lille_Hospice_comt_Vuez_Ste_Zite.JPG?width=600
 imageAlt: Portrait of Saint Zita of Lucca
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -12,9 +14,10 @@ searchAliases:
   - Cita&#8230;
   - Sita&#8230;
 birthYear: 1218
-born: "1218"
-birthPlace: "Lucca"
-centuries: [13]
+born: '1218'
+birthPlace: Lucca
+centuries:
+  - 13
 feastDay:
   month: 4
   day: 27
@@ -34,7 +37,7 @@ symbols:
   - dishes
 martyr: false
 lifeEvents:
-  - year: "1218"
+  - year: '1218'
     event: Born at Lucca.
 ---
 

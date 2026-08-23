@@ -1,13 +1,16 @@
 ---
-name: "Saint Afan of Wales"
+name: Saint Afan of Wales
 honorific: Saint
-summary: "Bishop. Nothing else is known about him for certain; various writers have made him a descendant of the 3rd century Cynedda Wledig, King of Britain, a cousin of 6th century Saint David of Wales, and the 10th century bishop Jeuan who was killed by Viking invaders, but no one today"
+summary: >-
+  Bishop. Nothing else is known about him for certain; various writers have made him a descendant of the 3rd century
+  Cynedda Wledig, King of Britain, a cousin of 6th century Saint David of Wales, and the 10th century bishop Jeuan who
+  was killed by Viking invaders, but no one today
 searchAliases:
-  - "Avan"
-  - "Avanus"
-died: "entombed in the churchyard of Saint Afan's Church, Lanafan Fawr, Powys, Wales"
-deathPlace: "Lanafan Fawr, Powys, Wales"
-region: "England"
+  - Avan
+  - Avanus
+died: entombed in the churchyard of Saint Afan's Church, Lanafan Fawr, Powys, Wales
+deathPlace: Lanafan Fawr, Powys, Wales
+region: England
 feastDay:
   month: 11
   day: 16
@@ -16,6 +19,10 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/34/St_Afan%27s_Church%2C_Llanafan-Fawr_-_geograph.org.uk_-_1468440.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Afan of Wales
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Afan
 ---
 
 Bishop. Nothing else is known about him for certain; various writers have made him a descendant of the 3rd century Cynedda Wledig, King of Britain, a cousin of 6th century Saint David of Wales, and the 10th century bishop Jeuan who was killed by Viking invaders, but no one today knows for sure.

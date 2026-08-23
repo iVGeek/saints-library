@@ -1,17 +1,21 @@
 ---
-name: "Saint Gerard of Toul"
+name: Saint Gerard of Toul
 honorific: Saint
-summary: "Born to the nobility, he was known as a pious boy, and received a good education in Cologne, Germany. Priest. Following the death of his mother by a lightning strike, Gerard wanted a life of quiet prayer and penance, and became canon of the cathedral in Cologne. His reputation fo"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cath%C3%A9drale_de_Toul%2C_2009_%28St_G%C3%A9rard%29.jpg/960px-Cath%C3%A9drale_de_Toul%2C_2009_%28St_G%C3%A9rard%29.jpg"
+summary: >-
+  Born to the nobility, he was known as a pious boy, and received a good education in Cologne, Germany. Priest.
+  Following the death of his mother by a lightning strike, Gerard wanted a life of quiet prayer and penance, and became
+  canon of the cathedral in Cologne. His reputation fo
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Cath%25C3%25A9drale_de_Toul%252C_2009_%2528St_G%25C3%25A9rard%2529.jpg?width=600
 searchAliases:
-  - "Gerhard"
+  - Gerhard
 birthYear: 935
 deathYear: 994
-born: "935 at Cologne, Germany"
-died: "23 April 994 in Toul, France"
-birthPlace: "Germany"
-deathPlace: "France"
-region: "Germany"
+born: 935 at Cologne, Germany
+died: 23 April 994 in Toul, France
+birthPlace: Germany
+deathPlace: France
+region: Germany
 feastDay:
   month: 4
   day: 23
@@ -20,9 +24,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Gerardmer, France"
+  - Gerardmer, France
 martyr: false
 ---
 

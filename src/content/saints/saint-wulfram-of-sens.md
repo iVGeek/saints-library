@@ -1,31 +1,34 @@
 ---
-name: "Saint Wulfram of Sens"
+name: Saint Wulfram of Sens
 honorific: Saint
-summary: "Son of an official in the court of King Dagobert. Courtier under Clotaire III. Priest. Benedictine. Archbishop of Sens, France in 682, but in 685 he surrendered his see to Saint Amatus, whom he felt was the rightful bishop. Gave away his lands and evangelized the Frisians in Scan"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/St_Wulfram%27s%2C_Grantham_-_tabernacle.jpg/960px-St_Wulfram%27s%2C_Grantham_-_tabernacle.jpg"
+summary: >-
+  Son of an official in the court of King Dagobert. Courtier under Clotaire III. Priest. Benedictine. Archbishop of
+  Sens, France in 682, but in 685 he surrendered his see to Saint Amatus, whom he felt was the rightful bishop. Gave
+  away his lands and evangelized the Frisians in Scan
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St_Wulfram%2527s%252C_Grantham_-_tabernacle.jpg?width=600
 searchAliases:
-  - "Wulfram of Fontenelle"
-  - "Offran…"
-  - "Oufran…"
-  - "Suffrain…"
-  - "Vuilfran…"
-  - "Vulfran…"
-  - "Vulfranno…"
-  - "Vulphran…"
-  - "Wilfranus…"
-  - "Wolfram…"
-  - "Wolframus…"
-  - "Wolfran…"
-  - "Wulframnus…"
-  - "Wulfran…"
-  - "Wulfrann…"
-  - "Wulfrannus…"
+  - Wulfram of Fontenelle
+  - Offran…
+  - Oufran…
+  - Suffrain…
+  - Vuilfran…
+  - Vulfran…
+  - Vulfranno…
+  - Vulphran…
+  - Wilfranus…
+  - Wolfram…
+  - Wolframus…
+  - Wolfran…
+  - Wulframnus…
+  - Wulfran…
+  - Wulfrann…
+  - Wulfrannus…
 birthYear: 640
 deathYear: 703
-born: "c.640; French"
-died: "20 March 703 at Fontenelle, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+born: c.640; French
+died: 20 March 703 at Fontenelle, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 3
   day: 20
@@ -34,11 +37,14 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against the dangers of the sea"
-  - "in France\n\nAbbeville"
-  - "Sens"
+  - against the dangers of the sea
+  - |-
+    in France
+
+    Abbeville
+  - Sens
 martyr: false
 ---
 

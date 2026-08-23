@@ -1,18 +1,21 @@
 ---
-name: "Saint Gwinear"
+name: Saint Gwinear
 honorific: Saint
-summary: "Son of the pagan King Clito of Ireland. When Saint Patrick arrived at Clito's court, the king was hostile; Gwinear recognized Patrick's sincerity and piety, treated him well, and meditated on his message. Convert to Christianity. Hermit. Upon his father's death, he returned home,"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%89glise_de_Pluvigner_%28St_Guigner%29.jpg/960px-%C3%89glise_de_Pluvigner_%28St_Guigner%29.jpg"
+summary: >-
+  Son of the pagan King Clito of Ireland. When Saint Patrick arrived at Clito's court, the king was hostile; Gwinear
+  recognized Patrick's sincerity and piety, treated him well, and meditated on his message. Convert to Christianity.
+  Hermit. Upon his father's death, he returned home,
+image: https://commons.wikimedia.org/wiki/Special:FilePath/%25C3%2589glise_de_Pluvigner_%2528St_Guigner%2529.jpg?width=600
 searchAliases:
-  - "Fingar"
-  - "Guigner"
-  - "Guignero"
-  - "Gwinnear"
+  - Fingar
+  - Guigner
+  - Guignero
+  - Gwinnear
 deathYear: 460
-born: "Irish"
-died: "beheaded c.460 at Hayle, Cornwall, England"
-deathPlace: "Cornwall, England"
-region: "Ireland"
+born: Irish
+died: beheaded c.460 at Hayle, Cornwall, England
+deathPlace: Cornwall, England
+region: Ireland
 feastDay:
   month: 3
   day: 23

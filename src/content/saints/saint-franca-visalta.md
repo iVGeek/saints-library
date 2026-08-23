@@ -1,24 +1,24 @@
 ---
-name: "Saint Franca Visalta"
+name: Saint Franca Visalta
 honorific: Saint
-summary: " However, on Placed in the Benedictine convent of Saint Syrus at Piacenza, Italy in 1177 at age seven, she joined the Order at age 14. Abbess while still young, but removed from the office due to the severe austerities she imposed, and she became isolated from most of her sisters."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Santa_Franca_%28Mosteiro_de_Arouca%29.png/960px-Santa_Franca_%28Mosteiro_de_Arouca%29.png"
+summary: ' However, on Placed in the Benedictine convent of Saint Syrus at Piacenza, Italy in 1177 at age seven, she joined the Order at age 14. Abbess while still young, but removed from the office due to the severe austerities she imposed, and she became isolated from most of her sisters.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Franca_%2528Mosteiro_de_Arouca%2529.png?width=600
 searchAliases:
-  - "Franca of Piacenza"
-  - "Francesca da Vitalta"
+  - Franca of Piacenza
+  - Francesca da Vitalta
 birthYear: 1170
 deathYear: 1218
-born: "1170 at Piacenza, Italy"
-died: "1218 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: 1170 at Piacenza, Italy
+died: 1218 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 25
 canonizationStatus: Saint
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

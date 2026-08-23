@@ -1,17 +1,21 @@
 ---
-name: "Saint Paschasius Radbertus"
+name: Saint Paschasius Radbertus
 honorific: Saint
-summary: "A foundling whose background is completely unknown. Raised by monks after being found by nuns on the steps of Notre Dame of Soissons. Unruly in his youth, even with the brothers. Benedictine monk under Saint Adalard of Corbie. Deacon. Teacher. Moved to Corbie Abbey in 822, and he"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Abbatiale_Saint-Pierre_de_Corbie%2C_int%C3%A9rieur%2C_Paschase_Radbert_3.jpg/960px-Abbatiale_Saint-Pierre_de_Corbie%2C_int%C3%A9rieur%2C_Paschase_Radbert_3.jpg"
+summary: >-
+  A foundling whose background is completely unknown. Raised by monks after being found by nuns on the steps of Notre
+  Dame of Soissons. Unruly in his youth, even with the brothers. Benedictine monk under Saint Adalard of Corbie. Deacon.
+  Teacher. Moved to Corbie Abbey in 822, and he
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Abbatiale_Saint-Pierre_de_Corbie%252C_int%25C3%25A9rieur%252C_Paschase_Radbert_3.jpg?width=600
 searchAliases:
-  - "Radbertus"
-  - "Paschasius Radbert"
+  - Radbertus
+  - Paschasius Radbert
 birthYear: 790
 deathYear: 860
-born: "c.790 at Soissons, France"
-died: "c.860 of natural causes"
-birthPlace: "France"
-region: "France"
+born: c.790 at Soissons, France
+died: c.860 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 4
   day: 26
@@ -20,9 +24,9 @@ vocation:
   - Priest
   - Deacon
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Corbie, France"
+  - Corbie, France
 martyr: false
 ---
 

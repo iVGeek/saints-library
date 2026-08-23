@@ -1,15 +1,19 @@
 ---
-name: "Blessed Jordan of Pisa"
+name: Blessed Jordan of Pisa
 honorific: Blessed
-summary: "Joined the Dominicans at Pisa, Italy in 1280. Educated at the University of Paris, France. Lector at Sainta Maria Novella church in Florence, Italy in 1305. Noted preacher in and around Florence. Founded the Confraternity of the Holy Redeemer at Pisa. Professor of theology at Sai"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pantheologia%2C_ms_van_Kruisherenklooster_Maastricht_1470_%28UB_Groningen%2C_ms._18%29_-_1.jpg/960px-Pantheologia%2C_ms_van_Kruisherenklooster_Maastricht_1470_%28UB_Groningen%2C_ms._18%29_-_1.jpg"
+summary: >-
+  Joined the Dominicans at Pisa, Italy in 1280. Educated at the University of Paris, France. Lector at Sainta Maria
+  Novella church in Florence, Italy in 1305. Noted preacher in and around Florence. Founded the Confraternity of the
+  Holy Redeemer at Pisa. Professor of theology at Sai
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Pantheologia%252C_ms_van_Kruisherenklooster_Maastricht_1470_%2528UB_Groningen%252C_ms._18%2529_-_1.jpg?width=600
 birthYear: 1255
 deathYear: 1311
-born: "c.1255 at Pisa, Italy"
-died: "19 August 1311 at Piacenza, Italy of natural causes while on his way to teach in Paris, France"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes while on his way to teach in Paris, France"
-region: "France"
+born: c.1255 at Pisa, Italy
+died: 19 August 1311 at Piacenza, Italy of natural causes while on his way to teach in Paris, France
+birthPlace: Italy
+deathPlace: Italynatural causes while on his way to teach in Paris, France
+region: France
 feastDay:
   month: 8
   day: 19
@@ -17,7 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
 ---
 

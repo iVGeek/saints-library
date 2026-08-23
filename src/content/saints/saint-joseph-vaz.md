@@ -1,30 +1,36 @@
 ---
-name: "Saint Joseph Vaz"
+name: Saint Joseph Vaz
 honorific: Venerable
-summary: "Born to Christopher Vaz and Maria de Miranda, Christian parents of the Konkani Brahmin caste; the third of six children. Attended primary and secondary school in Sancoale, where he learned Portugese, and Benaulim, where he learned Latin. He studied humanities at the Jesuit Goa Un"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F_%E0%B6%85%E0%B6%B4%E0%B7%9C%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%85%E0%B7%94%E0%B7%80%E0%B6%BB_%E0%B7%81%E0%B7%94.%E0%B6%A2%E0%B7%94%E0%B7%83%E0%B7%9A_%E0%B7%80%E0%B7%8F%E0%B7%83%E0%B7%8A_%E0%B6%B8%E0%B7%94%E0%B6%B1%E0%B7%92%E0%B6%AD%E0%B7%94%E0%B6%B8%E0%B7%8F.jpg/960px-%E0%B7%81%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93_%E0%B6%BD%E0%B6%82%E0%B6%9A%E0%B7%8F_%E0%B6%85%E0%B6%B4%E0%B7%9C%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%85%E0%B7%94%E0%B7%80%E0%B6%BB_%E0%B7%81%E0%B7%94.%E0%B6%A2%E0%B7%94%E0%B7%83%E0%B7%9A_%E0%B7%80%E0%B7%8F%E0%B7%83%E0%B7%8A_%E0%B6%B8%E0%B7%94%E0%B6%B1%E0%B7%92%E0%B6%AD%E0%B7%94%E0%B6%B8%E0%B7%8F.jpg"
+summary: >-
+  Born to Christopher Vaz and Maria de Miranda, Christian parents of the Konkani Brahmin caste; the third of six
+  children. Attended primary and secondary school in Sancoale, where he learned Portugese, and Benaulim, where he
+  learned Latin. He studied humanities at the Jesuit Goa Un
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/%25E0%25B7%2581%25E0%25B7%258A%25E2%2580%258D%25E0%25B6%25BB%25E0%25B7%2593_%25E0%25B6%25BD%25E0%25B6%2582%25E0%25B6%259A%25E0%25B7%258F_%25E0%25B6%2585%25E0%25B6%25B4%25E0%25B7%259C%25E0%25B7%2583%25E0%25B7%258A%25E0%25B6%25AD%25E0%25B7%2594%25E0%25B7%2585%25E0%25B7%2594%25E0%25B7%2580%25E0%25B6%25BB_%25E0%25B7%2581%25E0%25B7%2594.%25E0%25B6%25A2%25E0%25B7%2594%25E0%25B7%2583%25E0%25B7%259A_%25E0%25B7%2580%25E0%25B7%258F%25E0%25B7%2583%25E0%25B7%258A_%25E0%25B6%25B8%25E0%25B7%2594%25E0%25B6%25B1%25E0%25B7%2592%25E0%25B6%25AD%25E0%25B7%2594%25E0%25B6%25B8%25E0%25B7%258F.jpg?width=600
 searchAliases:
-  - "Apostle of Ceylon"
-  - "Apostle of Sri Lanka"
+  - Apostle of Ceylon
+  - Apostle of Sri Lanka
 birthYear: 1651
 deathYear: 1711
-born: "21 April 1651 at Benaulim, Salcette, Goa, India"
-died: "late night 17 January 1711 at Kandy, Sri Lanka of natural causes"
-birthPlace: "Salcette, Goa, India"
-deathPlace: "Sri Lankanatural causes"
-region: "India"
+born: 21 April 1651 at Benaulim, Salcette, Goa, India
+died: late night 17 January 1711 at Kandy, Sri Lanka of natural causes
+birthPlace: Salcette, Goa, India
+deathPlace: Sri Lankanatural causes
+region: India
 feastDay:
   month: 1
   day: 16
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Goa and Damão, India, archdiocese of"
+  - Goa and Damão, India, archdiocese of
 martyr: false
 ---
 

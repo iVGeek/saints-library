@@ -1,42 +1,46 @@
 ---
-name: "Saint Joseph of Cupertino"
+name: Saint Joseph of Cupertino
 honorific: Saint
-summary: "Joseph's father, Felice Desa was a poor carpenter who died before the boy was born. Creditors drove his mother, Francesca Panara, from her home, and Joseph was born in a stable. Starting at age eight, he received ecstatic visions that left him gaping and staring into space. He ha"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A_Miracle_of_Saint_Joseph_of_Cupertino_%281603%E2%80%931663%29_MET_DP-12357-001_%28cropped%29.jpg/960px-A_Miracle_of_Saint_Joseph_of_Cupertino_%281603%E2%80%931663%29_MET_DP-12357-001_%28cropped%29.jpg"
+summary: >-
+  Joseph's father, Felice Desa was a poor carpenter who died before the boy was born. Creditors drove his mother,
+  Francesca Panara, from her home, and Joseph was born in a stable. Starting at age eight, he received ecstatic visions
+  that left him gaping and staring into space. He ha
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/A_Miracle_of_Saint_Joseph_of_Cupertino_%25281603%25E2%2580%25931663%2529_MET_DP-12357-001_%2528cropped%2529.jpg?width=600
 searchAliases:
-  - "Giuseppe da Copertino"
-  - "Joseph Desa"
-  - "Joseph of Copertino"
-  - "the Flying Friar"
-  - "the Gaper (derogatory term from his childhood)"
+  - Giuseppe da Copertino
+  - Joseph Desa
+  - Joseph of Copertino
+  - the Flying Friar
+  - the Gaper (derogatory term from his childhood)
 birthYear: 1603
 deathYear: 1663
-born: "17 June 1603 at Cupertino, diocese of Nardo, near Brindisi in the kingdom of Naples, Italy as Joseph Desa"
-died: "18 September 1663 at Ossimo, Italy of a rapidly developed but severe fever"
-birthPlace: "dioceseNardo, near Brindisi in the kingdom of Naples, Italy as Joseph Desa"
-deathPlace: "Italya rapidly developed but severe fever"
-region: "France"
+born: 17 June 1603 at Cupertino, diocese of Nardo, near Brindisi in the kingdom of Naples, Italy as Joseph Desa
+died: 18 September 1663 at Ossimo, Italy of a rapidly developed but severe fever
+birthPlace: dioceseNardo, near Brindisi in the kingdom of Naples, Italy as Joseph Desa
+deathPlace: Italya rapidly developed but severe fever
+region: France
 feastDay:
   month: 9
   day: 18
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "air crews"
-  - "Air Forces"
-  - "air travellers"
-  - "aircraft pilots"
-  - "astronauts"
-  - "aviators"
-  - "flyers"
-  - "paratroopers"
-  - "students"
-  - "test takers"
-  - "—"
-  - "Cupertino, Italy"
-  - "Osimo, Italy"
+  - air crews
+  - Air Forces
+  - air travellers
+  - aircraft pilots
+  - astronauts
+  - aviators
+  - flyers
+  - paratroopers
+  - students
+  - test takers
+  - —
+  - Cupertino, Italy
+  - Osimo, Italy
 martyr: false
 ---
 

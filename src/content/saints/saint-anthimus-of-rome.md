@@ -1,12 +1,15 @@
 ---
-name: "Saint Anthimus of Rome"
+name: Saint Anthimus of Rome
 honorific: Saint
-summary: "Parish priest in Rome, Italy, noted for his conversions, including that of a Roman prefect. The official's change of faith brought Anthimus to the attention of Roman officials who condemned him to drown in the Tiber for his religion. Thrown in, he was rescued by an angel. Continu"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sant%27Antimo_prete_e_martire.jpg/960px-Sant%27Antimo_prete_e_martire.jpg"
+summary: >-
+  Parish priest in Rome, Italy, noted for his conversions, including that of a Roman prefect. The official's change of
+  faith brought Anthimus to the attention of Roman officials who condemned him to drown in the Tiber for his religion.
+  Thrown in, he was rescued by an angel. Continu
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sant%2527Antimo_prete_e_martire.jpg?width=600
 deathYear: 303
-died: "beheaded in 303 on the Via Salaria outside Rome, Italy"
-deathPlace: "Italy"
-region: "France"
+died: beheaded in 303 on the Via Salaria outside Rome, Italy
+deathPlace: Italy
+region: France
 feastDay:
   month: 5
   day: 11

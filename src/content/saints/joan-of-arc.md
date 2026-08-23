@@ -2,8 +2,10 @@
 name: Joan of Arc
 honorific: Saint
 title: Virgin, Patroness of France
-summary: The peasant girl who led armies in the name of God, was burned as a heretic, and was declared innocent by the Church that condemned her.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg
+summary: >-
+  The peasant girl who led armies in the name of God, was burned as a heretic, and was declared innocent by the Church
+  that condemned her.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Joan_of_Arc_miniature_graded.jpg?width=600
 imageAlt: Portrait of Joan of Arc
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,7 +21,8 @@ died: 30 May 1431
 birthPlace: Domrémy, France
 deathPlace: Rouen, France
 region: France
-centuries: [15]
+centuries:
+  - 15
 feastDay:
   month: 5
   day: 30
@@ -49,48 +52,42 @@ symbols:
   - Lily
 martyr: true
 lifeEvents:
-  - year: "c. 1412"
+  - year: c. 1412
     event: Born to pious farming parents at Domrémy on the border of Lorraine and Champagne.
-  - year: "1425"
+  - year: '1425'
     event: Begins hearing the voices of Saints Michael, Catherine, and Margaret calling her to save France.
-  - year: "1429"
+  - year: '1429'
     event: Travels to Vaucouleurs and to Chinon, where she is recognized by the Dauphin Charles VII.
-  - year: "1429"
+  - year: '1429'
     event: Leads the relief of Orleans and the march to Reims, where Charles is crowned king.
-  - year: "May 1430"
+  - year: May 1430
     event: Captured by Burgundian forces at Compiègne and sold to the English.
-  - year: "1431"
+  - year: '1431'
     event: Tried by an ecclesiastical court at Rouen; convicted of heresy and burned on 30 May 1431.
-  - year: "1456"
-    event: >-
-      A retrial ordered by Pope Callistus III declares her innocent: the "Trial of Rehabilitation."
-  - year: "1920"
+  - year: '1456'
+    event: 'A retrial ordered by Pope Callistus III declares her innocent: the "Trial of Rehabilitation."'
+  - year: '1920'
     event: Canonized by Pope Benedict XV.
 quotes:
-  - text: >-
-      I am not afraid... I was born to do this.
+  - text: I am not afraid... I was born to do this.
     source: At her trial, Rouen 1431
-  - text: >-
-      I would rather die than do something which I know to be a sin.
+  - text: I would rather die than do something which I know to be a sin.
     source: At her trial, Rouen 1431
 prayers:
   - name: Prayer to Saint Joan of Arc
     kind: Traditional prayer of courage
     text: >-
-      O Saint Joan, you heard the voice of God and followed it into battle and to the fire.
-      Obtain for us courage to hear His voice in our own hearts, fidelity to our convictions,
-      and trust in God when we are mocked or condemned. As you were brave in the face of your
-      enemies, make us brave in the face of our fears. Amen.
-  - name: "Novena to Saint Joan of Arc"
-    kind: "Novena — nine-day prayer for courage and conviction"
+      O Saint Joan, you heard the voice of God and followed it into battle and to the fire. Obtain for us courage to
+      hear His voice in our own hearts, fidelity to our convictions, and trust in God when we are mocked or condemned.
+      As you were brave in the face of your enemies, make us brave in the face of our fears. Amen.
+  - name: Novena to Saint Joan of Arc
+    kind: Novena — nine-day prayer for courage and conviction
     text: >-
-      O Saint Joan of Arc, humble peasant girl whom God chose to lead the armies of France,
-      intercede for me before the throne of God. You who heard the voices of Saints Michael,
-      Catherine, and Margaret with unwavering faith, help me to hear and follow God's call in my
-      own life. You who showed extraordinary courage in the face of impossible odds, grant me the
-      strength to face my own battles with faith and determination. O Saint Joan, patron of
-      soldiers and of France, pray for me that I may have the courage to do God's will in all
-      things. Amen.
+      O Saint Joan of Arc, humble peasant girl whom God chose to lead the armies of France, intercede for me before the
+      throne of God. You who heard the voices of Saints Michael, Catherine, and Margaret with unwavering faith, help me
+      to hear and follow God's call in my own life. You who showed extraordinary courage in the face of impossible odds,
+      grant me the strength to face my own battles with faith and determination. O Saint Joan, patron of soldiers and of
+      France, pray for me that I may have the courage to do God's will in all things. Amen.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

@@ -2,8 +2,7 @@
 name: Rose of Lima
 honorific: Saint
 title: Virgin, Religious
-
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg/330px-Sta_Rosa_de_Lima_por_Claudio_Coello.jpg
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg?width=600
 imageAlt: Portrait of Rose of Lima
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +17,8 @@ died: 24 August 1617
 birthPlace: Lima, Peru
 deathPlace: Lima, Peru
 region: Peru
-centuries: [17]
+centuries:
+  - 17
 feastDay:
   month: 8
   day: 23
@@ -42,28 +42,26 @@ symbols:
   - Crucifix
 martyr: false
 lifeEvents:
-  - year: "20 April 1586"
+  - year: 20 April 1586
     event: Born Isabel Flores de Oliva in Lima, of Spanish and indigenous parentage.
-  - year: "1606"
+  - year: '1606'
     event: Takes a vow of perpetual virginity and builds a small hermitage in her parents' garden.
-  - year: "1606–1617"
+  - year: 1606–1617
     event: Lives a life of intense prayer, fasting, and penance while caring for the poor and sick of Lima.
-  - year: "24 August 1617"
+  - year: 24 August 1617
     event: Dies at Lima, having spent her last hours before a crucifix.
-  - year: "12 April 1671"
+  - year: 12 April 1671
     event: Canonized by Pope Clement X, the first saint born in the Americas.
 quotes:
-  - text: >-
-      Apart from the cross, there is no other ladder by which we may get to heaven.
+  - text: Apart from the cross, there is no other ladder by which we may get to heaven.
     source: Attributed to Saint Rose of Lima
 prayers:
   - name: Prayer to Saint Rose of Lima
     kind: Prayer for the poor and for those who seek God in hiddenness
     text: >-
-      O Saint Rose, first flower of the New World, who sought God in the hiddenness of your
-      garden, teach us to find Him in the quiet places of our lives. Comfort the poor, protect
-      the flowers of the earth, and intercede for all who live in the Americas, that the faith
-      planted by the saints may never wither. Amen.
+      O Saint Rose, first flower of the New World, who sought God in the hiddenness of your garden, teach us to find Him
+      in the quiet places of our lives. Comfort the poor, protect the flowers of the earth, and intercede for all who
+      live in the Americas, that the faith planted by the saints may never wither. Amen.
 relatedSaints:
   - name: Martin de Porres
     slug: martin-de-porres

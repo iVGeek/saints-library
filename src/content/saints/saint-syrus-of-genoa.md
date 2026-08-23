@@ -1,13 +1,13 @@
 ---
-name: "Saint Syrus of Genoa"
+name: Saint Syrus of Genoa
 honorific: Saint
-summary: "Parish priest. Spiritual student of Saint Felix of Genoa. Bishop of Genoa, Italy."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Polittico_S_Siro_01.jpg/960px-Polittico_S_Siro_01.jpg"
+summary: Parish priest. Spiritual student of Saint Felix of Genoa. Bishop of Genoa, Italy.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Polittico_S_Siro_01.jpg?width=600
 searchAliases:
-  - "Siro"
+  - Siro
 deathYear: 380
-died: "c.380 of natural causes"
-region: "France"
+died: c.380 of natural causes
+region: France
 feastDay:
   month: 6
   day: 29
@@ -17,7 +17,7 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Genoa, Italy"
+  - Genoa, Italy
 martyr: false
 ---
 

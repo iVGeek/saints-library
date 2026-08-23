@@ -1,19 +1,23 @@
 ---
-name: "Saint John the Silent"
+name: Saint John the Silent
 honorific: Saint
-summary: "Son of Enkratios, a military commander, and Euphemia; his brother and other family members were advisors to emperors. John received an excellent secular and religious education. His parents died in 471, and at age 18 John used his inheritance to build the Church of the Most Holy"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/John_the_Silent_of_St._Sabbas%27_Monastery_%28Menologion_of_Basil_II%29.jpg/960px-John_the_Silent_of_St._Sabbas%27_Monastery_%28Menologion_of_Basil_II%29.jpg"
+summary: >-
+  Son of Enkratios, a military commander, and Euphemia; his brother and other family members were advisors to emperors.
+  John received an excellent secular and religious education. His parents died in 471, and at age 18 John used his
+  inheritance to build the Church of the Most Holy
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/John_the_Silent_of_St._Sabbas%2527_Monastery_%2528Menologion_of_Basil_II%2529.jpg?width=600
 searchAliases:
-  - "John Hesychastes"
-  - "John Sabaites"
-  - "John Silentiarius"
-  - "John the Silent"
+  - John Hesychastes
+  - John Sabaites
+  - John Silentiarius
+  - John the Silent
 birthYear: 454
 deathYear: 558
-born: "8 January 454 at Nicopolis, Armenia"
-died: "8 January 558 in Jerusalem of natural causes"
-birthPlace: "Armenia"
-region: "Holy Land"
+born: 8 January 454 at Nicopolis, Armenia
+died: 8 January 558 in Jerusalem of natural causes
+birthPlace: Armenia
+region: Holy Land
 feastDay:
   month: 12
   day: 7

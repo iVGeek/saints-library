@@ -1,21 +1,24 @@
 ---
-name: "Saint Abraham Kidunaia"
+name: Saint Abraham Kidunaia
 honorific: Saint
-summary: "Born to a wealthy family near Edessa, Syria. Forced into an arranged marriage at an early age. During the wedding festivities, Abraham fled. He walled himself up in a nearby building, leaving a small hole through which his family could send in food and water, and by which he coul"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg/960px-Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg"
+summary: >-
+  Born to a wealthy family near Edessa, Syria. Forced into an arranged marriage at an early age. During the wedding
+  festivities, Abraham fled. He walled himself up in a nearby building, leaving a small hole through which his family
+  could send in food and water, and by which he coul
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Kidunaia_%2528Menologion_of_Basil_II%2529.jpg?width=600
 searchAliases:
-  - "Abraham the Great of Kidunja"
-  - "Abraham of Edessa"
-  - "Abraham of Kidunja"
-  - "Abrhahn of Kidunaja"
-  - "Abraham the Hermit"
+  - Abraham the Great of Kidunja
+  - Abraham of Edessa
+  - Abraham of Kidunja
+  - Abrhahn of Kidunaja
+  - Abraham the Hermit
 birthYear: 296
 deathYear: 366
-born: "c.296 at Edessa, Osrhoene, Mesopotamia (in modern Syria)"
-died: "c.366 at Edessa, Osrhoene, Mesopotamia (in modern Syria) of natural causes"
-birthPlace: "Osrhoene, Mesopotamia (modern Syria)"
-deathPlace: "Osrhoene, Mesopotamia (modern Syria) of natural causes"
-region: "Syria"
+born: c.296 at Edessa, Osrhoene, Mesopotamia (in modern Syria)
+died: c.366 at Edessa, Osrhoene, Mesopotamia (in modern Syria) of natural causes
+birthPlace: Osrhoene, Mesopotamia (modern Syria)
+deathPlace: Osrhoene, Mesopotamia (modern Syria) of natural causes
+region: Syria
 feastDay:
   month: 10
   day: 29

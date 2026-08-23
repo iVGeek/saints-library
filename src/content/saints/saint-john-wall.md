@@ -1,30 +1,34 @@
 ---
-name: "Saint John Wall"
+name: Saint John Wall
 honorific: Venerable
-summary: "Born to a wealthy Catholic family. Studied in Douai, France and entered the Roman College on 5 November 1641, using the name John Marsh. Ordained 3 December 1645. Joined the Friars Minor in Rome on 1 January 1651, taking the name Joachim of Saint Anne. Vicar and novice-master at"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2019_John_Wall_%2848823815693%29.jpg/960px-2019_John_Wall_%2848823815693%29.jpg"
+summary: >-
+  Born to a wealthy Catholic family. Studied in Douai, France and entered the Roman College on 5 November 1641, using
+  the name John Marsh. Ordained 3 December 1645. Joined the Friars Minor in Rome on 1 January 1651, taking the name
+  Joachim of Saint Anne. Vicar and novice-master at
+image: https://commons.wikimedia.org/wiki/Special:FilePath/2019_John_Wall_%252848823815693%2529.jpg?width=600
 searchAliases:
-  - "Francis Dormore"
-  - "Francis Johnson"
-  - "Francis Webb"
-  - "Joachim of Saint Anne"
-  - "John Marsh"
+  - Francis Dormore
+  - Francis Johnson
+  - Francis Webb
+  - Joachim of Saint Anne
+  - John Marsh
 birthYear: 1620
 deathYear: 1679
-born: "1620 Chingle Hall near Preston, Lancashire, England"
-died: "hanged, drawn, and quartered on 22 August 1679 near Redhill, Corcester, England"
-birthPlace: "Lancashire, England"
-deathPlace: "drawn, and quartered on 22 August 1679 near Redhill, Corcester, England"
-region: "France"
+born: 1620 Chingle Hall near Preston, Lancashire, England
+died: hanged, drawn, and quartered on 22 August 1679 near Redhill, Corcester, England
+birthPlace: Lancashire, England
+deathPlace: drawn, and quartered on 22 August 1679 near Redhill, Corcester, England
+region: France
 feastDay:
   month: 8
   day: 22
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
 ---
 

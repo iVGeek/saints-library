@@ -2,8 +2,11 @@
 name: Juan Diego
 honorific: Saint
 title: Layman
-summary: The humble Aztec convert who received the vision of Our Lady of Guadalupe on Tepeyac hill — messenger of the tilma that still hangs in her basilica.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MIguel_Cabrera_-_Fiel_retrato_do_vener%C3%A1vel_Juan_Diego.jpg/330px-MIguel_Cabrera_-_Fiel_retrato_do_vener%C3%A1vel_Juan_Diego.jpg
+summary: >-
+  The humble Aztec convert who received the vision of Our Lady of Guadalupe on Tepeyac hill — messenger of the tilma
+  that still hangs in her basilica.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/MIguel_Cabrera_-_Fiel_retrato_do_vener%25C3%25A1vel_Juan_Diego.jpg?width=600
 imageAlt: Portrait of Juan Diego
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +21,9 @@ died: 30 May 1548
 birthPlace: Cuautitlán, Mexico
 deathPlace: Mexico City, Mexico
 region: Mexico
-centuries: [15, 16]
+centuries:
+  - 15
+  - 16
 feastDay:
   month: 12
   day: 9
@@ -40,32 +45,30 @@ symbols:
   - Cactus
 martyr: false
 lifeEvents:
-  - year: "c. 1474"
+  - year: c. 1474
     event: Born as Cuauhtlatoatzin in Cuautitlán, some fourteen years before the Spanish conquest of Mexico.
-  - year: "1524"
+  - year: '1524'
     event: Baptized as "Juan Diego" by the first Franciscan missionaries of Mexico.
-  - year: "9 December 1531"
+  - year: 9 December 1531
     event: On his way to Mass at Tlatelolco, sees the Virgin Mary on Tepeyac hill; she asks that a church be built there.
-  - year: "10–12 December 1531"
+  - year: 10–12 December 1531
     event: The bishop asks for a sign; the Virgin gives Juan Diego roses in winter and leaves her image on his tilma.
-  - year: "1531"
+  - year: '1531'
     event: The shrine of Guadalupe is begun; Juan Diego, widowed and childless, is allowed to live beside it as its keeper.
-  - year: "30 May 1548"
+  - year: 30 May 1548
     event: Dies at the age of seventy-four, at the shrine he was given to guard.
-  - year: "31 July 2002"
+  - year: 31 July 2002
     event: Canonized by Pope John Paul II in Mexico City.
 quotes:
-  - text: >-
-      Am I not here, I, who am your mother? Are you not in my shadow and my protection?
+  - text: Am I not here, I, who am your mother? Are you not in my shadow and my protection?
     source: Words of Our Lady of Guadalupe to Juan Diego
 prayers:
   - name: Prayer to Saint Juan Diego
     kind: Prayer for trust in God's call and for indigenous peoples
     text: >-
-      O Saint Juan Diego, who trusted the message of heaven when the learned would not believe,
-      obtain for us a simple and obedient faith. Help all who feel small and unworthy to hear the
-      voice of God speaking to them, and grant that the peoples of the Americas may honor in you
-      the dignity of every child of God. Amen.
+      O Saint Juan Diego, who trusted the message of heaven when the learned would not believe, obtain for us a simple
+      and obedient faith. Help all who feel small and unworthy to hear the voice of God speaking to them, and grant that
+      the peoples of the Americas may honor in you the dignity of every child of God. Amen.
 relatedSaints:
   - name: Kateri Tekakwitha
     slug: kateri-tekakwitha

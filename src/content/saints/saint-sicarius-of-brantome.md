@@ -1,25 +1,25 @@
 ---
-name: "Saint Sicarius of Brantôme"
+name: Saint Sicarius of Brantôme
 honorific: Saint
-summary: "One of the Holy Innocents who died by order of King Herod."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Montagrier_%C3%A9glise_vitrail_%283%29.JPG/960px-Montagrier_%C3%A9glise_vitrail_%283%29.JPG"
+summary: One of the Holy Innocents who died by order of King Herod.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Montagrier_%25C3%25A9glise_vitrail_%25283%2529.JPG?width=600
 searchAliases:
-  - "Sicarius of Bethlehem"
-  - "Sicarius the Innocent"
-  - "Sicario…"
-  - "Sicaire…"
-  - "Sicharius…"
-died: "murdered in Bethlehem in Judea in the Massacre of the Innocents"
-region: "France"
+  - Sicarius of Bethlehem
+  - Sicarius the Innocent
+  - Sicario…
+  - Sicaire…
+  - Sicharius…
+died: murdered in Bethlehem in Judea in the Massacre of the Innocents
+region: France
 feastDay:
   month: 5
   day: 2
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Brantôme, France"
+  - Brantôme, France
 martyr: false
 ---
 

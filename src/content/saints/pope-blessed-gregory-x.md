@@ -1,18 +1,18 @@
 ---
-name: "Pope Blessed Gregory X"
+name: Pope Blessed Gregory X
 honorific: Blessed
-summary: " Worked Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg/960px-Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg"
+summary: ' Worked Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Gregory_X%252C_Buffalmacco%252C_Arezzo_Cathedral.jpg?width=600
 searchAliases:
-  - "Teobaldo Visconti"
-  - "Theobald Visconti"
+  - Teobaldo Visconti
+  - Theobald Visconti
 birthYear: 1210
 deathYear: 1276
-born: "1210 in Piacenza, Italy as Theobald Visconti"
-died: "10 January 1276 at Arezzo, Italy of a fever"
-birthPlace: "Italy as Theobald Visconti"
-deathPlace: "Italya fever"
-region: "Belgium"
+born: 1210 in Piacenza, Italy as Theobald Visconti
+died: 10 January 1276 at Arezzo, Italy of a fever
+birthPlace: Italy as Theobald Visconti
+deathPlace: Italya fever
+region: Belgium
 feastDay:
   month: 3
   day: 19

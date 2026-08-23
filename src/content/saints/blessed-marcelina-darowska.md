@@ -1,17 +1,20 @@
 ---
-name: "Blessed Marcelina Darowska"
+name: Blessed Marcelina Darowska
 honorific: Blessed
-summary: "Born to a land-owning Polish family, Marcellina was a pious child with a love of prayer. Though she would have preferred a religious life, she promised her dying father that she would marry and raise a family. Married Karol Darowski in 1849, and sanctified her marriage “by living"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MarcelinaDarowska1DSC_0167.JPG/960px-MarcelinaDarowska1DSC_0167.JPG"
+summary: >-
+  Born to a land-owning Polish family, Marcellina was a pious child with a love of prayer. Though she would have
+  preferred a religious life, she promised her dying father that she would marry and raise a family. Married Karol
+  Darowski in 1849, and sanctified her marriage “by living
+image: https://commons.wikimedia.org/wiki/Special:FilePath/MarcelinaDarowska1DSC_0167.JPG?width=600
 searchAliases:
-  - "Marcellina Mary of the Immaculate Conception"
+  - Marcellina Mary of the Immaculate Conception
 birthYear: 1827
 deathYear: 1911
-born: "28 January 1827 at Szulaki, Poland (now in Ukraine) as Marcelina Kotowicz"
-died: "5 January 1911 at Jazlowiec, Poland (now in Ukraine) of natural causes"
-birthPlace: "Poland (nowUkraine) as Marcelina Kotowicz"
-deathPlace: "Poland (nowUkraine) of natural causes"
-region: "Italy"
+born: 28 January 1827 at Szulaki, Poland (now in Ukraine) as Marcelina Kotowicz
+died: 5 January 1911 at Jazlowiec, Poland (now in Ukraine) of natural causes
+birthPlace: Poland (nowUkraine) as Marcelina Kotowicz
+deathPlace: Poland (nowUkraine) of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 5

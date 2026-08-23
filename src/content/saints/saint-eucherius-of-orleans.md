@@ -1,17 +1,20 @@
 ---
-name: "Saint Eucherius of Orléans"
+name: Saint Eucherius of Orléans
 honorific: Saint
-summary: "Born to the nobility, Eucherius was a very pious in youth, and highly educated; legend says that his pregnant mother had a dream of an angel who told her that her unborn son would be a holy bishop, and blessed them both. He took the cowl in Jumièges, Normandy, France in 714. When"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sint-Truiden%2C_OLV-kerk%2C_schatkamer12.jpg/960px-Sint-Truiden%2C_OLV-kerk%2C_schatkamer12.jpg"
+summary: >-
+  Born to the nobility, Eucherius was a very pious in youth, and highly educated; legend says that his pregnant mother
+  had a dream of an angel who told her that her unborn son would be a holy bishop, and blessed them both. He took the
+  cowl in Jumièges, Normandy, France in 714. When
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Sint-Truiden%252C_OLV-kerk%252C_schatkamer12.jpg?width=600
 searchAliases:
-  - "Euchaire"
-  - "Eucher"
-  - "Eucherio"
+  - Euchaire
+  - Eucher
+  - Eucherio
 deathYear: 743
-born: "at Orleans, France"
-died: "20 February 743 at the monastery of Sint-Tuiden in Belgium of natural causes"
-birthPlace: "France"
-region: "Belgium"
+born: at Orleans, France
+died: 20 February 743 at the monastery of Sint-Tuiden in Belgium of natural causes
+birthPlace: France
+region: Belgium
 feastDay:
   month: 2
   day: 20
@@ -21,7 +24,7 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

@@ -15,8 +15,9 @@ born: 1st century BC
 died: c. AD 64–67
 birthPlace: Bethsaida, Holy Land
 deathPlace: Rome, Italy
-region: "Italy"
-centuries: [1]
+region: Italy
+centuries:
+  - 1
 feastDay:
   month: 6
   day: 29
@@ -40,49 +41,45 @@ symbols:
   - Rooster
   - Rock
 martyr: true
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Peter-Sinai_%286th_Century%29_Crop.jpg/330px-Saint_Peter-Sinai_%286th_Century%29_Crop.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Peter-Sinai_%25286th_Century%2529_Crop.jpg?width=600
 imageAlt: Rubens's depiction of the Apostle Saint Peter as Pope
 imageCredit: Peter Paul Rubens (1610–1612) — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Pope-peter_pprubens.jpg"
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pope-peter_pprubens.jpg
 lifeEvents:
-  - year: "1st century BC"
+  - year: 1st century BC
     event: Born Simon son of John in Bethsaida; a fisherman on the Sea of Galilee.
-  - year: "Matthew 4:18–20"
+  - year: Matthew 4:18–20
     event: Called by Jesus to be "fishers of men"; leaves his nets and follows.
-  - year: "Matthew 16:16–19"
+  - year: Matthew 16:16–19
     event: Confesses Jesus as the Christ; Jesus names him Peter and gives him the keys of the kingdom.
-  - year: "Matthew 14:28–31"
+  - year: Matthew 14:28–31
     event: Walks on the water toward Jesus, beginning to sink, and is saved.
-  - year: "Luke 22:31–34"
+  - year: Luke 22:31–34
     event: Jesus prays that Peter's faith may not fail and foretells his denial.
-  - year: "Matthew 26:69–75"
+  - year: Matthew 26:69–75
     event: Denies Christ three times at the fire in the high priest's courtyard; weeps bitterly.
-  - year: "John 21:15–19"
+  - year: John 21:15–19
     event: Restored by the Risen Christ, who asks three times, "Do you love me?"
-  - year: "Acts 2"
+  - year: Acts 2
     event: Preaches at Pentecost; three thousand are baptized.
-  - year: "Acts 10"
+  - year: Acts 10
     event: Receives the centurion Cornelius into the Church, opening baptism to the Gentiles.
-  - year: "c. AD 64–67"
+  - year: c. AD 64–67
     event: Martyred in Rome under Nero, crucified upside down at his own request.
 quotes:
-  - text: >-
-      You are the Christ, the Son of the living God.
+  - text: You are the Christ, the Son of the living God.
     source: Matthew 16:16
-  - text: >-
-      Lord, you know everything; you know that I love you.
+  - text: Lord, you know everything; you know that I love you.
     source: John 21:17
-  - text: >-
-      Silver and gold I have not, but what I have I give you: in the name of Jesus Christ the Nazorean, walk.
+  - text: 'Silver and gold I have not, but what I have I give you: in the name of Jesus Christ the Nazorean, walk.'
     source: Acts 3:6
 prayers:
   - name: Prayer of Saint Peter
     kind: Prayer of faith and fidelity
     text: >-
-      O Lord, you called Simon, a humble fisherman, to be Peter, the rock of your Church. Grant
-      us a share in his faith, his courage, and his repentance. When we are weak, strengthen us;
-      when we deny you, call us back; and when you ask us if we love you, give us grace to
-      answer, "Lord, you know everything; you know that I love you." Amen.
+      O Lord, you called Simon, a humble fisherman, to be Peter, the rock of your Church. Grant us a share in his faith,
+      his courage, and his repentance. When we are weak, strengthen us; when we deny you, call us back; and when you ask
+      us if we love you, give us grace to answer, "Lord, you know everything; you know that I love you." Amen.
 relatedSaints:
   - name: Mary Magdalene
     slug: mary-magdalene

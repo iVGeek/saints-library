@@ -1,14 +1,17 @@
 ---
-name: "Saint Columba of Sens"
+name: Saint Columba of Sens
 honorific: Saint
-summary: "Born to the Spanish nobility. At age 16 she and other Christians fled Spain for Gaul (modern France) to escape the persecutions of Emperor Aurelian. They were located, however, and imprisoned. Legend says that while Columba was in prison, one of the jailers tried to rape her; a b"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hattstatt_SteColombe04.JPG/960px-Hattstatt_SteColombe04.JPG"
+summary: >-
+  Born to the Spanish nobility. At age 16 she and other Christians fled Spain for Gaul (modern France) to escape the
+  persecutions of Emperor Aurelian. They were located, however, and imprisoned. Legend says that while Columba was in
+  prison, one of the jailers tried to rape her; a b
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Hattstatt_SteColombe04.JPG?width=600
 birthYear: 257
 deathYear: 273
-born: "c.257 in Spain"
-died: "beheaded in 273 at Sens, France near a fountain named d'Azon"
-deathPlace: "France near a fountanamed d'Azon"
-region: "France"
+born: c.257 in Spain
+died: beheaded in 273 at Sens, France near a fountain named d'Azon
+deathPlace: France near a fountanamed d'Azon
+region: France
 feastDay:
   month: 12
   day: 31
@@ -18,14 +21,14 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "for rain"
-  - "doves"
-  - "pigeons"
-  - "–"
-  - "Charvensod, Italy"
-  - "Deerlijk, Belgium"
-  - "Meaux, France"
-  - "Sens, France"
+  - for rain
+  - doves
+  - pigeons
+  - –
+  - Charvensod, Italy
+  - Deerlijk, Belgium
+  - Meaux, France
+  - Sens, France
 martyr: true
 ---
 

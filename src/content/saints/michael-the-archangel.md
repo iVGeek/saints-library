@@ -16,7 +16,8 @@ died: Ever-living spirit
 birthPlace: Heaven
 deathPlace: —
 region: Heaven
-centuries: [1]
+centuries:
+  - 1
 feastDay:
   month: 9
   day: 29
@@ -39,49 +40,46 @@ symbols:
   - Dragon underfoot
   - Banner
 martyr: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GuidoReni_MichaelDefeatsSatan.jpg/330px-GuidoReni_MichaelDefeatsSatan.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/GuidoReni_MichaelDefeatsSatan.jpg?width=600
 imageAlt: Guido Reni's Archangel Michael defeats Satan, c. 1636
 imageCredit: Guido Reni (1636), Santa Maria della Concezione, Rome — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg"
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:GuidoReni_MichaelDefeatsSatan.jpg
 lifeEvents:
-  - year: "Eternity"
+  - year: Eternity
     event: Created as one of the archangels, "like God" — the meaning of his name Michael.
-  - year: "Scripture"
+  - year: Scripture
     event: Daniel speaks of Michael as the great prince who guards the people of God.
-  - year: "Scripture"
-    event: >-
-      The Book of Revelation: "Michael and his angels fought against the dragon."
-  - year: "Scripture"
+  - year: Scripture
+    event: 'The Book of Revelation: "Michael and his angels fought against the dragon."'
+  - year: Scripture
     event: Jude recalls a dispute in which Michael, showing reverence, would not blaspheme the devil.
-  - year: "Tradition"
+  - year: Tradition
     event: Honored as protector of the Church and guardian of souls from the earliest centuries.
-  - year: "1899"
+  - year: '1899'
     event: Pope Leo XIII composes the Prayer to Saint Michael and asks that it be recited after Low Mass.
 quotes:
   - text: >-
-      Michael and his angels fought against the dragon, and the dragon and his angels fought back, but they were defeated.
+      Michael and his angels fought against the dragon, and the dragon and his angels fought back, but they were
+      defeated.
     source: Revelation 12:7–8
-  - text: >-
-      At that time there shall arise Michael, the great prince, guardian of your people.
+  - text: At that time there shall arise Michael, the great prince, guardian of your people.
     source: Daniel 12:1
 prayers:
   - name: Prayer to Saint Michael the Archangel
     kind: Composed by Pope Leo XIII (1886)
     text: >-
-      Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness
-      and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the
-      heavenly host, by the power of God, thrust into hell Satan and all the evil spirits who
-      prowl about the world seeking the ruin of souls. Amen.
-  - name: "Novena to Saint Michael the Archangel"
-    kind: "Novena — nine-day prayer for protection"
+      Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the
+      devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, thrust
+      into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.
+  - name: Novena to Saint Michael the Archangel
+    kind: Novena — nine-day prayer for protection
     text: >-
-      O glorious Prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls,
-      vanquisher of rebel spirits, servant in the house of the Divine King and our admirable
-      conductor, you who shine with excellence and superhuman virtue, deliver us from all evil, who
-      turn to you with confidence. O powerful Prince Saint Michael, I come before you to ask for your
-      intercession in this great need. Through your divine power, scatter the forces of evil and
-      protect me from their snares. By the authority God has given you, help me in this urgent
-      matter and bring it to a speedy and favorable resolution. Amen.
+      O glorious Prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel
+      spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and
+      superhuman virtue, deliver us from all evil, who turn to you with confidence. O powerful Prince Saint Michael, I
+      come before you to ask for your intercession in this great need. Through your divine power, scatter the forces of
+      evil and protect me from their snares. By the authority God has given you, help me in this urgent matter and bring
+      it to a speedy and favorable resolution. Amen.
 relatedSaints:
   - name: Joseph
     slug: joseph

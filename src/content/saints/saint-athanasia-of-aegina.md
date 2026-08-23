@@ -1,15 +1,18 @@
 ---
-name: "Saint Athanasia of Aegina"
+name: Saint Athanasia of Aegina
 honorific: Saint
-summary: "Born to the nobility, the daughter of Nikita and Marina, Athanasia grew up in a pious family. She early felt drawn to the religious life; legend says that when she was a young girl learning to weave, a star suddenly appeared, settled over her heart, and she was enlightened. Howev"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/St._Athanasia%2C_Widow_Met_DP891072.jpg/960px-St._Athanasia%2C_Widow_Met_DP891072.jpg"
+summary: >-
+  Born to the nobility, the daughter of Nikita and Marina, Athanasia grew up in a pious family. She early felt drawn to
+  the religious life; legend says that when she was a young girl learning to weave, a star suddenly appeared, settled
+  over her heart, and she was enlightened. Howev
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St._Athanasia%252C_Widow_Met_DP891072.jpg?width=600
 searchAliases:
-  - "Athanasia of Constantinople"
+  - Athanasia of Constantinople
 deathYear: 860
-born: "8th century on the Island of Aegina, Greece"
-died: "14 August 860 at Timia of natural causes"
-birthPlace: "Greece"
-region: "Turkey"
+born: 8th century on the Island of Aegina, Greece
+died: 14 August 860 at Timia of natural causes
+birthPlace: Greece
+region: Turkey
 feastDay:
   month: 4
   day: 18

@@ -1,17 +1,19 @@
 ---
-name: "Saint Terence of Pesaro"
+name: Saint Terence of Pesaro
 honorific: Saint
-summary: "Fled to across the Adriatic Sea Italy to escape persecutions in Pannonia (modern Hungary in the early 3rd century. Bishop of Pesaro, Italy. Martyr."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Saint_Terence_of_Pesaro.jpg/960px-Saint_Terence_of_Pesaro.jpg"
+summary: >-
+  Fled to across the Adriatic Sea Italy to escape persecutions in Pannonia (modern Hungary in the early 3rd century.
+  Bishop of Pesaro, Italy. Martyr.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Terence_of_Pesaro.jpg?width=600
 searchAliases:
-  - "Terentianus"
-  - "Terenzio"
+  - Terentianus
+  - Terenzio
 birthYear: 210
 deathYear: 247
-born: "c.210 in Pannonia (modern Hungary)"
-died: "24 September 247 at Pesaro, Italy"
-deathPlace: "Italy"
-region: "Hungary"
+born: c.210 in Pannonia (modern Hungary)
+died: 24 September 247 at Pesaro, Italy
+deathPlace: Italy
+region: Hungary
 feastDay:
   month: 9
   day: 24
@@ -20,8 +22,11 @@ vocation:
   - Bishop
   - Soldier
 patronage:
-  - "in Italy\n\nPesaro, archdiocese of"
-  - "Pesaro, city of"
+  - |-
+    in Italy
+
+    Pesaro, archdiocese of
+  - Pesaro, city of
 martyr: true
 ---
 

@@ -1,21 +1,21 @@
 ---
-name: "Pope Saint Celestine V"
+name: Pope Saint Celestine V
 honorific: Saint
-summary: " At 20 Peter became a hermit, praying, working, and reading the Bible. He followe Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I'll become a saint!”."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg/960px-Celestine_V_Castel_Nuovo_Napoli_n02.jpg"
+summary: ' At 20 Peter became a hermit, praying, working, and reading the Bible. He followe Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I''ll become a saint!”.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Celestine_V_Castel_Nuovo_Napoli_n02.jpg?width=600
 searchAliases:
-  - "Peter Celestine"
-  - "Peter Morrone"
-  - "Peter of Moroni"
-  - "Pietro del Morrone"
-  - "Pietro di Murrone"
+  - Peter Celestine
+  - Peter Morrone
+  - Peter of Moroni
+  - Pietro del Morrone
+  - Pietro di Murrone
 birthYear: 1210
 deathYear: 1296
-born: "1210 at Isneria, Abruzzi, Italy as Pietro del Morrone"
-died: "19 May 1296 in Rome, Italy of natural causes"
-birthPlace: "Abruzzi, Italy as Pietro del Morrone"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1210 at Isneria, Abruzzi, Italy as Pietro del Morrone
+died: 19 May 1296 in Rome, Italy of natural causes
+birthPlace: Abruzzi, Italy as Pietro del Morrone
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 19
@@ -23,12 +23,15 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "bookbinders"
-  - "—"
-  - "in Italy\n\nAquila"
-  - "Isernia"
+  - bookbinders
+  - —
+  - |-
+    in Italy
+
+    Aquila
+  - Isernia
 martyr: false
 ---
 

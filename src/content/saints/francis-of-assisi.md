@@ -2,7 +2,9 @@
 name: Francis of Assisi
 honorific: Saint
 title: Founder of the Franciscan Order, Stigmatist
-summary: The Poor Man of Assisi who embraced evangelical poverty and joy; founder of the Friars Minor and one of the most beloved saints in history.
+summary: >-
+  The Poor Man of Assisi who embraced evangelical poverty and joy; founder of the Friars Minor and one of the most
+  beloved saints in history.
 searchAliases:
   - St. Francis
   - Francesco
@@ -15,14 +17,16 @@ born: c. 1181
 died: 3 October 1226
 birthPlace: Assisi, Italy
 deathPlace: Assisi, Italy
-region: "Italy"
-centuries: [12, 13]
+region: Italy
+centuries:
+  - 12
+  - 13
 feastDay:
   month: 10
   day: 4
 liturgicalRank: Memorial
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg/960px-Philip_Fruytiers_-_St._Francis_of_Assisi.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?width=600
 beatifiedDate: 16 July 1228
 canonizedDate: 16 July 1228
 vocation:
@@ -48,69 +52,62 @@ symbols:
 martyr: false
 imageAlt: A Cimabue fresco fragment depicting Saint Francis of Assisi
 imageCredit: Cimabue (c. 1240–1302), fresco fragment, Assisi — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Cimabue_Saint_Francis_Fragment.jpg"
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cimabue_Saint_Francis_Fragment.jpg
 lifeEvents:
-  - year: "1181"
+  - year: '1181'
     event: Born in Assisi to Pietro Bernardone, a wealthy cloth merchant, and his wife Pica.
-  - year: "1202–1205"
+  - year: 1202–1205
     event: Captured during a failed military campaign; imprisoned in Perugia; falls ill and begins his conversion.
-  - year: "1205"
-    event: >-
-      At San Damiano, the crucifix speaks: "Francis, rebuild my Church, which as you see is falling into ruin."
-  - year: "1206"
+  - year: '1205'
+    event: 'At San Damiano, the crucifix speaks: "Francis, rebuild my Church, which as you see is falling into ruin."'
+  - year: '1206'
     event: Publicly renounces his inheritance before the bishop, embracing Lady Poverty.
-  - year: "1209"
+  - year: '1209'
     event: First followers gather; the Rule of the Friars Minor is approved by Pope Innocent III in 1210.
-  - year: "1212"
+  - year: '1212'
     event: Clare of Assisi founds the Poor Ladies (Poor Clares) under Francis's inspiration.
-  - year: "1219"
+  - year: '1219'
     event: Travels to the Holy Land and to the crusader camp at Damietta, preaching before the Sultan.
-  - year: "1223"
+  - year: '1223'
     event: Christmas at Greccio — the first living nativity scene; approval of the final Rule by Honorius III.
-  - year: "September 1224"
+  - year: September 1224
     event: Receives the stigmata of Christ on Mount La Verna.
-  - year: "3 Oct 1226"
+  - year: 3 Oct 1226
     event: Dies at the Porziuncola singing the Canticle of the Creatures.
-  - year: "1228"
+  - year: '1228'
     event: Canonized by Pope Gregory IX, who had known him well.
 quotes:
-  - text: >-
-      Lord, make me an instrument of your peace. Where there is hatred, let me sow love; where there is injury, pardon.
+  - text: Lord, make me an instrument of your peace. Where there is hatred, let me sow love; where there is injury, pardon.
     source: Prayer of Saint Francis (traditional)
-  - text: >-
-      All the darkness in the world cannot extinguish the light of a single candle.
+  - text: All the darkness in the world cannot extinguish the light of a single candle.
     source: Traditional saying
-  - text: >-
-      Praised be You, my Lord, through Sister Mother Earth, who sustains and governs us.
+  - text: Praised be You, my Lord, through Sister Mother Earth, who sustains and governs us.
     source: Canticle of the Creatures (1224)
 prayers:
   - name: Prayer of Saint Francis
     kind: Traditional prayer of peace
     text: >-
-      Lord, make me an instrument of your peace. Where there is hatred, let me sow love; where there is
-      injury, pardon; where there is doubt, faith; where there is despair, hope; where there is darkness,
-      light; and where there is sadness, joy. O Divine Master, grant that I may not so much seek to be
-      consoled as to console, to be understood as to understand, to be loved as to love. For it is in
-      giving that we receive, it is in pardoning that we are pardoned, and it is in dying that we are
-      born to eternal life. Amen.
+      Lord, make me an instrument of your peace. Where there is hatred, let me sow love; where there is injury, pardon;
+      where there is doubt, faith; where there is despair, hope; where there is darkness, light; and where there is
+      sadness, joy. O Divine Master, grant that I may not so much seek to be consoled as to console, to be understood as
+      to understand, to be loved as to love. For it is in giving that we receive, it is in pardoning that we are
+      pardoned, and it is in dying that we are born to eternal life. Amen.
   - name: The Canticle of the Creatures
     kind: Prayer of praise composed by Saint Francis in 1224
     text: >-
-      Most High, all-powerful, good Lord, to You be praise, glory, and honor, and all blessing.
-      Praised be You, my Lord, with all Your creatures, especially Brother Sun... Praised be You, my
-      Lord, through Sister Moon and the stars... Praised be You, my Lord, through Sister Water, so
-      useful, humble, precious, and chaste... Praised be You, my Lord, through our Sister Mother
-      Earth, who sustains and governs us, and who produces various fruits with colored flowers and
-      herbs. Praise and bless my Lord, and give thanks and serve Him with great humility. Amen.
-  - name: "Novena to Saint Francis"
-    kind: "Novena — nine-day prayer for peace and poverty of spirit"
+      Most High, all-powerful, good Lord, to You be praise, glory, and honor, and all blessing. Praised be You, my Lord,
+      with all Your creatures, especially Brother Sun... Praised be You, my Lord, through Sister Moon and the stars...
+      Praised be You, my Lord, through Sister Water, so useful, humble, precious, and chaste... Praised be You, my Lord,
+      through our Sister Mother Earth, who sustains and governs us, and who produces various fruits with colored flowers
+      and herbs. Praise and bless my Lord, and give thanks and serve Him with great humility. Amen.
+  - name: Novena to Saint Francis
+    kind: Novena — nine-day prayer for peace and poverty of spirit
     text: >-
-      O glorious Saint Francis, you who embraced Lady Poverty and became the mirror of Christ's own
-      poverty and humility, intercede for me before the throne of God. I ask you to pray for me in
-      my need. You who received the sacred stigmata, the wounds of Christ in your own body, help me
-      to unite my own sufferings with those of our Lord. O Holy Father Francis, friend of the poor,
-      friend of all creation, obtain for me from God the grace I so earnestly seek. May I, like you,
-      find true joy in serving God and neighbor. Amen.
+      O glorious Saint Francis, you who embraced Lady Poverty and became the mirror of Christ's own poverty and
+      humility, intercede for me before the throne of God. I ask you to pray for me in my need. You who received the
+      sacred stigmata, the wounds of Christ in your own body, help me to unite my own sufferings with those of our Lord.
+      O Holy Father Francis, friend of the poor, friend of all creation, obtain for me from God the grace I so earnestly
+      seek. May I, like you, find true joy in serving God and neighbor. Amen.
 relatedSaints:
   - name: Clare of Assisi
     slug: clare-of-assisi

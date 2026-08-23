@@ -1,15 +1,19 @@
 ---
-name: "Blessed Robert of Arbrissel"
+name: Blessed Robert of Arbrissel
 honorific: Blessed
-summary: "Son of a village priest, he became a priest himself. Archpriest at Rennes, France where he was known both as a reformer (which often stirs up trouble), and as a peace-maker. Teacher at Angers, France. Hermit in the forest of Craon, France where he founded a community of canons, i"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Bienheureux_Robert_d%27Arbrissel.jpg/960px-Rennes_%2835%29_M%C3%A9tropole_Saint-Pierre_-_Int%C3%A9rieur_-_Procession_des_saints_de_Bretagne_-_Bienheureux_Robert_d%27Arbrissel.jpg"
+summary: >-
+  Son of a village priest, he became a priest himself. Archpriest at Rennes, France where he was known both as a
+  reformer (which often stirs up trouble), and as a peace-maker. Teacher at Angers, France. Hermit in the forest of
+  Craon, France where he founded a community of canons, i
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Rennes_%252835%2529_M%25C3%25A9tropole_Saint-Pierre_-_Int%25C3%25A9rieur_-_Procession_des_saints_de_Bretagne_-_Bienheureux_Robert_d%2527Arbrissel.jpg?width=600
 searchAliases:
-  - "Roberto d'Arbrissel"
+  - Roberto d'Arbrissel
 deathYear: 1116
-born: "Ille-et-Vilaine, Brittany (modern Arbrissel, France)"
-died: "1116 of natural causes"
-birthPlace: "Brittany (modern Arbrissel, France)"
-region: "France"
+born: Ille-et-Vilaine, Brittany (modern Arbrissel, France)
+died: 1116 of natural causes
+birthPlace: Brittany (modern Arbrissel, France)
+region: France
 feastDay:
   month: 2
   day: 25
@@ -17,8 +21,11 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 patronage:
-  - "in France\n\nArbrissel"
-  - "Renees"
+  - |-
+    in France
+
+    Arbrissel
+  - Renees
 martyr: false
 ---
 

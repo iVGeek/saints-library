@@ -2,8 +2,10 @@
 name: Catherine of Siena
 honorific: Saint
 title: Virgin, Doctor of the Church, Mystic
-summary: A lay Dominican mystic and counselor of popes who spoke with startling boldness to the rulers of Church and state — one of only four women Doctors of the Church.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Giovanni_Battista_Tiepolo_096.jpg/330px-Giovanni_Battista_Tiepolo_096.jpg
+summary: >-
+  A lay Dominican mystic and counselor of popes who spoke with startling boldness to the rulers of Church and state —
+  one of only four women Doctors of the Church.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Battista_Tiepolo_096.jpg?width=600
 imageAlt: Portrait of Catherine of Siena
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,13 +20,14 @@ died: 29 April 1380
 birthPlace: Siena, Italy
 deathPlace: Rome, Italy
 region: Italy
-centuries: [14]
+centuries:
+  - 14
 feastDay:
   month: 4
   day: 29
 liturgicalRank: Memorial
 canonizationStatus: Saint
-beatifiedDate: "1461"
+beatifiedDate: '1461'
 canonizedDate: 29 June 1461
 vocation:
   - Mystic
@@ -47,52 +50,47 @@ symbols:
   - Dominican habit
 martyr: false
 lifeEvents:
-  - year: "1347"
+  - year: '1347'
     event: Born Caterina Benincasa, the twenty-fourth child of a dyer of Siena.
-  - year: "c. 1363"
+  - year: c. 1363
     event: Takes the Dominican habit as a tertiary (lay) member of the Order of Penance.
-  - year: "c. 1365–1370"
+  - year: c. 1365–1370
     event: Years of solitude, contemplation, and severe asceticism; a mystical "mystical espousal" to Christ.
-  - year: "1370"
+  - year: '1370'
     event: Begins her public ministry among the sick, the poor, and the prisoners of Siena.
-  - year: "1376"
+  - year: '1376'
     event: Travels to Avignon to urge Pope Gregory XI to return to Rome.
-  - year: "1378–1380"
+  - year: 1378–1380
     event: Works for the unity of the Church during the Western Schism; wears herself out in intercession.
-  - year: "29 April 1380"
+  - year: 29 April 1380
     event: Dies in Rome at the age of thirty-three.
-  - year: "1970"
+  - year: '1970'
     event: Declared a Doctor of the Church by Pope Paul VI — the first laywoman to be so honored.
 quotes:
-  - text: >-
-      If you are what you should be, you will set all Italy ablaze.
+  - text: If you are what you should be, you will set all Italy ablaze.
     source: Letter to a friend (1370s)
-  - text: >-
-      Be who God meant you to be and you will set the world on fire.
+  - text: Be who God meant you to be and you will set the world on fire.
     source: Attributed to Saint Catherine
-  - text: >-
-      All the way to heaven is heaven, because He said, "I am the Way."
+  - text: All the way to heaven is heaven, because He said, "I am the Way."
     source: Dialogue of Saint Catherine
 prayers:
   - name: Prayer of Saint Catherine
     kind: Traditional prayer of confidence
     text: >-
-      O eternal God, You are the fire that ever burns without consuming, the love that sustains
-      the heart without wearying it. Fill us with Your grace, that we may know ourselves as You
-      know us, love ourselves as You love us, and serve You with our whole being. Amen.
-  - name: "Novena to Saint Catherine of Siena"
-    kind: "Novena — nine-day prayer for courage and service"
+      O eternal God, You are the fire that ever burns without consuming, the love that sustains the heart without
+      wearying it. Fill us with Your grace, that we may know ourselves as You know us, love ourselves as You love us,
+      and serve You with our whole being. Amen.
+  - name: Novena to Saint Catherine of Siena
+    kind: Novena — nine-day prayer for courage and service
     text: >-
-      O Saint Catherine of Siena, virgin, mystic, and Doctor of the Church, I come before
-      you in this novena filled with admiration for your holy boldness. You who set all Italy
-      ablaze with the fire of divine love, inflame my heart with the same holy zeal. Obtain
-      for me the courage to speak the truth with charity, to defend the faith with wisdom, and
-      to serve God without reservation. You who counseled popes and brought the papacy back
-      to Rome, intercede for the leaders of the Church and for all in authority. Grant me the
-      grace to embrace the cross with joy, to serve the sick and the poor with tenderness, and
-      to unite my sufferings with those of Christ for the salvation of souls. O Catherine, who
-      saw the world as a garden watered by the blood of Christ, obtain for me the fire of your
-      love and the strength of your faith. Amen.
+      O Saint Catherine of Siena, virgin, mystic, and Doctor of the Church, I come before you in this novena filled with
+      admiration for your holy boldness. You who set all Italy ablaze with the fire of divine love, inflame my heart
+      with the same holy zeal. Obtain for me the courage to speak the truth with charity, to defend the faith with
+      wisdom, and to serve God without reservation. You who counseled popes and brought the papacy back to Rome,
+      intercede for the leaders of the Church and for all in authority. Grant me the grace to embrace the cross with
+      joy, to serve the sick and the poor with tenderness, and to unite my sufferings with those of Christ for the
+      salvation of souls. O Catherine, who saw the world as a garden watered by the blood of Christ, obtain for me the
+      fire of your love and the strength of your faith. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

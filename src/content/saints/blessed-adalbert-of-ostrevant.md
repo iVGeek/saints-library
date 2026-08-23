@@ -1,11 +1,14 @@
 ---
-name: "Blessed Adalbert of Ostrevant"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Denain_-_Fontaine_Sainte-Renfroye_%283%29.JPG/960px-Denain_-_Fontaine_Sainte-Renfroye_%283%29.JPG"
+name: Blessed Adalbert of Ostrevant
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Denain_-_Fontaine_Sainte-Renfroye_%25283%2529.JPG?width=600
 honorific: Blessed
-summary: "Born to the wealthy 8th century nobility, Adalbert was the Count of Ostrevant in the region of modern northern France along the border with Belgium, and served in the Frankish royal court. Married to Blessed Reine of Denain, and the father of ten daughters, including Blessed Rage"
+summary: >-
+  Born to the wealthy 8th century nobility, Adalbert was the Count of Ostrevant in the region of modern northern France
+  along the border with Belgium, and served in the Frankish royal court. Married to Blessed Reine of Denain, and the
+  father of ten daughters, including Blessed Rage
 deathYear: 790
-died: "22 April c.790"
-region: "Belgium"
+died: 22 April c.790
+region: Belgium
 feastDay:
   month: 4
   day: 22

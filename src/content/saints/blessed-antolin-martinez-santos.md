@@ -1,21 +1,21 @@
 ---
-name: "Blessed Antolín Martínez Santos"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Iglesia_de_San_Antoni%C3%B1o_de_Toques.jpg/960px-Iglesia_de_San_Antoni%C3%B1o_de_Toques.jpg"
+name: Blessed Antolín Martínez Santos
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia_de_San_Antoni%25C3%25B1o_de_Toques.jpg?width=600
 honorific: Blessed
-summary: "Dominican novice. Martyred in the Spanish Civil War."
+summary: Dominican novice. Martyred in the Spanish Civil War.
 birthYear: 1914
 deathYear: 1936
-born: "9 November 1914 in Campo de Criptana, Ciudad Real, Spain"
-died: "27 July 1936 in Alcázar de San Juan, Ciudad Real, Spain"
-birthPlace: "Ciudad Real, Spain"
-deathPlace: "Ciudad Real, Spain"
-region: "Spain"
+born: 9 November 1914 in Campo de Criptana, Ciudad Real, Spain
+died: 27 July 1936 in Alcázar de San Juan, Ciudad Real, Spain
+birthPlace: Ciudad Real, Spain
+deathPlace: Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 7
   day: 27
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
 ---
 

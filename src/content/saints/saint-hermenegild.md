@@ -1,19 +1,21 @@
 ---
-name: "Saint Hermenegild"
+name: Saint Hermenegild
 honorific: Saint
-summary: "Benedictine monk at Salcedo, diocese of Tui, Spanish Galatia. Helped Saint Rudesind spread the Benedictine Rule throughout northwest Spain."
+summary: >-
+  Benedictine monk at Salcedo, diocese of Tui, Spanish Galatia. Helped Saint Rudesind spread the Benedictine Rule
+  throughout northwest Spain.
 deathYear: 953
-born: "Spanish"
-died: "953"
-region: "Spain"
+born: Spanish
+died: '953'
+region: Spain
 feastDay:
   month: 11
   day: 5
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg/960px-Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Triunfo_de_san_hermenegildo_herrera_el_joven.jpeg?width=600
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

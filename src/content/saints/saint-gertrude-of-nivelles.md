@@ -1,15 +1,18 @@
 ---
-name: "Saint Gertrude of Nivelles"
+name: Saint Gertrude of Nivelles
 honorific: Saint
-summary: "Younger daughter of Saint Pepin of Landen and Saint Ida of Nivelles; sister of Saint Begga of Ardenne. Devoted to her faith from an early age, she turned down a noble marriage to pursue the religious life. Following the death of Pepin in 639, and on the advice of Saint Amand of M"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG/960px-Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG"
+summary: >-
+  Younger daughter of Saint Pepin of Landen and Saint Ida of Nivelles; sister of Saint Begga of Ardenne. Devoted to her
+  faith from an early age, she turned down a noble marriage to pursue the religious life. Following the death of Pepin
+  in 639, and on the advice of Saint Amand of M
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG?width=600
 birthYear: 626
 deathYear: 659
-born: "626 at Landen, Belgium"
-died: "17 March 659 at Nivelles, Belgium of natural causes"
-birthPlace: "Belgium"
-deathPlace: "Belgiumnatural causes"
-region: "Belgium"
+born: 626 at Landen, Belgium
+died: 17 March 659 at Nivelles, Belgium of natural causes
+birthPlace: Belgium
+deathPlace: Belgiumnatural causes
+region: Belgium
 feastDay:
   month: 3
   day: 17
@@ -20,36 +23,39 @@ vocation:
   - Monk
   - Religious
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against fear of mice"
-  - "against fear of rats"
-  - "against fever"
-  - "against insanity"
-  - "against mental disorders"
-  - "against mental illness"
-  - "against mice"
-  - "against rats"
-  - "against suriphobia"
-  - "cats"
-  - "for accomodations"
-  - "gardeners"
-  - "hospitals"
-  - "innkeepers"
-  - "mentally ill people"
-  - "pilgrims"
-  - "poor people"
-  - "prisoners"
-  - "recently dead people"
-  - "sick people"
-  - "suriphobics"
-  - "to obtain lodging while travelling"
-  - "travellers"
-  - "widows"
-  - "in Belgium\n\nLanden"
-  - "Nivelles"
-  - "Wetteren"
-  - "Zandvliet"
+  - against fear of mice
+  - against fear of rats
+  - against fever
+  - against insanity
+  - against mental disorders
+  - against mental illness
+  - against mice
+  - against rats
+  - against suriphobia
+  - cats
+  - for accomodations
+  - gardeners
+  - hospitals
+  - innkeepers
+  - mentally ill people
+  - pilgrims
+  - poor people
+  - prisoners
+  - recently dead people
+  - sick people
+  - suriphobics
+  - to obtain lodging while travelling
+  - travellers
+  - widows
+  - |-
+    in Belgium
+
+    Landen
+  - Nivelles
+  - Wetteren
+  - Zandvliet
 martyr: false
 ---
 

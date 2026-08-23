@@ -1,15 +1,19 @@
 ---
-name: "Pope Saint Zachary"
+name: Pope Saint Zachary
 honorific: Saint
-summary: "Son of Polichronius, but little else is known of his early life. Deacon. Advisor to Pope Gregory III. 91st pope. First pope after Saint Gregory the Great to not seek imperial confirmation on his election. Negotiated peace between the Lombards and Greek empire. Restored the Latera"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Et%C3%A0_di_papa_Zaccaria%2C_cappella_del_primicerius_Teodoro%2C_Madonna_in_trono_con_Theodoto_e_la_moglie%2C_741-752_%2809%29.jpg/960px-Et%C3%A0_di_papa_Zaccaria%2C_cappella_del_primicerius_Teodoro%2C_Madonna_in_trono_con_Theodoto_e_la_moglie%2C_741-752_%2809%29.jpg"
+summary: >-
+  Son of Polichronius, but little else is known of his early life. Deacon. Advisor to Pope Gregory III. 91st pope. First
+  pope after Saint Gregory the Great to not seek imperial confirmation on his election. Negotiated peace between the
+  Lombards and Greek empire. Restored the Latera
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Et%25C3%25A0_di_papa_Zaccaria%252C_cappella_del_primicerius_Teodoro%252C_Madonna_in_trono_con_Theodoto_e_la_moglie%252C_741-752_%252809%2529.jpg?width=600
 searchAliases:
-  - "Zacharias"
+  - Zacharias
 deathYear: 752
-born: "at Calabria, Italy"
-died: "22 March 752 of natural causes"
-birthPlace: "Italy"
-region: "France"
+born: at Calabria, Italy
+died: 22 March 752 of natural causes
+birthPlace: Italy
+region: France
 feastDay:
   month: 3
   day: 15
@@ -20,7 +24,7 @@ vocation:
   - Deacon
   - Missionary
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
 ---
 

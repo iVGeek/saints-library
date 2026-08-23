@@ -1,14 +1,14 @@
 ---
-name: "Saint Hyacinth"
+name: Saint Hyacinth
 honorific: Saint
-summary: "Martyred in the persecutions of Trajan."
+summary: Martyred in the persecutions of Trajan.
 deathYear: 110
-died: "c.110"
+died: c.110
 feastDay:
   month: 7
   day: 26
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hyacinth_-_Anglesey_Abbey.jpg/960px-Hyacinth_-_Anglesey_Abbey.jpg"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Hyacinth_-_Anglesey_Abbey.jpg?width=600
 vocation:
   - Monk
 martyr: true

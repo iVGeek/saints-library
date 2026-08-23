@@ -1,22 +1,25 @@
 ---
-name: "Blessed Alcuin"
+name: Blessed Alcuin
 honorific: Blessed
-summary: "Born to the English nobility. Spiritual student of Saint Colgan. Deacon. Head of the York cathedral school c.770. Minister of education under Blessed Charlemagne in 781. Established schools at cathedrals and monasteries. Established scriptoria dedicated to copying and preserving"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Raban-Maur_Alcuin_Otgar.jpg/960px-Raban-Maur_Alcuin_Otgar.jpg"
+summary: >-
+  Born to the English nobility. Spiritual student of Saint Colgan. Deacon. Head of the York cathedral school c.770.
+  Minister of education under Blessed Charlemagne in 781. Established schools at cathedrals and monasteries. Established
+  scriptoria dedicated to copying and preserving
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Raban-Maur_Alcuin_Otgar.jpg?width=600
 searchAliases:
-  - "Albinus"
-  - "Alchoin"
-  - "Alcuino"
-  - "Alhwin"
-  - "Alrinus"
-  - "Flaccus"
+  - Albinus
+  - Alchoin
+  - Alcuino
+  - Alhwin
+  - Alrinus
+  - Flaccus
 birthYear: 730
 deathYear: 804
-born: "c.730 at York, England"
-died: "19 May 804 at Tours, France of natural causes"
-birthPlace: "England"
-deathPlace: "Francenatural causes"
-region: "England"
+born: c.730 at York, England
+died: 19 May 804 at Tours, France of natural causes
+birthPlace: England
+deathPlace: Francenatural causes
+region: England
 feastDay:
   month: 5
   day: 19

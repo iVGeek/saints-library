@@ -1,23 +1,28 @@
 ---
-name: "Saint John Roberts"
+name: Saint John Roberts
 honorific: Venerable
-summary: "Son of John and Anna Roberts; his ancestors were princes in Wales. Raised Protestant, John always felt an affinity for Catholicism. He studied at Saint John's College, Oxford from 1595 to 1597, but left without a degree. He then studied law at the Inns of Court at age 21. In 1598"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Official_roberts_CJ.jpg/960px-Official_roberts_CJ.jpg"
+summary: >-
+  Son of John and Anna Roberts; his ancestors were princes in Wales. Raised Protestant, John always felt an affinity for
+  Catholicism. He studied at Saint John's College, Oxford from 1595 to 1597, but left without a degree. He then studied
+  law at the Inns of Court at age 21. In 1598
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Official_roberts_CJ.jpg?width=600
 birthYear: 1577
 deathYear: 1610
-born: "1577 at Trawsfynydd, Merionethshire, Gwynedd, northern Wales"
-died: "hanged, drawn, and quartered on 10 December 1610 at Tyburn, London, England"
-birthPlace: "Merionethshire, Gwynedd, northern Wales"
-deathPlace: "drawn, and quartered on 10 December 1610 at Tyburn, London, England"
-region: "France"
+born: 1577 at Trawsfynydd, Merionethshire, Gwynedd, northern Wales
+died: hanged, drawn, and quartered on 10 December 1610 at Tyburn, London, England
+birthPlace: Merionethshire, Gwynedd, northern Wales
+deathPlace: drawn, and quartered on 10 December 1610 at Tyburn, London, England
+region: France
 feastDay:
   month: 12
   day: 10
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
 ---
 

@@ -1,17 +1,17 @@
 ---
-name: "Saint Augulus"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aule_Alm_4.jpg/960px-Aule_Alm_4.jpg"
+name: Saint Augulus
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Aule_Alm_4.jpg?width=600
 honorific: Saint
-summary: "Bishop. Martyr."
+summary: Bishop. Martyr.
 searchAliases:
-  - "Amm"
-  - "Augurius"
-  - "Augustus"
-  - "Aule"
-  - "Ouil"
+  - Amm
+  - Augurius
+  - Augustus
+  - Aule
+  - Ouil
 deathYear: 303
-died: "c.303"
-region: "England"
+died: c.303
+region: England
 feastDay:
   month: 2
   day: 7

@@ -2,8 +2,10 @@
 name: John the Evangelist
 honorific: Saint
 title: Apostle, Evangelist
-summary: The apostle Jesus loved — the one who leaned on His breast at the Last Supper, stood by His cross, and wrote the Gospel of the Word made flesh.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Codexaureus_25.jpg/330px-Codexaureus_25.jpg
+summary: >-
+  The apostle Jesus loved — the one who leaned on His breast at the Last Supper, stood by His cross, and wrote the
+  Gospel of the Word made flesh.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Codexaureus_25.jpg?width=600
 imageAlt: Portrait of John the Evangelist
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -19,7 +21,8 @@ died: c. 100
 birthPlace: Bethsaida, Israel
 deathPlace: Ephesus, Turkey
 region: Holy Land
-centuries: [1]
+centuries:
+  - 1
 feastDay:
   month: 12
   day: 27
@@ -42,35 +45,34 @@ symbols:
   - Scroll of Revelation
 martyr: false
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born at Bethsaida, son of Zebedee and Salome, brother of James; a fisherman called from his boat to follow Christ.
-  - year: "c. AD 27"
+  - year: c. AD 27
     event: With Peter and James, is present at the Transfiguration and in the garden of Gethsemane.
-  - year: "c. AD 33"
-    event: Leans on Jesus' breast at the Last Supper; stands at the foot of the cross, where Jesus entrusts His mother to him.
-  - year: "c. AD 33–40"
+  - year: c. AD 33
+    event: >-
+      Leans on Jesus' breast at the Last Supper; stands at the foot of the cross, where Jesus entrusts His mother to
+      him.
+  - year: c. AD 33–40
     event: Remains at Jerusalem with the Mother of God; later goes to Ephesus.
-  - year: "c. AD 60–90"
+  - year: c. AD 60–90
     event: Writes the Fourth Gospel and the three Epistles at Ephesus.
-  - year: "c. AD 95"
+  - year: c. AD 95
     event: Exiled to the island of Patmos, where he receives the Book of Revelation.
-  - year: "c. 100"
+  - year: c. 100
     event: Dies in peace at Ephesus, the only apostle not to die by martyrdom.
 quotes:
-  - text: >-
-      In the beginning was the Word, and the Word was with God, and the Word was God.
+  - text: In the beginning was the Word, and the Word was with God, and the Word was God.
     source: The Gospel of John 1:1
-  - text: >-
-      God is love; whoever abides in love abides in God, and God in him.
+  - text: God is love; whoever abides in love abides in God, and God in him.
     source: The First Letter of John 4:16
 prayers:
   - name: Prayer to Saint John the Evangelist
     kind: Prayer for writers and for those who seek the Word
     text: >-
-      O Saint John, apostle who rested on the heart of Jesus and wrote what you heard there,
-      teach us to love as you loved and to seek the Word made flesh. Guide all who write, that
-      their words may speak truth; and grant us to know, with you, that God is love and that
-      nothing in this life can separate us from that love. Amen.
+      O Saint John, apostle who rested on the heart of Jesus and wrote what you heard there, teach us to love as you
+      loved and to seek the Word made flesh. Guide all who write, that their words may speak truth; and grant us to
+      know, with you, that God is love and that nothing in this life can separate us from that love. Amen.
 relatedSaints:
   - name: James the Greater
     slug: james-the-greater

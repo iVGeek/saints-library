@@ -1,18 +1,21 @@
 ---
-name: "Saint Stephen of Obazine"
+name: Saint Stephen of Obazine
 honorific: Saint
-summary: "Pious youth. Priest. Hermit with another priest named Pierre. The pair's reputation for holiness drew so many spiritual students that c.1134, with the approval of the bishop of Tulle, France, they founded a monastery composed of many small huts in the forest. The monks were noted"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aubazine_-_Abbatiale_-_Tombeau.JPG/960px-Aubazine_-_Abbatiale_-_Tombeau.JPG"
+summary: >-
+  Pious youth. Priest. Hermit with another priest named Pierre. The pair's reputation for holiness drew so many
+  spiritual students that c.1134, with the approval of the bishop of Tulle, France, they founded a monastery composed of
+  many small huts in the forest. The monks were noted
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Aubazine_-_Abbatiale_-_Tombeau.JPG?width=600
 searchAliases:
-  - "Stephen of Aubazine"
-  - "Stephen of Vielzot"
+  - Stephen of Aubazine
+  - Stephen of Vielzot
 birthYear: 1085
 deathYear: 1159
-born: "c.1085 at Limousin, France"
-died: "8 March 1159 at the monastery of Obazine, France"
-birthPlace: "France"
-deathPlace: "France"
-region: "France"
+born: c.1085 at Limousin, France
+died: 8 March 1159 at the monastery of Obazine, France
+birthPlace: France
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 8
@@ -20,7 +23,7 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - "prisoners"
+  - prisoners
 martyr: false
 ---
 

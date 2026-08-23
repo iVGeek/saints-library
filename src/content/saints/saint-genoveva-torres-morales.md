@@ -1,23 +1,28 @@
 ---
-name: "Saint Genoveva Torres Morales"
+name: Saint Genoveva Torres Morales
 honorific: Venerable
-summary: "Youngest of six children. By the age of eight, both her parents and four of her siblings had died. A child homemaker for her older brother, Genovena grew up a quiet child, accustomed to solitude. She took an interest in spiritual reading around age ten, and early understood that"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fiesta_de_Santa_Genoveva_Torres_Morales_02.jpg/960px-Fiesta_de_Santa_Genoveva_Torres_Morales_02.jpg"
+summary: >-
+  Youngest of six children. By the age of eight, both her parents and four of her siblings had died. A child homemaker
+  for her older brother, Genovena grew up a quiet child, accustomed to solitude. She took an interest in spiritual
+  reading around age ten, and early understood that
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Fiesta_de_Santa_Genoveva_Torres_Morales_02.jpg?width=600
 birthYear: 1870
 deathYear: 1956
-born: "3 January 1870 in Almenara, Castile, Spain"
-died: "5 January 1956 in Zaragoza, Spain of natural causes"
-birthPlace: "Castile, Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 3 January 1870 in Almenara, Castile, Spain
+died: 5 January 1956 in Zaragoza, Spain of natural causes
+birthPlace: Castile, Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 5
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
 ---
 

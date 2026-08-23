@@ -2,8 +2,11 @@
 name: Thomas More
 honorific: Saint
 title: Martyr
-summary: Lord Chancellor of England, humanist, and author of Utopia, who gave up the highest office in the realm rather than deny the supremacy of conscience over the king.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/330px-Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg
+summary: >-
+  Lord Chancellor of England, humanist, and author of Utopia, who gave up the highest office in the realm rather than
+  deny the supremacy of conscience over the king.
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein%252C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg?width=600
 imageAlt: Portrait of Thomas More
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +20,9 @@ born: 7 February 1478
 died: 6 July 1535
 birthPlace: London, England
 deathPlace: London, England
-region: "Italy"
-centuries: [16]
+region: Italy
+centuries:
+  - 16
 feastDay:
   month: 6
   day: 22
@@ -41,39 +45,38 @@ symbols:
   - Chancellor's purse
 martyr: false
 lifeEvents:
-  - year: "7 February 1478"
+  - year: 7 February 1478
     event: Born in London, son of the lawyer Sir John More.
-  - year: "1501–1504"
+  - year: 1501–1504
     event: Studies the law, serves in Parliament, and considers the religious life before choosing marriage.
-  - year: "1516"
+  - year: '1516'
     event: Publishes Utopia, the most famous book of the English humanists.
-  - year: "1518–1529"
+  - year: 1518–1529
     event: Enters royal service under Henry VIII; rises to Lord Chancellor in 1529.
-  - year: "1532"
+  - year: '1532'
     event: Resigns the chancellorship rather than support the king's divorce and the assault on the Church in England.
-  - year: "1534"
+  - year: '1534'
     event: Imprisoned in the Tower of London for refusing the Oath of Supremacy.
-  - year: "6 July 1535"
+  - year: 6 July 1535
     event: Beheaded on Tower Hill; "I die the King's good servant, but God's first."
-  - year: "1935"
+  - year: '1935'
     event: Canonized by Pope Pius XI with Saint John Fisher.
-  - year: "2000"
+  - year: '2000'
     event: Named patron of statesmen and politicians by Saint John Paul II.
 quotes:
-  - text: >-
-      I die the King's good servant, but God's first.
+  - text: I die the King's good servant, but God's first.
     source: Last words of Saint Thomas More on the scaffold
   - text: >-
-      I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have.
+      I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light
+      that I have.
     source: From the letters of Saint Thomas More
 prayers:
   - name: Prayer of Saint Thomas More
     kind: His own prayer for good humor
     text: >-
-      Give me the grace, good Lord, to set the world at naught; to set my mind firmly on You;
-      and not to hang upon the blast of men's mouths. Give me, good Lord, a longing to be with
-      You, not for the avoiding of the calamities of this wicked world, nor so much for the
-      gaining of the joys of heaven, as of a simple love of You. Amen.
+      Give me the grace, good Lord, to set the world at naught; to set my mind firmly on You; and not to hang upon the
+      blast of men's mouths. Give me, good Lord, a longing to be with You, not for the avoiding of the calamities of
+      this wicked world, nor so much for the gaining of the joys of heaven, as of a simple love of You. Amen.
 relatedSaints:
   - name: John Fisher
     slug: john-fisher

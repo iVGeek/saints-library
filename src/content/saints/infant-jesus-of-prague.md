@@ -1,9 +1,13 @@
 ---
-name: "Infant Jesus of Prague"
+name: Infant Jesus of Prague
 honorific: Saint
-summary: "The popularity of devotion to the Child Jesus grew in Baroque Spain, possibly caused by the visions of Saint Teresa of Avila. Several Spanish sculptures found their way to Prague (in the modern Czech Republic; they were made of wax, ivory, and bronze, and dressed in garments refl"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_a_sv._Ant_Jezul%C3%A1tko_1.jpg/960px-Kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_a_sv._Ant_Jezul%C3%A1tko_1.jpg"
-region: "Philippines"
+summary: >-
+  The popularity of devotion to the Child Jesus grew in Baroque Spain, possibly caused by the visions of Saint Teresa of
+  Avila. Several Spanish sculptures found their way to Prague (in the modern Czech Republic; they were made of wax,
+  ivory, and bronze, and dressed in garments refl
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Kostel_PM_V%25C3%25ADt%25C4%259Bzn%25C3%25A9_a_sv._Ant_Jezul%25C3%25A1tko_1.jpg?width=600
+region: Philippines
 feastDay:
   month: 1
   day: 14
@@ -12,21 +16,21 @@ vocation:
   - Virgin
   - Bishop
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "children"
-  - "colleges"
-  - "family life"
-  - "foreign missions"
-  - "freedom"
-  - "good finances"
-  - "good health"
-  - "Infanta, Philippines, prelature of"
-  - "peace"
-  - "schools"
-  - "travellers"
-  - "universities"
-  - "vocations"
+  - children
+  - colleges
+  - family life
+  - foreign missions
+  - freedom
+  - good finances
+  - good health
+  - Infanta, Philippines, prelature of
+  - peace
+  - schools
+  - travellers
+  - universities
+  - vocations
 martyr: false
 ---
 

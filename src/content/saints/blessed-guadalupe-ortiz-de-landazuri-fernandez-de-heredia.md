@@ -1,17 +1,20 @@
 ---
-name: "Blessed Guadalupe Ortiz de Landázuri Fernández de Heredia"
+name: Blessed Guadalupe Ortiz de Landázuri Fernández de Heredia
 honorific: Blessed
-summary: "Youngest of four children born to Manuel Ortiz de Landázuri, a career army officer, and Eulogia Fernández-Heredia; one of her brothers is the Servant of God Eduardo Ortiz de Landázuri Fernández de Heredia, her sister-in-law is the Servant of God Laura Busca Otaegui de Ortiz de La"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/LupeOdL.jpg/960px-LupeOdL.jpg"
+summary: >-
+  Youngest of four children born to Manuel Ortiz de Landázuri, a career army officer, and Eulogia Fernández-Heredia; one
+  of her brothers is the Servant of God Eduardo Ortiz de Landázuri Fernández de Heredia, her sister-in-law is the
+  Servant of God Laura Busca Otaegui de Ortiz de La
+image: https://commons.wikimedia.org/wiki/Special:FilePath/LupeOdL.jpg?width=600
 searchAliases:
-  - "María Guadalupe Ortiz de Landázuri  Fernández de Heredia"
+  - María Guadalupe Ortiz de Landázuri  Fernández de Heredia
 birthYear: 1916
 deathYear: 1975
-born: "12 December 1916 in Madrid, Spain"
-died: "6:30am on 16 July 1975 in Pamplona, Navarra, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Navarra, Spaof natural causes"
-region: "Mexico"
+born: 12 December 1916 in Madrid, Spain
+died: 6:30am on 16 July 1975 in Pamplona, Navarra, Spain of natural causes
+birthPlace: Spain
+deathPlace: Navarra, Spaof natural causes
+region: Mexico
 feastDay:
   month: 7
   day: 16

@@ -1,16 +1,19 @@
 ---
-name: "Saint Clement of Ohrid"
+name: Saint Clement of Ohrid
 honorific: Saint
-summary: "Student of Saint Cyril and Saint Methodius in Moravia and Panonia. Building on their work, he helped found Slavic literature and culture in Macedonia. He was the first Slavic writer, translated dozens of works, wrote a biography of Saints Cyril and Methodius, and founded the firs"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png/960px-Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png"
+summary: >-
+  Student of Saint Cyril and Saint Methodius in Moravia and Panonia. Building on their work, he helped found Slavic
+  literature and culture in Macedonia. He was the first Slavic writer, translated dozens of works, wrote a biography of
+  Saints Cyril and Methodius, and founded the firs
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png?width=600
 searchAliases:
-  - "Clement of Okbrida"
-  - "Kliment Ohridski"
-  - "one of the Apostles of Bulgaria"
+  - Clement of Okbrida
+  - Kliment Ohridski
+  - one of the Apostles of Bulgaria
 deathYear: 916
-died: "17 July 916 in Ohrid, Macedonia of natural causes"
-deathPlace: "Macedonianatural causes"
-region: "Czech Republic"
+died: 17 July 916 in Ohrid, Macedonia of natural causes
+deathPlace: Macedonianatural causes
+region: Czech Republic
 feastDay:
   month: 7
   day: 17
@@ -19,8 +22,8 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "Macedonia"
-  - "Ohrid, Macedonia"
+  - Macedonia
+  - Ohrid, Macedonia
 martyr: false
 ---
 

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Ingrid of Sweden"
+name: Blessed Ingrid of Sweden
 honorific: Blessed
-summary: "Born to the Swedish nobility, Ingrid was well educated, and was known from her youth as a pious girl. Given in an arranged marriage when young, she was widowed soon after. Pilgrim to the Holy Lands, then to the Vatican, then to Santiago de Compostela in Spain. Spiritual student o"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ingrid_of_Sweden_and_Denmark_1954.jpg/960px-Ingrid_of_Sweden_and_Denmark_1954.jpg"
+summary: >-
+  Born to the Swedish nobility, Ingrid was well educated, and was known from her youth as a pious girl. Given in an
+  arranged marriage when young, she was widowed soon after. Pilgrim to the Holy Lands, then to the Vatican, then to
+  Santiago de Compostela in Spain. Spiritual student o
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Ingrid_of_Sweden_and_Denmark_1954.jpg?width=600
 searchAliases:
-  - "Ingrid Elofsdotter of Skänninge"
-  - "Ingrid Elovsdotter"
+  - Ingrid Elofsdotter of Skänninge
+  - Ingrid Elovsdotter
 deathYear: 1282
-born: "13th century in Skänninge, Sweden"
-died: "1282 in Skänninge, Sweden of natural causes"
-birthPlace: "Sweden"
-deathPlace: "Swedennatural causes"
-region: "Scandinavia"
+born: 13th century in Skänninge, Sweden
+died: 1282 in Skänninge, Sweden of natural causes
+birthPlace: Sweden
+deathPlace: Swedennatural causes
+region: Scandinavia
 feastDay:
   month: 9
   day: 2
@@ -19,7 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
 ---
 

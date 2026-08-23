@@ -1,25 +1,25 @@
 ---
-name: "Saint Lucian of Antioch"
+name: Saint Lucian of Antioch
 honorific: Saint
-summary: " Head of a school of Following the death of his wealthy parents, Lucian gave away his possessions, and studied rhetoric, philosophy, and Scripture under Macarius at Edessa. Lived as a hermit briefly in his youth. Ordained in Antioch. Spiritual director of Saint Pelagia of Antioch."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lucian_of_Antioch_%28Menologion_of_Basil_II%29.jpg/960px-Lucian_of_Antioch_%28Menologion_of_Basil_II%29.jpg"
+summary: ' Head of a school of Following the death of his wealthy parents, Lucian gave away his possessions, and studied rhetoric, philosophy, and Scripture under Macarius at Edessa. Lived as a hermit briefly in his youth. Ordained in Antioch. Spiritual director of Saint Pelagia of Antioch.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Lucian_of_Antioch_%2528Menologion_of_Basil_II%2529.jpg?width=600
 searchAliases:
-  - "Lucian of Drepana"
-  - "Lucian of Nicomedië"
-  - "Lucian of Nicomedia"
-  - "Lucian of Samosata"
-  - "Lucian of Syrian"
-  - "Lucian the Martyr"
-  - "Lucian the Syrian"
-  - "Luciano…"
-  - "Lucianus…"
-  - "Lucien…"
+  - Lucian of Drepana
+  - Lucian of Nicomedië
+  - Lucian of Nicomedia
+  - Lucian of Samosata
+  - Lucian of Syrian
+  - Lucian the Martyr
+  - Lucian the Syrian
+  - Luciano…
+  - Lucianus…
+  - Lucien…
 deathYear: 312
-born: "mid-3rd century at Samosata, Syria"
-died: "tortured, starved, and run through with a sword in 312 at Nicomedia, Bithynia (modern Izmid, Turkey)"
-birthPlace: "Syria"
-deathPlace: "starved, and run through with a sword312 at Nicomedia, Bithynia (modern Izmid, Turkey)"
-region: "Turkey"
+born: mid-3rd century at Samosata, Syria
+died: tortured, starved, and run through with a sword in 312 at Nicomedia, Bithynia (modern Izmid, Turkey)
+birthPlace: Syria
+deathPlace: starved, and run through with a sword312 at Nicomedia, Bithynia (modern Izmid, Turkey)
+region: Turkey
 feastDay:
   month: 1
   day: 7

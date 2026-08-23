@@ -1,17 +1,17 @@
 ---
-name: "Saint Justus of Lyon"
+name: Saint Justus of Lyon
 honorific: Saint
-summary: " When a violently insane criminal sought sanctuary in the cathedral of Lyon afte Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%C3%89glise_Saint-Just_Lyon_statue.jpg/960px-%C3%89glise_Saint-Just_Lyon_statue.jpg"
+summary: ' When a violently insane criminal sought sanctuary in the cathedral of Lyon afte Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/%25C3%2589glise_Saint-Just_Lyon_statue.jpg?width=600
 searchAliases:
-  - "Just"
-  - "Justo"
-  - "Giusto"
+  - Just
+  - Justo
+  - Giusto
 deathYear: 390
-born: "at Vivarais, Gaul (in modern France)"
-died: "390 in the Egyptian desert of natural causes"
-birthPlace: "Gaul (modern France)"
-region: "France"
+born: at Vivarais, Gaul (in modern France)
+died: 390 in the Egyptian desert of natural causes
+birthPlace: Gaul (modern France)
+region: France
 feastDay:
   month: 9
   day: 2

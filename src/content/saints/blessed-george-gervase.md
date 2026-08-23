@@ -1,24 +1,27 @@
 ---
-name: "Blessed George Gervase"
+name: Blessed George Gervase
 honorific: Blessed
-summary: "George spent an adventurous youth, travelling to the West Indies with the explorer Sir Francis Drake. He entered the seminary at Douai, France, and was ordained in 1603. Benedictine. From France he returned to England to work with covert Catholics during a suppression of the Chur"
+summary: >-
+  George spent an adventurous youth, travelling to the West Indies with the explorer Sir Francis Drake. He entered the
+  seminary at Douai, France, and was ordained in 1603. Benedictine. From France he returned to England to work with
+  covert Catholics during a suppression of the Chur
 searchAliases:
-  - "George Jervise"
+  - George Jervise
 deathYear: 1608
-born: "at Bosham, Sussex, England"
-died: "hanged, drawn and quartered on 11 April 1608 at Tyburn, London, England"
-birthPlace: "Sussex, England"
-deathPlace: "drawn and quartered on 11 April 1608 at Tyburn, London, England"
-region: "France"
+born: at Bosham, Sussex, England
+died: hanged, drawn and quartered on 11 April 1608 at Tyburn, London, England
+birthPlace: Sussex, England
+deathPlace: drawn and quartered on 11 April 1608 at Tyburn, London, England
+region: France
 feastDay:
   month: 4
   day: 11
 canonizationStatus: Blessed
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Blessed-george-gervase.png/960px-Blessed-george-gervase.png"
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Blessed-george-gervase.png?width=600
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
 ---
 

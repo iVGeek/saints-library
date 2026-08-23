@@ -2,8 +2,10 @@
 name: Stephen the Deacon
 honorific: Saint
 title: Deacon, Protomartyr
-summary: The first deacon of the Church and its first martyr — a man "full of faith and the Holy Spirit" who saw heaven open as the stones fell.
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/St-stephen.jpg/330px-St-stephen.jpg
+summary: >-
+  The first deacon of the Church and its first martyr — a man "full of faith and the Holy Spirit" who saw heaven open as
+  the stones fell.
+image: https://commons.wikimedia.org/wiki/Special:FilePath/St-stephen.jpg?width=600
 imageAlt: Portrait of Stephen the Deacon
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -18,7 +20,8 @@ died: c. 35
 birthPlace: Jerusalem, Israel
 deathPlace: Jerusalem, Israel
 region: Holy Land
-centuries: [1]
+centuries:
+  - 1
 feastDay:
   month: 12
   day: 26
@@ -40,29 +43,28 @@ symbols:
   - Book of the Gospel
 martyr: true
 lifeEvents:
-  - year: "1st century"
+  - year: 1st century
     event: Born a Hellenist Jew in Jerusalem; chosen among the first seven deacons by the apostles.
-  - year: "c. AD 30s"
+  - year: c. AD 30s
     event: Serves the poor of the young Church at Jerusalem and preaches with power.
-  - year: "c. 35"
+  - year: c. 35
     event: Seized by the Sanhedrin and accused of blasphemy; he speaks before the council with his face like an angel.
-  - year: "c. 35"
-    event: Stoned outside the city; he sees the heavens opened and the Son of Man standing at God's right hand, and prays for his killers — among them the young Saul of Tarsus.
+  - year: c. 35
+    event: >-
+      Stoned outside the city; he sees the heavens opened and the Son of Man standing at God's right hand, and prays for
+      his killers — among them the young Saul of Tarsus.
 quotes:
-  - text: >-
-      Behold, I see the heavens opened and the Son of Man standing at the right hand of God.
+  - text: Behold, I see the heavens opened and the Son of Man standing at the right hand of God.
     source: Saint Stephen before the Sanhedrin, Acts of the Apostles 7:56
-  - text: >-
-      Lord, do not hold this sin against them.
+  - text: Lord, do not hold this sin against them.
     source: The last words of Saint Stephen, Acts of the Apostles 7:60
 prayers:
   - name: Prayer to Saint Stephen
     kind: Prayer for deacons and for those who forgive
     text: >-
-      O Saint Stephen, first deacon and first martyr, who served the poor and forgave your
-      enemies with the words of Christ, obtain for us a faith that does not flinch. Bless all who
-      serve at the tables of the Church, and teach us to forgive as you forgave, that the gates
-      of heaven may open for us as they opened for you. Amen.
+      O Saint Stephen, first deacon and first martyr, who served the poor and forgave your enemies with the words of
+      Christ, obtain for us a faith that does not flinch. Bless all who serve at the tables of the Church, and teach us
+      to forgive as you forgave, that the gates of heaven may open for us as they opened for you. Amen.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

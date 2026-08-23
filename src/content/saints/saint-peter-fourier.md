@@ -1,25 +1,28 @@
 ---
-name: "Saint Peter Fourier"
+name: Saint Peter Fourier
 honorific: Saint
-summary: "Educated at the University of Pont-a-Mousson, entering at age 15. Tutor to the sons of many noble families. Augustinian Canon Regular at the abbey in Chaumousey, France. Ordained in 1589. He returned to university, became a master of patristic theology, and could recite the Summa"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SaintPierreFourier.jpg/960px-SaintPierreFourier.jpg"
+summary: >-
+  Educated at the University of Pont-a-Mousson, entering at age 15. Tutor to the sons of many noble families.
+  Augustinian Canon Regular at the abbey in Chaumousey, France. Ordained in 1589. He returned to university, became a
+  master of patristic theology, and could recite the Summa
+image: https://commons.wikimedia.org/wiki/Special:FilePath/SaintPierreFourier.jpg?width=600
 searchAliases:
-  - "Good Father of Mattaincourt"
-  - "Le Bon Père de Mattaincourt"
+  - Good Father of Mattaincourt
+  - Le Bon Père de Mattaincourt
 birthYear: 1565
 deathYear: 1640
-born: "30 November 1565 at Mirecourt, Lorraine (modern France)"
-died: "9 December 1640 at Gray, Haute-Saone (modern France) of natural causes"
-birthPlace: "Lorraine (modern France)"
-deathPlace: "Haute-Saone (modern France)natural causes"
-region: "France"
+born: 30 November 1565 at Mirecourt, Lorraine (modern France)
+died: 9 December 1640 at Gray, Haute-Saone (modern France) of natural causes
+birthPlace: Lorraine (modern France)
+deathPlace: Haute-Saone (modern France)natural causes
+region: France
 feastDay:
   month: 12
   day: 9
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
 ---
 

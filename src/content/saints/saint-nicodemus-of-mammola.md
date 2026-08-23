@@ -1,19 +1,22 @@
 ---
-name: "Saint Nicodemus of Mammola"
+name: Saint Nicodemus of Mammola
 honorific: Saint
-summary: "Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a young man, Nicodemus was disgusted by the mis-spent lives of his contemporaries, and was drawn to the monastic life. He tried to join the monks in the San Mercur"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/San_Nicodemo_-_Statua01.jpg/960px-San_Nicodemo_-_Statua01.jpg"
+summary: >-
+  Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a
+  young man, Nicodemus was disgusted by the mis-spent lives of his contemporaries, and was drawn to the monastic life.
+  He tried to join the monks in the San Mercur
+image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Nicodemo_-_Statua01.jpg?width=600
 searchAliases:
-  - "Nicodemus of Cirò"
-  - "Nicodemus of Cellerano"
-  - "Nicodemus of Kellerano"
-  - "Nicodemo of…"
+  - Nicodemus of Cirò
+  - Nicodemus of Cellerano
+  - Nicodemus of Kellerano
+  - Nicodemo of…
 deathYear: 990
-born: "early-10th century in Cirò, Catanzaro, Italy"
-died: "25 March 990 in the monastery at Mammola, Calabria, Italy (a house then renamed San Nicodemo) of natural causes"
-birthPlace: "Catanzaro, Italy"
-deathPlace: "Calabria, Italy (a house then renamed San Nicodemo)natural causes"
-region: "Italy"
+born: early-10th century in Cirò, Catanzaro, Italy
+died: 25 March 990 in the monastery at Mammola, Calabria, Italy (a house then renamed San Nicodemo) of natural causes
+birthPlace: Catanzaro, Italy
+deathPlace: Calabria, Italy (a house then renamed San Nicodemo)natural causes
+region: Italy
 feastDay:
   month: 3
   day: 25
@@ -23,7 +26,7 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Mammola, Italy (proclaimed in 1630)"
+  - Mammola, Italy (proclaimed in 1630)
 martyr: false
 ---
 

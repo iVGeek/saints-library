@@ -1,27 +1,31 @@
 ---
-name: "Blessed Karolina Gerhardinger"
+name: Blessed Karolina Gerhardinger
 honorific: Blessed
-summary: "Born to a working class family. Educated by the Augustinian canonesses until 1809 when religious orders were closed by decree of the Bavarian government in Germany. Caroline decided to start a new religious order devoted to God and Christian education. In 1828 the Vatican got con"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Karolina_Gerhardinger_%28Korbinianbr%C3%BCcke_Freising%29.JPG/960px-Karolina_Gerhardinger_%28Korbinianbr%C3%BCcke_Freising%29.JPG"
+summary: >-
+  Born to a working class family. Educated by the Augustinian canonesses until 1809 when religious orders were closed by
+  decree of the Bavarian government in Germany. Caroline decided to start a new religious order devoted to God and
+  Christian education. In 1828 the Vatican got con
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/Karolina_Gerhardinger_%2528Korbinianbr%25C3%25BCcke_Freising%2529.JPG?width=600
 searchAliases:
-  - "Caroline Gerhardinger"
-  - "Maria Teresa Gerhardinger"
-  - "Maria Theresia of Jesus"
-  - "Theresa of Jesus Gerhardinger"
+  - Caroline Gerhardinger
+  - Maria Teresa Gerhardinger
+  - Maria Theresia of Jesus
+  - Theresa of Jesus Gerhardinger
 birthYear: 1797
 deathYear: 1879
-born: "20 June 1797 at Stadtamhof, Bavaria, Germany as Caroline Gerhardinger"
-died: "9 May 1879 in München, Bavaria, Germany of natural causes"
-birthPlace: "Bavaria, Germany as Caroline Gerhardinger"
-deathPlace: "Bavaria, Germanynatural causes"
-region: "Germany"
+born: 20 June 1797 at Stadtamhof, Bavaria, Germany as Caroline Gerhardinger
+died: 9 May 1879 in München, Bavaria, Germany of natural causes
+birthPlace: Bavaria, Germany as Caroline Gerhardinger
+deathPlace: Bavaria, Germanynatural causes
+region: Germany
 feastDay:
   month: 5
   day: 9
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
 ---
 

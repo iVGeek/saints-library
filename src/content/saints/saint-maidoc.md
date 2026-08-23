@@ -1,12 +1,13 @@
 ---
-name: "Saint Maidoc"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_golden_days_of_the_early_English_church_from_the_arrival_of_Theodore_to_the_death_of_Bede_%281917%29_%2814596389968%29.jpg/960px-The_golden_days_of_the_early_English_church_from_the_arrival_of_Theodore_to_the_death_of_Bede_%281917%29_%2814596389968%29.jpg"
+name: Saint Maidoc
+image: >-
+  https://commons.wikimedia.org/wiki/Special:FilePath/The_golden_days_of_the_early_English_church_from_the_arrival_of_Theodore_to_the_death_of_Bede_%25281917%2529_%252814596389968%2529.jpg?width=600
 honorific: Saint
-title: "Bishop"
-summary: "Sixth-century bishop. Llanmadog, Wales is named in his honour."
+title: Bishop
+summary: Sixth-century bishop. Llanmadog, Wales is named in his honour.
 searchAliases:
-  - "Madoc"
-region: "England"
+  - Madoc
+region: England
 feastDay:
   month: 2
   day: 28

@@ -1,25 +1,30 @@
 ---
-name: "Venerable Carlo Tancredi Falletti di Barolo"
+name: Venerable Carlo Tancredi Falletti di Barolo
 honorific: Venerable
-summary: "Son of Ottavio Alessandro Falletti, the Marquess of Barolo, and Paolina d'Oncieu; he was the last descendant of the noble Falletti family. Carlo met Venerable Giulia Colbert while serving at the court of Napoleon I, and they were married in Paris, France on 18 August 1807. Made a"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ritratto_di_Carlo_Tancredi_Falletti_di_Barolo.png/960px-Ritratto_di_Carlo_Tancredi_Falletti_di_Barolo.png"
+summary: >-
+  Son of Ottavio Alessandro Falletti, the Marquess of Barolo, and Paolina d'Oncieu; he was the last descendant of the
+  noble Falletti family. Carlo met Venerable Giulia Colbert while serving at the court of Napoleon I, and they were
+  married in Paris, France on 18 August 1807. Made a
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto_di_Carlo_Tancredi_Falletti_di_Barolo.png?width=600
 searchAliases:
-  - "Carlo Ippolito Ernesto Tancredi Maria Falletti"
+  - Carlo Ippolito Ernesto Tancredi Maria Falletti
 birthYear: 1782
 deathYear: 1838
-born: "26 October 1782 on the family estate in Turin, Italy"
-died: "4 September 1838 in Chiari, Brescia, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Brescia, Italynatural causes"
-region: "France"
+born: 26 October 1782 on the family estate in Turin, Italy
+died: 4 September 1838 in Chiari, Brescia, Italy of natural causes
+birthPlace: Italy
+deathPlace: Brescia, Italynatural causes
+region: France
 feastDay:
   month: 8
   day: 18
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
 ---
 

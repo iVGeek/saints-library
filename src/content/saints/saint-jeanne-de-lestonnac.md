@@ -1,29 +1,31 @@
 ---
-name: "Saint Jeanne de Lestonnac"
+name: Saint Jeanne de Lestonnac
 honorific: Venerable
-summary: " Believing that her obligations to the world w Married Gaston de Montferrant, Baron of Landiras, in 1572 at age 16. Mother of seven, five of whom lived to adulthood; two of the five entered religious life. Widowed at age 41, she ran the affairs of her estate and castle by herself."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Saint_Jeanne_de_Lestonnac.jpg/960px-Saint_Jeanne_de_Lestonnac.jpg"
+summary: ' Believing that her obligations to the world w Married Gaston de Montferrant, Baron of Landiras, in 1572 at age 16. Mother of seven, five of whom lived to adulthood; two of the five entered religious life. Widowed at age 41, she ran the affairs of her estate and castle by herself.'
+image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Jeanne_de_Lestonnac.jpg?width=600
 searchAliases:
-  - "Jane de Lestonnac"
-  - "Joan de Lestonnac"
+  - Jane de Lestonnac
+  - Joan de Lestonnac
 birthYear: 1556
 deathYear: 1640
-born: "27 December 1556 at Bourdeaux, France"
-died: "2 February 1640 of natural causes"
-birthPlace: "France"
-region: "France"
+born: 27 December 1556 at Bourdeaux, France
+died: 2 February 1640 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 2
   day: 2
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 patronage:
-  - "abuse victims"
-  - "people rejected by religious orders"
-  - "widows"
+  - abuse victims
+  - people rejected by religious orders
+  - widows
 martyr: false
 ---
 

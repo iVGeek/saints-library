@@ -23,7 +23,7 @@ const season = liturgicalSeason(now);
 const todaySaints = saints.filter(
   (s) => s.data.feastDay.month === now.getMonth() + 1 && s.data.feastDay.day === now.getDate()
 );
-const saintOfDay = todaySaints[0];
+const saintOfDay = todaySaints[0] ?? featured; // Fallback to featured saint
 
 const upcoming = saints
   .filter((s) => !todaySaints.includes(s))

@@ -11,7 +11,6 @@ export default defineConfig({
   trailingSlash: 'never',
   integrations: [sitemap()],
   vite: {
-    // @ts-expect-error Astro and Tailwind ship different Vite patch versions
     plugins: [tailwindcss()],
   },
   markdown: {

@@ -23,12 +23,17 @@ function updateFile(file, fm) {
   fs.writeFileSync(path.join(SAINTS_DIR, file), newContent, 'utf8');
 }
 
-let lastReq = 0;
+let requestCount = 0;
+let windowStart = Date.now();
 async function limitedFetch(url) {
   const now = Date.now();
-  const wait = Math.max(0, 600 - (now - lastReq));
-  if (wait) await new Promise(r => setTimeout(r, wait));
-  lastReq = Date.now();
+  if (now - windowStart > 1000) { requestCount = 0; windowStart = now; }
+  if (requestCount >= 8) {
+    await new Promise(r => setTimeout(r, 150));
+    requestCount = 0;
+    windowStart = Date.now();
+  }
+  requestCount++;
   return fetch(url, { headers: { 'User-Agent': UA } });
 }
 
@@ -193,47 +198,58 @@ async function main() {
   console.log(`By status:`, statusCounts);
 
   const MAX = process.env.MAX ? parseInt(process.env.MAX, 10) : Infinity;
+  const CONCURRENCY = parseInt(process.env.CONC || '10', 10);
   const queue = todo.slice(0, MAX);
   let updated = progress.updated || 0;
   let notFound = progress.notFound || 0;
   let processed = 0;
+  let active = 0;
+  let idx = 0;
 
-  for (const item of queue) {
-    try {
-      const result = await findImage(item.name);
-      if (result) {
-        const filepath = path.join(SAINTS_DIR, item.file);
-        const content = fs.readFileSync(filepath, 'utf8');
-        const fm = parseFrontmatter(content);
-        if (!fm) { processedSet.add(item.file); processed++; continue; }
-
-        fm.image = result.url;
-        fm.imageAlt = fm.imageAlt || `Portrait of ${item.name}`;
-        fm.imageCredit = fm.imageCredit || result.credit;
-        fm.imageCreditUrl = fm.imageCreditUrl ||
-          (result.source === 'wikipedia'
-            ? `https://en.wikipedia.org/wiki/${encodeURIComponent(result.title)}`
-            : `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(result.title)}`);
-        updateFile(item.file, fm);
-        console.log(`  [ok] ${item.name} (${item.status}) <- ${result.source}`);
-        updated++;
-      } else {
-        console.log(`  [--] ${item.name} (${item.status}) not found`);
-        notFound++;
+  await new Promise((resolve) => {
+    function next() {
+      while (active < CONCURRENCY && idx < queue.length) {
+        const item = queue[idx++];
+        active++;
+        (async () => {
+          try {
+            const result = await findImage(item.name);
+            if (result) {
+              const filepath = path.join(SAINTS_DIR, item.file);
+              const content = fs.readFileSync(filepath, 'utf8');
+              const fm = parseFrontmatter(content);
+              if (fm) {
+                fm.image = result.url;
+                fm.imageAlt = fm.imageAlt || `Portrait of ${item.name}`;
+                fm.imageCredit = fm.imageCredit || result.credit;
+                fm.imageCreditUrl = fm.imageCreditUrl ||
+                  (result.source === 'wikipedia'
+                    ? `https://en.wikipedia.org/wiki/${encodeURIComponent(result.title)}`
+                    : `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(result.title)}`);
+                updateFile(item.file, fm);
+                console.log(`  [ok] ${item.name} <- ${result.source}`);
+                updated++;
+              }
+            } else {
+              notFound++;
+            }
+          } catch (e) {
+            notFound++;
+          }
+          processedSet.add(item.file);
+          processed++;
+          active--;
+          if (processed % 25 === 0) {
+            saveProgress({ processed: [...processedSet], updated, notFound });
+            console.log(`  ...${processed}/${queue.length} done, ${updated} ok, ${notFound} miss`);
+          }
+          if (active === 0 && idx >= queue.length) resolve();
+          else next();
+        })();
       }
-    } catch (e) {
-      console.log(`  [!!] ${item.name} error: ${e.message}`);
-      notFound++;
     }
-
-    processedSet.add(item.file);
-    processed++;
-
-    if (processed % 25 === 0) {
-      saveProgress({ processed: [...processedSet], updated, notFound });
-      console.log(`  ...progress: ${processed}/${queue.length}, updated: ${updated}, not found: ${notFound}`);
-    }
-  }
+    next();
+  });
 
   saveProgress({ processed: [...processedSet], updated, notFound });
   console.log(`\n=== DONE ===`);

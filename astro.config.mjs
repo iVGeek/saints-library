@@ -11,6 +11,7 @@ export default defineConfig({
   trailingSlash: 'never',
   integrations: [sitemap()],
   vite: {
+    // @ts-expect-error — Astro 5 Vite plugin type mismatch
     plugins: [tailwindcss()],
   },
   markdown: {

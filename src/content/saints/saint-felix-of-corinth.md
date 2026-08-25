@@ -1,10 +1,10 @@
 ---
-name: "Saint Felix of Corinth"
+name: Saint Felix of Corinth
 honorific: Saint
-summary: "Martyr."
-died: "Corinth, Greece"
-deathPlace: "Greece"
-region: "Greece"
+summary: Martyr.
+died: Corinth, Greece
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 7
   day: 20
@@ -12,6 +12,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b0/Felix_Finisterre_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Felix of Corinth
+imageCreditUrl: https://en.wikipedia.org/wiki/Felix%20Finisterre
 ---
 
 Martyr.

@@ -1,12 +1,14 @@
 ---
-name: "Saint Felix of Sigum"
+name: Saint Felix of Sigum
 honorific: Saint
-summary: "Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr."
+summary: >-
+  Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble
+  quarries in Sigum as punishment for being Christian. Martyr.
 searchAliases:
-  - "Felice"
+  - Felice
 deathYear: 257
-died: "worked to death c.257 in Sigum"
-region: "England"
+died: worked to death c.257 in Sigum
+region: England
 feastDay:
   month: 9
   day: 10
@@ -17,6 +19,10 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/27/Francesco_del_Cossa_014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
+imageAlt: Portrait of Saint Felix of Sigum
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Florian
 ---
 
 Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr.
